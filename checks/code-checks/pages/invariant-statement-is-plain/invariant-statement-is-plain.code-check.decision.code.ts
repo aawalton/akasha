@@ -89,6 +89,13 @@ export function statementsIn(path: string, text: string): readonly Stated[] {
   return every
 }
 
+function leadsToWhy(said: string, joined: RegExpExecArray, why: RegExpExecArray | null): boolean {
+  if (why === null) return false
+  const after = joined.index + joined[0].length
+  if (why.index < after) return false
+  return said.slice(after, why.index).trim() === ""
+}
+
 export function splitAt(one: Stated): Split | null {
   const said = scanned(one.text)
   const why = WHY.exec(said)
@@ -96,7 +103,9 @@ export function splitAt(one: Stated): Split | null {
   const two = TWO.exec(said)
   const every: readonly (readonly [number, Shape, string])[] = [
     why === null ? null : ([why.index, "why", why[0]] as const),
-    joined === null ? null : ([joined.index, "join", joined[0]] as const),
+    joined === null || leadsToWhy(said, joined, why)
+      ? null
+      : ([joined.index, "join", joined[0]] as const),
     two === null ? null : ([two.index + 1, "two", "."] as const),
   ].filter((held) => held !== null)
   let best: readonly [number, Shape, string] | null = null

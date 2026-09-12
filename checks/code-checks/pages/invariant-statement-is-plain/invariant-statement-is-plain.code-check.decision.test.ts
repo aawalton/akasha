@@ -134,6 +134,13 @@ test("the earliest mark in a statement is the one named", () => {
   expect(splitAt({ line: 1, text: "A page is named for its slug." })).toBeNull()
 })
 
+test("a mark a reason follows names the reason rather than the join", () => {
+  const body = paged(JSON.stringify("A page is named, because the slug says so."))
+  const said = marked(AT, body)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("states why at `because`")
+})
+
 test("a word merely carrying those letters is let through with the word read whole", () => {
   const body = paged(
     JSON.stringify("A reading is sincere."),

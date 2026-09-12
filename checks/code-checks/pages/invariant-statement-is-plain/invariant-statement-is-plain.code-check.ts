@@ -65,6 +65,10 @@ export const invariantStatementIsPlain = {
       invariantKind: "gap",
       statement: "Every invariant under akasha is plain.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A mark a reason follows is refused as a reason rather than as a join.",
+    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
