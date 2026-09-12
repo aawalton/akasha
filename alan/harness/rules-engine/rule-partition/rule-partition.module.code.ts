@@ -6,7 +6,7 @@ import {
   typeOf,
 } from "akasha/alan/harness/rules-engine/rule-conditions/rule-conditions.module.code.ts"
 
-export const CEILING = 500_000
+const CEILING = 500_000
 
 export interface Matchable {
   readonly relPath: string

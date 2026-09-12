@@ -13,7 +13,7 @@ const ADDRESS_HOLDS = 45
 
 const AGENT_HOLDS = 500
 
-export function consentNamed(e164: string, submittedAt: string): string {
+function consentNamed(e164: string, submittedAt: string): string {
   const digits = e164.replace(/\D/g, "")
   return `${CONSENT_PAGE_TYPE_SLUG}-${digits}-${submittedAt.slice(0, 10)}`
 }

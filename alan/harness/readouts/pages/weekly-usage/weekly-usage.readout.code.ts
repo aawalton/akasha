@@ -8,11 +8,11 @@ const SEVEN_DAY_PERCENT_USED = "seven-day-percent-used"
 const USAGE_UNKNOWN =
   "the claude accounts could not be read, so the weekly usage is unknown rather than nothing"
 
-export function weeklyUsageAsked(): Readonly<Record<string, unknown>> {
+function weeklyUsageAsked(): Readonly<Record<string, unknown>> {
   return { "page-type": CLAUDE_ACCOUNT, keys: [SEVEN_DAY_PERCENT_USED] }
 }
 
-export function meanUsedIn(rows: readonly Row[]): number | null {
+function meanUsedIn(rows: readonly Row[]): number | null {
   let total = 0
   let counted = 0
   for (const row of rows) {

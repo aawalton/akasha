@@ -156,14 +156,14 @@ export function transcriptsIn(store: string): readonly string[] {
   return found.sort()
 }
 
-export function transcriptsHere(): readonly string[] {
+function transcriptsHere(): readonly string[] {
   const base = textIn(process.env.CLAUDE_CONFIG_DIR) ?? join(homedir(), ".claude")
   return transcriptsIn(join(base, PROJECTS))
 }
 
 export type Filing = (root: string, day: string, counted: readonly Counted[]) => boolean
 
-export const FILING: Filing = (root, day, counted) => {
+const FILING: Filing = (root, day, counted) => {
   const page = dayPageAt(root, day)
   if (page === null) return false
   mergeUncommitted(root, page, { [PERSONA_MESSAGES]: counted })

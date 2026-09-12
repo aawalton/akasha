@@ -39,7 +39,7 @@ const contextSchema = z
   .passthrough()
   .nullable()
 
-export const playbackStateSchema = z
+const playbackStateSchema = z
   .object({
     device: deviceSchema,
     repeat_state: z.string(),
@@ -52,9 +52,9 @@ export const playbackStateSchema = z
   })
   .passthrough()
 
-export const devicesSchema = z.object({ devices: z.array(deviceSchema) }).passthrough()
+const devicesSchema = z.object({ devices: z.array(deviceSchema) }).passthrough()
 
-export const currentlyPlayingSchema = z
+const currentlyPlayingSchema = z
   .object({
     context: contextSchema,
     progress_ms: z.number().nullable(),
@@ -64,7 +64,7 @@ export const currentlyPlayingSchema = z
   })
   .passthrough()
 
-export const playHistorySchema = z
+const playHistorySchema = z
   .object({
     track: playerItemSchema,
     played_at: z.string(),
@@ -72,7 +72,7 @@ export const playHistorySchema = z
   })
   .passthrough()
 
-export const queueSchema = z
+const queueSchema = z
   .object({
     currently_playing: playerItemSchema.nullable(),
     queue: z.array(playerItemSchema),

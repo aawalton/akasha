@@ -29,7 +29,7 @@ export function normalizePhone(raw: string): string {
   return digits
 }
 
-export const relationshipSmsRowSchema = z.object({
+const relationshipSmsRowSchema = z.object({
   phone: z.string().optional(),
   accountUserId: z.string().optional(),
   smsAllowed: z.boolean().optional(),

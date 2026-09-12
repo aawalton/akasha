@@ -4,7 +4,7 @@ import { z } from "zod"
 const API_URL = "https://api.monarch.com/graphql"
 const ORIGIN = "https://app.monarch.com"
 
-export const WINDOW_DAYS = 365
+const WINDOW_DAYS = 365
 
 const SETTLED_ONLY = { isPending: false } as const
 

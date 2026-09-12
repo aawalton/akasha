@@ -58,7 +58,7 @@ function namingNoPage(address: string): string {
   return `\`${address}\` names no page here, so no code is there to load`
 }
 
-export function guardsNamedIn(world: World, address: string): readonly string[] {
+function guardsNamedIn(world: World, address: string): readonly string[] {
   const parts = partsOf(address)
   if (parts === null) return []
   const value = world.index.pageAt(parts[0], parts[1])
@@ -126,7 +126,7 @@ export function guardsOver(world: World, guards: readonly Guard[]): readonly Gua
   return [...new Set([...guards, ...(REACHED.get(world) ?? [])])]
 }
 
-export function untakenIn(given: unknown, takes: readonly string[] | undefined): string | null {
+function untakenIn(given: unknown, takes: readonly string[] | undefined): string | null {
   if (takes === undefined || typeof given !== "object" || given === null) return null
   const said = Object.keys(given).find((key) => !takes.includes(key))
   return said === undefined ? null : untaken(said, takes)
@@ -182,13 +182,13 @@ export async function ranBy(
   return guardedBy(world, said, guardsOver(world, loaded.guards), before)
 }
 
-export function targetIn(given: unknown): string | null {
+function targetIn(given: unknown): string | null {
   if (typeof given !== "object" || given === null) return null
   const held = (given as Record<string, unknown>)[AT] ?? (given as Record<string, unknown>)[FROM]
   return typeof held === "string" ? held : null
 }
 
-export function subtypeIn(world: World, address: string): string | null {
+function subtypeIn(world: World, address: string): string | null {
   const parts = partsOf(address)
   if (parts === null) return null
   const value = world.index.pageAt(parts[0], parts[1])
@@ -199,7 +199,7 @@ export function subtypeIn(world: World, address: string): string | null {
 
 const JUDGED = new WeakMap<World, Map<string, string | null>>()
 
-export function judgedIn(world: World, address: string): string | null {
+function judgedIn(world: World, address: string): string | null {
   const held = JUDGED.get(world)
   const before = held?.get(address)
   if (before !== undefined) return before

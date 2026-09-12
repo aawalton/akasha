@@ -32,7 +32,7 @@ async function rowsOf(query: Query, doing: string): Promise<readonly Values[]> {
   return asked.rows as readonly Values[]
 }
 
-export async function rungsOf(scaleSlug: string): Promise<readonly Rung[]> {
+async function rungsOf(scaleSlug: string): Promise<readonly Rung[]> {
   const rows = await rowsOf(
     {
       pageTypeSlug: READOUT_SCALE_PAGE_TYPE_SLUG,

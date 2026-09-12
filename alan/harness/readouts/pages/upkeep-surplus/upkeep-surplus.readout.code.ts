@@ -25,7 +25,7 @@ export function surplusIn(values: Readonly<Record<string, unknown>>): number | n
   return statedAt(values[SURPLUS_HOURS])
 }
 
-export function stillRunning(row: Readonly<Record<string, unknown>>): boolean {
+function stillRunning(row: Readonly<Record<string, unknown>>): boolean {
   const ended = row[END_TIME]
   return typeof ended !== "string" || ended.trim() === ""
 }

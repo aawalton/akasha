@@ -22,7 +22,7 @@ export const DAYS_AT = "alan/track/daily/days/pages/"
 
 export const FOOD_ENTRIES_AT = "alan/track/food-entries/pages/"
 
-export const TRACKED_AT: readonly string[] = [DAYS_AT, FOOD_ENTRIES_AT]
+const TRACKED_AT: readonly string[] = [DAYS_AT, FOOD_ENTRIES_AT]
 
 const PUT = "change-mechanical/add-file-of-any-kind"
 
@@ -72,7 +72,7 @@ export type Landing = (
   message: string
 ) => ReturnType<typeof runMechanicalChange>
 
-export function wroteIn(landed: Applied): readonly string[] {
+function wroteIn(landed: Applied): readonly string[] {
   return [
     ...landed.landed.map((one) => `landed ${one}`),
     ...landed.said,

@@ -20,11 +20,11 @@ import {
 
 const PRIOR_SCAN_LIMIT = 5
 
-export const TRACKING_WRITER = "tracking"
+const TRACKING_WRITER = "tracking"
 
-export const DAILY_TRACKING_VERSION = "3.0"
+const DAILY_TRACKING_VERSION = "3.0"
 
-export async function findOpenSession(_sb: PageAccessClient): Promise<Page | null> {
+async function findOpenSession(_sb: PageAccessClient): Promise<Page | null> {
   return openSession()
 }
 

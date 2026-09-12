@@ -71,7 +71,7 @@ export type World = {
   readonly reaching?: Reaching
 }
 
-export function facingIn(world: World): Facing {
+function facingIn(world: World): Facing {
   return {
     kindsUnder: (of) => world.index.kindsUnder(of),
     everyOfType: (kind) => world.index.everyOfType(kind),
@@ -96,7 +96,7 @@ export function turnsGenerated(one: FileChange, was: string | null, now: string 
   return was !== now
 }
 
-export function typedIn(world: World, path: string): string | null {
+function typedIn(world: World, path: string): string | null {
   const text = world.textOf(path)
   return text === null ? null : typeIn(text)
 }
@@ -121,7 +121,7 @@ export type Reached = {
   readonly world: World
 }
 
-export function carrying(world: World, said: Answer): World {
+function carrying(world: World, said: Answer): World {
   return isLedger(world) ? addedTo(world, said) : worldOver(world, said)
 }
 
@@ -190,18 +190,18 @@ export function holdingIn(world: World): (path: string) => boolean {
   return (path) => world.textOf(path) !== null
 }
 
-export function bytesOf(body: Held | null): Uint8Array | null {
+function bytesOf(body: Held | null): Uint8Array | null {
   return body === null || notText(body) ? null : BYTES.encode(body)
 }
 
-export function narrowed(bodyOf: BodyOf): (path: string) => string | null {
+function narrowed(bodyOf: BodyOf): (path: string) => string | null {
   return (path) => {
     const held = bodyOf(path)
     return held === null || notText(held) ? null : held
   }
 }
 
-export function replayedOver(said: Answer, bodyOf: BodyOf): Replayed {
+function replayedOver(said: Answer, bodyOf: BodyOf): Replayed {
   const held = replayed(said, bodyOf)
   if ("refused" in held) throw new Error(held.refused)
   return held
@@ -225,7 +225,7 @@ export function changeOver(root: string, said: Answer, textOf: BodyOf): Change {
   }
 }
 
-export function shadowOver(root: string, said: Answer, textOf: BodyOf): Cast {
+function shadowOver(root: string, said: Answer, textOf: BodyOf): Cast {
   return shadowFor(changeOver(root, said, textOf))
 }
 

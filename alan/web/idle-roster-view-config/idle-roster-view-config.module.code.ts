@@ -1,4 +1,4 @@
-export const ROSTER_VIEW_VISIBLE_PROPERTIES = [
+const ROSTER_VIEW_VISIBLE_PROPERTIES = [
   "starsDetail",
   "collected",
   "rank",

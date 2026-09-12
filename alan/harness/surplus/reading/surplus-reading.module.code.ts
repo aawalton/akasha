@@ -13,7 +13,7 @@ import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.
 
 export const READOUT_SLUG = "upkeep-surplus"
 
-export const NOTHING_TO_TAKE =
+const NOTHING_TO_TAKE =
   "no tracking day carries a surplus, so there is no reading to take. A tile showing no signal is " +
   "right where a tile showing hours Alan does not have would be a lie."
 

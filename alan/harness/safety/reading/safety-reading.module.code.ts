@@ -8,7 +8,7 @@ import { rootStated } from "akasha/commands/modules/rooting/rooting.module.code.
 
 export const READOUT_SLUG = "upkeep-safety"
 
-export const NOTHING_TO_TAKE =
+const NOTHING_TO_TAKE =
   "no open block carries a safety level, so there is no reading to take. A tile showing no signal " +
   "is right where a tile showing a level Alan is not at would be a lie."
 

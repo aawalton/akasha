@@ -1,6 +1,6 @@
 import { z } from "zod"
 
-export const UNRECOGNIZED = "unrecognized"
+const UNRECOGNIZED = "unrecognized"
 
 export interface VocabularyEntry {
   readonly value: string

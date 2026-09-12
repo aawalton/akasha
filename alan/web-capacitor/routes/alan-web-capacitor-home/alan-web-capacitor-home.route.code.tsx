@@ -22,7 +22,7 @@ export function meta() {
   return [{ title: "Home" }]
 }
 
-export function homeUnresolvedBecause(args: {
+function homeUnresolvedBecause(args: {
   navRowCount: number
   isDegraded: boolean
   error: Error | null

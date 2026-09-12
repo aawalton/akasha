@@ -16,7 +16,7 @@ const train10CardSchema = z.object({
   lockState: z.string(),
 })
 
-export function train10FromCard(ctx: ActionVerbContext): undefined {
+function train10FromCard(ctx: ActionVerbContext): undefined {
   const parsed = train10CardSchema.safeParse(ctx.data)
   if (!parsed.success) return
   const { cardSlug, lockState } = parsed.data
@@ -30,7 +30,7 @@ const train10PresentationSchema = z.object({
   lockState: z.string(),
 })
 
-export function train10Presentation(ctx: ActionVerbContext): ActionPresentation {
+function train10Presentation(ctx: ActionVerbContext): ActionPresentation {
   const parsed = train10PresentationSchema.safeParse(ctx.data)
   if (!parsed.success) return {}
   const { train10Cost, train10Affordable, lockState } = parsed.data

@@ -21,13 +21,13 @@ const SOURCE_KEYS = {
 
 const PERSONA_KEY = "persona"
 
-export const PERSONA_ASKING: Query = {
+const PERSONA_ASKING: Query = {
   pageTypeSlug: PERSONA_PAGE_TYPE_SLUG,
   keys: [...PERSONA_KEYS],
   sortBy: "slug",
 }
 
-export const POINTS_SOURCE_ASKING: Query = {
+const POINTS_SOURCE_ASKING: Query = {
   pageTypeSlug: POINTS_SOURCE_PAGE_TYPE_SLUG,
   keys: [PERSONA_KEY, ...Object.keys(SOURCE_KEYS)],
   sortBy: "slug",

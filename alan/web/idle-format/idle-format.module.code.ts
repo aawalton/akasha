@@ -1,4 +1,4 @@
-export function pct(fraction: number): number {
+function pct(fraction: number): number {
   return Number.isFinite(fraction) ? Math.round(fraction * 100) : 0
 }
 

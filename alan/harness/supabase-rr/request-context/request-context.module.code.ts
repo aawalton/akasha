@@ -20,7 +20,7 @@ export type AnonymousRequestContext = { authenticated: false; headers: Headers }
 
 export type RequestContext = AuthenticatedRequestContext | AnonymousRequestContext
 
-export async function bearerRequestContext(request: Request): Promise<RequestContext | null> {
+async function bearerRequestContext(request: Request): Promise<RequestContext | null> {
   const token = parseBearerToken(request.headers.get("authorization"))
   if (token === null) return null
   const { user } = await getUserFromBearerToken(token)
@@ -33,7 +33,7 @@ export async function bearerRequestContext(request: Request): Promise<RequestCon
   }
 }
 
-export async function sessionRequestContext(request: Request): Promise<RequestContext> {
+async function sessionRequestContext(request: Request): Promise<RequestContext> {
   const { user, headers } = await getUser(request)
   if (user == null) return { authenticated: false, headers }
   const { supabase, headers: dbHeaders } = createServerClient(request)

@@ -21,7 +21,7 @@ async function askRows(
   return asked.answer.rows
 }
 
-export function nameOfAt(at: string): string {
+function nameOfAt(at: string): string {
   const withoutRepo = at.slice(at.indexOf(":") + 1)
   return withoutRepo.endsWith(".md") ? withoutRepo.slice(0, -".md".length) : withoutRepo
 }

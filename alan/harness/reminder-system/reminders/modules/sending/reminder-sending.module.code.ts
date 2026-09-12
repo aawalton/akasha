@@ -84,11 +84,11 @@ export function armFor(root: string, path: string, ms: number): undefined {
   mergeUncommitted(root, path, { [NEXT_AT]: new Date(ms).toISOString() })
 }
 
-export function tookSaid(path: string): string {
+function tookSaid(path: string): string {
   return `${path}, taken away because the reminder it held had sent`
 }
 
-export function forgotSaid(path: string): string {
+function forgotSaid(path: string): string {
   return `the values kept beside ${path}, taken away with it`
 }
 

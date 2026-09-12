@@ -84,7 +84,7 @@ function closing(text: string, at: number): number {
   return shut < 0 ? text.length : shut
 }
 
-export function windowed(text: string, from: number, to: number): readonly [number, number] {
+function windowed(text: string, from: number, to: number): readonly [number, number] {
   let start = opening(text, from)
   let shut = closing(text, to)
   while (!onlyOnce(text, text.slice(start, shut))) {

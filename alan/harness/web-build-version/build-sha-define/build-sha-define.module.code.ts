@@ -6,7 +6,7 @@ import { said } from "akasha/utils/run/running/running.module.code.ts"
 
 export type BuildShaDefine = Record<string, string>
 
-export function headShaAt(root: string): string | null {
+function headShaAt(root: string): string | null {
   let done: string
   try {
     done = said(["git", "-C", root, "rev-parse", "HEAD"])

@@ -26,7 +26,7 @@ export interface SessionPointsPlan {
   readonly outcomes: readonly SessionTotalsOutcome[]
 }
 
-export function planSessionPointsWrites(
+function planSessionPointsWrites(
   total: number,
   personas: readonly z.infer<typeof PersonaSessionRowSchema>[]
 ): SessionPointsPlan {
@@ -50,7 +50,7 @@ export function planPersonaSessionWrite(
   return planSessionPointsWrites(total, [persona])
 }
 
-export function resolveSessionPointsForValue(
+function resolveSessionPointsForValue(
   row: Readonly<Record<string, ReadonlyJSONValue>>,
   pointsPropId: string
 ): number {
@@ -66,16 +66,14 @@ export function sumSessionPointsForValue(
   return total
 }
 
-export function sessionStartTime(
-  row: Readonly<Record<string, ReadonlyJSONValue>>
-): Date | undefined {
+function sessionStartTime(row: Readonly<Record<string, ReadonlyJSONValue>>): Date | undefined {
   const raw = row["startTime"]
   if (typeof raw !== "string") return undefined
   const d = new Date(raw)
   return Number.isNaN(d.getTime()) ? undefined : d
 }
 
-export function filterSessionsInWindow(
+function filterSessionsInWindow(
   rows: readonly Readonly<Record<string, ReadonlyJSONValue>>[],
   window: { readonly start: Date; readonly end: Date }
 ): readonly Readonly<Record<string, ReadonlyJSONValue>>[] {
@@ -89,7 +87,7 @@ export function filterSessionsInWindow(
   })
 }
 
-export function sumSessionPointsForWindow(
+function sumSessionPointsForWindow(
   rows: readonly Readonly<Record<string, ReadonlyJSONValue>>[],
   pointsPropId: string,
   window: { readonly start: Date; readonly end: Date }

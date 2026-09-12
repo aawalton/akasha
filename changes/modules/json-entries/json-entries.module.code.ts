@@ -55,7 +55,7 @@ export function goneSpan(text: string, node: ts.Node, after: boolean): Splice {
   return { from: after ? from : commaBefore(text, from), to, put: "" }
 }
 
-export function goneFrom(
+function goneFrom(
   text: string,
   held: ts.ObjectLiteralExpression,
   dropping: ReadonlySet<string>

@@ -10,7 +10,7 @@ import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.
 
 export const READOUT_SLUG = "upkeep-sleep"
 
-export const NOTHING_TO_TAKE =
+const NOTHING_TO_TAKE =
   "no tracking day carries a sleep, so there is no reading to take. A tile showing no signal is " +
   "right where a tile showing a night Alan did not have would be a lie."
 

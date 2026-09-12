@@ -101,7 +101,7 @@ export const meta: Route.MetaFunction = () => [
   { name: "description", content: "Alan Walton — unified workspace" },
 ]
 
-export async function loader({ request, context }: Route.LoaderArgs) {
+async function loader({ request, context }: Route.LoaderArgs) {
   return guardedRootData(request, AUTH_CONFIG, context.nonce)
 }
 

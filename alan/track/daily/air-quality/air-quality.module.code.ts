@@ -35,7 +35,7 @@ export interface OutdoorAssessment {
   readonly headline: string
 }
 
-export const PROVO: ResolvedLocation = {
+const PROVO: ResolvedLocation = {
   label: "Provo, UT",
   latitude: 40.2338,
   longitude: -111.6585,
@@ -45,7 +45,7 @@ export const LOCATION_PRESETS: Readonly<Record<string, ResolvedLocation>> = {
   provo: PROVO,
 }
 
-export const CATEGORY_LABEL: Readonly<Record<AqiCategory, string>> = {
+const CATEGORY_LABEL: Readonly<Record<AqiCategory, string>> = {
   good: "Good",
   moderate: "Moderate",
   "unhealthy-sensitive": "Unhealthy for Sensitive Groups",
@@ -54,7 +54,7 @@ export const CATEGORY_LABEL: Readonly<Record<AqiCategory, string>> = {
   hazardous: "Hazardous",
 }
 
-export const POLLUTANT_LABEL: Readonly<Record<Pollutant, string>> = {
+const POLLUTANT_LABEL: Readonly<Record<Pollutant, string>> = {
   pm2_5: "PM2.5",
   pm10: "PM10",
   o3: "ozone",
@@ -67,7 +67,7 @@ const POLLUTANT_PRIORITY: readonly Pollutant[] = ["pm2_5", "pm10", "o3", "no2", 
 
 const SOURCE_LABEL = "Open-Meteo (US AQI, EPA breakpoints)"
 
-export function aqiCategory(aqi: number): AqiCategory {
+function aqiCategory(aqi: number): AqiCategory {
   if (aqi <= 50) return "good"
   if (aqi <= 100) return "moderate"
   if (aqi <= 150) return "unhealthy-sensitive"
@@ -76,7 +76,7 @@ export function aqiCategory(aqi: number): AqiCategory {
   return "hazardous"
 }
 
-export function dominantPollutant(subIndices: Readonly<Record<Pollutant, number>>): Pollutant {
+function dominantPollutant(subIndices: Readonly<Record<Pollutant, number>>): Pollutant {
   let best: Pollutant = "pm2_5"
   let bestVal = Number.NEGATIVE_INFINITY
   for (const pollutant of POLLUTANT_PRIORITY) {

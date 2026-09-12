@@ -7,14 +7,14 @@ import {
 } from "akasha/alan/music/spotify/token-store/spotify-token-store.module.code.ts"
 import { z } from "zod"
 
-export const TOKEN_URL = "https://accounts.spotify.com/api/token"
+const TOKEN_URL = "https://accounts.spotify.com/api/token"
 
 const EXPIRY_BUFFER_MS = 60_000
 
 const NOT_AUTHORIZED =
   "spotify: no token is stored — give consent first by running the `spotify-auth-cli` module"
 
-export const tokenResponseSchema = z
+const tokenResponseSchema = z
   .object({
     access_token: z.string(),
     token_type: z.string(),

@@ -4,7 +4,7 @@ import { createServiceRoleClient } from "akasha/alan/harness/supabase-server/ser
 
 export const DEFAULT_THROWAWAY_EMAIL = "browser-test@throwaway.alanwalton.com"
 
-export const IDLE_DEV_THROWAWAY_EMAIL = "idle-dev-throwaway@alanwalton.com"
+const IDLE_DEV_THROWAWAY_EMAIL = "idle-dev-throwaway@alanwalton.com"
 
 const CANONICAL_SEEDED_EMAILS: readonly string[] = [
   DEFAULT_THROWAWAY_EMAIL,
@@ -17,7 +17,7 @@ function isCanonicalSeededEmail(email: string): boolean {
 
 const CANONICAL_ROTATION_ACK_FLAG = "--i-understand-this-breaks-the-fleet"
 
-export function assertCanonicalRotationAllowed(params: {
+function assertCanonicalRotationAllowed(params: {
   readonly email: string
   readonly resetPassword: boolean
   readonly acknowledgeCanonicalRotation: boolean
@@ -55,11 +55,11 @@ interface EnsureThrowawayUserOptions {
   readonly acknowledgeCanonicalRotation?: boolean
 }
 
-export function rotatedSaid(email: string): string {
+function rotatedSaid(email: string): string {
   return `the password ${email} signs in with, rotated at Supabase`
 }
 
-export function mintedSaid(email: string): string {
+function mintedSaid(email: string): string {
   return `${email}, a user made at Supabase, which nothing here takes away again`
 }
 

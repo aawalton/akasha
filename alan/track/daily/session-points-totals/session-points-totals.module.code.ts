@@ -17,17 +17,17 @@ export interface PersonaSessionSpec {
   readonly pointsPropId: string
 }
 
-export const VISUAL_ARTS_SESSION_SPEC: PersonaSessionSpec = {
+const VISUAL_ARTS_SESSION_SPEC: PersonaSessionSpec = {
   personaSlug: "zeli",
   pointsPropId: "visual-arts-points",
 }
 
-export const PRAYER_SESSION_SPEC: PersonaSessionSpec = {
+const PRAYER_SESSION_SPEC: PersonaSessionSpec = {
   personaSlug: "selah",
   pointsPropId: "prayer-points",
 }
 
-export const ROMANCE_SESSION_SPEC: PersonaSessionSpec = {
+const ROMANCE_SESSION_SPEC: PersonaSessionSpec = {
   personaSlug: "ruby",
   pointsPropId: "romance-points",
 }
@@ -50,9 +50,7 @@ async function loadAllSessionRows(): Promise<
   return rows.map((row) => row.values as Readonly<Record<string, ReadonlyJSONValue>>)
 }
 
-export async function readSessionPointsSource(
-  spec: PersonaSessionSpec
-): Promise<SessionPointsSource> {
+async function readSessionPointsSource(spec: PersonaSessionSpec): Promise<SessionPointsSource> {
   const [rows, undeclared] = await Promise.all([
     loadAllSessionRows(),
     sessionPropertyUndeclared(spec.pointsPropId),

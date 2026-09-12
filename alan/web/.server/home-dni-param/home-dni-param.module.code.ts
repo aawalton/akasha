@@ -9,7 +9,7 @@ const EVERY_NAV_ITEM: Query = {
   keys: ["slug", "id"],
 }
 
-export function homeNavItemIdIn(asked: Asked): string | null {
+function homeNavItemIdIn(asked: Asked): string | null {
   if ("refused" in asked) {
     throw new Error(`${HOME_NAV_ITEM} went unread: ${asked.refused}`)
   }

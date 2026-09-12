@@ -1,4 +1,4 @@
-export const SENDER_FOOTER_MARKER = "— inbound web channel"
+const SENDER_FOOTER_MARKER = "— inbound web channel"
 
 export interface InboundSender {
   readonly accountUserId: string

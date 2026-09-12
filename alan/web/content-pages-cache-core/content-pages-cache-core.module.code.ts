@@ -1,7 +1,7 @@
 import { asPage, type Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
 import { z } from "zod"
 
-export const ContentPageIndexSchema = z
+const ContentPageIndexSchema = z
   .object({
     version: z.literal(1),
     ids: z.array(z.string()),
@@ -21,7 +21,7 @@ export const EMPTY_CONTENT_PAGE_INDEX: ContentPageIndex = {
 
 export const MAX_UNPINNED_CACHED_BODIES = 200
 
-export const PersistedContentPageSchema = z
+const PersistedContentPageSchema = z
   .object({
     id: z.string(),
     seq: z.number().nullable().optional(),

@@ -68,7 +68,7 @@ function addressesFor(
   )
 }
 
-export function bodyFor(addresses: readonly Address[]): string {
+function bodyFor(addresses: readonly Address[]): string {
   const lines = [
     "export type Changes = {",
     ...addresses.map(

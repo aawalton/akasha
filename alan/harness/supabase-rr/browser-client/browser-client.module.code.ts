@@ -25,9 +25,7 @@ function currentProtocol(): string | undefined {
   return typeof window !== "undefined" ? window.location.protocol : undefined
 }
 
-export function createBrowserClient(
-  options: CreateBrowserClientOptions = {}
-): SupabaseBrowserClient {
+function createBrowserClient(options: CreateBrowserClientOptions = {}): SupabaseBrowserClient {
   const url = options.url ?? OPTIONAL_ENV_SCHEMA.parse(import.meta.env.VITE_SUPABASE_URL)
   const anonKey =
     options.anonKey ?? OPTIONAL_ENV_SCHEMA.parse(import.meta.env.VITE_SUPABASE_ANON_KEY)

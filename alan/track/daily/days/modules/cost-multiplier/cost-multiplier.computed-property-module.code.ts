@@ -1,4 +1,4 @@
-export function levelIn(held: unknown): number | null {
+function levelIn(held: unknown): number | null {
   if (typeof held === "number") return Number.isFinite(held) ? held : null
   if (typeof held !== "string" || held.trim() === "") return null
   const said = Number(held)

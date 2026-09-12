@@ -16,7 +16,7 @@ import {
 
 const TOKEN_TTL_MS = 60 * 60 * 1000
 
-export function buildMediaTokenResponse(input: {
+function buildMediaTokenResponse(input: {
   user: { id: string } | null
   pageId: string
   medium: string

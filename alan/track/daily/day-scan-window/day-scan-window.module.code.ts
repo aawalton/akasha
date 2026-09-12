@@ -4,7 +4,7 @@ export const SOURCE_POINTS_FIELD = "sourcePoints"
 
 export const WRITER = "daily-tracking"
 
-export const TRACKING_SCAN_DAYS = 14
+const TRACKING_SCAN_DAYS = 14
 
 export const TRACKING_SCAN_DAY_OFFSETS: readonly number[] = Array.from(
   { length: TRACKING_SCAN_DAYS },

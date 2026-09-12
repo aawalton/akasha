@@ -21,7 +21,7 @@ export interface NavCommand {
   href: string
 }
 
-export function internalNavCommands(): readonly NavCommand[] {
+function internalNavCommands(): readonly NavCommand[] {
   const sections = [getNavItemProducts(), navItemContent, navItemTech]
   const fromSidebar = sections
     .flatMap((section) => section.children ?? [])

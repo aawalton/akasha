@@ -9,7 +9,7 @@ export interface Field {
   readonly filler?: string
 }
 
-export const COMPARISONS: Readonly<Record<FieldType, readonly string[]>> = {
+const COMPARISONS: Readonly<Record<FieldType, readonly string[]>> = {
   text: ["is", "starts with", "ends with", "contains"],
   number: ["is", "is above"],
   date: ["is", "on or after"],
@@ -17,7 +17,7 @@ export const COMPARISONS: Readonly<Record<FieldType, readonly string[]>> = {
   list: ["contains"],
 }
 
-export const NEGATIONS: Readonly<Record<string, string>> = {
+const NEGATIONS: Readonly<Record<string, string>> = {
   is: "is not",
   "starts with": "does not start with",
   "ends with": "does not end with",
@@ -120,7 +120,7 @@ export function typeOf(ruleSet: RuleSet, name: string): FieldType | null {
   return ruleSet.fields.find((one) => one.name === name)?.type ?? null
 }
 
-export function comparisonsFor(ruleSet: RuleSet, name: string): readonly string[] {
+function comparisonsFor(ruleSet: RuleSet, name: string): readonly string[] {
   const type = typeOf(ruleSet, name)
   return type === null ? [] : COMPARISONS[type]
 }

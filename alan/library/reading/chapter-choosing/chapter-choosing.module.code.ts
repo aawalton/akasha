@@ -12,7 +12,7 @@ import {
   type SelectOptions,
 } from "akasha/alan/library/reading/shapes/reading-shapes.module.code.ts"
 
-export const LIKED_RATINGS: ReadonlySet<LitrpgRating> = new Set<LitrpgRating>([
+const LIKED_RATINGS: ReadonlySet<LitrpgRating> = new Set<LitrpgRating>([
   "B-",
   "B",
   "B+",
@@ -24,24 +24,24 @@ export const LIKED_RATINGS: ReadonlySet<LitrpgRating> = new Set<LitrpgRating>([
   "S+",
 ])
 
-export const EXCLUDED_STATUSES: ReadonlySet<string> = new Set([
+const EXCLUDED_STATUSES: ReadonlySet<string> = new Set([
   "Completed",
   "Archived",
   "Paused",
   "Not Applicable",
 ])
-export const IN_PROGRESS_STATUSES: ReadonlySet<string> = new Set(["Following", "In Progress"])
-export const ARCHIVED_STATUS = "Archived"
+const IN_PROGRESS_STATUSES: ReadonlySet<string> = new Set(["Following", "In Progress"])
+const ARCHIVED_STATUS = "Archived"
 
-export function isLiked(grade: LitrpgRating | undefined): boolean {
+function isLiked(grade: LitrpgRating | undefined): boolean {
   return grade !== undefined && LIKED_RATINGS.has(grade)
 }
 
-export function gradeValue(grade: LitrpgRating | undefined): number {
+function gradeValue(grade: LitrpgRating | undefined): number {
   return grade === undefined ? -1 : LITRPG_RATINGS.indexOf(grade)
 }
 
-export function compareChapters(a: LitrpgChapter, b: LitrpgChapter): number {
+function compareChapters(a: LitrpgChapter, b: LitrpgChapter): number {
   const na = a.chapterNumber ?? Number.POSITIVE_INFINITY
   const nb = b.chapterNumber ?? Number.POSITIVE_INFINITY
   if (na !== nb) return na - nb
@@ -49,7 +49,7 @@ export function compareChapters(a: LitrpgChapter, b: LitrpgChapter): number {
   return a.id < b.id ? -1 : a.id > b.id ? 1 : 0
 }
 
-export function isFullyRead(c: LitrpgChapter): boolean {
+function isFullyRead(c: LitrpgChapter): boolean {
   return c.completedAt != null
 }
 
@@ -63,7 +63,7 @@ export function buildChaptersByStory(catalog: LitrpgCatalog): Map<string, Litrpg
   return map
 }
 
-export function hasGradeSignal(
+function hasGradeSignal(
   story: LitrpgStory,
   chaptersByStory: ReadonlyMap<string, readonly LitrpgChapter[]>
 ): boolean {
@@ -85,7 +85,7 @@ export function storyPool(
   return hasGradeSignal(story, chaptersByStory) ? "in-progress" : "exploration"
 }
 
-export function resumeFloor(
+function resumeFloor(
   story: LitrpgStory,
   chaptersByStory: ReadonlyMap<string, readonly LitrpgChapter[]>
 ): number | null {
@@ -146,7 +146,7 @@ export function storyIsLiked(
   return chapters.some((c) => isLiked(c.grade))
 }
 
-export function loveScore(
+function loveScore(
   story: LitrpgStory,
   chaptersByStory: ReadonlyMap<string, readonly LitrpgChapter[]>
 ): number {

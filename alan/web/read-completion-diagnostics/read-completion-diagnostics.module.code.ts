@@ -15,7 +15,7 @@ export interface ReadCompletionReport {
   errorUserId: null
 }
 
-export function buildReadCompletionReport(
+function buildReadCompletionReport(
   reason: ReadCompletionDiagReason,
   detail?: string
 ): ReadCompletionReport {

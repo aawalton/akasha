@@ -9,11 +9,11 @@ export type CreateServiceRoleClientOptions = {
   requestTimeoutMs?: number
 }
 
-export const DEFAULT_REQUEST_TIMEOUT_MS = 30_000
+const DEFAULT_REQUEST_TIMEOUT_MS = 30_000
 
 type FetchLike = (input: string | URL | Request, init?: RequestInit) => Promise<Response>
 
-export function makeTimeoutFetch(timeoutMs: number, baseFetch: FetchLike = fetch): FetchLike {
+function makeTimeoutFetch(timeoutMs: number, baseFetch: FetchLike = fetch): FetchLike {
   return (input, init) => {
     const timeoutSignal = AbortSignal.timeout(timeoutMs)
     const signal =
@@ -22,9 +22,9 @@ export function makeTimeoutFetch(timeoutMs: number, baseFetch: FetchLike = fetch
   }
 }
 
-export const ERROR_BODY_SUMMARY_CHARS = 200
+const ERROR_BODY_SUMMARY_CHARS = 200
 
-export function makeErrorBodySummaryFetch(baseFetch: FetchLike): FetchLike {
+function makeErrorBodySummaryFetch(baseFetch: FetchLike): FetchLike {
   return async (input, init) => {
     const res = await baseFetch(input, init)
     if (res.ok) return res
@@ -44,7 +44,7 @@ export function makeErrorBodySummaryFetch(baseFetch: FetchLike): FetchLike {
   }
 }
 
-export function graftPreconnect(
+function graftPreconnect(
   wrapped: FetchLike,
   baseFetch: FetchLike & { preconnect?: typeof fetch.preconnect } = fetch
 ): typeof fetch {

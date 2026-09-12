@@ -6,7 +6,7 @@ import {
   registerReorderVerb,
 } from "akasha/pages/ui/reorder-verbs/reorder-verb-registry/reorder-verb-registry.module.code.ts"
 
-export function reorderLineup(ctx: ReorderVerbContext): undefined {
+function reorderLineup(ctx: ReorderVerbContext): undefined {
   const team = idleGameStore.getSnapshot().state?.activeTeam ?? []
   const next = reorderTeam(team, ctx.fromIndex, ctx.toIndex)
   if (next === team) return

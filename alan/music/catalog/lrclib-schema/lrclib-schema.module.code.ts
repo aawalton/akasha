@@ -1,6 +1,6 @@
 import { z } from "zod"
 
-export const lrclibRecordSchema = z.object({
+const lrclibRecordSchema = z.object({
   id: z.number(),
   trackName: z.string(),
   artistName: z.string(),

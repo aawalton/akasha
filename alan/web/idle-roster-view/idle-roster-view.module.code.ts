@@ -66,7 +66,7 @@ export function deriveVariantIds(card: GirlCardVM): readonly string[] {
   return baseId === null ? union : union.filter((id) => id !== baseId)
 }
 
-export function deriveVariantCounts(card: GirlCardVM): { collected: number; total: number } {
+function deriveVariantCounts(card: GirlCardVM): { collected: number; total: number } {
   const ids = deriveVariantIds(card)
   const owned = new Set(card.images)
   return { collected: ids.filter((id) => owned.has(id)).length, total: ids.length }

@@ -19,13 +19,7 @@ function imageSrc(id: string): string {
   return `/api/image/${id}`
 }
 
-export function RevealCallout({
-  reveal,
-  onDismiss,
-}: {
-  reveal: DrawReveal
-  onDismiss: () => void
-}) {
+function RevealCallout({ reveal, onDismiss }: { reveal: DrawReveal; onDismiss: () => void }) {
   const surface = useSurface()
   const headline = reveal.isNewImage ? "New variant!" : "Duplicate → +fuel"
   return (

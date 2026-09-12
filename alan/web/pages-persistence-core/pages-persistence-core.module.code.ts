@@ -3,7 +3,7 @@ import { PageRowSchema } from "akasha/pages/ui-store/realtime/payload-translator
 import { ShapeResumeStateSchema } from "akasha/pages/ui-store/realtime/shape-meta/shape-meta.module.code.ts"
 import { z } from "zod"
 
-export const PersistedPagesSnapshotSchema = z
+const PersistedPagesSnapshotSchema = z
   .object({
     version: z.literal(1),
     rows: z.array(PageRowSchema),

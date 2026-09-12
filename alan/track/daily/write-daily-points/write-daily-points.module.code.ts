@@ -7,7 +7,7 @@ import { dayByDate } from "akasha/alan/track/daily/day-reading/day-reading.modul
 
 export type WriteOutcome = "patched" | "created" | "unchanged"
 
-export const POINTS_WRITER = "daily-tracking-points"
+const POINTS_WRITER = "daily-tracking-points"
 
 const DAILY_TRACKING_VERSION = "3.0"
 
@@ -22,7 +22,7 @@ const DAY_KEY_OF: Readonly<Record<string, string>> = {
   intelligenceTopics: "intelligence-topics",
 }
 
-export function alreadyCarried(held: Page | null, field: string, value: number): boolean {
+function alreadyCarried(held: Page | null, field: string, value: number): boolean {
   if (held === null) return false
   const carried = held[field]
   return typeof carried === "number" && carried === value

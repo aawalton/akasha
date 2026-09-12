@@ -13,7 +13,7 @@ import { z } from "zod"
 
 const coverCardSchema = z.object({ cardSlug: z.string().min(1), lockState: z.string() }).partial()
 
-export function openRosterGalleryFromCover(ctx: CoverClickContext): undefined {
+function openRosterGalleryFromCover(ctx: CoverClickContext): undefined {
   const parsed = coverCardSchema.safeParse(ctx.data)
   if (!parsed.success) return
   const { cardSlug, lockState } = parsed.data
@@ -23,7 +23,7 @@ export function openRosterGalleryFromCover(ctx: CoverClickContext): undefined {
 
 registerCoverClickHandler(ROSTER_GALLERY_CAPABILITY, openRosterGalleryFromCover)
 
-export function maskLockedRosterCover(ctx: CoverClickContext): string | null {
+function maskLockedRosterCover(ctx: CoverClickContext): string | null {
   const parsed = coverCardSchema.safeParse(ctx.data)
   if (!parsed.success) return "⚿"
   return parsed.data.lockState === IDLE_LOCK_STATE_UNLOCKED ? null : "⚿"

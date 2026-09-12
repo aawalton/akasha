@@ -14,9 +14,9 @@ const BASE_URL = "https://musicbrainz.org/ws/2"
 
 const USER_AGENT = "temper-collections-music/0.1 ( aawalton@gmail.com )"
 
-export const RATE_LIMIT_MS = 1100
+const RATE_LIMIT_MS = 1100
 
-export const BROWSE_PAGE_SIZE = 100
+const BROWSE_PAGE_SIZE = 100
 
 const enqueue = pacedQueue(RATE_LIMIT_MS)
 

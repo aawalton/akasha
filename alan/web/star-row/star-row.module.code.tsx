@@ -1,4 +1,4 @@
-export const MAX_STARS = 5
+const MAX_STARS = 5
 
 export function StarRow({ stars }: { stars: number }) {
   const filled = Math.max(0, Math.min(MAX_STARS, stars))

@@ -27,7 +27,7 @@ type ReaderPlayFromSentenceInput = {
   readonly sentenceMarks?: readonly SentenceMark[]
 }
 
-export function useReaderPlayFromSentence(
+function useReaderPlayFromSentence(
   input: ReaderPlayFromSentenceInput
 ): (sentenceIndex: number) => void {
   const location = useLocation()

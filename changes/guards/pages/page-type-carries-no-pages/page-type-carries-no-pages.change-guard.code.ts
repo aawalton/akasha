@@ -11,7 +11,7 @@ import { typeSlugIn } from "akasha/pages/file-name/page-file-name.module.code.ts
 
 const NAMED = 5
 
-export function carryingIn(given: Guarding, slug: string): readonly string[] {
+function carryingIn(given: Guarding, slug: string): readonly string[] {
   return given.before.index
     .everyOfType(slug)
     .map((one) => one.path)
@@ -23,7 +23,7 @@ function countSaid(count: number): string {
   return count === 1 ? "1 page, which goes first" : `${count} pages, which go first`
 }
 
-export function carrySaid(slug: string, carrying: readonly string[]): string {
+function carrySaid(slug: string, carrying: readonly string[]): string {
   const named = carrying.slice(0, NAMED).join(", ")
   const rest = carrying.length > NAMED ? `, and ${carrying.length - NAMED} more` : ""
   return `\`${slug}\` is the page type of ${countSaid(carrying.length)} — ${named}${rest}`

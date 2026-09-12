@@ -43,7 +43,7 @@ function numberOf(said: unknown): number {
   return typeof said === "number" && Number.isFinite(said) ? said : 0
 }
 
-export function orderOf(at: string): string {
+function orderOf(at: string): string {
   const above = at.split("/").at(-2)
   return above === undefined || above === "" ? at : above
 }
@@ -63,7 +63,7 @@ function pathsIn(root: string): ReadonlyMap<string, string> {
   return found
 }
 
-export function rowsIn(root: string): readonly Row[] {
+function rowsIn(root: string): readonly Row[] {
   const asked = asking(root, { pageTypeSlug: TOPIC })
   if ("refused" in asked) return failing(asked.refused)
   const paths = pathsIn(root)
@@ -86,7 +86,7 @@ export function rowsIn(root: string): readonly Row[] {
   })
 }
 
-export function treeOf(rows: readonly Row[]): Topic {
+function treeOf(rows: readonly Row[]): Topic {
   const roots = rows.filter((one) => one.parent === null)
   const first = roots[0]
   if (roots.length !== 1 || first === undefined) {

@@ -63,7 +63,7 @@ export function createServerClient(
   return { supabase, headers }
 }
 
-export function bearerScopedClientOptions(token: string): {
+function bearerScopedClientOptions(token: string): {
   global: { headers: { Authorization: string } }
   auth: { persistSession: false; autoRefreshToken: false; detectSessionInUrl: false }
 } {

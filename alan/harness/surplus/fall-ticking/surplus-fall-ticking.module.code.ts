@@ -22,13 +22,13 @@ export const WORKER_NAME = "surplus-fall-notifier"
 
 export const LOG = `${WORKER_NAME}:`
 
-export const GROUP_SLUG = "surplus"
+const GROUP_SLUG = "surplus"
 
-export const KIND = "surplus-fall"
+const KIND = "surplus-fall"
 
 export const SOURCE_PREFIX = "surplus-fall/"
 
-export const SAID_AT_ONCE = 50
+const SAID_AT_ONCE = 50
 
 export const TICK_MS = 300_000
 
@@ -52,7 +52,7 @@ export function tierInSource(said: unknown): TierColor | null {
   return isTierColor(held) ? held : null
 }
 
-export async function tierSaidOn(day: string): Promise<TierColor | null> {
+async function tierSaidOn(day: string): Promise<TierColor | null> {
   const said = await newestOfKind(KIND, SAID_AT_ONCE)
   let worst: TierColor | null = null
   for (const one of said) {
@@ -73,11 +73,7 @@ async function tierOrNull(
   return held === null ? null : tierAt(held, readout.rungs)
 }
 
-export async function runSurplusFallTick(
-  day: string,
-  writer: string,
-  signal: AbortSignal
-): Promise<void> {
+async function runSurplusFallTick(day: string, writer: string, signal: AbortSignal): Promise<void> {
   const readout = await resolveOneReadout(GROUP_SLUG)
   const [current, opening] = await Promise.all([
     tierOrNull(readout, readReading(day)),

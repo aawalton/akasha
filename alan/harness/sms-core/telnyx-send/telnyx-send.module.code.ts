@@ -30,7 +30,7 @@ export function buildTelnyxSendRequest(args: BuildTelnyxSendArgs): TelnyxSendReq
   }
 }
 
-export const telnyxSendResponseSchema = z
+const telnyxSendResponseSchema = z
   .object({
     data: z
       .object({

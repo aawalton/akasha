@@ -29,7 +29,7 @@ import type {
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { z } from "zod"
 
-export const actionIntentSchema = z.discriminatedUnion("type", [
+const actionIntentSchema = z.discriminatedUnion("type", [
   z.object({ type: z.literal("train"), slug: z.string() }),
   z.object({ type: z.literal("train10"), slug: z.string() }),
   z.object({ type: z.literal("trainMax"), slug: z.string() }),

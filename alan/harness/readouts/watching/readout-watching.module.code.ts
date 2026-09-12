@@ -19,7 +19,7 @@ import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 export const SETTLE_MS = 250
 
-export const ENDING_GRACE_MS = 10_000
+const ENDING_GRACE_MS = 10_000
 
 export type WatchLogger = (level: "INFO" | "ERROR", message: string) => undefined
 
@@ -83,7 +83,7 @@ export function holdsAny(watched: readonly WatchedReadout[]): (at: string) => bo
   return (at) => watched.some((one) => one.holds(at))
 }
 
-export function valuesFollowedIn(root: string): string {
+function valuesFollowedIn(root: string): string {
   return join(root, indexNamed(), indexValue.name)
 }
 
@@ -91,7 +91,7 @@ export function valueFileOf(root: string, pageTypeSlug: string): string {
   return join(root, indexNamed(), fileFor(pageTypeSlug))
 }
 
-export function valuesRead(root: string, one: WatchedReadout): ReadonlySet<string> {
+function valuesRead(root: string, one: WatchedReadout): ReadonlySet<string> {
   return new Set((one.pageTypes ?? []).map((slug) => valueFileOf(root, slug)))
 }
 
@@ -101,26 +101,26 @@ export function valuesOf(root: string, watched: readonly WatchedReadout[]): Read
   return held
 }
 
-export function unfollowedSaid(at: string): string {
+function unfollowedSaid(at: string): string {
   return (
     `'${at}' cannot be followed, so nothing read from it is taken again until this watch ` +
     "starts over"
   )
 }
 
-export function uncarriedSaid(page: string, to: string, thrown: unknown): string {
+function uncarriedSaid(page: string, to: string, thrown: unknown): string {
   return `the reading of '${readoutNamedBy(page)}' was not carried to ${to}: ${saidBy(thrown)}`
 }
 
-export function takenSaid(page: string, value: number): string {
+function takenSaid(page: string, value: number): string {
   return `${readoutNamedBy(page)}=${value}`
 }
 
-export function unbeatenSaid(thrown: unknown): string {
+function unbeatenSaid(thrown: unknown): string {
   return `the round of takes landed and saying so did not: ${saidBy(thrown)}`
 }
 
-export function carryReading(
+function carryReading(
   to: string,
   secret: string,
   page: string,
@@ -131,7 +131,7 @@ export function carryReading(
   return relayReading(to, secret, { readout: readoutNamedBy(page), value, at, fallsPerHour })
 }
 
-export function fallsPerHourKept(root: string, page: string): number {
+function fallsPerHourKept(root: string, page: string): number {
   return readingKept(root, page)?.fallsPerHour ?? NOT_FALLING
 }
 

@@ -17,7 +17,7 @@ import { askingFor } from "akasha/pages/service/page-calling/page-calling.module
 
 const READOUT = "readout"
 
-export const NO_READING = { ok: false, error: "No reading." } as const
+const NO_READING = { ok: false, error: "No reading." } as const
 
 export type RingAdmission = (request: Request) => Response | null | Promise<Response | null>
 

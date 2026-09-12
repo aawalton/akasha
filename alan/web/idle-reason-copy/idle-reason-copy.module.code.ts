@@ -1,4 +1,4 @@
-export const REASON_COPY: Record<string, string> = {
+const REASON_COPY: Record<string, string> = {
   insufficient: "Not enough moments",
   "not-owned": "Not recruited yet",
   "already-owned": "Already recruited",

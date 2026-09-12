@@ -20,19 +20,19 @@ const COMPLETION_TO_DO_SLUG = "toDoSlug"
 const COMPLETION_VALUE_SLUG = "valueSlug"
 const COMPLETION_AT = "completedAt"
 
-export const DIFFICULTY_POINTS: Record<string, number> = {
+const DIFFICULTY_POINTS: Record<string, number> = {
   trivial: 25,
   light: 50,
   hard: 100,
   major: 250,
 }
 
-export function pointsForDifficulty(difficulty: unknown): number {
+function pointsForDifficulty(difficulty: unknown): number {
   if (typeof difficulty !== "string") return 0
   return DIFFICULTY_POINTS[difficulty] ?? 0
 }
 
-export function sumTaskPoints(difficulties: readonly unknown[]): number {
+function sumTaskPoints(difficulties: readonly unknown[]): number {
   let total = 0
   for (const difficulty of difficulties) total += pointsForDifficulty(difficulty)
   return total
@@ -43,9 +43,7 @@ export type TaskCompletion = {
   readonly completedAt: string
 }
 
-export function collapseToOncePerTask(
-  completions: readonly TaskCompletion[]
-): readonly TaskCompletion[] {
+function collapseToOncePerTask(completions: readonly TaskCompletion[]): readonly TaskCompletion[] {
   const seen = new Set<string>()
   const out: TaskCompletion[] = []
   for (const completion of completions) {
@@ -56,7 +54,7 @@ export function collapseToOncePerTask(
   return out
 }
 
-export function filterCompletionsToWindow(
+function filterCompletionsToWindow(
   completions: readonly TaskCompletion[],
   startIso: string,
   endIso: string
@@ -77,7 +75,7 @@ export interface HealthRollupRows {
   readonly difficultyPool: readonly RollupRow[]
 }
 
-export function computeHealthTaskPointsForWindow(
+function computeHealthTaskPointsForWindow(
   rows: HealthRollupRows,
   startIso: string,
   endIso: string

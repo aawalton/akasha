@@ -33,7 +33,7 @@ export type Reading = {
   readonly fallsPerHour: number
 }
 
-export function fallsPerHourOn(values: Readonly<Record<string, unknown>>): number {
+function fallsPerHourOn(values: Readonly<Record<string, unknown>>): number {
   const falls = values[LAST_VALUE_FALLS_PER_HOUR]
   return typeof falls === "number" && Number.isFinite(falls) ? falls : NOT_FALLING
 }

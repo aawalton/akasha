@@ -10,7 +10,7 @@ export type TimeRange = (typeof TIME_RANGES)[number]
 
 const PAGE_LIMIT = 50
 
-export const topArtistSchema = z
+const topArtistSchema = z
   .object({
     id: z.string(),
     name: z.string(),
@@ -24,7 +24,7 @@ export const topArtistSchema = z
 
 export type TopArtist = z.infer<typeof topArtistSchema>
 
-export const topTrackSchema = z
+const topTrackSchema = z
   .object({
     id: z.string(),
     name: z.string(),

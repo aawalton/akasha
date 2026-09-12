@@ -14,10 +14,10 @@ export type UsageWidgetPayload = {
   tier: UsageTier
 }
 
-export const MEAN_WEEKLY_USED = "the fleet's seven-day spend"
-export const NEXT_FIVE_HOUR_BACK = "the next five-hour window to come back"
-export const NEXT_SEVEN_DAY_BACK = "the next seven-day window to come back"
-export const NEXT_SEVEN_DAY_END = "the next seven-day window to end"
+const MEAN_WEEKLY_USED = "the fleet's seven-day spend"
+const NEXT_FIVE_HOUR_BACK = "the next five-hour window to come back"
+const NEXT_SEVEN_DAY_BACK = "the next seven-day window to come back"
+const NEXT_SEVEN_DAY_END = "the next seven-day window to end"
 
 export const ACCOUNT = "claude-account"
 const SLUG = "slug"

@@ -8,7 +8,7 @@ const BASE_URL = "https://lrclib.net/api"
 
 const USER_AGENT = "temper-collections-music/0.1 ( aawalton@gmail.com )"
 
-export const RATE_LIMIT_MS = 250
+const RATE_LIMIT_MS = 250
 
 const enqueue = pacedQueue(RATE_LIMIT_MS)
 

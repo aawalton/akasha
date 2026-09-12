@@ -361,7 +361,7 @@ export function worldIn(root: string, address: string): World {
   return worldAt(root, textIn(root), running(address))
 }
 
-export function taking(address: string): Reaching {
+function taking(address: string): Reaching {
   return (_world, at, given) => {
     if (at === address) {
       const asked = given as { readonly at: string }

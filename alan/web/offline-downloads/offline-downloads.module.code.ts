@@ -77,7 +77,7 @@ async function writeIndex(index: DownloadIndex): Promise<void> {
   })
 }
 
-export async function upsertEntry(entry: DownloadEntry): Promise<void> {
+async function upsertEntry(entry: DownloadEntry): Promise<void> {
   const index = await readIndex()
   const entries = index.entries.filter((e) => e.id !== entry.id)
   entries.push(entry)

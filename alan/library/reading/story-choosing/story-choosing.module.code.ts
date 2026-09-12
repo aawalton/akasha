@@ -17,10 +17,7 @@ import type {
   SelectOptions,
 } from "akasha/alan/library/reading/shapes/reading-shapes.module.code.ts"
 
-export function selectNextStory(
-  catalog: LitrpgCatalog,
-  options: SelectOptions = {}
-): LitrpgStory | null {
+function selectNextStory(catalog: LitrpgCatalog, options: SelectOptions = {}): LitrpgStory | null {
   const chaptersByStory = buildChaptersByStory(catalog)
   const candidates = catalog.stories.filter(
     (s) =>

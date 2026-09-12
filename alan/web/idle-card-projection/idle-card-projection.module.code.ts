@@ -51,7 +51,7 @@ export type IdleCardProjection = {
   readonly attributes: IdleCardAttributes
 }
 
-export function projectedCoverUrl(card: GirlCardVM, personaCover: string | undefined): string {
+function projectedCoverUrl(card: GirlCardVM, personaCover: string | undefined): string {
   if (card.locked) return ""
   if (card.frontImageId !== null) return `/api/image/${card.frontImageId}`
   if (personaCover !== undefined && personaCover.length > 0) return personaCover
@@ -66,7 +66,7 @@ function titleWriteFor(
   return priorTitle === desired ? undefined : desired
 }
 
-export function lockFlagsFor(
+function lockFlagsFor(
   card: GirlCardVM,
   seatIdx: number | null,
   lockInputs: LockInputs | undefined

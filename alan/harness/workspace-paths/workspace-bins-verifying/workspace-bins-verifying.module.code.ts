@@ -14,7 +14,7 @@ export type BinsVerdict = {
   readonly said: string
 }
 
-export function binsVerdictAt(repoRoot: string): BinsVerdict {
+function binsVerdictAt(repoRoot: string): BinsVerdict {
   const expected = expectedWorkspaceBinNames(repoRoot)
   const binDir = join(repoRoot, "node_modules", ".bin")
   const present = new Set<string>(existsSync(binDir) ? readdirSync(binDir) : [])

@@ -59,7 +59,7 @@ export type Dangling = {
   readonly target: string | null
 }
 
-export function danglingIn(repoRoot: string, tsconfigPath: string): readonly Dangling[] {
+function danglingIn(repoRoot: string, tsconfigPath: string): readonly Dangling[] {
   const text = readFileSync(join(repoRoot, tsconfigPath), "utf-8")
   const stated = statedIn(tsconfigPath, text)
   if (stated === null) return []
@@ -78,7 +78,7 @@ export function danglingOver(repoRoot: string): readonly Dangling[] {
 
 export type Span = { readonly start: number; readonly end: number }
 
-export function listEntrySpan(text: string, node: ts.Node): Span {
+function listEntrySpan(text: string, node: ts.Node): Span {
   const end = node.getEnd()
   let at = end
   while (at < text.length) {
@@ -89,7 +89,7 @@ export function listEntrySpan(text: string, node: ts.Node): Span {
   return { start: node.getFullStart(), end }
 }
 
-export function reachingBack(text: string, from: number): number {
+function reachingBack(text: string, from: number): number {
   let at = from - 1
   while (at >= 0) {
     if (text[at] === ",") return at
@@ -112,7 +112,7 @@ function listedIn(source: ts.JsonSourceFile, key: string): ts.ArrayLiteralExpres
   return null
 }
 
-export function statedBy(node: ts.Node): string | null {
+function statedBy(node: ts.Node): string | null {
   if (!ts.isObjectLiteralExpression(node)) return null
   for (const one of node.properties) {
     if (!ts.isPropertyAssignment(one) || !ts.isStringLiteral(one.name)) continue

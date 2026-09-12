@@ -2,7 +2,7 @@ export const MAX_SPEECH_CHARS = 800
 
 export const MAX_SPEECH_SEGMENTS = 500
 
-export const CONTINUOUS_CHUNK_CHARS = 1500
+const CONTINUOUS_CHUNK_CHARS = 1500
 
 function flatten(content: string): string {
   return content

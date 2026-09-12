@@ -5,7 +5,7 @@ import dynamicIconImports from "lucide-react/dynamicIconImports"
 
 export const NAV_ICON_ACCENT = yellow.hex
 
-export const NAV_ICON_STROKE_WIDTH = 2
+const NAV_ICON_STROKE_WIDTH = 2
 
 type IconKey = keyof typeof dynamicIconImports
 

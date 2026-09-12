@@ -1,13 +1,13 @@
 import { stat } from "node:fs/promises"
 import { join } from "node:path"
 
-export const IMMUTABLE_CACHE_CONTROL = "public, max-age=31536000, immutable"
+const IMMUTABLE_CACHE_CONTROL = "public, max-age=31536000, immutable"
 
-export const SHORT_CACHE_CONTROL = "public, max-age=3600"
+const SHORT_CACHE_CONTROL = "public, max-age=3600"
 
-export const NO_STORE_CACHE_CONTROL = "no-store"
+const NO_STORE_CACHE_CONTROL = "no-store"
 
-export const HTML_DEFAULT_CACHE_CONTROL = "private, no-store"
+const HTML_DEFAULT_CACHE_CONTROL = "private, no-store"
 
 async function serveFile(path: string, cacheControl: string): Promise<Response | null> {
   const file = Bun.file(path)

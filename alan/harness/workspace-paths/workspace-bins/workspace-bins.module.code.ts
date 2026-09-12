@@ -10,7 +10,7 @@ const WORKSPACE_MANIFEST_SCHEMA = z
   })
   .passthrough()
 
-export function binNamesFromManifest(
+function binNamesFromManifest(
   pkg: Pick<z.infer<typeof WORKSPACE_MANIFEST_SCHEMA>, "name" | "bin">
 ): readonly string[] {
   const bin = pkg.bin

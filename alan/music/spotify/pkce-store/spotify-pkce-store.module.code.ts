@@ -11,7 +11,7 @@ const FILE_NAME = "pkce.json"
 
 const NAMED = "PKCE handoff"
 
-export const PkceHandoffSchema = z
+const PkceHandoffSchema = z
   .object({
     verifier: z.string().min(1),
   })

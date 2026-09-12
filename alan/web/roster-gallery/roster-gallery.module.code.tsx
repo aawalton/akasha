@@ -42,7 +42,7 @@ function imageSrc(id: string): string {
 
 type GalleryActions = Pick<IdleActions, "selectImage" | "error">
 
-export function GalleryGrid({
+function GalleryGrid({
   card,
   actions,
   onClose,
@@ -157,7 +157,7 @@ export function GalleryGrid({
   )
 }
 
-export function RosterGalleryModal({ slug, onClose }: { slug: string; onClose: () => void }) {
+function RosterGalleryModal({ slug, onClose }: { slug: string; onClose: () => void }) {
   const snap = useSyncExternalStore(
     idleGameStore.subscribe,
     idleGameStore.getSnapshot,

@@ -15,7 +15,7 @@ const lockCardSchema = z
   })
   .partial()
 
-export function lockPresentation(ctx: ActionVerbContext): ActionPresentation {
+function lockPresentation(ctx: ActionVerbContext): ActionPresentation {
   const parsed = lockCardSchema.safeParse(ctx.data)
   const locked = parsed.success && parsed.data.specializeLocked === true
   const eligible = parsed.success && parsed.data.lockEligible === true
@@ -26,7 +26,7 @@ export function lockPresentation(ctx: ActionVerbContext): ActionPresentation {
   }
 }
 
-export function lockFromCard(ctx: ActionVerbContext): undefined {
+function lockFromCard(ctx: ActionVerbContext): undefined {
   const parsed = lockCardSchema.safeParse(ctx.data)
   if (!parsed.success || parsed.data.cardSlug === undefined) return
   const { cardSlug, specializeLocked, lockEligible } = parsed.data

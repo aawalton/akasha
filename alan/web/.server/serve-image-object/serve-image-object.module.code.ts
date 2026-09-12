@@ -6,7 +6,7 @@ export interface ResolvedImage {
   readonly etag?: string
 }
 
-export function ifNoneMatchSatisfied(header: string | null, etag: string): boolean {
+function ifNoneMatchSatisfied(header: string | null, etag: string): boolean {
   if (header == null) return false
   return header.split(",").some((candidate) => candidate.trim() === etag)
 }

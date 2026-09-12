@@ -58,7 +58,7 @@ function saidIn(held: unknown): string | undefined {
   return typeof held === "string" && held !== "" ? held : undefined
 }
 
-export function answeredByCarrier(rawBody: string): boolean {
+function answeredByCarrier(rawBody: string): boolean {
   let parsed: ReturnType<typeof telnyxWebhookSchema.safeParse>
   try {
     parsed = telnyxWebhookSchema.safeParse(JSON.parse(rawBody))
@@ -71,7 +71,7 @@ export function answeredByCarrier(rawBody: string): boolean {
   return CARRIER_ANSWERS.includes(sms.text.trim().toLowerCase())
 }
 
-export function identitiesIn(rows: readonly Row[]): readonly SmsExternalIdentity[] {
+function identitiesIn(rows: readonly Row[]): readonly SmsExternalIdentity[] {
   return projectSmsIdentities(
     rows.map((row) => ({
       phone: saidIn(row.relationshipPhone),

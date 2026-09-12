@@ -9,7 +9,7 @@ import type { ComposedQuery } from "akasha/pages/query/store-questioning/store-q
 import { askComposed } from "akasha/pages/query/store-spelled-asking/store-spelled-asking.module.code.ts"
 import { z } from "zod"
 
-export const CHAPTER_TYPE_BY_STORY_TYPE: Readonly<Record<string, string>> = {
+const CHAPTER_TYPE_BY_STORY_TYPE: Readonly<Record<string, string>> = {
   "story-read": "story-chapter-read",
   "story-played": "story-chapter-played",
   "story-written": "story-chapter-written",
@@ -91,7 +91,7 @@ const storyRefSchema = z
   ])
   .catch("")
 
-export function storyRelId(raw: unknown): string {
+function storyRelId(raw: unknown): string {
   const parsed = storyRefSchema.parse(raw)
   const first = Array.isArray(parsed) ? parsed[0] : parsed
   if (first === undefined || first === "") return ""
@@ -125,7 +125,7 @@ const chapterRowSchema = z
   })
   .passthrough()
 
-export function rowToLitrpgStory(row: Record<string, unknown>): LitrpgStory {
+function rowToLitrpgStory(row: Record<string, unknown>): LitrpgStory {
   const parsed = storyRowSchema.parse(row)
   const grade = coerceGrade(parsed.grade)
   return {
@@ -140,7 +140,7 @@ export function rowToLitrpgStory(row: Record<string, unknown>): LitrpgStory {
   }
 }
 
-export function rowToLitrpgChapter(row: Record<string, unknown>): LitrpgChapter {
+function rowToLitrpgChapter(row: Record<string, unknown>): LitrpgChapter {
   const parsed = chapterRowSchema.parse(row)
   const grade = coerceGrade(parsed.grade)
   return {
@@ -156,7 +156,7 @@ export function rowToLitrpgChapter(row: Record<string, unknown>): LitrpgChapter 
   }
 }
 
-export function buildStoryCatalog(
+function buildStoryCatalog(
   storyRow: Record<string, unknown> | null,
   chapterRows: readonly Record<string, unknown>[]
 ): LitrpgCatalog {
@@ -182,7 +182,7 @@ async function findStoryById(
   return null
 }
 
-export function partOfShapes(storyType: string, slug: string): readonly string[] {
+function partOfShapes(storyType: string, slug: string): readonly string[] {
   return slug === "" ? [] : [`${storyType}/${slug}`, slug]
 }
 

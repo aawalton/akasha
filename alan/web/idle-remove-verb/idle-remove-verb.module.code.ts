@@ -9,7 +9,7 @@ import { z } from "zod"
 
 const removeCardSchema = z.object({ cardSlug: z.string().min(1) }).partial()
 
-export function removeFromCard(ctx: ActionVerbContext): undefined {
+function removeFromCard(ctx: ActionVerbContext): undefined {
   const parsed = removeCardSchema.safeParse(ctx.data)
   if (!parsed.success || parsed.data.cardSlug === undefined) return
   const cardSlug = parsed.data.cardSlug

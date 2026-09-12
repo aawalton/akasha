@@ -2,9 +2,9 @@ import type { ViewDataJSON } from "akasha/pages/core/schema/view-data/view-data.
 
 export const IDLE_REORDER_VERB_ID = "idle-lineup-reorder"
 
-export const LINEUP_SEAT_INDEX_PROPERTY_ID = "seatIndex"
+const LINEUP_SEAT_INDEX_PROPERTY_ID = "seatIndex"
 
-export const LINEUP_VIEW_VISIBLE_PROPERTIES = [
+const LINEUP_VIEW_VISIBLE_PROPERTIES = [
   "starsDetail",
   "collected",
   "rank",

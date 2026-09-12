@@ -1,6 +1,6 @@
 import { getPages } from "akasha/pages/access/get/get.module.code.ts"
 
-export const PROBE_PAGE_TYPE = "page-type"
+const PROBE_PAGE_TYPE = "page-type"
 
 const WHY_CAP = 300
 

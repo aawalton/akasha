@@ -28,7 +28,7 @@ const EVERY_PERSONA_VOICE: Query = {
   keys: ["slug", "voiceReferenceSha256"],
 }
 
-export function withKokoroFallback(
+function withKokoroFallback(
   variants: readonly MediaVariant[],
   defaultVariant: string | null,
   storedReadAloud: boolean
@@ -41,7 +41,7 @@ export function withKokoroFallback(
   }
 }
 
-export function voicedPersonasIn(asked: Asked): readonly string[] {
+function voicedPersonasIn(asked: Asked): readonly string[] {
   if ("refused" in asked) {
     throw new Error(`${VOICED_PERSONAS} went unread: ${asked.refused}`)
   }

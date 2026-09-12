@@ -15,7 +15,7 @@ import { pageOf } from "akasha/alan/track/daily/track-pages/track-pages.module.c
 import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import { camelizeKey } from "akasha/utils/slug/camelize-key/camelize-key.module.code.ts"
 
-export const MAX_DAY_SESSIONS = 200
+const MAX_DAY_SESSIONS = 200
 
 const SESSIONS = "sessions"
 

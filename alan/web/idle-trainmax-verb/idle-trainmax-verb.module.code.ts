@@ -16,7 +16,7 @@ const trainMaxCardSchema = z.object({
   lockState: z.string(),
 })
 
-export function trainMaxFromCard(ctx: ActionVerbContext): undefined {
+function trainMaxFromCard(ctx: ActionVerbContext): undefined {
   const parsed = trainMaxCardSchema.safeParse(ctx.data)
   if (!parsed.success) return
   const { cardSlug, lockState } = parsed.data
@@ -30,7 +30,7 @@ const trainMaxPresentationSchema = z.object({
   lockState: z.string(),
 })
 
-export function trainMaxPresentation(ctx: ActionVerbContext): ActionPresentation {
+function trainMaxPresentation(ctx: ActionVerbContext): ActionPresentation {
   const parsed = trainMaxPresentationSchema.safeParse(ctx.data)
   if (!parsed.success) return {}
   const { trainMaxCount, trainMaxCost, lockState } = parsed.data

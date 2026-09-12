@@ -178,7 +178,7 @@ export const SIBLING_BACK = `${SIBLING}
 export const FIRST = searchOf(1)
 `
 
-export const SIBLING_TYPED = `export type Held = {
+const SIBLING_TYPED = `export type Held = {
   readonly one: number
 }
 

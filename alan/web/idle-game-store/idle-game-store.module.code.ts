@@ -42,7 +42,7 @@ export type IdleGameStoreDeps = {
 
 const DEFAULT_PERSIST_DEBOUNCE_MS = 3000
 
-export function createIdleGameStore(deps: IdleGameStoreDeps = {}): IdleGameStore {
+function createIdleGameStore(deps: IdleGameStoreDeps = {}): IdleGameStore {
   const doFetch: IdleFetch = deps.fetch ?? apiFetch
   const now = deps.now ?? (() => Date.now())
   const persistDebounceMs = deps.persistDebounceMs ?? DEFAULT_PERSIST_DEBOUNCE_MS

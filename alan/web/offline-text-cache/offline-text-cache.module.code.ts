@@ -1,6 +1,6 @@
 import { z } from "zod"
 
-export const CachedChapterSchema = z
+const CachedChapterSchema = z
   .object({
     pageId: z.string(),
     storyId: z.string(),
@@ -13,7 +13,7 @@ export const CachedChapterSchema = z
   })
   .strict()
 
-export const CacheIndexSchema = z
+const CacheIndexSchema = z
   .object({
     version: z.literal(2),
     chapters: z.array(CachedChapterSchema),
@@ -54,7 +54,7 @@ function chapterLengths(index: CacheIndex): Map<string, number> {
   return lengths
 }
 
-export const QueuedCompletionSchema = z
+const QueuedCompletionSchema = z
   .object({
     pageId: z.string(),
     completedAt: z.string(),
@@ -63,7 +63,7 @@ export const QueuedCompletionSchema = z
   })
   .strict()
 
-export const CompletionQueueSchema = z
+const CompletionQueueSchema = z
   .object({
     version: z.literal(2),
     entries: z.array(QueuedCompletionSchema),
@@ -173,7 +173,7 @@ export function removeQueuedCompletions(
   return { version: 2, entries: queue.entries.filter((e) => !synced.has(e.pageId)) }
 }
 
-export const QueuedPositionSchema = z
+const QueuedPositionSchema = z
   .object({
     pageId: z.string(),
     progress: z.number(),
@@ -181,7 +181,7 @@ export const QueuedPositionSchema = z
   })
   .strict()
 
-export const PositionStoreSchema = z
+const PositionStoreSchema = z
   .object({
     version: z.literal(2),
     entries: z.array(QueuedPositionSchema),

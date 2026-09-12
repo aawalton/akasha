@@ -39,7 +39,7 @@ export function askDayByDate(dayStr: string): Promise<Answered> {
   return Promise.resolve(dayAnswered({ date: { is: dayStr } }, undefined))
 }
 
-export function askDayById(dailyId: string): Promise<Answered> {
+function askDayById(dailyId: string): Promise<Answered> {
   return Promise.resolve(dayAnswered({ id: { is: dailyId } }, undefined))
 }
 

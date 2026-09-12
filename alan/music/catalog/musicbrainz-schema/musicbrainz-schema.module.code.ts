@@ -1,6 +1,6 @@
 import { z } from "zod"
 
-export const mbArtistSearchHitSchema = z.object({
+const mbArtistSearchHitSchema = z.object({
   id: z.string(),
   name: z.string(),
   type: z.string().nullish(),
@@ -14,7 +14,7 @@ export const mbArtistSearchSchema = z.object({
   artists: z.array(mbArtistSearchHitSchema).default([]),
 })
 
-export const mbGenreSchema = z.object({
+const mbGenreSchema = z.object({
   name: z.string(),
   count: z.number().nullish(),
 })
@@ -38,7 +38,7 @@ const mbRelationWorkSchema = z.object({
   disambiguation: z.string().nullish(),
 })
 
-export const mbRelationSchema = z.object({
+const mbRelationSchema = z.object({
   type: z.string(),
   direction: z.string().nullish(),
   "target-type": z.string().nullish(),
@@ -46,7 +46,7 @@ export const mbRelationSchema = z.object({
   work: mbRelationWorkSchema.nullish(),
 })
 
-export const mbWorkSchema = z.object({
+const mbWorkSchema = z.object({
   id: z.string(),
   title: z.string(),
   type: z.string().nullish(),
@@ -60,7 +60,7 @@ export const mbWorkBrowseSchema = z.object({
   works: z.array(mbWorkSchema).default([]),
 })
 
-export const mbRecordingSchema = z.object({
+const mbRecordingSchema = z.object({
   id: z.string(),
   title: z.string().nullish(),
   relations: z.array(mbRelationSchema).default([]),

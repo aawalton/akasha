@@ -22,7 +22,7 @@ const RUNGS: readonly (readonly [string, TierColor])[] = [
   ["blueAt", "blue"],
 ]
 
-export const MOST_PLACES = 1
+const MOST_PLACES = 1
 
 export function statedAt(value: unknown): number | null {
   if (typeof value === "number") return Number.isFinite(value) ? value : null
@@ -118,7 +118,7 @@ export function tierAt(reading: number, rungs: readonly Rung[]): Tiered | null {
   return null
 }
 
-export function withoutSignedZero(said: number): number {
+function withoutSignedZero(said: number): number {
   return said === 0 ? 0 : said
 }
 

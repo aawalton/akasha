@@ -7,7 +7,7 @@ import {
 } from "akasha/alan/music/spotify/client/spotify-client.module.code.ts"
 import { z } from "zod"
 
-export const SEARCH_TYPES = [
+const SEARCH_TYPES = [
   "album",
   "artist",
   "playlist",

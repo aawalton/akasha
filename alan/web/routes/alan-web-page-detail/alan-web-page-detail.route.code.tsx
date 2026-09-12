@@ -23,7 +23,7 @@ const IdleGame = lazy(() => import("akasha/alan/web/idle-game/idle-game.module.c
 
 const ChessBoard = lazy(() => import("akasha/alan/chess/board/chess-board.module.code.tsx"))
 
-export function buildPageDetailMeta(
+function buildPageDetailMeta(
   loaderData: { title: string | null; faviconIdSuffix: string | null } | undefined
 ): MetaDescriptor[] {
   if (loaderData == null) return [{ title: "Alan Walton" }]
@@ -57,7 +57,7 @@ function changedSearchParamKeys(current: URL, next: URL): Set<string> {
   return keys
 }
 
-export function shouldRevalidatePageDetail(args: {
+function shouldRevalidatePageDetail(args: {
   currentUrl: URL
   nextUrl: URL
   defaultShouldRevalidate: boolean

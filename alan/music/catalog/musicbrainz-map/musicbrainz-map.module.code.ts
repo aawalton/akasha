@@ -52,15 +52,15 @@ const MUSICBRAINZ_BASE = "https://musicbrainz.org"
 
 const DEFAULT_MAX_GENRES = 8
 
-export function artistExternalLink(mbid: string): string {
+function artistExternalLink(mbid: string): string {
   return `${MUSICBRAINZ_BASE}/artist/${mbid}`
 }
 
-export function workExternalLink(mbid: string): string {
+function workExternalLink(mbid: string): string {
   return `${MUSICBRAINZ_BASE}/work/${mbid}`
 }
 
-export function recordingExternalLink(mbid: string): string {
+function recordingExternalLink(mbid: string): string {
   return `${MUSICBRAINZ_BASE}/recording/${mbid}`
 }
 

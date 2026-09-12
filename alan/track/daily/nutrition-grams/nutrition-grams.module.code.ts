@@ -13,7 +13,7 @@ const HAPPENED_AT = "happenedAt"
 
 const PLANT_GRAMS = "plantGrams"
 
-export function sumPlantGrams(rows: readonly Readonly<Record<string, unknown>>[]): number {
+function sumPlantGrams(rows: readonly Readonly<Record<string, unknown>>[]): number {
   let total = 0
   for (const row of rows) total += numberOf(row[PLANT_GRAMS]) ?? 0
   return total
