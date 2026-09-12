@@ -9,6 +9,7 @@ import {
   liveSessionHolds,
 } from "akasha/agents/seats/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts"
 import { DEFAULT_ACCOUNT } from "akasha/agents/seats/modules/launching/seat-launching.module.code.ts"
+import { SEAT_MODE_HEADLESS } from "akasha/agents/seats/modules/modes/seat-modes.module.code.ts"
 import type { SeatPresence } from "akasha/agents/seats/modules/proc-key/seat-proc-key.module.code.ts"
 import { terminatePriorAgentTree } from "akasha/agents/seats/modules/recovery/seat-recovery.module.code.ts"
 import { resolveRelaunchTarget } from "akasha/agents/seats/modules/relaunch-target/seat-relaunch-target.module.code.ts"
@@ -28,6 +29,7 @@ import { SEAT_START_DIR } from "akasha/seat-system/supervising/supervisor-config
 export interface ResumeTarget {
   readonly name: string | null
   readonly account: string | null
+  readonly startMode: string | null
   readonly presence: SeatPresence
   readonly sessionId: string | null
 }
@@ -84,7 +86,7 @@ export async function resumeSeat(
 
   const resolved = await deps.resolveTarget(input.agentId)
   if ("error" in resolved) throw dataError(resolved.error)
-  const { name, account, presence, sessionId } = resolved.target
+  const { name, account, startMode, presence, sessionId } = resolved.target
 
   if (name === null) {
     throw dataError(
@@ -133,7 +135,7 @@ export async function resumeSeat(
       agentId: input.agentId,
       account: account ?? DEFAULT_ACCOUNT,
       prompt: plan.prompt,
-      mode: "headless",
+      mode: startMode ?? SEAT_MODE_HEADLESS,
       resumeSessionId: plan.resumeSessionId,
     })
   } catch (err) {
