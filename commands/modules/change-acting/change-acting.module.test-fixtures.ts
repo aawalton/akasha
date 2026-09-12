@@ -1,8 +1,11 @@
+import { mkdirSync, writeFileSync } from "node:fs"
+import { dirname, join } from "node:path"
 import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   appendEdits,
   bodyIn,
+  editsAt,
   editsIn,
   foldedIn,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
@@ -97,6 +100,18 @@ export function keeping(root: string): string {
   return root
 }
 
+export const UNREAD_SAID =
+  "a row kept beside this agent's page reads as no edit, and `all: true` takes every edit away" +
+  " without reading one"
+
+export function unreadableIn(root: string): undefined {
+  const at = editsAt(PAGE)
+  if (at === null) return
+  const full = join(root, at)
+  mkdirSync(dirname(full), { recursive: true })
+  writeFileSync(full, "not an edit\n")
+}
+
 export const STALE_AT = NAMER_CODE
 
 const BEFORE_IT = "akasha/three/before.md"
@@ -170,6 +185,22 @@ export const DROPS: readonly Drop[] = [
     code: OK,
     refusals: [],
     report: ["no edits are kept beside this agent's page, so nothing went"],
+  },
+  {
+    name: "a drop saying `all: true` takes every edit away though a row reads as no edit",
+    bare: true,
+    sets: unreadableIn,
+    said: ALL,
+    code: OK,
+    refusals: [],
+    report: [UNREAD_SAID, DROPPED],
+  },
+  {
+    name: "a drop naming paths over a row that reads as no edit is refused as before",
+    bare: true,
+    sets: unreadableIn,
+    said: naming(KEPT_ONE),
+    refusalHolds: "reads as no edit",
   },
   {
     name: "a drop naming one path takes that path's edit and leaves the rest",

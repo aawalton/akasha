@@ -10,6 +10,7 @@ import {
   foldedIn,
   keptAt,
   keptEdits,
+  sweptAll,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
 import { ENTRY_CEILING } from "akasha/pages/entry-ceiling/entry-ceiling.module.code.ts"
@@ -203,6 +204,24 @@ test("a file a line refuses is left as that file is", () => {
 
   expect(keptEdits(root, PAGE, () => [])).toEqual({ why: "line 1 reads as no edit" })
   expect(editsIn(root, PAGE)).toEqual({ why: "line 1 reads as no edit" })
+})
+
+test("a sweep of every row takes the files away though a line reads as no edit", () => {
+  const root = rootFor()
+  putting(root, `${lined(adding(ONE, "a\n"))}not an edit\n`, TWO_AT)
+  putting(root, "not an edit\n")
+
+  expect(sweptAll(root, PAGE)).toBe(true)
+  expect(existsSync(join(root, AT))).toBe(false)
+  expect(existsSync(join(root, TWO_AT))).toBe(false)
+  expect(editsIn(root, PAGE)).toEqual({ rows: [] })
+})
+
+test("a sweep answers whether a file was there to take away", () => {
+  const root = rootFor()
+
+  expect(sweptAll(root, PAGE)).toBe(false)
+  expect(sweptAll(root, "akasha/notes.md")).toBe(false)
 })
 
 test("the rows fold into one answer holding every row in the order the rows were kept", () => {

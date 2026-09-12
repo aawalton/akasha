@@ -172,6 +172,18 @@ export const editsKeeping = {
       statement: "A sweep keeps nothing of the rows swept.",
     },
     {
+      invariantKind: "departure",
+      statement: "A sweep of every row takes the files away without reading a row.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line reading as no edit refuses a reader of the rows and refuses no sweep.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A sweep answers whether a file was there to take away.",
+    },
+    {
       invariantKind: "gap",
       statement:
         "A row swept is read back with its agent, its paths, and the commit it was composed against.",

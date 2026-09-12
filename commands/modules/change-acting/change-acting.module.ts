@@ -76,6 +76,18 @@ export const changeActing = {
     },
     {
       invariantKind: "departure",
+      statement: "A drop saying `all: true` takes every edit away though a row reads as no edit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That drop says a row read as no edit rather than naming each edit that went.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A drop naming paths over a row that reads as no edit is refused as before.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A listing of the edits kept names each edit and the call landing those edits.",
     },
     {

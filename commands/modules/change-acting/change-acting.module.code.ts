@@ -4,6 +4,7 @@ import {
   bodyIn,
   editsIn,
   keptEdits,
+  sweptAll,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
   DATA,
@@ -61,6 +62,10 @@ export function noPageSaid(root: string, agentId: string | null): string {
 }
 
 const DROPPED = "these edits are gone, and no apply lands them"
+
+const DROPPED_UNREAD =
+  "a row kept beside this agent's page reads as no edit, and `all: true` takes every edit away" +
+  " without reading one"
 
 const NOTHING_KEPT = "no edits are kept beside this agent's page, so nothing went"
 
@@ -242,7 +247,10 @@ export function dropping(root: string, page: string, said: readonly string[]): A
     answer = told([...went.map(saidOf).sort(), DROPPED, ...left])
     return bare ? null : had.filter((one) => !namedIn(one, at))
   })
-  if ("why" in dropped) return refusedBy([dropped.why], OPERATIONAL)
+  if ("why" in dropped) {
+    if (at.length === 0 && sweptAll(root, page)) return told([DROPPED_UNREAD, DROPPED])
+    return refusedBy([dropped.why], OPERATIONAL)
+  }
   return answer
 }
 

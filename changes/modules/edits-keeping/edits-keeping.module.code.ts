@@ -305,6 +305,18 @@ export function foldedIn(rows: readonly FileChange[]): Answer {
   return gathered(rows.map((one) => ({ edits: [one], refused: null })))
 }
 
+export function sweptAll(root: string, page: string): boolean {
+  const at = editsAt(page)
+  if (at === null) return false
+  const full = join(root, at)
+  mkdirSync(dirname(full), { recursive: true })
+  return exclusively(full, (): boolean => {
+    const held = existsSync(full)
+    swept(root, page)
+    return held
+  })
+}
+
 export function droppedAll(root: string, page: string): undefined {
-  keptEdits(root, page, () => null)
+  sweptAll(root, page)
 }
