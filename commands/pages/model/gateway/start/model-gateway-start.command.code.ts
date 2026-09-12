@@ -1,3 +1,11 @@
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { agentId } from "akasha/commands/arguments/pages/agent-id.argument.ts"
+import { gatewayLogDir } from "akasha/commands/arguments/pages/gateway-log-dir.argument.ts"
+import { gatewayPort } from "akasha/commands/arguments/pages/gateway-port.argument.ts"
+import { keep } from "akasha/commands/arguments/pages/keep.argument.ts"
+import { registrationAccount } from "akasha/commands/arguments/pages/registration-account.argument.ts"
+import { seconds } from "akasha/commands/arguments/pages/seconds.argument.ts"
+import { version } from "akasha/commands/arguments/pages/version.argument.ts"
 import {
   answering,
   INPUT,
@@ -6,6 +14,7 @@ import {
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { modelGatewayStart as page } from "akasha/commands/pages/model/gateway/start/model-gateway-start.command.ts"
 import {
   type Asked,
   agentIdFor,
@@ -18,80 +27,44 @@ import {
   startedOn,
 } from "akasha/commands/pages/model/gateway/start/proxy-run/proxy-run.module.code.ts"
 
-const AGENT_ID = "--agent-id"
-
-const LOG_DIR = "--log-dir"
-
-const PORT = "--port"
-
-const ACCOUNT = "--account"
-
-const VERSION = "--version"
-
-const KEEP = "--keep"
-
-const SECONDS = "--seconds"
-
-const TAKES_ONE = new Set([AGENT_ID, LOG_DIR, PORT, ACCOUNT, VERSION, SECONDS])
-
 const MS = 1000
 
-function wholeIn(said: string, flag: string): number | string {
-  const value = Number(said)
-  if (!Number.isInteger(value) || value < 0) return `\`${flag} ${said}\` is no whole number`
-  return value
+const HIGHEST_PORT = 65535
+
+export type Taken = {
+  readonly agentId?: string
+  readonly gatewayLogDir?: string
+  readonly gatewayPort?: number
+  readonly registrationAccount?: string
+  readonly version?: string
+  readonly keep: boolean
+  readonly seconds?: number
 }
 
-export function askedOf(
-  argv: readonly string[],
-  at: number,
-  salt: number,
-  calledAs: string
-): Asked | string {
-  let agentId: string | null = null
-  let logDir: string | null = null
-  let port = 0
-  let account = NAMED_ACCOUNT
-  let version = NAMED_VERSION
-  let keep = false
-  let budgetMs = PORT_BUDGET_MS
-  for (let one = 0; one < argv.length; one += 1) {
-    const word = argv[one]
-    if (word === undefined) continue
-    if (word === KEEP) {
-      keep = true
-      continue
-    }
-    if (!TAKES_ONE.has(word)) return `\`${word}\` is nothing \`${calledAs}\` takes`
-    const said = argv[one + 1]
-    if (said === undefined) return `\`${word}\` takes a value and none came after it`
-    one += 1
-    if (word === AGENT_ID) agentId = said
-    if (word === LOG_DIR) logDir = said
-    if (word === ACCOUNT) account = said
-    if (word === VERSION) version = said
-    if (word === PORT) {
-      const value = wholeIn(said, PORT)
-      if (typeof value === "string") return value
-      if (value > 65535) return `\`${PORT} ${said}\` is over 65535`
-      port = value
-    }
-    if (word === SECONDS) {
-      const value = wholeIn(said, SECONDS)
-      if (typeof value === "string") return value
-      budgetMs = value * MS
-    }
+export function wrongIn(taken: Taken): readonly string[] {
+  const wrong: string[] = []
+  const port = taken.gatewayPort
+  if (port !== undefined && port > HIGHEST_PORT) {
+    wrong.push(`\`${gatewayPort.said} ${String(port)}\` is over ${String(HIGHEST_PORT)}`)
   }
-  if (account === "") return `\`${ACCOUNT}\` takes a name and an empty one came`
-  if (version === "") return `\`${VERSION}\` takes a name and an empty one came`
+  if (taken.registrationAccount === "") {
+    wrong.push(`\`${registrationAccount.said}\` takes a name and an empty one came`)
+  }
+  if (taken.version === "") {
+    wrong.push(`\`${version.said}\` takes a name and an empty one came`)
+  }
+  return wrong
+}
+
+export function askedOf(taken: Taken, at: number, salt: number): Asked {
   return {
-    agentId: agentId ?? agentIdFor(at, salt),
-    logDir,
-    port,
-    account,
-    version,
-    keep,
-    budgetMs,
+    agentId: taken.agentId ?? agentIdFor(at, salt),
+    logDir: taken.gatewayLogDir ?? null,
+    port: taken.gatewayPort ?? 0,
+    account: taken.registrationAccount ?? NAMED_ACCOUNT,
+    version: taken.version ?? NAMED_VERSION,
+    keep: taken.keep,
+    budgetMs: taken.seconds === undefined ? PORT_BUDGET_MS : taken.seconds * MS,
   }
 }
 
@@ -100,8 +73,19 @@ export async function modelGatewayStart(
   given: Given,
   seams: RunSeams = RUN_SEAMS
 ): Promise<Answer> {
-  const asked = askedOf(argv, Date.now(), Math.floor(Math.random() * 1_000_000), given.calledAs)
-  if (typeof asked === "string") return { report: [], refusals: [asked], code: INPUT }
+  const read = takenFor(argv, given.calledAs, page, [
+    agentId,
+    gatewayLogDir,
+    gatewayPort,
+    registrationAccount,
+    version,
+    keep,
+    seconds,
+  ])
+  if ("refused" in read) return { report: [], refusals: [...read.refused], code: INPUT }
+  const wrong = wrongIn(read.taken)
+  if (wrong.length > 0) return { report: [], refusals: wrong, code: INPUT }
+  const asked = askedOf(read.taken, Date.now(), Math.floor(Math.random() * 1_000_000))
   return await answering(async (done) => {
     const started = await startedOn(asked, seams, done)
     if (typeof started === "string") {

@@ -4,7 +4,10 @@ import {
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { modelGatewayStart } from "akasha/commands/pages/model/gateway/start/model-gateway-start.command.code.ts"
+import {
+  modelGatewayStart,
+  wrongIn,
+} from "akasha/commands/pages/model/gateway/start/model-gateway-start.command.code.ts"
 import type { RunSeams } from "akasha/commands/pages/model/gateway/start/proxy-run/proxy-run.module.code.ts"
 
 const LOG_AT = "/var/tmp/run/akasha-gateway-under-test"
@@ -55,4 +58,24 @@ test("a word this does not take is refused at the caller with nothing reported",
 
   expect(held.code).toBe(INPUT)
   expect(held.report).toEqual([])
+})
+
+test("a port above the highest one there is is refused", () => {
+  expect(wrongIn({ keep: false, gatewayPort: 65536 })).toEqual(["`--port 65536` is over 65535"])
+})
+
+test("a port at the highest one there is is taken", () => {
+  expect(wrongIn({ keep: false, gatewayPort: 65535 })).toEqual([])
+})
+
+test("an account named as nothing is refused rather than taken as the default", () => {
+  expect(wrongIn({ keep: false, registrationAccount: "" })).toEqual([
+    "`--account` takes a name and an empty one came",
+  ])
+})
+
+test("a version named as nothing is refused rather than taken as the default", () => {
+  expect(wrongIn({ keep: false, version: "" })).toEqual([
+    "`--version` takes a name and an empty one came",
+  ])
 })
