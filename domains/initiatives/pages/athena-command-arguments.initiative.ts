@@ -31,14 +31,9 @@ export const athenaCommandArguments = {
         "Settled by `Parsimony`: no type file is generated beside a command page. A command page states `arguments` as a literal, so TypeScript reads the record `takingIn` answers off that literal, and a generated file beside each of 225 pages costs a page, a folder and a name for what the page already says. Left to build once the migration lands: the type narrowing what `takingIn` answers to the arguments the page names.",
     },
     {
-      statement: "A key piped into a command is one of that command's arguments.",
-      workingMemory:
-        "All 47 acts refuse an unknown key now, from one reader at `change-loading.module.code.ts:129-152` and one wording at `change-answer.module.code.ts:62-67` — `8c65a674d1f` through `179c0471d8d`. Eight refusals drawn live, all exit 1. `to` names nine kinds of thing across sixteen acts; `at` is the only key read against the repository root. Should a change act move onto the `commands/arguments/` mechanism, which already carries this refusal?",
-    },
-    {
       statement: "No command page states `taking`.",
       workingMemory:
-        "62 of 236 command pages state `taking: []` now, every argument they take being an entry under `arguments` instead. 168 still carry entries: 90 in trees three agents are working, 8 prose-route pairs, 4 that are Alan's under intent 7, and 66 in hand. No act takes a many-valued property off one page, so `taking: []` is the terminal state, and this intent closes with one `remove-property-from-every-page` over `page-type/command` once the last entry is gone.",
+        "153 command pages state `taking: []` now, every argument they take being an entry under `arguments` instead. 67 still carry entries, split across five agents' slices: temper, the media tree, talos with infrastructure and track, the prose-route pairs, and everything else. No act takes a many-valued property off one page, so `taking: []` is the terminal state, and this intent closes with one `remove-property-from-every-page` over `page-type/command` once the last entry is gone.",
     },
     {
       statement: "One spelling names one argument, and one argument has one spelling.",
