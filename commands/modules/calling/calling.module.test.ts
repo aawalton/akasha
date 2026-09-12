@@ -137,41 +137,6 @@ test("a word steps a whole level, so a longer word reaches no command below", as
   expect(said.report[1]).toBe("akasha track")
 })
 
-test("a namespace naming no command is answered with what sits under it", async () => {
-  const root = rootWith([
-    { slug: "track-session-open", name: "open", body: ANSWERS, definition: "open one" },
-  ])
-  namespacesIn(root, [
-    {
-      slug: "track-session",
-      name: "session",
-      definition: "the stretches a day holds",
-      parts: ["command/track-session-open"],
-    },
-  ])
-  const said = await calling(["track", "session"], { ...OUTSIDE, root })
-  expect(said.code).toBe(0)
-  expect(said.refusals).toEqual([])
-  expect(said.report[0]).toBe("akasha track session — the stretches a day holds")
-  expect(said.report).toContain("  akasha track session open  open one")
-})
-
-test("a namespace under a namespace is listed as one word more", async () => {
-  const root = rootWith([{ slug: "track-session-open", body: ANSWERS }])
-  namespacesIn(root, [
-    { slug: "track", name: "track", definition: "a day", parts: ["namespace/track-session"] },
-    {
-      slug: "track-session",
-      name: "session",
-      definition: "the stretches",
-      parts: ["command/track-session-open"],
-    },
-  ])
-  const said = await calling(["track"], { ...OUTSIDE, root })
-  expect(said.code).toBe(0)
-  expect(said.report).toContain("  akasha track session  the stretches")
-})
-
 test("a command reached under a namespace is answered rather than the namespace", async () => {
   const root = rootWith([{ slug: "track-session-open", body: ANSWERS }])
   namespacesIn(root, [

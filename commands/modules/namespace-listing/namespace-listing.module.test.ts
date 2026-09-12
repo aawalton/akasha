@@ -1,10 +1,20 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import { calling } from "akasha/commands/modules/calling/calling.module.code.ts"
+import {
+  ANSWERS,
+  namespacesIn,
+  OUTSIDE,
+  rootWith,
+  sweep,
+} from "akasha/commands/modules/calling/calling.module.test-fixtures.ts"
 import {
   type Held,
   listingOf,
   partsOf,
   slugOfPart,
 } from "akasha/commands/modules/namespace-listing/namespace-listing.module.code.ts"
+
+afterAll(sweep)
 
 const HELP = "--help"
 
@@ -41,4 +51,39 @@ test("a namespace stating no definition is written down by name alone", () => {
 
 test("a namespace holding no part is written down as nothing", () => {
   expect(listingOf("akasha track session", "the stretches", [], HELP)).toBe(null)
+})
+
+test("a namespace naming no command is answered with what sits under it", async () => {
+  const root = rootWith([
+    { slug: "track-session-open", name: "open", body: ANSWERS, definition: "open one" },
+  ])
+  namespacesIn(root, [
+    {
+      slug: "track-session",
+      name: "session",
+      definition: "the stretches a day holds",
+      parts: ["command/track-session-open"],
+    },
+  ])
+  const said = await calling(["track", "session"], { ...OUTSIDE, root })
+  expect(said.code).toBe(0)
+  expect(said.refusals).toEqual([])
+  expect(said.report[0]).toBe("akasha track session — the stretches a day holds")
+  expect(said.report).toContain("  akasha track session open  open one")
+})
+
+test("a namespace under a namespace is listed as one word more", async () => {
+  const root = rootWith([{ slug: "track-session-open", body: ANSWERS }])
+  namespacesIn(root, [
+    { slug: "track", name: "track", definition: "a day", parts: ["namespace/track-session"] },
+    {
+      slug: "track-session",
+      name: "session",
+      definition: "the stretches",
+      parts: ["command/track-session-open"],
+    },
+  ])
+  const said = await calling(["track"], { ...OUTSIDE, root })
+  expect(said.code).toBe(0)
+  expect(said.report).toContain("  akasha track session  the stretches")
 })
