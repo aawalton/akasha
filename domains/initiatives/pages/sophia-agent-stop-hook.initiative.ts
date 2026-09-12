@@ -27,7 +27,7 @@ export const sophiaAgentStopHook = {
       statement:
         "A stop that never reached the model is told apart from a turn the model judged clean.",
       workingMemory:
-        "114 Stop runs since the hook went live at 15:39 on 2026-09-11, and none refused. Nothing says which of them reached a model. `judging` opens the gate on six paths that all look alike from outside: no person, no directive, no tail, a subagent still working, a model unreachable, and a bare catch over the whole of it. 5 of the 114 ran past 1.5 seconds, so the model is reached seldom, and nothing tells seldom from never.",
+        "116 Stop runs since the hook went live at 15:39 on 2026-09-11, and none refused, while the same judge run offline catches 14 of 34 breaches mined from that same day's logs. Nothing says which of the two numbers to believe, because nothing records whether a run reached the model. `judging` opens the gate on six paths that look alike from outside: no person, no directive, no tail, a subagent still working, a model unreachable, and a bare catch over the whole of it.",
     },
     {
       statement: "The code deciding whether to hold a turn open is tested.",
