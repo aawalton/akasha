@@ -19,7 +19,8 @@ test("a call naming three words is refused", async () => {
   const said = await initiativeDeleteIntent(["one", "two", "three"], GIVEN)
 
   expect(said.refusals).toEqual([
-    "`akasha initiative delete-intent` takes 2 words and this call says 3 words",
+    "`akasha initiative delete-intent` takes 2 words and this call says 3 words — " +
+      "nothing takes `three`",
   ])
 })
 

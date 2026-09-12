@@ -32,7 +32,7 @@ test("a call naming two words is refused", async () => {
   const said = await initiativeDelete(["one", "two"], given("/nowhere"))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toBe(
-    "`akasha initiative delete` takes 1 word and this call says 2 words"
+    "`akasha initiative delete` takes 1 word and this call says 2 words — nothing takes `two`"
   )
 })
 

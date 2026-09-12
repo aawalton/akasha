@@ -23,7 +23,8 @@ test("a call naming more than three words is refused", async () => {
   const said = await initiativeMoveIntent(["one", "two", "three", "four"], GIVEN)
 
   expect(said.refusals).toEqual([
-    "`akasha initiative move-intent` takes 3 words and this call says 4 words",
+    "`akasha initiative move-intent` takes 3 words and this call says 4 words — " +
+      "nothing takes `four`",
   ])
 })
 
