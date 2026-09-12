@@ -33,6 +33,11 @@ export const oneOf = {
       invariantKind: "departure",
       statement: "This narrows a call rather than a property's value, so it is no one-of property.",
     },
+    {
+      invariantKind: "gap",
+      statement:
+        "A call saying exactly one of a group states this beside `not-with`, and nothing joins the two.",
+    },
   ],
   types: "ts",
 } as const satisfies RelationProperty

@@ -81,7 +81,7 @@ export const argumentTaking = {
     },
     {
       invariantKind: "gap",
-      statement: "Typing it needs the page to say whether one of a group is said or only one.",
+      statement: "The page says at least one of a group is said, and has no word for exactly one.",
     },
   ],
 } as const satisfies Module
