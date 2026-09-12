@@ -30,6 +30,10 @@ export const seatComposeNotices = {
     },
     {
       invariantKind: "departure",
+      statement: "The editor asks the command server for this command by slug to revive a seat.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run named `--out` writes the JSON there rather than saying the JSON.",
     },
     {
