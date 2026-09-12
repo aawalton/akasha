@@ -11,7 +11,7 @@ export const athenaCommandArguments = {
     {
       statement: "Every argument a command takes is a page.",
       workingMemory:
-        "338 argument pages, and 765 entries name exactly those 338 — no dangling reference, no page no command names. Every one of 235 command pages names its arguments or states `arguments: []`, `07e31081ea85`. One flag is read that no page names: `--restated`, admitted by `file-arguing` and reaching only `alan tracking`. Alan's: `alan-tracking.command.ts:14-15` says no call names the kind of change landed here, so either that goes or the flag does.\n",
+        "338 argument pages and 766 entries at `2422666aa8c` naming exactly those 338 — nothing dangling, no page no command names. Three flags are read that no page names: `--restated` and `--break-the-glass`, both through `file-arguing` and reaching only `alan tracking`, and `--settings`, read by `seat-refresh-settings`'s own code while its page names only `argument/json`. Alan's: `alan-tracking.command.ts:14-15` says no call names the kind of change landed here.\n",
     },
     {
       statement: "A command names the arguments it takes and narrows each.",
