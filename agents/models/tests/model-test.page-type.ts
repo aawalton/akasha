@@ -9,6 +9,7 @@ export const modelTest = {
   parts: [
     "model-test/directive-kept",
     "model-test/directives-kept",
+    "model-test/no-commentary-kept",
     "model-test/one-at-a-time-kept",
     "model-test/restatement",
     "module/model-test-running",
