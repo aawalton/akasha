@@ -46,6 +46,18 @@ export const trackLanding = {
       statement: "A refusal is carried back to the caller rather than thrown.",
     },
     {
+      invariantKind: "departure",
+      statement: "The landing a change goes through is handed in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call that landed answers the paths landed and the commit holding them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing that wrote before it went wrong says that same thing in its refusal.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here appends.",
     },

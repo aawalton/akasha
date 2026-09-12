@@ -2,7 +2,9 @@ import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
 import { type Answer, answering } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { commitSaid } from "akasha/commands/modules/landing-saying/landing-saying.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
@@ -53,6 +55,20 @@ export function askedFor(changes: readonly FileChange[]): readonly Asking[] {
   return asked
 }
 
+export type Landing = (
+  root: string,
+  changes: readonly Asking[],
+  message: string
+) => ReturnType<typeof runMechanicalChange>
+
+export function wroteIn(landed: Applied): readonly string[] {
+  return [
+    ...landed.landed.map((one) => `landed ${one}`),
+    ...landed.said,
+    commitSaid(landed.commit, landed.untracked ?? []),
+  ]
+}
+
 export async function landingTracked(
   root: string,
   changes: readonly FileChange[],
@@ -61,8 +77,9 @@ export async function landingTracked(
   const stray = strayAmong(changes.flatMap(pathsOf))
   if (stray.length > 0) return mistaking(stray)
   const landed = await runMechanicalChange(root, askedFor(changes), message)
-  if ("refusals" in landed) return answering([], landed.refusals, WRONG)
-  return answering(landed.said, landed.wrong, landed.wrong.length === 0 ? 0 : WRONG)
+  if ("refusals" in landed) return answering([...(landed.said ?? [])], landed.refusals, WRONG)
+  const wrote = wroteIn(landed)
+  return answering(wrote, landed.wrong, landed.wrong.length === 0 ? 0 : WRONG)
 }
 
 export type TrackingAsked = {
@@ -75,13 +92,17 @@ export type TrackingLanded =
   | { readonly landed: true; readonly report: readonly string[] }
   | { readonly refused: string }
 
-export async function landTracking(asked: TrackingAsked): Promise<TrackingLanded> {
+export async function landTracking(
+  asked: TrackingAsked,
+  landing: Landing = runMechanicalChange
+): Promise<TrackingLanded> {
   if (asked.changes.length === 0) return { refused: NOTHING }
   const stray = strayAmong(asked.changes.map((one) => one.path))
   if (stray.length > 0) return { refused: stray.join("\n") }
   const named = asked.changes.map((one) => changeAt(one.path, one.body))
-  const landed = await runMechanicalChange(asked.root, named, asked.message)
+  const landed = await landing(asked.root, named, asked.message)
   if ("refusals" in landed) return { refused: landed.refusals.join("\n") }
-  if (landed.wrong.length > 0) return { refused: landed.wrong.join("\n") }
-  return { landed: true, report: landed.said }
+  const wrote = wroteIn(landed)
+  if (landed.wrong.length > 0) return { refused: [...landed.wrong, ...wrote].join("\n") }
+  return { landed: true, report: wrote }
 }

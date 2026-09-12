@@ -7,6 +7,7 @@ import {
   strayAmong,
   trackedIn,
 } from "akasha/alan/track/landing/track-landing.module.code.ts"
+import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
 
 const ROOT = "/nowhere"
 
@@ -54,4 +55,22 @@ test("a stray path is refused before anything is written", async () => {
     message: "held",
   })
   expect(said).toEqual({ refused: outsideTracked(ELSEWHERE) })
+})
+
+const COMMIT = "1".repeat(40)
+
+const LANDED: Applied = {
+  base: "0".repeat(40),
+  landed: [AT],
+  formatted: [],
+  said: [],
+  wrong: ["the install stopped"],
+  commit: COMMIT,
+}
+
+test("a landing that wrote before it went wrong says what it wrote in its refusal", async () => {
+  const asked = { root: ROOT, changes: [{ path: AT, body: "held\n" }], message: "held" }
+  const said = await landTracking(asked, () => Promise.resolve(LANDED))
+  const why = `the install stopped\nlanded ${AT}\ncommitted as ${COMMIT}`
+  expect(said).toEqual({ refused: why })
 })
