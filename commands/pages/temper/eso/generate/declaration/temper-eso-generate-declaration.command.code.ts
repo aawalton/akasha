@@ -6,7 +6,9 @@ import {
   runMechanicalChange,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
+  answering,
   DATA,
+  keeping,
   OK,
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -51,10 +53,9 @@ const INDEX_BODY = `/// <reference path="./enums.d.ts" />
 /// <reference path="./objects.d.ts" />
 `
 
-export async function temperEsoGenerateDeclaration(
-  argv: readonly string[],
-  given: Given
-): Promise<Answer> {
+export type Generating = (done: string[], argv: readonly string[], given: Given) => Promise<Answer>
+
+async function generated(done: string[], argv: readonly string[], given: Given): Promise<Answer> {
   const named = saidFor(argv, CODE_ROOT_FLAG)
 
   let root: string
@@ -125,12 +126,10 @@ export async function temperEsoGenerateDeclaration(
   }
 
   if (asked.length > 0) {
-    const landed = await runMechanicalChange(root, asked, MESSAGE)
+    const landed = await runMechanicalChange(root, asked, MESSAGE, null, { done })
     if ("refusals" in landed) {
-      return refused(
-        `the declarations were not landed whole into ${outDir} — ${landed.refusals.join("; ")}`,
-        OPERATIONAL
-      )
+      const why = `the declarations were not landed whole into ${outDir} — ${landed.refusals.join("; ")}`
+      return keeping(done, refused(why, OPERATIONAL))
     }
   }
 
@@ -147,4 +146,12 @@ export async function temperEsoGenerateDeclaration(
     [],
     OK
   )
+}
+
+export async function temperEsoGenerateDeclaration(
+  argv: readonly string[],
+  given: Given,
+  generating: Generating = generated
+): Promise<Answer> {
+  return await answering(async (done) => await generating(done, argv, given))
 }

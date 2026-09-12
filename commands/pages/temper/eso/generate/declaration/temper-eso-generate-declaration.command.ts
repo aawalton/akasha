@@ -6,6 +6,7 @@ export const temperEsoGenerateDeclaration = {
   slug: "temper-eso-generate-declaration",
   definition: "the command writing the game's API declarations from the game's own documentation",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -65,6 +66,10 @@ export const temperEsoGenerateDeclaration = {
     {
       invariantKind: "gap",
       statement: "The opt-in manifest naming which tokens are kept is in akasha.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that wrote before it threw says in its refusal what that run had written.",
     },
   ],
   name: "declaration",

@@ -6,6 +6,7 @@ export const temperEsoGenerateHudSceneCatalog = {
   slug: "temper-eso-generate-hud-scene-catalog",
   definition: "the command writing the catalog of HUD parts out of the game's own scene source",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -65,6 +66,10 @@ export const temperEsoGenerateHudSceneCatalog = {
     {
       invariantKind: "absence",
       statement: "Nothing here writes the clone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that wrote before it threw says in its refusal what that run had written.",
     },
   ],
   name: "hud-scene-catalog",
