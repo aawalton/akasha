@@ -11,31 +11,6 @@ export const auditAnswering = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A phase naming no check is refused rather than answered clean.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A run no check takes input from is refused rather than answered clean.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A judging that throws is refused rather than answered clean.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A judging that throws after a check ran names those checks rather than saying nothing was judged.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A judging that throws before any check ran says nothing was judged.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A refusal naming the checks that ran says their refusals are not in the answer.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "A reason and a run of refusals are held to a ceiling by `module/refusal-holding`.",
     },
