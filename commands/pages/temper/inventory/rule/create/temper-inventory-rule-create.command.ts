@@ -9,10 +9,6 @@ export const temperInventoryRuleCreate = {
   taking: [
     { said: "--category <id>", takes: "the category of items the rule reaches" },
     { said: "--conditions <json>", takes: "the conditions narrowing which items the rule reaches" },
-    {
-      said: "--stock-scope <scope>",
-      takes: "whether stocking counts one character or every character",
-    },
   ],
 
   invariants: [
@@ -33,5 +29,6 @@ export const temperInventoryRuleCreate = {
     { argument: "argument/active" },
     { argument: "argument/action" },
     { argument: "argument/destination" },
+    { argument: "argument/stock-scope" },
   ],
 } as const satisfies Command

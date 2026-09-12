@@ -13,10 +13,6 @@ export const temperInventoryItemRuleCreate = {
       takes: "the item's display name, where the id remains what it matches on",
     },
     { said: "--stock-quantity <n>", takes: "how many the destination is stocked up to" },
-    {
-      said: "--stock-scope <scope>",
-      takes: "whether stocking counts one character or every character",
-    },
   ],
 
   invariants: [
@@ -37,5 +33,6 @@ export const temperInventoryItemRuleCreate = {
     { argument: "argument/active" },
     { argument: "argument/action" },
     { argument: "argument/destination" },
+    { argument: "argument/stock-scope" },
   ],
 } as const satisfies Command

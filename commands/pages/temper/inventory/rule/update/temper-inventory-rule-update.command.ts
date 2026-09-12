@@ -14,10 +14,6 @@ export const temperInventoryRuleUpdate = {
       takes: "the cascade of destinations the item falls through",
     },
     { said: "--conditions <json>", takes: "the conditions narrowing which items the rule reaches" },
-    {
-      said: "--stock-scope <scope>",
-      takes: "whether stocking counts one character or every character",
-    },
   ],
   invariants: [
     {
@@ -42,5 +38,6 @@ export const temperInventoryRuleUpdate = {
     { argument: "argument/active" },
     { argument: "argument/action" },
     { argument: "argument/destination" },
+    { argument: "argument/stock-scope" },
   ],
 } as const satisfies Command
