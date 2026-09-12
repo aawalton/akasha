@@ -8,7 +8,10 @@ import {
   createSubagentReader,
   type SubagentNode,
 } from "akasha/code/editor/extension/subagent-reading/subagent-reading.module.code.ts"
-import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  INPUT,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
   type Answer,
   answering,
@@ -241,7 +244,7 @@ export async function agentSubagentSweep(
   landing: Landing = runMechanicalChange
 ): Promise<Answer> {
   const read = namedIn(argv)
-  if ("refused" in read) return answering([], [read.refused], 1)
+  if ("refused" in read) return answering([], [read.refused], INPUT)
   const root = resolve(given.root)
   const pages = pagesIn(root)
   let own: OwnIds = NO_OWN_IDS
