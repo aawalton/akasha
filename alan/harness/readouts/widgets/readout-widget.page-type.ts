@@ -120,6 +120,10 @@ export const readoutWidget = {
     },
     {
       invariantKind: "departure",
+      statement: "Every tile of an app is reloaded when that app comes forward.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A widget's link names that widget in the link's fragment.",
     },
     {
