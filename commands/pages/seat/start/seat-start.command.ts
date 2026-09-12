@@ -7,10 +7,6 @@ export const seatStart = {
   definition: "the command composing a fresh seat from the slots named after it",
   code: "ts",
   taking: [
-    {
-      said: "--flex <flex-n>",
-      takes: "`flex-` and a number, which is what keeps it out of every vocabulary",
-    },
     { said: "--initiative <slug>", takes: "the initiative this seat carries" },
     { said: "--account <account>", takes: "the claude account the seat is stamped with" },
     { said: "--model <id>", takes: "the model the seat launched here runs on" },
@@ -72,5 +68,6 @@ export const seatStart = {
     { argument: "argument/role" },
     { argument: "argument/seat-domain" },
     { argument: "argument/principal" },
+    { argument: "argument/flex" },
   ],
 } as const satisfies Command
