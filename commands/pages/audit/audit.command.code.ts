@@ -4,6 +4,7 @@ import { asked } from "akasha/checks/modules/audit-asking/audit-asking.module.co
 import { commitOf } from "akasha/checks/modules/audit-serving/audit-serving.module.code.ts"
 import type { Gathered } from "akasha/checks/modules/checking/checking.module.code.ts"
 import { checksAt, checksIn } from "akasha/checks/modules/checking/checking.module.code.ts"
+import { refusedBy } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
   askedAnswer,
   brokenBy,
@@ -98,7 +99,7 @@ export async function askedOver(
 ): Promise<Answer> {
   const atAudit = checksAt(every, AUDIT)
   const narrowed = narrowedTo(every, atAudit, named)
-  if (narrowed.refusals.length > 0) return { report: [], refusals: narrowed.refusals, code: 1 }
+  if (narrowed.refusals.length > 0) return refusedBy(narrowed.refusals)
   const commit = await commitOf(root)
   const told = await asked({ root, home: requireEnv("HOME"), checks: narrowed.checks, commit })
   const also = [
@@ -110,7 +111,7 @@ export async function askedOver(
 
 export async function audit(argv: readonly string[], given: Given): Promise<Answer> {
   const meant = meaning(argv)
-  if (meant.refusal !== null) return { report: [], refusals: [meant.refusal], code: 1 }
+  if (meant.refusal !== null) return refusedBy([meant.refusal])
   const root = resolve(given.root)
   const page = given.agentId === null ? null : agentPathOf(root, given.agentId)
   const keeping: Keeping | null = page === null ? null : (whole) => refusalsPut(root, page, whole)

@@ -1,4 +1,8 @@
-import { exitCodeForThrowable } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import {
+  codeOf,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -166,16 +170,15 @@ async function fetching(
     : await fetchLokiLogs({ pod, namespace, since, limit, cursor })
   const report = fetched.lines.map((one) => JSON.stringify(one))
   report.push(await boundingLine(read, fetched.lines, fetched.isDone, fetched.cursor, calledAs))
-  return { report, refusals: [], code: 0 }
+  return told(report)
 }
 
 export async function infrastructureLoki(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+  if ("refused" in read) return refusedBy(read.refused)
   try {
     return await fetching(read, given.calledAs)
   } catch (thrown) {
-    const carried = exitCodeForThrowable(thrown)
-    return refused(whyOf(thrown), carried === 70 ? 3 : carried)
+    return refused(whyOf(thrown), codeOf(thrown))
   }
 }
