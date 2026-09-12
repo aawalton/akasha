@@ -121,11 +121,15 @@ export const calling = {
     },
     {
       invariantKind: "departure",
-      statement: "A namespace above is named by the leading words joined with a hyphen.",
+      statement: "A namespace above is a level the descent stepped through to reach the command.",
     },
     {
       invariantKind: "departure",
       statement: "The namespaces are read widest first, and the command's own come last.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No page is loaded again to read what a namespace above states.",
     },
     {
       invariantKind: "absence",

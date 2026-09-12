@@ -14,6 +14,7 @@ import {
 } from "akasha/commands/modules/help-writing/help-writing.module.code.ts"
 import {
   definitionOf,
+  type Levels,
   levelNamed,
   levelOfPart,
   levelsIn,
@@ -30,6 +31,7 @@ import {
   watching,
 } from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
 import {
+  type Level,
   pathOf,
   type Reached,
   saidIn,
@@ -102,10 +104,6 @@ const TS = "ts"
 const COMMAND = "command"
 
 const SLASH = "/"
-
-const UNDER = "-"
-
-const SPACE = " "
 
 export const ROOTED = "index refresh"
 
@@ -230,17 +228,11 @@ export function unreadIn(root: string, outside: Outside): string | null {
   return null
 }
 
-function rulesAbove(root: string, words: readonly string[]): readonly string[] {
-  const type = namespaceSlugIn(root)
-  if (type === null) return []
+function rulesAbove(levels: Levels, above: readonly Level[]): readonly string[] {
   const held: string[] = []
-  for (let at = 1; at < words.length; at = at + 1) {
-    const slug = words.slice(0, at).join(UNDER)
-    const found = listedAt(root, type, slug)
-    const one = found[0]
-    if (found.length !== 1 || one === undefined) continue
-    const page = pageIn(root, one.path, slug)
-    if (page !== null) held.push(...rulesIn(page))
+  for (const one of above) {
+    const value = valuedUnder(levels, `${one.type}${SLASH}${one.slug}`)?.value
+    if (value !== undefined) held.push(...rulesIn(value))
   }
   return held
 }
@@ -256,14 +248,15 @@ function notYetIn(root: string): ReadonlySet<string> {
 }
 
 async function answeredBy(
-  named: string,
+  level: Level,
+  above: readonly Level[],
   said: string,
-  path: string,
   root: string,
   argv: readonly string[],
   outside: Outside
 ): Promise<Answer> {
-  const beside = fileBeside(path)
+  const named = level.slug
+  const beside = fileBeside(level.path)
   if (beside === null) {
     return refusedBy(
       [`\`${named}\` is a command page, and no code file can sit beside a name like it`],
@@ -277,12 +270,12 @@ async function answeredBy(
       DATA
     )
   }
-  const page = pageIn(root, path, named)
+  const page = pageIn(root, level.path, named)
   if (argv[0] === HELP || argv[0] === HELP_SHORT) {
     const surface = surfaceOf(page, notYetIn(root))
     if (surface !== null) {
       const rules = [
-        ...rulesAbove(root, said.split(SPACE)),
+        ...rulesAbove(levelsIn(root, levelTypesIn(root)), above),
         ...(page === null ? [] : rulesIn(page)),
       ]
       return {
@@ -436,9 +429,9 @@ export async function calling(argv: readonly string[], outside: Outside): Promis
     )
   }
   const answer = await answeredBy(
-    first.slug,
+    first,
+    reached.above,
     saidIn(argv, reached.held),
-    first.path,
     root,
     argv.slice(reached.held),
     outside
