@@ -13,12 +13,7 @@ export const temperInventorySnapshot = {
     { said: "--out <path>", takes: "the file the record is written to" },
     { said: "--json", takes: "give the record on one line rather than indented" },
   ],
-  helpNotes: [
-    "the record sits whole in a data file beside the snapshot page, so nothing here rejoins pieces.",
-    "a snapshot is named or `--latest` is said, never both.",
-    "`--latest` reads the newest reading on the account, ordered by when the reading was taken.",
-    "a snapshot carrying no data file refuses the call rather than giving back an empty record.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
