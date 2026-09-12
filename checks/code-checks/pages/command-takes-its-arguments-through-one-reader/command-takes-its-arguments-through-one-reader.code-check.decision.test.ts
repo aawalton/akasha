@@ -289,3 +289,31 @@ test("a dynamic import landing on no path under akasha is followed nowhere", () 
   const brought = '  const { saidFor } = await import("node:path")\n'
   expect(found(AT, lately(brought + HANDS_ON), reach)).toEqual([])
 })
+
+const CALLS_WHOLE = "  return answered(held.saidFor(argv))\n"
+
+test("a reader a dynamic import takes as a whole module is followed one file on", () => {
+  const reach = opening(new Map([[FAR_AT, READER]]))
+  const brought = `  const held = await import("akasha/${FAR_AT}")\n`
+  const said = found(AT, lately(brought + CALLS_WHOLE), reach)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain(FAR_AT)
+  expect(said[0]).toContain("`argv.length`")
+})
+
+test("a whole module taken under no literal specifier is followed nowhere", () => {
+  const reach = opening(new Map([[FAR_AT, READER]]))
+  const brought = "  const held = await import(spelled)\n"
+  expect(found(AT, lately(brought + CALLS_WHOLE), reach)).toEqual([])
+})
+
+test("a whole module landing on no path under akasha is followed nowhere", () => {
+  const reach = opening(new Map([[FAR_AT, READER]]))
+  const brought = '  const held = await import("node:path")\n'
+  expect(found(AT, lately(brought + CALLS_WHOLE), reach)).toEqual([])
+})
+
+test("a call on a name no dynamic import took is followed nowhere", () => {
+  const reach = opening(new Map([[FAR_AT, READER]]))
+  expect(found(AT, lately(CALLS_WHOLE), reach)).toEqual([])
+})

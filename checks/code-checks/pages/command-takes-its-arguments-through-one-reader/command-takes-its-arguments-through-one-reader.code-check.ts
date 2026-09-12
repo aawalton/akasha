@@ -47,6 +47,11 @@ export const commandTakesItsArgumentsThroughOneReader = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A call on a name a dynamic import takes as a whole module is followed into the export it names.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The trace stops at that one file rather than going on from there.",
     },
     {

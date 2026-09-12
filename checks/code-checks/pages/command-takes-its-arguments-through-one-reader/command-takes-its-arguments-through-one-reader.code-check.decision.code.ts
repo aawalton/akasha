@@ -54,6 +54,7 @@ type Opened = {
   readonly source: ts.SourceFile
   readonly declared: Held
   readonly imported: ReadonlyMap<string, Reached>
+  readonly whole: ReadonlyMap<string, string>
 }
 
 export type Reach = {
@@ -205,11 +206,17 @@ function specifierOf(node: ts.Expression): string | null {
   return said.text
 }
 
-function broughtIn(path: string, source: ts.SourceFile, every: Map<string, Reached>): undefined {
+function broughtIn(
+  path: string,
+  source: ts.SourceFile,
+  every: Map<string, Reached>,
+  whole: Map<string, string>
+): undefined {
   const visit = (node: ts.Node): undefined => {
     if (ts.isVariableDeclaration(node) && node.initializer !== undefined) {
       const said = specifierOf(node.initializer)
       const at = said === null ? null : landingOf(path, said)
+      if (at !== null && ts.isIdentifier(node.name)) whole.set(node.name.text, at)
       if (at !== null && ts.isObjectBindingPattern(node.name)) {
         for (const each of node.name.elements) {
           if (!ts.isIdentifier(each.name)) continue
@@ -224,7 +231,11 @@ function broughtIn(path: string, source: ts.SourceFile, every: Map<string, Reach
   ts.forEachChild(source, visit)
 }
 
-function importedIn(path: string, source: ts.SourceFile): ReadonlyMap<string, Reached> {
+function importedIn(
+  path: string,
+  source: ts.SourceFile,
+  whole: Map<string, string>
+): ReadonlyMap<string, Reached> {
   const every = new Map<string, Reached>()
   for (const one of source.statements) {
     if (!ts.isImportDeclaration(one) || !ts.isStringLiteral(one.moduleSpecifier)) continue
@@ -239,12 +250,14 @@ function importedIn(path: string, source: ts.SourceFile): ReadonlyMap<string, Re
       every.set(each.name.text, { at, named: each.propertyName?.text ?? each.name.text })
     }
   }
-  broughtIn(path, source, every)
+  broughtIn(path, source, every, whole)
   return every
 }
 
 function openedOf(path: string, source: ts.SourceFile): Opened {
-  return { source, declared: declaredIn(source), imported: importedIn(path, source) }
+  const whole = new Map<string, string>()
+  const imported = importedIn(path, source, whole)
+  return { source, declared: declaredIn(source), imported, whole }
 }
 
 function openedAt(reach: Reach, at: string): Opened | null {
@@ -268,10 +281,9 @@ function meantBy(from: ts.Node | undefined, spelled: string): string | null {
   return made.text
 }
 
-function hopped(state: Reading, spelled: string, at: number): undefined {
+function reachedInto(state: Reading, held: Reached, at: number): undefined {
   if (state.hops >= ONE_HOP) return
-  const held = state.opened.imported.get(spelled)
-  if (held === undefined || judgedIn(held.at)) return
+  if (judgedIn(held.at)) return
   const opened = openedAt(state.shared.reach, held.at)
   if (opened === null) return
   const into = opened.declared.get(held.named)
@@ -279,12 +291,26 @@ function hopped(state: Reading, spelled: string, at: number): undefined {
   reading({ shared: state.shared, at: held.at, opened, hops: state.hops + ONE_HOP }, into, at)
 }
 
+function hopped(state: Reading, spelled: string, at: number): undefined {
+  const held = state.opened.imported.get(spelled)
+  if (held === undefined) return
+  reachedInto(state, held, at)
+}
+
+function reachedOn(state: Reading, callee: ts.PropertyAccessExpression, at: number): undefined {
+  if (!ts.isIdentifier(callee.expression) || !ts.isIdentifier(callee.name)) return
+  const held = state.opened.whole.get(callee.expression.text)
+  if (held === undefined) return
+  reachedInto(state, { at: held, named: callee.name.text }, at)
+}
+
 function followed(state: Reading, call: ts.CallExpression, node: ts.Identifier): undefined {
   const callee = call.expression
+  const at = call.arguments.indexOf(node)
+  if (ts.isPropertyAccessExpression(callee)) return reachedOn(state, callee, at)
   if (!ts.isIdentifier(callee)) return
   const spelled = meantBy(call.parent, callee.text)
   if (spelled === null || spelled === ONE_READER) return
-  const at = call.arguments.indexOf(node)
   const into = state.opened.declared.get(spelled)
   if (into === undefined) hopped(state, spelled, at)
   else reading(state, into, at)
