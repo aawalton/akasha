@@ -125,6 +125,7 @@ export const command = {
     "text-property/level-name",
     "module/help-writing",
     "page-type/argument",
+    "record-property/command-arguments",
   ],
   extends: ["page-type/module"],
   loadedBy: "module/calling",
@@ -134,6 +135,12 @@ export const command = {
     { pageProperty: "text-property/help-notes", required: false, many: true, maxCount: null },
     { pageProperty: "number-property/timeout", required: false, many: false },
     { pageProperty: "text-property/level-name", required: false, many: false },
+    {
+      pageProperty: "record-property/command-arguments",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   invariants: [
     {

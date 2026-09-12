@@ -13,6 +13,7 @@ export const argument = {
     "text-property/placeholder",
     "text-property/said",
     "text-property/takes",
+    "relation-property/argument",
   ],
   properties: [
     { pageProperty: "text-property/said", required: true, many: false },
