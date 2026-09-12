@@ -12,6 +12,7 @@ export const change = {
     "command/change-draft",
     "command/change-apply",
     "command/change-repeat",
+    "module/change-arguing",
   ],
   name: "change",
 } as const satisfies Namespace

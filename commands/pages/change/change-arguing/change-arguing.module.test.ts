@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { wordlessIn } from "akasha/commands/modules/change-arguing/change-arguing.module.code.ts"
+import { wordlessIn } from "akasha/commands/pages/change/change-arguing/change-arguing.module.code.ts"
 
 test("a call naming no word is left with nothing to refuse", () => {
   expect(wordlessIn([], "list")).toBe(null)

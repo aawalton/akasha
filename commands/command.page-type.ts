@@ -55,7 +55,6 @@ export const command = {
     "module/change-acting",
     "module/said-pathing",
     "module/command-flags",
-    "module/change-arguing",
     "module/committing",
     "module/commit-reading",
     "module/file-arguing",
