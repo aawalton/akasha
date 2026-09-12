@@ -8,6 +8,7 @@ export const provisionedFile = {
   pluralSlug: "provisioned-files",
   parts: [
     "file-property/content",
+    "provisioned-file/background-slice-share",
     "provisioned-file/bashrc",
     "provisioned-file/btw5-udev-rule",
     "provisioned-file/claude-keepalive-sysctl",
