@@ -1,8 +1,3 @@
-import { PIN_TYPES } from "akasha/temper/navigation-addon/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
-import {
-  ACH_STATE,
-  sharedAchievementsPinData,
-} from "akasha/temper/navigation-addon/destinations-pins-ach-callbacks/destinations-pins-ach-callbacks.module.code.ts"
 import {
   AchIndex,
   CollectibleIDs,
@@ -18,6 +13,11 @@ import {
   DEST_PIN_TEXT_COLOR_COLLECTIBLE_DONE,
   DEST_PIN_TEXT_COLORTITLE_COLLECTIBLE,
 } from "akasha/temper/navigation-addon/modules/destinations-colors/destinations-colors.module.code.ts"
+import { PIN_TYPES } from "akasha/temper/navigation-addon/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
+import {
+  ACH_STATE,
+  sharedAchievementsPinData,
+} from "akasha/temper/navigation-addon/modules/destinations-pins-ach-callbacks/destinations-pins-ach-callbacks.module.code.ts"
 
 function mobNumberForCriterion(i: number): string {
   if (i === 10) return "A"

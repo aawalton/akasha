@@ -1,4 +1,3 @@
-import { PIN_TYPES } from "akasha/temper/navigation-addon/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 import {
   getMapTextureName,
   MAP_STATE,
@@ -12,6 +11,7 @@ import {
   PORTALS,
   STABLE,
 } from "akasha/temper/navigation-addon/destinations-shared-data/destinations-shared-data.module.code.ts"
+import { PIN_TYPES } from "akasha/temper/navigation-addon/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 
 function redrawMapPinsOnly(pinType: string): undefined {
   LibMapPins.RefreshPins(pinType)

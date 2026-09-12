@@ -1,39 +1,3 @@
-import { PIN_TYPES } from "akasha/temper/navigation-addon/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
-import {
-  BrawlpinTypeCallback,
-  BrawlpinTypeCallbackDone,
-  EarthlyPospinTypeCallback,
-  EarthlyPospinTypeCallbackDone,
-  MaiqpinTypeCallback,
-  MaiqpinTypeCallbackDone,
-  NosediverpinTypeCallback,
-  NosediverpinTypeCallbackDone,
-  OnMepinTypeCallback,
-  OnMepinTypeCallbackDone,
-  PatronpinTypeCallback,
-  PatronpinTypeCallbackDone,
-  PeacemakerpinTypeCallback,
-  PeacemakerpinTypeCallbackDone,
-  WrothgarJumperpinTypeCallback,
-  WrothgarJumperpinTypeCallbackDone,
-} from "akasha/temper/navigation-addon/destinations-pins-ach-callbacks/destinations-pins-ach-callbacks.module.code.ts"
-import {
-  breakingpinTypeCallback,
-  breakingpinTypeCallbackDone,
-  championpinTypeCallback,
-  championpinTypeCallbackDone,
-  cutpursepinTypeCallback,
-  cutpursepinTypeCallbackDone,
-  otherpinTypeCallback,
-  otherpinTypeCallbackDone,
-  relicHunterpinTypeCallback,
-  relicHunterpinTypeCallbackDone,
-} from "akasha/temper/navigation-addon/destinations-pins-ach-callbacks-special/destinations-pins-ach-callbacks-special.module.code.ts"
-import {
-  collectibleDonepinTypeCallback,
-  collectiblepinTypeCallback,
-} from "akasha/temper/navigation-addon/destinations-pins-collectible-callbacks/destinations-pins-collectible-callbacks.module.code.ts"
-import { addCompassPins } from "akasha/temper/navigation-addon/destinations-pins-compass/destinations-pins-compass.module.code.ts"
 import { addPinFilters } from "akasha/temper/navigation-addon/destinations-pins-map-filters/destinations-pins-map-filters.module.code.ts"
 import {
   AyleidpinTypeCallback,
@@ -56,6 +20,42 @@ import {
 } from "akasha/temper/navigation-addon/destinations-pins-unknown-pois/destinations-pins-unknown-pois.module.code.ts"
 import { fishDonepinTypeCallback } from "akasha/temper/navigation-addon/modules/destinations-fishing-fish-done-pin/destinations-fishing-fish-done-pin.module.code.ts"
 import { fishpinTypeCallback } from "akasha/temper/navigation-addon/modules/destinations-fishing-fish-pin/destinations-fishing-fish-pin.module.code.ts"
+import { PIN_TYPES } from "akasha/temper/navigation-addon/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
+import {
+  BrawlpinTypeCallback,
+  BrawlpinTypeCallbackDone,
+  EarthlyPospinTypeCallback,
+  EarthlyPospinTypeCallbackDone,
+  MaiqpinTypeCallback,
+  MaiqpinTypeCallbackDone,
+  NosediverpinTypeCallback,
+  NosediverpinTypeCallbackDone,
+  OnMepinTypeCallback,
+  OnMepinTypeCallbackDone,
+  PatronpinTypeCallback,
+  PatronpinTypeCallbackDone,
+  PeacemakerpinTypeCallback,
+  PeacemakerpinTypeCallbackDone,
+  WrothgarJumperpinTypeCallback,
+  WrothgarJumperpinTypeCallbackDone,
+} from "akasha/temper/navigation-addon/modules/destinations-pins-ach-callbacks/destinations-pins-ach-callbacks.module.code.ts"
+import {
+  breakingpinTypeCallback,
+  breakingpinTypeCallbackDone,
+  championpinTypeCallback,
+  championpinTypeCallbackDone,
+  cutpursepinTypeCallback,
+  cutpursepinTypeCallbackDone,
+  otherpinTypeCallback,
+  otherpinTypeCallbackDone,
+  relicHunterpinTypeCallback,
+  relicHunterpinTypeCallbackDone,
+} from "akasha/temper/navigation-addon/modules/destinations-pins-ach-callbacks-special/destinations-pins-ach-callbacks-special.module.code.ts"
+import {
+  collectibleDonepinTypeCallback,
+  collectiblepinTypeCallback,
+} from "akasha/temper/navigation-addon/modules/destinations-pins-collectible-callbacks/destinations-pins-collectible-callbacks.module.code.ts"
+import { addCompassPins } from "akasha/temper/navigation-addon/modules/destinations-pins-compass/destinations-pins-compass.module.code.ts"
 
 export function setPinLayouts(): undefined {
   const layouts = buildPinLayouts()

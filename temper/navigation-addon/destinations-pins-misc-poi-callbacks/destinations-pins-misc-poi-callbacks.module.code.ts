@@ -1,8 +1,3 @@
-import { PIN_TYPES } from "akasha/temper/navigation-addon/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
-import {
-  ACH_STATE,
-  sharedAchievementsPinData,
-} from "akasha/temper/navigation-addon/destinations-pins-ach-callbacks/destinations-pins-ach-callbacks.module.code.ts"
 import { getAchTypeName } from "akasha/temper/navigation-addon/destinations-pins-poi-types/destinations-pins-poi-types.module.code.ts"
 import {
   AchIndex,
@@ -18,6 +13,11 @@ import {
   DEST_PIN_TEXT_COLOR_WWSHRINE,
   DEST_PIN_TEXT_COLOR_WWVAMP,
 } from "akasha/temper/navigation-addon/modules/destinations-colors/destinations-colors.module.code.ts"
+import { PIN_TYPES } from "akasha/temper/navigation-addon/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
+import {
+  ACH_STATE,
+  sharedAchievementsPinData,
+} from "akasha/temper/navigation-addon/modules/destinations-pins-ach-callbacks/destinations-pins-ach-callbacks.module.code.ts"
 
 function makeMiscPoiCallback(
   pinName: string,

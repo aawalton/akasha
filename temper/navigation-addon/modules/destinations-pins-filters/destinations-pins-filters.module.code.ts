@@ -1,8 +1,8 @@
-import { PIN_TYPES } from "akasha/temper/navigation-addon/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 import {
   getCharacterSavedVariables,
   isSavedVarsInitialized,
 } from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
+import { PIN_TYPES } from "akasha/temper/navigation-addon/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 
 export function togglePins(this: void, pinType: string, value: boolean): undefined {
   getCharacterSavedVariables().filters[pinType] = value

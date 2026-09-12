@@ -1,5 +1,3 @@
-import { PIN_TYPES } from "akasha/temper/navigation-addon/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
-import { togglePins } from "akasha/temper/navigation-addon/destinations-pins-filters/destinations-pins-filters.module.code.ts"
 import {
   getCharacterSavedVariables,
   getSavedVariables,
@@ -18,6 +16,8 @@ import { getIconPreviews } from "akasha/temper/navigation-addon/destinations-set
 import type { DestinationsDefaults } from "akasha/temper/navigation-addon/modules/destinations-defaults/destinations-defaults.module.code.ts"
 import { DEFAULTS } from "akasha/temper/navigation-addon/modules/destinations-defaults/destinations-defaults.module.code.ts"
 import { getSettingsString } from "akasha/temper/navigation-addon/modules/destinations-lang-strings/destinations-lang-strings.module.code.ts"
+import { PIN_TYPES } from "akasha/temper/navigation-addon/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
+import { togglePins } from "akasha/temper/navigation-addon/modules/destinations-pins-filters/destinations-pins-filters.module.code.ts"
 
 const LMP = LibMapPins
 

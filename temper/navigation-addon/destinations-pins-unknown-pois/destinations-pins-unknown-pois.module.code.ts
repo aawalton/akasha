@@ -1,5 +1,3 @@
-import { PIN_TEXTURES } from "akasha/temper/navigation-addon/destinations-pin-textures/destinations-pin-textures.module.code.ts"
-import { PIN_TYPES } from "akasha/temper/navigation-addon/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 import {
   getMapTextureName,
   MAP_STATE,
@@ -30,6 +28,8 @@ import {
   getSavedVariables,
 } from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 import { abilityDescription } from "akasha/temper/navigation-addon/modules/destinations-data-runtime/destinations-data-runtime.module.code.ts"
+import { PIN_TEXTURES } from "akasha/temper/navigation-addon/modules/destinations-pin-textures/destinations-pin-textures.module.code.ts"
+import { PIN_TYPES } from "akasha/temper/navigation-addon/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 
 export type UnknownPinTagKeyboardLine = [
   font: string,

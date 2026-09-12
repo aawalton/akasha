@@ -1,8 +1,3 @@
-import { PIN_TYPES } from "akasha/temper/navigation-addon/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
-import {
-  ACH_STATE,
-  sharedAchievementsPinData,
-} from "akasha/temper/navigation-addon/destinations-pins-ach-callbacks/destinations-pins-ach-callbacks.module.code.ts"
 import {
   AchIndex,
   FishIDs,
@@ -30,6 +25,11 @@ import {
   DESTINATIONS_FISH_TYPE_OCEAN,
   DESTINATIONS_FISH_TYPE_RIVER,
 } from "akasha/temper/navigation-addon/modules/destinations-fishing-fish-types/destinations-fishing-fish-types.module.code.ts"
+import { PIN_TYPES } from "akasha/temper/navigation-addon/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
+import {
+  ACH_STATE,
+  sharedAchievementsPinData,
+} from "akasha/temper/navigation-addon/modules/destinations-pins-ach-callbacks/destinations-pins-ach-callbacks.module.code.ts"
 
 export function fishpinTypeCallback(this: void): undefined {
   if (GetMapType() >= MAPTYPE_WORLD) return

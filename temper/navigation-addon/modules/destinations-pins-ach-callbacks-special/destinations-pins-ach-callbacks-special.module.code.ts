@@ -1,8 +1,3 @@
-import { PIN_TYPES } from "akasha/temper/navigation-addon/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
-import {
-  ACH_STATE,
-  sharedAchievementsPinData,
-} from "akasha/temper/navigation-addon/destinations-pins-ach-callbacks/destinations-pins-ach-callbacks.module.code.ts"
 import {
   getMapTextureName,
   MAP_STATE,
@@ -30,6 +25,11 @@ import {
   DEST_PIN_TINT_CHAMPION,
   DEST_PIN_TINT_CHAMPION_DONE,
 } from "akasha/temper/navigation-addon/modules/destinations-colors/destinations-colors.module.code.ts"
+import { PIN_TYPES } from "akasha/temper/navigation-addon/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
+import {
+  ACH_STATE,
+  sharedAchievementsPinData,
+} from "akasha/temper/navigation-addon/modules/destinations-pins-ach-callbacks/destinations-pins-ach-callbacks.module.code.ts"
 
 export function otherpinTypeCallback(this: void): undefined {
   if (GetMapType() >= MAPTYPE_WORLD) return

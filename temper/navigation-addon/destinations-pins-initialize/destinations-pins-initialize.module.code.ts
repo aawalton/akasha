@@ -1,16 +1,5 @@
 import "akasha/temper/navigation-addon/destinations-pins-slash-commands/destinations-pins-slash-commands.module.code.ts"
 import {
-  initializePinTextColorCollectibleDefs,
-  initializePinTextColorDefs,
-  initializePinTextColorFishingDefs,
-  initializePinTintColorDefs,
-} from "akasha/temper/navigation-addon/destinations-pins-color-defs/destinations-pins-color-defs.module.code.ts"
-import {
-  onAchievementUpdate,
-  onPoiUpdated,
-} from "akasha/temper/navigation-addon/destinations-pins-events/destinations-pins-events.module.code.ts"
-import { updateCompassFilters } from "akasha/temper/navigation-addon/destinations-pins-filters/destinations-pins-filters.module.code.ts"
-import {
   hookKeepTooltips,
   hookPoiTooltips,
 } from "akasha/temper/navigation-addon/destinations-pins-hooks/destinations-pins-hooks.module.code.ts"
@@ -31,6 +20,17 @@ import {
 import { initSettings as InitSettings } from "akasha/temper/navigation-addon/destinations-settings-init/destinations-settings-init.module.code.ts"
 import { registerSettingsStrings } from "akasha/temper/navigation-addon/modules/destinations-lang-strings/destinations-lang-strings.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/navigation-addon/modules/destinations-names/destinations-names.module.code.ts"
+import {
+  initializePinTextColorCollectibleDefs,
+  initializePinTextColorDefs,
+  initializePinTextColorFishingDefs,
+  initializePinTintColorDefs,
+} from "akasha/temper/navigation-addon/modules/destinations-pins-color-defs/destinations-pins-color-defs.module.code.ts"
+import {
+  onAchievementUpdate,
+  onPoiUpdated,
+} from "akasha/temper/navigation-addon/modules/destinations-pins-events/destinations-pins-events.module.code.ts"
+import { updateCompassFilters } from "akasha/temper/navigation-addon/modules/destinations-pins-filters/destinations-pins-filters.module.code.ts"
 
 export function initializeDestinations(): undefined {
   registerSettingsStrings()
