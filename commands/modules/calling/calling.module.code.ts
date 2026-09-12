@@ -124,11 +124,14 @@ export function commandSlugIn(root: string): string | null {
   return indexThere(root) ? typeSlugById(root, COMMAND_TYPE) : null
 }
 
-export function commandsIn(root: string): readonly string[] {
+export function slugsIn(root: string): readonly string[] {
   const said = commandSlugIn(root)
-  if (said === null) return []
+  return said === null ? [] : slugsOfType(root, said)
+}
+
+export function commandsIn(root: string): readonly string[] {
   const named = levelNamed(root)
-  return slugsOfType(root, said).map((one) => pathOf(one, named))
+  return slugsIn(root).map((one) => pathOf(one, named))
 }
 
 export function reachedIn(
@@ -216,7 +219,7 @@ export function unreadIn(root: string, outside: Outside): string | null {
         `so nothing says which pages are commands.`
     )
   }
-  if (commandsIn(root).length === 0) {
+  if (slugsIn(root).length === 0) {
     return saying(`The index at \`${at}\` carries no command, so none was read.`)
   }
   return null

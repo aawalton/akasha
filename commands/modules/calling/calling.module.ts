@@ -204,6 +204,10 @@ export const calling = {
     },
     {
       invariantKind: "departure",
+      statement: "Whether the index carries a command at all is answered without loading a page.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An index naming no page type for commands is not an index with no command.",
     },
     {
