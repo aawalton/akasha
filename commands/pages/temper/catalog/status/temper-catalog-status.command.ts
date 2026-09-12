@@ -12,10 +12,6 @@ export const temperCatalogStatus = {
       said: "--saved-variables-file <path>",
       takes: "the file the addon's collected data is read from",
     },
-    {
-      said: "--side-file <path>",
-      takes: "the file the outstanding collection request is read from",
-    },
   ],
   invariants: [
     {
@@ -46,5 +42,5 @@ export const temperCatalogStatus = {
     },
   ],
   name: "status",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/side-file" }],
 } as const satisfies Command

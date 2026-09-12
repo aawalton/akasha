@@ -9,7 +9,6 @@ export const temperCatalogInvalidate = {
   taking: [
     { said: "--domain <name>", takes: "a catalog domain to collect again, said once per domain" },
     { said: "--all", takes: "collect every catalog domain again" },
-    { said: "--side-file <path>", takes: "the file the addon reads the request from" },
   ],
   invariants: [
     {
@@ -34,5 +33,5 @@ export const temperCatalogInvalidate = {
     },
   ],
   name: "invalidate",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/side-file" }],
 } as const satisfies Command
