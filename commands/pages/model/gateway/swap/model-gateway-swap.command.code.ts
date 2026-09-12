@@ -10,6 +10,7 @@ import { fleet } from "akasha/commands/arguments/pages/fleet.argument.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import { seat } from "akasha/commands/arguments/pages/seat.argument.ts"
 import {
+  answeredWith,
   answering,
   INPUT,
   naming,
@@ -17,6 +18,7 @@ import {
   OPERATIONAL,
   refused,
   refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -99,13 +101,11 @@ async function fleeting(asJson: boolean, done: string[], seams: Seams): Promise<
   } else {
     for (const one of held) report.push(`${one.status}\t${one.agentId}`)
   }
-  return {
+  return answeredWith(
     report,
-    refusals: timedOut.map(
-      (one) => `${one.agentId} did not take the ask up before the wait ran out`
-    ),
-    code: timedOut.length === 0 ? OK : OPERATIONAL,
-  }
+    timedOut.map((one) => `${one.agentId} did not take the ask up before the wait ran out`),
+    timedOut.length === 0 ? OK : OPERATIONAL
+  )
 }
 
 async function swapping(read: Taken, done: string[], seams: Seams): Promise<Answer> {
@@ -115,24 +115,23 @@ async function swapping(read: Taken, done: string[], seams: Seams): Promise<Answ
   if ("error" in found) return refused(found.error, INPUT)
   const status = await seams.asking(found.id, done)
   if (status === "timeout") {
-    return {
-      report,
-      refusals: [
+    return refusedBy(
+      [
         describeAckTimeout(ACTION, {
           agentId: found.id,
           timeoutMs: ACK_TIMEOUT_MS,
           lastRequestedAction: ACTION,
         }),
       ],
-      code: OPERATIONAL,
-    }
+      OPERATIONAL
+    )
   }
   if (read.json) {
     report.push(JSON.stringify({ ok: true, agentId: found.id, status }))
   } else {
     report.push(`${status}\t${found.id}`)
   }
-  return { report, refusals: [], code: OK }
+  return told(report)
 }
 
 export function swappedBy(read: Taken, seams: Seams): Promise<Answer> {
