@@ -21,6 +21,15 @@ export const musicNowPlaying = {
       statement: "No active device is a state rather than a refusal.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A call saying `--json` is answered one line of JSON, and one saying nothing words.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That JSON is compact on the one line rather than indented over many.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here changes the track playing.",
     },
