@@ -1,5 +1,5 @@
-import type { Contact } from "akasha/alan/harness/imessage/contacts-db/contacts-db.module.code.ts"
 import type { ImessageMessage } from "akasha/alan/harness/imessage/modules/chat-db/chat-db.module.code.ts"
+import type { Contact } from "akasha/alan/harness/imessage/modules/contacts-db/contacts-db.module.code.ts"
 import { padTwo } from "akasha/utils/digit-padding/pad-two/pad-two.module.code.ts"
 
 export interface ContactNaming {

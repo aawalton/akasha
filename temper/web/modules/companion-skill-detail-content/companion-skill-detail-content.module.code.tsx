@@ -14,8 +14,8 @@ import {
   updateDescriptionWithCalculatedValues,
 } from "akasha/temper/companions-core/modules/companion-skill-tooltip/companion-skill-tooltip.module.code.ts"
 import { getEsoIconUrl } from "akasha/temper/formula-framework/eso-icon-url/eso-icon-url.module.code.ts"
-import { ConstraintBadges } from "akasha/temper/web/constraint-badges/constraint-badges.module.code.tsx"
 import { EffectBadge } from "akasha/temper/web/effect-badge/effect-badge.module.code.tsx"
+import { ConstraintBadges } from "akasha/temper/web/modules/constraint-badges/constraint-badges.module.code.tsx"
 import {
   RadiusBadge,
   RangeBadge,

@@ -1,14 +1,4 @@
 import { DataError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import {
-  buildContactsScript,
-  type Contact,
-  contactHandleKeys,
-  handleKey,
-  isEmailLike,
-  isPhoneLike,
-  parseContactsOutput,
-  searchContacts,
-} from "akasha/alan/harness/imessage/contacts-db/contacts-db.module.code.ts"
 import { MACBOOK } from "akasha/alan/harness/imessage/host/imessage-host.module.code.ts"
 import {
   buildChatDbScript,
@@ -20,6 +10,16 @@ import {
   parseMessageRows,
   parseUnreadCount,
 } from "akasha/alan/harness/imessage/modules/chat-db/chat-db.module.code.ts"
+import {
+  buildContactsScript,
+  type Contact,
+  contactHandleKeys,
+  handleKey,
+  isEmailLike,
+  isPhoneLike,
+  parseContactsOutput,
+  searchContacts,
+} from "akasha/alan/harness/imessage/modules/contacts-db/contacts-db.module.code.ts"
 import { runSshCapture } from "akasha/alan/harness/ssh-access/ssh-reach/ssh-reach.module.code.ts"
 
 export async function fetchMessages(sql: string): Promise<readonly ImessageMessage[]> {

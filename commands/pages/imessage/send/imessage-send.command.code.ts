@@ -1,12 +1,12 @@
 import { readFileSync, statSync } from "node:fs"
 import { basename, resolve } from "node:path"
 import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { MACBOOK } from "akasha/alan/harness/imessage/host/imessage-host.module.code.ts"
 import {
   isEmailLike,
   isPhoneLike,
   searchContacts,
-} from "akasha/alan/harness/imessage/contacts-db/contacts-db.module.code.ts"
-import { MACBOOK } from "akasha/alan/harness/imessage/host/imessage-host.module.code.ts"
+} from "akasha/alan/harness/imessage/modules/contacts-db/contacts-db.module.code.ts"
 import { fetchContacts } from "akasha/alan/harness/imessage/remote/imessage-remote.module.code.ts"
 import {
   buildSendScript,
