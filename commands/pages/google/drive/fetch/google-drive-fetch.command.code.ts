@@ -88,7 +88,7 @@ function reachSaid(thrown: unknown, fileId: string): Answer | null {
   if (status === 401 || status === 403) {
     return refused(
       `Drive turned the request for ${fileId} away with ${status} — the consent held is missing ` +
-        "or too narrow, and `akasha google auth login` grants a fresh one",
+        "or too narrow, and `akasha google login` grants a fresh one",
       OPERATIONAL
     )
   }

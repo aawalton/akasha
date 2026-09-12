@@ -23,7 +23,7 @@ export function readIn(argv: readonly string[]): Read {
   return readTaking(argv, TAKING)
 }
 
-export function googleAuthLogin(argv: readonly string[]): Promise<Answer> {
+export function googleLogin(argv: readonly string[]): Promise<Answer> {
   const said = readIn(argv)
   if ("refused" in said) return Promise.resolve(refusing(said.refused, INPUT))
   return answeredBy(async (done) => {
