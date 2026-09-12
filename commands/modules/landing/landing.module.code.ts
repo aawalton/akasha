@@ -25,7 +25,6 @@ import {
   indexingLoaded,
   type Keeping,
 } from "akasha/commands/modules/gate-building/gate-building.module.code.ts"
-import { holding } from "akasha/commands/modules/holding/holding.module.code.ts"
 import { linkedInPlace } from "akasha/commands/modules/install-linking/install-linking.module.code.ts"
 import {
   type Bodied,
@@ -56,6 +55,7 @@ import { allowedThrough } from "akasha/commands/modules/stopping/command-stoppin
 import { unitsLanded } from "akasha/commands/modules/unit-landing/unit-landing.module.code.ts"
 import { bodyAt, readingEnded } from "akasha/git/commit-reading/commit-reading.module.code.ts"
 import { committed, whileIndexFrees } from "akasha/git/committing/committing.module.code.ts"
+import { holding } from "akasha/git/holding/holding.module.code.ts"
 import { gitIgnoring } from "akasha/git/pathspec/git-pathspec.module.code.ts"
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"

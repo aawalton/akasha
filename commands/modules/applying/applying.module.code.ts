@@ -19,7 +19,6 @@ import {
   gateBuilt,
   NO_GATE,
 } from "akasha/commands/modules/gate-building/gate-building.module.code.ts"
-import { refusedWhereHeld } from "akasha/commands/modules/holding/holding.module.code.ts"
 import { landing, type Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
 import { carryLanded } from "akasha/commands/modules/landing-reading/landing-reading.module.code.ts"
 import {
@@ -37,6 +36,7 @@ import {
   glassSaid,
   unloadableIn,
 } from "akasha/git/committing/committing.module.code.ts"
+import { refusedWhereHeld } from "akasha/git/holding/holding.module.code.ts"
 import { said as gitSaid } from "akasha/git/running/git-running.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"

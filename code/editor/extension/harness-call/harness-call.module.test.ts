@@ -6,8 +6,8 @@ import {
   LANDING_TIMEOUT_MS,
   serverPath,
 } from "akasha/code/editor/extension/harness-call/harness-call.module.code.ts"
-import { WAITED_AT_MOST } from "akasha/commands/modules/holding/holding.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { WAITED_AT_MOST } from "akasha/git/holding/holding.module.code.ts"
 
 const CHECKOUT = rootOf(import.meta.path)
 

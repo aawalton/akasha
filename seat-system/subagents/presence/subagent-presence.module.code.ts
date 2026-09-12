@@ -6,7 +6,7 @@ import type { Asking } from "akasha/changes/runners/pages/mechanical-change-runn
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { createSubagentReader } from "akasha/code/editor/extension/subagent-reading/subagent-reading.module.code.ts"
 import { PUT_BACK } from "akasha/commands/modules/change-freshness/change-freshness.module.code.ts"
-import { LOCK_AT } from "akasha/commands/modules/holding/holding.module.code.ts"
+import { LOCK_AT } from "akasha/git/holding/holding.module.code.ts"
 import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
 import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"

@@ -2,19 +2,19 @@ import { cpSync, existsSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { blobIdOf, recordRead } from "akasha/agents/read-record/read-record.module.code.ts"
 import { PUT_BACK } from "akasha/commands/modules/change-freshness/change-freshness.module.code.ts"
-import {
-  heldSaid,
-  holding,
-  LOCK_AT,
-  refusedWhereHeld,
-  WAITED_AT_MOST,
-} from "akasha/commands/modules/holding/holding.module.code.ts"
 import { keptAt, scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   bodyAt,
   writing,
 } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { startedAt } from "akasha/files/lock-holder/lock-holder.module.code.ts"
+import {
+  heldSaid,
+  holding,
+  LOCK_AT,
+  refusedWhereHeld,
+  WAITED_AT_MOST,
+} from "akasha/git/holding/holding.module.code.ts"
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
 import {
   listedFiled,
