@@ -7,7 +7,6 @@ export const seatStart = {
   definition: "the command composing a fresh seat from the slots named after it",
   code: "ts",
   taking: [
-    { said: "--prompt <text>", takes: "the first turn's prompt, which a headless start needs" },
     {
       said: "--persona <slug>",
       takes: "who this seat is, filling the role and the domain neither of which is said",
@@ -71,11 +70,16 @@ export const seatStart = {
       invariantKind: "departure",
       statement: "A start refused before it wrote anything is refused as the fault alone.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A headless start naming no prompt and no prompt file is refused.",
+    },
   ],
   name: "start",
   arguments: [
     { argument: "argument/json" },
     { argument: "argument/start-mode" },
     { argument: "argument/prompt-file" },
+    { argument: "argument/prompt" },
   ],
 } as const satisfies Command

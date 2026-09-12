@@ -7,12 +7,7 @@ export const seatResume = {
   definition: "the command putting a seat back on the session that seat was bound to",
   code: "ts",
   test: "ts",
-  taking: [
-    {
-      said: "--prompt <text>",
-      takes: "the first turn a resumed seat takes up, where it was stopped",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -47,5 +42,6 @@ export const seatResume = {
   arguments: [
     { argument: "argument/seat", required: true, saidAs: "word" },
     { argument: "argument/start-mode" },
+    { argument: "argument/prompt" },
   ],
 } as const satisfies Command
