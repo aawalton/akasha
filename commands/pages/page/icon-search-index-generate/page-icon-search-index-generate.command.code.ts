@@ -6,6 +6,11 @@ import {
   landingAt,
   removingAt,
 } from "akasha/code/name-series/name-series.module.code.ts"
+import {
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   AGGREGATE,
@@ -41,8 +46,6 @@ const FETCH_CEILING_MS = 180_000
 const REGENERATE = "akasha page icon-search-index-generate"
 
 const SECOND_MS = 1000
-
-const OPERATIONAL = 3
 
 type Said = Readonly<Record<string, string | undefined>>
 
@@ -146,14 +149,14 @@ export async function pageIconSearchIndexGenerate(
   given: Given
 ): Promise<Answer> {
   const said = wordsIn(argv)
-  if ("refused" in said) return { report: [], refusals: said.refused, code: 1 }
+  if ("refused" in said) return { report: [], refusals: said.refused, code: INPUT }
 
   const named = said.named[CODE_ROOT]
   if (named !== undefined && !existsSync(named)) {
     return {
       report: [],
       refusals: [`\`${CODE_ROOT} ${named}\` names no folder that is there`],
-      code: 1,
+      code: INPUT,
     }
   }
   const root = realpathSync(named ?? given.root)
@@ -164,7 +167,7 @@ export async function pageIconSearchIndexGenerate(
     if ("why" in release) return { report: [], refusals: [release.why], code: OPERATIONAL }
     const entries = entriesIn(release.icons)
     const held = rendered(entries)
-    if ("refused" in held) return { report: [], refusals: held.refused, code: 1 }
+    if ("refused" in held) return { report: [], refusals: held.refused, code: INPUT }
     const pages = held.pages
 
     const standing = standingIn(root)
@@ -196,7 +199,7 @@ export async function pageIconSearchIndexGenerate(
         ...arrived.map((slug) => `  add     module/${slug}`)
       )
     }
-    return { report, refusals: [], code: 0 }
+    return { report, refusals: [], code: OK }
   } finally {
     rmSync(scratch, { recursive: true, force: true })
   }
