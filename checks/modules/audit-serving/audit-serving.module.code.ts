@@ -256,10 +256,23 @@ export async function serving(given: Serving): Promise<Told> {
   return { ran, turned, refused: why === null ? [] : [why] }
 }
 
-if (import.meta.main) {
+export const NOTHING_TOLD = `${SAID} a check turned red and the telling landed nowhere`
+
+const NOTHING_TOLD_STATUS = 1
+
+export async function runAuditServing(): Promise<void> {
   const told = await serving({ root: checkoutAt(), home: requireEnv("HOME") })
   const red = told.ran.filter((one) => !cleanly(one.verdict)).length
   process.stdout.write(`${SAID} ${counted(told.ran.length, "audit")}, ${red} refusing\n`)
   for (const one of told.refused) process.stderr.write(`${SAID} nothing told thea: ${one}\n`)
-  if (told.refused.length > 0) process.exit(1)
+  if (told.refused.length > 0) throw new Error(NOTHING_TOLD)
+}
+
+if (import.meta.main) {
+  try {
+    await runAuditServing()
+  } catch (thrown) {
+    if (!(thrown instanceof Error) || thrown.message !== NOTHING_TOLD) throw thrown
+    process.exit(NOTHING_TOLD_STATUS)
+  }
 }
