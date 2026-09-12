@@ -51,19 +51,7 @@ export const claudeAccountAdd = {
     },
     {
       invariantKind: "departure",
-      statement: "A page composed names its type from the root rather than by a relative path.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The change adding a file writes the page rather than an edit composed here.",
-    },
-    {
-      invariantKind: "constraint",
-      statement: "A page composed here parses whatever characters the address carries.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Every text written into the page is written as a quoted literal is.",
+      statement: "The page itself is composed and landed by `module/claude-account-making`.",
     },
     {
       invariantKind: "departure",

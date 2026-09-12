@@ -11,14 +11,9 @@ import {
   type Asked,
   claudeAccountAdd,
   filedBy,
-  pageTextFor,
   slotFrom,
   wrongIn,
 } from "akasha/commands/pages/claude-account/add/claude-account-add.command.code.ts"
-
-const TYPES_AT = "akasha/somewhere/held-account.page-type.types.ts"
-
-const ID = "01a09538-481f-7000-8cad-839760f32d46"
 
 const ASKED: Asked = { account: "tempereso", email: "a@b.c", alias: null }
 
@@ -38,35 +33,6 @@ test("an account named twice over is refused", async () => {
   const said = await claudeAccountAdd(["one", "two", "--email", "a@b.c"], HERE)
 
   expect(said.refusals.join(" ")).toContain("takes 1 word and this call says 2 words")
-})
-
-test("a page composed carries the name, the address and the slot it was handed", () => {
-  expect(pageTextFor("tempereso", "a@b.c", 3, ID, "claude-account", TYPES_AT)).toBe(
-    [
-      `import type { ClaudeAccount } from "${TYPES_AT}"`,
-      "",
-      "export const tempereso = {",
-      `  id: "${ID}",`,
-      '  type: "claude-account",',
-      '  slug: "tempereso",',
-      '  email: "a@b.c",',
-      "  aliasIndex: 3,",
-      "} as const satisfies ClaudeAccount",
-      "",
-    ].join("\n")
-  )
-})
-
-test("an address carrying a quote is written so the page still parses", () => {
-  expect(pageTextFor("tempereso", 'a"b@c.com', 1, ID, "claude-account", TYPES_AT)).toContain(
-    '  email: "a\\"b@c.com",'
-  )
-})
-
-test("an address carrying a backslash is written so the page still parses", () => {
-  expect(pageTextFor("tempereso", "a\\b@c.com", 1, ID, "claude-account", TYPES_AT)).toContain(
-    '  email: "a\\\\b@c.com",'
-  )
 })
 
 test("an alias slot below one is refused", () => {

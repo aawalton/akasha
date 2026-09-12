@@ -1,6 +1,8 @@
-import { accountsAtIn } from "akasha/agents/claude-accounts/modules/making/claude-account-making.module.code.ts"
+import {
+  LANDING,
+  madeIn,
+} from "akasha/agents/claude-accounts/modules/making/claude-account-making.module.code.ts"
 import { aliasIndexesIn } from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
-import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { account as accountArgument } from "akasha/commands/arguments/pages/account.argument.ts"
 import { alias } from "akasha/commands/arguments/pages/alias.argument.ts"
@@ -10,26 +12,12 @@ import {
   DATA,
   keeping,
   refused,
-  refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { claudeAccountAdd as page } from "akasha/commands/pages/claude-account/add/claude-account-add.command.ts"
-import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
-import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
-import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { listedAt, typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-
-const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
-
-const PAGE_TYPE = "page-type"
-
-const TYPES = "types"
-
-const HOLDS = "ts"
-
-const PUT = "change-mechanical-file/add-file"
+import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
 const ACCOUNT_SHAPE = /^[a-z][a-z0-9-]*$/
 
@@ -57,32 +45,6 @@ export function wrongIn(
   return wrong
 }
 
-function said(value: string): string {
-  return JSON.stringify(value)
-}
-
-export function pageTextFor(
-  account: string,
-  email: string,
-  aliasIndex: number,
-  id: string,
-  pageTypeSlug: string,
-  importFrom: string
-): string {
-  return [
-    `import type { ClaudeAccount } from ${said(importFrom)}`,
-    ``,
-    `export const ${exportedAs(account)} = {`,
-    `  id: ${said(id)},`,
-    `  type: ${said(pageTypeSlug)},`,
-    `  slug: ${said(account)},`,
-    `  email: ${said(email)},`,
-    `  aliasIndex: ${String(aliasIndex)},`,
-    `} as const satisfies ClaudeAccount`,
-    ``,
-  ].join("\n")
-}
-
 export function slotFrom(held: ReadonlyMap<string, number>, asked: number | null): number | string {
   if (asked === null) {
     let highest = 0
@@ -104,33 +66,16 @@ async function filedPage(done: string[], read: Asked, given: Given): Promise<Ans
   }
   const slot = slotFrom(held, read.alias)
   if (typeof slot === "string") return mistaking([slot])
-  const pageType = typeSlugOf(given.root, ACCOUNT_TYPE)
-  const typeAt = listedAt(given.root, PAGE_TYPE, pageType)[0]?.path
-  const typesAt = typeAt === undefined ? null : besideAt(typeAt, TYPES, HOLDS)
-  if (typesAt === null) {
-    const why = `no page type page is filed under \`${pageType}\`, so a page names no type`
-    return refused(why, DATA)
-  }
-  const at = `${accountsAtIn(given.root)}/${read.account}/${read.account}.${pageType}.ts`
-  const body = pageTextFor(
-    read.account,
-    read.email,
-    slot,
-    Bun.randomUUIDv7(),
-    pageType,
-    importedFrom(typesAt)
-  )
-  const landed = await runMechanicalChange(
+  const made = await madeIn(
     given.root,
-    [{ at: PUT, given: { at, body } }],
-    `akasha: file a page for the claude account ${read.account}`,
-    null,
-    { done }
+    { slug: read.account, email: read.email, aliasIndex: slot },
+    LANDING,
+    readingIn(given.root),
+    done
   )
-  const wrong = "refusals" in landed ? landed.refusals : landed.wrong
-  if (wrong.length > 0) return refusedBy(wrong, DATA)
+  if (made.kind === "refused") return refused(made.why, DATA)
   return told([
-    `${read.account} holds slot ${slot} and is filed at ${at}`,
+    `${read.account} holds slot ${slot} and is filed at ${made.path}`,
     "run /login in the launching session to sign it in",
   ])
 }

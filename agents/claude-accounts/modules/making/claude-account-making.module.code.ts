@@ -123,10 +123,10 @@ export async function madeIn(
     readonly id?: string
   },
   landing: Landing,
-  reading: Reading
+  reading: Reading,
+  done: string[] = []
 ): Promise<Made> {
   const { slug } = given
-  const done: string[] = []
   try {
     if (!ACCOUNT_SHAPE.test(slug)) {
       return {
