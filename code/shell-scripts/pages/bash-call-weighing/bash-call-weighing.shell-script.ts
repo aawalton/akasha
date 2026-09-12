@@ -62,6 +62,11 @@ export const bashCallWeighing = {
     {
       invariantKind: "departure",
       statement:
+        "A group that would not be read leaves the call stating that its peak was not measured.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "The peak a group reached is the memory the call added, since a shell starts holding nothing.",
     },
     {

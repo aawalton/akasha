@@ -39,17 +39,21 @@ __akasha_open() {
 }
 
 __akasha_shut() {
-  local code=$? micros=0 peak=0 measured=false key value ended
+  local code=$? micros=0 peak=0 measured=false got_cpu=false got_peak=false key value ended
   [ "$BASHPID" = "$$" ] || return 0
   ended=${EPOCHREALTIME/./}
   if [ -n "$__akasha_group" ]; then
     printf '%s\n' "$$" > "/sys/fs/cgroup${__akasha_home}/cgroup.procs" 2>/dev/null
     while read -r key value; do
-      [ "$key" = usage_usec ] && micros=$value
-    done < "$__akasha_group/cpu.stat"
-    read -r peak < "$__akasha_group/memory.peak" || peak=0
+      [ "$key" = usage_usec ] && [ -n "$value" ] && micros=$value && got_cpu=true
+    done < "$__akasha_group/cpu.stat" 2>/dev/null
+    if read -r peak < "$__akasha_group/memory.peak" 2>/dev/null; then
+      got_peak=true
+    else
+      peak=0
+    fi
     rmdir "$__akasha_group" 2>/dev/null
-    measured=true
+    [ "$got_cpu" = true ] && [ "$got_peak" = true ] && measured=true
   else
     micros=$(__akasha_own_micros)
   fi
