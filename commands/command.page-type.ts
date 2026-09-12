@@ -48,7 +48,6 @@ export const command = {
     "module/change-freshness",
     "module/commit-author",
     "module/yaml-lines",
-    "module/play-row",
     "module/change-costing",
     "module/apply-running",
     "module/change-running",

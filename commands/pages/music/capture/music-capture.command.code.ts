@@ -21,7 +21,7 @@ import {
   playKeyOf,
   resumeCursorMs,
   sumNewMusicMinutes,
-} from "akasha/commands/modules/play-row/play-row.module.code.ts"
+} from "akasha/commands/pages/music/capture/play-row/play-row.module.code.ts"
 import { entriesAt } from "akasha/pages/entries/page-entries.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { uuidVersion7 } from "akasha/pages/ids/uuid-version-7/uuid-version-7.module.code.ts"

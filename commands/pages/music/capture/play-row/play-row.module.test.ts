@@ -10,7 +10,7 @@ import {
   playKeyOf,
   resumeCursorMs,
   sumNewMusicMinutes,
-} from "akasha/commands/modules/play-row/play-row.module.code.ts"
+} from "akasha/commands/pages/music/capture/play-row/play-row.module.code.ts"
 
 const PLAY: PlayInput = {
   trackId: "4epeNxtHy14CVAP1rePJCs",
