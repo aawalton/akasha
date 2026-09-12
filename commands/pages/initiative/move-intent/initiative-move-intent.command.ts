@@ -8,7 +8,7 @@ export const initiativeMoveIntent = {
     "the command carrying one intent onto the place another intent of its initiative holds",
   code: "ts",
   test: "ts",
-  taking: [{ said: "<onto>", takes: "the statement the intent it is moved onto states" }],
+  taking: [],
 
   invariants: [
     {
@@ -95,5 +95,6 @@ export const initiativeMoveIntent = {
   arguments: [
     { argument: "argument/initiative", required: true, saidAs: "word" },
     { argument: "argument/statement", required: true, saidAs: "word" },
+    { argument: "argument/onto", required: true, saidAs: "word" },
   ],
 } as const satisfies Command
