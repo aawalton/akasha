@@ -13,10 +13,6 @@ export const infrastructureLoki = {
       takes: "how far back from now to look, in s, m, h or d, `1h` where none is said",
     },
     {
-      said: "--cursor <b64>",
-      takes: "the cursor a previous answer stated, reaching the page before it",
-    },
-    {
       said: "--all",
       takes: "every line inside the window, page after page, rather than the first `--limit`",
     },
@@ -80,5 +76,6 @@ export const infrastructureLoki = {
     { argument: "argument/limit" },
     { argument: "argument/pod", saidAs: "flag-or-word" },
     { argument: "argument/kube-namespace" },
+    { argument: "argument/cursor" },
   ],
 } as const satisfies Command
