@@ -1,10 +1,15 @@
 import { existsSync } from "node:fs"
 import { chmod, copyFile, mkdir, mkdtemp, rm, writeFile } from "node:fs/promises"
 import { dirname, join } from "node:path"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { cluster as clusterArgument } from "akasha/commands/arguments/pages/cluster.argument.ts"
+import { ip as ipArgument } from "akasha/commands/arguments/pages/ip.argument.ts"
+import { node as nodeArgument } from "akasha/commands/arguments/pages/node.argument.ts"
 import { answering, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { talosApply as page } from "akasha/commands/pages/talos/apply/talos-apply.command.ts"
 import { buildNodePatch } from "akasha/infrastructure/cluster/provisioning/talos/build-patch/build-patch.module.code.ts"
 import { buildSchematic } from "akasha/infrastructure/cluster/provisioning/talos/build-schematic/build-schematic.module.code.ts"
 import { buildNodeVolumes } from "akasha/infrastructure/cluster/provisioning/talos/build-volumes/build-volumes.module.code.ts"
@@ -31,14 +36,6 @@ import { decryptToTmp } from "akasha/infrastructure/cluster/provisioning/talos/s
 import { runTalosctl } from "akasha/infrastructure/cluster/provisioning/talos/talosctl/talosctl.module.code.ts"
 import { SCRATCH_AT } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
-export const NODE = "--node"
-
-export const IP = "--ip"
-
-export const CLUSTER = "--cluster"
-
-const VALUED: readonly string[] = [NODE, IP, CLUSTER]
-
 const CONTROL_PLANE = "controlplane"
 
 const WORKER = "worker"
@@ -46,59 +43,7 @@ const WORKER = "worker"
 export type Named = {
   readonly node: string
   readonly ip: string
-  readonly cluster: string | null
-}
-
-export type Read = Named | { readonly refused: readonly string[] }
-
-export function readIn(argv: readonly string[]): Read {
-  const refusals: string[] = []
-  const flags = new Map<string, string>()
-  const words: string[] = []
-  for (let at = 0; at < argv.length; at += 1) {
-    const one = argv[at]
-    if (one === undefined) continue
-    if (!one.startsWith("-")) {
-      words.push(one)
-      continue
-    }
-    const cut = one.indexOf("=")
-    const name = cut === -1 ? one : one.slice(0, cut)
-    if (!VALUED.includes(name)) {
-      refusals.push(`\`${name}\` is no flag this takes — it takes \`${VALUED.join("`, `")}\``)
-      continue
-    }
-    if (cut !== -1) {
-      flags.set(name, one.slice(cut + 1))
-      continue
-    }
-    const next = argv[at + 1]
-    if (next === undefined || next.startsWith("-")) {
-      refusals.push(`\`${name}\` names a value, and nothing followed it`)
-      continue
-    }
-    flags.set(name, next)
-    at += 1
-  }
-  const said = words[0]
-  if (said !== undefined) {
-    if (flags.has(NODE)) {
-      refusals.push(`the node is named twice — \`${said}\` as a word and after \`${NODE}\``)
-    } else {
-      flags.set(NODE, said)
-    }
-  }
-  if (words.length > 1) {
-    refusals.push(`this names one node, and ${words.length} words were said`)
-  }
-  const node = flags.get(NODE)
-  if (node === undefined) {
-    refusals.push(`this names the node to apply, as a word or after \`${NODE}\``)
-  }
-  const ip = flags.get(IP)
-  if (ip === undefined) refusals.push(`this names \`${IP}\`, and nothing did`)
-  if (node === undefined || ip === undefined || refusals.length > 0) return { refused: refusals }
-  return { node, ip, cluster: flags.get(CLUSTER) ?? null }
+  readonly cluster?: string
 }
 
 export type Registering = (yaml: string) => Promise<string>
@@ -169,7 +114,7 @@ async function applying(
   if (!existsSync(secretsPath)) {
     return mistaking([
       `no cluster secrets are at ${secretsPath}`,
-      `\`${given.calledAs} talos secret-gen ${CLUSTER} ${name}\` writes them, and an apply reads them`,
+      `\`${given.calledAs} talos secret-gen ${clusterArgument.said} ${name}\` writes them, and an apply reads them`,
     ])
   }
 
@@ -250,7 +195,9 @@ export async function talosApply(
   running: Running = runTalosctl,
   keeping: Keeping = keptTalosconfig
 ): Promise<Answer> {
-  const read = readIn(argv)
+  const read = takenFor(argv, given.calledAs, page, [nodeArgument, clusterArgument, ipArgument])
   if ("refused" in read) return mistaking(read.refused)
-  return await answering(async (done) => applying(read, given, registering, running, keeping, done))
+  return await answering(async (done) =>
+    applying(read.taken, given, registering, running, keeping, done)
+  )
 }

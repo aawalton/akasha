@@ -11,7 +11,6 @@ import type {
   Running,
 } from "akasha/commands/pages/talos/apply/talos-apply.command.code.ts"
 import {
-  readIn,
   tookSaid,
   wroteConfig,
 } from "akasha/commands/pages/talos/apply/talos-apply.command.code.ts"
@@ -40,10 +39,6 @@ function running(upTo: number): Running {
     return undefined
   }
 }
-
-test("a node named twice is refused", () => {
-  expect("refused" in readIn(["one", "--node", "two", "--ip", "10.0.0.7"])).toBe(true)
-})
 
 test("the talosconfig and the node are each named as soon as each is written", async () => {
   const done: string[] = []
