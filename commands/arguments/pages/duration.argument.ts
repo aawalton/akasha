@@ -8,4 +8,5 @@ export const duration = {
   takes: "how many seconds the song runs for",
   value: "whole-number",
   placeholder: "s",
+  default: "30",
 } as const satisfies Argument

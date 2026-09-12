@@ -54,6 +54,10 @@ export const inferenceMusic = {
     { argument: "argument/prompt-file" },
     { argument: "argument/lyrics-file" },
     { argument: "argument/lyrics", notWith: ["argument/lyrics-file"] },
-    { argument: "argument/render-prompt", notWith: ["argument/prompt-file"] },
+    {
+      argument: "argument/render-prompt",
+      notWith: ["argument/prompt-file"],
+      oneOf: ["argument/prompt-file"],
+    },
   ],
 } as const satisfies Command

@@ -8,4 +8,5 @@ export const vocalLanguage = {
   takes: "the language the singing is in",
   value: "text",
   placeholder: "code",
+  default: "en",
 } as const satisfies Argument
