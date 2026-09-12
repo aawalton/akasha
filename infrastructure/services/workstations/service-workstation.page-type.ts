@@ -44,7 +44,6 @@ export const serviceWorkstation = {
     "text-property/part-of",
     "select-property/restart",
     "text-property/run-argument",
-    "text-property/run-before",
     "text-property/runs",
     "text-property/schedule",
     "text-property/stops",

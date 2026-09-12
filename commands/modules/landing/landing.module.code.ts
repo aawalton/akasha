@@ -399,7 +399,7 @@ export async function landing(
           const cleared = clearedOff(root, gone)
           const linked = linkedOver(root, moves, homedir())
           const placed = linkedInPlace(root, homedir())
-          const units = unitsLanded(root, homedir())
+          const units = unitsLanded(root, homedir(), commit, [...wrote, ...took])
           return { base, commit, wrote, took, noted, cleared, linked, placed, units, untracked }
         } catch (failed) {
           aside.back()

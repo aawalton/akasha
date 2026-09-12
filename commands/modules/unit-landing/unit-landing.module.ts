@@ -5,7 +5,7 @@ export const unitLanding = {
   type: "module",
   slug: "unit-landing",
   definition:
-    "the workstation units kept as their pages state them, started again only where behaviour drifted",
+    "the workstation units kept as their pages state them, started again only where behaviour changed",
   code: "ts",
   test: "ts",
   invariants: [
@@ -57,7 +57,26 @@ export const unitLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "The field that started a service again is named in what is said.",
+      statement:
+        "A service is started again as well where a file that service reaches changed in the commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A service whose reach the commit left alone is started again by nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A service started again because no unit field drifted is told about with no unit written.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What started a service again is said as the field that changed or as the file that changed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A service both a field and a file started again is said to have both reasons.",
     },
     {
       invariantKind: "departure",
@@ -72,6 +91,23 @@ export const unitLanding = {
       invariantKind: "departure",
       statement:
         "A unit whose installed text could not be read is written and started again by nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing moves the kind's tree to the commit that landing made.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The tree is moved before any service is started again, so what comes up runs the new code.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing that committed nothing moves no tree and starts nothing again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tree git will not move is said as wrong and the units are still kept.",
     },
     {
       invariantKind: "departure",
@@ -91,6 +127,10 @@ export const unitLanding = {
       statement: "A reload that refuses leaves the units written and starts nothing again.",
     },
     {
+      invariantKind: "departure",
+      statement: "A reach that will not answer is said as wrong and starts nothing again.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here installs a unit, enables one, or takes one away.",
     },
@@ -101,6 +141,10 @@ export const unitLanding = {
     {
       invariantKind: "absence",
       statement: "Nothing here reads a page that is not a workstation service's.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here works out for itself which files a service reaches.",
     },
     {
       invariantKind: "absence",

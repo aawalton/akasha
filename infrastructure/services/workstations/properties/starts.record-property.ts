@@ -8,7 +8,6 @@ export const starts = {
   definition: "a command a service starts, naming the page it runs rather than spelling a path",
   properties: [
     { pageProperty: "relation-property/run-code", required: true, many: false },
-    { pageProperty: "text-property/run-before", required: false, many: true, maxCount: null },
     { pageProperty: "relation-property/run-page", required: false, many: true, maxCount: null },
     { pageProperty: "text-property/run-argument", required: false, many: true, maxCount: null },
     { pageProperty: "boolean-property/lenient", required: false, many: false },

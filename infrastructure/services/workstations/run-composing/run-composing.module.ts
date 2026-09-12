@@ -35,10 +35,6 @@ export const runComposing = {
     },
     {
       invariantKind: "departure",
-      statement: "A word placed before the runner is spelled out rather than named.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A file held as TypeScript is run by bun and one held as shell by bash.",
     },
     {

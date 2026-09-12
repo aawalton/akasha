@@ -18,7 +18,6 @@ const SPACE = " "
 
 export type Start = {
   readonly code: string
-  readonly before?: readonly string[]
   readonly pages?: readonly string[]
   readonly arguments?: readonly string[]
   readonly lenient?: boolean
@@ -114,7 +113,7 @@ export function commandOf(root: string, start: Start, codeAt: string = ""): Comp
   const run = runOf(root, start.code)
   if ("refused" in run) return run
   const runAt = codeAt === "" ? run.path : join(codeAt, run.path)
-  const words: string[] = [...(start.before ?? []), run.runner, runAt]
+  const words: string[] = [run.runner, runAt]
   for (const named of start.pages ?? []) {
     const at = pathOf(root, named)
     if (typeof at !== "string") return at
@@ -139,12 +138,10 @@ export function startIn(held: unknown): Start | null {
   const said = held as Record<string, unknown>
   const code = said.code
   if (typeof code !== "string") return null
-  const before = wordsIn(said.before)
   const pages = wordsIn(said.pages)
   const words = wordsIn(said.arguments)
   return {
     code,
-    ...(before === null ? {} : { before }),
     ...(pages === null ? {} : { pages }),
     ...(words === null ? {} : { arguments: words }),
     ...(said.lenient === true ? { lenient: true } : {}),
