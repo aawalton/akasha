@@ -6,7 +6,25 @@ export const logDayWriting = {
   slug: "log-day-writing",
   definition: "a seat's log lines appended to the log day page the date of each line names",
   code: "ts",
+  test: "ts",
   invariants: [
+    {
+      invariantKind: "constraint",
+      statement: "A page body written here parses.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A source, a seat and a date whose day names no export leave every line for that day unwritten.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Whether a day names an export is answered by the page owning export names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page that could not be composed is kept as a refusal rather than thrown.",
+    },
     {
       invariantKind: "departure",
       statement: "A line is written after the call that wrote the line has returned.",

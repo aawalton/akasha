@@ -9,7 +9,11 @@ import {
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { ENTRY_CEILING } from "akasha/pages/entry-ceiling/entry-ceiling.module.code.ts"
-import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import {
+  exportedAs,
+  nameFaultIn,
+  typedAs,
+} from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { uncommittedPartAt } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
 import { partFiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
@@ -157,9 +161,16 @@ function refusingAppender(pagePath: string, say: string): Appender {
   }
 }
 
+export function boundFaultIn(source: string, seatName: string, date: string): string | null {
+  const held = nameFaultIn(dayNameOf(source, seatName, date)) ?? nameFaultIn(source)
+  return held === null ? null : `${held}, so no line is written`
+}
+
 function appenderFor(root: string, source: string, seatName: string, date: string): Appender {
   const slug = dayNameOf(source, seatName, date)
   const pagePath = dayPathIn(root, slug)
+  const bound = boundFaultIn(source, seatName, date)
+  if (bound !== null) return refusingAppender(pagePath, bound)
   const held = lastPartOf(root, pagePath)
   if (held === null) {
     return refusingAppender(pagePath, `no part could be named beside ${pagePath}`)
@@ -170,24 +181,28 @@ function appenderFor(root: string, source: string, seatName: string, date: strin
   let bytes = held.bytes
   let refused: string | null = null
   let queued: Promise<void> = (async () => {
-    const sourceAt = sourcePathOf(root, source)
-    const sourceUp = await putUp(
-      root,
-      sourceAt,
-      sourceBodyOf(root, source),
-      `${source}: a log source is the log one program keeps`
-    )
-    if (!sourceUp) {
-      refused = `no page landed at ${sourceAt}, so no line is written`
-      return
+    try {
+      const sourceAt = sourcePathOf(root, source)
+      const sourceUp = await putUp(
+        root,
+        sourceAt,
+        sourceBodyOf(root, source),
+        `${source}: a log source is the log one program keeps`
+      )
+      if (!sourceUp) {
+        refused = `no page landed at ${sourceAt}, so no line is written`
+        return
+      }
+      const dayUp = await putUp(
+        root,
+        pagePath,
+        dayBodyOf(root, slug, source, seatName, date),
+        `${slug}: one source's lines for one seat on one day`
+      )
+      if (!dayUp) refused = `no page landed at ${pagePath}, so no line is written`
+    } catch (error) {
+      refused = `no page landed at ${pagePath}, so no line is written: ${error instanceof Error ? error.message : String(error)}`
     }
-    const dayUp = await putUp(
-      root,
-      pagePath,
-      dayBodyOf(root, slug, source, seatName, date),
-      `${slug}: one source's lines for one seat on one day`
-    )
-    if (!dayUp) refused = `no page landed at ${pagePath}, so no line is written`
   })()
   return {
     append: (line): undefined => {
