@@ -1,4 +1,3 @@
-import * as ResearchGrid from "akasha/temper/crafting-addon/craft-research-grid/craft-research-grid.module.code.ts"
 import {
   type CraftedSetEntry,
   SETS,
@@ -15,6 +14,7 @@ import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-stat
 import { defined } from "akasha/temper/crafting-addon/modules/craft-defined/craft-defined.module.code.ts"
 import type { NameSortable } from "akasha/temper/crafting-addon/modules/craft-player-state/craft-player-state.module.code.ts"
 import * as PlayerState from "akasha/temper/crafting-addon/modules/craft-player-state/craft-player-state.module.code.ts"
+import * as ResearchGrid from "akasha/temper/crafting-addon/modules/craft-research-grid/craft-research-grid.module.code.ts"
 
 function asWidth(this: void, value: unknown): number {
   return value as number

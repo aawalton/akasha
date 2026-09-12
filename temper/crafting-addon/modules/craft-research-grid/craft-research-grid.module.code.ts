@@ -1,7 +1,3 @@
-import {
-  needAppend,
-  updateTrackingStatus,
-} from "akasha/temper/crafting-addon/craft-research-tracking/craft-research-tracking.module.code.ts"
 import type { CsTooltipOwner } from "akasha/temper/crafting-addon/craft-tooltips/craft-tooltips.module.code.ts"
 import * as Tooltips from "akasha/temper/crafting-addon/craft-tooltips/craft-tooltips.module.code.ts"
 import * as Utilities from "akasha/temper/crafting-addon/craft-utilities/craft-utilities.module.code.ts"
@@ -14,6 +10,10 @@ import * as Characters from "akasha/temper/crafting-addon/modules/craft-characte
 import { CRAFT_ICON } from "akasha/temper/crafting-addon/modules/craft-icons/craft-icons.module.code.ts"
 import * as Inventory from "akasha/temper/crafting-addon/modules/craft-inventory/craft-inventory.module.code.ts"
 import { LANG } from "akasha/temper/crafting-addon/modules/craft-lang-index/craft-lang-index.module.code.ts"
+import {
+  needAppend,
+  updateTrackingStatus,
+} from "akasha/temper/crafting-addon/modules/craft-research-tracking/craft-research-tracking.module.code.ts"
 
 const WM = WINDOW_MANAGER
 

@@ -1,7 +1,7 @@
-import type { RgbColor } from "akasha/temper/crafting-addon/craft-rune-crafting/craft-rune-crafting.module.code.ts"
 import { CB_CONTROL_SHOW } from "akasha/temper/crafting-addon/crafting-constants/crafting-constants.module.code.ts"
 import { hideControl } from "akasha/temper/crafting-addon/crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
+import type { RgbColor } from "akasha/temper/crafting-addon/modules/craft-rune-crafting/craft-rune-crafting.module.code.ts"
 
 export function runeView(mode: number): undefined {
   const close = () => {

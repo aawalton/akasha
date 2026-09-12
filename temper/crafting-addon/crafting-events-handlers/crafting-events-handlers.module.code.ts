@@ -1,8 +1,3 @@
-import { updatePanelIcon } from "akasha/temper/crafting-addon/craft-research-grid/craft-research-grid.module.code.ts"
-import type {
-  RuneRefineGlyphEntry,
-  RuneTable,
-} from "akasha/temper/crafting-addon/craft-rune/craft-rune.module.code.ts"
 import {
   hideCrownStyles,
   hideKnownBlueprints,
@@ -47,6 +42,11 @@ import {
   updateResearch,
   updateResearchWindows,
 } from "akasha/temper/crafting-addon/modules/craft-research/craft-research.module.code.ts"
+import { updatePanelIcon } from "akasha/temper/crafting-addon/modules/craft-research-grid/craft-research-grid.module.code.ts"
+import type {
+  RuneRefineGlyphEntry,
+  RuneTable,
+} from "akasha/temper/crafting-addon/modules/craft-rune/craft-rune.module.code.ts"
 import { runeShowMode } from "akasha/temper/crafting-addon/rune-mode/rune-mode.module.code.ts"
 import {
   runeHideVanillaUI,

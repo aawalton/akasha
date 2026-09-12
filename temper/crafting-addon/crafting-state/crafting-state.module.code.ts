@@ -1,8 +1,4 @@
 import {
-  RUNE,
-  type RuneTable,
-} from "akasha/temper/crafting-addon/craft-rune/craft-rune.module.code.ts"
-import {
   type CraftedSetEntry,
   SETS,
 } from "akasha/temper/crafting-addon/craft-sets-data/craft-sets-data.module.code.ts"
@@ -30,6 +26,10 @@ import {
   QUALITY,
   QUALITY_HEX,
 } from "akasha/temper/crafting-addon/modules/craft-quality/craft-quality.module.code.ts"
+import {
+  RUNE,
+  type RuneTable,
+} from "akasha/temper/crafting-addon/modules/craft-rune/craft-rune.module.code.ts"
 
 export interface StyleNameRow {
   name: string

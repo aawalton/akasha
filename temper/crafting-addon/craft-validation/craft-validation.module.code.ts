@@ -1,5 +1,3 @@
-import { needAppend } from "akasha/temper/crafting-addon/craft-research-tracking/craft-research-tracking.module.code.ts"
-import { RUNE } from "akasha/temper/crafting-addon/craft-rune/craft-rune.module.code.ts"
 import {
   splitLink,
   stripLink,
@@ -7,6 +5,8 @@ import {
 import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 import * as Characters from "akasha/temper/crafting-addon/modules/craft-characters/craft-characters.module.code.ts"
 import * as Knowledge from "akasha/temper/crafting-addon/modules/craft-knowledge/craft-knowledge.module.code.ts"
+import { needAppend } from "akasha/temper/crafting-addon/modules/craft-research-tracking/craft-research-tracking.module.code.ts"
+import { RUNE } from "akasha/temper/crafting-addon/modules/craft-rune/craft-rune.module.code.ts"
 
 const defined = <T>(value: T | undefined): T =>
   value ?? error("TemperCrafting: missing data table entry")

@@ -1,7 +1,7 @@
-import * as ResearchGrid from "akasha/temper/crafting-addon/craft-research-grid/craft-research-grid.module.code.ts"
-import * as RuneCrafting from "akasha/temper/crafting-addon/craft-rune-crafting/craft-rune-crafting.module.code.ts"
 import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 import * as Options from "akasha/temper/crafting-addon/modules/craft-options/craft-options.module.code.ts"
+import * as ResearchGrid from "akasha/temper/crafting-addon/modules/craft-research-grid/craft-research-grid.module.code.ts"
+import * as RuneCrafting from "akasha/temper/crafting-addon/modules/craft-rune-crafting/craft-rune-crafting.module.code.ts"
 
 import { runeShowMode } from "akasha/temper/crafting-addon/rune-mode/rune-mode.module.code.ts"
 
