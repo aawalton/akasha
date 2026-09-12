@@ -9,26 +9,6 @@ export const changeDraft = {
   test: "ts",
   changeKind: "change-mechanical",
   timeout: null,
-  helpNotes: [
-    "the change to answer is the first word, and the arguments that change takes are piped in.",
-    "a call naming no change is refused with every change a draft runs.",
-    "an argument is a line `key: value`, or `key <fence>` opening a body that `<fence>` alone closes.",
-    "`key <fence> no-newline` opens a body whose last line keeps no newline.",
-    "the fence is yours to pick, so a body carrying one run of characters is opened with another.",
-    "nothing on the command line carries a value, so no shell reads a quote or a backslash.",
-    "`at` names a path, read against the repository root.",
-    "a draft keeps the edits beside this agent's page and lands nothing.",
-    "`akasha change apply` lands every edit kept, so many drafts land as one commit.",
-    "`message` is refused here, because a draft makes no commit for a message to say.",
-    "`draft` is refused here, because the word `draft` already says it.",
-    "`measure` is refused here, because a draft lands nothing for the checks to measure.",
-    "two drafts leave two sets of edits in the order the runs were made.",
-    "a draft reads the world as every edit kept before it had already landed.",
-    "a draft that refuses keeps nothing and leaves the edits as the edits were.",
-    "no check runs over a draft, and the checks run where the edits land.",
-    "a draft is refused where its writer has not read what the draft writes.",
-    "a draft runs under no ceiling on the clock, and a change past the processor seconds its page allows keeps nothing.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -40,7 +20,32 @@ export const changeDraft = {
     },
     {
       invariantKind: "departure",
+      statement: "That refusal names every change a draft runs.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The arguments the change takes are read from standard input.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An argument is a line `key: value` or `key <fence>` opening a body `<fence>` alone closes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The fence is the caller's to pick.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body opened `key <fence> no-newline` keeps no newline on its last line.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The key `at` names a path, read against the repository root.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Two drafts leave two sets of edits in the order the runs were made.",
     },
     {
       invariantKind: "departure",
