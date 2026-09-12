@@ -7,8 +7,8 @@ import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
 import { useColumnCount } from "akasha/design/interfaces/layout/use-column-count/use-column-count.module.code.tsx"
 import { TabsContent } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import {
   Table,

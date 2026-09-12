@@ -9,7 +9,7 @@ import {
   PanelSummaryProvider,
 } from "akasha/design/interfaces/layout/panel-default-open-context/panel-default-open-context.module.code.tsx"
 import { useColumnCount } from "akasha/design/interfaces/layout/use-column-count/use-column-count.module.code.tsx"
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import type * as React from "react"
 import { Children } from "react"
 

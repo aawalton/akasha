@@ -1,7 +1,7 @@
 "use client"
 
 import * as TogglePrimitive from "@radix-ui/react-toggle"
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import {
   type SurfaceLevel,
   surfaceClass,

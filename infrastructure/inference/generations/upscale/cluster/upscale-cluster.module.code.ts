@@ -3,7 +3,7 @@ import {
   createJob,
   readJobPodLogs,
   waitForJob,
-} from "akasha/infrastructure/cluster/api/cluster-jobs/cluster-jobs.module.code.ts"
+} from "akasha/infrastructure/cluster/api/modules/cluster-jobs/cluster-jobs.module.code.ts"
 import {
   buildUpscaleServingJob,
   UPSCALE_SERVING_BUCKET,

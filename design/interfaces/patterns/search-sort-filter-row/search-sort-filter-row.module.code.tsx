@@ -1,7 +1,7 @@
 "use client"
 
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { X } from "lucide-react"
 
 interface SearchSortFilterRowProps {

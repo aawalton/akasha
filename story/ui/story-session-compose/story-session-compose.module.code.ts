@@ -8,7 +8,7 @@ import {
 import type {
   ClientStoryChapter,
   ClientStoryTurn,
-} from "akasha/story/ui/client-story-session/client-story-session.module.code.ts"
+} from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import { z } from "zod"
 
 const TURN_PAGE_TYPE_SLUG = toPageTypeSlug("game-turn")

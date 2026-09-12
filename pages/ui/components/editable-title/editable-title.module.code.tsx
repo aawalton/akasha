@@ -1,7 +1,7 @@
 "use client"
 
 import { PAGE_TITLE_CLASSES } from "akasha/design/interfaces/layout/page-layout-data/page-layout-data.module.code.ts"
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { useCallback, useEffect, useRef, useState } from "react"
 
 interface EditableTitleProps {

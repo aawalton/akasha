@@ -2,7 +2,7 @@
 
 import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
 import { ButtonBadge } from "akasha/design/interfaces/badges/modules/button-badge/button-badge.module.code.tsx"
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { Textarea } from "akasha/design/interfaces/primitives/textarea/textarea.module.code.tsx"
 import type { PropertyBadgeProps } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
 import { MarkdownRenderer } from "akasha/pages/ui/markdown/markdown-renderer/markdown-renderer.module.code.tsx"

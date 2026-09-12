@@ -23,7 +23,7 @@ import {
   type SortRowMeasure,
 } from "akasha/design/interfaces/patterns/sort-group-helpers/sort-group-helpers.module.code.ts"
 import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { ArrowDown, ArrowUp, GripVertical, X } from "lucide-react"
 import type { CSSProperties, HTMLAttributes } from "react"
 import { useCallback, useEffect, useMemo, useRef, useState } from "react"

@@ -2,8 +2,8 @@ import {
   getConfig,
   k8sFetch,
   refuse,
-} from "akasha/infrastructure/cluster/api/cluster-fetch/cluster-fetch.module.code.ts"
-import { listPods } from "akasha/infrastructure/cluster/api/cluster-workloads/cluster-workloads.module.code.ts"
+} from "akasha/infrastructure/cluster/api/modules/cluster-fetch/cluster-fetch.module.code.ts"
+import { listPods } from "akasha/infrastructure/cluster/api/modules/cluster-workloads/cluster-workloads.module.code.ts"
 import { z } from "zod"
 
 const JobCreateResponseSchema = z

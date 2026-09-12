@@ -3,13 +3,13 @@
 import { PANEL_CARD_WIDTH_CLASSES } from "akasha/design/interfaces/layout/panel-card-data/panel-card-data.module.code.ts"
 import { IconPicker } from "akasha/design/interfaces/patterns/icon-picker/icon-picker.module.code.tsx"
 import { Icon } from "akasha/design/interfaces/patterns/lucide-icon/lucide-icon.module.code.tsx"
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import {
   Card,
   CardContent,
   CardHeader,
   CardTitle,
 } from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import type { IconName } from "akasha/pages/core/generated/icon-search-index/icon-search-index.module.code.ts"

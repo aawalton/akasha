@@ -1,6 +1,5 @@
 "use client"
 
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import {
   Dialog,
   DialogContent,
@@ -9,6 +8,7 @@ import {
 } from "akasha/design/interfaces/primitives/dialog/dialog.module.code.tsx"
 import { FilterTextField } from "akasha/design/interfaces/primitives/filterable-list/filterable-list.module.code.tsx"
 import { PALETTE_ONLY } from "akasha/design/interfaces/primitives/keyboard-registry/keyboard-registry.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { filterDescriptorsByLabel } from "akasha/design/interfaces/primitives/shortcut-surfaces/shortcut-surfaces.module.code.ts"
 import {
   triggerBinding,

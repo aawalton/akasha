@@ -6,9 +6,9 @@ import { ItemCard } from "akasha/design/interfaces/patterns/item-card/item-card.
 import { ItemRow } from "akasha/design/interfaces/patterns/item-row/item-row.module.code.tsx"
 import { Chip } from "akasha/design/interfaces/patterns/modules/chip/chip.module.code.tsx"
 import { ChipList } from "akasha/design/interfaces/patterns/modules/chip-list/chip-list.module.code.tsx"
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import { HorizontalScrollFade } from "akasha/design/interfaces/primitives/horizontal-scroll-fade/horizontal-scroll-fade.module.code.tsx"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import {
   ScrollArea,
   ScrollBar,

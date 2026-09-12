@@ -1,7 +1,6 @@
 "use client"
 
 import { InlineEditableText } from "akasha/design/interfaces/forms/inline-editable-text/inline-editable-text.module.code.tsx"
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import {
   DropdownMenu,
   DropdownMenuContent,
@@ -9,6 +8,7 @@ import {
   DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from "akasha/design/interfaces/primitives/dropdown-menu/dropdown-menu.module.code.tsx"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import type { CategoryRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { ChevronDown, EllipsisVertical, Info } from "lucide-react"
 

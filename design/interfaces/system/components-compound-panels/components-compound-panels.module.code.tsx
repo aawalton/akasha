@@ -10,7 +10,6 @@ import {
 } from "akasha/design/interfaces/forms/field/field.module.code.tsx"
 import { Calendar } from "akasha/design/interfaces/forms/modules/calendar/calendar.module.code.tsx"
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import {
   Command,
   CommandEmpty,
@@ -30,6 +29,7 @@ import {
   CarouselNext,
   CarouselPrevious,
 } from "akasha/design/interfaces/primitives/modules/carousel/carousel.module.code.tsx"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import {
   ResizableHandle,
   ResizablePanel,

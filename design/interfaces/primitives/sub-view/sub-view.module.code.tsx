@@ -1,7 +1,7 @@
 "use client"
 
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { ChevronLeft } from "lucide-react"
 import type { ReactNode } from "react"
 

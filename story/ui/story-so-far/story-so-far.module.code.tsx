@@ -1,5 +1,5 @@
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
-import type { ClientStoryChapter } from "akasha/story/ui/client-story-session/client-story-session.module.code.ts"
+import type { ClientStoryChapter } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import { useState } from "react"
 
 export function StorySoFar({

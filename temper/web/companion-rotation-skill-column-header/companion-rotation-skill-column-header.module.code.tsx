@@ -1,6 +1,5 @@
 "use client"
 
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import {
   Dialog,
   DialogBody,
@@ -8,6 +7,7 @@ import {
   DialogTitle,
   DialogTrigger,
 } from "akasha/design/interfaces/primitives/dialog/dialog.module.code.tsx"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { TableHead } from "akasha/design/interfaces/primitives/table/table.module.code.tsx"
 import type { SkillSlotData } from "akasha/temper/companions-core/companion-rotation-slot/companion-rotation-slot.module.code.ts"

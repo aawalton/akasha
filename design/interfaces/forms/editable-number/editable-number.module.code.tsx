@@ -1,6 +1,6 @@
 "use client"
 
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { useNumberDraft } from "akasha/design/interfaces/primitives/use-number-draft/use-number-draft.module.code.ts"
 import * as React from "react"
 

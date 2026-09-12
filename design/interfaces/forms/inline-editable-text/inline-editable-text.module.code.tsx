@@ -2,7 +2,7 @@
 
 import { stripDisplayOnlyClasses } from "akasha/design/interfaces/forms/display-only-classes/display-only-classes.module.code.ts"
 import { inlineEditKeyDown } from "akasha/design/interfaces/forms/inline-edit-keys/inline-edit-keys.module.code.ts"
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { useEffect, useRef, useState } from "react"

@@ -1,12 +1,12 @@
 "use client"
 
 import * as DropdownMenuPrimitive from "@radix-ui/react-dropdown-menu"
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import {
   ListFilterInput,
   ListFilterProvider,
   useListFilterItem,
 } from "akasha/design/interfaces/primitives/filterable-list/filterable-list.module.code.tsx"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { POPOVER_COLLISION_PADDING } from "akasha/design/interfaces/primitives/popover-tokens/popover-tokens.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { SurfaceProvider } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"

@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import type { ClientStoryTurn } from "akasha/story/ui/client-story-session/client-story-session.module.code.ts"
+import type { ClientStoryTurn } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import { projectProseRows } from "akasha/story/ui/story-prose-dividers/story-prose-dividers.module.code.ts"
 
 const turn = (overrides: Partial<ClientStoryTurn>): ClientStoryTurn => ({

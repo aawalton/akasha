@@ -1,6 +1,10 @@
 import type { GameDisplayModules } from "akasha/story/engine/core/game-schema/game-schema.module.code.ts"
 import { classifyActionBarMessage } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
 import type { GameState } from "akasha/story/engine/core/state-schema/state-schema.module.code.ts"
+import type {
+  PendingActionInput,
+  SessionEnvelope,
+} from "akasha/story/ui/modules/client-envelope/client-envelope.module.code.ts"
 import {
   type ClientBeat,
   projectClientBeats,
@@ -8,15 +12,11 @@ import {
   projectClientQuests,
   projectClientSheet,
   projectStateChapterLinks,
-} from "akasha/story/ui/client-session/client-session.module.code.ts"
+} from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
 import type {
   ClientStoryChapter,
   ClientStoryTurn,
-} from "akasha/story/ui/client-story-session/client-story-session.module.code.ts"
-import type {
-  PendingActionInput,
-  SessionEnvelope,
-} from "akasha/story/ui/modules/client-envelope/client-envelope.module.code.ts"
+} from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import { selectPendingActions } from "akasha/story/ui/pending-actions/pending-actions.module.code.ts"
 import {
   interleaveTurnSegments,

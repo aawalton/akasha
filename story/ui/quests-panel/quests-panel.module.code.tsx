@@ -1,6 +1,6 @@
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { SurfaceProvider } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
-import type { ClientQuest } from "akasha/story/ui/client-session/client-session.module.code.ts"
+import type { ClientQuest } from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
 import {
   QuestFields,
   QuestStatusBadge,

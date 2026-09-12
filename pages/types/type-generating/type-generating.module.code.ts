@@ -1,11 +1,11 @@
 import type { Adding, Replacing } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { formattedBody } from "akasha/code/format/code-format.module.code.ts"
 import {
   bodyFor,
   type Held,
   heldOver,
 } from "akasha/code/modules/body-loading/body-loading.module.code.ts"
 import { textOf } from "akasha/code/modules/body-text/body-text.module.code.ts"
+import { formattedBody } from "akasha/code/modules/format/code-format.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { readingIn, valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"

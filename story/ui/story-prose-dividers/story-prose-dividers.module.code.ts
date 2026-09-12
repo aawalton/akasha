@@ -2,7 +2,7 @@ import type {
   ChapterProsePastTurns,
   ChapterProseTitles,
 } from "akasha/story/engine/core/game-schema/game-schema.module.code.ts"
-import type { ClientStoryTurn } from "akasha/story/ui/client-story-session/client-story-session.module.code.ts"
+import type { ClientStoryTurn } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 
 export interface ProseRow {
   readonly turn: ClientStoryTurn

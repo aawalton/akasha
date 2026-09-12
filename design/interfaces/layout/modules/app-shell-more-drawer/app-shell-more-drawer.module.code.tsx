@@ -10,12 +10,12 @@ import {
   LayoutLink,
   useLayoutPathname,
 } from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import {
   Drawer,
   DrawerContent,
   DrawerTitle,
 } from "akasha/design/interfaces/primitives/drawer/drawer.module.code.tsx"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { ChevronRightIcon } from "lucide-react"
 
 interface AppShellMoreDrawerProps {

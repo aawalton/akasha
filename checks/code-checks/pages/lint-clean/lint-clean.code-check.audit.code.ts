@@ -8,7 +8,7 @@ import {
 } from "akasha/checks/code-checks/pages/lint-clean/lint-clean.code-check.decision.code.ts"
 import { everythingIn } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { lintedOver } from "akasha/code/lint/code-lint.module.code.ts"
+import { lintedOver } from "akasha/code/modules/lint/code-lint.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { pagesUnder } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
 

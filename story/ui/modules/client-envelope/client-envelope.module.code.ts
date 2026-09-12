@@ -9,11 +9,11 @@ import {
   ClientHudSchema,
   ClientQuestSchema,
   ClientSheetSchema,
-} from "akasha/story/ui/client-session/client-session.module.code.ts"
+} from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
 import {
   ClientStoryChapterSchema,
   ClientStoryTurnSchema,
-} from "akasha/story/ui/client-story-session/client-story-session.module.code.ts"
+} from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import { z } from "zod"
 
 export interface PendingActionInput {

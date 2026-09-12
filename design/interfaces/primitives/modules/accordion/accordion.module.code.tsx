@@ -1,7 +1,7 @@
 "use client"
 
 import * as AccordionPrimitive from "@radix-ui/react-accordion"
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { ChevronDownIcon } from "lucide-react"
 import type * as React from "react"
 

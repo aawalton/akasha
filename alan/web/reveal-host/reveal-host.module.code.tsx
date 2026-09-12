@@ -8,7 +8,7 @@ import {
 } from "akasha/alan/web/idle-reveal-store/idle-reveal-store.module.code.ts"
 import { StarRow } from "akasha/alan/web/star-row/star-row.module.code.tsx"
 import { Icon } from "akasha/design/interfaces/patterns/lucide-icon/lucide-icon.module.code.tsx"
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { DegradingImage } from "akasha/pages/ui/components/degrading-image/degrading-image.module.code.tsx"

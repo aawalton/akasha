@@ -11,8 +11,8 @@ import type {
   Answer as Said,
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { bodyIn } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { formattedBodies } from "akasha/code/format/code-format.module.code.ts"
 import { textIn } from "akasha/code/modules/body-text/body-text.module.code.ts"
+import { formattedBodies } from "akasha/code/modules/format/code-format.module.code.ts"
 import type { FileMove } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
 import { bodyAt } from "akasha/git/commit-reading/commit-reading.module.code.ts"
 import { said as gitSaid } from "akasha/git/running/git-running.module.code.ts"

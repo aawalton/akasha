@@ -1,4 +1,3 @@
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import {
   Collapsible,
   CollapsibleContent,
@@ -17,6 +16,7 @@ import {
   DialogTitle,
 } from "akasha/design/interfaces/primitives/dialog/dialog.module.code.tsx"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import {
   type SkillId,
   skills,

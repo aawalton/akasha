@@ -5,8 +5,8 @@ import {
   BadgeRow,
 } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
 import { BadgeLayoutProvider } from "akasha/design/interfaces/badges/modules/badge-layout-context/badge-layout-context.module.code.tsx"
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import { Input } from "akasha/design/interfaces/primitives/input/input.module.code.tsx"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { Textarea } from "akasha/design/interfaces/primitives/textarea/textarea.module.code.tsx"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"

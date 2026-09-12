@@ -2,12 +2,12 @@
 
 import * as TabsPrimitive from "@radix-ui/react-tabs"
 import { useLayoutRouter } from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import {
   DropdownMenu,
   DropdownMenuTrigger,
 } from "akasha/design/interfaces/primitives/dropdown-menu/dropdown-menu.module.code.tsx"
 import { handleHomeEndScroll } from "akasha/design/interfaces/primitives/home-end-scroll/home-end-scroll.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import {
   clampSurfaceLevel,
   surfaceClass,

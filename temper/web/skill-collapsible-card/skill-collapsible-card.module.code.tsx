@@ -1,6 +1,6 @@
 "use client"
 
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import type { Skill } from "akasha/temper/character-skills/modules/character-skills/character-skills.module.code.ts"
 import { getEsoIconUrl } from "akasha/temper/formula-framework/eso-icon-url/eso-icon-url.module.code.ts"

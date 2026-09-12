@@ -1,4 +1,4 @@
-import type { ClientQuest } from "akasha/story/ui/client-session/client-session.module.code.ts"
+import type { ClientQuest } from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
 
 export function deriveQuestPanel(quests: readonly ClientQuest[]): readonly ClientQuest[] {
   return quests.filter((q) => q.status !== "complete")

@@ -1,6 +1,6 @@
 import type { QuestStatus } from "akasha/story/engine/core/quest-schema/quest-schema.module.code.ts"
-import type { ClientQuest } from "akasha/story/ui/client-session/client-session.module.code.ts"
 import { CardField } from "akasha/story/ui/modules/card-field/card-field.module.code.tsx"
+import type { ClientQuest } from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
 
 const STATUS_LABEL: Record<QuestStatus, string> = {
   active: "Active",

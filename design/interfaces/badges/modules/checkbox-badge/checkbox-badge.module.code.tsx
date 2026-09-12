@@ -4,7 +4,7 @@ import {
   Badge,
   type BadgeVariant,
 } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { CheckIcon } from "lucide-react"
 import type { KeyboardEvent } from "react"
 

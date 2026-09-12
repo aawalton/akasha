@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import type { ClientQuest } from "akasha/story/ui/client-session/client-session.module.code.ts"
+import type { ClientQuest } from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
 import { deriveQuestPanel } from "akasha/story/ui/quest-projection/quest-projection.module.code.ts"
 
 const quest = (id: string, status: ClientQuest["status"]): ClientQuest => ({

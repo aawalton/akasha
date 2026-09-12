@@ -1,6 +1,6 @@
 "use client"
 
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { Textarea } from "akasha/design/interfaces/primitives/textarea/textarea.module.code.tsx"
 import type { ShorthandTransform } from "akasha/pages/core/property-types/markdown-shorthand/markdown-shorthand.module.code.ts"
 import { isTodoChecked } from "akasha/pages/core/property-types/modules/block-markers/block-markers.module.code.ts"

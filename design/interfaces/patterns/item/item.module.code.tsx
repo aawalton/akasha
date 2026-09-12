@@ -1,7 +1,7 @@
 "use client"
 
 import { Slot } from "@radix-ui/react-slot"
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import {
   type SurfaceLevel,
   surfaceClass,

@@ -9,8 +9,8 @@ import {
   TabsTrigger,
 } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
 import { useSetToggle } from "akasha/design/interfaces/patterns/use-set-toggle/use-set-toggle.module.code.ts"
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import { formatGold } from "akasha/design/interfaces/primitives/format-gold/format-gold.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { ScrollArea } from "akasha/design/interfaces/primitives/scroll-area/scroll-area.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"

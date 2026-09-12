@@ -11,7 +11,7 @@ import {
 } from "akasha/design/interfaces/layout/page-layout-data/page-layout-data.module.code.ts"
 import { ResponsiveColumnsSkeleton } from "akasha/design/interfaces/layout/responsive-columns-skeleton/responsive-columns-skeleton.module.code.tsx"
 import { useColumnCount } from "akasha/design/interfaces/layout/use-column-count/use-column-count.module.code.tsx"
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { Skeleton } from "akasha/design/interfaces/primitives/skeleton/skeleton.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import * as React from "react"

@@ -11,7 +11,7 @@ import {
 } from "@dnd-kit/core"
 import { restrictToHorizontalAxis } from "@dnd-kit/modifiers"
 import { horizontalListSortingStrategy, SortableContext, useSortable } from "@dnd-kit/sortable"
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import {
   Table,
   TableHead,

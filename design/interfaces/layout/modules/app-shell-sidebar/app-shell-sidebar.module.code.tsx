@@ -11,8 +11,8 @@ import {
 } from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
 import { SidebarNavGroup } from "akasha/design/interfaces/layout/sidebar-nav-group/sidebar-nav-group.module.code.tsx"
 import { useSidebarState } from "akasha/design/interfaces/layout/use-sidebar-state/use-sidebar-state.module.code.ts"
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import {
   Popover,
   PopoverContent,

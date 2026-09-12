@@ -2,7 +2,7 @@ import type { GameState } from "akasha/alan/harness/idle-system/idle-state/idle-
 import { deriveLegacyPerksView } from "akasha/alan/web/idle-display/idle-display.module.code.ts"
 import { ErrorMessage } from "akasha/alan/web/idle-error-message/idle-error-message.module.code.tsx"
 import type { IdleActions } from "akasha/alan/web/use-idle-actions/use-idle-actions.module.code.ts"
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { formatShortNumber as fmt } from "akasha/pages/core/property-types/number/number.module.code.ts"
