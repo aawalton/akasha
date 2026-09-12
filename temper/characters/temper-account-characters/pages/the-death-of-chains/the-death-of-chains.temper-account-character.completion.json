@@ -3429,7 +3429,7 @@
       "nextRankXP": 211320
     },
     "111": {
-      "currentXP": 66,
+      "currentXP": 79,
       "currentRank": 7,
       "nextRankXP": 160
     },
@@ -13338,8 +13338,8 @@
     "carryCapacity": 60
   },
   "dailyWrits": {
-    "date": "2026-09-12",
-    "completed": 7
+    "completed": 7,
+    "date": "2026-09-12"
   },
   "dailyWritStates": {
     "completed": {
