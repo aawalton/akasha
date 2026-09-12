@@ -5,6 +5,11 @@ import {
 } from "akasha/alan/harness/attributes/reading/attributes-reading.module.code.ts"
 import { totalAttributes } from "akasha/alan/harness/attributes/totalling/attributes-totalling.module.code.ts"
 import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
+import {
+  DATA,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 
 const NOTHING_REBUILT =
@@ -30,10 +35,10 @@ export async function refreshAttribute(_argv: readonly string[], given: Given): 
   const before = await totalAttributes(given.root, getEsoDayStr(now))
   const found = slugsIn(before.kept)
   if (found.size === 0) {
-    return { report: [], refusals: [NOTHING_REBUILT, ...before.unread], code: 2 }
+    return refusedBy([NOTHING_REBUILT, ...before.unread], DATA)
   }
   for (const [slug, points] of found) keepPointsBeforeToday(given.root, slug, points)
   const taken = await takeReadings(given.root, now)
   const said = [saidOf(found.size), ...before.unread, ...taken.unread]
-  return { report: said, refusals: [], code: 0 }
+  return told(said)
 }

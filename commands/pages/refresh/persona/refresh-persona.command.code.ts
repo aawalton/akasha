@@ -3,6 +3,11 @@ import {
   rebuildPoints,
   saidOf,
 } from "akasha/alan/harness/persona-points-rebuilding/persona-points-rebuilding.module.code.ts"
+import {
+  DATA,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 
 const NOTHING_REBUILT =
@@ -12,7 +17,7 @@ const NOTHING_REBUILT =
 export function refreshPersona(_argv: readonly string[], given: Given): Answer {
   const done = rebuildPoints(given.root, getEsoDayStr(new Date()))
   if (done.rebuilt === 0) {
-    return { report: [], refusals: [NOTHING_REBUILT, ...done.unread], code: 2 }
+    return refusedBy([NOTHING_REBUILT, ...done.unread], DATA)
   }
-  return { report: [saidOf(done.rebuilt), ...done.unread], refusals: [], code: 0 }
+  return told([saidOf(done.rebuilt), ...done.unread])
 }

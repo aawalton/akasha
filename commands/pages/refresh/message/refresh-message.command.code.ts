@@ -2,6 +2,11 @@ import {
   mineMessages,
   saidOf,
 } from "akasha/alan/track/daily/day-messages-mining/day-messages-mining.module.code.ts"
+import {
+  DATA,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 
 const NOTHING_COUNTED =
@@ -11,7 +16,7 @@ const NOTHING_COUNTED =
 export function refreshMessage(_argv: readonly string[], given: Given): Answer {
   const kept = mineMessages(given.root)
   if (kept.days === 0) {
-    return { report: [], refusals: [NOTHING_COUNTED, ...kept.unfiled], code: 2 }
+    return refusedBy([NOTHING_COUNTED, ...kept.unfiled], DATA)
   }
-  return { report: [saidOf(kept), ...kept.unfiled], refusals: [], code: 0 }
+  return told([saidOf(kept), ...kept.unfiled])
 }
