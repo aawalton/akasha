@@ -33,7 +33,7 @@ export const athenaCommandTree = {
     {
       statement: "One check judges the whole command tree.",
       workingMemory:
-        "`checks/code-checks/pages/command-is-in-the-right-folder/` is the only check over the tree, and every invariant on it is a folder rule. Nothing judges that a slug is its path hyphenated, that a name carries no ancestor's name, or that a namespace holds more than one part. `commands/namespaces/namespace.page-type.ts:18,23` state the slug-opens-with-the-parent rule and only the folder check reads it. Alan approved one check absorbing these and the tree checks there are.\n",
+        "`checks/code-checks/pages/command-is-named-by-its-place-in-the-tree/` is the one check over the tree. It holds a slug to its path hyphenated, a folder to the parts tree, a level's name against every name above it, and the page naming a level to being a namespace or the `command` page type. A level's own name is its folder, since no page states one yet. Its gap says a namespace holds more than one part; six hold one, among them `icloud` and `google/drive`. Do those six collapse?\n",
     },
     {
       statement:
