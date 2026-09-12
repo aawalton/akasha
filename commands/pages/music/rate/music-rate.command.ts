@@ -7,9 +7,7 @@ export const musicRate = {
   definition: "the command recording Alan's grade and what he said onto a song or an artist",
   code: "ts",
   test: "ts",
-  taking: [
-    { said: "--target <artist|song>", takes: "which sort of page the grade is recorded onto" },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -67,5 +65,6 @@ export const musicRate = {
     { argument: "argument/reaction", notWith: ["argument/reaction-file"] },
     { argument: "argument/personal-connections", notWith: ["argument/personal-connections-file"] },
     { argument: "argument/insights", notWith: ["argument/insights-file"] },
+    { argument: "argument/grade-target", required: true },
   ],
 } as const satisfies Command
