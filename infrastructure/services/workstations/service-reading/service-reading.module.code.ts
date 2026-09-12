@@ -1,8 +1,7 @@
 import type { Systemd } from "akasha/infrastructure/services/workstations/properties/systemd.record-property.types.ts"
 import {
-  commandsOf,
+  commandOf,
   type Refused,
-  startsIn,
 } from "akasha/infrastructure/services/workstations/run-composing/run-composing.module.code.ts"
 import type {
   Service,
@@ -13,6 +12,8 @@ import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 export const SERVICE_PAGE_TYPE = "service-workstation"
+
+const RUNNER = "module/service-running"
 
 const SYSTEMD_TEXT_KEYS = ["restart", "schedule", "partOf", "wantedBy"] as const
 const SYSTEMD_NUMBER_KEYS = [
@@ -40,10 +41,6 @@ export function textsIn(held: unknown): readonly string[] | null {
   return took.length === 0 ? null : took
 }
 
-export function runsIn(value: Value): readonly string[] | null {
-  return textsIn(value.runs)
-}
-
 export function systemdIn(value: Value): Systemd | undefined {
   const held = value.systemd
   if (held === null || typeof held !== "object" || Array.isArray(held)) return undefined
@@ -64,8 +61,10 @@ export function runsFrom(
   value: Value,
   codeAt: string = ""
 ): readonly string[] | Refused | null {
-  const starts = startsIn(value.starts)
-  return starts === null ? runsIn(value) : commandsOf(root, starts, codeAt)
+  const slug = textAt(value, "slug")
+  if (slug === null) return null
+  const said = commandOf(root, { code: RUNNER, arguments: [slug] }, codeAt)
+  return "refused" in said ? said : [said.command]
 }
 
 export function refusedIn(held: readonly string[] | Refused | null): held is Refused {

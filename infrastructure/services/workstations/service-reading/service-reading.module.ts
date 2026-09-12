@@ -38,16 +38,19 @@ export const serviceReading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A service's command lines are composed from the starts that service's page states.",
+      statement: "A service has one command line, which runs the runner and names that service.",
     },
     {
       invariantKind: "departure",
-      statement: "A page stating no start is read with the command lines that page spells.",
+      statement: "The command line is composed the same way for every service.",
     },
     {
       invariantKind: "departure",
-      statement: "A start naming a page that is not there refuses the reading by name.",
+      statement: "A service is named there by its slug rather than by the file holding its code.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "What a page spells of how it runs reaches no command line.",
     },
     {
       invariantKind: "absence",

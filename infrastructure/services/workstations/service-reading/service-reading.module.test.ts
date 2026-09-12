@@ -4,7 +4,6 @@ import { join } from "node:path"
 import {
   everyService,
   readFor,
-  runsIn,
   serviceIn,
   systemdIn,
 } from "akasha/infrastructure/services/workstations/service-reading/service-reading.module.code.ts"
@@ -18,24 +17,32 @@ const CODE_BESIDE = ".code.ts"
 
 const RUNNER = "bun"
 
+const RUNNING = "service-running"
+
 const WHOLE = {
   id: "01a05a51-0000-7000-8000-00000000000c",
   pageTypeSlug: "service-workstation",
   slug: "a-service",
   definition: "a service representing a test",
-  runs: ["bun a.ts"],
   enabled: true,
+}
+
+function runnerBeside(): string {
+  const page = listedAt(ROOT, "module", RUNNING)[0]
+  if (page === undefined) {
+    throw new Error(`no \`module/${RUNNING}\` is filed, so nothing says where its code sits`)
+  }
+  return `${page.path.slice(0, -TS.length)}${CODE_BESIDE}`
 }
 
 test("a value stating everything a service needs is read as one", () => {
   const service = serviceIn(ROOT, { ...WHOLE })
   expect(service?.slug).toBe("a-service")
-  expect(service?.runs).toEqual(["bun a.ts"])
   expect(service?.enabled).toBe(true)
 })
 
 test("a value missing what a service needs is read as none", () => {
-  for (const key of ["id", "slug", "definition", "runs", "enabled"]) {
+  for (const key of ["id", "slug", "definition", "enabled"]) {
     const held: Record<string, unknown> = { ...WHOLE }
     delete held[key]
     expect(serviceIn(ROOT, held)).toBe(null)
@@ -46,34 +53,25 @@ test("a value stating enabled as anything but a boolean is read as none", () => 
   expect(serviceIn(ROOT, { ...WHOLE, enabled: "yes" })).toBe(null)
 })
 
-test("a value stating a start is read with the command line that start composes", () => {
-  const page = listedAt(ROOT, "module", "service-reading")[0]
-  if (page === undefined) {
-    throw new Error("no `module/service-reading` is filed, so nothing says where its code sits")
-  }
-  const beside = `${page.path.slice(0, -TS.length)}${CODE_BESIDE}`
+test("a service has one command line, which runs the runner and names that service", () => {
+  const beside = runnerBeside()
   expect(existsSync(join(ROOT, beside))).toBe(true)
-  const service = serviceIn(ROOT, {
+  expect(serviceIn(ROOT, { ...WHOLE })?.runs).toEqual([`${RUNNER} ${beside} a-service`])
+})
+
+test("the command line is composed the same way for every service", () => {
+  const beside = runnerBeside()
+  const other = serviceIn(ROOT, { ...WHOLE, slug: "another-service" })
+  expect(other?.runs).toEqual([`${RUNNER} ${beside} another-service`])
+})
+
+test("what a page spells of how it runs reaches no command line", () => {
+  const spelled = serviceIn(ROOT, {
     ...WHOLE,
     runs: ["bun a.ts"],
     starts: [{ code: "module/service-reading" }],
   })
-  expect(service?.runs).toEqual([`${RUNNER} ${beside}`])
-})
-
-test("a value stating a start that names no page is read as none", () => {
-  expect(
-    serviceIn(ROOT, { ...WHOLE, starts: [{ code: "module/no-module-is-filed-under-this" }] })
-  ).toBe(null)
-})
-
-test("runs must be a list of commands that are not empty", () => {
-  expect(runsIn({ runs: ["a", "b"] })).toEqual(["a", "b"])
-  expect(runsIn({ runs: [] })).toBe(null)
-  expect(runsIn({ runs: ["a", 2] })).toBe(null)
-  expect(runsIn({ runs: ["a", "  "] })).toBe(null)
-  expect(runsIn({ runs: "a" })).toBe(null)
-  expect(runsIn({})).toBe(null)
+  expect(spelled?.runs).toEqual(serviceIn(ROOT, { ...WHOLE })?.runs ?? [])
 })
 
 test("only the systemd options this system carries are read", () => {
