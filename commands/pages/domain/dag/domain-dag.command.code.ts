@@ -1,62 +1,26 @@
 import { resolve } from "node:path"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { descent } from "akasha/commands/arguments/pages/descent.argument.ts"
+import { paths } from "akasha/commands/arguments/pages/paths.argument.ts"
+import { rootDomain } from "akasha/commands/arguments/pages/root-domain.argument.ts"
+import { up } from "akasha/commands/arguments/pages/up.argument.ts"
 import { refusedBy } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { reportedBy } from "akasha/commands/modules/report-answering/report-answering.module.code.ts"
-import {
-  type Drawn,
-  dagLines,
-} from "akasha/commands/pages/domain/domain-drawing/domain-drawing.module.code.ts"
-import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
+import { domainDag as page } from "akasha/commands/pages/domain/dag/domain-dag.command.ts"
+import { dagLines } from "akasha/commands/pages/domain/domain-drawing/domain-drawing.module.code.ts"
 
-export const AT_DOMAIN = "--domain"
-
-export const UP = "--up"
-
-export const PATHS = "--paths"
-
-export const DESCENT = "--descent"
-
-const FLAGS: readonly string[] = [AT_DOMAIN, UP, PATHS, DESCENT]
-
-export type Read = Drawn | { readonly refused: readonly string[] }
-
-export function readIn(argv: readonly string[]): Read {
-  const refusals: string[] = []
-  const rooted: string[] = []
-  const above: string[] = []
-  let paths = false
-  let descent = false
-  for (let at = 0; at < argv.length; at += 1) {
-    const one = argv[at]
-    if (one === undefined) continue
-    if (one === PATHS) {
-      paths = true
-      continue
-    }
-    if (one === DESCENT) {
-      descent = true
-      continue
-    }
-    if (one === AT_DOMAIN || one === UP) {
-      const value = argv[at + 1]
-      at += 1
-      if (value === undefined || value.startsWith("-")) {
-        refusals.push(`\`${one}\` names one word and nothing followed it`)
-        continue
-      }
-      if (one === AT_DOMAIN) rooted.push(value)
-      else above.push(value)
-      continue
-    }
-    const taken = namesDrawn(FLAGS)
-    refusals.push(`\`${one}\` is no flag this takes — it takes ${taken}`)
-  }
-  if (refusals.length > 0) return { refused: refusals }
-  return { rooted, above, paths, descent }
-}
+const NAMED = [paths, descent, rootDomain, up]
 
 export function domainDag(argv: readonly string[], given: Given): Answer {
-  const read = readIn(argv)
+  const read = takenFor(argv, given.calledAs, page, NAMED)
   if ("refused" in read) return refusedBy(read.refused)
-  return reportedBy(() => dagLines(read, resolve(given.root)))
+  const taken = read.taken
+  const wanted = {
+    rooted: taken.rootDomain,
+    above: taken.up,
+    paths: taken.paths,
+    descent: taken.descent,
+  }
+  return reportedBy(() => dagLines(wanted, resolve(given.root)))
 }
