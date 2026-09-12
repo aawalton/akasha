@@ -1,18 +1,18 @@
-import type { StringRecord } from "akasha/temper/lib-chat-message/chat-message-casts/chat-message-casts.module.code.ts"
-import {
-  asChatEventKey,
-  asHistoryArray,
-  asSettings,
-} from "akasha/temper/lib-chat-message/chat-message-casts/chat-message-casts.module.code.ts"
-import {
-  LIB_IDENTIFIER,
-  UNKNOWN_LINK_TYPE,
-} from "akasha/temper/lib-chat-message/chat-message-constants/chat-message-constants.module.code.ts"
 import { LIB } from "akasha/temper/lib-chat-message/chat-message-lib/chat-message-lib.module.code.ts"
 import { registerSlashCommand } from "akasha/temper/lib-chat-message/chat-message-slash-command/chat-message-slash-command.module.code.ts"
 import type { HistoryEntry } from "akasha/temper/lib-chat-message/chat-message-types/chat-message-types.module.code.ts"
 import { createChatProxy } from "akasha/temper/lib-chat-message/chat-proxy/chat-proxy.module.code.ts"
 import { readFromSavedVariable } from "akasha/temper/lib-chat-message/chat-saved-data/chat-saved-data.module.code.ts"
+import type { StringRecord } from "akasha/temper/lib-chat-message/modules/chat-message-casts/chat-message-casts.module.code.ts"
+import {
+  asChatEventKey,
+  asHistoryArray,
+  asSettings,
+} from "akasha/temper/lib-chat-message/modules/chat-message-casts/chat-message-casts.module.code.ts"
+import {
+  LIB_IDENTIFIER,
+  UNKNOWN_LINK_TYPE,
+} from "akasha/temper/lib-chat-message/modules/chat-message-constants/chat-message-constants.module.code.ts"
 
 export function registerLifecycle(this: void): undefined {
   EVENT_MANAGER.RegisterForEvent(

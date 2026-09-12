@@ -1,10 +1,10 @@
-import {
-  MAX_HISTORY_LENGTH,
-  TRIMMED_HISTORY_LENGTH,
-} from "akasha/temper/lib-chat-message/chat-message-constants/chat-message-constants.module.code.ts"
 import { LIB } from "akasha/temper/lib-chat-message/chat-message-lib/chat-message-lib.module.code.ts"
 import type { HistoryEntry } from "akasha/temper/lib-chat-message/chat-message-types/chat-message-types.module.code.ts"
 import { writeToSavedVariable } from "akasha/temper/lib-chat-message/chat-saved-data/chat-saved-data.module.code.ts"
+import {
+  MAX_HISTORY_LENGTH,
+  TRIMMED_HISTORY_LENGTH,
+} from "akasha/temper/lib-chat-message/modules/chat-message-constants/chat-message-constants.module.code.ts"
 
 export function getFormattedTime(this: void, timeStamp: number): string {
   const settings = LIB.settings ?? LIB.defaultSettings

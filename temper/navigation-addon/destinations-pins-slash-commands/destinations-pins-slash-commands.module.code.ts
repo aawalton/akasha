@@ -1,4 +1,4 @@
-import { insertChatText } from "akasha/temper/chat-entry/chat-entry-text/chat-entry-text.module.code.ts"
+import { insertChatText } from "akasha/temper/chat-entry/modules/chat-entry-text/chat-entry-text.module.code.ts"
 import { getSettingsString } from "akasha/temper/navigation-addon/destinations-lang-strings/destinations-lang-strings.module.code.ts"
 import { dm } from "akasha/temper/navigation-addon/destinations-logger/destinations-logger.module.code.ts"
 import {

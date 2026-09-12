@@ -1,7 +1,3 @@
-import {
-  filterPledgesForCharacter,
-  getTodaysPledges,
-} from "akasha/temper/characters-addon/characters-undaunted-pledges/characters-undaunted-pledges.module.code.ts"
 import { formatProgressCount } from "akasha/temper/characters-addon/modules/characters-progress-format/characters-progress-format.module.code.ts"
 import {
   getScribingGuildDailyFallback,
@@ -30,6 +26,10 @@ import type {
   SubRowSpec,
 } from "akasha/temper/characters-addon/modules/characters-task-hud-rows/characters-task-hud-rows.module.code.ts"
 import { getDungeonSetsForCurrentZone } from "akasha/temper/characters-addon/modules/characters-task-hud-visibility/characters-task-hud-visibility.module.code.ts"
+import {
+  filterPledgesForCharacter,
+  getTodaysPledges,
+} from "akasha/temper/characters-addon/modules/characters-undaunted-pledges/characters-undaunted-pledges.module.code.ts"
 import {
   getSkillMorphEnrichment,
   isSkillMorphTask,

@@ -1,4 +1,4 @@
-import { insertChatText } from "akasha/temper/chat-entry/chat-entry-text/chat-entry-text.module.code.ts"
+import { insertChatText } from "akasha/temper/chat-entry/modules/chat-entry-text/chat-entry-text.module.code.ts"
 import {
   LORE_LIBRARY_EIDETIC,
   LORE_LIBRARY_SHALIDOR,

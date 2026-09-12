@@ -1,11 +1,3 @@
-import {
-  refreshAllTributeCardUpgrades,
-  updateTributeCardUpgrade,
-} from "akasha/temper/characters-addon/characters-tribute-card-upgrades/characters-tribute-card-upgrades.module.code.ts"
-import {
-  collectZoneCompletion,
-  updateZoneCompletionActivity,
-} from "akasha/temper/characters-addon/characters-zone-completion/characters-zone-completion.module.code.ts"
 import { collectAllianceRank } from "akasha/temper/characters-addon/modules/characters-alliance-rank/characters-alliance-rank.module.code.ts"
 import { collectBagSize } from "akasha/temper/characters-addon/modules/characters-bag-size/characters-bag-size.module.code.ts"
 import { collectCadwell } from "akasha/temper/characters-addon/modules/characters-cadwell/characters-cadwell.module.code.ts"
@@ -26,6 +18,14 @@ import {
 } from "akasha/temper/characters-addon/modules/characters-points-of-interest/characters-points-of-interest.module.code.ts"
 import { scheduleTaskAutoCompletionCheck } from "akasha/temper/characters-addon/modules/characters-task-auto-complete/characters-task-auto-complete.module.code.ts"
 import { refreshTaskHud } from "akasha/temper/characters-addon/modules/characters-task-hud/characters-task-hud.module.code.ts"
+import {
+  refreshAllTributeCardUpgrades,
+  updateTributeCardUpgrade,
+} from "akasha/temper/characters-addon/modules/characters-tribute-card-upgrades/characters-tribute-card-upgrades.module.code.ts"
+import {
+  collectZoneCompletion,
+  updateZoneCompletionActivity,
+} from "akasha/temper/characters-addon/modules/characters-zone-completion/characters-zone-completion.module.code.ts"
 import { getEsoDayStringFromSec } from "akasha/temper/dungeons/eso-reset/eso-reset.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/player-completion-state/completion-addon-constants/completion-addon-constants.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"

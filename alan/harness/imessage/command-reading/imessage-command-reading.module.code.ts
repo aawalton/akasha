@@ -1,4 +1,3 @@
-import type { ImessageMessage } from "akasha/alan/harness/imessage/chat-db/chat-db.module.code.ts"
 import type { Contact } from "akasha/alan/harness/imessage/contacts-db/contacts-db.module.code.ts"
 import {
   buildNameIndex,
@@ -11,6 +10,7 @@ import {
   nameFor,
   singleLine,
 } from "akasha/alan/harness/imessage/message-lines/message-lines.module.code.ts"
+import type { ImessageMessage } from "akasha/alan/harness/imessage/modules/chat-db/chat-db.module.code.ts"
 import { asJson, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"

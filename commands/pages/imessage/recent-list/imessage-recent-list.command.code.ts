@@ -1,9 +1,9 @@
-import { buildRecentSql } from "akasha/alan/harness/imessage/chat-db/chat-db.module.code.ts"
 import {
   countRefused,
   messagesAnswered,
   namingIn,
 } from "akasha/alan/harness/imessage/command-reading/imessage-command-reading.module.code.ts"
+import { buildRecentSql } from "akasha/alan/harness/imessage/modules/chat-db/chat-db.module.code.ts"
 import {
   fetchContacts,
   fetchMessages,

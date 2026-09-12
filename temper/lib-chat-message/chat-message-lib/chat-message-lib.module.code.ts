@@ -1,3 +1,7 @@
+import type {
+  Lib,
+  Settings,
+} from "akasha/temper/lib-chat-message/chat-message-types/chat-message-types.module.code.ts"
 import {
   TAG_PREFIX_LONG,
   TAG_PREFIX_OFF,
@@ -5,11 +9,7 @@ import {
   TIME_FORMAT_AUTO,
   TIME_FORMATS,
   UNKNOWN_LINK_TYPE,
-} from "akasha/temper/lib-chat-message/chat-message-constants/chat-message-constants.module.code.ts"
-import type {
-  Lib,
-  Settings,
-} from "akasha/temper/lib-chat-message/chat-message-types/chat-message-types.module.code.ts"
+} from "akasha/temper/lib-chat-message/modules/chat-message-constants/chat-message-constants.module.code.ts"
 
 const DEFAULT_SETTINGS: Settings = {
   version: 1,

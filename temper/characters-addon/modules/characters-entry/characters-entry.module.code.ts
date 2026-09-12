@@ -5,9 +5,6 @@ import {
   finishPerfTrace,
   startPerfTrace,
 } from "akasha/temper/capture-perf/perf-trace/perf-trace.module.code.ts"
-import { collectTributeCardUpgrades } from "akasha/temper/characters-addon/characters-tribute-card-upgrades/characters-tribute-card-upgrades.module.code.ts"
-import { toggleWindow } from "akasha/temper/characters-addon/characters-window/characters-window.module.code.ts"
-import { collectZoneCompletion } from "akasha/temper/characters-addon/characters-zone-completion/characters-zone-completion.module.code.ts"
 import { collectAchievements } from "akasha/temper/characters-addon/modules/characters-achievements/characters-achievements.module.code.ts"
 import { collectAllianceRank } from "akasha/temper/characters-addon/modules/characters-alliance-rank/characters-alliance-rank.module.code.ts"
 import { collectAntiquityLore } from "akasha/temper/characters-addon/modules/characters-antiquity-lore/characters-antiquity-lore.module.code.ts"
@@ -45,6 +42,9 @@ import {
 } from "akasha/temper/characters-addon/modules/characters-task-auto-complete/characters-task-auto-complete.module.code.ts"
 import { initializeTaskHud } from "akasha/temper/characters-addon/modules/characters-task-hud/characters-task-hud.module.code.ts"
 import { collectTraitResearch } from "akasha/temper/characters-addon/modules/characters-trait-research/characters-trait-research.module.code.ts"
+import { collectTributeCardUpgrades } from "akasha/temper/characters-addon/modules/characters-tribute-card-upgrades/characters-tribute-card-upgrades.module.code.ts"
+import { toggleWindow } from "akasha/temper/characters-addon/modules/characters-window/characters-window.module.code.ts"
+import { collectZoneCompletion } from "akasha/temper/characters-addon/modules/characters-zone-completion/characters-zone-completion.module.code.ts"
 import {
   saveAccountSkillMorphProgress,
   saveSkillMorphProgress,

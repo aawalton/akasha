@@ -1,5 +1,3 @@
-import type { ImessageMessage } from "akasha/alan/harness/imessage/chat-db/chat-db.module.code.ts"
-import { buildUnreadListSql } from "akasha/alan/harness/imessage/chat-db/chat-db.module.code.ts"
 import {
   countRefused,
   namingIn,
@@ -11,6 +9,8 @@ import {
   type NameFor,
   singleLine,
 } from "akasha/alan/harness/imessage/message-lines/message-lines.module.code.ts"
+import type { ImessageMessage } from "akasha/alan/harness/imessage/modules/chat-db/chat-db.module.code.ts"
+import { buildUnreadListSql } from "akasha/alan/harness/imessage/modules/chat-db/chat-db.module.code.ts"
 import {
   fetchContacts,
   fetchMessages,

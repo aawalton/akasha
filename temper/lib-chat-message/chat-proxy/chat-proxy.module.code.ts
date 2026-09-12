@@ -1,15 +1,15 @@
-import { asZoColorDef } from "akasha/temper/lib-chat-message/chat-message-casts/chat-message-casts.module.code.ts"
-import {
-  COLOR_FORMAT,
-  LIB_IDENTIFIER,
-  TAG_FORMAT,
-  TAG_PREFIX_SHORT,
-} from "akasha/temper/lib-chat-message/chat-message-constants/chat-message-constants.module.code.ts"
 import { LIB } from "akasha/temper/lib-chat-message/chat-message-lib/chat-message-lib.module.code.ts"
 import type {
   ChatProxy,
   Lib,
 } from "akasha/temper/lib-chat-message/chat-message-types/chat-message-types.module.code.ts"
+import { asZoColorDef } from "akasha/temper/lib-chat-message/modules/chat-message-casts/chat-message-casts.module.code.ts"
+import {
+  COLOR_FORMAT,
+  LIB_IDENTIFIER,
+  TAG_FORMAT,
+  TAG_PREFIX_SHORT,
+} from "akasha/temper/lib-chat-message/modules/chat-message-constants/chat-message-constants.module.code.ts"
 
 export function createChatProxy(this: void, longTag: string, shortTag: string): ChatProxy {
   const proxy: ChatProxy = {
