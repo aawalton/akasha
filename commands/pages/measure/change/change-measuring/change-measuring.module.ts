@@ -35,7 +35,11 @@ export const changeMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "A row a write left half appended leaves the file it is in unread.",
+      statement: "A row a write left half appended is passed over and the rest of the file read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The file that row is in is named beneath the table under its own heading.",
     },
     {
       invariantKind: "departure",

@@ -243,6 +243,14 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
+      statement: "A file holding a row that would not read is named beneath the table as well.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A check's own rows are read whole, so one torn row leaves that file unread.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A check with no run the choice reached is not answered.",
     },
     {

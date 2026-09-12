@@ -391,6 +391,16 @@ test("every numbered file of a check's logs is read in order rather than the fir
   expect(cost?.cpu).toBe(4)
 })
 
+test("a file holding a row that would not read is named beneath the table as well", () => {
+  const cost = costOf("one", runsIn(lineOf({ phase: "change", cpuSeconds: 2 })))
+  const said = linesOf({ ...costsOf([cost]), torn: ["one/two.jsonl"] })
+
+  expect(said.slice(-2)).toEqual([
+    "these held a row that would not read, and that row counts no run:",
+    "one/two.jsonl",
+  ])
+})
+
 test("a file that could not be read is named beneath the table", () => {
   const root = unreadableInto(rootWith({ one: [{ phase: "change", cpuSeconds: 1 }] }), "bad")
   const costs = costsIn(root, NOW, DAY_BACK)

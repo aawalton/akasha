@@ -13,6 +13,7 @@ import {
   heldIn,
 } from "akasha/commands/pages/measure/command/command-measuring/command-measuring.module.code.ts"
 import {
+  lineOf,
   ONE,
   pageAt,
   rowsInto,
@@ -33,6 +34,10 @@ const DAY_BACK = { by: "period", ms: DAY, said: "24h" } as const
 const INDEX_AT = pageAt("commands/pages", "index")
 
 const READ_AT = pageAt("commands/pages", "read")
+
+const HALF = '{"runId":"one","ranAt":"2026-09-05T11'
+
+const TORN_SAID = "these held a row that would not read, and that row counts no run:"
 
 function rootFor(): string {
   return scratch.rootFor("command-measuring-")
@@ -77,11 +82,23 @@ test("a folder named as a rows file is no file to read", () => {
   expect(heldIn(root).runs).toEqual([])
 })
 
-test("a row a write left half appended leaves the file it is in unread", () => {
+test("a row a write left half appended is passed over and the rest of the file read", () => {
   const root = rootFor()
-  put(root, INDEX_AT, '{"runId":"one","ranAt":"2026-09-05T11')
+  put(root, INDEX_AT, `${lineOf({})}\n${HALF}`)
 
-  expect(heldIn(root).unread).toEqual([INDEX_AT])
+  const reading = heldIn(root)
+
+  expect(reading.runs.length).toBe(1)
+  expect(reading.unread).toEqual([])
+})
+
+test("the file that row is in is named beneath the table under its own heading", () => {
+  const root = rootFor()
+  put(root, INDEX_AT, `${lineOf({})}\n${HALF}`)
+  const said = linesOf(costsIn(root, NOW, DAY_BACK), "command")
+
+  expect(heldIn(root).torn).toEqual([INDEX_AT])
+  expect(said.slice(-2)).toEqual([TORN_SAID, INDEX_AT])
 })
 
 test("a row naming the command phase is read, and no other row is", () => {

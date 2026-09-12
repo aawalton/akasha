@@ -21,6 +21,7 @@ import {
   APPLY_AT,
   CHANGE_AT,
   commandFiled,
+  lineOf,
   ONE,
   partAt,
   rowsInto,
@@ -39,6 +40,10 @@ const LAST_ONE = { by: "runs", runs: 1 } as const
 const LAST_NINE = { by: "runs", runs: 9 } as const
 
 const DAY_BACK = { by: "period", ms: DAY, said: "24h" } as const
+
+const HALF = '{"runId":"one","ranAt":"2026-09-05T11'
+
+const TORN_SAID = "these held a row that would not read, and that row counts no run:"
 
 function rootFor(): string {
   return scratch.rootFor("change-measuring-")
@@ -94,11 +99,23 @@ test("a file that would not read is named rather than counting as no runs", () =
   expect(reading.unread).toEqual([partAt(CHANGE_AT, 1)])
 })
 
-test("a row a write left half appended leaves the file it is in unread", () => {
+test("a row a write left half appended is passed over and the rest of the file read", () => {
   const root = commandFiled(rootFor(), CHANGE_AT)
-  put(root, partAt(CHANGE_AT, 1), '{"runId":"one","ranAt":"2026-09-05T11')
+  put(root, partAt(CHANGE_AT, 1), `${lineOf({})}\n${HALF}`)
 
-  expect(heldIn(root).unread).toEqual([partAt(CHANGE_AT, 1)])
+  const reading = heldIn(root)
+
+  expect(reading.runs.length).toBe(1)
+  expect(reading.unread).toEqual([])
+})
+
+test("the file that row is in is named beneath the table under its own heading", () => {
+  const root = commandFiled(rootFor(), CHANGE_AT)
+  put(root, partAt(CHANGE_AT, 1), `${lineOf({})}\n${HALF}`)
+  const said = linesOf(costsIn(root, NOW, DAY_BACK), "change")
+
+  expect(heldIn(root).torn).toEqual([partAt(CHANGE_AT, 1)])
+  expect(said.slice(-2)).toEqual([TORN_SAID, partAt(CHANGE_AT, 1)])
 })
 
 test("the runs are gathered under what ran rather than under the page read", () => {

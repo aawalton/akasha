@@ -10,7 +10,7 @@ import {
   type Run,
   rankedOf,
   runningOf,
-  runsIn,
+  runsRead,
   totalOf,
   underRan,
   withinOf,
@@ -34,21 +34,28 @@ export function pagesIn(root: string): readonly string[] {
 export interface Reading {
   readonly runs: readonly Run[]
   readonly unread: readonly string[]
+  readonly torn: readonly string[]
 }
 
 export function heldIn(root: string): Reading {
   const runs: Run[] = []
   const unread: string[] = []
+  const torn: string[] = []
   for (const page of pagesIn(root)) {
     for (const at of partsIn(root, page, ENTRIES)) {
+      let body: string
       try {
-        for (const one of runsIn(readFileSync(join(root, at), "utf8"))) runs.push(one)
+        body = readFileSync(join(root, at), "utf8")
       } catch {
         unread.push(at)
+        continue
       }
+      const read = runsRead(body)
+      for (const one of read.runs) runs.push(one)
+      if (read.torn > 0) torn.push(at)
     }
   }
-  return { runs, unread }
+  return { runs, unread, torn }
 }
 
 export function costsIn(root: string, now: number, chosen: Chosen): Costs {
@@ -63,5 +70,6 @@ export function costsIn(root: string, now: number, chosen: Chosen): Costs {
     checks: [...checks].sort(byCpu),
     total: totalOf(within),
     unread: reading.unread,
+    torn: reading.torn,
   }
 }

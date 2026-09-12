@@ -40,6 +40,8 @@ const HEADED: readonly string[] = ["runs", "cpu", "mem", "paths", "refusals"]
 
 const UNREAD = "these were not read, and count no runs:"
 
+const TORN = "these held a row that would not read, and that row counts no run:"
+
 const KIB = 1024
 
 const MIB = 1024 * 1024
@@ -98,6 +100,7 @@ export interface Costs {
   readonly checks: readonly CheckCost[]
   readonly total: Total
   readonly unread: readonly string[]
+  readonly torn?: readonly string[]
 }
 
 export const ONE_RUN: Chosen = { by: "runs", runs: 1 }
@@ -126,8 +129,26 @@ export function runIn(row: string): Run {
   }
 }
 
+export interface Rows {
+  readonly runs: readonly Run[]
+  readonly torn: number
+}
+
+export function runsRead(body: string): Rows {
+  const runs: Run[] = []
+  let torn = 0
+  for (const one of rowsIn(body)) {
+    try {
+      runs.push(runIn(one))
+    } catch {
+      torn += 1
+    }
+  }
+  return { runs, torn }
+}
+
 export function runsIn(body: string): readonly Run[] {
-  return rowsIn(body).map(runIn)
+  return runsRead(body).runs
 }
 
 function spanOf(unit: string): number | null {
@@ -369,6 +390,8 @@ export function linesOf(costs: Costs, named: string = CHECK): readonly string[] 
   ]
   const said = [...columnsOf(rows)]
   if (costs.unread.length > 0) said.push("", UNREAD, ...costs.unread)
+  const torn = costs.torn ?? []
+  if (torn.length > 0) said.push("", TORN, ...torn)
   return said
 }
 
