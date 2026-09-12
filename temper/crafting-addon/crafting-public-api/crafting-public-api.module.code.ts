@@ -1,29 +1,3 @@
-import {
-  controlCloseAll,
-  controlShow,
-  showMain,
-} from "akasha/temper/crafting-addon/craft-ui-updates/craft-ui-updates.module.code.ts"
-import {
-  queue,
-  travelToNode,
-} from "akasha/temper/crafting-addon/craft-utilities/craft-utilities.module.code.ts"
-import {
-  getItemQuantity,
-  isLearnable,
-  isResearchable,
-} from "akasha/temper/crafting-addon/craft-validation/craft-validation.module.code.ts"
-import {
-  openBlueprintWindow,
-  openCharacterPanel,
-  openRecipeWindow,
-  openSettings,
-  runeAspect,
-  runeCraftGlyph,
-  runeMode,
-  saveAnchor,
-  saveCoords,
-  setTitleText,
-} from "akasha/temper/crafting-addon/craft-xml-handlers/craft-xml-handlers.module.code.ts"
 import { toSet } from "akasha/temper/crafting-addon/crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 import type { AccountData } from "akasha/temper/crafting-addon/modules/craft-account-init/craft-account-init.module.code.ts"
@@ -63,6 +37,32 @@ import {
   setTimer,
   tooltip,
 } from "akasha/temper/crafting-addon/modules/craft-tooltips/craft-tooltips.module.code.ts"
+import {
+  controlCloseAll,
+  controlShow,
+  showMain,
+} from "akasha/temper/crafting-addon/modules/craft-ui-updates/craft-ui-updates.module.code.ts"
+import {
+  queue,
+  travelToNode,
+} from "akasha/temper/crafting-addon/modules/craft-utilities/craft-utilities.module.code.ts"
+import {
+  getItemQuantity,
+  isLearnable,
+  isResearchable,
+} from "akasha/temper/crafting-addon/modules/craft-validation/craft-validation.module.code.ts"
+import {
+  openBlueprintWindow,
+  openCharacterPanel,
+  openRecipeWindow,
+  openSettings,
+  runeAspect,
+  runeCraftGlyph,
+  runeMode,
+  saveAnchor,
+  saveCoords,
+  setTitleText,
+} from "akasha/temper/crafting-addon/modules/craft-xml-handlers/craft-xml-handlers.module.code.ts"
 import { runeShowMode } from "akasha/temper/crafting-addon/rune-mode/rune-mode.module.code.ts"
 import { runeView } from "akasha/temper/crafting-addon/rune-panel/rune-panel.module.code.ts"
 

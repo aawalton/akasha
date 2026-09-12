@@ -1,13 +1,4 @@
 import {
-  controlShow,
-  showMain,
-  updateScreen,
-} from "akasha/temper/crafting-addon/craft-ui-updates/craft-ui-updates.module.code.ts"
-import {
-  queue,
-  scrollText,
-} from "akasha/temper/crafting-addon/craft-utilities/craft-utilities.module.code.ts"
-import {
   CB_ADD_RESEARCH_ITEM,
   CB_CONTROL_SHOW,
   CB_INVENTORY_SPACE,
@@ -77,6 +68,15 @@ import { updatePanelIcon } from "akasha/temper/crafting-addon/modules/craft-rese
 import { registerSettings } from "akasha/temper/crafting-addon/modules/craft-set-lam/craft-set-lam.module.code.ts"
 import { styleApi } from "akasha/temper/crafting-addon/modules/craft-styles-data/craft-styles-data.module.code.ts"
 import { tooltipHandler } from "akasha/temper/crafting-addon/modules/craft-tooltip-handler/craft-tooltip-handler.module.code.ts"
+import {
+  controlShow,
+  showMain,
+  updateScreen,
+} from "akasha/temper/crafting-addon/modules/craft-ui-updates/craft-ui-updates.module.code.ts"
+import {
+  queue,
+  scrollText,
+} from "akasha/temper/crafting-addon/modules/craft-utilities/craft-utilities.module.code.ts"
 import { initializeTemperPotions } from "akasha/temper/crafting-addon/potion-init/potion-init.module.code.ts"
 import { initializeTemperWrit } from "akasha/temper/crafting-addon/writ-init/writ-init.module.code.ts"
 import { initializeMasterWritInventoryMarker } from "akasha/temper/crafting-addon/writ-mark-init/writ-mark-init.module.code.ts"

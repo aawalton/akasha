@@ -1,4 +1,3 @@
-import * as Utilities from "akasha/temper/crafting-addon/craft-utilities/craft-utilities.module.code.ts"
 import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 import * as BlueprintFurnisher from "akasha/temper/crafting-addon/modules/craft-blueprint-furnisher/craft-blueprint-furnisher.module.code.ts"
 import * as Knowledge from "akasha/temper/crafting-addon/modules/craft-knowledge/craft-knowledge.module.code.ts"
@@ -8,6 +7,7 @@ import * as RecipeCooking from "akasha/temper/crafting-addon/modules/craft-recip
 import * as Research from "akasha/temper/crafting-addon/modules/craft-research/craft-research.module.code.ts"
 import * as ResearchGrid from "akasha/temper/crafting-addon/modules/craft-research-grid/craft-research-grid.module.code.ts"
 import * as StyleTracking from "akasha/temper/crafting-addon/modules/craft-style-tracking/craft-style-tracking.module.code.ts"
+import * as Utilities from "akasha/temper/crafting-addon/modules/craft-utilities/craft-utilities.module.code.ts"
 import { runeView } from "akasha/temper/crafting-addon/rune-panel/rune-panel.module.code.ts"
 
 const WM = WINDOW_MANAGER

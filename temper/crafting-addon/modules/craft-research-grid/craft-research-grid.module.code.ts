@@ -1,4 +1,3 @@
-import * as Utilities from "akasha/temper/crafting-addon/craft-utilities/craft-utilities.module.code.ts"
 import {
   CHAT,
   toChat,
@@ -14,6 +13,7 @@ import {
 } from "akasha/temper/crafting-addon/modules/craft-research-tracking/craft-research-tracking.module.code.ts"
 import type { CsTooltipOwner } from "akasha/temper/crafting-addon/modules/craft-tooltips/craft-tooltips.module.code.ts"
 import * as Tooltips from "akasha/temper/crafting-addon/modules/craft-tooltips/craft-tooltips.module.code.ts"
+import * as Utilities from "akasha/temper/crafting-addon/modules/craft-utilities/craft-utilities.module.code.ts"
 
 const WM = WINDOW_MANAGER
 

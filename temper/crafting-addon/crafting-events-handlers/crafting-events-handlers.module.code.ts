@@ -1,11 +1,3 @@
-import {
-  controlCloseAll,
-  initPreviews,
-} from "akasha/temper/crafting-addon/craft-ui-updates/craft-ui-updates.module.code.ts"
-import {
-  getQuest,
-  getTimer,
-} from "akasha/temper/crafting-addon/craft-utilities/craft-utilities.module.code.ts"
 import { hideControl } from "akasha/temper/crafting-addon/crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 import { blueprintLearned } from "akasha/temper/crafting-addon/modules/craft-blueprint-furnisher/craft-blueprint-furnisher.module.code.ts"
@@ -47,6 +39,14 @@ import {
   hideUnknownStyles,
   updateStyleKnowledge,
 } from "akasha/temper/crafting-addon/modules/craft-style-tracking/craft-style-tracking.module.code.ts"
+import {
+  controlCloseAll,
+  initPreviews,
+} from "akasha/temper/crafting-addon/modules/craft-ui-updates/craft-ui-updates.module.code.ts"
+import {
+  getQuest,
+  getTimer,
+} from "akasha/temper/crafting-addon/modules/craft-utilities/craft-utilities.module.code.ts"
 import { runeShowMode } from "akasha/temper/crafting-addon/rune-mode/rune-mode.module.code.ts"
 import {
   runeHideVanillaUI,
