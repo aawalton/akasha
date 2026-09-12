@@ -17,7 +17,6 @@ import {
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { fileOf } from "akasha/pages/indexes/property-file/property-file.module.code.ts"
 import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 
 const ROOT = codeRoot()
 
@@ -138,10 +137,11 @@ function besideThere(folder: Iterable<string>, beside: string): boolean {
   return false
 }
 
-function pairsOf(): readonly Pair[] {
-  const index = shadowAt(ROOT).index
+const REPO = worldAt(ROOT, () => null, RUNS)
+
+function firstPair(): Pair | null {
+  const index = REPO.index
   const reading = readingIn(ROOT)
-  const found: Pair[] = []
   for (const group of groupsIn(index)) {
     for (const pageTypeSlug of group.pageTypeSlugs) {
       for (const listed of index.everyOfType(pageTypeSlug)) {
@@ -152,21 +152,23 @@ function pairsOf(): readonly Pair[] {
         if (!besideThere(index.filesIn(dirname(listed.path)), beside)) continue
         const page = { path: listed.path, value }
         try {
-          found.push({
-            written: fileOf(reading, page, pageTypeSlug, group.propertySlug),
-            beside,
-          })
+          return { written: fileOf(reading, page, pageTypeSlug, group.propertySlug), beside }
         } catch {}
       }
     }
   }
-  return [...found].sort((one, two) => (one.written < two.written ? -1 : 1))
+  return null
 }
 
-const PAIR = pairsOf()[0] as Pair
+const PAIR = firstPair() as Pair
 
 function repoWorld(held: Readonly<Record<string, string>>): World {
-  return { ...worldAt(ROOT, (path) => held[path] ?? null), reaching: RUNS }
+  return {
+    ...REPO,
+    textOf: (path) => held[path] ?? null,
+    bodyOf: (path) => held[path] ?? null,
+    base: (path) => held[path] ?? null,
+  }
 }
 
 test("a passage on a file a group writes is refused rather than dropped", async () => {
