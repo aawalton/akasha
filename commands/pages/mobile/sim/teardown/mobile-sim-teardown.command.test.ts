@@ -8,6 +8,7 @@ import {
 import type { Tearing } from "akasha/commands/pages/mobile/sim/teardown/mobile-sim-teardown.command.code.ts"
 import {
   CLEARED,
+  mobileSimTeardown,
   STOPPED,
   tornDown,
 } from "akasha/commands/pages/mobile/sim/teardown/mobile-sim-teardown.command.code.ts"
@@ -63,4 +64,27 @@ test("a teardown that threw before anything was torn down names nothing", async 
 
   expect(held.report).toEqual([])
   expect(held.refusals.some((one) => one.includes("stopped part way"))).toBe(false)
+})
+
+test("a flag this takes no argument at is refused before the session is read", async () => {
+  const said = await mobileSimTeardown(["--bogus"])
+
+  expect(said.code).toBe(1)
+  expect(said.report).toEqual([])
+  expect(said.refusals[0]).toContain("--bogus")
+  expect(said.refusals[0]).toContain("--stop-appium")
+})
+
+test("a bare word is refused, since this names every argument at a flag", async () => {
+  const said = await mobileSimTeardown(["appium"])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("appium")
+})
+
+test("a switch named a value is refused rather than read as the switch alone", async () => {
+  const said = await mobileSimTeardown(["--stop-appium=yes"])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--stop-appium")
 })

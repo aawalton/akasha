@@ -32,3 +32,26 @@ test("two things done before the throw are named in the order they were done", a
   expect(said.report).toEqual(wrote)
   expect(said.refusals.at(-1)).toContain(`${CONTEXT}; the picture was put at /tmp/one.png`)
 })
+
+test("a flag this takes no argument at is refused before the session is reached", async () => {
+  const said = await mobileSimScreenshot(["--bogus"])
+
+  expect(said.code).toBe(1)
+  expect(said.report).toEqual([])
+  expect(said.refusals[0]).toContain("--bogus")
+  expect(said.refusals[0]).toContain("--output")
+})
+
+test("a bare word is refused, since this names every argument at a flag", async () => {
+  const said = await mobileSimScreenshot(["shot.png"])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("shot.png")
+})
+
+test("a flag naming a value with nothing after it is refused", async () => {
+  const said = await mobileSimScreenshot(["--output"])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--output")
+})

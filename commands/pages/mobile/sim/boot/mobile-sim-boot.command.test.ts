@@ -12,7 +12,10 @@ import type {
   Booting,
   Read,
 } from "akasha/commands/pages/mobile/sim/boot/mobile-sim-boot.command.code.ts"
-import { booted } from "akasha/commands/pages/mobile/sim/boot/mobile-sim-boot.command.code.ts"
+import {
+  booted,
+  mobileSimBoot,
+} from "akasha/commands/pages/mobile/sim/boot/mobile-sim-boot.command.code.ts"
 
 const BASE = "http://mac:4723"
 
@@ -87,4 +90,27 @@ test("an Appium server already up is started by nothing, so a later throw names 
 
   expect(held.report).toEqual([])
   expect(held.refusals.some((one) => one.includes("stopped part way"))).toBe(false)
+})
+
+test("a flag this takes no argument at is refused before Appium is reached", async () => {
+  const said = await mobileSimBoot(["--bogus"])
+
+  expect(said.code).toBe(1)
+  expect(said.report).toEqual([])
+  expect(said.refusals[0]).toContain("--bogus")
+  expect(said.refusals[0]).toContain("--udid")
+})
+
+test("a bare word is refused, since this names every argument at a flag", async () => {
+  const said = await mobileSimBoot(["3F0C9A11"])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("3F0C9A11")
+})
+
+test("a flag naming a value with nothing after it is refused", async () => {
+  const said = await mobileSimBoot(["--udid"])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--udid")
 })
