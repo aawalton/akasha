@@ -151,30 +151,37 @@ function importingProbe(landing: Landing) {
   )
 }
 
+const CALLED_AS = "akasha music import-artist"
+
 test("a call naming no artist is refused", () => {
-  const held = taken(["--json"])
+  const held = taken(["--json"], CALLED_AS)
   expect("refused" in held && held.refused).toContain("names no artist")
 })
 
 test("an artist is named after the command as well as at a flag", () => {
-  const held = taken(["Mitski"])
+  const held = taken(["Mitski"], CALLED_AS)
   expect("refused" in held).toBe(false)
   expect(!("refused" in held) && held.name).toBe("Mitski")
 })
 
 test("a second artist after the command is refused", () => {
-  const held = taken(["Mitski", "Aurora"])
-  expect("refused" in held && held.refused).toContain("one artist is brought in")
+  const held = taken(["Mitski", "Aurora"], CALLED_AS)
+  expect("refused" in held && held.refused).toContain("takes 1 word and this call says 2 words")
 })
 
 test("a limit that is no whole number is refused", () => {
-  const held = taken(["--mbid", MBID, "--limit", "half"])
+  const held = taken(["--mbid", MBID, "--limit", "half"], CALLED_AS)
   expect("refused" in held && held.refused).toContain("whole number")
 })
 
+test("a limit of nought is refused rather than read as no limit", () => {
+  const held = taken(["--mbid", MBID, "--limit", "0"], CALLED_AS)
+  expect("refused" in held && held.refused).toContain("one or more")
+})
+
 test("a flag this takes nothing of is refused", () => {
-  const held = taken(["--mbid", MBID, "--today", "2026-01-01"])
-  expect("refused" in held && held.refused).toContain("`--today` is nothing this takes")
+  const held = taken(["--mbid", MBID, "--today", "2026-01-01"], CALLED_AS)
+  expect("refused" in held && held.refused).toContain("`--today` is no argument")
 })
 
 test("the artist page and a song page are composed from the works", async () => {

@@ -36,6 +36,11 @@ import {
 } from "akasha/alan/music/catalog/song-slug/song-slug.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { artistName as artistNameArgument } from "akasha/commands/arguments/pages/artist-name.argument.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { mbid as mbidArgument } from "akasha/commands/arguments/pages/mbid.argument.ts"
+import { songLimit } from "akasha/commands/arguments/pages/song-limit.argument.ts"
 import {
   DATA,
   INPUT,
@@ -44,6 +49,7 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { answeredWith, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { musicImportArtist as page } from "akasha/commands/pages/music/import-artist/music-import-artist.command.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
@@ -69,19 +75,9 @@ const LYRICS = "lyrics"
 
 const SYNCED_LYRICS = "synced-lyrics"
 
-const NAME = "--name"
+export const NAMED = [json, songLimit, artistNameArgument, mbidArgument] as const
 
-const MBID = "--mbid"
-
-const LIMIT = "--limit"
-
-const JSON_SAID = "--json"
-
-const VALUED = [NAME, MBID, LIMIT]
-
-const BARE = [JSON_SAID]
-
-const UNNAMED = `this call names no artist — say one after the command, or at \`${NAME}\` or \`${MBID}\``
+const UNNAMED = `this call names no artist — say one after the command, or at \`${artistNameArgument.said}\` or \`${mbidArgument.said}\``
 
 export const WRITE = "change-mechanical/add-file-of-any-kind"
 
@@ -129,47 +125,20 @@ export type Imported = {
 
 export type Gathered = { readonly said: Imported; readonly changes: readonly Asking[] }
 
-export function taken(argv: readonly string[]): Reading {
-  const held = new Map<string, string>()
-  const bare = new Set<string>()
-  let said: string | null = null
-  let at = 0
-  while (at < argv.length) {
-    const one = argv[at] as string
-    at += 1
-    if (BARE.includes(one)) {
-      bare.add(one)
-      continue
-    }
-    if (!one.startsWith("-")) {
-      if (said !== null) {
-        return { refused: `one artist is brought in, and \`${one}\` is named after \`${said}\`` }
-      }
-      said = one
-      continue
-    }
-    if (!VALUED.includes(one)) return { refused: `\`${one}\` is nothing this takes` }
-    const value = argv[at]
-    at += 1
-    if (value === undefined || value === "") {
-      return { refused: `\`${one}\` takes a value, and this call names none after it` }
-    }
-    if (held.has(one)) {
-      return { refused: `\`${one}\` is named twice, so which is meant is unsettled` }
-    }
-    held.set(one, value)
-  }
-  const name = held.get(NAME) ?? said
-  const mbid = held.get(MBID) ?? null
-  if ((name === null || name.trim() === "") && mbid === null) return { refused: UNNAMED }
-  const asked = held.get(LIMIT)
-  const limit = asked === undefined ? null : Number(asked)
-  if (limit !== null && (!Number.isInteger(limit) || limit < 1)) {
+export function taken(argv: readonly string[], calledAs: string): Reading {
+  const read = takenFor(argv, calledAs, page, NAMED)
+  if ("refused" in read) return { refused: read.refused.join(" ") }
+  const held = read.taken
+  const name = held.artistName ?? null
+  const said = held.mbid ?? null
+  if ((name === null || name.trim() === "") && said === null) return { refused: UNNAMED }
+  const limit = held.songLimit ?? null
+  if (limit !== null && limit < 1) {
     return {
-      refused: `\`${LIMIT}\` takes a whole number of one or more, and this call names \`${asked}\``,
+      refused: `\`${songLimit.said}\` takes a whole number of one or more, and this call names \`${limit}\``,
     }
   }
-  return { name, mbid, limit, json: bare.has(JSON_SAID) }
+  return { name, mbid: said, limit, json: held.json }
 }
 
 export function rowsOf(said: Imported): readonly string[] {
@@ -440,7 +409,7 @@ export async function musicImportArtist(
   reach: Reach = REACHING,
   landing: Landing = runMechanicalChange
 ): Promise<Answer> {
-  const held = taken(argv)
+  const held = taken(argv, given.calledAs)
   if ("refused" in held) return refused(held.refused, INPUT)
   let found: Gathered | { readonly refused: string }
   try {
