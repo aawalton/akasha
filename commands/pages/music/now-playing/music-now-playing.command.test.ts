@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type {
   NowPlayingCurrent,
   NowPlayingState,
@@ -71,18 +72,18 @@ test("the human line marks a held track apart from a playing one", () => {
 
 test("the human report is the one line", async () => {
   const said = await nowPlayingWith(readerFor(STATE, null), [], CALLED)
-  expect(said).toEqual({ report: ["▶ Bulletproof · Kitchen"], refusals: [], code: 0 })
+  expect(said).toEqual({ report: ["▶ Bulletproof · Kitchen"], refusals: [], code: OK })
 })
 
 test("--json gives the envelope on one line", async () => {
   const said = await nowPlayingWith(readerFor(null, null), ["--json"], CALLED)
-  expect(said.code).toBe(0)
+  expect(said.code).toBe(OK)
   expect(said.report).toEqual(['{"activeDevice":false,"track":null}'])
 })
 
 test("anything the command does not take refuses the call", async () => {
   const said = await nowPlayingWith(readerFor(STATE, null), ["--pretty"], CALLED)
-  expect(said.code).toBe(1)
+  expect(said.code).toBe(INPUT)
   expect(said.report).toEqual([])
   expect(said.refusals[0]).toContain("--pretty")
 })
