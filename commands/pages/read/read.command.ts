@@ -10,13 +10,7 @@ export const read = {
   test: "ts",
   testFixtures: "ts",
   parts: ["module/long-body", "module/differing", "module/output-reaching"],
-  taking: [
-    {
-      said: "--file-path <path>",
-      takes: "a file in the repository to read, in place of your own seat page",
-    },
-    { said: "--full", takes: "the whole body, whatever your record holds" },
-  ],
+  taking: [{ said: "--full", takes: "the whole body, whatever your record holds" }],
   invariants: [
     {
       invariantKind: "departure",
@@ -192,6 +186,7 @@ export const read = {
     },
   ],
   name: "read",
+  arguments: [{ argument: "argument/file-path" }],
   directives: [
     {
       directiveKind: "rule",

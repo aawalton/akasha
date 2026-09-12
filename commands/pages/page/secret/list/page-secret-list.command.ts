@@ -6,12 +6,7 @@ export const pageSecretList = {
   slug: "page-secret-list",
   definition: "the command naming which secrets a page holds, none of them decrypted",
   code: "ts",
-  taking: [
-    {
-      said: "--file-path <path>",
-      takes: "the page, read against the root, rather than its sops file",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -32,4 +27,5 @@ export const pageSecretList = {
     },
   ],
   name: "list",
+  arguments: [{ argument: "argument/file-path", required: true }],
 } as const satisfies Command

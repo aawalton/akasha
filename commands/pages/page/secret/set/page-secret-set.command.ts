@@ -7,10 +7,6 @@ export const pageSecretSet = {
   definition: "the command enciphering one value into the sops file beside a page",
   code: "ts",
   taking: [
-    {
-      said: "--file-path <path>",
-      takes: "the page, read against the root, rather than its sops file",
-    },
     { said: "--key <name>", takes: "the one secret this sets" },
     {
       said: "--keep-last-newline",
@@ -72,4 +68,5 @@ export const pageSecretSet = {
     },
   ],
   name: "set",
+  arguments: [{ argument: "argument/file-path", required: true }],
 } as const satisfies Command

@@ -8,10 +8,6 @@ export const trackHealthImport = {
   code: "ts",
   test: "ts",
   taking: [
-    {
-      said: "--file-path <path>",
-      takes: "the export to read, in place of the newest export the machine holds",
-    },
     { said: "--since <YYYY-MM-DD>", takes: "the first civil day to bring in" },
     { said: "--batch <n>", takes: "how many readings one write carries, 1 to 1000" },
     {
@@ -82,5 +78,5 @@ export const trackHealthImport = {
     },
   ],
   name: "health-import",
-  arguments: [{ argument: "argument/dry-run" }],
+  arguments: [{ argument: "argument/dry-run" }, { argument: "argument/file-path" }],
 } as const satisfies Command

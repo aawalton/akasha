@@ -7,10 +7,6 @@ export const pageSecretClear = {
   definition: "the command dropping one secret from the sops file beside a page",
   code: "ts",
   taking: [
-    {
-      said: "--file-path <path>",
-      takes: "the page, read against the root, rather than its sops file",
-    },
     { said: "--key <name>", takes: "the one secret to drop" },
     {
       said: "--message <msg>",
@@ -48,4 +44,5 @@ export const pageSecretClear = {
     },
   ],
   name: "clear",
+  arguments: [{ argument: "argument/file-path", required: true }],
 } as const satisfies Command

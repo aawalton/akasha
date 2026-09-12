@@ -8,7 +8,6 @@ export const measureComplexityMaintainability = {
     "the command saying the maintainability index of each file of a checkout's TypeScript",
   code: "ts",
   taking: [
-    { said: "--file-path <path>", takes: "the one file to read, said from the repository root" },
     { said: "--threshold <n>", takes: "the index a row must be at or under to be in the answer" },
     { said: "--top <n>", takes: "how many rows are in the answer, worst first" },
   ],
@@ -28,5 +27,5 @@ export const measureComplexityMaintainability = {
     },
   ],
   name: "maintainability",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/file-path" }],
 } as const satisfies Command

@@ -8,7 +8,7 @@ export const gitRestore = {
     "the command putting named paths back to what HEAD says, in the working tree and the git index",
   code: "ts",
   test: "ts",
-  taking: [{ said: "--file-path <path>", takes: "a path to put back to what HEAD says of it" }],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -121,4 +121,5 @@ export const gitRestore = {
     },
   ],
   name: "restore",
+  arguments: [{ argument: "argument/file-path", required: true }],
 } as const satisfies Command

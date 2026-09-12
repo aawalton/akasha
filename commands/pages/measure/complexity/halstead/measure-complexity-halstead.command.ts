@@ -8,7 +8,6 @@ export const measureComplexityHalstead = {
     "the command saying each function's token counts, and the volume, difficulty, effort, time and bugs",
   code: "ts",
   taking: [
-    { said: "--file-path <path>", takes: "the one file to read, said from the repository root" },
     { said: "--threshold <n>", takes: "the volume a row must reach to be in the answer" },
     { said: "--top <n>", takes: "how many rows are in the answer, worst first" },
   ],
@@ -35,5 +34,5 @@ export const measureComplexityHalstead = {
     },
   ],
   name: "halstead",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/file-path" }],
 } as const satisfies Command
