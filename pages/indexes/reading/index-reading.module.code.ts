@@ -17,7 +17,7 @@ import {
 } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
 import { valueIn } from "akasha/pages/value/page-value.module.code.ts"
-import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 export type Listed = {
   readonly path: string
@@ -131,6 +131,29 @@ function endingIn(said: readonly { readonly name: string }[]): readonly string[]
     .sort()
 }
 
+function slugFolders(reading: Reading, pageTypeSlug: string): readonly string[] {
+  const found = [join(IDENTITY, PAGE_TYPE, pageTypeSlug, SLUG)]
+  const scoped = join(IDENTITY, PROPERTY, pageTypeSlug)
+  for (const property of reading.listing(scoped)) {
+    if (!property.directory) continue
+    for (const one of reading.listing(join(scoped, property.name))) {
+      if (one.directory) found.push(join(scoped, property.name, one.name, SLUG))
+    }
+  }
+  return found
+}
+
+const rostered = heldEach((reading: Reading, pageTypeSlug: string): readonly Listed[] => {
+  const found: Listed[] = []
+  for (const at of slugFolders(reading, pageTypeSlug)) {
+    for (const one of reading.listing(at)) {
+      if (one.directory || !one.name.endsWith(ENDING)) continue
+      found.push(...listedIn(reading, join(at, one.name)))
+    }
+  }
+  return found.sort((one, two) => (one.path < two.path ? -1 : one.path > two.path ? 1 : 0))
+})
+
 export function listedNamed(
   given: string | Reading,
   uniqueKind: string,
@@ -211,12 +234,9 @@ export function importersOf(path: string, reading: Reading): readonly string[] {
 }
 
 export function everyOfType(given: string | Reading, pageTypeSlug: string): readonly Listed[] {
-  const found: Listed[] = []
-  for (const one of valuesOfType(given, pageTypeSlug)) {
-    const id = textAt(one.value, "id")
-    if (id !== null) found.push({ path: one.path, id })
-  }
-  return found
+  return answered(given, ROOT, `which pages are \`${pageTypeSlug}\``, (reading) =>
+    rostered(reading, pageTypeSlug)
+  )
 }
 
 export type Valued = {
@@ -302,9 +322,13 @@ export function valuedAt(given: string | Reading, pageTypeSlug: string, slug: st
 }
 
 export function slugsOfType(given: string | Reading, pageTypeSlug: string): readonly string[] {
-  return answered(given, ROOT, `which slugs the \`${pageTypeSlug}\` pages carry`, (reading) =>
-    endingIn(reading.listing(join(IDENTITY, PAGE_TYPE, pageTypeSlug, SLUG)))
-  )
+  return answered(given, ROOT, `which slugs the \`${pageTypeSlug}\` pages carry`, (reading) => {
+    const found = new Set<string>()
+    for (const at of slugFolders(reading, pageTypeSlug)) {
+      for (const one of endingIn(reading.listing(at))) found.add(one)
+    }
+    return [...found].sort()
+  })
 }
 
 export function idsNaming(

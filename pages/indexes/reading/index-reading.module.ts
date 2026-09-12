@@ -31,7 +31,15 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The slugs one page type's pages carry are that type's slug directory listed.",
+      statement: "The pages of one page type are read from where that type's slugs are filed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type whose slug is unique within a scope has one folder for each scope.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The slugs one page type's pages carry are those same folders listed.",
     },
     {
       invariantKind: "departure",

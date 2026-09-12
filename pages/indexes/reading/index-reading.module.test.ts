@@ -252,31 +252,31 @@ test("a reader answers alike whether it is given the root or a reading of the in
   )
 })
 
-test("every page of one page type is answered from the values filed under that page type", () => {
+test("every page of one page type is answered from the slugs filed under that page type", () => {
   const root = rootAt()
   const one = { path: "akasha/one/one.module.ts", id: A }
   const two = { path: "akasha/held/two.module.ts", id: B }
-  valueAlsoFiled(root, "module", [
-    { path: one.path, value: { id: A, pageTypeSlug: "module", slug: "one" } },
-    { path: two.path, value: { id: B, pageTypeSlug: "module", slug: "two" } },
-  ])
+  listedFiled(root, "module", "one", [one])
+  listedFiled(root, "module", "two", [two])
 
   expect(everyOfType(root, "module")).toEqual([two, one])
 })
 
-test("a page filed under its slug alone is answered by nothing, the values being read instead", () => {
+test("a page type whose slug is unique within a scope is answered from every scope's folder", () => {
   const root = rootAt()
-  listedFiled(root, "module", "one", [{ path: "akasha/one/one.module.ts", id: A }])
+  const one = { path: "akasha/a/one.section.ts", id: A }
+  const two = { path: "akasha/b/two.section.ts", id: B }
+  scopedFiled(root, "section", "section-of", "first", "one", [one])
+  scopedFiled(root, "section", "section-of", "second", "two", [two])
 
-  expect(everyOfType(root, "module")).toEqual([])
+  expect(everyOfType(root, "section")).toEqual([one, two])
 })
 
-test("a value carrying no id is left out rather than answered under an id it does not carry", () => {
+test("a page the values name and no slug names is answered by nothing", () => {
   const root = rootAt()
   valueAlsoFiled(root, "module", [
-    { path: "akasha/one/one.module.ts", value: { pageTypeSlug: "module", slug: "one" } },
-    { path: "akasha/two/two.module.ts", value: { id: B, pageTypeSlug: "module", slug: "two" } },
+    { path: "akasha/one/one.module.ts", value: { id: A, pageTypeSlug: "module", slug: "one" } },
   ])
 
-  expect(everyOfType(root, "module")).toEqual([{ path: "akasha/two/two.module.ts", id: B }])
+  expect(everyOfType(root, "module")).toEqual([])
 })
