@@ -1,5 +1,11 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
+import {
+  DATA,
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { allowedThrough } from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
@@ -21,9 +27,6 @@ import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
-const INPUT = 1
-const DATA = 2
-const OPERATIONAL = 3
 const SWEEP = "sweep"
 const RUN = "run"
 const RESTART = "restart"
@@ -77,19 +80,19 @@ function swept(argv: readonly string[], given: Given): Answer {
   const remove = plan.remove
   const strand = strandedAmong(ourStaged(home), owned, plan)
   if (remove.length === 0 && strand.length === 0) {
-    return { report: [ALL_ACCOUNTED], refusals: [], code: 0 }
+    return { report: [ALL_ACCOUNTED], refusals: [], code: OK }
   }
 
   const report = [
     ...remove.map((name) => `remove\t${name}`),
     ...strand.map((name) => `stranded\t${name}`),
   ]
-  if (dryRun) return { report: [...report, NOT_SWEPT], refusals: [], code: 0 }
+  if (dryRun) return { report: [...report, NOT_SWEPT], refusals: [], code: OK }
 
   const done = installing(home, { write: new Map(), enable: [], stop: [], remove, strand })
   const said = [...report, ...done.did.map((what) => `did\t${what}`)]
   if (done.refused.length > 0) return { report: said, refusals: done.refused, code: OPERATIONAL }
-  return { report: said, refusals: [], code: 0 }
+  return { report: said, refusals: [], code: OK }
 }
 
 function asked(act: string, argv: readonly string[], given: Given): Answer {
@@ -114,13 +117,13 @@ function asked(act: string, argv: readonly string[], given: Given): Answer {
   if (found === undefined) return refused(`no workstation service is slugged \`${slug}\``, DATA)
 
   const unit = installedUnitName(found)
-  if (dryRun) return { report: [`${act}\t${unit}`, NOT_ASKED], refusals: [], code: 0 }
+  if (dryRun) return { report: [`${act}\t${unit}`, NOT_ASKED], refusals: [], code: OK }
 
   const done = systemctl([act, unit])
   if (done.code !== 0) {
     return { report: [], refusals: [`${unit} was refused: ${done.out}`], code: OPERATIONAL }
   }
-  return { report: [`${act}\t${unit}`], refusals: [], code: 0 }
+  return { report: [`${act}\t${unit}`], refusals: [], code: OK }
 }
 
 export type Running = () => void | Promise<void>
@@ -169,7 +172,7 @@ async function ran(argv: readonly string[], given: Given): Promise<Answer> {
 
   allowedThrough()
   await reached.running()
-  return { report: [`${RUN}\t${slug}`], refusals: [], code: 0 }
+  return { report: [`${RUN}\t${slug}`], refusals: [], code: OK }
 }
 
 export async function infrastructureService(
