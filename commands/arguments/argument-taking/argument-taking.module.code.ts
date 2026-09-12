@@ -49,17 +49,28 @@ function asAWord(one: Naming): boolean {
   return one.saidAs === "word" || one.saidAs === "flag-or-word"
 }
 
-function spelt(one: Naming): string {
-  return atAFlag(one) ? one.argument.said : `<${one.argument.placeholder ?? one.argument.slug}>`
+function spelt(one: Naming, byWord: boolean): string {
+  return byWord ? `<${one.argument.placeholder ?? one.argument.slug}>` : one.argument.said
 }
 
-function whyRefused(one: Naming, said: string): string | null {
+function spellingsOf(one: Naming): readonly string[] {
+  const every: string[] = []
+  if (asAWord(one)) every.push(spelt(one, true))
+  if (atAFlag(one)) every.push(spelt(one, false))
+  return every
+}
+
+function eitherWay(one: Naming): string {
+  return namesDrawn(spellingsOf(one), " or ")
+}
+
+function whyRefused(one: Naming, said: string, byWord: boolean): string | null {
   const value = one.argument.value
   if (value === "whole-number" && !WHOLE.test(said)) {
-    return `\`${spelt(one)} ${said}\` is no whole number of nought or more`
+    return `\`${spelt(one, byWord)} ${said}\` is no whole number of nought or more`
   }
   if (value === "true-or-false" && said !== "true" && said !== "false") {
-    return `\`${spelt(one)}\` takes \`true\` or \`false\`, and \`${said}\` is neither`
+    return `\`${spelt(one, byWord)}\` takes \`true\` or \`false\`, and \`${said}\` is neither`
   }
   return null
 }
@@ -76,10 +87,11 @@ function unknown(word: string, calledAs: string, every: readonly string[]): stri
     : `\`${word}\` is no argument \`${calledAs}\` takes — it takes \`${every.join("`, `")}\``
 }
 
-function saidAgain(said: string, byWord: boolean, wasWord: boolean): string {
-  return byWord === wasWord
-    ? `\`${said}\` is said twice, and one call says it once`
-    : `\`${said}\` is said as a word and at its flag, and one call says it one way`
+function saidAgain(one: Naming, byWord: boolean, wasWord: boolean): string {
+  if (byWord === wasWord) {
+    return `\`${spelt(one, byWord)}\` is said twice, and one call says it once`
+  }
+  return `\`${spelt(one, true)}\` is said as a word and \`${spelt(one, false)}\` at its flag, and one call says it one way`
 }
 
 function tooManyWords(calledAs: string, takes: number, said: number): string {
@@ -98,7 +110,7 @@ function filling(state: Filling, one: Naming, value: string, byWord: boolean): u
   const argument = one.argument
   const slug = argument.slug
   const key = exportedAs(slug)
-  const why = whyRefused(one, value)
+  const why = whyRefused(one, value, byWord)
   if (why !== null) {
     state.refusals.push(why)
     state.heard.add(slug)
@@ -109,7 +121,7 @@ function filling(state: Filling, one: Naming, value: string, byWord: boolean): u
     const before = (state.taken[key] ?? []) as readonly (string | number)[]
     state.taken[key] = [...before, heldOf(argument, value) as string | number]
   } else if (state.heard.has(slug)) {
-    state.refusals.push(saidAgain(spelt(one), byWord, state.asWord.has(slug)))
+    state.refusals.push(saidAgain(one, byWord, state.asWord.has(slug)))
     return
   } else {
     state.taken[key] = heldOf(argument, value)
@@ -130,8 +142,9 @@ function fighting(state: Filling, naming: readonly Naming[]): undefined {
       if (paired.has(pair)) continue
       paired.add(pair)
       const held = bySlug.get(other.slug)
+      const said = held === undefined ? other.said : spelt(held, state.asWord.has(other.slug))
       state.refusals.push(
-        `\`${spelt(one)}\` and \`${held === undefined ? other.said : spelt(held)}\` are never said together, and this call says both`
+        `\`${spelt(one, state.asWord.has(slug))}\` and \`${said}\` are never said together, and this call says both`
       )
     }
   }
@@ -152,10 +165,10 @@ function grouped(naming: readonly Naming[]): readonly (readonly Naming[])[] {
 }
 
 function saidNone(calledAs: string, group: readonly Naming[]): string {
-  const every = group.map((one) => spelt(one))
+  const every = group.map((one) => eitherWay(one))
   const last = every[every.length - 1] ?? ""
   const before = every.slice(0, -1)
-  const said = before.length === 0 ? `\`${last}\`` : `${namesDrawn(before)} or \`${last}\``
+  const said = before.length === 0 ? last : `${before.join(", ")} or ${last}`
   const naught = group.length > 2 ? "and nothing said any of them" : "and nothing said either"
   return `\`${calledAs}\` takes ${said}, ${naught}`
 }
@@ -175,7 +188,7 @@ export function takingIn(
   const state: Filling = { taken: {}, heard: new Set(), asWord: new Set(), refusals: [] }
   const atFlags = naming.filter((one) => atAFlag(one))
   const bySaid = new Map(atFlags.map((one) => [one.argument.said, one]))
-  const spellings = naming.map((one) => spelt(one))
+  const spellings = naming.flatMap((one) => spellingsOf(one))
   const forWords = naming.filter((one) => asAWord(one))
   let atWord = 0
   let overflowed = 0
@@ -232,7 +245,7 @@ export function takingIn(
   }
   for (const one of naming) {
     if (one.required !== true || state.heard.has(one.argument.slug)) continue
-    state.refusals.push(`\`${calledAs}\` takes \`${spelt(one)}\`, and nothing said it`)
+    state.refusals.push(`\`${calledAs}\` takes ${eitherWay(one)}, and nothing said it`)
   }
   fighting(state, naming)
   lacking(state, calledAs, naming)

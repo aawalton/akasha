@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import {
   ACTIVE,
+  COUNT,
   DASH,
   DRY_RUN,
   EACH_STATING,
@@ -105,21 +106,18 @@ test("an argument carrying no value is taken once where one call says it twice",
   expect(taken(["--dry-run", "--dry-run"], [DRY_RUN])).toEqual({ dryRun: true })
 })
 
-test("a value that is no whole number is refused", () => {
-  expect(refusals(["--limit", "many"], [LIMIT])[0]).toBe(
-    "`--limit many` is no whole number of nought or more"
-  )
-})
-
 test("a value that is neither true nor false is refused", () => {
   expect(refusals(["--active", "yes"], [ACTIVE])[0]).toBe(
     "`--active` takes `true` or `false`, and `yes` is neither"
   )
 })
 
-test("a value that will not narrow is refused for the value alone", () => {
+test("a value that will not narrow is refused for the value alone, named as the call said it", () => {
   expect(refusals(["--limit", "many"], [{ ...LIMIT, required: true }])).toEqual([
     "`--limit many` is no whole number of nought or more",
+  ])
+  expect(refusals(["many"], [{ ...COUNT, required: true }])).toEqual([
+    "`<count> many` is no whole number of nought or more",
   ])
 })
 
@@ -127,9 +125,12 @@ test("a value is read whole, so the spaces around it are the value's own", () =>
   expect(taken(["--node", " padded "], [NODE])).toEqual({ node: " padded " })
 })
 
-test("an argument the command needs and nothing said is refused", () => {
+test("an argument the command needs and nothing said is refused, named every way it is said", () => {
   expect(refusals([], [{ ...LIMIT, required: true }])[0]).toBe(
     "`akasha thing` takes `--limit`, and nothing said it"
+  )
+  expect(refusals([], [{ ...NODE, required: true }])[0]).toBe(
+    "`akasha thing` takes `<node>` or `--node`, and nothing said it"
   )
 })
 
@@ -154,7 +155,7 @@ test("an argument taken as a word is taken at its flag too", () => {
 
 test("an argument said as a word and at its flag in one call is refused", () => {
   expect(refusals(["n1", "--node", "n2"], [NODE])[0]).toBe(
-    "`--node` is said as a word and at its flag, and one call says it one way"
+    "`<node>` is said as a word and `--node` at its flag, and one call says it one way"
   )
 })
 
@@ -246,7 +247,7 @@ test("a word that is no flag keeps an equals in it", () => {
 
 test("a word spelled as a flag is refused rather than filling an argument", () => {
   expect(refusals(["--nope"], [NODE])[0]).toBe(
-    "`--nope` is no argument `akasha thing` takes — it takes `--node`"
+    "`--nope` is no argument `akasha thing` takes — it takes `<node>`, `--node`"
   )
 })
 

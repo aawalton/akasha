@@ -40,6 +40,11 @@ export const ACTIVE: Naming = { argument: argumentOf("active", "true-or-false") 
 
 export const NODE: Naming = { argument: argumentOf("node", "text"), saidAs: "flag-or-word" }
 
+export const COUNT: Naming = {
+  argument: argumentOf("count", "whole-number"),
+  saidAs: "flag-or-word",
+}
+
 export const SLUG: Naming = { argument: argumentOf("slug", "text"), saidAs: "word" }
 
 export const VIDEO = argumentOf("video", "path")

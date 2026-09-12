@@ -96,6 +96,11 @@ export const argumentTaking = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A refusal names an argument the way the call reached it, and both ways where none did.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A word spelled as a flag is refused rather than filling an argument.",
     },
     {
