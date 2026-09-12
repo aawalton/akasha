@@ -25,13 +25,6 @@ export const inferenceVoiceClone = {
     },
     { said: "--no-persist", takes: "leave the audio where it was written and file no page for it" },
   ],
-  helpNotes: [
-    "a clip named is carried to the host, and a call naming none uses the one the host was provisioned with.",
-    "a clip named is refused without its transcript, because the model reads the clip against what it says.",
-    "the high lane drains ahead of queued batch work without cutting into what is already running.",
-    "the text is not cut into pieces, so a few sentences is what this is for.",
-    "the timeout absorbs a cold load of about nine minutes as well as the queue wait.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
