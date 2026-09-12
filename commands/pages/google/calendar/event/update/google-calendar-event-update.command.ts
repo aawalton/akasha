@@ -6,25 +6,7 @@ export const googleCalendarEventUpdate = {
   slug: "google-calendar-event-update",
   definition: "the command changing the fields a call names on one event",
   code: "ts",
-  taking: [
-    { said: "--summary <text>", takes: "the event's title" },
-    { said: "--start <iso>", takes: "when the event opens, as a timestamp or as a date alone" },
-    { said: "--end <iso>", takes: "when the event closes, as a timestamp or as a date alone" },
-    { said: "--description <text>", takes: "the event's description" },
-    { said: "--location <text>", takes: "the event's location" },
-    {
-      said: "--attendees <emails>",
-      takes: "who attends, parted by commas, taking the place of whoever attends now",
-    },
-    {
-      said: "--timezone <iana>",
-      takes: "the IANA zone a start and an end carrying none are read in",
-    },
-    {
-      said: "--recurrence <rrule>",
-      takes: "one RRULE body, said once over for each rule it carries",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -66,11 +48,23 @@ export const googleCalendarEventUpdate = {
       invariantKind: "departure",
       statement: "A call that threw after the calendar took the change says the calendar took it.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The attendees a call names take the place of whoever attends now.",
+    },
   ],
   name: "update",
   arguments: [
     { argument: "argument/event", required: true, saidAs: "flag-or-word" },
     { argument: "argument/calendar" },
     { argument: "argument/send-updates" },
+    { argument: "argument/summary" },
+    { argument: "argument/start" },
+    { argument: "argument/end" },
+    { argument: "argument/description" },
+    { argument: "argument/location" },
+    { argument: "argument/attendees" },
+    { argument: "argument/timezone" },
+    { argument: "argument/recurrence" },
   ],
 } as const satisfies Command

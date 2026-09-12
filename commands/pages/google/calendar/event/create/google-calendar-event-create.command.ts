@@ -6,22 +6,7 @@ export const googleCalendarEventCreate = {
   slug: "google-calendar-event-create",
   definition: "the command placing a new event and inviting everyone named on it",
   code: "ts",
-  taking: [
-    { said: "--summary <text>", takes: "the event's title" },
-    { said: "--start <iso>", takes: "when the event opens, as a timestamp or as a date alone" },
-    { said: "--end <iso>", takes: "when the event closes, as a timestamp or as a date alone" },
-    { said: "--description <text>", takes: "the event's description" },
-    { said: "--location <text>", takes: "the event's location" },
-    { said: "--attendees <emails>", takes: "who attends, parted by commas" },
-    {
-      said: "--timezone <iana>",
-      takes: "the IANA zone a start and an end carrying none are read in",
-    },
-    {
-      said: "--recurrence <rrule>",
-      takes: "one RRULE body, said once over for each rule it carries",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -65,5 +50,16 @@ export const googleCalendarEventCreate = {
     },
   ],
   name: "create",
-  arguments: [{ argument: "argument/calendar" }, { argument: "argument/send-updates" }],
+  arguments: [
+    { argument: "argument/calendar" },
+    { argument: "argument/send-updates" },
+    { argument: "argument/summary" },
+    { argument: "argument/start" },
+    { argument: "argument/end" },
+    { argument: "argument/description" },
+    { argument: "argument/location" },
+    { argument: "argument/attendees" },
+    { argument: "argument/timezone" },
+    { argument: "argument/recurrence" },
+  ],
 } as const satisfies Command
