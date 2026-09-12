@@ -6,12 +6,7 @@ export const temperInventoryPlan = {
   slug: "temper-inventory-plan",
   definition: "the command working out the management plan the addon would carry out",
   code: "ts",
-  taking: [
-    {
-      said: "--checklist",
-      takes: "give the login and venue-stop checklist rather than the plan the addon shows",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -43,5 +38,6 @@ export const temperInventoryPlan = {
     { argument: "argument/json" },
     { argument: "argument/inventory-path" },
     { argument: "argument/characters-path" },
+    { argument: "argument/login-checklist" },
   ],
 } as const satisfies Command
