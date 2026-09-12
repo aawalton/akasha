@@ -26,13 +26,7 @@ export const trackSessionOpen = {
     },
     { said: "--dry-run", takes: "judge what the act would land and write nothing" },
   ],
-  helpNotes: [
-    "every time said here is a US Mountain wall time, and no other clock is read or written.",
-    "a day is named at --day and nowhere else.",
-    "--relationship names a relationship by its id or by its title.",
-    "a title carrying one of a relationship's aliases tags the stretch with that relationship, with no flag said, and what --relationship names is kept beside it.",
-    "an alias more than one relationship carries tags neither, and says nothing about it, since no act that writes stops to ask.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
