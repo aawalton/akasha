@@ -22,11 +22,6 @@ export const temperInventoryPlan = {
       takes: "give the login and venue-stop checklist rather than the plan the addon shows",
     },
   ],
-  helpNotes: [
-    "the items every rule reaches are worked out first, then the capacity filter, then the plan.",
-    "the checklist is two levels deep: which characters to log in and which venues to stop at.",
-    "the checklist never names one item, because a stop is what a player acts on.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -39,6 +34,10 @@ export const temperInventoryPlan = {
     {
       invariantKind: "departure",
       statement: "The checklist names character logins and venue stops.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A checklist's venue stops sit under the character login they belong to.",
     },
     {
       invariantKind: "absence",
