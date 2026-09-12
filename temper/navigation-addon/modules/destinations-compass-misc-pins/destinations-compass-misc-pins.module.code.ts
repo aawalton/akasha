@@ -1,5 +1,3 @@
-import { DRTV } from "akasha/temper/navigation-addon/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
-import { getCharacterSavedVariables } from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 import { PIN_TYPES } from "akasha/temper/navigation-addon/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 import {
   getMapTextureName,
@@ -10,6 +8,8 @@ import {
   AchStore,
   rowNumber,
 } from "akasha/temper/navigation-addon/modules/destinations-pins-stores/destinations-pins-stores.module.code.ts"
+import { DRTV } from "akasha/temper/navigation-addon/modules/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
+import { getCharacterSavedVariables } from "akasha/temper/navigation-addon/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 
 export function addMiscCompassPins(this: void): undefined {
   if (GetMapType() >= MAPTYPE_WORLD) return

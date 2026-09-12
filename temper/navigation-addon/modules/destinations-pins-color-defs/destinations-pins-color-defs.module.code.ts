@@ -1,4 +1,3 @@
-import { getSavedVariables } from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 import {
   DEST_PIN_TEXT_COLOR_AYLEID,
   DEST_PIN_TEXT_COLOR_BRAWL,
@@ -61,6 +60,7 @@ import {
   DEST_PIN_TINT_WWSHRINE,
   DEST_PIN_TINT_WWVAMP,
 } from "akasha/temper/navigation-addon/modules/destinations-colors/destinations-colors.module.code.ts"
+import { getSavedVariables } from "akasha/temper/navigation-addon/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 
 type SavedColorTable = number[]
 

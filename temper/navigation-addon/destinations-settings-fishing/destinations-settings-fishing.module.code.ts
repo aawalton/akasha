@@ -1,9 +1,5 @@
 import { unpackRgba } from "akasha/temper/addon-color/unpack-color/unpack-color.module.code.ts"
 import {
-  getCharacterSavedVariables,
-  getSavedVariables,
-} from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
-import {
   achHeaderName,
   choiceAt,
   colorDefaultRgb,
@@ -30,6 +26,10 @@ import { PIN_TEXTURE_PATHS } from "akasha/temper/navigation-addon/modules/destin
 import { PIN_TEXTURE_LISTS } from "akasha/temper/navigation-addon/modules/destinations-pin-textures/destinations-pin-textures.module.code.ts"
 import { PIN_TYPES } from "akasha/temper/navigation-addon/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 import { togglePins } from "akasha/temper/navigation-addon/modules/destinations-pins-filters/destinations-pins-filters.module.code.ts"
+import {
+  getCharacterSavedVariables,
+  getSavedVariables,
+} from "akasha/temper/navigation-addon/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 
 const LMP = LibMapPins
 

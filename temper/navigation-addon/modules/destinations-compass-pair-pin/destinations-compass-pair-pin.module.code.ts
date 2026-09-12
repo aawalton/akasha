@@ -1,9 +1,9 @@
-import { getCharacterSavedVariables } from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 import {
   AchIndex,
   type AchRow,
   rowNumber,
 } from "akasha/temper/navigation-addon/modules/destinations-pins-stores/destinations-pins-stores.module.code.ts"
+import { getCharacterSavedVariables } from "akasha/temper/navigation-addon/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 
 export function pairEnabled(undoneName: string, doneName: string): boolean {
   const filters = getCharacterSavedVariables().filters

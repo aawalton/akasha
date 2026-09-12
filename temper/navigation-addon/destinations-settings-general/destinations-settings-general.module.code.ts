@@ -1,8 +1,4 @@
 import {
-  getAccountWideSavedVariables,
-  getSavedVariables,
-} from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
-import {
   accountWideColored,
   reloadWarningColored,
 } from "akasha/temper/navigation-addon/destinations-settings-helpers/destinations-settings-helpers.module.code.ts"
@@ -15,6 +11,10 @@ import {
   getClientLanguage,
   getSettingsString,
 } from "akasha/temper/navigation-addon/modules/destinations-lang-strings/destinations-lang-strings.module.code.ts"
+import {
+  getAccountWideSavedVariables,
+  getSavedVariables,
+} from "akasha/temper/navigation-addon/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 
 function buildAccountWideToggle(): LamCheckboxData {
   return {

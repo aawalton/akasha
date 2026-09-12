@@ -1,4 +1,3 @@
-import { getSavedVariables } from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 import {
   DEST_PIN_TINT_AYLEID,
   DEST_PIN_TINT_CHAMPION,
@@ -24,6 +23,7 @@ import {
   getFakedPinTexture,
   getPinTextureUnknown,
 } from "akasha/temper/navigation-addon/modules/destinations-pins-tooltips/destinations-pins-tooltips.module.code.ts"
+import { getSavedVariables } from "akasha/temper/navigation-addon/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 
 interface SvPinEntry {
   maxDistance: number

@@ -1,4 +1,3 @@
-import { DRTV } from "akasha/temper/navigation-addon/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
 import {
   DEST_PIN_TEXT_COLOR_AYLEID,
   DEST_PIN_TEXT_COLOR_DEADLANDS,
@@ -18,6 +17,7 @@ import {
   AchIndex,
   rowNumber,
 } from "akasha/temper/navigation-addon/modules/destinations-pins-stores/destinations-pins-stores.module.code.ts"
+import { DRTV } from "akasha/temper/navigation-addon/modules/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
 
 function makeMiscPoiCallback(
   pinName: string,

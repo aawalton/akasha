@@ -1,8 +1,4 @@
 import "akasha/temper/navigation-addon/modules/destinations-pins-slash-commands/destinations-pins-slash-commands.module.code.ts"
-import {
-  initializeSavedVariables,
-  markSavedVarsInitialized,
-} from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 import { initSettings as InitSettings } from "akasha/temper/navigation-addon/destinations-settings-init/destinations-settings-init.module.code.ts"
 import { registerSettingsStrings } from "akasha/temper/navigation-addon/modules/destinations-lang-strings/destinations-lang-strings.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/navigation-addon/modules/destinations-names/destinations-names.module.code.ts"
@@ -31,6 +27,10 @@ import { setPinLayouts } from "akasha/temper/navigation-addon/modules/destinatio
 import { redrawQolPins } from "akasha/temper/navigation-addon/modules/destinations-pins-qol-pins/destinations-pins-qol-pins.module.code.ts"
 import { initializeSetDescription } from "akasha/temper/navigation-addon/modules/destinations-pins-sets/destinations-pins-sets.module.code.ts"
 import { onGamepadPreferredModeChanged } from "akasha/temper/navigation-addon/modules/destinations-pins-tooltips/destinations-pins-tooltips.module.code.ts"
+import {
+  initializeSavedVariables,
+  markSavedVarsInitialized,
+} from "akasha/temper/navigation-addon/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 
 export function initializeDestinations(): undefined {
   registerSettingsStrings()

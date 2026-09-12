@@ -1,9 +1,4 @@
 import { unpackRgba } from "akasha/temper/addon-color/unpack-color/unpack-color.module.code.ts"
-import { DRTV } from "akasha/temper/navigation-addon/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
-import {
-  getCharacterSavedVariables,
-  getSavedVariables,
-} from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 import {
   colorDefaultRgb,
   colorDefaultRgba,
@@ -27,6 +22,11 @@ import {
 import { DEFAULTS } from "akasha/temper/navigation-addon/modules/destinations-defaults/destinations-defaults.module.code.ts"
 import { getSettingsString } from "akasha/temper/navigation-addon/modules/destinations-lang-strings/destinations-lang-strings.module.code.ts"
 import { PIN_TYPES } from "akasha/temper/navigation-addon/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
+import { DRTV } from "akasha/temper/navigation-addon/modules/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
+import {
+  getCharacterSavedVariables,
+  getSavedVariables,
+} from "akasha/temper/navigation-addon/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 
 const LMP = LibMapPins
 

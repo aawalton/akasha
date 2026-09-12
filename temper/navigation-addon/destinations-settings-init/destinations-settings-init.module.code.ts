@@ -1,5 +1,3 @@
-import { buildAchievementGlobalSubmenu } from "akasha/temper/navigation-addon/destinations-settings-achievement-global/destinations-settings-achievement-global.module.code.ts"
-import { buildAchievementsSubmenu } from "akasha/temper/navigation-addon/destinations-settings-achievements/destinations-settings-achievements.module.code.ts"
 import { buildCollectiblesSubmenu } from "akasha/temper/navigation-addon/destinations-settings-collectibles/destinations-settings-collectibles.module.code.ts"
 import { buildFishingSubmenu } from "akasha/temper/navigation-addon/destinations-settings-fishing/destinations-settings-fishing.module.code.ts"
 import { buildGeneralOptions } from "akasha/temper/navigation-addon/destinations-settings-general/destinations-settings-general.module.code.ts"
@@ -14,6 +12,8 @@ import {
   ADDON_VERSION,
   ADDON_WEBSITE,
 } from "akasha/temper/navigation-addon/modules/destinations-names/destinations-names.module.code.ts"
+import { buildAchievementGlobalSubmenu } from "akasha/temper/navigation-addon/modules/destinations-settings-achievement-global/destinations-settings-achievement-global.module.code.ts"
+import { buildAchievementsSubmenu } from "akasha/temper/navigation-addon/modules/destinations-settings-achievements/destinations-settings-achievements.module.code.ts"
 import { whenPanelControlsCreated } from "akasha/temper/settings-panel/panel-controls-created/panel-controls-created.module.code.ts"
 import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 

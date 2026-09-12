@@ -1,4 +1,3 @@
-import { getCharacterSavedVariables } from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 import {
   DESTINATIONS_FISH_TYPE_FOUL,
   DESTINATIONS_FISH_TYPE_LAKE,
@@ -20,6 +19,7 @@ import {
   rowNumber,
   rowString,
 } from "akasha/temper/navigation-addon/modules/destinations-pins-stores/destinations-pins-stores.module.code.ts"
+import { getCharacterSavedVariables } from "akasha/temper/navigation-addon/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 
 export function collectibleFishCompassPins(this: void): undefined {
   const cssv = getCharacterSavedVariables()

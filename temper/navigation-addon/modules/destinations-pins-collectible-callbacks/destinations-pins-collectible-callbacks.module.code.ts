@@ -1,5 +1,3 @@
-import { DRTV } from "akasha/temper/navigation-addon/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
-import { getSavedVariables } from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 import {
   DEST_PIN_TEXT_COLOR_COLLECTIBLE,
   DEST_PIN_TEXT_COLOR_COLLECTIBLE_DONE,
@@ -18,6 +16,8 @@ import {
   rowNumber,
   rowString,
 } from "akasha/temper/navigation-addon/modules/destinations-pins-stores/destinations-pins-stores.module.code.ts"
+import { DRTV } from "akasha/temper/navigation-addon/modules/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
+import { getSavedVariables } from "akasha/temper/navigation-addon/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 
 function mobNumberForCriterion(i: number): string {
   if (i === 10) return "A"

@@ -1,5 +1,3 @@
-import { DRTV } from "akasha/temper/navigation-addon/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
-import { getSavedVariables } from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 import {
   DEST_PIN_TEXT_COLOR_BREAKING,
   DEST_PIN_TEXT_COLOR_BREAKING_DONE,
@@ -30,6 +28,8 @@ import {
   rowNumber,
   rowString,
 } from "akasha/temper/navigation-addon/modules/destinations-pins-stores/destinations-pins-stores.module.code.ts"
+import { DRTV } from "akasha/temper/navigation-addon/modules/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
+import { getSavedVariables } from "akasha/temper/navigation-addon/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 
 export function otherpinTypeCallback(this: void): undefined {
   if (GetMapType() >= MAPTYPE_WORLD) return

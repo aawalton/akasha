@@ -1,8 +1,3 @@
-import { DRTV } from "akasha/temper/navigation-addon/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
-import {
-  getCharacterSavedVariables,
-  getSavedVariables,
-} from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 import {
   createCompassPairPin,
   pairEnabled,
@@ -22,6 +17,11 @@ import {
   rowNumber,
   rowString,
 } from "akasha/temper/navigation-addon/modules/destinations-pins-stores/destinations-pins-stores.module.code.ts"
+import { DRTV } from "akasha/temper/navigation-addon/modules/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
+import {
+  getCharacterSavedVariables,
+  getSavedVariables,
+} from "akasha/temper/navigation-addon/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 
 export function addAchievementCompassPins(this: void): undefined {
   if (GetMapType() >= MAPTYPE_WORLD) return

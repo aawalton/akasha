@@ -1,8 +1,4 @@
 import {
-  getCharacterSavedVariables,
-  getSavedVariables,
-} from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
-import {
   choiceAt,
   colorDefaultRgb,
   isFilterEnabled,
@@ -20,6 +16,10 @@ import { PIN_TEXTURE_LISTS } from "akasha/temper/navigation-addon/modules/destin
 import { PIN_TYPES } from "akasha/temper/navigation-addon/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 import { onPoiUpdated } from "akasha/temper/navigation-addon/modules/destinations-pins-events/destinations-pins-events.module.code.ts"
 import { togglePins } from "akasha/temper/navigation-addon/modules/destinations-pins-filters/destinations-pins-filters.module.code.ts"
+import {
+  getCharacterSavedVariables,
+  getSavedVariables,
+} from "akasha/temper/navigation-addon/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 
 function unknownColored(stringKey: string): string {
   return DEFAULTS.miscColorCodes.settingsTextUnknown.Colorize(getSettingsString(stringKey))
