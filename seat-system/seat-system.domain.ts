@@ -161,6 +161,7 @@ export const seatSystem = {
     "domain/self-healing",
     "domain/oauth-proxy",
     "domain/seat-credential",
+    "domain/pty",
   ],
   invariants: [
     {
