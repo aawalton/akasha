@@ -1,5 +1,5 @@
 import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
-import { LayoutLink } from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
+import { LayoutLink } from "akasha/design/interfaces/layout/modules/router-context/router-context.module.code.tsx"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"

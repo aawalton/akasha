@@ -27,7 +27,7 @@ import {
   ensureOutputDir,
   resolveOutputPath,
 } from "akasha/infrastructure/inference/clients/modules/inference-output-path/inference-output-path.module.code.ts"
-import { isRiff } from "akasha/infrastructure/inference/clients/riff-bytes/riff-bytes.module.code.ts"
+import { isRiff } from "akasha/infrastructure/inference/clients/modules/riff-bytes/riff-bytes.module.code.ts"
 import {
   buildSpeechRequestBody,
   copPriorityHeaders,

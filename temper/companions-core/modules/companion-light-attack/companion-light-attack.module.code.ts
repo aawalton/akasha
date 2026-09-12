@@ -1,11 +1,11 @@
 import type {
   LightAttackHealBuff,
   RotationState,
-} from "akasha/temper/companions-core/rotation-types/rotation-types.module.code.ts"
+} from "akasha/temper/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 import {
   COMPANION_LIGHT_ATTACK_GCD,
   ULTIMATE_GENERATION_WINDOW_DURATION,
-} from "akasha/temper/companions-core/rotation-types/rotation-types.module.code.ts"
+} from "akasha/temper/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 
 export function calculateLightAttackDamage(
   weaponPower: number,

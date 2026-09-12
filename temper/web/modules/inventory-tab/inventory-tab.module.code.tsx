@@ -1,7 +1,7 @@
 "use client"
 
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
-import { LayoutLink } from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
+import { LayoutLink } from "akasha/design/interfaces/layout/modules/router-context/router-context.module.code.tsx"
 import {
   Empty,
   EmptyDescription,

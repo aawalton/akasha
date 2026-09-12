@@ -1,6 +1,6 @@
 "use client"
 
-import { flattenRow } from "akasha/pages/access/routing-core/routing-core.module.code.ts"
+import { flattenRow } from "akasha/pages/access/modules/routing-core/routing-core.module.code.ts"
 import { NEVER_MATCH_VALUE } from "akasha/pages/access/sentinels/sentinels.module.code.ts"
 import type { PageWhere } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 import { readTargetPageTypeId } from "akasha/pages/core/property-types/modules/relation/relation.module.code.ts"

@@ -1,7 +1,7 @@
 import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import { PROPERTY_TYPE_OPS_REGISTRY } from "akasha/pages/core/property-types/modules/registry/registry.module.code.ts"
 import { resolveComputedProperty } from "akasha/pages/core/property-types/modules/resolve-computed-type/resolve-computed-type.module.code.ts"
-import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
+import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/modules/rollup/rollup.module.code.ts"
 import type { FilterableRow } from "akasha/pages/core/view/modules/apply-filters/apply-filters.module.code.ts"
 import type { PageResolver } from "akasha/pages/core/view/modules/apply-grouping-shared/apply-grouping-shared.module.code.ts"
 

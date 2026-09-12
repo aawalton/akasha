@@ -1,4 +1,4 @@
-import { PROMOTED_COLUMN_KEYS } from "akasha/pages/access/routing-core/routing-core.module.code.ts"
+import { PROMOTED_COLUMN_KEYS } from "akasha/pages/access/modules/routing-core/routing-core.module.code.ts"
 import type { PageRow } from "akasha/pages/ui-store/collection/modules/page-row/page-row.module.code.ts"
 import { stringAt } from "akasha/utils/narrow/string-at/string-at.module.code.ts"
 

@@ -9,13 +9,13 @@ import {
   type EditorOp,
   newBlockId,
   textOf,
-} from "akasha/pages/core/property-types/rich-document-ops/rich-document-ops.module.code.ts"
+} from "akasha/pages/core/property-types/modules/rich-document-ops/rich-document-ops.module.code.ts"
 import {
   findBlock,
   findBlockPath,
   flattenBlockIds,
   getBlockAtPath,
-} from "akasha/pages/core/property-types/rich-document-tree/rich-document-tree.module.code.ts"
+} from "akasha/pages/core/property-types/modules/rich-document-tree/rich-document-tree.module.code.ts"
 import { planEnterSplit } from "akasha/pages/ui/block-editor/modules/block-type-helpers/block-type-helpers.module.code.ts"
 import type { SlashChoice } from "akasha/pages/ui/block-editor/slash-menu/slash-menu.module.code.tsx"
 import { type RefObject, useCallback, useState } from "react"

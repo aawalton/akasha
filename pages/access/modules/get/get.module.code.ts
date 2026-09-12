@@ -8,7 +8,7 @@ import {
   pickOne,
 } from "akasha/pages/access/modules/file-read/file-read.module.code.ts"
 import { fileShapeOf } from "akasha/pages/access/modules/file-shape/file-shape.module.code.ts"
-import { applySelect } from "akasha/pages/access/routing-core/routing-core.module.code.ts"
+import { applySelect } from "akasha/pages/access/modules/routing-core/routing-core.module.code.ts"
 import type {
   PageCursor,
   PageOrder,

@@ -16,7 +16,7 @@ import { PullToRefresh } from "akasha/alan/web/modules/pull-to-refresh/pull-to-r
 import {
   LayoutRouterAdapter,
   PagesUIRouterAdapter,
-} from "akasha/code/router-apps/router-context-adapters/router-context-adapters.module.code.tsx"
+} from "akasha/code/router-apps/modules/router-context-adapters/router-context-adapters.module.code.tsx"
 import { AppShell as SharedAppShell } from "akasha/design/interfaces/layout/modules/app-shell/app-shell.module.code.tsx"
 import type { AppNavConfig } from "akasha/design/interfaces/layout/modules/nav-types/nav-types.module.code.ts"
 import { useSidebarState } from "akasha/design/interfaces/layout/use-sidebar-state/use-sidebar-state.module.code.ts"

@@ -15,7 +15,7 @@ import {
 import {
   isPromotedKey,
   PROMOTED_COLUMN,
-} from "akasha/pages/access/routing-core/routing-core.module.code.ts"
+} from "akasha/pages/access/modules/routing-core/routing-core.module.code.ts"
 import type { PageConditionLike } from "akasha/pages/ui-store/sql/modules/options/options.module.code.ts"
 import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
 

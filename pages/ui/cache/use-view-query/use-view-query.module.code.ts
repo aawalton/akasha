@@ -1,6 +1,6 @@
 "use client"
 
-import { flattenRow } from "akasha/pages/access/routing-core/routing-core.module.code.ts"
+import { flattenRow } from "akasha/pages/access/modules/routing-core/routing-core.module.code.ts"
 import type { Page } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 import {
   useAcquireFilteredStream,

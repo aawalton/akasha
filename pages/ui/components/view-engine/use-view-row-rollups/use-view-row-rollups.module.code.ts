@@ -5,7 +5,7 @@ import type { PropertyValue } from "akasha/pages/core/property-types/modules/pro
 import {
   computeFillRollupsForPage,
   type PageTypePropertiesMap,
-} from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
+} from "akasha/pages/core/property-types/modules/rollup/rollup.module.code.ts"
 import {
   toAggregateInputs,
   toPageDataJSON,

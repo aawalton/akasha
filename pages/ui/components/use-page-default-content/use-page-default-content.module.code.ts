@@ -4,7 +4,7 @@ import { patchPropertyDefinitionById } from "akasha/pages/access/modules/propert
 import type { IconName } from "akasha/pages/core/generated/modules/icon-search-index/icon-search-index.module.code.ts"
 import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import { computeAggregatesForPage } from "akasha/pages/core/property-types/modules/aggregate/aggregate.module.code.ts"
-import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
+import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/modules/rollup/rollup.module.code.ts"
 import { parsePageTypeData } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import { resolveDefinitionOptions } from "akasha/pages/core/schema/modules/resolve-select-options/resolve-select-options.module.code.ts"
 import { createOptionOnDefinition } from "akasha/pages/ui/components/modules/create-option/create-option.module.code.ts"

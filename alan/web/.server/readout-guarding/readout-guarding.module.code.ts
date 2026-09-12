@@ -7,7 +7,7 @@ import {
   resolveDeviceSecretContext,
 } from "akasha/alan/web/.server/device-secret-context/device-secret-context.module.code.ts"
 import { holdsRouteAccess } from "akasha/alan/web/.server/route-access-holding/route-access-holding.module.code.ts"
-import { ROUTE_TARGETS } from "akasha/persons/route-access/route-access.module.code.ts"
+import { ROUTE_TARGETS } from "akasha/persons/modules/route-access/route-access.module.code.ts"
 
 export type DeviceSecretResolver = (request: Request) => Promise<DeviceSecretContext>
 

@@ -1,6 +1,6 @@
 "use client"
 
-import { useLayoutPathname } from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
+import { useLayoutPathname } from "akasha/design/interfaces/layout/modules/router-context/router-context.module.code.tsx"
 import {
   buildValuesFromFields,
   type FilterField,

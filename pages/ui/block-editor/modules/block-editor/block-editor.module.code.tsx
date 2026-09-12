@@ -9,7 +9,7 @@ import {
   applyEditorOp,
   type EditorOp,
   normalizeRichDocument,
-} from "akasha/pages/core/property-types/rich-document-ops/rich-document-ops.module.code.ts"
+} from "akasha/pages/core/property-types/modules/rich-document-ops/rich-document-ops.module.code.ts"
 import { BlockAccessoryBar } from "akasha/pages/ui/block-editor/modules/block-accessory-bar/block-accessory-bar.module.code.tsx"
 import { BlockRow } from "akasha/pages/ui/block-editor/modules/block-row/block-row.module.code.tsx"
 import { BlockTree } from "akasha/pages/ui/block-editor/modules/block-tree/block-tree.module.code.tsx"

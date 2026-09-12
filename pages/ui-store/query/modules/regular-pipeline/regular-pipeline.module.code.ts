@@ -2,7 +2,7 @@ import { and, type Collection, createLiveQueryCollection } from "@tanstack/db"
 import {
   isPromotedKey,
   PROMOTED_COLUMN,
-} from "akasha/pages/access/routing-core/routing-core.module.code.ts"
+} from "akasha/pages/access/modules/routing-core/routing-core.module.code.ts"
 import type { PageOrder } from "akasha/pages/access/types/types.module.code.ts"
 import { nullOrderSign } from "akasha/pages/core/modules/null-ordering/null-ordering.module.code.ts"
 import {

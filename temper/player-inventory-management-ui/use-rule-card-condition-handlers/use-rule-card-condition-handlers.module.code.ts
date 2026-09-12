@@ -10,7 +10,7 @@ import type {
   RequiredSkillLinesCondition,
   RequiredSkillLinesMode,
 } from "akasha/temper/items-rules-core/modules/required-skill-lines-filter-types/required-skill-lines-filter-types.module.code.ts"
-import { patchConditions } from "akasha/temper/player-inventory-management-ui/rule-card-conditions-patch/rule-card-conditions-patch.module.code.ts"
+import { patchConditions } from "akasha/temper/player-inventory-management-ui/modules/rule-card-conditions-patch/rule-card-conditions-patch.module.code.ts"
 
 export function useConditionHandlers(
   ruleId: string,

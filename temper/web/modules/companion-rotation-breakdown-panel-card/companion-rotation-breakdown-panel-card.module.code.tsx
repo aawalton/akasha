@@ -9,7 +9,7 @@ import type { CompanionMetricValue } from "akasha/temper/companions-core/modules
 import type { CompanionFormulaStats } from "akasha/temper/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
 import type { CompanionSkillSlotId } from "akasha/temper/companions-core/modules/companion-skill-slots/companion-skill-slots.module.code.ts"
 import type { CompanionSkillId } from "akasha/temper/companions-core/modules/companion-skills/companion-skills.module.code.ts"
-import type { RotationResult } from "akasha/temper/companions-core/rotation-types/rotation-types.module.code.ts"
+import type { RotationResult } from "akasha/temper/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 import { SkillBreakdownTable } from "akasha/temper/web/modules/companion-rotation-breakdown-table/companion-rotation-breakdown-table.module.code.tsx"
 import { getPrimaryRows } from "akasha/temper/web/modules/companion-rotation-breakdown-types/companion-rotation-breakdown-types.module.code.ts"
 import { deriveCompanionRotationOutcome } from "akasha/temper/web/modules/companion-rotation-outcome/companion-rotation-outcome.module.code.ts"

@@ -1,6 +1,6 @@
 "use client"
 
-import { groupByCount } from "akasha/temper/build-support/row-grouping/row-grouping.module.code.ts"
+import { groupByCount } from "akasha/temper/build-support/modules/row-grouping/row-grouping.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import {
   bulkUpdateAllQuality,

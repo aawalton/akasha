@@ -4,11 +4,11 @@ import type {
   HealthSamples,
   RotationState,
   SkillState,
-} from "akasha/temper/companions-core/rotation-types/rotation-types.module.code.ts"
+} from "akasha/temper/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 import {
   COMPANION_GCD_DURATION,
   ULTIMATE_GENERATION_WINDOW_DURATION,
-} from "akasha/temper/companions-core/rotation-types/rotation-types.module.code.ts"
+} from "akasha/temper/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 
 function isSkillAvailable(state: RotationState, skillState: SkillState): boolean {
   if (state.currentTime < state.castEndsAt) {

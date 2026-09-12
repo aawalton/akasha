@@ -3,7 +3,7 @@ import {
   IDLE_PERSONA_CARD_PAGE_TYPE_SLUG,
   ROSTER_GALLERY_CAPABILITY,
 } from "akasha/alan/web/modules/idle-card-page-type/idle-card-page-type.module.code.ts"
-import { openRosterGallery } from "akasha/alan/web/roster-gallery-store/roster-gallery-store.module.code.ts"
+import { openRosterGallery } from "akasha/alan/web/modules/roster-gallery-store/roster-gallery-store.module.code.ts"
 import {
   type CoverClickContext,
   registerCoverClickHandler,

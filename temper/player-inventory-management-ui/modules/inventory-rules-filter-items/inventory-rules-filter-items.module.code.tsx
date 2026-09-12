@@ -13,7 +13,7 @@ import {
   type RuleFilterDef,
   type RuleFilterPopoverProps,
 } from "akasha/temper/player-inventory-management-ui/modules/inventory-filter-types/inventory-filter-types.module.code.ts"
-import { RuleActionFilterSelect } from "akasha/temper/player-inventory-management-ui/rule-action-filter-select/rule-action-filter-select.module.code.tsx"
+import { RuleActionFilterSelect } from "akasha/temper/player-inventory-management-ui/modules/rule-action-filter-select/rule-action-filter-select.module.code.tsx"
 import { RuleCategoryFilterSelect } from "akasha/temper/player-inventory-management-ui/rule-category-filter-select/rule-category-filter-select.module.code.tsx"
 import { RuleLocationFilterSelect } from "akasha/temper/player-inventory-management-ui/rule-location-filter-select/rule-location-filter-select.module.code.tsx"
 

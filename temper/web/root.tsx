@@ -13,7 +13,7 @@ import { fontPreloading } from "akasha/code/router-apps/modules/font-preload/fon
 import {
   LayoutRouterAdapter,
   PagesUIRouterAdapter,
-} from "akasha/code/router-apps/router-context-adapters/router-context-adapters.module.code.tsx"
+} from "akasha/code/router-apps/modules/router-context-adapters/router-context-adapters.module.code.tsx"
 import {
   Empty,
   EmptyContent,

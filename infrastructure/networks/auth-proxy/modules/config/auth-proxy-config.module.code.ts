@@ -1,7 +1,7 @@
 import {
   parseRouteMap,
   type RouteTarget,
-} from "akasha/infrastructure/networks/auth-proxy/route-map-core/route-map-core.module.code.ts"
+} from "akasha/infrastructure/networks/auth-proxy/modules/route-map-core/route-map-core.module.code.ts"
 import { requireEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 import { z } from "zod"
 

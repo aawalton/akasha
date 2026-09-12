@@ -1,7 +1,7 @@
 import {
   type RollRecordHashable,
   RollRecordSchema,
-} from "akasha/story/engine/core/roll-schema/roll-schema.module.code.ts"
+} from "akasha/story/engine/core/modules/roll-schema/roll-schema.module.code.ts"
 import { RulebookSchema } from "akasha/story/engine/core/rulebook-schema/rulebook-schema.module.code.ts"
 import { z } from "zod"
 

@@ -2,7 +2,7 @@
 
 import { ListContentSkeleton } from "akasha/design/interfaces/layout/modules/list-content-skeleton/list-content-skeleton.module.code.tsx"
 import { PageTabHeader } from "akasha/design/interfaces/layout/modules/page-tab-header/page-tab-header.module.code.tsx"
-import { LayoutLink } from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
+import { LayoutLink } from "akasha/design/interfaces/layout/modules/router-context/router-context.module.code.tsx"
 import {
   Empty,
   EmptyContent,

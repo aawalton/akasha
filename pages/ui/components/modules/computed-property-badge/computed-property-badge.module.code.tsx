@@ -6,7 +6,7 @@ import { resolveComputedProperty } from "akasha/pages/core/property-types/module
 import {
   type PageTypePropertiesMap,
   parseRollupConfig,
-} from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
+} from "akasha/pages/core/property-types/modules/rollup/rollup.module.code.ts"
 import type { PropertyBadgeProps } from "akasha/pages/ui/components/modules/property-badge/property-badge.module.code.tsx"
 import type * as React from "react"
 

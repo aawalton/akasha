@@ -7,7 +7,7 @@ import {
   type PageTypePropertiesMap,
   parseRollupConfig,
   type RollupConfig,
-} from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
+} from "akasha/pages/core/property-types/modules/rollup/rollup.module.code.ts"
 import {
   aggregateConfigSchema,
   formulaConfigSchema,

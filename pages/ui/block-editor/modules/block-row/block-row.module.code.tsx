@@ -8,7 +8,7 @@ import type { Block } from "akasha/pages/core/property-types/modules/rich-docume
 import type {
   HeadingLevel,
   V1BlockType,
-} from "akasha/pages/core/property-types/rich-document-ops/rich-document-ops.module.code.ts"
+} from "akasha/pages/core/property-types/modules/rich-document-ops/rich-document-ops.module.code.ts"
 import { useCoarsePointer } from "akasha/pages/ui/block-editor/use-coarse-pointer/use-coarse-pointer.module.code.ts"
 import { useTextareaInput } from "akasha/pages/ui/block-editor/use-textarea-input/use-textarea-input.module.code.ts"
 

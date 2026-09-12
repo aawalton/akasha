@@ -5,16 +5,19 @@ const HANDED: (readonly string[])[] = []
 let CODE = 0
 
 const syncing = await import(
-  "akasha/alan/collections/royal-road/syncing/royal-road-syncing.module.code.ts"
+  "akasha/alan/collections/royal-road/modules/syncing/royal-road-syncing.module.code.ts"
 )
 
-mock.module("akasha/alan/collections/royal-road/syncing/royal-road-syncing.module.code.ts", () => ({
-  ...syncing,
-  main: (argv: readonly string[]) => {
-    HANDED.push(argv)
-    return Promise.resolve(CODE)
-  },
-}))
+mock.module(
+  "akasha/alan/collections/royal-road/modules/syncing/royal-road-syncing.module.code.ts",
+  () => ({
+    ...syncing,
+    main: (argv: readonly string[]) => {
+      HANDED.push(argv)
+      return Promise.resolve(CODE)
+    },
+  })
+)
 
 const running = await import(
   "akasha/infrastructure/services/workstations/pages/royal-road-sync.service-workstation.running.code.ts"

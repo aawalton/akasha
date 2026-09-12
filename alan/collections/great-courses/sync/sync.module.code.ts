@@ -12,7 +12,7 @@ import {
 import {
   shouldRunGreatCoursesSync,
   updateRootParentLastSyncedAt,
-} from "akasha/alan/collections/great-courses/root-parent-query/root-parent-query.module.code.ts"
+} from "akasha/alan/collections/great-courses/modules/root-parent-query/root-parent-query.module.code.ts"
 import { findSubjectCollections } from "akasha/alan/collections/great-courses/subject-collections-query/subject-collections-query.module.code.ts"
 import {
   classifyError,

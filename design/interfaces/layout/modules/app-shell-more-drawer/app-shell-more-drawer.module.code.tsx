@@ -9,7 +9,7 @@ import type {
 import {
   LayoutLink,
   useLayoutPathname,
-} from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
+} from "akasha/design/interfaces/layout/modules/router-context/router-context.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import {
   Drawer,

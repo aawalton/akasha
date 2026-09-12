@@ -37,7 +37,7 @@ import { CompanionTargetSelect } from "akasha/temper/player-inventory-management
 import { DestinationCascade } from "akasha/temper/player-inventory-management-ui/modules/destination-cascade/destination-cascade.module.code.tsx"
 import { itemRuleActionHandlers } from "akasha/temper/player-inventory-management-ui/modules/item-rule-card-action-handlers/item-rule-card-action-handlers.module.code.ts"
 import { ItemRuleCardDialogs } from "akasha/temper/player-inventory-management-ui/modules/item-rule-card-dialogs/item-rule-card-dialogs.module.code.tsx"
-import { RuleCardDestinationChain } from "akasha/temper/player-inventory-management-ui/rule-card-destination-chain/rule-card-destination-chain.module.code.tsx"
+import { RuleCardDestinationChain } from "akasha/temper/player-inventory-management-ui/modules/rule-card-destination-chain/rule-card-destination-chain.module.code.tsx"
 import { StockScopeSelect } from "akasha/temper/player-inventory-management-ui/stock-scope-select/stock-scope-select.module.code.tsx"
 import type { DestinationOptions } from "akasha/temper/player-inventory-management-ui/use-destination-options/use-destination-options.module.code.ts"
 import { EllipsisVertical, Info } from "lucide-react"

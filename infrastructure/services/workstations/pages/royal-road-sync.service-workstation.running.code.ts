@@ -1,4 +1,4 @@
-import { main as runRoyalRoadSyncing } from "akasha/alan/collections/royal-road/syncing/royal-road-syncing.module.code.ts"
+import { main as runRoyalRoadSyncing } from "akasha/alan/collections/royal-road/modules/syncing/royal-road-syncing.module.code.ts"
 
 const COMMIT = "--commit"
 

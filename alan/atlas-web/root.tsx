@@ -3,7 +3,7 @@ import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/modules
 import { reportError } from "akasha/alan/harness/errors-client/modules/error-reporting/error-reporting.module.code.ts"
 import { useReportRenderError } from "akasha/alan/harness/errors-client/use-report-render-error/use-report-render-error.module.code.ts"
 import type { AuthRouteConfig } from "akasha/alan/harness/supabase-rr/modules/auth-guard/auth-guard.module.code.ts"
-import { guardedRootData } from "akasha/alan/harness/supabase-rr/root-loader/root-loader.module.code.ts"
+import { guardedRootData } from "akasha/alan/harness/supabase-rr/modules/root-loader/root-loader.module.code.ts"
 import { CommandPalette } from "akasha/design/interfaces/primitives/modules/command-palette/command-palette.module.code.tsx"
 import { ShortcutSheet } from "akasha/design/interfaces/primitives/shortcut-sheet/shortcut-sheet.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"

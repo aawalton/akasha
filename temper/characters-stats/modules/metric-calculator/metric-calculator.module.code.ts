@@ -1,4 +1,4 @@
-import { indexBy } from "akasha/temper/build-support/row-grouping/row-grouping.module.code.ts"
+import { indexBy } from "akasha/temper/build-support/modules/row-grouping/row-grouping.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import { base } from "akasha/temper/character-sources/modules/base-source/base-source.module.code.ts"
 import { calculateBuffs } from "akasha/temper/characters-stats/modules/buff-or-debuff-calculator/buff-or-debuff-calculator.module.code.ts"

@@ -8,7 +8,7 @@ import type { Block } from "akasha/pages/core/property-types/modules/rich-docume
 import {
   textOf,
   type V1BlockType,
-} from "akasha/pages/core/property-types/rich-document-ops/rich-document-ops.module.code.ts"
+} from "akasha/pages/core/property-types/modules/rich-document-ops/rich-document-ops.module.code.ts"
 
 function continuationType(type: string): V1BlockType {
   switch (type) {

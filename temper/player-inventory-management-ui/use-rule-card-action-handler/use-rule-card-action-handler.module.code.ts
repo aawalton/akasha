@@ -7,7 +7,7 @@ import {
   ACTION_OPTIONS,
   SELL_ACTIONS,
 } from "akasha/temper/player-inventory-management-ui/modules/action-options/action-options.module.code.ts"
-import { patchConditions } from "akasha/temper/player-inventory-management-ui/rule-card-conditions-patch/rule-card-conditions-patch.module.code.ts"
+import { patchConditions } from "akasha/temper/player-inventory-management-ui/modules/rule-card-conditions-patch/rule-card-conditions-patch.module.code.ts"
 import type { RuleCardOnUpdate } from "akasha/temper/player-inventory-management-ui/use-rule-card/use-rule-card.module.code.ts"
 import type React from "react"
 

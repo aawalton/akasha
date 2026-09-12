@@ -1,7 +1,7 @@
 "use client"
 
 import { PanelCard } from "akasha/design/interfaces/layout/modules/panel-card/panel-card.module.code.tsx"
-import { groupByCount } from "akasha/temper/build-support/row-grouping/row-grouping.module.code.ts"
+import { groupByCount } from "akasha/temper/build-support/modules/row-grouping/row-grouping.module.code.ts"
 import {
   type ArmorEnchantId,
   armorEnchants,

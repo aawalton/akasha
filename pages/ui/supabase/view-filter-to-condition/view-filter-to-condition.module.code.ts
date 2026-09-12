@@ -2,7 +2,7 @@ import { filterToCondition } from "akasha/pages/core/filter/modules/filter-to-co
 import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import type { PageCondition } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 import { resolveComputedProperty } from "akasha/pages/core/property-types/modules/resolve-computed-type/resolve-computed-type.module.code.ts"
-import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
+import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/modules/rollup/rollup.module.code.ts"
 
 function unwrapRollupDefinition(
   definition: PropertyDefinition | undefined,

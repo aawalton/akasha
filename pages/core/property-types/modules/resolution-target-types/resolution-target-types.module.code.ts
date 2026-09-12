@@ -5,7 +5,7 @@ import {
 import {
   type PageTypePropertiesMap,
   parseRollupConfig,
-} from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
+} from "akasha/pages/core/property-types/modules/rollup/rollup.module.code.ts"
 
 const MAX_DEPTH = 10
 

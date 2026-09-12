@@ -3,7 +3,7 @@ import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/modules
 import { reportError } from "akasha/alan/harness/errors-client/modules/error-reporting/error-reporting.module.code.ts"
 import { useReportRenderError } from "akasha/alan/harness/errors-client/use-report-render-error/use-report-render-error.module.code.ts"
 import type { AuthRouteConfig } from "akasha/alan/harness/supabase-rr/modules/auth-guard/auth-guard.module.code.ts"
-import { guardedRootData } from "akasha/alan/harness/supabase-rr/root-loader/root-loader.module.code.ts"
+import { guardedRootData } from "akasha/alan/harness/supabase-rr/modules/root-loader/root-loader.module.code.ts"
 import { isNativeShell } from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
 import { createNativeFsContentPersistence } from "akasha/alan/web/modules/content-pages-fs/content-pages-fs.module.code.ts"
 import { readLocalPosition } from "akasha/alan/web/modules/offline-text/offline-text.module.code.ts"

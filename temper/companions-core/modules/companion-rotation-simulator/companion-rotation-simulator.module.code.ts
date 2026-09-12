@@ -20,12 +20,12 @@ import type {
   HealthSamples,
   RotationConfig,
   RotationResult,
-} from "akasha/temper/companions-core/rotation-types/rotation-types.module.code.ts"
+} from "akasha/temper/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 import {
   DEFAULT_ROTATION_CONFIG,
   SIMULATION_TICK_INTERVAL,
   ULTIMATE_GENERATION_RATE,
-} from "akasha/temper/companions-core/rotation-types/rotation-types.module.code.ts"
+} from "akasha/temper/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 import { convertRatingToChance } from "akasha/temper/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
 import { requireGet } from "akasha/utils/narrow/modules/require-get/require-get.module.code.ts"
 

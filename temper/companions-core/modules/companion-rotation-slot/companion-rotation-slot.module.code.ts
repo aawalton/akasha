@@ -11,7 +11,7 @@ import {
   type CompanionSkillId,
   companionSkills,
 } from "akasha/temper/companions-core/modules/companion-skills/companion-skills.module.code.ts"
-import type { SkillUsageSummary } from "akasha/temper/companions-core/rotation-types/rotation-types.module.code.ts"
+import type { SkillUsageSummary } from "akasha/temper/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 
 export interface SkillSlotData {
   slotId: CompanionSkillSlotId

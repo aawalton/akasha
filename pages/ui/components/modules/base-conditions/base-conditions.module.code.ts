@@ -3,7 +3,7 @@ import type {
   PageCondition,
   PageWhere,
 } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
-import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
+import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/modules/rollup/rollup.module.code.ts"
 import type { ViewFilter } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import { viewFilterToCondition } from "akasha/pages/ui/supabase/view-filter-to-condition/view-filter-to-condition.module.code.ts"
 
