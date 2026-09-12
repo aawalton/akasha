@@ -22,7 +22,7 @@ export const athenaCommandArguments = {
       statement:
         "One reader reads every command's arguments from the pages, refusing what no page names.",
       workingMemory:
-        "`takenFor` at `argument-taking.module.code.ts:279` is the one reader, and the command reaches it rather than `calling`. The 225-times cost never existed: one process runs one command. `calling` resolves argument pages only to write help, behind the `--help` gate at `calling.module.code.ts:276`. Deciding it: a command page names an argument by slug, and only an import carries a slug to that page's type, so `calling` could only hand down `Record<string, Value>`. A check closes this.\n",
+        "`takenFor` at `argument-taking.module.code.ts:279` is the one reader. The check is `code-check/command-takes-its-arguments-through-one-reader`, landed at `43dbf523a33e` with `experimental: true`, so it binds nobody yet. It refuses a command file reading its own first parameter, following calls within that file and passing over words handed to an import. It refused 57 of 236 files at 04:22. `experimental` comes off once that is zero; Alan approves a check before it binds.\n",
     },
     {
       statement:
