@@ -7,7 +7,7 @@ export const inferenceWan = {
   definition: "Wan video clips and the frames taken out of them",
   parts: [
     "command/inference-wan-extend",
-    "command/inference-wan-frames",
+    "command/inference-wan-frame",
     "command/inference-wan-generate",
     "command/inference-wan-score",
     "module/flag-arguing",

@@ -3,7 +3,7 @@ import type { Given } from "akasha/commands/modules/calling/calling.module.code.
 import {
   inferenceWanFrames,
   readFrames,
-} from "akasha/commands/pages/inference/wan/frames/inference-wan-frames.command.code.ts"
+} from "akasha/commands/pages/inference/wan/frame/inference-wan-frame.command.code.ts"
 import { at } from "akasha/commands/pages/inference/wan/wan-arguing/wan-arguing.module.code.ts"
 
 function given(root: string): Given {

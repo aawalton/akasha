@@ -1,9 +1,9 @@
 import type { Command } from "akasha/commands/command.page-type.types.ts"
 
-export const inferenceWanFrames = {
+export const inferenceWanFrame = {
   id: "01a093fb-2ee0-78a1-878b-af3bc16c19c1",
   type: "command",
-  slug: "inference-wan-frames",
+  slug: "inference-wan-frame",
   definition: "the command writing a clip's frames out as numbered PNGs",
   code: "ts",
   test: "ts",
@@ -41,5 +41,5 @@ export const inferenceWanFrames = {
       statement: "Nothing here reaches the GPU.",
     },
   ],
-  name: "frames",
+  name: "frame",
 } as const satisfies Command
