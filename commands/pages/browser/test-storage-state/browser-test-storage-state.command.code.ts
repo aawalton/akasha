@@ -21,9 +21,9 @@ const URL_SAID = "--url"
 
 const SIGN_IN_PATH = "--sign-in-path"
 
-const AT = "--at"
+const OUTPUT = "--output"
 
-const VALUED: readonly string[] = [URL_SAID, SIGN_IN_PATH, AT]
+const VALUED: readonly string[] = [URL_SAID, SIGN_IN_PATH, OUTPUT]
 
 const NO_SWITCH: readonly string[] = []
 
@@ -42,7 +42,7 @@ export function healable(
 export type StorageStateAsked = {
   readonly url?: string | undefined
   readonly signInPath?: string | undefined
-  readonly at?: string | undefined
+  readonly output?: string | undefined
 }
 
 export async function exportBrowserTestStorageState(
@@ -58,7 +58,7 @@ export async function exportBrowserTestStorageState(
   const env = read.env
   const url = (asked.url ?? env.url).replace(/\/+$/, "")
   const signInPath = asked.signInPath ?? DEFAULT_SIGN_IN
-  const at = asked.at ?? playwrightStorageStatePath()
+  const output = asked.output ?? playwrightStorageStatePath()
 
   const report: string[] = []
   const client = createClient(env.supabaseUrl, env.supabaseAnonKey)
@@ -89,10 +89,10 @@ export async function exportBrowserTestStorageState(
     signInPath
   )
   try {
-    mkdirSync(dirname(at), { recursive: true })
-    await context.storageState({ path: at })
-    chmodSync(at, OWNER_ONLY)
-    report.push(`signed in at ${page.url()}`, `wrote the storage state to ${at}`)
+    mkdirSync(dirname(output), { recursive: true })
+    await context.storageState({ path: output })
+    chmodSync(output, OWNER_ONLY)
+    report.push(`signed in at ${page.url()}`, `wrote the storage state to ${output}`)
     return report
   } finally {
     await browser.close()
@@ -106,7 +106,7 @@ export async function browserTestStorageState(argv: readonly string[]): Promise<
     const report = await exportBrowserTestStorageState({
       url: said.named[URL_SAID],
       signInPath: said.named[SIGN_IN_PATH],
-      at: said.named[AT],
+      output: said.named[OUTPUT],
     })
     return { report: [...report], refusals: [], code: 0 }
   } catch (thrown) {

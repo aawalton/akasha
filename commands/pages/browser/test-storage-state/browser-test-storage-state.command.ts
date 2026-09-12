@@ -15,7 +15,7 @@ export const browserTestStorageState = {
       takes: "the path the form is at, `/sign-in` where none is said",
     },
     {
-      said: "--at <path>",
+      said: "--output <path>",
       takes: "where the storage state is written, the registry's where none is said",
     },
   ],
