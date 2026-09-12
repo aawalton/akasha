@@ -1,18 +1,8 @@
-const NOTICES_SLUG = "seat-compose-notices"
-
-const NOTICES_EXPORT = "seatComposeNotices"
-
-const RESUME_SLUG = "seat-resume"
-
-const RESUME_EXPORT = "seatResume"
-
-const RESET_SLUG = "seat-reset"
-
-const RESET_EXPORT = "seatReset"
-
-const STOP_SLUG = "seat-supervisor-stop"
-
-const STOP_EXPORT = "seatSupervisorStop"
+import { seatComposeNotices } from "akasha/commands/pages/seat/compose-notices/seat-compose-notices.command.ts"
+import { seatReset } from "akasha/commands/pages/seat/reset/seat-reset.command.ts"
+import { seatResume } from "akasha/commands/pages/seat/resume/seat-resume.command.ts"
+import { seatSupervisorStop } from "akasha/commands/pages/seat/supervisor/stop/seat-supervisor-stop.command.ts"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 
 const FORCED = "--force"
 
@@ -28,24 +18,24 @@ export type SeatCall = {
   readonly args: readonly string[]
 }
 
-export const NOTICES_CALL: SeatCall = {
-  slug: NOTICES_SLUG,
-  exported: NOTICES_EXPORT,
-  args: [],
+export function asking(one: { readonly slug: string }, args: readonly string[]): SeatCall {
+  return { slug: one.slug, exported: exportedAs(one.slug), args }
 }
 
+export const NOTICES_CALL: SeatCall = asking(seatComposeNotices, [])
+
 export function stopCall(name: string): SeatCall {
-  return { slug: STOP_SLUG, exported: STOP_EXPORT, args: [name, FORCED] }
+  return asking(seatSupervisorStop, [name, FORCED])
 }
 
 export function resetCall(name: string): SeatCall {
-  return { slug: RESET_SLUG, exported: RESET_EXPORT, args: [name] }
+  return asking(seatReset, [name])
 }
 
 export function revivingCall(name: string, prompt: string): SeatCall {
-  return { slug: RESUME_SLUG, exported: RESUME_EXPORT, args: [name, PROMPTED, prompt] }
+  return asking(seatResume, [name, PROMPTED, prompt])
 }
 
 export function interactiveCall(name: string): SeatCall {
-  return { slug: RESUME_SLUG, exported: RESUME_EXPORT, args: [name, STARTED, INTERACTIVE] }
+  return asking(seatResume, [name, STARTED, INTERACTIVE])
 }

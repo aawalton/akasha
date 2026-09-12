@@ -10,7 +10,15 @@ export const seatCalls = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A call names the command by the slug of its page and the export beside it.",
+      statement: "A call names the command by reading the slug off that command's own page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The export a call names is worked out from that slug rather than spelled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A command renamed on its page is renamed here with no edit.",
     },
     {
       invariantKind: "departure",
