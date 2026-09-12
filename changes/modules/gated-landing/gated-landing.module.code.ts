@@ -1,5 +1,6 @@
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { landedMechanically } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { resolveRoots, rootFor } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 
 export type GatedRepo = "akasha"
@@ -28,11 +29,24 @@ function rootOf(act: GatedAct): string {
   return act.root ?? rootFor(resolveRoots(), act.repo)
 }
 
+function alsoLanded(done: readonly string[]): string {
+  if (done.length === 0) return ""
+  return `\n${done.join(", ")} landed before it stopped, so read that commit rather than landing these bodies again`
+}
+
 async function landing(act: GatedAct, asked: readonly Asking[]): Promise<Landed> {
   if (asked.length === 0) return { ok: true, sha: null, unpushed: null }
-  const said = await runMechanicalChange(rootOf(act), asked, act.message)
+  const done: string[] = []
+  let said: Awaited<ReturnType<typeof landedMechanically>>
+  try {
+    said = await landedMechanically(done, rootOf(act), asked, act.message)
+  } catch (thrown) {
+    return { ok: false, why: `${whyOf(thrown)}${alsoLanded(done)}` }
+  }
   if ("refusals" in said) return { ok: false, why: said.refusals.join("\n") }
-  if (said.wrong.length > 0) return { ok: false, why: said.wrong.join("\n") }
+  if (said.wrong.length > 0) {
+    return { ok: false, why: `${said.wrong.join("\n")}${alsoLanded(done)}` }
+  }
   return { ok: true, sha: said.commit, unpushed: null }
 }
 

@@ -34,6 +34,10 @@ export const gatedLanding = {
     },
     {
       invariantKind: "departure",
+      statement: "A landing that stopped after it committed is refused naming that commit.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "The bodies go into the landing in process rather than out to the pages service or a command line.",
     },
