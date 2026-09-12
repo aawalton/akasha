@@ -5,7 +5,7 @@ export const thea = {
   type: "seat",
   slug: "thea",
   persona: "thea",
-  assignmentSlug: "domain/check",
+  assignmentSlug: "initiative/thea-checks-system",
   role: "definer",
   person: "alan",
   startMode: "interactive",
