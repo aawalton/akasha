@@ -12,7 +12,7 @@ import {
   personaDocumentGateLines,
   personaDocumentStandsShell,
   personDocumentStandsShell,
-} from "akasha/seat-system/terminal-shell/document-present/document-present.module.code.ts"
+} from "akasha/shell/terminal/document-present/document-present.module.code.ts"
 import {
   akashaCommand,
   proxy,
@@ -20,9 +20,9 @@ import {
   SEAT_START_DIR,
   seatResume,
   supervisor,
-} from "akasha/seat-system/terminal-shell/terminal-entry-points/terminal-entry-points.module.code.ts"
-import { implName } from "akasha/seat-system/terminal-shell/terminal-reload/terminal-reload.module.code.ts"
-import { SEAT_ATTACH_FN } from "akasha/seat-system/terminal-shell/terminal-seat-marks/terminal-seat-marks.module.code.ts"
+} from "akasha/shell/terminal/terminal-entry-points/terminal-entry-points.module.code.ts"
+import { implName } from "akasha/shell/terminal/terminal-reload/terminal-reload.module.code.ts"
+import { SEAT_ATTACH_FN } from "akasha/shell/terminal/terminal-seat-marks/terminal-seat-marks.module.code.ts"
 import {
   INTERACTIVE_PRINCIPAL,
   payloadEscapeLines,
@@ -30,7 +30,7 @@ import {
   SEAT_COMMAND_REL,
   spelledSeatNameLines,
   stateSeatFromRowLines,
-} from "akasha/seat-system/terminal-shell/terminal-seat-stating/terminal-seat-stating.module.code.ts"
+} from "akasha/shell/terminal/terminal-seat-stating/terminal-seat-stating.module.code.ts"
 
 export const TMUX_LAUNCH_FN = "_akasha_tmux_launch"
 

@@ -15,7 +15,7 @@ import {
   SEAT_START_DIR,
   seatResume,
   supervisor,
-} from "akasha/seat-system/terminal-shell/terminal-entry-points/terminal-entry-points.module.code.ts"
+} from "akasha/shell/terminal/terminal-entry-points/terminal-entry-points.module.code.ts"
 
 const LAUNCHER_PAGE = listedAt(akashaRoot(), "shell-script", "akasha-launcher")[0]?.path ?? ""
 

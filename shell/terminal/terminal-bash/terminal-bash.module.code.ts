@@ -1,31 +1,31 @@
 import {
   claudeNewAccountFn,
   supervisorFn,
-} from "akasha/seat-system/terminal-shell/terminal-account-launchers/terminal-account-launchers.module.code.ts"
+} from "akasha/shell/terminal/terminal-account-launchers/terminal-account-launchers.module.code.ts"
 import {
   terminalEndedFnLines,
   terminalEndedTrapLines,
-} from "akasha/seat-system/terminal-shell/terminal-ended/terminal-ended.module.code.ts"
+} from "akasha/shell/terminal/terminal-ended/terminal-ended.module.code.ts"
 import {
   akashaCommand,
   ROOT_LOCAL,
-} from "akasha/seat-system/terminal-shell/terminal-entry-points/terminal-entry-points.module.code.ts"
+} from "akasha/shell/terminal/terminal-entry-points/terminal-entry-points.module.code.ts"
 import {
   implName,
   launcher,
   reloadFnLines,
-} from "akasha/seat-system/terminal-shell/terminal-reload/terminal-reload.module.code.ts"
+} from "akasha/shell/terminal/terminal-reload/terminal-reload.module.code.ts"
 import {
   seatLiveFnLines,
   seatNewFn,
   seatResumeFn,
   tmuxLaunchFnLines,
-} from "akasha/seat-system/terminal-shell/terminal-seat-launchers/terminal-seat-launchers.module.code.ts"
+} from "akasha/shell/terminal/terminal-seat-launchers/terminal-seat-launchers.module.code.ts"
 import {
   seatAttachFnLines,
   seatMarkFnLines,
   seatReviveMarkLines,
-} from "akasha/seat-system/terminal-shell/terminal-seat-marks/terminal-seat-marks.module.code.ts"
+} from "akasha/shell/terminal/terminal-seat-marks/terminal-seat-marks.module.code.ts"
 
 export type AliasEntry = {
   readonly account: string

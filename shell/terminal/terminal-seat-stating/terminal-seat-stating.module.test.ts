@@ -7,7 +7,7 @@ import {
   SEAT_COMMAND_REL,
   spelledSeatNameLines,
   stateSeatFromRowLines,
-} from "akasha/seat-system/terminal-shell/terminal-seat-stating/terminal-seat-stating.module.code.ts"
+} from "akasha/shell/terminal/terminal-seat-stating/terminal-seat-stating.module.code.ts"
 
 async function parses(text: string): Promise<number> {
   const ran = Bun.spawn({

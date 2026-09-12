@@ -1,4 +1,4 @@
-import { akashaCommand } from "akasha/seat-system/terminal-shell/terminal-entry-points/terminal-entry-points.module.code.ts"
+import { akashaCommand } from "akasha/shell/terminal/terminal-entry-points/terminal-entry-points.module.code.ts"
 
 export const RELOAD_FN = "_akasha_reload"
 

@@ -1,5 +1,5 @@
 import { describe, expect, it } from "bun:test"
-import { parses } from "akasha/seat-system/terminal-shell/terminal-bash/terminal-bash.module.test-fixtures.ts"
+import { parses } from "akasha/shell/terminal/terminal-bash/terminal-bash.module.test-fixtures.ts"
 import {
   MARK_TAIL,
   markIn,
@@ -11,7 +11,7 @@ import {
   seatByShellPid,
   seatMarkFnLines,
   seatReviveMarkLines,
-} from "akasha/seat-system/terminal-shell/terminal-seat-marks/terminal-seat-marks.module.code.ts"
+} from "akasha/shell/terminal/terminal-seat-marks/terminal-seat-marks.module.code.ts"
 
 const SEATS = new Set(["amy", "aranya"])
 

@@ -41,7 +41,7 @@ import {
   marksIn,
   seatByShellPid,
   seatMarksAt,
-} from "akasha/seat-system/terminal-shell/terminal-seat-marks/terminal-seat-marks.module.code.ts"
+} from "akasha/shell/terminal/terminal-seat-marks/terminal-seat-marks.module.code.ts"
 
 const INTERFACES_AT = "alan/harness/code-editor/data-interfaces/pages"
 const SCRATCH_AT = "alan/harness/code-editor/data-interfaces"
