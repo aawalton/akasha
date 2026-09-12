@@ -75,5 +75,8 @@ export const claudeAccountAdd = {
     },
   ],
   name: "add",
-  arguments: [{ argument: "argument/account", required: true, saidAs: "word" }],
+  arguments: [
+    { argument: "argument/account", required: true, saidAs: "word" },
+    { argument: "argument/email", required: true },
+  ],
 } as const satisfies Command
