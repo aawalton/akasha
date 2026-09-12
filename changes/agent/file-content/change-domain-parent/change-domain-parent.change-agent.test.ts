@@ -8,7 +8,7 @@ import {
   worldRecording,
 } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
-const PAGE = "command/imessage-contacts"
+const PAGE = "command/imessage-contact-list"
 
 const TO = "namespace/imessage"
 

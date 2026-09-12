@@ -6,7 +6,7 @@ export const imessage = {
   slug: "imessage",
   definition: "Alan's messages on iMessage",
   parts: [
-    "command/imessage-contacts",
+    "command/imessage-contact-list",
     "command/imessage-recent-list",
     "command/imessage-search",
     "command/imessage-send",

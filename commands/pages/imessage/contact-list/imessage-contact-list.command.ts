@@ -1,9 +1,9 @@
 import type { Command } from "akasha/commands/command.page-type.types.ts"
 
-export const imessageContacts = {
+export const imessageContactList = {
   id: "01a0685f-c8ed-7001-8968-6b6c199596e3",
   type: "command",
-  slug: "imessage-contacts",
+  slug: "imessage-contact-list",
   definition: "the command naming the address book contacts whose name has a run of letters",
   code: "ts",
   changeKind: "change-none",

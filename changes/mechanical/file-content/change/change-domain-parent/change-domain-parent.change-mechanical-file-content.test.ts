@@ -31,7 +31,7 @@ const PATHS: Readonly<Record<string, string>> = {
 }
 
 const LISTED: Readonly<Record<string, string>> = {
-  "command/imessage-contacts": COMMAND,
+  "command/imessage-contact-list": COMMAND,
   "namespace/imessage": NAMESPACE,
   "domain/imessage": PACKAGE,
 }
@@ -40,7 +40,7 @@ const PARENT: Value = {
   id: PACKAGE,
   pageTypeSlug: "workspace-package",
   slug: "imessage",
-  parts: ["module/imessage-host", "command/imessage-contacts"],
+  parts: ["module/imessage-host", "command/imessage-contact-list"],
 }
 
 const BARE: Value = {
@@ -98,7 +98,7 @@ function worldTold(told: Told): World {
   }
 }
 
-const ASKED = { page: "command/imessage-contacts", to: "namespace/imessage" }
+const ASKED = { page: "command/imessage-contact-list", to: "namespace/imessage" }
 
 type Reached = { readonly at: string; readonly given: unknown }
 
@@ -129,12 +129,12 @@ test("both mechanical changes are handed the parts key and the spelling that was
   expect(kept[0]?.given).toEqual({
     at: HELD,
     key: "parts",
-    value: "command/imessage-contacts",
+    value: "command/imessage-contact-list",
   })
   expect(kept[1]?.given).toEqual({
     at: UNDER,
     key: "parts",
-    value: "command/imessage-contacts",
+    value: "command/imessage-contact-list",
   })
 })
 
@@ -151,7 +151,7 @@ test("a parent stating no parts gains the list rather than being refused", async
   expect(kept[1]?.given).toEqual({
     at: UNDER,
     key: "parts",
-    value: `["command/imessage-contacts"]`,
+    value: `["command/imessage-contact-list"]`,
   })
 })
 
@@ -173,7 +173,7 @@ test("the parts key gained is written where the pages of that type write it", as
   expect(kept[1]?.given).toEqual({
     at: UNDER,
     key: "parts",
-    value: `["command/imessage-contacts"]`,
+    value: `["command/imessage-contact-list"]`,
     after: "slug",
   })
 })
@@ -183,7 +183,7 @@ test("a page no page names among its parts is refused", async () => {
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toBe(
-    "no page names `command/imessage-contacts` among its parts, so `add-property-value` puts it under one"
+    "no page names `command/imessage-contact-list` among its parts, so `add-property-value` puts it under one"
   )
 })
 
@@ -192,7 +192,7 @@ test("a page more than one page names among its parts is refused, naming each", 
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toBe(
-    `\`command/imessage-contacts\` is a part of \`${HELD}\`, \`${UNDER}\`, so which parent goes is not settled`
+    `\`command/imessage-contact-list\` is a part of \`${HELD}\`, \`${UNDER}\`, so which parent goes is not settled`
   )
 })
 
@@ -200,7 +200,9 @@ test("a page already a part of the parent named is refused", async () => {
   const said = await runChange(worldTold({ namers: [NAMESPACE] }), ASKED)
 
   expect(said.edits).toEqual([])
-  expect(said.refused ?? "").toBe(`\`command/imessage-contacts\` is a part of \`${UNDER}\` already`)
+  expect(said.refused ?? "").toBe(
+    `\`command/imessage-contact-list\` is a part of \`${UNDER}\` already`
+  )
 })
 
 test("a page the index reaches nothing for is refused by the key naming it", async () => {
@@ -219,5 +221,7 @@ test("a parent whose parts do not spell the page is refused", async () => {
   const said = await runChange(worldTold({ namers: [PACKAGE], page: BARE }), ASKED)
 
   expect(said.edits).toEqual([])
-  expect(said.refused ?? "").toBe(`\`${HELD}\` states \`command/imessage-contacts\` among no parts`)
+  expect(said.refused ?? "").toBe(
+    `\`${HELD}\` states \`command/imessage-contact-list\` among no parts`
+  )
 })
