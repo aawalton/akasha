@@ -14,6 +14,14 @@ export const mobileSimBoot = {
     },
     {
       invariantKind: "departure",
+      statement: "It carries them as two lines keyed by name, the udid first and the base second.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Appium is reached before the simulator is booted, whichever line comes first.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An Appium server already up is left up.",
     },
     {
