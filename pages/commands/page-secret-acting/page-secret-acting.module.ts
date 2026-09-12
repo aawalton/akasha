@@ -78,5 +78,9 @@ export const pageSecretActing = {
       invariantKind: "absence",
       statement: "Nothing here prints.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A call saying no message commits under one naming the sops file.",
+    },
   ],
 } as const satisfies Module

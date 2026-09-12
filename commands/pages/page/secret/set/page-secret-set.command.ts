@@ -11,10 +11,6 @@ export const pageSecretSet = {
       said: "--keep-last-newline",
       takes: "the trailing newline, for a value that is a whole file ending in one",
     },
-    {
-      said: "--message <msg>",
-      takes: "what the commit is for, where the one naming the sops file will not do",
-    },
   ],
   invariants: [
     {
@@ -70,5 +66,6 @@ export const pageSecretSet = {
   arguments: [
     { argument: "argument/file-path", required: true },
     { argument: "argument/key", required: true },
+    { argument: "argument/commit-message" },
   ],
 } as const satisfies Command
