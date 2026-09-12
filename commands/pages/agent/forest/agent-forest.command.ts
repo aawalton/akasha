@@ -154,7 +154,7 @@ export const agentForest = {
     },
     {
       invariantKind: "absence",
-      statement: "A run writes nothing.",
+      statement: "A run writes nothing but the scan cursor a seat's turn record keeps.",
     },
   ],
   name: "forest",
