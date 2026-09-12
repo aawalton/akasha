@@ -2,7 +2,6 @@ import { afterAll, expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
-  asJsonLines,
   BODY_FILING,
   SUBJECT_FILING,
   wrongIn,
@@ -10,14 +9,6 @@ import {
 import { proseIn } from "akasha/commands/modules/filling/command-filling.module.code.ts"
 import { TERMINAL } from "akasha/commands/modules/piping/piping.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
-
-test("a value is answered as JSON laid out over lines", () => {
-  const held = asJsonLines({ id: "abc123" })
-
-  expect(held.code).toBe(0)
-  expect(held.report.join("")).toContain("abc123")
-  expect(held.report.length).toBeGreaterThan(1)
-})
 
 const scratch = scratchWorld()
 

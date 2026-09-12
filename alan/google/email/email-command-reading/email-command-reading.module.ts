@@ -4,7 +4,7 @@ export const emailCommandReading = {
   id: "01a06810-cf11-7676-b503-15195a7cff5b",
   type: "module",
   slug: "email-command-reading",
-  definition: "what an email command reads off its arguments, and the shape it answers in",
+  definition: "what an email command reads off its arguments",
   code: "ts",
   test: "ts",
   invariants: [
@@ -45,14 +45,7 @@ export const emailCommandReading = {
       invariantKind: "departure",
       statement: "A path that is not absolute is read against the repository root.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A command answers JSON.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "One report line answers each line of that JSON.",
-    },
+
     {
       invariantKind: "absence",
       statement: "No guard is written here.",

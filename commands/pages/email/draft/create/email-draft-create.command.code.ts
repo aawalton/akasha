@@ -1,7 +1,4 @@
-import {
-  asJsonLines,
-  composedIn,
-} from "akasha/alan/google/email/email-command-reading/email-command-reading.module.code.ts"
+import { composedIn } from "akasha/alan/google/email/email-command-reading/email-command-reading.module.code.ts"
 import { emailGoogle } from "akasha/alan/google/email/email-operations/email-operations.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { attach } from "akasha/commands/arguments/pages/attach.argument.ts"
@@ -17,6 +14,7 @@ import { thread } from "akasha/commands/arguments/pages/thread.argument.ts"
 import { toAddress } from "akasha/commands/arguments/pages/to-address.argument.ts"
 import {
   answering,
+  asIndentedJson,
   INPUT,
   refusedBy,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -45,6 +43,6 @@ export function emailDraftCreate(argv: readonly string[], given: Given): Promise
     if ("why" in composed) return refusedBy(composed.why, INPUT)
     const google = await emailGoogle()
     const client = await google.makeGmailClient()
-    return asJsonLines(await google.createDraft(client, composed.input, done))
+    return asIndentedJson(await google.createDraft(client, composed.input, done))
   })
 }

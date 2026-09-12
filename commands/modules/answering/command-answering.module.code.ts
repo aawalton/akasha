@@ -32,6 +32,10 @@ export function asJson(value: unknown): Answer {
   return told([JSON.stringify(value)])
 }
 
+export function asIndentedJson(value: unknown): Answer {
+  return told(JSON.stringify(value, null, 2).split("\n"))
+}
+
 export function codeOf(thrown: unknown): number {
   if (thrown instanceof Error && CARRIES_A_CODE.has(thrown.name)) {
     const held = (thrown as { readonly code?: unknown }).code

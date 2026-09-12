@@ -1,9 +1,9 @@
-import { asJsonLines } from "akasha/alan/google/email/email-command-reading/email-command-reading.module.code.ts"
 import { emailGoogle } from "akasha/alan/google/email/email-operations/email-operations.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { message } from "akasha/commands/arguments/pages/message.argument.ts"
 import {
   answering,
+  asIndentedJson,
   INPUT,
   refusedBy,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -25,6 +25,6 @@ export function emailUnsubscribe(argv: readonly string[], given: Given): Promise
       google.getHeader(raw, HEADER),
       google.getHeader(raw, POST_HEADER)
     )
-    return asJsonLines(await google.executeUnsubscribe(client, intent, done))
+    return asIndentedJson(await google.executeUnsubscribe(client, intent, done))
   })
 }

@@ -19,6 +19,14 @@ export const commandAnswering = {
     },
     {
       invariantKind: "departure",
+      statement: "A value answered as indented JSON is one report line to each line of it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Those lines are one value broken up rather than one value to a line.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A fault with a code of its own is answered with that code.",
     },
     {

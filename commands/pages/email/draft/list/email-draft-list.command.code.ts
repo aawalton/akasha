@@ -1,9 +1,9 @@
-import { asJsonLines } from "akasha/alan/google/email/email-command-reading/email-command-reading.module.code.ts"
 import { emailGoogle } from "akasha/alan/google/email/email-operations/email-operations.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { max } from "akasha/commands/arguments/pages/max.argument.ts"
 import {
   answering,
+  asIndentedJson,
   INPUT,
   refusedBy,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -16,6 +16,6 @@ export function emailDraftList(argv: readonly string[], given: Given): Promise<A
   return answering(async () => {
     const google = await emailGoogle()
     const client = await google.makeGmailClient()
-    return asJsonLines(await google.listDrafts(client, read.taken.max))
+    return asIndentedJson(await google.listDrafts(client, read.taken.max))
   })
 }

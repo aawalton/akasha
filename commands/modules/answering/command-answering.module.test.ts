@@ -6,6 +6,7 @@ import {
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import {
   answering,
+  asIndentedJson,
   asJson,
   codeOf,
   DATA,
@@ -44,6 +45,28 @@ test("a report answered with no refusal is the answer of a command that worked",
 
 test("a value answered as JSON is one line of JSON", () => {
   expect(asJson({ held: 1 })).toEqual({ report: ['{"held":1}'], refusals: [], code: OK })
+})
+
+test("a value answered as indented JSON is one report line to each line of it", () => {
+  expect(asIndentedJson({ held: 1 })).toEqual({
+    report: ["{", '  "held": 1', "}"],
+    refusals: [],
+    code: OK,
+  })
+})
+
+test("those lines are one value broken up rather than one value to a line", () => {
+  expect(asIndentedJson([{ a: 1 }, { b: 2 }]).report).toEqual([
+    "[",
+    "  {",
+    '    "a": 1',
+    "  },",
+    "  {",
+    '    "b": 2',
+    "  }",
+    "]",
+  ])
+  expect(asJson([{ a: 1 }, { b: 2 }]).report).toEqual(['[{"a":1},{"b":2}]'])
 })
 
 test("a fault carrying a code of its own is answered with that code", () => {
