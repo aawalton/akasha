@@ -4,6 +4,7 @@ import { takenFor } from "akasha/commands/arguments/argument-taking/argument-tak
 import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
 import { packageName } from "akasha/commands/arguments/pages/package-name.argument.ts"
 import {
+  answeredWith,
   DATA,
   OK,
   OPERATIONAL,
@@ -126,5 +127,5 @@ export function temperPackageTypecheck(argv: readonly string[], given: Given): A
   for (const one of all.filter((row) => row.code !== 0)) {
     refusals.push(`${one.name} failed to typecheck (exit ${String(one.code)})`)
   }
-  return { report, refusals, code: refusals.length > 0 ? OPERATIONAL : OK }
+  return answeredWith(report, refusals, refusals.length > 0 ? OPERATIONAL : OK)
 }
