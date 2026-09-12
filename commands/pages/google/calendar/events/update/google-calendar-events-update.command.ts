@@ -4,7 +4,7 @@ export const googleCalendarEventsUpdate = {
   id: "01a08cf6-2498-7264-92b4-a12c680c958c",
   type: "command",
   slug: "google-calendar-events-update",
-  definition: "the act changing the fields a call names on one event",
+  definition: "the command changing the fields a call names on one event",
   code: "ts",
   changeKind: "change-none",
   taking: [

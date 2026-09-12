@@ -4,7 +4,7 @@ export const googleCalendarEventsCreate = {
   id: "01a08cf5-d6aa-73ba-98ee-cf689f633831",
   type: "command",
   slug: "google-calendar-events-create",
-  definition: "the act placing a new event and inviting everyone named on it",
+  definition: "the command placing a new event and inviting everyone named on it",
   code: "ts",
   changeKind: "change-none",
   taking: [
