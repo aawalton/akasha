@@ -8,7 +8,7 @@ import {
   DAILY_WRIT_CRAFT_TYPES,
   type DailyWritProfessionState,
   resolveDailyWritProfessionState,
-} from "akasha/temper/player-completion-state/completion-daily-writs-state/completion-daily-writs-state.module.code.ts"
+} from "akasha/temper/player-completion-state/modules/completion-daily-writs-state/completion-daily-writs-state.module.code.ts"
 
 export interface DailyWritRow {
   readonly label: string

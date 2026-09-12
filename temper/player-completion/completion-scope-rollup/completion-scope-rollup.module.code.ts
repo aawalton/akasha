@@ -1,12 +1,12 @@
-import {
-  CUMULATIVE_ACCOUNT_CARDS,
-  CUMULATIVE_CHARACTER_CARDS,
-} from "akasha/temper/player-completion/completion-cumulative-cards/completion-cumulative-cards.module.code.ts"
 import type {
   AccountSummaryData,
   CharacterSummaryData,
   CompanionSummaryData,
 } from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import {
+  CUMULATIVE_ACCOUNT_CARDS,
+  CUMULATIVE_CHARACTER_CARDS,
+} from "akasha/temper/player-completion/modules/completion-cumulative-cards/completion-cumulative-cards.module.code.ts"
 
 export interface ScopeRollup {
   readonly count: number
