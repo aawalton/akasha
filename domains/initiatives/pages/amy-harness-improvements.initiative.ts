@@ -9,7 +9,9 @@ export const amyHarnessImprovements = {
   intents: [
     {
       statement:
-        "The Stop hook names a seat's Claude Code session for that seat, so Alan sees who he is talking to.",
+        "A seat's Claude Code session is named for that seat, so Alan sees who he is talking to.",
+      workingMemory:
+        "A session carries two names. The live one, which a session listing shows, is registered once from `CLAUDE_CODE_SESSION_NAME` as the child writes its record under `sessions/<pid>.json`, so no Stop hook reaches it; without that key a child takes its folder's name, which is why seats list as `repos-NN`. `supervisor-adopt` now hands it the seat's slug, and a running seat keeps its old name until restarted. The Stop hook writes the other name, the title the transcript carries.",
     },
   ],
   constraints: [
