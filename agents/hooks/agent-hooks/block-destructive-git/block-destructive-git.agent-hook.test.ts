@@ -117,7 +117,7 @@ test("an amend refusal names the command that lands another commit", () => {
   expect(said).toContain("`akasha change apply`.")
 })
 
-test("every forced form of push is refused, and says what it would overwrite", () => {
+test("each forced flag it names is refused, and says what it would overwrite", () => {
   for (const flag of ["--force", "-f", "--force-with-lease", "--force-if-includes"]) {
     expect(refusalIn(`git push ${flag} origin main`)).toContain("overwrites commits on a branch")
   }
@@ -126,7 +126,15 @@ test("every forced form of push is refused, and says what it would overwrite", (
   )
 })
 
-test("a plain push is refused, in every spelling", () => {
+test("a forced flag it does not name is refused as a plain push, not as a forced one", () => {
+  for (const flag of ["-fu", "-uf", "--force="]) {
+    const said = refusalIn(["git", "push", flag, "origin", "main"].join(" ")) ?? ""
+    expect(said).not.toBe("")
+    expect(said).not.toContain("overwrites commits on a branch")
+  }
+})
+
+test("a plain push is refused, whatever remote or refspec follows it", () => {
   expect(refusalIn("git push")).not.toBeNull()
   expect(refusalIn("git push origin main")).not.toBeNull()
   expect(refusalIn("git push origin 234aaeaf35:main")).not.toBeNull()

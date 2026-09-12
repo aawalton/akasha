@@ -68,7 +68,7 @@ test("a run naming no script has none, and no other act names one", () => {
   expect(scriptOf({ act: "test", rest: ["typecheck"] })).toBeNull()
 })
 
-test("every call on one line is found", () => {
+test("a second and a third call on one line are found too", () => {
   const said = bunCallsIn("bun test one && bun run build || bun test two")
   expect(said.map((one) => one.act)).toEqual(["test", "run", "test"])
 })
@@ -81,6 +81,12 @@ test("a call is found across lines and across a continuation", () => {
 test("an act inside a quoted run is not read as a call", () => {
   expect(bunCallsIn('echo "bun test"')).toEqual([])
   expect(bunCallsIn("echo 'bun test'")).toEqual([])
+})
+
+test("a call a substitution or a subshell holds is not found, which is the gap", () => {
+  expect(bunCallsIn("H=$(bun test)")).toEqual([])
+  expect(bunCallsIn("$(bun test)")).toEqual([])
+  expect(bunCallsIn("(bun test)")).toEqual([])
 })
 
 test("a line carrying no bun call is read as none", () => {

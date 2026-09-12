@@ -113,11 +113,18 @@ test("leading space on a segment is taken off before the head is read", () => {
   expect(gitCallsIn("  git stash")).toEqual([{ act: "stash", rest: [] }])
 })
 
-test("every call on a line is read, not only the first", () => {
+test("a call after the first on a line is read too", () => {
   expect(gitCallsIn("git add . && git commit -m one")).toEqual([
     { act: "add", rest: ["."] },
     { act: "commit", rest: ["-m", "one"] },
   ])
+})
+
+test("a call a substitution or a subshell holds is not read, which is the gap", () => {
+  expect(gitCallsIn("H=$(git stash)")).toEqual([])
+  expect(gitCallsIn("$(git stash)")).toEqual([])
+  expect(gitCallsIn("(git stash)")).toEqual([])
+  expect(gitCallsIn('"$(git stash)"')).toEqual([])
 })
 
 test("a heredoc body naming an act is read as a call, which this does not tell apart", () => {
