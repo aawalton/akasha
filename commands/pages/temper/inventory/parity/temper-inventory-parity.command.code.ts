@@ -2,10 +2,10 @@ import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
 import {
   DATA,
-  INPUT,
-  OK,
   OPERATIONAL,
   refused,
+  refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -279,7 +279,7 @@ export async function temperInventoryParity(
   given?: Given
 ): Promise<Answer> {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
+  if ("refused" in read) return refusedBy(read.refused)
 
   const root = given === undefined ? process.cwd() : resolve(given.root)
   const inventoryPath =
@@ -369,7 +369,7 @@ export async function temperInventoryParity(
       ...routing.renderRoutingSection(routingDiff).replace(/\n+$/, "").split("\n"),
     ]
     const diverged = inputRows.length > 0 || walkRows.length > 0 || routingDiff.mismatch
-    if (!diverged) return { report, refusals: [], code: OK }
+    if (!diverged) return told(report)
     return {
       report,
       refusals: [

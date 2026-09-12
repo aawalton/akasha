@@ -2,10 +2,10 @@ import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
 import {
   DATA,
-  INPUT,
-  OK,
   OPERATIONAL,
   refused,
+  refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -194,7 +194,7 @@ export async function temperInventoryPlan(
   given?: Given
 ): Promise<Answer> {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
+  if ("refused" in read) return refusedBy(read.refused)
   const root = given === undefined ? process.cwd() : resolve(given.root)
   try {
     const inputs = await planInputs()
@@ -250,13 +250,13 @@ export async function temperInventoryPlan(
     )
     const plan = builder.buildManagementPlan(orderedRules, itemRules, filtered, db, context)
     if (read.json) {
-      return { report: JSON.stringify(plan, null, SPACES).split("\n"), refusals: [], code: OK }
+      return told(JSON.stringify(plan, null, SPACES).split("\n"))
     }
     if (read.checklist) {
       const said = (await planChecklist()).formatPlanChecklist(plan)
-      return { report: said.replace(/\n+$/, "").split("\n"), refusals: [], code: OK }
+      return told(said.replace(/\n+$/, "").split("\n"))
     }
-    return { report: [...planSaid(plan)], refusals: [], code: OK }
+    return told(planSaid(plan))
   } catch (thrown) {
     return refused(whyOf(thrown), OPERATIONAL)
   }
