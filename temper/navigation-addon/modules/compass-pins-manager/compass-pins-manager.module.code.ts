@@ -1,7 +1,3 @@
-import {
-  pinLayouts,
-  STATE,
-} from "akasha/temper/navigation-addon/compass-pins-state/compass-pins-state.module.code.ts"
 import type {
   CompassLayoutResetFn,
   CompassLayoutUpdateFn,
@@ -30,6 +26,10 @@ import {
   PIN_NAME_PREFIX,
   PIN_TEMPLATE,
 } from "akasha/temper/navigation-addon/modules/compass-pins-constants/compass-pins-constants.module.code.ts"
+import {
+  pinLayouts,
+  STATE,
+} from "akasha/temper/navigation-addon/modules/compass-pins-state/compass-pins-state.module.code.ts"
 
 const PARENT = asControl(COMPASS.container)
 const CONTROL_POOL = asCompassPoolClass(ZO_ControlPool)

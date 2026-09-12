@@ -1,8 +1,3 @@
-import { CompassPinManager } from "akasha/temper/navigation-addon/compass-pins-manager/compass-pins-manager.module.code.ts"
-import {
-  pinLayouts,
-  STATE,
-} from "akasha/temper/navigation-addon/compass-pins-state/compass-pins-state.module.code.ts"
 import type {
   CompassPin,
   Lib,
@@ -29,6 +24,11 @@ import {
   UPDATE_THROTTLE_MS,
   WORLD_MAP_CHANGED_CALLBACK,
 } from "akasha/temper/navigation-addon/modules/compass-pins-constants/compass-pins-constants.module.code.ts"
+import { CompassPinManager } from "akasha/temper/navigation-addon/modules/compass-pins-manager/compass-pins-manager.module.code.ts"
+import {
+  pinLayouts,
+  STATE,
+} from "akasha/temper/navigation-addon/modules/compass-pins-state/compass-pins-state.module.code.ts"
 
 const sharedMapPinManager = ZO_WorldMap_GetPinManager()
 
