@@ -7,7 +7,7 @@ export const emailMessage = {
   definition: "a message in Alan's mailbox",
   parts: [
     "command/email-message-archive",
-    "command/email-message-get",
+    "command/email-message-show",
     "command/email-message-list",
     "command/email-message-modify-labels",
     "command/email-message-send",
