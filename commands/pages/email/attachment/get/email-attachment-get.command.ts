@@ -1,9 +1,9 @@
 import type { Command } from "akasha/commands/command.page-type.types.ts"
 
-export const emailAttachmentsGet = {
+export const emailAttachmentGet = {
   id: "01a06810-cf11-75ef-84b0-74beeb5d5383",
   type: "command",
-  slug: "email-attachments-get",
+  slug: "email-attachment-get",
   definition: "the command fetching one attachment's bytes by id, with its size beside them",
   code: "ts",
   changeKind: "change-none",
@@ -13,7 +13,7 @@ export const emailAttachmentsGet = {
     { said: "--attachment-id <id>", takes: "which attachment of that message to fetch" },
   ],
   helpNotes: [
-    "an attachment id is learned from `email attachments list`, which names one for each attachment a message carries.",
+    "an attachment id is learned from `email attachment list`, which names one for each attachment a message carries.",
     "the bytes come back base64url-encoded under `data`, with `size` beside them.",
   ],
   invariants: [

@@ -1,9 +1,9 @@
 import type { Namespace } from "akasha/commands/namespaces/namespace.page-type.types.ts"
 
-export const emailAttachments = {
+export const emailAttachment = {
   id: "01a07bbf-258e-75b2-82ad-d3ff78cae0ca",
   type: "namespace",
-  slug: "email-attachments",
+  slug: "email-attachment",
   definition: "a file carried by a message",
-  parts: ["command/email-attachments-get", "command/email-attachments-list"],
+  parts: ["command/email-attachment-get", "command/email-attachment-list"],
 } as const satisfies Namespace

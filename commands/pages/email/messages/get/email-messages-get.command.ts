@@ -13,7 +13,7 @@ export const emailMessagesGet = {
   ],
   helpNotes: [
     "the message comes back with its full headers and the first plain-text part decoded as its body.",
-    "the attachments hanging off it are named by `email attachments list`.",
+    "the attachments hanging off it are named by `email attachment list`.",
   ],
   invariants: [
     {

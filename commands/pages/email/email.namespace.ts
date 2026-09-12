@@ -6,7 +6,7 @@ export const email = {
   slug: "email",
   definition: "the mail Alan sends and receives",
   parts: [
-    "namespace/email-attachments",
+    "namespace/email-attachment",
     "namespace/email-drafts",
     "namespace/email-messages",
     "command/email-unsubscribe",
