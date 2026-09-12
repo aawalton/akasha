@@ -4,7 +4,7 @@ export const changeShow = {
   id: "01a0814d-f6a9-7747-970b-4b441ff35d5a",
   type: "command",
   slug: "change-show",
-  definition: "the body a path would have once the edits kept for this agent land",
+  definition: "the command answering the body a path would have once this agent's kept edits land",
   code: "ts",
   test: "ts",
   changeKind: "change-authored",

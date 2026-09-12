@@ -4,7 +4,7 @@ export const changeRepeat = {
   id: "01a091e2-0bc2-799b-9f8f-d9a05bfc3696",
   type: "command",
   slug: "change-repeat",
-  definition: "one change applied batch after batch until a batch lands nothing",
+  definition: "the command applying one change batch after batch until a batch lands nothing",
   code: "ts",
   test: "ts",
   changeKind: "change-none",
