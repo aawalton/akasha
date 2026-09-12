@@ -6,10 +6,19 @@ export const gmailMessages = {
   slug: "gmail-messages",
   definition: "mail listed, read, sent, relabelled, archived and trashed",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement: "A listing fetches each message's headers one message at a time.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write is named as soon as gmail has taken that write.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A message sent is named as one that cannot be taken back.",
     },
     {
       invariantKind: "departure",

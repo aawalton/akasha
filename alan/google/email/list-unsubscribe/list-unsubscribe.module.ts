@@ -19,5 +19,9 @@ export const listUnsubscribe = {
       invariantKind: "departure",
       statement: "A one-click POST that does not succeed is refused rather than passed over.",
     },
+    {
+      invariantKind: "departure",
+      statement: "An unsubscribe by mailto names the message it sent on the list it is handed.",
+    },
   ],
 } as const satisfies Module

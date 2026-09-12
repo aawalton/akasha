@@ -56,7 +56,8 @@ export type UnsubscribeResult = {
 
 export async function executeUnsubscribe(
   client: GmailClient,
-  parsed: ParsedUnsubscribe
+  parsed: ParsedUnsubscribe,
+  done: string[] = []
 ): Promise<UnsubscribeResult> {
   if (parsed.oneClickUrl !== undefined) {
     const res = await fetch(parsed.oneClickUrl, {
@@ -72,11 +73,15 @@ export async function executeUnsubscribe(
     return { method: "one-click", detail: parsed.oneClickUrl }
   }
   if (parsed.mailto !== undefined) {
-    await sendMessage(client, {
-      to: [parsed.mailto.address],
-      subject: parsed.mailto.subject ?? "unsubscribe",
-      body: "unsubscribe",
-    })
+    await sendMessage(
+      client,
+      {
+        to: [parsed.mailto.address],
+        subject: parsed.mailto.subject ?? "unsubscribe",
+        body: "unsubscribe",
+      },
+      done
+    )
     return { method: "mailto", detail: parsed.mailto.address }
   }
   return { method: "none", detail: "no List-Unsubscribe header" }

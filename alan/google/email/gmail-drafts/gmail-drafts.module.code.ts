@@ -9,7 +9,15 @@ import {
   normalizeDraft,
 } from "akasha/alan/google/email/gmail-schema/gmail-schema.module.code.ts"
 
-export async function createDraft(client: GmailClient, input: ComposeInput): Promise<EmailDraft> {
+export function draftedSaid(to: readonly string[]): string {
+  return `gmail holds a new draft to ${to.join(", ")}`
+}
+
+export async function createDraft(
+  client: GmailClient,
+  input: ComposeInput,
+  done: string[] = []
+): Promise<EmailDraft> {
   const raw = await buildRawEmail(client, input)
   const res = await client.raw.users.drafts.create({
     userId: "me",
@@ -20,6 +28,7 @@ export async function createDraft(client: GmailClient, input: ComposeInput): Pro
       },
     },
   })
+  done.push(draftedSaid(input.to))
   return normalizeDraft(res.data)
 }
 

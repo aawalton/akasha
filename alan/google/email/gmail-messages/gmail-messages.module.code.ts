@@ -138,9 +138,22 @@ export async function buildRawEmail(client: GmailClient, input: ComposeInput): P
   return toBase64Url(mime)
 }
 
+export function sentSaid(to: readonly string[]): string {
+  return `gmail sent the message to ${to.join(", ")}, and sending cannot be undone`
+}
+
+export function labelledSaid(messageId: string): string {
+  return `gmail changed the labels on message ${messageId}`
+}
+
+export function trashedSaid(messageId: string): string {
+  return `gmail moved message ${messageId} to the trash`
+}
+
 export async function sendMessage(
   client: GmailClient,
-  input: ComposeInput
+  input: ComposeInput,
+  done: string[] = []
 ): Promise<EmailSendResult> {
   const raw = await buildRawEmail(client, input)
   const res = await client.raw.users.messages.send({
@@ -150,6 +163,7 @@ export async function sendMessage(
       ...(input.threadId !== undefined ? { threadId: input.threadId } : {}),
     },
   })
+  done.push(sentSaid(input.to))
   const parsed = gmailSendResponseSchema.parse(res.data)
   return { id: parsed.id, threadId: parsed.threadId }
 }
@@ -173,7 +187,8 @@ export function buildLabelModification(input: ModifyLabelsInput): LabelModificat
 export async function modifyMessageLabels(
   client: GmailClient,
   messageId: string,
-  input: ModifyLabelsInput
+  input: ModifyLabelsInput,
+  done: string[] = []
 ): Promise<EmailLabelMutationResult> {
   const body = buildLabelModification(input)
   const res = await client.raw.users.messages.modify({
@@ -184,20 +199,24 @@ export async function modifyMessageLabels(
       ...(body.removeLabelIds !== undefined ? { removeLabelIds: [...body.removeLabelIds] } : {}),
     },
   })
+  done.push(labelledSaid(messageId))
   return normalizeLabelMutation(res.data)
 }
 
 export async function archiveMessage(
   client: GmailClient,
-  messageId: string
+  messageId: string,
+  done: string[] = []
 ): Promise<EmailLabelMutationResult> {
-  return modifyMessageLabels(client, messageId, { removeLabelIds: [INBOX_LABEL] })
+  return modifyMessageLabels(client, messageId, { removeLabelIds: [INBOX_LABEL] }, done)
 }
 
 export async function trashMessage(
   client: GmailClient,
-  messageId: string
+  messageId: string,
+  done: string[] = []
 ): Promise<EmailLabelMutationResult> {
   const res = await client.raw.users.messages.trash({ userId: "me", id: messageId })
+  done.push(trashedSaid(messageId))
   return normalizeLabelMutation(res.data)
 }
