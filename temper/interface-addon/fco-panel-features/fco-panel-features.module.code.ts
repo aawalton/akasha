@@ -1,4 +1,3 @@
-import { mailStuff } from "akasha/temper/interface-addon/fco-mail/fco-mail.module.code.ts"
 import { questTrackerMovable } from "akasha/temper/interface-addon/fco-quest/fco-quest.module.code.ts"
 import {
   DISABLE_SOUNDS_SHIFTER_BOX_CONTROL,
@@ -20,6 +19,7 @@ import {
 } from "akasha/temper/interface-addon/modules/fco-collectibles/fco-collectibles.module.code.ts"
 import { buildFavoriteMountsContextMenu } from "akasha/temper/interface-addon/modules/fco-collectibles-mounts/fco-collectibles-mounts.module.code.ts"
 import { collectibleChanges } from "akasha/temper/interface-addon/modules/fco-collectibles-tooltips/fco-collectibles-tooltips.module.code.ts"
+import { mailStuff } from "akasha/temper/interface-addon/modules/fco-mail/fco-mail.module.code.ts"
 
 export function buildCollectiblesControls(
   this: void,

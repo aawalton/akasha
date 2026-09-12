@@ -1,13 +1,5 @@
-import "akasha/temper/interface-addon/fco-global/fco-global.module.code.ts"
+import "akasha/temper/interface-addon/modules/fco-global/fco-global.module.code.ts"
 
-import { snapCursor } from "akasha/temper/interface-addon/fco-functions/fco-functions.module.code.ts"
-import {
-  cPStuff,
-  groupElectionStuff,
-} from "akasha/temper/interface-addon/fco-group/fco-group.module.code.ts"
-import { guildHistoryChanges } from "akasha/temper/interface-addon/fco-guild-history/fco-guild-history.module.code.ts"
-import { inventoryChanges } from "akasha/temper/interface-addon/fco-inventory/fco-inventory.module.code.ts"
-import { mailStuff } from "akasha/temper/interface-addon/fco-mail/fco-mail.module.code.ts"
 import {
   addMainMenuButtons,
   addNotificationsButtons,
@@ -58,6 +50,14 @@ import {
   saveVolumeLevels,
 } from "akasha/temper/interface-addon/modules/fco-crafting/fco-crafting.module.code.ts"
 import { dialogsChanges } from "akasha/temper/interface-addon/modules/fco-dialogs/fco-dialogs.module.code.ts"
+import { snapCursor } from "akasha/temper/interface-addon/modules/fco-functions/fco-functions.module.code.ts"
+import {
+  cPStuff,
+  groupElectionStuff,
+} from "akasha/temper/interface-addon/modules/fco-group/fco-group.module.code.ts"
+import { guildHistoryChanges } from "akasha/temper/interface-addon/modules/fco-guild-history/fco-guild-history.module.code.ts"
+import { inventoryChanges } from "akasha/temper/interface-addon/modules/fco-inventory/fco-inventory.module.code.ts"
+import { mailStuff } from "akasha/temper/interface-addon/modules/fco-mail/fco-mail.module.code.ts"
 
 const EM = EVENT_MANAGER
 

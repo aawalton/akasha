@@ -1,5 +1,5 @@
-import { createButton } from "akasha/temper/interface-addon/fco-functions/fco-functions.module.code.ts"
 import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
+import { createButton } from "akasha/temper/interface-addon/modules/fco-functions/fco-functions.module.code.ts"
 
 const EM = EVENT_MANAGER
 
