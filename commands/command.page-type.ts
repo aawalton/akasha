@@ -50,7 +50,6 @@ export const command = {
     "module/report-answering",
     "module/mechanical-filing",
     "module/command-stopping",
-    "module/prose-routing",
     "module/landing-reading",
     "module/command-walking",
     "module/command-leveling",

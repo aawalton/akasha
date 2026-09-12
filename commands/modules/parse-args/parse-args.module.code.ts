@@ -1,4 +1,3 @@
-import { readFileSync } from "node:fs"
 import type {
   InputError,
   UnknownFlag,
@@ -8,11 +7,6 @@ import type {
   CommandHelp,
   HelpFlag,
 } from "akasha/commands/modules/declaring/command-declaring.module.code.ts"
-import {
-  expandProseRoutes,
-  normalizeRouteValue,
-  planProseRouteReads,
-} from "akasha/commands/modules/prose-routing/prose-routing.module.code.ts"
 import { expandTilde } from "akasha/utils/fs/expand-tilde/expand-tilde.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { suggestClosest } from "akasha/utils/text/suggest-closest/suggest-closest.module.code.ts"
@@ -66,16 +60,6 @@ function takesValue(f: HelpFlag): boolean {
   return f.argLabel !== undefined
 }
 
-function readRouteValue(path: string): string {
-  const resolved = expandTilde(path)
-  try {
-    return resolved === "-" ? readFileSync(0, "utf8") : readFileSync(resolved, "utf8")
-  } catch (err) {
-    const reason = err instanceof Error ? err.message : String(err)
-    throw inputError(`failed to read ${path}: ${reason}`)
-  }
-}
-
 function unknownFlagError(
   flagName: string,
   candidates: readonly string[]
@@ -89,8 +73,7 @@ function unknownFlagError(
 }
 
 export function parseArgs(help: CommandHelp, argv: readonly string[]): ParsedArgs {
-  const proseRoutes = expandProseRoutes(help.flags ?? [])
-  const flagLookup = buildFlagMap(proseRoutes.flags)
+  const flagLookup = buildFlagMap(help.flags ?? [])
   const flagDefs = flagLookup.canonical
   const positionalDefs = help.positionals ?? []
   const envDefs = help.envVars ?? []
@@ -207,16 +190,6 @@ export function parseArgs(help: CommandHelp, argv: readonly string[]): ParsedArg
     }
     flagValues.set(flagName, positionalValue)
     positionals.shift()
-  }
-
-  for (const read of planProseRouteReads(proseRoutes.synthesized, flagValues)) {
-    const values = read.paths.map((p) => normalizeRouteValue(readRouteValue(p), read.valueShape))
-    flagValues.delete(read.routeFlag)
-    flagSurfaceNames.delete(read.routeFlag)
-    const single = values.length === 1 ? values[0] : undefined
-    const repeats = flagDefs.get(read.proseFlag)?.help.repeat === true
-    flagValues.set(read.proseFlag, repeats || single === undefined ? values : single)
-    flagSurfaceNames.set(read.proseFlag, read.routeFlag)
   }
 
   const nonAliasPositionalDefs = positionalDefs.filter((p) => p.aliasOfFlag === undefined)
