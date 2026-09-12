@@ -5,7 +5,7 @@ import {
   openingChannelMessageId,
   readDeliveryRecords,
   TURN_MARGIN,
-} from "akasha/seat-system/channel-delivery/channel-delivery.module.code.ts"
+} from "akasha/agents/messaging/channel-delivery/channel-delivery.module.code.ts"
 
 const A = "11111111-2222-3333-4444-555555555555"
 const B = "66666666-7777-8888-9999-aaaaaaaaaaaa"

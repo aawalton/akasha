@@ -1,13 +1,13 @@
 import {
+  classifyTranscriptDelivery,
+  type TranscriptOutcome,
+} from "akasha/agents/messaging/channel-delivery/channel-delivery.module.code.ts"
+import {
   type ClaimedRedeliveryDecision,
   decideClaimedRedelivery,
   type ClaimedCandidate as RuleCandidate,
 } from "akasha/agents/messaging/supervisor-claimed-redelivery-decide/supervisor-claimed-redelivery-decide.module.code.ts"
 import { redeliveryHoldoff } from "akasha/agents/messaging/supervisor-redelivery-holdoff/supervisor-redelivery-holdoff.module.code.ts"
-import {
-  classifyTranscriptDelivery,
-  type TranscriptOutcome,
-} from "akasha/seat-system/channel-delivery/channel-delivery.module.code.ts"
 
 const LOG = "[supervisor:claimed-redelivery]"
 
