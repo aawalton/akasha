@@ -1,4 +1,4 @@
-import { controlOf } from "akasha/seat-system/seat-control/seat-control.module.code.ts"
+import { controlOf } from "akasha/agents/seats/modules/control/seat-control.module.code.ts"
 import type { AgentActionEvent } from "akasha/seat-system/supervising/supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
 import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
 
