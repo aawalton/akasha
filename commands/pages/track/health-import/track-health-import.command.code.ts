@@ -10,15 +10,15 @@ import {
   NO_LOWER_BOUND,
   runHealthImport,
 } from "akasha/alan/harness/health-samples-import/health-import-run/health-import-run.module.code.ts"
+import {
+  DATA,
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
-
-const INPUT = 1
-
-const DATA = 2
-
-const OPERATIONAL = 3
 
 const NOTHING = "—"
 
@@ -192,7 +192,7 @@ export async function healthImported(
   return {
     report: [...linesOf(outcome, held.dryRun), ...readingLines(outcome, held.dryRun, atMs)],
     refusals: [],
-    code: 0,
+    code: OK,
   }
 }
 
