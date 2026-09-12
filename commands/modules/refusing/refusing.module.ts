@@ -29,10 +29,6 @@ export const refusing = {
       statement: "Nothing mistaken and nothing wrong is no refusal at all.",
     },
     {
-      invariantKind: "departure",
-      statement: "A refusal over a change says nothing was judged and nothing was written.",
-    },
-    {
       invariantKind: "absence",
       statement: "Nothing here works out what is mistaken or wrong.",
     },
