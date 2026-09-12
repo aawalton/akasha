@@ -16,10 +16,6 @@ export const temperCatalogStatus = {
       said: "--side-file <path>",
       takes: "the file the outstanding collection request is read from",
     },
-    {
-      said: "--json",
-      takes: "give the state as JSON rather than as tab-separated rows and a summary",
-    },
   ],
   invariants: [
     {

@@ -12,7 +12,6 @@ export const temperInventoryLookupItem = {
       said: "--inventory-path <path>",
       takes: "the saved-variables file the holdings are read from",
     },
-    { said: "--json", takes: "give the answer as JSON rather than as tab-separated rows" },
   ],
 
   invariants: [

@@ -15,7 +15,6 @@ export const temperInventoryCapacityAudit = {
       said: "--characters-path <path>",
       takes: "the saved-variables file the characters are read from",
     },
-    { said: "--json", takes: "give the whole audit as JSON rather than as text" },
   ],
   invariants: [
     {

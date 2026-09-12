@@ -8,7 +8,6 @@ export const temperInventoryBankProfile = {
   code: "ts",
   taking: [
     { said: "--inventory-path <path>", takes: "the saved-variables file the capture is read from" },
-    { said: "--json", takes: "give the whole capture as JSON rather than as text" },
   ],
   invariants: [
     {

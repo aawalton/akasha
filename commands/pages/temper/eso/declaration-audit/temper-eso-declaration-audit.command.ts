@@ -16,10 +16,6 @@ export const temperEsoDeclarationAudit = {
       said: "--eso-doc <path>",
       takes: "the documentation file the clone's API version is read from",
     },
-    {
-      said: "--json",
-      takes: "give the reading as one line of JSON rather than as the report a person reads",
-    },
   ],
   invariants: [
     {

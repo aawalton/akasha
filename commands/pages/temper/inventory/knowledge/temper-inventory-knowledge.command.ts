@@ -16,7 +16,6 @@ export const temperInventoryKnowledge = {
       said: "--characters-path <path>",
       takes: "the saved-variables file the characters are read from",
     },
-    { said: "--json", takes: "give the answer as JSON rather than as tab-separated rows" },
   ],
   invariants: [
     {

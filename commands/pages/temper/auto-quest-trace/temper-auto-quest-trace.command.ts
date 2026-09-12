@@ -8,7 +8,6 @@ export const temperAutoQuestTrace = {
   code: "ts",
   taking: [
     { said: "--file-path <path>", takes: "the saved-variables file the trace is read from" },
-    { said: "--json", takes: "give the whole trace as JSON rather than as text" },
   ],
   invariants: [
     {

@@ -15,7 +15,6 @@ export const temperInventoryConfiguration = {
       said: "--section <section>",
       takes: "which section is given back: rules, consumables, priority or all",
     },
-    { said: "--json", takes: "give the section as JSON rather than as tab-separated rows" },
   ],
 
   invariants: [

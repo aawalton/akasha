@@ -11,7 +11,6 @@ export const temperCommunityAddonInstall = {
     { said: "--force", takes: "install again even where the target folders are already present" },
     { said: "--addons-dir <path>", takes: "the game's addon directory installed into" },
     { said: "--code-root <path>", takes: "the checkout the deploy-owned roster is read from" },
-    { said: "--json", takes: "give the outcome as JSON rather than as a tab-separated line" },
   ],
 
   invariants: [

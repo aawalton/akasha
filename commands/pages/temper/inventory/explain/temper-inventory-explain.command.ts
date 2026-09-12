@@ -17,7 +17,6 @@ export const temperInventoryExplain = {
       takes: "the saved-variables file the characters are read from",
     },
     { said: "--char <id>", takes: "the character whose location the bag scan is scoped to" },
-    { said: "--json", takes: "give the trace as JSON rather than as tab-separated rows" },
   ],
 
   invariants: [

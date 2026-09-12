@@ -6,7 +6,7 @@ export const temperInventoryItemRuleList = {
   slug: "temper-inventory-item-rule-list",
   definition: "the command naming every per-item rule",
   code: "ts",
-  taking: [{ said: "--json", takes: "give the rules as JSON rather than as tab-separated rows" }],
+  taking: [],
 
   invariants: [
     {

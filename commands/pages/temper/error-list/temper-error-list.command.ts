@@ -8,7 +8,6 @@ export const temperErrorList = {
   code: "ts",
   taking: [
     { said: "--errors-path <path>", takes: "the saved-variables file the errors are read from" },
-    { said: "--json", takes: "give each error as JSON rather than as tab-separated rows" },
     { said: "--include-stale", takes: "show the entries left behind by an older session too" },
     {
       said: "--stale-after-hours <n>",

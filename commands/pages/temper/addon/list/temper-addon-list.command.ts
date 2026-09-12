@@ -7,13 +7,7 @@ export const temperAddonList = {
   definition: "the command naming every addon source folder the checkout has",
   code: "ts",
   test: "ts",
-  taking: [
-    {
-      said: "--json",
-      takes: "give one record per addon as JSON rather than as tab-separated rows",
-    },
-    { said: "--code-root <path>", takes: "the checkout the addons are discovered in" },
-  ],
+  taking: [{ said: "--code-root <path>", takes: "the checkout the addons are discovered in" }],
 
   invariants: [
     {

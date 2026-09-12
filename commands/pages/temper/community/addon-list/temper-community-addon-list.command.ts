@@ -11,7 +11,6 @@ export const temperCommunityAddonList = {
     { said: "--outdated", takes: "name only the addons an update is published for" },
     { said: "--addons-dir <path>", takes: "the game's addon directory read" },
     { said: "--code-root <path>", takes: "the checkout the deploy-owned roster is read from" },
-    { said: "--json", takes: "give the listing as JSON rather than as tab-separated rows" },
   ],
 
   invariants: [

@@ -15,7 +15,6 @@ export const temperCommunityAddonUpdate = {
     },
     { said: "--addons-dir <path>", takes: "the game's addon directory read and written" },
     { said: "--code-root <path>", takes: "the checkout the deploy-owned roster is read from" },
-    { said: "--json", takes: "give the outcome as JSON rather than as tab-separated rows" },
   ],
   invariants: [
     {

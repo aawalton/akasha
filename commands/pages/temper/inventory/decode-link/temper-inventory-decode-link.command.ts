@@ -7,10 +7,7 @@ export const temperInventoryDecodeLink = {
   definition: "the command reading a game item link into its named fields",
   code: "ts",
   test: "ts",
-  taking: [
-    { said: "<link>", takes: "the game item link read" },
-    { said: "--json", takes: "give the fields as JSON rather than as tab-separated rows" },
-  ],
+  taking: [{ said: "<link>", takes: "the game item link read" }],
 
   invariants: [
     {
