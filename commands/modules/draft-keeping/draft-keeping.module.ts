@@ -15,6 +15,11 @@ export const draftKeeping = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A draft refused over a body that moved names the call taking the kept edits away.",
+    },
+    {
+      invariantKind: "departure",
       statement: "One rule answers whether a landing and a draft are held to the bodies read.",
     },
     {

@@ -19,7 +19,10 @@ export type Drafted = {
   readonly drafted: readonly string[]
 }
 
-const AGAIN_DRAFTED = "nothing was drafted — read them again against what is there now"
+const AGAIN_DRAFTED =
+  "nothing was drafted — reading those bodies again leaves the edits kept as they were," +
+  " so `akasha change drop` with `all: true` takes them away and the change is drafted again" +
+  " against what is there now"
 
 const KEPT_AS_IT_WAS = "nothing was drafted — the edits are as the edits were"
 

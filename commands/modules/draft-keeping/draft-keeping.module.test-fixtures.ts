@@ -21,7 +21,8 @@ export const DRAFT: Drafting = { page: PAGE }
 export function drafting(
   root: string,
   changes: readonly Held[],
-  gate: Judging = ADMITS
+  gate: Judging = ADMITS,
+  read: string | null = null
 ): Promise<Drafted | Refused> {
   const said = statedIn(root, changes)
   if ("why" in said) {
@@ -30,7 +31,7 @@ export function drafting(
       code: EXIT.DATA,
     })
   }
-  return landing(root, said.rows, "held", gate, null, null, [], DRAFT)
+  return landing(root, said.rows, "held", gate, null, read, [], DRAFT)
 }
 
 export function keptText(root: string): string {
