@@ -114,5 +114,18 @@ export const clearReadsOnContextReplaced = {
       invariantKind: "departure",
       statement: "A record an ended agent left behind is taken away.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A reading says the agent holds that body now rather than that it read it once.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A compaction leaves the agent holding a summary rather than the bodies it read.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A reading kept across a compaction would keep that page's body out of every later answer.",
+    },
   ],
 } as const satisfies AgentHook
