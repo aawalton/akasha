@@ -6,6 +6,43 @@ export const seatStart = {
   slug: "seat-start",
   definition: "the command composing a fresh seat from the slots named after it",
   code: "ts",
+  taking: [
+    {
+      said: "--start-mode <mode>",
+      takes: "`interactive` or `headless`, which is whether a terminal is attached",
+    },
+    { said: "--prompt <text>", takes: "the first turn's prompt, which a headless start needs" },
+    {
+      said: "--prompt-file <path|->",
+      takes: "the file the prompt is read from, or `-` for what is piped in",
+    },
+    {
+      said: "--persona <slug>",
+      takes: "who this seat is, filling the role and the domain neither of which is said",
+    },
+    { said: "--role <slug>", takes: "what this seat does, outranking the persona's own role" },
+    {
+      said: "--domain <slug>",
+      takes: "where this seat works, outranking the persona's own domain",
+    },
+    {
+      said: "--principal <slug>",
+      takes: "who this seat's output is for — a person, or `agent` for the fleet",
+    },
+    {
+      said: "--flex <flex-n>",
+      takes: "`flex-` and a number, which is what keeps it out of every vocabulary",
+    },
+    { said: "--initiative <slug>", takes: "the initiative this seat carries" },
+    { said: "--account <account>", takes: "the claude account the seat is stamped with" },
+    { said: "--model <id>", takes: "the model the seat launched here runs on" },
+    { said: "--anthropic-base-url <url>", takes: "the base address the seat launched here calls" },
+    {
+      said: "--anthropic-auth-token <token>",
+      takes: "the token the seat launched here signs in with",
+    },
+    { said: "--json", takes: "answer a json record rather than the one line" },
+  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -17,11 +54,11 @@ export const seatStart = {
     },
     {
       invariantKind: "departure",
-      statement: "Every word said here is handed to the code unread.",
+      statement: "Every word said here but the help flag is handed to the code unread.",
     },
     {
       invariantKind: "departure",
-      statement: "A help flag is answered by the code rather than from this page.",
+      statement: "A help flag is answered from this page rather than by the code.",
     },
     {
       invariantKind: "departure",
