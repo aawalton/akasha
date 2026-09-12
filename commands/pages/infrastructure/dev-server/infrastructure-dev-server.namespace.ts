@@ -8,7 +8,7 @@ export const infrastructureDevServer = {
   name: "dev-server",
   parts: [
     "command/infrastructure-dev-server-bootstrap",
-    "command/infrastructure-dev-server-logs",
+    "command/infrastructure-dev-server-log",
     "command/infrastructure-dev-server-restart",
     "command/infrastructure-dev-server-start",
     "command/infrastructure-dev-server-status",

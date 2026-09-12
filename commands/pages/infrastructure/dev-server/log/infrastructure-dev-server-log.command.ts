@@ -1,13 +1,13 @@
 import type { Command } from "akasha/commands/command.page-type.types.ts"
 
-export const infrastructureDevServerLogs = {
+export const infrastructureDevServerLog = {
   id: "01a09404-76c2-7202-b118-752495e599e2",
   type: "command",
-  slug: "infrastructure-dev-server-logs",
+  slug: "infrastructure-dev-server-log",
   definition: "the command answering the tail of one dev server's captured output",
   code: "ts",
   test: "ts",
-  name: "logs",
+  name: "log",
   parts: ["module/last-lines"],
   invariants: [
     {

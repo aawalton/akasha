@@ -12,8 +12,8 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { infrastructureDevServerLogs as page } from "akasha/commands/pages/infrastructure/dev-server/logs/infrastructure-dev-server-logs.command.ts"
-import { lastLinesOf } from "akasha/commands/pages/infrastructure/dev-server/logs/last-lines/last-lines.module.code.ts"
+import { infrastructureDevServerLog as page } from "akasha/commands/pages/infrastructure/dev-server/log/infrastructure-dev-server-log.command.ts"
+import { lastLinesOf } from "akasha/commands/pages/infrastructure/dev-server/log/last-lines/last-lines.module.code.ts"
 import {
   logFilePath,
   lookupApp,
@@ -34,7 +34,7 @@ async function tailing(read: {
   return told(await lastLinesOf(path, read.tail))
 }
 
-export async function infrastructureDevServerLogs(
+export async function infrastructureDevServerLog(
   argv: readonly string[],
   given: Given
 ): Promise<Answer> {
