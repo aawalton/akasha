@@ -69,5 +69,15 @@ export const deployChoosing = {
       invariantKind: "gap",
       statement: "A ring of services depending on each other is chosen from by nothing here.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "Whether a service wants a deploy is a question asked here rather than a fact handed in.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "That question is put in order, furthest behind first, and stops at the one chosen.",
+    },
   ],
 } as const satisfies Module

@@ -16,7 +16,10 @@ import {
   WORKSTATION_SERVICE,
 } from "akasha/commands/pages/deploy/kind-reading/deploy-kind-reading.module.code.ts"
 import { told } from "akasha/git/running/git-running.module.code.ts"
-import type { Candidate } from "akasha/infrastructure/services/deploy-choosing/deploy-choosing.module.code.ts"
+import type {
+  Candidate,
+  Wanting,
+} from "akasha/infrastructure/services/deploy-choosing/deploy-choosing.module.code.ts"
 import {
   type Subject,
   subjectsOf,
@@ -38,31 +41,58 @@ export function readAs(subject: Subject): Named {
   return { kind: subject.kind, pagePath: subject.pagePath }
 }
 
+export type Changing = (was: string) => readonly string[]
+
+export function changingIn(root: string, commit: string): Changing {
+  const held = new Map<string, readonly string[]>()
+  return (was) => {
+    const found = held.get(was)
+    if (found !== undefined) return found
+    const changed = changedBetween(root, was, commit)
+    held.set(was, changed)
+    return changed
+  }
+}
+
 export function wantsIn(
   root: string,
   subject: Subject,
   was: string | null,
-  commit: string,
-  reading: Reading
+  reading: Reading,
+  changing: Changing
 ): boolean {
   if (was === null) return true
-  const changed = changedBetween(root, was, commit)
+  const changed = changing(was)
   if (changed.length === 0) return false
   const built = closureIn(reading, root, subject.slug, readAs(subject))
   return changed.some((one) => built.has(one))
 }
 
+export function wantingIn(root: string, kind: Named["kind"], commit: string): Wanting {
+  const subjects = new Map(subjectsOf(root, kind).map((one) => [one.slug, one] as const))
+  const reading = readingAt(root, commit)
+  const changing = changingIn(root, commit)
+  const held = new Map<string, boolean>()
+  return (one) => {
+    const found = held.get(one.slug)
+    if (found !== undefined) return found
+    const subject = subjects.get(one.slug)
+    const was =
+      subject === undefined ? null : sinceCommit(root, commitRecordedIn(root, subject.pagePath))
+    const answer = subject === undefined ? false : wantsIn(root, subject, was, reading, changing)
+    held.set(one.slug, answer)
+    return answer
+  }
+}
+
 export function candidateFor(
   root: string,
   subject: Subject,
-  commit: string,
-  deploying: boolean = false,
-  reading: Reading = readingAt(root, commit)
+  deploying: boolean = false
 ): Candidate {
   const was = sinceCommit(root, commitRecordedIn(root, subject.pagePath))
   return {
     slug: subject.slug,
-    wants: wantsIn(root, subject, was, commit, reading),
     deploying,
     deployedAt: was === null ? null : committedAt(root, was),
     deployEndedAt: endedIn(root, subject.pagePath),
@@ -74,11 +104,7 @@ export function candidateFor(
 export function candidatesIn(
   root: string,
   kind: Named["kind"],
-  commit: string,
   deploying: ReadonlySet<string> = new Set<string>()
 ): readonly Candidate[] {
-  const reading = readingAt(root, commit)
-  return subjectsOf(root, kind).map((one) =>
-    candidateFor(root, one, commit, deploying.has(one.slug), reading)
-  )
+  return subjectsOf(root, kind).map((one) => candidateFor(root, one, deploying.has(one.slug)))
 }

@@ -19,7 +19,10 @@ import {
   type Candidate,
   chosenFrom,
 } from "akasha/infrastructure/services/deploy-choosing/deploy-choosing.module.code.ts"
-import { candidatesIn } from "akasha/infrastructure/services/deploy-wanting/deploy-wanting.module.code.ts"
+import {
+  candidatesIn,
+  wantingIn,
+} from "akasha/infrastructure/services/deploy-wanting/deploy-wanting.module.code.ts"
 import {
   type Refused,
   runOf,
@@ -78,8 +81,7 @@ export function saidOfNothing(
   every: readonly Candidate[],
   deploying: ReadonlySet<string>
 ): string {
-  const wanting = every.filter((one) => one.wants).length
-  return `nothing of \`${kind}\` was put up — ${counted(wanting, A_SERVICE)} of ${every.length} want a deploy, and ${deploying.size} already have one running`
+  return `nothing of \`${kind}\` was put up — ${counted(every.length, A_SERVICE)} were weighed, and ${deploying.size} already have a deploy running`
 }
 
 export function ticked(
@@ -97,8 +99,8 @@ export function ticked(
   }
   const deploying = heldNow(root)
   const commit = headOf(root)
-  const every = candidatesIn(root, kind, commit, deploying)
-  const chosen = chosenFrom(every, now)
+  const every = candidatesIn(root, kind, deploying)
+  const chosen = chosenFrom(every, now, wantingIn(root, kind, commit))
   if (chosen === null) return { said: [saidOfNothing(kind, every, deploying)], wrong: [] }
   const argv = deployArgv(root, tree, chosen.slug)
   if ("refused" in argv) return { said: [], wrong: [argv.refused] }

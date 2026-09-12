@@ -52,5 +52,14 @@ export const deployWanting = {
       invariantKind: "departure",
       statement: "Every candidate of one kind is weighed against one reading of the commit.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A service asked twice in one tick is answered from what the first answer held.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What changed since one commit is asked of git once a tick however many services name it.",
+    },
   ],
 } as const satisfies Module

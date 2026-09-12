@@ -11,10 +11,9 @@ import {
   scopeFor,
 } from "akasha/infrastructure/services/deploy-looping/deploy-looping.module.code.ts"
 
-function candidate(slug: string, wants: boolean): Candidate {
+function candidate(slug: string): Candidate {
   return {
     slug,
-    wants,
     deploying: false,
     deployedAt: null,
     deployEndedAt: null,
@@ -38,15 +37,10 @@ test("a deploy is run from the tree, under a scope of its own", () => {
   expect(words.some((one) => one.startsWith("/tree/"))).toBe(true)
 })
 
-test("a tick putting nothing up says how many wanted one and how many were running", () => {
-  const said = saidOfNothing(
-    "web-app",
-    [candidate("one", true), candidate("two", false)],
-    new Set(["one"])
-  )
+test("a tick putting nothing up says how many were weighed and how many were running", () => {
+  const said = saidOfNothing("web-app", [candidate("one"), candidate("two")], new Set(["one"]))
   expect(said).toContain("web-app")
-  expect(said).toContain("1 service")
-  expect(said).toContain("of 2")
+  expect(said).toContain("2 services")
   expect(said).toContain("1 already")
 })
 

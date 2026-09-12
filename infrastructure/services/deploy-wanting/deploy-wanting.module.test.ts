@@ -3,6 +3,7 @@ import { readingAt } from "akasha/commands/pages/deploy/file-closure/deploy-file
 import { COOLDOWN_SECONDS } from "akasha/infrastructure/services/deploy-choosing/deploy-choosing.module.code.ts"
 import type { Subject } from "akasha/infrastructure/services/deploy-subject-listing/deploy-subject-listing.module.code.ts"
 import {
+  changingIn,
   committedAt,
   readAs,
   wantsIn,
@@ -41,13 +42,16 @@ test("a commit git resolves has the moment it was made", () => {
 })
 
 test("a service nothing has put up wants a deploy", () => {
-  expect(
-    wantsIn(ROOT, subject("web-app", "temper-web"), null, "HEAD", readingAt(ROOT, "HEAD"))
-  ).toBe(true)
+  const one = subject("web-app", "temper-web")
+  expect(wantsIn(ROOT, one, null, readingAt(ROOT, "HEAD"), changingIn(ROOT, "HEAD"))).toBe(true)
 })
 
 test("a service put up at the same commit wants nothing", () => {
-  expect(
-    wantsIn(ROOT, subject("web-app", "temper-web"), "HEAD", "HEAD", readingAt(ROOT, "HEAD"))
-  ).toBe(false)
+  const one = subject("web-app", "temper-web")
+  expect(wantsIn(ROOT, one, "HEAD", readingAt(ROOT, "HEAD"), changingIn(ROOT, "HEAD"))).toBe(false)
+})
+
+test("one commit's diff is asked of git once however many services were put up at it", () => {
+  const changing = changingIn(ROOT, "HEAD")
+  expect(changing("HEAD")).toBe(changing("HEAD"))
 })

@@ -2,13 +2,14 @@ export const COOLDOWN_SECONDS = 60
 
 export type Candidate = {
   readonly slug: string
-  readonly wants: boolean
   readonly deploying: boolean
   readonly deployedAt: number | null
   readonly deployEndedAt: number | null
   readonly cooldownSeconds: number
   readonly dependsOn: readonly string[]
 }
+
+export type Wanting = (one: Candidate) => boolean
 
 export function cooledBy(one: Candidate, now: number): boolean {
   if (one.deployEndedAt === null) return true
@@ -17,20 +18,17 @@ export function cooledBy(one: Candidate, now: number): boolean {
 
 export function heldBackBy(
   one: Candidate,
-  every: ReadonlyMap<string, Candidate>
+  every: ReadonlyMap<string, Candidate>,
+  wants: Wanting
 ): readonly string[] {
-  return one.dependsOn.filter((slug) => every.get(slug)?.wants === true)
+  return one.dependsOn.filter((slug) => {
+    const two = every.get(slug)
+    return two !== undefined && wants(two)
+  })
 }
 
 export function byName(every: readonly Candidate[]): ReadonlyMap<string, Candidate> {
   return new Map(every.map((one) => [one.slug, one]))
-}
-
-export function ableIn(every: readonly Candidate[], now: number): readonly Candidate[] {
-  const held = byName(every)
-  return every.filter(
-    (one) => one.wants && !one.deploying && cooledBy(one, now) && heldBackBy(one, held).length === 0
-  )
 }
 
 export function furtherBehind(one: Candidate, two: Candidate): number {
@@ -42,7 +40,18 @@ export function furtherBehind(one: Candidate, two: Candidate): number {
   return one.slug < two.slug ? -1 : one.slug > two.slug ? 1 : 0
 }
 
-export function chosenFrom(every: readonly Candidate[], now: number): Candidate | null {
-  const able = [...ableIn(every, now)].sort(furtherBehind)
-  return able[0] ?? null
+export function chosenFrom(
+  every: readonly Candidate[],
+  now: number,
+  wants: Wanting
+): Candidate | null {
+  const held = byName(every)
+  for (const one of [...every].sort(furtherBehind)) {
+    if (one.deploying) continue
+    if (!cooledBy(one, now)) continue
+    if (!wants(one)) continue
+    if (heldBackBy(one, held, wants).length > 0) continue
+    return one
+  }
+  return null
 }

@@ -44,7 +44,7 @@ export const deployLooping = {
     {
       invariantKind: "departure",
       statement:
-        "A tick that puts nothing up says how many wanted a deploy and how many were running.",
+        "A tick that puts nothing up says how many were weighed and how many were running.",
     },
     {
       invariantKind: "absence",
