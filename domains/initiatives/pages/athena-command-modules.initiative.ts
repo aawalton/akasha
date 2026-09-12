@@ -17,7 +17,7 @@ export const athenaCommandModules = {
       statement:
         "A command that wrote before it threw says in its refusal what that command wrote.",
       workingMemory:
-        "A sweep judged 107 of 236 command files; 129 sit in trees other agents hold. Five more closed: `13b1718154d`, `0325a25180b`, `6d097655122`, `b81c4b70f20`, `5bc76cec3cb`. 38 still write before they throw and name nothing, and two refuse with a falsehood: `applying.module.code.ts:205` says `nothing was committed` after the commit landed, and `audit-answering` says `nothing was judged` after the service judged. Both are shared-module mends, in hand.",
+        "The four refusals that stated a falsehood are mended: `applying` names the commit and drops the folded edits (`960b8da613c3`), `audit` and `audit-answering` name each round that ran (`a970ead831c6`), and `page-secret-acting` names its commit (`6284dba36f22`). A sweep judged 107 of 236 command files and closed five; 38 in those 107 still write before they throw and name nothing. The other 129 are under sweep now.",
     },
   ],
   constraints: [
