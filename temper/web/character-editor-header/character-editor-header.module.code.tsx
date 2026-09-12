@@ -7,7 +7,7 @@ import { LayoutLink as Link } from "akasha/design/interfaces/layout/router-conte
 import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
-import type { BuildVisibility } from "akasha/temper/build-support/build-visibility/build-visibility.module.code.ts"
+import type { BuildVisibility } from "akasha/temper/build-support/modules/build-visibility/build-visibility.module.code.ts"
 import { BuildActionButtons } from "akasha/temper/web/modules/build-action-buttons/build-action-buttons.module.code.tsx"
 import { ChevronLeft, Copy, Eye, Search, Target } from "lucide-react"
 

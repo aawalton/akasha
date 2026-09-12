@@ -1,6 +1,6 @@
 "use client"
 
-import type { BuildVisibility } from "akasha/temper/build-support/build-visibility/build-visibility.module.code.ts"
+import type { BuildVisibility } from "akasha/temper/build-support/modules/build-visibility/build-visibility.module.code.ts"
 import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import type { BuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { CompanionProvider } from "akasha/temper/web/companion-context/companion-context.module.code.tsx"

@@ -4,7 +4,6 @@ import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-co
 import type { useOptimisticPatchPage } from "akasha/pages/ui/supabase/mutations/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
 import type { RoleId } from "akasha/temper/character-sources/character-roles/character-roles.module.code.ts"
 import type { useCompletionCharactersByUser } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
-import type { DecodedBuild } from "akasha/temper/web/builds-browse-tab/builds-browse-tab.module.code.tsx"
 import {
   CharacterEntityPanelCard,
   type CharacterPlanEntity,
@@ -20,6 +19,7 @@ import {
 } from "akasha/temper/web/characters-filter-types/characters-filter-types.module.code.ts"
 import { CharactersPlanEmpty } from "akasha/temper/web/characters-plan-empty/characters-plan-empty.module.code.tsx"
 import { decidePlanEmptyState } from "akasha/temper/web/characters-plan-empty-state/characters-plan-empty-state.module.code.ts"
+import type { DecodedBuild } from "akasha/temper/web/modules/builds-browse-tab/builds-browse-tab.module.code.tsx"
 import { useCallback, useMemo } from "react"
 
 type CompletionCharacterRows = ReturnType<typeof useCompletionCharactersByUser>["characters"]

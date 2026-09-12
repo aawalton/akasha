@@ -3,7 +3,7 @@
 import type {
   BuildVisibility,
   SettableBuildVisibility,
-} from "akasha/temper/build-support/build-visibility/build-visibility.module.code.ts"
+} from "akasha/temper/build-support/modules/build-visibility/build-visibility.module.code.ts"
 import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import type { BuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import type { CompanionAction } from "akasha/temper/web/companion-actions/companion-actions.module.code.ts"

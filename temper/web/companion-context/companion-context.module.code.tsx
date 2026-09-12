@@ -7,7 +7,7 @@ import {
 import {
   type BuildVisibility,
   toBuildVisibility,
-} from "akasha/temper/build-support/build-visibility/build-visibility.module.code.ts"
+} from "akasha/temper/build-support/modules/build-visibility/build-visibility.module.code.ts"
 import {
   decodeCompanion,
   encodeCompanion,

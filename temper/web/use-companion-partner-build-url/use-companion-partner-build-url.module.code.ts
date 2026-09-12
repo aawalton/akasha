@@ -1,5 +1,5 @@
-import type { BuildVisibility } from "akasha/temper/build-support/build-visibility/build-visibility.module.code.ts"
 import { companionUrl } from "akasha/temper/build-support/modules/build-url/build-url.module.code.ts"
+import type { BuildVisibility } from "akasha/temper/build-support/modules/build-visibility/build-visibility.module.code.ts"
 import type { useCompanionList } from "akasha/temper/companions-ui/use-companions/use-companions.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import type { useCompletionCompanions } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"

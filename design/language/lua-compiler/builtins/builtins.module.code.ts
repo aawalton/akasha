@@ -1,25 +1,4 @@
 import {
-  transformArrayConstructorCall,
-  transformArrayProperty,
-  transformArrayPrototypeCall,
-} from "akasha/design/language/lua-compiler/builtin-array/builtin-array.module.code.ts"
-import { transformConsoleCall } from "akasha/design/language/lua-compiler/builtin-console/builtin-console.module.code.ts"
-import {
-  transformFunctionProperty,
-  transformFunctionPrototypeCall,
-} from "akasha/design/language/lua-compiler/builtin-function/builtin-function.module.code.ts"
-import { tryTransformBuiltinGlobalCall } from "akasha/design/language/lua-compiler/builtin-global/builtin-global.module.code.ts"
-import { transformMapConstructorCall } from "akasha/design/language/lua-compiler/builtin-map/builtin-map.module.code.ts"
-import {
-  transformMathCall,
-  transformMathProperty,
-} from "akasha/design/language/lua-compiler/builtin-math/builtin-math.module.code.ts"
-import {
-  transformNumberConstructorCall,
-  transformNumberProperty,
-  transformNumberPrototypeCall,
-} from "akasha/design/language/lua-compiler/builtin-number/builtin-number.module.code.ts"
-import {
   transformObjectConstructorCall,
   tryTransformObjectPrototypeCall,
 } from "akasha/design/language/lua-compiler/builtin-object/builtin-object.module.code.ts"
@@ -40,6 +19,27 @@ import {
   transformLuaLibFunction,
 } from "akasha/design/language/lua-compiler/lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "akasha/design/language/lua-compiler/lualib-features/lualib-features.module.code.ts"
+import {
+  transformArrayConstructorCall,
+  transformArrayProperty,
+  transformArrayPrototypeCall,
+} from "akasha/design/language/lua-compiler/modules/builtin-array/builtin-array.module.code.ts"
+import { transformConsoleCall } from "akasha/design/language/lua-compiler/modules/builtin-console/builtin-console.module.code.ts"
+import {
+  transformFunctionProperty,
+  transformFunctionPrototypeCall,
+} from "akasha/design/language/lua-compiler/modules/builtin-function/builtin-function.module.code.ts"
+import { tryTransformBuiltinGlobalCall } from "akasha/design/language/lua-compiler/modules/builtin-global/builtin-global.module.code.ts"
+import { transformMapConstructorCall } from "akasha/design/language/lua-compiler/modules/builtin-map/builtin-map.module.code.ts"
+import {
+  transformMathCall,
+  transformMathProperty,
+} from "akasha/design/language/lua-compiler/modules/builtin-math/builtin-math.module.code.ts"
+import {
+  transformNumberConstructorCall,
+  transformNumberProperty,
+  transformNumberPrototypeCall,
+} from "akasha/design/language/lua-compiler/modules/builtin-number/builtin-number.module.code.ts"
 import { getIdentifierSymbolId } from "akasha/design/language/lua-compiler/symbols/symbols.module.code.ts"
 import { maybeWrapThisVoidAsAdapter } from "akasha/design/language/lua-compiler/this-void-adapter/this-void-adapter.module.code.ts"
 import {

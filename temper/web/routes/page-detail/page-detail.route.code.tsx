@@ -17,7 +17,7 @@ import {
   applyCharacterMetadata,
   applyCompanionMetadata,
 } from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
-import { toBuildVisibility } from "akasha/temper/build-support/build-visibility/build-visibility.module.code.ts"
+import { toBuildVisibility } from "akasha/temper/build-support/modules/build-visibility/build-visibility.module.code.ts"
 import { createEmptyCharacter } from "akasha/temper/character-build/modules/build-factory/build-factory.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import { skills } from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"

@@ -14,12 +14,12 @@ import {
   type CompanionBuildMetadata,
   extractCompanionMetadata,
 } from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
-import type { SettableBuildVisibility } from "akasha/temper/build-support/build-visibility/build-visibility.module.code.ts"
 import {
   type BuildRow,
   mapBuildRow,
 } from "akasha/temper/build-support/modules/build-row/build-row.module.code.ts"
 import { companionUrl } from "akasha/temper/build-support/modules/build-url/build-url.module.code.ts"
+import type { SettableBuildVisibility } from "akasha/temper/build-support/modules/build-visibility/build-visibility.module.code.ts"
 import { encodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
 import {
   type CompanionBaseRoleId,
