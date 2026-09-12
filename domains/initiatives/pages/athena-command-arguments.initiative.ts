@@ -22,7 +22,7 @@ export const athenaCommandArguments = {
       statement:
         "One reader reads every command's arguments from the pages, refusing what no page names.",
       workingMemory:
-        "`takenFor` is the one reader, and the check's three blind spots are mended: module code under `commands/pages`, a call followed one file on, a dynamic `await import()`. It refuses 15 over three commands at `9b56121c79b` and is `experimental`, so it judges nothing: flipping it stops every landing until `change apply` and `change draft` are exempted, and no check here has an exemption shape. Outside it: `parse-args`, whose last caller is Alan's `sr`. Alan's: retiring it changes what `sr` runs.\n",
+        "`takenFor` is the one reader, and the check's three blind spots are mended: module code under `commands/pages`, a call followed one file on, a dynamic `await import()`. It refuses 15 over three commands at `9b56121c79b`, still `experimental`. The flip is measured safe: the change phase judges only paths a change carries, and no closure of 176 slugs holds those three, so only `alan tracking` blocks it. `parse-args` is outside it, last called by Alan's `sr`, whose runs retiring it changes.\n",
     },
     {
       statement:
@@ -33,7 +33,7 @@ export const athenaCommandArguments = {
     {
       statement: "One spelling names one argument, and one argument has one spelling.",
       workingMemory:
-        "30 spellings are carried by more than one argument page at `b365d4a17ab`, down from 37 at `e659f26d471`: `--to` by six, `--query` by five, `--file-path`, `--all` and `--from` by four, then 19 pairs. No command names two alike, so no call is ambiguous. Each page was minted for one meaning with the contested spelling kept, which claims nothing and changes nothing a caller types. Alan's: does one argument having one spelling rename these 30?\n",
+        "30 spellings are carried by more than one argument page at `b365d4a17ab`: 19 pairs, 6 triples, 3 quads, `--query` by five and `--to` by six. The `down from 37` was mine and does not reproduce: `e659f26d471` had 216 pages and 10 such spellings, so it rose. No command names two alike, so no call is ambiguous. Each page was minted for one meaning with the contested spelling kept, which claims nothing and changes nothing a caller types. Alan's: does one argument having one spelling rename these 30?\n",
     },
   ],
 } as const satisfies Initiative

@@ -11,7 +11,7 @@ export const athenaCommandModules = {
     {
       statement: "One function builds a command's refusal.",
       workingMemory:
-        "`answeredWith` stays: it alone carries a report and refusals at once, and `model-test` `:64` answers non-zero refusing nothing, which no refusal builder can say. `refusedBy` is `answeredWith` with the report fixed at `[]`, so the refusal builders are the special case. Five invariants landed at `5eb64d01ba4`. Left: three hand-built records inside `command-answering` — `faulted`, `unclassified` and `answering`'s catch — each identical to a builder in the same file. `told` is Alan's.\n",
+        "`answeredWith` stays: it alone carries a report and refusals at once, and `model-test` `:64` answers non-zero refusing nothing, which no refusal builder can say. `refusedBy` is `answeredWith` with the report fixed at `[]`, so the refusal builders are the special case. The three hand-built records inside `command-answering` — `faulted`, `unclassified` and `answering`'s catch — went at `7f47d2c7396`, and the rule's own false invariant was mended at `d4eab0a2dc5`. Left: `told`, Alan's.\n",
     },
   ],
   constraints: [
