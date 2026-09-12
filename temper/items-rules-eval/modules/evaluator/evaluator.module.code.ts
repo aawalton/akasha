@@ -1,5 +1,5 @@
-import { formatActionLabel } from "akasha/temper/items-rules-core/inventory-rule-action-labels/inventory-rule-action-labels.module.code.ts"
-import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+import { formatActionLabel } from "akasha/temper/items-rules-core/modules/inventory-rule-action-labels/inventory-rule-action-labels.module.code.ts"
+import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
 import { categoryMatchesItem } from "akasha/temper/items-rules-eval/modules/category-match/category-match.module.code.ts"
 import { resolveDestination } from "akasha/temper/items-rules-eval/modules/destination-resolve/destination-resolve.module.code.ts"

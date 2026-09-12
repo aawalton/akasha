@@ -3,14 +3,14 @@ import {
   PLAYER_JEWELRY_ESO_TO_TRAIT,
   PLAYER_WEAPON_ESO_TO_TRAIT,
 } from "akasha/temper/equipment/modules/eso-trait-map/eso-trait-map.module.code.ts"
+import type { MatchContext } from "akasha/temper/items-addon/inventory-rules-conditions-render/inventory-rules-conditions-render.module.code.ts"
+import { inferDeconCraftingType } from "akasha/temper/items-addon/inventory-rules-core-inspire/inventory-rules-core-inspire.module.code.ts"
 import {
   findItemInInventory,
   isItemLinkCraftedSafe,
   lookupTtcPricing,
-} from "akasha/temper/items-addon/inventory-item-data/inventory-item-data.module.code.ts"
-import { isItemLinkQuestRelevant } from "akasha/temper/items-addon/inventory-quest-relevance/inventory-quest-relevance.module.code.ts"
-import type { MatchContext } from "akasha/temper/items-addon/inventory-rules-conditions-render/inventory-rules-conditions-render.module.code.ts"
-import { inferDeconCraftingType } from "akasha/temper/items-addon/inventory-rules-core-inspire/inventory-rules-core-inspire.module.code.ts"
+} from "akasha/temper/items-addon/modules/inventory-item-data/inventory-item-data.module.code.ts"
+import { isItemLinkQuestRelevant } from "akasha/temper/items-addon/modules/inventory-quest-relevance/inventory-quest-relevance.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 
 export function buildMatchContext(

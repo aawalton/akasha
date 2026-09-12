@@ -1,4 +1,4 @@
-import type { InventoryImportResult } from "akasha/temper/player-inventory-management-ui/inventory-import-types/inventory-import-types.module.code.ts"
+import type { InventoryImportResult } from "akasha/temper/player-inventory-management-ui/modules/inventory-import-types/inventory-import-types.module.code.ts"
 import type { ImportResult } from "akasha/temper/web/modules/import-result/import-result.module.code.ts"
 
 type EntityStatus = ImportResult["account"]["status"]

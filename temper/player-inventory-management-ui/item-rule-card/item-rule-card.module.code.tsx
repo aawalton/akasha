@@ -20,12 +20,12 @@ import {
   SelectValue,
 } from "akasha/design/interfaces/primitives/select-control/select-control.module.code.tsx"
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
+import type { ItemRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {
   goalIdToValue,
   goalValueToId,
   inventoryRuleGoals,
-} from "akasha/temper/items-rules-core/inventory-rule-goals/inventory-rule-goals.module.code.ts"
-import type { ItemRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items-rules-core/modules/inventory-rule-goals/inventory-rule-goals.module.code.ts"
 import { itemRuleActionHandlers } from "akasha/temper/player-inventory-management-ui/item-rule-card-action-handlers/item-rule-card-action-handlers.module.code.ts"
 import { ItemRuleCardDialogs } from "akasha/temper/player-inventory-management-ui/item-rule-card-dialogs/item-rule-card-dialogs.module.code.tsx"
 import {

@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
 import { ctxWith } from "akasha/temper/items-rules-eval/modules/check-container-fixtures/check-container-fixtures.module.code.ts"
 import { walkRules } from "akasha/temper/items-rules-eval/modules/evaluator/evaluator.module.code.ts"

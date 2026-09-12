@@ -1,4 +1,3 @@
-import { getGuildBankLocationKey } from "akasha/temper/items-addon/inventory-location-keys/inventory-location-keys.module.code.ts"
 import {
   clearPendingAction,
   forEachPendingAction,
@@ -20,6 +19,7 @@ import { runRefinePass } from "akasha/temper/items-addon/inventory-rules-dispatc
 import { evaluateRules } from "akasha/temper/items-addon/inventory-rules-eval/inventory-rules-eval.module.code.ts"
 import { dispatchWritCrafting } from "akasha/temper/items-addon/inventory-writ-crafting-dispatch/inventory-writ-crafting-dispatch.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/items-addon/modules/inventory-constants/inventory-constants.module.code.ts"
+import { getGuildBankLocationKey } from "akasha/temper/items-addon/modules/inventory-location-keys/inventory-location-keys.module.code.ts"
 import type { ItemAction } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 

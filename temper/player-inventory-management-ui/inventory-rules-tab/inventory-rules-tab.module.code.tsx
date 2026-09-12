@@ -11,7 +11,7 @@ import {
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import { partitionUnmanagedGuildBanks } from "akasha/temper/items-core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
-import { classifyAllInventoryItems } from "akasha/temper/items-rules-matcher/inventory-item-classifier/inventory-item-classifier.module.code.ts"
+import { classifyAllInventoryItems } from "akasha/temper/items-rules-matcher/modules/inventory-item-classifier/inventory-item-classifier.module.code.ts"
 import { InventoryRulesFilterBar } from "akasha/temper/player-inventory-management-ui/inventory-rules-filter-bar/inventory-rules-filter-bar.module.code.tsx"
 import { EntityRulesPanels } from "akasha/temper/player-inventory-management-ui/inventory-rules-tab-entity-rules-panels/inventory-rules-tab-entity-rules-panels.module.code.tsx"
 import { ItemRulesPanels } from "akasha/temper/player-inventory-management-ui/inventory-rules-tab-item-rules-panels/inventory-rules-tab-item-rules-panels.module.code.tsx"

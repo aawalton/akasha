@@ -1,9 +1,9 @@
+import { getSavedVariables } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import {
   findCooldownGroup,
   getDlcDailyCooldownRemaining,
   isOpenCooldownEnabled,
-} from "akasha/temper/items-addon/inventory-open-cooldown-protection/inventory-open-cooldown-protection.module.code.ts"
-import { getSavedVariables } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
+} from "akasha/temper/items-addon/modules/inventory-open-cooldown-protection/inventory-open-cooldown-protection.module.code.ts"
 export function registerTooltipHook(): undefined {
   const originalSetBagItem = ItemTooltip.SetBagItem
 

@@ -11,7 +11,7 @@ import { formatGold } from "akasha/design/interfaces/primitives/modules/format-g
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
-import type { InventoryLeafNode } from "akasha/temper/items-core/inventory-node-types/inventory-node-types.module.code.ts"
+import type { InventoryLeafNode } from "akasha/temper/items-core/modules/inventory-node-types/inventory-node-types.module.code.ts"
 
 export interface ValueExplanationData {
   itemName: string

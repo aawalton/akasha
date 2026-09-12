@@ -1,4 +1,3 @@
-import type { InventoryNode } from "akasha/temper/items-core/inventory-node-types/inventory-node-types.module.code.ts"
 import { ITEM_CATEGORY_TREE } from "akasha/temper/items-core/item-category-tree-data/item-category-tree-data.module.code.ts"
 import type {
   ItemCategoryNode,
@@ -15,6 +14,7 @@ import type {
   InventoryTypeCategory,
   InventoryTypeEntry,
 } from "akasha/temper/items-core/modules/inventory-grouping-types/inventory-grouping-types.module.code.ts"
+import type { InventoryNode } from "akasha/temper/items-core/modules/inventory-node-types/inventory-node-types.module.code.ts"
 import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 
 function buildLeaf(entry: InventoryTypeEntry, useCompanionTraits: boolean): InventoryNode {

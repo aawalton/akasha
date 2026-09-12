@@ -1,4 +1,3 @@
-import { moveItem } from "akasha/temper/items-addon/inventory-move-item/inventory-move-item.module.code.ts"
 import { showConfirmDialog } from "akasha/temper/items-addon/inventory-rules-core-confirm-dialog/inventory-rules-core-confirm-dialog.module.code.ts"
 import { formatItemList } from "akasha/temper/items-addon/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
 import {
@@ -9,6 +8,7 @@ import {
   scanGuildBankGroups,
 } from "akasha/temper/items-addon/inventory-rules-dispatch-guild-repack-scan/inventory-rules-dispatch-guild-repack-scan.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/items-addon/modules/inventory-constants/inventory-constants.module.code.ts"
+import { moveItem } from "akasha/temper/items-addon/modules/inventory-move-item/inventory-move-item.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 

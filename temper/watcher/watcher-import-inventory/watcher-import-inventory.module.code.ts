@@ -1,9 +1,5 @@
 import type { Asked, Query } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
-import { readManagedGuildBanks } from "akasha/temper/items-core/inventory-guild-bank-types/inventory-guild-bank-types.module.code.ts"
-import { computeNetWorth } from "akasha/temper/items-core/inventory-net-worth/inventory-net-worth.module.code.ts"
-import type { NetWorthResult } from "akasha/temper/items-core/inventory-net-worth-types/inventory-net-worth-types.module.code.ts"
-import { parseInventoryContent } from "akasha/temper/items-core/inventory-parser/inventory-parser.module.code.ts"
 import type {
   InventoryDatabase,
   PriceSource,
@@ -14,6 +10,10 @@ import {
   type ExclusionReason,
   partitionUnmanagedGuildBanks,
 } from "akasha/temper/items-core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
+import { readManagedGuildBanks } from "akasha/temper/items-core/modules/inventory-guild-bank-types/inventory-guild-bank-types.module.code.ts"
+import { computeNetWorth } from "akasha/temper/items-core/modules/inventory-net-worth/inventory-net-worth.module.code.ts"
+import type { NetWorthResult } from "akasha/temper/items-core/modules/inventory-net-worth-types/inventory-net-worth-types.module.code.ts"
+import { parseInventoryContent } from "akasha/temper/items-core/modules/inventory-parser/inventory-parser.module.code.ts"
 import { shardInventoryJson } from "akasha/temper/items-core/shard-inventory/shard-inventory.module.code.ts"
 import { inventorySnapshotName } from "akasha/temper/watcher/watcher-inventory-snapshot-name/watcher-inventory-snapshot-name.module.code.ts"
 import {

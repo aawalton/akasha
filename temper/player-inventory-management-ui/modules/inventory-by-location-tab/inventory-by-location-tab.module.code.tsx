@@ -27,13 +27,13 @@ import {
   type InventoryLocationGroup,
 } from "akasha/temper/items-core/modules/inventory-grouping/inventory-grouping.module.code.ts"
 import type { ExcludedLocation } from "akasha/temper/items-core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
-import { InventoryLocationSummaryPanelCard } from "akasha/temper/player-inventory-management-ui/inventory-location-summary-panel-card/inventory-location-summary-panel-card.module.code.tsx"
+import { InventoryScopeNote } from "akasha/temper/player-inventory-management-ui/inventory-scope-note/inventory-scope-note.module.code.tsx"
+import { InventoryLocationSummaryPanelCard } from "akasha/temper/player-inventory-management-ui/modules/inventory-location-summary-panel-card/inventory-location-summary-panel-card.module.code.tsx"
 import {
   InventoryLocationTypePanelCard,
   type LocationTypeCardData,
-} from "akasha/temper/player-inventory-management-ui/inventory-location-type-panel-card/inventory-location-type-panel-card.module.code.tsx"
-import type { InventorySortMode } from "akasha/temper/player-inventory-management-ui/inventory-panel-card/inventory-panel-card.module.code.tsx"
-import { InventoryScopeNote } from "akasha/temper/player-inventory-management-ui/inventory-scope-note/inventory-scope-note.module.code.tsx"
+} from "akasha/temper/player-inventory-management-ui/modules/inventory-location-type-panel-card/inventory-location-type-panel-card.module.code.tsx"
+import type { InventorySortMode } from "akasha/temper/player-inventory-management-ui/modules/inventory-panel-card/inventory-panel-card.module.code.tsx"
 import { Search } from "lucide-react"
 import { useMemo } from "react"
 

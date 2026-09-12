@@ -8,13 +8,13 @@ import {
   unmappedItems,
   unmappedSaid,
 } from "akasha/commands/pages/temper/inventory/plan/temper-inventory-plan.command.code.ts"
+import type { AffectedItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import { IMPLICIT_TERMINAL_RULE_ID } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {
   type CompiledOrderedRule,
   IMPLICIT_TERMINAL_COMPILED_RULE,
-} from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
-import type { AffectedItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
-import { IMPLICIT_TERMINAL_RULE_ID } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-import type { ManagementPlan } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
+} from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+import type { ManagementPlan } from "akasha/temper/items-rules-routing-core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 
 const GIVEN: Given = {
   root: "/nowhere",

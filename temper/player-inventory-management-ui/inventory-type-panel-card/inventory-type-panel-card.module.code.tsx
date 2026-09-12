@@ -6,7 +6,7 @@ import type { InventoryTypeGroup } from "akasha/temper/items-core/modules/invent
 import {
   InventoryPanelCard,
   type InventorySortMode,
-} from "akasha/temper/player-inventory-management-ui/inventory-panel-card/inventory-panel-card.module.code.tsx"
+} from "akasha/temper/player-inventory-management-ui/modules/inventory-panel-card/inventory-panel-card.module.code.tsx"
 import { useMemo } from "react"
 
 interface InventoryTypePanelCardProps {

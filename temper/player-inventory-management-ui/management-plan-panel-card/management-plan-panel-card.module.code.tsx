@@ -15,7 +15,7 @@ import type {
   ManagementPlan,
   PlanItem,
   VenueStop,
-} from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
+} from "akasha/temper/items-rules-routing-core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 import {
   decideManagementPlanPanelState,
   type InventoryReadState,

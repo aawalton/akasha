@@ -1,9 +1,9 @@
 "use client"
 
 import { ItemCard } from "akasha/design/interfaces/patterns/item-card/item-card.module.code.tsx"
-import type { ControlledRule } from "akasha/temper/items-rules-core/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import type { CategoryRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { ControlledRule } from "akasha/temper/items-rules-core/modules/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
 import { getActionLabel } from "akasha/temper/player-inventory-management-ui/modules/action-options/action-options.module.code.ts"
 import { AffectedItemsDialog } from "akasha/temper/player-inventory-management-ui/modules/affected-items-dialog/affected-items-dialog.module.code.tsx"
 import { RuleCardActionRow } from "akasha/temper/player-inventory-management-ui/rule-card-action-row/rule-card-action-row.module.code.tsx"

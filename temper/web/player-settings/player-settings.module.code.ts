@@ -1,10 +1,10 @@
 "use client"
 
-import type { InventoryLoggingSettings } from "akasha/temper/items-core/inventory-logging-types/inventory-logging-types.module.code.ts"
 import {
   ALL_DESTRUCTIVE_ACTIONS,
   type InventorySafetySettings,
 } from "akasha/temper/items-core/inventory-safety-types/inventory-safety-types.module.code.ts"
+import type { InventoryLoggingSettings } from "akasha/temper/items-core/modules/inventory-logging-types/inventory-logging-types.module.code.ts"
 import { useSettingsBlob } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import type { ShoppingSettings } from "akasha/temper/shopping/shopping-settings/shopping-settings.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"

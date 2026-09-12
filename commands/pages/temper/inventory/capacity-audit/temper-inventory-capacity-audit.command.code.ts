@@ -16,8 +16,8 @@ import {
   capacityFilter,
   planInputs,
   ruleMatcher,
-} from "akasha/temper/commands/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
-import type { CapacityAudit } from "akasha/temper/items-rules-routing/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.code.ts"
+} from "akasha/temper/commands/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
+import type { CapacityAudit } from "akasha/temper/items-rules-routing/modules/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.code.ts"
 
 const TAKES = [json, inventoryPathArgument, charactersPathArgument]
 

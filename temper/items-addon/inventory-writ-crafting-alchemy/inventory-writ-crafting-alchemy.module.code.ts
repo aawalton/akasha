@@ -1,4 +1,3 @@
-import { captureOrNull } from "akasha/temper/items-addon/inventory-match-capture/inventory-match-capture.module.code.ts"
 import {
   REAGENT_TRAITS,
   solveReagentPairs,
@@ -16,6 +15,7 @@ import {
   recordMasterConsumableTrace,
 } from "akasha/temper/items-addon/inventory-writ-master-consumable-trace/inventory-writ-master-consumable-trace.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/items-addon/modules/inventory-constants/inventory-constants.module.code.ts"
+import { captureOrNull } from "akasha/temper/items-addon/modules/inventory-match-capture/inventory-match-capture.module.code.ts"
 
 const SOLVENT_ITEM_IDS = [883, 1187, 4570, 23265, 23266, 23267, 23268, 64500, 64501, 75364, 75365]
 

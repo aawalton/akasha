@@ -1,4 +1,3 @@
-import { isItemLinkCraftedSafe } from "akasha/temper/items-addon/inventory-item-data/inventory-item-data.module.code.ts"
 import {
   getDatabase,
   getSavedVariables,
@@ -20,6 +19,7 @@ import {
   LOC_HOUSE_PREFIX,
   SAVED_VARIABLES_NAME,
 } from "akasha/temper/items-addon/modules/inventory-constants/inventory-constants.module.code.ts"
+import { isItemLinkCraftedSafe } from "akasha/temper/items-addon/modules/inventory-item-data/inventory-item-data.module.code.ts"
 import { isCharacterLocationRow } from "akasha/temper/items-core/location-character-row/location-character-row.module.code.ts"
 export function initializeSavedVariables(): SavedVariablesData {
   const defaults: Record<string, unknown> = { ...SAVED_VARIABLES_DEFAULTS }

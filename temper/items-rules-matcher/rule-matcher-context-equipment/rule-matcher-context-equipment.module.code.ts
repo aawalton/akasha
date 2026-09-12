@@ -6,14 +6,14 @@ import {
 } from "akasha/temper/build-support/modules/automation-settings/automation-settings.module.code.ts"
 import { decodeCompanion } from "akasha/temper/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
-import type {
-  WantedCompanionEquipmentSignature,
-  WantedEquipmentSignature,
-} from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import {
   compileWantedCompanionEquipmentForBuild,
   compileWantedEquipmentForBuild,
 } from "akasha/temper/items-rules-core/modules/equipment-signature-compiler/equipment-signature-compiler.module.code.ts"
+import type {
+  WantedCompanionEquipmentSignature,
+  WantedEquipmentSignature,
+} from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type {
   CharacterBuildInput,
   CompanionBuildInput,

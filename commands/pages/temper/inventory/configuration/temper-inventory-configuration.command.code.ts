@@ -20,7 +20,7 @@ import {
 } from "akasha/temper/commands/modules/inventory-config-divergence/inventory-config-divergence.module.code.ts"
 import { loadTemperInventoryConfigFromPath } from "akasha/temper/commands/modules/inventory-config-reading/inventory-config-reading.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
-import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 
 const TAKES = [json, inventoryPathArgument, sectionArgument]
 

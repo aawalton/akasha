@@ -1,21 +1,7 @@
-import "akasha/temper/items-addon/inventory-public-api/inventory-public-api.module.code.ts"
+import "akasha/temper/items-addon/modules/inventory-public-api/inventory-public-api.module.code.ts"
 
 import { registerAddonInit } from "akasha/temper/addon-init/modules/addon-init/addon-init.module.code.ts"
 import { startPerfTrace } from "akasha/temper/capture-perf/perf-trace/perf-trace.module.code.ts"
-import { registerHudFields } from "akasha/temper/items-addon/inventory-hud-fields/inventory-hud-fields.module.code.ts"
-import { pruneConfirmedVerdicts } from "akasha/temper/items-addon/inventory-item-rule-verdict-store/inventory-item-rule-verdict-store.module.code.ts"
-import { registerLocationTooltip } from "akasha/temper/items-addon/inventory-location-tooltip/inventory-location-tooltip.module.code.ts"
-import { registerInventoryLockOverlay } from "akasha/temper/items-addon/inventory-lock-overlay/inventory-lock-overlay.module.code.ts"
-import { registerMailHandler } from "akasha/temper/items-addon/inventory-mail-handler/inventory-mail-handler.module.code.ts"
-import { cleanupExpiredCooldowns } from "akasha/temper/items-addon/inventory-open-cooldown-protection/inventory-open-cooldown-protection.module.code.ts"
-import {
-  scanCompanionWorn,
-  scanCraftBag,
-  scanPersonalBags,
-} from "akasha/temper/items-addon/inventory-ops/inventory-ops.module.code.ts"
-import { finishPerfTrace } from "akasha/temper/items-addon/inventory-perf/inventory-perf.module.code.ts"
-import { handleTemperPlanCommand } from "akasha/temper/items-addon/inventory-plan/inventory-plan.module.code.ts"
-import { pruneStaleAnnotations } from "akasha/temper/items-addon/inventory-quest-annotations/inventory-quest-annotations.module.code.ts"
 import { getCompiledConfig } from "akasha/temper/items-addon/inventory-rules-core/inventory-rules-core.module.code.ts"
 import { registerConfirmDialog } from "akasha/temper/items-addon/inventory-rules-core-confirm-dialog/inventory-rules-core-confirm-dialog.module.code.ts"
 import { repackGuildBank } from "akasha/temper/items-addon/inventory-rules-dispatch-guild-repack/inventory-rules-dispatch-guild-repack.module.code.ts"
@@ -54,6 +40,20 @@ import { registerEquipmentLockOverlay } from "akasha/temper/items-addon/modules/
 import { registerInventoryEvents } from "akasha/temper/items-addon/modules/inventory-events/inventory-events.module.code.ts"
 import { onTemperInventorySubcommand } from "akasha/temper/items-addon/modules/inventory-explain-slash-command/inventory-explain-slash-command.module.code.ts"
 import { initializeFilterBar } from "akasha/temper/items-addon/modules/inventory-filter-bar-init/inventory-filter-bar-init.module.code.ts"
+import { registerHudFields } from "akasha/temper/items-addon/modules/inventory-hud-fields/inventory-hud-fields.module.code.ts"
+import { pruneConfirmedVerdicts } from "akasha/temper/items-addon/modules/inventory-item-rule-verdict-store/inventory-item-rule-verdict-store.module.code.ts"
+import { registerLocationTooltip } from "akasha/temper/items-addon/modules/inventory-location-tooltip/inventory-location-tooltip.module.code.ts"
+import { registerInventoryLockOverlay } from "akasha/temper/items-addon/modules/inventory-lock-overlay/inventory-lock-overlay.module.code.ts"
+import { registerMailHandler } from "akasha/temper/items-addon/modules/inventory-mail-handler/inventory-mail-handler.module.code.ts"
+import { cleanupExpiredCooldowns } from "akasha/temper/items-addon/modules/inventory-open-cooldown-protection/inventory-open-cooldown-protection.module.code.ts"
+import {
+  scanCompanionWorn,
+  scanCraftBag,
+  scanPersonalBags,
+} from "akasha/temper/items-addon/modules/inventory-ops/inventory-ops.module.code.ts"
+import { finishPerfTrace } from "akasha/temper/items-addon/modules/inventory-perf/inventory-perf.module.code.ts"
+import { handleTemperPlanCommand } from "akasha/temper/items-addon/modules/inventory-plan/inventory-plan.module.code.ts"
+import { pruneStaleAnnotations } from "akasha/temper/items-addon/modules/inventory-quest-annotations/inventory-quest-annotations.module.code.ts"
 
 function initialize(): undefined {
   const perfStart = startPerfTrace()

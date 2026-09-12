@@ -1,4 +1,4 @@
-import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
 import { checkClassification } from "akasha/temper/items-rules-eval/modules/check-classification/check-classification.module.code.ts"
 import { checkContainer } from "akasha/temper/items-rules-eval/modules/check-container/check-container.module.code.ts"

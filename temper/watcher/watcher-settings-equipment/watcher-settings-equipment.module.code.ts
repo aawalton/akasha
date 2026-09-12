@@ -4,7 +4,7 @@ import type { AutomationSettings } from "akasha/temper/build-support/modules/aut
 import type {
   WantedCompanionEquipmentSignature,
   WantedEquipmentSignature,
-} from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+} from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type {
   CharacterBuildInput,
   CompanionBuildInput,

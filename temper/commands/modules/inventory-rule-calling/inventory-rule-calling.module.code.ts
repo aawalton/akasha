@@ -15,7 +15,6 @@ import {
 } from "akasha/temper/commands/inventory-rule-rows/inventory-rule-rows.module.code.ts"
 import { inventorySettings } from "akasha/temper/commands/inventory-settings-handle/inventory-settings-handle.module.code.ts"
 import { emitTsv } from "akasha/temper/commands/modules/format-output/format-output.module.code.ts"
-import { buildAllControlledRules } from "akasha/temper/items-rules-core/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
 import {
   duplicateCategoryRule,
   duplicateItemRule,
@@ -35,6 +34,7 @@ import {
   removeBuyRule,
 } from "akasha/temper/items-rules-core/modules/buy-rule-settings/buy-rule-settings.module.code.ts"
 import type { BuyRule } from "akasha/temper/items-rules-core/modules/buy-rule-types/buy-rule-types.module.code.ts"
+import { buildAllControlledRules } from "akasha/temper/items-rules-core/modules/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
 
 export type Kind = "category" | "item" | "buy"
 

@@ -1,0 +1,95 @@
+import { expect, test } from "bun:test"
+import { InputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import {
+  BUY_SOURCE_VALUES,
+  itemActionValues,
+  narrowCategoryId,
+  narrowItemAction,
+  narrowMoveToDestination,
+  narrowStockScope,
+  parseBooleanFlag,
+  parseConditionsJson,
+  parseDestinationChainJson,
+} from "akasha/temper/commands/modules/inventory-rule-flags/inventory-rule-flags.module.code.ts"
+
+test("a buy source the rules package declares is taken", () => {
+  expect(BUY_SOURCE_VALUES).toEqual(["merchant"])
+  expect(BUY_SOURCE_VALUES.find((one) => one === "merchant")).toBe("merchant")
+})
+
+test("an action the rules package declares is taken", () => {
+  expect(narrowItemAction("sell", "--action")).toBe("sell")
+  expect(itemActionValues()).toContain("sell")
+})
+
+test("an action nobody declares is refused, naming the flag and what was said", () => {
+  expect(() => narrowItemAction("burn", "--action")).toThrow(InputError)
+  expect(() => narrowItemAction("burn", "--action")).toThrow(/--action: invalid action 'burn'/)
+})
+
+test("a category the item tree holds is taken, at any depth", () => {
+  expect(narrowCategoryId("all", "--category")).toBe("all")
+  expect(narrowCategoryId("equipment", "--category")).toBe("equipment")
+  expect(narrowCategoryId("currency-gold", "--category")).toBe("currency-gold")
+})
+
+test("a category the item tree does not hold is refused, naming where to read them", () => {
+  expect(() => narrowCategoryId("style-page", "--category")).toThrow(InputError)
+  expect(() => narrowCategoryId("style-page", "--category")).toThrow(
+    /--category: invalid category 'style-page'/
+  )
+  expect(() => narrowCategoryId("style-page", "--category")).toThrow(/category-list/)
+})
+
+test("a stock scope is one of two, and a third is refused", () => {
+  expect(narrowStockScope("any-character", "--stock-scope")).toBe("any-character")
+  expect(() => narrowStockScope("any-companion", "--stock-scope")).toThrow(InputError)
+})
+
+test("an empty destination is refused and a said one is taken", () => {
+  expect(narrowMoveToDestination("bank", "--destination")).toBe("bank")
+  expect(() => narrowMoveToDestination("", "--destination")).toThrow(InputError)
+})
+
+test("a destination taking a name is taken with that name", () => {
+  expect(narrowMoveToDestination("house-storage:4675", "--destination")).toBe("house-storage:4675")
+  expect(narrowMoveToDestination("character:by-priority", "--destination")).toBe(
+    "character:by-priority"
+  )
+})
+
+test("a destination nobody declares is refused, naming the flag and what was said", () => {
+  expect(() => narrowMoveToDestination("bnak", "--destination")).toThrow(InputError)
+  expect(() => narrowMoveToDestination("bnak", "--destination")).toThrow(
+    /--destination: invalid destination 'bnak'/
+  )
+})
+
+test("a boolean flag takes true or false, unsaid reads as unsaid, and anything else is refused", () => {
+  expect(parseBooleanFlag("true", "--active")).toBe(true)
+  expect(parseBooleanFlag("false", "--active")).toBe(false)
+  expect(parseBooleanFlag(undefined, "--active")).toBeUndefined()
+  expect(() => parseBooleanFlag("yes", "--active")).toThrow(InputError)
+})
+
+test("conditions arrive as JSON and a key nobody declared is carried through", () => {
+  const held = parseConditionsJson('{"maxQuality":3,"whatIsThis":"kept"}')
+  expect(held?.maxQuality).toBe(3)
+  expect((held as Record<string, unknown>).whatIsThis).toBe("kept")
+})
+
+test("conditions that do not parse are refused apart from conditions of the wrong shape", () => {
+  expect(() => parseConditionsJson("{")).toThrow(/not valid JSON/)
+  expect(() => parseConditionsJson('{"maxQuality":"three"}')).toThrow(InputError)
+  expect(() => parseConditionsJson('{"maxQuality":"three"}')).not.toThrow(/not valid JSON/)
+})
+
+test("a destination chain is a list of tiers and an unsaid one reads as unsaid", () => {
+  expect(parseDestinationChainJson(undefined)).toBeUndefined()
+  const chain = parseDestinationChainJson('[{"destination":"bank","targetQuantity":5}]')
+  expect(chain?.[0]?.destination).toBe("bank")
+})
+
+test("a tier carrying a key the chain does not declare is refused", () => {
+  expect(() => parseDestinationChainJson('[{"destination":"bank","nope":1}]')).toThrow(InputError)
+})

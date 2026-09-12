@@ -30,7 +30,7 @@ import {
 import type {
   WantedCompanionEquipmentSignature,
   WantedEquipmentSignature,
-} from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+} from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 
 const PLAYER_ARMOR_SLOT_TO_EQUIP_TYPE: Record<string, number> = {
   head: ESO_EQUIP_TYPES.EQUIP_TYPE_HEAD,

@@ -1,8 +1,3 @@
-import {
-  flushJunkGate,
-  openJunkGate,
-} from "akasha/temper/items-addon/inventory-junk-queue/inventory-junk-queue.module.code.ts"
-import { onQuestRemoved } from "akasha/temper/items-addon/inventory-quest-annotations/inventory-quest-annotations.module.code.ts"
 import { releaseConfirmDialog } from "akasha/temper/items-addon/inventory-rules-core-confirm-dialog/inventory-rules-core-confirm-dialog.module.code.ts"
 import { onOpenTradingHouse } from "akasha/temper/items-addon/inventory-rules-dispatch/inventory-rules-dispatch.module.code.ts"
 import { onOpenCraftingStation } from "akasha/temper/items-addon/inventory-rules-dispatch-guild-crafting/inventory-rules-dispatch-guild-crafting.module.code.ts"
@@ -17,6 +12,11 @@ import {
   clearWritCraftQueue,
   onWritCraftCompleted,
 } from "akasha/temper/items-addon/inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.code.ts"
+import {
+  flushJunkGate,
+  openJunkGate,
+} from "akasha/temper/items-addon/modules/inventory-junk-queue/inventory-junk-queue.module.code.ts"
+import { onQuestRemoved } from "akasha/temper/items-addon/modules/inventory-quest-annotations/inventory-quest-annotations.module.code.ts"
 export function registerVenueDispatchEvents(ns: string): undefined {
   EVENT_MANAGER.RegisterForEvent(
     `${ns}_OpenStore`,

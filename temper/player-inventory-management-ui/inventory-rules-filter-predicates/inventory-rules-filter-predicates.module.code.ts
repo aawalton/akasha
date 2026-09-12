@@ -4,7 +4,6 @@ import {
   type LocationTypeId,
   locationTypes,
 } from "akasha/temper/items-core/location-type-data/location-type-data.module.code.ts"
-import { GOAL_NONE_ID } from "akasha/temper/items-rules-core/inventory-rule-goals/inventory-rule-goals.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import {
   ALL_CATEGORIES_ID,
@@ -16,6 +15,7 @@ import {
   getCategoryDescendantIds,
   getNodePath,
 } from "akasha/temper/items-rules-core/item-category-tree-utils/item-category-tree-utils.module.code.ts"
+import { GOAL_NONE_ID } from "akasha/temper/items-rules-core/modules/inventory-rule-goals/inventory-rule-goals.module.code.ts"
 import {
   getActionLabel,
   SELL_ACTIONS,

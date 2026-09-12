@@ -1,24 +1,4 @@
 import {
-  recomputeNetWorthAndUpdateHud,
-  reseedNetWorthBaseline,
-  resetSession,
-} from "akasha/temper/items-addon/inventory-hud-fields/inventory-hud-fields.module.code.ts"
-import {
-  flushJunkGate,
-  openJunkGate,
-} from "akasha/temper/items-addon/inventory-junk-queue/inventory-junk-queue.module.code.ts"
-import {
-  recordFullScan,
-  scanBankBags,
-  scanCompanionWorn,
-  scanCraftBag,
-  scanCurrentGuildBank,
-  scanHouseBanks,
-  scanPersonalBags,
-  updateSlot,
-} from "akasha/temper/items-addon/inventory-ops/inventory-ops.module.code.ts"
-import { annotateContainerIfPending } from "akasha/temper/items-addon/inventory-quest-annotations/inventory-quest-annotations.module.code.ts"
-import {
   clearPendingAction,
   getPendingAction,
   isPendingActionStale,
@@ -76,6 +56,26 @@ import {
   removePlacedFurnishing,
   scanPlacedFurnishings,
 } from "akasha/temper/items-addon/modules/inventory-furnishing-scanner/inventory-furnishing-scanner.module.code.ts"
+import {
+  recomputeNetWorthAndUpdateHud,
+  reseedNetWorthBaseline,
+  resetSession,
+} from "akasha/temper/items-addon/modules/inventory-hud-fields/inventory-hud-fields.module.code.ts"
+import {
+  flushJunkGate,
+  openJunkGate,
+} from "akasha/temper/items-addon/modules/inventory-junk-queue/inventory-junk-queue.module.code.ts"
+import {
+  recordFullScan,
+  scanBankBags,
+  scanCompanionWorn,
+  scanCraftBag,
+  scanCurrentGuildBank,
+  scanHouseBanks,
+  scanPersonalBags,
+  updateSlot,
+} from "akasha/temper/items-addon/modules/inventory-ops/inventory-ops.module.code.ts"
+import { annotateContainerIfPending } from "akasha/temper/items-addon/modules/inventory-quest-annotations/inventory-quest-annotations.module.code.ts"
 
 const NET_WORTH_DEBOUNCE_MS = 500
 let netWorthRecomputePending = false

@@ -1,4 +1,3 @@
-import { moveItem } from "akasha/temper/items-addon/inventory-move-item/inventory-move-item.module.code.ts"
 import { reportAction } from "akasha/temper/items-addon/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
 import { dispatchCurrencyRules } from "akasha/temper/items-addon/inventory-rules-dispatch-bank-currency/inventory-rules-dispatch-bank-currency.module.code.ts"
 import { executeBankDeposits } from "akasha/temper/items-addon/inventory-rules-dispatch-bank-deposits/inventory-rules-dispatch-bank-deposits.module.code.ts"
@@ -17,6 +16,7 @@ import {
   recordBankPhaseMs,
 } from "akasha/temper/items-addon/modules/inventory-bank-trace/inventory-bank-trace.module.code.ts"
 import { HOUSE_BANK_BAGS } from "akasha/temper/items-addon/modules/inventory-constants/inventory-constants.module.code.ts"
+import { moveItem } from "akasha/temper/items-addon/modules/inventory-move-item/inventory-move-item.module.code.ts"
 
 const MAX_OPS = 50
 

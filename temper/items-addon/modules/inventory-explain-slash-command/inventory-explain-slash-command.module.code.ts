@@ -1,4 +1,3 @@
-import { captureOrNull } from "akasha/temper/items-addon/inventory-match-capture/inventory-match-capture.module.code.ts"
 import { getSavedVariables } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import type { ExplainTrace } from "akasha/temper/items-addon/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
 import type { SkillGateEval } from "akasha/temper/items-addon/inventory-skill-gate-eval-types/inventory-skill-gate-eval-types.module.code.ts"
@@ -6,6 +5,7 @@ import { getTemperCharactersData } from "akasha/temper/items-addon/inventory-tem
 import { onTemperInventoryExplainBuyCommand } from "akasha/temper/items-addon/modules/inventory-buy-explain-slash-command/inventory-buy-explain-slash-command.module.code.ts"
 import { buildSkillGateEval } from "akasha/temper/items-addon/modules/inventory-explain-skill-gate-eval/inventory-explain-skill-gate-eval.module.code.ts"
 import { buildExplainTrace } from "akasha/temper/items-addon/modules/inventory-explain-trace-builder/inventory-explain-trace-builder.module.code.ts"
+import { captureOrNull } from "akasha/temper/items-addon/modules/inventory-match-capture/inventory-match-capture.module.code.ts"
 import { asObjectRecord } from "akasha/utils/narrow/modules/as-object-record/as-object-record.module.code.ts"
 
 const PREFIX = "[TemperExplain]"
