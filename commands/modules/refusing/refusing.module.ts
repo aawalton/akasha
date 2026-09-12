@@ -22,6 +22,10 @@ export const refusing = {
     },
     {
       invariantKind: "departure",
+      statement: "A fault of the data alone is said as the one line naming it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A call wrong with nothing mistaken is refused as a fault of the data.",
     },
     {

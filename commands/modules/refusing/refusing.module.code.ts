@@ -16,6 +16,10 @@ export function mistaking(said: readonly string[]): Answer {
   return refusedBy(said, INPUT)
 }
 
+export function wrongData(said: string): Answer {
+  return refusedBy([said], DATA)
+}
+
 export function troubling(found: Trouble): Answer | null {
   const said = [...found.mistaken, ...found.wrong]
   if (said.length === 0) return null

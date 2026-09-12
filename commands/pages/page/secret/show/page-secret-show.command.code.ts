@@ -3,12 +3,11 @@ import { filePath } from "akasha/commands/arguments/pages/file-path.argument.ts"
 import { key as keyArgument } from "akasha/commands/arguments/pages/key.argument.ts"
 import { told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { mistaking, wrongData } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { pageSecretShow as page } from "akasha/commands/pages/page/secret/show/page-secret-show.command.ts"
 import {
   caught,
   targeting,
-  wrongData,
 } from "akasha/pages/commands/page-secret-acting/page-secret-acting.module.code.ts"
 import { secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
 
