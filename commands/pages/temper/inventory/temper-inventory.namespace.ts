@@ -7,6 +7,7 @@ export const temperInventory = {
   definition: "what a character has, and where each thing carried belongs",
   parts: [
     "command/temper-inventory-capacity-audit",
+    "command/temper-inventory-category-list",
     "command/temper-inventory-decode-link",
     "command/temper-inventory-explain",
     "command/temper-inventory-knowledge",
