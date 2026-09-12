@@ -1,7 +1,4 @@
-import {
-  InputError,
-  isCliError,
-} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { ResolvedTrack } from "akasha/alan/music/choosing/track-resolving/track-resolving.module.code.ts"
 import {
   resolveDeviceId,
@@ -11,7 +8,11 @@ import {
   addToQueue,
   startResumePlayback,
 } from "akasha/alan/music/spotify/player/spotify-player.module.code.ts"
-import { INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  answering,
+  INPUT,
+  OK,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type { Read, Starting } from "akasha/commands/pages/music/play/music-play.command.code.ts"
@@ -68,13 +69,18 @@ export function trackLabelFor(track: ResolvedTrack): string {
   return `${label}${suffix}`
 }
 
+export function playingLineFor(track: ResolvedTrack): string {
+  return `▶ Playing "${trackLabelFor(track)}"`
+}
+
+export function queuedLineFor(track: ResolvedTrack): string {
+  return `  + queued "${trackLabelFor(track)}"`
+}
+
 export function queueLinesFor(tracks: readonly ResolvedTrack[]): readonly string[] {
   const [first, ...rest] = tracks
   if (first === undefined) return []
-  return [
-    `▶ Playing "${trackLabelFor(first)}"`,
-    ...rest.map((one) => `  + queued "${trackLabelFor(one)}"`),
-  ]
+  return [playingLineFor(first), ...rest.map(queuedLineFor)]
 }
 
 async function resolvedFor(
@@ -89,32 +95,39 @@ async function resolvedFor(
   return tracks
 }
 
-async function queued(read: Read, ports: Queueing): Promise<Answer> {
-  const queries = read.positionals
-  if (queries.length === 0) throw new InputError(NO_QUERY)
-  const tracks = await resolvedFor(queries, read.valued.get(ARTIST), ports)
+export async function playedAndQueued(
+  tracks: readonly ResolvedTrack[],
+  deviceNamed: string | undefined,
+  ports: Queueing,
+  done: string[]
+): Promise<string | undefined> {
   const [first, ...rest] = tracks
   if (first === undefined) throw new InputError(NO_QUERY)
-  const deviceId = await startedOn(first.uri, read.valued.get(DEVICE_ID), ports)
+  const deviceId = await startedOn(first.uri, deviceNamed, ports)
+  done.push(playingLineFor(first))
   const deviceOption = deviceId !== undefined ? { deviceId } : {}
   for (const track of rest) {
     await ports.addToQueue(track.uri, deviceOption)
+    done.push(queuedLineFor(track))
   }
+  return deviceId
+}
+
+async function queued(read: Read, ports: Queueing, done: string[]): Promise<Answer> {
+  const queries = read.positionals
+  if (queries.length === 0) throw new InputError(NO_QUERY)
+  const tracks = await resolvedFor(queries, read.valued.get(ARTIST), ports)
+  const deviceId = await playedAndQueued(tracks, read.valued.get(DEVICE_ID), ports, done)
   const said = read.bare.has(JSON_FLAG)
     ? [JSON.stringify(queueEnvelopeFor(queries, tracks, deviceId))]
-    : queueLinesFor(tracks)
+    : [...done]
   return { report: said, refusals: [], code: OK }
 }
 
 export async function queueing(argv: readonly string[], ports: Queueing): Promise<Answer> {
   const read = readingArgv(argv, TAKING_VALUE, TAKING_NONE)
   if ("mistaken" in read) return refused(read.mistaken, INPUT)
-  try {
-    return await queued(read, ports)
-  } catch (thrown) {
-    if (isCliError(thrown)) return refused(thrown.message, thrown.code)
-    throw thrown
-  }
+  return await answering(async (done) => await queued(read, ports, done))
 }
 
 export function musicQueue(argv: readonly string[] = []): Promise<Answer> {

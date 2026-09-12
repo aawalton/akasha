@@ -1,12 +1,24 @@
 import { expect, test } from "bun:test"
-import { DataError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import {
+  DataError,
+  OperationalError,
+} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { ResolvedTrack } from "akasha/alan/music/choosing/track-resolving/track-resolving.module.code.ts"
 import type { StartResumeOptions } from "akasha/commands/pages/music/play/music-play.command.code.ts"
 import type {
   DeviceOption,
   Queueing,
 } from "akasha/commands/pages/music/queue/music-queue.command.code.ts"
-import { queueing } from "akasha/commands/pages/music/queue/music-queue.command.code.ts"
+import {
+  playedAndQueued,
+  queueing,
+} from "akasha/commands/pages/music/queue/music-queue.command.code.ts"
+
+const PLAYED = `▶ Playing "one — Someone"`
+
+const QUEUED = `  + queued "two — Someone"`
+
+const THIRD = `  + queued "three — Someone"`
 
 function trackFor(name: string, artist: string): ResolvedTrack {
   return { name, uri: `spotify:track:${name}`, id: name, artists: [artist] }
@@ -110,7 +122,7 @@ test("no query at all refuses the call as an input fault", async () => {
   const fake = fakeFor()
   const said = await queueing([], fake.ports)
   expect(said.code).toBe(1)
-  expect(said.refusals).toEqual(["supply at least one track query to queue"])
+  expect(said.refusals[0]).toBe("supply at least one track query to queue")
   expect(fake.kept.started).toEqual([])
 })
 
@@ -138,6 +150,46 @@ test("a query no track answers refuses the call before anything is played", asyn
   })
   const said = await queueing(["one", "two"], fake.ports)
   expect(said.code).toBe(2)
-  expect(said.refusals).toEqual(["no Spotify track matched"])
+  expect(said.refusals[0]).toBe("no Spotify track matched")
   expect(fake.kept.started).toEqual([])
+})
+
+test("each track is named as soon as that track reaches Spotify", async () => {
+  const fake = fakeFor()
+  const done: string[] = []
+
+  await playedAndQueued(
+    [trackFor("one", "Someone"), trackFor("two", "Someone")],
+    undefined,
+    fake.ports,
+    done
+  )
+  expect(done).toEqual([PLAYED, QUEUED])
+})
+
+test("a call that threw part way names in its refusal each track it had reached", async () => {
+  const fake = fakeFor({
+    addToQueue: (uri) =>
+      uri === "spotify:track:three"
+        ? Promise.reject(new OperationalError("spotify answered 429"))
+        : Promise.resolve(),
+  })
+
+  const said = await queueing(["one", "two", "three"], fake.ports)
+  expect(said.code).toBe(3)
+  expect(said.report).toEqual([PLAYED, QUEUED])
+  const last = said.refusals[said.refusals.length - 1] as string
+  expect(last).toContain(PLAYED)
+  expect(last).toContain(QUEUED)
+  expect(last).not.toContain(THIRD)
+})
+
+test("a call that threw before a track reached Spotify names no track", async () => {
+  const fake = fakeFor({
+    startResumePlayback: () => Promise.reject(new OperationalError("spotify answered 502")),
+  })
+
+  const said = await queueing(["one", "two"], fake.ports)
+  expect(said.report).toEqual([])
+  expect(said.refusals.some((one) => one.includes("stopped part way"))).toBe(false)
 })
