@@ -1,8 +1,3 @@
-import {
-  DOCKS_HIGH_ISLE,
-  PORTALS,
-  STABLE,
-} from "akasha/temper/navigation-addon/destinations-shared-data/destinations-shared-data.module.code.ts"
 import { PIN_TYPES } from "akasha/temper/navigation-addon/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 import {
   getMapTextureName,
@@ -12,6 +7,11 @@ import {
   type QolPinData,
   QolStore,
 } from "akasha/temper/navigation-addon/modules/destinations-pins-stores/destinations-pins-stores.module.code.ts"
+import {
+  DOCKS_HIGH_ISLE,
+  PORTALS,
+  STABLE,
+} from "akasha/temper/navigation-addon/modules/destinations-shared-data/destinations-shared-data.module.code.ts"
 
 function redrawMapPinsOnly(pinType: string): undefined {
   LibMapPins.RefreshPins(pinType)
