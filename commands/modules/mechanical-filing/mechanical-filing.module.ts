@@ -47,6 +47,10 @@ export const mechanicalFiling = {
     },
     {
       invariantKind: "departure",
+      statement: "A call that threw after the landing committed names that commit in its refusal.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A refusal the landing answered exits with the code that landing stated.",
     },
     {
