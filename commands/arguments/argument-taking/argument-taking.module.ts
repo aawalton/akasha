@@ -82,7 +82,12 @@ export const argumentTaking = {
     {
       invariantKind: "gap",
       statement:
-        "A group whose pairs differ on `not-with` has no union to type, only the weak optional form.",
+        "A group whose pairs differ on `not-with` has no union to type, though an exclusive pair has one.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "An exclusive pair narrows where the member left out is typed `undefined`, not optional as here.",
     },
   ],
 } as const satisfies Module
