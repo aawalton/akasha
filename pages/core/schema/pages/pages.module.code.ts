@@ -1,4 +1,4 @@
-import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import { detailConfigSchema } from "akasha/pages/core/schema/modules/detail-config/detail-config.module.code.ts"
 import { listingConfigSchema } from "akasha/pages/core/schema/modules/listing-config/listing-config.module.code.ts"
 import { mediaConfigSchema } from "akasha/pages/core/schema/modules/media-config/media-config.module.code.ts"

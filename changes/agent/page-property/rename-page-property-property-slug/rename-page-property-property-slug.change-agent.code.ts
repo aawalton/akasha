@@ -14,9 +14,12 @@ import {
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { atMostIn } from "akasha/changes/modules/value-carrying/value-carrying.module.code.ts"
-import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
-import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { partsOf } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
+import {
+  exportedAs,
+  typedAs,
+} from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
+import { besideAt, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import { partsOf } from "akasha/pages/modules/file-parts/page-file-parts.module.code.ts"
 
 const CHANGE_PAGE_PROPERTY = "change-mechanical-file-content/change-page-page-property"
 

@@ -3,7 +3,7 @@
 import {
   PageLayout,
   PageTitle,
-} from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
+} from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
 import { tabbedPageSkeleton } from "akasha/design/interfaces/layout/skeleton-presets/skeleton-presets.module.code.ts"
 import {
   PageTabsTrigger,

@@ -1,4 +1,4 @@
-import { pageListingData } from "akasha/alan/harness/supabase-rr/page-listing-loader/page-listing-loader.module.code.ts"
+import { pageListingData } from "akasha/alan/harness/supabase-rr/modules/page-listing-loader/page-listing-loader.module.code.ts"
 import { PagesFilteredContent } from "akasha/pages/ui/components/pages-by-relation-content/pages-by-relation-content.module.code.tsx"
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { Suspense } from "react"

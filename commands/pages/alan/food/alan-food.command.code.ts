@@ -33,12 +33,12 @@ import {
   type ObjectStore,
   seaweedFSObjectStoreFromEnv,
 } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
-import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { resolveRoots } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { STEM_CEILING } from "akasha/pages/naming/named-for/page-stem/page-stem.module.code.ts"
 import { asking } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
-import { composedFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
+import { composedFor } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const NAMED = [

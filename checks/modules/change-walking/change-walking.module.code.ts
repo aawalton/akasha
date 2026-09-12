@@ -6,16 +6,16 @@ import type {
   RunningAsync,
 } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { typeScripted } from "akasha/code/modules/file-kind/file-kind.module.code.ts"
-import {
-  pageNamed,
-  partedIn,
-  uncommittedHeld,
-} from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
 import { ENTRY_PROPERTY } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import { everyPath } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
+import {
+  pageNamed,
+  partedIn,
+  uncommittedHeld,
+} from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { type Loaded, loadedFrom } from "akasha/pages/value/page-value.module.code.ts"
 import { isMissing } from "akasha/utils/fs/modules/missing/missing.module.code.ts"

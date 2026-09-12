@@ -15,8 +15,8 @@ import {
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { compiled } from "akasha/code/modules/typing/code-typing.module.code.ts"
-import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
+import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 
 const AMBIENT = "ambient-types"

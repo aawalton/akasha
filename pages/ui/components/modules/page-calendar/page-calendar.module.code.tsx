@@ -15,7 +15,7 @@ import {
   PopoverTrigger,
 } from "akasha/design/interfaces/primitives/popover/popover.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
-import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import {
   buildMonthGrid,
   CALENDAR_WEEKDAY_LABELS,

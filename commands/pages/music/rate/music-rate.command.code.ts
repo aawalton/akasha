@@ -35,10 +35,10 @@ import {
 } from "akasha/commands/modules/filling/command-filling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { musicRate as page } from "akasha/commands/pages/music/rate/music-rate.command.ts"
-import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
-import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { composedFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
+import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
+import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import { composedFor } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 

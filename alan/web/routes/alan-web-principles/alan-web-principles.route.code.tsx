@@ -1,7 +1,7 @@
 import {
   PageLayout,
   PageTitle,
-} from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
+} from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
 import { PageTabHeader } from "akasha/design/interfaces/layout/page-tab-header/page-tab-header.module.code.tsx"
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"

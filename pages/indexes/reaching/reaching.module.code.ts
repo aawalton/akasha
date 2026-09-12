@@ -1,5 +1,3 @@
-import type { Rowed, Rowing } from "akasha/pages/entries/page-entries.module.code.ts"
-import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import {
   everyOfType,
   type Listed,
@@ -11,6 +9,8 @@ import {
   addressIn,
   type PageAddress,
 } from "akasha/pages/modules/address/page-address.module.code.ts"
+import type { Rowed, Rowing } from "akasha/pages/modules/entries/page-entries.module.code.ts"
+import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { propertiesIfNamedOf } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 import {
   slugOf,

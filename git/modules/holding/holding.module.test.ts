@@ -17,12 +17,12 @@ import {
   refusedWhereHeld,
 } from "akasha/git/modules/holding/holding.module.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
-import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   idFiledIn,
   listedFiledIn,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { until } from "akasha/testing-system/waiting/waiting.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 

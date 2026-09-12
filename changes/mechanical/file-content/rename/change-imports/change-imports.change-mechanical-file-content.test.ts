@@ -36,7 +36,7 @@ import {
   CODE,
   HOLDER,
   TARGET,
-} from "akasha/testing-system/page-holding/page-holding.module.code.ts"
+} from "akasha/testing-system/modules/page-holding/page-holding.module.code.ts"
 
 const TABLE = "akasha/one/routes.ts"
 

@@ -1,7 +1,7 @@
 import {
   type MediaVariant,
   PageMediaPlayer,
-} from "akasha/pages/ui/media/page-media-player/page-media-player.module.code.tsx"
+} from "akasha/pages/ui/media/modules/page-media-player/page-media-player.module.code.tsx"
 import type { ReactNode } from "react"
 
 export function ReaderAudioBlock({

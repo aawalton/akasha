@@ -18,14 +18,14 @@ import {
   READS,
   sayingOf,
 } from "akasha/domains/context/modules/warrant-saying/warrant-saying.module.code.ts"
-import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
-import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   everyOfType,
   listedAt,
   listedById,
   slugsOfType,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
+import { besideAt, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { slugOf } from "akasha/seat-system/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
 
 const ANSWER_CEILING = 28000

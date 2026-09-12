@@ -16,14 +16,14 @@ import type { IconName } from "akasha/pages/core/generated/modules/icon-search-i
 import type {
   PageDataJSON,
   PropertyDefinition,
-} from "akasha/pages/core/page-data/page-data.module.code.ts"
+} from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import type { CompletionShape } from "akasha/pages/core/task-lifecycle/task-lifecycle.module.code.ts"
 import { readsAsDone } from "akasha/pages/core/task-lifecycle/task-lifecycle.module.code.ts"
 import { expandDateMentions } from "akasha/pages/core/view/modules/expand-date-mentions/expand-date-mentions.module.code.ts"
 import type { GalleryCardSize } from "akasha/pages/core/view/modules/gallery/gallery.module.code.ts"
 import { PageActionsMenu } from "akasha/pages/ui/components/modules/page-actions-menu/page-actions-menu.module.code.tsx"
-import { PageCardCover } from "akasha/pages/ui/components/page-card-cover/page-card-cover.module.code.tsx"
-import { PageCardProperties } from "akasha/pages/ui/components/page-card-properties/page-card-properties.module.code.tsx"
+import { PageCardCover } from "akasha/pages/ui/components/modules/page-card-cover/page-card-cover.module.code.tsx"
+import { PageCardProperties } from "akasha/pages/ui/components/modules/page-card-properties/page-card-properties.module.code.tsx"
 import { useOverflowFade } from "akasha/pages/ui/components/use-overflow-fade/use-overflow-fade.module.code.ts"
 import { PagesUILink } from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { CheckCircle2, Circle } from "lucide-react"

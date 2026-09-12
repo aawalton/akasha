@@ -6,7 +6,7 @@ import { measurePage as page } from "akasha/commands/pages/measure/page/measure-
 import {
   pageTypeCountsIn,
   pageTypeLinesOf,
-} from "akasha/commands/pages/measure/page/page-measuring/page-measuring.module.code.ts"
+} from "akasha/commands/pages/measure/page/modules/page-measuring/page-measuring.module.code.ts"
 
 export function measurePage(argv: readonly string[], given: Given): Answer {
   const read = takenFor(argv, given.calledAs, page, [])

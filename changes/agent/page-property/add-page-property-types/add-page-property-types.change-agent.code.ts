@@ -11,8 +11,8 @@ import {
   reach,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
-import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { typedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
+import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const ADD_PAGE_PROPERTY = "change-mechanical-file-content/add-page-property"

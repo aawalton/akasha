@@ -1,0 +1,246 @@
+import { expect, test } from "bun:test"
+import {
+  existsSync,
+  mkdirSync,
+  mkdtempSync,
+  readdirSync,
+  readFileSync,
+  writeFileSync,
+} from "node:fs"
+import { join } from "node:path"
+import { readBack } from "akasha/pages/modules/entries/page-entries.module.test-fixtures.ts"
+import {
+  appendedAt,
+  landedAt,
+  landedLinesAt,
+  openedAt,
+  rolledInto,
+} from "akasha/pages/modules/entry-landing/page-entry-landing.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+
+const SCRATCH_AT = "/var/tmp"
+
+const DIR = "akasha/one"
+
+const PAGE = `${DIR}/held.model-test.ts`
+
+const FIRST = `${DIR}/held.model-test.cases.jsonl`
+
+const SECOND = `${DIR}/held.model-test.cases.part2.jsonl`
+
+const THIRD = `${DIR}/held.model-test.cases.part3.jsonl`
+
+const FIRST_OUTSIDE = `${DIR}/held.model-test.cases.uncommitted.jsonl`
+
+const SECOND_OUTSIDE = `${DIR}/held.model-test.cases.part2.uncommitted.jsonl`
+
+const SLUG = "cases"
+
+const HELD = "jsonl"
+
+const WIDE = 8 * 1024 * 1024
+
+const NARROW = 18
+
+const THREE: readonly Value[] = [{ at: 1 }, { at: 2 }, { at: 3 }]
+
+function rooted(): string {
+  const root = mkdtempSync(join(SCRATCH_AT, "akasha-page-entry-landing-"))
+  mkdirSync(join(root, DIR), { recursive: true })
+  writeFileSync(join(root, PAGE), "export const held = {}\n")
+  return root
+}
+
+function landed(root: string, values: readonly Value[], ceiling: number): readonly string[] {
+  const made = landedAt(root, PAGE, SLUG, HELD, values, ceiling)
+  if ("refused" in made) throw new Error(made.refused)
+  return made.paths
+}
+
+function appended(root: string, values: readonly Value[], ceiling: number): readonly string[] {
+  const made = appendedAt(root, PAGE, SLUG, HELD, values, ceiling)
+  if ("refused" in made) throw new Error(made.refused)
+  return made.paths
+}
+
+test("a property's values land in the files page-entry-writing names, made where absent", () => {
+  const root = rooted()
+
+  expect(landed(root, THREE, NARROW)).toEqual([FIRST, SECOND])
+  expect(existsSync(join(root, FIRST))).toBe(true)
+  expect(existsSync(join(root, SECOND))).toBe(true)
+})
+
+test("what is written here page-entries reads back in the order written", () => {
+  const root = rooted()
+  landed(root, THREE, NARROW)
+
+  expect(readBack(root, PAGE, SLUG, HELD)).toEqual([...THREE])
+})
+
+test("a file already holding what would be written is left alone and named nowhere", () => {
+  const root = rooted()
+  landed(root, THREE, NARROW)
+
+  expect(landed(root, THREE, NARROW)).toEqual([])
+})
+
+test("a file numbered past the last file written is taken away and named in the answer", () => {
+  const root = rooted()
+  landed(root, THREE, NARROW)
+
+  expect(landed(root, [{ at: 1 }], WIDE)).toEqual([FIRST, SECOND])
+  expect(existsSync(join(root, SECOND))).toBe(false)
+  expect(readBack(root, PAGE, SLUG, HELD)).toEqual([{ at: 1 }])
+})
+
+test("a property carrying no value is written as one file holding nothing", () => {
+  const root = rooted()
+
+  expect(landed(root, [], WIDE)).toEqual([FIRST])
+  expect(readFileSync(join(root, FIRST), "utf8")).toBe("")
+  expect(readBack(root, PAGE, SLUG, HELD)).toEqual([])
+})
+
+test("appending adds to the last numbered file rather than rewriting that file", () => {
+  const root = rooted()
+  landed(root, [{ at: 1 }, { at: 2 }], WIDE)
+
+  expect(appended(root, [{ at: 3 }], WIDE)).toEqual([FIRST])
+  expect(readFileSync(join(root, FIRST), "utf8")).toBe('{"at":1}\n{"at":2}\n{"at":3}\n')
+  expect(existsSync(join(root, SECOND))).toBe(false)
+})
+
+test("the bytes already in a file count toward the ceiling and a value rolls on", () => {
+  const root = rooted()
+  landed(root, [{ at: 1 }], WIDE)
+
+  expect(appended(root, [{ at: 2 }], 12)).toEqual([SECOND])
+  expect(readBack(root, PAGE, SLUG, HELD)).toEqual([{ at: 1 }, { at: 2 }])
+})
+
+test("a file's fill is read from that file's size rather than from that file's text", () => {
+  const root = rooted()
+  writeFileSync(join(root, FIRST), "x".repeat(20))
+
+  expect(appended(root, [{ at: 2 }], 25)).toEqual([SECOND])
+})
+
+test("appending one value at a time divides the files as writing every value at once does", () => {
+  const at = rooted()
+  const over = rooted()
+  landed(at, THREE, NARROW)
+  for (const one of THREE) appended(over, [one], NARROW)
+
+  expect(readdirSync(join(over, DIR)).sort()).toEqual(readdirSync(join(at, DIR)).sort())
+  expect(readFileSync(join(over, FIRST), "utf8")).toBe(readFileSync(join(at, FIRST), "utf8"))
+  expect(readFileSync(join(over, SECOND), "utf8")).toBe(readFileSync(join(at, SECOND), "utf8"))
+})
+
+test("one value running past the ceiling alone is refused rather than divided", () => {
+  const root = rooted()
+  const over = appendedAt(root, PAGE, SLUG, HELD, [{ at: 1 }], 4)
+  const whole = landedAt(root, PAGE, SLUG, HELD, [{ at: 1 }], 4)
+
+  expect("refused" in over && over.refused).toContain("no value is divided")
+  expect("refused" in whole && whole.refused).toContain("no value is divided")
+})
+
+test("writing beside a page that is not there is refused, naming that page", () => {
+  const root = mkdtempSync(join(SCRATCH_AT, "akasha-page-entry-landing-bare-"))
+  const whole = landedAt(root, PAGE, SLUG, HELD, THREE, WIDE)
+  const more = appendedAt(root, PAGE, SLUG, HELD, THREE, WIDE)
+  const opened = openedAt(root, PAGE, SLUG, HELD)
+
+  expect("refused" in whole && whole.refused).toContain(PAGE)
+  expect("refused" in more && more.refused).toContain(PAGE)
+  expect("refused" in opened && opened.refused).toContain(PAGE)
+  expect(existsSync(join(root, DIR))).toBe(false)
+})
+
+test("a path that is no page file is refused rather than named", () => {
+  const root = rooted()
+  const stray = `${DIR}/held.jsonl`
+  writeFileSync(join(root, stray), "")
+  const made = appendedAt(root, stray, SLUG, HELD, THREE, WIDE)
+
+  expect("refused" in made && made.refused).toContain("no page file")
+})
+
+test("no id is minted and no value is judged against a shape", () => {
+  const root = rooted()
+  const odd: Value = { said: "no id here", deep: { held: [1, 2] } }
+  landed(root, [odd], WIDE)
+
+  expect(readBack(root, PAGE, SLUG, HELD)).toEqual([odd])
+})
+
+test("a property held uncommitted opens and rolls into files whose names say so", () => {
+  const root = rooted()
+  const opened = openedAt(root, PAGE, SLUG, HELD, true)
+  if ("refused" in opened) throw new Error(opened.refused)
+  const full = { ...opened.filling, filled: NARROW }
+  const rolled = rolledInto(PAGE, SLUG, HELD, full, NARROW, NARROW)
+
+  expect(opened.filling.path).toBe(FIRST_OUTSIDE)
+  expect("refused" in rolled ? rolled.refused : rolled.filling.path).toBe(SECOND_OUTSIDE)
+})
+
+test("a property the page type does not hold uncommitted is named as it always was", () => {
+  const root = rooted()
+  const opened = openedAt(root, PAGE, SLUG, HELD)
+  if ("refused" in opened) throw new Error(opened.refused)
+  const full = { ...opened.filling, filled: NARROW }
+  const rolled = rolledInto(PAGE, SLUG, HELD, full, NARROW, NARROW)
+
+  expect(opened.filling.path).toBe(FIRST)
+  expect("refused" in rolled ? rolled.refused : rolled.filling.path).toBe(SECOND)
+})
+
+test("a file already past the ceiling is divided again by a landing, losing no byte", () => {
+  const root = rooted()
+  const lines = [0, 1, 2, 3, 4, 5].map((one) => `{"at":${one}}\n`)
+  writeFileSync(join(root, FIRST), lines.join(""))
+  const made = landedLinesAt(root, PAGE, SLUG, HELD, lines, NARROW)
+  if ("refused" in made) throw new Error(made.refused)
+  const there = [FIRST, SECOND, THIRD].filter((one) => existsSync(join(root, one)))
+  const texts = there.map((one) => readFileSync(join(root, one), "utf8"))
+
+  expect(there).toEqual([FIRST, SECOND, THIRD])
+  expect(texts.join("")).toBe(lines.join(""))
+  for (const one of texts) {
+    expect(new TextEncoder().encode(one).length).toBeLessThanOrEqual(NARROW)
+  }
+})
+
+test("a landing divides a line handed over already formed rather than making it again", () => {
+  const root = rooted()
+  const said = '{"at":1.0,"held":1e5}\n'
+  const made = landedLinesAt(root, PAGE, SLUG, HELD, [said], WIDE)
+  if ("refused" in made) throw new Error(made.refused)
+
+  expect(readFileSync(join(root, FIRST), "utf8")).toBe(said)
+})
+
+test("appending leaves a file already past the ceiling past it", () => {
+  const root = rooted()
+  const over = "x".repeat(NARROW * 2)
+  writeFileSync(join(root, FIRST), over)
+
+  expect(appended(root, [{ at: 1 }], NARROW)).toEqual([SECOND])
+  expect(readFileSync(join(root, FIRST), "utf8")).toBe(over)
+})
+
+test("nothing beside the page but that property's files is made", () => {
+  const root = rooted()
+  landed(root, THREE, NARROW)
+
+  expect(readdirSync(root)).toEqual(["akasha"])
+  expect(readdirSync(join(root, DIR)).sort()).toEqual(
+    [
+      "held.model-test.cases.jsonl",
+      "held.model-test.cases.part2.jsonl",
+      "held.model-test.ts",
+    ].sort()
+  )
+})

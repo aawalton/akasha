@@ -2,7 +2,7 @@
 
 import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
 import { InlineEditableText } from "akasha/design/interfaces/forms/modules/inline-editable-text/inline-editable-text.module.code.tsx"
-import { PAGE_TITLE_CLASSES } from "akasha/design/interfaces/layout/page-layout-data/page-layout-data.module.code.ts"
+import { PAGE_TITLE_CLASSES } from "akasha/design/interfaces/layout/modules/page-layout-data/page-layout-data.module.code.ts"
 import { LayoutLink as Link } from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"

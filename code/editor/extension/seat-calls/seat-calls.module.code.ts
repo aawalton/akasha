@@ -2,7 +2,7 @@ import { seatComposeNotices } from "akasha/commands/pages/seat/compose-notices/s
 import { seatReset } from "akasha/commands/pages/seat/reset/seat-reset.command.ts"
 import { seatResume } from "akasha/commands/pages/seat/resume/seat-resume.command.ts"
 import { seatSupervisorStop } from "akasha/commands/pages/seat/supervisor/stop/seat-supervisor-stop.command.ts"
-import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 
 const FORCED = "--force"
 

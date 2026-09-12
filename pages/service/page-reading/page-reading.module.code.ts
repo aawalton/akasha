@@ -3,8 +3,11 @@ import {
   baseOf,
   changeOf,
 } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
-import { secretNamed, uncommittedNamed } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import {
+  secretNamed,
+  uncommittedNamed,
+} from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
 export type Named = {
   readonly pageTypeSlug: string

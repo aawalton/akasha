@@ -42,8 +42,8 @@ import {
 } from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
 import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { headOf } from "akasha/git/modules/head-commit/head-commit.module.code.ts"
-import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { everyOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
 const RUNNER = "change-runner"
 

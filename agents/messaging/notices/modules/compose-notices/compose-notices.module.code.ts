@@ -1,7 +1,5 @@
 import { writeFileSync } from "node:fs"
 import { fail } from "akasha/commands/modules/failing/command-failing.module.code.ts"
-import { bodyAt } from "akasha/pages/file-body/page-file-body.module.code.ts"
-import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   listedAt,
   valuesOfType,
@@ -12,6 +10,8 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import { bodyAt } from "akasha/pages/modules/file-body/page-file-body.module.code.ts"
+import { besideAt, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
 const PAGE_TYPE = "notice"
 

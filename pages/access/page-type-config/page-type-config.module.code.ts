@@ -4,7 +4,7 @@ import {
   fileSequenceConfig,
 } from "akasha/pages/access/modules/file-page-type-config/file-page-type-config.module.code.ts"
 import { filePropertyDefinitions } from "akasha/pages/access/modules/file-property-defs/file-property-defs.module.code.ts"
-import type { StorageTier } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { StorageTier } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import type { MediaConfig } from "akasha/pages/core/schema/modules/media-config/media-config.module.code.ts"
 import type { SequenceConfig } from "akasha/pages/core/schema/sequence-config/sequence-config.module.code.ts"
 import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"

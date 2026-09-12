@@ -3,7 +3,7 @@ import {
   type Feed,
   NOTIFICATION_FEED_PAGE_TYPE_SLUG,
 } from "akasha/alan/harness/notification-feeds/modules/rows/notification-feed-rows.module.code.ts"
-import { buildPageHref } from "akasha/pages/url/page-href/page-href.module.code.ts"
+import { buildPageHref } from "akasha/pages/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { SMILINGJENNY_PUSH_APP } from "akasha/persons/push-apps/push-apps.module.code.ts"
 

@@ -7,12 +7,12 @@ import {
   PageLayout,
   PageLayoutSkeleton,
   PageTitle,
-} from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
+} from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
 import { tabbedPageSkeleton } from "akasha/design/interfaces/layout/skeleton-presets/skeleton-presets.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { ViewPageContent } from "akasha/pages/ui/components/view-page-content/view-page-content.module.code.tsx"
 import { usePages } from "akasha/pages/ui/supabase/use-pages/use-pages.module.code.ts"
-import { buildPageHrefParam } from "akasha/pages/url/page-href/page-href.module.code.ts"
+import { buildPageHrefParam } from "akasha/pages/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { useEffect, useMemo } from "react"
 

@@ -2,7 +2,7 @@
 
 import { patchPropertyDefinitionById } from "akasha/pages/access/property-definition/property-definition.module.code.ts"
 import type { IconName } from "akasha/pages/core/generated/modules/icon-search-index/icon-search-index.module.code.ts"
-import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import { computeAggregatesForPage } from "akasha/pages/core/property-types/modules/aggregate/aggregate.module.code.ts"
 import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
 import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
@@ -12,12 +12,12 @@ import {
   toAggregateInputs,
   toPageDataJSON,
   toPageDataRecord,
-} from "akasha/pages/ui/components/page-data-json/page-data-json.module.code.ts"
+} from "akasha/pages/ui/components/modules/page-data-json/page-data-json.module.code.ts"
 import {
   DETAIL_EXCLUDED_IDS,
   extractPageTypeId,
   PAGE_TYPE_SLUG,
-} from "akasha/pages/ui/components/page-detail-content-helpers/page-detail-content-helpers.module.code.ts"
+} from "akasha/pages/ui/components/modules/page-detail-content-helpers/page-detail-content-helpers.module.code.ts"
 import { usePagesUIRouter } from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { useHostCreateSelectOption } from "akasha/pages/ui/modules/option-create-context/option-create-context.module.code.tsx"
 import {
@@ -28,7 +28,7 @@ import { useOptimisticPatchPropertyDefinition } from "akasha/pages/ui/supabase/m
 import { useOptionListLookup } from "akasha/pages/ui/supabase/use-option-list-lookup/use-option-list-lookup.module.code.ts"
 import { usePage } from "akasha/pages/ui/supabase/use-page/use-page.module.code.ts"
 import { useSetPropertyOptimistic } from "akasha/pages/ui/supabase/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
-import { buildPageHref } from "akasha/pages/url/page-href/page-href.module.code.ts"
+import { buildPageHref } from "akasha/pages/url/modules/page-href/page-href.module.code.ts"
 import {
   type PageTypeSlug,
   toPageTypeSlug,

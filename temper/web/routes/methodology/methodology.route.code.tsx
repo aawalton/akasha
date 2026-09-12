@@ -1,4 +1,4 @@
-import { PageLayoutSkeleton } from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
+import { PageLayoutSkeleton } from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
 import { tabbedPageSkeleton } from "akasha/design/interfaces/layout/skeleton-presets/skeleton-presets.module.code.ts"
 import { MethodologyPageContent } from "akasha/temper/web/modules/methodology-page-content/methodology-page-content.module.code.tsx"
 import { tabDefaultFor } from "akasha/temper/web/tab-defaults/tab-defaults.module.code.ts"

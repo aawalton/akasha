@@ -4,7 +4,7 @@ import type {
   Asked as Rows,
   Shaped,
 } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
-import type { Naming } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
+import type { Naming } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
 import type {
   Read,
   Asked as Sought,

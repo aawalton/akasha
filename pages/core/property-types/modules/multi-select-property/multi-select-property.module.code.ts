@@ -1,4 +1,4 @@
-import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import { getValueArray } from "akasha/pages/core/property-types/modules/multi-relation/multi-relation.module.code.ts"
 import type {
   FilterConfig,

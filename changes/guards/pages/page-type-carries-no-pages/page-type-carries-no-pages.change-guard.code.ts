@@ -7,7 +7,7 @@ import type {
   Guard,
   Guarding,
 } from "akasha/changes/modules/guarding/change-guarding.module.types.ts"
-import { typeSlugIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { typeSlugIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
 const NAMED = 5
 

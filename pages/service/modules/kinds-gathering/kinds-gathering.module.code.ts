@@ -1,16 +1,6 @@
 import { readFileSync } from "node:fs"
 import { isAbsolute, join } from "node:path"
 import {
-  type Computed,
-  computingOver,
-  type Named as Reached,
-  type Source as Reaching,
-  type Subject,
-} from "akasha/pages/computing/page-computing.module.code.ts"
-import { entriedValue } from "akasha/pages/entries/page-entries.module.code.ts"
-import { filedValue } from "akasha/pages/file-body/page-file-body.module.code.ts"
-import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import {
   idsNaming,
   listedAt,
   listedById,
@@ -24,6 +14,16 @@ import {
   type TextOf,
   workIn,
 } from "akasha/pages/modules/calculation-loading/calculation-loading.module.code.ts"
+import {
+  type Computed,
+  computingOver,
+  type Named as Reached,
+  type Source as Reaching,
+  type Subject,
+} from "akasha/pages/modules/computing/page-computing.module.code.ts"
+import { entriedValue } from "akasha/pages/modules/entries/page-entries.module.code.ts"
+import { filedValue } from "akasha/pages/modules/file-body/page-file-body.module.code.ts"
+import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
 import {
   type Carried,

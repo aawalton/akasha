@@ -4,8 +4,6 @@ import { seatPathForName } from "akasha/agents/seats/modules/reading/seat-readin
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { landedMechanically } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { partWay } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
-import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   listedAt,
   readingIn,
@@ -13,6 +11,8 @@ import {
   typeSlugOf,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { importedFrom, saidAs } from "akasha/pages/modules/body/page-body.module.code.ts"
+import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
+import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 

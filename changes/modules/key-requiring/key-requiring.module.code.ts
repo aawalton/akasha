@@ -1,5 +1,5 @@
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
 export type Sought = {
   readonly at: string

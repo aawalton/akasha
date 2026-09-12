@@ -14,7 +14,7 @@ import {
   type IdleActions,
   useIdleActions,
 } from "akasha/alan/web/use-idle-actions/use-idle-actions.module.code.ts"
-import { PageLayout } from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
+import { PageLayout } from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
 import {
   Tabs,
   TabsContent,

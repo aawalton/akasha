@@ -9,10 +9,10 @@ import { createServerClient } from "akasha/alan/harness/supabase-rr/server-clien
 import {
   PageLayout,
   PageTitle,
-} from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
+} from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
 import { getPageByIdSuffix } from "akasha/pages/access/modules/get/get.module.code.ts"
 import { getPagesByRelation } from "akasha/pages/access/modules/get-by-relation/get-by-relation.module.code.ts"
-import { parsePageHrefParam } from "akasha/pages/url/page-href/page-href.module.code.ts"
+import { parsePageHrefParam } from "akasha/pages/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { data } from "react-router"
 import { z } from "zod"

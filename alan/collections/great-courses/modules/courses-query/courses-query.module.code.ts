@@ -1,7 +1,7 @@
 import {
   everyRow,
   textAt,
-} from "akasha/alan/collections/great-courses/page-query/page-query.module.code.ts"
+} from "akasha/alan/collections/great-courses/modules/page-query/page-query.module.code.ts"
 
 const GREAT_COURSE_SLUG = "great-course"
 

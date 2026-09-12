@@ -1,13 +1,13 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Kind } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import {
   idFiled,
   listedFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import { noneOfTypeFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 export const MECHANICAL: Kind = {

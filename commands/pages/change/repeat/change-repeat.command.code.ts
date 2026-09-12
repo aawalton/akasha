@@ -19,8 +19,8 @@ import { type Input, inputIn } from "akasha/commands/modules/piping/piping.modul
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { changeRepeat as page } from "akasha/commands/pages/change/repeat/change-repeat.command.ts"
 import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
-import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 

@@ -13,7 +13,7 @@ import {
   typedImport,
 } from "akasha/code/modules/source/code-source.module.code.ts"
 import { landingOf } from "akasha/code/modules/specifier/code-specifier.module.code.ts"
-import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import ts from "typescript"
 
 const TABLE = "route-table"

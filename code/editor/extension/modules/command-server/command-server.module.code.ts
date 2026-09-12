@@ -46,7 +46,7 @@ async function codeFilesIn(root: string, slug: string): Promise<readonly string[
   const { listedAt } = await import(
     "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
   )
-  const { besideAt } = await import("akasha/pages/file-name/page-file-name.module.code.ts")
+  const { besideAt } = await import("akasha/pages/modules/file-name/page-file-name.module.code.ts")
   const every: string[] = []
   for (const pageTypeSlug of [MODULE_TYPE, COMMAND_TYPE]) {
     const found = listedAt(root, pageTypeSlug, slug)

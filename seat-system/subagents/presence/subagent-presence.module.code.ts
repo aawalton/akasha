@@ -10,12 +10,12 @@ import {
   landedMechanically,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { partWay } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { nameFaultIn } from "akasha/pages/export-name/page-export-name.module.code.ts"
-import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   listedAt,
   listedById,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { nameFaultIn } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
+import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import {
   mergeUncommitted,
   uncommittedIn,

@@ -5,7 +5,7 @@ import type { IconName } from "akasha/pages/core/generated/modules/icon-search-i
 import type {
   PageDataJSON,
   PropertyDefinition,
-} from "akasha/pages/core/page-data/page-data.module.code.ts"
+} from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import { createOptionOnDefinition } from "akasha/pages/ui/components/modules/create-option/create-option.module.code.ts"
 import { usePagesUIRouter } from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { useHostCreateSelectOption } from "akasha/pages/ui/modules/option-create-context/option-create-context.module.code.tsx"
@@ -13,7 +13,7 @@ import { useOptimisticCreatePage } from "akasha/pages/ui/supabase/mutations/use-
 import { useOptimisticDeletePage } from "akasha/pages/ui/supabase/mutations/use-optimistic-delete-page/use-optimistic-delete-page.module.code.ts"
 import { useOptimisticPatchPropertyDefinition } from "akasha/pages/ui/supabase/mutations/use-optimistic-patch-property-definition/use-optimistic-patch-property-definition.module.code.ts"
 import type { useSetPropertyOptimistic } from "akasha/pages/ui/supabase/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
-import { buildPageHref } from "akasha/pages/url/page-href/page-href.module.code.ts"
+import { buildPageHref } from "akasha/pages/url/modules/page-href/page-href.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
 import { useCallback } from "react"

@@ -7,7 +7,7 @@ import {
   letGo,
   tookHold,
 } from "akasha/design/interfaces/patterns/modules/drag-hold/drag-hold.module.code.ts"
-import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import { pageDayKey } from "akasha/pages/core/view/modules/calendar-date-to-value/calendar-date-to-value.module.code.ts"
 import {
   type CalendarCellRect,

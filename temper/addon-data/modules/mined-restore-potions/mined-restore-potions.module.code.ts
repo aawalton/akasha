@@ -1,12 +1,12 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { partAt } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import { partAt } from "akasha/pages/modules/file-parts/page-file-parts.module.code.ts"
 import type { MinedRestorePotion } from "akasha/temper/addon-data/potion-restore-metrics/potion-restore-metrics.module.code.ts"
 
 const MINE = "temper-mine"

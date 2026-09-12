@@ -3,13 +3,6 @@ import { appendFile } from "node:fs/promises"
 import { dirname, join } from "node:path"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
-  exportedAs,
-  nameFaultIn,
-  typedAs,
-} from "akasha/pages/export-name/page-export-name.module.code.ts"
-import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { uncommittedPartAt } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
-import {
   listedAt,
   typeSlugOf,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
@@ -21,7 +14,14 @@ import {
   rootFor,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { ENTRY_CEILING } from "akasha/pages/modules/entry-ceiling/entry-ceiling.module.code.ts"
-import { pagesAtFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
+import {
+  exportedAs,
+  nameFaultIn,
+  typedAs,
+} from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
+import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import { uncommittedPartAt } from "akasha/pages/modules/file-parts/page-file-parts.module.code.ts"
+import { pagesAtFor } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
 import { sizeOnDisk } from "akasha/utils/fs/modules/file-size/file-size.module.code.ts"
 
 const PUT = "change-mechanical/add-file-of-any-kind"

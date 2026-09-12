@@ -1,5 +1,3 @@
-import { type Rowing, rowsOver } from "akasha/pages/entries/page-entries.module.code.ts"
-import { pageNamed, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { identityIn } from "akasha/pages/indexes/identity/index-identity.index.code.ts"
 import { importIn } from "akasha/pages/indexes/import/index-import.index.code.ts"
 import { listedOf } from "akasha/pages/indexes/listing/index-listing.index.code.ts"
@@ -59,6 +57,8 @@ import {
   shapesIn,
 } from "akasha/pages/indexes/shapes/index-shapes.index.code.ts"
 import { valueIn } from "akasha/pages/indexes/value/index-value.index.code.ts"
+import { type Rowing, rowsOver } from "akasha/pages/modules/entries/page-entries.module.code.ts"
+import { pageNamed, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import {
   identifyingFrom,
   sourceAmong,

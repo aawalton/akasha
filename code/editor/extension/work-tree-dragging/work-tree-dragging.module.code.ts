@@ -5,7 +5,7 @@ import {
 import { VIEW_ID } from "akasha/code/editor/extension/work-tree-ids/work-tree-ids.module.code.ts"
 import { initiativeHandIntent } from "akasha/commands/pages/initiative/hand-intent/initiative-hand-intent.command.ts"
 import { initiativeMoveIntent } from "akasha/commands/pages/initiative/move-intent/initiative-move-intent.command.ts"
-import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import type * as vscode from "vscode"
 
 export const DRAG_MIME = `application/vnd.code.tree.${VIEW_ID.toLowerCase()}`

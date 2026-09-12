@@ -1,4 +1,4 @@
-import type { Held } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import type { Held } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export type Declaring = {

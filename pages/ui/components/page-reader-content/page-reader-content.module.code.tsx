@@ -1,7 +1,7 @@
 "use client"
 
 import type { SentenceMark } from "akasha/alan/harness/voice-core/modules/mark-schema/mark-schema.module.code.ts"
-import { PageLayout } from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
+import { PageLayout } from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
 import { simplePageSkeleton } from "akasha/design/interfaces/layout/skeleton-presets/skeleton-presets.module.code.ts"
 import {
   Empty,
@@ -12,7 +12,7 @@ import {
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { bodyPropertyIsContentTier } from "akasha/pages/core/schema/modules/content-tier/content-tier.module.code.ts"
 import { expandDateMentions } from "akasha/pages/core/view/modules/expand-date-mentions/expand-date-mentions.module.code.ts"
-import { toPageDataJSON } from "akasha/pages/ui/components/page-data-json/page-data-json.module.code.ts"
+import { toPageDataJSON } from "akasha/pages/ui/components/modules/page-data-json/page-data-json.module.code.ts"
 import {
   decideReadRestore,
   decideRestoreReady,
@@ -37,7 +37,7 @@ import { useReaderProgressWriter } from "akasha/pages/ui/components/use-reader-p
 import { useRestoreReadPosition } from "akasha/pages/ui/components/use-restore-read-position/use-restore-read-position.module.code.ts"
 import { useSentenceHighlight } from "akasha/pages/ui/components/use-sentence-highlight/use-sentence-highlight.module.code.ts"
 import { DisplayFrame } from "akasha/pages/ui/frame/modules/display-frame/display-frame.module.code.tsx"
-import type { MediaVariant } from "akasha/pages/ui/media/page-media-player/page-media-player.module.code.tsx"
+import type { MediaVariant } from "akasha/pages/ui/media/modules/page-media-player/page-media-player.module.code.tsx"
 import {
   SentenceNarrationProvider,
   type SentenceNarrationValue,

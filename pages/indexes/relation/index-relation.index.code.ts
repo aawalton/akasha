@@ -1,5 +1,4 @@
 import { join } from "node:path"
-import type { Rowing } from "akasha/pages/entries/page-entries.module.code.ts"
 import type { Entry } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import { under } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 import {
@@ -11,6 +10,7 @@ import {
   type Shaped,
 } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
+import type { Rowing } from "akasha/pages/modules/entries/page-entries.module.code.ts"
 import {
   slugOf,
   textAt,

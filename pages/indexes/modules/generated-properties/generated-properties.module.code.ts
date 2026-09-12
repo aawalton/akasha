@@ -1,4 +1,4 @@
-import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 

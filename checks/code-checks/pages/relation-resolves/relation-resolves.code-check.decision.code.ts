@@ -4,8 +4,6 @@ import {
   textWas,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { type Rowing, rowsOver } from "akasha/pages/entries/page-entries.module.code.ts"
-import { pageNamed, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   eachTarget,
   filedById,
@@ -17,6 +15,8 @@ import {
   type Shaped,
 } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
+import { type Rowing, rowsOver } from "akasha/pages/modules/entries/page-entries.module.code.ts"
+import { pageNamed, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { valueIn } from "akasha/pages/value/page-value.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"

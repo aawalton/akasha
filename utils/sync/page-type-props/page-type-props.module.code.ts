@@ -1,4 +1,4 @@
-import type { StorageTier } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { StorageTier } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
 
 export interface RelationTarget {

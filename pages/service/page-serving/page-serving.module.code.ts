@@ -12,7 +12,7 @@ import {
 import {
   foldedFor,
   type Naming,
-} from "akasha/pages/service/page-composing/page-composing.module.code.ts"
+} from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
 import {
   type Named,
   reading,

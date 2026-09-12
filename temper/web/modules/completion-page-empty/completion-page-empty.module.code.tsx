@@ -2,7 +2,7 @@ import {
   PageLayout,
   PageTitle,
   PageTitleBadges,
-} from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
+} from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
 import {
   Empty,
   EmptyDescription,

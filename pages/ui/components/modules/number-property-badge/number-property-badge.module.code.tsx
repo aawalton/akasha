@@ -2,7 +2,7 @@
 
 import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
 import { NumberBadge } from "akasha/design/interfaces/badges/modules/number-badge/number-badge.module.code.tsx"
-import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import {
   formatPropertyNumber,
   toNumber,

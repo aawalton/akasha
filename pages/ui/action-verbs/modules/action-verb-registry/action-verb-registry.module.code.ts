@@ -1,4 +1,4 @@
-import type { PageDataJSON } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { PageDataJSON } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import type { ActionButtonConfig } from "akasha/pages/core/schema/modules/action-button-config/action-button-config.module.code.ts"
 
 export interface ActionVerbContext {

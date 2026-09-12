@@ -1,14 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { besideAll, besideOf } from "akasha/pages/modules/beside/page-beside.module.code.ts"
 import {
   besideAt,
   besideNamed,
   secretAt,
   uncommittedAt,
   uncommittedBesideAt,
-} from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { besideAll, besideOf } from "akasha/pages/modules/beside/page-beside.module.code.ts"
+} from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()

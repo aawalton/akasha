@@ -4,7 +4,7 @@ import {
   type PageRow,
 } from "akasha/pages/ui-store/collection/page-row/page-row.module.code.ts"
 import { slugScopeExpr } from "akasha/pages/ui-store/query/regular-pipeline/regular-pipeline.module.code.ts"
-import { ID_SUFFIX_LENGTH } from "akasha/pages/url/page-href/page-href.module.code.ts"
+import { ID_SUFFIX_LENGTH } from "akasha/pages/url/modules/page-href/page-href.module.code.ts"
 
 export interface IdSuffixOptions {
   readonly pageTypeSlug: string

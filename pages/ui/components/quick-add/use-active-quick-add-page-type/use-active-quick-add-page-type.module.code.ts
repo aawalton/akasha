@@ -1,6 +1,6 @@
 "use client"
 
-import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import {
   parseQuickAddConfig,

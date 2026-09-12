@@ -1,15 +1,15 @@
 import { dirname, join } from "node:path"
 import { folderOf } from "akasha/code/modules/path-between/code-path-between.module.code.ts"
 import {
+  extensionsFor,
+  heldNamed,
+} from "akasha/pages/indexes/modules/extension-carrying/extension-carrying.module.code.ts"
+import {
   pageOf,
   partedIn,
   secretNamed,
   uncommittedHeld,
-} from "akasha/pages/file-name/page-file-name.module.code.ts"
-import {
-  extensionsFor,
-  heldNamed,
-} from "akasha/pages/indexes/modules/extension-carrying/extension-carrying.module.code.ts"
+} from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 
 const TS = ".ts"

@@ -5,8 +5,8 @@ import {
   account,
   REACH,
 } from "akasha/agents/claude-accounts/properties/effective-seven-day-usage.computed-property.test-fixtures.ts"
-import type { Computed } from "akasha/pages/computing/page-computing.module.code.ts"
-import { computingOver } from "akasha/pages/computing/page-computing.module.code.ts"
+import type { Computed } from "akasha/pages/modules/computing/page-computing.module.code.ts"
+import { computingOver } from "akasha/pages/modules/computing/page-computing.module.code.ts"
 
 const RESETS_AT = "2026-09-11T17:09:59.924Z"
 

@@ -17,12 +17,12 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { temperInventorySnapshot as page } from "akasha/commands/pages/temper/inventory/snapshot/temper-inventory-snapshot.command.ts"
-import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   listedAt,
   listedById,
   slugsOfType,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 
 const NAMED = [latestArgument, snapshotArgument, outputArgument, jsonOneLineArgument]

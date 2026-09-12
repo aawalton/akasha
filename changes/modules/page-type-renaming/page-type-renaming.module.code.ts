@@ -2,8 +2,8 @@ import { basename, dirname, join } from "node:path"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { claimedIn } from "akasha/changes/modules/page-claiming/page-claiming.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { typeSlugIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { saidAs } from "akasha/pages/modules/body/page-body.module.code.ts"
+import { typeSlugIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
 const KEYS = ["type", "pageTypeSlug"]
 

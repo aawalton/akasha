@@ -8,7 +8,7 @@ import {
 } from "akasha/code/editor/extension/work-tree-dragging/work-tree-dragging.module.code.ts"
 import { initiativeDelete } from "akasha/commands/pages/initiative/delete/initiative-delete.command.ts"
 import { initiativeDeleteIntent } from "akasha/commands/pages/initiative/delete-intent/initiative-delete-intent.command.ts"
-import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 
 const INTENT_SLUG = initiativeDeleteIntent.slug
 

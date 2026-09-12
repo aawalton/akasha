@@ -6,7 +6,7 @@ import {
   spellersIn,
   spellingOf,
 } from "akasha/pages/indexes/path-naming/path-naming.module.code.ts"
-import { HELD, THREE } from "akasha/testing-system/page-holding/page-holding.module.code.ts"
+import { HELD, THREE } from "akasha/testing-system/modules/page-holding/page-holding.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()

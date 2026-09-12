@@ -12,7 +12,7 @@ import {
 } from "akasha/checks/code-checks/pages/lint-clean/lint-clean.code-check.decision.test-fixtures.ts"
 import { tracked } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { pagesAtFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
+import { pagesAtFor } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
 
 afterAll(scratch.sweep)
 

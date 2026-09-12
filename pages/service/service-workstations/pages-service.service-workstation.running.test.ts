@@ -5,9 +5,11 @@ const SETTLED = "settled"
 const LISTENING_ON = "listening on"
 const HANDED: string[] = []
 
-const listening = await import("akasha/pages/service/page-listening/page-listening.module.code.ts")
+const listening = await import(
+  "akasha/pages/service/modules/page-listening/page-listening.module.code.ts"
+)
 
-mock.module("akasha/pages/service/page-listening/page-listening.module.code.ts", () => ({
+mock.module("akasha/pages/service/modules/page-listening/page-listening.module.code.ts", () => ({
   ...listening,
   runPageListening: (root: string) => {
     HANDED.push(root)
@@ -48,7 +50,7 @@ test("a run does not answer while the servers are up, so the runner's process st
 })
 
 test("a host name that would not bind is carried out rather than swallowed, so a failed start is a failed unit", async () => {
-  mock.module("akasha/pages/service/page-listening/page-listening.module.code.ts", () => ({
+  mock.module("akasha/pages/service/modules/page-listening/page-listening.module.code.ts", () => ({
     ...listening,
     runPageListening: () => {
       throw new Error("no host name the page states could be bound at 8787")

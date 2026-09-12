@@ -40,8 +40,6 @@ import {
   walkingIn,
 } from "akasha/commands/modules/walking/command-walking.module.code.ts"
 import { indexRefresh } from "akasha/commands/pages/index/refresh/index-refresh.command.code.ts"
-import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
-import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   idsNaming,
   indexNamed,
@@ -51,6 +49,8 @@ import {
   slugsOfType,
   typeSlugById,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
+import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 import { meantSaid } from "akasha/utils/text/suggest-closest/suggest-closest.module.code.ts"
 

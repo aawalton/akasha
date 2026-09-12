@@ -1,7 +1,7 @@
 import type {
   PageDataJSON,
   PropertyDefinition,
-} from "akasha/pages/core/page-data/page-data.module.code.ts"
+} from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import { matchesAggregateFilter } from "akasha/pages/core/property-types/modules/aggregate-filter/aggregate-filter.module.code.ts"
 import { toNumber } from "akasha/pages/core/property-types/modules/number/number.module.code.ts"
 import type {

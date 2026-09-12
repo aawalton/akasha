@@ -9,7 +9,7 @@ import {
 import { resolveReaderNeighbors } from "akasha/alan/web/modules/alan-reader-neighbors/alan-reader-neighbors.module.code.ts"
 import { resolveMediaVariants } from "akasha/alan/web/modules/media-variants/media-variants.module.code.ts"
 import { resolveNextUnreadHref } from "akasha/alan/web/modules/next-unread/next-unread.module.code.ts"
-import { selectPageDisplayKind } from "akasha/alan/web/page-display-kind/page-display-kind.module.code.ts"
+import { selectPageDisplayKind } from "akasha/alan/web/modules/page-display-kind/page-display-kind.module.code.ts"
 import {
   getPage,
   getPageByIdSuffix,
@@ -23,11 +23,11 @@ import {
   getSequenceConfig,
 } from "akasha/pages/access/page-type-config/page-type-config.module.code.ts"
 import type { ReaderNeighborLink } from "akasha/pages/ui/components/reader-chrome/reader-chrome.module.code.tsx"
-import type { MediaVariant } from "akasha/pages/ui/media/page-media-player/page-media-player.module.code.tsx"
+import type { MediaVariant } from "akasha/pages/ui/media/modules/page-media-player/page-media-player.module.code.tsx"
 import {
   buildPageHref,
   parsePageHrefParam,
-} from "akasha/pages/url/page-href/page-href.module.code.ts"
+} from "akasha/pages/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
 import { data, type LoaderFunctionArgs } from "react-router"

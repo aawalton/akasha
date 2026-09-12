@@ -1,11 +1,5 @@
 import { basename, dirname, join } from "node:path"
 import {
-  besideAt,
-  pageOf,
-  partedIn,
-  sectionedIn,
-} from "akasha/pages/file-name/page-file-name.module.code.ts"
-import {
   everyOfType,
   filesIn,
   idsNaming,
@@ -17,6 +11,12 @@ import {
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import { shapeOf } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
 import { slugIn } from "akasha/pages/modules/address/page-address.module.code.ts"
+import {
+  besideAt,
+  pageOf,
+  partedIn,
+  sectionedIn,
+} from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 

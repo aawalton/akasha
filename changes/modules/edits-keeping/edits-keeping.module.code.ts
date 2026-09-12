@@ -14,12 +14,12 @@ import type {
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { decodeUtf8 } from "akasha/code/utf8-body/utf8-body.module.code.ts"
 import { exclusively } from "akasha/files/modules/exclusive/exclusive.module.code.ts"
+import { partFiled, partUnfiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
+import { ENTRY_CEILING } from "akasha/pages/modules/entry-ceiling/entry-ceiling.module.code.ts"
 import {
   uncommittedPartAt,
   uncommittedPartsOf,
-} from "akasha/pages/file-parts/page-file-parts.module.code.ts"
-import { partFiled, partUnfiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
-import { ENTRY_CEILING } from "akasha/pages/modules/entry-ceiling/entry-ceiling.module.code.ts"
+} from "akasha/pages/modules/file-parts/page-file-parts.module.code.ts"
 import { sizeOnDisk } from "akasha/utils/fs/modules/file-size/file-size.module.code.ts"
 
 const SLUG = "edits"

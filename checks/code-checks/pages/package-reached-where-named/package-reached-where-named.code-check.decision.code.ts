@@ -14,8 +14,8 @@ import {
   landingOf,
   specifiersIn,
 } from "akasha/code/modules/specifier/code-specifier.module.code.ts"
-import { pageOf, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
+import { pageOf, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { matchingIn } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"
 import type { Matching } from "akasha/pages/name-formats/modules/name-matching/name-matching.module.code.ts"
 import { lowerKebabCase } from "akasha/pages/name-formats/pages/lower-kebab-case/lower-kebab-case.name-format.ts"

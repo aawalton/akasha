@@ -1,8 +1,8 @@
 import { dirname, join } from "node:path"
-import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
-import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { filePropertiesAt } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
+import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 export type Held = {

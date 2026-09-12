@@ -2,7 +2,6 @@ import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { uncommittedHeld } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   filePropertiesAt,
   uncommittedFiledAt,
@@ -12,6 +11,7 @@ import {
   claimsOf,
   sidecarsOver,
 } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
+import { uncommittedHeld } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 export type PageOf = (at: string) => Value | null

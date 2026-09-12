@@ -9,7 +9,7 @@ import type {
   ViewConfig,
   ViewFilter,
 } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
-import { PagesFilterBar } from "akasha/pages/ui/components/page-filter-bar/page-filter-bar.module.code.tsx"
+import { PagesFilterBar } from "akasha/pages/ui/components/modules/page-filter-bar/page-filter-bar.module.code.tsx"
 import type { PageSystemTabContentProps } from "akasha/pages/ui/components/page-system-tab-content-props/page-system-tab-content-props.module.code.ts"
 import { CreatePageButton } from "akasha/pages/ui/components/page-system-view-helpers/page-system-view-helpers.module.code.tsx"
 import { ViewSettingsButton } from "akasha/pages/ui/components/page-system-view-settings/page-system-view-settings.module.code.tsx"

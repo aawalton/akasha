@@ -4,7 +4,7 @@ import { OfflineDownloadButton } from "akasha/alan/web/modules/offline-download-
 import {
   type PageDisplayKind,
   selectPageDisplayKind,
-} from "akasha/alan/web/page-display-kind/page-display-kind.module.code.ts"
+} from "akasha/alan/web/modules/page-display-kind/page-display-kind.module.code.ts"
 import { ReaderNarrationDetail } from "akasha/alan/web/reader-narration-detail/reader-narration-detail.module.code.tsx"
 import { useIsOnline } from "akasha/alan/web/use-is-online/use-is-online.module.code.ts"
 import { useMediaVariants } from "akasha/alan/web/use-media-variants/use-media-variants.module.code.ts"
@@ -12,14 +12,14 @@ import { useNextUnreadHref } from "akasha/alan/web/use-next-unread/use-next-unre
 import { NotFoundNotice } from "akasha/alan/web-capacitor/modules/not-found-notice/not-found-notice.module.code.tsx"
 import { resolveDisplayKind } from "akasha/pages/core/schema/modules/detail-config/detail-config.module.code.ts"
 import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
-import { getPageDisplay } from "akasha/pages/ui/capabilities/page-display-registry/page-display-registry.module.code.ts"
+import { getPageDisplay } from "akasha/pages/ui/capabilities/modules/page-display-registry/page-display-registry.module.code.ts"
 import { ViewPageContent } from "akasha/pages/ui/components/view-page-content/view-page-content.module.code.tsx"
 import {
   useAllPages,
   usePageByIdSuffix,
 } from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { useReaderNeighbors } from "akasha/pages/ui/supabase/use-reader-neighbors/use-reader-neighbors.module.code.ts"
-import { parsePageHrefParam } from "akasha/pages/url/page-href/page-href.module.code.ts"
+import { parsePageHrefParam } from "akasha/pages/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import { lazy, Suspense } from "react"

@@ -2,7 +2,7 @@ import { type Collection, createLiveQueryCollection } from "@tanstack/db"
 import type {
   PageDataJSON,
   PropertyDefinition,
-} from "akasha/pages/core/page-data/page-data.module.code.ts"
+} from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import type { PageWhere } from "akasha/pages/core/page-types/page-types.module.code.ts"
 import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
 import {

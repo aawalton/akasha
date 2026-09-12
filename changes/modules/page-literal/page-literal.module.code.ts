@@ -1,5 +1,5 @@
 import { exported, literalOf } from "akasha/code/modules/source/code-source.module.code.ts"
-import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import ts from "typescript"
 
 const BARE = /^[A-Za-z_$][A-Za-z0-9_$]*$/

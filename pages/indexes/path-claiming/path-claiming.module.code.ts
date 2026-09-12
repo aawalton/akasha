@@ -1,16 +1,19 @@
 import { dirname, isAbsolute, join, relative } from "node:path"
-import {
-  besideAt,
-  secretAt,
-  uncommittedAt,
-} from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { partsOf, uncommittedPartsOf } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
 import type {
   FilePropertiesBy,
   FoldersBy,
   UncommittedBy,
 } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+import {
+  besideAt,
+  secretAt,
+  uncommittedAt,
+} from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import {
+  partsOf,
+  uncommittedPartsOf,
+} from "akasha/pages/modules/file-parts/page-file-parts.module.code.ts"
 import {
   typeSlugsIn,
   typeValuesIn,

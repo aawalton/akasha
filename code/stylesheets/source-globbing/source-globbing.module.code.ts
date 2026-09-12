@@ -4,13 +4,13 @@ import { typeScripted } from "akasha/code/modules/file-kind/file-kind.module.cod
 import { folderOf } from "akasha/code/modules/path-between/code-path-between.module.code.ts"
 import type { Naming } from "akasha/code/modules/specifier/code-specifier.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
-import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { edgesIn } from "akasha/pages/indexes/import/index-import.index.code.ts"
 import {
   manifestsAmong,
   reachingOf,
 } from "akasha/pages/indexes/modules/package-reaching/package-reaching.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
+import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
 const MANIFEST = "package.json"
 

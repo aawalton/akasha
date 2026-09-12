@@ -1,4 +1,4 @@
-import { PageTitle } from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
+import { PageTitle } from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import {
   Card,

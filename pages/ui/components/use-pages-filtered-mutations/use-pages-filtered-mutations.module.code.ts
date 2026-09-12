@@ -8,7 +8,7 @@ import { useOptimisticCreatePage } from "akasha/pages/ui/supabase/mutations/use-
 import { useOptimisticDeletePage } from "akasha/pages/ui/supabase/mutations/use-optimistic-delete-page/use-optimistic-delete-page.module.code.ts"
 import type { PageWithProperties } from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
 import { useSetPropertyOptimistic } from "akasha/pages/ui/supabase/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
-import { buildPageHref } from "akasha/pages/url/page-href/page-href.module.code.ts"
+import { buildPageHref } from "akasha/pages/url/modules/page-href/page-href.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
 import { useCallback } from "react"

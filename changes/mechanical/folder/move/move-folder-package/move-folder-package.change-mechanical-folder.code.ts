@@ -2,7 +2,7 @@ import { basename, dirname, join, relative } from "node:path"
 import { gathered, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const PACKAGE = "workspace-package"

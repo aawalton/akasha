@@ -23,7 +23,7 @@ import { buildLineupViewConfig } from "akasha/alan/web/modules/idle-lineup-view-
 import { buildRosterViewConfig } from "akasha/alan/web/modules/idle-roster-view-config/idle-roster-view-config.module.code.ts"
 import type { GalleryCardSize } from "akasha/pages/core/view/modules/gallery/gallery.module.code.ts"
 import { resolveGalleryCardSize } from "akasha/pages/core/view/modules/gallery/gallery.module.code.ts"
-import { PageCardRenderer } from "akasha/pages/ui/components/page-card-renderer/page-card-renderer.module.code.tsx"
+import { PageCardRenderer } from "akasha/pages/ui/components/modules/page-card-renderer/page-card-renderer.module.code.tsx"
 import { PageSystemTabContent } from "akasha/pages/ui/components/page-system-view/page-system-view.module.code.tsx"
 import { useReorderViewWiring } from "akasha/pages/ui/components/use-reorder-view-wiring/use-reorder-view-wiring.module.code.ts"
 import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"

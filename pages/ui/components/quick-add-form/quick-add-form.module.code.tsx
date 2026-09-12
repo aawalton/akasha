@@ -9,7 +9,7 @@ import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.cod
 import { Input } from "akasha/design/interfaces/primitives/modules/input/input.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { Textarea } from "akasha/design/interfaces/primitives/textarea/textarea.module.code.tsx"
-import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import type { PropertyValue } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import type { QuickAddConfig } from "akasha/pages/core/schema/quick-add/quick-add.module.code.ts"

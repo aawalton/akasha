@@ -5,7 +5,7 @@ import {
   readSubagentsIn,
   TRANSCRIPTS_CALL,
 } from "akasha/code/editor/extension/transcript-sources/transcript-sources.module.code.ts"
-import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 

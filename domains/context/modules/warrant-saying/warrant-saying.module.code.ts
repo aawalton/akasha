@@ -3,7 +3,7 @@ import type {
   Owing,
   Warrant,
 } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
-import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
 const READING = "akasha read"
 

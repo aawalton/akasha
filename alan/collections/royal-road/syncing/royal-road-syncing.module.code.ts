@@ -9,13 +9,13 @@ import {
   type Asking,
   runMechanicalChange,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import {
   asking,
   type Row,
 } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
-import { composedFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
+import { composedFor } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { shortenedToWords } from "akasha/utils/narrow/shortened-to-words/shortened-to-words.module.code.ts"
 import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"

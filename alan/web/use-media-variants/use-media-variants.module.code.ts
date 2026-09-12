@@ -1,7 +1,7 @@
 "use client"
 
 import { API_ORIGIN } from "akasha/alan/web/modules/api-origin/api-origin.module.code.ts"
-import type { MediaVariant } from "akasha/pages/ui/media/page-media-player/page-media-player.module.code.tsx"
+import type { MediaVariant } from "akasha/pages/ui/media/modules/page-media-player/page-media-player.module.code.tsx"
 import { useEffect, useState } from "react"
 import { z } from "zod"
 

@@ -1,9 +1,9 @@
-import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   everyOfType,
   type Listed,
   listedAt,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import {
   mergeUncommitted,
   uncommittedIn,

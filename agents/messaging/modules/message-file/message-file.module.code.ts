@@ -14,7 +14,7 @@ import {
 import {
   composedFor,
   pagesAtFor,
-} from "akasha/pages/service/page-composing/page-composing.module.code.ts"
+} from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
 import {
   mergeUncommitted,
   removeUncommitted,

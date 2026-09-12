@@ -19,7 +19,7 @@ import {
   KOKORO_STREAM_VARIANT,
   STORED_READ_ALOUD_VARIANT,
 } from "akasha/pages/ui/media/modules/media-src/media-src.module.code.ts"
-import type { MediaVariant } from "akasha/pages/ui/media/page-media-player/page-media-player.module.code.tsx"
+import type { MediaVariant } from "akasha/pages/ui/media/modules/page-media-player/page-media-player.module.code.tsx"
 import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
 
 const READING_STORY_SLUG = "reading-story"

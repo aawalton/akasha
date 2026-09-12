@@ -1,4 +1,4 @@
-import type { PageDataJSON } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { PageDataJSON } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 
 export interface CoverClickContext {
   readonly pageId: string

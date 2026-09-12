@@ -1,6 +1,6 @@
 "use client"
 
-import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
 import {
   buildRelationBackLinkHref,
@@ -10,7 +10,7 @@ import {
   type PageWithProperties,
   pageById,
 } from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
-import { buildPageHref } from "akasha/pages/url/page-href/page-href.module.code.ts"
+import { buildPageHref } from "akasha/pages/url/modules/page-href/page-href.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { useCallback } from "react"
 

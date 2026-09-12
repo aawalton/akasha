@@ -1,10 +1,10 @@
-import { partedIn, secretAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   everyOfType,
   listedAt,
   typeSlugOf,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+import { partedIn, secretAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"

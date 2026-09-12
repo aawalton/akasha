@@ -1,4 +1,4 @@
-import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import { collectResolutionTargetTypeIds } from "akasha/pages/core/property-types/resolution-target-types/resolution-target-types.module.code.ts"
 import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
 import type { ViewDataJSON } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"

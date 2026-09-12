@@ -2,7 +2,10 @@ import { placeCandidateSchema } from "akasha/alan/atlas-web/place-candidate/plac
 import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
 import { createServerClient } from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
 import { createPage } from "akasha/pages/access/modules/create/create.module.code.ts"
-import { buildPageHref, slugStem } from "akasha/pages/url/page-href/page-href.module.code.ts"
+import {
+  buildPageHref,
+  slugStem,
+} from "akasha/pages/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 
 const LOCATION_PAGE_TYPE_SLUG = "location"

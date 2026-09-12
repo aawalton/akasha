@@ -1,4 +1,7 @@
-import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import {
+  exportedAs,
+  typedAs,
+} from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 export type Rendering = {

@@ -1,4 +1,4 @@
-import { buildPageHrefParam } from "akasha/pages/url/page-href/page-href.module.code.ts"
+import { buildPageHrefParam } from "akasha/pages/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import type { ChapterProseHistory } from "akasha/story/engine/core/modules/game-schema/game-schema.module.code.ts"
 import {

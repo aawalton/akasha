@@ -4,7 +4,7 @@ import { createServerClient } from "akasha/alan/harness/supabase-rr/server-clien
 import {
   PageLayout,
   PageTitle,
-} from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
+} from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
 import { collectPages } from "akasha/pages/access/modules/iterate/iterate.module.code.ts"
 import { data } from "react-router"
 import { z } from "zod"

@@ -1,7 +1,6 @@
 import { mkdirSync } from "node:fs"
 import { join } from "node:path"
 import { typed } from "akasha/code/modules/typing/code-typing.module.code.ts"
-import { rowsOver } from "akasha/pages/entries/page-entries.module.code.ts"
 import { identityIn } from "akasha/pages/indexes/identity/index-identity.index.code.ts"
 import { importIn } from "akasha/pages/indexes/import/index-import.index.code.ts"
 import { listedOf } from "akasha/pages/indexes/listing/index-listing.index.code.ts"
@@ -48,6 +47,7 @@ import {
   walkedUnder,
 } from "akasha/pages/indexes/tree-reading/tree-reading.module.code.ts"
 import { valueIn } from "akasha/pages/indexes/value/index-value.index.code.ts"
+import { rowsOver } from "akasha/pages/modules/entries/page-entries.module.code.ts"
 import {
   identifyingFrom,
   sourceOver,

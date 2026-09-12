@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { buildPageHrefParam } from "akasha/pages/url/page-href/page-href.module.code.ts"
+import { buildPageHrefParam } from "akasha/pages/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import {
   composeStorySession,

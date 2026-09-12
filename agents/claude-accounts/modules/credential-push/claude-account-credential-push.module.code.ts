@@ -13,9 +13,12 @@ import {
 import { partWay } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
 import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
-import { secretAt, uncommittedAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { PageOf } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+import {
+  secretAt,
+  uncommittedAt,
+} from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import {
   type Composed,
   cipherFor,

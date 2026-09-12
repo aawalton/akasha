@@ -14,7 +14,7 @@ import {
   narrows,
   slugIn,
 } from "akasha/changes/modules/target-narrowing/target-narrowing.module.code.ts"
-import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { stringsIn } from "akasha/utils/narrow/strings-in/strings-in.module.code.ts"
 
 const CODE = "code"

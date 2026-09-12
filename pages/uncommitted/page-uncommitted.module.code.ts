@@ -16,8 +16,11 @@ import {
   markIn,
   startedAt,
 } from "akasha/files/modules/lock-holder/lock-holder.module.code.ts"
-import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
-import { partedIn, uncommittedAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
+import {
+  partedIn,
+  uncommittedAt,
+} from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { loadedFrom } from "akasha/pages/value/page-value.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 

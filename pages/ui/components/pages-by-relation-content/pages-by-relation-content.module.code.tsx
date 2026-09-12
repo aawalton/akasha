@@ -16,7 +16,7 @@ import { usePagesUIRouter } from "akasha/pages/ui/modules/navigation-context/nav
 import { SupabasePageResolverProvider } from "akasha/pages/ui/supabase/page-resolver-provider/page-resolver-provider.module.code.tsx"
 import { useCompletePageOptimistic } from "akasha/pages/ui/supabase/use-complete-page-optimistic/use-complete-page-optimistic.module.code.tsx"
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
-import { buildPageListingHref } from "akasha/pages/url/page-listing-href/page-listing-href.module.code.ts"
+import { buildPageListingHref } from "akasha/pages/url/modules/page-listing-href/page-listing-href.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { useCallback } from "react"
 

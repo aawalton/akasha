@@ -4,13 +4,13 @@ import type {
   FileChange,
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { ENTRY_CEILING } from "akasha/pages/modules/entry-ceiling/entry-ceiling.module.code.ts"
 import {
   type Part,
   type Parts,
   partsOverLines,
-} from "akasha/pages/entry-writing/page-entry-writing.module.code.ts"
-import { partsOf } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
-import { ENTRY_CEILING } from "akasha/pages/modules/entry-ceiling/entry-ceiling.module.code.ts"
+} from "akasha/pages/modules/entry-writing/page-entry-writing.module.code.ts"
+import { partsOf } from "akasha/pages/modules/file-parts/page-file-parts.module.code.ts"
 
 const NEWLINE = "\n"
 

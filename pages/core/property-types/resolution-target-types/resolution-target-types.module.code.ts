@@ -1,7 +1,7 @@
 import {
   type PropertyDefinition,
   readString,
-} from "akasha/pages/core/page-data/page-data.module.code.ts"
+} from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import {
   type PageTypePropertiesMap,
   parseRollupConfig,

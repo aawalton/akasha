@@ -1,4 +1,3 @@
-import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import type {
   Identifier,
   ScopedBy,
@@ -7,6 +6,7 @@ import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.mod
 import type { Reading, Shape } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import { shapeOf } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
 import { addressIn, slugIn } from "akasha/pages/modules/address/page-address.module.code.ts"
+import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
 import {
   numberAt,

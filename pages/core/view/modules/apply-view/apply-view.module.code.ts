@@ -1,4 +1,4 @@
-import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
 import type { ViewConfig } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import type { FilterableRow } from "akasha/pages/core/view/modules/apply-filters/apply-filters.module.code.ts"

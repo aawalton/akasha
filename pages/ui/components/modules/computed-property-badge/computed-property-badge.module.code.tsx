@@ -1,7 +1,7 @@
 "use client"
 
 import { EmptyBadge } from "akasha/design/interfaces/badges/modules/empty-badge/empty-badge.module.code.tsx"
-import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import { resolveComputedProperty } from "akasha/pages/core/property-types/resolve-computed-type/resolve-computed-type.module.code.ts"
 import {
   type PageTypePropertiesMap,

@@ -1,11 +1,11 @@
 import type { DomainRow as PanelRow } from "akasha/code/editor/extension/modules/champions-tree/champions-tree.module.code.ts"
-import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   idsNaming,
   readingIn,
   valuesOfType,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 

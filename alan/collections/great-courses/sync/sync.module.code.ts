@@ -8,7 +8,7 @@ import { createCourse } from "akasha/alan/collections/great-courses/modules/crea
 import {
   pageTitled,
   textAt,
-} from "akasha/alan/collections/great-courses/page-query/page-query.module.code.ts"
+} from "akasha/alan/collections/great-courses/modules/page-query/page-query.module.code.ts"
 import {
   shouldRunGreatCoursesSync,
   updateRootParentLastSyncedAt,

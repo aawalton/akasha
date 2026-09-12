@@ -1,7 +1,6 @@
 import { statSync } from "node:fs"
 import { basename, join } from "node:path"
 import { seatAbove } from "akasha/agents/subagents/modules/naming/subagent-naming.module.code.ts"
-import { uncommittedAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   everyOfType,
   listedAt,
@@ -11,6 +10,7 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import { uncommittedAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { onceInCall } from "akasha/utils/modules/during-call/during-call.module.code.ts"
 

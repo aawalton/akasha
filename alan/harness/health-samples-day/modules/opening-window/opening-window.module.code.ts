@@ -5,10 +5,10 @@ import {
   getEsoDayWindow,
 } from "akasha/alan/harness/day/modules/eso-day/eso-day.module.code.ts"
 import { instantsForMountainWall } from "akasha/alan/harness/day/modules/mountain-wall/mountain-wall.module.code.ts"
-import { entriesIn } from "akasha/pages/entries/page-entries.module.code.ts"
-import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import { entriesIn } from "akasha/pages/modules/entries/page-entries.module.code.ts"
+import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
 export interface DayWindow {
   readonly from: string

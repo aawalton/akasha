@@ -25,13 +25,13 @@ import {
 } from "akasha/checks/modules/mortal-sparing/mortal-sparing.module.code.ts"
 import { refusalText } from "akasha/checks/modules/refusal-text/refusal-text.module.code.ts"
 import { framesOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
-import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   everyOfType,
   typeSlugOf,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
+import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
+import { besideAt, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { type Shadow, shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 

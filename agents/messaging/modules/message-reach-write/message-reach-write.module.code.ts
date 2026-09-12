@@ -8,7 +8,7 @@ import {
   resumeSeat,
 } from "akasha/agents/messaging/modules/message-to-start/message-to-start.module.code.ts"
 import { resolveSeatTarget } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
-import type { WriteAct } from "akasha/pages/landing-judge/page-landing-judge.module.code.ts"
+import type { WriteAct } from "akasha/pages/modules/landing-judge/page-landing-judge.module.code.ts"
 
 const MESSAGE = "message"
 

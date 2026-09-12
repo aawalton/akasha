@@ -4,7 +4,6 @@ import { recordRead, SUBAGENT_MARK } from "akasha/agents/read-record/read-record
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import type { Warrant } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { dataAt } from "akasha/files/modules/git-place/git-place.module.code.ts"
-import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import {
   idFiled,
   listedFiled,
@@ -14,6 +13,7 @@ import {
   pathFiled,
   relationFiled,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { mintedId } from "akasha/testing-system/modules/minting/minting.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"

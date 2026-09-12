@@ -15,7 +15,7 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import type { Committing } from "akasha/commands/modules/landing/landing.module.code.ts"
 import { mistaking, wrongData } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { secretAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { secretAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { cipherFor, type Secrets } from "akasha/pages/secret/page-secret.module.code.ts"
 import { propertiesOf } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"

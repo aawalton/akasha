@@ -11,7 +11,7 @@ import { parseShowCountBadge } from "akasha/pages/ui/components/modules/nav-coun
 import { NavItemActions } from "akasha/pages/ui/components/modules/nav-item-actions/nav-item-actions.module.code.tsx"
 import { useNavMutations } from "akasha/pages/ui/supabase/use-nav-mutations/use-nav-mutations.module.code.ts"
 import { usePages } from "akasha/pages/ui/supabase/use-pages/use-pages.module.code.ts"
-import { buildPageHref } from "akasha/pages/url/page-href/page-href.module.code.ts"
+import { buildPageHref } from "akasha/pages/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { Plus } from "lucide-react"
 import { useCallback, useEffect, useMemo, useRef, useState } from "react"

@@ -1,7 +1,7 @@
 import { existsSync, mkdirSync, renameSync, rmSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { pageOf, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { partFiled, partUnfiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
+import { pageOf, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
 const TS = ".ts"
 

@@ -1,4 +1,4 @@
-import type { PropertyType } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { PropertyType } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import { ACTION_BUTTON_OPS } from "akasha/pages/core/property-types/modules/action-button/action-button.module.code.ts"
 import { AGGREGATE_OPS } from "akasha/pages/core/property-types/modules/aggregate/aggregate.module.code.ts"
 import { BOOLEAN_OPS } from "akasha/pages/core/property-types/modules/boolean/boolean.module.code.ts"

@@ -7,7 +7,7 @@ import { CollapsibleGroupSection } from "akasha/design/interfaces/patterns/modul
 import type { useCollapsedGroups } from "akasha/design/interfaces/patterns/use-collapsed-groups/use-collapsed-groups.module.code.ts"
 import { PageBoard } from "akasha/pages/ui/components/modules/page-board/page-board.module.code.tsx"
 import { PageCalendar } from "akasha/pages/ui/components/modules/page-calendar/page-calendar.module.code.tsx"
-import { PageListSection } from "akasha/pages/ui/components/page-list-section/page-list-section.module.code.tsx"
+import { PageListSection } from "akasha/pages/ui/components/modules/page-list-section/page-list-section.module.code.tsx"
 import type {
   PageSystemTabContentProps,
   ServerGroupedSection,

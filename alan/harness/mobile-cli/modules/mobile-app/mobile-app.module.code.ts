@@ -1,6 +1,5 @@
 import { InputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   everyOfType,
   listedAt,
@@ -10,6 +9,7 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import {
   slugAt,

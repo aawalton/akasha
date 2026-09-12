@@ -1,8 +1,8 @@
-import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
 import type { PageWithProperties } from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
-import { buildPageHref } from "akasha/pages/url/page-href/page-href.module.code.ts"
-import { buildPageListingHref } from "akasha/pages/url/page-listing-href/page-listing-href.module.code.ts"
+import { buildPageHref } from "akasha/pages/url/modules/page-href/page-href.module.code.ts"
+import { buildPageListingHref } from "akasha/pages/url/modules/page-listing-href/page-listing-href.module.code.ts"
 import {
   type PageTypeSlug,
   toPageTypeSlug,

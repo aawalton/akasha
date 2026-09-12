@@ -1,6 +1,10 @@
 import { kebabizeKey } from "akasha/pages/access/modules/file-rows/file-rows.module.code.ts"
-import { carried, type Held, type Values } from "akasha/pages/carry/page-carry.module.code.ts"
-import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import {
+  carried,
+  type Held,
+  type Values,
+} from "akasha/pages/modules/carry/page-carry.module.code.ts"
+import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { wholeValue } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 

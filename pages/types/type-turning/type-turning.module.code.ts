@@ -1,4 +1,3 @@
-import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   importersIn,
   readingIn,
@@ -10,6 +9,7 @@ import {
   generatedIn,
 } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
+import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
 const HOLDS = "ts"
 

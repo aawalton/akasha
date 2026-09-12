@@ -1,5 +1,5 @@
-import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { namesIn } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
+import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 

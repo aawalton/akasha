@@ -33,7 +33,7 @@ import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { declaringUnder } from "akasha/testing-system/modules/declaring/declaring.module.code.ts"
 import { admitting } from "akasha/testing-system/modules/minting/minting.module.code.ts"
-import { HELD } from "akasha/testing-system/page-holding/page-holding.module.code.ts"
+import { HELD } from "akasha/testing-system/modules/page-holding/page-holding.module.code.ts"
 import { everyFileUnder } from "akasha/testing-system/walking/walking.module.code.ts"
 
 const ENDING = ".jsonl"
