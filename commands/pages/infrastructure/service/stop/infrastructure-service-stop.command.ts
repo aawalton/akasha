@@ -7,7 +7,7 @@ export const infrastructureServiceStop = {
   definition: "the command asking systemd to end one service's unit",
   code: "ts",
   name: "stop",
-  taking: [{ said: "<slug>", takes: "the service to stop, named by the slug its page carries" }],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -26,5 +26,8 @@ export const infrastructureServiceStop = {
       statement: "Nothing here is installed for the whole machine.",
     },
   ],
-  arguments: [{ argument: "argument/dry-run" }],
+  arguments: [
+    { argument: "argument/dry-run" },
+    { argument: "argument/workstation-service", required: true, saidAs: "word" },
+  ],
 } as const satisfies Command

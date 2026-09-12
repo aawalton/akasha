@@ -8,7 +8,7 @@ export const infrastructureServiceRun = {
   code: "ts",
   test: "ts",
   name: "run",
-  taking: [{ said: "<slug>", takes: "the service to run, named by the slug its page carries" }],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -47,4 +47,5 @@ export const infrastructureServiceRun = {
       statement: "A service akasha carries is reached from the cluster.",
     },
   ],
+  arguments: [{ argument: "argument/workstation-service", required: true, saidAs: "word" }],
 } as const satisfies Command
