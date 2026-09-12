@@ -77,11 +77,19 @@ export const modelGatewaySwap = {
     },
     {
       invariantKind: "departure",
+      statement: "A swap that refused part way names them as a swap that threw does.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Naming them leaves what a swap reports as it was, so json stays json.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A seat holding the ask swaps whether or not this call lives to say so.",
     },
     {
       invariantKind: "departure",
-      statement: "The asking this runs is handed in.",
+      statement: "The asking, the seat lookup and the roster this reaches are handed in.",
     },
     {
       invariantKind: "departure",

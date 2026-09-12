@@ -1,9 +1,9 @@
 import {
-  codeOf,
+  answering,
   INPUT,
+  naming,
   OK,
   OPERATIONAL,
-  partWay,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -14,6 +14,7 @@ import {
   setRequestedAction,
   waitForActionCleared,
 } from "akasha/seat-system/seat-action/seat-action.module.code.ts"
+import type { SeatMatch } from "akasha/seat-system/seat-handle/seat-handle.module.code.ts"
 import { resolveSeatTarget } from "akasha/seat-system/seat-handle/seat-handle.module.code.ts"
 import { readProxyState } from "akasha/seat-system/seat-proxy-state/seat-proxy-state.module.code.ts"
 import { pidAliveOrRefuse } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
@@ -87,6 +88,18 @@ async function swapped(agentId: string, done: string[]): Promise<Outcome> {
   return said.ok ? "swapped" : "timeout"
 }
 
+export type Seams = {
+  readonly asking: Asking
+  readonly found: (target: string) => SeatMatch
+  readonly liveIds: () => readonly string[]
+}
+
+export const SWAP_SEAMS: Seams = {
+  asking: swapped,
+  found: (target) => resolveSeatTarget(target),
+  liveIds: () => liveSeats().map((seat) => seat.agentId),
+}
+
 function waiting(ms: number): Promise<void> {
   return new Promise((done) => setTimeout(done, ms))
 }
@@ -109,18 +122,9 @@ export async function askedEach(
   return held
 }
 
-async function fleeting(
-  on: ReadonlySet<string>,
-  report: string[],
-  done: string[],
-  asking: Asking
-): Promise<Answer> {
-  const held = await askedEach(
-    liveSeats().map((seat) => seat.agentId),
-    asking,
-    report,
-    done
-  )
+async function fleeting(on: ReadonlySet<string>, done: string[], seams: Seams): Promise<Answer> {
+  const report: string[] = []
+  const held = await askedEach(seams.liveIds(), seams.asking, report, done)
   const timedOut = held.filter((one) => one.status === "timeout")
   if (on.has(JSON_OUT)) {
     report.push(JSON.stringify({ ok: timedOut.length === 0, seats: held }))
@@ -136,17 +140,13 @@ async function fleeting(
   }
 }
 
-async function swapping(
-  read: Taken,
-  report: string[],
-  done: string[],
-  asking: Asking
-): Promise<Answer> {
-  if (read.on.has(FLEET)) return await fleeting(read.on, report, done, asking)
+async function swapping(read: Taken, done: string[], seams: Seams): Promise<Answer> {
+  if (read.on.has(FLEET)) return await fleeting(read.on, done, seams)
+  const report: string[] = []
   const target = read.target ?? ""
-  const found = resolveSeatTarget(target)
+  const found = seams.found(target)
   if ("error" in found) return refused(found.error, INPUT)
-  const status = await asking(found.id, done)
+  const status = await seams.asking(found.id, done)
   if (status === "timeout") {
     return {
       report,
@@ -168,23 +168,17 @@ async function swapping(
   return { report, refusals: [], code: OK }
 }
 
+export function swappedBy(read: Taken, seams: Seams): Promise<Answer> {
+  return answering(async (done) => naming(done, await swapping(read, done, seams)))
+}
+
 export async function modelGatewaySwap(
   argv: readonly string[],
   given: Given,
-  asking: Asking = swapped
+  seams: Seams = SWAP_SEAMS
 ): Promise<Answer> {
   void given
   const read = readIn(argv)
   if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
-  const report: string[] = []
-  const done: string[] = []
-  try {
-    return await swapping(read, report, done, asking)
-  } catch (thrown) {
-    return {
-      report: [...report, ...done],
-      refusals: [whyOf(thrown), ...partWay(done)],
-      code: codeOf(thrown),
-    }
-  }
+  return await swappedBy(read, seams)
 }
