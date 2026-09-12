@@ -11,13 +11,13 @@ export const athenaCommandModules = {
     {
       statement: "One function builds a command's refusal.",
       workingMemory:
-        "`answeredWith` and `refused` live in `command-answering` with `told` and `refusedBy`, and the import edge that bred 198 hand-spelled records is gone. 100 are still longhand over 44 files — 53 report-only, 11 refusal-only, 36 mixed. The rival vocabularies are taken: `inventory-rule-calling`'s `told` and `toldOf`, `workload-applying`'s `Applied`, `service-putting-up`'s `PutUp`. Two aliases are left: `refusedAll` over 13 files and `refusing` over 6.\n",
+        "Both aliases are taken: `refusedAll` over 12 callers at `ea092d2`, `refusing` over 6 at `5f8725d`, both exit codes run live. A class no literal scan sees is open: `answeredWith(x, [], OK)` is `told` said the long way. `asJson` is refused by `json ? [JSON.stringify(x)] : lines`, the commonest shape. Out for good: `command-answering`, `calling`, `service-unit-asking`, `service-putting-up`. Alan's: do `workload-applying`'s `Applied` and `service-putting-up`'s `PutUp` answer a command?\n",
     },
     {
       statement:
         "A command that wrote before it threw says in its refusal what that command wrote.",
       workingMemory:
-        "The eleven `runMechanicalChange` callers are closed and `landedMechanically` lives once. The seven inference persist commands get no thread: `landRow` throws on every path, so nothing past `inference-run-store.module.code.ts:57` has ever run. `alan/harness/**` is swept; what is left sits outside `commands` — mail sent, a push delivered, an account minted, a password rotated — none reached by a command page, only by `infrastructure service run`, whose service bodies carry no `done`.\n",
+        "Closed but for one. The email forwarder landed at `2f26a81b78`: mail sent, an unsubscribe POSTed, an archive at Gmail, each named on the line after it lands and above the log write. `handleInboundSms` is no instance, since its `:114` is reached only where the first delivery refused before writing. The `sentTo` abort-timeout retry is recorded on `page-calling`. Alan's: `icloud fetch` hands one list that is both its answer and what it did, and parting them changes what a caller reads.\n",
     },
   ],
   constraints: [
