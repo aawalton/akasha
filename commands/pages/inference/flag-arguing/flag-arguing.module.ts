@@ -4,34 +4,10 @@ export const flagArguing = {
   id: "01a08210-304b-74bd-95f9-7f1105af1da7",
   type: "module",
   slug: "flag-arguing",
-  definition: "the value a flag has, read off the command line",
+  definition: "a path a call said, read against the home directory or against the root handed over",
   code: "ts",
   test: "ts",
   invariants: [
-    {
-      invariantKind: "departure",
-      statement: "A flag ending in `-file` names a path its value is read from.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A flag ending in `-file` routes only where the flag it names has prose.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A path said as `-` is read from standard input.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A path that would not read is answered as why rather than thrown.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A whole number is digits alone.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A number too big to be exact is no whole number.",
-    },
     {
       invariantKind: "departure",
       statement: "A path opening with `~/` is read against the home directory.",
@@ -46,11 +22,15 @@ export const flagArguing = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag said twice is refused rather than taking the last value said.",
+      statement: "A path outside the repository is a path, since a render is written outside it.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows which flags an act takes.",
+      statement: "Nothing here knows which arguments a command takes.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reads a file or reaches the disk.",
     },
   ],
 } as const satisfies Module
