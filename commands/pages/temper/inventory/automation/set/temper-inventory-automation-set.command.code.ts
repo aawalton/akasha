@@ -1,3 +1,8 @@
+import {
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -10,10 +15,6 @@ import {
   type ToggleValue,
 } from "akasha/temper/inventory-automation/automation-toggle-change/automation-toggle-change.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/inventory-automation/automation-toggles/automation-toggles.module.code.ts"
-
-const INPUT = 1
-
-const OPERATIONAL = 3
 
 const SCOPE = "--scope"
 
@@ -127,5 +128,5 @@ export async function temperInventoryAutomationSet(argv: readonly string[] = [])
   }
 
   const said = { scope: scopeSaid(asked.scope), toggle: read.toggle, value: asked.value }
-  return { report: JSON.stringify(said, null, SPACES).split("\n"), refusals: [], code: 0 }
+  return { report: JSON.stringify(said, null, SPACES).split("\n"), refusals: [], code: OK }
 }
