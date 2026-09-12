@@ -1,7 +1,9 @@
 import { accountsAtIn } from "akasha/agents/claude-accounts/modules/making/claude-account-making.module.code.ts"
 import { aliasIndexesIn } from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { DATA } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
@@ -128,7 +130,7 @@ export async function claudeAccountAdd(argv: readonly string[], given: Given): P
     const typesAt = typeAt === undefined ? null : besideAt(typeAt, TYPES, HOLDS)
     if (typesAt === null) {
       const why = `no page type page is filed under \`${pageType}\`, so a page names no type`
-      return { report: [], refusals: [why], code: 1 }
+      return refused(why, DATA)
     }
     const at = `${accountsAtIn(given.root)}/${read.account}/${read.account}.${pageType}.ts`
     const body = pageTextFor(
