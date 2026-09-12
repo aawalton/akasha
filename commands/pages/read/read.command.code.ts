@@ -27,16 +27,16 @@ import {
 } from "akasha/commands/modules/long-body/long-body.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import {
-  bodyRead,
-  differenceOf,
-} from "akasha/commands/pages/read/differing/differing.module.code.ts"
-import {
   afterIn,
   budgetFor,
   longAnswer,
   reachedTo,
 } from "akasha/commands/pages/read/long-answering/long-answering.module.code.ts"
 import { owing } from "akasha/commands/pages/read/modules/body-owing/body-owing.module.code.ts"
+import {
+  bodyRead,
+  differenceOf,
+} from "akasha/commands/pages/read/modules/differing/differing.module.code.ts"
 import {
   type Discard,
   discarded,

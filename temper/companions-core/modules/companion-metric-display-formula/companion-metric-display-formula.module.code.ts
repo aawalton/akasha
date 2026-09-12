@@ -11,11 +11,11 @@ import {
 import {
   convertArithmeticToDisplay,
   type DisplayResult,
-} from "akasha/temper/formula-framework/display-formula-convert/display-formula-convert.module.code.ts"
+} from "akasha/temper/formula-framework/modules/display-formula-convert/display-formula-convert.module.code.ts"
 import type {
   DisplayFormulaNode,
   NumberFormat,
-} from "akasha/temper/formula-framework/display-formula-node/display-formula-node.module.code.ts"
+} from "akasha/temper/formula-framework/modules/display-formula-node/display-formula-node.module.code.ts"
 import { formatDecimal } from "akasha/temper/formula-framework/number-format/number-format.module.code.ts"
 import { convertRatingToChance } from "akasha/temper/formula-framework/rating-chance/rating-chance.module.code.ts"
 import { sourceCategories } from "akasha/temper/formula-framework/source-category/source-category.module.code.ts"

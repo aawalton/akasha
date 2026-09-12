@@ -36,7 +36,7 @@ import { useReadEndOnScroll } from "akasha/pages/ui/components/use-read-end-on-s
 import { useReaderProgressWriter } from "akasha/pages/ui/components/use-reader-progress-writer/use-reader-progress-writer.module.code.ts"
 import { useRestoreReadPosition } from "akasha/pages/ui/components/use-restore-read-position/use-restore-read-position.module.code.ts"
 import { useSentenceHighlight } from "akasha/pages/ui/components/use-sentence-highlight/use-sentence-highlight.module.code.ts"
-import { DisplayFrame } from "akasha/pages/ui/frame/display-frame/display-frame.module.code.tsx"
+import { DisplayFrame } from "akasha/pages/ui/frame/modules/display-frame/display-frame.module.code.tsx"
 import type { MediaVariant } from "akasha/pages/ui/media/page-media-player/page-media-player.module.code.tsx"
 import {
   SentenceNarrationProvider,

@@ -1,7 +1,7 @@
 "use client"
 
-import { stripDisplayOnlyClasses } from "akasha/design/interfaces/forms/display-only-classes/display-only-classes.module.code.ts"
 import { inlineEditKeyDown } from "akasha/design/interfaces/forms/inline-edit-keys/inline-edit-keys.module.code.ts"
+import { stripDisplayOnlyClasses } from "akasha/design/interfaces/forms/modules/display-only-classes/display-only-classes.module.code.ts"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { useEffect, useRef, useState } from "react"
 
