@@ -17,10 +17,7 @@ export const musicQueue = {
     { said: "--device-id <id>", takes: "the Spotify device played on, rather than the active one" },
     { said: "--json", takes: "give the answer as JSON rather than as lines of text" },
   ],
-  helpNotes: [
-    "--artist holds every query at once, so name it only where one artist made the whole set.",
-    "a query that no track answers refuses the call before anything is played or queued.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
