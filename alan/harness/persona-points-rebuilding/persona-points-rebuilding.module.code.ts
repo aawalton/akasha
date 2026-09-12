@@ -5,12 +5,12 @@ import {
   daysOn,
   sentOver,
 } from "akasha/alan/track/daily/day-messages-totalling/day-messages-totalling.module.code.ts"
+import { rootStated } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import {
   keepPoints,
   pointsIn,
 } from "akasha/personas/points/keeping/persona-points-keeping.module.code.ts"
 import { personaAt } from "akasha/personas/reading/persona-reading.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 const NO_PERSONA = "no persona is filed under this name, so her count is counted against nobody"
 
@@ -52,7 +52,7 @@ export function saidOf(rebuilt: number): string {
 }
 
 export function runPersonaPointsRebuilding(): undefined {
-  const root = optionalEnv("AKASHA_ROOT") ?? process.cwd()
+  const root = rootStated(process.env) ?? process.cwd()
   const done = rebuildPoints(root, getEsoDayStr(new Date()))
   process.stdout.write(`${[saidOf(done.rebuilt), ...done.unread].join("\n")}\n`)
 }
