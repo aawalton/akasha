@@ -4,12 +4,11 @@ import { resolve } from "node:path"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
 import {
-  answeredWith,
   DATA,
   keeping,
-  OK,
   OPERATIONAL,
   refused,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
@@ -79,7 +78,7 @@ async function generated(done: string[], taken: Taken, given: Given): Promise<An
     `${String(registry.chatter.length)} CHATTER_ and ` +
     `${String(registry.interaction.length)} INTERACTION_ name(s)`
   if (held === registry.text) {
-    return answeredWith([`${outPath} already holds ${many}`, `read from ${sourcePath}`], [], OK)
+    return told([`${outPath} already holds ${many}`, `read from ${sourcePath}`])
   }
 
   const landed = await runMechanicalChange(
@@ -94,7 +93,7 @@ async function generated(done: string[], taken: Taken, given: Given): Promise<An
     return keeping(done, refused(why, OPERATIONAL))
   }
 
-  return answeredWith([`wrote ${many} into ${outPath}`, `read from ${sourcePath}`], [], OK)
+  return told([`wrote ${many} into ${outPath}`, `read from ${sourcePath}`])
 }
 
 export async function chattering(
