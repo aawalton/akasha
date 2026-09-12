@@ -1,4 +1,9 @@
 import { join } from "node:path"
+import {
+  DATA,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { pushBranch } from "akasha/git/pushing/git-pushing.module.code.ts"
@@ -24,8 +29,6 @@ import {
   writeManifests,
 } from "akasha/infrastructure/services/clusters/workload-deploying/workload-deploying.module.code.ts"
 
-const DATA = 2
-const OPERATIONAL = 3
 const SAID = 4
 
 export async function putUpWebApp(
@@ -140,12 +143,12 @@ export async function putUpWebApp(
     report.push(
       `nothing\tthe cluster already stands as ${deployable.slug}'s page describes, at ${sha}`
     )
-    return { report, refusals: [], code: 0 }
+    return { report, refusals: [], code: OK }
   }
 
   if (dryRun) {
     report.push("dry-run\tnothing was applied; run it again without `--dry-run` to carry it out")
-    return { report, refusals: [], code: 0 }
+    return { report, refusals: [], code: OK }
   }
 
   let builtNow = false
@@ -182,5 +185,5 @@ export async function putUpWebApp(
   report.push(
     `up\t${workload.kind} ${workload.namespace}/${workload.name} stands as its page describes`
   )
-  return { report, refusals: [], code: 0 }
+  return { report, refusals: [], code: OK }
 }

@@ -1,6 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import {
+  DATA,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { given } from "akasha/commands/pages/deploy/deploy.command.test-fixtures.ts"
 import { putUpWebApp } from "akasha/commands/pages/deploy/web-putting-up/deploy-web-putting-up.module.code.ts"
 import { seededWorld } from "akasha/infrastructure/services/clusters/web-app-reading/web-app-reading.module.test-fixtures.ts"
@@ -10,7 +14,6 @@ const WORLD = seededWorld()
 const HOLD = "/var/tmp"
 const ORIGIN_PREFIX = "akasha-deploy-origin-"
 const OTHER_PREFIX = "akasha-deploy-other-"
-const OPERATIONAL = 3
 const NO_SHA = "0123456789abcdef0123456789abcdef01234567"
 
 afterAll(() => {
@@ -59,14 +62,14 @@ function ahead(root: string, name: string, message: string): string {
 
 test("a slug no web app page carries is refused as the data's fault", async () => {
   const answer = await putUpWebApp("no-such-web-app-here", NO_SHA, HERE, false, WORLD.root)
-  expect(answer.code).toBe(2)
+  expect(answer.code).toBe(DATA)
   expect(answer.refusals[0]).toContain("no-such-web-app-here")
   expect(answer.report).toEqual([])
 })
 
 test("a web app leaving which workload is meant unsettled is refused", async () => {
   const answer = await putUpWebApp("two-web", NO_SHA, HERE, false, WORLD.root)
-  expect(answer.code).toBe(2)
+  expect(answer.code).toBe(DATA)
   expect(answer.refusals[0]).toContain("unsettled")
 })
 
