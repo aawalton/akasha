@@ -9,7 +9,7 @@ export const imessageSearch = {
   taking: [
     { said: "--query <text>", takes: "the run of characters a message's text must hold" },
     { said: "<text>", takes: "the same run, said as a word rather than at its flag" },
-    { said: "--query-file <path>", takes: "a file the run is read from, or `-` for the input" },
+
     {
       said: "--contact <name-or-handle>",
       takes: "hold the answer to the conversations of the one contact named",
@@ -44,5 +44,5 @@ export const imessageSearch = {
     },
   ],
   name: "search",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/query-file" }],
 } as const satisfies Command
