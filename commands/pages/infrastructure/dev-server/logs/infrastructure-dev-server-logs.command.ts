@@ -9,12 +9,7 @@ export const infrastructureDevServerLogs = {
   test: "ts",
   name: "logs",
   parts: ["module/last-lines"],
-  taking: [
-    {
-      said: "--tail <n>",
-      takes: "how many trailing lines to answer with, a hundred where none is said",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -36,5 +31,6 @@ export const infrastructureDevServerLogs = {
   arguments: [
     { argument: "argument/seq", saidAs: "flag-or-word" },
     { argument: "argument/web-app" },
+    { argument: "argument/tail" },
   ],
 } as const satisfies Command
