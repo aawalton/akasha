@@ -1,5 +1,7 @@
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { dryRun as dryRunArgument } from "akasha/commands/arguments/pages/dry-run.argument.ts"
 import {
   DATA,
   OK,
@@ -9,6 +11,7 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { indexRefresh as page } from "akasha/commands/pages/index/refresh/index-refresh.command.ts"
 import { holding } from "akasha/git/holding/holding.module.code.ts"
 import { told as gitTold } from "akasha/git/running/git-running.module.code.ts"
 import {
@@ -18,8 +21,6 @@ import {
 import { refreshedWhole } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
 import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
-
-export const DRY_RUN = "--dry-run"
 
 const DOMAIN_AT = "akasha.domain.ts"
 
@@ -37,32 +38,13 @@ const COMMITTING = new Map<string, string>([
   ["--break-the-glass", "says why no check runs, and a refresh runs none"],
 ])
 
-export type Read = { readonly dryRun: boolean } | { readonly refused: readonly string[] }
-
-export function readIn(argv: readonly string[]): Read {
+export function committing(argv: readonly string[]): readonly string[] {
   const refusals: string[] = []
-  let dryRun = false
-  for (let at = 0; at < argv.length; at += 1) {
-    const one = argv[at]
-    if (one === undefined) continue
-    if (one === DRY_RUN) {
-      dryRun = true
-      continue
-    }
+  for (const one of argv) {
     const why = COMMITTING.get(one)
-    if (why !== undefined) {
-      refusals.push(`${one} ${why}`)
-      at += 1
-      continue
-    }
-    if (one.startsWith("-")) {
-      refusals.push(`\`${one}\` is no flag this takes — it takes \`${DRY_RUN}\``)
-      continue
-    }
-    refusals.push(`\`${one}\` is no word this takes — it takes \`${DRY_RUN}\``)
+    if (why !== undefined) refusals.push(`${one} ${why}`)
   }
-  if (refusals.length > 0) return { refused: refusals }
-  return { dryRun }
+  return refusals
 }
 
 export function named(paths: readonly string[]): string {
@@ -127,7 +109,7 @@ function refreshing(root: string, read: { dryRun: boolean }, done: string[]): An
   ]
   report.push(
     read.dryRun
-      ? `nothing was put in place — ${DRY_RUN}`
+      ? `nothing was put in place — ${dryRunArgument.said}`
       : `${indexNamed()} was repaired in place, entry by entry`
   )
   return {
@@ -138,14 +120,17 @@ function refreshing(root: string, read: { dryRun: boolean }, done: string[]): An
 }
 
 export function indexRefresh(argv: readonly string[], given: Given): Answer {
-  const read = readIn(argv)
+  const writing = committing(argv)
+  if (writing.length > 0) return mistaking(writing)
+  const read = takenFor(argv, given.calledAs, page, [dryRunArgument])
   if ("refused" in read) return mistaking(read.refused)
+  const taken = read.taken
   const root = resolve(given.root)
   const done: string[] = []
   try {
-    return holding(root, () => refreshing(root, read, done))
+    return holding(root, () => refreshing(root, taken, done))
   } catch (thrown) {
-    if (read.dryRun || done.length === 0) return refusing([whyOf(thrown)], OPERATIONAL)
+    if (taken.dryRun || done.length === 0) return refusing([whyOf(thrown)], OPERATIONAL)
     return refusedBy([whyOf(thrown), PART_WAY, `${BY_THEN} ${done.join("; ")}`], OPERATIONAL)
   }
 }

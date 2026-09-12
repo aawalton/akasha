@@ -1,7 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { dryRun as dryRunArgument } from "akasha/commands/arguments/pages/dry-run.argument.ts"
 import {
   DATA,
   INPUT,
@@ -12,9 +11,7 @@ import type { Given } from "akasha/commands/modules/calling/calling.module.code.
 import {
   classed,
   indexRefresh,
-  readIn,
 } from "akasha/commands/pages/index/refresh/index-refresh.command.code.ts"
-import { indexRefresh as indexCommand } from "akasha/commands/pages/index/refresh/index-refresh.command.ts"
 import { said as git } from "akasha/git/running/git-running.module.code.ts"
 import { indexNamed, indexThere } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
@@ -131,31 +128,29 @@ function said(answer: { readonly report: readonly string[] }): string {
   return answer.report.join("\n")
 }
 
-test("the word the namespace already carries is no word this takes", () => {
-  const held = readIn(["refresh"])
-  expect("refused" in held ? held.refused[0] : "").toContain("`refresh` is no word this takes")
+const TAKES = "is no argument `akasha index refresh` takes — it takes `--dry-run`"
+
+test("the word the namespace already carries is no argument this takes", () => {
+  const held = indexRefresh(["refresh"], givenAt("/nowhere"))
+  expect(held.refusals[0]).toBe(`\`refresh\` ${TAKES}`)
 })
 
 test("a word this takes none of is refused", () => {
-  const held = readIn(["verify"])
-  expect("refused" in held ? held.refused[0] : "").toContain("`verify` is no word this takes")
+  const held = indexRefresh(["verify"], givenAt("/nowhere"))
+  expect(held.refusals[0]).toBe(`\`verify\` ${TAKES}`)
 })
 
 test("a flag belonging to a command that writes is refused rather than ignored", () => {
   for (const one of ["--message", "--message-file", "--break-the-glass"]) {
-    const held = readIn([one, "held"])
-    expect("refused" in held ? held.refused[0] : "").toContain(one)
+    const held = indexRefresh([one, "held"], givenAt("/nowhere"))
+    expect(held.code).toBe(INPUT)
+    expect(held.refusals[0]).toContain(one)
   }
 })
 
 test("a flag this does not take is refused", () => {
-  const held = readIn(["--force"])
-  expect("refused" in held ? held.refused[0] : "").toContain("`--force` is no flag this takes")
-})
-
-test("the flags are read, and a call naming none is read too", () => {
-  expect(readIn(["--dry-run"])).toEqual({ dryRun: true })
-  expect(readIn([])).toEqual({ dryRun: false })
+  const held = indexRefresh(["--force"], givenAt("/nowhere"))
+  expect(held.refusals[0]).toBe(`\`--force\` ${TAKES}`)
 })
 
 test("an index that is not there is written, and it is the index a fresh refresh writes", () => {
@@ -318,15 +313,4 @@ test("a refresh that ran through names nothing it wrote in a refusal", () => {
 
   expect(answer.code).toBe(OK)
   expect(answer.refusals).toEqual([])
-})
-
-const SHOWN: Readonly<Record<string, string>> = { "argument/dry-run": dryRunArgument.said }
-
-test("every flag the page shows is one this takes", () => {
-  for (const one of indexCommand.arguments) {
-    const shown = SHOWN[one.argument] ?? ""
-    expect(shown).not.toBe("")
-    const held = readIn([shown.split(" ")[0] ?? ""])
-    expect("refused" in held ? held.refused.join(" ") : "").not.toContain("this takes")
-  }
 })
