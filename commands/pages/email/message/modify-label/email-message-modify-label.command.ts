@@ -6,6 +6,7 @@ export const emailMessageModifyLabel = {
   slug: "email-message-modify-label",
   definition: "the command putting label ids on one Gmail message and taking label ids off it",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
