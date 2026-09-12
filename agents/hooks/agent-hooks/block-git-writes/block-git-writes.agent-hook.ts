@@ -50,15 +50,20 @@ export const blockGitWrites = {
     },
     {
       invariantKind: "absence",
-      statement: "`block-destructive-git` refuses every form of `rm`.",
+      statement: "`block-destructive-git` names `rm`.",
     },
     {
       invariantKind: "absence",
-      statement: "`block-destructive-git` refuses every form of `checkout`.",
+      statement: "`block-destructive-git` names `checkout`.",
     },
     {
       invariantKind: "absence",
-      statement: "`block-destructive-git` refuses every form of `restore`.",
+      statement: "`block-destructive-git` names `restore`.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "An act left to `block-destructive-git` is refused in every form the act is written in.",
     },
     {
       invariantKind: "constraint",
