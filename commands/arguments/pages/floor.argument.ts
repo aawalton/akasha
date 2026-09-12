@@ -8,4 +8,5 @@ export const floor = {
   takes: "the cosine at or above which a frame is the same identity",
   value: "text",
   placeholder: "f",
+  default: "0.45",
 } as const satisfies Argument
