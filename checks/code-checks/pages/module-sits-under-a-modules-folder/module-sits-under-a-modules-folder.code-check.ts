@@ -51,6 +51,23 @@ export const moduleSitsUnderAModulesFolder = {
       invariantKind: "absence",
       statement: "The index is not read here.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Alan approved this check in the turn that asked for it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "This check judges at no phase while the folders it refuses are being nested.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Every phase returns to true where no module page sits outside a `modules` folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`experimental` comes off this page with them.",
+    },
   ],
   check: { maxCpuSeconds: 5 },
   audit: { maxCpuSeconds: 15 },
