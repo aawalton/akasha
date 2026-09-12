@@ -7,7 +7,7 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { liveSeats } from "akasha/commands/pages/model-gateway/status/live-gateway-seats/live-gateway-seats.module.code.ts"
+import { liveSeats } from "akasha/commands/pages/model-gateway/live-gateway-seats/live-gateway-seats.module.code.ts"
 import {
   describeAckTimeout,
   setRequestedAction,
