@@ -1,8 +1,9 @@
 import { resolve } from "node:path"
 import {
-  INPUT,
-  OK,
+  asJson,
   OPERATIONAL,
+  refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -77,14 +78,14 @@ export async function temperInventoryMasterCraftTrace(
   given?: Given
 ): Promise<Answer> {
   const read = readInventoryFileArgs(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
+  if ("refused" in read) return refusedBy(read.refused)
   const root = given === undefined ? process.cwd() : resolve(given.root)
   const at =
     read.inventoryPath === null ? savedVarsFile(INVENTORY_LUA) : resolve(root, read.inventoryPath)
   try {
     const traces = (await readMasterCraftTraces(at)) as readonly MasterCraftTrace[]
-    if (read.json) return { report: [JSON.stringify(traces)], refusals: [], code: OK }
-    return { report: [...craftTraceSaid(traces)], refusals: [], code: OK }
+    if (read.json) return asJson(traces)
+    return told([...craftTraceSaid(traces)])
   } catch (thrown) {
     return refused(whyOf(thrown), OPERATIONAL)
   }
