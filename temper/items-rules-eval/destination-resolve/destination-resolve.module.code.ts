@@ -7,10 +7,6 @@ import type { DestinationChain } from "akasha/temper/items-rules-core/inventory-
 import { planStockChainVisit } from "akasha/temper/items-rules-core/stock-chain-visit/stock-chain-visit.module.code.ts"
 import { hashItemKey } from "akasha/temper/items-rules-core/use-destination-resolver/use-destination-resolver.module.code.ts"
 import { characterId } from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
-import {
-  inferInspireCraftingType,
-  inferResearchTraitKey,
-} from "akasha/temper/items-rules-eval/craft-inference/craft-inference.module.code.ts"
 import type {
   CurseState,
   EvalContext,
@@ -19,6 +15,10 @@ import type {
 } from "akasha/temper/items-rules-eval/eval-env/eval-env.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
 import { buildWantedEquipmentFacts } from "akasha/temper/items-rules-eval/modules/check-equip-target/check-equip-target.module.code.ts"
+import {
+  inferInspireCraftingType,
+  inferResearchTraitKey,
+} from "akasha/temper/items-rules-eval/modules/craft-inference/craft-inference.module.code.ts"
 
 export type DestinationResolution =
   | { readonly kind: "resolved"; readonly concrete: string; readonly targetQuantity?: number }

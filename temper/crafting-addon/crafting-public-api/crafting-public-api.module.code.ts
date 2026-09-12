@@ -1,4 +1,3 @@
-import { isItemStoredForTemperCrafting } from "akasha/temper/crafting-addon/craft-inventory/craft-inventory.module.code.ts"
 import {
   closeRecipeWindow,
   recipeSearch,
@@ -63,6 +62,7 @@ import {
   cookSearchRecipe,
   cookShowCategory,
 } from "akasha/temper/crafting-addon/modules/craft-cooking-lists/craft-cooking-lists.module.code.ts"
+import { isItemStoredForTemperCrafting } from "akasha/temper/crafting-addon/modules/craft-inventory/craft-inventory.module.code.ts"
 import { runeShowMode } from "akasha/temper/crafting-addon/rune-mode/rune-mode.module.code.ts"
 import { runeView } from "akasha/temper/crafting-addon/rune-panel/rune-panel.module.code.ts"
 

@@ -1,9 +1,9 @@
-import * as Inventory from "akasha/temper/crafting-addon/craft-inventory/craft-inventory.module.code.ts"
 import * as ResearchGrid from "akasha/temper/crafting-addon/craft-research-grid/craft-research-grid.module.code.ts"
 import * as Utilities from "akasha/temper/crafting-addon/craft-utilities/craft-utilities.module.code.ts"
 import * as DataValidation from "akasha/temper/crafting-addon/craft-validation/craft-validation.module.code.ts"
 import { nilCheckSet } from "akasha/temper/crafting-addon/crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
+import * as Inventory from "akasha/temper/crafting-addon/modules/craft-inventory/craft-inventory.module.code.ts"
 
 const WM = WINDOW_MANAGER
 
