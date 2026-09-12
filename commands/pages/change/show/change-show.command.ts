@@ -8,17 +8,7 @@ export const changeShow = {
   code: "ts",
   test: "ts",
   changeKind: "change-authored",
-  helpNotes: [
-    "the arguments a show takes are piped in, as the arguments a change takes are.",
-    "nothing on the command line carries a value, so no shell reads a quote or a backslash.",
-    "`at` names the path to show, read against the repository root.",
-    "`akasha read` answers what is committed, and a show answers what the edits kept would leave.",
-    "the body shown is the body a change appended after this one would read.",
-    "a path no edit kept names is shown as that path is committed.",
-    "a path the edits kept would leave nowhere is refused rather than shown as empty.",
-    "the body shown is recorded as read, so a change writing that path is warranted by the show.",
-    "nothing is landed, dropped or written by a show.",
-  ],
+
   invariants: [
     {
       invariantKind: "absence",
