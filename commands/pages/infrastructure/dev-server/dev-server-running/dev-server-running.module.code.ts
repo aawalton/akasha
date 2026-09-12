@@ -2,6 +2,7 @@ import { existsSync, openSync, unlinkSync } from "node:fs"
 import { seq as seqArgument } from "akasha/commands/arguments/pages/seq.argument.ts"
 import { webApp } from "akasha/commands/arguments/pages/web-app.argument.ts"
 import {
+  answeredWith,
   asJson,
   INPUT,
   OPERATIONAL,
@@ -117,14 +118,14 @@ export async function starting(
     }),
   ])
   if (early.exited) {
-    return {
+    return answeredWith(
       report,
-      refusals: [
+      [
         `the dev server exited straight away with code ${early.code} — ` +
           `port ${port} may be taken, and ${logPath} says what it wrote`,
       ],
-      code: OPERATIONAL,
-    }
+      OPERATIONAL
+    )
   }
   done.push(`left a dev server running at pid ${String(proc.pid)} on port ${portSaid}`)
 
