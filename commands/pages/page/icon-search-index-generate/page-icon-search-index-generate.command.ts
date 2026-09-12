@@ -11,20 +11,35 @@ export const pageIconSearchIndexGenerate = {
     { said: "--code-root <path>", takes: "the checkout the ids already in use are read from" },
     { said: "--stage <path>", takes: "the folder the bodies are staged in" },
   ],
-  helpNotes: [
-    "nothing lands here: the bodies are staged, and the script answered drafts them with `akasha change draft` and lands them with `akasha change apply`.",
-    "a shard that stood before keeps the id it had, and only a shard that is new is given one.",
-    "the icons are packed into shards under a budget rather than written as one file, because a body is refused past a size.",
-    "the budget an entries shard is packed against leaves room for what formatting adds, and the pascal shards need none.",
-    "a shard the new release no longer fills is named to be removed rather than left unimported.",
-    "the staging folder remains, since the script that reads it is run afterwards.",
-    "every file the script changes has to be read before the apply, and breaking the glass passes the checks rather than the reading.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
       statement:
         "The release the index is built from is stated here rather than taken as the latest.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run stages the bodies and answers a script that drafts and lands them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shard already there keeps the id that shard had.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only a shard that is new is given an id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The icons are packed into shards under a byte budget rather than into one body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The staging folder remains after a run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every file the answered script changes is read before that script is run.",
     },
 
     {
