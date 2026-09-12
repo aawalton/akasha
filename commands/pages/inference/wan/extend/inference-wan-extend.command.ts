@@ -8,16 +8,6 @@ export const inferenceWanExtend = {
   code: "ts",
   test: "ts",
   taking: [
-    { said: "--context <mp4>", takes: "the clip the conditioning window is taken from" },
-    {
-      said: "--direction <forward|back>",
-      takes: "whether the fresh frames land after the clip's end or before its start",
-    },
-    {
-      said: "--context-frames <n>",
-      takes: "how many of the clip's own frames the window holds",
-    },
-    { said: "--new-frames <n>", takes: "how many frames this asks to generate" },
     { said: "--prompt <text>", takes: "the motion prompt" },
     { said: "--prompt-file <path>", takes: "the motion prompt read from a path, or `-` for stdin" },
     { said: "--negative-prompt <text>", takes: "what the sampler is steered away from" },
@@ -60,5 +50,9 @@ export const inferenceWanExtend = {
     { argument: "argument/steps" },
     { argument: "argument/size" },
     { argument: "argument/lightning" },
+    { argument: "argument/context", required: true },
+    { argument: "argument/direction", required: true },
+    { argument: "argument/context-frames" },
+    { argument: "argument/new-frames" },
   ],
 } as const satisfies Command
