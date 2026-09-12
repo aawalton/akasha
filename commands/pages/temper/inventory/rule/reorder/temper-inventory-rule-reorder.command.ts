@@ -6,10 +6,23 @@ export const temperInventoryRuleReorder = {
   slug: "temper-inventory-rule-reorder",
   definition: "the command moving a category rule to another place in the priority order",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement: "A call naming no way of placing the rule is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The act that moves takes the store it writes through rather than reaching it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A move is named on the caller's list as soon as that write has gone through.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule left where it was is named nowhere, whatever refused the move.",
     },
     {
       invariantKind: "departure",

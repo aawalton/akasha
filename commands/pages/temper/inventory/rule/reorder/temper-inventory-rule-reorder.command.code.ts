@@ -18,6 +18,8 @@ import {
   lockedOff,
   settingsOf,
   unfound,
+  type Writing,
+  wroteSaid,
 } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import {
   reorderCategoryRule,
@@ -26,12 +28,11 @@ import {
 
 const PAGES = [force, categoryRuleId, toPosition, before, after]
 
-type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
+export type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
 
-async function moved(taken: Taken): Promise<Answer> {
+export async function moving(taken: Taken, writing: Writing, done: string[]): Promise<Answer> {
   const id = taken.categoryRuleId
-  const settingsAccess = await settingsOf()
-  const settings = await settingsAccess.read()
+  const settings = await writing.read()
   const rule = settings.rules.find((one) => one.id === id)
   if (rule === undefined) return unfound("category", id)
   if (rule.locked === true && !taken.force) return lockedOff("category", id)
@@ -67,8 +68,13 @@ async function moved(taken: Taken): Promise<Answer> {
     }
     toIndex = found
   }
-  await settingsAccess.write(reorderCategoryRule(settings, id, toIndex))
+  await writing.write(reorderCategoryRule(settings, id, toIndex))
+  done.push(wroteSaid("category", id, `moved to ${toIndex}`))
   return told(emitJson({ id, toIndex }).split("\n"))
+}
+
+async function moved(taken: Taken, done: string[]): Promise<Answer> {
+  return await moving(taken, await settingsOf(), done)
 }
 
 export async function temperInventoryRuleReorder(
