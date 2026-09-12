@@ -58,6 +58,15 @@ export const seatMessaged = {
       invariantKind: "absence",
       statement: "A run marks no persona but the named seat's persona.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A run that stopped part way is refused naming each mark it kept before it stopped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that stopped before it kept a mark is refused as the fault alone.",
+    },
   ],
   name: "messaged",
   arguments: [{ argument: "argument/seat", required: true, saidAs: "word" }],

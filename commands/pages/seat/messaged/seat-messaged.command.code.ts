@@ -2,8 +2,13 @@ import {
   raiseMessages,
   sentIn,
 } from "akasha/alan/track/daily/day-messages/day-messages.module.code.ts"
-import { told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  OPERATIONAL,
+  partWay,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import {
@@ -12,6 +17,7 @@ import {
 } from "akasha/personas/points/keeping/persona-points-keeping.module.code.ts"
 import {
   keepLastMessagedAt,
+  type Persona,
   personaOr,
 } from "akasha/personas/reading/persona-reading.module.code.ts"
 
@@ -59,6 +65,39 @@ const NO_DAY =
   "no day page is filed for today, so this message earned nobody a point. The mark is kept all " +
   "the same, and the count starts once the day is there."
 
+export type Keeping = {
+  readonly mark: typeof keepLastMessagedAt
+  readonly raise: typeof raiseMessages
+  readonly points: typeof keepPointsToday
+}
+
+export const KEEPING: Keeping = {
+  mark: keepLastMessagedAt,
+  raise: raiseMessages,
+  points: keepPointsToday,
+}
+
+export function marking(
+  root: string,
+  slug: string,
+  persona: Persona,
+  at: Date,
+  done: string[],
+  keeping: Keeping = KEEPING
+): Answer {
+  keeping.mark(root, persona, at)
+  done.push(`marked ${slug} as written to at ${at.toISOString()}`)
+  const counted = keeping.raise(root, slug, at)
+  if (counted !== null) done.push(`raised ${slug}'s count on today's day`)
+  const sent = counted === null ? null : sentIn(counted, slug)
+  if (sent === null) {
+    return told([`${slug} ${at.toISOString()}`, NO_DAY])
+  }
+  keeping.points(root, persona, pointsIn(sent))
+  done.push(`kept ${slug}'s points for today`)
+  return told([`${slug} ${at.toISOString()} ${String(sent)}`])
+}
+
 export async function seatMessaged(argv: readonly string[], given: Given): Promise<Answer> {
   const name = argv[0]
   if (name === undefined || name === "") return mistaking([NO_NAME])
@@ -66,12 +105,10 @@ export async function seatMessaged(argv: readonly string[], given: Given): Promi
   if (slug === null) return mistaking([noSeat(name)])
   const at = new Date()
   const persona = personaOr(given.root, slug)
-  keepLastMessagedAt(given.root, persona, at)
-  const counted = raiseMessages(given.root, slug, at)
-  const sent = counted === null ? null : sentIn(counted, slug)
-  if (sent === null) {
-    return told([`${slug} ${at.toISOString()}`, NO_DAY])
+  const done: string[] = []
+  try {
+    return marking(given.root, slug, persona, at, done)
+  } catch (thrown) {
+    return { report: done, refusals: [whyOf(thrown), ...partWay(done)], code: OPERATIONAL }
   }
-  keepPointsToday(given.root, persona, pointsIn(sent))
-  return told([`${slug} ${at.toISOString()} ${String(sent)}`])
 }
