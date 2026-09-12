@@ -9,6 +9,11 @@ import {
   type Loaded,
   loadedAt,
 } from "akasha/changes/runners/change-loading/change-loading.module.code.ts"
+import {
+  OPERATIONAL,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   type Applying,
@@ -168,14 +173,11 @@ export const MEASURED: boolean[] = []
 export const applying: Applying = async (message, measure) => {
   APPLIED.push(message)
   MEASURED.push(measure)
-  return { report: [`applied ${message ?? "what the apply composes"}`], refusals: [], code: 0 }
+  return told([`applied ${message ?? "what the apply composes"}`])
 }
 
-const refusingApply: Applying = async () => ({
-  report: [],
-  refusals: ["the checks refused the landing"],
-  code: 3,
-})
+const refusingApply: Applying = async () =>
+  refusedBy(["the checks refused the landing"], OPERATIONAL)
 
 export async function refusedApply(root: string, at: string): Promise<Answer> {
   return await changing(

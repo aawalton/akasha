@@ -4,6 +4,7 @@ import {
   appendEdits,
   editsIn,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import { INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   DROP_WORDS,
@@ -115,7 +116,7 @@ export const DROPS: readonly Drop[] = [
   {
     name: "a drop saying `all: true` takes away every edit kept and names each edit that went",
     said: ALL,
-    code: 0,
+    code: OK,
     refusals: [],
     report: [`takes ${KEPT_ONE} away`, `takes ${KEPT_TWO} away`, DROPPED],
     kept: [],
@@ -124,7 +125,7 @@ export const DROPS: readonly Drop[] = [
     name: "a drop saying `all: true` over no edit kept says so rather than refusing",
     bare: true,
     said: ALL,
-    code: 0,
+    code: OK,
     refusals: [],
     report: ["no edits are kept beside this agent's page, so nothing went"],
   },
@@ -145,7 +146,7 @@ export const DROPS: readonly Drop[] = [
   {
     name: "a path naming no edit kept refuses the drop and leaves every edit kept",
     said: naming(MISSING),
-    code: 1,
+    code: INPUT,
     refusals: [`\`${MISSING}\` names no edit kept beside this agent's page, so nothing went`],
     kept: KEPT_BOTH,
   },
@@ -161,35 +162,35 @@ export const DROPS: readonly Drop[] = [
   {
     name: "a drop piping nothing in refuses and leaves every edit kept",
     said: NOTHING,
-    code: 1,
+    code: INPUT,
     refusalHolds: "piped nothing in",
     kept: KEPT_BOTH,
   },
   {
     name: "an input that will not open refuses the drop and leaves every edit kept",
     said: QUIET,
-    code: 1,
+    code: INPUT,
     refusalHolds: "went quiet",
     kept: KEPT_BOTH,
   },
   {
     name: "`all: true` named beside a path refuses the drop and leaves every edit kept",
     said: piping(`all: true\nat: ${KEPT_ONE}\n`),
-    code: 1,
+    code: INPUT,
     refusalHolds: "the two together are refused",
     kept: KEPT_BOTH,
   },
   {
     name: "`all` said another value refuses the drop and leaves every edit kept",
     said: ANOTHER,
-    code: 1,
+    code: INPUT,
     refusals: ["`all` takes `true` to take away every edit kept, and no other value"],
     kept: KEPT_BOTH,
   },
   {
     name: "a line naming no path refuses the drop and leaves every edit kept",
     said: piping(`${KEPT_ONE}\n`),
-    code: 1,
+    code: INPUT,
     refusalHolds: "names no path",
     kept: KEPT_BOTH,
   },
