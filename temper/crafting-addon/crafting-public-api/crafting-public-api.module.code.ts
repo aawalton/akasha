@@ -1,8 +1,4 @@
 import {
-  setTimer,
-  tooltip,
-} from "akasha/temper/crafting-addon/craft-tooltips/craft-tooltips.module.code.ts"
-import {
   controlCloseAll,
   controlShow,
   showMain,
@@ -63,6 +59,10 @@ import {
   hideUnknownStyles,
   setAllStyles,
 } from "akasha/temper/crafting-addon/modules/craft-style-tracking/craft-style-tracking.module.code.ts"
+import {
+  setTimer,
+  tooltip,
+} from "akasha/temper/crafting-addon/modules/craft-tooltips/craft-tooltips.module.code.ts"
 import { runeShowMode } from "akasha/temper/crafting-addon/rune-mode/rune-mode.module.code.ts"
 import { runeView } from "akasha/temper/crafting-addon/rune-panel/rune-panel.module.code.ts"
 

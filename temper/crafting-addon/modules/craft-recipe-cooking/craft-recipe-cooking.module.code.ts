@@ -1,4 +1,3 @@
-import * as Tooltips from "akasha/temper/crafting-addon/craft-tooltips/craft-tooltips.module.code.ts"
 import {
   hideControl,
   toChat,
@@ -10,6 +9,7 @@ import {
   type CsQualityColor,
   QUALITY,
 } from "akasha/temper/crafting-addon/modules/craft-quality/craft-quality.module.code.ts"
+import * as Tooltips from "akasha/temper/crafting-addon/modules/craft-tooltips/craft-tooltips.module.code.ts"
 
 const WM = WINDOW_MANAGER
 

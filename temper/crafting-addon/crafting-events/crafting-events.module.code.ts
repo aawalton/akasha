@@ -1,5 +1,3 @@
-import { styleApi } from "akasha/temper/crafting-addon/craft-styles-data/craft-styles-data.module.code.ts"
-import { tooltipHandler } from "akasha/temper/crafting-addon/craft-tooltip-handler/craft-tooltip-handler.module.code.ts"
 import {
   controlShow,
   showMain,
@@ -77,6 +75,8 @@ import {
 } from "akasha/temper/crafting-addon/modules/craft-research/craft-research.module.code.ts"
 import { updatePanelIcon } from "akasha/temper/crafting-addon/modules/craft-research-grid/craft-research-grid.module.code.ts"
 import { registerSettings } from "akasha/temper/crafting-addon/modules/craft-set-lam/craft-set-lam.module.code.ts"
+import { styleApi } from "akasha/temper/crafting-addon/modules/craft-styles-data/craft-styles-data.module.code.ts"
+import { tooltipHandler } from "akasha/temper/crafting-addon/modules/craft-tooltip-handler/craft-tooltip-handler.module.code.ts"
 import { initializeTemperPotions } from "akasha/temper/crafting-addon/potion-init/potion-init.module.code.ts"
 import { initializeTemperWrit } from "akasha/temper/crafting-addon/writ-init/writ-init.module.code.ts"
 import { initializeMasterWritInventoryMarker } from "akasha/temper/crafting-addon/writ-mark-init/writ-mark-init.module.code.ts"
