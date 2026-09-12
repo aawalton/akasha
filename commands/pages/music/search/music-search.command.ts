@@ -44,4 +44,5 @@ export const musicSearch = {
     },
   ],
   name: "search",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

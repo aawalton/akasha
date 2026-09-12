@@ -72,4 +72,5 @@ export const musicRate = {
     },
   ],
   name: "rate",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

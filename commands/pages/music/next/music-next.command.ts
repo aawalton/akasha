@@ -48,4 +48,5 @@ export const musicNext = {
     },
   ],
   name: "next",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

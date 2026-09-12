@@ -29,4 +29,5 @@ export const musicNowPlaying = {
     },
   ],
   name: "now-playing",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

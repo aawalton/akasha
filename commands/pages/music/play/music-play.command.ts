@@ -51,4 +51,5 @@ export const musicPlay = {
     },
   ],
   name: "play",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command
