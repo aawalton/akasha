@@ -55,5 +55,5 @@ export const trackWeight = {
     },
   ],
   name: "weight",
-  arguments: [{ argument: "argument/day" }, { argument: "argument/bodyweight" }],
+  arguments: [{ argument: "argument/day" }, { argument: "argument/bodyweight", required: true }],
 } as const satisfies Command
