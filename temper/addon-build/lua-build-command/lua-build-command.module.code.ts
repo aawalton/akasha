@@ -1,6 +1,6 @@
 import { dirname, join, relative } from "node:path"
-import { cliRun } from "akasha/design/language/lua-compiler/cli-run/cli-run.module.ts"
 import { luaCompiler } from "akasha/design/language/lua-compiler/lua-compiler.domain.ts"
+import { cliRun } from "akasha/design/language/lua-compiler/modules/cli-run/cli-run.module.ts"
 import { pluginNoMultiStore } from "akasha/design/language/lua-compiler/plugin-no-multi-store/plugin-no-multi-store.module.ts"
 import { pluginNoTruthyNumbers } from "akasha/design/language/lua-compiler/plugin-no-truthy-numbers/plugin-no-truthy-numbers.module.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"

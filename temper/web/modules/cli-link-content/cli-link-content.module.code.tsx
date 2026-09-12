@@ -10,7 +10,7 @@ import {
 import {
   type CliLinkFailure,
   describeCliLinkFailure,
-} from "akasha/temper/web/cli-link-failure/cli-link-failure.module.code.ts"
+} from "akasha/temper/web/modules/cli-link-failure/cli-link-failure.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { useCallback, useState } from "react"
 

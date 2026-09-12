@@ -1,9 +1,9 @@
 import { describe, expect, test } from "bun:test"
-import type { SessionEnvelope } from "akasha/story/ui/client-envelope/client-envelope.module.code.ts"
 import {
   decideFrontierAdvance,
   deriveContentFrontier,
 } from "akasha/story/ui/content-frontier/content-frontier.module.code.ts"
+import type { SessionEnvelope } from "akasha/story/ui/modules/client-envelope/client-envelope.module.code.ts"
 
 const BASE: SessionEnvelope = { title: "A Game" }
 

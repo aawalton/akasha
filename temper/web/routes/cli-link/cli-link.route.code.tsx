@@ -3,7 +3,7 @@ import { LayoutLink } from "akasha/design/interfaces/layout/router-context/route
 import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
-import { CliLinkContent } from "akasha/temper/web/cli-link-content/cli-link-content.module.code.tsx"
+import { CliLinkContent } from "akasha/temper/web/modules/cli-link-content/cli-link-content.module.code.tsx"
 import { data, useSearchParams } from "react-router"
 
 export function meta() {

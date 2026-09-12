@@ -1,21 +1,21 @@
 #!/usr/bin/env bun
-import * as cliDiagnostics from "akasha/design/language/lua-compiler/cli-diagnostics/cli-diagnostics.module.code.ts"
-import {
-  getHelpString,
-  name,
-} from "akasha/design/language/lua-compiler/cli-information/cli-information.module.code.ts"
-import { parseCommandLine } from "akasha/design/language/lua-compiler/cli-parse/cli-parse.module.code.ts"
-import { createDiagnosticReporter } from "akasha/design/language/lua-compiler/cli-report/cli-report.module.code.ts"
-import {
-  createConfigFileUpdater,
-  locateConfigFile,
-  parseConfigFileWithSystem,
-} from "akasha/design/language/lua-compiler/cli-tsconfig/cli-tsconfig.module.code.ts"
 import {
   type CompilerOptions,
   isBundleEnabled,
 } from "akasha/design/language/lua-compiler/compiler-options/compiler-options.module.code.ts"
 import * as performance from "akasha/design/language/lua-compiler/measure-performance/measure-performance.module.code.ts"
+import * as cliDiagnostics from "akasha/design/language/lua-compiler/modules/cli-diagnostics/cli-diagnostics.module.code.ts"
+import {
+  getHelpString,
+  name,
+} from "akasha/design/language/lua-compiler/modules/cli-information/cli-information.module.code.ts"
+import { parseCommandLine } from "akasha/design/language/lua-compiler/modules/cli-parse/cli-parse.module.code.ts"
+import { createDiagnosticReporter } from "akasha/design/language/lua-compiler/modules/cli-report/cli-report.module.code.ts"
+import {
+  createConfigFileUpdater,
+  locateConfigFile,
+  parseConfigFileWithSystem,
+} from "akasha/design/language/lua-compiler/modules/cli-tsconfig/cli-tsconfig.module.code.ts"
 import { createTranspiler } from "akasha/design/language/lua-compiler/transpile-transpiler/transpile-transpiler.module.code.ts"
 import * as ts from "typescript"
 

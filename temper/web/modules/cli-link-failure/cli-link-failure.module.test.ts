@@ -2,7 +2,7 @@ import { describe, expect, it } from "bun:test"
 import {
   type CliLinkFailure,
   describeCliLinkFailure,
-} from "akasha/temper/web/cli-link-failure/cli-link-failure.module.code.ts"
+} from "akasha/temper/web/modules/cli-link-failure/cli-link-failure.module.code.ts"
 
 describe("describeCliLinkFailure", () => {
   it("blames the connection only when no response arrived", () => {

@@ -1,9 +1,9 @@
 import * as path from "node:path"
-import * as cliDiagnostics from "akasha/design/language/lua-compiler/cli-diagnostics/cli-diagnostics.module.code.ts"
 import type { CompilerOptions } from "akasha/design/language/lua-compiler/compiler-options/compiler-options.module.code.ts"
 import type { Visitors } from "akasha/design/language/lua-compiler/context-visitors/context-visitors.module.code.ts"
 import type { Printer } from "akasha/design/language/lua-compiler/lua-printer-helpers/lua-printer-helpers.module.code.ts"
 import * as performance from "akasha/design/language/lua-compiler/measure-performance/measure-performance.module.code.ts"
+import * as cliDiagnostics from "akasha/design/language/lua-compiler/modules/cli-diagnostics/cli-diagnostics.module.code.ts"
 import * as diagnosticFactories from "akasha/design/language/lua-compiler/transpile-diagnostics/transpile-diagnostics.module.code.ts"
 import type {
   EmitFile,

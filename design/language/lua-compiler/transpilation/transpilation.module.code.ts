@@ -1,7 +1,7 @@
 import * as fs from "node:fs"
 import * as path from "node:path"
-import { parseConfigFileWithSystem } from "akasha/design/language/lua-compiler/cli-tsconfig/cli-tsconfig.module.code.ts"
 import type { CompilerOptions } from "akasha/design/language/lua-compiler/compiler-options/compiler-options.module.code.ts"
+import { parseConfigFileWithSystem } from "akasha/design/language/lua-compiler/modules/cli-tsconfig/cli-tsconfig.module.code.ts"
 import {
   createEmitOutputCollector,
   type TranspiledFile,

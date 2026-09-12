@@ -1,4 +1,4 @@
-import { optionDeclarations } from "akasha/design/language/lua-compiler/cli-parse/cli-parse.module.code.ts"
+import { optionDeclarations } from "akasha/design/language/lua-compiler/modules/cli-parse/cli-parse.module.code.ts"
 
 export const name = "@akasha/lua-compiler"
 
