@@ -52,5 +52,13 @@ export const flagFaultStage = {
       invariantKind: "absence",
       statement: "Nothing here writes into the folder staged.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A staged folder this made is named to the caller as soon as it is made.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder already there is named by nothing, since nothing made it.",
+    },
   ],
 } as const satisfies Module

@@ -317,12 +317,17 @@ export function landingAt(at: string): readonly string[] {
   return ["{", ...fenced("message", at, readFileSync(at, "utf8")), "} | akasha change apply"]
 }
 
+export function stagedSaid(rel: string, at: string): string {
+  return `${rel}, staged at ${at}`
+}
+
 export function stageSeries(
   root: string,
   spec: SeriesSpec,
   pages: readonly SeriesPage[],
   stage: string,
-  message: string
+  message: string,
+  done: string[] = []
 ): Staged {
   const kept = new Set(pages.map((one) => one.slug))
   const goneRels = runSlugsThere(root, spec)
@@ -348,6 +353,7 @@ export function stageSeries(
       const at = join(stage, rel)
       mkdirSync(dirname(at), { recursive: true })
       writeFileSync(at, body)
+      done.push(stagedSaid(rel, at))
       files.push({ rel, at, alreadyThere: there })
       changed.push(rel)
       calls.push(...(there ? changingFile(rel, was, at, body) : addingFile(rel, at, body)))
@@ -361,9 +367,11 @@ export function stageSeries(
   const messageAt = join(stage, "message.txt")
   mkdirSync(dirname(messageAt), { recursive: true })
   writeFileSync(messageAt, `${message}\n`)
+  done.push(stagedSaid("the message a landing carries", messageAt))
 
   const landAt = join(stage, "land.sh")
   const script = ["#!/usr/bin/env bash", "set -euo pipefail", ...calls, ...landingAt(messageAt)]
   writeFileSync(landAt, `${script.join("\n")}\n`)
+  done.push(stagedSaid("the script that lands them", landAt))
   return { files, goneRels, changed, landAt }
 }

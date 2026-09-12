@@ -68,6 +68,14 @@ export const nameSeries = {
     },
     {
       invariantKind: "departure",
+      statement: "Each body staged is named to the caller as soon as that body is written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The message and the landing script are named apart from the bodies.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The runs already there are asked of the index rather than read off the folder.",
     },
   ],

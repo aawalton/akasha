@@ -15,8 +15,17 @@ export function saidShort(thrown: unknown): string {
   return saidBy(thrown).replace(/\s+/g, " ").trim()
 }
 
-export function stagingAt(named: string | undefined, prefix: string): string {
-  if (named === undefined) return mkdtempSync(join(realpathSync(SCRATCH_PARENT), prefix))
-  mkdirSync(named, { recursive: true })
+export function stagedSaid(at: string): string {
+  return `the staging folder ${at}, which sits outside the checkout and nothing here takes away`
+}
+
+export function stagingAt(named: string | undefined, prefix: string, done: string[] = []): string {
+  if (named === undefined) {
+    const fresh = mkdtempSync(join(realpathSync(SCRATCH_PARENT), prefix))
+    done.push(stagedSaid(fresh))
+    return fresh
+  }
+  const made = mkdirSync(named, { recursive: true })
+  if (made !== undefined) done.push(stagedSaid(made))
   return realpathSync(named)
 }

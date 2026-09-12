@@ -4,6 +4,7 @@ import { join } from "node:path"
 import {
   saidFor,
   saidShort,
+  stagedSaid,
   stagingAt,
 } from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
 
@@ -54,4 +55,19 @@ test("a staged folder the caller named is made and answered as the real path of 
   const named = join(parent, "under", "here")
   expect(stagingAt(named, PREFIX)).toBe(realpathSync(named))
   expect(existsSync(named)).toBe(true)
+})
+
+test("a staged folder this made is named to the caller as soon as it is made", () => {
+  const done: string[] = []
+  const made = stagingAt(undefined, PREFIX, done)
+  MADE.push(made)
+  expect(done).toEqual([stagedSaid(made)])
+})
+
+test("a folder already there is named by nothing, since nothing made it", () => {
+  const parent = mkdtempSync(join(realpathSync(SCRATCH_PARENT), PREFIX))
+  MADE.push(parent)
+  const done: string[] = []
+  stagingAt(parent, PREFIX, done)
+  expect(done).toEqual([])
 })

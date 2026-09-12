@@ -8,7 +8,9 @@ import {
 } from "akasha/code/name-series/name-series.module.code.ts"
 import {
   answeredWith,
+  answering,
   DATA,
+  naming,
   OK,
   refused,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -45,7 +47,17 @@ const BINDING = "ESO_BASE_GAME_STRING_IDS"
 
 const STAGE_PREFIX = "eso-base-game-string-ids-stage-"
 
-export function temperEsoGenerateBaseGameGlobal(argv: readonly string[], given: Given): Answer {
+export type Staging = (done: string[], argv: readonly string[], given: Given) => Answer
+
+export async function temperEsoGenerateBaseGameGlobal(
+  argv: readonly string[],
+  given: Given,
+  staging: Staging = staged
+): Promise<Answer> {
+  return await answering((done) => naming(done, staging(done, argv, given)))
+}
+
+function staged(done: string[], argv: readonly string[], given: Given): Answer {
   const namedCheckout = saidFor(argv, CODE_ROOT_FLAG)
 
   let checkout: string
@@ -119,12 +131,13 @@ export function temperEsoGenerateBaseGameGlobal(argv: readonly string[], given: 
 
   const pages = renderSeries(checkout, spec)
   const runs = pages.length - 1
-  const staged = stageSeries(
+  const put = stageSeries(
     checkout,
     spec,
     pages,
-    stagingAt(saidFor(argv, STAGE_FLAG), STAGE_PREFIX),
-    `write the base-game string-id census from the ~/esoui clone at API ${String(apiVersion)}`
+    stagingAt(saidFor(argv, STAGE_FLAG), STAGE_PREFIX, done),
+    `write the base-game string-id census from the ~/esoui clone at API ${String(apiVersion)}`,
+    done
   )
 
   const report = [
@@ -132,17 +145,17 @@ export function temperEsoGenerateBaseGameGlobal(argv: readonly string[], given: 
     `saw ${String(seen.size)} base-game name(s) and kept ${String(spec.names.length)} string id(s) ` +
       `divided into ${String(runs)} run(s)`,
     ...pages.map((one) => `  ${String(byteLength(one.code))}\t${one.codeRel}`),
-    ...staged.goneRels.map((rel) => `  gone\t${rel}`),
+    ...put.goneRels.map((rel) => `  gone\t${rel}`),
   ]
 
   const held = pages.find((one) => one.slug === STEM)
-  if (staged.files.some((one) => one.rel === held?.pageRel && one.alreadyThere)) {
+  if (put.files.some((one) => one.rel === held?.pageRel && one.alreadyThere)) {
     report.push(
       `the aggregate's page is there and was not staged again, so what a hand put on ${String(held?.pageRel)} survives`
     )
   }
 
-  if (staged.landAt === null) {
+  if (put.landAt === null) {
     report.push(
       "every body above is already what this run rendered, so there is nothing to land",
       `that is the round trip: the ${String(runs)} runs compose back to the ${String(spec.names.length)} string ids one file would have held`
@@ -151,18 +164,18 @@ export function temperEsoGenerateBaseGameGlobal(argv: readonly string[], given: 
   }
 
   report.push(
-    `nothing has landed. ${String(staged.changed.length)} file(s) differ from what is there; to land them, run: bash ${staged.landAt}`,
+    `nothing has landed. ${String(put.changed.length)} file(s) differ from what is there; to land them, run: bash ${put.landAt}`,
     "a write over a body the read record does not show you read is refused, so every body above that is already there has to be read first"
   )
 
   const arrived = pages
-    .filter((one) => one.slug !== STEM && staged.changed.includes(one.pageRel))
+    .filter((one) => one.slug !== STEM && put.changed.includes(one.pageRel))
     .map((one) => one.slug)
-  if (arrived.length > 0 || staged.goneRels.length > 0) {
+  if (arrived.length > 0 || put.goneRels.length > 0) {
     report.push(
       "the run count changed, so the temper-build-deploy-checks workspace-package page's part slugs no longer match what is there; nothing here writes that list",
       ...arrived.map((slug) => `  add     module/${slug}`),
-      ...staged.goneRels.map((rel) => `  remove  ${rel}`)
+      ...put.goneRels.map((rel) => `  remove  ${rel}`)
     )
   }
 
