@@ -67,14 +67,13 @@ export function heldAt(root: string, flag: string, path: string, piping: Piping 
 
 export type Prose = { readonly text: string | undefined } | { readonly refused: readonly string[] }
 
-export function proseIn(
+export function filledIn(
   root: string,
-  named: Readonly<Record<string, string>>,
+  inline: string | undefined,
+  path: string | undefined,
   one: Filing,
   piping: Piping = inputIn
 ): Prose {
-  const inline = named[one.said]
-  const path = named[one.file]
   if (inline !== undefined && path !== undefined) {
     return {
       refused: [
@@ -87,4 +86,13 @@ export function proseIn(
   const held = heldAt(root, one.file, path, piping)
   if ("refused" in held) return held
   return { text: one.whole ? held.text : held.text.replace(TRAILING_LINES, "") }
+}
+
+export function proseIn(
+  root: string,
+  named: Readonly<Record<string, string>>,
+  one: Filing,
+  piping: Piping = inputIn
+): Prose {
+  return filledIn(root, named[one.said], named[one.file], one, piping)
 }

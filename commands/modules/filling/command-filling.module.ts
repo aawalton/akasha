@@ -46,5 +46,10 @@ export const commandFilling = {
       invariantKind: "departure",
       statement: "A file that would not open is answered as a refusal rather than thrown.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A pair of values handed in is read as the same pair looked up in what a call said.",
+    },
   ],
 } as const satisfies Module

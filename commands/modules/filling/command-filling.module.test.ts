@@ -3,6 +3,7 @@ import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
   filing,
+  filledIn,
   proseIn,
   wordFilling,
 } from "akasha/commands/modules/filling/command-filling.module.code.ts"
@@ -55,6 +56,15 @@ test("a file that would not open is refused rather than thrown", () => {
 test("a terminal where the file is `-` is nothing piped in", () => {
   const held = proseIn("/nowhere", { [TEXT.file]: "-" }, TEXT, TERMINAL)
   expect("refused" in held ? held.refused.join("") : "").toContain("nothing is piped in")
+})
+
+test("the two values a filing holds are read the same handed in as looked up", () => {
+  const root = scratch.rootFor("command-filling-")
+  writeFileSync(join(root, "handed.md"), "Line one\n")
+  expect(filledIn(root, "hello", undefined, TEXT, TERMINAL)).toEqual({ text: "hello" })
+  expect(filledIn(root, undefined, "handed.md", TEXT, TERMINAL)).toEqual({ text: "Line one" })
+  expect(filledIn(root, undefined, undefined, TEXT, TERMINAL)).toEqual({ text: undefined })
+  expect("refused" in filledIn(root, "hello", "handed.md", TEXT, TERMINAL)).toBe(true)
 })
 
 test("a bare word fills the flag nothing said", () => {
