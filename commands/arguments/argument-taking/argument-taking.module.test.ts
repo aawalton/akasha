@@ -17,6 +17,7 @@ import {
   LIMIT,
   LIMIT_PAGE,
   NAMING_NONE,
+  NAMING_TAIL,
   NAMING_THEM,
   NODE,
   ONE_OF_THEM,
@@ -25,6 +26,7 @@ import {
   REST,
   SEAT_PAGE,
   SLUG,
+  TAIL_PAGE,
   TO,
   VIDEO,
 } from "akasha/commands/arguments/argument-taking/argument-taking.module.test-fixtures.ts"
@@ -356,6 +358,19 @@ test("a command page naming no argument is answered with nothing taken", () => {
   const read = takenFor([], "akasha thing", NAMING_NONE, [])
   if ("refused" in read) throw new Error(read.refused.join("; "))
   expect(read.taken).toEqual({})
+})
+
+test("an argument page carrying a default is answered with it where no call says it", () => {
+  const read = takenFor([], "akasha thing", NAMING_TAIL, [TAIL_PAGE])
+  if ("refused" in read) throw new Error(read.refused.join("; "))
+  const tail: number = read.taken.tail
+  expect(tail).toBe(100)
+})
+
+test("a call saying an argument takes that value over the default", () => {
+  const read = takenFor(["--tail", "7"], "akasha thing", NAMING_TAIL, [TAIL_PAGE])
+  if ("refused" in read) throw new Error(read.refused.join("; "))
+  expect(read.taken.tail).toBe(7)
 })
 
 test("a word argument and a flag argument may not be said together", () => {

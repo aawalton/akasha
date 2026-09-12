@@ -112,6 +112,18 @@ export const argumentTaking = {
     },
     {
       invariantKind: "departure",
+      statement: "An argument page carrying a default is always answered, as a needed one is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A default is read as a said value is read, so a whole number answers a number.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call saying an argument takes that value over the default.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "An argument carrying a value a command page does not need is left out where nothing said it.",
     },

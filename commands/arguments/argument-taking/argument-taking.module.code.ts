@@ -205,8 +205,10 @@ export function takingIn(
   for (const one of naming) {
     const key = exportedAs(one.argument.slug)
     if (key in state.taken) continue
+    const byDefault = one.argument.default
     if (!carries(one.argument)) state.taken[key] = false
     else if (repeating(one)) state.taken[key] = []
+    else if (byDefault !== undefined) state.taken[key] = heldOf(one.argument, byDefault)
   }
   return { taken: state.taken }
 }
@@ -260,7 +262,9 @@ type Filled<Entry extends Named, Pages extends Argument> = Entry extends {
     ? true
     : Repeating<Entry> extends true
       ? true
-      : false
+      : PageOf<Entry, Pages> extends { readonly default: string }
+        ? true
+        : false
 
 type Unnamed<Page extends Commanding, Pages extends Argument> = Exclude<
   Slugged<Entries<Page>["argument"]>,

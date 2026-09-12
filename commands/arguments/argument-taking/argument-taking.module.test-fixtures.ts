@@ -75,7 +75,19 @@ export const TO_PAGE = {
   value: "text",
 } as const satisfies Argument
 
+export const TAIL_PAGE = {
+  id: "01a09400-0000-7000-8000-000000000005",
+  type: "argument",
+  slug: "tail",
+  said: "--tail",
+  takes: "what tail is for",
+  value: "whole-number",
+  default: "100",
+} as const satisfies Argument
+
 export const PAGES = [DRY_RUN_PAGE, SEAT_PAGE, LIMIT_PAGE, TO_PAGE]
+
+export const NAMING_TAIL = { slug: "thing", arguments: [{ argument: "argument/tail" }] } as const
 
 export const NAMING_THEM = {
   slug: "thing",

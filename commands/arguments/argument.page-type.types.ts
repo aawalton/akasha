@@ -1,3 +1,4 @@
+import type { ArgumentDefault } from "akasha/commands/arguments/properties/argument-default.text-property.types.ts"
 import type { ArgumentValue } from "akasha/commands/arguments/properties/argument-value.select-property.types.ts"
 import type { Placeholder } from "akasha/commands/arguments/properties/placeholder.text-property.types.ts"
 import type { Said } from "akasha/commands/properties/said.text-property.types.ts"
@@ -9,4 +10,5 @@ export type Argument = Page & {
   takes: Takes
   value: ArgumentValue
   placeholder?: Placeholder
+  default?: ArgumentDefault
 }

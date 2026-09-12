@@ -9,6 +9,7 @@ export const argument = {
   extends: ["page-type/page"],
   parts: [
     "select-property/argument-value",
+    "text-property/argument-default",
     "text-property/placeholder",
     "text-property/said",
     "text-property/takes",
@@ -22,6 +23,7 @@ export const argument = {
     { pageProperty: "text-property/takes", required: true, many: false },
     { pageProperty: "select-property/argument-value", required: true, many: false },
     { pageProperty: "text-property/placeholder", required: false, many: false },
+    { pageProperty: "text-property/argument-default", required: false, many: false },
   ],
   invariants: [
     {
@@ -35,6 +37,14 @@ export const argument = {
     {
       invariantKind: "departure",
       statement: "Whether a command needs an argument belongs to that command.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What an argument carries where no call says it belongs here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An argument carrying a default is answered to every command taking it.",
     },
     {
       invariantKind: "gap",
