@@ -16,5 +16,6 @@ export const ttcClient = {
     wantedBy: "graphical-session.target",
     restart: "on-failure",
     restartDelaySeconds: 10,
+    stops: ["-/usr/bin/pkill -f TamrielTradeCentre.Client.Client.exe"],
   },
 } as const satisfies ServiceWorkstation
