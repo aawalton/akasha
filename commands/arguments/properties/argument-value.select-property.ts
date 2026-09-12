@@ -16,6 +16,7 @@ export const argumentValue = {
       invariantKind: "departure",
       statement: "A path is read against the repository root rather than the calling folder.",
     },
+    { invariantKind: "absence", statement: "No value here is a body piped in." },
   ],
   types: "ts",
 } as const satisfies SelectProperty

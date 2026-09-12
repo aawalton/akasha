@@ -45,6 +45,7 @@ export const argument = {
       invariantKind: "gap",
       statement: "A command's code reads its arguments through a type written from these pages.",
     },
+    { invariantKind: "absence", statement: "A key piped into a change is no argument here." },
   ],
   types: "ts",
 } as const satisfies PageType
