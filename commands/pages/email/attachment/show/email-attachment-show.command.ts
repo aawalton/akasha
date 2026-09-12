@@ -10,11 +10,10 @@ export const emailAttachmentShow = {
   taking: [
     { said: "<id>", takes: "the message the attachment hangs off, said as Gmail's own id" },
     { said: "--message <id>", takes: "that message, where no id follows the command" },
-    { said: "--attachment-id <id>", takes: "which attachment of that message to fetch" },
-  ],
-  helpNotes: [
-    "an attachment id is learned from `email attachment list`, which names one for each attachment a message carries.",
-    "the bytes come back base64url-encoded under `data`, with `size` beside them.",
+    {
+      said: "--attachment-id <id>",
+      takes: "which attachment to fetch, said as `email attachment list` names it",
+    },
   ],
   invariants: [
     {
