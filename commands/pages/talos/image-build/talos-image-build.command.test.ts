@@ -11,7 +11,6 @@ import type {
 } from "akasha/commands/pages/talos/image-build/talos-image-build.command.code.ts"
 import {
   isoSaid,
-  readIn,
   registeredSchematic,
   schematicSaid,
   wroteIso,
@@ -36,10 +35,6 @@ const writing: Writing = async () => undefined
 const failing: Writing = async () => {
   throw new OperationalError("the file would not open")
 }
-
-test("a node named twice is refused", () => {
-  expect("refused" in readIn(["one", "--node", "two"])).toBe(true)
-})
 
 test("the schematic is named as soon as the factory holds it", async () => {
   const done: string[] = []

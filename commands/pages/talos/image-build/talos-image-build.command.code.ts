@@ -1,5 +1,8 @@
 import { writeFile } from "node:fs/promises"
 import { resolve } from "node:path"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { download } from "akasha/commands/arguments/pages/download.argument.ts"
+import { node as nodeArgument } from "akasha/commands/arguments/pages/node.argument.ts"
 import {
   answering,
   OPERATIONAL,
@@ -12,6 +15,7 @@ import {
 } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { talosImageBuild as page } from "akasha/commands/pages/talos/image-build/talos-image-build.command.ts"
 import { buildSchematic } from "akasha/infrastructure/cluster/provisioning/talos/build-schematic/build-schematic.module.code.ts"
 import { emitSchematicYaml } from "akasha/infrastructure/cluster/provisioning/talos/emit-yaml/emit-yaml.module.code.ts"
 import {
@@ -27,63 +31,7 @@ import type {
   NodeIntent,
 } from "akasha/infrastructure/cluster/provisioning/talos/schema/schema.module.code.ts"
 
-export const NODE = "--node"
-
-export const DOWNLOAD = "--download"
-
-const VALUED: readonly string[] = [NODE, DOWNLOAD]
-
-export type Named = { readonly node: string; readonly download: string | null }
-
-export type Read = Named | { readonly refused: readonly string[] }
-
-export function readIn(argv: readonly string[]): Read {
-  const refusals: string[] = []
-  const flags = new Map<string, string>()
-  const words: string[] = []
-  for (let at = 0; at < argv.length; at += 1) {
-    const one = argv[at]
-    if (one === undefined) continue
-    if (!one.startsWith("-")) {
-      words.push(one)
-      continue
-    }
-    const cut = one.indexOf("=")
-    const name = cut === -1 ? one : one.slice(0, cut)
-    if (!VALUED.includes(name)) {
-      refusals.push(`\`${name}\` is no flag this takes — it takes \`${VALUED.join("`, `")}\``)
-      continue
-    }
-    if (cut !== -1) {
-      flags.set(name, one.slice(cut + 1))
-      continue
-    }
-    const next = argv[at + 1]
-    if (next === undefined || next.startsWith("-")) {
-      refusals.push(`\`${name}\` names a value, and nothing followed it`)
-      continue
-    }
-    flags.set(name, next)
-    at += 1
-  }
-  const said = words[0]
-  if (said !== undefined) {
-    if (flags.has(NODE)) {
-      refusals.push(`the node is named twice — \`${said}\` as a word and after \`${NODE}\``)
-    } else {
-      flags.set(NODE, said)
-    }
-  }
-  if (words.length > 1) {
-    refusals.push(`this names one node, and ${words.length} words were said`)
-  }
-  const node = flags.get(NODE)
-  if (node === undefined) {
-    refusals.push(`this names the node to register for, as a word or after \`${NODE}\``)
-  }
-  if (node === undefined || refusals.length > 0) return { refused: refusals }
-  return { node, download: flags.get(DOWNLOAD) ?? null }
-}
+export type Named = { readonly node: string; readonly download?: string }
 
 export async function fetched(
   url: string
@@ -149,7 +97,7 @@ async function building(
   const id = await registeredSchematic(emitSchematicYaml(buildSchematic(node)), registering, done)
   const isoUrl = installerIsoUrl(id, cluster.talosVersion)
   done.push(`installer iso: ${isoUrl}`)
-  if (read.download === null) return told(done)
+  if (read.download === undefined) return told(done)
   const got = await fetched(isoUrl)
   if ("refused" in got) return answeredWith(done, [got.refused], OPERATIONAL)
   await wroteIso(resolve(given.root, read.download), got.bytes, writing, done)
@@ -162,7 +110,7 @@ export async function talosImageBuild(
   registering: Registering = registerSchematic,
   writing: Writing = writeFile
 ): Promise<Answer> {
-  const read = readIn(argv)
+  const read = takenFor(argv, given.calledAs, page, [nodeArgument, download])
   if ("refused" in read) return mistaking(read.refused)
-  return await answering(async (done) => building(read, given, registering, writing, done))
+  return await answering(async (done) => building(read.taken, given, registering, writing, done))
 }
