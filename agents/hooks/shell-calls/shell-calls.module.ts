@@ -118,30 +118,40 @@ export const shellCalls = {
       statement: "Every hook cuts a command line the same way without saying how twice.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "constraint",
       statement:
         "A prefix this module does not name hides the call behind that prefix from every hook.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "constraint",
       statement:
         "An assignment whose value the shell rewrites hides the call in that value from every hook.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "constraint",
       statement: "A substitution in command position is read as part of the command word.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "constraint",
       statement: "A subshell's opening parenthesis is read as part of the command word.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "constraint",
       statement: "A variable in command position is read as that variable rather than its value.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "constraint",
       statement: "A double-quoted substitution is taken out whole, leaving the line no segment.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "A call a substitution, a subshell or a variable holds is found as a call on the line is.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "A call a prefix or an assignment's value holds is found as a call on the line is.",
     },
   ],
 } as const satisfies Module
