@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import {
+  commitSaid,
   defaultMessage,
   formattedSaid,
 } from "akasha/commands/modules/landing-saying/landing-saying.module.code.ts"
@@ -23,4 +24,17 @@ test("three paths are still named one by one", () => {
 
 test("a landing carrying more than three paths is said as how many paths landed", () => {
   expect(defaultMessage("replace in", ["a.ts", "b.ts", "c.ts", "d.ts"])).toBe("replace in 4 files")
+})
+
+test("a landing that committed nothing says which of the two reasons it was", () => {
+  expect(commitSaid("abc123", [])).toBe("committed as abc123")
+  expect(commitSaid(null, [])).toContain("the tree already holds what the change asked for")
+})
+
+test("a landing that took away a path the repository ignores names every such path", () => {
+  const said = commitSaid(null, ["akasha/two.uncommitted.ts", "akasha/one.uncommitted.ts"])
+
+  expect(said).toContain("git ignores the path(s) this apply took away")
+  expect(said).toContain("akasha/one.uncommitted.ts, akasha/two.uncommitted.ts")
+  expect(said).not.toContain("already holds what the change asked for")
 })

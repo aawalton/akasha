@@ -39,6 +39,26 @@ export const landingSaying = {
       statement: "An index left naming what did not land says how to build the index again.",
     },
     {
+      invariantKind: "departure",
+      statement: "A landing that committed is said as the commit that landing made.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing that committed nothing says which of the two reasons it was.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tree already holding what was asked for is one reason.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Paths the repository ignores being taken away is the other.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing that took such a path away names every path it took, sorted.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads a file.",
     },

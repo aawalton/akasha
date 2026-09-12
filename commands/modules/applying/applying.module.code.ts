@@ -21,6 +21,7 @@ import { refusedWhereHeld } from "akasha/commands/modules/holding/holding.module
 import { landing, type Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
 import { carryLanded } from "akasha/commands/modules/landing-reading/landing-reading.module.code.ts"
 import {
+  commitSaid,
   defaultMessage,
   formattedSaid,
 } from "akasha/commands/modules/landing-saying/landing-saying.module.code.ts"
@@ -71,19 +72,9 @@ const NO_MEASURE = "`measure` takes `true`, and this one says something else"
 const NOTHING_MEASURED =
   "this apply was to measure, and nothing it carries sits beside a test, so nothing landed"
 
-const NOTHING_COMMITTED = "nothing was committed — the tree already holds what the change asked for"
-
-const TOOK_OUTSIDE = "nothing was committed, because git ignores the path(s) this apply took away:"
-
 const AFTER_COMMIT = "the commit landed, and the work after that commit stopped —"
 
 type Put = { readonly said: readonly string[]; readonly wrong: readonly string[] }
-
-export function commitSaid(commit: string | null, untracked: readonly string[]): string {
-  if (commit !== null) return `committed as ${commit}`
-  if (untracked.length === 0) return NOTHING_COMMITTED
-  return `${TOOK_OUTSIDE} ${[...untracked].sort().join(", ")}`
-}
 
 function seatOver(root: string, page: string): string | null {
   const said = partedIn(page)

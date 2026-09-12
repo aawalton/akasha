@@ -6,7 +6,6 @@ import {
   applied,
   askedIn,
   type Carried,
-  commitSaid,
   messageFor,
 } from "akasha/commands/modules/applying/applying.module.code.ts"
 import type { Running } from "akasha/commands/modules/drafting/drafting.module.code.ts"
@@ -92,19 +91,6 @@ test("an apply carrying more than three paths says the act and how many landed",
 
 test("an apply given a message commits that message rather than a composed one", () => {
   expect(messageFor("held", [rowAt("akasha/one.ts")])).toBe("held")
-})
-
-test("an apply that committed nothing says which of the two reasons it was", () => {
-  expect(commitSaid("abc123", [])).toBe("committed as abc123")
-  expect(commitSaid(null, [])).toContain("the tree already holds what the change asked for")
-})
-
-test("an apply that took away a path the repository ignores names every such path", () => {
-  const said = commitSaid(null, ["akasha/two.uncommitted.ts", "akasha/one.uncommitted.ts"])
-
-  expect(said).toContain("git ignores the path(s) this apply took away")
-  expect(said).toContain("akasha/one.uncommitted.ts, akasha/two.uncommitted.ts")
-  expect(said).not.toContain("already holds what the change asked for")
 })
 
 test("an apply lands the bodies handed in, names and records them, and moves a path", async () => {
