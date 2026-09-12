@@ -49,11 +49,15 @@ export const seatLaunching = {
     },
     {
       invariantKind: "departure",
-      statement: "The scope a launch makes is capped at eight of the machine's cores.",
+      statement: "That scope bounds how many tasks the tmux server under it may make.",
     },
     {
-      invariantKind: "departure",
-      statement: "That scope bounds how many tasks the seats under it may make.",
+      invariantKind: "gap",
+      statement: "The pane scope tmux makes for a seat bounds how many tasks that seat may make.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No ceiling on processor time is put on the scope a launch makes.",
     },
     {
       invariantKind: "departure",
@@ -61,7 +65,11 @@ export const seatLaunching = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat takes the default share of a core that seat contends for.",
+      statement: "A seat is bounded by the share the seats hold rather than by a ceiling.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat takes the whole machine while nothing else wants it.",
     },
     {
       invariantKind: "departure",

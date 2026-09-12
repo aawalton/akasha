@@ -120,8 +120,6 @@ test("a scope is a collected quiet user scope under the unit it is given", () =>
     "--collect",
     "--quiet",
     "-p",
-    "CPUQuota=800%",
-    "-p",
     "CPUWeight=100",
     "-p",
     "TasksMax=2000",
@@ -129,14 +127,15 @@ test("a scope is a collected quiet user scope under the unit it is given", () =>
   ])
 })
 
-test("a seat is bounded at eight cores so one seat cannot take the whole machine", () => {
-  expect(scopeArgv("u")).toContain("CPUQuota=800%")
+test("a seat is bounded by its share rather than by a ceiling on processor time", () => {
+  expect(scopeArgv("u").join(" ")).not.toContain("CPUQuota")
+  expect(scopeArgv("u")).toContain("CPUWeight=100")
   expect(scopeArgv("u")).toContain("TasksMax=2000")
 })
 
 test("the shell form of a scope takes the unit already spelled", () => {
   expect(scopeShell('"--unit=$_unit"')).toBe(
-    "systemd-run --user --scope --collect --quiet -p CPUQuota=800% -p CPUWeight=100 " +
+    "systemd-run --user --scope --collect --quiet -p CPUWeight=100 " +
       '-p TasksMax=2000 "--unit=$_unit"'
   )
 })
@@ -301,14 +300,12 @@ test("a launch onto a server already up carries neither scope nor server options
 
 test("a launch that begins the server puts it in a scope and gives the server options", () => {
   const argv = underScope(["new-session", "-d"], "tmux-seat-athena-7")
-  expect(argv.slice(0, 13)).toEqual([
+  expect(argv.slice(0, 11)).toEqual([
     "systemd-run",
     "--user",
     "--scope",
     "--collect",
     "--quiet",
-    "-p",
-    "CPUQuota=800%",
     "-p",
     "CPUWeight=100",
     "-p",
@@ -316,7 +313,7 @@ test("a launch that begins the server puts it in a scope and gives the server op
     "--unit=tmux-seat-athena-7",
     "tmux",
   ])
-  expect(argv.slice(13, 17)).toEqual(["set-option", "-g", "history-limit", "50000"])
+  expect(argv.slice(11, 15)).toEqual(["set-option", "-g", "history-limit", "50000"])
   expect(argv.slice(-2)).toEqual(["new-session", "-d"])
 })
 
@@ -416,7 +413,7 @@ test("a launch with no server up begins one inside a scope", async () => {
   )
   await launching(asked(), ROOT, how)
   const launch = calls.find((one) => one[0] === "systemd-run")
-  expect(launch?.[11]).toBe("--unit=tmux-seat-athena-1700000000000")
+  expect(launch?.[9]).toBe("--unit=tmux-seat-athena-1700000000000")
 })
 
 test("tmux refusing the launch is answered with what tmux said", async () => {

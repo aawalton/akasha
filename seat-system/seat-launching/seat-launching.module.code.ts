@@ -22,8 +22,6 @@ const HEADLESS_FLAG = "--headless"
 
 const SCOPE_COMMAND = "systemd-run"
 
-const SEAT_CORES = 8
-
 const SEAT_SHARE = 100
 
 const SEAT_TASKS = 2000
@@ -33,8 +31,6 @@ const SCOPE_FLAGS: readonly string[] = [
   "--scope",
   "--collect",
   "--quiet",
-  "-p",
-  `CPUQuota=${String(SEAT_CORES * 100)}%`,
   "-p",
   `CPUWeight=${String(SEAT_SHARE)}`,
   "-p",
