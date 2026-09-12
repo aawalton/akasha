@@ -12,14 +12,14 @@ export const temperInventoryRuleShow = {
     { said: "--json", takes: "give the rule as JSON" },
     { said: "--tsv", takes: "give one tab-separated row rather than JSON" },
   ],
-  helpNotes: [
-    "the rules a person wrote are looked in first, then the controlled rules worked out from settings.",
-    "a controlled rule is named as `controlled:` and what it was worked out from.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "The rules a person wrote are looked in before the controlled ones.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A controlled rule's id is `controlled:` and what that rule was worked out from.",
     },
     {
       invariantKind: "departure",
