@@ -9,7 +9,7 @@ export const musicCapture = {
   test: "ts",
   testFixtures: "ts",
   parts: ["module/play-row"],
-  taking: [{ said: "--dry-run", takes: "say what would land and write nothing" }],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -84,5 +84,5 @@ export const musicCapture = {
     },
   ],
   name: "capture",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/dry-run" }],
 } as const satisfies Command
