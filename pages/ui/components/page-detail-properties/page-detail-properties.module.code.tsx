@@ -5,7 +5,7 @@ import type {
   PropertyDefinition,
 } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import type { PropertyValue } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
-import { RESERVED_PROPERTY_IDS } from "akasha/pages/ui/components/card-property-columns/card-property-columns.module.code.ts"
+import { RESERVED_PROPERTY_IDS } from "akasha/pages/ui/components/modules/card-property-columns/card-property-columns.module.code.ts"
 import { PropertyBadge } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
 import { useMemo } from "react"
 

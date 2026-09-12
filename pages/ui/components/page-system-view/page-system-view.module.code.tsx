@@ -7,7 +7,7 @@ import { applySearch } from "akasha/pages/core/view/modules/apply-search/apply-s
 import {
   buildTableColumns,
   isCardEligibleProperty,
-} from "akasha/pages/ui/components/card-property-columns/card-property-columns.module.code.ts"
+} from "akasha/pages/ui/components/modules/card-property-columns/card-property-columns.module.code.ts"
 import type { PageSystemTabContentProps } from "akasha/pages/ui/components/page-system-tab-content-props/page-system-tab-content-props.module.code.ts"
 import { PageSystemViewBody } from "akasha/pages/ui/components/page-system-view-body/page-system-view-body.module.code.tsx"
 import { PageSystemViewHeader } from "akasha/pages/ui/components/page-system-view-header/page-system-view-header.module.code.tsx"

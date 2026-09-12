@@ -5,7 +5,7 @@ import type {
   PropertyDefinition,
 } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import { propertyTypeRendersWhenEmpty } from "akasha/pages/core/property-types/registry/registry.module.code.ts"
-import { selectVisibleCardProperties } from "akasha/pages/ui/components/card-property-columns/card-property-columns.module.code.ts"
+import { selectVisibleCardProperties } from "akasha/pages/ui/components/modules/card-property-columns/card-property-columns.module.code.ts"
 import {
   isEmptyValue,
   PropertyBadge,

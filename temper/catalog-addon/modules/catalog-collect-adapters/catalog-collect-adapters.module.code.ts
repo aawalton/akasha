@@ -1,4 +1,4 @@
-import { ADDON_NAME } from "akasha/temper/catalog-addon/catalog-constants/catalog-constants.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/catalog-addon/modules/catalog-constants/catalog-constants.module.code.ts"
 import type { CatalogWalkVerdict } from "akasha/temper/catalog-core/catalog-walk/catalog-walk.module.code.ts"
 import { getCatalogDomains } from "akasha/temper/catalog-core/domain-registry/domain-registry.module.code.ts"
 import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"

@@ -4,11 +4,11 @@ import {
   carrierAt,
   carrierFor,
   digestOf,
-} from "akasha/code/carried-file/carried-file.module.code.ts"
+} from "akasha/code/modules/carried-file/carried-file.module.code.ts"
 import {
   CRATE_AT,
   CRATE_CARRIER_AT,
-} from "akasha/code/carried-file/carried-file.module.test-fixtures.ts"
+} from "akasha/code/modules/carried-file/carried-file.module.test-fixtures.ts"
 
 const BYTES = new Uint8Array([0, 1, 2, 255, 0, 65, 66, 0])
 

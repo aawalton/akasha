@@ -4,12 +4,12 @@ import {
   runProtected,
   scheduleLater,
   writeWalkVerdict,
-} from "akasha/temper/catalog-addon/catalog-collect-adapters/catalog-collect-adapters.module.code.ts"
+} from "akasha/temper/catalog-addon/modules/catalog-collect-adapters/catalog-collect-adapters.module.code.ts"
 import {
   ADDON_NAME,
   DOMAIN_DELAY,
   DOMAIN_TIMEOUT,
-} from "akasha/temper/catalog-addon/catalog-constants/catalog-constants.module.code.ts"
+} from "akasha/temper/catalog-addon/modules/catalog-constants/catalog-constants.module.code.ts"
 import {
   type CatalogWalkVerdict,
   runCatalogWalk,

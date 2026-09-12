@@ -4,7 +4,7 @@ WORKDIR /icon
 # file in akasha holds a NUL byte. This stage writes the bytes back out under the name
 # the carrier states, and carried-file refuses where the sha256 it states is not what
 # came out, which fails this RUN rather than baking a wrong icon.
-COPY code/carried-file/carried-file.module.code.ts ./carried-file.ts
+COPY code/modules/carried-file/carried-file.module.code.ts ./carried-file.ts
 COPY temper/watcher-tray/watcher-tray.rust-crate.icon.json ./carrier.json
 RUN mkdir -p /out && bun -e 'const { carriedIn } = await import("./carried-file.ts"); const one = carriedIn(await Bun.file("carrier.json").text(), "watcher-tray.rust-crate.icon.json"); await Bun.write("/out/" + one.name, one.bytes)'
 
