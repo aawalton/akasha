@@ -1,17 +1,15 @@
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { temperInventoryRuleList as page } from "akasha/commands/pages/temper/inventory/rule/list/temper-inventory-rule-list.command.ts"
 import {
-  answeredCall,
+  answeredWith,
   categoryRow,
-  JSON_FLAG,
   settingsOf,
-  shapeOf,
   toldOf,
   toldRows,
 } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import { buildAllControlledRules } from "akasha/temper/items-rules-core/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
 import type { CategoryRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-
-const SHAPE = shapeOf([JSON_FLAG], { alone: [JSON_FLAG] })
 
 const COLUMNS = [
   "pos",
@@ -24,7 +22,7 @@ const COLUMNS = [
   "controlled",
 ]
 
-async function listed(held: ReadonlyMap<string, string>): Promise<Answer> {
+async function withControlled(asJson: boolean): Promise<Answer> {
   const settingsAccess = await settingsOf()
   const [settings, automation] = await Promise.all([
     settingsAccess.read(),
@@ -32,7 +30,7 @@ async function listed(held: ReadonlyMap<string, string>): Promise<Answer> {
   ])
   const derived = buildAllControlledRules(automation)
   const controlled = [...derived.characterRules, ...derived.companionRules]
-  if (held.has(JSON_FLAG)) {
+  if (asJson) {
     const every: readonly CategoryRule[] = [...controlled, ...settings.rules]
     return toldOf(
       every.map((one, at) => ({
@@ -54,5 +52,7 @@ export async function temperInventoryRuleList(
   argv: readonly string[],
   given: Given
 ): Promise<Answer> {
-  return await answeredCall(argv, given.calledAs, SHAPE, listed)
+  return await answeredWith(argv, given.calledAs, page, [json], (taken) =>
+    withControlled(taken.json)
+  )
 }
