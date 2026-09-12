@@ -47,11 +47,11 @@ export function codeOf(thrown: unknown): number {
 export function faulted(thrown: unknown): Answer {
   const [frame] = framesOf(thrown, 1)
   const said = frame === undefined ? [whyOf(thrown)] : [whyOf(thrown), `thrown at ${frame}`]
-  return { report: [], refusals: said, code: codeOf(thrown) }
+  return refusedBy(said, codeOf(thrown))
 }
 
 export function unclassified(thrown: unknown, calledAs: string): Answer {
-  return { report: [], refusals: [`${calledAs}: ${whyOf(thrown)}`], code: UNCLASSIFIED }
+  return refusedBy([`${calledAs}: ${whyOf(thrown)}`], UNCLASSIFIED)
 }
 
 const STOPPED = "this stopped part way. What it had done by then is this:"
@@ -78,9 +78,7 @@ export async function answering(
   try {
     return await work(done)
   } catch (thrown) {
-    const said = faulted(thrown)
-    if (done.length === 0) return said
-    return { report: done, refusals: [...said.refusals, ...partWay(done)], code: said.code }
+    return keeping(done, faulted(thrown))
   }
 }
 
