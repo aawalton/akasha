@@ -55,6 +55,20 @@ export const inferenceVideoQa = {
       invariantKind: "absence",
       statement: "Nothing here writes a clip or a frame the caller keeps.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "That one of the two is named is held in this command's code rather than in a narrowing.",
+    },
   ],
   name: "video-qa",
+  arguments: [
+    { argument: "argument/video", notWith: ["argument/frames-dir"] },
+    { argument: "argument/frames-dir" },
+    { argument: "argument/checklist" },
+    { argument: "argument/checklist-file" },
+    { argument: "argument/frames" },
+    { argument: "argument/fps" },
+    { argument: "argument/timeout" },
+  ],
 } as const satisfies Command

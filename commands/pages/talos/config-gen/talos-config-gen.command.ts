@@ -71,4 +71,8 @@ export const talosConfigGen = {
     },
   ],
   name: "config-gen",
+  arguments: [
+    { argument: "argument/node", required: true, saidAs: "flag-or-word" },
+    { argument: "argument/output" },
+  ],
 } as const satisfies Command

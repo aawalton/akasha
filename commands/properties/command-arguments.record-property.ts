@@ -9,6 +9,8 @@ export const commandArguments = {
   properties: [
     { pageProperty: "relation-property/argument", required: true, many: false },
     { pageProperty: "boolean-property/required", required: false, many: false },
+    { pageProperty: "select-property/said-as", required: false, many: false },
+    { pageProperty: "relation-property/not-with", required: false, many: true, maxCount: null },
   ],
   invariants: [
     {

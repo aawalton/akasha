@@ -104,6 +104,8 @@ export const command = {
     "module/help-writing",
     "page-type/argument",
     "record-property/command-arguments",
+    "select-property/said-as",
+    "relation-property/not-with",
   ],
   extends: ["page-type/module"],
   loadedBy: "module/calling",
