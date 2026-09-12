@@ -5,7 +5,7 @@ import {
   PageTitle,
 } from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
-import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { PagesUILink as Link } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { SHORTCUT_GROUPS } from "akasha/temper/web/keyboard-shortcuts-data/keyboard-shortcuts-data.module.code.ts"
 import { ShortcutSectionCard } from "akasha/temper/web/shortcut-section-card/shortcut-section-card.module.code.tsx"

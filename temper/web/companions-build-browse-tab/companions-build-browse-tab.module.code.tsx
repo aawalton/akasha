@@ -21,8 +21,8 @@ import {
 } from "akasha/design/interfaces/patterns/filter-changing/filter-changing.module.code.ts"
 import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
 import { TabsContent } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
-import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
 import { Card, CardContent } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { getCompanionName } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import { CompanionListCardWithHandle } from "akasha/temper/web/companion-list-card-with-handle/companion-list-card-with-handle.module.code.tsx"
 import {

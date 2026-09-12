@@ -1,7 +1,7 @@
 "use client"
 
-import { ButtonBadge } from "akasha/design/interfaces/badges/button-badge/button-badge.module.code.tsx"
 import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
+import { ButtonBadge } from "akasha/design/interfaces/badges/modules/button-badge/button-badge.module.code.tsx"
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
 import { ItemRow } from "akasha/design/interfaces/patterns/item-row/item-row.module.code.tsx"
 import { CardTitleBadges } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"

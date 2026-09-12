@@ -25,7 +25,7 @@ import {
 import {
   migrateBundleMemberSavedVars,
   readDeclaredSavedVars,
-} from "akasha/temper/saved-vars-migration/bundle-member-saved-vars/bundle-member-saved-vars.module.code.ts"
+} from "akasha/temper/saved-vars-migration/modules/bundle-member-saved-vars/bundle-member-saved-vars.module.code.ts"
 import {
   appendAddonSavedVars,
   type ConsolidationMigration,

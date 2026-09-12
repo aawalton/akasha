@@ -1,12 +1,12 @@
 "use client"
 
 import * as AlertDialogPrimitive from "@radix-ui/react-alert-dialog"
-import { buttonVariants } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
 import {
   CardContent,
   CardHeader,
 } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { buttonVariants } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import {
   restoringOpenChange,
   scheduleRestoreStuckBodyPointerEvents,

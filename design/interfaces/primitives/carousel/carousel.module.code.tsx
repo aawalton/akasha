@@ -1,7 +1,7 @@
 "use client"
 
-import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import useEmblaCarousel, { type UseEmblaCarouselType } from "embla-carousel-react"
 import { ArrowLeft, ArrowRight } from "lucide-react"
 import * as React from "react"

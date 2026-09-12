@@ -1,10 +1,10 @@
 "use client"
 
-import { chainSuppressDoubleClickSelect } from "akasha/design/interfaces/badges/button-badge/button-badge.module.code.tsx"
 import {
   Badge,
   type badgeVariants,
 } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
+import { chainSuppressDoubleClickSelect } from "akasha/design/interfaces/badges/modules/button-badge/button-badge.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import type { VariantProps } from "class-variance-authority"
 import type * as React from "react"

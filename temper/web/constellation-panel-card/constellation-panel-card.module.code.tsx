@@ -2,7 +2,7 @@
 
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
 import { ItemCard } from "akasha/design/interfaces/patterns/item-card/item-card.module.code.tsx"
-import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import type { ChampionPointId } from "akasha/temper/champion-points/champion-point-source/champion-point-source.module.code.ts"
 import {
   getCPSkillDescription,

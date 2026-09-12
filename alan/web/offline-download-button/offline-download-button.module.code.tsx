@@ -2,7 +2,7 @@
 
 import { isNativeShell } from "akasha/alan/web/capacitor-bridge/capacitor-bridge.module.code.ts"
 import { downloadChapter } from "akasha/alan/web/offline-downloads/offline-downloads.module.code.ts"
-import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { useState } from "react"
 import { useSearchParams } from "react-router"
 

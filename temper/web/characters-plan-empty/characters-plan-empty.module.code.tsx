@@ -9,8 +9,8 @@ import {
   EmptyMedia,
   EmptyTitle,
 } from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
-import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
 import { Card, CardContent } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import type { PlanEmptyState } from "akasha/temper/web/characters-plan-empty-state/characters-plan-empty-state.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import { Gamepad2, Loader2 } from "lucide-react"

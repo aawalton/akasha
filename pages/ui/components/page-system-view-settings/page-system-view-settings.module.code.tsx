@@ -1,10 +1,10 @@
 "use client"
 
-import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
 import {
   FilterableList,
   FilterableListItem,
 } from "akasha/design/interfaces/primitives/filterable-list/filterable-list.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import {
   Popover,
   PopoverContent,

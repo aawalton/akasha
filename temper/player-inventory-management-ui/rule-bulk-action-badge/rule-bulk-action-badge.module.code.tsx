@@ -1,7 +1,7 @@
 "use client"
 
-import { ButtonBadge } from "akasha/design/interfaces/badges/button-badge/button-badge.module.code.tsx"
 import type { badgeVariants } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
+import { ButtonBadge } from "akasha/design/interfaces/badges/modules/button-badge/button-badge.module.code.tsx"
 import {
   DropdownMenu,
   DropdownMenuContent,

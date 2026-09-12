@@ -2,7 +2,6 @@
 
 import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
-import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
 import {
   Card,
   CardContent,
@@ -11,6 +10,7 @@ import {
   CardTitle,
 } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
 import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 
 const BUTTON_VARIANTS = ["primary", "secondary", "tertiary", "destructive", "accent"] as const
 const BUTTON_SIZES = ["sm", "default", "lg", "icon-sm", "icon", "icon-lg"] as const

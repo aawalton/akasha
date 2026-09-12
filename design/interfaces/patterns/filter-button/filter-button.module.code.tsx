@@ -1,12 +1,12 @@
 "use client"
 
-import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
 import {
   DropdownMenu,
   DropdownMenuContent,
   DropdownMenuItem,
   DropdownMenuTrigger,
 } from "akasha/design/interfaces/primitives/dropdown-menu/dropdown-menu.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import {
   Popover,
   PopoverContent,

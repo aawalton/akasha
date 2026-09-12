@@ -5,7 +5,7 @@ import { createTypingMinuteRecorder } from "akasha/agents/seats/modules/typing-m
 import {
   type BunPtyTerminal,
   spawnPty,
-} from "akasha/agents/seats/pty/bun-pty/bun-pty.module.code.ts"
+} from "akasha/agents/seats/pty/modules/bun-pty/bun-pty.module.code.ts"
 import {
   createRisingEdgeDetector,
   DEV_CHANNEL_MARKER,

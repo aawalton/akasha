@@ -14,7 +14,7 @@ import type { GameState } from "akasha/alan/harness/idle-system/idle-state/idle-
 import { deriveAscensionView } from "akasha/alan/web/idle-display/idle-display.module.code.ts"
 import { runDraw } from "akasha/alan/web/idle-draw-verb/idle-draw-verb.module.code.ts"
 import type { IdleActions } from "akasha/alan/web/use-idle-actions/use-idle-actions.module.code.ts"
-import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { formatShortNumber as fmt } from "akasha/pages/core/property-types/number/number.module.code.ts"
 import { Heart, Sparkles } from "lucide-react"
 import { useState } from "react"

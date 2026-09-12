@@ -11,7 +11,7 @@ import {
   TabsList,
 } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
 import { useFilterPersistence } from "akasha/design/interfaces/patterns/use-filter-persistence/use-filter-persistence.module.code.ts"
-import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { PagesUILink as Link } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { DungeonsTab } from "akasha/temper/web/dungeons-tab/dungeons-tab.module.code.tsx"
 import { ChevronLeft, Swords } from "lucide-react"

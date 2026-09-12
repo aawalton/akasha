@@ -13,8 +13,8 @@ import {
   PageLayout,
   PageTitle,
 } from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
-import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
 import { Card } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { Search } from "lucide-react"
 import { useState } from "react"
 import { Link } from "react-router"
