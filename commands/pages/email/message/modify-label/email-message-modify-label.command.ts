@@ -7,7 +7,6 @@ export const emailMessageModifyLabel = {
   definition: "the command putting label ids on one Gmail message and taking label ids off it",
   code: "ts",
   taking: [
-    { said: "--add <label-id>", takes: "a label id to put on it, said again for each" },
     { said: "--remove <label-id>", takes: "a label id to take off it, said again for each" },
   ],
   invariants: [
@@ -33,5 +32,8 @@ export const emailMessageModifyLabel = {
     },
   ],
   name: "modify-label",
-  arguments: [{ argument: "argument/message", required: true, saidAs: "flag-or-word" }],
+  arguments: [
+    { argument: "argument/message", required: true, saidAs: "flag-or-word" },
+    { argument: "argument/add-label" },
+  ],
 } as const satisfies Command
