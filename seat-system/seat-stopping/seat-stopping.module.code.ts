@@ -1,6 +1,10 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { dropReadings } from "akasha/agents/read-record/read-record.module.code.ts"
+import {
+  seatPathForName,
+  supervisorAlive,
+} from "akasha/agents/seats/modules/reading/seat-reading.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   landedMechanically,
@@ -15,10 +19,6 @@ import { everyOfType, typeSlugOf } from "akasha/pages/indexes/reading/index-read
 import { removeUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import {
-  seatPathForName,
-  supervisorAlive,
-} from "akasha/seat-system/seat-reading/seat-reading.module.code.ts"
 import {
   movedOnto,
   namedAt,

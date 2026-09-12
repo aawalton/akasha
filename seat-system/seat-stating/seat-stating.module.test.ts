@@ -1,13 +1,13 @@
 import { expect, test } from "bun:test"
 import { existsSync, readdirSync } from "node:fs"
 import { join } from "node:path"
-import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import {
   seatPathForName,
   seatsAt,
-} from "akasha/seat-system/seat-reading/seat-reading.module.code.ts"
+} from "akasha/agents/seats/modules/reading/seat-reading.module.code.ts"
+import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import {
   addressFor,
   assignedKinds,

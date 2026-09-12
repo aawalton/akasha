@@ -1,5 +1,6 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
+import { seatPathForName } from "akasha/agents/seats/modules/reading/seat-reading.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { force as forceArgument } from "akasha/commands/arguments/pages/force.argument.ts"
 import { seat } from "akasha/commands/arguments/pages/seat.argument.ts"
@@ -17,7 +18,6 @@ import { seatSupervisorStop as page } from "akasha/commands/pages/seat/superviso
 import { told } from "akasha/git/running/git-running.module.code.ts"
 import { valueAt, valueIn } from "akasha/pages/value/page-value.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import { seatPathForName } from "akasha/seat-system/seat-reading/seat-reading.module.code.ts"
 import {
   type Stopped,
   type Stopping,

@@ -1,3 +1,7 @@
+import {
+  nameOf,
+  supervisorOf,
+} from "akasha/agents/seats/modules/reading/seat-reading.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { everySeat } from "akasha/commands/arguments/pages/every-seat.argument.ts"
 import {
@@ -13,7 +17,6 @@ import type { Holder } from "akasha/files/lock-holder/lock-holder.module.code.ts
 import { alive } from "akasha/files/lock-holder/lock-holder.module.code.ts"
 import { everyOfType, typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { mergeUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
-import { nameOf, supervisorOf } from "akasha/seat-system/seat-reading/seat-reading.module.code.ts"
 
 const SEAT_TYPE = "01a05035-2609-7463-ba49-ccaf20f5c337"
 

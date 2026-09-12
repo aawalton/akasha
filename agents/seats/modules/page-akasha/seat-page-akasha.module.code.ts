@@ -1,11 +1,11 @@
 import { principalSeatNameOf } from "akasha/agents/seats/modules/principal/seat-principal.module.code.ts"
-import type { Outcome } from "akasha/changes/modules/gated-write/gated-write.module.code.ts"
-import { AKASHA, rootFor } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
 import {
   seatPathForName,
   seatsAt,
-} from "akasha/seat-system/seat-reading/seat-reading.module.code.ts"
+} from "akasha/agents/seats/modules/reading/seat-reading.module.code.ts"
+import type { Outcome } from "akasha/changes/modules/gated-write/gated-write.module.code.ts"
+import { AKASHA, rootFor } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
 import type { Stated } from "akasha/seat-system/seat-stated/seat-stated.module.code.ts"
 import type {
   SeatStated,
