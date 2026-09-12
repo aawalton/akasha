@@ -26,5 +26,6 @@ export const athenaCommandsCleanup = {
     "A check that threw because a concurrent landing left a file momentarily empty is answered by running it again.",
     "Alan's aliases derive every call from the command page and the editor extension spells none, so a rename costs that command's own folder and one line of its parent's parts.",
     "A large mechanical landing arrives by holding fewer paths and putting fewer commands between draft and apply, rather than by waiting for the swarm to go quiet.",
+    "A body branch a page key replaces is residue of three kinds: behavioural, reachable from code but not from a call, or load-bearing for a type. The third reads deadest and will not compile.",
   ],
 } as const satisfies Initiative
