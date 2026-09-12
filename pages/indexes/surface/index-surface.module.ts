@@ -146,5 +146,13 @@ export const indexSurface = {
       invariantKind: "departure",
       statement: "A root whose git folder is a file is answered the folder that file names.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A reading answers the directory that reading reads from.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading laid over another answers the directory the one beneath it reads from.",
+    },
   ],
 } as const satisfies Module

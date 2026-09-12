@@ -203,6 +203,12 @@ test("every reader is refused where the index stands nowhere, whatever it was as
   expect(() => listedByPath(root, "akasha/a.module.ts")).toThrow(/is not an index naming none/)
 })
 
+test("a refusal names the directory the reading read from rather than a path under a root", () => {
+  const root = rootAt()
+
+  expect(() => listedById(root, A)).toThrow(indexIn(root))
+})
+
 test("a path the index carries edges for is answered with every file importing it", () => {
   const root = rootAt()
   importFiled(root, "akasha/a.module.code.ts", [

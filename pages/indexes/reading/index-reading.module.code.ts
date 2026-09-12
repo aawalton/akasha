@@ -10,8 +10,8 @@ import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code
 import {
   beneath,
   INDEX_AT,
-  indexAt,
   indexIn,
+  readFrom,
   readingAt,
   readingOf,
 } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
@@ -75,7 +75,7 @@ export function answered<T>(
   const reading = readingIn(given)
   if (!reading.holds(at)) {
     throw new Error(
-      `\`${indexAt(at)}\` is not there, so ${asked} could not be answered — ${NAMING_NONE}`
+      `\`${join(readFrom(reading), at)}\` is not there, so ${asked} could not be answered — ${NAMING_NONE}`
     )
   }
   return said(reading)

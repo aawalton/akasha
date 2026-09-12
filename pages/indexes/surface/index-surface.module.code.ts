@@ -16,6 +16,12 @@ export const INDEX_AT = storeAt(INDEXES)
 
 const sharedIn = new Map<string, string>()
 
+const READ_FROM = new WeakMap<Reading, string>()
+
+export function readFrom(reading: Reading): string {
+  return READ_FROM.get(reading) ?? INDEX_AT
+}
+
 export function gitFolderIn(root: string): string {
   const own = join(root, GIT_AT)
   const found = statSync(own, { throwIfNoEntry: false })
@@ -47,7 +53,7 @@ function linesOf(at: string): readonly string[] {
 
 export function readingAt(index: string, repo: string | null = null): Reading {
   const held = new Map<string, readonly string[]>()
-  return {
+  const reading: Reading = {
     holds: (at) => existsSync(join(index, at)),
     listing: (at) => {
       try {
@@ -68,6 +74,8 @@ export function readingAt(index: string, repo: string | null = null): Reading {
     },
     read: (path) => (repo === null ? null : textThere(join(repo, path))),
   }
+  READ_FROM.set(reading, index)
+  return reading
 }
 
 export function readingNone(): Reading {
@@ -248,5 +256,6 @@ export function overlaidOn(
     },
   }
   LAID.set(laying, { base, edits, named, thinned, bodies })
+  READ_FROM.set(laying, readFrom(base))
   return laying
 }

@@ -1,9 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
 import {
   beneath,
+  INDEX_AT,
   mergedIn,
   overlaidOn,
+  readFrom,
   readingAt,
+  readingNone,
 } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
@@ -53,6 +56,22 @@ test("a reading off the disk answers the three reads of the index it is rooted a
     '{"path":"one"}',
     '{"path":"two"}',
   ])
+})
+
+test("a reading answers the directory that reading reads from", () => {
+  const at = seeded()
+  expect(readFrom(readingAt(at))).toBe(at)
+  expect(readFrom(readingNone())).toBe(INDEX_AT)
+})
+
+test("a reading laid over another answers the directory the one beneath it reads from", () => {
+  const at = seeded()
+  const first = overlaidOn(readingAt(at), [
+    { at: "identity/module/slug/new.jsonl", came: ['{"slug":"new"}'], went: [] },
+  ])
+
+  expect(readFrom(first)).toBe(at)
+  expect(readFrom(overlaidOn(first, []))).toBe(at)
 })
 
 test("a directory that is not there lists nothing, and a file that is not there holds no lines", () => {

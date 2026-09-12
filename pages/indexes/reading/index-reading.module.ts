@@ -128,6 +128,11 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A refusal names the directory the reading read from rather than a path under a root.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A reader here takes the repository root or a reading of the index.",
     },
     {
