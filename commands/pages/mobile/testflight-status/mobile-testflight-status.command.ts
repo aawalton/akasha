@@ -6,6 +6,7 @@ export const mobileTestflightStatus = {
   slug: "mobile-testflight-status",
   definition: "the command saying how far App Store Connect has got with the newest build",
   code: "ts",
+  test: "ts",
 
   invariants: [
     {

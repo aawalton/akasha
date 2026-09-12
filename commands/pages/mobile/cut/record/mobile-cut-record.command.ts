@@ -6,6 +6,7 @@ export const mobileCutRecord = {
   slug: "mobile-cut-record",
   definition: "the command filing what a TestFlight build already at Apple was cut from",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

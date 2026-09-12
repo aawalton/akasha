@@ -38,3 +38,33 @@ test("a run that fetched both repos names both of them in one sentence", async (
   expect(said.report).toEqual(wrote)
   expect(said.refusals.at(-1)).toContain(`${FETCHED_CODE}; ${FETCHED_SHELL}`)
 })
+
+test("a flag this takes no argument at is refused before origin is fetched", async () => {
+  const said = await mobileCutStatus(["--bogus"])
+
+  expect(said.code).toBe(1)
+  expect(said.report).toEqual([])
+  expect(said.refusals[0]).toContain("--bogus")
+  expect(said.refusals[0]).toContain("--json")
+})
+
+test("a bare word is refused, since this names every argument at a flag", async () => {
+  const said = await mobileCutStatus(["alanwalton"])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("alanwalton")
+})
+
+test("an app slug no page carries is refused rather than defaulted", async () => {
+  const said = await mobileCutStatus(["--app", "nosuch"])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("nosuch")
+})
+
+test("a flag naming a value with nothing after it is refused", async () => {
+  const said = await mobileCutStatus(["--app"])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--app")
+})
