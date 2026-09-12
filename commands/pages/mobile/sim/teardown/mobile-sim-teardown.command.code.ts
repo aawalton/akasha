@@ -1,5 +1,6 @@
 import { deleteSession } from "akasha/alan/harness/mobile-cli/appium-client/appium-client.module.code.ts"
 import { stopAppium } from "akasha/alan/harness/mobile-cli/sim-macbook/sim-macbook.module.code.ts"
+import type { SimSessionState } from "akasha/alan/harness/mobile-cli/sim-session/sim-session.module.code.ts"
 import {
   clearSessionState,
   loadSessionState,
@@ -32,30 +33,51 @@ export function readIn(argv: readonly string[]): Reading<Read> {
   return { stopAppium: said.flags.has(STOP_APPIUM) }
 }
 
-async function tornDown(read: Read): Promise<Answer> {
-  const report: string[] = []
-  const state = loadSessionState()
+export type Tearing = {
+  readonly loaded: () => SimSessionState | null
+  readonly ended: (base: string, sessionId: string) => Promise<unknown>
+  readonly cleared: () => unknown
+  readonly stopped: () => Promise<unknown>
+}
+
+export const TEARING: Tearing = {
+  loaded: loadSessionState,
+  ended: deleteSession,
+  cleared: clearSessionState,
+  stopped: stopAppium,
+}
+
+export const CLEARED = "cleared what was written down about the session"
+
+export const STOPPED = "stopped the mac's Appium server"
+
+export async function tornDown(
+  read: Read,
+  done: string[],
+  tearing: Tearing = TEARING
+): Promise<Answer> {
+  const state = tearing.loaded()
   if (state === null) {
-    report.push("no session was there, so none was ended")
+    done.push("no session was there, so none was ended")
   } else {
     try {
-      await deleteSession(state.appiumBase, state.sessionId)
-      report.push(`ended session ${state.sessionId}`)
+      await tearing.ended(state.appiumBase, state.sessionId)
+      done.push(`ended session ${state.sessionId}`)
     } catch {
-      report.push(`session ${state.sessionId} was already gone from Appium`)
+      done.push(`session ${state.sessionId} was already gone from Appium`)
     }
   }
-  clearSessionState()
-  report.push("cleared what was written down about the session")
+  tearing.cleared()
+  done.push(CLEARED)
   if (read.stopAppium) {
-    await stopAppium()
-    report.push("stopped the mac's Appium server")
+    await tearing.stopped()
+    done.push(STOPPED)
   }
-  return told(report)
+  return told(done)
 }
 
 export async function mobileSimTeardown(argv: readonly string[]): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) return refusedBy(read.refused)
-  return await answering(async () => await tornDown(read))
+  return await answering(async (done) => await tornDown(read, done))
 }

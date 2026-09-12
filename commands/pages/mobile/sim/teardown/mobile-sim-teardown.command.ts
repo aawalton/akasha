@@ -6,6 +6,7 @@ export const mobileSimTeardown = {
   slug: "mobile-sim-teardown",
   definition: "the command ending the simulator session that is there",
   code: "ts",
+  test: "ts",
   taking: [],
   invariants: [
     {
