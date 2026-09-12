@@ -8,10 +8,7 @@ export const temperInventoryBuyRuleDuplicate = {
   code: "ts",
   changeKind: "change-none",
   taking: [{ said: "<id>", takes: "the id of the buy rule copied" }],
-  helpNotes: [
-    "the copy is unlocked and inactive whatever the original was.",
-    "an id no buy rule carries is refused by that id.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
