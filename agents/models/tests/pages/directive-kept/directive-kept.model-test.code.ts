@@ -49,6 +49,8 @@ export type Putting = {
   readonly prompt: string
 }
 
+export type Putter = (judging: Judging) => readonly Putting[]
+
 export function ruleOf(one: Directive): string {
   return [`${one.name}: ${one.act}`, one.warrant, ...one.aids.map((aid) => `- ${aid}`)].join("\n")
 }
@@ -96,16 +98,19 @@ export function judgingOf(prompt: string, judged: string): Beside {
 
 export const { asking, keeping } = judgingOf(test.prompt, JUDGED)
 
-export function directiveKept(judging: Judging): readonly Putting[] {
-  return judgedIn(judging.directives, JUDGED).map((one) => {
-    const rule = ruleOf(one)
-    return {
-      statement: rule,
-      prompt: filling(test.prompt, {
-        [ASKED]: judging.asked,
-        [TURN]: judging.turn,
-        [RULE]: rule,
-      }),
-    }
-  })
+export function puttingOf(prompt: string, judged: string): Putter {
+  return (judging: Judging) =>
+    judgedIn(judging.directives, judged).map((one) => {
+      const rule = ruleOf(one)
+      return {
+        statement: rule,
+        prompt: filling(prompt, {
+          [ASKED]: judging.asked,
+          [TURN]: judging.turn,
+          [RULE]: rule,
+        }),
+      }
+    })
 }
+
+export const directiveKept = puttingOf(test.prompt, JUDGED)

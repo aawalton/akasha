@@ -15,7 +15,7 @@ export const keepAlanDirectives = {
     },
     {
       invariantKind: "departure",
-      statement: "The rule judged by is the one the model test's code names.",
+      statement: "The rules judged by are the ones the model tests here name, one test to a rule.",
     },
     {
       invariantKind: "departure",

@@ -14,8 +14,11 @@ import { endsYes } from "akasha/agents/models/modules/answer/model-answer.module
 import {
   directiveKept,
   directivesIn,
+  type Putter,
 } from "akasha/agents/models/tests/pages/directive-kept/directive-kept.model-test.code.ts"
 import { directiveKept as test } from "akasha/agents/models/tests/pages/directive-kept/directive-kept.model-test.ts"
+import { noCommentaryKept } from "akasha/agents/models/tests/pages/no-commentary-kept/no-commentary-kept.model-test.code.ts"
+import { oneAtATimeKept } from "akasha/agents/models/tests/pages/one-at-a-time-kept/one-at-a-time-kept.model-test.code.ts"
 import {
   askedOf,
   modelOf,
@@ -48,13 +51,15 @@ const DIRECTIVES = "directives"
 
 const TOLD = "This is what you wrote to Alan, and it breaks a rule he holds. Write it again."
 
+const JUDGES: readonly Putter[] = [directiveKept, oneAtATimeKept, noCommentaryKept]
+
 export type Valued = { readonly path: string; readonly value: Record<string, unknown> }
 
 export const SCOPE: readonly string[] = [
   `${HOOK} judges the last words an agent wrote to Alan, as that agent's turn ends.`,
   "",
   "It catches:",
-  "  the closing words of a turn, put to a model against the one rule the test names.",
+  "  the closing words of a turn, put to a model once for each rule a test here names.",
   "  what the person last asked for, put beside those words so a rule about it can be judged.",
   "",
   "It does not catch:",
@@ -97,7 +102,7 @@ function judging(root: string, agent: string, asked: string, turn: string): Answ
   if (person === null) return LET_THROUGH
   const directives = directivesIn(valuedAt(root, PERSON, person).value[DIRECTIVES])
   if (directives.length === 0) return LET_THROUGH
-  const asking = directiveKept({ asked, turn, directives })
+  const asking = JUDGES.flatMap((judge) => judge({ asked, turn, directives }))
   const answers = askedOf(
     root,
     modelOf(root, test.modelFamily),
