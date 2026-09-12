@@ -1,4 +1,9 @@
 import { resolve } from "node:path"
+import {
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -6,10 +11,6 @@ import { readInventoryFileArgs } from "akasha/commands/modules/inventory-file-ar
 import { numSaid } from "akasha/commands/modules/inventory-trace-saying/inventory-trace-saying.module.code.ts"
 import { readMasterCraftTraces } from "akasha/temper/commands/master-craft-trace-reading/master-craft-trace-reading.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
-
-const INPUT = 1
-
-const OPERATIONAL = 3
 
 const INVENTORY_LUA = "TemperInventory.lua"
 
@@ -82,8 +83,8 @@ export async function temperInventoryMasterCraftTrace(
     read.inventoryPath === null ? savedVarsFile(INVENTORY_LUA) : resolve(root, read.inventoryPath)
   try {
     const traces = (await readMasterCraftTraces(at)) as readonly MasterCraftTrace[]
-    if (read.json) return { report: [JSON.stringify(traces)], refusals: [], code: 0 }
-    return { report: [...craftTraceSaid(traces)], refusals: [], code: 0 }
+    if (read.json) return { report: [JSON.stringify(traces)], refusals: [], code: OK }
+    return { report: [...craftTraceSaid(traces)], refusals: [], code: OK }
   } catch (thrown) {
     return refused(whyOf(thrown), OPERATIONAL)
   }
