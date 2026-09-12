@@ -248,3 +248,44 @@ test("a reader a parameter defaults to across an import is followed one file on"
   expect(said[0]).toContain(FAR_AT)
   expect(said[0]).toContain("`argv.length`")
 })
+
+const OPENS_LATE =
+  "export async function hummingDeepSong(argv: readonly string[]): Promise<Answer> {\n"
+
+function lately(said: string): string {
+  return `${OPENS_LATE}${said}}\n`
+}
+
+const DEFAULTS = READER.replace("export function", "export default function")
+
+const TAKES_DEFAULT = "  return answered(starting(argv))\n"
+
+test("a reader a dynamic import brings in by name is followed one file on", () => {
+  const reach = opening(new Map([[FAR_AT, READER]]))
+  const brought = `  const { saidFor } = await import("akasha/${FAR_AT}")\n`
+  const said = found(AT, lately(brought + HANDS_ON), reach)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain(FAR_AT)
+  expect(said[0]).toContain("`argv.length`")
+})
+
+test("a reader a dynamic import takes as the default is followed one file on", () => {
+  const reach = opening(new Map([[FAR_AT, DEFAULTS]]))
+  const brought = `  const { default: starting } = await import("akasha/${FAR_AT}")\n`
+  const said = found(AT, lately(brought + TAKES_DEFAULT), reach)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain(FAR_AT)
+  expect(said[0]).toContain("`argv.length`")
+})
+
+test("a dynamic import naming no literal specifier is followed nowhere", () => {
+  const reach = opening(new Map([[FAR_AT, READER]]))
+  const brought = "  const { saidFor } = await import(held)\n"
+  expect(found(AT, lately(brought + HANDS_ON), reach)).toEqual([])
+})
+
+test("a dynamic import landing on no path under akasha is followed nowhere", () => {
+  const reach = opening(new Map([[FAR_AT, READER]]))
+  const brought = '  const { saidFor } = await import("node:path")\n'
+  expect(found(AT, lately(brought + HANDS_ON), reach)).toEqual([])
+})

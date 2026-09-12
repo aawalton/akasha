@@ -38,6 +38,15 @@ export const commandTakesItsArgumentsThroughOneReader = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A call to a name a dynamic import takes is followed into the file that import lands in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A dynamic import taking the default export is followed into that export.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The trace stops at that one file rather than going on from there.",
     },
     {
@@ -94,7 +103,12 @@ export const commandTakesItsArgumentsThroughOneReader = {
     },
     {
       invariantKind: "absence",
-      statement: "A name brought in as a default or as a whole module is followed nowhere.",
+      statement:
+        "A name a static import brings in as a default or as a whole module is followed nowhere.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A dynamic import naming no literal specifier is followed nowhere.",
     },
     {
       invariantKind: "absence",

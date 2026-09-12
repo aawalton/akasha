@@ -29,6 +29,8 @@ const ONE_READER = "takenFor"
 
 const WORDS = "argv"
 
+const DEFAULT = "default"
+
 const INSTEAD =
   `a command takes the words of its call through \`${ONE_READER}\`, ` +
   "which reads them from the argument pages that command's page names"
@@ -122,10 +124,17 @@ function functionOf(node: ts.Expression): ts.FunctionLikeDeclaration | null {
   return null
 }
 
+function defaulted(one: ts.FunctionDeclaration): boolean {
+  return one.modifiers?.some((each) => each.kind === ts.SyntaxKind.DefaultKeyword) === true
+}
+
 export function declaredIn(source: ts.SourceFile): Held {
   const every = new Map<string, ts.FunctionLikeDeclaration>()
   for (const one of source.statements) {
-    if (ts.isFunctionDeclaration(one) && one.name !== undefined) every.set(one.name.text, one)
+    if (ts.isFunctionDeclaration(one)) {
+      if (one.name !== undefined) every.set(one.name.text, one)
+      if (defaulted(one)) every.set(DEFAULT, one)
+    }
     if (!ts.isVariableStatement(one)) continue
     for (const held of one.declarationList.declarations) {
       if (!ts.isIdentifier(held.name) || held.initializer === undefined) continue
@@ -187,6 +196,34 @@ function reading(state: Reading, holder: ts.FunctionLikeDeclaration, at: number)
   ts.forEachChild(body, visit)
 }
 
+function specifierOf(node: ts.Expression): string | null {
+  const call = ts.isAwaitExpression(node) ? node.expression : node
+  if (!ts.isCallExpression(call)) return null
+  if (call.expression.kind !== ts.SyntaxKind.ImportKeyword) return null
+  const said = call.arguments[FIRST]
+  if (said === undefined || !ts.isStringLiteral(said)) return null
+  return said.text
+}
+
+function broughtIn(path: string, source: ts.SourceFile, every: Map<string, Reached>): undefined {
+  const visit = (node: ts.Node): undefined => {
+    if (ts.isVariableDeclaration(node) && node.initializer !== undefined) {
+      const said = specifierOf(node.initializer)
+      const at = said === null ? null : landingOf(path, said)
+      if (at !== null && ts.isObjectBindingPattern(node.name)) {
+        for (const each of node.name.elements) {
+          if (!ts.isIdentifier(each.name)) continue
+          const from = each.propertyName
+          const wanted = from !== undefined && ts.isIdentifier(from) ? from.text : each.name.text
+          every.set(each.name.text, { at, named: wanted })
+        }
+      }
+    }
+    ts.forEachChild(node, visit)
+  }
+  ts.forEachChild(source, visit)
+}
+
 function importedIn(path: string, source: ts.SourceFile): ReadonlyMap<string, Reached> {
   const every = new Map<string, Reached>()
   for (const one of source.statements) {
@@ -202,6 +239,7 @@ function importedIn(path: string, source: ts.SourceFile): ReadonlyMap<string, Re
       every.set(each.name.text, { at, named: each.propertyName?.text ?? each.name.text })
     }
   }
+  broughtIn(path, source, every)
   return every
 }
 
