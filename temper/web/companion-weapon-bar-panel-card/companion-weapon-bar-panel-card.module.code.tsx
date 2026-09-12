@@ -32,8 +32,8 @@ import {
   getQualityVariant,
 } from "akasha/temper/companions-ui/companion-quality-rules/companion-quality-rules.module.code.ts"
 import { weaponSlots } from "akasha/temper/equipment-kinds/weapon-slots/weapon-slots.module.code.ts"
-import { BulkEditTag } from "akasha/temper/web/companion-bulk-edit-tag/companion-bulk-edit-tag.module.code.tsx"
 import type { CompanionEquipmentPanelProps } from "akasha/temper/web/companion-equipment-panel-types/companion-equipment-panel-types.module.code.ts"
+import { BulkEditTag } from "akasha/temper/web/modules/companion-bulk-edit-tag/companion-bulk-edit-tag.module.code.tsx"
 import { useMemo } from "react"
 
 export function CompanionWeaponBarPanelCard({

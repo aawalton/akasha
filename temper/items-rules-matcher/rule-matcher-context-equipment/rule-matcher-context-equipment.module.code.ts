@@ -4,7 +4,7 @@ import {
   resolveCharacterToggles,
   resolveCompanionToggles,
 } from "akasha/temper/build-support/modules/automation-settings/automation-settings.module.code.ts"
-import { decodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
+import { decodeCompanion } from "akasha/temper/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import {
   compileWantedCompanionEquipmentForBuild,

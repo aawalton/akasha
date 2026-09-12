@@ -6,8 +6,7 @@ import { useScrollRestoration } from "akasha/design/interfaces/patterns/use-scro
 import { patchPage } from "akasha/pages/access/patch/patch.module.code.ts"
 import { useOptimisticPatchPage } from "akasha/pages/ui/supabase/mutations/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
 import { applyCompanionMetadata } from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
-import { decodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
-import type { CompanionBaseRoleId } from "akasha/temper/companions-core/companion-base-roles/companion-base-roles.module.code.ts"
+import { decodeCompanion } from "akasha/temper/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import {
   buildOverallRankMap,
   buildRankingsMap,
@@ -15,6 +14,7 @@ import {
   mapBaseRolesToDisplayRoles,
 } from "akasha/temper/companions-core/companion-leaderboard/companion-leaderboard.module.code.ts"
 import type { CompanionId } from "akasha/temper/companions-core/companions/companions.module.code.ts"
+import type { CompanionBaseRoleId } from "akasha/temper/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import { useAllCompanionList } from "akasha/temper/companions-ui/use-companions/use-companions.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { useCompletionCompanions } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"

@@ -25,7 +25,7 @@ import { setsAll } from "akasha/temper/characters-equipment/sets-all/sets-all.mo
 import {
   decodeCompanion,
   encodeCompanion,
-} from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
+} from "akasha/temper/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import { createEmptyCompanion } from "akasha/temper/companions-core/companion-factory/companion-factory.module.code.ts"
 import {
   buildHash as toBuildHash,

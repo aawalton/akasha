@@ -30,12 +30,6 @@ import {
   getCompanionWeaponTypeId,
   getCompanionWeaponTypeIndex,
 } from "akasha/temper/companion-codec/companion-codec-indices/companion-codec-indices.module.code.ts"
-import type { CompanionArmorSlotId } from "akasha/temper/companions-core/companion-armor-slots/companion-armor-slots.module.code.ts"
-import { companionArmorSlots } from "akasha/temper/companions-core/companion-armor-slots/companion-armor-slots.module.code.ts"
-import {
-  type CompanionBaseRoleId,
-  companionBaseRoles,
-} from "akasha/temper/companions-core/companion-base-roles/companion-base-roles.module.code.ts"
 import type { CompanionJewelrySlotId } from "akasha/temper/companions-core/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
 import { companionJewelrySlots } from "akasha/temper/companions-core/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
 import { companionSkillSlots } from "akasha/temper/companions-core/companion-skill-slots/companion-skill-slots.module.code.ts"
@@ -49,6 +43,12 @@ import type {
 } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import type { CompanionWeaponSlotId } from "akasha/temper/companions-core/companion-weapon-slots/companion-weapon-slots.module.code.ts"
 import { companionWeaponSlots } from "akasha/temper/companions-core/companion-weapon-slots/companion-weapon-slots.module.code.ts"
+import type { CompanionArmorSlotId } from "akasha/temper/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"
+import { companionArmorSlots } from "akasha/temper/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"
+import {
+  type CompanionBaseRoleId,
+  companionBaseRoles,
+} from "akasha/temper/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import { buildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 
 export const COMPANION_BUILD_TYPE = 0x02

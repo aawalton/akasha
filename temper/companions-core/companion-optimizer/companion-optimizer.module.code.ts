@@ -1,15 +1,3 @@
-import type { CompanionArmorSlotId } from "akasha/temper/companions-core/companion-armor-slots/companion-armor-slots.module.code.ts"
-import type { CompanionArmorWeight } from "akasha/temper/companions-core/companion-armor-weights/companion-armor-weights.module.code.ts"
-import {
-  type CompanionBaseRoleId,
-  companionBaseRoles,
-  getValidTraitIdsForBaseRoles,
-  getValidWeaponRoleIdsForBaseRoles,
-} from "akasha/temper/companions-core/companion-base-roles/companion-base-roles.module.code.ts"
-import {
-  setBaseRoles,
-  setCompanion,
-} from "akasha/temper/companions-core/companion-build-edits/companion-build-edits.module.code.ts"
 import {
   countEmptyTraitSlots,
   setNextEmptyTrait,
@@ -41,6 +29,18 @@ import {
   type CompanionId,
   companions,
 } from "akasha/temper/companions-core/companions/companions.module.code.ts"
+import type { CompanionArmorSlotId } from "akasha/temper/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"
+import type { CompanionArmorWeight } from "akasha/temper/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
+import {
+  type CompanionBaseRoleId,
+  companionBaseRoles,
+  getValidTraitIdsForBaseRoles,
+  getValidWeaponRoleIdsForBaseRoles,
+} from "akasha/temper/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
+import {
+  setBaseRoles,
+  setCompanion,
+} from "akasha/temper/companions-core/modules/companion-build-edits/companion-build-edits.module.code.ts"
 
 type CompanionAction =
   | { type: "select-companion"; companionId: CompanionId }

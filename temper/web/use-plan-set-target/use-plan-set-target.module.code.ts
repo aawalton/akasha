@@ -8,7 +8,7 @@ import {
 import {
   decodeCompanion,
   encodeCompanion,
-} from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
+} from "akasha/temper/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import {
   type useAllCompanionList,

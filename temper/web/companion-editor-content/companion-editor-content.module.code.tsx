@@ -17,7 +17,7 @@ import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.cod
 import { usePagesUIRouter } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { extractCompanionMetadata } from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
 import { companionUrl } from "akasha/temper/build-support/modules/build-url/build-url.module.code.ts"
-import { encodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
+import { encodeCompanion } from "akasha/temper/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import {
   useCompanionLifecycle,
@@ -26,7 +26,6 @@ import {
 import { buildId as toBuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { useCompletionCompanions } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
-import { CompanionAutomationPanelCard } from "akasha/temper/web/companion-automation-panel-card/companion-automation-panel-card.module.code.tsx"
 import { CompanionEditorHeader } from "akasha/temper/web/companion-editor-header/companion-editor-header.module.code.tsx"
 import { CompanionEquipmentPanel } from "akasha/temper/web/companion-equipment-panel/companion-equipment-panel.module.code.tsx"
 import { CompanionGeneralPanel } from "akasha/temper/web/companion-general-panel/companion-general-panel.module.code.tsx"
@@ -35,6 +34,7 @@ import { CompanionSkillsPanel } from "akasha/temper/web/companion-skills-panel/c
 import { CompanionStatsPanel } from "akasha/temper/web/companion-stats-panel/companion-stats-panel.module.code.tsx"
 import { CompanionTargetPanelCard } from "akasha/temper/web/companion-target-panel-card/companion-target-panel-card.module.code.tsx"
 import { GlobalCompanionBulkEditTags } from "akasha/temper/web/global-companion-bulk-edit-tags/global-companion-bulk-edit-tags.module.code.tsx"
+import { CompanionAutomationPanelCard } from "akasha/temper/web/modules/companion-automation-panel-card/companion-automation-panel-card.module.code.tsx"
 import { SetTargetConfirmDialog } from "akasha/temper/web/set-target-confirm-dialog/set-target-confirm-dialog.module.code.tsx"
 import { UnderConstructionDialog } from "akasha/temper/web/under-construction-dialog/under-construction-dialog.module.code.tsx"
 import {
