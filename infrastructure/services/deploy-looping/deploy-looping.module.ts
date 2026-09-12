@@ -65,6 +65,24 @@ export const deployLooping = {
       statement: "Nothing here judges what a deploy is built from.",
     },
     {
+      invariantKind: "departure",
+      statement: "A deploy a check refused is said rather than thrown.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What the refused deploy said is carried whole, so which checks refused is in what a tick says.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A deploy that ended any other way than a check's refusal fails the tick.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A tick that fails means this loop is broken rather than the tree it reads being red.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here writes a unit or restarts a service.",
     },

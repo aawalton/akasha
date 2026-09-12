@@ -1,4 +1,5 @@
 import { join } from "node:path"
+import { DATA } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { heldNow } from "akasha/commands/pages/deploy/holding/deploy-holding.module.code.ts"
 import {
   CLUSTER_SERVICE,
@@ -98,6 +99,10 @@ export function scopeLoaded(probe: Running, slug: string): boolean {
   return done.out.split("\n").some((one) => one.trim() === LOADED)
 }
 
+export function saidOfRefusedTree(slug: string, out: string): string {
+  return `a check refused the tree \`${slug}\` is built from, so \`${slug}\` was not put up and this loop is working — ${out}`
+}
+
 export function saidOfLoadedScope(slug: string): string {
   return `a scope named \`${scopeFor(slug)}\` is loaded with no deploy of \`${slug}\` holding it, so \`${slug}\` was not put up`
 }
@@ -149,6 +154,9 @@ export function ticked(
   const argv = deployArgv(root, tree, past.chosen.slug)
   if ("refused" in argv) return { said: past.said, wrong: [argv.refused] }
   const started = asked(run, argv)
+  if (started.code === DATA) {
+    return { said: [...past.said, saidOfRefusedTree(past.chosen.slug, started.out)], wrong: [] }
+  }
   if (started.code !== 0) {
     return { said: past.said, wrong: [`\`${past.chosen.slug}\` was not put up — ${started.out}`] }
   }

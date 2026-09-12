@@ -9,6 +9,7 @@ import {
   SCOPE_LEAD,
   saidOfNoKind,
   saidOfNothing,
+  saidOfRefusedTree,
   scopeFor,
   scopeLoaded,
 } from "akasha/infrastructure/services/deploy-looping/deploy-looping.module.code.ts"
@@ -83,6 +84,13 @@ test("a tick whose every scope is loaded puts nothing up and names each", () => 
   )
   expect(past.chosen).toBe(null)
   expect(past.said).toHaveLength(2)
+})
+
+test("a tree a check refused names the service and carries what the deploy said", () => {
+  const said = saidOfRefusedTree("service-workstation", "commit\t8b14d23b\n72 of 1009 tests failed")
+  expect(said).toContain("service-workstation")
+  expect(said).toContain("72 of 1009 tests failed")
+  expect(said).toContain("this loop is working")
 })
 
 test("a kind a deploy puts up is read off the call", () => {
