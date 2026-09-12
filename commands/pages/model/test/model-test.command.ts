@@ -53,4 +53,5 @@ export const modelTest = {
     },
   ],
   name: "test",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

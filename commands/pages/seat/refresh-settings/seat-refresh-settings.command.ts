@@ -65,4 +65,5 @@ export const seatRefreshSettings = {
     },
   ],
   name: "refresh-settings",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

@@ -74,4 +74,5 @@ export const seatStart = {
     },
   ],
   name: "start",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command
