@@ -8,11 +8,6 @@ export const akashaFolderShape = {
   persona: "akasha",
   intents: [
     {
-      statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
-      workingMemory:
-        "The root refuses 11 files and 31 folders; the shape names the thirteen Alan approved, nothing wider. He takes them one at a time, and file, file-system, file-page-identity, all-about-alan, editor-extension and games have all been placed. A move pays the debt in every body it rewrites, so land that debt first and draft the move after. Renaming `code-system` to `code` is nimue's.\n",
-    },
-    {
       statement: "Every shape allowed by folder-matches-a-shape is clean and approved by Alan.",
       workingMemory:
         "The shapes are one of logic: if any shape matches, the folder is fine, and two shapes need not agree. So a refused folder is answered by changing the folder or adding a shape, never by loosening a shape that declines it. Alan has refused enabling `pages-of-one-type`. This check runs at no phase, so nothing judges a folder at landing and the intent can go un-met in silence; enabling it is Alan's and follows zero refusals. The tests read the held folder names from the shapes' own `HOLDS` now.\n",
