@@ -49,7 +49,7 @@ export async function seatResume(argv: readonly string[], given: Given): Promise
   const { default: resuming } = await import(
     "akasha/seat-system/seat-resume/seat-resume.module.code.ts"
   )
-  return await ran(async () => {
-    await resuming([TARGET, named.name, ...carried.carried])
+  return await ran(async (done) => {
+    await resuming([TARGET, named.name, ...carried.carried], done)
   })
 }

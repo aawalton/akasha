@@ -162,7 +162,7 @@ function launchOnlyStated(request: ResumeSeatRequest): readonly string[] {
   return named
 }
 
-async function relaunch(input: RelaunchInput): Promise<ResumedSeat> {
+async function relaunch(input: RelaunchInput, done: string[]): Promise<ResumedSeat> {
   const { agentId, verify, graceMs, prompt, bootPrompt } = input
 
   if (verify) {
@@ -176,6 +176,7 @@ async function relaunch(input: RelaunchInput): Promise<ResumedSeat> {
         sleep: liveResumeVerifySleep,
       }
     )
+    done.push(`revived ${handle.agentId} in \`${handle.name}\` at pid ${handle.pid}`)
     if (verdict === "wedged") {
       return { kind: "wedged", agentId: handle.agentId, name: handle.name, graceMs }
     }
@@ -192,6 +193,7 @@ async function relaunch(input: RelaunchInput): Promise<ResumedSeat> {
   }
 
   const handle = await relaunchStoppedSeat({ agentId, prompt, bootPrompt })
+  done.push(`revived ${handle.agentId} in \`${handle.name}\` at pid ${handle.pid}`)
   await sweepSupersededAgentTrees(agentId, handle.pid)
   return {
     kind: "relaunched",
@@ -207,9 +209,12 @@ async function relaunch(input: RelaunchInput): Promise<ResumedSeat> {
 async function cycleInPlace(
   agentId: string,
   now: boolean,
-  relaunchInput: RelaunchInput
+  relaunchInput: RelaunchInput,
+  done: string[]
 ): Promise<ResumedSeat> {
-  await setRequestedAction(agentId, { action: now ? "restart-now" : "restart" })
+  const action = now ? "restart-now" : "restart"
+  await setRequestedAction(agentId, { action })
+  done.push(`armed \`${action}\` on ${agentId}`)
   const outcome = await waitForActionCleared(agentId)
   if (outcome.ok) {
     const status = now ? "restarted" : SELF_STATUS
@@ -220,11 +225,14 @@ async function cycleInPlace(
     return { kind: "cycled", agentId, name, status }
   }
 
-  if (!holdsLive(agentId)) return await relaunch(relaunchInput)
+  if (!holdsLive(agentId)) return await relaunch(relaunchInput, done)
   throw operationalError(describeAckTimeout("restart", outcome.reason))
 }
 
-export async function resumeSeat(request: ResumeSeatRequest): Promise<ResumedSeat> {
+export async function resumeSeat(
+  request: ResumeSeatRequest,
+  done: string[] = []
+): Promise<ResumedSeat> {
   const { agentId } = request
   const verify = request.verify === true
   const graceMs = request.graceMs ?? DEFAULT_VERIFY_GRACE_MS
@@ -258,20 +266,25 @@ export async function resumeSeat(request: ResumeSeatRequest): Promise<ResumedSea
       )
     }
     refuseWhereSubagentsWork(agentId, request.force === true)
-    return await cycleInPlace(agentId, request.now === true, relaunchInput)
+    return await cycleInPlace(agentId, request.now === true, relaunchInput, done)
   }
 
-  return await relaunch(relaunchInput)
+  return await relaunch(relaunchInput, done)
 }
 
 export async function resumeSeatInteractively(
-  request: ResumeSeatInteractivelyRequest
+  request: ResumeSeatInteractivelyRequest,
+  done: string[] = []
 ): Promise<TakenSeat> {
   const target = await resolveSeatTargetCli(request.named)
   refuseWhereSubagentsWork(target, request.force === true)
-  const standing = seatRecord(target)?.name ?? null
-  if (standing !== null) await holdSeatPaneOpen(standing)
+  const held = seatRecord(target)?.name ?? null
+  if (held !== null) {
+    await holdSeatPaneOpen(held)
+    done.push(`held the pane of \`${held}\` open`)
+  }
   const taken = await takeoverSeat(target)
+  done.push(`took ${taken.agentId} over`)
   if (request.launch !== false) {
     if (taken.name === null) {
       throw dataError(
@@ -287,9 +300,13 @@ export async function resumeSeatInteractively(
       mode: SEAT_MODE_INTERACTIVE,
       resumeSessionId: taken.sessionId,
     }
-    if (!(await respawnSeatUnderTmux(seatLaunch))) {
+    if (await respawnSeatUnderTmux(seatLaunch)) {
+      done.push(`respawned \`${taken.name}\` in place`)
+    } else {
       await killSeatSession(taken.name)
+      done.push(`killed the tmux session \`${taken.name}\``)
       await launchSeatUnderTmux(seatLaunch)
+      done.push(`launched ${taken.agentId} in \`${taken.name}\` under tmux, interactive`)
     }
   }
   return taken
@@ -337,7 +354,10 @@ function emitResumed(resumed: ResumedSeat, json: boolean): undefined {
   emitLaunched(resumed, json, resumed.verify)
 }
 
-export default async function seatResume(args: readonly string[]): Promise<void> {
+export default async function seatResume(
+  args: readonly string[],
+  done: string[] = []
+): Promise<void> {
   const parsed = parseArgs(help, args)
 
   const json = parsed.boolean("--json")
@@ -384,11 +404,10 @@ export default async function seatResume(args: readonly string[]): Promise<void>
         "[ops] seat not named — pass --agent-id <uuid|prefix|name> or set the AGENT_ID env var"
       )
     }
-    const taken = await resumeSeatInteractively({
-      named,
-      force,
-      launch: !parsed.boolean("--no-launch"),
-    })
+    const taken = await resumeSeatInteractively(
+      { named, force, launch: !parsed.boolean("--no-launch") },
+      done
+    )
     if (json) {
       process.stdout.write(
         `${JSON.stringify({ agent_id: taken.agentId, name: taken.name, session_id: taken.sessionId, took_over: taken.tookOver })}\n`
@@ -401,15 +420,10 @@ export default async function seatResume(args: readonly string[]): Promise<void>
 
   const agentId = await resolveSeatTargetFromFlagOrEnv(parsed.string("--agent-id"))
 
-  const resumed = await resumeSeat({
-    agentId,
-    verify,
-    graceMs,
-    force,
-    now: parsed.boolean("--now"),
-    prompt,
-    bootPrompt,
-  })
+  const resumed = await resumeSeat(
+    { agentId, verify, graceMs, force, now: parsed.boolean("--now"), prompt, bootPrompt },
+    done
+  )
   emitResumed(resumed, json)
 }
 

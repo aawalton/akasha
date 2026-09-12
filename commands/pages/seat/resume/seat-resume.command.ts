@@ -38,6 +38,14 @@ export const seatResume = {
       invariantKind: "departure",
       statement: "The output a resume prints is written where the resume runs.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A resume refused after it revived the seat names each write it finished.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A resume refused before it wrote anything is refused as the fault alone.",
+    },
   ],
   name: "resume",
   arguments: [{ argument: "argument/seat", required: true, saidAs: "word" }],
