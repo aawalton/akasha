@@ -17,6 +17,7 @@ import {
   ensureAppium,
   resolveAndBootSim,
 } from "akasha/alan/harness/mobile-cli/sim-macbook/sim-macbook.module.code.ts"
+import type { SimSessionState } from "akasha/alan/harness/mobile-cli/sim-session/sim-session.module.code.ts"
 import {
   buildBannerTapCapabilities,
   loadSessionState,
@@ -107,7 +108,7 @@ export function readIn(argv: readonly string[]): Reading<Read> {
   }
 }
 
-type Traced =
+export type Traced =
   | { readonly entries: readonly unknown[] }
   | { readonly missing: true }
   | { readonly quiet: true }
@@ -128,42 +129,71 @@ async function traceOf(base: string, sessionId: string): Promise<Traced> {
   return { quiet: true }
 }
 
-async function probed(read: Read): Promise<Answer> {
-  const base = await ensureAppium()
-  const udid = read.udid ?? loadSessionState()?.udid ?? (await resolveAndBootSim())
-  const report = [
-    `${read.cold ? "cold" : "warm"} push of ${read.route} to ${read.app.bundleId} on ${udid}`,
-  ]
+export type Probing = {
+  readonly appium: () => Promise<string>
+  readonly loaded: () => SimSessionState | null
+  readonly sim: () => Promise<string>
+  readonly pushed: (read: Read, udid: string) => Promise<string>
+  readonly opened: (base: string, udid: string, bundleId: string) => Promise<string>
+  readonly tapped: (base: string, sessionId: string, x: number, y: number) => Promise<unknown>
+  readonly traced: (base: string, sessionId: string) => Promise<Traced>
+  readonly ended: (base: string, sessionId: string) => Promise<unknown>
+}
 
-  const pushed = await runSshCapture(
-    MACBOOK,
-    buildPushTapScript({
-      udid,
-      bundleId: read.app.bundleId,
-      payload: buildApnsPayload({
+export const PROBING: Probing = {
+  appium: ensureAppium,
+  loaded: loadSessionState,
+  sim: resolveAndBootSim,
+  pushed: (read, udid) =>
+    runSshCapture(
+      MACBOOK,
+      buildPushTapScript({
+        udid,
         bundleId: read.app.bundleId,
-        route: read.route,
-        ...(read.title === undefined ? {} : { title: read.title }),
-      }),
-      cold: read.cold,
-    })
-  )
-  report.push(pushed.trimEnd())
+        payload: buildApnsPayload({
+          bundleId: read.app.bundleId,
+          route: read.route,
+          ...(read.title === undefined ? {} : { title: read.title }),
+        }),
+        cold: read.cold,
+      })
+    ),
+  opened: (base, udid, bundleId) =>
+    createSession(
+      base,
+      buildBannerTapCapabilities(
+        udid,
+        resolveWdaLocalPort(optionalEnv(WDA_LOCAL_PORT_ENV)),
+        bundleId
+      )
+    ),
+  tapped: tapCoordinates,
+  traced: traceOf,
+  ended: deleteSession,
+}
 
-  const sessionId = await createSession(
-    base,
-    buildBannerTapCapabilities(
-      udid,
-      resolveWdaLocalPort(optionalEnv(WDA_LOCAL_PORT_ENV)),
-      read.app.bundleId
-    )
-  )
+export function pushSaid(read: Read, udid: string): string {
+  return `${read.cold ? "cold" : "warm"} push of ${read.route} to ${read.app.bundleId} on ${udid}`
+}
+
+export async function probed(
+  read: Read,
+  done: string[],
+  probing: Probing = PROBING
+): Promise<Answer> {
+  const base = await probing.appium()
+  const udid = read.udid ?? probing.loaded()?.udid ?? (await probing.sim())
+
+  const pushed = await probing.pushed(read, udid)
+  done.push(pushSaid(read, udid), pushed.trimEnd())
+
+  const sessionId = await probing.opened(base, udid, read.app.bundleId)
   try {
-    await tapCoordinates(base, sessionId, BANNER_X, BANNER_Y)
-    const traced = await traceOf(base, sessionId)
+    await probing.tapped(base, sessionId, BANNER_X, BANNER_Y)
+    const traced = await probing.traced(base, sessionId)
     if ("missing" in traced) {
       return {
-        report,
+        report: done,
         refusals: [
           "the installed bundle exposes no tap trace, so it was built without the instrument — install one from a tree that carries it",
         ],
@@ -172,22 +202,22 @@ async function probed(read: Read): Promise<Answer> {
     }
     if ("quiet" in traced) {
       return {
-        report,
+        report: done,
         refusals: [
           `no trace appeared in ${Math.round((TRIES * WAIT_MS) / A_SECOND)}s of the tap, so either no banner was there to tap or the tap did not reach the push handler`,
         ],
         code: OPERATIONAL,
       }
     }
-    report.push(JSON.stringify(traced.entries, null, INDENT))
-    return told(report)
+    done.push(JSON.stringify(traced.entries, null, INDENT))
+    return told(done)
   } finally {
-    await deleteSession(base, sessionId).catch(() => undefined)
+    await probing.ended(base, sessionId).catch(() => undefined)
   }
 }
 
 export async function mobileSimPushTap(argv: readonly string[]): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) return refusedBy(read.refused)
-  return await answering(async () => await probed(read))
+  return await answering(async (done) => await probed(read, done))
 }

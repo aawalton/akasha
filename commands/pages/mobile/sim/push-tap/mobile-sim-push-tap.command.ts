@@ -7,12 +7,29 @@ export const mobileSimPushTap = {
   definition:
     "the command sending a push to the simulator, tapping its banner and reading what the tap did",
   code: "ts",
+  test: "ts",
   taking: [],
 
   invariants: [
     {
       invariantKind: "departure",
       statement: "A cold run terminates the app before the push goes out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A push delivered is named as soon as that push is delivered.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that threw after the push names that push in its refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The answer and the refusal are drawn from that one list of what was done.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The pushing, the opening, the tapping, the tracing and the ending are handed in.",
     },
     {
       invariantKind: "departure",
