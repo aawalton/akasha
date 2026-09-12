@@ -1,13 +1,14 @@
 import { resolve } from "node:path"
+import {
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { loadTemperInventoryConfigFromPath } from "akasha/temper/commands/inventory-config-reading/inventory-config-reading.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
-
-const INPUT = 1
-
-const OPERATIONAL = 3
 
 const INVENTORY_PATH = "--inventory-path"
 
@@ -180,9 +181,9 @@ export async function temperInventoryRules(
   try {
     const config = (await loadTemperInventoryConfigFromPath(at)) as CompiledInventoryConfig
     if (read.json) {
-      return { report: [JSON.stringify(jsonShape(config, read.section))], refusals: [], code: 0 }
+      return { report: [JSON.stringify(jsonShape(config, read.section))], refusals: [], code: OK }
     }
-    return { report: [...textOf(config, read.section)], refusals: [], code: 0 }
+    return { report: [...textOf(config, read.section)], refusals: [], code: OK }
   } catch (thrown) {
     return refused(whyOf(thrown), OPERATIONAL)
   }
