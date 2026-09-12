@@ -1,4 +1,4 @@
-import { FileWriteError } from "akasha/pages/access/file-write-error/file-write-error.module.code.ts"
+import { FileWriteError } from "akasha/pages/access/modules/file-write-error/file-write-error.module.code.ts"
 
 export type Backed = {
   readonly slug: string

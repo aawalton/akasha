@@ -7,8 +7,6 @@ import {
 import { PageTabHeader } from "akasha/design/interfaces/layout/page-tab-header/page-tab-header.module.code.tsx"
 import { PanelToggleProvider } from "akasha/design/interfaces/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
 import { LayoutLink } from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
-import { FilterButton } from "akasha/design/interfaces/patterns/filter-button/filter-button.module.code.tsx"
-import { FilterGroup } from "akasha/design/interfaces/patterns/filter-group/filter-group.module.code.tsx"
 import { AddFilterButton } from "akasha/design/interfaces/patterns/modules/add-filter-button/add-filter-button.module.code.tsx"
 import { addFilterId } from "akasha/design/interfaces/patterns/modules/add-filter-id/add-filter-id.module.code.ts"
 import {
@@ -19,6 +17,8 @@ import {
   EmptyMedia,
   EmptyTitle,
 } from "akasha/design/interfaces/patterns/modules/empty/empty.module.code.tsx"
+import { FilterButton } from "akasha/design/interfaces/patterns/modules/filter-button/filter-button.module.code.tsx"
+import { FilterGroup } from "akasha/design/interfaces/patterns/modules/filter-group/filter-group.module.code.tsx"
 import { SearchButton } from "akasha/design/interfaces/patterns/search-button/search-button.module.code.tsx"
 import { SearchSortFilterRow } from "akasha/design/interfaces/patterns/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
 import { SortButton } from "akasha/design/interfaces/patterns/sort-button/sort-button.module.code.tsx"

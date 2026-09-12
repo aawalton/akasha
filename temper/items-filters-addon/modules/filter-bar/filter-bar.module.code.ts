@@ -8,7 +8,7 @@ import {
   createMovableWindow,
   type WindowPosition,
 } from "akasha/temper/hud-window/movable-window/movable-window.module.code.ts"
-import type { BarContext } from "akasha/temper/items-filters-addon/filter-bar-controls/filter-bar-controls.module.code.ts"
+import type { BarContext } from "akasha/temper/items-filters-addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
 import {
   buildMultiselectEditor,
   buildRangeEditor,
@@ -22,7 +22,7 @@ import {
   PADDING_X,
   PADDING_Y,
   sanitizeName,
-} from "akasha/temper/items-filters-addon/filter-bar-controls/filter-bar-controls.module.code.ts"
+} from "akasha/temper/items-filters-addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
 import type { FilterController } from "akasha/temper/items-filters-addon/panel-filter-binding/panel-filter-binding.module.code.ts"
 import { TEMPER_FILTERS } from "akasha/temper/items-filters-core/search-filter-registry/search-filter-registry.module.code.ts"
 import type {

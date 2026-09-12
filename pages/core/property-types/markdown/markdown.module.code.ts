@@ -1,4 +1,4 @@
-import { textFilterPredicate } from "akasha/pages/core/property-types/filter-utils/filter-utils.module.code.ts"
+import { textFilterPredicate } from "akasha/pages/core/property-types/modules/filter-utils/filter-utils.module.code.ts"
 import type {
   FilterConfig,
   FilterOperatorOption,

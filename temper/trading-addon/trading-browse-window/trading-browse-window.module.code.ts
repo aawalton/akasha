@@ -18,7 +18,7 @@ import "akasha/temper/eso-types/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
-import type { BarContext } from "akasha/temper/items-filters-addon/filter-bar-controls/filter-bar-controls.module.code.ts"
+import type { BarContext } from "akasha/temper/items-filters-addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
 import {
   buildMultiselectEditor,
   buildRangeEditor,
@@ -31,7 +31,7 @@ import {
   LABEL_GAP,
   PADDING_X,
   PADDING_Y,
-} from "akasha/temper/items-filters-addon/filter-bar-controls/filter-bar-controls.module.code.ts"
+} from "akasha/temper/items-filters-addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
 import type { FilterController } from "akasha/temper/items-filters-addon/panel-filter-binding/panel-filter-binding.module.code.ts"
 import { TEMPER_FILTERS } from "akasha/temper/items-filters-core/search-filter-registry/search-filter-registry.module.code.ts"
 import type {

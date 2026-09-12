@@ -8,10 +8,6 @@ import {
 import { PaginatedCardGrid } from "akasha/design/interfaces/layout/paginated-card-grid/paginated-card-grid.module.code.tsx"
 import { PanelToggleProvider } from "akasha/design/interfaces/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
 import {
-  searchChanging,
-  sortChanging,
-} from "akasha/design/interfaces/patterns/filter-changing/filter-changing.module.code.ts"
-import {
   Empty,
   EmptyContent,
   EmptyDescription,
@@ -19,6 +15,10 @@ import {
   EmptyMedia,
   EmptyTitle,
 } from "akasha/design/interfaces/patterns/modules/empty/empty.module.code.tsx"
+import {
+  searchChanging,
+  sortChanging,
+} from "akasha/design/interfaces/patterns/modules/filter-changing/filter-changing.module.code.ts"
 import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
 import { TabsContent } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
