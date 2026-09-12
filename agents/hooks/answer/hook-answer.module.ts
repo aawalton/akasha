@@ -34,6 +34,14 @@ export const hookAnswer = {
     },
     {
       invariantKind: "departure",
+      statement: "Exiting 5 refuses the call, because the dispatch refuses any exit but 0 or 2.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What is said of a payload that will not read says the call is refused.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The key a hook over a shell command reads that command under is said here alone.",
     },
     {
