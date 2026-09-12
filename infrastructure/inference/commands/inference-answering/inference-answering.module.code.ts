@@ -239,11 +239,6 @@ export function madeOf(called: string, argv: readonly string[]): string {
   return `${called} ${quoted.join(" ")}`.trim()
 }
 
-export function calledAs(slug: string, argv: readonly string[]): string {
-  const quoted = argv.map((one) => (/\s/.test(one) ? `'${one}'` : one))
-  return `akasha ${slug} ${quoted.join(" ")}`.trim()
-}
-
 export function wroteTo(path: string, bytes: Uint8Array, what: string): string {
   return `wrote ${bytes.byteLength} bytes (${what}) to ${path}`
 }
