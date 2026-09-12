@@ -6,7 +6,7 @@ import {
   type Reading,
   readingKept,
 } from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
+import { rootStated } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 import { z } from "zod"
 
@@ -149,7 +149,7 @@ if (import.meta.main) {
     process.stderr.write(`${NO_SECRET_TO_CARRY_ON}\n`)
     process.exit(2)
   }
-  const root = optionalEnv("AKASHA_ROOT") ?? process.cwd()
+  const root = rootStated(process.env) ?? process.cwd()
   try {
     process.stdout.write(`${await carryReadingBeside(root, page, to, secret)}\n`)
   } catch (thrown) {
