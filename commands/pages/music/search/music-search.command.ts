@@ -15,12 +15,15 @@ export const musicSearch = {
     { said: "--top <n>", takes: "another spelling of --limit" },
     { said: "--json", takes: "give one JSON envelope rather than human lines" },
   ],
-  helpNotes: [
-    "an artist name is matched without regard to case against any part of a candidate's artist.",
-    "an artist named widens the fetch to ten candidates before the filtering, and ten is the most fetched.",
-    "each candidate is given with its track name, its artists, its album and its Spotify uri.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "An artist named widens the fetch to the most candidates before the filtering.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A candidate is given with its track name, its artists, its album and its uri.",
+    },
     {
       invariantKind: "departure",
       statement: "An artist named is matched without regard to case.",
