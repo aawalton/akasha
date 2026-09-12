@@ -18,18 +18,11 @@ export const read = {
     },
     { said: "--full", takes: "the whole body, whatever your record holds" },
   ],
-  helpNotes: [
-    "a read naming no file reads your own seat page, which warrants the whole of your seat reading.",
-    "--file-path repeats, so several files come back from one call.",
-    "a read also hands back what the files you name warrant, so one call answers the gate.",
-    "a body your record already holds comes back as one line rather than the file.",
-    "a body that moved since your record holds it comes back as what changed, where that is shorter.",
-    "a read takes no line range, and one answer holds 28000 bytes.",
-    "a body longer than that comes back a run of lines at a time, and the same call takes the next run.",
-    "a body read in part answers no write until the whole of it has reached you.",
-    "a path is read against the repository root, wherever the call was made.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "`--file-path` is named again for each file read.",
+    },
     {
       invariantKind: "departure",
       statement: "A read returns the whole file or the difference after the agent read the file.",
