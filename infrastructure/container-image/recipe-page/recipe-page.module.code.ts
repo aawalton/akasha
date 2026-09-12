@@ -1,26 +1,13 @@
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { listedAt, valuesByPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { type Valued, valuedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
-import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
-export type Held = {
-  readonly path: string
-  readonly value: Value
-}
+export type Held = Valued
 
 export function pageOf(given: string | Reading, pageTypeSlug: string, slug: string): Held {
-  const listed = listedAt(given, pageTypeSlug, slug)[0]
-  if (listed === undefined) {
-    throw new Error(
-      `no \`${pageTypeSlug}\` page carries the slug \`${slug}\`, so this recipe copies nothing`
-    )
-  }
-  const value = valuesByPath(given, pageTypeSlug).get(listed.path)
-  if (value === undefined) {
-    throw new Error(`\`${listed.path}\` is filed under \`${pageTypeSlug}\` and carries no value`)
-  }
-  return { path: listed.path, value }
+  return valuedAt(given, pageTypeSlug, slug)
 }
 
 export function besideOf(page: Held, propertySlug: string): string {
