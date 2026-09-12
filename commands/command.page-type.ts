@@ -31,7 +31,6 @@ export const command = {
     "namespace/temper",
     "module/cli",
     "module/export-naming",
-    "module/manifest-locking",
     "module/change-preparing",
     "module/audit-answering",
     "module/landing-saying",

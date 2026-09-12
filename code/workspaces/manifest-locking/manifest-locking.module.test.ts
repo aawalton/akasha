@@ -6,8 +6,6 @@ import type {
   Moving,
   Removing,
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { bodyIn as bodyOf } from "akasha/commands/modules/change-preparing/change-preparing.module.code.ts"
-import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import {
   carriesLock,
   installedIn,
@@ -19,7 +17,9 @@ import {
   NOTHING_INSTALLED,
   NOTHING_LOCKED,
   sameBytes,
-} from "akasha/commands/modules/manifest-locking/manifest-locking.module.code.ts"
+} from "akasha/code/workspaces/manifest-locking/manifest-locking.module.code.ts"
+import { bodyIn as bodyOf } from "akasha/commands/modules/change-preparing/change-preparing.module.code.ts"
+import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { said as git } from "akasha/git/running/git-running.module.code.ts"
 import { anythingThere as linkThere } from "akasha/utils/fs/anything-there/anything-there.module.code.ts"

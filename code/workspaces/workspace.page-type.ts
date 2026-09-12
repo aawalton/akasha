@@ -17,6 +17,7 @@ export const workspace = {
     "file-property/workspace-git-ignore",
     "file-property/workspace-manifest",
     "build-folder-property/package-directory",
+    "module/manifest-locking",
   ],
   extends: ["page-type/domain"],
   properties: [
