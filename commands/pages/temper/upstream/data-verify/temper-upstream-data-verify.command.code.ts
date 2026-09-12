@@ -5,9 +5,9 @@ import { library as libraryArgument } from "akasha/commands/arguments/pages/libr
 import {
   answeredWith,
   DATA,
-  OK,
   OPERATIONAL,
   refused,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
@@ -93,7 +93,7 @@ export async function temperUpstreamDataVerify(
 
   const read = SOURCES_OF[library].map((one) => join(where.addons, one))
   const report = [...ruling.report, `read upstream from ${read.join(", ")}`]
-  if (ruling.parted.length === 0) return answeredWith(report, [], OK)
+  if (ruling.parted.length === 0) return told(report)
   return answeredWith(
     report,
     [...ruling.parted, `${library} no longer matches upstream`],
