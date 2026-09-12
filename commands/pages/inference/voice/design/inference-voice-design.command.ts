@@ -9,10 +9,6 @@ export const inferenceVoiceDesign = {
   taking: [
     { said: "--instruct <description>", takes: "the voice described in words" },
     {
-      said: "--instruct-file <path>",
-      takes: "that description read from a path, or `-` for standard input",
-    },
-    {
       said: "--text <transcript>",
       takes: "what the voice says, which becomes the clip's transcript",
     },
@@ -55,5 +51,6 @@ export const inferenceVoiceDesign = {
     { argument: "argument/service" },
     { argument: "argument/lang" },
     { argument: "argument/text-file" },
+    { argument: "argument/instruct-file" },
   ],
 } as const satisfies Command
