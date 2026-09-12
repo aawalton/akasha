@@ -1,3 +1,4 @@
+import { partWay } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { PUT_BACK } from "akasha/commands/modules/change-freshness/change-freshness.module.code.ts"
 import { LOCK_AT } from "akasha/git/holding/holding.module.code.ts"
 
@@ -21,22 +22,23 @@ export async function sleeping(ms: number): Promise<void> {
   await Bun.sleep(ms)
 }
 
-async function asked(ask: () => Promise<Went>): Promise<Went> {
+async function asked(ask: () => Promise<Went>, done: readonly string[]): Promise<Went> {
   try {
     return await ask()
   } catch (thrown) {
-    return { why: reasonThrown(thrown) }
+    return { why: [reasonThrown(thrown), ...partWay(done)].join(" ") }
   }
 }
 
 export async function landingAgain(
   ask: () => Promise<Went>,
+  done: readonly string[] = [],
   waited: (ms: number) => Promise<void> = sleeping
 ): Promise<Went> {
-  let went = await asked(ask)
+  let went = await asked(ask, done)
   for (let tried = 1; tried < TRIES && "why" in went && worthAnotherTry(went.why); tried += 1) {
     await waited(WAIT_MS)
-    went = await asked(ask)
+    went = await asked(ask, done)
   }
   return went
 }

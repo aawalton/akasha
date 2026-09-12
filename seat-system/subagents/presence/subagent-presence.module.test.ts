@@ -29,7 +29,6 @@ import {
   startedIn,
   took,
   WRITING,
-  wentOn,
   wrote,
 } from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
 import {
@@ -257,8 +256,8 @@ test("a take-down that threw after it landed names what it landed", async () => 
   await underSeat(async (root) => {
     expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", [], LANDS)).toEqual(WENT)
     const done: string[] = []
-    const went = await landingAgain(() => took(root, "akasha", OWN, done, THREW_AFTER))
-    expect(whyIn(wentOn(went, done))).toContain(COMMITTED)
+    const went = await landingAgain(() => took(root, "akasha", OWN, done, THREW_AFTER), done)
+    expect(whyIn(went)).toContain(COMMITTED)
   })
 })
 

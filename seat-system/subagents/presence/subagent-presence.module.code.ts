@@ -173,13 +173,10 @@ export function seatNamedIn(root: string, seatId: string): string | null {
   return named.slug
 }
 
-export function wentOn(went: Went, done: readonly string[]): Went {
-  return "why" in went ? { why: [went.why, ...partWay(done)].join(" ") } : went
-}
-
 function wentBy(landed: Awaited<ReturnType<Landing>>, done: readonly string[] = []): Went {
   const wrong = "refusals" in landed ? landed.refusals : landed.wrong
-  return wrong.length > 0 ? wentOn({ why: wrong.join(" ").trim() }, done) : WENT
+  if (wrong.length === 0) return WENT
+  return { why: [wrong.join(" ").trim(), ...partWay(done)].join(" ") }
 }
 
 export async function wrote(
@@ -425,8 +422,8 @@ export async function ran(argv: readonly string[]): Promise<number> {
   if (act === SWEEPING) {
     const why = own
     if (why === undefined || why === "") return saying(`${act} ${seatName}: no reason was named`)
-    const swept = await landingAgain(() => tookUnder(root, seatName, why, done))
-    return exitFor(wentOn(swept, done), `${act} ${seatName}`)
+    const swept = await landingAgain(() => tookUnder(root, seatName, why, done), done)
+    return exitFor(swept, `${act} ${seatName}`)
   }
   if (own === undefined || own === "") return saying(`${act} ${seatName}: no subagent id was named`)
   const at = `${act} ${seatName} ${own}`
@@ -434,15 +431,16 @@ export async function ran(argv: readonly string[]): Promise<number> {
   if (act === WRITING) {
     if (seatId === undefined || seatId === "") return saying(`${at} — no seat id was named`)
     const kind = dispatchedAs === undefined || dispatchedAs === "" ? null : dispatchedAs
-    const put = await landingAgain(() => wrote(root, seatName, seatId, own, kind, done))
+    const put = await landingAgain(() => wrote(root, seatName, seatId, own, kind, done), done)
     if (!("why" in put)) startedIn(root, pathIn(root, slugOf(seatName, own)), moment)
-    return exitFor(wentOn(put, done), at)
+    return exitFor(put, at)
   }
   if (act === TAKING) {
-    const gone = await landingAgain(() =>
-      took(root, seatName, own, done, landedMechanically, moment)
+    const gone = await landingAgain(
+      () => took(root, seatName, own, done, landedMechanically, moment),
+      done
     )
-    return exitFor(wentOn(gone, done), at)
+    return exitFor(gone, at)
   }
   return saying(`\`${act}\` is no act this takes`)
 }

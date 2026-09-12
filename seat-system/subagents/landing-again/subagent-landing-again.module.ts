@@ -55,6 +55,18 @@ export const subagentLandingAgain = {
       statement: "No error a landing ends in reaches past the ask that asked for that landing.",
     },
     {
+      invariantKind: "departure",
+      statement: "A reason made from an error names what the run had done before that error.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "What the run had done by then is handed in rather than read back.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing is added to a reason the landing itself worded.",
+    },
+    {
       invariantKind: "constraint",
       statement: "A module a run could not find stays unfound for the rest of that run.",
     },

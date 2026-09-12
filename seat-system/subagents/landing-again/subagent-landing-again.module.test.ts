@@ -21,6 +21,8 @@ const MOVED: Went = {
 
 const REFUSED: Went = { why: "no assignment is stated for the akasha seat" }
 
+const WROTE = "a.subagent.ts is in commit abc123"
+
 const UNFOUND = new Error(
   "Cannot find module 'akasha/one/one.module.code.ts' from 'akasha/two/two.module.code.ts'"
 )
@@ -56,45 +58,57 @@ function counting(answers: readonly (Went | Error)[]): {
 
 test("a landing refused for a held lock is asked for again until that landing goes", async () => {
   const run = counting([LOCKED, LOCKED, GOING])
-  expect(await landingAgain(run.ask, run.waited)).toEqual(GOING)
+  expect(await landingAgain(run.ask, [], run.waited)).toEqual(GOING)
   expect(run.count()).toBe(3)
   expect(run.waits).toEqual([WAIT_MS, WAIT_MS])
 })
 
 test("a landing refused for a held lock every time is asked for five times and no more", async () => {
   const run = counting([LOCKED])
-  expect(await landingAgain(run.ask, run.waited)).toEqual(LOCKED)
+  expect(await landingAgain(run.ask, [], run.waited)).toEqual(LOCKED)
   expect(run.count()).toBe(TRIES)
 })
 
 test("a landing refused because the tree moved under it is asked for again", async () => {
   const run = counting([MOVED, GOING])
-  expect(await landingAgain(run.ask, run.waited)).toEqual(GOING)
+  expect(await landingAgain(run.ask, [], run.waited)).toEqual(GOING)
   expect(run.count()).toBe(2)
 })
 
 test("a refusal naming no held lock is answered at once and waits for nothing", async () => {
   const run = counting([REFUSED])
-  expect(await landingAgain(run.ask, run.waited)).toEqual(REFUSED)
+  expect(await landingAgain(run.ask, [], run.waited)).toEqual(REFUSED)
   expect(run.count()).toBe(1)
   expect(run.waits).toEqual([])
 })
 
 test("a landing that ends in an error answers that error as a reason of its own", async () => {
   const run = counting([UNFOUND])
-  expect(whyIn(await landingAgain(run.ask, run.waited))).toBe(reasonThrown(UNFOUND))
+  expect(whyIn(await landingAgain(run.ask, [], run.waited))).toBe(reasonThrown(UNFOUND))
+})
+
+test("a landing that ends in an error names what the run had done before that error", async () => {
+  const run = counting([UNFOUND])
+  const why = whyIn(await landingAgain(run.ask, [WROTE], run.waited))
+  expect(why).toContain(reasonThrown(UNFOUND))
+  expect(why).toContain(WROTE)
+})
+
+test("a refusal the landing worded is answered as worded, with nothing added to it", async () => {
+  const run = counting([REFUSED])
+  expect(await landingAgain(run.ask, [WROTE], run.waited)).toEqual(REFUSED)
 })
 
 test("a landing that could not find a module is answered at once", async () => {
   const run = counting([UNFOUND])
-  await landingAgain(run.ask, run.waited)
+  await landingAgain(run.ask, [], run.waited)
   expect(run.count()).toBe(1)
   expect(run.waits).toEqual([])
 })
 
 test("a landing whose error names a held lock is asked for again", async () => {
   const run = counting([THREW_LOCK, GOING])
-  expect(await landingAgain(run.ask, run.waited)).toEqual(GOING)
+  expect(await landingAgain(run.ask, [], run.waited)).toEqual(GOING)
   expect(run.count()).toBe(2)
 })
 
