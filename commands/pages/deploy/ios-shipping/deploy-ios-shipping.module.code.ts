@@ -15,10 +15,10 @@ import {
 import { runTestflightCut } from "akasha/alan/harness/mobile-cli/testflight-cut/testflight-cut.module.code.ts"
 import {
   DATA,
-  OK,
   OPERATIONAL,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { type Answer, answeredWith } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { pushBranch } from "akasha/git/pushing/git-pushing.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
@@ -73,24 +73,24 @@ export async function shipIosApp(
   try {
     app = resolveApp(slug)
   } catch (err) {
-    return { report, refusals: [saidBy(err)], code: DATA }
+    return answeredWith(report, [saidBy(err)], DATA)
   }
   try {
     readRingCredentialFor(app)
   } catch (err) {
-    return { report, refusals: [saidBy(err)], code: OPERATIONAL }
+    return answeredWith(report, [saidBy(err)], OPERATIONAL)
   }
   let roots: readonly string[]
   try {
     roots = rootsOf(app)
   } catch (err) {
-    return { report, refusals: [saidBy(err)], code: OPERATIONAL }
+    return answeredWith(report, [saidBy(err)], OPERATIONAL)
   }
   for (const root of roots) {
     const pushed = pushBranch(root)
     report.push(pushed.line)
     if (pushed.failed) {
-      return { report, refusals: [saidOfUnpushed(root, ref)], code: OPERATIONAL }
+      return answeredWith(report, [saidOfUnpushed(root, ref)], OPERATIONAL)
     }
     up.push(`${ref}, pushed to the origin of ${root}`)
   }
@@ -98,12 +98,12 @@ export async function shipIosApp(
   try {
     password = readKeychainPassword()
   } catch (err) {
-    return { report, refusals: [saidBy(err)], code: OPERATIONAL }
+    return answeredWith(report, [saidBy(err)], OPERATIONAL)
   }
   try {
     acquireLocalCutLock(Date.now(), process.pid)
   } catch (err) {
-    return { report, refusals: [saidBy(err)], code: OPERATIONAL }
+    return answeredWith(report, [saidBy(err)], OPERATIONAL)
   }
   const spoken: string[] = []
   try {
@@ -122,7 +122,7 @@ export async function shipIosApp(
     })
   } catch (err) {
     report.push(...linesOf(spoken))
-    return { report, refusals: [saidBy(err)], code: OPERATIONAL }
+    return answeredWith(report, [saidBy(err)], OPERATIONAL)
   } finally {
     releaseLocalCutLock(process.pid)
   }
@@ -137,5 +137,5 @@ export async function shipIosApp(
       ? `built\t${slug}\tarchived, exported, validated by Apple, and sent to nobody`
       : `built\t${slug}\tarchived, exported and uploaded to TestFlight`
   )
-  return { report, refusals: [], code: OK }
+  return told(report)
 }
