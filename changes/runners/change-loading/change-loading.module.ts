@@ -26,7 +26,8 @@ export const changeLoading = {
     },
     {
       invariantKind: "departure",
-      statement: "A change states the arguments that change takes beside its run, under one name.",
+      statement:
+        "An agent change states the arguments that change takes beside its run, under one name.",
     },
     {
       invariantKind: "departure",
