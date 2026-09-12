@@ -6,6 +6,7 @@ import {
   deciding,
   type Ledger,
   owing,
+  passedOn,
   told,
 } from "akasha/infrastructure/services/workstations/service-alerting/service-alerting.module.code.ts"
 import type { Health } from "akasha/infrastructure/services/workstations/service-health/service-health.module.code.ts"
@@ -109,4 +110,16 @@ test("a tree that comes back on itself terminates rather than running away", () 
     rowOf("domain/two", "domain/one", null),
   ])
   expect(champion("domain/one")).toBe(null)
+})
+
+test("a telling nothing could carry says who it was meant for", () => {
+  const said = passedOn("ember", "`a-service` is broken.", "no seat is held")
+  expect(said).toContain("meant for `ember`")
+  expect(said).toContain("no seat is held")
+  expect(said.endsWith(".")).toBe(true)
+})
+
+test("a reason already closed is not closed twice", () => {
+  const said = passedOn("ember", "`a-service` is broken.", "no seat is held.")
+  expect(said.endsWith("held.")).toBe(true)
 })

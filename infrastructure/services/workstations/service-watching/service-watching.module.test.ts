@@ -7,7 +7,6 @@ import {
   ledgerIn,
   ledgerRead,
   ledgerWrite,
-  passedOn,
   ticking,
 } from "akasha/infrastructure/services/workstations/service-watching/service-watching.module.code.ts"
 
@@ -42,24 +41,6 @@ test("an entry stating no day it broke is dropped rather than carried", () => {
   expect(ledgerIn('{"a":{"toldAt":"x"}}')).toEqual({})
   expect(ledgerIn('{"a":{"brokenSince":"x"}}')).toEqual({ a: { brokenSince: "x", toldAt: null } })
   expect(ledgerIn("[]")).toEqual({})
-})
-
-test("a telling nothing could carry says who it was meant for", () => {
-  const said = passedOn(
-    { slug: "a-service", to: "ember", body: "`a-service` is broken." },
-    "no seat is held"
-  )
-  expect(said).toContain("meant for `ember`")
-  expect(said).toContain("no seat is held")
-  expect(said.endsWith(".")).toBe(true)
-})
-
-test("a reason already closed is not closed twice", () => {
-  const said = passedOn(
-    { slug: "a-service", to: "ember", body: "`a-service` is broken." },
-    "no seat is held."
-  )
-  expect(said.endsWith("held.")).toBe(true)
 })
 
 const BROKE = "2026-09-08T00:00:00.000Z"

@@ -99,8 +99,7 @@ export const auditServing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A telling nobody could receive is passed to Alan, saying who it was meant for and why.",
+      statement: "A telling nobody could receive is passed to Alan.",
     },
     {
       invariantKind: "departure",

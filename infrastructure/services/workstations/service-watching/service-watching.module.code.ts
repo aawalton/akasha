@@ -6,6 +6,7 @@ import {
   championing,
   deciding,
   type Ledger,
+  passedOn,
   type Telling,
   told,
 } from "akasha/infrastructure/services/workstations/service-alerting/service-alerting.module.code.ts"
@@ -79,11 +80,6 @@ export function ledgerWrite(home: string, ledger: Ledger): undefined {
   writeFileSync(at, `${JSON.stringify(ledger, null, 2)}\n`)
 }
 
-export function passedOn(one: Telling, why: string): string {
-  const said = why.endsWith(".") ? why : `${why}.`
-  return `${one.body} This was meant for \`${one.to}\`, whom nothing could reach: ${said}`
-}
-
 export const sending: Sent = async (to, body) => {
   const wrote = await writeMessage({ to, from: SLUG, warrant: "announce", body })
   return wrote.kind === "refused" ? wrote.detail : null
@@ -104,7 +100,7 @@ export async function carrying(given: {
     let reached = one.to
     if (why !== null && one.to !== FALLBACK) {
       reached = FALLBACK
-      why = await given.send(FALLBACK, passedOn(one, why))
+      why = await given.send(FALLBACK, passedOn(one.to, one.body, why))
     }
     if (why !== null) {
       refused.push(`${one.slug} for \`${one.to}\`: ${why}`)

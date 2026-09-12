@@ -50,6 +50,11 @@ export function bodyFor(one: Health, since: string, now: string): string {
   ].join(" ")
 }
 
+export function passedOn(to: string, body: string, why: string): string {
+  const said = why.endsWith(".") ? why : `${why}.`
+  return `${body} This was meant for \`${to}\`, whom nothing could reach: ${said}`
+}
+
 export function owing(mark: string | null, now: string, coolingMs: number): boolean {
   if (mark === null) return true
   const marked = Date.parse(mark)

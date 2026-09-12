@@ -10,7 +10,6 @@ import {
   keyFor,
   movedIn,
   type Over,
-  passedOn,
   roundOver,
   telling,
   turnAt,
@@ -112,11 +111,6 @@ test("a check turns red only where it was clean or unknown before", () => {
 
 test("the one told is read from the pages rather than named in the module", () => {
   expect(championOf(process.cwd())).toMatch(/^[a-z][a-z-]*$/)
-})
-
-test("a reason for a telling nobody took is closed once however it arrived", () => {
-  expect(passedOn("thea", "a check turned.", "no seat is held").endsWith("held.")).toBe(true)
-  expect(passedOn("thea", "a check turned.", "no seat is held.").endsWith("held.")).toBe(true)
 })
 
 test("a telling nobody could receive is passed to Alan, saying who it was meant for", async () => {

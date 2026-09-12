@@ -26,6 +26,15 @@ export const serviceAlerting = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A telling carried to somebody else says who it was meant for and why nothing reached them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The reason it names is closed with a stop once however the reason arrived.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A service breaking is told at once.",
     },
     {

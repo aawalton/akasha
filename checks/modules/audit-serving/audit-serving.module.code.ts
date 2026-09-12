@@ -30,7 +30,10 @@ import {
 import { domainsDrawn } from "akasha/domains/modules/rows/domain-rows.module.code.ts"
 import { exclusively } from "akasha/files/exclusive/exclusive.module.code.ts"
 import { runGit } from "akasha/git/answering/git-answering.module.code.ts"
-import { championing } from "akasha/infrastructure/services/workstations/service-alerting/service-alerting.module.code.ts"
+import {
+  championing,
+  passedOn,
+} from "akasha/infrastructure/services/workstations/service-alerting/service-alerting.module.code.ts"
 import { checkoutAt } from "akasha/infrastructure/services/workstations/service-checkout/service-checkout.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { type Shadow, shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
@@ -92,11 +95,6 @@ export const sending: Sent = async (to, body) => {
 
 export function championOf(root: string): string {
   return championing(domainsDrawn(root))(ANSWERS_FOR) ?? FALLBACK
-}
-
-export function passedOn(to: string, body: string, why: string): string {
-  const said = why.endsWith(".") ? why : `${why}.`
-  return `${body} This was meant for \`${to}\`, whom nothing could reach: ${said}`
 }
 
 export async function telling(send: Sent, to: string, body: string): Promise<string | null> {
