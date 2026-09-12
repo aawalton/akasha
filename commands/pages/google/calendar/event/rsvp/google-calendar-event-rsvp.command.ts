@@ -11,10 +11,6 @@ export const googleCalendarEventRsvp = {
       said: "--status <status>",
       takes: "the response to set, of `accepted`, `declined` and `tentative`",
     },
-    {
-      said: "--send-updates <who>",
-      takes: "who is emailed about the response, of `all`, `externalOnly` and `none`",
-    },
   ],
   invariants: [
     {
@@ -43,5 +39,6 @@ export const googleCalendarEventRsvp = {
   arguments: [
     { argument: "argument/event", required: true, saidAs: "flag-or-word" },
     { argument: "argument/calendar" },
+    { argument: "argument/send-updates" },
   ],
 } as const satisfies Command

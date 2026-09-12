@@ -24,10 +24,6 @@ export const googleCalendarEventUpdate = {
       said: "--recurrence <rrule>",
       takes: "one RRULE body, said once over for each rule it carries",
     },
-    {
-      said: "--send-updates <who>",
-      takes: "who is emailed about the change, of `all`, `externalOnly` and `none`",
-    },
   ],
   invariants: [
     {
@@ -71,5 +67,6 @@ export const googleCalendarEventUpdate = {
   arguments: [
     { argument: "argument/event", required: true, saidAs: "flag-or-word" },
     { argument: "argument/calendar" },
+    { argument: "argument/send-updates" },
   ],
 } as const satisfies Command
