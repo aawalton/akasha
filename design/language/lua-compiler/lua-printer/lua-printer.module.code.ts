@@ -1,8 +1,4 @@
 import * as path from "node:path"
-import {
-  LuaLibImportKind,
-  LuaTarget,
-} from "akasha/design/language/lua-compiler/compiler-options/compiler-options.module.code.ts"
 import type * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import type * as luaStatements from "akasha/design/language/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
 import {
@@ -23,6 +19,10 @@ import {
   loadImportedLualibFeatures,
   loadInlineLualibFeatures,
 } from "akasha/design/language/lua-compiler/lualib-runtime/lualib-runtime.module.code.ts"
+import {
+  LuaLibImportKind,
+  LuaTarget,
+} from "akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts"
 import type { EmitHost } from "akasha/design/language/lua-compiler/transpile-emit-host/transpile-emit-host.module.code.ts"
 import { type Mapping, SourceMapGenerator, type SourceNode } from "source-map"
 import type * as ts from "typescript"

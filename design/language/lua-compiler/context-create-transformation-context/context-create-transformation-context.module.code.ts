@@ -1,4 +1,3 @@
-import { LuaTarget } from "akasha/design/language/lua-compiler/compiler-options/compiler-options.module.code.ts"
 import {
   moveToPrecedingTemp as moveToPrecedingTempImpl,
   shouldMoveToTemp as shouldMoveToTempImpl,
@@ -27,6 +26,7 @@ import * as luaCore from "akasha/design/language/lua-compiler/lua-ast-core/lua-a
 import * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import type * as luaStatements from "akasha/design/language/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
 import type { LuaLibFeature } from "akasha/design/language/lua-compiler/lualib-features/lualib-features.module.code.ts"
+import { LuaTarget } from "akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts"
 import type {
   Scope,
   ScopeType,

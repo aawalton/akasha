@@ -1,6 +1,6 @@
 import * as fs from "node:fs"
 import * as path from "node:path"
-import type { CompilerOptions } from "akasha/design/language/lua-compiler/compiler-options/compiler-options.module.code.ts"
+import type { CompilerOptions } from "akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts"
 import {
   couldNotReadDependency,
   couldNotResolveRequire,

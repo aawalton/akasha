@@ -1,9 +1,9 @@
+import type { TransformationContext } from "akasha/design/language/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import { isSymbolExported } from "akasha/design/language/lua-compiler/export-scope/export-scope.module.code.ts"
 import {
   type CompilerOptions,
   LuaTarget,
-} from "akasha/design/language/lua-compiler/compiler-options/compiler-options.module.code.ts"
-import type { TransformationContext } from "akasha/design/language/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
-import { isSymbolExported } from "akasha/design/language/lua-compiler/export-scope/export-scope.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts"
 import { invalidAmbientIdentifierName } from "akasha/design/language/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
 import { isAmbientNode } from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
 import type * as ts from "typescript"

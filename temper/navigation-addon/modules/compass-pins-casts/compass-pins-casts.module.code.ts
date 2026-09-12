@@ -3,7 +3,7 @@ import type {
   CompassLayoutUpdateFn,
   CompassPinData,
   CompassPoolClass,
-} from "akasha/temper/navigation-addon/compass-pins-types/compass-pins-types.module.code.ts"
+} from "akasha/temper/navigation-addon/modules/compass-pins-types/compass-pins-types.module.code.ts"
 
 export type GlobalTable = Record<string, unknown>
 

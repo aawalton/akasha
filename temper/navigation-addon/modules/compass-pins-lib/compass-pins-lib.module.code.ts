@@ -1,8 +1,3 @@
-import type {
-  CompassPin,
-  Lib,
-  PinCallback,
-} from "akasha/temper/navigation-addon/compass-pins-types/compass-pins-types.module.code.ts"
 import {
   asGlobalTable,
   asOptString,
@@ -29,6 +24,11 @@ import {
   pinLayouts,
   STATE,
 } from "akasha/temper/navigation-addon/modules/compass-pins-state/compass-pins-state.module.code.ts"
+import type {
+  CompassPin,
+  Lib,
+  PinCallback,
+} from "akasha/temper/navigation-addon/modules/compass-pins-types/compass-pins-types.module.code.ts"
 
 const sharedMapPinManager = ZO_WorldMap_GetPinManager()
 

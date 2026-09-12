@@ -1,7 +1,7 @@
 import * as path from "node:path"
-import { validateOptions } from "akasha/design/language/lua-compiler/compiler-options/compiler-options.module.code.ts"
 import { createPrinter } from "akasha/design/language/lua-compiler/lua-printer/lua-printer.module.code.ts"
 import * as performance from "akasha/design/language/lua-compiler/measure-performance/measure-performance.module.code.ts"
+import { validateOptions } from "akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts"
 import {
   createVisitorMap,
   transformSourceFile,

@@ -1,5 +1,5 @@
 import * as path from "node:path"
-import { BuildMode } from "akasha/design/language/lua-compiler/compiler-options/compiler-options.module.code.ts"
+import { BuildMode } from "akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts"
 import type { LuaRequire } from "akasha/design/language/lua-compiler/transpile-find-lua-requires/transpile-find-lua-requires.module.code.ts"
 import {
   formatPathToLuaPath,

@@ -52,7 +52,7 @@ declare module "typescript" {
 
   interface Program {
     getCommonSourceDirectory: () => string
-    getCompilerOptions: () => import("akasha/design/language/lua-compiler/compiler-options/compiler-options.module.code.ts").CompilerOptions
+    getCompilerOptions: () => import("akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts").CompilerOptions
   }
 
   interface Node {

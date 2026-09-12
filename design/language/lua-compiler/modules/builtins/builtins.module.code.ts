@@ -1,4 +1,3 @@
-import { LuaTarget } from "akasha/design/language/lua-compiler/compiler-options/compiler-options.module.code.ts"
 import type { TransformationContext } from "akasha/design/language/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
 import { createNaN } from "akasha/design/language/lua-compiler/lua-ast/lua-ast.module.code.ts"
 import * as luaCore from "akasha/design/language/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
@@ -40,6 +39,7 @@ import {
   transformStringPrototypeCall,
 } from "akasha/design/language/lua-compiler/modules/builtin-string/builtin-string.module.code.ts"
 import { transformSymbolConstructorCall } from "akasha/design/language/lua-compiler/modules/builtin-symbol/builtin-symbol.module.code.ts"
+import { LuaTarget } from "akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts"
 import { getIdentifierSymbolId } from "akasha/design/language/lua-compiler/symbols/symbols.module.code.ts"
 import { maybeWrapThisVoidAsAdapter } from "akasha/design/language/lua-compiler/this-void-adapter/this-void-adapter.module.code.ts"
 import {

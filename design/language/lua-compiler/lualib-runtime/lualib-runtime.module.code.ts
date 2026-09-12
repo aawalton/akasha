@@ -1,4 +1,3 @@
-import type { LuaTarget } from "akasha/design/language/lua-compiler/compiler-options/compiler-options.module.code.ts"
 import * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import * as luaStatements from "akasha/design/language/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
 import { buildLuaLib } from "akasha/design/language/lua-compiler/lualib-builder/lualib-builder.module.code.ts"
@@ -8,6 +7,7 @@ import {
   type LuaLibModulesInfo,
   resolveRecursiveLualibFeatures,
 } from "akasha/design/language/lua-compiler/lualib-features/lualib-features.module.code.ts"
+import type { LuaTarget } from "akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts"
 import type { EmitHost } from "akasha/design/language/lua-compiler/transpile-emit-host/transpile-emit-host.module.code.ts"
 import { requireGet } from "akasha/utils/narrow/require-get/require-get.module.code.ts"
 import { z } from "zod"

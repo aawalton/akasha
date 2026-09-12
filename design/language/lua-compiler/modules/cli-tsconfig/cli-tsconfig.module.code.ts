@@ -1,13 +1,13 @@
 import * as path from "node:path"
-import type {
-  CompilerOptions,
-  LuaCompilerOptions,
-} from "akasha/design/language/lua-compiler/compiler-options/compiler-options.module.code.ts"
 import * as cliDiagnostics from "akasha/design/language/lua-compiler/modules/cli-diagnostics/cli-diagnostics.module.code.ts"
 import {
   type ParsedCommandLine,
   updateParsedConfigFile,
 } from "akasha/design/language/lua-compiler/modules/cli-parse/cli-parse.module.code.ts"
+import type {
+  CompilerOptions,
+  LuaCompilerOptions,
+} from "akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts"
 import { normalizeSlashes } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import * as ts from "typescript"

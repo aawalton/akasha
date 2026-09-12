@@ -1,9 +1,9 @@
 import * as path from "node:path"
+import { escapeString } from "akasha/design/language/lua-compiler/lua-printer-helpers/lua-printer-helpers.module.code.ts"
 import {
   type CompilerOptions,
   LuaTarget,
-} from "akasha/design/language/lua-compiler/compiler-options/compiler-options.module.code.ts"
-import { escapeString } from "akasha/design/language/lua-compiler/lua-printer-helpers/lua-printer-helpers.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts"
 import { couldNotFindBundleEntryPoint } from "akasha/design/language/lua-compiler/transpile-diagnostics/transpile-diagnostics.module.code.ts"
 import type {
   EmitFile,
