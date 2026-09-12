@@ -51,7 +51,7 @@ const READINESS_QUESTION = JSON.stringify({
   keys: ["slug"],
 })
 
-const READINESS_SECONDS = 2
+const READINESS_SECONDS = 8
 
 const READINESS_COMMAND = [
   "/bin/sh",
@@ -86,8 +86,8 @@ function deploymentYaml(): string {
                 exec: { command: READINESS_COMMAND },
                 initialDelaySeconds: 2,
                 periodSeconds: 10,
-                timeoutSeconds: 5,
-                failureThreshold: 3,
+                timeoutSeconds: READINESS_SECONDS + 2,
+                failureThreshold: 5,
               },
               resources: {
                 requests: { cpu: "10m", memory: "32Mi" },
