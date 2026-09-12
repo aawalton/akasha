@@ -5,9 +5,10 @@ import { throwingAfter } from "akasha/commands/modules/answering/command-answeri
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   type Asked,
+  claudeAccountAdd,
   filedBy,
-  readIn,
   slotFrom,
+  wrongIn,
 } from "akasha/commands/pages/claude-account/add/claude-account-add.command.code.ts"
 
 const ASKED: Asked = { account: "tempereso", email: "a@b.c", alias: null }
@@ -24,10 +25,14 @@ const LANDED = "committed as 346ea7067fc"
 
 const SWEPT = "moved the tree it landed onto"
 
-test("an account named twice over is refused", () => {
-  const read = readIn(["one", "two", "--email", "a@b.c"])
-  if (!("refused" in read)) throw new Error("this was taken")
-  expect(read.refused[0] ?? "").toContain("one account and no more")
+test("an account named twice over is refused", async () => {
+  const said = await claudeAccountAdd(["one", "two", "--email", "a@b.c"], HERE)
+
+  expect(said.refusals.join(" ")).toContain("takes 1 word and this call says 2 words")
+})
+
+test("an alias slot below one is refused", () => {
+  expect(wrongIn("tempereso", "a@b.c", 0)[0] ?? "").toContain("a whole number from one up")
 })
 
 test("a slot another account holds is refused rather than shared", () => {

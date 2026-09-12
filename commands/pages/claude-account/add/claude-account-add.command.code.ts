@@ -1,6 +1,10 @@
 import { accountsAtIn } from "akasha/agents/claude-accounts/modules/making/claude-account-making.module.code.ts"
 import { aliasIndexesIn } from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { account as accountArgument } from "akasha/commands/arguments/pages/account.argument.ts"
+import { alias } from "akasha/commands/arguments/pages/alias.argument.ts"
+import { email as emailArgument } from "akasha/commands/arguments/pages/email.argument.ts"
 import {
   answering,
   DATA,
@@ -10,6 +14,7 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { claudeAccountAdd as page } from "akasha/commands/pages/claude-account/add/claude-account-add.command.ts"
 import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
@@ -25,10 +30,6 @@ const HOLDS = "ts"
 
 const PUT = "change-mechanical-file/add-file"
 
-const EMAIL = "--email"
-
-const ALIAS = "--alias"
-
 const ACCOUNT_SHAPE = /^[a-z][a-z0-9-]*$/
 
 const EMAIL_SHAPE = /^\S+@\S+$/
@@ -39,51 +40,20 @@ export type Asked = {
   readonly alias: number | null
 }
 
-export type Read = Asked | { readonly refused: readonly string[] }
-
-export function readIn(argv: readonly string[]): Read {
-  const refusals: string[] = []
-  let account: string | null = null
-  let email: string | null = null
-  let alias: number | null = null
-  for (let at = 0; at < argv.length; at += 1) {
-    const one = argv[at] ?? ""
-    if (one === EMAIL || one === ALIAS) {
-      const said = argv[at + 1]
-      at += 1
-      if (said === undefined) {
-        refusals.push(`\`${one}\` was said with nothing after it`)
-        continue
-      }
-      if (one === EMAIL) email = said
-      else {
-        const many = Number(said)
-        if (!Number.isInteger(many) || many < 1) {
-          refusals.push(`\`${said}\` is no alias slot, which is a whole number from one up`)
-        } else alias = many
-      }
-      continue
-    }
-    if (one.startsWith("-")) {
-      refusals.push(`\`${one}\` is no word this takes`)
-      continue
-    }
-    if (account !== null) {
-      refusals.push("this files one account and no more")
-      continue
-    }
-    account = one
+export function wrongIn(
+  account: string,
+  email: string,
+  slot: number | undefined
+): readonly string[] {
+  const wrong: string[] = []
+  if (!ACCOUNT_SHAPE.test(account)) {
+    wrong.push(`\`${account}\` is no account name, which is lower letters, digits and hyphens`)
   }
-  if (account === null) refusals.push("no account was named, and this files one account by name")
-  else if (!ACCOUNT_SHAPE.test(account)) {
-    refusals.push(`\`${account}\` is no account name, which is lower letters, digits and hyphens`)
+  if (!EMAIL_SHAPE.test(email)) wrong.push(`\`${email}\` is no address this writes onto one line`)
+  if (slot !== undefined && slot < 1) {
+    wrong.push(`\`${slot}\` is no alias slot, which is a whole number from one up`)
   }
-  if (email === null)
-    refusals.push(`${EMAIL} is not said, and an account states the address it signs in as`)
-  else if (!EMAIL_SHAPE.test(email))
-    refusals.push(`\`${email}\` is no address this writes onto one line`)
-  if (refusals.length > 0) return { refused: refusals }
-  return { account: account as string, email: email as string, alias }
+  return wrong
 }
 
 export function pageTextFor(
@@ -169,7 +139,13 @@ export async function filedBy(
 }
 
 export async function claudeAccountAdd(argv: readonly string[], given: Given): Promise<Answer> {
-  const read = readIn(argv)
+  const read = takenFor(argv, given.calledAs, page, [accountArgument, emailArgument, alias])
   if ("refused" in read) return mistaking(read.refused)
-  return await filedBy(read, given)
+  const taken = read.taken
+  const wrong = wrongIn(taken.account, taken.email, taken.alias)
+  if (wrong.length > 0) return mistaking(wrong)
+  return await filedBy(
+    { account: taken.account, email: taken.email, alias: taken.alias ?? null },
+    given
+  )
 }
