@@ -14,9 +14,9 @@ import { limit as limitArgument } from "akasha/commands/arguments/pages/limit.ar
 import { window as windowArgument } from "akasha/commands/arguments/pages/window.argument.ts"
 import {
   INPUT,
-  OK,
   refused,
   refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { musicListening as page } from "akasha/commands/pages/music/listening/music-listening.command.ts"
@@ -131,9 +131,5 @@ export async function musicListening(argv: readonly string[], given: Given): Pro
     topTracks: topTracks.slice(0, limit),
   }
 
-  return {
-    report: taken.json ? [JSON.stringify(data)] : [...saidOf(data)],
-    refusals: [],
-    code: OK,
-  }
+  return told(taken.json ? [JSON.stringify(data)] : [...saidOf(data)])
 }

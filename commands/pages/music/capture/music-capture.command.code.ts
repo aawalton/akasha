@@ -13,10 +13,10 @@ import {
   answering,
   DATA,
   keeping,
-  OK,
   OPERATIONAL,
   refused,
   refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { textAt } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -416,23 +416,19 @@ async function captured(
   const played = await plays(askingFor(filed.ledger))
   const planned = plannedOver(played.items, filed.ledger)
   if (planned.recorded === 0) {
-    return {
-      report: held.json ? [jsonOf(planned)] : [...rowsOf(planned), NOTHING_NEW],
-      refusals: [],
-      code: OK,
-    }
+    return told(held.json ? [jsonOf(planned)] : [...rowsOf(planned), NOTHING_NEW])
   }
   const changes = changesFor(given.root, filed.heardPage, planned)
   if ("refused" in changes) return refused(changes.refused, DATA)
   if (held.dryRun) {
     const said = [...wouldWrite(changes), NOTHING_WRITTEN]
-    return answeredWith(held.json ? [jsonOf(planned)] : [...rowsOf(planned), ...said], [], OK)
+    return told(held.json ? [jsonOf(planned)] : [...rowsOf(planned), ...said])
   }
   const landed = await landing(done, given.root, changes, messageFor(planned))
   const wrote = "refusals" in landed ? [] : landed.landed.map((one) => `wrote ${one}`)
   const wrong = "refusals" in landed ? landed.refusals : landed.wrong
   if (wrong.length > 0) return keeping(done, answeredWith(wrote, wrong, OPERATIONAL))
-  return answeredWith(held.json ? [jsonOf(planned)] : [...rowsOf(planned), ...wrote], [], OK)
+  return told(held.json ? [jsonOf(planned)] : [...rowsOf(planned), ...wrote])
 }
 
 export async function capturing(
