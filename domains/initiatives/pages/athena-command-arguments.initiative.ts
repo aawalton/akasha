@@ -16,19 +16,19 @@ export const athenaCommandArguments = {
     {
       statement: "A command names the arguments it takes and narrows each.",
       workingMemory:
-        "Six keys now: `argument`, `required`, `saidAs`, `notWith`, `repeats`, `oneOf`; `default` sits on the argument page. Of 74 pages naming every argument bare, 1 was understated — 73 agree with their code, and for the 34 reading through `takenFor` a gap cannot drift in, since the page is the enforcement. Two shapes no page can state: ordered pairing of `--file-path` with the `--content-file` after it, and a default one command has and another does not.\n",
+        "Six keys: `argument`, `required`, `saidAs`, `notWith`, `repeats`, `oneOf`; `default` sits on the argument page. Of 74 pages naming every argument bare, 1 was understated, and where a page feeds `takenFor` a gap cannot drift in, since the page is the enforcement. Three shapes no page states, all Alan's: ordered pairing of `--file-path` with the `--content-file` after it; a default one command has and another does not; an argument refused rather than taken, as `read --seat` is.\n",
     },
     {
       statement:
         "One reader reads every command's arguments from the pages, refusing what no page names.",
       workingMemory:
-        "`takenFor` is the one reader. The check `command-takes-its-arguments-through-one-reader` is `experimental: true`, so it binds nobody; Alan approves a check before it binds, and the audit phase is off with it. Both its blind spots are mended, `3ae22245d60` and `5e4bd47f2e0`: it judges module code under `commands/pages` and follows a call one file on. That took it from 79 refusals over 39 files to 188 over 56, of which 107 name a reading written one file on.\n",
+        "`takenFor` is the one reader, and both of the check's blind spots are mended at `3ae22245d60`: it judges module code under `commands/pages` and follows a call one file on. That took 79 refusals over 39 files to 188 over 56, and the swarm has since brought it to 123 over 40. It still sees only `*.command.code.ts`, so a shared reader outside the tree it serves stays invisible, as `parse-args` is to `seat-system`. `experimental: true` means it binds nobody.\n",
     },
     {
       statement:
         "A command's code reads its arguments through a type generated from its argument pages.",
       workingMemory:
-        "101 of 235 command code files call `takenFor` and so get the generated keyed type; four more name `TakenFor` through `inventory-rule-calling`. The bag keyed by `string` has all but gone — `Taken` is named by no command file, and only `change-show` and `change-apply` reach a key by element access. The 130 left do not read a bag; they read argv words, themselves or through a per-domain reader. Measured at `b365d4a17ab`.\n",
+        "169 of 235 command code files call `takenFor` at `02e0a5d5a58`, up from 101, and the bag keyed by `string` has all but gone. Most of what is left is namespaces still being worked; three are held on purpose. `alan tracking` waits on two frozen modules. `change apply` and `change draft` share `changing()`, whose refusal names every change there is, and that discovery path stays. `seat start` shares `parse-args` with `seat resume`, which Alan's `sr` reads two tab-separated fields out of.\n",
     },
     {
       statement: "One spelling names one argument, and one argument has one spelling.",
