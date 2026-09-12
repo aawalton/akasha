@@ -18,6 +18,7 @@ import { said as git } from "akasha/git/running/git-running.module.code.ts"
 import { indexNamed, indexThere } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   everythingFiled,
+  fileWhereTheIndexIs,
   importUnreadableFiled,
   listedFiledIn,
   listedTakenFrom,
@@ -282,6 +283,40 @@ test("a path belonging to no index is taken away and named", () => {
   expect(answer.code).toBe(OK)
   expect(said(answer)).toContain("athena-stray.txt")
   expect(existsSync(stray)).toBe(false)
+})
+
+test("a refresh that stopped part way names the indexes it wrote and the file it had in hand", () => {
+  const root = repoAt()
+  mkdirSync(join(root, indexNamed(), "path", "a.domain.ts.jsonl", "inside"), { recursive: true })
+
+  const answer = indexRefresh([], givenAt(root))
+
+  expect(answer.code).toBe(OPERATIONAL)
+  expect(answer.refusals[1]).toBe(
+    "the refresh wrote part of the index before it stopped — run it again"
+  )
+  expect(answer.refusals[2] ?? "").toMatch(
+    /^what it wrote by then: identity — \d+ files written; path — \d+ files? written, `path\/a\.domain\.ts\.jsonl` in hand$/
+  )
+})
+
+test("a refresh that stopped before it wrote an index file says the index is as it was", () => {
+  const root = repoAt()
+  fileWhereTheIndexIs(root, "no folder here\n")
+
+  const answer = indexRefresh([], givenAt(root))
+
+  expect(answer.code).toBe(OPERATIONAL)
+  expect(answer.refusals[answer.refusals.length - 1]).toContain("the index stands as it did")
+})
+
+test("a refresh that ran through names nothing it wrote in a refusal", () => {
+  const root = repoAt()
+
+  const answer = indexRefresh([], givenAt(root))
+
+  expect(answer.code).toBe(OK)
+  expect(answer.refusals).toEqual([])
 })
 
 test("every flag the page shows is one this takes", () => {

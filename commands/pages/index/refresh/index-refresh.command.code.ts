@@ -11,7 +11,10 @@ import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { holding } from "akasha/git/holding/holding.module.code.ts"
 import { told as gitTold } from "akasha/git/running/git-running.module.code.ts"
-import type { Drift } from "akasha/pages/indexes/index-keeping/index-keeping.module.code.ts"
+import {
+  type Drift,
+  filedUnder,
+} from "akasha/pages/indexes/index-keeping/index-keeping.module.code.ts"
 import { refreshedWhole } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
 import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
@@ -22,11 +25,11 @@ const DOMAIN_AT = "akasha.domain.ts"
 
 const SHOWN = 5
 
-const PARTED_BY = "/"
-
 const UNCHANGED = "the index stands as it did, and nothing was put in its place"
 
-const PART_WAY = "the refresh may have written part of the index before it stopped — run it again"
+const PART_WAY = "the refresh wrote part of the index before it stopped — run it again"
+
+const BY_THEN = "what it wrote by then:"
 
 const COMMITTING = new Map<string, string>([
   ["--message", "says what a commit is for, and a refresh makes none"],
@@ -70,8 +73,7 @@ export function named(paths: readonly string[]): string {
 export function classed(paths: readonly string[]): string {
   const many = new Map<string, number>()
   for (const one of paths) {
-    const cut = one.indexOf(PARTED_BY)
-    const held = cut < 0 ? one : one.slice(0, cut)
+    const held = filedUnder(one)
     many.set(held, (many.get(held) ?? 0) + 1)
   }
   return [...many]
@@ -105,7 +107,7 @@ function refusing(said: readonly string[], code: number): Answer {
   return refusedBy([...said, UNCHANGED], code)
 }
 
-function refreshing(root: string, read: { dryRun: boolean }): Answer {
+function refreshing(root: string, read: { dryRun: boolean }, done: string[]): Answer {
   const tree = root
   if (!existsSync(join(tree, DOMAIN_AT))) {
     return refusing([`${root} holds no \`${DOMAIN_AT}\`, so there is no index to build`], DATA)
@@ -117,7 +119,7 @@ function refreshing(root: string, read: { dryRun: boolean }): Answer {
       OPERATIONAL
     )
   }
-  const said = refreshedWhole(root, tree, !read.dryRun)
+  const said = refreshedWhole(root, tree, !read.dryRun, done)
   const report = [
     `the index was brought level with ${root} as it is, at ${head}`,
     `${counted(said.pages, "page")}, ${said.entries} entries, ${said.refused.length} refused`,
@@ -139,10 +141,11 @@ export function indexRefresh(argv: readonly string[], given: Given): Answer {
   const read = readIn(argv)
   if ("refused" in read) return mistaking(read.refused)
   const root = resolve(given.root)
+  const done: string[] = []
   try {
-    return holding(root, () => refreshing(root, read))
+    return holding(root, () => refreshing(root, read, done))
   } catch (thrown) {
-    if (read.dryRun) return refusing([whyOf(thrown)], OPERATIONAL)
-    return refusedBy([whyOf(thrown), PART_WAY], OPERATIONAL)
+    if (read.dryRun || done.length === 0) return refusing([whyOf(thrown)], OPERATIONAL)
+    return refusedBy([whyOf(thrown), PART_WAY, `${BY_THEN} ${done.join("; ")}`], OPERATIONAL)
   }
 }

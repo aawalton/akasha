@@ -68,7 +68,17 @@ export const indexRefresh = {
     },
     {
       invariantKind: "departure",
-      statement: "A refresh that stopped part way says the index may hold part of what it wrote.",
+      statement:
+        "A refresh that stopped part way is refused naming each index it wrote into and how many files.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal names the file the refresh had in hand when the refresh stopped.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A refresh that stopped before it wrote an index file says the index is as it was.",
     },
     {
       invariantKind: "departure",
