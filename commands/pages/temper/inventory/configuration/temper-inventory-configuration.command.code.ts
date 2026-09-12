@@ -169,7 +169,7 @@ function textOf(config: CompiledInventoryConfig, section: Section): readonly str
   ]
 }
 
-export async function temperInventoryRules(
+export async function temperInventoryConfiguration(
   argv: readonly string[] = [],
   given?: Given
 ): Promise<Answer> {
