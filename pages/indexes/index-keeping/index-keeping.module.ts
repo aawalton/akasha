@@ -93,6 +93,32 @@ export const indexKeeping = {
       statement: "A path under the index that no entry names is taken away, whatever it is named.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A repair names the index it writes into and how many of that index's files it wrote.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That naming goes onto a list the repair's caller hands in.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "That naming is written as each file is written rather than once the repair finishes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The file a repair has in hand is named there until that file is written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Taking files away is named there the way laying files down is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A repair writing no file names nothing there.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here decides whether a refresh should run.",
     },

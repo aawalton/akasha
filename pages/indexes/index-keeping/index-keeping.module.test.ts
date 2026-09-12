@@ -3,6 +3,7 @@ import { existsSync, readFileSync, statSync } from "node:fs"
 import { join } from "node:path"
 import {
   bodiesFrom,
+  filedUnder,
   keepDelta,
   reconcile,
   takenAway,
@@ -22,6 +23,10 @@ const AT = "held/one.jsonl"
 const GONE = "held/gone.jsonl"
 
 const STRAY = "stray.txt"
+
+const TWO = "held/two.jsonl"
+
+const BLOCKED = "held/two.jsonl/inside.txt"
 
 function rootAt(): string {
   return scratch.rootFor("akasha-reconcile-")
@@ -160,4 +165,76 @@ test("the body an entry file holds is written the way a filing is answered", () 
   )
 
   expect(bodyAt(root, AT)).toBe(wholeOf(lines))
+})
+
+test("a path is named by the index that path is filed under", () => {
+  expect(filedUnder(AT)).toBe(UNDER)
+  expect(filedUnder(STRAY)).toBe(STRAY)
+})
+
+test("a repair putting nothing in place names nothing written", () => {
+  const root = rootAt()
+  const done: string[] = []
+
+  reconcile([{ at: AT, line: "{}" }], root, false, done)
+  takenAway([{ at: AT, line: "{}" }], root, false, done)
+
+  expect(done).toEqual([])
+})
+
+test("a repair writing no file names nothing", () => {
+  const root = rootAt()
+  writing(root, AT, "{}\n")
+  const done: string[] = []
+
+  reconcile([{ at: AT, line: "{}" }], root, true, done)
+
+  expect(done).toEqual([])
+})
+
+test("a repair that finished names the index it wrote and how many files it wrote", () => {
+  const root = rootAt()
+  const done: string[] = []
+
+  reconcile(
+    [
+      { at: AT, line: "{}" },
+      { at: TWO, line: "{}" },
+    ],
+    root,
+    true,
+    done
+  )
+
+  expect(done).toEqual(["held — 2 files written"])
+})
+
+test("a repair that threw names the files written before the file it had in hand", () => {
+  const root = rootAt()
+  writing(root, BLOCKED, "{}\n")
+  const done: string[] = []
+
+  expect(() =>
+    reconcile(
+      [
+        { at: AT, line: "{}" },
+        { at: TWO, line: "{}" },
+      ],
+      root,
+      true,
+      done
+    )
+  ).toThrow()
+
+  expect(done).toEqual([`held — 1 file written, \`${TWO}\` in hand`])
+})
+
+test("what one repair wrote is named beside what the repair before it wrote", () => {
+  const root = rootAt()
+  const done: string[] = []
+
+  reconcile([{ at: AT, line: "{}" }], root, true, done)
+  takenAway([{ at: TWO, line: "{}" }], root, true, done)
+
+  expect(done).toEqual(["held — 1 file written", "taking away — 1 file taken away"])
 })

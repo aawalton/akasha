@@ -5,6 +5,7 @@ import type { Filing, Reading } from "akasha/pages/indexes/shape/index-shape.mod
 import { indexAt } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import { walkedUnder } from "akasha/pages/indexes/tree-reading/tree-reading.module.code.ts"
 import { textThere } from "akasha/utils/fs/text-there/text-there.module.code.ts"
+import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
 
 export function wholeOf(lines: readonly string[]): string {
   return `${lines.join("\n")}\n`
@@ -70,10 +71,36 @@ export function keepDelta(at: string, one: Filing, root: string): undefined {
   keepWhole(at, lines, root)
 }
 
-export function reconcile(entries: readonly Entry[], root: string, put: boolean): Laid {
+const PARTED_BY = "/"
+
+const WRITTEN = "written"
+
+const TAKING_AWAY = "taking away"
+
+const TAKEN_AWAY = "taken away"
+
+export function filedUnder(at: string): string {
+  const cut = at.indexOf(PARTED_BY)
+  return cut < 0 ? at : at.slice(0, cut)
+}
+
+function stageSaid(stage: string, what: string, many: number, at: string | null): string {
+  const said = `${stage} — ${counted(many, "file")} ${what}`
+  return at === null ? said : `${said}, \`${at}\` in hand`
+}
+
+export function reconcile(
+  entries: readonly Entry[],
+  root: string,
+  put: boolean,
+  done: string[] = []
+): Laid {
   const wanted = Map.groupBy(entries, (one) => one.at)
   const added: string[] = []
   const changed: string[] = []
+  const where = done.length
+  let stage: string | null = null
+  let wrote = 0
   for (const [at, held] of wanted) {
     const lines = [...new Set(held.map((one) => one.line))].sort()
     const path = join(root, at)
@@ -81,23 +108,35 @@ export function reconcile(entries: readonly Entry[], root: string, put: boolean)
     if (was === wholeOf(lines)) continue
     if (was === null) added.push(at)
     else changed.push(at)
-    if (put) keepWhole(path, lines, root)
+    if (!put) continue
+    stage = filedUnder(at)
+    done[where] = stageSaid(stage, WRITTEN, wrote, at)
+    keepWhole(path, lines, root)
+    wrote += 1
   }
+  if (stage !== null) done[where] = stageSaid(stage, WRITTEN, wrote, null)
   return { added: added.sort(), changed: changed.sort() }
 }
 
 export function takenAway(
   entries: readonly Entry[],
   root: string,
-  put: boolean
+  put: boolean,
+  done: string[] = []
 ): readonly string[] {
   const wanted = new Set(entries.map((one) => one.at))
   const went: string[] = []
+  const where = done.length
+  let took = 0
   for (const one of existsSync(root) ? walkedUnder(root, () => true) : []) {
     const at = one.slice(root.length + 1)
     if (wanted.has(at)) continue
     went.push(at)
-    if (put) keepWhole(one, [], root)
+    if (!put) continue
+    done[where] = stageSaid(TAKING_AWAY, TAKEN_AWAY, took, at)
+    keepWhole(one, [], root)
+    took += 1
   }
+  if (took > 0) done[where] = stageSaid(TAKING_AWAY, TAKEN_AWAY, took, null)
   return went.sort()
 }
