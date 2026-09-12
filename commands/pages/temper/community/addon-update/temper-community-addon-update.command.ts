@@ -18,12 +18,11 @@ export const temperCommunityAddonUpdate = {
     { said: "--code-root <path>", takes: "the checkout the deploy-owned roster is read from" },
     { said: "--json", takes: "give the outcome as JSON rather than as tab-separated rows" },
   ],
-  helpNotes: [
-    "each addon is downloaded, verified and extracted, and one that fails leaves the rest reported.",
-    "a folder the deploy pipeline owns is never touched here.",
-    "what would be updated is named by the listing command rather than by a run of this one.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A download whose MD5 disagrees with the catalog's is not installed.",
+    },
     {
       invariantKind: "departure",
       statement: "Only the outdated addons are updated unless the call forces every one.",
