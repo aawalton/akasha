@@ -71,6 +71,7 @@ export const seatSystem = {
     "module/seat-akasha-read",
     "module/seat-beside",
     "module/seat-flex",
+    "module/seat-grouping",
     "module/seat-initiative",
     "module/seat-on-call",
     "module/seat-page-akasha",
