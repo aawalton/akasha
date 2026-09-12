@@ -7,6 +7,7 @@ import {
   DATA,
   INPUT,
   OPERATIONAL,
+  refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -326,12 +327,12 @@ export function reportOf(
 
 export function gitRestore(argv: readonly string[], given: Given): Answer {
   const read = takenFor(argv, given.calledAs, page, [filePath])
-  if ("refused" in read) return answeredWith([], read.refused, INPUT)
+  if ("refused" in read) return refusedBy(read.refused)
   const root = resolve(given.root)
   const wanted = pathsIn(root, read.taken.filePath)
-  if ("refusals" in wanted) return answeredWith([], wanted.refusals, INPUT)
+  if ("refusals" in wanted) return refusedBy(wanted.refusals)
   const judged = judgedIn(root, wanted.paths, given.calledAs)
-  if ("refusals" in judged) return answeredWith([], judged.refusals, judged.code)
+  if ("refusals" in judged) return refusedBy(judged.refusals, judged.code)
   const going = judged.held.filter((one) => !one.diskHolds || !one.indexHolds)
   const left = judged.held.filter((one) => one.diskHolds && one.indexHolds)
   const done: Held[] = []
