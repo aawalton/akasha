@@ -1,4 +1,5 @@
 import {
+  codeOf,
   INPUT,
   OK,
   OPERATIONAL,
@@ -141,6 +142,6 @@ export async function modelGatewaySwap(argv: readonly string[], given: Given): P
   try {
     return await swapping(read, report)
   } catch (thrown) {
-    return { report, refusals: [whyOf(thrown)], code: OPERATIONAL }
+    return { report, refusals: [whyOf(thrown)], code: codeOf(thrown) }
   }
 }
