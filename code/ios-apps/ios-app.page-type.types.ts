@@ -23,10 +23,11 @@ import type { WebEntry } from "akasha/code/ios-apps/properties/web-entry.file-pr
 import type { WebEnvPath } from "akasha/code/ios-apps/properties/web-env-path.text-property.types.ts"
 import type { WidgetBundleId } from "akasha/code/ios-apps/properties/widget-bundle-id.text-property.types.ts"
 import type { WidgetProfileName } from "akasha/code/ios-apps/properties/widget-profile-name.text-property.types.ts"
-import type { WorkspacePackage } from "akasha/code/workspace-packages/workspace-package.page-type.types.ts"
+import type { ToolReached } from "akasha/code/workspace-packages/properties/tool-reached.text-property.types.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 import type { Service } from "akasha/infrastructure/services/service.page-type.types.ts"
 
-export type IosApp = WorkspacePackage &
+export type IosApp = Domain &
   Service & {
     appProfileName: AppProfileName
     ascCapabilities?: AscCapabilities
@@ -53,4 +54,5 @@ export type IosApp = WorkspacePackage &
     widgetProfileName?: WidgetProfileName
     webDirectory?: WebDirectory
     syncScript?: SyncScript
+    toolReached?: ToolReached
   }

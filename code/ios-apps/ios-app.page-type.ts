@@ -45,7 +45,7 @@ export const iosApp = {
     "build-folder-property/web-directory",
     "relation-property/sync-script",
   ],
-  extends: ["page-type/workspace-package", "page-type/service"],
+  extends: ["page-type/domain", "page-type/service"],
   properties: [
     { pageProperty: "text-property/app-profile-name", required: true, many: false },
     {
@@ -82,6 +82,7 @@ export const iosApp = {
     { pageProperty: "text-property/widget-profile-name", required: false, many: false },
     { pageProperty: "build-folder-property/web-directory", required: false, many: false },
     { pageProperty: "relation-property/sync-script", required: false, many: false },
+    { pageProperty: "text-property/tool-reached", required: false, many: true, maxCount: null },
   ],
   invariants: [
     {
