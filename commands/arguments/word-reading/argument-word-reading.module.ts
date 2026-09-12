@@ -189,11 +189,6 @@ export const argumentWordReading = {
         "An argument is known to be needed here, and what that argument must be one of is not.",
     },
     {
-      invariantKind: "gap",
-      statement:
-        "A pair one call may not say together is answered as two arguments a call may leave out.",
-    },
-    {
       invariantKind: "departure",
       statement:
         "A set read at run time is weighed by adding to this refusal rather than by reading the call.",
