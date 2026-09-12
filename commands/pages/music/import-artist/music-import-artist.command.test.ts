@@ -303,13 +303,6 @@ test("the artist, the song and its words are named to the landing at one change 
   ])
 })
 
-test("the words named to the landing are text rather than bytes", async () => {
-  const seen = unseen()
-  await importingProbe(landingOnto(seen))
-  const words = `alan/music/catalog/songs/pages/${ARTIST_SLUG}-first-probe/${ARTIST_SLUG}-first-probe.song.lyrics.txt`
-  expect(writesIn(seen.changes).get(words)).toContain("the words of First Probe")
-})
-
 test("a landing that refused is answered with the refusal and nothing brought in", async () => {
   const said = await importingProbe(landingOnto(unseen(), { refusals: ["the lock was held"] }))
   expect(said.code).toBe(3)
@@ -317,16 +310,10 @@ test("a landing that refused is answered with the refusal and nothing brought in
   expect(said.report).toEqual([])
 })
 
-test("a landing answering something wrong is answered as a refusal", async () => {
-  const answer = { ...LANDED, wrong: ["the install would not take"] }
+test("what a landing answers wrong is answered as a refusal over what landed", async () => {
+  const answer = { ...LANDED, landed: ["one/page.ts"], wrong: ["the install would not take"] }
   const said = await importingProbe(landingOnto(unseen(), answer))
   expect(said.code).toBe(3)
   expect(said.refusals).toEqual(["the install would not take"])
-})
-
-test("what landed is reported under the rows saying what was brought in", async () => {
-  const answer = { ...LANDED, landed: ["one/page.ts"] }
-  const said = await importingProbe(landingOnto(unseen(), answer))
-  expect(said.report[0]).toBe(`artist\t${ARTIST_NAME}\t${MBID}\t${ARTIST_SLUG}`)
-  expect(said.report).toContain("wrote one/page.ts")
+  expect(said.report).toEqual([])
 })

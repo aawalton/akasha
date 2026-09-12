@@ -284,7 +284,7 @@ async function songLanded(
     {
       ...(catalogue.held.get(slug) ?? {}),
       ...fields,
-      pageTypeSlug: SONG,
+      type: SONG,
       slug,
     },
     artistKeyIn(source)
@@ -390,7 +390,7 @@ export async function gathered(
           genres: extractGenres(artist),
           today,
         }),
-        pageTypeSlug: ARTIST,
+        type: ARTIST,
         slug: named.slug,
       },
     },
