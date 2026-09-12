@@ -8,10 +8,6 @@ export const seatStart = {
   code: "ts",
   taking: [
     {
-      said: "--domain <slug>",
-      takes: "where this seat works, outranking the persona's own domain",
-    },
-    {
       said: "--principal <slug>",
       takes: "who this seat's output is for — a person, or `agent` for the fleet",
     },
@@ -78,5 +74,6 @@ export const seatStart = {
     { argument: "argument/prompt" },
     { argument: "argument/persona" },
     { argument: "argument/role" },
+    { argument: "argument/seat-domain" },
   ],
 } as const satisfies Command
