@@ -45,4 +45,5 @@ export const imessageUnreadList = {
     },
   ],
   name: "unread-list",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

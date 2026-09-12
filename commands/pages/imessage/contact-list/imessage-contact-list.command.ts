@@ -39,4 +39,5 @@ export const imessageContactList = {
     },
   ],
   name: "contact-list",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

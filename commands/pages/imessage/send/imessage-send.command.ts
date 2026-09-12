@@ -56,4 +56,5 @@ export const imessageSend = {
     },
   ],
   name: "send",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

@@ -45,4 +45,5 @@ export const imessageSearch = {
     },
   ],
   name: "search",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command
