@@ -14,7 +14,6 @@ export const infrastructureDevServerBootstrap = {
       said: "--app <name>",
       takes: "whose `.env.local` to write, named by the slug that app's web app page carries",
     },
-    { said: "--force", takes: "write over the `.env.local` already there" },
   ],
   invariants: [
     {
@@ -32,5 +31,5 @@ export const infrastructureDevServerBootstrap = {
         "Nothing here writes over an `.env.local` already there unless the command is told to.",
     },
   ],
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/force" }],
 } as const satisfies Command

@@ -7,10 +7,7 @@ export const seatSupervisorStop = {
   definition: "the command ending a seat's supervisor and taking the page that seat held",
   code: "ts",
   test: "ts",
-  taking: [
-    { said: "<name>", takes: "the seat to stop, named as that seat's page is named" },
-    { said: "--force", takes: "stop it though subagents are working, ending them with it" },
-  ],
+  taking: [{ said: "<name>", takes: "the seat to stop, named as that seat's page is named" }],
   invariants: [
     {
       invariantKind: "departure",
@@ -43,4 +40,5 @@ export const seatSupervisorStop = {
     },
   ],
   name: "stop",
+  arguments: [{ argument: "argument/force" }],
 } as const satisfies Command

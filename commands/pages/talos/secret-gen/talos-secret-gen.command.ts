@@ -8,7 +8,6 @@ export const talosSecretGen = {
   code: "ts",
   taking: [
     { said: "--cluster <name>", takes: "the cluster to write for, `main` where none is said" },
-    { said: "--force", takes: "write over a bundle already there, which is a deliberate rotation" },
   ],
   invariants: [
     {
@@ -53,4 +52,5 @@ export const talosSecretGen = {
     },
   ],
   name: "secret-gen",
+  arguments: [{ argument: "argument/force" }],
 } as const satisfies Command
