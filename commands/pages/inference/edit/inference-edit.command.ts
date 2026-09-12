@@ -8,14 +8,11 @@ export const inferenceEdit = {
   code: "ts",
   taking: [
     { said: "--image <path>", takes: "the image edited, which carries the identity kept" },
-    { said: "--refs <csv>", takes: "further images the edit refers to, named as one comma list" },
     { said: "--prompt <text>", takes: "the instruction the edit follows" },
     {
       said: "--prompt-file <path>",
       takes: "that instruction read from a path, or `-` for standard input",
     },
-    { said: "--engine <name>", takes: "the engine the edit goes through" },
-    { said: "--aspect-ratio <ratio>", takes: "the shape the output is fixed to" },
   ],
   invariants: [
     {
@@ -57,5 +54,8 @@ export const inferenceEdit = {
     { argument: "argument/timeout" },
     { argument: "argument/no-persist" },
     { argument: "argument/size" },
+    { argument: "argument/refs" },
+    { argument: "argument/engine" },
+    { argument: "argument/aspect-ratio" },
   ],
 } as const satisfies Command
