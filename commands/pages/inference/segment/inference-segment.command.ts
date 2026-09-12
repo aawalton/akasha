@@ -8,8 +8,6 @@ export const inferenceSegment = {
   code: "ts",
   test: "ts",
   taking: [
-    { said: "<image>", takes: "the image matted, said without a flag" },
-    { said: "--image <path>", takes: "that image said as a flag instead" },
     { said: "--matte-out <path>", takes: "where the eight-bit alpha matte is written" },
     { said: "--cutout", takes: "also write the foreground on transparency" },
     { said: "--cutout-out <path>", takes: "where that cutout is written" },
@@ -66,5 +64,8 @@ export const inferenceSegment = {
     },
   ],
   name: "segment",
-  arguments: [{ argument: "argument/rembg-session" }],
+  arguments: [
+    { argument: "argument/rembg-session" },
+    { argument: "argument/image", required: true, saidAs: "flag-or-word" },
+  ],
 } as const satisfies Command
