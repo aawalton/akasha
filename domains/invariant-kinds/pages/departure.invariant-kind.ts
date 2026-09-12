@@ -11,5 +11,13 @@ export const departure = {
       invariantKind: "departure",
       statement: "Knowing a departure stops a reader undoing that departure.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A departure states what is true today, so one that stopped being true is a lie.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A departure that stopped being true becomes a gap rather than worded back down.",
+    },
   ],
 } as const satisfies InvariantKind

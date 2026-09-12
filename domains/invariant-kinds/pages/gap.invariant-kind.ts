@@ -13,6 +13,15 @@ export const gap = {
     },
     {
       invariantKind: "departure",
+      statement: "A gap states what is meant, so a gap is honest before the domain can keep it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A rule sharpened past what the domain can do arrives here rather than as a departure.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A gap names a state the domain should be in rather than an act to take or a reason to act.",
     },
