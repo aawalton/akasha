@@ -13,8 +13,8 @@ export const day20260911 = {
   intelligenceTopics: 0,
   inboxTasks: 0,
   inboxTasksClearedToday: true,
-  inboxTemperTasks: 1,
-  inboxTemperTasksClearedToday: false,
+  inboxTemperTasks: 0,
+  inboxTemperTasksClearedToday: true,
   sessions: "jsonl",
   lowestEmailInboxCount: 0,
 } as const satisfies Day
