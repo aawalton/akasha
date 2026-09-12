@@ -223,9 +223,9 @@ test("a hand that failed is said with both initiatives, the statement and the re
 const ORDER = { slug: "held", statement: "A thing is so.", onto: "So is this." }
 
 const AGAIN_WRITTEN =
-  "nothing was written — reading those bodies again leaves the edits kept as they were," +
-  " so `akasha change drop` with `all: true` takes them away and the change is drafted again" +
-  " against what is there now"
+  "nothing was written — the edits kept do not rebase, and reading those bodies again does not" +
+  " move them. `akasha change drop` with `all: true` takes away the whole pool rather than the" +
+  " stale part, and the change is drafted again against what is there now"
 
 const REFUSED = `akasha/a.domain.ts — what is on disk is not the body you read, ${PUT_BACK}
 ${AGAIN_WRITTEN}`
