@@ -1,10 +1,15 @@
+import {
+  OPERATIONAL,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 
 export function answeredBy(lines: () => readonly string[]): Answer {
   try {
-    return { report: [...lines()], refusals: [], code: 0 }
+    return told(lines())
   } catch (thrown) {
-    return { report: [], refusals: [whyOf(thrown)], code: 3 }
+    return refusedBy([whyOf(thrown)], OPERATIONAL)
   }
 }

@@ -10,11 +10,16 @@ export const reportAnswering = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Lines gathered without a fault are the report, and the code is zero.",
+      statement: "Lines gathered without a fault are the report, and nothing went wrong.",
     },
     {
       invariantKind: "departure",
-      statement: "A fault thrown while gathering is the one refusal, and the code is three.",
+      statement:
+        "A fault thrown while gathering is the one refusal, and it is a fault in the world.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The answer is built by the one function building a command's answer.",
     },
     {
       invariantKind: "departure",

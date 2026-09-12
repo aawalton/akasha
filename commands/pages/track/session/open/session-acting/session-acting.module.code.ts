@@ -1,5 +1,6 @@
 import { mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
+import { told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { filing } from "akasha/commands/modules/mechanical-filing/mechanical-filing.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
@@ -71,7 +72,7 @@ export function taggingFor(argv: readonly string[], root: string): Tagging {
 }
 
 export function telling(lines: string): Answer {
-  return { report: lines === "" ? [] : [lines], refusals: [], code: 0 }
+  return told(lines === "" ? [] : [lines])
 }
 
 export async function landedAcross(
