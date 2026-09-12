@@ -56,6 +56,18 @@ export const indexIsLevelWithThePages = {
     },
     {
       invariantKind: "departure",
+      statement: "The working tree is read before the reconcile runs and again after it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file written there and not yet committed is judged by nothing here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a file is mid-landing rather than drifted.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A drift outside that span refuses though the repository moved.",
     },
     {
