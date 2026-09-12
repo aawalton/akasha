@@ -25,6 +25,10 @@ export const supervisorSeatDefaults = {
     },
     {
       invariantKind: "departure",
+      statement: "A seat akasha holds no page for is stated rather than left alone.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A stating that failed is said rather than swallowed.",
     },
     {

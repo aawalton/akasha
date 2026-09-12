@@ -9,6 +9,7 @@ import {
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import type { Args } from "akasha/seat-system/seat-args/seat-args.module.code.ts"
 import { onCallOf } from "akasha/seat-system/seat-on-call/seat-on-call.module.code.ts"
+import { seatNameForAgent } from "akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
 import { defaultSlots } from "akasha/seat-system/seat-resolve/seat-resolve.module.code.ts"
 import { run } from "akasha/seat-system/seat-running/seat-running.module.code.ts"
 import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
@@ -42,6 +43,7 @@ export function defaultStating(agentId: string, mode: SeatMode): Args {
 
 export function seatDefaultsStand(agentId: string, mode: SeatMode): boolean {
   if (mode !== AGENT_MODE_INTERACTIVE) return false
+  if (seatNameForAgent(agentId) === null) return false
   if (!onCallOf(agentId)) return false
   if (recordedModeOf(agentId) === null) return false
   const held = attributesOf(agentId)
