@@ -90,11 +90,33 @@ export function buildMatcherContext(
     knownScriptsByCharacter,
     researchedTraitsByCharacter: new Map(),
     characterPriority: config.characterPriority,
-    craftingLevels: new Map(),
-    openCooldowns: new Map(),
-    transmuteCrystalCap: undefined,
-    transmuteCrystalAmount: undefined,
+    craftingLevels: compileCraftingLevels(db),
+    openCooldowns: compileOpenCooldowns(db),
+    transmuteCrystalCap: db.transmuteCrystalCap,
+    transmuteCrystalAmount: db.transmuteCrystalAmount,
   }
+}
+
+function compileCraftingLevels(db: InventoryDatabase): Map<string, Map<number, number>> {
+  const result = new Map<string, Map<number, number>>()
+  if (!db.craftingLevels) return result
+  for (const [charId, perChar] of Object.entries(db.craftingLevels)) {
+    const ranks = new Map<number, number>()
+    for (const [craftKey, rank] of Object.entries(perChar)) {
+      ranks.set(Number(craftKey), rank)
+    }
+    result.set(charId, ranks)
+  }
+  return result
+}
+
+function compileOpenCooldowns(db: InventoryDatabase): Map<string, number> {
+  const result = new Map<string, number>()
+  if (!db.openCooldowns) return result
+  for (const [groupKey, expiresAt] of Object.entries(db.openCooldowns)) {
+    result.set(groupKey, expiresAt)
+  }
+  return result
 }
 
 function compileWantedConsumablesFromConfig(
