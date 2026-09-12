@@ -22,6 +22,7 @@ export const git = {
     "module/git-store-sweeping",
     "module/git-dir",
     "module/committing",
+    "module/commit-reading",
   ],
   invariants: [
     {
