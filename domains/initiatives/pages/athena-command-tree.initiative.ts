@@ -49,7 +49,7 @@ export const athenaCommandTree = {
     {
       statement: "A machine-facing answer is a flag on the command a person runs.",
       workingMemory:
-        "`--json` is already the convention at `model-test.command.ts:15` and `icloud-fetch.command.ts:16`. Four commands are a second name instead: `domain-tree.command.ts:7` answers as JSON what `domain-dag` draws; `agent-forest:7` and `seat-compose-notices:7` each answer one JSON object; `claude-account-usage:7` answers a fleet mean where `measure-claude-accounts-usage:7` answers each account, so that pair differs in shape too. Each exists because the editor forks it.\n",
+        "`--json` is the convention, at `icloud-fetch.command.ts:16` and eleven more. `domain-tree` and `claude-account-usage` are gone. Two are left, each answering one JSON object with no person-facing twin. Nothing forks `agent-forest`; the editor imports `forestOver` in process. The editor asks the command server for `seat-compose-notices` by slug, held as a literal at `seat-acts.module.code.ts:17,19`. Are these `akasha agent tree` and `akasha seat notices`?\n",
     },
     {
       statement: "Every act a command carries is a command of its own, named in the tree.",
