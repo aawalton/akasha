@@ -6,6 +6,7 @@ export const addonLoadOrder = {
   slug: "addon-load-order",
   definition: "the manifest the game reads to decide what an addon loads and in what order",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
