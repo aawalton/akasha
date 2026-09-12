@@ -6,4 +6,10 @@ export const inventoryRulesDispatchBank = {
   slug: "inventory-rules-dispatch-bank",
   definition: "what happens when the bank opens, and the one move used by every bank step",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "Withdrawing and depositing are each allowed their own moves in a visit.",
+    },
+  ],
 } as const satisfies Module

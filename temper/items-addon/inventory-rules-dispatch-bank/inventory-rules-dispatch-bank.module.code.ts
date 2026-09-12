@@ -87,7 +87,7 @@ export function onOpenBank(): undefined {
   }
 
   const withdrawStart = GetGameTimeMilliseconds()
-  const { ops: phase1Ops, withdrawnLinks } = executeBankWithdrawals(
+  const { withdrawnLinks } = executeBankWithdrawals(
     ctx,
     currentCharId,
     frozenStock,
@@ -107,7 +107,7 @@ export function onOpenBank(): undefined {
     ctx,
     currentCharId,
     frozenStock,
-    phase1Ops,
+    0,
     MAX_OPS,
     enqueue
   )
