@@ -54,6 +54,10 @@ export const deploySimulatorInstalling = {
     },
     {
       invariantKind: "departure",
+      statement: "A run that refused part way names them as a run that threw does.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The running this does is handed in.",
     },
     {

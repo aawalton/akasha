@@ -4,6 +4,7 @@ import { type Plan, planFor } from "akasha/code/ios-apps/app-building/app-buildi
 import {
   answering,
   DATA,
+  naming,
   OK,
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -191,6 +192,10 @@ export function installedFrom(
   return { report, refusals: [], code: OK }
 }
 
+export function installedBy(root: string, plan: Plan, host: string, run: Running): Promise<Answer> {
+  return answering((done) => naming(done, installedFrom(root, plan, host, run, done)))
+}
+
 export async function installedOnSimulator(
   slug: string,
   given: Given,
@@ -198,6 +203,5 @@ export async function installedOnSimulator(
 ): Promise<Answer> {
   const plan = planFor(given.root, slug)
   if ("refused" in plan) return { report: [], refusals: [...plan.refused], code: DATA }
-  const host = hostIn()
-  return await answering((done) => installedFrom(given.root, plan, host, run, done))
+  return await installedBy(given.root, plan, hostIn(), run)
 }
