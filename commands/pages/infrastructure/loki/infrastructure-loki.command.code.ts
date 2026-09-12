@@ -25,13 +25,11 @@ const SINCE = "--since"
 
 const LIMIT = "--limit"
 
-const TAIL = "--tail"
-
 const CURSOR = "--cursor"
 
 const ALL = "--all"
 
-const VALUED = [POD, NAMESPACE, SINCE, LIMIT, TAIL, CURSOR]
+const VALUED = [POD, NAMESPACE, SINCE, LIMIT, CURSOR]
 
 const NAMESPACE_BY_DEFAULT = "ci"
 
@@ -65,7 +63,7 @@ export function readIn(argv: readonly string[]): Read {
         refusals.push(`\`${one}\` names a value, and none followed it`)
         continue
       }
-      said.set(one === TAIL ? LIMIT : one, value)
+      said.set(one, value)
       continue
     }
     if (one === ALL) {

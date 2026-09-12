@@ -39,13 +39,6 @@ test("the namespace, the window and the limit hold where none is said", () => {
   expect(read.limit).toBe(500)
 })
 
-test("`--tail` names the same thing `--limit` names", () => {
-  const read = readIn(["my-pod", "--tail", "100"])
-  expect("refused" in read).toBe(false)
-  if ("refused" in read) return
-  expect(read.limit).toBe(100)
-})
-
 test("a window in no unit this reads is refused", () => {
   expect("refused" in readIn(["my-pod", "--since", "1 fortnight"])).toBe(true)
 })

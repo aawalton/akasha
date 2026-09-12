@@ -19,7 +19,6 @@ export const infrastructureLoki = {
       takes: "how far back from now to look, in s, m, h or d, `1h` where none is said",
     },
     { said: "--limit <n>", takes: "the most lines to answer with, 500 where none is said" },
-    { said: "--tail <n>", takes: "the same as `--limit`" },
     {
       said: "--cursor <b64>",
       takes: "the cursor a previous answer stated, reaching the page before it",
