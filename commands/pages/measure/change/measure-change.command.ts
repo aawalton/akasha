@@ -7,6 +7,7 @@ export const measureChange = {
   definition:
     "the command saying what a change run and an apply run cost in processor time and memory",
   code: "ts",
+  test: "ts",
   parts: ["module/change-measuring"],
   invariants: [
     {
