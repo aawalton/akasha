@@ -8,10 +8,6 @@ export const talosRemoteInstall = {
   code: "ts",
   test: "ts",
   taking: [
-    {
-      said: "--method <auto|kexec|dd>",
-      takes: "how the host hands over, `auto` where none is said",
-    },
     { said: "--confirm-wipe", takes: "the acknowledgement that the install disk is overwritten" },
   ],
   invariants: [
@@ -108,5 +104,6 @@ export const talosRemoteInstall = {
     { argument: "argument/ip" },
     { argument: "argument/ssh-user" },
     { argument: "argument/ssh-key" },
+    { argument: "argument/method" },
   ],
 } as const satisfies Command
