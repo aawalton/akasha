@@ -1,3 +1,4 @@
+import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
@@ -27,7 +28,7 @@ function carriedIn(
     if (one !== undefined && taking.includes(one)) {
       const value = flags[at + 1]
       if (value === undefined) {
-        return refused(`\`${one}\` names what follows it, and nothing did`, 1)
+        return refused(`\`${one}\` names what follows it, and nothing did`, INPUT)
       }
       held.push(one, value)
       continue
@@ -35,7 +36,7 @@ function carriedIn(
     return refused(
       `\`${word}\` takes ${namesDrawn(taking)} and nothing else, and ` +
         `${namesDrawn(flags.slice(at, at + 1))} followed it`,
-      1
+      INPUT
     )
   }
   return { carried: held }
