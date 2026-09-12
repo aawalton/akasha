@@ -32,6 +32,7 @@ import { title } from "akasha/commands/arguments/pages/title.argument.ts"
 import { udid as udidArgument } from "akasha/commands/arguments/pages/udid.argument.ts"
 import { warm } from "akasha/commands/arguments/pages/warm.argument.ts"
 import {
+  answeredWith,
   answering,
   OPERATIONAL,
   refusedBy,
@@ -164,22 +165,22 @@ export async function probed(
     await probing.tapped(base, sessionId, BANNER_X, BANNER_Y)
     const traced = await probing.traced(base, sessionId)
     if ("missing" in traced) {
-      return {
-        report: done,
-        refusals: [
+      return answeredWith(
+        done,
+        [
           "the installed bundle exposes no tap trace, so it was built without the instrument — install one from a tree that carries it",
         ],
-        code: OPERATIONAL,
-      }
+        OPERATIONAL
+      )
     }
     if ("quiet" in traced) {
-      return {
-        report: done,
-        refusals: [
+      return answeredWith(
+        done,
+        [
           `no trace appeared in ${Math.round((TRIES * WAIT_MS) / A_SECOND)}s of the tap, so either no banner was there to tap or the tap did not reach the push handler`,
         ],
-        code: OPERATIONAL,
-      }
+        OPERATIONAL
+      )
     }
     done.push(JSON.stringify(traced.entries, null, INDENT))
     return told(done)
