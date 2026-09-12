@@ -127,5 +127,21 @@ export const shellCalls = {
       statement:
         "An assignment whose value the shell rewrites hides the call in that value from every hook.",
     },
+    {
+      invariantKind: "gap",
+      statement: "A substitution in command position is read as part of the command word.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A subshell's opening parenthesis is read as part of the command word.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A variable in command position is read as that variable rather than its value.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A double-quoted substitution is taken out whole, leaving the line no segment.",
+    },
   ],
 } as const satisfies Module
