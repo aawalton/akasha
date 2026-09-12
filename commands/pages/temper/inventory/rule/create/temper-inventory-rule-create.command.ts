@@ -14,7 +14,6 @@ export const temperInventoryRuleCreate = {
       takes: "where the item goes, for the actions that move it",
     },
     { said: "--conditions <json>", takes: "the conditions narrowing which items the rule reaches" },
-    { said: "--active <true|false>", takes: "whether the rule is active" },
     {
       said: "--stock-scope <scope>",
       takes: "whether stocking counts one character or every character",
@@ -36,5 +35,6 @@ export const temperInventoryRuleCreate = {
     { argument: "argument/title" },
     { argument: "argument/notes" },
     { argument: "argument/goal" },
+    { argument: "argument/active" },
   ],
 } as const satisfies Command

@@ -14,7 +14,6 @@ export const temperInventoryBuyRuleCreate = {
     },
     { said: "--target <n>", takes: "the total quantity to buy up to" },
     { said: "--source <name>", takes: "where the item is bought from" },
-    { said: "--active <true|false>", takes: "whether the rule is active" },
   ],
 
   invariants: [
@@ -32,5 +31,6 @@ export const temperInventoryBuyRuleCreate = {
     { argument: "argument/title" },
     { argument: "argument/notes" },
     { argument: "argument/goal" },
+    { argument: "argument/active" },
   ],
 } as const satisfies Command
