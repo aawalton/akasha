@@ -4,7 +4,7 @@ import {
   getDefaultObjectStore,
   readSessionObject,
   sessionObjectKeyFor,
-} from "akasha/agents/claude-code/session/stream/session-stream.module.code.ts"
+} from "akasha/agents/claude-code/session/modules/session-stream/session-stream.module.code.ts"
 import { dataError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { seaweedFsMissingEnvVars } from "akasha/infrastructure/storage/object-store/seaweedfs-config/seaweedfs-config.module.code.ts"
 import { sessionProjectDir } from "akasha/seat-system/supervising/supervisor-session-project-dir/supervisor-session-project-dir.module.code.ts"

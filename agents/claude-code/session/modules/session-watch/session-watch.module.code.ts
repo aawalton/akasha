@@ -5,7 +5,7 @@ import {
   getDefaultObjectStore,
   sessionObjectKeyFor,
   syncSessionFileToObjectStore,
-} from "akasha/agents/claude-code/session/stream/session-stream.module.code.ts"
+} from "akasha/agents/claude-code/session/modules/session-stream/session-stream.module.code.ts"
 import { sessionOf } from "akasha/agents/seats/modules/session/seat-session.module.code.ts"
 import { transcriptOf } from "akasha/agents/seats/modules/transcript-path/seat-transcript-path.module.code.ts"
 import type { ObjectStore } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
