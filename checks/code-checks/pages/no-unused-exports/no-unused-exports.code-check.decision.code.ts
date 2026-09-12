@@ -9,8 +9,14 @@ import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
 import { landingOf } from "akasha/code/specifier/code-specifier.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
-import { pageNamed, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import {
+  pageNamed,
+  pageOf,
+  partedIn,
+  uncommittedNamed,
+} from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import { nameFor } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import ts from "typescript"
 
 const PUBLISHED = "a value only its own file names is published for nothing"
@@ -24,6 +30,8 @@ const DEFAULT = "default"
 const INTRINSIC = /^[a-z]/
 
 const WHOLE = "import("
+
+const HELD = "ts"
 
 function toldApart(name: string): boolean {
   return name !== ANYTHING && name !== DEFAULT
@@ -112,9 +120,10 @@ function reasonFor(name: string, named: boolean): string {
 }
 
 export function sparedIn(path: string, pageTypes: ReadonlySet<string>): string | null {
-  if (!pageNamed(path, pageTypes)) return null
   const said = partedIn(path)
-  return said === null ? null : exportedAs(said.slug)
+  if (said === null || !pageTypes.has(said.pageType)) return null
+  if (uncommittedNamed(path)) return nameFor(`${pageOf(said)}.${HELD}`)
+  return pageNamed(path, pageTypes) ? exportedAs(said.slug) : null
 }
 
 export type Unreached = {

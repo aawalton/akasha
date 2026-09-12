@@ -7,6 +7,8 @@ import {
 } from "akasha/checks/code-checks/pages/no-unused-exports/no-unused-exports.code-check.decision.code.ts"
 import {
   AT,
+  BESIDE_AT,
+  BESIDE_TEXT,
   EVERY_TEXT,
   HELD_TEXT,
   importedBy,
@@ -109,6 +111,15 @@ test("an import taking every name a file exports leaves that file unrefused", ()
 
 test("the export a page file is named for is spared and another beside it is judged", () => {
   const said = judging(landing(rooted(), { [PAGE_AT]: bytesOf(PAGE_TEXT) })).map(
+    (one) => one.reason
+  )
+
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`spare`")
+})
+
+test("the value a page's uncommitted body holds is spared and another beside it is judged", () => {
+  const said = judging(landing(rooted(), { [BESIDE_AT]: bytesOf(BESIDE_TEXT) })).map(
     (one) => one.reason
   )
 

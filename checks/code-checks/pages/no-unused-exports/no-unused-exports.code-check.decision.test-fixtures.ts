@@ -27,6 +27,11 @@ export const PAGE_TEXT =
   'export const held = { id: "01a0927a-1000-7001-8000-000000000001",' +
   ' pageTypeSlug: "domain", slug: "held" }\nexport const spare = 2\n'
 
+export const BESIDE_AT = "akasha/held.domain.uncommitted.ts"
+
+export const BESIDE_TEXT =
+  'export const heldDomainUncommitted = { "held": 1 } as const\nexport const spare = 2\n'
+
 export const scratch = scratchWorld()
 
 export function rooted(): string {

@@ -98,6 +98,10 @@ export const noUnusedExports = {
       invariantKind: "departure",
       statement: "A tag a browser draws itself names no value the file exports.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The value a page's uncommitted body holds is spared.",
+    },
   ],
   check: { maxCpuSeconds: 30 },
   audit: { maxCpuSeconds: 120 },
