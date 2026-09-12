@@ -11,12 +11,12 @@ import { steppedFor } from "akasha/code/ios-components/pages/spacing/spacing-ste
 import { bodiesFor } from "akasha/code/module-property-groups/group-writing/group-writing.module.code.ts"
 import { globbedFor } from "akasha/code/stylesheets/source-globbing/source-globbing.module.code.ts"
 import { lockingFor } from "akasha/code/workspaces/manifest-locking/manifest-locking.module.code.ts"
-import { unexportableIn } from "akasha/commands/modules/export-naming/export-naming.module.code.ts"
 import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
 import { changeOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import type { FileMove } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
 import { bodyAt } from "akasha/git/commit-reading/commit-reading.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { unexportableIn } from "akasha/pages/export-name/export-naming/export-naming.module.code.ts"
 import { typesFor } from "akasha/pages/types/type-generating/type-generating.module.code.ts"
 
 export type Formatting = {

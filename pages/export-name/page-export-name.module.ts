@@ -6,6 +6,7 @@ export const pageExportName = {
   slug: "page-export-name",
   definition: "the names a page's slug makes, for the value it is bound to and for the type it is",
   code: "ts",
+  parts: ["module/export-naming"],
   test: "ts",
   invariants: [
     {
