@@ -41,5 +41,5 @@ export const domainDeclarationList = {
       statement: "A run writes nothing.",
     },
   ],
-  name: "declarations",
+  name: "declaration-list",
 } as const satisfies Command
