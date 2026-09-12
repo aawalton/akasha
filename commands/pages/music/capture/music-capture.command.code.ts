@@ -283,7 +283,7 @@ export function filedIn(root: string): Filed | { readonly refused: string } {
   return { heardPage, ledger: { playKeys, heardIds, heardKeys, newestPlayedAt } }
 }
 
-export function linesOver(rows: readonly Value[]): string {
+function linesOver(rows: readonly Value[]): string {
   let held = ""
   for (const one of rows) held += `${JSON.stringify(one)}${NEWLINE}`
   return held
@@ -359,7 +359,7 @@ export function changesFor(
   return changes
 }
 
-export function messageFor(planned: Planned): string {
+function messageFor(planned: Planned): string {
   const days = planned.listens.size
   return `file ${planned.recorded} listen(s) over ${days} day(s) and ${planned.heard.length} heard track(s)`
 }

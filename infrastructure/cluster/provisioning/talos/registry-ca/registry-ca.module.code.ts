@@ -16,7 +16,7 @@ function certificateUnder(root: string): string {
   return join(dirname(listed.path), authorityCertificate.fileName)
 }
 
-export function registryCaPath(): string {
+function registryCaPath(): string {
   const explicit = optionalEnv("CLUSTER_CA_PATH")
   if (explicit !== undefined) return explicit
   const root = ownRepoRoot()

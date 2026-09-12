@@ -38,7 +38,7 @@ export type Read = {
   readonly unread: readonly string[]
 }
 
-export function drawnIn(root: string): readonly Drawn[] {
+function drawnIn(root: string): readonly Drawn[] {
   const found: Drawn[] = []
   const asked = asking(root, {
     pageTypeSlug: READOUT,

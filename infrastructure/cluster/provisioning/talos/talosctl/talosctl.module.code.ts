@@ -15,7 +15,7 @@ export interface TalosctlResult {
 const STDOUT_SENTINELS: readonly string[] = ["-", "/dev/stdout", "/dev/stderr"]
 const OUTPUT_FLAGS: readonly string[] = ["-o", "--output"]
 
-export function assertNoStdoutSentinel(args: readonly string[]): undefined {
+function assertNoStdoutSentinel(args: readonly string[]): undefined {
   for (let i = 0; i < args.length; i++) {
     const arg = args[i]
     if (arg === undefined) continue

@@ -69,7 +69,7 @@ export function findProgramFileByCanonicalPath(
   return undefined
 }
 
-export function hasSourceFileInProject(filePath: string, program: ts.Program) {
+function hasSourceFileInProject(filePath: string, program: ts.Program) {
   const pathWithoutExtension = trimExtension(filePath)
   return (
     isProjectFile(pathWithoutExtension + ".ts", program) ||

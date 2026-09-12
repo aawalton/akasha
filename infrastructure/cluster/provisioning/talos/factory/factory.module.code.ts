@@ -4,7 +4,7 @@ import {
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { z } from "zod"
 
-export const FACTORY_BASE = "https://factory.talos.dev"
+const FACTORY_BASE = "https://factory.talos.dev"
 
 const SchematicResponse = z.object({ id: z.string().min(1) })
 

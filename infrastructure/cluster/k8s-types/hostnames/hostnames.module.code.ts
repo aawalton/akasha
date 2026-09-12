@@ -1,6 +1,6 @@
 export type Hostname = "node-01" | "node-02" | "node-03" | "node-04" | "node-05" | "node-06"
 
-export const HOSTNAMES: readonly Hostname[] = [
+const HOSTNAMES: readonly Hostname[] = [
   "node-01",
   "node-02",
   "node-03",
@@ -59,9 +59,9 @@ export function yamlCapabilityPinLines(
   return [`${indent}nodeSelector:`, `${indent}  ${WORKLOAD_CLASS_KEY}: ${workloadClass}`] as const
 }
 
-export const WORKLOAD_CLASS_MEMBER_PREFIX = "alanwalton.com/workload-class." as const
+const WORKLOAD_CLASS_MEMBER_PREFIX = "alanwalton.com/workload-class." as const
 
-export function workloadClassMemberKey<C extends WorkloadClass>(
+function workloadClassMemberKey<C extends WorkloadClass>(
   workloadClass: C
 ): `alanwalton.com/workload-class.${C}` {
   return `${WORKLOAD_CLASS_MEMBER_PREFIX}${workloadClass}`
@@ -83,19 +83,19 @@ export function yamlWorkloadClassMemberPinLines(
   ] as const
 }
 
-export const GPU_VRAM_USABLE_MIB_KEY = "alanwalton.com/gpu-vram-usable-mib" as const
+const GPU_VRAM_USABLE_MIB_KEY = "alanwalton.com/gpu-vram-usable-mib" as const
 
-export const GPU_COMPUTE_CAP_KEY = "alanwalton.com/gpu-compute-cap" as const
+const GPU_COMPUTE_CAP_KEY = "alanwalton.com/gpu-compute-cap" as const
 
-export const GPU_VRAM_USABLE_MIN_PREFIX = "alanwalton.com/gpu-vram-usable-min." as const
+const GPU_VRAM_USABLE_MIN_PREFIX = "alanwalton.com/gpu-vram-usable-min." as const
 
 export type GpuVramTier = "8gi"
 
 const GPU_VRAM_TIER_MIN_MIB: Readonly<Record<GpuVramTier, number>> = { "8gi": 8 * 1024 }
 
-export const GPU_VRAM_TIERS: readonly GpuVramTier[] = ["8gi"] as const
+const GPU_VRAM_TIERS: readonly GpuVramTier[] = ["8gi"] as const
 
-export function gpuVramUsableMinKey<T extends GpuVramTier>(
+function gpuVramUsableMinKey<T extends GpuVramTier>(
   tier: T
 ): `alanwalton.com/gpu-vram-usable-min.${T}` {
   return `${GPU_VRAM_USABLE_MIN_PREFIX}${tier}`

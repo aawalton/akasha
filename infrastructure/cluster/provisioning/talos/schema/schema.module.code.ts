@@ -1,10 +1,10 @@
 import { z } from "zod"
 
-export const NodeRole = z.enum(["init", "controlplane", "worker"])
+const NodeRole = z.enum(["init", "controlplane", "worker"])
 
 export type NodeRole = z.infer<typeof NodeRole>
 
-export const ImageFactoryExtension = z.enum([
+const ImageFactoryExtension = z.enum([
   "siderolabs/nvidia-open-gpu-kernel-modules",
   "siderolabs/nonfree-kmod-nvidia",
   "siderolabs/nvidia-container-toolkit",
@@ -13,7 +13,7 @@ export const ImageFactoryExtension = z.enum([
 
 export type ImageFactoryExtension = z.infer<typeof ImageFactoryExtension>
 
-export const UserVolumeSpec = z.object({
+const UserVolumeSpec = z.object({
   name: z
     .string()
     .regex(/^[a-z0-9][a-z0-9-]*$/, "user volume name must be kebab-case")
@@ -27,7 +27,7 @@ export const UserVolumeSpec = z.object({
 
 export type UserVolumeSpec = z.infer<typeof UserVolumeSpec>
 
-export const ExtraMount = z.object({
+const ExtraMount = z.object({
   source: z.string().regex(/^\//, "extraMount source must be an absolute path"),
   destination: z.string().regex(/^\//, "extraMount destination must be an absolute path"),
   options: z.array(z.string()).default(["bind", "rshared", "rw"]),
@@ -35,7 +35,7 @@ export const ExtraMount = z.object({
 
 export type ExtraMount = z.infer<typeof ExtraMount>
 
-export const InstallDiskSelector = z
+const InstallDiskSelector = z
   .object({
     size: z.string().min(1).optional(),
     type: z.enum(["ssd", "hdd", "nvme"]).optional(),

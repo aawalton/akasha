@@ -51,7 +51,7 @@ export function isSpawnedSettings(path: string): boolean {
   return basename(path).startsWith(SETTINGS_STEM) && path.endsWith(SETTINGS_ENDING)
 }
 
-export function liveSettingsPaths(root: string = PROC): readonly string[] {
+function liveSettingsPaths(root: string = PROC): readonly string[] {
   const found = new Set<string>()
   for (const entry of readdirSync(root)) {
     if (!DIGITS.test(entry)) continue
@@ -78,7 +78,7 @@ export function objectIn(said: string): Record<string, unknown> | null {
   return parsed as Record<string, unknown>
 }
 
-export function refreshedAt(path: string, base: Record<string, unknown>): Row {
+function refreshedAt(path: string, base: Record<string, unknown>): Row {
   let was: string
   try {
     was = readFileSync(path, "utf8")

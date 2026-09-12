@@ -11,17 +11,17 @@ import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.co
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { parseAllDocuments } from "yaml"
 
-export const MANAGED_BY_A_DEPLOY: ReadonlySet<string> = new Set(["deploy-script", "bootstrap"])
+const MANAGED_BY_A_DEPLOY: ReadonlySet<string> = new Set(["deploy-script", "bootstrap"])
 
-export const ALLOWED_ORPHANS: ReadonlySet<string> = new Set<string>()
+const ALLOWED_ORPHANS: ReadonlySet<string> = new Set<string>()
 
 const AUDITED_KIND_NAMES: ReadonlySet<string> = new Set<string>(AUDITED_KINDS)
 
-export function resourceKey(kind: string, namespace: string, name: string): string {
+function resourceKey(kind: string, namespace: string, name: string): string {
   return `${kind}/${namespace}/${name}`
 }
 
-export function keyOfManifest(body: unknown): string | null {
+function keyOfManifest(body: unknown): string | null {
   if (!isRecord(body)) return null
   const kind = body.kind
   if (typeof kind !== "string") return null
@@ -34,7 +34,7 @@ export function keyOfManifest(body: unknown): string | null {
   return resourceKey(kind, namespace, name)
 }
 
-export async function sourceKeys(root: string): Promise<ReadonlySet<string>> {
+async function sourceKeys(root: string): Promise<ReadonlySet<string>> {
   const synthPaths = discoverSynthFiles(root)
   if (synthPaths.length === 0) {
     throw new Error(
@@ -62,7 +62,7 @@ export async function sourceKeys(root: string): Promise<ReadonlySet<string>> {
   return keys
 }
 
-export function orphansAmong(
+function orphansAmong(
   keys: ReadonlySet<string>,
   live: readonly LiveResource[]
 ): readonly LiveResource[] {

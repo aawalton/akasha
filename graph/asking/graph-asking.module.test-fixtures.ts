@@ -54,7 +54,7 @@ export const LOADED_BY = "loaded-by"
 
 export const HELD = "held"
 
-export const PAGE_TYPE = "page-type"
+const PAGE_TYPE = "page-type"
 
 export const MODULE = "module"
 
@@ -74,9 +74,9 @@ export const THIRD_AT = "akasha/held/third.ts"
 
 export const APART_AT = "akasha/held/apart.txt"
 
-export const TYPE_ID = "01a04ff4-0000-7000-8000-00000000000f"
+const TYPE_ID = "01a04ff4-0000-7000-8000-00000000000f"
 
-export const LOADER_ID = "01a04ff4-0000-7000-8000-000000000010"
+const LOADER_ID = "01a04ff4-0000-7000-8000-000000000010"
 
 export const MODULE_TYPE_ID = "01a04ff4-0000-7000-8000-000000000012"
 
@@ -94,11 +94,11 @@ export const LOADED_CODE_AT = "akasha/held/loaded.held-type.code.ts"
 
 export const LEAF_AT = `${HELD_RELATION}/page/id/${TARGET_ID}/${PART}/${SOURCE_ID}.jsonl`
 
-export const TYPE_FILED_AT = `identity/page-type/${PAGE_TYPE}/slug/${HELD_TYPE}.jsonl`
+const TYPE_FILED_AT = `identity/page-type/${PAGE_TYPE}/slug/${HELD_TYPE}.jsonl`
 
 export const scratch = scratchWorld()
 
-export function paged(root: string, at: string, held: Record<string, unknown>): undefined {
+function paged(root: string, at: string, held: Record<string, unknown>): undefined {
   put(root, at, `export const held = ${JSON.stringify(held, null, 2)}\n`)
 }
 

@@ -1,4 +1,4 @@
-export function formatDuration(ms: number): string | null {
+function formatDuration(ms: number): string | null {
   if (!Number.isFinite(ms)) return null
   const seconds = Math.max(0, Math.floor(ms / 1000))
 

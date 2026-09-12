@@ -42,7 +42,7 @@ function routesFileName(root: string): string {
   )
 }
 
-export function routeFilesIn(root: string): readonly string[] {
+function routeFilesIn(root: string): readonly string[] {
   const named = routesFileName(root)
   const key = exportedAs(TUNNEL_ROUTES)
   const found: string[] = []
@@ -68,7 +68,7 @@ export async function discoverTunnelRoutes(): Promise<readonly DiscoveredRoute[]
   return sourced
 }
 
-export function validateRoutes(sourced: readonly DiscoveredRoute[]): undefined {
+function validateRoutes(sourced: readonly DiscoveredRoute[]): undefined {
   for (const { route, sourceFile } of sourced) {
     if ((route.name?.trim() ?? "") === "") {
       throw new Error(`empty name in ${sourceFile}`)

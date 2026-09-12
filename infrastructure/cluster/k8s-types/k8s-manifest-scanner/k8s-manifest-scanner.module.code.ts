@@ -53,7 +53,7 @@ export interface ScanResult {
   readonly errors: readonly ScanError[]
 }
 
-export const POD_TEMPLATE_KINDS: ReadonlySet<string> = new Set([
+const POD_TEMPLATE_KINDS: ReadonlySet<string> = new Set([
   "Deployment",
   "StatefulSet",
   "DaemonSet",

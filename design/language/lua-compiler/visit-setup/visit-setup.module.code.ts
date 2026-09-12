@@ -96,7 +96,7 @@ export function createClassSetup(
   return result
 }
 
-export function getReflectionClassName(
+function getReflectionClassName(
   declaration: ts.ClassLikeDeclarationBase,
   className: luaExpressions.Identifier
 ): luaExpressions.Expression {

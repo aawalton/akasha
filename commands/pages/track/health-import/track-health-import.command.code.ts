@@ -28,7 +28,7 @@ import { trackHealthImport as page } from "akasha/commands/pages/track/health-im
 
 const NOTHING = "—"
 
-export const HEALTH = "health"
+const HEALTH = "health"
 
 const CIVIL_DAY = /^\d{4}-\d{2}-\d{2}$/
 
@@ -80,7 +80,7 @@ export function taken(argv: readonly string[], calledAs: string): Reading {
   }
 }
 
-export function minuteOf(ms: number | undefined): string {
+function minuteOf(ms: number | undefined): string {
   return ms === undefined ? NOTHING : new Date(ms).toISOString().slice(0, 16).replace("T", " ")
 }
 
@@ -117,11 +117,7 @@ export function linesOf(outcome: ImportOutcome, dryRun: boolean): readonly strin
   return said
 }
 
-export function readingLines(
-  outcome: ImportOutcome,
-  dryRun: boolean,
-  atMs: number
-): readonly string[] {
+function readingLines(outcome: ImportOutcome, dryRun: boolean, atMs: number): readonly string[] {
   const read = importReading(outcome, { dryRun, observedAtMs: atMs })
   const said = [`reading\t${read.state}\t${read.reason}`]
   for (const one of read.findings) {
@@ -160,7 +156,7 @@ export async function healthImported(
   )
 }
 
-export function reaching(held: Taken): ImportRunDeps {
+function reaching(held: Taken): ImportRunDeps {
   const script = buildFetchScript({
     path: held.path,
     sinceDay: held.since,

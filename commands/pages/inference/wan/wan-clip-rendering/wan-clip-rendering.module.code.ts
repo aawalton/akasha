@@ -67,7 +67,7 @@ const NEGATIVE = filing(negativePromptArgument.said)
 
 type Prosed = { readonly prompt: string; readonly negative: string }
 
-export function prosedIn(
+function prosedIn(
   root: string,
   taken: Extend | Generate
 ): Prosed | { readonly refused: readonly string[] } {

@@ -9,7 +9,7 @@ const REGISTRY_HOST = "registry.registry.svc.cluster.local:5000"
 
 const ETCD_QUOTA_8GIB = 8_589_934_592
 
-export const CLUSTERS: Readonly<Record<string, ClusterIntent>> = {
+const CLUSTERS: Readonly<Record<string, ClusterIntent>> = {
   main: {
     name: "main",
     talosVersion: "v1.12.9",
@@ -37,7 +37,7 @@ export const CLUSTERS: Readonly<Record<string, ClusterIntent>> = {
   },
 }
 
-export const NODES: Readonly<Record<string, NodeIntent>> = {
+const NODES: Readonly<Record<string, NodeIntent>> = {
   ...MAIN_NODES,
   ...REHEARSAL_NODES,
 }

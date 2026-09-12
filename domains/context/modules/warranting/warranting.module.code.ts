@@ -99,7 +99,7 @@ export function knowingIn(root: string): Knowing {
   return () => (known ??= { types: new Set<string>([PAGE_TYPE, ...slugsOfType(root, PAGE_TYPE)]) })
 }
 
-export function heldTo(
+function heldTo(
   root: string,
   agentId: string,
   owed: readonly Owing[],
@@ -143,7 +143,7 @@ function bodyAt(root: string, path: string): string | null {
   }
 }
 
-export function termFirst(owed: readonly Owing[]): readonly Owing[] {
+function termFirst(owed: readonly Owing[]): readonly Owing[] {
   return [
     ...owed.filter((one) => fromTabooTerm(one.warrant)),
     ...owed.filter((one) => !fromTabooTerm(one.warrant)),
@@ -317,7 +317,7 @@ function owingOf(
   return said
 }
 
-export function unreadOwing(
+function unreadOwing(
   root: string,
   agentId: string,
   paths: readonly string[],
@@ -366,7 +366,7 @@ export function agentPathOf(root: string, agentId: string): string | null {
   return seatPathOf(root, agentId) ?? subagentPathOf(root, agentId)
 }
 
-export function unheldOwing(root: string, agentId: string): readonly Owing[] {
+function unheldOwing(root: string, agentId: string): readonly Owing[] {
   const page = agentPathOf(root, agentId)
   if (page === null) return []
   return owingOf(root, agentId, warrantsIn(root, page, "write", knowingIn(root)), new Set([page]))

@@ -52,7 +52,7 @@ export interface KeyBindingDescriptor {
   scope?: string
 }
 
-export function resolveMod(os: OS): "meta" | "ctrl" {
+function resolveMod(os: OS): "meta" | "ctrl" {
   return os === "mac" ? "meta" : "ctrl"
 }
 
@@ -103,11 +103,11 @@ function keyMatches(key: string, event: KeyEventFacts): boolean {
   return event.key.toLowerCase() === key
 }
 
-export function isCharacterKeyChord(chord: ParsedChord): boolean {
+function isCharacterKeyChord(chord: ParsedChord): boolean {
   return !chord.mod && !chord.ctrl && !chord.meta && !chord.alt
 }
 
-export function matchesChord(parsed: ParsedChord, event: KeyEventFacts, os: OS): boolean {
+function matchesChord(parsed: ParsedChord, event: KeyEventFacts, os: OS): boolean {
   const wantMeta = parsed.meta || (parsed.mod && resolveMod(os) === "meta")
   const wantCtrl = parsed.ctrl || (parsed.mod && resolveMod(os) === "ctrl")
   if (event.metaKey !== wantMeta) return false

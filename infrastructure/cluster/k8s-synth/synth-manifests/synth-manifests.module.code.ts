@@ -10,7 +10,7 @@ import { loadSynthOutputs } from "akasha/infrastructure/cluster/k8s-synth/synth-
 
 const CHECKOUT_MARKER = "bun.lock"
 
-export function checkoutRoot(from: string = import.meta.dir): string {
+function checkoutRoot(from: string = import.meta.dir): string {
   let dir = realpathSync(from)
   for (;;) {
     if (existsSync(join(dir, CHECKOUT_MARKER))) return dir

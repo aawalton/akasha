@@ -27,7 +27,7 @@ const SPACES = 2
 
 const PAGES = [scope, toggle, value, toggleTarget]
 
-export function scopeSaid(held: AutomationScope): string {
+function scopeSaid(held: AutomationScope): string {
   if (held.kind === "global") return `global.${held.target}`
   if (held.kind === "character") return `character:${held.esoCharId}`
   return `companion:${held.companionId}`

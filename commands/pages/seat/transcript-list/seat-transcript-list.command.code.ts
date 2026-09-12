@@ -35,7 +35,7 @@ export function transcriptsOver(
   return found
 }
 
-export function transcriptsNow(): readonly SeatTranscript[] {
+function transcriptsNow(): readonly SeatTranscript[] {
   return transcriptsOver(akashaSeatsThatExist(), akashaSeatRecordOf)
 }
 

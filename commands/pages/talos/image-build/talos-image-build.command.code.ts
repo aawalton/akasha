@@ -31,7 +31,7 @@ import type {
 
 export type Named = { readonly node: string; readonly download?: string }
 
-export async function fetched(
+async function fetched(
   url: string
 ): Promise<{ readonly bytes: Uint8Array } | { readonly refused: string }> {
   let answer: Response

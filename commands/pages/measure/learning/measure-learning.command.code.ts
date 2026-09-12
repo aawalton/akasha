@@ -32,7 +32,7 @@ export type Reading = {
   readonly topics: number
 }
 
-export function readingOf(topic: Topic): Reading {
+function readingOf(topic: Topic): Reading {
   return {
     title: topic.title,
     coverage: Number(topic.coverage.toFixed(PLACES)),

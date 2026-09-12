@@ -17,7 +17,7 @@ export interface ScanError {
   readonly message: string
 }
 
-export function stripComment(line: string): string {
+function stripComment(line: string): string {
   let inSingle = false
   let inDouble = false
   for (let i = 0; i < line.length; i++) {
@@ -84,7 +84,7 @@ export function lex(text: string): readonly RawLine[] {
   return out
 }
 
-export function isDocSeparator(rawLine: string): boolean {
+function isDocSeparator(rawLine: string): boolean {
   return rawLine.trim() === "---"
 }
 

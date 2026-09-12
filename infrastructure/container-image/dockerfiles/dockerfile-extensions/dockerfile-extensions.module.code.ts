@@ -3,7 +3,7 @@ import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-r
 import { parseNumber } from "akasha/utils/narrow/parse-number/parse-number.module.code.ts"
 import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
 
-export const SERVICE_TYPES = ["nextjs", "bun-service", "tool-image"] as const
+const SERVICE_TYPES = ["nextjs", "bun-service", "tool-image"] as const
 export type ServiceType = (typeof SERVICE_TYPES)[number]
 
 export function isServiceType(value: unknown): value is ServiceType {

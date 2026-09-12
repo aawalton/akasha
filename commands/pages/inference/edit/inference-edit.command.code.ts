@@ -95,7 +95,7 @@ function noneOf(
   return [`\`${said}\` takes one of ${every.join(", ")}, and \`${held}\` is none of them`]
 }
 
-export function wrongIn(taken: Taken): readonly string[] {
+function wrongIn(taken: Taken): readonly string[] {
   return [
     ...noneOf(aspectRatioArgument.said, taken.aspectRatio, RATIOS),
     ...noneOf(sizeArgument.said, taken.size, SIZES),

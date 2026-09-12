@@ -40,10 +40,7 @@ export type Starting = {
   readonly startResumePlayback: (options: StartResumeOptions) => Promise<void>
 }
 
-export function startResumeOptionsFor(
-  uri: string,
-  deviceId: string | undefined
-): StartResumeOptions {
+function startResumeOptionsFor(uri: string, deviceId: string | undefined): StartResumeOptions {
   return { uris: [uri], ...(deviceId !== undefined && { deviceId }) }
 }
 
@@ -67,7 +64,7 @@ export type Playing = Starting & {
   ) => Promise<ResolvedTrack>
 }
 
-export const PLAYING: Playing = {
+const PLAYING: Playing = {
   parseTrackId,
   getTrack,
   trackToResolved,
@@ -82,7 +79,7 @@ export type PlayEnvelope = {
   readonly deviceId: string | null
 }
 
-export function playEnvelopeFor(
+function playEnvelopeFor(
   query: string | null,
   track: ResolvedTrack,
   deviceId: string | undefined
@@ -90,18 +87,18 @@ export function playEnvelopeFor(
   return { query, track, deviceId: deviceId ?? null }
 }
 
-export function startedSaid(uri: string, deviceId: string | undefined): string {
+function startedSaid(uri: string, deviceId: string | undefined): string {
   const where = deviceId === undefined ? "the active device" : `device ${deviceId}`
   return `${uri} was started on ${where}`
 }
 
-export function playLineFor(track: ResolvedTrack): string {
+function playLineFor(track: ResolvedTrack): string {
   const label = track.name ?? track.uri
   const suffix = track.artists.length > 0 ? ` — ${track.artists.join(", ")}` : ""
   return `▶ Playing "${label}"${suffix}`
 }
 
-export function wrongIn(said: string | undefined, named: string | undefined): string | null {
+function wrongIn(said: string | undefined, named: string | undefined): string | null {
   if (named === "") return `\`${uriArgument.said}\` takes a track uri, and an empty one came`
   if (said === "")
     return `\`<${queryArgument.placeholder}>\` takes a name to search for, and an empty one came`

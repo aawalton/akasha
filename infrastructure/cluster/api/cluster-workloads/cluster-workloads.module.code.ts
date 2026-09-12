@@ -185,7 +185,7 @@ const DeploymentStatusSchema = z
   })
   .passthrough()
 
-export const ROLLOUT_CEILING_MS = 180_000
+const ROLLOUT_CEILING_MS = 180_000
 
 const ROLLOUT_POLL_MS = 2_000
 

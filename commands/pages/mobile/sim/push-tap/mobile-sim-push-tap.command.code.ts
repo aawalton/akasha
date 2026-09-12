@@ -115,7 +115,7 @@ export type Probing = {
   readonly ended: (base: string, sessionId: string) => Promise<unknown>
 }
 
-export const PROBING: Probing = {
+const PROBING: Probing = {
   appium: ensureAppium,
   loaded: loadSessionState,
   sim: resolveAndBootSim,

@@ -45,7 +45,7 @@ export function getTransformers(
   return { afterDeclarations, before }
 }
 
-export const noImplicitSelfTransformer: ts.TransformerFactory<ts.SourceFile | ts.Bundle> =
+const noImplicitSelfTransformer: ts.TransformerFactory<ts.SourceFile | ts.Bundle> =
   () => (node) => {
     const transformSourceFile: ts.Transformer<ts.SourceFile> = (sourceFile) => {
       const empty = ts.factory.createNotEmittedStatement(sourceFile)
@@ -67,7 +67,7 @@ export const noImplicitSelfTransformer: ts.TransformerFactory<ts.SourceFile | ts
       : transformSourceFile(node)
   }
 
-export const stripParenthesisExpressionsTransformer: ts.TransformerFactory<ts.SourceFile> =
+const stripParenthesisExpressionsTransformer: ts.TransformerFactory<ts.SourceFile> =
   (context) => (sourceFile) => {
     function unwrapParentheses(node: ts.Expression) {
       while (ts.isParenthesizedExpression(node) && !ts.isOptionalChain(node.expression)) {

@@ -25,7 +25,7 @@ const SPACES = 2
 
 const AUDIT_HEADER = "[TemperInventory] Capacity audit:"
 
-export function auditSaid(audit: CapacityAudit): readonly string[] {
+function auditSaid(audit: CapacityAudit): readonly string[] {
   if (audit.entries.length === 0) {
     return [AUDIT_HEADER, "  No capacity overflow — every destination fits."]
   }

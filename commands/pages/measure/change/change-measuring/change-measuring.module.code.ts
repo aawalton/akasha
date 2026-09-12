@@ -19,13 +19,13 @@ import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code
 
 export const CHANGE = "change"
 
-export const APPLY = "apply"
+const APPLY = "apply"
 
 const ENTRIES = "entries"
 
 const COMMAND = "command"
 
-export const SLUGS: readonly string[] = ["change-draft", "change-apply"]
+const SLUGS: readonly string[] = ["change-draft", "change-apply"]
 
 export function pagesIn(root: string): readonly string[] {
   return SLUGS.flatMap((slug) => listedAt(root, COMMAND, slug).map((one) => one.path))

@@ -35,7 +35,7 @@ function rowsFor(scope: string, toggles: Toggles | undefined): readonly Row[] {
   return found
 }
 
-export function rowsOf(settings: AutomationSettings): readonly Row[] {
+function rowsOf(settings: AutomationSettings): readonly Row[] {
   return [
     ...rowsFor(GLOBAL_CHARACTERS, settings.global?.characters),
     ...rowsFor(GLOBAL_COMPANIONS, settings.global?.companions),

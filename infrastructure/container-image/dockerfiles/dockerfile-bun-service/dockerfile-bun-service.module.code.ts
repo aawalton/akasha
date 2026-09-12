@@ -28,7 +28,7 @@ export function generateBunServiceDockerfile(
   return generateWorkspaceBunService(appName, config, nameMap, ext, depDirs, allWorkspaceDirs)
 }
 
-export function generateWorkspaceBunService(
+function generateWorkspaceBunService(
   _appName: string,
   config: ServiceConfig,
   _nameMap: Map<string, string>,

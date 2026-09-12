@@ -109,7 +109,7 @@ export function sinceOf(now: number, days: number): number {
   return now - days * DAY_MS
 }
 
-export function transcriptsUnder(folder: string): readonly string[] {
+function transcriptsUnder(folder: string): readonly string[] {
   const found: string[] = []
   const left: string[] = [folder]
   while (left.length > 0) {

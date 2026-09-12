@@ -21,7 +21,7 @@ import { transformPropertyName } from "akasha/design/language/lua-compiler/visit
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import * as ts from "typescript"
 
-export function transformDestructuringAssignment(
+function transformDestructuringAssignment(
   context: TransformationContext,
   node: ts.DestructuringAssignment,
   root: luaExpressions.Expression,

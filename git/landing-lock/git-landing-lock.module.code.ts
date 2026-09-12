@@ -5,7 +5,7 @@ import { holderProcessRuns } from "akasha/files/lock-holder-runs/lock-holder-run
 import { gitDirIn } from "akasha/git/dir/git-dir.module.code.ts"
 import { pause } from "akasha/utils/waiting/thread-pause/thread-pause.module.code.ts"
 
-export const LANDING_CEILING_MS = 120_000
+const LANDING_CEILING_MS = 120_000
 const LANDING_POLL_MS = 250
 
 export type LandingOutcome<T> =

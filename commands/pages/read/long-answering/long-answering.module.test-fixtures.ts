@@ -17,13 +17,13 @@ import {
 
 export const LONG = "akasha/one/long.ts"
 
-export const LONG_LINES = 600
+const LONG_LINES = 600
 
 export function longBody(): string {
   return lettered(LONG_LINES)
 }
 
-export function longRoot(): string {
+function longRoot(): string {
   return rootWith([{ at: LONG, body: longBody() }])
 }
 
@@ -32,7 +32,7 @@ export function tooWideRead(): Answer {
   return read(["--file-path", LONG], givenFor(root))
 }
 
-export function ranThrough(root: string, most: number): readonly Answer[] {
+function ranThrough(root: string, most: number): readonly Answer[] {
   const said: Answer[] = []
   for (let one = 0; one < most; one += 1) {
     said.push(read(["--file-path", LONG], givenFor(root)))

@@ -65,7 +65,7 @@ export type Typing = {
   ) => Promise<unknown>
 }
 
-export const TYPING: Typing = {
+const TYPING: Typing = {
   state: driving,
   focused: activeElement,
   found: findElement,

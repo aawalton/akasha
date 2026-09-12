@@ -67,7 +67,7 @@ function classOrObjectQualifier(parent: ts.Node, sourceFile: ts.SourceFile): str
   return undefined
 }
 
-export function resolveFunctionName(node: FunctionNode, sourceFile: ts.SourceFile): string {
+function resolveFunctionName(node: FunctionNode, sourceFile: ts.SourceFile): string {
   if (ts.isConstructorDeclaration(node)) {
     const q = classOrObjectQualifier(node.parent, sourceFile)
     return q !== undefined ? `${q}.constructor` : "constructor"

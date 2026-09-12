@@ -36,11 +36,11 @@ const CACHE_DIR = join(homedir(), ".cache", "akasha")
 const TOOL_DIR = join(CACHE_DIR, "buildkit", BUILDKIT_VERSION)
 const BUILDCTL = join(TOOL_DIR, "bin", "buildctl")
 
-export function madeSaid(folder: string): string {
+function madeSaid(folder: string): string {
   return `the folder ${folder} was not there before this, and this made it`
 }
 
-export function pushedSaid(ref: string): string {
+function pushedSaid(ref: string): string {
   return `the image ${ref}, built and pushed to the registry`
 }
 
@@ -54,7 +54,7 @@ function dockerfileWrittenTo(slug: string, body: string, done: string[]): string
   return at
 }
 
-export function buildctlAt(done: string[] = []): string {
+function buildctlAt(done: string[] = []): string {
   if (existsSync(BUILDCTL)) return BUILDCTL
   const made = mkdirSync(TOOL_DIR, { recursive: true })
   if (made !== undefined) done.push(madeSaid(made))
@@ -74,7 +74,7 @@ export function buildctlAt(done: string[] = []): string {
   return BUILDCTL
 }
 
-export async function heldInRegistry(repository: string, tag: string): Promise<boolean> {
+async function heldInRegistry(repository: string, tag: string): Promise<boolean> {
   const asked = await fetch(`http://${REGISTRY}/v2/${repository}/manifests/${tag}`, {
     method: "HEAD",
     headers: { Accept: HELD_KINDS },

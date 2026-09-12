@@ -3,17 +3,17 @@ import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-t
 import { refOf } from "akasha/infrastructure/container-image/image-ref/image-ref.module.code.ts"
 import { esoRigImage } from "akasha/infrastructure/eso-rig/image/eso-rig-image.container-recipe.ts"
 
-export const NAMESPACE = "eso-rig"
+const NAMESPACE = "eso-rig"
 const APP_NAME = "eso-rig"
 const CONTAINER_NAME = "eso-rig"
 
-export const REPLICAS = 0
+const REPLICAS = 0
 
-export const MEMORY = "8Gi"
+const MEMORY = "8Gi"
 
-export const WINEPREFIX_PATH = "/var/lib/eso-rig/wineprefix"
+const WINEPREFIX_PATH = "/var/lib/eso-rig/wineprefix"
 
-export const DEV_INPUT_PATH = "/dev/input"
+const DEV_INPUT_PATH = "/dev/input"
 
 const RESOURCE_LABELS = {
   app: APP_NAME,
@@ -28,7 +28,7 @@ const SELECTOR_LABELS = {
   app: APP_NAME,
 } as const
 
-export const NAMESPACE_MANIFEST = {
+const NAMESPACE_MANIFEST = {
   apiVersion: "v1",
   kind: "Namespace",
   metadata: {
@@ -37,7 +37,7 @@ export const NAMESPACE_MANIFEST = {
   },
 } as const
 
-export function deploymentManifest() {
+function deploymentManifest() {
   return {
     apiVersion: "apps/v1",
     kind: "Deployment",

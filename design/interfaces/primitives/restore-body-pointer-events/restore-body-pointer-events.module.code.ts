@@ -4,7 +4,7 @@ const OPEN_OVERLAY_SELECTOR = [
   "[data-radix-popper-content-wrapper]",
 ].join(",")
 
-export function restoreStuckBodyPointerEvents(): undefined {
+function restoreStuckBodyPointerEvents(): undefined {
   if (typeof document === "undefined") return
   if (document.body.style.pointerEvents !== "none") return
   if (document.querySelector(OPEN_OVERLAY_SELECTOR) != null) return

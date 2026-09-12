@@ -23,7 +23,7 @@ import {
 } from "akasha/design/language/lua-compiler/visit-syntax/visit-syntax.module.code.ts"
 import * as ts from "typescript"
 
-export function transformDecoratorExpression(
+function transformDecoratorExpression(
   context: TransformationContext,
   decorator: ts.Decorator
 ): luaExpressions.Expression {

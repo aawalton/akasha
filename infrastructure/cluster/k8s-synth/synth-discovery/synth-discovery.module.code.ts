@@ -9,7 +9,7 @@ const CODE = "code"
 
 const NON_IDENTIFIER_COMPONENTS: ReadonlySet<string> = new Set(["k8s", "deploy", "src", "synth.ts"])
 
-export function pathHasComponent(relPath: string, target: string): boolean {
+function pathHasComponent(relPath: string, target: string): boolean {
   for (const component of relPath.split("/")) {
     if (NON_IDENTIFIER_COMPONENTS.has(component)) continue
     if (component === target) return true

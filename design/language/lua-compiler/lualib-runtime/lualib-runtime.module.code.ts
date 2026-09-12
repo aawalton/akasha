@@ -14,13 +14,13 @@ import { z } from "zod"
 
 const LUALIB_LOCAL_MATCH_SCHEMA = z.tuple([z.string(), z.string(), z.string()]).rest(z.unknown())
 
-export function getLuaLibModulesInfo(luaTarget: LuaTarget, _emitHost: EmitHost): LuaLibModulesInfo {
+function getLuaLibModulesInfo(luaTarget: LuaTarget, _emitHost: EmitHost): LuaLibModulesInfo {
   return buildLuaLib(luaTarget).modulesInfo
 }
 
 const lualibExportToFeature = new Map<LuaTarget, ReadonlyMap<string, LuaLibFeature>>()
 
-export function getLuaLibExportToFeatureMap(
+function getLuaLibExportToFeatureMap(
   luaTarget: LuaTarget,
   emitHost: EmitHost
 ): ReadonlyMap<string, LuaLibFeature> {
@@ -40,7 +40,7 @@ export function getLuaLibExportToFeatureMap(
   return requireGet(lualibExportToFeature, luaTarget, "lualibExportToFeature")
 }
 
-export function readLuaLibFeature(
+function readLuaLibFeature(
   feature: LuaLibFeature,
   luaTarget: LuaTarget,
   _emitHost: EmitHost

@@ -136,7 +136,7 @@ async function typechecked(done: string[], root: string): Promise<Answer> {
 
 export type Judging = (done: string[], root: string) => Promise<Answer>
 
-export async function typecheckedBy(root: string, judging: Judging = typechecked): Promise<Answer> {
+async function typecheckedBy(root: string, judging: Judging = typechecked): Promise<Answer> {
   return await answering(async (done) => naming(done, await judging(done, root)))
 }
 

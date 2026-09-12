@@ -31,7 +31,7 @@ export function computeMaintainabilityIndex(sourceFile: ts.SourceFile): Maintain
   return { mi, volumeSum, ccSum, sloc }
 }
 
-export function countSloc(sourceFile: ts.SourceFile): number {
+function countSloc(sourceFile: ts.SourceFile): number {
   const text = sourceFile.text
   if (text.length === 0) return 0
   const lines = new Set<number>()

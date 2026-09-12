@@ -13,7 +13,7 @@ export function hasDefaultExportModifier(node: ts.Node): boolean {
   )
 }
 
-export function hasExportModifier(node: ts.Node): boolean {
+function hasExportModifier(node: ts.Node): boolean {
   return (
     ts.canHaveModifiers(node) &&
     node.modifiers?.some((modifier) => modifier.kind === ts.SyntaxKind.ExportKeyword) === true
@@ -31,7 +31,7 @@ export const createDefaultExportStringLiteral = (
   original?: ts.Node
 ): luaExpressions.StringLiteral => luaExpressions.createStringLiteral("default", original)
 
-export function getExportedSymbolDeclaration(symbol: ts.Symbol): ts.Declaration | undefined {
+function getExportedSymbolDeclaration(symbol: ts.Symbol): ts.Declaration | undefined {
   const declarations = symbol.getDeclarations()
   if (declarations) {
     return declarations.find(
@@ -40,7 +40,7 @@ export function getExportedSymbolDeclaration(symbol: ts.Symbol): ts.Declaration 
   }
 }
 
-export function getSymbolFromIdentifier(
+function getSymbolFromIdentifier(
   context: TransformationContext,
   identifier: luaExpressions.Identifier
 ): ts.Symbol | undefined {
@@ -97,7 +97,7 @@ export function getSymbolExportScope(
   return scope
 }
 
-export function getExportedSymbolsFromScope(
+function getExportedSymbolsFromScope(
   context: TransformationContext,
   scope: ts.SourceFile | ts.ModuleDeclaration
 ): readonly ts.Symbol[] {
@@ -132,7 +132,7 @@ export function isSymbolExported(context: TransformationContext, symbol: ts.Symb
   )
 }
 
-export function isSymbolExportedFromScope(
+function isSymbolExportedFromScope(
   context: TransformationContext,
   symbol: ts.Symbol,
   scope: ts.SourceFile | ts.ModuleDeclaration

@@ -86,7 +86,7 @@ export function itemKeyIn(raw: string): ItemKey | string {
   return `\`${ITEM_KEY}\` carries \`recipe\`, \`motif\` and \`script\`, and \`${kind}\` is none of them`
 }
 
-export function knowsItem(
+function knowsItem(
   one: CharacterKnowledge,
   key: ItemKey,
   styleToChapters: Readonly<Record<number, readonly number[]>>

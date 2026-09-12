@@ -31,7 +31,7 @@ const LEVELS: readonly Named[] = [
 
 const NAMED = namingOver(LEVELS)
 
-export function calling(one: Named): string {
+function calling(one: Named): string {
   return pathOf(one.slug, NAMED)
 }
 

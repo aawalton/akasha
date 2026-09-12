@@ -22,7 +22,7 @@ export interface TermRead {
   readonly defined: boolean
 }
 
-export function kebabOf(form: string): string {
+function kebabOf(form: string): string {
   return form.replace(CAMEL, "-").replaceAll("_", "-").toLowerCase()
 }
 

@@ -1,6 +1,6 @@
 import { z } from "zod"
 
-export const K8S_FETCH_CEILING_MS = 30_000
+const K8S_FETCH_CEILING_MS = 30_000
 
 export interface K8sAdminConfig {
   readonly saToken: string
@@ -83,7 +83,7 @@ export async function k8sFetch(
   }
 }
 
-export async function detailOf(response: Response): Promise<string> {
+async function detailOf(response: Response): Promise<string> {
   const text = await response.text().catch(() => "")
   return text === "" ? "" : `: ${text}`
 }

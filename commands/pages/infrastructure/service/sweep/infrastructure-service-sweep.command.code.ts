@@ -37,7 +37,7 @@ const EVERY_UNIT = "this reaches every unit akasha owns rather than one service"
 
 export type Sweeping = (home: string, plan: Plan, did: string[]) => Done
 
-export function sweptAway(home: string, plan: Plan, did: string[]): Done {
+function sweptAway(home: string, plan: Plan, did: string[]): Done {
   return installing(home, plan, systemctl, did)
 }
 

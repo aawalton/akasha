@@ -53,14 +53,14 @@ const DEFAULT_SEED = 12345
 
 const UPSCALE_HOME = "UPSCALE_HOME"
 
-export function upscaleHomeOf(said: string | undefined): string {
+function upscaleHomeOf(said: string | undefined): string {
   const raw = said ?? join(homedir(), ".local", "share", "upscale")
   if (raw === "~") return homedir()
   if (raw.startsWith("~/")) return join(homedir(), raw.slice(2))
   return raw
 }
 
-export function wrongIn(taken: Taken): readonly string[] {
+function wrongIn(taken: Taken): readonly string[] {
   const wrong: string[] = []
   if (taken.resolution <= 0) {
     const said = resolutionArgument.said

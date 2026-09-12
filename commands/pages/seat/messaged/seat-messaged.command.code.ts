@@ -26,7 +26,7 @@ export type Seated = {
   readonly persona: string
 }
 
-export function seatedIn(root: string): readonly Seated[] {
+function seatedIn(root: string): readonly Seated[] {
   const asked = asking(root, {
     pageTypeSlug: SEAT,
     keys: ["slug", "persona"],
@@ -67,7 +67,7 @@ export type Keeping = {
   readonly points: typeof keepPointsToday
 }
 
-export const KEEPING: Keeping = {
+const KEEPING: Keeping = {
   mark: keepLastMessagedAt,
   raise: raiseMessages,
   points: keepPointsToday,

@@ -29,7 +29,7 @@ const PAGES = [floorArgument, framesDirArgument, referenceArgument]
 
 export type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
 
-export function wrongIn(taken: Taken): readonly string[] {
+function wrongIn(taken: Taken): readonly string[] {
   const said = taken.floor
   if (said.trim() !== "" && Number.isFinite(Number(said))) return []
   return [`\`${floorArgument.said}\` carries a number, and \`${said}\` is not one`]

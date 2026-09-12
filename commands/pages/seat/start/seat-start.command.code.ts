@@ -37,7 +37,7 @@ const TAKES = [
   startMode,
 ]
 
-export function guidedBy(refused: readonly string[]): readonly string[] {
+function guidedBy(refused: readonly string[]): readonly string[] {
   const said: string[] = []
   const parent = refuseStatedParent(refused)
   if (parent !== null) said.push(parent)

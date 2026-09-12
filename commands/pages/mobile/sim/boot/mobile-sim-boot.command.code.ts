@@ -22,7 +22,7 @@ export type Booting = {
   readonly sim: (done: string[], udid: string | undefined) => Promise<string>
 }
 
-export const BOOTING: Booting = {
+const BOOTING: Booting = {
   appium: ensureAppium,
   sim: resolveAndBootSim,
 }

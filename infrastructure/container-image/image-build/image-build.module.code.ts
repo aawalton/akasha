@@ -63,7 +63,7 @@ export function namedOf(slug: string): ImageNamed {
   return found
 }
 
-export function dockerfileOf(named: ImageNamed, codeAt: string = ROOT): string {
+function dockerfileOf(named: ImageNamed, codeAt: string = ROOT): string {
   if (named.recipe === null) return dockerfileFor(named.slug)
   return readFileSync(join(codeAt, named.recipe), "utf8")
 }

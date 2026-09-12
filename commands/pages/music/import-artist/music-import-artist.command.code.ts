@@ -80,7 +80,7 @@ const LYRICS = "lyrics"
 
 const SYNCED_LYRICS = "synced-lyrics"
 
-export const NAMED = [json, songLimit, artistNameArgument, mbidArgument] as const
+const NAMED = [json, songLimit, artistNameArgument, mbidArgument] as const
 
 const BLANK = `\`${artistNameArgument.said}\` names no artist, and no \`${mbidArgument.said}\` was said either`
 
@@ -101,7 +101,7 @@ export type Reach = {
   readonly searchLyrics: (title: string, artistName: string) => Promise<readonly LrclibRecord[]>
 }
 
-export const REACHING: Reach = {
+const REACHING: Reach = {
   searchArtist,
   getArtist,
   browseWorks,
@@ -171,7 +171,7 @@ export function jsonOf(said: Imported): string {
 
 type Catalogue = { readonly names: SongNames; readonly held: ReadonlyMap<string, Value> }
 
-export function catalogueIn(root: string): Catalogue {
+function catalogueIn(root: string): Catalogue {
   const rows: { readonly slug: string; readonly externalId: string | null }[] = []
   const held = new Map<string, Value>()
   for (const one of valuesOfType(root, SONG)) {
@@ -183,7 +183,7 @@ export function catalogueIn(root: string): Catalogue {
   return { names: songNamesFrom(rows), held }
 }
 
-export function artistIn(
+function artistIn(
   root: string,
   mbid: string,
   name: string
@@ -405,7 +405,7 @@ export async function gathered(
   }
 }
 
-export function messageOf(said: Imported): string {
+function messageOf(said: Imported): string {
   return `import ${said.artistName} and ${said.songsWritten} songs from MusicBrainz`
 }
 

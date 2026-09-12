@@ -25,7 +25,7 @@ import { getSymbolIdOfSymbol } from "akasha/design/language/lua-compiler/symbols
 import { transformIdentifier } from "akasha/design/language/lua-compiler/visit-identifier/visit-identifier.module.code.ts"
 import * as ts from "typescript"
 
-export function createModuleLocalName(
+function createModuleLocalName(
   context: TransformationContext,
   module: ts.ModuleDeclaration
 ): luaExpressions.Expression {
@@ -44,7 +44,7 @@ export function createModuleLocalName(
 
 moduleLocalNameHolder.fn = createModuleLocalName
 
-export function createModuleLocalNameIdentifier(
+function createModuleLocalNameIdentifier(
   context: TransformationContext,
   declaration: ts.ModuleDeclaration
 ): luaExpressions.Identifier {

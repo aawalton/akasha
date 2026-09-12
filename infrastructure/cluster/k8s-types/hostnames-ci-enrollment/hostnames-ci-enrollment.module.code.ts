@@ -1,4 +1,4 @@
-export const CI_ENROLLMENT_KEY = "alanwalton.com/ci-enrollment" as const
+const CI_ENROLLMENT_KEY = "alanwalton.com/ci-enrollment" as const
 
 export function ciEnrollmentCandidateLabel(): {
   readonly "alanwalton.com/ci-enrollment": "candidate"

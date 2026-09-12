@@ -47,7 +47,7 @@ export function gitWritingPaths(
   return { code: proc.code, stdout: text(proc.stdout), stderr: text(proc.stderr) }
 }
 
-export function gitAskingPaths(
+function gitAskingPaths(
   root: string,
   args: readonly string[],
   paths: readonly string[]

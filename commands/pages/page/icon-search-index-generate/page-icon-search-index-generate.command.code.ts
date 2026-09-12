@@ -86,7 +86,7 @@ export type Staging = {
   readonly writing: Writing
 }
 
-export const STAGING: Staging = {
+const STAGING: Staging = {
   making: (at) => {
     mkdirSync(at, { recursive: true })
   },
@@ -108,7 +108,7 @@ export function stagedSaid(slug: string): string {
   return `staged ${slug}`
 }
 
-export function messageSaid(messageAt: string): string {
+function messageSaid(messageAt: string): string {
   return `wrote the message a landing takes at ${messageAt}`
 }
 

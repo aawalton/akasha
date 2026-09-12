@@ -24,7 +24,7 @@ export type Reading<T> = T | { readonly refused: readonly string[] }
 
 export type Read = { readonly selector: string } | { readonly x: number; readonly y: number }
 
-export function pointedAt(
+function pointedAt(
   named: string | undefined,
   across: number | undefined,
   down: number | undefined
@@ -50,7 +50,7 @@ export type Touching = {
   readonly pointed: (base: string, sessionId: string, x: number, y: number) => Promise<unknown>
 }
 
-export const TOUCHING: Touching = {
+const TOUCHING: Touching = {
   state: driving,
   found: findElement,
   clicked: clickElement,

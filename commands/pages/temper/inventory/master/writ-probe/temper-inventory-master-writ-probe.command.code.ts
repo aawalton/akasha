@@ -56,7 +56,7 @@ type ProbeQuest = {
 
 type MasterWritProbe = { readonly timestamp: number; readonly quests: readonly ProbeQuest[] }
 
-export function probeSaid(probe: MasterWritProbe): readonly string[] {
+function probeSaid(probe: MasterWritProbe): readonly string[] {
   const lines: string[] = [
     `[master-writ probe @ ${probe.timestamp}] ${probe.quests.length} quest(s)`,
   ]

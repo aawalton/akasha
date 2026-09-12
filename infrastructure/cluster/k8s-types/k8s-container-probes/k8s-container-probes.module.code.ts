@@ -19,7 +19,7 @@ export interface ContainerResources {
   readonly limitMemory: MemoryProbe | undefined
 }
 
-export const CONTAINER_LIST_KEYS: readonly ContainerListKey[] = [
+const CONTAINER_LIST_KEYS: readonly ContainerListKey[] = [
   "containers",
   "initContainers",
   "ephemeralContainers",

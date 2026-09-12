@@ -38,9 +38,9 @@ export const SEEDED_AT = dataAt("warrant")
 
 const MINTED = "a warrant seeded for a test"
 
-export const WARRANTS: readonly string[] = ["file-itself", "file-page-type"]
+const WARRANTS: readonly string[] = ["file-itself", "file-page-type"]
 
-export function realAt(slug: string): string {
+function realAt(slug: string): string {
   return join(HERE, WARRANTS_IN, slug, `${slug}.context-warrant.code.ts`)
 }
 
@@ -165,7 +165,7 @@ function statedCodeFor(one: Said): string {
   ].join("\n")
 }
 
-export function warrantingStated(root: string, every: readonly Said[]): undefined {
+function warrantingStated(root: string, every: readonly Said[]): undefined {
   mkdirSync(join(root, SEEDED_AT), { recursive: true })
   for (const one of every) {
     const id = mintedId(one.slug)

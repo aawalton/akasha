@@ -41,7 +41,7 @@ export function taken(at: string, mine: string): boolean {
   }
 }
 
-export class HeldTooLong extends Error {}
+class HeldTooLong extends Error {}
 
 export function heldSaid(waited: number): string {
   return `another landing has held \`${LOCK_AT}\` for longer than ${Math.round(waited / 1000)}s, so this change was not judged and nothing was written`

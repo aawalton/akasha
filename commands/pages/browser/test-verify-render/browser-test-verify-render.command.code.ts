@@ -107,12 +107,12 @@ type Session = {
   readonly teardown: () => Promise<void>
 }
 
-export function codeOf(verdict: RenderVerdict["verdict"]): number {
+function codeOf(verdict: RenderVerdict["verdict"]): number {
   if (verdict === "PASS") return 0
   return verdict === "FAIL" ? FAILED : INDETERMINATE
 }
 
-export function toldOf(
+function toldOf(
   verdict: RenderVerdict,
   where: { readonly url: string; readonly pageType: string; readonly httpStatus: number },
   observation: RenderObservation | null,

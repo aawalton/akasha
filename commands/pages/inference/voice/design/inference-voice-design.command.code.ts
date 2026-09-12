@@ -84,7 +84,7 @@ const SAMPLING = {
   maxTokens: 1200,
 } as const
 
-export function wrongIn(taken: Taken): readonly string[] {
+function wrongIn(taken: Taken): readonly string[] {
   const named = taken.service ?? DEFAULT_BACKEND
   if (BACKENDS[named] !== undefined) return []
   const said = serviceArgument.said

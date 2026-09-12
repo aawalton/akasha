@@ -65,7 +65,7 @@ export interface JobStatus {
   readonly conditions: readonly JobCondition[]
 }
 
-export async function getJob(namespace: string, name: string): Promise<JobStatus> {
+async function getJob(namespace: string, name: string): Promise<JobStatus> {
   const response = await k8sFetch(
     `/apis/batch/v1/namespaces/${namespace}/jobs/${name}`,
     { method: "GET" },
@@ -82,7 +82,7 @@ export async function getJob(namespace: string, name: string): Promise<JobStatus
   }
 }
 
-export const JOB_POLL_MS = 5_000
+const JOB_POLL_MS = 5_000
 
 export type JobOutcome = "succeeded" | "failed" | "timeout"
 

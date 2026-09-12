@@ -117,7 +117,7 @@ export function restCall(
   ]
 }
 
-export function wrongIn(refusals: readonly string[]): readonly string[] {
+function wrongIn(refusals: readonly string[]): readonly string[] {
   if (!refusals.some((one) => one.includes(`\`${SEAT}\``))) return []
   return [
     `${SEAT} reads what a seat is bound to, and this read answers for the paths it is named and ` +
@@ -149,7 +149,7 @@ function aiming(paths: readonly string[], given: Given): Aimed {
   return { targets, refusals }
 }
 
-export function spreading(targets: readonly Target[], given: Given): readonly Target[] {
+function spreading(targets: readonly Target[], given: Given): readonly Target[] {
   const root = resolve(given.root)
   const said = new Map<string, string>()
   for (const one of targets) said.set(relative(root, one.absolute), one.named)

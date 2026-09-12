@@ -31,7 +31,7 @@ export type Reach = {
   readonly fieldsOf: (one: Carried) => readonly Carried[]
 }
 
-export function reachIn(given: string | Read, pageOf: (path: string) => Value | null): Reach {
+function reachIn(given: string | Read, pageOf: (path: string) => Value | null): Reach {
   const source = sourceIn(given, pageOf)
   return {
     prose: kindsUnder(PROSE, given),

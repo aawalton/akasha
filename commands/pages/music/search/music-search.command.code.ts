@@ -31,11 +31,11 @@ export type SearchEnvelope = {
 
 export type Finding = (params: SearchParams) => Promise<SearchResponse>
 
-export function wrongIn(said: string): string | null {
+function wrongIn(said: string): string | null {
   return said === "" ? "supply a track query to search for" : null
 }
 
-export function linesOf(envelope: SearchEnvelope): readonly string[] {
+function linesOf(envelope: SearchEnvelope): readonly string[] {
   const scope = envelope.artist !== null ? ` (artist: ${envelope.artist})` : ""
   const count = String(envelope.candidates.length)
   const header = `Search "${envelope.query}"${scope} — ${count} candidate(s):`

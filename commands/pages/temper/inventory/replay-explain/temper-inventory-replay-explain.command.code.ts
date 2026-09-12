@@ -70,7 +70,7 @@ function itemKeySaid(itemKey: ExplainTrace["itemKey"]): string | null {
   return `${itemKey.kind}:${entries.map(([key, value]) => `${key}=${String(value)}`).join(",")}`
 }
 
-export function outputOf(trace: ExplainTrace): JsonOutput {
+function outputOf(trace: ExplainTrace): JsonOutput {
   const perRule: RuleTraceRow[] = []
   const matched = trace.orderedWalk.matched
   if (matched !== undefined) {

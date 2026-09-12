@@ -6,7 +6,7 @@ export type Aimed = {
   readonly absolute: string
 }
 
-export function bodyHeld(root: string, agentId: string, at: string, absolute: string): boolean {
+function bodyHeld(root: string, agentId: string, at: string, absolute: string): boolean {
   const held = bytesAt(absolute)
   if (!("bytes" in held)) return false
   return sameBody(readingIn(root, agentId, at), blobIdOf(held.bytes))

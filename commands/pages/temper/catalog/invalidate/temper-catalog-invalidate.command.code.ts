@@ -39,7 +39,7 @@ export function madeSaid(folder: string): string {
   return `the folder ${folder}, which the game reads addons out of, was made by this`
 }
 
-export function wroteSaid(at: string): string {
+function wroteSaid(at: string): string {
   return `the request at ${at}, which the addon reads when the game next reloads`
 }
 

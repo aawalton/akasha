@@ -25,7 +25,7 @@ import { isGlobalVarargConstant } from "akasha/design/language/lua-compiler/visi
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import * as ts from "typescript"
 
-export function isOptimizedVarArgSpread(
+function isOptimizedVarArgSpread(
   context: TransformationContext,
   symbol: ts.Symbol,
   identifier: ts.Identifier

@@ -41,7 +41,7 @@ export function isMultiReturnCall(context: TransformationContext, expression: ts
   return ts.isCallExpression(expression) && returnsMultiType(context, expression)
 }
 
-export function isMultiFunctionNode(context: TransformationContext, node: ts.Node): boolean {
+function isMultiFunctionNode(context: TransformationContext, node: ts.Node): boolean {
   return (
     ts.isIdentifier(node) &&
     node.text === "$multi" &&

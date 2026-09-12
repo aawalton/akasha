@@ -110,7 +110,7 @@ export function judgedIn(path: string, unjudged: ReadonlySet<string>): boolean {
   return !unjudged.has(said.pageType)
 }
 
-export function unjudgedIn(root: string): ReadonlySet<string> {
+function unjudgedIn(root: string): ReadonlySet<string> {
   const found = new Set<string>()
   for (const page of everyOfType(root, PAGE_TYPE)) {
     const value = valueAt(page.path, root)
@@ -121,7 +121,7 @@ export function unjudgedIn(root: string): ReadonlySet<string> {
   return found
 }
 
-export function termsIn(root: string): readonly Term[] {
+function termsIn(root: string): readonly Term[] {
   const found: Term[] = []
   for (const page of everyOfType(root, TERM)) {
     const value = valueAt(page.path, root)

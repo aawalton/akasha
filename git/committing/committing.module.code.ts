@@ -17,7 +17,7 @@ export function glassSaid(reason: string): string {
 
 export const AUTHOR = "Akasha <akasha@alanwalton.com>"
 
-export const UNNAMED = "unnamed"
+const UNNAMED = "unnamed"
 
 const FILE_MODE = "100644"
 

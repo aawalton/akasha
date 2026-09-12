@@ -39,15 +39,15 @@ function pathFor(root: string, suffix: string): string | null {
   return join(dir, STATE_DIR, `${branchOf(root)}.${suffix}`)
 }
 
-export function pushStatePath(root: string): string | null {
+function pushStatePath(root: string): string | null {
   return pathFor(root, "state")
 }
 
-export function pushLockPath(root: string): string | null {
+function pushLockPath(root: string): string | null {
   return pathFor(root, "lock")
 }
 
-export function readPushState(root: string): PushState | null {
+function readPushState(root: string): PushState | null {
   const path = pushStatePath(root)
   if (path === null || !existsSync(path)) return null
   let parsed: unknown

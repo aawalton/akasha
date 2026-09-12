@@ -341,7 +341,7 @@ export function isPromiseClass(context: TransformationContext, node: ts.Identifi
   return isStandardLibraryType(context, type, undefined)
 }
 
-export function transformPromiseConstructorCall(
+function transformPromiseConstructorCall(
   context: TransformationContext,
   node: ts.CallExpression,
   calledMethod: ts.PropertyAccessExpression

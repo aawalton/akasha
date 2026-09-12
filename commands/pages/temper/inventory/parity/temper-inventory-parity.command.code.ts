@@ -72,7 +72,7 @@ function numbersAgree(web: number | undefined, addon: number | undefined): boole
   return (web ?? 0) === (addon ?? 0)
 }
 
-export function inputsDiff(trace: ParityAddonTrace, facts: ItemFacts): readonly DiffRow[] {
+function inputsDiff(trace: ParityAddonTrace, facts: ItemFacts): readonly DiffRow[] {
   const addon = trace.signals
   const checks: readonly {
     readonly field: string
@@ -155,7 +155,7 @@ function addonByIndexIn(trace: ParityAddonTrace): ReadonlyMap<number, AddonVerdi
   return found
 }
 
-export function walkDiff(
+function walkDiff(
   trace: ParityAddonTrace,
   webTrace: WalkTrace,
   rules: readonly CompiledOrderedRule[]

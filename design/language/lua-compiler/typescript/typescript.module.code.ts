@@ -95,10 +95,7 @@ export function isInGeneratorFunction(node: ts.Node): boolean {
   return declaration.asteriskToken !== undefined
 }
 
-export function getSymbolOfNode(
-  context: TransformationContext,
-  node: ts.Node
-): ts.Symbol | undefined {
+function getSymbolOfNode(context: TransformationContext, node: ts.Node): ts.Symbol | undefined {
   return node.symbol ?? context.checker.getSymbolAtLocation(node)
 }
 
@@ -138,7 +135,7 @@ export function isConstIdentifier(context: TransformationContext, node: ts.Node)
   )
 }
 
-export function isStandardLibraryDeclaration(
+function isStandardLibraryDeclaration(
   context: TransformationContext,
   declaration: ts.Declaration
 ): boolean {
@@ -176,7 +173,7 @@ export function typeAlwaysHasSomeOfFlags(
   return false
 }
 
-export function typeCanHaveSomeOfFlags(
+function typeCanHaveSomeOfFlags(
   context: TransformationContext,
   type: ts.Type,
   flags: ts.TypeFlags
@@ -253,7 +250,7 @@ function isAlwaysExplicitArrayType(context: TransformationContext, type: ts.Type
   return false
 }
 
-export function forTypeOrAnySupertype(
+function forTypeOrAnySupertype(
   context: TransformationContext,
   type: ts.Type,
   predicate: (candidate: ts.Type) => boolean

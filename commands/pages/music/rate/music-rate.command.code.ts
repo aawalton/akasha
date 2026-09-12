@@ -54,9 +54,9 @@ const RATING = rating.said
 
 const WHOLE = true
 
-export const ARTIST_PROSE = [reaction.slug]
+const ARTIST_PROSE = [reaction.slug]
 
-export const SONG_PROSE = [personalConnections.slug, insights.slug]
+const SONG_PROSE = [personalConnections.slug, insights.slug]
 
 const TAKES = [
   json,
@@ -100,7 +100,7 @@ export type Taken = {
 
 export type Reading = Taken | { readonly refused: readonly string[] }
 
-export function wrongIn(
+function wrongIn(
   target: string,
   grade: string | null,
   prose: ReadonlyMap<string, string>

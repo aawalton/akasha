@@ -26,7 +26,7 @@ export interface ReleaseTaskBody {
   readonly audio_format: "wav"
 }
 
-export function buildReleaseTaskBody(params: MusicRequestParams): ReleaseTaskBody {
+function buildReleaseTaskBody(params: MusicRequestParams): ReleaseTaskBody {
   return {
     prompt: params.prompt,
     lyrics: params.lyrics ?? "",
@@ -60,7 +60,7 @@ const ReleaseTaskResponseSchema = EnvelopeSchema.extend({
   data: ReleaseTaskDataSchema,
 })
 
-export function parseReleaseTaskResponse(raw: unknown): string {
+function parseReleaseTaskResponse(raw: unknown): string {
   const parsed = ReleaseTaskResponseSchema.parse(raw)
   if (parsed.code !== 200 || (parsed.error !== null && parsed.error !== undefined)) {
     throw new OperationalError(`release_task rejected: code=${parsed.code} error=${parsed.error}`)
@@ -82,7 +82,7 @@ const QueryResultResponseSchema = EnvelopeSchema.extend({
 
 export type TaskStatus = "running" | "succeeded" | "failed"
 
-export function interpretTaskStatus(code: number): TaskStatus {
+function interpretTaskStatus(code: number): TaskStatus {
   if (code === 1) return "succeeded"
   if (code === 2) return "failed"
   return "running"
@@ -95,7 +95,7 @@ export interface QueryResultOutcome {
 
 const ResultEntrySchema = z.object({ file: z.string().min(1) }).passthrough()
 
-export function parseQueryResult(raw: unknown, taskId: string): QueryResultOutcome {
+function parseQueryResult(raw: unknown, taskId: string): QueryResultOutcome {
   const parsed = QueryResultResponseSchema.parse(raw)
   if (parsed.code !== 200) {
     throw new OperationalError(`query_result rejected: code=${parsed.code} error=${parsed.error}`)
@@ -120,7 +120,7 @@ export function parseQueryResult(raw: unknown, taskId: string): QueryResultOutco
   return { status: "succeeded", audioUrl: entries[0]?.file }
 }
 
-export function assertWavBytes(bytes: Uint8Array): undefined {
+function assertWavBytes(bytes: Uint8Array): undefined {
   const riff =
     bytes.length > 44 &&
     bytes[0] === 0x52 &&

@@ -12,7 +12,7 @@ export const transformTypeOfExpression: FunctionVisitor<ts.TypeOfExpression> = (
   return transformLuaLibFunction(context, LuaLibFeature.TypeOf, node, innerExpression)
 }
 
-export function transformTypeOfBinaryExpression(
+function transformTypeOfBinaryExpression(
   context: TransformationContext,
   node: ts.BinaryExpression
 ): luaExpressions.Expression | undefined {

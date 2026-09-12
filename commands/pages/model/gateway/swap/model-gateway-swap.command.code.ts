@@ -64,7 +64,7 @@ export type Seams = {
   readonly liveIds: () => readonly string[]
 }
 
-export const SWAP_SEAMS: Seams = {
+const SWAP_SEAMS: Seams = {
   asking: swapped,
   found: (target) => resolveSeatTarget(target),
   liveIds: () => liveSeats().map((one) => one.agentId),
@@ -134,7 +134,7 @@ async function swapping(read: Taken, done: string[], seams: Seams): Promise<Answ
   return told(report)
 }
 
-export function swappedBy(read: Taken, seams: Seams): Promise<Answer> {
+function swappedBy(read: Taken, seams: Seams): Promise<Answer> {
   return answering(async (done) => naming(done, await swapping(read, done, seams)))
 }
 

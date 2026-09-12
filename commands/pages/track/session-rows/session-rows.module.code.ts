@@ -94,7 +94,7 @@ export function dayNow(now: Date): string {
   return `${String(wall.year)}-${padTwo(wall.month)}-${padTwo(wall.day)}`
 }
 
-export function pathsFor(root: string, day: string): { path: string; page: string } {
+function pathsFor(root: string, day: string): { path: string; page: string } {
   const under = join(root, DAYS_AT, day)
   return {
     path: join(under, `day-${day}.day.sessions.jsonl`),
@@ -102,12 +102,12 @@ export function pathsFor(root: string, day: string): { path: string; page: strin
   }
 }
 
-export function idIn(said: string): string | null {
+function idIn(said: string): string | null {
   const found = /id:\s*"([0-9a-f-]{36})"/.exec(said)
   return found === null ? null : (found[1] ?? null)
 }
 
-export function rowsIn(said: string): Row[] {
+function rowsIn(said: string): Row[] {
   return said
     .split("\n")
     .filter((one) => one.trim() !== "")

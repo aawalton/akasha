@@ -45,7 +45,7 @@ export function linesAt(root: string, path: string): number | null {
   }
 }
 
-export function widthsOf(rows: readonly (readonly string[])[]): readonly number[] {
+function widthsOf(rows: readonly (readonly string[])[]): readonly number[] {
   const wide = rows.reduce((most, one) => Math.max(most, one.length), 0)
   const found: number[] = []
   for (let at = 0; at < wide; at += 1) {

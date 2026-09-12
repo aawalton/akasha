@@ -4,7 +4,7 @@ export interface ColumnLayout {
   3: readonly (readonly number[])[]
 }
 
-export function distributeRoundRobin(
+function distributeRoundRobin(
   heights: readonly number[],
   columns: 1 | 2 | 3
 ): readonly (readonly number[])[] {
@@ -24,12 +24,9 @@ export function createRoundRobinLayout(heights: readonly number[]): ColumnLayout
   }
 }
 
-export const COLLAPSED_PANEL_HEIGHT = 84
+const COLLAPSED_PANEL_HEIGHT = 84
 
-export function collapseSubsequentHeights(
-  heights: readonly number[],
-  threshold = 1
-): readonly number[] {
+function collapseSubsequentHeights(heights: readonly number[], threshold = 1): readonly number[] {
   return heights.map((h, i) => (i < threshold ? h : COLLAPSED_PANEL_HEIGHT))
 }
 

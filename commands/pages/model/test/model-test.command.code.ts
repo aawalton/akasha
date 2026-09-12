@@ -30,7 +30,7 @@ export type Shown = {
   readonly show: boolean
 }
 
-export function sayingOf(got: readonly Got[]): string {
+function sayingOf(got: readonly Got[]): string {
   return got
     .map((one) => `${one.about}=${one.said.trim().replace(/\s+/g, " ").slice(0, SAID)}`)
     .join(" | ")

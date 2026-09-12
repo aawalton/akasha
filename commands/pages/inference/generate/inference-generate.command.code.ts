@@ -90,13 +90,13 @@ function isService(one: string): one is InferenceService {
   return (INFERENCE_SERVICES as readonly string[]).includes(one)
 }
 
-export function guidanceOf(raw: string | undefined): number | undefined {
+function guidanceOf(raw: string | undefined): number | undefined {
   if (raw === undefined) return undefined
   const held = Number(raw)
   return Number.isFinite(held) && held >= 0 ? held : undefined
 }
 
-export function wrongIn(taken: Taken): readonly string[] {
+function wrongIn(taken: Taken): readonly string[] {
   const wrong: string[] = []
   const raw = taken.guidance
   if (raw !== undefined && guidanceOf(raw) === undefined) {

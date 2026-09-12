@@ -18,7 +18,7 @@ export const isValidLuaIdentifier = (name: string, options: CompilerOptions) =>
     : /^[a-zA-Z_][a-zA-Z0-9_]*$/
   ).test(name)
 
-export const luaKeywords: ReadonlySet<string> = new Set([
+const luaKeywords: ReadonlySet<string> = new Set([
   "and",
   "bit",
   "bit32",
@@ -82,7 +82,7 @@ function checkName(context: TransformationContext, name: string, node: ts.Node):
   return isInvalid
 }
 
-export function hasUnsafeSymbolName(
+function hasUnsafeSymbolName(
   context: TransformationContext,
   symbol: ts.Symbol,
   tsOriginal: ts.Identifier

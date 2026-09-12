@@ -27,7 +27,7 @@ export type Encrypting = {
   readonly moded: (path: string, mode: number) => Promise<void>
 }
 
-export const ENCRYPTING: Encrypting = {
+const ENCRYPTING: Encrypting = {
   ran: runSops,
   wrote: async (path, body) => {
     await writeFile(path, body)

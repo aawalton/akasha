@@ -42,7 +42,7 @@ function seatsIn(root: string): readonly Seat[] {
   return [...found].sort((one, other) => (one.name < other.name ? -1 : 1))
 }
 
-export function restarted(root: string, seat: Seat, done: string[]): undefined {
+function restarted(root: string, seat: Seat, done: string[]): undefined {
   const holder = seat.holder
   if (holder === null) {
     done.push(`${seat.name} states no supervisor that can be read, so nothing was asked of it`)

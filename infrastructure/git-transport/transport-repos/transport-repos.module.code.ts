@@ -4,7 +4,7 @@ export interface TransportRepo {
   readonly mirrorUrl: string | null
 }
 
-export const TRANSPORT_REPOS: readonly TransportRepo[] = [
+const TRANSPORT_REPOS: readonly TransportRepo[] = [
   {
     name: "code",
     bareRepoPath: "/data/git/repositories/alan/code.git",

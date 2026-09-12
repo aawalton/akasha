@@ -10,7 +10,7 @@ export const TYPE = "A page answers to its type."
 
 const PAGE_TYPE = "page-type"
 
-export function typeSlugOf(path: string, types: ReadonlySet<string>): string | null {
+function typeSlugOf(path: string, types: ReadonlySet<string>): string | null {
   const said = partedIn(path)
   if (said === null || said.sections.length > 0) return null
   return types.has(said.pageType) ? said.pageType : null

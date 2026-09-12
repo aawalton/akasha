@@ -31,11 +31,7 @@ const BODY = filing(textArgument.said)
 
 export type Reading<T> = T | { readonly refused: readonly string[] }
 
-export function bodyIn(
-  root: string,
-  said: string | undefined,
-  path: string | undefined
-): Reading<string> {
+function bodyIn(root: string, said: string | undefined, path: string | undefined): Reading<string> {
   const held = filledIn(root, said, path, BODY)
   if ("refused" in held) return held
   if (held.text !== undefined) return held.text
@@ -46,7 +42,7 @@ export function bodyIn(
   }
 }
 
-export function credentialIn(named: string): Reading<string> {
+function credentialIn(named: string): Reading<string> {
   try {
     return requireEnv(named)
   } catch {
@@ -76,7 +72,7 @@ export type Named = {
 
 export type Reaching = (asked: TelnyxSendRequest) => Promise<Response>
 
-export async function reached(asked: TelnyxSendRequest): Promise<Response> {
+async function reached(asked: TelnyxSendRequest): Promise<Response> {
   return await fetch(asked.url, {
     method: asked.method,
     headers: asked.headers,
@@ -84,7 +80,7 @@ export async function reached(asked: TelnyxSendRequest): Promise<Response> {
   })
 }
 
-export async function sent(done: string[], named: Named, reaching: Reaching): Promise<Answer> {
+async function sent(done: string[], named: Named, reaching: Reaching): Promise<Answer> {
   const asked = buildTelnyxSendRequest({
     apiKey: named.apiKey,
     from: named.from,

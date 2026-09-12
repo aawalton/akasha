@@ -20,11 +20,11 @@ export type Ran = {
 
 const NETWORK_SUBCOMMANDS: ReadonlySet<string> = new Set(["push", "fetch", "ls-remote"])
 
-export const NETWORK_CEILING_MS = 10_000
+const NETWORK_CEILING_MS = 10_000
 
 export const PUSH_CEILING_MS = 1_800_000
 
-export const CAPPED_CEILING_MS = 10_000
+const CAPPED_CEILING_MS = 10_000
 
 const EMPTY = new Uint8Array()
 
@@ -54,7 +54,7 @@ export function gitTextOf(raw: Uint8Array): string {
   return new TextDecoder().decode(raw).trim()
 }
 
-export function gitBytes(
+function gitBytes(
   root: string,
   args: readonly string[],
   ceilingMs: number = NETWORK_CEILING_MS

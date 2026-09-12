@@ -69,7 +69,7 @@ function entrySaid(one: ProfileEntry): string {
   )
 }
 
-export function profileSaid(profile: BankProfile): readonly string[] {
+function profileSaid(profile: BankProfile): readonly string[] {
   const head =
     `[bank profile @ ${profile.timestamp}] bag=${profile.bankingBag} ` +
     `frames=${profile.frameCount} records=${profile.recordCount}` +

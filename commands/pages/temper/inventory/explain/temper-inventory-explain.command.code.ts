@@ -92,7 +92,7 @@ function indeterminateSaid(reason: IndeterminateReason): string {
     : `destination-unknown (${reason.detail})`
 }
 
-export function rowOf(one: RuleEvalResult): RuleTraceRow {
+function rowOf(one: RuleEvalResult): RuleTraceRow {
   let verdict: RuleTraceRow["verdict"] = "matched"
   let verdictDetail: string | null = null
   if (one.verdict.kind === "rejected") {
@@ -114,7 +114,7 @@ export function rowOf(one: RuleEvalResult): RuleTraceRow {
   }
 }
 
-export function outcomeOf(outcome: WalkOutcome): OutcomeJson {
+function outcomeOf(outcome: WalkOutcome): OutcomeJson {
   if (outcome.kind === "matched") {
     return {
       kind: "matched",
@@ -154,7 +154,7 @@ function ttcOf(item: InventoryItemData): TtcBreakdown {
   }
 }
 
-export function itemKeySaid(facts: ItemFacts): string | null {
+function itemKeySaid(facts: ItemFacts): string | null {
   const key = facts.itemKey
   if (key === undefined) return null
   if (key.kind === "recipe") return `recipe:${String(key.resultItemId)}`

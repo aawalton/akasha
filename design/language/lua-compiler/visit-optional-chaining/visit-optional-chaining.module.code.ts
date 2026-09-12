@@ -68,7 +68,7 @@ export function transformOptionalChain(
   return transformOptionalChainWithCapture(context, node, undefined).expression
 }
 
-export function transformOptionalChainWithCapture(
+function transformOptionalChainWithCapture(
   context: TransformationContext,
   tsNode: ts.OptionalChain,
   thisValueCapture: luaExpressions.Identifier | undefined,

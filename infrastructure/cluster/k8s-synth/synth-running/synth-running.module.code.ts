@@ -3,7 +3,7 @@ import { flagValue } from "akasha/utils/narrow/flag-value/flag-value.module.code
 
 const PREFIX = "[k8s-synth]"
 
-export function driftReport(drifts: readonly string[]): string {
+function driftReport(drifts: readonly string[]): string {
   return [
     `${PREFIX} ${drifts.length} generated file(s) drift from their synth.ts source:`,
     "",
@@ -14,7 +14,7 @@ export function driftReport(drifts: readonly string[]): string {
   ].join("\n")
 }
 
-export async function runSynth(argv: readonly string[]): Promise<number> {
+async function runSynth(argv: readonly string[]): Promise<number> {
   if (argv.includes("--check") && argv.includes("--write")) {
     process.stderr.write(`${PREFIX} --check and --write are mutually exclusive\n`)
     return 1

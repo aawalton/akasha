@@ -1,6 +1,6 @@
 import { git } from "akasha/git/capping/git-capping.module.code.ts"
 
-export const TRANSPORT = "origin"
+const TRANSPORT = "origin"
 
 export function servedTip(codeRoot: string, branch: string): string | null {
   const got = git(codeRoot, ["ls-remote", TRANSPORT, `refs/heads/${branch}`])

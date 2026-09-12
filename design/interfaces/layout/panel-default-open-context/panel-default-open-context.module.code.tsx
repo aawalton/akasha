@@ -10,7 +10,7 @@ export function usePanelDefaultOpen(): boolean | null {
   return use(PanelDefaultOpenContext)
 }
 
-export const PanelSummaryContext = createContext(false)
+const PanelSummaryContext = createContext(false)
 
 export const PanelSummaryProvider = PanelSummaryContext.Provider
 

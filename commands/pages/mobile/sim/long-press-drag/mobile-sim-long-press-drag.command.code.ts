@@ -38,7 +38,7 @@ export type Pressing = {
   readonly pressed: (base: string, sessionId: string, spec: LongPressDragSpec) => Promise<void>
 }
 
-export const PRESSING: Pressing = {
+const PRESSING: Pressing = {
   state: driving,
   pressed: longPressDrag,
 }

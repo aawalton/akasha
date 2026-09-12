@@ -82,7 +82,7 @@ function consumableSaid(value: unknown): string {
   return String(value)
 }
 
-export function rulesSaid(rules: ReadonlyArray<CompiledRule>): readonly string[] {
+function rulesSaid(rules: ReadonlyArray<CompiledRule>): readonly string[] {
   if (rules.length === 0) return ["(no compiled rules)"]
   const lines: string[] = []
   for (let at = 0; at < rules.length; at += 1) {
@@ -98,13 +98,13 @@ export function rulesSaid(rules: ReadonlyArray<CompiledRule>): readonly string[]
   return lines
 }
 
-export function consumablesSaid(wanted: Record<string, unknown>): readonly string[] {
+function consumablesSaid(wanted: Record<string, unknown>): readonly string[] {
   const keys = Object.keys(wanted)
   if (keys.length === 0) return ["(no wanted consumables)"]
   return keys.map((one) => `${one}\t${consumableSaid(wanted[one])}`)
 }
 
-export function prioritySaid(priority: ReadonlyArray<string>): readonly string[] {
+function prioritySaid(priority: ReadonlyArray<string>): readonly string[] {
   return priority.length === 0 ? ["(no character priority)"] : [...priority]
 }
 

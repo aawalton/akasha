@@ -3,9 +3,9 @@ import type {
   KeyLayer,
 } from "akasha/design/interfaces/primitives/keyboard-registry/keyboard-registry.module.code.ts"
 
-export const LAYER_ORDER: readonly KeyLayer[] = ["reserved", "conventional", "house"]
+const LAYER_ORDER: readonly KeyLayer[] = ["reserved", "conventional", "house"]
 
-export const LAYER_LABELS: Record<KeyLayer, string> = {
+const LAYER_LABELS: Record<KeyLayer, string> = {
   reserved: "Reserved",
   conventional: "Conventional",
   house: "House",
@@ -57,7 +57,7 @@ export function groupByLayerAndGroup(
   return sections
 }
 
-export function fuzzyMatchLabel(query: string, label: string): boolean {
+function fuzzyMatchLabel(query: string, label: string): boolean {
   const needle = query.trim().toLowerCase()
   if (needle.length === 0) return true
   const haystack = label.toLowerCase()

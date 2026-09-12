@@ -34,7 +34,7 @@ export function callOf(paths: readonly string[]): string {
   return `  ${READING} ${once.map((one) => `${FLAG} ${one}`).join(" ")}`
 }
 
-export function owedOf(warrant: Warrant): string {
+function owedOf(warrant: Warrant): string {
   const over = warrant.over
   if (over === undefined || over === warrant.path) return warrant.owed
   return `${warrant.owed} ${OWED_OVER} ${over}.`

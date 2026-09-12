@@ -30,11 +30,11 @@ import type {
 } from "akasha/infrastructure/cluster/provisioning/talos/schema/schema.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
-export const SCHEMATIC_ENV = "TALOS_SCHEMATIC_ID"
+const SCHEMATIC_ENV = "TALOS_SCHEMATIC_ID"
 
 export type Named = { readonly node: string; readonly output?: string }
 
-export function schematicSaid(): string {
+function schematicSaid(): string {
   return optionalEnv(SCHEMATIC_ENV) ?? PLACEHOLDER_SCHEMATIC_ID
 }
 

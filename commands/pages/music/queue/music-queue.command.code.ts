@@ -44,7 +44,7 @@ export type Queueing = Starting & {
   readonly addToQueue: (uri: string, options: DeviceOption) => Promise<void>
 }
 
-export const QUEUEING: Queueing = {
+const QUEUEING: Queueing = {
   resolveQueryToTrack,
   resolveDeviceId,
   startResumePlayback,
@@ -57,7 +57,7 @@ export type QueueEnvelope = {
   readonly deviceId: string | null
 }
 
-export function queueEnvelopeFor(
+function queueEnvelopeFor(
   queries: readonly string[],
   tracks: readonly ResolvedTrack[],
   deviceId: string | undefined
@@ -65,17 +65,17 @@ export function queueEnvelopeFor(
   return { queries, tracks, deviceId: deviceId ?? null }
 }
 
-export function trackLabelFor(track: ResolvedTrack): string {
+function trackLabelFor(track: ResolvedTrack): string {
   const label = track.name ?? track.uri
   const suffix = track.artists.length > 0 ? ` — ${track.artists.join(", ")}` : ""
   return `${label}${suffix}`
 }
 
-export function playingLineFor(track: ResolvedTrack): string {
+function playingLineFor(track: ResolvedTrack): string {
   return `▶ Playing "${trackLabelFor(track)}"`
 }
 
-export function queuedLineFor(track: ResolvedTrack): string {
+function queuedLineFor(track: ResolvedTrack): string {
   return `  + queued "${trackLabelFor(track)}"`
 }
 

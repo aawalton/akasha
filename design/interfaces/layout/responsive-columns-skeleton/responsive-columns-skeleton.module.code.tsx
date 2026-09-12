@@ -40,7 +40,7 @@ export function ResponsiveColumnsSkeleton({ layout }: { layout: ColumnLayout }) 
   )
 }
 
-export function SkeletonPanelCard({ height }: { height: number }) {
+function SkeletonPanelCard({ height }: { height: number }) {
   const surface = useSurface()
   return (
     <div

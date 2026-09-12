@@ -33,7 +33,7 @@ const NOTHING_KEPT =
 
 export type Named = { readonly slug: string; readonly label: string; readonly path: string }
 
-export function rungsIn(root: string): ReadonlyMap<number, number> {
+function rungsIn(root: string): ReadonlyMap<number, number> {
   const found = new Map<number, number>()
   const asked = asking(root, {
     pageTypeSlug: CLOSENESS_LEVEL,

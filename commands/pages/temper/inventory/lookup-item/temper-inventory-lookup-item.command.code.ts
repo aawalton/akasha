@@ -98,7 +98,7 @@ function jsonOf(
   return base
 }
 
-export function rowsOf(
+function rowsOf(
   itemId: number,
   match: InventoryItemData | null,
   classification: Classification,

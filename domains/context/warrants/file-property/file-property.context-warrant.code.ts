@@ -17,7 +17,7 @@ export const PROPERTY =
 
 const loadFrom = createRequire(import.meta.url)
 
-export function statedIn(root: string, path: string, slug: string): readonly string[] {
+function statedIn(root: string, path: string, slug: string): readonly string[] {
   let mod: Record<string, unknown>
   try {
     mod = loadFrom(join(root, path)) as Record<string, unknown>

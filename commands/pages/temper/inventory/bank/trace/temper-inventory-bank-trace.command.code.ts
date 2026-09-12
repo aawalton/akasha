@@ -104,7 +104,7 @@ function pacedSaid(paced: PacedDispatch | undefined): string {
   )
 }
 
-export function traceSaid(trace: BankTrace): readonly string[] {
+function traceSaid(trace: BankTrace): readonly string[] {
   return [
     `[bank trace @ ${trace.timestamp}] bag=${trace.bankingBag} ` +
       `open-handler=${ms(trace.openHandlerMs)} open→close=${ms(trace.openToCloseMs)}`,

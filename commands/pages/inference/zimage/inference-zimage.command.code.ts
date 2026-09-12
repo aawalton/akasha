@@ -89,7 +89,7 @@ function isReal(said: string): boolean {
   return said.trim() !== "" && Number.isFinite(Number(said))
 }
 
-export function wrongIn(taken: Taken): readonly string[] {
+function wrongIn(taken: Taken): readonly string[] {
   const wrong: string[] = []
   const pushed = taken.guidance
   if (pushed !== undefined && !isReal(pushed)) {
@@ -121,7 +121,7 @@ export type Staging = {
   readonly renamed: (from: string, to: string) => Promise<void>
 }
 
-export const STAGING: Staging = { copied: copyFile, renamed: rename }
+const STAGING: Staging = { copied: copyFile, renamed: rename }
 
 export function scratchAt(dest: string): string {
   return `${dest}.staging-${String(process.pid)}`

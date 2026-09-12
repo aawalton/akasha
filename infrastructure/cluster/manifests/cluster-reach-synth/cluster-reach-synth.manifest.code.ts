@@ -1,6 +1,6 @@
 import { synthMulti } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
 
-export const REACH_NAME = "cluster-reach"
+const REACH_NAME = "cluster-reach"
 
 const RBAC_API = "rbac.authorization.k8s.io/v1"
 

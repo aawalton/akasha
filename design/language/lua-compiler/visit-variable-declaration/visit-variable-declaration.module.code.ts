@@ -166,7 +166,7 @@ export function transformBindingPattern(
   return result
 }
 
-export function transformBindingVariableDeclaration(
+function transformBindingVariableDeclaration(
   context: TransformationContext,
   bindingPattern: ts.BindingPattern,
   initializer?: ts.Expression

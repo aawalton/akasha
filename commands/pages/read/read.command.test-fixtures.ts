@@ -166,7 +166,7 @@ export function namingEach(paths: readonly string[]): readonly string[] {
   return said
 }
 
-export function committed(root: string, path: string): undefined {
+function committed(root: string, path: string): undefined {
   for (const one of [
     ["init", "--quiet"],
     ["add", "--", path],
@@ -176,7 +176,7 @@ export function committed(root: string, path: string): undefined {
   }
 }
 
-export function manyFiles(): readonly { readonly at: string; readonly body: string }[] {
+function manyFiles(): readonly { readonly at: string; readonly body: string }[] {
   const made: { readonly at: string; readonly body: string }[] = []
   for (let one = 0; one < MANY; one += 1) {
     const line = `${"x".repeat(70)}\n`
@@ -185,7 +185,7 @@ export function manyFiles(): readonly { readonly at: string; readonly body: stri
   return made
 }
 
-export function namingAll(): readonly string[] {
+function namingAll(): readonly string[] {
   const said: string[] = []
   for (let one = 0; one < MANY; one += 1) said.push("--file-path", `akasha/many/file-${one}.ts`)
   return said
@@ -378,7 +378,7 @@ function rootWarranting(
   return root
 }
 
-export function manyPages(): readonly { readonly at: string; readonly body: string }[] {
+function manyPages(): readonly { readonly at: string; readonly body: string }[] {
   const made: { readonly at: string; readonly body: string }[] = []
   for (let one = 0; one < MANY; one += 1) {
     const line = `${"x".repeat(70)}\n`
@@ -387,7 +387,7 @@ export function manyPages(): readonly { readonly at: string; readonly body: stri
   return made
 }
 
-export function namingPages(): readonly string[] {
+function namingPages(): readonly string[] {
   const said: string[] = []
   for (let one = 0; one < MANY; one += 1) {
     said.push("--file-path", `akasha/many/page-${one}.thing.ts`)

@@ -52,7 +52,7 @@ export type Running = (call: { readonly args: readonly string[] }) => Promise<un
 
 export type Keeping = (workDir: string, cluster: string) => Promise<string>
 
-export async function keptTalosconfig(workDir: string, cluster: string): Promise<string> {
+async function keptTalosconfig(workDir: string, cluster: string): Promise<string> {
   const persisted = clusterTalosconfigPath(cluster)
   await mkdir(dirname(persisted), { recursive: true, mode: 0o700 })
   await copyFile(join(workDir, "talosconfig"), persisted)

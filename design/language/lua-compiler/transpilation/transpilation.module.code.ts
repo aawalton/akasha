@@ -14,7 +14,7 @@ import { normalizeSlashes } from "akasha/design/language/lua-compiler/utils/util
 import * as ts from "typescript"
 import { z } from "zod"
 
-export function transpileFiles(
+function transpileFiles(
   rootNames: readonly string[],
   options: CompilerOptions = {},
   writeFile?: ts.WriteFileCallback
@@ -48,7 +48,7 @@ export function transpileProject(
 
 const libCache: { [key: string]: ts.SourceFile } = {}
 
-export function createVirtualProgram(
+function createVirtualProgram(
   input: Record<string, string>,
   options: CompilerOptions = {}
 ): ts.Program {
@@ -101,7 +101,7 @@ export interface TranspileVirtualProjectResult {
   transpiledFiles: readonly TranspiledFile[]
 }
 
-export function transpileVirtualProject(
+function transpileVirtualProject(
   files: Record<string, string>,
   options: CompilerOptions = {}
 ): TranspileVirtualProjectResult {

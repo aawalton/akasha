@@ -49,7 +49,7 @@ export type Running = {
   readonly ran: (base: string, sessionId: string, script: string) => Promise<unknown>
 }
 
-export const RUNNING: Running = {
+const RUNNING: Running = {
   state: driving,
   ran: executeScript,
 }

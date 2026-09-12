@@ -16,7 +16,7 @@ const NO_ACCOUNT =
   "no claude account page was read, so the set would carry no account launcher at all — " +
   "the shell keeps the definitions it started with rather than losing them silently"
 
-export function accountsIn(root: string): readonly AliasEntry[] {
+function accountsIn(root: string): readonly AliasEntry[] {
   return [...aliasIndexesIn(root)]
     .map(([account, aliasIndex]) => ({ account, aliasIndex }))
     .sort((a, b) => a.aliasIndex - b.aliasIndex)

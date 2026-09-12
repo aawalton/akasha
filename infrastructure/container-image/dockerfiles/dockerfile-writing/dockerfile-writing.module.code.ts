@@ -18,7 +18,7 @@ import {
 import { generateToolImageDockerfile } from "akasha/infrastructure/container-image/dockerfiles/dockerfile-tool-image/dockerfile-tool-image.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 
-export function extensionsOf(config: ServiceConfig): DockerfileExtensions {
+function extensionsOf(config: ServiceConfig): DockerfileExtensions {
   if (config.extensionFile === undefined) return {}
   return parseDockerfileExtensions(readJson(join(ROOT, config.extensionFile)))
 }

@@ -26,7 +26,7 @@ export type Tearing = {
   readonly stopped: () => Promise<unknown>
 }
 
-export const TEARING: Tearing = {
+const TEARING: Tearing = {
   loaded: loadSessionState,
   ended: deleteSession,
   cleared: clearSessionState,

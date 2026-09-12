@@ -89,7 +89,7 @@ function isMode(one: string): one is Mode {
   return (MODES as readonly string[]).includes(one)
 }
 
-export function wrongIn(taken: Taken): readonly string[] {
+function wrongIn(taken: Taken): readonly string[] {
   const wrong: string[] = []
   if (!isPriority(taken.priority)) {
     const lane = taken.priority

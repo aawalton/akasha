@@ -56,7 +56,7 @@ export function wrongIn(taken: Taken): readonly string[] {
   return wrong
 }
 
-export function askedOf(taken: Taken, at: number, salt: number): Asked {
+function askedOf(taken: Taken, at: number, salt: number): Asked {
   return {
     agentId: taken.agentId ?? agentIdFor(at, salt),
     logDir: taken.gatewayLogDir ?? null,

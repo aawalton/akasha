@@ -15,7 +15,7 @@ const CODE = "code"
 
 const TS = "ts"
 
-export const MEASURED = "measured"
+const MEASURED = "measured"
 
 export type Measuring = (root: string) => Promise<readonly string[]>
 

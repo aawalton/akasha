@@ -48,7 +48,7 @@ function str(value: string | undefined): string {
   return value === undefined ? "nil" : `"${value}"`
 }
 
-export function craftTraceSaid(traces: readonly MasterCraftTrace[]): readonly string[] {
+function craftTraceSaid(traces: readonly MasterCraftTrace[]): readonly string[] {
   const lines: string[] = [`[master craft traces] ${traces.length} entry(ies), oldest first`]
   for (const one of traces) {
     lines.push(

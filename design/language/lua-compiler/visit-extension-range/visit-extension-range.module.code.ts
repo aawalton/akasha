@@ -16,7 +16,7 @@ export function isRangeFunction(
   return isRangeFunctionNode(context, expression.expression)
 }
 
-export function isRangeFunctionNode(context: TransformationContext, node: ts.Node): boolean {
+function isRangeFunctionNode(context: TransformationContext, node: ts.Node): boolean {
   return (
     ts.isIdentifier(node) &&
     node.text === "$range" &&

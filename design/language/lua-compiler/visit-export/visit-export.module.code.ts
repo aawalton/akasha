@@ -181,7 +181,7 @@ function transformExportSpecifiersFrom(
   return luaStatements.createDoStatement(result, statement)
 }
 
-export const getExported = (context: TransformationContext, exportSpecifiers: ts.NamedExports) =>
+const getExported = (context: TransformationContext, exportSpecifiers: ts.NamedExports) =>
   exportSpecifiers.elements.filter((exportSpecifier) =>
     context.resolver.isValueAliasDeclaration(exportSpecifier)
   )

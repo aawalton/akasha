@@ -30,13 +30,13 @@ import type {
 import { runSsh } from "akasha/infrastructure/cluster/provisioning/talos/ssh/ssh.module.code.ts"
 import { waitForPort } from "akasha/infrastructure/cluster/provisioning/talos/wait-for-port/wait-for-port.module.code.ts"
 
-export const AUTO = "auto"
+const AUTO = "auto"
 
-export const KEXEC = "kexec"
+const KEXEC = "kexec"
 
-export const DD = "dd"
+const DD = "dd"
 
-export const METHODS = [AUTO, KEXEC, DD] as const
+const METHODS = [AUTO, KEXEC, DD] as const
 
 export type Method = (typeof METHODS)[number]
 
@@ -129,11 +129,7 @@ nohup sudo bash -c 'sleep 5 && reboot' >/dev/null 2>&1 &
 `
 }
 
-export function installScript(
-  method: Method,
-  urls: Urls,
-  installDisk: string | null
-): string | null {
+function installScript(method: Method, urls: Urls, installDisk: string | null): string | null {
   const preflight = preflightBody()
   const kexec = kexecBody(urls)
   if (method === KEXEC) {

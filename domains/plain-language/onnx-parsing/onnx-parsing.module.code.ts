@@ -101,7 +101,7 @@ function modelFileAt(propertySlug: string, held: string): string {
   return at
 }
 
-export function bundledModel(): ModelFiles {
+function bundledModel(): ModelFiles {
   return {
     parserWeights: modelFileAt("parser-weights", "onnx"),
     relationWeights: modelFileAt("relation-weights", "onnx"),
@@ -320,7 +320,7 @@ async function parsedText(held: Loaded, text: string): Promise<ParsedSentence[]>
   return found
 }
 
-export async function loadOnnxParser(options: OnnxParserOptions = {}): Promise<DependencyParser> {
+async function loadOnnxParser(options: OnnxParserOptions = {}): Promise<DependencyParser> {
   const maxBatchSentences = options.maxBatchSentences ?? DEFAULT_MAX_BATCH_SENTENCES
   if (!Number.isInteger(maxBatchSentences) || maxBatchSentences < 1) {
     throw new Error("a batch holds a whole number of sentences, one or more")

@@ -1,7 +1,7 @@
 import { relative } from "node:path"
 import { textThere } from "akasha/utils/fs/text-there/text-there.module.code.ts"
 
-export function firstDiffLine(actual: string, expected: string): string {
+function firstDiffLine(actual: string, expected: string): string {
   const actualLines = actual.split("\n")
   const expectedLines = expected.split("\n")
   const limit = Math.max(actualLines.length, expectedLines.length)

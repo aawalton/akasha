@@ -56,7 +56,7 @@ function bool(value: boolean | undefined): string {
   return value === undefined ? "nil" : value ? "y" : "n"
 }
 
-export function consumableTraceSaid(traces: readonly MasterConsumableTrace[]): readonly string[] {
+function consumableTraceSaid(traces: readonly MasterConsumableTrace[]): readonly string[] {
   const lines: string[] = [`[master consumable traces] ${traces.length} entry(ies), oldest first`]
   for (const one of traces) {
     lines.push(
