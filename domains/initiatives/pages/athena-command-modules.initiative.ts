@@ -53,12 +53,7 @@ export const athenaCommandModules = {
       statement:
         "A command that wrote before it threw says in its refusal what that command wrote.",
       workingMemory:
-        "`faulted` at `answering/command-answering.module.code.ts:44-46` answers an empty report, and `answering` at `:48-54` routes every escaped throw through it. The wrapper holds no partial report, because `work()` hands one back only on return, so each writer catches its own throw. `index-refresh.command.code.ts:26-31` and `git-restore.command.code.ts:352` already do. Five are left: `deploy`, `agent subagent-sweep`, `music capture`, `mechanical-filing`, `track landing`.\n",
-    },
-    {
-      statement: "A fault a command answers with says where that fault was thrown.",
-      workingMemory:
-        "`whyOf` at `fault-saying.module.code.ts:12-14` cuts the message at 240 and is the whole of a fault refusal: `faulted` at `answering/command-answering.module.code.ts:44-46` builds it from `whyOf` alone. `framesOf` at `:16-27` already reads file, line and column off the stack, and its one reader is `checks/modules/checking/checking.module.code.ts:305,308`. The frame goes on a line of its own, so `fault-saying.module.ts:59` still holds. The 240 cut stays.\n",
+        "`agent subagent-sweep`, `music capture`, `mechanical-filing` and `track landing` each answer what they wrote beside their refusals now, each with a test. `deploy.command.code.ts:245` catches its own throw and answers the commit and that what it put up may be partial. No test reaches `putUp`, and `deploy.command.ts` takes no invariant for it until its help notes move out. Does deploy thread back what it put up before it threw, or is the commit enough?\n",
     },
     {
       statement: "A refusal's exit code says what kind of thing went wrong.",
