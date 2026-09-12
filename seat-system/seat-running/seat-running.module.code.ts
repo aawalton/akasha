@@ -24,6 +24,10 @@ import {
 import { SEAT_HELP } from "akasha/agents/seats/modules/help/seat-help.module.code.ts"
 import { refuseInitiative } from "akasha/agents/seats/modules/initiative/seat-initiative.module.code.ts"
 import {
+  nameableFrom,
+  nameableStated,
+} from "akasha/agents/seats/modules/nameable/seat-nameable.module.code.ts"
+import {
   AKASHA,
   akashaRoot,
   resolveRoots,
@@ -34,10 +38,6 @@ import {
   personPrincipals,
 } from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 import { nameStanding } from "akasha/seat-system/seat-name-stands/seat-name-stands.module.code.ts"
-import {
-  nameableFrom,
-  nameableStated,
-} from "akasha/seat-system/seat-nameable/seat-nameable.module.code.ts"
 import { akashaSeatRelPath } from "akasha/seat-system/seat-page-akasha/seat-page-akasha.module.code.ts"
 import { statedFromHistory } from "akasha/seat-system/seat-page-history/seat-page-history.module.code.ts"
 import { writeSeatPage } from "akasha/seat-system/seat-page-writing/seat-page-writing.module.code.ts"
