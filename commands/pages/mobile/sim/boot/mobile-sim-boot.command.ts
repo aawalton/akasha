@@ -13,13 +13,11 @@ export const mobileSimBoot = {
       takes: "the simulator to boot, the first booted or available iPhone where none is said",
     },
   ],
-  helpNotes: [
-    "this is the first call of a driving loop, and `mobile sim open-url` is the second.",
-    "the Appium server on the mac is started only where it is down, so a second call costs nothing.",
-    "a simulator already booted is left booted rather than restarted.",
-    "the udid and the Appium base are given back, since the calls after this one are answered against them.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The answer carries the simulator's udid and the Appium base.",
+    },
     {
       invariantKind: "departure",
       statement: "An Appium server already up is left up.",
