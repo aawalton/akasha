@@ -1,4 +1,3 @@
-import { LIBCOMBAT_STAT_STATUS_EFFECT_CHANCE } from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
 import {
   COMBAT_MECHNIC_FLAG_TABLE_LOAD,
   COMBAT_MECHNIC_FLAG_TABLE_LOAD_LEGACY,
@@ -28,6 +27,7 @@ import type {
   CombatLogLine,
   Fight,
 } from "akasha/temper/combat-addon/modules/combat-fight-data-types/combat-fight-data-types.module.code.ts"
+import { LIBCOMBAT_STAT_STATUS_EFFECT_CHANCE } from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 
 const CHARSET = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-_"
 

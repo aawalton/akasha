@@ -1,12 +1,3 @@
-import { fireCombatEvent } from "akasha/temper/combat-addon/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
-import {
-  DESTRO_STAFF_TYPES,
-  DIVINE_SLOTS,
-  LIB_EVENT_NAMESPACE,
-  LIBCOMBAT_EVENT_BOSSHP,
-  LIBCOMBAT_EVENT_PERFORMANCE,
-  PLAYER_ACTIVATED_TIME,
-} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
 import {
   LOG_LEVEL_INFO,
   LOG_LEVEL_WARNING,
@@ -18,6 +9,15 @@ import {
   setLastBossHealthValue,
 } from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
 import type { StatusEffectBonusData } from "akasha/temper/combat-addon/combat-lib-types/combat-lib-types.module.code.ts"
+import { fireCombatEvent } from "akasha/temper/combat-addon/modules/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
+import {
+  DESTRO_STAFF_TYPES,
+  DIVINE_SLOTS,
+  LIB_EVENT_NAMESPACE,
+  LIBCOMBAT_EVENT_BOSSHP,
+  LIBCOMBAT_EVENT_PERFORMANCE,
+  PLAYER_ACTIVATED_TIME,
+} from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 
 export function getSlottedAbilityId(
   actionSlotIndex: number,

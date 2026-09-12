@@ -1,13 +1,4 @@
 import {
-  hasActiveCallbackType,
-  setUpdateEventRegistrationsHook,
-} from "akasha/temper/combat-addon/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
-import {
-  LIB_EVENT_NAMESPACE,
-  LIBCOMBAT_EVENT_MAX,
-  LIBCOMBAT_EVENT_MIN,
-} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
-import {
   LOG_LEVEL_VERBOSE,
   log,
 } from "akasha/temper/combat-addon/combat-lib-log/combat-lib-log.module.code.ts"
@@ -21,6 +12,15 @@ import {
   EVENT_GROUP_ACTIVE,
   SLOT_SKILLS,
 } from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
+import {
+  hasActiveCallbackType,
+  setUpdateEventRegistrationsHook,
+} from "akasha/temper/combat-addon/modules/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
+import {
+  LIB_EVENT_NAMESPACE,
+  LIBCOMBAT_EVENT_MAX,
+  LIBCOMBAT_EVENT_MIN,
+} from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 
 export type RegisteredEventCallback = (this: void, eventCode: number, ...args: never[]) => void
 

@@ -1,22 +1,3 @@
-import {
-  registerForCombatEvent,
-  unregisterForCombatEvent,
-} from "akasha/temper/combat-addon/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
-import {
-  LIBCOMBAT_EVENT_DAMAGE_IN,
-  LIBCOMBAT_EVENT_DAMAGE_OUT,
-  LIBCOMBAT_EVENT_DAMAGE_SELF,
-  LIBCOMBAT_EVENT_FIGHTRECAP,
-  LIBCOMBAT_EVENT_FIGHTSUMMARY,
-  LIBCOMBAT_EVENT_GROUPRECAP,
-  LIBCOMBAT_EVENT_HEAL_IN,
-  LIBCOMBAT_EVENT_HEAL_OUT,
-  LIBCOMBAT_EVENT_HEAL_SELF,
-  LIBCOMBAT_EVENT_MESSAGES,
-  LIBCOMBAT_EVENT_PERFORMANCE,
-  LIBCOMBAT_EVENT_QUICKSLOT,
-  LIBCOMBAT_EVENT_UNITS,
-} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
 import { DATA as libCombatData } from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
 import type {
   Fight,
@@ -47,6 +28,25 @@ import type {
   CoreLogLine,
   CurrentData,
 } from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
+import {
+  registerForCombatEvent,
+  unregisterForCombatEvent,
+} from "akasha/temper/combat-addon/modules/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
+import {
+  LIBCOMBAT_EVENT_DAMAGE_IN,
+  LIBCOMBAT_EVENT_DAMAGE_OUT,
+  LIBCOMBAT_EVENT_DAMAGE_SELF,
+  LIBCOMBAT_EVENT_FIGHTRECAP,
+  LIBCOMBAT_EVENT_FIGHTSUMMARY,
+  LIBCOMBAT_EVENT_GROUPRECAP,
+  LIBCOMBAT_EVENT_HEAL_IN,
+  LIBCOMBAT_EVENT_HEAL_OUT,
+  LIBCOMBAT_EVENT_HEAL_SELF,
+  LIBCOMBAT_EVENT_MESSAGES,
+  LIBCOMBAT_EVENT_PERFORMANCE,
+  LIBCOMBAT_EVENT_QUICKSLOT,
+  LIBCOMBAT_EVENT_UNITS,
+} from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 
 let updateReportHook: ((this: void) => void) | undefined
 

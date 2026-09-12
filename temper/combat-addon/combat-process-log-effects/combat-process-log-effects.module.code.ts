@@ -1,4 +1,3 @@
-import { ABILITY_ID_ZEN } from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
 import {
   isEffectLogLine,
   isPlayerStatsLogLine,
@@ -24,6 +23,7 @@ import {
   checkInstance,
   getCalculated,
 } from "akasha/temper/combat-addon/modules/combat-fight-model/combat-fight-model.module.code.ts"
+import { ABILITY_ID_ZEN } from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 
 function getStackData(instance: EffectInstance | undefined, stacks: number): EffectStackData {
   const stackData = instance !== undefined ? instance[stacks] : undefined

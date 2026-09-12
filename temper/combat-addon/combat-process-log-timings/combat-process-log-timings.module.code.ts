@@ -1,14 +1,4 @@
 import {
-  getFormattedAbilityName,
-  LIBCOMBAT_MESSAGE_WEAPONSWAP,
-  LIBCOMBAT_SKILLSTATUS_BEGIN_CHANNEL,
-  LIBCOMBAT_SKILLSTATUS_BEGIN_DURATION,
-  LIBCOMBAT_SKILLSTATUS_INSTANT,
-  LIBCOMBAT_SKILLSTATUS_QUEUE,
-  LIBCOMBAT_SKILLSTATUS_REGISTERED,
-  LIBCOMBAT_SKILLSTATUS_SUCCESS,
-} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
-import {
   isMessagesLogLine,
   isPerformanceLogLine,
   isQuickslotLogLine,
@@ -35,6 +25,16 @@ import {
   getCurrentBar,
   setCurrentBar,
 } from "akasha/temper/combat-addon/modules/combat-fight-model/combat-fight-model.module.code.ts"
+import {
+  getFormattedAbilityName,
+  LIBCOMBAT_MESSAGE_WEAPONSWAP,
+  LIBCOMBAT_SKILLSTATUS_BEGIN_CHANNEL,
+  LIBCOMBAT_SKILLSTATUS_BEGIN_DURATION,
+  LIBCOMBAT_SKILLSTATUS_INSTANT,
+  LIBCOMBAT_SKILLSTATUS_QUEUE,
+  LIBCOMBAT_SKILLSTATUS_REGISTERED,
+  LIBCOMBAT_SKILLSTATUS_SUCCESS,
+} from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 
 export function processLogSkillTimings(fight: CmxFight, logline: CoreLogLine): undefined {
   if (!isSkillTimingsLogLine(logline)) {

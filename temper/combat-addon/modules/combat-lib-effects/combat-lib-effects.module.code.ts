@@ -1,16 +1,3 @@
-import { fireCombatEvent } from "akasha/temper/combat-addon/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
-import {
-  ABILITY_ID_ZEN,
-  BAD_ABILITY,
-  getFormattedAbilityName,
-  LIBCOMBAT_EVENT_EFFECTS_IN,
-  LIBCOMBAT_EVENT_EFFECTS_OUT,
-  LIBCOMBAT_EVENT_GROUPEFFECTS_IN,
-  LIBCOMBAT_EVENT_GROUPEFFECTS_OUT,
-  SPECIAL_DEBUFFS,
-  STATUS_EFFECT_IDS,
-} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
-import { addToEffectBuffer } from "akasha/temper/combat-addon/combat-lib-effects-buffer/combat-lib-effects-buffer.module.code.ts"
 import {
   LOG_LEVEL_VERBOSE,
   log,
@@ -28,6 +15,19 @@ import {
   updateForceOfNatureData,
   updateZenData,
 } from "akasha/temper/combat-addon/combat-lib-units/combat-lib-units.module.code.ts"
+import { fireCombatEvent } from "akasha/temper/combat-addon/modules/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
+import {
+  ABILITY_ID_ZEN,
+  BAD_ABILITY,
+  getFormattedAbilityName,
+  LIBCOMBAT_EVENT_EFFECTS_IN,
+  LIBCOMBAT_EVENT_EFFECTS_OUT,
+  LIBCOMBAT_EVENT_GROUPEFFECTS_IN,
+  LIBCOMBAT_EVENT_GROUPEFFECTS_OUT,
+  SPECIAL_DEBUFFS,
+  STATUS_EFFECT_IDS,
+} from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
+import { addToEffectBuffer } from "akasha/temper/combat-addon/modules/combat-lib-effects-buffer/combat-lib-effects-buffer.module.code.ts"
 
 const GROUP_EFFECT_NONE = 0
 const GROUP_EFFECT_IN = 1

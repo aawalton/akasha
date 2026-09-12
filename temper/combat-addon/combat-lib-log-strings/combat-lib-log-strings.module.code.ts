@@ -1,22 +1,3 @@
-import {
-  LIBCOMBAT_EVENT_BOSSHP,
-  LIBCOMBAT_EVENT_DAMAGE_IN,
-  LIBCOMBAT_EVENT_DAMAGE_OUT,
-  LIBCOMBAT_EVENT_DAMAGE_SELF,
-  LIBCOMBAT_EVENT_DEATH,
-  LIBCOMBAT_EVENT_EFFECTS_IN,
-  LIBCOMBAT_EVENT_EFFECTS_OUT,
-  LIBCOMBAT_EVENT_GROUPEFFECTS_IN,
-  LIBCOMBAT_EVENT_GROUPEFFECTS_OUT,
-  LIBCOMBAT_EVENT_HEAL_IN,
-  LIBCOMBAT_EVENT_HEAL_OUT,
-  LIBCOMBAT_EVENT_HEAL_SELF,
-  LIBCOMBAT_EVENT_MESSAGES,
-  LIBCOMBAT_EVENT_PERFORMANCE,
-  LIBCOMBAT_EVENT_PLAYERSTATS,
-  LIBCOMBAT_EVENT_RESOURCES,
-  LIBCOMBAT_EVENT_SKILL_TIMINGS,
-} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
 import { isLogLine } from "akasha/temper/combat-addon/combat-lib-log-lines/combat-lib-log-lines.module.code.ts"
 import {
   type CombatLogLine,
@@ -51,6 +32,25 @@ import {
 } from "akasha/temper/combat-addon/combat-lib-log-strings-text/combat-lib-log-strings-text.module.code.ts"
 import { getCurrentFight } from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
 import type { Fight } from "akasha/temper/combat-addon/combat-lib-types/combat-lib-types.module.code.ts"
+import {
+  LIBCOMBAT_EVENT_BOSSHP,
+  LIBCOMBAT_EVENT_DAMAGE_IN,
+  LIBCOMBAT_EVENT_DAMAGE_OUT,
+  LIBCOMBAT_EVENT_DAMAGE_SELF,
+  LIBCOMBAT_EVENT_DEATH,
+  LIBCOMBAT_EVENT_EFFECTS_IN,
+  LIBCOMBAT_EVENT_EFFECTS_OUT,
+  LIBCOMBAT_EVENT_GROUPEFFECTS_IN,
+  LIBCOMBAT_EVENT_GROUPEFFECTS_OUT,
+  LIBCOMBAT_EVENT_HEAL_IN,
+  LIBCOMBAT_EVENT_HEAL_OUT,
+  LIBCOMBAT_EVENT_HEAL_SELF,
+  LIBCOMBAT_EVENT_MESSAGES,
+  LIBCOMBAT_EVENT_PERFORMANCE,
+  LIBCOMBAT_EVENT_PLAYERSTATS,
+  LIBCOMBAT_EVENT_RESOURCES,
+  LIBCOMBAT_EVENT_SKILL_TIMINGS,
+} from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 
 export function getCombatLogString(
   fight: Fight | undefined,

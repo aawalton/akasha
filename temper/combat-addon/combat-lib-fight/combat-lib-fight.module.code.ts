@@ -1,17 +1,3 @@
-import { fireCombatEvent } from "akasha/temper/combat-addon/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
-import {
-  COMBAT_TIMEOUT,
-  LIB_EVENT_NAMESPACE,
-  LIBCOMBAT_EVENT_FIGHTSUMMARY,
-  LIBCOMBAT_EVENT_MESSAGES,
-  LIBCOMBAT_MESSAGE_COMBATEND,
-  LIBCOMBAT_MESSAGE_COMBATSTART,
-} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
-import {
-  getOtherBuffs,
-  getPlayerBuffs,
-  purgeEffectBuffer,
-} from "akasha/temper/combat-addon/combat-lib-effects-buffer/combat-lib-effects-buffer.module.code.ts"
 import {
   createFight,
   finishFight,
@@ -49,6 +35,20 @@ import type {
   FightCharData,
 } from "akasha/temper/combat-addon/combat-lib-types/combat-lib-types.module.code.ts"
 import { clearUnitCaches } from "akasha/temper/combat-addon/combat-lib-unit-cache/combat-lib-unit-cache.module.code.ts"
+import { fireCombatEvent } from "akasha/temper/combat-addon/modules/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
+import {
+  COMBAT_TIMEOUT,
+  LIB_EVENT_NAMESPACE,
+  LIBCOMBAT_EVENT_FIGHTSUMMARY,
+  LIBCOMBAT_EVENT_MESSAGES,
+  LIBCOMBAT_MESSAGE_COMBATEND,
+  LIBCOMBAT_MESSAGE_COMBATSTART,
+} from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
+import {
+  getOtherBuffs,
+  getPlayerBuffs,
+  purgeEffectBuffer,
+} from "akasha/temper/combat-addon/modules/combat-lib-effects-buffer/combat-lib-effects-buffer.module.code.ts"
 
 let RESET = false
 

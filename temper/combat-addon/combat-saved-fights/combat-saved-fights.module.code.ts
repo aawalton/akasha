@@ -1,4 +1,3 @@
-import { GLOBAL_DICT } from "akasha/temper/combat-addon/combat-global-dictionary/combat-global-dictionary.module.code.ts"
 import {
   convertCombatLog,
   recoverCombatLog,
@@ -17,6 +16,7 @@ import type {
   SavedFight,
   SavedFightMeta,
 } from "akasha/temper/combat-addon/modules/combat-fight-data-types/combat-fight-data-types.module.code.ts"
+import { GLOBAL_DICT } from "akasha/temper/combat-addon/modules/combat-global-dictionary/combat-global-dictionary.module.code.ts"
 
 export const FIGHT_DATA_VERSION = 22
 

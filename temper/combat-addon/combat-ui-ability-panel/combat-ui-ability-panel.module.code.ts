@@ -1,7 +1,3 @@
-import {
-  getFormattedAbilityIcon,
-  getFormattedAbilityName,
-} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
 import { getDamageColor } from "akasha/temper/combat-addon/combat-lib-log-strings-format/combat-lib-log-strings-format.module.code.ts"
 import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
 import { getShowOverHeal } from "akasha/temper/combat-addon/combat-selection/combat-selection.module.code.ts"
@@ -34,6 +30,10 @@ import {
   log,
 } from "akasha/temper/combat-addon/modules/combat-core-log/combat-core-log.module.code.ts"
 import type { AbilityData } from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
+import {
+  getFormattedAbilityIcon,
+  getFormattedAbilityName,
+} from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 
 type HitCritLayout = [string, string, string, string]
 

@@ -1,10 +1,3 @@
-import { fireCombatEvent } from "akasha/temper/combat-addon/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
-import {
-  LIBCOMBAT_EVENT_DEATH,
-  LIBCOMBAT_STATE_ALIVE,
-  LIBCOMBAT_STATE_DEAD,
-  LIBCOMBAT_STATE_RESURRECTED,
-} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
 import { prepareFight } from "akasha/temper/combat-addon/combat-lib-fight/combat-lib-fight.module.code.ts"
 import {
   LOG_LEVEL_DEBUG,
@@ -20,6 +13,13 @@ import {
   getUnitCache,
   onUnitCacheDeath,
 } from "akasha/temper/combat-addon/combat-lib-unit-cache/combat-lib-unit-cache.module.code.ts"
+import { fireCombatEvent } from "akasha/temper/combat-addon/modules/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
+import {
+  LIBCOMBAT_EVENT_DEATH,
+  LIBCOMBAT_STATE_ALIVE,
+  LIBCOMBAT_STATE_DEAD,
+  LIBCOMBAT_STATE_RESURRECTED,
+} from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 
 const LAST_DEATHS: Record<number, number> = {}
 

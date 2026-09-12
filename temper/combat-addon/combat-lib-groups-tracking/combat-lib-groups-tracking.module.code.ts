@@ -1,24 +1,4 @@
 import {
-  LIBCOMBAT_EVENT_EFFECTS_IN,
-  LIBCOMBAT_EVENT_EFFECTS_OUT,
-  LIBCOMBAT_EVENT_GROUPEFFECTS_IN,
-  LIBCOMBAT_EVENT_GROUPEFFECTS_OUT,
-  LIBCOMBAT_EVENT_PLAYERSTATS,
-  LIBCOMBAT_EVENT_PLAYERSTATS_ADVANCED,
-  LIBCOMBAT_EVENT_RESOURCES,
-  SOURCE_BUGGED_BUFFS,
-  SPECIAL_BUFFS,
-  SPECIAL_DEBUFFS,
-} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
-import {
-  onEffectChanged,
-  onGroupEffectIn,
-  onGroupEffectOut,
-  onSourceBuggedEffectChanged,
-  onSpecialBuffEvent,
-  onSpecialDebuffEvent,
-} from "akasha/temper/combat-addon/combat-lib-effects/combat-lib-effects.module.code.ts"
-import {
   createEventGroup,
   registerEvent,
   setGroupActive,
@@ -32,6 +12,26 @@ import {
   onTFSChanged,
 } from "akasha/temper/combat-addon/combat-lib-stats/combat-lib-stats.module.code.ts"
 import { onTrialDummy } from "akasha/temper/combat-addon/combat-lib-units/combat-lib-units.module.code.ts"
+import {
+  LIBCOMBAT_EVENT_EFFECTS_IN,
+  LIBCOMBAT_EVENT_EFFECTS_OUT,
+  LIBCOMBAT_EVENT_GROUPEFFECTS_IN,
+  LIBCOMBAT_EVENT_GROUPEFFECTS_OUT,
+  LIBCOMBAT_EVENT_PLAYERSTATS,
+  LIBCOMBAT_EVENT_PLAYERSTATS_ADVANCED,
+  LIBCOMBAT_EVENT_RESOURCES,
+  SOURCE_BUGGED_BUFFS,
+  SPECIAL_BUFFS,
+  SPECIAL_DEBUFFS,
+} from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
+import {
+  onEffectChanged,
+  onGroupEffectIn,
+  onGroupEffectOut,
+  onSourceBuggedEffectChanged,
+  onSpecialBuffEvent,
+  onSpecialDebuffEvent,
+} from "akasha/temper/combat-addon/modules/combat-lib-effects/combat-lib-effects.module.code.ts"
 
 createEventGroup(
   "Effects",

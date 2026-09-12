@@ -1,15 +1,4 @@
 import {
-  ABILITY_ADDITIONS,
-  ABILITY_CONVERSIONS,
-} from "akasha/temper/combat-addon/combat-lib-ability-tables/combat-lib-ability-tables.module.code.ts"
-import { fireCombatEvent } from "akasha/temper/combat-addon/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
-import {
-  LIBCOMBAT_EVENT_MESSAGES,
-  LIBCOMBAT_EVENT_SKILL_TIMINGS,
-  LIBCOMBAT_MESSAGE_WEAPONSWAP,
-  LIBCOMBAT_SKILLSTATUS_QUEUE,
-} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
-import {
   LOG_LEVEL_DEBUG,
   LOG_LEVEL_VERBOSE,
   LOG_LEVEL_WARNING,
@@ -26,6 +15,17 @@ import {
 } from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
 import { getNewStats } from "akasha/temper/combat-addon/combat-lib-stats/combat-lib-stats.module.code.ts"
 import { getSlottedAbilityId } from "akasha/temper/combat-addon/combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"
+import {
+  ABILITY_ADDITIONS,
+  ABILITY_CONVERSIONS,
+} from "akasha/temper/combat-addon/modules/combat-lib-ability-tables/combat-lib-ability-tables.module.code.ts"
+import { fireCombatEvent } from "akasha/temper/combat-addon/modules/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
+import {
+  LIBCOMBAT_EVENT_MESSAGES,
+  LIBCOMBAT_EVENT_SKILL_TIMINGS,
+  LIBCOMBAT_MESSAGE_WEAPONSWAP,
+  LIBCOMBAT_SKILLSTATUS_QUEUE,
+} from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 
 export const ID_TO_REDUCED_SLOT: Record<number, number> = {}
 

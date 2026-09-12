@@ -1,9 +1,9 @@
+import type { CombatEventCallback } from "akasha/temper/combat-addon/combat-lib-message-types/combat-lib-message-types.module.code.ts"
 import {
   LIBCOMBAT_EVENT_DAMAGE_OUT,
   LIBCOMBAT_EVENT_MAX,
   LIBCOMBAT_EVENT_MIN,
-} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
-import type { CombatEventCallback } from "akasha/temper/combat-addon/combat-lib-message-types/combat-lib-message-types.module.code.ts"
+} from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 
 const CALLBACK_LISTS: Record<number, CombatEventCallback[]> = {}
 

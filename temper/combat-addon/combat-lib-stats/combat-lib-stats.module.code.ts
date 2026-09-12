@@ -1,4 +1,11 @@
-import { fireCombatEvent } from "akasha/temper/combat-addon/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
+import {
+  DATA,
+  EVENT_GROUP_ACTIVE,
+  getCurrentFight,
+} from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
+import { getShadowBonus } from "akasha/temper/combat-addon/combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"
+import type { Fight } from "akasha/temper/combat-addon/combat-lib-types/combat-lib-types.module.code.ts"
+import { fireCombatEvent } from "akasha/temper/combat-addon/modules/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
 import {
   LIB_EVENT_NAMESPACE,
   LIBCOMBAT_EVENT_PLAYERSTATS,
@@ -18,14 +25,7 @@ import {
   LIBCOMBAT_STAT_WEAPONCRITBONUS,
   LIBCOMBAT_STAT_WEAPONPENETRATION,
   LIBCOMBAT_STAT_WEAPONPOWER,
-} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
-import {
-  DATA,
-  EVENT_GROUP_ACTIVE,
-  getCurrentFight,
-} from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
-import { getShadowBonus } from "akasha/temper/combat-addon/combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"
-import type { Fight } from "akasha/temper/combat-addon/combat-lib-types/combat-lib-types.module.code.ts"
+} from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 
 function getStat(stat: number | undefined): number {
   if (stat === undefined) {

@@ -1,18 +1,3 @@
-import { fireCombatEvent } from "akasha/temper/combat-addon/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
-import {
-  ACTIVE_TIME_ON_HEALS,
-  LIBCOMBAT_CPTYPE_PASSIVE,
-  LIBCOMBAT_CPTYPE_SLOTTED,
-  LIBCOMBAT_CPTYPE_UNSLOTTED,
-  LIBCOMBAT_EVENT_DAMAGE_IN,
-  LIBCOMBAT_EVENT_DAMAGE_OUT,
-  LIBCOMBAT_EVENT_FIGHTRECAP,
-  LIBCOMBAT_EVENT_GROUPRECAP,
-  LIBCOMBAT_EVENT_HEAL_IN,
-  LIBCOMBAT_EVENT_HEAL_OUT,
-  LIBCOMBAT_EVENT_HEAL_SELF,
-  LIBCOMBAT_EVENT_UNITS,
-} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
 import {
   LOG_LEVEL_DEBUG,
   log,
@@ -29,6 +14,21 @@ import type {
   GroupRecapData,
 } from "akasha/temper/combat-addon/combat-lib-types/combat-lib-types.module.code.ts"
 import { processDeathRecaps } from "akasha/temper/combat-addon/combat-lib-unit-cache/combat-lib-unit-cache.module.code.ts"
+import { fireCombatEvent } from "akasha/temper/combat-addon/modules/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
+import {
+  ACTIVE_TIME_ON_HEALS,
+  LIBCOMBAT_CPTYPE_PASSIVE,
+  LIBCOMBAT_CPTYPE_SLOTTED,
+  LIBCOMBAT_CPTYPE_UNSLOTTED,
+  LIBCOMBAT_EVENT_DAMAGE_IN,
+  LIBCOMBAT_EVENT_DAMAGE_OUT,
+  LIBCOMBAT_EVENT_FIGHTRECAP,
+  LIBCOMBAT_EVENT_GROUPRECAP,
+  LIBCOMBAT_EVENT_HEAL_IN,
+  LIBCOMBAT_EVENT_HEAL_OUT,
+  LIBCOMBAT_EVENT_HEAL_SELF,
+  LIBCOMBAT_EVENT_UNITS,
+} from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 
 export function getCritBonusFromCP(cpData: CPData): number {
   const greenDiscipline = cpData[1]

@@ -1,13 +1,3 @@
-import {
-  LIBCOMBAT_EVENT_BOSSHP,
-  LIBCOMBAT_EVENT_PERFORMANCE,
-  LIBCOMBAT_EVENT_PLAYERSTATS,
-  LIBCOMBAT_EVENT_RESOURCES,
-  LIBCOMBAT_EVENT_SKILL_TIMINGS,
-  LIBCOMBAT_STAT_MAXHEALTH,
-  LIBCOMBAT_STAT_MAXMAGICKA,
-  LIBCOMBAT_STAT_MAXSTAMINA,
-} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
 import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
 import type {
   PlotData,
@@ -22,6 +12,16 @@ import type {
   CoreLogLine,
   DamageCategory,
 } from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
+import {
+  LIBCOMBAT_EVENT_BOSSHP,
+  LIBCOMBAT_EVENT_PERFORMANCE,
+  LIBCOMBAT_EVENT_PLAYERSTATS,
+  LIBCOMBAT_EVENT_RESOURCES,
+  LIBCOMBAT_EVENT_SKILL_TIMINGS,
+  LIBCOMBAT_STAT_MAXHEALTH,
+  LIBCOMBAT_STAT_MAXMAGICKA,
+  LIBCOMBAT_STAT_MAXSTAMINA,
+} from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 
 type GraphData = Record<number, number | undefined>
 

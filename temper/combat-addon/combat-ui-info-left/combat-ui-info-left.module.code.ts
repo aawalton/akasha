@@ -1,7 +1,3 @@
-import {
-  getFormattedAbilityIcon,
-  getFormattedAbilityName,
-} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
 import { GetNumFights } from "akasha/temper/combat-addon/combat-saved-fights/combat-saved-fights.module.code.ts"
 import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
 import {
@@ -17,6 +13,10 @@ import {
   LOG_LEVEL_DEBUG,
   log,
 } from "akasha/temper/combat-addon/modules/combat-core-log/combat-core-log.module.code.ts"
+import {
+  getFormattedAbilityIcon,
+  getFormattedAbilityName,
+} from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 
 const LIB_COMBAT_VERSION = 88

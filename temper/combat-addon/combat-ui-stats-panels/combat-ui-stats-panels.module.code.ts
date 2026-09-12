@@ -1,20 +1,3 @@
-import {
-  LIBCOMBAT_STAT_CRITICALRESISTANCE,
-  LIBCOMBAT_STAT_MAXHEALTH,
-  LIBCOMBAT_STAT_MAXMAGICKA,
-  LIBCOMBAT_STAT_MAXSTAMINA,
-  LIBCOMBAT_STAT_PHYSICALRESISTANCE,
-  LIBCOMBAT_STAT_SPELLCRIT,
-  LIBCOMBAT_STAT_SPELLCRITBONUS,
-  LIBCOMBAT_STAT_SPELLPENETRATION,
-  LIBCOMBAT_STAT_SPELLPOWER,
-  LIBCOMBAT_STAT_SPELLRESISTANCE,
-  LIBCOMBAT_STAT_STATUS_EFFECT_CHANCE,
-  LIBCOMBAT_STAT_WEAPONCRIT,
-  LIBCOMBAT_STAT_WEAPONCRITBONUS,
-  LIBCOMBAT_STAT_WEAPONPENETRATION,
-  LIBCOMBAT_STAT_WEAPONPOWER,
-} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
 import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
 import { getShowOverHeal } from "akasha/temper/combat-addon/combat-selection/combat-selection.module.code.ts"
 import {
@@ -32,6 +15,23 @@ import {
   log,
 } from "akasha/temper/combat-addon/modules/combat-core-log/combat-core-log.module.code.ts"
 import type { DamageCategory } from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
+import {
+  LIBCOMBAT_STAT_CRITICALRESISTANCE,
+  LIBCOMBAT_STAT_MAXHEALTH,
+  LIBCOMBAT_STAT_MAXMAGICKA,
+  LIBCOMBAT_STAT_MAXSTAMINA,
+  LIBCOMBAT_STAT_PHYSICALRESISTANCE,
+  LIBCOMBAT_STAT_SPELLCRIT,
+  LIBCOMBAT_STAT_SPELLCRITBONUS,
+  LIBCOMBAT_STAT_SPELLPENETRATION,
+  LIBCOMBAT_STAT_SPELLPOWER,
+  LIBCOMBAT_STAT_SPELLRESISTANCE,
+  LIBCOMBAT_STAT_STATUS_EFFECT_CHANCE,
+  LIBCOMBAT_STAT_WEAPONCRIT,
+  LIBCOMBAT_STAT_WEAPONCRITBONUS,
+  LIBCOMBAT_STAT_WEAPONPENETRATION,
+  LIBCOMBAT_STAT_WEAPONPOWER,
+} from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 import { parseNumber } from "akasha/utils/narrow/parse-number/parse-number.module.code.ts"
 
 export const POWER_TYPE_LABELS: Record<number, string> = {

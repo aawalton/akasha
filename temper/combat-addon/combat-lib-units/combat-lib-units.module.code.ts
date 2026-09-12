@@ -1,11 +1,3 @@
-import { fireCombatEvent } from "akasha/temper/combat-addon/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
-import {
-  ABILITY_ID_FORCE_OF_NATURE,
-  ABILITY_ID_ZEN,
-  getFormattedAbilityName,
-  LIBCOMBAT_EVENT_EFFECTS_OUT,
-  STATUS_EFFECT_IDS,
-} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
 import {
   LOG_LEVEL_VERBOSE,
   LOG_LEVEL_WARNING,
@@ -19,6 +11,14 @@ import type {
   UnitEntry,
   UnitInfo,
 } from "akasha/temper/combat-addon/combat-lib-types/combat-lib-types.module.code.ts"
+import { fireCombatEvent } from "akasha/temper/combat-addon/modules/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
+import {
+  ABILITY_ID_FORCE_OF_NATURE,
+  ABILITY_ID_ZEN,
+  getFormattedAbilityName,
+  LIBCOMBAT_EVENT_EFFECTS_OUT,
+  STATUS_EFFECT_IDS,
+} from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 
 function createUnit(name: string, unitId: number, unitType: number | undefined): UnitEntry {
   name = ZO_CachedStrFormat(SI_UNIT_NAME, name)

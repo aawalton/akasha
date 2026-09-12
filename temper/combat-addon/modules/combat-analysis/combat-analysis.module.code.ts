@@ -1,31 +1,4 @@
 import {
-  finalizeBarData,
-  finalizePerformanceData,
-  finalizeResourceStats,
-  finalizeSkillTimings,
-  finalizeStats,
-} from "akasha/temper/combat-addon/combat-finalize/combat-finalize.module.code.ts"
-import { finalizeUnitBuffs } from "akasha/temper/combat-addon/combat-finalize-buffs/combat-finalize-buffs.module.code.ts"
-import {
-  LIBCOMBAT_EVENT_BOSSHP,
-  LIBCOMBAT_EVENT_DAMAGE_IN,
-  LIBCOMBAT_EVENT_DAMAGE_OUT,
-  LIBCOMBAT_EVENT_DAMAGE_SELF,
-  LIBCOMBAT_EVENT_EFFECTS_IN,
-  LIBCOMBAT_EVENT_EFFECTS_OUT,
-  LIBCOMBAT_EVENT_GROUPEFFECTS_IN,
-  LIBCOMBAT_EVENT_GROUPEFFECTS_OUT,
-  LIBCOMBAT_EVENT_HEAL_IN,
-  LIBCOMBAT_EVENT_HEAL_OUT,
-  LIBCOMBAT_EVENT_HEAL_SELF,
-  LIBCOMBAT_EVENT_MESSAGES,
-  LIBCOMBAT_EVENT_PERFORMANCE,
-  LIBCOMBAT_EVENT_PLAYERSTATS,
-  LIBCOMBAT_EVENT_QUICKSLOT,
-  LIBCOMBAT_EVENT_RESOURCES,
-  LIBCOMBAT_EVENT_SKILL_TIMINGS,
-} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
-import {
   processLogDamage,
   processLogHeal,
   processLogHealSelf,
@@ -64,6 +37,33 @@ import {
   getEmptyFightStats,
   setCurrentBar,
 } from "akasha/temper/combat-addon/modules/combat-fight-model/combat-fight-model.module.code.ts"
+import {
+  finalizeBarData,
+  finalizePerformanceData,
+  finalizeResourceStats,
+  finalizeSkillTimings,
+  finalizeStats,
+} from "akasha/temper/combat-addon/modules/combat-finalize/combat-finalize.module.code.ts"
+import { finalizeUnitBuffs } from "akasha/temper/combat-addon/modules/combat-finalize-buffs/combat-finalize-buffs.module.code.ts"
+import {
+  LIBCOMBAT_EVENT_BOSSHP,
+  LIBCOMBAT_EVENT_DAMAGE_IN,
+  LIBCOMBAT_EVENT_DAMAGE_OUT,
+  LIBCOMBAT_EVENT_DAMAGE_SELF,
+  LIBCOMBAT_EVENT_EFFECTS_IN,
+  LIBCOMBAT_EVENT_EFFECTS_OUT,
+  LIBCOMBAT_EVENT_GROUPEFFECTS_IN,
+  LIBCOMBAT_EVENT_GROUPEFFECTS_OUT,
+  LIBCOMBAT_EVENT_HEAL_IN,
+  LIBCOMBAT_EVENT_HEAL_OUT,
+  LIBCOMBAT_EVENT_HEAL_SELF,
+  LIBCOMBAT_EVENT_MESSAGES,
+  LIBCOMBAT_EVENT_PERFORMANCE,
+  LIBCOMBAT_EVENT_PLAYERSTATS,
+  LIBCOMBAT_EVENT_QUICKSLOT,
+  LIBCOMBAT_EVENT_RESOURCES,
+  LIBCOMBAT_EVENT_SKILL_TIMINGS,
+} from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 
 const DESIRED_TIME = 0.01
 const STEP_SIZE = 20

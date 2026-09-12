@@ -1,13 +1,3 @@
-import { fireCombatEvent } from "akasha/temper/combat-addon/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
-import {
-  ABILITY_RESOURCE_CACHE_SIZE,
-  getFormattedAbilityName,
-  LIBCOMBAT_EVENT_HEAL_SELF,
-  LIBCOMBAT_EVENT_QUICKSLOT,
-  LIBCOMBAT_EVENT_RESOURCES,
-  LIBCOMBAT_STAT_MAXMAGICKA,
-  LIBCOMBAT_STAT_STATUS_EFFECT_CHANCE,
-} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
 import {
   LOG_LEVEL_DEBUG,
   LOG_LEVEL_INFO,
@@ -23,6 +13,16 @@ import {
   getUnitCache,
   updateUnitCacheResource,
 } from "akasha/temper/combat-addon/combat-lib-unit-cache/combat-lib-unit-cache.module.code.ts"
+import { fireCombatEvent } from "akasha/temper/combat-addon/modules/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
+import {
+  ABILITY_RESOURCE_CACHE_SIZE,
+  getFormattedAbilityName,
+  LIBCOMBAT_EVENT_HEAL_SELF,
+  LIBCOMBAT_EVENT_QUICKSLOT,
+  LIBCOMBAT_EVENT_RESOURCES,
+  LIBCOMBAT_STAT_MAXMAGICKA,
+  LIBCOMBAT_STAT_STATUS_EFFECT_CHANCE,
+} from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 
 function getStat(stat: number): number {
   return GetPlayerStat(stat, STAT_BONUS_OPTION_APPLY_BONUS)

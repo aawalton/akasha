@@ -1,19 +1,3 @@
-import {
-  LIBCOMBAT_STAT_CRITICALRESISTANCE,
-  LIBCOMBAT_STAT_MAXHEALTH,
-  LIBCOMBAT_STAT_MAXMAGICKA,
-  LIBCOMBAT_STAT_MAXSTAMINA,
-  LIBCOMBAT_STAT_PHYSICALRESISTANCE,
-  LIBCOMBAT_STAT_SPELLCRIT,
-  LIBCOMBAT_STAT_SPELLCRITBONUS,
-  LIBCOMBAT_STAT_SPELLPENETRATION,
-  LIBCOMBAT_STAT_SPELLPOWER,
-  LIBCOMBAT_STAT_SPELLRESISTANCE,
-  LIBCOMBAT_STAT_WEAPONCRIT,
-  LIBCOMBAT_STAT_WEAPONCRITBONUS,
-  LIBCOMBAT_STAT_WEAPONPENETRATION,
-  LIBCOMBAT_STAT_WEAPONPOWER,
-} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
 import { namedChild } from "akasha/temper/combat-addon/combat-ui-helpers/combat-ui-helpers.module.code.ts"
 import type { SelectorControl } from "akasha/temper/combat-addon/combat-ui-plot/combat-ui-plot.module.code.ts"
 import {
@@ -33,6 +17,22 @@ import type {
   PlotWindowControl,
 } from "akasha/temper/combat-addon/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
 import type { DamageCategory } from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
+import {
+  LIBCOMBAT_STAT_CRITICALRESISTANCE,
+  LIBCOMBAT_STAT_MAXHEALTH,
+  LIBCOMBAT_STAT_MAXMAGICKA,
+  LIBCOMBAT_STAT_MAXSTAMINA,
+  LIBCOMBAT_STAT_PHYSICALRESISTANCE,
+  LIBCOMBAT_STAT_SPELLCRIT,
+  LIBCOMBAT_STAT_SPELLCRITBONUS,
+  LIBCOMBAT_STAT_SPELLPENETRATION,
+  LIBCOMBAT_STAT_SPELLPOWER,
+  LIBCOMBAT_STAT_SPELLRESISTANCE,
+  LIBCOMBAT_STAT_WEAPONCRIT,
+  LIBCOMBAT_STAT_WEAPONCRITBONUS,
+  LIBCOMBAT_STAT_WEAPONPENETRATION,
+  LIBCOMBAT_STAT_WEAPONPOWER,
+} from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 
 export const PLOT_FUNCTIONS: ((this: void) => undefined)[] = []
 

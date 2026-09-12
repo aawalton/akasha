@@ -1,10 +1,3 @@
-import { fireCombatEvent } from "akasha/temper/combat-addon/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
-import {
-  DEATH_RECAP_TIME_PERIOD,
-  LIB_DEBUG,
-  LIBCOMBAT_EVENT_DEATHRECAP,
-  MAX_UNIT_CACHE_EVENTS,
-} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
 import {
   LOG_LEVEL_DEBUG,
   log,
@@ -15,6 +8,13 @@ import type {
   UnitCache,
 } from "akasha/temper/combat-addon/combat-lib-types/combat-lib-types.module.code.ts"
 import { getUnitInfo } from "akasha/temper/combat-addon/combat-lib-units/combat-lib-units.module.code.ts"
+import { fireCombatEvent } from "akasha/temper/combat-addon/modules/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
+import {
+  DEATH_RECAP_TIME_PERIOD,
+  LIB_DEBUG,
+  LIBCOMBAT_EVENT_DEATHRECAP,
+  MAX_UNIT_CACHE_EVENTS,
+} from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 
 const COMBAT_EVENT_CACHE: Record<number, UnitCache> = {}
 

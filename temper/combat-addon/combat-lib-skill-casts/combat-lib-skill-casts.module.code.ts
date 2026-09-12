@@ -1,24 +1,4 @@
 import {
-  ABILITY_ADDITIONS_REVERSE,
-  ABILITY_CONVERSIONS,
-  DIRECT_HEAVY_ATTACKS,
-  VALID_NON_PROJECTILE_SKILL_START_RESULTS,
-  VALID_SKILL_END_RESULTS,
-  VALID_SKILL_START_RESULTS,
-} from "akasha/temper/combat-addon/combat-lib-ability-tables/combat-lib-ability-tables.module.code.ts"
-import { fireCombatEvent } from "akasha/temper/combat-addon/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
-import {
-  ABILITY_RESOURCE_CACHE_SIZE,
-  getFormattedAbilityName,
-  LIBCOMBAT_EVENT_SKILL_TIMINGS,
-  LIBCOMBAT_SKILLSTATUS_BEGIN_CHANNEL,
-  LIBCOMBAT_SKILLSTATUS_BEGIN_DURATION,
-  LIBCOMBAT_SKILLSTATUS_INSTANT,
-  LIBCOMBAT_SKILLSTATUS_REGISTERED,
-  LIBCOMBAT_SKILLSTATUS_SUCCESS,
-  maxSkillDelay,
-} from "akasha/temper/combat-addon/combat-lib-constants/combat-lib-constants.module.code.ts"
-import {
   LOG_LEVEL_VERBOSE,
   log,
 } from "akasha/temper/combat-addon/combat-lib-log/combat-lib-log.module.code.ts"
@@ -35,6 +15,26 @@ import {
   USED_CAST_TIME_ABILITY,
 } from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
 import { getSlottedAbilityId } from "akasha/temper/combat-addon/combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"
+import {
+  ABILITY_ADDITIONS_REVERSE,
+  ABILITY_CONVERSIONS,
+  DIRECT_HEAVY_ATTACKS,
+  VALID_NON_PROJECTILE_SKILL_START_RESULTS,
+  VALID_SKILL_END_RESULTS,
+  VALID_SKILL_START_RESULTS,
+} from "akasha/temper/combat-addon/modules/combat-lib-ability-tables/combat-lib-ability-tables.module.code.ts"
+import { fireCombatEvent } from "akasha/temper/combat-addon/modules/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
+import {
+  ABILITY_RESOURCE_CACHE_SIZE,
+  getFormattedAbilityName,
+  LIBCOMBAT_EVENT_SKILL_TIMINGS,
+  LIBCOMBAT_SKILLSTATUS_BEGIN_CHANNEL,
+  LIBCOMBAT_SKILLSTATUS_BEGIN_DURATION,
+  LIBCOMBAT_SKILLSTATUS_INSTANT,
+  LIBCOMBAT_SKILLSTATUS_REGISTERED,
+  LIBCOMBAT_SKILLSTATUS_SUCCESS,
+  maxSkillDelay,
+} from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 
 let heavyAttackCharging: number | undefined
 
