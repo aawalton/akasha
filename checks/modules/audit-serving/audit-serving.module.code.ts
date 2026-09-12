@@ -242,10 +242,9 @@ export function roundOver(
   every: readonly Gathered[],
   asked: readonly string[]
 ): readonly Gathered[] {
+  if (asked.length === 0) return checksAt(every, AUDIT)
   const held = new Set(asked)
-  const atAudit = checksAt(every, AUDIT)
-  const named = new Set(atAudit.map((one) => one.slug))
-  return [...atAudit, ...every.filter((one) => held.has(one.slug) && !named.has(one.slug))]
+  return every.filter((one) => held.has(one.slug))
 }
 
 export async function serving(given: Serving): Promise<Told> {

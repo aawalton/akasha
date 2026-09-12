@@ -62,7 +62,11 @@ export const auditServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A round runs the checks its phase names and the checks a request names.",
+      statement: "A round no request names a check for runs the checks its phase names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A round a request names checks for runs those checks and no other.",
     },
     {
       invariantKind: "departure",
@@ -70,7 +74,7 @@ export const auditServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A check both name is run once.",
+      statement: "A check two requests name is run once.",
     },
     {
       invariantKind: "departure",

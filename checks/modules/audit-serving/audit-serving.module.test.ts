@@ -151,7 +151,7 @@ test("a telling neither could take is answered as a refusal rather than thrown",
   expect(why).toContain("`alan`")
 })
 
-test("a round runs the checks its phase names and the checks a request names", () => {
+test("a round a request names checks for runs those checks alone", () => {
   const every: readonly Gathered[] = [
     gathered("typecheck", "/r"),
     { ...gathered("lint-clean", "/r"), runsOn: ["change"] },
@@ -160,9 +160,10 @@ test("a round runs the checks its phase names and the checks a request names", (
   const slugs = (asked: readonly string[]): readonly string[] =>
     roundOver(every, asked).map((one) => one.slug)
   expect(slugs([])).toEqual(["typecheck"])
-  expect(slugs(["new-check"])).toEqual(["typecheck", "new-check"])
+  expect(slugs(["new-check"])).toEqual(["new-check"])
   expect(slugs(["typecheck"])).toEqual(["typecheck"])
-  expect(slugs(["nobody"])).toEqual(["typecheck"])
+  expect(slugs(["lint-clean", "new-check"])).toEqual(["lint-clean", "new-check"])
+  expect(slugs(["nobody"])).toEqual([])
 })
 
 test("a turn is a path of its own for each check", () => {
