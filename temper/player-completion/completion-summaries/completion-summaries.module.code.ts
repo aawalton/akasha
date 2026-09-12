@@ -1,9 +1,4 @@
 import type { AccountCompletion } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import type {
-  AccountSummaryData,
-  CharacterSummaryData,
-  CompanionSummaryData,
-} from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
 import type { CompletionCatalogs } from "akasha/temper/player-completion/completion-catalogs/completion-catalogs.module.code.ts"
 import type { CompletionCharacterRow } from "akasha/temper/player-completion/completion-character-row/completion-character-row.module.code.ts"
 import { transformCollectiblesProgress } from "akasha/temper/player-completion/completion-collectibles-progress/completion-collectibles-progress.module.code.ts"
@@ -48,6 +43,11 @@ import {
 } from "akasha/temper/player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"
 import { transformAntiquityLoreProgress } from "akasha/temper/player-completion/modules/completion-antiquity-lore-progress/completion-antiquity-lore-progress.module.code.ts"
 import { transformCadwellProgress } from "akasha/temper/player-completion/modules/completion-cadwell-progress/completion-cadwell-progress.module.code.ts"
+import type {
+  AccountSummaryData,
+  CharacterSummaryData,
+  CompanionSummaryData,
+} from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import { transformSubclassingSkillMorphProgress } from "akasha/temper/skill-morphs/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
 
 export interface CompletionSummariesInput {

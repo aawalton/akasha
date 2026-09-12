@@ -16,7 +16,7 @@ import type {
   AccountSummaryData,
   CharacterSummaryData,
   CompanionSummaryData,
-} from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
+} from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import { useCompletionToolbar } from "akasha/temper/web/completion-toolbar-context/completion-toolbar-context.module.code.tsx"
 import { AccountSummaryPanelCard } from "akasha/temper/web/modules/account-summary-panel-card/account-summary-panel-card.module.code.tsx"
 import { CharactersSummaryPanelCard } from "akasha/temper/web/modules/characters-summary-panel-card/characters-summary-panel-card.module.code.tsx"

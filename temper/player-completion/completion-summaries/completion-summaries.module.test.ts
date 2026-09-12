@@ -4,11 +4,6 @@ import type {
   CharacterCompletion,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import {
-  ACCOUNT_CARDS,
-  CHARACTER_CARDS,
-  COMPANION_CARDS,
-} from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
-import {
   type CompletionCatalogs,
   NO_COMPLETION_CATALOGS,
 } from "akasha/temper/player-completion/completion-catalogs/completion-catalogs.module.code.ts"
@@ -19,6 +14,11 @@ import {
   computeOverallCompletionScoreFromRows,
 } from "akasha/temper/player-completion/completion-summaries/completion-summaries.module.code.ts"
 import { companionQuestIds } from "akasha/temper/player-completion/modules/companion-quest-data/companion-quest-data.module.code.ts"
+import {
+  ACCOUNT_CARDS,
+  CHARACTER_CARDS,
+  COMPANION_CARDS,
+} from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 
 const NOTHING = {
   characterRows: [],

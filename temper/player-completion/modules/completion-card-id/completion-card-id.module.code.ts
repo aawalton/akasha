@@ -5,7 +5,7 @@ import {
   type CharacterCardId,
   COMPANION_CARDS,
   type CompanionCardId,
-} from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
+} from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 
 type TaskOnlyCardId =
   | "guild-sales"

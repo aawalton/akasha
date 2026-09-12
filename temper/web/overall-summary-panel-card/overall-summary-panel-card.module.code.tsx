@@ -1,14 +1,14 @@
 import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
-import type {
-  AccountSummaryData,
-  CharacterSummaryData,
-  CompanionSummaryData,
-} from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
 import {
   sumAccountScope,
   sumCharacterScope,
   sumCompanionScope,
 } from "akasha/temper/player-completion/completion-scope-rollup/completion-scope-rollup.module.code.ts"
+import type {
+  AccountSummaryData,
+  CharacterSummaryData,
+  CompanionSummaryData,
+} from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import {
   type CompletionFilter,
   type CompletionNode,

@@ -9,7 +9,7 @@ import type {
   AccountSummaryData,
   CharacterSummaryData,
   CompanionSummaryData,
-} from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
+} from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import {
   useAccountCompletion,
   useAccountCompletionByUser,

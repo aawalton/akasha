@@ -1,9 +1,9 @@
-import type { AccountCardId } from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
 import type { AchievementTallyCategory } from "akasha/temper/player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"
 import type {
   AccountCompletionCardChecker,
   ItemProgress,
 } from "akasha/temper/player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
+import type { AccountCardId } from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 
 function achievementIdsUnder(
   catalog: readonly AchievementTallyCategory[],

@@ -1,7 +1,7 @@
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
 import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
-import type { CharacterSummaryData } from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player-completion/modules/activity-categories/activity-categories.module.code.ts"
+import type { CharacterSummaryData } from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import { SkillMorphsProgressPanelCard } from "akasha/temper/player-completion-skills-morphs-ui/skill-morphs-progress-panel-card/skill-morphs-progress-panel-card.module.code.tsx"
 import type {
   CompletionFilter,

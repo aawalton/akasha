@@ -1,16 +1,16 @@
 import { describe, expect, test } from "bun:test"
 import {
-  ACCOUNT_CARDS,
-  CHARACTER_CARDS,
-} from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
-import {
-  isCumulativeCard,
-  isResettingCard,
-} from "akasha/temper/player-completion/completion-card-reset-behavior/completion-card-reset-behavior.module.code.ts"
-import {
   CUMULATIVE_ACCOUNT_CARDS,
   CUMULATIVE_CHARACTER_CARDS,
 } from "akasha/temper/player-completion/completion-cumulative-cards/completion-cumulative-cards.module.code.ts"
+import {
+  ACCOUNT_CARDS,
+  CHARACTER_CARDS,
+} from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import {
+  isCumulativeCard,
+  isResettingCard,
+} from "akasha/temper/player-completion/modules/completion-card-reset-behavior/completion-card-reset-behavior.module.code.ts"
 
 describe("the cumulative character cards", () => {
   test("the list is not empty, so every check below reads something", () => {
