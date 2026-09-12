@@ -31,6 +31,10 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
+      statement: "The slugs one page type's pages carry are that type's slug directory listed.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A directory listed grows with that type and not with the pages.",
     },
     {

@@ -292,12 +292,9 @@ export function valuedAt(given: string | Reading, pageTypeSlug: string, slug: st
 }
 
 export function slugsOfType(given: string | Reading, pageTypeSlug: string): readonly string[] {
-  const found = new Set<string>()
-  for (const one of valuesOfType(given, pageTypeSlug)) {
-    const slug = textAt(one.value, "slug")
-    if (slug !== null) found.add(slug)
-  }
-  return [...found].sort()
+  return answered(given, ROOT, `which slugs the \`${pageTypeSlug}\` pages carry`, (reading) =>
+    endingIn(reading.listing(join(IDENTITY, PAGE_TYPE, pageTypeSlug, SLUG)))
+  )
 }
 
 export function idsNaming(
