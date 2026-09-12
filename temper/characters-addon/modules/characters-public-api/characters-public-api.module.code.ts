@@ -1,16 +1,16 @@
-import {
-  initializeTabs,
-  refreshActivePanel,
-  registerExternalTab,
-  selectSubTab,
-  selectTopTab,
-} from "akasha/temper/characters-addon/characters-tab-manager/characters-tab-manager.module.code.ts"
 import { scheduleTaskAutoCompletionCheck } from "akasha/temper/characters-addon/characters-task-auto-complete/characters-task-auto-complete.module.code.ts"
 import {
   hideWindow,
   showWindow,
   toggleWindow,
 } from "akasha/temper/characters-addon/characters-window/characters-window.module.code.ts"
+import {
+  initializeTabs,
+  refreshActivePanel,
+  registerExternalTab,
+  selectSubTab,
+  selectTopTab,
+} from "akasha/temper/characters-addon/modules/characters-tab-manager/characters-tab-manager.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/player-completion-state/completion-addon-constants/completion-addon-constants.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 

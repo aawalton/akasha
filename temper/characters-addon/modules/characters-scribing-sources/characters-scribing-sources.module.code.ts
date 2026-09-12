@@ -1,4 +1,4 @@
-import { SCRIBING_SOURCES } from "akasha/temper/characters-addon/characters-scribing-source-table/characters-scribing-source-table.module.code.ts"
+import { SCRIBING_SOURCES } from "akasha/temper/characters-addon/modules/characters-scribing-source-table/characters-scribing-source-table.module.code.ts"
 import type { TaskData } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 

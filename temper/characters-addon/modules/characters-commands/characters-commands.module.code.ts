@@ -1,8 +1,3 @@
-import {
-  saveAccountSkillLineProgress,
-  saveSkillLineProgress,
-} from "akasha/temper/characters-addon/characters-skill-lines/characters-skill-lines.module.code.ts"
-import { updateSkillPoints } from "akasha/temper/characters-addon/characters-skill-points/characters-skill-points.module.code.ts"
 import { getCompletionKey } from "akasha/temper/characters-addon/characters-task-auto-complete/characters-task-auto-complete.module.code.ts"
 import { refreshTaskHud } from "akasha/temper/characters-addon/characters-task-hud/characters-task-hud.module.code.ts"
 import { refreshAllTraitResearch } from "akasha/temper/characters-addon/characters-trait-research/characters-trait-research.module.code.ts"
@@ -25,6 +20,11 @@ import { collectPointsOfInterest } from "akasha/temper/characters-addon/modules/
 import { collectQuests } from "akasha/temper/characters-addon/modules/characters-quests/characters-quests.module.code.ts"
 import { refreshAllRecipes } from "akasha/temper/characters-addon/modules/characters-recipes/characters-recipes.module.code.ts"
 import { collectScribing } from "akasha/temper/characters-addon/modules/characters-scribing/characters-scribing.module.code.ts"
+import {
+  saveAccountSkillLineProgress,
+  saveSkillLineProgress,
+} from "akasha/temper/characters-addon/modules/characters-skill-lines/characters-skill-lines.module.code.ts"
+import { updateSkillPoints } from "akasha/temper/characters-addon/modules/characters-skill-points/characters-skill-points.module.code.ts"
 import {
   saveAccountSkillMorphProgress,
   saveSkillMorphProgress,

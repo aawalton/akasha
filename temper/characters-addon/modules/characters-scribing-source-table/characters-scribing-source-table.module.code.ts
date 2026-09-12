@@ -1,4 +1,4 @@
-import type { ScribingSource } from "akasha/temper/characters-addon/characters-scribing-sources/characters-scribing-sources.module.code.ts"
+import type { ScribingSource } from "akasha/temper/characters-addon/modules/characters-scribing-sources/characters-scribing-sources.module.code.ts"
 
 export const SCRIBING_SOURCES = [
   {

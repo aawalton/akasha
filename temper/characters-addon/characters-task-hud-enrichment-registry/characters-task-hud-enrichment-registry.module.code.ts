@@ -1,8 +1,3 @@
-import {
-  getScribingGuildDailyFallback,
-  getScribingScriptType,
-  getScribingSourceSubRows,
-} from "akasha/temper/characters-addon/characters-scribing-sources/characters-scribing-sources.module.code.ts"
 import { taskHasCard } from "akasha/temper/characters-addon/characters-task-card-match/characters-task-card-match.module.code.ts"
 import {
   type AntiquityLeadEnrichment,
@@ -30,6 +25,11 @@ import {
   getTodaysPledges,
 } from "akasha/temper/characters-addon/characters-undaunted-pledges/characters-undaunted-pledges.module.code.ts"
 import { formatProgressCount } from "akasha/temper/characters-addon/modules/characters-progress-format/characters-progress-format.module.code.ts"
+import {
+  getScribingGuildDailyFallback,
+  getScribingScriptType,
+  getScribingSourceSubRows,
+} from "akasha/temper/characters-addon/modules/characters-scribing-sources/characters-scribing-sources.module.code.ts"
 import {
   getSkillMorphEnrichment,
   isSkillMorphTask,

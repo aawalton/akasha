@@ -17,10 +17,10 @@ import type {
   CharacterSummaryData,
   CompanionSummaryData,
 } from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
-import { CharactersSummaryPanelCard } from "akasha/temper/web/characters-summary-panel-card/characters-summary-panel-card.module.code.tsx"
 import { CompanionsSummaryPanelCard } from "akasha/temper/web/companions-summary-panel-card/companions-summary-panel-card.module.code.tsx"
 import { useCompletionToolbar } from "akasha/temper/web/completion-toolbar-context/completion-toolbar-context.module.code.tsx"
 import { AccountSummaryPanelCard } from "akasha/temper/web/modules/account-summary-panel-card/account-summary-panel-card.module.code.tsx"
+import { CharactersSummaryPanelCard } from "akasha/temper/web/modules/characters-summary-panel-card/characters-summary-panel-card.module.code.tsx"
 import { OverallSummaryPanelCard } from "akasha/temper/web/overall-summary-panel-card/overall-summary-panel-card.module.code.tsx"
 import { useState } from "react"
 
