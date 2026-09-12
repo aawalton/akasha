@@ -1,6 +1,10 @@
 import { existsSync } from "node:fs"
 import { messageNamed } from "akasha/agents/messaging/message-naming/message-naming.module.code.ts"
 import { CEILING } from "akasha/checks/code-checks/pages/file-length/file-length.code-check.decision.code.ts"
+import {
+  landBodies,
+  landRemovals,
+} from "akasha/commands/modules/gated-landing/gated-landing.module.code.ts"
 import { whyRefused } from "akasha/commands/modules/gated-write/gated-write.module.code.ts"
 import { AKASHA, akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
@@ -14,10 +18,6 @@ import {
   uncommittedIn,
 } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import {
-  landBodies,
-  landRemovals,
-} from "akasha/seat-system/gated-landing/gated-landing.module.code.ts"
 import { akashaSeatIdForName } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 
 const PAGE_TYPE = "message"

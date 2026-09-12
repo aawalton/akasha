@@ -140,7 +140,6 @@ export const seatSystem = {
     "page-type/subagent-kind",
     "module/tick-deadline",
     "module/run-supervisor",
-    "module/gated-landing",
     "module/seat-call",
     "module/seat-running",
     "module/seat-turn-color",

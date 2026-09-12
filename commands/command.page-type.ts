@@ -125,6 +125,7 @@ export const command = {
     "module/argument-narrowing",
     "module/payload",
     "module/gated-write",
+    "module/gated-landing",
   ],
   extends: ["page-type/module"],
   loadedBy: "module/calling",
