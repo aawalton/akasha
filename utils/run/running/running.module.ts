@@ -168,6 +168,10 @@ export const running = {
       statement: "A run started inside a run makes its group under that run's group.",
     },
     {
+      invariantKind: "constraint",
+      statement: "A memory ceiling on a group above a run bounds the peak that run is answered.",
+    },
+    {
       invariantKind: "departure",
       statement: "That group is made under the nearest ancestor group this run may write in.",
     },
