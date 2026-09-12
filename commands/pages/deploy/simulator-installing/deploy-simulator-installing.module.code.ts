@@ -5,10 +5,15 @@ import {
   answering,
   DATA,
   naming,
-  OK,
   OPERATIONAL,
+  refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import {
+  type Answer,
+  answeredWith,
+  type Given,
+} from "akasha/commands/modules/calling/calling.module.code.ts"
 import { quoted } from "akasha/shell/quoting/quoting.module.code.ts"
 import { SCRATCH_AT } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
@@ -155,41 +160,39 @@ export function installedFrom(
     const staged = run(["bash", join(root, plan.staging.scriptPath)], { [SPA_SOURCE]: from })
     report.push(staged.out.trimEnd())
     if (staged.code !== 0) {
-      return {
+      return answeredWith(
         report,
-        refusals: [`the site ${plan.appSlug} serves was not staged from ${from}`],
-        code: OPERATIONAL,
-      }
+        [`the site ${plan.appSlug} serves was not staged from ${from}`],
+        OPERATIONAL
+      )
     }
     done.push(`the site ${plan.appSlug} serves, staged from ${from}`)
     report.push(`staged the site ${plan.appSlug} serves from ${from}`)
   }
   const short = delivered(root, plan, host, run, done)
-  if (short.length > 0) return { report, refusals: short, code: OPERATIONAL }
+  if (short.length > 0) return answeredWith(report, short, OPERATIONAL)
   const stamp = stampOf(root, plan, run)
   if (stamp === null) {
-    return {
+    return answeredWith(
       report,
-      refusals: [
+      [
         `the commit ${root} is at could not be read, and a build stamped with nothing cannot be told from a stale one`,
       ],
-      code: OPERATIONAL,
-    }
+      OPERATIONAL
+    )
   }
   const made = built(scriptOf(root, plan, stamp), host, run, done)
   report.push(made.out.trimEnd())
   const udid = installedUdid(made.out)
   if (udid === null) {
-    return {
+    return answeredWith(
       report,
-      refusals: [
-        `${plan.appSlug} did not report BUILD_SIM_OK, so it was neither built nor installed`,
-      ],
-      code: OPERATIONAL,
-    }
+      [`${plan.appSlug} did not report BUILD_SIM_OK, so it was neither built nor installed`],
+      OPERATIONAL
+    )
   }
   report.push(`installed ${plan.appSlug} to simulator ${udid}`)
-  return { report, refusals: [], code: OK }
+  return told(report)
 }
 
 export function installedBy(root: string, plan: Plan, host: string, run: Running): Promise<Answer> {
@@ -202,6 +205,6 @@ export async function installedOnSimulator(
   run: Running = ran
 ): Promise<Answer> {
   const plan = planFor(given.root, slug)
-  if ("refused" in plan) return { report: [], refusals: [...plan.refused], code: DATA }
+  if ("refused" in plan) return refusedBy([...plan.refused], DATA)
   return await installedBy(given.root, plan, hostIn(), run)
 }
