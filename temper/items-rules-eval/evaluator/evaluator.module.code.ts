@@ -123,6 +123,8 @@ export function evaluateRule(
   return {
     ...baseResult,
     resolvedDestination: dest.concrete === "" ? undefined : dest.concrete,
+    resolvedTargetQuantity:
+      rule.action === "stock" ? (dest.targetQuantity ?? rule.targetQuantity) : undefined,
     verdict,
   }
 }
@@ -177,9 +179,11 @@ function buildOutcome(
       rule: firstMatch,
       action: firstMatch.action,
       destination: firstMatch.resolvedDestination ?? firstMatch.destination,
+      targetQuantity: firstMatch.resolvedTargetQuantity,
       label: formatActionLabel({
         action: firstMatch.action,
         destinationLabel: firstMatch.resolvedDestination ?? firstMatch.destination,
+        targetQuantity: firstMatch.resolvedTargetQuantity,
       }),
     }
   }
@@ -191,9 +195,11 @@ function buildOutcome(
         rule: firstMatch,
         action: firstMatch.action,
         destination: firstMatch.resolvedDestination ?? firstMatch.destination,
+        targetQuantity: firstMatch.resolvedTargetQuantity,
         label: formatActionLabel({
           action: firstMatch.action,
           destinationLabel: firstMatch.resolvedDestination ?? firstMatch.destination,
+          targetQuantity: firstMatch.resolvedTargetQuantity,
         }),
       },
     }

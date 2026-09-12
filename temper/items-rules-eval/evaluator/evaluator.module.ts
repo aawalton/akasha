@@ -6,7 +6,20 @@ export const evaluator = {
   slug: "evaluator",
   definition: "the first-match run of an ordered compiled rule list against one item's facts",
   code: "ts",
+  test: "ts",
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "Only a stock rule's result carries a target quantity.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A target quantity the destination resolved takes the rule's own place.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The outcome's label states the target quantity the outcome carries.",
+    },
     {
       invariantKind: "departure",
       statement:

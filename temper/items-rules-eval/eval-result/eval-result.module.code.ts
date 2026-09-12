@@ -34,6 +34,7 @@ export interface RuleEvalResult {
   readonly destination?: string
   readonly verdict: RuleVerdict
   readonly resolvedDestination?: string
+  readonly resolvedTargetQuantity?: number
 }
 
 export type WalkOutcome =
@@ -42,6 +43,7 @@ export type WalkOutcome =
       readonly rule: RuleEvalResult
       readonly action: ItemAction
       readonly destination?: string
+      readonly targetQuantity?: number
       readonly label: string
     }
   | {
@@ -56,6 +58,7 @@ export type WalkOutcome =
         readonly rule: RuleEvalResult
         readonly action: ItemAction
         readonly destination?: string
+        readonly targetQuantity?: number
         readonly label: string
       }
     }
