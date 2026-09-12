@@ -1,15 +1,18 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { force as forceArgument } from "akasha/commands/arguments/pages/force.argument.ts"
+import { seat } from "akasha/commands/arguments/pages/seat.argument.ts"
 import {
   answering,
   DATA,
-  INPUT,
   OK,
   partWay,
+  refusedBy,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { answeredWith, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { namedIn } from "akasha/commands/modules/seat-act-calling/seat-act-calling.module.code.ts"
+import { seatSupervisorStop as page } from "akasha/commands/pages/seat/supervisor/stop/seat-supervisor-stop.command.ts"
 import { told } from "akasha/git/running/git-running.module.code.ts"
 import { valueAt, valueIn } from "akasha/pages/value/page-value.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
@@ -19,11 +22,6 @@ import {
   type Stopping,
   stopping,
 } from "akasha/seat-system/seat-stopping/seat-stopping.module.code.ts"
-import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
-
-const STOP = "stop"
-
-const FORCE = "--force"
 
 const ID = "id"
 
@@ -65,26 +63,19 @@ export async function stoppedBy(
 }
 
 export async function seatSupervisorStop(argv: readonly string[], given: Given): Promise<Answer> {
-  const named = namedIn(given.calledAs, STOP, argv)
-  if (!("name" in named)) return named
-  const flags = argv.slice(1)
-  const stray = flags.filter((one) => one !== FORCE)
-  if (stray.length > 0) {
-    return refused(
-      `\`${given.calledAs}\` takes \`${FORCE}\` and nothing else, and ${namesDrawn(stray)} followed it`,
-      INPUT
-    )
-  }
-  const page = seatPathForName(named.name)
-  const at = join(given.root, page)
+  const read = takenFor(argv, given.calledAs, page, [forceArgument, seat])
+  if ("refused" in read) return refusedBy(read.refused)
+  const name = read.taken.seat
+  const filed = seatPathForName(name)
+  const at = join(given.root, filed)
   let value: Value | null = null
   if (existsSync(at)) {
-    value = valueAt(page, given.root)
+    value = valueAt(filed, given.root)
   } else {
-    const held = told(given.root, ["show", `HEAD:${page}`])
+    const held = told(given.root, ["show", `HEAD:${filed}`])
     if (held === null) {
       return refused(
-        `no seat named \`${named.name}\` holds a page under \`${given.root}\`, so there is nothing to stop`,
+        `no seat named \`${name}\` holds a page under \`${given.root}\`, so there is nothing to stop`,
         DATA
       )
     }
@@ -93,9 +84,9 @@ export async function seatSupervisorStop(argv: readonly string[], given: Given):
   const agentId = value === null ? null : textAt(value, ID)
   if (agentId === null || agentId === "") {
     return refused(
-      `the page for \`${named.name}\` states no id, and a seat's id is its agent's id, so nothing here says which processes are its own`,
+      `the page for \`${name}\` states no id, and a seat's id is its agent's id, so nothing here says which processes are its own`,
       DATA
     )
   }
-  return await stoppedBy(given, agentId, named.name, flags.includes(FORCE))
+  return await stoppedBy(given, agentId, name, read.taken.force)
 }

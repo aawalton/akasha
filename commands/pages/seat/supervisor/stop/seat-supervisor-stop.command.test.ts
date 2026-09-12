@@ -15,13 +15,13 @@ function given(root: string): Given {
 test("a stop naming no seat is refused", async () => {
   const said = await seatSupervisorStop([], given("/nowhere"))
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("names the seat to stop")
+  expect(said.refusals[0]).toContain("takes `<name>`")
 })
 
 test("a stop given a flag where the seat goes is refused rather than reading it as a name", async () => {
   const said = await seatSupervisorStop(["--force"], given("/nowhere"))
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("is a flag")
+  expect(said.refusals[0]).toContain("takes `<name>`")
 })
 
 test("a stop carrying a flag it does not take is refused", async () => {
