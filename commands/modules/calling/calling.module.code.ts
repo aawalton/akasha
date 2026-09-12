@@ -2,6 +2,11 @@ import { createRequire } from "node:module"
 import { join, resolve } from "node:path"
 import { costRecorded, opening } from "akasha/checks/modules/cost/check-cost.module.code.ts"
 import {
+  DATA,
+  INPUT,
+  refusedBy,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
   helpOf,
   rulesIn,
   surfaceOf,
@@ -208,10 +213,6 @@ function toldOf(root: string, every: readonly string[], calledAs: string): reado
   )
 }
 
-function refusing(said: string): Answer {
-  return { report: [], refusals: [said], code: 1 }
-}
-
 export function unreadIn(root: string, outside: Outside): string | null {
   const at = indexNamed()
   const saying = (opened: string): string =>
@@ -258,14 +259,16 @@ async function answeredBy(
 ): Promise<Answer> {
   const beside = fileBeside(path)
   if (beside === null) {
-    return refusing(
-      `\`${named}\` is a command page, and no code file can sit beside a name like it`
+    return refusedBy(
+      [`\`${named}\` is a command page, and no code file can sit beside a name like it`],
+      DATA
     )
   }
   const reached = reachedIn(join(root, beside))
   if ("why" in reached) {
-    return refusing(
-      `\`${named}\` is a command page, and ${beside} could not be loaded — ${reached.why}`
+    return refusedBy(
+      [`\`${named}\` is a command page, and ${beside} could not be loaded — ${reached.why}`],
+      DATA
     )
   }
   const page = pageIn(root, path, named)
@@ -280,8 +283,9 @@ async function answeredBy(
   }
   const answers = answeringOf(reached.mod, named)
   if (answers === null) {
-    return refusing(
-      `\`${named}\` is a command page, and ${beside} answers to nothing that can be called`
+    return refusedBy(
+      [`\`${named}\` is a command page, and ${beside} answers to nothing that can be called`],
+      DATA
     )
   }
   const calledAs = `${outside.calledAs} ${said}`
@@ -364,7 +368,7 @@ export async function calling(argv: readonly string[], outside: Outside): Promis
   if (unread !== null && refreshNamed(argv)) {
     return indexRefresh(argv.slice(ROOTED_WORDS.length), { ...outside, root })
   }
-  const carried = (saying: (every: readonly string[]) => string): Answer => {
+  const carried = (code: number, saying: (every: readonly string[]) => string): Answer => {
     const every = commandsIn(root)
     const held = [saying(every)]
     if (unread !== null) held.push(unread)
@@ -374,10 +378,10 @@ export async function calling(argv: readonly string[], outside: Outside): Promis
           `Say \`${outside.calledAs} ${HELP}\` for what each of them takes.`
       )
     }
-    return refusing(held.join(" "))
+    return refusedBy([held.join(" ")], code)
   }
   if (named === undefined) {
-    return carried(() => `${outside.calledAs} takes a command, and none was named.`)
+    return carried(INPUT, () => `${outside.calledAs} takes a command, and none was named.`)
   }
   const reached = walkedIn(root, argv)
   const first = reached === null ? undefined : reached.found[0]
@@ -386,17 +390,22 @@ export async function calling(argv: readonly string[], outside: Outside): Promis
     const listing =
       under === null ? null : namespaceSaid(root, under, saidIn(argv, under.held), outside.calledAs)
     if (listing !== null) return { report: listing, refusals: [], code: 0 }
-    return carried((every) =>
-      unread === null
-        ? `\`${named}\` is no command akasha carries.${meantSaid(named, namedIn(root, every))}`
-        : `\`${named}\` was looked for and not read.`
-    )
+    return unread === null
+      ? carried(
+          INPUT,
+          (every) =>
+            `\`${named}\` is no command akasha carries.${meantSaid(named, namedIn(root, every))}`
+        )
+      : carried(DATA, () => `\`${named}\` was looked for and not read.`)
   }
   if (reached.found.length > 1) {
     const among = reached.found.map((one) => `  ${one.path}`).join("\n")
-    return refusing(
-      `\`${reached.named}\` is carried by ${reached.found.length} commands, ` +
-        `so this names more than one:\n${among}`
+    return refusedBy(
+      [
+        `\`${reached.named}\` is carried by ${reached.found.length} commands, ` +
+          `so this names more than one:\n${among}`,
+      ],
+      DATA
     )
   }
   const answer = await answeredBy(

@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { rmSync } from "node:fs"
 import { join } from "node:path"
+import { DATA, INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
   calling,
   commandsIn,
@@ -44,7 +45,7 @@ test("an index naming no page that says which pages are commands says so", async
   const root = rootWith([{ slug: "held", body: ANSWERS }])
   idTakenFrom(root, COMMAND_TYPE)
   const said = await calling(["held"], { ...OUTSIDE, root })
-  expect(said.code).toBe(1)
+  expect(said.code).toBe(DATA)
   expect(said.refusals[0]).toContain(`carries the id \`${COMMAND_TYPE}\``)
   expect(said.refusals[0]).toContain("nothing says which pages are commands")
   expect(said.refusals[0]).not.toContain("carries no command")
@@ -53,7 +54,7 @@ test("an index naming no page that says which pages are commands says so", async
 test("naming no command is answered with the commands there are", async () => {
   const root = rootWith([{ slug: "held", body: ANSWERS }])
   const said = await calling([], { ...OUTSIDE, root })
-  expect(said.code).toBe(1)
+  expect(said.code).toBe(INPUT)
   expect(said.refusals[0]).toContain("takes a command")
   expect(said.refusals[0]).toContain("akasha held")
 })
@@ -61,14 +62,14 @@ test("naming no command is answered with the commands there are", async () => {
 test("a name no command carries is refused, and the commands are listed", async () => {
   const root = rootWith([{ slug: "held", body: ANSWERS }])
   const said = await calling(["nowhere"], { ...OUTSIDE, root })
-  expect(said.code).toBe(1)
+  expect(said.code).toBe(INPUT)
   expect(said.refusals[0]).toContain("`nowhere` is no command akasha carries")
 })
 
 test("a name carried by more than one command is refused rather than chosen between", async () => {
   const root = rootWith([{ slug: "held", body: ANSWERS, also: "akasha/elsewhere/held.command.ts" }])
   const said = await calling(["held"], { ...OUTSIDE, root })
-  expect(said.code).toBe(1)
+  expect(said.code).toBe(DATA)
   expect(said.refusals[0]).toContain("names more than one")
 })
 
@@ -119,7 +120,7 @@ test("a joined name carried by more than one command is refused rather than shor
     { slug: "track-session", body: ANSWERS, also: "akasha/elsewhere/track-session.command.ts" },
   ])
   const said = await calling(["track", "session", "open"], { ...OUTSIDE, root })
-  expect(said.code).toBe(1)
+  expect(said.code).toBe(DATA)
   expect(said.refusals[0]).toContain("`track-session` is carried by 2 commands")
   expect(said.refusals[0]).toContain("names more than one")
 })
@@ -127,7 +128,7 @@ test("a joined name carried by more than one command is refused rather than shor
 test("no run of leading words naming a command is refused under the first word", async () => {
   const root = rootWith([{ slug: "held", body: ANSWERS }])
   const said = await calling(["track", "session", "open"], { ...OUTSIDE, root })
-  expect(said.code).toBe(1)
+  expect(said.code).toBe(INPUT)
   expect(said.refusals[0]).toContain("`track` is no command akasha carries")
 })
 
@@ -198,14 +199,14 @@ test("a command reached in one hyphenated word keeps that hyphen in the call", a
 test("a command page whose code answers to nothing callable is refused", async () => {
   const root = rootWith([{ slug: "held", body: ANSWERS_NOTHING }])
   const said = await calling(["held"], { ...OUTSIDE, root })
-  expect(said.code).toBe(1)
+  expect(said.code).toBe(DATA)
   expect(said.refusals[0]).toContain("answers to nothing that can be called")
 })
 
 test("a command page whose code will not load is refused with why, not with a guess", async () => {
   const root = rootWith([{ slug: "held", body: WILL_NOT_LOAD }])
   const said = await calling(["held"], { ...OUTSIDE, root })
-  expect(said.code).toBe(1)
+  expect(said.code).toBe(DATA)
   expect(said.refusals[0]).toContain("could not be loaded — ")
   expect(said.refusals[0]).not.toContain("answers to nothing")
 })
@@ -213,7 +214,7 @@ test("a command page whose code will not load is refused with why, not with a gu
 test("a command page throwing what is no Error is still refused with what it said", async () => {
   const root = rootWith([{ slug: "held", body: THROWS_NO_ERROR }])
   const said = await calling(["held"], { ...OUTSIDE, root })
-  expect(said.code).toBe(1)
+  expect(said.code).toBe(DATA)
   expect(said.refusals[0]).toContain("could not be loaded — the value was never set")
 })
 
@@ -255,7 +256,7 @@ test("a name looked for where no index is answers as unread", async () => {
   const root = rootWith([{ slug: "held", body: ANSWERS }])
   rmSync(join(root, ".git"), { recursive: true })
   const said = await calling(["held"], { ...OUTSIDE, root })
-  expect(said.code).toBe(1)
+  expect(said.code).toBe(DATA)
   expect(said.refusals[0]).toContain("was looked for and not read")
   expect(said.refusals[0]).not.toContain("is no command akasha carries")
   expect(said.refusals[0]).not.toContain("bun -e ")
@@ -341,6 +342,6 @@ test("a command stating no surface is handed the flag to answer for itself", asy
 test("a name no command carries is told where the surface is written down", async () => {
   const root = rootWith([{ slug: "held", body: ANSWERS }])
   const said = await calling(["nowhere"], { ...OUTSIDE, root })
-  expect(said.code).toBe(1)
+  expect(said.code).toBe(INPUT)
   expect(said.refusals[0]).toContain("Say `akasha --help` for what each of them takes.")
 })

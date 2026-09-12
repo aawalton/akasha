@@ -132,6 +132,15 @@ export const calling = {
     },
     {
       invariantKind: "departure",
+      statement: "A name the caller got wrong is refused as a fault of the call.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A fault in the index or in a command's own page is refused as a fault of the data.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "Such a name near a command's or a namespace's is refused with that name pointed at.",
     },
