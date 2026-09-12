@@ -50,7 +50,7 @@ test("a swap naming a seat and the fleet together is refused", async () => {
 
 test("a swap naming two seats is refused", async () => {
   expect(await swapRefused(["awen", "athena"])).toBe(
-    "`akasha model gateway swap` takes 1 word and this call says 2 words"
+    "`akasha model gateway swap` takes 1 word and this call says 2 words — nothing takes `athena`"
   )
 })
 

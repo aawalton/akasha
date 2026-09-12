@@ -25,7 +25,9 @@ test("naming no test is refused", async () => {
 test("naming a second test is refused", async () => {
   const said = await modelTest(["one", "two"], GIVEN)
 
-  expect(said.refusals[0]).toBe("`akasha model test` takes 1 word and this call says 2 words")
+  expect(said.refusals[0]).toBe(
+    "`akasha model test` takes 1 word and this call says 2 words — nothing takes `two`"
+  )
 })
 
 test("a flag a run does not take is refused by name", async () => {
