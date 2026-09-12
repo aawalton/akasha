@@ -14,16 +14,37 @@ export const domainDag = {
     { said: "--paths", takes: "the file carrying each domain, drawn beside its slug" },
     { said: "--descent", takes: "every page type extending `domain` as well as `domain` itself" },
   ],
-  helpNotes: [
-    "a domain names the domains it holds in `parts`, as `domain/<slug>`, so an edge is read off the domain holding it rather than off the domain held.",
-    "`--domain` and `--up` are each repeatable, and a slug carrying no domain page refuses the call by name.",
-    "a domain held by several domains is drawn beneath each of them, that being what the edges say; the repeats are the graph rather than a fault in the drawing.",
-    "a domain already open further up its own branch is drawn once and marked, so a cycle terminates rather than running away.",
-    "a page of the `domain` page type is what is read by default, `module`, `command` and the other types extending `domain` being outside it.",
-    "`--descent` widens the reading to every page type extending `domain`, which is the whole tree of code rather than the domains alone.",
-    "the pages are read from the index, which carries what each page file declares and applies nothing of its own.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "An edge is read off the `parts` of the domain holding it rather than off the domain held.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`--domain` and `--up` each repeat.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A slug carrying no domain page refuses the call by name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A domain held by several domains is drawn beneath each of them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A domain already open further up its own branch is drawn once and marked.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page of the `domain` page type alone is read where `--descent` is not said.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The pages are read from the index, which applies nothing of its own to what a page declares.",
+    },
     {
       invariantKind: "departure",
       statement: "A flag `domain dag` does not take is refused by name.",
