@@ -31,7 +31,7 @@ export const routerApp = {
     "build-folder-property/declaration-directory",
     "build-folder-property/bundle-directory",
   ],
-  extends: ["page-type/workspace-package"],
+  extends: ["page-type/domain"],
   properties: [
     { pageProperty: "code-file-property/root-route", required: true, many: false },
     { pageProperty: "code-file-property/route-table", required: true, many: false },
@@ -61,6 +61,7 @@ export const routerApp = {
       many: false,
     },
     { pageProperty: "build-folder-property/bundle-directory", required: false, many: false },
+    { pageProperty: "text-property/tool-reached", required: false, many: true, maxCount: null },
   ],
   invariants: [
     {
