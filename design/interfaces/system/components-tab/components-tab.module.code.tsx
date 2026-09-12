@@ -3,8 +3,6 @@
 import { PageTabHeader } from "akasha/design/interfaces/layout/page-tab-header/page-tab-header.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
 import { TabsContent } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
-import { ComponentsCompoundNavPanels } from "akasha/design/interfaces/system/components-compound-nav-panels/components-compound-nav-panels.module.code.tsx"
-import { ComponentsCompoundPanels } from "akasha/design/interfaces/system/components-compound-panels/components-compound-panels.module.code.tsx"
 import { ComponentsCorePanels } from "akasha/design/interfaces/system/components-core-panels/components-core-panels.module.code.tsx"
 import { ComponentsFormControlsPanels } from "akasha/design/interfaces/system/components-form-controls-panels/components-form-controls-panels.module.code.tsx"
 import { ComponentsInputCompositePanels } from "akasha/design/interfaces/system/components-input-composite-panels/components-input-composite-panels.module.code.tsx"
@@ -17,6 +15,8 @@ import { ComponentsSelectionPanels } from "akasha/design/interfaces/system/compo
 import { ComponentsSkeletonPanels } from "akasha/design/interfaces/system/components-skeleton-panels/components-skeleton-panels.module.code.tsx"
 import { ComponentsSortFilterPanels } from "akasha/design/interfaces/system/components-sort-filter-panels/components-sort-filter-panels.module.code.tsx"
 import { ComponentsTextDisplayPanels } from "akasha/design/interfaces/system/components-text-display-panels/components-text-display-panels.module.code.tsx"
+import { ComponentsCompoundNavPanels } from "akasha/design/interfaces/system/modules/components-compound-nav-panels/components-compound-nav-panels.module.code.tsx"
+import { ComponentsCompoundPanels } from "akasha/design/interfaces/system/modules/components-compound-panels/components-compound-panels.module.code.tsx"
 
 export function ComponentsTabContent() {
   return (

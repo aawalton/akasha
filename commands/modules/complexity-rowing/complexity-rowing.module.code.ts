@@ -9,7 +9,7 @@ import {
   type MaintainabilityRow,
   percentile,
   resolveAnalysisInputs,
-} from "akasha/infrastructure/analysis-complexity/complexity-rows/complexity-rows.module.code.ts"
+} from "akasha/infrastructure/analysis-complexity/modules/complexity-rows/complexity-rows.module.code.ts"
 
 const REPORT_TOP = 10
 

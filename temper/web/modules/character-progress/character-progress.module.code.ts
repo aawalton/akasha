@@ -1,5 +1,4 @@
 import type { BadgeToggleGroupItem } from "akasha/design/interfaces/badges/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
-import { transformZoneCompletionProgress } from "akasha/temper/player-completion/completion-zone-progress/completion-zone-progress.module.code.ts"
 import type {
   AchievementTallyCategory,
   CharacterAchievementProgressResult,
@@ -35,6 +34,7 @@ import type {
   CharacterZoneCompletionProgress,
   CompletionCharacter,
 } from "akasha/temper/player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
+import { transformZoneCompletionProgress } from "akasha/temper/player-completion/modules/completion-zone-progress/completion-zone-progress.module.code.ts"
 import type {
   useAccountCompletion,
   useCompletionCharacters,
