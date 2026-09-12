@@ -66,14 +66,42 @@ async function inScratch(run: (cacheDir: string) => Promise<void>): Promise<void
   }
 }
 
+const CHECKPOINT = "the checkpoint this run left outside the checkout"
+
+function batchesIn(done: readonly string[]): readonly string[] {
+  return done.filter((one) => one.startsWith("wrote batch "))
+}
+
+function checkpointsIn(done: readonly string[]): readonly string[] {
+  return done.filter((one) => one.includes(CHECKPOINT))
+}
+
 test("a run that wrote two batches and then broke names both of them", async () => {
   await inScratch(async (cacheDir) => {
     const done: string[] = []
     await expect(runHealthImport(options(cacheDir), reaching(6, 3), done)).rejects.toThrow(BROKE)
-    expect(done).toEqual([
+    expect(batchesIn(done)).toEqual([
       "wrote batch 1, 2 samples, through record line 2",
       "wrote batch 2, 2 samples, through record line 4",
     ])
+  })
+})
+
+test("a run that broke names the checkpoint it left behind, which the next run resumes from", async () => {
+  await inScratch(async (cacheDir) => {
+    const done: string[] = []
+    await expect(runHealthImport(options(cacheDir), reaching(6, 3), done)).rejects.toThrow(BROKE)
+    const named = checkpointsIn(done)
+    expect(named.length).toBe(1)
+    expect(named[0]).toContain(cacheDir)
+  })
+})
+
+test("the checkpoint is named once however many batches rewrite it", async () => {
+  await inScratch(async (cacheDir) => {
+    const done: string[] = []
+    await runHealthImport(options(cacheDir), reaching(5, null), done)
+    expect(checkpointsIn(done).length).toBe(1)
   })
 })
 
@@ -90,7 +118,7 @@ test("a run that ended names every batch it wrote, the last one short", async ()
     const done: string[] = []
     const outcome = await runHealthImport(options(cacheDir), reaching(5, null), done)
     expect(outcome.samplesWritten).toBe(5)
-    expect(done).toEqual([
+    expect(batchesIn(done)).toEqual([
       "wrote batch 1, 2 samples, through record line 2",
       "wrote batch 2, 2 samples, through record line 4",
       "wrote batch 3, 1 samples, through record line 5",

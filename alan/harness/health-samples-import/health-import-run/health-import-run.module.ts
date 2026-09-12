@@ -14,6 +14,10 @@ export const healthImportRun = {
     },
     {
       invariantKind: "departure",
+      statement: "The checkpoint left outside the checkout is named as soon as it is written.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "Samples are written in batches so a run that stops has still landed the batches that came before.",
     },

@@ -16,12 +16,17 @@ import {
 } from "akasha/alan/harness/health-samples-import/health-import/health-import.module.code.ts"
 import {
   checkpointKey,
+  checkpointPath,
   clearCheckpoint,
   readCheckpoint,
   writeCheckpoint,
 } from "akasha/alan/harness/health-samples-import/health-import-checkpoint/health-import-checkpoint.module.code.ts"
 
 export const MAX_IMPORT_BATCH = 1000
+
+export function checkpointSaid(at: string): string {
+  return `${at}, the checkpoint this run left outside the checkout`
+}
 
 export const NO_LOWER_BOUND = "0001-01-01"
 
@@ -117,6 +122,7 @@ export async function runHealthImport(
   let batches = 0
   let samplesWritten = 0
   let write = EMPTY_WRITE
+  let checkpointNamed = false
 
   const flush = async (): Promise<void> => {
     if (buffer.length === 0) return
@@ -145,6 +151,10 @@ export async function runHealthImport(
         },
         opts.cacheDir
       )
+      if (!checkpointNamed) {
+        checkpointNamed = true
+        done.push(checkpointSaid(checkpointPath(key, opts.cacheDir)))
+      }
     }
     opts.onProgress({ batches, recordLines: tally.recordLines, samplesWritten })
   }
