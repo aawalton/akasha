@@ -88,12 +88,9 @@ export function systemdRun(args: readonly string[]): Ran {
   return { code: held.code, out: `${held.out}${held.err}`.trim() }
 }
 
-export function saidOfNothing(
-  kind: string,
-  every: readonly Candidate[],
-  deploying: ReadonlySet<string>
-): string {
-  return `nothing of \`${kind}\` was put up — ${counted(every.length, A_SERVICE)} weighed, and ${deploying.size} with a deploy running`
+export function saidOfNothing(kind: string, every: readonly Candidate[]): string {
+  const deploying = every.filter((one) => one.deploying).length
+  return `nothing of \`${kind}\` was put up — ${counted(every.length, A_SERVICE)} weighed, and ${deploying} of those with a deploy running`
 }
 
 export function scopeLoaded(probe: Running, slug: string): boolean {
@@ -147,7 +144,7 @@ export function ticked(
   const every = candidatesIn(root, kind, deploying)
   const past = chosenPastLoaded(every, now, wantingIn(root, kind, commit), probe)
   if (past.chosen === null) {
-    return { said: [...past.said, saidOfNothing(kind, every, deploying)], wrong: [] }
+    return { said: [...past.said, saidOfNothing(kind, every)], wrong: [] }
   }
   const argv = deployArgv(root, tree, past.chosen.slug)
   if ("refused" in argv) return { said: past.said, wrong: [argv.refused] }

@@ -44,10 +44,13 @@ test("a deploy is run from the tree, under a scope of its own", () => {
 })
 
 test("a tick putting nothing up says how many were weighed and how many were running", () => {
-  const said = saidOfNothing("web-app", [candidate("one"), candidate("two")], new Set(["one"]))
+  const said = saidOfNothing("web-app", [
+    candidate("one"),
+    { ...candidate("two"), deploying: true },
+  ])
   expect(said).toContain("web-app")
   expect(said).toContain("2 services")
-  expect(said).toContain("1 with a deploy running")
+  expect(said).toContain("1 of those with a deploy running")
 })
 
 function showing(state: string): Running {
