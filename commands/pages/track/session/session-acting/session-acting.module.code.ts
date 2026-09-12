@@ -14,10 +14,6 @@ import {
   relationshipsFor,
   relationshipsIn,
 } from "akasha/commands/pages/track/session/session-relationships/session-relationships.module.code.ts"
-import {
-  dayBefore,
-  sleeping,
-} from "akasha/commands/pages/track/session/switch/waking/waking.module.code.ts"
 import type { ActivityDifficulty } from "akasha/commands/pages/track/session-leveling/session-leveling.module.code.ts"
 import {
   activitiesIn,
@@ -32,6 +28,7 @@ import {
   saidFor,
   VALUED,
 } from "akasha/commands/pages/track/session-rows/session-rows.module.code.ts"
+import { dayBefore, sleeping } from "akasha/commands/pages/track/waking/waking.module.code.ts"
 import { SCRATCH_AT } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 export type Standing = {

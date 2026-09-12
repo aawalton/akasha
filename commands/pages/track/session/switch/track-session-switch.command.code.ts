@@ -13,10 +13,6 @@ import {
   taggingOf,
 } from "akasha/commands/pages/track/session/session-relationships/session-relationships.module.code.ts"
 import {
-  opensInto,
-  sleeping,
-} from "akasha/commands/pages/track/session/switch/waking/waking.module.code.ts"
-import {
   AT,
   DRY_RUN,
   faultsIn,
@@ -28,6 +24,7 @@ import {
   shownOf,
   TITLE,
 } from "akasha/commands/pages/track/session-rows/session-rows.module.code.ts"
+import { opensInto, sleeping } from "akasha/commands/pages/track/waking/waking.module.code.ts"
 
 export async function trackSessionSwitch(argv: readonly string[], given: Given): Promise<Answer> {
   const now = new Date()

@@ -3,7 +3,7 @@ import {
   dayBefore,
   opensInto,
   sleeping,
-} from "akasha/commands/pages/track/session/switch/waking/waking.module.code.ts"
+} from "akasha/commands/pages/track/waking/waking.module.code.ts"
 
 test("the day before a day is the day before it on the calendar", () => {
   expect(dayBefore("2026-09-04")).toBe("2026-09-03")
