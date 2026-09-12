@@ -5,7 +5,7 @@ import {
   SEAT_TURN_STATES,
   type SeatTurnState,
   seatTurnStateOf,
-} from "akasha/seat-system/seat-turn-state/seat-turn-state.module.code.ts"
+} from "akasha/agents/seats/modules/turn-state/seat-turn-state.module.code.ts"
 
 export interface SeatHolding {
   readonly initiative: string | null

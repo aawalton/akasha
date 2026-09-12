@@ -7,12 +7,12 @@ import {
   NOW,
   type Reading,
 } from "akasha/agents/seats/modules/forest-reading/seat-forest-reading.module.code.ts"
-import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   SEAT_TURN_STATES,
   type SeatTurnReading,
   type SeatTurnState,
-} from "akasha/seat-system/seat-turn-state/seat-turn-state.module.code.ts"
+} from "akasha/agents/seats/modules/turn-state/seat-turn-state.module.code.ts"
+import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 
 const ASTRA: ForestRow = {
   id: "01a00000-0000-7000-8000-00000000000a",

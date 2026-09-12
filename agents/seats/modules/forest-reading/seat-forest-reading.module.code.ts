@@ -12,7 +12,7 @@ import {
   type SeatTurnReading,
   type SeatTurnState,
   seatTurnStateOf,
-} from "akasha/seat-system/seat-turn-state/seat-turn-state.module.code.ts"
+} from "akasha/agents/seats/modules/turn-state/seat-turn-state.module.code.ts"
 
 export type ForestSeat = ForestRow & {
   readonly state: SeatTurnState
