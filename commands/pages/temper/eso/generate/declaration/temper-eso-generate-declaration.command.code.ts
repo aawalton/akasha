@@ -13,12 +13,11 @@ import {
 } from "akasha/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.decision.code.ts"
 import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
 import {
-  answeredWith,
   DATA,
   keeping,
-  OK,
   OPERATIONAL,
   refused,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
@@ -251,19 +250,15 @@ async function generated(done: string[], taken: Taken, given: Given): Promise<An
     }
   }
 
-  return answeredWith(
-    [
-      `${String(selected.functions.length)} function(s), ${String(selected.objects.length)} object(s), ` +
-        `${String(selected.events.length)} event(s) and ${String(selected.enums.length)} enum(s) ` +
-        `are declared in ${outDir}`,
-      asked.length === 0
-        ? `${outDir} already held every one, so nothing landed`
-        : `landed ${String(asked.length)} file(s)`,
-      `read from ${docPath} at API version ${String(apiVersion)}`,
-    ],
-    [],
-    OK
-  )
+  return told([
+    `${String(selected.functions.length)} function(s), ${String(selected.objects.length)} object(s), ` +
+      `${String(selected.events.length)} event(s) and ${String(selected.enums.length)} enum(s) ` +
+      `are declared in ${outDir}`,
+    asked.length === 0
+      ? `${outDir} already held every one, so nothing landed`
+      : `landed ${String(asked.length)} file(s)`,
+    `read from ${docPath} at API version ${String(apiVersion)}`,
+  ])
 }
 
 export async function declaring(
