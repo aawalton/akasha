@@ -11,7 +11,7 @@ export const athenaCommandTree = {
     {
       statement: "One check judges the whole command tree.",
       workingMemory:
-        "`checks/code-checks/pages/command-is-named-by-its-place-in-the-tree/` is the one check over the tree. It holds a slug to its path hyphenated, a folder to the parts tree, a level's name against every name above it, and the page naming a level to being a namespace or the `command` page type. A level's own name is its folder, since no page states one yet. Its gap says a namespace holds more than one part; six hold one, among them `icloud` and `google/drive`. Do those six collapse?\n",
+        "`command-is-named-by-its-place-in-the-tree` is the one check. It now judges the parts of every changed page under commands (`a9a6e9e1bbe`), owns the test its group owes (`46cece2f178`), and says what it reaches and leaves unjudged (`e54f512edde`). Two questions are Alan's: should akasha refuse a module under `commands/pages/**` not under the lowest command importing it, refusing 12 modules there today; and its gap says a namespace holds more than one part, where six hold one.",
     },
     {
       statement:
