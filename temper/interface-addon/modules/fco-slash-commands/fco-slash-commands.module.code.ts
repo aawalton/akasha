@@ -1,4 +1,4 @@
-import { reloadUI } from "akasha/temper/ui-reload/reload-ui/reload-ui.module.code.ts"
+import { reloadUI } from "akasha/temper/ui-reload/modules/reload-ui/reload-ui.module.code.ts"
 
 export function parseSlashCommands(this: void, args: string, lowerString?: boolean): string[] {
   const doLower = lowerString ?? false

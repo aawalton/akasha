@@ -18,7 +18,7 @@ import {
   setCurrentSelectedPack,
 } from "akasha/temper/selector-addon/selector-saved-variables/selector-saved-variables.module.code.ts"
 import type { Pack } from "akasha/temper/selector-addon/selector-types/selector-types.module.code.ts"
-import { reloadUI } from "akasha/temper/ui-reload/reload-ui/reload-ui.module.code.ts"
+import { reloadUI } from "akasha/temper/ui-reload/modules/reload-ui/reload-ui.module.code.ts"
 
 function isCharacterScoped(charName: string | undefined): boolean {
   if (charName !== undefined && charName !== "" && charName !== GLOBAL_PACK_NAME) {

@@ -2,7 +2,7 @@ import { calculateCompanionStatsWithBaseline } from "akasha/temper/companions-co
 import type { CompanionStatsResult } from "akasha/temper/companions-core/modules/companion-stats-result/companion-stats-result.module.code.ts"
 import type { ReferenceBaseline } from "akasha/temper/companions-core/modules/companion-support-types/companion-support-types.module.code.ts"
 import type { CompanionState } from "akasha/temper/companions-core/modules/companion-types/companion-types.module.code.ts"
-import { getReferenceBaseline } from "akasha/temper/companions-core/reference-build-data/reference-build-data.module.code.ts"
+import { getReferenceBaseline } from "akasha/temper/companions-core/modules/reference-build-data/reference-build-data.module.code.ts"
 
 export function calculateCompanionStats(
   build: CompanionState,

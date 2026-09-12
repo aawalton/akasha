@@ -9,7 +9,7 @@ import {
 import {
   createRegularPipeline,
   type RegularResult,
-} from "akasha/pages/ui-store/query/regular-pipeline/regular-pipeline.module.code.ts"
+} from "akasha/pages/ui-store/query/modules/regular-pipeline/regular-pipeline.module.code.ts"
 import type { UsePagesOptions } from "akasha/pages/ui-store/sql/modules/options/options.module.code.ts"
 import { noOp } from "akasha/utils/narrow/modules/no-op/no-op.module.code.ts"
 import { useMemo } from "react"

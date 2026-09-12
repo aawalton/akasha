@@ -13,7 +13,7 @@ import {
   type EquipmentQualityId,
   resolveQuality,
 } from "akasha/temper/equipment-kinds/modules/equipment-qualities/equipment-qualities.module.code.ts"
-import { valuesOf } from "akasha/temper/formula-framework/record-parts/record-parts.module.code.ts"
+import { valuesOf } from "akasha/temper/formula-framework/modules/record-parts/record-parts.module.code.ts"
 
 function getSetInfo(
   item: ArmorSlotItem | JewelrySlotItem | WeaponSlotItem

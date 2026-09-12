@@ -11,7 +11,7 @@ import type { SetId } from "akasha/temper/equipment/set-ids/set-ids.module.code.
 import type { SetTemplate } from "akasha/temper/equipment/set-template/set-template.module.code.ts"
 import { weaponBars } from "akasha/temper/equipment-kinds/weapon-bars/weapon-bars.module.code.ts"
 import { weaponSlots } from "akasha/temper/equipment-kinds/weapon-slots/weapon-slots.module.code.ts"
-import { valuesOf } from "akasha/temper/formula-framework/record-parts/record-parts.module.code.ts"
+import { valuesOf } from "akasha/temper/formula-framework/modules/record-parts/record-parts.module.code.ts"
 
 export function getEquippedMythicSetId(
   loadout: Loadout,

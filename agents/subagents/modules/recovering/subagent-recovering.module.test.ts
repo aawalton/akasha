@@ -4,7 +4,7 @@ import { dirname, join } from "node:path"
 import {
   refusalsAt,
   refusalsKept,
-} from "akasha/agents/refusals-keeping/refusals-keeping.module.code.ts"
+} from "akasha/agents/modules/refusals-keeping/refusals-keeping.module.code.ts"
 import {
   movedOnto,
   namedAt,

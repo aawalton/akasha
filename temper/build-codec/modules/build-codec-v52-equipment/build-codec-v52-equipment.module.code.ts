@@ -39,7 +39,7 @@ import type { BitReaderState } from "akasha/temper/build-hash/modules/build-hash
 import { readBits } from "akasha/temper/build-hash/modules/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
 import type { BitWriterState } from "akasha/temper/build-hash/modules/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
 import { writeBits } from "akasha/temper/build-hash/modules/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
-import { recordFromKeys } from "akasha/temper/build-hash/record-from-keys/record-from-keys.module.code.ts"
+import { recordFromKeys } from "akasha/temper/build-hash/modules/record-from-keys/record-from-keys.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import type {
   ArmorSlotItem,

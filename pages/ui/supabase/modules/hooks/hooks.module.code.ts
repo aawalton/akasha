@@ -3,7 +3,7 @@
 import { flattenRow } from "akasha/pages/access/routing-core/routing-core.module.code.ts"
 import { NEVER_MATCH_VALUE } from "akasha/pages/access/sentinels/sentinels.module.code.ts"
 import type { PageWhere } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
-import { readTargetPageTypeId } from "akasha/pages/core/property-types/relation/relation.module.code.ts"
+import { readTargetPageTypeId } from "akasha/pages/core/property-types/modules/relation/relation.module.code.ts"
 import {
   useAcquireSlug,
   usePipelineLive,
@@ -17,7 +17,7 @@ import {
   type PageWithProperties,
   toPageWithProperties,
 } from "akasha/pages/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
-import { getRelatedPagesByIdCoalesced } from "akasha/pages/ui/supabase/related-pages-coalesce/related-pages-coalesce.module.code.ts"
+import { getRelatedPagesByIdCoalesced } from "akasha/pages/ui/supabase/modules/related-pages-coalesce/related-pages-coalesce.module.code.ts"
 import {
   type UsePagesSupabaseOptions,
   usePages,

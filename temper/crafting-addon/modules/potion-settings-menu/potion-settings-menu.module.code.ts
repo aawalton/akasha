@@ -4,7 +4,7 @@ import {
   getPlayerSettings,
 } from "akasha/temper/crafting-addon/modules/potion-saved-variables/potion-saved-variables.module.code.ts"
 import { PotMaker } from "akasha/temper/crafting-addon/modules/potion-state/potion-state.module.code.ts"
-import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
+import { registerPanel } from "akasha/temper/settings-panel/modules/register-panel/register-panel.module.code.ts"
 
 interface LAM2PanelData {
   type: "panel"

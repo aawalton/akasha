@@ -9,7 +9,7 @@ import type {
   PropertyType,
 } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import type { PropertyValue } from "akasha/pages/core/property-types/modules/property-type-ops/property-type-ops.module.code.ts"
-import { propertyTypeRendersWhenEmpty } from "akasha/pages/core/property-types/registry/registry.module.code.ts"
+import { propertyTypeRendersWhenEmpty } from "akasha/pages/core/property-types/modules/registry/registry.module.code.ts"
 import { PROPERTY_BADGE_REGISTRY } from "akasha/pages/ui/components/modules/badge-registry/badge-registry.module.code.ts"
 import type { ComponentType } from "react"
 

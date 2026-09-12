@@ -9,7 +9,7 @@ import { addMapPinFilterOptions } from "akasha/temper/lorebooks/modules/lorebook
 import { addPinAppearanceOptions } from "akasha/temper/lorebooks/modules/lorebooks-pin-appearance/lorebooks-pin-appearance.module.code.ts"
 import { addPinMenuOptions } from "akasha/temper/lorebooks/modules/lorebooks-pin-menus/lorebooks-pin-menus.module.code.ts"
 import { asLamControlDataArray } from "akasha/temper/lorebooks/modules/lorebooks-settings-types/lorebooks-settings-types.module.code.ts"
-import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
+import { registerPanel } from "akasha/temper/settings-panel/modules/register-panel/register-panel.module.code.ts"
 
 const LAM = LibAddonMenu2
 

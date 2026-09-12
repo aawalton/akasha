@@ -26,7 +26,7 @@ import {
 import {
   MultiRelationValueInput,
   RelationValueInput,
-} from "akasha/pages/ui/components/relation-filter-inputs/relation-filter-inputs.module.code.tsx"
+} from "akasha/pages/ui/components/modules/relation-filter-inputs/relation-filter-inputs.module.code.tsx"
 import {
   CalendarTimeValueInput,
   DateValueInput,

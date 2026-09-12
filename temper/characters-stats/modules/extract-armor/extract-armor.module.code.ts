@@ -1,6 +1,6 @@
 import { createArmorSource } from "akasha/temper/characters-equipment/modules/armor-source/armor-source.module.code.ts"
 import type { PipelineStage } from "akasha/temper/characters-stats/modules/pipeline-types/pipeline-types.module.code.ts"
-import { valuesOf } from "akasha/temper/formula-framework/record-parts/record-parts.module.code.ts"
+import { valuesOf } from "akasha/temper/formula-framework/modules/record-parts/record-parts.module.code.ts"
 
 export const extractArmor: PipelineStage = (build, context) => {
   const armorItems = valuesOf(build.equipment.armor)

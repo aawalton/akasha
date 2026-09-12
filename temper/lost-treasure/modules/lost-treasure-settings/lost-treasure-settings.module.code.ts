@@ -30,7 +30,7 @@ import {
   header,
   type LamHeaderData,
 } from "akasha/temper/settings-panel/modules/header/header.module.code.ts"
-import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
+import { registerPanel } from "akasha/temper/settings-panel/modules/register-panel/register-panel.module.code.ts"
 
 const logger = createLogger("settings")
 

@@ -1,7 +1,7 @@
 import type {
   RecurrenceDueResult,
   RecurrenceTask,
-} from "akasha/alan/harness/recurrence/shape/recurrence-shape.module.code.ts"
+} from "akasha/alan/harness/recurrence/modules/shape/recurrence-shape.module.code.ts"
 import { padTwo } from "akasha/utils/digit-padding/modules/pad-two/pad-two.module.code.ts"
 import { RRule } from "rrule"
 

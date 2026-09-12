@@ -3,7 +3,7 @@ import { dirname, join } from "node:path"
 import {
   refusalsAt,
   refusalsKept,
-} from "akasha/agents/refusals-keeping/refusals-keeping.module.code.ts"
+} from "akasha/agents/modules/refusals-keeping/refusals-keeping.module.code.ts"
 import { subagentEdits } from "akasha/agents/seats/properties/subagent-edits.file-property.ts"
 import { subagentRefusals } from "akasha/agents/seats/properties/subagent-refusals.file-property.ts"
 import {

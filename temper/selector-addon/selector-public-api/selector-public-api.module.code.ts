@@ -14,7 +14,7 @@ import {
   showActivePackInChat,
   startAddonSearch,
 } from "akasha/temper/selector-addon/selector-search/selector-search.module.code.ts"
-import { reloadUI } from "akasha/temper/ui-reload/reload-ui/reload-ui.module.code.ts"
+import { reloadUI } from "akasha/temper/ui-reload/modules/reload-ui/reload-ui.module.code.ts"
 
 globalThis.TemperAddons = {
   ReloadTheUI: reloadUI,

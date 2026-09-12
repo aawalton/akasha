@@ -9,7 +9,7 @@ import { buildDialogSections } from "akasha/temper/interface-addon/modules/quiet
 import { buildGuildSubmenus } from "akasha/temper/interface-addon/modules/quiet-settings-guilds/quiet-settings-guilds.module.code.ts"
 import { buildMessageSections } from "akasha/temper/interface-addon/modules/quiet-settings-messages/quiet-settings-messages.module.code.ts"
 import { buildWorldSections } from "akasha/temper/interface-addon/modules/quiet-settings-world/quiet-settings-world.module.code.ts"
-import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
+import { registerPanel } from "akasha/temper/settings-panel/modules/register-panel/register-panel.module.code.ts"
 
 export function buildSettingsMenu(this: void): undefined {
   const panelData: LamPanelData = {

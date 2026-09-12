@@ -15,7 +15,7 @@ import { buildMiscPoiSubmenu } from "akasha/temper/navigation-addon/modules/dest
 import { buildUnknownPoiSubmenu } from "akasha/temper/navigation-addon/modules/destinations-settings-unknown-poi/destinations-settings-unknown-poi.module.code.ts"
 import { buildVampireWerewolfSubmenu } from "akasha/temper/navigation-addon/modules/destinations-settings-vampire-werewolf/destinations-settings-vampire-werewolf.module.code.ts"
 import { whenPanelControlsCreated } from "akasha/temper/settings-panel/modules/panel-controls-created/panel-controls-created.module.code.ts"
-import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
+import { registerPanel } from "akasha/temper/settings-panel/modules/register-panel/register-panel.module.code.ts"
 
 const LAM = LibAddonMenu2
 

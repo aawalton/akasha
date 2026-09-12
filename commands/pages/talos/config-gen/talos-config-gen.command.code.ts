@@ -23,7 +23,7 @@ import {
   getClusterForNode,
   getNode,
 } from "akasha/infrastructure/cluster/provisioning/talos/modules/nodes/nodes.module.code.ts"
-import { readRegistryCa } from "akasha/infrastructure/cluster/provisioning/talos/registry-ca/registry-ca.module.code.ts"
+import { readRegistryCa } from "akasha/infrastructure/cluster/provisioning/talos/modules/registry-ca/registry-ca.module.code.ts"
 import type {
   ClusterIntent,
   NodeIntent,

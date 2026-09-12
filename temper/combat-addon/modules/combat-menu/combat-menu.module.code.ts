@@ -6,7 +6,7 @@ import {
   type TemperCombatSettings,
 } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
 import { resizeReport } from "akasha/temper/combat-addon/modules/combat-ui-window/combat-ui-window.module.code.ts"
-import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
+import { registerPanel } from "akasha/temper/settings-panel/modules/register-panel/register-panel.module.code.ts"
 
 function getRawAccountWideSettings(): Record<string, unknown> {
   const accountTable = globalThis.TemperCombat_Save?.Default?.[GetDisplayName()]?.["$AccountWide"]

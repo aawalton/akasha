@@ -3,7 +3,7 @@ import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { ProcLivenessEntry } from "akasha/agents/modules/proc-liveness/agent-proc-liveness.module.code.ts"
 import { entry } from "akasha/agents/modules/proc-liveness/agent-proc-liveness.module.test-fixtures.ts"
-import { refusalsKept } from "akasha/agents/refusals-keeping/refusals-keeping.module.code.ts"
+import { refusalsKept } from "akasha/agents/modules/refusals-keeping/refusals-keeping.module.code.ts"
 import {
   seatEditsAt,
   seatRefusalsAt,

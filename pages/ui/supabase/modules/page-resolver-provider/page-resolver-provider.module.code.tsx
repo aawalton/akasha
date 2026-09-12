@@ -10,9 +10,9 @@ import {
   type RelationPickerArgs,
   RelationPickerProvider,
   type RelationPickerResult,
-} from "akasha/pages/ui/contexts/relation-picker-context/relation-picker-context.module.code.tsx"
+} from "akasha/pages/ui/contexts/modules/relation-picker-context/relation-picker-context.module.code.tsx"
 import type { PageWithProperties } from "akasha/pages/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
-import { usePaginatedRelationPicker } from "akasha/pages/ui/supabase/relation-picker/relation-picker.module.code.ts"
+import { usePaginatedRelationPicker } from "akasha/pages/ui/supabase/modules/relation-picker/relation-picker.module.code.ts"
 import { createContext, useCallback, useContext, useMemo } from "react"
 
 interface SupabasePageResolverProviderProps {

@@ -21,7 +21,7 @@ import {
   renameView as renameViewReducer,
   reorderViews as reorderViewsReducer,
   updateViewConfig as updateViewConfigReducer,
-} from "akasha/pages/core/view-state/reducers/reducers.module.code.ts"
+} from "akasha/pages/core/view-state/modules/reducers/reducers.module.code.ts"
 import type {
   ViewEffect,
   ViewRow,

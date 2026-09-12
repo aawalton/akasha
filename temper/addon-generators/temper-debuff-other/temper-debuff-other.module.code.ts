@@ -1,6 +1,6 @@
 import type { Page } from "akasha/temper/addon-generators/modules/addon-data-page/addon-data-page.module.code.ts"
 import { DO_NOT_EDIT } from "akasha/temper/addon-generators/modules/do-not-edit/do-not-edit.module.code.ts"
-import { renderBuffEffectEntry } from "akasha/temper/addon-generators/render-buff-effect-entry/render-buff-effect-entry.module.code.ts"
+import { renderBuffEffectEntry } from "akasha/temper/addon-generators/modules/render-buff-effect-entry/render-buff-effect-entry.module.code.ts"
 import { z } from "zod"
 
 const SCALAR_EFFECT_SCHEMA = z

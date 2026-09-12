@@ -4,7 +4,7 @@ import "akasha/temper/addon-library-types/lib-addon-menu/lib-addon-menu.type-dec
 
 import { initializeSavedVariables } from "akasha/temper/events-addon/modules/next-boss-saved-variables/next-boss-saved-variables.module.code.ts"
 import { ICT } from "akasha/temper/events-addon/modules/next-boss-state/next-boss-state.module.code.ts"
-import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
+import { registerPanel } from "akasha/temper/settings-panel/modules/register-panel/register-panel.module.code.ts"
 
 const PANEL_ID = "ICTS"
 

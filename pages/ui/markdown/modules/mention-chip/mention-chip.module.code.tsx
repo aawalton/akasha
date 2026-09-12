@@ -5,8 +5,8 @@ import { formatSmartDate } from "akasha/pages/core/view/modules/format-smart-dat
 import type {
   MentionResolver,
   MentionType,
-} from "akasha/pages/ui/markdown/remark-mentions/remark-mentions.module.code.ts"
-import { isMentionType } from "akasha/pages/ui/markdown/remark-mentions/remark-mentions.module.code.ts"
+} from "akasha/pages/ui/markdown/modules/remark-mentions/remark-mentions.module.code.ts"
+import { isMentionType } from "akasha/pages/ui/markdown/modules/remark-mentions/remark-mentions.module.code.ts"
 
 const VARIANT_BY_MENTION_TYPE: Record<MentionType, "accent" | "green" | "blue"> = {
   page: "accent",

@@ -14,8 +14,8 @@ import {
   type RelationValue,
   resolveRelationName,
   resolveRelationVariant,
-} from "akasha/pages/ui/components/relation-display/relation-display.module.code.ts"
-import { RelationPopover } from "akasha/pages/ui/components/relation-popover/relation-popover.module.code.tsx"
+} from "akasha/pages/ui/components/modules/relation-display/relation-display.module.code.ts"
+import { RelationPopover } from "akasha/pages/ui/components/modules/relation-popover/relation-popover.module.code.tsx"
 import { usePageResolverOptional } from "akasha/pages/ui/contexts/modules/page-resolver-context/page-resolver-context.module.code.tsx"
 
 function colClassFor(align: "start" | "end"): string {

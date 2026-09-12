@@ -12,7 +12,7 @@ import type {
 } from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import { isNamedShape } from "akasha/temper/player-completion/modules/completion-named-shape/completion-named-shape.module.code.ts"
 import { isObjectRecord } from "akasha/utils/narrow/modules/is-object-record/is-object-record.module.code.ts"
-import { recordField } from "akasha/utils/narrow/record-field/record-field.module.code.ts"
+import { recordField } from "akasha/utils/narrow/modules/record-field/record-field.module.code.ts"
 
 type ExhaustiveRecipeList = { name: string; recipes: Record<string, { known: boolean }> }
 
