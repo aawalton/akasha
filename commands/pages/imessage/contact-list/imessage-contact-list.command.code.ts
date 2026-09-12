@@ -1,47 +1,24 @@
-import {
-  JSON_SAID,
-  type Reading,
-  wordsIn,
-} from "akasha/alan/harness/imessage/command-reading/imessage-command-reading.module.code.ts"
 import { searchContacts } from "akasha/alan/harness/imessage/contacts-db/contacts-db.module.code.ts"
 import { fetchContacts } from "akasha/alan/harness/imessage/remote/imessage-remote.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { contactQuery } from "akasha/commands/arguments/pages/contact-query.argument.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import {
   answering,
   asJson,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { wordFilling } from "akasha/commands/modules/filling/command-filling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { imessageContactList as page } from "akasha/commands/pages/imessage/contact-list/imessage-contact-list.command.ts"
 
-const QUERY = "--query"
-
-const VALUED = [QUERY]
-
-const SWITCHES = [JSON_SAID]
-
-const WANTS = "the name searched for"
-
-export type Read = {
-  readonly query: string
-  readonly json: boolean
-}
-
-export function readIn(argv: readonly string[]): Reading<Read> {
-  const said = wordsIn(argv, VALUED, SWITCHES)
-  if ("refused" in said) return said
-  const query = wordFilling(said, QUERY, WANTS)
-  if (typeof query === "object") return query
-  if (query === undefined) return { refused: [`this names ${WANTS}, and nothing did`] }
-  return { query, json: said.flags.has(JSON_SAID) }
-}
-
-export function imessageContactList(argv: readonly string[]): Promise<Answer> {
-  const said = readIn(argv)
-  if ("refused" in said) return Promise.resolve(refusedBy(said.refused))
+export function imessageContactList(argv: readonly string[], given: Given): Promise<Answer> {
+  const read = takenFor(argv, given.calledAs, page, [json, contactQuery])
+  if ("refused" in read) return Promise.resolve(refusedBy(read.refused))
+  const taken = read.taken
   return answering(async () => {
-    const matched = searchContacts(await fetchContacts(), said.query)
-    if (said.json) return asJson(matched)
+    const matched = searchContacts(await fetchContacts(), taken.contactQuery)
+    if (taken.json) return asJson(matched)
     return told(
       matched.map((one) => `${one.name}\t${one.phones.join(",")}\t${one.emails.join(",")}`)
     )

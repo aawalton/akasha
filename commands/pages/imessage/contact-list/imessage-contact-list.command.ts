@@ -37,6 +37,6 @@ export const imessageContactList = {
   name: "contact-list",
   arguments: [
     { argument: "argument/json" },
-    { argument: "argument/contact-query", saidAs: "flag-or-word" },
+    { argument: "argument/contact-query", required: true, saidAs: "flag-or-word" },
   ],
 } as const satisfies Command
