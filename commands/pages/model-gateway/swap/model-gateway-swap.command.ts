@@ -13,12 +13,6 @@ export const modelGatewaySwap = {
     { said: "--fleet", takes: "every live seat in turn rather than one named" },
     { said: "--json", takes: "the answer as one JSON object rather than as rows" },
   ],
-  helpNotes: [
-    "a swap writes the ask into the seat's uncommitted values, and the supervisor takes it up as it handles and respawns the gateway alone.",
-    "the port holds, the address the client is pointed at holds, and the client in the seat is not restarted.",
-    "a seat holding no live gateway is passed over, and its next boot spawns at whatever version is there then.",
-    "a swap is for rolling out a fix that cannot wait, since an ordinary deploy no longer reaches a running gateway.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
