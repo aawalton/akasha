@@ -1,5 +1,10 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { jsonInOneObject } from "akasha/commands/arguments/pages/json-in-one-object.argument.ts"
+import { limit as limitArgument } from "akasha/commands/arguments/pages/limit.argument.ts"
+import { logDir as logDirArgument } from "akasha/commands/arguments/pages/log-dir.argument.ts"
+import { since as sinceArgument } from "akasha/commands/arguments/pages/since.argument.ts"
 import {
   asJson,
   DATA,
@@ -8,6 +13,8 @@ import {
   refused,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { temperWatcherLogList as page } from "akasha/commands/pages/temper/watcher/log-list/temper-watcher-log-list.command.ts"
 import type {
   LogSource,
   WatcherLogLine,
@@ -16,38 +23,15 @@ import { parseWatcherLine } from "akasha/temper/watcher/watcher-log-line/watcher
 import { mergeNewestFirst } from "akasha/temper/watcher/watcher-log-merging/watcher-log-merging.module.code.ts"
 import { watcherLogDir } from "akasha/temper/watcher/watcher-paths/watcher-paths.module.code.ts"
 
-const SINCE = "--since"
-const LIMIT = "--limit"
-const LOG_DIR = "--log-dir"
-const JSON_SAID = "--json"
-const VALUED: readonly string[] = [SINCE, LIMIT, LOG_DIR]
+const NAMED = [limitArgument, sinceArgument, logDirArgument, jsonInOneObject]
+
+const SINCE_BY_DEFAULT = "1h"
+
+const LIMIT_BY_DEFAULT = 500
 
 const UNITS: Readonly<Record<string, number>> = { s: 1000, m: 60000, h: 3600000, d: 86400000 }
 
 const DURATION = /^(\d+)([smhd])$/
-
-type Told = { readonly named: Record<string, string>; readonly flags: readonly string[] }
-
-function told(argv: readonly string[], calledAs: string): Told | string {
-  const named: Record<string, string> = {}
-  const flags: string[] = []
-  for (let at = 0; at < argv.length; at += 1) {
-    const one = argv[at] as string
-    if (VALUED.includes(one)) {
-      const value = argv[at + 1]
-      if (value === undefined) return `\`${one}\` was said with nothing after it`
-      named[one] = value
-      at += 1
-      continue
-    }
-    if (one === JSON_SAID) {
-      flags.push(one)
-      continue
-    }
-    return `\`${one}\` is nothing \`${calledAs}\` takes`
-  }
-  return { named, flags }
-}
 
 function millisOf(said: string): number | null {
   const found = DURATION.exec(said)
@@ -74,21 +58,24 @@ function linesIn(path: string, source: LogSource): readonly WatcherLogLine[] | n
 }
 
 export function temperWatcherLogList(argv: readonly string[], given: Given): Answer {
-  const read = told(argv, given.calledAs)
-  if (typeof read === "string") return refused(read, INPUT)
+  const read = takenFor(argv, given.calledAs, page, NAMED)
+  if ("refused" in read) return mistaking(read.refused)
+  const taken = read.taken
 
-  const sinceSaid = read.named[SINCE] ?? "1h"
+  const sinceSaid = taken.since ?? SINCE_BY_DEFAULT
   const sinceMillis = millisOf(sinceSaid)
   if (sinceMillis === null) {
     return refused(`\`${sinceSaid}\` is no duration — say a count and one of s, m, h or d`, INPUT)
   }
-  const limitSaid = read.named[LIMIT] ?? "500"
-  const limit = Number.parseInt(limitSaid, 10)
-  if (!Number.isInteger(limit) || limit <= 0 || String(limit) !== limitSaid) {
-    return refused(`\`${limitSaid}\` is no count of records — say a whole number above zero`, INPUT)
+  const limit = taken.limit ?? LIMIT_BY_DEFAULT
+  if (limit === 0) {
+    return refused(
+      `\`${limitArgument.said} 0\` reads no records — say a whole number above zero`,
+      INPUT
+    )
   }
 
-  const dir = read.named[LOG_DIR] ?? watcherLogDir()
+  const dir = taken.logDir ?? watcherLogDir()
   const workerPath = join(dir, "watcher.log")
   const trayPath = join(dir, "tray.log")
   const fromWorker = linesIn(workerPath, "watcher")
@@ -100,7 +87,7 @@ export function temperWatcherLogList(argv: readonly string[], given: Given): Ans
   const merged = mergeNewestFirst(fromWorker ?? [], fromTray ?? [], Date.now() - sinceMillis)
   const capped = merged.slice(0, limit)
 
-  if (read.flags.includes(JSON_SAID)) {
+  if (taken.jsonInOneObject) {
     return asJson({ lines: capped, count: capped.length })
   }
   return { report: capped.map((one) => JSON.stringify(one)), refusals: [], code: OK }
