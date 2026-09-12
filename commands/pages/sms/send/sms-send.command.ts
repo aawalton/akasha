@@ -6,6 +6,7 @@ export const smsSend = {
   slug: "sms-send",
   definition: "the command putting one text message out over the toll-free number",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -22,6 +23,23 @@ export const smsSend = {
     {
       invariantKind: "absence",
       statement: "No message is taken back once that message is sent.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A message the carrier took is named as soon as the carrier answers that it took it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal after that names the message the carrier took.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A carrier that refused the message leaves the refusal naming no message taken.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The reaching of the carrier is handed in.",
     },
     {
       invariantKind: "departure",

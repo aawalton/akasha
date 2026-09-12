@@ -1,3 +1,4 @@
+import type { TelnyxSendRequest } from "akasha/alan/harness/sms-core/telnyx-send/telnyx-send.module.code.ts"
 import {
   buildTelnyxSendRequest,
   parseTelnyxSendResponse,
@@ -12,6 +13,7 @@ import { toNumber } from "akasha/commands/arguments/pages/to-number.argument.ts"
 import {
   answering,
   asJson,
+  keeping,
   OPERATIONAL,
   refusedBy,
   told,
@@ -56,7 +58,77 @@ export function credentialIn(named: string): Reading<string> {
   }
 }
 
-export function smsSend(argv: readonly string[], given: Given): Promise<Answer> {
+export function sentSaid(to: string): string {
+  return (
+    `the carrier took the message for ${to}, ` +
+    "and a message the carrier took reaches the phone whatever this answers"
+  )
+}
+
+export type Named = {
+  readonly apiKey: string
+  readonly from: string
+  readonly to: string
+  readonly text: string
+  readonly baseUrl: string | undefined
+  readonly json: boolean
+}
+
+export type Reaching = (asked: TelnyxSendRequest) => Promise<Response>
+
+export async function reached(asked: TelnyxSendRequest): Promise<Response> {
+  return await fetch(asked.url, {
+    method: asked.method,
+    headers: asked.headers,
+    body: asked.body,
+  })
+}
+
+export async function sent(done: string[], named: Named, reaching: Reaching): Promise<Answer> {
+  const asked = buildTelnyxSendRequest({
+    apiKey: named.apiKey,
+    from: named.from,
+    to: named.to,
+    text: named.text,
+    ...(named.baseUrl === undefined ? {} : { baseUrl: named.baseUrl }),
+  })
+  const answer = await reaching(asked)
+  if (!answer.ok) {
+    return refusedBy([`the carrier answered HTTP ${String(answer.status)}`], OPERATIONAL)
+  }
+  done.push(sentSaid(named.to))
+  let carried: unknown
+  try {
+    carried = await answer.json()
+  } catch {
+    return refusedBy(
+      [`the carrier answered HTTP ${String(answer.status)} with no JSON in it`],
+      OPERATIONAL
+    )
+  }
+  const answered = parseTelnyxSendResponse(carried)
+  if (!answered.ok) {
+    return refusedBy([`the carrier answered ${answered.reason}`], OPERATIONAL)
+  }
+  if (named.json) return asJson({ sent: true, to: named.to, id: answered.id })
+  return told([`sent\t${named.to}\t${answered.id}`])
+}
+
+export type Sending = (done: string[], named: Named, reaching: Reaching) => Promise<Answer>
+
+export async function sentBy(
+  named: Named,
+  reaching: Reaching = reached,
+  sending: Sending = sent
+): Promise<Answer> {
+  return await answering(async (done) => keeping(done, await sending(done, named, reaching)))
+}
+
+export function smsSend(
+  argv: readonly string[],
+  given: Given,
+  reaching: Reaching = reached
+): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [
     json,
     toNumber,
@@ -73,45 +145,15 @@ export function smsSend(argv: readonly string[], given: Given): Promise<Answer> 
   if (typeof apiKey === "object") return Promise.resolve(refusedBy(apiKey.refused))
   const from = taken.fromNumber ?? credentialIn(FROM_NAMED)
   if (typeof from === "object") return Promise.resolve(refusedBy(from.refused))
-  return answering(async () => {
-    const asked = buildTelnyxSendRequest({
+  return sentBy(
+    {
       apiKey,
       from,
       to: taken.toNumber,
       text: body,
-      ...(taken.baseUrl === undefined ? {} : { baseUrl: taken.baseUrl }),
-    })
-    const answer = await fetch(asked.url, {
-      method: asked.method,
-      headers: asked.headers,
-      body: asked.body,
-    })
-    let carried: unknown
-    try {
-      carried = await answer.json()
-    } catch {
-      return {
-        report: [],
-        refusals: [`the carrier answered HTTP ${String(answer.status)} with no JSON in it`],
-        code: OPERATIONAL,
-      }
-    }
-    const answered = parseTelnyxSendResponse(carried)
-    if (!answer.ok) {
-      return {
-        report: [],
-        refusals: [`the carrier answered HTTP ${String(answer.status)}`],
-        code: OPERATIONAL,
-      }
-    }
-    if (!answered.ok) {
-      return {
-        report: [],
-        refusals: [`the carrier answered ${answered.reason}`],
-        code: OPERATIONAL,
-      }
-    }
-    if (taken.json) return asJson({ sent: true, to: taken.toNumber, id: answered.id })
-    return told([`sent\t${taken.toNumber}\t${answered.id}`])
-  })
+      baseUrl: taken.baseUrl,
+      json: taken.json,
+    },
+    reaching
+  )
 }
