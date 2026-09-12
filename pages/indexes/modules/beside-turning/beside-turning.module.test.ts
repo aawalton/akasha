@@ -1,5 +1,4 @@
 import { expect, test } from "bun:test"
-import { filePropertiesIn } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import {
   type Besides,
   besidesTurned,
@@ -8,9 +7,10 @@ import {
   pagesStranded,
   pagesTurned,
 } from "akasha/pages/indexes/modules/beside-turning/beside-turning.module.code.ts"
+import { filePropertiesIn } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
+import { everyPath } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import { sidecarsIn } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
-import { everyPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 
 type Held = Record<string, unknown>
 

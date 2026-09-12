@@ -6,12 +6,12 @@ import { said as git } from "akasha/git/modules/running/git-running.module.code.
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+} from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import {
   pathFiled,
   relationFiled,
   shapeAdded,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { type Shadow, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"

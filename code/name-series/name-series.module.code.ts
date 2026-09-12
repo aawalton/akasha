@@ -10,7 +10,7 @@ import {
   everyOfType,
   listedById,
   typeSlugOf,
-} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 
 const AKASHA_FILE_CEILING_BYTES = 15_000
 

@@ -25,7 +25,7 @@ import {
   listedAt,
   listedById,
   slugsOfType,
-} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { slugOf } from "akasha/seat-system/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
 
 const ANSWER_CEILING = 28000

@@ -3,8 +3,8 @@ import {
   answered,
   shapesEvery,
   shapesOfType,
-} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import type { Reading, Shape } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import type { Reading, Shape } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 
 export function shapesAt(given: string | Reading): ReadonlyMap<string, Shape> {
   return shapesEvery(given)

@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { valueAlsoFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import { valueAlsoFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import {
   assertSafeSiblingName,
   readSiblingAddonNames,

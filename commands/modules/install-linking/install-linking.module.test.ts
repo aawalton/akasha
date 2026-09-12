@@ -24,7 +24,7 @@ import {
   pageOf,
   scratch as worldScratch,
 } from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
-import { valuedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { valuedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 

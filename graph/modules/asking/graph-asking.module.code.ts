@@ -1,7 +1,7 @@
 import type { Known } from "akasha/graph/attributes/pages/known.graph-attribute.ts"
 import { addressIn } from "akasha/pages/address/page-address.module.code.ts"
-import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
-import type { Named } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
+import type { Named } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   slugOf,
   textAt,

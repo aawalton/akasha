@@ -6,8 +6,8 @@ import {
   type Landing,
   madeIn,
 } from "akasha/agents/claude-accounts/modules/making/claude-account-making.module.code.ts"
-import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import { ownRepoRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 
 const ROOT = "/nowhere"

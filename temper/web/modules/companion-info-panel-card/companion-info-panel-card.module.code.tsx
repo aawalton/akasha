@@ -1,7 +1,7 @@
 "use client"
 
-import { InputPanelCard } from "akasha/design/interfaces/patterns/input-panel-card/input-panel-card.module.code.tsx"
-import { Input } from "akasha/design/interfaces/primitives/input/input.module.code.tsx"
+import { InputPanelCard } from "akasha/design/interfaces/patterns/modules/input-panel-card/input-panel-card.module.code.tsx"
+import { Input } from "akasha/design/interfaces/primitives/modules/input/input.module.code.tsx"
 import {
   Select,
   SelectContent,

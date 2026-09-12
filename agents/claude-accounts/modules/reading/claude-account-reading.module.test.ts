@@ -23,10 +23,10 @@ import { TYPE_PAGE } from "akasha/agents/claude-accounts/modules/reading/claude-
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
-import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import type { Child, Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+} from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { pageFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import type { Child, Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()

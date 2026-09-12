@@ -2,7 +2,7 @@ import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node
 import { dirname, join } from "node:path"
 import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
   watcherConfigDir,

@@ -6,12 +6,12 @@ import { uncommittedHeld } from "akasha/pages/file-name/page-file-name.module.co
 import {
   filePropertiesAt,
   uncommittedFiledAt,
-} from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+} from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
+import { valueByPath } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   claimsOf,
   sidecarsOver,
 } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
-import { valueByPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 export type PageOf = (at: string) => Value | null

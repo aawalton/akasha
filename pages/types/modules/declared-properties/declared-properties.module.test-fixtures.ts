@@ -3,7 +3,7 @@ import { dirname, join } from "node:path"
 import {
   shapeAdded,
   typeListed,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import {
   type Carried,
   declarationsOf,

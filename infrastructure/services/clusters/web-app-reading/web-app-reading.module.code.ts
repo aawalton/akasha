@@ -1,6 +1,9 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { listedAt, slugsOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  listedAt,
+  slugsOfType,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import {
   numberAt,

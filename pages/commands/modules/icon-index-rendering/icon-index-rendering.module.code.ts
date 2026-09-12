@@ -7,7 +7,7 @@ import {
   everyOfType,
   listedById,
   typeSlugOf,
-} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 
 const MODULE_TYPE = "01a04a20-6e04-7b99-81a0-0efe0ad0a02a"
 

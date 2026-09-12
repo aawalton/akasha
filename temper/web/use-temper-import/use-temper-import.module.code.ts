@@ -17,7 +17,7 @@ import {
   mergeCharacterCompletionForward,
   mergeCompanionCompletionForward,
 } from "akasha/temper/player-completion/modules/completion-merge-forward/completion-merge-forward.module.code.ts"
-import type { ImportResult } from "akasha/temper/web/import-result/import-result.module.code.ts"
+import type { ImportResult } from "akasha/temper/web/modules/import-result/import-result.module.code.ts"
 import { useCallback, useEffect, useRef, useState } from "react"
 
 const COMPLETION = "completion"

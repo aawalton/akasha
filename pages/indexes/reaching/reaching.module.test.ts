@@ -13,15 +13,15 @@ import {
   scratch,
   shaped,
   shaping,
-} from "akasha/pages/indexes/entries/index-entries.module.test-fixtures.ts"
-import { lineFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+} from "akasha/pages/indexes/modules/entries/index-entries.module.test-fixtures.ts"
+import { lineFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+import { readingAt } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import {
   knownIn,
   namesMortal,
   reaches,
   type Shaped,
 } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
-import { readingAt } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 
 afterAll(scratch.sweep)

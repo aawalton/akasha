@@ -2,7 +2,10 @@ import { readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { sharedBuildFiles } from "akasha/code/ios-apps/shared-build-files/shared-build-files.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { indexThere, listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  indexThere,
+  listedAt,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import {
   slugOf,

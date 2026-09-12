@@ -1,5 +1,5 @@
 import type { SeatTurnState } from "akasha/agents/seats/modules/turn-state/seat-turn-state.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { akashaValuesAt } from "akasha/pages/modules/akasha-page-values/akasha-page-values.module.code.ts"
 import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 

@@ -41,7 +41,7 @@ import {
   X,
   Y,
 } from "akasha/domains/context/modules/warranting/warranting.module.test-fixtures.ts"
-import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { pageFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 
 afterAll(sweeping)

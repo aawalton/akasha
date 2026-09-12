@@ -21,8 +21,8 @@ import { SLUG_PAGE } from "akasha/domains/context/warrants/file-property/file-pr
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
-import { shapeAdded } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+import { shapeAdded } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { mintedId } from "akasha/testing-system/minting/minting.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"

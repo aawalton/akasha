@@ -1,11 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
 import { claiming } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
-import type { FilePropertiesBy } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
-import { A } from "akasha/pages/indexes/entries/index-entries.module.test-fixtures.ts"
+import type { FilePropertiesBy } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
+import { A } from "akasha/pages/indexes/modules/entries/index-entries.module.test-fixtures.ts"
 import { scratch } from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
+import { listedByPath } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { noPathsFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { partFiled, partUnfiled, pathIn } from "akasha/pages/indexes/path/index-path.index.code.ts"
-import { listedByPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { noPathsFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

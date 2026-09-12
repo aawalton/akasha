@@ -10,8 +10,11 @@ import {
 } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { uncommittedPartAt } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
+import {
+  listedAt,
+  typeSlugOf,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { partFiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
-import { listedAt, typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

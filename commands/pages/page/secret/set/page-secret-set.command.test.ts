@@ -8,7 +8,7 @@ import type { Given } from "akasha/commands/modules/calling/calling.module.code.
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { pageSecretSet } from "akasha/commands/pages/page/secret/set/page-secret-set.command.code.ts"
 import { pageSecretSet as page } from "akasha/commands/pages/page/secret/set/page-secret-set.command.ts"
-import { listedById } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { listedById } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 
 const CALLED_AS = "akasha page secret set"
 

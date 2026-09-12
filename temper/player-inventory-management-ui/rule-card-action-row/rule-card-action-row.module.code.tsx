@@ -2,12 +2,12 @@
 
 import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
 import { ButtonBadge } from "akasha/design/interfaces/badges/modules/button-badge/button-badge.module.code.tsx"
+import { EditableNumber } from "akasha/design/interfaces/forms/modules/editable-number/editable-number.module.code.tsx"
 import {
   InputGroup,
   InputGroupAddon,
   InputGroupInput,
-} from "akasha/design/interfaces/forms/input-group/input-group.module.code.tsx"
-import { EditableNumber } from "akasha/design/interfaces/forms/modules/editable-number/editable-number.module.code.tsx"
+} from "akasha/design/interfaces/forms/modules/input-group/input-group.module.code.tsx"
 import {
   Select,
   SelectContent,

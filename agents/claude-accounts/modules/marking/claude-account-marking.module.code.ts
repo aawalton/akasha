@@ -4,9 +4,9 @@ import {
 } from "akasha/agents/claude-accounts/modules/oauth/claude-account-oauth.module.code.ts"
 import { computePacingDerivations } from "akasha/agents/claude-accounts/modules/pacing/claude-account-pacing.module.code.ts"
 import { accountPathIn } from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
-import type { PageOf } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
-import { typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import type { PageOf } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
+import { typeSlugOf } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import {
   type Carried,
   propertiesOf,

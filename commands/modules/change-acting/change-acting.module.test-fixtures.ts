@@ -19,7 +19,7 @@ import {
 } from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
 import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import {
   indexedRepo,
   NAMER_CODE,

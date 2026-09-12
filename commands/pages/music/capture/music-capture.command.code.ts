@@ -38,7 +38,7 @@ import { uuidVersion7 } from "akasha/pages/ids/uuid-version-7/uuid-version-7.mod
 import {
   everyOfType,
   valuesOfType,
-} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { composedFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
 import { textIn, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 

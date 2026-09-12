@@ -2,11 +2,11 @@ import { dirname, join } from "node:path"
 import { textIn } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { pageNamed } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
+import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
 import type {
   FilePropertiesBy,
   UncommittedBy,
-} from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+} from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import { filesClaimedIn } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"

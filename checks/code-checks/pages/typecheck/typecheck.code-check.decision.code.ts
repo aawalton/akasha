@@ -24,7 +24,7 @@ import { reachesIn } from "akasha/code/package-manifest/package-manifest.module.
 import { importEdge } from "akasha/graph/edges/pages/import-edge.graph-edge.ts"
 import { reachingInto } from "akasha/graph/modules/asking/graph-asking.module.code.ts"
 import { namedUnder, pageNamed } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
+import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
 import { waitingKeys } from "akasha/pages/indexes/modules/generated-properties/generated-properties.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"

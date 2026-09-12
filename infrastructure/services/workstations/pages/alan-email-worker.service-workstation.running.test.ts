@@ -4,16 +4,19 @@ const HANDED: unknown[][] = []
 let FAILING: Error | null = null
 
 const watching = await import(
-  "akasha/alan/harness/email-watch/inbox-watching/inbox-watching.module.code.ts"
+  "akasha/alan/harness/email-watch/modules/inbox-watching/inbox-watching.module.code.ts"
 )
 
-mock.module("akasha/alan/harness/email-watch/inbox-watching/inbox-watching.module.code.ts", () => ({
-  ...watching,
-  runInboxWatching: (...argv: unknown[]) => {
-    HANDED.push(argv)
-    return FAILING === null ? Promise.resolve() : Promise.reject(FAILING)
-  },
-}))
+mock.module(
+  "akasha/alan/harness/email-watch/modules/inbox-watching/inbox-watching.module.code.ts",
+  () => ({
+    ...watching,
+    runInboxWatching: (...argv: unknown[]) => {
+      HANDED.push(argv)
+      return FAILING === null ? Promise.resolve() : Promise.reject(FAILING)
+    },
+  })
+)
 
 const running = await import(
   "akasha/infrastructure/services/workstations/pages/alan-email-worker.service-workstation.running.code.ts"

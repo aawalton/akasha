@@ -18,7 +18,7 @@ import {
   readingIn,
   type Valued,
   valuesOfType,
-} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { AKASHA } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
   slugAt,

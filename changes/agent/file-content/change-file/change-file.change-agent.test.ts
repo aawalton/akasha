@@ -14,8 +14,8 @@ import {
   groupAt,
   groupsIn,
 } from "akasha/code/module-property-groups/modules/group-writing/group-writing.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { fileOf } from "akasha/pages/indexes/property-file/property-file.module.code.ts"
-import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()

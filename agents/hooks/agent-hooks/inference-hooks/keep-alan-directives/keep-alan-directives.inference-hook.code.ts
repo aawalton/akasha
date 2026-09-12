@@ -33,7 +33,10 @@ import {
   type SubagentNode,
 } from "akasha/code/editor/extension/subagent-reading/subagent-reading.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { valuedAt, valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  valuedAt,
+  valuesOfType,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   anyLiveShell,
   type TurnWorking,

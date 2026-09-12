@@ -6,7 +6,7 @@ import {
   filing,
 } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 import { speltIn } from "akasha/code/modules/rule/code-rule.module.code.ts"
-import { entriesFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { entriesFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { readerIn, type Said } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"

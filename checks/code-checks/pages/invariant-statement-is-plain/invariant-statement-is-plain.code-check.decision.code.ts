@@ -6,7 +6,7 @@ import type { ShapePredicate } from "akasha/domains/plain-language/shape-predica
 import { shapesIn } from "akasha/domains/plain-language/shape-reading/shape-reading.module.code.ts"
 import { scanned } from "akasha/domains/plain-language/spelt-scanning/spelt-scanning.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
-import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
+import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
 import ts from "typescript"
 
 const KIND = "invariantKind"

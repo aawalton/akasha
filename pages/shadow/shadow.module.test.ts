@@ -6,11 +6,14 @@ import {
   NAMER_PAGE,
   scratch as worldScratch,
 } from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
-import { everyValue, readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  everyValue,
+  readingIn,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   everythingRead,
   shapeAdded,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { NOT_WORKED_OUT, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import {

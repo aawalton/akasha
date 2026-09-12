@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { colorNamed } from "akasha/code/editor/extension/palette/palette.module.code.ts"
 import { chalk } from "akasha/design/interfaces/colors/pages/chalk.color.ts"
-import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const ROOT = process.cwd()

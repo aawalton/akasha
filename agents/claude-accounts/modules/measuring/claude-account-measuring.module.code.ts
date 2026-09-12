@@ -1,5 +1,8 @@
 import { fiveHourResetIn } from "akasha/agents/claude-accounts/modules/five-hour-reset/five-hour-reset.computed-property-module.code.ts"
-import { everyOfType, typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  everyOfType,
+  typeSlugOf,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { wholeValue } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { asInstant } from "akasha/utils/narrow/modules/as-instant/as-instant.module.code.ts"

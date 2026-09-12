@@ -11,17 +11,17 @@ import {
   sortedFrom,
   type Usage,
 } from "akasha/agents/claude-accounts/modules/marking/claude-account-marking.module.code.ts"
-import type { PageOf } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
+import type { PageOf } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
-import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+} from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   pageFiled,
   shapeAdded,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import type { Child, Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import type { Child, Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"

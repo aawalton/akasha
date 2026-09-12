@@ -11,7 +11,7 @@ import {
   declaring,
   filing,
 } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
-import { noPathsFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { noPathsFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"

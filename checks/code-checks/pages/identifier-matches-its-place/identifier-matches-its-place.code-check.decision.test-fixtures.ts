@@ -1,6 +1,6 @@
 import type { Places } from "akasha/checks/code-checks/pages/identifier-matches-its-place/identifier-matches-its-place.code-check.decision.code.ts"
 import { filing } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
-import { noPathsFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { noPathsFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { lowerCamelCase } from "akasha/pages/name-formats/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
 import { upperCamelCase } from "akasha/pages/name-formats/pages/upper-camel-case/upper-camel-case.name-format.code.ts"
 import { upperSnakeCase } from "akasha/pages/name-formats/pages/upper-snake-case/upper-snake-case.name-format.code.ts"

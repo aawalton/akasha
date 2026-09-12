@@ -2,7 +2,10 @@ import { writeFileSync } from "node:fs"
 import { fail } from "akasha/commands/modules/failing/command-failing.module.code.ts"
 import { bodyAt } from "akasha/pages/file-body/page-file-body.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { listedAt, valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  listedAt,
+  valuesOfType,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,
   ownRepoRoot,

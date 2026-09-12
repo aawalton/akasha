@@ -9,7 +9,7 @@ import {
 import { everythingIn } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { lintedOver } from "akasha/code/modules/lint/code-lint.module.code.ts"
-import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { pagesUnder } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
 
 const TREE = "the tree this audit read"

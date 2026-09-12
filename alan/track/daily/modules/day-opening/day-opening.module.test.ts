@@ -7,7 +7,7 @@ import {
   openedOn,
   openingInstantOn,
 } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
-import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
 import {
   AKASHA,

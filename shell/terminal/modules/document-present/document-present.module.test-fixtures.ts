@@ -1,5 +1,5 @@
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 
 export const A_PERSONA_AT = "akasha/persona-system/personas/akasha/akasha.persona.ts"
 

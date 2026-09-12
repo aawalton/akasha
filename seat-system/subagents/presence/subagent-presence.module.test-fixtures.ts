@@ -12,8 +12,8 @@ import {
   refusedWhereHeld,
 } from "akasha/git/modules/holding/holding.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
-import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
-import { refreshedIn } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+import { refreshedIn } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { bodyOf } from "akasha/seat-system/subagents/body/subagent-body.module.code.ts"
 import type {
   Liveness,

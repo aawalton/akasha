@@ -22,7 +22,7 @@ import {
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+} from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import { mintedId } from "akasha/testing-system/minting/minting.module.code.ts"
 import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"

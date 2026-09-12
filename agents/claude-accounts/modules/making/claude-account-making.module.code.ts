@@ -12,8 +12,8 @@ import type { Refused } from "akasha/commands/modules/landing/landing.module.cod
 import { importedFrom, saidAs } from "akasha/pages/body/page-body.module.code.ts"
 import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 
 const PAGE_TYPE_SLUG = "claude-account"
 

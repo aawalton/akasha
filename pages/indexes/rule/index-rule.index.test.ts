@@ -1,9 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
+import { scratch } from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
 import {
   unreadAfterRebuild,
   wholeAfterRebuild,
-} from "akasha/pages/indexes/indexing/indexing.module.test-fixtures.ts"
-import { scratch } from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
+} from "akasha/pages/indexes/modules/indexing/indexing.module.test-fixtures.ts"
+import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import {
   pathsRead,
   readAt,
@@ -16,7 +17,6 @@ import {
   saidAt,
   saidOf,
 } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
-import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 
 afterAll(scratch.sweep, 5000)
 

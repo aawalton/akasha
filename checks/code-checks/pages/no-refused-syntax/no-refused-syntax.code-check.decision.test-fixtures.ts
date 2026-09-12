@@ -10,7 +10,7 @@ import type { Naming } from "akasha/commands/modules/walking/command-walking.mod
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+} from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import {
   bodyOf,
   type Held,

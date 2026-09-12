@@ -1,7 +1,10 @@
 import { join } from "node:path"
-import type { Entry } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
-import { answered, heldEach } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import type { Reading, Shape } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import type { Entry } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
+import {
+  answered,
+  heldEach,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import type { Reading, Shape } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import { indexShapes } from "akasha/pages/indexes/shapes/index-shapes.index.ts"
 import {
   type Carried,

@@ -4,12 +4,12 @@ import { said as gitIn } from "akasha/git/modules/running/git-running.module.cod
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+} from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import {
   listedTakenFrom,
   refreshedIn,
   valueTakenFrom,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import type { Went } from "akasha/seat-system/subagents/landing-again/subagent-landing-again.module.code.ts"
 import { slugOf } from "akasha/seat-system/subagents/modules/page-naming/subagent-page-naming.module.code.ts"

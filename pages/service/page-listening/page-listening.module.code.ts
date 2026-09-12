@@ -1,4 +1,4 @@
-import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { answering } from "akasha/pages/service/page-serving/page-serving.module.code.ts"
 import { writerFor } from "akasha/pages/service/page-writing/page-writing.module.code.ts"
 import {

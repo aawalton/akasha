@@ -1,12 +1,12 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { filePropertiesAt } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
-import { pathsOf } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
+import { filePropertiesAt } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import {
   listedAt,
   type Valued,
   valuesOfType,
-} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { pathsOf } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import {
   slugOf,

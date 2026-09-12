@@ -3,7 +3,7 @@ import {
   mainSwiftOf,
   scriptBodyOf,
 } from "akasha/code/ios-apps/modules/decode-harness-script/decode-harness-script.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 
 const OWN = "smilingjenny-decode-harness-run"
 

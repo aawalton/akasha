@@ -7,7 +7,10 @@ import {
 import { textOf } from "akasha/code/modules/body-text/body-text.module.code.ts"
 import { formattedBody } from "akasha/code/modules/format/code-format.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { readingIn, valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  readingIn,
+  valuesOfType,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"

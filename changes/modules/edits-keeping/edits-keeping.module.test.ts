@@ -14,11 +14,11 @@ import {
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { scratch } from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
-import { listedByPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { listedByPath } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   noPathsFiled,
   pathFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { ENTRY_CEILING } from "akasha/pages/modules/entry-ceiling/entry-ceiling.module.code.ts"
 
 afterAll(scratch.sweep)

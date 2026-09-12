@@ -13,7 +13,10 @@ import {
   indexRefresh,
 } from "akasha/commands/pages/index/refresh/index-refresh.command.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
-import { indexNamed, indexThere } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  indexNamed,
+  indexThere,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   everythingFiled,
   fileWhereTheIndexIs,
@@ -23,7 +26,7 @@ import {
   listedUnreadableFiled,
   refreshedApart,
   refreshedIn,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { id as idPage } from "akasha/pages/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/pages/properties/slug.text-property.ts"
 import { textProperty } from "akasha/pages/text-properties/text-property.page-type.ts"

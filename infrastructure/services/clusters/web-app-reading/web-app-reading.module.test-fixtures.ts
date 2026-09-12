@@ -4,7 +4,7 @@ import { exportedAs } from "akasha/pages/export-name/page-export-name.module.cod
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+} from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 
 const HOLD = "/var/tmp"
 const PREFIX = "akasha-web-app-"

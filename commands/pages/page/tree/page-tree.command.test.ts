@@ -7,7 +7,7 @@ import {
   pageTree,
   propertyKindsIn,
 } from "akasha/commands/pages/page/tree/page-tree.command.code.ts"
-import type { Valued } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import type { Valued } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 
 const ROOT = "/nowhere"
 

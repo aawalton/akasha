@@ -18,7 +18,7 @@ import {
   everyPath,
   listedAt,
   readingIn,
-} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { requireMatch } from "akasha/utils/narrow/require-match/require-match.module.code.ts"
 import { z } from "zod"
 

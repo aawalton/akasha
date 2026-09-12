@@ -1,11 +1,14 @@
 import { expect, test } from "bun:test"
-import type { FilePropertiesBy } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
-import { A, filedAs } from "akasha/pages/indexes/entries/index-entries.module.test-fixtures.ts"
 import {
   LISTED_AT,
   LISTED_UNDER,
   listedOf,
 } from "akasha/pages/indexes/listing/index-listing.index.code.ts"
+import type { FilePropertiesBy } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
+import {
+  A,
+  filedAs,
+} from "akasha/pages/indexes/modules/entries/index-entries.module.test-fixtures.ts"
 import { pathIn } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import type { SidecarsBy } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 

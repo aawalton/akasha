@@ -49,7 +49,7 @@ import {
   everyAccountStateIn,
   rescuedIn,
 } from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
-import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 
 afterAll(sweep)
 

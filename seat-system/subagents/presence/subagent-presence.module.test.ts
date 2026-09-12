@@ -6,8 +6,8 @@ import { refusalsKept } from "akasha/agents/refusals-keeping/refusals-keeping.mo
 import { refusalsSaid } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
-import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
-import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+import { pageFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import {
   landingAgain,
   worthAnotherTry,

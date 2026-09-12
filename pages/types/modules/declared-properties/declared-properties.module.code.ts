@@ -3,10 +3,10 @@ import { exportedAs } from "akasha/pages/export-name/page-export-name.module.cod
 import type {
   Identifier,
   ScopedBy,
-} from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+} from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import type { Reading, Shape } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import { shapeOf } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import type { Reading, Shape } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
 import {
   numberAt,

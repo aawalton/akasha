@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
-import { A, B, shaped } from "akasha/pages/indexes/entries/index-entries.module.test-fixtures.ts"
+import {
+  A,
+  B,
+  shaped,
+} from "akasha/pages/indexes/modules/entries/index-entries.module.test-fixtures.ts"
 import { relationIn } from "akasha/pages/indexes/relation/index-relation.index.code.ts"
 
 test("a property naming a page is filed under that page's id against the property's kebab slug", () => {

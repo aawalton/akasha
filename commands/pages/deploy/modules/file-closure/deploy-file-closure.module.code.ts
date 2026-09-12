@@ -13,14 +13,14 @@ import { said } from "akasha/git/modules/running/git-running.module.code.ts"
 import { deployableNamed } from "akasha/infrastructure/services/clusters/web-app-reading/web-app-reading.module.code.ts"
 import { runnerCodeIn } from "akasha/infrastructure/services/workstations/service-reading/service-reading.module.code.ts"
 import {
+  everyOfType,
+  valuesOfType,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import {
   type Body,
   manifestsAmong,
   reachingOf,
 } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
-import {
-  everyOfType,
-  valuesOfType,
-} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const MANIFEST = "package.json"

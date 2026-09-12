@@ -1,0 +1,130 @@
+import { join } from "node:path"
+import { getEsoDayStr } from "akasha/alan/harness/day/modules/eso-day/eso-day.module.code.ts"
+import {
+  pollTaskCounts,
+  type TaskCounts,
+} from "akasha/alan/harness/inboxes/modules/count-polling/inbox-count-polling.module.code.ts"
+import { persistInboxCounts } from "akasha/alan/harness/inboxes/modules/count-writing/inbox-count-writing.module.code.ts"
+import {
+  tasksPage,
+  temperTasksPage,
+} from "akasha/alan/harness/inboxes/modules/reading/inbox-reading.module.code.ts"
+import { keepReading } from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
+import {
+  NO_SECRET_TO_CARRY_ON,
+  RELAY_SECRET_NAME,
+  readoutNamedBy,
+  relayReading,
+  statedIn,
+} from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
+import { leftWhereCodeMoved } from "akasha/infrastructure/services/workstations/modules/code-moving/code-moving.module.code.ts"
+import { followFolders } from "akasha/infrastructure/services/workstations/modules/file-following/file-following.module.code.ts"
+import { indexNamed } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
+
+export const SETTLE_MS = 250
+
+export const NO_SITE_NAMED =
+  "no site was named, so a count taken here would be carried nowhere. Name the origin of the " +
+  "site showing these counts as this watch's one argument."
+
+export type WatchLogger = (level: "INFO" | "ERROR", message: string) => void
+
+export function countsSaid(day: string, counts: TaskCounts): string {
+  return `day=${day} tasks=${counts.tasks} temperTasks=${counts.temperTasks}`
+}
+
+export function valuesFollowedIn(root: string): string {
+  return join(root, indexNamed(), indexValue.name)
+}
+
+export async function carryCounts(
+  root: string,
+  to: string,
+  secret: string | null,
+  day: string,
+  now: Date,
+  counts: TaskCounts
+): Promise<undefined> {
+  await persistInboxCounts({ tasks: counts.tasks, temperTasks: counts.temperTasks }, day, now)
+  const took: readonly (readonly [string, number])[] = [
+    [tasksPage(root), counts.tasks],
+    [temperTasksPage(root), counts.temperTasks],
+  ]
+  for (const [page, value] of took) keepReading(root, page, value, now)
+  if (secret === null) return undefined
+  const at = now.toISOString()
+  for (const [page, value] of took) {
+    await relayReading(to, secret, { readout: readoutNamedBy(page), value, at })
+  }
+  return undefined
+}
+
+export function watchInboxCounts(to: string, log: WatchLogger): () => undefined {
+  const root = rootFor(resolveRoots(), AKASHA)
+  const secret = statedIn(process.env, RELAY_SECRET_NAME)
+  if (secret === null) log("ERROR", NO_SECRET_TO_CARRY_ON)
+  let before: string | null = null
+  let taking = false
+  let owed = false
+
+  const take = async (): Promise<undefined> => {
+    if (taking) {
+      owed = true
+      return undefined
+    }
+    taking = true
+    try {
+      do {
+        owed = false
+        leftWhereCodeMoved()
+        const now = new Date()
+        const day = getEsoDayStr(now)
+        const counts = await pollTaskCounts(day)
+        const found = countsSaid(day, counts)
+        if (found === before) continue
+        await carryCounts(root, to, secret, day, now, counts)
+        before = found
+        log("INFO", found)
+      } while (owed)
+    } finally {
+      taking = false
+    }
+    return undefined
+  }
+
+  const following = followFolders(
+    new Set([valuesFollowedIn(root)]),
+    (): undefined => {
+      take().catch((thrown: unknown) => {
+        log("ERROR", saidBy(thrown))
+        process.exit(1)
+      })
+      return undefined
+    },
+    SETTLE_MS
+  )
+  return following.stop
+}
+
+export function runInboxCountWatch(to: string): () => undefined {
+  return watchInboxCounts(to, (level, message) => {
+    const out = level === "ERROR" ? process.stderr : process.stdout
+    out.write(`${message}\n`)
+  })
+}
+
+if (import.meta.main) {
+  const to = (process.argv[2] ?? "").trim()
+  if (to === "") {
+    process.stderr.write(`${NO_SITE_NAMED}\n`)
+    process.exit(2)
+  }
+  runInboxCountWatch(to)
+}

@@ -13,8 +13,11 @@ import {
   textNamed,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { fileKeysAt } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
-import { everyPath, listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { fileKeysAt } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
+import {
+  everyPath,
+  listedAt,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 
 export function askingAt(root: string): Asking {
   const disk = onDisk(root)

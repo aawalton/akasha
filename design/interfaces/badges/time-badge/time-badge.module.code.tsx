@@ -8,7 +8,7 @@ import { useBadgeLayoutContext } from "akasha/design/interfaces/badges/modules/b
 import { parseDateExpression } from "akasha/design/interfaces/forms/modules/date-parser/date-parser.module.code.ts"
 import { formatTime12h } from "akasha/design/interfaces/forms/modules/format-time/format-time.module.code.ts"
 import { normalizeBareNumericTime } from "akasha/design/interfaces/forms/normalize-bare-numeric-time/normalize-bare-numeric-time.module.code.ts"
-import { Input } from "akasha/design/interfaces/primitives/input/input.module.code.tsx"
+import { Input } from "akasha/design/interfaces/primitives/modules/input/input.module.code.tsx"
 import {
   Popover,
   PopoverContent,

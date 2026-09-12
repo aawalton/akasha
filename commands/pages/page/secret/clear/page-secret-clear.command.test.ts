@@ -8,7 +8,7 @@ import type { Given } from "akasha/commands/modules/calling/calling.module.code.
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { pageSecretClear } from "akasha/commands/pages/page/secret/clear/page-secret-clear.command.code.ts"
 import { pageSecretClear as page } from "akasha/commands/pages/page/secret/clear/page-secret-clear.command.ts"
-import { listedById } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { listedById } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 
 const CALLED_AS = "akasha page secret clear"
 

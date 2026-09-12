@@ -4,11 +4,11 @@ const HANDED: (readonly string[])[] = []
 let FAILING: Error | null = null
 
 const polling = await import(
-  "akasha/alan/harness/inboxes/tracking-polling/inbox-tracking-polling.module.code.ts"
+  "akasha/alan/harness/inboxes/modules/tracking-polling/inbox-tracking-polling.module.code.ts"
 )
 
 mock.module(
-  "akasha/alan/harness/inboxes/tracking-polling/inbox-tracking-polling.module.code.ts",
+  "akasha/alan/harness/inboxes/modules/tracking-polling/inbox-tracking-polling.module.code.ts",
   () => ({
     ...polling,
     runInboxTrackingPolling: (argv: readonly string[]) => {

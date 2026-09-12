@@ -11,8 +11,8 @@ import {
   PROFILE_URL,
 } from "akasha/agents/claude-accounts/modules/oauth/claude-account-oauth.module.code.ts"
 import { accountPathIn } from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
-import type { PageOf } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import type { PageOf } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import { removeUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 

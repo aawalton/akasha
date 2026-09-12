@@ -1,8 +1,8 @@
 "use client"
 
 import { Icon } from "akasha/design/interfaces/patterns/lucide-icon/lucide-icon.module.code.tsx"
-import { Input } from "akasha/design/interfaces/primitives/input/input.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
+import { Input } from "akasha/design/interfaces/primitives/modules/input/input.module.code.tsx"
 import {
   Popover,
   PopoverContent,

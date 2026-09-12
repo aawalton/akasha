@@ -7,7 +7,7 @@ import {
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { bodyOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
-import type { Shape } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import type { Shape } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 
 const AT = "akasha/held/kept.page-type.ts"
 

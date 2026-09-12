@@ -1,7 +1,10 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { everyOfType, type Listed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  everyOfType,
+  type Listed,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

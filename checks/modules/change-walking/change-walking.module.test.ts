@@ -42,13 +42,13 @@ import {
   VENDORED_AT,
   worldOf,
 } from "akasha/checks/modules/change-walking/change-walking.module.test-fixtures.ts"
-import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   indexTakenFrom,
   listingFiled,
   pathFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 

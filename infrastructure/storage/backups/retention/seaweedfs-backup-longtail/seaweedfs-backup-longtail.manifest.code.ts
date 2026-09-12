@@ -6,7 +6,7 @@ import {
   CONTAINER_TMP_VOLUME,
 } from "akasha/infrastructure/cluster/k8s-types/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 
 const NAMESPACE = "seaweedfs"

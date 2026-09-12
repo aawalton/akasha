@@ -1,4 +1,7 @@
-import { readingIn, valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  readingIn,
+  valuesOfType,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
 import {
   type Carried,

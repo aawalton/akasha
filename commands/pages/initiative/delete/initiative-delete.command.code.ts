@@ -17,7 +17,7 @@ import {
   listedByPath,
   type Named,
   namersOf,
-} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 
 const CARRIES = "change-mechanical/remove-file-of-any-kind"
 

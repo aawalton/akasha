@@ -5,8 +5,12 @@ import type {
   FilePropertiesBy,
   FoldersBy,
   UncommittedBy,
-} from "akasha/pages/indexes/entries/index-entries.module.code.ts"
-import { keepWhole } from "akasha/pages/indexes/keeping/index-keeping.module.code.ts"
+} from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
+import { keepWhole } from "akasha/pages/indexes/modules/keeping/index-keeping.module.code.ts"
+import {
+  indexIn,
+  readingAt,
+} from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import { indexPath } from "akasha/pages/indexes/path/index-path.index.ts"
 import {
   claimsOf,
@@ -14,7 +18,6 @@ import {
   type SidecarsBy,
   under,
 } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
-import { indexIn, readingAt } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const PATH = indexPath.name

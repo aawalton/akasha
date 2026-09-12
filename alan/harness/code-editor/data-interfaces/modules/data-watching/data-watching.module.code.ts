@@ -30,7 +30,7 @@ import {
   everyOfType,
   indexNamed,
   typeSlugOf,
-} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
 import {
   akashaRoot,

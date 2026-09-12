@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { groupedOver } from "akasha/checks/code-checks/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.code.ts"
-import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
+import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 
 const BYTES = new Uint8Array()

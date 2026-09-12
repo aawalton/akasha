@@ -1,11 +1,11 @@
 import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { getHost } from "akasha/infrastructure/inference/pool/inference-hosts/inference-hosts.module.code.ts"
-import { TRAFFIC_COP_SERVICE_NAME } from "akasha/infrastructure/inference/pool/inference-naming/inference-naming.module.code.ts"
+import { getHost } from "akasha/infrastructure/inference/pool/modules/inference-hosts/inference-hosts.module.code.ts"
+import { TRAFFIC_COP_SERVICE_NAME } from "akasha/infrastructure/inference/pool/modules/inference-naming/inference-naming.module.code.ts"
 import {
   runSshCapture,
   type SshTarget,
-} from "akasha/infrastructure/inference/pool/inference-ssh/inference-ssh.module.code.ts"
-import { everyInference } from "akasha/infrastructure/services/inferences/inference-reading/inference-reading.module.code.ts"
+} from "akasha/infrastructure/inference/pool/modules/inference-ssh/inference-ssh.module.code.ts"
+import { everyInference } from "akasha/infrastructure/services/inferences/modules/inference-reading/inference-reading.module.code.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 import { z } from "zod"
 

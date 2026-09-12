@@ -50,7 +50,7 @@ import {
   listedById,
   slugsOfType,
   typeSlugById,
-} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 import { meantSaid } from "akasha/utils/text/suggest-closest/suggest-closest.module.code.ts"
 

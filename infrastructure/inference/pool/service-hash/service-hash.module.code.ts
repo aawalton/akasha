@@ -1,4 +1,4 @@
-import { hashFiles } from "akasha/infrastructure/inference/pool/inputs-hash/inputs-hash.module.code.ts"
+import { hashFiles } from "akasha/infrastructure/inference/pool/modules/inputs-hash/inputs-hash.module.code.ts"
 
 const encoder = new TextEncoder()
 

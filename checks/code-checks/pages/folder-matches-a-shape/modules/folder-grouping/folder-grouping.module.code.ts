@@ -1,6 +1,6 @@
 import { folderOf } from "akasha/code/modules/path-between/code-path-between.module.code.ts"
 import { uncommittedHeld } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
+import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 
 export function ancestorsOf(path: string): readonly string[] {

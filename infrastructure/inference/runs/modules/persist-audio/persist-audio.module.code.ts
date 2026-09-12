@@ -4,7 +4,7 @@ import {
   persistInferenceMedia,
   shouldPersistMedia,
 } from "akasha/infrastructure/inference/runs/modules/persist-media/persist-media.module.code.ts"
-import type { InferenceRunRecord } from "akasha/infrastructure/inference/runs/record/inference-run-record.module.code.ts"
+import type { InferenceRunRecord } from "akasha/infrastructure/inference/runs/modules/record/inference-run-record.module.code.ts"
 import { audioObjectKey } from "akasha/infrastructure/storage/object-store/key/object-store-key.module.code.ts"
 import { seaweedFSObjectStoreFromEnv } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"

@@ -5,8 +5,11 @@ import {
 import { bodyOf, onDisk } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { APP } from "akasha/checks/modules/router-app-code/router-app-code.module.code.ts"
-import { filePropertiesAt } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
-import { everyOfType, everyPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { filePropertiesAt } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
+import {
+  everyOfType,
+  everyPath,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 
 const NONE: ReadonlyMap<string, string | null> = new Map()
 

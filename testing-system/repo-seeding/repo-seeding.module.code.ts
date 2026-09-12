@@ -22,13 +22,13 @@ import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { warrantsSeeded } from "akasha/domains/context/modules/warranting/warranting.module.test-fixtures.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
-import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import {
   identitiesTakenFrom,
   noImportersFiled,
   pageFiled,
   valueTakenFrom,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import {
   ADMITS_CODE,
   MINTED,

@@ -11,10 +11,10 @@ import {
   partedIn,
   uncommittedHeld,
 } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
-import { ENTRY_PROPERTY } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
-import { everyPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
+import { ENTRY_PROPERTY } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
+import { everyPath } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { type Loaded, loadedFrom } from "akasha/pages/value/page-value.module.code.ts"

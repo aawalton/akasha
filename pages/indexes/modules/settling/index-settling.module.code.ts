@@ -1,0 +1,381 @@
+import { type Rowing, rowsOver } from "akasha/pages/entries/page-entries.module.code.ts"
+import { pageNamed, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { identityIn } from "akasha/pages/indexes/identity/index-identity.index.code.ts"
+import { importIn } from "akasha/pages/indexes/import/index-import.index.code.ts"
+import { listedOf } from "akasha/pages/indexes/listing/index-listing.index.code.ts"
+import {
+  idsUnnamed,
+  pagesBeside,
+  pagesElsewhere,
+  pagesNaming,
+  pagesOfTypes,
+  pagesStranded,
+  pagesTurned,
+  relationsTurned,
+  typesDeclaring,
+} from "akasha/pages/indexes/modules/beside-turning/beside-turning.module.code.ts"
+import {
+  type Entry,
+  fileKeysAt,
+  fileKeysIn,
+  filePropertiesOver,
+  folderPropertiesOver,
+  type Identifier,
+  pageTypesIn,
+  uncommittedFiledOver,
+  uniquePropertiesAt,
+} from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
+import {
+  indexThere,
+  valuesOfType,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import type { Filing, Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+import {
+  overlaidOn,
+  readingNone,
+} from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
+import {
+  type Body,
+  bodiesAt,
+  reachingSettled,
+  rereadOver,
+} from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
+import { claimingIn } from "akasha/pages/indexes/path/index-path.index.code.ts"
+import {
+  sidecarsOver,
+  under,
+} from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
+import { shapesAt } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
+import { knownIn, type Shaped } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
+import {
+  NOTHING_FILED,
+  relationIn,
+} from "akasha/pages/indexes/relation/index-relation.index.code.ts"
+import { ruleIn } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
+import {
+  pageTypeSlugsIn,
+  shapeFiled,
+  shapesFiled,
+  shapesIn,
+} from "akasha/pages/indexes/shapes/index-shapes.index.code.ts"
+import { valueIn } from "akasha/pages/indexes/value/index-value.index.code.ts"
+import {
+  identifyingFrom,
+  sourceAmong,
+  sourceIn,
+} from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
+import { loadedFrom } from "akasha/pages/value/page-value.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+
+const PAGE_TYPE = "page-type"
+
+function keyOf(one: Entry): string {
+  return `${one.at} ${one.line}`
+}
+
+function shapesOver(given: Reading): readonly Entry[] {
+  const values = valuesOfType(given, PAGE_TYPE).map((one) => one.value)
+  return shapesFiled(
+    sourceAmong(
+      values,
+      sourceIn(given, () => null)
+    ),
+    shapesAt(given),
+    pageTypeSlugsIn(values)
+  )
+}
+
+function reshaping(values: readonly Value[]): boolean {
+  return pageTypeSlugsIn(values).length > 0 || shapesIn(values).size > 0
+}
+
+export function filingOf(was: readonly Entry[], now: readonly Entry[]): readonly Filing[] {
+  const kept = new Set(now.map(keyOf))
+  const had = new Set(was.map(keyOf))
+  const withdrawn = Map.groupBy(
+    was.filter((one) => !kept.has(keyOf(one))),
+    (one) => one.at
+  )
+  const added = Map.groupBy(
+    now.filter((one) => !had.has(keyOf(one))),
+    (one) => one.at
+  )
+  const said: Filing[] = []
+  for (const at of new Set([...withdrawn.keys(), ...added.keys()])) {
+    const came = new Set((added.get(at) ?? []).map((one) => one.line))
+    const went = [...new Set((withdrawn.get(at) ?? []).map((one) => one.line))].filter(
+      (one) => !came.has(one)
+    )
+    if (came.size === 0 && went.length === 0) continue
+    said.push({ at, came: [...came], went })
+  }
+  return said
+}
+
+function pageShaped(path: string, fileProperties: ReadonlyMap<string, string | null>): boolean {
+  const said = partedIn(path)
+  if (said === null || said.sections.length > 0) return false
+  return fileProperties.get(said.pageType) !== null
+}
+
+const NOTHING_DECLARES =
+  "these pages declare no property carrying a `unique`, so no identity would be filed — the index refuses rather than answering empty"
+
+export function refusingEmpty(unique: ReadonlyMap<string, Identifier>, pages: number): undefined {
+  if (pages > 0 && unique.size === 0) throw new Error(NOTHING_DECLARES)
+}
+
+export type Moving = {
+  readonly path: string
+  readonly before: string | null
+  readonly after: string | null
+}
+
+export type Settling = {
+  readonly reading: Reading
+  readonly filings: readonly Filing[]
+  readonly noted: readonly string[]
+  readonly refusedBefore: readonly string[]
+  readonly refused: readonly string[]
+}
+
+function turningIn(
+  was: ReadonlyMap<string, Identifier>,
+  now: ReadonlyMap<string, Identifier>
+): ReadonlySet<string> {
+  const said = new Set<string>()
+  for (const slug of new Set([...was.keys(), ...now.keys()])) {
+    const before = was.get(slug)
+    const after = now.get(slug)
+    if (before?.key !== after?.key || before?.uniqueKind !== after?.uniqueKind) said.add(slug)
+  }
+  return said
+}
+
+function asBuilt(given: Reading): Reading {
+  return indexThere(given) ? given : readingNone()
+}
+
+export function settlingOver(
+  given: Reading,
+  repo: string,
+  moving: readonly Moving[],
+  pageOf: (path: string) => Value | null,
+  bodyAt: Body = bodiesAt(repo)
+): Settling {
+  const reading = asBuilt(given)
+  const pageTypes = pageTypesIn(reading)
+  const filed = fileKeysAt(reading)
+  const noted: string[] = []
+  const readInto = (body: string | null, path: string): Value | null => {
+    if (body === null || !pageShaped(path, filed)) return null
+    const loaded = loadedFrom(body)
+    if (loaded.failed !== null && pageNamed(path, pageTypes)) {
+      noted.push(`${path}: its body did not load, so it is not indexed — ${loaded.failed}`)
+    }
+    return loaded.value
+  }
+
+  const held = moving.map((one) => ({
+    path: one.path,
+    before: one.before,
+    after: one.after,
+    was: readInto(one.before, one.path),
+    now: readInto(one.after, one.path),
+  }))
+
+  const left = held.flatMap((one) => (one.now === null ? [] : [one.now]))
+  const fileProperties = new Map<string, string | null>([...filed, ...fileKeysIn(left)])
+  const filedBy = filePropertiesOver(reading, left)
+  const sidecars = sidecarsOver(reading, left)
+  const naming = reachingSettled(reading, held, moving, repo, fileProperties, filedBy)
+  const { was: wasNaming, reread } = rereadOver(
+    reading,
+    held,
+    repo,
+    fileProperties,
+    filedBy,
+    naming,
+    bodyAt
+  )
+  const importing = [...held, ...reread]
+
+  const imported = filingOf(
+    importing.flatMap((one) =>
+      one.before === null ? [] : importIn(one.before, one.path, repo, wasNaming)
+    ),
+    importing.flatMap((one) =>
+      one.after === null ? [] : importIn(one.after, one.path, repo, naming)
+    )
+  )
+
+  const ruled = filingOf(
+    held.flatMap((one) => (one.before === null ? [] : ruleIn(one.before, one.path, repo))),
+    held.flatMap((one) => (one.after === null ? [] : ruleIn(one.after, one.path, repo)))
+  )
+
+  const valued = filingOf(
+    held.flatMap((one) => (one.was === null ? [] : valueIn(one.was, one.path, repo))),
+    held.flatMap((one) => (one.now === null ? [] : valueIn(one.now, one.path, repo)))
+  )
+  const shaping = filingOf(
+    held.flatMap((one) => (one.was === null ? [] : shapeFiled(one.was))),
+    held.flatMap((one) => (one.now === null ? [] : shapeFiled(one.now)))
+  )
+  const overValued = overlaidOn(reading, [...valued, ...shaping])
+  const wasUnique = uniquePropertiesAt(reading)
+  const unique = uniquePropertiesAt(overValued)
+  if (indexThere(given)) refusingEmpty(unique, held.filter((one) => one.now !== null).length)
+  const turned = turningIn(wasUnique, unique)
+  const carried = new Map(held.map((one) => [under(repo, one.path), one]))
+  const wasPageOf = (path: string): Value | null => {
+    const one = carried.get(under(repo, path))
+    return one === undefined ? pageOf(path) : one.was
+  }
+  const nowPageOf = (path: string): Value | null => {
+    const one = carried.get(under(repo, path))
+    return one === undefined ? pageOf(path) : one.now
+  }
+  const before = held.flatMap((one) => (one.was === null ? [] : [one.was]))
+  const wasSource = sourceAmong(before, sourceIn(reading, wasPageOf))
+  const nowSource = sourceAmong(left, sourceIn(overValued, pageOf))
+  const wasIdentifying = identifyingFrom(wasSource)
+  const nowIdentifying = identifyingFrom(nowSource)
+  const carrying =
+    reshaping(before) || reshaping(left)
+      ? filingOf(shapesOver(reading), shapesOver(overValued))
+      : []
+  const carriedAt = new Set(carried.keys())
+  const elsewhere = pagesElsewhere(reading, turned, carriedAt)
+  const stranded = pagesStranded(reading, before, left, carriedAt)
+  const identity = filingOf(
+    [
+      ...held.flatMap((one) =>
+        one.was === null ? [] : identityIn(one.was, one.path, repo, wasIdentifying)
+      ),
+      ...elsewhere.flatMap((one) => identityIn(one.value, one.path, repo, wasIdentifying, turned)),
+      ...stranded.flatMap((one) => identityIn(one.value, one.path, repo, wasIdentifying)),
+    ],
+    [
+      ...held.flatMap((one) =>
+        one.now === null ? [] : identityIn(one.now, one.path, repo, nowIdentifying)
+      ),
+      ...elsewhere.flatMap((one) => identityIn(one.value, one.path, repo, nowIdentifying, turned)),
+    ]
+  )
+  const wasBesides = {
+    fileProperties: filePropertiesOver(reading, []),
+    sidecars: sidecarsOver(reading, []),
+  }
+  const wasClaim = claimingIn(
+    repo,
+    wasBesides.fileProperties,
+    wasBesides.sidecars,
+    uncommittedFiledOver(reading, []),
+    folderPropertiesOver(reading, []),
+    carried
+  )
+  const claim = claimingIn(
+    repo,
+    filedBy,
+    sidecars,
+    uncommittedFiledOver(reading, left),
+    folderPropertiesOver(reading, left),
+    carried
+  )
+  const beside = pagesTurned(reading, wasBesides, { fileProperties: filedBy, sidecars }, carriedAt)
+  const turnedAt = new Set(beside.map((one) => one.path))
+  const alongside = [
+    ...beside,
+    ...pagesBeside(reading, carriedAt).filter((one) => !turnedAt.has(one.path)),
+  ]
+  const wasPaths = [
+    ...held.flatMap((one) => (one.was === null ? [] : wasClaim(one.was, one.path, true))),
+    ...alongside.flatMap((one) => wasClaim(one.value, one.path, true)),
+  ]
+  const nowPaths = [
+    ...held.flatMap((one) => (one.now === null ? [] : claim(one.now, one.path, false))),
+    ...alongside.flatMap((one) => claim(one.value, one.path, false)),
+  ]
+  const paths = filingOf(wasPaths, nowPaths)
+  const listing = filingOf(listedOf(wasPaths), listedOf(nowPaths))
+
+  const stepped = overlaidOn(reading, [...imported, ...identity, ...paths, ...valued, ...shaping])
+  const wasBody: Body = (at) => {
+    const one = carried.get(under(repo, at))
+    return one === undefined ? bodyAt(at) : one.before
+  }
+  const nowBody: Body = (at) => {
+    const one = carried.get(under(repo, at))
+    return one === undefined ? bodyAt(at) : one.after
+  }
+  const rowsFor = (path: string, value: Value, shaped: Shaped, body: Body): readonly Rowing[] =>
+    rowsOver(under(repo, path), value, shaped.entriedIn(value), body)
+  const wasKnown = knownIn(reading, wasPageOf)
+  const known = knownIn(stepped, nowPageOf)
+  const turnedRelations = relationsTurned(shapesAt(reading), shapesAt(overValued))
+  const relating = pagesOfTypes(
+    reading,
+    typesDeclaring(reading, [wasSource, nowSource], turnedRelations),
+    carriedAt
+  )
+  const rebound = pagesNaming(reading, idsUnnamed(identity), carriedAt)
+  const already = new Set(relating.map((one) => one.path))
+  const refiling = [...relating, ...rebound.filter((one) => !already.has(one.path))]
+  const was = [
+    ...held.map((one) =>
+      one.was === null
+        ? NOTHING_FILED
+        : relationIn(
+            one.was,
+            one.path,
+            wasKnown,
+            repo,
+            rowsFor(one.path, one.was, wasKnown, wasBody)
+          )
+    ),
+    ...refiling.map((one) =>
+      relationIn(
+        one.value,
+        one.path,
+        wasKnown,
+        repo,
+        rowsFor(one.path, one.value, wasKnown, wasBody)
+      )
+    ),
+  ]
+  const now = [
+    ...held.map((one) =>
+      one.now === null
+        ? NOTHING_FILED
+        : relationIn(one.now, one.path, known, repo, rowsFor(one.path, one.now, known, nowBody))
+    ),
+    ...refiling.map((one) =>
+      relationIn(one.value, one.path, known, repo, rowsFor(one.path, one.value, known, nowBody))
+    ),
+  ]
+  const relation = filingOf(
+    was.flatMap((one) => one.entries),
+    now.flatMap((one) => one.entries)
+  )
+
+  const filings = [
+    ...imported,
+    ...ruled,
+    ...identity,
+    ...paths,
+    ...relation,
+    ...valued,
+    ...shaping,
+    ...listing,
+    ...carrying,
+  ]
+  const wrote = new Map(moving.map((one) => [under(repo, one.path), one.after] as const))
+  return {
+    reading: overlaidOn(given, filings, wrote),
+    filings,
+    noted,
+    refusedBefore: was.flatMap((one) => one.refused),
+    refused: now.flatMap((one) => one.refused),
+  }
+}

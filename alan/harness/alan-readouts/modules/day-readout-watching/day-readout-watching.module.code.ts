@@ -20,7 +20,7 @@ import { getEsoDayWindow } from "akasha/alan/harness/day/modules/eso-day/eso-day
 import {
   takeReadings as takeInboxes,
   tasksPage,
-} from "akasha/alan/harness/inboxes/reading/inbox-reading.module.code.ts"
+} from "akasha/alan/harness/inboxes/modules/reading/inbox-reading.module.code.ts"
 import {
   READOUT_SLUG as PLANTS_SLUG,
   takeReading as takePlants,
@@ -52,7 +52,7 @@ import { openedDayOf } from "akasha/alan/track/daily/modules/day-opening/day-ope
 import { DAY_PAGE_TYPE } from "akasha/alan/track/daily/modules/day-place/day-place.module.code.ts"
 import { followFolders } from "akasha/infrastructure/services/workstations/modules/file-following/file-following.module.code.ts"
 import { keepBeat } from "akasha/infrastructure/services/workstations/service-beating/service-beating.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

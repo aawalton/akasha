@@ -1,9 +1,9 @@
 import {
   launchdLabel,
   serviceDir,
-} from "akasha/infrastructure/inference/pool/inference-naming/inference-naming.module.code.ts"
-import type { InferenceHost } from "akasha/infrastructure/inference/pool/inference-schema/inference-schema.module.code.ts"
-import { hashFiles } from "akasha/infrastructure/inference/pool/inputs-hash/inputs-hash.module.code.ts"
+} from "akasha/infrastructure/inference/pool/modules/inference-naming/inference-naming.module.code.ts"
+import type { InferenceHost } from "akasha/infrastructure/inference/pool/modules/inference-schema/inference-schema.module.code.ts"
+import { hashFiles } from "akasha/infrastructure/inference/pool/modules/inputs-hash/inputs-hash.module.code.ts"
 import type { PoolConfig } from "akasha/infrastructure/inference/pool/pool-config/pool-config.module.code.ts"
 
 const encoder = new TextEncoder()

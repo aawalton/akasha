@@ -10,7 +10,6 @@ import {
   FieldSet,
 } from "akasha/design/interfaces/forms/modules/field/field.module.code.tsx"
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
-import { Input } from "akasha/design/interfaces/primitives/input/input.module.code.tsx"
 import {
   Carousel,
   CarouselContent,
@@ -30,6 +29,7 @@ import {
   CommandShortcut,
 } from "akasha/design/interfaces/primitives/modules/command/command.module.code.tsx"
 import { Heading } from "akasha/design/interfaces/primitives/modules/heading/heading.module.code.tsx"
+import { Input } from "akasha/design/interfaces/primitives/modules/input/input.module.code.tsx"
 import {
   ResizableHandle,
   ResizablePanel,

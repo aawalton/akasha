@@ -3,23 +3,23 @@ import { join, relative } from "node:path"
 import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { refusedBy, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { getHost } from "akasha/infrastructure/inference/pool/inference-hosts/inference-hosts.module.code.ts"
+import {
+  buildGuiSessionProbeScript,
+  decideGuiSession,
+} from "akasha/infrastructure/inference/pool/modules/gui-session/gui-session.module.code.ts"
+import { getHost } from "akasha/infrastructure/inference/pool/modules/inference-hosts/inference-hosts.module.code.ts"
 import {
   serviceDir,
   TRAFFIC_COP_SERVICE_NAME,
-} from "akasha/infrastructure/inference/pool/inference-naming/inference-naming.module.code.ts"
-import type { ActualResource } from "akasha/infrastructure/inference/pool/inference-schema/inference-schema.module.code.ts"
+} from "akasha/infrastructure/inference/pool/modules/inference-naming/inference-naming.module.code.ts"
+import type { ActualResource } from "akasha/infrastructure/inference/pool/modules/inference-schema/inference-schema.module.code.ts"
 import {
   runSsh,
   runSshCapture,
   type SshTarget,
   syncDir,
-} from "akasha/infrastructure/inference/pool/inference-ssh/inference-ssh.module.code.ts"
-import { computeInputsHash } from "akasha/infrastructure/inference/pool/inputs-hash/inputs-hash.module.code.ts"
-import {
-  buildGuiSessionProbeScript,
-  decideGuiSession,
-} from "akasha/infrastructure/inference/pool/modules/gui-session/gui-session.module.code.ts"
+} from "akasha/infrastructure/inference/pool/modules/inference-ssh/inference-ssh.module.code.ts"
+import { computeInputsHash } from "akasha/infrastructure/inference/pool/modules/inputs-hash/inputs-hash.module.code.ts"
 import {
   buildPoolConfig,
   buildWritePoolConfigScript,
@@ -37,7 +37,7 @@ import {
   everyInference,
   type Inference,
   readFor,
-} from "akasha/infrastructure/services/inferences/inference-reading/inference-reading.module.code.ts"
+} from "akasha/infrastructure/services/inferences/modules/inference-reading/inference-reading.module.code.ts"
 
 const HEALTH_PROBED = "image-gen"
 

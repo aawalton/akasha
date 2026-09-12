@@ -7,16 +7,19 @@ const UNFOLLOWED = "the index folder could not be followed"
 const HANDED: string[] = []
 
 const watching = await import(
-  "akasha/alan/harness/inboxes/count-watch/inbox-count-watch.module.code.ts"
+  "akasha/alan/harness/inboxes/modules/count-watch/inbox-count-watch.module.code.ts"
 )
 
-mock.module("akasha/alan/harness/inboxes/count-watch/inbox-count-watch.module.code.ts", () => ({
-  ...watching,
-  runInboxCountWatch: (to: string) => {
-    HANDED.push(to)
-    return () => undefined
-  },
-}))
+mock.module(
+  "akasha/alan/harness/inboxes/modules/count-watch/inbox-count-watch.module.code.ts",
+  () => ({
+    ...watching,
+    runInboxCountWatch: (to: string) => {
+      HANDED.push(to)
+      return () => undefined
+    },
+  })
+)
 
 const running = await import(
   "akasha/alan/harness/inboxes/count-watch-service/inbox-count-watch-service.service-workstation.running.code.ts"
@@ -58,11 +61,14 @@ test("a run does not answer while the counts are watched, so the runner's proces
 })
 
 test("a watch that could not start is carried out rather than swallowed, so a failed start is a failed unit", async () => {
-  mock.module("akasha/alan/harness/inboxes/count-watch/inbox-count-watch.module.code.ts", () => ({
-    ...watching,
-    runInboxCountWatch: () => {
-      throw new Error(UNFOLLOWED)
-    },
-  }))
+  mock.module(
+    "akasha/alan/harness/inboxes/modules/count-watch/inbox-count-watch.module.code.ts",
+    () => ({
+      ...watching,
+      runInboxCountWatch: () => {
+        throw new Error(UNFOLLOWED)
+      },
+    })
+  )
   await expect(running.runService()).rejects.toThrow(UNFOLLOWED)
 })

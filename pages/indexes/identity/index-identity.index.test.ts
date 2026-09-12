@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
-import type { Identifier } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
-import { A, B, C } from "akasha/pages/indexes/entries/index-entries.module.test-fixtures.ts"
 import { filedIn, identityIn } from "akasha/pages/indexes/identity/index-identity.index.code.ts"
+import type { Identifier } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
+import { A, B, C } from "akasha/pages/indexes/modules/entries/index-entries.module.test-fixtures.ts"
 import {
   type Identifying,
   identifyingFrom,

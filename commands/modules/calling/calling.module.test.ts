@@ -23,7 +23,7 @@ import {
   trackSession,
   WILL_NOT_LOAD,
 } from "akasha/commands/modules/calling/calling.module.test-fixtures.ts"
-import { idTakenFrom } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { idTakenFrom } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 
 afterAll(sweep)
 

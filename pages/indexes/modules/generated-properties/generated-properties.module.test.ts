@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { valueAlsoFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import { valueAlsoFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import {
   generatedProperties,
   waitingKeys,
@@ -10,8 +10,8 @@ import {
 import {
   relationFiled,
   shapeAdded,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { indexIn } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
+} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { indexIn } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { shadowAt, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import { put, there } from "akasha/testing-system/putting/putting.module.code.ts"

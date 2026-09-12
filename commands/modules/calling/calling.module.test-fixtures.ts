@@ -6,8 +6,8 @@ import {
   idFiled,
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
-import { noneOfTypeFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+import { noneOfTypeFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 export const MECHANICAL: Kind = {

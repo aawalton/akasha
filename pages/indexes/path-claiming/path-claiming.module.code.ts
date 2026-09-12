@@ -9,8 +9,8 @@ import type {
   FilePropertiesBy,
   FoldersBy,
   UncommittedBy,
-} from "akasha/pages/indexes/entries/index-entries.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+} from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import {
   typeSlugsIn,
   typeValuesIn,

@@ -4,12 +4,12 @@ import {
   launchdLabel,
   plistPath,
   serviceDir,
-} from "akasha/infrastructure/inference/pool/inference-naming/inference-naming.module.code.ts"
+} from "akasha/infrastructure/inference/pool/modules/inference-naming/inference-naming.module.code.ts"
 import {
   type ActualResource,
   ActualResourceSchema,
   type InferenceHost,
-} from "akasha/infrastructure/inference/pool/inference-schema/inference-schema.module.code.ts"
+} from "akasha/infrastructure/inference/pool/modules/inference-schema/inference-schema.module.code.ts"
 import { quoted } from "akasha/shell/quoting/quoting.module.code.ts"
 
 export interface Provisioned {

@@ -3,7 +3,7 @@ import {
   DOORS,
   filePushedTo,
 } from "akasha/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.code.ts"
-import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

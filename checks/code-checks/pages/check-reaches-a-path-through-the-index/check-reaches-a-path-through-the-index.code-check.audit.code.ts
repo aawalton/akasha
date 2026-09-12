@@ -7,13 +7,16 @@ import {
 import { everythingIn } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { textOf } from "akasha/code/modules/body-text/body-text.module.code.ts"
-import { pageTypesIn } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import { pageTypesIn } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
+import {
+  everyPath,
+  listedByPath,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   facingOn,
   generatedIn,
   toolResolvesPathsIn,
 } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
-import { everyPath, listedByPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
 export function checkReachesAPathThroughTheIndex(root: string): readonly Judged[] {
   const paths = everyPath(root)

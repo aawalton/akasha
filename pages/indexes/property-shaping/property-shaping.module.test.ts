@@ -1,12 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync } from "node:fs"
+import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { shapeAdded } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { indexIn } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import {
   shapeOf,
   shapesAt,
 } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
-import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { shapeAdded } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { indexIn } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()

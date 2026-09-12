@@ -4,7 +4,7 @@ import { cliRun } from "akasha/design/language/lua-compiler/modules/cli-run/cli-
 import { pluginNoMultiStore } from "akasha/design/language/lua-compiler/plugin-no-multi-store/plugin-no-multi-store.module.ts"
 import { pluginNoTruthyNumbers } from "akasha/design/language/lua-compiler/plugin-no-truthy-numbers/plugin-no-truthy-numbers.module.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { listedById } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { listedById } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

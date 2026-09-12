@@ -17,7 +17,7 @@ import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-cod
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
 import { secretAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { z } from "zod"
 

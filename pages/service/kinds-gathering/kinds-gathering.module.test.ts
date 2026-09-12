@@ -5,11 +5,11 @@ import {
   listedFiled,
   shapeAlsoFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+} from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import {
   pageFiled,
   relationFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { shapedIn } from "akasha/pages/indexes/shapes/index-shapes.index.code.ts"
 import {
   carriedFor,

@@ -2,7 +2,6 @@
 
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
 import { LayoutLink } from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
-import { InputPanelCard } from "akasha/design/interfaces/patterns/input-panel-card/input-panel-card.module.code.tsx"
 import {
   Empty,
   EmptyDescription,
@@ -10,6 +9,7 @@ import {
   EmptyMedia,
   EmptyTitle,
 } from "akasha/design/interfaces/patterns/modules/empty/empty.module.code.tsx"
+import { InputPanelCard } from "akasha/design/interfaces/patterns/modules/input-panel-card/input-panel-card.module.code.tsx"
 import { Skeleton } from "akasha/design/interfaces/primitives/skeleton/skeleton.module.code.tsx"
 import { Switch } from "akasha/design/interfaces/primitives/switch-control/switch-control.module.code.tsx"
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"

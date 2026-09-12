@@ -8,7 +8,7 @@ import {
   DOORS as EFFECT_DOORS,
   markedOn,
 } from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
-import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

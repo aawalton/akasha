@@ -23,27 +23,27 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { filing, filledIn } from "akasha/commands/modules/filling/command-filling.module.code.ts"
 import { inferenceGenerate as page } from "akasha/commands/pages/inference/generate/inference-generate.command.ts"
 import {
-  ensureOutputDir,
-  resolveOutputPath,
-} from "akasha/infrastructure/inference/clients/inference-output-path/inference-output-path.module.code.ts"
-import {
-  drawSeed,
-  resolveSeed,
-} from "akasha/infrastructure/inference/clients/inference-seed/inference-seed.module.code.ts"
-import {
   buildGenerationBody,
   parseGenerationSize,
   runGeneration,
 } from "akasha/infrastructure/inference/clients/mlx-image-client/mlx-image-client.module.code.ts"
 import {
+  ensureOutputDir,
+  resolveOutputPath,
+} from "akasha/infrastructure/inference/clients/modules/inference-output-path/inference-output-path.module.code.ts"
+import {
+  drawSeed,
+  resolveSeed,
+} from "akasha/infrastructure/inference/clients/modules/inference-seed/inference-seed.module.code.ts"
+import {
   boundTo,
   serviceNamed,
   wroteTo,
-} from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
+} from "akasha/infrastructure/inference/commands/modules/inference-answering/inference-answering.module.code.ts"
+import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/modules/record/inference-run-record.module.code.ts"
+import type { InferenceService } from "akasha/infrastructure/inference/runs/modules/services/inference-run-services.module.code.ts"
+import { INFERENCE_SERVICES } from "akasha/infrastructure/inference/runs/modules/services/inference-run-services.module.code.ts"
 import { recordInferenceRun } from "akasha/infrastructure/inference/runs/modules/store/inference-run-store.module.code.ts"
-import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/record/inference-run-record.module.code.ts"
-import type { InferenceService } from "akasha/infrastructure/inference/runs/services/inference-run-services.module.code.ts"
-import { INFERENCE_SERVICES } from "akasha/infrastructure/inference/runs/services/inference-run-services.module.code.ts"
 
 const PAGES = [
   guidanceArgument,

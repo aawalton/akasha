@@ -1,4 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
+import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import {
+  importFiled,
+  pathFiled,
+  shapeAdded,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import {
   bodiesAt,
   manifestsAmong,
@@ -8,12 +14,6 @@ import {
   reachingOf,
   rereadOver,
 } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
-import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import {
-  importFiled,
-  pathFiled,
-  shapeAdded,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { reading } from "akasha/pages/value/page-value.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { writing as wrote } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"

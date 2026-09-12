@@ -22,7 +22,7 @@ import {
   landing,
   pathFor,
 } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
-import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { pageFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

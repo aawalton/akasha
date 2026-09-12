@@ -1,4 +1,4 @@
-import { DEFAULT_VOICE_INFER_URL } from "akasha/alan/harness/voice-core/infer-endpoint/infer-endpoint.module.code.ts"
+import { DEFAULT_VOICE_INFER_URL } from "akasha/alan/harness/voice-core/modules/infer-endpoint/infer-endpoint.module.code.ts"
 import { buildKokoroSpeechSegments } from "akasha/alan/harness/voice-core/speech/speech.module.code.ts"
 import {
   readAloudKey,
@@ -10,7 +10,7 @@ import {
 } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
 import { getPage } from "akasha/pages/access/modules/get/get.module.code.ts"
 import { getMediaConfig } from "akasha/pages/access/page-type-config/page-type-config.module.code.ts"
-import { inFlightKeys } from "akasha/utils/narrow/in-flight-keys/in-flight-keys.module.code.ts"
+import { inFlightKeys } from "akasha/utils/narrow/modules/in-flight-keys/in-flight-keys.module.code.ts"
 
 const KOKORO_VOICE = "af_heart"
 

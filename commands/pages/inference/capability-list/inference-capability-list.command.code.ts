@@ -11,9 +11,9 @@ import { inferenceCapabilityList as page } from "akasha/commands/pages/inference
 import {
   boundTo,
   targetOf,
-} from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
-import { getHost } from "akasha/infrastructure/inference/pool/inference-hosts/inference-hosts.module.code.ts"
-import { runSshCapture } from "akasha/infrastructure/inference/pool/inference-ssh/inference-ssh.module.code.ts"
+} from "akasha/infrastructure/inference/commands/modules/inference-answering/inference-answering.module.code.ts"
+import { getHost } from "akasha/infrastructure/inference/pool/modules/inference-hosts/inference-hosts.module.code.ts"
+import { runSshCapture } from "akasha/infrastructure/inference/pool/modules/inference-ssh/inference-ssh.module.code.ts"
 import {
   buildMfluxQueryScript,
   parseMfluxTools,
@@ -21,7 +21,7 @@ import {
 import {
   everyInference,
   type Inference,
-} from "akasha/infrastructure/services/inferences/inference-reading/inference-reading.module.code.ts"
+} from "akasha/infrastructure/services/inferences/modules/inference-reading/inference-reading.module.code.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 
 const MODEL_TYPE = "--model-type"

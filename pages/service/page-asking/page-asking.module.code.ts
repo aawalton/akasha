@@ -2,7 +2,7 @@ import {
   listedAt,
   readingIn,
   type Valued,
-} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   COMPUTED,
   type Counting,

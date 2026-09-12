@@ -8,7 +8,7 @@ import {
   InputGroupAddon,
   InputGroupButton,
   InputGroupInput,
-} from "akasha/design/interfaces/forms/input-group/input-group.module.code.tsx"
+} from "akasha/design/interfaces/forms/modules/input-group/input-group.module.code.tsx"
 import {
   PageLayout,
   PageTitle,

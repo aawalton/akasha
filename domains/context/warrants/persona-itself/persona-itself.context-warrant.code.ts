@@ -3,7 +3,7 @@ import {
   blobAt,
   type Warrant,
 } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 
 export const PERSONA =
   "A seat works as the persona it states, and that persona is read before the seat is changed."

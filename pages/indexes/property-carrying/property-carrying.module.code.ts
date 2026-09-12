@@ -6,7 +6,6 @@ import {
   partedIn,
   sectionedIn,
 } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { shapeOf } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
 import {
   everyOfType,
   filesIn,
@@ -15,8 +14,9 @@ import {
   listedById,
   readingIn,
   valuesOfType,
-} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+import { shapeOf } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
 import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 

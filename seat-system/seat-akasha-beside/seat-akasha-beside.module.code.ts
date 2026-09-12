@@ -2,7 +2,10 @@ import { statSync } from "node:fs"
 import { basename, join } from "node:path"
 import { seatAbove } from "akasha/agents/subagents/modules/naming/subagent-naming.module.code.ts"
 import { uncommittedAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { everyOfType, listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  everyOfType,
+  listedAt,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

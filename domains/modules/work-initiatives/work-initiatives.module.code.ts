@@ -3,7 +3,7 @@ import {
   everyOfType,
   idsNaming,
   typeSlugOf,
-} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { textIn } from "akasha/utils/narrow/text-in/text-in.module.code.ts"
 

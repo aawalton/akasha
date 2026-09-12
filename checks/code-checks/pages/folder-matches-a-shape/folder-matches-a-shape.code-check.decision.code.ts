@@ -24,12 +24,12 @@ import type { Judged } from "akasha/checks/modules/judging/judging.module.code.t
 import { folderOf } from "akasha/code/modules/path-between/code-path-between.module.code.ts"
 import { slugIn } from "akasha/pages/address/page-address.module.code.ts"
 import { type Held, heldIn, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
+import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
 import type {
   FilePropertiesBy,
   FoldersBy,
   UncommittedBy,
-} from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+} from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import {
   extensionsFor,
   heldNamed,

@@ -7,7 +7,10 @@ import {
   type Warrant,
 } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { addressedIn } from "akasha/pages/address/page-address.module.code.ts"
-import { listedAt, listedFor } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  listedAt,
+  listedFor,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { textUnder } from "akasha/pages/value/page-value.module.code.ts"
 
 export const ASSIGNMENT =

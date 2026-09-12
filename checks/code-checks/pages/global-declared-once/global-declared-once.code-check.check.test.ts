@@ -14,13 +14,13 @@ import { change, scratch, staged } from "akasha/checks/modules/staging/check-sta
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+} from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import {
   pageFiled,
   pathFiled,
   relationFiled,
   shapeAdded,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 
 afterAll(scratch.sweep)

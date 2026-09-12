@@ -5,7 +5,7 @@ import {
   ROOT,
 } from "akasha/infrastructure/container-image/dockerfiles/modules/dockerfile-services/dockerfile-services.module.code.ts"
 import { dockerfileFor } from "akasha/infrastructure/container-image/dockerfiles/modules/dockerfile-writing/dockerfile-writing.module.code.ts"
-import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const RECIPE = "container-recipe"

@@ -6,7 +6,7 @@ import {
   idsNaming,
   listedById,
   listedByPath,
-} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 
 export const WHOLE =
   "A page names its parts, and the whole a part belongs to is read before the part is changed."

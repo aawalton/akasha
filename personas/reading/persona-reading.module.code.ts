@@ -3,7 +3,7 @@ import {
   everyOfType,
   type Listed,
   listedAt,
-} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   mergeUncommitted,
   uncommittedIn,

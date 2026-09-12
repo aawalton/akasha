@@ -5,7 +5,7 @@ import {
   filedAs,
   HELD_PAGE,
   withholding,
-} from "akasha/pages/indexes/entries/index-entries.module.test-fixtures.ts"
+} from "akasha/pages/indexes/modules/entries/index-entries.module.test-fixtures.ts"
 import {
   claimsOf,
   pathsOf,

@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import type { Entry } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import type { Entry } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import {
   carriedOfType,
   carryingIn,

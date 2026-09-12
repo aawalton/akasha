@@ -23,11 +23,11 @@ import {
   portIn,
   sizeIn,
 } from "akasha/commands/pages/inference/wan/wan-hosting/wan-hosting.module.code.ts"
-import { drawSeed } from "akasha/infrastructure/inference/clients/inference-seed/inference-seed.module.code.ts"
 import {
   fetchImage,
   runComfyGraph,
 } from "akasha/infrastructure/inference/clients/modules/comfy-client/comfy-client.module.code.ts"
+import { drawSeed } from "akasha/infrastructure/inference/clients/modules/inference-seed/inference-seed.module.code.ts"
 
 import {
   WAN_DEFAULT_NEGATIVE_PROMPT,
@@ -44,8 +44,8 @@ import {
 } from "akasha/infrastructure/inference/generations/wan/extend-graph/wan-extend-graph.module.code.ts"
 import { buildI2vGraph } from "akasha/infrastructure/inference/generations/wan/i2v-graph/wan-i2v-graph.module.code.ts"
 import { parseSizeOrNull } from "akasha/infrastructure/inference/generations/wan/size/wan-size.module.code.ts"
+import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/modules/record/inference-run-record.module.code.ts"
 import { recordInferenceRun } from "akasha/infrastructure/inference/runs/modules/store/inference-run-store.module.code.ts"
-import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/record/inference-run-record.module.code.ts"
 import { sha256Hex } from "akasha/utils/hashing/sha256-hex/sha256-hex.module.code.ts"
 
 const SERVICE = "wan-i2v"

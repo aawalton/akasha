@@ -4,7 +4,7 @@ import { join } from "node:path"
 import { keepPointsToday } from "akasha/alan/attributes/modules/points/attribute-points.module.code.ts"
 import { strengthShown } from "akasha/alan/attributes/readouts/attribute-strength/attribute-strength.readout.code.ts"
 import { attributeStrength } from "akasha/alan/attributes/readouts/attribute-strength/attribute-strength.readout.ts"
-import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 
 const HOLD = "/var/tmp"
 

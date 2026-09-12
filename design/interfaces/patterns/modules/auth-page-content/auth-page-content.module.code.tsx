@@ -1,7 +1,6 @@
 "use client"
 
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
-import { Input } from "akasha/design/interfaces/primitives/input/input.module.code.tsx"
 import { Label } from "akasha/design/interfaces/primitives/label/label.module.code.tsx"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import {
@@ -10,6 +9,7 @@ import {
   CardTitle,
 } from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
+import { Input } from "akasha/design/interfaces/primitives/modules/input/input.module.code.tsx"
 import { Spinner } from "akasha/design/interfaces/primitives/spinner/spinner.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import type { ReactNode } from "react"

@@ -8,7 +8,7 @@ import {
   str,
 } from "akasha/alan/harness/monarch/shape/monarch-shape.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 
 const REPO = `${import.meta.dir}/../../../..`
 

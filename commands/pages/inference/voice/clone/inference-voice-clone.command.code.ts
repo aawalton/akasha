@@ -22,11 +22,11 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { filing, filledIn } from "akasha/commands/modules/filling/command-filling.module.code.ts"
 import { inferenceVoiceClone as page } from "akasha/commands/pages/inference/voice/clone/inference-voice-clone.command.ts"
+import { buildCopFetchInit } from "akasha/infrastructure/inference/clients/modules/cop-fetch/cop-fetch.module.code.ts"
 import {
   ensureOutputDir,
   resolveOutputPath,
-} from "akasha/infrastructure/inference/clients/inference-output-path/inference-output-path.module.code.ts"
-import { buildCopFetchInit } from "akasha/infrastructure/inference/clients/modules/cop-fetch/cop-fetch.module.code.ts"
+} from "akasha/infrastructure/inference/clients/modules/inference-output-path/inference-output-path.module.code.ts"
 import { isRiff } from "akasha/infrastructure/inference/clients/riff-bytes/riff-bytes.module.code.ts"
 import {
   buildSpeechRequestBody,
@@ -36,10 +36,10 @@ import {
   serviceNamed,
   targetOf,
   wroteTo,
-} from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
-import { scpUpload } from "akasha/infrastructure/inference/pool/inference-ssh/inference-ssh.module.code.ts"
+} from "akasha/infrastructure/inference/commands/modules/inference-answering/inference-answering.module.code.ts"
+import { scpUpload } from "akasha/infrastructure/inference/pool/modules/inference-ssh/inference-ssh.module.code.ts"
+import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/modules/record/inference-run-record.module.code.ts"
 import { recordInferenceRun } from "akasha/infrastructure/inference/runs/modules/store/inference-run-store.module.code.ts"
-import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/record/inference-run-record.module.code.ts"
 import { SCRATCH_AT } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const PAGES = [

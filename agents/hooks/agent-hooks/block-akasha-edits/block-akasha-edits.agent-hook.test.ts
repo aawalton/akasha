@@ -10,7 +10,7 @@ import { UNREADABLE } from "akasha/agents/hooks/modules/answer/hook-answer.modul
 import { insideOf, settled } from "akasha/agents/hooks/settling/settling.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { dataAt } from "akasha/files/modules/git-place/git-place.module.code.ts"
-import { INDEX_AT } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
+import { INDEX_AT } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 

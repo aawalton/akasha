@@ -15,7 +15,10 @@ import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code
 import { seatSupervisorRestart as page } from "akasha/commands/pages/seat/supervisor/restart/seat-supervisor-restart.command.ts"
 import type { Holder } from "akasha/files/lock-holder/lock-holder.module.code.ts"
 import { alive } from "akasha/files/lock-holder/lock-holder.module.code.ts"
-import { everyOfType, typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  everyOfType,
+  typeSlugOf,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { mergeUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 
 const SEAT_TYPE = "01a05035-2609-7463-ba49-ccaf20f5c337"

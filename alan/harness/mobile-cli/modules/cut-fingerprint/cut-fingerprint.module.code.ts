@@ -1,6 +1,6 @@
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
-import { everyOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { everyOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

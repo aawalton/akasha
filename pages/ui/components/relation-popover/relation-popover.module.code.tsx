@@ -1,6 +1,6 @@
 "use client"
 
-import { Input } from "akasha/design/interfaces/primitives/input/input.module.code.tsx"
+import { Input } from "akasha/design/interfaces/primitives/modules/input/input.module.code.tsx"
 import {
   Popover,
   PopoverContent,

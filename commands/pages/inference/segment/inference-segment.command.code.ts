@@ -22,7 +22,7 @@ import { inferenceSegment as page } from "akasha/commands/pages/inference/segmen
 import {
   ensureOutputDir,
   resolveOutputPath,
-} from "akasha/infrastructure/inference/clients/inference-output-path/inference-output-path.module.code.ts"
+} from "akasha/infrastructure/inference/clients/modules/inference-output-path/inference-output-path.module.code.ts"
 import {
   buildSegmentFields,
   deriveSiblingPath,
@@ -32,9 +32,9 @@ import {
 import {
   serviceNamed,
   wroteTo,
-} from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
+} from "akasha/infrastructure/inference/commands/modules/inference-answering/inference-answering.module.code.ts"
+import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/modules/record/inference-run-record.module.code.ts"
 import { recordInferenceRun } from "akasha/infrastructure/inference/runs/modules/store/inference-run-store.module.code.ts"
-import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/record/inference-run-record.module.code.ts"
 import { sha256Hex } from "akasha/utils/hashing/sha256-hex/sha256-hex.module.code.ts"
 
 const PAGES = [

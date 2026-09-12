@@ -35,7 +35,7 @@ import {
 import { unwarrantedIn } from "akasha/commands/modules/warrant-owing/warrant-owing.module.code.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { besideAll } from "akasha/pages/beside/page-beside.module.code.ts"
-import { fileKeysAt } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import { fileKeysAt } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 
 const RESTATED = "--restated"
 

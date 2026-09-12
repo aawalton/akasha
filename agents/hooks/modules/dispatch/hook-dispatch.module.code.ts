@@ -20,7 +20,7 @@ import {
 } from "akasha/checks/modules/cost/check-cost.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 
 const HOOK = "hook-dispatch"

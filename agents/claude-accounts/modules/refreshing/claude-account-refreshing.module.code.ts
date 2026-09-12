@@ -8,7 +8,7 @@ import {
   everyAccountSlugIn,
 } from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
 import { usageFetched } from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
-import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"

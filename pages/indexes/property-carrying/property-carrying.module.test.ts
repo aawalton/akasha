@@ -3,7 +3,12 @@ import {
   idFiled,
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+} from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+import {
+  listedAndValued,
+  relationFiled,
+  shapeAdded,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import {
   type Carried,
   carryingOf,
@@ -41,11 +46,6 @@ import {
   THING,
   TWO,
 } from "akasha/pages/indexes/property-carrying/property-carrying.module.test-fixtures.ts"
-import {
-  listedAndValued,
-  relationFiled,
-  shapeAdded,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 

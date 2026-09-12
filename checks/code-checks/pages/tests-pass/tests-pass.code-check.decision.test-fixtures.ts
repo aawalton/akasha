@@ -5,7 +5,7 @@ import { RUNNING } from "akasha/code/modules/tests/code-tests.module.code.ts"
 import {
   noPathsFiled,
   pathFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 export const PASSES =
@@ -52,7 +52,7 @@ export const TYPE_WAS = `${TREE}/text-property.page-type.ts`
 export const TYPE_NOW = `${TREE}/types/text-property.page-type.ts`
 
 const INDEXES = Bun.resolveSync(
-  "akasha/pages/indexes/reading/index-reading.module.code.ts",
+  "akasha/pages/indexes/modules/reading/index-reading.module.code.ts",
   import.meta.dir
 )
 

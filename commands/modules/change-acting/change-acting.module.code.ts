@@ -18,7 +18,10 @@ import type { Piping } from "akasha/commands/modules/piping/piping.module.code.t
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { offRepo, pathAt } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { indexThere, listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  indexThere,
+  listedAt,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
 
 export const NO_PAGE = "this call names no agent whose page the edits would be kept beside"

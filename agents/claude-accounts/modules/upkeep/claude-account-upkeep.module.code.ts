@@ -30,9 +30,9 @@ import {
   type UsageRead,
   usageFetched,
 } from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
-import type { PageOf } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
-import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import type { PageOf } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import { secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"

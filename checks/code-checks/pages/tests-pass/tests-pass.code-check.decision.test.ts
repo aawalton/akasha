@@ -45,7 +45,7 @@ import {
   proposing,
 } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 
-import { repoAt } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { repoAt } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { shadowAsked, shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import { typingUnder } from "akasha/testing-system/modules/declaring/declaring.module.code.ts"

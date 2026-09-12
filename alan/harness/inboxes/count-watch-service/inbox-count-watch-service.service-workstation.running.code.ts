@@ -1,4 +1,4 @@
-import { runInboxCountWatch } from "akasha/alan/harness/inboxes/count-watch/inbox-count-watch.module.code.ts"
+import { runInboxCountWatch } from "akasha/alan/harness/inboxes/modules/count-watch/inbox-count-watch.module.code.ts"
 
 const SITE = "https://alanwalton.com"
 

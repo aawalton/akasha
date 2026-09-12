@@ -4,7 +4,7 @@ import {
   type Warrant,
 } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 
 export const PERSONA_TYPE =
   "A seat works as a persona, and what every persona is held to is read before the seat is changed."

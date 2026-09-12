@@ -6,7 +6,10 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { measurePerformance as page } from "akasha/commands/pages/measure/performance/measure-performance.command.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { listedAt, slugsOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  listedAt,
+  slugsOfType,
+} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 const PERFORMANCE = "performance"

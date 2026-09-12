@@ -24,12 +24,12 @@ import type { Changes as AgentChanges } from "akasha/changes/runners/pages/agent
 import type { Changes as MechanicalChanges } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.addressed.ts"
 import { formattedBody } from "akasha/code/modules/format/code-format.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
+import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import {
   type Facing,
   generatedIn,
 } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import {
   type Cast,

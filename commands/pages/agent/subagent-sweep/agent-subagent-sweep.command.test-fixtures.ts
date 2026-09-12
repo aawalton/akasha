@@ -28,8 +28,8 @@ import { said as gitIn } from "akasha/git/modules/running/git-running.module.cod
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
-import { refreshedIn } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+import { refreshedIn } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { declaringUnder } from "akasha/testing-system/modules/declaring/declaring.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { bodyAt, writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"

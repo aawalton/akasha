@@ -9,7 +9,7 @@ import {
   overEachTextAsync,
   TEXTS,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
-import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
+import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
 
 export const reasonsIn = overEachText(marked)
 

@@ -4,7 +4,7 @@ import {
   namedAt,
 } from "akasha/checks/code-checks/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.code-check.decision.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { everyPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { everyPath } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 
 export function commandIsInTheRightFolder(root: string): readonly Judged[] {

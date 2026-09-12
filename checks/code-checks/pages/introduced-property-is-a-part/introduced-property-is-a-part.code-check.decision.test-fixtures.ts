@@ -11,7 +11,7 @@ import { declaring, shadowed } from "akasha/checks/modules/scratch/check-scratch
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+} from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
