@@ -11,6 +11,21 @@ export const changeFreshness = {
   invariants: [
     {
       invariantKind: "departure",
+      statement:
+        "A body is overwritten only where the body on disk is what the writer's reading names.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An apply records that reading again from the body at HEAD before these rules run.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path an apply writes is held to the body at HEAD rather than to what its writer read.",
+    },
+    {
+      invariantKind: "gap",
       statement: "A body is overwritten only where the body on disk is the body its writer read.",
     },
     {

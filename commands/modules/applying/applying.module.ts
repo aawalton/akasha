@@ -144,6 +144,23 @@ export const applying = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "That body is the body the writer worked on where every row anchors in a passage read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row rewriting a whole body anchors in a passage read as that row was composed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading recorded again over such a row warrants a body the writer never read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`module/change-freshness` admits such a row.",
+    },
+    {
+      invariantKind: "gap",
       statement: "That body is the body the writer worked on.",
     },
     {
