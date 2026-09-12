@@ -18,12 +18,12 @@ export type ReadoutWidget = Domain & {
   component: Component
   kind: Kind
   families: Families
-  feed: Feed
+  feed?: Feed
   caption?: Caption
   galleryName: GalleryName
   galleryDescription: GalleryDescription
   opens?: Opens
-  groups: Groups
+  groups?: Groups
   place: Place
   taps?: Taps
   lastTappedAt?: LastTappedAt

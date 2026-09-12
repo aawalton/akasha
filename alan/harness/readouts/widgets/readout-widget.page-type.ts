@@ -38,14 +38,14 @@ export const readoutWidget = {
     { pageProperty: "relation-property/component", required: true, many: false },
     { pageProperty: "text-property/kind", required: true, many: false },
     { pageProperty: "text-property/families", required: true, many: true, maxCount: null },
-    { pageProperty: "url-property/feed", required: true, many: false },
+    { pageProperty: "url-property/feed", required: false, many: false },
     { pageProperty: "text-property/caption", required: false, many: false },
     { pageProperty: "text-property/gallery-name", required: true, many: false },
     { pageProperty: "text-property/gallery-description", required: true, many: false },
     { pageProperty: "text-property/opens", required: false, many: false },
     {
       pageProperty: "relation-property/groups",
-      required: true,
+      required: false,
       many: true,
       maxCount: null,
     },
@@ -66,6 +66,10 @@ export const readoutWidget = {
     {
       invariantKind: "departure",
       statement: "A widget draws groups rather than readings.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tile drawing what the tiles themselves are doing names no feed and no group.",
     },
     {
       invariantKind: "departure",
