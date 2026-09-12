@@ -8,4 +8,5 @@ export const batch = {
   takes: "how many readings one write carries, 1 to 1000",
   value: "whole-number",
   placeholder: "n",
+  default: "1000",
 } as const satisfies Argument

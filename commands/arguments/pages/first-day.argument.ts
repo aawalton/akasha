@@ -8,4 +8,5 @@ export const firstDay = {
   takes: "the first civil day to bring in",
   value: "text",
   placeholder: "YYYY-MM-DD",
+  default: "0001-01-01",
 } as const satisfies Argument
