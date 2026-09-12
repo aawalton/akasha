@@ -35,6 +35,14 @@ export const proxyRun = {
     },
     {
       invariantKind: "departure",
+      statement: "A gateway is named as soon as that gateway is running under a process id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That name carries the call which stops the process it names.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The console and the errors are written under the log directory named.",
     },
     {

@@ -85,7 +85,18 @@ export function saidOf(started: Started): readonly string[] {
   ]
 }
 
-export async function startedOn(asked: Asked, seams: RunSeams): Promise<Started | string> {
+export function spawnedSaid(entry: string, pid: number, logDir: string): string {
+  return (
+    `the gateway at ${entry} is running as process ${pid} — stop it with \`kill ${pid}\`,` +
+    ` and what it wrote is under ${logDir}`
+  )
+}
+
+export async function startedOn(
+  asked: Asked,
+  seams: RunSeams,
+  done: string[] = []
+): Promise<Started | string> {
   const seat = seams.seatOf(asked.agentId)
   if (seat !== null) {
     return (
@@ -104,6 +115,7 @@ export async function startedOn(asked: Asked, seams: RunSeams): Promise<Started 
     proc.stopped()
     return "the gateway was spawned and no process id came back, so nothing can be reported"
   }
+  done.push(spawnedSaid(entry, pid, logDir))
   let port: number
   try {
     port = await seams.ported(proc.outOf(), asked.budgetMs)

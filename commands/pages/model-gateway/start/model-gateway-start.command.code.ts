@@ -1,4 +1,5 @@
 import {
+  answering,
   INPUT,
   OK,
   OPERATIONAL,
@@ -11,6 +12,7 @@ import {
   NAMED_VERSION,
   PORT_BUDGET_MS,
   RUN_SEAMS,
+  type RunSeams,
   saidOf,
   startedOn,
 } from "akasha/commands/pages/model-gateway/start/proxy-run/proxy-run.module.code.ts"
@@ -92,10 +94,16 @@ export function askedOf(
   }
 }
 
-export async function modelGatewayStart(argv: readonly string[], given: Given): Promise<Answer> {
+export async function modelGatewayStart(
+  argv: readonly string[],
+  given: Given,
+  seams: RunSeams = RUN_SEAMS
+): Promise<Answer> {
   const asked = askedOf(argv, Date.now(), Math.floor(Math.random() * 1_000_000), given.calledAs)
   if (typeof asked === "string") return { report: [], refusals: [asked], code: INPUT }
-  const started = await startedOn(asked, RUN_SEAMS)
-  if (typeof started === "string") return { report: [], refusals: [started], code: OPERATIONAL }
-  return { report: [...saidOf(started)], refusals: [], code: OK }
+  return await answering(async (done) => {
+    const started = await startedOn(asked, seams, done)
+    if (typeof started === "string") return { report: [], refusals: [started], code: OPERATIONAL }
+    return { report: [...saidOf(started)], refusals: [], code: OK }
+  })
 }

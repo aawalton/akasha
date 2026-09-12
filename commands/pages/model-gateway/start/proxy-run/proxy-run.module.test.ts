@@ -1,5 +1,10 @@
 import { expect, test } from "bun:test"
 import {
+  answering,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
   AGENT_PREFIX,
   type Asked,
   agentIdFor,
@@ -7,6 +12,7 @@ import {
   type RunSeams,
   STDERR_LOG,
   saidOf,
+  spawnedSaid,
   startedOn,
 } from "akasha/commands/pages/model-gateway/start/proxy-run/proxy-run.module.code.ts"
 
@@ -109,6 +115,67 @@ test("the folder the logs go in is no folder the sockets are named in", async ()
   const said = await startedOn(ASKED, seamsWith(null, 51238, kept))
   if (typeof said === "string") return
   expect(said.socketPath.startsWith(`${said.logDir}/`)).toBe(false)
+})
+
+function seamsThatWillNotLetGo(): RunSeams {
+  return {
+    ...seamsWith(null, 51239, { value: false }),
+    spawned: () => ({
+      pid: 4242,
+      outOf: () => undefined,
+      loosed: (): undefined => {
+        throw new Error("the process would not be let go of")
+      },
+      stopped: (): undefined => {
+        throw new Error("the process would not be stopped")
+      },
+    }),
+  }
+}
+
+test("the gateway is named as soon as it is running under a process id", async () => {
+  const done: string[] = []
+
+  await startedOn(ASKED, seamsWith(null, 51240, { value: false }), done)
+  expect(done).toHaveLength(1)
+  expect(done[0]).toContain("process 4242")
+  expect(done[0]).toContain("kill 4242")
+})
+
+test("a start that threw after the spawn names the process left running", async () => {
+  const held = await answering(async (done) => {
+    const said = await startedOn(ASKED, seamsThatWillNotLetGo(), done)
+    return { report: typeof said === "string" ? [said] : saidOf(said), refusals: [], code: OK }
+  })
+
+  expect(held.code).toBe(OPERATIONAL)
+  const last = held.refusals[held.refusals.length - 1] as string
+  expect(last).toContain("stopped part way")
+  expect(last).toContain("kill 4242")
+})
+
+test("a start that threw before any gateway was spawned names no process", async () => {
+  const held = await answering(async (done) => {
+    await startedOn(
+      ASKED,
+      {
+        ...seamsWith(null, 51241, { value: false }),
+        madeDir: () => {
+          throw new Error("the log folder would not be made")
+        },
+      },
+      done
+    )
+    return { report: [], refusals: [], code: OK }
+  })
+
+  expect(held.report).toEqual([])
+  expect(held.refusals.some((one) => one.includes("stopped part way"))).toBe(false)
+})
+
+test("a gateway named for a refusal is spelled the way the report spells it", () => {
+  expect(spawnedSaid("/at/entry.ts", 7, "/var/log")).toContain("/at/entry.ts")
+  expect(spawnedSaid("/at/entry.ts", 7, "/var/log")).toContain("/var/log")
 })
 
 test("the report says the entry, the process, the port and the socket", async () => {

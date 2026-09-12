@@ -45,6 +45,18 @@ export const modelGatewayStart = {
       statement: "A gateway that printed no port is refused rather than reported.",
     },
     {
+      invariantKind: "departure",
+      statement: "A start that threw after the spawn names the process left running.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A start that threw before the spawn names no process.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The seams this runs on are handed in.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing inside the akasha folder is written by this command.",
     },
