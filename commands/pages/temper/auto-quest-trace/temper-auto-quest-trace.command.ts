@@ -6,9 +6,7 @@ export const temperAutoQuestTrace = {
   slug: "temper-auto-quest-trace",
   definition: "the command reading the auto-quest debug trace the quests addon captured",
   code: "ts",
-  taking: [
-    { said: "--file-path <path>", takes: "the saved-variables file the trace is read from" },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -29,5 +27,5 @@ export const temperAutoQuestTrace = {
     },
   ],
   name: "auto-quest-trace",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/quest-trace-path" }],
 } as const satisfies Command
