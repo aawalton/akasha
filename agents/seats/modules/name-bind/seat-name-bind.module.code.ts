@@ -1,11 +1,11 @@
 import { seatByName } from "akasha/agents/seats/modules/by-name/seat-by-name.module.code.ts"
 import { isValidSeatName } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
-import { inputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import { gatherAgentNameBindInput } from "akasha/seat-system/agent-name-bind/agent-name-bind.module.code.ts"
 import {
   claimed,
   type Presence,
-} from "akasha/seat-system/seat-name-claim/seat-name-claim.module.code.ts"
+} from "akasha/agents/seats/modules/name-claim/seat-name-claim.module.code.ts"
+import { inputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { gatherAgentNameBindInput } from "akasha/seat-system/agent-name-bind/agent-name-bind.module.code.ts"
 
 export interface SetAgentNameBind {
   readonly priorHolderPresence?: Presence
