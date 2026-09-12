@@ -1,5 +1,6 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
+import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { addonsDir } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
@@ -18,7 +19,6 @@ import {
 import { verifyZone } from "akasha/temper/upstream-data/zone-upstream-verify/zone-upstream-verify.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
-const DATA = 2
 const FAILED = 3
 
 const RULED_BY: Record<UpstreamLibrary, (addons: string) => Promise<Ruling>> = {
@@ -80,6 +80,6 @@ export async function temperUpstreamDataVerify(argv: readonly string[] = []): Pr
 
   const read = SOURCES_OF[library].map((one) => join(where.addons, one))
   const report = [...ruling.report, `read upstream from ${read.join(", ")}`]
-  if (ruling.parted.length === 0) return answering(report, [], 0)
+  if (ruling.parted.length === 0) return answering(report, [], OK)
   return answering(report, [...ruling.parted, `${library} no longer matches upstream`], FAILED)
 }
