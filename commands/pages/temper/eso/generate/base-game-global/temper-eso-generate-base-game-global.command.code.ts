@@ -17,8 +17,8 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
+  answeredByPage,
   type Generating,
-  pageAnswering,
   type Taking,
 } from "akasha/commands/modules/page-answering/page-answering.module.code.ts"
 import { temperEsoGenerateBaseGameGlobal as page } from "akasha/commands/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.ts"
@@ -58,8 +58,8 @@ export async function staging(
   given: Given,
   stagingWork: Staging = staged
 ): Promise<Answer> {
-  return await pageAnswering(argv, given, page, NAMED, async (done, taken, each) =>
-    naming(done, await stagingWork(done, taken, each))
+  return await answeredByPage(argv, given.calledAs, page, NAMED, async (taken, done) =>
+    naming(done, await stagingWork(done, taken, given))
   )
 }
 

@@ -12,8 +12,8 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
+  answeredByPage,
   type Generating,
-  pageAnswering,
   type Taking,
 } from "akasha/commands/modules/page-answering/page-answering.module.code.ts"
 import { temperEsoGenerateChatterName as page } from "akasha/commands/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.ts"
@@ -118,7 +118,9 @@ export async function chattering(
   given: Given,
   generating: Generating<Taken> = generated
 ): Promise<Answer> {
-  return await pageAnswering(argv, given, page, NAMED, generating)
+  return await answeredByPage(argv, given.calledAs, page, NAMED, (taken, done) =>
+    generating(done, taken, given)
+  )
 }
 
 export function temperEsoGenerateChatterName(
