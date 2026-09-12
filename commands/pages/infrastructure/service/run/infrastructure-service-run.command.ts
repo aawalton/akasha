@@ -24,6 +24,10 @@ export const infrastructureServiceRun = {
     },
     {
       invariantKind: "departure",
+      statement: "A slug no service page carries is refused as a fault of the call.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A service whose running code is not there is refused rather than run.",
     },
     {

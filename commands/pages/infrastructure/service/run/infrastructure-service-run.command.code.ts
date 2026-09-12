@@ -20,15 +20,22 @@ const RUNS = "runService"
 
 export type Running = () => void | Promise<void>
 
-type Reached = { readonly running: Running } | { readonly refused: string }
+type Reached =
+  | { readonly running: Running }
+  | { readonly refused: string }
+  | { readonly unnamed: string }
 
 function runningAt(page: string): string | null {
   return besideAt(page, `${RUNNING}.${CODE}`, TS)
 }
 
+export function noService(slug: string): string {
+  return `no workstation service is slugged \`${slug}\``
+}
+
 async function reachedFor(root: string, slug: string): Promise<Reached> {
   const found = listedAt(root, SERVICE_WORKSTATION, slug)[0]
-  if (found === undefined) return { refused: `no workstation service is slugged \`${slug}\`` }
+  if (found === undefined) return { unnamed: noService(slug) }
   const at = runningAt(found.path)
   if (at === null) {
     return { refused: `\`${slug}\` sits at \`${found.path}\`, which takes no code beside it` }
@@ -52,6 +59,7 @@ export async function infrastructureServiceRun(
   if ("refused" in named) return refused(named.refused, INPUT)
 
   const reached = await reachedFor(given.root, named.slug)
+  if ("unnamed" in reached) return refused(reached.unnamed, INPUT)
   if ("refused" in reached) return refused(reached.refused, DATA)
 
   allowedThrough()

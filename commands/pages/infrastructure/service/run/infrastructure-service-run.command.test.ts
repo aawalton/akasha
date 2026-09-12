@@ -28,16 +28,16 @@ test("a flag this does not take is refused by name", async () => {
   expect(answer.refusals[0]).toContain("`--dry-run`")
 })
 
-test("a slug no service page carries is the data's fault", async () => {
+test("a slug no service page carries is the caller's fault", async () => {
   const answer = await infrastructureServiceRun(["no-such-service-is-here"], HERE)
-  expect(answer.code).toBe(2)
+  expect(answer.code).toBe(1)
   expect(answer.refusals[0]).toContain("no-such-service-is-here")
   expect(answer.report).toEqual([])
 })
 
 test("a slug another page type carries is no workstation service to run", async () => {
   const answer = await infrastructureServiceRun(["service-installing"], HERE)
-  expect(answer.code).toBe(2)
+  expect(answer.code).toBe(1)
   expect(answer.refusals[0]).toContain("service-installing")
   expect(answer.report).toEqual([])
 })
