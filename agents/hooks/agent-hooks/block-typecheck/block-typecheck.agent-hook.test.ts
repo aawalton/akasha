@@ -17,6 +17,13 @@ const ROOT = rootOf(import.meta.path)
 
 const judged = judging(refusalIn, ROOT)
 
+test("a call kept out of the command word is read as no tsc call, which is the gap", () => {
+  expect(judged("H=$(tsc --noEmit)")).toBeNull()
+  expect(judged("$(tsc --noEmit)")).toBeNull()
+  expect(judged("(tsc --noEmit)")).toBeNull()
+  expect(SCOPE.join("\n")).toContain("a call kept out of the command word")
+})
+
 test("a tsc call is refused, naming a file as well as naming none", () => {
   for (const one of ["tsc --noEmit", "tsc", "tsc -p tsconfig.json", "tsc one.ts"]) {
     expect(judged(one)).toContain("refused this call")

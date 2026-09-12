@@ -11,8 +11,12 @@ export const blockBiome = {
   overTools: ["Bash"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "gap",
       statement: "Every biome call is refused whether that call reads or writes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A biome call in the command word is refused whether it reads or writes.",
     },
     {
       invariantKind: "departure",

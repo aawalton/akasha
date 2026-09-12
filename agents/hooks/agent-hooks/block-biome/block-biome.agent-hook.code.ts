@@ -32,7 +32,7 @@ const REFUSAL = toldOf(HOOK, [
 ])
 
 export const SCOPE: readonly string[] = [
-  `${HOOK} refuses every call that runs biome, reading as well as writing.`,
+  `${HOOK} refuses a call it reads as running biome, reading as well as writing.`,
   "  biome, a path ending in biome, and biome run through npx, bunx, pnpx or dlx",
   "The checks at a change say what biome finds, and akasha formats every body it lands.",
   "",
@@ -69,6 +69,9 @@ export const SCOPE: readonly string[] = [
   "  a call inside a quoted run, which the dequoting step takes out before the cut",
   "  a call in a heredoc body, which that step does not take out, so data naming biome is",
   "    refused as though it were a command",
+  "  a call kept out of the command word, which `shell-calls` reads as part of that word, so no",
+  "    biome call is read out of it at all — measured through the dispatch on 2026-09-12:",
+  "      $(biome check .)   H=$(biome check .)   (biome check .)   was let through",
   "",
   "ALSO REFUSED ELSEWHERE:",
   "  A write through the Write or Edit tool is refused by `block-akasha-edits`. A write through",

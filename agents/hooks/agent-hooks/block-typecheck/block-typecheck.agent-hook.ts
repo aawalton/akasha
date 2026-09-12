@@ -11,8 +11,12 @@ export const blockTypecheck = {
   overTools: ["Bash"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "gap",
       statement: "Every `tsc` call is refused whether the call names a file or names no file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A `tsc` call in the command word is refused whether it names a file or none.",
     },
     {
       invariantKind: "departure",

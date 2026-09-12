@@ -17,6 +17,13 @@ const ROOT = rootOf(import.meta.path)
 
 const judged = judging(refusalIn, ROOT)
 
+test("a call kept out of the command word is read as no biome call, which is the gap", () => {
+  expect(judged("H=$(biome check .)")).toBeNull()
+  expect(judged("$(biome check .)")).toBeNull()
+  expect(judged("(biome check .)")).toBeNull()
+  expect(SCOPE.join("\n")).toContain("a call kept out of the command word")
+})
+
 test("a biome call is refused, reading as well as writing", () => {
   for (const one of ["biome check .", "biome check --write akasha/", "biome format akasha/"]) {
     expect(judged(one)).toContain("refused this call")
