@@ -7,9 +7,7 @@ export const modelTest = {
   definition: "the command putting a model test's labelled cases to its model and scoring them",
   code: "ts",
   test: "ts",
-  taking: [
-    { said: "--show", takes: "the whole prompt put for each case shown and the whole answer back" },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -58,5 +56,6 @@ export const modelTest = {
     { argument: "argument/model-test", required: true, saidAs: "word" },
     { argument: "argument/cases" },
     { argument: "argument/broken" },
+    { argument: "argument/show" },
   ],
 } as const satisfies Command
