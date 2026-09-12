@@ -15,7 +15,7 @@ import { useFilterPersistence } from "akasha/design/interfaces/patterns/use-filt
 import { AccountTab } from "akasha/temper/web/modules/account-tab/account-tab.module.code.tsx"
 import { AutomationTab } from "akasha/temper/web/modules/automation-tab/automation-tab.module.code.tsx"
 import { InventoryTab } from "akasha/temper/web/modules/inventory-tab/inventory-tab.module.code.tsx"
-import { NotificationsTab } from "akasha/temper/web/notifications-tab/notifications-tab.module.code.tsx"
+import { NotificationsTab } from "akasha/temper/web/modules/notifications-tab/notifications-tab.module.code.tsx"
 import { Bell, Package, Sliders, User as UserIcon } from "lucide-react"
 
 const VALID_TABS = new Set(["account", "inventory", "automation", "notifications"])

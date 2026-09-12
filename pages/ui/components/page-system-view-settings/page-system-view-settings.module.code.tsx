@@ -15,7 +15,7 @@ import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { GalleryOptionsPicker } from "akasha/pages/ui/components/modules/gallery-options-picker/gallery-options-picker.module.code.tsx"
 import { GroupByPicker } from "akasha/pages/ui/components/modules/group-by-picker/group-by-picker.module.code.tsx"
-import { NotesOptionsPicker } from "akasha/pages/ui/components/notes-options-picker/notes-options-picker.module.code.tsx"
+import { NotesOptionsPicker } from "akasha/pages/ui/components/modules/notes-options-picker/notes-options-picker.module.code.tsx"
 import { PageSizePicker } from "akasha/pages/ui/components/page-size-picker/page-size-picker.module.code.tsx"
 import { PropertyVisibilityPicker } from "akasha/pages/ui/components/property-visibility-picker/property-visibility-picker.module.code.tsx"
 import { TimelinePicker } from "akasha/pages/ui/components/timeline-picker/timeline-picker.module.code.tsx"

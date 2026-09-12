@@ -1,5 +1,5 @@
 import type { ClientBeat } from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
-import { NewestDivider } from "akasha/story/ui/newest-divider/newest-divider.module.code.tsx"
+import { NewestDivider } from "akasha/story/ui/modules/newest-divider/newest-divider.module.code.tsx"
 import { SystemCard } from "akasha/story/ui/system-card/system-card.module.code.tsx"
 import type { SubmitPlayerAction } from "akasha/story/ui/system-choice-card/system-choice-card.module.code.tsx"
 import { SystemWindowCard } from "akasha/story/ui/system-window-card/system-window-card.module.code.tsx"

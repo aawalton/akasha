@@ -9,7 +9,7 @@ import {
 import {
   ALAN_PERSON,
   notify,
-} from "akasha/alan/harness/notification-feeds/notifying/notifying.module.code.ts"
+} from "akasha/alan/harness/notification-feeds/modules/notifying/notifying.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

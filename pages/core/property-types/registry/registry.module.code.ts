@@ -10,7 +10,7 @@ import { JSON_OPS } from "akasha/pages/core/property-types/modules/json/json.mod
 import { MARKDOWN_OPS } from "akasha/pages/core/property-types/modules/markdown/markdown.module.code.ts"
 import { MULTI_RELATION_OPS } from "akasha/pages/core/property-types/modules/multi-relation/multi-relation.module.code.ts"
 import { MULTI_SELECT_OPS } from "akasha/pages/core/property-types/modules/multi-select-property/multi-select-property.module.code.ts"
-import { NUMBER_OPS } from "akasha/pages/core/property-types/number/number.module.code.ts"
+import { NUMBER_OPS } from "akasha/pages/core/property-types/modules/number/number.module.code.ts"
 import { PATH_SELECT_OPS } from "akasha/pages/core/property-types/path-select/path-select.module.code.ts"
 import { PROGRESS_OPS } from "akasha/pages/core/property-types/progress/progress.module.code.ts"
 import type { PropertyTypeOps } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"

@@ -1,6 +1,6 @@
 "use client"
 
-import { resolveNextUnreadHref } from "akasha/alan/web/next-unread/next-unread.module.code.ts"
+import { resolveNextUnreadHref } from "akasha/alan/web/modules/next-unread/next-unread.module.code.ts"
 import { useEffect, useRef, useState } from "react"
 
 export function useNextUnreadHref(storyId: string | undefined): string | null {

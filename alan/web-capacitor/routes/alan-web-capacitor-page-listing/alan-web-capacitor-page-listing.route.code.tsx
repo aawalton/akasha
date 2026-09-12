@@ -1,6 +1,6 @@
 "use client"
 
-import { NotFoundNotice } from "akasha/alan/web-capacitor/not-found-notice/not-found-notice.module.code.tsx"
+import { NotFoundNotice } from "akasha/alan/web-capacitor/modules/not-found-notice/not-found-notice.module.code.tsx"
 import { PagesFilteredContent } from "akasha/pages/ui/components/pages-by-relation-content/pages-by-relation-content.module.code.tsx"
 import { useAllPages } from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"

@@ -4,7 +4,7 @@ import {
   stateAt,
 } from "akasha/alan/harness/code-editor/data-interfaces/state-reading/state-reading.module.code.ts"
 import { akashaRoot } from "akasha/code/editor/extension/modules/harness-call/harness-call.module.code.ts"
-import { recordObservation } from "akasha/code/editor/extension/observation-store/observation-store.module.code.ts"
+import { recordObservation } from "akasha/code/editor/extension/modules/observation-store/observation-store.module.code.ts"
 import {
   REFRESH_COMMAND,
   VIEW_ID,

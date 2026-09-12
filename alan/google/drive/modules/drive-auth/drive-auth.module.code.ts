@@ -1,6 +1,6 @@
 import { auth } from "@googleapis/drive"
 import { readDriveCredentials } from "akasha/alan/google/drive/modules/drive-credentials/drive-credentials.module.code.ts"
-import { makeGoogleOauthClient } from "akasha/alan/google/oauth/oauth-client/oauth-client.module.code.ts"
+import { makeGoogleOauthClient } from "akasha/alan/google/oauth/modules/oauth-client/oauth-client.module.code.ts"
 
 export type DriveAuthClient = InstanceType<typeof auth.OAuth2>
 

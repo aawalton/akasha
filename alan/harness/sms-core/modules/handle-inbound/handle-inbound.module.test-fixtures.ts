@@ -3,7 +3,7 @@ import type {
   DeliveryKind,
   RecordDiscardEffect,
 } from "akasha/alan/harness/sms-core/modules/handle-inbound/handle-inbound.module.code.ts"
-import type { DiscardedInbound } from "akasha/alan/harness/sms-core/normalize/normalize.module.code.ts"
+import type { DiscardedInbound } from "akasha/alan/harness/sms-core/modules/normalize/normalize.module.code.ts"
 import { bytesToBase64 } from "akasha/alan/harness/sms-core/verify-signature/verify-signature.module.test-fixtures.ts"
 
 function toKeyPair(key: CryptoKey | CryptoKeyPair): CryptoKeyPair {

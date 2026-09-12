@@ -1,4 +1,4 @@
-import { imageObjectReadKeys } from "akasha/infrastructure/storage/object-store/key/object-store-key.module.code.ts"
+import { imageObjectReadKeys } from "akasha/infrastructure/storage/object-store/modules/key/object-store-key.module.code.ts"
 import type { ObjectStore } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
 
 export interface ResolvedImage {

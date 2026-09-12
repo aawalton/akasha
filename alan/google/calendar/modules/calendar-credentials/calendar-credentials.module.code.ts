@@ -1,5 +1,5 @@
-import type { GoogleOauthRefreshCredentials } from "akasha/alan/google/oauth/oauth-client/oauth-client.module.code.ts"
-import { readGoogleOauthCredentials } from "akasha/alan/google/oauth/oauth-refresh-token/oauth-refresh-token.module.code.ts"
+import type { GoogleOauthRefreshCredentials } from "akasha/alan/google/oauth/modules/oauth-client/oauth-client.module.code.ts"
+import { readGoogleOauthCredentials } from "akasha/alan/google/oauth/modules/oauth-refresh-token/oauth-refresh-token.module.code.ts"
 import { requireEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import * as z from "zod"
 

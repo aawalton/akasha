@@ -28,7 +28,7 @@ import {
   isValidSortField,
   type SortField,
 } from "akasha/temper/web/modules/characters-filter-types/characters-filter-types.module.code.ts"
-import { NewCharacterButton } from "akasha/temper/web/new-character-button/new-character-button.module.code.tsx"
+import { NewCharacterButton } from "akasha/temper/web/modules/new-character-button/new-character-button.module.code.tsx"
 import { isSortDirection } from "akasha/utils/narrow/modules/is-sort-direction/is-sort-direction.module.code.ts"
 import { ChevronLeft, Gamepad2, Hammer, Search, Trophy } from "lucide-react"
 import { Suspense } from "react"

@@ -32,7 +32,7 @@ import {
   isValidTargetCount,
   isValidTargetHealth,
 } from "akasha/temper/web/modules/companions-filter-types/companions-filter-types.module.code.ts"
-import { NewCompanionButton } from "akasha/temper/web/new-companion-button/new-companion-button.module.code.tsx"
+import { NewCompanionButton } from "akasha/temper/web/modules/new-companion-button/new-companion-button.module.code.tsx"
 import { isSortDirection } from "akasha/utils/narrow/modules/is-sort-direction/is-sort-direction.module.code.ts"
 import { ChevronLeft, Gamepad2, Hammer, Search, Trophy } from "lucide-react"
 import { Suspense } from "react"

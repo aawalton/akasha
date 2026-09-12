@@ -2,7 +2,7 @@ import { getFilesystem } from "akasha/alan/web/modules/capacitor-bridge/capacito
 import {
   readDocumentsFile,
   writeDocumentsFile,
-} from "akasha/alan/web/offline-cache-fs/offline-cache-fs.module.code.ts"
+} from "akasha/alan/web/modules/offline-cache-fs/offline-cache-fs.module.code.ts"
 import {
   CacheIndexPersistedSchema,
   type CompletionQueue,

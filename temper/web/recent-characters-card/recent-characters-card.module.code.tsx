@@ -21,7 +21,7 @@ import { classes } from "akasha/temper/classes/modules/character-class/character
 import { buildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
 import { type RaceId, races } from "akasha/temper/races/races/races.module.code.ts"
-import { NewCharacterButton } from "akasha/temper/web/new-character-button/new-character-button.module.code.tsx"
+import { NewCharacterButton } from "akasha/temper/web/modules/new-character-button/new-character-button.module.code.tsx"
 import { FolderOpen } from "lucide-react"
 
 interface Build {

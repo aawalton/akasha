@@ -3,7 +3,7 @@ import type { ViewDataJSON } from "akasha/pages/core/schema/view-data/view-data.
 import {
   isNotesEligible,
   resolveNotesPropertyId,
-} from "akasha/pages/core/view/notes/notes.module.code.ts"
+} from "akasha/pages/core/view/modules/notes/notes.module.code.ts"
 import { useMemo } from "react"
 
 export interface NotesViewProps {

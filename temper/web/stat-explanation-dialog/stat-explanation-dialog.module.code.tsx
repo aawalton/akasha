@@ -16,7 +16,7 @@ import type { MetricValue } from "akasha/temper/characters-stats/modules/metric-
 import { getMetricDisplayName } from "akasha/temper/characters-stats/modules/metrics/metrics.module.code.ts"
 import type { EffectSource } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"
 import type { MetricId } from "akasha/temper/formula-framework/modules/metric-id/metric-id.module.code.ts"
-import { formatStatValue } from "akasha/temper/formula-framework/number-format/number-format.module.code.ts"
+import { formatStatValue } from "akasha/temper/formula-framework/modules/number-format/number-format.module.code.ts"
 import { typedPartialRecordKeys } from "akasha/temper/formula-framework/record-parts/record-parts.module.code.ts"
 import { FormulaDisplay } from "akasha/temper/web/modules/formula-display/formula-display.module.code.tsx"
 

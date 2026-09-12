@@ -66,10 +66,10 @@ mock.module("akasha/pages/ui-store/singleton/singleton.module.code.ts", () => ({
     }),
 }))
 const offlineCacheNamespace = await import(
-  "akasha/alan/web/offline-cache-namespace/offline-cache-namespace.module.code.ts"
+  "akasha/alan/web/modules/offline-cache-namespace/offline-cache-namespace.module.code.ts"
 )
 mock.module(
-  "akasha/alan/web/offline-cache-namespace/offline-cache-namespace.module.code.ts",
+  "akasha/alan/web/modules/offline-cache-namespace/offline-cache-namespace.module.code.ts",
   () => ({
     ...offlineCacheNamespace,
     setOfflineCacheUserKey: () => undefined,

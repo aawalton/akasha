@@ -24,8 +24,8 @@ import {
   getRaceName,
   isValidRole,
 } from "akasha/temper/web/modules/characters-filter-types/characters-filter-types.module.code.ts"
-import { NewCharacterButton } from "akasha/temper/web/new-character-button/new-character-button.module.code.tsx"
-import { NewCharacterPanelCard } from "akasha/temper/web/new-character-panel-card/new-character-panel-card.module.code.tsx"
+import { NewCharacterButton } from "akasha/temper/web/modules/new-character-button/new-character-button.module.code.tsx"
+import { NewCharacterPanelCard } from "akasha/temper/web/modules/new-character-panel-card/new-character-panel-card.module.code.tsx"
 import { FolderOpen, Search } from "lucide-react"
 import { useCallback, useMemo } from "react"
 

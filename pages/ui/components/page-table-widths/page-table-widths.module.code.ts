@@ -11,7 +11,7 @@ import {
 import {
   formatPropertyNumber,
   toNumber,
-} from "akasha/pages/core/property-types/number/number.module.code.ts"
+} from "akasha/pages/core/property-types/modules/number/number.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import { parseConfig } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import {

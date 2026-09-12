@@ -1,4 +1,4 @@
-import { encodeObjectStoreKey } from "akasha/infrastructure/storage/object-store/key/object-store-key.module.code.ts"
+import { encodeObjectStoreKey } from "akasha/infrastructure/storage/object-store/modules/key/object-store-key.module.code.ts"
 import { signS3Request } from "akasha/infrastructure/storage/object-store/s3-signing/s3-signing.module.code.ts"
 import type { SeaweedFSConfig } from "akasha/infrastructure/storage/object-store/seaweedfs-config/seaweedfs-config.module.code.ts"
 import { requireMatchPositional } from "akasha/utils/narrow/require-match-positional/require-match-positional.module.code.ts"

@@ -5,7 +5,7 @@ import {
 import {
   recordObservation,
   recordSweep,
-} from "akasha/code/editor/extension/observation-store/observation-store.module.code.ts"
+} from "akasha/code/editor/extension/modules/observation-store/observation-store.module.code.ts"
 import {
   readSeatLookup,
   readSeatTerminals,

@@ -10,7 +10,7 @@ import { JsonPropertyBadge } from "akasha/pages/ui/components/modules/json-prope
 import { MarkdownPropertyBadge } from "akasha/pages/ui/components/modules/markdown-property-badge/markdown-property-badge.module.code.tsx"
 import { MultiRelationPropertyBadge } from "akasha/pages/ui/components/modules/multi-relation-property-badge/multi-relation-property-badge.module.code.tsx"
 import { MultiSelectPropertyBadge } from "akasha/pages/ui/components/modules/multi-select-property-badge/multi-select-property-badge.module.code.tsx"
-import { NumberPropertyBadge } from "akasha/pages/ui/components/number-property-badge/number-property-badge.module.code.tsx"
+import { NumberPropertyBadge } from "akasha/pages/ui/components/modules/number-property-badge/number-property-badge.module.code.tsx"
 import { PathSelectPropertyBadge } from "akasha/pages/ui/components/path-select-property-badge/path-select-property-badge.module.code.tsx"
 import { ProgressPropertyBadge } from "akasha/pages/ui/components/progress-property-badge/progress-property-badge.module.code.tsx"
 import type { PropertyBadgeProps } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"

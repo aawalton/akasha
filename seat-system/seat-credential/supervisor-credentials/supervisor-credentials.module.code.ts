@@ -27,7 +27,7 @@ import {
 import {
   reportOAuthRecovered,
   reportTerminalOAuthError,
-} from "akasha/seat-system/seat-credential/oauth-health-lines/oauth-health-lines.module.code.ts"
+} from "akasha/seat-system/seat-credential/modules/oauth-health-lines/oauth-health-lines.module.code.ts"
 import {
   configDirForAccount,
   LOG,

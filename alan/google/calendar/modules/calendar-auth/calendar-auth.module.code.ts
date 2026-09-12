@@ -4,7 +4,7 @@ import {
   readCalendarCredentials,
   readCalendarOauthCredentials,
 } from "akasha/alan/google/calendar/modules/calendar-credentials/calendar-credentials.module.code.ts"
-import { makeGoogleOauthClient } from "akasha/alan/google/oauth/oauth-client/oauth-client.module.code.ts"
+import { makeGoogleOauthClient } from "akasha/alan/google/oauth/modules/oauth-client/oauth-client.module.code.ts"
 
 export type CalendarAuthClient = InstanceType<typeof auth.JWT>
 

@@ -1,4 +1,4 @@
-import { mediaRenderObjectKey } from "akasha/infrastructure/storage/object-store/key/object-store-key.module.code.ts"
+import { mediaRenderObjectKey } from "akasha/infrastructure/storage/object-store/modules/key/object-store-key.module.code.ts"
 import {
   type ObjectStore,
   seaweedFSObjectStoreFromEnv,

@@ -14,7 +14,7 @@ import {
   createObservationStore,
   recordObservation,
   setObservationStore,
-} from "akasha/code/editor/extension/observation-store/observation-store.module.code.ts"
+} from "akasha/code/editor/extension/modules/observation-store/observation-store.module.code.ts"
 import * as pageTree from "akasha/code/editor/extension/page-tree-panel/page-tree-panel.module.code.ts"
 import * as seatEnter from "akasha/code/editor/extension/seat-terminal-enter/seat-terminal-enter.module.code.ts"
 import * as statusBar from "akasha/code/editor/extension/status-bar-panel/status-bar-panel.module.code.ts"

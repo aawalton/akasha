@@ -1,6 +1,6 @@
 "use client"
 
-import { OfflineDownloadButton } from "akasha/alan/web/offline-download-button/offline-download-button.module.code.tsx"
+import { OfflineDownloadButton } from "akasha/alan/web/modules/offline-download-button/offline-download-button.module.code.tsx"
 import {
   type PageDisplayKind,
   selectPageDisplayKind,
@@ -9,7 +9,7 @@ import { ReaderNarrationDetail } from "akasha/alan/web/reader-narration-detail/r
 import { useIsOnline } from "akasha/alan/web/use-is-online/use-is-online.module.code.ts"
 import { useMediaVariants } from "akasha/alan/web/use-media-variants/use-media-variants.module.code.ts"
 import { useNextUnreadHref } from "akasha/alan/web/use-next-unread/use-next-unread.module.code.ts"
-import { NotFoundNotice } from "akasha/alan/web-capacitor/not-found-notice/not-found-notice.module.code.tsx"
+import { NotFoundNotice } from "akasha/alan/web-capacitor/modules/not-found-notice/not-found-notice.module.code.tsx"
 import { resolveDisplayKind } from "akasha/pages/core/schema/modules/detail-config/detail-config.module.code.ts"
 import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import { getPageDisplay } from "akasha/pages/ui/capabilities/page-display-registry/page-display-registry.module.code.ts"

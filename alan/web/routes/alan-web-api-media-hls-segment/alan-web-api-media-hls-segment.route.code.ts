@@ -5,7 +5,7 @@ import {
   corsResponder,
 } from "akasha/alan/web/modules/capacitor-cors/capacitor-cors.module.code.ts"
 import { isMediaPageId } from "akasha/alan/web/modules/media-page/media-page.module.code.ts"
-import { hlsSegmentObjectKey } from "akasha/infrastructure/storage/object-store/key/object-store-key.module.code.ts"
+import { hlsSegmentObjectKey } from "akasha/infrastructure/storage/object-store/modules/key/object-store-key.module.code.ts"
 import {
   type ObjectStreamResult,
   seaweedFSObjectStoreFromEnv,

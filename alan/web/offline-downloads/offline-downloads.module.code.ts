@@ -12,7 +12,7 @@ import {
   resolveProgressFraction,
   shouldResetPartial,
   verifyComplete,
-} from "akasha/alan/web/offline-download-plan/offline-download-plan.module.code.ts"
+} from "akasha/alan/web/modules/offline-download-plan/offline-download-plan.module.code.ts"
 import { z } from "zod"
 
 const INDEX_PATH = "downloads-index.json"

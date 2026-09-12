@@ -10,7 +10,7 @@ import {
 } from "akasha/code/editor/extension/modules/domain-tree-ids/domain-tree-ids.module.code.ts"
 import { createDomainTree } from "akasha/code/editor/extension/modules/domain-tree-view/domain-tree-view.module.code.ts"
 import { akashaRoot } from "akasha/code/editor/extension/modules/harness-call/harness-call.module.code.ts"
-import { recordObservation } from "akasha/code/editor/extension/observation-store/observation-store.module.code.ts"
+import { recordObservation } from "akasha/code/editor/extension/modules/observation-store/observation-store.module.code.ts"
 import * as vscode from "vscode"
 
 const FEATURE = "domain-tree"

@@ -4,7 +4,7 @@ import {
   formatSmsSurface,
   inboundToCommsInput,
   type RefusedInbound,
-} from "akasha/alan/harness/sms-core/normalize/normalize.module.code.ts"
+} from "akasha/alan/harness/sms-core/modules/normalize/normalize.module.code.ts"
 import {
   decideSmsRoute,
   type SmsExternalIdentity,

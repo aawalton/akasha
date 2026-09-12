@@ -1,6 +1,6 @@
 import { existsSync, type FSWatcher, watch } from "node:fs"
 import { basename, dirname, join } from "node:path"
-import { newestWins } from "akasha/code/editor/extension/newest-wins/newest-wins.module.code.ts"
+import { newestWins } from "akasha/code/editor/extension/modules/newest-wins/newest-wins.module.code.ts"
 import { renderEntries } from "akasha/code/editor/extension/transcript-drawing/transcript-drawing.module.code.ts"
 import type { Entry } from "akasha/code/editor/extension/transcript-model/transcript-model.module.code.ts"
 import {

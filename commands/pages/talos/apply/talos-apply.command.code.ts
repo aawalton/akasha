@@ -22,7 +22,7 @@ import { registerSchematic } from "akasha/infrastructure/cluster/provisioning/ta
 import {
   getCluster,
   getNode,
-} from "akasha/infrastructure/cluster/provisioning/talos/nodes/nodes.module.code.ts"
+} from "akasha/infrastructure/cluster/provisioning/talos/modules/nodes/nodes.module.code.ts"
 import {
   clusterSecretsSopsPath,
   clusterTalosconfigPath,

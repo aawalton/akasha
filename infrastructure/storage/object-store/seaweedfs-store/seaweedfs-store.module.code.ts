@@ -1,4 +1,4 @@
-import { encodeObjectStoreKey } from "akasha/infrastructure/storage/object-store/key/object-store-key.module.code.ts"
+import { encodeObjectStoreKey } from "akasha/infrastructure/storage/object-store/modules/key/object-store-key.module.code.ts"
 import {
   MULTIPART_THRESHOLD_BYTES,
   s3PutObjectMultipart,

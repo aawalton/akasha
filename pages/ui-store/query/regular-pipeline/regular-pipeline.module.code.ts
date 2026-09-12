@@ -4,7 +4,7 @@ import {
   PROMOTED_COLUMN,
 } from "akasha/pages/access/routing-core/routing-core.module.code.ts"
 import type { PageOrder } from "akasha/pages/access/types/types.module.code.ts"
-import { nullOrderSign } from "akasha/pages/core/null-ordering/null-ordering.module.code.ts"
+import { nullOrderSign } from "akasha/pages/core/modules/null-ordering/null-ordering.module.code.ts"
 import {
   asPageRecord,
   asPageRowList,

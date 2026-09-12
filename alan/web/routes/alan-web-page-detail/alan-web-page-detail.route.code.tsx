@@ -1,5 +1,5 @@
 import { loader as pageDetailLoader } from "akasha/alan/web/.server/page-detail-loading/page-detail-loading.module.code.ts"
-import { OfflineDownloadButton } from "akasha/alan/web/offline-download-button/offline-download-button.module.code.tsx"
+import { OfflineDownloadButton } from "akasha/alan/web/modules/offline-download-button/offline-download-button.module.code.tsx"
 import { PageDetailErrorBoundary } from "akasha/alan/web/page-detail-error-boundary/page-detail-error-boundary.module.code.tsx"
 import { ReaderNarrationDetail } from "akasha/alan/web/reader-narration-detail/reader-narration-detail.module.code.tsx"
 import { PageDetailContent } from "akasha/pages/ui/components/page-detail-content/page-detail-content.module.code.tsx"

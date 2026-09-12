@@ -2,8 +2,8 @@ import { getFilesystem } from "akasha/alan/web/modules/capacitor-bridge/capacito
 import {
   deleteDocumentsFile,
   listDocumentsFiles,
-} from "akasha/alan/web/offline-cache-fs/offline-cache-fs.module.code.ts"
-import { namespacedPath } from "akasha/alan/web/offline-cache-namespace/offline-cache-namespace.module.code.ts"
+} from "akasha/alan/web/modules/offline-cache-fs/offline-cache-fs.module.code.ts"
+import { namespacedPath } from "akasha/alan/web/modules/offline-cache-namespace/offline-cache-namespace.module.code.ts"
 import {
   parsePagesSnapshot,
   serializePagesSnapshot,
