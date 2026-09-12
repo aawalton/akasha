@@ -6,6 +6,7 @@ export const emailAttachmentShow = {
   slug: "email-attachment-show",
   definition: "the command fetching one attachment's bytes by id, with its size beside them",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
