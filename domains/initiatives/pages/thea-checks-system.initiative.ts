@@ -6,13 +6,7 @@ export const theaChecksSystem = {
   slug: "thea-checks-system",
   domain: "domain/check",
   persona: "thea",
-  intents: [
-    {
-      statement: "A check refuses TypeScript in akasha that calls an `akasha` command.",
-      workingMemory:
-        "Alan approved this check on 2026-09-11. Nothing in TypeScript calls one today, so the check lands green and guards the state rather than repairing it. Four shell scripts do call one and are the intended way to drive a machine: bootstrap-namespace, create-tunnel, provision-workstation and the akasha-launcher dispatcher, so the check reaches TypeScript alone. A check for this was here before and went in the transitions, so the history is worth reading for the rule it had.",
-    },
-  ],
+  intents: [],
   constraints: [
     "An experimental check is out of scope.",
     "Each check takes one turn per step, and no turn carries two steps.",
