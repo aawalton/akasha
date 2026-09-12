@@ -3,6 +3,7 @@ import {
   seatPathForName,
   seatsAt,
 } from "akasha/agents/seats/modules/reading/seat-reading.module.code.ts"
+import type { Stated } from "akasha/agents/seats/modules/stated/seat-stated.module.code.ts"
 import type {
   SeatStated,
   Stating,
@@ -14,7 +15,6 @@ import {
 import type { Outcome } from "akasha/changes/modules/gated-write/gated-write.module.code.ts"
 import { AKASHA, rootFor } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
-import type { Stated } from "akasha/seat-system/seat-stated/seat-stated.module.code.ts"
 
 export function akashaSeatRelPath(seatName: string): string {
   return seatPathForName(seatName)

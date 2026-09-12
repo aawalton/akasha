@@ -12,6 +12,12 @@ import {
   sessionRecordOf,
 } from "akasha/agents/seats/modules/session/seat-session.module.code.ts"
 import {
+  backfillObserved,
+  fallBackToHistory,
+  type Stated,
+  statedOf,
+} from "akasha/agents/seats/modules/stated/seat-stated.module.code.ts"
+import {
   keepTranscript,
   transcriptRecordOf,
 } from "akasha/agents/seats/modules/transcript-path/seat-transcript-path.module.code.ts"
@@ -20,12 +26,6 @@ import type { Outcome } from "akasha/changes/modules/gated-write/gated-write.mod
 import { fail } from "akasha/commands/modules/failing/command-failing.module.code.ts"
 import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { rotatedOf } from "akasha/seat-system/seat-rotated-session/seat-rotated-session.module.code.ts"
-import {
-  backfillObserved,
-  fallBackToHistory,
-  type Stated,
-  statedOf,
-} from "akasha/seat-system/seat-stated/seat-stated.module.code.ts"
 
 export interface BeatReport {
   readonly outcome: Outcome

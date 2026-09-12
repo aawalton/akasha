@@ -43,6 +43,7 @@ import {
   resolveAttributes,
   scan,
 } from "akasha/agents/seats/modules/resolve/seat-resolve.module.code.ts"
+import { statedNow } from "akasha/agents/seats/modules/stated/seat-stated.module.code.ts"
 import {
   AKASHA,
   akashaRoot,
@@ -53,7 +54,6 @@ import {
   composeSeatName,
   personPrincipals,
 } from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
-import { statedNow } from "akasha/seat-system/seat-stated/seat-stated.module.code.ts"
 
 export type SeatStated =
   | { readonly kind: "stated"; readonly report: string }
