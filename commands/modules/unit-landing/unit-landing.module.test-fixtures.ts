@@ -14,13 +14,9 @@ export const sweep = scratch.sweep
 
 export const UNIT = "held.service"
 
-export const TIMER = "held.timer"
-
 export const PAGE = "one/held.service-workstation.ts"
 
 export const RELOADED = ["daemon-reload"]
-
-export const STARTED = "try-restart"
 
 export const WAS = `${[
   "# Written from one/held.service-workstation.ts by akasha deploy. Edits here are lost.",
@@ -41,9 +37,6 @@ export const WAS = `${[
   "WantedBy=default.target",
 ].join("\n")}\n`
 
-export const TICKS =
-  "[Timer]\nOnCalendar=hourly\nRandomizedDelaySec=300\nAccuracySec=60\nPersistent=true\n"
-
 export function rooted(): string {
   return realpathSync(scratch.rootFor("akasha-unit-landing-"))
 }
@@ -60,11 +53,11 @@ export function homeWith(units: Readonly<Record<string, string>>): string {
 }
 
 export function nothingWeighed(): Weighing {
-  return { drifts: [], under: "", wrong: [] }
+  return { drifts: [], wrong: [] }
 }
 
-export function oneDrift(unit: string, text: string, startsFor: readonly string[] = []): Weighing {
-  return { ...nothingWeighed(), drifts: [{ unit, page: PAGE, text, startsFor }] }
+export function oneDrift(unit: string, text: string): Weighing {
+  return { ...nothingWeighed(), drifts: [{ unit, page: PAGE, text }] }
 }
 
 export function taking(codes: Readonly<Record<string, number>> = {}): {

@@ -26,12 +26,11 @@ export function finishedOver(
   root: string,
   gone: readonly string[],
   moves: readonly FileMove[],
-  commit: string | null,
   home: string
 ): Finished {
   const cleared = clearedOff(root, gone)
   const linked = linkedOver(root, moves, home)
   const placed = linkedInPlace(root, home)
-  const units = unitsLanded(root, home, commit)
+  const units = unitsLanded(root, home)
   return { cleared, linked, placed, units }
 }

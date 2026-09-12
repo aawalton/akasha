@@ -362,7 +362,7 @@ export async function landing(
           aside.done()
           for (const one of untracked) partUnfiled(root, one)
           const gone = [...put.took, ...then.took, ...moves.map((one) => one.from), ...untracked]
-          const finished = finishedOver(root, gone, moves, commit, homedir())
+          const finished = finishedOver(root, gone, moves, homedir())
           return { ...finished, base, commit, wrote, took, noted, untracked }
         } catch (failed) {
           aside.back()
