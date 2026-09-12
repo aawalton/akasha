@@ -15,6 +15,7 @@ import {
   directiveKept,
   directivesIn,
   type Putter,
+  type Putting,
 } from "akasha/agents/models/tests/pages/directive-kept/directive-kept.model-test.code.ts"
 import { directiveKept as test } from "akasha/agents/models/tests/pages/directive-kept/directive-kept.model-test.ts"
 import { noCommentaryKept } from "akasha/agents/models/tests/pages/no-commentary-kept/no-commentary-kept.model-test.code.ts"
@@ -103,23 +104,23 @@ async function runningUnder(agent: string): Promise<readonly SubagentNode[]> {
   }
 }
 
-function judging(root: string, agent: string, asked: string, turn: string): Answer {
-  const person = personIn(valuesOfType(root, SEAT) as readonly Valued[], agent)
-  if (person === null) return LET_THROUGH
-  const directives = directivesIn(valuedAt(root, PERSON, person).value[DIRECTIVES])
-  if (directives.length === 0) return LET_THROUGH
-  const asking = JUDGES.flatMap((judge) => judge({ asked, turn, directives }))
-  const answers = askedOf(
-    root,
-    modelOf(root, test.modelFamily),
-    asking.map((one) => one.prompt)
-  )
+export function holding(asking: readonly Putting[], answers: readonly string[] | null): Answer {
   if (answers === null) return LET_THROUGH
   for (let at = 0; at < asking.length; at += 1) {
     if (!endsYes(answers[at] ?? "")) continue
     return refusing(`${TOLD}\n\n${asking[at]?.statement ?? ""}`)
   }
   return LET_THROUGH
+}
+
+function judging(root: string, agent: string, asked: string, turn: string): Answer {
+  const person = personIn(valuesOfType(root, SEAT) as readonly Valued[], agent)
+  if (person === null) return LET_THROUGH
+  const directives = directivesIn(valuedAt(root, PERSON, person).value[DIRECTIVES])
+  if (directives.length === 0) return LET_THROUGH
+  const asking = JUDGES.flatMap((judge) => judge({ asked, turn, directives }))
+  const prompts = asking.map((one) => one.prompt)
+  return holding(asking, askedOf(root, modelOf(root, test.modelFamily), prompts))
 }
 
 async function ran(): Promise<number> {

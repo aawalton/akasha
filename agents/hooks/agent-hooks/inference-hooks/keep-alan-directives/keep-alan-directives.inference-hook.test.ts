@@ -1,12 +1,17 @@
 import { expect, test } from "bun:test"
 import {
+  holding,
   JUDGES,
   personIn,
   SCOPE,
   stillWorking,
   type Valued,
 } from "akasha/agents/hooks/agent-hooks/inference-hooks/keep-alan-directives/keep-alan-directives.inference-hook.code.ts"
-import type { Directive } from "akasha/agents/models/tests/pages/directive-kept/directive-kept.model-test.code.ts"
+import { ASIDE, REFUSED } from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
+import type {
+  Directive,
+  Putting,
+} from "akasha/agents/models/tests/pages/directive-kept/directive-kept.model-test.code.ts"
 import type { SubagentNode } from "akasha/code/editor/extension/subagent-reading/subagent-reading.module.code.ts"
 
 const SEATS: readonly Valued[] = [
@@ -95,4 +100,32 @@ test("each judge puts what was asked and what was written beside its rule", () =
     expect(one.prompt).toContain("<turn>\nStill waiting.\n</turn>")
     expect(one.prompt).toContain(one.statement)
   }
+})
+
+const PUT: readonly Putting[] = [
+  { statement: "One At A Time: Ask one thing.", prompt: "the first" },
+  { statement: "No Commentary: Say less.", prompt: "the second" },
+]
+
+test("a model reached by no call leaves the turn unjudged", () => {
+  expect(holding(PUT, null).code).toBe(ASIDE)
+})
+
+test("a turn no judge answers yes on is let through", () => {
+  expect(holding(PUT, ["NOTHING TO QUOTE\nNO", "NO"]).code).toBe(ASIDE)
+})
+
+test("a judge answered yes holds the turn open in that rule's own words", () => {
+  const held = holding(PUT, ["NO", "Also worth a look.\nYES"])
+  expect(held.code).toBe(REFUSED)
+  expect(held.err).toContain("No Commentary: Say less.")
+  expect(held.err).not.toContain("Also worth a look.")
+})
+
+test("the first judge answered yes ends it and the rest are not read", () => {
+  expect(holding(PUT, ["YES", "YES"]).err).toContain("One At A Time: Ask one thing.")
+})
+
+test("a judge whose answer never came back is read as no", () => {
+  expect(holding(PUT, []).code).toBe(ASIDE)
 })
