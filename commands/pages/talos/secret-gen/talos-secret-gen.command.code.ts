@@ -1,69 +1,25 @@
 import { existsSync } from "node:fs"
 import { mkdir, mkdtemp, rm, stat } from "node:fs/promises"
 import { dirname, join } from "node:path"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { cluster } from "akasha/commands/arguments/pages/cluster.argument.ts"
+import { force } from "akasha/commands/arguments/pages/force.argument.ts"
 import {
   answering,
   OPERATIONAL,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { talosSecretGen as page } from "akasha/commands/pages/talos/secret-gen/talos-secret-gen.command.ts"
 import { DEFAULT_CLUSTER_NAME } from "akasha/infrastructure/cluster/provisioning/talos/nodes/nodes.module.code.ts"
 import { clusterSecretsSopsPath } from "akasha/infrastructure/cluster/provisioning/talos/paths/paths.module.code.ts"
 import { encryptFile } from "akasha/infrastructure/cluster/provisioning/talos/sops/sops.module.code.ts"
 import { runTalosctl } from "akasha/infrastructure/cluster/provisioning/talos/talosctl/talosctl.module.code.ts"
 import { SCRATCH_AT } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
-export const CLUSTER = "--cluster"
-
-export const FORCE = "--force"
-
-const VALUED: readonly string[] = [CLUSTER]
-
-const BARE: readonly string[] = [FORCE]
-
 export type Named = { readonly cluster: string; readonly force: boolean }
-
-export type Read = Named | { readonly refused: readonly string[] }
-
-export function readIn(argv: readonly string[]): Read {
-  const refusals: string[] = []
-  const flags = new Map<string, string>()
-  let force = false
-  for (let at = 0; at < argv.length; at += 1) {
-    const one = argv[at]
-    if (one === undefined) continue
-    if (!one.startsWith("-")) {
-      refusals.push(`\`${one}\` is no word this takes — it takes \`${CLUSTER}\` and \`${FORCE}\``)
-      continue
-    }
-    const cut = one.indexOf("=")
-    const name = cut === -1 ? one : one.slice(0, cut)
-    if (BARE.includes(name)) {
-      if (cut === -1) force = true
-      else refusals.push(`\`${name}\` carries no value, and \`${one}\` hands it one`)
-      continue
-    }
-    if (!VALUED.includes(name)) {
-      refusals.push(`\`${name}\` is no flag this takes — it takes \`${CLUSTER}\` and \`${FORCE}\``)
-      continue
-    }
-    if (cut !== -1) {
-      flags.set(name, one.slice(cut + 1))
-      continue
-    }
-    const next = argv[at + 1]
-    if (next === undefined || next.startsWith("-")) {
-      refusals.push(`\`${name}\` names a value, and nothing followed it`)
-      continue
-    }
-    flags.set(name, next)
-    at += 1
-  }
-  if (refusals.length > 0) return { refused: refusals }
-  return { cluster: flags.get(CLUSTER) ?? DEFAULT_CLUSTER_NAME, force }
-}
 
 export type Generating = (done: string[], read: Named) => Promise<Answer>
 
@@ -72,7 +28,7 @@ async function generated(done: string[], read: Named): Promise<Answer> {
   if (existsSync(destPath) && !read.force) {
     return mistaking([
       `a secrets file is already at ${destPath}`,
-      `writing it again loses every node's PKI, so \`${FORCE}\` is what says a rotation is meant`,
+      `writing it again loses every node's PKI, so \`${force.said}\` is what says a rotation is meant`,
     ])
   }
   await mkdir(dirname(destPath), { recursive: true })
@@ -96,8 +52,11 @@ export async function generatedBy(
   return await answering(async (done) => await generating(done, read))
 }
 
-export async function talosSecretGen(argv: readonly string[]): Promise<Answer> {
-  const read = readIn(argv)
+export async function talosSecretGen(argv: readonly string[], given: Given): Promise<Answer> {
+  const read = takenFor(argv, given.calledAs, page, [force, cluster])
   if ("refused" in read) return mistaking(read.refused)
-  return await generatedBy(read)
+  return await generatedBy({
+    cluster: read.taken.cluster ?? DEFAULT_CLUSTER_NAME,
+    force: read.taken.force,
+  })
 }

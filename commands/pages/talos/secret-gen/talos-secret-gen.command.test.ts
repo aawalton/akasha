@@ -5,7 +5,6 @@ import { throwingAfter } from "akasha/commands/modules/answering/command-answeri
 import {
   generatedBy,
   type Named,
-  readIn,
 } from "akasha/commands/pages/talos/secret-gen/talos-secret-gen.command.code.ts"
 
 const ASKED: Named = { cluster: "main", force: true }
@@ -13,18 +12,6 @@ const ASKED: Named = { cluster: "main", force: true }
 const WROTE = "wrote the bundle, which is every node's PKI"
 
 const MODED = "set the bundle to mode 0600"
-
-test("a cluster nothing names is main", () => {
-  const read = readIn([])
-  if ("refused" in read) throw new Error("this was refused")
-  expect(read.cluster).toBe("main")
-})
-
-test("a word where a flag goes is refused", () => {
-  const read = readIn(["main"])
-  if (!("refused" in read)) throw new Error("this was taken")
-  expect(read.refused[0] ?? "").toContain("is no word this takes")
-})
 
 test("a run that threw after the bundle was written over names that write", async () => {
   const held = throwingAfter([WROTE], new Error("chmod would not run"))
