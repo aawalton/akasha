@@ -12,6 +12,7 @@ export const subagent = {
     "module/subagent-body",
     "module/subagent-landing-again",
     "module/subagent-liveness",
+    "module/subagent-page-naming",
     "module/subagent-presence",
     "number-property/subagent-started",
     "relation-property/subagent-kind",

@@ -8,6 +8,8 @@ import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.modul
 import {
   pathsUnder,
   subagentsAt,
+} from "akasha/seat-system/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
+import {
   sweeping,
   tookUnder,
 } from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"

@@ -1,6 +1,6 @@
 import { closeSync, existsSync, mkdirSync, openSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { dropReadings, SUBAGENT_MARK } from "akasha/agents/read-record/read-record.module.code.ts"
+import { dropReadings } from "akasha/agents/read-record/read-record.module.code.ts"
 import { supervisorsRootDir } from "akasha/agents/seats/supervisors/modules/log-path/supervisor-log-path.module.code.ts"
 import { subagentPageInHistory } from "akasha/agents/subagents/modules/page-history/subagent-page-history.module.code.ts"
 import { movedOnto } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
@@ -10,15 +10,9 @@ import {
   landedMechanically,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { partWay } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { nameFaultIn } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import {
-  everyOfType,
-  listedAt,
-  listedById,
-} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { pagesAtFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
+import { listedAt, listedById } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   mergeUncommitted,
   uncommittedIn,
@@ -33,6 +27,12 @@ import {
   type Reading,
   readOf,
 } from "akasha/seat-system/subagents/liveness/subagent-liveness.module.code.ts"
+import {
+  agentIdOf,
+  pathIn,
+  pathsUnder,
+  slugOf,
+} from "akasha/seat-system/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
 import { subagentStarted } from "akasha/seat-system/subagents/properties/subagent-started.number-property.ts"
 import { asNumber } from "akasha/utils/narrow/as-number/as-number.module.code.ts"
 import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
@@ -49,15 +49,11 @@ const CALLED_AS = "subagent-presence"
 
 const SEAT = "seat"
 
-const SUBAGENT = "subagent"
-
 const ASSIGNMENT = "assignmentSlug"
 
 const KIND = "dispatchedAs"
 
 const ID = "id"
-
-const SUFFIX = ".subagent.ts"
 
 const ADD_PAGE = "change-mechanical/add-file-of-any-kind"
 
@@ -73,27 +69,6 @@ export type Landing = (
 ) => ReturnType<typeof landedMechanically>
 
 const WENT: Went = { went: true }
-
-export function slugOf(seatName: string, own: string): string {
-  return `${seatName}-${own}`.replace(/-{2,}/g, "-")
-}
-
-export function agentIdOf(seatId: string, own: string): string {
-  return `${seatId}${SUBAGENT_MARK}${own}`
-}
-
-export function subagentsAt(root: string = ownRepoRoot()): string {
-  return pagesAtFor(root, SUBAGENT)
-}
-
-export function pathOf(slug: string): string {
-  return `${subagentsAt()}/${slug}/${slug}${SUFFIX}`
-}
-
-export function pathIn(root: string, slug: string): string {
-  const flat = `${subagentsAt()}/${slug}${SUFFIX}`
-  return existsSync(join(root, flat)) ? flat : pathOf(slug)
-}
 
 export function logPathOf(seatId: string, baseDir?: string): string {
   return join(baseDir ?? supervisorsRootDir(), seatId, LOG_AT)
@@ -229,33 +204,6 @@ export async function took(
   if ("why" in moved) return moved
   const why = `${slug} is done, so its page goes; what it was is in this repository's history`
   return wentBy(await landing(done, root, [{ at: TAKE_PAGE, given: { at } }], why), done)
-}
-
-function seatNamesIn(root: string): readonly string[] {
-  const names: string[] = []
-  for (const one of everyOfType(root, SEAT)) {
-    const named = partedIn(one.path)
-    if (named !== null && named.sections.length === 0 && named.pageType === SEAT) {
-      names.push(named.slug)
-    }
-  }
-  return names
-}
-
-export function underSeatNamed(names: readonly string[], seatName: string, slug: string): boolean {
-  if (!slug.startsWith(`${seatName}-`)) return false
-  return !names.some((one) => one.length > seatName.length && slug.startsWith(`${one}-`))
-}
-
-export function pathsUnder(root: string, seatName: string): readonly string[] {
-  const names = seatNamesIn(root)
-  return everyOfType(root, SUBAGENT)
-    .map((one) => one.path)
-    .filter((one) => {
-      const slug = partedIn(one)?.slug
-      return slug !== undefined && underSeatNamed(names, seatName, slug)
-    })
-    .sort()
 }
 
 export async function notWorking(

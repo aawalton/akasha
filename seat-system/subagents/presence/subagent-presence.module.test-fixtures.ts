@@ -8,10 +8,7 @@ import {
 import { startedAt } from "akasha/files/lock-holder/lock-holder.module.code.ts"
 import { holding, LOCK_AT, refusedWhereHeld } from "akasha/git/holding/holding.module.code.ts"
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
-import {
-  listedFiled,
-  valueAlsoFiled,
-} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { refreshedIn } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { bodyOf } from "akasha/seat-system/subagents/body/subagent-body.module.code.ts"
 import type {
@@ -19,9 +16,11 @@ import type {
   Reading,
 } from "akasha/seat-system/subagents/liveness/subagent-liveness.module.code.ts"
 import {
-  type Landing,
   pathOf,
   slugOf,
+} from "akasha/seat-system/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
+import {
+  type Landing,
   wrote,
 } from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
 import { declaringUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
@@ -178,18 +177,6 @@ export async function pageWritten(root: string): Promise<string> {
 export function readingKept(root: string, at: string): undefined {
   const oid = blobIdOf(new TextEncoder().encode(readFileSync(join(root, at), "utf8")))
   recordRead(root, AGENT, { path: at, oid, seenAt: 1, carriedOid: null })
-  return undefined
-}
-
-export function subagentsFiled(root: string, at: string, other: string): undefined {
-  const own = slugOf("akasha", OWN)
-  const second = slugOf("akasha", "second")
-  listedFiled(root, "subagent", own, [{ path: at, id: SEAT_ID }])
-  listedFiled(root, "subagent", second, [{ path: other, id: ANOTHER }])
-  valueAlsoFiled(root, "subagent", [
-    { path: at, value: { id: SEAT_ID, slug: own } },
-    { path: other, value: { id: ANOTHER, slug: second } },
-  ])
   return undefined
 }
 

@@ -5,10 +5,12 @@ import { valueAlsoFiled } from "akasha/pages/indexes/filing/index-filing.module.
 import { nothingFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { bodyOf } from "akasha/seat-system/subagents/body/subagent-body.module.code.ts"
 import {
-  LOG_AT,
-  lineFor,
   pathOf,
   slugOf,
+} from "akasha/seat-system/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
+import {
+  LOG_AT,
+  lineFor,
   TAKING,
   WRITING,
 } from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"

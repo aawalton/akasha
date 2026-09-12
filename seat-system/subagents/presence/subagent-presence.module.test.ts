@@ -15,20 +15,19 @@ import {
 import { livenessOf } from "akasha/seat-system/subagents/liveness/subagent-liveness.module.code.ts"
 import {
   agentIdOf,
+  pathOf,
+  slugOf,
+} from "akasha/seat-system/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
+import {
   asking,
   assignedTo,
   LOG_AT,
   logPathOf,
   notWorking,
-  pathIn,
-  pathOf,
-  pathsUnder,
   seatNamedIn,
-  slugOf,
   stampedAt,
   startedIn,
   took,
-  underSeatNamed,
   WRITING,
   wrote,
 } from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
@@ -67,7 +66,6 @@ import {
   SEAT_BODY,
   SEAT_ID,
   stampOpening,
-  subagentsFiled,
   THREW_AFTER,
   UNREAD,
   underSeat,
@@ -86,37 +84,6 @@ test("a stamp says the time to the millisecond, carrying the offset it was writt
 
 test("a line carrying no stamp is read as carrying none", () => {
   expect(stampOpening(`subagent-presence: take ryn ${OWN} — the lock was held`)).toBe(null)
-})
-
-test("a slug joins the seat's name to the id the subagent runs under", () => {
-  expect(slugOf("akasha", OWN)).toBe(`akasha-${OWN}`)
-})
-
-test("the mark between a seat's id and a subagent's own comes out as one hyphen", () => {
-  expect(slugOf("akasha", `first--second`)).toBe("akasha-first-second")
-})
-
-test("an agent id joins the seat's id to the id the subagent runs under", () => {
-  expect(agentIdOf(SEAT_ID, OWN)).toBe(`${SEAT_ID}--${OWN}`)
-})
-
-test("an agent id keeps a mark a slug would collapse", () => {
-  expect(agentIdOf("akasha", `first--second`)).toBe("akasha--first--second")
-  expect(slugOf("akasha", `first--second`)).toBe("akasha-first-second")
-})
-
-test("a page sits in a folder of its own named for its slug", () => {
-  expect(pathOf("akasha-abc")).toBe("seat-system/subagents/pages/akasha-abc/akasha-abc.subagent.ts")
-})
-
-test("a slug whose page is already flat keeps that page", () => {
-  inScratch((root) => {
-    writing(root, "seat-system/subagents/pages/akasha-abc.subagent.ts", "")
-    expect(pathIn(root, "akasha-abc")).toBe("seat-system/subagents/pages/akasha-abc.subagent.ts")
-    expect(pathIn(root, "akasha-xyz")).toBe(
-      "seat-system/subagents/pages/akasha-xyz/akasha-xyz.subagent.ts"
-    )
-  })
 })
 
 test("a log sits in the seat's own folder named for this module", () => {
@@ -300,27 +267,10 @@ test("a page a reading names as working is left where it is", async () => {
   })
 })
 
-test("the pages under a seat are the pages the index files under that seat's name", () => {
-  inScratch((root) => {
-    const at = pathOf(slugOf("akasha", OWN))
-    const other = pathOf(slugOf("akasha", "second"))
-    subagentsFiled(root, at, other)
-    writing(root, editsAt(at) ?? "", ROW)
-    expect(pathsUnder(root, "akasha")).toEqual([at, other])
-  })
-})
-
 test("a sweep leaves what a reading names as working and takes what it could not read", async () => {
   expect(await notWorking(".", ["one", "two"], WORKING)).toEqual([])
   expect(await notWorking(".", ["one", "two"], UNREAD)).toEqual(["one", "two"])
   expect(await notWorking(".", ["one", "two"], RETURNED)).toEqual(["one", "two"])
-})
-
-test("a page is under the longest seat name the index files that its slug opens with", () => {
-  const names = ["aine", "aine-two"]
-  expect(underSeatNamed(names, "aine", `aine-${OWN}`)).toBe(true)
-  expect(underSeatNamed(names, "aine", `aine-two-${OWN}`)).toBe(false)
-  expect(underSeatNamed(names, "aine-two", `aine-two-${OWN}`)).toBe(true)
 })
 
 test("a page in history is taken up with its id and kind, and comes back with that id", async () => {
