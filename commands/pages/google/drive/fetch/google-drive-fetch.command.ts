@@ -14,7 +14,6 @@ export const googleDriveFetch = {
       said: "--source <url-or-id>",
       takes: "the file to fetch, said as a flag rather than in place",
     },
-    { said: "--output <dir>", takes: "the folder to write into, made where nothing is there" },
   ],
 
   invariants: [
@@ -60,4 +59,5 @@ export const googleDriveFetch = {
     },
   ],
   name: "fetch",
+  arguments: [{ argument: "argument/output" }],
 } as const satisfies Command
