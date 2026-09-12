@@ -6,9 +6,7 @@ export const temperInventoryMasterCraftTrace = {
   slug: "temper-inventory-master-craft-trace",
   definition: "the command giving back the addon's ring of equipment master-writ craft traces",
   code: "ts",
-  taking: [
-    { said: "--inventory-path <path>", takes: "the saved-variables file the traces are read from" },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -29,5 +27,5 @@ export const temperInventoryMasterCraftTrace = {
     },
   ],
   name: "craft-trace",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/inventory-path" }],
 } as const satisfies Command

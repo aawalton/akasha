@@ -6,9 +6,7 @@ export const temperInventoryMasterConsumableTrace = {
   slug: "temper-inventory-master-consumable-trace",
   definition: "the command giving back the addon's ring of consumable master-writ traces",
   code: "ts",
-  taking: [
-    { said: "--inventory-path <path>", takes: "the saved-variables file the traces are read from" },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -33,5 +31,5 @@ export const temperInventoryMasterConsumableTrace = {
     },
   ],
   name: "consumable-trace",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/inventory-path" }],
 } as const satisfies Command

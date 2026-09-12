@@ -8,10 +8,6 @@ export const temperInventoryLookupItem = {
   code: "ts",
   taking: [
     { said: "<item>", takes: "the item looked up, as a bare item id or as a game item link" },
-    {
-      said: "--inventory-path <path>",
-      takes: "the saved-variables file the holdings are read from",
-    },
   ],
 
   invariants: [
@@ -25,5 +21,5 @@ export const temperInventoryLookupItem = {
     },
   ],
   name: "lookup-item",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/inventory-path" }],
 } as const satisfies Command

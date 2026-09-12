@@ -7,7 +7,6 @@ export const temperInventoryReplayExplain = {
   definition: "the command giving back the addon's last stored explain trace",
   code: "ts",
   taking: [
-    { said: "--inventory-path <path>", takes: "the saved-variables file the trace is read from" },
     {
       said: "--itemlink <link>",
       takes: "give the trace back only where its item link is this one",
@@ -33,4 +32,5 @@ export const temperInventoryReplayExplain = {
     },
   ],
   name: "replay-explain",
+  arguments: [{ argument: "argument/inventory-path" }],
 } as const satisfies Command

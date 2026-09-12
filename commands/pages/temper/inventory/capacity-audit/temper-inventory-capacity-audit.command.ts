@@ -8,10 +8,6 @@ export const temperInventoryCapacityAudit = {
   code: "ts",
   taking: [
     {
-      said: "--inventory-path <path>",
-      takes: "the saved-variables file the holdings are read from",
-    },
-    {
       said: "--characters-path <path>",
       takes: "the saved-variables file the characters are read from",
     },
@@ -36,5 +32,5 @@ export const temperInventoryCapacityAudit = {
     },
   ],
   name: "capacity-audit",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/inventory-path" }],
 } as const satisfies Command

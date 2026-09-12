@@ -8,10 +8,6 @@ export const temperInventoryConfiguration = {
   code: "ts",
   taking: [
     {
-      said: "--inventory-path <path>",
-      takes: "the saved-variables file the configuration is read from",
-    },
-    {
       said: "--section <section>",
       takes: "which section is given back: rules, consumables, priority or all",
     },
@@ -32,5 +28,5 @@ export const temperInventoryConfiguration = {
     },
   ],
   name: "configuration",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/inventory-path" }],
 } as const satisfies Command

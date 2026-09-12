@@ -6,9 +6,7 @@ export const temperInventoryBankTrace = {
   slug: "temper-inventory-bank-trace",
   definition: "the command giving back the timing trace from the addon's last banking session",
   code: "ts",
-  taking: [
-    { said: "--inventory-path <path>", takes: "the saved-variables file the trace is read from" },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -28,5 +26,5 @@ export const temperInventoryBankTrace = {
     },
   ],
   name: "trace",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/inventory-path" }],
 } as const satisfies Command

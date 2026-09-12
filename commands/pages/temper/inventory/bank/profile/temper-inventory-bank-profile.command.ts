@@ -6,9 +6,7 @@ export const temperInventoryBankProfile = {
   slug: "temper-inventory-bank-profile",
   definition: "the command giving back the profiler capture from the addon's last banking session",
   code: "ts",
-  taking: [
-    { said: "--inventory-path <path>", takes: "the saved-variables file the capture is read from" },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -32,5 +30,5 @@ export const temperInventoryBankProfile = {
     },
   ],
   name: "profile",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/inventory-path" }],
 } as const satisfies Command
