@@ -76,11 +76,7 @@ async function stated(read: Read): Promise<Answer> {
   }
   const classification = classifyProcessingState(build.processingState)
   if (classification === "failed") {
-    return {
-      report: [],
-      refusals: [describeProcessingFailure(processingFailureFor(build))],
-      code: OPERATIONAL,
-    }
+    return refusedBy([describeProcessingFailure(processingFailureFor(build))], OPERATIONAL)
   }
   if (classification === "valid") {
     return told([`valid\tbuild ${build.version} is ready to install`])
