@@ -29,7 +29,7 @@ import {
   getCompanionTraitIndex,
   getCompanionWeaponTypeId,
   getCompanionWeaponTypeIndex,
-} from "akasha/temper/companion-codec/companion-codec-indices/companion-codec-indices.module.code.ts"
+} from "akasha/temper/companion-codec/modules/companion-codec-indices/companion-codec-indices.module.code.ts"
 import type { CompanionJewelrySlotId } from "akasha/temper/companions-core/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
 import { companionJewelrySlots } from "akasha/temper/companions-core/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
 import { companionSkillSlots } from "akasha/temper/companions-core/companion-skill-slots/companion-skill-slots.module.code.ts"

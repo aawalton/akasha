@@ -26,7 +26,6 @@ import {
 import { buildId as toBuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { useCompletionCompanions } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
-import { CompanionEditorHeader } from "akasha/temper/web/companion-editor-header/companion-editor-header.module.code.tsx"
 import { CompanionEquipmentPanel } from "akasha/temper/web/companion-equipment-panel/companion-equipment-panel.module.code.tsx"
 import { CompanionGeneralPanel } from "akasha/temper/web/companion-general-panel/companion-general-panel.module.code.tsx"
 import { CompanionPanel } from "akasha/temper/web/companion-panel/companion-panel.module.code.tsx"
@@ -35,6 +34,7 @@ import { CompanionStatsPanel } from "akasha/temper/web/companion-stats-panel/com
 import { CompanionTargetPanelCard } from "akasha/temper/web/companion-target-panel-card/companion-target-panel-card.module.code.tsx"
 import { GlobalCompanionBulkEditTags } from "akasha/temper/web/global-companion-bulk-edit-tags/global-companion-bulk-edit-tags.module.code.tsx"
 import { CompanionAutomationPanelCard } from "akasha/temper/web/modules/companion-automation-panel-card/companion-automation-panel-card.module.code.tsx"
+import { CompanionEditorHeader } from "akasha/temper/web/modules/companion-editor-header/companion-editor-header.module.code.tsx"
 import { SetTargetConfirmDialog } from "akasha/temper/web/set-target-confirm-dialog/set-target-confirm-dialog.module.code.tsx"
 import { UnderConstructionDialog } from "akasha/temper/web/under-construction-dialog/under-construction-dialog.module.code.tsx"
 import {

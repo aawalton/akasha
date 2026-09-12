@@ -54,11 +54,11 @@ import {
   companionSkillIds,
   companionTraitIds,
   companionWeaponTypeIds,
-} from "akasha/temper/companion-codec/companion-codec-indices/companion-codec-indices.module.code.ts"
+} from "akasha/temper/companion-codec/modules/companion-codec-indices/companion-codec-indices.module.code.ts"
 import {
   COMPANION_BUILD_TYPE,
   ESO_VERSION_49,
-} from "akasha/temper/companion-codec/companion-codec-v49/companion-codec-v49.module.code.ts"
+} from "akasha/temper/companion-codec/modules/companion-codec-v49/companion-codec-v49.module.code.ts"
 
 export function generateCodecConstants(): string {
   return `\

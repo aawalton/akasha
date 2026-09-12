@@ -7,7 +7,7 @@ import {
   COMPANION_ARMOR_WEIGHT_IDS,
   companionTraitIds,
   companionWeaponTypeIds,
-} from "akasha/temper/companion-codec/companion-codec-indices/companion-codec-indices.module.code.ts"
+} from "akasha/temper/companion-codec/modules/companion-codec-indices/companion-codec-indices.module.code.ts"
 import { equipmentQualities } from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
 import { z } from "zod"
 
