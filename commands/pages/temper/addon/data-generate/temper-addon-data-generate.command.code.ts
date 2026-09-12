@@ -1,8 +1,9 @@
 import { realpathSync } from "node:fs"
 import {
+  answering,
   DATA,
-  OK,
-  OPERATIONAL,
+  keeping,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -17,6 +18,27 @@ import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.
 const CODE_ROOT_FLAG = "--code-root"
 
 const CODE_ROOT_ENV = "CODE_ROOT"
+
+const STALE = "the emitted data no longer matches the hand-written equipment mappings"
+
+export type Generating = (done: string[], root: string) => Promise<Answer>
+
+async function generated(done: string[], root: string): Promise<Answer> {
+  try {
+    await generateAddonData(done)
+  } catch (thrown) {
+    if (!(thrown instanceof EquipmentMappingsStale)) throw thrown
+    return keeping(done, refused(`${STALE}: ${messageOf(thrown)}`, DATA))
+  }
+  return told([`wrote the addon data files under ${root} from the pages holding their source`])
+}
+
+export async function generatedBy(
+  root: string,
+  generating: Generating = generated
+): Promise<Answer> {
+  return await answering(async (done) => await generating(done, root))
+}
 
 export async function temperAddonDataGenerate(argv: readonly string[] = []): Promise<Answer> {
   const named = valuesOf(argv, CODE_ROOT_FLAG)[0]
@@ -33,21 +55,5 @@ export async function temperAddonDataGenerate(argv: readonly string[] = []): Pro
 
   process.env[CODE_ROOT_ENV] = root
 
-  try {
-    await generateAddonData()
-  } catch (thrown) {
-    if (thrown instanceof EquipmentMappingsStale) {
-      return refused(
-        `the emitted data no longer matches the hand-written equipment mappings: ${messageOf(thrown)}`,
-        DATA
-      )
-    }
-    return refused(`the addon data was not written whole: ${messageOf(thrown)}`, OPERATIONAL)
-  }
-
-  return {
-    report: [`wrote the addon data files under ${root} from the pages holding their source`],
-    refusals: [],
-    code: OK,
-  }
+  return await generatedBy(root)
 }

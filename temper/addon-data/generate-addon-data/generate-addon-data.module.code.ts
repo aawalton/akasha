@@ -15,7 +15,10 @@ export class EquipmentMappingsStale extends Error {}
 
 export type Say = (line: string) => void
 
-export async function generateAddonData(say: Say = console.log): Promise<void> {
+export async function generateAddonData(
+  done: string[] = [],
+  say: Say = console.log
+): Promise<void> {
   say("Generating addon data files...\n")
   const pages = await fetchAddonDataPages()
   ensureAllOutputDirs()
@@ -24,6 +27,7 @@ export async function generateAddonData(say: Say = console.log): Promise<void> {
     ...buildMappingGeneratorWrites(),
   ]
   await Promise.all(writes)
+  done.push(`wrote ${String(writes.length)} addon data file(s)`)
   logMappingTotals(buildMappingTotals())
   logPageRowTotals(buildPageRowTotals(pages))
   logInventoryOutputSummary()

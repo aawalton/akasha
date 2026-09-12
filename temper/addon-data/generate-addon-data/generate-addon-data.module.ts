@@ -34,5 +34,10 @@ export const generateAddonData = {
       invariantKind: "departure",
       statement: "Where a run reports to is handed in rather than being the console.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "What a run has written is named to the caller before the mappings are answered for.",
+    },
   ],
 } as const satisfies Module
