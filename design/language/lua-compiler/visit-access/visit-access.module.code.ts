@@ -1,7 +1,3 @@
-import {
-  AnnotationKind,
-  getTypeAnnotations,
-} from "akasha/design/language/lua-compiler/annotations/annotations.module.code.ts"
 import { transformBuiltinPropertyAccessExpression } from "akasha/design/language/lua-compiler/builtins/builtins.module.code.ts"
 import type { TransformationContext } from "akasha/design/language/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
 import type { FunctionVisitor } from "akasha/design/language/lua-compiler/context-visitors/context-visitors.module.code.ts"
@@ -15,6 +11,10 @@ import { addToNumericExpression } from "akasha/design/language/lua-compiler/lua-
 import * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import { transformLuaLibFunction } from "akasha/design/language/lua-compiler/lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "akasha/design/language/lua-compiler/lualib-features/lualib-features.module.code.ts"
+import {
+  AnnotationKind,
+  getTypeAnnotations,
+} from "akasha/design/language/lua-compiler/modules/annotations/annotations.module.code.ts"
 import { isOptionalContinuation } from "akasha/design/language/lua-compiler/optional-chain-data/optional-chain-data.module.code.ts"
 import { maybeWrapThisVoidAsAdapter } from "akasha/design/language/lua-compiler/this-void-adapter/this-void-adapter.module.code.ts"
 import {

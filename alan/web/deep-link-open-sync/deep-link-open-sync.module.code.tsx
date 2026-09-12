@@ -1,12 +1,12 @@
 "use client"
 
 import { widgetTapped } from "akasha/alan/harness/readouts/widget-tap-link/widget-tap-link.module.code.ts"
-import { apiFetch } from "akasha/alan/web/api-fetch/api-fetch.module.code.ts"
 import {
   getApp,
   isNativeShell,
   type PluginListenerHandle,
 } from "akasha/alan/web/capacitor-bridge/capacitor-bridge.module.code.ts"
+import { apiFetch } from "akasha/alan/web/modules/api-fetch/api-fetch.module.code.ts"
 import { decideOpenUrlRoute } from "akasha/persons/push-routing/push-routing.module.code.ts"
 import { useEffect, useRef } from "react"
 import { useNavigate } from "react-router"

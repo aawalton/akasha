@@ -1,7 +1,7 @@
 import { beforeEach, expect, mock, test } from "bun:test"
 import { render } from "@testing-library/react"
-import * as apiFetchModule from "akasha/alan/web/api-fetch/api-fetch.module.code.ts"
 import * as capacitorBridge from "akasha/alan/web/capacitor-bridge/capacitor-bridge.module.code.ts"
+import * as apiFetchModule from "akasha/alan/web/modules/api-fetch/api-fetch.module.code.ts"
 import { UserIdContext } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import { act } from "react"
 
@@ -24,7 +24,7 @@ mock.module("akasha/alan/web/capacitor-bridge/capacitor-bridge.module.code.ts", 
   getDeviceSecret: () => plugin,
 }))
 
-mock.module("akasha/alan/web/api-fetch/api-fetch.module.code.ts", () => ({
+mock.module("akasha/alan/web/modules/api-fetch/api-fetch.module.code.ts", () => ({
   ...apiFetchModule,
   apiFetch: (input: string) => {
     apiCalls.push(input)

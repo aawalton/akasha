@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { join } from "node:path"
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import type { Plan } from "akasha/code/ios-apps/app-building/app-building.module.code.ts"
+import type { Plan } from "akasha/code/ios-apps/modules/app-building/app-building.module.code.ts"
 import {
   DATA,
   OPERATIONAL,

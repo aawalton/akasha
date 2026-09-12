@@ -1,6 +1,9 @@
 import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { type Plan, planFor } from "akasha/code/ios-apps/app-building/app-building.module.code.ts"
+import {
+  type Plan,
+  planFor,
+} from "akasha/code/ios-apps/modules/app-building/app-building.module.code.ts"
 import {
   answeredWith,
   answering,

@@ -1,9 +1,9 @@
-import type { AnnotationKind } from "akasha/design/language/lua-compiler/annotations/annotations.module.code.ts"
 import {
   type LuaCompilerOptions,
   LuaTarget,
 } from "akasha/design/language/lua-compiler/compiler-options/compiler-options.module.code.ts"
 import * as luaCore from "akasha/design/language/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import type { AnnotationKind } from "akasha/design/language/lua-compiler/modules/annotations/annotations.module.code.ts"
 import { createSerialDiagnosticFactory } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
 import * as ts from "typescript"
 

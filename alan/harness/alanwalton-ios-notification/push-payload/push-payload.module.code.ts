@@ -1,4 +1,4 @@
-import type { ApnsPayload } from "akasha/alan/harness/alanwalton-ios-notification/apns-sending/apns-sending.module.code.ts"
+import type { ApnsPayload } from "akasha/alan/harness/alanwalton-ios-notification/modules/apns-sending/apns-sending.module.code.ts"
 import {
   type Feed,
   NOTIFICATION_FEED_PAGE_TYPE_SLUG,

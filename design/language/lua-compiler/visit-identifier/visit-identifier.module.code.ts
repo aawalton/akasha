@@ -1,9 +1,4 @@
 import {
-  type Annotation,
-  AnnotationKind,
-  getNodeAnnotations,
-} from "akasha/design/language/lua-compiler/annotations/annotations.module.code.ts"
-import {
   checkForLuaLibType,
   isPromiseClass,
   transformBuiltinIdentifierExpression,
@@ -21,6 +16,11 @@ import {
 } from "akasha/design/language/lua-compiler/language-extension-kinds/language-extension-kinds.module.code.ts"
 import * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import { createPromiseIdentifier } from "akasha/design/language/lua-compiler/lualib-call/lualib-call.module.code.ts"
+import {
+  type Annotation,
+  AnnotationKind,
+  getNodeAnnotations,
+} from "akasha/design/language/lua-compiler/modules/annotations/annotations.module.code.ts"
 import {
   getOptionalContinuationData,
   isOptionalContinuation,

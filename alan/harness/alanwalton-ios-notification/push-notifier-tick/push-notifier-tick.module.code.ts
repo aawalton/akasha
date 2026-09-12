@@ -1,7 +1,7 @@
 import type {
   ApnsPayload,
   ApnsSender,
-} from "akasha/alan/harness/alanwalton-ios-notification/apns-sending/apns-sending.module.code.ts"
+} from "akasha/alan/harness/alanwalton-ios-notification/modules/apns-sending/apns-sending.module.code.ts"
 import {
   listDeviceTokens,
   pruneDeviceToken,

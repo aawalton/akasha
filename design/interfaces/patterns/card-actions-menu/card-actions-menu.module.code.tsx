@@ -1,6 +1,12 @@
 "use client"
 
 import {
+  DropdownMenu,
+  DropdownMenuContent,
+  DropdownMenuItem,
+  DropdownMenuTrigger,
+} from "akasha/design/interfaces/primitives/dropdown-menu/dropdown-menu.module.code.tsx"
+import {
   AlertDialog,
   AlertDialogAction,
   AlertDialogCancel,
@@ -9,13 +15,7 @@ import {
   AlertDialogFooter,
   AlertDialogHeader,
   AlertDialogTitle,
-} from "akasha/design/interfaces/primitives/alert-dialog/alert-dialog.module.code.tsx"
-import {
-  DropdownMenu,
-  DropdownMenuContent,
-  DropdownMenuItem,
-  DropdownMenuTrigger,
-} from "akasha/design/interfaces/primitives/dropdown-menu/dropdown-menu.module.code.tsx"
+} from "akasha/design/interfaces/primitives/modules/alert-dialog/alert-dialog.module.code.tsx"
 import { Ellipsis } from "lucide-react"
 import { useState } from "react"
 

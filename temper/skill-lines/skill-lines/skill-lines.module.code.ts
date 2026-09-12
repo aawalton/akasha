@@ -1,6 +1,6 @@
-import { ALLIANCE_WAR_SKILL_LINES } from "akasha/temper/skill-lines/alliance-war-skill-lines/alliance-war-skill-lines.module.code.ts"
 import { CLASS_SKILL_LINES } from "akasha/temper/skill-lines/class-skill-lines/class-skill-lines.module.code.ts"
 import { COMPANION_SKILL_LINES } from "akasha/temper/skill-lines/companion-skill-lines/companion-skill-lines.module.code.ts"
+import { ALLIANCE_WAR_SKILL_LINES } from "akasha/temper/skill-lines/modules/alliance-war-skill-lines/alliance-war-skill-lines.module.code.ts"
 import { RACIAL_AND_CRAFT_SKILL_LINES } from "akasha/temper/skill-lines/racial-and-craft-skill-lines/racial-and-craft-skill-lines.module.code.ts"
 import type { SkillLineTemplate } from "akasha/temper/skill-lines/skill-line-template/skill-line-template.module.code.ts"
 import { VENGEANCE_SKILL_LINES } from "akasha/temper/skill-lines/vengeance-skill-lines/vengeance-skill-lines.module.code.ts"

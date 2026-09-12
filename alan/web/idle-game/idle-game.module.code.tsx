@@ -1,6 +1,5 @@
 import "akasha/alan/web/idle-look/idle-look.stylesheet.styles.css"
 import type { GameState } from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
-import { apiFetch } from "akasha/alan/web/api-fetch/api-fetch.module.code.ts"
 import { IdleCardView } from "akasha/alan/web/idle-card-view/idle-card-view.module.code.tsx"
 import {
   type IdleGameSnapshot,
@@ -8,6 +7,7 @@ import {
 } from "akasha/alan/web/idle-game-store/idle-game-store.module.code.ts"
 import { AddSeatPicker } from "akasha/alan/web/lineup-header/lineup-header.module.code.tsx"
 import { ActiveBoosts } from "akasha/alan/web/modules/active-boosts/active-boosts.module.code.tsx"
+import { apiFetch } from "akasha/alan/web/modules/api-fetch/api-fetch.module.code.ts"
 import { PrestigeCard } from "akasha/alan/web/prestige-card/prestige-card.module.code.tsx"
 import { UniversalTitleBar } from "akasha/alan/web/universal-title-bar/universal-title-bar.module.code.tsx"
 import {

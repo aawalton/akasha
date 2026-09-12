@@ -3,10 +3,6 @@ import {
   OperationalError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import {
-  ALTOOL_MARKERS,
-  testflightFailureError,
-} from "akasha/alan/harness/mobile-cli/altool/altool.module.code.ts"
-import {
   createAscJwtSource,
   fetchInternalBuildState,
   fetchLatestBuild,
@@ -45,6 +41,10 @@ import {
   rsyncToHost,
   runSshResult,
 } from "akasha/alan/harness/mobile-cli/mobile-ssh/mobile-ssh.module.code.ts"
+import {
+  ALTOOL_MARKERS,
+  testflightFailureError,
+} from "akasha/alan/harness/mobile-cli/modules/altool/altool.module.code.ts"
 import { simRunSharedRepoPaths } from "akasha/alan/harness/mobile-cli/sim-run-tree/sim-run-tree.module.code.ts"
 import { buildTestflightDeployScript } from "akasha/alan/harness/mobile-cli/testflight-deploy-script/testflight-deploy-script.module.code.ts"
 import {

@@ -1,6 +1,6 @@
 import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
-import { dayStanding } from "akasha/alan/track/daily/akasha-day/akasha-day.module.code.ts"
 import { dayNameOf } from "akasha/alan/track/daily/day-place/day-place.module.code.ts"
+import { dayStanding } from "akasha/alan/track/daily/modules/akasha-day/akasha-day.module.code.ts"
 import {
   mergeUncommitted,
   uncommittedIn,

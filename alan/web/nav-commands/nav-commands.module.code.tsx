@@ -4,7 +4,7 @@ import {
   getNavItemProducts,
   navItemContent,
   navItemTech,
-} from "akasha/alan/web/alan-nav-items/alan-nav-items.module.code.ts"
+} from "akasha/alan/web/modules/alan-nav-items/alan-nav-items.module.code.ts"
 import type { AppNavItem } from "akasha/design/interfaces/layout/nav-types/nav-types.module.code.ts"
 import { PALETTE_ONLY } from "akasha/design/interfaces/primitives/keyboard-registry/keyboard-registry.module.code.ts"
 import { useKeyboardBinding } from "akasha/design/interfaces/primitives/use-keyboard-registry/use-keyboard-registry.module.code.ts"

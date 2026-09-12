@@ -1,8 +1,4 @@
 import * as path from "node:path"
-import {
-  AnnotationKind,
-  getSymbolAnnotations,
-} from "akasha/design/language/lua-compiler/annotations/annotations.module.code.ts"
 import type { TransformationContext } from "akasha/design/language/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
 import type { FunctionVisitor } from "akasha/design/language/lua-compiler/context-visitors/context-visitors.module.code.ts"
 import { createDefaultExportStringLiteral } from "akasha/design/language/lua-compiler/export-scope/export-scope.module.code.ts"
@@ -14,6 +10,10 @@ import {
   importLuaLibFeature,
 } from "akasha/design/language/lua-compiler/lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "akasha/design/language/lua-compiler/lualib-features/lualib-features.module.code.ts"
+import {
+  AnnotationKind,
+  getSymbolAnnotations,
+} from "akasha/design/language/lua-compiler/modules/annotations/annotations.module.code.ts"
 import { createSafeName } from "akasha/design/language/lua-compiler/safe-names/safe-names.module.code.ts"
 import { peekScope } from "akasha/design/language/lua-compiler/scope/scope.module.code.ts"
 import {

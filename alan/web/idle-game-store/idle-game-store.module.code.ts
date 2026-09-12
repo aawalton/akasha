@@ -5,12 +5,12 @@ import {
 } from "akasha/alan/harness/idle-system/idle-accrual/idle-accrual.module.code.ts"
 import { parseIdleSave } from "akasha/alan/harness/idle-system/idle-save/idle-save.module.code.ts"
 import type { GameState } from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
-import { apiFetch } from "akasha/alan/web/api-fetch/api-fetch.module.code.ts"
 import {
   type ActionIntent,
   actionKey,
 } from "akasha/alan/web/idle-actions/idle-actions.module.code.ts"
 import { commitIntent } from "akasha/alan/web/idle-apply/idle-apply.module.code.ts"
+import { apiFetch } from "akasha/alan/web/modules/api-fetch/api-fetch.module.code.ts"
 
 export type IdleStatus = "loading" | "signin" | "nosave" | "ready"
 export type IdleActionError = { readonly key: string; readonly reason: string }

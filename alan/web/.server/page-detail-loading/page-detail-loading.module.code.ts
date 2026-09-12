@@ -6,8 +6,8 @@ import {
   type SentenceMark,
   sentenceMarkSchema,
 } from "akasha/alan/harness/voice-core/mark-schema/mark-schema.module.code.ts"
-import { resolveReaderNeighbors } from "akasha/alan/web/alan-reader-neighbors/alan-reader-neighbors.module.code.ts"
 import { resolveMediaVariants } from "akasha/alan/web/media-variants/media-variants.module.code.ts"
+import { resolveReaderNeighbors } from "akasha/alan/web/modules/alan-reader-neighbors/alan-reader-neighbors.module.code.ts"
 import { resolveNextUnreadHref } from "akasha/alan/web/next-unread/next-unread.module.code.ts"
 import { selectPageDisplayKind } from "akasha/alan/web/page-display-kind/page-display-kind.module.code.ts"
 import {

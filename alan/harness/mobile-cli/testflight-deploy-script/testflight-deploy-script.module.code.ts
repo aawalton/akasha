@@ -1,8 +1,3 @@
-import {
-  ALTOOL_MARKERS,
-  buildUploadApp,
-  buildValidateApp,
-} from "akasha/alan/harness/mobile-cli/altool/altool.module.code.ts"
 import { buildStampGate } from "akasha/alan/harness/mobile-cli/build-stamp-gate/build-stamp-gate.module.code.ts"
 import { buildExportOptionsPlist } from "akasha/alan/harness/mobile-cli/export-options-plist/export-options-plist.module.code.ts"
 import {
@@ -29,6 +24,11 @@ import {
   type MobileApp,
   macWwwStagingDir,
 } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+import {
+  ALTOOL_MARKERS,
+  buildUploadApp,
+  buildValidateApp,
+} from "akasha/alan/harness/mobile-cli/modules/altool/altool.module.code.ts"
 
 export function buildTestflightDeployScript(opts: {
   readonly app: MobileApp

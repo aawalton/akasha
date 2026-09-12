@@ -2,7 +2,7 @@ import { resolveRequestUser } from "akasha/alan/harness/supabase-rr/auth-server/
 import {
   answerPages as answerFrom,
   pagesDeps,
-} from "akasha/pages/access/answer/answer.module.code.ts"
+} from "akasha/pages/access/modules/answer/answer.module.code.ts"
 
 const DEPS = pagesDeps(resolveRequestUser)
 

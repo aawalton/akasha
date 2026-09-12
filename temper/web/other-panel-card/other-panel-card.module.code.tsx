@@ -11,11 +11,11 @@ import {
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { Switch } from "akasha/design/interfaces/primitives/switch-control/switch-control.module.code.tsx"
+import type { EsoPlusId } from "akasha/temper/character-sources/eso-plus-source/eso-plus-source.module.code.ts"
 import {
   type AllianceId,
   alliances,
-} from "akasha/temper/character-sources/alliances/alliances.module.code.ts"
-import type { EsoPlusId } from "akasha/temper/character-sources/eso-plus-source/eso-plus-source.module.code.ts"
+} from "akasha/temper/character-sources/modules/alliances/alliances.module.code.ts"
 
 interface OtherPanelCardProps {
   alliance: AllianceId

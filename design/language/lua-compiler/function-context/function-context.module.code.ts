@@ -1,9 +1,9 @@
+import type { TransformationContext } from "akasha/design/language/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
 import {
   AnnotationKind,
   getFileAnnotations,
   getNodeAnnotations,
-} from "akasha/design/language/lua-compiler/annotations/annotations.module.code.ts"
-import type { TransformationContext } from "akasha/design/language/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/annotations/annotations.module.code.ts"
 import {
   findFirstNodeAbove,
   getAllCallSignatures,

@@ -11,7 +11,7 @@ import {
 } from "@dnd-kit/core"
 import { restrictToVerticalAxis } from "@dnd-kit/modifiers"
 import { SortableContext, useSortable } from "@dnd-kit/sortable"
-import { navLinkClass } from "akasha/design/interfaces/layout/app-shell-sidebar/app-shell-sidebar.module.code.tsx"
+import { navLinkClass } from "akasha/design/interfaces/layout/modules/app-shell-sidebar/app-shell-sidebar.module.code.tsx"
 import type { AppNavItem } from "akasha/design/interfaces/layout/nav-types/nav-types.module.code.ts"
 import { SidebarNavGroup } from "akasha/design/interfaces/layout/sidebar-nav-group/sidebar-nav-group.module.code.tsx"
 import { useSidebarState } from "akasha/design/interfaces/layout/use-sidebar-state/use-sidebar-state.module.code.ts"

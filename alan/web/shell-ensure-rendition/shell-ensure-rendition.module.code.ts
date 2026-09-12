@@ -1,4 +1,4 @@
-import { apiFetch } from "akasha/alan/web/api-fetch/api-fetch.module.code.ts"
+import { apiFetch } from "akasha/alan/web/modules/api-fetch/api-fetch.module.code.ts"
 import { z } from "zod"
 
 const ensureResponseSchema = z.object({

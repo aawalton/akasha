@@ -1,4 +1,4 @@
-import { apnsSenderFromEnv } from "akasha/alan/harness/alanwalton-ios-notification/apns-sending/apns-sending.module.code.ts"
+import { apnsSenderFromEnv } from "akasha/alan/harness/alanwalton-ios-notification/modules/apns-sending/apns-sending.module.code.ts"
 import {
   LOG,
   openState,

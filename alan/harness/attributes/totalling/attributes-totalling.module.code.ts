@@ -16,8 +16,8 @@ import {
 } from "akasha/alan/harness/attributes/reading/attributes-reading.module.code.ts"
 import { askingIn } from "akasha/alan/harness/plants/reading/plants-reading.module.code.ts"
 import { openedDayWindow } from "akasha/alan/track/daily/day-opening/day-opening.module.code.ts"
-import { kebabisedRow } from "akasha/pages/akasha-page-values/akasha-page-values.module.code.ts"
 import { AKASHA, resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { kebabisedRow } from "akasha/pages/modules/akasha-page-values/akasha-page-values.module.code.ts"
 import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 

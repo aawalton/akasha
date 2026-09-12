@@ -4,7 +4,7 @@ import {
   runPageWrite,
   TAKES,
   writesAs,
-} from "akasha/pages/access/answer-write/answer-write.module.code.ts"
+} from "akasha/pages/access/modules/answer-write/answer-write.module.code.ts"
 
 let named: string | null = null
 

@@ -8,7 +8,6 @@ import type {
   CompletionFilter,
   CompletionSortMode,
 } from "akasha/temper/player-completion-ui/completion-panel-card/completion-panel-card.module.code.tsx"
-import { AntiquityLorePanelCard } from "akasha/temper/web/antiquity-lore-panel-card/antiquity-lore-panel-card.module.code.tsx"
 import { BankUpgradesPanelCard } from "akasha/temper/web/bank-upgrades-panel-card/bank-upgrades-panel-card.module.code.tsx"
 import { ChampionPointsPanelCard } from "akasha/temper/web/champion-points-panel-card/champion-points-panel-card.module.code.tsx"
 import { GrandMasterStationsPanelCard } from "akasha/temper/web/grand-master-stations-panel-card/grand-master-stations-panel-card.module.code.tsx"
@@ -25,6 +24,7 @@ import { AccountSummaryPanelCard } from "akasha/temper/web/modules/account-summa
 import { AccountTraitResearchPanelCard } from "akasha/temper/web/modules/account-trait-research-panel-card/account-trait-research-panel-card.module.code.tsx"
 import { AccountTributePanelCard } from "akasha/temper/web/modules/account-tribute-panel-card/account-tribute-panel-card.module.code.tsx"
 import { AccountZoneCompletionPanelCard } from "akasha/temper/web/modules/account-zone-completion-panel-card/account-zone-completion-panel-card.module.code.tsx"
+import { AntiquityLorePanelCard } from "akasha/temper/web/modules/antiquity-lore-panel-card/antiquity-lore-panel-card.module.code.tsx"
 import { SubclassingSkillLinesPanelCard } from "akasha/temper/web/subclassing-skill-lines-panel-card/subclassing-skill-lines-panel-card.module.code.tsx"
 
 interface AccountPanelGridProps {

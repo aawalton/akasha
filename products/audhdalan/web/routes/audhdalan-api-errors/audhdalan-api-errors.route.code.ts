@@ -1,4 +1,4 @@
-import { answerErrorReport } from "akasha/alan/harness/error-report-answers/answer-error-report/answer-error-report.module.code.ts"
+import { answerErrorReport } from "akasha/alan/harness/error-report-answers/modules/answer-error-report/answer-error-report.module.code.ts"
 
 const SHELL_ORIGINS: readonly string[] = []
 

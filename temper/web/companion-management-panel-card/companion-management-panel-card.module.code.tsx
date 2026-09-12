@@ -1,6 +1,7 @@
 "use client"
 
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
 import {
   AlertDialog,
   AlertDialogAction,
@@ -10,8 +11,7 @@ import {
   AlertDialogFooter,
   AlertDialogHeader,
   AlertDialogTitle,
-} from "akasha/design/interfaces/primitives/alert-dialog/alert-dialog.module.code.tsx"
-import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
+} from "akasha/design/interfaces/primitives/modules/alert-dialog/alert-dialog.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { usePagesUIRouter } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"

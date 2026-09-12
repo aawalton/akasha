@@ -6,6 +6,13 @@ import { NumberBadge } from "akasha/design/interfaces/badges/number-badge/number
 import { InlineEditableText } from "akasha/design/interfaces/forms/inline-editable-text/inline-editable-text.module.code.tsx"
 import { ItemCard } from "akasha/design/interfaces/patterns/item-card/item-card.module.code.tsx"
 import {
+  DropdownMenu,
+  DropdownMenuContent,
+  DropdownMenuItem,
+  DropdownMenuSeparator,
+  DropdownMenuTrigger,
+} from "akasha/design/interfaces/primitives/dropdown-menu/dropdown-menu.module.code.tsx"
+import {
   AlertDialog,
   AlertDialogAction,
   AlertDialogCancel,
@@ -14,14 +21,7 @@ import {
   AlertDialogFooter,
   AlertDialogHeader,
   AlertDialogTitle,
-} from "akasha/design/interfaces/primitives/alert-dialog/alert-dialog.module.code.tsx"
-import {
-  DropdownMenu,
-  DropdownMenuContent,
-  DropdownMenuItem,
-  DropdownMenuSeparator,
-  DropdownMenuTrigger,
-} from "akasha/design/interfaces/primitives/dropdown-menu/dropdown-menu.module.code.tsx"
+} from "akasha/design/interfaces/primitives/modules/alert-dialog/alert-dialog.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"

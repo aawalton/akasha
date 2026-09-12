@@ -3,8 +3,11 @@ import { join } from "node:path"
 import { getMountainMorningDayStr } from "akasha/alan/harness/day/mountain-day/mountain-day.module.code.ts"
 import { readMountainWallTime } from "akasha/alan/harness/day/mountain-wall/mountain-wall.module.code.ts"
 import { pad2 } from "akasha/alan/harness/day/string/day-string.module.code.ts"
-import { rootOf, written } from "akasha/alan/track/daily/akasha-day/akasha-day.module.code.ts"
 import { openedDayOf } from "akasha/alan/track/daily/day-opening/day-opening.module.code.ts"
+import {
+  rootOf,
+  written,
+} from "akasha/alan/track/daily/modules/akasha-day/akasha-day.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { date as dateArgument } from "akasha/commands/arguments/pages/date.argument.ts"
 import { estimatedCalories as caloriesArgument } from "akasha/commands/arguments/pages/estimated-calories.argument.ts"
