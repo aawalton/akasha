@@ -7,13 +7,7 @@ export const trackHealthImport = {
   definition: "the command bringing an Apple Health export into the sample store",
   code: "ts",
   test: "ts",
-  taking: [
-    { said: "--since <YYYY-MM-DD>", takes: "the first civil day to bring in" },
-    {
-      said: "--restart",
-      takes: "begin at the head of the export rather than where an earlier run ended",
-    },
-  ],
+  taking: [{ said: "--since <YYYY-MM-DD>", takes: "the first civil day to bring in" }],
   invariants: [
     {
       invariantKind: "departure",
@@ -81,5 +75,6 @@ export const trackHealthImport = {
     { argument: "argument/dry-run" },
     { argument: "argument/file-path" },
     { argument: "argument/batch" },
+    { argument: "argument/restart" },
   ],
 } as const satisfies Command
