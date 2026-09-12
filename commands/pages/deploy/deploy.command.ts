@@ -26,7 +26,6 @@ export const deploy = {
     "module/deploy-tree-pinning",
   ],
   taking: [
-    { said: "--no-upload", takes: "build and validate an ios app without uploading it" },
     { said: "--ref <rev>", takes: "the commit to put up" },
     {
       said: "--measured",
@@ -257,5 +256,6 @@ export const deploy = {
   arguments: [
     { argument: "argument/dry-run" },
     { argument: "argument/deploy-subject", required: true, saidAs: "word" },
+    { argument: "argument/no-upload" },
   ],
 } as const satisfies Command
