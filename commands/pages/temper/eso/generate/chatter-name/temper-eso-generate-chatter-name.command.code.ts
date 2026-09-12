@@ -2,6 +2,7 @@ import { realpathSync } from "node:fs"
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
@@ -10,8 +11,6 @@ import {
   saidFor,
   saidShort,
 } from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
-
-const DATA = 2
 
 const FAILED = 3
 
@@ -73,7 +72,7 @@ export async function temperEsoGenerateChatterNames(argv: readonly string[] = []
     `${String(registry.chatter.length)} CHATTER_ and ` +
     `${String(registry.interaction.length)} INTERACTION_ name(s)`
   if (held === registry.text) {
-    return answering([`${outPath} already holds ${many}`, `read from ${sourcePath}`], [], 0)
+    return answering([`${outPath} already holds ${many}`, `read from ${sourcePath}`], [], OK)
   }
 
   const landed = await runMechanicalChange(
@@ -88,5 +87,5 @@ export async function temperEsoGenerateChatterNames(argv: readonly string[] = []
     )
   }
 
-  return answering([`wrote ${many} into ${outPath}`, `read from ${sourcePath}`], [], 0)
+  return answering([`wrote ${many} into ${outPath}`, `read from ${sourcePath}`], [], OK)
 }
