@@ -54,7 +54,7 @@ export const seatStart = {
     { argument: "argument/json" },
     { argument: "argument/start-mode" },
     { argument: "argument/prompt-file" },
-    { argument: "argument/prompt" },
+    { argument: "argument/seat-prompt" },
     { argument: "argument/persona" },
     { argument: "argument/role" },
     { argument: "argument/seat-domain" },
