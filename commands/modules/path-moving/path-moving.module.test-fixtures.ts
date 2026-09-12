@@ -23,6 +23,35 @@ export const MOVED_TO = "akasha/deep/one.bin"
 
 export const PAGE_TO = "akasha/deep/a.domain.ts"
 
+const BESIDE_AT = "akasha/a.domain.entries.uncommitted.jsonl"
+
+export const BESIDE_TO = "akasha/deep/a.domain.entries.uncommitted.jsonl"
+
+export async function besideMoved(): Promise<readonly string[]> {
+  const root = repoWith({ [MOVED_BIN]: BROKEN })
+  const first = await landing(root, rowsIn(root, CARRIED), "held", ADMITS)
+  if ("refusals" in first) throw new Error(first.refusals.join("; "))
+  const filed = await landing(
+    root,
+    rowsIn(root, [{ path: PAGE, body: bytesOf(A) }]),
+    "held",
+    ADMITS
+  )
+  if ("refusals" in filed) throw new Error(filed.refusals.join("; "))
+  writeFileSync(join(root, BESIDE_AT), "{}\n")
+  const said = await landing(
+    root,
+    [
+      { kind: "move", pathFrom: PAGE, pathTo: PAGE_TO },
+      { kind: "move", pathFrom: BESIDE_AT, pathTo: BESIDE_TO },
+    ],
+    "moved",
+    ADMITS
+  )
+  if ("refusals" in said) throw new Error(said.refusals.join("; "))
+  return everythingFiled(root).filter((one) => one.includes("a.domain.entries"))
+}
+
 export const MORE = `${A}// moved\n`
 
 export function blockedMoves(root: string): readonly FileChange[] {

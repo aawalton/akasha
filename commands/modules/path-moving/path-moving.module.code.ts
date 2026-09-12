@@ -1,9 +1,30 @@
 import { existsSync, mkdirSync, renameSync, rmSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { pageOf, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { partFiled, partUnfiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
+
+const TS = ".ts"
 
 export type FileMove = {
   readonly from: string
   readonly to: string
+}
+
+function besidePage(at: string): string | null {
+  const said = partedIn(at)
+  return said === null ? null : join(dirname(at), `${pageOf(said)}${TS}`)
+}
+
+export function filedOnto(root: string, moves: readonly FileMove[]): undefined {
+  for (const one of moves) {
+    partUnfiled(root, one.from)
+    const page = besidePage(one.to)
+    if (page !== null) partFiled(root, page, one.to)
+  }
+}
+
+export function unfiledOnto(root: string, moves: readonly FileMove[]): undefined {
+  for (const one of moves) partUnfiled(root, one.to)
 }
 
 export type Aside = {

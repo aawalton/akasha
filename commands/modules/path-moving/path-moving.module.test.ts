@@ -21,6 +21,8 @@ import {
   asidePutBack,
   asidesIn,
   asideTook,
+  BESIDE_TO,
+  besideMoved,
   blockedMoves,
   MORE,
   MOVED_BIN,
@@ -47,6 +49,13 @@ test("a move files the index at the path it came from and the path it landed at"
   const filed = (await moved(PAGE, PAGE_TO)).filed.join("")
   expect(filed).toContain(PAGE_TO)
   expect(filed).not.toContain(`"${PAGE}"`)
+})
+
+test("a path no commit holds that moved beside a page is filed where that move lands", async () => {
+  const filed = await besideMoved()
+  expect(filed.length).toBe(1)
+  expect(filed.join("")).toContain(`/path/${BESIDE_TO}.jsonl`)
+  expect(filed.join("")).toContain(`"${PAGE_TO}"`)
 })
 
 test("a move whose body also changed lands the rename and the new body", async () => {

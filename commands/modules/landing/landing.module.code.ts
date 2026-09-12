@@ -49,8 +49,10 @@ import {
 import type { FileMove } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
 import {
   asideOnto,
+  filedOnto,
   movedOnto,
   movesHeld,
+  unfiledOnto,
 } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
 import {
   outsideRoot,
@@ -382,6 +384,7 @@ export async function landing(
       const put = wroteOnto(root, putting)
       const noted = indexed(root, edits, moving.committing, before, keeping)
       const back = movedOnto(root, moves)
+      filedOnto(root, moving.uncommitted)
       try {
         const onto = split.committing.filter((one) => lands.has(one.path))
         const then = wroteOnto(root, onto)
@@ -410,6 +413,7 @@ export async function landing(
         }
       } catch (thrown) {
         back()
+        unfiledOnto(root, moving.uncommitted)
         throw thrown
       }
     } catch (thrown) {
