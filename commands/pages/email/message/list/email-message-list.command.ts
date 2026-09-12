@@ -7,8 +7,6 @@ export const emailMessageList = {
   definition: "the command summarising each Gmail message a search matches, the search optional",
   code: "ts",
   taking: [
-    { said: "--query <text>", takes: "Gmail search syntax a listing is matched against" },
-
     { said: "--max <n>", takes: "how many messages to answer with at most" },
     { said: "--label <id>", takes: "a label id a listing is held to, said again for each" },
   ],
@@ -35,5 +33,5 @@ export const emailMessageList = {
     },
   ],
   name: "list",
-  arguments: [{ argument: "argument/query-file" }],
+  arguments: [{ argument: "argument/query-file" }, { argument: "argument/mail-query" }],
 } as const satisfies Command
