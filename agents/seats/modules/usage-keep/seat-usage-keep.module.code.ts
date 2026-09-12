@@ -2,7 +2,7 @@ import {
   keepSeatUsage,
   type UsageReading,
   usageIn,
-} from "akasha/seat-system/seat-usage/seat-usage.module.code.ts"
+} from "akasha/agents/seats/modules/usage/seat-usage.module.code.ts"
 
 function parseUsageReading(held: unknown): UsageReading {
   return usageIn(held)

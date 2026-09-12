@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { usageIn } from "akasha/seat-system/seat-usage/seat-usage.module.code.ts"
+import { usageIn } from "akasha/agents/seats/modules/usage/seat-usage.module.code.ts"
 
 test("a reading is taken from what the payload states", () => {
   expect(
