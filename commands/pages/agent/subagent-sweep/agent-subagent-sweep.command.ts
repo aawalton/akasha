@@ -11,24 +11,57 @@ export const agentSubagentSweep = {
   testFixtures: "ts",
   changeKind: "change-mechanical",
   taking: [{ said: "--remove", takes: "take away the pages this run judged stale" }],
-  helpNotes: [
-    "a run naming nothing reports and writes nothing, which is how a person reads the census first.",
-    "a page is judged WORKING, STALE or UNDETERMINED, and only STALE ever goes.",
-    "WORKING is a live process acting under the page's agent id, or the seat's transcript naming the subagent as not yet returned.",
-    "STALE is a take-down the seat's log says was refused, a seat no process at all carries the id of, or the seat's transcript naming the subagent as one it saw start and finish.",
-    "a transcript reads an agent id off a launch receipt, so a compacted one has no id to end and no id to run, and it leaves every judgement as it was.",
-    "the absence of a running subagent is never read as an end, because that is what a truncated transcript looks like too.",
-    "a subagent whose last record came before the start of the client its seat runs now is STALE, since a client runs no subagent already open.",
-    "that is how a subagent killed with its client is read, because no end reaches a transcript whose client died before writing it.",
-    "UNDETERMINED is everything else, because a subagent waiting on the model runs no process of its own.",
-    "no page's age is read: a page written long ago under a process still running says nothing.",
-    "the report names, for each page, its seat, its agent id, what answers for it, and why.",
-    "a removal is landed by this command rather than drafted, as the put-up that wrote the page was.",
-    "a page that does go takes its files with it, and what those files held moves onto the seat that dispatched the subagent first.",
-    "a stale page goes whether or not edits wait beside it, because the edits move onto its seat rather than going with the page.",
-    "a stale page whose seat the index files no page for is left where it is while edits wait beside it, since taking it would destroy work nothing could reach again.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A page is judged working, stale or undetermined.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page is working where a process acts under its agent id or its seat has not seen it return.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page is stale where its seat's subagent-presence log says its take-down was dropped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page is stale where no process at all carries its seat's agent id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page is stale where its seat's transcript saw it start and return.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page is stale where its last record came before its seat's client started.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page neither working nor stale is undetermined.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A compacted transcript names no agent id and leaves every judgement as it was.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A subagent the running reading does not name is not thereby ended.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No page's age is read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The report names each page's seat, its agent id, what answers for it and why.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A removal is landed by this command rather than drafted.",
+    },
     {
       invariantKind: "departure",
       statement: "A run naming nothing writes nothing.",
