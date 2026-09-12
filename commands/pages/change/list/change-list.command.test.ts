@@ -11,12 +11,21 @@ const OUTSIDE = {
 
 test("a list naming a word is refused before any page is looked for", () => {
   const said = changeList(["one"], OUTSIDE)
-  expect(said.code).not.toBe(0)
-  expect(said.refusals[0]).toContain("takes no word")
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("`one` is no argument")
+  expect(said.refusals[0]).toContain("it takes none")
 })
 
 test("a flag on the command line is refused", () => {
-  expect(changeList(["--all"], OUTSIDE).refusals[0]).toContain("takes no flag")
+  const said = changeList(["--all"], OUTSIDE)
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("`--all` is no argument")
+})
+
+test("every word a call names is refused rather than the first alone", () => {
+  const said = changeList(["one", "two"], OUTSIDE)
+  expect(said.refusals[0]).toContain("`one`")
+  expect(said.refusals[1]).toContain("`two`")
 })
 
 test("a list by an agent with no page is refused rather than answered with nothing", () => {
