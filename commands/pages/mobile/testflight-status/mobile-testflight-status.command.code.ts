@@ -34,11 +34,16 @@ export type Read = {
   readonly wait: boolean
 }
 
-async function waited(read: Read, appId: string, jwt: () => Promise<string>): Promise<Answer> {
-  const report = [
+async function waited(
+  read: Read,
+  appId: string,
+  jwt: () => Promise<string>,
+  done: string[]
+): Promise<Answer> {
+  done.push(
     `asking App Store Connect about ${read.app.bundleId} every ${POLL_INTERVAL_MS / A_SECOND}s ` +
-      `for up to ${POLL_TIMEOUT_MS / A_MINUTE} minutes`,
-  ]
+      `for up to ${POLL_TIMEOUT_MS / A_MINUTE} minutes`
+  )
   const outcome = await pollBuildUntilTerminal({
     fetchLatest: async () => await fetchLatestBuild(appId, await jwt()),
     isTarget: () => true,
@@ -46,17 +51,21 @@ async function waited(read: Read, appId: string, jwt: () => Promise<string>): Pr
     now: () => Date.now(),
     intervalMs: POLL_INTERVAL_MS,
     timeoutMs: POLL_TIMEOUT_MS,
-    onTick: (message) => report.push(message),
+    onTick: (message) => done.push(message),
   })
   if (outcome.kind === "valid") {
-    report.push(`valid\tbuild ${outcome.build.version} is ready to install`)
-    return told(report)
+    done.push(`valid\tbuild ${outcome.build.version} is ready to install`)
+    return told(done)
   }
   if (outcome.kind === "failed") {
-    return { report, refusals: [describeProcessingFailure(outcome.failure)], code: OPERATIONAL }
+    return {
+      report: done,
+      refusals: [describeProcessingFailure(outcome.failure)],
+      code: OPERATIONAL,
+    }
   }
   return {
-    report,
+    report: done,
     refusals: [
       `no build reached a terminal state in ${POLL_TIMEOUT_MS / A_MINUTE} minutes ` +
         `(last state: ${outcome.lastState ?? "no build visible"}), so it is still processing`,
@@ -65,10 +74,10 @@ async function waited(read: Read, appId: string, jwt: () => Promise<string>): Pr
   }
 }
 
-async function stated(read: Read): Promise<Answer> {
+async function stated(read: Read, done: string[]): Promise<Answer> {
   const jwt = createAscJwtSource()
   const appId = await resolveAppId(read.app.bundleId, await jwt())
-  if (read.wait) return await waited(read, appId, jwt)
+  if (read.wait) return await waited(read, appId, jwt, done)
 
   const build = await fetchLatestBuild(appId, await jwt())
   if (build === null) {
@@ -96,5 +105,5 @@ export async function mobileTestflightStatus(
   const held = appIn(said.taken.app)
   if ("refused" in held) return refusedBy(held.refused)
   const read: Read = { app: held, wait: said.taken.wait }
-  return await answering(async () => await stated(read))
+  return await answering(async (done) => await stated(read, done))
 }
