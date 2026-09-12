@@ -1,4 +1,5 @@
 import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { ranksOf } from "akasha/temper/addon-generators/rank-by-key/rank-by-key.module.code.ts"
 import { skillBars } from "akasha/temper/skill-kinds/skill-bars/skill-bars.module.code.ts"
 import { z } from "zod"
@@ -56,7 +57,7 @@ export function generateTemperSkillBar(rows: readonly Page[]): string {
  * is well-typed and feeds the \`SkillBarId\` union and the
  * \`skillBars.data\` lookup in @temper/game-characters-skills.
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 import type { SkillBarTemplate } from "../skill-bars-data"
