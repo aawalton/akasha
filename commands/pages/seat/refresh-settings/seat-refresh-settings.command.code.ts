@@ -1,5 +1,7 @@
 import { readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { basename } from "node:path"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import {
   answering,
   asJson,
@@ -8,16 +10,14 @@ import {
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { seatRefreshSettings as page } from "akasha/commands/pages/seat/refresh-settings/seat-refresh-settings.command.ts"
 import {
   AGENT_SETTINGS_PATH,
   readAgentSettingsBase,
   refreshedSettings,
 } from "akasha/seat-system/supervising/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
-import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
-
-const JSON_FLAG = "--json"
 
 const SETTINGS_FLAG = "--settings"
 
@@ -110,13 +110,10 @@ export function refreshedRows(
   return rows
 }
 
-export async function seatRefreshSettings(argv: readonly string[]): Promise<Answer> {
+export async function seatRefreshSettings(argv: readonly string[], given: Given): Promise<Answer> {
+  const read = takenFor(argv, given.calledAs, page, [json])
+  if ("refused" in read) return refusedBy(read.refused)
   return await answering(async (done) => {
-    const stray = argv.filter((one) => one !== JSON_FLAG)
-    if (stray.length > 0) {
-      const said = namesDrawn(stray)
-      return refusedBy([`this takes \`${JSON_FLAG}\` and nothing else, and ${said} was said`])
-    }
     const base = await readAgentSettingsBase()
     if (base.kind !== "loaded") {
       return refusedBy(
@@ -132,7 +129,7 @@ export async function seatRefreshSettings(argv: readonly string[]): Promise<Answ
     }
     if (paths.length === 0) return refusedBy([NOTHING_LIVE], DATA)
     const rows = refreshedRows(paths, base.settings, done)
-    if (argv.includes(JSON_FLAG)) return asJson({ rows })
+    if (read.taken.json) return asJson({ rows })
     return told(rows.map((row) => `${row.path}\t${row.outcome}`))
   })
 }

@@ -5,6 +5,7 @@ import {
   OPERATIONAL,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   isSpawnedSettings,
   objectIn,
@@ -14,6 +15,14 @@ import {
   seatRefreshSettings,
   settingsPathIn,
 } from "akasha/commands/pages/seat/refresh-settings/seat-refresh-settings.command.code.ts"
+
+const GIVEN: Given = {
+  root: "/repo",
+  calledAs: "akasha seat refresh-settings",
+  from: "/repo",
+  writer: null,
+  agentId: null,
+}
 
 const BASE: Record<string, unknown> = { model: "opus" }
 
@@ -34,7 +43,7 @@ function ranWith(refreshing: Refreshing) {
 }
 
 test("a word this does not take is refused", async () => {
-  const said = await seatRefreshSettings(["--all"])
+  const said = await seatRefreshSettings(["--all"], GIVEN)
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("--json")
 })
