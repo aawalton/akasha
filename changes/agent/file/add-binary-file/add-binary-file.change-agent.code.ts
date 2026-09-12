@@ -19,6 +19,8 @@ export function addBinaryFileCommand(world: World, given: Asked): Answer {
   return stating([{ kind: "bring", path: at }])
 }
 
+export const takes: readonly string[] = [AT]
+
 export function runChange(world: World, given: Asked): Answer {
   return addBinaryFileCommand(world, given)
 }

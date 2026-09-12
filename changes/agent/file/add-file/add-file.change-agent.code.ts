@@ -20,6 +20,8 @@ export async function addFileCommand(world: World, given: Asked): Promise<Answer
   return (await reach(world, ADD_FILE_OF_ANY_KIND, { at, body, id: given[ID] })).said
 }
 
+export const takes: readonly string[] = [AT, BODY, ID]
+
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   return await addFileCommand(world, given)
 }

@@ -24,6 +24,8 @@ export async function movePage(world: World, given: MovePageAsked): Promise<Said
 
 export type Asked = Readonly<Record<string, string>>
 
+export const takes: readonly string[] = [AT, TO]
+
 export async function runChange(world: World, given: Asked): Promise<Said> {
   const at = given[AT]
   if (at === undefined) return refusing(missing(AT))
