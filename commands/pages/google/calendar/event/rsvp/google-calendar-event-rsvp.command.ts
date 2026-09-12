@@ -6,12 +6,7 @@ export const googleCalendarEventRsvp = {
   slug: "google-calendar-event-rsvp",
   definition: "the command setting Alan's own response on one event",
   code: "ts",
-  taking: [
-    {
-      said: "--status <status>",
-      takes: "the response to set, of `accepted`, `declined` and `tentative`",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -44,5 +39,6 @@ export const googleCalendarEventRsvp = {
     { argument: "argument/event", required: true, saidAs: "flag-or-word" },
     { argument: "argument/calendar" },
     { argument: "argument/send-updates" },
+    { argument: "argument/status", required: true },
   ],
 } as const satisfies Command
