@@ -41,6 +41,10 @@ export const refreshMessage = {
       invariantKind: "departure",
       statement: "A run that stopped before it counted a day is refused as the fault alone.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A fault carries the code that fault names and says where it was thrown.",
+    },
   ],
   name: "message",
 } as const satisfies Command
