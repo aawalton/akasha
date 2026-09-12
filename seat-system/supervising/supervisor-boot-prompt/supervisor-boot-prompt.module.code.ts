@@ -1,5 +1,5 @@
 import { renameSync, writeFileSync } from "node:fs"
-import { compositionFor } from "akasha/seat-system/compose-boot/compose-boot.module.code.ts"
+import { compositionFor } from "akasha/agents/seats/modules/compose-boot/compose-boot.module.code.ts"
 
 const LOG = "[boot-prompt]"
 
