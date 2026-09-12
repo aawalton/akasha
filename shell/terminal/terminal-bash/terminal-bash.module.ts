@@ -39,5 +39,10 @@ export const terminalBash = {
       invariantKind: "absence",
       statement: "Nothing here reads a page or the disk.",
     },
+    {
+      invariantKind: "gap",
+      statement:
+        "The `gp` alias reaches akasha on PATH where every launcher reaches the checkout's own.",
+    },
   ],
 } as const satisfies Module
