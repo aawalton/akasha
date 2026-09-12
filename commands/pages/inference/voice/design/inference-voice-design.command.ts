@@ -6,6 +6,7 @@ export const inferenceVoiceDesign = {
   slug: "inference-voice-design",
   definition: "the command speaking text in a voice made up from a description of it",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
