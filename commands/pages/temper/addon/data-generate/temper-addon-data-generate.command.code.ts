@@ -7,14 +7,16 @@ import {
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import {
+  EquipmentMappingsStale,
+  generateAddonData,
+} from "akasha/temper/addon-data/generate-addon-data/generate-addon-data.module.code.ts"
 import { valuesOf } from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const CODE_ROOT_FLAG = "--code-root"
 
 const CODE_ROOT_ENV = "CODE_ROOT"
-
-const GENERATORS = "@akasha/temper-addon-data/generate-addon-data"
 
 export async function temperAddonDataGenerate(argv: readonly string[] = []): Promise<Answer> {
   const named = valuesOf(argv, CODE_ROOT_FLAG)[0]
@@ -31,7 +33,6 @@ export async function temperAddonDataGenerate(argv: readonly string[] = []): Pro
 
   process.env[CODE_ROOT_ENV] = root
 
-  const { generateAddonData, EquipmentMappingsStale } = await import(GENERATORS)
   try {
     await generateAddonData()
   } catch (thrown) {
