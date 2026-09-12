@@ -9,7 +9,12 @@ export const read = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  parts: ["module/differing", "module/output-reaching", "module/body-owing"],
+  parts: [
+    "module/differing",
+    "module/output-reaching",
+    "module/body-owing",
+    "module/long-answering",
+  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -77,14 +82,6 @@ export const read = {
       statement: "A run of lines begins after the line the record has as read.",
     },
 
-    {
-      invariantKind: "departure",
-      statement: "A run of lines short of the last line is recorded as how far the body reached.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A body reaching its last line is recorded as a body read whole.",
-    },
     {
       invariantKind: "departure",
       statement: "A body recorded as read in part is a body no record shows the agent read.",
