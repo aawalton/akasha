@@ -11,7 +11,7 @@ export const athenaCommandModules = {
     {
       statement: "One function builds a command's refusal.",
       workingMemory:
-        "`answeredWith` and `refused` now live in `command-answering` beside `told` and `refusedBy`, `f53e46065ac` over 30 files and `78fc257556d` over 81, and `index refresh` builds its answer rather than writing it out. What is left is a sweep: 152 records still written out longhand over 62 files, 83 report-only, 32 refusal-only, 37 mixed. They exist because `calling` drags 93 modules and `command-answering` drags 3, so the builder people needed most sat behind the heavier edge.\n",
+        "`answeredWith` and `refused` now live in `command-answering` beside `told` and `refusedBy`, so the 31x import edge that bred 198 hand-spelled records is gone and `calling` exports neither. 126 records are still longhand over 53 files, 63 report-only, 27 refusal-only, 36 mixed. Two modules outside `commands` grew rival builders rather than importing: `inventory-rule-calling` exports its own `told` and `toldOf`, and `workload-applying` has a duplicate `Applied` type its five sit under.\n",
     },
     {
       statement:
