@@ -17,7 +17,7 @@ export const athenaCommandModules = {
       statement:
         "A command that wrote before it threw says in its refusal what that command wrote.",
       workingMemory:
-        "Every case found is closed: deploy names what reached a machine (`9bafe896a32`), `inference segment` names each file as it writes (`0f5b19cfaf4`), and `akasha index refresh` names its finished stages and the file in hand (`0f1f8e961e6`, `81b7ea09c75`, `ff2ffe9a34e`), drawn live against a scratch repository. `answering` hands every command a list 46 others could fill. A sweep is running for any command that writes before it throws and says nothing.",
+        "A sweep judged 107 of 236 command files; 129 sit in trees other agents hold. Five more closed: `13b1718154d`, `0325a25180b`, `6d097655122`, `b81c4b70f20`, `5bc76cec3cb`. 38 still write before they throw and name nothing, and two refuse with a falsehood: `applying.module.code.ts:205` says `nothing was committed` after the commit landed, and `audit-answering` says `nothing was judged` after the service judged. Both are shared-module mends, in hand.",
     },
     {
       statement: "A refusal's exit code says what kind of thing went wrong.",
