@@ -2,6 +2,12 @@ import { join } from "node:path"
 import { getRecentlyPlayed } from "akasha/alan/music/spotify/player/spotify-player.module.code.ts"
 import type { Asking as Asked } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import {
+  DATA,
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { textAt } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -26,12 +32,6 @@ import {
 import { composedFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
 import { textIn, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
-
-const INPUT = 1
-
-const DATA = 2
-
-const OPERATIONAL = 3
 
 const DAY = "day"
 
@@ -58,8 +58,6 @@ const JSON_SAID = "--json"
 const BARE = [DRY_RUN_SAID, JSON_SAID]
 
 const NOTHING_NEW = "nothing was played that is not already filed, so nothing landed"
-
-const WRONG = 3
 
 const NOTHING_WRITTEN = `nothing was written — ${DRY_RUN_SAID}`
 
@@ -436,20 +434,20 @@ export async function capturing(
     return {
       report: held.json ? [jsonOf(planned)] : [...rowsOf(planned), NOTHING_NEW],
       refusals: [],
-      code: 0,
+      code: OK,
     }
   }
   const changes = changesFor(given.root, filed.heardPage, planned)
   if ("refused" in changes) return refused(changes.refused, DATA)
   if (held.dryRun) {
     const said = [...wouldWrite(changes), NOTHING_WRITTEN]
-    return answering(held.json ? [jsonOf(planned)] : [...rowsOf(planned), ...said], [], 0)
+    return answering(held.json ? [jsonOf(planned)] : [...rowsOf(planned), ...said], [], OK)
   }
   const landed = await landing(given.root, changes, messageFor(planned))
   const wrote = "refusals" in landed ? [] : landed.landed.map((one) => `wrote ${one}`)
   const wrong = "refusals" in landed ? landed.refusals : landed.wrong
-  if (wrong.length > 0) return answering(wrote, wrong, WRONG)
-  return answering(held.json ? [jsonOf(planned)] : [...rowsOf(planned), ...wrote], [], 0)
+  if (wrong.length > 0) return answering(wrote, wrong, OPERATIONAL)
+  return answering(held.json ? [jsonOf(planned)] : [...rowsOf(planned), ...wrote], [], OK)
 }
 
 export function musicCapture(argv: readonly string[], given: Given): Promise<Answer> {
