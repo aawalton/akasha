@@ -1,12 +1,4 @@
 import { targetArmor } from "akasha/temper/character-sources/target-armors/target-armors.module.code.ts"
-import {
-  accumulateDamageBuffDelta,
-  getCritChancePercent,
-} from "akasha/temper/companions-core/companion-support-buff-math/companion-support-buff-math.module.code.ts"
-import {
-  EMPTY_BASELINE,
-  type ReferenceBaseline,
-} from "akasha/temper/companions-core/companion-support-types/companion-support-types.module.code.ts"
 import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import {
   COMPANION_METRIC_IDS,
@@ -15,6 +7,14 @@ import {
 import type { CompanionEffect } from "akasha/temper/companions-core/modules/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
 import { companionSkills } from "akasha/temper/companions-core/modules/companion-skills/companion-skills.module.code.ts"
 import { calculateCompanionStatsWithBaseline } from "akasha/temper/companions-core/modules/companion-stats-calculator-impl/companion-stats-calculator-impl.module.code.ts"
+import {
+  accumulateDamageBuffDelta,
+  getCritChancePercent,
+} from "akasha/temper/companions-core/modules/companion-support-buff-math/companion-support-buff-math.module.code.ts"
+import {
+  EMPTY_BASELINE,
+  type ReferenceBaseline,
+} from "akasha/temper/companions-core/modules/companion-support-types/companion-support-types.module.code.ts"
 
 export function computeReferenceBaseline(build: CompanionState): ReferenceBaseline {
   const result = calculateCompanionStatsWithBaseline(build, EMPTY_BASELINE)
