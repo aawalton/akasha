@@ -8,5 +8,4 @@ export const agent = {
   takes: "an agent to answer for, said once per agent",
   value: "text",
   placeholder: "agent id",
-  repeats: true,
 } as const satisfies Argument

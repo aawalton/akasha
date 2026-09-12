@@ -90,7 +90,7 @@ export const agentTurnColorList = {
   ],
   name: "turn-color-list",
   arguments: [
-    { argument: "argument/agent", saidAs: "word", notWith: ["argument/turn-state"] },
     { argument: "argument/turn-state", notWith: ["argument/agent"] },
+    { argument: "argument/agent", repeats: true, saidAs: "word", notWith: ["argument/turn-state"] },
   ],
 } as const satisfies Command
