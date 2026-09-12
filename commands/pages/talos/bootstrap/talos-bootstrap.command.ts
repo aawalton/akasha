@@ -6,7 +6,6 @@ export const talosBootstrap = {
   slug: "talos-bootstrap",
   definition: "the command starting etcd on one Talos control-plane node",
   code: "ts",
-  changeKind: "change-mechanical",
   taking: [
     { said: "--ip <ip>", takes: "the address of the control-plane node etcd is started on" },
     {

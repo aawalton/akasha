@@ -8,7 +8,6 @@ export const seatComposeNotices = {
     "the command answering what a seat is told when it is put back to work, as one JSON object",
   code: "ts",
   test: "ts",
-  changeKind: "change-mechanical",
   taking: [{ said: "--out <path>", takes: "a file to write into, rather than saying it" }],
   helpNotes: [],
   invariants: [

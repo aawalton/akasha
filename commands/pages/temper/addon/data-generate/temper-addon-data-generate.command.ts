@@ -6,7 +6,6 @@ export const temperAddonDataGenerate = {
   slug: "temper-addon-data-generate",
   definition: "the command writing the addon data files from the pages with their source",
   code: "ts",
-  changeKind: "change-mechanical",
   taking: [
     {
       said: "--code-root <path>",

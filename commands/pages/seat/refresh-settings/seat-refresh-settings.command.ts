@@ -7,7 +7,6 @@ export const seatRefreshSettings = {
   definition:
     "the command rewriting each running seat's settings file from the document as it now is",
   code: "ts",
-  changeKind: "change-mechanical",
   taking: [{ said: "--json", takes: "give the rows as JSON rather than as tab-separated lines" }],
   invariants: [
     {

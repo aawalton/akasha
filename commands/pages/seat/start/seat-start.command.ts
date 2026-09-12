@@ -6,7 +6,6 @@ export const seatStart = {
   slug: "seat-start",
   definition: "the command composing a fresh seat from the slots named after it",
   code: "ts",
-  changeKind: "change-mechanical",
   invariants: [
     {
       invariantKind: "departure",

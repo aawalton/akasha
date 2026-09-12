@@ -6,7 +6,6 @@ export const talosKubeconfig = {
   slug: "talos-kubeconfig",
   definition: "the command fetching a Talos cluster's kubeconfig onto the workstation",
   code: "ts",
-  changeKind: "change-mechanical",
   taking: [
     {
       said: "--ip <ip>",

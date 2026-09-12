@@ -7,7 +7,6 @@ export const seatResume = {
   definition: "the command putting a seat back on the session that seat was bound to",
   code: "ts",
   test: "ts",
-  changeKind: "change-mechanical",
   taking: [
     { said: "<name>", takes: "the seat to resume, named as that seat's page is named" },
     {

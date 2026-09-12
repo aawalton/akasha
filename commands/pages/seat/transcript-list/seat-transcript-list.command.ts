@@ -7,7 +7,6 @@ export const seatTranscriptList = {
   definition: "the command saying where each seat's transcript file is",
   code: "ts",
   test: "ts",
-  changeKind: "change-none",
   taking: [],
   helpNotes: [
     "it takes no word at all, and every word it is given is refused.",

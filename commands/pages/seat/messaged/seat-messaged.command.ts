@@ -7,7 +7,6 @@ export const seatMessaged = {
   definition: "the command counting a message Alan wrote to the persona at a seat",
   code: "ts",
   test: "ts",
-  changeKind: "change-mechanical",
   taking: [{ said: "<name>", takes: "the seat Alan wrote to" }],
   invariants: [
     {
