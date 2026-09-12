@@ -3,7 +3,7 @@ import {
   formatEnemyType,
   formatStatusType,
   formatWeaponType,
-} from "akasha/temper/companions-core/companion-effect-formatters/companion-effect-formatters.module.code.ts"
+} from "akasha/temper/companions-core/modules/companion-effect-formatters/companion-effect-formatters.module.code.ts"
 import type { EffectCondition } from "akasha/temper/skill-kinds/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 import type { BadgeVariant } from "akasha/temper/web/effect-badge-types/effect-badge-types.module.code.ts"
 

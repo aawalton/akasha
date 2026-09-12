@@ -1,9 +1,9 @@
-import type { CompanionEffectSource } from "akasha/temper/companions-core/companion-effect-sources/companion-effect-sources.module.code.ts"
 import type {
   CompanionScalingMetricId,
   CompanionValueFormula,
 } from "akasha/temper/companions-core/companion-value-formula/companion-value-formula.module.code.ts"
 import { badTruncate } from "akasha/temper/companions-core/modules/bad-truncate/bad-truncate.module.code.ts"
+import type { CompanionEffectSource } from "akasha/temper/companions-core/modules/companion-effect-sources/companion-effect-sources.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 const EQUIPMENT_CATEGORIES = new Set(["companion-armor", "companion-jewelry", "companion-weapons"])

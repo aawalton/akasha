@@ -2,7 +2,7 @@ import "akasha/temper/eso-types/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-enums-08/eso-enums-08.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-enums-11/eso-enums-11.type-declaration.d.ts"
 
-import type { CompanionEquipmentCatalogData } from "akasha/temper/capture-shapes/companion-equipment-catalog/companion-equipment-catalog.module.code.ts"
+import type { CompanionEquipmentCatalogData } from "akasha/temper/capture-shapes/modules/companion-equipment-catalog/companion-equipment-catalog.module.code.ts"
 import { registerCatalogDomain } from "akasha/temper/catalog-core/domain-registry/domain-registry.module.code.ts"
 import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 

@@ -13,7 +13,6 @@ import {
 } from "akasha/design/interfaces/primitives/select-control/select-control.module.code.tsx"
 import { groupByCount } from "akasha/temper/build-support/row-grouping/row-grouping.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
-import { getCompanionWeaponIcon } from "akasha/temper/companions-core/companion-equipment-icons/companion-equipment-icons.module.code.ts"
 import type { CompanionEquipmentQualityId } from "akasha/temper/companions-core/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 import { companionEquipmentQualities } from "akasha/temper/companions-core/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 import { AVAILABLE_QUALITY_OPTIONS } from "akasha/temper/companions-core/companion-equipment-quality-rules/companion-equipment-quality-rules.module.code.ts"
@@ -27,13 +26,14 @@ import {
   companionWeaponSlots,
 } from "akasha/temper/companions-core/companion-weapon-slots/companion-weapon-slots.module.code.ts"
 import { companionWeaponTypes } from "akasha/temper/companions-core/companion-weapon-types/companion-weapon-types.module.code.ts"
+import { getCompanionWeaponIcon } from "akasha/temper/companions-core/modules/companion-equipment-icons/companion-equipment-icons.module.code.ts"
 import {
   getQualityClassName,
   getQualityVariant,
 } from "akasha/temper/companions-ui/companion-quality-rules/companion-quality-rules.module.code.ts"
 import { weaponSlots } from "akasha/temper/equipment-kinds/weapon-slots/weapon-slots.module.code.ts"
-import type { CompanionEquipmentPanelProps } from "akasha/temper/web/companion-equipment-panel-types/companion-equipment-panel-types.module.code.ts"
 import { BulkEditTag } from "akasha/temper/web/modules/companion-bulk-edit-tag/companion-bulk-edit-tag.module.code.tsx"
+import type { CompanionEquipmentPanelProps } from "akasha/temper/web/modules/companion-equipment-panel-types/companion-equipment-panel-types.module.code.ts"
 import { useMemo } from "react"
 
 export function CompanionWeaponBarPanelCard({

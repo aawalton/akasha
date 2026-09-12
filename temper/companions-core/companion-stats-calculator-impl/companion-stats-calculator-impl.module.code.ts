@@ -1,13 +1,5 @@
 import { targetArmor } from "akasha/temper/character-sources/target-armors/target-armors.module.code.ts"
 import {
-  type CompanionEffectSource,
-  extractArmorSources,
-  extractJewelrySources,
-  extractSkillSources,
-  extractTargetSource,
-  extractWeaponSources,
-} from "akasha/temper/companions-core/companion-effect-sources/companion-effect-sources.module.code.ts"
-import {
   evaluateFormula,
   extractMetricReferences,
   sumEffects,
@@ -29,6 +21,14 @@ import type { ReferenceBaseline } from "akasha/temper/companions-core/companion-
 import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import { DEFAULT_COMPANION_ROTATION_CONFIG } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import { companionBase } from "akasha/temper/companions-core/companions-base-source/companions-base-source.module.code.ts"
+import {
+  type CompanionEffectSource,
+  extractArmorSources,
+  extractJewelrySources,
+  extractSkillSources,
+  extractTargetSource,
+  extractWeaponSources,
+} from "akasha/temper/companions-core/modules/companion-effect-sources/companion-effect-sources.module.code.ts"
 import { calculateRatingSurplus } from "akasha/temper/formula-framework/rating-chance/rating-chance.module.code.ts"
 import { topologicalSort } from "akasha/temper/formula-framework/topological-sort/topological-sort.module.code.ts"
 
