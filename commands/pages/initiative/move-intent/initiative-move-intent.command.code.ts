@@ -1,13 +1,13 @@
 import { resolve } from "node:path"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
+  answering,
   DATA,
-  OPERATIONAL,
+  keeping,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { initiativesDrawn } from "akasha/domains/modules/work-initiatives/work-initiatives.module.code.ts"
 
@@ -65,7 +65,13 @@ export function saidFor(asked: Asked, commit: string | null): readonly string[] 
   return commit === null ? [moved] : [moved, commit]
 }
 
-async function carried(root: string, at: string, asked: Asked, given: Given): Promise<Answer> {
+async function placed(
+  done: string[],
+  root: string,
+  at: string,
+  asked: Asked,
+  given: Given
+): Promise<Answer> {
   const landed = await runMechanicalChange(
     root,
     [
@@ -76,21 +82,31 @@ async function carried(root: string, at: string, asked: Asked, given: Given): Pr
     ],
     messageFor(asked),
     given.agentId,
-    { writer: given.writer }
+    { writer: given.writer, done }
   )
-  if ("refusals" in landed) return refusedBy([...landed.refusals], DATA)
+  if ("refusals" in landed) return keeping(done, refusedBy([...landed.refusals], DATA))
   return told([...saidFor(asked, landed.commit)])
+}
+
+export type Carrying = (done: string[], asked: Asked, given: Given) => Promise<Answer>
+
+async function carried(done: string[], asked: Asked, given: Given): Promise<Answer> {
+  const root = resolve(given.root)
+  const one = initiativesDrawn(root).find((each) => each.slug === asked.slug)
+  if (one === undefined) return mistaking([noInitiative(asked.slug)])
+  return await placed(done, root, one.path, asked, given)
+}
+
+export async function carriedBy(
+  asked: Asked,
+  given: Given,
+  carrying: Carrying = carried
+): Promise<Answer> {
+  return await answering(async (done) => await carrying(done, asked, given))
 }
 
 export async function initiativeMoveIntent(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) return mistaking([...read.refused])
-  try {
-    const root = resolve(given.root)
-    const one = initiativesDrawn(root).find((each) => each.slug === read.slug)
-    if (one === undefined) return mistaking([noInitiative(read.slug)])
-    return await carried(root, one.path, read, given)
-  } catch (thrown) {
-    return refusedBy([whyOf(thrown)], OPERATIONAL)
-  }
+  return await carriedBy(read, given)
 }

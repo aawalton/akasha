@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
+import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
+  carriedBy,
   messageFor,
   noInitiative,
   readIn,
@@ -85,4 +89,43 @@ test("a run landing no commit says what moved alone", () => {
   expect(saidFor(ASKED, null)).toEqual([
     "held: the intent `A thing is so.` now sits where `Another thing is so.` did",
   ])
+})
+
+const GIVEN: Given = {
+  root: "/nowhere",
+  calledAs: "akasha initiative move-intent",
+  from: "/nowhere",
+  writer: null,
+  agentId: null,
+}
+
+const WOULD_NOT = new Error("the value would not be carried onto the place named")
+
+test("a run that landed the move and then threw says that commit", async () => {
+  const said = await carriedBy(ASKED, GIVEN, throwingAfter(["abc123"], WOULD_NOT))
+
+  expect(said.report).toEqual(["abc123"])
+  expect(said.refusals.at(-1)).toBe(
+    "this stopped part way. What it had done by then is this: abc123. Nothing after that ran."
+  )
+  expect(said.code).toBe(OPERATIONAL)
+})
+
+test("a run throwing with nothing moved says why it threw and no more", async () => {
+  const said = await carriedBy(ASKED, GIVEN, throwingAfter([], WOULD_NOT))
+
+  expect(said.report).toEqual([])
+  expect(said.refusals[0]).toContain("the value would not be carried onto the place named")
+  expect(said.refusals.some((one) => one.startsWith("this stopped part way"))).toBe(false)
+})
+
+test("a run that wrote twice names each write where it happened", async () => {
+  const wrote = ["the intent was carried onto `Another thing is so.`", "abc123"]
+  const said = await carriedBy(ASKED, GIVEN, throwingAfter(wrote, WOULD_NOT))
+
+  expect(said.report).toEqual(wrote)
+  expect(said.refusals.at(-1)).toBe(
+    "this stopped part way. What it had done by then is this: " +
+      "the intent was carried onto `Another thing is so.`; abc123. Nothing after that ran."
+  )
 })
