@@ -1,3 +1,8 @@
+import {
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { listDeployables } from "akasha/temper/addons-resolve/deployable-addons/deployable-addons.module.code.ts"
@@ -8,10 +13,6 @@ import {
 import { installNamedAddon } from "akasha/temper/community-addons/install-named-addon/install-named-addon.module.code.ts"
 import { addonsDir } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
-
-const SAID_WRONG = 1
-
-const FAILED = 3
 
 const FORCE_FLAG = "--force"
 
@@ -30,13 +31,13 @@ export async function temperCommunityAddonInstall(argv: readonly string[] = []):
   if (names.length === 0) {
     return refused(
       "nothing here names the community addon installed, so there is no name to reach one by",
-      SAID_WRONG
+      INPUT
     )
   }
   if (names.length > 1) {
     return refused(
       `an install names one addon, and ${names.join(", ")} names ${String(names.length)}`,
-      SAID_WRONG
+      INPUT
     )
   }
 
@@ -55,14 +56,14 @@ export async function temperCommunityAddonInstall(argv: readonly string[] = []):
       ownedNames: owned,
     })
   } catch (thrown) {
-    return refused(`${name} was not installed: ${messageOf(thrown)}`, FAILED)
+    return refused(`${name} was not installed: ${messageOf(thrown)}`, OPERATIONAL)
   }
 
   if (argv.includes(JSON_FLAG)) {
     return {
       report: JSON.stringify({ name, addonsDir: addonsPath, ...outcome }, null, SPACES).split("\n"),
       refusals: [],
-      code: 0,
+      code: OK,
     }
   }
 
@@ -73,7 +74,7 @@ export async function temperCommunityAddonInstall(argv: readonly string[] = []):
         `every folder it installs is already there, and ${FORCE_FLAG} installs it again`,
       ],
       refusals: [],
-      code: 0,
+      code: OK,
     }
   }
 
@@ -83,6 +84,6 @@ export async function temperCommunityAddonInstall(argv: readonly string[] = []):
       `${String(outcome.dirs.length)} folder(s) into ${addonsPath}, unmanaged, so nothing keeps it up to date`,
     ],
     refusals: [],
-    code: 0,
+    code: OK,
   }
 }
