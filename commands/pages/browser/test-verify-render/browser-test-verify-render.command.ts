@@ -40,19 +40,24 @@ export const browserTestVerifyRender = {
     { said: "--as-throwaway", takes: "look as the throwaway user rather than the live one" },
     { said: "--json", takes: "give the verdict as JSON rather than as lines" },
   ],
-  helpNotes: [
-    "a run without a discriminating assertion is refused, since an empty render answers every question a blank page answers.",
-    "a discriminating assertion is --expect-text, or a count selector with its count, or an attribute selector with its attribute and value.",
-    "localhost is refused: a session cookie issued there is not sent to a deployed origin.",
-    "the identity is Alan's live one unless --no-sign-in or --as-throwaway says otherwise, and it is only ever read.",
-    "a wait that ran out turns what would have been a failure into an indeterminate.",
-    "a sign-in that ran out before the render was seen is an indeterminate rather than a failure.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
       statement:
         "A render nothing discriminating was asserted over is refused before the browser opens.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`--expect-text` alone is a discriminating assertion.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A count selector with its count is a discriminating assertion.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An attribute selector with its attribute and value is a discriminating assertion.",
     },
     {
       invariantKind: "departure",
