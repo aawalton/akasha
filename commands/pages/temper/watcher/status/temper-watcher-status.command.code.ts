@@ -1,10 +1,9 @@
-import {
-  asJson,
-  INPUT,
-  refused,
-  told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { asJson, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { temperWatcherStatus as page } from "akasha/commands/pages/temper/watcher/status/temper-watcher-status.command.ts"
 import {
   readState,
   workerLogPath,
@@ -14,7 +13,7 @@ import {
   unitMainPid,
 } from "akasha/temper/watcher/watcher-unit/watcher-unit.module.code.ts"
 
-const JSON_SAID = "--json"
+const NAMED = [json]
 
 function upSeconds(startedAt: string): number | null {
   const began = Date.parse(startedAt)
@@ -23,15 +22,13 @@ function upSeconds(startedAt: string): number | null {
 }
 
 export function temperWatcherStatus(argv: readonly string[], given: Given): Answer {
-  const strange = argv.find((one) => one !== JSON_SAID)
-  if (strange !== undefined) {
-    return refused(`\`${strange}\` is nothing \`${given.calledAs}\` takes`, INPUT)
-  }
+  const read = takenFor(argv, given.calledAs, page, NAMED)
+  if ("refused" in read) return mistaking(read.refused)
   const running = isUnitActive()
   const startedAt = running ? (readState()?.startedAt ?? null) : null
   const up = startedAt === null ? null : upSeconds(startedAt)
 
-  if (argv.includes(JSON_SAID)) {
+  if (read.taken.json) {
     const said = running
       ? {
           status: "running",
