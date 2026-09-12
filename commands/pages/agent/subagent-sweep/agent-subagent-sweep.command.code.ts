@@ -20,6 +20,7 @@ import {
   naming,
   OPERATIONAL,
   refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { agentSubagentSweep as page } from "akasha/commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.ts"
@@ -241,7 +242,7 @@ async function taking(
     root,
     stale.map((one) => one.page.path)
   )
-  return answeredWith(done, [], 0)
+  return told(done)
 }
 
 export async function agentSubagentSweep(
@@ -268,15 +269,11 @@ export async function agentSubagentSweep(
   const kept = keptSaid(left)
   if (!read.taken.remove) {
     const loose = pagelessSaid(pagelessAmong(pages, own.running))
-    return answeredWith(
-      [...census, ...kept, ...loose, ...heldBack(given.calledAs, going.length)],
-      [],
-      0
-    )
+    return told([...census, ...kept, ...loose, ...heldBack(given.calledAs, going.length)])
   }
   if (going.length === 0) {
     const why = left.length === 0 ? NOTHING_STALE : ALL_KEPT
-    return answeredWith([...census, ...kept, "", why], [], 0)
+    return told([...census, ...kept, "", why])
   }
   const gone = await answering(async (done) =>
     naming(done, await taking(root, going, landing, done))
