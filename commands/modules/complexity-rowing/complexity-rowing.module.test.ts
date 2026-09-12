@@ -44,11 +44,11 @@ test("a count that is no whole number is refused, naming what was said", () => {
 })
 
 test("a command taking no file refuses one, naming the flags it does take", () => {
-  const read = readIn(["--file", "tools/one.ts"], ROLLED)
+  const read = readIn(["--file-path", "tools/one.ts"], ROLLED)
 
   expect("refused" in read).toBe(true)
   if (!("refused" in read)) return
-  expect(read.refused[0]).toContain("--file")
+  expect(read.refused[0]).toContain("--file-path")
 })
 
 test("a command taking no threshold refuses one", () => {
@@ -60,7 +60,7 @@ test("a command taking no threshold refuses one", () => {
 })
 
 test("what was said is read into the flags", () => {
-  const read = readIn(["--file", "a.ts", "--threshold", "40", "--top", "3", "--json"], EVERY)
+  const read = readIn(["--file-path", "a.ts", "--threshold", "40", "--top", "3", "--json"], EVERY)
 
   expect("refused" in read).toBe(false)
   if ("refused" in read) return
@@ -68,35 +68,35 @@ test("what was said is read into the flags", () => {
 })
 
 test("a run over one file answers a row for each of its functions", () => {
-  const said = rows(["--file", OWN])
+  const said = rows(["--file-path", OWN])
 
   expect(said.length).toBeGreaterThan(0)
   expect(said[0]).toContain("\t")
 })
 
 test("rows are ordered worst first, so the highest complexity leads", () => {
-  const cc = rows(["--file", OWN]).map((one) => Number(one.split("\t")[3]))
+  const cc = rows(["--file-path", OWN]).map((one) => Number(one.split("\t")[3]))
 
   expect(cc).toEqual([...cc].sort((a, b) => b - a))
 })
 
 test("a threshold no row reaches answers empty rather than refusing", () => {
-  expect(rows(["--file", OWN, "--threshold", "100000"])).toEqual([])
+  expect(rows(["--file-path", OWN, "--threshold", "100000"])).toEqual([])
 })
 
 test("the top keeps that many rows", () => {
-  expect(rows(["--file", OWN, "--top", "2"]).length).toBe(2)
+  expect(rows(["--file-path", OWN, "--top", "2"]).length).toBe(2)
 })
 
 test("the json answer is one line", () => {
-  const said = rows(["--file", OWN, "--json"])
+  const said = rows(["--file-path", OWN, "--json"])
 
   expect(said.length).toBe(1)
   expect(String(said[0]).startsWith('{"rows":')).toBe(true)
 })
 
 test("a file that will not open is gone by rather than refused", () => {
-  expect(rows(["--file", "/nowhere/at/all.ts"])).toEqual([])
+  expect(rows(["--file-path", "/nowhere/at/all.ts"])).toEqual([])
 })
 
 test("a summary over nothing counts nothing rather than throwing", () => {

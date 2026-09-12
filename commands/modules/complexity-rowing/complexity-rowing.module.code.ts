@@ -12,7 +12,7 @@ import {
 } from "akasha/infrastructure/analysis-complexity/complexity-rows/complexity-rows.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
-export const FILE = "--file"
+export const FILE = "--file-path"
 
 export const THRESHOLD = "--threshold"
 

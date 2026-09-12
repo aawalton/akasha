@@ -9,7 +9,7 @@ export const measureComplexityMaintainability = {
   code: "ts",
   changeKind: "change-none",
   taking: [
-    { said: "--file <path>", takes: "the one file to read, said from the repository root" },
+    { said: "--file-path <path>", takes: "the one file to read, said from the repository root" },
     { said: "--threshold <n>", takes: "the index a row must be at or under to be in the answer" },
     { said: "--top <n>", takes: "how many rows are in the answer, worst first" },
     { said: "--json", takes: "the rows as one line of JSON rather than as tab-separated columns" },
