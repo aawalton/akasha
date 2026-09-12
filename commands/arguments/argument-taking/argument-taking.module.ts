@@ -68,12 +68,24 @@ export const argumentTaking = {
       statement: "Nothing here prints.",
     },
     {
-      invariantKind: "gap",
-      statement: "A word that is no flag is an argument a command names for that word.",
+      invariantKind: "departure",
+      statement: "A word that is no flag fills the argument the command takes as a word.",
     },
     {
-      invariantKind: "gap",
-      statement: "Two arguments one call may not say together are refused together.",
+      invariantKind: "departure",
+      statement: "A word spelled as a flag is refused rather than filling an argument.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An argument said as a word and at its flag in one call is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Two arguments one call may not say together are refused where a call says both.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A pair both entries state is refused once.",
     },
   ],
 } as const satisfies Module

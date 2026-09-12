@@ -1,7 +1,12 @@
 import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 
-export type Naming = { readonly argument: Argument; readonly required?: boolean }
+export type Naming = {
+  readonly argument: Argument
+  readonly required?: boolean
+  readonly saidAsAWord?: boolean
+  readonly notWith?: readonly Argument[]
+}
 
 export type Value = string | number | boolean | readonly (string | number)[]
 
@@ -37,65 +42,103 @@ function unknown(word: string, calledAs: string, every: readonly string[]): stri
     : `\`${word}\` is no argument \`${calledAs}\` takes — it takes \`${every.join("`, `")}\``
 }
 
+function saidAgain(said: string, byWord: boolean, wasWord: boolean): string {
+  return byWord === wasWord
+    ? `\`${said}\` is said twice, and one call says it once`
+    : `\`${said}\` is said as a word and at its flag, and one call says it one way`
+}
+
+type Filling = {
+  readonly taken: Record<string, Value>
+  readonly heard: Set<string>
+  readonly asWord: Set<string>
+  readonly refusals: string[]
+}
+
+function filling(state: Filling, argument: Argument, value: string, byWord: boolean): undefined {
+  const why = whyRefused(argument, value)
+  if (why !== null) {
+    state.refusals.push(why)
+    return
+  }
+  const said = argument.said
+  const key = exportedAs(argument.slug)
+  if (argument.repeats === true) {
+    const before = (state.taken[key] ?? []) as readonly (string | number)[]
+    state.taken[key] = [...before, heldOf(argument, value) as string | number]
+  } else if (state.heard.has(said)) {
+    state.refusals.push(saidAgain(said, byWord, state.asWord.has(said)))
+    return
+  } else {
+    state.taken[key] = heldOf(argument, value)
+  }
+  state.heard.add(said)
+  if (byWord) state.asWord.add(said)
+}
+
+function fighting(state: Filling, naming: readonly Naming[]): undefined {
+  const paired = new Set<string>()
+  for (const one of naming) {
+    const said = one.argument.said
+    if (!state.heard.has(said)) continue
+    for (const other of one.notWith ?? []) {
+      if (!state.heard.has(other.said)) continue
+      const pair = [said, other.said].sort().join(" ")
+      if (paired.has(pair)) continue
+      paired.add(pair)
+      state.refusals.push(
+        `\`${said}\` and \`${other.said}\` are never said together, and this call says both`
+      )
+    }
+  }
+}
+
 export function takingIn(
   argv: readonly string[],
   calledAs: string,
   naming: readonly Naming[]
 ): Read {
-  const refusals: string[] = []
+  const state: Filling = { taken: {}, heard: new Set(), asWord: new Set(), refusals: [] }
   const bySaid = new Map(naming.map((one) => [one.argument.said, one]))
   const spellings = [...bySaid.keys()]
-  const taken: Record<string, Value> = {}
-  const heard = new Set<string>()
+  const forWords = naming.find((one) => one.saidAsAWord === true)
   for (let at = 0; at < argv.length; at += 1) {
     const word = argv[at]
     if (word === undefined) continue
     const held = bySaid.get(word)
     if (held === undefined) {
-      refusals.push(unknown(word, calledAs, spellings))
+      if (forWords === undefined || word.startsWith("--")) {
+        state.refusals.push(unknown(word, calledAs, spellings))
+        continue
+      }
+      filling(state, forWords.argument, word, true)
       continue
     }
     const argument = held.argument
-    const key = exportedAs(argument.slug)
     if (!carries(argument)) {
-      taken[key] = true
-      heard.add(word)
+      state.taken[exportedAs(argument.slug)] = true
+      state.heard.add(argument.said)
       continue
     }
     const next = argv[at + 1]
     if (next === undefined || bySaid.has(next)) {
-      refusals.push(`\`${word}\` takes a value, and none follows it`)
+      state.refusals.push(`\`${word}\` takes a value, and none follows it`)
       continue
     }
     at += 1
-    const why = whyRefused(argument, next)
-    if (why !== null) {
-      refusals.push(why)
-      continue
-    }
-    if (argument.repeats === true) {
-      const before = (taken[key] ?? []) as readonly (string | number)[]
-      taken[key] = [...before, heldOf(argument, next) as string | number]
-      heard.add(word)
-      continue
-    }
-    if (heard.has(word)) {
-      refusals.push(`\`${word}\` is said twice, and one call says it once`)
-      continue
-    }
-    taken[key] = heldOf(argument, next)
-    heard.add(word)
+    filling(state, argument, next, false)
   }
   for (const one of naming) {
-    if (one.required !== true || heard.has(one.argument.said)) continue
-    refusals.push(`\`${calledAs}\` takes \`${one.argument.said}\`, and nothing said it`)
+    if (one.required !== true || state.heard.has(one.argument.said)) continue
+    state.refusals.push(`\`${calledAs}\` takes \`${one.argument.said}\`, and nothing said it`)
   }
-  if (refusals.length > 0) return { refused: refusals }
+  fighting(state, naming)
+  if (state.refusals.length > 0) return { refused: state.refusals }
   for (const one of naming) {
     const key = exportedAs(one.argument.slug)
-    if (key in taken) continue
-    if (!carries(one.argument)) taken[key] = false
-    else if (one.argument.repeats === true) taken[key] = []
+    if (key in state.taken) continue
+    if (!carries(one.argument)) state.taken[key] = false
+    else if (one.argument.repeats === true) state.taken[key] = []
   }
-  return { taken }
+  return { taken: state.taken }
 }

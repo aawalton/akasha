@@ -26,6 +26,17 @@ const TO: Naming = { argument: argumentOf("to", "text", true) }
 
 const ACTIVE: Naming = { argument: argumentOf("active", "true-or-false") }
 
+const NODE: Naming = { argument: argumentOf("node", "text"), saidAsAWord: true }
+
+const VIDEO = argumentOf("video", "path")
+
+const FRAMES_DIR = argumentOf("frames-dir", "path")
+
+const ONE_OF_THEM: readonly Naming[] = [
+  { argument: VIDEO, notWith: [FRAMES_DIR] },
+  { argument: FRAMES_DIR },
+]
+
 function taken(argv: readonly string[], naming: readonly Naming[]): Taken {
   const read = takingIn(argv, "akasha thing", naming)
   if ("refused" in read) throw new Error(read.refused.join("; "))
@@ -113,5 +124,61 @@ test("every refusal a call earns is gathered rather than the first alone", () =>
   expect(refusals(["--nope", "--limit", "many"], [LIMIT])).toEqual([
     "`--nope` is no argument `akasha thing` takes — it takes `--limit`",
     "`--limit many` is no whole number of nought or more",
+  ])
+})
+
+test("a word that is no flag fills the argument the command takes as a word", () => {
+  expect(taken(["n1"], [NODE])).toEqual({ node: "n1" })
+})
+
+test("an argument taken as a word is taken at its flag too", () => {
+  expect(taken(["--node", "n1"], [NODE])).toEqual({ node: "n1" })
+})
+
+test("an argument said as a word and at its flag in one call is refused", () => {
+  expect(refusals(["n1", "--node", "n2"], [NODE])[0]).toBe(
+    "`--node` is said as a word and at its flag, and one call says it one way"
+  )
+})
+
+test("a second word is refused where that argument does not repeat", () => {
+  expect(refusals(["n1", "n2"], [NODE])[0]).toBe(
+    "`--node` is said twice, and one call says it once"
+  )
+})
+
+test("a word spelled as a flag is refused rather than filling an argument", () => {
+  expect(refusals(["--nope"], [NODE])[0]).toBe(
+    "`--nope` is no argument `akasha thing` takes — it takes `--node`"
+  )
+})
+
+test("a word fills an argument the command needs", () => {
+  expect(taken(["n1"], [{ ...NODE, required: true }])).toEqual({ node: "n1" })
+})
+
+test("a word is refused where the command takes no argument as a word", () => {
+  expect(refusals(["n1"], [LIMIT])[0]).toBe(
+    "`n1` is no argument `akasha thing` takes — it takes `--limit`"
+  )
+})
+
+test("two arguments one call may not say together are refused where a call says both", () => {
+  expect(refusals(["--video", "a.mp4", "--frames-dir", "frames"], ONE_OF_THEM)[0]).toBe(
+    "`--video` and `--frames-dir` are never said together, and this call says both"
+  )
+})
+
+test("two arguments one call may not say together are read where a call says one", () => {
+  expect(taken(["--video", "a.mp4"], ONE_OF_THEM)).toEqual({ video: "a.mp4" })
+})
+
+test("a pair both entries state is refused once", () => {
+  const each: readonly Naming[] = [
+    { argument: VIDEO, notWith: [FRAMES_DIR] },
+    { argument: FRAMES_DIR, notWith: [VIDEO] },
+  ]
+  expect(refusals(["--video", "a.mp4", "--frames-dir", "frames"], each)).toEqual([
+    "`--video` and `--frames-dir` are never said together, and this call says both",
   ])
 })
