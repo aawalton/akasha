@@ -7,9 +7,7 @@ export const seatSupervisorRestart = {
   definition: "the command restarting every seat's supervisor onto the code standing now",
   code: "ts",
   test: "ts",
-  taking: [
-    { said: "--all", takes: "every seat akasha carries, which is the only reach a restart has" },
-  ],
+  taking: [],
 
   invariants: [
     {
@@ -68,4 +66,5 @@ export const seatSupervisorRestart = {
     },
   ],
   name: "restart",
+  arguments: [{ argument: "argument/every-seat", required: true }],
 } as const satisfies Command
