@@ -36,6 +36,7 @@ export type Request = {
   readonly stdin: boolean
   readonly timeout?: number
   readonly cpuCeiling?: number
+  readonly memoryCeiling?: number
 }
 
 export type Answer = {
@@ -110,6 +111,7 @@ function requested(argv: readonly string[], asked: Asked): Request {
     stdin: asked.stdin !== undefined,
     ...(asked.timeout === undefined ? {} : { timeout: asked.timeout }),
     ...(asked.cpuCeiling === undefined ? {} : { cpuCeiling: asked.cpuCeiling }),
+    ...(asked.memoryCeiling === undefined ? {} : { memoryCeiling: asked.memoryCeiling }),
   }
 }
 
@@ -123,6 +125,7 @@ export function askedOf(head: Request, stdin: Uint8Array): Asked {
     ...(head.stdin ? { stdin } : {}),
     ...(head.timeout === undefined ? {} : { timeout: head.timeout }),
     ...(head.cpuCeiling === undefined ? {} : { cpuCeiling: head.cpuCeiling }),
+    ...(head.memoryCeiling === undefined ? {} : { memoryCeiling: head.memoryCeiling }),
   }
 }
 

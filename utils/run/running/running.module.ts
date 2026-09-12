@@ -137,6 +137,22 @@ export const running = {
     },
     {
       invariantKind: "departure",
+      statement: "A caller may give a process a ceiling in megabytes of memory.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A process at its memory ceiling is reclaimed and slowed rather than ended.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A memory ceiling is stated on the group before the run joins that group.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run given no memory ceiling is held to none.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every process run here runs in a control group made for that one run.",
     },
     {

@@ -194,6 +194,22 @@ test("a process given no ceiling runs to its own end", () => {
   expect(ran(["true"]).signal).toBeNull()
 })
 
+test("a process is given the memory ceiling its caller stated", () => {
+  const at = "/sys/fs/cgroup$(cut -d: -f3 /proc/self/cgroup)/memory.high"
+  expect(ran(["sh", "-c", `cat ${at}`], { memoryCeiling: 128 }).out.trim()).toBe("134217728")
+})
+
+test("a process given no memory ceiling is held to none", () => {
+  const at = "/sys/fs/cgroup$(cut -d: -f3 /proc/self/cgroup)/memory.high"
+  expect(ran(["sh", "-c", `cat ${at}`]).out.trim()).toBe("max")
+})
+
+test("a process past its memory ceiling runs to its end rather than being ended", () => {
+  const done = ran(["bun", "-e", "new Uint8Array(120e6).fill(1)"], { memoryCeiling: 64 })
+  expect(done.code).toBe(0)
+  expect(done.signal).toBeNull()
+})
+
 test("a process inside one given a ceiling states a ceiling above its own", () => {
   const at = `${import.meta.dir}/running.module.code.ts`
   const inner =

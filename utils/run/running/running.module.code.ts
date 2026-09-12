@@ -1,4 +1,12 @@
-import { accessSync, constants, mkdirSync, readdirSync, readFileSync, rmdirSync } from "node:fs"
+import {
+  accessSync,
+  constants,
+  mkdirSync,
+  readdirSync,
+  readFileSync,
+  rmdirSync,
+  writeFileSync,
+} from "node:fs"
 import { dirname, join } from "node:path"
 import { pidAliveOrAssumeAlive } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
 import {
@@ -27,6 +35,10 @@ const MEMORY = "memory"
 const STAT = "cpu.stat"
 
 const PEAK = "memory.peak"
+
+const HIGH = "memory.high"
+
+const MEGA = 1_048_576
 
 const USAGE = "usage_usec "
 
@@ -147,6 +159,12 @@ function spentAt(at: string): number | null {
   return null
 }
 
+function throttled(at: string, megabytes: number): undefined {
+  try {
+    writeFileSync(join(at, HIGH), String(Math.round(megabytes * MEGA)))
+  } catch {}
+}
+
 function peakAt(at: string): number | null {
   let text = ""
   try {
@@ -195,12 +213,15 @@ export type Asked = {
   readonly stdin?: Uint8Array
   readonly timeout?: number
   readonly cpuCeiling?: number
+  readonly memoryCeiling?: number
 }
 
 export function spawnedHere(argv: readonly string[], asked: Asked = {}): Held {
   const ceiling = asked.cpuCeiling
+  const held = asked.memoryCeiling
   const found = foundFor(argv, asked)
   const at = found === null ? null : budgetAt()
+  if (at !== null && held !== undefined) throttled(at, held)
   const watch =
     at === null || ceiling === undefined
       ? null
