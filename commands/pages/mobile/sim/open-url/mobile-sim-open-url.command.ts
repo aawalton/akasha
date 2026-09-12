@@ -31,6 +31,10 @@ export const mobileSimOpenUrl = {
     },
     {
       invariantKind: "departure",
+      statement: "An opening that threw part way names in its refusal what it had already done.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A call naming no simulator takes the session's own simulator or the first booted simulator.",
     },

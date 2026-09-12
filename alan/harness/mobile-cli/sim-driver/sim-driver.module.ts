@@ -29,5 +29,22 @@ export const simDriver = {
       invariantKind: "departure",
       statement: "The webview context is acquired a second time after the route is assigned.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Each thing an opening did is named as soon as that thing is done.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An opening that threw part way leaves those names for its caller to refuse with.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A session reused is named by nothing, since that session was already there.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The loading, the opening, the signing in, the scripting and the saving are handed in.",
+    },
   ],
 } as const satisfies Module

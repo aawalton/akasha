@@ -7,6 +7,7 @@ import {
   pickWebviewContext,
   setContext,
 } from "akasha/alan/harness/mobile-cli/appium-client/appium-client.module.code.ts"
+import type { MintedSession } from "akasha/alan/harness/mobile-cli/sim-auth/sim-auth.module.code.ts"
 import {
   mintRealUserSession,
   mintThrowawaySession,
@@ -78,29 +79,74 @@ export async function attachWebview(state: SimSessionState): Promise<SimSessionS
   return updated
 }
 
-export async function openSession(opts: {
-  readonly base: string
-  readonly udid: string
-  readonly bundleId: string
-  readonly route: string
-  readonly kbDebug: boolean
-  readonly asRealUser: boolean
-}): Promise<SimSessionState> {
+export type Opening = {
+  readonly loaded: () => SimSessionState | null
+  readonly live: (state: SimSessionState) => Promise<boolean>
+  readonly created: (base: string, capabilities: unknown) => Promise<string>
+  readonly dismissed: (base: string, sessionId: string) => Promise<unknown>
+  readonly acquired: (base: string, sessionId: string) => Promise<string>
+  readonly minted: (asRealUser: boolean) => Promise<MintedSession>
+  readonly scripted: (
+    base: string,
+    sessionId: string,
+    script: string,
+    args: readonly unknown[]
+  ) => Promise<unknown>
+  readonly saved: (state: SimSessionState) => undefined
+}
+
+export const OPENING: Opening = {
+  loaded: loadSessionState,
+  live: sessionStillLive,
+  created: createSession,
+  dismissed: dismissAlert,
+  acquired: acquireWebview,
+  minted: (asRealUser) =>
+    asRealUser
+      ? mintRealUserSession(readRealUserSimAuthEnv())
+      : mintThrowawaySession(readSimAuthEnv()),
+  scripted: executeScript,
+  saved: saveSessionState,
+}
+
+export function sessionSaid(sessionId: string): string {
+  return `opened the Appium session ${sessionId}, which nothing has written down yet`
+}
+
+export function signedInSaid(asRealUser: boolean): string {
+  const who = asRealUser ? "Alan, for reading only" : "the throwaway"
+  return `signed in as ${who}, so that sign-in is live`
+}
+
+export const STORED = "put that sign-in into the app's storage"
+
+export async function openSession(
+  opts: {
+    readonly base: string
+    readonly udid: string
+    readonly bundleId: string
+    readonly route: string
+    readonly kbDebug: boolean
+    readonly asRealUser: boolean
+  },
+  done: string[] = [],
+  opening: Opening = OPENING
+): Promise<SimSessionState> {
   const url = buildAppUrl(opts.route, opts.kbDebug)
 
-  const existing = loadSessionState()
+  const existing = opening.loaded()
   let sessionId: string
   let reused = false
   if (
     existing !== null &&
     existing.appiumBase === opts.base &&
     existing.udid === opts.udid &&
-    (await sessionStillLive(existing))
+    (await opening.live(existing))
   ) {
     sessionId = existing.sessionId
     reused = true
   } else {
-    sessionId = await createSession(
+    sessionId = await opening.created(
       opts.base,
       buildSimCapabilities(
         opts.udid,
@@ -108,25 +154,26 @@ export async function openSession(opts: {
         opts.bundleId
       )
     )
-    await dismissAlert(opts.base, sessionId)
+    done.push(sessionSaid(sessionId))
+    await opening.dismissed(opts.base, sessionId)
   }
 
-  await acquireWebview(opts.base, sessionId)
+  await opening.acquired(opts.base, sessionId)
 
-  const minted = opts.asRealUser
-    ? await mintRealUserSession(readRealUserSimAuthEnv())
-    : await mintThrowawaySession(readSimAuthEnv())
-  await executeScript(
+  const minted = await opening.minted(opts.asRealUser)
+  done.push(signedInSaid(opts.asRealUser))
+  await opening.scripted(
     opts.base,
     sessionId,
     "window.localStorage.setItem(arguments[0], arguments[1]); return true;",
     [SUPABASE_STORAGE_KEY, JSON.stringify(minted.session)]
   )
+  done.push(STORED)
   try {
-    await executeScript(opts.base, sessionId, "window.location.assign(arguments[0]);", [url])
+    await opening.scripted(opts.base, sessionId, "window.location.assign(arguments[0]);", [url])
   } catch {}
   await Bun.sleep(WEBVIEW_POLL_DELAY_MS)
-  const webview = await acquireWebview(opts.base, sessionId)
+  const webview = await opening.acquired(opts.base, sessionId)
 
   const state: SimSessionState = {
     sessionId,
@@ -136,7 +183,7 @@ export async function openSession(opts: {
     route: url,
     startedAtMs: existing !== null && reused ? existing.startedAtMs : Date.now(),
   }
-  saveSessionState(state)
+  opening.saved(state)
   return state
 }
 

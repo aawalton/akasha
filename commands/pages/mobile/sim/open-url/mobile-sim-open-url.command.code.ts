@@ -59,17 +59,20 @@ export function readIn(argv: readonly string[]): Reading<Read> {
   }
 }
 
-async function opened(read: Read): Promise<Answer> {
+async function opened(read: Read, done: string[]): Promise<Answer> {
   const base = await ensureAppium()
   const udid = read.udid ?? loadSessionState()?.udid ?? (await resolveAndBootSim())
-  const state = await openSession({
-    base,
-    udid,
-    bundleId: read.app.bundleId,
-    route: read.route,
-    kbDebug: read.kbDebug,
-    asRealUser: read.asRealUser,
-  })
+  const state = await openSession(
+    {
+      base,
+      udid,
+      bundleId: read.app.bundleId,
+      route: read.route,
+      kbDebug: read.kbDebug,
+      asRealUser: read.asRealUser,
+    },
+    done
+  )
   return told(
     keyedLines([
       ["session", state.sessionId],
@@ -84,5 +87,5 @@ async function opened(read: Read): Promise<Answer> {
 export async function mobileSimOpenUrl(argv: readonly string[]): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) return refusedBy(read.refused)
-  return await answering(async () => await opened(read))
+  return await answering(async (done) => await opened(read, done))
 }
