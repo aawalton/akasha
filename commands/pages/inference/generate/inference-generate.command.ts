@@ -12,7 +12,6 @@ export const inferenceGenerate = {
       said: "--prompt-file <path>",
       takes: "that prompt read from a path, or `-` for standard input",
     },
-    { said: "--guidance <n>", takes: "how far the sampler is pushed toward the prompt" },
   ],
   invariants: [
     {
@@ -58,5 +57,6 @@ export const inferenceGenerate = {
     { argument: "argument/steps" },
     { argument: "argument/size" },
     { argument: "argument/service" },
+    { argument: "argument/guidance" },
   ],
 } as const satisfies Command
