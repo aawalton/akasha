@@ -14,7 +14,6 @@ export const temperInventoryBuyRuleUpdate = {
     { said: "--notes <s>", takes: "a note the web shows" },
     { said: "--goal <s>", takes: "a goal label the web shows" },
     { said: "--active <true|false>", takes: "whether the rule is active" },
-    { said: "--force", takes: "change it even where it is locked" },
   ],
   invariants: [
     {
@@ -31,4 +30,5 @@ export const temperInventoryBuyRuleUpdate = {
     },
   ],
   name: "update",
+  arguments: [{ argument: "argument/force" }],
 } as const satisfies Command

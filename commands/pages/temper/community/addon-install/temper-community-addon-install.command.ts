@@ -8,7 +8,6 @@ export const temperCommunityAddonInstall = {
   code: "ts",
   taking: [
     { said: "<name>", takes: "the community addon's name, or one of the folder names it installs" },
-    { said: "--force", takes: "install again even where the target folders are already present" },
   ],
 
   invariants: [
@@ -42,5 +41,6 @@ export const temperCommunityAddonInstall = {
     { argument: "argument/json" },
     { argument: "argument/code-root" },
     { argument: "argument/addons-dir" },
+    { argument: "argument/force" },
   ],
 } as const satisfies Command

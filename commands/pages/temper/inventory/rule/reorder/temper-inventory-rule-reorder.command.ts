@@ -11,7 +11,6 @@ export const temperInventoryRuleReorder = {
     { said: "--to <index>", takes: "the position the rule moves to" },
     { said: "--before <anchor-id>", takes: "the rule the moved rule comes before" },
     { said: "--after <anchor-id>", takes: "the rule the moved rule comes after" },
-    { said: "--force", takes: "move it even where it is locked" },
   ],
   invariants: [
     {
@@ -36,4 +35,5 @@ export const temperInventoryRuleReorder = {
     },
   ],
   name: "reorder",
+  arguments: [{ argument: "argument/force" }],
 } as const satisfies Command

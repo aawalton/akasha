@@ -27,7 +27,6 @@ export const temperInventoryRuleUpdate = {
       said: "--stock-scope <scope>",
       takes: "whether stocking counts one character or every character",
     },
-    { said: "--force", takes: "change it even where it is locked" },
   ],
   invariants: [
     {
@@ -44,4 +43,5 @@ export const temperInventoryRuleUpdate = {
     },
   ],
   name: "update",
+  arguments: [{ argument: "argument/force" }],
 } as const satisfies Command

@@ -9,10 +9,6 @@ export const temperCommunityAddonUpdate = {
   code: "ts",
   taking: [
     { said: "--only <dir>", takes: "restrict the run to one addon folder, said once per folder" },
-    {
-      said: "--force",
-      takes: "download and install every matched addon rather than only the outdated ones",
-    },
   ],
   invariants: [
     {
@@ -49,5 +45,6 @@ export const temperCommunityAddonUpdate = {
     { argument: "argument/json" },
     { argument: "argument/code-root" },
     { argument: "argument/addons-dir" },
+    { argument: "argument/force" },
   ],
 } as const satisfies Command
