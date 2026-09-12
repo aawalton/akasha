@@ -11,12 +11,11 @@ export const emailUnsubscribe = {
     { said: "<id>", takes: "the message acted on, said as the id Gmail gives it" },
     { said: "--message <id>", takes: "the message acted on, where no id follows the command" },
   ],
-  helpNotes: [
-    "the route is the message's own List-Unsubscribe and List-Unsubscribe-Post headers and nothing else.",
-    "one-click is fired where the sender says it is offered, and a mailto is fallen back to otherwise.",
-    "an unsubscribe once fired is not taken back.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "An unsubscribe once fired is not taken back.",
+    },
     {
       invariantKind: "departure",
       statement: "An unsubscribe goes by the message's own List-Unsubscribe headers.",
