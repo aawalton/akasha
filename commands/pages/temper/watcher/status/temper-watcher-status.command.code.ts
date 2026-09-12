@@ -21,7 +21,7 @@ function upSeconds(startedAt: string): number | null {
 export function temperWatcherStatus(argv: readonly string[]): Answer {
   const strange = argv.find((one) => one !== JSON_SAID)
   if (strange !== undefined) {
-    return refused(`\`${strange}\` is nothing \`akasha temper-watcher-status\` takes`, INPUT)
+    return refused(`\`${strange}\` is nothing \`akasha temper watcher status\` takes`, INPUT)
   }
   const running = isUnitActive()
   const startedAt = running ? (readState()?.startedAt ?? null) : null

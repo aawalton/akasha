@@ -40,7 +40,7 @@ function told(argv: readonly string[]): Told | string {
       flags.push(one)
       continue
     }
-    return `\`${one}\` is nothing \`akasha temper-watcher-logs\` takes`
+    return `\`${one}\` is nothing \`akasha temper watcher logs\` takes`
   }
   return { named, flags }
 }
