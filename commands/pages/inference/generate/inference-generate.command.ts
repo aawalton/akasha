@@ -22,14 +22,6 @@ export const inferenceGenerate = {
     { said: "--service <name>", takes: "the image pool service the render goes through" },
     { said: "--no-persist", takes: "leave the image where it was written and file no page for it" },
   ],
-  helpNotes: [
-    "each dimension runs from 256 to 4096 and is a multiple of sixteen.",
-    "the service is an image-generation pool member, and one binding another model type is refused.",
-    "the model rendered against is the model path that service's command binds.",
-    "a seed nothing named is drawn, and the seed is recorded whether it was drawn or said.",
-    "the guidance is recorded on the run row, and a turbo distill passes it over.",
-    "the pool serves one request at a time, so the timeout counts the queue wait as well as the render.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -50,6 +42,10 @@ export const inferenceGenerate = {
     {
       invariantKind: "departure",
       statement: "A seed is recorded whether that seed was drawn or said.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The guidance is recorded on the run row.",
     },
     {
       invariantKind: "departure",
