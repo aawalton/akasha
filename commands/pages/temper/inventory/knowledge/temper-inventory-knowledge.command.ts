@@ -7,7 +7,6 @@ export const temperInventoryKnowledge = {
   definition: "the command giving back what each character knows of recipes, motifs and scripts",
   code: "ts",
   taking: [
-    { said: "--char <id>", takes: "the one character reported" },
     {
       said: "--item-key <kind>:<args>",
       takes: "ask instead whether each character knows one recipe, motif or script",
@@ -37,5 +36,9 @@ export const temperInventoryKnowledge = {
     },
   ],
   name: "knowledge",
-  arguments: [{ argument: "argument/json" }, { argument: "argument/characters-path" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/characters-path" },
+    { argument: "argument/char" },
+  ],
 } as const satisfies Command

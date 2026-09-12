@@ -6,10 +6,7 @@ export const temperInventoryExplain = {
   slug: "temper-inventory-explain",
   definition: "the command tracing why an item resolves to the action the rules give it",
   code: "ts",
-  taking: [
-    { said: "<item>", takes: "the item traced, as a bare item id or as a game item link" },
-    { said: "--char <id>", takes: "the character whose location the bag scan is scoped to" },
-  ],
+  taking: [{ said: "<item>", takes: "the item traced, as a bare item id or as a game item link" }],
 
   invariants: [
     {
@@ -34,5 +31,6 @@ export const temperInventoryExplain = {
     { argument: "argument/json" },
     { argument: "argument/inventory-path" },
     { argument: "argument/characters-path" },
+    { argument: "argument/char" },
   ],
 } as const satisfies Command
