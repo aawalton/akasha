@@ -39,13 +39,12 @@ const COMMITTING = new Map<string, string>([
   ["--break-the-glass", "says why no check runs, and a refresh runs none"],
 ])
 
-export function committing(argv: readonly string[]): readonly string[] {
-  const refusals: string[] = []
-  for (const one of argv) {
-    const why = COMMITTING.get(one)
-    if (why !== undefined) refusals.push(`${one} ${why}`)
+export function committing(refused: readonly string[]): readonly string[] {
+  const said: string[] = []
+  for (const [one, why] of COMMITTING) {
+    if (refused.some((each) => each.includes(`\`${one}\``))) said.push(`\`${one}\` ${why}`)
   }
-  return refusals
+  return said
 }
 
 export function named(paths: readonly string[]): string {
@@ -121,10 +120,8 @@ function refreshing(root: string, read: { dryRun: boolean }, done: string[]): An
 }
 
 export function indexRefresh(argv: readonly string[], given: Given): Answer {
-  const writing = committing(argv)
-  if (writing.length > 0) return mistaking(writing)
   const read = takenFor(argv, given.calledAs, page, [dryRunArgument])
-  if ("refused" in read) return mistaking(read.refused)
+  if ("refused" in read) return mistaking([...committing(read.refused), ...read.refused])
   const taken = read.taken
   const root = resolve(given.root)
   const done: string[] = []
