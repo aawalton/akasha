@@ -39,10 +39,17 @@ function staging(upTo: number): Staging {
   return { copied: () => step("copy the checkpoint"), renamed: () => step("move the checkpoint") }
 }
 
-test("nothing said is refused, naming the flags it needs", async () => {
+const CALLED = "akasha inference zimage"
+
+const RENDERED = ["--prompt", "a cat", "--output", "/elsewhere/a.png"]
+
+test("nothing said is refused, naming the arguments it needs", async () => {
   const said = await inferenceZimage([], given("/nowhere"))
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("--prompt")
+  expect(said.refusals[0]).toBe(`\`${CALLED}\` takes \`--output\`, and nothing said it`)
+  expect(said.refusals[1]).toBe(
+    `\`${CALLED}\` takes \`--prompt-file\` or \`--prompt\`, and nothing said either`
+  )
 })
 
 test("a word that is no flag is refused", async () => {
@@ -50,75 +57,68 @@ test("a word that is no flag is refused", async () => {
 })
 
 test("the prompt and the path it writes to are both named", () => {
-  const said = readIn(["--prompt", "a cat"])
+  const said = readIn(["--prompt", "a cat"], CALLED)
   expect("refused" in said).toBe(true)
   if ("refused" in said) expect(said.refused[0]).toContain("--output")
 })
 
 test("a flag it does not take is refused", () => {
-  const said = readIn(["--prompt", "a cat", "--output", "/elsewhere/a.png", "--wat", "1"])
+  const said = readIn([...RENDERED, "--wat", "1"], CALLED)
   expect("refused" in said).toBe(true)
   if ("refused" in said) expect(said.refused[0]).toContain("--wat")
 })
 
-test("the mflux defaults hold where nothing said them", () => {
-  const said = readIn(["--prompt", "a cat", "--output", "/elsewhere/a.png"])
+test("the defaults on the argument pages hold where nothing said them", () => {
+  const said = readIn(RENDERED, CALLED)
   expect("refused" in said).toBe(false)
   if (!("refused" in said)) {
-    expect(said.said.get("--width")).toBe("1024")
-    expect(said.said.get("--height")).toBe("1024")
-    expect(said.said.get("--lora-scales")).toBe("1.0")
-    expect(said.said.get("--model")).toBe("z-image-turbo")
+    expect(said.taken.width).toBe(1024)
+    expect(said.taken.height).toBe(1024)
+    expect(said.taken.loraScales).toBe("1.0")
+    expect(said.taken.model).toBe("z-image-turbo")
   }
 })
 
-test("a guidance that is no number is refused", () => {
-  const said = readIn(["--prompt", "a cat", "--output", "/elsewhere/a.png", "--guidance", "loud"])
-  expect("refused" in said).toBe(true)
+test("a guidance that is no number is refused", async () => {
+  const said = await inferenceZimage([...RENDERED, "--guidance", "loud"], given("/nowhere"))
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toBe("`--guidance` carries a number, and `loud` is not one")
+})
+
+test("a lora scale that is no number is refused", async () => {
+  const said = await inferenceZimage([...RENDERED, "--lora-scales", "hard"], given("/nowhere"))
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toBe("`--lora-scales` carries a number, and `hard` is not one")
 })
 
 test("a width that is no whole number is refused", () => {
-  const said = readIn(["--prompt", "a", "--output", "/elsewhere/a.png", "--width", "10.5"])
+  const said = readIn([...RENDERED, "--width", "10.5"], CALLED)
   expect("refused" in said).toBe(true)
 })
 
+test("a value said at the flag with an equals sign is taken", () => {
+  const said = readIn(["--prompt=a cat", "--output=/elsewhere/a.png", "--width=512"], CALLED)
+  expect("refused" in said).toBe(false)
+  if (!("refused" in said)) expect(said.taken.width).toBe(512)
+})
+
+const LISTED = ["--lora-paths", "/elsewhere/one.safetensors,/elsewhere/two.safetensors"]
+
 test("a model nothing registers is the caller's mistake", async () => {
-  const said = await inferenceZimage(
-    ["--prompt", "a cat", "--output", "/elsewhere/a.png", "--model", "nothing-here"],
-    given("/nowhere")
-  )
+  const said = await inferenceZimage([...RENDERED, "--model", "nothing-here"], given("/nowhere"))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("nothing-here")
 })
 
 test("a comma list of checkpoints is refused", async () => {
-  const said = await inferenceZimage(
-    [
-      "--prompt",
-      "a cat",
-      "--output",
-      "/elsewhere/a.png",
-      "--lora-paths",
-      "/elsewhere/one.safetensors,/elsewhere/two.safetensors",
-    ],
-    given("/nowhere")
-  )
+  const said = await inferenceZimage([...RENDERED, ...LISTED], given("/nowhere"))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("comma")
 })
 
 test("a refusal after a flag was passed over says what this had passed over", async () => {
   const said = await inferenceZimage(
-    [
-      "--prompt",
-      "a cat",
-      "--output",
-      "/elsewhere/a.png",
-      "--base-model",
-      "flux-dev",
-      "--lora-paths",
-      "/elsewhere/one.safetensors,/elsewhere/two.safetensors",
-    ],
+    [...RENDERED, "--base-model", "flux-dev", ...LISTED],
     given("/nowhere")
   )
 
@@ -129,10 +129,7 @@ test("a refusal after a flag was passed over says what this had passed over", as
 })
 
 test("a refusal with nothing passed over and nothing written names neither", async () => {
-  const said = await inferenceZimage(
-    ["--prompt", "a cat", "--output", "/elsewhere/a.png", "--model", "nothing-here"],
-    given("/nowhere")
-  )
+  const said = await inferenceZimage([...RENDERED, "--model", "nothing-here"], given("/nowhere"))
 
   expect(said.report).toEqual([])
   expect(said.refusals.some((one) => one.includes("stopped part way"))).toBe(false)

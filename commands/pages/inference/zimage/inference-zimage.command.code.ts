@@ -3,6 +3,25 @@ import { copyFile, mkdir, rename, stat, writeFile } from "node:fs/promises"
 import { homedir } from "node:os"
 import { basename, dirname, join } from "node:path"
 import {
+  type TakenFor,
+  takenFor,
+} from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { baseModel } from "akasha/commands/arguments/pages/base-model.argument.ts"
+import { guidance as guidanceArgument } from "akasha/commands/arguments/pages/guidance.argument.ts"
+import { height as heightArgument } from "akasha/commands/arguments/pages/height.argument.ts"
+import { loraPaths } from "akasha/commands/arguments/pages/lora-paths.argument.ts"
+import { loraScales } from "akasha/commands/arguments/pages/lora-scales.argument.ts"
+import { model as modelArgument } from "akasha/commands/arguments/pages/model.argument.ts"
+import { negativePrompt as negativePromptArgument } from "akasha/commands/arguments/pages/negative-prompt.argument.ts"
+import { negativePromptFile } from "akasha/commands/arguments/pages/negative-prompt-file.argument.ts"
+import { output as outputArgument } from "akasha/commands/arguments/pages/output.argument.ts"
+import { promptFile } from "akasha/commands/arguments/pages/prompt-file.argument.ts"
+import { renderPrompt } from "akasha/commands/arguments/pages/render-prompt.argument.ts"
+import { seed as seedArgument } from "akasha/commands/arguments/pages/seed.argument.ts"
+import { steps as stepsArgument } from "akasha/commands/arguments/pages/steps.argument.ts"
+import { timeout as timeoutArgument } from "akasha/commands/arguments/pages/timeout.argument.ts"
+import { width as widthArgument } from "akasha/commands/arguments/pages/width.argument.ts"
+import {
   answering,
   INPUT,
   keeping,
@@ -12,15 +31,9 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import {
-  heldOnce,
-  numberIn,
-  pathUnder,
-  routedIn,
-  type Shape,
-  textIn,
-  wholeIn,
-} from "akasha/commands/pages/inference/flag-arguing/flag-arguing.module.code.ts"
+import { filing, filledIn } from "akasha/commands/modules/filling/command-filling.module.code.ts"
+import { pathUnder } from "akasha/commands/pages/inference/flag-arguing/flag-arguing.module.code.ts"
+import { inferenceZimage as page } from "akasha/commands/pages/inference/zimage/inference-zimage.command.ts"
 import {
   fetchImage,
   runComfyGraph,
@@ -33,109 +46,63 @@ import {
   toModelId,
 } from "akasha/infrastructure/inference/generations/zimage/models/zimage-models.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
-import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 const DEFAULT_PORT = "8678"
 
 const STAGED_DIGEST = 8
 
-const TAKEN = new Map<string, Shape>([
-  ["--prompt", "prose"],
-  ["--negative-prompt", "prose"],
-  ["--output", "token"],
-  ["--model", "token"],
-  ["--base-model", "token"],
-  ["--width", "token"],
-  ["--height", "token"],
-  ["--steps", "token"],
-  ["--guidance", "token"],
-  ["--lora-paths", "token"],
-  ["--lora-scales", "token"],
-  ["--seed", "token"],
-  ["--timeout", "token"],
-])
+const SECOND_MS = 1000
 
-const FILLED = new Map([
-  ["--model", "z-image-turbo"],
-  ["--width", "1024"],
-  ["--height", "1024"],
-  ["--lora-scales", "1.0"],
-  ["--timeout", "900"],
-])
+const DEFAULT_TIMEOUT_SEC = 900
 
-const NEEDED = ["--prompt", "--output"]
+const PAGES = [
+  baseModel,
+  guidanceArgument,
+  heightArgument,
+  loraPaths,
+  loraScales,
+  modelArgument,
+  negativePromptArgument,
+  negativePromptFile,
+  outputArgument,
+  promptFile,
+  renderPrompt,
+  seedArgument,
+  stepsArgument,
+  timeoutArgument,
+  widthArgument,
+]
 
-const WHOLE = new Set(["--width", "--height", "--steps", "--seed", "--timeout"])
+export type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
 
-const REAL = new Set(["--guidance", "--lora-scales"])
+export type Read = { readonly taken: Taken } | { readonly refused: readonly string[] }
 
-export type Taken = {
-  readonly said: ReadonlyMap<string, string>
-  readonly on: ReadonlySet<string>
+const PROMPT = filing(renderPrompt.said)
+
+const NEGATIVE = filing(negativePromptArgument.said)
+
+export function readIn(argv: readonly string[], calledAs: string): Read {
+  return takenFor(argv, calledAs, page, PAGES)
 }
 
-export type Read = Taken | { readonly refused: readonly string[] }
-
-function flags(): string {
-  return namesDrawn(TAKEN.keys())
+function isReal(said: string): boolean {
+  return said.trim() !== "" && Number.isFinite(Number(said))
 }
 
-export function readIn(argv: readonly string[]): Read {
-  const refusals: string[] = []
-  const said = new Map<string, string>()
-  const on = new Set<string>()
-  const holding = (flag: string, value: string): undefined => heldOnce(said, refusals, flag, value)
-  for (let step = 0; step < argv.length; step += 1) {
-    const one = argv[step]
-    if (one === undefined) continue
-    if (!one.startsWith("-")) {
-      refusals.push(`\`${one}\` is no flag, and this is said with flags alone`)
-      continue
-    }
-    const shape = TAKEN.get(one)
-    if (shape === "switch") {
-      on.add(one)
-      continue
-    }
-    const routed = shape === undefined ? routedIn(one, TAKEN) : null
-    if (shape === undefined && routed === null) {
-      refusals.push(`\`${one}\` is no flag this takes — it takes ${flags()}`)
-      continue
-    }
-    const value = argv[step + 1]
-    step += 1
-    if (value === undefined) {
-      refusals.push(`\`${one}\` carries a value, and nothing followed it`)
-      continue
-    }
-    if (routed === null) {
-      holding(one, value)
-      continue
-    }
-    const read = textIn(value)
-    if ("why" in read) {
-      refusals.push(`\`${one}\` could not read \`${value}\` — ${read.why}`)
-      continue
-    }
-    holding(routed, read.text)
+export function wrongIn(taken: Taken): readonly string[] {
+  const wrong: string[] = []
+  const pushed = taken.guidance
+  if (pushed !== undefined && !isReal(pushed)) {
+    wrong.push(`\`${guidanceArgument.said}\` carries a number, and \`${pushed}\` is not one`)
   }
-  for (const [flag, value] of FILLED) if (!said.has(flag)) said.set(flag, value)
-  for (const flag of NEEDED) {
-    if (!said.has(flag)) refusals.push(`this names \`${flag}\`, and nothing said it`)
+  const mixed = taken.loraScales
+  if (!isReal(mixed)) {
+    wrong.push(`\`${loraScales.said}\` carries a number, and \`${mixed}\` is not one`)
   }
-  for (const [flag, value] of said) {
-    if (WHOLE.has(flag) && wholeIn(value) === null) {
-      refusals.push(
-        `\`${flag}\` carries a whole number that is not below zero, and \`${value}\` is not one`
-      )
-    }
-    if (REAL.has(flag) && (value.trim() === "" || !Number.isFinite(Number(value)))) {
-      refusals.push(`\`${flag}\` carries a number, and \`${value}\` is not one`)
-    }
-  }
-  if (refusals.length > 0) return { refused: refusals }
-  return { said, on }
+  return wrong
 }
+
+type Prosed = { readonly prompt: string; readonly negative: string | undefined }
 
 export function at(given: Given, path: string): string {
   return pathUnder(given.root, path)
@@ -192,7 +159,7 @@ async function staged(
     came = await stat(sourcePath)
   } catch (thrown) {
     return {
-      why: `\`--lora-paths\` names \`${sourcePath}\`, which would not be read — ${whyOf(thrown)}`,
+      why: `\`${loraPaths.said}\` names \`${sourcePath}\`, which would not be read — ${whyOf(thrown)}`,
     }
   }
   const digest = createHash("sha256").update(sourcePath).digest("hex").slice(0, STAGED_DIGEST)
@@ -205,42 +172,46 @@ async function staged(
   return { name }
 }
 
-async function generating(read: Taken, given: Given, done: string[]): Promise<Answer> {
-  const said = read.said
-  const prompt = said.get("--prompt") ?? ""
-  const outPath = at(given, said.get("--output") ?? "")
-  const modelSaid = said.get("--model") ?? ""
+async function generating(
+  taken: Taken,
+  prosed: Prosed,
+  given: Given,
+  done: string[]
+): Promise<Answer> {
+  const prompt = prosed.prompt
+  const outPath = at(given, taken.output)
+  const modelSaid = taken.model
   const modelId = toModelId(modelSaid)
   if (modelId === undefined) {
     return refused(
-      `\`--model\` names \`${modelSaid}\`, which nothing registers — the registered ones are ${MODEL_IDS.join(", ")}`,
+      `\`${modelArgument.said}\` names \`${modelSaid}\`, which nothing registers — the registered ones are ${MODEL_IDS.join(", ")}`,
       INPUT
     )
   }
   const spec = MODELS[modelId]
-  const negative = said.get("--negative-prompt") ?? spec.defaultNegative
-  const width = numberIn(said, "--width") ?? 0
-  const height = numberIn(said, "--height") ?? 0
-  const steps = numberIn(said, "--steps") ?? spec.defaultSteps
-  const guidanceSaid = said.get("--guidance")
+  const negative = prosed.negative ?? spec.defaultNegative
+  const width = taken.width
+  const height = taken.height
+  const steps = taken.steps ?? spec.defaultSteps
+  const guidanceSaid = taken.guidance
   const guidance = guidanceSaid === undefined ? spec.defaultGuidance : Number(guidanceSaid)
-  const loraStrength = Number(said.get("--lora-scales") ?? "")
-  const seed = numberIn(said, "--seed") ?? drawSeed()
-  const waiting = (numberIn(said, "--timeout") ?? 0) * 1000
+  const loraStrength = Number(taken.loraScales)
+  const seed = taken.seed ?? drawSeed()
+  const waiting = (taken.timeout ?? DEFAULT_TIMEOUT_SEC) * SECOND_MS
 
-  const baseModel = said.get("--base-model")
-  if (baseModel !== undefined) {
+  const selector = taken.baseModel
+  if (selector !== undefined) {
     done.push(
-      `\`--base-model\` said \`${baseModel}\`, which is passed over — the render goes through \`${modelId}\``
+      `\`${baseModel.said}\` said \`${selector}\`, which is passed over — the render goes through \`${modelId}\``
     )
   }
 
   let loraName: string | undefined
-  const loraSaid = said.get("--lora-paths")
+  const loraSaid = taken.loraPaths
   if (loraSaid !== undefined && loraSaid !== "") {
     if (loraSaid.includes(",")) {
       return refused(
-        `\`--lora-paths\` names one checkpoint, and \`${loraSaid}\` is a comma list of them`,
+        `\`${loraPaths.said}\` names one checkpoint, and \`${loraSaid}\` is a comma list of them`,
         INPUT
       )
     }
@@ -281,7 +252,20 @@ async function generating(read: Taken, given: Given, done: string[]): Promise<An
 }
 
 export async function inferenceZimage(argv: readonly string[], given: Given): Promise<Answer> {
-  const read = readIn(argv)
+  const read = readIn(argv, given.calledAs)
   if ("refused" in read) return refusedBy(read.refused)
-  return await answering(async (done) => keeping(done, await generating(read, given, done)))
+  const taken = read.taken
+
+  const wrong = wrongIn(taken)
+  if (wrong.length > 0) return refusedBy(wrong)
+
+  const asked = filledIn(given.root, taken.renderPrompt, taken.promptFile, PROMPT)
+  if ("refused" in asked) return refusedBy(asked.refused)
+  const against = filledIn(given.root, taken.negativePrompt, taken.negativePromptFile, NEGATIVE)
+  if ("refused" in against) return refusedBy(against.refused)
+
+  const prosed: Prosed = { prompt: asked.text ?? "", negative: against.text }
+  return await answering(async (done) =>
+    keeping(done, await generating(taken, prosed, given, done))
+  )
 }
