@@ -33,4 +33,5 @@ export const temperCommunityAddonList = {
     },
   ],
   name: "addon-list",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

@@ -35,4 +35,5 @@ export const temperCatalogInvalidate = {
     },
   ],
   name: "invalidate",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

@@ -41,4 +41,5 @@ export const temperCommunityAddonInstall = {
     },
   ],
   name: "addon-install",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

@@ -50,4 +50,5 @@ export const temperCatalogStatus = {
     },
   ],
   name: "status",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command
