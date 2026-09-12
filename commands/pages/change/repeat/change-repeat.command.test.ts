@@ -85,6 +85,14 @@ test("a call naming no change is refused", () => {
   expect(said.refusals[0] ?? "").toContain("no change is named")
 })
 
+test("the help flag is answered before anything is piped in", () => {
+  const said = changeRepeat(["--help"], givenAt("/nowhere"), NOTHING)
+
+  expect(said.code).toBe(0)
+  expect(said.refusals).toEqual([])
+  expect(said.report[0]).toBe("akasha change repeat")
+})
+
 test("a call piping nothing in is refused", () => {
   const said = changeRepeat(["wide"], givenAt("/nowhere"), NOTHING)
 

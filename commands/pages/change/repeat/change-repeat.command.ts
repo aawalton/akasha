@@ -24,7 +24,15 @@ export const changeRepeat = {
     },
     {
       invariantKind: "departure",
-      statement: "A call naming no change is refused.",
+      statement: "A call naming neither a change nor the help flag is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The help flag is answered with what a repeat does and what a repeat takes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The help flag is read before the arguments are, so nothing need be piped in.",
     },
     {
       invariantKind: "departure",
