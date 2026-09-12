@@ -46,6 +46,19 @@ export const imessageCommandReading = {
       statement: "A message Alan sent carries an arrow away from Alan.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A call saying `--json` is answered the records, and one saying nothing the lines.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record carries a message's text whole and a line carries it on one line.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The records are answered on one line rather than spread over many.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here opens a file.",
     },
