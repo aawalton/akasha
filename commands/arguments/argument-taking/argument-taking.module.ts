@@ -81,7 +81,8 @@ export const argumentTaking = {
     },
     {
       invariantKind: "gap",
-      statement: "The page says at least one of a group is said, and has no word for exactly one.",
+      statement:
+        "A group whose pairs differ on `not-with` has no union to type, only the weak optional form.",
     },
   ],
 } as const satisfies Module

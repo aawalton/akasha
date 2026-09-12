@@ -36,7 +36,12 @@ export const oneOf = {
     {
       invariantKind: "gap",
       statement:
-        "A call saying exactly one of a group states this beside `not-with`, and nothing joins the two.",
+        "A group where exactly one is said is this beside `not-with`, and nothing joins the two.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "One group may hold a pair `not-with` forbids and a pair it does not, so no group-wide word fits.",
     },
   ],
   types: "ts",
