@@ -52,31 +52,31 @@ export async function inferenceCapabilityList(
   const read = everyInference(codeRoot())
   if ("refused" in read) return refusedBy([read.refused])
 
-  return await answering(async () => {
+  return await answering(async (done) => {
     const image = read.services.filter(isImagePool)
     const first = image[0]
     if (first === undefined) return told([])
     const host = getHost(first.host)
 
-    const report: string[] = [`${host.name}\t${host.address}`]
+    done.push(`${host.name}\t${host.address}`)
     for (const one of image) {
       const words = wordsOf(one.runs)
-      report.push(
+      done.push(
         `\t${one.name}\t${boundTo(words, MODEL_PATH) ?? ""}\t:${one.port}\t${routeOf(words)}`
       )
     }
 
-    report.push(`mflux\tinference-${first.name}`)
+    done.push(`mflux\tinference-${first.name}`)
     let tools: readonly string[] = []
     try {
       tools = parseMfluxTools(
         await runSshCapture(targetOf(host), buildMfluxQueryScript(host, first.name))
       )
     } catch (thrown) {
-      report.push(`\t(the host would not answer: ${whyOf(thrown).replace(/\s+/g, " ").trim()})`)
-      return told(report)
+      done.push(`\t(the host would not answer: ${whyOf(thrown).replace(/\s+/g, " ").trim()})`)
+      return told(done)
     }
-    for (const tool of tools) report.push(`\t${tool}`)
-    return told(report)
+    for (const tool of tools) done.push(`\t${tool}`)
+    return told(done)
   })
 }
