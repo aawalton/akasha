@@ -210,6 +210,18 @@ test("a repeating word argument takes every word from its own place on", () => {
   })
 })
 
+test("a bare double dash makes every word after it a word rather than a flag", () => {
+  expect(taken(["--", "--json"], [NODE])).toEqual({ node: "--json" })
+})
+
+test("words after a bare double dash fill the word arguments in the order they are named", () => {
+  expect(taken(["--", "here", "there"], [FROM, ONTO])).toEqual({ from: "here", onto: "there" })
+})
+
+test("a double dash after the first is a word rather than another separator", () => {
+  expect(taken(["--", "--"], [NODE])).toEqual({ node: "--" })
+})
+
 test("a word spelled as a flag is refused rather than filling an argument", () => {
   expect(refusals(["--nope"], [NODE])[0]).toBe(
     "`--nope` is no argument `akasha thing` takes — it takes `--node`"

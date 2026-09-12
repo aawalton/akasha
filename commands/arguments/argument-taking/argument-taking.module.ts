@@ -153,5 +153,10 @@ export const argumentTaking = {
       invariantKind: "departure",
       statement: "More words than a command takes are refused saying how many either side is.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "Every word after a bare `--` fills a word argument rather than being read as a flag.",
+    },
   ],
 } as const satisfies Module

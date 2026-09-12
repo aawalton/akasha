@@ -143,12 +143,17 @@ export function takingIn(
   const forWords = naming.filter((one) => asAWord(one))
   let atWord = 0
   let overflowed = 0
+  let wordsOnly = false
   for (let at = 0; at < argv.length; at += 1) {
     const word = argv[at]
     if (word === undefined) continue
-    const held = bySaid.get(word)
+    if (!wordsOnly && word === FLAG) {
+      wordsOnly = true
+      continue
+    }
+    const held = wordsOnly ? undefined : bySaid.get(word)
     if (held === undefined) {
-      if (forWords.length === 0 || spelledAsAFlag(word)) {
+      if (forWords.length === 0 || (!wordsOnly && spelledAsAFlag(word))) {
         state.refusals.push(unknown(word, calledAs, spellings))
         continue
       }
