@@ -62,6 +62,7 @@ export const pageType = {
     "text-property/sequence-group-by",
     "text-property/sequence-order-by",
     "true-property/many-valued",
+    "module/type-generating",
   ],
   extends: ["page-type/domain"],
   properties: [

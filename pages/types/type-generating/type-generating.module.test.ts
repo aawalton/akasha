@@ -1,16 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
-import {
-  generatorAt,
-  turnsFor,
-  typedOver,
-} from "akasha/commands/modules/type-generating/type-generating.module.code.ts"
-import {
-  AT,
-  GENERATOR_AT,
-  OTHER,
-  OWN,
-} from "akasha/commands/modules/type-generating/type-generating.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   idFiled,
@@ -18,6 +7,17 @@ import {
   valueAlsoFiled,
 } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import {
+  generatorAt,
+  turnsFor,
+  typedOver,
+} from "akasha/pages/types/type-generating/type-generating.module.code.ts"
+import {
+  AT,
+  GENERATOR_AT,
+  OTHER,
+  OWN,
+} from "akasha/pages/types/type-generating/type-generating.module.test-fixtures.ts"
 
 const scratch = scratchWorld()
 

@@ -30,7 +30,6 @@ export const command = {
     "namespace/model-gateway",
     "namespace/temper",
     "module/cli",
-    "module/type-generating",
     "module/export-naming",
     "module/manifest-locking",
     "module/change-preparing",
