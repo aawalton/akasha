@@ -25,6 +25,16 @@ export const answeredWorkTakesItsList = {
     {
       invariantKind: "departure",
       statement:
+        "Work done is broader than writes landed, so a command that wrote nothing is judged.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Reading a host or streaming progress is work done, so a refusal after it says so.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "Work is judged by how many parameters it takes rather than by what it names them.",
     },
     {
