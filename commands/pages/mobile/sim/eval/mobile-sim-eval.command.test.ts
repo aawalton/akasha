@@ -63,7 +63,9 @@ test("two bare words are refused, since this takes one script", async () => {
   const said = await mobileSimEval(["return 1", "return 2"], GIVEN)
 
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toBe(`\`${CALLED_AS}\` takes 1 word and this call says 2 words`)
+  expect(said.refusals[0]).toBe(
+    `\`${CALLED_AS}\` takes 1 word and this call says 2 words — nothing takes \`return 2\``
+  )
 })
 
 test("a script said as a word and at its flag is refused", async () => {
