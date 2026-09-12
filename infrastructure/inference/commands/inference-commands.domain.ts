@@ -9,7 +9,11 @@ export const inferenceCommands = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A command here is named for the path the old ops command was reached by.",
+      statement: "A command here has the slug the old ops command's path was spelled with.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A command here is called with spaces between its levels rather than by its slug.",
     },
     {
       invariantKind: "departure",
