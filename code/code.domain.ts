@@ -65,7 +65,6 @@ export const code = {
     "page-type/stylesheet",
     "page-type/type-declaration",
     "page-type/workspace",
-    "page-type/workspace-package",
   ],
   invariants: [
     {
