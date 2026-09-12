@@ -70,7 +70,16 @@ const LANDED: Applied = {
 
 test("a landing that wrote before it went wrong says what it wrote in its refusal", async () => {
   const asked = { root: ROOT, changes: [{ path: AT, body: "held\n" }], message: "held" }
-  const said = await landTracking(asked, () => Promise.resolve(LANDED))
+  const said = await landTracking(asked, [], () => Promise.resolve(LANDED))
   const why = `the install stopped\nlanded ${AT}\ncommitted as ${COMMIT}`
   expect(said).toEqual({ refused: why })
+})
+
+test("a landing that threw after it committed is refused naming that commit", async () => {
+  const asked = { root: ROOT, changes: [{ path: AT, body: "held\n" }], message: "held" }
+  const said = await landTracking(asked, [], (done) => {
+    done.push(COMMIT)
+    throw new Error("the work after that commit stopped")
+  })
+  expect("refused" in said && said.refused).toContain(COMMIT)
 })

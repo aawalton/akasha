@@ -58,6 +58,10 @@ export const trackLanding = {
       statement: "A landing that wrote before it went wrong says that same thing in its refusal.",
     },
     {
+      invariantKind: "departure",
+      statement: "A landing that threw after it committed is refused naming that commit.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here appends.",
     },

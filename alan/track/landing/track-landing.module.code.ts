@@ -1,13 +1,19 @@
 import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import {
+  landedMechanically,
+  runMechanicalChange,
+} from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   answeredWith,
   keeping,
+  partWay,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
 import { commitSaid } from "akasha/commands/modules/landing-saying/landing-saying.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
@@ -60,6 +66,7 @@ export function askedFor(changes: readonly FileChange[]): readonly Asking[] {
 }
 
 export type Landing = (
+  done: string[],
   root: string,
   changes: readonly Asking[],
   message: string
@@ -101,13 +108,19 @@ export type TrackingLanded =
 
 export async function landTracking(
   asked: TrackingAsked,
-  landing: Landing = runMechanicalChange
+  done: string[] = [],
+  landing: Landing = landedMechanically
 ): Promise<TrackingLanded> {
   if (asked.changes.length === 0) return { refused: NOTHING }
   const stray = strayAmong(asked.changes.map((one) => one.path))
   if (stray.length > 0) return { refused: stray.join("\n") }
   const named = asked.changes.map((one) => changeAt(one.path, one.body))
-  const landed = await landing(asked.root, named, asked.message)
+  let landed: Applied | Refused
+  try {
+    landed = await landing(done, asked.root, named, asked.message)
+  } catch (thrown) {
+    return { refused: [whyOf(thrown), ...partWay(done)].join("\n") }
+  }
   if ("refusals" in landed) return { refused: landed.refusals.join("\n") }
   const wrote = wroteIn(landed)
   if (landed.wrong.length > 0) return { refused: [...landed.wrong, ...wrote].join("\n") }
