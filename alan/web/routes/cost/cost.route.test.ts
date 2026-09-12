@@ -1,5 +1,5 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
-import { answerCostAdmittedBy } from "akasha/alan/harness/cost/stoplight/cost-stoplight.module.code.ts"
+import { answerCostAdmittedBy } from "akasha/alan/harness/cost/modules/stoplight/cost-stoplight.module.code.ts"
 import {
   rowsAsked,
   servingStore,

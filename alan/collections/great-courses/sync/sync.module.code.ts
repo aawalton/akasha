@@ -1,10 +1,10 @@
-import { mapCourseToSubjects } from "akasha/alan/collections/great-courses/course-mapping/course-mapping.module.code.ts"
 import { findAllCourses } from "akasha/alan/collections/great-courses/courses-query/courses-query.module.code.ts"
 import { createCourse } from "akasha/alan/collections/great-courses/create-course/create-course.module.code.ts"
 import {
   extractExternalIdFromUrl,
   getCatalogData,
 } from "akasha/alan/collections/great-courses/modules/catalogue/catalogue.module.code.ts"
+import { mapCourseToSubjects } from "akasha/alan/collections/great-courses/modules/course-mapping/course-mapping.module.code.ts"
 import {
   pageTitled,
   textAt,

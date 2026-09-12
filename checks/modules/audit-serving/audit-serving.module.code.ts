@@ -38,7 +38,7 @@ import { checkoutAt } from "akasha/infrastructure/services/workstations/service-
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { type Shadow, shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
 import { requireEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
-import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
+import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
 
 const TURNS = ".local/state/workstation-services/audit-turns"
 

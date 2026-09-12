@@ -5,7 +5,7 @@ import type { Filing, Reading } from "akasha/pages/indexes/shape/index-shape.mod
 import { indexAt } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import { walkedUnder } from "akasha/pages/indexes/tree-reading/tree-reading.module.code.ts"
 import { textThere } from "akasha/utils/fs/text-there/text-there.module.code.ts"
-import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
+import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
 
 export function wholeOf(lines: readonly string[]): string {
   return `${lines.join("\n")}\n`

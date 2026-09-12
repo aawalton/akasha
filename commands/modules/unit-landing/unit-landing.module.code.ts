@@ -18,7 +18,7 @@ import {
   asked,
   type Running,
 } from "akasha/infrastructure/services/workstations/service-restarting/service-restarting.module.code.ts"
-import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
+import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
 
 const A_UNIT = "unit"
 

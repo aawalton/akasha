@@ -45,7 +45,7 @@ import {
 } from "akasha/infrastructure/services/workstations/service-restarting/service-restarting.module.code.ts"
 import { SERVING_MARKER } from "akasha/utils/run/run-relaying/run-relaying.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
-import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
+import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
 
 export const SCOPE_LEAD = "akasha-deploy-"
 

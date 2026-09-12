@@ -1,6 +1,6 @@
 import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
-import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
+import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 export type SaidAs = "flag" | "word" | "flag-or-word"

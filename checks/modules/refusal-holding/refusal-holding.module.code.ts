@@ -1,4 +1,4 @@
-import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
+import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
 
 export function heldTo(said: readonly string[], ceiling: number): readonly string[] {
   const held: string[] = []

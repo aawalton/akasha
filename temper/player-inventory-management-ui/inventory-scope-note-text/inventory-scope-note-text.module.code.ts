@@ -1,5 +1,5 @@
 import type { ExcludedLocation } from "akasha/temper/items-core/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
-import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
+import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
 
 export interface InventoryScopeFacts {
   excluded: readonly ExcludedLocation[]

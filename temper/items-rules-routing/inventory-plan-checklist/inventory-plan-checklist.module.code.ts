@@ -5,7 +5,7 @@ import type {
 
 const HEADER = "[TemperInventory] Checklist"
 
-import { counted as plural } from "akasha/utils/text/counted/counted.module.code.ts"
+import { counted as plural } from "akasha/utils/text/modules/counted/counted.module.code.ts"
 
 function venueLine(venue: VenueStop): string {
   const parts: string[] = []

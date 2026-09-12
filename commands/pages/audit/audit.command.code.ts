@@ -22,7 +22,7 @@ import { audit as page } from "akasha/commands/pages/audit/audit.command.ts"
 import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { requireEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
-import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
+import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
 
 const AUDIT = "audit"
 

@@ -15,7 +15,7 @@ import {
 import {
   READOUT_SLUG as COST_SLUG,
   takeReading as takeCost,
-} from "akasha/alan/harness/cost/reading/cost-reading.module.code.ts"
+} from "akasha/alan/harness/cost/modules/reading/cost-reading.module.code.ts"
 import { getEsoDayWindow } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
 import {
   takeReadings as takeInboxes,

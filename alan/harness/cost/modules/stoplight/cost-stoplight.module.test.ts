@@ -2,7 +2,7 @@ import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
 import {
   answerCostAdmittedBy,
   costStoplights,
-} from "akasha/alan/harness/cost/stoplight/cost-stoplight.module.code.ts"
+} from "akasha/alan/harness/cost/modules/stoplight/cost-stoplight.module.code.ts"
 import type { Stoplight } from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.code.ts"
 import {
   type AskedOf,
