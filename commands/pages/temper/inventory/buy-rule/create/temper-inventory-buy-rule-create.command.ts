@@ -20,10 +20,7 @@ export const temperInventoryBuyRuleCreate = {
     { said: "--goal <s>", takes: "a goal label the web shows" },
     { said: "--active <true|false>", takes: "whether the rule is active" },
   ],
-  helpNotes: [
-    "a new buy rule is inactive until it is activated.",
-    "a title, a note and a goal are held for the web alone and never reach the addon.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
