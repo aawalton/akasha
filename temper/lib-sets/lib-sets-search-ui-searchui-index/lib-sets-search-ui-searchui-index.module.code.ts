@@ -18,6 +18,6 @@ import "akasha/temper/lib-sets/lib-sets-search-ui-list-build/lib-sets-search-ui-
 import "akasha/temper/lib-sets/lib-sets-search-ui-keyboard-class/lib-sets-search-ui-keyboard-class.module.code.ts"
 import "akasha/temper/lib-sets/lib-sets-search-ui-keyboard-init/lib-sets-search-ui-keyboard-init.module.code.ts"
 import "akasha/temper/lib-sets/lib-sets-search-ui-keyboard-ui/lib-sets-search-ui-keyboard-ui.module.code.ts"
-import "akasha/temper/lib-sets/lib-sets-kbf-keyboard-filters-index/lib-sets-kbf-keyboard-filters-index.module.code.ts"
+import "akasha/temper/lib-sets/modules/lib-sets-kbf-keyboard-filters-index/lib-sets-kbf-keyboard-filters-index.module.code.ts"
 import "akasha/temper/lib-sets/lib-sets-search-ui-keyboard-search/lib-sets-search-ui-keyboard-search.module.code.ts"
 import "akasha/temper/lib-sets/lib-sets-search-ui-keyboard-search-handlers/lib-sets-search-ui-keyboard-search-handlers.module.code.ts"

@@ -1,9 +1,9 @@
-import { safeReturnAPItable } from "akasha/temper/lib-sets/lib-sets-core-helpers/lib-sets-core-helpers.module.code.ts"
 import { asPresent } from "akasha/temper/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   asSetIdBoolOptMap,
   asTypeToSetIdsTable,
 } from "akasha/temper/lib-sets/modules/lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
+import { safeReturnAPItable } from "akasha/temper/lib-sets/modules/lib-sets-core-helpers/lib-sets-core-helpers.module.code.ts"
 
 const lib = LibSets
 

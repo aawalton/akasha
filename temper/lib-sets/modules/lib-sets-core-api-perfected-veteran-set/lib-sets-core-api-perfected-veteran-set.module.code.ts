@@ -1,4 +1,3 @@
-import { safeReturnAPItable } from "akasha/temper/lib-sets/lib-sets-core-helpers/lib-sets-core-helpers.module.code.ts"
 import {
   asBoolean,
   asNumberOpt,
@@ -15,6 +14,7 @@ import {
   asVoidFn,
 } from "akasha/temper/lib-sets/modules/lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
 import { asEquipTypeBoolMap } from "akasha/temper/lib-sets/modules/lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
+import { safeReturnAPItable } from "akasha/temper/lib-sets/modules/lib-sets-core-helpers/lib-sets-core-helpers.module.code.ts"
 
 const lib = LibSets
 

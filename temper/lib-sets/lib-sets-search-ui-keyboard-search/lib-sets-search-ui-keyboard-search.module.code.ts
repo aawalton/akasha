@@ -1,4 +1,3 @@
-import { sortFilterComboBox } from "akasha/temper/lib-sets/lib-sets-kbf-sorting/lib-sets-kbf-sorting.module.code.ts"
 import {
   asComboBoxSortKey,
   asComboBoxSortKeyOpt,
@@ -18,6 +17,7 @@ import {
   asStringOpt,
   asTyped,
 } from "akasha/temper/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
+import { sortFilterComboBox } from "akasha/temper/lib-sets/modules/lib-sets-kbf-sorting/lib-sets-kbf-sorting.module.code.ts"
 
 const lib = LibSets
 
