@@ -26,10 +26,6 @@ export function underOf(named: string, part: string): string | null {
   return slug.startsWith(opens) ? slug.slice(opens.length) : null
 }
 
-export function spaced(slug: string): string {
-  return slug.split(UNDER).join(" ")
-}
-
 export function widest(said: readonly string[]): number {
   return said.reduce((held, one) => (one.length > held ? one.length : held), 0)
 }

@@ -6,7 +6,6 @@ import {
   listingOf,
   partsOf,
   slugOfPart,
-  spaced,
   underOf,
   widest,
 } from "akasha/commands/modules/namespace-listing/namespace-listing.module.code.ts"
@@ -364,7 +363,7 @@ function namespaceSaid(
   for (const part of partsOf(page)) {
     const rest = underOf(reached.named, part)
     if (rest === null) continue
-    held.push({ named: `${under} ${spaced(rest)}`, said: saidOfPart(root, part) })
+    held.push({ named: `${under} ${rest}`, said: saidOfPart(root, part) })
   }
   return listingOf(under, definitionOf(page), held, HELP)
 }

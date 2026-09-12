@@ -23,7 +23,7 @@ export const namespaceListing = {
     },
     {
       invariantKind: "departure",
-      statement: "A hyphen between two words of a slug is written as a space.",
+      statement: "A part's name keeps the hyphens that name has.",
     },
     {
       invariantKind: "departure",
