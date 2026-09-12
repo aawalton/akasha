@@ -6,7 +6,7 @@ export const temperInventoryParity = {
   slug: "temper-inventory-parity",
   definition: "the command ruling whether the addon's trace of an item matches a fresh evaluation",
   code: "ts",
-  taking: [{ said: "<item-id>", takes: "the item whose stored trace is compared" }],
+  taking: [],
 
   invariants: [
     {
@@ -27,5 +27,6 @@ export const temperInventoryParity = {
     { argument: "argument/inventory-path" },
     { argument: "argument/characters-path" },
     { argument: "argument/char", required: true },
+    { argument: "argument/traced-item-id", required: true, saidAs: "word" },
   ],
 } as const satisfies Command
