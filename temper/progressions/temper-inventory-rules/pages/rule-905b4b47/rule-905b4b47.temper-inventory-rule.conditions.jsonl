@@ -1,5 +1,5 @@
-{"id":"01a095c5-6bf4-765b-ba07-da3938ba3f89","conditionField":"max-quality","conditionValue":"1"}
-{"id":"01a095c5-6bf4-7384-8623-199878f301fd","conditionField":"stolen","conditionValue":"not-stolen"}
-{"id":"01a095c5-6bf4-779d-b20c-050c14c284e2","conditionField":"crafted","conditionValue":"not-crafted"}
-{"id":"01a095c5-6bf4-7811-af80-f5611a9d5958","conditionField":"potion-effects","conditionValue":"[\"stamina-restore\"]"}
-{"id":"01a095c5-6bf4-7219-b729-b3b98d87f06c","conditionField":"potion-effects-mode","conditionValue":"any"}
+{"id":"01a09621-24de-757b-8298-700c16161b53","conditionField":"max-quality","conditionValue":"1"}
+{"id":"01a09621-24de-733b-b564-854677f0e847","conditionField":"stolen","conditionValue":"not-stolen"}
+{"id":"01a09621-24de-7e8b-88b1-ef32bdcc0e49","conditionField":"crafted","conditionValue":"not-crafted"}
+{"id":"01a09621-24de-7095-b372-0ad64eb63aff","conditionField":"potion-effects","conditionValue":"[\"stamina-restore\"]"}
+{"id":"01a09621-24de-7d76-86ba-039b97439958","conditionField":"potion-effects-mode","conditionValue":"any"}
