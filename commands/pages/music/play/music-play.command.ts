@@ -7,13 +7,7 @@ export const musicPlay = {
   definition: "the command playing one track, named by a query or by a track uri",
   code: "ts",
   test: "ts",
-  taking: [
-    { said: "<query>", takes: "the track searched for, played as the top hit" },
-    {
-      said: "--uri <spotify:track:...>",
-      takes: "play this exact track and search for nothing, naming no query",
-    },
-  ],
+  taking: [{ said: "<query>", takes: "the track searched for, played as the top hit" }],
   invariants: [
     {
       invariantKind: "departure",
@@ -49,5 +43,6 @@ export const musicPlay = {
     { argument: "argument/json" },
     { argument: "argument/artist" },
     { argument: "argument/device-id" },
+    { argument: "argument/uri" },
   ],
 } as const satisfies Command
