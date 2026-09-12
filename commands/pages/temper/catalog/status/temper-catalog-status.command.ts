@@ -22,12 +22,16 @@ export const temperCatalogStatus = {
       takes: "give the state as JSON rather than as tab-separated rows and a summary",
     },
   ],
-  helpNotes: [
-    "both files default to the workstation's live game install.",
-    "a domain the capture is missing carries the reason the addon gave for skipping it, where it gave one.",
-    "a request naming no domain is read as one asking for every domain.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A file the call does not name is read from the game's live install.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A domain not collected carries the reason the addon gave for skipping it, where it gave one.",
+    },
     {
       invariantKind: "departure",
       statement: "Each account in the capture is reported over every domain the registry has.",
