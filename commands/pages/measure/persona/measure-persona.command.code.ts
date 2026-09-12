@@ -4,7 +4,7 @@ import {
   linesOf,
   type Measured,
   PLACES,
-} from "akasha/commands/modules/measure-tabling/measure-tabling.module.code.ts"
+} from "akasha/commands/pages/measure/measure-tabling/measure-tabling.module.code.ts"
 import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import { pointsTotalKept } from "akasha/personas/points/keeping/persona-points-keeping.module.code.ts"
 import { levelOf } from "akasha/personas/properties/persona-relationship-level.computed-property.code.ts"

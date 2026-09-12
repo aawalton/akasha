@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { linesOf } from "akasha/commands/modules/measure-tabling/measure-tabling.module.code.ts"
+import { linesOf } from "akasha/commands/pages/measure/measure-tabling/measure-tabling.module.code.ts"
 import {
   measuredIn,
   type Named,
