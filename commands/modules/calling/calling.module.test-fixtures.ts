@@ -199,7 +199,9 @@ export function ruledRoot(): string {
 }
 
 export function draftUnderChange(): string {
-  const root = rootWith([{ slug: "change-draft", body: ANSWERS, name: "draft" }])
+  const root = rootWith([{ slug: "change-draft", body: ANSWERS, name: "draft" }], COMMAND, [
+    "namespace/change",
+  ])
   namespacesIn(root, [
     {
       slug: "change",
@@ -209,6 +211,17 @@ export function draftUnderChange(): string {
     },
   ])
   return root
+}
+
+export function trackSession(): string {
+  return rootWith(
+    [
+      { slug: "track", body: ANSWERS, parts: ["command/track-session"] },
+      { slug: "track-session", body: ANSWERS, name: "session" },
+    ],
+    COMMAND,
+    ["command/track"]
+  )
 }
 
 export const ARGUMENT = "argument"

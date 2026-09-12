@@ -20,6 +20,7 @@ import {
   sweep,
   THROWS_NO_ERROR,
   TYPED,
+  trackSession,
   WILL_NOT_LOAD,
 } from "akasha/commands/modules/calling/calling.module.test-fixtures.ts"
 import { idTakenFrom } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
@@ -129,15 +130,7 @@ test("a shorter name is read where the longer one is carried by no command", asy
 })
 
 test("a level above the deepest is read where nothing deeper is reached", async () => {
-  const root = rootWith(
-    [
-      { slug: "track", body: ANSWERS, parts: ["command/track-session"] },
-      { slug: "track-session", body: ANSWERS, name: "session" },
-    ],
-    COMMAND,
-    ["command/track"]
-  )
-  const said = await calling(["track", "session", "open"], { ...OUTSIDE, root })
+  const said = await calling(["track", "session", "open"], { ...OUTSIDE, root: trackSession() })
   expect(said.code).toBe(0)
   expect(said.report[0]).toBe("open")
   expect(said.report[1]).toBe("akasha track session")
@@ -186,15 +179,7 @@ test("no run of leading words naming a command is refused under the first word",
 })
 
 test("a word steps a whole level, so a longer word reaches no command below", async () => {
-  const root = rootWith(
-    [
-      { slug: "track", body: ANSWERS, parts: ["command/track-session"] },
-      { slug: "track-session", body: ANSWERS, name: "session" },
-    ],
-    COMMAND,
-    ["command/track"]
-  )
-  const said = await calling(["track", "sessions"], { ...OUTSIDE, root })
+  const said = await calling(["track", "sessions"], { ...OUTSIDE, root: trackSession() })
   expect(said.code).toBe(0)
   expect(said.report[0]).toBe("sessions")
   expect(said.report[1]).toBe("akasha track")
@@ -217,6 +202,25 @@ test("a command reached under a namespace is answered rather than the namespace"
   expect(said.code).toBe(0)
   expect(said.report[0]).toBe("one")
   expect(said.report[1]).toBe("akasha track session open")
+})
+
+test("a word past a namespace reaching nothing it holds is refused", async () => {
+  const said = await calling(["change", "draf", "one"], { ...OUTSIDE, root: draftUnderChange() })
+  expect(said.code).toBe(INPUT)
+  expect(said.refusals[0]).toContain("`akasha change` holds no `draf`")
+  expect(said.refusals[0]).toContain("`draf one` reached nothing")
+  expect(said.refusals[0]).toContain("Did you mean `draft`?")
+  expect(said.refusals).toContain("  akasha change draft")
+  expect(said.report).toEqual([])
+})
+
+test("a namespace with nothing past it but the help flag is listed", async () => {
+  const root = draftUnderChange()
+  for (const argv of [["change"], ["change", HELP]]) {
+    const said = await calling(argv, { ...OUTSIDE, root })
+    expect(said.code).toBe(0)
+    expect(said.report).toContain("  akasha change draft")
+  }
 })
 
 test("a help answer carries what every namespace above states, widest first, its own last", async () => {

@@ -185,6 +185,27 @@ export const calling = {
     },
     {
       invariantKind: "departure",
+      statement: "A word past that namespace, reaching nothing that namespace holds, is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The words after that one are named in the refusal with it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Such a refusal names the call reaching that namespace and everything that namespace holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A word near a name that namespace holds is refused with that name pointed at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The help flag past a namespace asks for that namespace's listing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "One descent reaches both, so a namespace is looked for in no second descent.",
     },
     {

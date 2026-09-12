@@ -350,33 +350,63 @@ function levelTypesIn(root: string): readonly string[] {
   return held
 }
 
+function heldUnder(root: string, page: Record<string, unknown> | null): readonly Held[] {
+  const levels = levelsIn(root, levelTypesIn(root))
+  const held: Held[] = []
+  for (const part of partsOf(page)) {
+    const one = levelOfPart(levels, part)
+    if (one !== null) held.push(one)
+  }
+  return held
+}
+
 function listedUnder(
   root: string,
   page: Record<string, unknown> | null,
   under: string,
   definition: string | null
 ): readonly string[] | null {
-  const levels = levelsIn(root, levelTypesIn(root))
-  const held: Held[] = []
-  for (const part of partsOf(page)) {
-    const one = levelOfPart(levels, part)
-    if (one === null) continue
-    held.push({ named: `${under} ${one.named}`, said: one.said })
-  }
+  const held = heldUnder(root, page).map((one) => ({
+    named: `${under} ${one.named}`,
+    said: one.said,
+  }))
   return listingOf(under, definition, held, HELP)
+}
+
+function pastIn(argv: readonly string[], held: number): readonly string[] {
+  return argv.slice(held).filter((one) => one !== HELP && one !== HELP_SHORT)
+}
+
+function missedBy(
+  under: string,
+  past: readonly string[],
+  held: readonly Held[]
+): readonly string[] {
+  const word = past[0] ?? ""
+  const rest = past.length === 1 ? "" : `, so \`${past.join(" ")}\` reached nothing`
+  const near = meantSaid(
+    word,
+    held.map((one) => one.named)
+  )
+  return [`\`${under}\` holds no \`${word}\`${rest}.${near}`, ""]
 }
 
 function namespaceSaid(
   root: string,
   reached: Reached,
-  said: string,
+  argv: readonly string[],
   calledAs: string
-): readonly string[] | null {
+): Answer | null {
   const first = reached.found[0]
   if (reached.found.length !== 1 || first === undefined) return null
   const levels = levelsIn(root, levelTypesIn(root))
   const page = valuedUnder(levels, `${first.type}${SLASH}${first.slug}`)?.value ?? null
-  return listedUnder(root, page, `${calledAs} ${said}`, definitionOf(page))
+  const under = `${calledAs} ${saidIn(argv, reached.held)}`
+  const listing = listedUnder(root, page, under, definitionOf(page))
+  if (listing === null) return null
+  const past = pastIn(argv, reached.held)
+  if (past.length === 0) return { report: listing, refusals: [], code: OK }
+  return refusedBy([...missedBy(under, past, heldUnder(root, page)), ...listing], INPUT)
 }
 
 export async function calling(argv: readonly string[], outside: Outside): Promise<Answer> {
@@ -406,11 +436,11 @@ export async function calling(argv: readonly string[], outside: Outside): Promis
   const reached = walkedIn(root, argv)
   const first = reached === null ? undefined : reached.found[0]
   if (reached === null || first === undefined || first.type !== commandSlugIn(root)) {
-    const listing =
+    const answered =
       reached === null || first === undefined || first.type !== namespaceSlugIn(root)
         ? null
-        : namespaceSaid(root, reached, saidIn(argv, reached.held), outside.calledAs)
-    if (listing !== null) return { report: listing, refusals: [], code: OK }
+        : namespaceSaid(root, reached, argv, outside.calledAs)
+    if (answered !== null) return answered
     return unread === null
       ? carried(
           INPUT,
