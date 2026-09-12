@@ -25,5 +25,6 @@ export const messaging = {
     "module/messages-agent-tools",
     "page-type/notice",
     "domain/recipient-resolving",
+    "page-type/message",
   ],
 } as const satisfies Domain

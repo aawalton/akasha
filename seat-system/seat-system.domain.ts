@@ -91,7 +91,6 @@ export const seatSystem = {
     "module/subagent-naming",
     "page-type/agent-settings",
     "page-type/log-source",
-    "page-type/message",
     "page-type/seat",
     "page-type/seat-conditions",
     "page-type/seat-log-day",
