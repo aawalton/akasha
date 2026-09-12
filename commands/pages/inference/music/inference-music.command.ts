@@ -17,8 +17,6 @@ export const inferenceMusic = {
       said: "--lyrics-file <path>",
       takes: "those words read from a path, or `-` for standard input",
     },
-    { said: "--duration <s>", takes: "how many seconds the song runs for" },
-    { said: "--vocal-language <code>", takes: "the language the singing is in" },
   ],
   invariants: [
     {
@@ -58,5 +56,7 @@ export const inferenceMusic = {
     { argument: "argument/seed" },
     { argument: "argument/no-persist" },
     { argument: "argument/steps" },
+    { argument: "argument/duration" },
+    { argument: "argument/vocal-language" },
   ],
 } as const satisfies Command
