@@ -6,7 +6,7 @@ export const temperInventoryItemRuleShow = {
   slug: "temper-inventory-item-rule-show",
   definition: "the command giving back one per-item rule named by its id",
   code: "ts",
-  taking: [{ said: "<id>", takes: "the id of the per-item rule given back" }],
+  taking: [],
 
   invariants: [
     {
@@ -15,5 +15,8 @@ export const temperInventoryItemRuleShow = {
     },
   ],
   name: "show",
-  arguments: [{ argument: "argument/tsv" }],
+  arguments: [
+    { argument: "argument/tsv" },
+    { argument: "argument/item-rule-id", required: true, saidAs: "word" },
+  ],
 } as const satisfies Command
