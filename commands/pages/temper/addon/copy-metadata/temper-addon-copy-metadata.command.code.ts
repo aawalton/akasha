@@ -1,5 +1,10 @@
 import { resolve } from "node:path"
-import { DATA, INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  answering,
+  DATA,
+  INPUT,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
@@ -9,10 +14,31 @@ import {
   resolveAddon,
 } from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
 import { valuesOf } from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
-import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const ADDON = "--addon"
 const CODE_ROOT = "--code-root"
+
+export type Named = {
+  readonly root: string
+  readonly dir: string
+  readonly canonicalName: string
+}
+
+export type Copying = (done: string[], named: Named) => Promise<Answer>
+
+async function copied(done: string[], named: Named): Promise<Answer> {
+  const made = await copyAddonMetadata(named.root, named.dir, named.canonicalName, done)
+  const siblings = made.siblings.length === 0 ? "" : `: ${made.siblings.join(", ")}`
+  return told([
+    `copied ${named.canonicalName} metadata from ${named.dir} into ${made.distDir}`,
+    `${String(made.namedFiles)} named file(s), ${String(made.metadataFolders)} metadata folder(s), ` +
+      `${String(made.siblings.length)} sibling addon(s)${siblings}`,
+  ])
+}
+
+export async function copiedBy(named: Named, copying: Copying = copied): Promise<Answer> {
+  return await answering(async (done) => await copying(done, named))
+}
 
 export async function temperAddonCopyMetadata(argv: readonly string[] = []): Promise<Answer> {
   const asked = valuesOf(argv, ADDON)
@@ -40,17 +66,5 @@ export async function temperAddonCopyMetadata(argv: readonly string[] = []): Pro
     )
   }
 
-  try {
-    const done = await copyAddonMetadata(root, found.dir, found.canonicalName)
-    return {
-      report: [
-        `copied ${found.canonicalName} metadata from ${found.dir} into ${done.distDir}`,
-        `${String(done.namedFiles)} named file(s), ${String(done.metadataFolders)} metadata folder(s), ${String(done.siblings.length)} sibling addon(s)${done.siblings.length === 0 ? "" : `: ${done.siblings.join(", ")}`}`,
-      ],
-      refusals: [],
-      code: OK,
-    }
-  } catch (thrown) {
-    return refused(`${found.canonicalName}: ${messageOf(thrown)}`, DATA)
-  }
+  return await copiedBy({ root, dir: found.dir, canonicalName: found.canonicalName })
 }

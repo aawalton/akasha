@@ -93,5 +93,9 @@ export const addonCompilerConfig = {
       invariantKind: "departure",
       statement: "Every module name in the bundle is worked out from the repository root down.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A settings file written here is named to the caller as soon as it is written.",
+    },
   ],
 } as const satisfies Module

@@ -232,10 +232,11 @@ export type LoadOrderWritten = {
 export async function writeLoadOrder(
   root: string,
   addonDir: string,
-  canonicalName: string
+  canonicalName: string,
+  done: string[] = []
 ): Promise<LoadOrderWritten> {
   const distDir = join(root, ADDON_BUILD_REL_ROOT, DIST_UNDER, canonicalName)
-  await compilerConfigPathFor(root, addonDir, canonicalName)
+  await compilerConfigPathFor(root, addonDir, canonicalName, done)
   const generated = join(
     root,
     ADDON_BUILD_REL_ROOT,
@@ -268,7 +269,9 @@ export async function writeLoadOrder(
   const buildIdPath = join(distDir, BUILD_ID_FILE)
   mkdirSync(distDir, { recursive: true })
   writeFileSync(buildIdPath, buildIdLua(canonicalName, buildIdFor(addonDir)))
+  done.push(`wrote ${buildIdPath}`)
   writeFileSync(manifestPath, body)
+  done.push(`wrote ${manifestPath}`)
   return {
     manifestPath,
     buildIdPath,

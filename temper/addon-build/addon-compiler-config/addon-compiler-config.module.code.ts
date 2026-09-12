@@ -205,7 +205,8 @@ export function compilerConfigBody(asked: CompilerConfigAsked): string {
 export async function compilerConfigPathFor(
   repoRoot: string,
   addonDir: string,
-  canonicalName: string
+  canonicalName: string,
+  done: string[] = []
 ): Promise<string | null> {
   const beside = join(addonDir, TSCONFIG_NAME)
   if (existsSync(beside)) return beside
@@ -232,5 +233,6 @@ export async function compilerConfigPathFor(
       declaringDirs: declaringDirs(repoRoot),
     })
   )
+  done.push(`wrote ${path}`)
   return path
 }

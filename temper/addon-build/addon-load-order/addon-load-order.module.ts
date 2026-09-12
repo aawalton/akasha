@@ -64,5 +64,9 @@ export const addonLoadOrder = {
       invariantKind: "departure",
       statement: "Where a file the manifest lists sits is settled by one rule, held elsewhere.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Each file written here is named to the caller as soon as that file is written.",
+    },
   ],
 } as const satisfies Module

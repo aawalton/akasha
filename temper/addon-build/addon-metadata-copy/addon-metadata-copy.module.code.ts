@@ -81,21 +81,26 @@ export type MetadataCopied = {
 export async function copyAddonMetadata(
   root: string,
   addonDir: string,
-  canonicalName: string
+  canonicalName: string,
+  done: string[] = []
 ): Promise<MetadataCopied> {
   const buildRoot = join(root, ADDON_BUILD_REL_ROOT)
   const distDir = join(buildRoot, DIST_UNDER, canonicalName)
 
-  const order = await writeLoadOrder(root, addonDir, canonicalName)
+  const order = await writeLoadOrder(root, addonDir, canonicalName, done)
 
   const namedMarkup = namedFilePathOrNull(root, addonDir, `${canonicalName}.xml`)
   if (namedMarkup !== null) {
-    writeFileSync(join(distDir, `${canonicalName}.xml`), readFileSync(namedMarkup, "utf-8"))
+    const markupAt = join(distDir, `${canonicalName}.xml`)
+    writeFileSync(markupAt, readFileSync(namedMarkup, "utf-8"))
+    done.push(`wrote ${markupAt}`)
   }
 
   const bindings = await addonBindingsPathIn(root, addonDir)
   if (bindings !== null) {
-    writeFileSync(join(distDir, BINDINGS_FILE_NAME), readFileSync(bindings, "utf-8"))
+    const bindingsAt = join(distDir, BINDINGS_FILE_NAME)
+    writeFileSync(bindingsAt, readFileSync(bindings, "utf-8"))
+    done.push(`wrote ${bindingsAt}`)
   }
 
   const manifestPath = addonManifestPathIn(root, addonDir)
@@ -108,7 +113,9 @@ export async function copyAddonMetadata(
 
   const luaPaths = namedFilePathsIn(root, addonDir, shipped.additionalLuaFiles ?? [])
   for (const [name, from] of luaPaths) {
-    writeFileSync(join(distDir, name), readFileSync(from, "utf-8"))
+    const luaAt = join(distDir, name)
+    writeFileSync(luaAt, readFileSync(from, "utf-8"))
+    done.push(`wrote ${luaAt}`)
   }
 
   const metadataDir = join(addonDir, GAME_METADATA_DIR)
@@ -116,7 +123,9 @@ export async function copyAddonMetadata(
     ? readdirSync(metadataDir, { withFileTypes: true }).filter((one) => one.isDirectory())
     : []
   for (const one of folders) {
-    cpSync(join(metadataDir, one.name), join(distDir, one.name), { recursive: true })
+    const folderAt = join(distDir, one.name)
+    cpSync(join(metadataDir, one.name), folderAt, { recursive: true })
+    done.push(`copied ${folderAt}`)
   }
 
   const named = [
@@ -129,6 +138,7 @@ export async function copyAddonMetadata(
     const to = join(distDir, name)
     mkdirSync(dirname(to), { recursive: true })
     cpSync(from, to)
+    done.push(`copied ${to}`)
   }
 
   const siblingNames = readSiblingAddonNames(root, addonDir)
@@ -139,15 +149,20 @@ export async function copyAddonMetadata(
     const stated = carried.get(name)
     if (existsSync(from)) {
       cpSync(from, to, { recursive: true })
+      done.push(`copied ${to}`)
     } else if (stated !== undefined) {
+      const carriedAt = join(to, `${name}.txt`)
       mkdirSync(to, { recursive: true })
-      writeFileSync(join(to, `${name}.txt`), stated)
+      writeFileSync(carriedAt, stated)
+      done.push(`wrote ${carriedAt}`)
     } else {
       throw new Error(
         `copyAddonMetadata: ${canonicalName} declares the sibling addon "${name}", and neither ${from} nor a manifest beside the page carries it`
       )
     }
-    cpSync(join(distDir, OWNERSHIP_MARKER_FILE), join(to, OWNERSHIP_MARKER_FILE))
+    const markerAt = join(to, OWNERSHIP_MARKER_FILE)
+    cpSync(join(distDir, OWNERSHIP_MARKER_FILE), markerAt)
+    done.push(`copied ${markerAt}`)
   }
 
   const unlisted = unlistedIn(heldUnder(distDir, ""), readFileSync(order.manifestPath, "utf-8"))

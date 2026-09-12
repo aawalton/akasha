@@ -61,5 +61,10 @@ export const addonMetadataCopy = {
       invariantKind: "departure",
       statement: "A sibling folder is given the marker naming the build that wrote the sibling.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "Each file and folder written here is named to the caller as soon as it is written.",
+    },
   ],
 } as const satisfies Module
