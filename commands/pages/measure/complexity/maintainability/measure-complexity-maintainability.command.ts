@@ -7,6 +7,7 @@ export const measureComplexityMaintainability = {
   definition:
     "the command saying the maintainability index of each file of a checkout's TypeScript",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
