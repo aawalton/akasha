@@ -15,38 +15,35 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
-      statement: "A page the change does not have is read from the value index.",
+      statement: "A page the change does not carry is read at the commit the change starts from.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page the value index does not name is read from the body the change leaves at its path.",
+      statement: "A page no commit holds is read from the body on disk at that page's path.",
     },
     {
       invariantKind: "departure",
-      statement: "A shadow cast over no change reads a body from the working tree.",
+      statement: "The commit a change starts from is the commit at HEAD as the shadow is made.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body read at that commit is read once for a path and held for that reading.",
     },
     {
       invariantKind: "absence",
-      statement: "No page body is read from the working tree while a change is judged.",
+      statement: "No page a commit holds is read from the working tree while a change is judged.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The value index is read at the shadow's first ask rather than when the change was taken.",
+      statement: "A shadow cast over no change reads a body through a reading of the repository.",
     },
     {
       invariantKind: "departure",
-      statement: "A page's value is read from the file that page's own page type is filed under.",
+      statement: "A body is read at the shadow's first ask rather than when the change was taken.",
     },
     {
       invariantKind: "departure",
-      statement: "That page type is read off the page's file name.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "That file is read once for a page type and held for the life of the memo handed in.",
+      statement: "A body is read once for a path and held for the life of the memo handed in.",
     },
     {
       invariantKind: "departure",
@@ -63,7 +60,7 @@ export const shadow = {
     },
     {
       invariantKind: "absence",
-      statement: "No page type but the one a file name states is read to answer for that name.",
+      statement: "No page but the one asked for is read to answer for that page's path.",
     },
     {
       invariantKind: "departure",
@@ -220,11 +217,6 @@ export const shadow = {
     {
       invariantKind: "absence",
       statement: "Nothing here writes to the index.",
-    },
-    {
-      invariantKind: "gap",
-      statement:
-        "The value index a shadow answers from describes the commit the change is judged against.",
     },
     {
       invariantKind: "gap",

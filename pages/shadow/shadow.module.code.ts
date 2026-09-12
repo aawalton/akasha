@@ -1,16 +1,17 @@
 import { textOf } from "akasha/code/body-text/body-text.module.code.ts"
 import { digestOf } from "akasha/code/carried-file/carried-file.module.code.ts"
+import { told } from "akasha/git/running/git-running.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
-import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   type Answering,
   answeringOver,
 } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
 import { bodiesFrom } from "akasha/pages/indexes/index-keeping/index-keeping.module.code.ts"
-import { readingIn, valuesByPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { settlingOver } from "akasha/pages/indexes/settling/index-settling.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
-import { valueAt, valueIn } from "akasha/pages/value/page-value.module.code.ts"
+import { indexIn, readingAt } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
+import { valueIn } from "akasha/pages/value/page-value.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 export type Shadow = {
@@ -33,19 +34,14 @@ export const NOT_WORKED_OUT =
 
 export type Remembered = {
   readonly values: Map<string, Value | null>
-  readonly filed: Map<string, ReadonlyMap<string, Value>>
 }
 
 export function remembered(): Remembered {
-  return { values: new Map(), filed: new Map() }
+  return { values: new Map() }
 }
 
 export function forgotten(held: Remembered, paths: Iterable<string>): undefined {
-  for (const path of paths) {
-    held.values.delete(path)
-    const said = partedIn(path)
-    if (said !== null) held.filed.delete(said.pageType)
-  }
+  for (const path of paths) held.values.delete(path)
 }
 
 export function heldPerShadow<Held>(made: (shadow: Shadow) => Held): (shadow: Shadow) => Held {
@@ -72,22 +68,10 @@ function remembering(
   }
 }
 
-function filedOver(
-  reading: Reading,
-  bodyOf: (path: string) => Value | null,
-  held: Map<string, ReadonlyMap<string, Value>>
-): (path: string) => Value | null {
-  const filed = (pageType: string): ReadonlyMap<string, Value> => {
-    const found = held.get(pageType)
-    if (found !== undefined) return found
-    const made = valuesByPath(reading, pageType)
-    held.set(pageType, made)
-    return made
-  }
+function bodyOver(reading: Reading): (path: string) => Value | null {
   return (path) => {
-    const said = partedIn(path)
-    if (said === null) return bodyOf(path)
-    return filed(said.pageType).get(path) ?? bodyOf(path)
+    const body = reading.read(path)
+    return body === null ? null : valueIn(body)
   }
 }
 
@@ -96,10 +80,6 @@ function bodyIn(change: Change): (path: string) => Value | null {
     const body = textOf(change.after(path))
     return body === null ? null : valueIn(body)
   }
-}
-
-function bodyOnDisk(root: string): (path: string) => Value | null {
-  return (path) => valueAt(path, root)
 }
 
 function nothingMoved(change: Change): boolean {
@@ -139,7 +119,7 @@ function shadowOver(
   bodyOf: (path: string) => Value | null,
   held: Remembered = remembered()
 ): Shadow {
-  const pageOf = remembering(filedOver(reading, bodyOf, held.filed), held.values)
+  const pageOf = remembering(bodyOf, held.values)
   return {
     index: answeringOver(reading, pageOf),
     filed: () => new Map(),
@@ -150,7 +130,8 @@ function shadowOver(
 }
 
 export function shadowAt(root: string): Shadow {
-  return shadowOver(readingIn(root), bodyOnDisk(root), remembered())
+  const reading = readingIn(root)
+  return shadowOver(reading, bodyOver(reading), remembered())
 }
 
 function castFrom(was: Reading, change: Change, held: Remembered): Cast {
@@ -159,8 +140,11 @@ function castFrom(was: Reading, change: Change, held: Remembered): Cast {
     return { shadow: shadowOver(was, body, held), reading: was }
   }
   const carried = new Set(change.changed)
-  const under = filedOver(was, body, held.filed)
-  const pageOf = remembering((path) => (carried.has(path) ? body(path) : under(path)), held.values)
+  const beneath = bodyOver(was)
+  const pageOf = remembering(
+    (path) => (carried.has(path) ? body(path) : beneath(path)),
+    held.values
+  )
   try {
     const moving = change.changed.map((path) => ({
       path,
@@ -194,8 +178,27 @@ export function shadowOnto(
   return castFrom(was ?? readingIn(change.root), change, held)
 }
 
+function pinnedIn(root: string): Reading {
+  const head = told(root, ["rev-parse", "HEAD"])
+  const commit = head === null ? null : head.trim()
+  const under = readingAt(indexIn(root), root)
+  const bodies = new Map<string, string | null>()
+  return {
+    holds: under.holds,
+    listing: under.listing,
+    lines: under.lines,
+    read: (path) => {
+      if (bodies.has(path)) return bodies.get(path) ?? null
+      const said = commit === null ? null : told(root, ["cat-file", "blob", `${commit}:${path}`])
+      const made = said ?? under.read(path)
+      bodies.set(path, made)
+      return made
+    },
+  }
+}
+
 function castOver(change: Change): Cast {
-  return castFrom(readingIn(change.root), change, remembered())
+  return castFrom(pinnedIn(change.root), change, remembered())
 }
 
 export function shadowAsked(change: Change): Shadow {

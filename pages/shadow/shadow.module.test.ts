@@ -21,6 +21,7 @@ import {
   carriedOver,
   changeOver,
   codeOf,
+  committedIn,
   inside,
   landedInto,
   MOVED_TO,
@@ -247,26 +248,28 @@ test("an audit carries nothing, so every path holds its own body", () => {
   expect(codeOf(shadowFor(change))(inside("x.ts"))).toBe(inside("x.ts"))
 })
 
-test("a page the value index does not name is read from the base rather than from the working tree", () => {
+test("a page the change does not carry is read at the commit the change starts from", () => {
   const repo = seeded()
-  put(repo, UNFILED_AT, bodyOf(unfiled("at-the-base")))
+  put(repo, UNFILED_AT, bodyOf(unfiled("only-in-the-base")))
   const base = basedAside(repo)
+  put(repo, UNFILED_AT, bodyOf(unfiled("at-the-commit")))
+  committedIn(repo)
   put(repo, UNFILED_AT, bodyOf(unfiled("moved-in-the-tree")))
-  expect(everyValue(readingIn(repo)).has(UNFILED_AT)).toBe(false)
   expect(valueAt(UNFILED_AT, repo)?.["slug"]).toBe("moved-in-the-tree")
   const cast = shadowOnto(repo, base)
   if ("refused" in cast) throw new Error(cast.refused)
-  expect(cast.shadow.pageOf(UNFILED_AT)?.["slug"]).toBe("at-the-base")
+  expect(cast.shadow.pageOf(UNFILED_AT)?.["slug"]).toBe("at-the-commit")
 })
 
-test("a page the working tree holds and no base holds is no page in the shadow", () => {
+test("a page no commit holds is read from the body on disk at that page's path", () => {
   const repo = seeded()
+  committedIn(repo)
   const base = basedAside(repo)
   put(repo, UNFILED_AT, bodyOf(unfiled("in-the-tree-alone")))
-  expect(valueAt(UNFILED_AT, repo)?.["slug"]).toBe("in-the-tree-alone")
+  expect(everyValue(readingIn(repo)).has(UNFILED_AT)).toBe(false)
   const cast = shadowOnto(repo, base)
   if ("refused" in cast) throw new Error(cast.refused)
-  expect(cast.shadow.pageOf(UNFILED_AT)).toBe(null)
+  expect(cast.shadow.pageOf(UNFILED_AT)?.["slug"]).toBe("in-the-tree-alone")
 })
 
 test("a page the change leaves naming nothing is among the refusals, though the change does not carry it", () => {

@@ -1,6 +1,7 @@
 import { cpSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { said } from "akasha/git/running/git-running.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   aType,
@@ -198,6 +199,15 @@ export function rewrittenOver(root: string): Change {
 export function codeOf(cast: Cast): (path: string) => string | null {
   if ("refused" in cast) throw new Error(cast.refused)
   return cast.shadow.codeAt
+}
+
+export function committedIn(root: string): undefined {
+  said(root, ["init", "-q"])
+  said(root, ["config", "user.email", "shadow@nowhere"])
+  said(root, ["config", "user.name", "Shadow"])
+  said(root, ["config", "commit.gpgsign", "false"])
+  said(root, ["add", "-A"])
+  said(root, ["commit", "-q", "-m", "seeded"])
 }
 
 export function basedAside(root: string): (path: string) => Uint8Array | null {
