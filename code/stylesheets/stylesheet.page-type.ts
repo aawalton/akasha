@@ -6,7 +6,7 @@ export const stylesheet = {
   slug: "stylesheet",
   definition: "the rules a browser dresses something by",
   pluralSlug: "stylesheets",
-  parts: ["file-property/styles"],
+  parts: ["file-property/styles", "module/source-globbing"],
   extends: ["page-type/domain"],
   properties: [{ pageProperty: "file-property/styles", required: true, many: false }],
   invariants: [
