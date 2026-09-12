@@ -42,7 +42,7 @@ export function emailMessageSend(argv: readonly string[], given: Given): Promise
   if ("refused" in read) return Promise.resolve(refusing(read.refused, INPUT))
   return answering(async (done) => {
     const composed = await composedIn(given, read.taken)
-    if ("why" in composed) return refusing([composed.why], INPUT)
+    if ("why" in composed) return refusing(composed.why, INPUT)
     const google = await emailGoogle()
     const client = await google.makeGmailClient()
     return asJsonLines(await google.sendMessage(client, composed.input, done))

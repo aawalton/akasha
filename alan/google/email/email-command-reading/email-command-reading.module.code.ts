@@ -37,7 +37,7 @@ export function refusing(said: readonly string[], code: number): Answer {
   return refusedBy(said, code)
 }
 
-export type Composed = { readonly input: ComposeInput } | { readonly why: string }
+export type Composed = { readonly input: ComposeInput } | { readonly why: readonly string[] }
 
 export type Composing = {
   readonly toAddress: readonly string[]
@@ -69,13 +69,13 @@ export async function composedIn(
 ): Promise<Composed> {
   const root = resolve(given.root)
   const wrong = wrongIn(said)
-  if (wrong.length > 0) return { why: wrong.join(" | ") }
+  if (wrong.length > 0) return { why: wrong }
   const subject = filledIn(root, said.subject, said.subjectFile, SUBJECT_FILING, piping)
-  if ("refused" in subject) return { why: subject.refused.join(" | ") }
+  if ("refused" in subject) return { why: subject.refused }
   const body = filledIn(root, said.body, said.bodyFile, BODY_FILING, piping)
-  if ("refused" in body) return { why: body.refused.join(" | ") }
+  if ("refused" in body) return { why: body.refused }
   if (subject.text === undefined || body.text === undefined) {
-    return { why: `a composition names both \`${SUBJECT}\` and \`${BODY}\`` }
+    return { why: [`a composition names both \`${SUBJECT}\` and \`${BODY}\``] }
   }
   const input = await buildComposeInput({
     to: said.toAddress,
