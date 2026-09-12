@@ -1,4 +1,3 @@
-import type { HarnessRow } from "akasha/code/editor/extension/agent-forest-answer/agent-forest-answer.module.code.ts"
 import type { AgentNode } from "akasha/code/editor/extension/agent-row/agent-row.module.code.ts"
 import {
   SEAT_MODE_SCHEMA,
@@ -50,4 +49,18 @@ export function ancestorNames(roots: readonly AgentNode[], id: string): readonly
     }
   }
   return found
+}
+
+export interface HarnessRow {
+  readonly id: string
+  readonly name: string | null
+  readonly parent_agent_id: string | null
+  readonly principal: string | null
+  readonly launch: string | null
+  readonly mode: string | null
+  readonly live: boolean
+  readonly state: string | null
+  readonly waitingOn: string | null
+  readonly color: string | null
+  readonly at: string | null
 }

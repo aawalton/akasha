@@ -1,18 +1,5 @@
+import type { HarnessRow } from "akasha/code/editor/extension/agent-tree-lookup/agent-tree-lookup.module.code.ts"
 import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
-
-export interface HarnessRow {
-  readonly id: string
-  readonly name: string | null
-  readonly parent_agent_id: string | null
-  readonly principal: string | null
-  readonly launch: string | null
-  readonly mode: string | null
-  readonly live: boolean
-  readonly state: string | null
-  readonly waitingOn: string | null
-  readonly color: string | null
-  readonly at: string | null
-}
 
 export interface SubagentPage {
   readonly seat: string
