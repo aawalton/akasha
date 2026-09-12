@@ -337,39 +337,6 @@ type Unnamed<Page extends Commanding, Pages extends Argument> = Exclude<
 
 type Flat<Of> = { readonly [Key in keyof Of]: Of[Key] }
 
-type EntryFor<Page extends Commanding, Slug extends string> = Extract<
-  Entries<Page>,
-  { readonly argument: Slug | `argument/${Slug}` }
->
-
-type Holding<Page extends Commanding, Pages extends Argument, Slug extends string> = {
-  readonly [Key in Camel<Slug>]-?: Carried<
-    EntryFor<Page, Slug>,
-    PageOf<EntryFor<Page, Slug>, Pages>
-  >
-}
-
-type SaidOne<Page extends Commanding, Pages extends Argument, Entry extends Named> = Entry extends {
-  readonly oneOf: readonly string[]
-}
-  ? Extract<
-      Slugged<Entry["argument"] | Entry["oneOf"][number]>,
-      Slugged<Entries<Page>["argument"]>
-    > extends infer Slug
-    ? Slug extends string
-      ? Holding<Page, Pages, Slug>
-      : never
-    : never
-  : unknown
-
-type EachGroup<
-  Held extends readonly Named[],
-  Page extends Commanding,
-  Pages extends Argument,
-> = Held extends readonly [infer Head extends Named, ...infer Rest extends readonly Named[]]
-  ? SaidOne<Page, Pages, Head> & EachGroup<Rest, Page, Pages>
-  : unknown
-
 type HandTakenForTheArgumentPageFor<Said extends string> = { readonly missing: Said }
 
 export type TakenFor<Page extends Commanding, Pages extends Argument> = [
@@ -385,10 +352,7 @@ export type TakenFor<Page extends Commanding, Pages extends Argument> = [
           ? never
           : Camel<Slugged<Entry["argument"]>>]?: Carried<Entry, PageOf<Entry, Pages>>
       }
-    > &
-      (Page extends { readonly arguments: infer Held extends readonly Named[] }
-        ? EachGroup<Held, Page, Pages>
-        : unknown)
+    >
   : HandTakenForTheArgumentPageFor<Unnamed<Page, Pages>>
 
 function namedBy(entry: Named, bySlug: ReadonlyMap<string, Argument>): Naming | null {
