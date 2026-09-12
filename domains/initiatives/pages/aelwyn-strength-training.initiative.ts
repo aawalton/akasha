@@ -72,6 +72,9 @@ export const aelwynStrengthTraining = {
       statement:
         "A muscle under its weekly set floor is owed work before any muscle above that floor.",
     },
+    {
+      statement: "A set counts toward the weekly total only where that set was taken near failure.",
+    },
   ],
   constraints: [
     "The 122 sets already logged stay readable through any change to how training is tracked.",
