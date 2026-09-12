@@ -1,4 +1,4 @@
-import { costColorAt } from "akasha/alan/harness/cost/color/cost-color.module.code.ts"
+import { costColorAt } from "akasha/alan/harness/cost/modules/color/cost-color.module.code.ts"
 import { READOUT_CACHE_CONTROL } from "akasha/alan/harness/readouts/credential/readout-credential.module.code.ts"
 import {
   HABIT,

@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { costColorAt } from "akasha/alan/harness/cost/color/cost-color.module.code.ts"
+import { costColorAt } from "akasha/alan/harness/cost/modules/color/cost-color.module.code.ts"
 
 test("a cost of nothing is green whatever the surplus is", () => {
   expect(costColorAt(0, "blue")).toBe("green")

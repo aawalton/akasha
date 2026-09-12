@@ -1,8 +1,8 @@
+import { CONFIG } from "akasha/infrastructure/networks/auth-proxy/modules/config/auth-proxy-config.module.code.ts"
 import {
   applyCorsHeaders,
   buildPreflightResponse,
-} from "akasha/infrastructure/networks/auth-proxy/cors/cors.module.code.ts"
-import { CONFIG } from "akasha/infrastructure/networks/auth-proxy/modules/config/auth-proxy-config.module.code.ts"
+} from "akasha/infrastructure/networks/auth-proxy/modules/cors/cors.module.code.ts"
 import {
   passthroughRequest,
   proxyRequest,

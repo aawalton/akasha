@@ -1,8 +1,8 @@
+import { CONFIG } from "akasha/infrastructure/networks/auth-proxy/modules/config/auth-proxy-config.module.code.ts"
 import {
   applyCorsHeadersWith,
   matchesAllowedOrigin,
-} from "akasha/infrastructure/networks/auth-proxy/cors-core/cors-core.module.code.ts"
-import { CONFIG } from "akasha/infrastructure/networks/auth-proxy/modules/config/auth-proxy-config.module.code.ts"
+} from "akasha/infrastructure/networks/auth-proxy/modules/cors-core/cors-core.module.code.ts"
 
 function isAllowedOrigin(origin: string | null): origin is string {
   return matchesAllowedOrigin(
