@@ -1,10 +1,10 @@
-import { LIBMAPPINS_GLOBAL_MAPGROUP } from "akasha/temper/lib-map-pins/map-pins-constants/map-pins-constants.module.code.ts"
+import type { Lib } from "akasha/temper/lib-map-pins/map-pins-types/map-pins-types.module.code.ts"
+import { LIBMAPPINS_GLOBAL_MAPGROUP } from "akasha/temper/lib-map-pins/modules/map-pins-constants/map-pins-constants.module.code.ts"
 import {
   getCurrentGamepadMapFilterPanel,
   getCurrentMapFilterGroup,
   getPinTypeId,
-} from "akasha/temper/lib-map-pins/map-pins-helpers/map-pins-helpers.module.code.ts"
-import type { Lib } from "akasha/temper/lib-map-pins/map-pins-types/map-pins-types.module.code.ts"
+} from "akasha/temper/lib-map-pins/modules/map-pins-helpers/map-pins-helpers.module.code.ts"
 import { refreshPins } from "akasha/temper/lib-map-pins/pin-types/pin-types.module.code.ts"
 
 export function isEnabled(lib: Lib, pinType: number | string): boolean | undefined {

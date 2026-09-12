@@ -1,20 +1,3 @@
-import { CUSTOM_PINS } from "akasha/temper/navigation-addon/map-pins-config/map-pins-config.module.code.ts"
-import type { PinList } from "akasha/temper/navigation-addon/map-pins-data-types/map-pins-data-types.module.code.ts"
-import { FISH_ICON } from "akasha/temper/navigation-addon/map-pins-fish-icon/map-pins-fish-icon.module.code.ts"
-import { FISHING_BUG_FIX } from "akasha/temper/navigation-addon/map-pins-fishing-bug-fix/map-pins-fishing-bug-fix.module.code.ts"
-import { FISHING_NODES } from "akasha/temper/navigation-addon/map-pins-fishing-nodes/map-pins-fishing-nodes.module.code.ts"
-import { FISHING_ZONES } from "akasha/temper/navigation-addon/map-pins-fishing-zones/map-pins-fishing-zones.module.code.ts"
-import { IMPERIAL_CITY } from "akasha/temper/navigation-addon/map-pins-imperial-city/map-pins-imperial-city.module.code.ts"
-import {
-  asFishingBugFixTable,
-  asNestedPinTable,
-  asNumber,
-  asPinTag,
-  asString,
-  asStringList,
-  asStringNumberMap,
-  asSubzonePinTable,
-} from "akasha/temper/navigation-addon/map-pins-narrow/map-pins-narrow.module.code.ts"
 import type { MapPinCallbackFn } from "akasha/temper/navigation-addon/map-pins-pin-types/map-pins-pin-types.module.code.ts"
 import { getSavedVars } from "akasha/temper/navigation-addon/map-pins-saved-variables/map-pins-saved-variables.module.code.ts"
 import { SHRINE_ICON } from "akasha/temper/navigation-addon/map-pins-shrine-icon/map-pins-shrine-icon.module.code.ts"
@@ -31,6 +14,23 @@ import { ZONE_ACHIEVEMENT } from "akasha/temper/navigation-addon/map-pins-zone-a
 import { ACHIEVEMENTS } from "akasha/temper/navigation-addon/modules/map-pins-achievements/map-pins-achievements.module.code.ts"
 import { ALLIANCE_COLORS } from "akasha/temper/navigation-addon/modules/map-pins-alliance-colors/map-pins-alliance-colors.module.code.ts"
 import { LOOT_MAP_PIN_CALLBACKS } from "akasha/temper/navigation-addon/modules/map-pins-callbacks-loot/map-pins-callbacks-loot.module.code.ts"
+import { CUSTOM_PINS } from "akasha/temper/navigation-addon/modules/map-pins-config/map-pins-config.module.code.ts"
+import type { PinList } from "akasha/temper/navigation-addon/modules/map-pins-data-types/map-pins-data-types.module.code.ts"
+import { FISH_ICON } from "akasha/temper/navigation-addon/modules/map-pins-fish-icon/map-pins-fish-icon.module.code.ts"
+import { FISHING_BUG_FIX } from "akasha/temper/navigation-addon/modules/map-pins-fishing-bug-fix/map-pins-fishing-bug-fix.module.code.ts"
+import { FISHING_NODES } from "akasha/temper/navigation-addon/modules/map-pins-fishing-nodes/map-pins-fishing-nodes.module.code.ts"
+import { FISHING_ZONES } from "akasha/temper/navigation-addon/modules/map-pins-fishing-zones/map-pins-fishing-zones.module.code.ts"
+import { IMPERIAL_CITY } from "akasha/temper/navigation-addon/modules/map-pins-imperial-city/map-pins-imperial-city.module.code.ts"
+import {
+  asFishingBugFixTable,
+  asNestedPinTable,
+  asNumber,
+  asPinTag,
+  asString,
+  asStringList,
+  asStringNumberMap,
+  asSubzonePinTable,
+} from "akasha/temper/navigation-addon/modules/map-pins-narrow/map-pins-narrow.module.code.ts"
 
 const timeBreach = asSubzonePinTable(TIME_BREACH)
 const shrines = asSubzonePinTable(SHRINES)

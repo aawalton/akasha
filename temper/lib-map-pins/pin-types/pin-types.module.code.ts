@@ -1,12 +1,3 @@
-import {
-  DEFAULT_ADD_PIN_LEVEL,
-  DEFAULT_PIN_TEXTURE,
-  DEFAULT_SET_LAYOUT_LEVEL,
-} from "akasha/temper/lib-map-pins/map-pins-constants/map-pins-constants.module.code.ts"
-import {
-  getPinTypeId,
-  getPinTypeIdAndString,
-} from "akasha/temper/lib-map-pins/map-pins-helpers/map-pins-helpers.module.code.ts"
 import type {
   ClickHandler,
   Lib,
@@ -20,6 +11,15 @@ import {
   asOptionalObject,
   asPinTypeId,
 } from "akasha/temper/lib-map-pins/modules/map-pins-casts/map-pins-casts.module.code.ts"
+import {
+  DEFAULT_ADD_PIN_LEVEL,
+  DEFAULT_PIN_TEXTURE,
+  DEFAULT_SET_LAYOUT_LEVEL,
+} from "akasha/temper/lib-map-pins/modules/map-pins-constants/map-pins-constants.module.code.ts"
+import {
+  getPinTypeId,
+  getPinTypeIdAndString,
+} from "akasha/temper/lib-map-pins/modules/map-pins-helpers/map-pins-helpers.module.code.ts"
 
 export function addPinType(
   lib: Lib,
