@@ -56,12 +56,23 @@ export function idFiled(root: string, id: string, lines: readonly unknown[]): un
   identityFiled(root, PAGE, NO_SCOPE, ID, id, lines)
 }
 
+type Carried = {
+  readonly path?: unknown
+  readonly value?: { readonly id?: unknown; readonly slug?: unknown }
+}
+
 export function valueAlsoFiled(
   root: string,
   pageTypeSlug: string,
   lines: readonly unknown[]
 ): undefined {
   added(root, join(indexValue.name, pageTypeSlug), lines)
+  for (const one of lines as readonly Carried[]) {
+    const said = one.value
+    if (typeof one.path !== "string" || said === undefined) continue
+    if (typeof said.id !== "string" || typeof said.slug !== "string") continue
+    listedFiled(root, pageTypeSlug, said.slug, [{ path: one.path, id: said.id }])
+  }
 }
 
 export function lineFiled(root: string, at: string, line: string): undefined {
