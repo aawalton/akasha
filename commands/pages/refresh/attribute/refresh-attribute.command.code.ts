@@ -25,7 +25,7 @@ export function saidOf(rebuilt: number): string {
   return `${rebuilt} ${said} rebuilt from the days before today`
 }
 
-export async function refreshAttributes(_argv: readonly string[], given: Given): Promise<Answer> {
+export async function refreshAttribute(_argv: readonly string[], given: Given): Promise<Answer> {
   const now = new Date()
   const before = await totalAttributes(given.root, getEsoDayStr(now))
   const found = slugsIn(before.kept)
