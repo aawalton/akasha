@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { withSidecars } from "akasha/temper/addon-data/catalog-sidecars/catalog-sidecars.module.code.ts"
+import { withSidecars } from "akasha/temper/addon-data/modules/catalog-sidecars/catalog-sidecars.module.code.ts"
 import {
   asPage,
   type Page,

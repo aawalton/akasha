@@ -16,12 +16,12 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { temperCatalogInvalidate as page } from "akasha/commands/pages/temper/catalog/invalidate/temper-catalog-invalidate.command.ts"
 import { CATALOG_DOMAIN_KEYS } from "akasha/temper/catalog-core/domain-keys/domain-keys.module.code.ts"
-import { resolveSideFilePath } from "akasha/temper/catalog-side-file/catalog-file-paths/catalog-file-paths.module.code.ts"
+import { resolveSideFilePath } from "akasha/temper/catalog-side-file/modules/catalog-file-paths/catalog-file-paths.module.code.ts"
 import {
   computeNextSideFile,
   parseSideFile,
   serializeSideFile,
-} from "akasha/temper/catalog-side-file/catalog-side-file/catalog-side-file.module.code.ts"
+} from "akasha/temper/catalog-side-file/modules/catalog-side-file/catalog-side-file.module.code.ts"
 import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const NAMED = [json, sideFileArgument, allArgument, domainArgument]

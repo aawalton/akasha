@@ -1,4 +1,4 @@
-import type { CatalogPayload } from "akasha/temper/catalog-core/catalog-payload/catalog-payload.module.code.ts"
+import type { CatalogPayload } from "akasha/temper/catalog-core/modules/catalog-payload/catalog-payload.module.code.ts"
 
 export const CATALOG_DOMAIN_KEYS = [
   "achievementCatalog",

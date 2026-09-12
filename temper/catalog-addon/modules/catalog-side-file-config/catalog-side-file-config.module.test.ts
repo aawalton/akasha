@@ -1,5 +1,5 @@
 import { afterEach, describe, expect, test } from "bun:test"
-import { getPendingInvalidation } from "akasha/temper/catalog-addon/catalog-side-file-config/catalog-side-file-config.module.code.ts"
+import { getPendingInvalidation } from "akasha/temper/catalog-addon/modules/catalog-side-file-config/catalog-side-file-config.module.code.ts"
 
 function setConfig(value: unknown): undefined {
   Reflect.set(globalThis, "TemperCatalogConfig", value)

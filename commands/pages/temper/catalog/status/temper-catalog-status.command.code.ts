@@ -19,11 +19,11 @@ import {
 import {
   resolveSavedVariablesPath,
   resolveSideFilePath,
-} from "akasha/temper/catalog-side-file/catalog-file-paths/catalog-file-paths.module.code.ts"
+} from "akasha/temper/catalog-side-file/modules/catalog-file-paths/catalog-file-paths.module.code.ts"
 import {
   parseSideFile,
   type SideFile,
-} from "akasha/temper/catalog-side-file/catalog-side-file/catalog-side-file.module.code.ts"
+} from "akasha/temper/catalog-side-file/modules/catalog-side-file/catalog-side-file.module.code.ts"
 import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const NAMED = [json, sideFileArgument, savedVariablesFile]

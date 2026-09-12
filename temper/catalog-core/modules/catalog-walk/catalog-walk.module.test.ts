@@ -6,7 +6,7 @@ import {
   type CatalogWalkVerdict,
   runCatalogWalk,
   summarizeCatalogWalk,
-} from "akasha/temper/catalog-core/catalog-walk/catalog-walk.module.code.ts"
+} from "akasha/temper/catalog-core/modules/catalog-walk/catalog-walk.module.code.ts"
 
 const OPTIONS: CatalogWalkOptions = { domainDelayMs: 100, domainTimeoutMs: 60_000 }
 

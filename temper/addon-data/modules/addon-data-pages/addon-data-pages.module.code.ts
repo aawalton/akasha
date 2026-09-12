@@ -1,6 +1,6 @@
-import { withSidecars } from "akasha/temper/addon-data/catalog-sidecars/catalog-sidecars.module.code.ts"
 import { fetchMinedRestorePotions } from "akasha/temper/addon-data/mined-restore-potions/mined-restore-potions.module.code.ts"
 import { getPages } from "akasha/temper/addon-data/modules/addon-data-page-rows/addon-data-page-rows.module.code.ts"
+import { withSidecars } from "akasha/temper/addon-data/modules/catalog-sidecars/catalog-sidecars.module.code.ts"
 import type { MinedRestorePotion } from "akasha/temper/addon-data/potion-restore-metrics/potion-restore-metrics.module.code.ts"
 
 type PageResult = Awaited<ReturnType<typeof getPages>>

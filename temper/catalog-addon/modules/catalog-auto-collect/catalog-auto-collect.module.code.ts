@@ -11,13 +11,13 @@ import {
   DOMAIN_TIMEOUT,
 } from "akasha/temper/catalog-addon/modules/catalog-constants/catalog-constants.module.code.ts"
 import {
-  type CatalogWalkVerdict,
-  runCatalogWalk,
-} from "akasha/temper/catalog-core/catalog-walk/catalog-walk.module.code.ts"
-import {
   type CatalogDomainEntry,
   getCatalogDomains,
 } from "akasha/temper/catalog-core/domain-registry/domain-registry.module.code.ts"
+import {
+  type CatalogWalkVerdict,
+  runCatalogWalk,
+} from "akasha/temper/catalog-core/modules/catalog-walk/catalog-walk.module.code.ts"
 import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 
 export function autoCollect(): undefined {
