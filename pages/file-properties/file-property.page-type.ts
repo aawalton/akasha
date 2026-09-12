@@ -42,6 +42,18 @@ export const fileProperty = {
       invariantKind: "absence",
       statement: "No gate reading a page as prose reaches a file property's value.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The index row at a file's own path is what claims that file for its page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file landing through a change is filed and unfiled by the index gate.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file written or taken away outside a change is filed by whatever does that.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType
