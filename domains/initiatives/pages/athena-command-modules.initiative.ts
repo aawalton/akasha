@@ -11,7 +11,7 @@ export const athenaCommandModules = {
     {
       statement: "One function builds a command's refusal.",
       workingMemory:
-        "`refusedBy` at `command-answering.module.code.ts` builds every refusal, and the four named ways stay. Left: `Answer` lives in `calling`, so `answeredWith` cannot follow it and `index-refresh` spells its answer by hand. Rehearsed: three `move-code-export` drafts in one apply over 273 files, 2.7 processor seconds against a 300 ceiling, 0 refusals, and `answeredWith` and `refused` add no extra file. The apply's own cost is unmeasured.\n",
+        "`refusedBy` builds every refusal and the four named ways stay. `index-refresh` is the one file that cannot reach `answeredWith`, because it is the one file `calling` imports. The 273-file move was never the fix: a guard in `move-code-export` refuses a carried-back name without consulting the `type` flag it already holds, though `no-import-cycle` states an import the compiler erases is no edge. Mend the guard, move `answeredWith` and `refused` alone: 91 files.\n",
     },
     {
       statement:
