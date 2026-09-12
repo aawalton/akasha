@@ -7,7 +7,6 @@ export const inferenceRun = {
   definition: "the record kept of every run a model was asked for and of what that run made",
   parts: [
     "module/generation-log",
-    "module/inference-command-line",
     "module/inference-run-record",
     "module/inference-run-services",
     "module/inference-run-store",
