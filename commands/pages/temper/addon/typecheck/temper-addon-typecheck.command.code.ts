@@ -1,5 +1,9 @@
 import { join, resolve } from "node:path"
-import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  DATA,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
@@ -11,8 +15,6 @@ import {
 import { valuesOf } from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 import { saidBy as saidOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
-
-const FAILED = 3
 
 const ROOT_FLAG = "--code-root"
 
@@ -77,7 +79,7 @@ export async function temperAddonTypecheck(argv: readonly string[] = []): Promis
     if (left <= 0) {
       return refused(
         `the run passed its ceiling of ${String(CEILING_MS / A_MINUTE)} minutes before ${one.canonicalName} was typechecked, so what it would have found is unknown`,
-        FAILED
+        OPERATIONAL
       )
     }
 
@@ -87,7 +89,7 @@ export async function temperAddonTypecheck(argv: readonly string[] = []): Promis
     } catch (thrown) {
       return refused(
         `${one.canonicalName} names no settings the compiler could be run with — ${saidOf(thrown)}`,
-        FAILED
+        OPERATIONAL
       )
     }
     if (config === null) {
@@ -103,7 +105,7 @@ export async function temperAddonTypecheck(argv: readonly string[] = []): Promis
         refusals: [
           `${said.name} does not typecheck against its own compiler settings (exit ${String(said.code)}, ${String(said.errors.length)} error(s)), so the addons after it were left unread`,
         ],
-        code: FAILED,
+        code: OPERATIONAL,
       }
     }
     if (said.ownFiles === 0) {
@@ -112,7 +114,7 @@ export async function temperAddonTypecheck(argv: readonly string[] = []): Promis
         refusals: [
           `${said.name} compiled none of its own ${String(said.readFiles)} read file(s), so a clean result here is a result over nothing`,
         ],
-        code: FAILED,
+        code: OPERATIONAL,
       }
     }
   }
