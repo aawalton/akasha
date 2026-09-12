@@ -36,6 +36,14 @@ export const warranting = {
     },
     {
       invariantKind: "departure",
+      statement: "A warrant carries the page it ran over as well as the page it owes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The page a warrant ran over is attached here rather than by each warrant.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The readings owed are held to the ceiling one answer carries.",
     },
     {

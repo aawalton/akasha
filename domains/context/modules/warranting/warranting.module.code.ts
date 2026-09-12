@@ -53,6 +53,7 @@ export type Warrant = {
   readonly path: string
   readonly oid: string
   readonly owed: string
+  readonly over?: string
 }
 
 export type Owing = {
@@ -260,7 +261,7 @@ export function warrantsIn(
   changing?: Changing
 ): readonly Warrant[] {
   return gatheredAt(gatheredIn(root), when).flatMap((one) =>
-    one.warranting(root, path, knowing, changing)
+    one.warranting(root, path, knowing, changing).map((warrant) => ({ ...warrant, over: path }))
   )
 }
 

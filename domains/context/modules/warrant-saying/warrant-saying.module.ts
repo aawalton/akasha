@@ -18,6 +18,14 @@ export const warrantSaying = {
     },
     {
       invariantKind: "departure",
+      statement: "A refusal names the page the warrant ran over, so why it is owed has a subject.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A warrant that ran over the page it names says nothing more than the rule.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A refusal names the read that would answer the warrant ready to run.",
     },
     {

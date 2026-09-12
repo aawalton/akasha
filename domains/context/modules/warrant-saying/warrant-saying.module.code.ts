@@ -23,6 +23,8 @@ const AGAIN = [
 
 const TABOO_TERM = "taboo-term"
 
+const OWED_OVER = "It is owed over"
+
 export function fromTabooTerm(warrant: Warrant): boolean {
   return partedIn(warrant.path)?.pageType === TABOO_TERM
 }
@@ -32,8 +34,14 @@ export function callOf(paths: readonly string[]): string {
   return `  ${READING} ${once.map((one) => `${FLAG} ${one}`).join(" ")}`
 }
 
+export function owedOf(warrant: Warrant): string {
+  const over = warrant.over
+  if (over === undefined || over === warrant.path) return warrant.owed
+  return `${warrant.owed} ${OWED_OVER} ${over}.`
+}
+
 export function notReadOf(warrant: Warrant): string {
-  return [`${warrant.path} — the record does not show you read this.`, warrant.owed].join("\n")
+  return [`${warrant.path} — the record does not show you read this.`, owedOf(warrant)].join("\n")
 }
 
 export function againOf(held: number): string {
@@ -53,7 +61,7 @@ export function movedOf(warrant: Warrant, held: string): string {
   return [
     `${warrant.path} — you read this, and it has changed since.`,
     movedSaid(warrant, held),
-    warrant.owed,
+    owedOf(warrant),
   ].join("\n")
 }
 
@@ -61,7 +69,7 @@ export function partlyOf(warrant: Warrant, reach: number): string {
   return [
     `${warrant.path} — part of this reached you, and the rest has not.`,
     farSaid(reach),
-    warrant.owed,
+    owedOf(warrant),
   ].join("\n")
 }
 

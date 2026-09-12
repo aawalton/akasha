@@ -49,7 +49,7 @@ afterAll(sweeping)
 test("a path is asked what it warrants, and the warrants gathered say it", () => {
   const root = rootWith()
   const oid = writing(root, PATH, "one\n")
-  expect(warrantsIn(root, PATH, "write")).toEqual([{ path: PATH, oid, owed: OWED }])
+  expect(warrantsIn(root, PATH, "write")).toEqual([{ path: PATH, oid, owed: OWED, over: PATH }])
 })
 
 test("a warrant gathered says its slug, its page and the flags it stated", () => {
