@@ -1,4 +1,8 @@
-import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -98,7 +102,7 @@ async function fleeting(on: ReadonlySet<string>, report: string[]): Promise<Answ
     refusals: timedOut.map(
       (one) => `${one.agentId} did not take the ask up before the wait ran out`
     ),
-    code: timedOut.length === 0 ? 0 : 3,
+    code: timedOut.length === 0 ? OK : OPERATIONAL,
   }
 }
 
@@ -118,7 +122,7 @@ async function swapping(read: Taken, report: string[]): Promise<Answer> {
           lastRequestedAction: ACTION,
         }),
       ],
-      code: 3,
+      code: OPERATIONAL,
     }
   }
   if (read.on.has(JSON_OUT)) {
@@ -126,17 +130,17 @@ async function swapping(read: Taken, report: string[]): Promise<Answer> {
   } else {
     report.push(`${status}\t${found.id}`)
   }
-  return { report, refusals: [], code: 0 }
+  return { report, refusals: [], code: OK }
 }
 
 export async function modelGatewaySwap(argv: readonly string[], given: Given): Promise<Answer> {
   void given
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
   const report: string[] = []
   try {
     return await swapping(read, report)
   } catch (thrown) {
-    return { report, refusals: [whyOf(thrown)], code: 3 }
+    return { report, refusals: [whyOf(thrown)], code: OPERATIONAL }
   }
 }

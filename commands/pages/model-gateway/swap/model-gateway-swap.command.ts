@@ -67,6 +67,11 @@ export const modelGatewaySwap = {
       invariantKind: "absence",
       statement: "Nothing here arms a further act on the seat this command swapped.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A seat that did not take the swap up before the wait ran out is refused as an operational fault.",
+    },
   ],
   name: "swap",
   arguments: [{ argument: "argument/json" }],
