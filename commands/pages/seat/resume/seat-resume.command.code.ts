@@ -1,56 +1,26 @@
-import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { seat } from "akasha/commands/arguments/pages/seat.argument.ts"
+import { seatPrompt } from "akasha/commands/arguments/pages/seat-prompt.argument.ts"
+import { startMode } from "akasha/commands/arguments/pages/start-mode.argument.ts"
+import { refusedBy } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
-import {
-  namedIn,
-  ran,
-} from "akasha/commands/modules/seat-act-calling/seat-act-calling.module.code.ts"
-import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
-
-const RESUME = "resume"
-
-const PROMPT = "--prompt"
-
-const START_MODE = "--start-mode"
+import { ran } from "akasha/commands/modules/seat-act-calling/seat-act-calling.module.code.ts"
+import { seatResume as page } from "akasha/commands/pages/seat/resume/seat-resume.command.ts"
 
 const TARGET = "--agent-id"
 
-type Carried = { readonly carried: readonly string[] }
-
-function carriedIn(
-  word: string,
-  taking: readonly string[],
-  flags: readonly string[]
-): Carried | Answer {
-  const held: string[] = []
-  for (let at = 0; at < flags.length; at = at + 2) {
-    const one = flags[at]
-    if (one !== undefined && taking.includes(one)) {
-      const value = flags[at + 1]
-      if (value === undefined) {
-        return refused(`\`${one}\` names what follows it, and nothing did`, INPUT)
-      }
-      held.push(one, value)
-      continue
-    }
-    return refused(
-      `\`${word}\` takes ${namesDrawn(taking)} and nothing else, and ` +
-        `${namesDrawn(flags.slice(at, at + 1))} followed it`,
-      INPUT
-    )
-  }
-  return { carried: held }
-}
-
 export async function seatResume(argv: readonly string[], given: Given): Promise<Answer> {
-  const named = namedIn(given.calledAs, RESUME, argv)
-  if (!("name" in named)) return named
-  const carried = carriedIn(given.calledAs, [PROMPT, START_MODE], argv.slice(1))
-  if (!("carried" in carried)) return carried
+  const read = takenFor(argv, given.calledAs, page, [seatPrompt, seat, startMode])
+  if ("refused" in read) return refusedBy(read.refused)
+  const taken = read.taken
+  const carried = [
+    ...(taken.seatPrompt === undefined ? [] : [seatPrompt.said, taken.seatPrompt]),
+    ...(taken.startMode === undefined ? [] : [startMode.said, taken.startMode]),
+  ]
   const { default: resuming } = await import(
     "akasha/seat-system/seat-resume/seat-resume.module.code.ts"
   )
   return await ran(async (done) => {
-    await resuming([TARGET, named.name, ...carried.carried], done)
+    await resuming([TARGET, taken.seat, ...carried], done)
   })
 }

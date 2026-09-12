@@ -9,13 +9,13 @@ function given(root: string): Given {
 test("a resume naming no seat is refused", async () => {
   const said = await seatResume([], given("/nowhere"))
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("names the seat to resume")
+  expect(said.refusals[0]).toContain("takes `<name>`")
 })
 
 test("a resume given a flag where the seat goes is refused rather than reading it as a name", async () => {
   const said = await seatResume(["--prompt"], given("/nowhere"))
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("is a flag")
+  expect(said.refusals[0]).toContain("--prompt")
 })
 
 test("a resume carrying a flag it does not take is refused", async () => {
