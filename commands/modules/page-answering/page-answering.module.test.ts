@@ -15,11 +15,11 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import type {
   Generating,
   Taking,
-} from "akasha/commands/modules/eso-answering/eso-answering.module.code.ts"
+} from "akasha/commands/modules/page-answering/page-answering.module.code.ts"
 import {
   answeredByPage,
-  esoAnswering,
-} from "akasha/commands/modules/eso-answering/eso-answering.module.code.ts"
+  pageAnswering,
+} from "akasha/commands/modules/page-answering/page-answering.module.code.ts"
 
 type Handed = Taking<typeof NAMING_THEM, typeof PAGES>
 
@@ -54,7 +54,7 @@ test("what the call said reaches the work, read against the page handed in", asy
     return told(["ran"])
   }
 
-  const said = await esoAnswering(SEATED, GIVEN, NAMING_THEM, PAGES, work)
+  const said = await pageAnswering(SEATED, GIVEN, NAMING_THEM, PAGES, work)
 
   expect(seen).toEqual([{ seat: "athena", dryRun: false, to: [] }])
   expect(said.report).toEqual(["ran"])
@@ -67,7 +67,7 @@ test("a call the reader refuses is answered with the reasons, and no work runs",
     return told([])
   }
 
-  const said = await esoAnswering(UNREAD, GIVEN, NAMING_THEM, PAGES, work)
+  const said = await pageAnswering(UNREAD, GIVEN, NAMING_THEM, PAGES, work)
 
   expect(ran).toEqual([])
   expect(said.refusals).toEqual(["`--limit many` is no whole number of nought or more"])
@@ -77,7 +77,7 @@ test("a call the reader refuses is answered with the reasons, and no work runs",
 test("a work that threw after writing names what it had written", async () => {
   const work = throwingAfter([LANDED], BROKE)
 
-  const said = await esoAnswering(SEATED, GIVEN, NAMING_THEM, PAGES, work)
+  const said = await pageAnswering(SEATED, GIVEN, NAMING_THEM, PAGES, work)
 
   expect(said.report).toEqual([LANDED])
   expect(said.refusals.at(-1)).toBe(
@@ -87,7 +87,7 @@ test("a work that threw after writing names what it had written", async () => {
 })
 
 test("the work is handed values typed as the argument pages say", async () => {
-  const said = await esoAnswering(NUMBERED, GIVEN, NAMING_THEM, PAGES, TYPED)
+  const said = await pageAnswering(NUMBERED, GIVEN, NAMING_THEM, PAGES, TYPED)
 
   expect(said.report).toEqual(["athena", "2"])
 })

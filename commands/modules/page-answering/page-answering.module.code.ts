@@ -22,7 +22,7 @@ export type Generating<Taken> = (
   given: Given
 ) => Answer | Promise<Answer>
 
-export async function esoAnswering<Page extends Commanding, Pages extends readonly Argument[]>(
+export async function pageAnswering<Page extends Commanding, Pages extends readonly Argument[]>(
   argv: readonly string[],
   given: Given,
   page: Page,

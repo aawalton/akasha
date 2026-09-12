@@ -15,10 +15,10 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
-  esoAnswering,
   type Generating,
+  pageAnswering,
   type Taking,
-} from "akasha/commands/modules/eso-answering/eso-answering.module.code.ts"
+} from "akasha/commands/modules/page-answering/page-answering.module.code.ts"
 import { temperEsoDeclarationAudit as page } from "akasha/commands/pages/temper/eso/declaration-audit/temper-eso-declaration-audit.command.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import {
@@ -187,7 +187,7 @@ export async function auditing(
   given: Given,
   generating: Generating<Taken> = audited
 ): Promise<Answer> {
-  return await esoAnswering(argv, given, page, NAMED, generating)
+  return await pageAnswering(argv, given, page, NAMED, generating)
 }
 
 export function temperEsoDeclarationAudit(argv: readonly string[], given: Given): Promise<Answer> {

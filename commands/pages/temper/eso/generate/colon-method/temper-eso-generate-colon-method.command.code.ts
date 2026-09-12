@@ -17,9 +17,9 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
-  esoAnswering,
+  pageAnswering,
   type Taking,
-} from "akasha/commands/modules/eso-answering/eso-answering.module.code.ts"
+} from "akasha/commands/modules/page-answering/page-answering.module.code.ts"
 import { temperEsoGenerateColonMethod as page } from "akasha/commands/pages/temper/eso/generate/colon-method/temper-eso-generate-colon-method.command.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { esoDocPathForLuaRoot } from "akasha/temper/build-deploy-checks/eso-doc-api-version/eso-doc-api-version.module.code.ts"
@@ -54,7 +54,7 @@ export async function methoding(
   given: Given,
   staging: Staging = staged
 ): Promise<Answer> {
-  return await esoAnswering(argv, given, page, NAMED, (done, taken) =>
+  return await pageAnswering(argv, given, page, NAMED, (done, taken) =>
     naming(done, staging(done, taken, given))
   )
 }

@@ -17,10 +17,10 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
-  esoAnswering,
   type Generating,
+  pageAnswering,
   type Taking,
-} from "akasha/commands/modules/eso-answering/eso-answering.module.code.ts"
+} from "akasha/commands/modules/page-answering/page-answering.module.code.ts"
 import { temperEsoGenerateBaseGameGlobal as page } from "akasha/commands/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { esoDocPathForLuaRoot } from "akasha/temper/build-deploy-checks/eso-doc-api-version/eso-doc-api-version.module.code.ts"
@@ -58,7 +58,7 @@ export async function staging(
   given: Given,
   stagingWork: Staging = staged
 ): Promise<Answer> {
-  return await esoAnswering(argv, given, page, NAMED, async (done, taken, each) =>
+  return await pageAnswering(argv, given, page, NAMED, async (done, taken, each) =>
     naming(done, await stagingWork(done, taken, each))
   )
 }

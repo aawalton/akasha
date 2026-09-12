@@ -1,10 +1,10 @@
 import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
-export const esoAnswering = {
+export const pageAnswering = {
   id: "01a0958c-22fc-7986-9f8d-a89cff5c57f4",
   type: "module",
-  slug: "eso-answering",
-  definition: "the one way into an eso command, its call read against that command's own page",
+  slug: "page-answering",
+  definition: "the one way into a command, its call read against that command's own page",
   code: "ts",
   test: "ts",
   invariants: [
