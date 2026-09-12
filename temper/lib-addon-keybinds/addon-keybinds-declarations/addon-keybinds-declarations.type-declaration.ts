@@ -13,7 +13,7 @@ export const addonKeybindsDeclarations = {
     },
     {
       invariantKind: "departure",
-      statement: "A name more than one package reaches is declared in the shared game typings.",
+      statement: "A name more than one package reaches is declared in the shared game types.",
     },
     {
       invariantKind: "absence",

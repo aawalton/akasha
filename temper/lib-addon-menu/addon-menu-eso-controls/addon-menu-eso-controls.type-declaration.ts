@@ -13,7 +13,7 @@ export const addonMenuEsoControls = {
     },
     {
       invariantKind: "departure",
-      statement: "A name the shared game typings already declare is left out.",
+      statement: "A name the shared game types already declare is left out.",
     },
     {
       invariantKind: "absence",

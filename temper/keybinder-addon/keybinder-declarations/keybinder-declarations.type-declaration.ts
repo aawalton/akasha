@@ -9,7 +9,7 @@ export const keybinderDeclarations = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A shape a second package reaches is declared in the shared game typings.",
+      statement: "A shape a second package reaches is declared in the shared game types.",
     },
     {
       invariantKind: "departure",

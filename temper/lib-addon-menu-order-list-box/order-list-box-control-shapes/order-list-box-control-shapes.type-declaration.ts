@@ -14,7 +14,7 @@ export const orderListBoxControlShapes = {
     },
     {
       invariantKind: "departure",
-      statement: "A name the shared game typings already declare is left out of this file.",
+      statement: "A name the shared game types already declare is left out of this file.",
     },
     {
       invariantKind: "absence",
