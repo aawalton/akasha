@@ -1,9 +1,9 @@
 import { resolve } from "node:path"
 import {
-  INPUT,
-  OK,
   OPERATIONAL,
   refused,
+  refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -88,7 +88,7 @@ export async function temperInventoryCapacityAudit(
   given?: Given
 ): Promise<Answer> {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
+  if ("refused" in read) return refusedBy(read.refused)
   const root = given === undefined ? process.cwd() : resolve(given.root)
   try {
     const inputs = await planInputs()
@@ -116,14 +116,8 @@ export async function temperInventoryCapacityAudit(
       matched.ruleMap,
       db
     )
-    if (read.json) {
-      return {
-        report: JSON.stringify(audit, null, SPACES).split("\n"),
-        refusals: [],
-        code: OK,
-      }
-    }
-    return { report: [...auditSaid(audit)], refusals: [], code: OK }
+    if (read.json) return told(JSON.stringify(audit, null, SPACES).split("\n"))
+    return told([...auditSaid(audit)])
   } catch (thrown) {
     return refused(whyOf(thrown), OPERATIONAL)
   }
