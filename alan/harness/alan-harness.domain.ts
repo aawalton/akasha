@@ -103,7 +103,7 @@ export const alanHarness = {
     },
     {
       invariantKind: "departure",
-      statement: "Health samples are imported by `akasha track health import`.",
+      statement: "Health samples are imported by `akasha track health-import`.",
     },
     {
       invariantKind: "departure",
