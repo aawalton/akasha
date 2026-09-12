@@ -18,6 +18,7 @@ export const service = {
     "page-type/vendored-workload",
     "page-type/web-app",
     "service-workstation/cluster-deploying",
+    "service-workstation/container-recipe-deploying",
     "service-workstation/eso-addon-deploying",
     "service-workstation/service-watching",
     "service-workstation/web-app-deploying",
