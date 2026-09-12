@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { seatsWithSubagentPage } from "akasha/seat-system/seat-pending/pending-from-files/pending-from-files.module.code.ts"
+import { seatsWithSubagentPage } from "akasha/agents/seats/modules/pending/pending-from-files/pending-from-files.module.code.ts"
 import type { SubagentPage } from "akasha/seat-system/subagent-census/subagent-census.module.code.ts"
 
 const AMY = "01a087b5-1ca3-7000-bf5c-16aae1620c39"
