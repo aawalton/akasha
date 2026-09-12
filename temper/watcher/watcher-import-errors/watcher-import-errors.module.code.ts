@@ -1,9 +1,5 @@
 import type { ErrorEntry } from "akasha/temper/capture-errors/errors-payload/errors-payload.module.code.ts"
 import {
-  collectEntries,
-  SAVED_VARIABLES_NAME,
-} from "akasha/temper/errors-triage/errors-collect/errors-collect.module.code.ts"
-import {
   classifyLiveness,
   DEFAULT_STALE_AFTER_HOURS,
 } from "akasha/temper/errors-triage/errors-liveness/errors-liveness.module.code.ts"
@@ -12,6 +8,10 @@ import {
   gatherTriage,
   readDeployedBuildId,
 } from "akasha/temper/errors-triage/errors-triage-gather/errors-triage-gather.module.code.ts"
+import {
+  collectEntries,
+  SAVED_VARIABLES_NAME,
+} from "akasha/temper/errors-triage/modules/errors-collect/errors-collect.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
 import {
   loadErrorCursor,

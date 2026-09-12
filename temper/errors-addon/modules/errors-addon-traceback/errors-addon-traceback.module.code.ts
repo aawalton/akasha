@@ -1,5 +1,5 @@
 import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
-import { CALLSTACK_MAX_LEN } from "akasha/temper/errors-addon/errors-addon-limits/errors-addon-limits.module.code.ts"
+import { CALLSTACK_MAX_LEN } from "akasha/temper/errors-addon/modules/errors-addon-limits/errors-addon-limits.module.code.ts"
 import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
 
 function sanitizeTraceback(traceback: string): string {

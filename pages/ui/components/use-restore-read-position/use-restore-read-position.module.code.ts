@@ -1,6 +1,6 @@
 "use client"
 
-import { reportError } from "akasha/alan/harness/errors-client/error-reporting/error-reporting.module.code.ts"
+import { reportError } from "akasha/alan/harness/errors-client/modules/error-reporting/error-reporting.module.code.ts"
 import {
   decideReadRestore,
   fractionToScrollTop,

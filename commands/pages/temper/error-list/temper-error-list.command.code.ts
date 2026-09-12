@@ -16,10 +16,6 @@ import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.t
 import { listAllAddons } from "akasha/temper/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
 import type { ErrorEntry } from "akasha/temper/capture-errors/errors-payload/errors-payload.module.code.ts"
 import {
-  collectEntries,
-  SAVED_VARIABLES_NAME,
-} from "akasha/temper/errors-triage/errors-collect/errors-collect.module.code.ts"
-import {
   classifyLiveness,
   DEFAULT_STALE_AFTER_HOURS,
   extractOwningAddonCandidates,
@@ -31,6 +27,10 @@ import {
   gatherTriage,
   readDeployedBuildId,
 } from "akasha/temper/errors-triage/errors-triage-gather/errors-triage-gather.module.code.ts"
+import {
+  collectEntries,
+  SAVED_VARIABLES_NAME,
+} from "akasha/temper/errors-triage/modules/errors-collect/errors-collect.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
 import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"

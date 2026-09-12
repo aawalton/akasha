@@ -1,5 +1,5 @@
-import { reportError } from "akasha/alan/harness/errors-client/error-reporting/error-reporting.module.code.ts"
-import type { ErrorReport } from "akasha/alan/harness/errors-core/error-report/error-report.module.code.ts"
+import { reportError } from "akasha/alan/harness/errors-client/modules/error-reporting/error-reporting.module.code.ts"
+import type { ErrorReport } from "akasha/alan/harness/errors-core/modules/error-report/error-report.module.code.ts"
 import { normalizeThrowable } from "akasha/alan/harness/errors-core/throwable-normalizing/throwable-normalizing.module.code.ts"
 
 export type ErrorApp = ErrorReport["app"]

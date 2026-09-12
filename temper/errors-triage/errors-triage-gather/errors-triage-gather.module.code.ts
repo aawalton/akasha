@@ -1,12 +1,12 @@
 import { readFile } from "node:fs/promises"
 import type { ErrorEntry } from "akasha/temper/capture-errors/errors-payload/errors-payload.module.code.ts"
-import { inferCulpritAddon } from "akasha/temper/errors-triage/errors-crash-signatures/errors-crash-signatures.module.code.ts"
 import {
   classifyTriage,
   type InferredCulprit,
   type Triage,
   type TriageReason,
 } from "akasha/temper/errors-triage/errors-triage/errors-triage.module.code.ts"
+import { inferCulpritAddon } from "akasha/temper/errors-triage/modules/errors-crash-signatures/errors-crash-signatures.module.code.ts"
 import { addonsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { z } from "zod"
 
