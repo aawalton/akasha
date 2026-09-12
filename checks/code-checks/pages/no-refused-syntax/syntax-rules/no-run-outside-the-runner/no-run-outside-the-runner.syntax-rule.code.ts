@@ -6,7 +6,13 @@ import type {
 import { lineOf } from "akasha/code/source/code-source.module.code.ts"
 import ts from "typescript"
 
-const RUNNER_AT = "utils/run/running/"
+const RUNNER_UNDER = "utils/run/"
+
+const RUNNER_IN = "/running/"
+
+function runnerAt(path: string): boolean {
+  return path.startsWith(RUNNER_UNDER) && path.includes(RUNNER_IN)
+}
 
 const CHILD = "node:child_process"
 
@@ -23,10 +29,9 @@ const CAPTURES: ReadonlySet<string> = new Set([
 ])
 
 export const mark: Marking = (text, path) =>
-  !path.startsWith(RUNNER_AT) &&
-  (text.includes(CHILD) || (text.includes(BUN) && text.includes(SYNC)))
+  !runnerAt(path) && (text.includes(CHILD) || (text.includes(BUN) && text.includes(SYNC)))
 
-const INSTEAD = "reach for `ran` or `said` or `bytes` or `shown` from `@akasha/utils/run/running`"
+const INSTEAD = "reach for `ran` or `said` or `bytes` or `shown` from the `running` module"
 
 type Bound = {
   readonly named: ReadonlySet<string>
@@ -67,7 +72,7 @@ function capturedBy(node: ts.CallExpression, bound: Bound): string | null {
 }
 
 export function noRunOutsideTheRunner(standing: Given): readonly Refusal[] {
-  if (standing.path.startsWith(RUNNER_AT)) return []
+  if (runnerAt(standing.path)) return []
   const bound = boundIn(standing.source)
   const found: Refusal[] = []
   const visit = (node: ts.Node): undefined => {

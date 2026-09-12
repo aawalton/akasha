@@ -31,6 +31,10 @@ export const noRunOutsideTheRunner = {
     },
     {
       invariantKind: "departure",
+      statement: "Which folder that is is read from the folder's name rather than its whole path.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A method of that name reached on anything else is not a call to node's child process.",
     },

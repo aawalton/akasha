@@ -62,7 +62,7 @@ test("the line named is the line the call is on", () => {
 
 test("the reason names what to do instead", () => {
   const said = noRunOutsideTheRunner(parsed("Bun.spawnSync(argv)\n"))
-  expect(said[0]?.reason).toContain("@akasha/utils/run/running")
+  expect(said[0]?.reason).toContain("the `running` module")
 })
 
 test("a regular expression's own exec is permitted", () => {
@@ -83,8 +83,8 @@ test("Bun.which is permitted", () => {
   expect(noRunOutsideTheRunner(parsed("Bun.which(TOOL)\n"))).toEqual([])
 })
 
-test("a file in the runner's own folder is refused nothing", () => {
-  const at = "utils/run/running/held.module.code.ts"
+test("a file in the runner's own folder is refused nothing, wherever that folder sits", () => {
+  const at = "utils/run/modules/running/held.module.code.ts"
   const text = 'import { spawnSync } from "node:child_process"\nspawnSync(argv)\n'
   expect(
     noRunOutsideTheRunner({

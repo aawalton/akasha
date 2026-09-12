@@ -6,7 +6,7 @@ import {
 } from "akasha/infrastructure/container-image/dockerfiles/dockerfile-imports/dockerfile-imports.module.code.ts"
 
 const AUTH_PROXY = "infrastructure/networks/auth-proxy"
-const REACHED = "utils/narrow/require-env"
+const REACHED = "/require-env"
 
 describe("what a service reaches", () => {
   test("a service holding no src folder answers its own files as entries", () => {
@@ -14,6 +14,7 @@ describe("what a service reaches", () => {
   })
 
   test("a folder reached through the root package is answered", () => {
-    expect(collectExecutedDeps(AUTH_PROXY, buildPackageNameMap())).toContain(REACHED)
+    const found = [...collectExecutedDeps(AUTH_PROXY, buildPackageNameMap())]
+    expect(found.filter((one) => one.endsWith(REACHED))).toHaveLength(1)
   })
 })
