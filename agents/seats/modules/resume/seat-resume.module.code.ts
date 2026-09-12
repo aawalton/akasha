@@ -37,6 +37,7 @@ import {
 } from "akasha/agents/seats/modules/takeover-seat/takeover-seat.module.code.ts"
 import { parseWindowDuration } from "akasha/agents/seats/modules/window-duration/window-duration.module.code.ts"
 import { decideSubagentGuard } from "akasha/agents/subagents/modules/guard/subagent-guard.module.code.ts"
+import { standingSubagentsOf } from "akasha/agents/subagents/modules/page/subagent-page.module.code.ts"
 import {
   dataError,
   exitCodeForThrowable,
@@ -44,7 +45,6 @@ import {
   operationalError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { parseArgs } from "akasha/commands/modules/parse-args/parse-args.module.code.ts"
-import { standingSubagentsOf } from "akasha/seat-system/subagent-page/subagent-page.module.code.ts"
 import { readStdinOrFile } from "akasha/utils/fs/read-stdin-or-file/read-stdin-or-file.module.code.ts"
 import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 

@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
+import { committed } from "akasha/agents/subagents/modules/page/subagent-page.module.test-fixtures.ts"
 import {
   pageInHistory,
   subagentPageInHistory,
 } from "akasha/agents/subagents/modules/page-history/subagent-page-history.module.code.ts"
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
-import { committed } from "akasha/seat-system/subagent-page/subagent-page.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 
