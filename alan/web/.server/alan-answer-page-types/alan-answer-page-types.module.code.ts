@@ -3,7 +3,7 @@ import {
   capacitorCorsHeaders,
   corsAnswered,
   corsPreflight,
-} from "akasha/alan/web/capacitor-cors/capacitor-cors.module.code.ts"
+} from "akasha/alan/web/modules/capacitor-cors/capacitor-cors.module.code.ts"
 
 const CORS_METHODS = "GET, OPTIONS"
 

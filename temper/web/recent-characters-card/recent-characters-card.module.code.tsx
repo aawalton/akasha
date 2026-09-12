@@ -9,7 +9,7 @@ import {
   EmptyMedia,
   EmptyTitle,
 } from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
-import { CardDescription } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
+import { CardDescription } from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"

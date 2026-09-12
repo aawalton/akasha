@@ -4,7 +4,7 @@ import {
   actionOnlyLoader,
   capacitorCorsHeaders,
   withCors,
-} from "akasha/alan/web/capacitor-cors/capacitor-cors.module.code.ts"
+} from "akasha/alan/web/modules/capacitor-cors/capacitor-cors.module.code.ts"
 import { revokeDeviceSecretSchema } from "akasha/persons/device-secret-body/device-secret-body.module.code.ts"
 
 const CORS_METHODS = "POST, OPTIONS"

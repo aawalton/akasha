@@ -7,7 +7,7 @@ import type {
   SystemWindow,
   TalentActivation,
 } from "akasha/story/engine/core/system-window-schema/system-window-schema.module.code.ts"
-import { CardField } from "akasha/story/ui/card-field/card-field.module.code.tsx"
+import { CardField } from "akasha/story/ui/modules/card-field/card-field.module.code.tsx"
 import {
   type SubmitPlayerAction,
   SystemChoiceCard,

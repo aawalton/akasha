@@ -8,7 +8,7 @@ import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card
 import {
   CardContent,
   CardTitle,
-} from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
+} from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { PagesUILink as Link } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"

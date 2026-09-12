@@ -11,7 +11,7 @@ import {
 import {
   READOUT_SLUG as CAPACITY_SLUG,
   takeReading as takeCapacity,
-} from "akasha/alan/harness/capacity/reading/capacity-reading.module.code.ts"
+} from "akasha/alan/harness/capacity/modules/reading/capacity-reading.module.code.ts"
 import {
   READOUT_SLUG as COST_SLUG,
   takeReading as takeCost,

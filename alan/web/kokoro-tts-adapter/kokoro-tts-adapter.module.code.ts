@@ -2,7 +2,7 @@ import { buildKokoroSpeechInput } from "akasha/alan/harness/voice-core/speech/sp
 import {
   getKokoroTts,
   type PluginListenerHandle,
-} from "akasha/alan/web/capacitor-bridge/capacitor-bridge.module.code.ts"
+} from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
 import type {
   NativeTtsAdapter,
   NativeTtsEvent,

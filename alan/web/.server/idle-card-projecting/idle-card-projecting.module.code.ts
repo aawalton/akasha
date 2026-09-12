@@ -4,7 +4,7 @@ import { IDLE_PERSONA_CARD_PAGE_TYPE_SLUG } from "akasha/alan/web/idle-card-page
 import type { PersonaInfo } from "akasha/alan/web/idle-card-projection/idle-card-projection.module.code.ts"
 import type { Catalog } from "akasha/alan/web/idle-catalog/idle-catalog.module.code.ts"
 import { unwritten } from "akasha/alan/web/pages-unheld/pages-unheld.module.code.ts"
-import { captureError } from "akasha/pages/access/capture-error/capture-error.module.code.ts"
+import { captureError } from "akasha/pages/access/modules/capture-error/capture-error.module.code.ts"
 
 export async function projectUserCards(
   _sb: IdleSupabase,

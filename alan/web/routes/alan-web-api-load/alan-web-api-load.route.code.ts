@@ -3,7 +3,7 @@ import { loadSave } from "akasha/alan/web/.server/idle-saves/idle-saves.module.c
 import {
   capacitorCorsHeaders,
   withCors,
-} from "akasha/alan/web/capacitor-cors/capacitor-cors.module.code.ts"
+} from "akasha/alan/web/modules/capacitor-cors/capacitor-cors.module.code.ts"
 
 const CORS_METHODS = "GET, OPTIONS"
 

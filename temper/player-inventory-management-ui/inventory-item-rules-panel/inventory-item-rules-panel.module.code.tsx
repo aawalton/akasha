@@ -7,8 +7,8 @@ import {
   EmptyHeader,
   EmptyTitle,
 } from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
-import { CardTitleBadges } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
+import { CardTitleBadges } from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
 import type { MinedItemSearchResult } from "akasha/temper/items-core/item-tooltip-types/item-tooltip-types.module.code.ts"
 import type { ItemRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {

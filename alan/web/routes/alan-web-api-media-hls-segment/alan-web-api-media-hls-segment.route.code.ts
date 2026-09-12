@@ -1,10 +1,10 @@
 import { resolveRequestUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
+import { isMediaPageId } from "akasha/alan/web/media-page/media-page.module.code.ts"
 import {
   capacitorCorsHeaders,
   corsPreflight,
   corsResponder,
-} from "akasha/alan/web/capacitor-cors/capacitor-cors.module.code.ts"
-import { isMediaPageId } from "akasha/alan/web/media-page/media-page.module.code.ts"
+} from "akasha/alan/web/modules/capacitor-cors/capacitor-cors.module.code.ts"
 import { hlsSegmentObjectKey } from "akasha/infrastructure/storage/object-store/key/object-store-key.module.code.ts"
 import {
   type ObjectStreamResult,

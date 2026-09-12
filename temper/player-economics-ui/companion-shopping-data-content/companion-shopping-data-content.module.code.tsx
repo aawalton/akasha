@@ -19,7 +19,10 @@ import { FilterGroup } from "akasha/design/interfaces/patterns/filter-group/filt
 import { AddFilterButton } from "akasha/design/interfaces/patterns/modules/add-filter-button/add-filter-button.module.code.tsx"
 import { addFilterId } from "akasha/design/interfaces/patterns/modules/add-filter-id/add-filter-id.module.code.ts"
 import { SearchSortFilterRow } from "akasha/design/interfaces/patterns/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
-import { Card, CardContent } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
+import {
+  Card,
+  CardContent,
+} from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
 import {
   type CompanionEquipmentQualityId,
   companionEquipmentQualities,

@@ -1,11 +1,11 @@
 "use client"
 
+import { apiFetch } from "akasha/alan/web/modules/api-fetch/api-fetch.module.code.ts"
 import {
   getPushNotifications,
   isNativeShell,
   type PluginListenerHandle,
-} from "akasha/alan/web/capacitor-bridge/capacitor-bridge.module.code.ts"
-import { apiFetch } from "akasha/alan/web/modules/api-fetch/api-fetch.module.code.ts"
+} from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
 import { UserIdContext } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import { decidePermissionAction } from "akasha/persons/push-permission/push-permission.module.code.ts"
 import { registerDeviceTokenSchema } from "akasha/persons/push-register-body/push-register-body.module.code.ts"

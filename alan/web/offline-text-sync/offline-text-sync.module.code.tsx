@@ -12,7 +12,7 @@ import {
   writeChapterPosition,
 } from "akasha/alan/library/reading/offline-reading/offline-reading.module.code.ts"
 import { loadStoryCatalog } from "akasha/alan/library/reading/story-catalog/story-catalog.module.code.ts"
-import { isNativeShell } from "akasha/alan/web/capacitor-bridge/capacitor-bridge.module.code.ts"
+import { isNativeShell } from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
 import {
   clearSyncedCompletions,
   clearSyncedPositions,

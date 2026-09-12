@@ -3,7 +3,7 @@ import {
   actionOnlyLoader,
   capacitorCorsHeaders,
   withCors,
-} from "akasha/alan/web/capacitor-cors/capacitor-cors.module.code.ts"
+} from "akasha/alan/web/modules/capacitor-cors/capacitor-cors.module.code.ts"
 import { registerDeviceToken } from "akasha/persons/device-token-registration/device-token-registration.module.code.ts"
 import { ALANWALTON_PUSH_APP } from "akasha/persons/push-apps/push-apps.module.code.ts"
 import { registerDeviceTokenSchema } from "akasha/persons/push-register-body/push-register-body.module.code.ts"

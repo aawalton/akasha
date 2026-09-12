@@ -1,4 +1,3 @@
-import { getFilesystem } from "akasha/alan/web/capacitor-bridge/capacitor-bridge.module.code.ts"
 import {
   addContentPageIds,
   addPinnedIds,
@@ -14,6 +13,7 @@ import {
   serializeContentPageIndex,
   touchRecency,
 } from "akasha/alan/web/content-pages-cache-core/content-pages-cache-core.module.code.ts"
+import { getFilesystem } from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
 import {
   deleteDocumentsFile,
   listDocumentsFiles,

@@ -22,7 +22,7 @@ import {
   getSavedVariables,
   setSavedVariablesAccessor,
 } from "akasha/temper/capture-datamining-addon/datamining-saved-variables/datamining-saved-variables.module.code.ts"
-import { defineCaptureWriter } from "akasha/temper/capture-writer/capture-writer/capture-writer.module.code.ts"
+import { defineCaptureWriter } from "akasha/temper/capture-writer/modules/capture-writer/capture-writer.module.code.ts"
 import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
 
 function onPlayerActivated(): undefined {

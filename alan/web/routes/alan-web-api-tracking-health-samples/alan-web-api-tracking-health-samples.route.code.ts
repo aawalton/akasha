@@ -4,7 +4,7 @@ import { resolveDeviceSecretContext } from "akasha/alan/web/.server/device-secre
 import {
   capacitorCorsHeaders,
   withCors,
-} from "akasha/alan/web/capacitor-cors/capacitor-cors.module.code.ts"
+} from "akasha/alan/web/modules/capacitor-cors/capacitor-cors.module.code.ts"
 import { healthSamplesIngestSchema } from "akasha/persons/health-samples-body/health-samples-body.module.code.ts"
 
 const CORS_METHODS = "POST, OPTIONS"

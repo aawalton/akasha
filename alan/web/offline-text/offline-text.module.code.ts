@@ -1,4 +1,4 @@
-import { getFilesystem } from "akasha/alan/web/capacitor-bridge/capacitor-bridge.module.code.ts"
+import { getFilesystem } from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
 import {
   readDocumentsFile,
   writeDocumentsFile,

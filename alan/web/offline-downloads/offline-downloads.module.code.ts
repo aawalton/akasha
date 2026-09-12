@@ -1,8 +1,8 @@
+import { apiFetch } from "akasha/alan/web/modules/api-fetch/api-fetch.module.code.ts"
 import {
   type FilesystemPlugin,
   getFilesystem,
-} from "akasha/alan/web/capacitor-bridge/capacitor-bridge.module.code.ts"
-import { apiFetch } from "akasha/alan/web/modules/api-fetch/api-fetch.module.code.ts"
+} from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
 import {
   type ChunkObservation,
   type DownloadProgress,

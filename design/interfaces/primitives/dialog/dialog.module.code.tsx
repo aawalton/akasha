@@ -1,11 +1,11 @@
 "use client"
 
 import * as DialogPrimitive from "@radix-ui/react-dialog"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import {
   CardContent,
   CardHeader,
-} from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+} from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
 import {
   restoringOpenChange,
   scheduleRestoreStuckBodyPointerEvents,

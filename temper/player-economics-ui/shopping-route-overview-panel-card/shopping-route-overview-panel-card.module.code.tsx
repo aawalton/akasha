@@ -4,7 +4,7 @@ import { ButtonBadge } from "akasha/design/interfaces/badges/modules/button-badg
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
 import { scrollToCard } from "akasha/design/interfaces/layout/scroll-to-card/scroll-to-card.module.code.ts"
 import { ItemRow } from "akasha/design/interfaces/patterns/item-row/item-row.module.code.tsx"
-import { CardTitleBadges } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
+import { CardTitleBadges } from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
 import { companionTraits } from "akasha/temper/companions-core/companion-traits/companion-traits.module.code.ts"
 import { formatGold } from "akasha/temper/player-economics-ui/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
 import type { LocationSummary } from "akasha/temper/player-economics-ui/shopping-optimizer-types/shopping-optimizer-types.module.code.ts"

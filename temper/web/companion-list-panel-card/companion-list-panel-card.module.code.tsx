@@ -8,7 +8,7 @@ import {
   CardHeader,
   CardTitle,
   CardTitleBadges,
-} from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
+} from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
 import { PagesUILink as Link } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { companionUrl } from "akasha/temper/build-support/modules/build-url/build-url.module.code.ts"

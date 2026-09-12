@@ -10,11 +10,11 @@ import { resolveDrawContext } from "akasha/alan/web/.server/gacha-draw-context/g
 import { reprojectUserCardsSafely } from "akasha/alan/web/.server/idle-card-projecting/idle-card-projecting.module.code.ts"
 import { resolveIdleSaveContext } from "akasha/alan/web/.server/idle-save-context/idle-save-context.module.code.ts"
 import { loadSave, upsertSave } from "akasha/alan/web/.server/idle-saves/idle-saves.module.code.ts"
+import { drawIntentSchema } from "akasha/alan/web/idle-actions/idle-actions.module.code.ts"
 import {
   capacitorCorsHeaders,
   withCors,
-} from "akasha/alan/web/capacitor-cors/capacitor-cors.module.code.ts"
-import { drawIntentSchema } from "akasha/alan/web/idle-actions/idle-actions.module.code.ts"
+} from "akasha/alan/web/modules/capacitor-cors/capacitor-cors.module.code.ts"
 
 const CORS_METHODS = "POST, OPTIONS"
 

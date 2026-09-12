@@ -14,11 +14,6 @@ import {
 } from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
 import { ItemRow } from "akasha/design/interfaces/patterns/item-row/item-row.module.code.tsx"
 import {
-  Card,
-  CardContent,
-  CardTitleBadges,
-} from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
-import {
   AlertDialog,
   AlertDialogAction,
   AlertDialogCancel,
@@ -28,6 +23,11 @@ import {
   AlertDialogHeader,
   AlertDialogTitle,
 } from "akasha/design/interfaces/primitives/modules/alert-dialog/alert-dialog.module.code.tsx"
+import {
+  Card,
+  CardContent,
+  CardTitleBadges,
+} from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
 import { Progress } from "akasha/design/interfaces/primitives/progress-bar/progress-bar.module.code.tsx"
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
 import { formatGold } from "akasha/temper/player-economics-ui/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"

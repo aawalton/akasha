@@ -13,8 +13,11 @@ import {
   EmptyTitle,
 } from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
 import { TabsContent } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
-import { Card, CardContent } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
+import {
+  Card,
+  CardContent,
+} from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
 import type { CompanionBaseRoleId } from "akasha/temper/companions-core/companion-base-roles/companion-base-roles.module.code.ts"
 import type { ComboRankingsMap } from "akasha/temper/companions-core/companion-leaderboard/companion-leaderboard.module.code.ts"
 import type { CompanionId } from "akasha/temper/companions-core/companions/companions.module.code.ts"

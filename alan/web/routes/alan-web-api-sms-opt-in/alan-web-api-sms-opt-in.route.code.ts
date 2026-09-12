@@ -1,4 +1,4 @@
-import { capacitorCorsHeaders } from "akasha/alan/web/capacitor-cors/capacitor-cors.module.code.ts"
+import { capacitorCorsHeaders } from "akasha/alan/web/modules/capacitor-cors/capacitor-cors.module.code.ts"
 import { writingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 import { CONSENT_TEXT_VERSION } from "akasha/persons/sms-consent/sms-consent.module.code.ts"
 import { z } from "zod"

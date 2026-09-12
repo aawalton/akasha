@@ -1,7 +1,7 @@
 import {
   getStatusBar,
   isNativeShell,
-} from "akasha/alan/web/capacitor-bridge/capacitor-bridge.module.code.ts"
+} from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
 import {
   classifyStatusBarBridge,
   decideStatusBarCall,

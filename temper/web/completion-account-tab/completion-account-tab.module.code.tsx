@@ -23,8 +23,11 @@ import { SearchButton } from "akasha/design/interfaces/patterns/search-button/se
 import { SearchSortFilterRow } from "akasha/design/interfaces/patterns/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
 import { SortButton } from "akasha/design/interfaces/patterns/sort-button/sort-button.module.code.tsx"
 import { TabsContent } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
-import { Card, CardContent } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
+import {
+  Card,
+  CardContent,
+} from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
 import type { AccountSummaryData } from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import { useCompletionToolbar } from "akasha/temper/web/completion-toolbar-context/completion-toolbar-context.module.code.tsx"

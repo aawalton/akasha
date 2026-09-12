@@ -2,9 +2,9 @@
 
 import { refreshBrowserSession } from "akasha/alan/harness/supabase-rr/modules/browser-session-refresh/browser-session-refresh.module.code.ts"
 import { useSupabase } from "akasha/alan/harness/supabase-rr/supabase-provider/supabase-provider.module.code.tsx"
-import { isNativeShell } from "akasha/alan/web/capacitor-bridge/capacitor-bridge.module.code.ts"
 import { DeepLinkOpenSync } from "akasha/alan/web/deep-link-open-sync/deep-link-open-sync.module.code.tsx"
 import { DeviceSecretSync } from "akasha/alan/web/device-secret-sync/device-secret-sync.module.code.tsx"
+import { isNativeShell } from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
 import { NativeAuthRefreshSync } from "akasha/alan/web/native-auth-refresh-sync/native-auth-refresh-sync.module.code.tsx"
 import { setOfflineCacheUserKey } from "akasha/alan/web/offline-cache-namespace/offline-cache-namespace.module.code.ts"
 import { OfflineTextSync } from "akasha/alan/web/offline-text-sync/offline-text-sync.module.code.tsx"

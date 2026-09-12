@@ -5,7 +5,7 @@ import type {
   ErrorEntry,
   ErrorsPayload,
 } from "akasha/temper/capture-errors/errors-payload/errors-payload.module.code.ts"
-import type { CaptureWriter } from "akasha/temper/capture-writer/capture-writer/capture-writer.module.code.ts"
+import type { CaptureWriter } from "akasha/temper/capture-writer/modules/capture-writer/capture-writer.module.code.ts"
 import {
   attributedAddonFolder,
   attributedBuildId,
