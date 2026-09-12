@@ -101,7 +101,6 @@ export const seatSystem = {
     "domain/seat-capability",
     "domain/seat-declaration",
     "domain/seat-observation",
-    "module/compose-notices",
     "module/compose-subagents",
     "module/seat-start",
     "module/seat-resume",

@@ -143,9 +143,9 @@ export const NEXT = "extension-entry/next.module.code.ts"
 
 export const FAR = "utils/far/far.module.code.ts"
 
-export const PACKAGED = "seat-system/package.json"
+export const PACKAGED = "packaged/package.json"
 
-export const NOTICED = "seat-system/compose-notices/compose-notices.module.code.ts"
+export const PACKAGED_CODE = "packaged/reached/reached.module.code.ts"
 
 export const MANIFEST_BODY = `${JSON.stringify({
   name: "ops",
@@ -153,8 +153,8 @@ export const MANIFEST_BODY = `${JSON.stringify({
 })}\n`
 
 export const PACKAGED_BODY = `${JSON.stringify({
-  name: "@akasha/seat-system",
-  exports: { "./compose-notices": "./compose-notices/compose-notices.module.code.ts" },
+  name: "@akasha/packaged",
+  exports: { "./reached": "./reached/reached.module.code.ts" },
 })}\n`
 
 export function change(bodies: Readonly<Record<string, string>>): Change {

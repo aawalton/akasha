@@ -12,10 +12,10 @@ import {
   LINKED_TO,
   MANIFEST,
   NEXT,
-  NOTICED,
   OTHER_PAGE,
   PACKAGED,
   PACKAGED_BODY,
+  PACKAGED_CODE,
   pathsRefused,
   refused,
   stating,
@@ -79,13 +79,13 @@ test("a file the host reaches by a dynamic import is judged", () => {
 })
 
 test("a specifier naming a package lands where that package's manifest says", () => {
-  const reads = 'import { notices } from "@akasha/seat-system/compose-notices"\n'
+  const reads = 'import { reached } from "@akasha/packaged/reached"\n'
   const said = pathsRefused({
     [ENTRY]: reads,
     [PACKAGED]: PACKAGED_BODY,
-    [NOTICED]: "export const notices = Bun.version\n",
+    [PACKAGED_CODE]: "export const reached = Bun.version\n",
   })
-  expect(said).toEqual([NOTICED])
+  expect(said).toEqual([PACKAGED_CODE])
 })
 
 test("a refusal names the files the host reaches the refused file from", () => {

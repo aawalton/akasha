@@ -1,4 +1,4 @@
-import { notices } from "akasha/seat-system/compose-notices/compose-notices.module.code.ts"
+import { notices } from "akasha/agents/messaging/notices/compose-notices/compose-notices.module.code.ts"
 import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 import type { Infer } from "akasha/utils/narrow/shape-core/shape-core.module.code.ts"
 
