@@ -43,8 +43,6 @@ const STAGE_PREFIX = "akasha-icon-search-index-stage-"
 
 const FETCH_CEILING_MS = 180_000
 
-const REGENERATE = "akasha page icon-search-index-generate"
-
 const SECOND_MS = 1000
 
 type Said = Readonly<Record<string, string | undefined>>
@@ -107,7 +105,8 @@ function staged(
   stage: string,
   root: string,
   pages: readonly Staged[],
-  gone: readonly string[]
+  gone: readonly string[],
+  calledAs: string
 ): string {
   const calls: string[] = []
   for (const page of pages) {
@@ -129,7 +128,7 @@ function staged(
   const messageAt = join(stage, "message.txt")
   writeFileSync(
     messageAt,
-    `regenerate the icon search index from lucide ${LUCIDE_TAG}\n\nWritten by \`${REGENERATE}\`.\n`
+    `regenerate the icon search index from lucide ${LUCIDE_TAG}\n\nWritten by \`${calledAs}\`.\n`
   )
 
   const landAt = join(stage, "land.sh")
@@ -173,7 +172,7 @@ export async function pageIconSearchIndexGenerate(
     const standing = standingIn(root)
     const kept = new Set(pages.map((one) => one.slug))
     const gone = standing.filter((slug) => !kept.has(slug))
-    const landAt = staged(stage, root, pages, gone)
+    const landAt = staged(stage, root, pages, gone, given.calledAs)
 
     const report = [
       `${entries.length} icons staged across ${pages.length} pages ` +
