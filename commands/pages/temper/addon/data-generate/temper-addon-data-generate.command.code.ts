@@ -1,11 +1,10 @@
 import { realpathSync } from "node:fs"
+import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { valuesOf } from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
-
-const DATA = 2
 
 const FAILED = 3
 
@@ -46,6 +45,6 @@ export async function temperAddonDataGenerate(argv: readonly string[] = []): Pro
   return {
     report: [`wrote the addon data files under ${root} from the pages holding their source`],
     refusals: [],
-    code: 0,
+    code: OK,
   }
 }
