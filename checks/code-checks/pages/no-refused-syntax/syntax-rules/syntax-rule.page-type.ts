@@ -46,6 +46,7 @@ export const syntaxRule = {
     "syntax-rule/no-void-self-in-constructor",
     "syntax-rule/no-void-self-in-object-method",
     "syntax-rule/no-command-spelling-its-own-call",
+    "syntax-rule/no-hyphenated-call",
     "syntax-rule/command-export-named-for-its-slug",
   ],
   extends: ["page-type/module"],

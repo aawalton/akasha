@@ -19,6 +19,14 @@ export const codeSource = {
     },
     {
       invariantKind: "departure",
+      statement: "The text a literal node carries is answered without the quotes around it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller asking for every piece of a template literal is answered each of them.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A node is answered at where its own text starts past whatever trivia leads the node.",
     },

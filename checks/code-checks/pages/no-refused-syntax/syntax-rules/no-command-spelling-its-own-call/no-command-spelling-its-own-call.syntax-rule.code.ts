@@ -2,7 +2,7 @@ import type {
   Given,
   Refusal,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
-import { lineOf, literalIn } from "akasha/code/source/code-source.module.code.ts"
+import { lineOf, literalPartIn } from "akasha/code/source/code-source.module.code.ts"
 import ts from "typescript"
 
 const COMMANDS_AT = "commands/pages/"
@@ -30,20 +30,13 @@ export function spellingOf(called: string): RegExp {
   return new RegExp(`(?<![\\w-])akasha${BETWEEN}${words}(?![\\w-])`)
 }
 
-function textIn(node: ts.Node): string | null {
-  const plain = literalIn(node)
-  if (plain !== null) return plain
-  if (ts.isTemplateMiddle(node) || ts.isTemplateTail(node)) return node.text
-  return null
-}
-
 export function noCommandSpellingItsOwnCall(standing: Given): readonly Refusal[] {
   const called = calledIn(standing.path)
   if (called === null) return []
   const spelling = spellingOf(called)
   const found: Refusal[] = []
   const visit = (node: ts.Node): undefined => {
-    const text = textIn(node)
+    const text = literalPartIn(node)
     if (text !== null && spelling.test(text)) {
       found.push({
         line: lineOf(standing.source, node),

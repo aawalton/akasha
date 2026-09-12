@@ -34,6 +34,13 @@ export function literalIn(node: ts.Node): string | null {
   return null
 }
 
+export function literalPartIn(node: ts.Node): string | null {
+  const plain = literalIn(node)
+  if (plain !== null) return plain
+  if (ts.isTemplateMiddle(node) || ts.isTemplateTail(node)) return node.text
+  return null
+}
+
 export function literalOf(node: ts.Expression): ts.ObjectLiteralExpression | null {
   if (ts.isObjectLiteralExpression(node)) return node
   if (ts.isAsExpression(node) || ts.isSatisfiesExpression(node)) return literalOf(node.expression)

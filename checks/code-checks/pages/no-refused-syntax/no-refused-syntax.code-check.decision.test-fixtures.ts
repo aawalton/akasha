@@ -170,6 +170,10 @@ export function levelsFiled(root: string): undefined {
 const NAMED: ReadonlyMap<string, string> = new Map([
   ["change", "change"],
   ["change-draft", "draft"],
+  ["work-tree", "work-tree"],
+  ["temper", "temper"],
+  ["temper-addon", "addon"],
+  ["temper-addon-data-generate", "data-generate"],
 ])
 
 export const LEVELS_NAMED: Naming = (slug) => NAMED.get(slug) ?? null
