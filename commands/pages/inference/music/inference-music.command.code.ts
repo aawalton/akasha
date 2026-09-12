@@ -1,10 +1,27 @@
 import { setTimeout as sleep } from "node:timers/promises"
 import {
+  type TakenFor,
+  takenFor,
+} from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { duration as durationArgument } from "akasha/commands/arguments/pages/duration.argument.ts"
+import { lyrics as lyricsArgument } from "akasha/commands/arguments/pages/lyrics.argument.ts"
+import { lyricsFile } from "akasha/commands/arguments/pages/lyrics-file.argument.ts"
+import { noPersist } from "akasha/commands/arguments/pages/no-persist.argument.ts"
+import { output as outputArgument } from "akasha/commands/arguments/pages/output.argument.ts"
+import { promptFile } from "akasha/commands/arguments/pages/prompt-file.argument.ts"
+import { renderPrompt } from "akasha/commands/arguments/pages/render-prompt.argument.ts"
+import { seed as seedArgument } from "akasha/commands/arguments/pages/seed.argument.ts"
+import { steps as stepsArgument } from "akasha/commands/arguments/pages/steps.argument.ts"
+import { timeout as timeoutArgument } from "akasha/commands/arguments/pages/timeout.argument.ts"
+import { vocalLanguage as vocalLanguageArgument } from "akasha/commands/arguments/pages/vocal-language.argument.ts"
+import {
   answering,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { filing, filledIn } from "akasha/commands/modules/filling/command-filling.module.code.ts"
+import { inferenceMusic as page } from "akasha/commands/pages/inference/music/inference-music.command.ts"
 import { runMusic } from "akasha/infrastructure/inference/clients/ace-step-client/ace-step-client.module.code.ts"
 import { resolveOutputPath } from "akasha/infrastructure/inference/clients/inference-output-path/inference-output-path.module.code.ts"
 import {
@@ -12,48 +29,31 @@ import {
   resolveSeed,
 } from "akasha/infrastructure/inference/clients/inference-seed/inference-seed.module.code.ts"
 import {
-  countAt,
-  heldOr,
   madeOf,
-  proseAt,
-  proseNeededAt,
   serviceNamed,
-  wasRefused,
-  wordsIn,
 } from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/record/inference-run-record.module.code.ts"
 import { recordInferenceRun } from "akasha/infrastructure/inference/runs/store/inference-run-store.module.code.ts"
 
-const PROMPT = "--prompt"
-
-const LYRICS = "--lyrics"
-
-const DURATION = "--duration"
-
-const STEPS = "--steps"
-
-const SEED = "--seed"
-
-const VOCAL_LANGUAGE = "--vocal-language"
-
-const TIMEOUT = "--timeout"
-
-const OUTPUT = "--output"
-
-const NO_PERSIST = "--no-persist"
-
-const TAKING = [
-  { said: PROMPT, prose: true },
-  { said: LYRICS, prose: true },
-  { said: DURATION },
-  { said: STEPS },
-  { said: SEED },
-  { said: VOCAL_LANGUAGE },
-  { said: TIMEOUT },
-  { said: OUTPUT },
+const PAGES = [
+  durationArgument,
+  lyricsFile,
+  lyricsArgument,
+  noPersist,
+  outputArgument,
+  promptFile,
+  renderPrompt,
+  seedArgument,
+  stepsArgument,
+  timeoutArgument,
+  vocalLanguageArgument,
 ]
 
-const SWITCHES = [NO_PERSIST]
+type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
+
+const PROMPT = filing(renderPrompt.said)
+
+const LYRICS = filing(lyricsArgument.said)
 
 const SERVICE = "music-gen"
 
@@ -61,11 +61,7 @@ const DIT_MODEL = "acestep-v15-turbo"
 
 const LM_MODEL = "acestep-5Hz-lm-1.7B"
 
-const DEFAULT_DURATION_SEC = 30
-
 const DEFAULT_STEPS = 8
-
-const DEFAULT_LANGUAGE = "en"
 
 const DEFAULT_TIMEOUT_SEC = 1800
 
@@ -76,29 +72,28 @@ const POLL_INTERVAL_MS = 5_000
 const SECOND_MS = 1000
 
 export async function inferenceMusic(argv: readonly string[], given: Given): Promise<Answer> {
-  const said = wordsIn(argv, TAKING, SWITCHES)
-  if (wasRefused(said)) return refusedBy(said.refused)
+  const read = takenFor(argv, given.calledAs, page, PAGES)
+  if ("refused" in read) return refusedBy(read.refused)
+  const taken: Taken = read.taken
 
-  const refusals: string[] = said.loose.map(
-    (one) => `\`${one}\` follows nothing this takes — it takes flags alone`
-  )
-  const prompt = heldOr(await proseNeededAt(said, PROMPT), refusals)
-  const lyrics = heldOr(await proseAt(said, LYRICS), refusals) ?? undefined
-  const durationSeconds =
-    heldOr(countAt(said, DURATION, DEFAULT_DURATION_SEC), refusals) ?? DEFAULT_DURATION_SEC
-  const inferenceSteps = heldOr(countAt(said, STEPS, DEFAULT_STEPS), refusals) ?? DEFAULT_STEPS
-  const seed = heldOr(countAt(said, SEED, undefined), refusals) ?? undefined
-  const timeout =
-    heldOr(countAt(said, TIMEOUT, DEFAULT_TIMEOUT_SEC), refusals) ?? DEFAULT_TIMEOUT_SEC
-  if (refusals.length > 0 || prompt === null) return refusedBy(refusals)
+  const asked = filledIn(given.root, taken.renderPrompt, taken.promptFile, PROMPT)
+  if ("refused" in asked) return refusedBy(asked.refused)
+  const sung = filledIn(given.root, taken.lyrics, taken.lyricsFile, LYRICS)
+  if ("refused" in sung) return refusedBy(sung.refused)
 
-  const vocalLanguage = said.named[VOCAL_LANGUAGE] ?? DEFAULT_LANGUAGE
+  const prompt = asked.text ?? ""
+  const lyrics = sung.text
+  const durationSeconds = taken.duration
+  const inferenceSteps = taken.steps ?? DEFAULT_STEPS
+  const seed = taken.seed
+  const timeout = taken.timeout ?? DEFAULT_TIMEOUT_SEC
+  const vocalLanguage = taken.vocalLanguage
 
   return await answering(async () => {
     const reached = serviceNamed(SERVICE)
     const drawn = resolveSeed(seed, drawSeed)
     const nowMs = Date.now()
-    const outputPath = resolveOutputPath("music", said.named[OUTPUT], nowMs)
+    const outputPath = resolveOutputPath("music", taken.output, nowMs)
 
     const record = buildInferenceRunRecord({
       service: SERVICE,
@@ -138,7 +133,7 @@ export async function inferenceMusic(argv: readonly string[], given: Given): Pro
           sleep: (ms: number) => sleep(ms),
           now: () => Date.now(),
         }),
-      { persist: !said.flags.has(NO_PERSIST) }
+      { persist: !taken.noPersist }
     )
     return told([`wrote ${outputPath}`])
   })
