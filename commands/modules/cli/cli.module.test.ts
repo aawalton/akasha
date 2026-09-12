@@ -2,13 +2,11 @@ import { afterAll, expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
-  answering,
   INPUT,
   OK,
-  outsideOf,
-  saidOf,
   UNCLASSIFIED,
-} from "akasha/commands/modules/cli/cli.module.code.ts"
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { answering, outsideOf, saidOf } from "akasha/commands/modules/cli/cli.module.code.ts"
 import { COMMAND_TYPE_AT } from "akasha/commands/modules/cli/cli.module.test-fixtures.ts"
 import {
   CLAUDE_AUTHOR,

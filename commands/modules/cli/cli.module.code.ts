@@ -2,22 +2,13 @@ import { Buffer } from "node:buffer"
 import { writeSync } from "node:fs"
 import { resolve } from "node:path"
 import { linksMended } from "akasha/agents/hooks/links/hook-links.module.code.ts"
+import { UNCLASSIFIED } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Outside } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { calling } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { commitAuthor } from "akasha/commands/modules/commit-author/commit-author.module.code.ts"
 import { writerIn } from "akasha/commands/modules/reading/reading.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
-
-export const OK = 0
-
-export const INPUT = 1
-
-export const DATA = 2
-
-export const OPERATIONAL = 3
-
-export const UNCLASSIFIED = 70
 
 export type Said = {
   readonly out: readonly string[]
