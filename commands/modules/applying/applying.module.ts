@@ -287,5 +287,13 @@ export const applying = {
       invariantKind: "departure",
       statement: "A fault thrown after the commit is answered as a refusal beside that commit.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A refusal an apply gives after its commit landed names that commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An apply that committed nothing says that nothing was committed.",
+    },
   ],
 } as const satisfies Module

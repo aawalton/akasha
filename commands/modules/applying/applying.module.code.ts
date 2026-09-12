@@ -85,6 +85,10 @@ const NOTHING_MEASURED =
 
 const AFTER_COMMIT = "the commit landed, and the work after that commit stopped —"
 
+const NOTHING_COMMITTED = "nothing was committed —"
+
+const IN_GIT = "is in git, so read that commit rather than drafting these rows again"
+
 type Put = { readonly said: readonly string[]; readonly wrong: readonly string[] }
 
 function seatOver(root: string, page: string): string | null {
@@ -120,6 +124,12 @@ function notLanded(answer: Answer): Applying {
 
 function landedAs(answer: Answer): Applying {
   return { ...answer, landed: true }
+}
+
+function stoppedBy(done: readonly string[], thrown: unknown): readonly string[] {
+  const commit = done[0]
+  if (commit === undefined) return [`${NOTHING_COMMITTED} ${whyOf(thrown)}`]
+  return [`${AFTER_COMMIT} ${whyOf(thrown)}`, `${commit} ${IN_GIT}`]
 }
 
 export type Asked = {
@@ -183,8 +193,19 @@ export async function applying(
   const bypassed = broken === null ? said0 : bypassedIn(said0, broken)
   const why = unloaded === null || broken === null ? bypassed : unloadableIn(bypassed, unloaded)
   if (asked.measure) process.env[MEASURING] = MARK
+  const done: string[] = []
   try {
-    const said = await applied(given.root, given.agentId, why, gate, given.writer, [], carried)
+    const said = await applied(
+      given.root,
+      given.agentId,
+      why,
+      gate,
+      given.writer,
+      [],
+      carried,
+      null,
+      done
+    )
     if ("refusals" in said) {
       return notLanded(answeredWith([...(said.said ?? [])], keeping(said.refusals), said.code))
     }
@@ -202,7 +223,8 @@ export async function applying(
       )
     )
   } catch (thrown) {
-    return notLanded(refusedBy(keeping([`nothing was committed — ${whyOf(thrown)}`]), OPERATIONAL))
+    const stopped = refusedBy(keeping(stoppedBy(done, thrown)), OPERATIONAL)
+    return done.length === 0 ? notLanded(stopped) : landedAs(stopped)
   } finally {
     delete process.env[MEASURING]
   }
@@ -293,7 +315,8 @@ export async function applied(
   writer: string | null = null,
   moves: readonly FileMove[] = [],
   carried: Carried | null = null,
-  read: string | null = null
+  read: string | null = null,
+  done: string[] = []
 ): Promise<Applied | Refused> {
   if (carried === null) return { refusals: [NOTHING_HELD], code: INPUT }
   const holding = carried
@@ -309,7 +332,7 @@ export async function applied(
   const formatting = prepared.formatting
   if (running.writerOwesReading && agentId !== null) warrantedAgain(root, head, agentId, paths)
   const asRead = agentId === null ? [] : asReadOf(root, agentId, paths)
-  const done = await refusedWhereHeld(() =>
+  const ended = await refusedWhereHeld(() =>
     landing(
       root,
       prepared.changes,
@@ -319,10 +342,13 @@ export async function applied(
       read ?? head,
       asRead,
       null,
-      prepared.over
+      prepared.over,
+      done
     )
   )
-  if ("refusals" in done) return { refusals: done.refusals, code: done.code, said: prepared.said }
+  if ("refusals" in ended) {
+    return { refusals: ended.refusals, code: ended.code, said: prepared.said }
+  }
   let put: Put = { said: [], wrong: [] }
   try {
     const carries = carriedFrom(root, head, moving)
@@ -333,18 +359,18 @@ export async function applied(
     put = { said: [], wrong: [`${AFTER_COMMIT} ${whyOf(thrown)}`] }
   }
   return {
-    base: done.base,
-    landed: [...done.wrote, ...done.took].sort(),
+    base: ended.base,
+    landed: [...ended.wrote, ...ended.took].sort(),
     formatted: [...formatting.formatted].sort(),
     said: [
       ...prepared.said,
       ...put.said,
-      ...done.linked.said,
-      ...done.placed.said,
-      ...done.units.said,
+      ...ended.linked.said,
+      ...ended.placed.said,
+      ...ended.units.said,
     ],
-    wrong: [...put.wrong, ...done.linked.wrong, ...done.placed.wrong, ...done.units.wrong],
-    commit: done.commit,
-    untracked: done.untracked,
+    wrong: [...put.wrong, ...ended.linked.wrong, ...ended.placed.wrong, ...ended.units.wrong],
+    commit: ended.commit,
+    untracked: ended.untracked,
   }
 }

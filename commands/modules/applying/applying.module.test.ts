@@ -5,10 +5,12 @@ import { readingIn } from "akasha/agents/read-record/read-record.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   applied,
+  applying,
   askedIn,
   type Carried,
   messageFor,
 } from "akasha/commands/modules/applying/applying.module.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type { Running } from "akasha/commands/modules/change-kind-running/change-kind-running.module.code.ts"
 import { landing } from "akasha/commands/modules/landing/landing.module.code.ts"
 import {
@@ -202,4 +204,40 @@ test("an apply that landed carries what that same mechanism said", async () => {
   const said = await applied(root, AGENT, "applied", ADMITS, null, [], carrying(MORE))
   if ("refusals" in said) throw new Error(said.refusals.join("; "))
   expect(said.said.join("\n")).toContain(GENERATOR_SAID)
+})
+
+const NO_CHECK: Running = { checks: false, writerOwesReading: false, readersOweReading: false }
+
+const GLASSED = { message: "held", glass: "for the test", measure: false }
+
+const AFTER_COMMIT = "the commit landed, and the work after that commit stopped —"
+
+const NOTHING_COMMITTED = "nothing was committed — "
+
+const BLOCKED = "blocked"
+
+const UNDER_BLOCKED = "blocked/kept.uncommitted.txt"
+
+function givenAt(root: string): Given {
+  return { root, calledAs: "akasha change apply", from: root, writer: null, agentId: null }
+}
+
+test("an apply stopped after its commit landed names that commit rather than nothing", async () => {
+  const root = repoWith({ ".gitignore": "*.uncommitted.*\n", [BLOCKED]: "a file, not a folder\n" })
+  const rows: readonly FileChange[] = [rowAt("held.txt", "held\n"), rowAt(UNDER_BLOCKED, "no\n")]
+  const said = await applying(givenAt(root), PAGE, GLASSED, { rows, running: NO_CHECK })
+  const head = gitSaid(root, ["rev-parse", "HEAD"]).trim()
+  expect(said.refusals[0]?.startsWith(AFTER_COMMIT)).toBe(true)
+  expect(said.refusals[1]).toBe(
+    `${head} is in git, so read that commit rather than drafting these rows again`
+  )
+  expect(said.landed).toBe(true)
+})
+
+test("an apply stopped before any commit landed says nothing was committed", async () => {
+  const rows: readonly FileChange[] = [rowAt("held.txt", "held\n")]
+  const said = await applying(givenAt("/nowhere"), PAGE, GLASSED, { rows, running: NO_CHECK })
+  expect(said.refusals.length).toBe(1)
+  expect(said.refusals[0]?.startsWith(NOTHING_COMMITTED)).toBe(true)
+  expect(said.landed).toBe(false)
 })

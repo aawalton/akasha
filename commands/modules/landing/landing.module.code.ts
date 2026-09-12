@@ -279,7 +279,8 @@ export function landing(
   read?: string | null,
   asRead?: readonly AsRead[],
   drafting?: null,
-  over?: Change | null
+  over?: Change | null,
+  done?: string[]
 ): Promise<Landed | Refused>
 export function landing(
   root: string,
@@ -300,7 +301,8 @@ export async function landing(
   read: string | null = null,
   asRead: readonly AsRead[] = [],
   drafting: Drafting | null = null,
-  over: Change | null = null
+  over: Change | null = null,
+  done: string[] = []
 ): Promise<Landed | Refused | Drafted> {
   if (changes.length === 0) {
     const base = baseOf(root)
@@ -400,6 +402,7 @@ export async function landing(
           ...new Set([...put.took, ...moving.committing.map((one) => one.from), ...then.took]),
         ]
         const commit = committed(root, bodies, took, message, writer)
+        if (commit !== null) done.push(commit)
         const held = asideFrom(root, split.uncommitted)
         const aside = asideOnto(root, [...held])
         try {
