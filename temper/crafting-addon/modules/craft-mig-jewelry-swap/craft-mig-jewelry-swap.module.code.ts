@@ -1,7 +1,7 @@
-import { nilCheck } from "akasha/temper/crafting-addon/crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 import type { StoredTraitItem } from "akasha/temper/crafting-addon/modules/craft-account-init/craft-account-init.module.code.ts"
 import { getTrait } from "akasha/temper/crafting-addon/modules/craft-validation/craft-validation.module.code.ts"
+import { nilCheck } from "akasha/temper/crafting-addon/modules/crafting-helpers/crafting-helpers.module.code.ts"
 
 export function migrateJewelryIdSwap(): undefined {
   const account = STATE.Account

@@ -1,7 +1,3 @@
-import {
-  CHAT,
-  toChat,
-} from "akasha/temper/crafting-addon/crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 import * as Characters from "akasha/temper/crafting-addon/modules/craft-characters/craft-characters.module.code.ts"
 import { CRAFT_ICON } from "akasha/temper/crafting-addon/modules/craft-icons/craft-icons.module.code.ts"
@@ -14,6 +10,10 @@ import {
 import type { CsTooltipOwner } from "akasha/temper/crafting-addon/modules/craft-tooltips/craft-tooltips.module.code.ts"
 import * as Tooltips from "akasha/temper/crafting-addon/modules/craft-tooltips/craft-tooltips.module.code.ts"
 import * as Utilities from "akasha/temper/crafting-addon/modules/craft-utilities/craft-utilities.module.code.ts"
+import {
+  CHAT,
+  toChat,
+} from "akasha/temper/crafting-addon/modules/crafting-helpers/crafting-helpers.module.code.ts"
 
 const WM = WINDOW_MANAGER
 

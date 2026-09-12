@@ -1,8 +1,3 @@
-import {
-  mustControl,
-  nilCheckSet,
-  toChat,
-} from "akasha/temper/crafting-addon/crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 import { defined } from "akasha/temper/crafting-addon/modules/craft-defined/craft-defined.module.code.ts"
 import type { NameSortable } from "akasha/temper/crafting-addon/modules/craft-player-state/craft-player-state.module.code.ts"
@@ -15,6 +10,11 @@ import {
 import * as StyleTracking from "akasha/temper/crafting-addon/modules/craft-style-tracking/craft-style-tracking.module.code.ts"
 import type { CsTooltipOwner } from "akasha/temper/crafting-addon/modules/craft-tooltips/craft-tooltips.module.code.ts"
 import * as Tooltips from "akasha/temper/crafting-addon/modules/craft-tooltips/craft-tooltips.module.code.ts"
+import {
+  mustControl,
+  nilCheckSet,
+  toChat,
+} from "akasha/temper/crafting-addon/modules/crafting-helpers/crafting-helpers.module.code.ts"
 
 function asWidth(this: void, value: unknown): number {
   return value as number

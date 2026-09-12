@@ -1,12 +1,12 @@
-import {
-  splitLink,
-  toChat,
-} from "akasha/temper/crafting-addon/crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 import type { RuneGlyphDef } from "akasha/temper/crafting-addon/modules/craft-rune/craft-rune.module.code.ts"
 import type { RgbColor } from "akasha/temper/crafting-addon/modules/craft-rune-crafting/craft-rune-crafting.module.code.ts"
 import * as RuneCrafting from "akasha/temper/crafting-addon/modules/craft-rune-crafting/craft-rune-crafting.module.code.ts"
 import * as Tooltips from "akasha/temper/crafting-addon/modules/craft-tooltips/craft-tooltips.module.code.ts"
+import {
+  splitLink,
+  toChat,
+} from "akasha/temper/crafting-addon/modules/crafting-helpers/crafting-helpers.module.code.ts"
 
 export interface SelectorButtonData {
   [key: string]: unknown

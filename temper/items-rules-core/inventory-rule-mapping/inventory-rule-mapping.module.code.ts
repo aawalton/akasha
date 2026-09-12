@@ -1,6 +1,5 @@
 import { ITEM_CATEGORY_TREE } from "akasha/temper/items-core/item-category-tree-data/item-category-tree-data.module.code.ts"
 import type { ItemCategoryNode } from "akasha/temper/items-core/item-category-tree-types/item-category-tree-types.module.code.ts"
-import { buildCraftingMaterialActions } from "akasha/temper/items-rules-core/crafting-material-actions/crafting-material-actions.module.code.ts"
 import { buildEquipmentConfig } from "akasha/temper/items-rules-core/equipment-config/equipment-config.module.code.ts"
 import type {
   InventoryRuleSettings,
@@ -10,6 +9,7 @@ import type { InventoryConfig } from "akasha/temper/items-rules-core/inventory-s
 import { INVENTORY_CONFIG_DEFAULTS } from "akasha/temper/items-rules-core/inventory-settings-types/inventory-settings-types.module.code.ts"
 import { buildItemCategoryActions } from "akasha/temper/items-rules-core/item-category-actions/item-category-actions.module.code.ts"
 import { buildConditionalActions } from "akasha/temper/items-rules-core/modules/conditional-actions/conditional-actions.module.code.ts"
+import { buildCraftingMaterialActions } from "akasha/temper/items-rules-core/modules/crafting-material-actions/crafting-material-actions.module.code.ts"
 import { resolveRuleConditionStates } from "akasha/temper/items-rules-core/rule-condition-states/rule-condition-states.module.code.ts"
 import { collectDestinations } from "akasha/temper/items-rules-core/rule-destinations/rule-destinations.module.code.ts"
 import { collectTraitActions } from "akasha/temper/items-rules-core/trait-actions/trait-actions.module.code.ts"

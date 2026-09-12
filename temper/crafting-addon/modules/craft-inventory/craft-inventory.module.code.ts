@@ -1,8 +1,3 @@
-import {
-  nilCheck,
-  splitLink,
-  stripLink,
-} from "akasha/temper/crafting-addon/crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 import type { AccountData } from "akasha/temper/crafting-addon/modules/craft-account-init/craft-account-init.module.code.ts"
 import { defined } from "akasha/temper/crafting-addon/modules/craft-defined/craft-defined.module.code.ts"
@@ -14,6 +9,11 @@ import {
   CB_ADD_RESEARCH_ITEM,
   CB_UPDATE_PANEL_ICON,
 } from "akasha/temper/crafting-addon/modules/crafting-constants/crafting-constants.module.code.ts"
+import {
+  nilCheck,
+  splitLink,
+  stripLink,
+} from "akasha/temper/crafting-addon/modules/crafting-helpers/crafting-helpers.module.code.ts"
 
 function asSaveResult(this: void, value: unknown): LuaMultiReturn<[boolean, string | undefined]> {
   return value as LuaMultiReturn<[boolean, string | undefined]>
