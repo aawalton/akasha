@@ -10,31 +10,7 @@ export const emailCommandReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The arguments a command takes are handed in rather than spelled here.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A flag the command does not take is refused rather than passed over.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A flag whose value is another flag is a flag no value follows.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A word alone fills the flag the command names for that word.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A value said both as a word and at its flag is refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A repeating flag gathers its values in the order the values are said.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A flag that does not repeat is refused where that flag is said twice.",
+      statement: "What a call said is handed in, read by the one reader every command reads by.",
     },
     {
       invariantKind: "departure",
@@ -68,10 +44,6 @@ export const emailCommandReading = {
     {
       invariantKind: "departure",
       statement: "A path that is not absolute is read against the repository root.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Every refusal a call earns is gathered rather than the first alone.",
     },
     {
       invariantKind: "departure",

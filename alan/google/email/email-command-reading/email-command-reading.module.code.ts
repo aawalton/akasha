@@ -13,16 +13,6 @@ import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.c
 
 export const INPUT_MARK = "-"
 
-export const MESSAGE = "--message"
-
-export const MAX = "--max"
-
-export const TO = "--to"
-
-export const CC = "--cc"
-
-export const BCC = "--bcc"
-
 export const SUBJECT = "--subject"
 
 export const SUBJECT_FILE = "--subject-file"
@@ -31,149 +21,12 @@ export const BODY = "--body"
 
 export const BODY_FILE = "--body-file"
 
-export const ATTACH = "--attach"
-
-export const THREAD = "--thread"
-
-export const REPLY_TO = "--reply-to-message"
-
-export const FROM = "--from"
-
-const WHOLE_NUMBER = /^\d+$/
-
-export type Taking = {
-  readonly valued: readonly string[]
-  readonly repeats?: readonly string[]
-  readonly needed?: readonly string[]
-  readonly named?: string
-  readonly either?: readonly string[]
-  readonly numbered?: readonly string[]
-  readonly filing?: readonly Filing[]
-}
-
-export type Said = {
-  readonly one: Readonly<Record<string, string>>
-  readonly many: Readonly<Record<string, readonly string[]>>
-}
-
-export type Read = Said | { readonly refused: readonly string[] }
-
 export const SUBJECT_FILING: Filing = { said: SUBJECT, file: SUBJECT_FILE, whole: false }
 
 export const BODY_FILING: Filing = { said: BODY, file: BODY_FILE, whole: true }
 
-export const COMPOSING: Taking = {
-  valued: [SUBJECT, SUBJECT_FILE, BODY, BODY_FILE, THREAD, REPLY_TO, FROM],
-  repeats: [TO, CC, BCC, ATTACH],
-  needed: [TO, SUBJECT, BODY],
-  filing: [SUBJECT_FILING, BODY_FILING],
-}
-
-function filingFor(taking: Taking, flag: string): Filing | undefined {
-  return (taking.filing ?? []).find((one) => one.said === flag)
-}
-
-function unsaid(
-  taking: Taking,
-  one: Readonly<Record<string, string>>,
-  many: Readonly<Record<string, readonly string[]>>,
-  flag: string
-): boolean {
-  if (one[flag] !== undefined) return false
-  if ((many[flag] ?? []).length > 0) return false
-  const filing = filingFor(taking, flag)
-  return filing === undefined || one[filing.file] === undefined
-}
-
-export function readTaking(argv: readonly string[], taking: Taking): Read {
-  const refusals: string[] = []
-  const words: string[] = []
-  const one: Record<string, string> = {}
-  const many: Record<string, string[]> = {}
-  const repeats = new Set(taking.repeats ?? [])
-  const valued = new Set([...taking.valued, ...(taking.repeats ?? [])])
-  for (let at = 0; at < argv.length; at += 1) {
-    const token = argv[at]
-    if (token === undefined) continue
-    if (!token.startsWith("-") || token === INPUT_MARK) {
-      words.push(token)
-      continue
-    }
-    if (!valued.has(token)) {
-      refusals.push(`\`${token}\` is no flag this takes — it takes ${namesDrawn(valued)}`)
-      continue
-    }
-    const value = argv[at + 1]
-    if (value === undefined || valued.has(value)) {
-      refusals.push(`\`${token}\` takes a value, and none follows it`)
-      continue
-    }
-    at += 1
-    if (repeats.has(token)) {
-      const held = many[token] ?? []
-      held.push(value)
-      many[token] = held
-      continue
-    }
-    if (one[token] !== undefined) {
-      refusals.push(`\`${token}\` is said more than once, and it carries one value`)
-      continue
-    }
-    one[token] = value
-  }
-  const named = taking.named
-  const first = words[0]
-  if (first !== undefined) {
-    if (named === undefined) {
-      refusals.push(`\`${first}\` follows this command, which takes no word on its own`)
-    } else if (one[named] !== undefined) {
-      refusals.push(`what \`${named}\` names is said both as \`${first}\` and at \`${named}\``)
-    } else {
-      one[named] = first
-    }
-  }
-  const second = words[1]
-  if (second !== undefined) {
-    refusals.push(`\`${second}\` follows \`${first ?? ""}\`, and one call names one of these`)
-  }
-  for (const filing of taking.filing ?? []) {
-    if (one[filing.said] !== undefined && one[filing.file] !== undefined) {
-      refusals.push(`what \`${filing.said}\` names is said both there and at \`${filing.file}\``)
-    }
-  }
-  for (const flag of taking.needed ?? []) {
-    if (!unsaid(taking, one, many, flag)) continue
-    const filing = filingFor(taking, flag)
-    const how = filing === undefined ? "" : ` or at \`${filing.file}\``
-    refusals.push(`this names \`${flag}\`${how}, and nothing said it`)
-  }
-  const either = taking.either
-  if (either?.every((flag) => one[flag] === undefined && (many[flag] ?? []).length === 0)) {
-    refusals.push(`this names ${namesDrawn(either)} or both, and nothing said either`)
-  }
-  for (const flag of taking.numbered ?? []) {
-    const value = one[flag]
-    if (value !== undefined && !WHOLE_NUMBER.test(value)) {
-      refusals.push(`\`${flag} ${value}\` is no whole number of nought or more`)
-    }
-  }
-  const piped = (taking.filing ?? [])
-    .filter((filing) => one[filing.file] === INPUT_MARK)
-    .map((filing) => filing.file)
-  if (piped.length > 1) {
-    refusals.push(`${namesDrawn(piped)} each name the input, and one call reads the input once`)
-  }
-  if (refusals.length > 0) return { refused: refusals }
-  return { one, many }
-}
-
 export function pathAt(root: string, path: string): string {
   return isAbsolute(path) ? path : resolve(root, path)
-}
-
-export function maxIn(said: Said): number | undefined {
-  const value = said.one[MAX]
-  return value === undefined ? undefined : Number(value)
 }
 
 export function asJsonLines(value: unknown): Answer {
