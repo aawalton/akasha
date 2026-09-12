@@ -37,7 +37,7 @@ export function gitPush(argv: readonly string[], given: Given): Answer {
   }
   const branch = branchIn(root)
   if (branch === null) {
-    return refused("HEAD is on no branch, so there is no branch to carry", OPERATIONAL)
+    return refused("`HEAD` is on no branch, so there is no branch to carry", OPERATIONAL)
   }
   if (read.taken.dryRun) {
     return told([`${aheadIn(root, remote, branch)} would be carried to ${remote} (${branch})`])
