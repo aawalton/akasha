@@ -25,7 +25,6 @@ export const trackSessionAmend = {
       said: "--relationship <id|title>",
       takes: "who the stretch was with, said again or parted by commas for several",
     },
-    { said: "--dry-run", takes: "judge what the act would land and write nothing" },
   ],
 
   invariants: [
@@ -107,5 +106,5 @@ export const trackSessionAmend = {
     },
   ],
   name: "amend",
-  arguments: [{ argument: "argument/day" }],
+  arguments: [{ argument: "argument/dry-run" }, { argument: "argument/day" }],
 } as const satisfies Command

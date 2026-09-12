@@ -13,7 +13,6 @@ export const trackSessionDrop = {
     { said: "--open", takes: "the stretch to act on, which is the one that is open" },
     { said: "--last", takes: "the stretch to act on, which is the one that ended last" },
     { said: "--mend", takes: "close the gap a dropped stretch leaves behind" },
-    { said: "--dry-run", takes: "judge what the act would land and write nothing" },
   ],
 
   invariants: [
@@ -71,5 +70,5 @@ export const trackSessionDrop = {
     },
   ],
   name: "drop",
-  arguments: [{ argument: "argument/day" }],
+  arguments: [{ argument: "argument/dry-run" }, { argument: "argument/day" }],
 } as const satisfies Command
