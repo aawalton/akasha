@@ -20,7 +20,7 @@ export function claudeNewAccountFn(name: string): string {
     `  if [ -z "$_acct" ]; then echo "${name}: aborted — no account name"; return 1; fi`,
     '  read -r -p "Email for $_acct: " _email',
     `  if [ -z "$_email" ]; then echo "${name}: aborted — no email"; return 1; fi`,
-    `  ${akashaCommand()} claude-account-add "$_acct" --email "$_email" || { echo "${name}: claude-account-add failed"; return 1; }`,
+    `  ${akashaCommand()} claude-account add "$_acct" --email "$_email" || { echo "${name}: claude-account add failed"; return 1; }`,
     '  echo "Launching login session for $_acct — run /login and authenticate as $_email."',
     `  bun run ${proxy()} -- bun run ${supervisor()} -a "$_acct"`,
     "  local _rc=$?",
