@@ -1,4 +1,5 @@
 import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { ranksOf } from "akasha/temper/addon-generators/rank-by-key/rank-by-key.module.code.ts"
 import { companionWeaponSlots } from "akasha/temper/companions-core/companion-weapon-slots/companion-weapon-slots.module.code.ts"
 import { z } from "zod"
@@ -57,7 +58,7 @@ export function generateTemperCompanionWeaponSlot(rows: readonly Page[]): string
  * \`TEMPER_COMPANION_WEAPON_SLOTS["main-hand"]\` is well-typed and feeds
  * the \`companionWeaponSlots\` lookup in @temper/game-companions-core.
  *
- * DO NOT EDIT -- regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 import type { CompanionWeaponSlotTemplate } from "@akasha/temper-companions-core/companion-weapon-slots"
