@@ -141,5 +141,5 @@ export const audit = {
     { invariantKind: "departure", statement: "`--check` is named again for each check asked for." },
   ],
   name: "audit",
-  arguments: [{ argument: "argument/check" }],
+  arguments: [{ argument: "argument/check", repeats: true }],
 } as const satisfies Command
