@@ -9,7 +9,7 @@ import {
   QUALITY_COLORS,
   TRAIT_NAMES,
   WEAPON_TYPE_NAMES,
-} from "akasha/temper/companions-addon/companions-display-names/companions-display-names.module.code.ts"
+} from "akasha/temper/companions-addon/modules/companions-display-names/companions-display-names.module.code.ts"
 export function formatArmorSlot(slot: number): string {
   const itemLink = GetItemLink(BAG_COMPANION_WORN, slot, LINK_STYLE_DEFAULT)
   if (itemLink === "") return "Empty"

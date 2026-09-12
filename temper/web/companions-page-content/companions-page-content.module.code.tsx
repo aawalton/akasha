@@ -16,7 +16,6 @@ import {
 import { useFilterPersistence } from "akasha/design/interfaces/patterns/use-filter-persistence/use-filter-persistence.module.code.ts"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { PagesUILink as Link } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
-import { CompanionsDataContent } from "akasha/temper/web/companions-data-content/companions-data-content.module.code.tsx"
 import type { SortField } from "akasha/temper/web/companions-filter-bar/companions-filter-bar.module.code.tsx"
 import {
   BASE_ROLES,
@@ -32,6 +31,7 @@ import {
   isValidTab,
   type TabValue,
 } from "akasha/temper/web/modules/build-page-tab/build-page-tab.module.code.ts"
+import { CompanionsDataContent } from "akasha/temper/web/modules/companions-data-content/companions-data-content.module.code.tsx"
 import { NewCompanionButton } from "akasha/temper/web/new-companion-button/new-companion-button.module.code.tsx"
 import { isSortDirection } from "akasha/utils/narrow/is-sort-direction/is-sort-direction.module.code.ts"
 import { ChevronLeft, Gamepad2, Hammer, Search, Trophy } from "lucide-react"

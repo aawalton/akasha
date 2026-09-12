@@ -19,8 +19,6 @@ import {
   TEXT_PRIMARY,
   TEXT_TERTIARY,
 } from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
-import { decodeCompanionBuild } from "akasha/temper/companions-addon/companions-decoder/companions-decoder.module.code.ts"
-import { SLOT_NAMES } from "akasha/temper/companions-addon/companions-display-names/companions-display-names.module.code.ts"
 import {
   describeMismatch,
   EQUIPMENT_SLOT_COUNT,
@@ -49,6 +47,8 @@ import {
   JEWELRY_SLOTS,
   WEAPON_SLOTS,
 } from "akasha/temper/companions-addon/modules/companions-codec/companions-codec.module.code.ts"
+import { decodeCompanionBuild } from "akasha/temper/companions-addon/modules/companions-decoder/companions-decoder.module.code.ts"
+import { SLOT_NAMES } from "akasha/temper/companions-addon/modules/companions-display-names/companions-display-names.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 
 const COLOR_GREEN = GREEN

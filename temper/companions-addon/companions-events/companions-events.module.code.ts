@@ -18,8 +18,6 @@ import "akasha/temper/eso-types/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso-types/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
-import { ADDON_NAME } from "akasha/temper/companions-addon/companions-constants/companions-constants.module.code.ts"
-import { decodeCompanionBuild } from "akasha/temper/companions-addon/companions-decoder/companions-decoder.module.code.ts"
 import { notifyCompanionRapportChange } from "akasha/temper/companions-addon/companions-overview-rapport/companions-overview-rapport.module.code.ts"
 import {
   addCompanionSkillLine,
@@ -35,6 +33,8 @@ import {
 } from "akasha/temper/companions-addon/companions-selector/companions-selector.module.code.ts"
 import { getTargetBuildHash } from "akasha/temper/companions-addon/companions-target-build-input/companions-target-build-input.module.code.ts"
 import { applySkills } from "akasha/temper/companions-addon/modules/companions-apply-build/companions-apply-build.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/companions-addon/modules/companions-constants/companions-constants.module.code.ts"
+import { decodeCompanionBuild } from "akasha/temper/companions-addon/modules/companions-decoder/companions-decoder.module.code.ts"
 export function registerCompanionEvents(): undefined {
   EVENT_MANAGER.RegisterForEvent(
     ADDON_NAME + "_CompanionActivated",

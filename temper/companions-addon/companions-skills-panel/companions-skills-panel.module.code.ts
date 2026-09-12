@@ -16,7 +16,6 @@ import {
   TEXT_SECONDARY,
   TEXT_TERTIARY,
 } from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
-import { decodeCompanionBuild } from "akasha/temper/companions-addon/companions-decoder/companions-decoder.module.code.ts"
 import { getAbilityIdFromSkillIndex } from "akasha/temper/companions-addon/companions-reverse-mappings/companions-reverse-mappings.module.code.ts"
 import type { SavedCompanionBuild } from "akasha/temper/companions-addon/companions-saved-variables/companions-saved-variables.module.code.ts"
 import {
@@ -33,6 +32,7 @@ import {
   type CompanionBuildData,
   SKILL_SLOT_INDICES,
 } from "akasha/temper/companions-addon/modules/companions-codec/companions-codec.module.code.ts"
+import { decodeCompanionBuild } from "akasha/temper/companions-addon/modules/companions-decoder/companions-decoder.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 
 const MINI_ICON_SIZE = 24
