@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { Asking as Asked } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   appendedOnto,
@@ -11,7 +10,6 @@ import {
   filedIn,
   jsonOf,
   type Ledger,
-  type Planned,
   type Plays,
   plannedOver,
   providerTrackIn,
@@ -22,13 +20,16 @@ import {
 import {
   bodyAt,
   changesOver,
+  EARLY_PLAYS,
   FILED_DAY,
   FILED_HEARD_ID,
+  FILED_ONCE,
   FILED_PLAY_KEY,
   foldedInto,
   GIVEN,
   LANDED,
   LEDGER,
+  LOCK_HELD,
   landingTelling,
   ledgerPage,
   NONE,
@@ -37,16 +38,15 @@ import {
   PROBE_PLAYS,
   pathsOf,
   playOf,
+  REPEAT_PLAYS,
   ROOT,
+  rowsIn,
+  THREE_PLAYS,
   TOLD_NOTHING,
   type Told,
+  TWO_PLAYS,
 } from "akasha/commands/pages/music/capture/music-capture.command.test-fixtures.ts"
 import { statesVersionSeven } from "akasha/pages/ids/uuid-version-7/uuid-version-7.module.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-
-function rowsIn(planned: Planned, day: string): readonly Value[] {
-  return planned.listens.get(day) ?? []
-}
 
 test("a track Spotify names no id for is read as no play", () => {
   expect(providerTrackIn({ id: null, name: "One" })).toBe(null)
@@ -88,13 +88,7 @@ test("a run with no play filed asks for the whole window Spotify gives back", ()
 })
 
 test("a priming run files every play and scores no first listen", () => {
-  const planned = plannedOver(
-    [
-      playOf("t1", "2026-08-21T12:00:00.000Z", "One", "Alpha"),
-      playOf("t2", "2026-08-21T12:05:00.000Z", "Two", "Beta"),
-    ],
-    NONE
-  )
+  const planned = plannedOver(TWO_PLAYS, NONE)
   expect(planned.primed).toBe(true)
   expect(planned.recorded).toBe(2)
   expect(planned.firstListens).toBe(0)
@@ -127,13 +121,7 @@ test("a track heard under another id is caught by its title key", () => {
 })
 
 test("two plays of one new track in a run are one heard track and one first listen", () => {
-  const planned = plannedOver(
-    [
-      playOf("t1", "2026-08-21T12:09:00.000Z", "One", "Alpha"),
-      playOf("t1", "2026-08-21T12:01:00.000Z", "One", "Alpha"),
-    ],
-    LEDGER
-  )
+  const planned = plannedOver(REPEAT_PLAYS, LEDGER)
   expect(planned.recorded).toBe(2)
   expect(planned.heard.length).toBe(1)
   expect(planned.firstListens).toBe(1)
@@ -142,23 +130,15 @@ test("two plays of one new track in a run are one heard track and one first list
 })
 
 test("a play key already filed is counted and written no second time", () => {
-  const held: Ledger = {
-    ...LEDGER,
-    playKeys: new Set(["t1@2026-08-21T12:00:00.000Z"]),
-    heardIds: new Set(["t1"]),
-  }
-  const planned = plannedOver([playOf("t1", "2026-08-21T12:00:00.000Z", "One", "Alpha")], held)
+  const play = playOf("t1", "2026-08-21T12:00:00.000Z", "One", "Alpha")
+  const planned = plannedOver([play], FILED_ONCE)
   expect(planned.recorded).toBe(0)
   expect(planned.alreadyRecorded).toBe(1)
   expect(planned.listens.size).toBe(0)
 })
 
 test("the same plays run a second time over what the first run filed add nothing", () => {
-  const plays = [
-    playOf("t1", "2026-08-21T12:00:00.000Z", "One", "Alpha"),
-    playOf("t2", "2026-08-21T12:05:00.000Z", "Two", "Beta"),
-    playOf("t1", "2026-08-21T12:10:00.000Z", "One", "Alpha"),
-  ]
+  const plays = THREE_PLAYS
   const first = plannedOver(plays, LEDGER)
   expect(first.recorded).toBe(3)
   expect(first.heard.length).toBe(2)
@@ -194,13 +174,7 @@ test("a play whose track carries no id is passed over and counted", () => {
 })
 
 test("a play lands on the ESO day it finished in rather than on a field of its own", () => {
-  const planned = plannedOver(
-    [
-      playOf("t1", "2026-08-21T09:00:00.000Z", "One", "Alpha"),
-      playOf("t2", "2026-08-21T11:00:00.000Z", "Two", "Beta"),
-    ],
-    LEDGER
-  )
+  const planned = plannedOver(EARLY_PLAYS, LEDGER)
   expect([...planned.listens.keys()].sort()).toEqual(["2026-08-20", "2026-08-21"])
   for (const rows of planned.listens.values()) {
     for (const one of rows) expect("date" in one).toBe(false)
@@ -232,13 +206,7 @@ test("a listen names its keys and no persona, and a heard track names its own", 
 })
 
 test("every row composed carries an id of its own", () => {
-  const planned = plannedOver(
-    [
-      playOf("t1", "2026-08-21T12:00:00.000Z", "One", "Alpha"),
-      playOf("t2", "2026-08-21T12:05:00.000Z", "Two", "Beta"),
-    ],
-    LEDGER
-  )
+  const planned = plannedOver(TWO_PLAYS, LEDGER)
   const rows = [...rowsIn(planned, "2026-08-21"), ...planned.heard]
   const said = rows.map((one) => one["id"])
   expect(said.filter((one) => typeof one === "string" && statesVersionSeven(one))).toHaveLength(4)
@@ -350,8 +318,7 @@ test("a run saying to write nothing reaches no landing and names what would be w
 })
 
 test("a landing that refused is answered with the refusal and nothing filed", async () => {
-  const refused = { refusals: ["the lock was held"], code: EXIT.OPERATIONAL }
-  const held = landingTelling(TOLD_NOTHING, refused)
+  const held = landingTelling(TOLD_NOTHING, LOCK_HELD)
   const answer = await capturing([], GIVEN, PROBE_PLAYS, held)
   expect(answer.code).toBe(3)
   expect(answer.refusals).toEqual(["the lock was held"])

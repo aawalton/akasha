@@ -1,3 +1,4 @@
+import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { Asking as Asked } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -14,6 +15,7 @@ import {
   plannedOver,
   WRITE,
 } from "akasha/commands/pages/music/capture/music-capture.command.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 export const ROOT = rootOf(process.cwd())
 
@@ -46,6 +48,38 @@ export const GIVEN: Given = {
 
 export function playOf(id: string, at: string, name: string, artist: string, ms = 120_000): Played {
   return { track: { id, name, duration_ms: ms, artists: [{ name: artist }] }, played_at: at }
+}
+
+export const TWO_PLAYS: readonly Played[] = [
+  playOf("t1", "2026-08-21T12:00:00.000Z", "One", "Alpha"),
+  playOf("t2", "2026-08-21T12:05:00.000Z", "Two", "Beta"),
+]
+
+export const THREE_PLAYS: readonly Played[] = [
+  ...TWO_PLAYS,
+  playOf("t1", "2026-08-21T12:10:00.000Z", "One", "Alpha"),
+]
+
+export const REPEAT_PLAYS: readonly Played[] = [
+  playOf("t1", "2026-08-21T12:09:00.000Z", "One", "Alpha"),
+  playOf("t1", "2026-08-21T12:01:00.000Z", "One", "Alpha"),
+]
+
+export const EARLY_PLAYS: readonly Played[] = [
+  playOf("t1", "2026-08-21T09:00:00.000Z", "One", "Alpha"),
+  playOf("t2", "2026-08-21T11:00:00.000Z", "Two", "Beta"),
+]
+
+export const FILED_ONCE: Ledger = {
+  ...LEDGER,
+  playKeys: new Set(["t1@2026-08-21T12:00:00.000Z"]),
+  heardIds: new Set(["t1"]),
+}
+
+export const LOCK_HELD: Refused = { refusals: ["the lock was held"], code: EXIT.OPERATIONAL }
+
+export function rowsIn(planned: Planned, day: string): readonly Value[] {
+  return planned.listens.get(day) ?? []
 }
 
 export function foldedInto(ledger: Ledger, planned: Planned): Ledger {
