@@ -10,6 +10,7 @@ import {
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { ROOT_NAMED } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import {
   OUTPUT,
   pathOf,
@@ -33,13 +34,13 @@ function scratch(): string {
 
 function underRoot<T>(root: string, run: () => T): T {
   notices()
-  const held = optionalEnv("AKASHA_ROOT")
-  process.env["AKASHA_ROOT"] = root
+  const held = optionalEnv(ROOT_NAMED)
+  process.env[ROOT_NAMED] = root
   try {
     return run()
   } finally {
-    if (held === undefined) delete process.env["AKASHA_ROOT"]
-    else process.env["AKASHA_ROOT"] = held
+    if (held === undefined) delete process.env[ROOT_NAMED]
+    else process.env[ROOT_NAMED] = held
   }
 }
 
