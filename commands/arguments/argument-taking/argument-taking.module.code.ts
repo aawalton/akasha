@@ -7,6 +7,7 @@ export type SaidAs = "flag" | "word" | "flag-or-word"
 export type Naming = {
   readonly argument: Argument
   readonly required?: boolean
+  readonly repeats?: boolean
   readonly saidAs?: SaidAs
   readonly notWith?: readonly Argument[]
 }
@@ -23,6 +24,10 @@ const WHOLE = /^\d+$/
 
 function carries(argument: Argument): boolean {
   return argument.value !== "none"
+}
+
+function repeating(one: Naming): boolean {
+  return one.repeats ?? one.argument.repeats === true
 }
 
 function atAFlag(one: Naming): boolean {
@@ -82,7 +87,7 @@ function filling(state: Filling, one: Naming, value: string, byWord: boolean): u
   const argument = one.argument
   const slug = argument.slug
   const key = exportedAs(slug)
-  if (argument.repeats === true) {
+  if (repeating(one)) {
     const before = (state.taken[key] ?? []) as readonly (string | number)[]
     state.taken[key] = [...before, heldOf(argument, value) as string | number]
   } else if (state.heard.has(slug)) {
@@ -160,7 +165,7 @@ export function takingIn(
     const key = exportedAs(one.argument.slug)
     if (key in state.taken) continue
     if (!carries(one.argument)) state.taken[key] = false
-    else if (one.argument.repeats === true) state.taken[key] = []
+    else if (repeating(one)) state.taken[key] = []
   }
   return { taken: state.taken }
 }
@@ -168,6 +173,7 @@ export function takingIn(
 export type Named = {
   readonly argument: string
   readonly required?: boolean
+  readonly repeats?: boolean
   readonly saidAs?: SaidAs
   readonly notWith?: readonly string[]
 }
@@ -189,9 +195,16 @@ type Carries<Said extends Argument["value"]> = Said extends "whole-number"
     ? boolean
     : string
 
-type Carried<Page extends Argument> = Page extends { readonly repeats: true }
-  ? readonly Carries<Page["value"]>[]
-  : Carries<Page["value"]>
+type Repeating<Entry extends Named, Page extends Argument> = Entry extends {
+  readonly repeats: true
+}
+  ? true
+  : Page extends { readonly repeats: true }
+    ? true
+    : false
+
+type Carried<Entry extends Named, Page extends Argument> =
+  Repeating<Entry, Page> extends true ? readonly Carries<Page["value"]>[] : Carries<Page["value"]>
 
 type Entries<Page extends Commanding> = Page extends {
   readonly arguments: infer Held extends readonly Named[]
@@ -210,7 +223,7 @@ type Filled<Entry extends Named, Pages extends Argument> = Entry extends {
   ? true
   : PageOf<Entry, Pages> extends { readonly value: "none" }
     ? true
-    : PageOf<Entry, Pages> extends { readonly repeats: true }
+    : Repeating<Entry, PageOf<Entry, Pages>> extends true
       ? true
       : false
 
@@ -228,11 +241,11 @@ export type TakenFor<Page extends Commanding, Pages extends Argument> = [
       {
         [Entry in Entries<Page> as Filled<Entry, Pages> extends true
           ? Camel<Slugged<Entry["argument"]>>
-          : never]: Carried<PageOf<Entry, Pages>>
+          : never]: Carried<Entry, PageOf<Entry, Pages>>
       } & {
         [Entry in Entries<Page> as Filled<Entry, Pages> extends true
           ? never
-          : Camel<Slugged<Entry["argument"]>>]?: Carried<PageOf<Entry, Pages>>
+          : Camel<Slugged<Entry["argument"]>>]?: Carried<Entry, PageOf<Entry, Pages>>
       }
     >
   : { readonly noArgumentPageHereFor: Unnamed<Page, Pages> }
@@ -247,6 +260,7 @@ function namedBy(entry: Named, bySlug: ReadonlyMap<string, Argument>): Naming | 
   return {
     argument,
     ...(entry.required === undefined ? {} : { required: entry.required }),
+    ...(entry.repeats === undefined ? {} : { repeats: entry.repeats }),
     ...(entry.saidAs === undefined ? {} : { saidAs: entry.saidAs }),
     ...(against.length === 0 ? {} : { notWith: against }),
   }

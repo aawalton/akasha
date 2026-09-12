@@ -11,6 +11,7 @@ export const commandArguments = {
     { pageProperty: "boolean-property/required", required: false, many: false },
     { pageProperty: "select-property/said-as", required: false, many: false },
     { pageProperty: "relation-property/not-with", required: false, many: true, maxCount: null },
+    { pageProperty: "boolean-property/repeats", required: false, many: false },
   ],
   invariants: [
     {
@@ -31,4 +32,5 @@ export const commandArguments = {
     },
   ],
   types: "ts",
+  parts: ["boolean-property/repeats"],
 } as const satisfies RecordProperty
