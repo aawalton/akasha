@@ -19,7 +19,7 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import {
   esoAnswering,
   type Taking,
-} from "akasha/commands/pages/temper/eso/eso-answering/eso-answering.module.code.ts"
+} from "akasha/commands/modules/eso-answering/eso-answering.module.code.ts"
 import { temperEsoGenerateColonMethod as page } from "akasha/commands/pages/temper/eso/generate/colon-method/temper-eso-generate-colon-method.command.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { esoDocPathForLuaRoot } from "akasha/temper/build-deploy-checks/eso-doc-api-version/eso-doc-api-version.module.code.ts"

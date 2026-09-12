@@ -15,7 +15,7 @@ import {
   esoAnswering,
   type Generating,
   type Taking,
-} from "akasha/commands/pages/temper/eso/eso-answering/eso-answering.module.code.ts"
+} from "akasha/commands/modules/eso-answering/eso-answering.module.code.ts"
 import { temperEsoGenerateChatterName as page } from "akasha/commands/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { fileOf } from "akasha/pages/indexes/property-file/property-file.module.code.ts"

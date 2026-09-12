@@ -14,8 +14,8 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import type {
   Generating,
   Taking,
-} from "akasha/commands/pages/temper/eso/eso-answering/eso-answering.module.code.ts"
-import { esoAnswering } from "akasha/commands/pages/temper/eso/eso-answering/eso-answering.module.code.ts"
+} from "akasha/commands/modules/eso-answering/eso-answering.module.code.ts"
+import { esoAnswering } from "akasha/commands/modules/eso-answering/eso-answering.module.code.ts"
 
 type Handed = Taking<typeof NAMING_THEM, typeof PAGES>
 

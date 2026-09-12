@@ -14,12 +14,12 @@ import {
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { temperEsoDeclarationAudit as page } from "akasha/commands/pages/temper/eso/declaration-audit/temper-eso-declaration-audit.command.ts"
 import {
   esoAnswering,
   type Generating,
   type Taking,
-} from "akasha/commands/pages/temper/eso/eso-answering/eso-answering.module.code.ts"
+} from "akasha/commands/modules/eso-answering/eso-answering.module.code.ts"
+import { temperEsoDeclarationAudit as page } from "akasha/commands/pages/temper/eso/declaration-audit/temper-eso-declaration-audit.command.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import {
   buildEsoClonePopulation,

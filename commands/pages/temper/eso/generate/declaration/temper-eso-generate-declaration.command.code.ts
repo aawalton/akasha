@@ -24,7 +24,7 @@ import {
   esoAnswering,
   type Generating,
   type Taking,
-} from "akasha/commands/pages/temper/eso/eso-answering/eso-answering.module.code.ts"
+} from "akasha/commands/modules/eso-answering/eso-answering.module.code.ts"
 import { temperEsoGenerateDeclaration as page } from "akasha/commands/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"

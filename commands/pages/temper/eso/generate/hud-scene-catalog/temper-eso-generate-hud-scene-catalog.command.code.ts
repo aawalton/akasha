@@ -18,7 +18,7 @@ import {
   esoAnswering,
   type Generating,
   type Taking,
-} from "akasha/commands/pages/temper/eso/eso-answering/eso-answering.module.code.ts"
+} from "akasha/commands/modules/eso-answering/eso-answering.module.code.ts"
 import { temperEsoGenerateHudSceneCatalog as page } from "akasha/commands/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { saidShort } from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
