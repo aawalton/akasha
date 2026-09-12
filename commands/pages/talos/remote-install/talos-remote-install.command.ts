@@ -8,7 +8,6 @@ export const talosRemoteInstall = {
   code: "ts",
   test: "ts",
   taking: [
-    { said: "--ssh-key <path>", takes: "the private key that user is reached with" },
     {
       said: "--method <auto|kexec|dd>",
       takes: "how the host hands over, `auto` where none is said",
@@ -108,5 +107,6 @@ export const talosRemoteInstall = {
     { argument: "argument/node", required: true, saidAs: "flag-or-word" },
     { argument: "argument/ip" },
     { argument: "argument/ssh-user" },
+    { argument: "argument/ssh-key" },
   ],
 } as const satisfies Command
