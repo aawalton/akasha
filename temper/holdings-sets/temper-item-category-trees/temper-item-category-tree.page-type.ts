@@ -14,10 +14,10 @@ export const temperItemCategoryTree = {
     "number-property/furniture-category-ids",
     "number-property/furniture-subcategory-ids",
     "number-property/item-types",
+    "number-property/priority-order",
     "number-property/specialized-item-types",
     "number-property/trait-type-range",
     "number-property/weapon-types",
-    "number-property/priority-order",
     "text-property/item-name-contains",
   ],
   properties: [

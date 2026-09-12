@@ -11,11 +11,11 @@ export const temperCaptureDataminingAddon = {
   bundleEntry: "datamining-entry",
   parts: [
     "module/datamining-constants",
-    "module/datamining-saved-variables",
-    "module/datamining-item-miner",
-    "module/datamining-quest-miner",
-    "module/datamining-public-api",
     "module/datamining-entry",
+    "module/datamining-item-miner",
+    "module/datamining-public-api",
+    "module/datamining-quest-miner",
+    "module/datamining-saved-variables",
   ],
   invariants: [
     {

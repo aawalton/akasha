@@ -7,11 +7,11 @@ export const bannedTerm = {
   definition: "one term akasha writes another term in place of",
   pluralSlug: "banned-terms",
   parts: [
-    "text-property/instead",
-    "text-property/from-pattern",
-    "text-property/to-pattern",
     "record-property/replacement-patterns",
     "relation-property/prose-frame",
+    "text-property/from-pattern",
+    "text-property/instead",
+    "text-property/to-pattern",
   ],
   extends: ["page-type/term"],
   properties: [

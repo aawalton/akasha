@@ -40,11 +40,11 @@ export const folderShape = {
   parts: [
     "boolean-property/folder-shape-enabled",
     "folder-shape/a-claimed-folder",
-    "folder-shape/a-page-with-its-parts",
-    "folder-shape/modules-only",
     "folder-shape/a-domain-with-its-parts",
     "folder-shape/a-page-type-with-its-parts",
+    "folder-shape/a-page-with-its-parts",
     "folder-shape/a-service-workstation-with-its-parts",
+    "folder-shape/modules-only",
     "folder-shape/pages-of-the-type-above",
     "folder-shape/properties-of-the-type-above",
     "folder-shape/property-pages-only",

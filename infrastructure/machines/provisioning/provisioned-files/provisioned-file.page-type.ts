@@ -8,6 +8,7 @@ export const provisionedFile = {
   pluralSlug: "provisioned-files",
   parts: [
     "file-property/content",
+    "module-property-group/filling",
     "provisioned-file/background-slice-share",
     "provisioned-file/bashrc",
     "provisioned-file/btw5-udev-rule",
@@ -33,7 +34,6 @@ export const provisionedFile = {
     "select-property/placed-by",
     "text-property/install-path",
     "text-property/reload-with",
-    "module-property-group/filling",
   ],
   extends: ["page-type/domain"],
   properties: [

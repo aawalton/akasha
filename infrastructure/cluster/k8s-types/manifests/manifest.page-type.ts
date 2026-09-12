@@ -6,7 +6,7 @@ export const manifest = {
   slug: "manifest",
   definition: "the Kubernetes resources a thing is applied as",
   pluralSlug: "manifests",
-  parts: ["code-file-property/manifest-code", "build-folder-property/generated-directory"],
+  parts: ["build-folder-property/generated-directory", "code-file-property/manifest-code"],
   extends: ["page-type/domain"],
   allowsTmpPaths: true,
   properties: [

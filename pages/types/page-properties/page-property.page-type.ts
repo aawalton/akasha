@@ -9,6 +9,10 @@ export const pageProperty = {
   definition: "one value a page carries",
   pluralSlug: "page-properties",
   parts: [
+    "boolean-property/holds-bytes",
+    "boolean-property/nullable",
+    "boolean-property/runs-file-length",
+    "boolean-property/sorted",
     "number-property/max-count",
     "number-property/max-length",
     "relation-property/generator",
@@ -16,10 +20,6 @@ export const pageProperty = {
     "relation-property/unique-property",
     "text-property/property-slug",
     "text-property/rendered-as",
-    "boolean-property/nullable",
-    "boolean-property/holds-bytes",
-    "boolean-property/runs-file-length",
-    "boolean-property/sorted",
   ],
   extends: ["page-type/domain"],
   properties: [

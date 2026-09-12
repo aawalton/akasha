@@ -11,9 +11,9 @@ export const world = {
   parts: [
     "page-property-entry/character-readings",
     "page-property-entry/mechanic-readings",
+    "select-property/reading-kind",
     "text-property/character-slug",
     "text-property/mechanic-slug",
-    "select-property/reading-kind",
     "text-property/reading-name",
     "text-property/reading-slug",
   ],

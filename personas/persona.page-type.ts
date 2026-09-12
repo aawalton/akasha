@@ -21,6 +21,7 @@ export const persona = {
     "file-property/desktop-wallpaper",
     "file-property/mobile-wallpaper",
     "file-property/portrait",
+    "number-property/green-day-points",
     "relation-property/championed-domain",
     "relation-property/origin",
     "text-property/history",
@@ -28,7 +29,6 @@ export const persona = {
     "text-property/purpose",
     "text-property/voice-instruction",
     "text-property/voice-reference-sha256",
-    "number-property/green-day-points",
   ],
   properties: [
     { pageProperty: "text-property/purpose", required: false, many: false },

@@ -9,8 +9,8 @@ export const graphEdge = {
   parts: [
     "graph-edge/import-edge",
     "graph-edge/relation",
-    "relation-property/index",
     "relation-property/attributes",
+    "relation-property/index",
   ],
   extends: ["page-type/domain"],
   properties: [

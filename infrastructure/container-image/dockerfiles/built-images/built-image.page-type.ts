@@ -14,10 +14,10 @@ export const builtImage = {
     "built-image/gfs-promoter",
     "built-image/kubectl",
     "file-property/image-extensions",
-    "text-property/image-folder",
-    "select-property/image-kind",
-    "text-property/image-repository",
     "module-property-group/extending",
+    "select-property/image-kind",
+    "text-property/image-folder",
+    "text-property/image-repository",
   ],
   extends: ["page-type/domain"],
   properties: [

@@ -8,8 +8,8 @@ export const pageAddressKind = {
   pluralSlug: "page-address-kinds",
   parts: [
     "page-address-kind/in-page",
-    "page-address-kind/in-page-type",
     "page-address-kind/in-page-property",
+    "page-address-kind/in-page-type",
   ],
   extends: ["page-type/module"],
   invariants: [

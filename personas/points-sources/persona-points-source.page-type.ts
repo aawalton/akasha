@@ -9,13 +9,13 @@ export const personaPointsSource = {
   extends: ["page-type/domain"],
   parts: [
     "relation-property/source-persona",
+    "select-property/points-source-aggregate",
     "select-property/points-source-kind",
     "text-property/points-source-marker",
-    "select-property/points-source-aggregate",
     "text-property/points-source-path-prefix",
     "text-property/points-source-point-field",
-    "text-property/points-source-weight-field",
     "text-property/points-source-readings",
+    "text-property/points-source-weight-field",
   ],
   properties: [
     { pageProperty: "relation-property/source-persona", required: true, many: false },

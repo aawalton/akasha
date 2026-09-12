@@ -8,9 +8,9 @@ export const namedEvent = {
   pluralSlug: "named-events",
   extends: ["page-type/page"],
   parts: [
-    "number-property/evidence-beat",
     "number-property/event-first-chapter",
     "number-property/event-last-chapter",
+    "number-property/evidence-beat",
     "select-property/named-event-kind",
     "text-property/event-aliases",
     "text-property/evidence-chapter",

@@ -31,8 +31,8 @@ export const sessions = {
     "text-property/daily-tracking",
     "text-property/difficulty-level",
     "text-property/end-time",
-    "text-property/session-owner",
     "text-property/relationships",
+    "text-property/session-owner",
     "text-property/start-time",
   ],
   properties: [

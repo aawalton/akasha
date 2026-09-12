@@ -9,12 +9,12 @@ export const sentenceShape = {
   extends: ["page-type/module"],
   parts: [
     "boolean-property/allowed",
-    "text-property/reason",
     "sentence-shape/closing-count",
     "sentence-shape/lone-determiner",
     "sentence-shape/lone-pronoun",
     "sentence-shape/lone-quantifier",
     "sentence-shape/partitive-quantifier",
+    "text-property/reason",
   ],
   properties: [
     { pageProperty: "code-file-property/test", required: true, many: false },

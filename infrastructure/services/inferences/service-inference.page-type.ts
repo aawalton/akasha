@@ -9,14 +9,14 @@ export const serviceInference = {
   extends: ["page-type/service"],
   parts: [
     "boolean-property/warm",
+    "module/inference-reading",
     "number-property/internal-port",
     "relation-property/provision",
     "text-property/inference-host",
     "text-property/lifecycle",
     "text-property/python-version",
-    "text-property/workdir",
-    "module/inference-reading",
     "text-property/runs",
+    "text-property/workdir",
   ],
   properties: [
     { pageProperty: "text-property/inference-host", required: true, many: false },

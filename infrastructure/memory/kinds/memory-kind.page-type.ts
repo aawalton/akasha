@@ -8,13 +8,13 @@ export const memoryKind = {
   pluralSlug: "memory-kinds",
   extends: ["page-type/domain"],
   parts: [
-    "memory-kind/resident",
-    "memory-kind/virtual",
-    "memory-kind/shared",
-    "memory-kind/proportional",
     "memory-kind/available",
     "memory-kind/cached",
+    "memory-kind/proportional",
+    "memory-kind/resident",
+    "memory-kind/shared",
     "memory-kind/swap",
+    "memory-kind/virtual",
   ],
   invariants: [
     {

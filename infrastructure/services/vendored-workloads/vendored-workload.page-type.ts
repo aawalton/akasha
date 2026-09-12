@@ -9,9 +9,9 @@ export const vendoredWorkload = {
   extends: ["page-type/service"],
   parts: [
     "vendored-workload/barman-cloud",
+    "vendored-workload/cert-manager",
     "vendored-workload/cert-manager-cainjector",
     "vendored-workload/cert-manager-webhook",
-    "vendored-workload/cert-manager",
     "vendored-workload/cnpg-controller-manager",
     "vendored-workload/coredns",
     "vendored-workload/kube-flannel",

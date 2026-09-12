@@ -10,10 +10,10 @@ export const cpuKind = {
   parts: [
     "cpu-kind/burned",
     "cpu-kind/elapsed",
-    "cpu-kind/utilization",
     "cpu-kind/load",
     "cpu-kind/stall",
     "cpu-kind/throttled",
+    "cpu-kind/utilization",
   ],
   invariants: [
     {
