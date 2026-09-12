@@ -6,10 +6,7 @@ export const temperInventoryBuyRuleCreate = {
   slug: "temper-inventory-buy-rule-create",
   definition: "the command adding a buy rule",
   code: "ts",
-  taking: [
-    { said: "--target <n>", takes: "the total quantity to buy up to" },
-    { said: "--source <name>", takes: "where the item is bought from" },
-  ],
+  taking: [{ said: "--target <n>", takes: "the total quantity to buy up to" }],
 
   invariants: [
     {
@@ -29,5 +26,6 @@ export const temperInventoryBuyRuleCreate = {
     { argument: "argument/active" },
     { argument: "argument/item-id" },
     { argument: "argument/item-name" },
+    { argument: "argument/source" },
   ],
 } as const satisfies Command
