@@ -26,7 +26,7 @@ import {
   dataError,
   inputError,
   operationalError,
-} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+} from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { ruleText } from "akasha/alan/harness/rules-engine/instructions-rule/instructions-rule.module.code.ts"
 import {
   AKASHA,

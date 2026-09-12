@@ -1,4 +1,4 @@
-import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { landRow } from "akasha/infrastructure/inference/runs/modules/generation-log/generation-log.module.code.ts"
 import {
   persistInferenceMedia,

@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   DataError,
   OperationalError,
-} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+} from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import type {
   ResolvableTrack,
   ResolvedTrack,

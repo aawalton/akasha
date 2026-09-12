@@ -1,7 +1,7 @@
 import { Buffer } from "node:buffer"
 import { appendFileSync, existsSync, readdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { exclusively } from "akasha/files/exclusive/exclusive.module.code.ts"
+import { exclusively } from "akasha/files/modules/exclusive/exclusive.module.code.ts"
 import { uncommittedPartAt } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
 import { partFiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import { ENTRY_CEILING } from "akasha/pages/modules/entry-ceiling/entry-ceiling.module.code.ts"

@@ -1,5 +1,5 @@
 import { Buffer } from "node:buffer"
-import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { kebabizeKey } from "akasha/pages/access/file-rows/file-rows.module.code.ts"
 import { FIRST_PART } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { partAt } from "akasha/pages/file-parts/page-file-parts.module.code.ts"

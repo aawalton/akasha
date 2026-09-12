@@ -1,7 +1,7 @@
 import {
   CliError,
   OperationalError,
-} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+} from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import {
   ASC_ISSUER_ID,
   ASC_KEY_ID,

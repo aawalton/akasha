@@ -22,7 +22,7 @@ import {
 import {
   dataError,
   operationalError,
-} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+} from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { clearRequestedAction } from "akasha/seat-system/supervising/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"
 import { SEAT_START_DIR } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
 

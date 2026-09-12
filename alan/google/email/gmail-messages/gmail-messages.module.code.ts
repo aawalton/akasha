@@ -22,7 +22,7 @@ import type {
   ListMessagesQuery,
   ModifyLabelsInput,
 } from "akasha/alan/google/email/modules/email-shapes/email-shapes.module.code.ts"
-import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 
 const SUMMARY_HEADERS = ["From", "To", "Subject", "Date"]
 

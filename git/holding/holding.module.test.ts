@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, utimesSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { landing } from "akasha/commands/modules/landing/landing.module.code.ts"

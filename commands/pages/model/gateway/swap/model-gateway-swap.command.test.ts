@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import type { SeatMatch } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
-import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { fleet } from "akasha/commands/arguments/pages/fleet.argument.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"

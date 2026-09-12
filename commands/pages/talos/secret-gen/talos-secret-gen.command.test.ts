@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { InputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
 import {

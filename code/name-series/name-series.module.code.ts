@@ -3,7 +3,7 @@ import { dirname, join, resolve } from "node:path"
 import {
   DataError,
   OperationalError,
-} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+} from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {

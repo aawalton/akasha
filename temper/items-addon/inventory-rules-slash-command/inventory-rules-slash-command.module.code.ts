@@ -24,15 +24,15 @@ import {
 } from "akasha/temper/items-addon/inventory-rules-conditions-render/inventory-rules-conditions-render.module.code.ts"
 import { getCompiledConfig } from "akasha/temper/items-addon/inventory-rules-core/inventory-rules-core.module.code.ts"
 import { inferDeconCraftingType } from "akasha/temper/items-addon/inventory-rules-core-inspire/inventory-rules-core-inspire.module.code.ts"
-import {
-  evaluateRule,
-  walkRules,
-} from "akasha/temper/items-rules-eval/evaluator/evaluator.module.code.ts"
 import type { EvalContext } from "akasha/temper/items-rules-eval/modules/eval-env/eval-env.module.code.ts"
 import type {
   IndeterminateReason,
   RuleEvalResult,
 } from "akasha/temper/items-rules-eval/modules/eval-result/eval-result.module.code.ts"
+import {
+  evaluateRule,
+  walkRules,
+} from "akasha/temper/items-rules-eval/modules/evaluator/evaluator.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 
 const PREFIX = "[TemperRules]"

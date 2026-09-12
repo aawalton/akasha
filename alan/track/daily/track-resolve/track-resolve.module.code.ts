@@ -1,7 +1,7 @@
 import {
   inputError,
   operationalError,
-} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+} from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import type {
   Page,
   PageAccessClient,

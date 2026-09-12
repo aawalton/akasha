@@ -3,7 +3,7 @@ import {
   gmailHistoryListSchema,
   gmailProfileSchema,
 } from "akasha/alan/google/email/gmail-schema/gmail-schema.module.code.ts"
-import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import type { z } from "zod"
 
 type ParsedHistoryList = z.infer<typeof gmailHistoryListSchema>

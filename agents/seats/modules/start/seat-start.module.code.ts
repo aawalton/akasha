@@ -41,7 +41,7 @@ import { resolveStatedIdentity } from "akasha/agents/seats/modules/stated-identi
 import {
   dataError,
   inputError,
-} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+} from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

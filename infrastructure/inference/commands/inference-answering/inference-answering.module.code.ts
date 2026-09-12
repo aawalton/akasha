@@ -1,4 +1,4 @@
-import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { getHost } from "akasha/infrastructure/inference/pool/inference-hosts/inference-hosts.module.code.ts"
 import type { InferenceHost } from "akasha/infrastructure/inference/pool/inference-schema/inference-schema.module.code.ts"
 import {

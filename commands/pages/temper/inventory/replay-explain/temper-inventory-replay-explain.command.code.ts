@@ -12,7 +12,7 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { temperInventoryReplayExplain as page } from "akasha/commands/pages/temper/inventory/replay-explain/temper-inventory-replay-explain.command.ts"
-import { readLastExplain } from "akasha/temper/commands/explain-replay-reading/explain-replay-reading.module.code.ts"
+import { readLastExplain } from "akasha/temper/commands/modules/explain-replay-reading/explain-replay-reading.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import {
   formatExplainWalk,

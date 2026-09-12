@@ -14,7 +14,7 @@ import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
-import { expandDateMentions } from "akasha/pages/core/view/expand-date-mentions/expand-date-mentions.module.code.ts"
+import { expandDateMentions } from "akasha/pages/core/view/modules/expand-date-mentions/expand-date-mentions.module.code.ts"
 import { DegradingImage } from "akasha/pages/ui/components/modules/degrading-image/degrading-image.module.code.tsx"
 import { toPageDataJSON } from "akasha/pages/ui/components/page-data-json/page-data-json.module.code.ts"
 import { PageDetailHeaderMenu } from "akasha/pages/ui/components/page-detail-header-menu/page-detail-header-menu.module.code.tsx"

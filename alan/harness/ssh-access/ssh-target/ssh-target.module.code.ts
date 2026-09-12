@@ -1,4 +1,4 @@
-import { expandTilde } from "akasha/utils/fs/expand-tilde/expand-tilde.module.code.ts"
+import { expandTilde } from "akasha/utils/fs/modules/expand-tilde/expand-tilde.module.code.ts"
 
 export interface SshTarget {
   readonly user: string

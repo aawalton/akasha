@@ -1,6 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
 import type {

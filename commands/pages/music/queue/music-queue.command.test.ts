@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   DataError,
   OperationalError,
-} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+} from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import type { ResolvedTrack } from "akasha/alan/music/choosing/track-resolving/track-resolving.module.code.ts"
 import type { StartResumeOptions } from "akasha/commands/pages/music/play/music-play.command.code.ts"
 import type {

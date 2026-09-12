@@ -43,7 +43,7 @@ import {
   exitCodeForThrowable,
   inputError,
   operationalError,
-} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+} from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { parseArgs } from "akasha/commands/modules/parse-args/parse-args.module.code.ts"
 import { readStdinOrFile } from "akasha/utils/fs/read-stdin-or-file/read-stdin-or-file.module.code.ts"
 import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"

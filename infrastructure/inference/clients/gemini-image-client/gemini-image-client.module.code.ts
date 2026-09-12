@@ -4,7 +4,7 @@ import { extname } from "node:path"
 import {
   DataError,
   OperationalError,
-} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+} from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { z } from "zod"
 
 const GEMINI_BASE_URL = "https://generativelanguage.googleapis.com/v1beta"

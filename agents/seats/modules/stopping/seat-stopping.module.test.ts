@@ -14,7 +14,7 @@ import {
   type Working,
 } from "akasha/agents/seats/modules/stopping/seat-stopping.module.code.ts"
 import { seatEditsAt } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
-import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   appendEdits,

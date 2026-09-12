@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { refusing, stating } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer as Said } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { ledgerAt, type Reaching } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"

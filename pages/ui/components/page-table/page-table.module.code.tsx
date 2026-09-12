@@ -20,7 +20,7 @@ import {
   type CompletionShape,
   readsAsDone,
 } from "akasha/pages/core/task-lifecycle/task-lifecycle.module.code.ts"
-import { expandDateMentions } from "akasha/pages/core/view/expand-date-mentions/expand-date-mentions.module.code.ts"
+import { expandDateMentions } from "akasha/pages/core/view/modules/expand-date-mentions/expand-date-mentions.module.code.ts"
 import { orderTableColumns } from "akasha/pages/ui/components/modules/card-property-columns/card-property-columns.module.code.ts"
 import { PageActionsMenu } from "akasha/pages/ui/components/page-actions-menu/page-actions-menu.module.code.tsx"
 import { PageTableColGroup } from "akasha/pages/ui/components/page-table-colgroup/page-table-colgroup.module.code.tsx"

@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { join } from "node:path"
-import { DataError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { DataError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import {
   loadTemperInventoryConfigFromPath,
   parseTemperInventoryConfig,

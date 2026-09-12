@@ -1,5 +1,5 @@
 import { parseOauthCallbackUrl } from "akasha/alan/google/oauth/oauth-callback/oauth-callback.module.code.ts"
-import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { saveWorkstationSecret } from "akasha/infrastructure/secrets/workstation-secrets/workstation-secrets.module.code.ts"
 
 const AUTH_URL = "https://accounts.google.com/o/oauth2/v2/auth"

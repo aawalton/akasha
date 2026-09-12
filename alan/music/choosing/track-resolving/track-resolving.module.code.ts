@@ -1,7 +1,7 @@
 import {
   DataError,
   OperationalError,
-} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+} from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { selectCandidates } from "akasha/alan/music/choosing/track-candidate/track-candidate.module.code.ts"
 import {
   getDevices,

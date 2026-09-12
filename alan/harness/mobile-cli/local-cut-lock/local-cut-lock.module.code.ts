@@ -1,6 +1,6 @@
 import { closeSync, openSync, readFileSync, unlinkSync, writeSync } from "node:fs"
-import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import { expandTilde } from "akasha/utils/fs/expand-tilde/expand-tilde.module.code.ts"
+import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { expandTilde } from "akasha/utils/fs/modules/expand-tilde/expand-tilde.module.code.ts"
 import {
   errnoCodeOf,
   pidAliveOrAssumeDead,

@@ -2,7 +2,7 @@ import { mkdir } from "node:fs/promises"
 import {
   InputError,
   OperationalError,
-} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+} from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { readInstalledAddons } from "akasha/temper/community-addons/installed-addons/installed-addons.module.code.ts"
 import { downloadAndInstall } from "akasha/temper/community-addons/modules/addon-download/addon-download.module.code.ts"
 import { findCatalogEntryByName } from "akasha/temper/community-addons/modules/addon-update-plan/addon-update-plan.module.code.ts"

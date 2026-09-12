@@ -5,7 +5,7 @@ import { IconPicker } from "akasha/design/interfaces/patterns/icon-picker/icon-p
 import { Icon } from "akasha/design/interfaces/patterns/lucide-icon/lucide-icon.module.code.tsx"
 import { triggerSafeNode } from "akasha/design/interfaces/primitives/trigger-safe-node/trigger-safe-node.module.code.ts"
 import type { PageWhere } from "akasha/pages/core/page-types/page-types.module.code.ts"
-import { expandDateMentions } from "akasha/pages/core/view/expand-date-mentions/expand-date-mentions.module.code.ts"
+import { expandDateMentions } from "akasha/pages/core/view/modules/expand-date-mentions/expand-date-mentions.module.code.ts"
 import { NavCountBadge } from "akasha/pages/ui/components/nav-count-badge/nav-count-badge.module.code.tsx"
 import { parseShowCountBadge } from "akasha/pages/ui/components/nav-count-badge-decider/nav-count-badge-decider.module.code.ts"
 import { NavItemActions } from "akasha/pages/ui/components/nav-item-actions/nav-item-actions.module.code.tsx"

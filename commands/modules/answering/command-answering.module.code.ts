@@ -1,4 +1,4 @@
-import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { framesOf, whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 

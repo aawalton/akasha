@@ -1,4 +1,4 @@
-import { dataError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { dataError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { entryKeysDeclared } from "akasha/alan/track/daily/modules/day-entry-keys/day-entry-keys.module.code.ts"
 import {
   checkoutRoot,

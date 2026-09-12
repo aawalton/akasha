@@ -1,4 +1,4 @@
-import { DataError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { DataError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type {
   CharEligibility,

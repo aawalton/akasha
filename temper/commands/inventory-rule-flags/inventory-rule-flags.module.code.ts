@@ -1,4 +1,4 @@
-import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { InputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { ITEM_CATEGORY_TREE } from "akasha/temper/items-core/item-category-tree-data/item-category-tree-data.module.code.ts"
 import {
   destinationFormsSaid,
