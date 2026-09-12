@@ -50,19 +50,20 @@ function typeIdOf(slug: string): string {
   return `01a04e9f-2222-7000-8000-${slug.padStart(12, "0").slice(0, 12)}`
 }
 
-function aType(root: string, slug: string): string {
+function aType(root: string, slug: string, above: string | null = null): string {
   const id = typeIdOf(slug)
   const path = `akasha/held/${slug}.page-type.ts`
+  const held = above === null ? { id, slug } : { id, slug, extends: [above] }
   listedFiled(root, "page-type", slug, [{ path, id }])
   idFiled(root, id, [{ path, id }])
-  valueAlsoFiled(root, "page-type", [{ path, value: { id, slug } }])
-  pageAt(root, path, `export const held = { slug: ${JSON.stringify(slug)} }\n`)
+  valueAlsoFiled(root, "page-type", [{ path, value: held }])
+  pageAt(root, path, `export const held = ${JSON.stringify(held)}\n`)
   return id
 }
 
 function typing(root: string, slug: string, above: string): undefined {
   const over = aType(root, above.slice(above.indexOf("/") + 1))
-  const id = aType(root, slug)
+  const id = aType(root, slug, above)
   namedFiled(root, over, "extends-type", id, [{ path: `akasha/held/${slug}.page-type.ts` }])
 }
 
