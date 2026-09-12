@@ -2,15 +2,21 @@ import { existsSync } from "node:fs"
 import { readFile, writeFile } from "node:fs/promises"
 import { join, resolve } from "node:path"
 import { USER_ID } from "akasha/alan/harness/supabase-auth/user-id/user-id.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { jsonOneLine as jsonOneLineArgument } from "akasha/commands/arguments/pages/json-one-line.argument.ts"
+import { latest as latestArgument } from "akasha/commands/arguments/pages/latest.argument.ts"
+import { output as outputArgument } from "akasha/commands/arguments/pages/output.argument.ts"
+import { snapshot as snapshotArgument } from "akasha/commands/arguments/pages/snapshot.argument.ts"
 import {
   DATA,
   OPERATIONAL,
   refused,
-  refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { temperInventorySnapshot as page } from "akasha/commands/pages/temper/inventory/snapshot/temper-inventory-snapshot.command.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   listedAt,
@@ -19,11 +25,7 @@ import {
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 
-const LATEST = "--latest"
-
-const OUTPUT = "--output"
-
-const JSON_FLAG = "--json"
+const NAMED = [latestArgument, snapshotArgument, outputArgument, jsonOneLineArgument]
 
 const SPACES = 2
 
@@ -36,66 +38,6 @@ const HELD = "json"
 const ACCOUNT_PAGE = "accountPage"
 
 type Page = { readonly path: string; readonly id: string }
-
-export type Read =
-  | {
-      readonly named: string | null
-      readonly latest: boolean
-      readonly outputPath: string | null
-      readonly json: boolean
-    }
-  | { readonly refused: readonly string[] }
-
-export function readIn(argv: readonly string[]): Read {
-  const refusals: string[] = []
-  let named: string | null = null
-  let latest = false
-  let outputPath: string | null = null
-  let json = false
-  for (let at = 0; at < argv.length; at += 1) {
-    const one = argv[at]
-    if (one === undefined) continue
-    if (one === LATEST) {
-      latest = true
-      continue
-    }
-    if (one === JSON_FLAG) {
-      json = true
-      continue
-    }
-    if (one === OUTPUT) {
-      const value = argv[at + 1]
-      at += 1
-      if (value === undefined) {
-        refusals.push(`\`${OUTPUT}\` names the file written to, and no file followed it`)
-        continue
-      }
-      outputPath = value
-      continue
-    }
-    if (one.startsWith("--")) {
-      refusals.push(
-        `\`${one}\` is no flag this takes — it takes \`${LATEST}\`, \`${OUTPUT}\` and \`${JSON_FLAG}\``
-      )
-      continue
-    }
-    if (named !== null) {
-      refusals.push(
-        `\`${one}\` follows the snapshot already named, and one call reads one snapshot`
-      )
-      continue
-    }
-    named = one
-  }
-  if (named !== null && latest) {
-    refusals.push(`a call names a snapshot or says \`${LATEST}\`, and this said both`)
-  }
-  if (named === null && !latest) {
-    refusals.push(`name the snapshot read, or say \`${LATEST}\` for the newest one`)
-  }
-  if (refusals.length > 0) return { refused: refusals }
-  return { named, latest, outputPath, json }
-}
 
 function pageNamed(root: string, said: string): Page | null {
   const byId = listedById(root, said)
@@ -116,40 +58,43 @@ function pageLatest(root: string): Page | null {
   return null
 }
 
-function dataFileFor(root: string, page: Page): string | null {
-  const beside = besideAt(page.path, DATA_PROPERTY, HELD)
+function dataFileFor(root: string, found: Page): string | null {
+  const beside = besideAt(found.path, DATA_PROPERTY, HELD)
   if (beside === null) return null
   const at = join(root, beside)
   return existsSync(at) ? at : null
 }
 
 export async function temperInventorySnapshot(
-  argv: readonly string[] = [],
-  given?: Given
+  argv: readonly string[],
+  given: Given
 ): Promise<Answer> {
-  const read = readIn(argv)
-  if ("refused" in read) return refusedBy(read.refused)
-  const root = given === undefined ? process.cwd() : resolve(given.root)
+  const read = takenFor(argv, given.calledAs, page, NAMED)
+  if ("refused" in read) return mistaking(read.refused)
+  const taken = read.taken
+  const root = resolve(given.root)
 
-  let page: Page | null
+  const named = taken.snapshot
+
+  let found: Page | null
   try {
-    page = read.latest ? pageLatest(root) : pageNamed(root, read.named ?? "")
+    found = named === undefined ? pageLatest(root) : pageNamed(root, named)
   } catch (thrown) {
     return refused(whyOf(thrown), OPERATIONAL)
   }
-  if (page === null) {
+  if (found === null) {
     return refused(
-      read.latest
+      named === undefined
         ? `the account ${USER_ID} carries no ${PAGE_TYPE} page, so there is none to read`
-        : `no ${PAGE_TYPE} page is reached by \`${read.named ?? ""}\`, as an id or as a slug`,
+        : `no ${PAGE_TYPE} page is reached by \`${named}\`, as an id or as a slug`,
       DATA
     )
   }
 
-  const dataFile = dataFileFor(root, page)
+  const dataFile = dataFileFor(root, found)
   if (dataFile === null) {
     return refused(
-      `snapshot ${page.id} carries no data file, which is how a reading whose pieces ` +
+      `snapshot ${found.id} carries no data file, which is how a reading whose pieces ` +
         "rejoined to no JSON document remains",
       DATA
     )
@@ -162,14 +107,14 @@ export async function temperInventorySnapshot(
     return refused(`${dataFile} holds no whole JSON document — ${whyOf(thrown)}`, DATA)
   }
 
-  const said = read.json ? JSON.stringify(db) : JSON.stringify(db, null, SPACES)
-  if (read.outputPath === null) return told(said.split("\n"))
+  const said = taken.jsonOneLine ? JSON.stringify(db) : JSON.stringify(db, null, SPACES)
+  if (taken.output === undefined) return told(said.split("\n"))
 
-  const at = resolve(root, read.outputPath)
+  const at = resolve(root, taken.output)
   try {
     await writeFile(at, `${said}\n`, "utf8")
   } catch (thrown) {
     return refused(`the record was not written to ${at} — ${whyOf(thrown)}`, OPERATIONAL)
   }
-  return told([`wrote snapshot ${page.id} into ${at}, read whole from ${dataFile}`])
+  return told([`wrote snapshot ${found.id} into ${at}, read whole from ${dataFile}`])
 }
