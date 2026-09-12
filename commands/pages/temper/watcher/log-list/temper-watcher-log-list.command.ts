@@ -6,9 +6,7 @@ export const temperWatcherLogList = {
   slug: "temper-watcher-log-list",
   definition: "the command reading the workstation watcher's log lines newest first",
   code: "ts",
-  taking: [
-    { said: "--json", takes: "give one object holding every line rather than one object per line" },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -32,5 +30,6 @@ export const temperWatcherLogList = {
     { argument: "argument/limit" },
     { argument: "argument/since" },
     { argument: "argument/log-dir" },
+    { argument: "argument/json-in-one-object" },
   ],
 } as const satisfies Command
