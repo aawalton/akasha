@@ -3,6 +3,7 @@ import { dirname, join } from "node:path"
 import type { TunnelRoute } from "akasha/infrastructure/cluster/manifests/tunnel-route/tunnel-route.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { pageTypesIn } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import { shapeOf } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
@@ -22,24 +23,20 @@ const CODE_FILE_PROPERTY = "code-file-property"
 
 const TUNNEL_ROUTES = "tunnel-routes"
 
-const SLUG = "slug"
-
-const FILE_NAME = "file-name"
-
 export interface DiscoveredRoute {
   readonly route: TunnelRoute
   readonly sourceFile: string
 }
 
 function routesFileName(root: string): string {
-  for (const one of valuesOfType(root, CODE_FILE_PROPERTY)) {
-    if (textAt(one.value, SLUG) !== TUNNEL_ROUTES) continue
-    const named = textAt(one.value, exportedAs(FILE_NAME))
-    if (named !== null) return named
+  const filed = shapeOf(root, `${CODE_FILE_PROPERTY}/${TUNNEL_ROUTES}`)
+  const named = "refused" in filed ? null : filed.shape.fileName
+  if (named === null) {
+    throw new Error(
+      `no \`${CODE_FILE_PROPERTY}\` page carries the slug \`${TUNNEL_ROUTES}\` with a file name, so nothing says what a routes file is called`
+    )
   }
-  throw new Error(
-    `no \`${CODE_FILE_PROPERTY}\` page carries the slug \`${TUNNEL_ROUTES}\` with a file name, so nothing says what a routes file is called`
-  )
+  return named
 }
 
 function routeFilesIn(root: string): readonly string[] {

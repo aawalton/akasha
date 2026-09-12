@@ -48,7 +48,7 @@ export const runComposing = {
     },
     {
       invariantKind: "departure",
-      statement: "The key a page holds that file under is read from the property's own page.",
+      statement: "The key a page holds that file under is read from the index rather than a page.",
     },
 
     {

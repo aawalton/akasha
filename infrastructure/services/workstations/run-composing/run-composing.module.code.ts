@@ -1,12 +1,13 @@
 import { join } from "node:path"
 import { addressedIn, addressIn } from "akasha/pages/address/page-address.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { shapeOf } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
 import {
   listedAt,
   listedFor,
   valueByPath,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 const CODE_FILE = "code-file-property/"
@@ -71,14 +72,11 @@ export function runPropertyOf(root: string, pageTypeSlug: string): string | Refu
       refused: `\`${pageTypeSlug}\` requires ${found.length} code files, and a run needs the one to run`,
     }
   }
-  const at = pathOf(root, one)
-  if (typeof at !== "string") return at
-  const held = valueByPath(root, at)
-  const propertySlug = held === null ? null : textAt(held, "propertySlug")
-  if (propertySlug === null) {
+  const filed = shapeOf(root, one)
+  if ("refused" in filed) {
     return { refused: `\`${one}\` states no property slug, so which file its pages run is unsaid` }
   }
-  return propertySlug
+  return filed.shape.propertySlug
 }
 
 export function runOf(root: string, named: string): Run | Refused {

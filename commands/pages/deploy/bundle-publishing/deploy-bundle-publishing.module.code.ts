@@ -2,8 +2,8 @@ import { createHash } from "node:crypto"
 import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { landedMechanically } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { shapeOf } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
 import { listedAt, valuesByPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import {
   ARCHIVE_NAME,
   packedBundle,
@@ -41,8 +41,6 @@ const IMAGE_SLUG = "addon-bundle-image"
 
 const IMAGE_KEY = "addonBundleImage"
 
-const FILE_NAME = "fileName"
-
 const PUT = "change-mechanical/add-file-code"
 
 const MESSAGE = "the addon bundle image the cluster pulls, named by the content it was built from"
@@ -57,12 +55,8 @@ function tagFileFor(root: string, slug: string): string | null {
   if (app === undefined) return null
   const stated = valuesByPath(root, ROUTER_APP).get(app.path)
   if (stated === undefined || stated[IMAGE_KEY] === undefined) return null
-  const property = listedAt(root, CODE_FILE_PROPERTY, IMAGE_SLUG)[0]
-  const shape =
-    property === undefined
-      ? null
-      : (valuesByPath(root, CODE_FILE_PROPERTY).get(property.path) ?? null)
-  const named = shape === null ? null : textAt(shape, FILE_NAME)
+  const filed = shapeOf(root, `${CODE_FILE_PROPERTY}/${IMAGE_SLUG}`)
+  const named = "refused" in filed ? null : filed.shape.fileName
   return named === null ? null : join(dirname(app.path), named)
 }
 
