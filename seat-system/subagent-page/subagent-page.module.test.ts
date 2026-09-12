@@ -11,9 +11,9 @@ import {
   seeing,
   tookAway,
 } from "akasha/seat-system/subagent-page/subagent-page.module.test-fixtures.ts"
+import { bodyOf } from "akasha/seat-system/subagents/body/subagent-body.module.code.ts"
 import {
   agentIdOf,
-  bodyOf,
   pathOf,
   slugOf,
 } from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"

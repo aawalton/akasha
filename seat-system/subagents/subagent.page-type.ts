@@ -9,6 +9,7 @@ export const subagent = {
   extends: ["page-type/agent"],
   mortal: true,
   parts: [
+    "module/subagent-body",
     "module/subagent-landing-again",
     "module/subagent-presence",
     "number-property/subagent-started",

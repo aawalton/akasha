@@ -3,8 +3,8 @@ import { join } from "node:path"
 import { heldSaid, WAITED_AT_MOST } from "akasha/git/holding/holding.module.code.ts"
 import { valueAlsoFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { nothingFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { bodyOf } from "akasha/seat-system/subagents/body/subagent-body.module.code.ts"
 import {
-  bodyOf,
   LOG_AT,
   lineFor,
   pathOf,

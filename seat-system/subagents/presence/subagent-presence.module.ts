@@ -23,10 +23,6 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "A page composed states no id.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The landing of a page composed mints the id that page keeps.",
     },
     {
@@ -314,7 +310,7 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "A page composed names its type from the root rather than by a relative path.",
+      statement: "A body is composed by the module that composes a subagent's body.",
     },
   ],
 } as const satisfies Module

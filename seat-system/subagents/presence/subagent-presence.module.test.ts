@@ -16,7 +16,6 @@ import {
   agentIdOf,
   asking,
   assignedTo,
-  bodyOf,
   LOG_AT,
   logPathOf,
   namedAmong,
@@ -34,7 +33,6 @@ import {
 import {
   AGENT,
   ANOTHER,
-  BODY_STATES,
   COMMITTED,
   HELD_ASSIGNMENT,
   HELD_ID,
@@ -128,24 +126,6 @@ test("a subagent the transcript names nowhere is named by nothing", () => {
 
 test("a log sits in the seat's own folder named for this module", () => {
   expect(logPathOf(SEAT_ID, "/var/tmp/base")).toBe(`/var/tmp/base/${SEAT_ID}/${LOG_AT}`)
-})
-
-test("a body states the type and slug and seat and assignment and kind and agent id", () => {
-  const body = bodyOf("akasha-abc", "akasha", "domain/akasha-system", "Explore", "seat--own")
-  for (const said of BODY_STATES) expect(body).toContain(said)
-  expect(body).not.toContain("pageTypeSlug:")
-})
-
-test("a body composed states no id, leaving the change to mint one", () => {
-  expect(
-    bodyOf("akasha-abc", "akasha", "domain/akasha-system", "Explore", "seat--own")
-  ).not.toContain("id:")
-})
-
-test("a body carries the id it is handed, before everything else the body states", () => {
-  const body = bodyOf("a-abc", "akasha", "domain/akasha-system", "Explore", "seat--own", HELD_ID)
-  expect(body).toContain(`id: ${JSON.stringify(HELD_ID)}`)
-  expect(body.indexOf("id:")).toBeLessThan(body.indexOf("type:"))
 })
 
 test("a page takes the assignment from the page its seat is at", () => {

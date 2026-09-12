@@ -13,8 +13,8 @@ import {
   seatEditsAt,
   seatRefusalsAt,
 } from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
+import { bodyOf } from "akasha/seat-system/subagents/body/subagent-body.module.code.ts"
 import {
-  bodyOf,
   type Landing,
   pathOf,
   slugOf,
@@ -49,17 +49,6 @@ export const ROW = `${JSON.stringify({ kind: "remove", path: "one.md" })}\n`
 export const REFUSAL = "the body moved under the change"
 
 export const NOTHING_KEPT = { edits: "", refusals: "" }
-
-export const BODY_STATES = [
-  'from "akasha/seat-system/subagents/subagent.page-type.types.ts"',
-  "export const akashaAbc = {",
-  'type: "subagent"',
-  'slug: "akasha-abc"',
-  'principalSeatName: "akasha"',
-  'assignmentSlug: "domain/akasha-system"',
-  'dispatchedAs: "Explore"',
-  'agentId: "seat--own"',
-]
 
 export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
 

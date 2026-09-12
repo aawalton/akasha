@@ -11,14 +11,9 @@ import {
   type SubagentNode,
 } from "akasha/code/editor/extension/subagent-reading/subagent-reading.module.code.ts"
 import { partWay } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
 import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import {
-  exportedAs,
-  nameFaultIn,
-  typedAs,
-} from "akasha/pages/export-name/page-export-name.module.code.ts"
-import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { nameFaultIn } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   everyOfType,
   listedAt,
@@ -33,6 +28,7 @@ import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { transcriptOf } from "akasha/seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
 import { subagentPageInHistory } from "akasha/seat-system/subagent-page-history/subagent-page-history.module.code.ts"
 import { movedOnto } from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
+import { bodyOf } from "akasha/seat-system/subagents/body/subagent-body.module.code.ts"
 import {
   landingAgain,
   type Went,
@@ -65,12 +61,6 @@ const ID = "id"
 const AGENT_ID = "agentId"
 
 const SUFFIX = ".subagent.ts"
-
-const PAGE_TYPE = "page-type"
-
-const TYPES = "types"
-
-const TS = "ts"
 
 const ADD_PAGE = "change-mechanical/add-file-of-any-kind"
 
@@ -120,42 +110,6 @@ function loggingTo(seatId: string, baseDir: string | undefined): number | null {
   } catch {
     return null
   }
-}
-
-function said(value: string): string {
-  return JSON.stringify(value)
-}
-
-function typeLineFor(root: string): string {
-  const page = listedAt(root, PAGE_TYPE, SUBAGENT)[0]
-  const at = page === undefined ? null : besideAt(page.path, TYPES, TS)
-  if (at === null) throw new Error(`no \`${PAGE_TYPE}\` is slugged \`${SUBAGENT}\``)
-  return `import type { ${typedAs(SUBAGENT)} } from "${importedFrom(at)}"`
-}
-
-export function bodyOf(
-  slug: string,
-  seatName: string,
-  assignmentSlug: string,
-  dispatchedAs: string,
-  agentId: string,
-  id: string | null = null,
-  root: string = ownRepoRoot()
-): string {
-  return [
-    typeLineFor(root),
-    "",
-    `export const ${exportedAs(slug)} = {`,
-    ...(id === null ? [] : [`  id: ${said(id)},`]),
-    '  type: "subagent",',
-    `  slug: ${said(slug)},`,
-    `  principalSeatName: ${said(seatName)},`,
-    `  assignmentSlug: ${said(assignmentSlug)},`,
-    `  dispatchedAs: ${said(dispatchedAs)},`,
-    `  agentId: ${said(agentId)},`,
-    "} as const satisfies Subagent",
-    "",
-  ].join("\n")
 }
 
 export function assignedTo(root: string, seatName: string): string | null {
