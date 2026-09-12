@@ -40,7 +40,7 @@ test("the file is read from the word said in place", () => {
 })
 
 test("a file named in place and as a flag is refused", () => {
-  expect(refusedBy(["1AbC", "--source", "1AbC"])[0]).toContain("as a word and at its flag")
+  expect(refusedBy(["1AbC", "--source", "1AbC"])[0]).toContain("one call says it one way")
 })
 
 test("a second file is refused", () => {

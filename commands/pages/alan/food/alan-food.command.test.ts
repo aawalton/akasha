@@ -107,7 +107,7 @@ test("the food's name is read off the flag as well", () => {
 
 test("a food named twice is refused rather than one name being dropped", () => {
   const said = reading(["Broccoli", "--title", "Kale"])
-  expect("refused" in said && said.refused[0]).toContain("as a word and at its flag")
+  expect("refused" in said && said.refused[0]).toContain("one call says it one way")
 })
 
 test("a second food after the first is refused", () => {
