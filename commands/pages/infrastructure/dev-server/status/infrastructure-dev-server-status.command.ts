@@ -11,7 +11,6 @@ export const infrastructureDevServerStatus = {
     { said: "<seq>", takes: "the branch sequence number, said here where no flag names it" },
     { said: "--seq <n>", takes: "the branch sequence number to narrow the answer to" },
     { said: "--app <name>", takes: "the app to narrow the answer to" },
-    { said: "--json", takes: "answer as one JSON line rather than as lines a reader takes" },
   ],
   invariants: [
     {

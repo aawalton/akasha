@@ -15,7 +15,6 @@ export const infrastructureDevServerBootstrap = {
       takes: "whose `.env.local` to write, named by the slug that app's web app page carries",
     },
     { said: "--force", takes: "write over the `.env.local` already there" },
-    { said: "--json", takes: "answer as one JSON line rather than as lines a reader takes" },
   ],
   invariants: [
     {

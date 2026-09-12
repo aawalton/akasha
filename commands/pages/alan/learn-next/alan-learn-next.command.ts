@@ -7,12 +7,7 @@ export const alanLearnNext = {
   definition:
     "the command naming the first unopened leaf of the Book of Everything along a fixed sweep",
   code: "ts",
-  taking: [
-    {
-      said: "--json",
-      takes: "give the leaf as one line of JSON rather than as a tab-separated row",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",

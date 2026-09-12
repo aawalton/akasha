@@ -12,7 +12,6 @@ export const imessageRecentList = {
       said: "--contact <name-or-handle>",
       takes: "hold the answer to one contact, named in the address book or by number or address",
     },
-    { said: "--json", takes: "give the messages as JSON rather than as tab-parted rows" },
   ],
   invariants: [
     {

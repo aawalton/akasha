@@ -8,7 +8,6 @@ export const initiativeWorkTree = {
   code: "ts",
   test: "ts",
   taking: [
-    { said: "--json", takes: "the tree as one JSON object, for a caller rather than a reader" },
     { said: "--counts", takes: "how many initiatives and how many intents the tree holds" },
     { said: "--colors", takes: "the color each initiative is drawn in, keyed by its slug" },
   ],

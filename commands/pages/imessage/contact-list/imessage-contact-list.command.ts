@@ -9,7 +9,6 @@ export const imessageContactList = {
   taking: [
     { said: "--query <name>", takes: "the run of letters a contact's name must hold" },
     { said: "<name>", takes: "the same run of letters, said as a word rather than at its flag" },
-    { said: "--json", takes: "give the contacts as JSON rather than as tab-parted rows" },
   ],
   invariants: [
     {

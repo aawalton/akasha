@@ -21,7 +21,6 @@ export const infrastructureDevServerRestart = {
       said: "--port <p>",
       takes: "the port to run on, replacing the one the base port and the seq work out",
     },
-    { said: "--json", takes: "answer as one JSON line rather than as lines a reader takes" },
   ],
   invariants: [
     {

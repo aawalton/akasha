@@ -15,7 +15,6 @@ export const alanFood = {
     { said: "--estimated-calories <n>", takes: "the food's estimated total calories" },
     { said: "--date <YYYY-MM-DD>", takes: "the Mountain calendar date the food was eaten on" },
     { said: "--time <HH:MM>", takes: "the Mountain wall clock it was eaten at, read on that date" },
-    { said: "--json", takes: "the entry as one JSON object rather than as a row for each field" },
   ],
   invariants: [
     {

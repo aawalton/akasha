@@ -37,7 +37,6 @@ export const browserTestVerifyRender = {
     { said: "--timeout-ms <ms>", takes: "how long each wait is given" },
     { said: "--no-sign-in", takes: "look as nobody rather than signing in" },
     { said: "--as-throwaway", takes: "look as the throwaway user rather than the live one" },
-    { said: "--json", takes: "give the verdict as JSON rather than as lines" },
   ],
   invariants: [
     {

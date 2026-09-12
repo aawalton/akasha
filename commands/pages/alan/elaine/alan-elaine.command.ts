@@ -16,7 +16,6 @@ export const alanElaine = {
       said: "--file-path <path>",
       takes: "the macbook path to an export zip or an unpacked export.xml, in place of the scan",
     },
-    { said: "--json", takes: "the snapshot as one JSON object rather than as formatted lines" },
   ],
   invariants: [
     {

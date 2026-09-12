@@ -18,7 +18,6 @@ export const infrastructureDevServerStop = {
       takes: "which app to stop, named by the slug that app's web app page carries",
     },
     { said: "--all", takes: "every server a state file tracks, in place of naming one" },
-    { said: "--json", takes: "answer as one JSON line rather than as lines a reader takes" },
   ],
   invariants: [
     {
