@@ -8,7 +8,6 @@ export const mobileSimTap = {
   code: "ts",
   taking: [
     { said: "--selector <css>", takes: "the element to tap, found by CSS in the webview" },
-    { said: "--x <px>", takes: "how far across the viewport to tap, with `--y`" },
     { said: "--y <px>", takes: "how far down the viewport to tap, with `--x`" },
   ],
   invariants: [
@@ -38,4 +37,5 @@ export const mobileSimTap = {
     },
   ],
   name: "tap",
+  arguments: [{ argument: "argument/x" }],
 } as const satisfies Command
