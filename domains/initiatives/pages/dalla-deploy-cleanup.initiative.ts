@@ -16,7 +16,7 @@ export const dallaDeployCleanup = {
       statement:
         "A service deploys no commit newer than what every service it depends on has deployed.",
       workingMemory:
-        "`relation-property/deploys-after` sits on `page-type/service`, and `deploy-choosing` holds back any service that still wants a deploy for one it names. That carries down a chain, since a service held back wants a deploy still, and it deadlocks on nothing, because the one holding another back is the one chosen first. A service naming one that is nowhere is held back by nothing. No page names one yet, so the rule bounds nothing today.",
+        "`relation-property/deploys-after` sits on `page-type/service`, and `deploy-choosing` holds back any service that still wants a deploy for one it names. That carries down a chain and deadlocks on nothing, since the one holding another back is the one chosen first. No page names one, and the looking came back empty: the ESO addons' `dependsOn` is a load order the floor check keeps true at every commit, and no cluster service breaks where another is put up first. The rule bounds nothing today.",
     },
     {
       statement: "A deploy loop puts up first the service furthest behind that is able to deploy.",
