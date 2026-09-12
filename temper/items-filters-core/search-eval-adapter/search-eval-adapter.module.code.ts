@@ -47,6 +47,9 @@ const PURE_FACTS_ENV: EvalEnv = {
   getCharacterPriority: fail,
   getCurrentCharacter: fail,
   getAllCharacters: fail,
+  getCharacterSkillLineRanks: fail,
+  getCharacterCurseState: fail,
+  getCharacterCanLevelMorphs: fail,
 }
 
 const PURE_FACTS_CTX: EvalContext = { env: PURE_FACTS_ENV }

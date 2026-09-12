@@ -4,6 +4,13 @@ export type LookupResult<T> = T | "unknown"
 
 export type ClaimMap = ReadonlyMap<string, ReadonlySet<string>>
 
+export interface SkillLineRanks {
+  readonly currentRank: number
+  readonly maxRank: number
+}
+
+export type CurseState = "vampire" | "werewolf"
+
 export interface EvalEnv {
   readonly isKnownByCharacter: (itemKey: ItemKey, charId: string) => LookupResult<boolean>
 
@@ -57,6 +64,15 @@ export interface EvalEnv {
   readonly getCurrentCharacter: () => LookupResult<string>
 
   readonly getAllCharacters: () => LookupResult<ReadonlyArray<string>>
+
+  readonly getCharacterSkillLineRanks: (
+    charId: string,
+    skillLineId: string
+  ) => LookupResult<SkillLineRanks | undefined>
+
+  readonly getCharacterCurseState: (charId: string) => LookupResult<CurseState | undefined>
+
+  readonly getCharacterCanLevelMorphs: (charId: string) => LookupResult<boolean>
 }
 
 export interface WantedEquipmentFacts {

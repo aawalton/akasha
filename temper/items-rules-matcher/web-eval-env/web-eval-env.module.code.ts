@@ -177,6 +177,22 @@ export function buildWebEvalEnv(
     getCharacterPriority: () => ctx.characterPriority,
     getCurrentCharacter: () => "unknown",
     getAllCharacters: () => collectAllCharacterIds(ctx),
+
+    getCharacterSkillLineRanks: (charId, skillLineId) => {
+      const resolve = ctx.getCharacterSkillLineRanks
+      if (resolve === undefined) return "unknown"
+      return resolve(charId, skillLineId)
+    },
+    getCharacterCurseState: (charId) => {
+      const resolve = ctx.getCharacterCurseState
+      if (resolve === undefined) return "unknown"
+      return resolve(charId)
+    },
+    getCharacterCanLevelMorphs: (charId) => {
+      const resolve = ctx.getCharacterCanLevelMorphs
+      if (resolve === undefined) return "unknown"
+      return resolve(charId)
+    },
   }
 }
 
@@ -202,6 +218,9 @@ const UNKNOWN_ENV: EvalEnv = {
   getCharacterPriority: () => "unknown",
   getCurrentCharacter: () => "unknown",
   getAllCharacters: () => "unknown",
+  getCharacterSkillLineRanks: () => "unknown",
+  getCharacterCurseState: () => "unknown",
+  getCharacterCanLevelMorphs: () => "unknown",
 }
 
 export function buildItemIdToCooldownGroup(

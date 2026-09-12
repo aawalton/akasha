@@ -25,5 +25,15 @@ export const evalEnv = {
       statement:
         "A wanted-equipment lookup takes equipType and traitType and quality as one bundle.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A lookup answering undefined holds nothing, and one answering unknown cannot say.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A skill line is named by its temper id rather than by the number the game gives it.",
+    },
   ],
 } as const satisfies Module

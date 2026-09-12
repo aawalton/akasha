@@ -26,6 +26,18 @@ export const inventoryEvalEnv = {
       statement: "A style the chapter table has never heard of is known by nobody.",
     },
     {
+      invariantKind: "departure",
+      statement: "A skill line rank comes from the characters capture rather than from the game.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A skill line the capture never names reads as absent rather than as rank zero.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Whether a character can level a morph is answered off the game.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here talks to the game.",
     },

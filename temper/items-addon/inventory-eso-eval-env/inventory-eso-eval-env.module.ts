@@ -6,4 +6,10 @@ export const inventoryEsoEvalEnv = {
   slug: "inventory-eso-eval-env",
   definition: "the evaluation environment the rule evaluator runs in, built from game state",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A skill line rank table is built on the first lookup that asks for one.",
+    },
+  ],
 } as const satisfies Module

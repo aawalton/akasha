@@ -79,6 +79,29 @@ test("what only the running game knows is answered unknown rather than guessed",
   expect(env.getTransmuteCrystalCap()).toBe("unknown")
 })
 
+test("a skill line rank comes from the characters capture, named by its temper id", () => {
+  const env = envOf(knowing({ skillLineRanksByEsoLineId: new Map([[111, 7]]) }))
+  expect(env.getCharacterSkillLineRanks("111", "world-legerdemain")).toEqual({
+    currentRank: 7,
+    maxRank: 20,
+  })
+})
+
+test("a skill line the capture never names reads as absent rather than unknown", () => {
+  const env = envOf(knowing({ skillLineRanksByEsoLineId: new Map([[111, 7]]) }))
+  expect(env.getCharacterSkillLineRanks("111", "guild-thieves-guild")).toBeUndefined()
+  expect(env.getCharacterSkillLineRanks("111", "not-a-skill-line")).toBeUndefined()
+})
+
+test("a curse state comes from the characters capture", () => {
+  expect(envOf(knowing({ curseState: "werewolf" })).getCharacterCurseState("111")).toBe("werewolf")
+  expect(envOf(knowing({})).getCharacterCurseState("111")).toBeUndefined()
+})
+
+test("whether a character can level a morph is answered unknown off the game", () => {
+  expect(envOf(knowing({})).getCharacterCanLevelMorphs("111")).toBe("unknown")
+})
+
 test("the characters and their order are answered from what was read", () => {
   const env = envOf(knowing({}))
   expect(env.getAllCharacters()).toEqual(["111"])

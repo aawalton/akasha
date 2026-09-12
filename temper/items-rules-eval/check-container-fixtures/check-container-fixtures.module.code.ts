@@ -27,6 +27,9 @@ export const STUB_ENV: EvalEnv = {
   getCharacterPriority: () => "unknown",
   getCurrentCharacter: () => "unknown",
   getAllCharacters: () => "unknown",
+  getCharacterSkillLineRanks: () => "unknown",
+  getCharacterCurseState: () => "unknown",
+  getCharacterCanLevelMorphs: () => "unknown",
 }
 
 export function ctxWith(overrides: Partial<EvalEnv>): EvalContext {

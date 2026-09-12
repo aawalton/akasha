@@ -2,6 +2,7 @@ import type { CharacterKnowledge } from "akasha/temper/commands/inventory-charac
 import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/motif-chapter-set/motif-chapter-set.module.code.ts"
 import type { ItemKey } from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
 import type { EvalEnv } from "akasha/temper/items-rules-eval/eval-env/eval-env.module.code.ts"
+import { skillLines } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 
 export interface CliEvalEnvDeps {
@@ -30,6 +31,19 @@ export function buildCliEvalEnv(deps: CliEvalEnvDeps): EvalEnv {
     getCharacterPriority: () => characterPriority,
     getCurrentCharacter: () => UNKNOWN,
     getAllCharacters: () => Array.from(charactersById.keys()),
+
+    getCharacterSkillLineRanks: (charId, skillLineId) => {
+      if (!skillLines.has(skillLineId)) return undefined
+      const template = skillLines.data[skillLineId]
+      if (template.esoSkillLineId <= 0) return undefined
+      const currentRank = charactersById
+        .get(charId)
+        ?.skillLineRanksByEsoLineId.get(template.esoSkillLineId)
+      if (currentRank === undefined) return undefined
+      return { currentRank, maxRank: template.maxRank }
+    },
+    getCharacterCurseState: (charId) => charactersById.get(charId)?.curseState,
+    getCharacterCanLevelMorphs: () => UNKNOWN,
 
     getConsumableWanters: (itemId) => {
       if (
