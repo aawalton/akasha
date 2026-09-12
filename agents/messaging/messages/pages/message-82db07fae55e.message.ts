@@ -1,0 +1,11 @@
+import type { Message } from "akasha/agents/messaging/messages/message.page-type.types.ts"
+
+export const message82db07fae55e = {
+  id: "01a09526-aa39-7000-8a95-82db07fae55e",
+  type: "message",
+  slug: "message-82db07fae55e",
+  to: "thea",
+  from: "audit-running",
+  warrant: "announce",
+  body: "the audit at 3a83eeac8291c775c64bab32bb3878f093ac3fd3 found 2 checks newly refusing.\n`index-is-level-with-the-pages` refused 1 time:\n  checks/code-checks/pages/index-is-level-with-the-pages/index-is-level-with-the-pages.code-check.ts — the check `index-is-level-with-the-pages` threw at /var/home/walton/repos/akasha/pages/indexes/indexing/indexing.module.code.ts:125:14, so ... (366 characters more)\n`no-refused-syntax` refused 17 times:\n  commands/pages/email/attachment/list/email-attachment-list.command.code.ts — line 14: a refusal handed `1` where its code goes says nothing of what kind of thing went wrong — name it `INPUT` and import it from the command-answering module i... (30 characters more)\n  commands/pages/email/attachment/show/email-attachment-show.command.code.ts — line 15: a refusal handed `1` where its code goes says nothing of what kind of thing went wrong — name it `INPUT` and import it from the command-answering module i... (30 characters more)\n  commands/pages/email/draft/create/email-draft-create.command.code.ts — line 19: a refusal handed `1` where its code goes says nothing of what kind of thing went wrong — name it `INPUT` and import it from the command-answering module instead... (24 characters more)\n  commands/pages/email/draft/create/email-draft-create.command.code.ts — line 22: a refusal handed `1` where its code goes says nothing of what kind of thing went wrong — name it `INPUT` and import it from the command-answering module instead... (24 characters more)\n  commands/pages/email/draft/list/email-draft-list.command.code.ts — line 14: a refusal handed `1` where its code goes says nothing of what kind of thing went wrong — name it `INPUT` and import it from the command-answering module instead — `... (20 characters more)\n/var/home/walton/.local/state/workstation-services/audit-verdicts.json holds what each of them refuses, whole.\n",
+} as const satisfies Message
