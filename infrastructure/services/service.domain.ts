@@ -17,6 +17,7 @@ export const service = {
     "module/deploy-choosing",
     "module/deploy-subject-listing",
     "module/deploy-wanting",
+    "module/deploy-looping",
   ],
   invariants: [
     {
