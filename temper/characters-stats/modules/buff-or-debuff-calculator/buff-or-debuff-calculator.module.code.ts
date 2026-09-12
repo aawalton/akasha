@@ -1,4 +1,4 @@
-import { getBuffOrDebuffId } from "akasha/temper/characters-stats/buff-or-debuff-id/buff-or-debuff-id.module.code.ts"
+import { getBuffOrDebuffId } from "akasha/temper/characters-stats/modules/buff-or-debuff-id/buff-or-debuff-id.module.code.ts"
 import {
   type BuffOrDebuffSource,
   buffOrDebuff,

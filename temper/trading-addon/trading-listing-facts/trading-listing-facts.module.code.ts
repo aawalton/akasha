@@ -12,7 +12,7 @@ import {
   resolveStaticItemKey,
 } from "akasha/temper/items-rules-eval/build-item-facts-from-inventory-item/build-item-facts-from-inventory-item.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
-import type { BrowseListing } from "akasha/temper/trading-listings/browse-listings/browse-listings.module.code.ts"
+import type { BrowseListing } from "akasha/temper/trading-listings/modules/browse-listings/browse-listings.module.code.ts"
 import { parseNumber } from "akasha/utils/narrow/parse-number/parse-number.module.code.ts"
 import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
 

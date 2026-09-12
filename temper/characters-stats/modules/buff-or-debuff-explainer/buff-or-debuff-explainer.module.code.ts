@@ -1,9 +1,9 @@
 import type { PotionSource } from "akasha/temper/alchemy/potion-source/potion-source.module.code.ts"
-import { getBuffOrDebuffId } from "akasha/temper/characters-stats/buff-or-debuff-id/buff-or-debuff-id.module.code.ts"
 import {
   getMetricDisplayName,
   metrics,
 } from "akasha/temper/characters-stats/metrics/metrics.module.code.ts"
+import { getBuffOrDebuffId } from "akasha/temper/characters-stats/modules/buff-or-debuff-id/buff-or-debuff-id.module.code.ts"
 import type { BuffOrDebuffSource } from "akasha/temper/formula-framework/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
 import type { BuffOrDebuffEffect } from "akasha/temper/formula-framework/effect/effect.module.code.ts"
 import {

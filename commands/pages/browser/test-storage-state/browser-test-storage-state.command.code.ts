@@ -10,8 +10,8 @@ import {
   DEFAULT_THROWAWAY_EMAIL,
   ensureThrowawayUser,
 } from "akasha/alan/harness/supabase-server/throwaway-user/throwaway-user.module.code.ts"
-import { readBrowserTestEnv } from "akasha/code/browser/test-harness/browser-test-env/browser-test-env.module.code.ts"
 import { launchAndSignIn } from "akasha/code/browser/test-harness/harness-launch/harness-launch.module.code.ts"
+import { readBrowserTestEnv } from "akasha/code/browser/test-harness/modules/browser-test-env/browser-test-env.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { output as outputArgument } from "akasha/commands/arguments/pages/output.argument.ts"
 import { signInPath as signInPathArgument } from "akasha/commands/arguments/pages/sign-in-path.argument.ts"

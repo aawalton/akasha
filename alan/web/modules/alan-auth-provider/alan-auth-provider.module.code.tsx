@@ -1,6 +1,6 @@
 "use client"
 
-import { refreshBrowserSession } from "akasha/alan/harness/supabase-rr/browser-session-refresh/browser-session-refresh.module.code.ts"
+import { refreshBrowserSession } from "akasha/alan/harness/supabase-rr/modules/browser-session-refresh/browser-session-refresh.module.code.ts"
 import { useSupabase } from "akasha/alan/harness/supabase-rr/supabase-provider/supabase-provider.module.code.tsx"
 import { isNativeShell } from "akasha/alan/web/capacitor-bridge/capacitor-bridge.module.code.ts"
 import { DeepLinkOpenSync } from "akasha/alan/web/deep-link-open-sync/deep-link-open-sync.module.code.tsx"

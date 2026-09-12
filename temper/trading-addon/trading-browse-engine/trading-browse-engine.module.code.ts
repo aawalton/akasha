@@ -20,14 +20,14 @@ import {
   type BrowseListing,
   mergeListings,
   sortByUnitPriceDesc,
-} from "akasha/temper/trading-listings/browse-listings/browse-listings.module.code.ts"
+} from "akasha/temper/trading-listings/modules/browse-listings/browse-listings.module.code.ts"
 import {
   type BrowseAction,
   type BrowseEvent,
   type BrowseState,
   decideBrowseNext,
   INITIAL_BROWSE_STATE,
-} from "akasha/temper/trading-listings/browse-state/browse-state.module.code.ts"
+} from "akasha/temper/trading-listings/modules/browse-state/browse-state.module.code.ts"
 
 const TRADING_HOUSE_SORT_SALE_PRICE_PER_UNIT = 3
 const TRADING_HOUSE_RESULT_SEARCH_PENDING = 14

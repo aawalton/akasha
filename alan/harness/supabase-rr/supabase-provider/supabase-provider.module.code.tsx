@@ -3,7 +3,7 @@
 import {
   getBrowserClient,
   type SupabaseBrowserClient,
-} from "akasha/alan/harness/supabase-rr/browser-client/browser-client.module.code.ts"
+} from "akasha/alan/harness/supabase-rr/modules/browser-client/browser-client.module.code.ts"
 import { createContext, type ReactNode, useContext, useMemo } from "react"
 
 const SupabaseContext = createContext<SupabaseBrowserClient | null>(null)

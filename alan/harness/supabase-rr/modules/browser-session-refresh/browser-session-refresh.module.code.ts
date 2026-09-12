@@ -1,4 +1,4 @@
-import type { SupabaseBrowserClient } from "akasha/alan/harness/supabase-rr/browser-client/browser-client.module.code.ts"
+import type { SupabaseBrowserClient } from "akasha/alan/harness/supabase-rr/modules/browser-client/browser-client.module.code.ts"
 
 export async function refreshBrowserSession(supabase: SupabaseBrowserClient): Promise<void> {
   const { error } = await supabase.auth.refreshSession()

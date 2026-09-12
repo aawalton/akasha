@@ -1,6 +1,6 @@
 "use client"
 
-import { refreshBrowserSession } from "akasha/alan/harness/supabase-rr/browser-session-refresh/browser-session-refresh.module.code.ts"
+import { refreshBrowserSession } from "akasha/alan/harness/supabase-rr/modules/browser-session-refresh/browser-session-refresh.module.code.ts"
 import { useSupabase } from "akasha/alan/harness/supabase-rr/supabase-provider/supabase-provider.module.code.tsx"
 import { useAppVersionCheck } from "akasha/pages/ui/app-version/use-app-version-check/use-app-version-check.module.code.ts"
 import { UserIdContext } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
