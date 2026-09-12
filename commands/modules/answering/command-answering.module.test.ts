@@ -10,7 +10,6 @@ import {
   codeOf,
   DATA,
   faulted,
-  flagsAloneIn,
   INPUT,
   keeping,
   naming,
@@ -161,9 +160,4 @@ test("a fault caught outside every command is answered as unclassified", () => {
 
 test("such a refusal opens with the name the call was made by", () => {
   expect(unclassified("held", "akasha page tree").refusals[0]).toBe("akasha page tree: held")
-})
-
-test("a word where a command takes flags alone is the caller's mistake", () => {
-  expect(flagsAloneIn({ loose: [] })).toEqual([])
-  expect(flagsAloneIn({ loose: ["held"] })[0]).toContain("it takes flags alone")
 })

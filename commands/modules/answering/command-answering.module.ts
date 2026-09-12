@@ -102,10 +102,6 @@ export const commandAnswering = {
     },
     {
       invariantKind: "departure",
-      statement: "A word where a command takes flags alone is the caller's mistake.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A line keyed by a name carries that name, a tab and what the name holds.",
     },
     {

@@ -20,10 +20,6 @@ const CARRIES_A_CODE: ReadonlySet<string> = new Set([
   "OperationalError",
 ])
 
-export type Loose = {
-  readonly loose: readonly string[]
-}
-
 export function refusedBy(said: readonly string[], code = INPUT): Answer {
   return { report: [], refusals: said, code }
 }
@@ -82,10 +78,6 @@ export async function answering(
     if (done.length === 0) return said
     return { report: done, refusals: [...said.refusals, ...partWay(done)], code: said.code }
   }
-}
-
-export function flagsAloneIn(said: Loose): readonly string[] {
-  return said.loose.map((one) => `\`${one}\` follows nothing this takes — it takes flags alone`)
 }
 
 export function keyedLines(
