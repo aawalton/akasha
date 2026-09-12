@@ -1,4 +1,3 @@
-import { LANG } from "akasha/temper/crafting-addon/craft-lang-index/craft-lang-index.module.code.ts"
 import {
   needAppend,
   updateTrackingStatus,
@@ -14,6 +13,7 @@ import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-stat
 import * as Characters from "akasha/temper/crafting-addon/modules/craft-characters/craft-characters.module.code.ts"
 import { CRAFT_ICON } from "akasha/temper/crafting-addon/modules/craft-icons/craft-icons.module.code.ts"
 import * as Inventory from "akasha/temper/crafting-addon/modules/craft-inventory/craft-inventory.module.code.ts"
+import { LANG } from "akasha/temper/crafting-addon/modules/craft-lang-index/craft-lang-index.module.code.ts"
 
 const WM = WINDOW_MANAGER
 
