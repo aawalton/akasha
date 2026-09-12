@@ -3,7 +3,7 @@ import {
   decideProxyLiveness,
   INITIAL_PROXY_LIVENESS_STATE,
   type ProxyLivenessState,
-} from "akasha/seat-system/supervisor-proxy-liveness-decide/supervisor-proxy-liveness-decide.module.code.ts"
+} from "akasha/agents/seats/supervisors/modules/proxy-liveness-decide/supervisor-proxy-liveness-decide.module.code.ts"
 
 function failing(state: ProxyLivenessState, times: number): ProxyLivenessState {
   let held = state

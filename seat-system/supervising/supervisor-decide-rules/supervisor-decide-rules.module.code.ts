@@ -12,6 +12,7 @@ import {
   decideProxyAdoption,
   type ProxyAdoptionInput,
 } from "akasha/agents/seats/supervisors/modules/proxy-adoption-decide/supervisor-proxy-adoption-decide.module.code.ts"
+import { decideProxyLiveness } from "akasha/agents/seats/supervisors/modules/proxy-liveness-decide/supervisor-proxy-liveness-decide.module.code.ts"
 import {
   arr,
   bool,
@@ -52,7 +53,6 @@ import {
   resolvePreCliffOverrideMs,
   resolveStaleWedgeMs,
 } from "akasha/seat-system/supervising/supervisor-deferred-restart-decide/supervisor-deferred-restart-decide.module.code.ts"
-import { decideProxyLiveness } from "akasha/seat-system/supervisor-proxy-liveness-decide/supervisor-proxy-liveness-decide.module.code.ts"
 
 function sub(
   value: unknown,

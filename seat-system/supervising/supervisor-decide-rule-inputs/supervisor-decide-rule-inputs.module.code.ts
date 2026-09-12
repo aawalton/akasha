@@ -1,5 +1,9 @@
 import type { IdleObservation } from "akasha/agents/seats/supervisors/modules/idle-decide/supervisor-idle-decide.module.code.ts"
 import {
+  INITIAL_PROXY_LIVENESS_STATE,
+  type ProxyLivenessState,
+} from "akasha/agents/seats/supervisors/modules/proxy-liveness-decide/supervisor-proxy-liveness-decide.module.code.ts"
+import {
   bool,
   maybe,
   num,
@@ -19,10 +23,6 @@ import {
   type DeferredRestartState,
   INITIAL_DEFERRED_RESTART_STATE,
 } from "akasha/seat-system/supervising/supervisor-deferred-restart-decide/supervisor-deferred-restart-decide.module.code.ts"
-import {
-  INITIAL_PROXY_LIVENESS_STATE,
-  type ProxyLivenessState,
-} from "akasha/seat-system/supervisor-proxy-liveness-decide/supervisor-proxy-liveness-decide.module.code.ts"
 
 export function idleObservation(value: unknown, path: string): IdleObservation {
   const o = obj(value, path)
