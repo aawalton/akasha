@@ -6,7 +6,7 @@ export const pageSecretShow = {
   slug: "page-secret-show",
   definition: "the command answering with one of a page's secrets, decrypted",
   code: "ts",
-  taking: [{ said: "--key <name>", takes: "the one secret to decrypt and answer with" }],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -39,5 +39,8 @@ export const pageSecretShow = {
     },
   ],
   name: "show",
-  arguments: [{ argument: "argument/file-path", required: true }],
+  arguments: [
+    { argument: "argument/file-path", required: true },
+    { argument: "argument/key", required: true },
+  ],
 } as const satisfies Command
