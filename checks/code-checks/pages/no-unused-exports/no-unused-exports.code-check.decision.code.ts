@@ -76,21 +76,26 @@ export function sparedIn(path: string, pageTypes: ReadonlySet<string>): string |
   return said === null ? null : exportedAs(said.slug)
 }
 
-export function reasonsFor(
+export type Unreached = {
+  readonly name: string
+  readonly named: boolean
+}
+
+export function unreachedIn(
   path: string,
   text: string,
-  change: Change,
-  shadow: Shadow,
-  spared: string | null
-): readonly string[] {
+  spared: string | null,
+  importers: readonly string[],
+  bodyOf: (at: string) => string | null
+): readonly Unreached[] {
   const told = namesToldIn(path, text)
   if (told === null) return []
   const wanted = told.filter((one) => one !== spared)
   if (wanted.length === 0) return []
   const taken = new Set<string>()
-  for (const importer of shadow.index.importersOf(path)) {
+  for (const importer of importers) {
     if (importer === path) continue
-    const body = textIn(change, importer)
+    const body = bodyOf(importer)
     if (body === null) continue
     for (const name of takenFrom(importer, body, path)) {
       if (name === ANYTHING) return []
@@ -98,7 +103,20 @@ export function reasonsFor(
     }
   }
   const here = namedWithin(path, text)
-  return wanted.filter((one) => !taken.has(one)).map((one) => reasonFor(one, here.has(one)))
+  return wanted.filter((one) => !taken.has(one)).map((one) => ({ name: one, named: here.has(one) }))
+}
+
+export function reasonsFor(
+  path: string,
+  text: string,
+  change: Change,
+  shadow: Shadow,
+  spared: string | null
+): readonly string[] {
+  const found = unreachedIn(path, text, spared, shadow.index.importersOf(path), (at) =>
+    textIn(change, at)
+  )
+  return found.map((one) => reasonFor(one.name, one.named))
 }
 
 export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
