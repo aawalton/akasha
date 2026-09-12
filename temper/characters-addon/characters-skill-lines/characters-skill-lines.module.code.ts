@@ -59,7 +59,7 @@ export function updateAccountSkillLineProgress(
   accountProgress[line.id] = line.progress
 }
 
-export function scanAccountSkillLineProgress(): Record<number, SkillLineProgress> {
+function scanAccountSkillLineProgress(): Record<number, SkillLineProgress> {
   const scanned: Record<number, SkillLineProgress> = {}
   const numLines = GetNumSkillLines(SKILL_TYPE_CLASS)
 
@@ -84,7 +84,7 @@ export function saveAccountSkillLineProgress(): undefined {
   )
 }
 
-export function scanSkillLineProgress(): Record<number, SkillLineProgress> {
+function scanSkillLineProgress(): Record<number, SkillLineProgress> {
   const scanned: Record<number, SkillLineProgress> = {}
   const numSkillTypes = GetNumSkillTypes()
 

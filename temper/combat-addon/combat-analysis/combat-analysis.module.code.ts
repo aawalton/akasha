@@ -148,7 +148,7 @@ export function calculateFight(fight: CmxFight): undefined {
   return undefined
 }
 
-export function accumulateStats(fight: CmxFight): undefined {
+function accumulateStats(fight: CmxFight): undefined {
   const data = getCalculated(fight)
 
   for (const [, unit] of pairs(data.units)) {
@@ -196,7 +196,7 @@ export function accumulateStats(fight: CmxFight): undefined {
   return undefined
 }
 
-export function finalize(fight: CmxFight): undefined {
+function finalize(fight: CmxFight): undefined {
   log("calc", LOG_LEVEL_DEBUG, "Start end routine")
   const scalcms = GetGameTimeSeconds()
   TemperCombat_Report_TitleFightTitleName.SetText(GetString(SI_TEMPER_COMBAT_FINALIZING))
@@ -229,7 +229,7 @@ export function finalize(fight: CmxFight): undefined {
   return undefined
 }
 
-export function calculateChunk(fight: CmxFight): undefined {
+function calculateChunk(fight: CmxFight): undefined {
   EVENT_MANAGER.UnregisterForUpdate(CHUNK_UPDATE_NAMESPACE)
 
   const db = getDb()

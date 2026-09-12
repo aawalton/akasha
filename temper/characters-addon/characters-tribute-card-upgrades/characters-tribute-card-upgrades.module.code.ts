@@ -17,7 +17,7 @@ function upgradedPatronCards(patronId: number): number[] {
   return upgraded
 }
 
-export function scanTributeCardUpgrades(this: void): Record<number, number[]> {
+function scanTributeCardUpgrades(this: void): Record<number, number[]> {
   const result: Record<number, number[]> = {}
 
   const numPatrons = GetNumTributePatrons()

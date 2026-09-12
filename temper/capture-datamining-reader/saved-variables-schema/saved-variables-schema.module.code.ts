@@ -4,7 +4,7 @@ import { savedVariablesRootSchema as captureRootSchema } from "akasha/temper/sav
 import { luaArrayOrEmpty } from "akasha/temper/saved-variables/lua-array/lua-array.module.code.ts"
 import { z } from "zod"
 
-export const setBonusSchema = z
+const setBonusSchema = z
   .object({
     numRequired: z.number(),
     description: z.string(),
@@ -75,7 +75,7 @@ const questMiningStatsSchema = z
   })
   .strict()
 
-export const dataminingAccountWideSchema = z
+const dataminingAccountWideSchema = z
   .object({
     version: z.number().optional(),
     items: z.record(z.coerce.number(), minedItemSchema).optional(),
@@ -96,6 +96,6 @@ export const dataminingAccountWideSchema = z
 
 assertSchemaMatchesPayload<typeof dataminingAccountWideSchema, DataMiningPayload>()
 
-export const rootSchema = captureRootSchema(dataminingAccountWideSchema)
+const rootSchema = captureRootSchema(dataminingAccountWideSchema)
 
 export type SavedVariablesRoot = z.infer<typeof rootSchema>

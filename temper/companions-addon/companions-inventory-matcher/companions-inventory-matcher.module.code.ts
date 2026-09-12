@@ -38,7 +38,7 @@ export function scanCompanionInventory(): InventoryItem[] {
   return items
 }
 
-export function getEquipTypesForSlot(equipSlot: number): number[] {
+function getEquipTypesForSlot(equipSlot: number): number[] {
   if (equipSlot === EQUIP_SLOT_HEAD) return [EQUIP_TYPE_HEAD]
   if (equipSlot === EQUIP_SLOT_SHOULDERS) return [EQUIP_TYPE_SHOULDERS]
   if (equipSlot === EQUIP_SLOT_CHEST) return [EQUIP_TYPE_CHEST]
@@ -54,7 +54,7 @@ export function getEquipTypesForSlot(equipSlot: number): number[] {
   return []
 }
 
-export function scoreArmorItem(
+function scoreArmorItem(
   armorType: number,
   traitType: number,
   quality: number,
@@ -123,7 +123,7 @@ export function findBestArmorMatch(
   return bestItem
 }
 
-export function scoreJewelryItem(
+function scoreJewelryItem(
   traitType: number,
   quality: number,
   targetTrait: number,
@@ -250,7 +250,7 @@ export function getWeaponRoleFromBuild(build: CompanionBuildData): WeaponRole {
   return "none"
 }
 
-export function isValidRoleWeapon(weaponType: number, validTypes: number[]): boolean {
+function isValidRoleWeapon(weaponType: number, validTypes: number[]): boolean {
   for (const vt of validTypes) {
     if (weaponType === vt) return true
   }

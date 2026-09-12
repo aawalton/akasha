@@ -41,7 +41,7 @@ export type Laying = {
   readonly laid: (from: string, to: string) => Promise<void>
 }
 
-export const LAYING: Laying = {
+const LAYING: Laying = {
   cleared: async (at) => {
     await rm(at, { recursive: true, force: true })
   },

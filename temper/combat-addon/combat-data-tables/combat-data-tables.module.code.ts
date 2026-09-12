@@ -21,7 +21,7 @@ import {
   type PenetrationDebuffKey,
 } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
 
-export const STATTYPE_NORMAL = 0
+const STATTYPE_NORMAL = 0
 export const STATTYPE_CRITICAL = 1
 export const STATTYPE_CRITICALBONUS = 2
 export const STATTYPE_PENETRATION = 3

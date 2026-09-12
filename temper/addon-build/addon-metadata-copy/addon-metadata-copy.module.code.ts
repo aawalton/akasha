@@ -41,7 +41,7 @@ export function listedIn(manifest: string): readonly string[] {
     .map((one) => one.trim())
 }
 
-export function matcherFor(one: string): RegExp | null {
+function matcherFor(one: string): RegExp | null {
   if (!RUNTIME_TOKEN.test(one)) return null
   const parts = one.split(RUNTIME_TOKEN).map((part) => part.replace(MEANS_MORE, "\\$&"))
   return new RegExp(`^${parts.join("[^/]+")}$`)

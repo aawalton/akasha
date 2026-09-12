@@ -1,5 +1,5 @@
 import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
-export const ENCHANT_SUBTYPE_TO_QUALITY_INDEX: Record<number, number> = {
+const ENCHANT_SUBTYPE_TO_QUALITY_INDEX: Record<number, number> = {
   [359]: 1,
   [360]: 2,
   [362]: 3,

@@ -1,5 +1,5 @@
 import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
-export const POTION_ITEM_ID_TO_INDEX: Record<number, number> = {
+const POTION_ITEM_ID_TO_INDEX: Record<number, number> = {
   [64710]: 1,
   [112427]: 2,
   [112428]: 3,
@@ -11,7 +11,7 @@ export const POTION_ITEM_ID_TO_INDEX: Record<number, number> = {
   [176040]: 9,
   [176042]: 10,
 }
-export const POTION_ITEM_ID_TO_TEMPER_ID: Record<number, string> = {
+const POTION_ITEM_ID_TO_TEMPER_ID: Record<number, string> = {
   [64710]: "crown-tri-restoration-potion",
   [112427]: "gold-coast-spellcaster-elixir",
   [112428]: "gold-coast-warrior-elixir",
@@ -23,7 +23,7 @@ export const POTION_ITEM_ID_TO_TEMPER_ID: Record<number, string> = {
   [176040]: "essence-of-potent-magicka",
   [176042]: "essence-of-potent-stamina",
 }
-export const POTION_ENCODED_TRAITS_TO_INDEX: Record<number, number> = {
+const POTION_ENCODED_TRAITS_TO_INDEX: Record<number, number> = {
   [8849689]: 11,
   [8456477]: 12,
   [8984861]: 13,
@@ -60,7 +60,7 @@ export const POTION_ENCODED_TRAITS_TO_INDEX: Record<number, number> = {
   [8591129]: 44,
   [9836315]: 45,
 }
-export const POTION_ENCODED_TRAITS_TO_TEMPER_ID: Record<number, string> = {
+const POTION_ENCODED_TRAITS_TO_TEMPER_ID: Record<number, string> = {
   [8849689]: "protection-resistance-physical-resistance-spell",
   [8456477]: "fortitude-vitality-health-restore-resistance-physical",
   [8984861]: "vitality-protection-resistance-physical",

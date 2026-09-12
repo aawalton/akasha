@@ -6,7 +6,7 @@ import type {
   TraitResearchTrait,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 
-export const CRAFTING_TYPES = [
+const CRAFTING_TYPES = [
   CRAFTING_TYPE_BLACKSMITHING,
   CRAFTING_TYPE_CLOTHIER,
   CRAFTING_TYPE_WOODWORKING,
@@ -22,7 +22,7 @@ function readTrait(
   return { name: GetString("SI_ITEMTRAITTYPE", traitType), known }
 }
 
-export function scanTraitResearch(): Record<number, TraitResearchCraftType> {
+function scanTraitResearch(): Record<number, TraitResearchCraftType> {
   const result: Record<number, TraitResearchCraftType> = {}
 
   for (const craftingType of CRAFTING_TYPES) {

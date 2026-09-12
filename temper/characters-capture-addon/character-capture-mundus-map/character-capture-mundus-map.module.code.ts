@@ -1,4 +1,4 @@
-export const MUNDUS_ESO_ID_TO_INDEX: Record<number, number> = {
+const MUNDUS_ESO_ID_TO_INDEX: Record<number, number> = {
   [13979]: 1,
   [13982]: 2,
   [13976]: 3,
@@ -13,7 +13,7 @@ export const MUNDUS_ESO_ID_TO_INDEX: Record<number, number> = {
   [13985]: 12,
   [13940]: 13,
 }
-export const MUNDUS_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
+const MUNDUS_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
   [13979]: "the-apprentice",
   [13982]: "the-atronach",
   [13976]: "the-lady",

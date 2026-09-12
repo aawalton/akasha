@@ -178,9 +178,7 @@ export interface AddonSandboxLoadOptions {
   readonly singleFile: string | null
 }
 
-export async function runAddonSandboxLoad({
-  singleFile,
-}: AddonSandboxLoadOptions): Promise<number> {
+async function runAddonSandboxLoad({ singleFile }: AddonSandboxLoadOptions): Promise<number> {
   if (ESO_BASE_GAME_STRING_IDS.size === 0) {
     console.error(
       `${GATE}: the base-game string-id census is empty, so no consumed string id can be` +
@@ -231,7 +229,7 @@ export async function runAddonSandboxLoad({
   return 1
 }
 
-export async function main(argv: readonly string[] = process.argv.slice(2)): Promise<number> {
+async function main(argv: readonly string[] = process.argv.slice(2)): Promise<number> {
   return runAddonSandboxLoad(parseSingleFileFlag(argv))
 }
 

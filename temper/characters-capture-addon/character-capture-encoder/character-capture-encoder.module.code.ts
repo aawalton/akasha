@@ -145,7 +145,7 @@ export function encodeCharacterBuild(build: CharacterBuildData): string {
   return bytesToBase64url(bitWriterToBytes(writer))
 }
 
-export function encodeCharacterWeaponSlot(
+function encodeCharacterWeaponSlot(
   writer: BitWriterState,
   slot: CharacterWeaponSlotData
 ): undefined {

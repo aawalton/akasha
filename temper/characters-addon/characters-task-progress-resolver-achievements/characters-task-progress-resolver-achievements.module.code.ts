@@ -31,7 +31,7 @@ export function resolveAccountAchievements(
   return countAchievements(achievements, itemPath, getAccountAchievementCategoryMap())
 }
 
-export function singleAchievementProgress(entry: AchievementEntry | undefined): TaskProgress {
+function singleAchievementProgress(entry: AchievementEntry | undefined): TaskProgress {
   if (entry === undefined) return { current: 0, total: 1 }
   const cp = entry.criteriaProgress
   if (cp.criteria !== undefined) {
@@ -61,7 +61,7 @@ function countIds(
   return { current, total: ids.length }
 }
 
-export function countAchievements(
+function countAchievements(
   achievements: Record<number, AchievementEntry>,
   itemPath: (string | number)[] | undefined,
   categoryMap: Record<string, Record<string, number[]>>

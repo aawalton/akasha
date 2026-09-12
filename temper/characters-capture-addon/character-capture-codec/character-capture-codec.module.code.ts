@@ -49,7 +49,7 @@ import { getPlayerSkillLineIndex } from "akasha/temper/characters-capture-addon/
 import { getPlayerSkillIndex } from "akasha/temper/characters-capture-addon/character-capture-skill-map/character-capture-skill-map.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 
-export const CHARACTER_ARMOR_SLOTS = [
+const CHARACTER_ARMOR_SLOTS = [
   EQUIP_SLOT_HEAD,
   EQUIP_SLOT_SHOULDERS,
   EQUIP_SLOT_CHEST,
@@ -59,22 +59,22 @@ export const CHARACTER_ARMOR_SLOTS = [
   EQUIP_SLOT_FEET,
 ]
 
-export const CHARACTER_JEWELRY_SLOTS = [EQUIP_SLOT_NECK, EQUIP_SLOT_RING1, EQUIP_SLOT_RING2]
+const CHARACTER_JEWELRY_SLOTS = [EQUIP_SLOT_NECK, EQUIP_SLOT_RING1, EQUIP_SLOT_RING2]
 
-export const CHARACTER_WEAPON_BARS: [number, number][] = [
+const CHARACTER_WEAPON_BARS: [number, number][] = [
   [EQUIP_SLOT_MAIN_HAND, EQUIP_SLOT_OFF_HAND],
   [EQUIP_SLOT_BACKUP_MAIN, EQUIP_SLOT_BACKUP_OFF],
 ]
 
-export const CHARACTER_SKILL_SLOT_INDICES = [3, 4, 5, 6, 7, 8]
+const CHARACTER_SKILL_SLOT_INDICES = [3, 4, 5, 6, 7, 8]
 
-export const CHARACTER_CP_SLOT_INDICES: number[][] = [
+const CHARACTER_CP_SLOT_INDICES: number[][] = [
   [5, 6, 7, 8],
   [9, 10, 11, 12],
   [1, 2, 3, 4],
 ]
 
-export const CHARACTER_DISCIPLINE_INDICES = [2, 3, 1]
+const CHARACTER_DISCIPLINE_INDICES = [2, 3, 1]
 
 export function captureCharacterBuild(): CharacterBuildData {
   const classIndex = getClassIndex(GetUnitClassId("player"))

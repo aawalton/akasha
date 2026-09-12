@@ -13,7 +13,7 @@ export interface CombatLogWindowControl extends Control {
   AddColoredText?: typeof addColoredText
 }
 
-export function initCombatLog(this: void, control: CombatLogWindowControl): undefined {
+function initCombatLog(this: void, control: CombatLogWindowControl): undefined {
   control.AddColoredText = addColoredText
 
   const buffer = control.GetNamedChild<TextBufferControl & Control>("Buffer")
@@ -101,7 +101,7 @@ function clNavButtonFunction(this: void, button: CLButtonControl): undefined {
   return undefined
 }
 
-export function initCLNavButtonRow(this: void, rowControl: Control): undefined {
+function initCLNavButtonRow(this: void, rowControl: Control): undefined {
   for (let i = 1; i <= rowControl.GetNumChildren(); i++) {
     const button = rowControl.GetChild<CLButtonControl & TooltipCarrier>(i)
     if (button == null) {

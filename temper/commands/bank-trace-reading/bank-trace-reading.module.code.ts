@@ -48,7 +48,7 @@ const SETTLING_SCHEMA = z
   })
   .strict()
 
-export const TRACE_SCHEMA = z
+const TRACE_SCHEMA = z
   .object({
     schemaVersion: z.number(),
     timestamp: z.number(),

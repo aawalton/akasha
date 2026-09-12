@@ -26,7 +26,7 @@ export interface PoisonEffect {
   effects: readonly PoisonEffectEntry[]
 }
 
-export const TEMPER_POISON_EFFECTS = [
+const TEMPER_POISON_EFFECTS = [
   {
     id: "breach",
     name: "Breach",

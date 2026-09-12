@@ -1,4 +1,4 @@
-export function isMotifAntiquity(name: string): boolean {
+function isMotifAntiquity(name: string): boolean {
   const [a] = string.find(name, "Ancestral", 1, true)
   if (a === 1) return true
   const [b] = string.find(name, "Ancient Daedric", 1, true)

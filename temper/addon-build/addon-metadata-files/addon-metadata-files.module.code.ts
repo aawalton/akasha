@@ -8,9 +8,9 @@ export const GAME_METADATA_DIR = "metadata"
 
 export const BINDINGS_FILE_NAME = bindings.fileName
 
-export const LUA_MODULE_SUFFIX = ".lua-module.lua.lua"
+const LUA_MODULE_SUFFIX = ".lua-module.lua.lua"
 
-export function metadataFileIn(dir: string, named: string): string | null {
+function metadataFileIn(dir: string, named: string): string | null {
   const beside = join(dir, named)
   if (existsSync(beside)) return beside
   const game = join(dir, GAME_METADATA_DIR, named)

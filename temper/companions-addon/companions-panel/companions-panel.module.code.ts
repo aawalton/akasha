@@ -25,9 +25,10 @@ import {
   getSelectedCompanionId,
   isSelectedCompanionActive,
 } from "akasha/temper/companions-addon/companions-selector/companions-selector.module.code.ts"
-export const ROW_HEIGHT = 28
-export const ROW_SPACING = 4
-export const KEY_WIDTH = 120
+
+const ROW_HEIGHT = 28
+const ROW_SPACING = 4
+const KEY_WIDTH = 120
 
 export interface CompanionPanelState {
   panel: Control
@@ -44,9 +45,9 @@ export interface CompanionPanelState {
   rapportDescValue: LabelControl
 }
 
-export let state: CompanionPanelState | undefined
+let state: CompanionPanelState | undefined
 
-export function createKeyValueRow(
+function createKeyValueRow(
   parent: Control,
   offsetY: number,
   keyText: string
@@ -131,7 +132,7 @@ export function createCompanionPanel(parent: Control): Control {
   return panel
 }
 
-export function setLiveRowsVisible(visible: boolean): undefined {
+function setLiveRowsVisible(visible: boolean): undefined {
   if (!state) return
   const hidden = !visible
   state.levelKeyLabel.SetHidden(hidden)

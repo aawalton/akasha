@@ -14,7 +14,7 @@ import { requireFirst } from "akasha/utils/narrow/require-first/require-first.mo
 
 const FOLIUM_QUEST = 3997
 
-export function getTotalSkillPoints(): number {
+function getTotalSkillPoints(): number {
   let total = SKILL_POINT_ALLOCATION_MANAGER.GetAvailableSkillPoints()
   for (const [, skillTypeData] of SKILLS_DATA_MANAGER.SkillTypeIterator()) {
     for (const [, skillLineData] of skillTypeData.SkillLineIterator()) {
@@ -24,7 +24,7 @@ export function getTotalSkillPoints(): number {
   return total
 }
 
-export function isQuestComplete(questId: number): boolean {
+function isQuestComplete(questId: number): boolean {
   const [name] = GetCompletedQuestInfo(questId)
   return name !== ""
 }
@@ -36,7 +36,7 @@ export function updateSkillPoints(): undefined {
   charEntry.skillPoints = computeSkillPoints()
 }
 
-export function computeSkillPoints(): SkillPointProgress {
+function computeSkillPoints(): SkillPointProgress {
   const level = GetUnitLevel("player")
   const levelPoints = math.floor(level / 5) + math.floor(level / 10) + (level - 1)
 

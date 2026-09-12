@@ -1,4 +1,4 @@
-export const COMPANION_ID_TO_INDEX: Record<number, number> = {
+const COMPANION_ID_TO_INDEX: Record<number, number> = {
   [1]: 1,
   [2]: 2,
   [5]: 3,

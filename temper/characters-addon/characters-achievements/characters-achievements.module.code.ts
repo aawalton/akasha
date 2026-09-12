@@ -20,7 +20,7 @@ function isCharacterAchievement(achievementId: number): boolean {
   return GetAchievementPersistenceLevel(achievementId) === 0
 }
 
-export function enumerateAllAchievementIds(this: void): number[] {
+function enumerateAllAchievementIds(this: void): number[] {
   const allIds: number[] = []
   const seen: Record<number, boolean> = {}
 

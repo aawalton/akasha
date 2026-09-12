@@ -20,7 +20,7 @@ export interface GetPagesArgs {
 
 const CARRIED: readonly string[] = ["id", "title", "slug", "icon"]
 
-export const JSON_TEXT_PROPERTIES: Readonly<Record<string, readonly string[]>> = {
+const JSON_TEXT_PROPERTIES: Readonly<Record<string, readonly string[]>> = {
   "temper-skill": ["description"],
 }
 

@@ -10,14 +10,14 @@ export const WALK_ROOT = "temper"
 
 const SKIP_DIRS = new Set(["node_modules", "dist", ".git"])
 
-export function isGeneratedByPath(relPath: string): boolean {
+function isGeneratedByPath(relPath: string): boolean {
   const segments = relPath.split("/")
   const base = segments.at(-1)
   if (base === undefined) return false
   return segments.slice(0, -1).includes("generated") || base.includes(".generated.")
 }
 
-export function collectGeneratedFiles(dir: string, repoRoot: string): readonly string[] {
+function collectGeneratedFiles(dir: string, repoRoot: string): readonly string[] {
   const out: string[] = []
   for (const entry of readdirSync(dir)) {
     if (SKIP_DIRS.has(entry)) continue

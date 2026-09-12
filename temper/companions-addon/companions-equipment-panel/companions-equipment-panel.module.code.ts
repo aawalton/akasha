@@ -102,7 +102,7 @@ export function createCompanionEquipmentPanel(parent: Control): Control {
   return panel
 }
 
-export function setUpgradeRowIcons(
+function setUpgradeRowIcons(
   rows: EquipmentRow[],
   upgrades: (SlotUpgrade | undefined)[]
 ): undefined {

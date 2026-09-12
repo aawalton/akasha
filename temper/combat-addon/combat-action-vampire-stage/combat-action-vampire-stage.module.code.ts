@@ -1,4 +1,4 @@
-export const STAGE_BY_ID: ReadonlyMap<number, number> = new Map([
+const STAGE_BY_ID: ReadonlyMap<number, number> = new Map([
   [135397, 1],
   [135399, 2],
   [135400, 3],

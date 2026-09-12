@@ -20,7 +20,7 @@ export interface SelectionRowControl extends Control {
   scale?: number
 }
 
-export function addSelection(
+function addSelection(
   this: void,
   row: SelectionRowControl,
   button: number,

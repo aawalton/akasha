@@ -9,7 +9,7 @@ function loreEntriesAcquired(antiquityId: number): number | undefined {
   return acquired
 }
 
-export function scanAntiquityLore(this: void): SparseAntiquityLore {
+function scanAntiquityLore(this: void): SparseAntiquityLore {
   const antiquityLore: SparseAntiquityLore = {}
 
   let antiquityId = GetNextAntiquityId(undefined)

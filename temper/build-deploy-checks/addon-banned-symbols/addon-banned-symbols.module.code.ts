@@ -87,11 +87,11 @@ const PARTIAL_NAMESPACES: readonly PartialNamespace[] = [
 const WHOLLY_STRIPPED_NAMESPACES: readonly string[] = [...ESO_WHOLLY_STRIPPED_NAMESPACES]
 
 const BARE_GLOBAL_EXCLUSIONS = new Set<string>(["module", "load", "require"])
-export const BARE_GLOBAL_NAMES: readonly string[] = ESO_STRIPPED_GLOBALS.filter(
+const BARE_GLOBAL_NAMES: readonly string[] = ESO_STRIPPED_GLOBALS.filter(
   (name) => !BARE_GLOBAL_EXCLUSIONS.has(name)
 )
 
-export const SHIM_ALLOWLIST: ReadonlySet<string> = new Set<string>([])
+const SHIM_ALLOWLIST: ReadonlySet<string> = new Set<string>([])
 
 export function maskStringLiterals(line: string): string {
   const chars = line.split("")
@@ -174,7 +174,7 @@ function classifyMatch(match: ParsedExec, file: string, lineNumber: number): Iss
   return { ...at, family: "global-stripped", hint: HINT_GLOBAL_STRIPPED }
 }
 
-export function scanBundle(
+function scanBundle(
   source: string,
   file: string,
   allowlist: ReadonlySet<string> = SHIM_ALLOWLIST

@@ -36,11 +36,11 @@ function relativePathsUnder(dir: string): readonly string[] {
   return found
 }
 
-export function isMachineWritten(relPath: string): boolean {
+function isMachineWritten(relPath: string): boolean {
   return /\.generated\.tsx?$/.test(relPath)
 }
 
-export function isAddonOwnTypeScript(relPath: string): boolean {
+function isAddonOwnTypeScript(relPath: string): boolean {
   if (!relPath.endsWith(".ts") && !relPath.endsWith(".tsx")) return false
   if (relPath.endsWith(".d.ts")) return false
   if (/\.test\.tsx?$/.test(relPath)) return false

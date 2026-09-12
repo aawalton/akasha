@@ -18,7 +18,7 @@ function pushUnlocked(
   }
 }
 
-export function scanUnlockedCollectibles(this: void): number[] {
+function scanUnlockedCollectibles(this: void): number[] {
   const unlocked: number[] = []
 
   for (let categoryIndex = 1; categoryIndex <= GetNumCollectibleCategories(); categoryIndex++) {

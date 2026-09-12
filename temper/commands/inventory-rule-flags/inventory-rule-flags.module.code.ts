@@ -32,7 +32,7 @@ export function narrowCategoryId(value: string, flagName: string): string {
   return value
 }
 
-export const STOCK_SCOPE_VALUES = ["current-character", "any-character"] as const
+const STOCK_SCOPE_VALUES = ["current-character", "any-character"] as const
 
 export const BUY_SOURCE_VALUES: readonly BuySource[] = ["merchant"]
 

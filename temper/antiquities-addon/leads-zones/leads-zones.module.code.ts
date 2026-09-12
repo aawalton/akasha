@@ -61,7 +61,7 @@ export const DUAL_ZONE_COMPONENTS: Record<number, readonly [number, number]> = {
 }
 
 export const ZONE_TYPE_BASE = 1
-export const ZONE_TYPE_DLC = 2
+const ZONE_TYPE_DLC = 2
 export const ZONE_TYPE_CHAPTER = 3
 
 export const ZONE_TYPES: Record<number, number> = {

@@ -37,7 +37,7 @@ import {
 } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 import type { TaskProgress } from "akasha/temper/player-completion-state/completion-task-progress/completion-task-progress.module.code.ts"
 
-export function resolveTaskProgressForCharacter(
+function resolveTaskProgressForCharacter(
   charData: SavedCharacterEntry | undefined,
   account: AccountCompletion,
   task: TaskData,

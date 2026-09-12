@@ -18,7 +18,7 @@ import {
   type UpdatableControl,
 } from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
 
-export function toggleFightReport(this: void): undefined {
+function toggleFightReport(this: void): undefined {
   const db = getDb()
 
   if (!SCENE_MANAGER.IsShowing(REPORT_SCENE_NAME)) {
@@ -45,7 +45,7 @@ export function toggleFightReport(this: void): undefined {
   return undefined
 }
 
-export function getCMXData(this: void, dataType: string): Record<string, unknown> | undefined {
+function getCMXData(this: void, dataType: string): Record<string, unknown> | undefined {
   let data: Record<string, unknown> | undefined = {}
 
   if (dataType === "selectionData") {
@@ -67,7 +67,7 @@ export function getCMXData(this: void, dataType: string): Record<string, unknown
 
 let lastResize: [number, { x: number; y: number }] | undefined
 
-export function resizing(this: void, control: BackdropControl, isResizing: boolean): undefined {
+function resizing(this: void, control: BackdropControl, isResizing: boolean): undefined {
   if (control.IsHidden()) {
     return undefined
   }
@@ -99,7 +99,7 @@ export function resizing(this: void, control: BackdropControl, isResizing: boole
   return undefined
 }
 
-export function newSize(
+function newSize(
   this: void,
   control: LayoutControl,
   newLeft: number,
@@ -149,14 +149,14 @@ export function newSize(
   return undefined
 }
 
-export function savePosition(this: void, control: Control): undefined {
+function savePosition(this: void, control: Control): undefined {
   const [x, y] = control.GetCenter()
 
   getDb()[control.GetName()] = { x, y }
   return undefined
 }
 
-export function collapseButton(this: void, button: Control, _upInside?: boolean): undefined {
+function collapseButton(this: void, button: Control, _upInside?: boolean): undefined {
   const row = button.GetParent<SelectionRowControl>()
   const buffname = row?.dataId
 

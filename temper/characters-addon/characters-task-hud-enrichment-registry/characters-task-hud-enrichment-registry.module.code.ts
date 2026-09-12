@@ -43,11 +43,11 @@ export interface SubRowProgress {
   readonly total: number
 }
 
-export function withProgress(hint: string, progress?: SubRowProgress): string {
+function withProgress(hint: string, progress?: SubRowProgress): string {
   return progress === undefined ? hint : formatProgressCount(hint, progress.current, progress.total)
 }
 
-export function groupLabelSpecs(
+function groupLabelSpecs(
   header: string,
   leaves: readonly string[],
   progress?: SubRowProgress
@@ -57,11 +57,11 @@ export function groupLabelSpecs(
   return specs
 }
 
-export function flatSpecs(texts: readonly string[]): readonly SubRowSpec[] {
+function flatSpecs(texts: readonly string[]): readonly SubRowSpec[] {
   return texts.map((text): SubRowSpec => ({ text, color: "default" }))
 }
 
-export function scribingSpecs(
+function scribingSpecs(
   primary: readonly {
     readonly achievementName: string
     readonly current: number
@@ -80,7 +80,7 @@ export function scribingSpecs(
   return [{ text: guildDaily, color: "default" }]
 }
 
-export function skillMorphSpecs(
+function skillMorphSpecs(
   entries: readonly {
     readonly skillName: string
     readonly isLineConflict: boolean
@@ -103,7 +103,7 @@ const DAILY_WRIT_STATE_COLOR: Record<DisplayedWritState, SubRowColor> = {
   crafted: "green",
 }
 
-export function dailyWritsSpecs(rows: readonly DailyWritRow[]): readonly SubRowSpec[] {
+function dailyWritsSpecs(rows: readonly DailyWritRow[]): readonly SubRowSpec[] {
   return rows
     .filter(
       (r): r is DailyWritRow & { readonly state: DisplayedWritState } => r.state !== "completed"
@@ -111,7 +111,7 @@ export function dailyWritsSpecs(rows: readonly DailyWritRow[]): readonly SubRowS
     .map((r): SubRowSpec => ({ text: r.label, color: DAILY_WRIT_STATE_COLOR[r.state] }))
 }
 
-export function inventoryVenueSpecs(
+function inventoryVenueSpecs(
   venues: readonly { readonly label: string; readonly count: number }[]
 ): readonly SubRowSpec[] {
   return venues.map(
@@ -119,7 +119,7 @@ export function inventoryVenueSpecs(
   )
 }
 
-export function dungeonSetSpecs(
+function dungeonSetSpecs(
   zoneName: string,
   sets: readonly {
     readonly name: string
@@ -133,7 +133,7 @@ export function dungeonSetSpecs(
   )
 }
 
-export function antiquityLeadSpecs(enrichment: AntiquityLeadEnrichment): readonly SubRowSpec[] {
+function antiquityLeadSpecs(enrichment: AntiquityLeadEnrichment): readonly SubRowSpec[] {
   const specs: SubRowSpec[] = []
   for (const group of enrichment.groups) {
     for (const spec of groupLabelSpecs(group.digZone, group.leadNames, {

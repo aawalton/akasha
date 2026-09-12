@@ -50,7 +50,8 @@ import {
 } from "akasha/temper/companions-addon/companions-selector/companions-selector.module.code.ts"
 import { getTargetBuildHash } from "akasha/temper/companions-addon/companions-target-build-input/companions-target-build-input.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
-export function refreshEquipmentOptimalColumn(decoded: CompanionBuildData): undefined {
+
+function refreshEquipmentOptimalColumn(decoded: CompanionBuildData): undefined {
   if (!equipState) return
 
   for (let i = 0; i < equipState.armorRows.length; i++) {
@@ -109,7 +110,7 @@ export function refreshEquipmentOptimalColumn(decoded: CompanionBuildData): unde
   }
 }
 
-export function refreshEquipmentFromLive(): undefined {
+function refreshEquipmentFromLive(): undefined {
   if (!equipState) return
 
   for (let i = 0; i < ARMOR_SLOTS.length; i++) {
@@ -153,7 +154,7 @@ export function refreshEquipmentFromLive(): undefined {
   }
 }
 
-export function refreshEquipmentFromSaved(saved: SavedCompanionBuild): undefined {
+function refreshEquipmentFromSaved(saved: SavedCompanionBuild): undefined {
   if (!equipState) return
 
   for (let i = 0; i < ARMOR_SLOTS.length; i++) {
@@ -252,7 +253,7 @@ export function refreshCompanionEquipmentPanel(): undefined {
   hideUpgradeIndicators()
 }
 
-export function refreshOptimalEquipmentColumn(companionId: number): undefined {
+function refreshOptimalEquipmentColumn(companionId: number): undefined {
   const hash = getTargetBuildHash(companionId)
   if (hash === undefined) {
     hideOptimalColumn()

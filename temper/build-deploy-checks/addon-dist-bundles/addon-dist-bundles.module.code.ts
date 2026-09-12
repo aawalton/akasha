@@ -45,11 +45,7 @@ export function collectAddonDistBundles(cwd: string = process.cwd()): AddonDistB
   return { distRoot, files: holdsBundles ? [...luaFilesUnder(distRoot)].sort() : [] }
 }
 
-export function addonDistRefusalLine(
-  gate: string,
-  bundles: AddonDistBundles,
-  examined: number
-): string {
+function addonDistRefusalLine(gate: string, bundles: AddonDistBundles, examined: number): string {
   const bound = renderPopulationBound({
     examined,
     declared: bundles.files.length,

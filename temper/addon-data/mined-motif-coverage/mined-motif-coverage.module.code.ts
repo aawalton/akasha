@@ -70,7 +70,7 @@ export function isMotifShapedLoreName(name: string): boolean {
   return MOTIF_PREFIXES.some((one) => name.startsWith(one))
 }
 
-export function minedItemParts(root: string): readonly string[] {
+function minedItemParts(root: string): readonly string[] {
   const page = minePageAt(root)
   const found: string[] = []
   for (let part = FIRST_PART; ; part += 1) {
@@ -83,7 +83,7 @@ export function minedItemParts(root: string): readonly string[] {
   return found
 }
 
-export function minedMotifTitles(root: string): readonly string[] {
+function minedMotifTitles(root: string): readonly string[] {
   const parts = minedItemParts(root)
   if (parts.length === 0) {
     throw new Error(
@@ -125,7 +125,7 @@ export function motifTuplesOf(names: readonly string[]): Gathered {
   return { tuples, unparseable }
 }
 
-export function loreMotifNames(): readonly string[] {
+function loreMotifNames(): readonly string[] {
   const category = LORE_LIBRARY_DATA.find(
     (one) => one.categoryIndex === CRAFTING_MOTIFS_CATEGORY_INDEX
   )

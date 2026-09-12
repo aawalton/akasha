@@ -12,13 +12,14 @@ import {
 } from "akasha/temper/capture-datamining-addon/datamining-constants/datamining-constants.module.code.ts"
 import { startQuestMining } from "akasha/temper/capture-datamining-addon/datamining-quest-miner/datamining-quest-miner.module.code.ts"
 import { getSavedVariables } from "akasha/temper/capture-datamining-addon/datamining-saved-variables/datamining-saved-variables.module.code.ts"
-export let currentGeneration = 0
 
-export function createItemLink(itemId: number): string {
+let currentGeneration = 0
+
+function createItemLink(itemId: number): string {
   return string.format(ITEM_LINK_TEMPLATE, itemId)
 }
 
-export function captureSetBonuses(itemLink: string, numBonuses: number): SetBonus[] {
+function captureSetBonuses(itemLink: string, numBonuses: number): SetBonus[] {
   const bonuses: SetBonus[] = []
   for (let i = 1; i <= numBonuses; i++) {
     const [numRequired, bonusDescription, isPerfectedBonus] = GetItemLinkSetBonusInfo(
@@ -35,7 +36,7 @@ export function captureSetBonuses(itemLink: string, numBonuses: number): SetBonu
   return bonuses
 }
 
-export function captureItemData(itemLink: string): MinedItemEntry | undefined {
+function captureItemData(itemLink: string): MinedItemEntry | undefined {
   const name = zo_strformat("<<1>>", GetItemLinkName(itemLink))
   if (name === "") return undefined
 
@@ -101,7 +102,7 @@ export function captureItemData(itemLink: string): MinedItemEntry | undefined {
   }
 }
 
-export function processNextBatch(generation: number): undefined {
+function processNextBatch(generation: number): undefined {
   if (generation !== currentGeneration) return
 
   const savedVars = getSavedVariables()

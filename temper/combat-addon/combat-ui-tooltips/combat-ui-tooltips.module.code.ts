@@ -25,7 +25,7 @@ export interface GearItemControl extends Control {
   enchantDescription?: string
 }
 
-export function skillTooltipOnMouseEnter(this: void, control: Control): undefined {
+function skillTooltipOnMouseEnter(this: void, control: Control): undefined {
   InitializeTooltip(SkillTooltip, control, TOPLEFT, 0, 5, BOTTOMLEFT)
 
   const rowControl = control.GetParent<SkillRowControl>()
@@ -71,15 +71,12 @@ export function skillTooltipOnMouseEnter(this: void, control: Control): undefine
   return undefined
 }
 
-export function skillTooltipOnMouseExit(this: void, _control: Control): undefined {
+function skillTooltipOnMouseExit(this: void, _control: Control): undefined {
   ClearTooltip(SkillTooltip)
   return undefined
 }
 
-export function scribedSkillTooltipOnMouseEnter(
-  this: void,
-  control: ScribedSkillControl
-): undefined {
+function scribedSkillTooltipOnMouseEnter(this: void, control: ScribedSkillControl): undefined {
   if (control.scriptIds == null) {
     return undefined
   }
@@ -100,12 +97,12 @@ export function scribedSkillTooltipOnMouseEnter(
   return undefined
 }
 
-export function scribedSkillTooltipOnMouseExit(this: void, _control: Control): undefined {
+function scribedSkillTooltipOnMouseExit(this: void, _control: Control): undefined {
   ClearTooltip(SkillTooltip)
   return undefined
 }
 
-export function cpTooltipOnMouseEnterLegacy(this: void, control: CPLegacyControl): undefined {
+function cpTooltipOnMouseEnterLegacy(this: void, control: CPLegacyControl): undefined {
   if (control.skillId == null) {
     return undefined
   }
@@ -114,7 +111,7 @@ export function cpTooltipOnMouseEnterLegacy(this: void, control: CPLegacyControl
   return undefined
 }
 
-export function cpTooltipOnMouseEnter(this: void, starControl: CPStarControl): undefined {
+function cpTooltipOnMouseEnter(this: void, starControl: CPStarControl): undefined {
   if (starControl.starId == null) {
     return undefined
   }
@@ -130,17 +127,17 @@ export function cpTooltipOnMouseEnter(this: void, starControl: CPStarControl): u
   return undefined
 }
 
-export function cpTooltipOnMouseExitLegacy(this: void, _control: Control): undefined {
+function cpTooltipOnMouseExitLegacy(this: void, _control: Control): undefined {
   ClearTooltip(InformationTooltip)
   return undefined
 }
 
-export function cpTooltipOnMouseExit(this: void, _control: Control): undefined {
+function cpTooltipOnMouseExit(this: void, _control: Control): undefined {
   ClearTooltip(ChampionSkillTooltip)
   return undefined
 }
 
-export function itemTooltipOnMouseEnter(this: void, control: GearItemControl): undefined {
+function itemTooltipOnMouseEnter(this: void, control: GearItemControl): undefined {
   const itemLink = control.itemLink
   const enchantDescription = control.enchantDescription
   const parent = control.GetParent()
@@ -159,7 +156,7 @@ export function itemTooltipOnMouseEnter(this: void, control: GearItemControl): u
   return undefined
 }
 
-export function itemTooltipOnMouseExit(this: void, _control: Control): undefined {
+function itemTooltipOnMouseExit(this: void, _control: Control): undefined {
   ClearTooltip(ItemTooltip)
   ClearTooltip(SkillTooltip)
   return undefined

@@ -165,7 +165,7 @@ function drawBar(plot: PlotControl, x1: number, x2: number, id: number): undefin
   return undefined
 }
 
-export function drawXYPlot(plot: PlotControl): undefined {
+function drawXYPlot(plot: PlotControl): undefined {
   const plotWindow = assert(plot.GetParent<PlotWindowControl>())
 
   const xyData = plot.XYData
@@ -207,7 +207,7 @@ export function drawXYPlot(plot: PlotControl): undefined {
   return undefined
 }
 
-export function drawBarPlot(plot: PlotControl): undefined {
+function drawBarPlot(plot: PlotControl): undefined {
   const plotWindow = assert(plot.GetParent<PlotWindowControl>())
 
   const bardata = plot.bardata

@@ -141,13 +141,13 @@ export function captureCharacterWeaponSlot(slot: number): CharacterWeaponSlotDat
   }
 }
 
-export function getEnchantCategory(itemLink: string): number {
+function getEnchantCategory(itemLink: string): number {
   const enchantId = GetItemLinkFinalEnchantId(itemLink)
   if (enchantId === 0) return 0
   return GetEnchantSearchCategoryType(enchantId)
 }
 
-export function getItemSetId(itemLink: string): number {
+function getItemSetId(itemLink: string): number {
   const [hasSet, , , , , setIdRaw] = GetItemLinkSetInfo(itemLink, true)
   if (!hasSet) return 0
   return setIdRaw ?? 0

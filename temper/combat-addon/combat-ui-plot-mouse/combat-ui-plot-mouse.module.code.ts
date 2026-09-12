@@ -122,7 +122,7 @@ function updatePlotCursor(this: void): undefined {
   return undefined
 }
 
-export function onPlotMouseDown(
+function onPlotMouseDown(
   this: void,
   plotWindowControl: PlotWindowControl,
   button: number
@@ -150,7 +150,7 @@ export function onPlotMouseDown(
   return undefined
 }
 
-export function onPlotMouseUp(
+function onPlotMouseUp(
   this: void,
   plotWindow: PlotWindowControl,
   button: number,
@@ -206,7 +206,7 @@ export function onPlotMouseUp(
   return undefined
 }
 
-export function onPlotMouseEnter(this: void, plotWindowControl: PlotWindowControl): undefined {
+function onPlotMouseEnter(this: void, plotWindowControl: PlotWindowControl): undefined {
   activePlotWindow = plotWindowControl
 
   if (getDb().FightReport.Cursor) {
@@ -218,7 +218,7 @@ export function onPlotMouseEnter(this: void, plotWindowControl: PlotWindowContro
   return undefined
 }
 
-export function onPlotMouseExit(this: void, plotWindowControl: Control): undefined {
+function onPlotMouseExit(this: void, plotWindowControl: Control): undefined {
   EVENT_MANAGER.UnregisterForUpdate("TemperCombat_Report_Cursor_Control")
   ZO_Options_OnMouseExit(plotWindowControl)
 
@@ -239,7 +239,7 @@ export function editLabelStart(this: void, label: LabelControl): undefined {
   return undefined
 }
 
-export function editLabelEnd(this: void, editbox: EditControl): undefined {
+function editLabelEnd(this: void, editbox: EditControl): undefined {
   const tickControl = assert(editbox.GetParent())
   const plotWindow = assert(tickControl.GetParent<PlotWindowControl>())
   const label = namedChild<LabelControl>(tickControl, "Label")

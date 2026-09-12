@@ -1,4 +1,4 @@
-export const CLASS_ESO_ID_TO_INDEX: Record<number, number> = {
+const CLASS_ESO_ID_TO_INDEX: Record<number, number> = {
   [117]: 0,
   [1]: 1,
   [5]: 2,
@@ -7,7 +7,7 @@ export const CLASS_ESO_ID_TO_INDEX: Record<number, number> = {
   [6]: 6,
   [4]: 7,
 }
-export const CLASS_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
+const CLASS_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
   [117]: "arcanist",
   [1]: "dragonknight",
   [5]: "necromancer",

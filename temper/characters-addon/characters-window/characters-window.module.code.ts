@@ -2,8 +2,8 @@ import { initializeTabs } from "akasha/temper/characters-addon/characters-tab-ma
 import { createMovableWindow } from "akasha/temper/hud-window/movable-window/movable-window.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 
-export let window: TopLevelWindow | undefined
-export let windowFragment: SceneFragment | undefined
+let window: TopLevelWindow | undefined
+let windowFragment: SceneFragment | undefined
 
 export function showWindow(): undefined {
   if (!window) {
@@ -39,7 +39,7 @@ export function toggleWindow(): undefined {
   }
 }
 
-export function initializeWindow(): undefined {
+function initializeWindow(): undefined {
   if (window) return
 
   const existingWindow = WINDOW_MANAGER.GetControlByName<TopLevelWindow>("TemperWindow")

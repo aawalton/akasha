@@ -2,7 +2,7 @@ import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-pa
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { z } from "zod"
 
-export const SAVED_VARIABLES_TOP_LEVEL = "TemperCatalog_SavedVariables"
+const SAVED_VARIABLES_TOP_LEVEL = "TemperCatalog_SavedVariables"
 
 const AccountWideSchema = z
   .object({

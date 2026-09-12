@@ -22,13 +22,13 @@ export interface TabDefinition {
   subTabs: SubTabDefinition[]
 }
 
-export const TAB_HEIGHT = 32
-export const TAB_SPACING = 45
-export const SUB_TAB_INDENT = 20
-export const SUB_TAB_SPACING = 35
-export const TAB_WIDTH = 220
+const TAB_HEIGHT = 32
+const TAB_SPACING = 45
+const SUB_TAB_INDENT = 20
+const SUB_TAB_SPACING = 35
+const TAB_WIDTH = 220
 
-export const TABS: TabDefinition[] = [
+const TABS: TabDefinition[] = [
   {
     id: "character",
     title: "Character",
@@ -42,17 +42,17 @@ export const TABS: TabDefinition[] = [
   },
 ]
 
-export const TOP_TAB_CONTROLS: Record<string, TabControl> = {}
-export const SUB_TAB_CONTROLS: Record<string, Record<string, TabControl>> = {}
-export const SUB_TAB_PANELS: Record<string, Control> = {}
-export let selectedTabId: string | undefined
-export let selectedSubTabId: string | undefined
-export let tabContainer: Control | undefined
-export let contentContainer: Control | undefined
+const TOP_TAB_CONTROLS: Record<string, TabControl> = {}
+const SUB_TAB_CONTROLS: Record<string, Record<string, TabControl>> = {}
+const SUB_TAB_PANELS: Record<string, Control> = {}
+let selectedTabId: string | undefined
+let selectedSubTabId: string | undefined
+let tabContainer: Control | undefined
+let contentContainer: Control | undefined
 
-export const EXTERNAL_REFRESHERS: Record<string, () => void> = {}
+const EXTERNAL_REFRESHERS: Record<string, () => void> = {}
 
-export function updateTabPositions(): undefined {
+function updateTabPositions(): undefined {
   if (!tabContainer) return
 
   let offsetY = 0
@@ -176,11 +176,7 @@ function createTabControl(args: {
   return tab
 }
 
-export function createSubTab(
-  parent: Control,
-  subDef: SubTabDefinition,
-  parentTabId: string
-): TabControl {
+function createSubTab(parent: Control, subDef: SubTabDefinition, parentTabId: string): TabControl {
   return createTabControl({
     parent,
     width: TAB_WIDTH - SUB_TAB_INDENT,
@@ -196,7 +192,7 @@ export function createSubTab(
   })
 }
 
-export function createTab(parent: Control, offsetY: number, tabDef: TabDefinition): TabControl {
+function createTab(parent: Control, offsetY: number, tabDef: TabDefinition): TabControl {
   return createTabControl({
     parent,
     width: TAB_WIDTH,

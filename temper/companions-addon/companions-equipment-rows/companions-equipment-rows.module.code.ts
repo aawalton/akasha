@@ -22,14 +22,14 @@ export const TWO_HANDED_TYPES: Record<number, boolean> = {
   [WEAPONTYPE_HEALING_STAFF]: true,
 }
 
-export const EQUIP_ROW_HEIGHT = 28
-export const EQUIP_ROW_SPACING = 4
-export const SECTION_COL_WIDTH = 80
-export const SLOT_COL_WIDTH = 90
-export const VALUE_COL_LEFT = SECTION_COL_WIDTH + SLOT_COL_WIDTH
-export const VALUE_COL_WIDTH = 220
-export const UPGRADE_COL_LEFT = VALUE_COL_LEFT + VALUE_COL_WIDTH
-export const OPTIMAL_COL_LEFT = VALUE_COL_LEFT + VALUE_COL_WIDTH + 34
+const EQUIP_ROW_HEIGHT = 28
+const EQUIP_ROW_SPACING = 4
+const SECTION_COL_WIDTH = 80
+const SLOT_COL_WIDTH = 90
+const VALUE_COL_LEFT = SECTION_COL_WIDTH + SLOT_COL_WIDTH
+const VALUE_COL_WIDTH = 220
+const UPGRADE_COL_LEFT = VALUE_COL_LEFT + VALUE_COL_WIDTH
+const OPTIMAL_COL_LEFT = VALUE_COL_LEFT + VALUE_COL_WIDTH + 34
 
 export interface EquipmentRow {
   sectionLabel: LabelControl | undefined

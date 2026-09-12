@@ -4,7 +4,7 @@ import {
   FAKE_ZONE_IDS,
 } from "akasha/temper/antiquities-addon/leads-zones/leads-zones.module.code.ts"
 
-export function specialZoneName(zoneId: number): string | undefined {
+function specialZoneName(zoneId: number): string | undefined {
   if (zoneId === FAKE_ZONE_IDS.ALLZONES) {
     return STRINGS.ZONENAME_ALLZONES
   }

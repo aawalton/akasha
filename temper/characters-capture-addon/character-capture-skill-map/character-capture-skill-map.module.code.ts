@@ -8,13 +8,13 @@ import { SKILL_ESO_ID_TO_TEMPER_ID_03 } from "akasha/temper/characters-capture-a
 import { SKILL_ESO_ID_TO_TEMPER_ID_04 } from "akasha/temper/characters-capture-addon/character-capture-skill-name-04/character-capture-skill-name-04.module.code.ts"
 import { SKILL_ESO_ID_TO_TEMPER_ID_05 } from "akasha/temper/characters-capture-addon/character-capture-skill-name-05/character-capture-skill-name-05.module.code.ts"
 
-export const SKILL_ESO_ID_TO_INDEX: Record<number, number> = {
+const SKILL_ESO_ID_TO_INDEX: Record<number, number> = {
   ...SKILL_ESO_ID_TO_INDEX_00,
   ...SKILL_ESO_ID_TO_INDEX_01,
   ...SKILL_ESO_ID_TO_INDEX_02,
 }
 
-export const SKILL_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
+const SKILL_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
   ...SKILL_ESO_ID_TO_TEMPER_ID_00,
   ...SKILL_ESO_ID_TO_TEMPER_ID_01,
   ...SKILL_ESO_ID_TO_TEMPER_ID_02,

@@ -20,7 +20,7 @@ const PROSE = "prose"
 const TXT = "txt"
 const WORDS = "words"
 
-export class FilingRefused extends Error {}
+class FilingRefused extends Error {}
 
 export function assertStoryExists(): undefined {
   const asked = asking(akashaRoot(), {

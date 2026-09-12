@@ -8,7 +8,7 @@ const CELL_ESCAPES: ReadonlyMap<string, string> = new Map([
   ["\t", "\\t"],
 ])
 
-export function escapeTsvCell(text: string): string {
+function escapeTsvCell(text: string): string {
   return text.replace(/[\n\r\t]/g, (c) => CELL_ESCAPES.get(c) ?? c)
 }
 

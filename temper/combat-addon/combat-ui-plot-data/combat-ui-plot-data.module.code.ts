@@ -201,7 +201,7 @@ const POWER_TYPE_KEY_TABLE: Record<number, number> = {
 let OLD_X = 0
 let oldY: number | undefined
 
-export function updateXYData(xyData: XYPoint[], x: number, y: number): undefined {
+function updateXYData(xyData: XYPoint[], x: number, y: number): undefined {
   if (xyData.length === 0) {
     OLD_X = -1
     oldY = y

@@ -20,7 +20,7 @@ import type {
   UnitInfo,
 } from "akasha/temper/combat-addon/combat-lib-types/combat-lib-types.module.code.ts"
 
-export function createUnit(name: string, unitId: number, unitType: number | undefined): UnitEntry {
+function createUnit(name: string, unitId: number, unitType: number | undefined): UnitEntry {
   name = ZO_CachedStrFormat(SI_UNIT_NAME, name)
 
   if (unitType === undefined || unitType === COMBAT_UNIT_TYPE_TARGET_DUMMY) {
@@ -74,7 +74,7 @@ export function createUnit(name: string, unitId: number, unitType: number | unde
   return unit
 }
 
-export function updateGroupData(unit: UnitEntry): undefined {
+function updateGroupData(unit: UnitEntry): undefined {
   const groupdata = DATA.groupInfo
 
   const unitTag = groupdata.nameToTag[unit.name]

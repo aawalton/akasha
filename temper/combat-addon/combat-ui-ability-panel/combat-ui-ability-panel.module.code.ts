@@ -87,7 +87,7 @@ function addHitCritMenuItem(this: void, id: number): undefined {
   return undefined
 }
 
-export function hitCritContextMenu(this: void, control: Control, _button: number): undefined {
+function hitCritContextMenu(this: void, control: Control, _button: number): undefined {
   ClearMenu()
 
   if (getDb().FightReport.category === "damageIn") {
@@ -121,7 +121,7 @@ function addAverageMenuItem(this: void, id: number): undefined {
   return undefined
 }
 
-export function averageContextMenu(this: void, control: Control, _button: number): undefined {
+function averageContextMenu(this: void, control: Control, _button: number): undefined {
   ClearMenu()
 
   addAverageMenuItem(1)
@@ -136,7 +136,7 @@ export function averageContextMenu(this: void, control: Control, _button: number
   return undefined
 }
 
-export function minMaxContextMenu(this: void, control: Control, _button: number): undefined {
+function minMaxContextMenu(this: void, control: Control, _button: number): undefined {
   ClearMenu()
 
   const db = getDb()

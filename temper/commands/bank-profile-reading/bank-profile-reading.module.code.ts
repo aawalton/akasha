@@ -23,7 +23,7 @@ const SOURCE_BUCKET_SCHEMA = z
   })
   .strict()
 
-export const PROFILE_SCHEMA = z
+const PROFILE_SCHEMA = z
   .object({
     schemaVersion: z.number(),
     timestamp: z.number(),

@@ -1,4 +1,4 @@
-export const CP_ESO_SKILL_ID_TO_INDEX: Record<number, number> = {
+const CP_ESO_SKILL_ID_TO_INDEX: Record<number, number> = {
   [279]: 0,
   [68]: 1,
   [90]: 2,
@@ -118,7 +118,7 @@ export const CP_ESO_SKILL_ID_TO_INDEX: Record<number, number> = {
   [133]: 119,
   [5]: 120,
 }
-export const CP_ESO_SKILL_ID_TO_TEMPER_ID: Record<number, string> = {
+const CP_ESO_SKILL_ID_TO_TEMPER_ID: Record<number, string> = {
   [279]: "discipline-artisan",
   [68]: "out-of-sight",
   [90]: "cutpurses-art",

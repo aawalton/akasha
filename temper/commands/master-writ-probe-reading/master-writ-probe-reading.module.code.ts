@@ -42,7 +42,7 @@ const QUEST_SCHEMA = z
   })
   .strict()
 
-export const PROBE_SCHEMA = z
+const PROBE_SCHEMA = z
   .object({
     timestamp: z.number(),
     quests: luaArrayOrEmpty(QUEST_SCHEMA),

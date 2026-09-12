@@ -170,7 +170,7 @@ export function captureCompanionBuild(): CompanionBuildData | null {
   }
 }
 
-export function captureArmorSlot(slot: number): ArmorSlotData {
+function captureArmorSlot(slot: number): ArmorSlotData {
   const itemLink = GetItemLink(BAG_COMPANION_WORN, slot, LINK_STYLE_DEFAULT)
 
   if (itemLink === "") {
@@ -189,7 +189,7 @@ export function captureArmorSlot(slot: number): ArmorSlotData {
   }
 }
 
-export function captureJewelrySlot(slot: number): JewelrySlotData {
+function captureJewelrySlot(slot: number): JewelrySlotData {
   const itemLink = GetItemLink(BAG_COMPANION_WORN, slot, LINK_STYLE_DEFAULT)
 
   if (itemLink === "") {
@@ -206,7 +206,7 @@ export function captureJewelrySlot(slot: number): JewelrySlotData {
   }
 }
 
-export function captureWeaponSlot(slot: number): WeaponSlotData {
+function captureWeaponSlot(slot: number): WeaponSlotData {
   const itemLink = GetItemLink(BAG_COMPANION_WORN, slot, LINK_STYLE_DEFAULT)
 
   if (itemLink === "") {

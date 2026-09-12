@@ -21,7 +21,7 @@ export interface AddonRemovedRefsOptions {
   readonly singleFile: string | null
 }
 
-export function runAddonRemovedRefs({ singleFile }: AddonRemovedRefsOptions): number {
+function runAddonRemovedRefs({ singleFile }: AddonRemovedRefsOptions): number {
   let files: readonly string[]
   let bundles: AddonDistBundles | null = null
   if (singleFile !== null) {
@@ -74,7 +74,7 @@ export function runAddonRemovedRefs({ singleFile }: AddonRemovedRefsOptions): nu
   return 1
 }
 
-export function main(argv: readonly string[] = process.argv.slice(2)): number {
+function main(argv: readonly string[] = process.argv.slice(2)): number {
   return runAddonRemovedRefs(parseSingleFileFlag(argv))
 }
 

@@ -94,10 +94,7 @@ export function initResources(): undefined {
   }
 }
 
-export function registerForLogableCombatEvents(
-  name: string,
-  callback: CombatEventCallback
-): undefined {
+function registerForLogableCombatEvents(name: string, callback: CombatEventCallback): undefined {
   for (let i = LIBCOMBAT_EVENT_DAMAGE_OUT; i <= LIBCOMBAT_EVENT_MAX; i++) {
     registerForCombatEvent(name, i, callback)
   }

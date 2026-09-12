@@ -38,7 +38,7 @@ import type {
 } from "akasha/temper/companions-addon/companions-scan-upgrades/companions-scan-upgrades.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 
-export let APPLY_GENERATION = 0
+let APPLY_GENERATION = 0
 
 export function applyBuild(companionId: number, hash: string): undefined {
   if (!HasActiveCompanion()) {
@@ -158,7 +158,7 @@ export function applySkills(build: CompanionBuildData): undefined {
   }
 }
 
-export function applyEquipment(build: CompanionBuildData): undefined {
+function applyEquipment(build: CompanionBuildData): undefined {
   const inventory = scanCompanionInventory()
   d(`[Temper] Found ${inventory.length} companion items in backpack`)
   const usedBagSlots = new LuaSet<number>()

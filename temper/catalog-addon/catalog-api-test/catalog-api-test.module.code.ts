@@ -6,7 +6,7 @@ export interface ApiTest {
   testFn: (this: void) => string | undefined
 }
 
-export const API_TESTS: ApiTest[] = [
+const API_TESTS: ApiTest[] = [
   {
     name: "Achievements",
     apiName: "GetNumAchievementCategories",
@@ -122,7 +122,7 @@ export const API_TESTS: ApiTest[] = [
   },
 ]
 
-export function testApis(): undefined {
+function testApis(): undefined {
   const total = API_TESTS.length
   const failures: string[] = []
 

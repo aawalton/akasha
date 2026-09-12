@@ -1,5 +1,5 @@
 export const CHARACTER_PASSIVE_SKILL_COUNT = 446
-export const PASSIVE_ESO_ID_TO_BITMASK_INDEX: Record<number, number> = {
+const PASSIVE_ESO_ID_TO_BITMASK_INDEX: Record<number, number> = {
   [29451]: 0,
   [45521]: 1,
   [30869]: 2,

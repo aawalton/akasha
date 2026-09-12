@@ -2,11 +2,11 @@ import { SET_ESO_ID_TO_INDEX_00 } from "akasha/temper/characters-capture-addon/c
 import { SET_ESO_ID_TO_TEMPER_ID_00 } from "akasha/temper/characters-capture-addon/character-capture-set-name-00/character-capture-set-name-00.module.code.ts"
 import { SET_ESO_ID_TO_TEMPER_ID_01 } from "akasha/temper/characters-capture-addon/character-capture-set-name-01/character-capture-set-name-01.module.code.ts"
 
-export const SET_ESO_ID_TO_INDEX: Record<number, number> = {
+const SET_ESO_ID_TO_INDEX: Record<number, number> = {
   ...SET_ESO_ID_TO_INDEX_00,
 }
 
-export const SET_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
+const SET_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
   ...SET_ESO_ID_TO_TEMPER_ID_00,
   ...SET_ESO_ID_TO_TEMPER_ID_01,
 }

@@ -39,7 +39,7 @@ const SLASH_COMMAND_LISTINGS = [
   { name: "/tempertaskreset", description: "Clear a task's completion" },
 ]
 
-export function refreshAllData(): undefined {
+function refreshAllData(): undefined {
   const savedVars = getSavedVariables()
 
   captureAndSaveCharacterStats()
@@ -81,13 +81,13 @@ export function refreshAllData(): undefined {
   globalThis.TemperCompanions_RefreshAllData?.()
 }
 
-export function onTemperRefreshCommand(this: void): undefined {
+function onTemperRefreshCommand(this: void): undefined {
   d("[Temper] Refreshing all data...")
   refreshAllData()
   d("[Temper] All data refreshed")
 }
 
-export function onTemperResetCommand(this: void): undefined {
+function onTemperResetCommand(this: void): undefined {
   d("[Temper] Resetting all saved variables...")
 
   const savedVars = getSavedVariables()
@@ -102,7 +102,7 @@ export function onTemperResetCommand(this: void): undefined {
   d("[Temper] Reset complete")
 }
 
-export function resetTaskCompletion(id: string): number {
+function resetTaskCompletion(id: string): number {
   const sv = getSavedVariables()
   let cleared = 0
   for (const [taskId, task] of Object.entries(getCharactersConfig().tasks)) {
@@ -119,7 +119,7 @@ export function resetTaskCompletion(id: string): number {
   return cleared
 }
 
-export function onTemperTaskResetCommand(this: void, args: string): undefined {
+function onTemperTaskResetCommand(this: void, args: string): undefined {
   const id = args.trim()
   if (id === "") {
     d("[Temper] Usage: /tempertaskreset <taskId | completionCardId>")

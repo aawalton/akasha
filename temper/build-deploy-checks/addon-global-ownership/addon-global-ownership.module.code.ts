@@ -5,7 +5,7 @@ export interface ParsedAddonSource {
   readonly sf: ts.SourceFile
 }
 
-export function parseAddonSource(path: string, source: string): ParsedAddonSource {
+function parseAddonSource(path: string, source: string): ParsedAddonSource {
   return { path, sf: ts.createSourceFile(path, source, ts.ScriptTarget.Latest, true) }
 }
 
@@ -22,7 +22,7 @@ export interface OwnershipViolation {
   readonly remedy: string
 }
 
-export const OWNED_GLOBAL_REMEDY = [
+const OWNED_GLOBAL_REMEDY = [
   "one port owns each global, so delete the write from every port but the owner.",
   "A port that needs the owner's table READS it — `globalThis.<name>.member(…)` is fine and always was;",
   "it is the re-assignment that hands the outcome to ESO's AddOns/ load order.",
@@ -90,7 +90,7 @@ function boundGlobalTableNames(sf: ts.SourceFile): ReadonlySet<string> {
   }
 }
 
-export function collectGlobalWritesFromSourceFile(sf: ts.SourceFile): readonly string[] {
+function collectGlobalWritesFromSourceFile(sf: ts.SourceFile): readonly string[] {
   const bound = boundGlobalTableNames(sf)
   const names = new Set<string>()
 

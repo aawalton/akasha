@@ -6,7 +6,7 @@ import {
 } from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
 import { requireGet } from "akasha/utils/narrow/require-get/require-get.module.code.ts"
 
-export const TEMPER_SET_CATEGORIES_BY_ID = {
+const TEMPER_SET_CATEGORIES_BY_ID = {
   "none": { id: "none" as const, name: "No Set Category", displayOrder: 0 },
   "trial": { id: "trial" as const, name: "Trial", displayOrder: 1 },
   "dungeon": { id: "dungeon" as const, name: "Dungeon", displayOrder: 2 },

@@ -53,7 +53,7 @@ export function drawAllPlots(plotWindow: PlotWindowControl): undefined {
   return undefined
 }
 
-export function updateXYPlot(plot: PlotControl): undefined {
+function updateXYPlot(plot: PlotControl): undefined {
   const func = plot.func
 
   let result: PlotData | undefined
@@ -100,7 +100,7 @@ export function updateXYPlot(plot: PlotControl): undefined {
 
 let PLOT_BUFF_SELECTION: string[] = []
 
-export function updatePlotBuffSelection(): undefined {
+function updatePlotBuffSelection(): undefined {
   PLOT_BUFF_SELECTION = []
 
   const selectedbuffs = getSelections().buff["buff"]
@@ -123,7 +123,7 @@ export function updatePlotBuffSelection(): undefined {
   return undefined
 }
 
-export function updateBarPlot(plot: PlotControl): undefined {
+function updateBarPlot(plot: PlotControl): undefined {
   const barId = plot.barId ?? 0
 
   const buffName = PLOT_BUFF_SELECTION[barId - 1]
@@ -220,7 +220,7 @@ export function updateGraphPanel(panel: Control): undefined {
   return undefined
 }
 
-export function setSliderValue(this: void, slider: Control, value: number): undefined {
+function setSliderValue(this: void, slider: Control, value: number): undefined {
   const labelControl = namedChild<LabelControl>(assert(slider.GetParent()), "Label")
 
   labelControl.SetText(string.format(GetString(SI_TEMPER_COMBAT_SMOOTH_LABEL), value))
@@ -266,7 +266,7 @@ export function removePlotSelection(this: void): undefined {
   return undefined
 }
 
-export function toggleGraphSize(this: void, control: Control): undefined {
+function toggleGraphSize(this: void, control: Control): undefined {
   ENLARGED_GRAPH = !ENLARGED_GRAPH
 
   const labelText = ENLARGED_GRAPH
@@ -280,7 +280,7 @@ export function toggleGraphSize(this: void, control: Control): undefined {
   return undefined
 }
 
-export function toggleCursorDisplay(this: void, control: Control): undefined {
+function toggleCursorDisplay(this: void, control: Control): undefined {
   const enable = !getDb().FightReport.Cursor
 
   control.SetAlpha(enable ? 1 : 0.3)

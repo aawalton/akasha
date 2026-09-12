@@ -20,7 +20,7 @@ const packageJsonSchema = z
 
 type ParsedManifest = z.infer<typeof packageJsonSchema>
 
-export function readManifest(dir: string): ParsedManifest | null {
+function readManifest(dir: string): ParsedManifest | null {
   const path = join(dir, "package.json")
   if (!existsSync(path)) return null
   try {

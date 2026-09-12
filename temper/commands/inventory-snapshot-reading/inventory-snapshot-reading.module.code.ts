@@ -8,7 +8,7 @@ import { askComposed } from "akasha/pages/query/store-spelled-asking/store-spell
 import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 import { z } from "zod"
 
-export const SNAPSHOT_PAGE_TYPE = "temper-inventory-snapshot"
+const SNAPSHOT_PAGE_TYPE = "temper-inventory-snapshot"
 
 const SNAPSHOT_KEYS = ["slug", "id", "account-page", "captured-at", "total-value", "chunk-count"]
 

@@ -1,9 +1,9 @@
 import "akasha/temper/eso-types/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 
-export const BASE64URL_CHARS = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_"
+const BASE64URL_CHARS = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_"
 
-export const BASE64URL_DECODE: Record<string, number> = {}
+const BASE64URL_DECODE: Record<string, number> = {}
 for (let i = 0; i < 64; i++) {
   BASE64URL_DECODE[BASE64URL_CHARS.charAt(i)] = i
 }

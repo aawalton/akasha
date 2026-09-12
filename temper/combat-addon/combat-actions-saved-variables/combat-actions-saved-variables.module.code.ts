@@ -39,7 +39,7 @@ export interface BarSettings {
   readonly vampireStageLabelEnabled: boolean
 }
 
-export const DEFAULTS: BarSettings & Record<string, unknown> = {
+const DEFAULTS: BarSettings & Record<string, unknown> = {
   barEnabled: true,
   barShowShift: true,
   barShowShiftFully: false,

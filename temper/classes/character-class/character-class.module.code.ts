@@ -8,7 +8,7 @@ export interface ClassTemplate {
   esoClassId: number
 }
 
-export const TEMPER_CLASSES = {
+const TEMPER_CLASSES = {
   "arcanist": { id: "arcanist", name: "Arcanist", icon: "📖", esoClassId: 117 },
   "dragonknight": { id: "dragonknight", name: "Dragonknight", icon: "🔥", esoClassId: 1 },
   "necromancer": { id: "necromancer", name: "Necromancer", icon: "💀", esoClassId: 5 },

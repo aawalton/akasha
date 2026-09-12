@@ -39,7 +39,7 @@ const allianceIds = alliances.ids
 const vampireStageIds = vampireStages.ids
 const curseIds = curses.ids
 const mundusIds = mundus.ids
-export const skillLineIds = skillLines.ids.filter(
+const skillLineIds = skillLines.ids.filter(
   (id) => skillLines.data[id].subcategoryId !== "companion"
 )
 

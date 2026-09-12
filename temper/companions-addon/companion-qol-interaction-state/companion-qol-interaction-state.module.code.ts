@@ -49,7 +49,7 @@ export function checkForActiveCompanion(this: void): LuaMultiReturn<[boolean, bo
   return $multi(isPending, isActive)
 }
 
-export function wasCompanionDismissedByOtherCollectible(
+function wasCompanionDismissedByOtherCollectible(
   this: void,
   _collectibleId?: number,
   _gamePlayActorCategory?: number
@@ -73,7 +73,7 @@ export function onCollectibleUseResult(
   return undefined
 }
 
-export function isFishing(this: void): boolean {
+function isFishing(this: void): boolean {
   const isCurrentlyFishing = asNumber(GetInteractionType()) === INTERACTION_FISH
   return isCurrentlyFishing
 }
@@ -125,7 +125,7 @@ export function onStartInteraction(this: void): undefined {
   return undefined
 }
 
-export function setupFishEndTimerCallback(this: void): undefined {
+function setupFishEndTimerCallback(this: void): undefined {
   const eventUpdateNameFish = `${FCOCO.addonVars.addonName}_FishingReSummon`
   EVENT_MANAGER.UnregisterForUpdate(eventUpdateNameFish)
 
@@ -199,12 +199,12 @@ export function onEventInteractionEnded(
   return undefined
 }
 
-export function isCrouching(this: void): boolean {
+function isCrouching(this: void): boolean {
   const isCurrentlyCrouching = INTERACTIONS.currentStealthState !== STEALTH_STATE_NONE
   return isCurrentlyCrouching
 }
 
-export function setupCrouchEndTimerCallback(this: void): undefined {
+function setupCrouchEndTimerCallback(this: void): undefined {
   const eventUpdateNameCrouch = `${FCOCO.addonVars.addonName}_CrouchingReSummon`
   EVENT_MANAGER.UnregisterForUpdate(eventUpdateNameCrouch)
 
@@ -243,7 +243,7 @@ export function setupCrouchEndTimerCallback(this: void): undefined {
   return undefined
 }
 
-export function onCrouchingStart(this: void): undefined {
+function onCrouchingStart(this: void): undefined {
   const isInCombat = IsUnitInCombat("player")
 
   const settings = FCOCO.settingsVars.settings
@@ -286,7 +286,7 @@ export function onCrouchingStart(this: void): undefined {
   return undefined
 }
 
-export function onCrouchingEnded(this: void): undefined {
+function onCrouchingEnded(this: void): undefined {
   const settings = FCOCO.settingsVars.settings
   if (!settings.unSummonAtCrouching || !settings.reSummonAfterCrouching) {
     INTERACTIONS.lastCompanionIdBeforeCrouch = undefined

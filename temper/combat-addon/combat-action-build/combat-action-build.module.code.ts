@@ -6,7 +6,7 @@ import type {
   Effect,
 } from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
 
-export const MAJOR_GALLOP_ICON = "major_gallop"
+const MAJOR_GALLOP_ICON = "major_gallop"
 
 export const TARGET_AREA = "area"
 export const TARGET_CONE = "cone"

@@ -2,10 +2,7 @@ import type { ItemSetProgress } from "akasha/temper/completion/completion-record
 import { resolveCategoryNames } from "akasha/temper/item-sets/item-set-categories/item-set-categories.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 
-export function scanPieces(
-  itemSetId: number,
-  totalSlots: number
-): { name: string; unlocked: boolean }[] {
+function scanPieces(itemSetId: number, totalSlots: number): { name: string; unlocked: boolean }[] {
   const pieces: { name: string; unlocked: boolean }[] = []
   for (let i = 1; i <= totalSlots; i++) {
     const [pieceId, slot] = GetItemSetCollectionPieceInfo(itemSetId, i)
@@ -37,7 +34,7 @@ function readItemSet(itemSetId: number, includePieces: boolean): ItemSetProgress
   }
 }
 
-export function scanItemSets(includePieces: boolean): Record<number, ItemSetProgress> {
+function scanItemSets(includePieces: boolean): Record<number, ItemSetProgress> {
   const itemSets: Record<number, ItemSetProgress> = {}
 
   let itemSetId = GetNextItemSetCollectionId(undefined)
@@ -51,7 +48,7 @@ export function scanItemSets(includePieces: boolean): Record<number, ItemSetProg
   return itemSets
 }
 
-export function populatePieces(): undefined {
+function populatePieces(): undefined {
   const itemSets = getSavedVariables().account.itemSets
   if (itemSets === undefined) return
 

@@ -11,7 +11,7 @@ interface CpPassiveControl extends Control {
   points?: number
 }
 
-export function initializeCPRowsLegacy(this: void, panel: Control): undefined {
+function initializeCPRowsLegacy(this: void, panel: Control): undefined {
   const allLegacyRaw: unknown = TemperCombat.CPLegacyStrings
   const allLegacy = isObjectRecord(allLegacyRaw) ? allLegacyRaw : undefined
   const legacyStringsRaw = allLegacy?.[GetCVar("language.2")] ?? allLegacy?.["en"]
@@ -80,7 +80,7 @@ function initializeScribedSkillsPanel(this: void, panel: Control): undefined {
   return undefined
 }
 
-export function initializeRightInfoPanel(this: void, panel: Control): undefined {
+function initializeRightInfoPanel(this: void, panel: Control): undefined {
   initializeScribedSkillsPanel(namedChild(panel, "ScribedSkills"))
 
   const labelcolors: Record<number, string> = {
@@ -183,7 +183,7 @@ export function initializeRightInfoPanel(this: void, panel: Control): undefined 
   return undefined
 }
 
-export function initializeSkillStats(this: void, panel: Control): undefined {
+function initializeSkillStats(this: void, panel: Control): undefined {
   const block = namedChild(panel, "AbilityBlock1")
   const title = namedChild<LabelControl>(block, "Title")
   title.SetText(`${GetString(SI_TEMPER_COMBAT_BAR)}1`)

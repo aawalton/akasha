@@ -11,7 +11,7 @@ import {
 
 const DEFAULT_REPO_ROOT = resolve(import.meta.dir, "..", "..", "..")
 
-export const ADDONS_REL_ROOT = "temper/addons"
+const ADDONS_REL_ROOT = "temper/addons"
 
 const ESO_ADDON = "eso-addon"
 
@@ -45,7 +45,7 @@ function readAddonJson(root: string, dir: string): { name?: string } | null {
   }
 }
 
-export function listExternalAddonRelDirs(repoRoot: string): readonly string[] {
+function listExternalAddonRelDirs(repoRoot: string): readonly string[] {
   const found: string[] = []
   for (const one of valuesOfType(repoRoot, ESO_ADDON)) {
     const rel = dirname(one.path)

@@ -1,4 +1,4 @@
-export const RACE_ESO_ID_TO_INDEX: Record<number, number> = {
+const RACE_ESO_ID_TO_INDEX: Record<number, number> = {
   [1]: 1,
   [2]: 2,
   [3]: 3,
@@ -10,7 +10,7 @@ export const RACE_ESO_ID_TO_INDEX: Record<number, number> = {
   [9]: 9,
   [10]: 10,
 }
-export const RACE_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
+const RACE_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
   [1]: "breton",
   [2]: "redguard",
   [3]: "orc",

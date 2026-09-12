@@ -25,7 +25,8 @@ import {
   createDataFile,
   type DataFile,
 } from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
-export const TEMPER_ARMOR_WEIGHTS_BY_ID = {
+
+const TEMPER_ARMOR_WEIGHTS_BY_ID = {
   "heavy": {
     id: "heavy" as const,
     name: "Heavy",
@@ -63,7 +64,7 @@ export const TEMPER_ARMOR_WEIGHTS_BY_ID = {
   },
 } as const satisfies Record<string, ArmorWeightTemplate>
 
-export const STANDARD_TEMPER_ARMOR_WEIGHTS_BY_ID = {
+const STANDARD_TEMPER_ARMOR_WEIGHTS_BY_ID = {
   "heavy": {
     id: "heavy" as const,
     name: "Heavy",

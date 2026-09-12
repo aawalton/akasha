@@ -82,7 +82,7 @@ export function getCadwellEnrichment(task: TaskData): CadwellEnrichment | undefi
   }
 }
 
-export const SHALIDORS_LIBRARY_CATEGORY = 1
+const SHALIDORS_LIBRARY_CATEGORY = 1
 
 export function isLoreLibraryTask(task: TaskData): boolean {
   return taskHasCardAndPathEntry(task, "lore-library-character", 0, SHALIDORS_LIBRARY_CATEGORY)
@@ -116,7 +116,7 @@ export function getLoreLibraryEnrichment(): LoreLibraryEnrichment | undefined {
   }
 }
 
-export const DRAGONGUARD_OPERATIVE_ACHIEVEMENT = 2612
+const DRAGONGUARD_OPERATIVE_ACHIEVEMENT = 2612
 
 export function isDragonguardTask(task: TaskData): boolean {
   return taskHasCardAndPathEntry(
@@ -157,7 +157,7 @@ const ANTIQUITY_LEAD_PREDICATE: Record<string, (lead: ActiveAntiquityLead) => bo
   "antiquity-leads-legendary": isLegendaryLead,
 }
 
-export function buildAntiquityLeadEnrichment(
+function buildAntiquityLeadEnrichment(
   this: void,
   current: readonly ActiveAntiquityLead[],
   baseline: readonly ActiveAntiquityLead[],
@@ -238,7 +238,7 @@ export function isAntiquitySessionTask(task: TaskData): boolean {
   return ANTIQUITY_LEAD_PREDICATE[cardId] !== undefined
 }
 
-export function aggregateAntiquitySessionProgress(
+function aggregateAntiquitySessionProgress(
   this: void,
   current: readonly ActiveAntiquityLead[],
   baseline: readonly ActiveAntiquityLead[]

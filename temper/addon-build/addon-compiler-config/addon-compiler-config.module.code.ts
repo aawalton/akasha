@@ -147,7 +147,7 @@ export function readEsoAddonPage(repoRoot: string, dir: string): EsoAddonPage | 
   }
 }
 
-export function slugBareOf(slug: string): string {
+function slugBareOf(slug: string): string {
   const mark = slug.lastIndexOf("/")
   return mark === -1 ? slug : slug.slice(mark + 1)
 }

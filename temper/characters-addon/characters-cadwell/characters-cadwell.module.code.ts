@@ -6,13 +6,13 @@ import type {
   CadwellZone,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 
-export const CADWELL_LEVELS = [
+const CADWELL_LEVELS = [
   CADWELL_PROGRESSION_LEVEL_BRONZE,
   CADWELL_PROGRESSION_LEVEL_SILVER,
   CADWELL_PROGRESSION_LEVEL_GOLD,
 ]
 
-export function scanCadwellProgress(this: void): CadwellProgress {
+function scanCadwellProgress(this: void): CadwellProgress {
   const progressionLevel = GetCadwellProgressionLevel()
   const levels: Record<number, CadwellLevel> = {}
 

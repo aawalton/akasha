@@ -15,7 +15,7 @@ const MATCH_SCHEMA = z
     return z.string().parse(raw[1])
   })
 
-export function isEsoGlobalName(name: string): boolean {
+function isEsoGlobalName(name: string): boolean {
   if (/^ZO_[A-Za-z0-9_]*$/.test(name)) return true
   return /^[A-Z][A-Z0-9_]*$/.test(name)
 }

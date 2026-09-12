@@ -80,11 +80,7 @@ function postSelectionHPS(this: void): undefined {
   return undefined
 }
 
-export function settingsContextMenu(
-  this: void,
-  settingsbutton: Control,
-  upInside: boolean
-): undefined {
+function settingsContextMenu(this: void, settingsbutton: Control, upInside: boolean): undefined {
   if (!upInside) {
     return undefined
   }

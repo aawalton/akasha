@@ -106,7 +106,7 @@ export const LAYOUT_STATS_ADV = 18
 export const LAYOUT_SKILL = 19
 export const LAYOUT_BOSSHP = 20
 export const LAYOUT_PERFORMANCE = 21
-export const LAYOUT_QUICKSLOT = 23
+const LAYOUT_QUICKSLOT = 23
 
 export const LOG_TYPE_TO_LAYOUT: Record<number, number> = {
   [LIBCOMBAT_EVENT_DAMAGE_OUT]: LAYOUT_COMBAT,

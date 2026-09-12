@@ -6,9 +6,10 @@ import {
   QUEST_MAX_CONSECUTIVE_MISSES,
 } from "akasha/temper/capture-datamining-addon/datamining-constants/datamining-constants.module.code.ts"
 import { getSavedVariables } from "akasha/temper/capture-datamining-addon/datamining-saved-variables/datamining-saved-variables.module.code.ts"
-export let questCurrentGeneration = 0
 
-export function captureQuestData(questId: number): MinedQuestEntry | undefined {
+let questCurrentGeneration = 0
+
+function captureQuestData(questId: number): MinedQuestEntry | undefined {
   const name = zo_strformat("<<1>>", GetQuestName(questId))
   if (name === "") return undefined
 
@@ -23,7 +24,7 @@ export function captureQuestData(questId: number): MinedQuestEntry | undefined {
   }
 }
 
-export function processNextQuestBatch(generation: number): undefined {
+function processNextQuestBatch(generation: number): undefined {
   if (generation !== questCurrentGeneration) return
 
   const savedVars = getSavedVariables()

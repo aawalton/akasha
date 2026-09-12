@@ -1,4 +1,4 @@
-export const SET_IDS = {
+const SET_IDS = {
   BLOODLORDS_EMBRACE: 13,
   THRASSIAN_STRANGLERS: 8,
   SNOW_TREADERS: 9,

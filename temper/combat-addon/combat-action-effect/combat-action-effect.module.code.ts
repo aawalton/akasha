@@ -7,7 +7,7 @@ import type {
   Effect,
 } from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
 
-export function normalizeUnitTag(tag: string): string {
+function normalizeUnitTag(tag: string): string {
   return tag.includes("player") ? tag : "others"
 }
 

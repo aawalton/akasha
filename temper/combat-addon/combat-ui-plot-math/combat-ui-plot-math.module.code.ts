@@ -1,5 +1,5 @@
 export const PLOT_DIMENSION_X = 1
-export const PLOT_DIMENSION_Y = 2
+const PLOT_DIMENSION_Y = 2
 
 export const YAXIS_LEFT = 1
 export const YAXIS_RIGHT = 2
@@ -90,7 +90,7 @@ export function mapValueXY(
   return $multi(xOffset, yOffset, isInRange)
 }
 
-export function mapUIPos(
+function mapUIPos(
   plotWindow: PlotWindowControl,
   dimension: number,
   value: number
@@ -127,7 +127,7 @@ export function mapUIPosXY(
   return $multi(t, v, isInRange)
 }
 
-export function getScale(x1: number, x2: number): LuaMultiReturn<[low: number, high: number]> {
+function getScale(x1: number, x2: number): LuaMultiReturn<[low: number, high: number]> {
   const distance = zo_max(x2 - x1, 1)
 
   const power = 10 ** zo_floor(math.log10(distance / 2))
@@ -152,7 +152,7 @@ export function getScale(x1: number, x2: number): LuaMultiReturn<[low: number, h
   return $multi(cleanLow, cleanHigh)
 }
 
-export function getTickValues(low: number, high: number): number[] {
+function getTickValues(low: number, high: number): number[] {
   const tickValues = [low, 0, 0, 0, high]
 
   for (let i = 2; i <= 4; i++) {

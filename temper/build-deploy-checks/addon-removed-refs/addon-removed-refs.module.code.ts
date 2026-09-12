@@ -37,7 +37,7 @@ function hintFor(entry: RemovedAddonGlobal, symbol: string): string {
   return `${owner}removed external addon, ${entry.remedy}; addon source must not reference it`
 }
 
-export function scanBundle(source: string, file: string): readonly RemovedRefIssue[] {
+function scanBundle(source: string, file: string): readonly RemovedRefIssue[] {
   const issues: RemovedRefIssue[] = []
   const lines = source.split("\n")
   for (let i = 0; i < lines.length; i++) {

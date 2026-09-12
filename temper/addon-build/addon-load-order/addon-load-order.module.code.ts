@@ -18,13 +18,13 @@ import { safeFolderName } from "akasha/temper/addons-resolve/sibling-addons/sibl
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
-export const BUILD_ID_FILE = "build-id.lua"
+const BUILD_ID_FILE = "build-id.lua"
 
 export const DIST_UNDER = "dist"
 
 const CONFIGS_UNDER = "dist/.lua-compiler"
 
-export const CATALOG_ADDON_NAME = "TemperCatalog"
+const CATALOG_ADDON_NAME = "TemperCatalog"
 
 const AT_LEAST = ">="
 
@@ -52,7 +52,7 @@ function luaBundleAt(tsconfigPath: string): string | null {
   }
 }
 
-export function readLuaBundle(dir: string, ...alsoAt: readonly string[]): string | null {
+function readLuaBundle(dir: string, ...alsoAt: readonly string[]): string | null {
   for (const path of [join(dir, TSCONFIG_NAME), ...alsoAt]) {
     const found = luaBundleAt(path)
     if (found !== null) return found
@@ -60,10 +60,7 @@ export function readLuaBundle(dir: string, ...alsoAt: readonly string[]): string
   return null
 }
 
-export async function loadAddonConfig(
-  root: string,
-  addonDir: string
-): Promise<AddonManifest | null> {
+async function loadAddonConfig(root: string, addonDir: string): Promise<AddonManifest | null> {
   const path = addonManifestPathIn(root, addonDir)
   if (path === null) return null
   try {
@@ -73,14 +70,11 @@ export async function loadAddonConfig(
   }
 }
 
-export async function readAdditionalLuaFiles(
-  root: string,
-  addonDir: string
-): Promise<readonly string[]> {
+async function readAdditionalLuaFiles(root: string, addonDir: string): Promise<readonly string[]> {
   return (await loadAddonConfig(root, addonDir))?.additionalLuaFiles ?? []
 }
 
-export async function readXmlFiles(
+async function readXmlFiles(
   root: string,
   addonDir: string
 ): Promise<{
@@ -94,7 +88,7 @@ export async function readXmlFiles(
   }
 }
 
-export function normalizeDependency(dep: string): string {
+function normalizeDependency(dep: string): string {
   const at = dep.indexOf(AT_LEAST)
   if (at === -1) return dep
   const name = dep.slice(0, at)
@@ -132,7 +126,7 @@ export function manifestLines(asked: ManifestAsked): readonly string[] {
   return lines
 }
 
-export function nameXmlThereIn(root: string, addonDir: string, addonName: string): boolean {
+function nameXmlThereIn(root: string, addonDir: string, addonName: string): boolean {
   return namedFilePathOrNull(root, addonDir, `${addonName}.xml`) !== null
 }
 
@@ -147,7 +141,7 @@ function leftAlone(value: Record<string, unknown>): boolean {
   return said === true || said === "true"
 }
 
-export function catalogApiVersion(root: string): string {
+function catalogApiVersion(root: string): string {
   const every = valuesOfType(root, CATALOG_PAGE_TYPE)
   const working = every.filter((one) => !leftAlone(one.value))
   if (working.length === 0) {
@@ -170,7 +164,7 @@ export function catalogApiVersion(root: string): string {
   return String(Math.min(...versions))
 }
 
-export async function metadataHeader(
+async function metadataHeader(
   root: string,
   addonName: string,
   addonDir: string,
@@ -213,7 +207,7 @@ export async function metadataHeader(
   return lines.join("\n")
 }
 
-export function buildIdFor(cwd: string): string {
+function buildIdFor(cwd: string): string {
   const fromCi = optionalEnv(SAID_BY_CI)
   const raw = fromCi ?? ran(["git", "rev-parse", "HEAD"], { cwd }).out.trim()
   const hex = raw.toLowerCase().replace(NOT_HEX, "")

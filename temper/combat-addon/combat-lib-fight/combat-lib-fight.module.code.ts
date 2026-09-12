@@ -280,7 +280,7 @@ function resetBuffers(): undefined {
   return undefined
 }
 
-export function onFightUpdate(this: void): undefined {
+function onFightUpdate(this: void): undefined {
   onCombatState(EVENT_PLAYER_COMBAT_STATE, IsUnitInCombat("player"))
 
   const fight = getCurrentFight()

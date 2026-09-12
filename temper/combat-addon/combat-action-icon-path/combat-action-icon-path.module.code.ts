@@ -1,4 +1,4 @@
-export function normalizeIconPath(p: string): string {
+function normalizeIconPath(p: string): string {
   let path = p.toLowerCase()
   const prefix = prefixThroughThreeDigits(path)
   if (prefix !== undefined) {

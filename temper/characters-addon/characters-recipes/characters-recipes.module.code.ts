@@ -9,7 +9,7 @@ export function getRecipeTotals(): Record<number, number> {
   return RECIPE_TOTALS
 }
 
-export function scanRecipes(): SparseRecipes {
+function scanRecipes(): SparseRecipes {
   const recipes: SparseRecipes = {}
 
   for (let listIndex = 1; listIndex <= GetNumRecipeLists(); listIndex++) {

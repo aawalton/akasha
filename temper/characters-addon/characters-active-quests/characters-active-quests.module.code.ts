@@ -70,7 +70,7 @@ function stripLabelTail(s: string): string {
   return r
 }
 
-export function stripTrailingCount(this: void, text: string, current: number, max: number): string {
+function stripTrailingCount(this: void, text: string, current: number, max: number): string {
   const t = text.trim()
   let p = trailingContentEnd(t)
   const maxEnd = p
@@ -86,19 +86,14 @@ export function stripTrailingCount(this: void, text: string, current: number, ma
   return stripLabelTail(t.slice(0, p))
 }
 
-export function formatConditionLine(
-  this: void,
-  text: string,
-  current: number,
-  max: number
-): string {
+function formatConditionLine(this: void, text: string, current: number, max: number): string {
   const label = stripTrailingCount(text, current, max)
   if (label === "") return ""
   if (max > 1) return formatProgressCount(label, current, max)
   return label
 }
 
-export function pickQuestHint(
+function pickQuestHint(
   this: void,
   trackerOverrideText: string,
   firstObjective: string | undefined
@@ -108,13 +103,13 @@ export function pickQuestHint(
   return firstObjective
 }
 
-export function normalizeStepText(this: void, text: string): string | undefined {
+function normalizeStepText(this: void, text: string): string | undefined {
   const t = text.trim()
   if (t === "") return undefined
   return t
 }
 
-export function pickActiveQuestHint(
+function pickActiveQuestHint(
   this: void,
   isComplete: boolean,
   trackerOverrideText: string,
@@ -125,7 +120,7 @@ export function pickActiveQuestHint(
   return pickQuestHint(trackerOverrideText, fallback)
 }
 
-export function readFirstObjective(this: void, questIndex: number): string | undefined {
+function readFirstObjective(this: void, questIndex: number): string | undefined {
   const numSteps = GetJournalQuestNumSteps(questIndex)
   for (let s = 1; s <= numSteps; s += 1) {
     const numConditions = GetJournalQuestNumConditions(questIndex, s)
@@ -140,10 +135,7 @@ export function readFirstObjective(this: void, questIndex: number): string | und
   return undefined
 }
 
-export function sortActiveQuests(
-  this: void,
-  quests: readonly ActiveQuest[]
-): readonly ActiveQuest[] {
+function sortActiveQuests(this: void, quests: readonly ActiveQuest[]): readonly ActiveQuest[] {
   const copy = [...quests]
   copy.sort((a, b) => {
     const an = a.name.toLowerCase()

@@ -4,7 +4,7 @@ export function taskHasCard(task: TaskData, cardId: string): boolean {
   return task.completionCardId === cardId
 }
 
-export function taskPathEntry(task: TaskData, index: number): string | number | undefined {
+function taskPathEntry(task: TaskData, index: number): string | number | undefined {
   const path = task.completionItemPath
   if (path === undefined) return undefined
   return path[index]

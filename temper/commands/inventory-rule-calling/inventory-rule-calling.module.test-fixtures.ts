@@ -9,7 +9,7 @@ export const ITEM_HELD = "an-item-rule-the-settings-hold"
 
 export const ITEM_LOCKED = "an-item-rule-the-settings-lock"
 
-export const SETTINGS: InventoryRuleSettings = {
+const SETTINGS: InventoryRuleSettings = {
   version: 2,
   rules: [
     { id: HELD, categoryId: "all", action: "nothing", active: true, locked: false },

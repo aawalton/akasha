@@ -1,7 +1,7 @@
 import type { FoodOrDrinkTemplate } from "akasha/temper/character-sources/food-or-drink-source/food-or-drink-source.module.code.ts"
 import { createSourceFile } from "akasha/temper/formula-framework/source-file/source-file.module.code.ts"
 
-export const FOOD = {
+const FOOD = {
   "lilmoth-garlic-hagfish": {
     id: "lilmoth-garlic-hagfish" as const,
     name: "Lilmoth Garlic Hagfish",

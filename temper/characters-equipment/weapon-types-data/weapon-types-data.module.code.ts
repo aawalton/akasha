@@ -6,7 +6,8 @@ import {
   createDataFile,
   type DataFile,
 } from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
-export const TEMPER_WEAPON_TYPES_BY_ID = {
+
+const TEMPER_WEAPON_TYPES_BY_ID = {
   "axe": {
     id: "axe" as const,
     name: "Axe",

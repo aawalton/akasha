@@ -32,7 +32,7 @@ export const WEB_ENGINE_INVENTORY_DIR = out("game-items-rules-core")
 
 const ALL_OUTPUT_DIRS: readonly string[] = []
 
-export function assertOutputDirParentsExist(dirs: readonly string[] = ALL_OUTPUT_DIRS): undefined {
+function assertOutputDirParentsExist(dirs: readonly string[] = ALL_OUTPUT_DIRS): undefined {
   for (const dir of dirs) {
     const parent = dirname(dir)
     if (!existsSync(parent)) {

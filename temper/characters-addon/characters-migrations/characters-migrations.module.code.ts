@@ -12,9 +12,7 @@ export interface Migration {
   migrate: (this: void, savedVars: SavedVariablesData) => void
 }
 
-export function clearAtMorphFlags(
-  progress: Record<number, SkillLineProgress> | undefined
-): undefined {
+function clearAtMorphFlags(progress: Record<number, SkillLineProgress> | undefined): undefined {
   if (progress === undefined) return
   for (const [, line] of Object.entries(progress)) {
     if (line.skills === undefined) continue
@@ -38,7 +36,7 @@ function clearSkillsOfReworkedLines(
   }
 }
 
-export const MIGRATIONS: Migration[] = [
+const MIGRATIONS: Migration[] = [
   {
     domain: "achievements",
     version: 1,

@@ -10,7 +10,8 @@ import type { MetricEffect } from "akasha/temper/formula-framework/effect/effect
 import { updateEffectValue } from "akasha/temper/formula-framework/effect-value-update/effect-value-update.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { createDataFile } from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
-export const TEMPER_ARMOR_ENCHANTS_BY_ID = {
+
+const TEMPER_ARMOR_ENCHANTS_BY_ID = {
   "no-enchant": {
     id: "no-enchant" as const,
     name: "No Enchant",
@@ -68,7 +69,7 @@ export const TEMPER_ARMOR_ENCHANTS_BY_ID = {
   },
 } as const satisfies Record<string, ArmorEnchantTemplate>
 
-export const TEMPER_ARMOR_ENCHANT_QUALITY_VALUES = {
+const TEMPER_ARMOR_ENCHANT_QUALITY_VALUES = {
   "health": { "health": { normal: 734, fine: 774, superior: 839, epic: 882, legendary: 954 } },
   "magicka": { "magicka": { normal: 668, fine: 704, superior: 763, epic: 802, legendary: 868 } },
   "stamina": { "stamina": { normal: 668, fine: 704, superior: 763, epic: 802, legendary: 868 } },

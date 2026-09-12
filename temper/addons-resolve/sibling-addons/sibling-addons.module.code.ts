@@ -7,9 +7,9 @@ import {
 } from "akasha/temper/addons-resolve/addon-manifest-file/addon-manifest-file.module.code.ts"
 import { z } from "zod"
 
-export const SIBLING_ADDONS_DIR = "siblings"
+const SIBLING_ADDONS_DIR = "siblings"
 
-export const SIBLING_MANIFEST = "sibling-manifest"
+const SIBLING_MANIFEST = "sibling-manifest"
 
 const siblingNamesSchema = addonManifestSchema.pick({ siblingAddons: true }).partial().passthrough()
 

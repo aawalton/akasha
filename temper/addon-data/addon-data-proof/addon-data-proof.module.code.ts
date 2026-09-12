@@ -119,7 +119,7 @@ async function populations(unread: string[]): Promise<AddonDataPages> {
   return held as AddonDataPages
 }
 
-export async function proved(only: ReadonlySet<string>): Promise<Proof> {
+async function proved(only: ReadonlySet<string>): Promise<Proof> {
   const unread: string[] = []
   const pages = await populations(unread)
   const answers: Answer[] = []
@@ -156,7 +156,7 @@ export async function proved(only: ReadonlySet<string>): Promise<Proof> {
   return { answers, threw, unread }
 }
 
-export async function proof(argv: readonly string[]): Promise<number> {
+async function proof(argv: readonly string[]): Promise<number> {
   const said = saidOf(await proved(new Set(argv)))
   for (const line of said) process.stdout.write(`${line}\n`)
   return 0

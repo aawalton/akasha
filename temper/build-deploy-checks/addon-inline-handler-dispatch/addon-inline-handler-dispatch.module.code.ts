@@ -21,7 +21,7 @@ function namespaceRefCount(body: string, namespace: string): number {
   return [...body.matchAll(new RegExp(`\\b${escapeRegExp(namespace)}\\s*[.:]`, "g"))].length
 }
 
-export function isSingleDispatch(body: string, namespace: string): boolean {
+function isSingleDispatch(body: string, namespace: string): boolean {
   const trimmed = body.trim()
   if (trimmed.length === 0) return false
 

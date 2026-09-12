@@ -49,7 +49,7 @@ let TOTAL_EVENTS = 0
 
 let REGISTERED_SKILLS: Record<number, boolean> = {}
 
-export const EVENTS: Record<string, EventGroup> = {}
+const EVENTS: Record<string, EventGroup> = {}
 
 export function setGroupActive(group: EventGroup, active: boolean): undefined {
   group.active = active
@@ -161,7 +161,7 @@ function unregisterEvents(group: EventGroup): undefined {
   return undefined
 }
 
-export function updateEventRegistrations(this: void): undefined {
+function updateEventRegistrations(this: void): undefined {
   for (const [, group] of pairs(EVENTS)) {
     updateEvents(group)
   }

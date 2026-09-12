@@ -121,7 +121,7 @@ export const STATUS_EFFECT_IDS: Record<number, boolean> = {
   [148801]: true,
 }
 
-export const FOOD_BUFF_ID_TO_ITEM_LINKS: Record<number, string> = {
+const FOOD_BUFF_ID_TO_ITEM_LINKS: Record<number, string> = {
   [61218]: "|H0:item:68253:311:50:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0|h|h",
   [61255]: "|H0:item:68247:310:50:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0|h|h",
   [61257]: "|H0:item:68243:310:50:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0|h|h",
@@ -197,7 +197,7 @@ const STRING_BUFF = "Buff"
 
 let customAbilityNameCache: Record<number, string> | undefined
 
-export function getCustomAbilityNames(): Record<number, string> {
+function getCustomAbilityNames(): Record<number, string> {
   if (customAbilityNameCache === undefined) {
     const customAbilityFormat = GetString(SI_ABILITY_NAME) + " (<<2>>)"
 
@@ -237,7 +237,7 @@ export function getCustomAbilityNames(): Record<number, string> {
   return customAbilityNameCache
 }
 
-export const CUSTOM_ABILITY_ICON: Record<number, string> = {
+const CUSTOM_ABILITY_ICON: Record<number, string> = {
   [0]: "esoui/art/icons/achievement_wrothgar_046.dds",
   [122729]: "esoui/art/icons/ability_warrior_025.dds",
   [ABILITY_ID_FORCE_OF_NATURE]: "esoui/art/icons/ability_healer_018.dds",

@@ -1,4 +1,4 @@
-export const FOOD_ABILITY_ID_TO_INDEX: Record<number, number> = {
+const FOOD_ABILITY_ID_TO_INDEX: Record<number, number> = {
   [17407]: 1,
   [61260]: 2,
   [61261]: 3,
@@ -33,7 +33,7 @@ export const FOOD_ABILITY_ID_TO_INDEX: Record<number, number> = {
   [89957]: 32,
   [100488]: 33,
 }
-export const FOOD_ABILITY_ID_TO_TEMPER_ID: Record<number, string> = {
+const FOOD_ABILITY_ID_TO_TEMPER_ID: Record<number, string> = {
   [17407]: "lilmoth-garlic-hagfish",
   [61260]: "firsthold-fruit-and-cheese-plate",
   [61261]: "hearty-garlic-corn-chowder",

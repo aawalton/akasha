@@ -69,11 +69,7 @@ function toggleCollapseBuff(this: void): undefined {
   return undefined
 }
 
-export function buffContextMenu(
-  this: void,
-  bufflistitem: BuffRowControl,
-  upInside: boolean
-): undefined {
+function buffContextMenu(this: void, bufflistitem: BuffRowControl, upInside: boolean): undefined {
   if (!upInside) {
     return undefined
   }
@@ -151,11 +147,7 @@ function postSelectionHPS(this: void): undefined {
   return undefined
 }
 
-export function unitContextMenu(
-  this: void,
-  unitItem: SelectionRowControl,
-  upInside: boolean
-): undefined {
+function unitContextMenu(this: void, unitItem: SelectionRowControl, upInside: boolean): undefined {
   const db = getDb()
   const category = db.FightReport.category
 

@@ -66,7 +66,7 @@ export function categoryRow(rule: CategoryRule): Record<string, unknown> {
   }
 }
 
-export function buyRuleRow(rule: BuyRule): Record<string, unknown> {
+function buyRuleRow(rule: BuyRule): Record<string, unknown> {
   return {
     id: rule.id,
     itemId: rule.itemId,

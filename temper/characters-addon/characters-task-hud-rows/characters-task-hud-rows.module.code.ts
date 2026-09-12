@@ -114,7 +114,7 @@ const PRE_COMPLETION_RGB: Record<SubRowColor, readonly [number, number, number]>
 
 const INDENT_UNIT = "    "
 
-export function indentText(level: number): string {
+function indentText(level: number): string {
   return INDENT_UNIT.repeat(level)
 }
 

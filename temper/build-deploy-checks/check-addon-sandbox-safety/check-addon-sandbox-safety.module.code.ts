@@ -21,7 +21,7 @@ export interface AddonSandboxSafetyOptions {
   readonly singleFile: string | null
 }
 
-export function runAddonSandboxSafety({ singleFile }: AddonSandboxSafetyOptions): number {
+function runAddonSandboxSafety({ singleFile }: AddonSandboxSafetyOptions): number {
   let files: readonly string[]
   let bundles: AddonDistBundles | null = null
   if (singleFile !== null) {
@@ -81,7 +81,7 @@ export function runAddonSandboxSafety({ singleFile }: AddonSandboxSafetyOptions)
   return 1
 }
 
-export function main(argv: readonly string[] = process.argv.slice(2)): number {
+function main(argv: readonly string[] = process.argv.slice(2)): number {
   return runAddonSandboxSafety(parseSingleFileFlag(argv))
 }
 

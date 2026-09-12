@@ -44,7 +44,7 @@ const PLOT_DEFAULT_FUNCTION: Record<
   [2]: total,
 }
 
-export function initBarPlot(plotWindow: PlotWindowControl, id: number): PlotControl {
+function initBarPlot(plotWindow: PlotWindowControl, id: number): PlotControl {
   const plots = plotWindow.plots
 
   let newPlot = plots[id - 1]
@@ -70,7 +70,7 @@ export function initBarPlot(plotWindow: PlotWindowControl, id: number): PlotCont
   return newPlot
 }
 
-export function initXYPlot(plotWindow: PlotWindowControl, id: number): PlotControl {
+function initXYPlot(plotWindow: PlotWindowControl, id: number): PlotControl {
   const plots = plotWindow.plots
 
   let newPlot = plots[id - 1]

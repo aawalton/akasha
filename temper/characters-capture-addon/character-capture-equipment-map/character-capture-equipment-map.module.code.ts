@@ -1,7 +1,7 @@
 import "akasha/temper/eso-types/eso-enums-08/eso-enums-08.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-enums-11/eso-enums-11.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-enums-13/eso-enums-13.type-declaration.d.ts"
-export const PLAYER_ARMOR_TRAIT_ESO_ID_TO_INDEX: Record<number, number> = {
+const PLAYER_ARMOR_TRAIT_ESO_ID_TO_INDEX: Record<number, number> = {
   [ITEM_TRAIT_TYPE_NONE]: 0,
   [ITEM_TRAIT_TYPE_ARMOR_DIVINES]: 1,
   [ITEM_TRAIT_TYPE_ARMOR_IMPENETRABLE]: 2,
@@ -15,7 +15,7 @@ export const PLAYER_ARMOR_TRAIT_ESO_ID_TO_INDEX: Record<number, number> = {
   [ITEM_TRAIT_TYPE_ARMOR_ORNATE]: 10,
   [ITEM_TRAIT_TYPE_ARMOR_INTRICATE]: 11,
 }
-export const PLAYER_ARMOR_TRAIT_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
+const PLAYER_ARMOR_TRAIT_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
   [ITEM_TRAIT_TYPE_NONE]: "no-trait",
   [ITEM_TRAIT_TYPE_ARMOR_DIVINES]: "divines",
   [ITEM_TRAIT_TYPE_ARMOR_IMPENETRABLE]: "impenetrable",
@@ -36,7 +36,7 @@ export function getPlayerArmorTraitTemperId(esoId: number): string {
   return PLAYER_ARMOR_TRAIT_ESO_ID_TO_TEMPER_ID[esoId] ?? "no-trait"
 }
 
-export const PLAYER_WEAPON_TRAIT_ESO_ID_TO_INDEX: Record<number, number> = {
+const PLAYER_WEAPON_TRAIT_ESO_ID_TO_INDEX: Record<number, number> = {
   [ITEM_TRAIT_TYPE_NONE]: 0,
   [ITEM_TRAIT_TYPE_WEAPON_CHARGED]: 1,
   [ITEM_TRAIT_TYPE_WEAPON_DECISIVE]: 2,
@@ -50,7 +50,7 @@ export const PLAYER_WEAPON_TRAIT_ESO_ID_TO_INDEX: Record<number, number> = {
   [ITEM_TRAIT_TYPE_WEAPON_ORNATE]: 10,
   [ITEM_TRAIT_TYPE_WEAPON_INTRICATE]: 11,
 }
-export const PLAYER_WEAPON_TRAIT_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
+const PLAYER_WEAPON_TRAIT_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
   [ITEM_TRAIT_TYPE_NONE]: "no-trait",
   [ITEM_TRAIT_TYPE_WEAPON_CHARGED]: "charged",
   [ITEM_TRAIT_TYPE_WEAPON_DECISIVE]: "decisive",
@@ -71,7 +71,7 @@ export function getPlayerWeaponTraitTemperId(esoId: number): string {
   return PLAYER_WEAPON_TRAIT_ESO_ID_TO_TEMPER_ID[esoId] ?? "no-trait"
 }
 
-export const PLAYER_JEWELRY_TRAIT_ESO_ID_TO_INDEX: Record<number, number> = {
+const PLAYER_JEWELRY_TRAIT_ESO_ID_TO_INDEX: Record<number, number> = {
   [ITEM_TRAIT_TYPE_NONE]: 0,
   [ITEM_TRAIT_TYPE_JEWELRY_ARCANE]: 1,
   [ITEM_TRAIT_TYPE_JEWELRY_BLOODTHIRSTY]: 2,
@@ -85,7 +85,7 @@ export const PLAYER_JEWELRY_TRAIT_ESO_ID_TO_INDEX: Record<number, number> = {
   [ITEM_TRAIT_TYPE_JEWELRY_ORNATE]: 10,
   [ITEM_TRAIT_TYPE_JEWELRY_INTRICATE]: 11,
 }
-export const PLAYER_JEWELRY_TRAIT_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
+const PLAYER_JEWELRY_TRAIT_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
   [ITEM_TRAIT_TYPE_NONE]: "no-trait",
   [ITEM_TRAIT_TYPE_JEWELRY_ARCANE]: "arcane",
   [ITEM_TRAIT_TYPE_JEWELRY_BLOODTHIRSTY]: "bloodthirsty",
@@ -106,7 +106,7 @@ export function getPlayerJewelryTraitTemperId(esoId: number): string {
   return PLAYER_JEWELRY_TRAIT_ESO_ID_TO_TEMPER_ID[esoId] ?? "no-trait"
 }
 
-export const PLAYER_ARMOR_ENCHANT_ESO_ID_TO_INDEX: Record<number, number> = {
+const PLAYER_ARMOR_ENCHANT_ESO_ID_TO_INDEX: Record<number, number> = {
   [ENCHANTMENT_SEARCH_CATEGORY_NONE]: 0,
   [ENCHANTMENT_SEARCH_CATEGORY_HEALTH]: 1,
   [ENCHANTMENT_SEARCH_CATEGORY_MAGICKA]: 2,
@@ -114,7 +114,7 @@ export const PLAYER_ARMOR_ENCHANT_ESO_ID_TO_INDEX: Record<number, number> = {
   [ENCHANTMENT_SEARCH_CATEGORY_PRISMATIC_DEFENSE]: 4,
 }
 
-export const PLAYER_ARMOR_ENCHANT_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
+const PLAYER_ARMOR_ENCHANT_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
   [ENCHANTMENT_SEARCH_CATEGORY_NONE]: "no-enchant",
   [ENCHANTMENT_SEARCH_CATEGORY_HEALTH]: "health",
   [ENCHANTMENT_SEARCH_CATEGORY_MAGICKA]: "magicka",
@@ -129,7 +129,7 @@ export function getPlayerArmorEnchantTemperId(esoId: number): string {
   return PLAYER_ARMOR_ENCHANT_ESO_ID_TO_TEMPER_ID[esoId] ?? "no-enchant"
 }
 
-export const PLAYER_WEAPON_ENCHANT_ESO_ID_TO_INDEX: Record<number, number> = {
+const PLAYER_WEAPON_ENCHANT_ESO_ID_TO_INDEX: Record<number, number> = {
   [ENCHANTMENT_SEARCH_CATEGORY_NONE]: 0,
   [ENCHANTMENT_SEARCH_CATEGORY_BERSERKER]: 1,
   [ENCHANTMENT_SEARCH_CATEGORY_ABSORB_HEALTH]: 2,
@@ -146,7 +146,7 @@ export const PLAYER_WEAPON_ENCHANT_ESO_ID_TO_INDEX: Record<number, number> = {
   [ENCHANTMENT_SEARCH_CATEGORY_BEFOULED_WEAPON]: 13,
   [ENCHANTMENT_SEARCH_CATEGORY_PRISMATIC_ONSLAUGHT]: 14,
 }
-export const PLAYER_WEAPON_ENCHANT_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
+const PLAYER_WEAPON_ENCHANT_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
   [ENCHANTMENT_SEARCH_CATEGORY_NONE]: "no-enchant",
   [ENCHANTMENT_SEARCH_CATEGORY_BERSERKER]: "weapon-damage",
   [ENCHANTMENT_SEARCH_CATEGORY_ABSORB_HEALTH]: "absorb-health",
@@ -170,7 +170,7 @@ export function getPlayerWeaponEnchantTemperId(esoId: number): string {
   return PLAYER_WEAPON_ENCHANT_ESO_ID_TO_TEMPER_ID[esoId] ?? "no-enchant"
 }
 
-export const PLAYER_JEWELRY_ENCHANT_ESO_ID_TO_INDEX: Record<number, number> = {
+const PLAYER_JEWELRY_ENCHANT_ESO_ID_TO_INDEX: Record<number, number> = {
   [ENCHANTMENT_SEARCH_CATEGORY_NONE]: 0,
   [ENCHANTMENT_SEARCH_CATEGORY_INCREASE_PHYSICAL_DAMAGE]: 1,
   [ENCHANTMENT_SEARCH_CATEGORY_INCREASE_SPELL_DAMAGE]: 2,
@@ -193,7 +193,7 @@ export const PLAYER_JEWELRY_ENCHANT_ESO_ID_TO_INDEX: Record<number, number> = {
   [ENCHANTMENT_SEARCH_CATEGORY_INCREASE_POTION_EFFECTIVENESS]: 19,
   [ENCHANTMENT_SEARCH_CATEGORY_REDUCE_POTION_COOLDOWN]: 20,
 }
-export const PLAYER_JEWELRY_ENCHANT_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
+const PLAYER_JEWELRY_ENCHANT_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
   [ENCHANTMENT_SEARCH_CATEGORY_NONE]: "no-enchant",
   [ENCHANTMENT_SEARCH_CATEGORY_INCREASE_PHYSICAL_DAMAGE]: "increase-physical-harm",
   [ENCHANTMENT_SEARCH_CATEGORY_INCREASE_SPELL_DAMAGE]: "increase-magical-harm",
@@ -223,7 +223,7 @@ export function getPlayerJewelryEnchantTemperId(esoId: number): string {
   return PLAYER_JEWELRY_ENCHANT_ESO_ID_TO_TEMPER_ID[esoId] ?? "no-enchant"
 }
 
-export const PLAYER_WEAPON_TYPE_ESO_ID_TO_INDEX: Record<number, number> = {
+const PLAYER_WEAPON_TYPE_ESO_ID_TO_INDEX: Record<number, number> = {
   [WEAPONTYPE_AXE]: 0,
   [WEAPONTYPE_TWO_HANDED_AXE]: 1,
   [WEAPONTYPE_BOW]: 2,
@@ -238,7 +238,7 @@ export const PLAYER_WEAPON_TYPE_ESO_ID_TO_INDEX: Record<number, number> = {
   [WEAPONTYPE_HEALING_STAFF]: 11,
   [WEAPONTYPE_SWORD]: 12,
 }
-export const PLAYER_WEAPON_TYPE_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
+const PLAYER_WEAPON_TYPE_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
   [WEAPONTYPE_AXE]: "axe",
   [WEAPONTYPE_TWO_HANDED_AXE]: "battleaxe",
   [WEAPONTYPE_BOW]: "bow",

@@ -175,7 +175,7 @@ export const STRING_ID_RECORDING_PRELUDE = [
   "LibCodesCommonCode = lccc",
 ].join("\n")
 
-export function buildUnregisteredStringIdsQuery(consumedIds: readonly string[]): string {
+function buildUnregisteredStringIdsQuery(consumedIds: readonly string[]): string {
   const list = consumedIds.map((id) => `"${STRING_ID_SCHEMA.parse(id)}"`).join(", ")
   return [
     'if type(__si_registered) ~= "table" then error("string-id recorder not installed", 0) end',

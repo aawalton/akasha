@@ -1,4 +1,4 @@
-export const ESO_API_SEED: readonly string[] = [
+const ESO_API_SEED: readonly string[] = [
   "EVENT_MANAGER",
   "SLASH_COMMANDS",
   "ZO_SavedVars",
@@ -38,7 +38,7 @@ export function isPermissiveStub(value: unknown): value is PermissiveStub {
   return value.__esoPermissiveStub === true
 }
 
-export function createPermissiveStub(): PermissiveStub {
+function createPermissiveStub(): PermissiveStub {
   const children = new Map<string | symbol, PermissiveStub>()
   const target = function stub() {}
   const handler: ProxyHandler<typeof target> = {

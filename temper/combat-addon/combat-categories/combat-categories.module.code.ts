@@ -105,7 +105,7 @@ export function createBaseAbility(tablekey: DamageCategory): BaseAbilityValues {
   return target
 }
 
-export const BASE_ABILITIES: Record<DamageCategory, BaseAbilityValues> = {
+const BASE_ABILITIES: Record<DamageCategory, BaseAbilityValues> = {
   damageOut: createBaseAbility("damageOut"),
   damageIn: createBaseAbility("damageIn"),
   healingOut: createBaseAbility("healingOut"),

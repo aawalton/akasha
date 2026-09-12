@@ -1,4 +1,4 @@
-export const GRIMOIRE_NAME_TO_INDEX: Record<string, number> = {
+const GRIMOIRE_NAME_TO_INDEX: Record<string, number> = {
   ["Vault"]: 0,
   ["Wield Soul"]: 1,
   ["Shield Throw"]: 2,
@@ -12,7 +12,7 @@ export const GRIMOIRE_NAME_TO_INDEX: Record<string, number> = {
   ["Trample"]: 10,
   ["Banner Bearer"]: 11,
 }
-export const GRIMOIRE_NAME_TO_TEMPER_ID: Record<string, string> = {
+const GRIMOIRE_NAME_TO_TEMPER_ID: Record<string, string> = {
   ["Vault"]: "vault",
   ["Wield Soul"]: "wield-soul",
   ["Shield Throw"]: "shield-throw",
@@ -32,7 +32,7 @@ export function getGrimoireIndex(name: string): number {
 export function getGrimoireTemperId(name: string): string {
   return GRIMOIRE_NAME_TO_TEMPER_ID[name] ?? "vault"
 }
-export const FOCUS_SCRIPT_NAME_TO_INDEX: Record<string, number> = {
+const FOCUS_SCRIPT_NAME_TO_INDEX: Record<string, number> = {
   ["Physical Damage"]: 0,
   ["Poison Damage"]: 1,
   ["Disease Damage"]: 2,
@@ -55,7 +55,7 @@ export const FOCUS_SCRIPT_NAME_TO_INDEX: Record<string, number> = {
   ["Generate Ultimate"]: 19,
   ["Mitigation"]: 20,
 }
-export const FOCUS_SCRIPT_NAME_TO_TEMPER_ID: Record<string, string> = {
+const FOCUS_SCRIPT_NAME_TO_TEMPER_ID: Record<string, string> = {
   ["Physical Damage"]: "physical-damage",
   ["Poison Damage"]: "poison-damage",
   ["Disease Damage"]: "disease-damage",
@@ -84,7 +84,7 @@ export function getFocusScriptIndex(name: string): number {
 export function getFocusScriptTemperId(name: string): string {
   return FOCUS_SCRIPT_NAME_TO_TEMPER_ID[name] ?? "physical-damage"
 }
-export const SIGNATURE_SCRIPT_NAME_TO_INDEX: Record<string, number> = {
+const SIGNATURE_SCRIPT_NAME_TO_INDEX: Record<string, number> = {
   ["Lingering Torment"]: 1,
   ["Hunter's Snare"]: 2,
   ["Knight's Valor"]: 3,
@@ -106,7 +106,7 @@ export const SIGNATURE_SCRIPT_NAME_TO_INDEX: Record<string, number> = {
   ["Cavalier's Charge"]: 19,
   ["Growing Impact"]: 20,
 }
-export const SIGNATURE_SCRIPT_NAME_TO_TEMPER_ID: Record<string, string> = {
+const SIGNATURE_SCRIPT_NAME_TO_TEMPER_ID: Record<string, string> = {
   ["Lingering Torment"]: "lingering-torment",
   ["Hunter's Snare"]: "hunters-snare",
   ["Knight's Valor"]: "knights-valor",
@@ -134,7 +134,7 @@ export function getSignatureScriptIndex(name: string): number {
 export function getSignatureScriptTemperId(name: string): string {
   return SIGNATURE_SCRIPT_NAME_TO_TEMPER_ID[name] ?? "no-signature-script"
 }
-export const AFFIX_SCRIPT_NAME_TO_INDEX: Record<string, number> = {
+const AFFIX_SCRIPT_NAME_TO_INDEX: Record<string, number> = {
   ["Off Balance"]: 1,
   ["Interrupt"]: 2,
   ["Savagery and Prophecy"]: 3,
@@ -162,7 +162,7 @@ export const AFFIX_SCRIPT_NAME_TO_INDEX: Record<string, number> = {
   ["Uncertainty"]: 25,
   ["Magickasteal"]: 26,
 }
-export const AFFIX_SCRIPT_NAME_TO_TEMPER_ID: Record<string, string> = {
+const AFFIX_SCRIPT_NAME_TO_TEMPER_ID: Record<string, string> = {
   ["Off Balance"]: "off-balance",
   ["Interrupt"]: "interrupt",
   ["Savagery and Prophecy"]: "savagery-and-prophecy",

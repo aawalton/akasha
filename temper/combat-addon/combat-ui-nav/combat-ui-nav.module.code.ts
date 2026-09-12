@@ -20,7 +20,7 @@ import {
   getSelections,
 } from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
 
-export function editTitleStart(this: void, control: Control): undefined {
+function editTitleStart(this: void, control: Control): undefined {
   const label = control.GetNamedChild<LabelControl>("Name")
   const editbox = control.GetNamedChild<EditControl>("Edit")
   if (label == null || editbox == null) {
@@ -36,7 +36,7 @@ export function editTitleStart(this: void, control: Control): undefined {
   return undefined
 }
 
-export function editTitleEnd(this: void, editbox: EditControl & Control): undefined {
+function editTitleEnd(this: void, editbox: EditControl & Control): undefined {
   const control = editbox.GetParent()
   const label = control?.GetNamedChild<LabelControl>("Name")
 
@@ -162,7 +162,7 @@ const NAV_BUTTON_FUNCTIONS: Record<
   },
 }
 
-export function initNavButtons(this: void, rowControl: Control): undefined {
+function initNavButtons(this: void, rowControl: Control): undefined {
   for (let i = 1; i <= rowControl.GetNumChildren(); i++) {
     const child = rowControl.GetChild<NavButtonControl>(i)
 
@@ -183,7 +183,7 @@ export interface FightListItemControl extends Control {
   issaved?: boolean
 }
 
-export function loadItem(this: void, listitem: FightListItemControl): undefined {
+function loadItem(this: void, listitem: FightListItemControl): undefined {
   const issaved = listitem.issaved
   const id = listitem.id ?? 1
 
@@ -219,7 +219,7 @@ export function loadItem(this: void, listitem: FightListItemControl): undefined 
   return undefined
 }
 
-export function deleteItem(this: void, control: Control): undefined {
+function deleteItem(this: void, control: Control): undefined {
   const row = control.GetParent()?.GetParent<FightListItemControl>()
   if (row == null) {
     return undefined
@@ -243,7 +243,7 @@ export function deleteItem(this: void, control: Control): undefined {
   return undefined
 }
 
-export function deleteItemLog(this: void, control: Control): undefined {
+function deleteItemLog(this: void, control: Control): undefined {
   const row = control.GetParent()?.GetParent<FightListItemControl>()
   if (row == null) {
     return undefined

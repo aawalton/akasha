@@ -32,9 +32,9 @@ const SKILL_BAR_ITEMS = [
   "Ultimate",
 ]
 
-export const DisabledColor = ZO_ColorDef.New("FF999999")
-export const WerewolfColor = ZO_ColorDef.New("FFf3c86e")
-export const WhiteColor = ZO_ColorDef.New("FFFFFFFF")
+const DisabledColor = ZO_ColorDef.New("FF999999")
+const WerewolfColor = ZO_ColorDef.New("FFf3c86e")
+const WhiteColor = ZO_ColorDef.New("FFFFFFFF")
 
 function legacyNumber(this: void, record: unknown, key: string): number | undefined {
   if (!isObjectRecord(record)) {
@@ -44,7 +44,7 @@ function legacyNumber(this: void, record: unknown, key: string): number | undefi
   return typeof value === "number" ? value : undefined
 }
 
-export function updateLeftInfoPanel(this: void, panel: Control): undefined {
+function updateLeftInfoPanel(this: void, panel: Control): undefined {
   const fightData = getFightData()
   if (fightData == null) {
     return undefined
@@ -237,7 +237,7 @@ function updateWeavingStatRows(
   return undefined
 }
 
-export function skillbarButtonMouseOver(this: void, control: Control, isOver: boolean): undefined {
+function skillbarButtonMouseOver(this: void, control: Control, isOver: boolean): undefined {
   const bg = control.GetNamedChild<BackdropControl>("Bg")
 
   const alpha = isOver ? 1 : 0
@@ -246,7 +246,7 @@ export function skillbarButtonMouseOver(this: void, control: Control, isOver: bo
   return undefined
 }
 
-export function skillbarToggleWerewolf(this: void, control: Control): undefined {
+function skillbarToggleWerewolf(this: void, control: Control): undefined {
   const db = getDb()
   db.FightReport.showWereWolf = !db.FightReport.showWereWolf
 

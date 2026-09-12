@@ -11,9 +11,9 @@ import {
 } from "akasha/temper/characters-skills-morphs-addon/skill-morph-tracking/skill-morph-tracking.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/player-completion-state/completion-addon-constants/completion-addon-constants.module.code.ts"
 
-export const BUILD_CAPTURE_UPDATE = ADDON_NAME + "_BuildCaptureDelay"
+const BUILD_CAPTURE_UPDATE = ADDON_NAME + "_BuildCaptureDelay"
 
-export function scheduleBuildCapture(): undefined {
+function scheduleBuildCapture(): undefined {
   EVENT_MANAGER.UnregisterForUpdate(BUILD_CAPTURE_UPDATE)
   EVENT_MANAGER.RegisterForUpdate(BUILD_CAPTURE_UPDATE, 500, function (this: void): undefined {
     EVENT_MANAGER.UnregisterForUpdate(BUILD_CAPTURE_UPDATE)

@@ -20,7 +20,7 @@ const COMBAT_EVENT_CACHE: Record<number, UnitCache> = {}
 
 let UNIT_DEATHS_TO_PROCESS: Record<number, UnitCache> = {}
 
-export function createUnitCache(unitId: number): UnitCache {
+function createUnitCache(unitId: number): UnitCache {
   const cache: UnitCache = {
     unitId: unitId,
     nextKey: 0,
@@ -68,7 +68,7 @@ export function onUnitCacheDeath(cache: UnitCache, timems: number): undefined {
   return undefined
 }
 
-export function processDeath(cache: UnitCache): undefined {
+function processDeath(cache: UnitCache): undefined {
   const currentfight = getCurrentFight()
   const unit = currentfight.units[cache.unitId]
 
@@ -208,7 +208,7 @@ export function addUnitCacheEvent(
   return undefined
 }
 
-export function initUnitCacheResources(cache: UnitCache): undefined {
+function initUnitCacheResources(cache: UnitCache): undefined {
   const unit = getCurrentFight().units[cache.unitId]
 
   if (unit !== undefined) {

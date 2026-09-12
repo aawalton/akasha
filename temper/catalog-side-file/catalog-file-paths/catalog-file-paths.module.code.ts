@@ -3,9 +3,9 @@ import {
   savedVarsFile,
 } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 
-export const DEFAULT_SAVED_VARIABLES_PATH = savedVarsFile("TemperCatalog.lua")
+const DEFAULT_SAVED_VARIABLES_PATH = savedVarsFile("TemperCatalog.lua")
 
-export const DEFAULT_SIDE_FILE_PATH = addonsFile("TemperCatalog/TemperCatalogConfig.lua")
+const DEFAULT_SIDE_FILE_PATH = addonsFile("TemperCatalog/TemperCatalogConfig.lua")
 
 export function resolveSavedVariablesPath(override: string | undefined): string {
   return override ?? DEFAULT_SAVED_VARIABLES_PATH

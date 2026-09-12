@@ -1,6 +1,6 @@
 import { type Browser, type BrowserContext, chromium, type Page } from "playwright-core"
 
-export const TABLE_OF_CONTENTS_URL = "https://wanderinginn.com/table-of-contents/"
+const TABLE_OF_CONTENTS_URL = "https://wanderinginn.com/table-of-contents/"
 
 const USER_AGENT =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -29,7 +29,7 @@ const READ_CEILING_MS = 120_000
 const CHALLENGE_CEILING_MS = 30_000
 const CLOSE_CEILING_MS = 15_000
 
-export class ReadTookTooLong extends Error {}
+class ReadTookTooLong extends Error {}
 
 async function within<T>(what: string, ceilingMs: number, act: Promise<T>): Promise<T> {
   let timer: ReturnType<typeof setTimeout> | undefined

@@ -6,13 +6,9 @@ import type {
   ScriptEntry,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 
-export const SCRIBING_SLOTS = [
-  SCRIBING_SLOT_PRIMARY,
-  SCRIBING_SLOT_SECONDARY,
-  SCRIBING_SLOT_TERTIARY,
-]
+const SCRIBING_SLOTS = [SCRIBING_SLOT_PRIMARY, SCRIBING_SLOT_SECONDARY, SCRIBING_SLOT_TERTIARY]
 
-export function scanScribing(): ScribingProgress {
+function scanScribing(): ScribingProgress {
   const grimoires: Record<number, GrimoireEntry> = {}
   const scripts: Record<number, ScriptEntry> = {}
 

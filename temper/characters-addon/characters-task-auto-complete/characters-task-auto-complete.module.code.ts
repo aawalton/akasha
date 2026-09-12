@@ -26,7 +26,7 @@ import type {
 import { getSavedVariables } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 import type { TaskProgress } from "akasha/temper/player-completion-state/completion-task-progress/completion-task-progress.module.code.ts"
 
-export const AUTO_COMPLETE_UPDATE_NAME = ADDON_NAME + "_TaskAutoComplete"
+const AUTO_COMPLETE_UPDATE_NAME = ADDON_NAME + "_TaskAutoComplete"
 
 export function scheduleTaskAutoCompletionCheck(): undefined {
   EVENT_MANAGER.UnregisterForUpdate(AUTO_COMPLETE_UPDATE_NAME)
@@ -62,7 +62,7 @@ export function cleanStaleCompletions(): undefined {
   }
 }
 
-export function checkTaskAutoCompletion(): undefined {
+function checkTaskAutoCompletion(): undefined {
   const sv = getSavedVariables()
 
   const nowSec = GetTimeStamp()
@@ -166,7 +166,7 @@ export function checkTaskAutoCompletion(): undefined {
   refreshTaskHud()
 }
 
-export function autoUncompleteSkillMorphs(sv: SavedVariablesData, resetTs: number): undefined {
+function autoUncompleteSkillMorphs(sv: SavedVariablesData, resetTs: number): undefined {
   const cfg = getCharactersConfig()
   for (const [taskId, task] of Object.entries(cfg.tasks)) {
     if (task.completionCardId !== "skill-morphs") continue
@@ -182,10 +182,7 @@ export function autoUncompleteSkillMorphs(sv: SavedVariablesData, resetTs: numbe
   }
 }
 
-export function propagateNextCharacterCompletion(
-  sv: SavedVariablesData,
-  resetTs: number
-): undefined {
+function propagateNextCharacterCompletion(sv: SavedVariablesData, resetTs: number): undefined {
   const currentCharId = GetCurrentCharacterId()
   const cfg = getCharactersConfig()
   for (const [taskId, task] of Object.entries(cfg.tasks)) {
@@ -204,7 +201,7 @@ export function propagateNextCharacterCompletion(
   }
 }
 
-export function checkAllCharactersCompletion(sv: SavedVariablesData, resetTs: number): undefined {
+function checkAllCharactersCompletion(sv: SavedVariablesData, resetTs: number): undefined {
   const characterIds = Object.keys(sv.characters)
   if (characterIds.length === 0) return
 
@@ -231,7 +228,7 @@ export function checkAllCharactersCompletion(sv: SavedVariablesData, resetTs: nu
   }
 }
 
-export function resolveProgressForTask(task: TaskData): TaskProgress | undefined {
+function resolveProgressForTask(task: TaskData): TaskProgress | undefined {
   if (task.scope === "next_character") {
     return resolveNextCharacterProgress(task)
   }
@@ -239,7 +236,7 @@ export function resolveProgressForTask(task: TaskData): TaskProgress | undefined
   return resolveTaskProgress(task)
 }
 
-export function resolveNextCharacterProgress(task: TaskData): TaskProgress | undefined {
+function resolveNextCharacterProgress(task: TaskData): TaskProgress | undefined {
   const progress = resolveTaskProgress(task)
   if (progress === undefined) return undefined
   if (isCurrentCharacterNext(task)) return progress

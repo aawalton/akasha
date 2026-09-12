@@ -13,7 +13,7 @@ import {
 import { getSelections } from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
 import { optionalNumberValue } from "akasha/temper/combat-addon/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"
 
-export const POSTTOCHAT_MODE_NONE = 0
+const POSTTOCHAT_MODE_NONE = 0
 export const POSTTOCHAT_MODE_SINGLE = 1
 export const POSTTOCHAT_MODE_MULTI = 2
 export const POSTTOCHAT_MODE_SINGLEANDMULTI = 3

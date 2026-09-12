@@ -1,9 +1,9 @@
-export const ALLIANCE_ESO_ID_TO_INDEX: Record<number, number> = {
+const ALLIANCE_ESO_ID_TO_INDEX: Record<number, number> = {
   [1]: 1,
   [2]: 2,
   [3]: 3,
 }
-export const ALLIANCE_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
+const ALLIANCE_ESO_ID_TO_TEMPER_ID: Record<number, string> = {
   [1]: "aldmeri-dominion",
   [2]: "ebonheart-pact",
   [3]: "daggerfall-covenant",

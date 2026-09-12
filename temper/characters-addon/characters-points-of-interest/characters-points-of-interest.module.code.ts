@@ -2,7 +2,7 @@ import { mergeIdList } from "akasha/temper/characters-addon/characters-collector
 import { currentCharacterEntry } from "akasha/temper/characters-addon/characters-current-entry/characters-current-entry.module.code.ts"
 import type { SparsePoiDiscovery } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 
-export function scanPointsOfInterest(this: void): SparsePoiDiscovery {
+function scanPointsOfInterest(this: void): SparsePoiDiscovery {
   const result: SparsePoiDiscovery = {}
   let zoneId = GetNextZoneStoryZoneId(undefined)
   while (zoneId !== undefined) {

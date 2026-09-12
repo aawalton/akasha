@@ -49,7 +49,7 @@ export function compilerRoot(stated?: string): string {
   return stated ?? join(akashaAt(), compilerPackage())
 }
 
-export function luaPluginsArgument(root: string): string {
+function luaPluginsArgument(root: string): string {
   return JSON.stringify(PLUGINS.map((one) => ({ name: join(root, underCompiler(one.id)) })))
 }
 

@@ -152,7 +152,7 @@ export function getCustomMenuFunction<TParam>(
   }
 }
 
-export function plotSelectionMenu(this: void, selector: Control): undefined {
+function plotSelectionMenu(this: void, selector: Control): undefined {
   ClearMenu()
 
   setLastPlotSelector(selector)

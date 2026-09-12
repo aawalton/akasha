@@ -17,7 +17,7 @@ interface SelectorButtonMeta extends Control {
 
 type SelectorButton = SelectorButtonMeta & TextureControl
 
-export function selectCategory(this: void, button: SelectorButton): undefined {
+function selectCategory(this: void, button: SelectorButton): undefined {
   const selectControl = button.GetParent()
   if (selectControl == null) {
     return undefined
@@ -44,7 +44,7 @@ export function selectCategory(this: void, button: SelectorButton): undefined {
   return undefined
 }
 
-export function selectMainPanel(this: void, button: SelectorButton): undefined {
+function selectMainPanel(this: void, button: SelectorButton): undefined {
   const selectControl = button.GetParent()
   if (selectControl == null) {
     return undefined

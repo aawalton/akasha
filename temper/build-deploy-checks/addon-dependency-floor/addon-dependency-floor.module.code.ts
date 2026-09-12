@@ -88,7 +88,7 @@ export interface DependencyFloorAudit {
 
 const COMPARATORS = [">=", "<=", ">", "<", "="] as const
 
-export function parseDependencyToken(dep: string): DependencyToken | null {
+function parseDependencyToken(dep: string): DependencyToken | null {
   const trimmed = dep.trim()
   const provider = stripVersionSuffix(trimmed)
   if (provider.length === 0) return null
