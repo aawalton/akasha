@@ -7,18 +7,18 @@ export const hook = {
   definition: "how a tool call is judged",
   pluralSlug: "hooks",
   parts: [
-    "page-type/agent-hook",
     "module/bun-calls",
     "module/chain-refusal",
     "module/git-calls",
     "module/hook-answer",
+    "module/hook-dispatch",
     "module/hook-judging",
+    "module/hook-links",
     "module/hook-payload",
     "module/path-showing",
     "module/settling",
     "module/shell-calls",
-    "module/hook-dispatch",
-    "module/hook-links",
+    "page-type/agent-hook",
   ],
   invariants: [
     {

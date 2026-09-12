@@ -7,11 +7,11 @@ export const claudeCodeSession = {
   definition: "one conversation Claude Code can pick up again",
   parts: [
     "domain/claude-code-session-store",
-    "module/session-jsonl-schema",
     "module/session-jsonl",
-    "module/transcript-materialize",
+    "module/session-jsonl-schema",
     "module/session-stream",
     "module/session-watch",
+    "module/transcript-materialize",
   ],
   invariants: [
     {
