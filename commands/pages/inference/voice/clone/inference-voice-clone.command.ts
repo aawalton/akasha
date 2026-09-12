@@ -45,6 +45,10 @@ export const inferenceVoiceClone = {
     { argument: "argument/text-file" },
     { argument: "argument/ref-text-file" },
     { argument: "argument/ref-text", notWith: ["argument/ref-text-file"] },
-    { argument: "argument/spoken-text", notWith: ["argument/text-file"] },
+    {
+      argument: "argument/spoken-text",
+      notWith: ["argument/text-file"],
+      oneOf: ["argument/text-file"],
+    },
   ],
 } as const satisfies Command

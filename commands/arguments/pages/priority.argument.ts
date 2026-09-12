@@ -8,4 +8,5 @@ export const priority = {
   takes: "which lane of the traffic cop the request waits in",
   value: "text",
   placeholder: "lane",
+  default: "normal",
 } as const satisfies Argument
