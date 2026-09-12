@@ -17,7 +17,6 @@ export const inferenceEdit = {
     { said: "--engine <name>", takes: "the engine the edit goes through" },
     { said: "--aspect-ratio <ratio>", takes: "the shape the output is fixed to" },
     { said: "--size <1K|2K|4K>", takes: "the size the output is fixed to" },
-    { said: "--no-persist", takes: "leave the image where it was written and file no page for it" },
   ],
   invariants: [
     {
@@ -54,5 +53,9 @@ export const inferenceEdit = {
     },
   ],
   name: "edit",
-  arguments: [{ argument: "argument/output" }, { argument: "argument/timeout" }],
+  arguments: [
+    { argument: "argument/output" },
+    { argument: "argument/timeout" },
+    { argument: "argument/no-persist" },
+  ],
 } as const satisfies Command

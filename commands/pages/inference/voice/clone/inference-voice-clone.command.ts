@@ -20,7 +20,6 @@ export const inferenceVoiceClone = {
       said: "--mode <how>",
       takes: "whether the clip is the voice to match or a tail to carry on from",
     },
-    { said: "--no-persist", takes: "leave the audio where it was written and file no page for it" },
   ],
   invariants: [
     {
@@ -50,5 +49,9 @@ export const inferenceVoiceClone = {
     },
   ],
   name: "clone",
-  arguments: [{ argument: "argument/output" }, { argument: "argument/timeout" }],
+  arguments: [
+    { argument: "argument/output" },
+    { argument: "argument/timeout" },
+    { argument: "argument/no-persist" },
+  ],
 } as const satisfies Command

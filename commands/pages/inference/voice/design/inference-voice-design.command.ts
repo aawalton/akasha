@@ -19,7 +19,6 @@ export const inferenceVoiceDesign = {
     { said: "--text-file <path>", takes: "that text read from a path, or `-` for standard input" },
     { said: "--service <name>", takes: "the backend the voice is made on" },
     { said: "--lang <name>", takes: "the language the speaking is in" },
-    { said: "--no-persist", takes: "leave the audio where it was written and file no page for it" },
   ],
   invariants: [
     {
@@ -53,5 +52,5 @@ export const inferenceVoiceDesign = {
     },
   ],
   name: "design",
-  arguments: [{ argument: "argument/output" }],
+  arguments: [{ argument: "argument/output" }, { argument: "argument/no-persist" }],
 } as const satisfies Command
