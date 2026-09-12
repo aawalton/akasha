@@ -119,7 +119,12 @@ export const inventoryRuleCalling = {
     {
       invariantKind: "stopgap",
       statement:
-        "Every write here is worked out and then refused by the store this module writes through.",
+        "An item rule or buy rule write is worked out and then refused, since only a rule is a page yet.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A category rule write lands as page files, since a category rule is a page already.",
     },
     {
       invariantKind: "gap",
