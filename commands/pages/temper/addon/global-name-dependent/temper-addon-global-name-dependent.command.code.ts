@@ -1,8 +1,14 @@
 import { readdirSync, readFileSync, statSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
+import { global as globalArgument } from "akasha/commands/arguments/pages/global.argument.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { temperAddonGlobalNameDependent as page } from "akasha/commands/pages/temper/addon/global-name-dependent/temper-addon-global-name-dependent.command.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import {
   type DependentSourceFile,
@@ -13,18 +19,8 @@ import { addonManifestSchema } from "akasha/temper/addons-resolve/addon-json/add
 import { addonManifestPathIn } from "akasha/temper/addons-resolve/addon-manifest-file/addon-manifest-file.module.code.ts"
 import { listAllAddons } from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
 import { collectGlobalWritesFromSource } from "akasha/temper/build-deploy-checks/addon-global-ownership/addon-global-ownership.module.code.ts"
-import {
-  namesIn,
-  valuesOf,
-} from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 
-const GLOBAL_FLAG = "--global"
-
-const CODE_ROOT_FLAG = "--code-root"
-
-const JSON_FLAG = "--json"
-
-const TAKING_A_VALUE = [GLOBAL_FLAG, CODE_ROOT_FLAG]
+const NAMED = [codeRootArgument, globalArgument, json]
 
 const PASSED_OVER = ["node_modules", "dist", "generated"]
 
@@ -125,9 +121,12 @@ function linesFor(report: GlobalDependentReport): readonly string[] {
   return lines
 }
 
-export function temperAddonGlobalNameDependent(argv: readonly string[] = []): Answer {
-  const root = resolve(valuesOf(argv, CODE_ROOT_FLAG)[0] ?? codeRoot())
-  const named = valuesOf(argv, GLOBAL_FLAG)[0] ?? namesIn(argv, TAKING_A_VALUE)[0]
+export function temperAddonGlobalNameDependent(argv: readonly string[], given: Given): Answer {
+  const read = takenFor(argv, given.calledAs, page, NAMED)
+  if ("refused" in read) return mistaking(read.refused)
+  const taken = read.taken
+  const root = resolve(taken.codeRoot ?? codeRoot())
+  const named = taken.global
 
   const addons = listAllAddons({ repoRoot: root })
   if (addons.length === 0) {
@@ -146,7 +145,7 @@ export function temperAddonGlobalNameDependent(argv: readonly string[] = []): An
           .filter((one) => one.dependents.some((dep) => dep.kind === BOUND))
       : [enumerateGlobalDependents({ global: named, files: sources })]
 
-  if (argv.includes(JSON_FLAG)) {
+  if (taken.json) {
     return { report: reports.map((one) => JSON.stringify(one)), refusals: [], code: OK }
   }
 
