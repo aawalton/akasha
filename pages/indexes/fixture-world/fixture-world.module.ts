@@ -22,12 +22,19 @@ export const fixtureWorld = {
     {
       invariantKind: "departure",
       statement:
-        "A change's code is reached by its package name rather than by folders counted up.",
+        "A change's code is reached from the akasha folder above rather than by folders counted up.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Moving this module changes how many folders up that code sits, and the name none.",
+      statement: "Moving this module leaves where that folder is found the same.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That folder is found by walking up rather than by a package name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A world built under a test overlay resolves no package name of its own.",
     },
   ],
 } as const satisfies Module

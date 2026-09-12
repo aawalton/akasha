@@ -1,5 +1,6 @@
 import { cpSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { said as git } from "akasha/git/running/git-running.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { refreshedWhole } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
@@ -116,7 +117,7 @@ export const named = ${HELD_EXPORT} + 1
 
 const CHANGE_TYPE = "change-mechanical"
 
-const CHANGE_CODE_AT = "akasha/changes"
+const CHANGE_CODE_AT = "changes"
 
 type Reached = { readonly slug: string; readonly type: string; readonly at: string }
 
@@ -164,8 +165,8 @@ const changePage = (reached: Reached, one: number): Held => ({
 
 const changeCode = (reached: Reached): string => {
   const named = `${reached.slug}.${reached.type}.code.ts`
-  const said = `${CHANGE_CODE_AT}/${reached.at}/${reached.slug}/${named}`
-  return `export { runChange } from "${Bun.resolveSync(said, import.meta.dir)}"\n`
+  const at = join(rootOf(import.meta.dir), CHANGE_CODE_AT, reached.at, reached.slug, named)
+  return `export { runChange } from "${at}"\n`
 }
 
 function changesHeld(): Readonly<Record<string, string>> {
