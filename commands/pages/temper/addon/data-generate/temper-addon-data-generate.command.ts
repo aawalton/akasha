@@ -13,11 +13,12 @@ export const temperAddonDataGenerate = {
       takes: "the checkout the game data is read from and the files are written into",
     },
   ],
-  helpNotes: [
-    "the checkout defaults to what `CODE_ROOT` names, and to this repository where that names nothing.",
-    "the emitted data is ruled against the hand-written equipment mappings, and a difference refuses the call.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "A call naming no checkout reads and writes what `CODE_ROOT` names, else this repository.",
+    },
     {
       invariantKind: "departure",
       statement: "The data is written from the pages rather than from a captured file.",
