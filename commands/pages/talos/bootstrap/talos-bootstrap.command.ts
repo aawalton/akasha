@@ -47,5 +47,5 @@ export const talosBootstrap = {
     },
   ],
   name: "bootstrap",
-  arguments: [{ argument: "argument/cluster" }, { argument: "argument/ip" }],
+  arguments: [{ argument: "argument/cluster" }, { argument: "argument/ip", required: true }],
 } as const satisfies Command
