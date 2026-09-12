@@ -254,27 +254,7 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "A landing another landing's lock refused is asked for again.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A landing refused for a tree that moved under the landing is asked for again.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The words each of those refusals is known by come from the module wording it.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A refusal naming neither is answered at once.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A landing is asked for five times at most.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An ask is made thirty seconds after the ask that refused.",
+      statement: "Whether a landing here is asked for again is judged by the module asking again.",
     },
     {
       invariantKind: "departure",

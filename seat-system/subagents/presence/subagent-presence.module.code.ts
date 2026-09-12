@@ -5,8 +5,6 @@ import { editsWaiting } from "akasha/changes/modules/edits-keeping/edits-keeping
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { createSubagentReader } from "akasha/code/editor/extension/subagent-reading/subagent-reading.module.code.ts"
-import { PUT_BACK } from "akasha/commands/modules/change-freshness/change-freshness.module.code.ts"
-import { LOCK_AT } from "akasha/git/holding/holding.module.code.ts"
 import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
 import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
@@ -25,6 +23,10 @@ import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { transcriptOf } from "akasha/seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
 import { subagentPageInHistory } from "akasha/seat-system/subagent-page-history/subagent-page-history.module.code.ts"
 import { movedOnto } from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
+import {
+  landingAgain,
+  type Went,
+} from "akasha/seat-system/subagents/landing-again/subagent-landing-again.module.code.ts"
 import { subagentStarted } from "akasha/seat-system/subagents/properties/subagent-started.number-property.ts"
 import { supervisorsRootDir } from "akasha/seat-system/supervisor-log-path/supervisor-log-path.module.code.ts"
 import { asNumber } from "akasha/utils/narrow/as-number/as-number.module.code.ts"
@@ -71,8 +73,6 @@ export type Landing = (
   changes: readonly Asking[],
   message: string
 ) => ReturnType<typeof runMechanicalChange>
-
-export type Went = { readonly went: true } | { readonly why: string }
 
 const WENT: Went = { went: true }
 
@@ -368,30 +368,6 @@ export function stampedAt(when: Date): string {
     `.${padded(when.getMilliseconds(), 3)}${off < 0 ? "-" : "+"}` +
     `${padded(Math.floor(held / 60))}:${padded(held % 60)}`
   )
-}
-
-export const TRIES = 5
-
-export const WAIT_MS = 30_000
-
-export function worthAnotherTry(why: string): boolean {
-  return why.includes(LOCK_AT) || why.includes(PUT_BACK)
-}
-
-export async function sleeping(ms: number): Promise<void> {
-  await Bun.sleep(ms)
-}
-
-export async function landingAgain(
-  ask: () => Promise<Went>,
-  waited: (ms: number) => Promise<void> = sleeping
-): Promise<Went> {
-  let went = await ask()
-  for (let tried = 1; tried < TRIES && "why" in went && worthAnotherTry(went.why); tried += 1) {
-    await waited(WAIT_MS)
-    went = await ask()
-  }
-  return went
 }
 
 export function lineFor(why: string): string {

@@ -11,10 +11,10 @@ import {
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { standingSubagentsOf } from "akasha/seat-system/subagent-page/subagent-page.module.code.ts"
+import type { Went } from "akasha/seat-system/subagents/landing-again/subagent-landing-again.module.code.ts"
 import {
   slugOf,
   took,
-  type Went,
 } from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
 import { landingNaming } from "akasha/seat-system/subagents/presence/subagent-presence.module.test-fixtures.ts"
 import { declaringUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"

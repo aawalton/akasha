@@ -8,13 +8,13 @@ import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
 import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { refusalsSaid } from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
+import { worthAnotherTry } from "akasha/seat-system/subagents/landing-again/subagent-landing-again.module.code.ts"
 import {
   agentIdOf,
   asking,
   assignedTo,
   bodyOf,
   LOG_AT,
-  landingAgain,
   logPathOf,
   pathIn,
   pathOf,
@@ -23,19 +23,14 @@ import {
   slugOf,
   stampedAt,
   startedIn,
-  TRIES,
   took,
-  WAIT_MS,
   WRITING,
-  worthAnotherTry,
   wrote,
 } from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
 import {
   AGENT,
   ANOTHER,
   BODY_STATES,
-  counting,
-  GOING,
   HELD_ASSIGNMENT,
   HELD_ID,
   HELD_LANDING,
@@ -46,14 +41,12 @@ import {
   inTwoScratch,
   keptBySeat,
   LANDS,
-  LOCKED,
   landedAt,
   landedUnder,
   landingNaming,
   lockHeldIn,
   loggedAt,
   MECHANICAL,
-  MOVED,
   messageIn,
   NOTHING_KEPT,
   OWN,
@@ -61,7 +54,6 @@ import {
   pageUnder,
   pastTheStamp,
   REFUSAL,
-  REFUSED,
   ROW,
   readingKept,
   SEAT_AT,
@@ -357,29 +349,3 @@ test("a write the seat's assignment refuses leaves its reason in the log", async
     expect(held).toContain("no assignment is stated")
   })
 }, 40000)
-
-test("a landing refused for a held lock is asked for again until that landing goes", async () => {
-  const run = counting([LOCKED, LOCKED, GOING])
-  expect(await landingAgain(run.ask, run.waited)).toEqual(GOING)
-  expect(run.count()).toBe(3)
-  expect(run.waits).toEqual([WAIT_MS, WAIT_MS])
-})
-
-test("a landing refused for a held lock every time is asked for five times and no more", async () => {
-  const run = counting([LOCKED])
-  expect(await landingAgain(run.ask, run.waited)).toEqual(LOCKED)
-  expect(run.count()).toBe(TRIES)
-})
-
-test("a landing refused because the tree moved under it is asked for again", async () => {
-  const run = counting([MOVED, GOING])
-  expect(await landingAgain(run.ask, run.waited)).toEqual(GOING)
-  expect(run.count()).toBe(2)
-})
-
-test("a refusal naming no held lock is answered at once and waits for nothing", async () => {
-  const run = counting([REFUSED])
-  expect(await landingAgain(run.ask, run.waited)).toEqual(REFUSED)
-  expect(run.count()).toBe(1)
-  expect(run.waits).toEqual([])
-})
