@@ -63,7 +63,6 @@ export const extension = {
     "module/work-tree-dragging",
     "module/work-tree-panel",
     "module/agent-row",
-    "module/agent-forest-answer",
     "module/seat-tab-context",
     "module/subagent-checkpoints",
     "module/column-memory",
