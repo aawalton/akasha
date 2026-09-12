@@ -2,6 +2,7 @@ import { dirname, relative } from "node:path"
 import { fileOf } from "akasha/pages/indexes/property-file/property-file.module.code.ts"
 import { valuedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import { SHELL_INIT } from "akasha/shell/terminal/terminal-calls/terminal-calls.module.code.ts"
 
 const SCRIPT = "shell-script"
 
@@ -158,13 +159,12 @@ export function bodyIn(given: string | Reading): string {
     'export BUN_INSTALL="$HOME/.bun"',
     'export PATH="$BUN_INSTALL/bin:$PATH"',
     "",
-    "# personal cli. The set of shell functions is composed by `akasha infrastructure shell-init-bash`,",
-    "# which sits at `akasha/commands/pages/infrastructure/shell-init-bash/`. It composed nothing here",
-    "# for a while: the generator it replaced kept being evalled after its own imports had stopped",
-    "# resolving, and a generator that exits nonzero inside `$(...)` leaves the shell with no functions",
-    "# and says nothing.",
+    `# personal cli. The set of shell functions is composed by \`akasha ${SHELL_INIT}\`. It composed`,
+    "# nothing here for a while: the generator it replaced kept being evalled after its own imports had",
+    "# stopped resolving, and a generator that exits nonzero inside `$(...)` leaves the shell with no",
+    "# functions and says nothing.",
     "# `_akasha_reload` probes this same spelling on every launch, so the two agree by construction.",
-    `eval "$("${launcherIn(given)}" infrastructure shell-init-bash)"`,
+    `eval "$("${launcherIn(given)}" ${SHELL_INIT})"`,
     "export DISABLE_COST_WARNINGS=1",
     "",
     "",

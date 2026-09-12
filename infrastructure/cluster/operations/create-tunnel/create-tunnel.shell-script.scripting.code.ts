@@ -1,4 +1,5 @@
 import { basename, dirname, relative } from "node:path"
+import { SECRET_SET } from "akasha/infrastructure/infrastructure-calls/infrastructure-calls.module.code.ts"
 import { secretAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { fileOf } from "akasha/pages/indexes/property-file/property-file.module.code.ts"
 import { valuedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
@@ -121,10 +122,10 @@ export function bodyIn(given: string | Reading): string {
     "# The value is piped in, so it is enciphered before it reaches disk and never",
     "# written anywhere in the clear. What names the Secret, its namespace, its type",
     "# and its labels is the workflow step placing the page, not this script.",
-    'if ! printf \'%s\' "$(< "$CREDS_FILE")" | (cd "$AKASHA_ROOT" && akasha page secret set \\',
+    `if ! printf '%s' "$(< "$CREDS_FILE")" | (cd "$AKASHA_ROOT" && akasha ${SECRET_SET} \\`,
     '  --file-path "$CREDS_PAGE" --key value \\',
     '  --message "put the ${TUNNEL_NAME} tunnel\'s credentials into the page holding them"); then',
-    '  die "akasha page secret set refused the credentials — the tunnel is created but unheld"',
+    `  die "akasha ${SECRET_SET} refused the credentials — the tunnel is created but unheld"`,
     "fi",
     'ok "Credentials held by ${CREDS_PAGE}"',
     "",
@@ -138,7 +139,7 @@ export function bodyIn(given: string | Reading): string {
     'ok "================================================================"',
     'echo ""',
     'log "Next steps:"',
-    'echo "  1. The credentials are committed already — akasha page secret set landed them."',
+    `echo "  1. The credentials are committed already — akasha ${SECRET_SET} landed them."`,
     "echo \"  2. Commit the tunnel id:  git add ${TUNNEL_CONFIG} && git commit -m 'Bootstrap cloudflared tunnel'\"",
     'echo "  3. Push:                  git push (CI will place the secret, apply the configmap and sync DNS)"',
   ]
