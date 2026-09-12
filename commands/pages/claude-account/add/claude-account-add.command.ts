@@ -7,6 +7,7 @@ export const claudeAccountAdd = {
   definition:
     "the command filing a page for a claude account and giving it the next free alias slot",
   code: "ts",
+  test: "ts",
   taking: [],
   invariants: [
     {
@@ -56,6 +57,18 @@ export const claudeAccountAdd = {
     {
       invariantKind: "departure",
       statement: "The change adding a file writes the page rather than an edit composed here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that threw after the commit landed names that commit in its refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that threw before the commit landed is refused as the fault alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that threw carries the kind of fault the throw names.",
     },
     {
       invariantKind: "departure",
