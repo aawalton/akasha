@@ -129,10 +129,6 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag nothing follows is refused.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A word this module reads as neither a count nor a period is refused.",
     },
     {

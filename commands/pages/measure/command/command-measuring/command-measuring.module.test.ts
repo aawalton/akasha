@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { linesOf, windowIn } from "akasha/checks/modules/measuring/check-measuring.module.code.ts"
+import { linesOf, windowOf } from "akasha/checks/modules/measuring/check-measuring.module.code.ts"
 import {
   agoOf,
   DAY,
@@ -115,8 +115,7 @@ test("the runs are gathered under the command that ran", () => {
 })
 
 test("a window is chosen by the rule the check measuring chooses one by", () => {
-  expect(windowIn(["--since", "24h"]).chosen).toBe(null)
-  expect(windowIn(["--last", "24h"]).chosen).toEqual({ by: "period", ms: DAY, said: "24h" })
+  expect(windowOf("24h").chosen).toEqual({ by: "period", ms: DAY, said: "24h" })
 })
 
 test("the rows are drawn by the rule the check measuring draws its rows by", () => {

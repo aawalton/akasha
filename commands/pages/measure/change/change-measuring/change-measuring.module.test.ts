@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import {
   linesOf,
   partsIn,
-  windowIn,
+  windowOf,
 } from "akasha/checks/modules/measuring/check-measuring.module.code.ts"
 import {
   agoOf,
@@ -115,9 +115,8 @@ test("the runs are gathered under what ran rather than under the page read", () 
 })
 
 test("a window is chosen by the rule the check measuring chooses one by", () => {
-  expect(windowIn(["--since", "24h"]).chosen).toBe(null)
-  expect(windowIn(["--last", "3"]).chosen).toEqual({ by: "runs", runs: 3 })
-  expect(windowIn(["--last", "24h"]).chosen).toEqual({ by: "period", ms: DAY, said: "24h" })
+  expect(windowOf("3").chosen).toEqual({ by: "runs", runs: 3 })
+  expect(windowOf("24h").chosen).toEqual({ by: "period", ms: DAY, said: "24h" })
 })
 
 test("a count of runs names the most recent runs over both pages together", () => {
