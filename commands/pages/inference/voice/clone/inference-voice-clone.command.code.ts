@@ -1,11 +1,27 @@
 import { access, writeFile } from "node:fs/promises"
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import {
+  type TakenFor,
+  takenFor,
+} from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { mode as modeArgument } from "akasha/commands/arguments/pages/mode.argument.ts"
+import { noPersist } from "akasha/commands/arguments/pages/no-persist.argument.ts"
+import { output as outputArgument } from "akasha/commands/arguments/pages/output.argument.ts"
+import { priority as priorityArgument } from "akasha/commands/arguments/pages/priority.argument.ts"
+import { refAudio as refAudioArgument } from "akasha/commands/arguments/pages/ref-audio.argument.ts"
+import { refText as refTextArgument } from "akasha/commands/arguments/pages/ref-text.argument.ts"
+import { refTextFile } from "akasha/commands/arguments/pages/ref-text-file.argument.ts"
+import { spokenText } from "akasha/commands/arguments/pages/spoken-text.argument.ts"
+import { textFile } from "akasha/commands/arguments/pages/text-file.argument.ts"
+import { timeout as timeoutArgument } from "akasha/commands/arguments/pages/timeout.argument.ts"
+import {
   answering,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { filing, filledIn } from "akasha/commands/modules/filling/command-filling.module.code.ts"
+import { inferenceVoiceClone as page } from "akasha/commands/pages/inference/voice/clone/inference-voice-clone.command.ts"
 import { buildCopFetchInit } from "akasha/infrastructure/inference/clients/cop-fetch/cop-fetch.module.code.ts"
 import {
   ensureOutputDir,
@@ -17,16 +33,9 @@ import {
   copPriorityHeaders,
 } from "akasha/infrastructure/inference/clients/voice-clone-client/voice-clone-client.module.code.ts"
 import {
-  countAt,
-  heldOr,
   madeOf,
-  oneOf,
-  proseAt,
-  proseNeededAt,
   serviceNamed,
   targetOf,
-  wasRefused,
-  wordsIn,
   wroteTo,
 } from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
 import { scpUpload } from "akasha/infrastructure/inference/pool/inference-ssh/inference-ssh.module.code.ts"
@@ -34,33 +43,24 @@ import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/re
 import { recordInferenceRun } from "akasha/infrastructure/inference/runs/store/inference-run-store.module.code.ts"
 import { SCRATCH_AT } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
-const TEXT = "--text"
-
-const REF_AUDIO = "--ref-audio"
-
-const REF_TEXT = "--ref-text"
-
-const OUTPUT = "--output"
-
-const PRIORITY = "--priority"
-
-const TIMEOUT = "--timeout"
-
-const MODE = "--mode"
-
-const NO_PERSIST = "--no-persist"
-
-const TAKING = [
-  { said: TEXT, prose: true },
-  { said: REF_AUDIO },
-  { said: REF_TEXT, prose: true },
-  { said: OUTPUT },
-  { said: PRIORITY },
-  { said: TIMEOUT },
-  { said: MODE },
+const PAGES = [
+  modeArgument,
+  noPersist,
+  outputArgument,
+  priorityArgument,
+  refAudioArgument,
+  refTextArgument,
+  refTextFile,
+  spokenText,
+  textFile,
+  timeoutArgument,
 ]
 
-const SWITCHES = [NO_PERSIST]
+type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
+
+const TEXT = filing(spokenText.said)
+
+const REF_TEXT = filing(refTextArgument.said)
 
 const PRIORITIES = ["normal", "high"] as const
 
@@ -90,42 +90,61 @@ function isMode(one: string): one is Mode {
   return (MODES as readonly string[]).includes(one)
 }
 
-export async function inferenceVoiceClone(argv: readonly string[], given: Given): Promise<Answer> {
-  const said = wordsIn(argv, TAKING, SWITCHES)
-  if (wasRefused(said)) return refusedBy(said.refused)
-
-  const refusals: string[] = said.loose.map(
-    (one) => `\`${one}\` follows nothing this takes — it takes flags alone`
-  )
-  const text = heldOr(await proseNeededAt(said, TEXT), refusals)
-  const refTextSaid = heldOr(await proseAt(said, REF_TEXT), refusals) ?? undefined
-  const timeout =
-    heldOr(countAt(said, TIMEOUT, DEFAULT_TIMEOUT_SEC), refusals) ?? DEFAULT_TIMEOUT_SEC
-  const priorityRaw = heldOr(oneOf(said, PRIORITY, [...PRIORITIES], PRIORITIES[0]), refusals)
-  const modeRaw = heldOr(oneOf(said, MODE, [...MODES], undefined), refusals) ?? undefined
-
-  const refAudio = said.named[REF_AUDIO]
-  if (refAudio !== undefined && refTextSaid === undefined) {
-    refusals.push(`\`${REF_AUDIO}\` names a clip, and \`${REF_TEXT}\` says what that clip says`)
+export function wrongIn(taken: Taken): readonly string[] {
+  const wrong: string[] = []
+  if (!isPriority(taken.priority)) {
+    const lane = taken.priority
+    const said = priorityArgument.said
+    wrong.push(`\`${said}\` takes one of ${PRIORITIES.join(", ")}, and \`${lane}\` is none of them`)
   }
-  if (refusals.length > 0 || text === null || priorityRaw === null) return refusedBy(refusals)
+  const how = taken.mode
+  if (how !== undefined && !isMode(how)) {
+    const said = modeArgument.said
+    wrong.push(`\`${said}\` takes one of ${MODES.join(", ")}, and \`${how}\` is none of them`)
+  }
+  const lacking = taken.refText === undefined && taken.refTextFile === undefined
+  if (taken.refAudio !== undefined && lacking) {
+    const said = refAudioArgument.said
+    wrong.push(`\`${said}\` names a clip, and \`${refTextArgument.said}\` says what that clip says`)
+  }
+  return wrong
+}
 
-  const priority: Priority =
-    priorityRaw !== undefined && isPriority(priorityRaw) ? priorityRaw : "normal"
-  const mode: Mode | undefined = modeRaw !== undefined && isMode(modeRaw) ? modeRaw : undefined
+export async function inferenceVoiceClone(argv: readonly string[], given: Given): Promise<Answer> {
+  const read = takenFor(argv, given.calledAs, page, PAGES)
+  if ("refused" in read) return refusedBy(read.refused)
+  const taken: Taken = read.taken
+
+  const wrong = wrongIn(taken)
+  if (wrong.length > 0) return refusedBy(wrong)
+
+  const spoken = filledIn(given.root, taken.spokenText, taken.textFile, TEXT)
+  if ("refused" in spoken) return refusedBy(spoken.refused)
+  const transcript = filledIn(given.root, taken.refText, taken.refTextFile, REF_TEXT)
+  if ("refused" in transcript) return refusedBy(transcript.refused)
+
+  const text = spoken.text ?? ""
+  const refTextSaid = transcript.text
+  const timeout = taken.timeout ?? DEFAULT_TIMEOUT_SEC
+  const refAudio = taken.refAudio
+  const priority: Priority = isPriority(taken.priority) ? taken.priority : "normal"
+  const how = taken.mode
+  const mode: Mode | undefined = how !== undefined && isMode(how) ? how : undefined
 
   return await answering(async () => {
     if (refAudio !== undefined) {
       try {
         await access(refAudio)
       } catch {
-        return refusedBy([`\`${REF_AUDIO}\` names \`${refAudio}\`, which will not read`])
+        return refusedBy([
+          `\`${refAudioArgument.said}\` names \`${refAudio}\`, which will not read`,
+        ])
       }
     }
 
     const reached = serviceNamed(SERVICE)
     const nowMs = Date.now()
-    const outputPath = resolveOutputPath("voice-clone", said.named[OUTPUT], nowMs)
+    const outputPath = resolveOutputPath("voice-clone", taken.output, nowMs)
     const stamp = `${process.pid}-${nowMs}`
     const refAudioRemote =
       refAudio === undefined
@@ -179,7 +198,7 @@ export async function inferenceVoiceClone(argv: readonly string[], given: Given)
         report.push(wroteTo(outputPath, wav, "audio"))
         return { outputPath, outputBytes: wav }
       },
-      { persist: !said.flags.has(NO_PERSIST) }
+      { persist: !taken.noPersist }
     )
     return told(report)
   })

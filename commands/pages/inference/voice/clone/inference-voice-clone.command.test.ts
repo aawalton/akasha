@@ -13,7 +13,15 @@ const GIVEN: Given = {
 test("naming no text either way is refused", async () => {
   const said = await inferenceVoiceClone([], GIVEN)
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("`--text`")
+  expect(said.refusals[0]).toBe(
+    "`akasha inference voice clone` takes `--text-file` or `--text`, and nothing said either"
+  )
+})
+
+test("a value said at the flag with an equals sign is taken", async () => {
+  const said = await inferenceVoiceClone(["--text=hi", "--priority=urgent"], GIVEN)
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("`urgent` is none of them")
 })
 
 test("a lane the traffic cop does not hold is refused", async () => {
