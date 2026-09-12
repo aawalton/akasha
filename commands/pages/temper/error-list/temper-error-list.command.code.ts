@@ -183,7 +183,7 @@ function staleAfterIn(argv: readonly string[]): number | string {
   return hours
 }
 
-export async function temperErrorsList(argv: readonly string[] = []): Promise<Answer> {
+export async function temperErrorList(argv: readonly string[] = []): Promise<Answer> {
   const staleAfterHours = staleAfterIn(argv)
   if (typeof staleAfterHours === "string") return refused(staleAfterHours, INPUT)
 
