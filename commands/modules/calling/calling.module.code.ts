@@ -5,8 +5,8 @@ import { argumentsNamed } from "akasha/commands/arguments/naming/argument-naming
 import {
   DATA,
   INPUT,
-  OK,
   refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
   helpOf,
@@ -274,11 +274,7 @@ async function calledAt(
         ...rulesAbove(levelsIn(root, levelTypesIn(root)), above),
         ...(page === null ? [] : rulesIn(page)),
       ]
-      return {
-        report: helpOf(`${outside.calledAs} ${said}`, definitionOf(page), surface, rules),
-        refusals: [],
-        code: OK,
-      }
+      return told(helpOf(`${outside.calledAs} ${said}`, definitionOf(page), surface, rules))
     }
   }
   const answers = answeringOf(reached.mod, named)
@@ -316,7 +312,7 @@ function helping(root: string, outside: Outside): Answer {
   const listing = listedUnder(root, rootPageIn(root), outside.calledAs, null)
   const report: string[] = listing === null ? [] : [...listing]
   if (unread !== null) report.push(unread)
-  return { report, refusals: [], code: OK }
+  return told(report)
 }
 
 function walkedIn(root: string, argv: readonly string[]): Reached | null {
@@ -401,7 +397,7 @@ function namespaceSaid(
   const listing = listedUnder(root, page, under, definitionOf(page))
   if (listing === null) return null
   const past = pastIn(argv, reached.held)
-  if (past.length === 0) return { report: listing, refusals: [], code: OK }
+  if (past.length === 0) return told(listing)
   return refusedBy([...missedBy(under, past, heldUnder(root, page)), ...listing], INPUT)
 }
 
