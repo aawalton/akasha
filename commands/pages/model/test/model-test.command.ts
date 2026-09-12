@@ -44,6 +44,10 @@ export const modelTest = {
     },
     {
       invariantKind: "departure",
+      statement: "A broken case is the data's fault rather than the caller's.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A word past the test named is refused rather than passed over.",
     },
     {

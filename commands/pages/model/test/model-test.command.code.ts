@@ -3,7 +3,14 @@ import {
   type Judged,
   runningOf,
 } from "akasha/agents/models/tests/running/model-test-running.module.code.ts"
+import {
+  codeOf,
+  DATA,
+  OK,
+  refusedBy,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { answeredWith } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 
 export const CASES = "--cases"
@@ -96,9 +103,10 @@ export function shownOf(judged: Judged): readonly string[] {
 function showing(every: readonly Judged[], on: ReadonlySet<string>): Answer {
   const shown = on.has(BROKEN) ? every.filter((one) => !one.kept) : every
   const broken = every.filter((one) => !one.kept).length
+  const code = broken === 0 ? OK : DATA
   if (on.has(JSON_OUT)) {
-    return {
-      report: [
+    return answeredWith(
+      [
         JSON.stringify({
           ok: broken === 0,
           kept: every.length - broken,
@@ -113,30 +121,20 @@ function showing(every: readonly Judged[], on: ReadonlySet<string>): Answer {
           })),
         }),
       ],
-      refusals: [],
-      code: broken === 0 ? 0 : 1,
-    }
+      [],
+      code
+    )
   }
-  if (on.has(SHOW)) {
-    return {
-      report: [...shown.flatMap(shownOf), scoreOf(every)],
-      refusals: [],
-      code: broken === 0 ? 0 : 1,
-    }
-  }
-  return {
-    report: [...shown.map(rowOf), scoreOf(every)],
-    refusals: [],
-    code: broken === 0 ? 0 : 1,
-  }
+  if (on.has(SHOW)) return answeredWith([...shown.flatMap(shownOf), scoreOf(every)], [], code)
+  return answeredWith([...shown.map(rowOf), scoreOf(every)], [], code)
 }
 
 export async function modelTest(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+  if ("refused" in read) return refusedBy(read.refused)
   try {
     return showing(await runningOf(given.root, read.test, read.from ?? read.test), read.on)
   } catch (thrown) {
-    return { report: [], refusals: [whyOf(thrown)], code: 3 }
+    return refusedBy([whyOf(thrown)], codeOf(thrown))
   }
 }

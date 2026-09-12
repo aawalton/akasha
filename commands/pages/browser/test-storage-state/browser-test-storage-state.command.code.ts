@@ -13,7 +13,11 @@ import {
 import { wordsIn } from "akasha/code/browser/commands/browser-command-arguing/browser-command-arguing.module.code.ts"
 import { readBrowserTestEnv } from "akasha/code/browser/test-harness/browser-test-env/browser-test-env.module.code.ts"
 import { launchAndSignIn } from "akasha/code/browser/test-harness/harness-launch/harness-launch.module.code.ts"
-import { refusedBy } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  OPERATIONAL,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { playwrightStorageStatePath } from "akasha/seat-system/supervising/mcp-registry/mcp-registry.module.code.ts"
 
@@ -108,8 +112,8 @@ export async function browserTestStorageState(argv: readonly string[]): Promise<
       signInPath: said.named[SIGN_IN_PATH],
       output: said.named[OUTPUT],
     })
-    return { report: [...report], refusals: [], code: 0 }
+    return told(report)
   } catch (thrown) {
-    return refusedBy([thrown instanceof Error ? thrown.message : String(thrown)])
+    return refusedBy([thrown instanceof Error ? thrown.message : String(thrown)], OPERATIONAL)
   }
 }

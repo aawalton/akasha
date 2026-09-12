@@ -47,6 +47,11 @@ export const browserTestStorageState = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A sign-in that could not be made is a fault in the world rather than in the call.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The browser is closed whether the state was written or the sign-in refused.",
     },
     {
