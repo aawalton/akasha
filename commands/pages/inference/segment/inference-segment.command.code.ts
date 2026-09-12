@@ -4,7 +4,7 @@ import {
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   ensureOutputDir,
   resolveOutputPath,
@@ -17,9 +17,9 @@ import {
 } from "akasha/infrastructure/inference/clients/segment-client/segment-client.module.code.ts"
 import {
   aloneIn,
-  calledAs,
   countAt,
   heldOr,
+  madeOf,
   serviceNamed,
   wasRefused,
   wordsIn,
@@ -91,7 +91,7 @@ export async function wroteEach(
   return matte
 }
 
-export async function inferenceSegment(argv: readonly string[]): Promise<Answer> {
+export async function inferenceSegment(argv: readonly string[], given: Given): Promise<Answer> {
   const said = wordsIn(argv, TAKING, SWITCHES)
   if (wasRefused(said)) return refusedBy(said.refused)
 
@@ -129,7 +129,7 @@ export async function inferenceSegment(argv: readonly string[]): Promise<Answer>
       operation: "segment",
       model,
       host: reached.service.host,
-      commandLine: calledAs("inference-segment", argv),
+      commandLine: madeOf(given.calledAs, argv),
       startedAt: new Date(nowMs).toISOString(),
       inputImagePath: imagePath,
       inputImageSha256: sha256Hex(inputBytes),

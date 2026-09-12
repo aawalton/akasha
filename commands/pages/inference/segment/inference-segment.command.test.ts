@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { answering, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type {
   Made,
   Putting,
@@ -9,6 +10,14 @@ import {
   inferenceSegment,
   wroteEach,
 } from "akasha/commands/pages/inference/segment/inference-segment.command.code.ts"
+
+const GIVEN: Given = {
+  root: "/nowhere",
+  calledAs: "akasha inference segment",
+  from: "/nowhere",
+  writer: null,
+  agentId: null,
+}
 
 const MATTE = "wrote 4 bytes (alpha matte) to /nowhere/one.png"
 
@@ -38,7 +47,7 @@ function putting(upTo: number): Putting {
 }
 
 test("naming no image is refused", async () => {
-  const said = await inferenceSegment([])
+  const said = await inferenceSegment([], GIVEN)
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("names the image matted")
 })
