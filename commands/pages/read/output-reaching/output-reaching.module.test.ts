@@ -3,7 +3,7 @@ import {
   discardedBy,
   inheritedOut,
   type Opening,
-} from "akasha/commands/modules/output-reaching/output-reaching.module.code.ts"
+} from "akasha/commands/pages/read/output-reaching/output-reaching.module.code.ts"
 
 function opening(said: Partial<Opening>): Opening {
   return {

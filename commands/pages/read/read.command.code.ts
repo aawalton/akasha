@@ -4,10 +4,6 @@ import { leadingBytes } from "akasha/code/utf8-body/utf8-body.module.code.ts"
 import { bytesAt, textOf } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
-  type Discard,
-  discarded,
-} from "akasha/commands/modules/output-reaching/output-reaching.module.code.ts"
-import {
   blobIdOf,
   partly,
   type Reading,
@@ -31,6 +27,10 @@ import {
   tooWide,
   widthOf,
 } from "akasha/commands/pages/read/long-body/long-body.module.code.ts"
+import {
+  type Discard,
+  discarded,
+} from "akasha/commands/pages/read/output-reaching/output-reaching.module.code.ts"
 import { warrantedIn } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { akashaSeatPathForCaller } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 

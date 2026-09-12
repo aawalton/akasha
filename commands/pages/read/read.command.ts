@@ -9,7 +9,7 @@ export const read = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  parts: ["module/long-body", "module/differing"],
+  parts: ["module/long-body", "module/differing", "module/output-reaching"],
   taking: [
     {
       said: "--file-path <path>",
