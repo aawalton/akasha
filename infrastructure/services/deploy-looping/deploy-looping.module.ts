@@ -80,6 +80,20 @@ export const deployLooping = {
     {
       invariantKind: "departure",
       statement:
+        "The ending a deploy stopped at its ceiling could not keep for itself is kept by the tick.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "That ending is kept as a refusal, so the service waits out a refusal before it is chosen again.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing is kept here for a deploy a check refused, which kept its own ending.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A tick that fails means this loop is broken rather than the tree it reads being red.",
     },
     {

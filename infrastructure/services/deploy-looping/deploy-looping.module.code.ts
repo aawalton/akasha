@@ -1,5 +1,9 @@
 import { join } from "node:path"
 import { DATA } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  recordedEnding,
+  recordedRefusal,
+} from "akasha/commands/pages/deploy/commit-recording/deploy-commit-recording.module.code.ts"
 import { heldNow } from "akasha/commands/pages/deploy/holding/deploy-holding.module.code.ts"
 import {
   CLUSTER_SERVICE,
@@ -21,6 +25,7 @@ import {
   chosenFrom,
   type Wanting,
 } from "akasha/infrastructure/services/deploy-choosing/deploy-choosing.module.code.ts"
+import { subjectsOf } from "akasha/infrastructure/services/deploy-subject-listing/deploy-subject-listing.module.code.ts"
 import {
   candidatesIn,
   wantingIn,
@@ -99,6 +104,20 @@ export function scopeLoaded(probe: Running, slug: string): boolean {
   return done.out.split("\n").some((one) => one.trim() === LOADED)
 }
 
+export function endingKept(
+  root: string,
+  kind: Kind,
+  slug: string,
+  commit: string
+): readonly string[] {
+  const subject = subjectsOf(root, kind).find((one) => one.slug === slug)
+  if (subject === undefined) return []
+  return [
+    ...recordedRefusal(root, slug, subject.pagePath, commit),
+    ...recordedEnding(root, slug, subject.pagePath, true),
+  ]
+}
+
 export function saidOfRefusedTree(slug: string, out: string): string {
   return `a check refused the tree \`${slug}\` is built from, so \`${slug}\` was not put up and this loop is working — ${out}`
 }
@@ -158,7 +177,11 @@ export function ticked(
     return { said: [...past.said, saidOfRefusedTree(past.chosen.slug, started.out)], wrong: [] }
   }
   if (started.code !== 0) {
-    return { said: past.said, wrong: [`\`${past.chosen.slug}\` was not put up — ${started.out}`] }
+    const kept = endingKept(root, kind, past.chosen.slug, commit)
+    return {
+      said: past.said,
+      wrong: [`\`${past.chosen.slug}\` was not put up — ${started.out}`, ...kept],
+    }
   }
   return { said: [...past.said, `put \`${past.chosen.slug}\` up at ${commit}`], wrong: [] }
 }
