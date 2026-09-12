@@ -59,6 +59,14 @@ export const trackHealthImport = {
     },
     {
       invariantKind: "departure",
+      statement: "A fault carries the code that fault names and says where it was thrown.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every refusal but the missing export says the run can be taken up again.",
+    },
+    {
+      invariantKind: "departure",
       statement: "This workstation is looked in before the macbook is reached.",
     },
     {

@@ -11,15 +11,13 @@ import {
   runHealthImport,
 } from "akasha/alan/harness/health-samples-import/health-import-run/health-import-run.module.code.ts"
 import {
+  answering,
   DATA,
   INPUT,
-  OK,
-  OPERATIONAL,
-  partWay,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const NOTHING = "—"
 
@@ -167,38 +165,33 @@ export function readingLines(
   return said
 }
 
+export function resumable(said: Answer): Answer {
+  if (said.refusals.length === 0 || said.refusals.includes(NO_EXPORT)) return said
+  return { ...said, refusals: [...said.refusals, TAKEN_UP] }
+}
+
 export async function healthImported(
   held: Taken,
   deps: ImportRunDeps,
   atMs: number
 ): Promise<Answer> {
-  const done: string[] = []
-  let outcome: ImportOutcome
-  try {
-    outcome = await runHealthImport(
-      {
-        sinceDay: held.since,
-        batchSize: held.batch,
-        dryRun: held.dryRun,
-        restart: held.restart,
-        onProgress: () => undefined,
-      },
-      deps,
-      done
-    )
-  } catch (thrown) {
-    return {
-      report: done,
-      refusals: [saidBy(thrown), ...partWay(done), TAKEN_UP],
-      code: OPERATIONAL,
-    }
-  }
-  if (outcome.sourceFile === null) return refused(NO_EXPORT, DATA)
-  return {
-    report: [...linesOf(outcome, held.dryRun), ...readingLines(outcome, held.dryRun, atMs)],
-    refusals: [],
-    code: OK,
-  }
+  return resumable(
+    await answering(async (done) => {
+      const outcome = await runHealthImport(
+        {
+          sinceDay: held.since,
+          batchSize: held.batch,
+          dryRun: held.dryRun,
+          restart: held.restart,
+          onProgress: () => undefined,
+        },
+        deps,
+        done
+      )
+      if (outcome.sourceFile === null) return refused(NO_EXPORT, DATA)
+      return told([...linesOf(outcome, held.dryRun), ...readingLines(outcome, held.dryRun, atMs)])
+    })
+  )
 }
 
 export function reaching(held: Taken): ImportRunDeps {
