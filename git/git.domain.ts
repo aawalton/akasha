@@ -21,6 +21,7 @@ export const git = {
     "module/served-tip",
     "module/git-store-sweeping",
     "module/git-dir",
+    "module/committing",
   ],
   invariants: [
     {
