@@ -17,6 +17,7 @@ import { takenFor } from "akasha/commands/arguments/argument-taking/argument-tak
 import { app } from "akasha/commands/arguments/pages/app.argument.ts"
 import { wait } from "akasha/commands/arguments/pages/wait.argument.ts"
 import {
+  answeredWith,
   answering,
   OPERATIONAL,
   refusedBy,
@@ -58,20 +59,16 @@ async function waited(
     return told(done)
   }
   if (outcome.kind === "failed") {
-    return {
-      report: done,
-      refusals: [describeProcessingFailure(outcome.failure)],
-      code: OPERATIONAL,
-    }
+    return answeredWith(done, [describeProcessingFailure(outcome.failure)], OPERATIONAL)
   }
-  return {
-    report: done,
-    refusals: [
+  return answeredWith(
+    done,
+    [
       `no build reached a terminal state in ${POLL_TIMEOUT_MS / A_MINUTE} minutes ` +
         `(last state: ${outcome.lastState ?? "no build visible"}), so it is still processing`,
     ],
-    code: OPERATIONAL,
-  }
+    OPERATIONAL
+  )
 }
 
 async function stated(read: Read, done: string[]): Promise<Answer> {
