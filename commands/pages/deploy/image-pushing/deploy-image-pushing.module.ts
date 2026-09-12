@@ -27,5 +27,15 @@ export const deployImagePushing = {
       invariantKind: "departure",
       statement: "The recipe and the context are read from the tree pinned at the commit.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A push answers one line naming the image, the reference it went under, and its fate.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "That line says it was built and pushed, or the registry holds it, or it would be.",
+    },
   ],
 } as const satisfies Module
