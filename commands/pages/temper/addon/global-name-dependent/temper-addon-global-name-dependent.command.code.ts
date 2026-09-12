@@ -125,7 +125,7 @@ function linesFor(report: GlobalDependentReport): readonly string[] {
   return lines
 }
 
-export function temperAddonGlobalNameDependents(argv: readonly string[] = []): Answer {
+export function temperAddonGlobalNameDependent(argv: readonly string[] = []): Answer {
   const root = resolve(valuesOf(argv, CODE_ROOT_FLAG)[0] ?? codeRoot())
   const named = valuesOf(argv, GLOBAL_FLAG)[0] ?? namesIn(argv, TAKING_A_VALUE)[0]
 
