@@ -20,10 +20,12 @@ import { pathAt } from "akasha/commands/modules/said-pathing/said-pathing.module
 
 export const NO_GLASS = `${BREAK_GLASS} is no flag this takes: a body the checks refuse is a fault in the program that composed it`
 
+const TAKES: readonly string[] = VALUED.filter((one) => one !== BREAK_GLASS)
+
 export function strayIn(root: string, argv: readonly string[]): readonly string[] {
   const said: string[] = []
   for (const flag of [FILE_PATH, REMOVE]) {
-    for (const one of valuesOf(argv, flag, VALUED)) {
+    for (const one of valuesOf(argv, flag, TAKES)) {
       if (one === null) continue
       if (!trackedIn(pathAt(root, one))) said.push(outsideTracked(one))
     }
@@ -44,7 +46,7 @@ export async function trackedBy(
   landing: Landing = landingTracked
 ): Promise<Answer> {
   return await answering(async (done) => {
-    const built = builtIn(argv, given, inputIn, MECHANICAL_KIND)
+    const built = builtIn(argv, given, inputIn, MECHANICAL_KIND, TAKES)
     if ("code" in built) return built
     return await landing(done, given.root, built.changes, built.message)
   })

@@ -90,6 +90,14 @@ test("the glass is no flag this takes", async () => {
   expect(said.code).toBe(1)
 })
 
+test("the flags a stray flag is answered with name no flag this refuses", async () => {
+  const said = await alanTracking(["--nope"], givenIn())
+  expect(said.refusals).toEqual([
+    "`--nope` is no flag this takes. `akasha alan tracking` takes `--file-path`, " +
+      "`--content-file`, `--remove`, `--message`, `--message-file`, `--restated`.",
+  ])
+})
+
 test("a stray path is refused before anything is composed", async () => {
   const said = await alanTracking(["--file-path", STRAY_PAGE], givenIn())
   expect(said.refusals).toEqual([outsideTracked(STRAY_PAGE)])

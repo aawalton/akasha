@@ -164,7 +164,7 @@ type Read = {
   readonly refusals: readonly string[]
 }
 
-function readIn(argv: readonly string[]): Read {
+function readIn(argv: readonly string[], valued: readonly string[]): Read {
   const pairs: Pair[] = []
   const removals: string[] = []
   const refusals: string[] = []
@@ -209,7 +209,7 @@ function readIn(argv: readonly string[]): Read {
       at += 1
       continue
     }
-    if (VALUED.includes(token)) at += 1
+    if (valued.includes(token)) at += 1
   }
   if (open !== null) pairs.push({ path: open, from: null })
   return { pairs, removals, refusals }
@@ -224,20 +224,21 @@ export function builtIn(
   argv: readonly string[],
   given: Given,
   piping: Piping,
-  kind: Kind | null
+  kind: Kind | null,
+  valued: readonly string[] = VALUED
 ): Built | Answer {
-  const unknown = unknownIn(argv, VALUED, BARE, given.calledAs)
+  const unknown = unknownIn(argv, valued, BARE, given.calledAs)
   if (unknown.length > 0) return mistaking(unknown)
-  const read = readIn(argv)
+  const read = readIn(argv, valued)
   if (read.refusals.length > 0) return mistaking(read.refusals)
   if (read.pairs.length === 0 && read.removals.length === 0) {
     return mistaking([
       `this call names no ${FILE_PATH} to write and no ${REMOVE} to take away, so it asks for nothing`,
     ])
   }
-  const glass = glassIn(argv, VALUED)
+  const glass = glassIn(argv, valued)
   if ("refusals" in glass) return mistaking(glass.refusals)
-  const said = messageIn(argv, VALUED)
+  const said = messageIn(argv, valued)
   if ("refusals" in said) return mistaking(said.refusals)
   const restated = restatedIn(argv, given.root, kind)
   if ("refusals" in restated) return mistaking(restated.refusals)

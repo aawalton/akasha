@@ -74,6 +74,11 @@ export const fileArguing = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A caller names which flags take a value, and the flags here answer where none does.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The readings the writer owes are answered as faults of the call.",
     },
     {

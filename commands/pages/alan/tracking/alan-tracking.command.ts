@@ -48,6 +48,10 @@ export const alanTracking = {
       statement: "Every check that judges a write judges the change landed here.",
     },
     {
+      invariantKind: "departure",
+      statement: "Every flag `file-arguing` takes is taken here but the glass.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here breaks the glass.",
     },
