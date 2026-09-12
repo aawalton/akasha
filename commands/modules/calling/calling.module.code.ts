@@ -1,6 +1,7 @@
 import { createRequire } from "node:module"
 import { join, resolve } from "node:path"
 import { costRecorded, opening } from "akasha/checks/modules/cost/check-cost.module.code.ts"
+import { helpOf, surfaceOf } from "akasha/commands/modules/help-writing/help-writing.module.code.ts"
 import {
   type Held,
   listingOf,
@@ -19,8 +20,6 @@ import {
   walkingIn,
 } from "akasha/commands/modules/walking/command-walking.module.code.ts"
 import { indexRefresh } from "akasha/commands/pages/index/refresh/index-refresh.command.code.ts"
-import type { HelpNotes } from "akasha/commands/properties/help-notes.text-property.types.ts"
-import type { Taking } from "akasha/commands/properties/taking.record-property.types.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
@@ -58,11 +57,6 @@ export type Given = Outside
 
 export type Answering = (argv: readonly string[], given: Given) => Answer | Promise<Answer>
 
-export type Surface = {
-  readonly taking: Taking
-  readonly helpNotes: HelpNotes
-}
-
 export const HELP = "--help"
 
 export const HELP_SHORT = "-h"
@@ -78,10 +72,6 @@ const WRITER_OWES_READING = "writerOwesReading"
 const READERS_OWE_READING = "readersOweReading"
 
 const CHANGE_KIND_TYPE = "01a05e11-d3f8-72af-b104-6cdd1255b0eb"
-
-const TAKING = "taking"
-
-const HELP_NOTES = "helpNotes"
 
 const COMMAND_TYPE = "01a04bdd-596d-7b81-9204-1a882f474a5f"
 
@@ -215,29 +205,6 @@ function toldOf(root: string, every: readonly string[], calledAs: string): reado
   return held.map((one) =>
     one.said === null ? `  ${one.named}` : `  ${one.named.padEnd(wide)}  ${one.said}`
   )
-}
-
-function surfaceOf(page: Record<string, unknown> | null): Surface | null {
-  if (page === null) return null
-  const taking = page[TAKING]
-  const helpNotes = page[HELP_NOTES]
-  if (!Array.isArray(taking) && !Array.isArray(helpNotes)) return null
-  return {
-    taking: (Array.isArray(taking) ? taking : []) as Taking,
-    helpNotes: (Array.isArray(helpNotes) ? helpNotes : []) as HelpNotes,
-  }
-}
-
-export function helpOf(
-  calledAs: string,
-  definition: string | null,
-  surface: Surface
-): readonly string[] {
-  const wide = widest(surface.taking.map((one) => one.said))
-  const report = [definition === null ? calledAs : `${calledAs} — ${definition}`, ""]
-  for (const one of surface.taking) report.push(`  ${one.said.padEnd(wide)}  ${one.takes}`)
-  if (surface.helpNotes.length > 0) report.push("", ...surface.helpNotes)
-  return report
 }
 
 function refusing(said: string): Answer {

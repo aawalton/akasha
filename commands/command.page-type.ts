@@ -127,6 +127,7 @@ export const command = {
     "module/gated-write",
     "module/gated-landing",
     "text-property/level-name",
+    "module/help-writing",
   ],
   extends: ["page-type/module"],
   loadedBy: "module/calling",
