@@ -168,6 +168,19 @@ export const seat = {
       invariantKind: "gap",
       statement: "A command reaches what a seat keeps that way.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A record a seat keeps that way may be one link of a chain that lands only whole.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Whether a kept record landed already is undecidable where its new text sits inside its old.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A record a seat keeps that way says which subagent left it and when.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType
