@@ -12,18 +12,16 @@ export const imessageRecentList = {
     { said: "--tail <n>", takes: "the same thing said the other way" },
     {
       said: "--contact <name-or-handle>",
-      takes: "hold the answer to the conversations of the one contact named",
+      takes: "hold the answer to one contact, named in the address book or by number or address",
     },
     { said: "--json", takes: "give the messages as JSON rather than as tab-parted rows" },
   ],
-  helpNotes: [
-    "the newest messages are found first and then answered oldest first, so the last row is the newest.",
-    "a contact is named by an address book name, a phone number or an address alike.",
-    "a row carries the moment, the way the message went, who it was with, and the text.",
-    "a moment is written in the reader's own timezone rather than in UTC.",
-    "a contact matching nobody is a data refusal rather than an empty answer.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "A row carries the moment, the way the message went, who it was with, and the text.",
+    },
     {
       invariantKind: "departure",
       statement: "The newest messages are taken and then answered oldest first.",
