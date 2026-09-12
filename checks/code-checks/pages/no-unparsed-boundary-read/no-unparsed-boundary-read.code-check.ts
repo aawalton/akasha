@@ -73,6 +73,7 @@ export const noUnparsedBoundaryRead = {
       invariantKind: "gap",
       statement: "A read followed through a second variable is not seen.",
     },
+    { invariantKind: "departure", statement: "A call to `firstCapture` is an approved parse." },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },

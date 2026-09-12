@@ -35,6 +35,7 @@ const APPROVED_BARE_HELPERS = new Set([
   "requireEnv",
   "requireGet",
   "requireFirst",
+  "firstCapture",
 ])
 
 const APPROVED_HELPER_PATTERN = /^parse[A-Z][A-Za-z0-9_]*$/

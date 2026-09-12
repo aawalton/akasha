@@ -46,6 +46,18 @@ test("a bare helper the rule names lets the read through where the read is its a
   expect(reasonsFor(AT, body)).toEqual([])
 })
 
+test("a capture handed straight to `firstCapture` is let through", () => {
+  const body = "function one(text: string): undefined {\n  use(firstCapture(/a/.exec(text)))\n}\n"
+  expect(reasonsFor(AT, body)).toEqual([])
+})
+
+test("a capture held and then handed to `firstCapture` is let through", () => {
+  const body =
+    "function one(text: string): undefined {\n  const held = /a/.exec(text)\n" +
+    "  use(firstCapture(held))\n}\n"
+  expect(reasonsFor(AT, body)).toEqual([])
+})
+
 test("a value used unparsed first is refused though a parse comes later", () => {
   const body =
     "function one(text: string): undefined {\n  const held = JSON.parse(text)\n" +
