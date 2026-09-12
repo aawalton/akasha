@@ -12,12 +12,19 @@ import {
   ITEM_RULE_COLUMNS,
   itemRuleRow,
 } from "akasha/temper/commands/inventory-rule-rows/inventory-rule-rows.module.code.ts"
+import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
-async function listed(asJson: boolean): Promise<Answer> {
-  const settings = await (await settingsOf()).read()
+export type Reading = () => Promise<InventoryRuleSettings>
+
+export async function listing(asJson: boolean, reading: Reading): Promise<Answer> {
+  const settings = await reading()
   const rules = settings.itemRules ?? []
   if (asJson) return told(emitJson(rules).split("\n"))
   return toldRows(rules.map(itemRuleRow), ITEM_RULE_COLUMNS)
+}
+
+async function listed(asJson: boolean): Promise<Answer> {
+  return await listing(asJson, (await settingsOf()).read)
 }
 
 export async function temperInventoryItemRuleList(
