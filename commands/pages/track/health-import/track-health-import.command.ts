@@ -21,24 +21,30 @@ export const trackHealthImport = {
       takes: "begin at the head of the export rather than where an earlier run ended",
     },
   ],
-  helpNotes: [
-    "the active energy and step count records the export holds are what lands in the sample store.",
-    "the export is the newest `export*.zip` in `~/Downloads` unless `--path` names another.",
-    "this workstation is looked in first and the macbook is reached over ssh only where this workstation holds no export.",
-    "the phone writes that zip and nothing here makes the zip, so neither machine holding one refuses the call rather than waiting.",
-    "records are filtered on the machine holding the export, so a call naming `--since` reads less than a call naming none.",
-    "`--since` bounds the import below and nothing bounds the import above, so a day named far back brings in every record after that day.",
-    "a call naming no `--since` brings in the whole history the export holds.",
-    "a run that ends part way leaves a checkpoint keyed by the export, the day named and the metrics, and the next call takes that run up where the run ended.",
-    "`--restart` begins at the head of the export whatever the checkpoint holds, and a newer export is a fresh run either way.",
-    "a reading already filed at that value is written again by nothing, so a second call over one export writes nothing.",
-    "nothing is said until the run ends, because a command prints nothing itself.",
-    "the report counts records and names days and instants, and no reading's own value ever reaches the report.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "This call takes flags alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Active energy and step count are the records that land in the sample store.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The export read is the newest `export*.zip` in `~/Downloads`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call naming no `--since` brings in the whole history the export holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A checkpoint is keyed by the export, the day named and the metrics.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading already filed at that value is written again by nothing.",
     },
     {
       invariantKind: "departure",
