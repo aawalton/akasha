@@ -27,7 +27,7 @@ import {
 import { esouiSourceDir } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
 import { collectLuaFiles } from "akasha/temper/eso-paths/lua-files/lua-files.module.code.ts"
 
-const SELF = "akasha temper eso generate base-game-globals"
+const SELF = "akasha temper eso generate base-game-global"
 
 const ESO_ROOT_FLAG = "--eso-root"
 
