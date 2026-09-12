@@ -31,7 +31,9 @@ import {
 } from "akasha/infrastructure/inference/clients/mlx-vlm-client/mlx-vlm-client.module.code.ts"
 import { serviceNamed } from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
 import {
+  closedSaid,
   finishInferenceRun,
+  openedSaid,
   startInferenceRun,
 } from "akasha/infrastructure/inference/runs/modules/store/inference-run-store.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/record/inference-run-record.module.code.ts"
@@ -144,6 +146,7 @@ async function asked(done: string[], read: Read): Promise<Answer> {
     })
 
     const pageId = await startInferenceRun(record)
+    done.push(openedSaid(pageId))
     const startMs = Date.now()
     try {
       const answer = await runVideoQa({
@@ -161,6 +164,7 @@ async function asked(done: string[], read: Read): Promise<Answer> {
         durationMs: Date.now() - startMs,
         outputText: answer,
       })
+      done.push(closedSaid(pageId, "completed"))
       return told(answer.split("\n"))
     } catch (thrown) {
       await finishInferenceRun(pageId, {
@@ -169,6 +173,7 @@ async function asked(done: string[], read: Read): Promise<Answer> {
         durationMs: Date.now() - startMs,
         errorMessage: thrown instanceof Error ? thrown.message : String(thrown),
       })
+      done.push(closedSaid(pageId, "failed"))
       throw thrown
     }
   } finally {
