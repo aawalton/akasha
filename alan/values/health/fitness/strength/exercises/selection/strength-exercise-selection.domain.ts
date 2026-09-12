@@ -5,4 +5,5 @@ export const strengthExerciseSelection = {
   type: "domain",
   slug: "strength-exercise-selection",
   definition: "how the next exercise Alan should do is chosen",
+  parts: ["page-type/strength-exercise-selection-constraint"],
 } as const satisfies Domain
