@@ -7,7 +7,7 @@ import {
   OK,
   UNCLASSIFIED,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { answering, outsideOf, saidOf } from "akasha/commands/modules/cli/cli.module.code.ts"
+import { outsideOf, saidOf, unclassifying } from "akasha/commands/modules/cli/cli.module.code.ts"
 import { COMMAND_TYPE_AT } from "akasha/commands/modules/cli/cli.module.test-fixtures.ts"
 import {
   CLAUDE_AUTHOR,
@@ -87,7 +87,7 @@ test("what was done and what refused it are answered apart", () => {
 })
 
 test("naming no command is a caller's mistake rather than an unclassified failure", async () => {
-  const said = await answering([], { AKASHA_ROOT: "/nowhere-at-all" }, AT, "/nowhere")
+  const said = await unclassifying([], { AKASHA_ROOT: "/nowhere-at-all" }, AT, "/nowhere")
   expect(said.code).toBe(INPUT)
   expect(said.err[0]).toContain("takes a command")
 })
@@ -99,13 +99,13 @@ test("a name no command carries is a caller's mistake too", async () => {
     { path: "akasha/r.command.ts", value: { id: ID, pageTypeSlug: COMMAND, slug: "read" } },
   ])
   idFiled(root, COMMAND_TYPE, [{ path: COMMAND_TYPE_AT, id: COMMAND_TYPE }])
-  const said = await answering(["held"], { AKASHA_ROOT: root }, AT, "/nowhere")
+  const said = await unclassifying(["held"], { AKASHA_ROOT: root }, AT, "/nowhere")
   expect(said.code).toBe(INPUT)
   expect(said.err[0]).toContain("is no command akasha carries")
 })
 
 test("a name looked for where there is no index says nothing was read, not that none is carried", async () => {
-  const said = await answering(["held"], { AKASHA_ROOT: "/nowhere-at-all" }, AT, "/nowhere")
+  const said = await unclassifying(["held"], { AKASHA_ROOT: "/nowhere-at-all" }, AT, "/nowhere")
   expect(said.code).toBe(DATA)
   expect(said.err[0]).toContain("was looked for and not read")
   expect(said.err[0]).toContain(`No index is at \`${indexNamed()}\``)
@@ -118,7 +118,7 @@ test("a failure of no known kind says so rather than claiming one", async () => 
       throw new Error("the environment itself failed")
     },
   }
-  const said = await answering([], hostile, AT, "/nowhere")
+  const said = await unclassifying([], hostile, AT, "/nowhere")
   expect(said.code).toBe(UNCLASSIFIED)
   expect(said.err[0]).toStartWith("akasha: ")
 })

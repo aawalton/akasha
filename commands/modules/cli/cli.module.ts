@@ -38,5 +38,13 @@ export const cli = {
       statement:
         "What a run is outside the command line is gathered here and handed to the command.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A throw of no known kind is caught here and answered as one of no known kind.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No function here is the guard a command's body runs inside.",
+    },
   ],
 } as const satisfies Module

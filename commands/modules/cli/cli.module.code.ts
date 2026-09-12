@@ -33,7 +33,7 @@ export function saidOf(answer: Answer): Said {
   return { out: answer.report, err: answer.refusals, code: answer.code }
 }
 
-export async function answering(
+export async function unclassifying(
   argv: readonly string[],
   env: Readonly<Record<string, string | undefined>>,
   at: string,
@@ -52,7 +52,12 @@ export function spilled(fd: number, lines: readonly string[]): undefined {
 }
 
 if (import.meta.main) {
-  const said = await answering(process.argv.slice(2), process.env, import.meta.path, process.cwd())
+  const said = await unclassifying(
+    process.argv.slice(2),
+    process.env,
+    import.meta.path,
+    process.cwd()
+  )
   spilled(1, said.out)
   spilled(2, said.err)
   process.exit(said.code)
