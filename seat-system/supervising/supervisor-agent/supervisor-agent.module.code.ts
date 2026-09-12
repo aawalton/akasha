@@ -100,7 +100,7 @@ export async function selectAccountAndWriteCredential(
       throw new Error(
         `Registration account "${effectiveAccount}" does not exist — no claude-account page. ` +
           `Check the spelling of -a, or onboard it with ` +
-          `\`akasha claude-account-add ${effectiveAccount} --email <email>\` ` +
+          `\`akasha claude-account add ${effectiveAccount} --email <email>\` ` +
           `and re-launch to run /login.`
       )
     }

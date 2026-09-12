@@ -38,7 +38,7 @@ const STAGE_PREFIX = "akasha-icon-search-index-stage-"
 
 const FETCH_CEILING_MS = 180_000
 
-const REGENERATE = "akasha page-icon-search-index-generate"
+const REGENERATE = "akasha page icon-search-index-generate"
 
 const SECOND_MS = 1000
 
