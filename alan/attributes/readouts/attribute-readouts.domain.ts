@@ -9,8 +9,8 @@ export const attributeReadouts = {
     "readout/attribute-charisma",
     "readout/attribute-constitution",
     "readout/attribute-endurance",
-    "readout/attribute-strength",
     "readout/attribute-intelligence",
+    "readout/attribute-strength",
     "readout/attribute-wisdom",
   ],
 } as const satisfies Domain

@@ -5,7 +5,7 @@ export const sshAccess = {
   type: "domain",
   slug: "ssh-access",
   definition: "how a script is run on another machine over ssh and its output read back",
-  parts: ["module/ssh-target", "module/ssh-reach"],
+  parts: ["module/ssh-reach", "module/ssh-target"],
   invariants: [
     {
       invariantKind: "departure",

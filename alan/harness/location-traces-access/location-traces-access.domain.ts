@@ -5,7 +5,7 @@ export const locationTracesAccess = {
   type: "domain",
   slug: "location-traces-access",
   definition: "the shape one recorded place is carried in, and the refusal a batch of places meets",
-  parts: ["module/trace-shape", "module/trace-insert"],
+  parts: ["module/trace-insert", "module/trace-shape"],
   invariants: [
     {
       invariantKind: "absence",

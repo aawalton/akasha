@@ -5,7 +5,7 @@ export const webBuildVersion = {
   type: "domain",
   slug: "web-build-version",
   definition: "the commit a running web build came from",
-  parts: ["module/build-sha", "module/live-version", "module/build-sha-define"],
+  parts: ["module/build-sha", "module/build-sha-define", "module/live-version"],
   invariants: [
     {
       invariantKind: "departure",

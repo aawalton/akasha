@@ -6,9 +6,9 @@ export const emailInbound = {
   slug: "email-inbound",
   definition: "what an arriving email is read into before anything acts on it",
   parts: [
-    "module/inbound-message",
     "module/agent-channel",
     "module/inbound-decision",
+    "module/inbound-message",
     "module/sender",
   ],
   invariants: [

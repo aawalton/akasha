@@ -6,11 +6,11 @@ export const bookOfEverything = {
   slug: "book-of-everything",
   definition: "how far into the whole of knowledge Ali has read, node by node",
   parts: [
+    "domain/book-of-everything-commands",
+    "module/seeded-draw",
+    "module/topic-tree",
     "page-type/learn-everything-topic",
     "page-type/mastery-level",
-    "module/topic-tree",
-    "module/seeded-draw",
-    "domain/book-of-everything-commands",
   ],
   invariants: [
     {

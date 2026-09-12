@@ -5,7 +5,7 @@ export const voiceCore = {
   type: "domain",
   slug: "voice-core",
   definition: "how written text is cut into what a voice can speak, and when each sentence is said",
-  parts: ["module/speech", "module/mark-schema", "module/estimate-marks", "module/infer-endpoint"],
+  parts: ["module/estimate-marks", "module/infer-endpoint", "module/mark-schema", "module/speech"],
   invariants: [
     {
       invariantKind: "departure",

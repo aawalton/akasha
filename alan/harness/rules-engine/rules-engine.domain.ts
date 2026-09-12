@@ -7,12 +7,12 @@ export const rulesEngine = {
   definition: "what every rule set runs on",
 
   parts: [
+    "domain/rules-engine-field",
     "module/instructions-rule",
     "module/rule-conditions",
     "module/rule-partition",
     "module/rule-vocabulary",
     "page-type/rules-engine-rule-set",
-    "domain/rules-engine-field",
   ],
   invariants: [
     {

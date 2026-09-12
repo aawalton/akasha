@@ -12,8 +12,8 @@ export const surplus = {
     "module/surplus-fall-tier",
     "module/surplus-reading",
     "readout/upkeep-surplus",
-    "service-workstation/surplus-relay-service",
     "service-workstation/surplus-fall-notifier",
+    "service-workstation/surplus-relay-service",
   ],
   invariants: [
     {

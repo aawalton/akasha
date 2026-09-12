@@ -14,12 +14,12 @@ export const inbox = {
     "module/inbox-keys",
     "module/inbox-reading",
     "module/inbox-tracking-polling",
+    "page-type/email-rule",
     "readout/inboxes-email",
     "readout/inboxes-tasks",
     "service-workstation/inbox-count-watch-service",
     "service-workstation/inbox-relay-service",
     "service-workstation/inbox-tracking-poll",
-    "page-type/email-rule",
   ],
   invariants: [
     {

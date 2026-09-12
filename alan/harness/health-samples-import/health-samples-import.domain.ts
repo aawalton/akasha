@@ -6,8 +6,8 @@ export const healthSamplesImport = {
   slug: "health-samples-import",
   definition: "health readings taken off a machine of Alan's and brought into the store",
   parts: [
-    "module/health-export",
     "module/export-fetching",
+    "module/health-export",
     "module/health-import",
     "module/health-import-checkpoint",
     "module/health-import-reading",
