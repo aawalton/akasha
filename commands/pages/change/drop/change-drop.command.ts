@@ -8,19 +8,14 @@ export const changeDrop = {
   code: "ts",
   test: "ts",
   changeKind: "change-authored",
-  helpNotes: [
-    "a drop reaches the edits kept beside this agent's own page, and takes no word naming anything else.",
-    "the paths to drop are piped in, one to a line, written `at` and the path.",
-    "`all: true` piped in reaches every edit the drop is over, and no path is named beside it.",
-    "a drop piping nothing in is refused, so a bare call takes nothing away.",
-    "a path naming no edit the drop reaches refuses the drop, so a typo takes nothing away.",
-    "a drop names each edit that went, because nothing puts a dropped edit back.",
-    "a drop lands nothing, so what went is gone rather than committed.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "A drop reaches the edits kept beside this agent's page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path is piped in as a line `at:` and that path, one path to a line.",
     },
     {
       invariantKind: "departure",
