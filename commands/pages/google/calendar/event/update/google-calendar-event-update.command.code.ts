@@ -11,7 +11,7 @@ import { start } from "akasha/commands/arguments/pages/start.argument.ts"
 import { summary } from "akasha/commands/arguments/pages/summary.argument.ts"
 import { timezone } from "akasha/commands/arguments/pages/timezone.argument.ts"
 import {
-  answering,
+  answeredAsJson,
   asAlan,
   eventsIn,
   patchOf,
@@ -41,7 +41,7 @@ export function googleCalendarEventUpdate(argv: readonly string[], given: Given)
   const taken = read.taken
   const why = sendingRefused(taken.sendUpdates)
   if (why.length > 0) return Promise.resolve(mistaking(why))
-  return answering(given.calledAs, async (done) =>
+  return answeredAsJson(async (done) =>
     (await eventsIn()).updateEvent(await asAlan(), patchOf(taken), done)
   )
 }

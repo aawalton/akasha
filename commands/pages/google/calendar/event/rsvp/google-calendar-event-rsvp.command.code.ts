@@ -5,7 +5,7 @@ import { event } from "akasha/commands/arguments/pages/event.argument.ts"
 import { sendUpdates } from "akasha/commands/arguments/pages/send-updates.argument.ts"
 import { status } from "akasha/commands/arguments/pages/status.argument.ts"
 import {
-  answering,
+  answeredAsJson,
   asAlan,
   eventsIn,
   rsvpStatusIn,
@@ -25,7 +25,7 @@ export function googleCalendarEventRsvp(argv: readonly string[], given: Given): 
     ...sendingRefused(taken.sendUpdates),
   ]
   if (why.length > 0 || "refused" in rsvping) return Promise.resolve(mistaking(why))
-  return answering(given.calledAs, async (done) =>
+  return answeredAsJson(async (done) =>
     (await eventsIn()).rsvpEvent(
       await asAlan(),
       {

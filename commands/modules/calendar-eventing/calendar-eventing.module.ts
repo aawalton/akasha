@@ -50,6 +50,14 @@ export const calendarEventing = {
     },
     {
       invariantKind: "departure",
+      statement: "A throw carrying no code of its own is operational rather than of no known kind.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No guard is written here; the guard every command body runs inside is used.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An act is handed a list to name each write on as the calendar takes that write.",
     },
     {

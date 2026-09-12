@@ -2,7 +2,7 @@ import { takenFor } from "akasha/commands/arguments/argument-taking/argument-tak
 import { calendar } from "akasha/commands/arguments/pages/calendar.argument.ts"
 import { event } from "akasha/commands/arguments/pages/event.argument.ts"
 import {
-  answering,
+  answeredAsJson,
   asAkasha,
   eventsIn,
 } from "akasha/commands/modules/calendar-eventing/calendar-eventing.module.code.ts"
@@ -14,7 +14,7 @@ export function googleCalendarEventDelete(argv: readonly string[], given: Given)
   const read = takenFor(argv, given.calledAs, page, [event, calendar])
   if ("refused" in read) return Promise.resolve(mistaking(read.refused))
   const taken = read.taken
-  return answering(given.calledAs, async () =>
+  return answeredAsJson(async () =>
     (await eventsIn()).deleteEvent(await asAkasha(), {
       calendarId: taken.calendar,
       eventId: taken.event,

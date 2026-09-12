@@ -5,7 +5,7 @@ import { max } from "akasha/commands/arguments/pages/max.argument.ts"
 import { windowFrom } from "akasha/commands/arguments/pages/window-from.argument.ts"
 import { windowTo } from "akasha/commands/arguments/pages/window-to.argument.ts"
 import {
-  answering,
+  answeredAsJson,
   asAkasha,
   eventsIn,
 } from "akasha/commands/modules/calendar-eventing/calendar-eventing.module.code.ts"
@@ -19,7 +19,7 @@ export function googleCalendarEventList(argv: readonly string[], given: Given): 
   const read = takenFor(argv, given.calledAs, page, PAGES)
   if ("refused" in read) return Promise.resolve(mistaking(read.refused))
   const taken = read.taken
-  return answering(given.calledAs, async () =>
+  return answeredAsJson(async () =>
     (await eventsIn()).listEvents(await asAkasha(), {
       calendarId: taken.calendar,
       from: taken.windowFrom,
