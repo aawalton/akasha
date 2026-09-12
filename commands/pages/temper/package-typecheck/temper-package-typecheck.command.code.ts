@@ -1,16 +1,22 @@
 import { existsSync, readdirSync } from "node:fs"
 import { join, resolve } from "node:path"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
+import { packageName } from "akasha/commands/arguments/pages/package-name.argument.ts"
 import {
   DATA,
   OK,
   OPERATIONAL,
   refused,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { temperPackageTypecheck as page } from "akasha/commands/pages/temper/package-typecheck/temper-package-typecheck.command.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
-import { valuesOf } from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 import { inNameOrder } from "akasha/temper/commands/name-ordering/name-ordering.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
+
+const NAMED = [codeRootArgument, packageName]
 
 const UNDER = "temper"
 const CONFIG = "tsconfig.json"
@@ -69,15 +75,19 @@ function reportOf(all: readonly Judged[], at: string): readonly string[] {
   return lines
 }
 
-export function temperPackageTypecheck(argv: readonly string[] = []): Answer {
-  const root = resolve(valuesOf(argv, "--code-root")[0] ?? codeRoot())
+export function temperPackageTypecheck(argv: readonly string[], given: Given): Answer {
+  const read = takenFor(argv, given.calledAs, page, NAMED)
+  if ("refused" in read) return mistaking(read.refused)
+  const taken = read.taken
+
+  const root = resolve(taken.codeRoot ?? codeRoot())
   const at = join(root, UNDER)
   if (!existsSync(at)) {
     return refused(`${root} holds no ${UNDER}/, so nothing there is a package to typecheck`, DATA)
   }
 
   const every = packagesUnder(at)
-  const asked = valuesOf(argv, "--package")
+  const asked = taken.packageName
   const unknown = asked.filter((one) => !every.includes(one))
   if (unknown.length > 0) {
     return refused(
