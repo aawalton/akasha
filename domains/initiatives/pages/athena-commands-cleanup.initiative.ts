@@ -18,5 +18,6 @@ export const athenaCommandsCleanup = {
     "A subagent lands its own change, and the coordinating seat keeps the child pages.",
     "The `Answer` type moving out of `module/calling` is one landing over about 270 files, and it lands alone and last with nothing else in flight.",
     "Taking `taking` off `page-type/command` is the coordinating seat's one landing, made once every command page states `taking: []`.",
+    "A spelling two arguments share is settled by Alan rather than by whichever agent lands on it first.",
   ],
 } as const satisfies Initiative
