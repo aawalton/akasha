@@ -21,7 +21,7 @@ const running = await import(
   "akasha/infrastructure/services/workstations/pages/persona-points-rebuilding.service-workstation.running.code.ts"
 )
 
-test("the run is a function taking nothing, which is how the service runner calls it", () => {
+test("the run can be called with nothing, which is how the unit's command line calls it", () => {
   expect(typeof running.runService).toBe("function")
   expect(running.runService.length).toBe(0)
 })
@@ -36,10 +36,17 @@ test("a run turns the rebuilding module's own rebuild rather than a rebuild writ
   expect(HANDED.length).toBe(1)
 })
 
-test("the rebuild is handed nothing, which is what the unit's command line hands it", () => {
+test("the rebuild is handed the list the run was handed, so what it rebuilt can be named", () => {
+  HANDED.length = 0
+  const done: string[] = []
+  running.runService(done)
+  expect(HANDED).toEqual([[done]])
+})
+
+test("a run handed no list hands a list of its own, so the rebuild has somewhere to name into", () => {
   HANDED.length = 0
   running.runService()
-  expect(HANDED).toEqual([[]])
+  expect(HANDED).toEqual([[[]]])
 })
 
 test("a rebuild that was done hands nothing back, so the run ends of its own accord", () => {

@@ -47,6 +47,15 @@ export const personaPointsRebuilding = {
         "The rebuild is run by a workstation timer once the day has opened as well as by hand.",
     },
     {
+      invariantKind: "departure",
+      statement: "Each persona rebuilt is named as soon as that persona's points are kept.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A run hands the list it was handed down, so a run that threw names each persona it rebuilt.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here works out the rung a total reaches.",
     },
