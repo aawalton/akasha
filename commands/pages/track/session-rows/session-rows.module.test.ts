@@ -1,8 +1,18 @@
 import { expect, test } from "bun:test"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { at } from "akasha/commands/arguments/pages/at.argument.ts"
+import { day } from "akasha/commands/arguments/pages/day.argument.ts"
+import { difficulty } from "akasha/commands/arguments/pages/difficulty.argument.ts"
+import { dryRun } from "akasha/commands/arguments/pages/dry-run.argument.ts"
+import { fromFile } from "akasha/commands/arguments/pages/from-file.argument.ts"
 import { id } from "akasha/commands/arguments/pages/id.argument.ts"
 import { last } from "akasha/commands/arguments/pages/last.argument.ts"
 import { open } from "akasha/commands/arguments/pages/open.argument.ts"
+import { relationship } from "akasha/commands/arguments/pages/relationship.argument.ts"
+import { safety } from "akasha/commands/arguments/pages/safety.argument.ts"
+import { title } from "akasha/commands/arguments/pages/title.argument.ts"
+import { trackSessionFile } from "akasha/commands/pages/track/session/file/track-session-file.command.ts"
+import { trackSessionOpen } from "akasha/commands/pages/track/session/open/track-session-open.command.ts"
 import {
   addressed,
   anchoredIn,
@@ -41,6 +51,61 @@ function rowsOf(): Row[] {
     { id: WALKED, title: "Walked", startTime: "2026-09-01T16:00:00.000Z", dailyTracking: HELD },
   ]
 }
+
+const NAMED = [at, day, difficulty, dryRun, fromFile, relationship, safety, title]
+
+const OPENING = "akasha track session open"
+
+const FILING = "akasha track session file"
+
+test("the flag is one this command takes", () => {
+  const argv = ["--title", "Held", "--relationship", "Jen"]
+  const read = takenFor(argv, OPENING, trackSessionOpen, NAMED)
+  expect("refused" in read ? read.refused : []).toEqual([])
+  expect("taken" in read ? read.taken.relationship : []).toEqual(["Jen"])
+})
+
+test("a flag said with nothing after it is refused rather than read as naming nothing", () => {
+  const ended = takenFor(["--title", "Held", "--relationship"], OPENING, trackSessionOpen, NAMED)
+  expect("refused" in ended ? ended.refused : []).toEqual([
+    "`--relationship` takes a value, and none follows it",
+  ])
+  const argv = ["--title", "Held", "--relationship", "--day", "2026-09-01"]
+  const read = takenFor(argv, OPENING, trackSessionOpen, NAMED)
+  expect("refused" in read ? read.refused : []).toEqual([
+    "`--relationship` takes a value, and none follows it",
+  ])
+})
+
+test("a flag said more than once is refused, and one that repeats gathers every saying", () => {
+  const twice = takenFor(["--title", "one", "--title", "two"], OPENING, trackSessionOpen, NAMED)
+  expect("refused" in twice ? twice.refused : []).toEqual([
+    "`--title` is said twice, and one call says it once",
+  ])
+  const argv = ["--title", "Held", "--relationship", "one", "--relationship", "two"]
+  const read = takenFor(argv, OPENING, trackSessionOpen, NAMED)
+  expect("taken" in read ? read.taken.relationship : []).toEqual(["one", "two"])
+})
+
+test("a lone dash is a value, so standard input survives being read as one", () => {
+  const read = takenFor(["--from-file", "-"], FILING, trackSessionFile, NAMED)
+  expect("refused" in read ? read.refused : []).toEqual([])
+  expect("taken" in read ? read.taken.fromFile : null).toBe("-")
+})
+
+test("a flag no value follows is refused, and what the command needs is still unsaid", () => {
+  const alone = takenFor(["--title"], OPENING, trackSessionOpen, NAMED)
+  expect("refused" in alone ? alone.refused : []).toEqual([
+    "`--title` takes a value, and none follows it",
+    "`akasha track session open` takes `--title`, and nothing said it",
+  ])
+  const argv = ["--title", "--day", "2026-09-01"]
+  const read = takenFor(argv, OPENING, trackSessionOpen, NAMED)
+  expect("refused" in read ? read.refused : []).toEqual([
+    "`--title` takes a value, and none follows it",
+    "`akasha track session open` takes `--title`, and nothing said it",
+  ])
+})
 
 test("a bare time falls on the day named, and a time naming its own day is not moved", () => {
   expect(anchoredIn({ day: "2026-09-01" }, "09:00")).toBe("2026-09-01 09:00")
