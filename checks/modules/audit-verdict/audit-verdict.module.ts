@@ -42,6 +42,20 @@ export const auditVerdict = {
       statement: "A verdict is kept outside the repository whose audits take it.",
     },
     {
+      invariantKind: "constraint",
+      statement: "A home has one verdicts file, and its checkouts sit at different commits.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A verdict missing a field its reader expects is dropped whole rather than in part.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Changing what a verdict states is a migration over every checkout rather than an edit.",
+    },
+    {
       invariantKind: "departure",
       statement: "The verdicts are kept beside the units as the outages are.",
     },
