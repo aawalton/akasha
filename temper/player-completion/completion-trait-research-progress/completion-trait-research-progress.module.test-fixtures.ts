@@ -4,12 +4,12 @@ import type {
   TraitResearchLine,
   TraitResearchTrait,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import type { CompletionCharacterRow } from "akasha/temper/player-completion/completion-character-row/completion-character-row.module.code.ts"
 import type {
   TraitResearchCatalogCraftType,
   TraitResearchCatalogLine,
   TraitResearchCatalogTrait,
 } from "akasha/temper/player-completion/completion-trait-research-progress/completion-trait-research-progress.module.code.ts"
+import type { CompletionCharacterRow } from "akasha/temper/player-completion/modules/completion-character-row/completion-character-row.module.code.ts"
 
 const WEAPON_TRAIT_NAMES: readonly string[] = [
   "Powered",

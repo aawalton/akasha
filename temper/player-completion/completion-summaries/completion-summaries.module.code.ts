@@ -1,6 +1,4 @@
 import type { AccountCompletion } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import type { CompletionCharacterRow } from "akasha/temper/player-completion/completion-character-row/completion-character-row.module.code.ts"
-import { transformCollectiblesProgress } from "akasha/temper/player-completion/completion-collectibles-progress/completion-collectibles-progress.module.code.ts"
 import {
   transformCharacterCompanionRapport,
   transformCompanionProgress,
@@ -48,6 +46,8 @@ import type {
   CompanionSummaryData,
 } from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import type { CompletionCatalogs } from "akasha/temper/player-completion/modules/completion-catalogs/completion-catalogs.module.code.ts"
+import type { CompletionCharacterRow } from "akasha/temper/player-completion/modules/completion-character-row/completion-character-row.module.code.ts"
+import { transformCollectiblesProgress } from "akasha/temper/player-completion/modules/completion-collectibles-progress/completion-collectibles-progress.module.code.ts"
 import { transformSubclassingSkillMorphProgress } from "akasha/temper/skill-morphs/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
 
 export interface CompletionSummariesInput {

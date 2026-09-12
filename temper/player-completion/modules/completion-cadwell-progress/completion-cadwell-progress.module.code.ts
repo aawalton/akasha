@@ -1,4 +1,3 @@
-import type { CompletionCharacterRow } from "akasha/temper/player-completion/completion-character-row/completion-character-row.module.code.ts"
 import { isCharacterMeasured } from "akasha/temper/player-completion/completion-measured/completion-measured.module.code.ts"
 import type {
   CadwellLevelEntry,
@@ -10,6 +9,7 @@ import {
   cadwellTotalCount,
   isCadwellCoordinateComplete,
 } from "akasha/temper/player-completion/modules/completion-cadwell-lookup/completion-cadwell-lookup.module.code.ts"
+import type { CompletionCharacterRow } from "akasha/temper/player-completion/modules/completion-character-row/completion-character-row.module.code.ts"
 
 interface GatheredCadwellPoi {
   poiIndex: number

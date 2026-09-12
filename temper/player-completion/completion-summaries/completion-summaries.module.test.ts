@@ -3,7 +3,6 @@ import type {
   AccountCompletion,
   CharacterCompletion,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import type { CompletionCharacterRow } from "akasha/temper/player-completion/completion-character-row/completion-character-row.module.code.ts"
 import { computeOverallCompletionScore } from "akasha/temper/player-completion/completion-scope-rollup/completion-scope-rollup.module.code.ts"
 import {
   buildCompletionSummaries,
@@ -19,6 +18,7 @@ import {
   type CompletionCatalogs,
   NO_COMPLETION_CATALOGS,
 } from "akasha/temper/player-completion/modules/completion-catalogs/completion-catalogs.module.code.ts"
+import type { CompletionCharacterRow } from "akasha/temper/player-completion/modules/completion-character-row/completion-character-row.module.code.ts"
 
 const NOTHING = {
   characterRows: [],

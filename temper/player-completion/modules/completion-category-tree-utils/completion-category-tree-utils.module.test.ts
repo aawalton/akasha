@@ -1,8 +1,4 @@
 import { describe, expect, test } from "bun:test"
-import {
-  getCompletionNodeChildren,
-  getCompletionNodePath,
-} from "akasha/temper/player-completion/completion-category-tree-utils/completion-category-tree-utils.module.code.ts"
 import { COMPLETION_CATEGORY_TREE_STATIC } from "akasha/temper/player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
 import {
   ACCOUNT_ACHIEVEMENTS_CARD_ID,
@@ -10,6 +6,10 @@ import {
   composeCompletionCategoryTree,
 } from "akasha/temper/player-completion/modules/completion-category-tree-composed/completion-category-tree-composed.module.code.ts"
 import type { CompletionCategoryTree } from "akasha/temper/player-completion/modules/completion-category-tree-types/completion-category-tree-types.module.code.ts"
+import {
+  getCompletionNodeChildren,
+  getCompletionNodePath,
+} from "akasha/temper/player-completion/modules/completion-category-tree-utils/completion-category-tree-utils.module.code.ts"
 
 const ACCOUNT_HEADINGS: readonly AchievementHeading[] = [
   { name: "Crafting", subCategories: [{ name: "Enchanting" }, { name: "Provisioning" }] },

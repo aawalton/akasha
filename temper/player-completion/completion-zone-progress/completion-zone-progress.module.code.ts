@@ -1,4 +1,3 @@
-import type { CompletionCharacterRow } from "akasha/temper/player-completion/completion-character-row/completion-character-row.module.code.ts"
 import { isCharacterMeasured } from "akasha/temper/player-completion/completion-measured/completion-measured.module.code.ts"
 import type {
   CharacterZoneCompletionProgress,
@@ -6,6 +5,7 @@ import type {
   ZoneCompletionTypeProgress,
   ZoneCompletionZoneProgress,
 } from "akasha/temper/player-completion/completion-ui-types/completion-ui-types.module.code.ts"
+import type { CompletionCharacterRow } from "akasha/temper/player-completion/modules/completion-character-row/completion-character-row.module.code.ts"
 
 export interface ZoneCompletionCatalogActivity {
   completionType: number

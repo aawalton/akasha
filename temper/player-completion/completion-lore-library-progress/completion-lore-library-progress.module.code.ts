@@ -3,12 +3,12 @@ import type {
   LoreCategory,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import { LORE_LIBRARY_DATA } from "akasha/temper/completion/lore-library-data/lore-library-data.module.code.ts"
-import type { CompletionCharacterRow } from "akasha/temper/player-completion/completion-character-row/completion-character-row.module.code.ts"
 import { isCharacterMeasured } from "akasha/temper/player-completion/completion-measured/completion-measured.module.code.ts"
 import type {
   CharacterLoreLibraryProgress,
   LoreCategoryProgress,
 } from "akasha/temper/player-completion/completion-ui-types/completion-ui-types.module.code.ts"
+import type { CompletionCharacterRow } from "akasha/temper/player-completion/modules/completion-character-row/completion-character-row.module.code.ts"
 
 type LoreLibrary = NonNullable<CharacterCompletion["loreLibrary"]>
 

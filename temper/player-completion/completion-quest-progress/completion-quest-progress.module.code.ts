@@ -1,4 +1,3 @@
-import type { CompletionCharacterRow } from "akasha/temper/player-completion/completion-character-row/completion-character-row.module.code.ts"
 import { isCharacterMeasured } from "akasha/temper/player-completion/completion-measured/completion-measured.module.code.ts"
 import type {
   CharacterQuestProgress,
@@ -8,6 +7,7 @@ import {
   COMPANION_QUEST_DATA,
   companionQuestIds,
 } from "akasha/temper/player-completion/modules/companion-quest-data/companion-quest-data.module.code.ts"
+import type { CompletionCharacterRow } from "akasha/temper/player-completion/modules/completion-character-row/completion-character-row.module.code.ts"
 
 export interface QuestCatalogQuest {
   esoQuestId: number

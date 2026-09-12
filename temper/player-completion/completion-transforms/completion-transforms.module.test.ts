@@ -1,11 +1,11 @@
 import { describe, expect, test } from "bun:test"
 import type { CharacterCompletion } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import type { CompletionCharacterRow } from "akasha/temper/player-completion/completion-character-row/completion-character-row.module.code.ts"
 import type {
   TraitResearchCatalogCraftType,
   TraitResearchCatalogLine,
 } from "akasha/temper/player-completion/completion-trait-research-progress/completion-trait-research-progress.module.code.ts"
 import { transformCompletionCharacters } from "akasha/temper/player-completion/completion-transforms/completion-transforms.module.code.ts"
+import type { CompletionCharacterRow } from "akasha/temper/player-completion/modules/completion-character-row/completion-character-row.module.code.ts"
 
 const ROSTER_ONLY: CharacterCompletion = {
   gender: 1,
