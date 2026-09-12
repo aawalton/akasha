@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import type { LrclibRecord } from "akasha/alan/music/catalog/lrclib-schema/lrclib-schema.module.code.ts"
+import type { LrclibRecord } from "akasha/alan/music/catalog/modules/lrclib-schema/lrclib-schema.module.code.ts"
 import type {
   MbArtist,
   MbRecording,

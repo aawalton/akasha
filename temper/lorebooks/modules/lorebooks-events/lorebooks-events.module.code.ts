@@ -1,4 +1,3 @@
-import { STATE } from "akasha/temper/lorebooks/lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
 import {
   LORE_LIBRARY_CRAFTING,
   LORE_LIBRARY_EIDETIC,
@@ -12,6 +11,7 @@ import {
   PINS_EIDETIC_COLLECTED,
   PINS_UNKNOWN,
 } from "akasha/temper/lorebooks/modules/lorebooks-constants/lorebooks-constants.module.code.ts"
+import { STATE } from "akasha/temper/lorebooks/modules/lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
 
 export function onShowBook(
   this: void,

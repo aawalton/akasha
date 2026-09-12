@@ -1,7 +1,4 @@
 import * as path from "node:path"
-import { createHoistableVariableDeclarationStatement } from "akasha/design/language/lua-compiler/lua-ast/lua-ast.module.code.ts"
-import * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "akasha/design/language/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
 import {
   createStaticPromiseFunctionAccessor,
   importLuaLibFeature,
@@ -14,6 +11,9 @@ import {
 import type { TransformationContext } from "akasha/design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"
 import type { FunctionVisitor } from "akasha/design/language/lua-compiler/modules/context-visitors/context-visitors.module.code.ts"
 import { createDefaultExportStringLiteral } from "akasha/design/language/lua-compiler/modules/export-scope/export-scope.module.code.ts"
+import { createHoistableVariableDeclarationStatement } from "akasha/design/language/lua-compiler/modules/lua-ast/lua-ast.module.code.ts"
+import * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-ast-statements/lua-ast-statements.module.code.ts"
 import { createSafeName } from "akasha/design/language/lua-compiler/safe-names/safe-names.module.code.ts"
 import { peekScope } from "akasha/design/language/lua-compiler/scope/scope.module.code.ts"
 import {

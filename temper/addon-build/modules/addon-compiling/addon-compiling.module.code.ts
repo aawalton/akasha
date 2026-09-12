@@ -1,16 +1,16 @@
 import { existsSync, rmSync, statSync } from "node:fs"
 import { join } from "node:path"
 import {
-  compilerCommand,
-  compilerEntry,
-  compilerRoot,
-} from "akasha/temper/addon-build/lua-build-command/lua-build-command.module.code.ts"
-import {
   ADDON_BUILD_REL_ROOT,
   compilerConfigPathFor,
   TSCONFIG_NAME,
 } from "akasha/temper/addon-build/modules/addon-compiler-config/addon-compiler-config.module.code.ts"
 import { copyAddonMetadata } from "akasha/temper/addon-build/modules/addon-metadata-copy/addon-metadata-copy.module.code.ts"
+import {
+  compilerCommand,
+  compilerEntry,
+  compilerRoot,
+} from "akasha/temper/addon-build/modules/lua-build-command/lua-build-command.module.code.ts"
 import { listAllAddons } from "akasha/temper/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
 import {
   readSiblingAddonNames,

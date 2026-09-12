@@ -1,11 +1,11 @@
-import { wrapInToStringForConcat } from "akasha/design/language/lua-compiler/lua-ast/lua-ast.module.code.ts"
-import * as luaCore from "akasha/design/language/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
-import * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import type { FunctionVisitor } from "akasha/design/language/lua-compiler/modules/context-visitors/context-visitors.module.code.ts"
 import {
   ContextType,
   getCallContextType,
 } from "akasha/design/language/lua-compiler/modules/function-context/function-context.module.code.ts"
+import { wrapInToStringForConcat } from "akasha/design/language/lua-compiler/modules/lua-ast/lua-ast.module.code.ts"
+import * as luaCore from "akasha/design/language/lua-compiler/modules/lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import { isStringType } from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
 import { transformContextualCallExpression } from "akasha/design/language/lua-compiler/visit-call/visit-call.module.code.ts"
 import * as ts from "typescript"

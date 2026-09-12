@@ -1,19 +1,3 @@
-import { STATE } from "akasha/temper/lorebooks/lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
-import {
-  EXPLORATION_ACHIEVEMENT_IDS,
-  MAIN_QUEST_ACHIEVEMENT_IDS,
-  ZONE_QUEST_ACHIEVEMENT_IDS,
-} from "akasha/temper/lorebooks/lorebooks-shalidor-achievements/lorebooks-shalidor-achievements.module.code.ts"
-import { SHALIDOR_LOCATIONS } from "akasha/temper/lorebooks/lorebooks-shalidor-locations/lorebooks-shalidor-locations.module.code.ts"
-import type {
-  BookshelfEntry,
-  EideticBook,
-  EideticBookTable,
-  EideticBookZoneEntry,
-  ShalidorDataTable,
-  ShalidorMapData,
-  ShalidorPinEntry,
-} from "akasha/temper/lorebooks/lorebooks-types/lorebooks-types.module.code.ts"
 import { BOOK_DATA } from "akasha/temper/lorebooks/modules/lorebooks-book-data/lorebooks-book-data.module.code.ts"
 import { BOOKSHELF_DATA } from "akasha/temper/lorebooks/modules/lorebooks-bookshelf-data/lorebooks-bookshelf-data.module.code.ts"
 import {
@@ -31,6 +15,22 @@ import {
   SHALIDOR_LOCATION_Y,
 } from "akasha/temper/lorebooks/modules/lorebooks-constants/lorebooks-constants.module.code.ts"
 import { LIBRARY_DATA } from "akasha/temper/lorebooks/modules/lorebooks-library-data/lorebooks-library-data.module.code.ts"
+import { STATE } from "akasha/temper/lorebooks/modules/lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
+import {
+  EXPLORATION_ACHIEVEMENT_IDS,
+  MAIN_QUEST_ACHIEVEMENT_IDS,
+  ZONE_QUEST_ACHIEVEMENT_IDS,
+} from "akasha/temper/lorebooks/modules/lorebooks-shalidor-achievements/lorebooks-shalidor-achievements.module.code.ts"
+import { SHALIDOR_LOCATIONS } from "akasha/temper/lorebooks/modules/lorebooks-shalidor-locations/lorebooks-shalidor-locations.module.code.ts"
+import type {
+  BookshelfEntry,
+  EideticBook,
+  EideticBookTable,
+  EideticBookZoneEntry,
+  ShalidorDataTable,
+  ShalidorMapData,
+  ShalidorPinEntry,
+} from "akasha/temper/lorebooks/modules/lorebooks-types/lorebooks-types.module.code.ts"
 
 export function loreBooksGetBookData(): EideticBookTable {
   return BOOK_DATA

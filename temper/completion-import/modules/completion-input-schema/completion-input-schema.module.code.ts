@@ -1,4 +1,4 @@
-import { luaArrayOrEmpty } from "akasha/temper/saved-variables/lua-array/lua-array.module.code.ts"
+import { luaArrayOrEmpty } from "akasha/temper/saved-variables/modules/lua-array/lua-array.module.code.ts"
 import { z } from "zod"
 
 function tolerant<T extends z.ZodTypeAny>(schema: T) {

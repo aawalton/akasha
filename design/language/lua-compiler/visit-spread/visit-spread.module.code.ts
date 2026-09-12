@@ -1,5 +1,3 @@
-import { createUnpackCall } from "akasha/design/language/lua-compiler/lua-ast/lua-ast.module.code.ts"
-import * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import { transformLuaLibFunction } from "akasha/design/language/lua-compiler/lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "akasha/design/language/lua-compiler/lualib-features/lualib-features.module.code.ts"
 import { LuaTarget } from "akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts"
@@ -9,6 +7,8 @@ import {
   getIterableExtensionKindForNode,
   IterableExtensionKind,
 } from "akasha/design/language/lua-compiler/modules/language-extension-kinds/language-extension-kinds.module.code.ts"
+import { createUnpackCall } from "akasha/design/language/lua-compiler/modules/lua-ast/lua-ast.module.code.ts"
+import * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import {
   findScope,
   hasReferencedSymbol,

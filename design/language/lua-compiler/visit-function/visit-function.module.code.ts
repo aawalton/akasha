@@ -1,11 +1,3 @@
-import {
-  createLocalOrExportedOrGlobalDeclaration,
-  createSelfIdentifier,
-  wrapInTable,
-} from "akasha/design/language/lua-compiler/lua-ast/lua-ast.module.code.ts"
-import * as luaCore from "akasha/design/language/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
-import * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "akasha/design/language/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
 import { transformLuaLibFunction } from "akasha/design/language/lua-compiler/lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "akasha/design/language/lua-compiler/lualib-features/lualib-features.module.code.ts"
 import { LuaTarget } from "akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts"
@@ -20,6 +12,14 @@ import {
   ContextType,
   getFunctionContextType,
 } from "akasha/design/language/lua-compiler/modules/function-context/function-context.module.code.ts"
+import {
+  createLocalOrExportedOrGlobalDeclaration,
+  createSelfIdentifier,
+  wrapInTable,
+} from "akasha/design/language/lua-compiler/modules/lua-ast/lua-ast.module.code.ts"
+import * as luaCore from "akasha/design/language/lua-compiler/modules/lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-ast-statements/lua-ast-statements.module.code.ts"
 import { transformInPrecedingStatementScope } from "akasha/design/language/lua-compiler/preceding-statements/preceding-statements.module.code.ts"
 import {
   peekScope,

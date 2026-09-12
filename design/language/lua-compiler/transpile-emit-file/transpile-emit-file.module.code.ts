@@ -1,4 +1,4 @@
-import type * as luaStatements from "akasha/design/language/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import type * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-ast-statements/lua-ast-statements.module.code.ts"
 import type { SourceNode } from "source-map"
 import type * as ts from "typescript"
 

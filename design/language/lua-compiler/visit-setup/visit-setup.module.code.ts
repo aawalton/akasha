@@ -1,6 +1,3 @@
-import { createLocalOrExportedOrGlobalDeclaration } from "akasha/design/language/lua-compiler/lua-ast/lua-ast.module.code.ts"
-import * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "akasha/design/language/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
 import { transformLuaLibFunction } from "akasha/design/language/lua-compiler/lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "akasha/design/language/lua-compiler/lualib-features/lualib-features.module.code.ts"
 import type { TransformationContext } from "akasha/design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"
@@ -11,6 +8,9 @@ import {
   hasDefaultExportModifier,
 } from "akasha/design/language/lua-compiler/modules/export-scope/export-scope.module.code.ts"
 import { createExportsIdentifier } from "akasha/design/language/lua-compiler/modules/exports-identifier/exports-identifier.module.code.ts"
+import { createLocalOrExportedOrGlobalDeclaration } from "akasha/design/language/lua-compiler/modules/lua-ast/lua-ast.module.code.ts"
+import * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-ast-statements/lua-ast-statements.module.code.ts"
 import { assert } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
 import {
   getExtendedNode,

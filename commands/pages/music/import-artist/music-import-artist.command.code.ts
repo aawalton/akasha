@@ -1,10 +1,10 @@
-import { searchLyrics } from "akasha/alan/music/catalog/lrclib-client/lrclib-client.module.code.ts"
+import { searchLyrics } from "akasha/alan/music/catalog/modules/lrclib-client/lrclib-client.module.code.ts"
 import {
   lyricsFieldsOf,
   pickBestLyrics,
   type SongLyrics,
-} from "akasha/alan/music/catalog/lrclib-map/lrclib-map.module.code.ts"
-import type { LrclibRecord } from "akasha/alan/music/catalog/lrclib-schema/lrclib-schema.module.code.ts"
+} from "akasha/alan/music/catalog/modules/lrclib-map/lrclib-map.module.code.ts"
+import type { LrclibRecord } from "akasha/alan/music/catalog/modules/lrclib-schema/lrclib-schema.module.code.ts"
 import {
   browseArtistRecordings,
   browseWorks,

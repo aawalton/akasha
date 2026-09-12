@@ -1,5 +1,3 @@
-import { getQuestLocation } from "akasha/temper/lorebooks/lorebooks-quest-location/lorebooks-quest-location.module.code.ts"
-import { GPS } from "akasha/temper/lorebooks/lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
 import {
   LORE_LIBRARY_EIDETIC,
   LORE_LIBRARY_SHALIDOR,
@@ -9,6 +7,8 @@ import {
   loreBooksGetNewEideticData,
   loreBooksGetNewLoreBookInfo,
 } from "akasha/temper/lorebooks/modules/lorebooks-data-accessors/lorebooks-data-accessors.module.code.ts"
+import { getQuestLocation } from "akasha/temper/lorebooks/modules/lorebooks-quest-location/lorebooks-quest-location.module.code.ts"
+import { GPS } from "akasha/temper/lorebooks/modules/lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
 
 interface LoreLibraryRowOwner {
   EnterRow: (this: LoreLibraryRowOwner, row: unknown) => void

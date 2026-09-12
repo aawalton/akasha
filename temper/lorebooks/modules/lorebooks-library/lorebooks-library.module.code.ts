@@ -1,10 +1,3 @@
-import { REPORT_STATE } from "akasha/temper/lorebooks/lorebooks-report-state/lorebooks-report-state.module.code.ts"
-import {
-  isReportShown,
-  showLoreLibraryCopyReport,
-  showLoreLibraryReport,
-  switchLoreLibraryReportMode,
-} from "akasha/temper/lorebooks/lorebooks-reports/lorebooks-reports.module.code.ts"
 import { fireCallbacks } from "akasha/temper/lorebooks/modules/lorebooks-callbacks/lorebooks-callbacks.module.code.ts"
 import {
   CALLBACK_MOTIF_CHECKBOX_CHANGED,
@@ -25,6 +18,13 @@ import {
   onMouseExit,
   onRowMouseUp,
 } from "akasha/temper/lorebooks/modules/lorebooks-library-rows/lorebooks-library-rows.module.code.ts"
+import { REPORT_STATE } from "akasha/temper/lorebooks/modules/lorebooks-report-state/lorebooks-report-state.module.code.ts"
+import {
+  isReportShown,
+  showLoreLibraryCopyReport,
+  showLoreLibraryReport,
+  switchLoreLibraryReportMode,
+} from "akasha/temper/lorebooks/modules/lorebooks-reports/lorebooks-reports.module.code.ts"
 
 interface CollectionNodeData {
   categoryIndex: number

@@ -1,4 +1,3 @@
-import type { EideticBookTable } from "akasha/temper/lorebooks/lorebooks-types/lorebooks-types.module.code.ts"
 import { BOOK_DATA_00 } from "akasha/temper/lorebooks/modules/lorebooks-book-data-00/lorebooks-book-data-00.module.code.ts"
 import { BOOK_DATA_01 } from "akasha/temper/lorebooks/modules/lorebooks-book-data-01/lorebooks-book-data-01.module.code.ts"
 import { BOOK_DATA_02 } from "akasha/temper/lorebooks/modules/lorebooks-book-data-02/lorebooks-book-data-02.module.code.ts"
@@ -92,6 +91,7 @@ import { BOOK_DATA_89 } from "akasha/temper/lorebooks/modules/lorebooks-book-dat
 import { BOOK_DATA_90 } from "akasha/temper/lorebooks/modules/lorebooks-book-data-90/lorebooks-book-data-90.module.code.ts"
 import { BOOK_DATA_91 } from "akasha/temper/lorebooks/modules/lorebooks-book-data-91/lorebooks-book-data-91.module.code.ts"
 import { BOOK_DATA_92 } from "akasha/temper/lorebooks/modules/lorebooks-book-data-92/lorebooks-book-data-92.module.code.ts"
+import type { EideticBookTable } from "akasha/temper/lorebooks/modules/lorebooks-types/lorebooks-types.module.code.ts"
 
 export const BOOK_DATA: EideticBookTable = {
   ...BOOK_DATA_00,
