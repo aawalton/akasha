@@ -6,10 +6,19 @@ export const devServerStating = {
   slug: "dev-server-stating",
   definition: "the apps a dev server runs, and what a running one keeps on disk about itself",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement: "The apps are the web app pages the index names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal naming the app flag is answered with the apps there are.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal naming no app flag is answered as it was.",
     },
     {
       invariantKind: "departure",

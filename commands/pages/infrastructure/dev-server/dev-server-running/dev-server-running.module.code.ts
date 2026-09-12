@@ -1,4 +1,6 @@
 import { existsSync, openSync, unlinkSync } from "node:fs"
+import { seq as seqArgument } from "akasha/commands/arguments/pages/seq.argument.ts"
+import { webApp } from "akasha/commands/arguments/pages/web-app.argument.ts"
 import {
   asJson,
   INPUT,
@@ -7,10 +9,6 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
-import {
-  APP,
-  SEQ,
-} from "akasha/commands/pages/infrastructure/dev-server/dev-server-argument-reading/dev-server-argument-reading.module.code.ts"
 import {
   readEnvLocal,
   resolveEnvLocalPath,
@@ -66,7 +64,7 @@ export async function starting(
   const cwd = `${worktreePath}/${app.packagePath}`
   if (!existsSync(cwd)) {
     return refused(
-      `no app workspace is at ${cwd} — check that \`${SEQ}\` and \`${APP}\` name what you meant`,
+      `no app workspace is at ${cwd} — check that \`${seqArgument.said}\` and \`${webApp.said}\` name what you meant`,
       INPUT
     )
   }

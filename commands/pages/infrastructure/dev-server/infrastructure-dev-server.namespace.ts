@@ -13,7 +13,6 @@ export const infrastructureDevServer = {
     "command/infrastructure-dev-server-start",
     "command/infrastructure-dev-server-status",
     "command/infrastructure-dev-server-stop",
-    "module/dev-server-argument-reading",
     "module/dev-server-running",
   ],
 } as const satisfies Namespace

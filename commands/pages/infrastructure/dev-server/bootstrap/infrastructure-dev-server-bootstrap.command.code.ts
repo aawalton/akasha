@@ -1,4 +1,9 @@
 import { existsSync } from "node:fs"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { force } from "akasha/commands/arguments/pages/force.argument.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { seq } from "akasha/commands/arguments/pages/seq.argument.ts"
+import { webApp } from "akasha/commands/arguments/pages/web-app.argument.ts"
 import {
   codeOf,
   INPUT,
@@ -8,24 +13,13 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import type { Taking } from "akasha/commands/pages/infrastructure/dev-server/dev-server-argument-reading/dev-server-argument-reading.module.code.ts"
-import {
-  APP,
-  FORCE,
-  JSON_LINE,
-  readIn,
-  SEQ,
-} from "akasha/commands/pages/infrastructure/dev-server/dev-server-argument-reading/dev-server-argument-reading.module.code.ts"
+import { infrastructureDevServerBootstrap as page } from "akasha/commands/pages/infrastructure/dev-server/bootstrap/infrastructure-dev-server-bootstrap.command.ts"
 import {
   resolveEnvLocalPath,
   writeEnvLocalFromPages,
 } from "akasha/infrastructure/services/web-apps/dev-server-env-writing/dev-server-env-writing.module.code.ts"
+import { namingApps } from "akasha/infrastructure/services/web-apps/dev-server-stating/dev-server-stating.module.code.ts"
 import { resolveWorktreePath } from "akasha/infrastructure/services/web-apps/dev-server-worktree/dev-server-worktree.module.code.ts"
-
-export const TAKING: Taking = {
-  flags: [SEQ, APP, FORCE, JSON_LINE],
-  names: "one-server",
-}
 
 async function bootstrapping(read: {
   root: string
@@ -37,7 +31,7 @@ async function bootstrapping(read: {
   const worktreePath = await resolveWorktreePath(read.seq)
   const envPath = resolveEnvLocalPath(read.root, worktreePath, read.app)
   if (existsSync(envPath) && !read.force) {
-    return refused(`${envPath} is there already — say \`${FORCE}\` to write over it`, INPUT)
+    return refused(`${envPath} is there already — say \`${force.said}\` to write over it`, INPUT)
   }
   const written = writeEnvLocalFromPages({
     root: read.root,
@@ -54,15 +48,15 @@ export async function infrastructureDevServerBootstrap(
   argv: readonly string[],
   given: Given
 ): Promise<Answer> {
-  const read = readIn(argv, given.root, TAKING)
-  if ("refused" in read) return refusedBy(read.refused)
+  const read = takenFor(argv, given.calledAs, page, [json, force, seq, webApp])
+  if ("refused" in read) return refusedBy(namingApps(read.refused, given.root, webApp.said))
   try {
     return await bootstrapping({
       root: given.root,
-      seq: read.seq ?? 0,
-      app: read.app ?? "",
-      force: read.force,
-      json: read.json,
+      seq: read.taken.seq,
+      app: read.taken.webApp,
+      force: read.taken.force,
+      json: read.taken.json,
     })
   } catch (thrown) {
     return refused(whyOf(thrown), codeOf(thrown))

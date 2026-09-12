@@ -158,5 +158,15 @@ export const argumentTaking = {
       statement:
         "Every word after a bare `--` fills a word argument rather than being read as a flag.",
     },
+    {
+      invariantKind: "gap",
+      statement:
+        "An argument is known to be needed here, and what that argument must be one of is not.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A set read at run time is weighed by adding to this refusal rather than by reading the call.",
+    },
   ],
 } as const satisfies Module

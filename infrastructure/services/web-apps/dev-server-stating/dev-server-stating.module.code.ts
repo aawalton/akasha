@@ -74,6 +74,15 @@ export function appNamesIn(root: string): readonly string[] {
   return [...statedIn(root).keys()].sort()
 }
 
+export function namingApps(
+  refusals: readonly string[],
+  root: string,
+  said: string
+): readonly string[] {
+  if (!refusals.some((one) => one.includes(said))) return refusals
+  return [...refusals, `the apps there are \`${appNamesIn(root).join("`, `")}\``]
+}
+
 export function lookupApp(root: string, name: string): DevServerApp {
   const stated = statedIn(root)
   const said = stated.get(name)
