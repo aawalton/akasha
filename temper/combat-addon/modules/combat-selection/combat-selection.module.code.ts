@@ -1,4 +1,3 @@
-import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
 import {
   basicTable,
   CATEGORY_LIST,
@@ -17,6 +16,7 @@ import type {
   SelectionState,
 } from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
 import { getCalculated } from "akasha/temper/combat-addon/modules/combat-fight-model/combat-fight-model.module.code.ts"
+import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
 
 export const LAST_FIGHTS: CmxFight[] = []
 

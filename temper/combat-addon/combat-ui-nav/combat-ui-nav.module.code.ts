@@ -1,14 +1,4 @@
 import {
-  Delete,
-  DeleteLog,
-  GetNumFights,
-  getFight,
-  Load,
-  Save,
-} from "akasha/temper/combat-addon/combat-saved-fights/combat-saved-fights.module.code.ts"
-import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
-import { LAST_FIGHTS } from "akasha/temper/combat-addon/combat-selection/combat-selection.module.code.ts"
-import {
   searchtable,
   toggleFightList,
 } from "akasha/temper/combat-addon/combat-ui-helpers/combat-ui-helpers.module.code.ts"
@@ -19,6 +9,16 @@ import {
 } from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
 import type { CmxFight } from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
 import type { Fight as SavedFightShape } from "akasha/temper/combat-addon/modules/combat-fight-data-types/combat-fight-data-types.module.code.ts"
+import {
+  Delete,
+  DeleteLog,
+  GetNumFights,
+  getFight,
+  Load,
+  Save,
+} from "akasha/temper/combat-addon/modules/combat-saved-fights/combat-saved-fights.module.code.ts"
+import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
+import { LAST_FIGHTS } from "akasha/temper/combat-addon/modules/combat-selection/combat-selection.module.code.ts"
 
 function editTitleStart(this: void, control: Control): undefined {
   const label = control.GetNamedChild<LabelControl>("Name")

@@ -1,4 +1,3 @@
-import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
 import type { BuffBarEntry } from "akasha/temper/combat-addon/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
 import {
   getFightData,
@@ -12,6 +11,7 @@ import {
   LIBCOMBAT_EVENT_GROUPEFFECTS_IN,
   LIBCOMBAT_EVENT_GROUPEFFECTS_OUT,
 } from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
+import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
 
 type EffectLogLine = [
   event: number,

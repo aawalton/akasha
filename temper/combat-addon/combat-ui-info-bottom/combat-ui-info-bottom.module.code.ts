@@ -1,4 +1,3 @@
-import { spairs } from "akasha/temper/combat-addon/combat-sorted-pairs/combat-sorted-pairs.module.code.ts"
 import {
   ARMOR_COLORS,
   getEnchantQuality,
@@ -10,6 +9,7 @@ import {
   getFormattedAbilityIcon,
   getFormattedAbilityName,
 } from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
+import { spairs } from "akasha/temper/combat-addon/modules/combat-sorted-pairs/combat-sorted-pairs.module.code.ts"
 
 const EQUIP_SLOTS: Array<[number, string]> = [
   [EQUIP_SLOT_MAIN_HAND, "EsoUI/Art/CharacterWindow/gearslot_mainhand.dds"],

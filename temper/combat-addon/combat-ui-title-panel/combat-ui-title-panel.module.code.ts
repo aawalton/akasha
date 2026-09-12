@@ -1,9 +1,4 @@
 import {
-  GetNumFights,
-  getFights,
-} from "akasha/temper/combat-addon/combat-saved-fights/combat-saved-fights.module.code.ts"
-import { LAST_FIGHTS } from "akasha/temper/combat-addon/combat-selection/combat-selection.module.code.ts"
-import {
   searchtable,
   type TooltipCarrier,
 } from "akasha/temper/combat-addon/combat-ui-helpers/combat-ui-helpers.module.code.ts"
@@ -15,6 +10,11 @@ import {
   LOG_LEVEL_DEBUG,
   log,
 } from "akasha/temper/combat-addon/modules/combat-core-log/combat-core-log.module.code.ts"
+import {
+  GetNumFights,
+  getFights,
+} from "akasha/temper/combat-addon/modules/combat-saved-fights/combat-saved-fights.module.code.ts"
+import { LAST_FIGHTS } from "akasha/temper/combat-addon/modules/combat-selection/combat-selection.module.code.ts"
 
 interface TitleCharData {
   name?: string

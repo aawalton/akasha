@@ -1,4 +1,3 @@
-import type { TemperCombatSettings } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
 import { resizeLiveReport } from "akasha/temper/combat-addon/combat-ui-live-refresh/combat-ui-live-refresh.module.code.ts"
 import {
   setLiveReportBgAlpha,
@@ -12,6 +11,7 @@ import {
   removeCombatLog,
 } from "akasha/temper/combat-addon/modules/combat-core-events/combat-core-events.module.code.ts"
 import { setPenetrationDebuffValue } from "akasha/temper/combat-addon/modules/combat-data-tables/combat-data-tables.module.code.ts"
+import type { TemperCombatSettings } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
 
 export function buildMenuOptionsTail(
   db: TemperCombatSettings,

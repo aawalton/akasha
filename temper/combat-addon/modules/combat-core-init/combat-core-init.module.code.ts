@@ -1,9 +1,3 @@
-import { initializeFightData } from "akasha/temper/combat-addon/combat-saved-fights/combat-saved-fights.module.code.ts"
-import {
-  getSvDefaults,
-  initializeSavedVariables,
-} from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
-import { registerSlashCommands } from "akasha/temper/combat-addon/combat-slash-commands/combat-slash-commands.module.code.ts"
 import { initializeUI } from "akasha/temper/combat-addon/combat-ui-window/combat-ui-window.module.code.ts"
 import { initializeActions } from "akasha/temper/combat-addon/modules/combat-actions-init/combat-actions-init.module.code.ts"
 import {
@@ -26,6 +20,12 @@ import { setFightDataLog } from "akasha/temper/combat-addon/modules/combat-fight
 import { initializeLibCombat } from "akasha/temper/combat-addon/modules/combat-lib-init/combat-lib-init.module.code.ts"
 import { setLibCombatLog } from "akasha/temper/combat-addon/modules/combat-lib-log/combat-lib-log.module.code.ts"
 import { makeMenu } from "akasha/temper/combat-addon/modules/combat-menu/combat-menu.module.code.ts"
+import { initializeFightData } from "akasha/temper/combat-addon/modules/combat-saved-fights/combat-saved-fights.module.code.ts"
+import {
+  getSvDefaults,
+  initializeSavedVariables,
+} from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
+import { registerSlashCommands } from "akasha/temper/combat-addon/modules/combat-slash-commands/combat-slash-commands.module.code.ts"
 
 export function initializeCore(): undefined {
   const db = initializeSavedVariables()

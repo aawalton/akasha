@@ -1,17 +1,4 @@
 import {
-  processLogEffects,
-  processLogResources,
-  processLogStats,
-} from "akasha/temper/combat-addon/combat-process-log-effects/combat-process-log-effects.module.code.ts"
-import {
-  processBossHp,
-  processLogSkillTimings,
-  processMessages,
-  processPerformanceStats,
-  processQuickslotEvents,
-} from "akasha/temper/combat-addon/combat-process-log-timings/combat-process-log-timings.module.code.ts"
-import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
-import {
   basicTable,
   CATEGORY_LIST,
   type CategoryKey,
@@ -64,6 +51,19 @@ import {
   processLogHeal,
   processLogHealSelf,
 } from "akasha/temper/combat-addon/modules/combat-process-log-damage/combat-process-log-damage.module.code.ts"
+import {
+  processLogEffects,
+  processLogResources,
+  processLogStats,
+} from "akasha/temper/combat-addon/modules/combat-process-log-effects/combat-process-log-effects.module.code.ts"
+import {
+  processBossHp,
+  processLogSkillTimings,
+  processMessages,
+  processPerformanceStats,
+  processQuickslotEvents,
+} from "akasha/temper/combat-addon/modules/combat-process-log-timings/combat-process-log-timings.module.code.ts"
+import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
 
 const DESIRED_TIME = 0.01
 const STEP_SIZE = 20

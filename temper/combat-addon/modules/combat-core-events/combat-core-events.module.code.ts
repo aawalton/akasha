@@ -1,9 +1,3 @@
-import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
-import {
-  checkNumberOfFights,
-  getFightName,
-  LAST_FIGHTS,
-} from "akasha/temper/combat-addon/combat-selection/combat-selection.module.code.ts"
 import {
   toggleLiveReport,
   updateLiveReport,
@@ -47,6 +41,12 @@ import type {
   GroupRecapData,
   UnitEntry,
 } from "akasha/temper/combat-addon/modules/combat-lib-types/combat-lib-types.module.code.ts"
+import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
+import {
+  checkNumberOfFights,
+  getFightName,
+  LAST_FIGHTS,
+} from "akasha/temper/combat-addon/modules/combat-selection/combat-selection.module.code.ts"
 
 let updateReportHook: ((this: void) => void) | undefined
 

@@ -1,5 +1,3 @@
-import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
-import { spairs } from "akasha/temper/combat-addon/combat-sorted-pairs/combat-sorted-pairs.module.code.ts"
 import {
   addTooltipLine,
   namedChild,
@@ -14,6 +12,8 @@ import {
   updateScales,
   YAXIS_RIGHT,
 } from "akasha/temper/combat-addon/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
+import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
+import { spairs } from "akasha/temper/combat-addon/modules/combat-sorted-pairs/combat-sorted-pairs.module.code.ts"
 
 let START_X = 0
 let START_Y = 0

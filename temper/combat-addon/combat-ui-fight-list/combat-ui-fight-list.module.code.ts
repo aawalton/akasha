@@ -1,9 +1,3 @@
-import { getFights } from "akasha/temper/combat-addon/combat-saved-fights/combat-saved-fights.module.code.ts"
-import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
-import {
-  generateSelectionStats,
-  LAST_FIGHTS,
-} from "akasha/temper/combat-addon/combat-selection/combat-selection.module.code.ts"
 import type { TooltipCarrier } from "akasha/temper/combat-addon/combat-ui-helpers/combat-ui-helpers.module.code.ts"
 import {
   adjustRowSize,
@@ -33,6 +27,12 @@ import {
 } from "akasha/temper/combat-addon/modules/combat-core-log/combat-core-log.module.code.ts"
 import type { CmxFight } from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
 import type { SavedFight } from "akasha/temper/combat-addon/modules/combat-fight-data-types/combat-fight-data-types.module.code.ts"
+import { getFights } from "akasha/temper/combat-addon/modules/combat-saved-fights/combat-saved-fights.module.code.ts"
+import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
+import {
+  generateSelectionStats,
+  LAST_FIGHTS,
+} from "akasha/temper/combat-addon/modules/combat-selection/combat-selection.module.code.ts"
 
 function updateReportDeferred(this: void): undefined {
   const report = TemperCombat_Report

@@ -1,4 +1,3 @@
-import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
 import {
   addColoredText,
   type TooltipCarrier,
@@ -8,6 +7,7 @@ import {
   setCurrentCLPage,
   type UpdatableControl,
 } from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
+import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
 
 export interface CombatLogWindowControl extends Control {
   AddColoredText?: typeof addColoredText

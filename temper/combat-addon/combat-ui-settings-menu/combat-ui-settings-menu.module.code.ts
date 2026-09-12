@@ -1,9 +1,3 @@
-import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
-import {
-  getShowOverHeal,
-  LAST_FIGHTS,
-  setShowOverHeal,
-} from "akasha/temper/combat-addon/combat-selection/combat-selection.module.code.ts"
 import { exportBuild } from "akasha/temper/combat-addon/combat-ui-build-export/combat-ui-build-export.module.code.ts"
 import {
   POSTTOCHAT_MODE_HEALING,
@@ -23,6 +17,12 @@ import { updateReport } from "akasha/temper/combat-addon/combat-ui-window/combat
 import { calculateFight } from "akasha/temper/combat-addon/modules/combat-analysis/combat-analysis.module.code.ts"
 import type { CmxFight } from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
 import { openSettings } from "akasha/temper/combat-addon/modules/combat-menu/combat-menu.module.code.ts"
+import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
+import {
+  getShowOverHeal,
+  LAST_FIGHTS,
+  setShowOverHeal,
+} from "akasha/temper/combat-addon/modules/combat-selection/combat-selection.module.code.ts"
 import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 
 function toggleShowIds(this: void): undefined {
