@@ -2,6 +2,7 @@ import {
   DECLARATIONS,
   type Declaration,
 } from "akasha/agents/attributes/agent-attributes.module.code.ts"
+import { initiativeStemOf } from "akasha/agents/seats/modules/initiative/seat-initiative.module.code.ts"
 import { AKASHA, rootFor } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
 import { FLEET } from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
@@ -9,7 +10,6 @@ import {
   akashaSeatInHistory,
   akashaSeatNamedInHistory,
 } from "akasha/seat-system/seat-akasha-history/seat-akasha-history.module.code.ts"
-import { initiativeStemOf } from "akasha/seat-system/seat-initiative/seat-initiative.module.code.ts"
 
 const IN_ITS_OWN_FIELD: readonly Declaration[] = ["initiative", "on-call"]
 

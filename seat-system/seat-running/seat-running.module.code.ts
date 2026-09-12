@@ -14,6 +14,7 @@ import {
   refuseFlex,
 } from "akasha/agents/seats/modules/flex/seat-flex.module.code.ts"
 import { SEAT_HELP } from "akasha/agents/seats/modules/help/seat-help.module.code.ts"
+import { refuseInitiative } from "akasha/agents/seats/modules/initiative/seat-initiative.module.code.ts"
 import {
   AKASHA,
   akashaRoot,
@@ -32,7 +33,6 @@ import {
 import { type Args, parseArgs } from "akasha/seat-system/seat-args/seat-args.module.code.ts"
 import { attributeFor } from "akasha/seat-system/seat-attribute/seat-attribute.module.code.ts"
 import { defaultLines } from "akasha/seat-system/seat-defaults/seat-defaults.module.code.ts"
-import { refuseInitiative } from "akasha/seat-system/seat-initiative/seat-initiative.module.code.ts"
 import { nameStanding } from "akasha/seat-system/seat-name-stands/seat-name-stands.module.code.ts"
 import {
   nameableFrom,
