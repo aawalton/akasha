@@ -1,11 +1,3 @@
-import type {
-  PlotData,
-  XYPoint,
-} from "akasha/temper/combat-addon/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
-import {
-  YAXIS_LEFT,
-  YAXIS_RIGHT,
-} from "akasha/temper/combat-addon/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
 import { getFightData } from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
 import type {
   CoreLogLine,
@@ -22,6 +14,14 @@ import {
   LIBCOMBAT_STAT_MAXSTAMINA,
 } from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
+import type {
+  PlotData,
+  XYPoint,
+} from "akasha/temper/combat-addon/modules/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
+import {
+  YAXIS_LEFT,
+  YAXIS_RIGHT,
+} from "akasha/temper/combat-addon/modules/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
 
 type GraphData = Record<number, number | undefined>
 

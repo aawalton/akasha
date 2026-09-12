@@ -1,4 +1,3 @@
-import { initFightReport } from "akasha/temper/combat-addon/combat-ui-report-init/combat-ui-report-init.module.code.ts"
 import type { SelectionRowControl } from "akasha/temper/combat-addon/combat-ui-selection/combat-ui-selection.module.code.ts"
 import {
   getFightData,
@@ -17,6 +16,7 @@ import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables
 import { LAST_FIGHTS } from "akasha/temper/combat-addon/modules/combat-selection/combat-selection.module.code.ts"
 import type { LayoutControl } from "akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
 import { initLiveReport } from "akasha/temper/combat-addon/modules/combat-ui-live-report/combat-ui-live-report.module.code.ts"
+import { initFightReport } from "akasha/temper/combat-addon/modules/combat-ui-report-init/combat-ui-report-init.module.code.ts"
 
 function toggleFightReport(this: void): undefined {
   const db = getDb()

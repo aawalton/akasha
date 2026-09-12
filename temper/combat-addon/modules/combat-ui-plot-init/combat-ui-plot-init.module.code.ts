@@ -1,33 +1,3 @@
-import type { SelectorControl } from "akasha/temper/combat-addon/combat-ui-plot/combat-ui-plot.module.code.ts"
-import { updateGraphPanel } from "akasha/temper/combat-addon/combat-ui-plot/combat-ui-plot.module.code.ts"
-import {
-  bossHPAbsolute,
-  performancePlot,
-  resourceAbsolute,
-  smooth,
-  statAbsolute,
-  total,
-} from "akasha/temper/combat-addon/combat-ui-plot-data/combat-ui-plot-data.module.code.ts"
-import {
-  PLOT_TYPE_BAR,
-  PLOT_TYPE_TEMPLATES,
-  PLOT_TYPE_XY,
-} from "akasha/temper/combat-addon/combat-ui-plot-draw/combat-ui-plot-draw.module.code.ts"
-import type {
-  PlotControl,
-  PlotData,
-  PlotWindowControl,
-} from "akasha/temper/combat-addon/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
-import {
-  MAX_BAR_PLOTS,
-  MAX_XY_PLOTS,
-} from "akasha/temper/combat-addon/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
-import {
-  getCustomMenuFunction,
-  getPlotMenuData,
-  PLOT_FUNCTIONS,
-} from "akasha/temper/combat-addon/combat-ui-plot-menus/combat-ui-plot-menus.module.code.ts"
-import { editLabelStart } from "akasha/temper/combat-addon/combat-ui-plot-mouse/combat-ui-plot-mouse.module.code.ts"
 import type { DamageCategory } from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
 import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
 import type {
@@ -35,6 +5,36 @@ import type {
   TooltipCarrier,
 } from "akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
 import { namedChild } from "akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
+import type { SelectorControl } from "akasha/temper/combat-addon/modules/combat-ui-plot/combat-ui-plot.module.code.ts"
+import { updateGraphPanel } from "akasha/temper/combat-addon/modules/combat-ui-plot/combat-ui-plot.module.code.ts"
+import {
+  bossHPAbsolute,
+  performancePlot,
+  resourceAbsolute,
+  smooth,
+  statAbsolute,
+  total,
+} from "akasha/temper/combat-addon/modules/combat-ui-plot-data/combat-ui-plot-data.module.code.ts"
+import {
+  PLOT_TYPE_BAR,
+  PLOT_TYPE_TEMPLATES,
+  PLOT_TYPE_XY,
+} from "akasha/temper/combat-addon/modules/combat-ui-plot-draw/combat-ui-plot-draw.module.code.ts"
+import type {
+  PlotControl,
+  PlotData,
+  PlotWindowControl,
+} from "akasha/temper/combat-addon/modules/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
+import {
+  MAX_BAR_PLOTS,
+  MAX_XY_PLOTS,
+} from "akasha/temper/combat-addon/modules/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
+import {
+  getCustomMenuFunction,
+  getPlotMenuData,
+  PLOT_FUNCTIONS,
+} from "akasha/temper/combat-addon/modules/combat-ui-plot-menus/combat-ui-plot-menus.module.code.ts"
+import { editLabelStart } from "akasha/temper/combat-addon/modules/combat-ui-plot-mouse/combat-ui-plot-mouse.module.code.ts"
 
 const PLOT_DEFAULT_FUNCTION: Record<
   number,

@@ -1,20 +1,3 @@
-import { acquireBuffData } from "akasha/temper/combat-addon/combat-ui-plot-buffs/combat-ui-plot-buffs.module.code.ts"
-import {
-  drawPlot,
-  PLOT_TYPE_BAR,
-} from "akasha/temper/combat-addon/combat-ui-plot-draw/combat-ui-plot-draw.module.code.ts"
-import type {
-  PlotControl,
-  PlotData,
-  PlotWindowControl,
-} from "akasha/temper/combat-addon/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
-import {
-  acquireRange,
-  getRequiredRange,
-  MAX_BAR_PLOTS,
-  updateScales,
-  YAXIS_RIGHT,
-} from "akasha/temper/combat-addon/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
 import {
   getFightData,
   getSelections,
@@ -29,6 +12,23 @@ import {
 } from "akasha/temper/combat-addon/modules/combat-ui-buff-panel/combat-ui-buff-panel.module.code.ts"
 import type { TooltipCarrier } from "akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
 import { namedChild } from "akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
+import { acquireBuffData } from "akasha/temper/combat-addon/modules/combat-ui-plot-buffs/combat-ui-plot-buffs.module.code.ts"
+import {
+  drawPlot,
+  PLOT_TYPE_BAR,
+} from "akasha/temper/combat-addon/modules/combat-ui-plot-draw/combat-ui-plot-draw.module.code.ts"
+import type {
+  PlotControl,
+  PlotData,
+  PlotWindowControl,
+} from "akasha/temper/combat-addon/modules/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
+import {
+  acquireRange,
+  getRequiredRange,
+  MAX_BAR_PLOTS,
+  updateScales,
+  YAXIS_RIGHT,
+} from "akasha/temper/combat-addon/modules/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
 
 export interface SelectorControl extends Control {
   id: number

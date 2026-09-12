@@ -1,11 +1,5 @@
 import { REPORT_SCENE_NAME } from "akasha/temper/combat-addon/modules/combat-constants/combat-constants.module.code.ts"
-import "akasha/temper/combat-addon/combat-ui-report-rows/combat-ui-report-rows.module.code.ts"
-import { updateGraphPanel } from "akasha/temper/combat-addon/combat-ui-plot/combat-ui-plot.module.code.ts"
-import {
-  initPlotToolbar,
-  initPlotWindow,
-} from "akasha/temper/combat-addon/combat-ui-plot-init/combat-ui-plot-init.module.code.ts"
-import type { PlotWindowControl } from "akasha/temper/combat-addon/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
+import "akasha/temper/combat-addon/modules/combat-ui-report-rows/combat-ui-report-rows.module.code.ts"
 import { updateResourcePanel } from "akasha/temper/combat-addon/combat-ui-resource-panel/combat-ui-resource-panel.module.code.ts"
 import type { UpdatableControl } from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
 import {
@@ -48,6 +42,12 @@ import {
   selectRightPanel,
   updateAttackStatsSelector,
 } from "akasha/temper/combat-addon/modules/combat-ui-nav-select/combat-ui-nav-select.module.code.ts"
+import { updateGraphPanel } from "akasha/temper/combat-addon/modules/combat-ui-plot/combat-ui-plot.module.code.ts"
+import {
+  initPlotToolbar,
+  initPlotWindow,
+} from "akasha/temper/combat-addon/modules/combat-ui-plot-init/combat-ui-plot-init.module.code.ts"
+import type { PlotWindowControl } from "akasha/temper/combat-addon/modules/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
 
 function maxStatName(this: void): string {
   const [, magicka] = GetUnitPower("player", COMBAT_MECHANIC_FLAGS_MAGICKA)
