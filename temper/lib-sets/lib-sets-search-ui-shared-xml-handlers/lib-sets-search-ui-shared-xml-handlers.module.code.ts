@@ -1,11 +1,4 @@
 import {
-  asGlobalTable,
-  asStringOpt,
-  asStrRecordOpt,
-  asTyped,
-  type StrRecordOpt,
-} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
-import {
   getGamepadSearchUI,
   getKeyboardSearchUI,
 } from "akasha/temper/lib-sets/lib-sets-search-ui-searchui-globals/lib-sets-search-ui-searchui-globals.module.code.ts"
@@ -13,6 +6,13 @@ import {
   brandSharedSearchUIClassGlobal,
   getSharedSearchUIClass,
 } from "akasha/temper/lib-sets/lib-sets-search-ui-shared-class/lib-sets-search-ui-shared-class.module.code.ts"
+import {
+  asGlobalTable,
+  asStringOpt,
+  asStrRecordOpt,
+  asTyped,
+  type StrRecordOpt,
+} from "akasha/temper/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
 
 const lib = LibSets
 

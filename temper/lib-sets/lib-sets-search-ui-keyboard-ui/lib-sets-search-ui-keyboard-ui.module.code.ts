@@ -1,9 +1,3 @@
-import {
-  asAnyObject,
-  asNumberOpt,
-  asString,
-  asTyped,
-} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import { asSearchUIControlOpt } from "akasha/temper/lib-sets/lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
 import {
   getKeyboardSearchUIClass,
@@ -15,6 +9,12 @@ import {
   searchUI,
   searchUIName,
 } from "akasha/temper/lib-sets/lib-sets-search-ui-shared-state/lib-sets-search-ui-shared-state.module.code.ts"
+import {
+  asAnyObject,
+  asNumberOpt,
+  asString,
+  asTyped,
+} from "akasha/temper/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
 
 const lib = LibSets
 const libPrefix = lib.prefix

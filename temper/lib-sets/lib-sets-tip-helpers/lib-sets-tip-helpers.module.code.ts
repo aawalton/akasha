@@ -1,15 +1,4 @@
 import {
-  asAnyObject,
-  asNumber,
-  asNumberOpt,
-  asPresent,
-  asString,
-  asStringArray,
-  asStringOpt,
-  asStrRecordOpt,
-  asUnknownArray,
-} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
-import {
   asAnyNotNilTable,
   asEquipBoolTable,
   asFavoritesAccessor,
@@ -22,6 +11,17 @@ import {
 } from "akasha/temper/lib-sets/lib-sets-tip-header/lib-sets-tip-header.module.code.ts"
 import { getSetReconstructionCost } from "akasha/temper/lib-sets/lib-sets-tip-item-link/lib-sets-tip-item-link.module.code.ts"
 import { STATE } from "akasha/temper/lib-sets/lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
+import {
+  asAnyObject,
+  asNumber,
+  asNumberOpt,
+  asPresent,
+  asString,
+  asStringArray,
+  asStringOpt,
+  asStrRecordOpt,
+  asUnknownArray,
+} from "akasha/temper/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
 
 const lib = LibSets
 

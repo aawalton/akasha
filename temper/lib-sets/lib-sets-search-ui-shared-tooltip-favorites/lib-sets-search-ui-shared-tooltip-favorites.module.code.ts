@@ -1,10 +1,10 @@
+import { asLibSetsSearchRowDataOpt } from "akasha/temper/lib-sets/lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
 import {
   asNumber,
   asNumberOpt,
   asPresent,
   asTyped,
-} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
-import { asLibSetsSearchRowDataOpt } from "akasha/temper/lib-sets/lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
+} from "akasha/temper/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
 
 const lib = LibSets
 

@@ -1,7 +1,7 @@
 "use client"
 
 import { useWindowVirtualizer } from "@tanstack/react-virtual"
-import { COLUMN_GAP } from "akasha/design/interfaces/layout/layout-data/layout-data.module.code.ts"
+import { COLUMN_GAP } from "akasha/design/interfaces/layout/modules/layout-data/layout-data.module.code.ts"
 import { useColumnCount } from "akasha/design/interfaces/layout/use-column-count/use-column-count.module.code.tsx"
 import { type ReactNode, useMemo, useRef } from "react"
 

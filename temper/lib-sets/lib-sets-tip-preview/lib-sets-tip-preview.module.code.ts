@@ -1,9 +1,4 @@
 import {
-  asNumberOpt,
-  asPresent,
-  asTyped,
-} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
-import {
   asHiddenProbeCtrl,
   asNumStrOpt,
   asSetLangNamesOpt,
@@ -11,6 +6,11 @@ import {
 } from "akasha/temper/lib-sets/lib-sets-tip-casts/lib-sets-tip-casts.module.code.ts"
 import { langToUse } from "akasha/temper/lib-sets/lib-sets-tip-header/lib-sets-tip-header.module.code.ts"
 import { STATE } from "akasha/temper/lib-sets/lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
+import {
+  asNumberOpt,
+  asPresent,
+  asTyped,
+} from "akasha/temper/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
 
 const lib = LibSets
 

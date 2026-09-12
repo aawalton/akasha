@@ -1,13 +1,13 @@
 import {
-  asBooleanOpt,
-  asPresent,
-  asStrRecordOpt,
-} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
-import {
   asAnyObjectOpt,
   asCategoryRecordOpt,
   asSearchHistoryStringMapOpt,
 } from "akasha/temper/lib-sets/lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
+import {
+  asBooleanOpt,
+  asPresent,
+  asStrRecordOpt,
+} from "akasha/temper/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
 
 const lib = LibSets
 

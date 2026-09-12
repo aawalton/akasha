@@ -1,8 +1,4 @@
 import {
-  asNumberArrayOpt,
-  asPresent,
-} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
-import {
   asCategoryBoolMapOpt,
   asDropLocationNamesMapOpt,
   asFavoritesNestedMapOpt,
@@ -11,6 +7,10 @@ import {
   asPrefilterSetData,
 } from "akasha/temper/lib-sets/lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
 import { getSharedSearchUIClass } from "akasha/temper/lib-sets/lib-sets-search-ui-shared-class/lib-sets-search-ui-shared-class.module.code.ts"
+import {
+  asNumberArrayOpt,
+  asPresent,
+} from "akasha/temper/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
 
 const lib = LibSets
 

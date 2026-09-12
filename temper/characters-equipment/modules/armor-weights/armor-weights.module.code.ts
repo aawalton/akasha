@@ -1,4 +1,3 @@
-import { getArmorBaseValueForLevel } from "akasha/temper/characters-equipment/level-scaling/level-scaling.module.code.ts"
 import {
   calculateNirnhonedValue,
   calculateReinforcedValue,
@@ -7,6 +6,7 @@ import type {
   ArmorItem,
   ItemLevel,
 } from "akasha/temper/characters-equipment/modules/item-composites/item-composites.module.code.ts"
+import { getArmorBaseValueForLevel } from "akasha/temper/characters-equipment/modules/level-scaling/level-scaling.module.code.ts"
 import type {
   ArmorWeightId,
   StandardArmorWeightId,

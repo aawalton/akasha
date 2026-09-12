@@ -1,4 +1,3 @@
-import { LEVEL_FILTER } from "akasha/temper/items-rules-core/level-filter/level-filter.module.code.ts"
 import { LOCATION_FILTER } from "akasha/temper/items-rules-core/location-filter/location-filter.module.code.ts"
 import { LOCKED_FILTER } from "akasha/temper/items-rules-core/locked-filter/locked-filter.module.code.ts"
 import { MARKET_VALUE_FILTER } from "akasha/temper/items-rules-core/market-value-filter/market-value-filter.module.code.ts"
@@ -18,6 +17,7 @@ import { CAN_UNLOCK_FILTER } from "akasha/temper/items-rules-core/modules/can-un
 import { CRAFTED_FILTER } from "akasha/temper/items-rules-core/modules/crafted-filter/crafted-filter.module.code.ts"
 import { KEEP_QUANTITY_FILTER } from "akasha/temper/items-rules-core/modules/keep-quantity-filter/keep-quantity-filter.module.code.ts"
 import { KNOWN_FILTER } from "akasha/temper/items-rules-core/modules/known-filter/known-filter.module.code.ts"
+import { LEVEL_FILTER } from "akasha/temper/items-rules-core/modules/level-filter/level-filter.module.code.ts"
 import { NEEDED_FOR_TARGET_CHARACTER_BUILD_FILTER } from "akasha/temper/items-rules-core/needed-for-target-character-build-filter/needed-for-target-character-build-filter.module.code.ts"
 import { NEEDED_FOR_TARGET_COMPANION_BUILD_FILTER } from "akasha/temper/items-rules-core/needed-for-target-companion-build-filter/needed-for-target-companion-build-filter.module.code.ts"
 import { POTION_EFFECTS_FILTER } from "akasha/temper/items-rules-core/potion-effects-filter/potion-effects-filter.module.code.ts"

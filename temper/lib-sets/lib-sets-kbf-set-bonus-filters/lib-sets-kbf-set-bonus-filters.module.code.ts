@@ -1,4 +1,3 @@
-import { asString } from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import type { FilterBuildContext } from "akasha/temper/lib-sets/lib-sets-kbf-filter-context/lib-sets-kbf-filter-context.module.code.ts"
 import { LSM_DEFAULT_COMBO_BOX_OPTIONS } from "akasha/temper/lib-sets/lib-sets-kbf-lsm-options/lib-sets-kbf-lsm-options.module.code.ts"
 import { sortFilterComboBox } from "akasha/temper/lib-sets/lib-sets-kbf-sorting/lib-sets-kbf-sorting.module.code.ts"
@@ -7,6 +6,7 @@ import {
   setupFilterDropdown,
 } from "akasha/temper/lib-sets/lib-sets-search-ui-keyboard-filters-setup/lib-sets-search-ui-keyboard-filters-setup.module.code.ts"
 import { searchUI } from "akasha/temper/lib-sets/lib-sets-search-ui-shared-state/lib-sets-search-ui-shared-state.module.code.ts"
+import { asString } from "akasha/temper/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
 
 const lib = LibSets
 const getLocalizedText = lib.GetLocalizedText

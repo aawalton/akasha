@@ -1,12 +1,4 @@
 import {
-  asNumber,
-  asNumberArray,
-  asPresent,
-  asString,
-  asStringOpt,
-  asUnknownArray,
-} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
-import {
   asLangNameIndexTableOpt,
   asNumIndexTableOpt,
   asUnknownRecordArray,
@@ -19,6 +11,14 @@ import {
 } from "akasha/temper/lib-sets/lib-sets-tip-header/lib-sets-tip-header.module.code.ts"
 import { tableContentsAreAllTheSame } from "akasha/temper/lib-sets/lib-sets-tip-helpers/lib-sets-tip-helpers.module.code.ts"
 import { STATE } from "akasha/temper/lib-sets/lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
+import {
+  asNumber,
+  asNumberArray,
+  asPresent,
+  asString,
+  asStringOpt,
+  asUnknownArray,
+} from "akasha/temper/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
 
 const lib = LibSets
 

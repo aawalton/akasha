@@ -1,9 +1,4 @@
 import {
-  asLangRecord,
-  asPresent,
-  asUnknownArray,
-} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
-import {
   asLibZoneOpt,
   asWayshrineSV,
 } from "akasha/temper/lib-sets/lib-sets-debug-casts/lib-sets-debug-casts.module.code.ts"
@@ -17,6 +12,11 @@ import {
   storedInSVFileLibSetsInTable,
   UNKNOWN_NAME,
 } from "akasha/temper/lib-sets/lib-sets-debug-debug-state/lib-sets-debug-debug-state.module.code.ts"
+import {
+  asLangRecord,
+  asPresent,
+  asUnknownArray,
+} from "akasha/temper/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
 
 const lib = LibSets
 

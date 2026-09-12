@@ -8,10 +8,6 @@ const tos = tostring
 const zoite = ZO_IsTableEmpty
 
 import {
-  asBooleanOpt,
-  asStringArray,
-} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
-import {
   asIdBoolMap,
   asLineNumberMapOpt,
 } from "akasha/temper/lib-sets/lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
@@ -22,6 +18,10 @@ import {
   SEARCH_TYPE_NAME,
   searchUIName,
 } from "akasha/temper/lib-sets/lib-sets-search-ui-shared-state/lib-sets-search-ui-shared-state.module.code.ts"
+import {
+  asBooleanOpt,
+  asStringArray,
+} from "akasha/temper/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
 
 const sharedClass = getSharedSearchUIClass()
 

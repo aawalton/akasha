@@ -1,4 +1,4 @@
-import { LCCC } from "akasha/temper/lccc/lccc/lccc.module.code.ts"
+import { LCCC } from "akasha/temper/lccc/modules/lccc/lccc.module.code.ts"
 import {
   asRecord,
   asString,

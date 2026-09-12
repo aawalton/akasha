@@ -1,6 +1,6 @@
 import "akasha/temper/lib-character-knowledge/modules/knowledge-public-api/knowledge-public-api.module.code.ts"
 
-import "akasha/temper/lccc/lccc/lccc.module.code.ts"
+import "akasha/temper/lccc/modules/lccc/lccc.module.code.ts"
 
 import "akasha/temper/lib-character-knowledge/modules/knowledge-ldei/knowledge-ldei.module.code.ts"
 

@@ -3,7 +3,7 @@ import {
   agreedIn,
   dumpJsWalk,
   partedIn,
-} from "akasha/temper/upstream-data/leaf-dump/leaf-dump.module.code.ts"
+} from "akasha/temper/upstream-data/modules/leaf-dump/leaf-dump.module.code.ts"
 import type { Ruling } from "akasha/temper/upstream-data/upstream-libraries/upstream-libraries.module.code.ts"
 
 function dumped(expression: string): string {

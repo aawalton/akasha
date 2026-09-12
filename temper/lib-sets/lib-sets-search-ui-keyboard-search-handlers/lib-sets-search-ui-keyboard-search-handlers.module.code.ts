@@ -1,4 +1,3 @@
-import { asGlobalTable } from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import { asLibSetsSearchUIKeyboardObjectOpt } from "akasha/temper/lib-sets/lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
 import { getKeyboardSearchUIClass } from "akasha/temper/lib-sets/lib-sets-search-ui-keyboard-class/lib-sets-search-ui-keyboard-class.module.code.ts"
 import {
@@ -6,6 +5,7 @@ import {
   getSharedBringWindowToTop,
   setKeyboardSearchUI,
 } from "akasha/temper/lib-sets/lib-sets-search-ui-searchui-globals/lib-sets-search-ui-searchui-globals.module.code.ts"
+import { asGlobalTable } from "akasha/temper/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
 
 const globalTable = asGlobalTable(globalThis)
 

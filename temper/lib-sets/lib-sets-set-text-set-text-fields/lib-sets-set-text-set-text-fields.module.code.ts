@@ -1,10 +1,3 @@
-import {
-  asNumberOpt,
-  asPresent,
-  asStringArray,
-  asStringOpt,
-  asUnknownArray,
-} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import { asStrTab } from "akasha/temper/lib-sets/lib-sets-tip-casts/lib-sets-tip-casts.module.code.ts"
 import { condenseZoneScratch } from "akasha/temper/lib-sets/lib-sets-tip-condense-zone-rows/lib-sets-tip-condense-zone-rows.module.code.ts"
 import { getSetDropMechanicInfo } from "akasha/temper/lib-sets/lib-sets-tip-drop-mechanic-collect/lib-sets-tip-drop-mechanic-collect.module.code.ts"
@@ -18,6 +11,13 @@ import {
 } from "akasha/temper/lib-sets/lib-sets-tip-helpers/lib-sets-tip-helpers.module.code.ts"
 import type { CustomTooltipCtx } from "akasha/temper/lib-sets/lib-sets-tip-set-data-text-custom/lib-sets-tip-set-data-text-custom.module.code.ts"
 import { STATE } from "akasha/temper/lib-sets/lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
+import {
+  asNumberOpt,
+  asPresent,
+  asStringArray,
+  asStringOpt,
+  asUnknownArray,
+} from "akasha/temper/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
 
 const lib = LibSets
 

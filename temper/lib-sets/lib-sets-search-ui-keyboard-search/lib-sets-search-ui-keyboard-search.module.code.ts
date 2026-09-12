@@ -1,10 +1,3 @@
-import {
-  asAnyObject,
-  asNumber,
-  asString,
-  asStringOpt,
-  asTyped,
-} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import { sortFilterComboBox } from "akasha/temper/lib-sets/lib-sets-kbf-sorting/lib-sets-kbf-sorting.module.code.ts"
 import {
   asComboBoxSortKey,
@@ -18,6 +11,13 @@ import {
   getKeyboardSearchUIClassForOverride,
 } from "akasha/temper/lib-sets/lib-sets-search-ui-keyboard-class/lib-sets-search-ui-keyboard-class.module.code.ts"
 import { getSharedSuper } from "akasha/temper/lib-sets/lib-sets-search-ui-shared-class/lib-sets-search-ui-shared-class.module.code.ts"
+import {
+  asAnyObject,
+  asNumber,
+  asString,
+  asStringOpt,
+  asTyped,
+} from "akasha/temper/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
 
 const lib = LibSets
 

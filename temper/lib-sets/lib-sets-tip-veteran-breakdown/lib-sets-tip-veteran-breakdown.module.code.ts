@@ -1,9 +1,3 @@
-import {
-  asNumber,
-  asNumberOpt,
-  asPresent,
-  asStringOpt,
-} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import { asEquipBoolTable } from "akasha/temper/lib-sets/lib-sets-tip-casts/lib-sets-tip-casts.module.code.ts"
 import {
   MONSTER_SET_TYPE_TO_NO_VETERAN_STR,
@@ -15,6 +9,12 @@ import {
   getDungeonDifficultyStr,
 } from "akasha/temper/lib-sets/lib-sets-tip-helpers/lib-sets-tip-helpers.module.code.ts"
 import { STATE } from "akasha/temper/lib-sets/lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
+import {
+  asNumber,
+  asNumberOpt,
+  asPresent,
+  asStringOpt,
+} from "akasha/temper/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
 
 const lib = LibSets
 

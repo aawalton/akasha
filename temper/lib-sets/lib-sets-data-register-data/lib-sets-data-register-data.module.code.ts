@@ -1,9 +1,4 @@
 import {
-  asNumber,
-  asNumRecord,
-  asTyped,
-} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
-import {
   asNoSetIdSetsElement,
   asNumKeyedNumRecord,
   asNumToNumRecord,
@@ -17,6 +12,11 @@ import { SET_INFO } from "akasha/temper/lib-sets/lib-sets-gen-set-info/lib-sets-
 import { SETS_OF_NEWER_API_VERSION } from "akasha/temper/lib-sets/lib-sets-gen-sets-of-newer-api-version/lib-sets-gen-sets-of-newer-api-version.module.code.ts"
 import { SPECIAL_BONUS_SETS } from "akasha/temper/lib-sets/lib-sets-gen-special-bonus-sets/lib-sets-gen-special-bonus-sets.module.code.ts"
 import { ZONE_IDS_OF_NEWER_API_VERSION } from "akasha/temper/lib-sets/lib-sets-gen-zone-ids-of-newer-api-version/lib-sets-gen-zone-ids-of-newer-api-version.module.code.ts"
+import {
+  asNumber,
+  asNumRecord,
+  asTyped,
+} from "akasha/temper/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
 
 const lib = LibSets
 

@@ -1,11 +1,4 @@
 import {
-  asNumber,
-  asNumberOpt,
-  asPresent,
-  asString,
-  asStringOpt,
-} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
-import {
   asBagValue,
   asFcoisProbe,
   asGetNameCtrl,
@@ -22,6 +15,13 @@ import {
   popupTooltip,
 } from "akasha/temper/lib-sets/lib-sets-tip-header/lib-sets-tip-header.module.code.ts"
 import { STATE } from "akasha/temper/lib-sets/lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
+import {
+  asNumber,
+  asNumberOpt,
+  asPresent,
+  asString,
+  asStringOpt,
+} from "akasha/temper/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
 
 const lib = LibSets
 

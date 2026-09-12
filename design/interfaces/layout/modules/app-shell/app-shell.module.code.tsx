@@ -1,12 +1,12 @@
 "use client"
 
-import { LayoutProvider } from "akasha/design/interfaces/layout/layout-context/layout-context.module.code.tsx"
 import { AppShellBottomNav } from "akasha/design/interfaces/layout/modules/app-shell-bottom-nav/app-shell-bottom-nav.module.code.tsx"
 import {
   AppShellContext,
   type AppShellContextValue,
 } from "akasha/design/interfaces/layout/modules/app-shell-context/app-shell-context.module.code.tsx"
 import { AppShellSidebar } from "akasha/design/interfaces/layout/modules/app-shell-sidebar/app-shell-sidebar.module.code.tsx"
+import { LayoutProvider } from "akasha/design/interfaces/layout/modules/layout-context/layout-context.module.code.tsx"
 import type { AppNavConfig } from "akasha/design/interfaces/layout/nav-types/nav-types.module.code.ts"
 import { useLayoutPathname } from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
 import {

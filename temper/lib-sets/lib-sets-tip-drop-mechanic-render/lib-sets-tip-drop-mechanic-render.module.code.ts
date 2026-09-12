@@ -1,10 +1,3 @@
-import {
-  asPresent,
-  asString,
-  asStringArray,
-  asStringOpt,
-  asUnknownArray,
-} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import { asStrTab } from "akasha/temper/lib-sets/lib-sets-tip-casts/lib-sets-tip-casts.module.code.ts"
 import {
   buildSetDropMechanicPart,
@@ -16,6 +9,13 @@ import {
 } from "akasha/temper/lib-sets/lib-sets-tip-helpers/lib-sets-tip-helpers.module.code.ts"
 import { STATE } from "akasha/temper/lib-sets/lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
 import { buildDungeonDifficultyText } from "akasha/temper/lib-sets/lib-sets-tip-veteran-breakdown/lib-sets-tip-veteran-breakdown.module.code.ts"
+import {
+  asPresent,
+  asString,
+  asStringArray,
+  asStringOpt,
+  asUnknownArray,
+} from "akasha/temper/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
 
 export function buildSetDropMechanicInfo(
   this: void,

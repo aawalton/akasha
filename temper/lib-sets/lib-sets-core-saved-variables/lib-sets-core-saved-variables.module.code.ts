@@ -2,11 +2,11 @@ import {
   asPresent,
   asString,
   asTyped,
-} from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
+} from "akasha/temper/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   asCategoryRecord,
   asFavoritesRecordOpt,
-} from "akasha/temper/lib-sets/lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
+} from "akasha/temper/lib-sets/modules/lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
 
 const lib = LibSets
 

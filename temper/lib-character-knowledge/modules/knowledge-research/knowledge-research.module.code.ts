@@ -1,4 +1,4 @@
-import { LCCC } from "akasha/temper/lccc/lccc/lccc.module.code.ts"
+import { LCCC } from "akasha/temper/lccc/modules/lccc/lccc.module.code.ts"
 import { asNumber } from "akasha/temper/lib-character-knowledge/modules/knowledge-casts/knowledge-casts.module.code.ts"
 import type { ResearchReverseEntry } from "akasha/temper/lib-character-knowledge/modules/knowledge-shape/knowledge-shape.module.code.ts"
 import { INTERNAL } from "akasha/temper/lib-character-knowledge/modules/knowledge-state/knowledge-state.module.code.ts"
