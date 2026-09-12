@@ -5,7 +5,7 @@ export const ember = {
   type: "seat",
   slug: "ember",
   persona: "ember",
-  assignmentSlug: "domain/temper",
+  assignmentSlug: "initiative/ember-inventory-rules",
   role: "definer",
   person: "alan",
   startMode: "interactive",
