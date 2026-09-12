@@ -8,14 +8,14 @@ export const temperInventoryBuyRuleList = {
   code: "ts",
   changeKind: "change-none",
   taking: [{ said: "--json", takes: "give each rule as JSON rather than as tab-separated rows" }],
-  helpNotes: [
-    "each rule carries the quantity held now and the shortfall against its target.",
-    "the account read is Alan's unless `USER_ID` names another.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "Each rule has the quantity held now.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The account the quantity is read from is Alan's unless `USER_ID` names another.",
     },
     {
       invariantKind: "departure",
