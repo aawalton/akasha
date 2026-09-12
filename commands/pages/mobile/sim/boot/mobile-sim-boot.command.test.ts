@@ -8,6 +8,7 @@ import {
   answering,
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type {
   Booting,
   Read,
@@ -22,6 +23,14 @@ const BASE = "http://mac:4723"
 const STARTED = appiumStartedSaid(BASE)
 
 const READ: Read = { udid: undefined }
+
+const GIVEN: Given = {
+  root: "/nowhere",
+  calledAs: "akasha mobile sim boot",
+  from: "/nowhere",
+  writer: null,
+  agentId: null,
+}
 
 function booting(over: Partial<Booting> = {}): Booting {
   return {
@@ -93,7 +102,7 @@ test("an Appium server already up is started by nothing, so a later throw names 
 })
 
 test("a flag this takes no argument at is refused before Appium is reached", async () => {
-  const said = await mobileSimBoot(["--bogus"])
+  const said = await mobileSimBoot(["--bogus"], GIVEN)
 
   expect(said.code).toBe(1)
   expect(said.report).toEqual([])
@@ -102,14 +111,14 @@ test("a flag this takes no argument at is refused before Appium is reached", asy
 })
 
 test("a bare word is refused, since this names every argument at a flag", async () => {
-  const said = await mobileSimBoot(["3F0C9A11"])
+  const said = await mobileSimBoot(["3F0C9A11"], GIVEN)
 
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("3F0C9A11")
 })
 
 test("a flag naming a value with nothing after it is refused", async () => {
-  const said = await mobileSimBoot(["--udid"])
+  const said = await mobileSimBoot(["--udid"], GIVEN)
 
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("--udid")

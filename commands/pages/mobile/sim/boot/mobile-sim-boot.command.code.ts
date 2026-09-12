@@ -4,32 +4,19 @@ import {
   ensureAppium,
   resolveAndBootSim,
 } from "akasha/alan/harness/mobile-cli/sim-macbook/sim-macbook.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { udid as udidArgument } from "akasha/commands/arguments/pages/udid.argument.ts"
 import {
   answering,
-  flagsAloneIn,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import {
-  keyedLines,
-  type Reading,
-  UDID_SAID,
-  wordsIn,
-} from "akasha/commands/pages/mobile/mobile-answering/mobile-answering.module.code.ts"
-
-const VALUED = [UDID_SAID]
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { keyedLines } from "akasha/commands/pages/mobile/mobile-answering/mobile-answering.module.code.ts"
+import { mobileSimBoot as page } from "akasha/commands/pages/mobile/sim/boot/mobile-sim-boot.command.ts"
 
 export type Read = {
   readonly udid: string | undefined
-}
-
-export function readIn(argv: readonly string[]): Reading<Read> {
-  const said = wordsIn(argv, VALUED, [])
-  if ("refused" in said) return said
-  const loose = flagsAloneIn(said)
-  if (loose.length > 0) return { refused: loose }
-  return { udid: said.named[UDID_SAID] }
 }
 
 export type Booting = {
@@ -61,8 +48,9 @@ export async function booted(
   )
 }
 
-export async function mobileSimBoot(argv: readonly string[]): Promise<Answer> {
-  const read = readIn(argv)
+export async function mobileSimBoot(argv: readonly string[], given: Given): Promise<Answer> {
+  const read = takenFor(argv, given.calledAs, page, [udidArgument])
   if ("refused" in read) return refusedBy(read.refused)
-  return await answering(async (done) => await booted(read, done))
+  const taken = read.taken
+  return await answering(async (done) => await booted({ udid: taken.udid }, done))
 }
