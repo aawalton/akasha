@@ -57,5 +57,10 @@ export const noCommentaryKept = {
       invariantKind: "departure",
       statement: "The last line answers to what was quoted rather than to the reasoning above it.",
     },
+    {
+      invariantKind: "constraint",
+      statement:
+        "The phrase `Also worth` opens the answer Alan asked for as often as it opens an aside.",
+    },
   ],
 } as const satisfies ModelTest
