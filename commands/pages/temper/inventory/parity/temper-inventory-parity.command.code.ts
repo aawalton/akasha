@@ -1,5 +1,11 @@
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
+import {
+  DATA,
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -23,12 +29,6 @@ import type {
 } from "akasha/temper/items-rules-eval/eval-result/eval-result.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-
-const INPUT = 1
-
-const DATA = 2
-
-const OPERATIONAL = 3
 
 const CHAR = "--char"
 
@@ -369,7 +369,7 @@ export async function temperInventoryParity(
       ...routing.renderRoutingSection(routingDiff).replace(/\n+$/, "").split("\n"),
     ]
     const diverged = inputRows.length > 0 || walkRows.length > 0 || routingDiff.mismatch
-    if (!diverged) return { report, refusals: [], code: 0 }
+    if (!diverged) return { report, refusals: [], code: OK }
     return {
       report,
       refusals: [
