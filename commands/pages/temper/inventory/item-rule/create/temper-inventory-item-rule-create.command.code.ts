@@ -12,6 +12,7 @@ import { title } from "akasha/commands/arguments/pages/title.argument.ts"
 import {
   DATA,
   INPUT,
+  refused,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -19,7 +20,6 @@ import { temperInventoryItemRuleCreate as page } from "akasha/commands/pages/tem
 import { emitJson } from "akasha/temper/commands/format-output/format-output.module.code.ts"
 import {
   answeredByPage,
-  refusing,
   settingsOf,
   webOf,
 } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
@@ -50,7 +50,7 @@ type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
 
 async function made(taken: Taken): Promise<Answer> {
   if (taken.stockScope !== undefined) {
-    return refusing(
+    return refused(
       `\`${stockScope.said}\` reaches no item rule, since what writes one carries no scope of its own`,
       INPUT
     )
@@ -60,7 +60,7 @@ async function made(taken: Taken): Promise<Answer> {
   if (said !== undefined) {
     moveTo = narrowDestination(said)
     if (moveTo === undefined) {
-      return refusing(`\`${destination.said}\` names \`${said}\`, which is no destination`, INPUT)
+      return refused(`\`${destination.said}\` names \`${said}\`, which is no destination`, INPUT)
     }
   }
   const settingsAccess = await settingsOf()
@@ -72,7 +72,7 @@ async function made(taken: Taken): Promise<Answer> {
   })
   const created = (added.itemRules ?? [])[0]
   if (created === undefined) {
-    return refusing("an item rule was added and none is at the front of the list", DATA)
+    return refused("an item rule was added and none is at the front of the list", DATA)
   }
   const patch: Partial<
     Pick<

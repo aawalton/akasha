@@ -11,7 +11,11 @@ import { goal } from "akasha/commands/arguments/pages/goal.argument.ts"
 import { notes } from "akasha/commands/arguments/pages/notes.argument.ts"
 import { stockScope } from "akasha/commands/arguments/pages/stock-scope.argument.ts"
 import { title } from "akasha/commands/arguments/pages/title.argument.ts"
-import { INPUT, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  INPUT,
+  refused,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { temperInventoryRuleUpdate as page } from "akasha/commands/pages/temper/inventory/rule/update/temper-inventory-rule-update.command.ts"
 import { emitJson } from "akasha/temper/commands/format-output/format-output.module.code.ts"
@@ -19,7 +23,6 @@ import {
   answeredByPage,
   lockedOff,
   named,
-  refusing,
   settingsOf,
   unfound,
   webOf,
@@ -71,7 +74,7 @@ async function changed(taken: Taken, calledAs: string): Promise<Answer> {
   }
   if (Object.keys(patch).length === 0) {
     const every = named(CHANGED.map((one) => one.said))
-    return refusing(`\`${calledAs}\` names no field to change — it changes ${every}`, INPUT)
+    return refused(`\`${calledAs}\` names no field to change — it changes ${every}`, INPUT)
   }
   const id = taken.categoryRuleId
   const settingsAccess = await settingsOf()

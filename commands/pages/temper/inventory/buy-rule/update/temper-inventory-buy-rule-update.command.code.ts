@@ -7,7 +7,11 @@ import { notes } from "akasha/commands/arguments/pages/notes.argument.ts"
 import { source as sourceArgument } from "akasha/commands/arguments/pages/source.argument.ts"
 import { targetQuantity as targetArgument } from "akasha/commands/arguments/pages/target-quantity.argument.ts"
 import { title } from "akasha/commands/arguments/pages/title.argument.ts"
-import { INPUT, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  INPUT,
+  refused,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { temperInventoryBuyRuleUpdate as page } from "akasha/commands/pages/temper/inventory/buy-rule/update/temper-inventory-buy-rule-update.command.ts"
 import { emitJson } from "akasha/temper/commands/format-output/format-output.module.code.ts"
@@ -15,7 +19,6 @@ import {
   answeredByPage,
   lockedOff,
   named,
-  refusing,
   settingsOf,
   unfound,
   webOf,
@@ -39,7 +42,7 @@ async function changed(taken: Taken, calledAs: string): Promise<Answer> {
   if (said !== undefined) {
     source = BUY_SOURCE_VALUES.find((one) => one === said)
     if (source === undefined) {
-      return refusing(
+      return refused(
         `\`${sourceArgument.said}\` names \`${said}\`, which is no source a buy rule buys at`,
         INPUT
       )
@@ -54,7 +57,7 @@ async function changed(taken: Taken, calledAs: string): Promise<Answer> {
   }
   if (Object.keys(patch).length === 0) {
     const every = named(CHANGED.map((one) => one.said))
-    return refusing(`\`${calledAs}\` names no field to change — it changes ${every}`, INPUT)
+    return refused(`\`${calledAs}\` names no field to change — it changes ${every}`, INPUT)
   }
   const id = taken.buyRuleId
   const settingsAccess = await settingsOf()

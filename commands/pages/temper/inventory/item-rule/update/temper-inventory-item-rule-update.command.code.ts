@@ -8,7 +8,11 @@ import { itemRuleId } from "akasha/commands/arguments/pages/item-rule-id.argumen
 import { notes } from "akasha/commands/arguments/pages/notes.argument.ts"
 import { stockQuantity } from "akasha/commands/arguments/pages/stock-quantity.argument.ts"
 import { title } from "akasha/commands/arguments/pages/title.argument.ts"
-import { INPUT, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  INPUT,
+  refused,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { temperInventoryItemRuleUpdate as page } from "akasha/commands/pages/temper/inventory/item-rule/update/temper-inventory-item-rule-update.command.ts"
 import { emitJson } from "akasha/temper/commands/format-output/format-output.module.code.ts"
@@ -16,7 +20,6 @@ import {
   answeredByPage,
   lockedOff,
   named,
-  refusing,
   settingsOf,
   unfound,
   webOf,
@@ -38,7 +41,7 @@ async function changed(taken: Taken, calledAs: string): Promise<Answer> {
   if (said !== undefined) {
     moveTo = narrowDestination(said)
     if (moveTo === undefined) {
-      return refusing(`\`${destination.said}\` names \`${said}\`, which is no destination`, INPUT)
+      return refused(`\`${destination.said}\` names \`${said}\`, which is no destination`, INPUT)
     }
   }
   const patch: Partial<
@@ -54,7 +57,7 @@ async function changed(taken: Taken, calledAs: string): Promise<Answer> {
   }
   if (Object.keys(patch).length === 0) {
     const every = named(CHANGED.map((one) => one.said))
-    return refusing(`\`${calledAs}\` names no field to change — it changes ${every}`, INPUT)
+    return refused(`\`${calledAs}\` names no field to change — it changes ${every}`, INPUT)
   }
   const id = taken.itemRuleId
   const settingsAccess = await settingsOf()

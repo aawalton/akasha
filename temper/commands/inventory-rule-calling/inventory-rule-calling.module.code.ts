@@ -128,10 +128,6 @@ export function toldRows(
   return told(emitTsv(rows, columns).split("\n"))
 }
 
-export function refusing(why: string, code: number): Answer {
-  return refused(why, code)
-}
-
 export type Webbed = {
   readonly title?: string
   readonly notes?: string

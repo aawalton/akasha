@@ -10,13 +10,13 @@ import { title } from "akasha/commands/arguments/pages/title.argument.ts"
 import {
   DATA,
   INPUT,
+  refused,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { temperInventoryBuyRuleCreate as page } from "akasha/commands/pages/temper/inventory/buy-rule/create/temper-inventory-buy-rule-create.command.ts"
 import {
   answeredByPage,
-  refusing,
   settingsOf,
   webOf,
 } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
@@ -42,7 +42,7 @@ async function made(taken: Taken): Promise<Answer> {
   const said = taken.source ?? MERCHANT
   const source: BuySource | undefined = BUY_SOURCE_VALUES.find((one) => one === said)
   if (source === undefined) {
-    return refusing(
+    return refused(
       `\`${sourceArgument.said}\` names \`${said}\`, which is no source a buy rule buys at`,
       INPUT
     )
@@ -57,7 +57,7 @@ async function made(taken: Taken): Promise<Answer> {
   })
   const created = (added.buyRules ?? [])[0]
   if (created === undefined) {
-    return refusing("a buy rule was added and none is at the front of the list", DATA)
+    return refused("a buy rule was added and none is at the front of the list", DATA)
   }
   const patch: Partial<Pick<BuyRule, "active" | "goal" | "title" | "notes">> = webOf(taken)
   const next =
