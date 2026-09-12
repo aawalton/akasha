@@ -4,7 +4,7 @@ import { getPages } from "akasha/pages/access/get/get.module.code.ts"
 import { NEVER_MATCH_VALUE } from "akasha/pages/access/sentinels/sentinels.module.code.ts"
 import type { PageWhere } from "akasha/pages/core/page-types/page-types.module.code.ts"
 import { useQuery } from "akasha/pages/ui/cache/use-query/use-query.module.code.ts"
-import { composeContentTierPage } from "akasha/pages/ui/supabase/compose-content-tier-page/compose-content-tier-page.module.code.ts"
+import { composeContentTierPage } from "akasha/pages/ui/supabase/modules/compose-content-tier-page/compose-content-tier-page.module.code.ts"
 import {
   type PageWithProperties,
   toPageWithProperties,

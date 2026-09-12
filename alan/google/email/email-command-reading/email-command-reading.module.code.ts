@@ -1,6 +1,6 @@
 import { isAbsolute, resolve } from "node:path"
-import { buildComposeInput } from "akasha/alan/google/email/compose-input-from-arguments/compose-input-from-arguments.module.code.ts"
 import type { ComposeInput } from "akasha/alan/google/email/email-shapes/email-shapes.module.code.ts"
+import { buildComposeInput } from "akasha/alan/google/email/modules/compose-input-from-arguments/compose-input-from-arguments.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   type Filing,

@@ -1,4 +1,4 @@
-import { notices } from "akasha/agents/messaging/notices/compose-notices/compose-notices.module.code.ts"
+import { notices } from "akasha/agents/messaging/notices/modules/compose-notices/compose-notices.module.code.ts"
 import { decideClaimedRedelivery } from "akasha/agents/messaging/supervisor-claimed-redelivery-decide/supervisor-claimed-redelivery-decide.module.code.ts"
 import { fail } from "akasha/commands/modules/failing/command-failing.module.code.ts"
 import {

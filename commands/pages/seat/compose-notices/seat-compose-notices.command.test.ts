@@ -4,7 +4,7 @@ import { join, resolve } from "node:path"
 import {
   notices,
   render,
-} from "akasha/agents/messaging/notices/compose-notices/compose-notices.module.code.ts"
+} from "akasha/agents/messaging/notices/modules/compose-notices/compose-notices.module.code.ts"
 import { output } from "akasha/commands/arguments/pages/output.argument.ts"
 import {
   INPUT,
