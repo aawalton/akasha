@@ -3,12 +3,12 @@
 import {
   signInWithPassword,
   signUpWithPassword,
-} from "akasha/alan/harness/supabase-rr/auth-client/auth-client.module.code.ts"
+} from "akasha/alan/harness/supabase-rr/modules/auth-client/auth-client.module.code.ts"
 import {
   type AuthMode,
   type AuthSubmitPayload,
   AuthPageContent as DSAuthPageContent,
-} from "akasha/design/interfaces/patterns/auth-page-content/auth-page-content.module.code.tsx"
+} from "akasha/design/interfaces/patterns/modules/auth-page-content/auth-page-content.module.code.tsx"
 import { usePagesUIRouter } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { safeInternalPath } from "akasha/pages/url/safe-target/safe-target.module.code.ts"
 import {

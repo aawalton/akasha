@@ -1,4 +1,4 @@
-import { getUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
+import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
 import { getRequestServerClient } from "akasha/alan/harness/supabase-rr/request-session-cache/request-session-cache.module.code.ts"
 import { readHomeNavItemParam } from "akasha/alan/web/.server/home-dni-param/home-dni-param.module.code.ts"
 import {

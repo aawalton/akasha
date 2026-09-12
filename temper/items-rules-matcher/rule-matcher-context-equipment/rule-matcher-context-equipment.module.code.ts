@@ -1,9 +1,9 @@
 import { decodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
-import type { AutomationSettings } from "akasha/temper/build-support/automation-settings/automation-settings.module.code.ts"
+import type { AutomationSettings } from "akasha/temper/build-support/modules/automation-settings/automation-settings.module.code.ts"
 import {
   resolveCharacterToggles,
   resolveCompanionToggles,
-} from "akasha/temper/build-support/automation-settings/automation-settings.module.code.ts"
+} from "akasha/temper/build-support/modules/automation-settings/automation-settings.module.code.ts"
 import { decodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
 import {

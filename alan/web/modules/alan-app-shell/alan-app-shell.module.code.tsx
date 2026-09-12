@@ -1,4 +1,4 @@
-import { signOut } from "akasha/alan/harness/supabase-rr/auth-client/auth-client.module.code.ts"
+import { signOut } from "akasha/alan/harness/supabase-rr/modules/auth-client/auth-client.module.code.ts"
 import { EdgeSwipeNav } from "akasha/alan/web/edge-swipe-nav/edge-swipe-nav.module.code.tsx"
 import { MiniPlayerBar } from "akasha/alan/web/mini-player-bar/mini-player-bar.module.code.tsx"
 import {

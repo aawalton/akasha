@@ -1,6 +1,6 @@
 import { createPublicKey, verify as cryptoVerify } from "node:crypto"
-import { CONFIG } from "akasha/infrastructure/networks/auth-proxy/config/auth-proxy-config.module.code.ts"
 import { parseSupabaseCookieMatch } from "akasha/infrastructure/networks/auth-proxy/cookie-match-core/cookie-match-core.module.code.ts"
+import { CONFIG } from "akasha/infrastructure/networks/auth-proxy/modules/config/auth-proxy-config.module.code.ts"
 import {
   hashKey,
   makeTTLCache,

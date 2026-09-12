@@ -33,7 +33,10 @@ export default [
   route("api/cost", "routes/cost/cost.route.code.ts"),
   route("api/inbox-stoplights", "routes/inbox-stoplights/inbox-stoplights.route.code.ts"),
   route("api/habit-stoplights", "routes/habit-stoplights/habit-stoplights.route.code.ts"),
-  route("api/attribute-stoplights", "attribute-stoplights/attribute-stoplights.module.code.ts"),
+  route(
+    "api/attribute-stoplights",
+    "modules/attribute-stoplights/attribute-stoplights.module.code.ts"
+  ),
   route("api/surplus", "routes/surplus/surplus.route.code.ts"),
   route("api/safety-level", "routes/safety-level/safety-level.route.code.ts"),
   route("api/categorization", "routes/categorization/categorization.route.code.ts"),

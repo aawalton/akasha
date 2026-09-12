@@ -13,7 +13,7 @@ import {
   appendBounded,
   TRACE_CAP,
 } from "akasha/temper/quests-addon/quests-trace-buffer/quests-trace-buffer.module.code.ts"
-import type { AutoQuestTraceEntry } from "akasha/temper/quests-trace/auto-quest-trace/auto-quest-trace.module.code.ts"
+import type { AutoQuestTraceEntry } from "akasha/temper/quests-trace/modules/auto-quest-trace/auto-quest-trace.module.code.ts"
 
 let lastFingerprint: string | undefined
 let lastAction: string | undefined

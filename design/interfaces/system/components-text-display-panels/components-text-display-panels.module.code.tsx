@@ -3,11 +3,6 @@
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
 import { Kbd, KbdGroup } from "akasha/design/interfaces/patterns/kbd/kbd.module.code.tsx"
 import {
-  Avatar,
-  AvatarFallback,
-  AvatarImage,
-} from "akasha/design/interfaces/primitives/avatar/avatar.module.code.tsx"
-import {
   Breadcrumb,
   BreadcrumbItem,
   BreadcrumbLink,
@@ -21,6 +16,11 @@ import {
   AlertDescription,
   AlertTitle,
 } from "akasha/design/interfaces/primitives/modules/alert/alert.module.code.tsx"
+import {
+  Avatar,
+  AvatarFallback,
+  AvatarImage,
+} from "akasha/design/interfaces/primitives/modules/avatar/avatar.module.code.tsx"
 import { Separator } from "akasha/design/interfaces/primitives/separator/separator.module.code.tsx"
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
 

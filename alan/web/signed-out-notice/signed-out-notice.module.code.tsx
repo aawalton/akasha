@@ -1,6 +1,6 @@
 "use client"
 
-import { SIGNED_OUT_MESSAGE } from "akasha/alan/web/auth-error/auth-error.module.code.ts"
+import { SIGNED_OUT_MESSAGE } from "akasha/alan/web/modules/auth-error/auth-error.module.code.ts"
 import { Link, useLocation } from "react-router"
 
 export function SignedOutNotice() {

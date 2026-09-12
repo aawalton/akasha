@@ -1,7 +1,7 @@
 import { createBrowserClient as createSsrBrowserClient } from "@supabase/ssr"
 import { createClient, type SupabaseClient } from "@supabase/supabase-js"
-import { resolveBrowserAuthMode } from "akasha/alan/harness/supabase-rr/auth-mode/auth-mode.module.code.ts"
 import { parseSupabaseCookieOptions } from "akasha/alan/harness/supabase-rr/cookie-options/cookie-options.module.code.ts"
+import { resolveBrowserAuthMode } from "akasha/alan/harness/supabase-rr/modules/auth-mode/auth-mode.module.code.ts"
 import { z } from "zod"
 
 const OPTIONAL_ENV_SCHEMA = z.string().min(1).optional()

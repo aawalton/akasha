@@ -13,7 +13,7 @@ import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code
 import { temperAutoQuestTrace as page } from "akasha/commands/pages/temper/auto-quest-trace/temper-auto-quest-trace.command.ts"
 import { saidShort } from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
-import { TEMPER_QUESTS_SAVED_VARIABLES } from "akasha/temper/quests-trace/auto-quest-trace/auto-quest-trace.module.code.ts"
+import { TEMPER_QUESTS_SAVED_VARIABLES } from "akasha/temper/quests-trace/modules/auto-quest-trace/auto-quest-trace.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
 
 const NAMED = [json, questTracePath]

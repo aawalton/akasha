@@ -9,7 +9,7 @@ import type {
   AutomationSettings,
   CharacterAutomationToggles,
   CompanionAutomationToggles,
-} from "akasha/temper/inventory-automation/automation-toggles/automation-toggles.module.code.ts"
+} from "akasha/temper/inventory-automation/modules/automation-toggles/automation-toggles.module.code.ts"
 import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 export type Toggles = CharacterAutomationToggles | CompanionAutomationToggles

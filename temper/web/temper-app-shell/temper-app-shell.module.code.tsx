@@ -1,6 +1,6 @@
 "use client"
 
-import { signOut } from "akasha/alan/harness/supabase-rr/auth-client/auth-client.module.code.ts"
+import { signOut } from "akasha/alan/harness/supabase-rr/modules/auth-client/auth-client.module.code.ts"
 import {
   LayoutRouterAdapter,
   PagesUIRouterAdapter,

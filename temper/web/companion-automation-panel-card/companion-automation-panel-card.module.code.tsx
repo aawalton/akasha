@@ -5,7 +5,7 @@ import { CardTitleBadges } from "akasha/design/interfaces/primitives/card/card.m
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
 import { PagesUILink as Link } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { useAutomationSettings } from "akasha/temper/player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
-import { AutomationSelect } from "akasha/temper/web/automation-select/automation-select.module.code.tsx"
+import { AutomationSelect } from "akasha/temper/web/modules/automation-select/automation-select.module.code.tsx"
 
 interface CompanionAutomationPanelCardProps {
   companionId: string

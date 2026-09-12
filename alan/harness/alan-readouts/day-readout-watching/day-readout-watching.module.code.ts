@@ -7,7 +7,7 @@ import {
   STRENGTH_PAGE,
   takeReadings as takeAttributes,
   WISDOM_PAGE,
-} from "akasha/alan/harness/attributes/reading/attributes-reading.module.code.ts"
+} from "akasha/alan/harness/attributes/modules/reading/attributes-reading.module.code.ts"
 import {
   READOUT_SLUG as CAPACITY_SLUG,
   takeReading as takeCapacity,

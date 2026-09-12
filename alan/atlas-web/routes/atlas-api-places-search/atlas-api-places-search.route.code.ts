@@ -1,5 +1,5 @@
 import { searchPlaces } from "akasha/alan/atlas-web/.server/geoapify-search/geoapify-search.module.code.ts"
-import { getUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
+import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
 import { z } from "zod"
 
 const querySchema = z.object({ q: z.string().min(1).max(200) }).strict()

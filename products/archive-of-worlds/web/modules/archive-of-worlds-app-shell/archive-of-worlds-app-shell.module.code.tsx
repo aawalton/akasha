@@ -1,4 +1,4 @@
-import { AuthFooter } from "akasha/code/router-apps/auth-footer/auth-footer.module.code.tsx"
+import { AuthFooter } from "akasha/code/router-apps/modules/auth-footer/auth-footer.module.code.tsx"
 import {
   LayoutRouterAdapter,
   PagesUIRouterAdapter,

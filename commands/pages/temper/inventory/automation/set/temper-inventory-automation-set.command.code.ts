@@ -20,8 +20,8 @@ import {
   parseScope,
   parseValue,
   type ToggleValue,
-} from "akasha/temper/inventory-automation/automation-toggle-change/automation-toggle-change.module.code.ts"
-import type { AutomationSettings } from "akasha/temper/inventory-automation/automation-toggles/automation-toggles.module.code.ts"
+} from "akasha/temper/inventory-automation/modules/automation-toggle-change/automation-toggle-change.module.code.ts"
+import type { AutomationSettings } from "akasha/temper/inventory-automation/modules/automation-toggles/automation-toggles.module.code.ts"
 
 const SPACES = 2
 

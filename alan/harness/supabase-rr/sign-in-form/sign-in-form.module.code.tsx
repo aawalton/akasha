@@ -1,5 +1,5 @@
-import { signInWithPassword } from "akasha/alan/harness/supabase-rr/auth-client/auth-client.module.code.ts"
-import { AuthPageContent } from "akasha/design/interfaces/patterns/auth-page-content/auth-page-content.module.code.tsx"
+import { signInWithPassword } from "akasha/alan/harness/supabase-rr/modules/auth-client/auth-client.module.code.ts"
+import { AuthPageContent } from "akasha/design/interfaces/patterns/modules/auth-page-content/auth-page-content.module.code.tsx"
 import { safeRedirectTarget } from "akasha/pages/url/safe-target/safe-target.module.code.ts"
 import { useSearchParams } from "react-router"
 

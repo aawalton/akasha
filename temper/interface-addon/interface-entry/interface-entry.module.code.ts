@@ -1,7 +1,7 @@
 import "akasha/temper/interface-addon/interface-global/interface-global.module.code.ts"
 
 import "akasha/temper/interface-addon/quiet-entry/quiet-entry.module.code.ts"
-import "akasha/temper/interface-addon/assistant-entry/assistant-entry.module.code.ts"
+import "akasha/temper/interface-addon/modules/assistant-entry/assistant-entry.module.code.ts"
 import "akasha/temper/interface-addon/fco-entry/fco-entry.module.code.ts"
 
 import { registerAddonInit } from "akasha/temper/addon-init/modules/addon-init/addon-init.module.code.ts"

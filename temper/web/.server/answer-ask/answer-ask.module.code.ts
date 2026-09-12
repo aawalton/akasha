@@ -1,4 +1,4 @@
-import { getUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
+import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
 import { postingTo } from "akasha/pages/query/store-reaching/store-reaching.module.code.ts"
 
 const SIGNED_IN_ONLY = "this route answers a signed-in reader only"

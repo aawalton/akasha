@@ -3,7 +3,7 @@ import {
   appendBounded,
   TRACE_CAP,
 } from "akasha/temper/quests-addon/quests-trace-buffer/quests-trace-buffer.module.code.ts"
-import type { AutoQuestTraceEntry } from "akasha/temper/quests-trace/auto-quest-trace/auto-quest-trace.module.code.ts"
+import type { AutoQuestTraceEntry } from "akasha/temper/quests-trace/modules/auto-quest-trace/auto-quest-trace.module.code.ts"
 
 function action(at: number): AutoQuestTraceEntry {
   return { kind: "action", at, action: `a${at}` }

@@ -15,7 +15,7 @@ import type {
   AutomationSettings,
   CharacterAutomationToggles,
   CompanionAutomationToggles,
-} from "akasha/temper/build-support/automation-settings/automation-settings.module.code.ts"
+} from "akasha/temper/build-support/modules/automation-settings/automation-settings.module.code.ts"
 import {
   type BackpackSettings,
   DEFAULT_BACKPACK_SETTINGS,

@@ -1,7 +1,7 @@
 import {
   type AuthRouteConfig,
   authGuard,
-} from "akasha/alan/harness/supabase-rr/auth-guard/auth-guard.module.code.ts"
+} from "akasha/alan/harness/supabase-rr/modules/auth-guard/auth-guard.module.code.ts"
 import { data } from "react-router"
 
 export async function guardedRootData<Nonce>(

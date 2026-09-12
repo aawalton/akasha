@@ -1,4 +1,4 @@
-import { getUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
+import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
 import { getSupabaseServiceClient } from "akasha/temper/web/.server/supabase-service-client/supabase-service-client.module.code.ts"
 
 const MIN_PORT = 1024
