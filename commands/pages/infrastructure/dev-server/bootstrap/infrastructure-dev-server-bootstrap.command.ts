@@ -33,4 +33,5 @@ export const infrastructureDevServerBootstrap = {
         "Nothing here writes over an `.env.local` already there unless the command is told to.",
     },
   ],
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

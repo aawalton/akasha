@@ -39,4 +39,5 @@ export const infrastructureDevServerStatus = {
       statement: "Nothing here writes a state file.",
     },
   ],
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

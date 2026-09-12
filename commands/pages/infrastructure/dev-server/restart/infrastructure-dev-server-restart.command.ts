@@ -37,4 +37,5 @@ export const infrastructureDevServerRestart = {
       statement: "A stop that refused leaves the start unrun.",
     },
   ],
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

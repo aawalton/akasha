@@ -51,4 +51,5 @@ export const infrastructureDevServerStop = {
         "A server already stopped is answered as stopped and the state file it left is taken.",
     },
   ],
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

@@ -51,4 +51,5 @@ export const infrastructureDevServerStart = {
       statement: "Nothing here writes over an `.env.local` already there.",
     },
   ],
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command
