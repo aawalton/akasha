@@ -50,8 +50,7 @@ function usage(): readonly string[] {
     "if [[ $# -lt 1 ]]; then",
     '  echo "Usage: $(basename "$0") <workspace>"',
     '  echo ""',
-    '  echo "Bootstrap a new workspace namespace with K8s manifests, secrets,"',
-    '  echo "and CI pipeline RBAC."',
+    '  echo "Bootstrap a new workspace namespace with K8s manifests and secrets."',
     '  echo ""',
     '  echo "Examples:"',
     '  echo "  $(basename "$0") temper"',
@@ -138,11 +137,6 @@ function secrets(): readonly string[] {
 
 function closing(): readonly string[] {
   return [
-    "log \"Step 4: Applying CI pipeline RBAC for namespace '$NAMESPACE'\"",
-    "",
-    "akasha cluster-rbac-manifest | kubectl apply -f -",
-    "ok \"CI pipeline RBAC applied for '$NAMESPACE'\"",
-    "",
     'echo ""',
     'ok "================================================================"',
     "ok \"  Namespace '${NAMESPACE}' bootstrapped for workspace '${WORKSPACE}'!\"",

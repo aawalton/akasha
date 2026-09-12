@@ -11,8 +11,7 @@ _DEPLOY_LIB_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/../deploy-functions" && pw
 if [[ $# -lt 1 ]]; then
   echo "Usage: $(basename "$0") <workspace>"
   echo ""
-  echo "Bootstrap a new workspace namespace with K8s manifests, secrets,"
-  echo "and CI pipeline RBAC."
+  echo "Bootstrap a new workspace namespace with K8s manifests and secrets."
   echo ""
   echo "Examples:"
   echo "  $(basename "$0") temper"
@@ -73,11 +72,6 @@ if SAID="$(bun "$SECRET_SAYING" --root "$AKASHA_ROOT" --resource "$SECRET_RESOUR
 else
   warn "Step 3: no secret page places a value in $SECRET_RESOURCE — skipping"
 fi
-
-log "Step 4: Applying CI pipeline RBAC for namespace '$NAMESPACE'"
-
-akasha cluster-rbac-manifest | kubectl apply -f -
-ok "CI pipeline RBAC applied for '$NAMESPACE'"
 
 echo ""
 ok "================================================================"
