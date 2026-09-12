@@ -1,10 +1,26 @@
 import { readFile, writeFile } from "node:fs/promises"
 import {
+  type TakenFor,
+  takenFor,
+} from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { aspectRatio as aspectRatioArgument } from "akasha/commands/arguments/pages/aspect-ratio.argument.ts"
+import { engine as engineArgument } from "akasha/commands/arguments/pages/engine.argument.ts"
+import { image as imageArgument } from "akasha/commands/arguments/pages/image.argument.ts"
+import { noPersist } from "akasha/commands/arguments/pages/no-persist.argument.ts"
+import { output as outputArgument } from "akasha/commands/arguments/pages/output.argument.ts"
+import { promptFile } from "akasha/commands/arguments/pages/prompt-file.argument.ts"
+import { refs } from "akasha/commands/arguments/pages/refs.argument.ts"
+import { renderPrompt } from "akasha/commands/arguments/pages/render-prompt.argument.ts"
+import { size as sizeArgument } from "akasha/commands/arguments/pages/size.argument.ts"
+import { timeout as timeoutArgument } from "akasha/commands/arguments/pages/timeout.argument.ts"
+import {
   answering,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { filing, filledIn } from "akasha/commands/modules/filling/command-filling.module.code.ts"
+import { inferenceEdit as page } from "akasha/commands/pages/inference/edit/inference-edit.command.ts"
 import type { GeminiImageConfig } from "akasha/infrastructure/inference/clients/gemini-image-client/gemini-image-client.module.code.ts"
 import {
   imageFormatForPath,
@@ -16,13 +32,7 @@ import {
   resolveOutputPath,
 } from "akasha/infrastructure/inference/clients/inference-output-path/inference-output-path.module.code.ts"
 import {
-  countAt,
-  heldOr,
   madeOf,
-  oneOf,
-  proseNeededAt,
-  wasRefused,
-  wordsIn,
   wroteTo,
 } from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/record/inference-run-record.module.code.ts"
@@ -30,36 +40,22 @@ import { recordInferenceRun } from "akasha/infrastructure/inference/runs/store/i
 import { sha256Hex } from "akasha/utils/hashing/sha256-hex/sha256-hex.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
-const IMAGE = "--image"
-
-const REFS = "--refs"
-
-const PROMPT = "--prompt"
-
-const OUTPUT = "--output"
-
-const ENGINE = "--engine"
-
-const ASPECT_RATIO = "--aspect-ratio"
-
-const SIZE = "--size"
-
-const TIMEOUT = "--timeout"
-
-const NO_PERSIST = "--no-persist"
-
-const TAKING = [
-  { said: IMAGE, repeat: true },
-  { said: REFS },
-  { said: PROMPT, prose: true },
-  { said: OUTPUT },
-  { said: ENGINE },
-  { said: ASPECT_RATIO },
-  { said: SIZE },
-  { said: TIMEOUT },
+const PAGES = [
+  aspectRatioArgument,
+  engineArgument,
+  imageArgument,
+  noPersist,
+  outputArgument,
+  promptFile,
+  refs,
+  renderPrompt,
+  sizeArgument,
+  timeoutArgument,
 ]
 
-const SWITCHES = [NO_PERSIST]
+type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
+
+const PROMPT = filing(renderPrompt.said)
 
 const ENGINES = ["nano-banana"]
 
@@ -93,53 +89,69 @@ export function configOf(
   }
 }
 
+function noneOf(
+  said: string,
+  held: string | undefined,
+  every: readonly string[]
+): readonly string[] {
+  if (held === undefined || every.includes(held)) return []
+  return [`\`${said}\` takes one of ${every.join(", ")}, and \`${held}\` is none of them`]
+}
+
+export function wrongIn(taken: Taken): readonly string[] {
+  return [
+    ...noneOf(aspectRatioArgument.said, taken.aspectRatio, RATIOS),
+    ...noneOf(sizeArgument.said, taken.size, SIZES),
+    ...noneOf(engineArgument.said, taken.engine, ENGINES),
+  ]
+}
+
 export async function inferenceEdit(argv: readonly string[], given: Given): Promise<Answer> {
-  const said = wordsIn(argv, TAKING, SWITCHES)
-  if (wasRefused(said)) return refusedBy(said.refused)
+  const read = takenFor(argv, given.calledAs, page, PAGES)
+  if ("refused" in read) return refusedBy(read.refused)
+  const taken: Taken = read.taken
 
-  const refusals: string[] = said.loose.map(
-    (one) => `\`${one}\` follows nothing this takes — it takes flags alone`
-  )
-  const prompt = heldOr(await proseNeededAt(said, PROMPT), refusals)
-  const timeout =
-    heldOr(countAt(said, TIMEOUT, DEFAULT_TIMEOUT_SEC), refusals) ?? DEFAULT_TIMEOUT_SEC
-  const aspectRatio = heldOr(oneOf(said, ASPECT_RATIO, RATIOS, undefined), refusals) ?? undefined
-  const imageSize = heldOr(oneOf(said, SIZE, SIZES, undefined), refusals) ?? undefined
-  heldOr(oneOf(said, ENGINE, ENGINES, ENGINES[0]), refusals)
+  const wrong = wrongIn(taken)
+  if (wrong.length > 0) return refusedBy(wrong)
 
-  const images = said.many[IMAGE] ?? []
-  const subject = images[0]
-  if (subject === undefined) refusals.push(`this names \`${IMAGE}\`, and nothing did`)
+  const asked = filledIn(given.root, taken.renderPrompt, taken.promptFile, PROMPT)
+  if ("refused" in asked) return refusedBy(asked.refused)
 
   const key = optionalEnv(KEY)
   if (key === undefined) {
-    refusals.push(`nothing holds \`${KEY}\`, so the engine cannot be reached`)
+    return refusedBy([`nothing holds \`${KEY}\`, so the engine cannot be reached`])
   }
 
-  if (refusals.length > 0 || prompt === null || subject === undefined || key === undefined) {
-    return refusedBy(refusals)
+  const images = taken.image
+  const subject = images[0]
+  if (subject === undefined) {
+    return refusedBy([`\`${imageArgument.said}\` names the image edited, and nothing said one`])
   }
 
-  const references = [...images.slice(1), ...refsIn(said.named[REFS])]
+  const prompt = asked.text ?? ""
+  const timeout = taken.timeout ?? DEFAULT_TIMEOUT_SEC
+  const aspectRatio = taken.aspectRatio
+  const imageSize = taken.size
+  const references = [...images.slice(1), ...refsIn(taken.refs)]
 
   return await answering(async () => {
     let subjectBytes: Uint8Array
     try {
       subjectBytes = await readFile(subject)
     } catch {
-      return refusedBy([`\`${IMAGE}\` names \`${subject}\`, which will not read`])
+      return refusedBy([`\`${imageArgument.said}\` names \`${subject}\`, which will not read`])
     }
     const referenceSha256s: string[] = []
     for (const path of references) {
       try {
         referenceSha256s.push(sha256Hex(await readFile(path)))
       } catch {
-        return refusedBy([`\`${REFS}\` names \`${path}\`, which will not read`])
+        return refusedBy([`\`${refs.said}\` names \`${path}\`, which will not read`])
       }
     }
 
     const nowMs = Date.now()
-    const outputPath = resolveOutputPath("edit", said.named[OUTPUT], nowMs)
+    const outputPath = resolveOutputPath("edit", taken.output, nowMs)
     const hasRefs = references.length > 0
     const record = buildInferenceRunRecord({
       service: "image-edit-nano-banana",
@@ -176,7 +188,7 @@ export async function inferenceEdit(argv: readonly string[], given: Given): Prom
         report.push(wroteTo(outputPath, image, "image"))
         return { outputPath, outputBytes: image }
       },
-      { persist: !said.flags.has(NO_PERSIST) }
+      { persist: !taken.noPersist }
     )
     return told(report)
   })

@@ -27,8 +27,16 @@ test("a config nothing narrowed is left off the call", () => {
 test("naming neither an image nor a prompt is refused for both", async () => {
   const said = await inferenceEdit([], GIVEN)
   expect(said.code).toBe(1)
-  expect(said.refusals.some((one) => one.includes("--prompt-file"))).toBe(true)
-  expect(said.refusals.some((one) => one.includes("--image"))).toBe(true)
+  expect(said.refusals).toEqual([
+    "`akasha inference edit` takes `--image`, and nothing said it",
+    "`akasha inference edit` takes `--prompt-file` or `--prompt`, and nothing said either",
+  ])
+})
+
+test("a value said at the flag with an equals sign is taken", async () => {
+  const said = await inferenceEdit(["--image=a.png", "--prompt=x", "--aspect-ratio=7:7"], GIVEN)
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("`7:7` is none of them")
 })
 
 test("a ratio the engine does not take is refused", async () => {
