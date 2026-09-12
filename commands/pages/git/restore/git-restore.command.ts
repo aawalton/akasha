@@ -10,7 +10,6 @@ export const gitRestore = {
   test: "ts",
   changeKind: "change-none",
   taking: [{ said: "--file-path <path>", takes: "a path to put back to what HEAD says of it" }],
-  helpNotes: [],
   invariants: [
     {
       invariantKind: "departure",
