@@ -13,7 +13,7 @@ export const talos = {
     "command/talos-image-build",
     "command/talos-kubeconfig",
     "command/talos-remote-install",
-    "command/talos-secrets-gen",
+    "command/talos-secret-gen",
   ],
   name: "talos",
 } as const satisfies Namespace
