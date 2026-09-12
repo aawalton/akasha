@@ -9,6 +9,7 @@ import {
   DATA,
   INPUT,
   OPERATIONAL,
+  partWay,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -267,7 +268,19 @@ async function landFoodEntry(root: string, slug: string, values: Value): Promise
   return written([composed.put], `${FOOD_WRITER}: the food entry ${slug}`)
 }
 
-async function logging(read: Logged, given: Given): Promise<Answer> {
+export type Kept = { readonly done: string[]; readonly report: string[] }
+
+export function stoppedBy(kept: Kept, thrown: unknown): Answer {
+  const why = whyOf(thrown)
+  if (kept.done.length === 0) return refused(why, OPERATIONAL)
+  return {
+    report: [...kept.done, ...kept.report],
+    refusals: [why, ...partWay(kept.done)],
+    code: OPERATIONAL,
+  }
+}
+
+async function logging(read: Logged, given: Given, kept: Kept): Promise<Answer> {
   const happenedAtRead = happenedAtFrom(read.date, read.time, new Date())
   if ("refused" in happenedAtRead) return refused(happenedAtRead.refused, INPUT)
   const happenedAtDate = happenedAtRead.at
@@ -312,8 +325,9 @@ async function logging(read: Logged, given: Given): Promise<Answer> {
   const landed = await landFoodEntry(root, slug, values)
   if (!landed.ok)
     return refused(`the food entry did not land as a page: ${landed.why}`, OPERATIONAL)
+  kept.done.push(`wrote the food entry ${slug}, id ${foodId}`)
 
-  const report: string[] = []
+  const report = kept.report
   const notLanded: string[] = []
   const missed = (step: string, thrown: unknown, after: string): undefined => {
     notLanded.push(step)
@@ -328,9 +342,11 @@ async function logging(read: Logged, given: Given): Promise<Answer> {
   if (bytes !== null && store !== null) {
     try {
       await store.put(imageObjectKey(foodId), new Uint8Array(bytes))
+      kept.done.push(`put the cover for ${foodId} in the object store`)
       cover = `/api/image/${foodId}`
       const patched = await landFoodEntry(root, slug, { ...values, cover })
       if (!patched.ok) throw new Error(patched.why)
+      kept.done.push(`wrote that cover onto ${slug}`)
     } catch (thrown) {
       cover = null
       missed(COVER_STEP, thrown, `The entry carries no cover; ${read.image} is where it was.`)
@@ -345,6 +361,7 @@ async function logging(read: Logged, given: Given): Promise<Answer> {
     }
     const nutrition: NutritionPoints = await import(join(root, at))
     await nutrition.rollupNutritionForDay(dayStr)
+    kept.done.push(`rolled the nutrition of ${dayStr} up again`)
   } catch (thrown) {
     missed(
       NUTRITION_STEP,
@@ -386,9 +403,10 @@ async function logging(read: Logged, given: Given): Promise<Answer> {
 export async function alanFood(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) return refusedBy(read.refused)
+  const kept: Kept = { done: [], report: [] }
   try {
-    return await logging(read, given)
+    return await logging(read, given, kept)
   } catch (thrown) {
-    return refused(whyOf(thrown), OPERATIONAL)
+    return stoppedBy(kept, thrown)
   }
 }

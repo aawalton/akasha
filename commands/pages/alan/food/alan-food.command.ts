@@ -27,7 +27,12 @@ export const alanFood = {
     },
     {
       invariantKind: "departure",
-      statement: "A run that refuses wrote no entry.",
+      statement: "A run that refuses having written no entry says the fault alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A run that refuses having written the entry names that entry and each write past it.",
     },
     {
       invariantKind: "departure",

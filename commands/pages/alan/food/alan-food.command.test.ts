@@ -8,6 +8,7 @@ import {
   slugOfStem,
   stemFor,
   stemOfSlug,
+  stoppedBy,
   wallClockIn,
 } from "akasha/commands/pages/alan/food/alan-food.command.code.ts"
 
@@ -19,6 +20,30 @@ test("nothing said is refused, naming what it takes", async () => {
   const said = await alanFood([], given("/nowhere"))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("--title")
+})
+
+test("a run stopped before the entry was written is refused as the fault alone", () => {
+  const said = stoppedBy({ done: [], report: [] }, new Error("the day would not open"))
+  expect(said.report).toEqual([])
+  expect(said.refusals).toEqual(["the day would not open"])
+  expect(said.code).toBe(3)
+})
+
+test("a run stopped after the entry was written names the entry and every write past it", () => {
+  const kept = {
+    done: ["wrote the food entry food-entry-2026-06-26-kale, id 01a0", "put the cover for 01a0"],
+    report: ["cover did not land for food entry 01a0: the pool dropped the call"],
+  }
+  const said = stoppedBy(kept, new Error("the roll-up would not load"))
+  expect(said.report[0]).toContain("wrote the food entry")
+  expect(said.report[1]).toContain("put the cover")
+  expect(said.report[2]).toContain("cover did not land")
+  expect(said.refusals[0]).toBe("the roll-up would not load")
+  const last = said.refusals[said.refusals.length - 1] as string
+  expect(last).toContain("stopped part way")
+  expect(last).toContain("wrote the food entry food-entry-2026-06-26-kale, id 01a0")
+  expect(last).toContain("put the cover for 01a0")
+  expect(said.code).toBe(3)
 })
 
 test("the food's name is read off the first word", () => {
