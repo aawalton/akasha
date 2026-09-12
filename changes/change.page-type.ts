@@ -27,7 +27,6 @@ export const change = {
     "module/json-entries",
     "module/change-answer",
     "module/edits-keeping",
-    "module/export-spelling",
     "page-type/change-mode",
     "relation-property/change-kind",
     "relation-property/change-mode",

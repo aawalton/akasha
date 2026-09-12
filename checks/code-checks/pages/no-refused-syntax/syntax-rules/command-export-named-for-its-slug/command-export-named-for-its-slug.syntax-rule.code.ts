@@ -1,8 +1,8 @@
-import { calledIn } from "akasha/changes/modules/export-spelling/export-spelling.module.code.ts"
 import type {
   Given,
   Refusal,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
+import { calledIn } from "akasha/pages/export-name/export-spelling/export-spelling.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 
 const COMMANDS_AT = "commands/pages/"

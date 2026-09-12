@@ -3,7 +3,7 @@ import {
   calledIn,
   spellingsIn,
   typedIn,
-} from "akasha/changes/modules/export-spelling/export-spelling.module.code.ts"
+} from "akasha/pages/export-name/export-spelling/export-spelling.module.code.ts"
 
 const PAGE = "akasha/one/held-one.module.ts"
 
