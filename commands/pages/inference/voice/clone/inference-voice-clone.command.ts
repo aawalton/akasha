@@ -9,10 +9,6 @@ export const inferenceVoiceClone = {
   taking: [
     { said: "--text <utterance>", takes: "what is spoken in the cloned voice" },
     { said: "--ref-text <transcript>", takes: "what that clip says" },
-    {
-      said: "--ref-text-file <path>",
-      takes: "that transcript read from a path, or `-` for standard input",
-    },
   ],
   invariants: [
     {
@@ -50,5 +46,6 @@ export const inferenceVoiceClone = {
     { argument: "argument/priority" },
     { argument: "argument/mode" },
     { argument: "argument/text-file" },
+    { argument: "argument/ref-text-file" },
   ],
 } as const satisfies Command
