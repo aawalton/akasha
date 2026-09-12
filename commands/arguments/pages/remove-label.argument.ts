@@ -8,5 +8,4 @@ export const removeLabel = {
   takes: "a label id to take off it, said again for each",
   value: "text",
   placeholder: "label-id",
-  repeats: true,
 } as const satisfies Argument
