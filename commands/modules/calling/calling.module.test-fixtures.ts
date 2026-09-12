@@ -49,11 +49,6 @@ export const ANSWERS_LATER = `export async function held(argv, given) {
 }
 `
 
-export const SAYS_KIND = `export function held(argv, given) {
-  return { report: [JSON.stringify(given.changeKind ?? null)], refusals: [], code: 0 }
-}
-`
-
 export const OUTSIDE = { calledAs: "akasha", from: "/nowhere", writer: null, agentId: null }
 
 const scratch = scratchWorld()

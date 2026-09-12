@@ -1,6 +1,5 @@
 import { expect, test } from "bun:test"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { MECHANICAL } from "akasha/commands/modules/calling/calling.module.test-fixtures.ts"
 import {
   BODYWEIGHT,
   poundsIn,
@@ -13,7 +12,6 @@ const GIVEN: Given = {
   from: "/nowhere",
   writer: null,
   agentId: null,
-  changeKind: MECHANICAL,
 }
 
 test("a weight in pounds reads as the number it says", () => {

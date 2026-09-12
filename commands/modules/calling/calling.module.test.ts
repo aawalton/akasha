@@ -13,11 +13,9 @@ import {
   ANSWERS_NOTHING,
   bootstrapped,
   COMMAND_TYPE,
-  MECHANICAL,
   namespacesIn,
   OUTSIDE,
   rootWith,
-  SAYS_KIND,
   SURFACED,
   sweep,
   THROWS_NO_ERROR,
@@ -345,18 +343,4 @@ test("a name no command carries is told where the surface is written down", asyn
   const said = await calling(["nowhere"], { ...OUTSIDE, root })
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("Say `akasha --help` for what each of them takes.")
-})
-
-test("the change kind a call already carries is what the command is handed", async () => {
-  const root = rootWith([{ slug: "held", body: SAYS_KIND }])
-  const said = await calling(["held"], { ...OUTSIDE, root, changeKind: MECHANICAL })
-  expect(said.code).toBe(0)
-  expect(said.report[0]).toBe(JSON.stringify(MECHANICAL))
-})
-
-test("a change kind no page states is handed as none, so everything runs", async () => {
-  const root = rootWith([{ slug: "held", body: SAYS_KIND }])
-  const said = await calling(["held"], { ...OUTSIDE, root })
-  expect(said.code).toBe(0)
-  expect(said.report[0]).toBe("null")
 })

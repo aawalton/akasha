@@ -155,24 +155,12 @@ export const calling = {
     },
     {
       invariantKind: "departure",
-      statement: "The change kind a call already has holds over the change kind the page names.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A command is handed the change kind its page names.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "The checks a kind runs and the readings a change of that kind owes are read off its page.",
     },
     {
-      invariantKind: "departure",
-      statement: "A change kind that will not be read is handed to the command as no kind.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A command handed no change kind runs every check and every warrant.",
+      invariantKind: "absence",
+      statement: "No command is handed a change kind.",
     },
     {
       invariantKind: "departure",

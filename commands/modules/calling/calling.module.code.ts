@@ -45,7 +45,6 @@ export type Outside = {
   readonly from: string
   readonly writer: string | null
   readonly agentId: string | null
-  readonly changeKind?: Kind
 }
 
 export type Answer = {
@@ -63,8 +62,6 @@ export const HELP = "--help"
 export const HELP_SHORT = "-h"
 
 const DEFINITION = "definition"
-
-const CHANGE_KIND = "changeKind"
 
 const RUNS_CHECKS = "runsChecks"
 
@@ -185,11 +182,6 @@ export function kindNamed(root: string, slug: string): Kind | null {
   return { slug, runsChecks: checks, writerOwesReading: owed, readersOweReading: stales }
 }
 
-function kindOf(root: string, page: Record<string, unknown> | null): Kind | null {
-  const said = page === null ? null : page[CHANGE_KIND]
-  return typeof said === "string" ? kindNamed(root, said) : null
-}
-
 function definitionIn(root: string, path: string, slug: string): string | null {
   return definitionOf(pageIn(root, path, slug))
 }
@@ -268,7 +260,6 @@ async function answeredBy(
       `\`${named}\` is a command page, and ${beside} answers to nothing that can be called`
     )
   }
-  const kind = outside.changeKind ?? kindOf(root, page)
   const calledAs = `${outside.calledAs} ${said}`
   const watch = watching(secondsIn(page), calledAs)
   try {
@@ -278,7 +269,6 @@ async function answeredBy(
       from: outside.from,
       writer: outside.writer,
       agentId: outside.agentId,
-      ...(kind === null ? {} : { changeKind: kind }),
     })
   } finally {
     watch.ended()
