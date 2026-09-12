@@ -7,15 +7,12 @@ import type {
 import { selectNextExploration } from "akasha/alan/music/choosing/music-exploration/music-exploration.module.code.ts"
 import type { MusicRating } from "akasha/alan/music/choosing/rating-ladder/rating-ladder.module.code.ts"
 import { MUSIC_RATINGS } from "akasha/alan/music/choosing/rating-ladder/rating-ladder.module.code.ts"
+import { DATA, INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { propertiesIfNamedOf } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
-
-const INPUT = 1
-
-const DATA = 2
 
 const JSON_SAID = "--json"
 
@@ -142,5 +139,5 @@ export function musicNext(argv: readonly string[], given: Given): Answer {
   if (amiss !== null) return refused(amiss, DATA)
   const selection = selectionOf(selectNextExploration(catalogIn(given.root)))
   const report = argv.includes(JSON_SAID) ? [JSON.stringify(selection)] : saidOf(selection)
-  return { report: [...report], refusals: [], code: 0 }
+  return { report: [...report], refusals: [], code: OK }
 }
