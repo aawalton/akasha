@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   found,
+  moduleOf,
   slugOf,
 } from "akasha/checks/code-checks/pages/command-takes-its-arguments-through-one-reader/command-takes-its-arguments-through-one-reader.code-check.decision.code.ts"
 
@@ -9,6 +10,13 @@ const AT = "commands/pages/humming/deep-song/humming-deep-song.command.code.ts"
 const PAGE_AT = "commands/pages/humming/deep-song/humming-deep-song.command.ts"
 
 const OUTSIDE_AT = "akasha/humming/held.module.code.ts"
+
+const BESIDE_AT = "commands/pages/humming/humming-arguing/humming-arguing.module.code.ts"
+
+const FAR_AT = "temper/commands/word-reading/word-reading.module.code.ts"
+
+const READER =
+  "export function saidFor(argv: readonly string[]): number {\n  return argv.length\n}\n"
 
 const OPENS = "export function hummingDeepSong(argv: readonly string[], given: Given): Answer {\n"
 
@@ -85,4 +93,52 @@ test("a command's file names that command's slug", () => {
   expect(slugOf(AT)).toBe("humming-deep-song")
   expect(slugOf(PAGE_AT)).toBeNull()
   expect(slugOf(OUTSIDE_AT)).toBeNull()
+})
+
+test("a module's file beside the commands names that module's slug", () => {
+  expect(moduleOf(BESIDE_AT)).toBe("humming-arguing")
+  expect(moduleOf(AT)).toBeNull()
+  expect(moduleOf(FAR_AT)).toBeNull()
+})
+
+test("a module beside the commands reading those words is refused", () => {
+  const said = found(BESIDE_AT, READER)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("line 2")
+  expect(said[0]).toContain("`argv.length`")
+})
+
+test("a module away from the commands is refused nothing", () => {
+  expect(found(FAR_AT, READER)).toEqual([])
+})
+
+test("a module keeping its reader to itself is refused nothing", () => {
+  expect(found(BESIDE_AT, READER.replace("export ", ""))).toEqual([])
+})
+
+test("a module taking those words under another spelling is refused nothing", () => {
+  expect(found(BESIDE_AT, READER.replaceAll("argv", "words"))).toEqual([])
+})
+
+test("a module handing those words to `takenFor` is refused nothing", () => {
+  const said =
+    "export function readIn(argv: readonly string[], calledAs: string): Read {\n" +
+    "  return takenFor(argv, calledAs, page, PAGES)\n}\n"
+  expect(found(BESIDE_AT, said)).toEqual([])
+})
+
+test("each reader a module exports is refused apart", () => {
+  expect(found(BESIDE_AT, READER + READER.replace("saidFor", "eachFor"))).toHaveLength(2)
+})
+
+test("a reader one export of a module hands on to another is refused once", () => {
+  const on =
+    "export function eachFor(argv: readonly string[]): number {\n  return saidFor(argv)\n}\n"
+  expect(found(BESIDE_AT, READER + on)).toHaveLength(1)
+})
+
+test("a module's refusals are named in the order the lines run", () => {
+  const said = found(BESIDE_AT, READER.replace("saidFor", "eachFor") + READER)
+  expect(said[0]).toContain("line 2")
+  expect(said[1]).toContain("line 5")
 })

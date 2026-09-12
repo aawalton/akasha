@@ -37,11 +37,23 @@ export const commandTakesItsArgumentsThroughOneReader = {
     },
     {
       invariantKind: "departure",
-      statement: "Only the file holding a command's code is judged.",
+      statement: "A command's code is judged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A module's code under `commands/pages` is judged as well.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A module's code elsewhere is a reader this check does not judge.",
     },
     {
       invariantKind: "departure",
       statement: "A file outside `commands/pages` is refused nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "In a module's code every exported parameter spelled `argv` holds those words.",
     },
     {
       invariantKind: "departure",
@@ -57,8 +69,7 @@ export const commandTakesItsArgumentsThroughOneReader = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "`experimental` comes off this page once no command's code reads the words of its own call.",
+      statement: "`experimental` comes off this page once nothing judged here reads those words.",
     },
     {
       invariantKind: "absence",
@@ -71,6 +82,10 @@ export const commandTakesItsArgumentsThroughOneReader = {
     {
       invariantKind: "absence",
       statement: "A name of its own a nested function binds is not told apart from those words.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Words a module takes under another spelling are read by nothing here.",
     },
   ],
   check: { maxCpuSeconds: 10 },

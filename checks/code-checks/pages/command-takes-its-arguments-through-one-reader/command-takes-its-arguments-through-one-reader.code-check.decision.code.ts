@@ -6,9 +6,17 @@ const COMMANDS_AT = "commands/pages/"
 
 const CODE_NAMED = /^(.+)\.command\.code\.tsx?$/
 
+const MODULE_NAMED = /^(.+)\.module\.code\.tsx?$/
+
 const STEM = 1
 
+const FIRST = 0
+
+const NOWHERE = -1
+
 const ONE_READER = "takenFor"
+
+const WORDS = "argv"
 
 const INSTEAD =
   `a command takes the words of its call through \`${ONE_READER}\`, ` +
@@ -28,12 +36,31 @@ type Reading = {
   readonly seen: Found[]
 }
 
-export function slugOf(path: string): string | null {
+type Taking = {
+  readonly holder: ts.FunctionLikeDeclaration
+  readonly at: number
+}
+
+function tailOf(path: string): string | null {
   if (!path.startsWith(COMMANDS_AT)) return null
   const parts = path.slice(COMMANDS_AT.length).split("/")
-  const held = parts[parts.length - STEM]
-  if (held === undefined) return null
+  return parts[parts.length - STEM] ?? null
+}
+
+export function slugOf(path: string): string | null {
+  const held = tailOf(path)
+  if (held === null) return null
   return CODE_NAMED.exec(held)?.[STEM] ?? null
+}
+
+export function moduleOf(path: string): string | null {
+  const held = tailOf(path)
+  if (held === null) return null
+  return MODULE_NAMED.exec(held)?.[STEM] ?? null
+}
+
+export function judgedIn(path: string): boolean {
+  return slugOf(path) !== null || moduleOf(path) !== null
 }
 
 function functionOf(node: ts.Expression): ts.FunctionLikeDeclaration | null {
@@ -112,14 +139,45 @@ function followed(state: Reading, call: ts.CallExpression, node: ts.Identifier):
   reading(state, into, call.arguments.indexOf(node))
 }
 
-export function found(path: string, text: string): readonly string[] {
+function saidOut(one: ts.FunctionDeclaration | ts.VariableStatement): boolean {
+  return one.modifiers?.some((each) => each.kind === ts.SyntaxKind.ExportKeyword) === true
+}
+
+function wordsAt(holder: ts.FunctionLikeDeclaration): number {
+  return holder.parameters.findIndex((one) => ts.isIdentifier(one.name) && one.name.text === WORDS)
+}
+
+function takingsIn(source: ts.SourceFile): readonly Taking[] {
+  const every: Taking[] = []
+  const hold = (holder: ts.FunctionLikeDeclaration): undefined => {
+    const at = wordsAt(holder)
+    if (at !== NOWHERE) every.push({ holder, at })
+  }
+  for (const one of source.statements) {
+    if (ts.isFunctionDeclaration(one) && saidOut(one)) hold(one)
+    if (!ts.isVariableStatement(one) || !saidOut(one)) continue
+    for (const held of one.declarationList.declarations) {
+      if (held.initializer === undefined) continue
+      const made = functionOf(held.initializer)
+      if (made !== null) hold(made)
+    }
+  }
+  return every
+}
+
+function takingFor(path: string, source: ts.SourceFile, declared: Held): readonly Taking[] {
   const slug = slugOf(path)
-  if (slug === null) return []
+  if (slug === null) return takingsIn(source)
+  const holder = declared.get(exportedAs(slug))
+  return holder === undefined ? [] : [{ holder, at: FIRST }]
+}
+
+export function found(path: string, text: string): readonly string[] {
+  if (!judgedIn(path)) return []
   const source = parsedAs(path, text)
   const declared = declaredIn(source)
-  const holder = declared.get(exportedAs(slug))
-  if (holder === undefined) return []
   const state: Reading = { source, declared, walked: new Set(), seen: [] }
-  reading(state, holder, 0)
-  return state.seen.map((one) => `line ${one.line} ${one.how} — ${INSTEAD}`)
+  for (const one of takingFor(path, source, declared)) reading(state, one.holder, one.at)
+  const said = [...state.seen].sort((one, other) => one.line - other.line)
+  return said.map((one) => `line ${one.line} ${one.how} — ${INSTEAD}`)
 }
