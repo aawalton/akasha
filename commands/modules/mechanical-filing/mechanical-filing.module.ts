@@ -33,6 +33,19 @@ export const mechanicalFiling = {
       statement: "No check runs over a body landed here.",
     },
     {
+      invariantKind: "departure",
+      statement: "The landing a file goes through is handed in.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A call that landed is answered with the paths landed and the commit holding them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing that wrote before it went wrong answers the same beside its refusals.",
+    },
+    {
       invariantKind: "absence",
       statement: "No ask here appends.",
     },

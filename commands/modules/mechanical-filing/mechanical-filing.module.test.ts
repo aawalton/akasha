@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   askedFor,
@@ -40,4 +41,24 @@ test("a call refused lands nothing and reports nothing", async () => {
   const said = await filing(["--content-file", "body.txt"], GIVEN, TERMINAL)
   expect(said.code).toBe(1)
   expect(said.report).toEqual([])
+})
+
+const COMMIT = "1".repeat(40)
+
+const LANDED: Applied = {
+  base: "0".repeat(40),
+  landed: [AT],
+  formatted: [],
+  said: [],
+  wrong: ["the install stopped"],
+  commit: COMMIT,
+}
+
+test("a landing that wrote before it went wrong names what it wrote and the commit", async () => {
+  const piped = () => ({ bytes: new TextEncoder().encode("alpha\n") })
+  const said = await filing(["--file-path", AT], GIVEN, piped, () => Promise.resolve(LANDED))
+  expect(said.code).toBe(3)
+  expect(said.refusals).toEqual(["the install stopped"])
+  expect(said.report).toContain(`landed ${AT}`)
+  expect(said.report).toContain(`committed as ${COMMIT}`)
 })

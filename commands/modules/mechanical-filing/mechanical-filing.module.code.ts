@@ -10,6 +10,7 @@ import {
   type Given,
 } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { builtIn } from "akasha/commands/modules/file-arguing/file-arguing.module.code.ts"
+import { commitSaid } from "akasha/commands/modules/landing-saying/landing-saying.module.code.ts"
 import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 
 const PUT = "change-mechanical/add-file-of-any-kind"
@@ -31,14 +32,26 @@ export function askedFor(changes: readonly FileChange[]): readonly Asking[] {
   return asked
 }
 
+export type Landing = (
+  root: string,
+  changes: readonly Asking[],
+  message: string
+) => ReturnType<typeof runMechanicalChange>
+
 export async function filing(
   argv: readonly string[],
   given: Given,
-  piping: Piping
+  piping: Piping,
+  landing: Landing = runMechanicalChange
 ): Promise<Answer> {
   const built = builtIn(argv, given, piping, MECHANICAL_KIND)
   if ("code" in built) return built
-  const landed = await runMechanicalChange(given.root, askedFor(built.changes), built.message)
-  if ("refusals" in landed) return answering([], landed.refusals, WRONG)
-  return answering(landed.said, landed.wrong, landed.wrong.length === 0 ? 0 : WRONG)
+  const landed = await landing(given.root, askedFor(built.changes), built.message)
+  if ("refusals" in landed) return answering([...(landed.said ?? [])], landed.refusals, WRONG)
+  const wrote = [
+    ...landed.landed.map((one) => `landed ${one}`),
+    ...landed.said,
+    commitSaid(landed.commit, landed.untracked ?? []),
+  ]
+  return answering(wrote, landed.wrong, landed.wrong.length === 0 ? 0 : WRONG)
 }
