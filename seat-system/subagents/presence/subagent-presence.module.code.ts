@@ -256,14 +256,25 @@ export function pathsUnder(root: string, seatName: string): readonly string[] {
     .sort()
 }
 
+export async function notWorking(
+  root: string,
+  under: readonly string[],
+  reading: Reading = livenessOf
+): Promise<readonly string[]> {
+  const left: string[] = []
+  for (const at of under) if ((await reading(root, at)) !== "working") left.push(at)
+  return left
+}
+
 export async function tookUnder(
   root: string,
   seatName: string,
   why: string,
   done: string[] = [],
-  landing: Landing = landedMechanically
+  landing: Landing = landedMechanically,
+  reading: Reading = livenessOf
 ): Promise<Went> {
-  const paths = pathsUnder(root, seatName)
+  const paths = await notWorking(root, pathsUnder(root, seatName), reading)
   if (paths.length === 0) return WENT
   const seat = seatPageIn(root, seatName)
   if (seat !== null) for (const at of paths) movedOnto(root, seat, at)

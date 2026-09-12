@@ -159,6 +159,8 @@ export function pageUnder(root: string, seatName: string): string {
 
 export const RETURNED: Reading = () => Promise.resolve("returned")
 
+export const UNREAD: Reading = () => Promise.resolve("unread")
+
 export const WORKING: Reading = () => Promise.resolve("working")
 
 export async function pageWritten(root: string): Promise<string> {

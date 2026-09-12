@@ -318,6 +318,19 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
+      statement: "A sweep leaves a page whose subagent the transcript names as running.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A sweep takes a page it could read nothing for, where a take-down leaves that page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A sweep is where a page no take-down would take is reclaimed.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A run of hyphens between the seat's name and the subagent's own id is written as one.",
     },

@@ -19,6 +19,7 @@ import {
   assignedTo,
   LOG_AT,
   logPathOf,
+  notWorking,
   pathIn,
   pathOf,
   pathsUnder,
@@ -68,6 +69,7 @@ import {
   stampOpening,
   subagentsFiled,
   THREW_AFTER,
+  UNREAD,
   underSeat,
   WENT,
   WORKING,
@@ -304,6 +306,12 @@ test("the pages under a seat are the pages the index files under that seat's nam
     writing(root, editsAt(at) ?? "", ROW)
     expect(pathsUnder(root, "akasha")).toEqual([at, other])
   })
+})
+
+test("a sweep leaves what a reading names as working and takes what it could not read", async () => {
+  expect(await notWorking(".", ["one", "two"], WORKING)).toEqual([])
+  expect(await notWorking(".", ["one", "two"], UNREAD)).toEqual(["one", "two"])
+  expect(await notWorking(".", ["one", "two"], RETURNED)).toEqual(["one", "two"])
 })
 
 test("a page is under the longest seat name the index files that its slug opens with", () => {
