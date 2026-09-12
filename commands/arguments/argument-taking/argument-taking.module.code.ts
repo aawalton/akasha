@@ -75,7 +75,8 @@ function whyRefused(one: Naming, said: string, byWord: boolean): string | null {
   return null
 }
 
-function heldOf(argument: Argument, said: string): string | number | boolean {
+function heldOf(argument: Argument, said: string | null): string | number | boolean {
+  if (said === null) return true
   if (argument.value === "whole-number") return Number(said)
   if (argument.value === "true-or-false") return said === "true"
   return said
@@ -106,11 +107,11 @@ type Filling = {
   readonly refusals: string[]
 }
 
-function filling(state: Filling, one: Naming, value: string, byWord: boolean): undefined {
+function filling(state: Filling, one: Naming, value: string | null, byWord: boolean): undefined {
   const argument = one.argument
   const slug = argument.slug
   const key = exportedAs(slug)
-  const why = whyRefused(one, value, byWord)
+  const why = value === null ? null : whyRefused(one, value, byWord)
   if (why !== null) {
     state.refusals.push(why)
     state.heard.add(slug)
@@ -224,8 +225,7 @@ export function takingIn(
         state.refusals.push(`\`${named}\` carries no value, and \`${word}\` names one`)
         continue
       }
-      state.taken[exportedAs(argument.slug)] = true
-      state.heard.add(argument.slug)
+      filling(state, held, null, false)
       continue
     }
     if (inline !== undefined) {

@@ -100,10 +100,9 @@ test("an argument that does not repeat is refused where one call says it twice",
   expect(refusals(["--limit", "1", "--limit", "2"], [LIMIT])[0]).toBe(
     "`--limit` is said twice, and one call says it once"
   )
-})
-
-test("an argument carrying no value is taken once where one call says it twice", () => {
-  expect(taken(["--dry-run", "--dry-run"], [DRY_RUN])).toEqual({ dryRun: true })
+  expect(refusals(["--dry-run", "--dry-run"], [DRY_RUN])[0]).toBe(
+    "`--dry-run` is said twice, and one call says it once"
+  )
 })
 
 test("a value that is neither true nor false is refused", () => {

@@ -43,10 +43,7 @@ export const argumentTaking = {
       invariantKind: "departure",
       statement: "An argument that does not repeat is refused where one call says it twice.",
     },
-    {
-      invariantKind: "departure",
-      statement: "An argument carrying no value is taken once where one call says it twice.",
-    },
+
     {
       invariantKind: "departure",
       statement:
