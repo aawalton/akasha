@@ -1,5 +1,10 @@
 import { pointsTotalKept } from "akasha/alan/attributes/points/attribute-points.module.code.ts"
 import { levelOf } from "akasha/alan/attributes/properties/attribute-level.computed-property.code.ts"
+import {
+  DATA,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   flooredTo,
@@ -71,12 +76,8 @@ export function measuredIn(
 export function measureAttribute(_argv: readonly string[], given: Given): Answer {
   const read = measuredIn(drawnIn(given.root), (slug) => pointsTotalKept(given.root, slug))
   if (read.measured.length === 0) {
-    return { report: [], refusals: [NOTHING_KEPT, ...read.unread], code: 2 }
+    return refusedBy([NOTHING_KEPT, ...read.unread], DATA)
   }
   const said = [...linesOf(read.measured)]
-  return {
-    report: read.unread.length === 0 ? said : [...said, "", ...read.unread],
-    refusals: [],
-    code: 0,
-  }
+  return told(read.unread.length === 0 ? said : [...said, "", ...read.unread])
 }

@@ -1,3 +1,8 @@
+import {
+  DATA,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   flooredTo,
@@ -81,11 +86,7 @@ export function measurePersona(_argv: readonly string[], given: Given): Answer {
     (rung) => rungs.get(rung) ?? null
   )
   if (measured.length === 0) {
-    return { report: [], refusals: [NOTHING_KEPT], code: 2 }
+    return refusedBy([NOTHING_KEPT], DATA)
   }
-  return {
-    report: [...linesOf(measured), ...untotalledOf(named.length, measured.length)],
-    refusals: [],
-    code: 0,
-  }
+  return told([...linesOf(measured), ...untotalledOf(named.length, measured.length)])
 }
