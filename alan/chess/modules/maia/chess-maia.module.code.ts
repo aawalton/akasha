@@ -6,7 +6,7 @@ import {
   resolveLc0Path,
   runEngine,
 } from "akasha/alan/chess/modules/engine/chess-engine.module.code.ts"
-import { isBestMoveLine, parseSearch } from "akasha/alan/chess/uci/chess-uci.module.code.ts"
+import { isBestMoveLine, parseSearch } from "akasha/alan/chess/modules/uci/chess-uci.module.code.ts"
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { z } from "zod"
 

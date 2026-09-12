@@ -1,6 +1,6 @@
 "use client"
 
-import type { ChipProps } from "akasha/design/interfaces/patterns/chip/chip.module.code.tsx"
+import type { ChipProps } from "akasha/design/interfaces/patterns/modules/chip/chip.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import {
   Popover,

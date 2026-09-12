@@ -5,15 +5,18 @@ import {
   formatScore,
 } from "akasha/alan/chess/modules/eval/chess-eval.module.code.ts"
 import ChessEvalBar from "akasha/alan/chess/modules/eval-bar/chess-eval-bar.module.code.tsx"
-import ChessMoveList from "akasha/alan/chess/move-list/chess-move-list.module.code.tsx"
-import type { ChessState, ChessStatus } from "akasha/alan/chess/state/chess-state.module.code.ts"
+import ChessMoveList from "akasha/alan/chess/modules/move-list/chess-move-list.module.code.tsx"
+import type {
+  ChessState,
+  ChessStatus,
+} from "akasha/alan/chess/modules/state/chess-state.module.code.ts"
 import {
   applyMove,
   createChessState,
   deriveMoveList,
   deriveSnapshot,
   stepToPly,
-} from "akasha/alan/chess/state/chess-state.module.code.ts"
+} from "akasha/alan/chess/modules/state/chess-state.module.code.ts"
 import { useChromeToggle } from "akasha/pages/ui/components/use-chrome-toggle/use-chrome-toggle.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import { Chessground } from "chessground"

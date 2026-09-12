@@ -1,5 +1,5 @@
 "use client"
-import type { ChessMoveListEntry } from "akasha/alan/chess/state/chess-state.module.code.ts"
+import type { ChessMoveListEntry } from "akasha/alan/chess/modules/state/chess-state.module.code.ts"
 import { useEffect, useRef } from "react"
 
 export interface ChessMoveListProps {

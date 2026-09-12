@@ -7,7 +7,7 @@ import {
   parsePerftMoves,
   parseSearch,
   type ScoreInfo,
-} from "akasha/alan/chess/uci/chess-uci.module.code.ts"
+} from "akasha/alan/chess/modules/uci/chess-uci.module.code.ts"
 import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 
 function isPerftDoneLine(line: string): boolean {
