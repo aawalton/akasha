@@ -19,8 +19,6 @@ import { types } from "akasha/pages/types/properties/types.file-property.ts"
 
 const PACKAGE = "workspace-package"
 
-const MANIFEST = "manifest"
-
 const WORKSPACE = "workspace"
 
 const WORKSPACE_MANIFEST = "workspace-manifest"
@@ -41,7 +39,7 @@ const SAID = "a package is reached only where its manifest names"
 
 const CALLED = "the manifest calls this package"
 
-const NO_MANIFEST = `the index names no file for \`${MANIFEST}\`, so no package's manifest is findable`
+const NO_MANIFEST = `the index names no file for \`${WORKSPACE_MANIFEST}\`, so no manifest is findable`
 
 export type Package = {
   readonly folder: string
@@ -100,7 +98,7 @@ function nameReasonsIn(text: string, matching: Matching): readonly string[] {
 }
 
 export function manifestNamed(shadow: Shadow): string {
-  const said = shadow.index.fileKeysAt().get(MANIFEST)
+  const said = shadow.index.fileKeysAt().get(WORKSPACE_MANIFEST)
   if (said === undefined || said === null) throw new Error(NO_MANIFEST)
   return said
 }
