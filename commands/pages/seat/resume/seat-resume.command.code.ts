@@ -18,7 +18,7 @@ export async function seatResume(argv: readonly string[], given: Given): Promise
     ...(taken.startMode === undefined ? [] : [startMode.said, taken.startMode]),
   ]
   const { default: resuming } = await import(
-    "akasha/seat-system/seat-resume/seat-resume.module.code.ts"
+    "akasha/agents/seats/modules/resume/seat-resume.module.code.ts"
   )
   return await ran(async (done) => {
     await resuming([TARGET, taken.seat, ...carried], done)
