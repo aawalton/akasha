@@ -5,6 +5,7 @@ import {
   answering,
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type {
   Probing,
   Read,
@@ -16,6 +17,16 @@ import {
 } from "akasha/commands/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.code.ts"
 
 const UDID = "3F0C9A11-0000-4000-8000-000000000001"
+
+const CALLED_AS = "akasha mobile sim push-tap"
+
+const GIVEN: Given = {
+  root: "/nowhere",
+  calledAs: CALLED_AS,
+  from: "/nowhere",
+  writer: null,
+  agentId: null,
+}
 
 const APP = { bundleId: "com.example.app" } as MobileApp
 
@@ -86,7 +97,7 @@ test("a tap that drew no trace is refused with the push still named", async () =
 })
 
 test("a call naming no route is refused before any push goes out", async () => {
-  const said = await mobileSimPushTap([])
+  const said = await mobileSimPushTap([], GIVEN)
 
   expect(said.code).toBe(1)
   expect(said.report).toEqual([])
@@ -94,21 +105,21 @@ test("a call naming no route is refused before any push goes out", async () => {
 })
 
 test("two bare words are refused, since one push carries one route", async () => {
-  const said = await mobileSimPushTap(["/inbox", "/outbox"])
+  const said = await mobileSimPushTap(["/inbox", "/outbox"], GIVEN)
 
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("/outbox")
+  expect(said.refusals[0]).toBe(`\`${CALLED_AS}\` takes 1 word and this call says 2 words`)
 })
 
 test("an app slug no page carries is refused rather than defaulted", async () => {
-  const said = await mobileSimPushTap(["--route", "/inbox", "--app", "nosuch"])
+  const said = await mobileSimPushTap(["--route", "/inbox", "--app", "nosuch"], GIVEN)
 
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("nosuch")
 })
 
 test("a flag this takes no argument at is refused by name", async () => {
-  const said = await mobileSimPushTap(["--bogus", "/inbox"])
+  const said = await mobileSimPushTap(["--bogus", "/inbox"], GIVEN)
 
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("--bogus")

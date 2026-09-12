@@ -8,6 +8,7 @@ import {
 } from "akasha/alan/harness/mobile-cli/appium-client/appium-client.module.code.ts"
 import { MACBOOK } from "akasha/alan/harness/mobile-cli/macbook-target/macbook-target.module.code.ts"
 import type { MobileApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+import { appIn } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import { runSshCapture } from "akasha/alan/harness/mobile-cli/mobile-ssh/mobile-ssh.module.code.ts"
 import {
   buildApnsPayload,
@@ -24,33 +25,24 @@ import {
   resolveWdaLocalPort,
   WDA_LOCAL_PORT_ENV,
 } from "akasha/alan/harness/mobile-cli/sim-session/sim-session.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { app } from "akasha/commands/arguments/pages/app.argument.ts"
+import { route } from "akasha/commands/arguments/pages/route.argument.ts"
+import { title } from "akasha/commands/arguments/pages/title.argument.ts"
+import { udid as udidArgument } from "akasha/commands/arguments/pages/udid.argument.ts"
+import { warm } from "akasha/commands/arguments/pages/warm.argument.ts"
 import {
   answering,
   OPERATIONAL,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import {
-  APP_SAID,
-  appIn,
-  bareWordAs,
-  type Reading,
-  UDID_SAID,
-  wordsIn,
-} from "akasha/commands/pages/mobile/mobile-answering/mobile-answering.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mobileSimPushTap as page } from "akasha/commands/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { z } from "zod"
 
-const ROUTE = "--route"
-
-const WARM = "--warm"
-
-const TITLE = "--title"
-
-const VALUED = [APP_SAID, ROUTE, UDID_SAID, TITLE]
-
-const SWITCHES = [WARM]
+const TAKES = [app, udidArgument, route, warm, title]
 
 const BANNER_X = 201
 
@@ -86,26 +78,6 @@ export type Read = {
   readonly cold: boolean
   readonly udid: string | undefined
   readonly title: string | undefined
-}
-
-export function readIn(argv: readonly string[]): Reading<Read> {
-  const words = wordsIn(argv, VALUED, SWITCHES)
-  if ("refused" in words) return words
-  const said = bareWordAs(words, ROUTE)
-  if ("refused" in said) return said
-  const route = said.named[ROUTE]
-  if (route === undefined) {
-    return { refused: [`\`${ROUTE}\` names the route the push carries, and nothing did`] }
-  }
-  const app = appIn(said)
-  if ("refused" in app) return app
-  return {
-    app,
-    route,
-    cold: !said.flags.has(WARM),
-    udid: said.named[UDID_SAID],
-    title: said.named[TITLE],
-  }
 }
 
 export type Traced =
@@ -216,8 +188,18 @@ export async function probed(
   }
 }
 
-export async function mobileSimPushTap(argv: readonly string[]): Promise<Answer> {
-  const read = readIn(argv)
-  if ("refused" in read) return refusedBy(read.refused)
+export async function mobileSimPushTap(argv: readonly string[], given: Given): Promise<Answer> {
+  const said = takenFor(argv, given.calledAs, page, TAKES)
+  if ("refused" in said) return refusedBy(said.refused)
+  const taken = said.taken
+  const held = appIn(taken.app)
+  if ("refused" in held) return refusedBy(held.refused)
+  const read: Read = {
+    app: held,
+    route: taken.route,
+    cold: !taken.warm,
+    udid: taken.udid,
+    title: taken.title,
+  }
   return await answering(async (done) => await probed(read, done))
 }
