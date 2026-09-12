@@ -16,7 +16,7 @@ export const athenaCommandArguments = {
     {
       statement: "A command names the arguments it takes and narrows each.",
       workingMemory:
-        "Six keys narrow an argument and `default` sits on the argument page. Shapes the vocabulary cannot say, all Alan's: an enum over text, as `--section`'s four; a real number; a range; a per-command default; `--content-file` read against the `--file-path` before it; and an argument refused rather than taken, as `read --seat`. First is `oneOf`: it says at least one for 6 groups and exactly one for 17, and until a page says which, no generated type narrows a group at all.\n",
+        "Naming holds; narrowing does not. Only `value` narrows, and 250 of 338 pages carry `text` or `path`, which both fall through to the raw string. Two splits are Alan's. `oneOf` says at least one for 6 groups and exactly one for 17, and until a page says which, no type narrows a group. `path` names two policies: `--file-path` must stay in the repository and `--output` writes outside it, so no one resolver fits and the rule that a path is read against the root must never be true of `--output`.\n",
     },
     {
       statement:

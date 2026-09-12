@@ -11,13 +11,13 @@ export const athenaCommandModules = {
     {
       statement: "One function builds a command's refusal.",
       workingMemory:
-        "Both aliases are taken: `refusedAll` over 12 callers at `ea092d2`, `refusing` over 6 at `5f8725d`. Nine literals are left over six files, and `seat supervisor stop` is blocked. Out for good: `command-answering`, `calling`, `service-unit-asking`, `service-putting-up`. Alan's: `told` is exported three times for three meanings — build an answer, run a git command, and `inventory-rule-calling`'s — so a file importing one cannot take another, and `Applied` and `PutUp` answer what is no command.\n",
+        "`refusedAll`, `refusing` and their callers are gone, the last at `637c8169`. `answeredWith` is a second public builder with 90 non-test calls over 35 files, and `faulted`, `unclassified` and `answering`'s own catch build the record by hand inside `command-answering`. Alan's: `told` is exported three times for three meanings — build an answer, run a git command, and `inventory-rule-calling`'s — so a file importing one cannot take another.\n",
     },
     {
       statement:
         "A command that wrote before it threw says in its refusal what that command wrote.",
       workingMemory:
-        "Closed but for one. The email forwarder landed at `2f26a81b78`: mail sent, an unsubscribe POSTed, an archive at Gmail, each named on the line after it lands and above the log write. `handleInboundSms` is no instance, since its `:114` is reached only where the first delivery refused before writing. The `sentTo` abort-timeout retry is recorded on `page-calling`. Alan's: `icloud fetch` hands one list that is both its answer and what it did, and parting them changes what a caller reads.\n",
+        "Not closed. `icloud fetch` complies: `wroteEach` pushes each written path onto `done` under `answering`. Three survive. `inference wan generate` `:57` and `inference wan extend` `:59` both answer `{ report, refusals: [whyOf(thrown)], code: OPERATIONAL }` while `wan-clip-rendering` `:148-155` has already written the staged images; `git restore` `:337-353` puts restored paths in the report, which the refusal never names. `partWay` appends to refusals and `keeping` does both.\n",
     },
   ],
   constraints: [
