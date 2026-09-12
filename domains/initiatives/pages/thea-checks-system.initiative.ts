@@ -6,13 +6,7 @@ export const theaChecksSystem = {
   slug: "thea-checks-system",
   domain: "domain/check",
   persona: "thea",
-  intents: [
-    {
-      statement: "No finding is filed on checks-system or any part beneath it.",
-      workingMemory:
-        "1 in scope, from 17. Two more are out: a-name-place-check-reaches-the-vendored-lua-runtime, whose subject states experimental, and thirteen-flat-pages-folders, filed on folder-matches-a-shape, which states experimental as well. The deploy gate went at fef3cd37b3 as stale, Alan's call. The one left is the install that never prunes, and a6eee5327 wired the workspace root in as a package, so manifest-names-what-is-reached refuses a reach at a dead @akasha name now.",
-    },
-  ],
+  intents: [],
   constraints: [
     "An experimental check is out of scope.",
     "Each check takes one turn per step, and no turn carries two steps.",
