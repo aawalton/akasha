@@ -43,7 +43,7 @@ const NO_PERSIST = "--no-persist"
 const TAKING = [
   { said: IMAGE, aliases: ["--in"] },
   { said: HOST },
-  { said: OUTPUT, aliases: ["--out"] },
+  { said: OUTPUT },
   { said: RESOLUTION, aliases: ["-r"] },
   { said: SEED },
 ]
