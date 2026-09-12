@@ -6,12 +6,7 @@ export const temperInventoryConfiguration = {
   slug: "temper-inventory-configuration",
   definition: "the command giving back the compiled rule configuration the addon has",
   code: "ts",
-  taking: [
-    {
-      said: "--section <section>",
-      takes: "which section is given back: rules, consumables, priority or all",
-    },
-  ],
+  taking: [],
 
   invariants: [
     {
@@ -28,5 +23,9 @@ export const temperInventoryConfiguration = {
     },
   ],
   name: "configuration",
-  arguments: [{ argument: "argument/json" }, { argument: "argument/inventory-path" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/inventory-path" },
+    { argument: "argument/section" },
+  ],
 } as const satisfies Command
