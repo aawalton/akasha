@@ -19,7 +19,9 @@ import { emitJson } from "akasha/temper/commands/format-output/format-output.mod
 import {
   answeredByPage,
   settingsOf,
+  type Writing,
   webOf,
+  wroteSaid,
 } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import {
   narrowCategoryId,
@@ -33,12 +35,11 @@ import type { CategoryRule } from "akasha/temper/items-rules-core/inventory-rule
 
 const PAGES = [title, notes, goal, active, action, destination, stockScope, category, conditions]
 
-type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
+export type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
 
-async function made(taken: Taken): Promise<Answer> {
+export async function making(taken: Taken, writing: Writing, done: string[]): Promise<Answer> {
   const narrowed = parseConditionsJson(taken.conditions)
-  const settingsAccess = await settingsOf()
-  const settings = await settingsAccess.read()
+  const settings = await writing.read()
   const next = addCategoryRule(settings, {
     categoryId: narrowCategoryId(taken.category, category.said),
     action: narrowItemAction(taken.action, action.said),
@@ -56,11 +57,16 @@ async function made(taken: Taken): Promise<Answer> {
     return refused("a category rule was added and none is at the end of the list", DATA)
   }
   const merged: CategoryRule = { ...created, ...webOf(taken) }
-  await settingsAccess.write({
+  await writing.write({
     ...next,
     rules: next.rules.map((one) => (one.id === created.id ? merged : one)),
   })
+  done.push(wroteSaid("category", merged.id, "added"))
   return told(emitJson(merged).split("\n"))
+}
+
+async function made(taken: Taken, done: string[]): Promise<Answer> {
+  return await making(taken, await settingsOf(), done)
 }
 
 export async function temperInventoryRuleCreate(

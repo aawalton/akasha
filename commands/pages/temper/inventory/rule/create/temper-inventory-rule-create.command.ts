@@ -6,11 +6,27 @@ export const temperInventoryRuleCreate = {
   slug: "temper-inventory-rule-create",
   definition: "the command adding a category rule",
   code: "ts",
-
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement: "A new category rule is inactive.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call saying neither the action nor the category is refused for both.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The act that adds takes the store rather than reaching it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule added is named on the caller's list as soon as that write has gone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule the store would not take is named nowhere, because nothing was written.",
     },
     {
       invariantKind: "absence",
