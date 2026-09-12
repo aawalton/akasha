@@ -28,6 +28,8 @@ const ONE_CHARACTER = savedVariables(
             ["recipes"] = { ["food"] = { [1] = 41, [2] = 42 }, ["drink"] = { ["a"] = 43 } },
             ["motifKnowledge"] = { ["7"] = { [1] = 1, [2] = 2 } },
             ["scribing"] = { ["scripts"] = { ["5"] = { ["unlocked"] = true }, ["6"] = { ["unlocked"] = false } } },
+            ["curseState"] = "vampire",
+            ["skillLineProgress"] = { [111] = { ["currentRank"] = 7 }, [117] = { } },
           },
         },
       },
@@ -54,6 +56,31 @@ test("a motif style carries the chapters said under it", () => {
 test("a scribing script counts as known only where it says it is unlocked", () => {
   const held = parseTemperCharacters(ONE_CHARACTER)
   expect([...(held[0]?.unlockedScriptIds ?? [])]).toEqual([5])
+})
+
+test("a skill line held with no current rank reads as being at rank zero", () => {
+  const held = parseTemperCharacters(ONE_CHARACTER)
+  expect(held[0]?.skillLineRanksByEsoLineId.get(111)).toBe(7)
+  expect(held[0]?.skillLineRanksByEsoLineId.get(117)).toBe(0)
+})
+
+test("a skill line the saved variables never name is absent rather than at rank zero", () => {
+  const held = parseTemperCharacters(ONE_CHARACTER)
+  expect(held[0]?.skillLineRanksByEsoLineId.get(118)).toBeUndefined()
+})
+
+test("a curse state the saved variables carry reads through", () => {
+  const held = parseTemperCharacters(ONE_CHARACTER)
+  expect(held[0]?.curseState).toBe("vampire")
+})
+
+test("a curse state that is neither vampire nor werewolf reads as no curse at all", () => {
+  const held = parseTemperCharacters(
+    savedVariables(
+      `    ["@one"] = { ["$AccountWide"] = { ["characters"] = { ["444"] = { ["curseState"] = "no-curse" } } } },`
+    )
+  )
+  expect(held[0]?.curseState).toBeUndefined()
 })
 
 test("a character with no name reads as having none rather than refusing", () => {

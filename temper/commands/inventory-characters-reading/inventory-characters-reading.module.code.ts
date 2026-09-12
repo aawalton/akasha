@@ -5,6 +5,8 @@ import { savedVariablesRootSchema } from "akasha/temper/saved-variables/account-
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
 import { z } from "zod"
 
+export type CharacterCurseState = "vampire" | "werewolf"
+
 export interface CharacterKnowledge {
   readonly id: string
   readonly name: string | null
@@ -12,6 +14,8 @@ export interface CharacterKnowledge {
   readonly motifChaptersByStyle: ReadonlyMap<number, ReadonlySet<number>>
   readonly motifKnowledgeByStyle: ReadonlyMap<number, ReadonlySet<number>>
   readonly unlockedScriptIds: ReadonlySet<number>
+  readonly skillLineRanksByEsoLineId: ReadonlyMap<number, number>
+  readonly curseState: CharacterCurseState | undefined
 }
 
 const FILE_NAME = "TemperCharacters.lua"
@@ -41,6 +45,12 @@ const SCRIBING_SCHEMA = z
 
 const MOTIF_KNOWLEDGE_SCHEMA = z.record(z.string(), NUMBER_LIST_OR_RECORD_SCHEMA).optional()
 
+const SKILL_LINE_PROGRESS_ENTRY_SCHEMA = z
+  .object({ currentRank: z.number().optional() })
+  .passthrough()
+
+const SKILL_LINE_PROGRESS_SCHEMA = z.record(z.string(), SKILL_LINE_PROGRESS_ENTRY_SCHEMA).optional()
+
 const CHARACTER_RECORD_SCHEMA = z
   .object({
     name: z.string().optional(),
@@ -48,6 +58,8 @@ const CHARACTER_RECORD_SCHEMA = z
     loreLibrary: LORE_LIBRARY_SCHEMA,
     motifKnowledge: MOTIF_KNOWLEDGE_SCHEMA,
     scribing: SCRIBING_SCHEMA,
+    skillLineProgress: SKILL_LINE_PROGRESS_SCHEMA,
+    curseState: z.string().optional(),
   })
   .passthrough()
 
@@ -165,6 +177,23 @@ function collectUnlockedScriptIds(scribing: z.infer<typeof SCRIBING_SCHEMA>): Re
   return ids
 }
 
+function collectSkillLineRanks(
+  progress: z.infer<typeof SKILL_LINE_PROGRESS_SCHEMA>
+): ReadonlyMap<number, number> {
+  const out = new Map<number, number>()
+  if (!progress) return out
+  for (const [lineKey, entry] of Object.entries(progress)) {
+    const esoSkillLineId = Number(lineKey)
+    if (!Number.isInteger(esoSkillLineId)) continue
+    out.set(esoSkillLineId, entry.currentRank ?? 0)
+  }
+  return out
+}
+
+function readCurseState(held: string | undefined): CharacterCurseState | undefined {
+  return held === "vampire" || held === "werewolf" ? held : undefined
+}
+
 export function parseTemperCharacters(content: string): ReadonlyArray<CharacterKnowledge> {
   const rawRoot = parseLuaSavedVariablesFile(content, VARIABLES_NAME)
   const root = ROOT_SCHEMA.parse(rawRoot)
@@ -203,6 +232,8 @@ export function parseTemperCharacters(content: string): ReadonlyArray<CharacterK
       motifChaptersByStyle: collectMotifChaptersByStyle(record.loreLibrary),
       motifKnowledgeByStyle: collectMotifKnowledgeByStyle(record.motifKnowledge),
       unlockedScriptIds: collectUnlockedScriptIds(record.scribing),
+      skillLineRanksByEsoLineId: collectSkillLineRanks(record.skillLineProgress),
+      curseState: readCurseState(record.curseState),
     })
   }
   return result

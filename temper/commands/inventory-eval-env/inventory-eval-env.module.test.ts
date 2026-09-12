@@ -15,6 +15,8 @@ function knowing(over: Partial<CharacterKnowledge>): CharacterKnowledge {
     motifChaptersByStyle: new Map(),
     motifKnowledgeByStyle: new Map(),
     unlockedScriptIds: new Set<number>(),
+    skillLineRanksByEsoLineId: new Map<number, number>(),
+    curseState: undefined,
     ...over,
   }
 }

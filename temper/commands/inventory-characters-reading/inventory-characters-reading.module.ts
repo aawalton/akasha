@@ -30,6 +30,19 @@ export const inventoryCharactersReading = {
         "A scribing script counts as known only where the saved variables say that script is unlocked.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A skill line the saved variables hold with no current rank reads as being at rank zero.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A skill line the saved variables never name is absent rather than at rank zero.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A curse state that is neither vampire nor werewolf reads as no curse at all.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here talks to the game.",
     },
