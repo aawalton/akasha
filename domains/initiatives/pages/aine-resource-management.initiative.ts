@@ -8,11 +8,6 @@ export const aineResourceManagement = {
   persona: "aine",
   intents: [
     {
-      statement: "The work a seat starts is weighed as part of that seat rather than beside it.",
-      workingMemory:
-        "A run given a processor ceiling gets a group under the nearest ancestor where processor time is delegated. A seat's scope is a leaf and delegates nothing, so the group lands in seats.slice beside every seat at the same weight, and a seat with three bounded runs pulls four shares where a quiet seat pulls one. Delegating processor time below a seat's scope is what would let the group be made inside it.\n",
-    },
-    {
       statement: "A seat is bounded by its share rather than by a ceiling.",
       workingMemory:
         "seat-launching states CPUQuota=800%, it reaches one seat of seventeen, and nothing on the host has ever been throttled. A ceiling holds even where every other core is idle, so on a 24 processor machine that is usually not full it can only make Alan wait longer for a seat he is waiting on. A share is free while the machine is quiet and divides fairly while it is busy, which is the whole job.\n",
