@@ -42,6 +42,10 @@ export const seatTerminalEnter = {
       statement: "The editor is handed in rather than imported.",
     },
     {
+      invariantKind: "departure",
+      statement: "The command asked is named by reading the slug off that command's own page.",
+    },
+    {
       invariantKind: "absence",
       statement: "No key other than the submit key is read here.",
     },

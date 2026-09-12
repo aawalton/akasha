@@ -3,15 +3,17 @@ import {
   callHarness,
   LANDING_TIMEOUT_MS,
 } from "akasha/code/editor/extension/harness-call/harness-call.module.code.ts"
+import { seatMessaged } from "akasha/commands/pages/seat/messaged/seat-messaged.command.ts"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import type * as vscode from "vscode"
 
 export const FOCUS_KEY = "opsAgentTree.seatTerminalFocused"
 
 export const ENTER_COMMAND = "opsAgentTree.enterInSeatTerminal"
 
-const MESSAGED_SLUG = "seat-messaged"
+const MESSAGED_SLUG = seatMessaged.slug
 
-const MESSAGED_EXPORT = "seatMessaged"
+const MESSAGED_EXPORT = exportedAs(MESSAGED_SLUG)
 
 const SUBMIT = "\r"
 
