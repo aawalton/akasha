@@ -43,7 +43,7 @@ export const athenaCommandArguments = {
     {
       statement: "One spelling names one argument, and one argument has one spelling.",
       workingMemory:
-        "Every alias a command page declared is gone — `--tail`, `--top`, `--all`, `--attachment` — and `--out` became `--output` on five commands. Left: `--last` is a count at `measure-changes.command.ts:13` and true-or-false at `track-session-drop.command.ts:15`; `--to` names a recipient, a list position and a window end; `--target` names two. Seven inference commands still carry an undeclared `--out` through the blessed `aliases` field. Which meaning keeps `--last`?\n",
+        "Every alias a command page declared is gone — sixteen landings, `7f192eb50ad` through `99d2e372171`, ending `--out`, `--in`, `-r`, `--aspect`, `--ref`, `--prompt` and `--output` across nine inference commands. `-r` was the only short form any command declared. Left: `--last` is a count at `measure-changes.command.ts:13` and true-or-false at `track-session-drop.command.ts:15`; `--to` names a recipient, a list position and a window end; `--target` names two. Which meaning keeps `--last`?",
     },
   ],
 } as const satisfies Initiative
