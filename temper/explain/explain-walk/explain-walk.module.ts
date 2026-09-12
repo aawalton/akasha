@@ -18,7 +18,20 @@ export const explainWalk = {
     },
     {
       invariantKind: "departure",
-      statement: "A field with nothing is written as the empty string.",
+      statement: "A field the walk names but carries nothing for is written as the empty string.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The junk the game holds and the junk the game would allow are both written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A junk field the capture never recorded is written `not captured`.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An item resolved to sell that the game will not let be marked junk is named at the foot.",
     },
     {
       invariantKind: "departure",

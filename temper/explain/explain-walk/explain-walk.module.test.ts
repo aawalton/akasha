@@ -27,6 +27,8 @@ function output(over: Partial<JsonOutput> = {}): JsonOutput {
     itemLink: "|H1:item:42|h|h",
     categoryNodeIds: ["weapon", "weapon/axe"],
     itemKey: "42:0",
+    junk: false,
+    junkable: true,
     ttc: null,
     perRule: [],
     outcome: {
@@ -198,6 +200,60 @@ test("nothing is named at the foot where every outcome is settled", () => {
   const text = formatExplainWalk(output({ perRule: [row()] }))
 
   expect(text).not.toContain("# indeterminate rules")
+})
+
+test("the junk the game holds and the junk the game would allow are both written", () => {
+  const text = formatExplainWalk(output({ junk: true, junkable: false }))
+
+  expect(lineFor(text, "junk")).toBe("junk\ttrue")
+  expect(lineFor(text, "junkable")).toBe("junkable\tfalse")
+})
+
+test("a junk field the capture never recorded is written as not captured", () => {
+  const text = formatExplainWalk(output({ junk: null, junkable: null }))
+
+  expect(lineFor(text, "junk")).toBe("junk\tnot captured")
+  expect(lineFor(text, "junkable")).toBe("junkable\tnot captured")
+})
+
+test("an item resolved to sell that the game will not mark junk is named at the foot", () => {
+  const text = formatExplainWalk(
+    output({
+      junkable: false,
+      outcome: {
+        kind: "matched",
+        action: "sell",
+        destination: null,
+        label: "Sell",
+        indeterminateRules: [],
+      },
+    })
+  )
+
+  expect(text).toContain("the game will not let it be marked junk")
+})
+
+test("nothing is named at the foot where the game would mark the item junk", () => {
+  const text = formatExplainWalk(
+    output({
+      junkable: true,
+      outcome: {
+        kind: "matched",
+        action: "sell",
+        destination: null,
+        label: "Sell",
+        indeterminateRules: [],
+      },
+    })
+  )
+
+  expect(text).not.toContain("the game will not let it be marked junk")
+})
+
+test("nothing is named at the foot where the rules resolve the item to something else", () => {
+  const text = formatExplainWalk(output({ junkable: false }))
+
+  expect(text).not.toContain("the game will not let it be marked junk")
 })
 
 test("the walk ends in a newline", () => {

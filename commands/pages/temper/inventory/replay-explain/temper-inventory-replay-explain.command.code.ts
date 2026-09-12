@@ -103,6 +103,8 @@ export function outputOf(trace: ExplainTrace): JsonOutput {
     itemLink: trace.itemLink,
     categoryNodeIds: trace.classification.ancestorChain,
     itemKey: itemKeySaid(trace.itemKey),
+    junk: null,
+    junkable: null,
     ttc: null,
     perRule,
     outcome: {

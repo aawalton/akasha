@@ -24,6 +24,10 @@ export const temperInventoryExplain = {
       invariantKind: "departure",
       statement: "An item no scan has refuses the call.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The junk state the scan captured is carried into the account of the item.",
+    },
   ],
   name: "explain",
   arguments: [

@@ -200,6 +200,8 @@ async function walkedFor(
     itemLink: item.itemLink,
     categoryNodeIds: facts.categoryNodeIds ?? null,
     itemKey: itemKeySaid(facts),
+    junk: item.junk ?? null,
+    junkable: item.junkable ?? null,
     ttc: ttcOf(item),
     perRule: trace.perRule.map(rowOf),
     outcome: outcomeOf(trace.outcome),

@@ -24,6 +24,10 @@ export const temperInventoryReplayExplain = {
       invariantKind: "absence",
       statement: "Nothing here evaluates a rule.",
     },
+    {
+      invariantKind: "gap",
+      statement: "A stored trace carries the junk state the game answered.",
+    },
   ],
   name: "replay-explain",
   arguments: [{ argument: "argument/inventory-path" }, { argument: "argument/itemlink" }],

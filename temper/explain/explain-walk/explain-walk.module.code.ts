@@ -33,9 +33,19 @@ export interface JsonOutput {
   readonly itemLink: string | null
   readonly categoryNodeIds: ReadonlyArray<string> | null
   readonly itemKey: string | null
+  readonly junk: boolean | null
+  readonly junkable: boolean | null
   readonly ttc: TtcBreakdown | null
   readonly perRule: ReadonlyArray<RuleTraceRow>
   readonly outcome: OutcomeJson
+}
+
+const NOT_CAPTURED = "not captured"
+
+const SELL = "sell"
+
+function junkSaid(held: boolean | null): string {
+  return held === null ? NOT_CAPTURED : String(held)
 }
 
 function deriveStr(amountCount: number | null, saleAmountCount: number | null): number | undefined {
@@ -56,6 +66,8 @@ export function formatExplainWalk(out: JsonOutput): string {
     `itemLink\t${out.itemLink ?? ""}`,
     `itemKey\t${out.itemKey ?? ""}`,
     `categoryNodeIds\t${out.categoryNodeIds === null ? "" : out.categoryNodeIds.join(",")}`,
+    `junk\t${junkSaid(out.junk)}`,
+    `junkable\t${junkSaid(out.junkable)}`,
   ]
   if (out.ttc !== null) {
     const t = out.ttc
@@ -101,6 +113,13 @@ export function formatExplainWalk(out: JsonOutput): string {
   lines.push(`outcomeAction\t${out.outcome.action ?? ""}`)
   lines.push(`outcomeDestination\t${out.outcome.destination ?? ""}`)
   lines.push(`outcomeLabel\t${out.outcome.label ?? ""}`)
+  if (out.outcome.action === SELL && out.junkable === false) {
+    lines.push("")
+    lines.push(
+      "# the rules resolve this item to sell and the game will not let it be marked junk, " +
+        "so its junk flag will never carry that sell"
+    )
+  }
   if (out.outcome.indeterminateRules.length > 0) {
     lines.push("")
     lines.push("# indeterminate rules (the verdict could change with more state):")
