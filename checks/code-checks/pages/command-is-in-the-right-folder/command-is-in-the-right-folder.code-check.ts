@@ -5,7 +5,7 @@ export const commandIsInTheRightFolder = {
   type: "code-check",
   slug: "command-is-in-the-right-folder",
   definition:
-    "the check refusing a command or a namespace whose folder is not the one its parts name",
+    "the check refusing a command or a namespace misplaced or misnamed in the command tree",
   runsOnChange: true,
   runsOnDeploy: true,
   runsOnWorktree: false,
@@ -39,6 +39,28 @@ export const commandIsInTheRightFolder = {
     {
       invariantKind: "departure",
       statement: "A page whose slug opens with anything but its parent's slug is refused for that.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A command's slug is its path under `commands/pages` with a hyphen for each slash.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A level's own name is the folder that level sits in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A level of the command tree names itself with no name of a level above it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A command or a namespace is named among the parts of a namespace or of the `command` page type.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A namespace holds more than one command or namespace.",
     },
     {
       invariantKind: "absence",

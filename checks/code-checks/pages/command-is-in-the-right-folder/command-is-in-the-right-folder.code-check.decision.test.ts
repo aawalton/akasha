@@ -54,3 +54,23 @@ test("a page one folder too deep under the page above it is refused", () => {
 
   expect(said).toContain("commands/pages/git/push")
 })
+
+test("a name carrying the name of the folder above it is refused", () => {
+  const said = reasonIn("commands/pages/git/git-push/git-git-push.command.ts", "git-git-push", GIT)
+
+  expect(said).toContain("`git-push`")
+  expect(said).toContain("`git`")
+})
+
+test("a name carrying a word from a folder two levels above it is refused", () => {
+  const at = "commands/pages/google/calendar/event-google/google-calendar-event-google.command.ts"
+  const said = reasonIn(at, "google-calendar-event-google", CALENDAR)
+
+  expect(said).toContain("`google`")
+})
+
+test("a name sharing no word with any folder above it is let through", () => {
+  const at = "commands/pages/google/calendar/humming/google-calendar-humming.namespace.ts"
+
+  expect(reasonIn(at, "google-calendar-humming", CALENDAR)).toBe(null)
+})

@@ -36,13 +36,41 @@ function folderReason(at: string, wanted: string): string {
   )
 }
 
+function carriedReason(name: string, above: string, word: string): string {
+  return (
+    `the page names itself \`${name}\`, and \`${word}\` is already in \`${above}\` above it — a ` +
+    "level of the command tree names itself with no name of a level above it"
+  )
+}
+
+function namingReason(at: string): string {
+  return (
+    `the page naming this one among its parts is \`${at}\` — a command or a namespace is named ` +
+    "by a namespace or by the `command` page type"
+  )
+}
+
+function carriedIn(at: string): string | null {
+  if (!at.startsWith(`${PAGES_AT}/`)) return null
+  const levels = at.slice(PAGES_AT.length + 1).split("/")
+  const name = levels[levels.length - 1]
+  if (name === undefined) return null
+  const carried = new Set(name.split(HYPHEN))
+  for (const one of levels.slice(0, -1)) {
+    const said = one.split(HYPHEN).find((word) => carried.has(word))
+    if (said !== undefined) return carriedReason(name, one, said)
+  }
+  return null
+}
+
 export function reasonIn(path: string, slug: string, above: Above): string | null {
   const opening = above.slug
   if (opening !== null && !slug.startsWith(`${opening}${HYPHEN}`)) return slugReason(slug, opening)
   const tail = opening === null ? slug : slug.slice(`${opening}${HYPHEN}`.length)
   const wanted = `${above.folder}/${tail}`
   const at = dirname(path)
-  return at === wanted ? null : folderReason(at, wanted)
+  if (at !== wanted) return folderReason(at, wanted)
+  return carriedIn(at)
 }
 
 export function kindsFor(shadow: Shadow): ReadonlySet<string> {
@@ -61,6 +89,7 @@ export function judgingBy(shadow: Shadow): Judging {
     if (said.pageType === PAGE_TYPE && said.slug === COMMAND) {
       return reasonIn(path, slug, { folder: PAGES_AT, slug: null })
     }
+    if (said.pageType !== NAMESPACE) return namingReason(filed.path)
     return reasonIn(path, slug, { folder: dirname(filed.path), slug: said.slug })
   }
 }
