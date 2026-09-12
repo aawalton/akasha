@@ -7,6 +7,7 @@ import {
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import type { Running } from "akasha/commands/pages/deploy/simulator-installing/deploy-simulator-installing.module.code.ts"
 import {
   installedBy,
@@ -17,7 +18,7 @@ import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.cod
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
-const root = join(import.meta.dir, "..", "..", "..")
+const root = rootOf(import.meta.dir)
 
 const QUIET_ID = "01a05fd2-4c1e-7a3e-9b70-2c6a5d81f4e2"
 

@@ -1,11 +1,11 @@
-import { join } from "node:path"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import {
   type Asked,
   asking,
   type Query,
 } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 
-export const root = join(import.meta.dir, "..", "..", "..")
+export const root = rootOf(import.meta.dir)
 
 export function typesHeld(
   types: Readonly<Record<string, Record<string, unknown>>>

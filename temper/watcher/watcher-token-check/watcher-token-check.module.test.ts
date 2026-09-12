@@ -1,5 +1,5 @@
 import { beforeEach, describe, expect, mock, test } from "bun:test"
-import { join } from "node:path"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { asPage, type Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import { sha256Hex } from "akasha/utils/hashing/sha256-hex/sha256-hex.module.code.ts"
@@ -148,7 +148,7 @@ describe("validateWatcherToken grants access", () => {
 
 describe("the keys this module selects are keys the page type declares", () => {
   const declared = new Set(
-    shadowAt(join(import.meta.dir, "..", "..", ".."))
+    shadowAt(rootOf(import.meta.dir))
       .index.propertiesOf(TEMPER_WATCHER_ENROLMENT_SLUG)
       .map((one) => one.key)
   )

@@ -1,11 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { join } from "node:path"
 import { planFor } from "akasha/code/ios-apps/app-building/app-building.module.code.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
-const root = join(import.meta.dir, "..", "..", "..")
+const root = rootOf(import.meta.dir)
 
 const QUIET_ID = "01a05fd3-71b8-7c04-8a6e-3f19d4470b55"
 

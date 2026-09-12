@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { mkdtempSync, rmSync } from "node:fs"
-import { join } from "node:path"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import {
   bindsFor,
   boundAgain,
@@ -13,7 +13,7 @@ import {
 } from "akasha/pages/service/page-listening/page-listening.module.code.ts"
 import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 
-const ROOT = join(import.meta.dir, "..", "..", "..")
+const ROOT = rootOf(import.meta.dir)
 
 const NOWHERE = "this-name-is-nowhere.invalid"
 

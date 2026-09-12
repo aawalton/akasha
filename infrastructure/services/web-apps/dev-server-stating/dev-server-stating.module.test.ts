@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
-import { join } from "node:path"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import {
   appNamesIn,
   namingApps,
 } from "akasha/infrastructure/services/web-apps/dev-server-stating/dev-server-stating.module.code.ts"
 
-const root = join(import.meta.dir, "..", "..", "..", "..")
+const root = rootOf(import.meta.dir)
 
 const APP = "--app"
 
