@@ -1,8 +1,3 @@
-import { cookShowVanilla } from "akasha/temper/crafting-addon/craft-cooking/craft-cooking.module.code.ts"
-import {
-  cookSearchRecipe,
-  cookShowCategory,
-} from "akasha/temper/crafting-addon/craft-cooking-lists/craft-cooking-lists.module.code.ts"
 import { isItemStoredForTemperCrafting } from "akasha/temper/crafting-addon/craft-inventory/craft-inventory.module.code.ts"
 import {
   closeRecipeWindow,
@@ -63,6 +58,11 @@ import {
 } from "akasha/temper/crafting-addon/modules/craft-blueprint-furnisher/craft-blueprint-furnisher.module.code.ts"
 import type { CharacterData } from "akasha/temper/crafting-addon/modules/craft-char-init/craft-char-init.module.code.ts"
 import { drawCharacters } from "akasha/temper/crafting-addon/modules/craft-character-panel/craft-character-panel.module.code.ts"
+import { cookShowVanilla } from "akasha/temper/crafting-addon/modules/craft-cooking/craft-cooking.module.code.ts"
+import {
+  cookSearchRecipe,
+  cookShowCategory,
+} from "akasha/temper/crafting-addon/modules/craft-cooking-lists/craft-cooking-lists.module.code.ts"
 import { runeShowMode } from "akasha/temper/crafting-addon/rune-mode/rune-mode.module.code.ts"
 import { runeView } from "akasha/temper/crafting-addon/rune-panel/rune-panel.module.code.ts"
 

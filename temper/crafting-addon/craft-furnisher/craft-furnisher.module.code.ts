@@ -1,7 +1,7 @@
-import type { RecipeEntry } from "akasha/temper/crafting-addon/craft-cook/craft-cook.module.code.ts"
 import { FURNISHER_PLANS_EARLY } from "akasha/temper/crafting-addon/craft-furnisher-early/craft-furnisher-early.module.code.ts"
 import { FURNISHER_PLANS_LATE } from "akasha/temper/crafting-addon/craft-furnisher-late/craft-furnisher-late.module.code.ts"
 import { FURNISHER_PLANS_MIDDLE } from "akasha/temper/crafting-addon/craft-furnisher-middle/craft-furnisher-middle.module.code.ts"
+import type { RecipeEntry } from "akasha/temper/crafting-addon/modules/craft-cook/craft-cook.module.code.ts"
 
 export interface FurnisherTable {
   recipe: Record<number, RecipeEntry>

@@ -1,5 +1,3 @@
-import { cookShow } from "akasha/temper/crafting-addon/craft-cooking/craft-cooking.module.code.ts"
-import { cookShowCategory } from "akasha/temper/crafting-addon/craft-cooking-lists/craft-cooking-lists.module.code.ts"
 import { defined } from "akasha/temper/crafting-addon/craft-defined/craft-defined.module.code.ts"
 import { updateBag } from "akasha/temper/crafting-addon/craft-inventory/craft-inventory.module.code.ts"
 import { migrateJewelryIdSwap } from "akasha/temper/crafting-addon/craft-mig-jewelry-swap/craft-mig-jewelry-swap.module.code.ts"
@@ -47,6 +45,8 @@ import { hideControl } from "akasha/temper/crafting-addon/crafting-helpers/craft
 import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 import { blueprintLearned } from "akasha/temper/crafting-addon/modules/craft-blueprint-furnisher/craft-blueprint-furnisher.module.code.ts"
 import { characterInitialize } from "akasha/temper/crafting-addon/modules/craft-character-panel-init/craft-character-panel-init.module.code.ts"
+import { cookShow } from "akasha/temper/crafting-addon/modules/craft-cooking/craft-cooking.module.code.ts"
+import { cookShowCategory } from "akasha/temper/crafting-addon/modules/craft-cooking-lists/craft-cooking-lists.module.code.ts"
 import { runeShowMode } from "akasha/temper/crafting-addon/rune-mode/rune-mode.module.code.ts"
 import {
   runeHideVanillaUI,

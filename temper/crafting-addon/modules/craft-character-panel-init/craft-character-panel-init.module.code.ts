@@ -1,9 +1,9 @@
-import * as Characters from "akasha/temper/crafting-addon/craft-characters/craft-characters.module.code.ts"
 import * as Options from "akasha/temper/crafting-addon/craft-options/craft-options.module.code.ts"
 import type { CsTooltipOwner } from "akasha/temper/crafting-addon/craft-tooltips/craft-tooltips.module.code.ts"
 import * as Tooltips from "akasha/temper/crafting-addon/craft-tooltips/craft-tooltips.module.code.ts"
 import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 import * as CharacterPanel from "akasha/temper/crafting-addon/modules/craft-character-panel/craft-character-panel.module.code.ts"
+import * as Characters from "akasha/temper/crafting-addon/modules/craft-characters/craft-characters.module.code.ts"
 
 const trackingFlag = (tracking: Record<string, boolean>, char: string): boolean => {
   const current = tracking[char]
