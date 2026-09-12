@@ -49,6 +49,11 @@ export const read = {
     {
       invariantKind: "departure",
       statement:
+        "`--seat` is no argument a read takes, and saying it is refused with what it would mean.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A read of a body that is not UTF-8 text returns a description of the body instead of the body.",
     },
     {
