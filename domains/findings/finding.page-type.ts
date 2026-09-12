@@ -29,6 +29,10 @@ export const finding = {
       statement: "A finding whose claim is no longer true is done.",
     },
     {
+      invariantKind: "gap",
+      statement: "A finding whose evidence has gone false is mended rather than done.",
+    },
+    {
       invariantKind: "departure",
       statement: "A finding carried into a domain intent or an initiative intent is done.",
     },
