@@ -24,5 +24,10 @@ export const inferenceRunRecord = {
       invariantKind: "departure",
       statement: "A record has the command line that asked for the run.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "That command line is the call the command was handed rather than a name its code spells.",
+    },
   ],
 } as const satisfies Module
