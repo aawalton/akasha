@@ -37,6 +37,7 @@ export const syntaxRule = {
     "syntax-rule/no-non-null-assertion",
     "syntax-rule/no-run-outside-the-runner",
     "syntax-rule/no-scrub-bash-env-undoes",
+    "syntax-rule/no-second-exit-code",
     "syntax-rule/no-sops-on-dev-stdin",
     "syntax-rule/no-swallowed-read",
     "syntax-rule/no-void-return",
