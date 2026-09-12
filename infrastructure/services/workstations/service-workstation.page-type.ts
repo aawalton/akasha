@@ -15,6 +15,7 @@ export const serviceWorkstation = {
     "module/service-health",
     "module/service-installing",
     "module/service-reading",
+    "module/service-restarting",
     "module/service-watching",
     "module/service-wellness",
     "module/tick-sleeping",

@@ -1,10 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, readFileSync, realpathSync, symlinkSync, writeFileSync } from "node:fs"
+import { readFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { join } from "node:path"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
-  asked,
   changedAmong,
   type Drift,
   fieldsIn,
@@ -22,96 +20,35 @@ import {
   weighedIn,
 } from "akasha/commands/modules/unit-landing/unit-landing.module.code.ts"
 import {
+  homeWith,
+  keeping,
+  nothingWeighed,
+  oneDrift,
+  PAGE,
+  REACHES,
+  RELOADED,
+  rooted,
+  STARTED,
+  sweep,
+  TICKS,
+  TIMER,
+  taking,
+  UNIT,
+  WAS,
+  without,
+} from "akasha/commands/modules/unit-landing/unit-landing.module.test-fixtures.ts"
+import {
   type Ran,
   stagingDir,
-  systemdDir,
 } from "akasha/infrastructure/services/workstations/service-installing/service-installing.module.code.ts"
 import { everyService } from "akasha/infrastructure/services/workstations/service-reading/service-reading.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 
-const scratch = scratchWorld()
-
-afterAll(scratch.sweep)
-
-const UNIT = "held.service"
-
-const TIMER = "held.timer"
-
-const PAGE = "one/held.service-workstation.ts"
-
-const RELOADED = ["daemon-reload"]
-
-const STARTED = "try-restart"
-
-const REACHES = "one/held.module.code.ts"
+afterAll(sweep)
 
 const UNREACHED = "node:fs"
 
 const NO_COMMIT = "0000000000000000000000000000000000000000"
-
-const WAS = `${[
-  "# Written from one/held.service-workstation.ts by akasha deploy. Edits here are lost.",
-  "",
-  "[Unit]",
-  "Description=A thing",
-  "Documentation=file://one/held.service-workstation.ts",
-  "",
-  "[Service]",
-  "Type=simple",
-  "WorkingDirectory=%h/repos/akasha",
-  "Environment=PATH=/usr/bin",
-  "Environment=AKASHA_ROOT=%h/repos/akasha",
-  "ExecStart=/usr/bin/env bash -c 'exec bun one.ts'",
-  "Restart=always",
-  "",
-  "[Install]",
-  "WantedBy=default.target",
-].join("\n")}\n`
-
-const TICKS =
-  "[Timer]\nOnCalendar=hourly\nRandomizedDelaySec=300\nAccuracySec=60\nPersistent=true\n"
-
-function rooted(): string {
-  return realpathSync(scratch.rootFor("akasha-unit-landing-"))
-}
-
-function homeWith(units: Readonly<Record<string, string>>): string {
-  const home = rooted()
-  mkdirSync(stagingDir(home), { recursive: true })
-  mkdirSync(systemdDir(home), { recursive: true })
-  for (const [name, text] of Object.entries(units)) {
-    writeFileSync(join(stagingDir(home), name), text)
-    symlinkSync(join(stagingDir(home), name), join(systemdDir(home), name))
-  }
-  return home
-}
-
-function nothingWeighed(): Weighing {
-  return { drifts: [], standings: [], under: "", wrong: [] }
-}
-
-function oneDrift(unit: string, text: string, startsFor: readonly string[] = []): Weighing {
-  return { ...nothingWeighed(), drifts: [{ unit, page: PAGE, text, startsFor }] }
-}
-
-function taking(codes: Readonly<Record<string, number>> = {}): {
-  readonly calls: readonly (readonly string[])[]
-  readonly run: (args: readonly string[]) => Ran
-} {
-  const calls: (readonly string[])[] = []
-  return {
-    calls,
-    run: (args) => {
-      calls.push([...args])
-      const code = codes[args.join(" ")] ?? 0
-      return { code, out: code === 0 ? "" : "systemctl would not" }
-    },
-  }
-}
-
-function without(text: string, was: string, now: string): string {
-  return text.replace(was, now)
-}
 
 let weighedOnce: Weighing | null = null
 
@@ -130,7 +67,10 @@ test("a unit already as its page states it is written by nothing and asks system
   const home = homeWith({ [UNIT]: WAS })
   const { calls, run } = taking()
 
-  expect(landedOver(nothingWeighed(), home, run)).toEqual({ said: [], wrong: [] })
+  expect(landedOver(nothingWeighed(), home, run, new Map(), keeping())).toEqual({
+    said: [],
+    wrong: [],
+  })
   expect(calls).toEqual([])
   expect(readFileSync(join(stagingDir(home), UNIT), "utf8")).toBe(WAS)
 })
@@ -140,7 +80,7 @@ test("a unit whose text drifted is written and systemd is told to read it again"
   const now = without(WAS, "Description=A thing", "Description=Another thing")
   const { calls, run } = taking()
 
-  const said = landedOver(oneDrift(UNIT, now), home, run)
+  const said = landedOver(oneDrift(UNIT, now), home, run, new Map(), keeping())
 
   expect(said.wrong).toEqual([])
   expect(said.said).toEqual([
@@ -157,12 +97,13 @@ test("a changed ExecStart starts the service again and names the field that did 
   const startsFor = startsAgainFor(UNIT, WAS, now, true, false)
   const { calls, run } = taking()
 
-  const said = landedOver(oneDrift(UNIT, now, startsFor), home, run)
+  const said = landedOver(oneDrift(UNIT, now, startsFor), home, run, new Map(), keeping())
 
   expect(startsFor).toEqual(["ExecStart"])
   expect(said.wrong).toEqual([])
   expect(said.said.join("")).toContain(`started ${UNIT} again — \`ExecStart\` changed`)
-  expect(calls).toEqual([RELOADED, [STARTED, UNIT]])
+  expect(calls[0]).toEqual(RELOADED)
+  expect(calls).toContainEqual([STARTED, UNIT])
 })
 
 test("a changed Environment or WorkingDirectory starts the service again", () => {
@@ -237,7 +178,7 @@ test("systemd that cannot be reached is said as wrong and starts nothing again",
     throw new Error("Failed to connect to bus: No medium found")
   }
 
-  const said = landedOver(oneDrift(UNIT, now, ["ExecStart"]), home, run)
+  const said = landedOver(oneDrift(UNIT, now, ["ExecStart"]), home, run, new Map(), keeping())
 
   expect(said.said).toEqual([`wrote ${UNIT} as ${PAGE} states it`])
   expect(said.wrong.join("")).toContain("Failed to connect to bus")
@@ -252,11 +193,13 @@ test("a restart that refuses is said as wrong and the rest are still asked for",
     { unit: TIMER, page: PAGE, text: without(TICKS, "hourly", "daily"), startsFor: ["OnCalendar"] },
   ]
 
-  const said = landedOver({ ...nothingWeighed(), drifts }, home, run)
+  const said = landedOver({ ...nothingWeighed(), drifts }, home, run, new Map(), keeping())
 
   expect(said.wrong.join("")).toContain(`${UNIT} runs as it did`)
   expect(said.said.join("")).toContain(`armed ${TIMER} again — \`OnCalendar\` changed`)
-  expect(calls).toEqual([RELOADED, [STARTED, UNIT], [STARTED, TIMER]])
+  expect(calls[0]).toEqual(RELOADED)
+  expect(calls).toContainEqual([STARTED, UNIT])
+  expect(calls).toContainEqual([STARTED, TIMER])
 })
 
 test("a reload that refuses leaves the units written and starts nothing again", () => {
@@ -264,7 +207,7 @@ test("a reload that refuses leaves the units written and starts nothing again", 
   const now = without(WAS, "bun one.ts", "bun two.ts")
   const { calls, run } = taking({ "daemon-reload": 1 })
 
-  const said = landedOver(oneDrift(UNIT, now, ["ExecStart"]), home, run)
+  const said = landedOver(oneDrift(UNIT, now, ["ExecStart"]), home, run, new Map(), keeping())
 
   expect(said.wrong.join("")).toContain("what is loaded is what was loaded")
   expect(calls).toEqual([RELOADED])
@@ -275,11 +218,11 @@ test("a file a service reaches starts it again with no unit written and no reloa
   const home = homeWith({ [UNIT]: WAS })
   const { calls, run } = taking()
 
-  const said = landedOver(nothingWeighed(), home, run, new Map([[UNIT, REACHES]]))
+  const said = landedOver(nothingWeighed(), home, run, new Map([[UNIT, REACHES]]), keeping())
 
   expect(said.wrong).toEqual([])
   expect(said.said).toEqual([`started ${UNIT} again — the code it runs changed at \`${REACHES}\``])
-  expect(calls).toEqual([[STARTED, UNIT]])
+  expect(calls).toContainEqual([STARTED, UNIT])
 })
 
 test("a service a field and a file both started again is said to have both reasons", () => {
@@ -353,13 +296,15 @@ test("a tree git will not move is said as wrong rather than thrown", () => {
   expect(said.wrong.join("")).toContain("service-workstation")
 })
 
-test("a systemctl that throws is carried back as a code rather than thrown", () => {
-  const done = asked(() => {
-    throw new Error("held")
-  }, RELOADED)
+test("a start a service is owed is a cause of its own, doubling no cause the commit gave", () => {
+  const why = `the code it runs changed at \`${REACHES}\``
+  const owed = { [UNIT]: { commit: NO_COMMIT, why, since: "" } }
 
-  expect(done.code).not.toBe(0)
-  expect(done.out).toContain("held")
+  expect(startingIn([], new Map(), owed)).toEqual([{ unit: UNIT, why }])
+  expect(startingIn([], new Map([[UNIT, REACHES]]), owed)).toEqual([{ unit: UNIT, why }])
+  expect(
+    startingIn([{ unit: UNIT, page: PAGE, text: WAS, startsFor: ["ExecStart"] }], new Map(), owed)
+  ).toEqual([{ unit: UNIT, why: "`ExecStart` changed" }])
 })
 
 test("no unit of akasha's installed is nothing weighed and nothing asked of systemd", () => {

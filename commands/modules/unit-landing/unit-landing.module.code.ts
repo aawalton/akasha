@@ -12,7 +12,6 @@ import {
 } from "akasha/commands/pages/deploy/tree-pinning/deploy-tree-pinning.module.code.ts"
 import {
   ourInstalled,
-  type Ran,
   stagingDir,
   systemctl,
   textFor,
@@ -28,8 +27,17 @@ import {
   everyService,
   SERVICE_PAGE_TYPE,
 } from "akasha/infrastructure/services/workstations/service-reading/service-reading.module.code.ts"
+import {
+  asked,
+  type Keeping,
+  type Owed,
+  owedRead,
+  PUT_RIGHT,
+  type Running,
+  type Starting,
+  startedOver,
+} from "akasha/infrastructure/services/workstations/service-restarting/service-restarting.module.code.ts"
 import { isScheduled } from "akasha/infrastructure/services/workstations/unit-writing/unit-writing.module.code.ts"
-import { NO_CODE } from "akasha/utils/run/running/running.module.code.ts"
 import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
@@ -47,8 +55,6 @@ const A_UNIT = "unit"
 
 const RELOAD: readonly string[] = ["daemon-reload"]
 
-const RESTART = "try-restart"
-
 const AND = " and "
 
 const RUNS_UNDER: readonly string[] = ["ExecStart", "Environment", "WorkingDirectory"]
@@ -59,8 +65,6 @@ const ARMED_BY: readonly string[] = [
   "AccuracySec",
   "Persistent",
 ]
-
-const PUT_RIGHT = "`akasha deploy service-workstation` puts it right"
 
 export type Drift = {
   readonly unit: string
@@ -86,13 +90,6 @@ export type Reaching = {
   readonly starts: ReadonlyMap<string, string>
   readonly wrong: readonly string[]
 }
-
-export type Starting = {
-  readonly unit: string
-  readonly why: string
-}
-
-export type Running = (args: readonly string[]) => Ran
 
 const NOTHING_WEIGHED: Weighing = { drifts: [], standings: [], under: "", wrong: [] }
 
@@ -232,7 +229,8 @@ export function reachedFor(
 
 export function startingIn(
   written: readonly Drift[],
-  starts: ReadonlyMap<string, string>
+  starts: ReadonlyMap<string, string>,
+  owed: Owed = {}
 ): readonly Starting[] {
   const held = new Map<string, string[]>()
   for (const one of written) {
@@ -245,24 +243,21 @@ export function startingIn(
     if (found === undefined) held.set(unit, [why])
     else found.push(why)
   }
+  for (const [unit, one] of Object.entries(owed)) {
+    if (held.has(unit)) continue
+    held.set(unit, [one.why])
+  }
   return [...held]
     .map(([unit, why]) => ({ unit, why: why.join(AND) }))
     .sort((one, two) => (one.unit < two.unit ? -1 : one.unit > two.unit ? 1 : 0))
-}
-
-export function asked(run: Running, args: readonly string[]): Ran {
-  try {
-    return run(args)
-  } catch (thrown) {
-    return { code: NO_CODE, out: whyOf(thrown) }
-  }
 }
 
 export function landedOver(
   weighed: Weighing,
   home: string,
   run: Running,
-  starts: ReadonlyMap<string, string> = new Map()
+  starts: ReadonlyMap<string, string>,
+  keeping: Keeping
 ): Linking {
   const said: string[] = []
   const wrong: string[] = [...weighed.wrong]
@@ -276,7 +271,7 @@ export function landedOver(
       wrong.push(`${one.unit} drifted from ${one.page} and was not written — ${whyOf(thrown)}`)
     }
   }
-  const starting = startingIn(written, starts)
+  const starting = startingIn(written, starts, keeping.owed)
   if (written.length > 0) {
     const many = counted(written.length, A_UNIT)
     const reload = asked(run, RELOAD)
@@ -288,15 +283,8 @@ export function landedOver(
     }
     said.push(`told systemd to read ${many} again`)
   }
-  for (const one of starting) {
-    const done = asked(run, [RESTART, one.unit])
-    if (done.code !== 0) {
-      wrong.push(`${one.unit} runs as it did, and ${one.why} — ${done.out}; ${PUT_RIGHT}`)
-      continue
-    }
-    said.push(`${one.unit.endsWith(A_TIMER) ? "armed" : "started"} ${one.unit} again — ${one.why}`)
-  }
-  return { said, wrong }
+  const done = startedOver(run, starting, home, keeping)
+  return { said: [...said, ...done.said], wrong: [...wrong, ...done.wrong] }
 }
 
 export function unitsLanded(
@@ -304,7 +292,8 @@ export function unitsLanded(
   home: string,
   commit: string | null = null,
   changed: readonly string[] = [],
-  run: Running = systemctl
+  run: Running = systemctl,
+  now: number = Date.now()
 ): Linking {
   const tree = treeLanded(root, commit)
   try {
@@ -315,7 +304,8 @@ export function unitsLanded(
       : null
     const reached =
       commit === null || stale ? NOTHING_REACHED : reachedFor(root, weighed.standings, changed)
-    const done = landedOver(stale ? stilled(weighed) : weighed, home, run, reached.starts)
+    const keeping: Keeping = { owed: stale ? {} : owedRead(home), commit: commit ?? "", now }
+    const done = landedOver(stale ? stilled(weighed) : weighed, home, run, reached.starts, keeping)
     return {
       said: [...tree.said, ...done.said],
       wrong: [...tree.wrong, ...(held === null ? [] : [held]), ...reached.wrong, ...done.wrong],

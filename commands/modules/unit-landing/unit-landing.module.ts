@@ -5,9 +5,10 @@ export const unitLanding = {
   type: "module",
   slug: "unit-landing",
   definition:
-    "the workstation units kept as their pages state them, started again only where behaviour changed",
+    "the workstation units kept as their pages state them, started again where behaviour changed",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -148,6 +149,26 @@ export const unitLanding = {
     {
       invariantKind: "departure",
       statement: "A reach that will not answer is said as wrong and starts nothing again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A service is started again no oftener than the 30 minutes a service keeps.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A start a landing held back is owed, and a later landing takes it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A start owed is a cause of its own, beside the field and the file that changed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tree that would not move leaves every start owed owed and takes none.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here rules on how long a service has been up.",
     },
     {
       invariantKind: "absence",
