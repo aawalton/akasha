@@ -17,8 +17,12 @@ const siblingManifestSchema = z.record(z.string(), z.string())
 
 const SAFE_FOLDER_NAME = /^[A-Za-z0-9][A-Za-z0-9._-]*$/
 
+export function safeFolderName(name: string): boolean {
+  return SAFE_FOLDER_NAME.test(name) && name !== "." && name !== ".."
+}
+
 export function assertSafeSiblingName(name: string): undefined {
-  if (!SAFE_FOLDER_NAME.test(name) || name === "." || name === "..") {
+  if (!safeFolderName(name)) {
     throw new Error(
       `siblingAddons: ${JSON.stringify(name)} is no usable addon folder name — a sibling name becomes a path that is removed and made again, so it has to be a bare folder name matching /^[A-Za-z0-9][A-Za-z0-9._-]*$/`
     )

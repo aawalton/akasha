@@ -14,6 +14,7 @@ import {
 import type { AddonManifest } from "akasha/temper/addons-resolve/addon-json/addon-json.module.code.ts"
 import { addonManifestSchema } from "akasha/temper/addons-resolve/addon-json/addon-json.module.code.ts"
 import { addonManifestPathIn } from "akasha/temper/addons-resolve/addon-manifest-file/addon-manifest-file.module.code.ts"
+import { safeFolderName } from "akasha/temper/addons-resolve/sibling-addons/sibling-addons.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
@@ -220,6 +221,11 @@ export function buildIdFor(cwd: string): string {
 }
 
 export function buildIdLua(addonName: string, sha: string): string {
+  if (!safeFolderName(addonName)) {
+    throw new Error(
+      `buildIdLua: ${JSON.stringify(addonName)} is no usable addon name — the name is written into Lua as a table key and becomes a dist folder, so it has to be a bare name matching /^[A-Za-z0-9][A-Za-z0-9._-]*$/`
+    )
+  }
   return `TemperBuildIds = TemperBuildIds or {}\nTemperBuildIds["${addonName}"] = "${sha}"\n`
 }
 

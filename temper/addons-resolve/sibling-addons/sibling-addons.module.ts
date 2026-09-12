@@ -30,6 +30,10 @@ export const siblingAddons = {
     },
     {
       invariantKind: "departure",
+      statement: "The safe folder pattern is answered on its own, for a caller naming no sibling.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An addon with no readable manifest ships no sibling.",
     },
     {

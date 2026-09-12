@@ -50,6 +50,11 @@ export const addonLoadOrder = {
       statement: "The build stamp is the first eight hex of the commit the addon folder is at.",
     },
     {
+      invariantKind: "constraint",
+      statement:
+        "An addon name that is no bare folder name refuses the call before Lua is written.",
+    },
+    {
       invariantKind: "departure",
       statement: "A stamp the environment names holds over the commit.",
     },

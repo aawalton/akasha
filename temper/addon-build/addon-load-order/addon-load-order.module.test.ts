@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { manifestLines } from "akasha/temper/addon-build/addon-load-order/addon-load-order.module.code.ts"
+import {
+  buildIdLua,
+  manifestLines,
+} from "akasha/temper/addon-build/addon-load-order/addon-load-order.module.code.ts"
 
 const NAME = "TemperProbe"
 
@@ -58,4 +61,16 @@ test("no file is listed twice", () => {
     bindingsXmlThere: true,
   })
   expect(said.length).toBe(new Set(said).size)
+})
+
+test("an addon name the Lua string would not hold refuses the call", () => {
+  expect(() => buildIdLua(`X"] = nil --`, "abc12345")).toThrow("no usable addon name")
+  expect(() => buildIdLua("", "abc12345")).toThrow()
+  expect(() => buildIdLua("../evil", "abc12345")).toThrow()
+})
+
+test("a bare addon name is written as the Lua table key", () => {
+  expect(buildIdLua("LibAddonMenu-2.0", "abc12345")).toContain(
+    `TemperBuildIds["LibAddonMenu-2.0"] = "abc12345"`
+  )
 })
