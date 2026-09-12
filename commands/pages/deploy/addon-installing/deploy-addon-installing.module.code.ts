@@ -22,14 +22,14 @@ function goingTo(): string {
 }
 
 export async function putUpAddon(
-  root: string,
+  codeAt: string,
   slug: string,
   pagePath: string,
   dryRun: boolean
 ): Promise<Answer> {
   const under = dirname(pagePath)
-  const dir = join(root, under)
-  const found = listAllAddons({ repoRoot: root }).find((one) => one.dir === dir)
+  const dir = join(codeAt, under)
+  const found = listAllAddons({ repoRoot: codeAt }).find((one) => one.dir === dir)
   if (found === undefined) {
     return refused(
       `\`${slug}\` has its page at ${pagePath}, and no addon manifest sits in ${under}, so nothing says what the game loads`,
@@ -40,7 +40,7 @@ export async function putUpAddon(
   if (dryRun) {
     return answering(
       [
-        `${slug} would be compiled from ${under} to ${bundlePathFor(root, name)}`,
+        `${slug} would be compiled from ${under} to ${bundlePathFor(codeAt, name)}`,
         `and placed as ${name} in ${goingTo()}`,
       ],
       [],
@@ -49,11 +49,11 @@ export async function putUpAddon(
   }
 
   const report: string[] = []
-  const compiled = await compiledAddon(root, dir, name)
+  const compiled = await compiledAddon(codeAt, dir, name)
   report.push(...compiled.lines)
   if (compiled.refusals.length > 0) return answering(report, compiled.refusals, FAILED)
 
-  const placed = placedAddon(root, dir, name)
+  const placed = placedAddon(codeAt, dir, name)
   report.push(...placed.lines)
   if (placed.refusals.length > 0) return answering(report, placed.refusals, FAILED)
   return answering(report, [], 0)

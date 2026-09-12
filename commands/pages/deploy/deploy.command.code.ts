@@ -75,6 +75,7 @@ export const PINNED: ReadonlySet<string> = new Set([
   CONTAINER_RECIPE,
   CLUSTER_SERVICE,
   WEB_APP,
+  ESO_ADDON,
 ])
 
 export interface RefNamed {
@@ -139,7 +140,7 @@ export async function putUp(
   if (read.kind === INFERENCE_SERVICE) {
     return await putUpInferenceService(given.root, slug, dryRun, at)
   }
-  if (read.kind === ESO_ADDON) return await putUpAddon(given.root, slug, read.pagePath, dryRun)
+  if (read.kind === ESO_ADDON) return await putUpAddon(at, slug, read.pagePath, dryRun)
   if (read.kind === CLUSTER_SERVICE) {
     const servable = servableNamed(given.root, slug)
     if ("refused" in servable) return refused(servable.refused, DATA)
