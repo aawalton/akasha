@@ -14,10 +14,26 @@ export const measureComplexityHalstead = {
     { said: "--top <n>", takes: "how many rows are in the answer, worst first" },
     { said: "--json", takes: "the rows as one line of JSON rather than as tab-separated columns" },
   ],
-  helpNotes: [
-    "halstead counts the distinct and the total operators and operands of a function, and volume, difficulty, effort, time and bugs follow from those four.",
-    "type annotations and comments sit outside the halstead counts.",
-    "a row is one function, worst first, and worst is the highest volume.",
-    "an answer is figures rather than violations, so nothing here refuses a body for being complex.",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "Halstead counts a function's distinct and total operators and operands.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Volume, difficulty, effort, time and bugs follow from those four counts.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A type annotation and a comment are outside the counts.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row is one function, and the rows are ordered by volume, highest first.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here refuses a body for being complex.",
+    },
   ],
 } as const satisfies Command
