@@ -3,13 +3,13 @@ import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-cha
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { initiative } from "akasha/commands/arguments/pages/initiative.argument.ts"
 import {
+  answering,
   DATA,
-  OPERATIONAL,
+  keeping,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { initiativeDelete as page } from "akasha/commands/pages/initiative/delete/initiative-delete.command.ts"
 import { initiativesDrawn } from "akasha/domains/modules/work-initiatives/work-initiatives.module.code.ts"
@@ -66,6 +66,7 @@ function namingIn(root: string, path: string): readonly Named[] {
 }
 
 async function away(
+  done: string[],
   root: string,
   at: string,
   slug: string,
@@ -77,22 +78,31 @@ async function away(
     [{ at: CARRIES, given: { at } }],
     messageFor(slug),
     given.agentId,
-    { writer: given.writer }
+    { writer: given.writer, done }
   )
-  if ("refusals" in landed) return refusedBy([...landed.refusals], DATA)
+  if ("refusals" in landed) return keeping(done, refusedBy([...landed.refusals], DATA))
   return told([...saidFor(slug, naming, landed.commit)])
+}
+
+export type Taking = (done: string[], named: string, given: Given) => Promise<Answer>
+
+async function takenAway(done: string[], named: string, given: Given): Promise<Answer> {
+  const root = resolve(given.root)
+  const one = initiativesDrawn(root).find((each) => each.slug === named)
+  if (one === undefined) return mistaking([noInitiative(named)])
+  return await away(done, root, one.path, named, namingIn(root, one.path), given)
+}
+
+export async function takenAwayBy(
+  named: string,
+  given: Given,
+  taking: Taking = takenAway
+): Promise<Answer> {
+  return await answering(async (done) => await taking(done, named, given))
 }
 
 export async function initiativeDelete(argv: readonly string[], given: Given): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [initiative])
   if ("refused" in read) return mistaking([...read.refused])
-  try {
-    const root = resolve(given.root)
-    const named = read.taken.initiative
-    const one = initiativesDrawn(root).find((each) => each.slug === named)
-    if (one === undefined) return mistaking([noInitiative(named)])
-    return await away(root, one.path, named, namingIn(root, one.path), given)
-  } catch (thrown) {
-    return refusedBy([whyOf(thrown)], OPERATIONAL)
-  }
+  return await takenAwayBy(read.taken.initiative, given)
 }

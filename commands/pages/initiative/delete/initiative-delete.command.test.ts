@@ -1,4 +1,6 @@
 import { expect, test } from "bun:test"
+import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   initiativeDelete,
@@ -7,6 +9,7 @@ import {
   namingOver,
   noInitiative,
   saidFor,
+  takenAwayBy,
 } from "akasha/commands/pages/initiative/delete/initiative-delete.command.code.ts"
 
 const SEAT = { path: "seat-system/seats/pages/hum/hum.seat.ts", propertySlug: "assignment-slug" }
@@ -79,4 +82,35 @@ test("a run nothing else names says the initiative went and nothing of the index
 
 test("a run landing no commit says what went alone", () => {
   expect(saidFor("held", [], null)).toEqual(["held is gone"])
+})
+
+const RAN_OVER = new Error("the page could not be taken away")
+
+test("a run that landed the page going and then threw says that commit", async () => {
+  const said = await takenAwayBy("held", given("/nowhere"), throwingAfter(["abc123"], RAN_OVER))
+
+  expect(said.report).toEqual(["abc123"])
+  expect(said.refusals.at(-1)).toBe(
+    "this stopped part way. What it had done by then is this: abc123. Nothing after that ran."
+  )
+  expect(said.code).toBe(OPERATIONAL)
+})
+
+test("a run throwing with nothing taken away says only why it threw", async () => {
+  const said = await takenAwayBy("held", given("/nowhere"), throwingAfter([], RAN_OVER))
+
+  expect(said.report).toEqual([])
+  expect(said.refusals[0]).toContain("the page could not be taken away")
+  expect(said.refusals.some((one) => one.startsWith("this stopped part way"))).toBe(false)
+})
+
+test("a run that wrote twice names each write in the order it was written", async () => {
+  const wrote = ["the page at held.initiative.ts is gone", "abc123"]
+  const said = await takenAwayBy("held", given("/nowhere"), throwingAfter(wrote, RAN_OVER))
+
+  expect(said.report).toEqual(wrote)
+  expect(said.refusals.at(-1)).toBe(
+    "this stopped part way. What it had done by then is this: " +
+      "the page at held.initiative.ts is gone; abc123. Nothing after that ran."
+  )
 })

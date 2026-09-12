@@ -1,13 +1,13 @@
 import { resolve } from "node:path"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
+  answering,
   DATA,
-  OPERATIONAL,
+  keeping,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import {
   type InitiativeIntent,
@@ -88,7 +88,8 @@ export function statingIn(row: InitiativeRow, statement: string): readonly Initi
   return row.intents.filter((one) => one.statement === statement)
 }
 
-async function handed(
+async function overTo(
+  done: string[],
   root: string,
   from: InitiativeRow,
   to: InitiativeRow,
@@ -104,32 +105,42 @@ async function handed(
     ],
     messageFor(asked),
     given.agentId,
-    { writer: given.writer }
+    { writer: given.writer, done }
   )
-  if ("refusals" in landed) return refusedBy([...landed.refusals], DATA)
+  if ("refusals" in landed) return keeping(done, refusedBy([...landed.refusals], DATA))
   return told([...saidFor(asked, landed.commit)])
+}
+
+export type Handing = (done: string[], asked: Asked, given: Given) => Promise<Answer>
+
+async function handed(done: string[], asked: Asked, given: Given): Promise<Answer> {
+  const root = resolve(given.root)
+  const drawn = initiativesDrawn(root)
+  const from = drawn.find((each) => each.slug === asked.from)
+  const to = drawn.find((each) => each.slug === asked.to)
+  const missing = [
+    ...(from === undefined ? [noInitiative(asked.from)] : []),
+    ...(to === undefined ? [noInitiative(asked.to)] : []),
+  ]
+  if (from === undefined || to === undefined) return mistaking(missing)
+  const found = statingIn(from, asked.statement)
+  const one = found[0]
+  if (one === undefined) return mistaking([noIntent(asked)])
+  if (found.length > 1) return mistaking([manyIntents(asked, found.length)])
+  if (statingIn(to, asked.statement).length > 0) return mistaking([heldAlready(asked)])
+  return await overTo(done, root, from, to, one, asked, given)
+}
+
+export async function handedBy(
+  asked: Asked,
+  given: Given,
+  handing: Handing = handed
+): Promise<Answer> {
+  return await answering(async (done) => await handing(done, asked, given))
 }
 
 export async function initiativeHandIntent(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) return mistaking([...read.refused])
-  try {
-    const root = resolve(given.root)
-    const drawn = initiativesDrawn(root)
-    const from = drawn.find((each) => each.slug === read.from)
-    const to = drawn.find((each) => each.slug === read.to)
-    const missing = [
-      ...(from === undefined ? [noInitiative(read.from)] : []),
-      ...(to === undefined ? [noInitiative(read.to)] : []),
-    ]
-    if (from === undefined || to === undefined) return mistaking(missing)
-    const found = statingIn(from, read.statement)
-    const one = found[0]
-    if (one === undefined) return mistaking([noIntent(read)])
-    if (found.length > 1) return mistaking([manyIntents(read, found.length)])
-    if (statingIn(to, read.statement).length > 0) return mistaking([heldAlready(read)])
-    return await handed(root, from, to, one, read, given)
-  } catch (thrown) {
-    return refusedBy([whyOf(thrown)], OPERATIONAL)
-  }
+  return await handedBy(read, given)
 }

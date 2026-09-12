@@ -83,6 +83,14 @@ export const initiativeHandIntent = {
       invariantKind: "absence",
       statement: "No check runs over the change a run lands.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A run that wrote before it threw says in its refusal what that run had written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A fault carries the code that fault names and says where it was thrown.",
+    },
   ],
   name: "hand-intent",
   arguments: [

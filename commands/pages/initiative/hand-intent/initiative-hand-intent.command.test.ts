@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
+import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
+  handedBy,
   heldAlready,
   manyIntents,
   messageFor,
@@ -106,4 +110,43 @@ test("a run landing no commit says what moved alone", () => {
   expect(saidFor(ASKED, null)).toEqual([
     "two states the intent `A thing is so.`, and one no longer does",
   ])
+})
+
+const GIVEN: Given = {
+  root: "/nowhere",
+  calledAs: "akasha initiative hand-intent",
+  from: "/nowhere",
+  writer: null,
+  agentId: null,
+}
+
+const FELL = new Error("the change runner fell over")
+
+test("a run that landed the commit and then threw says that commit in its refusal", async () => {
+  const said = await handedBy(ASKED, GIVEN, throwingAfter(["abc123"], FELL))
+
+  expect(said.report).toEqual(["abc123"])
+  expect(said.refusals.at(-1)).toBe(
+    "this stopped part way. What it had done by then is this: abc123. Nothing after that ran."
+  )
+  expect(said.code).toBe(OPERATIONAL)
+})
+
+test("a run that threw before it wrote says the fault alone", async () => {
+  const said = await handedBy(ASKED, GIVEN, throwingAfter([], FELL))
+
+  expect(said.report).toEqual([])
+  expect(said.refusals[0]).toContain("the change runner fell over")
+  expect(said.refusals.some((one) => one.startsWith("this stopped part way"))).toBe(false)
+})
+
+test("a run that wrote both pages names each of them in the order they were written", async () => {
+  const wrote = ["the intent was put onto two", "the intent was taken out of one"]
+  const said = await handedBy(ASKED, GIVEN, throwingAfter(wrote, FELL))
+
+  expect(said.report).toEqual(wrote)
+  expect(said.refusals.at(-1)).toBe(
+    "this stopped part way. What it had done by then is this: " +
+      "the intent was put onto two; the intent was taken out of one. Nothing after that ran."
+  )
 })
