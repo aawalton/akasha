@@ -7,7 +7,6 @@ import type { Phase } from "akasha/checks/modules/checking/checking.module.code.
 import {
   answeredWith,
   OK,
-  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { applyWith } from "akasha/commands/modules/apply-running/apply-running.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -244,9 +243,6 @@ export async function wrote(
 export const THREE_AT = "akasha/three.ts"
 
 export const holds = (root: string, path: string): boolean => existsSync(join(root, path))
-
-export const applying = async (root: string): Promise<Answer> =>
-  await applied(root, told([]), ["--message", "held"])
 
 export function seeded(root: string): boolean {
   const held = [
