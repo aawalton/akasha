@@ -9,10 +9,12 @@ import {
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import type { Args } from "akasha/seat-system/seat-args/seat-args.module.code.ts"
 import { onCallOf } from "akasha/seat-system/seat-on-call/seat-on-call.module.code.ts"
+import { nameFromHistory } from "akasha/seat-system/seat-page-history/seat-page-history.module.code.ts"
 import { seatNameForAgent } from "akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
 import { defaultSlots } from "akasha/seat-system/seat-resolve/seat-resolve.module.code.ts"
 import { run } from "akasha/seat-system/seat-running/seat-running.module.code.ts"
 import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
+import { keepSeatPage } from "akasha/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 
 export type SeatMode = "interactive" | "headless"
 
@@ -71,4 +73,12 @@ export async function stateSeatDefaults(opts: {
       err
     )
   }
+  await takeUpPageInHistory(opts.agentId)
+}
+
+export async function takeUpPageInHistory(agentId: string): Promise<void> {
+  if (seatNameForAgent(agentId) !== null) return
+  const held = nameFromHistory(agentId, resolveRoots())
+  if (held === null) return
+  await keepSeatPage(agentId, held)
 }

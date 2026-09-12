@@ -29,6 +29,11 @@ export const supervisorSeatDefaults = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A boot whose seat akasha still holds no page for waits for the page history gives back.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A stating that failed is said rather than swallowed.",
     },
     {
