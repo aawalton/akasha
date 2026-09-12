@@ -44,8 +44,12 @@ export const emailDraftCreate = {
   name: "create",
   arguments: [
     { argument: "argument/to-address", required: true, repeats: true },
-    { argument: "argument/subject-file", notWith: ["argument/subject"] },
-    { argument: "argument/body-file", notWith: ["argument/body"] },
+    {
+      argument: "argument/subject-file",
+      notWith: ["argument/subject"],
+      oneOf: ["argument/subject"],
+    },
+    { argument: "argument/body-file", notWith: ["argument/body"], oneOf: ["argument/body"] },
     { argument: "argument/subject" },
     { argument: "argument/body" },
     { argument: "argument/thread" },
