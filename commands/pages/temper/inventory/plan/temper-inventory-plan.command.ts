@@ -8,10 +8,6 @@ export const temperInventoryPlan = {
   code: "ts",
   taking: [
     {
-      said: "--characters-path <path>",
-      takes: "the saved-variables file the characters are read from",
-    },
-    {
       said: "--checklist",
       takes: "give the login and venue-stop checklist rather than the plan the addon shows",
     },
@@ -43,5 +39,9 @@ export const temperInventoryPlan = {
     },
   ],
   name: "plan",
-  arguments: [{ argument: "argument/json" }, { argument: "argument/inventory-path" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/inventory-path" },
+    { argument: "argument/characters-path" },
+  ],
 } as const satisfies Command

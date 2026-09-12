@@ -9,10 +9,6 @@ export const temperInventoryParity = {
   taking: [
     { said: "<item-id>", takes: "the item whose stored trace is compared" },
     { said: "--char <id>", takes: "the character the stored trace was captured from" },
-    {
-      said: "--characters-path <path>",
-      takes: "the saved-variables file the characters are read from",
-    },
   ],
 
   invariants: [
@@ -30,5 +26,5 @@ export const temperInventoryParity = {
     },
   ],
   name: "parity",
-  arguments: [{ argument: "argument/inventory-path" }],
+  arguments: [{ argument: "argument/inventory-path" }, { argument: "argument/characters-path" }],
 } as const satisfies Command

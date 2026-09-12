@@ -6,12 +6,7 @@ export const temperInventoryCapacityAudit = {
   slug: "temper-inventory-capacity-audit",
   definition: "the command naming the destinations whose storage the rules would overflow",
   code: "ts",
-  taking: [
-    {
-      said: "--characters-path <path>",
-      takes: "the saved-variables file the characters are read from",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -32,5 +27,9 @@ export const temperInventoryCapacityAudit = {
     },
   ],
   name: "capacity-audit",
-  arguments: [{ argument: "argument/json" }, { argument: "argument/inventory-path" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/inventory-path" },
+    { argument: "argument/characters-path" },
+  ],
 } as const satisfies Command

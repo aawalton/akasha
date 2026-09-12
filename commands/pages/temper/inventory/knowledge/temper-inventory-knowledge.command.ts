@@ -12,10 +12,6 @@ export const temperInventoryKnowledge = {
       said: "--item-key <kind>:<args>",
       takes: "ask instead whether each character knows one recipe, motif or script",
     },
-    {
-      said: "--characters-path <path>",
-      takes: "the saved-variables file the characters are read from",
-    },
   ],
   invariants: [
     {
@@ -41,5 +37,5 @@ export const temperInventoryKnowledge = {
     },
   ],
   name: "knowledge",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/characters-path" }],
 } as const satisfies Command

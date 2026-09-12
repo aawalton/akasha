@@ -8,10 +8,6 @@ export const temperInventoryExplain = {
   code: "ts",
   taking: [
     { said: "<item>", takes: "the item traced, as a bare item id or as a game item link" },
-    {
-      said: "--characters-path <path>",
-      takes: "the saved-variables file the characters are read from",
-    },
     { said: "--char <id>", takes: "the character whose location the bag scan is scoped to" },
   ],
 
@@ -34,5 +30,9 @@ export const temperInventoryExplain = {
     },
   ],
   name: "explain",
-  arguments: [{ argument: "argument/json" }, { argument: "argument/inventory-path" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/inventory-path" },
+    { argument: "argument/characters-path" },
+  ],
 } as const satisfies Command
