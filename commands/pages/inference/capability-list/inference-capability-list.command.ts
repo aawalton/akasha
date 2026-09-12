@@ -6,6 +6,7 @@ export const inferenceCapabilityList = {
   slug: "inference-capability-list",
   definition: "the command naming the image pool services and the mflux batch tools beside them",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

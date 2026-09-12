@@ -6,6 +6,7 @@ export const inferenceActiveList = {
   slug: "inference-active-list",
   definition: "the command naming the pool services the traffic cop is holding resident",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

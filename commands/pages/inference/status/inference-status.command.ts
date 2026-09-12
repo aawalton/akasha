@@ -6,6 +6,7 @@ export const inferenceStatus = {
   slug: "inference-status",
   definition: "the command reading what managed inference services each host is actually holding",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
