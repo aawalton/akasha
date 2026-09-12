@@ -1,5 +1,4 @@
 import type { BadgeToggleGroupItem } from "akasha/design/interfaces/badges/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
-import { buildCharacterSummary } from "akasha/temper/player-completion/completion-summary/completion-summary.module.code.ts"
 import { transformCompletionCharacters } from "akasha/temper/player-completion/completion-transforms/completion-transforms.module.code.ts"
 import type {
   AccountLoreProgress,
@@ -35,6 +34,7 @@ import { transformLoreLibraryProgress } from "akasha/temper/player-completion/mo
 import { transformPoiProgress } from "akasha/temper/player-completion/modules/completion-poi-progress/completion-poi-progress.module.code.ts"
 import { transformQuestProgress } from "akasha/temper/player-completion/modules/completion-quest-progress/completion-quest-progress.module.code.ts"
 import { transformSkillPointsProgress } from "akasha/temper/player-completion/modules/completion-skill-points-progress/completion-skill-points-progress.module.code.ts"
+import { buildCharacterSummary } from "akasha/temper/player-completion/modules/completion-summary/completion-summary.module.code.ts"
 import type {
   useAccountCompletion,
   useCompletionCharacters,

@@ -1,7 +1,4 @@
 import type { AccountCompletion } from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
-import { buildCharacterSummary } from "akasha/temper/player-completion/completion-summary/completion-summary.module.code.ts"
-import { buildAccountSummary } from "akasha/temper/player-completion/completion-summary-account/completion-summary-account.module.code.ts"
-import { buildCompanionSummary } from "akasha/temper/player-completion/completion-summary-companion/completion-summary-companion.module.code.ts"
 import { transformCompletionCharacters } from "akasha/temper/player-completion/completion-transforms/completion-transforms.module.code.ts"
 import { transformTributeProgress } from "akasha/temper/player-completion/completion-tribute-progress/completion-tribute-progress.module.code.ts"
 import { transformZoneCompletionProgress } from "akasha/temper/player-completion/completion-zone-progress/completion-zone-progress.module.code.ts"
@@ -48,6 +45,9 @@ import {
 import { computeOverallCompletionScore } from "akasha/temper/player-completion/modules/completion-scope-rollup/completion-scope-rollup.module.code.ts"
 import { transformSkillPointsProgress } from "akasha/temper/player-completion/modules/completion-skill-points-progress/completion-skill-points-progress.module.code.ts"
 import { transformSubclassingSkillLineProgress } from "akasha/temper/player-completion/modules/completion-subclassing-progress/completion-subclassing-progress.module.code.ts"
+import { buildCharacterSummary } from "akasha/temper/player-completion/modules/completion-summary/completion-summary.module.code.ts"
+import { buildAccountSummary } from "akasha/temper/player-completion/modules/completion-summary-account/completion-summary-account.module.code.ts"
+import { buildCompanionSummary } from "akasha/temper/player-completion/modules/completion-summary-companion/completion-summary-companion.module.code.ts"
 import { transformSubclassingSkillMorphProgress } from "akasha/temper/skill-morphs/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
 
 export interface CompletionSummariesInput {
