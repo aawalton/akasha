@@ -1,4 +1,8 @@
-import { listedAt, type Valued } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  listedAt,
+  readingIn,
+  type Valued,
+} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   carriedFor,
   computedInto,
@@ -246,14 +250,15 @@ export function asking(root: string, query: Query): Asked {
   if (listedAt(root, PAGE_TYPE, query.pageTypeSlug).length === 0) {
     return { refused: `\`${query.pageTypeSlug}\` names no page type the index holds` }
   }
-  const carried = carriedFor(root, query.pageTypeSlug)
+  const reading = readingIn(root)
+  const carried = carriedFor(reading, query.pageTypeSlug)
   const unnamed = unkeyed(query, carried)
   if (unnamed !== null) return { refused: unnamed }
   let held: readonly Valued[]
   try {
     const counted = computedInto(
       root,
-      gatheredFor(root, query.pageTypeSlug, carried, query.files ?? [])
+      gatheredFor(root, query.pageTypeSlug, carried, query.files ?? [], reading)
     )
     const darkened = unlit(query, counted.dark)
     if (darkened !== null) return { refused: darkened }
