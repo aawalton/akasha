@@ -1,5 +1,11 @@
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
+import {
+  DATA,
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -26,12 +32,6 @@ import type {
   VenueStop,
 } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-
-const INPUT = 1
-
-const DATA = 2
-
-const OPERATIONAL = 3
 
 const INVENTORY_PATH = "--inventory-path"
 
@@ -250,13 +250,13 @@ export async function temperInventoryPlan(
     )
     const plan = builder.buildManagementPlan(orderedRules, itemRules, filtered, db, context)
     if (read.json) {
-      return { report: JSON.stringify(plan, null, SPACES).split("\n"), refusals: [], code: 0 }
+      return { report: JSON.stringify(plan, null, SPACES).split("\n"), refusals: [], code: OK }
     }
     if (read.checklist) {
       const said = (await planChecklist()).formatPlanChecklist(plan)
-      return { report: said.replace(/\n+$/, "").split("\n"), refusals: [], code: 0 }
+      return { report: said.replace(/\n+$/, "").split("\n"), refusals: [], code: OK }
     }
-    return { report: [...planSaid(plan)], refusals: [], code: 0 }
+    return { report: [...planSaid(plan)], refusals: [], code: OK }
   } catch (thrown) {
     return refused(whyOf(thrown), OPERATIONAL)
   }
