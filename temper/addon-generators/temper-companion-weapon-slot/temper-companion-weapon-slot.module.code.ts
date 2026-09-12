@@ -1,7 +1,7 @@
 import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import type { Page } from "akasha/temper/addon-generators/modules/addon-data-page/addon-data-page.module.code.ts"
 import { ranksOf } from "akasha/temper/addon-generators/rank-by-key/rank-by-key.module.code.ts"
-import { companionWeaponSlots } from "akasha/temper/companions-core/companion-weapon-slots/companion-weapon-slots.module.code.ts"
+import { companionWeaponSlots } from "akasha/temper/companions-core/modules/companion-weapon-slots/companion-weapon-slots.module.code.ts"
 import { z } from "zod"
 
 const COMPANION_WEAPON_SLOT_EAV_SCHEMA = z
