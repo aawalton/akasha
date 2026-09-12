@@ -1,8 +1,4 @@
 import {
-  type CompanionSkillSlotId,
-  companionSkillSlots,
-} from "akasha/temper/companions-core/companion-skill-slots/companion-skill-slots.module.code.ts"
-import {
   type CompanionSkillId,
   companionSkills,
 } from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
@@ -10,6 +6,10 @@ import type { CompanionState } from "akasha/temper/companions-core/companion-typ
 import { getValidSkillIds } from "akasha/temper/companions-core/companion-valid-skills/companion-valid-skills.module.code.ts"
 import type { CompanionWeaponTypeId } from "akasha/temper/companions-core/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { getSkillCooldown } from "akasha/temper/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
+import {
+  type CompanionSkillSlotId,
+  companionSkillSlots,
+} from "akasha/temper/companions-core/modules/companion-skill-slots/companion-skill-slots.module.code.ts"
 import { companionSkillLines } from "akasha/temper/companions-core/skill-lines-by-companion/skill-lines-by-companion.module.code.ts"
 
 const TAUNT_MAX_COOLDOWN = 16

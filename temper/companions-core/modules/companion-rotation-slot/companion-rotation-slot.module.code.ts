@@ -1,8 +1,3 @@
-import type { CompanionFormulaStats } from "akasha/temper/companions-core/companion-skill-formula/companion-skill-formula.module.code.ts"
-import {
-  type CompanionSkillSlotId,
-  companionSkillSlots,
-} from "akasha/temper/companions-core/companion-skill-slots/companion-skill-slots.module.code.ts"
 import {
   type CompanionSkillId,
   companionSkills,
@@ -11,6 +6,11 @@ import type { CompanionMetricId } from "akasha/temper/companions-core/modules/co
 import type { CompanionMetricValue } from "akasha/temper/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
 import type { CompanionSkillTemplate } from "akasha/temper/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
 import type { CompanionEffect } from "akasha/temper/companions-core/modules/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
+import type { CompanionFormulaStats } from "akasha/temper/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
+import {
+  type CompanionSkillSlotId,
+  companionSkillSlots,
+} from "akasha/temper/companions-core/modules/companion-skill-slots/companion-skill-slots.module.code.ts"
 import type { SkillUsageSummary } from "akasha/temper/companions-core/rotation-types/rotation-types.module.code.ts"
 
 export interface SkillSlotData {

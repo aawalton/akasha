@@ -1,5 +1,3 @@
-import type { CompanionFormulaStats } from "akasha/temper/companions-core/companion-skill-formula/companion-skill-formula.module.code.ts"
-import { evaluateSkillFormula } from "akasha/temper/companions-core/companion-skill-formula/companion-skill-formula.module.code.ts"
 import type { CompanionValueFormula } from "akasha/temper/companions-core/companion-value-formula/companion-value-formula.module.code.ts"
 import {
   computeAugmentedDurations,
@@ -22,6 +20,8 @@ import type {
   CompanionSkillEffectComponent,
   CompanionSynergyComponent,
 } from "akasha/temper/companions-core/modules/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
+import type { CompanionFormulaStats } from "akasha/temper/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
+import { evaluateSkillFormula } from "akasha/temper/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
 import type { Targeting } from "akasha/temper/skill-kinds/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 
 type FormulaEffect =

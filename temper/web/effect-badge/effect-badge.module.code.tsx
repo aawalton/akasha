@@ -1,6 +1,4 @@
 import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
-import type { CompanionFormulaStats } from "akasha/temper/companions-core/companion-skill-formula/companion-skill-formula.module.code.ts"
-import { calculateEffectValue } from "akasha/temper/companions-core/companion-skill-tooltip/companion-skill-tooltip.module.code.ts"
 import {
   formatCooldown,
   formatDamageType,
@@ -13,6 +11,8 @@ import {
   formatStatusEffect,
 } from "akasha/temper/companions-core/modules/companion-effect-labels/companion-effect-labels.module.code.ts"
 import type { CompanionEffect } from "akasha/temper/companions-core/modules/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
+import type { CompanionFormulaStats } from "akasha/temper/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
+import { calculateEffectValue } from "akasha/temper/companions-core/modules/companion-skill-tooltip/companion-skill-tooltip.module.code.ts"
 import { formatAbbreviated } from "akasha/temper/formula-framework/number-format/number-format.module.code.ts"
 import type {
   ArmorPieceCounts,

@@ -1,11 +1,11 @@
-import type { CompanionFormulaStats } from "akasha/temper/companions-core/companion-skill-formula/companion-skill-formula.module.code.ts"
-import { evaluateSkillFormula } from "akasha/temper/companions-core/companion-skill-formula/companion-skill-formula.module.code.ts"
 import type { CompanionValueFormula } from "akasha/temper/companions-core/companion-value-formula/companion-value-formula.module.code.ts"
 import { calculatePeriodicTooltipValue } from "akasha/temper/companions-core/modules/companion-periodic-formula/companion-periodic-formula.module.code.ts"
 import type {
   CompanionEffect,
   CompanionSkillEffectComponent,
 } from "akasha/temper/companions-core/modules/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
+import type { CompanionFormulaStats } from "akasha/temper/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
+import { evaluateSkillFormula } from "akasha/temper/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
 
 const VALUE_PRODUCING_TYPES = new Set([
   "damage",

@@ -1,7 +1,7 @@
 import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import type { Page } from "akasha/temper/addon-generators/modules/addon-data-page/addon-data-page.module.code.ts"
 import { ranksOf } from "akasha/temper/addon-generators/rank-by-key/rank-by-key.module.code.ts"
-import { companionSkillSlots } from "akasha/temper/companions-core/companion-skill-slots/companion-skill-slots.module.code.ts"
+import { companionSkillSlots } from "akasha/temper/companions-core/modules/companion-skill-slots/companion-skill-slots.module.code.ts"
 import { z } from "zod"
 
 const COMPANION_SKILL_SLOT_EAV_SCHEMA = z

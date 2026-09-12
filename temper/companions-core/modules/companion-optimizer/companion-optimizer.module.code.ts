@@ -1,12 +1,4 @@
 import {
-  findBestPermutation,
-  optimizeSkills,
-} from "akasha/temper/companions-core/companion-skill-optimizer/companion-skill-optimizer.module.code.ts"
-import {
-  type CompanionSkillSlotId,
-  companionSkillSlots,
-} from "akasha/temper/companions-core/companion-skill-slots/companion-skill-slots.module.code.ts"
-import {
   type CompanionSkillId,
   companionSkills,
 } from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
@@ -41,6 +33,14 @@ import {
   setRingQualityToLegendary,
 } from "akasha/temper/companions-core/modules/companion-equipment-slots/companion-equipment-slots.module.code.ts"
 import type { CompanionMetricId } from "akasha/temper/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
+import {
+  findBestPermutation,
+  optimizeSkills,
+} from "akasha/temper/companions-core/modules/companion-skill-optimizer/companion-skill-optimizer.module.code.ts"
+import {
+  type CompanionSkillSlotId,
+  companionSkillSlots,
+} from "akasha/temper/companions-core/modules/companion-skill-slots/companion-skill-slots.module.code.ts"
 
 type CompanionAction =
   | { type: "select-companion"; companionId: CompanionId }
