@@ -7,9 +7,9 @@ export const infrastructure = {
   definition: "the machines, the services on them, and what puts code onto them",
   parts: [
     "command/infrastructure-loki",
-    "command/infrastructure-service",
     "command/infrastructure-shell-init-bash",
     "namespace/infrastructure-dev-server",
+    "namespace/infrastructure-service",
   ],
   name: "infrastructure",
 } as const satisfies Namespace
