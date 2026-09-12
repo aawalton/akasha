@@ -6,10 +6,10 @@ export const infrastructure = {
   slug: "infrastructure",
   definition: "the machines, the services on them, and what puts code onto them",
   parts: [
-    "command/infrastructure-dev-server",
     "command/infrastructure-loki",
     "command/infrastructure-service",
     "command/infrastructure-shell-init-bash",
+    "namespace/infrastructure-dev-server",
   ],
   name: "infrastructure",
 } as const satisfies Namespace

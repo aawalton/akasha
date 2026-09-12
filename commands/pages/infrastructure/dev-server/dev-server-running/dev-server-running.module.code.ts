@@ -1,33 +1,16 @@
 import { existsSync, openSync, unlinkSync } from "node:fs"
-import { exitCodeForThrowable } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import {
   APP,
-  BOOTSTRAP,
-  FORCE,
-  LOGS,
-  RESTART,
-  type Read,
-  readIn,
   SEQ,
-  START,
-  STATUS,
-  STOP,
 } from "akasha/commands/pages/infrastructure/dev-server/dev-server-argument-reading/dev-server-argument-reading.module.code.ts"
-import { lastLinesOf } from "akasha/commands/pages/infrastructure/dev-server/last-lines/last-lines.module.code.ts"
 import {
   readEnvLocal,
   resolveEnvLocalPath,
   writeEnvLocalFromPages,
 } from "akasha/infrastructure/services/web-apps/dev-server-env-writing/dev-server-env-writing.module.code.ts"
-import {
-  type DevServerRecord,
-  devServerTsvLine,
-  recordFromState,
-  stoppedRecord,
-} from "akasha/infrastructure/services/web-apps/dev-server-recording/dev-server-recording.module.code.ts"
 import {
   computePort,
   type DevServerState,
@@ -58,30 +41,9 @@ const DEV_COMMAND: readonly string[] = ["bunx", "react-router", "dev", "--port",
 
 const NO_COOKIE_DOMAIN = "NEXT_PUBLIC_SUPABASE_COOKIE_DOMAIN"
 
-async function bootstrapping(read: {
-  root: string
-  seq: number
-  app: string
-  force: boolean
-  json: boolean
-}): Promise<Answer> {
-  const worktreePath = await resolveWorktreePath(read.seq)
-  const envPath = resolveEnvLocalPath(read.root, worktreePath, read.app)
-  if (existsSync(envPath) && !read.force) {
-    return refused(`${envPath} stands already — say \`${FORCE}\` to write over it`, 1)
-  }
-  const written = writeEnvLocalFromPages({
-    root: read.root,
-    worktreePath,
-    appName: read.app,
-  })
-  const report = read.json
-    ? [JSON.stringify({ ok: true, path: written.path, var_count: written.varCount })]
-    : [`wrote ${written.path} (${written.varCount} vars)`]
-  return { report, refusals: [], code: 0 }
-}
+const REPLACED_BY = "akasha infrastructure dev-server restart"
 
-async function starting(read: {
+export async function starting(read: {
   root: string
   seq: number
   app: string
@@ -96,7 +58,7 @@ async function starting(read: {
   const cwd = `${worktreePath}/${app.packagePath}`
   if (!existsSync(cwd)) {
     return refused(
-      `no app workspace stands at ${cwd} — check that \`${SEQ}\` and \`${APP}\` name what you meant`,
+      `no app workspace is at ${cwd} — check that \`${SEQ}\` and \`${APP}\` name what you meant`,
       1
     )
   }
@@ -112,11 +74,11 @@ async function starting(read: {
   }
   const envLocalVars = existsSync(envLocalPath) ? readEnvLocal(envLocalPath) : {}
 
-  const standing = readStateFile(read.seq, read.app)
-  if (standing !== null && isPidAlive(standing.pid)) {
+  const already = readStateFile(read.seq, read.app)
+  if (already !== null && isPidAlive(already.pid)) {
     return refused(
       `a dev server is already running for seq=${read.seq} app=${read.app} ` +
-        `(pid=${standing.pid}, port=${standing.port}) — a \`${RESTART}\` is how one is replaced`,
+        `(pid=${already.pid}, port=${already.port}) — \`${REPLACED_BY}\` is how one is replaced`,
       3
     )
   }
@@ -221,7 +183,7 @@ function stopSaid(one: Stopped): string {
   return `stopped seq=${one.seq} app=${one.app} pid=${one.pid} (${one.was_running ? "was running" : "was stopped"})`
 }
 
-async function stopping(read: {
+export async function stopping(read: {
   root: string
   seq: number | null
   app: string | null
@@ -255,76 +217,4 @@ async function stopping(read: {
     return { report: ["no dev server is tracked, so none was stopped"], refusals: [], code: 0 }
   }
   return { report: stopped.map(stopSaid), refusals: [], code: 0 }
-}
-
-async function reading(read: {
-  root: string
-  seq: number | null
-  app: string | null
-  json: boolean
-}): Promise<Answer> {
-  const recorded = (state: DevServerState): DevServerRecord =>
-    recordFromState(state, isPidAlive(state.pid))
-  let records: readonly DevServerRecord[]
-  if (read.seq !== null && read.app !== null) {
-    lookupApp(read.root, read.app)
-    const state = readStateFile(read.seq, read.app)
-    records = state === null ? [stoppedRecord(read.seq, read.app)] : [recorded(state)]
-  } else if (read.seq === null && read.app === null) {
-    records = listStateFiles().map(recorded)
-  } else {
-    records = listStateFiles()
-      .map(recorded)
-      .filter((one) => (read.seq !== null ? one.seq === read.seq : one.app === read.app))
-  }
-  if (read.json) return { report: [JSON.stringify(records)], refusals: [], code: 0 }
-  return { report: records.map(devServerTsvLine), refusals: [], code: 0 }
-}
-
-async function tailing(read: {
-  root: string
-  seq: number
-  app: string
-  tail: number
-}): Promise<Answer> {
-  lookupApp(read.root, read.app)
-  const path = logFilePath(read.seq, read.app)
-  if (!existsSync(path)) {
-    return refused(`no log file stands at ${path} — has the server ever been started?`, 2)
-  }
-  return { report: await lastLinesOf(path, read.tail), refusals: [], code: 0 }
-}
-
-async function acting(
-  read: Exclude<Read, { refused: readonly string[] }>,
-  root: string
-): Promise<Answer> {
-  if (read.act === STATUS) return await reading({ root, ...read })
-  if (read.act === STOP) return await stopping({ root, ...read })
-  const seq = read.seq ?? 0
-  const app = read.app ?? ""
-  if (read.act === BOOTSTRAP) {
-    return await bootstrapping({ root, seq, app, force: read.force, json: read.json })
-  }
-  if (read.act === LOGS) return await tailing({ root, seq, app, tail: read.tail })
-  if (read.act === START) {
-    return await starting({ root, seq, app, port: read.port, json: read.json })
-  }
-  const stopped = await stopping({ root, seq, app, all: false, json: false })
-  if (stopped.code !== 0) return stopped
-  return await starting({ root, seq, app, port: read.port, json: read.json })
-}
-
-export async function infrastructureDevServer(
-  argv: readonly string[],
-  given: Given
-): Promise<Answer> {
-  const read = readIn(argv, given.root)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
-  try {
-    return await acting(read, given.root)
-  } catch (thrown) {
-    const carried = exitCodeForThrowable(thrown)
-    return refused(whyOf(thrown), carried === 70 ? 3 : carried)
-  }
 }

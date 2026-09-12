@@ -1,65 +1,43 @@
 import { appNamesIn } from "akasha/infrastructure/services/web-apps/dev-server-stating/dev-server-stating.module.code.ts"
-import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
-
-export const BOOTSTRAP = "bootstrap"
-
-export const LOGS = "logs"
-
-export const RESTART = "restart"
-
-export const START = "start"
-
-export const STATUS = "status"
-
-export const STOP = "stop"
-
-const ACTS = [BOOTSTRAP, LOGS, RESTART, START, STATUS, STOP]
 
 export const SEQ = "--seq"
 
 export const APP = "--app"
 
-const PORT = "--port"
+export const PORT = "--port"
 
-const TAIL = "--tail"
+export const TAIL = "--tail"
 
 export const FORCE = "--force"
 
-const ALL = "--all"
+export const ALL = "--all"
 
-const JSON_LINE = "--json"
+export const JSON_LINE = "--json"
 
 const VALUED = [SEQ, APP, PORT, TAIL]
 
 const BARE = [FORCE, ALL, JSON_LINE]
 
-const TAKEN: Record<string, readonly string[]> = {
-  [BOOTSTRAP]: [SEQ, APP, FORCE, JSON_LINE],
-  [LOGS]: [SEQ, APP, TAIL],
-  [RESTART]: [SEQ, APP, PORT, JSON_LINE],
-  [START]: [SEQ, APP, PORT, JSON_LINE],
-  [STATUS]: [SEQ, APP, JSON_LINE],
-  [STOP]: [SEQ, APP, ALL, JSON_LINE],
-}
-
 const TAIL_BY_DEFAULT = 100
 
-export type Read =
-  | {
-      readonly act: string
-      readonly seq: number | null
-      readonly app: string | null
-      readonly port: number | null
-      readonly tail: number
-      readonly force: boolean
-      readonly all: boolean
-      readonly json: boolean
-    }
-  | { readonly refused: readonly string[] }
+export type Naming = "one-server" | "one-or-every" | "any"
 
-function acts(): string {
-  return namesDrawn(ACTS)
+export type Taking = {
+  readonly flags: readonly string[]
+  readonly names: Naming
 }
+
+export type Taken = {
+  readonly seq: number | null
+  readonly app: string | null
+  readonly port: number | null
+  readonly tail: number
+  readonly force: boolean
+  readonly all: boolean
+  readonly json: boolean
+}
+
+export type Read = Taken | { readonly refused: readonly string[] }
 
 function wholeIn(said: string): number | null {
   const held = Number(said)
@@ -67,7 +45,8 @@ function wholeIn(said: string): number | null {
   return held
 }
 
-export function readIn(argv: readonly string[], root: string): Read {
+export function readIn(argv: readonly string[], root: string, taking: Taking): Read {
+  const taken = taking.flags
   const refusals: string[] = []
   const words: string[] = []
   const said = new Map<string, string>()
@@ -107,21 +86,10 @@ export function readIn(argv: readonly string[], root: string): Read {
     }
     words.push(one)
   }
-  const act = words[0]
-  if (act === undefined) {
-    return { refused: [...refusals, `this names no act — it carries ${acts()}`] }
+  if (words.length > 1) {
+    refusals.push(`\`${words[1]}\` follows the seq, and one call names one seq`)
   }
-  const taken = TAKEN[act]
-  if (taken === undefined) {
-    return {
-      refused: [...refusals, `\`${act}\` is no act this carries — it carries ${acts()}`],
-    }
-  }
-  const rest = words.slice(1)
-  if (rest.length > 1) {
-    refusals.push(`\`${rest[1]}\` follows the seq, and one call names one act and one seq`)
-  }
-  const loose = rest[0]
+  const loose = words[0]
   if (loose !== undefined) {
     if (said.has(SEQ)) {
       refusals.push(`\`${loose}\` sits where the seq goes, and \`${SEQ}\` already names one`)
@@ -133,7 +101,7 @@ export function readIn(argv: readonly string[], root: string): Read {
     const named =
       flag === FORCE ? force : flag === ALL ? all : flag === JSON_LINE ? json : said.has(flag)
     if (named && !taken.includes(flag)) {
-      refusals.push(`\`${act}\` does not take \`${flag}\` — it takes \`${taken.join("`, `")}\``)
+      refusals.push(`this does not take \`${flag}\` — it takes \`${taken.join("`, `")}\``)
     }
   }
   const seqSaid = said.get(SEQ)
@@ -154,21 +122,19 @@ export function readIn(argv: readonly string[], root: string): Read {
     refusals.push(`\`${TAIL}\` names a whole number above nothing, and \`${tailSaid}\` is not`)
   }
   const app = said.get(APP) ?? null
-  if (act === STOP) {
+  if (taking.names === "one-or-every") {
     if (all && (seq !== null || app !== null)) {
-      refusals.push(
-        `\`${STOP}\` reaches one server or every one of them, and \`${ALL}\` names both`
-      )
+      refusals.push(`this reaches one server or every one of them, and \`${ALL}\` names both`)
     }
     if (!all && (seq === null || app === null)) {
-      refusals.push(`\`${STOP}\` takes \`${ALL}\`, or both \`${SEQ}\` and \`${APP}\``)
+      refusals.push(`this takes \`${ALL}\`, or both \`${SEQ}\` and \`${APP}\``)
     }
-  } else if (act !== STATUS) {
-    if (seq === null) refusals.push(`\`${act}\` names a seq, and none was said`)
+  } else if (taking.names === "one-server") {
+    if (seq === null) refusals.push("this names a seq, and none was said")
     if (app === null) {
-      refusals.push(`\`${act}\` names an app — it takes \`${appNamesIn(root).join("`, `")}\``)
+      refusals.push(`this names an app — it takes \`${appNamesIn(root).join("`, `")}\``)
     }
   }
   if (refusals.length > 0) return { refused: refusals }
-  return { act, seq, app, port, tail: tail ?? TAIL_BY_DEFAULT, force, all, json }
+  return { seq, app, port, tail: tail ?? TAIL_BY_DEFAULT, force, all, json }
 }

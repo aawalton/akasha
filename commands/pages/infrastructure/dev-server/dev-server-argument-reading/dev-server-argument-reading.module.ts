@@ -4,9 +4,19 @@ export const devServerArgumentReading = {
   id: "01a08df9-5e27-71e7-8009-6228d636611b",
   type: "module",
   slug: "dev-server-argument-reading",
-  definition: "the act, the seq, the app and the flags one dev-server call names",
+  definition: "the seq, the app and the flags one dev-server call names",
   code: "ts",
+  test: "ts",
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The flags a command takes are handed in rather than known here.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Whether a command names one server, one or every server, or neither, is handed in too.",
+    },
     {
       invariantKind: "departure",
       statement: "A valued flag whose next word is missing or is a flag is refused.",
@@ -25,7 +35,7 @@ export const devServerArgumentReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag an act does not take is refused, naming the flags that act takes.",
+      statement: "A flag the command does not take is refused, naming the flags it takes.",
     },
     {
       invariantKind: "departure",
