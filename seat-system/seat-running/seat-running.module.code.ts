@@ -1,3 +1,4 @@
+import { seatId } from "akasha/agents/acting-agent/acting-agent.module.code.ts"
 import {
   ATTRIBUTES,
   type Attribute,
@@ -7,7 +8,6 @@ import {
   type Declaration,
   recordedModeOf,
 } from "akasha/agents/attributes/agent-attributes.module.code.ts"
-import { seatId } from "akasha/agents/read-record/read-record.module.code.ts"
 import {
   AKASHA,
   akashaRoot,

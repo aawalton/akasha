@@ -16,7 +16,7 @@ export const agent = {
     "module/last-said",
     "module/tool-access",
     "module/launch-flags",
-    "module/read-record",
+    "module/acting-agent",
     "module/agent-page-reading",
     "module/agent-proc-liveness",
     "module/agent-proc-tree",
