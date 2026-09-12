@@ -37,6 +37,11 @@ export const noSecondExitCode = {
     {
       invariantKind: "departure",
       statement:
+        "The builders judged are the command-answering exports taking an exit code as an argument.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A code is looked for in the last argument, since each builder takes it in a place of its own.",
     },
     {

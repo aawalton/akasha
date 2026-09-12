@@ -91,13 +91,13 @@ test("the line named is the line the code sits on", () => {
 })
 
 test("a refusal handed its code as a number is refused", () => {
-  const said = noSecondExitCode(parsed("const one = refusing(read.refused, 1)\n"))
+  const said = noSecondExitCode(parsed("const one = refusedBy(read.refused, 1)\n"))
   expect(said).toHaveLength(1)
   expect(said[0]?.reason).toContain("INPUT")
 })
 
 test("a refusal handed its code by name is left", () => {
-  expect(noSecondExitCode(parsed("const one = refusing(read.refused, INPUT)\n"))).toEqual([])
+  expect(noSecondExitCode(parsed("const one = refusedBy(read.refused, INPUT)\n"))).toEqual([])
 })
 
 test("a refusal built one reason at a time is refused too", () => {
@@ -117,7 +117,7 @@ test("an answer carrying no refusals is left", () => {
 })
 
 test("a builder of that name handed a reason alone is left", () => {
-  expect(noSecondExitCode(parsed('const one = refusing("no page was read")\n'))).toEqual([])
+  expect(noSecondExitCode(parsed('const one = refusedBy("no page was read")\n'))).toEqual([])
 })
 
 test("a builder of that name handed no number is left", () => {

@@ -25,12 +25,7 @@ const BUILDS_THE_ANSWER: readonly string[] = [
   "commands/modules/refusing/",
 ]
 
-const HANDED_A_CODE: ReadonlySet<string> = new Set([
-  "answeredWith",
-  "refused",
-  "refusedBy",
-  "refusing",
-])
+const HANDED_A_CODE: ReadonlySet<string> = new Set(["answeredWith", "refused", "refusedBy"])
 
 const REFUSALS_AT: ReadonlyMap<string, number> = new Map([["answeredWith", 1]])
 
