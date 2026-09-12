@@ -40,5 +40,6 @@ export const removeUnusedExportKeywords = {
       invariantKind: "departure",
       statement: "The files are walked in the order their paths sort.",
     },
+    { invariantKind: "departure", statement: "A route's code keeps every `export` that code has." },
   ],
 } as const satisfies ChangeAgent

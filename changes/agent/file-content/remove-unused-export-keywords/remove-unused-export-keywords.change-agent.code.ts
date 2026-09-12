@@ -8,6 +8,7 @@ import {
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
+  routeCode,
   sparedIn,
   unreachedIn,
 } from "akasha/checks/code-checks/pages/no-unused-exports/no-unused-exports.code-check.decision.code.ts"
@@ -42,7 +43,7 @@ export async function removeUnusedExportKeywords(
   const answers: Answer[] = []
   for (const path of [...world.index.everyPath()].sort()) {
     if (answers.length >= most) break
-    if (!typed(path) || but.has(path)) continue
+    if (!typed(path) || routeCode(path) || but.has(path)) continue
     const names = surplusIn(world, pageTypes, path)
     if (names.length === 0) continue
     answers.push((await reach(world, DROP, { at: path, names })).said)
