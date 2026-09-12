@@ -1,11 +1,6 @@
 import { join } from "node:path"
 import { DATA } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
-  recordedEnding,
-  recordedRefusal,
-} from "akasha/commands/pages/deploy/commit-recording/deploy-commit-recording.module.code.ts"
-import { heldNow } from "akasha/commands/pages/deploy/holding/deploy-holding.module.code.ts"
-import {
   CLUSTER_SERVICE,
   CONTAINER_RECIPE,
   ESO_ADDON,
@@ -16,20 +11,25 @@ import {
   WORKSTATION_SERVICE,
 } from "akasha/commands/pages/deploy/kind-reading/deploy-kind-reading.module.code.ts"
 import {
+  recordedEnding,
+  recordedRefusal,
+} from "akasha/commands/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
+import { heldNow } from "akasha/commands/pages/deploy/modules/holding/deploy-holding.module.code.ts"
+import {
   saidOfNoTree,
   treeIn,
 } from "akasha/commands/pages/deploy/tree-pinning/deploy-tree-pinning.module.code.ts"
 import { headOf } from "akasha/git/head-commit/head-commit.module.code.ts"
-import {
-  type Candidate,
-  chosenFrom,
-  type Wanting,
-} from "akasha/infrastructure/services/deploy-choosing/deploy-choosing.module.code.ts"
 import { subjectsOf } from "akasha/infrastructure/services/deploy-subject-listing/deploy-subject-listing.module.code.ts"
 import {
   candidatesIn,
   wantingIn,
 } from "akasha/infrastructure/services/deploy-wanting/deploy-wanting.module.code.ts"
+import {
+  type Candidate,
+  chosenFrom,
+  type Wanting,
+} from "akasha/infrastructure/services/modules/deploy-choosing/deploy-choosing.module.code.ts"
 import {
   type Refused,
   runOf,

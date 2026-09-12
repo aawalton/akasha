@@ -1,6 +1,5 @@
 import { expect, test } from "bun:test"
-import { readingAt } from "akasha/commands/pages/deploy/file-closure/deploy-file-closure.module.code.ts"
-import { COOLDOWN_SECONDS } from "akasha/infrastructure/services/deploy-choosing/deploy-choosing.module.code.ts"
+import { readingAt } from "akasha/commands/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"
 import type { Subject } from "akasha/infrastructure/services/deploy-subject-listing/deploy-subject-listing.module.code.ts"
 import {
   changingIn,
@@ -8,6 +7,7 @@ import {
   readAs,
   wantsIn,
 } from "akasha/infrastructure/services/deploy-wanting/deploy-wanting.module.code.ts"
+import { COOLDOWN_SECONDS } from "akasha/infrastructure/services/modules/deploy-choosing/deploy-choosing.module.code.ts"
 
 const ROOT = process.cwd()
 

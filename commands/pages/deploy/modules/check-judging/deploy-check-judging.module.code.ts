@@ -3,8 +3,8 @@ import { gateFor } from "akasha/commands/modules/gate-building/gate-building.mod
 import {
   commitAt,
   pathsIn,
-} from "akasha/commands/pages/deploy/commit-naming/deploy-commit-naming.module.code.ts"
-import { carriedWith } from "akasha/commands/pages/deploy/file-closure/deploy-file-closure.module.code.ts"
+} from "akasha/commands/pages/deploy/modules/commit-naming/deploy-commit-naming.module.code.ts"
+import { carriedWith } from "akasha/commands/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"
 import {
   bodyAt,
   readingEnded,

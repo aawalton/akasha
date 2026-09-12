@@ -1,5 +1,4 @@
 import { expect, test } from "bun:test"
-import type { Candidate } from "akasha/infrastructure/services/deploy-choosing/deploy-choosing.module.code.ts"
 import {
   chosenPastLoaded,
   deployArgv,
@@ -15,6 +14,7 @@ import {
   scopeFor,
   scopeLoaded,
 } from "akasha/infrastructure/services/deploy-looping/deploy-looping.module.code.ts"
+import type { Candidate } from "akasha/infrastructure/services/modules/deploy-choosing/deploy-choosing.module.code.ts"
 import type { Running } from "akasha/infrastructure/services/workstations/service-restarting/service-restarting.module.code.ts"
 import { SERVING_MARKER } from "akasha/utils/run/run-relaying/run-relaying.module.code.ts"
 

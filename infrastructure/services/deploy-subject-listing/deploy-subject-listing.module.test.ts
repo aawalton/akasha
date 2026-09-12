@@ -1,5 +1,4 @@
 import { expect, test } from "bun:test"
-import { COOLDOWN_SECONDS } from "akasha/infrastructure/services/deploy-choosing/deploy-choosing.module.code.ts"
 import {
   afterIn,
   bySlug,
@@ -9,6 +8,7 @@ import {
   pushedNowhere,
   type Subject,
 } from "akasha/infrastructure/services/deploy-subject-listing/deploy-subject-listing.module.code.ts"
+import { COOLDOWN_SECONDS } from "akasha/infrastructure/services/modules/deploy-choosing/deploy-choosing.module.code.ts"
 
 function subject(slug: string): Subject {
   return {

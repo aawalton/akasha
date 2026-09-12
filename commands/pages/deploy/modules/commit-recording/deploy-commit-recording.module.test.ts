@@ -6,7 +6,7 @@ import {
   REFUSED_COMMIT,
   saidOfNoRecord,
   saidOfNoRefusal,
-} from "akasha/commands/pages/deploy/commit-recording/deploy-commit-recording.module.code.ts"
+} from "akasha/commands/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
 
 const AT = "infrastructure/services/clusters/pages/one/one.service-cluster.ts"
 

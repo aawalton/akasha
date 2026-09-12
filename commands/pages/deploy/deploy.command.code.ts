@@ -21,34 +21,7 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { allowedThrough } from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
-import { putUpAddon } from "akasha/commands/pages/deploy/addon-installing/deploy-addon-installing.module.code.ts"
-import { publishedBundleFor } from "akasha/commands/pages/deploy/bundle-publishing/deploy-bundle-publishing.module.code.ts"
-import {
-  changedBetween,
-  judgedOnDeploy,
-  sinceCommit,
-} from "akasha/commands/pages/deploy/check-judging/deploy-check-judging.module.code.ts"
-import {
-  AT_HEAD,
-  commitAt,
-  saidOfNoCommit,
-} from "akasha/commands/pages/deploy/commit-naming/deploy-commit-naming.module.code.ts"
-import {
-  commitRecordedIn,
-  recordedCommit,
-  recordedEnding,
-  recordedRefusal,
-} from "akasha/commands/pages/deploy/commit-recording/deploy-commit-recording.module.code.ts"
 import { deploy as page } from "akasha/commands/pages/deploy/deploy.command.ts"
-import { installedOnDevice } from "akasha/commands/pages/deploy/device-installing/deploy-device-installing.module.code.ts"
-import {
-  closureFor,
-  closuresOf,
-  touchedIn,
-  unionOf,
-} from "akasha/commands/pages/deploy/file-closure/deploy-file-closure.module.code.ts"
-import { heldWhile } from "akasha/commands/pages/deploy/holding/deploy-holding.module.code.ts"
-import { pushedImage } from "akasha/commands/pages/deploy/image-pushing/deploy-image-pushing.module.code.ts"
 import { putUpInferenceService } from "akasha/commands/pages/deploy/inference-installing/deploy-inference-installing.module.code.ts"
 import { shipIosApp } from "akasha/commands/pages/deploy/ios-shipping/deploy-ios-shipping.module.code.ts"
 import {
@@ -62,6 +35,33 @@ import {
   WEB_APP,
   WORKSTATION_SERVICE,
 } from "akasha/commands/pages/deploy/kind-reading/deploy-kind-reading.module.code.ts"
+import { putUpAddon } from "akasha/commands/pages/deploy/modules/addon-installing/deploy-addon-installing.module.code.ts"
+import { publishedBundleFor } from "akasha/commands/pages/deploy/modules/bundle-publishing/deploy-bundle-publishing.module.code.ts"
+import {
+  changedBetween,
+  judgedOnDeploy,
+  sinceCommit,
+} from "akasha/commands/pages/deploy/modules/check-judging/deploy-check-judging.module.code.ts"
+import {
+  AT_HEAD,
+  commitAt,
+  saidOfNoCommit,
+} from "akasha/commands/pages/deploy/modules/commit-naming/deploy-commit-naming.module.code.ts"
+import {
+  commitRecordedIn,
+  recordedCommit,
+  recordedEnding,
+  recordedRefusal,
+} from "akasha/commands/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
+import { installedOnDevice } from "akasha/commands/pages/deploy/modules/device-installing/deploy-device-installing.module.code.ts"
+import {
+  closureFor,
+  closuresOf,
+  touchedIn,
+  unionOf,
+} from "akasha/commands/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"
+import { heldWhile } from "akasha/commands/pages/deploy/modules/holding/deploy-holding.module.code.ts"
+import { pushedImage } from "akasha/commands/pages/deploy/modules/image-pushing/deploy-image-pushing.module.code.ts"
 import { installedOnSimulator } from "akasha/commands/pages/deploy/simulator-installing/deploy-simulator-installing.module.code.ts"
 import { pinnedTree } from "akasha/commands/pages/deploy/tree-pinning/deploy-tree-pinning.module.code.ts"
 import { putUpWebApp } from "akasha/commands/pages/deploy/web-putting-up/deploy-web-putting-up.module.code.ts"

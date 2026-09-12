@@ -9,7 +9,7 @@ import {
   REFUSAL_SECONDS,
   type Wanting,
   waitedBy,
-} from "akasha/infrastructure/services/deploy-choosing/deploy-choosing.module.code.ts"
+} from "akasha/infrastructure/services/modules/deploy-choosing/deploy-choosing.module.code.ts"
 
 const NOW = 1_000_000_000
 

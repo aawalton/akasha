@@ -5,8 +5,6 @@ import {
   OPERATIONAL,
   partWay,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { commitAt } from "akasha/commands/pages/deploy/commit-naming/deploy-commit-naming.module.code.ts"
-import { recordedCommit } from "akasha/commands/pages/deploy/commit-recording/deploy-commit-recording.module.code.ts"
 import type { PuttingUp, Wanted } from "akasha/commands/pages/deploy/deploy.command.code.ts"
 import {
   deploy,
@@ -14,6 +12,8 @@ import {
   stoppedPartWay,
 } from "akasha/commands/pages/deploy/deploy.command.code.ts"
 import { committed, given } from "akasha/commands/pages/deploy/deploy.command.test-fixtures.ts"
+import { commitAt } from "akasha/commands/pages/deploy/modules/commit-naming/deploy-commit-naming.module.code.ts"
+import { recordedCommit } from "akasha/commands/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
 import {
   seededWorld,
   WEB_APPS_AT,
