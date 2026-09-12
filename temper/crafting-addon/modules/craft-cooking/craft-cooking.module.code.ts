@@ -1,4 +1,3 @@
-import { MAXCRAFT } from "akasha/temper/crafting-addon/crafting-constants/crafting-constants.module.code.ts"
 import {
   CHAT,
   hideControl,
@@ -6,6 +5,7 @@ import {
 import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 import { QUALITY } from "akasha/temper/crafting-addon/modules/craft-quality/craft-quality.module.code.ts"
 import * as Tooltips from "akasha/temper/crafting-addon/modules/craft-tooltips/craft-tooltips.module.code.ts"
+import { MAXCRAFT } from "akasha/temper/crafting-addon/modules/crafting-constants/crafting-constants.module.code.ts"
 
 const WM = WINDOW_MANAGER
 

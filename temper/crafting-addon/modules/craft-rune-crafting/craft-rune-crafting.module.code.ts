@@ -1,4 +1,3 @@
-import { MAXCRAFT } from "akasha/temper/crafting-addon/crafting-constants/crafting-constants.module.code.ts"
 import {
   CHAT,
   toChat,
@@ -8,6 +7,7 @@ import type { CsCookButton } from "akasha/temper/crafting-addon/modules/craft-co
 import * as RecipeCooking from "akasha/temper/crafting-addon/modules/craft-cooking/craft-cooking.module.code.ts"
 import * as Inventory from "akasha/temper/crafting-addon/modules/craft-inventory/craft-inventory.module.code.ts"
 import * as Tooltips from "akasha/temper/crafting-addon/modules/craft-tooltips/craft-tooltips.module.code.ts"
+import { MAXCRAFT } from "akasha/temper/crafting-addon/modules/crafting-constants/crafting-constants.module.code.ts"
 
 export interface RgbColor {
   1: number

@@ -1,9 +1,3 @@
-import {
-  CHAMPION_POINTS_TEXTURE,
-  HealthName,
-  MagickaName,
-  StaminaName,
-} from "akasha/temper/crafting-addon/crafting-constants/crafting-constants.module.code.ts"
 import type { AccountData } from "akasha/temper/crafting-addon/modules/craft-account-init/craft-account-init.module.code.ts"
 import type { CharacterData } from "akasha/temper/crafting-addon/modules/craft-char-init/craft-char-init.module.code.ts"
 import {
@@ -30,6 +24,12 @@ import {
   SETS,
 } from "akasha/temper/crafting-addon/modules/craft-sets-data/craft-sets-data.module.code.ts"
 import type { StyleApi } from "akasha/temper/crafting-addon/modules/craft-styles-data/craft-styles-data.module.code.ts"
+import {
+  CHAMPION_POINTS_TEXTURE,
+  HealthName,
+  MagickaName,
+  StaminaName,
+} from "akasha/temper/crafting-addon/modules/crafting-constants/crafting-constants.module.code.ts"
 
 export interface StyleNameRow {
   name: string

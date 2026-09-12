@@ -1,8 +1,4 @@
 import {
-  CB_ADD_RESEARCH_ITEM,
-  CB_UPDATE_PANEL_ICON,
-} from "akasha/temper/crafting-addon/crafting-constants/crafting-constants.module.code.ts"
-import {
   nilCheck,
   splitLink,
   stripLink,
@@ -14,6 +10,10 @@ import { RawItemTypes } from "akasha/temper/crafting-addon/modules/craft-item-ty
 import { LANG } from "akasha/temper/crafting-addon/modules/craft-lang-index/craft-lang-index.module.code.ts"
 import { pruneEmptyStorage } from "akasha/temper/crafting-addon/modules/craft-storage-prune/craft-storage-prune.module.code.ts"
 import * as DataValidation from "akasha/temper/crafting-addon/modules/craft-validation/craft-validation.module.code.ts"
+import {
+  CB_ADD_RESEARCH_ITEM,
+  CB_UPDATE_PANEL_ICON,
+} from "akasha/temper/crafting-addon/modules/crafting-constants/crafting-constants.module.code.ts"
 
 function asSaveResult(this: void, value: unknown): LuaMultiReturn<[boolean, string | undefined]> {
   return value as LuaMultiReturn<[boolean, string | undefined]>

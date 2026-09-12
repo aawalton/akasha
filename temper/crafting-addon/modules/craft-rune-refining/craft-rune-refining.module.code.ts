@@ -1,8 +1,8 @@
-import { CB_INVENTORY_SPACE } from "akasha/temper/crafting-addon/crafting-constants/crafting-constants.module.code.ts"
 import { CHAT } from "akasha/temper/crafting-addon/crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 import * as Inventory from "akasha/temper/crafting-addon/modules/craft-inventory/craft-inventory.module.code.ts"
 import type { RuneRefineGlyphEntry } from "akasha/temper/crafting-addon/modules/craft-rune/craft-rune.module.code.ts"
+import { CB_INVENTORY_SPACE } from "akasha/temper/crafting-addon/modules/crafting-constants/crafting-constants.module.code.ts"
 
 export interface GlyphStack extends RuneRefineGlyphEntry {
   name: string

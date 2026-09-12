@@ -2,7 +2,7 @@ import {
   HealthName,
   MagickaName,
   StaminaName,
-} from "akasha/temper/crafting-addon/crafting-constants/crafting-constants.module.code.ts"
+} from "akasha/temper/crafting-addon/modules/crafting-constants/crafting-constants.module.code.ts"
 
 export interface RecipeEntry {
   name: string

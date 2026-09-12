@@ -1,11 +1,4 @@
 import {
-  CB_ADD_RESEARCH_ITEM,
-  CB_CONTROL_SHOW,
-  CB_INVENTORY_SPACE,
-  CB_UPDATE_PANEL_ICON,
-  CB_UPDATE_PLAYER,
-} from "akasha/temper/crafting-addon/crafting-constants/crafting-constants.module.code.ts"
-import {
   newMovementInUIMode,
   onActionLayerPushed,
   onChampionPerksSceneStateChange,
@@ -77,6 +70,13 @@ import {
   queue,
   scrollText,
 } from "akasha/temper/crafting-addon/modules/craft-utilities/craft-utilities.module.code.ts"
+import {
+  CB_ADD_RESEARCH_ITEM,
+  CB_CONTROL_SHOW,
+  CB_INVENTORY_SPACE,
+  CB_UPDATE_PANEL_ICON,
+  CB_UPDATE_PLAYER,
+} from "akasha/temper/crafting-addon/modules/crafting-constants/crafting-constants.module.code.ts"
 import { initializeTemperPotions } from "akasha/temper/crafting-addon/potion-init/potion-init.module.code.ts"
 import { initializeTemperWrit } from "akasha/temper/crafting-addon/writ-init/writ-init.module.code.ts"
 import { initializeMasterWritInventoryMarker } from "akasha/temper/crafting-addon/writ-mark-init/writ-mark-init.module.code.ts"
