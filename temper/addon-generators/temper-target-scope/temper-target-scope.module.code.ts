@@ -1,4 +1,5 @@
 import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { ranksOf } from "akasha/temper/addon-generators/rank-by-key/rank-by-key.module.code.ts"
 import { targetScopes } from "akasha/temper/skill-kinds/target-scopes/target-scopes.module.code.ts"
 import { z } from "zod"
@@ -55,7 +56,7 @@ export function generateTemperTargetScope(rows: readonly Page[]): string {
  * \`TEMPER_TARGET_SCOPES["single"]\` is well-typed and feeds the
  * \`targetScopes\` lookup in @temper/game-characters-skills.
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 import type { TargetScopeTemplate } from "../target-scope-data"
