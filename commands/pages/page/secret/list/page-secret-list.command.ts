@@ -13,13 +13,11 @@ export const pageSecretList = {
       takes: "the page, read against the root, rather than its sops file",
     },
   ],
-  helpNotes: [
-    "the two lines are read from different places and are meant to be compared.",
-    "what is held is read off the sops file standing beside the page, and what is secret off the page type claiming it.",
-    "nothing is decrypted, since which keys a sops file holds is readable without the key that would open them.",
-    "a path no page stands at is refused, because nothing then declares what the page may hold.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A path that names no page is refused.",
+    },
     {
       invariantKind: "departure",
       statement: "The keys held are read off the file standing on disk.",
