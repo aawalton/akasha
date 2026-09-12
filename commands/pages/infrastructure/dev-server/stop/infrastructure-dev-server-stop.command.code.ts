@@ -1,9 +1,5 @@
-import {
-  codeOf,
-  refusedBy,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { refusedBy } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import type { Taking } from "akasha/commands/pages/infrastructure/dev-server/dev-server-argument-reading/dev-server-argument-reading.module.code.ts"
 import {
   ALL,
@@ -12,7 +8,11 @@ import {
   readIn,
   SEQ,
 } from "akasha/commands/pages/infrastructure/dev-server/dev-server-argument-reading/dev-server-argument-reading.module.code.ts"
-import { stopping } from "akasha/commands/pages/infrastructure/dev-server/dev-server-running/dev-server-running.module.code.ts"
+import {
+  keeping,
+  stoppedBy,
+  stopping,
+} from "akasha/commands/pages/infrastructure/dev-server/dev-server-running/dev-server-running.module.code.ts"
 
 export const TAKING: Taking = {
   flags: [SEQ, APP, ALL, JSON_LINE],
@@ -25,15 +25,16 @@ export async function infrastructureDevServerStop(
 ): Promise<Answer> {
   const read = readIn(argv, given.root, TAKING)
   if ("refused" in read) return refusedBy(read.refused)
+  const done: string[] = []
   try {
-    return await stopping({
-      root: given.root,
-      seq: read.seq,
-      app: read.app,
-      all: read.all,
-      json: read.json,
-    })
+    return keeping(
+      done,
+      await stopping(
+        { root: given.root, seq: read.seq, app: read.app, all: read.all, json: read.json },
+        done
+      )
+    )
   } catch (thrown) {
-    return refusedBy([whyOf(thrown)], codeOf(thrown))
+    return stoppedBy(done, thrown)
   }
 }

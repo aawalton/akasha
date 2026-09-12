@@ -38,6 +38,15 @@ export const infrastructureDevServerStop = {
       statement:
         "A server already stopped is answered as stopped and the state file it left is taken.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A stop that stopped part way names each server signalled and each state file taken.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stop that signalled nothing is refused as the fault alone.",
+    },
   ],
   arguments: [
     { argument: "argument/json" },

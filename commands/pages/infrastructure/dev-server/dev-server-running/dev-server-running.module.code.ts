@@ -176,13 +176,14 @@ type Stopped = {
   readonly was_running: boolean
 }
 
-async function stoppedOne(state: DevServerState): Promise<Stopped> {
+async function stoppedOne(state: DevServerState, done: string[]): Promise<Stopped> {
   const { pid, seq, app } = state
   let wasRunning = false
   if (isPidAlive(pid)) {
     wasRunning = true
     try {
       process.kill(pid, "SIGTERM")
+      done.push(`signalled seq=${String(seq)} app=${app} pid=${String(pid)}`)
     } catch (thrown) {
       if (errnoCodeOf(thrown) !== "ESRCH") throw thrown
       wasRunning = false
@@ -202,7 +203,10 @@ async function stoppedOne(state: DevServerState): Promise<Stopped> {
     }
   }
   const path = stateFilePath(seq, app)
-  if (existsSync(path)) unlinkSync(path)
+  if (existsSync(path)) {
+    unlinkSync(path)
+    done.push(`took ${path}`)
+  }
   return { seq, app, pid, was_running: wasRunning }
 }
 
@@ -210,13 +214,16 @@ function stopSaid(one: Stopped): string {
   return `stopped seq=${one.seq} app=${one.app} pid=${one.pid} (${one.was_running ? "was running" : "was stopped"})`
 }
 
-export async function stopping(read: {
-  root: string
-  seq: number | null
-  app: string | null
-  all: boolean
-  json: boolean
-}): Promise<Answer> {
+export async function stopping(
+  read: {
+    root: string
+    seq: number | null
+    app: string | null
+    all: boolean
+    json: boolean
+  },
+  done: string[] = []
+): Promise<Answer> {
   let states: readonly DevServerState[]
   if (read.all) {
     states = listStateFiles()
@@ -232,7 +239,7 @@ export async function stopping(read: {
     states = [state]
   }
   const stopped: Stopped[] = []
-  for (const state of states) stopped.push(await stoppedOne(state))
+  for (const state of states) stopped.push(await stoppedOne(state, done))
   if (read.json) return asJson({ stopped })
   if (stopped.length === 0) return told(["no dev server is tracked, so none was stopped"])
   return told(stopped.map(stopSaid))
