@@ -2,6 +2,12 @@ import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import {
+  DATA,
+  OPERATIONAL,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
@@ -29,7 +35,7 @@ const INPUT_AT = "/dev/stdin"
 export const mistaken = mistaking
 
 export function wrongData(said: string): Answer {
-  return { report: [], refusals: [said], code: 2 }
+  return refusedBy([said], DATA)
 }
 
 export type Said = {
@@ -175,8 +181,8 @@ export type Landing = (
 
 function answered(landed: Awaited<ReturnType<Landing>>, did: string): Answer {
   const wrong = "refusals" in landed ? landed.refusals : landed.wrong
-  if (wrong.length > 0) return { report: [], refusals: wrong, code: 3 }
-  return { report: [did], refusals: [], code: 0 }
+  if (wrong.length > 0) return refusedBy(wrong, OPERATIONAL)
+  return told([did])
 }
 
 export async function landedWith(
@@ -193,9 +199,7 @@ export async function landedWith(
     return answered(await landing(given.root, taken, message), `took away ${target.sidecar}`)
   }
   const composed = cipherFor(given.root, target.path, values)
-  if (composed.text === null) {
-    return { report: [], refusals: [composed.why, "nothing was written"], code: 2 }
-  }
+  if (composed.text === null) return refusedBy([composed.why, "nothing was written"], DATA)
   const written: readonly Asking[] = [
     { at: PUT, given: { at: target.sidecar, body: composed.text } },
   ]
@@ -206,7 +210,7 @@ export async function caught(run: () => Answer | Promise<Answer>): Promise<Answe
   try {
     return await run()
   } catch (thrown) {
-    return { report: [], refusals: [whyOf(thrown), "nothing was written"], code: 3 }
+    return refusedBy([whyOf(thrown), "nothing was written"], OPERATIONAL)
   }
 }
 

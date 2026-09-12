@@ -55,6 +55,10 @@ export const pageSecretActing = {
       statement: "The landing a sops file goes through is handed in.",
     },
     {
+      invariantKind: "departure",
+      statement: "Every answer here is built by a function rather than written out as a value.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here writes the sops file itself.",
     },

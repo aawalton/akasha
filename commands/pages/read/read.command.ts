@@ -178,6 +178,18 @@ export const read = {
       statement:
         "A read the warrants cannot be worked out for returns the files the read was named.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Every answer here is built by a function rather than written out as a value.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A read naming a file that is not there is a fault of the input.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A read of a body that would not open is an operational fault.",
+    },
   ],
   name: "read",
   directives: [

@@ -9,8 +9,18 @@ import {
   recordRead,
 } from "akasha/agents/read-record/read-record.module.code.ts"
 import { leadingBytes } from "akasha/code/utf8-body/utf8-body.module.code.ts"
+import {
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { bytesAt, textOf } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import {
+  type Answer,
+  answering,
+  type Given,
+} from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import {
   bodyRead,
   differenceOf,
@@ -282,25 +292,21 @@ export function readWith(
   seatAt: SeatAt = akashaSeatPathForCaller
 ): Answer {
   if (thrown !== null) {
-    return {
-      report: [],
-      refusals: [
-        `this call's output goes to ${thrown}, so the body would reach nobody. What the record says ` +
-          "is that the body reached you, so nothing is read here and nothing is recorded. Run it " +
-          "again with the output reaching you",
-      ],
-      code: 1,
-    }
+    return mistaking([
+      `this call's output goes to ${thrown}, so the body would reach nobody. What the record says ` +
+        "is that the body reached you, so nothing is read here and nothing is recorded. Run it " +
+        "again with the output reaching you",
+    ])
   }
   const agentId = given.agentId
-  if (agentId === null) return { report: [], refusals: [NO_AGENT], code: 1 }
+  if (agentId === null) return mistaking([NO_AGENT])
   const meant = meaning(argv)
-  if (meant.refusal !== null) return { report: [], refusals: [meant.refusal], code: 1 }
+  if (meant.refusal !== null) return mistaking([meant.refusal])
   const bare = meant.paths.length === 0
   const asked = bare ? ownSeatIn(agentId, seatAt) : meant.paths
-  if (asked === null) return { report: [], refusals: [noSeatFor(agentId)], code: 1 }
+  if (asked === null) return mistaking([noSeatFor(agentId)])
   const aimed = aiming(asked, given)
-  if (aimed.refusals.length > 0) return { report: [], refusals: aimed.refusals, code: 1 }
+  if (aimed.refusals.length > 0) return mistaking(aimed.refusals)
   const queue = spreading(aimed.targets, given)
   const report: string[] = []
   const refusals: string[] = []
@@ -376,7 +382,7 @@ export function readWith(
     }
   }
   report.push(...restCall(given.calledAs, left, bare))
-  return { report, refusals, code: mistaken ? 1 : failed ? 3 : 0 }
+  return answering(report, refusals, mistaken ? INPUT : failed ? OPERATIONAL : OK)
 }
 
 export function read(argv: readonly string[], given: Given): Answer {
