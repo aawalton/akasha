@@ -1,6 +1,8 @@
-import { exitCodeForThrowable } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import {
+  codeOf,
+  refusedBy,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import type { Taking } from "akasha/commands/pages/infrastructure/dev-server/dev-server-argument-reading/dev-server-argument-reading.module.code.ts"
 import {
@@ -22,7 +24,7 @@ export async function infrastructureDevServerStop(
   given: Given
 ): Promise<Answer> {
   const read = readIn(argv, given.root, TAKING)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+  if ("refused" in read) return refusedBy(read.refused)
   try {
     return await stopping({
       root: given.root,
@@ -32,7 +34,6 @@ export async function infrastructureDevServerStop(
       json: read.json,
     })
   } catch (thrown) {
-    const carried = exitCodeForThrowable(thrown)
-    return refused(whyOf(thrown), carried === 70 ? 3 : carried)
+    return refusedBy([whyOf(thrown)], codeOf(thrown))
   }
 }
