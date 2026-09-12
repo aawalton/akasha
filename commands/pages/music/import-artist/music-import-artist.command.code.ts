@@ -36,6 +36,12 @@ import {
 } from "akasha/alan/music/catalog/song-slug/song-slug.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import {
+  DATA,
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
@@ -52,12 +58,6 @@ import {
 import { textIn, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 import { todayYYYYMMDD } from "akasha/utils/sync/today/today.module.code.ts"
-
-const INPUT = 1
-
-const DATA = 2
-
-const OPERATIONAL = 3
 
 const ARTIST = "artist"
 
@@ -82,8 +82,6 @@ const VALUED = [NAME, MBID, LIMIT]
 const BARE = [JSON_SAID]
 
 const UNNAMED = `this call names no artist — say one after the command, or at \`${NAME}\` or \`${MBID}\``
-
-const WRONG = 3
 
 export const WRITE = "change-mechanical/add-file-of-any-kind"
 
@@ -453,7 +451,7 @@ export async function musicImportArtist(
   if ("refused" in found) return refused(found.refused, DATA)
   const landed = await landing(given.root, found.changes, messageOf(found.said))
   const wrong = "refusals" in landed ? landed.refusals : landed.wrong
-  if (wrong.length > 0) return answering([], wrong, WRONG)
+  if (wrong.length > 0) return answering([], wrong, OPERATIONAL)
   const wrote = "refusals" in landed ? [] : landed.landed.map((one) => `wrote ${one}`)
-  return answering(held.json ? [jsonOf(found.said)] : [...rowsOf(found.said), ...wrote], [], 0)
+  return answering(held.json ? [jsonOf(found.said)] : [...rowsOf(found.said), ...wrote], [], OK)
 }
