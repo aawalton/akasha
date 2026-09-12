@@ -32,5 +32,13 @@ export const removeUnusedExportKeywords = {
       invariantKind: "departure",
       statement: "A run drops the keyword in at most the count of files handed in.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A path handed in to leave alone keeps every keyword that path has.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The files are walked in the order their paths sort.",
+    },
   ],
 } as const satisfies ChangeAgent

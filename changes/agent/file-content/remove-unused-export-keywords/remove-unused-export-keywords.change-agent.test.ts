@@ -66,6 +66,12 @@ test("a run capped at no file drops no keyword", async () => {
   expect((await removeUnusedExportKeywords(world, 0)).edits).toEqual([])
 })
 
+test("a path left alone keeps every keyword it has", async () => {
+  const world = worldOver({ [AT]: TEXT }, [])
+
+  expect((await removeUnusedExportKeywords(world, MOST, new Set([AT]))).edits).toEqual([])
+})
+
 test("a value another file names keeps its keyword", async () => {
   const world = worldOver({ [AT]: TEXT, [READER]: READER_TEXT }, [READER])
 

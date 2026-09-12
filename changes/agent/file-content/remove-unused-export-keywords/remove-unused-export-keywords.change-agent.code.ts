@@ -17,6 +17,8 @@ const DROP = "change-mechanical-file-content/remove-export-keyword"
 
 const MOST = "most"
 
+const BUT = "but"
+
 function surplusIn(world: World, pageTypes: ReadonlySet<string>, path: string): readonly string[] {
   const text = world.textOf(path)
   if (text === null) return []
@@ -31,12 +33,16 @@ function surplusIn(world: World, pageTypes: ReadonlySet<string>, path: string): 
   return droppableIn(path, text, named)
 }
 
-export async function removeUnusedExportKeywords(world: World, most: number): Promise<Answer> {
+export async function removeUnusedExportKeywords(
+  world: World,
+  most: number,
+  but: ReadonlySet<string> = new Set()
+): Promise<Answer> {
   const pageTypes = world.index.pageTypesIn()
   const answers: Answer[] = []
-  for (const path of world.index.everyPath()) {
+  for (const path of [...world.index.everyPath()].sort()) {
     if (answers.length >= most) break
-    if (!typed(path)) continue
+    if (!typed(path) || but.has(path)) continue
     const names = surplusIn(world, pageTypes, path)
     if (names.length === 0) continue
     answers.push((await reach(world, DROP, { at: path, names })).said)
@@ -46,11 +52,21 @@ export async function removeUnusedExportKeywords(world: World, most: number): Pr
 
 export type Asked = Readonly<Record<string, string>>
 
-export const takes: readonly string[] = [MOST]
+export const takes: readonly string[] = [MOST, BUT]
+
+function leftAlone(said: string | undefined): ReadonlySet<string> {
+  if (said === undefined) return new Set()
+  return new Set(
+    said
+      .split("\n")
+      .map((one) => one.trim())
+      .filter((one) => one.length > 0)
+  )
+}
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   for (const key of Object.keys(given)) {
-    if (key !== MOST) return refusing(untaken(key, takes))
+    if (key !== MOST && key !== BUT) return refusing(untaken(key, takes))
   }
   const said = given[MOST]
   if (said === undefined) return refusing(missing(MOST))
@@ -58,5 +74,5 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (!Number.isInteger(most) || most < 1) {
     return refusing(`\`${said}\` is no count of files to drop the keyword in`)
   }
-  return await removeUnusedExportKeywords(world, most)
+  return await removeUnusedExportKeywords(world, most, leftAlone(given[BUT]))
 }
