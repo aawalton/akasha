@@ -48,5 +48,10 @@ export const inferenceRun = {
       statement:
         "A command recording a run stops at that refusal before reaching anything it would record.",
     },
+    {
+      invariantKind: "gap",
+      statement:
+        "Whoever makes a row land mends the six `inference` commands holding a report beside the guard's.",
+    },
   ],
 } as const satisfies Domain
