@@ -8,7 +8,6 @@ export const apnsPushNotifier = {
   runs: [
     "bun alan/harness/alanwalton-ios-notification/push-notifying/push-notifying.module.code.ts",
   ],
-  starts: [{ code: "module/push-notifying" }],
   enabled: true,
   needsSecrets: true,
   systemd: {

@@ -8,7 +8,6 @@ export const serviceWatching = {
   runs: [
     "bun infrastructure/services/workstations/service-watching/service-watching.module.code.ts",
   ],
-  starts: [{ code: "module/service-watching" }],
   enabled: true,
   systemd: {
     schedule: "*:*:00",

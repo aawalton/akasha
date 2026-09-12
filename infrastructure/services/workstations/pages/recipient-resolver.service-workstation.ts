@@ -7,7 +7,6 @@ export const recipientResolver = {
   definition:
     "the service resolving each message's recipient and seating an agent in the seat named",
   runs: [],
-  starts: [{ code: "module/recipient-resolver-running" }],
   enabled: true,
   systemd: {
     restartDelaySeconds: 5,

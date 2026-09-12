@@ -8,7 +8,6 @@ export const sendDueReminders = {
   runs: [
     "bun alan/harness/reminder-system/due-reminder-sending/due-reminder-sending.module.code.ts",
   ],
-  starts: [{ code: "module/due-reminder-sending" }],
   enabled: true,
   systemd: {
     schedule: "minutely",

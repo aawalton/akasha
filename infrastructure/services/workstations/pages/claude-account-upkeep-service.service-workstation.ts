@@ -8,7 +8,6 @@ export const claudeAccountUpkeepService = {
   runs: [
     "bun agents/claude-accounts/modules/account-upkeep-running/account-upkeep-running.module.code.ts",
   ],
-  starts: [{ code: "module/account-upkeep-running" }],
   enabled: true,
   systemd: {
     restartDelaySeconds: 10,

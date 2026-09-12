@@ -1,10 +1,9 @@
 import { expect, mock, test } from "bun:test"
-import { costRelayService } from "akasha/alan/harness/cost/relay-service/cost-relay-service.service-workstation.ts"
 import type { Carry } from "akasha/alan/harness/readouts/relay-carrying/readout-relay-carrying.module.code.ts"
 
-const SHOWN_ON = costRelayService.starts.map((one) => one.arguments[0])
+const SHOWN_ON = ["https://alanwalton.com", "https://smilingjenny.me"]
 
-const MULTIPLIER = costRelayService.starts[0].pages[0]
+const MULTIPLIER = "readout/cost-multiplier"
 
 const TRAIL: string[] = []
 
@@ -48,12 +47,12 @@ test("the run is the only way into this file, so the service has one entry", () 
   expect(Object.keys(running)).toEqual(["runService"])
 })
 
-test("a run names every site the page names, in the order the page names them", async () => {
+test("a run carries the cost to every site showing it, in one order", async () => {
   await afterOneRun()
   expect(TRAIL).toEqual(SHOWN_ON)
 })
 
-test("the point named is the multiplier the page states rather than a path spelled here", async () => {
+test("the point carried is the multiplier named as a page rather than a path spelled here", async () => {
   await afterOneRun()
   expect([...POINTS_SEEN]).toEqual([MULTIPLIER])
 })

@@ -6,7 +6,6 @@ export const royalRoadSync = {
   slug: "royal-road-sync",
   definition: "the service syncing Royal Road chapters",
   runs: ["bun alan/collections/royal-road/syncing/royal-road-syncing.module.code.ts --commit"],
-  starts: [{ code: "module/royal-road-syncing", arguments: ["--commit"] }],
   enabled: true,
   needsSecrets: false,
   systemd: {

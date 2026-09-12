@@ -9,20 +9,6 @@ export const plantsRelayService = {
     "-bun alan/harness/readouts/relay/readout-relay.module.code.ts alan/harness/readouts/pages/upkeep-plants/upkeep-plants.readout.ts https://alanwalton.com",
     "-bun alan/harness/readouts/relay/readout-relay.module.code.ts alan/harness/readouts/pages/upkeep-plants/upkeep-plants.readout.ts https://smilingjenny.me",
   ],
-  starts: [
-    {
-      code: "module/readout-relay",
-      pages: ["readout/upkeep-plants"],
-      arguments: ["https://alanwalton.com"],
-      lenient: true,
-    },
-    {
-      code: "module/readout-relay",
-      pages: ["readout/upkeep-plants"],
-      arguments: ["https://smilingjenny.me"],
-      lenient: true,
-    },
-  ],
   enabled: true,
   needsSecrets: true,
   systemd: {

@@ -6,7 +6,6 @@ export const activeCaloriesService = {
   slug: "active-calories-service",
   definition: "the service writing the calories Alan burned moving onto the days he burned them",
   runs: ["bun alan/track/daily/day-active-calories/day-active-calories.module.code.ts"],
-  starts: [{ code: "module/day-active-calories" }],
   enabled: true,
   systemd: {
     schedule: "*:0/10",

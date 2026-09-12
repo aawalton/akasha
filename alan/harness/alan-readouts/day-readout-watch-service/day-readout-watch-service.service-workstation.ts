@@ -6,7 +6,6 @@ export const dayReadoutWatchService = {
   slug: "day-readout-watch-service",
   definition: "the service taking Alan's day readings again the moment his day changes",
   runs: ["bun alan/harness/alan-readouts/day-readout-watching/day-readout-watching.module.code.ts"],
-  starts: [{ code: "module/day-readout-watching" }],
   enabled: true,
   needsSecrets: true,
   worksWithinSeconds: 900,

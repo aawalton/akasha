@@ -6,7 +6,6 @@ export const alanEmailWorker = {
   slug: "alan-email-worker",
   definition: "the service deciding Alan's mail against his email rules",
   runs: ["bun alan/harness/email-watch/inbox-watching/inbox-watching.module.code.ts"],
-  starts: [{ code: "module/inbox-watching" }],
   enabled: true,
   needsSecrets: true,
   systemd: {

@@ -8,7 +8,6 @@ export const claudeAccountUpkeepStall = {
   runs: [
     "bun agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.code.ts --notify",
   ],
-  starts: [{ code: "module/account-upkeep-stall-reading", arguments: ["--notify"] }],
   enabled: true,
   systemd: {
     schedule: "*:0/30",

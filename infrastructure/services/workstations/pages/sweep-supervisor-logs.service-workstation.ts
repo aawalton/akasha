@@ -6,7 +6,6 @@ export const sweepSupervisorLogs = {
   slug: "sweep-supervisor-logs",
   definition: "the service removing the log directory of every supervisor whose seat is gone",
   runs: [],
-  starts: [{ code: "module/supervisor-log-sweeping", arguments: ["--remove"] }],
   enabled: true,
   systemd: {
     schedule: "daily",

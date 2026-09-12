@@ -7,7 +7,6 @@ export const maintainSeatPending = {
   definition:
     "the service keeping each seat's pending parts true between one turn end and the next",
   runs: [],
-  starts: [{ code: "module/pending-maintaining" }],
   enabled: true,
   systemd: {
     restartDelaySeconds: 10,

@@ -6,7 +6,6 @@ export const inboxTrackingPoll = {
   slug: "inbox-tracking-poll",
   definition: "the service refreshing the inbox counts the statusline shows",
   runs: ["bun alan/harness/inboxes/tracking-polling/inbox-tracking-polling.module.code.ts"],
-  starts: [{ code: "module/inbox-tracking-polling" }],
   enabled: true,
   needsSecrets: true,
   systemd: {

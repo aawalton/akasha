@@ -8,7 +8,6 @@ export const reposEmptyDirPurge = {
   runs: [
     "bash code/shell-scripts/pages/repos-empty-dir-purge/repos-empty-dir-purge.shell-script.shell.sh",
   ],
-  starts: [{ code: "shell-script/repos-empty-dir-purge" }],
   enabled: false,
   systemd: {
     schedule: "daily",

@@ -6,7 +6,6 @@ export const wanderingInnSync = {
   slug: "wandering-inn-sync",
   definition: "the service filing each new Wandering Inn chapter as a page",
   runs: ["bun story/wandering-inn/syncing/syncing.module.code.ts"],
-  starts: [{ code: "module/syncing" }],
   enabled: true,
   needsSecrets: false,
   systemd: {

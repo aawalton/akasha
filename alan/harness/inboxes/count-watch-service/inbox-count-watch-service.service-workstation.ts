@@ -8,7 +8,6 @@ export const inboxCountWatchService = {
   runs: [
     "bun alan/harness/inboxes/count-watch/inbox-count-watch.module.code.ts https://alanwalton.com",
   ],
-  starts: [{ code: "module/inbox-count-watch", arguments: ["https://alanwalton.com"] }],
   enabled: true,
   needsSecrets: true,
   systemd: {

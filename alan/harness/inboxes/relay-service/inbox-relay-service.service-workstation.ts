@@ -10,26 +10,6 @@ export const inboxRelayService = {
     "-bun alan/harness/readouts/relay/readout-relay.module.code.ts alan/harness/readouts/pages/inboxes-tasks/inboxes-tasks.readout.ts https://alanwalton.com",
     "-bun alan/harness/readouts/relay/readout-relay.module.code.ts temper/progressions/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts https://alanwalton.com",
   ],
-  starts: [
-    {
-      code: "module/readout-relay",
-      pages: ["readout/inboxes-email"],
-      arguments: ["https://alanwalton.com"],
-      lenient: true,
-    },
-    {
-      code: "module/readout-relay",
-      pages: ["readout/inboxes-tasks"],
-      arguments: ["https://alanwalton.com"],
-      lenient: true,
-    },
-    {
-      code: "module/readout-relay",
-      pages: ["readout/inboxes-temper-tasks"],
-      arguments: ["https://alanwalton.com"],
-      lenient: true,
-    },
-  ],
   enabled: true,
   needsSecrets: true,
   systemd: {

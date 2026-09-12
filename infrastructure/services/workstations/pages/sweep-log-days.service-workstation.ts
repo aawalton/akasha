@@ -6,7 +6,6 @@ export const sweepLogDays = {
   slug: "sweep-log-days",
   definition: "the service removing every log day past the window a log is kept for",
   runs: [],
-  starts: [{ code: "module/log-day-sweeping", arguments: ["--remove"] }],
   enabled: true,
   systemd: {
     schedule: "daily",

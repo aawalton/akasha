@@ -9,20 +9,6 @@ export const surplusRelayService = {
     "-bun alan/harness/readouts/relay/readout-relay.module.code.ts alan/harness/readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts https://alanwalton.com",
     "-bun alan/harness/readouts/relay/readout-relay.module.code.ts alan/harness/readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts https://smilingjenny.me",
   ],
-  starts: [
-    {
-      code: "module/readout-relay",
-      pages: ["readout/upkeep-surplus"],
-      arguments: ["https://alanwalton.com"],
-      lenient: true,
-    },
-    {
-      code: "module/readout-relay",
-      pages: ["readout/upkeep-surplus"],
-      arguments: ["https://smilingjenny.me"],
-      lenient: true,
-    },
-  ],
   enabled: true,
   needsSecrets: true,
   systemd: {

@@ -9,20 +9,6 @@ export const costRelayService = {
     "-bun alan/harness/readouts/relay/readout-relay.module.code.ts alan/harness/readouts/pages/cost-multiplier/cost-multiplier.readout.ts https://alanwalton.com",
     "-bun alan/harness/readouts/relay/readout-relay.module.code.ts alan/harness/readouts/pages/cost-multiplier/cost-multiplier.readout.ts https://smilingjenny.me",
   ],
-  starts: [
-    {
-      code: "module/readout-relay",
-      pages: ["readout/cost-multiplier"],
-      arguments: ["https://alanwalton.com"],
-      lenient: true,
-    },
-    {
-      code: "module/readout-relay",
-      pages: ["readout/cost-multiplier"],
-      arguments: ["https://smilingjenny.me"],
-      lenient: true,
-    },
-  ],
   enabled: true,
   needsSecrets: true,
   systemd: {
