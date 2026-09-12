@@ -1,10 +1,10 @@
-import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import {
   type CompanionWeaponTypeId,
   ONE_HANDED_MELEE_WEAPONS,
 } from "akasha/temper/companions-core/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { companionArmorSlots } from "akasha/temper/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"
 import type { CompanionArmorWeight } from "akasha/temper/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
+import type { CompanionState } from "akasha/temper/companions-core/modules/companion-types/companion-types.module.code.ts"
 import {
   type CompanionSkillLineId,
   companionSkillLines,

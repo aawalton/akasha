@@ -1,4 +1,4 @@
-import type { CompanionTraitId } from "akasha/temper/companions-core/companion-traits/companion-traits.module.code.ts"
+import type { CompanionTraitId } from "akasha/temper/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 
 export const ESO_WEAPON_TRAIT_TO_COMPANION_TRAIT: Record<number, CompanionTraitId> = {
   34: "quickened",

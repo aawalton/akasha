@@ -3,7 +3,7 @@ import type { Page } from "akasha/temper/addon-generators/modules/addon-data-pag
 import { ranksOf } from "akasha/temper/addon-generators/rank-by-key/rank-by-key.module.code.ts"
 import { renderConstOrNull } from "akasha/temper/addon-generators/render-const-or-null/render-const-or-null.module.code.ts"
 import { renderQualityValues } from "akasha/temper/addon-generators/render-quality-values/render-quality-values.module.code.ts"
-import { companionTraits } from "akasha/temper/companions-core/companion-traits/companion-traits.module.code.ts"
+import { companionTraits } from "akasha/temper/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import { z } from "zod"
 
 const FLAT_QUALITY_VALUES_SCHEMA = z

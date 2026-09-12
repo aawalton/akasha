@@ -1,5 +1,4 @@
 import { targetArmor } from "akasha/temper/character-sources/target-armors/target-armors.module.code.ts"
-import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import {
   COMPANION_METRIC_IDS,
   type CompanionMetricId,
@@ -15,6 +14,7 @@ import {
   EMPTY_BASELINE,
   type ReferenceBaseline,
 } from "akasha/temper/companions-core/modules/companion-support-types/companion-support-types.module.code.ts"
+import type { CompanionState } from "akasha/temper/companions-core/modules/companion-types/companion-types.module.code.ts"
 
 export function computeReferenceBaseline(build: CompanionState): ReferenceBaseline {
   const result = calculateCompanionStatsWithBaseline(build, EMPTY_BASELINE)

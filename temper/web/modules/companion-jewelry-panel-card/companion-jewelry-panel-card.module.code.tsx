@@ -13,11 +13,6 @@ import {
 } from "akasha/design/interfaces/primitives/select-control/select-control.module.code.tsx"
 import { groupByCount } from "akasha/temper/build-support/row-grouping/row-grouping.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
-import {
-  type CompanionTraitId,
-  companionTraits,
-} from "akasha/temper/companions-core/companion-traits/companion-traits.module.code.ts"
-import type { CompanionJewelrySlotItem } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import { getCompanionJewelryIcon } from "akasha/temper/companions-core/modules/companion-equipment-icons/companion-equipment-icons.module.code.ts"
 import type { CompanionEquipmentQualityId } from "akasha/temper/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 import { companionEquipmentQualities } from "akasha/temper/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
@@ -30,6 +25,11 @@ import {
   type CompanionJewelrySlotId,
   companionJewelrySlots,
 } from "akasha/temper/companions-core/modules/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
+import {
+  type CompanionTraitId,
+  companionTraits,
+} from "akasha/temper/companions-core/modules/companion-traits/companion-traits.module.code.ts"
+import type { CompanionJewelrySlotItem } from "akasha/temper/companions-core/modules/companion-types/companion-types.module.code.ts"
 import {
   getQualityClassName,
   getQualityVariant,

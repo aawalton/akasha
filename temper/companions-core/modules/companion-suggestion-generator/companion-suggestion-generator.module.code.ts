@@ -1,5 +1,3 @@
-import { companionTraits } from "akasha/temper/companions-core/companion-traits/companion-traits.module.code.ts"
-import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import { getValidSkillIds } from "akasha/temper/companions-core/companion-valid-skills/companion-valid-skills.module.code.ts"
 import { companionWeaponSlots } from "akasha/temper/companions-core/companion-weapon-slots/companion-weapon-slots.module.code.ts"
 import { companionArmorSlots } from "akasha/temper/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"
@@ -18,6 +16,8 @@ import {
   companionSkillSlots,
 } from "akasha/temper/companions-core/modules/companion-skill-slots/companion-skill-slots.module.code.ts"
 import { companionSkills } from "akasha/temper/companions-core/modules/companion-skills/companion-skills.module.code.ts"
+import { companionTraits } from "akasha/temper/companions-core/modules/companion-traits/companion-traits.module.code.ts"
+import type { CompanionState } from "akasha/temper/companions-core/modules/companion-types/companion-types.module.code.ts"
 
 export interface CompanionSuggestion {
   type: "trait" | "quality" | "skill"

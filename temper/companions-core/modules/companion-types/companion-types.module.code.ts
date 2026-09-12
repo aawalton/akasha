@@ -1,5 +1,4 @@
 import type { TargetArmorId } from "akasha/temper/character-sources/target-armors/target-armors.module.code.ts"
-import type { CompanionTraitId } from "akasha/temper/companions-core/companion-traits/companion-traits.module.code.ts"
 import type { CompanionWeaponSlotId } from "akasha/temper/companions-core/companion-weapon-slots/companion-weapon-slots.module.code.ts"
 import type { CompanionWeaponTypeId } from "akasha/temper/companions-core/companion-weapon-types/companion-weapon-types.module.code.ts"
 import type { CompanionId } from "akasha/temper/companions-core/companions/companions.module.code.ts"
@@ -10,6 +9,7 @@ import type { CompanionEquipmentQualityId } from "akasha/temper/companions-core/
 import type { CompanionJewelrySlotId } from "akasha/temper/companions-core/modules/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
 import type { CompanionSkillSlotId } from "akasha/temper/companions-core/modules/companion-skill-slots/companion-skill-slots.module.code.ts"
 import type { CompanionSkillId } from "akasha/temper/companions-core/modules/companion-skills/companion-skills.module.code.ts"
+import type { CompanionTraitId } from "akasha/temper/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import type { BuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 
 interface CompanionArmorItem {

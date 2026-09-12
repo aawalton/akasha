@@ -1,6 +1,3 @@
-import type { CompanionTraitId } from "akasha/temper/companions-core/companion-traits/companion-traits.module.code.ts"
-import { companionTraits } from "akasha/temper/companions-core/companion-traits/companion-traits.module.code.ts"
-import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import { companionWeaponSlots } from "akasha/temper/companions-core/companion-weapon-slots/companion-weapon-slots.module.code.ts"
 import type { CompanionWeaponTypeId } from "akasha/temper/companions-core/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { companionWeaponTypes } from "akasha/temper/companions-core/companion-weapon-types/companion-weapon-types.module.code.ts"
@@ -13,6 +10,9 @@ import {
   ESO_WEAPON_TRAIT_TO_COMPANION_TRAIT,
 } from "akasha/temper/companions-core/modules/companion-eso-trait-map/companion-eso-trait-map.module.code.ts"
 import { companionJewelrySlots } from "akasha/temper/companions-core/modules/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
+import type { CompanionTraitId } from "akasha/temper/companions-core/modules/companion-traits/companion-traits.module.code.ts"
+import { companionTraits } from "akasha/temper/companions-core/modules/companion-traits/companion-traits.module.code.ts"
+import type { CompanionState } from "akasha/temper/companions-core/modules/companion-types/companion-types.module.code.ts"
 import {
   ESO_EQUIP_TYPES,
   ESO_QUALITY_TO_COMPANION_QUALITY,

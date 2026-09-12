@@ -1,4 +1,4 @@
-import { companionTraits } from "akasha/temper/companions-core/companion-traits/companion-traits.module.code.ts"
+import { companionTraits } from "akasha/temper/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import { jewelryTraits } from "akasha/temper/equipment/jewelry-traits/jewelry-traits.module.code.ts"
 import { armorTraits } from "akasha/temper/equipment/modules/armor-traits/armor-traits.module.code.ts"
 import { weaponTraits } from "akasha/temper/equipment/weapon-traits/weapon-traits.module.code.ts"

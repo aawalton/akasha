@@ -18,7 +18,7 @@ import { usePagesUIRouter } from "akasha/pages/ui/navigation-context/navigation-
 import { extractCompanionMetadata } from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
 import { companionUrl } from "akasha/temper/build-support/modules/build-url/build-url.module.code.ts"
 import { encodeCompanion } from "akasha/temper/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
-import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
+import type { CompanionState } from "akasha/temper/companions-core/modules/companion-types/companion-types.module.code.ts"
 import {
   useCompanionLifecycle,
   useCompanionList,

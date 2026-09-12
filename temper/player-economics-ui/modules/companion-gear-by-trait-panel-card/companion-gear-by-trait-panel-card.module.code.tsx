@@ -5,8 +5,8 @@ import { ButtonBadge } from "akasha/design/interfaces/badges/modules/button-badg
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
 import { ItemRow } from "akasha/design/interfaces/patterns/item-row/item-row.module.code.tsx"
 import { CardTitleBadges } from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
-import { companionTraits } from "akasha/temper/companions-core/companion-traits/companion-traits.module.code.ts"
 import { companionEquipmentQualities } from "akasha/temper/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
+import { companionTraits } from "akasha/temper/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import {
   getQualityClassName,
   getQualityVariant,

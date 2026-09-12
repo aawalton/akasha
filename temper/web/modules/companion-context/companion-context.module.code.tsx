@@ -12,7 +12,7 @@ import {
   decodeCompanion,
   encodeCompanion,
 } from "akasha/temper/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
-import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
+import type { CompanionState } from "akasha/temper/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { useCompanion as useCompanionZero } from "akasha/temper/companions-ui/use-companions/use-companions.module.code.ts"
 import type { BuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"

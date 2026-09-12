@@ -12,7 +12,7 @@ import {
   type TargetArmorId,
   targetArmor,
 } from "akasha/temper/character-sources/target-armors/target-armors.module.code.ts"
-import type { CompanionTargetHealthId } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
+import type { CompanionTargetHealthId } from "akasha/temper/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { useCompanionMetadata } from "akasha/temper/web/use-companion/use-companion.module.code.ts"
 
 interface CompanionTargetPanelCardProps {

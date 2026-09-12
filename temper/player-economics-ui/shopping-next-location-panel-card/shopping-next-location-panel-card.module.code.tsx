@@ -7,7 +7,7 @@ import { ItemRow } from "akasha/design/interfaces/patterns/item-row/item-row.mod
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { CardTitleBadges } from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
-import { companionTraits } from "akasha/temper/companions-core/companion-traits/companion-traits.module.code.ts"
+import { companionTraits } from "akasha/temper/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import { formatGold } from "akasha/temper/player-economics-ui/modules/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
 import type { LocationPurchase } from "akasha/temper/player-economics-ui/shopping-optimizer-types/shopping-optimizer-types.module.code.ts"
 import { TTC_QUALITY_TEXT_CLASSES } from "akasha/temper/shopping/ttc-quality-text-classes/ttc-quality-text-classes.module.code.ts"

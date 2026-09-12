@@ -1,4 +1,3 @@
-import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import {
   type CompanionWeaponRoleId,
   companionWeaponRoles,
@@ -7,6 +6,7 @@ import {
   type CompanionWeaponTypeId,
   companionWeaponTypes,
 } from "akasha/temper/companions-core/companion-weapon-types/companion-weapon-types.module.code.ts"
+import type { CompanionState } from "akasha/temper/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { randomFrom } from "akasha/temper/formula-framework/random-from/random-from.module.code.ts"
 
 const NO_WEAPON_ROLE: CompanionWeaponRoleId = "no-weapon-role"

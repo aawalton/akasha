@@ -1,6 +1,4 @@
 import { targetArmor } from "akasha/temper/character-sources/target-armors/target-armors.module.code.ts"
-import { getCompanionTraitMetricEffect } from "akasha/temper/companions-core/companion-traits/companion-traits.module.code.ts"
-import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import {
   getCompanionShieldArmorValue,
   getCompanionWeaponBaseDamage,
@@ -18,6 +16,8 @@ import {
   type CompanionSkillId,
   companionSkills,
 } from "akasha/temper/companions-core/modules/companion-skills/companion-skills.module.code.ts"
+import { getCompanionTraitMetricEffect } from "akasha/temper/companions-core/modules/companion-traits/companion-traits.module.code.ts"
+import type { CompanionState } from "akasha/temper/companions-core/modules/companion-types/companion-types.module.code.ts"
 import type { SourceCategoryId } from "akasha/temper/formula-framework/source-category/source-category.module.code.ts"
 
 export interface CompanionEffectSource {

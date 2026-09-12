@@ -12,7 +12,6 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interfaces/primitives/select-control/select-control.module.code.tsx"
-import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import {
   type CompanionId,
   companions,
@@ -21,6 +20,7 @@ import {
   type CompanionBaseRoleId,
   companionBaseRoles,
 } from "akasha/temper/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
+import type { CompanionState } from "akasha/temper/companions-core/modules/companion-types/companion-types.module.code.ts"
 
 interface CompanionPanelProps {
   companion: CompanionState["companion"]
