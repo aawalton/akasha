@@ -1,14 +1,20 @@
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { charactersPath as charactersPathArgument } from "akasha/commands/arguments/pages/characters-path.argument.ts"
+import { inventoryPath as inventoryPathArgument } from "akasha/commands/arguments/pages/inventory-path.argument.ts"
+import { json as jsonArgument } from "akasha/commands/arguments/pages/json.argument.ts"
+import { loginChecklist as loginChecklistArgument } from "akasha/commands/arguments/pages/login-checklist.argument.ts"
 import {
   DATA,
   OPERATIONAL,
   refused,
-  refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { temperInventoryPlan as page } from "akasha/commands/pages/temper/inventory/plan/temper-inventory-plan.command.ts"
 import type { CharacterKnowledge } from "akasha/temper/commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import {
   capacityFilter,
@@ -33,65 +39,13 @@ import type {
 } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 
-const INVENTORY_PATH = "--inventory-path"
-
-const CHARACTERS_PATH = "--characters-path"
-
-const JSON_FLAG = "--json"
-
-const CHECKLIST = "--checklist"
+const NAMED = [jsonArgument, inventoryPathArgument, charactersPathArgument, loginChecklistArgument]
 
 const INVENTORY_LUA = "TemperInventory.lua"
 
 const SPACES = 2
 
 const PLAN_HEADER = "[TemperInventory] Plan:"
-
-export type Read =
-  | {
-      readonly inventoryPath: string | null
-      readonly charactersPath: string | null
-      readonly json: boolean
-      readonly checklist: boolean
-    }
-  | { readonly refused: readonly string[] }
-
-export function readIn(argv: readonly string[]): Read {
-  const refusals: string[] = []
-  let inventoryPath: string | null = null
-  let charactersPath: string | null = null
-  let json = false
-  let checklist = false
-  for (let at = 0; at < argv.length; at += 1) {
-    const one = argv[at]
-    if (one === undefined) continue
-    if (one === JSON_FLAG) {
-      json = true
-      continue
-    }
-    if (one === CHECKLIST) {
-      checklist = true
-      continue
-    }
-    if (one === INVENTORY_PATH || one === CHARACTERS_PATH) {
-      const value = argv[at + 1]
-      at += 1
-      if (value === undefined) {
-        refusals.push(`\`${one}\` takes a value, and none followed it`)
-        continue
-      }
-      if (one === INVENTORY_PATH) inventoryPath = value
-      else charactersPath = value
-      continue
-    }
-    refusals.push(
-      `\`${one}\` is nothing this takes — it takes \`${INVENTORY_PATH}\`, ` +
-        `\`${CHARACTERS_PATH}\`, \`${JSON_FLAG}\` and \`${CHECKLIST}\``
-    )
-  }
-  if (refusals.length > 0) return { refused: refusals }
-  return { inventoryPath, charactersPath, json, checklist }
-}
 
 function verbOf(action: string, destination: string | undefined): string {
   switch (action) {
@@ -189,23 +143,21 @@ function classifiedFor(
   return out
 }
 
-export async function temperInventoryPlan(
-  argv: readonly string[] = [],
-  given?: Given
-): Promise<Answer> {
-  const read = readIn(argv)
-  if ("refused" in read) return refusedBy(read.refused)
-  const root = given === undefined ? process.cwd() : resolve(given.root)
+export async function temperInventoryPlan(argv: readonly string[], given: Given): Promise<Answer> {
+  const read = takenFor(argv, given.calledAs, page, NAMED)
+  if ("refused" in read) return mistaking(read.refused)
+  const taken = read.taken
+  const root = resolve(given.root)
   try {
     const inputs = await planInputs()
     const inventoryPath =
-      read.inventoryPath === null
+      taken.inventoryPath === undefined
         ? inputs.DEFAULT_INVENTORY_PATH
-        : resolve(root, read.inventoryPath)
+        : resolve(root, taken.inventoryPath)
     const charactersPath =
-      read.charactersPath === null
+      taken.charactersPath === undefined
         ? inputs.DEFAULT_CHARACTERS_PATH
-        : resolve(root, read.charactersPath)
+        : resolve(root, taken.charactersPath)
     let content: string
     try {
       content = await readFile(inventoryPath, "utf8")
@@ -249,10 +201,10 @@ export async function temperInventoryPlan(
       db
     )
     const plan = builder.buildManagementPlan(orderedRules, itemRules, filtered, db, context)
-    if (read.json) {
+    if (taken.json) {
       return told(JSON.stringify(plan, null, SPACES).split("\n"))
     }
-    if (read.checklist) {
+    if (taken.loginChecklist) {
       const said = (await planChecklist()).formatPlanChecklist(plan)
       return told(said.replace(/\n+$/, "").split("\n"))
     }

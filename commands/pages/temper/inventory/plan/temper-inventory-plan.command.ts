@@ -6,6 +6,7 @@ export const temperInventoryPlan = {
   slug: "temper-inventory-plan",
   definition: "the command working out the management plan the addon would carry out",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
