@@ -5,6 +5,7 @@ import {
   notices,
   render,
 } from "akasha/agents/messaging/notices/compose-notices/compose-notices.module.code.ts"
+import { output } from "akasha/commands/arguments/pages/output.argument.ts"
 import {
   INPUT,
   OPERATIONAL,
@@ -12,9 +13,7 @@ import {
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { ROOT_NAMED } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import {
-  OUTPUT,
   pathOf,
-  readIn,
   saidOf,
   seatComposeNotices,
 } from "akasha/commands/pages/seat/compose-notices/seat-compose-notices.command.code.ts"
@@ -98,28 +97,6 @@ test("what the module refuses to compose is what the command refuses with", () =
   }
 })
 
-test("a call naming nothing writes nowhere and asks for the notices", () => {
-  expect(readIn([])).toEqual({ output: null })
-})
-
-test("`--output` carries the path said after it", () => {
-  expect(readIn([OUTPUT, "/var/tmp/one.json"])).toEqual({ output: "/var/tmp/one.json" })
-})
-
-test("`--output` naming no value is refused rather than writing to nothing", () => {
-  const said = readIn([OUTPUT])
-
-  expect("refused" in said && said.refused[0]).toContain("takes a value")
-})
-
-test("a word this does not take is named in its own refusal", () => {
-  const said = readIn(["--json", "notices"])
-
-  expect("refused" in said && said.refused.length).toBe(2)
-  expect("refused" in said && said.refused[0]).toContain("`--json`")
-  expect("refused" in said && said.refused[1]).toContain("`notices`")
-})
-
 test("a word this does not take refuses as a fault in the call", () => {
   const said = seatComposeNotices(["--help-me"], givenIn(ROOT))
 
@@ -157,7 +134,7 @@ test("named an output path it writes there and says nothing", () => {
   const folder = scratch()
   const at = join(folder, "notices.json")
   try {
-    const said = seatComposeNotices([OUTPUT, at], givenIn(ROOT))
+    const said = seatComposeNotices([output.said, at], givenIn(ROOT))
 
     expect(said.code).toBe(0)
     expect(said.report).toEqual([])

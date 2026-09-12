@@ -1,36 +1,15 @@
 import { writeFileSync } from "node:fs"
 import { isAbsolute, resolve } from "node:path"
 import { notices } from "akasha/agents/messaging/notices/compose-notices/compose-notices.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { output } from "akasha/commands/arguments/pages/output.argument.ts"
 import {
   faulted,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-
-export const OUTPUT = "--output"
-
-export type Read = { readonly output: string | null } | { readonly refused: readonly string[] }
-
-export function readIn(argv: readonly string[]): Read {
-  const refusals: string[] = []
-  let output: string | null = null
-  for (let i = 0; i < argv.length; i += 1) {
-    const one = argv[i]
-    if (one === OUTPUT) {
-      const value = argv[i + 1]
-      if (value === undefined) refusals.push(`\`${OUTPUT}\` takes a value, and none was named`)
-      else {
-        i += 1
-        output = value
-      }
-      continue
-    }
-    refusals.push(`\`${one}\` is no word this takes — it takes \`${OUTPUT} <path>\``)
-  }
-  if (refusals.length > 0) return { refused: refusals }
-  return { output }
-}
+import { seatComposeNotices as page } from "akasha/commands/pages/seat/compose-notices/seat-compose-notices.command.ts"
 
 export function saidOf(found: Readonly<Record<string, string>>): string {
   return JSON.stringify(found, null, 2)
@@ -41,8 +20,9 @@ export function pathOf(said: string, root: string): string {
 }
 
 export function seatComposeNotices(argv: readonly string[], given: Given): Answer {
-  const read = readIn(argv)
+  const read = takenFor(argv, given.calledAs, page, [output])
   if ("refused" in read) return refusedBy(read.refused)
+  const at = read.taken.output
   let found: Readonly<Record<string, string>>
   try {
     found = notices()
@@ -50,9 +30,9 @@ export function seatComposeNotices(argv: readonly string[], given: Given): Answe
     return faulted(thrown)
   }
   try {
-    const json = saidOf(found)
-    if (read.output === null) return told([json])
-    writeFileSync(pathOf(read.output, resolve(given.root)), `${json}\n`)
+    const said = saidOf(found)
+    if (at === undefined) return told([said])
+    writeFileSync(pathOf(at, resolve(given.root)), `${said}\n`)
     return told([])
   } catch (thrown) {
     return faulted(thrown)
