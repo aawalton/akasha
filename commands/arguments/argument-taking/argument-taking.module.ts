@@ -118,5 +118,10 @@ export const argumentTaking = {
       invariantKind: "departure",
       statement: "A command page naming no argument is answered with nothing taken.",
     },
+    {
+      invariantKind: "gap",
+      statement:
+        "A flag the command takes no argument at is refused rather than filling the argument before it.",
+    },
   ],
 } as const satisfies Module

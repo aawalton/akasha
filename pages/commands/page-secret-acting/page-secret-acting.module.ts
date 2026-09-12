@@ -26,21 +26,12 @@ export const pageSecretActing = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag where a value should be is refused rather than read as a value.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A flag with no value is read as said rather than as taking the word after the flag.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A word said as no flag is refused.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "A caller's mistake and the data and an operational fault answer with codes of their own.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reads a command line, which the argument reader reads.",
     },
     {
       invariantKind: "departure",
