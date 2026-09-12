@@ -16,10 +16,6 @@ import {
   readingEnded,
 } from "akasha/commands/modules/commit-reading/commit-reading.module.code.ts"
 import {
-  committed,
-  whileIndexFrees,
-} from "akasha/commands/modules/committing/committing.module.code.ts"
-import {
   clearedOff,
   clearedUnder,
   isFolder,
@@ -62,6 +58,7 @@ import {
 } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
 import { allowedThrough } from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
 import { unitsLanded } from "akasha/commands/modules/unit-landing/unit-landing.module.code.ts"
+import { committed, whileIndexFrees } from "akasha/git/committing/committing.module.code.ts"
 import { gitIgnoring } from "akasha/git/pathspec/git-pathspec.module.code.ts"
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"

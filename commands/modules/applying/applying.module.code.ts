@@ -14,11 +14,6 @@ import type { Given as Arguments } from "akasha/commands/modules/argument-readin
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { preparing } from "akasha/commands/modules/change-preparing/change-preparing.module.code.ts"
 import { bodyAt } from "akasha/commands/modules/commit-reading/commit-reading.module.code.ts"
-import {
-  bypassedIn,
-  glassSaid,
-  unloadableIn,
-} from "akasha/commands/modules/committing/committing.module.code.ts"
 import type { Running } from "akasha/commands/modules/drafting/drafting.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import {
@@ -37,6 +32,11 @@ import {
 import { installingIn } from "akasha/commands/modules/manifest-locking/manifest-locking.module.code.ts"
 import type { FileMove } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import {
+  bypassedIn,
+  glassSaid,
+  unloadableIn,
+} from "akasha/git/committing/committing.module.code.ts"
 import { said as gitSaid } from "akasha/git/running/git-running.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
