@@ -32,6 +32,10 @@ import {
 } from "akasha/agents/seats/modules/resume-verify/resume-verify.module.code.ts"
 import type { ReviveIoVerdict } from "akasha/agents/seats/modules/revive-io-verify-decide/seat-revive-io-verify-decide.module.code.ts"
 import {
+  type TakenSeat,
+  takeoverSeat,
+} from "akasha/agents/seats/modules/takeover-seat/takeover-seat.module.code.ts"
+import {
   dataError,
   exitCodeForThrowable,
   inputError,
@@ -40,10 +44,6 @@ import {
 import { parseArgs } from "akasha/commands/modules/parse-args/parse-args.module.code.ts"
 import { decideSubagentGuard } from "akasha/seat-system/subagent-guard/subagent-guard.module.code.ts"
 import { standingSubagentsOf } from "akasha/seat-system/subagent-page/subagent-page.module.code.ts"
-import {
-  type TakenSeat,
-  takeoverSeat,
-} from "akasha/seat-system/takeover-seat/takeover-seat.module.code.ts"
 import { parseWindowDuration } from "akasha/seat-system/window-duration/window-duration.module.code.ts"
 import { readStdinOrFile } from "akasha/utils/fs/read-stdin-or-file/read-stdin-or-file.module.code.ts"
 import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
