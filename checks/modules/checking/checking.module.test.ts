@@ -55,6 +55,7 @@ import {
   TWO_TS,
   taking,
   UNLOADABLE_CHECK,
+  untaken,
   WHOLE_TREE_CHECKS_TAKE,
 } from "akasha/checks/modules/checking/checking.module.test-fixtures.ts"
 import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
@@ -232,6 +233,11 @@ test("a check no changed path is input to does not run", async () => {
   const said = await judgedIn(TWO_CHECKS, [ONE_MD], [ONE_MD])
   expect(said.map((one) => one.reason)).toEqual(["refused"])
   expect(said.map((one) => one.reason)).not.toContain("ts woke")
+})
+
+test("a change no check takes as input is refused, a run handed a root auditing it clean", async () => {
+  expect((await untaken(false))[0]?.reason).toContain("no check takes this change as input")
+  expect(await untaken(true)).toEqual([])
 })
 
 test("a check stating no input runs over a change its neighbour sleeps through", () => {

@@ -71,6 +71,9 @@ const TAKES_EVERY_CHECK =
 
 const NOT_GATHERED = "could not be gathered, so it judged nothing"
 
+const NONE_TAKES =
+  "no check takes this change as input, so nothing judged it and a clean answer would mean nothing"
+
 const EVERY_PHASE: readonly Phase[] = ["change", "worktree", "deploy", "audit"]
 
 const AT_CHANGE: Phase = "change"
@@ -349,11 +352,15 @@ export function judgingBy(
         return [{ path: first.page, reason: TAKES_EVERY_CHECK }]
       }
       const shadow = shadowAsked(change)
+      const running = checksFor(left, change, shadow)
+      if (running.length === 0 && first !== undefined && wholly === null) {
+        return [{ path: first.page, reason: NONE_TAKES }]
+      }
       const dies = phase === AT_CHANGE ? diesIn(shadow.index.knownIn()) : null
       const sparing = dies === null ? null : sparingOver(change, dies)
       const runId = Bun.randomUUIDv7()
       const said: Judged[] = []
-      for (const one of checksFor(left, change, shadow)) {
+      for (const one of running) {
         const before = opening()
         const found: Judged[] = []
         const audit = auditingOver(one, wholly)

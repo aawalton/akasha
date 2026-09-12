@@ -57,6 +57,15 @@ export const checking = {
     },
     {
       invariantKind: "departure",
+      statement: "A change no check takes as input is refused rather than judged clean.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A run handed a root makes no such refusal, one check taking nothing being a clean verdict.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A check the change takes away runs over no part of that change.",
     },
     {

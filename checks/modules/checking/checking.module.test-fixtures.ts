@@ -437,6 +437,14 @@ export function checksTakenFrom(root: string, slug: string): undefined {
   valueTakenFrom(root, CHECK, slug)
 }
 
+export const INPUT_ONLY_CHECK = [{ slug: "input-ts", runsOn: ["change"], body: INPUT_TS }]
+
+export async function untaken(rooted: boolean): Promise<readonly Judged[]> {
+  const root = rootHolding(INPUT_ONLY_CHECK, [ONE_MD])
+  const held = judgingBy(checksIn(root), rooted ? "audit" : "change", rooted ? root : null)
+  return await held.over(overIn(root, [ONE_MD]))
+}
+
 export const INPUT_THROWS_CHECKS = [
   { slug: "input-throws", runsOn: ["change"], body: INPUT_THROWS },
   { slug: "input-ts", runsOn: ["change"], body: INPUT_TS },
