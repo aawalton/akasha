@@ -32,6 +32,11 @@ export const BESIDE_AT = "akasha/held.domain.uncommitted.ts"
 export const BESIDE_TEXT =
   'export const heldDomainUncommitted = { "held": 1 } as const\nexport const spare = 2\n'
 
+export const ROUTE_AT = "akasha/held.route.code.ts"
+
+export const ROUTE_TEXT =
+  "export function loader(): number {\n  return 1\n}\n\nexport const spare = 2\n"
+
 export const scratch = scratchWorld()
 
 export function rooted(): string {

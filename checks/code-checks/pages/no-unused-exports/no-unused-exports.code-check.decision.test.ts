@@ -16,6 +16,8 @@ import {
   PAGE_AT,
   PAGE_TEXT,
   READER,
+  ROUTE_AT,
+  ROUTE_TEXT,
   readerText,
   reading,
   rooted,
@@ -125,6 +127,10 @@ test("the value a page's uncommitted body holds is spared and another beside it 
 
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("`spare`")
+})
+
+test("a route's code is judged by nothing", () => {
+  expect(judging(landing(rooted(), { [ROUTE_AT]: bytesOf(ROUTE_TEXT) }))).toEqual([])
 })
 
 test("a file the change takes away is passed over", () => {

@@ -33,6 +33,8 @@ const WHOLE = "import("
 
 const HELD = "ts"
 
+const ROUTE = "route"
+
 function toldApart(name: string): boolean {
   return name !== ANYTHING && name !== DEFAULT
 }
@@ -119,6 +121,11 @@ function reasonFor(name: string, named: boolean): string {
   return `exports \`${name}\`, which nothing names — ${REACHED}`
 }
 
+export function routeCode(path: string): boolean {
+  const said = partedIn(path)
+  return said !== null && said.pageType === ROUTE && said.sections.length > 0
+}
+
 export function sparedIn(path: string, pageTypes: ReadonlySet<string>): string | null {
   const said = partedIn(path)
   if (said === null || !pageTypes.has(said.pageType)) return null
@@ -173,7 +180,7 @@ export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] 
   const pageTypes = pageTypesFor(shadow)
   const judged: Judged[] = []
   for (const path of change.changed) {
-    if (!typeScripted(path)) continue
+    if (!typeScripted(path) || routeCode(path)) continue
     const text = textIn(change, path)
     if (text === null) continue
     const spared = sparedIn(path, pageTypes)

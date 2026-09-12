@@ -102,6 +102,11 @@ export const noUnusedExports = {
       invariantKind: "departure",
       statement: "The value a page's uncommitted body holds is spared.",
     },
+    { invariantKind: "departure", statement: "A route's code is judged by nothing." },
+    {
+      invariantKind: "gap",
+      statement: "A value only a request from outside this repository reaches reads as unreached.",
+    },
   ],
   check: { maxCpuSeconds: 30 },
   audit: { maxCpuSeconds: 120 },
