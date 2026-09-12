@@ -157,7 +157,7 @@ test("a page type the change takes away is not judged", () => {
   expect(said).toEqual([])
 })
 
-test("a page type the index does not list by slug is judged from the value gathered for it", () => {
+test("a page type the index does not list by slug is judged by nothing", () => {
   const root = rooted()
   typed(root, "held", null, ["mine"], [])
   typed(root, "other", null, ["its"], [`${TEXT}/its`])
@@ -165,9 +165,7 @@ test("a page type the index does not list by slug is judged from the value gathe
   const said = judgedBy(
     landing(root, { [pathFor("other")]: bytesOf("other", null, ["its"], [`${TEXT}/its`]) })
   )
-  expect(said).toHaveLength(1)
-  expect(said[0]?.path).toBe(pathFor("held"))
-  expect(said[0]?.reason).toContain("`mine`")
+  expect(said).toEqual([])
 })
 
 test("what a page type declares and parts is read off its body", () => {
