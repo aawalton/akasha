@@ -7,6 +7,7 @@ export const alanLearnNext = {
   definition:
     "the command naming the first unopened leaf of the Book of Everything along a fixed sweep",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
