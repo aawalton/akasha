@@ -1,6 +1,6 @@
 import type { Page } from "akasha/temper/addon-generators/modules/addon-data-page/addon-data-page.module.code.ts"
 import { DO_NOT_EDIT } from "akasha/temper/addon-generators/modules/do-not-edit/do-not-edit.module.code.ts"
-import { ranksOf } from "akasha/temper/addon-generators/rank-by-key/rank-by-key.module.code.ts"
+import { ranksOf } from "akasha/temper/addon-generators/modules/rank-by-key/rank-by-key.module.code.ts"
 import { rotationBreakdownRows } from "akasha/temper/companions-core/rotation-breakdown-rows/rotation-breakdown-rows.module.code.ts"
 import { z } from "zod"
 

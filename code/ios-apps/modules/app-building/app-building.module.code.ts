@@ -12,7 +12,7 @@ import {
   textAt,
   type Value,
 } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
-import { quoted } from "akasha/shell/quoting/quoting.module.code.ts"
+import { quoted } from "akasha/shell/modules/quoting/quoting.module.code.ts"
 
 const COMPONENT = "ios-component/"
 

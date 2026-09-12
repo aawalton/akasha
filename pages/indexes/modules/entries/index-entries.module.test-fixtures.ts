@@ -10,7 +10,7 @@ import {
   type IsThere,
   sidecarsIn,
 } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
-import type { Shaped } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
+import type { Shaped } from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
 import { shapeFiled } from "akasha/pages/indexes/shapes/index-shapes.index.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { id as idPage } from "akasha/pages/properties/id.text-property.ts"

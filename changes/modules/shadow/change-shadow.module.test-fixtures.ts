@@ -33,6 +33,7 @@ import {
   textIn,
   bodyOf as valueBody,
 } from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
+import type { Shaped } from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
 import {
   listedAndValued,
   nothingFiled,
@@ -40,7 +41,6 @@ import {
   shapeAdded,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Shape } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
-import type { Shaped } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import type { Carried as Declared } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 

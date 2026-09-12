@@ -3,7 +3,7 @@ import type { CompanionMetricTemplate } from "akasha/temper/companions-core/modu
 import { COMPANION_METRICS_00 } from "akasha/temper/companions-core/modules/companion-metrics-00/companion-metrics-00.module.code.ts"
 import { COMPANION_METRICS_01 } from "akasha/temper/companions-core/modules/companion-metrics-01/companion-metrics-01.module.code.ts"
 import { COMPANION_METRICS_02 } from "akasha/temper/companions-core/modules/companion-metrics-02/companion-metrics-02.module.code.ts"
-import type { RatingSurplusInfo } from "akasha/temper/formula-framework/rating-chance/rating-chance.module.code.ts"
+import type { RatingSurplusInfo } from "akasha/temper/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
 import type { SourceCategoryId } from "akasha/temper/formula-framework/source-category/source-category.module.code.ts"
 import { createDataFile } from "akasha/utils/narrow/modules/create-data-file/create-data-file.module.code.ts"
 

@@ -38,7 +38,7 @@ import {
   type SidecarsBy,
 } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
 import type { Carried } from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
-import type { Known } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
+import type { Known } from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
 import { slugIn } from "akasha/pages/modules/address/page-address.module.code.ts"
 import {
   type Held,

@@ -1,5 +1,5 @@
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { namesIn } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
+import { namesIn } from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
 import {
   textAt,
   type Value,

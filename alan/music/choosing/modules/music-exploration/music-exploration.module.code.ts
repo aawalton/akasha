@@ -3,7 +3,7 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 import {
   isLiked,
   ratingRung,
-} from "akasha/alan/music/choosing/rating-ladder/rating-ladder.module.code.ts"
+} from "akasha/alan/music/choosing/modules/rating-ladder/rating-ladder.module.code.ts"
 
 export type CatalogArtist = Pick<Artist, "slug" | "title" | "genre" | "rank">
 

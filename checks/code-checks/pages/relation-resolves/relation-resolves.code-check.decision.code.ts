@@ -13,7 +13,7 @@ import {
   namingsInRows,
   reaches,
   type Shaped,
-} from "akasha/pages/indexes/reaching/reaching.module.code.ts"
+} from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { type Rowing, rowsOver } from "akasha/pages/modules/entries/page-entries.module.code.ts"
 import { pageNamed, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"

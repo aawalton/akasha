@@ -8,7 +8,7 @@ import {
   namingsInRows,
   reaches,
   type Shaped,
-} from "akasha/pages/indexes/reaching/reaching.module.code.ts"
+} from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
 import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
 import type { Rowing } from "akasha/pages/modules/entries/page-entries.module.code.ts"
 import {

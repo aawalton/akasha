@@ -9,7 +9,7 @@ import {
   getPropertyDefinitions,
   type PropertyDefinition,
 } from "akasha/pages/access/modules/page-type-config/page-type-config.module.code.ts"
-import type { RawPageRow } from "akasha/pages/access/raw-page-row/raw-page-row.module.code.ts"
+import type { RawPageRow } from "akasha/pages/access/modules/raw-page-row/raw-page-row.module.code.ts"
 import type { Asked } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
 import { askingFor } from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"

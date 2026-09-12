@@ -13,7 +13,7 @@ import {
   namingsIn,
   reaches,
   type Shaped,
-} from "akasha/pages/indexes/reaching/reaching.module.code.ts"
+} from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
 import { pageNamed } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import {
   slugOf,

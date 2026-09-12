@@ -19,7 +19,7 @@ import {
   removeAtPath,
   replaceAtPath,
 } from "akasha/pages/core/property-types/rich-document-tree/rich-document-tree.module.code.ts"
-import { randomId } from "akasha/pages/ids/random-id/random-id.module.code.ts"
+import { randomId } from "akasha/pages/ids/modules/random-id/random-id.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 const V1_BLOCK_TYPES = [

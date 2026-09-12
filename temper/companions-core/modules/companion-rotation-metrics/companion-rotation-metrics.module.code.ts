@@ -9,7 +9,7 @@ import { companionSkills } from "akasha/temper/companions-core/modules/companion
 import type { CompanionState } from "akasha/temper/companions-core/modules/companion-types/companion-types.module.code.ts"
 import type { CompanionValueFormula } from "akasha/temper/companions-core/modules/companion-value-formula/companion-value-formula.module.code.ts"
 import type { RotationResult } from "akasha/temper/companions-core/rotation-types/rotation-types.module.code.ts"
-import { convertRatingToChance } from "akasha/temper/formula-framework/rating-chance/rating-chance.module.code.ts"
+import { convertRatingToChance } from "akasha/temper/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 export interface RotationMetricEntry {

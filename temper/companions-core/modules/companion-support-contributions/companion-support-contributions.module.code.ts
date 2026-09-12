@@ -8,7 +8,7 @@ import {
   type BuffUptimeEntry,
   type ReferenceBaseline,
 } from "akasha/temper/companions-core/modules/companion-support-types/companion-support-types.module.code.ts"
-import { convertRatingToChance } from "akasha/temper/formula-framework/rating-chance/rating-chance.module.code.ts"
+import { convertRatingToChance } from "akasha/temper/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
 
 export function extractAllyVisibleBuffUptimes(
   result: CompanionStatsResult

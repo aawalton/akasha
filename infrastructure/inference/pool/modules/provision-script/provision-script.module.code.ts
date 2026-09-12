@@ -10,7 +10,7 @@ import {
   ActualResourceSchema,
   type InferenceHost,
 } from "akasha/infrastructure/inference/pool/modules/inference-schema/inference-schema.module.code.ts"
-import { quoted } from "akasha/shell/quoting/quoting.module.code.ts"
+import { quoted } from "akasha/shell/modules/quoting/quoting.module.code.ts"
 
 export interface Provisioned {
   readonly name: string

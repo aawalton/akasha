@@ -3,13 +3,13 @@ import type {
   Guard,
   Guarding,
 } from "akasha/changes/modules/guarding/change-guarding.module.types.ts"
-import type { Named } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
   namesIn,
   namingsIn,
   reaches,
   type Shaped,
-} from "akasha/pages/indexes/reaching/reaching.module.code.ts"
+} from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
+import type { Named } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { pageNamed, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
 function hangingOn(path: string, namer: Named): string {

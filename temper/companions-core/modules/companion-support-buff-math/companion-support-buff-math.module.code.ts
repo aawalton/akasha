@@ -1,6 +1,6 @@
 import type { CompanionMetricId } from "akasha/temper/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
 import { companionMetrics } from "akasha/temper/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
-import { convertRatingToChance } from "akasha/temper/formula-framework/rating-chance/rating-chance.module.code.ts"
+import { convertRatingToChance } from "akasha/temper/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
 
 export function getCritChancePercent(metricValues: Map<CompanionMetricId, number>): number {
   const critRating = metricValues.get("companion-critical-chance") ?? 0

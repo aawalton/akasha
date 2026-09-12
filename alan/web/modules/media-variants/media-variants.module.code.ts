@@ -1,5 +1,5 @@
 import type { SentenceMark } from "akasha/alan/harness/voice-core/modules/mark-schema/mark-schema.module.code.ts"
-import { resolveReadAloudSentenceMarks } from "akasha/alan/web/read-aloud-marks/read-aloud-marks.module.code.ts"
+import { resolveReadAloudSentenceMarks } from "akasha/alan/web/modules/read-aloud-marks/read-aloud-marks.module.code.ts"
 import { mediaRenderObjectKey } from "akasha/infrastructure/storage/object-store/modules/key/object-store-key.module.code.ts"
 import { seaweedFSObjectStoreFromEnv } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
 import { getPage } from "akasha/pages/access/modules/get/get.module.code.ts"

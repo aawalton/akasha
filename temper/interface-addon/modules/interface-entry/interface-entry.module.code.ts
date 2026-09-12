@@ -1,6 +1,6 @@
 import "akasha/temper/interface-addon/modules/interface-global/interface-global.module.code.ts"
 
-import "akasha/temper/interface-addon/quiet-entry/quiet-entry.module.code.ts"
+import "akasha/temper/interface-addon/modules/quiet-entry/quiet-entry.module.code.ts"
 import "akasha/temper/interface-addon/modules/assistant-entry/assistant-entry.module.code.ts"
 import "akasha/temper/interface-addon/modules/fco-entry/fco-entry.module.code.ts"
 

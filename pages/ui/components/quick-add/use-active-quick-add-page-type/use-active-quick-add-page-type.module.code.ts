@@ -5,7 +5,7 @@ import { parsePageTypeData } from "akasha/pages/core/schema/modules/pages/pages.
 import {
   parseQuickAddConfig,
   type QuickAddConfig,
-} from "akasha/pages/core/schema/quick-add/quick-add.module.code.ts"
+} from "akasha/pages/core/schema/modules/quick-add/quick-add.module.code.ts"
 import { resolveDefinitionOptions } from "akasha/pages/core/schema/resolve-select-options/resolve-select-options.module.code.ts"
 import { usePagesUIRouter } from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { useAllPages } from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"

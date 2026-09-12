@@ -2,7 +2,7 @@ import type { Page } from "akasha/temper/addon-generators/modules/addon-data-pag
 import {
   rankOf,
   ranksOf,
-} from "akasha/temper/addon-generators/rank-by-key/rank-by-key.module.code.ts"
+} from "akasha/temper/addon-generators/modules/rank-by-key/rank-by-key.module.code.ts"
 import { skillLineCategoriesSorted } from "akasha/temper/skill-lines/skill-line-category-data/skill-line-category-data.module.code.ts"
 import { z } from "zod"
 

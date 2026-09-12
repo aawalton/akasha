@@ -17,7 +17,7 @@ import type {
   NumberFormat,
 } from "akasha/temper/formula-framework/modules/display-formula-node/display-formula-node.module.code.ts"
 import { formatDecimal } from "akasha/temper/formula-framework/modules/number-format/number-format.module.code.ts"
-import { convertRatingToChance } from "akasha/temper/formula-framework/rating-chance/rating-chance.module.code.ts"
+import { convertRatingToChance } from "akasha/temper/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
 import { sourceCategories } from "akasha/temper/formula-framework/source-category/source-category.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 

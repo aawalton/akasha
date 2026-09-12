@@ -1,6 +1,6 @@
 import type { Page } from "akasha/temper/addon-generators/modules/addon-data-page/addon-data-page.module.code.ts"
 import { DO_NOT_EDIT } from "akasha/temper/addon-generators/modules/do-not-edit/do-not-edit.module.code.ts"
-import { ranksOf } from "akasha/temper/addon-generators/rank-by-key/rank-by-key.module.code.ts"
+import { ranksOf } from "akasha/temper/addon-generators/modules/rank-by-key/rank-by-key.module.code.ts"
 import { skillTypes } from "akasha/temper/skill-kinds/skill-types/skill-types.module.code.ts"
 import { z } from "zod"
 

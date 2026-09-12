@@ -7,7 +7,7 @@ import {
   NOTHING_OVER,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import type { Shaped } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
+import type { Shaped } from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const AT = "held/held.domain.ts"

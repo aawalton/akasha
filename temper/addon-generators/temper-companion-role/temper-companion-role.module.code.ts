@@ -3,7 +3,7 @@ import { DO_NOT_EDIT } from "akasha/temper/addon-generators/modules/do-not-edit/
 import {
   rankOf,
   ranksOf,
-} from "akasha/temper/addon-generators/rank-by-key/rank-by-key.module.code.ts"
+} from "akasha/temper/addon-generators/modules/rank-by-key/rank-by-key.module.code.ts"
 import { companionRoles } from "akasha/temper/companions-core/modules/companion-roles/companion-roles.module.code.ts"
 import { z } from "zod"
 

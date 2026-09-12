@@ -19,7 +19,7 @@ import { companions } from "akasha/temper/companions-core/modules/companions/com
 import { armorTraits } from "akasha/temper/equipment/modules/armor-traits/armor-traits.module.code.ts"
 import { jewelryTraits } from "akasha/temper/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"
 import { weaponTraits } from "akasha/temper/equipment/weapon-traits/weapon-traits.module.code.ts"
-import { races } from "akasha/temper/races/races/races.module.code.ts"
+import { races } from "akasha/temper/races/modules/races/races.module.code.ts"
 import { affixScripts } from "akasha/temper/skill-kinds/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
 import { focusScripts } from "akasha/temper/skill-kinds/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
 import { signatureScripts } from "akasha/temper/skill-kinds/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"

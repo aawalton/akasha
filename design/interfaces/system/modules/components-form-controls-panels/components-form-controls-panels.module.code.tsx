@@ -7,7 +7,7 @@ import { Progress } from "akasha/design/interfaces/primitives/modules/progress-b
 import {
   RadioGroup,
   RadioGroupItem,
-} from "akasha/design/interfaces/primitives/radio-group/radio-group.module.code.tsx"
+} from "akasha/design/interfaces/primitives/modules/radio-group/radio-group.module.code.tsx"
 import { Slider } from "akasha/design/interfaces/primitives/slider/slider.module.code.tsx"
 import { Switch } from "akasha/design/interfaces/primitives/switch-control/switch-control.module.code.tsx"
 import { Toggle } from "akasha/design/interfaces/primitives/toggle/toggle.module.code.tsx"
