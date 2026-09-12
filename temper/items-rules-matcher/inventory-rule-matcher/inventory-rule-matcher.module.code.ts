@@ -12,9 +12,9 @@ import {
   type ItemRule,
 } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type { RuleMatcherContext } from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
-import { computeStockGroups } from "akasha/temper/items-rules-eval/compute-stock-groups/compute-stock-groups.module.code.ts"
 import { evaluateRule } from "akasha/temper/items-rules-eval/evaluator/evaluator.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
+import { computeStockGroups } from "akasha/temper/items-rules-eval/modules/compute-stock-groups/compute-stock-groups.module.code.ts"
 import {
   computeQuantity,
   createAllocationEnv,

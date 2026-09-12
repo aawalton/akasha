@@ -11,8 +11,8 @@ import type {
 import { parseItemLink } from "akasha/temper/items-core/item-link-parser/item-link-parser.module.code.ts"
 import { locationConditionFromKeyAndBag } from "akasha/temper/items-core/location-condition/location-condition.module.code.ts"
 import { classifyItemToNodeIds } from "akasha/temper/items-core/modules/classify-item-node-ids/classify-item-node-ids.module.code.ts"
-import { computeStockGroups } from "akasha/temper/items-rules-eval/compute-stock-groups/compute-stock-groups.module.code.ts"
 import { walkRules } from "akasha/temper/items-rules-eval/evaluator/evaluator.module.code.ts"
+import { computeStockGroups } from "akasha/temper/items-rules-eval/modules/compute-stock-groups/compute-stock-groups.module.code.ts"
 
 export type LocationConditionId = ReturnType<typeof locationConditionFromKeyAndBag>
 

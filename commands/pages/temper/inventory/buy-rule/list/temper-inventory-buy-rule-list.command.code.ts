@@ -13,8 +13,8 @@ import {
   settingsOf,
   toldRows,
 } from "akasha/temper/commands/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"
-import { computeItemStock } from "akasha/temper/items-core/compute-item-stock/compute-item-stock.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
+import { computeItemStock } from "akasha/temper/items-core/modules/compute-item-stock/compute-item-stock.module.code.ts"
 import { computeBuyShortfall } from "akasha/temper/items-rules-core/modules/buy-rule-eval/buy-rule-eval.module.code.ts"
 
 const NO_SNAPSHOT = "no-snapshot"
