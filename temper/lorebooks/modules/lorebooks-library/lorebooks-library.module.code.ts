@@ -1,23 +1,3 @@
-import { fireCallbacks } from "akasha/temper/lorebooks/lorebooks-callbacks/lorebooks-callbacks.module.code.ts"
-import {
-  CALLBACK_MOTIF_CHECKBOX_CHANGED,
-  LORE_LIBRARY_CRAFTING,
-  LORE_LIBRARY_EIDETIC,
-} from "akasha/temper/lorebooks/lorebooks-constants/lorebooks-constants.module.code.ts"
-import {
-  loreBooksGetNewLoreBookInfo,
-  loreBooksGetNewLoreCollectionInfo,
-} from "akasha/temper/lorebooks/lorebooks-data-accessors/lorebooks-data-accessors.module.code.ts"
-import {
-  filterScrollList,
-  getHirelingMessageCollection,
-  type HirelingCollectionData,
-} from "akasha/temper/lorebooks/lorebooks-library-filter/lorebooks-library-filter.module.code.ts"
-import {
-  onMouseEnter,
-  onMouseExit,
-  onRowMouseUp,
-} from "akasha/temper/lorebooks/lorebooks-library-rows/lorebooks-library-rows.module.code.ts"
 import { REPORT_STATE } from "akasha/temper/lorebooks/lorebooks-report-state/lorebooks-report-state.module.code.ts"
 import {
   isReportShown,
@@ -25,6 +5,26 @@ import {
   showLoreLibraryReport,
   switchLoreLibraryReportMode,
 } from "akasha/temper/lorebooks/lorebooks-reports/lorebooks-reports.module.code.ts"
+import { fireCallbacks } from "akasha/temper/lorebooks/modules/lorebooks-callbacks/lorebooks-callbacks.module.code.ts"
+import {
+  CALLBACK_MOTIF_CHECKBOX_CHANGED,
+  LORE_LIBRARY_CRAFTING,
+  LORE_LIBRARY_EIDETIC,
+} from "akasha/temper/lorebooks/modules/lorebooks-constants/lorebooks-constants.module.code.ts"
+import {
+  loreBooksGetNewLoreBookInfo,
+  loreBooksGetNewLoreCollectionInfo,
+} from "akasha/temper/lorebooks/modules/lorebooks-data-accessors/lorebooks-data-accessors.module.code.ts"
+import {
+  filterScrollList,
+  getHirelingMessageCollection,
+  type HirelingCollectionData,
+} from "akasha/temper/lorebooks/modules/lorebooks-library-filter/lorebooks-library-filter.module.code.ts"
+import {
+  onMouseEnter,
+  onMouseExit,
+  onRowMouseUp,
+} from "akasha/temper/lorebooks/modules/lorebooks-library-rows/lorebooks-library-rows.module.code.ts"
 
 interface CollectionNodeData {
   categoryIndex: number

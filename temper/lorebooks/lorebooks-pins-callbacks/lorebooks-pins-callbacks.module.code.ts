@@ -1,21 +1,4 @@
 import {
-  LORE_LIBRARY_EIDETIC,
-  LORE_LIBRARY_SHALIDOR,
-  PINS_BOOKSHELF,
-  PINS_COLLECTED,
-  PINS_COMPASS,
-  PINS_COMPASS_BOOKSHELF,
-  PINS_COMPASS_EIDETIC,
-  PINS_EIDETIC,
-  PINS_EIDETIC_COLLECTED,
-  PINS_UNKNOWN,
-  SHALIDOR_BOOKINDEX,
-  SHALIDOR_COLLECTIONINDEX,
-  SHALIDOR_LOCATION_X,
-  SHALIDOR_LOCATION_Y,
-} from "akasha/temper/lorebooks/lorebooks-constants/lorebooks-constants.module.code.ts"
-import { loreBooksGetNewLoreBookInfo } from "akasha/temper/lorebooks/lorebooks-data-accessors/lorebooks-data-accessors.module.code.ts"
-import {
   getPinTextureBookshelf,
   shouldDisplayLoreBooks,
   updateBookshelfLorebooksData,
@@ -32,6 +15,23 @@ import {
   STATE,
 } from "akasha/temper/lorebooks/lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
 import { getSavedVariables } from "akasha/temper/lorebooks/lorebooks-saved-variables/lorebooks-saved-variables.module.code.ts"
+import {
+  LORE_LIBRARY_EIDETIC,
+  LORE_LIBRARY_SHALIDOR,
+  PINS_BOOKSHELF,
+  PINS_COLLECTED,
+  PINS_COMPASS,
+  PINS_COMPASS_BOOKSHELF,
+  PINS_COMPASS_EIDETIC,
+  PINS_EIDETIC,
+  PINS_EIDETIC_COLLECTED,
+  PINS_UNKNOWN,
+  SHALIDOR_BOOKINDEX,
+  SHALIDOR_COLLECTIONINDEX,
+  SHALIDOR_LOCATION_X,
+  SHALIDOR_LOCATION_Y,
+} from "akasha/temper/lorebooks/modules/lorebooks-constants/lorebooks-constants.module.code.ts"
+import { loreBooksGetNewLoreBookInfo } from "akasha/temper/lorebooks/modules/lorebooks-data-accessors/lorebooks-data-accessors.module.code.ts"
 
 function asMapPin(value: unknown): MapPin {
   return value as MapPin

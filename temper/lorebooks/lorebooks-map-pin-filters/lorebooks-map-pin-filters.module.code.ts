@@ -1,15 +1,15 @@
+import { getSavedVariables } from "akasha/temper/lorebooks/lorebooks-saved-variables/lorebooks-saved-variables.module.code.ts"
 import {
   PINS_BOOKSHELF,
   PINS_COLLECTED,
   PINS_EIDETIC,
   PINS_EIDETIC_COLLECTED,
   PINS_UNKNOWN,
-} from "akasha/temper/lorebooks/lorebooks-constants/lorebooks-constants.module.code.ts"
+} from "akasha/temper/lorebooks/modules/lorebooks-constants/lorebooks-constants.module.code.ts"
 import {
   filterDefault,
   filterValue,
-} from "akasha/temper/lorebooks/lorebooks-filter-flags/lorebooks-filter-flags.module.code.ts"
-import { getSavedVariables } from "akasha/temper/lorebooks/lorebooks-saved-variables/lorebooks-saved-variables.module.code.ts"
+} from "akasha/temper/lorebooks/modules/lorebooks-filter-flags/lorebooks-filter-flags.module.code.ts"
 
 const LMP = LibMapPins
 

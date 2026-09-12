@@ -1,16 +1,16 @@
 import {
-  PINS_COMPASS,
-  PINS_COMPASS_BOOKSHELF,
-  PINS_COMPASS_EIDETIC,
-} from "akasha/temper/lorebooks/lorebooks-constants/lorebooks-constants.module.code.ts"
-import {
-  filterDefault,
-  filterValue,
-} from "akasha/temper/lorebooks/lorebooks-filter-flags/lorebooks-filter-flags.module.code.ts"
-import {
   DEFAULTS,
   getSavedVariables,
 } from "akasha/temper/lorebooks/lorebooks-saved-variables/lorebooks-saved-variables.module.code.ts"
+import {
+  PINS_COMPASS,
+  PINS_COMPASS_BOOKSHELF,
+  PINS_COMPASS_EIDETIC,
+} from "akasha/temper/lorebooks/modules/lorebooks-constants/lorebooks-constants.module.code.ts"
+import {
+  filterDefault,
+  filterValue,
+} from "akasha/temper/lorebooks/modules/lorebooks-filter-flags/lorebooks-filter-flags.module.code.ts"
 
 export function compassLayout(this: void, key: string): CompassPinLayout {
   return COMPASS_PINS.pinLayouts[key] ?? {}

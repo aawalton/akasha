@@ -1,23 +1,4 @@
 import {
-  ICON_LIST_ZONEID,
-  LORE_LIBRARY_EIDETIC,
-  LORE_LIBRARY_SHALIDOR,
-  MISSING_TEXTURE,
-  PIN_ICON_REAL,
-  PIN_TEXTURES,
-  PINS_BOOKSHELF,
-  PINS_COLLECTED,
-  PINS_COMPASS,
-  PINS_COMPASS_BOOKSHELF,
-  PINS_COMPASS_EIDETIC,
-  PINS_EIDETIC,
-  PINS_EIDETIC_COLLECTED,
-  PINS_UNKNOWN,
-  SHALIDOR_BOOKINDEX,
-  SHALIDOR_COLLECTIONINDEX,
-} from "akasha/temper/lorebooks/lorebooks-constants/lorebooks-constants.module.code.ts"
-import { loreBooksGetNewLoreBookInfo } from "akasha/temper/lorebooks/lorebooks-data-accessors/lorebooks-data-accessors.module.code.ts"
-import {
   getPinTexture,
   getPinTextureBookshelf,
   getPinTextureEidetic,
@@ -49,6 +30,25 @@ import {
   PIN_TOOLTIP_CREATOR_EIDETIC,
 } from "akasha/temper/lorebooks/lorebooks-pins-tooltips/lorebooks-pins-tooltips.module.code.ts"
 import { getSavedVariables } from "akasha/temper/lorebooks/lorebooks-saved-variables/lorebooks-saved-variables.module.code.ts"
+import {
+  ICON_LIST_ZONEID,
+  LORE_LIBRARY_EIDETIC,
+  LORE_LIBRARY_SHALIDOR,
+  MISSING_TEXTURE,
+  PIN_ICON_REAL,
+  PIN_TEXTURES,
+  PINS_BOOKSHELF,
+  PINS_COLLECTED,
+  PINS_COMPASS,
+  PINS_COMPASS_BOOKSHELF,
+  PINS_COMPASS_EIDETIC,
+  PINS_EIDETIC,
+  PINS_EIDETIC_COLLECTED,
+  PINS_UNKNOWN,
+  SHALIDOR_BOOKINDEX,
+  SHALIDOR_COLLECTIONINDEX,
+} from "akasha/temper/lorebooks/modules/lorebooks-constants/lorebooks-constants.module.code.ts"
+import { loreBooksGetNewLoreBookInfo } from "akasha/temper/lorebooks/modules/lorebooks-data-accessors/lorebooks-data-accessors.module.code.ts"
 
 function asCompassPinControl(value: unknown): CompassPinControl {
   return value as CompassPinControl

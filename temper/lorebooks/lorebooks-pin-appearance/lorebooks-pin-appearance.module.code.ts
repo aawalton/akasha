@@ -1,4 +1,15 @@
-import { compassLayout } from "akasha/temper/lorebooks/lorebooks-compass-pins/lorebooks-compass-pins.module.code.ts"
+import {
+  DEFAULTS,
+  getSavedVariables,
+} from "akasha/temper/lorebooks/lorebooks-saved-variables/lorebooks-saved-variables.module.code.ts"
+import {
+  asControl,
+  asIconControl,
+  asLamPanelInternal,
+  asRefreshableControl,
+  type IconControl,
+} from "akasha/temper/lorebooks/lorebooks-settings-types/lorebooks-settings-types.module.code.ts"
+import { compassLayout } from "akasha/temper/lorebooks/modules/lorebooks-compass-pins/lorebooks-compass-pins.module.code.ts"
 import {
   LORE_LIBRARY_EIDETIC,
   PIN_ICON_ESOHEAD,
@@ -13,18 +24,7 @@ import {
   PINS_EIDETIC,
   PINS_EIDETIC_COLLECTED,
   PINS_UNKNOWN,
-} from "akasha/temper/lorebooks/lorebooks-constants/lorebooks-constants.module.code.ts"
-import {
-  DEFAULTS,
-  getSavedVariables,
-} from "akasha/temper/lorebooks/lorebooks-saved-variables/lorebooks-saved-variables.module.code.ts"
-import {
-  asControl,
-  asIconControl,
-  asLamPanelInternal,
-  asRefreshableControl,
-  type IconControl,
-} from "akasha/temper/lorebooks/lorebooks-settings-types/lorebooks-settings-types.module.code.ts"
+} from "akasha/temper/lorebooks/modules/lorebooks-constants/lorebooks-constants.module.code.ts"
 import { valueDropdown } from "akasha/temper/settings-panel/modules/dropdown/dropdown.module.code.ts"
 
 const LMP = LibMapPins

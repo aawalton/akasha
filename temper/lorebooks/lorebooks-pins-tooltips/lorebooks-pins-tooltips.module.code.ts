@@ -1,18 +1,4 @@
 import { gamepadBodyStyle } from "akasha/temper/gamepad-tooltip/modules/gamepad-tooltip-style/gamepad-tooltip-style.module.code.ts"
-import {
-  LORE_LIBRARY_EIDETIC,
-  LORE_LIBRARY_SHALIDOR,
-  MISSING_TEXTURE,
-  PLACEHOLDER_TEXTURE,
-  SHALIDOR_BOOKINDEX,
-  SHALIDOR_COLLECTIONINDEX,
-  SHALIDOR_MOREINFO_BREADCRUMB,
-  SHALIDOR_ZONEID,
-} from "akasha/temper/lorebooks/lorebooks-constants/lorebooks-constants.module.code.ts"
-import {
-  loreBooksGetNewLoreBookInfo,
-  loreBooksGetNewLoreCollectionInfo,
-} from "akasha/temper/lorebooks/lorebooks-data-accessors/lorebooks-data-accessors.module.code.ts"
 import { LOCATION_DETAILS } from "akasha/temper/lorebooks/lorebooks-location-details/lorebooks-location-details.module.code.ts"
 import { dm } from "akasha/temper/lorebooks/lorebooks-logger/lorebooks-logger.module.code.ts"
 import {
@@ -23,6 +9,20 @@ import {
 } from "akasha/temper/lorebooks/lorebooks-pins/lorebooks-pins.module.code.ts"
 import { getQuestLocation } from "akasha/temper/lorebooks/lorebooks-quest-location/lorebooks-quest-location.module.code.ts"
 import { getSavedVariables } from "akasha/temper/lorebooks/lorebooks-saved-variables/lorebooks-saved-variables.module.code.ts"
+import {
+  LORE_LIBRARY_EIDETIC,
+  LORE_LIBRARY_SHALIDOR,
+  MISSING_TEXTURE,
+  PLACEHOLDER_TEXTURE,
+  SHALIDOR_BOOKINDEX,
+  SHALIDOR_COLLECTIONINDEX,
+  SHALIDOR_MOREINFO_BREADCRUMB,
+  SHALIDOR_ZONEID,
+} from "akasha/temper/lorebooks/modules/lorebooks-constants/lorebooks-constants.module.code.ts"
+import {
+  loreBooksGetNewLoreBookInfo,
+  loreBooksGetNewLoreCollectionInfo,
+} from "akasha/temper/lorebooks/modules/lorebooks-data-accessors/lorebooks-data-accessors.module.code.ts"
 import { isTable } from "akasha/temper/narrow/modules/is-table/is-table.module.code.ts"
 
 export const PIN_TOOLTIP_STATE: { informationTooltip: unknown } = {

@@ -1,19 +1,3 @@
-import { BOOKSHELF_DATA } from "akasha/temper/lorebooks/lorebooks-bookshelf-data/lorebooks-bookshelf-data.module.code.ts"
-import {
-  LBOOKS_IMMERSIVE_EXPLORATION,
-  LBOOKS_IMMERSIVE_WAYSHRINES,
-  LBOOKS_IMMERSIVE_ZONEMAINQUEST,
-  LBOOKS_IMMERSIVE_ZONEQUESTS,
-  LORE_LIBRARY_EIDETIC,
-  LORE_LIBRARY_SHALIDOR,
-  MISSING_TITLE,
-  PLACEHOLDER_TEXTURE,
-  SHALIDOR_BOOKINDEX,
-  SHALIDOR_COLLECTIONINDEX,
-  SHALIDOR_LOCATION_X,
-  SHALIDOR_LOCATION_Y,
-} from "akasha/temper/lorebooks/lorebooks-constants/lorebooks-constants.module.code.ts"
-import { LIBRARY_DATA } from "akasha/temper/lorebooks/lorebooks-library-data/lorebooks-library-data.module.code.ts"
 import { STATE } from "akasha/temper/lorebooks/lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
 import {
   EXPLORATION_ACHIEVEMENT_IDS,
@@ -31,6 +15,22 @@ import type {
   ShalidorPinEntry,
 } from "akasha/temper/lorebooks/lorebooks-types/lorebooks-types.module.code.ts"
 import { BOOK_DATA } from "akasha/temper/lorebooks/modules/lorebooks-book-data/lorebooks-book-data.module.code.ts"
+import { BOOKSHELF_DATA } from "akasha/temper/lorebooks/modules/lorebooks-bookshelf-data/lorebooks-bookshelf-data.module.code.ts"
+import {
+  LBOOKS_IMMERSIVE_EXPLORATION,
+  LBOOKS_IMMERSIVE_WAYSHRINES,
+  LBOOKS_IMMERSIVE_ZONEMAINQUEST,
+  LBOOKS_IMMERSIVE_ZONEQUESTS,
+  LORE_LIBRARY_EIDETIC,
+  LORE_LIBRARY_SHALIDOR,
+  MISSING_TITLE,
+  PLACEHOLDER_TEXTURE,
+  SHALIDOR_BOOKINDEX,
+  SHALIDOR_COLLECTIONINDEX,
+  SHALIDOR_LOCATION_X,
+  SHALIDOR_LOCATION_Y,
+} from "akasha/temper/lorebooks/modules/lorebooks-constants/lorebooks-constants.module.code.ts"
+import { LIBRARY_DATA } from "akasha/temper/lorebooks/modules/lorebooks-library-data/lorebooks-library-data.module.code.ts"
 
 export function loreBooksGetBookData(): EideticBookTable {
   return BOOK_DATA

@@ -1,18 +1,18 @@
 import { insertChatText } from "akasha/temper/chat-entry/modules/chat-entry-text/chat-entry-text.module.code.ts"
+import { STATE } from "akasha/temper/lorebooks/lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
 import {
   LORE_LIBRARY_EIDETIC,
   LORE_LIBRARY_SHALIDOR,
-} from "akasha/temper/lorebooks/lorebooks-constants/lorebooks-constants.module.code.ts"
+} from "akasha/temper/lorebooks/modules/lorebooks-constants/lorebooks-constants.module.code.ts"
 import {
   loreBooksGetNewLoreBookInfo,
   loreBooksGetNewLoreCollectionInfo,
-} from "akasha/temper/lorebooks/lorebooks-data-accessors/lorebooks-data-accessors.module.code.ts"
+} from "akasha/temper/lorebooks/modules/lorebooks-data-accessors/lorebooks-data-accessors.module.code.ts"
 import {
   BOOK_LOCALIZATION,
   BOOK_SHELF_LOCALIZATION,
   BOOK_STACK_LOCALIZATION,
-} from "akasha/temper/lorebooks/lorebooks-locales/lorebooks-locales.module.code.ts"
-import { STATE } from "akasha/temper/lorebooks/lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
+} from "akasha/temper/lorebooks/modules/lorebooks-locales/lorebooks-locales.module.code.ts"
 
 function asObject(value: unknown): object {
   return value as object

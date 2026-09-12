@@ -1,3 +1,4 @@
+import type { LoreBooksSavedVars } from "akasha/temper/lorebooks/lorebooks-types/lorebooks-types.module.code.ts"
 import {
   PIN_ICON_REAL,
   PINS_BOOKSHELF,
@@ -10,8 +11,7 @@ import {
   PINS_UNKNOWN,
   SAVED_VARIABLES_NAME,
   SAVEDVARIABLES_VERSION,
-} from "akasha/temper/lorebooks/lorebooks-constants/lorebooks-constants.module.code.ts"
-import type { LoreBooksSavedVars } from "akasha/temper/lorebooks/lorebooks-types/lorebooks-types.module.code.ts"
+} from "akasha/temper/lorebooks/modules/lorebooks-constants/lorebooks-constants.module.code.ts"
 
 export const DEFAULTS = {
   compassMaxDistance: 0.04,
