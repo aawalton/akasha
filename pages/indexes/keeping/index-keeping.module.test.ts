@@ -8,7 +8,7 @@ import {
   reconcile,
   takenAway,
   wholeOf,
-} from "akasha/pages/indexes/index-keeping/index-keeping.module.code.ts"
+} from "akasha/pages/indexes/keeping/index-keeping.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 

@@ -6,7 +6,7 @@ import type {
   FoldersBy,
   UncommittedBy,
 } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
-import { keepWhole } from "akasha/pages/indexes/index-keeping/index-keeping.module.code.ts"
+import { keepWhole } from "akasha/pages/indexes/keeping/index-keeping.module.code.ts"
 import { indexPath } from "akasha/pages/indexes/path/index-path.index.ts"
 import {
   claimsOf,

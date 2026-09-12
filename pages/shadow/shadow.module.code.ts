@@ -6,7 +6,7 @@ import {
   type Answering,
   answeringOver,
 } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
-import { bodiesFrom } from "akasha/pages/indexes/index-keeping/index-keeping.module.code.ts"
+import { bodiesFrom } from "akasha/pages/indexes/keeping/index-keeping.module.code.ts"
 import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { settlingOver } from "akasha/pages/indexes/settling/index-settling.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"

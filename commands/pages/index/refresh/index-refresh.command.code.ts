@@ -15,11 +15,8 @@ import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code
 import { indexRefresh as page } from "akasha/commands/pages/index/refresh/index-refresh.command.ts"
 import { holding } from "akasha/git/holding/holding.module.code.ts"
 import { told as gitTold } from "akasha/git/running/git-running.module.code.ts"
-import {
-  type Drift,
-  filedUnder,
-} from "akasha/pages/indexes/index-keeping/index-keeping.module.code.ts"
 import { refreshedWhole } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
+import { type Drift, filedUnder } from "akasha/pages/indexes/keeping/index-keeping.module.code.ts"
 import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
 

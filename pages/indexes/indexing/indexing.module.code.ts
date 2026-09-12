@@ -17,7 +17,7 @@ import {
   type Laid,
   reconcile,
   takenAway,
-} from "akasha/pages/indexes/index-keeping/index-keeping.module.code.ts"
+} from "akasha/pages/indexes/keeping/index-keeping.module.code.ts"
 import { listedOf } from "akasha/pages/indexes/listing/index-listing.index.code.ts"
 import {
   bodiesAt,
