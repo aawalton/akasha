@@ -8,7 +8,6 @@ export const trackSessionSwitch = {
   code: "ts",
   parts: ["module/waking"],
   taking: [
-    { said: "--title <text>", takes: "what the next stretch is called" },
     { said: "--at <time>", takes: "the wall time the open stretch ends and the next begins" },
   ],
 
@@ -101,5 +100,6 @@ export const trackSessionSwitch = {
     { argument: "argument/safety" },
     { argument: "argument/difficulty" },
     { argument: "argument/relationship" },
+    { argument: "argument/title" },
   ],
 } as const satisfies Command

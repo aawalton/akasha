@@ -5,7 +5,7 @@ export const title = {
   type: "argument",
   slug: "title",
   said: "--title",
-  takes: "a title the web shows",
+  takes: "a title a person reads",
   value: "text",
   placeholder: "text",
 } as const satisfies Argument

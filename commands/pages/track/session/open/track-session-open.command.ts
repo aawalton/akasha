@@ -7,10 +7,7 @@ export const trackSessionOpen = {
   definition: "the command beginning a stretch on a day with none open",
   code: "ts",
   parts: ["module/session-acting"],
-  taking: [
-    { said: "--title <text>", takes: "what the stretch is called" },
-    { said: "--at <time>", takes: "the wall time the stretch begins" },
-  ],
+  taking: [{ said: "--at <time>", takes: "the wall time the stretch begins" }],
 
   invariants: [
     {
@@ -73,5 +70,6 @@ export const trackSessionOpen = {
     { argument: "argument/safety" },
     { argument: "argument/difficulty" },
     { argument: "argument/relationship" },
+    { argument: "argument/title" },
   ],
 } as const satisfies Command

@@ -8,7 +8,6 @@ export const trackSessionLog = {
   code: "ts",
   test: "ts",
   taking: [
-    { said: "--title <text>", takes: "what the stretch is called" },
     { said: "--start <time>", takes: "the wall time the stretch began" },
     { said: "--end <time>", takes: "the wall time the stretch ended" },
   ],
@@ -86,5 +85,6 @@ export const trackSessionLog = {
     { argument: "argument/safety" },
     { argument: "argument/difficulty" },
     { argument: "argument/relationship" },
+    { argument: "argument/title" },
   ],
 } as const satisfies Command
