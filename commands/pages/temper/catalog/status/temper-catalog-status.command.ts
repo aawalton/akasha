@@ -7,12 +7,7 @@ export const temperCatalogStatus = {
   definition:
     "the command saying which catalog domains are collected and which are owed a collection",
   code: "ts",
-  taking: [
-    {
-      said: "--saved-variables-file <path>",
-      takes: "the file the addon's collected data is read from",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -42,5 +37,9 @@ export const temperCatalogStatus = {
     },
   ],
   name: "status",
-  arguments: [{ argument: "argument/json" }, { argument: "argument/side-file" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/side-file" },
+    { argument: "argument/saved-variables-file" },
+  ],
 } as const satisfies Command
