@@ -5,6 +5,7 @@ import {
 } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Said } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
+  inOrder,
   withProperty,
   withValue,
 } from "akasha/changes/modules/literal-splicing/literal-splicing.module.code.ts"
@@ -15,6 +16,8 @@ import {
 } from "akasha/changes/modules/page-literal/page-literal.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import type { Shape } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import ts from "typescript"
 
 export type AddPropertyValueAsked = {
@@ -40,6 +43,16 @@ export function spelledAs(value: string, holds: string | undefined): string | nu
   if (holds === BOOLEAN) return value === TRUE || value === FALSE ? value : null
   if (holds === NUMBER) return NUMERAL.test(value) ? value : null
   return JSON.stringify(value)
+}
+
+export function sortedKey(shapes: Iterable<Shape>, key: string): boolean {
+  let said = false
+  for (const one of shapes) {
+    if (exportedAs(one.propertySlug) !== key) continue
+    if (!one.sorted) return false
+    said = true
+  }
+  return said
 }
 
 export function addPropertyValue(world: World, given: AddPropertyValueAsked): Said {
@@ -71,7 +84,9 @@ export function addPropertyValue(world: World, given: AddPropertyValueAsked): Sa
   if (already) {
     return refusing(`\`${given.key}\` holds \`${given.value}\` already`)
   }
-  return stating(spliced(given.at, text, withValue(source, holding, said)))
+  const sorted = sortedKey(world.index.shapesAt().values(), given.key)
+  const splice = sorted ? inOrder(source, holding, said) : withValue(source, holding, said)
+  return stating(spliced(given.at, text, splice))
 }
 
 export function runChange(world: World, given: AddPropertyValueAsked): Said {

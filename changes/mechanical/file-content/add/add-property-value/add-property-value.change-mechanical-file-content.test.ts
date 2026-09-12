@@ -7,6 +7,7 @@ import {
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { bodyOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import type { Shape } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 
 const AT = "akasha/held/kept.page-type.ts"
 
@@ -28,10 +29,25 @@ const GAINED_LAST = `${OPENING}  partSlugs: ["kept/one", "kept/two"],
 } as const satisfies PageType
 `
 
-function worldOf(text: string | null): World {
+function shaped(pageTypeSlug: string, propertySlug: string, sorted: boolean): Shape {
+  return {
+    pageTypeSlug,
+    targetPageTypeSlug: null,
+    unique: null,
+    uniquePropertySlug: null,
+    slug: propertySlug,
+    propertySlug,
+    fileName: null,
+    folderName: null,
+    sorted,
+  }
+}
+
+function worldOf(text: string | null, shapes: readonly Shape[] = []): World {
+  const held = new Map(shapes.map((one) => [`${one.pageTypeSlug}/${one.slug}`, one]))
   return {
     root: "/nowhere",
-    index: null as never,
+    index: { shapesAt: () => held } as never,
     textOf: () => text,
     bodyOf: () => text,
     under: () => [],
@@ -48,6 +64,50 @@ test("a value is put after the values the property already holds", () => {
   })
 
   expect(bodyOf(said, () => BODY)).toContain(`["kept/one", "kept/two", "kept/three"]`)
+})
+
+test("a value under a property saying it is sorted falls where that order asks", () => {
+  const said = addPropertyValue(worldOf(BODY, [shaped("relation-property", "part-slugs", true)]), {
+    at: AT,
+    key: "partSlugs",
+    value: "kept/eight",
+  })
+
+  expect(bodyOf(said, () => BODY)).toContain(`["kept/eight", "kept/one", "kept/two"]`)
+})
+
+test("a value sorting after every value the property holds falls after the last of them", () => {
+  const said = addPropertyValue(worldOf(BODY, [shaped("relation-property", "part-slugs", true)]), {
+    at: AT,
+    key: "partSlugs",
+    value: "kept/zero",
+  })
+
+  expect(bodyOf(said, () => BODY)).toContain(`["kept/one", "kept/two", "kept/zero"]`)
+})
+
+test("a value sorting between two values the property holds falls between them", () => {
+  const said = addPropertyValue(worldOf(BODY, [shaped("relation-property", "part-slugs", true)]), {
+    at: AT,
+    key: "partSlugs",
+    value: "kept/three",
+  })
+
+  expect(bodyOf(said, () => BODY)).toContain(`["kept/one", "kept/three", "kept/two"]`)
+})
+
+test("a key one shape says is sorted and another says nothing about is put after", () => {
+  const shapes = [
+    shaped("relation-property", "part-slugs", true),
+    shaped("text-property", "part-slugs", false),
+  ]
+  const said = addPropertyValue(worldOf(BODY, shapes), {
+    at: AT,
+    key: "partSlugs",
+    value: "kept/eight",
+  })
+
+  expect(bodyOf(said, () => BODY)).toContain(`["kept/one", "kept/two", "kept/eight"]`)
 })
 
 test("the rest of the body is left as the body was", () => {

@@ -15,7 +15,18 @@ export const addPropertyValue = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A value is put after the values the property already has.",
+      statement:
+        "A value is put after the values a property already has where that property says nothing of order.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A value is put into the place that order asks for where the property says its values are sorted.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A key several page properties answer to is sorted only where every one of them says so.",
     },
     {
       invariantKind: "departure",
@@ -87,8 +98,17 @@ export const addPropertyValue = {
       statement: "The passage answered is the lines the value is put into rather than the body.",
     },
     {
+      invariantKind: "departure",
+      statement: "Whether a key is sorted is read off the shapes the index has already distilled.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Those shapes are one answer held for the change rather than a page opened for each value.",
+    },
+    {
       invariantKind: "absence",
-      statement: "Nothing here reads the index.",
+      statement: "Nothing here walks the index, opens a page, or looks for a path.",
     },
     {
       invariantKind: "departure",
