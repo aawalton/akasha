@@ -7,19 +7,7 @@ export const browserTestVerifyRender = {
   definition:
     "the command telling a rendered page on a deployed site from a failure and from an empty shell",
   code: "ts",
-  taking: [
-    { said: "--expect-text <text>", takes: "text the rendered body is to hold" },
-    { said: "--expect-title <text>", takes: "the title the document is to carry" },
-    { said: "--expect-count-selector <sel>", takes: "the elements a count is taken over" },
-    { said: "--expect-count <n>", takes: "how many of those elements are to be there" },
-    { said: "--expect-attr-selector <sel>", takes: "the element an attribute is read off" },
-    { said: "--expect-attr <name>", takes: "the attribute read off that element" },
-    { said: "--expect-attr-value <text>", takes: "the value that attribute is to carry" },
-    {
-      said: "--expect-attr-mode <mode>",
-      takes: "`equals` or `contains-token`, equals where none is said",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -89,5 +77,13 @@ export const browserTestVerifyRender = {
     { argument: "argument/timeout-ms" },
     { argument: "argument/no-sign-in" },
     { argument: "argument/as-throwaway" },
+    { argument: "argument/expect-text" },
+    { argument: "argument/expect-title" },
+    { argument: "argument/expect-count-selector" },
+    { argument: "argument/expect-count" },
+    { argument: "argument/expect-attr-selector" },
+    { argument: "argument/expect-attr" },
+    { argument: "argument/expect-attr-value" },
+    { argument: "argument/expect-attr-mode" },
   ],
 } as const satisfies Command
