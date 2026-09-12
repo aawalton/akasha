@@ -9,13 +9,11 @@ export const temperUpstreamDataPort = {
   code: "ts",
   changeKind: "change-mechanical",
   taking: [
-    { said: "<library>", takes: "which upstream library is ported" },
+    {
+      said: "<library>",
+      takes: "which upstream library is ported: housing, lib-map-data, lib-treasure or lib-zone",
+    },
     { said: "--code-root <path>", takes: "the checkout the ported files land in" },
-  ],
-  helpNotes: [
-    "the libraries this ports are housing, the map data, the treasure data and the zone data.",
-    "the port is written whole rather than merged, so what upstream dropped is dropped here.",
-    "a library this does not carry is refused by name.",
   ],
   invariants: [
     {
