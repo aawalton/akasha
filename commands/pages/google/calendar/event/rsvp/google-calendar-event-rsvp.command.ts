@@ -23,13 +23,11 @@ export const googleCalendarEventRsvp = {
       takes: "who is emailed about the response, of `all`, `externalOnly` and `none`",
     },
   ],
-  helpNotes: [
-    "an event is named in place or as a flag, and naming it both ways over is refused.",
-    "this reaches the calendar as Alan, so the response carries his name.",
-    "the whole guest list is written back with Alan's response alone turned.",
-    "the event answered with is reported as JSON.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The event this answers with is reported as JSON.",
+    },
     {
       invariantKind: "departure",
       statement: "An event named in place and as a flag is refused.",
