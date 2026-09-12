@@ -4,7 +4,7 @@ import {
   DEPLOY,
   SECRET_SHOW,
   SERVICE_SWEEP,
-} from "akasha/infrastructure/infrastructure-calls/infrastructure-calls.module.code.ts"
+} from "akasha/infrastructure/calls/infrastructure-calls.module.code.ts"
 import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
 import { fileOf } from "akasha/pages/indexes/property-file/property-file.module.code.ts"
 import { valuedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"

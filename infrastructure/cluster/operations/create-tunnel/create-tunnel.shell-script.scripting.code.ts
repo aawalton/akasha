@@ -1,5 +1,5 @@
 import { basename, dirname, relative } from "node:path"
-import { SECRET_SET } from "akasha/infrastructure/infrastructure-calls/infrastructure-calls.module.code.ts"
+import { SECRET_SET } from "akasha/infrastructure/calls/infrastructure-calls.module.code.ts"
 import { secretAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { fileOf } from "akasha/pages/indexes/property-file/property-file.module.code.ts"
 import { valuedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"

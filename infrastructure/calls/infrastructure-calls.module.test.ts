@@ -16,7 +16,7 @@ import {
   SECRET_SET,
   SECRET_SHOW,
   SERVICE_SWEEP,
-} from "akasha/infrastructure/infrastructure-calls/infrastructure-calls.module.code.ts"
+} from "akasha/infrastructure/calls/infrastructure-calls.module.code.ts"
 
 const EVERY: readonly (readonly [string, readonly { readonly name: string }[]])[] = [
   [ADDON_INSTALL, [temper, temperCommunity, temperCommunityAddonInstall]],
