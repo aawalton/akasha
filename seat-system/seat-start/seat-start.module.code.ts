@@ -3,6 +3,7 @@ import {
   principalIsPerson,
   refuseAnswering,
 } from "akasha/agents/seats/modules/answering/seat-answering.module.code.ts"
+import { seatByName } from "akasha/agents/seats/modules/by-name/seat-by-name.module.code.ts"
 import {
   isValidSeatName,
   resolveOptionalSeatId,
@@ -32,7 +33,6 @@ import {
   principals,
 } from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 import { launchSeatUnderTmux } from "akasha/seat-system/launch-seat-tmux/launch-seat-tmux.module.code.ts"
-import { seatByName } from "akasha/seat-system/seat-by-name/seat-by-name.module.code.ts"
 import { mintNamedAgent } from "akasha/seat-system/seat-name-bind/seat-name-bind.module.code.ts"
 import { refuseHeldName } from "akasha/seat-system/seat-name-held-refusal/seat-name-held-refusal.module.code.ts"
 import { refuseParentless } from "akasha/seat-system/seat-parentless-refusal/seat-parentless-refusal.module.code.ts"
