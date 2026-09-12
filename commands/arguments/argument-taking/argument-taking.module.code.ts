@@ -1,4 +1,5 @@
 import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import { slugOfPart } from "akasha/commands/modules/namespace-listing/namespace-listing.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 
 export type SaidAs = "flag" | "word" | "flag-or-word"
@@ -14,7 +15,9 @@ export type Value = string | number | boolean | readonly (string | number)[]
 
 export type Taken = Readonly<Record<string, Value>>
 
-export type Read = { readonly taken: Taken } | { readonly refused: readonly string[] }
+export type Read<Answered = Taken> =
+  | { readonly taken: Answered }
+  | { readonly refused: readonly string[] }
 
 const WHOLE = /^\d+$/
 
@@ -160,4 +163,108 @@ export function takingIn(
     else if (one.argument.repeats === true) state.taken[key] = []
   }
   return { taken: state.taken }
+}
+
+export type Named = {
+  readonly argument: string
+  readonly required?: boolean
+  readonly saidAs?: SaidAs
+  readonly notWith?: readonly string[]
+}
+
+export type Commanding = {
+  readonly slug: string
+  readonly arguments?: readonly Named[]
+}
+
+type Camel<Said extends string> = Said extends `${infer head}-${infer rest}`
+  ? `${head}${Capitalize<Camel<rest>>}`
+  : Said
+
+type Slugged<Said extends string> = Said extends `argument/${infer slug}` ? slug : Said
+
+type Carries<Said extends Argument["value"]> = Said extends "whole-number"
+  ? number
+  : Said extends "none" | "true-or-false"
+    ? boolean
+    : string
+
+type Carried<Page extends Argument> = Page extends { readonly repeats: true }
+  ? readonly Carries<Page["value"]>[]
+  : Carries<Page["value"]>
+
+type Entries<Page extends Commanding> = Page extends {
+  readonly arguments: infer Held extends readonly Named[]
+}
+  ? Held[number]
+  : never
+
+type PageOf<Entry extends Named, Pages extends Argument> = Extract<
+  Pages,
+  { readonly slug: Slugged<Entry["argument"]> }
+>
+
+type Filled<Entry extends Named, Pages extends Argument> = Entry extends {
+  readonly required: true
+}
+  ? true
+  : PageOf<Entry, Pages> extends { readonly value: "none" }
+    ? true
+    : PageOf<Entry, Pages> extends { readonly repeats: true }
+      ? true
+      : false
+
+type Unnamed<Page extends Commanding, Pages extends Argument> = Exclude<
+  Slugged<Entries<Page>["argument"]>,
+  Pages["slug"]
+>
+
+type Flat<Of> = { readonly [Key in keyof Of]: Of[Key] }
+
+export type TakenFor<Page extends Commanding, Pages extends Argument> = [
+  Unnamed<Page, Pages>,
+] extends [never]
+  ? Flat<
+      {
+        [Entry in Entries<Page> as Filled<Entry, Pages> extends true
+          ? Camel<Slugged<Entry["argument"]>>
+          : never]: Carried<PageOf<Entry, Pages>>
+      } & {
+        [Entry in Entries<Page> as Filled<Entry, Pages> extends true
+          ? never
+          : Camel<Slugged<Entry["argument"]>>]?: Carried<PageOf<Entry, Pages>>
+      }
+    >
+  : { readonly noArgumentPageHereFor: Unnamed<Page, Pages> }
+
+function namedBy(entry: Named, bySlug: ReadonlyMap<string, Argument>): Naming | null {
+  const argument = bySlug.get(slugOfPart(entry.argument))
+  if (argument === undefined) return null
+  const against = (entry.notWith ?? []).flatMap((one) => {
+    const held = bySlug.get(slugOfPart(one))
+    return held === undefined ? [] : [held]
+  })
+  return {
+    argument,
+    ...(entry.required === undefined ? {} : { required: entry.required }),
+    ...(entry.saidAs === undefined ? {} : { saidAs: entry.saidAs }),
+    ...(against.length === 0 ? {} : { notWith: against }),
+  }
+}
+
+export function takenFor<Page extends Commanding, Pages extends readonly Argument[]>(
+  argv: readonly string[],
+  calledAs: string,
+  page: Page,
+  pages: Pages
+): Read<TakenFor<Page, Pages[number]>> {
+  const bySlug: ReadonlyMap<string, Argument> = new Map(pages.map((one) => [one.slug, one]))
+  const naming: Naming[] = []
+  for (const entry of page.arguments ?? []) {
+    const one = namedBy(entry, bySlug)
+    if (one !== null) naming.push(one)
+  }
+  const read = takingIn(argv, calledAs, naming)
+  if ("refused" in read) return read
+  return { taken: read.taken as TakenFor<Page, Pages[number]> }
 }

@@ -96,5 +96,27 @@ export const argumentTaking = {
       invariantKind: "departure",
       statement: "A pair both entries state is refused once.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A command page's entries are read against the argument pages that command's code names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The record answered holds the arguments the command page names and no other key.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An argument a command page needs is always answered.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An argument carrying a value a command page does not need is left out where nothing said it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A command page naming no argument is answered with nothing taken.",
+    },
   ],
 } as const satisfies Module

@@ -4,7 +4,10 @@ import type {
   Naming,
   Taken,
 } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
-import { takingIn } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import {
+  takenFor,
+  takingIn,
+} from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 
 function argumentOf(slug: string, value: Argument["value"], repeats?: boolean): Argument {
   return {
@@ -208,6 +211,113 @@ test("an argument said as a word alone is named by the placeholder it states", (
     required: true,
   }
   expect(refusals([], [placed])[0]).toBe("`akasha thing` takes `<id>`, and nothing said it")
+})
+
+const DRY_RUN_PAGE = {
+  id: "01a09400-0000-7000-8000-000000000001",
+  type: "argument",
+  slug: "dry-run",
+  said: "--dry-run",
+  takes: "what dry-run is for",
+  value: "none",
+} as const satisfies Argument
+
+const SEAT_PAGE = {
+  id: "01a09400-0000-7000-8000-000000000002",
+  type: "argument",
+  slug: "seat",
+  said: "--seat",
+  takes: "what seat is for",
+  value: "text",
+} as const satisfies Argument
+
+const LIMIT_PAGE = {
+  id: "01a09400-0000-7000-8000-000000000003",
+  type: "argument",
+  slug: "limit",
+  said: "--limit",
+  takes: "what limit is for",
+  value: "whole-number",
+} as const satisfies Argument
+
+const TO_PAGE = {
+  id: "01a09400-0000-7000-8000-000000000004",
+  type: "argument",
+  slug: "to",
+  said: "--to",
+  takes: "what to is for",
+  value: "text",
+  repeats: true,
+} as const satisfies Argument
+
+const PAGES = [DRY_RUN_PAGE, SEAT_PAGE, LIMIT_PAGE, TO_PAGE]
+
+const NAMING_THEM = {
+  slug: "thing",
+  arguments: [
+    { argument: "argument/dry-run" },
+    { argument: "argument/seat", required: true },
+    { argument: "argument/limit" },
+    { argument: "argument/to" },
+  ],
+} as const
+
+const NAMING_NONE = { slug: "nothing" } as const
+
+test("a command page's entries are read against the argument pages its code names", () => {
+  const read = takenFor(["--seat", "athena"], "akasha thing", NAMING_THEM, PAGES)
+  if ("refused" in read) throw new Error(read.refused.join("; "))
+  expect(read.taken).toEqual({ seat: "athena", dryRun: false, to: [] })
+})
+
+test("what a command page names is answered under those keys and typed as the pages say", () => {
+  const read = takenFor(["--seat", "athena", "--limit", "2"], "akasha thing", NAMING_THEM, PAGES)
+  if ("refused" in read) throw new Error(read.refused.join("; "))
+  const seat: string = read.taken.seat
+  const dry: boolean = read.taken.dryRun
+  const limit: number | undefined = read.taken.limit
+  const to: readonly string[] = read.taken.to
+  expect([seat, dry, limit, to]).toEqual(["athena", false, 2, []])
+})
+
+test("an argument the command page needs is refused where nothing said it", () => {
+  const read = takenFor([], "akasha thing", NAMING_THEM, PAGES)
+  if (!("refused" in read)) throw new Error("this was read rather than refused")
+  expect(read.refused[0]).toBe("`akasha thing` takes `--seat`, and nothing said it")
+})
+
+test("how a command page says a call fills an argument is carried to the reader", () => {
+  const page = {
+    slug: "thing",
+    arguments: [{ argument: "argument/seat", required: true, saidAs: "word" }],
+  } as const
+  const read = takenFor(["athena"], "akasha thing", page, [SEAT_PAGE])
+  if ("refused" in read) throw new Error(read.refused.join("; "))
+  expect(read.taken.seat).toBe("athena")
+})
+
+test("two arguments a command page says are never said together are refused", () => {
+  const page = {
+    slug: "thing",
+    arguments: [
+      { argument: "argument/seat", notWith: ["argument/limit"] },
+      { argument: "argument/limit" },
+    ],
+  } as const
+  const read = takenFor(["--seat", "a", "--limit", "1"], "akasha thing", page, [
+    SEAT_PAGE,
+    LIMIT_PAGE,
+  ])
+  if (!("refused" in read)) throw new Error("this was read rather than refused")
+  expect(read.refused[0]).toBe(
+    "`--seat` and `--limit` are never said together, and this call says both"
+  )
+})
+
+test("a command page naming no argument is answered with nothing taken", () => {
+  const read = takenFor([], "akasha thing", NAMING_NONE, [])
+  if ("refused" in read) throw new Error(read.refused.join("; "))
+  expect(read.taken).toEqual({})
 })
 
 test("a word argument and a flag argument may not be said together", () => {
