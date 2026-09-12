@@ -21,6 +21,10 @@ export const commandServerClient = {
       statement: "An ask names a module under `module:` and an export under `export:`.",
     },
     {
+      invariantKind: "departure",
+      statement: "The page named there is named by its slug, and `module` is the wire's word.",
+    },
+    {
       invariantKind: "constraint",
       statement: "An ask missing either key is thrown away by the server without a refusal.",
     },

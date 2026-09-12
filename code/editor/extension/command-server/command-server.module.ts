@@ -61,6 +61,10 @@ export const commandServer = {
       statement: "An ask names a module under `module:` and an export under `export:`.",
     },
     {
+      invariantKind: "departure",
+      statement: "An ask read as a type keeps the wire's words rather than the words inside.",
+    },
+    {
       invariantKind: "constraint",
       statement: "The client declares both wire keys.",
     },
