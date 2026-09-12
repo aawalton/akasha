@@ -1,7 +1,13 @@
 import { expect, test } from "bun:test"
-import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  INPUT,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
-import { portedBy } from "akasha/commands/pages/temper/upstream/data-port/temper-upstream-data-port.command.code.ts"
+import {
+  portedBy,
+  temperUpstreamDataPort,
+} from "akasha/commands/pages/temper/upstream/data-port/temper-upstream-data-port.command.code.ts"
 
 const ROOT = "/nowhere"
 
@@ -39,4 +45,27 @@ test("a run that wrote more than one file names each of them in turn", async () 
     `this stopped part way. What it had done by then is this: ${wrote.join("; ")}. ` +
       "Nothing after that ran."
   )
+})
+
+test("a call naming no library is refused rather than answered with a default", async () => {
+  const said = await temperUpstreamDataPort([])
+
+  expect(said.code).toBe(INPUT)
+  expect(said.refusals.join("\n")).toContain("name the upstream library ported")
+})
+
+test("two libraries named in one call are refused rather than the first one ported", async () => {
+  const said = await temperUpstreamDataPort(["housing", "lib-zone"])
+
+  expect(said.code).toBe(INPUT)
+  expect(said.refusals.join("\n")).toContain(
+    "one call ports one library, and housing, lib-zone names 2"
+  )
+})
+
+test("a library the port list does not hold refuses the call by that name", async () => {
+  const said = await temperUpstreamDataPort(["nosuch"])
+
+  expect(said.code).toBe(INPUT)
+  expect(said.refusals.join("\n")).toContain("nosuch is no upstream library this ports")
 })

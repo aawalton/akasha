@@ -1,9 +1,13 @@
 import { expect, test } from "bun:test"
-import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  INPUT,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
 import {
   copiedBy,
   type Named,
+  temperAddonCopyMetadata,
 } from "akasha/commands/pages/temper/addon/copy-metadata/temper-addon-copy-metadata.command.code.ts"
 
 const NAMED: Named = {
@@ -44,5 +48,21 @@ test("a run that wrote more than one file names each of them in turn", async () 
   expect(said.refusals.at(-1)).toBe(
     `this stopped part way. What it had done by then is this: ${wrote.join("; ")}. ` +
       "Nothing after that ran."
+  )
+})
+
+test("a call naming no addon is refused rather than answered with a default", async () => {
+  const said = await temperAddonCopyMetadata([])
+
+  expect(said.code).toBe(INPUT)
+  expect(said.refusals.join("\n")).toContain("name the addon whose metadata is copied with --addon")
+})
+
+test("two addons named in one call are refused rather than the first one copied", async () => {
+  const said = await temperAddonCopyMetadata(["--addon", "TemperOne", "--addon", "TemperTwo"])
+
+  expect(said.code).toBe(INPUT)
+  expect(said.refusals.join("\n")).toContain(
+    "one addon's metadata is copied at a time, and TemperOne, TemperTwo names several"
   )
 })
