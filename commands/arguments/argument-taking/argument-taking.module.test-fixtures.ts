@@ -1,9 +1,13 @@
 import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
 import type {
+  Commanding,
   Naming,
   Taken,
 } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
-import { takingIn } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import {
+  takenFor,
+  takingIn,
+} from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 
 export const CALLED_AS = "akasha thing"
 
@@ -15,6 +19,26 @@ export function taken(argv: readonly string[], naming: readonly Naming[]): Taken
 
 export function refusals(argv: readonly string[], naming: readonly Naming[]): readonly string[] {
   const read = takingIn(argv, CALLED_AS, naming)
+  if (!("refused" in read)) throw new Error("this was read rather than refused")
+  return read.refused
+}
+
+export function pageTaken(
+  argv: readonly string[],
+  page: Commanding,
+  pages: readonly Argument[]
+): Taken {
+  const read = takenFor(argv, CALLED_AS, page, pages)
+  if ("refused" in read) throw new Error(read.refused.join("; "))
+  return read.taken as Taken
+}
+
+export function pageRefusals(
+  argv: readonly string[],
+  page: Commanding,
+  pages: readonly Argument[]
+): readonly string[] {
+  const read = takenFor(argv, CALLED_AS, page, pages)
   if (!("refused" in read)) throw new Error("this was read rather than refused")
   return read.refused
 }

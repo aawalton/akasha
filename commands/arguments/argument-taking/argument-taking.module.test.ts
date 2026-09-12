@@ -22,6 +22,8 @@ import {
   ONTO,
   PAGES,
   PLACED,
+  pageRefusals,
+  pageTaken,
   REST,
   refusals,
   SEAT_PAGE,
@@ -303,9 +305,7 @@ test("a value that will not narrow still answers for the group it is in", () => 
 })
 
 test("a command page's group is read from the entries that page states", () => {
-  const read = takenFor([], "akasha thing", NAMING_ONE_OF, [SEAT_PAGE, LIMIT_PAGE])
-  if (!("refused" in read)) throw new Error("this was read rather than refused")
-  expect(read.refused).toEqual([
+  expect(pageRefusals([], NAMING_ONE_OF, [SEAT_PAGE, LIMIT_PAGE])).toEqual([
     "`akasha thing` takes `--seat` or `--limit`, and nothing said either",
   ])
 })
@@ -331,9 +331,11 @@ test("an argument said as a word alone is named by the placeholder it states", (
 })
 
 test("a command page's entries are read against the argument pages its code names", () => {
-  const read = takenFor(["--seat", "athena"], "akasha thing", NAMING_THEM, PAGES)
-  if ("refused" in read) throw new Error(read.refused.join("; "))
-  expect(read.taken).toEqual({ seat: "athena", dryRun: false, to: [] })
+  expect(pageTaken(["--seat", "athena"], NAMING_THEM, PAGES)).toEqual({
+    seat: "athena",
+    dryRun: false,
+    to: [],
+  })
 })
 
 test("what a command page names is answered under those keys and typed as the pages say", () => {
@@ -347,9 +349,9 @@ test("what a command page names is answered under those keys and typed as the pa
 })
 
 test("an argument the command page needs is refused where nothing said it", () => {
-  const read = takenFor([], "akasha thing", NAMING_THEM, PAGES)
-  if (!("refused" in read)) throw new Error("this was read rather than refused")
-  expect(read.refused[0]).toBe("`akasha thing` takes `--seat`, and nothing said it")
+  expect(pageRefusals([], NAMING_THEM, PAGES)[0]).toBe(
+    "`akasha thing` takes `--seat`, and nothing said it"
+  )
 })
 
 test("how a command page says a call fills an argument is carried to the reader", () => {
@@ -359,20 +361,15 @@ test("how a command page says a call fills an argument is carried to the reader"
 })
 
 test("two arguments a command page says are never said together are refused", () => {
-  const read = takenFor(["--seat", "a", "--limit", "1"], "akasha thing", NAMING_NOT_WITH, [
+  const said = pageRefusals(["--seat", "a", "--limit", "1"], NAMING_NOT_WITH, [
     SEAT_PAGE,
     LIMIT_PAGE,
   ])
-  if (!("refused" in read)) throw new Error("this was read rather than refused")
-  expect(read.refused[0]).toBe(
-    "`--seat` and `--limit` are never said together, and this call says both"
-  )
+  expect(said[0]).toBe("`--seat` and `--limit` are never said together, and this call says both")
 })
 
 test("a command page naming no argument is answered with nothing taken", () => {
-  const read = takenFor([], "akasha thing", NAMING_NONE, [])
-  if ("refused" in read) throw new Error(read.refused.join("; "))
-  expect(read.taken).toEqual({})
+  expect(pageTaken([], NAMING_NONE, [])).toEqual({})
 })
 
 test("an argument page carrying a default is answered with it where no call says it", () => {
