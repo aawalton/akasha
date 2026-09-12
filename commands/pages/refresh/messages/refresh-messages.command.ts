@@ -7,14 +7,7 @@ export const refreshMessages = {
   definition: "the command counting again what Alan wrote each persona on each day",
   code: "ts",
   changeKind: "change-mechanical",
-  helpNotes: [
-    "every transcript on this machine is read, which takes a minute.",
-    "a message counted is one Alan typed or queued, and nothing an agent or the harness sent.",
-    "who a transcript was written to is read off the persona it names, then the seat page it names, then the name Alan greeted.",
-    "a transcript answering to none of the three is counted against nobody, so a total reads low rather than wrong.",
-    "each day's counts are replaced, so running this twice counts nothing twice.",
-    "`akasha refresh personas` turns the counts into points once this has run.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
