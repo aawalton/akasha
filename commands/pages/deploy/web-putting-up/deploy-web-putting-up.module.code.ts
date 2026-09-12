@@ -1,11 +1,11 @@
 import { join } from "node:path"
 import {
   DATA,
-  OK,
   OPERATIONAL,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { answeredWith, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { pushBranch } from "akasha/git/pushing/git-pushing.module.code.ts"
 import {
   alreadyBuilt,
@@ -52,21 +52,19 @@ export async function putUpWebApp(
   ]
 
   const plan = await planFor(codeAt, workload, deployable.synthPath)
-  if (typeof plan === "string") return { report, refusals: [plan], code: DATA }
+  if (typeof plan === "string") return answeredWith(report, [plan], DATA)
 
   const left = unfilledOf(plan)
   if (left.length > 0) {
-    return {
+    return answeredWith(
       report,
-      refusals: left.map(
-        (one) => `${one}, and applying it would write the stand-in itself into the cluster`
-      ),
-      code: DATA,
-    }
+      left.map((one) => `${one}, and applying it would write the stand-in itself into the cluster`),
+      DATA
+    )
   }
 
   const carried = carriedByOrigin(given.root, sha)
-  if ("why" in carried) return { report, refusals: [carried.why], code: OPERATIONAL }
+  if ("why" in carried) return answeredWith(report, [carried.why], OPERATIONAL)
   report.push(
     `source\t${sha}\t${carried.carried ? "origin carries it" : "origin does not carry it"}`
   )
@@ -77,25 +75,23 @@ export async function putUpWebApp(
     const pushed = pushBranch(given.root)
     report.push(`push\t${pushed.line}`)
     if (pushed.failed) {
-      return {
+      return answeredWith(
         report,
-        refusals: [
+        [
           `origin main does not carry ${sha}, and a pod serves what origin carries, so this web app cannot be put up until that push lands`,
         ],
-        code: OPERATIONAL,
-      }
+        OPERATIONAL
+      )
     }
     up.push(`${sha}, pushed to origin main`)
     const now = carriedByOrigin(given.root, sha)
-    if ("why" in now) return { report, refusals: [now.why], code: OPERATIONAL }
+    if ("why" in now) return answeredWith(report, [now.why], OPERATIONAL)
     if (!now.carried) {
-      return {
+      return answeredWith(
         report,
-        refusals: [
-          `origin main does not carry ${sha} even after the push, so this web app cannot be put up`,
-        ],
-        code: OPERATIONAL,
-      }
+        [`origin main does not carry ${sha} even after the push, so this web app cannot be put up`],
+        OPERATIONAL
+      )
     }
   }
 
@@ -115,26 +111,26 @@ export async function putUpWebApp(
   let resolved: Resolved = { env: [], hidden: [], missing: [] }
   if (target !== null && !isBuilt) {
     const installs = installableAt(given.root, sha)
-    if ("why" in installs) return { report, refusals: [installs.why], code: DATA }
+    if ("why" in installs) return answeredWith(report, [installs.why], DATA)
     report.push(`installs\t${sha}\tthe manifests it tracks`)
     const declared = await declaredBuildEnv(join(codeAt, deployable.synthPath))
     resolved = resolveBuildEnv(target.namespace, declared, sha)
     report.push(`build-env\t${resolved.env.map((one) => one.name).join(" ")}`)
     if (resolved.missing.length > 0) {
-      return {
+      return answeredWith(
         report,
-        refusals: resolved.missing.map(
+        resolved.missing.map(
           (one) => `${one}, so the build would inline nothing where a value belongs`
         ),
-        code: DATA,
-      }
+        DATA
+      )
     }
   }
 
   let differs = false
   for (const manifest of plan.manifests) {
     const applied = appliedOf(plan, manifest)
-    if ("why" in applied) return { report, refusals: [applied.why], code: OPERATIONAL }
+    if ("why" in applied) return answeredWith(report, [applied.why], OPERATIONAL)
     report.push(`manifest\t${manifest.path}\t${applied.stands ? "stands" : "differs"}`)
     if (!applied.stands) differs = true
   }
@@ -145,12 +141,12 @@ export async function putUpWebApp(
     report.push(
       `nothing\tthe cluster already stands as ${deployable.slug}'s page describes, at ${sha}`
     )
-    return { report, refusals: [], code: OK }
+    return told(report)
   }
 
   if (dryRun) {
     report.push("dry-run\tnothing was applied; run it again without `--dry-run` to carry it out")
-    return { report, refusals: [], code: OK }
+    return told(report)
   }
 
   let builtNow = false
@@ -159,7 +155,7 @@ export async function putUpWebApp(
     for (const one of built.ran) {
       report.push(`ran\t${one.argv.slice(0, SAID).join(" ")}\texited ${one.code}`)
     }
-    if (built.why !== null) return { report, refusals: [built.why], code: OPERATIONAL }
+    if (built.why !== null) return answeredWith(report, [built.why], OPERATIONAL)
     builtNow = true
     up.push(`${target.packagePath}, built in the pod from ${sha}`)
   }
@@ -173,7 +169,7 @@ export async function putUpWebApp(
         refusals.push(`kubectl ${one.argv.join(" ")} exited ${one.code}: ${one.stderr.trim()}`)
       }
     }
-    if (refusals.length > 0) return { report, refusals, code: OPERATIONAL }
+    if (refusals.length > 0) return answeredWith(report, refusals, OPERATIONAL)
     up.push(`${workload.kind} ${workload.namespace}/${workload.name}, applied to the cluster`)
   }
 
@@ -189,5 +185,5 @@ export async function putUpWebApp(
   report.push(
     `up\t${workload.kind} ${workload.namespace}/${workload.name} stands as its page describes`
   )
-  return { report, refusals: [], code: OK }
+  return told(report)
 }
