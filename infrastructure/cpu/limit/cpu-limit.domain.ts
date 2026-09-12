@@ -55,5 +55,14 @@ export const cpuLimit = {
       invariantKind: "gap",
       statement: "Every processor limit is the value of a page property.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Refusing what a run answered is how a processor ceiling is enforced.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A processor ceiling drives down what a run spends rather than keeping the host safe from that run.",
+    },
   ],
 } as const satisfies Domain
