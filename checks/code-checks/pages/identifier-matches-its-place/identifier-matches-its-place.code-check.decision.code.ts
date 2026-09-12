@@ -1,3 +1,4 @@
+import { dirname } from "node:path"
 import { lineOf, parsedAs } from "akasha/code/source/code-source.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
@@ -16,6 +17,10 @@ const UNDER = "_"
 const DECLARED = ".d.ts"
 
 const DRAWN = ".tsx"
+
+const FIXED_BY = "text-property/lua-export"
+
+const FIXED_KEY = "luaExport"
 
 const OPENING = /^[A-Z]/
 
@@ -38,6 +43,7 @@ export type Places = {
   readonly componentIdentifier: Placing
   readonly constantIdentifier: Placing
   readonly derivedIdentifier: Placing
+  readonly fixed: ReadonlyMap<string, string>
 }
 
 type Working = {
@@ -241,12 +247,14 @@ export function refusedIn(at: string, text: string, places: Places): readonly st
     for (const one of namesIn(name)) placedIn(one, "name", scope)
   }
   const drawnIn = at.endsWith(DRAWN)
+  const fixedHere = places.fixed.get(dirname(at))
   const taking = (
     name: ts.Identifier,
     held: ts.Node,
     scope: ts.Node,
     declared: ts.Node
   ): undefined => {
+    if (name.text === fixedHere) return
     if (drawing(held) || openedAsATag(scope, name.text)) {
       return take(name, "component", places.componentIdentifier)
     }
@@ -291,6 +299,19 @@ export function refusedIn(at: string, text: string, places: Places): readonly st
   return found
 }
 
+export function fixedNamesIn(index: Answering): ReadonlyMap<string, string> {
+  const found = new Map<string, string>()
+  const held = index.carryingOf(FIXED_BY)
+  if ("refused" in held) return found
+  for (const one of held.carrying) {
+    const value = index.pageByPath(one.path)
+    if (value === null) continue
+    const named = value[FIXED_KEY]
+    if (typeof named === "string") found.set(dirname(one.path), named)
+  }
+  return found
+}
+
 export function placesIn(
   root: string,
   index: Answering,
@@ -302,6 +323,7 @@ export function placesIn(
     matching: formatting(nameFormat),
   })
   return {
+    fixed: fixedNamesIn(index),
     typeIdentifier: held(typeIdentifier.nameFormat),
     functionIdentifier: held(functionIdentifier.nameFormat),
     componentIdentifier: held(componentIdentifier.nameFormat),

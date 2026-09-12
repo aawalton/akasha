@@ -174,8 +174,12 @@ export const identifierMatchesItsPlace = {
       statement: "A name another writer fixed outside akasha is passed over.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "A function spelled as the `luaExport` its page states is passed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The pages carrying `luaExport` are asked of the index rather than named here.",
     },
   ],
   check: { maxCpuSeconds: 10 },

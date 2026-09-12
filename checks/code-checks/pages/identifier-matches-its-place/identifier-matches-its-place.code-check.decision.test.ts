@@ -4,6 +4,7 @@ import {
   AT,
   BESIDE_AT,
   DRAWN_AT,
+  FIXED_AT,
   HELD_AT,
   PAGE_AT,
   PLACES,
@@ -218,8 +219,8 @@ test("a component not in upper camel case is refused, naming it a component", ()
   expect(said[0]).toContain("`name-format/upper-camel-case`")
 })
 
-test("a function a drawn file exports with a name opening upper is a component", () => {
-  const held = "function RungOf() {\n  return 1\n}\n"
+test("a function a drawn file exports and names upper is a component", () => {
+  const held = "function RungOf() {}\n"
   expect(refusedIn(DRAWN_AT, `export ${held}`, PLACES)).toEqual([])
   expect(refusedIn(DRAWN_AT, held, PLACES)).toHaveLength(1)
   expect(refusedIn(AT, `export ${held}`, PLACES)).toHaveLength(1)
@@ -288,6 +289,8 @@ test("a declaration file states names another writer chose, so none of them is j
   const body = "type bag_slot = number\n"
   expect(refusedIn("akasha/eso-writ.type-declaration.d.ts", body, PLACES)).toEqual([])
   expect(refusedIn(AT, body, PLACES)).toHaveLength(1)
+  const held = "export function __TS__ArrayAt() {}\n"
+  expect(refusedIn(FIXED_AT, held, PLACES)).toEqual([])
 })
 
 test("a declaration in an ordinary file is passed over, and a name beside it is not", () => {

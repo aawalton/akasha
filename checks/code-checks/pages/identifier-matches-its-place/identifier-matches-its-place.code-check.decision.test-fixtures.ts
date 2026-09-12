@@ -48,7 +48,10 @@ const FORMATS: readonly Formatted[] = [
   },
 ]
 
+export const FIXED_AT = "akasha/lualibs/at.lualib.code.ts"
+
 export const PLACES: Places = {
+  fixed: new Map([["akasha/lualibs", "__TS__ArrayAt"]]),
   typeIdentifier: {
     nameFormat: typeIdentifier.nameFormat,
     matching: upperCamelCase,
