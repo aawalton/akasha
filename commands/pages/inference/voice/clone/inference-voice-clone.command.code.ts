@@ -54,7 +54,7 @@ const TAKING = [
   { said: TEXT, prose: true },
   { said: REF_AUDIO, aliases: ["--ref"] },
   { said: REF_TEXT, prose: true },
-  { said: OUTPUT, aliases: ["--out"] },
+  { said: OUTPUT },
   { said: PRIORITY },
   { said: TIMEOUT },
   { said: MODE },
