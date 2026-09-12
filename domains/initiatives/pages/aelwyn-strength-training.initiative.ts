@@ -98,6 +98,9 @@ export const aelwynStrengthTraining = {
     {
       statement: "Every constraint the selector obeys is a predicate over an exercise page.",
     },
+    {
+      statement: "What Alan owns is read from the kit pages rather than written as a constraint.",
+    },
   ],
   constraints: [
     "The 122 sets already logged stay readable through any change to how training is tracked.",
