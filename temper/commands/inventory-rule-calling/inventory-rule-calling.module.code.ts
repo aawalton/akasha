@@ -1,9 +1,8 @@
-import { exitCodeForThrowable } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import {
+  answering,
   DATA,
   INPUT,
   OK,
-  OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -348,24 +347,6 @@ export async function copiedRule(kind: Kind, id: string): Promise<Answer> {
   }
   await access.write(next)
   return toldOf(clone)
-}
-
-function codeOf(thrown: unknown): number {
-  const held = exitCodeForThrowable(thrown)
-  return held === INPUT || held === DATA ? held : OPERATIONAL
-}
-
-export function whySaid(thrown: unknown): string {
-  const said = thrown instanceof Error ? thrown.message : String(thrown)
-  return said.replace(/\s+/g, " ").trim()
-}
-
-export async function answering(run: () => Promise<Answer>): Promise<Answer> {
-  try {
-    return await run()
-  } catch (thrown) {
-    return refused(whySaid(thrown), codeOf(thrown))
-  }
 }
 
 export async function answeredCall(
