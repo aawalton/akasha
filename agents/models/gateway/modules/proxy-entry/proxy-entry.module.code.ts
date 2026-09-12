@@ -8,12 +8,12 @@ import {
   startOAuthProxy,
 } from "akasha/agents/models/gateway/modules/proxy-serving/proxy-serving.module.code.ts"
 import { transportLogFlushed } from "akasha/agents/models/gateway/modules/transport-log/transport-log.module.code.ts"
-import { supervisorSocketPath } from "akasha/agents/seats/supervisors/modules/log-path/supervisor-log-path.module.code.ts"
-import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   clearProxyState,
   writeProxyStateQuietly,
-} from "akasha/seat-system/seat-proxy-state/seat-proxy-state.module.code.ts"
+} from "akasha/agents/seats/modules/proxy-state/seat-proxy-state.module.code.ts"
+import { supervisorSocketPath } from "akasha/agents/seats/supervisors/modules/log-path/supervisor-log-path.module.code.ts"
+import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   fileSink,
   LOG_MAX_BYTES,

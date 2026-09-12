@@ -5,6 +5,7 @@ import {
 } from "akasha/agents/seats/modules/action/seat-action.module.code.ts"
 import type { SeatMatch } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
 import { resolveSeatTarget } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
+import { readProxyState } from "akasha/agents/seats/modules/proxy-state/seat-proxy-state.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { fleet } from "akasha/commands/arguments/pages/fleet.argument.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
@@ -24,7 +25,6 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { liveSeats } from "akasha/commands/pages/model/gateway/live-gateway-seats/live-gateway-seats.module.code.ts"
 import { modelGatewaySwap as page } from "akasha/commands/pages/model/gateway/swap/model-gateway-swap.command.ts"
-import { readProxyState } from "akasha/seat-system/seat-proxy-state/seat-proxy-state.module.code.ts"
 import { pidAliveOrRefuse } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
 
 const ACTION = "swap-proxy"
