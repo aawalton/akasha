@@ -2,7 +2,7 @@ import { runChecker } from "akasha/temper/items-filters-core/search-eval-adapter
 import type { FilterEditorOption } from "akasha/temper/items-filters-core/search-filter-types/search-filter-types.module.code.ts"
 import { defineFilter } from "akasha/temper/items-filters-core/search-filter-types/search-filter-types.module.code.ts"
 import { parseStringArray } from "akasha/temper/items-filters-core/search-string-array-parse/search-string-array-parse.module.code.ts"
-import { checkPotionEffects } from "akasha/temper/items-rules-eval/check-potion-effects/check-potion-effects.module.code.ts"
+import { checkPotionEffects } from "akasha/temper/items-rules-eval/modules/check-potion-effects/check-potion-effects.module.code.ts"
 
 const POTION_EFFECT_OPTIONS: readonly FilterEditorOption[] = [
   { value: "health-restore", label: "Restores Health" },

@@ -2,12 +2,12 @@ import { esoTraitToTemperId } from "akasha/temper/items-core/eso-trait-reverse-m
 import { itemNameMatchesPattern } from "akasha/temper/items-core/item-name-pattern/item-name-pattern.module.code.ts"
 import { SET_ESO_ID_TO_CATEGORY } from "akasha/temper/items-core/set-category-mappings/set-category-mappings.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+import type { EvalContext } from "akasha/temper/items-rules-eval/eval-env/eval-env.module.code.ts"
+import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
 import {
   type ConditionCheckResult,
   misshapenList,
-} from "akasha/temper/items-rules-eval/check-result/check-result.module.code.ts"
-import type { EvalContext } from "akasha/temper/items-rules-eval/eval-env/eval-env.module.code.ts"
-import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
+} from "akasha/temper/items-rules-eval/modules/check-result/check-result.module.code.ts"
 
 export function checkClassification(
   rule: CompiledOrderedRule,

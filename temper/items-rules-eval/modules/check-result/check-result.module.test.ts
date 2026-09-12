@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { misshapenList } from "akasha/temper/items-rules-eval/check-result/check-result.module.code.ts"
+import { misshapenList } from "akasha/temper/items-rules-eval/modules/check-result/check-result.module.code.ts"
 
 test("a list is the shape a list condition takes, so nothing is said of it", () => {
   expect(misshapenList("potion-effects", ["Restore Health"])).toBeUndefined()
