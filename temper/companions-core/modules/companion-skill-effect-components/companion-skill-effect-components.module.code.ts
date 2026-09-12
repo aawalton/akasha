@@ -1,5 +1,5 @@
-import type { CompanionValueFormula } from "akasha/temper/companions-core/companion-value-formula/companion-value-formula.module.code.ts"
 import type { CompanionMetricId } from "akasha/temper/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
+import type { CompanionValueFormula } from "akasha/temper/companions-core/modules/companion-value-formula/companion-value-formula.module.code.ts"
 import type {
   CastTimeEffect,
   ChannelEffect,
