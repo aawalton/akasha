@@ -11,7 +11,7 @@ export const athenaCommandFolders = {
     {
       statement: "A parts list is sorted, and no reader depends on the order it is written in.",
       workingMemory:
-        "`parts.relation-property.ts:21` carries the sort as a gap. Unsorted lists rise faster than anything sorts them, so this closes with a check, not a sweep. Only one reader is blessed: `champions-tree.module.ts:21` blesses the editor's Domains numbering, fed as `sequence` from `domain-rows.module.code.ts:125`; that ordering needs a property of its own or the sort takes it. The namespace listing at `calling.module.code.ts:361` is blessed by nothing. Alan's: what keeps the Domains numbering?\n",
+        "The namespace listing is settled: `namespace-listing.module.code.ts` sorts by the listed name, stated on its page. `code-check/parts-list-is-sorted` landed `experimental: true`; it sorts by whole `type/slug`, refusing 350 pages where slug alone refuses 517. Those 350 are exactly the pages whose Domains numbering moves, read only by `ordered` at `champions-tree.module.code.ts:27`, so no sweep starts yet. Alan's, one word: `record` (`{part, place}`), `number` (a `place` per child), or `none`?\n",
     },
   ],
 } as const satisfies Initiative
