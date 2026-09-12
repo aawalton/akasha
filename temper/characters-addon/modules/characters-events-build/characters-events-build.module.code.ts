@@ -1,9 +1,9 @@
-import { scheduleTaskAutoCompletionCheck } from "akasha/temper/characters-addon/characters-task-auto-complete/characters-task-auto-complete.module.code.ts"
 import { captureAndSaveCharacterStats } from "akasha/temper/characters-addon/modules/characters-player-stats/characters-player-stats.module.code.ts"
 import {
   updateAccountSkillLineProgress,
   updateSkillLineProgress,
 } from "akasha/temper/characters-addon/modules/characters-skill-lines/characters-skill-lines.module.code.ts"
+import { scheduleTaskAutoCompletionCheck } from "akasha/temper/characters-addon/modules/characters-task-auto-complete/characters-task-auto-complete.module.code.ts"
 import {
   saveSkillMorphProgress,
   updateAccountSkillMorphProgress,

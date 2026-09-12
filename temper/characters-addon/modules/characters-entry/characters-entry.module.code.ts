@@ -5,11 +5,6 @@ import {
   finishPerfTrace,
   startPerfTrace,
 } from "akasha/temper/capture-perf/perf-trace/perf-trace.module.code.ts"
-import {
-  cleanStaleCompletions,
-  scheduleTaskAutoCompletionCheck,
-} from "akasha/temper/characters-addon/characters-task-auto-complete/characters-task-auto-complete.module.code.ts"
-import { initializeTaskHud } from "akasha/temper/characters-addon/characters-task-hud/characters-task-hud.module.code.ts"
 import { collectTraitResearch } from "akasha/temper/characters-addon/characters-trait-research/characters-trait-research.module.code.ts"
 import { collectTributeCardUpgrades } from "akasha/temper/characters-addon/characters-tribute-card-upgrades/characters-tribute-card-upgrades.module.code.ts"
 import { toggleWindow } from "akasha/temper/characters-addon/characters-window/characters-window.module.code.ts"
@@ -45,6 +40,11 @@ import {
   saveSkillLineProgress,
 } from "akasha/temper/characters-addon/modules/characters-skill-lines/characters-skill-lines.module.code.ts"
 import { updateSkillPoints } from "akasha/temper/characters-addon/modules/characters-skill-points/characters-skill-points.module.code.ts"
+import {
+  cleanStaleCompletions,
+  scheduleTaskAutoCompletionCheck,
+} from "akasha/temper/characters-addon/modules/characters-task-auto-complete/characters-task-auto-complete.module.code.ts"
+import { initializeTaskHud } from "akasha/temper/characters-addon/modules/characters-task-hud/characters-task-hud.module.code.ts"
 import {
   saveAccountSkillMorphProgress,
   saveSkillMorphProgress,

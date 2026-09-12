@@ -1,24 +1,3 @@
-import { taskHasCard } from "akasha/temper/characters-addon/characters-task-card-match/characters-task-card-match.module.code.ts"
-import {
-  type AntiquityLeadEnrichment,
-  getAntiquityLeadEnrichment,
-  getCadwellEnrichment,
-  getCompanionQuestEnrichment,
-  getCompanionRapportEnrichment,
-  getDragonguardBadges,
-  getLoreLibraryEnrichment,
-  isDragonguardTask,
-  isLoreLibraryTask,
-  isUndauntedTask,
-} from "akasha/temper/characters-addon/characters-task-hud-enrichment/characters-task-hud-enrichment.module.code.ts"
-import {
-  type DailyWritRow,
-  getDailyWritsEnrichmentRows,
-} from "akasha/temper/characters-addon/characters-task-hud-enrichment-daily-writs/characters-task-hud-enrichment-daily-writs.module.code.ts"
-import type {
-  SubRowColor,
-  SubRowSpec,
-} from "akasha/temper/characters-addon/characters-task-hud-rows/characters-task-hud-rows.module.code.ts"
 import { getDungeonSetsForCurrentZone } from "akasha/temper/characters-addon/characters-task-hud-visibility/characters-task-hud-visibility.module.code.ts"
 import {
   filterPledgesForCharacter,
@@ -30,6 +9,27 @@ import {
   getScribingScriptType,
   getScribingSourceSubRows,
 } from "akasha/temper/characters-addon/modules/characters-scribing-sources/characters-scribing-sources.module.code.ts"
+import { taskHasCard } from "akasha/temper/characters-addon/modules/characters-task-card-match/characters-task-card-match.module.code.ts"
+import {
+  type AntiquityLeadEnrichment,
+  getAntiquityLeadEnrichment,
+  getCadwellEnrichment,
+  getCompanionQuestEnrichment,
+  getCompanionRapportEnrichment,
+  getDragonguardBadges,
+  getLoreLibraryEnrichment,
+  isDragonguardTask,
+  isLoreLibraryTask,
+  isUndauntedTask,
+} from "akasha/temper/characters-addon/modules/characters-task-hud-enrichment/characters-task-hud-enrichment.module.code.ts"
+import {
+  type DailyWritRow,
+  getDailyWritsEnrichmentRows,
+} from "akasha/temper/characters-addon/modules/characters-task-hud-enrichment-daily-writs/characters-task-hud-enrichment-daily-writs.module.code.ts"
+import type {
+  SubRowColor,
+  SubRowSpec,
+} from "akasha/temper/characters-addon/modules/characters-task-hud-rows/characters-task-hud-rows.module.code.ts"
 import {
   getSkillMorphEnrichment,
   isSkillMorphTask,

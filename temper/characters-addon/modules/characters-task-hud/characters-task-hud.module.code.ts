@@ -1,12 +1,4 @@
 import { TEXT_TERTIARY } from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
-import { ENRICHMENT_SELECTORS } from "akasha/temper/characters-addon/characters-task-hud-enrichment-registry/characters-task-hud-enrichment-registry.module.code.ts"
-import { isFullyCompleteAtLoad } from "akasha/temper/characters-addon/characters-task-hud-full-completion/characters-task-hud-full-completion.module.code.ts"
-import {
-  appendQuestHintRow,
-  createQuestRow,
-  createSubRow,
-  createTaskRow,
-} from "akasha/temper/characters-addon/characters-task-hud-rows/characters-task-hud-rows.module.code.ts"
 import {
   DRAG_HEIGHT,
   FALLBACK_BACKPACK_BUFFER_SLOTS,
@@ -44,6 +36,14 @@ import {
 import { resolveTaskProgress } from "akasha/temper/characters-addon/characters-task-progress-resolver/characters-task-progress-resolver.module.code.ts"
 import { getActiveQuests } from "akasha/temper/characters-addon/modules/characters-active-quests/characters-active-quests.module.code.ts"
 import { getCharactersConfig } from "akasha/temper/characters-addon/modules/characters-config/characters-config.module.code.ts"
+import { ENRICHMENT_SELECTORS } from "akasha/temper/characters-addon/modules/characters-task-hud-enrichment-registry/characters-task-hud-enrichment-registry.module.code.ts"
+import { isFullyCompleteAtLoad } from "akasha/temper/characters-addon/modules/characters-task-hud-full-completion/characters-task-hud-full-completion.module.code.ts"
+import {
+  appendQuestHintRow,
+  createQuestRow,
+  createSubRow,
+  createTaskRow,
+} from "akasha/temper/characters-addon/modules/characters-task-hud-rows/characters-task-hud-rows.module.code.ts"
 import { createMovableWindow } from "akasha/temper/hud-window/movable-window/movable-window.module.code.ts"
 import { isResettingCard } from "akasha/temper/player-completion/completion-card-reset-behavior/completion-card-reset-behavior.module.code.ts"
 import {
