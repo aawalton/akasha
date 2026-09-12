@@ -1,5 +1,10 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
+import {
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { CATALOG_DOMAIN_KEYS } from "akasha/temper/catalog-core/domain-keys/domain-keys.module.code.ts"
@@ -11,10 +16,6 @@ import {
 } from "akasha/temper/catalog-side-file/catalog-side-file/catalog-side-file.module.code.ts"
 import { valuesOf } from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
-
-const SAID_WRONG = 1
-
-const FAILED = 3
 
 const DOMAIN_FLAG = "--domain"
 
@@ -45,7 +46,7 @@ function saidWrongIn(argv: readonly string[], asked: readonly string[]): string 
 export function temperCatalogInvalidate(argv: readonly string[] = []): Answer {
   const asked = valuesOf(argv, DOMAIN_FLAG)
   const wrong = saidWrongIn(argv, asked)
-  if (wrong !== null) return refused(wrong, SAID_WRONG)
+  if (wrong !== null) return refused(wrong, INPUT)
 
   const sideFilePath = resolveSideFilePath(valuesOf(argv, SIDE_FILE_FLAG)[0])
 
@@ -60,12 +61,12 @@ export function temperCatalogInvalidate(argv: readonly string[] = []): Answer {
   } catch (thrown) {
     return refused(
       `the request at ${sideFilePath} was not written, so the addon collects nothing again: ${messageOf(thrown)}`,
-      FAILED
+      OPERATIONAL
     )
   }
 
   if (argv.includes(JSON_FLAG)) {
-    return { report: JSON.stringify(next, null, SPACES).split("\n"), refusals: [], code: 0 }
+    return { report: JSON.stringify(next, null, SPACES).split("\n"), refusals: [], code: OK }
   }
 
   const named = next.invalidateDomains.length === 0 ? "all" : next.invalidateDomains.join(",")
@@ -75,6 +76,6 @@ export function temperCatalogInvalidate(argv: readonly string[] = []): Answer {
       `written to ${sideFilePath}, and the addon collects again when the game next reloads`,
     ],
     refusals: [],
-    code: 0,
+    code: OK,
   }
 }
