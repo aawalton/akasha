@@ -5,7 +5,7 @@ import type { ViewLayout } from "akasha/pages/core/schema/view-data/view-data.mo
 import {
   DEFAULT_GALLERY_CARD_SIZE,
   type GalleryCardSize,
-} from "akasha/pages/core/view/gallery/gallery.module.code.ts"
+} from "akasha/pages/core/view/modules/gallery/gallery.module.code.ts"
 import { buildTableColumns } from "akasha/pages/ui/components/modules/card-property-columns/card-property-columns.module.code.ts"
 import { PageCardGrid } from "akasha/pages/ui/components/page-card-grid/page-card-grid.module.code.tsx"
 import { PageGallery } from "akasha/pages/ui/components/page-gallery/page-gallery.module.code.tsx"

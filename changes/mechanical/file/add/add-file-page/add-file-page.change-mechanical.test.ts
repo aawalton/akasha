@@ -4,7 +4,7 @@ import { worldIn } from "akasha/changes/modules/shadow/change-shadow.module.test
 import {
   indexedRepo,
   scratch,
-} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
+} from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
 
 const REACHES = "change-mechanical/add-file-code"
 

@@ -1,10 +1,10 @@
 "use client"
 
+import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import {
   FilterableList,
   FilterableListItem,
-} from "akasha/design/interfaces/primitives/filterable-list/filterable-list.module.code.tsx"
-import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
+} from "akasha/design/interfaces/primitives/modules/filterable-list/filterable-list.module.code.tsx"
 import {
   Popover,
   PopoverContent,
@@ -13,8 +13,8 @@ import {
 import { SubView } from "akasha/design/interfaces/primitives/sub-view/sub-view.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
-import { GalleryOptionsPicker } from "akasha/pages/ui/components/gallery-options-picker/gallery-options-picker.module.code.tsx"
 import { GroupByPicker } from "akasha/pages/ui/components/group-by-picker/group-by-picker.module.code.tsx"
+import { GalleryOptionsPicker } from "akasha/pages/ui/components/modules/gallery-options-picker/gallery-options-picker.module.code.tsx"
 import { NotesOptionsPicker } from "akasha/pages/ui/components/notes-options-picker/notes-options-picker.module.code.tsx"
 import { PageSizePicker } from "akasha/pages/ui/components/page-size-picker/page-size-picker.module.code.tsx"
 import { PropertyVisibilityPicker } from "akasha/pages/ui/components/property-visibility-picker/property-visibility-picker.module.code.tsx"

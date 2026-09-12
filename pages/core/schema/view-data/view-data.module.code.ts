@@ -5,7 +5,7 @@ import {
   type LockedFacet,
   lockedFacetSchema,
 } from "akasha/pages/core/schema/view-data-locked/view-data-locked.module.code.ts"
-import type { GalleryCardSize } from "akasha/pages/core/view/gallery/gallery.module.code.ts"
+import type { GalleryCardSize } from "akasha/pages/core/view/modules/gallery/gallery.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import * as z from "zod"
 

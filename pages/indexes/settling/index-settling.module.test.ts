@@ -2,6 +2,11 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import {
+  type Indexing,
+  indexingAt,
+  refreshedFrom,
+} from "akasha/pages/indexes/indexing/indexing.module.code.ts"
+import {
   aProperty,
   aType,
   bodyOf,
@@ -16,12 +21,7 @@ import {
   put,
   scratch,
   textIn,
-} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import {
-  type Indexing,
-  indexingAt,
-  refreshedFrom,
-} from "akasha/pages/indexes/indexing/indexing.module.code.ts"
+} from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
 import { listedByPath, readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
 import { filingOf, settlingOver } from "akasha/pages/indexes/settling/index-settling.module.code.ts"

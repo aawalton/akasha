@@ -1,4 +1,3 @@
-import type { FormulaNode } from "akasha/temper/characters-stats/formula-types/formula-types.module.code.ts"
 import { getAggregateMetricIds } from "akasha/temper/characters-stats/metric-tree-queries/metric-tree-queries.module.code.ts"
 import type { Metric } from "akasha/temper/characters-stats/metrics/metrics.module.code.ts"
 import { hasFormula, metrics } from "akasha/temper/characters-stats/metrics/metrics.module.code.ts"
@@ -11,6 +10,7 @@ import {
   getNumberPerSecondsEffects,
   getPercentageEffects,
 } from "akasha/temper/characters-stats/modules/extractors/extractors.module.code.ts"
+import type { FormulaNode } from "akasha/temper/characters-stats/modules/formula-types/formula-types.module.code.ts"
 import type { MetricId } from "akasha/temper/formula-framework/metric-id/metric-id.module.code.ts"
 import { evaluateArithmeticNode } from "akasha/temper/formula-framework/modules/arithmetic-evaluate/arithmetic-evaluate.module.code.ts"
 import type { EffectSource } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"

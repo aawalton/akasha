@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { landedAt, namedBy } from "akasha/code/folder-spelling/folder-spelling.module.code.ts"
+import {
+  landedAt,
+  namedBy,
+} from "akasha/code/modules/folder-spelling/folder-spelling.module.code.ts"
 
 const FOLDER = "widget-root"
 

@@ -4,13 +4,13 @@ import {
   type FoodOrDrinkId,
   type FoodOrDrinkSource,
   foodOrDrink,
-} from "akasha/temper/character-sources/food-or-drink-source/food-or-drink-source.module.code.ts"
+} from "akasha/temper/character-sources/modules/food-or-drink-source/food-or-drink-source.module.code.ts"
 import { convertIconPathToUrl } from "akasha/temper/characters-equipment/get-equipment-icon/get-equipment-icon.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import {
   FilterableSelectDialog,
   type FilterableSelectDialogConfig,
-} from "akasha/temper/web/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
+} from "akasha/temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
 import { getSubcategory } from "akasha/utils/narrow/get-subcategory/get-subcategory.module.code.ts"
 import { useMemo } from "react"
 

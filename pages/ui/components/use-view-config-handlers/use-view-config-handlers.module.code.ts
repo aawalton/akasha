@@ -4,7 +4,7 @@ import type {
   ViewLayout,
   VisibilityChange,
 } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
-import type { GalleryCardSize } from "akasha/pages/core/view/gallery/gallery.module.code.ts"
+import type { GalleryCardSize } from "akasha/pages/core/view/modules/gallery/gallery.module.code.ts"
 import { reorderVisibleProperties } from "akasha/pages/ui/components/page-table-column-dnd-helpers/page-table-column-dnd-helpers.module.code.ts"
 import { useCallback } from "react"
 

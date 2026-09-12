@@ -6,7 +6,7 @@ import { useLoadMore } from "akasha/design/interfaces/layout/use-load-more/use-l
 import {
   type GalleryCardSize,
   galleryCardMinWidth,
-} from "akasha/pages/core/view/gallery/gallery.module.code.ts"
+} from "akasha/pages/core/view/modules/gallery/gallery.module.code.ts"
 import type { ReactNode } from "react"
 
 interface PageGalleryProps<T> {

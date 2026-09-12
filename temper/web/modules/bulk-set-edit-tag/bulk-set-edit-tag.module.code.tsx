@@ -16,7 +16,7 @@ import { isSetsAllId } from "akasha/temper/characters-equipment/sets-all/sets-al
 import type { SetId as SetsAllId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/equipment/set-template/set-template.module.code.ts"
 import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
-import { FilterableSelectDialog } from "akasha/temper/web/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
+import { FilterableSelectDialog } from "akasha/temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
 import { useMemo, useState } from "react"
 
 interface BulkSetEditTagProps {

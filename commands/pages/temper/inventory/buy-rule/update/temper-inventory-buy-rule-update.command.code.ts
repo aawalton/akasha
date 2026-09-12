@@ -15,8 +15,8 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { answeredByPage } from "akasha/commands/modules/page-answering/page-answering.module.code.ts"
 import { temperInventoryBuyRuleUpdate as page } from "akasha/commands/pages/temper/inventory/buy-rule/update/temper-inventory-buy-rule-update.command.ts"
-import { emitJson } from "akasha/temper/commands/format-output/format-output.module.code.ts"
 import { BUY_SOURCE_VALUES } from "akasha/temper/commands/inventory-rule-flags/inventory-rule-flags.module.code.ts"
+import { emitJson } from "akasha/temper/commands/modules/format-output/format-output.module.code.ts"
 import {
   lockedOff,
   named,

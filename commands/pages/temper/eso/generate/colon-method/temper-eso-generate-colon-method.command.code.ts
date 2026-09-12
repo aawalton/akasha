@@ -23,11 +23,11 @@ import {
 import { temperEsoGenerateColonMethod as page } from "akasha/commands/pages/temper/eso/generate/colon-method/temper-eso-generate-colon-method.command.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 import { esoDocPathForLuaRoot } from "akasha/temper/build-deploy-checks/modules/eso-doc-api-version/eso-doc-api-version.module.code.ts"
+import { extractColonMethodNames } from "akasha/temper/commands/modules/eso-colon-methods/eso-colon-methods.module.code.ts"
 import {
   saidShort,
   stagingAt,
-} from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
-import { extractColonMethodNames } from "akasha/temper/commands/modules/eso-colon-methods/eso-colon-methods.module.code.ts"
+} from "akasha/temper/commands/modules/flag-fault-stage/flag-fault-stage.module.code.ts"
 import { collectLuaFiles } from "akasha/temper/eso-paths/lua-files/lua-files.module.code.ts"
 import {
   esoCloneHeaderLines,

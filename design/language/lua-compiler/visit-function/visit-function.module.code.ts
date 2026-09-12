@@ -1,8 +1,4 @@
 import {
-  ContextType,
-  getFunctionContextType,
-} from "akasha/design/language/lua-compiler/function-context/function-context.module.code.ts"
-import {
   createLocalOrExportedOrGlobalDeclaration,
   createSelfIdentifier,
   wrapInTable,
@@ -20,6 +16,10 @@ import {
   hasDefaultExportModifier,
 } from "akasha/design/language/lua-compiler/modules/export-scope/export-scope.module.code.ts"
 import { createExportsIdentifier } from "akasha/design/language/lua-compiler/modules/exports-identifier/exports-identifier.module.code.ts"
+import {
+  ContextType,
+  getFunctionContextType,
+} from "akasha/design/language/lua-compiler/modules/function-context/function-context.module.code.ts"
 import { transformInPrecedingStatementScope } from "akasha/design/language/lua-compiler/preceding-statements/preceding-statements.module.code.ts"
 import {
   peekScope,

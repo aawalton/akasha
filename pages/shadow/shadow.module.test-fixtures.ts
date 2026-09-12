@@ -1,6 +1,7 @@
 import { cpSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { said } from "akasha/git/running/git-running.module.code.ts"
+import { keepingIn } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
 import {
   aType,
   bodyOf,
@@ -8,8 +9,7 @@ import {
   idOf,
   type Named,
   VOCABULARY,
-} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { keepingIn } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
+} from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
 import { refreshedIn } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"

@@ -10,7 +10,7 @@ import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/modules/equ
 import {
   FilterableSelectDialog,
   type FilterableSelectDialogConfig,
-} from "akasha/temper/web/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
+} from "akasha/temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
 import { getSubcategory } from "akasha/utils/narrow/get-subcategory/get-subcategory.module.code.ts"
 import { useMemo } from "react"
 

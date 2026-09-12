@@ -4,7 +4,7 @@ import { FilterGroup } from "akasha/design/interfaces/patterns/modules/filter-gr
 import {
   FilterableList,
   FilterableListItem,
-} from "akasha/design/interfaces/primitives/filterable-list/filterable-list.module.code.tsx"
+} from "akasha/design/interfaces/primitives/modules/filterable-list/filterable-list.module.code.tsx"
 import { SubView } from "akasha/design/interfaces/primitives/sub-view/sub-view.module.code.tsx"
 
 interface NotesOptionsPickerProps {

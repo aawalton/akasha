@@ -18,7 +18,7 @@ import type { MetricId } from "akasha/temper/formula-framework/metric-id/metric-
 import type { EffectSource } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"
 import { formatStatValue } from "akasha/temper/formula-framework/number-format/number-format.module.code.ts"
 import { typedPartialRecordKeys } from "akasha/temper/formula-framework/record-parts/record-parts.module.code.ts"
-import { FormulaDisplay } from "akasha/temper/web/formula-display/formula-display.module.code.tsx"
+import { FormulaDisplay } from "akasha/temper/web/modules/formula-display/formula-display.module.code.tsx"
 
 interface StatExplanationDialogProps {
   open: boolean

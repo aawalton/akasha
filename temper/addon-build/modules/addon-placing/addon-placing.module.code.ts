@@ -3,21 +3,21 @@ import { cpSync, existsSync, readdirSync, readFileSync, rmSync, writeFileSync } 
 import { join, relative } from "node:path"
 import { ADDON_BUILD_REL_ROOT } from "akasha/temper/addon-build/modules/addon-compiler-config/addon-compiler-config.module.code.ts"
 import { CONSOLIDATION_MIGRATIONS } from "akasha/temper/addon-build/modules/consolidation-migrations/consolidation-migrations.module.code.ts"
+import { addonManifestSchema } from "akasha/temper/addons-resolve/modules/addon-json/addon-json.module.code.ts"
+import { addonManifestPathIn } from "akasha/temper/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
+import { listAllAddons } from "akasha/temper/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
 import {
   collectFloorsFor,
   decideFolderOwnership,
   decideInstallAction,
   foreignCopySatisfies,
   OWNERSHIP_MARKER_FILE,
-} from "akasha/temper/addons-resolve/folder-ownership/folder-ownership.module.code.ts"
-import { addonManifestSchema } from "akasha/temper/addons-resolve/modules/addon-json/addon-json.module.code.ts"
-import { addonManifestPathIn } from "akasha/temper/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
-import { listAllAddons } from "akasha/temper/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
+} from "akasha/temper/addons-resolve/modules/folder-ownership/folder-ownership.module.code.ts"
 import {
   readSiblingAddonNames,
   siblingDistDir,
 } from "akasha/temper/addons-resolve/sibling-addons/sibling-addons.module.code.ts"
-import { saidShort } from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
+import { saidShort } from "akasha/temper/commands/modules/flag-fault-stage/flag-fault-stage.module.code.ts"
 import {
   addonsDir,
   savedVarsDir,

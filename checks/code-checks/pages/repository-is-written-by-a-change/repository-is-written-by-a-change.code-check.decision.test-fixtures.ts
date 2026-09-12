@@ -1,6 +1,6 @@
 import { founded, typed } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
-import { bodyOf } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
+import { bodyOf } from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 

@@ -1,15 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join, relative } from "node:path"
-import {
-  aProperty,
-  aType,
-  bodyOf,
-  butTheStamp,
-  put,
-  scratch,
-  thePage,
-} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import { indexingAt, refreshedFrom } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
 import {
   A,
@@ -58,6 +49,15 @@ import {
   wrotePages,
   wroteText,
 } from "akasha/pages/indexes/indexing/indexing.module.test-fixtures.ts"
+import {
+  aProperty,
+  aType,
+  bodyOf,
+  butTheStamp,
+  put,
+  scratch,
+  thePage,
+} from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
 import { readerNow } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import { everyFileUnder } from "akasha/testing-system/walking/walking.module.code.ts"
 

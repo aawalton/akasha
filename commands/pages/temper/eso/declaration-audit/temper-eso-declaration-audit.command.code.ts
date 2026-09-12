@@ -26,7 +26,7 @@ import {
   WALK_ROOT,
 } from "akasha/temper/build-deploy-checks/modules/eso-clone-artifacts/eso-clone-artifacts.module.code.ts"
 import type { StampedArtifact } from "akasha/temper/build-deploy-checks/modules/eso-doc-api-version/eso-doc-api-version.module.code.ts"
-import { saidShort } from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
+import { saidShort } from "akasha/temper/commands/modules/flag-fault-stage/flag-fault-stage.module.code.ts"
 import { parseEsoDocApiVersion } from "akasha/temper/eso-paths/modules/eso-clone-stamp/eso-clone-stamp.module.code.ts"
 import { esouiDocPath } from "akasha/temper/eso-paths/modules/eso-paths/eso-paths.module.code.ts"
 

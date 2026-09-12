@@ -4,11 +4,11 @@ import { told } from "akasha/commands/modules/answering/command-answering.module
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { answeredByPage } from "akasha/commands/modules/page-answering/page-answering.module.code.ts"
 import { temperInventoryBuyRuleList as page } from "akasha/commands/pages/temper/inventory/buy-rule/list/temper-inventory-buy-rule-list.command.ts"
-import { emitJson } from "akasha/temper/commands/format-output/format-output.module.code.ts"
 import {
   latestSnapshot,
   snapshotDatabase,
 } from "akasha/temper/commands/inventory-snapshot-reading/inventory-snapshot-reading.module.code.ts"
+import { emitJson } from "akasha/temper/commands/modules/format-output/format-output.module.code.ts"
 import {
   settingsOf,
   toldRows,

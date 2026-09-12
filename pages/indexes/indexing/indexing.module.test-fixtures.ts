@@ -1,6 +1,7 @@
 import { mkdirSync, readFileSync, rmSync, symlinkSync } from "node:fs"
 import { join } from "node:path"
 import { typed as typedCode } from "akasha/code/modules/typing/code-typing.module.code.ts"
+import { indexingAt, refreshedFrom } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
 import {
   aProperty,
   aType,
@@ -13,8 +14,7 @@ import {
   scratch,
   thePage,
   VOCABULARY,
-} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { indexingAt, refreshedFrom } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
+} from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
 import { shapesAt } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
 import { everyPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { pathsRead, readerAt, ruleWhole } from "akasha/pages/indexes/rule/index-rule.index.code.ts"

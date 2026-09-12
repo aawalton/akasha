@@ -7,7 +7,6 @@ import {
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { emitTsv } from "akasha/temper/commands/format-output/format-output.module.code.ts"
 import {
   BUY_RULE_COLUMNS,
   ITEM_RULE_COLUMNS,
@@ -15,6 +14,7 @@ import {
   RULE_SHOW_COLUMNS,
 } from "akasha/temper/commands/inventory-rule-rows/inventory-rule-rows.module.code.ts"
 import { inventorySettings } from "akasha/temper/commands/inventory-settings-handle/inventory-settings-handle.module.code.ts"
+import { emitTsv } from "akasha/temper/commands/modules/format-output/format-output.module.code.ts"
 import { buildAllControlledRules } from "akasha/temper/items-rules-core/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
 import {
   duplicateCategoryRule,

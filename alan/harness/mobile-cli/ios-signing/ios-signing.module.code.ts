@@ -1,9 +1,9 @@
+import type { MobileApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import {
   ASC_ISSUER_ID,
   ASC_KEY_ID,
   buildOnCleanup,
-} from "akasha/alan/harness/mobile-cli/foundation/foundation.module.code.ts"
-import type { MobileApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/modules/foundation/foundation.module.code.ts"
 
 export type SigningFailureClass =
   | "ASC_PERMISSION_DENIED"

@@ -1,7 +1,7 @@
 "use client"
 
 import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
-import { formatRelativeTime } from "akasha/design/interfaces/primitives/format-relative-time/format-relative-time.module.code.ts"
+import { formatRelativeTime } from "akasha/design/interfaces/primitives/modules/format-relative-time/format-relative-time.module.code.ts"
 import {
   Popover,
   PopoverContent,

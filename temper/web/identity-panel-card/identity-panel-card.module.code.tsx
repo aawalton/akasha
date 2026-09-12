@@ -20,7 +20,7 @@ import {
 import { classes } from "akasha/temper/classes/modules/character-class/character-class.module.code.ts"
 import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
 import type { RaceId } from "akasha/temper/races/races/races.module.code.ts"
-import { FilterableSelectTrigger } from "akasha/temper/web/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
+import { FilterableSelectTrigger } from "akasha/temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
 import { RaceSelectDialog } from "akasha/temper/web/race-select-dialog/race-select-dialog.module.code.tsx"
 import { useState } from "react"
 

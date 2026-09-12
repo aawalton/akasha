@@ -29,7 +29,7 @@ import { temperEsoGenerateDeclaration as page } from "akasha/commands/pages/temp
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
-import { saidShort } from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
+import { saidShort } from "akasha/temper/commands/modules/flag-fault-stage/flag-fault-stage.module.code.ts"
 import {
   generateEnumsFile,
   generateEventsFile,

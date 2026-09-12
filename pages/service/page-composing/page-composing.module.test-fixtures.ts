@@ -3,7 +3,7 @@ import {
   idOf,
   indexedRepo,
   pageOf,
-} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
+} from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   type Folded,

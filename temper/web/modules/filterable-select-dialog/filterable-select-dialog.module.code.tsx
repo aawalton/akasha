@@ -30,7 +30,7 @@ import {
 } from "akasha/design/interfaces/primitives/modules/dialog/dialog.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
-import { formatEffects } from "akasha/temper/characters-stats/format-effects/format-effects.module.code.ts"
+import { formatEffects } from "akasha/temper/characters-stats/modules/format-effects/format-effects.module.code.ts"
 import type { Effect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
 import { Check, ChevronDown, ChevronRight, X } from "lucide-react"
 import type * as React from "react"

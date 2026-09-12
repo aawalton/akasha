@@ -4,7 +4,7 @@ import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-c
 import {
   ASC_ISSUER_ID,
   ASC_KEY_ID,
-} from "akasha/alan/harness/mobile-cli/foundation/foundation.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/modules/foundation/foundation.module.code.ts"
 import { base64Url } from "akasha/utils/narrow/modules/base64-url/base64-url.module.code.ts"
 import { z } from "zod"
 

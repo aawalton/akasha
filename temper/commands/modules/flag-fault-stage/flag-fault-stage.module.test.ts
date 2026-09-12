@@ -5,7 +5,7 @@ import {
   saidShort,
   stagedSaid,
   stagingAt,
-} from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
+} from "akasha/temper/commands/modules/flag-fault-stage/flag-fault-stage.module.code.ts"
 
 const SCRATCH_PARENT = "/var/tmp"
 

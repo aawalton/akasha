@@ -20,7 +20,7 @@ import {
   NAMER_PAGE,
   scratch,
   textIn,
-} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
+} from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 afterAll(scratch.sweep)

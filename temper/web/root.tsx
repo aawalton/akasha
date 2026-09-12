@@ -9,7 +9,7 @@ import {
   authGuard,
 } from "akasha/alan/harness/supabase-rr/modules/auth-guard/auth-guard.module.code.ts"
 import { SupabaseProvider } from "akasha/alan/harness/supabase-rr/supabase-provider/supabase-provider.module.code.tsx"
-import { fontPreloading } from "akasha/code/router-apps/font-preload/font-preload.module.code.ts"
+import { fontPreloading } from "akasha/code/router-apps/modules/font-preload/font-preload.module.code.ts"
 import {
   LayoutRouterAdapter,
   PagesUIRouterAdapter,

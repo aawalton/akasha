@@ -2,7 +2,7 @@ import { describe, expect, test } from "bun:test"
 import {
   isGameEngine,
   selectGameRenderMode,
-} from "akasha/story/engine/core/game-engine/game-engine.module.code.ts"
+} from "akasha/story/engine/core/modules/game-engine/game-engine.module.code.ts"
 
 describe("isGameEngine", () => {
   test("names the three engines", () => {

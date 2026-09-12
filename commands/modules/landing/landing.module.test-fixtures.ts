@@ -16,12 +16,12 @@ import type {
 import { landing } from "akasha/commands/modules/landing/landing.module.code.ts"
 import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
+import { refreshedFrom } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
 import {
   bodyOf,
   butTheStamp,
   thePage,
-} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { refreshedFrom } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
+} from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
 import { partFiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import { everythingFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"

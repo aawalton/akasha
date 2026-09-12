@@ -1,5 +1,5 @@
 import { DO_NOT_EDIT } from "akasha/temper/addon-generators/modules/do-not-edit/do-not-edit.module.code.ts"
-import { foodOrDrink } from "akasha/temper/character-sources/food-or-drink-source/food-or-drink-source.module.code.ts"
+import { foodOrDrink } from "akasha/temper/character-sources/modules/food-or-drink-source/food-or-drink-source.module.code.ts"
 export function generateFoodMappings(): string {
   const indexEntries: string[] = []
   const temperIdEntries: string[] = []

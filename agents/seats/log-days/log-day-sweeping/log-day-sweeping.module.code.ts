@@ -12,7 +12,7 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { firstCapture } from "akasha/utils/narrow/first-capture/first-capture.module.code.ts"
+import { firstCapture } from "akasha/utils/narrow/modules/first-capture/first-capture.module.code.ts"
 
 const DEFAULT_KEEP_DAYS = 7
 

@@ -9,7 +9,7 @@ import { completionShapeOf } from "akasha/pages/core/task-lifecycle/task-lifecyc
 import {
   type GalleryCardSize,
   resolveGalleryCoverUrl,
-} from "akasha/pages/core/view/gallery/gallery.module.code.ts"
+} from "akasha/pages/core/view/modules/gallery/gallery.module.code.ts"
 import { PageCard } from "akasha/pages/ui/components/page-card/page-card.module.code.tsx"
 import { PageCardNotes } from "akasha/pages/ui/components/page-card-notes/page-card-notes.module.code.tsx"
 import { pageRowToPageDataJSON } from "akasha/pages/ui/components/page-data-json/page-data-json.module.code.ts"

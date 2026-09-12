@@ -1,6 +1,6 @@
 "use client"
 
-import type { FrameFollowMode } from "akasha/pages/ui/frame/frame-config/frame-config.module.code.ts"
+import type { FrameFollowMode } from "akasha/pages/ui/frame/modules/frame-config/frame-config.module.code.ts"
 import {
   computeAnchorBelowViewport,
   computePinned,

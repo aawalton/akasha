@@ -8,11 +8,11 @@ import type {
   SortEntry,
   SortOption,
 } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
+import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
 import {
   FilterableList,
   FilterableListItem,
-} from "akasha/design/interfaces/primitives/filterable-list/filterable-list.module.code.tsx"
-import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
+} from "akasha/design/interfaces/primitives/modules/filterable-list/filterable-list.module.code.tsx"
 import { SubView } from "akasha/design/interfaces/primitives/sub-view/sub-view.module.code.tsx"
 import {
   GROUP_GRANULARITIES,

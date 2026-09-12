@@ -1,5 +1,5 @@
-import { formatTime12h } from "akasha/design/interfaces/forms/format-time/format-time.module.code.ts"
-import { formatRelativeTime } from "akasha/design/interfaces/primitives/format-relative-time/format-relative-time.module.code.ts"
+import { formatTime12h } from "akasha/design/interfaces/forms/modules/format-time/format-time.module.code.ts"
+import { formatRelativeTime } from "akasha/design/interfaces/primitives/modules/format-relative-time/format-relative-time.module.code.ts"
 import type {
   PropertyDefinition,
   PropertyType,
@@ -21,7 +21,7 @@ import {
   numberConfigSchema,
   selectConfigSchema,
 } from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
-import { formatSmartDate } from "akasha/pages/core/view/format-smart-date/format-smart-date.module.code.ts"
+import { formatSmartDate } from "akasha/pages/core/view/modules/format-smart-date/format-smart-date.module.code.ts"
 import {
   type PageTableColumn,
   TITLE_COLUMN_ID,

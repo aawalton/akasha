@@ -6,7 +6,7 @@ import {
   CardContent,
 } from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
-import { ago } from "akasha/temper/web/format-time-ago/format-time-ago.module.code.ts"
+import { ago } from "akasha/temper/web/modules/format-time-ago/format-time-ago.module.code.ts"
 import type {
   WatcherSyncSourceCounts,
   WatcherSyncSummary,

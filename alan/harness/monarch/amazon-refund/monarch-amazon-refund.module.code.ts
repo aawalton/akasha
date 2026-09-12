@@ -4,7 +4,7 @@ import {
   parseCentsIn,
 } from "akasha/alan/harness/monarch/amazon-order/monarch-amazon-order.module.code.ts"
 import type { EmailMessage } from "akasha/alan/harness/monarch/gmail-cache/monarch-gmail-cache.module.code.ts"
-import { firstCapture } from "akasha/utils/narrow/first-capture/first-capture.module.code.ts"
+import { firstCapture } from "akasha/utils/narrow/modules/first-capture/first-capture.module.code.ts"
 
 const TOTAL_REFUND = /Total refund\*?\s*\$([\d,]+(?:\.\d+)?)/
 

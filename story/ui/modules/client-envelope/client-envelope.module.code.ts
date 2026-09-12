@@ -1,9 +1,9 @@
 import { frameConfigSchema } from "akasha/pages/core/schema/modules/detail-config/detail-config.module.code.ts"
+import { ACTION_BAR_MESSAGE_KINDS } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
 import {
   GameAlertsSchema,
   GameDisplayModulesSchema,
-} from "akasha/story/engine/core/game-schema/game-schema.module.code.ts"
-import { ACTION_BAR_MESSAGE_KINDS } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
+} from "akasha/story/engine/core/modules/game-schema/game-schema.module.code.ts"
 import {
   ClientBeatSchema,
   ClientHudSchema,

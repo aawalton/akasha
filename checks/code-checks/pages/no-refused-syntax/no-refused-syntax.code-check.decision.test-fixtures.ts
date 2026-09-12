@@ -11,7 +11,10 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
-import { bodyOf, type Held } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
+import {
+  bodyOf,
+  type Held,
+} from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { type Shadow, shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"

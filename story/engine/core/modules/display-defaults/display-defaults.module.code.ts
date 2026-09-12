@@ -3,7 +3,7 @@ import {
   ChapterProsePastTurnsSchema,
   type ChapterProseTitles,
   ChapterProseTitlesSchema,
-} from "akasha/story/engine/core/game-schema/game-schema.module.code.ts"
+} from "akasha/story/engine/core/modules/game-schema/game-schema.module.code.ts"
 import { z } from "zod"
 
 const ChapterProseDefaultsSchema = z

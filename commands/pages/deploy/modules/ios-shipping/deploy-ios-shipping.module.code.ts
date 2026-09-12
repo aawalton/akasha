@@ -1,7 +1,3 @@
-import {
-  readKeychainPassword,
-  readRingCredentialFor,
-} from "akasha/alan/harness/mobile-cli/foundation/foundation.module.code.ts"
 import { resolveRepoRoot } from "akasha/alan/harness/mobile-cli/git-tree-hash/git-tree-hash.module.code.ts"
 import {
   acquireLocalCutLock,
@@ -12,6 +8,10 @@ import {
   resolveApp,
   shellRepoRoot,
 } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+import {
+  readKeychainPassword,
+  readRingCredentialFor,
+} from "akasha/alan/harness/mobile-cli/modules/foundation/foundation.module.code.ts"
 import { runTestflightCut } from "akasha/alan/harness/mobile-cli/testflight-cut/testflight-cut.module.code.ts"
 import {
   answeredWith,

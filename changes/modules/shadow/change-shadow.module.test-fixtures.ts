@@ -32,7 +32,7 @@ import {
   scratch,
   textIn,
   bodyOf as valueBody,
-} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
+} from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
 import type { Shaped } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import {
   listedAndValued,

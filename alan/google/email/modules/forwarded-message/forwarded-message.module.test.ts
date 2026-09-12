@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   type Attribution,
   forwardOf,
-} from "akasha/alan/google/email/forwarded-message/forwarded-message.module.code.ts"
+} from "akasha/alan/google/email/modules/forwarded-message/forwarded-message.module.code.ts"
 
 const ATTRIBUTION: Attribution = {
   from: "Amy <amy@example.com>",

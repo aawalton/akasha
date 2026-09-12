@@ -40,7 +40,7 @@ import {
   pageOf,
   scratch,
   textIn,
-} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
+} from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
 
 type Unnaming = { at: string; key: string; value: string }
 

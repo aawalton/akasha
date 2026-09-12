@@ -12,13 +12,13 @@ import {
   type PotionId,
   potions,
 } from "akasha/temper/alchemy/potion-source/potion-source.module.code.ts"
-import type { FoodOrDrinkId } from "akasha/temper/character-sources/food-or-drink-source/food-or-drink-source.module.code.ts"
+import type { FoodOrDrinkId } from "akasha/temper/character-sources/modules/food-or-drink-source/food-or-drink-source.module.code.ts"
 import type { MundusId } from "akasha/temper/character-sources/mundus-source/mundus-source.module.code.ts"
-import { FilterableSelectTrigger } from "akasha/temper/web/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
+import { FilterableSelectTrigger } from "akasha/temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
 import {
   FoodDrinkSelectDialog,
   getFoodDrinkById,
-} from "akasha/temper/web/food-drink-select-dialog/food-drink-select-dialog.module.code.tsx"
+} from "akasha/temper/web/modules/food-drink-select-dialog/food-drink-select-dialog.module.code.tsx"
 import {
   getMundusById,
   MundusSelectDialog,

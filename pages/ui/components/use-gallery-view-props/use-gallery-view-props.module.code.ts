@@ -3,7 +3,7 @@ import type { ViewDataJSON } from "akasha/pages/core/schema/view-data/view-data.
 import {
   type GalleryCardSize,
   resolveGalleryCardSize,
-} from "akasha/pages/core/view/gallery/gallery.module.code.ts"
+} from "akasha/pages/core/view/modules/gallery/gallery.module.code.ts"
 import { useMemo } from "react"
 
 export interface GalleryViewProps {

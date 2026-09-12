@@ -6,7 +6,7 @@ import type {
   ViewLayout,
   VisibilityChange,
 } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
-import type { GalleryCardSize } from "akasha/pages/core/view/gallery/gallery.module.code.ts"
+import type { GalleryCardSize } from "akasha/pages/core/view/modules/gallery/gallery.module.code.ts"
 import type { ReorderCardsHandler } from "akasha/pages/ui/components/use-reorder-view-wiring/use-reorder-view-wiring.module.code.ts"
 import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
 import type { PageTypeOption } from "akasha/pages/ui/components/view-settings-options/view-settings-options.module.code.ts"

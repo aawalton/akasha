@@ -1,15 +1,3 @@
-import {
-  ascAuthArgs,
-  buildKeychainUnlock,
-  buildNativeSync,
-  buildRunCheckout,
-  CHECKOUT_ROOT,
-  KEYCHAIN_PASSWORD_SSH_ENV,
-  readKeychainPassword,
-  readNativeShellApsEnv,
-  readNativeShellHealthkitEnv,
-  SCRIPT_HEADER,
-} from "akasha/alan/harness/mobile-cli/foundation/foundation.module.code.ts"
 import { MACBOOK } from "akasha/alan/harness/mobile-cli/macbook-target/macbook-target.module.code.ts"
 import type { MobileApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import {
@@ -22,6 +10,18 @@ import type {
   SshTarget,
 } from "akasha/alan/harness/mobile-cli/mobile-ssh/mobile-ssh.module.code.ts"
 import { runSshResult } from "akasha/alan/harness/mobile-cli/mobile-ssh/mobile-ssh.module.code.ts"
+import {
+  ascAuthArgs,
+  buildKeychainUnlock,
+  buildNativeSync,
+  buildRunCheckout,
+  CHECKOUT_ROOT,
+  KEYCHAIN_PASSWORD_SSH_ENV,
+  readKeychainPassword,
+  readNativeShellApsEnv,
+  readNativeShellHealthkitEnv,
+  SCRIPT_HEADER,
+} from "akasha/alan/harness/mobile-cli/modules/foundation/foundation.module.code.ts"
 import {
   answeredWith,
   answering,

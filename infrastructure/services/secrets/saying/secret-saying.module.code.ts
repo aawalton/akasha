@@ -5,7 +5,7 @@ import {
   secretPages,
   secretValueOf,
 } from "akasha/infrastructure/services/secrets/placing/secret-placing.module.code.ts"
-import { flagValue } from "akasha/utils/narrow/flag-value/flag-value.module.code.ts"
+import { flagValue } from "akasha/utils/narrow/modules/flag-value/flag-value.module.code.ts"
 import { stringify } from "yaml"
 
 const PREFIX = "[secret-saying]"

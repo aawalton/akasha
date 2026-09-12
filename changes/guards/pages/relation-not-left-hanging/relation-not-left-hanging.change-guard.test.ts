@@ -17,7 +17,7 @@ import {
   NAMER_PAGE,
   pageOf,
   scratch,
-} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
+} from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
 import { shapeAdded } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { NOT_WORKED_OUT } from "akasha/pages/shadow/shadow.module.code.ts"
 

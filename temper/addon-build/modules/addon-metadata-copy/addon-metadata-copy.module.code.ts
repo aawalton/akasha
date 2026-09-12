@@ -12,9 +12,9 @@ import {
   namedFilePathOrNull,
   namedFilePathsIn,
 } from "akasha/temper/addon-build/modules/addon-metadata-files/addon-metadata-files.module.code.ts"
-import { OWNERSHIP_MARKER_FILE } from "akasha/temper/addons-resolve/folder-ownership/folder-ownership.module.code.ts"
 import { addonManifestSchema } from "akasha/temper/addons-resolve/modules/addon-json/addon-json.module.code.ts"
 import { addonManifestPathIn } from "akasha/temper/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
+import { OWNERSHIP_MARKER_FILE } from "akasha/temper/addons-resolve/modules/folder-ownership/folder-ownership.module.code.ts"
 import {
   readSiblingAddonNames,
   siblingDistDir,
