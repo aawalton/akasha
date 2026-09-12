@@ -38,6 +38,10 @@ export const logDaySweeping = {
     },
     {
       invariantKind: "departure",
+      statement: "A line file removed that way is unfiled from the path index.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The reading kept over a page's path goes with the page.",
     },
     {

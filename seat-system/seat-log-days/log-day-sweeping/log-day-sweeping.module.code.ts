@@ -10,6 +10,7 @@ import {
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { fileStemOf } from "akasha/pages/identity/file-page/file-page.module.code.ts"
 import { fileKeysAt } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import { partUnfiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import { everyOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { firstCapture } from "akasha/utils/narrow/first-capture/first-capture.module.code.ts"
 
@@ -69,7 +70,10 @@ export function daysIn(root: string): DaysRead {
 
 function removeLines(root: string, relPath: string): undefined {
   const keys = new Set(fileKeysAt(root).keys())
-  for (const one of besideOf(root, relPath, keys)) rmSync(join(root, one), { force: true })
+  for (const one of besideOf(root, relPath, keys)) {
+    rmSync(join(root, one), { force: true })
+    partUnfiled(root, one)
+  }
 }
 
 async function removePages(
