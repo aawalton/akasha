@@ -96,6 +96,11 @@ export const inventoryRuleCalling = {
       statement: "The rule store this module reads through is in akasha.",
     },
     {
+      invariantKind: "gap",
+      statement:
+        "The web fields win in a write and lose in a change, by the order they are spread.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here prints.",
     },
