@@ -16,7 +16,7 @@ export const sophiaAgentStopHook = {
       statement:
         "Each of the five directives Alan's page states has a judge that misfires on nothing.",
       workingMemory:
-        "Three of five have judges, each one prompt. Neither Clock Nor Meter, at `directive-kept`, catches 15 of 34 and refuses none of 214 clean turns. One At A Time, at `one-at-a-time-kept`, 19 of 33 and none of 227. No Commentary, at `no-commentary-kept`, 11 of 63 and none of 227, and still none with the eight turns it quotes held out. Act By Default has 36 breaches waiting. Don't Stop! is the hard one: the widest sign tried misfires 44 times over 227.",
+        "Three of five have judges, each one prompt. Neither Clock Nor Meter, at `directive-kept`, catches 15 of 34 and refuses none of 214 clean turns. One At A Time, at `one-at-a-time-kept`, 19 of 33 and none of 227, over two runs. No Commentary, at `no-commentary-kept`, 4 to 6 of 63 and none of 227, over two runs; a wider wording caught 11 and misfired once, so closing both halves of its mark is what bought the zero. The other two are blocked rather than unworked.",
     },
     {
       statement:
@@ -38,6 +38,11 @@ export const sophiaAgentStopHook = {
       statement: "Every turn Eppie mined and labelled is a case.",
       workingMemory:
         "292 of her 449 trusted rows landed at `c628cb77f3d`, joining the 121 already there. The other 112 cannot land as things are: `check-reaches-a-path-through-the-index` judges the file the lines land in rather than the change carrying them, so `append-lines-from` gets the draft through and the apply still draws about 130 refusals. The check lets off a file held uncommitted, one a machine writes, and one a tool resolves the paths in, and a case file is none of the three. This waits on Alan's word.",
+    },
+    {
+      statement: "A judge for Act By Default sees the directives reserving an act for Alan.",
+      workingMemory:
+        "Act By Default says to ask where a directive calls for Alan's approval, and a judge is given that one rule alone. So `May I raise the ceiling?` and `Say the word and I'll land it` read alike to it. The first prompt tried catches 17 of 36 and misfires 18 times over 227, and every misfire is an approval some other page reserves. The test's own page says one rule is put at a time, and this is the rule that breaks on it.",
     },
   ],
   constraints: ["A refusal reminds an agent of a directive Alan's own page states."],
