@@ -22,7 +22,15 @@ test("a service binding no image-generation model type renders nothing", () => {
 test("naming no prompt either way is refused", async () => {
   const said = await inferenceGenerate([], GIVEN)
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("`--prompt`")
+  expect(said.refusals[0]).toBe(
+    "`akasha inference generate` takes `--prompt-file` or `--prompt`, and nothing said either"
+  )
+})
+
+test("a value said at the flag with an equals sign is taken", async () => {
+  const said = await inferenceGenerate(["--prompt=x", "--guidance=soft"], GIVEN)
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("`soft` is not one")
 })
 
 test("steps outside the range the sampler runs is refused", async () => {
