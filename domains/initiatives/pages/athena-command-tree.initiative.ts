@@ -12,12 +12,12 @@ export const athenaCommandTree = {
       statement:
         "Every name in the command tree is singular; how many a command answers is no part of its name.",
       workingMemory:
-        "Two plural names, not one. `seat compose-notices`, whose name is contested between `seat notices` by dropping the act word and `seat notice list` by the list-or-show rule. And `infrastructure dev-server logs` at its page `:9`, named that since `a36d2e60f6d` rather than drifted into. `typings` became `declaration` at `1ce847a58b2`. `seat refresh-settings` names one settings file rather than counting, and `temper inventory rule takes` is a verb. Alan's, and one ruling settles both.\n",
+        "`infrastructure dev-server logs` was a plain fault and became `log` at `1dbaf939a1f`, for the cost the constraint predicts: its own folder, one namespace line, one test. Two plural names are left, both under `seat`, both an act word and a plural object: `compose-notices`, and `refresh-settings`, which writes one path per running process rather than naming one file. Over 260 words no other plural survives. Alan's: `notice` has a singular the tree already uses and `settings` has none.\n",
     },
     {
       statement: "A command answering many is `list`, and a command answering one is `show`.",
       workingMemory:
-        "33 commands are act-less, answering something and saying neither word; 33 of 236 conform, 25 `list` and 8 `show`. The many-or-one split reads 20 to 13 and is soft — six could go either way on their definition line alone. The 16 `measure` commands are act-first rather than act-less. A rename costs 5 to 12 files: the aliases derive every call from the page, and the extension spells none. Alan's: the rule stacks a second answer-word on every `*-status`.\n",
+        "The split is exceptionless where the tree uses the words: all 25 `list` names answer many, all 8 `show` answer one the caller names, and `change show` names it by its required `at`. It landed as a departure on `level-name` at `920335d8c2c`; nothing had said it. The act-less rest is five classes, not one. Alan's, in three: `inventory snapshot` is an unnamed show, `dev-server status` answers one or many by call, and `rule list` beside `rule show` differ only in a count.\n",
     },
   ],
 } as const satisfies Initiative
