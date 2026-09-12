@@ -8,11 +8,6 @@ export const akashaFolderShape = {
   persona: "akasha",
   intents: [
     {
-      statement: "No relation property's name ends in `slug`.",
-      workingMemory:
-        "No page body carries `pageTypeSlug`; `type` alone names a page type. Step four is left: take `relation-property/page-type-slug` off `pages/page.page-type.ts`, remove `pages/properties/page-type-slug.relation-property.ts` in that landing, and drop the `pageTypeSlug` fallback in index-identity, index-path, index-relation, index-value, reaching, page-knowing, relation-resolves and change-shadow. Sweep the test fixtures spelling the old key first, or typecheck refuses them all at once.",
-    },
-    {
       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
       workingMemory:
         "The root refuses 11 files and 31 folders; the shape names the thirteen Alan approved, nothing wider. He takes them one at a time, and file, file-system, file-page-identity, all-about-alan, editor-extension and games have all been placed. A move pays the debt in every body it rewrites, so land that debt first and draft the move after. Renaming `code-system` to `code` is nimue's.\n",

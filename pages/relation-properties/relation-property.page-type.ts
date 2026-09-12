@@ -23,6 +23,10 @@ export const relationProperty = {
       invariantKind: "departure",
       statement: "A relation's type is a slug rather than a union of the pages its target holds.",
     },
+    {
+      invariantKind: "absence",
+      statement: "No relation property's name ends in `slug`.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType
