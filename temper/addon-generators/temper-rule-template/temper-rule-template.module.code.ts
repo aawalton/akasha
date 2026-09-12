@@ -152,7 +152,7 @@ export function generateTemperRuleTemplate(
  * A condition names its field by the slug of a temper-condition-field
  * page, and the key emitted here is the one that page holds.
  *
- * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
+ * DO NOT EDIT — regenerate with: akasha temper addon data-generate
  */
 
 import type { CategoryRule } from "../inventory-rule-types"
