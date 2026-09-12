@@ -20,7 +20,8 @@ export const workstationDeploying = {
     },
     {
       invariantKind: "departure",
-      statement: "A tick starts a deploy and ends, rather than waiting for that deploy.",
+      statement:
+        "A tick ends once the deploy it started ends, and the tick after it is skipped meanwhile.",
     },
     {
       invariantKind: "departure",
