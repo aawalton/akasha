@@ -3,7 +3,6 @@ import {
   dataError,
   inputError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import { parseArgs } from "akasha/commands/modules/parse-args/parse-args.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
@@ -19,7 +18,6 @@ import { DEFAULT_ACCOUNT } from "akasha/seat-system/seat-launching/seat-launchin
 import {
   isSeatMode,
   SEAT_MODE_HEADLESS,
-  SEAT_MODES,
 } from "akasha/seat-system/seat-modes/seat-modes.module.code.ts"
 import { mintNamedAgent } from "akasha/seat-system/seat-name-bind/seat-name-bind.module.code.ts"
 import {
@@ -81,29 +79,7 @@ function keptRecovered(was: SeatFromHistory): Kept {
   }
 }
 
-export default async function seatReset(
-  args: readonly string[],
-  done: string[] = []
-): Promise<void> {
-  const parsed = parseArgs(help, args)
-
-  const input = parsed.positionals[0]
-  if (input === undefined) {
-    throw inputError(
-      "no <agent-id> given — `akasha seat reset` names the seat it resets and takes no default. " +
-        "A reset takes the agent out of the seat, so a seat resetting itself would destroy " +
-        "the turn issuing the command before it could answer. Name the seat, or run " +
-        "`akasha seat resume` to come back as yourself."
-    )
-  }
-
-  const asked = parsed.string("--start-mode")
-  if (asked !== undefined && !isSeatMode(asked)) {
-    throw inputError(
-      `invalid --start-mode '${asked}' (expected ${SEAT_MODES.map((one) => `'${one}'`).join(" or ")})`
-    )
-  }
-
+export default async function seatReset(input: string, done: string[] = []): Promise<void> {
   const agentId = await resolveSeatTargetCli(input)
 
   if (textIn(process.env.AGENT_ID) === agentId) {
@@ -130,7 +106,7 @@ export default async function seatReset(
     )
   }
 
-  const mode = asked ?? kept.mode
+  const mode = kept.mode
 
   const name = composeSeatName(
     {
@@ -147,7 +123,7 @@ export default async function seatReset(
     )
   }
 
-  await stopSeat({ agentId, force: parsed.boolean("--force"), saying: A_RESET })
+  await stopSeat({ agentId, force: false, saying: A_RESET })
   done.push(`took the agent ${agentId} out of \`${name}\``)
 
   await killSeatSession(name)
@@ -187,10 +163,6 @@ export default async function seatReset(
   })
   done.push(`launched ${fresh} in \`${name}\` under tmux, ${mode}`)
 
-  if (parsed.boolean("--json")) {
-    process.stdout.write(`${JSON.stringify({ agent_id: fresh, name, start_mode: mode })}\n`)
-    return
-  }
   process.stdout.write(`${fresh}\t${name}\t${mode}\n`)
 }
 

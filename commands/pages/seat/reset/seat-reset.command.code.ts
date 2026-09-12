@@ -12,6 +12,6 @@ export async function seatReset(argv: readonly string[], given: Given): Promise<
     "akasha/seat-system/seat-reset/seat-reset.module.code.ts"
   )
   return await ran(async (done) => {
-    await resetting([read.taken.seat], done)
+    await resetting(read.taken.seat, done)
   })
 }
