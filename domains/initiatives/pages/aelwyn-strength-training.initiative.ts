@@ -68,6 +68,10 @@ export const aelwynStrengthTraining = {
     {
       statement: "A movement Alan's kit cannot load further is made harder some other way.",
     },
+    {
+      statement:
+        "A muscle under its weekly set floor is owed work before any muscle above that floor.",
+    },
   ],
   constraints: [
     "The 122 sets already logged stay readable through any change to how training is tracked.",
