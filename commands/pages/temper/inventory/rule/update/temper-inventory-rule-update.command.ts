@@ -7,7 +7,6 @@ export const temperInventoryRuleUpdate = {
   definition: "the command changing the fields of a category rule named by its id",
   code: "ts",
   taking: [
-    { said: "<id>", takes: "the id of the category rule changed" },
     {
       said: "--destination-chain <json>",
       takes: "the cascade of destinations the item falls through",
@@ -39,5 +38,6 @@ export const temperInventoryRuleUpdate = {
     { argument: "argument/stock-scope" },
     { argument: "argument/category" },
     { argument: "argument/conditions" },
+    { argument: "argument/category-rule-id", required: true, saidAs: "word" },
   ],
 } as const satisfies Command

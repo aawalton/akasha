@@ -6,7 +6,7 @@ export const temperInventoryRuleUnlock = {
   slug: "temper-inventory-rule-unlock",
   definition: "the command unlocking a category rule named by its id",
   code: "ts",
-  taking: [{ said: "<id>", takes: "the id of the category rule unlocked" }],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -18,4 +18,5 @@ export const temperInventoryRuleUnlock = {
     },
   ],
   name: "unlock",
+  arguments: [{ argument: "argument/category-rule-id", required: true, saidAs: "word" }],
 } as const satisfies Command

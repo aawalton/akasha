@@ -6,7 +6,7 @@ export const temperInventoryRuleDelete = {
   slug: "temper-inventory-rule-delete",
   definition: "the command taking away a category rule named by its id",
   code: "ts",
-  taking: [{ said: "<id>", takes: "the id of the category rule taken away" }],
+  taking: [],
 
   invariants: [
     {
@@ -19,5 +19,8 @@ export const temperInventoryRuleDelete = {
     },
   ],
   name: "delete",
-  arguments: [{ argument: "argument/force" }],
+  arguments: [
+    { argument: "argument/force" },
+    { argument: "argument/category-rule-id", required: true, saidAs: "word" },
+  ],
 } as const satisfies Command
