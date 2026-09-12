@@ -14,6 +14,7 @@ import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { uncommittedPartAt } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
 import { partFiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import { listedAt, typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { pagesAtFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
 import { sizeOnDisk } from "akasha/utils/fs/file-size/file-size.module.code.ts"
 
 const PUT = "change-mechanical/add-file-of-any-kind"
@@ -21,10 +22,6 @@ const PUT = "change-mechanical/add-file-of-any-kind"
 const LOG_SOURCE_TYPE = "01a0657c-cb14-7c6f-83df-0d533f4f7821"
 
 const SEAT_LOG_DAY_TYPE = "01a0657c-cb14-7b5b-a206-18059a84a88a"
-
-const SOURCES_AT = "seat-system/log-sources/pages"
-
-const DAYS_AT = "seat-system/seat-log-days/pages"
 
 const LINES_KEY = "lines"
 
@@ -67,17 +64,16 @@ export function dayNameOf(source: string, seatName: string, date: string): strin
   return `${source}-${seatName}-${date}`
 }
 
-export function sourcePathOf(source: string): string {
-  return `${SOURCES_AT}/${source}.log-source.ts`
-}
-
-export function dayPathOf(slug: string): string {
-  return `${DAYS_AT}/${slug}/${slug}.seat-log-day.ts`
+function sourcePathOf(root: string, source: string): string {
+  const typeSlug = typeSlugOf(root, LOG_SOURCE_TYPE)
+  return `${pagesAtFor(root, typeSlug)}/${source}.${typeSlug}.ts`
 }
 
 function dayPathIn(root: string, slug: string): string {
-  const flat = `${DAYS_AT}/${slug}.seat-log-day.ts`
-  return existsSync(join(root, flat)) ? flat : dayPathOf(slug)
+  const typeSlug = typeSlugOf(root, SEAT_LOG_DAY_TYPE)
+  const under = pagesAtFor(root, typeSlug)
+  const flat = `${under}/${slug}.${typeSlug}.ts`
+  return existsSync(join(root, flat)) ? flat : `${under}/${slug}/${slug}.${typeSlug}.ts`
 }
 
 function typedFrom(root: string, typeSlug: string): string {
@@ -174,7 +170,7 @@ function appenderFor(root: string, source: string, seatName: string, date: strin
   let bytes = held.bytes
   let refused: string | null = null
   let queued: Promise<void> = (async () => {
-    const sourceAt = sourcePathOf(source)
+    const sourceAt = sourcePathOf(root, source)
     const sourceUp = await putUp(
       root,
       sourceAt,

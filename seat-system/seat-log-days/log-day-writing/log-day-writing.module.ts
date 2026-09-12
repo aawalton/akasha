@@ -139,5 +139,10 @@ export const logDayWriting = {
       statement:
         "A day whose first part could not be named leaves every line for that day unwritten.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The folder a page written here sits in is answered from that page's type rather than spelled.",
+    },
   ],
 } as const satisfies Module
