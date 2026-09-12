@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   decideDomainLead,
   recipientFromLead,
-} from "akasha/seat-system/recipient-resolving/domain-lead-decide/domain-lead-decide.module.code.ts"
+} from "akasha/agents/messaging/recipient-resolving/domain-lead-decide/domain-lead-decide.module.code.ts"
 
 const DECLARED = { declared: true, persona: "athena", at: "domains/akasha.md" }
 

@@ -3,11 +3,11 @@ import { expect, mock, test } from "bun:test"
 const RAN: string[] = []
 
 const resolving = await import(
-  "akasha/seat-system/recipient-resolving/recipient-resolver-running/recipient-resolver-running.module.code.ts"
+  "akasha/agents/messaging/recipient-resolving/recipient-resolver-running/recipient-resolver-running.module.code.ts"
 )
 
 mock.module(
-  "akasha/seat-system/recipient-resolving/recipient-resolver-running/recipient-resolver-running.module.code.ts",
+  "akasha/agents/messaging/recipient-resolving/recipient-resolver-running/recipient-resolver-running.module.code.ts",
   () => ({
     ...resolving,
     runRecipientResolverRunning: () => {
@@ -40,7 +40,7 @@ test("a loop that ended badly is carried out rather than swallowed, so a failed 
   RAN.length = 0
   const why = new Error("the tick loop could not assemble its specs")
   mock.module(
-    "akasha/seat-system/recipient-resolving/recipient-resolver-running/recipient-resolver-running.module.code.ts",
+    "akasha/agents/messaging/recipient-resolving/recipient-resolver-running/recipient-resolver-running.module.code.ts",
     () => ({
       ...resolving,
       runRecipientResolverRunning: () => Promise.reject(why),

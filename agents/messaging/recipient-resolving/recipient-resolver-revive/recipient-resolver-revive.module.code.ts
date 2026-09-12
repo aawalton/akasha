@@ -1,4 +1,4 @@
-import type { RecipientResolverConfig } from "akasha/seat-system/recipient-resolving/recipient-resolver-config/recipient-resolver-config.module.code.ts"
+import type { RecipientResolverConfig } from "akasha/agents/messaging/recipient-resolving/recipient-resolver-config/recipient-resolver-config.module.code.ts"
 import { resumeSeat } from "akasha/seat-system/seat-resume/seat-resume.module.code.ts"
 import type { ReviveVerifySignal } from "akasha/seat-system/seat-revive-verify-signal/seat-revive-verify-signal.module.code.ts"
 import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"

@@ -3,7 +3,7 @@ import {
   ALERT_ROLE,
   type AlertRequirementRow,
   decideAlertRecipient,
-} from "akasha/seat-system/recipient-resolving/alert-recipient-decide/alert-recipient-decide.module.code.ts"
+} from "akasha/agents/messaging/recipient-resolving/alert-recipient-decide/alert-recipient-decide.module.code.ts"
 
 function row(over: Partial<AlertRequirementRow> = {}): AlertRequirementRow {
   return { slug: "disk-full", domain: null, person: null, ...over }

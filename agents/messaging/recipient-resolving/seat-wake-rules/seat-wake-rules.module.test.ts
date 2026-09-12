@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   type CommsRule,
   ruleMatches,
-} from "akasha/seat-system/recipient-resolving/seat-wake-rules/seat-wake-rules.module.code.ts"
+} from "akasha/agents/messaging/recipient-resolving/seat-wake-rules/seat-wake-rules.module.code.ts"
 
 function rule(over: Partial<CommsRule> = {}): CommsRule {
   return {

@@ -1,3 +1,11 @@
+import { listPersonHandlers } from "akasha/agents/messaging/recipient-resolving/person-handlers/person-handlers.module.code.ts"
+import {
+  recipientResolverConfigBanner,
+  resolveRecipientResolverConfig,
+} from "akasha/agents/messaging/recipient-resolving/recipient-resolver-config/recipient-resolver-config.module.code.ts"
+import { defaultRecipientResolverDeps } from "akasha/agents/messaging/recipient-resolving/recipient-resolver-deps/recipient-resolver-deps.module.code.ts"
+import { assembleRecipientResolverSpecs } from "akasha/agents/messaging/recipient-resolving/recipient-resolver-registry/recipient-resolver-registry.module.code.ts"
+import { runRecipientResolverTick } from "akasha/agents/messaging/recipient-resolving/recipient-resolver-tick/recipient-resolver-tick.module.code.ts"
 import {
   sleptUntilStopped,
   stopsOnSignal,
@@ -6,14 +14,6 @@ import {
   listPersonaSlugs,
   listPersonaWakeSources,
 } from "akasha/personas/targets/persona-targets.module.code.ts"
-import { listPersonHandlers } from "akasha/seat-system/recipient-resolving/person-handlers/person-handlers.module.code.ts"
-import {
-  recipientResolverConfigBanner,
-  resolveRecipientResolverConfig,
-} from "akasha/seat-system/recipient-resolving/recipient-resolver-config/recipient-resolver-config.module.code.ts"
-import { defaultRecipientResolverDeps } from "akasha/seat-system/recipient-resolving/recipient-resolver-deps/recipient-resolver-deps.module.code.ts"
-import { assembleRecipientResolverSpecs } from "akasha/seat-system/recipient-resolving/recipient-resolver-registry/recipient-resolver-registry.module.code.ts"
-import { runRecipientResolverTick } from "akasha/seat-system/recipient-resolving/recipient-resolver-tick/recipient-resolver-tick.module.code.ts"
 
 export async function runRecipientResolverRunning(): Promise<void> {
   const ac = stopsOnSignal()
