@@ -223,6 +223,23 @@ export function patchOf(read: Said): EventPatch {
   }
 }
 
+export type Rsvping = { readonly status: RsvpStatus } | { readonly refused: readonly string[] }
+
+export function rsvpStatusIn(said: string): Rsvping {
+  const held = STATUSES.find((one) => one === said)
+  if (held === undefined) {
+    return {
+      refused: [`\`${STATUS}\` takes ${namesDrawn(STATUSES)}, and \`${said}\` is none of them`],
+    }
+  }
+  return { status: held }
+}
+
+export function sendingRefused(said: string | undefined): readonly string[] {
+  if (said === undefined || SEND_UPDATES.some((one) => one === said)) return []
+  return [`\`${SENDING}\` takes ${namesDrawn(SEND_UPDATES)}, and \`${said}\` is none of them`]
+}
+
 export function rsvpOf(read: Said): {
   readonly calendarId: string | undefined
   readonly eventId: string
