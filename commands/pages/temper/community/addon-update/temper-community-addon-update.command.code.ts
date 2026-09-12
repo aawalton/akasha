@@ -7,7 +7,10 @@ import type { Answer } from "akasha/commands/modules/calling/calling.module.code
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { listDeployables } from "akasha/temper/addons-resolve/deployable-addons/deployable-addons.module.code.ts"
 import { valuesOf } from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
-import { downloadAndInstall } from "akasha/temper/community-addons/addon-download/addon-download.module.code.ts"
+import {
+  downloadAndInstall,
+  laidSaid,
+} from "akasha/temper/community-addons/addon-download/addon-download.module.code.ts"
 import {
   distinctUids,
   type PlannedAddon,
@@ -35,7 +38,7 @@ const JSON_FLAG = "--json"
 
 const SPACES = 2
 
-type Outcome = {
+export type Outcome = {
   readonly dir: string
   readonly action: "updated" | "failed"
   readonly from: string | undefined
@@ -58,6 +61,28 @@ function versionOf(group: readonly PlannedAddon[], dir: string): string | undefi
   return group.find((one) => one.dir === dir)?.installedVersion
 }
 
+export function laidAmong(
+  group: readonly PlannedAddon[],
+  done: readonly string[],
+  addonsPath: string
+): ReadonlySet<string> {
+  const laid = group.filter((one) => done.includes(laidSaid(one.dir, addonsPath)))
+  return new Set(laid.map((one) => one.dir))
+}
+
+export function outcomesPartWay(
+  group: readonly PlannedAddon[],
+  latest: string | undefined,
+  laid: ReadonlySet<string>,
+  why: string
+): readonly Outcome[] {
+  return group.map((one) => {
+    const both = { dir: one.dir, from: one.installedVersion, to: latest }
+    if (laid.has(one.dir)) return { ...both, action: "updated" as const }
+    return { ...both, action: "failed" as const, error: why }
+  })
+}
+
 async function updatedGroup(
   group: readonly PlannedAddon[],
   uid: string,
@@ -65,24 +90,18 @@ async function updatedGroup(
   addonsPath: string
 ): Promise<readonly Outcome[]> {
   const latest = group[0]?.latestVersion
+  const done: string[] = []
   try {
     const details = await fetchFileDetails(uid)
-    const done = await downloadAndInstall(details, [...dirs], addonsPath)
-    return done.installedDirs.map((dir) => ({
+    const held = await downloadAndInstall(details, [...dirs], addonsPath, done)
+    return held.installedDirs.map((dir) => ({
       dir,
       action: "updated" as const,
       from: versionOf(group, dir),
-      to: done.version,
+      to: held.version,
     }))
   } catch (thrown) {
-    const why = messageOf(thrown)
-    return group.map((one) => ({
-      dir: one.dir,
-      action: "failed" as const,
-      from: one.installedVersion,
-      to: latest,
-      error: why,
-    }))
+    return outcomesPartWay(group, latest, laidAmong(group, done, addonsPath), messageOf(thrown))
   }
 }
 

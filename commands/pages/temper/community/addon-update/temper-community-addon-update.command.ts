@@ -7,6 +7,7 @@ export const temperCommunityAddonUpdate = {
   definition:
     "the command installing the published updates for the third-party game addons already here",
   code: "ts",
+  test: "ts",
   taking: [],
   invariants: [
     {
