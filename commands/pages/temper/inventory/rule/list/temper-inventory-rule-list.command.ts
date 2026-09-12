@@ -19,6 +19,10 @@ export const temperInventoryRuleList = {
       invariantKind: "departure",
       statement: "The order given is the order the addon reads.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A rule is named by the title that rule carries beside its id.",
+    },
   ],
   name: "list",
   arguments: [{ argument: "argument/json" }],

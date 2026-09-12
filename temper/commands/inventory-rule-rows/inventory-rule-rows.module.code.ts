@@ -23,6 +23,7 @@ export const BUY_RULE_COLUMNS = [
 
 export const RULE_SHOW_COLUMNS = [
   "id",
+  "title",
   "categoryId",
   "action",
   "active",

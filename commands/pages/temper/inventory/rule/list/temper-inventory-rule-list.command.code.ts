@@ -15,6 +15,7 @@ import type { CategoryRule } from "akasha/temper/items-rules-core/inventory-rule
 const COLUMNS = [
   "pos",
   "id",
+  "title",
   "categoryId",
   "action",
   "active",

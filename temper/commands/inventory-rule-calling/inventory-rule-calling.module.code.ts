@@ -67,6 +67,7 @@ type Kindly = {
 export function categoryRow(rule: CategoryRule): Record<string, unknown> {
   return {
     id: rule.id,
+    title: rule.title,
     categoryId: rule.categoryId,
     action: rule.action,
     active: rule.active,
