@@ -14,10 +14,27 @@ export const measureComplexityCyclomatic = {
     { said: "--top <n>", takes: "how many rows are in the answer, worst first" },
     { said: "--json", takes: "the rows as one line of JSON rather than as tab-separated columns" },
   ],
-  helpNotes: [
-    "cyclomatic complexity is one over the decision points: if, case, for, while, do, catch, ternary, each `&&`, `||`, `??`, and each `?.`.",
-    "else and finally are no decision point and count for nothing.",
-    "a row is one function, worst first, and worst is the highest complexity.",
-    "an answer is figures rather than violations, so nothing here refuses a body for being complex.",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A function's cyclomatic complexity is one more than its decision points.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A decision point is an if, a case, a loop, a catch, a ternary, `&&`, `||`, `??` or `?.`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Neither an else nor a finally is a decision point.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row is one function, and the rows are ordered by complexity, highest first.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here refuses a body for being complex.",
+    },
   ],
 } as const satisfies Command
