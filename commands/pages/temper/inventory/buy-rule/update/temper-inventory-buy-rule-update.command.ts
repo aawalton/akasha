@@ -6,7 +6,6 @@ export const temperInventoryBuyRuleUpdate = {
   slug: "temper-inventory-buy-rule-update",
   definition: "the command changing the fields of a buy rule named by its id",
   code: "ts",
-  taking: [{ said: "--target <n>", takes: "the total quantity to buy up to" }],
   invariants: [
     {
       invariantKind: "departure",
@@ -24,6 +23,7 @@ export const temperInventoryBuyRuleUpdate = {
   name: "update",
   arguments: [
     { argument: "argument/force" },
+    { argument: "argument/target-quantity" },
     { argument: "argument/title" },
     { argument: "argument/notes" },
     { argument: "argument/goal" },
