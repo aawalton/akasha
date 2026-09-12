@@ -17,6 +17,7 @@ export const service = {
     "page-type/service-workstation",
     "page-type/vendored-workload",
     "page-type/web-app",
+    "service-workstation/eso-addon-deploying",
     "service-workstation/service-watching",
     "service-workstation/workstation-deploying",
   ],
