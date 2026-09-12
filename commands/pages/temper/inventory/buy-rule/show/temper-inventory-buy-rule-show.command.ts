@@ -6,7 +6,7 @@ export const temperInventoryBuyRuleShow = {
   slug: "temper-inventory-buy-rule-show",
   definition: "the command giving back one buy rule named by its id",
   code: "ts",
-  taking: [{ said: "<id>", takes: "the id of the buy rule given back" }],
+  taking: [],
 
   invariants: [
     {
@@ -15,5 +15,8 @@ export const temperInventoryBuyRuleShow = {
     },
   ],
   name: "show",
-  arguments: [{ argument: "argument/tsv" }],
+  arguments: [
+    { argument: "argument/tsv" },
+    { argument: "argument/buy-rule-id", required: true, saidAs: "word" },
+  ],
 } as const satisfies Command

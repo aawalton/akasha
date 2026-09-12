@@ -6,7 +6,7 @@ export const temperInventoryBuyRuleDelete = {
   slug: "temper-inventory-buy-rule-delete",
   definition: "the command taking away a buy rule named by its id",
   code: "ts",
-  taking: [{ said: "<id>", takes: "the id of the buy rule taken away" }],
+  taking: [],
 
   invariants: [
     {
@@ -19,5 +19,8 @@ export const temperInventoryBuyRuleDelete = {
     },
   ],
   name: "delete",
-  arguments: [{ argument: "argument/force" }],
+  arguments: [
+    { argument: "argument/force" },
+    { argument: "argument/buy-rule-id", required: true, saidAs: "word" },
+  ],
 } as const satisfies Command
