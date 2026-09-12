@@ -33,18 +33,18 @@ import {
 } from "akasha/temper/characters-character-ui/use-characters/use-characters.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { useCompletionCharactersByUser } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
-import { CharactersFilterBar } from "akasha/temper/web/characters-filter-bar/characters-filter-bar.module.code.tsx"
-import {
-  type FilterValues,
-  type SortField,
-  TAB_LABELS,
-} from "akasha/temper/web/characters-filter-types/characters-filter-types.module.code.ts"
 import type { TabValue } from "akasha/temper/web/modules/build-page-tab/build-page-tab.module.code.ts"
 import {
   BuildsBrowseTab,
   type DecodedBuild,
   useFilteredBuilds,
 } from "akasha/temper/web/modules/builds-browse-tab/builds-browse-tab.module.code.tsx"
+import { CharactersFilterBar } from "akasha/temper/web/modules/characters-filter-bar/characters-filter-bar.module.code.tsx"
+import {
+  type FilterValues,
+  type SortField,
+  TAB_LABELS,
+} from "akasha/temper/web/modules/characters-filter-types/characters-filter-types.module.code.ts"
 import { PlanTab, usePlanEntities } from "akasha/temper/web/plan-tab/plan-tab.module.code.tsx"
 import { Trophy } from "lucide-react"
 import { useCallback, useMemo, useRef } from "react"

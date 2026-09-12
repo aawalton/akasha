@@ -20,7 +20,7 @@ import {
   ROLE_ITEMS,
   SORT_OPTIONS,
   type SortField,
-} from "akasha/temper/web/characters-filter-types/characters-filter-types.module.code.ts"
+} from "akasha/temper/web/modules/characters-filter-types/characters-filter-types.module.code.ts"
 import { useState } from "react"
 
 const CHARACTERS_FILTERS: CharactersFilterDef[] = [

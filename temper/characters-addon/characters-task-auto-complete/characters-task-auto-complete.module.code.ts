@@ -1,7 +1,3 @@
-import {
-  HIRELING_MAILS_DAILY_TARGET,
-  hirelingCountForToday,
-} from "akasha/temper/characters-addon/characters-hireling-mail-count/characters-hireling-mail-count.module.code.ts"
 import { refreshTaskHud } from "akasha/temper/characters-addon/characters-task-hud/characters-task-hud.module.code.ts"
 import { clearInitialCompletion } from "akasha/temper/characters-addon/characters-task-hud-state/characters-task-hud-state.module.code.ts"
 import { isCurrentCharacterNext } from "akasha/temper/characters-addon/characters-task-hud-visibility/characters-task-hud-visibility.module.code.ts"
@@ -13,6 +9,10 @@ import {
   isMotifLead,
 } from "akasha/temper/characters-addon/modules/characters-antiquity-lead-checks/characters-antiquity-lead-checks.module.code.ts"
 import { getCharactersConfig } from "akasha/temper/characters-addon/modules/characters-config/characters-config.module.code.ts"
+import {
+  HIRELING_MAILS_DAILY_TARGET,
+  hirelingCountForToday,
+} from "akasha/temper/characters-addon/modules/characters-hireling-mail-count/characters-hireling-mail-count.module.code.ts"
 import { isSkillMorphTaskComplete } from "akasha/temper/characters-skills-morphs-addon/skill-morph-task-hud/skill-morph-task-hud.module.code.ts"
 import {
   getEsoDayStringFromSec,

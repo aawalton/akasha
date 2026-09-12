@@ -16,18 +16,18 @@ import {
 import { useFilterPersistence } from "akasha/design/interfaces/patterns/use-filter-persistence/use-filter-persistence.module.code.ts"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { PagesUILink as Link } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
-import { CharactersDataContent } from "akasha/temper/web/characters-data-content/characters-data-content.module.code.tsx"
+import {
+  isValidTab,
+  type TabValue,
+} from "akasha/temper/web/modules/build-page-tab/build-page-tab.module.code.ts"
+import { CharactersDataContent } from "akasha/temper/web/modules/characters-data-content/characters-data-content.module.code.tsx"
 import {
   type FilterValues,
   isValidClass,
   isValidRole,
   isValidSortField,
   type SortField,
-} from "akasha/temper/web/characters-filter-types/characters-filter-types.module.code.ts"
-import {
-  isValidTab,
-  type TabValue,
-} from "akasha/temper/web/modules/build-page-tab/build-page-tab.module.code.ts"
+} from "akasha/temper/web/modules/characters-filter-types/characters-filter-types.module.code.ts"
 import { NewCharacterButton } from "akasha/temper/web/new-character-button/new-character-button.module.code.tsx"
 import { isSortDirection } from "akasha/utils/narrow/is-sort-direction/is-sort-direction.module.code.ts"
 import { ChevronLeft, Gamepad2, Hammer, Search, Trophy } from "lucide-react"

@@ -5,10 +5,6 @@ import {
   finishPerfTrace,
   startPerfTrace,
 } from "akasha/temper/capture-perf/perf-trace/perf-trace.module.code.ts"
-import { registerBuildEvents } from "akasha/temper/characters-addon/characters-events-build/characters-events-build.module.code.ts"
-import { registerCompletionKnowledgeEvents } from "akasha/temper/characters-addon/characters-events-knowledge/characters-events-knowledge.module.code.ts"
-import { registerCompletionWorldEvents } from "akasha/temper/characters-addon/characters-events-world/characters-events-world.module.code.ts"
-import { registerHirelingMailSubscriber } from "akasha/temper/characters-addon/characters-hireling-mail-subscriber/characters-hireling-mail-subscriber.module.code.ts"
 import { collectItemSets } from "akasha/temper/characters-addon/characters-item-sets/characters-item-sets.module.code.ts"
 import { saveCharacterList } from "akasha/temper/characters-addon/characters-list/characters-list.module.code.ts"
 import { collectLoreLibrary } from "akasha/temper/characters-addon/characters-lore-library/characters-lore-library.module.code.ts"
@@ -45,6 +41,10 @@ import {
   probeDailyWrits,
   reconcileDailyWritStates,
 } from "akasha/temper/characters-addon/modules/characters-daily-writs/characters-daily-writs.module.code.ts"
+import { registerBuildEvents } from "akasha/temper/characters-addon/modules/characters-events-build/characters-events-build.module.code.ts"
+import { registerCompletionKnowledgeEvents } from "akasha/temper/characters-addon/modules/characters-events-knowledge/characters-events-knowledge.module.code.ts"
+import { registerCompletionWorldEvents } from "akasha/temper/characters-addon/modules/characters-events-world/characters-events-world.module.code.ts"
+import { registerHirelingMailSubscriber } from "akasha/temper/characters-addon/modules/characters-hireling-mail-subscriber/characters-hireling-mail-subscriber.module.code.ts"
 import {
   saveAccountSkillMorphProgress,
   saveSkillMorphProgress,
