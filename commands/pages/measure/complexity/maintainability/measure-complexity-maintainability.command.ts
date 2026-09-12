@@ -14,10 +14,19 @@ export const measureComplexityMaintainability = {
     { said: "--top <n>", takes: "how many rows are in the answer, worst first" },
     { said: "--json", takes: "the rows as one line of JSON rather than as tab-separated columns" },
   ],
-  helpNotes: [
-    "the maintainability index is the Visual Studio variant over halstead volume, the cyclomatic sum and the source lines a file holds.",
-    "blank lines and comment-only lines are no source line.",
-    "the index rises as a file shortens, so splitting one function in two raises it though neither the decision points nor the vocabulary changed.",
-    "a row is one file, worst first, and worst is the lowest index, so the threshold is a ceiling here rather than a floor.",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "The index is the Visual Studio variant over volume, the cyclomatic sum and the source lines.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A blank line and a comment-only line are no source line.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row is one file, and the rows are ordered by index, lowest first.",
+    },
   ],
 } as const satisfies Command
