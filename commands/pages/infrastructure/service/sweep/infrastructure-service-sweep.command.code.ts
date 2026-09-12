@@ -1,12 +1,13 @@
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { dryRun } from "akasha/commands/arguments/pages/dry-run.argument.ts"
 import {
+  answeredWith,
   answering,
   DATA,
   naming,
-  OK,
   OPERATIONAL,
   refused,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
@@ -50,8 +51,8 @@ export function sweptEach(
 ): Answer {
   const held = sweeping(home, { write: new Map(), enable: [], stop: [], remove, strand }, done)
   const said = [...report, ...held.did.map((what) => `did\t${what}`)]
-  if (held.refused.length > 0) return { report: said, refusals: held.refused, code: OPERATIONAL }
-  return { report: said, refusals: [], code: OK }
+  if (held.refused.length > 0) return answeredWith(said, held.refused, OPERATIONAL)
+  return told(said)
 }
 
 export function sweptBy(
@@ -85,14 +86,14 @@ export async function infrastructureServiceSweep(
   const remove = plan.remove
   const strand = strandedAmong(ourStaged(home), owned, plan)
   if (remove.length === 0 && strand.length === 0) {
-    return { report: [ALL_ACCOUNTED], refusals: [], code: OK }
+    return told([ALL_ACCOUNTED])
   }
 
   const report = [
     ...remove.map((name) => `remove\t${name}`),
     ...strand.map((name) => `stranded\t${name}`),
   ]
-  if (read.taken.dryRun) return { report: [...report, NOT_SWEPT], refusals: [], code: OK }
+  if (read.taken.dryRun) return told([...report, NOT_SWEPT])
 
   return await sweptBy(home, report, remove, strand, sweeping)
 }

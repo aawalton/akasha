@@ -5,6 +5,7 @@ import { force } from "akasha/commands/arguments/pages/force.argument.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import { only as onlyArgument } from "akasha/commands/arguments/pages/only.argument.ts"
 import {
+  answeredWith,
   INPUT,
   OK,
   OPERATIONAL,
@@ -169,20 +170,20 @@ export async function temperCommunityAddonUpdate(
   const failed = outcomes.filter((one) => one.action === "failed")
   const updated = outcomes.length - failed.length
 
+  const refusals = failed.map((one) => `${one.dir} was not updated: ${one.error ?? ""}`)
+  const code = failed.length > 0 ? OPERATIONAL : OK
+
   if (taken.json) {
-    return {
-      report: JSON.stringify({ addonsDir: addonsPath, outcomes }, null, SPACES).split("\n"),
-      refusals: failed.map((one) => `${one.dir} was not updated: ${one.error ?? ""}`),
-      code: failed.length > 0 ? OPERATIONAL : OK,
-    }
+    return answeredWith(
+      JSON.stringify({ addonsDir: addonsPath, outcomes }, null, SPACES).split("\n"),
+      refusals,
+      code
+    )
   }
 
-  return {
-    report: [
-      ...outcomes.map(lineOf),
-      `${String(updated)} updated, ${String(failed.length)} failed`,
-    ],
-    refusals: failed.map((one) => `${one.dir} was not updated: ${one.error ?? ""}`),
-    code: failed.length > 0 ? OPERATIONAL : OK,
-  }
+  return answeredWith(
+    [...outcomes.map(lineOf), `${String(updated)} updated, ${String(failed.length)} failed`],
+    refusals,
+    code
+  )
 }
