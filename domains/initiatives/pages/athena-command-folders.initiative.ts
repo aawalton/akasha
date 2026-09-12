@@ -11,7 +11,7 @@ export const athenaCommandFolders = {
     {
       statement: "A parts list is sorted, and no reader depends on the order it is written in.",
       workingMemory:
-        "`parts.relation-property.ts:9` says parts are in the order they are read, and no reader reads them so: `domain-drawing.module.code.ts:105` sorts before descending, and every folder-shape check turns parts into a Set. The written order is arrival order. `command.page-type.ts:114` carries a blank line with ten entries appended after it, and property pages sit at `:14-18` inside a run of namespaces. Two other pages carry the same gap. A check holds the sort.\n",
+        "`parts.relation-property.ts` says what a parts list is and carries the sort as a gap. 343 of 919 parts lists are unsorted. Two readers depend on the written order: `domain-rows.module.code.ts:125` publishes it as `sequence`, which numbers the editor's Domains tree at `champions-tree.module.code.ts:31`, and `calling.module.code.ts:330` prints a namespace's subcommands in it. Both orderings are blessed invariants. No check holds the sort. Are they alphabetical?\n",
     },
   ],
 } as const satisfies Initiative
