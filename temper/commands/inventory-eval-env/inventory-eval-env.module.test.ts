@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import type { CharacterKnowledge } from "akasha/temper/commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import { buildCliEvalEnv } from "akasha/temper/commands/inventory-eval-env/inventory-eval-env.module.code.ts"
+import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/motif-chapter-set/motif-chapter-set.module.code.ts"
 
 const STYLED = 1
@@ -76,7 +77,76 @@ test("what only the running game knows is answered unknown rather than guessed",
   expect(env.getCurrentCharacter()).toBe("unknown")
   expect(env.getConsumableStock(1, "111")).toBe("unknown")
   expect(env.isTraitResearched("111", 2, "Sharpened")).toBe("unknown")
-  expect(env.getTransmuteCrystalCap()).toBe("unknown")
+})
+
+function envOverInventory(db: InventoryDatabase) {
+  return buildCliEvalEnv({
+    charactersById: new Map(),
+    characterPriority: [],
+    wantedConsumables: {},
+    db,
+  })
+}
+
+const EMPTY_META = { displayName: "", worldName: "", lastFullScan: 0 }
+
+const BLACKSMITHING = 1
+
+test("a crafting rank comes from the inventory capture and is read against its cap", () => {
+  const env = envOverInventory({
+    locations: {},
+    meta: EMPTY_META,
+    craftingLevels: { "111": { [BLACKSMITHING]: 9 }, "222": { [BLACKSMITHING]: 10 } },
+  })
+  expect(env.isCraftingRankBelowCap("111", BLACKSMITHING)).toBe(true)
+  expect(env.isCraftingRankBelowCap("222", BLACKSMITHING)).toBe(false)
+  expect(env.isCraftingRankBelowCap("333", BLACKSMITHING)).toBe("unknown")
+})
+
+test("the transmute crystal figures come from the inventory capture", () => {
+  expect(envOf(knowing({})).getTransmuteCrystalCap()).toBe("unknown")
+  const env = envOverInventory({
+    locations: {},
+    meta: EMPTY_META,
+    transmuteCrystalAmount: 400,
+    transmuteCrystalCap: 1000,
+  })
+  expect(env.getTransmuteCrystalAmount()).toBe(400)
+  expect(env.getTransmuteCrystalCap()).toBe(1000)
+})
+
+test("a container names its cooldown group, and a cooldown nothing records reads as expired", () => {
+  const env = envOverInventory({
+    meta: EMPTY_META,
+    locations: {
+      "111": {
+        displayName: "Ayrenn",
+        lastScanned: 0,
+        bags: {
+          1: {
+            1: {
+              itemId: 77,
+              itemName: "Rewards for the Worthy",
+              itemLink: "",
+              quality: 1,
+              filterType: 1,
+              itemType: 1,
+              traitType: 0,
+              requiredLevel: 1,
+              requiredCP: 0,
+              stackCount: 1,
+              isContainer: true,
+            },
+          },
+        },
+      },
+    },
+    openCooldowns: { "rftw": Date.now() + 60_000 },
+  })
+  expect(env.getCooldownGroup(77)).toBe("rftw")
+  expect(env.getCooldownGroup(78)).toBeNull()
+  expect(env.isCooldownExpired("rftw")).toBe(false)
+  expect(env.isCooldownExpired("undaunted")).toBe(true)
 })
 
 test("a skill line rank comes from the characters capture, named by its temper id", () => {

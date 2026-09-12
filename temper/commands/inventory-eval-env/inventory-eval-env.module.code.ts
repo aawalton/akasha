@@ -1,4 +1,7 @@
 import type { CharacterKnowledge } from "akasha/temper/commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
+import { findCooldownGroup } from "akasha/temper/items-core/cooldown-groups/cooldown-groups.module.code.ts"
+import { isCraftingRankBelowCap } from "akasha/temper/items-core/crafting-passive-ranks/crafting-passive-ranks.module.code.ts"
+import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/motif-chapter-set/motif-chapter-set.module.code.ts"
 import type { ItemKey } from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
 import type { EvalEnv } from "akasha/temper/items-rules-eval/eval-env/eval-env.module.code.ts"
@@ -9,6 +12,7 @@ export interface CliEvalEnvDeps {
   readonly charactersById: ReadonlyMap<string, CharacterKnowledge>
   readonly characterPriority: ReadonlyArray<string>
   readonly wantedConsumables: Record<string, unknown>
+  readonly db?: InventoryDatabase
 }
 
 function chaptersOfStyle(styleId: number): readonly number[] | undefined {
@@ -18,7 +22,8 @@ function chaptersOfStyle(styleId: number): readonly number[] | undefined {
 const UNKNOWN = "unknown"
 
 export function buildCliEvalEnv(deps: CliEvalEnvDeps): EvalEnv {
-  const { charactersById, characterPriority, wantedConsumables } = deps
+  const { charactersById, characterPriority, wantedConsumables, db } = deps
+  const itemIdToCooldownGroup = compileItemIdToCooldownGroup(db)
   return {
     isKnownByCharacter: (itemKey, charId) => knowsItemForChar(charactersById, charId, itemKey),
     isKnownByAnyCharacter: (itemKey) => {
@@ -64,18 +69,48 @@ export function buildCliEvalEnv(deps: CliEvalEnvDeps): EvalEnv {
     },
     getTotalScriptCount: () => UNKNOWN,
 
+    isCraftingRankBelowCap: (charId, craftingType) => {
+      const ranks = db?.craftingLevels?.[charId]
+      if (ranks === undefined) return UNKNOWN
+      const rank = ranks[craftingType]
+      if (rank === undefined) return UNKNOWN
+      return isCraftingRankBelowCap(rank, craftingType)
+    },
+
+    getCooldownGroup: (itemId) => itemIdToCooldownGroup.get(itemId) ?? null,
+    isCooldownExpired: (groupKey) => {
+      const expiresAt = db?.openCooldowns?.[groupKey]
+      if (expiresAt === undefined) return true
+      return Date.now() >= expiresAt
+    },
+    getTransmuteCrystalAmount: () => db?.transmuteCrystalAmount ?? UNKNOWN,
+    getTransmuteCrystalCap: () => db?.transmuteCrystalCap ?? UNKNOWN,
+
     isTraitResearched: () => UNKNOWN,
-    isCraftingRankBelowCap: () => UNKNOWN,
     matchesWantedEquipment: () => UNKNOWN,
     matchesWantedCompanionEquipment: () => UNKNOWN,
     isCompanionWornSlotFilled: () => UNKNOWN,
     findCharacterForWantedEquipment: () => UNKNOWN,
     findCompanionForWantedEquipment: () => UNKNOWN,
-    getCooldownGroup: () => UNKNOWN,
-    isCooldownExpired: () => UNKNOWN,
-    getTransmuteCrystalAmount: () => UNKNOWN,
-    getTransmuteCrystalCap: () => UNKNOWN,
   }
+}
+
+function compileItemIdToCooldownGroup(
+  db: InventoryDatabase | undefined
+): ReadonlyMap<number, string> {
+  const result = new Map<number, string>()
+  if (db === undefined) return result
+  for (const location of Object.values(db.locations)) {
+    for (const slots of Object.values(location.bags)) {
+      for (const item of Object.values(slots)) {
+        if (item.isContainer !== true) continue
+        if (result.has(item.itemId)) continue
+        const group = findCooldownGroup({ itemName: item.itemName })
+        if (group !== undefined) result.set(item.itemId, group.key)
+      }
+    }
+  }
+  return result
 }
 
 function knowsItemForChar(

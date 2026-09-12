@@ -31,6 +31,19 @@ export const inventoryEvalEnv = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A crafting rank and the two transmute crystal figures come from the inventory capture.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A cooldown group is worked out from the name of a container the capture holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A cooldown group the capture records no expiry for reads as expired.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A skill line the capture never names reads as absent rather than as rank zero.",
     },
     {

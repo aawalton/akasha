@@ -178,6 +178,7 @@ async function walkedFor(
     charactersById,
     characterPriority: config.characterPriority,
     wantedConsumables: config.wantedConsumables,
+    db,
   })
   const { item, location } = resolved
   const nodeIds = caps.classifyItemToNodeIds(item)
