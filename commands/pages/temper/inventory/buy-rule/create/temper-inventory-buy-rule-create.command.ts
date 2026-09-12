@@ -14,7 +14,6 @@ export const temperInventoryBuyRuleCreate = {
     },
     { said: "--target <n>", takes: "the total quantity to buy up to" },
     { said: "--source <name>", takes: "where the item is bought from" },
-    { said: "--goal <s>", takes: "a goal label the web shows" },
     { said: "--active <true|false>", takes: "whether the rule is active" },
   ],
 
@@ -29,5 +28,9 @@ export const temperInventoryBuyRuleCreate = {
     },
   ],
   name: "create",
-  arguments: [{ argument: "argument/title" }, { argument: "argument/notes" }],
+  arguments: [
+    { argument: "argument/title" },
+    { argument: "argument/notes" },
+    { argument: "argument/goal" },
+  ],
 } as const satisfies Command

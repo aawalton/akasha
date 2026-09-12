@@ -19,7 +19,6 @@ export const temperInventoryRuleUpdate = {
       takes: "the cascade of destinations the item falls through",
     },
     { said: "--conditions <json>", takes: "the conditions narrowing which items the rule reaches" },
-    { said: "--goal <text>", takes: "a goal label the web shows" },
     { said: "--active <true|false>", takes: "whether the rule is active" },
     {
       said: "--stock-scope <scope>",
@@ -45,5 +44,6 @@ export const temperInventoryRuleUpdate = {
     { argument: "argument/force" },
     { argument: "argument/title" },
     { argument: "argument/notes" },
+    { argument: "argument/goal" },
   ],
 } as const satisfies Command
