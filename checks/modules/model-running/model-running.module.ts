@@ -59,20 +59,12 @@ export const modelRunning = {
       statement: "Nothing here says why a statement is bad.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "departure",
       statement: "A check counting runs for both phases spends its change count at audit.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "departure",
       statement: "A check that did not run says so on standard error alone.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A run knows which phase the run was reached from.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A check that did not run says so in the report and in the commit.",
     },
   ],
 } as const satisfies Module
