@@ -1,8 +1,11 @@
 import { writeFileSync } from "node:fs"
 import { isAbsolute, resolve } from "node:path"
 import { notices } from "akasha/agents/messaging/notices/compose-notices/compose-notices.module.code.ts"
+import {
+  faulted,
+  refusedBy,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 
 export const OUT = "--out"
 
@@ -38,12 +41,12 @@ export function pathOf(said: string, root: string): string {
 
 export function seatComposeNotices(argv: readonly string[], given: Given): Answer {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+  if ("refused" in read) return refusedBy(read.refused)
   let found: Readonly<Record<string, string>>
   try {
     found = notices()
   } catch (thrown) {
-    return { report: [], refusals: [whyOf(thrown)], code: 1 }
+    return faulted(thrown)
   }
   try {
     const json = saidOf(found)
@@ -51,6 +54,6 @@ export function seatComposeNotices(argv: readonly string[], given: Given): Answe
     writeFileSync(pathOf(read.out, resolve(given.root)), `${json}\n`)
     return { report: [], refusals: [], code: 0 }
   } catch (thrown) {
-    return { report: [], refusals: [whyOf(thrown)], code: 3 }
+    return faulted(thrown)
   }
 }

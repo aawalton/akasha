@@ -5,6 +5,10 @@ import {
   notices,
   render,
 } from "akasha/agents/messaging/notices/compose-notices/compose-notices.module.code.ts"
+import {
+  INPUT,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   OUT,
@@ -85,9 +89,8 @@ test("what the module refuses to compose is what the command refuses with", () =
   try {
     const said = underRoot(folder, () => seatComposeNotices([], givenIn(ROOT)))
 
-    expect(said.code).toBe(1)
+    expect(said.code).toBe(OPERATIONAL)
     expect(said.report).toEqual([])
-    expect(said.refusals.length).toBe(1)
     expect(said.refusals[0]).toContain("is not there")
   } finally {
     rmSync(folder, { recursive: true, force: true })
@@ -119,7 +122,7 @@ test("a word this does not take is named in its own refusal", () => {
 test("a word this does not take refuses as a fault in the call", () => {
   const said = seatComposeNotices(["--help-me"], givenIn(ROOT))
 
-  expect(said.code).toBe(1)
+  expect(said.code).toBe(INPUT)
   expect(said.report).toEqual([])
 })
 

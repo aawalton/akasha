@@ -21,6 +21,10 @@ export const seatComposeNotices = {
     },
     {
       invariantKind: "departure",
+      statement: "That refusal is the machine's fault rather than the caller's.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The JSON is indented two spaces.",
     },
     {
