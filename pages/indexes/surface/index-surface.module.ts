@@ -138,5 +138,13 @@ export const indexSurface = {
       invariantKind: "departure",
       statement: "A lay is worked out from the acts laid rather than from the acts laid before.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Every worktree of a checkout is answered the one index that checkout shares.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A root whose git folder is a file is answered the folder that file names.",
+    },
   ],
 } as const satisfies Module

@@ -1,6 +1,6 @@
-import { existsSync, readdirSync } from "node:fs"
-import { join } from "node:path"
-import { INDEXES, storeAt } from "akasha/files/git-place/git-place.module.code.ts"
+import { existsSync, readdirSync, statSync } from "node:fs"
+import { basename, dirname, join } from "node:path"
+import { GIT_AT, INDEXES, storeAt } from "akasha/files/git-place/git-place.module.code.ts"
 import type { Child, Filing, Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { textThere } from "akasha/utils/fs/text-there/text-there.module.code.ts"
 
@@ -8,10 +8,32 @@ const ROOT = ""
 
 const SLASH = "/"
 
+const POINTS_AT = "gitdir:"
+
+const WORKTREES = "worktrees"
+
 export const INDEX_AT = storeAt(INDEXES)
 
+const sharedIn = new Map<string, string>()
+
+export function gitFolderIn(root: string): string {
+  const own = join(root, GIT_AT)
+  const found = statSync(own, { throwIfNoEntry: false })
+  if (found === undefined || found.isDirectory()) return own
+  const said = textThere(own)
+  if (said === null) return own
+  const pointed = said.trim()
+  if (!pointed.startsWith(POINTS_AT)) return own
+  const at = pointed.slice(POINTS_AT.length).trim()
+  return basename(dirname(at)) === WORKTREES ? dirname(dirname(at)) : at
+}
+
 export function indexIn(root: string): string {
-  return join(root, INDEX_AT)
+  const held = sharedIn.get(root)
+  if (held !== undefined) return held
+  const made = join(gitFolderIn(root), INDEXES)
+  sharedIn.set(root, made)
+  return made
 }
 
 export function indexAt(indexName: string, ...parts: readonly string[]): string {
