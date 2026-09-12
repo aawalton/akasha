@@ -10,7 +10,7 @@ export const aranyaWorkstationServiceStability = {
     {
       statement: "A change never breaks a workstation service.",
       workingMemory:
-        "Every unit's `ExecStart` names the runner and the service's slug. `service-running` finds the page through the index under the checkout the environment names, and imports the `running` group beside it out of the checkout the runner sits in, so a unit runs the pinned tree's code over the main checkout's pages. Deployed over all 44 on 2026-09-12: every unit came up, and the ones leaving on 79 as the tree moves still do. `isWrapped` was never built. Left: `runs` and `starts` reach nothing.\n",
+        "A service page states nothing of how it runs: `runs` and `starts` are gone, and every unit's `ExecStart` names the runner and the slug. `service-running` finds the page through the index under the checkout the environment names, and imports the `running` group beside it out of the checkout the runner sits in, so a unit runs the pinned tree's code over the main checkout's pages. Deployed over all 44. Left: `run-path-reading` and `service-reaching` are read by nothing.\n",
     },
     {
       statement: "A workstation unit on the machine is what its page says.",
