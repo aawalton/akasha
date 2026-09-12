@@ -237,4 +237,5 @@ export const deploy = {
         "A deploy is built from a tree pinned at the commit rather than from the checkout.",
     },
   ],
+  name: "deploy",
 } as const satisfies Command
