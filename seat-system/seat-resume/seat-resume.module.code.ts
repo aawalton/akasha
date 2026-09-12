@@ -6,6 +6,7 @@ import {
 } from "akasha/agents/seats/modules/action/seat-action.module.code.ts"
 import { seatRecord } from "akasha/agents/seats/modules/facts/seat-facts.module.code.ts"
 import {
+  NONE_NAMED,
   resolveSeatTargetCli,
   resolveSeatTargetFromFlagOrEnv,
 } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
@@ -244,7 +245,7 @@ export async function resumeSeat(
   }
 
   const seat = seatRecord(agentId)
-  if (seat === null) throw dataError(`No seat found matching '${agentId}'`)
+  if (seat === null) throw dataError(`\`${agentId}\` names no seat`)
 
   const relaunchInput: RelaunchInput = {
     agentId,
@@ -400,9 +401,7 @@ export default async function seatResume(
     const named =
       parsed.string("--agent-id") ?? shape.string().optional().parse(process.env.AGENT_ID)
     if (named === undefined || named.length === 0) {
-      throw inputError(
-        "[ops] seat not named — pass --agent-id <uuid|prefix|name> or set the AGENT_ID env var"
-      )
+      throw inputError(NONE_NAMED)
     }
     const taken = await resumeSeatInteractively(
       { named, force, launch: !parsed.boolean("--no-launch") },

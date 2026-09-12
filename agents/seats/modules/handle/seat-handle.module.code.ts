@@ -23,7 +23,7 @@ const NAME_MAX = 128
 
 const HEX_ONLY_NAME_MAX = 7
 
-const NONE_NAMED = "no seat is named, and one is named at `--agent-id` or in `AGENT_ID`"
+export const NONE_NAMED = "no seat is named, and one is named at `--agent-id` or in `AGENT_ID`"
 
 function noSeatId(candidate: string): string {
   return `\`${candidate}\` is no seat's id`
