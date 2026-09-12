@@ -1,8 +1,9 @@
 import { readFileSync } from "node:fs"
 import {
+  asJson,
   DATA,
-  OK,
   refused,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
@@ -114,8 +115,8 @@ export function temperAutoQuestTrace(argv: readonly string[] = []): Answer {
   if (entries.length === 0) return refused(`${tracePath} ${NOTHING_CAPTURED}`, DATA)
 
   if (argv.includes(JSON_FLAG)) {
-    return { report: [JSON.stringify(entries)], refusals: [], code: OK }
+    return asJson(entries)
   }
 
-  return { report: entries.flatMap(linesOf), refusals: [], code: OK }
+  return told(entries.flatMap(linesOf))
 }

@@ -1,6 +1,7 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import {
+  asJson,
   DATA,
   INPUT,
   OK,
@@ -100,11 +101,7 @@ export function temperWatcherLogList(argv: readonly string[], given: Given): Ans
   const capped = merged.slice(0, limit)
 
   if (read.flags.includes(JSON_SAID)) {
-    return {
-      report: [JSON.stringify({ lines: capped, count: capped.length })],
-      refusals: [],
-      code: OK,
-    }
+    return asJson({ lines: capped, count: capped.length })
   }
   return { report: capped.map((one) => JSON.stringify(one)), refusals: [], code: OK }
 }
