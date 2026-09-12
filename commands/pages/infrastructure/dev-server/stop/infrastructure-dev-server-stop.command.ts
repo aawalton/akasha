@@ -7,7 +7,7 @@ export const infrastructureDevServerStop = {
   definition: "the command ending one app's dev server and taking the state file it held",
   code: "ts",
   name: "stop",
-  taking: [{ said: "--all", takes: "every server a state file tracks, in place of naming one" }],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -43,5 +43,6 @@ export const infrastructureDevServerStop = {
     { argument: "argument/json" },
     { argument: "argument/seq", saidAs: "flag-or-word" },
     { argument: "argument/web-app" },
+    { argument: "argument/every-server" },
   ],
 } as const satisfies Command
