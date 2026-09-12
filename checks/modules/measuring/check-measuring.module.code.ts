@@ -152,18 +152,22 @@ function periodIn(said: string): Chose {
   return { chosen: { by: "period", ms, said }, refusals: [] }
 }
 
+export function windowOf(said: string | undefined): Chose {
+  if (said === undefined) return { chosen: ONE_RUN, refusals: [] }
+  if (!COUNTED.test(said)) return periodIn(said)
+  const runs = Number(said)
+  if (runs === 0) return refusing(`\`${LAST} ${said}\` names no run`)
+  return { chosen: { by: "runs", runs }, refusals: [] }
+}
+
 export function windowIn(argv: readonly string[]): Chose {
-  if (argv.length === 0) return { chosen: ONE_RUN, refusals: [] }
+  if (argv.length === 0) return windowOf(undefined)
   const first = argv[0] ?? ""
   if (first !== LAST) return refusing(`\`${first}\` is no argument this command takes`)
   if (argv.length === 1) return refusing(`\`${LAST}\` was handed nothing to read`)
   if (argv.length > 2)
     return refusing(`\`${LAST}\` takes one word and ${argv.length - 1} follow it`)
-  const said = argv[1] ?? ""
-  if (!COUNTED.test(said)) return periodIn(said)
-  const runs = Number(said)
-  if (runs === 0) return refusing(`\`${LAST} ${said}\` names no run`)
-  return { chosen: { by: "runs", runs }, refusals: [] }
+  return windowOf(argv[1] ?? "")
 }
 
 export function withinOf(runs: readonly Run[], now: number, ms: number): readonly Run[] {
