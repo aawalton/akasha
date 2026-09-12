@@ -8,5 +8,4 @@ export const rootDomain = {
   takes: "the domain to root the tree at instead of at its roots, said once per domain",
   value: "text",
   placeholder: "slug",
-  repeats: true,
 } as const satisfies Argument
