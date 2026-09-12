@@ -1,12 +1,3 @@
-import {
-  DEST_PIN_TEXT_COLOR_AYLEID,
-  DEST_PIN_TEXT_COLOR_DEADLANDS,
-  DEST_PIN_TEXT_COLOR_DWEMER,
-  DEST_PIN_TEXT_COLOR_HIGHISLE,
-  DEST_PIN_TEXT_COLOR_VAMPALTAR,
-  DEST_PIN_TEXT_COLOR_WWSHRINE,
-  DEST_PIN_TEXT_COLOR_WWVAMP,
-} from "akasha/temper/navigation-addon/destinations-colors/destinations-colors.module.code.ts"
 import { PIN_TYPES } from "akasha/temper/navigation-addon/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 import {
   ACH_STATE,
@@ -18,6 +9,15 @@ import {
   rowNumber,
 } from "akasha/temper/navigation-addon/destinations-pins-stores/destinations-pins-stores.module.code.ts"
 import { DRTV } from "akasha/temper/navigation-addon/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
+import {
+  DEST_PIN_TEXT_COLOR_AYLEID,
+  DEST_PIN_TEXT_COLOR_DEADLANDS,
+  DEST_PIN_TEXT_COLOR_DWEMER,
+  DEST_PIN_TEXT_COLOR_HIGHISLE,
+  DEST_PIN_TEXT_COLOR_VAMPALTAR,
+  DEST_PIN_TEXT_COLOR_WWSHRINE,
+  DEST_PIN_TEXT_COLOR_WWVAMP,
+} from "akasha/temper/navigation-addon/modules/destinations-colors/destinations-colors.module.code.ts"
 
 function makeMiscPoiCallback(
   pinName: string,

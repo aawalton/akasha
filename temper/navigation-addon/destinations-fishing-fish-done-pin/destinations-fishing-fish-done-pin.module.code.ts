@@ -1,9 +1,3 @@
-import {
-  DEST_PIN_TEXT_COLOR_FISH_DONE,
-  DEST_PIN_TEXT_COLORBAIT_FISH_DONE,
-  DEST_PIN_TEXT_COLORTITLE_FISH,
-  DEST_PIN_TEXT_COLORWATER_FISH_DONE,
-} from "akasha/temper/navigation-addon/destinations-colors/destinations-colors.module.code.ts"
 import { baitAndWaterForPinType } from "akasha/temper/navigation-addon/destinations-fishing-bait/destinations-fishing-bait.module.code.ts"
 import {
   DESTINATIONS_FISH_TYPE_FOUL,
@@ -25,6 +19,12 @@ import {
 } from "akasha/temper/navigation-addon/destinations-pins-stores/destinations-pins-stores.module.code.ts"
 import { DRTV } from "akasha/temper/navigation-addon/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
 import { getSavedVariables } from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
+import {
+  DEST_PIN_TEXT_COLOR_FISH_DONE,
+  DEST_PIN_TEXT_COLORBAIT_FISH_DONE,
+  DEST_PIN_TEXT_COLORTITLE_FISH,
+  DEST_PIN_TEXT_COLORWATER_FISH_DONE,
+} from "akasha/temper/navigation-addon/modules/destinations-colors/destinations-colors.module.code.ts"
 
 export function fishDonepinTypeCallback(this: void): undefined {
   if (GetMapType() >= MAPTYPE_WORLD) return

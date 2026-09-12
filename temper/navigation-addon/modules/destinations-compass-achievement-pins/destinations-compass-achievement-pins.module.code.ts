@@ -1,7 +1,3 @@
-import {
-  createCompassPairPin,
-  pairEnabled,
-} from "akasha/temper/navigation-addon/destinations-compass-pair-pin/destinations-compass-pair-pin.module.code.ts"
 import { PIN_TYPES } from "akasha/temper/navigation-addon/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 import {
   getMapTextureName,
@@ -22,6 +18,10 @@ import {
   getCharacterSavedVariables,
   getSavedVariables,
 } from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
+import {
+  createCompassPairPin,
+  pairEnabled,
+} from "akasha/temper/navigation-addon/modules/destinations-compass-pair-pin/destinations-compass-pair-pin.module.code.ts"
 
 export function addAchievementCompassPins(this: void): undefined {
   if (GetMapType() >= MAPTYPE_WORLD) return

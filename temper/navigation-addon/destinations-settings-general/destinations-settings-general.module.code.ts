@@ -1,9 +1,4 @@
 import {
-  DEST_PIN_TEXT_COLOR_ENGLISH_KEEP,
-  DEST_PIN_TEXT_COLOR_ENGLISH_POI,
-} from "akasha/temper/navigation-addon/destinations-colors/destinations-colors.module.code.ts"
-import { DEFAULTS } from "akasha/temper/navigation-addon/destinations-defaults/destinations-defaults.module.code.ts"
-import {
   getClientLanguage,
   getSettingsString,
 } from "akasha/temper/navigation-addon/destinations-lang-strings/destinations-lang-strings.module.code.ts"
@@ -15,6 +10,11 @@ import {
   accountWideColored,
   reloadWarningColored,
 } from "akasha/temper/navigation-addon/destinations-settings-helpers/destinations-settings-helpers.module.code.ts"
+import {
+  DEST_PIN_TEXT_COLOR_ENGLISH_KEEP,
+  DEST_PIN_TEXT_COLOR_ENGLISH_POI,
+} from "akasha/temper/navigation-addon/modules/destinations-colors/destinations-colors.module.code.ts"
+import { DEFAULTS } from "akasha/temper/navigation-addon/modules/destinations-defaults/destinations-defaults.module.code.ts"
 
 function buildAccountWideToggle(): LamCheckboxData {
   return {

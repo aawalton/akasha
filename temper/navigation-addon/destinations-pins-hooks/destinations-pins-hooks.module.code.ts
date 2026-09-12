@@ -1,12 +1,12 @@
 import {
-  DEST_PIN_TEXT_COLOR_ENGLISH_KEEP,
-  DEST_PIN_TEXT_COLOR_ENGLISH_POI,
-} from "akasha/temper/navigation-addon/destinations-colors/destinations-colors.module.code.ts"
-import {
   KeepsStore,
   PoiStore,
 } from "akasha/temper/navigation-addon/destinations-pins-stores/destinations-pins-stores.module.code.ts"
 import { getSavedVariables } from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
+import {
+  DEST_PIN_TEXT_COLOR_ENGLISH_KEEP,
+  DEST_PIN_TEXT_COLOR_ENGLISH_POI,
+} from "akasha/temper/navigation-addon/modules/destinations-colors/destinations-colors.module.code.ts"
 
 function addEnglishName(pin: ZoMapPinObject): undefined {
   const sv = getSavedVariables()

@@ -1,15 +1,3 @@
-import {
-  DEST_PIN_TEXT_COLOR_BREAKING,
-  DEST_PIN_TEXT_COLOR_BREAKING_DONE,
-  DEST_PIN_TEXT_COLOR_CUTPURSE,
-  DEST_PIN_TEXT_COLOR_CUTPURSE_DONE,
-  DEST_PIN_TEXT_COLOR_OTHER,
-  DEST_PIN_TEXT_COLOR_OTHER_DONE,
-  DEST_PIN_TEXT_COLOR_RELICHUNTER,
-  DEST_PIN_TEXT_COLOR_RELICHUNTER_DONE,
-  DEST_PIN_TINT_CHAMPION,
-  DEST_PIN_TINT_CHAMPION_DONE,
-} from "akasha/temper/navigation-addon/destinations-colors/destinations-colors.module.code.ts"
 import { PIN_TYPES } from "akasha/temper/navigation-addon/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 import {
   ACH_STATE,
@@ -30,6 +18,18 @@ import {
 } from "akasha/temper/navigation-addon/destinations-pins-stores/destinations-pins-stores.module.code.ts"
 import { DRTV } from "akasha/temper/navigation-addon/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
 import { getSavedVariables } from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
+import {
+  DEST_PIN_TEXT_COLOR_BREAKING,
+  DEST_PIN_TEXT_COLOR_BREAKING_DONE,
+  DEST_PIN_TEXT_COLOR_CUTPURSE,
+  DEST_PIN_TEXT_COLOR_CUTPURSE_DONE,
+  DEST_PIN_TEXT_COLOR_OTHER,
+  DEST_PIN_TEXT_COLOR_OTHER_DONE,
+  DEST_PIN_TEXT_COLOR_RELICHUNTER,
+  DEST_PIN_TEXT_COLOR_RELICHUNTER_DONE,
+  DEST_PIN_TINT_CHAMPION,
+  DEST_PIN_TINT_CHAMPION_DONE,
+} from "akasha/temper/navigation-addon/modules/destinations-colors/destinations-colors.module.code.ts"
 
 export function otherpinTypeCallback(this: void): undefined {
   if (GetMapType() >= MAPTYPE_WORLD) return
