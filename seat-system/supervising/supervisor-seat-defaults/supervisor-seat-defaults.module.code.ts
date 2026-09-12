@@ -2,12 +2,12 @@ import {
   attributesOf,
   recordedModeOf,
 } from "akasha/agents/attributes/agent-attributes.module.code.ts"
+import type { Args } from "akasha/agents/seats/modules/args/seat-args.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import type { Args } from "akasha/seat-system/seat-args/seat-args.module.code.ts"
 import { onCallOf } from "akasha/seat-system/seat-on-call/seat-on-call.module.code.ts"
 import { nameFromHistory } from "akasha/seat-system/seat-page-history/seat-page-history.module.code.ts"
 import { seatNameForAgent } from "akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
