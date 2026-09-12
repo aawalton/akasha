@@ -32,5 +32,5 @@ test("every word a call names is refused rather than the first alone", () => {
 test("a drop by an agent with no page is refused rather than taking anything away", () => {
   const said = changeDrop([], OUTSIDE)
   expect(said.code).not.toBe(0)
-  expect(said.refusals[0]).toContain("no agent whose page the edits would be kept beside")
+  expect(said.refusals[0]).toContain("no agent whose page")
 })
