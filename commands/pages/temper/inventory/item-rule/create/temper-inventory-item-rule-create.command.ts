@@ -6,11 +6,27 @@ export const temperInventoryItemRuleCreate = {
   slug: "temper-inventory-item-rule-create",
   definition: "the command adding a per-item rule",
   code: "ts",
-
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement: "A new per-item rule is inactive.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A destination that is no destination is refused before the store is read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The act that adds takes the store rather than reaching it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule added is named on the caller's list as soon as that write has gone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule the store would not take is named nowhere, because nothing was written.",
     },
     {
       invariantKind: "absence",

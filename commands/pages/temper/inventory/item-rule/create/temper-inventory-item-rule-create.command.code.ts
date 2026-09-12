@@ -21,7 +21,9 @@ import { emitJson } from "akasha/temper/commands/format-output/format-output.mod
 import {
   answeredByPage,
   settingsOf,
+  type Writing,
   webOf,
+  wroteSaid,
 } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import { narrowItemAction } from "akasha/temper/commands/inventory-rule-flags/inventory-rule-flags.module.code.ts"
 import { narrowDestination } from "akasha/temper/items-rules-core/inventory-destination-parse/inventory-destination-parse.module.code.ts"
@@ -46,9 +48,9 @@ const PAGES = [
   stockQuantity,
 ]
 
-type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
+export type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
 
-async function made(taken: Taken): Promise<Answer> {
+export async function making(taken: Taken, writing: Writing, done: string[]): Promise<Answer> {
   if (taken.stockScope !== undefined) {
     return refused(
       `\`${stockScope.said}\` reaches no item rule, since what writes one carries no scope of its own`,
@@ -63,8 +65,7 @@ async function made(taken: Taken): Promise<Answer> {
       return refused(`\`${destination.said}\` names \`${said}\`, which is no destination`, INPUT)
     }
   }
-  const settingsAccess = await settingsOf()
-  const settings = await settingsAccess.read()
+  const settings = await writing.read()
   const added = addItemRule(settings, {
     itemId: taken.itemId,
     itemName: taken.itemName,
@@ -86,9 +87,14 @@ async function made(taken: Taken): Promise<Answer> {
   }
   const next =
     Object.keys(patch).length > 0 ? bulkUpdateItemRules(added, [created.id], patch) : added
-  await settingsAccess.write(next)
+  await writing.write(next)
+  done.push(wroteSaid("item", created.id, "added"))
   const after = (next.itemRules ?? []).find((one) => one.id === created.id) ?? created
   return told(emitJson(after).split("\n"))
+}
+
+async function made(taken: Taken, done: string[]): Promise<Answer> {
+  return await making(taken, await settingsOf(), done)
 }
 
 export async function temperInventoryItemRuleCreate(
