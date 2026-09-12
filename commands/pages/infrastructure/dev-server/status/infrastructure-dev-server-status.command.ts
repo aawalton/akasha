@@ -6,6 +6,7 @@ export const infrastructureDevServerStatus = {
   slug: "infrastructure-dev-server-status",
   definition: "the command reading whether an app's dev server is running or stopped",
   code: "ts",
+  test: "ts",
   name: "status",
   invariants: [
     {
