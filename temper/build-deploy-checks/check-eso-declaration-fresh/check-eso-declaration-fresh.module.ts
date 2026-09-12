@@ -1,9 +1,9 @@
 import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
-export const checkEsoTypingsFresh = {
+export const checkEsoDeclarationFresh = {
   id: "01a06297-7f6a-7fd6-9fbb-6cb8003a350c",
   type: "module",
-  slug: "check-eso-typings-fresh",
+  slug: "check-eso-declaration-fresh",
   definition: "the run judging whether every clone-derived ESO artifact is stamped",
   code: "ts",
   invariants: [

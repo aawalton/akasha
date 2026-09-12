@@ -15,7 +15,7 @@ export const temperBuildDeployChecks = {
     "module/addon-global-ownership",
     "module/eso-doc-api-version",
     "module/eso-clone-artifacts",
-    "module/check-eso-typings-fresh",
+    "module/check-eso-declaration-fresh",
     "module/addon-dependency-cycle",
     "module/check-addon-dependency-cycle",
     "module/addon-dependency-floor",
