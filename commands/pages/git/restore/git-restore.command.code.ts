@@ -2,7 +2,10 @@ import { chmodSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { filePath } from "akasha/commands/arguments/pages/file-path.argument.ts"
-import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  INPUT,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
   type Answer,
   answeredWith,
@@ -309,12 +312,12 @@ export function reportOf(
 
 export function gitRestore(argv: readonly string[], given: Given): Answer {
   const read = takenFor(argv, given.calledAs, page, [filePath])
-  if ("refused" in read) return answeredWith([], read.refused, 1)
+  if ("refused" in read) return answeredWith([], read.refused, INPUT)
   const root = resolve(given.root)
   const wanted = pathsIn(root, read.taken.filePath)
-  if ("refusals" in wanted) return answeredWith([], wanted.refusals, 1)
+  if ("refusals" in wanted) return answeredWith([], wanted.refusals, INPUT)
   const judged = judgedIn(root, wanted.paths, given.calledAs)
-  if ("refusals" in judged) return answeredWith([], judged.refusals, judged.code ?? 1)
+  if ("refusals" in judged) return answeredWith([], judged.refusals, judged.code ?? INPUT)
   const going = judged.held.filter((one) => !one.diskHolds || !one.indexHolds)
   const left = judged.held.filter((one) => one.diskHolds && one.indexHolds)
   const done: Held[] = []
