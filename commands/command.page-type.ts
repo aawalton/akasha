@@ -58,7 +58,6 @@ export const command = {
     "module/committing",
     "module/commit-reading",
     "module/file-arguing",
-    "module/inventory-file-arguing",
     "module/inventory-trace-saying",
     "module/report-answering",
     "module/mechanical-filing",

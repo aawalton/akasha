@@ -22,6 +22,7 @@ export const temperInventory = {
     "namespace/temper-inventory-item-rule",
     "namespace/temper-inventory-master",
     "namespace/temper-inventory-rule",
+    "module/inventory-file-arguing",
   ],
   name: "inventory",
 } as const satisfies Namespace
