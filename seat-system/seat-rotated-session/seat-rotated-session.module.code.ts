@@ -7,7 +7,7 @@ import {
 import {
   type SessionRecord,
   sessionRecordOf,
-} from "akasha/seat-system/seat-session/seat-session.module.code.ts"
+} from "akasha/agents/seats/modules/session/seat-session.module.code.ts"
 
 export const ROTATED_KEY = "rotated-session-uuid"
 
