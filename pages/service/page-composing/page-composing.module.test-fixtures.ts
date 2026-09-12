@@ -5,6 +5,11 @@ import {
   pageOf,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  type Folded,
+  foldedFor,
+  type Naming,
+} from "akasha/pages/service/page-composing/page-composing.module.code.ts"
 import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 
 type Held = Record<string, unknown>
@@ -65,6 +70,8 @@ export const A_CRATE = {
 }
 
 export const A_HELD_FIGURE = { pageTypeSlug: "figure", slug: HELD_FIGURE, merge: true }
+
+export const A_HELD_THING = { pageTypeSlug: "thing", slug: HELD_THING }
 
 const REPO_AT = rootOf(import.meta.dir)
 
@@ -189,3 +196,19 @@ export const ROOT: string = indexedRepo({
   [THING_TYPES_AT]: "export type Thing = Record<string, unknown>\n",
   [HELD_THING_AT]: HELD_THING_BODY,
 })
+
+export function composing(...named: readonly Naming[]): Folded {
+  return foldedFor(ROOT, named)
+}
+
+export function bodyIn(said: Folded): string {
+  return "puts" in said ? (said.puts[0]?.content ?? "") : ""
+}
+
+export function pathIn(said: Folded): string {
+  return "puts" in said ? (said.puts[0]?.path ?? "") : ""
+}
+
+export function refusalIn(said: Folded): string {
+  return "refused" in said ? said.refused : ""
+}

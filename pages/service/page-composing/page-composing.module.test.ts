@@ -4,7 +4,6 @@ import {
   besideItsPage,
   endingRefused,
   endingWhy,
-  foldedFor,
   folderFor,
   orderedIn,
   pagesAtFor,
@@ -14,20 +13,24 @@ import {
 import {
   A_CRATE,
   A_HELD_FIGURE,
+  A_HELD_THING,
   A_NEW_FIGURE,
   A_NEW_THING,
   A_PORTRAIT_AT,
   AN_INSTANT,
   AT_THE_LENGTH,
+  bodyIn,
   carrying,
+  composing,
   DEVICE_TOKENS_AT,
   HELD_CRATE_ID,
-  HELD_THING,
   HELD_THING_BODY,
   HELD_THING_ID,
   PAST_THE_LENGTH,
   pageTypeAt,
+  pathIn,
   ROOT,
+  refusalIn,
 } from "akasha/pages/service/page-composing/page-composing.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
@@ -105,48 +108,42 @@ test("a file the root page type declares carries none beside the page", () => {
 })
 
 test("a new page with a file beside it is placed in a folder of its own", () => {
-  const said = foldedFor(ROOT, [A_NEW_FIGURE])
-  expect("puts" in said && said.puts[0]?.path).toBe(
-    "akasha/figures/pages/new-figure/new-figure.figure.ts"
-  )
+  const said = composing(A_NEW_FIGURE)
+  expect(pathIn(said)).toBe("akasha/figures/pages/new-figure/new-figure.figure.ts")
 })
 
 test("several pages compose into what one write puts and what it keeps", () => {
-  const said = foldedFor(ROOT, [A_NEW_THING])
+  const said = composing(A_NEW_THING)
   expect("puts" in said && said.puts.length).toBe(1)
-  expect("puts" in said && said.puts[0]?.path).toBe("akasha/things/pages/new-thing.thing.ts")
+  expect(pathIn(said)).toBe("akasha/things/pages/new-thing.thing.ts")
   expect("kept" in said && said.kept[0]?.values.lastSeenAt).toBe(AN_INSTANT)
 })
 
 test("a value the page type keeps outside the commit is written into no body", () => {
-  const said = foldedFor(ROOT, [A_NEW_THING])
-  expect("puts" in said && said.puts[0]?.content).toContain('title: "one that is new"')
-  expect("puts" in said && said.puts[0]?.content).not.toContain("lastSeenAt")
+  const content = bodyIn(composing(A_NEW_THING))
+  expect(content).toContain('title: "one that is new"')
+  expect(content).not.toContain("lastSeenAt")
 })
 
 test("one page refused refuses the whole list", () => {
-  const said = foldedFor(ROOT, [
-    A_NEW_THING,
-    { pageTypeSlug: "thing", slug: "held-two", values: { nowhere: "one" } },
-  ])
-  expect("refused" in said && said.refused).toContain("nowhere")
+  const held = { pageTypeSlug: "thing", slug: "held-two", values: { nowhere: "one" } }
+  expect(refusalIn(composing(A_NEW_THING, held))).toContain("nowhere")
 })
 
 test("a list of no page composes into nothing put and nothing kept", () => {
-  const said = foldedFor(ROOT, [])
+  const said = composing()
   expect("puts" in said && said.puts.length).toBe(0)
   expect("kept" in said && said.kept.length).toBe(0)
 })
 
 test("a page the index already holds keeps the identity it has", () => {
-  const said = foldedFor(ROOT, [A_CRATE])
-  expect("puts" in said && said.puts[0]?.content).toContain(HELD_CRATE_ID)
+  expect(bodyIn(composing(A_CRATE))).toContain(HELD_CRATE_ID)
 })
 
 test("a page the index does not hold is composed carrying no identity", () => {
-  const said = foldedFor(ROOT, [{ ...A_CRATE, slug: "held-one" }])
-  expect("puts" in said && said.puts[0]?.path).toBe("akasha/crates/pages/held-one.crate.ts")
-  expect("puts" in said && said.puts[0]?.content).not.toContain("id:")
+  const said = composing({ ...A_CRATE, slug: "held-one" })
+  expect(pathIn(said)).toBe("akasha/crates/pages/held-one.crate.ts")
+  expect(bodyIn(said)).not.toContain("id:")
 })
 
 test("a folder of a page's own drops the name above it from the front of the slug", () => {
@@ -160,11 +157,8 @@ test("a slug the name above it does not open is the folder whole", () => {
 })
 
 test("a merge keeps every key the caller does not name", () => {
-  const said = foldedFor(ROOT, [
-    { pageTypeSlug: "thing", slug: HELD_THING, values: { title: "a new title" }, merge: true },
-  ])
-  const content = "puts" in said ? said.puts[0]?.content : ""
-  expect(content).toContain('title: "a new title"')
+  const content = bodyIn(composing({ ...A_HELD_THING, values: { title: "x" }, merge: true }))
+  expect(content).toContain('title: "x"')
   expect(content).toContain('remark: "what was already noted"')
   expect(content).toContain('caption: "what it is shown as"')
   expect(content).toContain('slug: "held-thing"')
@@ -174,8 +168,8 @@ test("a merge keeps every key the caller does not name", () => {
 })
 
 test("a merge keeps a value held in a file beside the page as the extension it states", () => {
-  const said = foldedFor(ROOT, [{ ...A_HELD_FIGURE, values: { title: "a new title" } }])
-  expect("puts" in said && said.puts[0]?.content).toContain('portrait: "md"')
+  const said = composing({ ...A_HELD_FIGURE, values: { title: "x" } })
+  expect(bodyIn(said)).toContain('portrait: "md"')
 })
 
 test("an ending naming a file is no refusal", () => {
@@ -208,90 +202,70 @@ test("a value that is no string under a key held in a file is refused", () => {
 
 test("a body handed over under a key held in a file is refused rather than written", () => {
   const body = JSON.stringify({ achievements: Array.from({ length: 400 }, (_, at) => at) })
-  const said = foldedFor(ROOT, [{ ...A_HELD_FIGURE, values: { rounds: body } }])
-  expect("refused" in said && said.refused).toContain("`rounds` is held in a file")
-  expect("refused" in said && said.refused).toContain("Write that file at a path of its own")
+  const said = composing({ ...A_HELD_FIGURE, values: { rounds: body } })
+  expect(refusalIn(said)).toContain("`rounds` is held in a file")
+  expect(refusalIn(said)).toContain("Write that file at a path of its own")
 })
 
 test("a key held in a file naming an ending is written into the page", () => {
-  const said = foldedFor(ROOT, [{ ...A_HELD_FIGURE, values: { rounds: "jsonl" } }])
-  expect("puts" in said && said.puts[0]?.content).toContain('rounds: "jsonl"')
+  const said = composing({ ...A_HELD_FIGURE, values: { rounds: "jsonl" } })
+  expect(bodyIn(said)).toContain('rounds: "jsonl"')
 })
 
 test("a body handed over for a file property is put at the file its ending names", () => {
-  const said = foldedFor(ROOT, [{ ...A_HELD_FIGURE, values: {}, bodies: { portrait: "# One\n" } }])
+  const said = composing({ ...A_HELD_FIGURE, values: {}, bodies: { portrait: "# One\n" } })
   const put = "puts" in said ? said.puts.find((one) => one.path === A_PORTRAIT_AT) : undefined
   expect(put?.content).toBe("# One\n")
-  expect("puts" in said && said.puts[0]?.content).toContain('portrait: "md"')
+  expect(bodyIn(said)).toContain('portrait: "md"')
 })
 
 test("a body handed over names the ending the page already carries", () => {
-  const said = foldedFor(ROOT, [{ ...A_HELD_FIGURE, values: {}, bodies: { portrait: "x" } }])
+  const said = composing({ ...A_HELD_FIGURE, values: {}, bodies: { portrait: "x" } })
   const paths = "puts" in said ? said.puts.map((one) => one.path) : []
   expect(paths).toContain(A_PORTRAIT_AT)
 })
 
 test("a body handed over under a key holding its values as rows is refused", () => {
-  const said = foldedFor(ROOT, [{ ...A_HELD_FIGURE, values: {}, bodies: { rounds: "{}\n" } }])
-  expect("refused" in said && said.refused).toContain("keeps its values as rows")
+  const said = composing({ ...A_HELD_FIGURE, values: {}, bodies: { rounds: "{}\n" } })
+  expect(refusalIn(said)).toContain("keeps its values as rows")
 })
 
 test("a body handed over under a key held in no file is refused", () => {
-  const said = foldedFor(ROOT, [{ ...A_HELD_FIGURE, values: {}, bodies: { remark: "a body" } }])
-  expect("refused" in said && said.refused).toContain("holds in a file beside the page")
+  const said = composing({ ...A_HELD_FIGURE, values: {}, bodies: { remark: "a body" } })
+  expect(refusalIn(said)).toContain("holds in a file beside the page")
 })
 
 test("a body handed over where nothing names the ending is refused", () => {
-  const said = foldedFor(ROOT, [
-    { pageTypeSlug: "figure", slug: "new-figure", values: {}, bodies: { portrait: "a body" } },
-  ])
-  expect("refused" in said && said.refused).toContain("nothing names that file's ending")
+  const said = composing({ ...A_NEW_FIGURE, values: {}, bodies: { portrait: "a body" } })
+  expect(refusalIn(said)).toContain("nothing names that file's ending")
 })
 
 test("a body handed over for a file named rather than placed beside the page is refused", () => {
-  const said = foldedFor(ROOT, [
-    {
-      pageTypeSlug: "crate",
-      slug: "held-crate",
-      values: {},
-      bodies: { manifest: "{}" },
-      merge: true,
-    },
-  ])
-  expect("refused" in said && said.refused).toContain("a name of its own")
+  const said = composing({ ...A_CRATE, values: {}, bodies: { manifest: "{}" }, merge: true })
+  expect(refusalIn(said)).toContain("a name of its own")
 })
 
 test("a write that does not merge keeps only the keys the caller names", () => {
-  const said = foldedFor(ROOT, [
-    { pageTypeSlug: "thing", slug: HELD_THING, values: { title: "a new title" } },
-  ])
-  const content = "puts" in said ? said.puts[0]?.content : ""
-  expect(content).toContain('title: "a new title"')
+  const content = bodyIn(composing({ ...A_HELD_THING, values: { title: "x" } }))
+  expect(content).toContain('title: "x"')
   expect(content).not.toContain("remark:")
   expect(content).not.toContain("caption:")
 })
 
 test("a write that does not merge states the key naming the page type", () => {
-  const said = foldedFor(ROOT, [
-    { pageTypeSlug: "thing", slug: HELD_THING, values: { title: "a new title" } },
-  ])
-  const content = "puts" in said ? said.puts[0]?.content : ""
+  const content = bodyIn(composing({ ...A_HELD_THING, values: { title: "x" } }))
   expect(content).toContain('type: "thing"')
   expect(content).not.toContain("pageTypeSlug:")
 })
 
 test("a merge naming nothing composes the body the page already carries", () => {
-  const said = foldedFor(ROOT, [
-    { pageTypeSlug: "thing", slug: HELD_THING, values: {}, merge: true },
-  ])
-  expect("puts" in said && said.puts[0]?.content).toBe(HELD_THING_BODY)
+  const said = composing({ ...A_HELD_THING, values: {}, merge: true })
+  expect(bodyIn(said)).toBe(HELD_THING_BODY)
 })
 
 test("a merge keeps a value held outside the commit beside the page rather than in it", () => {
-  const said = foldedFor(ROOT, [
-    { pageTypeSlug: "thing", slug: HELD_THING, values: { lastSeenAt: AN_INSTANT }, merge: true },
-  ])
-  const content = "puts" in said ? said.puts[0]?.content : ""
+  const said = composing({ ...A_HELD_THING, values: { lastSeenAt: AN_INSTANT }, merge: true })
+  const content = bodyIn(said)
   expect(content).toContain('title: "the name it already has"')
   expect(content).toContain('remark: "what was already noted"')
   expect(content).not.toContain("lastSeenAt")
@@ -299,9 +273,9 @@ test("a merge keeps a value held outside the commit beside the page rather than 
 })
 
 test("a merge into a page the index does not hold composes that page as a new one", () => {
-  const said = foldedFor(ROOT, [{ ...A_CRATE, slug: "held-one", merge: true }])
-  expect("puts" in said && said.puts[0]?.path).toBe("akasha/crates/pages/held-one.crate.ts")
-  expect("puts" in said && said.puts[0]?.content).not.toContain("id:")
+  const said = composing({ ...A_CRATE, slug: "held-one", merge: true })
+  expect(pathIn(said)).toBe("akasha/crates/pages/held-one.crate.ts")
+  expect(bodyIn(said)).not.toContain("id:")
 })
 
 test("a slug inside the length a page's slug holds is no refusal", () => {
@@ -311,9 +285,9 @@ test("a slug inside the length a page's slug holds is no refusal", () => {
 })
 
 test("a slug at the length a page's slug holds composes", () => {
-  const said = foldedFor(ROOT, [{ ...A_CRATE, slug: AT_THE_LENGTH }])
+  const said = composing({ ...A_CRATE, slug: AT_THE_LENGTH })
   expect("refused" in said).toBe(false)
-  expect("puts" in said && said.puts[0]?.path).toBe(`akasha/crates/pages/${AT_THE_LENGTH}.crate.ts`)
+  expect(pathIn(said)).toBe(`akasha/crates/pages/${AT_THE_LENGTH}.crate.ts`)
 })
 
 test("a slug one character past that length is refused", () => {
@@ -324,15 +298,13 @@ test("a slug one character past that length is refused", () => {
 })
 
 test("a page whose slug runs past that length composes into nothing", () => {
-  const said = foldedFor(ROOT, [{ ...A_CRATE, slug: PAST_THE_LENGTH }])
-  expect("refused" in said && said.refused).toContain("101 characters")
+  const said = composing({ ...A_CRATE, slug: PAST_THE_LENGTH })
+  expect(refusalIn(said)).toContain("101 characters")
 })
 
 test("a slug past the length is refused before its page type is looked for", () => {
-  const said = foldedFor(ROOT, [
-    { pageTypeSlug: "no-such-type", slug: PAST_THE_LENGTH, values: {} },
-  ])
-  expect("refused" in said && said.refused).toContain("101 characters")
+  const said = composing({ pageTypeSlug: "no-such-type", slug: PAST_THE_LENGTH, values: {} })
+  expect(refusalIn(said)).toContain("101 characters")
 })
 
 test("a slug making a name no export may be declared under is refused", () => {
@@ -343,15 +315,13 @@ test("a slug making a name no export may be declared under is refused", () => {
 })
 
 test("a page whose slug makes no name composes into nothing", () => {
-  const said = foldedFor(ROOT, [{ ...A_CRATE, slug: "2-things" }])
-  expect("refused" in said && said.refused).toContain("`2Things`")
+  const said = composing({ ...A_CRATE, slug: "2-things" })
+  expect(refusalIn(said)).toContain("`2Things`")
 })
 
 test("a merge is refused for a key the page type declares no property for", () => {
-  const said = foldedFor(ROOT, [
-    { pageTypeSlug: "thing", slug: HELD_THING, values: { nowhere: "one" }, merge: true },
-  ])
-  expect("refused" in said && said.refused).toContain("nowhere")
+  const said = composing({ ...A_HELD_THING, values: { nowhere: "one" }, merge: true })
+  expect(refusalIn(said)).toContain("nowhere")
 })
 
 test("the folder a page type's pages sit in is answered from that type alone", () => {
@@ -360,9 +330,8 @@ test("the folder a page type's pages sit in is answered from that type alone", (
 })
 
 test("that folder is the folder every new page of that type is placed under", () => {
-  const said = foldedFor(ROOT, [{ ...A_CRATE, slug: "held-one" }])
-  const at = "puts" in said ? said.puts[0]?.path : ""
-  expect(at).toBe(`${pagesAtFor(ROOT, "crate")}/held-one.crate.ts`)
+  const said = composing({ ...A_CRATE, slug: "held-one" })
+  expect(pathIn(said)).toBe(`${pagesAtFor(ROOT, "crate")}/held-one.crate.ts`)
 })
 
 test("a page type that is no page the index holds is refused rather than guessed at", () => {
