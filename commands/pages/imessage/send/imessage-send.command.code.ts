@@ -35,15 +35,11 @@ const TEXT = filing("--text")
 
 const IMAGE = "--image"
 
-const ATTACHMENT = "--attachment"
-
 const MOST_BYTES = 10 * 1024 * 1024
 
 const VALUED = [TO, TEXT.said, TEXT.file, IMAGE]
 
 const SWITCHES = [JSON_SAID]
-
-const ALSO: Readonly<Record<string, string>> = { [ATTACHMENT]: IMAGE }
 
 const WANTS = "who the message goes to"
 
@@ -55,7 +51,7 @@ export type Read = {
 }
 
 export function readIn(argv: readonly string[], given: Given): Reading<Read> {
-  const said = wordsIn(argv, VALUED, SWITCHES, ALSO)
+  const said = wordsIn(argv, VALUED, SWITCHES)
   if ("refused" in said) return said
   const refusals: string[] = []
   const to = wordFilling(said, TO, WANTS)

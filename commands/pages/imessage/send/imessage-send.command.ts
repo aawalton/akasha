@@ -18,7 +18,6 @@ export const imessageSend = {
     { said: "--text <body>", takes: "the message body" },
     { said: "--text-file <path>", takes: "a file the body is read from, or `-` for the input" },
     { said: "--image <path>", takes: "a file hung off the message, ten megabytes at most" },
-    { said: "--attachment <path>", takes: "the same thing said the other way" },
     { said: "--json", takes: "give what was sent as JSON rather than as the sent line" },
   ],
   invariants: [
