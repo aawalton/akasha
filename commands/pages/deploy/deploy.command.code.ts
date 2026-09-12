@@ -168,7 +168,7 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
   const { ref, rest } = taken
   const strange = rest.find((one) => one.startsWith("-") && !FLAGS.includes(one))
   if (strange !== undefined) {
-    return refused(`\`${strange}\` is nothing \`akasha deploy\` takes`, INPUT)
+    return refused(`\`${strange}\` is nothing \`${given.calledAs}\` takes`, INPUT)
   }
   const named = rest.filter((one) => !one.startsWith("-"))
   if (named.length === 0) {
