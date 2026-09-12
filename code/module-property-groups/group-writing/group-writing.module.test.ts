@@ -1,14 +1,14 @@
 import { describe, expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { bodyIn as bodyOf } from "akasha/commands/modules/change-preparing/change-preparing.module.code.ts"
 import {
   groupAt,
   groupsIn,
   type Reaching,
   writingIn,
   writtenOver,
-} from "akasha/commands/modules/group-writing/group-writing.module.code.ts"
+} from "akasha/code/module-property-groups/group-writing/group-writing.module.code.ts"
+import { bodyIn as bodyOf } from "akasha/commands/modules/change-preparing/change-preparing.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { shadowAt, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"

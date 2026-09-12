@@ -33,7 +33,6 @@ export const command = {
     "module/export-naming",
     "module/manifest-locking",
     "module/change-preparing",
-    "module/group-writing",
     "module/audit-answering",
     "module/landing-saying",
     "module/restating",

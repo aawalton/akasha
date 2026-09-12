@@ -17,6 +17,7 @@ export const modulePropertyGroup = {
     "number-property/group-max-cpu-seconds",
     "number-property/group-max-memory-mb",
     "number-property/group-max-wall-seconds",
+    "module/group-writing",
   ],
   extends: ["page-type/file-property-group"],
   properties: [
