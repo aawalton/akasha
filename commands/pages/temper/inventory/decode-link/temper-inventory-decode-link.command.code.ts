@@ -1,28 +1,22 @@
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { link as linkArgument } from "akasha/commands/arguments/pages/link.argument.ts"
 import {
   DATA,
   refused,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { temperInventoryDecodeLink as page } from "akasha/commands/pages/temper/inventory/decode-link/temper-inventory-decode-link.command.ts"
 import type { ParsedItemLink } from "akasha/temper/items-core/item-link-parser/item-link-parser.module.code.ts"
 import { parseItemLink } from "akasha/temper/items-core/item-link-parser/item-link-parser.module.code.ts"
-
-const JSON_FLAG = "--json"
-
-const FLAG_MARK = "--"
 
 const SPACES = 2
 
 const FIELDS_WANTED = 21
 
-function linkIn(argv: readonly string[]): string | null {
-  for (const one of argv) {
-    if (one === undefined) continue
-    if (one.startsWith(FLAG_MARK)) continue
-    return one
-  }
-  return null
-}
+const NAMED = [json, linkArgument]
 
 function rowsOf(read: ParsedItemLink): readonly string[] {
   const held = Object.entries(read)
@@ -30,21 +24,20 @@ function rowsOf(read: ParsedItemLink): readonly string[] {
   return held.map(([name, value]) => `${name.padEnd(wide)}\t${String(value)}`)
 }
 
-export function temperInventoryDecodeLink(argv: readonly string[] = []): Answer {
-  const link = linkIn(argv)
-  if (link === null) {
-    return refused("nothing here names the link read, so there is no link to read", DATA)
-  }
+export function temperInventoryDecodeLink(argv: readonly string[], given: Given): Answer {
+  const taking = takenFor(argv, given.calledAs, page, NAMED)
+  if ("refused" in taking) return mistaking(taking.refused)
+  const taken = taking.taken
 
-  const read = parseItemLink(link)
+  const read = parseItemLink(taken.link)
   if (read === null) {
     return refused(
-      `${link} carries no run of at least ${String(FIELDS_WANTED)} fields after an item marker, so reading it partway would report fields it never carried`,
+      `${taken.link} carries no run of at least ${String(FIELDS_WANTED)} fields after an item marker, so reading it partway would report fields it never carried`,
       DATA
     )
   }
 
-  if (argv.includes(JSON_FLAG)) {
+  if (taken.json) {
     return told(JSON.stringify(read, null, SPACES).split("\n"))
   }
 
