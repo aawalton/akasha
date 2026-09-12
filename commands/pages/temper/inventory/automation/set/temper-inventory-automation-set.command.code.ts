@@ -5,9 +5,10 @@ import { toggleTarget } from "akasha/commands/arguments/pages/toggle-target.argu
 import { value } from "akasha/commands/arguments/pages/value.argument.ts"
 import {
   INPUT,
-  OK,
   OPERATIONAL,
   refused,
+  refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -59,7 +60,7 @@ export async function temperInventoryAutomationSet(
   given: Given
 ): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, PAGES)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
+  if ("refused" in read) return refusedBy(read.refused)
 
   const asked = askedIn(read.taken)
   if ("why" in asked) return refused(asked.why, INPUT)
@@ -90,5 +91,5 @@ export async function temperInventoryAutomationSet(
   }
 
   const said = { scope: scopeSaid(asked.scope), toggle: read.taken.toggle, value: asked.value }
-  return { report: JSON.stringify(said, null, SPACES).split("\n"), refusals: [], code: OK }
+  return told(JSON.stringify(said, null, SPACES).split("\n"))
 }
