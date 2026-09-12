@@ -96,7 +96,7 @@ export const blockGitWrites = {
     },
     {
       invariantKind: "gap",
-      statement: "A read flag read as another flag's value lets the call through.",
+      statement: "A read flag is read as a flag rather than as another flag's value.",
     },
   ],
 } as const satisfies AgentHook

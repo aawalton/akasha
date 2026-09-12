@@ -61,7 +61,7 @@ export const blockTypecheck = {
     },
     {
       invariantKind: "gap",
-      statement: "`vue-tsc` and every other compiler wrapper is not named here.",
+      statement: "A compiler under another name is refused as `tsc` under its own name is.",
     },
   ],
 } as const satisfies AgentHook

@@ -57,11 +57,7 @@ export const blockBiome = {
     },
     {
       invariantKind: "gap",
-      statement: "`prettier` sits in node_modules and writes the same files.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "`prettier` is not named here.",
+      statement: "`prettier` reaching akasha content is refused as `biome` reaching it is.",
     },
   ],
 } as const satisfies AgentHook

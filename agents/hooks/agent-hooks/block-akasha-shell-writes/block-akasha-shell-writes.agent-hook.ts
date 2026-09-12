@@ -136,7 +136,7 @@ export const blockAkashaShellWrites = {
     },
     {
       invariantKind: "gap",
-      statement: "A call another program builds is hidden from this hook as `sh -c` hides a call.",
+      statement: "A call another program builds is judged as a call written on the line is.",
     },
     {
       invariantKind: "departure",

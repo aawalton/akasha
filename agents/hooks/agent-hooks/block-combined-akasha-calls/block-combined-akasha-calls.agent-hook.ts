@@ -157,7 +157,7 @@ export const blockCombinedAkashaCalls = {
     },
     {
       invariantKind: "gap",
-      statement: "`akasha` reached by a name other than `akasha` is not named here.",
+      statement: "`akasha` reached under another name is judged as `akasha` named outright is.",
     },
   ],
 } as const satisfies AgentHook
