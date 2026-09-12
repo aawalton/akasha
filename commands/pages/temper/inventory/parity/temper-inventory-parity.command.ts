@@ -19,11 +19,7 @@ export const temperInventoryParity = {
       takes: "the saved-variables file the characters are read from",
     },
   ],
-  helpNotes: [
-    "the inputs are compared first and the walks after, so an input difference explains a walk difference.",
-    "the character is named rather than worked out, because a trace is captured from one perspective.",
-    "a stored trace for another item refuses the call rather than being compared.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
