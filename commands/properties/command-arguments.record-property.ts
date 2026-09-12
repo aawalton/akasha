@@ -32,5 +32,5 @@ export const commandArguments = {
     },
   ],
   types: "ts",
-  parts: ["boolean-property/repeats"],
+  parts: [],
 } as const satisfies RecordProperty
