@@ -2,6 +2,8 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { baseOf as headOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import { REFUSES_CODE } from "akasha/testing-system/minting/minting.module.code.ts"
+import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import {
   applied,
   checking,
@@ -18,9 +20,7 @@ import {
   treeHolds,
   wrote,
   wroteWith,
-} from "akasha/commands/modules/repo-seeding/repo-seeding.module.code.ts"
-import { REFUSES_CODE } from "akasha/testing-system/minting/minting.module.code.ts"
-import { put } from "akasha/testing-system/putting/putting.module.code.ts"
+} from "akasha/testing-system/repo-seeding/repo-seeding.module.code.ts"
 
 afterAll(scratch.sweep)
 

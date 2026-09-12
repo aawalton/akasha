@@ -18,6 +18,7 @@ export const testingSystem = {
     "module/dom-guard-setting",
     "module/dom-registering",
     "module/page-holding",
+    "module/repo-seeding",
   ],
   invariants: [
     {

@@ -14,6 +14,8 @@ import {
 import type { Running } from "akasha/commands/modules/drafting/drafting.module.code.ts"
 import { NO_GATE } from "akasha/commands/modules/gate-building/gate-building.module.code.ts"
 import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
+import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import {
   AGENT,
   checking,
@@ -24,9 +26,7 @@ import {
   scratch,
   wrote,
   wroteWith,
-} from "akasha/commands/modules/repo-seeding/repo-seeding.module.code.ts"
-import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
-import { put } from "akasha/testing-system/putting/putting.module.code.ts"
+} from "akasha/testing-system/repo-seeding/repo-seeding.module.code.ts"
 
 afterAll(scratch.sweep)
 

@@ -10,12 +10,12 @@ import {
   carryLanded,
   NO_OWING,
 } from "akasha/commands/modules/landing-reading/landing-reading.module.code.ts"
+import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import {
   AGENT,
   repoWith,
   scratch,
-} from "akasha/commands/modules/repo-seeding/repo-seeding.module.code.ts"
-import { put } from "akasha/testing-system/putting/putting.module.code.ts"
+} from "akasha/testing-system/repo-seeding/repo-seeding.module.code.ts"
 
 afterAll(scratch.sweep)
 

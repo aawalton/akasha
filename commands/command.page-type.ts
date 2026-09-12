@@ -78,7 +78,6 @@ export const command = {
     "module/command-filling",
     "module/body-reaching",
     "module/refusing",
-    "module/repo-seeding",
     "module/applying",
     "module/landing",
     "module/landing-change-composing",
