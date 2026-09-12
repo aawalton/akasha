@@ -174,6 +174,11 @@ export const command = {
       invariantKind: "upkeep",
       statement: "Every property this page type declares is read by code.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A command that wrote before it threw says in its refusal what that command wrote.",
+    },
   ],
   directives: [
     {
