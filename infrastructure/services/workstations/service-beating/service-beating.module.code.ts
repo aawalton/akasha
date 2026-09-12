@@ -2,7 +2,7 @@ import { leftWhereCodeMoved } from "akasha/infrastructure/services/workstations/
 import {
   mergeUncommitted,
   uncommittedIn,
-} from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
+} from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 
 export const WORKED_AT = "workedAt"
 

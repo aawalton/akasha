@@ -12,7 +12,7 @@ import { buildPageHref } from "akasha/pages/url/modules/page-href/page-href.modu
 import {
   type PageTypeSlug,
   toPageTypeSlug,
-} from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
+} from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 
 function referrerTitle(r: Referrer): string {
   const title = r.page.properties?.title

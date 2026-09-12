@@ -20,7 +20,7 @@ import {
 } from "akasha/changes/mechanical/page-type/move/sort-property-values-on-every-page/sort-property-values-on-every-page.change-mechanical-page-type.test-fixtures.ts"
 import { pathsIn, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import { bodiesIn, type Reaching } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const REACHED: string[] = []
 

@@ -4,8 +4,11 @@ import {
   listedAt,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { slugIn } from "akasha/pages/modules/address/page-address.module.code.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
+import {
+  textAt,
+  type Value,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const INFERENCE_PAGE_TYPE = "service-inference"
 

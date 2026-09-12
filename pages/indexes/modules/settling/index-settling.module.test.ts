@@ -32,7 +32,7 @@ import {
 } from "akasha/pages/indexes/modules/settling/index-settling.module.code.ts"
 import { overlaidOn } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
-import { valueIn } from "akasha/pages/value/page-value.module.code.ts"
+import { valueIn } from "akasha/pages/modules/value/page-value.module.code.ts"
 import { everyFileUnder } from "akasha/testing-system/walking/walking.module.code.ts"
 
 afterAll(scratch.sweep, 5000)

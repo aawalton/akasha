@@ -1,5 +1,5 @@
-import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
-import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
+import type { Page } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
+import type { PageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 
 export const ID_SUFFIX_LENGTH = 8
 const ID_SUFFIX_PATTERN = /^[0-9a-f]{8}$/

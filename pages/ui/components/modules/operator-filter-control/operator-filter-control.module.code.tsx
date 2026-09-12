@@ -13,7 +13,7 @@ import {
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useDebouncedCallback } from "akasha/design/interfaces/primitives/use-debounced-callback/use-debounced-callback.module.code.ts"
 import type { FilterOperator } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
-import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import type { ReadonlyJSONValue } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import type { ViewFilter } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import type { PageFilterDimension } from "akasha/pages/core/view/modules/generate-filter-dimensions/generate-filter-dimensions.module.code.ts"
 import {

@@ -2,12 +2,12 @@ import { expect, test } from "bun:test"
 import { filedIn, identityIn } from "akasha/pages/indexes/identity/index-identity.index.code.ts"
 import type { Identifier } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import { A, B, C } from "akasha/pages/indexes/modules/entries/index-entries.module.test-fixtures.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import {
   type Identifying,
   identifyingFrom,
   sourceOver,
 } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 function identifying(held: Record<string, ReadonlyMap<string, Identifier>>): Identifying {
   return (pageTypeSlug) => held[pageTypeSlug] ?? new Map<string, Identifier>()

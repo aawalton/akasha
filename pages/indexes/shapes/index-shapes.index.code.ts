@@ -7,16 +7,16 @@ import {
 import type { Reading, Shape } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import { indexShapes } from "akasha/pages/indexes/shapes/index-shapes.index.ts"
 import {
-  type Carried,
-  propertiesIfNamed,
-  type Source,
-} from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
-import {
   numberAt,
   slugAt,
   textAt,
   type Value,
-} from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  type Carried,
+  propertiesIfNamed,
+  type Source,
+} from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 
 const SHAPES = indexShapes.name
 

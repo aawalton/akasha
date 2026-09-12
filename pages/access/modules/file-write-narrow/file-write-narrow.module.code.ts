@@ -1,7 +1,7 @@
 import type {
   PageCondition,
   PageWhere,
-} from "akasha/pages/core/page-types/page-types.module.code.ts"
+} from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 import type { Test } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
 import { scalarText } from "akasha/utils/narrow/scalar-text/scalar-text.module.code.ts"
 

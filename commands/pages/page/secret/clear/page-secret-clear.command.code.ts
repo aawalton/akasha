@@ -9,8 +9,8 @@ import {
   caught,
   landedWith,
   targeting,
-} from "akasha/pages/commands/page-secret-acting/page-secret-acting.module.code.ts"
-import { secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
+} from "akasha/pages/commands/modules/page-secret-acting/page-secret-acting.module.code.ts"
+import { secretsIn } from "akasha/pages/modules/secret/page-secret.module.code.ts"
 
 const ACT = "clear"
 

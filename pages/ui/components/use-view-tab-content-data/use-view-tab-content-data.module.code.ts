@@ -5,7 +5,7 @@ import {
   NEVER_MATCH_VALUE,
 } from "akasha/pages/access/sentinels/sentinels.module.code.ts"
 import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
-import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import { parsePageTypeData } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import { resolveDefinitionOptions } from "akasha/pages/core/schema/resolve-select-options/resolve-select-options.module.code.ts"
 import type { ViewDataJSON } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import {
@@ -14,7 +14,7 @@ import {
 } from "akasha/pages/core/schema/view-data-locked/view-data-locked.module.code.ts"
 import { buildServerGroupedSections } from "akasha/pages/ui/components/modules/build-server-grouped-sections/build-server-grouped-sections.module.code.ts"
 import { toPageDataRecord } from "akasha/pages/ui/components/modules/page-data-json/page-data-json.module.code.ts"
-import type { ServerGroupedSection } from "akasha/pages/ui/components/page-system-tab-content-props/page-system-tab-content-props.module.code.ts"
+import type { ServerGroupedSection } from "akasha/pages/ui/components/modules/page-system-tab-content-props/page-system-tab-content-props.module.code.ts"
 import { useViewRowAggregates } from "akasha/pages/ui/components/view-engine/use-view-row-aggregates/use-view-row-aggregates.module.code.ts"
 import { useViewRowRollups } from "akasha/pages/ui/components/view-engine/use-view-row-rollups/use-view-row-rollups.module.code.ts"
 import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
@@ -30,7 +30,7 @@ import { usePageViewQuery } from "akasha/pages/ui/supabase/modules/hooks-view-qu
 import {
   type PageWithProperties,
   pageById,
-} from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
+} from "akasha/pages/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import { useOptionListLookup } from "akasha/pages/ui/supabase/use-option-list-lookup/use-option-list-lookup.module.code.ts"
 import { viewDataOfPage } from "akasha/pages/ui/supabase/view-data-of-page/view-data-of-page.module.code.ts"
 import { deriveViewTargetSlugs } from "akasha/pages/ui-store/query/view-target-slugs/view-target-slugs.module.code.ts"
@@ -38,7 +38,7 @@ import { buildPageHref } from "akasha/pages/url/modules/page-href/page-href.modu
 import {
   type PageTypeSlug,
   toPageTypeSlug,
-} from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
+} from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useCallback, useMemo } from "react"
 
 export interface ViewTabContentData {

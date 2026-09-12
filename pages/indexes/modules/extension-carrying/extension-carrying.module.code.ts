@@ -5,7 +5,7 @@ import type {
   Naming,
 } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const EXTENSION_NAME = "extensionName"
 

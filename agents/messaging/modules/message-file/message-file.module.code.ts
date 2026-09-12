@@ -12,15 +12,15 @@ import {
   akashaRoot,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
-  composedFor,
-  pagesAtFor,
-} from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
-import {
   mergeUncommitted,
   removeUncommitted,
   uncommittedIn,
-} from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
-import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+} from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
+import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  composedFor,
+  pagesAtFor,
+} from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
 import { akashaSeatIdForName } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 
 const PAGE_TYPE = "message"

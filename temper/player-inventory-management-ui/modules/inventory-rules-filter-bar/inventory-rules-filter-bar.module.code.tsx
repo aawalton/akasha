@@ -1,6 +1,6 @@
 "use client"
 
-import { PageTabHeader } from "akasha/design/interfaces/layout/page-tab-header/page-tab-header.module.code.tsx"
+import { PageTabHeader } from "akasha/design/interfaces/layout/modules/page-tab-header/page-tab-header.module.code.tsx"
 import { AddFilterButton } from "akasha/design/interfaces/patterns/modules/add-filter-button/add-filter-button.module.code.tsx"
 import { FilterButton } from "akasha/design/interfaces/patterns/modules/filter-button/filter-button.module.code.tsx"
 import { FilterGroup } from "akasha/design/interfaces/patterns/modules/filter-group/filter-group.module.code.tsx"

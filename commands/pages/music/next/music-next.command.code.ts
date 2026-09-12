@@ -18,8 +18,8 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { musicNext as page } from "akasha/commands/pages/music/next/music-next.command.ts"
 import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import { propertiesIfNamedOf } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 
 const ARTIST = "artist"
 

@@ -11,7 +11,7 @@ import { useMediaVariants } from "akasha/alan/web/use-media-variants/use-media-v
 import { useNextUnreadHref } from "akasha/alan/web/use-next-unread/use-next-unread.module.code.ts"
 import { NotFoundNotice } from "akasha/alan/web-capacitor/modules/not-found-notice/not-found-notice.module.code.tsx"
 import { resolveDisplayKind } from "akasha/pages/core/schema/modules/detail-config/detail-config.module.code.ts"
-import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import { parsePageTypeData } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import { getPageDisplay } from "akasha/pages/ui/capabilities/modules/page-display-registry/page-display-registry.module.code.ts"
 import { ViewPageContent } from "akasha/pages/ui/components/view-page-content/view-page-content.module.code.tsx"
 import {
@@ -20,7 +20,7 @@ import {
 } from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { useReaderNeighbors } from "akasha/pages/ui/supabase/use-reader-neighbors/use-reader-neighbors.module.code.ts"
 import { parsePageHrefParam } from "akasha/pages/url/modules/page-href/page-href.module.code.ts"
-import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
+import { toPageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import { lazy, Suspense } from "react"
 import { useParams } from "react-router"

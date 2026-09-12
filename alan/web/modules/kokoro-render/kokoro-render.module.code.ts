@@ -9,7 +9,7 @@ import {
   seaweedFSObjectStoreFromEnv,
 } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
 import { getPage } from "akasha/pages/access/modules/get/get.module.code.ts"
-import { getMediaConfig } from "akasha/pages/access/page-type-config/page-type-config.module.code.ts"
+import { getMediaConfig } from "akasha/pages/access/modules/page-type-config/page-type-config.module.code.ts"
 import { inFlightKeys } from "akasha/utils/narrow/modules/in-flight-keys/in-flight-keys.module.code.ts"
 
 const KOKORO_VOICE = "af_heart"

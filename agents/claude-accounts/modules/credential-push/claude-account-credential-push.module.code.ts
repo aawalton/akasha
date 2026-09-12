@@ -24,12 +24,12 @@ import {
   cipherFor,
   secretsIn,
   unfit,
-} from "akasha/pages/secret/page-secret.module.code.ts"
+} from "akasha/pages/modules/secret/page-secret.module.code.ts"
 import {
   mergeUncommitted,
   uncommittedIn,
-} from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+} from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const PUT = "change-mechanical-file/add-file"

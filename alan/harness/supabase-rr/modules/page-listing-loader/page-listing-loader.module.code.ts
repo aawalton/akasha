@@ -1,5 +1,5 @@
 import { createServerClient } from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
-import { getPageTypeByPluralSlug } from "akasha/pages/access/page-type/page-type.module.code.ts"
+import { getPageTypeByPluralSlug } from "akasha/pages/access/modules/page-type/page-type.module.code.ts"
 import { data } from "react-router"
 
 export async function pageListingData(request: Request, pluralSlug: string) {

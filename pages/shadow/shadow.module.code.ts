@@ -15,8 +15,8 @@ import {
   readingAt,
 } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
-import { valueIn } from "akasha/pages/value/page-value.module.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { valueIn } from "akasha/pages/modules/value/page-value.module.code.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 export type Shadow = {
   readonly index: Answering

@@ -1,5 +1,5 @@
 import { entriesAt } from "akasha/pages/modules/entries/page-entries.module.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 export function readBack(
   root: string,

@@ -11,7 +11,7 @@ import {
   listedFor,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { addressedIn } from "akasha/pages/modules/address/page-address.module.code.ts"
-import { textUnder } from "akasha/pages/value/page-value.module.code.ts"
+import { textUnder } from "akasha/pages/modules/value/page-value.module.code.ts"
 
 export const ASSIGNMENT =
   "A seat answers for the assignment it states, and that assignment is read before the seat is changed."

@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { mkdtempSync, rmSync } from "node:fs"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { uncommittedIn } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 import {
   bindsFor,
   boundAgain,
@@ -11,7 +12,6 @@ import {
   UNBOUND,
   unboundIn,
 } from "akasha/pages/service/modules/page-listening/page-listening.module.code.ts"
-import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 
 const ROOT = rootOf(import.meta.dir)
 

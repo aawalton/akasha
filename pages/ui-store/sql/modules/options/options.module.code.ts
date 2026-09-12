@@ -2,7 +2,7 @@ import type { PageOrder, PageSelect } from "akasha/pages/access/types/types.modu
 import type {
   PageCondition,
   PageWhere,
-} from "akasha/pages/core/page-types/page-types.module.code.ts"
+} from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 import type { ShapeDescriptor } from "akasha/pages/ui-store/collection/shape-descriptor/shape-descriptor.module.code.ts"
 
 export type UsePagesOptions = {

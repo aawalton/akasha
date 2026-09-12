@@ -14,7 +14,7 @@ import { nothingFiled } from "akasha/pages/indexes/modules/reading/index-reading
 import {
   mergeUncommitted,
   uncommittedIn,
-} from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
+} from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const PAGE = "alan/harness/readouts/pages/upkeep-probe/upkeep-probe.readout.ts"

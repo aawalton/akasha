@@ -11,15 +11,18 @@ import { partsOver } from "akasha/pages/modules/entry-writing/page-entry-writing
 import { nameFaultIn } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { partsOf } from "akasha/pages/modules/file-parts/page-file-parts.module.code.ts"
-import { STEM_CEILING } from "akasha/pages/naming/named-for/page-stem/page-stem.module.code.ts"
+import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
+import {
+  textAt,
+  type Value,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import { STEM_CEILING } from "akasha/pages/naming/named-for/modules/page-stem/page-stem.module.code.ts"
 import {
   type Carried,
   propertiesFrom,
   type Source,
   sourceIn,
 } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
 
 const PAGE_TYPE = "page-type"

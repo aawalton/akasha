@@ -15,7 +15,7 @@ import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { claudeAccountReEnable as page } from "akasha/commands/pages/claude-account/re-enable/claude-account-re-enable.command.ts"
 import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 
 export function claudeAccountReEnable(argv: readonly string[], given: Given): Answer {
   const read = takenFor(argv, given.calledAs, page, [account])

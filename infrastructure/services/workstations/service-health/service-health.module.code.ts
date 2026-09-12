@@ -8,7 +8,7 @@ import {
   isScheduled,
   type Service,
 } from "akasha/infrastructure/services/workstations/unit-writing/unit-writing.module.code.ts"
-import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
+import { uncommittedIn } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 const SERVICE_SUFFIX = ".service"

@@ -3,7 +3,7 @@ import type {
   PageDataJSON,
   PropertyDefinition,
 } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
-import type { PageWhere } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import type { PageWhere } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
 import {
   asPageRecord,
@@ -11,7 +11,7 @@ import {
   asRecord,
   attributesOf,
   type PageRow,
-} from "akasha/pages/ui-store/collection/page-row/page-row.module.code.ts"
+} from "akasha/pages/ui-store/collection/modules/page-row/page-row.module.code.ts"
 import {
   type BoolExpr,
   conditionToExpr,

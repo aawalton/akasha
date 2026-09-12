@@ -6,13 +6,13 @@ import {
   rootFor,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import {
   numberAt,
   slugAt,
   textAt,
   type Value,
-} from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { z } from "zod"
 
 export const MOBILE_CUT_PAGE_TYPE_SLUG = "mobile-cut"

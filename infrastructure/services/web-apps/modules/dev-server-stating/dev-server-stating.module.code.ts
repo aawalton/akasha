@@ -3,7 +3,10 @@ import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from 
 import { homedir } from "node:os"
 import { InputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { numberAt, textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import {
+  numberAt,
+  textAt,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
 import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 import {

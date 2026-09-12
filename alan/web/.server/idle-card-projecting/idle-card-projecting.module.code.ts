@@ -3,7 +3,7 @@ import type { IdleSupabase } from "akasha/alan/web/.server/idle-save-context/idl
 import { IDLE_PERSONA_CARD_PAGE_TYPE_SLUG } from "akasha/alan/web/modules/idle-card-page-type/idle-card-page-type.module.code.ts"
 import type { PersonaInfo } from "akasha/alan/web/modules/idle-card-projection/idle-card-projection.module.code.ts"
 import type { Catalog } from "akasha/alan/web/modules/idle-catalog/idle-catalog.module.code.ts"
-import { unwritten } from "akasha/alan/web/pages-unheld/pages-unheld.module.code.ts"
+import { unwritten } from "akasha/alan/web/modules/pages-unheld/pages-unheld.module.code.ts"
 import { captureError } from "akasha/pages/access/modules/capture-error/capture-error.module.code.ts"
 
 export async function projectUserCards(

@@ -5,7 +5,7 @@ import {
   recordObservation,
   recordSweep,
 } from "akasha/code/editor/extension/modules/observation-store/observation-store.module.code.ts"
-import { colorNamed } from "akasha/code/editor/extension/palette/palette.module.code.ts"
+import { colorNamed } from "akasha/code/editor/extension/modules/palette/palette.module.code.ts"
 import {
   lastAppliedByTerminal,
   lastColorByTerminal,

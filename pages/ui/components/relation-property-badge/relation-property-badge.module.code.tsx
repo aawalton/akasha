@@ -6,7 +6,7 @@ import { ButtonBadge } from "akasha/design/interfaces/badges/modules/button-badg
 import { LinkBadge } from "akasha/design/interfaces/badges/modules/link-badge/link-badge.module.code.tsx"
 import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import type { PropertyValue } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
-import { parseConfig } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import { parseConfig } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import { relationConfigSchema } from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
 import type { PropertyBadgeProps } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
 import {
@@ -19,7 +19,7 @@ import { RelationPopover } from "akasha/pages/ui/components/relation-popover/rel
 import {
   type PageResolverValue,
   usePageResolverOptional,
-} from "akasha/pages/ui/contexts/page-resolver-context/page-resolver-context.module.code.tsx"
+} from "akasha/pages/ui/contexts/modules/page-resolver-context/page-resolver-context.module.code.tsx"
 
 function isRelationObject(value: unknown): value is { id: string; title: string } {
   if (value === null || typeof value !== "object" || Array.isArray(value)) return false

@@ -6,7 +6,7 @@ import type {
   Page,
   PageCondition,
   PageWhere,
-} from "akasha/pages/core/page-types/page-types.module.code.ts"
+} from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
 import type {
   GroupGranularity,
@@ -22,7 +22,7 @@ import {
 import {
   type PageWithProperties,
   toPageWithProperties,
-} from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
+} from "akasha/pages/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import {
   type UsePagesSupabaseOptions,
   usePages,

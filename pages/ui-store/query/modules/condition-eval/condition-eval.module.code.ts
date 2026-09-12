@@ -8,7 +8,7 @@ import {
   asRecord,
   attributesOf,
   type PageRow,
-} from "akasha/pages/ui-store/collection/page-row/page-row.module.code.ts"
+} from "akasha/pages/ui-store/collection/modules/page-row/page-row.module.code.ts"
 import type { PageConditionLike } from "akasha/pages/ui-store/sql/modules/options/options.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"

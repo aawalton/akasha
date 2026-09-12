@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { asPage } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import { asPage } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 import { createNewCompanion } from "akasha/temper/companions-core/modules/companion-factory/companion-factory.module.code.ts"
 import {
   COMPANION_IDS_WITH_DEF_ID,

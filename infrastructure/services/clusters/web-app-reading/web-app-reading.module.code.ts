@@ -4,13 +4,13 @@ import {
   listedAt,
   slugsOfType,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import {
   numberAt,
   textAt,
   textsAt,
   type Value,
-} from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 export const WEB_APP_TYPE = "web-app"
 export const CLUSTER_SERVICE_TYPE = "service-cluster"

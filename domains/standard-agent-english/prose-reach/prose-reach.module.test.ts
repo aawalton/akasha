@@ -4,10 +4,13 @@ import {
   type Reach,
 } from "akasha/domains/standard-agent-english/prose-reach/prose-reach.module.code.ts"
 import {
+  textAt,
+  type Value,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import {
   carriedFrom,
   sourceOver,
 } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
-import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const PROSE = "standard-agent-english-property"
 

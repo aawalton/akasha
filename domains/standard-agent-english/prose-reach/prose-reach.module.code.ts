@@ -2,7 +2,11 @@ import {
   readingIn,
   valuesOfType,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
+import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
+import {
+  textAt,
+  type Value,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import {
   type Carried,
   carriedFrom,
@@ -11,8 +15,7 @@ import {
   type Source,
   sourceIn,
 } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { kindsUnder } from "akasha/pages/types/modules/descent/page-type-descent.module.code.ts"
 
 const PROSE = "standard-agent-english-property"
 

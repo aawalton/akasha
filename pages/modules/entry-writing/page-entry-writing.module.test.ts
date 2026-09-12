@@ -9,7 +9,7 @@ import {
   textsOver,
   textsOverLines,
 } from "akasha/pages/modules/entry-writing/page-entry-writing.module.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const PAGE = "akasha/one/held.model-test.ts"
 

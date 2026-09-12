@@ -18,8 +18,8 @@ import {
   pageNamed,
   partedIn,
 } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import { loadedFrom } from "akasha/pages/modules/value/page-value.module.code.ts"
 import { type Shadow, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
-import { loadedFrom } from "akasha/pages/value/page-value.module.code.ts"
 
 const UUID_V7 = "uuid-v7"
 

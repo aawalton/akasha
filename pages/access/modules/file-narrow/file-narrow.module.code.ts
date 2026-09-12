@@ -1,10 +1,10 @@
 import { kebabizeKey } from "akasha/pages/access/modules/file-rows/file-rows.module.code.ts"
-import type { PropertyDefinition } from "akasha/pages/access/page-type-config/page-type-config.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/access/modules/page-type-config/page-type-config.module.code.ts"
 import type {
   Page,
   PageCondition,
   PageWhere,
-} from "akasha/pages/core/page-types/page-types.module.code.ts"
+} from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 import type { Test } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
 import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
 import { camelizeKey } from "akasha/utils/slug/modules/camelize-key/camelize-key.module.code.ts"

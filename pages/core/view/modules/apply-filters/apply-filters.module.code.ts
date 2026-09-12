@@ -4,7 +4,7 @@ import { PROPERTY_TYPE_OPS_REGISTRY } from "akasha/pages/core/property-types/reg
 import { resolveComputedProperty } from "akasha/pages/core/property-types/resolve-computed-type/resolve-computed-type.module.code.ts"
 import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
 import { pageHasNonEmptyContentKey } from "akasha/pages/core/schema/modules/content-tier/content-tier.module.code.ts"
-import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import type { ReadonlyJSONValue } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import type { ViewFilter } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 
 export type FilterableRow = Readonly<Record<string, ReadonlyJSONValue>>

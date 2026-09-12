@@ -1,4 +1,4 @@
-import type { PageWhere } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import type { PageWhere } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 
 export function extractTargetIds(where: PageWhere | undefined): readonly string[] | null {
   if (!where) return null

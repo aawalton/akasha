@@ -17,8 +17,8 @@ import type { Writing } from "akasha/pages/service/modules/page-calling/page-cal
 import type {
   Read,
   Asked as Sought,
-} from "akasha/pages/service/page-reading/page-reading.module.code.ts"
-import type { Wrote } from "akasha/pages/service/page-writing/page-writing.module.code.ts"
+} from "akasha/pages/service/modules/page-reading/page-reading.module.code.ts"
+import type { Wrote } from "akasha/pages/service/modules/page-writing/page-writing.module.code.ts"
 
 type Taken = {
   readonly asks: Query[]

@@ -15,16 +15,19 @@ import type {
 import type { SidecarsBy } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 import { pageOf, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import {
-  typeSlugsIn,
-  typesAmong,
-  typeValuesIn,
-} from "akasha/pages/types/gathering/page-type-gathering.module.code.ts"
+  textAt,
+  type Value,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import {
   identityOf,
   propertiesIfNamed,
   type Source,
 } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
-import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import {
+  typeSlugsIn,
+  typesAmong,
+  typeValuesIn,
+} from "akasha/pages/types/modules/gathering/page-type-gathering.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

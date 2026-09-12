@@ -10,8 +10,8 @@ import type { LockedFacet } from "akasha/pages/core/schema/view-data-locked/view
 import { completionShapeOf } from "akasha/pages/core/task-lifecycle/task-lifecycle.module.code.ts"
 import { PageCardRenderer } from "akasha/pages/ui/components/modules/page-card-renderer/page-card-renderer.module.code.tsx"
 import { pageRowToPageDataJSON } from "akasha/pages/ui/components/modules/page-data-json/page-data-json.module.code.ts"
-import { PageSystemTabContent } from "akasha/pages/ui/components/page-system-view/page-system-view.module.code.tsx"
-import { PageTableRowCells } from "akasha/pages/ui/components/page-table/page-table.module.code.tsx"
+import { PageSystemTabContent } from "akasha/pages/ui/components/modules/page-system-view/page-system-view.module.code.tsx"
+import { PageTableRowCells } from "akasha/pages/ui/components/modules/page-table/page-table.module.code.tsx"
 import { useGalleryViewProps } from "akasha/pages/ui/components/use-gallery-view-props/use-gallery-view-props.module.code.ts"
 import { useNotesViewProps } from "akasha/pages/ui/components/use-notes-view-props/use-notes-view-props.module.code.ts"
 import { usePropertyChangePerfHandler } from "akasha/pages/ui/components/use-property-change-perf-handler/use-property-change-perf-handler.module.code.ts"
@@ -26,12 +26,12 @@ import {
   buildRowHref,
   readRelationConfig,
 } from "akasha/pages/ui/components/view-tab-content-href/view-tab-content-href.module.code.ts"
-import { SupabasePageResolverProvider } from "akasha/pages/ui/supabase/page-resolver-provider/page-resolver-provider.module.code.tsx"
-import type { PageWithProperties } from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
+import { SupabasePageResolverProvider } from "akasha/pages/ui/supabase/modules/page-resolver-provider/page-resolver-provider.module.code.tsx"
+import type { PageWithProperties } from "akasha/pages/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import { useCompletePageOptimistic } from "akasha/pages/ui/supabase/use-complete-page-optimistic/use-complete-page-optimistic.module.code.tsx"
 import { useSetPropertyOptimistic } from "akasha/pages/ui/supabase/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
-import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
+import { toPageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 
 export function ViewTabContent({
   parentPageTypeId,

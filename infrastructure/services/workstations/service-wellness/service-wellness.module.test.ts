@@ -9,7 +9,7 @@ import {
   WELL,
 } from "akasha/infrastructure/services/workstations/service-wellness/service-wellness.module.code.ts"
 import { uncommittedAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
+import { uncommittedIn } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 
 const PAGE = "pages/held-service.service-workstation.ts"
 

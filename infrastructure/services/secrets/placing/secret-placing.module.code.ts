@@ -5,8 +5,11 @@ import {
 } from "akasha/infrastructure/services/clusters/workload-deploying/workload-deploying.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { secretAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { type Secrets, secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
-import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { type Secrets, secretsIn } from "akasha/pages/modules/secret/page-secret.module.code.ts"
+import {
+  textAt,
+  type Value,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
 import { parseAllDocuments, stringify } from "yaml"
 

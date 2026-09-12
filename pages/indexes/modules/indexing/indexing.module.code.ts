@@ -48,12 +48,12 @@ import {
 } from "akasha/pages/indexes/tree-reading/tree-reading.module.code.ts"
 import { valueIn } from "akasha/pages/indexes/value/index-value.index.code.ts"
 import { rowsOver } from "akasha/pages/modules/entries/page-entries.module.code.ts"
+import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import {
   identifyingFrom,
   sourceOver,
 } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { textOnDisk } from "akasha/utils/fs/text-on-disk/text-on-disk.module.code.ts"
 
 type Pending = {

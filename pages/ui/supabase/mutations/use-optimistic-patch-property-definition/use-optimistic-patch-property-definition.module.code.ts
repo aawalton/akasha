@@ -2,7 +2,7 @@ import type {
   PatchPropertyDefinitionArgs,
   PatchPropertyDefinitionByIdArgs,
 } from "akasha/pages/access/property-definition/property-definition.module.code.ts"
-import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import type { Page } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 import { runOptimisticMutation } from "akasha/pages/ui/supabase/mutations/modules/apply-prediction/apply-prediction.module.code.ts"
 import {
   buildOverlay,

@@ -46,7 +46,7 @@ import {
   THING,
   TWO,
 } from "akasha/pages/indexes/property-carrying/property-carrying.module.test-fixtures.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()

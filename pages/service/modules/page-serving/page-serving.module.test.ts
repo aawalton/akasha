@@ -1,0 +1,378 @@
+import { afterAll, expect, test } from "bun:test"
+import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
+import {
+  ASK_AT,
+  answering,
+  foldedInto,
+  queryIn,
+  READ_AT,
+  readIn,
+  WRITE_AT,
+  writeIn,
+} from "akasha/pages/service/modules/page-serving/page-serving.module.code.ts"
+import {
+  A_DEVICE_TOKEN,
+  A_PAGE,
+  AN_INSTANT,
+  asking,
+  bodyOf,
+  GIVEN,
+  over,
+  repoWith,
+  scratch,
+  TOLD,
+  writing,
+} from "akasha/pages/service/modules/page-serving/page-serving.module.test-fixtures.ts"
+
+test("a question is answered with rows", async () => {
+  const answered = await answering(
+    GIVEN,
+    asking({ pageTypeSlug: "invariant-kind", keys: ["slug"] })
+  )
+  expect(answered.status).toBe(200)
+  const held = await bodyOf(answered)
+  expect(Array.isArray(held.rows)).toBe(true)
+  expect(JSON.stringify(held.rows)).toContain("departure")
+})
+
+test("an answer counts what matched before what was taken", async () => {
+  const held = await bodyOf(
+    await answering(GIVEN, asking({ pageTypeSlug: "invariant-kind", limit: 1 }))
+  )
+  expect(held.n).toBe(6)
+})
+
+test("nothing is asked at another path", async () => {
+  const answered = await answering(GIVEN, asking({ pageTypeSlug: "invariant-kind" }, "/elsewhere"))
+  expect(answered.status).toBe(404)
+})
+
+test("a question arrives by POST rather than by GET", async () => {
+  const answered = await answering(GIVEN, asking(null, ASK_AT, "GET"))
+  expect(answered.status).toBe(405)
+})
+
+test("a body that will not parse is refused", async () => {
+  const request = new Request(`http://workstation${ASK_AT}`, { method: "POST", body: "not json" })
+  const answered = await answering(GIVEN, request)
+  expect(answered.status).toBe(400)
+  expect(String((await bodyOf(answered)).refused)).toContain("JSON")
+})
+
+test("a question naming no page type is refused", async () => {
+  const answered = await answering(GIVEN, asking({ keys: ["slug"] }))
+  expect(answered.status).toBe(400)
+  expect(String((await bodyOf(answered)).refused)).toContain("pageTypeSlug")
+})
+
+test("a where that is no test is refused", async () => {
+  const answered = await answering(
+    GIVEN,
+    asking({ pageTypeSlug: "invariant-kind", where: { slug: 7 } })
+  )
+  expect(answered.status).toBe(400)
+  expect(String((await bodyOf(answered)).refused)).toContain("where.slug")
+})
+
+test("keys that are not strings are refused", async () => {
+  const answered = await answering(GIVEN, asking({ pageTypeSlug: "invariant-kind", keys: [7] }))
+  expect(answered.status).toBe(400)
+  expect(String((await bodyOf(answered)).refused)).toContain("keys")
+})
+
+test("what the pages refuse is carried back", async () => {
+  const answered = await answering(GIVEN, asking({ pageTypeSlug: "invariant-kind", limit: -1 }))
+  expect(answered.status).toBe(400)
+  expect(String((await bodyOf(answered)).refused)).toContain("limit")
+})
+
+test("a whole question is read off the body", () => {
+  const read = queryIn({
+    pageTypeSlug: "invariant-kind",
+    where: { slug: { is: "gap" } },
+    keys: ["slug"],
+    sortBy: "slug",
+    descending: true,
+    limit: 2,
+    offset: 1,
+  })
+  expect("query" in read && read.query.pageTypeSlug).toBe("invariant-kind")
+  expect("query" in read && read.query.descending).toBe(true)
+})
+
+test("a question that is not an object is refused", () => {
+  const read = queryIn([1, 2, 3])
+  expect("refused" in read && read.refused).toContain("JSON object")
+})
+
+test("a write is handed in at a path of its own", async () => {
+  const answered = await answering(
+    GIVEN,
+    asking(
+      {
+        writer: "Amy <amy@alanwalton.com>",
+        message: "a message",
+        puts: [{ path: "akasha/a.ts", content: "x" }],
+      },
+      WRITE_AT
+    )
+  )
+  expect(answered.status).toBe(200)
+  expect(TOLD[TOLD.length - 1]?.writer).toBe("Amy <amy@alanwalton.com>")
+})
+
+test("a write stating no writer is refused", async () => {
+  const answered = await answering(GIVEN, asking({ message: "a message" }, WRITE_AT))
+  expect(answered.status).toBe(400)
+  expect(String((await bodyOf(answered)).refused)).toContain("writer")
+})
+
+test("a write stating no message is refused", async () => {
+  const answered = await answering(GIVEN, asking({ writer: "Amy <amy@alanwalton.com>" }, WRITE_AT))
+  expect(answered.status).toBe(400)
+  expect(String((await bodyOf(answered)).refused)).toContain("message")
+})
+
+test("a put holding no content is refused", () => {
+  const read = writeIn({
+    writer: "Amy <amy@alanwalton.com>",
+    message: "a message",
+    puts: [{ path: "akasha/a.ts" }],
+  })
+  expect("refused" in read && read.refused).toContain("content")
+})
+
+test("what a write puts and what it takes away are both read off the body", () => {
+  const read = writeIn({
+    writer: "Amy <amy@alanwalton.com>",
+    message: "a message",
+    puts: [{ path: "akasha/a.ts", content: "x" }],
+    removes: ["akasha/b.ts"],
+  })
+  expect("asked" in read && read.asked.puts?.[0]?.content).toBe("x")
+  expect("asked" in read && read.asked.removes?.[0]).toBe("akasha/b.ts")
+})
+
+test("an answer to a write names the commit it landed as", async () => {
+  const answered = await answering(
+    GIVEN,
+    asking(
+      {
+        writer: "Amy <amy@alanwalton.com>",
+        message: "a message",
+        puts: [{ path: "akasha/a.ts", content: "x" }],
+      },
+      WRITE_AT
+    )
+  )
+  const held = await bodyOf(answered)
+  expect("commit" in held).toBe(true)
+})
+
+test("a test the pages do not run is refused by the name it was given", async () => {
+  const answered = await answering(
+    GIVEN,
+    asking({ pageTypeSlug: "invariant-kind", where: { slug: { startsWith: "de" } } })
+  )
+  expect(answered.status).toBe(400)
+  expect(String((await bodyOf(answered)).refused)).toContain("where.slug.startsWith")
+})
+
+test("a refusal over a test names what the pages do run", async () => {
+  const answered = await answering(
+    GIVEN,
+    asking({ pageTypeSlug: "invariant-kind", where: { slug: { gt: "de" } } })
+  )
+  expect(String((await bodyOf(answered)).refused)).toContain("ends-with")
+})
+
+test("a test given what it cannot take is refused by name", () => {
+  const read = queryIn({ pageTypeSlug: "invariant-kind", where: { slug: { in: "gap" } } })
+  expect("refused" in read && read.refused).toContain("where.slug.in")
+})
+
+test("an ordering test given a list is refused by name", () => {
+  const read = queryIn({ pageTypeSlug: "invariant-kind", where: { at: { before: ["x"] } } })
+  expect("refused" in read && read.refused).toContain("where.at.before")
+})
+
+test("a test the pages run is read off the body", () => {
+  const read = queryIn({
+    pageTypeSlug: "invariant-kind",
+    where: { slug: { "starts-with": "de" }, at: { "at-or-after": 7 } },
+  })
+  expect("query" in read && read.query.where?.slug?.["starts-with"]).toBe("de")
+  expect("query" in read && read.query.where?.at?.["at-or-after"]).toBe(7)
+})
+
+test("a where holding only the tests already taken answers as it did", async () => {
+  const answered = await answering(
+    GIVEN,
+    asking({ pageTypeSlug: "invariant-kind", where: { slug: { is: "gap" } }, keys: ["slug"] })
+  )
+  expect(answered.status).toBe(200)
+  expect((await bodyOf(answered)).rows).toEqual([{ slug: "gap" }])
+})
+
+test("a test named nowhere is refused rather than narrowing nothing", async () => {
+  const answered = await answering(
+    GIVEN,
+    asking({ pageTypeSlug: "invariant-kind", where: { slug: { bogusop: "de" } }, keys: ["slug"] })
+  )
+  expect(answered.status).toBe(400)
+  expect(String((await bodyOf(answered)).refused)).toContain("bogusop")
+})
+
+test("a test stating nothing is refused by the key it stands on", () => {
+  const read = queryIn({ pageTypeSlug: "invariant-kind", where: { slug: {} } })
+  expect("refused" in read && read.refused).toContain("where.slug")
+})
+
+afterAll(scratch.sweep)
+
+test("a read is handed in at a path of its own", async () => {
+  const root = repoWith("the whole body\n")
+  const answered = await answering(over(root), asking({ paths: [A_PAGE] }, READ_AT))
+  expect(answered.status).toBe(200)
+  const held = await bodyOf(answered)
+  expect(JSON.stringify(held.bodies)).toContain("the whole body")
+})
+
+test("an answer to a read names the commit its bodies were read at", async () => {
+  const root = repoWith("one")
+  const answered = await answering(over(root), asking({ paths: [A_PAGE] }, READ_AT))
+  const held = await bodyOf(answered)
+  expect(held.at).toBe(gitIn(root, ["rev-parse", "HEAD"]).trim())
+})
+
+test("a read with neither a path nor a page is refused", async () => {
+  const root = repoWith("one")
+  const answered = await answering(over(root), asking({}, READ_AT))
+  expect(answered.status).toBe(400)
+  expect(String((await bodyOf(answered)).refused)).toContain("at least one path")
+})
+
+test("a read of a path that is no path inside the repository is refused", async () => {
+  const root = repoWith("one")
+  const answered = await answering(over(root), asking({ paths: ["/tools/a.ts"] }, READ_AT))
+  expect(answered.status).toBe(400)
+  expect(String((await bodyOf(answered)).refused)).toContain("no path inside the repository")
+})
+
+test("paths that are not strings are refused", () => {
+  const found = readIn({ paths: [7] })
+  expect("refused" in found && found.refused).toContain("paths")
+})
+
+test("a page named without a slug is refused", () => {
+  const found = readIn({ pages: [{ pageTypeSlug: "module" }] })
+  expect("refused" in found && found.refused).toContain("slug")
+})
+
+test("a read naming a page carries it through", () => {
+  const found = readIn({ pages: [{ pageTypeSlug: "module", slug: "a-page" }] })
+  expect("asked" in found && found.asked.pages?.[0]?.slug).toBe("a-page")
+})
+
+test("a write may state the commit it read", () => {
+  const read = writeIn({
+    writer: "Amy <amy@alanwalton.com>",
+    message: "a message",
+    puts: [{ path: A_PAGE, content: "x" }],
+    read: "0123456789abcdef0123456789abcdef01234567",
+  })
+  expect("asked" in read && read.asked.read).toBe("0123456789abcdef0123456789abcdef01234567")
+})
+
+test("a write stating what it read as something other than a string is refused", () => {
+  const read = writeIn({
+    writer: "Amy <amy@alanwalton.com>",
+    message: "a message",
+    puts: [{ path: A_PAGE, content: "x" }],
+    read: 7,
+  })
+  expect("refused" in read && read.refused).toContain("`read`")
+})
+
+test("a write may have pages rather than bodies", async () => {
+  const answered = await answering(GIVEN, writing({ pages: [A_DEVICE_TOKEN] }))
+  expect(answered.status).toBe(200)
+  const told = TOLD[TOLD.length - 1]
+  expect(told?.puts?.[0]?.path).toBe("persons/device-tokens/pages/held-one.device-token.ts")
+})
+
+test("which values a page carried commit is read from its page type", async () => {
+  await answering(GIVEN, writing({ pages: [A_DEVICE_TOKEN] }))
+  const told = TOLD[TOLD.length - 1]
+  expect(told?.puts?.[0]?.content).not.toContain("lastSeenAt")
+  expect(told?.kept?.[0]?.values.lastSeenAt).toBe(AN_INSTANT)
+})
+
+test("a page handing over no values is refused", () => {
+  const read = writeIn({
+    writer: "Amy <amy@alanwalton.com>",
+    message: "a message",
+    pages: [{ pageTypeSlug: "device-token", slug: "held-one" }],
+  })
+  expect("refused" in read && read.refused).toContain("values")
+})
+
+test("a page naming a page type nothing holds refuses the write", async () => {
+  const answered = await answering(
+    GIVEN,
+    writing({ pages: [{ pageTypeSlug: "nothing-at-all", slug: "one", values: {} }] })
+  )
+  expect(answered.status).toBe(400)
+  expect(String((await bodyOf(answered)).refused)).toContain("no page type")
+})
+
+test("a write carrying no page is handed on as it arrived", () => {
+  const asked = { writer: "Amy <amy@alanwalton.com>", message: "a message" }
+  expect(foldedInto(asked, [], [])).toBe(asked)
+})
+
+test("a page a write has may say whether it merges", () => {
+  const read = writeIn({
+    writer: "Amy <amy@alanwalton.com>",
+    message: "a message",
+    pages: [{ pageTypeSlug: "device-token", slug: "held-one", values: {}, merge: true }],
+  })
+  expect("pages" in read && read.pages[0]?.merge).toBe(true)
+})
+
+test("a page saying it merges as neither true nor false is refused", () => {
+  const read = writeIn({
+    writer: "Amy <amy@alanwalton.com>",
+    message: "a message",
+    pages: [{ pageTypeSlug: "device-token", slug: "held-one", values: {}, merge: "yes" }],
+  })
+  expect("refused" in read && read.refused).toContain("merge")
+})
+
+test("a page saying nothing about merging has no merge", () => {
+  const read = writeIn({
+    writer: "Amy <amy@alanwalton.com>",
+    message: "a message",
+    pages: [{ pageTypeSlug: "device-token", slug: "held-one", values: {} }],
+  })
+  expect("pages" in read && read.pages[0]?.merge).toBeUndefined()
+})
+
+test("a page a write has merging is composed over what the page already has", async () => {
+  await answering(
+    GIVEN,
+    writing({
+      pages: [
+        {
+          pageTypeSlug: "idle-game",
+          slug: "idle",
+          values: { favoritedAt: AN_INSTANT },
+          merge: true,
+        },
+      ],
+    })
+  )
+  const told = TOLD[TOLD.length - 1]
+  expect(told?.puts?.[0]?.content).toContain('gameEngine: "idle"')
+  expect(told?.puts?.[0]?.content).toContain('unit: "moments"')
+})

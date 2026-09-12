@@ -1,4 +1,4 @@
-import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import type { Page } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 import { toNumber } from "akasha/pages/core/property-types/modules/number/number.module.code.ts"
 import { z } from "zod"
 

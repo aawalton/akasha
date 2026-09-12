@@ -22,7 +22,7 @@ import {
   typeSlugOf,
   valuesOfType,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { wholeValue } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
+import { wholeValue } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 
 const READOUT = "01a05446-e760-7cb2-848b-4fcfc7ed45d4"

@@ -12,7 +12,7 @@ import { formatAbsoluteInstant } from "akasha/pages/core/property-types/modules/
 import type { PropertyValue } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
 import { resolveBadgeVariant } from "akasha/pages/core/resolve-badge-variant/resolve-badge-variant.module.code.ts"
 import type { BadgeVariant } from "akasha/pages/core/schema/modules/color-rule-variant/color-rule-variant.module.code.ts"
-import { parseConfig } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import { parseConfig } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import {
   type InstantConfig,
   type InstantFormat,

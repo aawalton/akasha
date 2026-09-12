@@ -47,7 +47,7 @@ import {
 import { shapesAt } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
 import { knownIn, type Shaped } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import { ruleShort, type Said, saidOf } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
-import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import {
   type Carried,
   carriedIn,
@@ -59,7 +59,7 @@ import {
   type Source,
   sourceIn,
 } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { kindsUnder } from "akasha/pages/types/modules/descent/page-type-descent.module.code.ts"
 
 export type PageOf = (path: string) => Value | null
 

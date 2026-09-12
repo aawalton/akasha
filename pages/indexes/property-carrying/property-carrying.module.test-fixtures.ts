@@ -3,7 +3,7 @@ import type {
   Facing,
   Naming,
 } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 export const idOf = (one: string): string => `01a058c0-0000-7000-8000-00000000000${one}`
 

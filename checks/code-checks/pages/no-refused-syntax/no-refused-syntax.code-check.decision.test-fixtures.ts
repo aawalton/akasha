@@ -106,7 +106,7 @@ export const READERS_FILED: Readers = new Map([
 
 const MODULE_PAGES: readonly (readonly [string, Held])[] = [
   [
-    "akasha/pages/value/page-value.module.ts",
+    "akasha/pages/modules/value/page-value.module.ts",
     {
       id: "01a0596b-0000-7000-8000-000000000002",
       pageTypeSlug: MODULE,

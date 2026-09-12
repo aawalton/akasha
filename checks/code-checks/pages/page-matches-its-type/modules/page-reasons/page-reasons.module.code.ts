@@ -14,10 +14,13 @@ import {
   twiceIn,
 } from "akasha/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts"
 import { refusalText } from "akasha/checks/modules/refusal-text/refusal-text.module.code.ts"
+import {
+  numberAt,
+  type Value,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import type { Formatting } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
-import { numberAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const NOTHING: ReadonlySet<string> = new Set()
 

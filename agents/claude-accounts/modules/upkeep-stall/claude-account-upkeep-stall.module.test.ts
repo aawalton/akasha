@@ -11,7 +11,7 @@ import {
   stallLines,
   USAGE_CEILING_MS,
 } from "akasha/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const NOW = Date.parse("2026-01-01T00:00:00.000Z")
 

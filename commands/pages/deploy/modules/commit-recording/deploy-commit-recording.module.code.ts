@@ -1,8 +1,8 @@
 import {
   mergeUncommitted,
   uncommittedIn,
-} from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
-import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+} from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
+import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 export const DEPLOYED_COMMIT = "deployedCommit"
 

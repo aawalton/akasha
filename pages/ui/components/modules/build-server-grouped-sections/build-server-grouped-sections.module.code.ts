@@ -3,10 +3,10 @@ import type { GroupGranularity } from "akasha/pages/core/schema/view-data/view-d
 import { GROUP_NONE_KEY } from "akasha/pages/core/view/modules/apply-grouping-shared/apply-grouping-shared.module.code.ts"
 import { expandDateMentions } from "akasha/pages/core/view/modules/expand-date-mentions/expand-date-mentions.module.code.ts"
 import { toPageDataRecord } from "akasha/pages/ui/components/modules/page-data-json/page-data-json.module.code.ts"
-import type { ServerGroupedSection } from "akasha/pages/ui/components/page-system-tab-content-props/page-system-tab-content-props.module.code.ts"
+import type { ServerGroupedSection } from "akasha/pages/ui/components/modules/page-system-tab-content-props/page-system-tab-content-props.module.code.ts"
 import { buildPageResolver } from "akasha/pages/ui/components/view-engine/modules/build-page-resolver/build-page-resolver.module.code.ts"
 import { getPageGroupDefinition } from "akasha/pages/ui/components/view-engine/modules/generate-group-definitions/generate-group-definitions.module.code.ts"
-import type { PageWithProperties } from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
+import type { PageWithProperties } from "akasha/pages/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 
 interface GroupedSource {
   pages: readonly PageWithProperties[]

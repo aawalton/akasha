@@ -3,7 +3,7 @@ import {
   type PageDataJSON,
 } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import type { AggregateInput } from "akasha/pages/core/property-types/modules/aggregate/aggregate.module.code.ts"
-import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import type { ReadonlyJSONValue } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
 
 export function toPageDataJSON(properties: Record<string, unknown> | undefined): PageDataJSON {

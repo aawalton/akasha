@@ -37,7 +37,7 @@ import {
 } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
 import { shapesAt } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
 import { knownIn } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
-import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import {
   carriedIn,
   declarationsOf,
@@ -45,7 +45,7 @@ import {
   propertiesOf,
   sourceIn,
 } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { kindsUnder } from "akasha/pages/types/modules/descent/page-type-descent.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()

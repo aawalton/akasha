@@ -21,7 +21,7 @@ import {
   everyOfType,
   valuesOfType,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const MANIFEST = "package.json"
 

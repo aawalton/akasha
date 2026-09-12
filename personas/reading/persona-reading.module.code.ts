@@ -7,13 +7,13 @@ import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.c
 import {
   mergeUncommitted,
   uncommittedIn,
-} from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+} from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
+import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import {
   numberAt,
   textAt,
   type Value,
-} from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const PAGE_TYPE = "persona"
 

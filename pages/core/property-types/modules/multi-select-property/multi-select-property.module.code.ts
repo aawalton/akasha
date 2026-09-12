@@ -10,7 +10,7 @@ import {
   findOption,
   type OptionLike,
 } from "akasha/pages/core/property-types/select/select.module.code.ts"
-import { parseConfig } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import { parseConfig } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import { multiSelectConfigSchema } from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
 
 export function getOptions(definition: PropertyDefinition): readonly OptionLike[] {

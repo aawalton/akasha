@@ -5,7 +5,7 @@ import { ListContentSkeleton } from "akasha/design/interfaces/layout/modules/lis
 import {
   PageTabHeader,
   PageTabTitleBadges,
-} from "akasha/design/interfaces/layout/page-tab-header/page-tab-header.module.code.tsx"
+} from "akasha/design/interfaces/layout/modules/page-tab-header/page-tab-header.module.code.tsx"
 import {
   Empty,
   EmptyDescription,

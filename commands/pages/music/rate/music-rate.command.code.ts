@@ -38,9 +38,9 @@ import { musicRate as page } from "akasha/commands/pages/music/rate/music-rate.c
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { composedFor } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 export const ARTIST = "artist"
 

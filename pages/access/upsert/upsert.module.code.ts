@@ -18,7 +18,7 @@ import {
   asPage,
   type Page,
   type PageWhere,
-} from "akasha/pages/core/page-types/page-types.module.code.ts"
+} from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 import { isJson } from "akasha/utils/narrow/modules/is-json/is-json.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
 import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"

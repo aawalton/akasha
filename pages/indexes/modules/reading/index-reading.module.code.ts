@@ -20,8 +20,8 @@ import {
   type PageAddress,
 } from "akasha/pages/modules/address/page-address.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { valueIn } from "akasha/pages/value/page-value.module.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { valueIn } from "akasha/pages/modules/value/page-value.module.code.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 export type Listed = {
   readonly path: string

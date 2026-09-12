@@ -1,5 +1,5 @@
 import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
-import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import type { ReadonlyJSONValue } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import {
   type SelectOption,
   selectConfigSchema,

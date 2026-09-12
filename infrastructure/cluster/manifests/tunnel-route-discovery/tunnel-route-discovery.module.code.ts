@@ -5,7 +5,7 @@ import { pageTypesIn } from "akasha/pages/indexes/modules/entries/index-entries.
 import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { shapeOf } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
-import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const REPO_ROOT = checkoutRootAbove(import.meta.dirname)
 

@@ -8,11 +8,14 @@ import type { Judged } from "akasha/checks/modules/judging/judging.module.code.t
 import { waitingProperties } from "akasha/pages/indexes/modules/generated-properties/generated-properties.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { pageNamed } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import { loadedFrom } from "akasha/pages/modules/value/page-value.module.code.ts"
+import {
+  textAt,
+  type Value,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { matchingIn } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
-import { loadedFrom } from "akasha/pages/value/page-value.module.code.ts"
-import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

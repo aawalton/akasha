@@ -7,21 +7,24 @@ import {
 } from "akasha/pages/access/modules/get-by-relation/get-by-relation.module.code.ts"
 import { collectPages } from "akasha/pages/access/modules/iterate/iterate.module.code.ts"
 import type { PageOrder, PageSelect } from "akasha/pages/access/types/types.module.code.ts"
-import type { Page, PageWhere } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import type {
+  Page,
+  PageWhere,
+} from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 import {
   type ListingConfig,
   listingIncludesDescendants,
 } from "akasha/pages/core/schema/modules/listing-config/listing-config.module.code.ts"
-import { resolveDescendantPageTypeIds } from "akasha/pages/core/schema/page-type-inheritance/page-type-inheritance.module.code.ts"
+import { resolveDescendantPageTypeIds } from "akasha/pages/core/schema/modules/page-type-inheritance/page-type-inheritance.module.code.ts"
 import type { ViewSort } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import {
   type PageWithProperties,
   toPageWithProperties,
-} from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
+} from "akasha/pages/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import {
   type PageTypeSlug,
   toPageTypeSlug,
-} from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
+} from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useEffect, useMemo, useRef, useState } from "react"
 
 interface DescendantPagesResult {

@@ -1,7 +1,10 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { numberAt, textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import {
+  numberAt,
+  textAt,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import {
   ADDON_BUILD_REL_ROOT,
   compilerConfigPathFor,

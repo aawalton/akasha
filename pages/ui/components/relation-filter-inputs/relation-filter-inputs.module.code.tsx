@@ -7,10 +7,10 @@ import {
 } from "akasha/design/interfaces/forms/search-multi-select/search-multi-select.module.code.tsx"
 import { useDebouncedValue } from "akasha/design/interfaces/primitives/use-debounced-value/use-debounced-value.module.code.ts"
 import type { FilterOperator } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
-import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import type { ReadonlyJSONValue } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import type { PageFilterDimension } from "akasha/pages/core/view/modules/generate-filter-dimensions/generate-filter-dimensions.module.code.ts"
 import { toStringArray } from "akasha/pages/ui/components/value-filter-inputs/value-filter-inputs.module.code.tsx"
-import { usePageResolverOptional } from "akasha/pages/ui/contexts/page-resolver-context/page-resolver-context.module.code.tsx"
+import { usePageResolverOptional } from "akasha/pages/ui/contexts/modules/page-resolver-context/page-resolver-context.module.code.tsx"
 import { useRelationPicker } from "akasha/pages/ui/contexts/relation-picker-context/relation-picker-context.module.code.tsx"
 import { useMemo, useState } from "react"
 

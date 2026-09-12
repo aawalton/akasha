@@ -7,7 +7,10 @@ import type {
   Guarding,
 } from "akasha/changes/modules/guarding/change-guarding.module.types.ts"
 import { pageNamed } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { slugOf, textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import {
+  slugOf,
+  textAt,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const PAGE_PROPERTY = "page-property"
 

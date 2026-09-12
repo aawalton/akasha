@@ -11,7 +11,7 @@ import {
   slugOf,
   textAt,
   type Value,
-} from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

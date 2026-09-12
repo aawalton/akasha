@@ -8,7 +8,7 @@ import {
   withDefinitions,
 } from "akasha/pages/access/modules/answer/answer.module.code.ts"
 import { RosterUnreachable } from "akasha/pages/access/modules/file-backed-roster/file-backed-roster.module.code.ts"
-import type { PropertyDefinition } from "akasha/pages/access/page-type-config/page-type-config.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/access/modules/page-type-config/page-type-config.module.code.ts"
 
 const AT = "https://alanwalton.com/api/pages/readout"
 

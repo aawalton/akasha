@@ -9,9 +9,9 @@ import {
 import {
   type PageWithProperties,
   pageById,
-} from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
+} from "akasha/pages/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import { buildPageHref } from "akasha/pages/url/modules/page-href/page-href.module.code.ts"
-import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
+import type { PageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useCallback } from "react"
 
 export interface PagesFilteredHrefs {

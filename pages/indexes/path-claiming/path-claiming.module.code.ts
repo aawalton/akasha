@@ -15,15 +15,15 @@ import {
   uncommittedPartsOf,
 } from "akasha/pages/modules/file-parts/page-file-parts.module.code.ts"
 import {
-  typeSlugsIn,
-  typeValuesIn,
-} from "akasha/pages/types/gathering/page-type-gathering.module.code.ts"
-import {
   slugOf,
   slugsIn,
   textAt,
   type Value,
-} from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  typeSlugsIn,
+  typeValuesIn,
+} from "akasha/pages/types/modules/gathering/page-type-gathering.module.code.ts"
 import { dashEachCapital } from "akasha/utils/slug/modules/dash-each-capital/dash-each-capital.module.code.ts"
 
 const PAGE_TYPE = "page-type"

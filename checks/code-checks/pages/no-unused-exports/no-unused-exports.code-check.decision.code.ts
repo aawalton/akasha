@@ -15,8 +15,8 @@ import {
   partedIn,
   uncommittedNamed,
 } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import { nameFor } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
-import { nameFor } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import ts from "typescript"
 
 const PUBLISHED = "a value only its own file names is published for nothing"

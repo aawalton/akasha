@@ -9,7 +9,7 @@ import {
   WORKED_AT,
   windowMsIn,
 } from "akasha/infrastructure/services/workstations/service-beating/service-beating.module.code.ts"
-import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
+import { uncommittedIn } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 
 const PAGE = "pages/held-service.service-workstation.ts"
 

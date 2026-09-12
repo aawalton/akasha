@@ -4,7 +4,7 @@ import {
   seaweedFSObjectStoreFromEnv,
 } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
 import { getPage } from "akasha/pages/access/modules/get/get.module.code.ts"
-import { getMediaPageTypeSlugs } from "akasha/pages/access/page-type-config/page-type-config.module.code.ts"
+import { getMediaPageTypeSlugs } from "akasha/pages/access/modules/page-type-config/page-type-config.module.code.ts"
 import {
   isMedium,
   MEDIA_FORMATS,

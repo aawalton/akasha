@@ -4,6 +4,13 @@ import {
   type Valued,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import {
+  slugAt,
+  slugOf,
+  slugsIn,
+  textAt,
+  type Value,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import {
   COMPUTED,
   type Counting,
   carriedFor,
@@ -15,13 +22,6 @@ import {
 } from "akasha/pages/service/modules/kinds-gathering/kinds-gathering.module.code.ts"
 import { matches, weigh } from "akasha/pages/service/where-testing/where-testing.module.code.ts"
 import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
-import {
-  slugAt,
-  slugOf,
-  slugsIn,
-  textAt,
-  type Value,
-} from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

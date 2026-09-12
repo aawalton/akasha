@@ -13,7 +13,7 @@ import {
   uncommittedPartAt,
   uncommittedPartsOf,
 } from "akasha/pages/modules/file-parts/page-file-parts.module.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const NO_NAME = "is no page file, so the files beside that page have no name"
 

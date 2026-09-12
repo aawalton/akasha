@@ -9,7 +9,7 @@ import type {
   Kinded,
   Naming,
 } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const OWNER = "temper/one-addon/one-addon.eso-addon.ts"
 

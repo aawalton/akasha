@@ -5,7 +5,7 @@ import {
   sweptWith,
   takenIn,
 } from "akasha/commands/modules/beside-sweeping/beside-sweeping.module.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const PAGE = "one/one.module.ts"
 

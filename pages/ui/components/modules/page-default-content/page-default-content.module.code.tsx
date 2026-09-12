@@ -27,11 +27,11 @@ import {
 import { PageDetailSubpages } from "akasha/pages/ui/components/modules/page-detail-subpages/page-detail-subpages.module.code.tsx"
 import { usePageDefaultContent } from "akasha/pages/ui/components/use-page-default-content/use-page-default-content.module.code.ts"
 import { MarkdownRenderer } from "akasha/pages/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx"
-import { SupabasePageResolverProvider } from "akasha/pages/ui/supabase/page-resolver-provider/page-resolver-provider.module.code.tsx"
+import { SupabasePageResolverProvider } from "akasha/pages/ui/supabase/modules/page-resolver-provider/page-resolver-provider.module.code.tsx"
 import {
   type PageTypeSlug,
   toPageTypeSlug,
-} from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
+} from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
 
 export function PageDefaultContent({

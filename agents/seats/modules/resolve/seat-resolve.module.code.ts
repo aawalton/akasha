@@ -6,7 +6,7 @@ import {
 } from "akasha/agents/modules/attributes/agent-attributes.module.code.ts"
 import { seat as seatPageType } from "akasha/agents/seats/seat.page-type.ts"
 import { domainsRead } from "akasha/domains/modules/reading/domain-reading.module.code.ts"
-import { slugOf } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { personaAt, personasStanding } from "akasha/personas/reading/persona-reading.module.code.ts"
 
 const DOMAIN_SLUG_KEY = "slug"

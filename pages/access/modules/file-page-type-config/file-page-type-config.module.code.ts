@@ -6,12 +6,12 @@ import {
   parseSequenceConfig,
   type SequenceConfig,
 } from "akasha/pages/core/schema/sequence-config/sequence-config.module.code.ts"
+import { slugsIn } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import type {
   Asked,
   Query,
 } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
 import { askingFor } from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
-import { slugsIn } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { z } from "zod"
 
 const PAGE_TYPE_SLUG = "page-type"

@@ -14,7 +14,7 @@ import {
   dropUncommitted as dropAkasha,
   mergeUncommitted,
   removeUncommitted as removeAkasha,
-} from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
+} from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 import {
   type Beside,
   CARRIED,

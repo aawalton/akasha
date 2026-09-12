@@ -7,14 +7,14 @@ import type { Reading, Shape } from "akasha/pages/indexes/modules/shape/index-sh
 import { shapeOf } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
 import { addressIn, slugIn } from "akasha/pages/modules/address/page-address.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
-import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
 import {
   numberAt,
   slugAt,
   slugsIn,
   textAt,
   type Value,
-} from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import { kindsUnder } from "akasha/pages/types/modules/descent/page-type-descent.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

@@ -1,13 +1,16 @@
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { answering } from "akasha/pages/service/page-serving/page-serving.module.code.ts"
-import { writerFor } from "akasha/pages/service/page-writing/page-writing.module.code.ts"
 import {
   dropUncommitted,
   mergeUncommitted,
-} from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import { numberAt, textsAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+} from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
+import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  numberAt,
+  textsAt,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import { answering } from "akasha/pages/service/modules/page-serving/page-serving.module.code.ts"
+import { writerFor } from "akasha/pages/service/modules/page-writing/page-writing.module.code.ts"
 
 export const SERVICE_SLUG = "pages-service"
 export const SERVICE_PAGE_TYPE = "service-workstation"

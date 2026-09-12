@@ -1,7 +1,7 @@
 import { createServerClient } from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
 import { buildNavIconSvg } from "akasha/alan/harness/web-page-answers/modules/nav-icon-svg/nav-icon-svg.module.code.ts"
 import { getPageByIdSuffix } from "akasha/pages/access/modules/get/get.module.code.ts"
-import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
+import { toPageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 
 const NAV_SLUG = toPageTypeSlug("nav")
 

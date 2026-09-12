@@ -3,8 +3,8 @@ import {
   everyOfType,
   typeSlugOf,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { wholeValue } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { wholeValue } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
+import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import { asInstant } from "akasha/utils/narrow/modules/as-instant/as-instant.module.code.ts"
 import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 

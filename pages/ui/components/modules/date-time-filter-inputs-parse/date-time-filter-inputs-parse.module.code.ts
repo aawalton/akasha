@@ -5,7 +5,7 @@ import type {
   SentinelDateValue,
   SentinelInstantValue,
 } from "akasha/pages/core/property-types/modules/date-sentinels/date-sentinels.module.code.ts"
-import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import type { ReadonlyJSONValue } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 
 function isJsonObject(
   value: ReadonlyJSONValue | undefined

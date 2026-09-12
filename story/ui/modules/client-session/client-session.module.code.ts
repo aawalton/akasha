@@ -1,5 +1,5 @@
 import { buildPageHrefParam } from "akasha/pages/url/modules/page-href/page-href.module.code.ts"
-import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
+import { toPageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import {
   type Beat,
   BeatSchema,

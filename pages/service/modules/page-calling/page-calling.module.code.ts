@@ -8,8 +8,11 @@ import type { Naming } from "akasha/pages/service/modules/page-composing/page-co
 import type {
   Read,
   Asked as Sought,
-} from "akasha/pages/service/page-reading/page-reading.module.code.ts"
-import type { Put, Wrote } from "akasha/pages/service/page-writing/page-writing.module.code.ts"
+} from "akasha/pages/service/modules/page-reading/page-reading.module.code.ts"
+import type {
+  Put,
+  Wrote,
+} from "akasha/pages/service/modules/page-writing/page-writing.module.code.ts"
 
 export const ASK_AT = "/ask"
 

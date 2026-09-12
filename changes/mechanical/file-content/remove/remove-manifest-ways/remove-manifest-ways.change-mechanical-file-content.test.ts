@@ -7,7 +7,7 @@ import {
 import { pathsIn } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { bodyOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
-import { reading } from "akasha/pages/value/page-value.module.test-fixtures.ts"
+import { reading } from "akasha/pages/modules/value/page-value.module.test-fixtures.ts"
 
 const AT = "seat-system/package.json"
 

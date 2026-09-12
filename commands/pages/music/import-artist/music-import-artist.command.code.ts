@@ -59,6 +59,10 @@ import { musicImportArtist as page } from "akasha/commands/pages/music/import-ar
 import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import {
+  textIn,
+  type Value,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import {
   composedFor,
   type Put,
   sourceFor,
@@ -67,7 +71,6 @@ import {
   propertiesIfNamed,
   type Source,
 } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
-import { textIn, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { todayYYYYMMDD } from "akasha/utils/sync/today/today.module.code.ts"
 
 const ARTIST = "artist"

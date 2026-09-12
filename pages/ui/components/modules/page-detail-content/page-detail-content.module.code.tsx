@@ -4,20 +4,20 @@ import type { SentenceMark } from "akasha/alan/harness/voice-core/modules/mark-s
 import { PageLayout } from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
 import { simplePageSkeleton } from "akasha/design/interfaces/layout/skeleton-presets/skeleton-presets.module.code.ts"
 import { resolveDisplayKind } from "akasha/pages/core/schema/modules/detail-config/detail-config.module.code.ts"
-import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import { parsePageTypeData } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import { PageCollectionContent } from "akasha/pages/ui/components/modules/page-collection-content/page-collection-content.module.code.tsx"
 import { PageDefaultContent } from "akasha/pages/ui/components/modules/page-default-content/page-default-content.module.code.tsx"
 import {
   PAGE_TYPE_SLUG,
   selectDetailBody,
 } from "akasha/pages/ui/components/modules/page-detail-content-helpers/page-detail-content-helpers.module.code.ts"
-import { PageReaderContent } from "akasha/pages/ui/components/page-reader-content/page-reader-content.module.code.tsx"
+import { PageReaderContent } from "akasha/pages/ui/components/modules/page-reader-content/page-reader-content.module.code.tsx"
 import type { ReaderNeighborLink } from "akasha/pages/ui/components/reader-chrome/reader-chrome.module.code.tsx"
 import type { MediaVariant } from "akasha/pages/ui/media/modules/page-media-player/page-media-player.module.code.tsx"
 import { useAllPages } from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { usePage } from "akasha/pages/ui/supabase/use-page/use-page.module.code.ts"
 import { useRecordPageView } from "akasha/pages/ui/supabase/use-record-page-view/use-record-page-view.module.code.ts"
-import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
+import type { PageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import type { ReactNode } from "react"
 

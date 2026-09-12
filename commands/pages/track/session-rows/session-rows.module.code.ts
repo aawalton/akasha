@@ -22,7 +22,10 @@ import {
   uuidVersion7,
 } from "akasha/pages/ids/uuid-version-7/uuid-version-7.module.code.ts"
 import { valuesByPath } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { numberAt, textIn } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import {
+  numberAt,
+  textIn,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { padTwo } from "akasha/utils/digit-padding/modules/pad-two/pad-two.module.code.ts"
 
 export type LevelsReading =

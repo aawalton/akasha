@@ -59,7 +59,10 @@ import {
   owedIn,
 } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import {
+  textAt,
+  type Value,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
 import { meantSaid } from "akasha/utils/text/suggest-closest/suggest-closest.module.code.ts"
 

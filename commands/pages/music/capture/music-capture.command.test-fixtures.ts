@@ -15,7 +15,7 @@ import {
   plannedOver,
   WRITE,
 } from "akasha/commands/pages/music/capture/music-capture.command.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 export const ROOT = rootOf(process.cwd())
 

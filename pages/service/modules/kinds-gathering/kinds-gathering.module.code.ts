@@ -24,7 +24,11 @@ import {
 import { entriedValue } from "akasha/pages/modules/entries/page-entries.module.code.ts"
 import { filedValue } from "akasha/pages/modules/file-body/page-file-body.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
+import { wholeValue } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
+import {
+  textAt,
+  type Value,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import {
   type Carried,
   propertiesFrom,
@@ -32,8 +36,7 @@ import {
   sourceAmong,
   sourceIn,
 } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
-import { wholeValue } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
-import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { kindsUnder } from "akasha/pages/types/modules/descent/page-type-descent.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

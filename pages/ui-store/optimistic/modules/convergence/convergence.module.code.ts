@@ -3,7 +3,7 @@ import { FILE_BACKING_POLL_MS } from "akasha/pages/ui-store/collection/modules/f
 import {
   asPageRow,
   type PageRow,
-} from "akasha/pages/ui-store/collection/page-row/page-row.module.code.ts"
+} from "akasha/pages/ui-store/collection/modules/page-row/page-row.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
 import { jsonEqual } from "akasha/utils/narrow/modules/json-equal/json-equal.module.code.ts"
 

@@ -4,7 +4,7 @@ import {
   linesIn,
   partsFor,
 } from "akasha/changes/mechanical/file/divide/divide-file-page-property/divide-file-page-property.change-mechanical.code.ts"
-import { reading } from "akasha/pages/value/page-value.module.test-fixtures.ts"
+import { reading } from "akasha/pages/modules/value/page-value.module.test-fixtures.ts"
 
 const PAGE = "made-up/logs/one/one.made-up-log.ts"
 

@@ -3,7 +3,7 @@ import {
   dropUncommitted,
   mergeUncommitted,
   uncommittedIn,
-} from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
+} from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 
 const READOUT = "readout"
 

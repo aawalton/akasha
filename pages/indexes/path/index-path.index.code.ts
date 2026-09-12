@@ -18,7 +18,10 @@ import {
   type SidecarsBy,
   under,
 } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
-import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import {
+  textAt,
+  type Value,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const PATH = indexPath.name
 

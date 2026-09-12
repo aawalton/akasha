@@ -9,7 +9,10 @@ import {
 } from "akasha/pages/access/modules/file-shape/file-shape.module.code.ts"
 import { shapelessWhy, unfiledWhy } from "akasha/pages/access/modules/get/get.module.code.ts"
 import type { PageCursor, PageOrder } from "akasha/pages/access/types/types.module.code.ts"
-import type { Page, PageWhere } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import type {
+  Page,
+  PageWhere,
+} from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 
 export type GetPagesForViewArgs = {
   pageTypeId: string

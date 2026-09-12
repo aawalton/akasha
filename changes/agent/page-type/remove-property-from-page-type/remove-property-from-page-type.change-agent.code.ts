@@ -12,7 +12,7 @@ import {
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { addressIn } from "akasha/pages/modules/address/page-address.module.code.ts"
-import { textsAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { textsAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const REMOVE_VALUE = "change-mechanical-file-content/remove-property-value"
 

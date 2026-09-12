@@ -1,6 +1,6 @@
 import type { SeatRecord } from "akasha/agents/seats/modules/record/seat-record.module.code.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import {
   akashaBesideOf,
   akashaRoot,

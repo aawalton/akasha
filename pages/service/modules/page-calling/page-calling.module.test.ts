@@ -20,7 +20,7 @@ import {
   FILE_AT,
   READ_AT,
   WRITE_AT,
-} from "akasha/pages/service/page-serving/page-serving.module.code.ts"
+} from "akasha/pages/service/modules/page-serving/page-serving.module.code.ts"
 
 const A_FILE = { pageTypeSlug: "persona", slug: "amy", key: "mobileWallpaper" }
 

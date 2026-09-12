@@ -1,5 +1,5 @@
 import type { PropertyType } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
-import type { PageCondition } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import type { PageCondition } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 import type {
   RelativeToTodayValue,
   SentinelDateValue,

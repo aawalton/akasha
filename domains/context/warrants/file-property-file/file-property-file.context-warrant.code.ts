@@ -12,8 +12,8 @@ import {
   pageOf,
   partedIn,
 } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import { propertiesIfNamedOf } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 
 export const PAGE =
   "A property's file answers to the page it sits beside, and that page states the property it holds."

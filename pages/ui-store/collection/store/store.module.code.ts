@@ -33,8 +33,8 @@ import {
 import {
   asPageRowList,
   type PageRow,
-} from "akasha/pages/ui-store/collection/page-row/page-row.module.code.ts"
-import { createPagesCollection } from "akasha/pages/ui-store/collection/pages-collection/pages-collection.module.code.ts"
+} from "akasha/pages/ui-store/collection/modules/page-row/page-row.module.code.ts"
+import { createPagesCollection } from "akasha/pages/ui-store/collection/modules/pages-collection/pages-collection.module.code.ts"
 import {
   buildPagesSnapshot,
   type PagesPersistencePort,

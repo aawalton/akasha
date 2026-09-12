@@ -18,7 +18,7 @@ import {
 import { sectionsOfTheBookAbove } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/sections-of-the-book-above/sections-of-the-book-above.folder-shape.code.ts"
 import type { FoldersBy } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import { type Held, heldIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const ROOT = "/repo"
 

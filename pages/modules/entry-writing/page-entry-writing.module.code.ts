@@ -3,7 +3,7 @@ import {
   partAt,
   uncommittedPartAt,
 } from "akasha/pages/modules/file-parts/page-file-parts.module.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const NEWLINE = "\n"
 

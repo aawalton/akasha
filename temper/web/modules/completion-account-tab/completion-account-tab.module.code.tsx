@@ -4,7 +4,7 @@ import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/interfaces/badges/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
-import { PageTabHeader } from "akasha/design/interfaces/layout/page-tab-header/page-tab-header.module.code.tsx"
+import { PageTabHeader } from "akasha/design/interfaces/layout/modules/page-tab-header/page-tab-header.module.code.tsx"
 import { PanelToggleProvider } from "akasha/design/interfaces/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
 import { LayoutLink } from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
 import { AddFilterButton } from "akasha/design/interfaces/patterns/modules/add-filter-button/add-filter-button.module.code.tsx"

@@ -25,7 +25,7 @@ export const theaChecksSystem = {
     {
       statement: "Every uncommitted body beside a page exports the name that page's writer makes.",
       workingMemory:
-        "24 `service-workstation` bodies carry export names from before that page type was renamed. `alan/harness/inboxes/relay-service/inbox-relay-service.service-workstation.uncommitted.ts` exports `inboxRelayServiceWorkstationServiceUncommitted` where `pages/uncommitted/page-uncommitted.module.code.ts` now makes `inboxRelayServiceServiceWorkstationUncommitted`. Each is rewritten the next time its service writes, so this may clear itself.",
+        "24 `service-workstation` bodies carry export names from before that page type was renamed. `alan/harness/inboxes/relay-service/inbox-relay-service.service-workstation.uncommitted.ts` exports `inboxRelayServiceWorkstationServiceUncommitted` where `pages/modules/uncommitted/page-uncommitted.module.code.ts` now makes `inboxRelayServiceServiceWorkstationUncommitted`. Each is rewritten the next time its service writes, so this may clear itself.",
     },
   ],
   constraints: [

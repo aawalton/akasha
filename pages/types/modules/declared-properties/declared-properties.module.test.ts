@@ -1,4 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
+import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import {
   propertiesIfNamed,
   sourceIn,
@@ -13,7 +14,6 @@ import {
   scratch,
   typed,
 } from "akasha/pages/types/modules/declared-properties/declared-properties.module.test-fixtures.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 
 afterAll(scratch.sweep)
 

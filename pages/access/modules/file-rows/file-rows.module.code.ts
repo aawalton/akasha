@@ -1,4 +1,4 @@
-import type { PropertyDefinition } from "akasha/pages/access/page-type-config/page-type-config.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/access/modules/page-type-config/page-type-config.module.code.ts"
 import { parsePageSeq } from "akasha/pages/access/parse-page-seq/parse-page-seq.module.code.ts"
 import type { RawPageRow } from "akasha/pages/access/raw-page-row/raw-page-row.module.code.ts"
 import type { QueryRow } from "akasha/pages/access/types/types.module.code.ts"

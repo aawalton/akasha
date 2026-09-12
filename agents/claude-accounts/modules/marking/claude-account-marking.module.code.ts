@@ -8,13 +8,13 @@ import type { PageOf } from "akasha/pages/indexes/modules/answering/index-answer
 import { typeSlugOf } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import {
+  dropUncommitted,
+  mergeUncommitted,
+} from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
+import {
   type Carried,
   propertiesOf,
 } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
-import {
-  dropUncommitted,
-  mergeUncommitted,
-} from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
 import { z } from "zod"

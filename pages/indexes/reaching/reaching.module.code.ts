@@ -11,13 +11,13 @@ import {
 } from "akasha/pages/modules/address/page-address.module.code.ts"
 import type { Rowed, Rowing } from "akasha/pages/modules/entries/page-entries.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
-import { propertiesIfNamedOf } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 import {
   slugOf,
   slugsIn,
   textAt,
   type Value,
-} from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import { propertiesIfNamedOf } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
 
 const RECORD = "record-property"

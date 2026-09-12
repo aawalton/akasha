@@ -1,6 +1,6 @@
 import type { Answer as Said } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { closing, opening, type Taken } from "akasha/checks/modules/cost/check-cost.module.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const MAX_CPU = "maxCpuSeconds"
 

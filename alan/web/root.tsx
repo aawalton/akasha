@@ -7,7 +7,7 @@ import { guardedRootData } from "akasha/alan/harness/supabase-rr/root-loader/roo
 import { isNativeShell } from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
 import { createNativeFsContentPersistence } from "akasha/alan/web/modules/content-pages-fs/content-pages-fs.module.code.ts"
 import { readLocalPosition } from "akasha/alan/web/modules/offline-text/offline-text.module.code.ts"
-import { createNativeFsPagesPersistence } from "akasha/alan/web/pages-persistence-fs/pages-persistence-fs.module.code.ts"
+import { createNativeFsPagesPersistence } from "akasha/alan/web/modules/pages-persistence-fs/pages-persistence-fs.module.code.ts"
 import { fontPreloading } from "akasha/code/router-apps/modules/font-preload/font-preload.module.code.ts"
 import { CommandPalette } from "akasha/design/interfaces/primitives/modules/command-palette/command-palette.module.code.tsx"
 import { ShortcutSheet } from "akasha/design/interfaces/primitives/shortcut-sheet/shortcut-sheet.module.code.tsx"

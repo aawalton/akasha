@@ -1,5 +1,5 @@
 import type { DeletePageArgs } from "akasha/pages/access/modules/deleting/deleting.module.code.ts"
-import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import type { Page } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 import { runOptimisticMutation } from "akasha/pages/ui/supabase/mutations/modules/apply-prediction/apply-prediction.module.code.ts"
 import { extractTargetIds } from "akasha/pages/ui/supabase/mutations/modules/extract-target-ids/extract-target-ids.module.code.ts"
 import type { PagesMutationPlan } from "akasha/pages/ui-store/optimistic/plan/plan.module.code.ts"

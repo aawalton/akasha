@@ -11,12 +11,12 @@ import { ToggleSection } from "akasha/pages/ui/components/modules/page-detail-se
 import {
   PageTable,
   PageTableRowCells,
-} from "akasha/pages/ui/components/page-table/page-table.module.code.tsx"
-import { TITLE_COLUMN_ID } from "akasha/pages/ui/components/page-table-shared/page-table-shared.module.code.ts"
-import { withColumnWidths } from "akasha/pages/ui/components/page-table-widths/page-table-widths.module.code.ts"
+} from "akasha/pages/ui/components/modules/page-table/page-table.module.code.tsx"
+import { TITLE_COLUMN_ID } from "akasha/pages/ui/components/modules/page-table-shared/page-table-shared.module.code.ts"
+import { withColumnWidths } from "akasha/pages/ui/components/modules/page-table-widths/page-table-widths.module.code.ts"
 import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
-import { SupabasePageResolverProvider } from "akasha/pages/ui/supabase/page-resolver-provider/page-resolver-provider.module.code.tsx"
-import type { PageWithProperties } from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
+import { SupabasePageResolverProvider } from "akasha/pages/ui/supabase/modules/page-resolver-provider/page-resolver-provider.module.code.tsx"
+import type { PageWithProperties } from "akasha/pages/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import {
   type Subpage,
   useSubpages,
@@ -25,7 +25,7 @@ import { buildPageHref } from "akasha/pages/url/modules/page-href/page-href.modu
 import {
   type PageTypeSlug,
   toPageTypeSlug,
-} from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
+} from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useMemo } from "react"
 
 const SUBPAGE_VISIBLE_PROPERTIES: readonly string[] = [TITLE_COLUMN_ID]

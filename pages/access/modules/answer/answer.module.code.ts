@@ -4,11 +4,11 @@ import {
 } from "akasha/pages/access/modules/file-backed-roster/file-backed-roster.module.code.ts"
 import { valuedRows } from "akasha/pages/access/modules/file-read/file-read.module.code.ts"
 import { buildRawPageRows } from "akasha/pages/access/modules/file-rows/file-rows.module.code.ts"
-import { getPageTypeBySlug } from "akasha/pages/access/page-type/page-type.module.code.ts"
+import { getPageTypeBySlug } from "akasha/pages/access/modules/page-type/page-type.module.code.ts"
 import {
   getPropertyDefinitions,
   type PropertyDefinition,
-} from "akasha/pages/access/page-type-config/page-type-config.module.code.ts"
+} from "akasha/pages/access/modules/page-type-config/page-type-config.module.code.ts"
 import type { RawPageRow } from "akasha/pages/access/raw-page-row/raw-page-row.module.code.ts"
 import type { Asked } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
 import { askingFor } from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"

@@ -1,8 +1,8 @@
 import { streamPages } from "akasha/pages/access/modules/iterate/iterate.module.code.ts"
-import { getSequenceConfig } from "akasha/pages/access/page-type-config/page-type-config.module.code.ts"
+import { getSequenceConfig } from "akasha/pages/access/modules/page-type-config/page-type-config.module.code.ts"
 import { applySelect } from "akasha/pages/access/routing-core/routing-core.module.code.ts"
 import type { PageSelect } from "akasha/pages/access/types/types.module.code.ts"
-import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import type { Page } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 import type { SequenceConfig } from "akasha/pages/core/schema/sequence-config/sequence-config.module.code.ts"
 import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
 

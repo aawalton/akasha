@@ -12,11 +12,11 @@ import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.mod
 import { resolveRoots } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { entriesIn } from "akasha/pages/modules/entries/page-entries.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import {
   composedFor,
   type Put,
 } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { camelizeKey } from "akasha/utils/slug/modules/camelize-key/camelize-key.module.code.ts"
 
 export type Values = Readonly<Record<string, unknown>>

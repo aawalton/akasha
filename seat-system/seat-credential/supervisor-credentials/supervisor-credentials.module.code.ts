@@ -14,7 +14,7 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import type { ProxyAdoptionRuleSource } from "akasha/seat-system/oauth-proxy/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.code.ts"
 import {
   type SupervisorOAuthProxyHandle,

@@ -4,7 +4,7 @@ import * as path from "node:path"
 import {
   colorNamed,
   PALETTE_NAMES,
-} from "akasha/code/editor/extension/palette/palette.module.code.ts"
+} from "akasha/code/editor/extension/modules/palette/palette.module.code.ts"
 import {
   COLOR_ID_PREFIX,
   turnColorIn,

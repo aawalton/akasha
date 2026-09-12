@@ -7,7 +7,7 @@ import {
 } from "akasha/changes/modules/target-kinding/target-kinding.module.code.ts"
 import { insertedInto } from "akasha/code/value-inserting/value-inserting.module.code.ts"
 import { uuidVersion7 } from "akasha/pages/ids/uuid-version-7/uuid-version-7.module.code.ts"
-import { loadedFrom } from "akasha/pages/value/page-value.module.code.ts"
+import { loadedFrom } from "akasha/pages/modules/value/page-value.module.code.ts"
 
 const AUTO = "auto"
 

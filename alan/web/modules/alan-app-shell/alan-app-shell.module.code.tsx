@@ -22,7 +22,7 @@ import type { AppNavConfig } from "akasha/design/interfaces/layout/modules/nav-t
 import { useSidebarState } from "akasha/design/interfaces/layout/use-sidebar-state/use-sidebar-state.module.code.ts"
 import { createPage } from "akasha/pages/access/modules/create/create.module.code.ts"
 import { NEVER_MATCH_SLUG } from "akasha/pages/access/sentinels/sentinels.module.code.ts"
-import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import type { ReadonlyJSONValue } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import { CreatePageDialog } from "akasha/pages/ui/components/modules/create-page-dialog/create-page-dialog.module.code.tsx"
 import { useActiveQuickAddPageType } from "akasha/pages/ui/components/quick-add/use-active-quick-add-page-type/use-active-quick-add-page-type.module.code.ts"
 import { SortableNavs } from "akasha/pages/ui/components/sortable-navs/sortable-navs.module.code.tsx"

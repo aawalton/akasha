@@ -8,16 +8,16 @@ import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.mod
 import { shapesAt } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import {
-  typeSlugsIn,
-  typesAmong,
-  typeValuesIn,
-} from "akasha/pages/types/gathering/page-type-gathering.module.code.ts"
-import {
   slugAt,
   slugsIn,
   textAt,
   type Value,
-} from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  typeSlugsIn,
+  typesAmong,
+  typeValuesIn,
+} from "akasha/pages/types/modules/gathering/page-type-gathering.module.code.ts"
 
 const ENDING = ".jsonl"
 

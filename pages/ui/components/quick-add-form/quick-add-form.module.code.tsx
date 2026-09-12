@@ -11,7 +11,7 @@ import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/
 import { Textarea } from "akasha/design/interfaces/primitives/textarea/textarea.module.code.tsx"
 import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import type { PropertyValue } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
-import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import type { ReadonlyJSONValue } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import type { QuickAddConfig } from "akasha/pages/core/schema/quick-add/quick-add.module.code.ts"
 import { computeQuickAddPayload } from "akasha/pages/ui/components/quick-add/modules/compute-quick-add-payload/compute-quick-add-payload.module.code.ts"
 import { parseInlineTokens } from "akasha/pages/ui/components/quick-add/parse-inline-tokens/parse-inline-tokens.module.code.ts"
@@ -20,7 +20,7 @@ import {
   useInlineCompletion,
 } from "akasha/pages/ui/components/quick-add/use-inline-completion/use-inline-completion.module.code.ts"
 import { SelectPropertyBadge } from "akasha/pages/ui/components/select-property-badge/select-property-badge.module.code.tsx"
-import type { PageWithProperties } from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
+import type { PageWithProperties } from "akasha/pages/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import { useMemo, useRef, useState } from "react"
 
 export interface QuickAddFormProps {

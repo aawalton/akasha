@@ -1,4 +1,4 @@
-import { asPage, type Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import { asPage, type Page } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 import type { ComposedQuery } from "akasha/pages/query/store-questioning/store-questioning.module.code.ts"
 import { askComposed } from "akasha/pages/query/store-spelled-asking/store-spelled-asking.module.code.ts"
 import { z } from "zod"

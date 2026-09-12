@@ -15,6 +15,7 @@ import {
   shapeAdded,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
+import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import { NOT_WORKED_OUT, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
   aChange,
@@ -42,7 +43,6 @@ import {
   UNFILED_AT,
   unfiled,
 } from "akasha/pages/shadow/shadow.module.test-fixtures.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 
 afterAll(scratch.sweep)

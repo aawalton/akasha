@@ -5,7 +5,7 @@ import type {
   PropertyTypeOps,
   PropertyValue,
 } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
-import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import type { ReadonlyJSONValue } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
 
 function isFiniteNonNegativeNumber(value: unknown): value is number {

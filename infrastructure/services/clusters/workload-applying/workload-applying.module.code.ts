@@ -26,8 +26,8 @@ import {
   writeManifests,
 } from "akasha/infrastructure/services/clusters/workload-deploying/workload-deploying.module.code.ts"
 import { slugsOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
+import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const MANIFEST = "manifest"
 const NEEDS = ["resourceKind", "namespace", "resourceName", MANIFEST]

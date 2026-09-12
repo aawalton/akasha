@@ -23,8 +23,8 @@ import { settlingOver } from "akasha/pages/indexes/modules/settling/index-settli
 import { readingAt } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import { shapesAt } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
 import { pathsRead, readerAt, ruleWhole } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
+import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import { id as idPage } from "akasha/pages/properties/id.text-property.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { everyFileUnder } from "akasha/testing-system/walking/walking.module.code.ts"
 
 export const A = idOf("a")

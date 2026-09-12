@@ -3,7 +3,7 @@ import type {
   PageDataJSON,
   PropertyDefinition,
 } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
-import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import type { Page } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 import type { CreateSelectOptionEffect } from "akasha/pages/ui/modules/option-create-context/option-create-context.module.code.tsx"
 import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
 

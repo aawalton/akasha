@@ -17,7 +17,7 @@ import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.mod
 import { readingOf } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import { pathsOf, under } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 import { carryingOf } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const MANIFEST = "manifest"
 

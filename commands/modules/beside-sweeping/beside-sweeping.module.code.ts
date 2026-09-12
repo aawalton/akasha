@@ -12,7 +12,7 @@ import {
   sidecarsOver,
 } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 import { uncommittedHeld } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 export type PageOf = (at: string) => Value | null
 

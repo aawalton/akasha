@@ -2,16 +2,16 @@
 
 import { getPages } from "akasha/pages/access/modules/get/get.module.code.ts"
 import { NEVER_MATCH_VALUE } from "akasha/pages/access/sentinels/sentinels.module.code.ts"
-import type { PageWhere } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import type { PageWhere } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 import { useQuery } from "akasha/pages/ui/cache/use-query/use-query.module.code.ts"
 import { composeContentTierPage } from "akasha/pages/ui/supabase/modules/compose-content-tier-page/compose-content-tier-page.module.code.ts"
 import {
   type PageWithProperties,
   toPageWithProperties,
-} from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
+} from "akasha/pages/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import { FILE_BACKING_POLL_MS } from "akasha/pages/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts"
 import { getContentPersistence } from "akasha/pages/ui-store/singleton/singleton.module.code.ts"
-import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
+import type { PageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useEffect, useMemo, useRef, useState } from "react"
 
 export function usePage({

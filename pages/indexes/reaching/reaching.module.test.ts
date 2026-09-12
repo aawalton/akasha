@@ -22,7 +22,7 @@ import {
   reaches,
   type Shaped,
 } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 
 afterAll(scratch.sweep)
 

@@ -4,6 +4,7 @@ import {
   shapeAdded,
   typeListed,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import {
   type Carried,
   declarationsOf,
@@ -11,7 +12,6 @@ import {
   propertiesOf,
   sourceIn,
 } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 export const scratch = scratchWorld()

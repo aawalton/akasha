@@ -5,7 +5,7 @@ import type {
   PropertyTypeOps,
   PropertyValue,
 } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
-import { parseConfig } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import { parseConfig } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import {
   type NumberFormat,
   numberConfigSchema,

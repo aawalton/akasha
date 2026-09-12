@@ -1,4 +1,4 @@
-import type { PageCondition } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import type { PageCondition } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 
 export function personaCondition(persona: string): PageCondition {
   return { key: "persona", eq: persona }

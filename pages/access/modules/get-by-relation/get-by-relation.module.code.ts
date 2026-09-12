@@ -3,7 +3,10 @@ import {
   getFilePagesByRelation,
 } from "akasha/pages/access/modules/file-relation/file-relation.module.code.ts"
 import type { PageSelect } from "akasha/pages/access/types/types.module.code.ts"
-import type { Page, PageWhere } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import type {
+  Page,
+  PageWhere,
+} from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 
 export type GetPagesByRelationArgs = {
   relationKey: string

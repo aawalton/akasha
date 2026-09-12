@@ -4,7 +4,7 @@ import {
   typeSlugOf,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import { textIn } from "akasha/utils/narrow/text-in/text-in.module.code.ts"
 
 const INITIATIVE_TYPE = "01a04e58-5735-72b4-b945-56366461c776"

@@ -17,8 +17,8 @@ import {
   partedIn,
   sectionedIn,
 } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import { kindsUnder } from "akasha/pages/types/modules/descent/page-type-descent.module.code.ts"
 
 const DECLARES = "page-property"
 

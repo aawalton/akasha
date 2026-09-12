@@ -2,14 +2,14 @@
 
 import { NEVER_MATCH_VALUE } from "akasha/pages/access/sentinels/sentinels.module.code.ts"
 import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
-import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import { parsePageTypeData } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import { resolveDefinitionOptions } from "akasha/pages/core/schema/resolve-select-options/resolve-select-options.module.code.ts"
 import type { ViewFilter } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import { buildBaseConditions } from "akasha/pages/ui/components/modules/base-conditions/base-conditions.module.code.ts"
 import { buildServerGroupedSections } from "akasha/pages/ui/components/modules/build-server-grouped-sections/build-server-grouped-sections.module.code.ts"
 import { buildFlatQueryArgs } from "akasha/pages/ui/components/modules/flat-query-args/flat-query-args.module.code.ts"
 import { toPageDataRecord } from "akasha/pages/ui/components/modules/page-data-json/page-data-json.module.code.ts"
-import type { ServerGroupedSection } from "akasha/pages/ui/components/page-system-tab-content-props/page-system-tab-content-props.module.code.ts"
+import type { ServerGroupedSection } from "akasha/pages/ui/components/modules/page-system-tab-content-props/page-system-tab-content-props.module.code.ts"
 import {
   buildBaseFilters,
   buildSyntheticConfig,
@@ -24,9 +24,9 @@ import {
   useRelatedPages,
 } from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { usePageViewQuery } from "akasha/pages/ui/supabase/modules/hooks-view-query/hooks-view-query.module.code.ts"
-import type { PageWithProperties } from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
+import type { PageWithProperties } from "akasha/pages/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import { useOptionListLookup } from "akasha/pages/ui/supabase/use-option-list-lookup/use-option-list-lookup.module.code.ts"
-import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
+import type { PageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useMemo } from "react"
 
 const PAGE_TYPE_SLUG = "page-type"

@@ -13,12 +13,12 @@ import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.cod
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
-import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import { parsePageTypeData } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import { expandDateMentions } from "akasha/pages/core/view/modules/expand-date-mentions/expand-date-mentions.module.code.ts"
 import { DegradingImage } from "akasha/pages/ui/components/modules/degrading-image/degrading-image.module.code.tsx"
 import { toPageDataJSON } from "akasha/pages/ui/components/modules/page-data-json/page-data-json.module.code.ts"
 import { PageDetailHeaderMenu } from "akasha/pages/ui/components/modules/page-detail-header-menu/page-detail-header-menu.module.code.tsx"
-import { PagesFilteredContent } from "akasha/pages/ui/components/pages-by-relation-content/pages-by-relation-content.module.code.tsx"
+import { PagesFilteredContent } from "akasha/pages/ui/components/modules/pages-by-relation-content/pages-by-relation-content.module.code.tsx"
 import { PropertyBadge } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
 import { PagesUILink } from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { useAllPages } from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
@@ -27,7 +27,7 @@ import { usePage } from "akasha/pages/ui/supabase/use-page/use-page.module.code.
 import {
   type PageTypeSlug,
   toPageTypeSlug,
-} from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
+} from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 
 const PAGE_TYPE_SLUG = "page-type"
 

@@ -6,7 +6,7 @@ import {
   accountBesideIn,
   everyAccountIn,
 } from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const ACCESS_TOKEN_EXPIRES_AT = "accessTokenExpiresAt"

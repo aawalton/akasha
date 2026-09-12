@@ -9,7 +9,7 @@ import {
   DISPLAY_PARAM,
   parseDisplayMode,
 } from "akasha/pages/url/modules/page-display-mode/page-display-mode.module.code.ts"
-import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
+import { toPageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { lazy, type ReactElement, Suspense } from "react"
 import {
   type MetaDescriptor,

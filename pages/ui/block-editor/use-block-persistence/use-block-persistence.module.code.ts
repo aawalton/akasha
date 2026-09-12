@@ -7,7 +7,7 @@ import {
   type EditorOp,
   normalizeRichDocument,
 } from "akasha/pages/core/property-types/rich-document-ops/rich-document-ops.module.code.ts"
-import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import type { ReadonlyJSONValue } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import {
   createSaveQueue,
   type SaveQueue,

@@ -8,8 +8,8 @@ import { pageSecretShow as page } from "akasha/commands/pages/page/secret/show/p
 import {
   caught,
   targeting,
-} from "akasha/pages/commands/page-secret-acting/page-secret-acting.module.code.ts"
-import { secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
+} from "akasha/pages/commands/modules/page-secret-acting/page-secret-acting.module.code.ts"
+import { secretsIn } from "akasha/pages/modules/secret/page-secret.module.code.ts"
 
 export async function pageSecretShow(argv: readonly string[], given: Given): Promise<Answer> {
   return await caught(() => {

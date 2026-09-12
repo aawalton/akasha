@@ -1,6 +1,6 @@
 import { beforeEach, describe, expect, mock, test } from "bun:test"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { asPage, type Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import { asPage, type Page } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import { sha256Hex } from "akasha/utils/hashing/sha256-hex/sha256-hex.module.code.ts"
 

@@ -7,7 +7,7 @@ import {
   refusalsOver,
   routesOf,
 } from "akasha/checks/code-checks/pages/client-reaches-a-server-module-through-a-route/client-reaches-a-server-module-through-a-route.code-check.decision.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const PAGE = "hum/hum.router-app.ts"
 

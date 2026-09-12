@@ -10,7 +10,7 @@ import {
   asPageRowList,
   attributesOf,
   type PageRow,
-} from "akasha/pages/ui-store/collection/page-row/page-row.module.code.ts"
+} from "akasha/pages/ui-store/collection/modules/page-row/page-row.module.code.ts"
 import { conditionMatches } from "akasha/pages/ui-store/query/modules/condition-eval/condition-eval.module.code.ts"
 import {
   type BoolExpr,

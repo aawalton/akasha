@@ -45,8 +45,11 @@ import {
   heldIn,
   partedIn,
 } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import {
+  textAt,
+  textsAt,
+} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
-import { textAt, textsAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const TS = "ts"
 

@@ -7,7 +7,7 @@ import {
 import { shapeOf } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
 import { addressedIn, addressIn } from "akasha/pages/modules/address/page-address.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 const CODE_FILE = "code-file-property/"

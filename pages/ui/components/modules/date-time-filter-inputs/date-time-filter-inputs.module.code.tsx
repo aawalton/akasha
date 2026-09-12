@@ -13,7 +13,7 @@ import {
   RELATIVE_DIRECTION_OPTIONS,
   RELATIVE_UNIT_OPTIONS,
 } from "akasha/pages/core/property-types/modules/date-sentinels/date-sentinels.module.code.ts"
-import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import type { ReadonlyJSONValue } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import {
   betweenDateToJson,
   betweenInstantToJson,

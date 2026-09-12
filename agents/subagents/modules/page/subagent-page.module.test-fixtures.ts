@@ -10,7 +10,7 @@ import {
   refreshedIn,
   valueTakenFrom,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import type { Went } from "akasha/seat-system/subagents/landing-again/subagent-landing-again.module.code.ts"
 import { slugOf } from "akasha/seat-system/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
 import { took } from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"

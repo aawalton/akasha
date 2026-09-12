@@ -1,4 +1,4 @@
-import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import type { ReadonlyJSONValue } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import type { QuickAddConfig } from "akasha/pages/core/schema/quick-add/quick-add.module.code.ts"
 
 function toJSONValue(v: unknown): ReadonlyJSONValue {

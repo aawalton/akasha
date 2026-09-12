@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
-import { asPage } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import type { Page } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
+import { asPage } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 import type { CompanionBuildsSurroundings } from "akasha/temper/watcher/watcher-export-companion-builds/watcher-export-companion-builds.module.code.ts"
 import {
   readTargetBuilds,

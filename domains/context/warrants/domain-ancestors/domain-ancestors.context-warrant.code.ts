@@ -14,8 +14,8 @@ import {
   listedFor,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { addressedIn } from "akasha/pages/modules/address/page-address.module.code.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
+import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 export const ABOVE =
   "A seat answers for one domain, and every domain that one is a part of is read before the seat is changed."

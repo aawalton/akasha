@@ -9,7 +9,7 @@ import {
   watchedIn,
 } from "akasha/infrastructure/services/workstations/service-health/service-health.module.code.ts"
 import type { Started } from "akasha/infrastructure/services/workstations/unit-writing/unit-writing.module.code.ts"
-import { keepUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
+import { keepUncommitted } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 
 const BASE = {
   id: "01a05a51-0000-7000-8000-00000000000d",

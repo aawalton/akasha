@@ -21,7 +21,7 @@ import {
 } from "akasha/pages/ui/components/view-tab-content-href/view-tab-content-href.module.code.ts"
 import { getCoverClickHandler } from "akasha/pages/ui/cover-click/modules/cover-click-registry/cover-click-registry.module.code.ts"
 import { getCoverMask } from "akasha/pages/ui/cover-click/modules/cover-mask-registry/cover-mask-registry.module.code.ts"
-import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
+import type { PageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 
 interface PageCardRendererProps {
   page: PageRow

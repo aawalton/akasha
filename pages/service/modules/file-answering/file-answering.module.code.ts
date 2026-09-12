@@ -1,9 +1,9 @@
 import { FILE_PROPERTY } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { bytesAt } from "akasha/pages/modules/file-body/page-file-body.module.code.ts"
+import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
+import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { carriedFor } from "akasha/pages/service/modules/kinds-gathering/kinds-gathering.module.code.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 export type Named = {
   readonly pageTypeSlug: string

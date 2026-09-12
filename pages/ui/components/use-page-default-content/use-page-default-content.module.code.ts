@@ -5,7 +5,7 @@ import type { IconName } from "akasha/pages/core/generated/modules/icon-search-i
 import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import { computeAggregatesForPage } from "akasha/pages/core/property-types/modules/aggregate/aggregate.module.code.ts"
 import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
-import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import { parsePageTypeData } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import { resolveDefinitionOptions } from "akasha/pages/core/schema/resolve-select-options/resolve-select-options.module.code.ts"
 import { createOptionOnDefinition } from "akasha/pages/ui/components/modules/create-option/create-option.module.code.ts"
 import {
@@ -32,7 +32,7 @@ import { buildPageHref } from "akasha/pages/url/modules/page-href/page-href.modu
 import {
   type PageTypeSlug,
   toPageTypeSlug,
-} from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
+} from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useCallback, useMemo } from "react"
 
 export function usePageDefaultContent({

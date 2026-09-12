@@ -16,19 +16,19 @@ import {
   getPageByIdSuffixAcrossTypes,
   getPages,
 } from "akasha/pages/access/modules/get/get.module.code.ts"
-import { getDescendantPageTypeSlugs } from "akasha/pages/access/page-type/page-type.module.code.ts"
+import { getDescendantPageTypeSlugs } from "akasha/pages/access/modules/page-type/page-type.module.code.ts"
 import {
   getMediaConfig,
   getPropertyDefinitions,
   getSequenceConfig,
-} from "akasha/pages/access/page-type-config/page-type-config.module.code.ts"
+} from "akasha/pages/access/modules/page-type-config/page-type-config.module.code.ts"
 import type { ReaderNeighborLink } from "akasha/pages/ui/components/reader-chrome/reader-chrome.module.code.tsx"
 import type { MediaVariant } from "akasha/pages/ui/media/modules/page-media-player/page-media-player.module.code.tsx"
 import {
   buildPageHref,
   parsePageHrefParam,
 } from "akasha/pages/url/modules/page-href/page-href.module.code.ts"
-import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
+import { toPageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
 import { data, type LoaderFunctionArgs } from "react-router"
 import { z } from "zod"
