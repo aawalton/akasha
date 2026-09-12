@@ -7,9 +7,7 @@ export const musicQueue = {
   definition: "the command playing the first of a set of tracks and queueing the rest behind it",
   code: "ts",
   test: "ts",
-  taking: [
-    { said: "<query>...", takes: "one or more track queries, in the order they are played" },
-  ],
+  taking: [],
 
   invariants: [
     {
@@ -46,5 +44,6 @@ export const musicQueue = {
     { argument: "argument/json" },
     { argument: "argument/artist" },
     { argument: "argument/device-id" },
+    { argument: "argument/queries", required: true, saidAs: "word" },
   ],
 } as const satisfies Command
