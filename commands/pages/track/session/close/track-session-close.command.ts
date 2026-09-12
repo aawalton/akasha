@@ -6,6 +6,7 @@ export const trackSessionClose = {
   slug: "track-session-close",
   definition: "the command ending the open stretch of a day",
   code: "ts",
+  test: "ts",
 
   invariants: [
     {
