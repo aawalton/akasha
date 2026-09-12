@@ -8,11 +8,7 @@ export const changeList = {
   code: "ts",
   test: "ts",
   changeKind: "change-authored",
-  helpNotes: [
-    "a list names the edits kept beside this agent's own page, and takes no word naming anything else.",
-    "a list takes nothing piped in.",
-    "a list changes nothing, so a list over the same edits twice says the same thing twice.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
@@ -56,7 +52,7 @@ export const changeList = {
     },
     {
       invariantKind: "departure",
-      statement: "The help flag reaches this command's own help notes.",
+      statement: "The help flag reaches this command's own help rather than the namespace's.",
     },
   ],
   name: "list",
