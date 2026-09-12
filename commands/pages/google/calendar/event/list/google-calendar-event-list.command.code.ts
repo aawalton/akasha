@@ -15,7 +15,7 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 
 const WANTED: Wanted = { takes: [CALENDAR, FROM, TO, QUERY, MAX], needs: [], inPlace: false }
 
-export function googleCalendarEventsList(argv: readonly string[], given: Given): Promise<Answer> {
+export function googleCalendarEventList(argv: readonly string[], given: Given): Promise<Answer> {
   return answeredBy(readIn(argv, WANTED), given.calledAs, async ({ said }) =>
     (await eventsIn()).listEvents(await asAkasha(), {
       calendarId: said.get(CALENDAR),
