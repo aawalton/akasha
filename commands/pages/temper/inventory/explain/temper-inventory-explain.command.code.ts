@@ -1,5 +1,11 @@
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
+import {
+  DATA,
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -28,12 +34,6 @@ import type {
 } from "akasha/temper/items-rules-eval/eval-result/eval-result.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
 import { wholeNumberIn } from "akasha/utils/narrow/whole-number-in/whole-number-in.module.code.ts"
-
-const INPUT = 1
-
-const DATA = 2
-
-const OPERATIONAL = 3
 
 const INVENTORY_PATH = "--inventory-path"
 
@@ -305,6 +305,6 @@ export async function temperInventoryExplain(
     return refused(whyOf(thrown), OPERATIONAL)
   }
 
-  if (read.json) return { report: [JSON.stringify(out)], refusals: [], code: 0 }
-  return { report: formatExplainWalk(out).replace(/\n+$/, "").split("\n"), refusals: [], code: 0 }
+  if (read.json) return { report: [JSON.stringify(out)], refusals: [], code: OK }
+  return { report: formatExplainWalk(out).replace(/\n+$/, "").split("\n"), refusals: [], code: OK }
 }
