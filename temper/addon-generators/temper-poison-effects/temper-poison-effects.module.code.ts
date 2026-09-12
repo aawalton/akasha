@@ -1,4 +1,5 @@
 import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { z } from "zod"
 
 const METRIC_EFFECT_SCHEMA = z
@@ -114,7 +115,7 @@ export function generateTemperPoisonEffects(rows: readonly Page[]): string {
  * ESO alchemy poison/potion effects sourced from the universal pages
  * table (page type: temper-poison-effect).
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 import type { PoisonEffect } from "../poison-effect-registry"

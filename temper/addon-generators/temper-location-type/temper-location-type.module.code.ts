@@ -1,4 +1,5 @@
 import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { z } from "zod"
 
 const LOCATION_TYPE_EAV_SCHEMA = z
@@ -48,7 +49,7 @@ export function generateTemperLocationType(rows: readonly Page[]): string {
  * ESO inventory location categories sourced from the universal pages table
  * (page type: temper-location-type).
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 import { createDataFile } from "@akasha/utils/narrow/create-data-file"
