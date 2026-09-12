@@ -17,6 +17,7 @@ import {
   readerText,
   reading,
   rooted,
+  SPELLED,
   scratch,
 } from "akasha/checks/code-checks/pages/no-unused-exports/no-unused-exports.code-check.decision.test-fixtures.ts"
 import { judgingBy, landing } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
@@ -61,6 +62,18 @@ test("a tag a browser draws itself names no value the file exports", () => {
 
 test("the names an importer takes from one file are read off its import", () => {
   expect(takenFrom(READER, readerText("held"), AT)).toEqual(["held"])
+})
+
+test("a file naming another in an import expression takes every name that file exports", () => {
+  const text = `export type Every = typeof import("${SPELLED}")\n`
+
+  expect(takenFrom(READER, text, AT)).toEqual(["*"])
+})
+
+test("an import expression naming another file takes nothing from this one", () => {
+  const text = 'export type Every = typeof import("akasha/elsewhere.module.code.ts")\n'
+
+  expect(takenFrom(READER, text, AT)).toEqual([])
 })
 
 test("an import of another file names nothing taken from this one", () => {

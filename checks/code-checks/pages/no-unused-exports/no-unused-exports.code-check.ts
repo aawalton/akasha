@@ -28,7 +28,8 @@ export const noUnusedExports = {
     },
     {
       invariantKind: "departure",
-      statement: "An import taking every name a file exports leaves that file unrefused.",
+      statement:
+        "An import or import expression taking every name a file exports leaves that file unrefused.",
     },
     {
       invariantKind: "departure",

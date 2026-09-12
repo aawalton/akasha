@@ -23,6 +23,8 @@ const DEFAULT = "default"
 
 const INTRINSIC = /^[a-z]/
 
+const WHOLE = "import("
+
 function toldApart(name: string): boolean {
   return name !== ANYTHING && name !== DEFAULT
 }
@@ -33,9 +35,36 @@ export function namesToldIn(path: string, text: string): readonly string[] | nul
   return found.filter(toldApart)
 }
 
+function spelledBy(node: ts.Node): string | null {
+  if (ts.isImportTypeNode(node)) {
+    const said = node.argument
+    if (ts.isLiteralTypeNode(said) && ts.isStringLiteral(said.literal)) return said.literal.text
+    return null
+  }
+  if (ts.isCallExpression(node) && node.expression.kind === ts.SyntaxKind.ImportKeyword) {
+    const said = node.arguments[0]
+    return said !== undefined && ts.isStringLiteral(said) ? said.text : null
+  }
+  return null
+}
+
+function wholeOf(path: string, source: ts.SourceFile, target: string): boolean {
+  let every = false
+  const walk = (node: ts.Node): undefined => {
+    const spelled = spelledBy(node)
+    if (spelled !== null && landingOf(path, spelled) === target) every = true
+    ts.forEachChild(node, walk)
+    return undefined
+  }
+  walk(source)
+  return every
+}
+
 export function takenFrom(path: string, text: string, target: string): readonly string[] {
+  const source = parsedAs(path, text)
+  if (text.includes(WHOLE) && wholeOf(path, source, target)) return [ANYTHING]
   const found: string[] = []
-  for (const statement of parsedAs(path, text).statements) {
+  for (const statement of source.statements) {
     if (!ts.isImportDeclaration(statement)) continue
     const named = statement.moduleSpecifier
     if (!ts.isStringLiteral(named)) continue
