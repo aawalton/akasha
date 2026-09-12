@@ -4,7 +4,6 @@ import {
   listingOf,
   partsOf,
   slugOfPart,
-  underOf,
 } from "akasha/commands/modules/namespace-listing/namespace-listing.module.code.ts"
 
 const HELP = "--help"
@@ -20,23 +19,6 @@ test("the parts a page names are read off it, and anything else is not", () => {
 test("the page type a part names is dropped", () => {
   expect(slugOfPart("command/track-session-open")).toBe("track-session-open")
   expect(slugOfPart("track-session-open")).toBe("track-session-open")
-})
-
-test("a part is named by the words past the namespace holding it", () => {
-  expect(underOf("track", "command/track-health-import")).toBe("health-import")
-  expect(underOf("track-session", "command/track-session-open")).toBe("open")
-  expect(underOf("track", "namespace/track-session")).toBe("session")
-})
-
-test("a part opening with another name than its namespace's is named nowhere", () => {
-  expect(underOf("track", "command/music-play")).toBe(null)
-  expect(underOf("track", "command/track")).toBe(null)
-  expect(underOf("track", "command/tracking")).toBe(null)
-})
-
-test("a part keeps the hyphens its own name has", () => {
-  expect(underOf("track", "command/track-health-import")).toBe("health-import")
-  expect(underOf("claude-account", "command/claude-account-re-enable")).toBe("re-enable")
 })
 
 const HELD: readonly Held[] = [

@@ -10,20 +10,15 @@ export const namespaceListing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A part is listed by the words past the name of the namespace with it.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A part whose slug opens with another name than its namespace's is listed nowhere.",
+      statement: "A part is listed under the name handed for the namespace with it.",
     },
     {
       invariantKind: "departure",
       statement: "The page type a part names is dropped.",
     },
     {
-      invariantKind: "departure",
-      statement: "A part's name keeps the hyphens that name has.",
+      invariantKind: "absence",
+      statement: "Nothing here works a part's own name out of that part's slug.",
     },
     {
       invariantKind: "departure",

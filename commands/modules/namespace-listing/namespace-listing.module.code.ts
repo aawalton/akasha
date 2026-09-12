@@ -1,5 +1,3 @@
-const UNDER = "-"
-
 const SLASH = "/"
 
 const PARTS = "parts"
@@ -18,12 +16,6 @@ export function partsOf(page: Record<string, unknown> | null): readonly string[]
 export function slugOfPart(part: string): string {
   const at = part.indexOf(SLASH)
   return at === -1 ? part : part.slice(at + 1)
-}
-
-export function underOf(named: string, part: string): string | null {
-  const opens = `${named}${UNDER}`
-  const slug = slugOfPart(part)
-  return slug.startsWith(opens) ? slug.slice(opens.length) : null
 }
 
 export function widest(said: readonly string[]): number {
