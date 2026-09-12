@@ -216,6 +216,10 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
+      statement: "A fixture files the page type such a kind extends as a page type too.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A fixture files every field a shape carries rather than a chosen few.",
     },
     {

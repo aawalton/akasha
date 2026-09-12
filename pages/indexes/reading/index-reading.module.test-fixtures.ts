@@ -204,16 +204,24 @@ export function typeListed(root: string, slug: string, path?: string): string {
   return id
 }
 
+function typeValued(root: string, kind: string, above: readonly string[]): undefined {
+  const at = `akasha/${kind}.${PAGE_TYPE}.ts`
+  const id = typeListed(root, kind, at)
+  const value = { id, pageTypeSlug: PAGE_TYPE, slug: kind, extends: above }
+  valueAlsoFiled(root, PAGE_TYPE, [{ path: at, value }])
+}
+
 function kindFiled(root: string, kind: string): undefined {
   if (kind === PAGE_PROPERTY) return
   const held = KINDED.get(root) ?? new Set<string>()
   KINDED.set(root, held)
+  if (!held.has(PAGE_PROPERTY)) {
+    held.add(PAGE_PROPERTY)
+    typeValued(root, PAGE_PROPERTY, [])
+  }
   if (held.has(kind)) return
   held.add(kind)
-  const at = `akasha/${kind}.${PAGE_TYPE}.ts`
-  const id = typeListed(root, kind, at)
-  const value = { id, pageTypeSlug: PAGE_TYPE, slug: kind, extends: [PAGE_PROPERTY] }
-  valueAlsoFiled(root, PAGE_TYPE, [{ path: at, value }])
+  typeValued(root, kind, [PAGE_PROPERTY])
 }
 
 function shaping(pageTypeSlug: string, slug: string): Shape {
