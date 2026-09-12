@@ -1,4 +1,5 @@
 import { isValidSeatName } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
+import { SEAT_MODE_HEADLESS } from "akasha/agents/seats/modules/modes/seat-modes.module.code.ts"
 import {
   dataError,
   inputError,
@@ -23,7 +24,6 @@ import {
   refuseAnswering,
 } from "akasha/seat-system/seat-answering/seat-answering.module.code.ts"
 import { seatByName } from "akasha/seat-system/seat-by-name/seat-by-name.module.code.ts"
-import { SEAT_MODE_HEADLESS } from "akasha/seat-system/seat-modes/seat-modes.module.code.ts"
 import { mintNamedAgent } from "akasha/seat-system/seat-name-bind/seat-name-bind.module.code.ts"
 import { refuseHeldName } from "akasha/seat-system/seat-name-held-refusal/seat-name-held-refusal.module.code.ts"
 import { refuseParentless } from "akasha/seat-system/seat-parentless-refusal/seat-parentless-refusal.module.code.ts"

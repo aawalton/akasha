@@ -6,6 +6,12 @@ import {
 } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
 import { DEFAULT_ACCOUNT } from "akasha/agents/seats/modules/launching/seat-launching.module.code.ts"
 import {
+  isSeatMode,
+  SEAT_MODE_HEADLESS,
+  SEAT_MODE_INTERACTIVE,
+  SEAT_MODES,
+} from "akasha/agents/seats/modules/modes/seat-modes.module.code.ts"
+import {
   dataError,
   exitCodeForThrowable,
   inputError,
@@ -28,12 +34,6 @@ import {
   setRequestedAction,
   waitForActionCleared,
 } from "akasha/seat-system/seat-action/seat-action.module.code.ts"
-import {
-  isSeatMode,
-  SEAT_MODE_HEADLESS,
-  SEAT_MODE_INTERACTIVE,
-  SEAT_MODES,
-} from "akasha/seat-system/seat-modes/seat-modes.module.code.ts"
 import { sweepSupersededAgentTrees } from "akasha/seat-system/seat-recovery/seat-recovery.module.code.ts"
 import { HELP } from "akasha/seat-system/seat-resume-help/seat-resume-help.module.code.ts"
 import type { ReviveIoVerdict } from "akasha/seat-system/seat-revive-io-verify-decide/seat-revive-io-verify-decide.module.code.ts"

@@ -4,6 +4,12 @@ import {
 } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
 import { DEFAULT_ACCOUNT } from "akasha/agents/seats/modules/launching/seat-launching.module.code.ts"
 import {
+  isSeatMode,
+  SEAT_MODE_HEADLESS,
+  SEAT_MODE_INTERACTIVE,
+  SEAT_MODES,
+} from "akasha/agents/seats/modules/modes/seat-modes.module.code.ts"
+import {
   dataError,
   inputError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
@@ -27,12 +33,6 @@ import {
   refuseAnswering,
 } from "akasha/seat-system/seat-answering/seat-answering.module.code.ts"
 import { seatByName } from "akasha/seat-system/seat-by-name/seat-by-name.module.code.ts"
-import {
-  isSeatMode,
-  SEAT_MODE_HEADLESS,
-  SEAT_MODE_INTERACTIVE,
-  SEAT_MODES,
-} from "akasha/seat-system/seat-modes/seat-modes.module.code.ts"
 import { mintNamedAgent } from "akasha/seat-system/seat-name-bind/seat-name-bind.module.code.ts"
 import { refuseHeldName } from "akasha/seat-system/seat-name-held-refusal/seat-name-held-refusal.module.code.ts"
 import { refuseParentless } from "akasha/seat-system/seat-parentless-refusal/seat-parentless-refusal.module.code.ts"

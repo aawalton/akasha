@@ -8,7 +8,7 @@ import {
   SEAT_MODE_INTERACTIVE,
   SEAT_MODES,
   startModeOfRowLaunch,
-} from "akasha/seat-system/seat-modes/seat-modes.module.code.ts"
+} from "akasha/agents/seats/modules/modes/seat-modes.module.code.ts"
 
 test("a seat starts in one of two modes and no third", () => {
   expect(SEAT_MODES).toEqual([SEAT_MODE_INTERACTIVE, SEAT_MODE_HEADLESS])

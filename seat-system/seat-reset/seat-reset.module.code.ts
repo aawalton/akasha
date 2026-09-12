@@ -2,6 +2,10 @@ import { flexInName } from "akasha/agents/seats/modules/flex/seat-flex.module.co
 import { resolveSeatTargetCli } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
 import { DEFAULT_ACCOUNT } from "akasha/agents/seats/modules/launching/seat-launching.module.code.ts"
 import {
+  isSeatMode,
+  SEAT_MODE_HEADLESS,
+} from "akasha/agents/seats/modules/modes/seat-modes.module.code.ts"
+import {
   dataError,
   inputError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
@@ -15,10 +19,6 @@ import {
   killSeatSession,
   launchSeatUnderTmux,
 } from "akasha/seat-system/launch-seat-tmux/launch-seat-tmux.module.code.ts"
-import {
-  isSeatMode,
-  SEAT_MODE_HEADLESS,
-} from "akasha/seat-system/seat-modes/seat-modes.module.code.ts"
 import { mintNamedAgent } from "akasha/seat-system/seat-name-bind/seat-name-bind.module.code.ts"
 import {
   type SeatFromHistory,
