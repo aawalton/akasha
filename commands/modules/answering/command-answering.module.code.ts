@@ -56,6 +56,11 @@ export function unclassified(thrown: unknown, calledAs: string): Answer {
 
 const STOPPED = "this stopped part way. What it had done by then is this:"
 
+export function partWay(done: readonly string[]): readonly string[] {
+  if (done.length === 0) return []
+  return [`${STOPPED} ${done.join("; ")}. Nothing after that ran.`]
+}
+
 export async function answering(
   work: (done: string[]) => Answer | Promise<Answer>
 ): Promise<Answer> {
@@ -65,11 +70,7 @@ export async function answering(
   } catch (thrown) {
     const said = faulted(thrown)
     if (done.length === 0) return said
-    return {
-      report: done,
-      refusals: [...said.refusals, `${STOPPED} ${done.join("; ")}. Nothing after that ran.`],
-      code: said.code,
-    }
+    return { report: done, refusals: [...said.refusals, ...partWay(done)], code: said.code }
   }
 }
 

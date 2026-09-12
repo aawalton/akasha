@@ -14,11 +14,19 @@ import {
   INPUT,
   OK,
   OPERATIONAL,
+  partWay,
   refusedBy,
   told,
   UNCLASSIFIED,
   unclassified,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+
+test("what was done by then is named in one sentence", () => {
+  expect(partWay([])).toEqual([])
+  const said = partWay(["wrote /one.png", "wrote /two.png"])[0] as string
+  expect(said).toContain("stopped part way")
+  expect(said).toContain("wrote /one.png; wrote /two.png")
+})
 
 test("a refusal is the caller's mistake unless the caller names another code", () => {
   expect(refusedBy(["--app names a value"])).toEqual({

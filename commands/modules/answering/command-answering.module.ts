@@ -47,6 +47,11 @@ export const commandAnswering = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The sentence naming what that list holds is built here for every refusal to reach.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A word where a command takes flags alone is the caller's mistake.",
     },
     {
