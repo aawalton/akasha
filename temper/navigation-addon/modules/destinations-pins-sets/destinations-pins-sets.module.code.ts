@@ -1,5 +1,5 @@
-import { SetsTable } from "akasha/temper/navigation-addon/destinations-pins-stores/destinations-pins-stores.module.code.ts"
 import { getSettingsString } from "akasha/temper/navigation-addon/modules/destinations-lang-strings/destinations-lang-strings.module.code.ts"
+import { SetsTable } from "akasha/temper/navigation-addon/modules/destinations-pins-stores/destinations-pins-stores.module.code.ts"
 
 export type SetDescription = [setHeader: string, setRequirement: string, setBonuses: string]
 

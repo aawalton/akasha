@@ -1,10 +1,3 @@
-import {
-  AchIndex,
-  FishIDs,
-  FishIndex,
-  FishStore,
-  rowNumber,
-} from "akasha/temper/navigation-addon/destinations-pins-stores/destinations-pins-stores.module.code.ts"
 import { DRTV } from "akasha/temper/navigation-addon/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
 import { getSavedVariables } from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 import {
@@ -25,6 +18,13 @@ import {
   ACH_STATE,
   sharedAchievementsPinData,
 } from "akasha/temper/navigation-addon/modules/destinations-pins-ach-callbacks/destinations-pins-ach-callbacks.module.code.ts"
+import {
+  AchIndex,
+  FishIDs,
+  FishIndex,
+  FishStore,
+  rowNumber,
+} from "akasha/temper/navigation-addon/modules/destinations-pins-stores/destinations-pins-stores.module.code.ts"
 
 export function fishDonepinTypeCallback(this: void): undefined {
   if (GetMapType() >= MAPTYPE_WORLD) return

@@ -1,13 +1,13 @@
 import { gamepadBodyStyle } from "akasha/temper/gamepad-tooltip/gamepad-tooltip-style/gamepad-tooltip-style.module.code.ts"
+import { getSavedVariables } from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/navigation-addon/modules/destinations-names/destinations-names.module.code.ts"
 import {
   DESTINATIONS_PIN_TYPE_CRAFTING,
   DESTINATIONS_PIN_TYPE_MUNDUS,
-} from "akasha/temper/navigation-addon/destinations-pins-poi-types/destinations-pins-poi-types.module.code.ts"
-import type { SetDescription } from "akasha/temper/navigation-addon/destinations-pins-sets/destinations-pins-sets.module.code.ts"
-import type { QolPinData } from "akasha/temper/navigation-addon/destinations-pins-stores/destinations-pins-stores.module.code.ts"
-import type { UnknownPinTag } from "akasha/temper/navigation-addon/destinations-pins-unknown-pois/destinations-pins-unknown-pois.module.code.ts"
-import { getSavedVariables } from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
-import { ADDON_NAME } from "akasha/temper/navigation-addon/modules/destinations-names/destinations-names.module.code.ts"
+} from "akasha/temper/navigation-addon/modules/destinations-pins-poi-types/destinations-pins-poi-types.module.code.ts"
+import type { SetDescription } from "akasha/temper/navigation-addon/modules/destinations-pins-sets/destinations-pins-sets.module.code.ts"
+import type { QolPinData } from "akasha/temper/navigation-addon/modules/destinations-pins-stores/destinations-pins-stores.module.code.ts"
+import type { UnknownPinTag } from "akasha/temper/navigation-addon/modules/destinations-pins-unknown-pois/destinations-pins-unknown-pois.module.code.ts"
 
 let INFORMATION_TOOLTIP: TooltipControl | GamepadMapLocationTooltip = InformationTooltip
 

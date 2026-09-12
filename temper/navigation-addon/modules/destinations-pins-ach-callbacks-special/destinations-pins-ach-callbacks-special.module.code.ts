@@ -1,12 +1,3 @@
-import { zoneToAchievementCriterion } from "akasha/temper/navigation-addon/destinations-pins-poi-types/destinations-pins-poi-types.module.code.ts"
-import {
-  AchIDs,
-  AchIndex,
-  DBossIndex,
-  DBossStore,
-  rowNumber,
-  rowString,
-} from "akasha/temper/navigation-addon/destinations-pins-stores/destinations-pins-stores.module.code.ts"
 import { DRTV } from "akasha/temper/navigation-addon/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
 import { getSavedVariables } from "akasha/temper/navigation-addon/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 import {
@@ -30,6 +21,15 @@ import {
   getMapTextureName,
   MAP_STATE,
 } from "akasha/temper/navigation-addon/modules/destinations-pins-map-context/destinations-pins-map-context.module.code.ts"
+import { zoneToAchievementCriterion } from "akasha/temper/navigation-addon/modules/destinations-pins-poi-types/destinations-pins-poi-types.module.code.ts"
+import {
+  AchIDs,
+  AchIndex,
+  DBossIndex,
+  DBossStore,
+  rowNumber,
+  rowString,
+} from "akasha/temper/navigation-addon/modules/destinations-pins-stores/destinations-pins-stores.module.code.ts"
 
 export function otherpinTypeCallback(this: void): undefined {
   if (GetMapType() >= MAPTYPE_WORLD) return

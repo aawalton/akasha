@@ -1,19 +1,3 @@
-import {
-  DESTINATIONS_PIN_TYPE_CRAFTING,
-  DESTINATIONS_PIN_TYPE_MUNDUS,
-  DESTINATIONS_PIN_TYPE_UNKNOWN,
-  getImperialCityPoiTypeName,
-  getPoiTypeName,
-} from "akasha/temper/navigation-addon/destinations-pins-poi-types/destinations-pins-poi-types.module.code.ts"
-import {
-  getSetDescription,
-  type SetDescription,
-} from "akasha/temper/navigation-addon/destinations-pins-sets/destinations-pins-sets.module.code.ts"
-import {
-  MundusStore,
-  PoiStore,
-  type PoiZoneTable,
-} from "akasha/temper/navigation-addon/destinations-pins-stores/destinations-pins-stores.module.code.ts"
 import { DRTV } from "akasha/temper/navigation-addon/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
 import {
   getCharacterSavedVariables,
@@ -30,6 +14,22 @@ import {
   getDestinationKnownPoiTexture,
   getDestinationUnknownPoiTexture,
 } from "akasha/temper/navigation-addon/modules/destinations-pins-poi-textures/destinations-pins-poi-textures.module.code.ts"
+import {
+  DESTINATIONS_PIN_TYPE_CRAFTING,
+  DESTINATIONS_PIN_TYPE_MUNDUS,
+  DESTINATIONS_PIN_TYPE_UNKNOWN,
+  getImperialCityPoiTypeName,
+  getPoiTypeName,
+} from "akasha/temper/navigation-addon/modules/destinations-pins-poi-types/destinations-pins-poi-types.module.code.ts"
+import {
+  getSetDescription,
+  type SetDescription,
+} from "akasha/temper/navigation-addon/modules/destinations-pins-sets/destinations-pins-sets.module.code.ts"
+import {
+  MundusStore,
+  PoiStore,
+  type PoiZoneTable,
+} from "akasha/temper/navigation-addon/modules/destinations-pins-stores/destinations-pins-stores.module.code.ts"
 
 export type UnknownPinTagKeyboardLine = [
   font: string,

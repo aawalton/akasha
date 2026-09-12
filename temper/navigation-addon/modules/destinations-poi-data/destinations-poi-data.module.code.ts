@@ -1,5 +1,3 @@
-import { POIS_STORE_00 } from "akasha/temper/navigation-addon/destinations-poi-data-00/destinations-poi-data-00.module.code.ts"
-import { POIS_STORE_01 } from "akasha/temper/navigation-addon/destinations-poi-data-01/destinations-poi-data-01.module.code.ts"
 import { POIS_STORE_02 } from "akasha/temper/navigation-addon/destinations-poi-data-02/destinations-poi-data-02.module.code.ts"
 import { POIS_STORE_03 } from "akasha/temper/navigation-addon/destinations-poi-data-03/destinations-poi-data-03.module.code.ts"
 import { POIS_STORE_04 } from "akasha/temper/navigation-addon/destinations-poi-data-04/destinations-poi-data-04.module.code.ts"
@@ -15,6 +13,8 @@ import { POIS_STORE_13 } from "akasha/temper/navigation-addon/destinations-poi-d
 import { POIS_STORE_14 } from "akasha/temper/navigation-addon/destinations-poi-data-14/destinations-poi-data-14.module.code.ts"
 import { POIS_STORE_15 } from "akasha/temper/navigation-addon/destinations-poi-data-15/destinations-poi-data-15.module.code.ts"
 import { POIS_STORE_16 } from "akasha/temper/navigation-addon/destinations-poi-data-16/destinations-poi-data-16.module.code.ts"
+import { POIS_STORE_00 } from "akasha/temper/navigation-addon/modules/destinations-poi-data-00/destinations-poi-data-00.module.code.ts"
+import { POIS_STORE_01 } from "akasha/temper/navigation-addon/modules/destinations-poi-data-01/destinations-poi-data-01.module.code.ts"
 
 export const POIS_STORE = {
   ...POIS_STORE_00,
