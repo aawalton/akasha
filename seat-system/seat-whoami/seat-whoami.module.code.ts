@@ -3,11 +3,11 @@ import {
   bareSlug,
   recordedModeOf,
 } from "akasha/agents/attributes/agent-attributes.module.code.ts"
-import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   frontmatterFromHistory,
   nameFromHistory,
-} from "akasha/seat-system/seat-page-history/seat-page-history.module.code.ts"
+} from "akasha/agents/seats/modules/page-history/seat-page-history.module.code.ts"
+import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { pageTextOf } from "akasha/seat-system/seat-page-values/seat-page-values.module.code.ts"
 import {
   seatIdForName,

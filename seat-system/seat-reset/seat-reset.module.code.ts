@@ -7,6 +7,10 @@ import {
 } from "akasha/agents/seats/modules/modes/seat-modes.module.code.ts"
 import { mintNamedAgent } from "akasha/agents/seats/modules/name-bind/seat-name-bind.module.code.ts"
 import {
+  type SeatFromHistory,
+  seatFromHistory,
+} from "akasha/agents/seats/modules/page-history/seat-page-history.module.code.ts"
+import {
   dataError,
   inputError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
@@ -20,10 +24,6 @@ import {
   killSeatSession,
   launchSeatUnderTmux,
 } from "akasha/seat-system/launch-seat-tmux/launch-seat-tmux.module.code.ts"
-import {
-  type SeatFromHistory,
-  seatFromHistory,
-} from "akasha/seat-system/seat-page-history/seat-page-history.module.code.ts"
 import { principalSeatNameOf } from "akasha/seat-system/seat-principal/seat-principal.module.code.ts"
 import {
   pageWouldCompose,

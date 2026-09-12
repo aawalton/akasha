@@ -1,10 +1,10 @@
-import type { Outcome } from "akasha/changes/modules/gated-write/gated-write.module.code.ts"
-import { fail } from "akasha/commands/modules/failing/command-failing.module.code.ts"
-import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   nameFromHistory,
   parentFromHistory,
-} from "akasha/seat-system/seat-page-history/seat-page-history.module.code.ts"
+} from "akasha/agents/seats/modules/page-history/seat-page-history.module.code.ts"
+import type { Outcome } from "akasha/changes/modules/gated-write/gated-write.module.code.ts"
+import { fail } from "akasha/commands/modules/failing/command-failing.module.code.ts"
+import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   removeSeatPage,
   writeSeatPage,

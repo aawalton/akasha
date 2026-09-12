@@ -5,12 +5,12 @@ import {
   initiativeOf,
 } from "akasha/agents/seats/modules/initiative/seat-initiative.module.code.ts"
 import { onCallOf } from "akasha/agents/seats/modules/on-call/seat-on-call.module.code.ts"
-import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
-import type { Principal } from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 import {
   type StatedFromHistory,
   statedFromHistory,
-} from "akasha/seat-system/seat-page-history/seat-page-history.module.code.ts"
+} from "akasha/agents/seats/modules/page-history/seat-page-history.module.code.ts"
+import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
+import type { Principal } from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 import { pageTextOf } from "akasha/seat-system/seat-page-values/seat-page-values.module.code.ts"
 import {
   type PrincipalRecord,
