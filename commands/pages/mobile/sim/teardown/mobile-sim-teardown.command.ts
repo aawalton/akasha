@@ -29,6 +29,18 @@ export const mobileSimTeardown = {
       invariantKind: "absence",
       statement: "Nothing here shuts a simulator down.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Each thing torn down is named as soon as that thing is torn down.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A teardown that threw part way names those things in its refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The ending, the clearing and the stopping are handed in.",
+    },
   ],
   name: "teardown",
   arguments: [{ argument: "argument/stop-appium" }],
