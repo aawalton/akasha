@@ -6,10 +6,7 @@ export const temperInventoryItemRuleUpdate = {
   slug: "temper-inventory-item-rule-update",
   definition: "the command changing the fields of a per-item rule named by its id",
   code: "ts",
-  taking: [
-    { said: "<id>", takes: "the id of the per-item rule changed" },
-    { said: "--stock-quantity <n>", takes: "how many the destination is stocked up to" },
-  ],
+  taking: [{ said: "<id>", takes: "the id of the per-item rule changed" }],
   invariants: [
     {
       invariantKind: "departure",
@@ -33,5 +30,6 @@ export const temperInventoryItemRuleUpdate = {
     { argument: "argument/active" },
     { argument: "argument/action" },
     { argument: "argument/destination" },
+    { argument: "argument/stock-quantity" },
   ],
 } as const satisfies Command

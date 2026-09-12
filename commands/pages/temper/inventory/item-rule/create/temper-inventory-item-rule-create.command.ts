@@ -6,7 +6,7 @@ export const temperInventoryItemRuleCreate = {
   slug: "temper-inventory-item-rule-create",
   definition: "the command adding a per-item rule",
   code: "ts",
-  taking: [{ said: "--stock-quantity <n>", takes: "how many the destination is stocked up to" }],
+  taking: [],
 
   invariants: [
     {
@@ -29,5 +29,6 @@ export const temperInventoryItemRuleCreate = {
     { argument: "argument/stock-scope" },
     { argument: "argument/item-id" },
     { argument: "argument/item-name" },
+    { argument: "argument/stock-quantity" },
   ],
 } as const satisfies Command
