@@ -34,23 +34,30 @@ export const emailDraftCreate = {
     },
     { said: '--from <"Name <addr>">', takes: "a verified send-as alias to send the mail from" },
   ],
-  helpNotes: [
-    "the flags are the ones `email messages send` takes, so a draft and a send are composed alike.",
-    "a subject or a body is said inline or read from a file, and saying it both ways is refused.",
-    "one call reads standard input once, so `-` names it for one flag at most.",
-    "a path that is not absolute is read against the repository root.",
-    "the draft comes back as its own id, the id of the message it holds, and that message's thread.",
-    "a draft once written is not taken back here.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "A draft is composed from the flags a send is composed from.",
     },
-
+    {
+      invariantKind: "departure",
+      statement: "A subject or a body said both inline and in a file is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`-` names standard input for one flag at most.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A draft comes back as its own id, its message's id and that message's thread.",
+    },
     {
       invariantKind: "absence",
       statement: "Nothing here sends the draft.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here takes a draft back.",
     },
   ],
   name: "create",
