@@ -23,6 +23,10 @@ export const changeRunning = {
     },
     {
       invariantKind: "departure",
+      statement: "A word near a change's name is refused with that name pointed at.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The change is loaded before the turn over the edits is taken.",
     },
     {

@@ -32,3 +32,10 @@ export function suggestClosest(
   }
   return best?.name
 }
+
+const MEANT = 2
+
+export function meantSaid(word: string, candidates: readonly string[]): string {
+  const near = suggestClosest(word, candidates, MEANT)
+  return near === undefined ? "" : ` Did you mean \`${near}\`?`
+}

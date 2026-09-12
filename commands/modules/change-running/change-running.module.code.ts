@@ -49,6 +49,7 @@ import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module
 import { indexThere, listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
+import { meantSaid } from "akasha/utils/text/suggest-closest/suggest-closest.module.code.ts"
 
 export const PAGE_LANDING =
   "Run this same call again: nothing was kept and nothing was lost, so one or two tries cost" +
@@ -374,7 +375,11 @@ export async function changing(
   const drafts = chosen.drafts ?? asked.drafts
   const type = typeOf(world, slug)
   if (type === null) {
-    return mistaking([`\`${slug}\` names no change, and this runs one of ${runsSaid(world)}`])
+    const every = changesIn(world).map((one) => one.slug)
+    return mistaking([
+      `\`${slug}\` names no change, and this runs one of ${namesDrawn(every)}.` +
+        meantSaid(slug, every),
+    ])
   }
   const loaded = await loading(world, `${type}/${slug}`)
   if (typeof loaded === "string") return mistaking([loaded])
