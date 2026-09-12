@@ -11,10 +11,7 @@ export const temperInventoryBuyRuleDelete = {
     { said: "<id>", takes: "the id of the buy rule taken away" },
     { said: "--force", takes: "take it away even where it is locked" },
   ],
-  helpNotes: [
-    "a locked buy rule is refused rather than taken away, unless `--force` is said.",
-    "an id no buy rule carries is refused by that id.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
