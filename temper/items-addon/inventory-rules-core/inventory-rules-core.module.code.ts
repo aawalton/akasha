@@ -166,13 +166,13 @@ export function applyAction(
   if (action === "sell") {
     if (IsItemStolen(bagId, slotIndex)) {
       setPendingAction(bagId, slotIndex, "fence-sell", destination)
-      if (ruleIndex !== undefined) pendingRuleIndices.set(pKey, ruleIndex)
-    } else if (isVendorCrossCharDestination(destination)) {
-      setPendingAction(bagId, slotIndex, "sell", destination)
-      if (ruleIndex !== undefined) pendingRuleIndices.set(pKey, ruleIndex)
     } else {
-      setItemIsJunkGated(bagId, slotIndex, true)
+      setPendingAction(bagId, slotIndex, "sell", destination)
+      if (!isVendorCrossCharDestination(destination)) {
+        setItemIsJunkGated(bagId, slotIndex, true)
+      }
     }
+    if (ruleIndex !== undefined) pendingRuleIndices.set(pKey, ruleIndex)
     return
   }
   if (action === "fence-sell") {

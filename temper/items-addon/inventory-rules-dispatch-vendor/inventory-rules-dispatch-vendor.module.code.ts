@@ -25,6 +25,36 @@ export function onOpenStore(): undefined {
     soldLinks.push(GetItemLink(BAG_BACKPACK, slot, LINK_STYLE_BRACKETS))
   }
 
+  const sellTargets: {
+    bagId: number
+    slotIndex: number
+    link: string
+    ruleIndex: number
+    stackCount: number
+  }[] = []
+  forEachPendingAction(function (this: void, bagId, slotIndex, action, destination): undefined {
+    if (action !== "sell") return
+    if (isVendorCrossCharDestination(destination)) return
+    if (IsItemStolen(bagId, slotIndex)) return
+    if (IsItemJunk(bagId, slotIndex)) return
+    const [stackCount] = GetSlotStackSize(bagId, slotIndex)
+    if (stackCount === 0) return
+    sellTargets.push({
+      bagId,
+      slotIndex,
+      link: GetItemLink(bagId, slotIndex, LINK_STYLE_BRACKETS),
+      ruleIndex: getPendingRuleIndex(bagId, slotIndex) ?? 999999,
+      stackCount,
+    })
+  })
+  table.sort(sellTargets, function (this: void, a, b): boolean {
+    if (a.ruleIndex !== b.ruleIndex) return a.ruleIndex < b.ruleIndex
+    return a.slotIndex < b.slotIndex
+  })
+  for (const t of sellTargets) {
+    soldLinks.push(t.link)
+  }
+
   const destroyTargets: { bagId: number; slotIndex: number; link: string; ruleIndex: number }[] = []
   forEachPendingAction(function (this: void, bagId, slotIndex, action): undefined {
     if (action !== "destroy") return
@@ -47,10 +77,15 @@ export function onOpenStore(): undefined {
   const confirmDestroy = destroyTargets.length > 0 && shouldConfirmAction("destroy")
 
   function executeSell(): undefined {
-    if (soldLinks.length > 0) {
-      SellAllJunk()
-      reportAction("Sold", soldLinks)
+    if (soldLinks.length === 0) return
+    SellAllJunk()
+    for (const t of sellTargets) {
+      const [stackCount] = GetSlotStackSize(t.bagId, t.slotIndex)
+      if (stackCount === 0) continue
+      SellInventoryItem(t.bagId, t.slotIndex, stackCount)
+      clearPendingAction(t.bagId, t.slotIndex)
     }
+    reportAction("Sold", soldLinks)
   }
 
   function executeDestroy(): undefined {
