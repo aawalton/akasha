@@ -72,6 +72,7 @@ export const command = {
     "module/landing",
     "module/draft-keeping",
     "module/landing-finishing",
+    "module/ignored-pathing",
     "module/landing-change-composing",
     "module/command-declaring",
     "module/command-answering",

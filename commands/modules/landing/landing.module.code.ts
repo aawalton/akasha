@@ -1,4 +1,4 @@
-import { existsSync, mkdirSync, rmSync, writeFileSync } from "node:fs"
+import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { dirname, join } from "node:path"
 import type { Reading as AsRead } from "akasha/agents/read-record/read-record.module.code.ts"
@@ -25,6 +25,10 @@ import {
   indexingLoaded,
   type Keeping,
 } from "akasha/commands/modules/gate-building/gate-building.module.code.ts"
+import {
+  asideFrom,
+  heldBack,
+} from "akasha/commands/modules/ignored-pathing/ignored-pathing.module.code.ts"
 import {
   type Bodied,
   baseOf,
@@ -61,7 +65,6 @@ import { allowedThrough } from "akasha/commands/modules/stopping/command-stoppin
 import { bodyAt, readingEnded } from "akasha/git/commit-reading/commit-reading.module.code.ts"
 import { committed, whileIndexFrees } from "akasha/git/committing/committing.module.code.ts"
 import { holding } from "akasha/git/holding/holding.module.code.ts"
-import { gitIgnoring } from "akasha/git/pathspec/git-pathspec.module.code.ts"
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
@@ -120,13 +123,6 @@ function wroteOnto(
   return { wrote, took }
 }
 
-function asideFrom(root: string, changed: readonly Bodied[]): ReadonlySet<string> {
-  const held = changed.filter(
-    (one) => one.body === null && existsSync(join(root, one.path)) && !isFolder(root, one.path)
-  )
-  return new Set(held.map((one) => one.path))
-}
-
 function bodiesOf(
   putting: readonly Bodied[],
   moving: readonly FileMove[],
@@ -141,24 +137,6 @@ function bodiesOf(
   }
   for (const one of onto) if (one.body !== null) held.set(one.path, one.body)
   return held
-}
-
-function heldBack(
-  root: string,
-  changed: readonly Bodied[]
-): {
-  readonly committing: readonly Bodied[]
-  readonly uncommitted: readonly Bodied[]
-} {
-  const ignored = gitIgnoring(
-    root,
-    changed.map((one) => one.path)
-  )
-  if (ignored === null || ignored.size === 0) return { committing: changed, uncommitted: [] }
-  return {
-    committing: changed.filter((one) => !ignored.has(one.path)),
-    uncommitted: changed.filter((one) => ignored.has(one.path)),
-  }
 }
 
 function beforeOf(

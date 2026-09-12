@@ -109,14 +109,6 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "A change may have a path the repository ignores.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A path the repository ignores is written onto the tree rather than committed.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A path the repository ignores is written after the commit lands.",
     },
     {
@@ -146,11 +138,6 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A path the repository ignores that is taken away is renamed aside rather than unlinked.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A landing that finishes unlinks every name it renamed aside.",
     },
     {
@@ -161,16 +148,6 @@ export const landing = {
       invariantKind: "departure",
       statement:
         "A landing that throws between the rename and the unlink puts each body back where it came from.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A folder the repository ignores is taken away as a folder rather than renamed aside.",
-    },
-    {
-      invariantKind: "gap",
-      statement:
-        "A name renamed aside by a process that died before the unlink is taken away by nothing.",
     },
     {
       invariantKind: "gap",
