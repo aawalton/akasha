@@ -40,3 +40,45 @@ test("the decoding is named as a run rather than as frames left behind", async (
   expect(DECODED).toContain("ffmpeg was run over /clips/one.mp4")
   expect(DECODED).toContain("cleared away again")
 })
+
+test("naming neither the clip nor the frames is refused", async () => {
+  const said = await inferenceVideoQa(["--checklist", "q"], given("/nowhere"))
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--frames-dir")
+})
+
+test("naming both the clip and the frames is refused", async () => {
+  const said = await inferenceVideoQa([...ARGV, "--frames-dir", "d"], given("/nowhere"))
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--frames-dir")
+})
+
+test("the question said at its flag and at its file at once is refused", async () => {
+  const said = await inferenceVideoQa([...ARGV, "--checklist-file", "q.txt"], given("/nowhere"))
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--checklist-file")
+})
+
+test("naming no question at all is refused", async () => {
+  const said = await inferenceVideoQa(["--video", "/clips/one.mp4"], given("/nowhere"))
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--checklist")
+})
+
+test("a frame count at zero is refused", async () => {
+  const said = await inferenceVideoQa([...ARGV, "--frames", "0"], given("/nowhere"))
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("above zero")
+})
+
+test("a flag this does not take is refused", async () => {
+  const said = await inferenceVideoQa(["--nonsense"], given("/nowhere"))
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--nonsense")
+})
+
+test("a word where a flag should be is refused", async () => {
+  const said = await inferenceVideoQa([...ARGV, "stray"], given("/nowhere"))
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("stray")
+})

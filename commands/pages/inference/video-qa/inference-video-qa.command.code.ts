@@ -2,11 +2,24 @@ import { mkdtemp, readdir, readFile, rm } from "node:fs/promises"
 import { join } from "node:path"
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import {
+  type TakenFor,
+  takenFor,
+} from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { checklist as checklistArgument } from "akasha/commands/arguments/pages/checklist.argument.ts"
+import { checklistFile } from "akasha/commands/arguments/pages/checklist-file.argument.ts"
+import { fps as fpsArgument } from "akasha/commands/arguments/pages/fps.argument.ts"
+import { frames as framesArgument } from "akasha/commands/arguments/pages/frames.argument.ts"
+import { framesDir as framesDirArgument } from "akasha/commands/arguments/pages/frames-dir.argument.ts"
+import { timeout as timeoutArgument } from "akasha/commands/arguments/pages/timeout.argument.ts"
+import { video as videoArgument } from "akasha/commands/arguments/pages/video.argument.ts"
+import {
   answering,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { filing, filledIn } from "akasha/commands/modules/filling/command-filling.module.code.ts"
+import { inferenceVideoQa as page } from "akasha/commands/pages/inference/video-qa/inference-video-qa.command.ts"
 import {
   buildFrameExtractArgs,
   buildVideoQaRequest,
@@ -17,13 +30,8 @@ import {
   toPngDataUrl,
 } from "akasha/infrastructure/inference/clients/mlx-vlm-client/mlx-vlm-client.module.code.ts"
 import {
-  countAt,
-  heldOr,
   madeOf,
-  proseNeededAt,
   serviceNamed,
-  wasRefused,
-  wordsIn,
 } from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/record/inference-run-record.module.code.ts"
 import {
@@ -33,30 +41,21 @@ import {
 import { SCRATCH_AT } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { sha256Hex } from "akasha/utils/hashing/sha256-hex/sha256-hex.module.code.ts"
 
-const VIDEO = "--video"
-
-const FRAMES_DIR = "--frames-dir"
-
-const CHECKLIST = "--checklist"
-
-const FRAMES = "--frames"
-
-const FPS = "--fps"
-
-const TIMEOUT = "--timeout"
-
-const TAKING = [
-  { said: VIDEO },
-  { said: FRAMES_DIR },
-  { said: CHECKLIST, prose: true },
-  { said: FRAMES },
-  { said: FPS },
-  { said: TIMEOUT },
+const PAGES = [
+  checklistArgument,
+  checklistFile,
+  framesArgument,
+  framesDirArgument,
+  fpsArgument,
+  timeoutArgument,
+  videoArgument,
 ]
 
-const SERVICE = "mlx-vlm"
+type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
 
-const DEFAULT_FRAMES = 16
+const CHECKLIST_FILING = filing(checklistArgument.said)
+
+const SERVICE = "mlx-vlm"
 
 const DEFAULT_TIMEOUT_SEC = 600
 
@@ -111,7 +110,9 @@ async function asked(done: string[], read: Read): Promise<Answer> {
       try {
         clipBytes = await readFile(read.videoPath)
       } catch {
-        return refusedBy([`\`${VIDEO}\` names \`${read.videoPath}\`, which will not read`])
+        return refusedBy([
+          `\`${videoArgument.said}\` names \`${read.videoPath}\`, which will not read`,
+        ])
       }
       videoFields = { inputVideoPath: read.videoPath, inputVideoSha256: sha256Hex(clipBytes) }
       taken = await mkdtemp(join(SCRATCH_AT, "inference-video-qa-"))
@@ -127,7 +128,9 @@ async function asked(done: string[], read: Read): Promise<Answer> {
     } else if (read.framesDir !== undefined) {
       imageDataUrls = await urlsIn(read.framesDir, read.frames)
     } else {
-      return refusedBy([`this names \`${VIDEO}\` or \`${FRAMES_DIR}\`, and nothing did`])
+      return refusedBy([
+        `this names \`${videoArgument.said}\` or \`${framesDirArgument.said}\`, and nothing did`,
+      ])
     }
 
     const record = buildInferenceRunRecord({
@@ -176,39 +179,33 @@ async function asked(done: string[], read: Read): Promise<Answer> {
   }
 }
 
+export function wrongIn(taken: Taken): readonly string[] {
+  if (taken.frames > 0) return []
+  const said = framesArgument.said
+  return [`\`${said}\` takes a whole number above zero, and ${taken.frames} is not one`]
+}
+
 export async function inferenceVideoQa(
   argv: readonly string[],
   given: Given,
   asking: Asking = asked
 ): Promise<Answer> {
-  const said = wordsIn(argv, TAKING, [])
-  if (wasRefused(said)) return refusedBy(said.refused)
+  const held = takenFor(argv, given.calledAs, page, PAGES)
+  if ("refused" in held) return refusedBy(held.refused)
+  const taken = held.taken
+  const wrong = wrongIn(taken)
+  if (wrong.length > 0) return refusedBy(wrong)
 
-  const refusals: string[] = said.loose.map(
-    (one) => `\`${one}\` follows nothing this takes — it takes flags alone`
-  )
-  const checklist = heldOr(await proseNeededAt(said, CHECKLIST), refusals)
-  const frames = heldOr(countAt(said, FRAMES, DEFAULT_FRAMES), refusals) ?? DEFAULT_FRAMES
-  const fps = heldOr(countAt(said, FPS, undefined), refusals) ?? undefined
-  const timeout =
-    heldOr(countAt(said, TIMEOUT, DEFAULT_TIMEOUT_SEC), refusals) ?? DEFAULT_TIMEOUT_SEC
-
-  const videoPath = said.named[VIDEO]
-  const framesDir = said.named[FRAMES_DIR]
-  if ((videoPath === undefined) === (framesDir === undefined)) {
-    refusals.push(`this names \`${VIDEO}\` or \`${FRAMES_DIR}\`, one of them and not both`)
-  }
-  if (frames <= 0)
-    refusals.push(`\`${FRAMES}\` takes a whole number above zero, and ${frames} is not one`)
-  if (refusals.length > 0 || checklist === null) return refusedBy(refusals)
+  const checklist = filledIn(given.root, taken.checklist, taken.checklistFile, CHECKLIST_FILING)
+  if ("refused" in checklist) return refusedBy(checklist.refused)
 
   const read: Read = {
-    checklist,
-    frames,
-    fps,
-    timeout,
-    videoPath,
-    framesDir,
+    checklist: checklist.text ?? "",
+    frames: taken.frames,
+    fps: taken.fps,
+    timeout: taken.timeout ?? DEFAULT_TIMEOUT_SEC,
+    videoPath: taken.video,
+    framesDir: taken.framesDir,
     commandLine: madeOf(given.calledAs, argv),
   }
   return await answering(async (done) => await asking(done, read))
