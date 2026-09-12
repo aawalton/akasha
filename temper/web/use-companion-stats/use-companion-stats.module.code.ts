@@ -2,7 +2,7 @@ import type { CompanionFormulaStats } from "akasha/temper/companions-core/module
 import {
   CompanionStatsContext,
   type CompanionStatsContextValue,
-} from "akasha/temper/web/companion-stats-context/companion-stats-context.module.code.tsx"
+} from "akasha/temper/web/modules/companion-stats-context/companion-stats-context.module.code.tsx"
 import { useContext } from "react"
 
 export function useCompanionStats(): CompanionStatsContextValue {

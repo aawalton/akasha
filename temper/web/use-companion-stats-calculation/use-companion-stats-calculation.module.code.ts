@@ -1,8 +1,8 @@
-import { calculateCompanionStats } from "akasha/temper/companions-core/companion-stats-calculator/companion-stats-calculator.module.code.ts"
 import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import type { CompanionEffectSource } from "akasha/temper/companions-core/modules/companion-effect-sources/companion-effect-sources.module.code.ts"
 import type { CompanionMetricId } from "akasha/temper/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
 import type { CompanionMetricValue } from "akasha/temper/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
+import { calculateCompanionStats } from "akasha/temper/companions-core/modules/companion-stats-calculator/companion-stats-calculator.module.code.ts"
 import type { RotationResult } from "akasha/temper/companions-core/rotation-types/rotation-types.module.code.ts"
 import { useEffect, useState } from "react"
 

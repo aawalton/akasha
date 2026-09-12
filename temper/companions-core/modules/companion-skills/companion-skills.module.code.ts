@@ -1,5 +1,3 @@
-import { COMPANION_SKILLS_09 } from "akasha/temper/companions-core/companion-skills-09/companion-skills-09.module.code.ts"
-import { COMPANION_SKILLS_10 } from "akasha/temper/companions-core/companion-skills-10/companion-skills-10.module.code.ts"
 import type { CompanionSkillTemplate } from "akasha/temper/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
 import { COMPANION_SKILLS_00 } from "akasha/temper/companions-core/modules/companion-skills-00/companion-skills-00.module.code.ts"
 import { COMPANION_SKILLS_01 } from "akasha/temper/companions-core/modules/companion-skills-01/companion-skills-01.module.code.ts"
@@ -10,6 +8,8 @@ import { COMPANION_SKILLS_05 } from "akasha/temper/companions-core/modules/compa
 import { COMPANION_SKILLS_06 } from "akasha/temper/companions-core/modules/companion-skills-06/companion-skills-06.module.code.ts"
 import { COMPANION_SKILLS_07 } from "akasha/temper/companions-core/modules/companion-skills-07/companion-skills-07.module.code.ts"
 import { COMPANION_SKILLS_08 } from "akasha/temper/companions-core/modules/companion-skills-08/companion-skills-08.module.code.ts"
+import { COMPANION_SKILLS_09 } from "akasha/temper/companions-core/modules/companion-skills-09/companion-skills-09.module.code.ts"
+import { COMPANION_SKILLS_10 } from "akasha/temper/companions-core/modules/companion-skills-10/companion-skills-10.module.code.ts"
 import { createDataFile } from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
 
 const COMPANION_SKILLS_DATA = {

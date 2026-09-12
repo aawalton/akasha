@@ -9,11 +9,6 @@ import {
   getCompanionMetricTree,
 } from "akasha/temper/companions-core/modules/companion-metric-tree/companion-metric-tree.module.code.ts"
 import type { CompanionMetricValue } from "akasha/temper/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
-import { CompanionStatExplanationDialog } from "akasha/temper/web/companion-stat-explanation-dialog/companion-stat-explanation-dialog.module.code.tsx"
-import {
-  CompanionStatGroupPanelCard,
-  CompanionStatGroupPanelCardSkeleton,
-} from "akasha/temper/web/companion-stat-group-panel-card/companion-stat-group-panel-card.module.code.tsx"
 import {
   type CompanionStatsPanelState,
   deriveCompanionStatsPanelState,
@@ -21,6 +16,11 @@ import {
 import { CompanionSuggestionsPanelCard } from "akasha/temper/web/companion-suggestions-panel-card/companion-suggestions-panel-card.module.code.tsx"
 import { CompanionSurplusPanelCard } from "akasha/temper/web/companion-surplus-panel-card/companion-surplus-panel-card.module.code.tsx"
 import { CompanionRotationBreakdownPanelCard } from "akasha/temper/web/modules/companion-rotation-breakdown-panel-card/companion-rotation-breakdown-panel-card.module.code.tsx"
+import { CompanionStatExplanationDialog } from "akasha/temper/web/modules/companion-stat-explanation-dialog/companion-stat-explanation-dialog.module.code.tsx"
+import {
+  CompanionStatGroupPanelCard,
+  CompanionStatGroupPanelCardSkeleton,
+} from "akasha/temper/web/modules/companion-stat-group-panel-card/companion-stat-group-panel-card.module.code.tsx"
 import { useCompanion } from "akasha/temper/web/use-companion/use-companion.module.code.ts"
 import { useCompanionStats } from "akasha/temper/web/use-companion-stats/use-companion-stats.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
