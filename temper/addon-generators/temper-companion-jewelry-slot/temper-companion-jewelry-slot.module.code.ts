@@ -1,4 +1,5 @@
 import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { ranksOf } from "akasha/temper/addon-generators/rank-by-key/rank-by-key.module.code.ts"
 import { companionJewelrySlots } from "akasha/temper/companions-core/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
 import { z } from "zod"
@@ -65,7 +66,7 @@ export function generateTemperCompanionJewelrySlot(rows: readonly Page[]): strin
  * (page type: temper-companion-jewelry-slot). Companions have the same
  * jewelry slots as player characters.
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 import { createDataFile } from "@akasha/utils/narrow/create-data-file"
