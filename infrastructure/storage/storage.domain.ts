@@ -6,11 +6,11 @@ export const storage = {
   slug: "storage",
   definition: "where bytes live",
   parts: [
-    "domain/disk-store",
     "domain/backup",
-    "domain/git-repos",
+    "domain/disk-store",
     "domain/container-registry",
     "domain/database",
+    "domain/git-repos",
     "domain/object-store",
   ],
   invariants: [

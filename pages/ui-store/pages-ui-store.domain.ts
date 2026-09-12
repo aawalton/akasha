@@ -8,13 +8,13 @@ export const pagesUiStore = {
 
   parts: [
     "domain/pages-ui-store-collection",
-    "module/diagnostics",
     "domain/pages-ui-store-optimistic",
     "domain/pages-ui-store-query",
     "domain/pages-ui-store-realtime",
+    "domain/pages-ui-store-sql",
+    "module/diagnostics",
     "module/report-stall",
     "module/singleton",
-    "domain/pages-ui-store-sql",
   ],
   invariants: [
     {

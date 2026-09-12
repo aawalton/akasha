@@ -7,6 +7,8 @@ export const components = {
   definition: "the parts a page and its listings are drawn from",
 
   parts: [
+    "domain/components-quick-add",
+    "domain/components-view-engine",
     "module/action-button-property-badge",
     "module/aggregate-property-badge",
     "module/auth-provider",
@@ -14,12 +16,10 @@ export const components = {
     "module/bare-listing-card",
     "module/base-conditions",
     "module/boolean-property-badge",
-    "domain/components-view-engine",
     "module/build-server-grouped-sections",
     "module/calendar-time-property-badge",
     "module/card-property-columns",
     "module/chrome-toggle-decider",
-    "domain/components-quick-add",
     "module/computed-property-badge",
     "module/create-option",
     "module/create-page-dialog",

@@ -7,11 +7,11 @@ export const pagesUrl = {
   definition: "the addresses a browser reaches pages at, and the ones a reader may be sent to",
 
   parts: [
-    "module/page-type-slug",
+    "module/cover-url",
+    "module/page-display-mode",
     "module/page-href",
     "module/page-listing-href",
-    "module/page-display-mode",
+    "module/page-type-slug",
     "module/safe-target",
-    "module/cover-url",
   ],
 } as const satisfies Domain

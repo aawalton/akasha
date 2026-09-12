@@ -5,5 +5,5 @@ export const namedFor = {
   type: "domain",
   slug: "named-for",
   definition: "the name a page is filed under, worked out from a rule and what fills the rule",
-  parts: ["module/page-stem", "module/name-rule"],
+  parts: ["module/name-rule", "module/page-stem"],
 } as const satisfies Domain

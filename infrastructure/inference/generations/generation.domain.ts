@@ -9,12 +9,12 @@ export const generation = {
   parts: [
     "module/comfy-up-body",
     "page-type/audio",
-    "page-type/generation-log",
     "domain/upscale",
     "domain/wan",
     "domain/zimage",
     "module/comfy-up-building",
     "module/comfy-up-guarding",
+    "page-type/generation-log",
     "page-type/image",
   ],
   invariants: [
