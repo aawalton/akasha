@@ -20,15 +20,11 @@ export const mobileCutRecord = {
     { said: "--build-input-tree-hash <hash>", takes: "the build-input closure the cut worked out" },
     { said: "--cut-at <instant>", takes: "when the cut was taken, this moment where none is said" },
   ],
-  helpNotes: [
-    "this is the second caller for a filing the cut itself did not land, and the cut prints the call to make.",
-    "the build number is the one the failed cut printed rather than a guess, since a wrong one files against a build that is not the one at Apple.",
-    "a fingerprint filed without a build-input tree hash reads as predating the basis, which leaves a cut owed.",
-    "the moment defaults to now, which is wrong for any filing that is not immediate.",
-    "a build already carrying a fingerprint is said so and written by nothing.",
-    "the fingerprint is what `mobile cut-status` compares origin/main against.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A build already carrying a fingerprint is answered rather than refused.",
+    },
     {
       invariantKind: "departure",
       statement: "A build number is a whole number no lower than 1.",
