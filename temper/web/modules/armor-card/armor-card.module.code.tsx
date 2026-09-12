@@ -8,7 +8,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interfaces/primitives/select-control/select-control.module.code.tsx"
-import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
+import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import {
   convertIconPathToUrl,
   getEquipmentIcon,

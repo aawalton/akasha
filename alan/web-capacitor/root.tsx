@@ -6,7 +6,7 @@ import {
   setReleaseSha,
 } from "akasha/alan/harness/errors-client/error-reporting/error-reporting.module.code.ts"
 import { useReportRenderError } from "akasha/alan/harness/errors-client/use-report-render-error/use-report-render-error.module.code.ts"
-import { parseBuildSha } from "akasha/alan/harness/web-build-version/build-sha/build-sha.module.code.ts"
+import { parseBuildSha } from "akasha/alan/harness/web-build-version/modules/build-sha/build-sha.module.code.ts"
 import { isNativeShell } from "akasha/alan/web/capacitor-bridge/capacitor-bridge.module.code.ts"
 import { createNativeFsContentPersistence } from "akasha/alan/web/content-pages-fs/content-pages-fs.module.code.ts"
 import { apiFetch } from "akasha/alan/web/modules/api-fetch/api-fetch.module.code.ts"

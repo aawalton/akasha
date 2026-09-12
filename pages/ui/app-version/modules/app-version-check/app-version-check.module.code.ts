@@ -1,4 +1,4 @@
-import { parseBuildSha } from "akasha/alan/harness/web-build-version/build-sha/build-sha.module.code.ts"
+import { parseBuildSha } from "akasha/alan/harness/web-build-version/modules/build-sha/build-sha.module.code.ts"
 
 export function shouldPromptVersionUpdate(input: {
   buildSha: string | null

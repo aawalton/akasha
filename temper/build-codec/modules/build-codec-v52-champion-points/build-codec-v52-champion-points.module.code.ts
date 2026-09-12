@@ -8,7 +8,7 @@ import { readBits } from "akasha/temper/build-hash/modules/build-hash-bit-reader
 import type { BitWriterState } from "akasha/temper/build-hash/modules/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
 import { writeBits } from "akasha/temper/build-hash/modules/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
 import type { ChampionPointId } from "akasha/temper/champion-points/champion-point-source/champion-point-source.module.code.ts"
-import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
+import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 
 const CP_PASSIVE_COUNT_BITS = 7
 

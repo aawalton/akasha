@@ -1,6 +1,6 @@
 "use client"
 
-import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
+import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import type { ClassId } from "akasha/temper/formula-framework/class-id/class-id.module.code.ts"
 import type { SkillLineId } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
 import type { CharacterAction } from "akasha/temper/web/character-actions/character-actions.module.code.ts"

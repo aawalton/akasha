@@ -13,7 +13,7 @@ import {
   EmptyMedia,
   EmptyTitle,
 } from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
-import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
+import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import { METRIC_TREE } from "akasha/temper/characters-stats/metric-tree-data/metric-tree-data.module.code.ts"
 import {
   isMetricNode,

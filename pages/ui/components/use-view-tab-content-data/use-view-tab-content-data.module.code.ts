@@ -12,7 +12,7 @@ import {
   type LockedFacet,
   mergeLockedFacets,
 } from "akasha/pages/core/schema/view-data-locked/view-data-locked.module.code.ts"
-import { buildServerGroupedSections } from "akasha/pages/ui/components/build-server-grouped-sections/build-server-grouped-sections.module.code.ts"
+import { buildServerGroupedSections } from "akasha/pages/ui/components/modules/build-server-grouped-sections/build-server-grouped-sections.module.code.ts"
 import { toPageDataRecord } from "akasha/pages/ui/components/page-data-json/page-data-json.module.code.ts"
 import type { ServerGroupedSection } from "akasha/pages/ui/components/page-system-tab-content-props/page-system-tab-content-props.module.code.ts"
 import { useViewRowAggregates } from "akasha/pages/ui/components/view-engine/use-view-row-aggregates/use-view-row-aggregates.module.code.ts"

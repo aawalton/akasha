@@ -8,7 +8,7 @@ import {
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { PagesUILink as Link } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
-import { companionUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
+import { companionUrl } from "akasha/temper/build-support/modules/build-url/build-url.module.code.ts"
 import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import { getWeaponRole } from "akasha/temper/companions-core/companion-weapon-role-match/companion-weapon-role-match.module.code.ts"
 import { companionWeaponRoles } from "akasha/temper/companions-core/companion-weapon-roles/companion-weapon-roles.module.code.ts"

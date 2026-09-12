@@ -4,7 +4,7 @@ import { useLayoutPathname } from "akasha/design/interfaces/layout/router-contex
 import {
   buildValuesFromFields,
   type FilterField,
-} from "akasha/design/interfaces/patterns/build-values-from-fields/build-values-from-fields.module.code.ts"
+} from "akasha/design/interfaces/patterns/modules/build-values-from-fields/build-values-from-fields.module.code.ts"
 import { useCallback, useDeferredValue, useEffect, useRef, useState } from "react"
 import { z } from "zod"
 

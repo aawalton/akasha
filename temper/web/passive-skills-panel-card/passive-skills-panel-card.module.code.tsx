@@ -7,7 +7,7 @@ import {
   CollapsibleTrigger,
 } from "akasha/design/interfaces/primitives/collapsible/collapsible.module.code.tsx"
 import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
-import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
+import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import type { Skill } from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
 import { skills } from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
 import {

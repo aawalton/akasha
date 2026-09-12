@@ -1,4 +1,4 @@
-import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
+import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import { extractAccount } from "akasha/temper/characters-stats/extract-account/extract-account.module.code.ts"
 import { extractArmor } from "akasha/temper/characters-stats/extract-armor/extract-armor.module.code.ts"
 import { extractAttributes } from "akasha/temper/characters-stats/extract-attributes/extract-attributes.module.code.ts"

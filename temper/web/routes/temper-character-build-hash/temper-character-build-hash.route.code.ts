@@ -1,5 +1,5 @@
-import { characterUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
 import { redirectingWith } from "akasha/temper/build-support/import-redirect/import-redirect.module.code.ts"
+import { characterUrl } from "akasha/temper/build-support/modules/build-url/build-url.module.code.ts"
 import {
   buildHash,
   esoCharacterId as toEsoCharacterId,

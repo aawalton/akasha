@@ -5,9 +5,9 @@ import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.m
 import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import { resolveDefinitionOptions } from "akasha/pages/core/schema/resolve-select-options/resolve-select-options.module.code.ts"
 import type { ViewFilter } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
-import { buildServerGroupedSections } from "akasha/pages/ui/components/build-server-grouped-sections/build-server-grouped-sections.module.code.ts"
 import { buildFlatQueryArgs } from "akasha/pages/ui/components/flat-query-args/flat-query-args.module.code.ts"
 import { buildBaseConditions } from "akasha/pages/ui/components/modules/base-conditions/base-conditions.module.code.ts"
+import { buildServerGroupedSections } from "akasha/pages/ui/components/modules/build-server-grouped-sections/build-server-grouped-sections.module.code.ts"
 import { toPageDataRecord } from "akasha/pages/ui/components/page-data-json/page-data-json.module.code.ts"
 import type { ServerGroupedSection } from "akasha/pages/ui/components/page-system-tab-content-props/page-system-tab-content-props.module.code.ts"
 import {

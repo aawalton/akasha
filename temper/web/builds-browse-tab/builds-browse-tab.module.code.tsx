@@ -11,7 +11,7 @@ import {
 } from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
 import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
 import { Card, CardContent } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
-import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
+import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import { getRoleName } from "akasha/temper/character-sources/character-roles/character-roles.module.code.ts"
 import { CharacterListCardWithHandle } from "akasha/temper/web/character-list-card-with-handle/character-list-card-with-handle.module.code.tsx"
 import {

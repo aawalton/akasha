@@ -1,6 +1,6 @@
 "use client"
 
-import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
+import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import type { RoleId } from "akasha/temper/character-sources/character-roles/character-roles.module.code.ts"
 import type { ClassId } from "akasha/temper/formula-framework/class-id/class-id.module.code.ts"
 import { usePlayerByUserId } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"

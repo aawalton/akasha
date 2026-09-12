@@ -1,4 +1,4 @@
-import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
+import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import { weaponTypes } from "akasha/temper/characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
 import { companionArmorSlots } from "akasha/temper/companions-core/companion-armor-slots/companion-armor-slots.module.code.ts"
 import {

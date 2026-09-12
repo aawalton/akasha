@@ -10,7 +10,6 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { talosRemoteInstall as page } from "akasha/commands/pages/talos/remote-install/talos-remote-install.command.ts"
-import { buildSchematic } from "akasha/infrastructure/cluster/provisioning/talos/build-schematic/build-schematic.module.code.ts"
 import { emitSchematicYaml } from "akasha/infrastructure/cluster/provisioning/talos/emit-yaml/emit-yaml.module.code.ts"
 import {
   metalCmdlineUrl,
@@ -19,6 +18,7 @@ import {
   metalRawXzUrl,
   registerSchematic,
 } from "akasha/infrastructure/cluster/provisioning/talos/factory/factory.module.code.ts"
+import { buildSchematic } from "akasha/infrastructure/cluster/provisioning/talos/modules/build-schematic/build-schematic.module.code.ts"
 import {
   getClusterForNode,
   getNode,
