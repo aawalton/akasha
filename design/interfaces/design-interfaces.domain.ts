@@ -10,7 +10,7 @@ export const designInterfaces = {
     "page-type/color",
     "domain/design-interfaces-badges",
     "domain/design-interfaces-forms",
-    "domain/design-layout",
+    "domain/design-interfaces-layout",
     "domain/design-patterns",
     "domain/design-primitives",
     "domain/design-system",

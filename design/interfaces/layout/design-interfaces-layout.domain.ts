@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
-export const designLayout = {
+export const designInterfacesLayout = {
   id: "01a05b82-8b9b-7e30-9148-8941b6ccd5ff",
   type: "domain",
-  slug: "design-layout",
+  slug: "design-interfaces-layout",
   definition: "the frame, columns and panels a browser draws a page's content in",
 
   parts: [
