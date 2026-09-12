@@ -11,7 +11,7 @@ export const athenaCommandModules = {
     {
       statement: "One function builds a command's refusal.",
       workingMemory:
-        "`refusedBy` at `answering/command-answering.module.code.ts:26` builds every refusal now: `calling.module.code.ts`'s private `refusing` is gone, and `refused:116`, `mistaking` and `troubling` in `refusing.module.code.ts` all call it. Three named ways in are left — `refused` (about 70 importers), `mistaking` (29), and `faulted`. Dropping them rewrites an import line in about 100 files, and no change act does that. Do the named ways stay?\n",
+        "`refusedBy` at `command-answering.module.code.ts` builds every refusal reached through a named way, and the four named ways stay — dropping them rewrites an import line in about 100 files and no act does that. Eleven landings, `74c55e8d512` through `ca7aac7b952`, took inline-built refusals from 194 across 106 files to 116 across 84. Two are Alan's: `apply-running`'s `Folded` flattens a data fault to 3, and `index-refresh` cannot reach a builder without a circular import.",
     },
     {
       statement:
