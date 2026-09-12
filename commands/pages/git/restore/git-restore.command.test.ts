@@ -55,6 +55,11 @@ function drifted(root: string, path: string, body: string = DRIFT): undefined {
   writeFileSync(join(root, path), body)
 }
 
+function bodyGone(root: string, path: string): undefined {
+  const oid = headOid(root, path)
+  rmSync(join(root, ".git", "objects", oid.slice(0, 2), oid.slice(2)))
+}
+
 function indexOnly(root: string, body: string = DRIFT): string {
   const at = put(root, RESIDUE, body)
   gitIn(root, ["add", "--", RESIDUE])
@@ -106,6 +111,24 @@ test("a path HEAD does not hold is refused, and is left as it is", () => {
   expect(said.refusals.join("\n")).toContain("refuses rather than deleting it")
   expect(existsSync(at)).toBe(true)
   expect(readFileSync(at, "utf8")).toBe("another agent is working on this\n")
+})
+
+test("a path HEAD names and holds no body for is refused as the data's fault", () => {
+  const root = repoWith()
+  bodyGone(root, ONE)
+  const said = gitRestore(["--file-path", ONE], givenIn(root))
+  expect(said.code).toBe(2)
+  expect(said.refusals.join("\n")).toContain(`HEAD names ${ONE} and holds no body for it`)
+  expect(onDisk(root, ONE)).toBe(HELD)
+})
+
+test("a call refused more than once is answered by the worst of those faults", () => {
+  const root = repoWith()
+  bodyGone(root, ONE)
+  const argv = ["--file-path", "akasha/gone.ts", "--file-path", ONE]
+  const said = gitRestore(argv, givenIn(root))
+  expect(said.refusals).toHaveLength(2)
+  expect(said.code).toBe(2)
 })
 
 test("a git index entry HEAD and the working tree both lack is cleared", () => {

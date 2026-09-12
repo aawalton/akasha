@@ -4,6 +4,7 @@ import { takenFor } from "akasha/commands/arguments/argument-taking/argument-tak
 import { filePath } from "akasha/commands/arguments/pages/file-path.argument.ts"
 import {
   answeredWith,
+  DATA,
   INPUT,
   OPERATIONAL,
   told,
@@ -53,6 +54,11 @@ export type Held = {
 export type Cleared = {
   readonly path: string
   readonly entry: Entry
+}
+
+export type Refused = {
+  readonly why: string
+  readonly code: number
 }
 
 export function headEntries(root: string, paths: readonly string[]): ReadonlyMap<string, Entry> {
@@ -134,12 +140,15 @@ function heldFor(
   entry: Entry,
   calledAs: string,
   indexed?: Entry
-): Held | string {
-  if (entry.kind !== BLOB) return notAFile(path, entry, calledAs)
-  if (!MODES.has(entry.mode)) return wrongMode(path, entry, calledAs)
+): Held | Refused {
+  if (entry.kind !== BLOB) return { why: notAFile(path, entry, calledAs), code: INPUT }
+  if (!MODES.has(entry.mode)) return { why: wrongMode(path, entry, calledAs), code: INPUT }
   const body = bodyAt(root, HEAD, path)
   if (body === null) {
-    return `HEAD names ${path} and holds no body for it, so \`${calledAs}\` put nothing back`
+    return {
+      why: `HEAD names ${path} and holds no body for it, so \`${calledAs}\` put nothing back`,
+      code: DATA,
+    }
   }
   const was = bytesOnDisk(join(root, path))
   return {
@@ -157,16 +166,18 @@ function residueFor(
   path: string,
   indexed: Entry | undefined,
   calledAs: string
-): Cleared | string {
-  if (indexed === undefined) return unheld(path, calledAs)
-  if (anythingThere(join(root, path))) return unlanded(path, calledAs)
-  if (!MODES.has(indexed.mode)) return unclearable(path, indexed, calledAs)
+): Cleared | Refused {
+  if (indexed === undefined) return { why: unheld(path, calledAs), code: INPUT }
+  if (anythingThere(join(root, path))) return { why: unlanded(path, calledAs), code: INPUT }
+  if (!MODES.has(indexed.mode)) {
+    return { why: unclearable(path, indexed, calledAs), code: INPUT }
+  }
   return { path, entry: indexed }
 }
 
 type Judged =
   | { readonly held: readonly Held[]; readonly cleared: readonly Cleared[] }
-  | { readonly refusals: readonly string[]; readonly code?: number }
+  | { readonly refusals: readonly string[]; readonly code: number }
 
 export function judgedIn(root: string, paths: readonly string[], calledAs: string): Judged {
   let head: ReadonlyMap<string, Entry>
@@ -186,19 +197,24 @@ export function judgedIn(root: string, paths: readonly string[], calledAs: strin
   const held: Held[] = []
   const cleared: Cleared[] = []
   const refusals: string[] = []
+  let code = INPUT
+  const refuse = (one: Refused): undefined => {
+    refusals.push(one.why)
+    if (one.code > code) code = one.code
+  }
   for (const path of paths) {
     const entry = head.get(path)
     if (entry === undefined) {
       const residue = residueFor(root, path, indexed.get(path), calledAs)
-      if (typeof residue === "string") refusals.push(residue)
+      if ("why" in residue) refuse(residue)
       else cleared.push(residue)
       continue
     }
     const one = heldFor(root, path, entry, calledAs, indexed.get(path))
-    if (typeof one === "string") refusals.push(one)
+    if ("why" in one) refuse(one)
     else held.push(one)
   }
-  return refusals.length > 0 ? { refusals } : { held, cleared }
+  return refusals.length > 0 ? { refusals, code } : { held, cleared }
 }
 
 type Wanted = { readonly paths: readonly string[] } | { readonly refusals: readonly string[] }
@@ -315,7 +331,7 @@ export function gitRestore(argv: readonly string[], given: Given): Answer {
   const wanted = pathsIn(root, read.taken.filePath)
   if ("refusals" in wanted) return answeredWith([], wanted.refusals, INPUT)
   const judged = judgedIn(root, wanted.paths, given.calledAs)
-  if ("refusals" in judged) return answeredWith([], judged.refusals, judged.code ?? INPUT)
+  if ("refusals" in judged) return answeredWith([], judged.refusals, judged.code)
   const going = judged.held.filter((one) => !one.diskHolds || !one.indexHolds)
   const left = judged.held.filter((one) => one.diskHolds && one.indexHolds)
   const done: Held[] = []

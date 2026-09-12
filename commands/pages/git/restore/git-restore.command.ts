@@ -116,6 +116,18 @@ export const gitRestore = {
     },
     {
       invariantKind: "departure",
+      statement: "A path HEAD names and holds no body for is refused as the data's fault.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every other refusal here is the caller's fault.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call refused more than once is answered by the worst of those faults.",
+    },
+    {
+      invariantKind: "departure",
       statement: "`--file-path` is named again for each path put back.",
     },
   ],
