@@ -308,6 +308,11 @@ export const testsPass = {
       invariantKind: "departure",
       statement: "A captured fixture keeps the shape a run printed, with the paths restated.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The bodies the overlay carries are the ones the change names as carried, or the changed ones.",
+    },
   ],
   check: {},
   audit: {},

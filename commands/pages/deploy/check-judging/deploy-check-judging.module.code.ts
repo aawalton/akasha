@@ -31,6 +31,7 @@ export function changeFrom(
   return {
     root,
     changed: [...new Set([...moved, ...also])],
+    carried: [...built],
     before: (path) => bodyAt(root, was, path),
     after: at,
   }

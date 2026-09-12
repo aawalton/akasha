@@ -65,5 +65,10 @@ export const deployCheckJudging = {
       invariantKind: "absence",
       statement: "Nothing here puts anything up.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The change carries every file the deploy is built from, so the run reads that commit.",
+    },
   ],
 } as const satisfies Module

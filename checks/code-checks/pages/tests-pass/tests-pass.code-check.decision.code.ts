@@ -194,7 +194,7 @@ export function linksIn(change: Change): ReadonlyMap<string, Link> {
 
 function bodiesOf(change: Change, shadow: Shadow): Bodies {
   const held: Record<string, Body> = {}
-  for (const one of change.changed) held[one] = change.after(one)
+  for (const one of change.carried ?? change.changed) held[one] = change.after(one)
   for (const [at, body] of shadow.filed()) held[at] = body
   for (const [at, link] of linksIn(change)) held[at] = link
   return held

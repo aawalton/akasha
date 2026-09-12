@@ -31,6 +31,11 @@ test("a file the deploy names to be judged joins the diff, changed or not", () =
   expect([...change.changed]).toEqual(["three.ts"])
 })
 
+test("the change carries every file the deploy is built from", () => {
+  const change = changeFrom(ROOT, "HEAD", "HEAD", BUILT, ["three.ts"])
+  expect([...(change.carried ?? [])].sort()).toEqual(["one.ts", "two.ts"])
+})
+
 test("a commit git no longer holds is read as no commit", () => {
   expect(sinceCommit(ROOT, NOWHERE)).toBe(null)
 })
