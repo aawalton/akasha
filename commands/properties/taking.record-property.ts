@@ -21,12 +21,11 @@ export const taking = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A command stating nothing here and no help note is handed the help flag to answer itself.",
+      statement: "A command stating nothing here is handed the help flag to answer itself.",
     },
     {
       invariantKind: "departure",
-      statement: "A command stating nothing here but stating help notes is answered for from here.",
+      statement: "A command stating this property is answered for from here.",
     },
     {
       invariantKind: "departure",
