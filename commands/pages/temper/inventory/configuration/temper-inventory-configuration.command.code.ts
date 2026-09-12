@@ -65,7 +65,7 @@ export function sectionIn(said: string): Reading {
 
 const RULE_IDENTITY = new Set(["id", "action", "destination", "categoryId"])
 
-function conditionCount(rule: CompiledRule): number {
+function fieldCount(rule: CompiledRule): number {
   let held = 0
   for (const key of Object.keys(rule)) if (!RULE_IDENTITY.has(key)) held += 1
   return held
@@ -77,7 +77,7 @@ function ruleShape(rule: CompiledRule): Record<string, unknown> {
     action: rule.action,
     destination: rule.destination ?? "",
     categoryId: rule.categoryId ?? "",
-    conditionCount: conditionCount(rule),
+    fieldCount: fieldCount(rule),
   }
 }
 
@@ -99,9 +99,7 @@ function rulesSaid(rules: ReadonlyArray<CompiledRule>): readonly string[] {
     if (rule === undefined) continue
     const shape = ruleShape(rule)
     lines.push(
-      [at, shape.id, shape.action, shape.destination, shape.categoryId, shape.conditionCount].join(
-        "\t"
-      )
+      [at, shape.id, shape.action, shape.destination, shape.categoryId, shape.fieldCount].join("\t")
     )
   }
   return lines

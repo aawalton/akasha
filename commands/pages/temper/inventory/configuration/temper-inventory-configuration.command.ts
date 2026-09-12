@@ -28,6 +28,11 @@ export const temperInventoryConfiguration = {
       invariantKind: "departure",
       statement: "The records going unread is said rather than answered as agreement.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The count beside a rule counts every field past its identity rather than its conditions.",
+    },
   ],
   name: "configuration",
   arguments: [
