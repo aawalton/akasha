@@ -10,7 +10,7 @@ export const read = {
   test: "ts",
   testFixtures: "ts",
   parts: ["module/differing", "module/output-reaching", "module/body-owing"],
-  taking: [{ said: "--full", takes: "the whole body, whatever your record holds" }],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
