@@ -57,10 +57,6 @@ function dirsByUid(selected: readonly PlannedAddon[]): ReadonlyMap<string, strin
   return found
 }
 
-function versionOf(group: readonly PlannedAddon[], dir: string): string | undefined {
-  return group.find((one) => one.dir === dir)?.installedVersion
-}
-
 export function laidAmong(
   group: readonly PlannedAddon[],
   done: readonly string[],
@@ -70,14 +66,18 @@ export function laidAmong(
   return new Set(laid.map((one) => one.dir))
 }
 
-export function outcomesPartWay(
+export function carriedNothingSaid(uid: string): string {
+  return `the ESOUI download for file ${uid} carried nothing for it`
+}
+
+export function outcomesFor(
   group: readonly PlannedAddon[],
-  latest: string | undefined,
+  to: string | undefined,
   laid: ReadonlySet<string>,
   why: string
 ): readonly Outcome[] {
   return group.map((one) => {
-    const both = { dir: one.dir, from: one.installedVersion, to: latest }
+    const both = { dir: one.dir, from: one.installedVersion, to }
     if (laid.has(one.dir)) return { ...both, action: "updated" as const }
     return { ...both, action: "failed" as const, error: why }
   })
@@ -94,14 +94,9 @@ async function updatedGroup(
   try {
     const details = await fetchFileDetails(uid)
     const held = await downloadAndInstall(details, [...dirs], addonsPath, done)
-    return held.installedDirs.map((dir) => ({
-      dir,
-      action: "updated" as const,
-      from: versionOf(group, dir),
-      to: held.version,
-    }))
+    return outcomesFor(group, held.version, new Set(held.installedDirs), carriedNothingSaid(uid))
   } catch (thrown) {
-    return outcomesPartWay(group, latest, laidAmong(group, done, addonsPath), messageOf(thrown))
+    return outcomesFor(group, latest, laidAmong(group, done, addonsPath), messageOf(thrown))
   }
 }
 
