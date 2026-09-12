@@ -18,7 +18,7 @@ const ROOT = codeRoot()
 
 const GIVEN: Given = {
   root: ROOT,
-  calledAs: "akasha music-next",
+  calledAs: "akasha music next",
   from: ROOT,
   writer: null,
   agentId: null,

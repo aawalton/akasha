@@ -135,7 +135,7 @@ export function saidOf(selection: Selection): readonly string[] {
 export function musicNext(argv: readonly string[], given: Given): Answer {
   for (const one of argv) {
     if (one !== JSON_SAID) {
-      return refused(`\`${one}\` is nothing \`akasha music-next\` takes`, INPUT)
+      return refused(`\`${one}\` is nothing \`akasha music next\` takes`, INPUT)
     }
   }
   const amiss = gradeAmiss(given.root)
