@@ -3,7 +3,7 @@
 import {
   decodeBuild,
   encodeBuild,
-} from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
+} from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
 import {
   applyCharacterMetadata,
   extractCharacterMetadata,

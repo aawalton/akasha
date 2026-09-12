@@ -3,7 +3,7 @@ import {
   decodeBuild,
   ESO_VERSION_48,
   encodeBuild,
-} from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
+} from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
 import {
   getAffixScriptId,
   getAllianceId,
@@ -34,11 +34,11 @@ import {
   getWeaponEnchantId,
   getWeaponTraitId,
   getWeaponTypeId,
-} from "akasha/temper/build-codec/build-codec-indices/build-codec-indices.module.code.ts"
+} from "akasha/temper/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"
 import {
   ESO_VERSION_52,
   encodeV52,
-} from "akasha/temper/build-codec/build-codec-v52/build-codec-v52.module.code.ts"
+} from "akasha/temper/build-codec/modules/build-codec-v52/build-codec-v52.module.code.ts"
 import { base64urlToBytes } from "akasha/temper/build-hash/build-hash-base64url/build-hash-base64url.module.code.ts"
 import { stampedWith } from "akasha/temper/build-hash/build-hash-test-utils/build-hash-test-utils.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"

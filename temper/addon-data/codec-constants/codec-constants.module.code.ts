@@ -36,11 +36,11 @@ import {
   WEAPON_ENCHANT_BITS,
   WEAPON_TRAIT_BITS,
   WEAPON_TYPE_BITS,
-} from "akasha/temper/build-codec/build-codec-indices/build-codec-indices.module.code.ts"
+} from "akasha/temper/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"
 import {
   CHARACTER_BUILD_TYPE,
   ESO_VERSION_52,
-} from "akasha/temper/build-codec/build-codec-v52/build-codec-v52.module.code.ts"
+} from "akasha/temper/build-codec/modules/build-codec-v52/build-codec-v52.module.code.ts"
 import {
   COMPANION_ARMOR_WEIGHT_BITS,
   COMPANION_ARMOR_WEIGHT_IDS,

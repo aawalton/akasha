@@ -1,4 +1,4 @@
-import type { BuffOrDebuffTemplate } from "akasha/temper/formula-framework/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
+import type { BuffOrDebuffTemplate } from "akasha/temper/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
 import { createDataFile } from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
 
 interface BuffMinorEffect {

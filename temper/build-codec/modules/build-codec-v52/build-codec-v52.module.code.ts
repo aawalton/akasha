@@ -1,4 +1,10 @@
 import {
+  decodePassives,
+  decodeSkills,
+  encodePassives,
+  encodeSkills,
+} from "akasha/temper/build-codec/build-codec-v52-skills/build-codec-v52-skills.module.code.ts"
+import {
   AFFIX_SCRIPT_BITS,
   ALLIANCE_BITS,
   ATTRIBUTE_BITS,
@@ -45,21 +51,15 @@ import {
   SIGNATURE_SCRIPT_BITS,
   SKILL_LINE_BITS,
   VAMPIRE_STAGE_BITS,
-} from "akasha/temper/build-codec/build-codec-indices/build-codec-indices.module.code.ts"
+} from "akasha/temper/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"
 import {
   decodeChampionPoints,
   encodeChampionPoints,
-} from "akasha/temper/build-codec/build-codec-v52-champion-points/build-codec-v52-champion-points.module.code.ts"
+} from "akasha/temper/build-codec/modules/build-codec-v52-champion-points/build-codec-v52-champion-points.module.code.ts"
 import {
   decodeEquipment,
   encodeEquipment,
-} from "akasha/temper/build-codec/build-codec-v52-equipment/build-codec-v52-equipment.module.code.ts"
-import {
-  decodePassives,
-  decodeSkills,
-  encodePassives,
-  encodeSkills,
-} from "akasha/temper/build-codec/build-codec-v52-skills/build-codec-v52-skills.module.code.ts"
+} from "akasha/temper/build-codec/modules/build-codec-v52-equipment/build-codec-v52-equipment.module.code.ts"
 import {
   type BitReaderState,
   makeBitReader,

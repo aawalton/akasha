@@ -1,7 +1,7 @@
 import { companionActivationBuffs } from "akasha/temper/companions-core/companion-activation-buffs/companion-activation-buffs.module.code.ts"
 import type { CompanionMetricId } from "akasha/temper/companions-core/companion-metric-ids/companion-metric-ids.module.code.ts"
 import { companionPassiveMetrics } from "akasha/temper/companions-core/companion-passive-metrics/companion-passive-metrics.module.code.ts"
-import { buffOrDebuff } from "akasha/temper/formula-framework/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
+import { buffOrDebuff } from "akasha/temper/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
 import type {
   SpecialEffectType,
   StatusEffectType,

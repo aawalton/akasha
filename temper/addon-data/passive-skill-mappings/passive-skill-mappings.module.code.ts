@@ -2,7 +2,7 @@ import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-e
 import {
   PASSIVE_SKILL_COUNT,
   passiveSkillIds,
-} from "akasha/temper/build-codec/build-codec-indices/build-codec-indices.module.code.ts"
+} from "akasha/temper/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"
 import { skills } from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
 export function generatePassiveSkillMappings(): string {
   const entries: string[] = []

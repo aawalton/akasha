@@ -3,7 +3,7 @@ import {
   decodeV52,
   ESO_VERSION_52,
   encodeV52,
-} from "akasha/temper/build-codec/build-codec-v52/build-codec-v52.module.code.ts"
+} from "akasha/temper/build-codec/modules/build-codec-v52/build-codec-v52.module.code.ts"
 import {
   base64urlToBytes,
   bytesToBase64url,

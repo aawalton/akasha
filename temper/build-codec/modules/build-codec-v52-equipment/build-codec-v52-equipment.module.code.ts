@@ -34,7 +34,7 @@ import {
   WEAPON_ENCHANT_BITS,
   WEAPON_TRAIT_BITS,
   WEAPON_TYPE_BITS,
-} from "akasha/temper/build-codec/build-codec-indices/build-codec-indices.module.code.ts"
+} from "akasha/temper/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"
 import type { BitReaderState } from "akasha/temper/build-hash/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
 import { readBits } from "akasha/temper/build-hash/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
 import type { BitWriterState } from "akasha/temper/build-hash/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"

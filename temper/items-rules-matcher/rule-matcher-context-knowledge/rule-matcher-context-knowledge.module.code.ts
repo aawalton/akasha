@@ -1,5 +1,5 @@
 import { potions } from "akasha/temper/alchemy/potion-source/potion-source.module.code.ts"
-import { decodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
+import { decodeBuild } from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/build-support/modules/automation-settings/automation-settings.module.code.ts"
 import { resolveCharacterToggles } from "akasha/temper/build-support/modules/automation-settings/automation-settings.module.code.ts"
 import { foodOrDrink } from "akasha/temper/character-sources/food-or-drink-source/food-or-drink-source.module.code.ts"

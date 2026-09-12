@@ -8,7 +8,7 @@ import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.m
 import {
   decodeBuild,
   encodeBuild,
-} from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
+} from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
 import type {
   CharacterBuildMetadata,
   CompanionBuildMetadata,

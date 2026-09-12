@@ -10,7 +10,7 @@ import { useOptimisticDeletePage } from "akasha/pages/ui/supabase/mutations/use-
 import { useOptimisticPatchPage } from "akasha/pages/ui/supabase/mutations/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
 import { usePages } from "akasha/pages/ui/supabase/use-pages/use-pages.module.code.ts"
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
-import { encodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
+import { encodeBuild } from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
 import {
   type CharacterBuildMetadata,
   extractCharacterMetadata,

@@ -3,7 +3,7 @@ import { getMetricDisplayName } from "akasha/temper/characters-stats/metrics/met
 import {
   type BuffOrDebuffId,
   buffOrDebuff,
-} from "akasha/temper/formula-framework/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
+} from "akasha/temper/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import { Minus, Plus, TrendingDown, TrendingUp } from "lucide-react"
 

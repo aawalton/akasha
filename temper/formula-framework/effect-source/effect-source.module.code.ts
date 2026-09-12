@@ -1,5 +1,5 @@
-import type { BuffOrDebuffSource } from "akasha/temper/formula-framework/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
 import type { Effect } from "akasha/temper/formula-framework/effect/effect.module.code.ts"
+import type { BuffOrDebuffSource } from "akasha/temper/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
 import type { SourceCategoryId } from "akasha/temper/formula-framework/source-category/source-category.module.code.ts"
 
 export interface EffectSourceInterface<
