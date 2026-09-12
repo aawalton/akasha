@@ -14,10 +14,7 @@ export const temperInventoryReplayExplain = {
       takes: "give the trace back only where its item link is this one",
     },
   ],
-  helpNotes: [
-    "the trace is the one the addon stored, so nothing is evaluated again here.",
-    "naming an item link the stored trace does not carry refuses the call by naming what it does carry.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
