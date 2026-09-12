@@ -250,5 +250,22 @@ export const pageComposing = {
       invariantKind: "absence",
       statement: "Nothing here writes a file.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A body composed for a page already there is that page's whole body written again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The id the page already holds is carried into a body composed without `merge`.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here answers the body text a page held when the new body was composed.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A caller holds the body a page held when that caller's new body was composed.",
+    },
   ],
 } as const satisfies Module
