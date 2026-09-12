@@ -11,7 +11,7 @@ export const dallaDeployCleanup = {
       statement:
         "Every workstation service runs from one checkout the workstation deploy alone moves.",
       workingMemory:
-        "The wrapper stops following files, so nothing unjudged reaches a running service. The whole kind is put up by one deploy named for the kind, judged over the union of every workstation closure. The tree moves once and only the units whose own closure changed are restarted; a scheduled unit reads the tree on its next tick. The main checkout is the database and the only write target, so a unit reads and writes pages under it while running its code out of the pinned one.",
+        "No service follows files, so nothing unjudged reaches a running service. The whole kind is put up by one deploy named for the kind, judged over the union of every workstation closure. The tree moves once and only the units whose own closure changed are restarted; a scheduled unit reads the tree on its next tick. The main checkout is the database and the only write target, so a unit reads and writes pages under it while running its code out of the pinned one.",
     },
     {
       statement: "One workstation service runs the deploy loops for every service of one kind.",
