@@ -1,3 +1,8 @@
+import {
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   type Asked,
@@ -9,10 +14,6 @@ import {
   saidOf,
   startedOn,
 } from "akasha/commands/pages/model-gateway/start/proxy-run/proxy-run.module.code.ts"
-
-const INPUT = 1
-
-const NO_PORT = 3
 
 const AGENT_ID = "--agent-id"
 
@@ -90,6 +91,6 @@ export async function modelGatewayStart(argv: readonly string[]): Promise<Answer
   const asked = askedOf(argv, Date.now(), Math.floor(Math.random() * 1_000_000))
   if (typeof asked === "string") return { report: [], refusals: [asked], code: INPUT }
   const started = await startedOn(asked, RUN_SEAMS)
-  if (typeof started === "string") return { report: [], refusals: [started], code: NO_PORT }
-  return { report: [...saidOf(started)], refusals: [], code: 0 }
+  if (typeof started === "string") return { report: [], refusals: [started], code: OPERATIONAL }
+  return { report: [...saidOf(started)], refusals: [], code: OK }
 }
