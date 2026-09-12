@@ -5,6 +5,10 @@ import type { ProcLivenessEntry } from "akasha/agents/modules/proc-liveness/agen
 import { entry } from "akasha/agents/modules/proc-liveness/agent-proc-liveness.module.test-fixtures.ts"
 import { refusalsKept } from "akasha/agents/refusals-keeping/refusals-keeping.module.code.ts"
 import {
+  seatEditsAt,
+  seatRefusalsAt,
+} from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
+import {
   EXIT,
   OperationalError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
@@ -26,10 +30,6 @@ import {
   valueAlsoFiled,
 } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { refreshedIn } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import {
-  seatEditsAt,
-  seatRefusalsAt,
-} from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
 import { declaringUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { bodyAt, writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"

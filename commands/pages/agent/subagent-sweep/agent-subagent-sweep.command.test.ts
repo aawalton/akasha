@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import { pagesIn } from "akasha/agents/subagents/modules/census/subagent-census.module.code.ts"
+import { refusalsSaid } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
 import {
   agentSubagentSweep,
   runningOwnIn,
@@ -50,7 +51,6 @@ import {
   world,
   worldWith,
 } from "akasha/commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts"
-import { refusalsSaid } from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
 
 test("a page whose agent no live process answers for is named stale", async () => {
   const { root, base } = worldWith()

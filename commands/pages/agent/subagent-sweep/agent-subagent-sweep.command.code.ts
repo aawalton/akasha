@@ -18,6 +18,10 @@ import {
   outlivedAmong,
   subagentsDirOf,
 } from "akasha/agents/subagents/modules/outliving/subagent-outliving.module.code.ts"
+import {
+  movedOnto,
+  saidOf,
+} from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   landedMechanically,
@@ -47,10 +51,6 @@ import {
   pagelessAmong,
   pagelessSaid,
 } from "akasha/seat-system/subagent-pageless/subagent-pageless.module.code.ts"
-import {
-  movedOnto,
-  saidOf,
-} from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
 import {
   leftWhereItIs,
   seatPageIn,

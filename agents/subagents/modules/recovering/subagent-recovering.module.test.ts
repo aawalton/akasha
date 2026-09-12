@@ -5,19 +5,19 @@ import {
   refusalsAt,
   refusalsKept,
 } from "akasha/agents/refusals-keeping/refusals-keeping.module.code.ts"
-import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import {
-  appendEdits,
-  linesIn,
-} from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { scratch } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import {
   movedOnto,
   namedAt,
   refusalsSaid,
   seatEditsAt,
   seatRefusalsAt,
-} from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
+} from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
+import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import {
+  appendEdits,
+  linesIn,
+} from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import { scratch } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 
 afterAll(scratch.sweep)
 

@@ -13,6 +13,7 @@ import {
   took,
   type Working,
 } from "akasha/agents/seats/modules/stopping/seat-stopping.module.code.ts"
+import { seatEditsAt } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
 import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
@@ -23,7 +24,6 @@ import type { Asking } from "akasha/changes/runners/pages/mechanical-change-runn
 import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
-import { seatEditsAt } from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 
