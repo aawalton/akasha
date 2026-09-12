@@ -1,5 +1,6 @@
 import { readdirSync, readFileSync, statSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
+import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
@@ -16,8 +17,6 @@ import {
   namesIn,
   valuesOf,
 } from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
-
-const DATA = 2
 
 const GLOBAL_FLAG = "--global"
 
@@ -148,16 +147,16 @@ export function temperAddonGlobalNameDependents(argv: readonly string[] = []): A
       : [enumerateGlobalDependents({ global: named, files: sources })]
 
   if (argv.includes(JSON_FLAG)) {
-    return { report: reports.map((one) => JSON.stringify(one)), refusals: [], code: 0 }
+    return { report: reports.map((one) => JSON.stringify(one)), refusals: [], code: OK }
   }
 
   if (reports.length === 0) {
     return {
       report: ["no global an addon writes carries a settings-panel binding here"],
       refusals: [],
-      code: 0,
+      code: OK,
     }
   }
 
-  return { report: reports.flatMap(linesFor), refusals: [], code: 0 }
+  return { report: reports.flatMap(linesFor), refusals: [], code: OK }
 }
