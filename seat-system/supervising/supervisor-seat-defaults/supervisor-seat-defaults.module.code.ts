@@ -11,6 +11,7 @@ import type { Args } from "akasha/seat-system/seat-args/seat-args.module.code.ts
 import { onCallOf } from "akasha/seat-system/seat-on-call/seat-on-call.module.code.ts"
 import { defaultSlots } from "akasha/seat-system/seat-resolve/seat-resolve.module.code.ts"
 import { run } from "akasha/seat-system/seat-running/seat-running.module.code.ts"
+import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
 
 export type SeatMode = "interactive" | "headless"
 
@@ -54,5 +55,11 @@ export async function stateSeatDefaults(opts: {
   if (seatDefaultsStand(opts.agentId, opts.mode)) return
   try {
     await run(defaultStating(opts.agentId, opts.mode))
-  } catch {}
+  } catch (err) {
+    console.error(
+      `${LOG} stating the defaults of seat ${opts.agentId} failed, so this boot carries ` +
+        "whatever its page already said, and a boot that has no page carries no seat name:",
+      err
+    )
+  }
 }

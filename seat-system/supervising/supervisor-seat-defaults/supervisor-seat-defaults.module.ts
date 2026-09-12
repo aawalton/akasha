@@ -23,5 +23,13 @@ export const supervisorSeatDefaults = {
       invariantKind: "departure",
       statement: "A seat already with every default is left alone.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A stating that failed is said rather than swallowed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stating that failed leaves the boot going.",
+    },
   ],
 } as const satisfies Module
