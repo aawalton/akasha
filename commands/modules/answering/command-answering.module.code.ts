@@ -54,11 +54,22 @@ export function unclassified(thrown: unknown, calledAs: string): Answer {
   return { report: [], refusals: [`${calledAs}: ${whyOf(thrown)}`], code: UNCLASSIFIED }
 }
 
-export async function answering(work: () => Answer | Promise<Answer>): Promise<Answer> {
+const STOPPED = "this stopped part way. What it had done by then is this:"
+
+export async function answering(
+  work: (done: string[]) => Answer | Promise<Answer>
+): Promise<Answer> {
+  const done: string[] = []
   try {
-    return await work()
+    return await work(done)
   } catch (thrown) {
-    return faulted(thrown)
+    const said = faulted(thrown)
+    if (done.length === 0) return said
+    return {
+      report: done,
+      refusals: [...said.refusals, `${STOPPED} ${done.join("; ")}. Nothing after that ran.`],
+      code: said.code,
+    }
   }
 }
 

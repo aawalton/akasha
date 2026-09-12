@@ -74,6 +74,33 @@ test("work that threw is answered as the fault it threw", async () => {
   expect(held.refusals[0]).toBe("--app names a value")
 })
 
+test("a fault is answered with what the work had done by then", async () => {
+  const held = await answering((done) => {
+    done.push("wrote 4 bytes (alpha matte) to /one.png")
+    done.push("wrote 9 bytes (cutout) to /two.png")
+    throw new OperationalError("the pool dropped the call")
+  })
+  expect(held.report).toEqual([
+    "wrote 4 bytes (alpha matte) to /one.png",
+    "wrote 9 bytes (cutout) to /two.png",
+  ])
+  expect(held.code).toBe(OPERATIONAL)
+  expect(held.refusals[0]).toBe("the pool dropped the call")
+  const last = held.refusals[held.refusals.length - 1] as string
+  expect(last).toContain("stopped part way")
+  expect(last).toContain("wrote 4 bytes (alpha matte) to /one.png")
+  expect(last).toContain("wrote 9 bytes (cutout) to /two.png")
+})
+
+test("a fault with nothing done by then is answered as the fault alone", async () => {
+  const held = await answering((done) => {
+    expect(done).toEqual([])
+    throw new InputError("--app names a value")
+  })
+  expect(held.report).toEqual([])
+  expect(held.refusals.some((one) => one.includes("stopped part way"))).toBe(false)
+})
+
 test("a fault caught outside every command is answered as unclassified", () => {
   const held = unclassified(new Error("the environment itself failed"), "akasha")
   expect(held.report).toEqual([])

@@ -34,6 +34,19 @@ export const commandAnswering = {
     },
     {
       invariantKind: "departure",
+      statement: "Work is handed a list to name each thing on as that thing is done.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A fault is answered with what that list holds, reported and named in the refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A fault with nothing on that list is answered as the fault alone.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A word where a command takes flags alone is the caller's mistake.",
     },
     {
