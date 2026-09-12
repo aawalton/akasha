@@ -1,5 +1,4 @@
 import { targetArmor } from "akasha/temper/character-sources/target-armors/target-armors.module.code.ts"
-import type { CompanionMetricEffect } from "akasha/temper/companions-core/companion-metric-effect/companion-metric-effect.module.code.ts"
 import { getCompanionPassiveEffects } from "akasha/temper/companions-core/companion-passive-effects/companion-passive-effects.module.code.ts"
 import {
   type CompanionSkillId,
@@ -18,6 +17,7 @@ import { companions } from "akasha/temper/companions-core/companions/companions.
 import { getCompanionArmorBaseValue } from "akasha/temper/companions-core/modules/companion-armor-base-values/companion-armor-base-values.module.code.ts"
 import { companionArmorSlots } from "akasha/temper/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"
 import { companionJewelrySlots } from "akasha/temper/companions-core/modules/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
+import type { CompanionMetricEffect } from "akasha/temper/companions-core/modules/companion-metric-effect/companion-metric-effect.module.code.ts"
 import type { SourceCategoryId } from "akasha/temper/formula-framework/source-category/source-category.module.code.ts"
 
 export interface CompanionEffectSource {

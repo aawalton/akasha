@@ -1,4 +1,3 @@
-import { evaluate } from "akasha/temper/companions-core/companion-optimizer/companion-optimizer.module.code.ts"
 import { calculateCompanionStats } from "akasha/temper/companions-core/companion-stats-calculator/companion-stats-calculator.module.code.ts"
 import type { CompanionStatsResult } from "akasha/temper/companions-core/companion-stats-result/companion-stats-result.module.code.ts"
 import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
@@ -7,6 +6,7 @@ import {
   companions,
 } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import { companionBaseRoles } from "akasha/temper/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
+import { evaluate } from "akasha/temper/companions-core/modules/companion-optimizer/companion-optimizer.module.code.ts"
 import { sortedOnce } from "akasha/utils/narrow/sorted-once/sorted-once.module.code.ts"
 
 export interface DecodedBuild {

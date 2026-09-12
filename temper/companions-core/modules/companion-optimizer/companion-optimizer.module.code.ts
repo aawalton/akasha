@@ -1,4 +1,3 @@
-import type { CompanionMetricId } from "akasha/temper/companions-core/companion-metric-ids/companion-metric-ids.module.code.ts"
 import {
   findBestPermutation,
   optimizeSkills,
@@ -41,6 +40,7 @@ import {
   setNextEmptyTrait,
   setRingQualityToLegendary,
 } from "akasha/temper/companions-core/modules/companion-equipment-slots/companion-equipment-slots.module.code.ts"
+import type { CompanionMetricId } from "akasha/temper/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
 
 type CompanionAction =
   | { type: "select-companion"; companionId: CompanionId }

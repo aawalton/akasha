@@ -1,8 +1,4 @@
 import {
-  type CompanionMetricValue,
-  companionMetrics,
-} from "akasha/temper/companions-core/companion-metrics/companion-metrics.module.code.ts"
-import {
   calculateResults,
   createEmptyResult,
 } from "akasha/temper/companions-core/companion-rotation-results/companion-rotation-results.module.code.ts"
@@ -16,6 +12,10 @@ import {
   companionSkills,
 } from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
 import { activateLightAttack } from "akasha/temper/companions-core/modules/companion-light-attack/companion-light-attack.module.code.ts"
+import {
+  type CompanionMetricValue,
+  companionMetrics,
+} from "akasha/temper/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
 import type {
   HealthSamples,
   RotationConfig,

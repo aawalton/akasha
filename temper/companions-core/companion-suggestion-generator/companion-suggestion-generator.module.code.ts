@@ -1,4 +1,3 @@
-import { evaluate } from "akasha/temper/companions-core/companion-optimizer/companion-optimizer.module.code.ts"
 import {
   type CompanionSkillSlotId,
   companionSkillSlots,
@@ -18,6 +17,7 @@ import {
   type CompanionJewelrySlotId,
   companionJewelrySlots,
 } from "akasha/temper/companions-core/modules/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
+import { evaluate } from "akasha/temper/companions-core/modules/companion-optimizer/companion-optimizer.module.code.ts"
 
 export interface CompanionSuggestion {
   type: "trait" | "quality" | "skill"

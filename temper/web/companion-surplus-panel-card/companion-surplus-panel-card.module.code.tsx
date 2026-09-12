@@ -1,6 +1,6 @@
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
 import { StatRow } from "akasha/design/interfaces/patterns/stat-row/stat-row.module.code.tsx"
-import type { CompanionMetricValue } from "akasha/temper/companions-core/companion-metrics/companion-metrics.module.code.ts"
+import type { CompanionMetricValue } from "akasha/temper/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
 import { useCompanionStats } from "akasha/temper/web/use-companion-stats/use-companion-stats.module.code.ts"
 
 interface CompanionSurplusPanelCardProps {

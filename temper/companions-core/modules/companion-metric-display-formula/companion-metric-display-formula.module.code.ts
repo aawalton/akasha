@@ -1,13 +1,13 @@
-import type { CompanionMetricId } from "akasha/temper/companions-core/companion-metric-ids/companion-metric-ids.module.code.ts"
-import type { CompanionFormulaNode } from "akasha/temper/companions-core/companion-metric-template/companion-metric-template.module.code.ts"
+import type { CompanionBaseRoleId } from "akasha/temper/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
+import type { CompanionEffectSource } from "akasha/temper/companions-core/modules/companion-effect-sources/companion-effect-sources.module.code.ts"
+import type { CompanionMetricId } from "akasha/temper/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
+import type { CompanionFormulaNode } from "akasha/temper/companions-core/modules/companion-metric-template/companion-metric-template.module.code.ts"
 import {
   COMPANION_CATEGORIES,
   type CompanionMetricValue,
   companionMetrics,
   getCompanionMetricName,
-} from "akasha/temper/companions-core/companion-metrics/companion-metrics.module.code.ts"
-import type { CompanionBaseRoleId } from "akasha/temper/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
-import type { CompanionEffectSource } from "akasha/temper/companions-core/modules/companion-effect-sources/companion-effect-sources.module.code.ts"
+} from "akasha/temper/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
 import {
   convertArithmeticToDisplay,
   type DisplayResult,

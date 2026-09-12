@@ -1,9 +1,4 @@
 import { targetArmor } from "akasha/temper/character-sources/target-armors/target-armors.module.code.ts"
-import type { CompanionMetricId } from "akasha/temper/companions-core/companion-metric-ids/companion-metric-ids.module.code.ts"
-import {
-  type CompanionMetricValue,
-  companionMetrics,
-} from "akasha/temper/companions-core/companion-metrics/companion-metrics.module.code.ts"
 import {
   computeDpsMetrics,
   computeTpsMetrics,
@@ -29,6 +24,11 @@ import {
   extractMetricReferences,
   sumEffects,
 } from "akasha/temper/companions-core/modules/companion-formula-evaluator/companion-formula-evaluator.module.code.ts"
+import type { CompanionMetricId } from "akasha/temper/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
+import {
+  type CompanionMetricValue,
+  companionMetrics,
+} from "akasha/temper/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
 import { calculateRatingSurplus } from "akasha/temper/formula-framework/rating-chance/rating-chance.module.code.ts"
 import { topologicalSort } from "akasha/temper/formula-framework/topological-sort/topological-sort.module.code.ts"
 

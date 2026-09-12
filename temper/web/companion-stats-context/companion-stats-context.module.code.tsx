@@ -1,7 +1,5 @@
 "use client"
 
-import type { CompanionMetricId } from "akasha/temper/companions-core/companion-metric-ids/companion-metric-ids.module.code.ts"
-import type { CompanionMetricValue } from "akasha/temper/companions-core/companion-metrics/companion-metrics.module.code.ts"
 import {
   type CompanionFormulaStats,
   extractNonSoothingHealingDoneSources,
@@ -9,6 +7,8 @@ import {
 import { computeSoothingHealingDone } from "akasha/temper/companions-core/companion-soothing-healing/companion-soothing-healing.module.code.ts"
 import type { CompanionScalingMetricId } from "akasha/temper/companions-core/companion-value-formula/companion-value-formula.module.code.ts"
 import type { CompanionEffectSource } from "akasha/temper/companions-core/modules/companion-effect-sources/companion-effect-sources.module.code.ts"
+import type { CompanionMetricId } from "akasha/temper/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
+import type { CompanionMetricValue } from "akasha/temper/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
 import type { RotationResult } from "akasha/temper/companions-core/rotation-types/rotation-types.module.code.ts"
 import { useCompanion } from "akasha/temper/web/use-companion/use-companion.module.code.ts"
 import { useCompanionStatsCalculation } from "akasha/temper/web/use-companion-stats-calculation/use-companion-stats-calculation.module.code.ts"

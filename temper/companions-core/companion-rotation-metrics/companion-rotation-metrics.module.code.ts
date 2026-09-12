@@ -1,13 +1,13 @@
 import { targetArmor } from "akasha/temper/character-sources/target-armors/target-armors.module.code.ts"
-import type { CompanionMetricId } from "akasha/temper/companions-core/companion-metric-ids/companion-metric-ids.module.code.ts"
-import {
-  type CompanionMetricValue,
-  companionMetrics,
-} from "akasha/temper/companions-core/companion-metrics/companion-metrics.module.code.ts"
 import type { CompanionEffect } from "akasha/temper/companions-core/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
 import { companionSkills } from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
 import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import type { CompanionValueFormula } from "akasha/temper/companions-core/companion-value-formula/companion-value-formula.module.code.ts"
+import type { CompanionMetricId } from "akasha/temper/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
+import {
+  type CompanionMetricValue,
+  companionMetrics,
+} from "akasha/temper/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
 import type { RotationResult } from "akasha/temper/companions-core/rotation-types/rotation-types.module.code.ts"
 import { convertRatingToChance } from "akasha/temper/formula-framework/rating-chance/rating-chance.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"

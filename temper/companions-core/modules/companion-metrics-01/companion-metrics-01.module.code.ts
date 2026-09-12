@@ -1,4 +1,4 @@
-import type { CompanionMetricTemplate } from "akasha/temper/companions-core/companion-metric-template/companion-metric-template.module.code.ts"
+import type { CompanionMetricTemplate } from "akasha/temper/companions-core/modules/companion-metric-template/companion-metric-template.module.code.ts"
 
 export const COMPANION_METRICS_01 = {
   "companion-effective-damage": {
