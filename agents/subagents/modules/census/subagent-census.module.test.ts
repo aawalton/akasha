@@ -10,7 +10,7 @@ import {
   takenDownIn,
   UNDETERMINED,
   WORKING,
-} from "akasha/seat-system/subagent-census/subagent-census.module.code.ts"
+} from "akasha/agents/subagents/modules/census/subagent-census.module.code.ts"
 import {
   AGAIN,
   agentIdOf,
@@ -26,7 +26,7 @@ import {
   TASK,
   takeLine,
   writeLine,
-} from "akasha/seat-system/subagent-census/subagent-census.module.test-fixtures.ts"
+} from "akasha/agents/subagents/modules/census/subagent-census.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 test("a take-down is read whether or not its line opens with the time it was written", () => {

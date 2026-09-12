@@ -1,4 +1,4 @@
-import type { SubagentPage } from "akasha/seat-system/subagent-census/subagent-census.module.code.ts"
+import type { SubagentPage } from "akasha/agents/subagents/modules/census/subagent-census.module.code.ts"
 
 export const NONE_PAGELESS = "every subagent a transcript names as at work has a page of its own"
 

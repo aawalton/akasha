@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { SubagentPage } from "akasha/seat-system/subagent-census/subagent-census.module.code.ts"
+import type { SubagentPage } from "akasha/agents/subagents/modules/census/subagent-census.module.code.ts"
 import {
   NONE_PAGELESS,
   pagelessAmong,
