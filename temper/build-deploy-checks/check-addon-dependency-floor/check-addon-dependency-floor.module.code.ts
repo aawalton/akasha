@@ -1,11 +1,10 @@
 import { readFileSync } from "node:fs"
+import { addonManifestSchema } from "akasha/temper/addons-resolve/modules/addon-json/addon-json.module.code.ts"
+import { addonManifestPathIn } from "akasha/temper/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
 import {
   type AddonInfo,
   listAllAddons,
-} from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
-import { addonManifestSchema } from "akasha/temper/addons-resolve/modules/addon-json/addon-json.module.code.ts"
-import { addonManifestPathIn } from "akasha/temper/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
-import { EMPTY_ADDON_ROSTER_HINT } from "akasha/temper/build-deploy-checks/addon-roster-guard/addon-roster-guard.module.code.ts"
+} from "akasha/temper/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
 import {
   parseArgs as parseCliArgs,
   REPO_ROOT_FLAG,
@@ -16,6 +15,7 @@ import {
   auditDependencyFloors,
   type DependencyFloorAudit,
 } from "akasha/temper/build-deploy-checks/modules/addon-dependency-floor/addon-dependency-floor.module.code.ts"
+import { EMPTY_ADDON_ROSTER_HINT } from "akasha/temper/build-deploy-checks/modules/addon-roster-guard/addon-roster-guard.module.code.ts"
 import { renderPopulationBound } from "akasha/temper/build-deploy-checks/population-bound/population-bound.module.code.ts"
 import { getRepoRoot } from "akasha/temper/build-deploy-checks/repo-root/repo-root.module.code.ts"
 

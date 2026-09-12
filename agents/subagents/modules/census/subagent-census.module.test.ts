@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { entry } from "akasha/agents/proc-liveness/agent-proc-liveness.module.test-fixtures.ts"
+import { entry } from "akasha/agents/modules/proc-liveness/agent-proc-liveness.module.test-fixtures.ts"
 import {
   censusOf,
   judgedOver,

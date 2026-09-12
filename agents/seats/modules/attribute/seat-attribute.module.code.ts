@@ -1,4 +1,4 @@
-import type { Attribute } from "akasha/agents/attributes/agent-attributes.module.code.ts"
+import type { Attribute } from "akasha/agents/modules/attributes/agent-attributes.module.code.ts"
 
 export interface SeatDocument {
   readonly root: string

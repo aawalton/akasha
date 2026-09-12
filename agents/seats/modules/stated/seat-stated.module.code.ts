@@ -1,4 +1,4 @@
-import * as declarations from "akasha/agents/attributes/agent-attributes.module.code.ts"
+import * as declarations from "akasha/agents/modules/attributes/agent-attributes.module.code.ts"
 import { type FlexRecord, flexOf } from "akasha/agents/seats/modules/flex/seat-flex.module.code.ts"
 import {
   type InitiativeRecord,

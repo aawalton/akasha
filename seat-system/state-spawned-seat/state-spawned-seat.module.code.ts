@@ -2,7 +2,7 @@ import {
   ATTRIBUTES,
   type Declaration,
   type Mode,
-} from "akasha/agents/attributes/agent-attributes.module.code.ts"
+} from "akasha/agents/modules/attributes/agent-attributes.module.code.ts"
 import type { Args } from "akasha/agents/seats/modules/args/seat-args.module.code.ts"
 import {
   modeRefusal,

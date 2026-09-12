@@ -2,7 +2,7 @@ import {
   ATTRIBUTES,
   type Attributes,
   attributesOf,
-} from "akasha/agents/attributes/agent-attributes.module.code.ts"
+} from "akasha/agents/modules/attributes/agent-attributes.module.code.ts"
 
 function claim(attributes: Attributes): string {
   const named = ATTRIBUTES.flatMap((key) => {

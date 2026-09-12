@@ -5,7 +5,7 @@ import {
   type Declaration,
   MODES,
   type Mode,
-} from "akasha/agents/attributes/agent-attributes.module.code.ts"
+} from "akasha/agents/modules/attributes/agent-attributes.module.code.ts"
 import { fail } from "akasha/commands/modules/failing/command-failing.module.code.ts"
 import {
   AKASHA,

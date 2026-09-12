@@ -1,7 +1,7 @@
 import {
   parseInlineHandlers,
   snippetOf,
-} from "akasha/temper/build-deploy-checks/addon-orphan-xml-handler/addon-orphan-xml-handler.module.code.ts"
+} from "akasha/temper/build-deploy-checks/modules/addon-orphan-xml-handler/addon-orphan-xml-handler.module.code.ts"
 import { escapeRegExp } from "akasha/utils/narrow/escape-reg-exp/escape-reg-exp.module.code.ts"
 
 export interface DispatchFinding {

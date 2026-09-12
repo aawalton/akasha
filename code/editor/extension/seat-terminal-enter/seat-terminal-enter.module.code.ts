@@ -1,8 +1,8 @@
-import { seatTerminals } from "akasha/code/editor/extension/agent-tree-state/agent-tree-state.module.code.ts"
 import {
   callHarness,
   LANDING_TIMEOUT_MS,
 } from "akasha/code/editor/extension/harness-call/harness-call.module.code.ts"
+import { seatTerminals } from "akasha/code/editor/extension/modules/agent-tree-state/agent-tree-state.module.code.ts"
 import { seatMessaged } from "akasha/commands/pages/seat/messaged/seat-messaged.command.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import type * as vscode from "vscode"

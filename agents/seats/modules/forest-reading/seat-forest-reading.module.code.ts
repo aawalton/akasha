@@ -2,7 +2,7 @@ import {
   type SubagentPage,
   seatPageAt,
   subagentPagesStanding,
-} from "akasha/agents/page-reading/agent-page-reading.module.code.ts"
+} from "akasha/agents/modules/page-reading/agent-page-reading.module.code.ts"
 import {
   type ForestRow,
   readSeatForest,

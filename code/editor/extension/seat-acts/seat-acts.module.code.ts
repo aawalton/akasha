@@ -1,10 +1,10 @@
-import { output } from "akasha/code/editor/extension/agent-tree-state/agent-tree-state.module.code.ts"
 import { seatTerminalOptions } from "akasha/code/editor/extension/editor-group/editor-group.module.code.ts"
 import {
   callHarness,
   LANDING_TIMEOUT_MS,
 } from "akasha/code/editor/extension/harness-call/harness-call.module.code.ts"
 import type { ToggleTarget } from "akasha/code/editor/extension/invoked-seat/invoked-seat.module.code.ts"
+import { output } from "akasha/code/editor/extension/modules/agent-tree-state/agent-tree-state.module.code.ts"
 import {
   interactiveCall,
   NOTICES_CALL,

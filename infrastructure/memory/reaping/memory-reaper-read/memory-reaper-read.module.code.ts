@@ -1,5 +1,5 @@
 import { readdirSync, readFileSync } from "node:fs"
-import { isSupervisorCmdline } from "akasha/agents/proc-liveness/agent-proc-liveness.module.code.ts"
+import { isSupervisorCmdline } from "akasha/agents/modules/proc-liveness/agent-proc-liveness.module.code.ts"
 import type { PidSnapshot } from "akasha/infrastructure/memory/reaping/memory-reaper-proc-scan/memory-reaper-proc-scan.module.code.ts"
 import { z } from "zod"
 

@@ -3,14 +3,14 @@ import { join } from "node:path"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { numberAt, textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import {
-  addonBindingsPathIn,
-  namedFilePathOrNull,
-} from "akasha/temper/addon-build/addon-metadata-files/addon-metadata-files.module.code.ts"
-import {
   ADDON_BUILD_REL_ROOT,
   compilerConfigPathFor,
   TSCONFIG_NAME,
 } from "akasha/temper/addon-build/modules/addon-compiler-config/addon-compiler-config.module.code.ts"
+import {
+  addonBindingsPathIn,
+  namedFilePathOrNull,
+} from "akasha/temper/addon-build/modules/addon-metadata-files/addon-metadata-files.module.code.ts"
 import type { AddonManifest } from "akasha/temper/addons-resolve/modules/addon-json/addon-json.module.code.ts"
 import { addonManifestSchema } from "akasha/temper/addons-resolve/modules/addon-json/addon-json.module.code.ts"
 import { addonManifestPathIn } from "akasha/temper/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"

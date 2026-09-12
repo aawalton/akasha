@@ -11,7 +11,7 @@ import {
   type AggregateConfig,
   type AggregateFunction,
   computeAggregate,
-} from "akasha/pages/core/property-types/aggregate/aggregate.module.code.ts"
+} from "akasha/pages/core/property-types/modules/aggregate/aggregate.module.code.ts"
 import {
   computeRollup,
   type PageTypePropertiesMap,

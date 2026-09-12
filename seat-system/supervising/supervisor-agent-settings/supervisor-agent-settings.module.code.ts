@@ -14,7 +14,7 @@ import {
   type HookRegistration,
   hooksFrom,
   hooksMerged,
-} from "akasha/seat-system/supervising/agent-hook-registration/agent-hook-registration.module.code.ts"
+} from "akasha/seat-system/supervising/modules/agent-hook-registration/agent-hook-registration.module.code.ts"
 
 const AGENTS = "agents"
 

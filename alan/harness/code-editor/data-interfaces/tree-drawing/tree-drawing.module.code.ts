@@ -1,5 +1,5 @@
 import { join } from "node:path"
-import type { SubagentPage } from "akasha/agents/page-reading/agent-page-reading.module.code.ts"
+import type { SubagentPage } from "akasha/agents/modules/page-reading/agent-page-reading.module.code.ts"
 import type { ForestSeat } from "akasha/agents/seats/modules/forest-reading/seat-forest-reading.module.code.ts"
 import {
   forestOver,
@@ -8,14 +8,14 @@ import {
 import { colorOfState } from "akasha/agents/seats/modules/turn-color/seat-turn-color.module.code.ts"
 import { assembleCommandTree } from "akasha/alan/harness/code-editor/data-interfaces/command-tree-assemble/command-tree-assemble.module.code.ts"
 import { assemblePageTree } from "akasha/alan/harness/code-editor/data-interfaces/page-tree-assemble/page-tree-assemble.module.code.ts"
+import { championTree } from "akasha/code/editor/extension/champions-tree/champions-tree.module.code.ts"
 import {
   ALAN,
   assembleForest,
   countRunning,
   subagentKey,
-} from "akasha/code/editor/extension/agent-forest/agent-forest.module.code.ts"
-import { readSeatPlaces } from "akasha/code/editor/extension/agent-tree-lookup/agent-tree-lookup.module.code.ts"
-import { championTree } from "akasha/code/editor/extension/champions-tree/champions-tree.module.code.ts"
+} from "akasha/code/editor/extension/modules/agent-forest/agent-forest.module.code.ts"
+import { readSeatPlaces } from "akasha/code/editor/extension/modules/agent-tree-lookup/agent-tree-lookup.module.code.ts"
 import type { SubagentNode } from "akasha/code/editor/extension/subagent-reading/subagent-reading.module.code.ts"
 import { treeIn } from "akasha/commands/pages/initiative/work-tree/initiative-work-tree.command.code.ts"
 import { pageAnswers } from "akasha/commands/pages/page/tree/page-tree.command.code.ts"

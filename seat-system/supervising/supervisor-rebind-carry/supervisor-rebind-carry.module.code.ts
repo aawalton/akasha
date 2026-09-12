@@ -1,7 +1,7 @@
 import {
   attributesOf,
   recordedModeOf,
-} from "akasha/agents/attributes/agent-attributes.module.code.ts"
+} from "akasha/agents/modules/attributes/agent-attributes.module.code.ts"
 import { principalOf } from "akasha/agents/seats/modules/principal/seat-principal.module.code.ts"
 import type { StatedAgentSlots } from "akasha/seat-system/supervising/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
 

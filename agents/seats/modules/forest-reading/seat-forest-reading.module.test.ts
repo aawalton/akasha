@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { SubagentPage } from "akasha/agents/page-reading/agent-page-reading.module.code.ts"
+import type { SubagentPage } from "akasha/agents/modules/page-reading/agent-page-reading.module.code.ts"
 import type { ForestRow } from "akasha/agents/seats/modules/forest/seat-forest.module.code.ts"
 import {
   type ForestSaid,

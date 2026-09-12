@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import * as path from "node:path"
-import { VIEW_ID } from "akasha/code/editor/extension/agent-tree-ids/agent-tree-ids.module.code.ts"
+import { VIEW_ID } from "akasha/code/editor/extension/modules/agent-tree-ids/agent-tree-ids.module.code.ts"
 import type { SeatMode } from "akasha/code/editor/extension/seat-mode/seat-mode.module.code.ts"
 import { seatContextValue } from "akasha/code/editor/extension/seat-toggles/seat-toggles.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"

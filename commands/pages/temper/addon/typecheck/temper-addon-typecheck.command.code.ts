@@ -18,7 +18,7 @@ import { compilerConfigPathFor } from "akasha/temper/addon-build/modules/addon-c
 import {
   type AddonInfo,
   listAllAddons,
-} from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
+} from "akasha/temper/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
 import { saidBy as saidOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 

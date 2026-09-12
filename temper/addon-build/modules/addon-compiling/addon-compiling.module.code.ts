@@ -1,6 +1,5 @@
 import { existsSync, rmSync, statSync } from "node:fs"
 import { join } from "node:path"
-import { copyAddonMetadata } from "akasha/temper/addon-build/addon-metadata-copy/addon-metadata-copy.module.code.ts"
 import {
   compilerCommand,
   compilerEntry,
@@ -11,7 +10,8 @@ import {
   compilerConfigPathFor,
   TSCONFIG_NAME,
 } from "akasha/temper/addon-build/modules/addon-compiler-config/addon-compiler-config.module.code.ts"
-import { listAllAddons } from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
+import { copyAddonMetadata } from "akasha/temper/addon-build/modules/addon-metadata-copy/addon-metadata-copy.module.code.ts"
+import { listAllAddons } from "akasha/temper/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
 import {
   readSiblingAddonNames,
   siblingDistDir,

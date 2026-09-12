@@ -1,4 +1,4 @@
-import { bareSlug } from "akasha/agents/attributes/agent-attributes.module.code.ts"
+import { bareSlug } from "akasha/agents/modules/attributes/agent-attributes.module.code.ts"
 import { agentPresence } from "akasha/agents/seats/modules/presence-read/seat-presence-read.module.code.ts"
 import type { SeatPresence } from "akasha/agents/seats/modules/proc-key/seat-proc-key.module.code.ts"
 import { sessionOf } from "akasha/agents/seats/modules/session/seat-session.module.code.ts"

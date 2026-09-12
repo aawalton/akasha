@@ -1,5 +1,5 @@
-import { output } from "akasha/code/editor/extension/agent-tree-state/agent-tree-state.module.code.ts"
 import { invokedSeat } from "akasha/code/editor/extension/invoked-seat/invoked-seat.module.code.ts"
+import { output } from "akasha/code/editor/extension/modules/agent-tree-state/agent-tree-state.module.code.ts"
 import {
   confirmTurnLoss,
   type SeatAct,

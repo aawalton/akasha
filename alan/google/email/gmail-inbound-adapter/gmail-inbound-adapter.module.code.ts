@@ -5,8 +5,8 @@ import {
   SPAM_LABEL,
 } from "akasha/alan/google/email/gmail-messages/gmail-messages.module.code.ts"
 import { getHeader } from "akasha/alan/google/email/gmail-schema/gmail-schema.module.code.ts"
-import { matchAgentChannel } from "akasha/alan/harness/email-inbound/agent-channel/agent-channel.module.code.ts"
 import type { InboundMessage } from "akasha/alan/harness/email-inbound/inbound-message/inbound-message.module.code.ts"
+import { matchAgentChannel } from "akasha/alan/harness/email-inbound/modules/agent-channel/agent-channel.module.code.ts"
 import { parseSender } from "akasha/alan/harness/email-inbound/sender/sender.module.code.ts"
 
 function isSpamLabeled(labelIds: readonly string[] | undefined): boolean {

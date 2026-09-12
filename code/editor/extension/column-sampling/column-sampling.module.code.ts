@@ -1,7 +1,7 @@
 import {
   columns,
   output,
-} from "akasha/code/editor/extension/agent-tree-state/agent-tree-state.module.code.ts"
+} from "akasha/code/editor/extension/modules/agent-tree-state/agent-tree-state.module.code.ts"
 import {
   recordObservation,
   recordSweep,

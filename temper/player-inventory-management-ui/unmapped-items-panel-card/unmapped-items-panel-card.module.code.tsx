@@ -5,7 +5,7 @@ import { ItemRow } from "akasha/design/interfaces/patterns/item-row/item-row.mod
 import { formatGold } from "akasha/design/interfaces/primitives/format-gold/format-gold.module.code.ts"
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
 import type { AffectedItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
-import { AffectedItemsViews } from "akasha/temper/player-inventory-management-ui/affected-items-views/affected-items-views.module.code.tsx"
+import { AffectedItemsViews } from "akasha/temper/player-inventory-management-ui/modules/affected-items-views/affected-items-views.module.code.tsx"
 import {
   decideUnmappedItemsPanelState,
   type InventoryReadState,

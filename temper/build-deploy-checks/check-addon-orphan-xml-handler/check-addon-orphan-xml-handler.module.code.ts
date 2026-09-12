@@ -1,24 +1,24 @@
 import { readFileSync } from "node:fs"
 import { relative } from "node:path"
-import { listAllAddons } from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
-import {
-  collectSourceSymbols,
-  detectOrphans,
-  type OrphanFinding,
-} from "akasha/temper/build-deploy-checks/addon-orphan-xml-handler/addon-orphan-xml-handler.module.code.ts"
-import {
-  addonRosterIsEmpty,
-  EMPTY_ADDON_ROSTER_HINT,
-} from "akasha/temper/build-deploy-checks/addon-roster-guard/addon-roster-guard.module.code.ts"
-import {
-  addonMarkupFiles,
-  addonSourceFiles,
-} from "akasha/temper/build-deploy-checks/addon-source-files/addon-source-files.module.code.ts"
+import { listAllAddons } from "akasha/temper/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
 import {
   parseArgs as parseCliArgs,
   REPO_ROOT_FLAG,
 } from "akasha/temper/build-deploy-checks/cli-args/cli-args.module.code.ts"
 import { errorMessage } from "akasha/temper/build-deploy-checks/error-message/error-message.module.code.ts"
+import {
+  collectSourceSymbols,
+  detectOrphans,
+  type OrphanFinding,
+} from "akasha/temper/build-deploy-checks/modules/addon-orphan-xml-handler/addon-orphan-xml-handler.module.code.ts"
+import {
+  addonRosterIsEmpty,
+  EMPTY_ADDON_ROSTER_HINT,
+} from "akasha/temper/build-deploy-checks/modules/addon-roster-guard/addon-roster-guard.module.code.ts"
+import {
+  addonMarkupFiles,
+  addonSourceFiles,
+} from "akasha/temper/build-deploy-checks/modules/addon-source-files/addon-source-files.module.code.ts"
 import { renderPopulationBound } from "akasha/temper/build-deploy-checks/population-bound/population-bound.module.code.ts"
 import { getRepoRoot } from "akasha/temper/build-deploy-checks/repo-root/repo-root.module.code.ts"
 

@@ -3,7 +3,7 @@ import { join } from "node:path"
 import {
   actingAgentPidsFromProc,
   type ProcLivenessEntry,
-} from "akasha/agents/proc-liveness/agent-proc-liveness.module.code.ts"
+} from "akasha/agents/modules/proc-liveness/agent-proc-liveness.module.code.ts"
 import { SUBAGENT_MARK } from "akasha/agents/read-record/read-record.module.code.ts"
 import { supervisorsRootDir } from "akasha/agents/seats/supervisors/modules/log-path/supervisor-log-path.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"

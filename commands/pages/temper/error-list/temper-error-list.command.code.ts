@@ -13,7 +13,7 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { temperErrorList as page } from "akasha/commands/pages/temper/error-list/temper-error-list.command.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
-import { listAllAddons } from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
+import { listAllAddons } from "akasha/temper/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
 import type { ErrorEntry } from "akasha/temper/capture-errors/errors-payload/errors-payload.module.code.ts"
 import {
   collectEntries,

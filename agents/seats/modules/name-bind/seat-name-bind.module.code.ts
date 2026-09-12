@@ -5,7 +5,7 @@ import {
   type Presence,
 } from "akasha/agents/seats/modules/name-claim/seat-name-claim.module.code.ts"
 import { inputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import { gatherAgentNameBindInput } from "akasha/seat-system/agent-name-bind/agent-name-bind.module.code.ts"
+import { gatherAgentNameBindInput } from "akasha/seat-system/modules/agent-name-bind/agent-name-bind.module.code.ts"
 
 export interface SetAgentNameBind {
   readonly priorHolderPresence?: Presence

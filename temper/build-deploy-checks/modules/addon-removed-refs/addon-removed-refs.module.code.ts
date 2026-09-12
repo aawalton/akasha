@@ -1,0 +1,75 @@
+import { scanningBundleFile } from "akasha/temper/build-deploy-checks/bundle-file-scan/bundle-file-scan.module.code.ts"
+import { maskStringLiterals } from "akasha/temper/build-deploy-checks/modules/addon-banned-symbols/addon-banned-symbols.module.code.ts"
+import {
+  REMOVED_EXTERNAL_ADDON_GLOBALS,
+  type RemovedAddonGlobal,
+} from "akasha/temper/build-deploy-checks/modules/addon-removed-refs-manifest/addon-removed-refs-manifest.module.code.ts"
+import { escapeRegExp } from "akasha/utils/narrow/escape-reg-exp/escape-reg-exp.module.code.ts"
+import { z } from "zod"
+
+export interface RemovedRefIssue {
+  file: string
+  line: number
+  col: number
+  symbol: string
+  addon: string
+  hint: string
+}
+
+const REGEX_EXEC_SCHEMA = z
+  .unknown()
+  .nullable()
+  .transform((raw): { symbol: string; index: number } | null => {
+    if (raw === null) return null
+    if (!Array.isArray(raw)) throw new Error("expected array from RegExp.exec")
+    const symbol = z.string().parse(raw[0])
+    const indexUnknown: unknown = Reflect.get(raw, "index")
+    const index = z.number().parse(indexUnknown)
+    return { symbol, index }
+  })
+
+function parseNextExec(re: RegExp, input: string): { symbol: string; index: number } | null {
+  return REGEX_EXEC_SCHEMA.parse(re.exec(input))
+}
+
+function hintFor(entry: RemovedAddonGlobal, symbol: string): string {
+  const owner = entry.addon === symbol ? "" : `${entry.addon}: `
+  return `${owner}removed external addon, ${entry.remedy}; addon source must not reference it`
+}
+
+function scanBundle(source: string, file: string): readonly RemovedRefIssue[] {
+  const issues: RemovedRefIssue[] = []
+  const lines = source.split("\n")
+  for (let i = 0; i < lines.length; i++) {
+    let line = lines[i]
+    if (line === undefined) continue
+    if (line.endsWith("\r")) line = line.slice(0, -1)
+    if (line.trim() === "") continue
+    const masked = maskStringLiterals(line)
+    const lineNumber = i + 1
+    for (const entry of REMOVED_EXTERNAL_ADDON_GLOBALS) {
+      const re = new RegExp(`\\b${escapeRegExp(entry.global)}\\b`, "g")
+      let match = parseNextExec(re, masked)
+      while (match !== null) {
+        issues.push({
+          file,
+          line: lineNumber,
+          col: match.index + 1,
+          symbol: match.symbol,
+          addon: entry.addon,
+          hint: hintFor(entry, match.symbol),
+        })
+        match = parseNextExec(re, masked)
+      }
+    }
+  }
+  return issues
+}
+
+export function scanBundleFile(path: string): readonly RemovedRefIssue[] {
+  return scanningBundleFile(path, scanBundle)
+}
+
+export function formatIssue(issue: RemovedRefIssue): string {
+  return `${issue.file}:${issue.line}:${issue.col}  [removed-addon-ref] ${issue.symbol} — ${issue.hint}`
+}

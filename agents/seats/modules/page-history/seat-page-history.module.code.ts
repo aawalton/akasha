@@ -1,7 +1,7 @@
 import {
   DECLARATIONS,
   type Declaration,
-} from "akasha/agents/attributes/agent-attributes.module.code.ts"
+} from "akasha/agents/modules/attributes/agent-attributes.module.code.ts"
 import { initiativeStemOf } from "akasha/agents/seats/modules/initiative/seat-initiative.module.code.ts"
 import { AKASHA, rootFor } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"

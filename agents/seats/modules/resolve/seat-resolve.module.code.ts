@@ -3,7 +3,7 @@ import {
   type AttributeKey,
   DECLARATIONS,
   type Declaration,
-} from "akasha/agents/attributes/agent-attributes.module.code.ts"
+} from "akasha/agents/modules/attributes/agent-attributes.module.code.ts"
 import { seat as seatPageType } from "akasha/agents/seats/seat.page-type.ts"
 import { domainsRead } from "akasha/domains/modules/reading/domain-reading.module.code.ts"
 import { slugOf } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
