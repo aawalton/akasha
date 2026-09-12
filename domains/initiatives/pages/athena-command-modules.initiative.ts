@@ -34,7 +34,7 @@ export const athenaCommandModules = {
     {
       statement: "A refusal's exit code says what kind of thing went wrong.",
       workingMemory:
-        "`calling.module.code.ts` hands INPUT for a name the caller got wrong and DATA for a fault in the index or in a command's page; `refusing.module.code.ts:14,18` reads INPUT and DATA from `command-answering.module.code.ts`; `track weight` and `seat compose-notices` answer a thrown call with `faulted` rather than 1. Nothing derives a code from a refusal's words, so the only check that could hold this refuses a literal code where a declared one belongs. Approved?\n",
+        "24 mismatched codes were mended over 18 landings, `1f8c38b99e3` through `b93b0cd4404`. `no-second-exit-code` refuses only a rebound name, not a bare `code: 3`. `applying.module.code.ts:177` still gives 3 to both a check-refused landing and a git lock held too long, and widening `Refused` to carry a code is in flight. The fork left: `calling.module.ts` calls a name reaching no page the caller's mistake, `seat-handle.module.code.ts:113` calls it the data's fault. Which?",
     },
   ],
   constraints: [
