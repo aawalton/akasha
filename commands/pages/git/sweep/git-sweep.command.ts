@@ -34,6 +34,14 @@ export const gitSweep = {
       statement: "A path that would not go makes the call refuse.",
     },
     {
+      invariantKind: "departure",
+      statement: "A path that would not go is a fault in the world rather than in the call.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A checkout git names no directory for is a fault in the world too.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here is committed.",
     },

@@ -1,6 +1,7 @@
 import {
   INPUT,
   OPERATIONAL,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
   type Answer,
@@ -45,13 +46,9 @@ export function gitPush(argv: readonly string[], given: Given): Answer {
     return refused("HEAD is on no branch, so there is no branch to carry", OPERATIONAL)
   }
   if (dry) {
-    return {
-      report: [`${aheadIn(root, remote, branch)} would be carried to ${remote} (${branch})`],
-      refusals: [],
-      code: 0,
-    }
+    return told([`${aheadIn(root, remote, branch)} would be carried to ${remote} (${branch})`])
   }
   const outcome = pushBranch(root)
   if (outcome.failed) return refused(outcome.line, OPERATIONAL)
-  return { report: [outcome.line], refusals: [], code: 0 }
+  return told([outcome.line])
 }

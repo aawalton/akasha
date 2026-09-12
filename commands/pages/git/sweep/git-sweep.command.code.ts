@@ -1,6 +1,12 @@
-import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  INPUT,
+  OK,
+  OPERATIONAL,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
   type Answer,
+  answeredWith,
   type Given,
   refused,
 } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -22,16 +28,14 @@ export function gitSweep(argv: readonly string[], given: Given): Answer {
     )
   }
   const gitDir = gitDirIn(given.root)
-  if (gitDir === null) return refused(NO_GIT_DIR, INPUT)
+  if (gitDir === null) return refused(NO_GIT_DIR, OPERATIONAL)
   const found = foundIn(gitDir).filter((one) => one.there)
-  if (found.length === 0) return { report: [NOTHING], refusals: [], code: 0 }
-  if (dry) {
-    return { report: found.map((one) => `would take\t${one.at}`), refusals: [], code: 0 }
-  }
+  if (found.length === 0) return told([NOTHING])
+  if (dry) return told(found.map((one) => `would take\t${one.at}`))
   const said = takingFrom(gitDir, found)
-  return {
-    report: said.took.map((one) => `took\t${one}`),
-    refusals: said.refusals,
-    code: said.refusals.length === 0 ? 0 : INPUT,
-  }
+  return answeredWith(
+    said.took.map((one) => `took\t${one}`),
+    said.refusals,
+    said.refusals.length === 0 ? OK : OPERATIONAL
+  )
 }
