@@ -64,7 +64,10 @@ export function rooted(
   const root = scratch.rootFor(prefix)
   founded(root)
   typed(root, PACKAGE, "page")
-  declaring(root, "manifest", { pageTypeSlug: "file-property", fileName: "package.json" })
+  declaring(root, "workspace-manifest", {
+    pageTypeSlug: "file-property",
+    fileName: "package.json",
+  })
   listedFiled(root, PACKAGE, "held", [{ path: PAGE_AT, id: HELD_ID }])
   valueAlsoFiled(root, PACKAGE, [
     { path: PAGE_AT, value: { id: HELD_ID, pageTypeSlug: PACKAGE, slug: "held" } },
