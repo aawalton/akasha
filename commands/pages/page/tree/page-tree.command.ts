@@ -40,6 +40,10 @@ export const pageTree = {
     },
     {
       invariantKind: "departure",
+      statement: "An index that is not there is a fault of the data rather than of the world.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The three groups are handed back and the caller assembles the tree.",
     },
     {

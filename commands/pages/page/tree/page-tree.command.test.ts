@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { DATA } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   answersFrom,
@@ -188,10 +189,10 @@ test("a call naming nothing is not refused for its words", () => {
   expect(refusalsIn([])).toEqual([])
 })
 
-test("an index that is not there refuses as an operational fault", () => {
+test("an index that is not there refuses as a fault of the data", () => {
   const said = pageTree([], givenIn())
 
-  expect(said.code).toBe(3)
+  expect(said.code).toBe(DATA)
   expect(said.report).toEqual([])
   expect(said.refusals.length).toBe(1)
 })

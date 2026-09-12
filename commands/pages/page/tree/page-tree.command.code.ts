@@ -1,6 +1,11 @@
 import { resolve } from "node:path"
 import { writerIn } from "akasha/agents/read-record/read-record.module.code.ts"
 import { sayAnswer } from "akasha/commands/modules/answer-bytes/answer-bytes.module.code.ts"
+import {
+  asJson,
+  DATA,
+  refusedBy,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { authorIn } from "akasha/commands/modules/commit-author/commit-author.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -264,11 +269,11 @@ export function refusalsIn(argv: readonly string[]): readonly string[] {
 
 export function pageTree(argv: readonly string[], given: Given): Answer {
   const refusals = refusalsIn(argv)
-  if (refusals.length > 0) return { report: [], refusals, code: 1 }
+  if (refusals.length > 0) return refusedBy(refusals)
   try {
-    return { report: [JSON.stringify(pageAnswers(resolve(given.root)))], refusals: [], code: 0 }
+    return asJson(pageAnswers(resolve(given.root)))
   } catch (thrown) {
-    return { report: [], refusals: [whyOf(thrown)], code: 3 }
+    return refusedBy([whyOf(thrown)], DATA)
   }
 }
 
