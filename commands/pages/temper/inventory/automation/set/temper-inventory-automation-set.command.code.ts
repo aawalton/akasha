@@ -37,11 +37,16 @@ type Asked =
   | { readonly scope: AutomationScope; readonly value: ToggleValue }
   | { readonly why: string }
 
-type Asking = {
+export type Asking = {
   readonly scope: string
   readonly toggle: string
   readonly value: string
   readonly toggleTarget?: string
+}
+
+export type Toggling = {
+  readonly read: () => Promise<AutomationSettings>
+  readonly write: (next: AutomationSettings) => Promise<unknown>
 }
 
 function askedIn(asking: Asking): Asked {
@@ -55,41 +60,47 @@ function askedIn(asking: Asking): Asked {
   }
 }
 
-export async function temperInventoryAutomationSet(
-  argv: readonly string[],
-  given: Given
-): Promise<Answer> {
-  const read = takenFor(argv, given.calledAs, page, PAGES)
-  if ("refused" in read) return refusedBy(read.refused)
-
-  const asked = askedIn(read.taken)
+export async function changing(asking: Asking, toggling: Toggling): Promise<Answer> {
+  const asked = askedIn(asking)
   if ("why" in asked) return refused(asked.why, INPUT)
-
-  const access = await inventorySettings()
 
   let settings: AutomationSettings
   try {
-    settings = await access.readAutomation()
+    settings = await toggling.read()
   } catch (thrown) {
     return refused(`the automation settings went unread — ${whyOf(thrown)}`, OPERATIONAL)
   }
 
   let next: AutomationSettings
   try {
-    next = applyToggle(settings, asked.scope, read.taken.toggle, asked.value)
+    next = applyToggle(settings, asked.scope, asking.toggle, asked.value)
   } catch (thrown) {
     return refused(whyOf(thrown), INPUT)
   }
 
   try {
-    await access.writeAutomation(next)
+    await toggling.write(next)
   } catch (thrown) {
     return refused(
-      `the automation settings were not written, so no toggle changed — ${whyOf(thrown)}`,
+      `the automation settings would not take the change — ${whyOf(thrown)}`,
       OPERATIONAL
     )
   }
 
-  const said = { scope: scopeSaid(asked.scope), toggle: read.taken.toggle, value: asked.value }
+  const said = { scope: scopeSaid(asked.scope), toggle: asking.toggle, value: asked.value }
   return told(JSON.stringify(said, null, SPACES).split("\n"))
+}
+
+async function changed(asking: Asking): Promise<Answer> {
+  const access = await inventorySettings()
+  return await changing(asking, { read: access.readAutomation, write: access.writeAutomation })
+}
+
+export async function temperInventoryAutomationSet(
+  argv: readonly string[],
+  given: Given
+): Promise<Answer> {
+  const read = takenFor(argv, given.calledAs, page, PAGES)
+  if ("refused" in read) return refusedBy(read.refused)
+  return await changed(read.taken)
 }

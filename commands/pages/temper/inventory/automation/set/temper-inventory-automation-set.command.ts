@@ -6,10 +6,23 @@ export const temperInventoryAutomationSet = {
   slug: "temper-inventory-automation-set",
   definition: "the command setting or clearing one automation toggle",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement: "One call sets one toggle.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The act that sets takes the settings it writes through rather than reaching it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The scope, the toggle and the value are read before the settings are.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal says the settings would not take the change and no more than that.",
     },
     {
       invariantKind: "departure",
