@@ -122,49 +122,55 @@ function bytesOnDisk(at: string): Uint8Array | null {
   }
 }
 
-export function unheld(path: string): string {
+export function unheld(path: string, calledAs: string): string {
   return (
-    `HEAD holds no ${path}, so \`akasha git restore\` has nothing to put back there — a path HEAD ` +
+    `HEAD holds no ${path}, so \`${calledAs}\` has nothing to put back there — a path HEAD ` +
     "does not hold is often work another agent has not landed, so this refuses rather than " +
     "deleting it"
   )
 }
 
-export function unlanded(path: string): string {
+export function unlanded(path: string, calledAs: string): string {
   return (
     `HEAD holds no ${path}, the git index holds it, and the working tree holds it too — that is ` +
-    "work another agent staged and has not landed, so `akasha git restore` refuses rather than " +
+    `work another agent staged and has not landed, so \`${calledAs}\` refuses rather than ` +
     "deleting it"
   )
 }
 
-export function unclearable(path: string, entry: Entry): string {
+export function unclearable(path: string, entry: Entry, calledAs: string): string {
   return (
-    `HEAD holds no ${path} and the git index holds it with mode ${entry.mode}, and \`akasha git ` +
-    "restore` clears a git index entry for a file with mode 100644 or 100755 alone"
+    `HEAD holds no ${path} and the git index holds it with mode ${entry.mode}, and ` +
+    `\`${calledAs}\` clears a git index entry for a file with mode 100644 or 100755 alone`
   )
 }
 
-export function notAFile(path: string, entry: Entry): string {
+export function notAFile(path: string, entry: Entry, calledAs: string): string {
   return (
-    `HEAD holds ${path} as a ${entry.kind} rather than a file, and \`akasha git restore\` puts back ` +
+    `HEAD holds ${path} as a ${entry.kind} rather than a file, and \`${calledAs}\` puts back ` +
     "one file at a time — name the files under it"
   )
 }
 
-export function wrongMode(path: string, entry: Entry): string {
+export function wrongMode(path: string, entry: Entry, calledAs: string): string {
   return (
-    `HEAD holds ${path} with mode ${entry.mode}, and \`akasha git restore\` puts back a file with ` +
+    `HEAD holds ${path} with mode ${entry.mode}, and \`${calledAs}\` puts back a file with ` +
     "mode 100644 or 100755 alone"
   )
 }
 
-function heldFor(root: string, path: string, entry: Entry, indexed?: Entry): Held | string {
-  if (entry.kind !== BLOB) return notAFile(path, entry)
-  if (!MODES.has(entry.mode)) return wrongMode(path, entry)
+function heldFor(
+  root: string,
+  path: string,
+  entry: Entry,
+  calledAs: string,
+  indexed?: Entry
+): Held | string {
+  if (entry.kind !== BLOB) return notAFile(path, entry, calledAs)
+  if (!MODES.has(entry.mode)) return wrongMode(path, entry, calledAs)
   const body = bodyAt(root, HEAD, path)
   if (body === null) {
-    return `HEAD names ${path} and holds no body for it, so \`akasha git restore\` put nothing back`
+    return `HEAD names ${path} and holds no body for it, so \`${calledAs}\` put nothing back`
   }
   const was = bytesOnDisk(join(root, path))
   return {
@@ -177,10 +183,15 @@ function heldFor(root: string, path: string, entry: Entry, indexed?: Entry): Hel
   }
 }
 
-function residueFor(root: string, path: string, indexed: Entry | undefined): Cleared | string {
-  if (indexed === undefined) return unheld(path)
-  if (anythingThere(join(root, path))) return unlanded(path)
-  if (!MODES.has(indexed.mode)) return unclearable(path, indexed)
+function residueFor(
+  root: string,
+  path: string,
+  indexed: Entry | undefined,
+  calledAs: string
+): Cleared | string {
+  if (indexed === undefined) return unheld(path, calledAs)
+  if (anythingThere(join(root, path))) return unlanded(path, calledAs)
+  if (!MODES.has(indexed.mode)) return unclearable(path, indexed, calledAs)
   return { path, entry: indexed }
 }
 
@@ -188,7 +199,7 @@ type Judged =
   | { readonly held: readonly Held[]; readonly cleared: readonly Cleared[] }
   | { readonly refusals: readonly string[]; readonly code?: number }
 
-export function judgedIn(root: string, paths: readonly string[]): Judged {
+export function judgedIn(root: string, paths: readonly string[], calledAs: string): Judged {
   let head: ReadonlyMap<string, Entry>
   let indexed: ReadonlyMap<string, Entry>
   try {
@@ -197,7 +208,7 @@ export function judgedIn(root: string, paths: readonly string[]): Judged {
   } catch (why) {
     return {
       refusals: [
-        "git could not say what HEAD and the git index hold, so `akasha git restore` put nothing " +
+        `git could not say what HEAD and the git index hold, so \`${calledAs}\` put nothing ` +
           `back — ${saidBy(why)}`,
       ],
       code: OPERATIONAL,
@@ -209,12 +220,12 @@ export function judgedIn(root: string, paths: readonly string[]): Judged {
   for (const path of paths) {
     const entry = head.get(path)
     if (entry === undefined) {
-      const residue = residueFor(root, path, indexed.get(path))
+      const residue = residueFor(root, path, indexed.get(path), calledAs)
       if (typeof residue === "string") refusals.push(residue)
       else cleared.push(residue)
       continue
     }
-    const one = heldFor(root, path, entry, indexed.get(path))
+    const one = heldFor(root, path, entry, calledAs, indexed.get(path))
     if (typeof one === "string") refusals.push(one)
     else held.push(one)
   }
@@ -289,12 +300,13 @@ function counted(many: number): string {
 export function reportOf(
   going: readonly Held[],
   left: readonly Held[],
-  cleared: readonly Cleared[]
+  cleared: readonly Cleared[],
+  calledAs: string
 ): readonly string[] {
   const report: string[] = []
   if (going.length > 0) {
     report.push(
-      `akasha git restore is discarding uncommitted work at ${counted(going.length)}, and nothing ` +
+      `${calledAs} is discarding uncommitted work at ${counted(going.length)}, and nothing ` +
         "holds that work after this:",
       ...going.map(goingSaid),
       ""
@@ -302,7 +314,7 @@ export function reportOf(
   }
   if (cleared.length > 0) {
     report.push(
-      `akasha git restore is clearing a git index entry at ${counted(cleared.length)}, and the ` +
+      `${calledAs} is clearing a git index entry at ${counted(cleared.length)}, and the ` +
         "entry is all that goes — no commit held that body and no file on disk holds it:",
       ...cleared.map(clearedSaid),
       ""
@@ -317,11 +329,11 @@ export function reportOf(
     )
   }
   for (const one of left) {
-    report.push(`${one.path} is already the body HEAD holds, so akasha git restore left it alone`)
+    report.push(`${one.path} is already the body HEAD holds, so ${calledAs} left it alone`)
   }
   report.push(
     "",
-    "akasha git restore committed nothing and ran no check — HEAD's body passed the checks when " +
+    `${calledAs} committed nothing and ran no check — HEAD's body passed the checks when ` +
       "HEAD's body landed."
   )
   return report
@@ -336,7 +348,7 @@ export function gitRestore(argv: readonly string[], given: Given): Answer {
   const root = resolve(given.root)
   const wanted = pathsIn(root, read.named)
   if ("refusals" in wanted) return answering([], wanted.refusals, 1)
-  const judged = judgedIn(root, wanted.paths)
+  const judged = judgedIn(root, wanted.paths, given.calledAs)
   if ("refusals" in judged) return answering([], judged.refusals, judged.code ?? 1)
   const going = judged.held.filter((one) => !one.diskHolds || !one.indexHolds)
   const left = judged.held.filter((one) => one.diskHolds && one.indexHolds)
@@ -351,11 +363,11 @@ export function gitRestore(argv: readonly string[], given: Given): Answer {
     return answering(
       done.map((one) => `${one.path} is the body HEAD holds again on disk`),
       [
-        "akasha git restore stopped part way, so the git index may still hold another body — " +
+        `${given.calledAs} stopped part way, so the git index may still hold another body — ` +
           `${saidBy(why)}`,
       ],
       OPERATIONAL
     )
   }
-  return answering(reportOf(going, left, judged.cleared), [], 0)
+  return answering(reportOf(going, left, judged.cleared, given.calledAs), [], 0)
 }
