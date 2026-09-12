@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { decideReviveLaunch } from "akasha/seat-system/seat-revive-launch-decide/seat-revive-launch-decide.module.code.ts"
+import { decideReviveLaunch } from "akasha/agents/seats/modules/revive-launch-decide/seat-revive-launch-decide.module.code.ts"
 
 test("a seat with no session to resume is spawned", () => {
   const said = decideReviveLaunch({ sessionId: null, bootPrompt: "boot" })
