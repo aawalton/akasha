@@ -1,5 +1,5 @@
 import { INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   readState,
@@ -18,10 +18,10 @@ function upSeconds(startedAt: string): number | null {
   return Math.max(0, Math.floor((Date.now() - began) / 1000))
 }
 
-export function temperWatcherStatus(argv: readonly string[]): Answer {
+export function temperWatcherStatus(argv: readonly string[], given: Given): Answer {
   const strange = argv.find((one) => one !== JSON_SAID)
   if (strange !== undefined) {
-    return refused(`\`${strange}\` is nothing \`akasha temper watcher status\` takes`, INPUT)
+    return refused(`\`${strange}\` is nothing \`${given.calledAs}\` takes`, INPUT)
   }
   const running = isUnitActive()
   const startedAt = running ? (readState()?.startedAt ?? null) : null
