@@ -11,10 +11,6 @@ export const temperInventoryBankTrace = {
     { said: "--inventory-path <path>", takes: "the saved-variables file the trace is read from" },
     { said: "--json", takes: "give the whole trace as JSON rather than as text" },
   ],
-  helpNotes: [
-    "each phase carries its own time bracket, the count of moves it made, and what the net-worth walk cost.",
-    "a file holding no trace is refused rather than read as an empty one.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -23,6 +19,10 @@ export const temperInventoryBankTrace = {
     {
       invariantKind: "departure",
       statement: "Each phase has its own time bracket.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The trace names the moves made and what the net-worth walk cost.",
     },
     {
       invariantKind: "departure",
