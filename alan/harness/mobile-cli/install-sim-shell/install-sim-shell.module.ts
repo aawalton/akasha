@@ -29,5 +29,18 @@ export const installSimShell = {
       invariantKind: "departure",
       statement: "The installed simulator's udid is parsed back out of the remote build's output.",
     },
+    {
+      invariantKind: "gap",
+      statement: "No command reaches this module, so nothing here has run since it was written.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "Every other simulator command carried over on 2026-09-03 was written again and this one was not.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "The output this module parses is never read for the steps the build got through.",
+    },
   ],
 } as const satisfies Module
