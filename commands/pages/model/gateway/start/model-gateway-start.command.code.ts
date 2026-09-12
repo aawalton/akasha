@@ -8,10 +8,10 @@ import { seconds } from "akasha/commands/arguments/pages/seconds.argument.ts"
 import { version } from "akasha/commands/arguments/pages/version.argument.ts"
 import {
   answering,
-  INPUT,
   keeping,
-  OK,
   OPERATIONAL,
+  refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { modelGatewayStart as page } from "akasha/commands/pages/model/gateway/start/model-gateway-start.command.ts"
@@ -82,15 +82,15 @@ export async function modelGatewayStart(
     keep,
     seconds,
   ])
-  if ("refused" in read) return { report: [], refusals: [...read.refused], code: INPUT }
+  if ("refused" in read) return refusedBy([...read.refused])
   const wrong = wrongIn(read.taken)
-  if (wrong.length > 0) return { report: [], refusals: wrong, code: INPUT }
+  if (wrong.length > 0) return refusedBy(wrong)
   const asked = askedOf(read.taken, Date.now(), Math.floor(Math.random() * 1_000_000))
   return await answering(async (done) => {
     const started = await startedOn(asked, seams, done)
     if (typeof started === "string") {
-      return keeping(done, { report: [], refusals: [started], code: OPERATIONAL })
+      return keeping(done, refusedBy([started], OPERATIONAL))
     }
-    return { report: [...saidOf(started)], refusals: [], code: OK }
+    return told([...saidOf(started)])
   })
 }
