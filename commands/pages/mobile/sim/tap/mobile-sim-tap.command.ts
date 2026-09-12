@@ -36,6 +36,18 @@ export const mobileSimTap = {
       invariantKind: "departure",
       statement: "A refusal names the context switch attaching to the webview already made.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A tap is named as sent before that tap goes out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that threw on the send names that send in its refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The session, the finding, the clicking and the pointing are handed in.",
+    },
   ],
   name: "tap",
   arguments: [

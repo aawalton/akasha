@@ -1,12 +1,22 @@
 import { expect, test } from "bun:test"
+import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import type { SimSessionState } from "akasha/alan/harness/mobile-cli/sim-session/sim-session.module.code.ts"
 import {
+  answering,
   OPERATIONAL,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import type { Read } from "akasha/commands/pages/mobile/sim/tap/mobile-sim-tap.command.code.ts"
-import { mobileSimTap } from "akasha/commands/pages/mobile/sim/tap/mobile-sim-tap.command.code.ts"
+import type {
+  Read,
+  Touching,
+} from "akasha/commands/pages/mobile/sim/tap/mobile-sim-tap.command.code.ts"
+import {
+  mobileSimTap,
+  sentSaid,
+  tapped,
+} from "akasha/commands/pages/mobile/sim/tap/mobile-sim-tap.command.code.ts"
 
 const AT_A_POINT = ["--x", "10", "--y", "20"]
 
@@ -120,4 +130,50 @@ test("an element is handed over as the selector said", async () => {
 
   await mobileSimTap(["--selector", "#go"], GIVEN, tapping)
   expect(seen).toEqual([{ selector: "#go" }])
+})
+
+const STATE = { appiumBase: "http://mac:4723", sessionId: "sess-3" } as SimSessionState
+
+const AT_AN_ELEMENT: Read = { selector: "#go" }
+
+const AT_A_POINT_READ: Read = { x: 10, y: 20 }
+
+function touching(over: Partial<Touching> = {}): Touching {
+  return {
+    state: () => Promise.resolve(STATE),
+    found: () => Promise.resolve("the-element-named"),
+    clicked: () => Promise.resolve(undefined),
+    pointed: () => Promise.resolve(undefined),
+    ...over,
+  }
+}
+
+const UNCLICKED = touching({
+  clicked: () => Promise.reject(new OperationalError("the sim never answered the click")),
+})
+
+const UNPOINTED = touching({
+  pointed: () => Promise.reject(new OperationalError("the sim never answered the tap")),
+})
+
+test("a tap at an element is named as sent before that tap goes out", async () => {
+  const done: string[] = []
+
+  await tapped(done, AT_AN_ELEMENT, touching())
+  expect(done).toEqual([sentSaid("#go")])
+})
+
+test("a tap that threw on the send names that send in its refusal", async () => {
+  const held = await answering(async (done) => await tapped(done, AT_AN_ELEMENT, UNCLICKED))
+
+  expect(held.code).toBe(OPERATIONAL)
+  expect(held.report).toEqual([sentSaid("#go")])
+  expect(held.refusals.at(-1)).toContain(sentSaid("#go"))
+})
+
+test("a tap at a point that threw on the send names the point it went to", async () => {
+  const held = await answering(async (done) => await tapped(done, AT_A_POINT_READ, UNPOINTED))
+
+  expect(held.report).toEqual([sentSaid("(10, 20)")])
+  expect(held.refusals.at(-1)).toContain("(10, 20)")
 })
