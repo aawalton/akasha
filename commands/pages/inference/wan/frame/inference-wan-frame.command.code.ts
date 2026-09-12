@@ -1,8 +1,14 @@
 import { mkdir, readdir } from "node:fs/promises"
 import { basename, dirname, extname, join } from "node:path"
 import {
+  type TakenFor,
+  takenFor,
+} from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { fps as fpsArgument } from "akasha/commands/arguments/pages/fps.argument.ts"
+import { outDir as outDirArgument } from "akasha/commands/arguments/pages/out-dir.argument.ts"
+import { video as videoArgument } from "akasha/commands/arguments/pages/video.argument.ts"
+import {
   DATA,
-  INPUT,
   OK,
   OPERATIONAL,
   refusedBy,
@@ -10,46 +16,32 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import type { Shape } from "akasha/commands/pages/inference/flag-arguing/flag-arguing.module.code.ts"
-import type {
-  Taken,
-  Taking,
-} from "akasha/commands/pages/inference/wan/wan-arguing/wan-arguing.module.code.ts"
-import {
-  at,
-  numberIn,
-  readIn,
-} from "akasha/commands/pages/inference/wan/wan-arguing/wan-arguing.module.code.ts"
+import { pathUnder } from "akasha/commands/pages/inference/flag-arguing/flag-arguing.module.code.ts"
+import { inferenceWanFrame as page } from "akasha/commands/pages/inference/wan/frame/inference-wan-frame.command.ts"
 import { spawned } from "akasha/commands/pages/inference/wan/wan-hosting/wan-hosting.module.code.ts"
 
 const FRAME_PATTERN = /^frame-\d{4}\.png$/
 
-const TAKING: Taking = {
-  shapes: new Map<string, Shape>([
-    ["--video", "token"],
-    ["--fps", "token"],
-    ["--out-dir", "token"],
-  ]),
-  filled: new Map<string, string>(),
-  needed: ["--video"],
+const PAGES = [fpsArgument, outDirArgument, videoArgument]
+
+type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
+
+export function wrongIn(taken: Taken): readonly string[] {
+  if (taken.fps !== 0) return []
+  return [`\`${fpsArgument.said}\` is one frame a second or more`]
 }
 
-export function readFrame(argv: readonly string[]): ReturnType<typeof readIn> {
-  return readIn(argv, TAKING)
-}
-
-async function framing(read: Taken, given: Given, report: string[]): Promise<Answer> {
-  const said = read.said
-  const videoPath = at(given, said.get("--video") ?? "")
-  const fps = numberIn(said, "--fps")
-  if (fps === 0) return refused("`--fps` is one frame a second or more", INPUT)
+async function framing(taken: Taken, given: Given, report: string[]): Promise<Answer> {
+  const videoPath = pathUnder(given.root, taken.video)
+  const fps = taken.fps
   if (!(await Bun.file(videoPath).exists())) {
-    return refused(`\`--video\` names \`${videoPath}\`, and nothing is there`, DATA)
+    return refused(`\`${videoArgument.said}\` names \`${videoPath}\`, and nothing is there`, DATA)
   }
   const stem = basename(videoPath, extname(videoPath))
-  const outSaid = said.get("--out-dir")
   const outDir =
-    outSaid === undefined ? join(dirname(videoPath), `${stem}-frames`) : at(given, outSaid)
+    taken.outDir === undefined
+      ? join(dirname(videoPath), `${stem}-frames`)
+      : pathUnder(given.root, taken.outDir)
   await mkdir(outDir, { recursive: true })
 
   const proc = spawned([
@@ -76,11 +68,13 @@ async function framing(read: Taken, given: Given, report: string[]): Promise<Ans
 }
 
 export async function inferenceWanFrame(argv: readonly string[], given: Given): Promise<Answer> {
-  const read = readFrame(argv)
+  const read = takenFor(argv, given.calledAs, page, PAGES)
   if ("refused" in read) return refusedBy(read.refused)
+  const wrong = wrongIn(read.taken)
+  if (wrong.length > 0) return refusedBy(wrong)
   const report: string[] = []
   try {
-    return await framing(read, given, report)
+    return await framing(read.taken, given, report)
   } catch (thrown) {
     return { report, refusals: [whyOf(thrown)], code: OPERATIONAL }
   }
