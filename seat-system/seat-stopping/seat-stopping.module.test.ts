@@ -156,8 +156,9 @@ const LANDED: Applied = {
 type Handed = { readonly changes: readonly Asking[]; readonly message: string }
 
 function noting(held: Handed[], answer: Applied | Refused = LANDED): Landing {
-  return (_root, changes, message) => {
+  return (done, _root, changes, message) => {
     held.push({ changes, message })
+    if ("commit" in answer && answer.commit !== null) done.push(answer.commit)
     return Promise.resolve(answer)
   }
 }
@@ -180,15 +181,25 @@ test("a page taken away goes through the change that dispatches by what the file
 test("a page taken away is named to the landing at the change removing a file", async () => {
   const { root } = heldIn()
   const held: Handed[] = []
-  expect(await took(givenIn(root), [HELD_AT], MESSAGE, noting(held))).toBe(true)
+  expect(await took(givenIn(root), [HELD_AT], MESSAGE, [], noting(held))).toBe(true)
   expect(held).toEqual([{ changes: [{ at: TAKE, given: { at: HELD_AT } }], message: MESSAGE }])
+  world.sweep()
+})
+
+test("the commit the landing made is named to the list the caller handed in", async () => {
+  const { root } = heldIn()
+  const done: string[] = []
+  expect(await took(givenIn(root), [HELD_AT], MESSAGE, done, noting([]))).toBe(true)
+  expect(done).toEqual([LANDED.commit as string])
   world.sweep()
 })
 
 test("a path that is not there reaches no landing and answers that it went", async () => {
   const { root } = heldIn()
   const held: Handed[] = []
-  expect(await took(givenIn(root), ["held/never-written.txt"], MESSAGE, noting(held))).toBe(true)
+  expect(await took(givenIn(root), ["held/never-written.txt"], MESSAGE, [], noting(held))).toBe(
+    true
+  )
   expect(held).toEqual([])
   world.sweep()
 })
@@ -197,7 +208,7 @@ test("a page taken away is forgotten by whoever read it", async () => {
   const { root, oid } = heldIn()
   recordRead(root, AGENT, { path: HELD_AT, oid, seenAt: 1, carriedOid: null })
   expect(readingIn(root, AGENT, HELD_AT)).not.toBe(null)
-  expect(await took(givenIn(root), [HELD_AT], MESSAGE, noting([]))).toBe(true)
+  expect(await took(givenIn(root), [HELD_AT], MESSAGE, [], noting([]))).toBe(true)
   expect(readingIn(root, AGENT, HELD_AT)).toBe(null)
   world.sweep()
 })
@@ -206,7 +217,7 @@ test("a reading is kept where the landing refused the page it names", async () =
   const { root, oid } = heldIn()
   recordRead(root, AGENT, { path: HELD_AT, oid, seenAt: 1, carriedOid: null })
   const held = noting([], { refusals: ["another landing held the lock"], code: EXIT.OPERATIONAL })
-  expect(await took(givenIn(root), [HELD_AT], MESSAGE, held)).toBe(false)
+  expect(await took(givenIn(root), [HELD_AT], MESSAGE, [], held)).toBe(false)
   expect(readingIn(root, AGENT, HELD_AT)).not.toBe(null)
   world.sweep()
 })
@@ -215,7 +226,7 @@ test("a landing answering something wrong leaves the reading where it is", async
   const { root, oid } = heldIn()
   recordRead(root, AGENT, { path: HELD_AT, oid, seenAt: 1, carriedOid: null })
   const held = noting([], { ...LANDED, wrong: ["the check refused"] })
-  expect(await took(givenIn(root), [HELD_AT], MESSAGE, held)).toBe(false)
+  expect(await took(givenIn(root), [HELD_AT], MESSAGE, [], held)).toBe(false)
   expect(readingIn(root, AGENT, HELD_AT)).not.toBe(null)
   world.sweep()
 })

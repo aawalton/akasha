@@ -2,7 +2,10 @@ import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { dropReadings } from "akasha/agents/read-record/read-record.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import {
+  landedMechanically,
+  type runMechanicalChange,
+} from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   INPUT,
   OPERATIONAL,
@@ -132,6 +135,7 @@ export async function endedSession(name: string): Promise<boolean> {
 export const TAKE = "change-mechanical/remove-file-of-any-kind"
 
 export type Landing = (
+  done: string[],
   root: string,
   changes: readonly Asking[],
   message: string
@@ -141,12 +145,13 @@ export async function took(
   given: Given,
   paths: readonly string[],
   message: string,
-  landing: Landing = runMechanicalChange
+  done: string[] = [],
+  landing: Landing = landedMechanically
 ): Promise<boolean> {
   const here = paths.filter((one) => existsSync(join(given.root, one)))
   if (here.length === 0) return true
   const changes: readonly Asking[] = here.map((path) => ({ at: TAKE, given: { at: path } }))
-  const landed = await landing(given.root, changes, message)
+  const landed = await landing(done, given.root, changes, message)
   const wrong = "refusals" in landed ? landed.refusals : landed.wrong
   const gone = wrong.length === 0
   if (gone) dropReadings(given.root, here)
@@ -191,7 +196,7 @@ async function tookPage(
 ): Promise<void> {
   removeUncommitted(given.root, page)
   done.push(`took the uncommitted values beside \`${page}\``)
-  const gone = await took(given, [page], message)
+  const gone = await took(given, [page], message, done)
   done.push(gone ? `took \`${page}\`` : `left \`${page}\` — the landing taking it refused`)
 }
 
@@ -215,7 +220,8 @@ export async function stopping(
     const swept = await took(
       given,
       working.map((one) => one.path),
-      `${name} is stopped, so what it dispatched goes with it`
+      `${name} is stopped, so what it dispatched goes with it`,
+      done
     )
     const many = String(working.length)
     done.push(swept ? `took ${many} subagent page(s)` : `left ${many} subagent page(s)`)
