@@ -21,7 +21,9 @@ import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import { query as queryArgument } from "akasha/commands/arguments/pages/query.argument.ts"
 import { uri as uriArgument } from "akasha/commands/arguments/pages/uri.argument.ts"
 import {
+  answering,
   INPUT,
+  keeping,
   OK,
   refusedBy,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -93,6 +95,11 @@ export function playEnvelopeFor(
   return { query, track, deviceId: deviceId ?? null }
 }
 
+export function startedSaid(uri: string, deviceId: string | undefined): string {
+  const where = deviceId === undefined ? "the active device" : `device ${deviceId}`
+  return `${uri} was started on ${where}`
+}
+
 export function playLineFor(track: ResolvedTrack): string {
   const label = track.name ?? track.uri
   const suffix = track.artists.length > 0 ? ` — ${track.artists.join(", ")}` : ""
@@ -137,17 +144,20 @@ export async function playing(
   const taken = read.taken
   const wrong = wrongIn(taken.query, taken.uri)
   if (wrong !== null) return refused(wrong, INPUT)
-  try {
-    const wanted = await wantedIn(taken.query, taken.uri, taken.artist, ports)
-    const deviceId = await startedOn(wanted.track.uri, taken.deviceId, ports)
-    const said = taken.json
-      ? JSON.stringify(playEnvelopeFor(wanted.query, wanted.track, deviceId))
-      : playLineFor(wanted.track)
-    return { report: [said], refusals: [], code: OK }
-  } catch (thrown) {
-    if (isCliError(thrown)) return refused(thrown.message, thrown.code)
-    throw thrown
-  }
+  return await answering(async (done) => {
+    try {
+      const wanted = await wantedIn(taken.query, taken.uri, taken.artist, ports)
+      const deviceId = await startedOn(wanted.track.uri, taken.deviceId, ports)
+      done.push(startedSaid(wanted.track.uri, deviceId))
+      const said = taken.json
+        ? JSON.stringify(playEnvelopeFor(wanted.query, wanted.track, deviceId))
+        : playLineFor(wanted.track)
+      return { report: [said], refusals: [], code: OK }
+    } catch (thrown) {
+      if (isCliError(thrown)) return keeping(done, refused(thrown.message, thrown.code))
+      throw thrown
+    }
+  })
 }
 
 export function musicPlay(argv: readonly string[], given: Given): Promise<Answer> {

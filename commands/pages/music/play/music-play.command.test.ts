@@ -197,6 +197,51 @@ test("no device left to play on refuses the call as an operational fault", async
   expect(said.refusals).toEqual(["no active Spotify device"])
 })
 
+test("a failure of no known kind is answered rather than thrown out of the command", async () => {
+  const fake = fakeFor({
+    resolveQueryToTrack: () => Promise.reject(new Error("the body was not the shape asked for")),
+  })
+  const said = await playing(["Motion Sickness"], fake.ports, CALLED)
+  expect(said.code).toBe(3)
+  expect(said.refusals.join(" ")).toContain("the body was not the shape asked for")
+  expect(fake.kept.started).toEqual([])
+})
+
+test("a failure of no known kind after playback started says playback started", async () => {
+  const trap: ResolvedTrack = {
+    name: "Motion Sickness",
+    uri: MOTION.uri,
+    id: null,
+    get artists(): readonly string[] {
+      throw new Error("the track came back unreadable")
+    },
+  }
+  const fake = fakeFor({ resolveQueryToTrack: () => Promise.resolve(trap) })
+  const said = await playing(["Motion Sickness"], fake.ports, CALLED)
+  expect(fake.kept.started).toEqual([{ uris: [MOTION.uri] }])
+  expect(said.code).toBe(3)
+  expect(said.report).toEqual([`${MOTION.uri} was started on the active device`])
+  expect(said.refusals.join(" ")).toContain("stopped part way")
+})
+
+test("a refusal after playback started says playback started too", async () => {
+  const trap: ResolvedTrack = {
+    name: "Motion Sickness",
+    uri: MOTION.uri,
+    id: null,
+    get artists(): readonly string[] {
+      throw new DataError("the track came back unreadable")
+    },
+  }
+  const fake = fakeFor({ resolveQueryToTrack: () => Promise.resolve(trap) })
+  const said = await playing(["Motion Sickness"], fake.ports, CALLED)
+  expect(fake.kept.started).toEqual([{ uris: [MOTION.uri] }])
+  expect(said.code).toBe(2)
+  expect(said.report).toEqual([`${MOTION.uri} was started on the active device`])
+  expect(said.refusals.join(" ")).toContain("the track came back unreadable")
+  expect(said.refusals.join(" ")).toContain("stopped part way")
+})
+
 test("what follows a bare pair of dashes is the query however it is written", async () => {
   const fake = fakeFor()
   await playing(["--", "--json"], fake.ports, CALLED)

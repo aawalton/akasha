@@ -33,6 +33,14 @@ export const musicPlay = {
       statement: "A device named on the command line is played on rather than the active device.",
     },
     {
+      invariantKind: "departure",
+      statement: "A call that started playback and then refused says playback started.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A play Spotify took but answered badly is said here to have not started.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here writes a page.",
     },
