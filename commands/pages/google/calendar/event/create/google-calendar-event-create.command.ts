@@ -53,9 +53,9 @@ export const googleCalendarEventCreate = {
   arguments: [
     { argument: "argument/calendar" },
     { argument: "argument/send-updates" },
-    { argument: "argument/summary" },
-    { argument: "argument/start" },
-    { argument: "argument/end" },
+    { argument: "argument/summary", required: true },
+    { argument: "argument/start", required: true },
+    { argument: "argument/end", required: true },
     { argument: "argument/description" },
     { argument: "argument/location" },
     { argument: "argument/attendees" },
