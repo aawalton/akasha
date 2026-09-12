@@ -11,10 +11,6 @@ export const emailMessageArchive = {
     { said: "<id>", takes: "the message acted on, said as the id Gmail gives it" },
     { said: "--message <id>", takes: "the message acted on, where no id follows the command" },
   ],
-  helpNotes: [
-    "archiving is the INBOX label taken off, so the message stays in the mailbox and leaves the inbox.",
-    "the labels the message carries afterwards come back with its id and its thread.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -23,6 +19,10 @@ export const emailMessageArchive = {
     {
       invariantKind: "departure",
       statement: "The answer is the labels the message has after the change.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The message's id and its thread come back beside those labels.",
     },
     {
       invariantKind: "absence",
