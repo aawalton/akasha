@@ -11,4 +11,5 @@ export const dalla = {
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",
+  claudeCodeSessionUuid: "ee0b2fb1-d603-46cd-ab3f-d6cb1909db28",
 } as const satisfies Seat
