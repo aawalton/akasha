@@ -14,18 +14,19 @@ export const temperEsoGenerateChatterNames = {
       takes: "the checkout the enum declarations are read from and the registry written into",
     },
   ],
-  helpNotes: [
-    "the checkout defaults to what `CODE_ROOT` names, and to this repository where that names nothing.",
-    "the source is the enum declaration file `akasha temper eso generate typings` writes, so the registry covers what those declarations opted into; widening it means regenerating the declarations.",
-    "reading the declarations rather than the clone is what lets this answer on a workstation carrying no clone.",
-    "a registry naming no constant of either kind refuses the call, because an empty registry reads to the trace as a clean answer.",
-    "the registry lands as its own commit through the mechanical change that writes a code file, so the run leaves no unlanded body behind.",
-    "the trace resolves a code to a name by reading each global on its own rather than by walking the globals table, which would taint the game's call stack.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "The registry is drawn from the emitted declarations rather than from the clone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The declarations read are the ones `akasha temper eso generate typings` writes.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A call naming no checkout reads and writes what `CODE_ROOT` names, else this repository.",
     },
     {
       invariantKind: "departure",
