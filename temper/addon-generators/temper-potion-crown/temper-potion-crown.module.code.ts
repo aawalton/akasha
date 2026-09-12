@@ -1,4 +1,5 @@
 import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { z } from "zod"
 
 const NUMERIC_EFFECT_SCHEMA = z
@@ -124,7 +125,7 @@ ${effectLines}
  * temper-potion-crown). Shape mirrors the legacy POTIONS_CROWN record so
  * the alchemy package can spread it into the combined POTIONS map.
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 import type { PotionsTemplate } from "../potions-source"
