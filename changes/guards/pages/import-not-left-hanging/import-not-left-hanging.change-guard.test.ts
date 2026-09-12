@@ -168,7 +168,7 @@ const GENERATING: Readonly<Record<string, string>> = {
     id: BORNE_ID,
     pageTypeSlug: "page-type",
     slug: "borne",
-    extendsSlug: ["page-type/domain"],
+    extends: ["page-type/domain"],
     properties: [{ pagePropertySlug: "file-property/mapped", required: false, many: false }],
   }),
   [BORNE_PAGE]: pageOf({
