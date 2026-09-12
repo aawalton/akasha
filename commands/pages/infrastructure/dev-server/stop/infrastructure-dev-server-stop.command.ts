@@ -19,10 +19,6 @@ export const infrastructureDevServerStop = {
     },
     {
       invariantKind: "departure",
-      statement: "Naming one server and every server tracked at once is refused.",
-    },
-    {
-      invariantKind: "departure",
       statement: "SIGTERM is sent first.",
     },
     {
@@ -52,6 +48,9 @@ export const infrastructureDevServerStop = {
     { argument: "argument/json" },
     { argument: "argument/seq", saidAs: "flag-or-word" },
     { argument: "argument/web-app" },
-    { argument: "argument/every-server" },
+    {
+      argument: "argument/every-server",
+      notWith: ["argument/seq", "argument/web-app"],
+    },
   ],
 } as const satisfies Command
