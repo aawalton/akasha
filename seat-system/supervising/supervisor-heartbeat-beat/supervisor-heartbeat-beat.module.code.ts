@@ -1,11 +1,11 @@
 import { join } from "node:path"
+import type { Outcome } from "akasha/commands/modules/gated-write/gated-write.module.code.ts"
 import {
   ownRepoRoot,
   resolveRoots,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import type { Outcome } from "akasha/seat-system/gated-write/gated-write.module.code.ts"
 import { keepBeside } from "akasha/seat-system/seat-beside/seat-beside.module.code.ts"
 import { runningModeIn } from "akasha/seat-system/seat-modes/seat-modes.module.code.ts"
 import {

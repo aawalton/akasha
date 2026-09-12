@@ -1,6 +1,6 @@
+import type { Outcome } from "akasha/commands/modules/gated-write/gated-write.module.code.ts"
 import { AKASHA, rootFor } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
-import type { Outcome } from "akasha/seat-system/gated-write/gated-write.module.code.ts"
 import { principalSeatNameOf } from "akasha/seat-system/seat-principal/seat-principal.module.code.ts"
 import {
   seatPathForName,
