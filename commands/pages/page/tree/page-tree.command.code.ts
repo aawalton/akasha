@@ -2,9 +2,9 @@ import { resolve } from "node:path"
 import { writerIn } from "akasha/agents/read-record/read-record.module.code.ts"
 import { sayAnswer } from "akasha/commands/modules/answer-bytes/answer-bytes.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { authorIn } from "akasha/commands/modules/commit-author/commit-author.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { AUTHOR } from "akasha/git/committing/committing.module.code.ts"
+import { rootIn } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { AKASHA } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   readingIn,
@@ -17,7 +17,6 @@ import {
   textAt,
   type Value,
 } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 const PROPERTY_ROOT = "page-property"
 
@@ -262,13 +261,11 @@ export function pageTree(argv: readonly string[], given: Given): Answer {
 }
 
 if (import.meta.main) {
-  const stated = optionalEnv("AKASHA_ROOT")
-  const said = optionalEnv("AKASHA_WRITER")
   const answer = pageTree(process.argv.slice(2), {
-    root: stated === undefined ? rootOf(import.meta.path) : resolve(stated),
+    root: rootIn(process.env, import.meta.path),
     calledAs: "akasha page tree",
     from: process.cwd(),
-    writer: said ?? AUTHOR,
+    writer: authorIn(process.env),
     agentId: writerIn(process.env),
   })
   if (answer.report.length > 0) sayAnswer(answer.report.map((one) => `${one}\n`).join(""))
