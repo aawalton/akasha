@@ -240,9 +240,7 @@ type Unnamed<Page extends Commanding, Pages extends Argument> = Exclude<
 
 type Flat<Of> = { readonly [Key in keyof Of]: Of[Key] }
 
-type Missing<Said extends string> = {
-  readonly [Key in `hand takenFor the argument page for ${Said}`]: never
-}
+type HandTakenForTheArgumentPageFor<Said extends string> = { readonly missing: Said }
 
 export type TakenFor<Page extends Commanding, Pages extends Argument> = [
   Unnamed<Page, Pages>,
@@ -258,7 +256,7 @@ export type TakenFor<Page extends Commanding, Pages extends Argument> = [
           : Camel<Slugged<Entry["argument"]>>]?: Carried<Entry, PageOf<Entry, Pages>>
       }
     >
-  : Missing<Unnamed<Page, Pages>>
+  : HandTakenForTheArgumentPageFor<Unnamed<Page, Pages>>
 
 function namedBy(entry: Named, bySlug: ReadonlyMap<string, Argument>): Naming | null {
   const argument = bySlug.get(slugOfPart(entry.argument))
