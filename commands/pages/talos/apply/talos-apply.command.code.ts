@@ -1,6 +1,11 @@
 import { existsSync } from "node:fs"
 import { chmod, copyFile, mkdir, mkdtemp, rm, writeFile } from "node:fs/promises"
 import { dirname, join } from "node:path"
+import {
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { SCRATCH_AT } from "akasha/commands/modules/scratching/scratching.module.code.ts"
@@ -36,10 +41,6 @@ export const IP = "--ip"
 export const CLUSTER = "--cluster"
 
 const VALUED: readonly string[] = [NODE, IP, CLUSTER]
-
-const INPUT = 1
-
-const OPERATIONAL = 3
 
 const CONTROL_PLANE = "controlplane"
 
@@ -193,7 +194,7 @@ async function applying(read: Named, given: Given): Promise<Answer> {
     if (decrypted !== undefined) await rm(dirname(decrypted), { recursive: true, force: true })
     await rm(workDir, { recursive: true, force: true })
   }
-  return { report, refusals: [], code: 0 }
+  return { report, refusals: [], code: OK }
 }
 
 export async function talosApply(argv: readonly string[], given: Given): Promise<Answer> {
