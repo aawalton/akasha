@@ -26,6 +26,22 @@ export const blockCombinedAkashaCalls = {
     },
     {
       invariantKind: "departure",
+      statement: "A refusal quotes the command refused, as the shell was handed it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A command longer than a few lines is quoted in part, and says how many are left.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line longer than the width quoted is shortened rather than wrapped.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A refusal names no construct, because this hook looks for none.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An approved read has `--file-path` flags.",
     },
     {

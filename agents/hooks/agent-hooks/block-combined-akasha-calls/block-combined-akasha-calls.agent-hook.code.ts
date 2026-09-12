@@ -30,8 +30,9 @@ const CHANGE = new RegExp("^akasha change( " + WORD + "){0,2}( <<'" + FENCE + "'
 const REFUSED = [
   "`akasha read` and `akasha change` run alone on the line.",
   "A read is recorded against this agent, and a change writes the repository, so what ran has to",
-  "be what the record and the commit say ran. A loop, a function, a pipeline, a redirect or a",
-  "substitution around one hides which call was made and what that call was handed.",
+  "be what the record and the commit say ran. A loop, a function, a pipeline, a redirect, a",
+  "substitution, or a second command joined on by `;` or `&&`, hides which call was made and",
+  "what that call was handed.",
   "",
   "  akasha read --file-path <path> [--full]",
   "",
@@ -155,9 +156,33 @@ export function triggered(command: string): boolean {
   return NAMED.test(looked)
 }
 
+const KEPT = 8
+
+const SHOWN = 160
+
+const QUOTED_SAID = "This is the call refused, as the shell was handed it:"
+
+const MEASURED_SAID = [
+  "It is measured whole against the two forms below, so every word of it is part of the call,",
+  "and anything outside one of those forms refuses it, whatever that thing is.",
+]
+
+function shownOf(line: string): string {
+  return line.length <= SHOWN ? line : `${line.slice(0, SHOWN)} …`
+}
+
+export function quotedIn(command: string): readonly string[] {
+  const lines = command.trim().split("\n")
+  const kept = lines.slice(0, KEPT).map((one) => `  ${shownOf(one)}`)
+  const left = lines.length - KEPT
+  if (left <= 0) return kept
+  return [...kept, left === 1 ? "  … and one more line" : `  … and ${left} more lines`]
+}
+
 export function refusalIn(command: string): string | null {
   if (!triggered(command)) return null
-  return approvedForm(command) ? null : toldOf(HOOK, REFUSED)
+  if (approvedForm(command)) return null
+  return toldOf(HOOK, [QUOTED_SAID, "", ...quotedIn(command), "", ...MEASURED_SAID, "", ...REFUSED])
 }
 
 export async function ran(): Promise<number> {

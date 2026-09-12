@@ -1,7 +1,42 @@
 import { expect, test } from "bun:test"
-import { refusalIn } from "akasha/agents/hooks/agent-hooks/block-combined-akasha-calls/block-combined-akasha-calls.agent-hook.code.ts"
+import {
+  quotedIn,
+  refusalIn,
+} from "akasha/agents/hooks/agent-hooks/block-combined-akasha-calls/block-combined-akasha-calls.agent-hook.code.ts"
 
 const NAMES = "block-combined-akasha-calls"
+
+test("a refusal quotes the command refused", () => {
+  expect(refusalIn("akasha read --file-path a.ts | head -3") ?? "").toContain(
+    "  akasha read --file-path a.ts | head -3"
+  )
+})
+
+test("a call joined on by a semicolon is quoted as it was written", () => {
+  expect(refusalIn("akasha change apply; rm -rf x") ?? "").toContain(
+    "  akasha change apply; rm -rf x"
+  )
+})
+
+test("a command longer than a few lines is quoted in part and says how many are left", () => {
+  const said = quotedIn(["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"].join("\n"))
+
+  expect(said.length).toBe(9)
+  expect(said[8]).toBe("  … and 2 more lines")
+})
+
+test("one line left over is said as one line", () => {
+  const said = quotedIn(["a", "b", "c", "d", "e", "f", "g", "h", "i"].join("\n"))
+
+  expect(said[8]).toBe("  … and one more line")
+})
+
+test("a line longer than the width quoted is shortened", () => {
+  const said = quotedIn(`akasha read --file-path ${"a".repeat(300)}`)
+
+  expect(said[0] ?? "").toEndWith(" …")
+  expect((said[0] ?? "").length).toBe(164)
+})
 
 test("a bare read is let through", () => {
   expect(refusalIn("akasha read")).toBe(null)
