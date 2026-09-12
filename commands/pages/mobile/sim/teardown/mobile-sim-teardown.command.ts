@@ -6,9 +6,7 @@ export const mobileSimTeardown = {
   slug: "mobile-sim-teardown",
   definition: "the command ending the simulator session that is there",
   code: "ts",
-  taking: [
-    { said: "--stop-appium", takes: "stop the mac's Appium server as well as ending the session" },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -32,4 +30,5 @@ export const mobileSimTeardown = {
     },
   ],
   name: "teardown",
+  arguments: [{ argument: "argument/stop-appium" }],
 } as const satisfies Command
