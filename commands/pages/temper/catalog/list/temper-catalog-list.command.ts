@@ -8,10 +8,7 @@ export const temperCatalogList = {
   code: "ts",
   changeKind: "change-none",
   taking: [{ said: "--json", takes: "give the domains as JSON rather than as tab-separated rows" }],
-  helpNotes: [
-    "the domains are the ones the catalog addon collects under, and the addon's registry is what settles them.",
-    "nothing is read off the workstation here: this names what may be collected rather than what has been.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
