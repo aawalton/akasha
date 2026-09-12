@@ -84,7 +84,7 @@ export const extension = {
     "module/column-sampling",
     "module/agent-tree-panel",
     "javascript-module/vscode-stub",
-    "workspace-package/ops-extension",
+    "domain/ops-extension",
     "domain/status-bar",
     "type-declaration/vscode-api",
     "module/work-tree-deleting",

@@ -1,8 +1,8 @@
-import type { WorkspacePackage } from "akasha/code/workspace-packages/workspace-package.page-type.types.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const opsExtension = {
   id: "01a0680b-7175-7002-8feb-84b86f70fc2f",
-  type: "workspace-package",
+  type: "domain",
   slug: "ops-extension",
   definition: "the extension this repository gives the editor",
   parts: ["module/extension-entry"],
@@ -37,4 +37,4 @@ export const opsExtension = {
         "The extension is identified as `vscode.akasha` wherever the editor keeps its state.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain
