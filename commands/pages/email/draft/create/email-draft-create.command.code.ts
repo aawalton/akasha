@@ -14,7 +14,7 @@ export function readIn(argv: readonly string[]): Read {
   return readTaking(argv, COMPOSING)
 }
 
-export function emailDraftsCreate(argv: readonly string[], given: Given): Promise<Answer> {
+export function emailDraftCreate(argv: readonly string[], given: Given): Promise<Answer> {
   const said = readIn(argv)
   if ("refused" in said) return Promise.resolve(refusing(said.refused, 1))
   return answeredBy(async () => {
