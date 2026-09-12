@@ -18,7 +18,7 @@ export interface SubagentTranscript {
 
 const CALL_TIMEOUT_MS = 30_000
 
-const TRANSCRIPTS_MODULE = "seat-transcript-list"
+const TRANSCRIPTS_SLUG = "seat-transcript-list"
 
 const TRANSCRIPTS_EXPORT = "seatTranscriptList"
 
@@ -57,7 +57,7 @@ export async function readSeatTranscripts(): Promise<readonly SeatTranscript[]> 
   if (held !== null && now - held.at < HOLD_MS) {
     return held.seats
   }
-  const stdout = await callHarness(TRANSCRIPTS_MODULE, TRANSCRIPTS_EXPORT, [], {
+  const stdout = await callHarness(TRANSCRIPTS_SLUG, TRANSCRIPTS_EXPORT, [], {
     timeout: CALL_TIMEOUT_MS,
   })
   let seats: readonly SeatTranscript[]

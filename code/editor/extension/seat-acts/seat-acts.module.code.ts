@@ -14,19 +14,19 @@ import {
 } from "akasha/code/editor/extension/seat-toggles/seat-toggles.module.code.ts"
 import * as vscode from "vscode"
 
-const NOTICES_MODULE = "seat-compose-notices"
+const NOTICES_SLUG = "seat-compose-notices"
 
 const NOTICES_EXPORT = "seatComposeNotices"
 
-const RESUME_MODULE = "seat-resume"
+const RESUME_SLUG = "seat-resume"
 
 const RESUME_EXPORT = "seatResume"
 
-const RESET_MODULE = "seat-reset"
+const RESET_SLUG = "seat-reset"
 
 const RESET_EXPORT = "seatReset"
 
-const STOP_MODULE = "seat-supervisor-stop"
+const STOP_SLUG = "seat-supervisor-stop"
 
 const STOP_EXPORT = "seatSupervisorStop"
 
@@ -35,11 +35,11 @@ const STOP_FORCE = "--force"
 const inFlight = new Set<string>()
 
 async function runSeat(
-  module: string,
+  slug: string,
   exported: string,
   args: readonly string[]
 ): Promise<undefined> {
-  await callHarness(module, exported, args, { timeout: LANDING_TIMEOUT_MS })
+  await callHarness(slug, exported, args, { timeout: LANDING_TIMEOUT_MS })
   return undefined
 }
 
@@ -54,21 +54,21 @@ async function attachTerminal(seat: ToggleTarget, line: string): Promise<undefin
 
 async function resumeInteractive(seat: ToggleTarget): Promise<undefined> {
   const line = attachCommandLine(seat.name)
-  await runSeat(RESUME_MODULE, RESUME_EXPORT, [seat.name, "--start-mode", "interactive"])
+  await runSeat(RESUME_SLUG, RESUME_EXPORT, [seat.name, "--start-mode", "interactive"])
   return attachTerminal(seat, line)
 }
 
 async function performStep(seat: ToggleTarget, step: SeatStep): Promise<undefined> {
   switch (step.kind) {
     case "stop":
-      await runSeat(STOP_MODULE, STOP_EXPORT, [seat.name, STOP_FORCE])
+      await runSeat(STOP_SLUG, STOP_EXPORT, [seat.name, STOP_FORCE])
       return undefined
     case "revive": {
-      const said = await callHarness(NOTICES_MODULE, NOTICES_EXPORT, [], {
+      const said = await callHarness(NOTICES_SLUG, NOTICES_EXPORT, [], {
         timeout: LANDING_TIMEOUT_MS,
       })
       const prompt = resumePromptIn(said)
-      await runSeat(RESUME_MODULE, RESUME_EXPORT, [seat.name, "--prompt", prompt])
+      await runSeat(RESUME_SLUG, RESUME_EXPORT, [seat.name, "--prompt", prompt])
       return undefined
     }
     case "resume-interactive":
@@ -76,7 +76,7 @@ async function performStep(seat: ToggleTarget, step: SeatStep): Promise<undefine
     case "attach":
       return attachTerminal(seat, attachCommandLine(seat.name))
     case "reset":
-      await runSeat(RESET_MODULE, RESET_EXPORT, [seat.name])
+      await runSeat(RESET_SLUG, RESET_EXPORT, [seat.name])
       return undefined
     default: {
       const unreached: never = step

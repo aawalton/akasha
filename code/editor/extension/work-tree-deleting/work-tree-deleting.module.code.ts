@@ -7,11 +7,11 @@ import {
   shownSaid,
 } from "akasha/code/editor/extension/work-tree-dragging/work-tree-dragging.module.code.ts"
 
-const INTENT_MODULE = "initiative-delete-intent"
+const INTENT_SLUG = "initiative-delete-intent"
 
 const INTENT_EXPORT = "initiativeDeleteIntent"
 
-const INITIATIVE_MODULE = "initiative-delete"
+const INITIATIVE_SLUG = "initiative-delete"
 
 const INITIATIVE_EXPORT = "initiativeDelete"
 
@@ -93,7 +93,7 @@ export function deletingInitiative(
     if (chosen !== CONFIRM) return undefined
     watch.initiativeGoing(slug)
     try {
-      const said = await call(INITIATIVE_MODULE, INITIATIVE_EXPORT, [slug], {
+      const said = await call(INITIATIVE_SLUG, INITIATIVE_EXPORT, [slug], {
         timeout: LANDING_TIMEOUT_MS,
       })
       watch.answered(slug)
@@ -120,7 +120,7 @@ export function deletingIntent(
     if (one === null) return undefined
     watch.intentGoing(one)
     try {
-      const said = await call(INTENT_MODULE, INTENT_EXPORT, [one.slug, one.statement], {
+      const said = await call(INTENT_SLUG, INTENT_EXPORT, [one.slug, one.statement], {
         timeout: LANDING_TIMEOUT_MS,
       })
       watch.answered(one.slug)

@@ -7,11 +7,11 @@ import type * as vscode from "vscode"
 
 export const DRAG_MIME = `application/vnd.code.tree.${VIEW_ID.toLowerCase()}`
 
-const MOVE_MODULE = "initiative-move-intent"
+const MOVE_SLUG = "initiative-move-intent"
 
 const MOVE_EXPORT = "initiativeMoveIntent"
 
-const HAND_MODULE = "initiative-hand-intent"
+const HAND_SLUG = "initiative-hand-intent"
 
 const HAND_EXPORT = "initiativeHandIntent"
 
@@ -144,7 +144,7 @@ export function createWorkDragging(
 ): vscode.TreeDragAndDropController<WorkTreeRow> {
   const dropped = async (order: Ordering): Promise<undefined> => {
     try {
-      const said = await call(MOVE_MODULE, MOVE_EXPORT, [order.slug, order.statement, order.onto], {
+      const said = await call(MOVE_SLUG, MOVE_EXPORT, [order.slug, order.statement, order.onto], {
         timeout: LANDING_TIMEOUT_MS,
       })
       watch.answered(order.slug)
@@ -162,7 +162,7 @@ export function createWorkDragging(
   const handed = async (handing: Handing): Promise<undefined> => {
     try {
       const said = await call(
-        HAND_MODULE,
+        HAND_SLUG,
         HAND_EXPORT,
         [handing.from, handing.statement, handing.to],
         { timeout: LANDING_TIMEOUT_MS }

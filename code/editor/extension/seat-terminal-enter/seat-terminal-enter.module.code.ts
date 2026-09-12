@@ -9,7 +9,7 @@ export const FOCUS_KEY = "opsAgentTree.seatTerminalFocused"
 
 export const ENTER_COMMAND = "opsAgentTree.enterInSeatTerminal"
 
-const MESSAGED_MODULE = "seat-messaged"
+const MESSAGED_SLUG = "seat-messaged"
 
 const MESSAGED_EXPORT = "seatMessaged"
 
@@ -56,7 +56,7 @@ export async function enterPressed(
     return undefined
   }
   try {
-    await callHarness(MESSAGED_MODULE, MESSAGED_EXPORT, [name], {
+    await callHarness(MESSAGED_SLUG, MESSAGED_EXPORT, [name], {
       timeout: LANDING_TIMEOUT_MS,
     })
     say(`[enter] ${name} marked`)
