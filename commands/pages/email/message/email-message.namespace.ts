@@ -9,7 +9,7 @@ export const emailMessage = {
     "command/email-message-archive",
     "command/email-message-show",
     "command/email-message-list",
-    "command/email-message-modify-labels",
+    "command/email-message-modify-label",
     "command/email-message-send",
     "command/email-message-trash",
   ],

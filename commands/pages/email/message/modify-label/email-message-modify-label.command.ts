@@ -1,9 +1,9 @@
 import type { Command } from "akasha/commands/command.page-type.types.ts"
 
-export const emailMessageModifyLabels = {
+export const emailMessageModifyLabel = {
   id: "01a06810-cf11-753d-aad0-e13c11000ad2",
   type: "command",
-  slug: "email-message-modify-labels",
+  slug: "email-message-modify-label",
   definition: "the command putting label ids on one Gmail message and taking label ids off it",
   code: "ts",
   changeKind: "change-none",
@@ -31,5 +31,5 @@ export const emailMessageModifyLabels = {
       statement: "The labels the message has after the change come back.",
     },
   ],
-  name: "modify-labels",
+  name: "modify-label",
 } as const satisfies Command
