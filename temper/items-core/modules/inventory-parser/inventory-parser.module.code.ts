@@ -23,8 +23,8 @@ import { parseItemLink } from "akasha/temper/items-core/modules/item-link-parser
 import { readFirstAccountWide } from "akasha/temper/saved-variables/modules/account-wide/account-wide.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/modules/lua-parser/lua-parser.module.code.ts"
 import { asRecord } from "akasha/utils/narrow/modules/as-record/as-record.module.code.ts"
-import { parseNumber } from "akasha/utils/narrow/parse-number/parse-number.module.code.ts"
-import { parseString } from "akasha/utils/narrow/parse-string/parse-string.module.code.ts"
+import { parseNumber } from "akasha/utils/narrow/modules/parse-number/parse-number.module.code.ts"
+import { parseString } from "akasha/utils/narrow/modules/parse-string/parse-string.module.code.ts"
 import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
 
 function asNumber(value: unknown): number {

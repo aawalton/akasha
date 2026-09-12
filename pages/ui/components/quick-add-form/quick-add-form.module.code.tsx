@@ -14,7 +14,7 @@ import type { PropertyValue } from "akasha/pages/core/property-types/property-ty
 import type { ReadonlyJSONValue } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import type { QuickAddConfig } from "akasha/pages/core/schema/quick-add/quick-add.module.code.ts"
 import { computeQuickAddPayload } from "akasha/pages/ui/components/quick-add/modules/compute-quick-add-payload/compute-quick-add-payload.module.code.ts"
-import { parseInlineTokens } from "akasha/pages/ui/components/quick-add/parse-inline-tokens/parse-inline-tokens.module.code.ts"
+import { parseInlineTokens } from "akasha/pages/ui/components/quick-add/modules/parse-inline-tokens/parse-inline-tokens.module.code.ts"
 import {
   type InlineCompletionSource,
   useInlineCompletion,

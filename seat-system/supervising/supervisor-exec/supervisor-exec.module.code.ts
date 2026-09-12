@@ -10,7 +10,7 @@ import { resolveMappedLibc } from "akasha/utils/process/modules/libc-mapping/lib
 import {
   errnoCodeOf,
   readPidSignal,
-} from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
+} from "akasha/utils/process/modules/pid-signal/pid-signal.module.code.ts"
 
 if (process.platform !== "linux") {
   throw new Error(`supervisor-exec only supports Linux (got ${process.platform}).`)

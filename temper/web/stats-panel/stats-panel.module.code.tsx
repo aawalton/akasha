@@ -4,7 +4,7 @@ import {
   PanelToggleContext,
   PanelToggleLocalContext,
   type PanelToggleSignal,
-} from "akasha/design/interfaces/layout/panel-toggle-context/panel-toggle-context.module.code.tsx"
+} from "akasha/design/interfaces/layout/modules/panel-toggle-context/panel-toggle-context.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
 import {
   Empty,
@@ -25,7 +25,7 @@ import { isNamedSource } from "akasha/temper/formula-framework/modules/effect-so
 import { BuffOrDebuffExplanationDialog } from "akasha/temper/web/modules/buff-or-debuff-explanation-dialog/buff-or-debuff-explanation-dialog.module.code.tsx"
 import { EffectsPanelCard } from "akasha/temper/web/modules/effects-panel-card/effects-panel-card.module.code.tsx"
 import { OptimizationPanelCard } from "akasha/temper/web/modules/optimization-panel-card/optimization-panel-card.module.code.tsx"
-import { PanelCardSkeleton } from "akasha/temper/web/panel-card-skeleton/panel-card-skeleton.module.code.tsx"
+import { PanelCardSkeleton } from "akasha/temper/web/modules/panel-card-skeleton/panel-card-skeleton.module.code.tsx"
 import { StatCategoryPanelCard } from "akasha/temper/web/stat-category-panel-card/stat-category-panel-card.module.code.tsx"
 import { StatExplanationDialog } from "akasha/temper/web/stat-explanation-dialog/stat-explanation-dialog.module.code.tsx"
 import { filterEffectsBySearch } from "akasha/temper/web/stats-filtering/stats-filtering.module.code.ts"

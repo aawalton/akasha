@@ -23,6 +23,10 @@ import {
   reachingBuilt,
 } from "akasha/pages/indexes/modules/package-reaching/package-reaching.module.code.ts"
 import {
+  sidecarsIn,
+  under,
+} from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
+import {
   refusingEmpty,
   settlingOver,
 } from "akasha/pages/indexes/modules/settling/index-settling.module.code.ts"
@@ -32,7 +36,6 @@ import {
   readingAt,
 } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import { claimingIn } from "akasha/pages/indexes/path/index-path.index.code.ts"
-import { sidecarsIn, under } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 import { knownIn } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import { relationIn } from "akasha/pages/indexes/relation/index-relation.index.code.ts"
 import { readAt, readerIn, ruleIn } from "akasha/pages/indexes/rule/index-rule.index.code.ts"

@@ -5,7 +5,7 @@ import type {
   Identifier,
   ScopedBy,
 } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
-import { under } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
+import { under } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
 import {
   textAt,
   type Value,

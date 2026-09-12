@@ -19,8 +19,8 @@ import {
   scratch,
   TWO_ABOVE,
 } from "akasha/pages/indexes/modules/entries/index-entries.module.test-fixtures.ts"
+import { pathsOf } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
 import { readingAt } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
-import { pathsOf } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 
 afterAll(scratch.sweep)
 

@@ -11,7 +11,7 @@ import {
 import type {
   PagesPersistencePort,
   PersistedPagesSnapshot,
-} from "akasha/pages/ui-store/collection/persistence/persistence.module.code.ts"
+} from "akasha/pages/ui-store/collection/modules/persistence/persistence.module.code.ts"
 import { z } from "zod"
 
 const SNAPSHOT_BASENAME = "pages-collection.json"

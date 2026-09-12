@@ -26,7 +26,7 @@ import {
 import {
   clusterSecretsSopsPath,
   clusterTalosconfigPath,
-} from "akasha/infrastructure/cluster/provisioning/talos/paths/paths.module.code.ts"
+} from "akasha/infrastructure/cluster/provisioning/talos/modules/paths/paths.module.code.ts"
 import { readRegistryCa } from "akasha/infrastructure/cluster/provisioning/talos/registry-ca/registry-ca.module.code.ts"
 import type {
   ClusterIntent,

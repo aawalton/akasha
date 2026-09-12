@@ -15,7 +15,7 @@ export const astraIndexCleanup = {
     {
       statement: "Alan holds the parse cache's structure correct.",
       workingMemory:
-        "`.git/cache/parse` is 512 files at 150 MB, keyed by a digest, with a second generation beside each under `-shape-2`. `domains/plain-language/parse-cache/parse-cache.module.code.ts` writes it.",
+        "`.git/cache/parse` is 512 files at 150 MB, keyed by a digest, with a second generation beside each under `-shape-2`. `domains/plain-language/modules/parse-cache/parse-cache.module.code.ts` writes it.",
     },
     {
       statement: "`.git/data` is gone.",

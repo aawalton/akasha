@@ -17,7 +17,7 @@ import {
 import {
   addPinFilter,
   setPinFilterHidden,
-} from "akasha/temper/lib-map-pins/pin-filters/pin-filters.module.code.ts"
+} from "akasha/temper/lib-map-pins/modules/pin-filters/pin-filters.module.code.ts"
 import {
   disablePin,
   enablePin,

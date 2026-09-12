@@ -11,9 +11,9 @@ import type {
 } from "akasha/changes/modules/guarding/change-guarding.module.types.ts"
 import { facingHeld } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { namedBy } from "akasha/code/modules/folder-spelling/folder-spelling.module.code.ts"
+import { runsIn } from "akasha/code/modules/path-runs/path-runs.module.code.ts"
 import { spelledIn } from "akasha/code/modules/specifier/code-specifier.module.code.ts"
 import { typed } from "akasha/code/modules/typing/code-typing.module.code.ts"
-import { runsIn } from "akasha/code/path-runs/path-runs.module.code.ts"
 import {
   generatedIn,
   groupWrites,

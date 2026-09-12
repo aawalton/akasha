@@ -23,7 +23,7 @@ import {
   PADDING_Y,
   sanitizeName,
 } from "akasha/temper/items-filters-addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
-import type { FilterController } from "akasha/temper/items-filters-addon/panel-filter-binding/panel-filter-binding.module.code.ts"
+import type { FilterController } from "akasha/temper/items-filters-addon/modules/panel-filter-binding/panel-filter-binding.module.code.ts"
 import { TEMPER_FILTERS } from "akasha/temper/items-filters-core/search-filter-registry/search-filter-registry.module.code.ts"
 import type {
   AnyTemperFilter,

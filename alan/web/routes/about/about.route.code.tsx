@@ -1,5 +1,5 @@
 import { PageTitle } from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
-import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
+import { PanelCard } from "akasha/design/interfaces/layout/modules/panel-card/panel-card.module.code.tsx"
 import { Heading } from "akasha/design/interfaces/primitives/modules/heading/heading.module.code.tsx"
 
 export function meta() {

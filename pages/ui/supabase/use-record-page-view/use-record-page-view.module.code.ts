@@ -1,6 +1,6 @@
 "use client"
 
-import { recordPageView } from "akasha/pages/access/patch/patch.module.code.ts"
+import { recordPageView } from "akasha/pages/access/modules/patch/patch.module.code.ts"
 import {
   shouldRecordView,
   VIEW_RECORD_STALENESS_MS,

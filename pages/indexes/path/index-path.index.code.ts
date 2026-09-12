@@ -8,16 +8,16 @@ import type {
 } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
 import { keepWhole } from "akasha/pages/indexes/modules/keeping/index-keeping.module.code.ts"
 import {
-  indexIn,
-  readingAt,
-} from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
-import { indexPath } from "akasha/pages/indexes/path/index-path.index.ts"
-import {
   claimsOf,
   type IsThere,
   type SidecarsBy,
   under,
-} from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
+} from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
+import {
+  indexIn,
+  readingAt,
+} from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
+import { indexPath } from "akasha/pages/indexes/path/index-path.index.ts"
 import {
   textAt,
   type Value,

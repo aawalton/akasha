@@ -6,7 +6,7 @@ import {
 import {
   classifyPidSignalError,
   pidAliveOrAssumeAlive,
-} from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
+} from "akasha/utils/process/modules/pid-signal/pid-signal.module.code.ts"
 
 export type Sign = "SIGTERM" | "SIGKILL"
 

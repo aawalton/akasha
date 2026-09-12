@@ -2,7 +2,7 @@ import { poisons } from "akasha/temper/alchemy/poison-source/poison-source.modul
 import { potions } from "akasha/temper/alchemy/potion-source/potion-source.module.code.ts"
 import { championPoints } from "akasha/temper/champion-points/modules/champion-point-source/champion-point-source.module.code.ts"
 import { skills } from "akasha/temper/character-skills/modules/character-skills/character-skills.module.code.ts"
-import { getSkillLineCategory } from "akasha/temper/character-skills/passive-queries/passive-queries.module.code.ts"
+import { getSkillLineCategory } from "akasha/temper/character-skills/modules/passive-queries/passive-queries.module.code.ts"
 import { scribedSkills } from "akasha/temper/character-skills/scribed-skills/scribed-skills.module.code.ts"
 import { grimoires } from "akasha/temper/character-skills/scribing-grimoires/scribing-grimoires.module.code.ts"
 import { alliances } from "akasha/temper/character-sources/modules/alliances/alliances.module.code.ts"

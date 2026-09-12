@@ -8,7 +8,7 @@ import {
   watcherConfigDir,
   watcherLogDir,
 } from "akasha/temper/watcher/watcher-paths/watcher-paths.module.code.ts"
-import { pidAliveOrAssumeDead } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
+import { pidAliveOrAssumeDead } from "akasha/utils/process/modules/pid-signal/pid-signal.module.code.ts"
 import { z } from "zod"
 
 export type WatcherDaemonState = {

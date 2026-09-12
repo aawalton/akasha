@@ -5,7 +5,7 @@ import {
   SCOPE_FLAG,
   unreadable,
 } from "akasha/agents/hooks/modules/answer/hook-answer.module.code.ts"
-import { shownIn } from "akasha/agents/hooks/path-showing/path-showing.module.code.ts"
+import { shownIn } from "akasha/agents/hooks/modules/path-showing/path-showing.module.code.ts"
 import { insideOf, settled } from "akasha/agents/hooks/settling/settling.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { gitIn } from "akasha/files/modules/git-place/git-place.module.code.ts"

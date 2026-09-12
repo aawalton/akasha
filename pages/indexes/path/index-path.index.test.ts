@@ -13,7 +13,7 @@ import type {
   Beside,
   IsThere,
   SidecarsBy,
-} from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
+} from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
 
 const BESIDES: ReadonlyMap<string, Beside> = new Map()
 

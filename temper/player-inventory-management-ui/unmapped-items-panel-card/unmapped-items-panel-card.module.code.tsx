@@ -1,6 +1,6 @@
 "use client"
 
-import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
+import { PanelCard } from "akasha/design/interfaces/layout/modules/panel-card/panel-card.module.code.tsx"
 import { ItemRow } from "akasha/design/interfaces/patterns/modules/item-row/item-row.module.code.tsx"
 import { formatGold } from "akasha/design/interfaces/primitives/modules/format-gold/format-gold.module.code.ts"
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"

@@ -1,6 +1,6 @@
 "use client"
 
-import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
+import { PanelCard } from "akasha/design/interfaces/layout/modules/panel-card/panel-card.module.code.tsx"
 import { Checkbox } from "akasha/design/interfaces/primitives/modules/checkbox/checkbox.module.code.tsx"
 import { Label } from "akasha/design/interfaces/primitives/modules/label/label.module.code.tsx"
 import { Progress } from "akasha/design/interfaces/primitives/progress-bar/progress-bar.module.code.tsx"

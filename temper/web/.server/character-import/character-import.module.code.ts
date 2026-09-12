@@ -2,7 +2,7 @@ import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/aut
 import { createServerClient } from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
 import { createPage } from "akasha/pages/access/modules/create/create.module.code.ts"
 import { getPages } from "akasha/pages/access/modules/get/get.module.code.ts"
-import { patchPage } from "akasha/pages/access/patch/patch.module.code.ts"
+import { patchPage } from "akasha/pages/access/modules/patch/patch.module.code.ts"
 import { decodeBuild } from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
 import { extractCharacterMetadata } from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
 import { classes } from "akasha/temper/classes/modules/character-class/character-class.module.code.ts"

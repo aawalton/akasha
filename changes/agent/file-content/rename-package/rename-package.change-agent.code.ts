@@ -25,7 +25,7 @@ import {
 } from "akasha/code/modules/package-manifest/package-manifest.module.code.ts"
 import { typed } from "akasha/code/modules/typing/code-typing.module.code.ts"
 import { manifestsIn } from "akasha/pages/indexes/modules/package-reaching/package-reaching.module.code.ts"
-import { importingOf } from "akasha/pages/indexes/path-naming/path-naming.module.code.ts"
+import { importingOf } from "akasha/pages/indexes/modules/path-naming/path-naming.module.code.ts"
 import { matchingIn } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"
 import type { Matching } from "akasha/pages/name-formats/modules/name-matching/name-matching.module.code.ts"
 import { lowerKebabCase } from "akasha/pages/name-formats/pages/lower-kebab-case/lower-kebab-case.name-format.ts"

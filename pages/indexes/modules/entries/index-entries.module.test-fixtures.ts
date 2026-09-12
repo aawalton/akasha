@@ -9,7 +9,7 @@ import {
   claimsOf,
   type IsThere,
   sidecarsIn,
-} from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
+} from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
 import type { Shaped } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import { shapeFiled } from "akasha/pages/indexes/shapes/index-shapes.index.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"

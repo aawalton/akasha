@@ -38,7 +38,7 @@ import { createPagesCollection } from "akasha/pages/ui-store/collection/modules/
 import {
   buildPagesSnapshot,
   type PagesPersistencePort,
-} from "akasha/pages/ui-store/collection/persistence/persistence.module.code.ts"
+} from "akasha/pages/ui-store/collection/modules/persistence/persistence.module.code.ts"
 import {
   isDefinitionTierSlug,
   type ShapeDescriptor,

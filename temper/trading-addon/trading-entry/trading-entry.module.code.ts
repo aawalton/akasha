@@ -23,7 +23,7 @@ import { registerAddonInit } from "akasha/temper/addon-init/modules/addon-init/a
 import {
   finishPerfTrace,
   startPerfTrace,
-} from "akasha/temper/capture-perf/perf-trace/perf-trace.module.code.ts"
+} from "akasha/temper/capture-perf/modules/perf-trace/perf-trace.module.code.ts"
 import { createBrowseEngine } from "akasha/temper/trading-addon/trading-browse-engine/trading-browse-engine.module.code.ts"
 import { createBrowseWindow } from "akasha/temper/trading-addon/trading-browse-window/trading-browse-window.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/trading-addon/trading-constants/trading-constants.module.code.ts"

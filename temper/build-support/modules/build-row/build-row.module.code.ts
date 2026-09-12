@@ -1,5 +1,5 @@
-import { parseString } from "akasha/utils/narrow/parse-string/parse-string.module.code.ts"
-import { parseTimestamp } from "akasha/utils/narrow/parse-timestamp/parse-timestamp.module.code.ts"
+import { parseString } from "akasha/utils/narrow/modules/parse-string/parse-string.module.code.ts"
+import { parseTimestamp } from "akasha/utils/narrow/modules/parse-timestamp/parse-timestamp.module.code.ts"
 import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
 
 export interface BuildRow<Metadata> {

@@ -9,7 +9,7 @@ import {
   FieldSeparator,
   FieldSet,
 } from "akasha/design/interfaces/forms/modules/field/field.module.code.tsx"
-import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
+import { PanelCard } from "akasha/design/interfaces/layout/modules/panel-card/panel-card.module.code.tsx"
 import {
   Carousel,
   CarouselContent,

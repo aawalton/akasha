@@ -1,6 +1,6 @@
 "use client"
 
-import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
+import { PanelCard } from "akasha/design/interfaces/layout/modules/panel-card/panel-card.module.code.tsx"
 import { TokenSwatch } from "akasha/design/interfaces/system/token-swatch/token-swatch.module.code.tsx"
 
 export function GemstoneColorsPanel() {

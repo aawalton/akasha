@@ -1,4 +1,4 @@
-import type { PatchPageArgs } from "akasha/pages/access/patch/patch.module.code.ts"
+import type { PatchPageArgs } from "akasha/pages/access/modules/patch/patch.module.code.ts"
 import type { Page } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 import type { InteractionToken } from "akasha/pages/ui/perf/modules/page-card-perf/page-card-perf.module.code.ts"
 import { runOptimisticMutation } from "akasha/pages/ui/supabase/mutations/modules/apply-prediction/apply-prediction.module.code.ts"

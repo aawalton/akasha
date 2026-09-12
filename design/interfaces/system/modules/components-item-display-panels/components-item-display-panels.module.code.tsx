@@ -1,7 +1,7 @@
 "use client"
 
 import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
-import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
+import { PanelCard } from "akasha/design/interfaces/layout/modules/panel-card/panel-card.module.code.tsx"
 import { Chip } from "akasha/design/interfaces/patterns/modules/chip/chip.module.code.tsx"
 import { ChipList } from "akasha/design/interfaces/patterns/modules/chip-list/chip-list.module.code.tsx"
 import { ItemCard } from "akasha/design/interfaces/patterns/modules/item-card/item-card.module.code.tsx"

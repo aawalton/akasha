@@ -3,11 +3,11 @@ import {
   resolveArmorPieceScalingEffects,
   resolveSlottedAbilityScalingEffects,
   resolveWeaponTypeConditionalEffects,
-} from "akasha/temper/characters-stats/passive-effect-resolution/passive-effect-resolution.module.code.ts"
+} from "akasha/temper/characters-stats/modules/passive-effect-resolution/passive-effect-resolution.module.code.ts"
 import {
   buildEligibilityContext,
   isPassiveEligible,
-} from "akasha/temper/characters-stats/passive-eligibility/passive-eligibility.module.code.ts"
+} from "akasha/temper/characters-stats/modules/passive-eligibility/passive-eligibility.module.code.ts"
 import type { PipelineStage } from "akasha/temper/characters-stats/pipeline-types/pipeline-types.module.code.ts"
 import type { Effect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
 import type { SkillSource } from "akasha/temper/formula-framework/skill-source/skill-source.module.code.ts"

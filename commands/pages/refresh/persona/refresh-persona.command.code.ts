@@ -2,7 +2,7 @@ import { getEsoDayStr } from "akasha/alan/harness/day/modules/eso-day/eso-day.mo
 import {
   rebuildPoints,
   saidOf,
-} from "akasha/alan/harness/persona-points-rebuilding/persona-points-rebuilding.module.code.ts"
+} from "akasha/alan/harness/modules/persona-points-rebuilding/persona-points-rebuilding.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import {
   answering,

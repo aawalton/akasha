@@ -10,14 +10,14 @@ import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code
 import { seatMessaged as page } from "akasha/commands/pages/seat/messaged/seat-messaged.command.ts"
 import { asking } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
 import {
-  keepPointsToday,
-  pointsIn,
-} from "akasha/personas/points/keeping/persona-points-keeping.module.code.ts"
-import {
   keepLastMessagedAt,
   type Persona,
   personaOr,
-} from "akasha/personas/reading/persona-reading.module.code.ts"
+} from "akasha/personas/modules/reading/persona-reading.module.code.ts"
+import {
+  keepPointsToday,
+  pointsIn,
+} from "akasha/personas/points/modules/keeping/persona-points-keeping.module.code.ts"
 
 const SEAT = "seat"
 

@@ -8,7 +8,7 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname, join } from "node:path"
-import { pidAliveOrAssumeAlive } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
+import { pidAliveOrAssumeAlive } from "akasha/utils/process/modules/pid-signal/pid-signal.module.code.ts"
 import {
   parseServingMarker,
   relayed,

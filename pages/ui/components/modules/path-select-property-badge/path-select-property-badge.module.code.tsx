@@ -1,0 +1,27 @@
+"use client"
+
+import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
+import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
+import { getValueArray } from "akasha/pages/core/property-types/modules/path-select/path-select.module.code.ts"
+import { parseConfig } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
+import { pathSelectConfigSchema } from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
+import type { PropertyBadgeProps } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
+
+const DEFAULT_SEPARATOR = " > "
+
+function getSeparator(definition: PropertyDefinition): string {
+  return (
+    parseConfig(pathSelectConfigSchema, definition.config, { providerId: "" }).separator ??
+    DEFAULT_SEPARATOR
+  )
+}
+
+export function PathSelectPropertyBadge({ property, value }: PropertyBadgeProps) {
+  const segments = getValueArray(value)
+  const accentVariant = property.accent ? "accent" : "elevation-muted"
+
+  if (segments.length === 0) return null
+
+  const separator = getSeparator(property)
+  return <Badge variant={accentVariant}>{segments.map(String).join(separator)}</Badge>
+}

@@ -1,6 +1,6 @@
 import { asBoolean } from "akasha/utils/narrow/modules/as-boolean/as-boolean.module.code.ts"
 import { isObjectRecord } from "akasha/utils/narrow/modules/is-object-record/is-object-record.module.code.ts"
-import { parseNumber } from "akasha/utils/narrow/parse-number/parse-number.module.code.ts"
+import { parseNumber } from "akasha/utils/narrow/modules/parse-number/parse-number.module.code.ts"
 import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
 
 const SERVICE_TYPES = ["nextjs", "bun-service", "tool-image"] as const

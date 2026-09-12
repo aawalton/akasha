@@ -17,7 +17,7 @@ import type {
   ClientStoryChapter,
   ClientStoryTurn,
 } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
-import { selectPendingActions } from "akasha/story/ui/pending-actions/pending-actions.module.code.ts"
+import { selectPendingActions } from "akasha/story/ui/modules/pending-actions/pending-actions.module.code.ts"
 import {
   interleaveTurnSegments,
   type TurnInterleaveMismatch,

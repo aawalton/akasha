@@ -14,7 +14,7 @@ import { safeInternalPath } from "akasha/pages/url/safe-target/safe-target.modul
 import {
   clearLastPath,
   getLastPath,
-} from "akasha/temper/web/path-tracker/path-tracker.module.code.ts"
+} from "akasha/temper/web/modules/path-tracker/path-tracker.module.code.ts"
 import type { ReactNode } from "react"
 import { useState } from "react"
 

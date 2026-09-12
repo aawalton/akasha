@@ -23,7 +23,7 @@ import {
   updateWarning,
 } from "akasha/temper/lib-addon-menu/modules/addon-menu-util/addon-menu-util.module.code.ts"
 import { isObjectRecord } from "akasha/utils/narrow/modules/is-object-record/is-object-record.module.code.ts"
-import { parseNumber } from "akasha/utils/narrow/parse-number/parse-number.module.code.ts"
+import { parseNumber } from "akasha/utils/narrow/modules/parse-number/parse-number.module.code.ts"
 
 interface ColorTable {
   r: number

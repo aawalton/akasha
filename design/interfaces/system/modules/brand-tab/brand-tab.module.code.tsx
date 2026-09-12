@@ -4,7 +4,7 @@ import { PageTabHeader } from "akasha/design/interfaces/layout/modules/page-tab-
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
 import { TabsContent } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
 import { BrandHeartPanel } from "akasha/design/interfaces/system/modules/brand-heart/brand-heart.module.code.tsx"
-import { PersonalityTonePanel } from "akasha/design/interfaces/system/personality-tone/personality-tone.module.code.tsx"
+import { PersonalityTonePanel } from "akasha/design/interfaces/system/modules/personality-tone/personality-tone.module.code.tsx"
 import { StrategicPrismPanel } from "akasha/design/interfaces/system/strategic-prism/strategic-prism.module.code.tsx"
 import { UiApplicationRulesPanel } from "akasha/design/interfaces/system/ui-application-rules/ui-application-rules.module.code.tsx"
 import { VisualIdentityPanel } from "akasha/design/interfaces/system/visual-identity/visual-identity.module.code.tsx"

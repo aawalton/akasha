@@ -12,7 +12,7 @@ import {
   SearchMultiSelect,
   type SearchMultiSelectItem,
 } from "akasha/design/interfaces/forms/search-multi-select/search-multi-select.module.code.tsx"
-import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
+import { PanelCard } from "akasha/design/interfaces/layout/modules/panel-card/panel-card.module.code.tsx"
 import { SearchButton } from "akasha/design/interfaces/patterns/search-button/search-button.module.code.tsx"
 import { Heading } from "akasha/design/interfaces/primitives/modules/heading/heading.module.code.tsx"
 import { useState } from "react"

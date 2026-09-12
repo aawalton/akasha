@@ -1,5 +1,5 @@
 import { DO_NOT_EDIT } from "akasha/temper/addon-generators/modules/do-not-edit/do-not-edit.module.code.ts"
-import { parseRestoreMetricIdsFromAbilityText } from "akasha/temper/addon-generators/parse-restore-metrics-from-ability-text/parse-restore-metrics-from-ability-text.module.code.ts"
+import { parseRestoreMetricIdsFromAbilityText } from "akasha/temper/addon-generators/modules/parse-restore-metrics-from-ability-text/parse-restore-metrics-from-ability-text.module.code.ts"
 import { potions } from "akasha/temper/alchemy/potion-source/potion-source.module.code.ts"
 import {
   ALCHEMY_EFFECT_IDS,

@@ -1,5 +1,6 @@
 import { dirname, join } from "node:path"
 import type { FilePropertiesBy } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
+import type { SidecarsBy } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
 import {
   everyValue,
   namersOf,
@@ -12,7 +13,6 @@ import type {
   Reading,
   Shape,
 } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
-import type { SidecarsBy } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 import { pageOf, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import {
   textAt,

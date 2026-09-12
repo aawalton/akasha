@@ -13,7 +13,7 @@ import {
 } from "akasha/temper/items-rules-eval/modules/build-item-facts-from-inventory-item/build-item-facts-from-inventory-item.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/modules/item-facts/item-facts.module.code.ts"
 import type { BrowseListing } from "akasha/temper/trading-listings/modules/browse-listings/browse-listings.module.code.ts"
-import { parseNumber } from "akasha/utils/narrow/parse-number/parse-number.module.code.ts"
+import { parseNumber } from "akasha/utils/narrow/modules/parse-number/parse-number.module.code.ts"
 import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
 
 function linkToInventoryItem(itemLink: string, stackCount: number): InventoryItemData {

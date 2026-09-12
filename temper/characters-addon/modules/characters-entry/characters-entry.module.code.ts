@@ -4,7 +4,7 @@ import { registerAddonInit } from "akasha/temper/addon-init/modules/addon-init/a
 import {
   finishPerfTrace,
   startPerfTrace,
-} from "akasha/temper/capture-perf/perf-trace/perf-trace.module.code.ts"
+} from "akasha/temper/capture-perf/modules/perf-trace/perf-trace.module.code.ts"
 import { collectAchievements } from "akasha/temper/characters-addon/modules/characters-achievements/characters-achievements.module.code.ts"
 import { collectAllianceRank } from "akasha/temper/characters-addon/modules/characters-alliance-rank/characters-alliance-rank.module.code.ts"
 import { collectAntiquityLore } from "akasha/temper/characters-addon/modules/characters-antiquity-lore/characters-antiquity-lore.module.code.ts"

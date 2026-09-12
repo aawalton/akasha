@@ -1,6 +1,6 @@
 import type { ContentPagePersistencePort } from "akasha/pages/ui-store/collection/modules/content-persistence/content-persistence.module.code.ts"
 import type { FetchImpl } from "akasha/pages/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts"
-import type { PagesPersistencePort } from "akasha/pages/ui-store/collection/persistence/persistence.module.code.ts"
+import type { PagesPersistencePort } from "akasha/pages/ui-store/collection/modules/persistence/persistence.module.code.ts"
 import {
   createPagesStore,
   type PagesStore,

@@ -7,7 +7,7 @@ import {
   dayPageAt,
 } from "akasha/alan/track/daily/modules/day-messages/day-messages.module.code.ts"
 import { mergeUncommitted } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
-import { personasStanding } from "akasha/personas/reading/persona-reading.module.code.ts"
+import { personasStanding } from "akasha/personas/modules/reading/persona-reading.module.code.ts"
 import { firstCapture } from "akasha/utils/narrow/modules/first-capture/first-capture.module.code.ts"
 import { textIn } from "akasha/utils/narrow/text-in/text-in.module.code.ts"
 

@@ -32,7 +32,7 @@ import { registerAddonInit } from "akasha/temper/addon-init/modules/addon-init/a
 import {
   finishPerfTrace,
   startPerfTrace,
-} from "akasha/temper/capture-perf/perf-trace/perf-trace.module.code.ts"
+} from "akasha/temper/capture-perf/modules/perf-trace/perf-trace.module.code.ts"
 import { initializeFcoCompanion } from "akasha/temper/companions-addon/modules/companion-qol-init/companion-qol-init.module.code.ts"
 import { refreshAllCompanionData } from "akasha/temper/companions-addon/modules/companions-commands/companions-commands.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/companions-addon/modules/companions-constants/companions-constants.module.code.ts"

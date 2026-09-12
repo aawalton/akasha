@@ -3,11 +3,11 @@ import { expect, mock, test } from "bun:test"
 const HANDED: (readonly unknown[])[] = []
 
 const rebuilding = await import(
-  "akasha/alan/harness/persona-points-rebuilding/persona-points-rebuilding.module.code.ts"
+  "akasha/alan/harness/modules/persona-points-rebuilding/persona-points-rebuilding.module.code.ts"
 )
 
 mock.module(
-  "akasha/alan/harness/persona-points-rebuilding/persona-points-rebuilding.module.code.ts",
+  "akasha/alan/harness/modules/persona-points-rebuilding/persona-points-rebuilding.module.code.ts",
   () => ({
     ...rebuilding,
     runPersonaPointsRebuilding: (...given: readonly unknown[]) => {
@@ -57,7 +57,7 @@ test("a rebuild that was done hands nothing back, so the run ends of its own acc
 test("a rebuild that could not run is carried out rather than swallowed, so a failed run is a failed unit", () => {
   const why = new Error("the persona points could not be written")
   mock.module(
-    "akasha/alan/harness/persona-points-rebuilding/persona-points-rebuilding.module.code.ts",
+    "akasha/alan/harness/modules/persona-points-rebuilding/persona-points-rebuilding.module.code.ts",
     () => ({
       ...rebuilding,
       runPersonaPointsRebuilding: () => {

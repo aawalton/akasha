@@ -10,7 +10,7 @@ import {
 import {
   PanelDefaultOpenProvider,
   PanelSummaryProvider,
-} from "akasha/design/interfaces/layout/panel-default-open-context/panel-default-open-context.module.code.tsx"
+} from "akasha/design/interfaces/layout/modules/panel-default-open-context/panel-default-open-context.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import type * as React from "react"
 import { isValidElement, useCallback, useLayoutEffect, useRef, useState } from "react"

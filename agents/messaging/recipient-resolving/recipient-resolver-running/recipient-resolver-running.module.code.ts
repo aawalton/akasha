@@ -1,4 +1,4 @@
-import { listPersonHandlers } from "akasha/agents/messaging/recipient-resolving/person-handlers/person-handlers.module.code.ts"
+import { listPersonHandlers } from "akasha/agents/messaging/recipient-resolving/modules/person-handlers/person-handlers.module.code.ts"
 import {
   recipientResolverConfigBanner,
   resolveRecipientResolverConfig,
@@ -13,7 +13,7 @@ import {
 import {
   listPersonaSlugs,
   listPersonaWakeSources,
-} from "akasha/personas/targets/persona-targets.module.code.ts"
+} from "akasha/personas/modules/targets/persona-targets.module.code.ts"
 
 export async function runRecipientResolverRunning(): Promise<void> {
   const ac = stopsOnSignal()

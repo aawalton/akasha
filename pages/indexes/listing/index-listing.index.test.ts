@@ -9,8 +9,8 @@ import {
   A,
   filedAs,
 } from "akasha/pages/indexes/modules/entries/index-entries.module.test-fixtures.ts"
+import type { SidecarsBy } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
 import { pathIn } from "akasha/pages/indexes/path/index-path.index.code.ts"
-import type { SidecarsBy } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 
 const NO_FILES: FilePropertiesBy = new Map()
 

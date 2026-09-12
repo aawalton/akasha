@@ -1,6 +1,9 @@
 "use client"
 
-import { type PatchPageArgs, patchPage } from "akasha/pages/access/patch/patch.module.code.ts"
+import {
+  type PatchPageArgs,
+  patchPage,
+} from "akasha/pages/access/modules/patch/patch.module.code.ts"
 import {
   type CompletionShape,
   completionValues,

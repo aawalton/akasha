@@ -3,7 +3,7 @@ import { pad2 } from "akasha/personas/modules/image-name/image-name.module.code.
 import {
   personaCondition,
   relationshipLevelMatchCondition,
-} from "akasha/personas/page-conditions/persona-page-conditions.module.code.ts"
+} from "akasha/personas/modules/page-conditions/persona-page-conditions.module.code.ts"
 
 export const PERSONA_ANCHOR_IMAGE_PAGE_TYPE_SLUG = "persona-anchor-image"
 

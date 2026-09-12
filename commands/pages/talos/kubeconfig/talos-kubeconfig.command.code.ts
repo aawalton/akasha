@@ -12,7 +12,7 @@ import { talosKubeconfig as page } from "akasha/commands/pages/talos/kubeconfig/
 import {
   clusterKubeconfigPath,
   clusterTalosconfigPath,
-} from "akasha/infrastructure/cluster/provisioning/talos/paths/paths.module.code.ts"
+} from "akasha/infrastructure/cluster/provisioning/talos/modules/paths/paths.module.code.ts"
 import { runTalosctl } from "akasha/infrastructure/cluster/provisioning/talos/talosctl/talosctl.module.code.ts"
 
 export type Named = {

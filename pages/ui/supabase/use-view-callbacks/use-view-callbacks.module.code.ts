@@ -8,7 +8,10 @@ import {
   type DeletePageArgs,
   deletePage,
 } from "akasha/pages/access/modules/deleting/deleting.module.code.ts"
-import { type PatchPageArgs, patchPage } from "akasha/pages/access/patch/patch.module.code.ts"
+import {
+  type PatchPageArgs,
+  patchPage,
+} from "akasha/pages/access/modules/patch/patch.module.code.ts"
 import type { Page } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 import type { ViewDataJSON } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import {

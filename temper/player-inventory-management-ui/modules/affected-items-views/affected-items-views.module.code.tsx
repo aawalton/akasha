@@ -1,7 +1,7 @@
 "use client"
 
 import { ItemRow } from "akasha/design/interfaces/patterns/modules/item-row/item-row.module.code.tsx"
-import { buildNodePath } from "akasha/design/interfaces/patterns/path/path.module.code.ts"
+import { buildNodePath } from "akasha/design/interfaces/patterns/modules/path/path.module.code.ts"
 import {
   Tabs,
   TabsContent,

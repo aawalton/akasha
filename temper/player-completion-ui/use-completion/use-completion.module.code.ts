@@ -9,9 +9,9 @@ import type {
   CompanionCompletion,
 } from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
-import { parseNumber } from "akasha/utils/narrow/parse-number/parse-number.module.code.ts"
-import { parseString } from "akasha/utils/narrow/parse-string/parse-string.module.code.ts"
-import { parseTimestamp } from "akasha/utils/narrow/parse-timestamp/parse-timestamp.module.code.ts"
+import { parseNumber } from "akasha/utils/narrow/modules/parse-number/parse-number.module.code.ts"
+import { parseString } from "akasha/utils/narrow/modules/parse-string/parse-string.module.code.ts"
+import { parseTimestamp } from "akasha/utils/narrow/modules/parse-timestamp/parse-timestamp.module.code.ts"
 import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
 import { stringsIn } from "akasha/utils/narrow/strings-in/strings-in.module.code.ts"
 import { useMemo } from "react"

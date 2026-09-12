@@ -1,6 +1,9 @@
 import { personaIsDefault } from "akasha/agents/seats/modules/resolve/seat-resolve.module.code.ts"
-import { personaAt } from "akasha/personas/reading/persona-reading.module.code.ts"
-import { answeredByOf, peopleStanding } from "akasha/persons/reading/person-reading.module.code.ts"
+import { personaAt } from "akasha/personas/modules/reading/persona-reading.module.code.ts"
+import {
+  answeredByOf,
+  peopleStanding,
+} from "akasha/persons/modules/reading/person-reading.module.code.ts"
 import { stated } from "akasha/utils/narrow/stated/stated.module.code.ts"
 
 const JOINER = "-"

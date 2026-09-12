@@ -17,7 +17,7 @@ import {
   patchPage,
   patchPageById,
   patchPages,
-} from "akasha/pages/access/patch/patch.module.code.ts"
+} from "akasha/pages/access/modules/patch/patch.module.code.ts"
 import {
   bulkUpsertPages,
   upsertPage,

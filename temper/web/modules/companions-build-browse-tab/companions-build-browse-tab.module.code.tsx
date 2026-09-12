@@ -6,7 +6,7 @@ import {
   PageTabTitleBadges,
 } from "akasha/design/interfaces/layout/modules/page-tab-header/page-tab-header.module.code.tsx"
 import { PaginatedCardGrid } from "akasha/design/interfaces/layout/modules/paginated-card-grid/paginated-card-grid.module.code.tsx"
-import { PanelToggleProvider } from "akasha/design/interfaces/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
+import { PanelToggleProvider } from "akasha/design/interfaces/layout/modules/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
 import {
   Empty,
   EmptyContent,

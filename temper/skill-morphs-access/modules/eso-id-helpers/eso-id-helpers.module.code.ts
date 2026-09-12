@@ -1,4 +1,4 @@
-import { getRacialSkillLineIdForRace } from "akasha/temper/character-skills/passive-queries/passive-queries.module.code.ts"
+import { getRacialSkillLineIdForRace } from "akasha/temper/character-skills/modules/passive-queries/passive-queries.module.code.ts"
 import { classes } from "akasha/temper/classes/modules/character-class/character-class.module.code.ts"
 import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
 import { type RaceId, races } from "akasha/temper/races/races/races.module.code.ts"

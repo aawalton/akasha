@@ -4,7 +4,7 @@ import {
   allSessions,
   sessionPropertyUndeclared,
 } from "akasha/alan/track/daily/modules/day-stretches/day-stretches.module.code.ts"
-import { personaRecipeRows } from "akasha/alan/track/daily/persona-recipe-rows/persona-recipe-rows.module.code.ts"
+import { personaRecipeRows } from "akasha/alan/track/daily/modules/persona-recipe-rows/persona-recipe-rows.module.code.ts"
 import {
   PersonaSessionRowSchema,
   planPersonaSessionWrite,

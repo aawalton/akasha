@@ -5,7 +5,7 @@ import {
   decodeTree,
   type ParsedSentence,
 } from "akasha/domains/plain-language/modules/dependency-graph/dependency-graph.module.code.ts"
-import { makeParseCache } from "akasha/domains/plain-language/parse-cache/parse-cache.module.code.ts"
+import { makeParseCache } from "akasha/domains/plain-language/modules/parse-cache/parse-cache.module.code.ts"
 import {
   chunkForEncoder,
   encodeWordPieces,

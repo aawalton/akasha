@@ -1,5 +1,5 @@
 import { PageTitle } from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
-import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
+import { PanelCard } from "akasha/design/interfaces/layout/modules/panel-card/panel-card.module.code.tsx"
 
 const EMAIL_LINK_HTML =
   '<!--email_off--><a class="text-accent underline" href="mailto:alan@alanwalton.com">alan@alanwalton.com</a><!--/email_off-->'

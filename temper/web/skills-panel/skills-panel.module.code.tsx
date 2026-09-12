@@ -7,7 +7,7 @@ import {
 } from "akasha/temper/character-skills/skill-line-queries/skill-line-queries.module.code.ts"
 import { activeSkillSlots } from "akasha/temper/skill-kinds/skill-slots/skill-slots.module.code.ts"
 import type { SkillLineId } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
-import { PassiveSkillsPanelCard } from "akasha/temper/web/passive-skills-panel-card/passive-skills-panel-card.module.code.tsx"
+import { PassiveSkillsPanelCard } from "akasha/temper/web/modules/passive-skills-panel-card/passive-skills-panel-card.module.code.tsx"
 import { ScribingPanelCard } from "akasha/temper/web/scribing-panel-card/scribing-panel-card.module.code.tsx"
 import { ScribingSelectionDialog } from "akasha/temper/web/scribing-selection-dialog/scribing-selection-dialog.module.code.tsx"
 import { ScriptEditDialog } from "akasha/temper/web/script-edit-dialog/script-edit-dialog.module.code.tsx"

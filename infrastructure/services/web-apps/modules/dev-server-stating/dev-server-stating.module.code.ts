@@ -12,7 +12,7 @@ import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 import {
   errnoCodeOf,
   pidAliveOrRefuse,
-} from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
+} from "akasha/utils/process/modules/pid-signal/pid-signal.module.code.ts"
 
 export interface DevServerState {
   readonly pid: number

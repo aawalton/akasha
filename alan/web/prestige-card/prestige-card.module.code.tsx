@@ -6,7 +6,7 @@ import {
 } from "akasha/alan/web/modules/idle-display/idle-display.module.code.ts"
 import { LegacyPerksPanel } from "akasha/alan/web/modules/legacy-perks-panel/legacy-perks-panel.module.code.tsx"
 import type { IdleActions } from "akasha/alan/web/use-idle-actions/use-idle-actions.module.code.ts"
-import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
+import { PanelCard } from "akasha/design/interfaces/layout/modules/panel-card/panel-card.module.code.tsx"
 
 export function PrestigeCard({ state, actions }: { state: GameState; actions: IdleActions }) {
   if (deriveLegacyPerksView(state) === null && deriveApotheosisView(state) === null) {

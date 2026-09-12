@@ -6,7 +6,7 @@ import type {
   FilePropertiesBy,
   UncommittedBy,
 } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
-import { filesClaimedIn } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
+import { filesClaimedIn } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { pageNamed } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { valueIn } from "akasha/pages/modules/value/page-value.module.code.ts"

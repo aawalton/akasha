@@ -1,4 +1,4 @@
-import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
+import { PanelCard } from "akasha/design/interfaces/layout/modules/panel-card/panel-card.module.code.tsx"
 import { Kbd, KbdGroup } from "akasha/design/interfaces/patterns/modules/kbd/kbd.module.code.tsx"
 import type { SHORTCUT_GROUPS } from "akasha/temper/web/modules/keyboard-shortcuts-data/keyboard-shortcuts-data.module.code.ts"
 

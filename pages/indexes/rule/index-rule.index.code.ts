@@ -4,8 +4,8 @@ import { digestOf } from "akasha/code/modules/carried-file/carried-file.module.c
 import { speltIn } from "akasha/code/modules/rule/code-rule.module.code.ts"
 import { typed } from "akasha/code/modules/typing/code-typing.module.code.ts"
 import type { Entry } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
+import { under } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
-import { under } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 import { indexRule } from "akasha/pages/indexes/rule/index-rule.index.ts"
 
 const RULE = indexRule.name

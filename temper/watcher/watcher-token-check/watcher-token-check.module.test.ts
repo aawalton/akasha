@@ -31,7 +31,7 @@ mock.module("akasha/pages/access/modules/get/get.module.code.ts", () => ({
   unfiledWhy: unreached("unfiledWhy"),
 }))
 
-mock.module("akasha/pages/access/patch/patch.module.code.ts", () => ({
+mock.module("akasha/pages/access/modules/patch/patch.module.code.ts", () => ({
   patchPage: unreached("patchPage"),
   patchPageById: async (args: unknown): Promise<Page | null> => {
     patchCalls.push(args)

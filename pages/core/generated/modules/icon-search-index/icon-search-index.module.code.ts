@@ -36,11 +36,11 @@ import { ICON_SEARCH_INDEX_34 } from "akasha/pages/core/generated/modules/entrie
 import { ICON_SEARCH_INDEX_35 } from "akasha/pages/core/generated/modules/entries-35/entries-35.module.code.ts"
 import { ICON_SEARCH_INDEX_36 } from "akasha/pages/core/generated/modules/entries-36/entries-36.module.code.ts"
 import { ICON_SEARCH_INDEX_37 } from "akasha/pages/core/generated/modules/entries-37/entries-37.module.code.ts"
-import { PASCAL_TO_KEBAB_00 } from "akasha/pages/core/generated/pascal-to-kebab-00/pascal-to-kebab-00.module.code.ts"
-import { PASCAL_TO_KEBAB_01 } from "akasha/pages/core/generated/pascal-to-kebab-01/pascal-to-kebab-01.module.code.ts"
-import { PASCAL_TO_KEBAB_02 } from "akasha/pages/core/generated/pascal-to-kebab-02/pascal-to-kebab-02.module.code.ts"
-import { PASCAL_TO_KEBAB_03 } from "akasha/pages/core/generated/pascal-to-kebab-03/pascal-to-kebab-03.module.code.ts"
-import { PASCAL_TO_KEBAB_04 } from "akasha/pages/core/generated/pascal-to-kebab-04/pascal-to-kebab-04.module.code.ts"
+import { PASCAL_TO_KEBAB_00 } from "akasha/pages/core/generated/modules/pascal-to-kebab-00/pascal-to-kebab-00.module.code.ts"
+import { PASCAL_TO_KEBAB_01 } from "akasha/pages/core/generated/modules/pascal-to-kebab-01/pascal-to-kebab-01.module.code.ts"
+import { PASCAL_TO_KEBAB_02 } from "akasha/pages/core/generated/modules/pascal-to-kebab-02/pascal-to-kebab-02.module.code.ts"
+import { PASCAL_TO_KEBAB_03 } from "akasha/pages/core/generated/modules/pascal-to-kebab-03/pascal-to-kebab-03.module.code.ts"
+import { PASCAL_TO_KEBAB_04 } from "akasha/pages/core/generated/modules/pascal-to-kebab-04/pascal-to-kebab-04.module.code.ts"
 
 export const ICON_SEARCH_INDEX = [
   ...ICON_SEARCH_INDEX_00,
