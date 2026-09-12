@@ -35,5 +35,5 @@ export const domainDeclarationList = {
     },
   ],
   name: "declaration-list",
-  arguments: [{ argument: "argument/declaration-subject" }],
+  arguments: [{ argument: "argument/declaration-subject", repeats: true }],
 } as const satisfies Command
