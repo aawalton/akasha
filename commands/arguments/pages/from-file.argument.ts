@@ -5,7 +5,7 @@ export const fromFile = {
   type: "argument",
   slug: "from-file",
   said: "--from-file",
-  takes: "the day's lines, read from a file or from standard input",
-  value: "text",
-  placeholder: "path|-",
+  takes: "the file the day's lines are read from, or `-` for standard input",
+  value: "path",
+  placeholder: "path",
 } as const satisfies Argument
