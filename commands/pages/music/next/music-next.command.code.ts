@@ -11,9 +11,9 @@ import { takenFor } from "akasha/commands/arguments/argument-taking/argument-tak
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import {
   DATA,
-  OK,
   refused,
   refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { musicNext as page } from "akasha/commands/pages/music/next/music-next.command.ts"
@@ -140,6 +140,5 @@ export function musicNext(argv: readonly string[], given: Given): Answer {
   const amiss = gradeAmiss(given.root)
   if (amiss !== null) return refused(amiss, DATA)
   const selection = selectionOf(selectNextExploration(catalogIn(given.root)))
-  const report = read.taken.json ? [JSON.stringify(selection)] : saidOf(selection)
-  return { report: [...report], refusals: [], code: OK }
+  return told(read.taken.json ? [JSON.stringify(selection)] : [...saidOf(selection)])
 }

@@ -16,8 +16,8 @@ import { query as queryArgument } from "akasha/commands/arguments/pages/query.ar
 import {
   answering,
   INPUT,
-  OK,
   refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type { Starting } from "akasha/commands/pages/music/play/music-play.command.code.ts"
@@ -117,10 +117,7 @@ async function queued(said: Said, ports: Queueing, done: string[]): Promise<Answ
   if (queries.length === 0) throw new InputError(NO_QUERY)
   const tracks = await resolvedFor(queries, said.artist, ports)
   const deviceId = await playedAndQueued(tracks, said.deviceId, ports, done)
-  const report = said.json
-    ? [JSON.stringify(queueEnvelopeFor(queries, tracks, deviceId))]
-    : [...done]
-  return { report, refusals: [], code: OK }
+  return told(said.json ? [JSON.stringify(queueEnvelopeFor(queries, tracks, deviceId))] : [...done])
 }
 
 export async function queueing(
