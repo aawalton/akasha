@@ -4,7 +4,8 @@ export const measureComplexityCyclomatic = {
   id: "01a08ccd-4d69-70c6-a642-6a6ac9529d4a",
   type: "command",
   slug: "measure-complexity-cyclomatic",
-  definition: "the McCabe complexity of each function of a checkout's TypeScript",
+  definition:
+    "the command saying the McCabe complexity of each function of a checkout's TypeScript",
   code: "ts",
   changeKind: "change-none",
   taking: [

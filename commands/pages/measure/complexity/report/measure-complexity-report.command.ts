@@ -4,7 +4,7 @@ export const measureComplexityReport = {
   id: "01a08ccd-dddb-7be6-a0d9-3752b6db6da1",
   type: "command",
   slug: "measure-complexity-report",
-  definition: "every complexity metric by percentile, with the outliers of each",
+  definition: "the command saying every complexity metric by percentile, with the outliers of each",
   code: "ts",
   changeKind: "change-none",
   taking: [

@@ -4,7 +4,8 @@ export const measureComplexityMaintainability = {
   id: "01a08ccd-ace4-705b-8318-42e706de96ae",
   type: "command",
   slug: "measure-complexity-maintainability",
-  definition: "the maintainability index of each file of a checkout's TypeScript",
+  definition:
+    "the command saying the maintainability index of each file of a checkout's TypeScript",
   code: "ts",
   changeKind: "change-none",
   taking: [

@@ -5,7 +5,7 @@ export const measureLearning = {
   type: "command",
   slug: "measure-learning",
   definition:
-    "how far through the Book of Everything Alan has got, part by part and over the whole",
+    "the command saying how far through the Book of Everything Alan has got, part by part",
   code: "ts",
   changeKind: "change-none",
   taking: [

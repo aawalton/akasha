@@ -4,7 +4,8 @@ export const measureComplexityHalstead = {
   id: "01a08ccd-7cd6-78a7-b5f2-66cdcd08bc68",
   type: "command",
   slug: "measure-complexity-halstead",
-  definition: "each function's token counts, and the volume, difficulty, effort, time and bugs",
+  definition:
+    "the command saying each function's token counts, and the volume, difficulty, effort, time and bugs",
   code: "ts",
   changeKind: "change-none",
   taking: [
