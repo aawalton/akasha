@@ -40,5 +40,9 @@ export const deployTreePinning = {
       invariantKind: "absence",
       statement: "Nothing here takes a tree away.",
     },
+    {
+      invariantKind: "gap",
+      statement: "A landing and a deploy moving one tree at once are held apart by nothing here.",
+    },
   ],
 } as const satisfies Module
