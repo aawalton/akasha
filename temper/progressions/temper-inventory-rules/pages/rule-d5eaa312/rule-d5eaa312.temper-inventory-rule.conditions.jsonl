@@ -1,3 +1,3 @@
-{"id":"01a072fd-1837-7074-ba64-89f35d29a256","conditionField":"crafted","conditionValue":"not-crafted"}
-{"id":"01a072fd-1837-7190-8ee6-683fdbd49f98","conditionField":"max-quality","conditionValue":"2"}
-{"id":"01a072fd-1837-707c-915b-517e1cd9aa83","conditionField":"merchant-value","conditionValue":"0"}
+{"id":"01a09640-ec16-7022-a003-f20b9d5a2911","conditionField":"max-quality","conditionValue":"2"}
+{"id":"01a09640-ec16-7ec6-b2ad-ac659dc5f9c5","conditionField":"crafted","conditionValue":"not-crafted"}
+{"id":"01a09640-ec16-7aad-a858-d18cd61947dc","conditionField":"merchant-value","conditionValue":"0"}
