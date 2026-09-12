@@ -33,6 +33,7 @@ import { indexRefresh } from "akasha/commands/pages/index/refresh/index-refresh.
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
+  idsNaming,
   indexNamed,
   indexThere,
   listedAt,
@@ -87,6 +88,10 @@ const CHANGE_KIND_TYPE = "01a05e11-d3f8-72af-b104-6cdd1255b0eb"
 const COMMAND_TYPE = "01a04bdd-596d-7b81-9204-1a882f474a5f"
 
 const NAMESPACE_TYPE = "01a06c7c-54b5-712b-b4a2-9ada10279dff"
+
+const INTENT_GROUP = "01a04e11-9f98-71e8-b821-77545c6be68e"
+
+const INVARIANT_GROUP = "invariant-group"
 
 const CODE = "code"
 
@@ -240,6 +245,16 @@ function rulesAbove(root: string, words: readonly string[]): readonly string[] {
   return held
 }
 
+function notYetIn(root: string): ReadonlySet<string> {
+  const found = new Set<string>()
+  if (!indexThere(root)) return found
+  for (const id of idsNaming(root, INTENT_GROUP, INVARIANT_GROUP)) {
+    const slug = typeSlugById(root, id)
+    if (slug !== null) found.add(slug)
+  }
+  return found
+}
+
 async function answeredBy(
   named: string,
   said: string,
@@ -263,13 +278,18 @@ async function answeredBy(
     )
   }
   const page = pageIn(root, path, named)
-  const surface = surfaceOf(page)
-  if (surface !== null && (argv[0] === HELP || argv[0] === HELP_SHORT)) {
-    const rules = [...rulesAbove(root, said.split(SPACE)), ...(page === null ? [] : rulesIn(page))]
-    return {
-      report: helpOf(`${outside.calledAs} ${said}`, definitionOf(page), surface, rules),
-      refusals: [],
-      code: OK,
+  if (argv[0] === HELP || argv[0] === HELP_SHORT) {
+    const surface = surfaceOf(page, notYetIn(root))
+    if (surface !== null) {
+      const rules = [
+        ...rulesAbove(root, said.split(SPACE)),
+        ...(page === null ? [] : rulesIn(page)),
+      ]
+      return {
+        report: helpOf(`${outside.calledAs} ${said}`, definitionOf(page), surface, rules),
+        refusals: [],
+        code: OK,
+      }
     }
   }
   const answers = answeringOf(reached.mod, named)

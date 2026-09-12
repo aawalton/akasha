@@ -17,18 +17,26 @@ import {
 
 afterAll(sweep)
 
+const NONE: ReadonlySet<string> = new Set()
+
+const GAP: ReadonlySet<string> = new Set(["gap"])
+
+const CENSUS = "A check reads this census."
+
 const SHOWN: Surface = {
   taking: [
     { said: "--file-path <path>", takes: "the page read" },
     { said: "--key <name>", takes: "the one secret" },
   ],
-  invariants: [],
+  holds: [],
+  notYet: [],
 }
 
 test("a page stating what a command takes has a surface", () => {
-  expect(surfaceOf({ taking: [{ said: "<id>", takes: "the id" }] })).toEqual({
+  expect(surfaceOf({ taking: [{ said: "<id>", takes: "the id" }] }, NONE)).toEqual({
     taking: [{ said: "<id>", takes: "the id" }],
-    invariants: [],
+    holds: [],
+    notYet: [],
   })
 })
 
@@ -42,23 +50,36 @@ test("the invariants a page states are read as their statements alone", () => {
       { invariantKind: "absence", statement: "Nothing here writes." },
     ],
   }
-  expect(statementsIn(page)).toEqual([
-    "Unlocking a rule already unlocked changes nothing.",
-    "Nothing here writes.",
-  ])
+  expect(statementsIn(page, NONE)).toEqual({
+    holds: ["Unlocking a rule already unlocked changes nothing.", "Nothing here writes."],
+    notYet: [],
+  })
+})
+
+test("an invariant of a kind that does not hold yet is parted from the rest", () => {
+  const page = {
+    invariants: [
+      { invariantKind: "departure", statement: "Nothing here writes." },
+      { invariantKind: "gap", statement: CENSUS },
+    ],
+  }
+  expect(statementsIn(page, GAP)).toEqual({
+    holds: ["Nothing here writes."],
+    notYet: [CENSUS],
+  })
 })
 
 test("an entry stating no statement is read as nothing", () => {
-  expect(statementsIn({ invariants: [{ invariantKind: "departure" }, "held", null, 1] })).toEqual(
-    []
-  )
-  expect(statementsIn({ invariants: "held" })).toEqual([])
-  expect(statementsIn({})).toEqual([])
+  expect(
+    statementsIn({ invariants: [{ invariantKind: "departure" }, "held", null, 1] }, NONE)
+  ).toEqual({ holds: [], notYet: [] })
+  expect(statementsIn({ invariants: "held" }, NONE)).toEqual({ holds: [], notYet: [] })
+  expect(statementsIn({}, NONE)).toEqual({ holds: [], notYet: [] })
 })
 
 test("no invariant of its own makes a page one help is answered from", () => {
   expect(
-    surfaceOf({ invariants: [{ invariantKind: "absence", statement: "Nothing writes." }] })
+    surfaceOf({ invariants: [{ invariantKind: "absence", statement: "Nothing writes." }] }, NONE)
   ).toBe(null)
 })
 
@@ -66,10 +87,38 @@ test("the invariants are written under the arguments", () => {
   const said = helpOf(
     "akasha held",
     null,
-    { taking: [{ said: "<id>", takes: "the id" }], invariants: ["Nothing here writes."] },
+    { taking: [{ said: "<id>", takes: "the id" }], holds: ["Nothing here writes."], notYet: [] },
     []
   )
   expect(said).toEqual(["akasha held", "", "  <id>  the id", "", "Nothing here writes."])
+})
+
+test("an invariant that does not hold yet is written under a heading saying so", () => {
+  const said = helpOf(
+    "akasha held",
+    null,
+    {
+      taking: [{ said: "<id>", takes: "the id" }],
+      holds: ["Nothing here writes."],
+      notYet: [CENSUS],
+    },
+    []
+  )
+  expect(said).toEqual([
+    "akasha held",
+    "",
+    "  <id>  the id",
+    "",
+    "Nothing here writes.",
+    "",
+    "Not yet true:",
+    CENSUS,
+  ])
+})
+
+test("a page whose every invariant does not hold yet is written with the heading alone", () => {
+  const said = helpOf("akasha held", null, { taking: [], holds: [], notYet: [CENSUS] }, [])
+  expect(said).toEqual(["akasha held", "", "", "Not yet true:", CENSUS])
 })
 
 const RULED = {
@@ -98,13 +147,13 @@ test("a page stating no directive is read as no rule", () => {
 })
 
 test("the rules are written under the invariants, each after a blank line", () => {
-  const said = helpOf("akasha held", null, { taking: [], invariants: [] }, ["one", "two"])
+  const said = helpOf("akasha held", null, { taking: [], holds: [], notYet: [] }, ["one", "two"])
   expect(said).toEqual(["akasha held", "", "", "one", "", "two"])
 })
 
 test("a page stating nothing taken has none", () => {
-  expect(surfaceOf({})).toBe(null)
-  expect(surfaceOf(null)).toBe(null)
+  expect(surfaceOf({}, NONE)).toBe(null)
+  expect(surfaceOf(null, NONE)).toBe(null)
 })
 
 test("the arguments are padded so what each takes lines up", () => {

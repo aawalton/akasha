@@ -41,6 +41,23 @@ export const helpWriting = {
       statement: "An entry stating no statement is written down nowhere.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "An invariant of a kind that does not hold yet is written under a heading saying so.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The invariants that hold are written above that heading.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page with no invariant of such a kind is written down with no heading.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which kinds do not hold yet is settled by whoever hands them in.",
+    },
+    {
       invariantKind: "absence",
       statement: "No invariant of its own makes a page a page help is answered from.",
     },

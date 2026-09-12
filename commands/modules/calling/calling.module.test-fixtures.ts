@@ -20,7 +20,8 @@ export const MECHANICAL: Kind = {
 
 export const SURFACED: Surface = {
   taking: [{ said: "--file-path <path>", takes: "a path it takes" }],
-  invariants: [],
+  holds: [],
+  notYet: [],
 }
 
 export const COMMAND = "command"

@@ -123,6 +123,14 @@ export const calling = {
     },
     {
       invariantKind: "departure",
+      statement: "The invariant kinds that do not hold yet are the kinds naming the intent group.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which kinds those are is read off the index rather than spelled here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A namespace listing is titled by the call that reached the namespace.",
     },
     {
