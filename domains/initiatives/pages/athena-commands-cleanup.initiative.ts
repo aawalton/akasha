@@ -20,5 +20,6 @@ export const athenaCommandsCleanup = {
     "A command's name is spelled in Alan's aliases and in the editor extension, both inside this repository, so a rename lands there in the same change and reaches Alan's machine at the next deploy.",
     "A claim that a file changed is settled by reading that file at HEAD, rather than by the commit that claims it.",
     "A page and the code beneath it drift in both directions, so a sweep reads both rather than trusting either.",
+    "Every question for Alan waits for the end of the work and is written into the working memory of the intent it belongs to.",
   ],
 } as const satisfies Initiative
