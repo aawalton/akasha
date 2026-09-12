@@ -25,7 +25,7 @@ import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 
 const LOG = "[supervisor-mcp]"
 
-const EXPORT_COMMAND = "browser-test-storage-state"
+const EXPORT_COMMAND = "browser test-storage-state"
 const REFRESH_TIMEOUT_MS = 10_000
 
 const RefreshEnvSchema = shape.object({
