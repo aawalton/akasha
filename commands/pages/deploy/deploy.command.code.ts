@@ -1,4 +1,10 @@
 import { costRecorded, opening } from "akasha/checks/modules/cost/check-cost.module.code.ts"
+import {
+  DATA,
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -50,9 +56,6 @@ import {
 } from "akasha/infrastructure/services/clusters/workload-applying/workload-applying.module.code.ts"
 import { putUpEvery } from "akasha/infrastructure/services/workstations/service-putting-up/service-putting-up.module.code.ts"
 
-const INPUT = 1
-const DATA = 2
-const OPERATIONAL = 3
 const PUT_UP = "deploy"
 const DRY_RUN = "--dry-run"
 const NO_UPLOAD = "--no-upload"
@@ -249,11 +252,11 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
     costRecorded(given.root, read.pagePath, before, PUT_UP, slug, 0, answer.refusals.length)
   }
   const lines = [`commit\t${commit}`, ...answer.report]
-  if (answer.code !== 0 || answer.refusals.length > 0) {
+  if (answer.code !== OK || answer.refusals.length > 0) {
     return answering(lines, [...answer.refusals, ...noting()], answer.code)
   }
   if (dry) return answering(lines, answer.refusals, answer.code)
   const wrong = recordedCommit(given.root, slug, read.pagePath, commit)
   if (wrong.length > 0) return answering(lines, wrong, OPERATIONAL)
-  return answering([...lines, `recorded\t${slug}\t${commit}`], [], 0)
+  return answering([...lines, `recorded\t${slug}\t${commit}`], [], OK)
 }
