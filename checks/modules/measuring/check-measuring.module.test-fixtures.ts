@@ -6,7 +6,10 @@ import type {
   Tally,
 } from "akasha/checks/modules/measuring/check-measuring.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
-import { valueAlsoFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import {
+  listedFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { nothingFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 
@@ -74,6 +77,7 @@ function idOf(at: number): string {
 
 function checkFiled(root: string, check: string, at: number): undefined {
   const path = `${UNDER}/${check}/${check}.${CHECKED}.ts`
+  listedFiled(root, CHECKED, check, [{ path, id: idOf(at) }])
   valueAlsoFiled(root, CHECKED, [
     { path, value: { id: idOf(at), pageTypeSlug: CHECKED, slug: check } },
   ])
