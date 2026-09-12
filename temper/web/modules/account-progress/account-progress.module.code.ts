@@ -1,15 +1,3 @@
-import type { AccountQuestUnionProgress } from "akasha/temper/player-completion/completion-account-union-progress/completion-account-union-progress.module.code.ts"
-import { transformAccountQuestUnion } from "akasha/temper/player-completion/completion-account-union-progress/completion-account-union-progress.module.code.ts"
-import type {
-  AccountPoiUnionProgress,
-  AccountZoneCompletionUnionProgress,
-} from "akasha/temper/player-completion/completion-account-zone-poi-union/completion-account-zone-poi-union.module.code.ts"
-import {
-  transformAccountPoiUnion,
-  transformAccountZoneCompletionUnion,
-} from "akasha/temper/player-completion/completion-account-zone-poi-union/completion-account-zone-poi-union.module.code.ts"
-import type { AccountAchievementOverallProgress } from "akasha/temper/player-completion/completion-achievement-progress/completion-achievement-progress.module.code.ts"
-import { transformAccountAchievementProgress } from "akasha/temper/player-completion/completion-achievement-progress/completion-achievement-progress.module.code.ts"
 import { transformAntiquityLoreProgress } from "akasha/temper/player-completion/completion-antiquity-lore-progress/completion-antiquity-lore-progress.module.code.ts"
 import type { AccountSummaryData } from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
 import { transformCollectiblesProgress } from "akasha/temper/player-completion/completion-collectibles-progress/completion-collectibles-progress.module.code.ts"
@@ -36,6 +24,18 @@ import {
 } from "akasha/temper/player-completion/modules/completion-account-recipe-scribing-union/completion-account-recipe-scribing-union.module.code.ts"
 import type { AccountTraitResearchUnionProgress } from "akasha/temper/player-completion/modules/completion-account-trait-union/completion-account-trait-union.module.code.ts"
 import { transformAccountTraitResearchUnion } from "akasha/temper/player-completion/modules/completion-account-trait-union/completion-account-trait-union.module.code.ts"
+import type { AccountQuestUnionProgress } from "akasha/temper/player-completion/modules/completion-account-union-progress/completion-account-union-progress.module.code.ts"
+import { transformAccountQuestUnion } from "akasha/temper/player-completion/modules/completion-account-union-progress/completion-account-union-progress.module.code.ts"
+import type {
+  AccountPoiUnionProgress,
+  AccountZoneCompletionUnionProgress,
+} from "akasha/temper/player-completion/modules/completion-account-zone-poi-union/completion-account-zone-poi-union.module.code.ts"
+import {
+  transformAccountPoiUnion,
+  transformAccountZoneCompletionUnion,
+} from "akasha/temper/player-completion/modules/completion-account-zone-poi-union/completion-account-zone-poi-union.module.code.ts"
+import type { AccountAchievementOverallProgress } from "akasha/temper/player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"
+import { transformAccountAchievementProgress } from "akasha/temper/player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"
 import type {
   useAccountCompletion,
   useCompletionCharacters,

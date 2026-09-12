@@ -29,12 +29,12 @@ import {
   ACTIVITY_CATEGORIES,
   type ActivityCategoryId,
 } from "akasha/temper/player-completion/modules/activity-categories/activity-categories.module.code.ts"
-import { CompletionActivityModeContext } from "akasha/temper/player-completion-ui/completion-activity-mode-context/completion-activity-mode-context.module.code.tsx"
 import type {
   CompletionFilter,
   CompletionSortMode,
 } from "akasha/temper/player-completion-ui/completion-panel-card/completion-panel-card.module.code.tsx"
 import { CompletionSearchContext } from "akasha/temper/player-completion-ui/completion-search-context/completion-search-context.module.code.tsx"
+import { CompletionActivityModeContext } from "akasha/temper/player-completion-ui/modules/completion-activity-mode-context/completion-activity-mode-context.module.code.tsx"
 import { CompletionCharactersTab } from "akasha/temper/web/completion-characters-tab/completion-characters-tab.module.code.tsx"
 import { CompletionCompanionsTab } from "akasha/temper/web/completion-companions-tab/completion-companions-tab.module.code.tsx"
 import { CompletionPageEmpty } from "akasha/temper/web/completion-page-empty/completion-page-empty.module.code.tsx"

@@ -1,12 +1,4 @@
 import type { BadgeToggleGroupItem } from "akasha/design/interfaces/badges/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
-import type {
-  AchievementTallyCategory,
-  CharacterAchievementProgressResult,
-} from "akasha/temper/player-completion/completion-achievement-progress/completion-achievement-progress.module.code.ts"
-import {
-  achievementTally,
-  transformCharacterAchievementProgress,
-} from "akasha/temper/player-completion/completion-achievement-progress/completion-achievement-progress.module.code.ts"
 import { transformCadwellProgress } from "akasha/temper/player-completion/completion-cadwell-progress/completion-cadwell-progress.module.code.ts"
 import type { CharacterSummaryData } from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
 import { transformDailyWritsProgress } from "akasha/temper/player-completion/completion-daily-writs-progress/completion-daily-writs-progress.module.code.ts"
@@ -35,6 +27,14 @@ import type {
   CompletionCharacter,
 } from "akasha/temper/player-completion/completion-ui-types/completion-ui-types.module.code.ts"
 import { transformZoneCompletionProgress } from "akasha/temper/player-completion/completion-zone-progress/completion-zone-progress.module.code.ts"
+import type {
+  AchievementTallyCategory,
+  CharacterAchievementProgressResult,
+} from "akasha/temper/player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"
+import {
+  achievementTally,
+  transformCharacterAchievementProgress,
+} from "akasha/temper/player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"
 import type {
   useAccountCompletion,
   useCompletionCharacters,

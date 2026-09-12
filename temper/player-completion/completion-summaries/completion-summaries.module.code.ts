@@ -1,16 +1,4 @@
 import type { AccountCompletion } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import {
-  transformAccountQuestUnion,
-  transformCompanionQuestUnion,
-} from "akasha/temper/player-completion/completion-account-union-progress/completion-account-union-progress.module.code.ts"
-import {
-  transformAccountPoiUnion,
-  transformAccountZoneCompletionUnion,
-} from "akasha/temper/player-completion/completion-account-zone-poi-union/completion-account-zone-poi-union.module.code.ts"
-import {
-  transformAccountAchievementProgress,
-  transformCharacterAchievementProgress,
-} from "akasha/temper/player-completion/completion-achievement-progress/completion-achievement-progress.module.code.ts"
 import { transformAntiquityLoreProgress } from "akasha/temper/player-completion/completion-antiquity-lore-progress/completion-antiquity-lore-progress.module.code.ts"
 import { transformCadwellProgress } from "akasha/temper/player-completion/completion-cadwell-progress/completion-cadwell-progress.module.code.ts"
 import type {
@@ -48,6 +36,18 @@ import {
   transformAccountScribingUnion,
 } from "akasha/temper/player-completion/modules/completion-account-recipe-scribing-union/completion-account-recipe-scribing-union.module.code.ts"
 import { transformAccountTraitResearchUnion } from "akasha/temper/player-completion/modules/completion-account-trait-union/completion-account-trait-union.module.code.ts"
+import {
+  transformAccountQuestUnion,
+  transformCompanionQuestUnion,
+} from "akasha/temper/player-completion/modules/completion-account-union-progress/completion-account-union-progress.module.code.ts"
+import {
+  transformAccountPoiUnion,
+  transformAccountZoneCompletionUnion,
+} from "akasha/temper/player-completion/modules/completion-account-zone-poi-union/completion-account-zone-poi-union.module.code.ts"
+import {
+  transformAccountAchievementProgress,
+  transformCharacterAchievementProgress,
+} from "akasha/temper/player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"
 import { transformSubclassingSkillMorphProgress } from "akasha/temper/skill-morphs/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
 
 export interface CompletionSummariesInput {

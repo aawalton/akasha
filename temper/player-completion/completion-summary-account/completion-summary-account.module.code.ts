@@ -1,11 +1,5 @@
 import { MAX_CHAMPION_POINTS } from "akasha/temper/champion-points/modules/champion-point-source/champion-point-source.module.code.ts"
 import { TOTAL_GRAND_MASTER_STATIONS } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import type { AccountQuestUnionProgress } from "akasha/temper/player-completion/completion-account-union-progress/completion-account-union-progress.module.code.ts"
-import type {
-  AccountPoiUnionProgress,
-  AccountZoneCompletionUnionProgress,
-} from "akasha/temper/player-completion/completion-account-zone-poi-union/completion-account-zone-poi-union.module.code.ts"
-import type { AccountAchievementOverallProgress } from "akasha/temper/player-completion/completion-achievement-progress/completion-achievement-progress.module.code.ts"
 import type { AccountSummaryData } from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
 import type { ItemSetOverallProgress } from "akasha/temper/player-completion/completion-item-set-progress/completion-item-set-progress.module.code.ts"
 import type { SubclassingSkillLineProgressResult } from "akasha/temper/player-completion/completion-subclassing-progress/completion-subclassing-progress.module.code.ts"
@@ -20,6 +14,12 @@ import type {
   AccountScribingUnionProgress,
 } from "akasha/temper/player-completion/modules/completion-account-recipe-scribing-union/completion-account-recipe-scribing-union.module.code.ts"
 import type { AccountTraitResearchUnionProgress } from "akasha/temper/player-completion/modules/completion-account-trait-union/completion-account-trait-union.module.code.ts"
+import type { AccountQuestUnionProgress } from "akasha/temper/player-completion/modules/completion-account-union-progress/completion-account-union-progress.module.code.ts"
+import type {
+  AccountPoiUnionProgress,
+  AccountZoneCompletionUnionProgress,
+} from "akasha/temper/player-completion/modules/completion-account-zone-poi-union/completion-account-zone-poi-union.module.code.ts"
+import type { AccountAchievementOverallProgress } from "akasha/temper/player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"
 import type { SubclassingSkillMorphProgressResult } from "akasha/temper/skill-morphs/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
 
 export function buildAccountSummary(
