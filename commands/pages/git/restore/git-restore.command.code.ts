@@ -1,5 +1,6 @@
 import { chmodSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
+import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
   type Answer,
   answering,
@@ -185,7 +186,7 @@ function residueFor(root: string, path: string, indexed: Entry | undefined): Cle
 
 type Judged =
   | { readonly held: readonly Held[]; readonly cleared: readonly Cleared[] }
-  | { readonly refusals: readonly string[] }
+  | { readonly refusals: readonly string[]; readonly code?: number }
 
 export function judgedIn(root: string, paths: readonly string[]): Judged {
   let head: ReadonlyMap<string, Entry>
@@ -199,6 +200,7 @@ export function judgedIn(root: string, paths: readonly string[]): Judged {
         "git could not say what HEAD and the git index hold, so `akasha git restore` put nothing " +
           `back — ${saidBy(why)}`,
       ],
+      code: OPERATIONAL,
     }
   }
   const held: Held[] = []
@@ -335,7 +337,7 @@ export function gitRestore(argv: readonly string[], given: Given): Answer {
   const wanted = pathsIn(root, read.named)
   if ("refusals" in wanted) return answering([], wanted.refusals, 1)
   const judged = judgedIn(root, wanted.paths)
-  if ("refusals" in judged) return answering([], judged.refusals, 1)
+  if ("refusals" in judged) return answering([], judged.refusals, judged.code ?? 1)
   const going = judged.held.filter((one) => !one.diskHolds || !one.indexHolds)
   const left = judged.held.filter((one) => one.diskHolds && one.indexHolds)
   const done: Held[] = []
@@ -352,7 +354,7 @@ export function gitRestore(argv: readonly string[], given: Given): Answer {
         "akasha git restore stopped part way, so the git index may still hold another body — " +
           `${saidBy(why)}`,
       ],
-      1
+      OPERATIONAL
     )
   }
   return answering(reportOf(going, left, judged.cleared), [], 0)

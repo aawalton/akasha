@@ -122,5 +122,9 @@ export const gitRestore = {
       invariantKind: "gap",
       statement: "Uncommitted drift goes without a git call that could take another agent's work.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A restore git broke or stopped part way is refused as the machine's fault.",
+    },
   ],
 } as const satisfies Command
