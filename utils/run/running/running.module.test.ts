@@ -194,14 +194,15 @@ test("a process given no ceiling runs to its own end", () => {
   expect(ran(["true"]).signal).toBeNull()
 })
 
+const WEIGHING = "/sys/fs/cgroup$(cut -d: -f3 /proc/self/cgroup)/.."
+
 test("a process is given the memory ceiling its caller stated", () => {
-  const at = "/sys/fs/cgroup$(cut -d: -f3 /proc/self/cgroup)/memory.high"
-  expect(ran(["sh", "-c", `cat ${at}`], { memoryCeiling: 128 }).out.trim()).toBe("134217728")
+  const held = ran(["sh", "-c", `cat ${WEIGHING}/memory.high`], { memoryCeiling: 128 })
+  expect(held.out.trim()).toBe("134217728")
 })
 
 test("a process given no memory ceiling is held to none", () => {
-  const at = "/sys/fs/cgroup$(cut -d: -f3 /proc/self/cgroup)/memory.high"
-  expect(ran(["sh", "-c", `cat ${at}`]).out.trim()).toBe("max")
+  expect(ran(["sh", "-c", `cat ${WEIGHING}/memory.high`]).out.trim()).toBe("max")
 })
 
 test("a process past its memory ceiling runs to its end rather than being ended", () => {
@@ -238,6 +239,14 @@ test("a delegated ancestor is the one a budget is made under", () => {
 test("the seconds answered carry what a process's own children spent", () => {
   const inner = "Bun.spawnSync(['bun', '-e', 'let x = 0; for (let i = 0; i < 1e8; i++) x += i'])"
   expect(ran(["bun", "-e", inner]).cpuSeconds).toBeGreaterThan(0.1)
+})
+
+test("what a run held carries what a run started inside it held", () => {
+  const at = `${import.meta.dir}/running.module.code.ts`
+  const inner =
+    `import { ran } from ${JSON.stringify(at)}; ` +
+    'ran(["bun", "-e", "new Uint8Array(300e6).fill(1)"])'
+  expect(ran(["bun", "-e", inner]).peakBytes).toBeGreaterThan(250e6)
 })
 
 test("the seconds answered carry a child the run never reaped, bounded or not", () => {

@@ -48,6 +48,10 @@ const SWEEPS = 20
 
 const MADE = "akasha-"
 
+const RUN = "run"
+
+const TURN_ON = "+cpu +memory"
+
 const APART = "-"
 
 const DIGITS = /^\d+$/
@@ -90,6 +94,9 @@ function leftSwept(parent: string): undefined {
     const pid = madePid(one)
     if (pid === null || pidAliveOrAssumeAlive(pid)) continue
     try {
+      rmdirSync(join(parent, one, RUN))
+    } catch {}
+    try {
       rmdirSync(join(parent, one))
     } catch {}
   }
@@ -110,8 +117,11 @@ function budgetAt(): string | null {
   const at = join(parent, `${MADE}${String(process.pid)}${APART}${String(Bun.nanoseconds())}`)
   try {
     mkdirSync(at)
+    writeFileSync(join(at, CONTROL), TURN_ON)
+    mkdirSync(join(at, RUN))
     return at
   } catch {
+    swept(at)
     return null
   }
 }
@@ -138,7 +148,7 @@ function watching(at: string, ceiling: number): string {
 }
 
 function joined(at: string, argv: readonly string[], found: string): readonly string[] {
-  return ["sh", "-c", `echo $$ > ${join(at, PROCS)}; exec "$@"`, "sh", found, ...argv.slice(1)]
+  return ["sh", "-c", `echo $$ > ${join(at, RUN, PROCS)}; exec "$@"`, "sh", found, ...argv.slice(1)]
 }
 
 function foundFor(argv: readonly string[], asked: Asked): string | null {
@@ -178,6 +188,9 @@ function peakAt(at: string): number | null {
 
 function swept(at: string): undefined {
   for (let held = 0; held < SWEEPS; held += 1) {
+    try {
+      rmdirSync(join(at, RUN))
+    } catch {}
     try {
       rmdirSync(at)
       return

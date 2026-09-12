@@ -157,6 +157,18 @@ export const running = {
     },
     {
       invariantKind: "departure",
+      statement: "The run sits in a leaf of that group, and what the run starts sits beside it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a run spent and held is read from that group rather than from the leaf.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run started inside a run makes its group under that run's group.",
+    },
+    {
+      invariantKind: "departure",
       statement: "That group is made under the nearest ancestor group this run may write in.",
     },
     {
