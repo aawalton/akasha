@@ -30,7 +30,7 @@ export const OWNED_GLOBAL_REMEDY = [
   "Where the claim comes from `addon.json#savedVariables`, the non-owner renames its saved-variables table —",
   "deleting the entry drops the player's stored data instead of moving it.",
   "Before renaming anything, ask what already depends on the name:",
-  "akasha temper-addon-global-name-dependents --global <name>",
+  "akasha temper addon global-name-dependents --global <name>",
 ].join(" ")
 
 const GLOBAL_TABLE_IDENTIFIERS: ReadonlySet<string> = new Set(["globalThis", "_G"])
