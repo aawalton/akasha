@@ -1,3 +1,3 @@
-{"id":"01a0961c-0dfb-7e33-a8a4-0d70a1e174e3","conditionField":"known","conditionValue":"known"}
-{"id":"01a0961c-0dfb-7713-91b1-e2909ff747e0","conditionField":"market-value","conditionValue":"MIN_LISTING_VALUE"}
-{"id":"01a0961c-0dfb-7bc9-9905-ef2f3ef7cd35","conditionField":"market-value-op","conditionValue":"<"}
+{"id":"01a09620-2c74-749f-abde-9630d9b16702","conditionField":"known","conditionValue":"known"}
+{"id":"01a09620-2c74-7e78-9979-636fef331779","conditionField":"market-value","conditionValue":"MIN_LISTING_VALUE"}
+{"id":"01a09620-2c74-7e6a-810f-75e66d8d47ba","conditionField":"market-value-op","conditionValue":"<"}
