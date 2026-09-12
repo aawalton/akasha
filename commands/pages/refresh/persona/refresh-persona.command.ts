@@ -38,6 +38,10 @@ export const refreshPersona = {
       invariantKind: "departure",
       statement: "A run that stopped before it rebuilt a persona is refused as the fault alone.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A fault carries the code that fault names and says where it was thrown.",
+    },
   ],
   name: "persona",
 } as const satisfies Command
