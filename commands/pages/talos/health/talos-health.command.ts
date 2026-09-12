@@ -13,10 +13,6 @@ export const talosHealth = {
       takes: "every etcd member's address, which the membership arm weighs",
     },
     { said: "--worker-ips <csv>", takes: "every worker's address, where the cluster has workers" },
-    {
-      said: "--cluster <name>",
-      takes: "the cluster whose talosconfig is read, `main` where none is said",
-    },
   ],
   invariants: [
     {
@@ -62,4 +58,5 @@ export const talosHealth = {
     },
   ],
   name: "health",
+  arguments: [{ argument: "argument/cluster" }],
 } as const satisfies Command

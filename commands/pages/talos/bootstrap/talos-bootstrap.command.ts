@@ -8,10 +8,6 @@ export const talosBootstrap = {
   code: "ts",
   taking: [
     { said: "--ip <ip>", takes: "the address of the control-plane node etcd is started on" },
-    {
-      said: "--cluster <name>",
-      takes: "the cluster whose talosconfig is read, `main` where none is said",
-    },
   ],
   invariants: [
     {
@@ -53,4 +49,5 @@ export const talosBootstrap = {
     },
   ],
   name: "bootstrap",
+  arguments: [{ argument: "argument/cluster" }],
 } as const satisfies Command

@@ -6,9 +6,7 @@ export const talosSecretGen = {
   slug: "talos-secret-gen",
   definition: "the command writing a Talos cluster's PKI bundle SOPS-encrypted",
   code: "ts",
-  taking: [
-    { said: "--cluster <name>", takes: "the cluster to write for, `main` where none is said" },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -52,5 +50,5 @@ export const talosSecretGen = {
     },
   ],
   name: "secret-gen",
-  arguments: [{ argument: "argument/force" }],
+  arguments: [{ argument: "argument/force" }, { argument: "argument/cluster" }],
 } as const satisfies Command

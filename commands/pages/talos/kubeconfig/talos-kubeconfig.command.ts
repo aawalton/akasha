@@ -11,10 +11,6 @@ export const talosKubeconfig = {
       said: "--ip <ip>",
       takes: "the node the kubeconfig is asked of, a control-plane node for choice",
     },
-    {
-      said: "--cluster <name>",
-      takes: "the cluster to fetch for, `main` where none is said",
-    },
     { said: "--output <path>", takes: "the file to write to, in place of the one under the home" },
   ],
   invariants: [
@@ -53,4 +49,5 @@ export const talosKubeconfig = {
     },
   ],
   name: "kubeconfig",
+  arguments: [{ argument: "argument/cluster" }],
 } as const satisfies Command

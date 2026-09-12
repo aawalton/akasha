@@ -6,13 +6,7 @@ export const talosApply = {
   slug: "talos-apply",
   definition: "the command taking one Talos node from maintenance mode into its cluster",
   code: "ts",
-  taking: [
-    { said: "--ip <ip>", takes: "the maintenance-mode address the node answers at" },
-    {
-      said: "--cluster <name>",
-      takes: "the cluster to apply for, where the node's own is not the one meant",
-    },
-  ],
+  taking: [{ said: "--ip <ip>", takes: "the maintenance-mode address the node answers at" }],
   invariants: [
     {
       invariantKind: "departure",
@@ -78,5 +72,8 @@ export const talosApply = {
     },
   ],
   name: "apply",
-  arguments: [{ argument: "argument/node", required: true, saidAs: "flag-or-word" }],
+  arguments: [
+    { argument: "argument/node", required: true, saidAs: "flag-or-word" },
+    { argument: "argument/cluster" },
+  ],
 } as const satisfies Command
