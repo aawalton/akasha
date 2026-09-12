@@ -7,7 +7,7 @@ export const initiativeHandIntent = {
   definition: "the command handing one intent from the initiative stating it to another initiative",
   code: "ts",
   test: "ts",
-  taking: [{ said: "<to>", takes: "the initiative taking the intent" }],
+  taking: [],
 
   invariants: [
     {
@@ -88,5 +88,6 @@ export const initiativeHandIntent = {
   arguments: [
     { argument: "argument/from-initiative", required: true, saidAs: "word" },
     { argument: "argument/statement", required: true, saidAs: "word" },
+    { argument: "argument/to-initiative", required: true, saidAs: "word" },
   ],
 } as const satisfies Command
