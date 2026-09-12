@@ -4,7 +4,6 @@ import { notUtf8 } from "akasha/checks/modules/body-not-utf8/body-not-utf8.modul
 import { decodeUtf8 } from "akasha/code/utf8-body/utf8-body.module.code.ts"
 import { fail } from "akasha/commands/modules/failing/command-failing.module.code.ts"
 import {
-  AKASHA,
   addressableNamed,
   isAddressable,
   locate,
@@ -31,60 +30,7 @@ const STANDALONE = [
 
 const FILE_PATH = "--file-path"
 
-const CONTENT_FILE = "--content-file"
-
-export interface ContentPair {
-  readonly filePath: string
-  readonly contentFile: string
-}
-
-export interface PairsRefused {
-  readonly refusal: string
-}
-
-export function filePathPairs(
-  argv: readonly string[],
-  takesValue: readonly string[]
-): readonly ContentPair[] | PairsRefused {
-  const pairs: ContentPair[] = []
-  let open: string | null = null
-  for (let at = 0; at < argv.length; at += 1) {
-    const token = argv[at]
-    if (token === undefined) continue
-    if (token === FILE_PATH) {
-      if (open !== null) {
-        return {
-          refusal:
-            `${FILE_PATH} ${open} is given no ${CONTENT_FILE} before the next ${FILE_PATH}, so no ` +
-            "body is named for it — every path this call writes carries one",
-        }
-      }
-      const value = argv[at + 1]
-      if (value === undefined) return { refusal: `${FILE_PATH} needs a value` }
-      open = value
-      at += 1
-      continue
-    }
-    if (token === CONTENT_FILE) {
-      const value = argv[at + 1]
-      if (value === undefined) return { refusal: `${CONTENT_FILE} needs a value` }
-      if (open === null) {
-        return {
-          refusal: `${CONTENT_FILE} ${value} follows no ${FILE_PATH}, so nothing says where that body lands`,
-        }
-      }
-      pairs.push({ filePath: open, contentFile: value })
-      open = null
-      at += 1
-      continue
-    }
-    if (takesValue.includes(token)) at += 1
-  }
-  if (open !== null) return { refusal: `${FILE_PATH} needs ${CONTENT_FILE}` }
-  return pairs
-}
-
-export function candidatePaths(argv: readonly string[]): readonly string[] {
+function candidatePaths(argv: readonly string[]): readonly string[] {
   const found: string[] = []
   for (let at = 0; at < argv.length; at += 1) {
     const token = argv[at]
@@ -101,7 +47,7 @@ export function candidatePaths(argv: readonly string[]): readonly string[] {
   return found
 }
 
-export function repoNamed(argv: readonly string[]): Addressable | null {
+function repoNamed(argv: readonly string[]): Addressable | null {
   const at = argv.indexOf("--repo")
   if (at === -1) return null
   const value = argv[at + 1]
@@ -110,10 +56,6 @@ export function repoNamed(argv: readonly string[]): Addressable | null {
     fail(`--repo ${value} names no repo a command addresses; it takes ${addressableNamed()}`)
   }
   return value
-}
-
-export function repoFlag(argv: readonly string[]): Addressable {
-  return repoNamed(argv) ?? AKASHA
 }
 
 export interface Addressed {
@@ -163,35 +105,6 @@ export function rootsOf(argv: readonly string[], also: readonly string[] = []): 
   return resolveRoots(repo)
 }
 
-export function rootsOfSide(flag: string, paths: readonly string[]): Roots {
-  const roots = resolveRoots()
-  const where = new Map<Repo, string>()
-  for (const one of paths) {
-    const absolute = resolve(process.cwd(), one)
-    const found = locate(absolute, roots)
-    if (found === null) {
-      fail(
-        `${absolute} is inside no repo, so nothing here says which repo ${flag} reaches — the ` +
-          `working directory it tried is ${process.cwd()}`
-      )
-    }
-    if (!where.has(found.repo)) where.set(found.repo, absolute)
-  }
-  if (where.size > 1) {
-    fail(
-      `the paths ${flag} names are in more than one repo, and one side of a move addresses one: ` +
-        [...where].map(([inside, path]) => `${path} is inside ${inside}`).join(", ")
-    )
-  }
-  const first = [...where][0]
-  if (first === undefined) fail(`${flag} names no path, so nothing says which repo it reaches`)
-  const [repo, absolute] = first
-  if (!isAddressable(repo)) {
-    fail(`${absolute} is inside no repo this reaches — it reaches ${addressableNamed()}`)
-  }
-  return resolveRoots(repo)
-}
-
 export function rejectUnknownFlags(
   argv: readonly string[],
   takesValue: readonly string[],
@@ -207,15 +120,6 @@ export function rejectUnknownFlags(
     if (standalone.includes(token)) continue
     fail(`${token} is not a flag this command takes`)
   }
-}
-
-export function readsPayload(
-  pairs: number,
-  inputFile: string | null,
-  takingAway: boolean
-): boolean {
-  if (pairs > 0) return false
-  return inputFile !== null || !takingAway
 }
 
 export async function readPayloadIfAny(source: string): Promise<unknown | null> {
