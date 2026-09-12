@@ -85,7 +85,7 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "That refusal names the call taking the kept edits away.",
+      statement: "That refusal names the drop that takes away only the paths that moved.",
     },
     {
       invariantKind: "departure",

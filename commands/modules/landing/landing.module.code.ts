@@ -89,8 +89,10 @@ export type Committing = { commit: string | null }
 
 const AGAIN_WRITTEN =
   "nothing was written — the edits kept do not rebase, and reading those bodies again does not" +
-  " move them. `akasha change drop` with `all: true` takes away the whole pool rather than the" +
-  " stale part, and the change is drafted again against what is there now"
+  " move them. Each line above names one path whose body moved, and every path named there has" +
+  " an edit kept, so a drop naming those paths with an `at:` line each takes their edits away" +
+  " and leaves every other edit kept. Draft those again against the bodies as they now read." +
+  " `all: true` takes away every edit kept instead, including the ones that rebase."
 
 const NOTHING_OUTSIDE = "nothing landed — name every path against the repository root"
 
