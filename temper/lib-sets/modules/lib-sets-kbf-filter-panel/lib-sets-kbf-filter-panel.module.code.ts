@@ -1,8 +1,3 @@
-import { getKeyboardSearchUIClass } from "akasha/temper/lib-sets/lib-sets-search-ui-keyboard-class/lib-sets-search-ui-keyboard-class.module.code.ts"
-import {
-  onFilterDropdownEntryMouseEnterCallback,
-  onFilterDropdownEntryMouseExitCallback,
-} from "akasha/temper/lib-sets/lib-sets-search-ui-keyboard-init/lib-sets-search-ui-keyboard-init.module.code.ts"
 import { buildDlcFilter } from "akasha/temper/lib-sets/modules/lib-sets-kbf-dlc-filter/lib-sets-kbf-dlc-filter.module.code.ts"
 import {
   buildDropLocationFilter,
@@ -21,6 +16,11 @@ import {
   buildEnchantmentSearchCategoryFilter,
   buildNumBonusFilter,
 } from "akasha/temper/lib-sets/modules/lib-sets-kbf-set-bonus-filters/lib-sets-kbf-set-bonus-filters.module.code.ts"
+import { getKeyboardSearchUIClass } from "akasha/temper/lib-sets/modules/lib-sets-search-ui-keyboard-class/lib-sets-search-ui-keyboard-class.module.code.ts"
+import {
+  onFilterDropdownEntryMouseEnterCallback,
+  onFilterDropdownEntryMouseExitCallback,
+} from "akasha/temper/lib-sets/modules/lib-sets-search-ui-keyboard-init/lib-sets-search-ui-keyboard-init.module.code.ts"
 
 const lib = LibSets
 const checkLSM = lib.CheckLSM

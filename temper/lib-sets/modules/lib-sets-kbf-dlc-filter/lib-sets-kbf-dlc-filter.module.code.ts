@@ -1,8 +1,4 @@
 import {
-  defaultMultiSelectSelectedText,
-  setupFilterDropdown,
-} from "akasha/temper/lib-sets/lib-sets-search-ui-keyboard-filters-setup/lib-sets-search-ui-keyboard-filters-setup.module.code.ts"
-import {
   asNumber,
   asStringOpt,
   asStrRecord,
@@ -13,6 +9,10 @@ import {
   SORT_BY_ALL,
   sortFilterComboBox,
 } from "akasha/temper/lib-sets/modules/lib-sets-kbf-sorting/lib-sets-kbf-sorting.module.code.ts"
+import {
+  defaultMultiSelectSelectedText,
+  setupFilterDropdown,
+} from "akasha/temper/lib-sets/modules/lib-sets-search-ui-keyboard-filters-setup/lib-sets-search-ui-keyboard-filters-setup.module.code.ts"
 
 const lib = LibSets
 const getLocalizedText = lib.GetLocalizedText
