@@ -44,3 +44,28 @@ test("a run that wrote twice names each write in the order it was written", asyn
       `${LANDED}. Nothing after that ran.`
   )
 })
+
+test("a flag this takes no argument for is refused before anything is read", async () => {
+  const said = await temperEsoGenerateChatterName(["--json"], GIVEN, throwingAfter([], LOST))
+
+  expect(said.code).not.toBe(0)
+  expect(said.refusals.join("\n")).toContain("`--json` is no argument")
+})
+
+test("a word this takes no argument for is refused before anything is read", async () => {
+  const said = await temperEsoGenerateChatterName(["enums.d.ts"], GIVEN, throwingAfter([], LOST))
+
+  expect(said.code).not.toBe(0)
+  expect(said.refusals.join("\n")).toContain("`enums.d.ts` is no argument")
+})
+
+test("the checkout said twice is refused rather than read as the first saying", async () => {
+  const said = await temperEsoGenerateChatterName(
+    ["--code-root", "/nowhere", "--code-root", "/nowhere"],
+    GIVEN,
+    throwingAfter([], LOST)
+  )
+
+  expect(said.code).not.toBe(0)
+  expect(said.refusals.join("\n")).toContain("`--code-root` is said twice")
+})

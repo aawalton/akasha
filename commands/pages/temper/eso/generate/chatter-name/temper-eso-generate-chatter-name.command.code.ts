@@ -2,6 +2,8 @@ import { realpathSync } from "node:fs"
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
 import {
   answeredWith,
   answering,
@@ -12,14 +14,13 @@ import {
   refused,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { temperEsoGenerateChatterName as page } from "akasha/commands/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { chatterNamesModule } from "akasha/temper/commands/eso-chatter-names/eso-chatter-names.module.code.ts"
-import {
-  saidFor,
-  saidShort,
-} from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
+import { saidShort } from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
 
-const CODE_ROOT_FLAG = "--code-root"
+const NAMED = [codeRootArgument]
 
 const SOURCE_REL = "temper/addons/types/eso/generated/enums.d.ts"
 
@@ -29,11 +30,13 @@ const PUT = "change-mechanical/add-file-code"
 
 const MESSAGE = "the chatter and interaction name registry, read out of the emitted declarations"
 
-export type Generating = (done: string[], argv: readonly string[], given: Given) => Promise<Answer>
+export type Generating = (
+  done: string[],
+  named: string | undefined,
+  given: Given
+) => Promise<Answer>
 
-async function generated(done: string[], argv: readonly string[], given: Given): Promise<Answer> {
-  const named = saidFor(argv, CODE_ROOT_FLAG)
-
+async function generated(done: string[], named: string | undefined, given: Given): Promise<Answer> {
   let root: string
   try {
     root = realpathSync(named ?? codeRoot())
@@ -100,5 +103,8 @@ export async function temperEsoGenerateChatterName(
   given: Given,
   generating: Generating = generated
 ): Promise<Answer> {
-  return await answering(async (done) => await generating(done, argv, given))
+  const read = takenFor(argv, given.calledAs, page, NAMED)
+  if ("refused" in read) return mistaking(read.refused)
+  const named = read.taken.codeRoot
+  return await answering(async (done) => await generating(done, named, given))
 }
