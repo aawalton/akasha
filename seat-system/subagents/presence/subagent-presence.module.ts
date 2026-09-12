@@ -304,6 +304,15 @@ export const subagentPresence = {
         "A run of hyphens between the seat's name and the subagent's own id is written as one.",
     },
     {
+      invariantKind: "constraint",
+      statement: "A slug no `export const` may be declared under writes nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Whether a slug names an export is judged by the decision the name check judges by.",
+    },
+    {
       invariantKind: "departure",
       statement: "A page composed names its type from the root rather than by a relative path.",
     },

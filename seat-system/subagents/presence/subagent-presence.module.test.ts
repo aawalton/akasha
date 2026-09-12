@@ -246,6 +246,13 @@ test("a seat stating no assignment writes nothing and says which seat and why", 
   })
 })
 
+test("a slug naming no export writes nothing", async () => {
+  await underSeat(async (root) => {
+    const went = await wrote(root, "a/b", SEAT_ID, OWN, "Explore")
+    expect(whyIn(went)).toContain("declared under, so")
+  })
+})
+
 test("a take-down that threw after it landed names what it landed", async () => {
   await underSeat(async (root) => {
     expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", [], LANDS)).toEqual(WENT)

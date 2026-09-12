@@ -2,15 +2,21 @@ import { closeSync, existsSync, mkdirSync, openSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { dropReadings, SUBAGENT_MARK } from "akasha/agents/read-record/read-record.module.code.ts"
 import { editsWaiting } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { landedMechanically } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import {
+  type Asking,
+  landedMechanically,
+} from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   createSubagentReader,
   type SubagentNode,
 } from "akasha/code/editor/extension/subagent-reading/subagent-reading.module.code.ts"
 import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
 import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import {
+  exportedAs,
+  nameFaultIn,
+  typedAs,
+} from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   everyOfType,
@@ -192,6 +198,8 @@ export async function wrote(
   const slug = slugOf(seatName, own)
   const at = pathIn(root, slug)
   if (existsSync(join(root, at))) return WENT
+  const named = nameFaultIn(slug)
+  if (named !== null) return { why: `${named}, so ${at} was not written` }
   const agentId = agentIdOf(seatId, own)
   const had = subagentPageInHistory(root, at, agentId)
   const held = had?.values ?? {}
