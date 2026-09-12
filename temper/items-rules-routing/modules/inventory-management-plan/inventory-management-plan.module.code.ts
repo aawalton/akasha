@@ -24,7 +24,7 @@ import type {
   CharacterSession,
   ManagementPlan,
 } from "akasha/temper/items-rules-routing-core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
-import { requireGet } from "akasha/utils/narrow/require-get/require-get.module.code.ts"
+import { requireGet } from "akasha/utils/narrow/modules/require-get/require-get.module.code.ts"
 
 function keyLess(a: readonly number[], b: readonly number[]): boolean {
   for (let i = 0; i < a.length; i++) {

@@ -6,7 +6,7 @@ import { TabsContent } from "akasha/design/interfaces/patterns/tabs/tabs.module.
 import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import { parseNavConfig } from "akasha/pages/core/schema/modules/nav-config/nav-config.module.code.ts"
 import { parsePageTypeData } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
-import { resolveDefinitionOptions } from "akasha/pages/core/schema/resolve-select-options/resolve-select-options.module.code.ts"
+import { resolveDefinitionOptions } from "akasha/pages/core/schema/modules/resolve-select-options/resolve-select-options.module.code.ts"
 import type { ViewDataJSON } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import type { LockedFacet } from "akasha/pages/core/schema/view-data-locked/view-data-locked.module.code.ts"
 import { EditableTitle } from "akasha/pages/ui/components/modules/editable-title/editable-title.module.code.tsx"

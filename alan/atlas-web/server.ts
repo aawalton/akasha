@@ -7,7 +7,7 @@ import {
 import {
   formatArrival,
   formatCompletion,
-} from "akasha/alan/atlas-web/request-log/request-log.module.code.ts"
+} from "akasha/alan/atlas-web/modules/request-log/request-log.module.code.ts"
 import {
   type AppCspConfig,
   buildSecurityHeaders,

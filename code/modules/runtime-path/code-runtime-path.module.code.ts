@@ -8,7 +8,7 @@ import {
   type Tokens,
   tokensOf,
 } from "akasha/code/modules/tokens/code-tokens.module.code.ts"
-import { normalizeAbsolute } from "akasha/pages/repo-path/repo-path.module.code.ts"
+import { normalizeAbsolute } from "akasha/pages/modules/repo-path/repo-path.module.code.ts"
 
 const OWN_DIR = ["import.meta.dir", "import.meta.dirname", "__dirname"] as const
 

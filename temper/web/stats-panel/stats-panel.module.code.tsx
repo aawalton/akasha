@@ -5,7 +5,7 @@ import {
   PanelToggleLocalContext,
   type PanelToggleSignal,
 } from "akasha/design/interfaces/layout/modules/panel-toggle-context/panel-toggle-context.module.code.tsx"
-import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
+import { ResponsiveColumns } from "akasha/design/interfaces/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import {
   Empty,
   EmptyDescription,

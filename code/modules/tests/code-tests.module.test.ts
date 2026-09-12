@@ -31,7 +31,7 @@ import {
   WEB_BUNFIG,
 } from "akasha/code/modules/tests/code-tests.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 
 const scratch = scratchWorld()
 

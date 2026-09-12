@@ -8,7 +8,7 @@ import { generatePassiveSkillMappings } from "akasha/temper/addon-data/modules/p
 import { generatePlayerSkillMappings } from "akasha/temper/addon-data/modules/player-skill-mappings/player-skill-mappings.module.code.ts"
 import { generatePotionMappings } from "akasha/temper/addon-data/modules/potion-mappings/potion-mappings.module.code.ts"
 import { generateRaceMappings } from "akasha/temper/addon-data/modules/race-mappings/race-mappings.module.code.ts"
-import { generatePlayerEquipmentMappings } from "akasha/temper/addon-data/render-equipment-mappings/render-equipment-mappings.module.code.ts"
+import { generatePlayerEquipmentMappings } from "akasha/temper/addon-data/modules/render-equipment-mappings/render-equipment-mappings.module.code.ts"
 import { generateScribingMappings } from "akasha/temper/addon-data/scribing-mappings/scribing-mappings.module.code.ts"
 import { generateSetMappings } from "akasha/temper/addon-data/set-mappings/set-mappings.module.code.ts"
 

@@ -4,7 +4,7 @@ import {
   type AnonymousRequestContext,
   type AuthenticatedRequestContext,
   resolveRequestContext,
-} from "akasha/alan/harness/supabase-rr/request-context/request-context.module.code.ts"
+} from "akasha/alan/harness/supabase-rr/modules/request-context/request-context.module.code.ts"
 import { z } from "zod"
 
 const optionalEnv = z.string().min(1).optional()

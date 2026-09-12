@@ -31,7 +31,7 @@ import { signatureScripts } from "akasha/temper/skill-kinds/scribing-signature-s
 import { skillSlots } from "akasha/temper/skill-kinds/skill-slots/skill-slots.module.code.ts"
 import { skillLines } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
 import { bitsNeeded } from "akasha/utils/narrow/modules/bits-needed/bits-needed.module.code.ts"
-import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
+import { requireFirst } from "akasha/utils/narrow/modules/require-first/require-first.module.code.ts"
 
 const classIds = classes.ids
 const raceIds = races.ids

@@ -17,7 +17,7 @@ import {
   serviceUnitText,
   timerUnitText,
 } from "akasha/infrastructure/services/workstations/unit-writing/unit-writing.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 const STAGING = ".local/state/workstation-services"

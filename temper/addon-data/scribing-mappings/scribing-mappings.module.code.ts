@@ -3,7 +3,7 @@ import { grimoires } from "akasha/temper/character-skills/scribing-grimoires/scr
 import { affixScripts } from "akasha/temper/skill-kinds/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
 import { focusScripts } from "akasha/temper/skill-kinds/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
 import { signatureScripts } from "akasha/temper/skill-kinds/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
-import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
+import { requireFirst } from "akasha/utils/narrow/modules/require-first/require-first.module.code.ts"
 
 interface ScribingMappingTable {
   tableName: string

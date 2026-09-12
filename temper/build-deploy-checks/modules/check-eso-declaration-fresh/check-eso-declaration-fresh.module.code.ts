@@ -12,7 +12,7 @@ import {
   type StampedArtifact,
 } from "akasha/temper/build-deploy-checks/modules/eso-doc-api-version/eso-doc-api-version.module.code.ts"
 import { renderPopulationBound } from "akasha/temper/build-deploy-checks/modules/population-bound/population-bound.module.code.ts"
-import { getRepoRoot } from "akasha/temper/build-deploy-checks/repo-root/repo-root.module.code.ts"
+import { getRepoRoot } from "akasha/temper/build-deploy-checks/modules/repo-root/repo-root.module.code.ts"
 
 function generatorsCovered(artifacts: readonly StampedArtifact[]): number {
   return new Set(artifacts.map((a) => a.generator)).size

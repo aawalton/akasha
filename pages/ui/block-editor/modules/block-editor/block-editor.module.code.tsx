@@ -4,7 +4,7 @@ import { useDebouncedCallback } from "akasha/design/interfaces/primitives/use-de
 import type {
   Block,
   RichDocument,
-} from "akasha/pages/core/property-types/rich-document/rich-document.module.code.ts"
+} from "akasha/pages/core/property-types/modules/rich-document/rich-document.module.code.ts"
 import {
   applyEditorOp,
   type EditorOp,

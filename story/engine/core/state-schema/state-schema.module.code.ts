@@ -1,5 +1,5 @@
 import { QuestSchema } from "akasha/story/engine/core/modules/quest-schema/quest-schema.module.code.ts"
-import { RevealedSheetSchema } from "akasha/story/engine/core/revealed/revealed.module.code.ts"
+import { RevealedSheetSchema } from "akasha/story/engine/core/modules/revealed/revealed.module.code.ts"
 import { z } from "zod"
 
 export const HudSchema = z

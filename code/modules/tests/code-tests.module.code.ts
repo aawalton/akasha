@@ -13,7 +13,7 @@ import {
   rootsHere,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 import type { Said } from "akasha/utils/run/running/running.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 

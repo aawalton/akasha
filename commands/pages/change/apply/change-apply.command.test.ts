@@ -21,7 +21,7 @@ import {
   scratch,
   THREE_AT,
   wrote,
-} from "akasha/testing-system/repo-seeding/repo-seeding.module.code.ts"
+} from "akasha/testing-system/modules/repo-seeding/repo-seeding.module.code.ts"
 
 afterAll(scratch.sweep)
 

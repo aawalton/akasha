@@ -1,7 +1,7 @@
 import { existsSync, mkdirSync, mkdtempSync, rmSync, symlinkSync, writeFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { dirname, isAbsolute, join, normalize } from "node:path"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 export const HOLD = "/var/tmp"

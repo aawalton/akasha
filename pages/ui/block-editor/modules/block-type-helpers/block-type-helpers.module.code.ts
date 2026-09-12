@@ -4,7 +4,7 @@ import {
   nextNumberedMarker,
   stripLeadingMarker,
 } from "akasha/pages/core/property-types/modules/block-markers/block-markers.module.code.ts"
-import type { Block } from "akasha/pages/core/property-types/rich-document/rich-document.module.code.ts"
+import type { Block } from "akasha/pages/core/property-types/modules/rich-document/rich-document.module.code.ts"
 import {
   textOf,
   type V1BlockType,

@@ -2,7 +2,7 @@ import { buildBuyExplainTrace } from "akasha/temper/items-addon/modules/inventor
 import { captureOrNull } from "akasha/temper/items-addon/modules/inventory-match-capture/inventory-match-capture.module.code.ts"
 import { getSavedVariables } from "akasha/temper/items-addon/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import type { BuyExplainRule } from "akasha/temper/items-addon/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
-import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
+import { requireAt } from "akasha/utils/narrow/modules/require-at/require-at.module.code.ts"
 
 const PREFIX = "[TemperBuyExplain]"
 

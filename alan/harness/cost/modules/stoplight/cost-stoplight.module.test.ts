@@ -11,7 +11,7 @@ import {
 } from "akasha/alan/harness/readouts/modules/group-serving/readout-group-serving.module.test-fixtures.ts"
 import { dropRelayed } from "akasha/alan/harness/readouts/modules/relay/readout-relay.module.code.ts"
 import { relayedFor } from "akasha/alan/harness/readouts/modules/relay/readout-relay.module.test-fixtures.ts"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 
 const COST = "cost-multiplier"
 

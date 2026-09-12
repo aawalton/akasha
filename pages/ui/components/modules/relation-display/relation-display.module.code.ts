@@ -1,4 +1,4 @@
-import { colorRuleVariantToBadgeVariant } from "akasha/pages/core/resolve-badge-variant/resolve-badge-variant.module.code.ts"
+import { colorRuleVariantToBadgeVariant } from "akasha/pages/core/modules/resolve-badge-variant/resolve-badge-variant.module.code.ts"
 import type {
   BadgeVariant,
   ColorRuleVariant,

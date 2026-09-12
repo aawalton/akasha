@@ -3,7 +3,7 @@ import { homedir } from "node:os"
 import { join } from "node:path"
 import { parseSessionLine } from "akasha/agents/claude-code/session/jsonl/session-jsonl.module.code.ts"
 import type { TokenUsage } from "akasha/agents/claude-code/session/jsonl-schema/session-jsonl-schema.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 
 const PER_MILLION = 1000000
 

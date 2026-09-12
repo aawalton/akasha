@@ -1,6 +1,6 @@
 import { countWords } from "akasha/story/tower/modules/render-chapter/render-chapter.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
-import { requireMatchPositional } from "akasha/utils/narrow/require-match-positional/require-match-positional.module.code.ts"
+import { requireMatchPositional } from "akasha/utils/narrow/modules/require-match-positional/require-match-positional.module.code.ts"
 import { z } from "zod"
 
 const ONE_CAPTURE = z.tuple([z.string()])

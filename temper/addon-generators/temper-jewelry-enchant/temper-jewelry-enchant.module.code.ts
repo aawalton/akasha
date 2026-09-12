@@ -3,8 +3,8 @@ import { DO_NOT_EDIT } from "akasha/temper/addon-generators/modules/do-not-edit/
 import {
   renderConstEffect,
   renderEffects,
-} from "akasha/temper/addon-generators/render-metric-effect/render-metric-effect.module.code.ts"
-import { renderQualityComponents } from "akasha/temper/addon-generators/render-quality-values/render-quality-values.module.code.ts"
+} from "akasha/temper/addon-generators/modules/render-metric-effect/render-metric-effect.module.code.ts"
+import { renderQualityComponents } from "akasha/temper/addon-generators/modules/render-quality-values/render-quality-values.module.code.ts"
 import { z } from "zod"
 
 const METRIC_EFFECT_SCHEMA = z

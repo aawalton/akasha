@@ -12,7 +12,7 @@ import {
   textsAt,
 } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 
 export const GROUP = "a-group-named-only-in-this-test"
 

@@ -13,8 +13,8 @@ import {
   createNodeFilter,
   withActivityCategories,
 } from "akasha/temper/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
-import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
-import { requireGet } from "akasha/utils/narrow/require-get/require-get.module.code.ts"
+import { requireFirst } from "akasha/utils/narrow/modules/require-first/require-first.module.code.ts"
+import { requireGet } from "akasha/utils/narrow/modules/require-get/require-get.module.code.ts"
 
 interface TraitResearchProgressPanelCardProps {
   id?: CharacterCardId

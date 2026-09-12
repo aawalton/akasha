@@ -22,7 +22,7 @@ import {
 import type { EmitHost } from "akasha/design/language/lua-compiler/transpile-emit-host/transpile-emit-host.module.code.ts"
 import type { Plugin } from "akasha/design/language/lua-compiler/transpile-plugins/transpile-plugins.module.code.ts"
 import { cast } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
-import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
+import { requireFirst } from "akasha/utils/narrow/modules/require-first/require-first.module.code.ts"
 import * as ts from "typescript"
 
 function isExportTable(node: luaCore.Node): node is luaExpressions.Identifier {

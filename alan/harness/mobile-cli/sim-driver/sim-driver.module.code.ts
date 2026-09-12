@@ -24,7 +24,7 @@ import {
   saveSessionState,
   WDA_LOCAL_PORT_ENV,
 } from "akasha/alan/harness/mobile-cli/sim-session/sim-session.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 
 export const APP_ORIGIN = "capacitor://localhost"
 

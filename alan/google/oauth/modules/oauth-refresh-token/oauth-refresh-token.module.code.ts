@@ -1,6 +1,9 @@
 import { readGoogleOauthAppCredentials } from "akasha/alan/google/oauth/modules/oauth-app-credentials/oauth-app-credentials.module.code.ts"
 import type { GoogleOauthRefreshCredentials } from "akasha/alan/google/oauth/modules/oauth-client/oauth-client.module.code.ts"
-import { optionalEnv, requireEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
+import {
+  optionalEnv,
+  requireEnv,
+} from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 
 export const SHARED_TOKEN_VAR = "GOOGLE_OAUTH_REFRESH_TOKEN"
 

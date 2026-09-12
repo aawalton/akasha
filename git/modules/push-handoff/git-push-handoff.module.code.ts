@@ -16,7 +16,7 @@ import { git } from "akasha/git/modules/capping/git-capping.module.code.ts"
 import { gitDirIn } from "akasha/git/modules/dir/git-dir.module.code.ts"
 import { remoteOf } from "akasha/git/modules/pushing/git-pushing.module.code.ts"
 import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 
 const STATE_DIR = HANDOFF
 

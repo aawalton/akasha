@@ -10,7 +10,7 @@ import { QuestSchema } from "akasha/story/engine/core/modules/quest-schema/quest
 import {
   DEFAULT_REVEAL_KEYS,
   narrowRevealed,
-} from "akasha/story/engine/core/revealed/revealed.module.code.ts"
+} from "akasha/story/engine/core/modules/revealed/revealed.module.code.ts"
 import {
   type GameState,
   HudSchema,

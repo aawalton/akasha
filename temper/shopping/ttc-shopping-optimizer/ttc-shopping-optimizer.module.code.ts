@@ -13,7 +13,7 @@ import {
   type TTCListingEntry,
   type TTCListingSearchParams,
 } from "akasha/temper/trading-pricing/ttc-listing-types/ttc-listing-types.module.code.ts"
-import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
+import { requireFirst } from "akasha/utils/narrow/modules/require-first/require-first.module.code.ts"
 
 interface ShoppingOptimizerOptions {
   ago?: (typeof TTC_AGO)[keyof typeof TTC_AGO]

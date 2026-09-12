@@ -1,7 +1,7 @@
 import {
   getRequestServerClient,
   resolveRequestSession,
-} from "akasha/alan/harness/supabase-rr/request-session-cache/request-session-cache.module.code.ts"
+} from "akasha/alan/harness/supabase-rr/modules/request-session-cache/request-session-cache.module.code.ts"
 import {
   type SentenceMark,
   sentenceMarkSchema,

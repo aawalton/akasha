@@ -17,7 +17,7 @@ import {
   saidOf,
   seatComposeNotices,
 } from "akasha/commands/pages/seat/compose-notices/seat-compose-notices.command.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 
 const ROOT = resolve(import.meta.dir, "../../..")
 

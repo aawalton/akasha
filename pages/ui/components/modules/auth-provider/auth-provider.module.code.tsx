@@ -4,7 +4,7 @@ import { refreshBrowserSession } from "akasha/alan/harness/supabase-rr/modules/b
 import { useSupabase } from "akasha/alan/harness/supabase-rr/supabase-provider/supabase-provider.module.code.tsx"
 import { useAppVersionCheck } from "akasha/pages/ui/app-version/use-app-version-check/use-app-version-check.module.code.ts"
 import { UserIdContext } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
-import { reportPagesStoreStall } from "akasha/pages/ui-store/report-stall/report-stall.module.code.ts"
+import { reportPagesStoreStall } from "akasha/pages/ui-store/modules/report-stall/report-stall.module.code.ts"
 import {
   configurePagesStoreAuth,
   getPagesStore,

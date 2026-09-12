@@ -13,7 +13,7 @@ import {
   createNodeFilter,
   withActivityCategories,
 } from "akasha/temper/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
-import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
+import { requireFirst } from "akasha/utils/narrow/modules/require-first/require-first.module.code.ts"
 
 interface CompanionQuestsPanelCardProps {
   id?: CharacterCardId

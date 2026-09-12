@@ -1,7 +1,7 @@
 import {
   HudSchema,
   RevealedSheetSchema,
-} from "akasha/story/tower/core/revealed-sheet/revealed-sheet.module.code.ts"
+} from "akasha/story/tower/core/modules/revealed-sheet/revealed-sheet.module.code.ts"
 import { z } from "zod"
 
 const BeatSchema = z

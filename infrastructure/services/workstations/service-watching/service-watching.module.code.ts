@@ -16,7 +16,7 @@ import {
   healthFor,
 } from "akasha/infrastructure/services/workstations/service-health/service-health.module.code.ts"
 import { looked } from "akasha/infrastructure/services/workstations/service-wellness/service-wellness.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 
 const LEDGER = ".local/state/workstation-services/service-outages.json"
 const FALLBACK = "alan"

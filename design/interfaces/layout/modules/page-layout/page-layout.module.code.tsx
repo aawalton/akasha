@@ -9,7 +9,7 @@ import {
   getPageWidth,
   PAGE_TITLE_CLASSES,
 } from "akasha/design/interfaces/layout/modules/page-layout-data/page-layout-data.module.code.ts"
-import { ResponsiveColumnsSkeleton } from "akasha/design/interfaces/layout/responsive-columns-skeleton/responsive-columns-skeleton.module.code.tsx"
+import { ResponsiveColumnsSkeleton } from "akasha/design/interfaces/layout/modules/responsive-columns-skeleton/responsive-columns-skeleton.module.code.tsx"
 import { useColumnCount } from "akasha/design/interfaces/layout/use-column-count/use-column-count.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { Skeleton } from "akasha/design/interfaces/primitives/skeleton/skeleton.module.code.tsx"

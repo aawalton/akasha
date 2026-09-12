@@ -1,4 +1,8 @@
 import {
+  type ChapterLength,
+  resolveResumeChapter,
+} from "akasha/alan/library/reading/modules/resume-chapter/resume-chapter.module.code.ts"
+import {
   LITRPG_RATINGS,
   type LitrpgCatalog,
   type LitrpgChapter,
@@ -7,10 +11,6 @@ import {
   type Pool,
   type SelectOptions,
 } from "akasha/alan/library/reading/modules/shapes/reading-shapes.module.code.ts"
-import {
-  type ChapterLength,
-  resolveResumeChapter,
-} from "akasha/alan/library/reading/resume-chapter/resume-chapter.module.code.ts"
 
 const LIKED_RATINGS: ReadonlySet<LitrpgRating> = new Set<LitrpgRating>([
   "B-",

@@ -1,7 +1,7 @@
 "use client"
 
 import { PageTabHeader } from "akasha/design/interfaces/layout/modules/page-tab-header/page-tab-header.module.code.tsx"
-import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
+import { ResponsiveColumns } from "akasha/design/interfaces/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import { TabsContent } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
 import { BrandHeartPanel } from "akasha/design/interfaces/system/modules/brand-heart/brand-heart.module.code.tsx"
 import { PersonalityTonePanel } from "akasha/design/interfaces/system/modules/personality-tone/personality-tone.module.code.tsx"

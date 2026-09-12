@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { latestFrontierMs } from "akasha/story/ui/revealed-frontier/revealed-frontier.module.code.ts"
+import { latestFrontierMs } from "akasha/story/ui/modules/revealed-frontier/revealed-frontier.module.code.ts"
 
 describe("latestFrontierMs", () => {
   test("is null when there are no rows", () => {

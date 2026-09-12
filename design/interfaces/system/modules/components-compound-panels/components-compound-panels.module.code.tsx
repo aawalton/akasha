@@ -34,7 +34,7 @@ import {
   ResizableHandle,
   ResizablePanel,
   ResizablePanelGroup,
-} from "akasha/design/interfaces/primitives/resizable/resizable.module.code.tsx"
+} from "akasha/design/interfaces/primitives/modules/resizable/resizable.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import {
   Calculator,

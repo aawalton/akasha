@@ -5,7 +5,7 @@ import {
   ADMITS_AT,
   REPO_AT,
   repoWith,
-} from "akasha/testing-system/repo-seeding/repo-seeding.module.code.ts"
+} from "akasha/testing-system/modules/repo-seeding/repo-seeding.module.code.ts"
 
 const MODULES = "node_modules"
 

@@ -10,7 +10,7 @@ import type {
   ZoneCompletionTypeProgress,
   ZoneCompletionZoneProgress,
 } from "akasha/temper/player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
-import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
+import { requireFirst } from "akasha/utils/narrow/modules/require-first/require-first.module.code.ts"
 
 export interface AccountZoneCompletionUnionProgress {
   zones: readonly ZoneCompletionZoneProgress[]

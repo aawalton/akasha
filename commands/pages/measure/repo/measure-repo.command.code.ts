@@ -6,7 +6,7 @@ import { measureRepo as page } from "akasha/commands/pages/measure/repo/measure-
 import {
   fileTypeCountsIn,
   fileTypeLinesOf,
-} from "akasha/commands/pages/measure/repo/repo-measuring/repo-measuring.module.code.ts"
+} from "akasha/commands/pages/measure/repo/modules/repo-measuring/repo-measuring.module.code.ts"
 
 export function measureRepo(argv: readonly string[], given: Given): Answer {
   const read = takenFor(argv, given.calledAs, page, [])

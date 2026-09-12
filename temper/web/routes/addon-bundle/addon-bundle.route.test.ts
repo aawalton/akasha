@@ -1,7 +1,7 @@
 import { beforeEach, expect, test } from "bun:test"
 import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { loaderArgs } from "akasha/temper/web/resource-loader-args-test-utils/resource-loader-args-test-utils.module.code.ts"
+import { loaderArgs } from "akasha/temper/web/modules/resource-loader-args-test-utils/resource-loader-args-test-utils.module.code.ts"
 
 const SCRATCH_AT = "/var/tmp"
 

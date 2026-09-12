@@ -4,7 +4,7 @@ import {
   createDataFile,
   type DataFile,
 } from "akasha/utils/narrow/modules/create-data-file/create-data-file.module.code.ts"
-import { requireGet } from "akasha/utils/narrow/require-get/require-get.module.code.ts"
+import { requireGet } from "akasha/utils/narrow/modules/require-get/require-get.module.code.ts"
 
 const TEMPER_SET_CATEGORIES_BY_ID = {
   "none": { id: "none" as const, name: "No Set Category", displayOrder: 0 },

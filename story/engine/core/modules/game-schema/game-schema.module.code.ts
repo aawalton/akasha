@@ -1,5 +1,5 @@
 import type { FrameConfig } from "akasha/pages/core/schema/modules/detail-config/detail-config.module.code.ts"
-import { RevealKeySchema } from "akasha/story/engine/core/revealed/revealed.module.code.ts"
+import { RevealKeySchema } from "akasha/story/engine/core/modules/revealed/revealed.module.code.ts"
 import { z } from "zod"
 
 const MECHANICS_WEIGHTS = ["zero", "light", "medium", "heavy"] as const

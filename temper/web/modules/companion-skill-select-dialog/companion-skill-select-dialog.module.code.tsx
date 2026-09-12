@@ -21,7 +21,7 @@ import {
   type FilterableSelectDialogConfig,
   type FilterableSelectDialogItem,
 } from "akasha/temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
-import { requireGet } from "akasha/utils/narrow/require-get/require-get.module.code.ts"
+import { requireGet } from "akasha/utils/narrow/modules/require-get/require-get.module.code.ts"
 import { useMemo } from "react"
 
 interface CompanionSkillItem extends FilterableSelectDialogItem {

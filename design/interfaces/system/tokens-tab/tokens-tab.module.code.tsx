@@ -1,7 +1,7 @@
 "use client"
 
 import { PageTabHeader } from "akasha/design/interfaces/layout/modules/page-tab-header/page-tab-header.module.code.tsx"
-import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
+import { ResponsiveColumns } from "akasha/design/interfaces/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import { TabsContent } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
 import { BordersPanel } from "akasha/design/interfaces/system/modules/borders/borders.module.code.tsx"
 import { GemstoneColorsPanel } from "akasha/design/interfaces/system/modules/gemstone-colors/gemstone-colors.module.code.tsx"

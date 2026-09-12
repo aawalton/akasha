@@ -11,7 +11,7 @@ import {
   isMediaPageId,
   resolveMediaPage,
 } from "akasha/alan/web/modules/media-page/media-page.module.code.ts"
-import { rewriteHlsPlaylist } from "akasha/alan/web/rewrite-hls-playlist/rewrite-hls-playlist.module.code.ts"
+import { rewriteHlsPlaylist } from "akasha/alan/web/modules/rewrite-hls-playlist/rewrite-hls-playlist.module.code.ts"
 import { hlsPlaylistObjectKey } from "akasha/infrastructure/storage/object-store/modules/key/object-store-key.module.code.ts"
 import {
   type ObjectStore,

@@ -23,7 +23,7 @@ import { useOptimisticPatchPage } from "akasha/pages/ui/supabase/mutations/use-o
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import type { BuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { formatTimeAgo } from "akasha/temper/web/modules/format-time-ago/format-time-ago.module.code.ts"
-import { RestoreConfirmDialog } from "akasha/temper/web/restore-confirm-dialog/restore-confirm-dialog.module.code.tsx"
+import { RestoreConfirmDialog } from "akasha/temper/web/modules/restore-confirm-dialog/restore-confirm-dialog.module.code.tsx"
 import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
 import { useCallback, useEffect, useState } from "react"
 import { toast } from "sonner"

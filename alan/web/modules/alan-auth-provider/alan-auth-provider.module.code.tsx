@@ -12,7 +12,7 @@ import { PushRegistrationSync } from "akasha/alan/web/modules/push-registration-
 import { useAppVersionCheck } from "akasha/pages/ui/app-version/use-app-version-check/use-app-version-check.module.code.ts"
 import { UserIdContext } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import { emitStoreDiagnostic } from "akasha/pages/ui-store/modules/diagnostics/diagnostics.module.code.ts"
-import { reportPagesStoreStall } from "akasha/pages/ui-store/report-stall/report-stall.module.code.ts"
+import { reportPagesStoreStall } from "akasha/pages/ui-store/modules/report-stall/report-stall.module.code.ts"
 import {
   configurePagesStoreAuth,
   getPagesStore,

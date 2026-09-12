@@ -25,7 +25,7 @@ import {
   treeHolds,
   wrote,
   wroteWith,
-} from "akasha/testing-system/repo-seeding/repo-seeding.module.code.ts"
+} from "akasha/testing-system/modules/repo-seeding/repo-seeding.module.code.ts"
 
 afterAll(scratch.sweep)
 

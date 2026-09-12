@@ -2,7 +2,7 @@
 
 import { toggleTodoMarker } from "akasha/pages/core/property-types/modules/block-markers/block-markers.module.code.ts"
 import type { ShorthandTransform } from "akasha/pages/core/property-types/modules/markdown-shorthand/markdown-shorthand.module.code.ts"
-import type { RichDocument } from "akasha/pages/core/property-types/rich-document/rich-document.module.code.ts"
+import type { RichDocument } from "akasha/pages/core/property-types/modules/rich-document/rich-document.module.code.ts"
 import {
   createBlock,
   type EditorOp,

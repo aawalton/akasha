@@ -24,7 +24,7 @@ import {
   getQualityFromIndex,
   getWeaponTraitFromIndex,
 } from "akasha/temper/companions-addon/modules/companions-reverse-mappings/companions-reverse-mappings.module.code.ts"
-import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
+import { requireAt } from "akasha/utils/narrow/modules/require-at/require-at.module.code.ts"
 
 export interface SlotUpgrade {
   bagSlot: number

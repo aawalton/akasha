@@ -4,7 +4,7 @@ import { dirname, join, relative, resolve } from "node:path"
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { ownRepoRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { canonicalize } from "akasha/pages/repo-path/repo-path.module.code.ts"
+import { canonicalize } from "akasha/pages/modules/repo-path/repo-path.module.code.ts"
 
 const MODULE = "module"
 

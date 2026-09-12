@@ -10,7 +10,7 @@ import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.cod
 import {
   restoringOpenChange,
   scheduleRestoreStuckBodyPointerEvents,
-} from "akasha/design/interfaces/primitives/restore-body-pointer-events/restore-body-pointer-events.module.code.ts"
+} from "akasha/design/interfaces/primitives/modules/restore-body-pointer-events/restore-body-pointer-events.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { SurfaceProvider } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import * as React from "react"

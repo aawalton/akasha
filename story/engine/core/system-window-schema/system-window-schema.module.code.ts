@@ -1,4 +1,4 @@
-import type { RevealedSheet } from "akasha/story/engine/core/revealed/revealed.module.code.ts"
+import type { RevealedSheet } from "akasha/story/engine/core/modules/revealed/revealed.module.code.ts"
 import { z } from "zod"
 
 const QuestWindowSchema = z

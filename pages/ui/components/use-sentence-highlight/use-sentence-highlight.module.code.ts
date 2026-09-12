@@ -3,7 +3,7 @@
 import type { SentenceMark } from "akasha/alan/harness/voice-core/modules/mark-schema/mark-schema.module.code.ts"
 import type { SentenceLayout } from "akasha/pages/ui/components/modules/reader-sentence-layout/reader-sentence-layout.module.code.ts"
 import { useOptionalPlayingSession } from "akasha/pages/ui/media/modules/playing-session-context/playing-session-context.module.code.tsx"
-import { resolveActiveSentence } from "akasha/pages/ui/media/resolve-active-sentence/resolve-active-sentence.module.code.ts"
+import { resolveActiveSentence } from "akasha/pages/ui/media/modules/resolve-active-sentence/resolve-active-sentence.module.code.ts"
 import { type RefObject, useEffect } from "react"
 
 export function useSentenceHighlight(args: {

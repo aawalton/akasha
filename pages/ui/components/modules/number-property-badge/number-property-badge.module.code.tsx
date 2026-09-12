@@ -3,11 +3,11 @@
 import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
 import { NumberBadge } from "akasha/design/interfaces/badges/modules/number-badge/number-badge.module.code.tsx"
 import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
+import { resolveBadgeVariant } from "akasha/pages/core/modules/resolve-badge-variant/resolve-badge-variant.module.code.ts"
 import {
   formatPropertyNumber,
   toNumber,
 } from "akasha/pages/core/property-types/modules/number/number.module.code.ts"
-import { resolveBadgeVariant } from "akasha/pages/core/resolve-badge-variant/resolve-badge-variant.module.code.ts"
 import type { BadgeVariant } from "akasha/pages/core/schema/modules/color-rule-variant/color-rule-variant.module.code.ts"
 import { parseConfig } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import {

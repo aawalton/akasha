@@ -10,7 +10,7 @@ import {
 } from "akasha/alan/harness/health-samples-access/sample-upsert/sample-upsert.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
+import { requireAt } from "akasha/utils/narrow/modules/require-at/require-at.module.code.ts"
 import { z } from "zod"
 
 const ROOT = process.cwd()

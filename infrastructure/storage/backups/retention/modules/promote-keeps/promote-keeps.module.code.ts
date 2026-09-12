@@ -11,7 +11,7 @@ import type {
   KeepDisagreement,
   KeepState,
 } from "akasha/infrastructure/storage/backups/retention/modules/keep-decision/keep-decision.module.code.ts"
-import { envSchema } from "akasha/infrastructure/storage/backups/retention/retention-env/retention-env.module.code.ts"
+import { envSchema } from "akasha/infrastructure/storage/backups/retention/modules/retention-env/retention-env.module.code.ts"
 
 const WEEKLY_KEEP_COUNT = 4
 const MONTHLY_KEEP_COUNT = 12

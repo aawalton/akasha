@@ -1,6 +1,6 @@
 "use client"
 
-import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
+import { ResponsiveColumns } from "akasha/design/interfaces/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import { getEquippedMythicSetId } from "akasha/temper/characters-equipment/modules/mythic-set-rules/mythic-set-rules.module.code.ts"
 import { ArmorPanelCard } from "akasha/temper/web/modules/armor-panel-card/armor-panel-card.module.code.tsx"
 import type { EquipmentPanelProps } from "akasha/temper/web/modules/equipment-types/equipment-types.module.code.ts"

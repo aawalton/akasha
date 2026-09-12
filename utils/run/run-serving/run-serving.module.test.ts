@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 import { relayed } from "akasha/utils/run/run-relaying/run-relaying.module.code.ts"
 import { NO_CODE } from "akasha/utils/run/running/running.module.code.ts"
 

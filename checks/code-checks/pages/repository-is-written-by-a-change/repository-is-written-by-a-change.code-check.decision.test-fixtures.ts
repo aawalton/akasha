@@ -52,7 +52,7 @@ export const WRITES_VENDORED = writesInto("node_modules/a.ts")
 export const ROOT_MODULE_WRITE =
   'import { writeFileSync } from "node:fs"\n' +
   'import { join } from "node:path"\n' +
-  'import { getRepoRoot } from "akasha/temper/build-deploy-checks/repo-root/repo-root.module.code.ts"\n' +
+  'import { getRepoRoot } from "akasha/temper/build-deploy-checks/modules/repo-root/repo-root.module.code.ts"\n' +
   "export function one(): void {\n" +
   '  writeFileSync(join(getRepoRoot(), "a.ts"), "")\n' +
   "}\n"
@@ -82,7 +82,7 @@ const MODULE_VALUES: readonly Filed[] = [
     },
   },
   {
-    path: "temper/build-deploy-checks/repo-root/repo-root.module.ts",
+    path: "temper/build-deploy-checks/modules/repo-root/repo-root.module.ts",
     value: {
       id: "01a08299-65c2-7006-8000-000000000006",
       pageTypeSlug: "module",

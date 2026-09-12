@@ -3,7 +3,7 @@ import { dirname, resolve } from "node:path"
 import { dirOfModule } from "akasha/code/modules/module-directory/module-directory.module.code.ts"
 import type { Repo } from "akasha/pages/modules/markdown-document/markdown-document.module.code.ts"
 import type { Roots } from "akasha/pages/modules/markdown-page-at/markdown-page-at.module.code.ts"
-import { canonicalize } from "akasha/pages/repo-path/repo-path.module.code.ts"
+import { canonicalize } from "akasha/pages/modules/repo-path/repo-path.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
 
 export const AKASHA = "akasha"
