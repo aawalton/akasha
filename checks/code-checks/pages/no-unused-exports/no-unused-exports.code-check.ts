@@ -83,6 +83,16 @@ export const noUnusedExports = {
       invariantKind: "upkeep",
       statement: "No value this check would refuse is taken away before Alan has settled that.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A value its own file names elsewhere is refused for the `export` rather than the value.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A value no file names at all, the file exporting it included, is refused for the value.",
+    },
   ],
   check: { maxCpuSeconds: 30 },
   audit: { maxCpuSeconds: 120 },

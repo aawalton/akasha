@@ -17,6 +17,10 @@ export const READER = "akasha/reader.module.code.ts"
 
 export const HELD_TEXT = "export const held = 1\nexport const spare = 2\n"
 
+export const KEPT_TEXT =
+  "export function held(): number {\n  return 1\n}\n\n" +
+  "export function spare(): number {\n  return held()\n}\n"
+
 export const PAGE_AT = pathFor("domain", "held")
 
 export const PAGE_TEXT =

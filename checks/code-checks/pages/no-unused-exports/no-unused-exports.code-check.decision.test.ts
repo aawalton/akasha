@@ -1,5 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import {
+  namedWithin,
   namesToldIn,
   refusalsOver,
   takenFrom,
@@ -9,6 +10,7 @@ import {
   EVERY_TEXT,
   HELD_TEXT,
   importedBy,
+  KEPT_TEXT,
   PAGE_AT,
   PAGE_TEXT,
   READER,
@@ -30,6 +32,22 @@ test("the values a file exports are told apart by name", () => {
 
 test("a file exporting every name of another file is judged by nothing", () => {
   expect(namesToldIn(AT, 'export * from "akasha/one.module.code.ts"\n')).toBeNull()
+})
+
+test("the names a file itself uses are told from the names that file only exports", () => {
+  const here = namedWithin(AT, KEPT_TEXT)
+
+  expect(here.has("held")).toBe(true)
+  expect(here.has("spare")).toBe(false)
+})
+
+test("a value its own file names is refused for the export and one nothing names for the value", () => {
+  const said = judging(landing(rooted(), { [AT]: bytesOf(KEPT_TEXT) })).map((one) => one.reason)
+
+  expect(said).toEqual([
+    "exports `held`, which no other file names — a value only its own file names is published for nothing",
+    "exports `spare`, which nothing names — a value nothing names is code nothing runs",
+  ])
 })
 
 test("the names an importer takes from one file are read off its import", () => {

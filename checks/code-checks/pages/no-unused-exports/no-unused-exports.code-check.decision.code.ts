@@ -13,7 +13,9 @@ import { pageNamed, partedIn } from "akasha/pages/file-name/page-file-name.modul
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import ts from "typescript"
 
-const REACHED = "a value no other file names is code nothing runs"
+const PUBLISHED = "a value only its own file names is published for nothing"
+
+const REACHED = "a value nothing names is code nothing runs"
 
 const ANYTHING = "*"
 
@@ -44,8 +46,28 @@ export function takenFrom(path: string, text: string, target: string): readonly 
   return found
 }
 
-export function reasonFor(name: string): string {
-  return `exports \`${name}\`, which no other file names — ${REACHED}`
+function namesIt(node: ts.Identifier): boolean {
+  const up = node.parent
+  if (ts.isImportSpecifier(up) || ts.isExportSpecifier(up)) return false
+  if (ts.isQualifiedName(up)) return up.right !== node
+  if (ts.isShorthandPropertyAssignment(up)) return true
+  return !("name" in up) || up.name !== node
+}
+
+export function namedWithin(path: string, text: string): ReadonlySet<string> {
+  const found = new Set<string>()
+  const walk = (node: ts.Node): undefined => {
+    if (ts.isIdentifier(node) && namesIt(node)) found.add(node.text)
+    ts.forEachChild(node, walk)
+    return undefined
+  }
+  walk(parsedAs(path, text))
+  return found
+}
+
+export function reasonFor(name: string, named: boolean): string {
+  if (named) return `exports \`${name}\`, which no other file names — ${PUBLISHED}`
+  return `exports \`${name}\`, which nothing names — ${REACHED}`
 }
 
 export function sparedIn(path: string, pageTypes: ReadonlySet<string>): string | null {
@@ -75,7 +97,8 @@ export function reasonsFor(
       taken.add(name)
     }
   }
-  return wanted.filter((one) => !taken.has(one)).map(reasonFor)
+  const here = namedWithin(path, text)
+  return wanted.filter((one) => !taken.has(one)).map((one) => reasonFor(one, here.has(one)))
 }
 
 export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
