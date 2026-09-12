@@ -14,7 +14,9 @@ export const COMMANDS = "commands"
 
 export const PAGES_AT = "commands/pages"
 
-const MODULES_AT = "commands/modules"
+const MODULES = "modules"
+
+const MODULES_AT = `${COMMANDS}/${MODULES}`
 
 const PAGE_TYPE = "page-type"
 
@@ -105,7 +107,7 @@ function moduleNamingReason(at: string): string {
 function moduleFolderReason(at: string, wanted: string): string {
   return (
     `the module sits in \`${at}\`, and the page naming it is in \`${wanted}\` — a module ` +
-    "under a command sits in a folder directly inside that command's own folder"
+    `under a command sits in a folder inside \`${wanted}/${MODULES}\``
   )
 }
 
@@ -114,6 +116,11 @@ function placeReason(at: string, wanted: string): string {
     `the module sits in \`${at}\`, and the pages reaching it sit under \`${wanted}\` — a module ` +
     "under `commands/pages` sits under the lowest level whose pages reach it"
   )
+}
+
+function insideOf(at: string, folder: string): boolean {
+  const above = dirname(at)
+  return above === folder || above === `${folder}/${MODULES}`
 }
 
 function apartReason(at: string): string {
@@ -155,7 +162,7 @@ export function placeReasonIn(path: string, placed: Placed): string | null {
   }
   const wanted = levelOver(metIn(under), placed.levels)
   if (wanted === null) return apartReason(at)
-  return dirname(at) === wanted ? null : placeReason(at, wanted)
+  return insideOf(at, wanted) ? null : placeReason(at, wanted)
 }
 
 function carriedIn(at: string): string | null {
@@ -187,7 +194,7 @@ export function moduleReasonIn(path: string, naming: Naming): string | null {
   if (!path.startsWith(`${PAGES_AT}/`)) return null
   if (!naming.beside) return moduleNamingReason(folder)
   const at = dirname(path)
-  if (dirname(at) !== folder) return moduleFolderReason(at, folder)
+  if (!insideOf(at, folder)) return moduleFolderReason(at, folder)
   return null
 }
 
