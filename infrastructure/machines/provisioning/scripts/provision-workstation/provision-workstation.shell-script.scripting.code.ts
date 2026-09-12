@@ -1,4 +1,10 @@
 import { dirname, relative } from "node:path"
+import {
+  ADDON_INSTALL,
+  DEPLOY,
+  SECRET_SHOW,
+  SERVICE_SWEEP,
+} from "akasha/infrastructure/infrastructure-calls/infrastructure-calls.module.code.ts"
 import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
 import { fileOf } from "akasha/pages/indexes/property-file/property-file.module.code.ts"
 import { valuedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
@@ -166,10 +172,10 @@ export function bodyIn(given: string | Reading): string {
     '  echo "WARN: podman not found — gen-types (migration run) will fail without a container runtime." >&2',
     "fi",
     "",
-    'echo "==> Installing the vendored upstream TamrielTradeCentre addon (ESOUI, via community-addon install command)..."',
+    `echo "==> Installing the vendored upstream TamrielTradeCentre addon (ESOUI, via akasha ${ADDON_INSTALL})..."`,
     'if [ "$(uname)" != "Darwin" ]; then',
-    '  if ! (cd "$AKASHA" && bun "$DISPATCHER" temper community addon-install TamrielTradeCentre); then',
-    '    echo "WARN: TamrielTradeCentre install via community-addon command failed — continuing." >&2',
+    `  if ! (cd "$AKASHA" && bun "$DISPATCHER" ${ADDON_INSTALL} TamrielTradeCentre); then`,
+    `    echo "WARN: TamrielTradeCentre install via akasha ${ADDON_INSTALL} failed — continuing." >&2`,
     "  fi",
     "fi",
     "",
@@ -179,14 +185,14 @@ export function bodyIn(given: string | Reading): string {
     "  services_failed=0",
     "  while IFS= read -r page; do",
     '    slug="$(basename "$page" .service-workstation.ts)"',
-    '    if ! (cd "$AKASHA" && bun "$DISPATCHER" deploy "$slug"); then',
-    "      echo \"WARN: 'akasha deploy $slug' failed — that service is uninstalled\" >&2",
+    `    if ! (cd "$AKASHA" && bun "$DISPATCHER" ${DEPLOY} "$slug"); then`,
+    `      echo "WARN: 'akasha ${DEPLOY} $slug' failed — that service is uninstalled" >&2`,
     '      echo "      on this box." >&2',
     "      services_failed=1",
     "    fi",
     "  done < <(cd \"$AKASHA\" && git ls-files -- '*.service-workstation.ts')",
-    '  if ! (cd "$AKASHA" && bun "$DISPATCHER" infrastructure service sweep); then',
-    "    echo \"WARN: 'akasha infrastructure service sweep' failed — a unit akasha owns that no page\" >&2",
+    `  if ! (cd "$AKASHA" && bun "$DISPATCHER" ${SERVICE_SWEEP}); then`,
+    `    echo "WARN: 'akasha ${SERVICE_SWEEP}' failed — a unit akasha owns that no page" >&2`,
     '    echo "      accounts for may still sit on this box." >&2',
     "    services_failed=1",
     "  fi",
@@ -247,7 +253,7 @@ export function bodyIn(given: string | Reading): string {
     'echo "    (setup-symlinks.sh) are in place — those are not provisioned by this script."',
     'echo "  - Restore the workstation SMS outbound creds into ~/.secrets.env from the telnyx"',
     'echo "    account page, which is their tracked source:"',
-    `echo "      akasha page secret show --file-path ${accountIn(given)} --key api-key"`,
+    `echo "      akasha ${SECRET_SHOW} --file-path ${accountIn(given)} --key api-key"`,
     'echo "    and the from-number is stated on that page. Add each as"',
     "echo \"    'export KEY=value' (edit specific lines; never overwrite the file).\"",
   ]
