@@ -4,6 +4,8 @@ import { asked } from "akasha/checks/modules/audit-asking/audit-asking.module.co
 import { commitOf } from "akasha/checks/modules/audit-serving/audit-serving.module.code.ts"
 import type { Gathered } from "akasha/checks/modules/checking/checking.module.code.ts"
 import { checksAt, checksIn } from "akasha/checks/modules/checking/checking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { check } from "akasha/commands/arguments/pages/check.argument.ts"
 import { refusedBy } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
   askedAnswer,
@@ -11,42 +13,26 @@ import {
   type Keeping,
 } from "akasha/commands/modules/audit-answering/audit-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { audit as page } from "akasha/commands/pages/audit/audit.command.ts"
 import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { requireEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
 
-const CHECK = "--check"
-
 const AUDIT = "audit"
-
-export type Meant = {
-  readonly only: readonly string[]
-  readonly refusal: string | null
-}
 
 export type Narrowed = {
   readonly checks: readonly string[]
   readonly refusals: readonly string[]
 }
 
-export function meaning(argv: readonly string[]): Meant {
-  const refused = (said: string): Meant => ({ only: [], refusal: said })
-  const only: string[] = []
-  for (let at = 0; at < argv.length; at += 1) {
-    const one = argv[at] ?? ""
-    if (one !== CHECK) {
-      return refused(
-        `\`${one}\` is not an argument this takes — \`${CHECK} <slug>\` names a check ` +
-          `the round runs beyond the ones the audit phase names`
-      )
-    }
-    const value = argv[at + 1]
-    if (value === undefined) return refused(`${one} names a check, and nothing followed it`)
-    if (only.includes(value)) return refused(`\`${value}\` is named more than once`)
-    only.push(value)
-    at += 1
+export function wrongIn(named: readonly string[]): readonly string[] {
+  const seen = new Set<string>()
+  const wrong: string[] = []
+  for (const one of named) {
+    if (seen.has(one)) wrong.push(`\`${one}\` is named more than once`)
+    seen.add(one)
   }
-  return { only, refusal: null }
+  return wrong
 }
 
 export function narrowedTo(
@@ -112,15 +98,18 @@ export async function askedOver(
 }
 
 export async function audit(argv: readonly string[], given: Given): Promise<Answer> {
-  const meant = meaning(argv)
-  if (meant.refusal !== null) return refusedBy([meant.refusal])
+  const read = takenFor(argv, given.calledAs, page, [check])
+  if ("refused" in read) return refusedBy([...read.refused])
+  const named = read.taken.check
+  const wrong = wrongIn(named)
+  if (wrong.length > 0) return refusedBy(wrong)
   const root = resolve(given.root)
-  const page = given.agentId === null ? null : agentPathOf(root, given.agentId)
+  const agentPage = given.agentId === null ? null : agentPathOf(root, given.agentId)
   const keeping: Keeping | null =
-    page === null ? null : (whole) => auditRefusalsPut(root, page, whole)
+    agentPage === null ? null : (whole) => auditRefusalsPut(root, agentPage, whole)
   const done: string[] = []
   try {
-    return await askedOver(root, checksIn(root), meant.only, keeping, done)
+    return await askedOver(root, checksIn(root), named, keeping, done)
   } catch (thrown) {
     return brokenBy(thrown, done)
   }

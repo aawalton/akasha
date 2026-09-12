@@ -5,10 +5,10 @@ import type { Given } from "akasha/commands/modules/calling/calling.module.code.
 import {
   audit,
   leftOutOf,
-  meaning,
   narrowedTo,
   notAnAuditIn,
   notYetJudgingIn,
+  wrongIn,
 } from "akasha/commands/pages/audit/audit.command.code.ts"
 
 function gathered(slugs: readonly string[], runsOn: readonly Phase[]): readonly Gathered[] {
@@ -98,27 +98,25 @@ test("a run of a check that runs at no audit leaves every audit check out", () =
   expect(leftOutOf(atAudit, ["three"])).toBe(2)
 })
 
-test("a flag naming no check is refused", () => {
-  expect(meaning(["--check"]).refusal).toContain("nothing followed it")
+test("a flag naming no check is refused", async () => {
+  const said = await audit(["--check"], given())
+
+  expect(said.refusals[0]).toBe("`--check` takes a value, and none follows it")
 })
 
 test("a check named twice is refused rather than run twice", () => {
-  expect(meaning(["--check", "one", "--check", "one"]).refusal).toContain("named more than once")
+  expect(wrongIn(["one", "one"])).toEqual(["`one` is named more than once"])
 })
 
-test("several checks are named in one call", () => {
-  expect(meaning(["--check", "one", "--check", "two"]).only).toEqual(["one", "two"])
-})
-
-test("a path is no argument this takes", () => {
-  expect(meaning(["--file-path", "a.ts"]).refusal).toContain("is not an argument this takes")
+test("several checks are named in one call, and none of them is refused", () => {
+  expect(wrongIn(["one", "two"])).toEqual([])
 })
 
 test("an argument that is no flag is refused by name, and the one flag is said", async () => {
   const said = await audit(["--everything"], given())
   expect(said.code).toBe(1)
   expect(said.report).toEqual([])
-  expect(said.refusals[0]).toContain("`--everything` is not an argument this takes")
+  expect(said.refusals[0]).toContain("`--everything` is no argument `akasha audit` takes")
   expect(said.refusals[0]).toContain("--check")
 })
 
