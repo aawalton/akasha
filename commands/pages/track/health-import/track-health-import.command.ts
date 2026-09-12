@@ -77,7 +77,7 @@ export const trackHealthImport = {
   name: "health-import",
   arguments: [
     { argument: "argument/dry-run" },
-    { argument: "argument/file-path" },
+    { argument: "argument/health-export-path" },
     { argument: "argument/batch" },
     { argument: "argument/restart" },
     { argument: "argument/first-day" },
