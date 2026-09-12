@@ -1,6 +1,6 @@
-import { isShiftActive } from "akasha/temper/combat-addon/combat-action-bar/combat-action-bar.module.code.ts"
-import { getBarSettings } from "akasha/temper/combat-addon/combat-action-bar-settings/combat-action-bar-settings.module.code.ts"
 import { onEngineUpdate } from "akasha/temper/combat-addon/combat-action-engine-context/combat-action-engine-context.module.code.ts"
+import { isShiftActive } from "akasha/temper/combat-addon/modules/combat-action-bar/combat-action-bar.module.code.ts"
+import { getBarSettings } from "akasha/temper/combat-addon/modules/combat-action-bar-settings/combat-action-bar-settings.module.code.ts"
 
 const HUD_GAP = 5
 

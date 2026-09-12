@@ -1,4 +1,3 @@
-import { getNewest } from "akasha/temper/combat-addon/combat-action-build/combat-action-build.module.code.ts"
 import {
   matchesNewEffect,
   matchesOldEffect,
@@ -14,6 +13,7 @@ import type {
   Action,
   Effect,
 } from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
+import { getNewest } from "akasha/temper/combat-addon/modules/combat-action-build/combat-action-build.module.code.ts"
 
 const LAST_EFFECT_ACTION_WINDOW_MS = 50
 

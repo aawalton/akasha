@@ -1,4 +1,3 @@
-import { getNewest } from "akasha/temper/combat-addon/combat-action-build/combat-action-build.module.code.ts"
 import {
   enqueueAction,
   nextSn,
@@ -15,6 +14,7 @@ import {
   saveAction,
 } from "akasha/temper/combat-addon/combat-action-store/combat-action-store.module.code.ts"
 import type { Action } from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
+import { getNewest } from "akasha/temper/combat-addon/modules/combat-action-build/combat-action-build.module.code.ts"
 
 const INHERIT_EFFECT_TAIL_MS = 500
 

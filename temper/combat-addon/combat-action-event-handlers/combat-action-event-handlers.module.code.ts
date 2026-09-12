@@ -1,10 +1,10 @@
-import { getGallopEffect } from "akasha/temper/combat-addon/combat-action-build/combat-action-build.module.code.ts"
 import {
   removeAction,
   STATE,
 } from "akasha/temper/combat-addon/combat-action-queue/combat-action-queue.module.code.ts"
 import { getActiveHotbarCategory } from "akasha/temper/combat-addon/combat-action-slots/combat-action-slots.module.code.ts"
 import { saveAction } from "akasha/temper/combat-addon/combat-action-store/combat-action-store.module.code.ts"
+import { getGallopEffect } from "akasha/temper/combat-addon/modules/combat-action-build/combat-action-build.module.code.ts"
 
 export function onActionUpdateCooldowns(now: number): undefined {
   const [remain, duration] = GetSlotCooldownInfo(

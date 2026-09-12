@@ -1,9 +1,3 @@
-import type { Cooldown } from "akasha/temper/combat-addon/combat-action-cooldown/combat-action-cooldown.module.code.ts"
-import {
-  cooldownHide,
-  cooldownStart,
-  newCooldown,
-} from "akasha/temper/combat-addon/combat-action-cooldown/combat-action-cooldown.module.code.ts"
 import {
   bracketLowPriority,
   formatRemainLabel,
@@ -23,6 +17,12 @@ import { getActiveHotbarCategory } from "akasha/temper/combat-addon/combat-actio
 import { resolveStackLabels } from "akasha/temper/combat-addon/combat-action-stack-labels/combat-action-stack-labels.module.code.ts"
 import type { Action } from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
 import type { BarSettings } from "akasha/temper/combat-addon/combat-actions-saved-variables/combat-actions-saved-variables.module.code.ts"
+import type { Cooldown } from "akasha/temper/combat-addon/modules/combat-action-cooldown/combat-action-cooldown.module.code.ts"
+import {
+  cooldownHide,
+  cooldownStart,
+  newCooldown,
+} from "akasha/temper/combat-addon/modules/combat-action-cooldown/combat-action-cooldown.module.code.ts"
 
 const QUICKSLOT_SLOT_NUM = 9
 

@@ -1,4 +1,3 @@
-import { getGallopEffect } from "akasha/temper/combat-addon/combat-action-build/combat-action-build.module.code.ts"
 import {
   getEndTime,
   getStackEffect,
@@ -11,6 +10,7 @@ import {
   STATE,
 } from "akasha/temper/combat-addon/combat-action-queue/combat-action-queue.module.code.ts"
 import type { Action } from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
+import { getGallopEffect } from "akasha/temper/combat-addon/modules/combat-action-build/combat-action-build.module.code.ts"
 
 const SECONDS_BEFORE_FADE_MS = 1000
 
