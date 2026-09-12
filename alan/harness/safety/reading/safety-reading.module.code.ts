@@ -4,7 +4,7 @@ import {
   readoutPage,
 } from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
 import { openSession } from "akasha/alan/track/daily/day-stretches/day-stretches.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
+import { rootStated } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 
 export const READOUT_SLUG = "upkeep-safety"
 
@@ -22,7 +22,7 @@ export async function takeReading(root: string, now: Date = new Date()): Promise
 }
 
 if (import.meta.main) {
-  const root = optionalEnv("AKASHA_ROOT") ?? process.cwd()
+  const root = rootStated(process.env) ?? process.cwd()
   try {
     const level = await takeReading(root)
     if (level === null) {
