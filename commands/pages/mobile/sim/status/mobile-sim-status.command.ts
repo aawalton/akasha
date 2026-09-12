@@ -8,16 +8,14 @@ export const mobileSimStatus = {
   code: "ts",
   changeKind: "change-none",
   taking: [],
-  helpNotes: [
-    "no session there is an answer rather than a refusal, and it says which calls would start one.",
-    "the session is asked whether it is live rather than believed from what is written down.",
-    "a session written down that Appium no longer holds is said to be dead rather than repaired here.",
-    "the age is measured from when the session was opened against the moment this was called.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "No session there is answered rather than refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That answer names the calls that would start a session.",
     },
     {
       invariantKind: "departure",
