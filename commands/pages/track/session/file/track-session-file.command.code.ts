@@ -26,7 +26,7 @@ import {
   standingFor,
   taggingFor,
   telling,
-} from "akasha/commands/pages/track/session/open/session-acting/session-acting.module.code.ts"
+} from "akasha/commands/pages/track/session/session-acting/session-acting.module.code.ts"
 
 const LINE = /^(\S+)\s+(.+?)(?:\s+s(-?[\d.]+)d([\d.]+))?$/
 

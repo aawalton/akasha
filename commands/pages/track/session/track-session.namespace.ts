@@ -16,6 +16,7 @@ export const trackSession = {
     "command/track-session-list",
     "command/track-session-file",
     "command/track-session-check",
+    "module/session-acting",
   ],
   name: "session",
 } as const satisfies Namespace

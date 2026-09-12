@@ -7,7 +7,7 @@ import {
 import {
   standingFor,
   telling,
-} from "akasha/commands/pages/track/session/open/session-acting/session-acting.module.code.ts"
+} from "akasha/commands/pages/track/session/session-acting/session-acting.module.code.ts"
 
 export function trackSessionList(argv: readonly string[], given: Given): Answer {
   const standing = standingFor(argv, given.root, new Date())

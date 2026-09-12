@@ -19,7 +19,7 @@ import {
   standingFor,
   taggingFor,
   telling,
-} from "akasha/commands/pages/track/session/open/session-acting/session-acting.module.code.ts"
+} from "akasha/commands/pages/track/session/session-acting/session-acting.module.code.ts"
 
 export async function trackSessionAmend(argv: readonly string[], given: Given): Promise<Answer> {
   const now = new Date()
