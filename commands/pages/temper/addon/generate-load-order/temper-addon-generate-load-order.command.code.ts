@@ -1,5 +1,5 @@
 import { resolve } from "node:path"
-import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { DATA, INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
@@ -11,8 +11,6 @@ import {
 import { valuesOf } from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
-const SAID_WRONG = 1
-
 const ADDON = "--addon"
 const CODE_ROOT = "--code-root"
 
@@ -21,13 +19,13 @@ export async function temperAddonGenerateLoadOrder(argv: readonly string[] = [])
   if (asked.length === 0) {
     return refused(
       `name the addon a load order is written for with ${ADDON}, since writing one for an addon nobody named would overwrite build output nobody asked about`,
-      SAID_WRONG
+      INPUT
     )
   }
   if (asked.length > 1) {
     return refused(
       `one load order is written at a time, and ${asked.join(", ")} names several`,
-      SAID_WRONG
+      INPUT
     )
   }
 
