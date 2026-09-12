@@ -1,9 +1,11 @@
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { answering } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { temperInventoryItemRuleList as page } from "akasha/commands/pages/temper/inventory/item-rule/list/temper-inventory-item-rule-list.command.ts"
 import {
-  answeredCall,
-  JSON_FLAG,
+  refusedAll,
   settingsOf,
-  shapeOf,
   toldOf,
   toldRows,
 } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
@@ -12,12 +14,10 @@ import {
   itemRuleRow,
 } from "akasha/temper/commands/inventory-rule-rows/inventory-rule-rows.module.code.ts"
 
-const SHAPE = shapeOf([JSON_FLAG], { alone: [JSON_FLAG] })
-
-async function listed(held: ReadonlyMap<string, string>): Promise<Answer> {
+async function listed(asJson: boolean): Promise<Answer> {
   const settings = await (await settingsOf()).read()
   const rules = settings.itemRules ?? []
-  if (held.has(JSON_FLAG)) return toldOf(rules)
+  if (asJson) return toldOf(rules)
   return toldRows(rules.map(itemRuleRow), ITEM_RULE_COLUMNS)
 }
 
@@ -25,5 +25,7 @@ export async function temperInventoryItemRuleList(
   argv: readonly string[],
   given: Given
 ): Promise<Answer> {
-  return await answeredCall(argv, given.calledAs, SHAPE, listed)
+  const read = takenFor(argv, given.calledAs, page, [json])
+  if ("refused" in read) return refusedAll(read.refused)
+  return await answering(() => listed(read.taken.json))
 }
