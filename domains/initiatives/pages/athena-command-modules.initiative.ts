@@ -17,7 +17,7 @@ export const athenaCommandModules = {
       statement:
         "A command that wrote before it threw says in its refusal what that command wrote.",
       workingMemory:
-        "Five refusals that stated a falsehood are mended (`960b8da613c3`, `a970ead831c6`, `6284dba36f22`). All 236 command files are judged: 33 of the last 128 still write then throw silently. The cause is rarely a missing `answering` — 46 calls under `commands/pages` hand in a lambda ignoring `done`, and 16 of those call a decoy `answering` at `inventory-rule-calling.module.code.ts:363` building `report: []`, which could never fill one. Killing the decoy mends sixteen at once.\n",
+        "All 236 command files are judged and 23 of 43 named writers are closed. The cause is rarely a missing `answering`: 46 calls under `commands/pages` hand in a lambda ignoring `done`, 16 of those call a decoy `answering` at `inventory-rule-calling.module.code.ts:363` building `report: []`, and a hand-rolled catch that looks equivalent loses `codeOf(thrown)` and the frame. The last 20 are being re-measured against HEAD, since several readings went stale within the hour.\n",
     },
   ],
   constraints: [
