@@ -15,10 +15,7 @@ export const googleCalendarEventDelete = {
       takes: "the calendar to act on, where `primary` and saying nothing both name Alan's own",
     },
   ],
-  helpNotes: [
-    "an event is named in place or as a flag, and naming it both ways over is refused.",
-    "this reaches the calendar as the account akasha runs under rather than as Alan.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
