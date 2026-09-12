@@ -2,7 +2,11 @@ import { realpathSync } from "node:fs"
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  DATA,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
@@ -11,8 +15,6 @@ import {
   saidFor,
   saidShort,
 } from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
-
-const FAILED = 3
 
 const SELF = "akasha temper eso generate chatter-name"
 
@@ -83,7 +85,7 @@ export async function temperEsoGenerateChatterNames(argv: readonly string[] = []
   if ("refusals" in landed) {
     return refused(
       `the registry was not landed into ${outPath} — ${landed.refusals.join("; ")}`,
-      FAILED
+      OPERATIONAL
     )
   }
 
