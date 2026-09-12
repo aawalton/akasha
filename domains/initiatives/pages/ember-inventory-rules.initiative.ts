@@ -21,7 +21,13 @@ export const emberInventoryRules = {
       statement:
         "An item the rules move to another place is moved once the character reaches that place.",
       workingMemory:
-        "Soul Gem (Empty), 33265, resolves to `move-to` `bank` by soul-gems-empty-bank at index 57, cleanly matched, and the banker does not move it while other items do move. Unidentified Enchanter Survey Report, 219852, resolves to `move-to` `character:8796093022338107` by 118d98dd at 14, but the outcome is indeterminate: 3f8c330f at 13 wants the guild bank and cannot read maxStackSize. The tooltip shows the later rule's plan regardless. Unsettled: whether the addon acts on an indeterminate outcome.",
+        "Alan tested after 9b90a46 and 0fc09ae: 219852 now moves to Erin Solstice, and every other deposit lands. Soul Gem (Empty) 33265 alone still needs a second visit to the banker, and goes on that second visit. So the rule matches and the filters admit it; what drops it is the deposit budget, the storage slot search, or the paced chain losing it behind a move that stalled.",
+    },
+    {
+      statement:
+        "A visit to the banker moves every item the rules send there, however many there are.",
+      workingMemory:
+        "Alan asked for batches of fifty five seconds apart. 6db0e2e replaces the one-move-at-a-time chain in inventory-rules-dispatch-bank-paced: fifty go out at once, then five seconds, then each is checked against its source stack and one that did not land is carried forward, up to four attempts. A move given up on no longer abandons the moves behind it. Left: MAX_OPS in inventory-rules-dispatch-bank caps a visit at fifty withdrawals and fifty deposits, a cap the batching makes unnecessary.",
     },
   ],
   constraints: [
