@@ -12,9 +12,9 @@ import { takenFor } from "akasha/commands/arguments/argument-taking/argument-tak
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import {
   DATA,
-  OK,
   refused,
   refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { alanLearnNext as page } from "akasha/commands/pages/alan/learn-next/alan-learn-next.command.ts"
@@ -45,11 +45,7 @@ export function alanLearnNext(argv: readonly string[], given: Given): Answer {
   if (next === undefined) {
     return refused(`every one of the ${leaves.length} leaves of the book is opened`, DATA)
   }
-  return {
-    report: [
-      read.taken.json ? JSON.stringify(next) : `${next.path}\t${next.label}\t${next.status}`,
-    ],
-    refusals: [],
-    code: OK,
-  }
+  return told([
+    read.taken.json ? JSON.stringify(next) : `${next.path}\t${next.label}\t${next.status}`,
+  ])
 }
