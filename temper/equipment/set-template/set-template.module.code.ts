@@ -1,8 +1,8 @@
 import type { SetCategoryId } from "akasha/temper/equipment/set-category-ids/set-category-ids.module.code.ts"
 import type { SetId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
 import type { EquipmentPattern } from "akasha/temper/equipment/set-patterns/set-patterns.module.code.ts"
-import type { ClassId } from "akasha/temper/formula-framework/class-id/class-id.module.code.ts"
 import type { Effect } from "akasha/temper/formula-framework/effect/effect.module.code.ts"
+import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
 
 export type SetBonusStatus = "supported" | "partially-supported" | "unsupported"
 

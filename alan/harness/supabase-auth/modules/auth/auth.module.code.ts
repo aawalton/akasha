@@ -1,5 +1,5 @@
 import type { SupabaseClient } from "@supabase/supabase-js"
-import { parseClaimsToUser } from "akasha/alan/harness/supabase-auth/claims/claims.module.code.ts"
+import { parseClaimsToUser } from "akasha/alan/harness/supabase-auth/modules/claims/claims.module.code.ts"
 import {
   type AuthResult,
   type SupabaseUser,

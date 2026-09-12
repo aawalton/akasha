@@ -39,7 +39,7 @@ import {
   type JewelrySlotId,
   jewelrySlots,
 } from "akasha/temper/equipment-kinds/jewelry-slots/jewelry-slots.module.code.ts"
-import type { ClassId } from "akasha/temper/formula-framework/class-id/class-id.module.code.ts"
+import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
 import {
   getSetById,
   SetSelectDialog,

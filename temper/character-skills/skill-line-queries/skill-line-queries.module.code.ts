@@ -9,7 +9,7 @@ import { armorWeights } from "akasha/temper/characters-equipment/modules/armor-w
 import { weaponTypes } from "akasha/temper/characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
 import { classes } from "akasha/temper/classes/modules/character-class/character-class.module.code.ts"
 import type { ArmorWeightId } from "akasha/temper/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
-import type { ClassId } from "akasha/temper/formula-framework/class-id/class-id.module.code.ts"
+import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
 import { valuesOf } from "akasha/temper/formula-framework/record-parts/record-parts.module.code.ts"
 import {
   type SkillBarId,

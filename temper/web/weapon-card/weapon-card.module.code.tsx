@@ -57,7 +57,7 @@ import {
   type WeaponSlot,
   weaponSlots,
 } from "akasha/temper/equipment-kinds/weapon-slots/weapon-slots.module.code.ts"
-import type { ClassId } from "akasha/temper/formula-framework/class-id/class-id.module.code.ts"
+import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
 import {
   getSetById,
   SetSelectDialog,

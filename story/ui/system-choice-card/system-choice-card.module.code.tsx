@@ -4,7 +4,7 @@ import { Button } from "akasha/design/interfaces/primitives/modules/button/butto
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { SurfaceProvider } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
-import { formatPlayerChoiceAction } from "akasha/story/engine/core/choice-action/choice-action.module.code.ts"
+import { formatPlayerChoiceAction } from "akasha/story/engine/core/modules/choice-action/choice-action.module.code.ts"
 import type { SystemChoice } from "akasha/story/engine/core/system-window-schema/system-window-schema.module.code.ts"
 import { type ReactNode, useState } from "react"
 

@@ -1,4 +1,3 @@
-import type { ClassCatalogEntry } from "akasha/temper/capture-shapes/class-catalog/class-catalog.module.code.ts"
 import type { CollectiblesCatalogData } from "akasha/temper/capture-shapes/collectibles-catalog/collectibles-catalog.module.code.ts"
 import type { CompanionEquipmentCatalogData } from "akasha/temper/capture-shapes/companion-equipment-catalog/companion-equipment-catalog.module.code.ts"
 import type { CompanionSkillCatalogLine } from "akasha/temper/capture-shapes/companion-skill-catalog/companion-skill-catalog.module.code.ts"
@@ -10,6 +9,7 @@ import type { LoreLibraryCatalogCategory } from "akasha/temper/capture-shapes/lo
 import type { AchievementCatalogData } from "akasha/temper/capture-shapes/modules/achievement-catalog/achievement-catalog.module.code.ts"
 import type { AntiquityLoreCatalogEntry } from "akasha/temper/capture-shapes/modules/antiquity-lore-catalog/antiquity-lore-catalog.module.code.ts"
 import type { CadwellCatalogLevel } from "akasha/temper/capture-shapes/modules/cadwell-catalog/cadwell-catalog.module.code.ts"
+import type { ClassCatalogEntry } from "akasha/temper/capture-shapes/modules/class-catalog/class-catalog.module.code.ts"
 import type { PoiCatalogZone } from "akasha/temper/capture-shapes/poi-catalog/poi-catalog.module.code.ts"
 import type { RecipeCatalogList } from "akasha/temper/capture-shapes/recipe-catalog/recipe-catalog.module.code.ts"
 import type { ScribingCatalogData } from "akasha/temper/capture-shapes/scribing-catalog/scribing-catalog.module.code.ts"

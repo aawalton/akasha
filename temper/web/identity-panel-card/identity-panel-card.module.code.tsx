@@ -18,7 +18,7 @@ import {
   vampireStages,
 } from "akasha/temper/character-sources/vampire-stages/vampire-stages.module.code.ts"
 import { classes } from "akasha/temper/classes/modules/character-class/character-class.module.code.ts"
-import type { ClassId } from "akasha/temper/formula-framework/class-id/class-id.module.code.ts"
+import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
 import type { RaceId } from "akasha/temper/races/races/races.module.code.ts"
 import { FilterableSelectTrigger } from "akasha/temper/web/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
 import { RaceSelectDialog } from "akasha/temper/web/race-select-dialog/race-select-dialog.module.code.tsx"
