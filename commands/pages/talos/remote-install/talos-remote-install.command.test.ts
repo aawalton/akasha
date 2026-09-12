@@ -13,7 +13,6 @@ import type {
 import {
   handedOver,
   handoverSaid,
-  readIn,
 } from "akasha/commands/pages/talos/remote-install/talos-remote-install.command.code.ts"
 
 const READ: Named = {
@@ -38,12 +37,6 @@ const refusing: Reaching = async () => {
 const waiting: Waiting = async () => {
   throw new OperationalError(TIMED_OUT)
 }
-
-test("a node named twice is refused", () => {
-  const read = readIn(["one", "--node", "two"])
-
-  expect("refused" in read).toBe(true)
-})
 
 test("the handover is named as soon as the host has taken the script", async () => {
   const done: string[] = []

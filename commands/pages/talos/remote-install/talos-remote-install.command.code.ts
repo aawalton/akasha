@@ -1,7 +1,15 @@
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { confirmWipe as confirmWipeArgument } from "akasha/commands/arguments/pages/confirm-wipe.argument.ts"
+import { ip as ipArgument } from "akasha/commands/arguments/pages/ip.argument.ts"
+import { method as methodArgument } from "akasha/commands/arguments/pages/method.argument.ts"
+import { node as nodeArgument } from "akasha/commands/arguments/pages/node.argument.ts"
+import { sshKey as sshKeyArgument } from "akasha/commands/arguments/pages/ssh-key.argument.ts"
+import { sshUser as sshUserArgument } from "akasha/commands/arguments/pages/ssh-user.argument.ts"
 import { answering, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { talosRemoteInstall as page } from "akasha/commands/pages/talos/remote-install/talos-remote-install.command.ts"
 import { buildSchematic } from "akasha/infrastructure/cluster/provisioning/talos/build-schematic/build-schematic.module.code.ts"
 import { emitSchematicYaml } from "akasha/infrastructure/cluster/provisioning/talos/emit-yaml/emit-yaml.module.code.ts"
 import {
@@ -22,18 +30,6 @@ import type {
 import { runSsh } from "akasha/infrastructure/cluster/provisioning/talos/ssh/ssh.module.code.ts"
 import { waitForPort } from "akasha/infrastructure/cluster/provisioning/talos/wait-for-port/wait-for-port.module.code.ts"
 
-export const NODE = "--node"
-
-export const IP = "--ip"
-
-export const SSH_USER = "--ssh-user"
-
-export const SSH_KEY = "--ssh-key"
-
-export const METHOD = "--method"
-
-export const CONFIRM_WIPE = "--confirm-wipe"
-
 export const AUTO = "auto"
 
 export const KEXEC = "kexec"
@@ -43,10 +39,6 @@ export const DD = "dd"
 export const METHODS = [AUTO, KEXEC, DD] as const
 
 export type Method = (typeof METHODS)[number]
-
-const VALUED: readonly string[] = [NODE, IP, SSH_USER, SSH_KEY, METHOD]
-
-const BARE: readonly string[] = [CONFIRM_WIPE]
 
 const MAINTENANCE_PORT = 50000
 
@@ -63,89 +55,12 @@ export type Named = {
   readonly confirmWipe: boolean
 }
 
-export type Read = Named | { readonly refused: readonly string[] }
-
 function methodIn(said: string | undefined): Method | null {
   if (said === undefined) return AUTO
   for (const one of METHODS) {
     if (one === said) return one
   }
   return null
-}
-
-export function readIn(argv: readonly string[]): Read {
-  const refusals: string[] = []
-  const flags = new Map<string, string>()
-  const words: string[] = []
-  let confirmWipe = false
-  for (let at = 0; at < argv.length; at += 1) {
-    const one = argv[at]
-    if (one === undefined) continue
-    if (!one.startsWith("-")) {
-      words.push(one)
-      continue
-    }
-    const cut = one.indexOf("=")
-    const name = cut === -1 ? one : one.slice(0, cut)
-    if (BARE.includes(name)) {
-      if (cut === -1) confirmWipe = true
-      else refusals.push(`\`${name}\` carries no value, and \`${one}\` hands it one`)
-      continue
-    }
-    if (!VALUED.includes(name)) {
-      refusals.push(`\`${name}\` is no flag this takes — it takes \`${VALUED.join("`, `")}\``)
-      continue
-    }
-    if (cut !== -1) {
-      flags.set(name, one.slice(cut + 1))
-      continue
-    }
-    const next = argv[at + 1]
-    if (next === undefined || next.startsWith("-")) {
-      refusals.push(`\`${name}\` names a value, and nothing followed it`)
-      continue
-    }
-    flags.set(name, next)
-    at += 1
-  }
-  const said = words[0]
-  if (said !== undefined) {
-    if (flags.has(NODE)) {
-      refusals.push(`the node is named twice — \`${said}\` as a word and after \`${NODE}\``)
-    } else {
-      flags.set(NODE, said)
-    }
-  }
-  if (words.length > 1) {
-    refusals.push(`this names one node, and ${words.length} words were said`)
-  }
-  const node = flags.get(NODE)
-  if (node === undefined) {
-    refusals.push(`this names the node to install, as a word or after \`${NODE}\``)
-  }
-  const ip = flags.get(IP)
-  if (ip === undefined) refusals.push(`this names \`${IP}\`, and nothing did`)
-  const sshUser = flags.get(SSH_USER)
-  if (sshUser === undefined) refusals.push(`this names \`${SSH_USER}\`, and nothing did`)
-  const sshKey = flags.get(SSH_KEY)
-  if (sshKey === undefined) refusals.push(`this names \`${SSH_KEY}\`, and nothing did`)
-  const method = methodIn(flags.get(METHOD))
-  if (method === null) {
-    refusals.push(
-      `\`${flags.get(METHOD)}\` is no method — \`${METHODS.join("`, `")}\` are the methods`
-    )
-  }
-  if (
-    node === undefined ||
-    ip === undefined ||
-    sshUser === undefined ||
-    sshKey === undefined ||
-    method === null ||
-    refusals.length > 0
-  ) {
-    return { refused: refusals }
-  }
-  return { node, ip, sshUser, sshKey, method, confirmWipe }
 }
 
 export type Urls = {
@@ -279,12 +194,12 @@ async function installing(
   if (installDisk === null && read.method !== KEXEC) {
     return mistaking([
       `${node.id} states a disk selector rather than a fixed disk, and \`${read.method}\` needs a device path`,
-      `\`${METHOD} ${KEXEC}\` leaves the selector to the apply, as does booting the node into maintenance mode`,
+      `\`${methodArgument.said} ${KEXEC}\` leaves the selector to the apply, as does booting the node into maintenance mode`,
     ])
   }
   if (!read.confirmWipe) {
     return mistaking([
-      `${installDisk ?? "the disk the selector matches"} on ${read.ip} is wiped, and \`${CONFIRM_WIPE}\` did not say so`,
+      `${installDisk ?? "the disk the selector matches"} on ${read.ip} is wiped, and \`${confirmWipeArgument.said}\` did not say so`,
     ])
   }
 
@@ -309,7 +224,7 @@ async function installing(
     `provisioning Talos on ${read.ip} over ${read.method}`,
     `the handoff is scheduled — waiting for maintenance mode at ${read.ip}:${MAINTENANCE_PORT}`,
     `Talos is up at ${read.ip}`,
-    `\`${given.calledAs} talos apply ${NODE} ${node.id} ${IP} ${read.ip}\` takes it into its cluster`,
+    `\`${given.calledAs} talos apply ${nodeArgument.said} ${node.id} ${ipArgument.said} ${read.ip}\` takes it into its cluster`,
   ])
 }
 
@@ -319,7 +234,21 @@ export async function talosRemoteInstall(
   reaching: Reaching = runSsh,
   waiting: Waiting = waitForPort
 ): Promise<Answer> {
-  const read = readIn(argv)
+  const read = takenFor(argv, given.calledAs, page, [
+    nodeArgument,
+    ipArgument,
+    sshUserArgument,
+    sshKeyArgument,
+    methodArgument,
+    confirmWipeArgument,
+  ])
   if ("refused" in read) return mistaking(read.refused)
-  return await answering(async (done) => installing(read, given, reaching, waiting, done))
+  const method = methodIn(read.taken.method)
+  if (method === null) {
+    return mistaking([
+      `\`${read.taken.method}\` is no method — \`${METHODS.join("`, `")}\` are the methods`,
+    ])
+  }
+  const named: Named = { ...read.taken, method }
+  return await answering(async (done) => installing(named, given, reaching, waiting, done))
 }
