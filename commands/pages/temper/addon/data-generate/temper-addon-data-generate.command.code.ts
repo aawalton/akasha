@@ -1,21 +1,24 @@
 import { realpathSync } from "node:fs"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
 import {
   answering,
   DATA,
   keeping,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { temperAddonDataGenerate as page } from "akasha/commands/pages/temper/addon/data-generate/temper-addon-data-generate.command.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import {
   EquipmentMappingsStale,
   generateAddonData,
 } from "akasha/temper/addon-data/generate-addon-data/generate-addon-data.module.code.ts"
-import { valuesOf } from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
-const CODE_ROOT_FLAG = "--code-root"
+const NAMED = [codeRootArgument]
 
 const CODE_ROOT_ENV = "CODE_ROOT"
 
@@ -40,8 +43,13 @@ export async function generatedBy(
   return await answering(async (done) => await generating(done, root))
 }
 
-export async function temperAddonDataGenerate(argv: readonly string[] = []): Promise<Answer> {
-  const named = valuesOf(argv, CODE_ROOT_FLAG)[0]
+export async function temperAddonDataGenerate(
+  argv: readonly string[],
+  given: Given
+): Promise<Answer> {
+  const read = takenFor(argv, given.calledAs, page, NAMED)
+  if ("refused" in read) return mistaking(read.refused)
+  const named = read.taken.codeRoot
 
   let root: string
   try {
