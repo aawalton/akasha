@@ -1,12 +1,3 @@
-import {
-  collectShiftActions,
-  renderShiftPass,
-} from "akasha/temper/combat-addon/combat-action-shift-bar/combat-action-shift-bar.module.code.ts"
-import {
-  getActiveHotbarCategory,
-  readSlotAbility,
-} from "akasha/temper/combat-addon/combat-action-slots/combat-action-slots.module.code.ts"
-import type { Action } from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
 import type { Widget } from "akasha/temper/combat-addon/combat-action-widget/combat-action-widget.module.code.ts"
 import {
   newWidget,
@@ -21,6 +12,15 @@ import { buildActionCtx } from "akasha/temper/combat-addon/modules/combat-action
 import { onEngineUpdate } from "akasha/temper/combat-addon/modules/combat-action-engine-context/combat-action-engine-context.module.code.ts"
 import { matchesAbility } from "akasha/temper/combat-addon/modules/combat-action-matching/combat-action-matching.module.code.ts"
 import { STATE } from "akasha/temper/combat-addon/modules/combat-action-queue/combat-action-queue.module.code.ts"
+import {
+  collectShiftActions,
+  renderShiftPass,
+} from "akasha/temper/combat-addon/modules/combat-action-shift-bar/combat-action-shift-bar.module.code.ts"
+import {
+  getActiveHotbarCategory,
+  readSlotAbility,
+} from "akasha/temper/combat-addon/modules/combat-action-slots/combat-action-slots.module.code.ts"
+import type { Action } from "akasha/temper/combat-addon/modules/combat-action-types/combat-action-types.module.code.ts"
 
 const QUICKSLOT_SLOT_NUM = 9
 

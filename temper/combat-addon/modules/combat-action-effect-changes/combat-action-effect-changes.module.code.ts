@@ -1,7 +1,3 @@
-import { getSelectedRole } from "akasha/temper/combat-addon/combat-action-slots/combat-action-slots.module.code.ts"
-import { updateStackInfo } from "akasha/temper/combat-addon/combat-action-stacks/combat-action-stacks.module.code.ts"
-import { saveAction } from "akasha/temper/combat-addon/combat-action-store/combat-action-store.module.code.ts"
-import type { Effect } from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
 import { ensureCruxActions } from "akasha/temper/combat-addon/modules/combat-action-crux/combat-action-crux.module.code.ts"
 import {
   clearCrux,
@@ -20,6 +16,10 @@ import {
   removeAction,
   STATE,
 } from "akasha/temper/combat-addon/modules/combat-action-queue/combat-action-queue.module.code.ts"
+import { getSelectedRole } from "akasha/temper/combat-addon/modules/combat-action-slots/combat-action-slots.module.code.ts"
+import { updateStackInfo } from "akasha/temper/combat-addon/modules/combat-action-stacks/combat-action-stacks.module.code.ts"
+import { saveAction } from "akasha/temper/combat-addon/modules/combat-action-store/combat-action-store.module.code.ts"
+import type { Effect } from "akasha/temper/combat-addon/modules/combat-action-types/combat-action-types.module.code.ts"
 
 export interface EffectChange {
   changeType: number

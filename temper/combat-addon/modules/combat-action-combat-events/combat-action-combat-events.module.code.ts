@@ -1,9 +1,3 @@
-import { getAbilityFrequencyMs } from "akasha/temper/combat-addon/combat-action-slots/combat-action-slots.module.code.ts"
-import { saveAction } from "akasha/temper/combat-addon/combat-action-store/combat-action-store.module.code.ts"
-import type {
-  Action,
-  Effect,
-} from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
 import { buildAbility } from "akasha/temper/combat-addon/modules/combat-action-ability/combat-action-ability.module.code.ts"
 import { buildEffect } from "akasha/temper/combat-addon/modules/combat-action-effect/combat-action-effect.module.code.ts"
 import { findActionByNewEffect } from "akasha/temper/combat-addon/modules/combat-action-effect-lookup/combat-action-effect-lookup.module.code.ts"
@@ -11,6 +5,12 @@ import {
   removeAction,
   STATE,
 } from "akasha/temper/combat-addon/modules/combat-action-queue/combat-action-queue.module.code.ts"
+import { getAbilityFrequencyMs } from "akasha/temper/combat-addon/modules/combat-action-slots/combat-action-slots.module.code.ts"
+import { saveAction } from "akasha/temper/combat-addon/modules/combat-action-store/combat-action-store.module.code.ts"
+import type {
+  Action,
+  Effect,
+} from "akasha/temper/combat-addon/modules/combat-action-types/combat-action-types.module.code.ts"
 
 const CORE_MINIMUM_DURATION_MS = 2500
 

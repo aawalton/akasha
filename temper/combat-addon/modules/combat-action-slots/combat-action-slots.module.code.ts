@@ -1,7 +1,3 @@
-import type {
-  Ability,
-  Action,
-} from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
 import {
   buildAbility,
   parseDescriptionDuration,
@@ -16,6 +12,10 @@ import {
   TARGET_SELF,
 } from "akasha/temper/combat-addon/modules/combat-action-build/combat-action-build.module.code.ts"
 import type { LfgRole } from "akasha/temper/combat-addon/modules/combat-action-priority/combat-action-priority.module.code.ts"
+import type {
+  Ability,
+  Action,
+} from "akasha/temper/combat-addon/modules/combat-action-types/combat-action-types.module.code.ts"
 
 const PLAYER_UNIT_TAG = "player"
 

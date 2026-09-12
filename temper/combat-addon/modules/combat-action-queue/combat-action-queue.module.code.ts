@@ -1,4 +1,4 @@
-import type { Action } from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
+import type { Action } from "akasha/temper/combat-addon/modules/combat-action-types/combat-action-types.module.code.ts"
 
 const ACTION_QUEUE_TTL_MS = 3000
 

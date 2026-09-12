@@ -1,11 +1,11 @@
-import type {
-  Ability,
-  Effect,
-} from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
 import {
   LEVEL_LOW_THRESHOLD,
   LEVEL_TAIL,
 } from "akasha/temper/combat-addon/modules/combat-action-levels/combat-action-levels.module.code.ts"
+import type {
+  Ability,
+  Effect,
+} from "akasha/temper/combat-addon/modules/combat-action-types/combat-action-types.module.code.ts"
 
 function normalizeUnitTag(tag: string): string {
   return tag.includes("player") ? tag : "others"

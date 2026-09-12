@@ -1,8 +1,3 @@
-import { compactAndSort } from "akasha/temper/combat-addon/combat-action-safe-sort/combat-action-safe-sort.module.code.ts"
-import type {
-  Action,
-  Effect,
-} from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
 import {
   LEVEL_CRUX,
   LEVEL_DURATION_LONGER,
@@ -15,6 +10,11 @@ import {
   LEVEL_STACK_LOW,
   LEVEL_TAIL,
 } from "akasha/temper/combat-addon/modules/combat-action-levels/combat-action-levels.module.code.ts"
+import { compactAndSort } from "akasha/temper/combat-addon/modules/combat-action-safe-sort/combat-action-safe-sort.module.code.ts"
+import type {
+  Action,
+  Effect,
+} from "akasha/temper/combat-addon/modules/combat-action-types/combat-action-types.module.code.ts"
 
 export type LfgRole = "dps" | "tank" | "heal"
 
