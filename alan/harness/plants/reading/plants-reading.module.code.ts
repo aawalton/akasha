@@ -8,9 +8,9 @@ import {
   openedDayOf,
   openedDayWindow,
 } from "akasha/alan/track/daily/day-opening/day-opening.module.code.ts"
+import { rootStated } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { AKASHA, resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 export const READOUT_SLUG = "upkeep-plants"
 
@@ -32,7 +32,7 @@ export async function takeReading(root: string, now: Date = new Date()): Promise
 }
 
 if (import.meta.main) {
-  const root = optionalEnv("AKASHA_ROOT") ?? process.cwd()
+  const root = rootStated(process.env) ?? process.cwd()
   try {
     await takeReading(root)
     process.stdout.write(
