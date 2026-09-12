@@ -11,7 +11,7 @@ export const athenaCommandModules = {
     {
       statement: "One function builds a command's refusal.",
       workingMemory:
-        "`refusedBy` at `command-answering.module.code.ts:24` is the general one, `{ report: [], refusals: said, code }`. The other three are it specialised: `mistaking` at `refusing.module.code.ts:10`, `refused` at `calling.module.code.ts:115`, and a private `refusing` at `:244`. `mistaking` has thirty importers. The `refusing` module's one addition is `troubling:14`, which folds a Trouble into code 1 or 2. `INPUT = 1` is declared twice, at `:6` and `cli.module.code.ts:14`.\n",
+        "`refusedBy` at `answering/command-answering.module.code.ts:26` builds every refusal now: `calling.module.code.ts`'s private `refusing` is gone, and `refused:116`, `mistaking` and `troubling` in `refusing.module.code.ts` all call it. Three named ways in are left — `refused` (about 70 importers), `mistaking` (29), and `faulted`. Dropping them rewrites an import line in about 100 files, and no change act does that. Do the named ways stay?\n",
     },
     {
       statement: "A module sits at the lowest node of the command tree that reaches it.",
@@ -58,7 +58,7 @@ export const athenaCommandModules = {
     {
       statement: "A refusal's exit code says what kind of thing went wrong.",
       workingMemory:
-        "`cli.module.ts:48` and `answering/command-answering.module.ts:13` already state it, with `INPUT = 1`, `DATA = 2`, `OPERATIONAL = 3` at `command-answering.module.code.ts:6-10`. `mistaking` at `refusing.module.code.ts:10-12` and `refusing` at `calling.module.code.ts:244-246` hand out 1 flat, and a `catch` answering 1 says the caller was mistaken where the machine broke. `git restore` was mended that way. A check has to hold it, because nothing derives a code from a refusal's words.\n",
+        "`calling.module.code.ts` hands INPUT for a name the caller got wrong and DATA for a fault in the index or in a command's page; `refusing.module.code.ts:14,18` reads INPUT and DATA from `command-answering.module.code.ts`; `track weight` and `seat compose-notices` answer a thrown call with `faulted` rather than 1. Nothing derives a code from a refusal's words, so the only check that could hold this refuses a literal code where a declared one belongs. Approved?\n",
     },
   ],
   constraints: [
