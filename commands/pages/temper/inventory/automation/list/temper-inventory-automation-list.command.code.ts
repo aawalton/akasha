@@ -1,18 +1,19 @@
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import {
   INPUT,
   OK,
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { temperInventoryAutomationList as page } from "akasha/commands/pages/temper/inventory/automation/list/temper-inventory-automation-list.command.ts"
 import {
   inventorySettings,
   type Toggles,
 } from "akasha/temper/commands/inventory-settings-handle/inventory-settings-handle.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/inventory-automation/automation-toggles/automation-toggles.module.code.ts"
-
-const JSON_FLAG = "--json"
 
 const SPACES = 2
 
@@ -23,22 +24,6 @@ const GLOBAL_CHARACTERS = "global.characters"
 const GLOBAL_COMPANIONS = "global.companions"
 
 type Row = { readonly scope: string; readonly toggle: string; readonly value: boolean }
-
-export type Read = { readonly json: boolean } | { readonly refused: readonly string[] }
-
-export function readIn(argv: readonly string[]): Read {
-  const refusals: string[] = []
-  let json = false
-  for (const one of argv) {
-    if (one === JSON_FLAG) {
-      json = true
-      continue
-    }
-    refusals.push(`\`${one}\` is nothing this takes — it takes \`${JSON_FLAG}\``)
-  }
-  if (refusals.length > 0) return { refused: refusals }
-  return { json }
-}
 
 function rowsFor(scope: string, toggles: Toggles | undefined): readonly Row[] {
   if (toggles === undefined) return []
@@ -63,8 +48,11 @@ export function rowsOf(settings: AutomationSettings): readonly Row[] {
   ]
 }
 
-export async function temperInventoryAutomationList(argv: readonly string[] = []): Promise<Answer> {
-  const read = readIn(argv)
+export async function temperInventoryAutomationList(
+  argv: readonly string[],
+  given: Given
+): Promise<Answer> {
+  const read = takenFor(argv, given.calledAs, page, [json])
   if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
 
   let settings: AutomationSettings
@@ -74,7 +62,7 @@ export async function temperInventoryAutomationList(argv: readonly string[] = []
     return refused(`the automation settings went unread — ${whyOf(thrown)}`, OPERATIONAL)
   }
 
-  if (read.json) {
+  if (read.taken.json) {
     return { report: JSON.stringify(settings, null, SPACES).split("\n"), refusals: [], code: OK }
   }
 
