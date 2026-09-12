@@ -12,13 +12,7 @@ export const temperAddonGenerateLoadOrder = {
     { said: "--addon <name>", takes: "the addon a load order is written for" },
     { said: "--code-root <path>", takes: "the checkout read and written" },
   ],
-  helpNotes: [
-    "the manifest is what the game reads to decide what to load and in what order.",
-    "naming no addon is refused rather than answered with a default, since a default would overwrite one particular addon's build output.",
-    "the catalog addon alone takes its api version from the pages system rather than from its own declaration.",
-    "that version is the lowest any active catalog domain declares its generator last ran for.",
-    "both written files are build output that no commit carries.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
