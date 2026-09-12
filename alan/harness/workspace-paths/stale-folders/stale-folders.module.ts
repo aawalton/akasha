@@ -26,8 +26,16 @@ export const staleFolders = {
       statement: "A package with no workspaces of its own is not descended into.",
     },
     {
+      invariantKind: "departure",
+      statement: "The files accounting for a folder are handed in rather than asked of git here.",
+    },
+    {
       invariantKind: "absence",
-      statement: "A stale folder is reported before that folder is removed.",
+      statement: "Nothing here removes a folder.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reads the command line or ends the process.",
     },
   ],
 } as const satisfies Module
