@@ -9,7 +9,6 @@ export const musicQueue = {
   test: "ts",
   taking: [
     { said: "<query>...", takes: "one or more track queries, in the order they are played" },
-    { said: "--device-id <id>", takes: "the Spotify device played on, rather than the active one" },
   ],
 
   invariants: [
@@ -43,5 +42,9 @@ export const musicQueue = {
     },
   ],
   name: "queue",
-  arguments: [{ argument: "argument/json" }, { argument: "argument/artist" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/artist" },
+    { argument: "argument/device-id" },
+  ],
 } as const satisfies Command
