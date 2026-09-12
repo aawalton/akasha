@@ -125,6 +125,7 @@ test("a check saying it is experimental is left out of every phase its page stat
   expect(every.map((one) => one.runsOn)).toEqual([[], ["change"]])
   expect(checksAt(every, "change").map((one) => one.slug)).toEqual([REFUSES])
   expect(checksAt(every, "audit")).toEqual([])
+  expect(every.map((one) => one.stated)).toEqual([["change", "audit"], ["change"]])
 })
 
 test("the check a change takes away no longer refuses the change taking it", async () => {

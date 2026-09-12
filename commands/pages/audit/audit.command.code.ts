@@ -67,14 +67,21 @@ export function notAnAuditIn(leftOut: number): readonly string[] {
   return [`this is not an audit — the ${counted(leftOut, "check")} it left out judged nothing`]
 }
 
+export function waitingOn(one: Gathered): string {
+  const phases = one.stated ?? []
+  if (phases.length === 0) return `\`${one.slug}\``
+  return `\`${one.slug}\` at ${phases.join(", ")}`
+}
+
 export function notYetJudgingIn(
   every: readonly Gathered[],
   named: readonly string[]
 ): readonly string[] {
   if (named.length > 0) return []
-  const held = every.filter((one) => one.runsOn.length === 0).length
-  if (held === 0) return []
-  return [`this answer leaves out ${counted(held, "check")} not yet judging`]
+  const held = every.filter((one) => one.runsOn.length === 0)
+  if (held.length === 0) return []
+  const waiting = held.map((one) => waitingOn(one)).join("; ")
+  return [`this answer leaves out ${counted(held.length, "check")} not yet judging: ${waiting}`]
 }
 
 export async function askedOver(

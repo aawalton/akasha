@@ -33,6 +33,10 @@ export const audit = {
     },
     {
       invariantKind: "departure",
+      statement: "That saying names each of those checks and the phases its own page states.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A slug naming no check is refused.",
     },
     {

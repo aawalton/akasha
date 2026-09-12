@@ -8,16 +8,22 @@ import {
   narrowedTo,
   notAnAuditIn,
   notYetJudgingIn,
+  waitingOn,
   wrongIn,
 } from "akasha/commands/pages/audit/audit.command.code.ts"
 
-function gathered(slugs: readonly string[], runsOn: readonly Phase[]): readonly Gathered[] {
+function gathered(
+  slugs: readonly string[],
+  runsOn: readonly Phase[],
+  stated: readonly Phase[] = runsOn
+): readonly Gathered[] {
   return slugs.map(
     (slug): Gathered => ({
       slug,
       page: `${slug}.code-check.ts`,
       root: ".",
       runsOn,
+      stated,
       isInput: null,
       run: () => [],
     })
@@ -38,9 +44,22 @@ test("a run narrowed to named checks says how many checks it left out", () => {
   ])
 })
 
-test("a bare run says how many checks it left out for not yet judging", () => {
+test("a bare run names each check it left out for not yet judging", () => {
   const every = [...gathered(["one"], ["audit"]), ...gathered(["two", "three"], [])]
-  expect(notYetJudgingIn(every, [])).toEqual(["this answer leaves out 2 checks not yet judging"])
+  expect(notYetJudgingIn(every, [])).toEqual([
+    "this answer leaves out 2 checks not yet judging: `two`; `three`",
+  ])
+})
+
+test("a check left out is named with the phases its own page states", () => {
+  const every = gathered(["two"], [], ["change", "audit"])
+  expect(notYetJudgingIn(every, [])).toEqual([
+    "this answer leaves out 1 check not yet judging: `two` at change, audit",
+  ])
+})
+
+test("a check left out that states no phase is named alone", () => {
+  expect(gathered(["two"], []).map((one) => waitingOn(one))).toEqual(["`two`"])
 })
 
 test("a run where every check judges says nothing about checks left out that way", () => {

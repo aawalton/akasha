@@ -37,6 +37,7 @@ export type Gathered = {
   readonly root: string
   readonly code?: string | null
   readonly runsOn: readonly Phase[]
+  readonly stated?: readonly Phase[]
   readonly isInput: Input | null
   readonly run: AnyRunning
   readonly audit?: AnyAuditing | null
@@ -97,14 +98,18 @@ const STATED: readonly (readonly [Phase, string])[] = [
 
 const EXPERIMENTAL = "experimental"
 
-function runsOnIn(value: Record<string, unknown>): readonly Phase[] | null {
+function phasesIn(value: Record<string, unknown>): readonly Phase[] | null {
   const held: Phase[] = []
   for (const [phase, named] of STATED) {
     const said = value[named]
     if (typeof said !== "boolean") return null
     if (said) held.push(phase)
   }
-  return value[EXPERIMENTAL] === true ? [] : held
+  return held
+}
+
+function judgingOn(value: Record<string, unknown>, stated: readonly Phase[]): readonly Phase[] {
+  return value[EXPERIMENTAL] === true ? [] : stated
 }
 
 function ceilingIn(stated: Record<string, unknown>, group: string): number | null {
@@ -208,10 +213,11 @@ function gatheredFrom(root: string, path: string, slug: string): Gathered | null
     refusing(root, path, slug, code, why)
   const stated = statedIn(join(root, path), slug, path)
   if ("why" in stated) return broken(stated.why)
-  const runsOn = runsOnIn(stated.held)
-  if (runsOn === null) {
+  const phases = phasesIn(stated.held)
+  if (phases === null) {
     return broken(`${path} is a check page, and states no phase a runner can honour`)
   }
+  const runsOn = judgingOn(stated.held, phases)
   const beside = codeOf(root, path)
   if (beside === null) {
     if (runsOn.length === 0) return null
@@ -227,6 +233,7 @@ function gatheredFrom(root: string, path: string, slug: string): Gathered | null
     root,
     code: beside,
     runsOn,
+    stated: phases,
     isInput: inputIn(run.held),
     run: run.held,
     audit: audit.held,

@@ -31,6 +31,10 @@ export const checking = {
     },
     {
       invariantKind: "departure",
+      statement: "Such a check carries the phases its page states beside the phases it judges on.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A check whose page states no `experimental` judges on the phases that page states.",
     },
