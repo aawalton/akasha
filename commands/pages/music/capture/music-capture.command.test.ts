@@ -3,6 +3,11 @@ import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Asking as Asked } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
+  OPERATIONAL,
+  partWay,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
+import {
   appendedOnto,
   askingFor,
   capturing,
@@ -338,6 +343,29 @@ test("what landed is reported under the rows saying what was filed", async () =>
   const answer = await capturing([], GIVEN, PROBE_PLAYS, held)
   expect(answer.report[0]).toBe("fetched\t1")
   expect(answer.report).toContain("wrote one/day.listens.jsonl")
+})
+
+const WRONG = new Error("the commit went wrong")
+
+test("a run that landed then threw says what it landed", async () => {
+  const said = await capturing([], GIVEN, PROBE_PLAYS, throwingAfter(["abc"], WRONG))
+  expect(said.report).toEqual(["abc"])
+  expect(said.refusals.at(-1)).toBe(partWay(["abc"])[0])
+  expect(said.code).toBe(OPERATIONAL)
+})
+
+test("a run that threw before it landed says why alone", async () => {
+  const said = await capturing([], GIVEN, PROBE_PLAYS, throwingAfter([], WRONG))
+  expect(said.report).toEqual([])
+  expect(said.refusals[0]).toContain("the commit went wrong")
+  expect(said.refusals.at(-1)).not.toContain("stopped part way")
+})
+
+test("a run that wrote twice names both in order", async () => {
+  const wrote = ["wrote one/day.listens.jsonl", "abc"]
+  const said = await capturing([], GIVEN, PROBE_PLAYS, throwingAfter(wrote, WRONG))
+  expect(said.report).toEqual(wrote)
+  expect(said.refusals.at(-1)).toBe(partWay(wrote)[0])
 })
 
 test("an append hands in the body on disk it was composed against", () => {

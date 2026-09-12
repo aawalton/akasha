@@ -35,7 +35,10 @@ import {
   songSlugFor,
 } from "akasha/alan/music/catalog/song-slug/song-slug.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import {
+  landedMechanically,
+  type runMechanicalChange,
+} from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { artistName as artistNameArgument } from "akasha/commands/arguments/pages/artist-name.argument.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
@@ -88,9 +91,6 @@ export type Landing = (
   changes: readonly Asking[],
   message: string
 ) => ReturnType<typeof runMechanicalChange>
-
-export const landedMechanically: Landing = (done, root, changes, message) =>
-  runMechanicalChange(root, changes, message, null, { done })
 
 export type Reach = {
   readonly searchArtist: (name: string) => Promise<readonly MbArtistSearchHit[]>

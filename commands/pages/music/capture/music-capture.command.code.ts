@@ -1,12 +1,17 @@
 import { join } from "node:path"
 import { getRecentlyPlayed } from "akasha/alan/music/spotify/player/spotify-player.module.code.ts"
 import type { Asking as Asked } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import {
+  landedMechanically,
+  type runMechanicalChange,
+} from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { dryRun } from "akasha/commands/arguments/pages/dry-run.argument.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import {
+  answering,
   DATA,
+  keeping,
   OK,
   OPERATIONAL,
   refusedBy,
@@ -35,7 +40,6 @@ import {
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { composedFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
 import { textIn, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const DAY = "day"
 
@@ -62,6 +66,7 @@ const NOTHING_WRITTEN = `nothing was written — ${dryRun.said}`
 export const WRITE = "change-mechanical/add-file-of-any-kind"
 
 export type Landing = (
+  done: string[],
   root: string,
   changes: readonly Asked[],
   message: string
@@ -395,23 +400,19 @@ function wouldWrite(changes: readonly Asked[]): readonly string[] {
   return said
 }
 
-export async function capturing(
+async function captured(
+  done: string[],
   argv: readonly string[],
   given: Given,
   plays: Plays,
-  landing: Landing = runMechanicalChange
+  landing: Landing
 ): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [dryRun, json])
   if ("refused" in read) return refusedBy(read.refused)
   const held = read.taken
   const filed = filedIn(given.root)
   if ("refused" in filed) return refused(filed.refused, DATA)
-  let played: Fetched
-  try {
-    played = await plays(askingFor(filed.ledger))
-  } catch (thrown) {
-    return refused(saidBy(thrown), OPERATIONAL)
-  }
+  const played = await plays(askingFor(filed.ledger))
   const planned = plannedOver(played.items, filed.ledger)
   if (planned.recorded === 0) {
     return {
@@ -426,11 +427,20 @@ export async function capturing(
     const said = [...wouldWrite(changes), NOTHING_WRITTEN]
     return answeredWith(held.json ? [jsonOf(planned)] : [...rowsOf(planned), ...said], [], OK)
   }
-  const landed = await landing(given.root, changes, messageFor(planned))
+  const landed = await landing(done, given.root, changes, messageFor(planned))
   const wrote = "refusals" in landed ? [] : landed.landed.map((one) => `wrote ${one}`)
   const wrong = "refusals" in landed ? landed.refusals : landed.wrong
-  if (wrong.length > 0) return answeredWith(wrote, wrong, OPERATIONAL)
+  if (wrong.length > 0) return keeping(done, answeredWith(wrote, wrong, OPERATIONAL))
   return answeredWith(held.json ? [jsonOf(planned)] : [...rowsOf(planned), ...wrote], [], OK)
+}
+
+export async function capturing(
+  argv: readonly string[],
+  given: Given,
+  plays: Plays,
+  landing: Landing = landedMechanically
+): Promise<Answer> {
+  return await answering(async (done) => await captured(done, argv, given, plays, landing))
 }
 
 export function musicCapture(argv: readonly string[], given: Given): Promise<Answer> {

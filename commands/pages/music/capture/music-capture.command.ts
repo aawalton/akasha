@@ -89,6 +89,14 @@ export const musicCapture = {
       invariantKind: "departure",
       statement: "A day page written again hands in the body its values were composed from.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A run that wrote before it threw says in its refusal what that run had written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A fault carries the code that fault names and says where it was thrown.",
+    },
   ],
   name: "capture",
   arguments: [{ argument: "argument/json" }, { argument: "argument/dry-run" }],

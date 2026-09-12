@@ -112,5 +112,10 @@ export const mechanicalChangeRunning = {
       invariantKind: "absence",
       statement: "Nothing here writes the tree.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A caller wanting what landed named in its own refusal reaches the landing threading that list.",
+    },
   ],
 } as const satisfies ChangeRunner

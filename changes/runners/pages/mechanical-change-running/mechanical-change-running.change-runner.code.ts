@@ -101,3 +101,10 @@ export async function runMechanicalChange(
     writing.done ?? []
   )
 }
+
+export const landedMechanically = (
+  done: string[],
+  root: string,
+  asked: readonly Asking[],
+  message: string
+): Promise<Applied | Refused> => runMechanicalChange(root, asked, message, null, { done })

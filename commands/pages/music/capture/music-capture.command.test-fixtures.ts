@@ -153,7 +153,7 @@ export const LANDED: Applied = {
 export type Told = (changes: readonly Asked[], message: string) => undefined
 
 export function landingTelling(told: Told, answer: Applied | Refused = LANDED): Landing {
-  return (_root, changes, message) => {
+  return (_done, _root, changes, message) => {
     told(changes, message)
     return Promise.resolve(answer)
   }
