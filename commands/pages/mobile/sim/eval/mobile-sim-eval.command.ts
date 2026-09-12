@@ -7,14 +7,7 @@ export const mobileSimEval = {
   definition:
     "the command running JavaScript inside the simulator's webview and giving back what it returned",
   code: "ts",
-  taking: [
-    {
-      said: "<js>",
-      takes: "the script to run, representing `--script`; a piped script is said at the flag",
-    },
-    { said: "--script <js>", takes: "the script to run, which returns what is to come back" },
-    { said: "--script -", takes: "the script to run, read from what is piped in" },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -38,4 +31,5 @@ export const mobileSimEval = {
     },
   ],
   name: "eval",
+  arguments: [{ argument: "argument/script", required: true, saidAs: "flag-or-word" }],
 } as const satisfies Command
