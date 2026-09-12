@@ -16,7 +16,7 @@ export const athenaCommandArguments = {
     {
       statement: "A command names the arguments it takes and narrows each.",
       workingMemory:
-        "Naming holds; narrowing does not. Only `value` narrows, and 250 of 338 pages carry `text` or `path`, which both fall through to the raw string. `oneOf` is not Alan's: exclusivity is per-pair and falls out of whether `not-with` covers every pair, so a generator emits the discriminated form for the 22 exclusive groups and falls back for the rest. Typing the absent member `undefined` narrows in all four positions, so `EachGroup` needs one mapped type changed. `path` naming two policies is Alan's.\n",
+        "Naming holds, and narrowing now lands: `Holding` emits a forbidden member as `?: undefined`, read per pair rather than per group, at `2a09c5c9b5d`. 24 pages, 29 groups, 22 exclusive, 7 mixed; a mixed group narrows the pairs it forbids and no more. A member always answered — required, repeating, `value: none`, defaulted — takes no such form. Only `value` narrows a kind, and 250 of 338 pages carry `text` or `path`, which fall through to the raw string. `path` naming two policies is Alan's.\n",
     },
     {
       statement:
