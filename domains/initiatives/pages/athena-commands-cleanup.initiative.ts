@@ -16,8 +16,8 @@ export const athenaCommandsCleanup = {
     "The work goes on until every intent left on a child initiative is blocked on Alan.",
     "A subagent lands its own change, and the coordinating seat keeps the child pages.",
     "The `Answer` type moving out of `module/calling` is one landing over about 270 files, and it lands alone and last with nothing else in flight.",
-    "Taking `taking` off `page-type/command` is the coordinating seat's one landing, made once every command page states `taking: []`.",
     "A spelling two arguments share is settled by Alan rather than by whichever agent lands on it first.",
     "A command's name is spelled in Alan's aliases and in the editor extension, both inside this repository, so a rename lands there in the same change and reaches Alan's machine at the next deploy.",
+    "A claim that a file changed is settled by reading that file at HEAD, rather than by the commit that claims it.",
   ],
 } as const satisfies Initiative
