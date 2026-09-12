@@ -4,6 +4,7 @@ import {
   resolveSeatTargetCli,
   resolveSeatTargetFromFlagOrEnv,
 } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
+import { DEFAULT_ACCOUNT } from "akasha/agents/seats/modules/launching/seat-launching.module.code.ts"
 import {
   dataError,
   exitCodeForThrowable,
@@ -27,7 +28,6 @@ import {
   setRequestedAction,
   waitForActionCleared,
 } from "akasha/seat-system/seat-action/seat-action.module.code.ts"
-import { DEFAULT_ACCOUNT } from "akasha/seat-system/seat-launching/seat-launching.module.code.ts"
 import {
   isSeatMode,
   SEAT_MODE_HEADLESS,

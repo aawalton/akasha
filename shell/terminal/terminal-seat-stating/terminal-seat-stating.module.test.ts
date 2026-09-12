@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { SEAT_MODE_INTERACTIVE } from "akasha/seat-system/seat-launching/seat-launching.module.code.ts"
+import { SEAT_MODE_INTERACTIVE } from "akasha/agents/seats/modules/launching/seat-launching.module.code.ts"
 import {
   INTERACTIVE_PRINCIPAL,
   payloadEscapeLines,

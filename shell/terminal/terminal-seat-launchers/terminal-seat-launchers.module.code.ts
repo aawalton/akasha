@@ -5,7 +5,7 @@ import {
   scopeShell,
   serverOptionShell,
   supervisorEntryShell,
-} from "akasha/seat-system/seat-launching/seat-launching.module.code.ts"
+} from "akasha/agents/seats/modules/launching/seat-launching.module.code.ts"
 import { HANDLER } from "akasha/seat-system/seat-naming/seat-naming.module.code.ts"
 import { seatPathForName } from "akasha/seat-system/seat-reading/seat-reading.module.code.ts"
 import {

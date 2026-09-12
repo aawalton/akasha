@@ -1,9 +1,5 @@
 import { expect, test } from "bun:test"
 import {
-  ptyProxyRel,
-  supervisorRel,
-} from "akasha/seat-system/seat-entry-paths/seat-entry-paths.module.code.ts"
-import {
   type Answer,
   accountFor,
   envScrubArgv,
@@ -29,7 +25,11 @@ import {
   supervisorEntryArgv,
   supervisorEntryShell,
   underScope,
-} from "akasha/seat-system/seat-launching/seat-launching.module.code.ts"
+} from "akasha/agents/seats/modules/launching/seat-launching.module.code.ts"
+import {
+  ptyProxyRel,
+  supervisorRel,
+} from "akasha/seat-system/seat-entry-paths/seat-entry-paths.module.code.ts"
 
 const ROOT = "/repos/akasha"
 

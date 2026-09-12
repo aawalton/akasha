@@ -1,12 +1,12 @@
 import { resolve } from "node:path"
-import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   envScrubArgv,
   launchModeFlags,
   shellQuoted,
   supervisorEntryArgv,
   underScope,
-} from "akasha/seat-system/seat-launching/seat-launching.module.code.ts"
+} from "akasha/agents/seats/modules/launching/seat-launching.module.code.ts"
+import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { SEAT_MODE_HEADLESS } from "akasha/seat-system/seat-modes/seat-modes.module.code.ts"
 import { removeSubagentPagesOf } from "akasha/seat-system/subagent-page/subagent-page.module.code.ts"
 

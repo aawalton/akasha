@@ -2,6 +2,7 @@ import {
   isValidSeatName,
   resolveOptionalSeatId,
 } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
+import { DEFAULT_ACCOUNT } from "akasha/agents/seats/modules/launching/seat-launching.module.code.ts"
 import {
   dataError,
   inputError,
@@ -26,7 +27,6 @@ import {
   refuseAnswering,
 } from "akasha/seat-system/seat-answering/seat-answering.module.code.ts"
 import { seatByName } from "akasha/seat-system/seat-by-name/seat-by-name.module.code.ts"
-import { DEFAULT_ACCOUNT } from "akasha/seat-system/seat-launching/seat-launching.module.code.ts"
 import {
   isSeatMode,
   SEAT_MODE_HEADLESS,
