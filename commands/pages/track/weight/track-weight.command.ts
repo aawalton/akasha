@@ -12,12 +12,7 @@ export const trackWeight = {
     { said: "--bodyweight <lb>", takes: "what Alan's body weighed, in pounds" },
     { said: "--day <date>", takes: "which day to act on, written as that day's own date" },
   ],
-  helpNotes: [
-    "a day is named at --day and nowhere else.",
-    "a call naming no day acts on the US Mountain day, as akasha track session reads one.",
-    "a weight the day already carries is replaced rather than kept beside the weight said here.",
-    "the weight the exercise coach counts volume against is the one Alan's person page carries rather than this one.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
@@ -42,6 +37,10 @@ export const trackWeight = {
     {
       invariantKind: "departure",
       statement: "A day is named at `--day`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call naming no day acts on the US Mountain day.",
     },
     {
       invariantKind: "absence",
