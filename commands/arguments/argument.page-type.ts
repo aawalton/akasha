@@ -41,6 +41,11 @@ export const argument = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "Whether an argument is said at its flag or as a word belongs to the command that takes it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "What an argument carries where no call and no entry says it belongs here.",
     },
     {
