@@ -16,7 +16,7 @@ export const sophiaAgentStopHook = {
       statement:
         "Each of the five directives Alan's page states has a judge that misfires on nothing.",
       workingMemory:
-        "Three of five have judges, four prompts, each measured over two runs and misfiring on none of the 227 clean turns. `directive-kept` catches 15 of 34 for Neither Clock Nor Meter. `one-at-a-time-kept`, 19 of 33. No Commentary is judged twice by different signs: `no-commentary-kept` on a piece marked worth knowing, `subagent-brief-kept` on what the turn told a helper, and their union catches 18 of 63. The other two directives are blocked rather than unworked.\n",
+        "Three of five have judges, five prompts, each measured over two runs and misfiring on none of the 227 clean turns. `directive-kept` catches 15 of 34 for Neither Clock Nor Meter. `one-at-a-time-kept`, 19 of 33. No Commentary is judged by three signs — a piece marked worth knowing, what the turn told a helper, and a wait restated — whose union catches 25 of 63. The other two directives are blocked rather than unworked.\n",
     },
     {
       statement:
@@ -32,7 +32,7 @@ export const sophiaAgentStopHook = {
     {
       statement: "A case names every directive the turn breaks rather than one of them.",
       workingMemory:
-        "`case-against` holds one rule, so `keeping` reads a turn labelled against another rule as a turn breaking nothing. 165 of the 413 cases are labelled that way. It bites hardest on Don't Stop!, where `Applying module again.` is labelled clean and `Let me make the change.` a breach, and nothing on either says whether the other rule was weighed at all. Until a case names every rule its turn breaks, no judge for that directive can be measured. The rival test says as much on its own page.",
+        "`case-against` holds one rule, so `keeping` reads a turn labelled against another rule as a turn breaking nothing. 165 of 413 cases are labelled that way, and one sentence lands on both sides of the key: `Next turn is step 3: cost.` breaches in one row and is clean in the next, as do `Say go and I'll land it` and `Two things worth flagging`. That contradiction is the ceiling on every judge's recall here, and it blocks Don't Stop! outright.\n",
     },
     {
       statement: "Every turn Eppie mined and labelled is a case.",
