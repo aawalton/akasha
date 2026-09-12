@@ -178,6 +178,26 @@ export const SIBLING_BACK = `${SIBLING}
 export const FIRST = searchOf(1)
 `
 
+export const SIBLING_TYPED = `export type Held = {
+  readonly one: number
+}
+
+export function searchOf(one: number): Held {
+  return { one }
+}
+`
+
+export const SIBLING_TYPED_BACK = `${SIBLING_TYPED}
+export const FIRST = searchOf(1)
+`
+
+export const SIBLING_TYPED_LANDED = `import type { Held } from "./one.held.ts"
+
+export function searchOf(one: number): Held {
+  return { one }
+}
+`
+
 export const ALREADY = `import { join } from "node:path"
 
 export const OTHER = join("x", "y")

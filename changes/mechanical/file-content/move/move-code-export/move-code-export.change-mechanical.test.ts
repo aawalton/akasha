@@ -30,6 +30,8 @@ import {
   SIBLING,
   SIBLING_BACK,
   SIBLING_LANDED,
+  SIBLING_TYPED_BACK,
+  SIBLING_TYPED_LANDED,
   STILL,
   TAKEN,
   TO,
@@ -387,7 +389,7 @@ test("that import is spelled from the checkout root where the root names a way i
   expect(addedAt(said, TO)).toContain(`import { childOf } from "tree/${FROM}"`)
 })
 
-test("carrying such an import where the two bodies would name each other is refused", async () => {
+test("carrying such an import of a value where the two bodies would name each other is refused", async () => {
   const world = worldOf({ [FROM]: SIBLING_BACK })
 
   const said = await runChange(world, { from: FROM, to: TO, of: "searchOf" })
@@ -396,6 +398,15 @@ test("carrying such an import where the two bodies would name each other is refu
   expect(said.refused).toBe(
     `\`searchOf\` names \`childOf\` from \`${FROM}\`, which would name \`${TO}\` back`
   )
+})
+
+test("an import the compiler erases is carried back where the two bodies name each other", async () => {
+  const world = worldOf({ [FROM]: SIBLING_TYPED_BACK })
+
+  const said = await runChange(world, { from: FROM, to: TO, of: "searchOf" })
+
+  expect(said.refused).toBeNull()
+  expect(addedAt(said, TO)).toBe(SIBLING_TYPED_LANDED)
 })
 
 const STARRED_LINE = `import * as Utilities from "./utils.held.ts"`

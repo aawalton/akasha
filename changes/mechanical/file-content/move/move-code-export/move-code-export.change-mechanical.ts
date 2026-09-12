@@ -81,7 +81,13 @@ export const moveCodeExport = {
     },
     {
       invariantKind: "departure",
-      statement: "Carrying such an import where the two bodies would name each other is refused.",
+      statement:
+        "Carrying such an import of a value where the two bodies would name each other is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An import the compiler erases is carried back where the two bodies name each other.",
     },
     {
       invariantKind: "departure",

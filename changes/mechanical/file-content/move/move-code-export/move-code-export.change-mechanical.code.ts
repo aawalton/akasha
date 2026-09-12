@@ -334,7 +334,7 @@ function planFor(
   const rest = leftBy(left, gone)
   const after = parsedAs(given.from, rest)
   const back = backIn(rest, after, given, typed(declared), landing.naming)
-  const first = [...carried].find(([, one]) => one.from === beside)
+  const first = [...carried].find(([, one]) => one.from === beside && !one.type)
   if (first !== undefined && (back !== null || namesBack(after, given, landing.naming))) {
     const said = `\`${first[0]}\` from \`${given.from}\`, which would name \`${given.to}\` back`
     return { refused: `\`${given.of}\` names ${said}` }
