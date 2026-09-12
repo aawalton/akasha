@@ -8,9 +8,9 @@ export const music = {
   pluralSlug: "music",
   parts: [
     "domain/music-catalog",
-    "domain/music-listening",
     "domain/music-choosing",
     "domain/music-commands",
+    "domain/music-listening",
     "domain/spotify",
   ],
   invariants: [

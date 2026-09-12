@@ -6,19 +6,19 @@ export const spotify = {
   slug: "spotify",
   definition: "Alan's Spotify account reached over the Web API",
   parts: [
+    "module/spotify-cache-file",
     "module/spotify-credentials",
     "module/spotify-fetching",
-    "module/spotify-cache-file",
-    "module/spotify-token-store",
+    "module/spotify-personalization",
     "module/spotify-pkce-store",
-    "module/spotify-scopes",
     "module/spotify-auth",
     "module/spotify-auth-cli",
     "module/spotify-client",
     "module/spotify-player",
+    "module/spotify-scopes",
     "module/spotify-search",
+    "module/spotify-token-store",
     "module/spotify-tracks",
-    "module/spotify-personalization",
   ],
   invariants: [
     {

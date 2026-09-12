@@ -7,9 +7,9 @@ export const workspacePaths = {
   definition:
     "which folders of a repository the package manager installs, read off the root manifest",
   parts: [
-    "module/workspace-bins",
     "module/stale-folders",
     "module/tsconfig-references",
+    "module/workspace-bins",
     "module/workspace-bins-verifying",
     "module/workspace-dirs",
   ],

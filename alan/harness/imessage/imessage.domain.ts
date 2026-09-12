@@ -6,10 +6,10 @@ export const imessage = {
   slug: "imessage",
   definition: "how Alan's iMessage history is read and how a message is handed to Messages",
   parts: [
+    "module/chat-db",
     "module/contacts-db",
     "module/imessage-command-reading",
     "module/imessage-host",
-    "module/chat-db",
     "module/imessage-remote",
     "module/imessage-send",
     "module/message-lines",

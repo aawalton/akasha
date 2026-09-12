@@ -7,9 +7,9 @@ export const fitness = {
   definition: "how Alan trains his body and what the training did",
   parts: [
     "page-type/fitness-equipment",
-    "page-type/selection-policy",
     "domain/fitness-coaching",
     "domain/flexibility",
     "domain/strength",
+    "page-type/selection-policy",
   ],
 } as const satisfies Domain

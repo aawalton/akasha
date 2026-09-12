@@ -6,8 +6,8 @@ export const musicChoosing = {
   slug: "music-choosing",
   definition: "the choice of what Alan hears next",
   parts: [
-    "module/rating-ladder",
     "module/music-exploration",
+    "module/rating-ladder",
     "module/track-candidate",
     "module/track-resolving",
   ],

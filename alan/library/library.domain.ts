@@ -6,12 +6,12 @@ export const library = {
   slug: "library",
   definition: "what Alan works through, and how far through it he has got",
   parts: [
-    "domain/studying",
-    "domain/watching",
     "domain/reading",
+    "domain/studying",
     "domain/book-of-everything",
     "domain/learn-everything",
     "domain/litrpg-books",
+    "domain/watching",
     "page-type/litrpg-collection",
   ],
   invariants: [

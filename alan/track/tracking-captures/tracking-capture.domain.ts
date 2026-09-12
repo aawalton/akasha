@@ -7,11 +7,11 @@ export const trackingCapture = {
   definition: "how something Alan did becomes an entry",
   pluralSlug: "tracking-captures",
   parts: [
-    "domain/tracking-capture-report",
-    "domain/tracking-capture-measurement",
-    "domain/tracking-capture-trace",
-    "domain/tracking-capture-testimony",
     "domain/tracking-capture-judgment",
+    "domain/tracking-capture-measurement",
+    "domain/tracking-capture-report",
+    "domain/tracking-capture-testimony",
+    "domain/tracking-capture-trace",
   ],
   invariants: [
     {
