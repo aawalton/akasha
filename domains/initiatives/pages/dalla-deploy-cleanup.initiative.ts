@@ -8,12 +8,6 @@ export const dallaDeployCleanup = {
   persona: "dalla",
   intents: [
     {
-      statement:
-        "Every workstation service runs from one checkout the workstation deploy alone moves.",
-      workingMemory:
-        "55 of the 59 `ExecStart` lines installed name `.git/trees/service-workstation`; the four that do not run a podman image, two brew binaries and a Windows exe, and no akasha code. Every unit's `WorkingDirectory` is the main checkout, which is the database and the only write target. What is left is the landing: `unit-landing` still moves that tree and writes every unit on each `akasha change apply`, so the deploy is not yet alone in moving it. `deploy-tree-pinning` names that as its gap.",
-    },
-    {
       statement: "A service waits out the cooldown its page states before deploying again.",
       workingMemory:
         "`number-property/cooldown-seconds` sits on `page-type/service`, and a page stating none takes the 60 seconds `deploy-choosing` holds as the default. Every deploy now keeps `deployEndedAt` beside the page it was read from, whether that deploy put up or refused, and the wait is counted from there. No page states a cooldown of its own yet, so the hour an iOS app wants for TestFlight is unwritten.",
