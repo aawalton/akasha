@@ -17,6 +17,11 @@ export const MECHANICAL: Kind = {
   readersOweReading: false,
 }
 
+export const SURFACED: Surface = {
+  taking: [{ said: "--file-path <path>", takes: "a path it takes" }],
+  helpNotes: ["it repeats."],
+}
+
 export const COMMAND = "command"
 
 export const COMMAND_TYPE = "01a04bdd-596d-7b81-9204-1a882f474a5f"
@@ -60,6 +65,7 @@ export type Named = {
   readonly definition?: string
   readonly surface?: Surface
   readonly notes?: readonly string[]
+  readonly taking?: Surface["taking"]
 }
 
 export function rootWith(named: readonly Named[], typeSlug: string = COMMAND): string {
@@ -75,9 +81,10 @@ export function rootWith(named: readonly Named[], typeSlug: string = COMMAND): s
     const stated =
       one.definition === undefined ? "" : `, definition: ${JSON.stringify(one.definition)}`
     const noted = one.notes === undefined ? "" : `, helpNotes: ${JSON.stringify(one.notes)}`
+    const taken = one.taking === undefined ? "" : `, taking: ${JSON.stringify(one.taking)}`
     const shown =
       one.surface === undefined
-        ? noted
+        ? `${taken}${noted}`
         : `, taking: ${JSON.stringify(one.surface.taking)}, helpNotes: ${JSON.stringify(one.surface.helpNotes)}`
     writeFileSync(
       join(root, at),

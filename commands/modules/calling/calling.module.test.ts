@@ -6,7 +6,6 @@ import {
   commandsIn,
   HELP,
   HELP_SHORT,
-  type Surface,
 } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   ANSWERS,
@@ -14,10 +13,12 @@ import {
   ANSWERS_NOTHING,
   bootstrapped,
   COMMAND_TYPE,
+  MECHANICAL,
   namespacesIn,
   OUTSIDE,
   rootWith,
   SAYS_KIND,
+  SURFACED,
   sweep,
   THROWS_NO_ERROR,
   WILL_NOT_LOAD,
@@ -278,11 +279,6 @@ test("the commands there are come from the index", () => {
   expect(commandsIn(root)).toEqual(["held", "other"])
 })
 
-const SURFACED: Surface = {
-  taking: [{ said: "--file-path <path>", takes: "a path it takes" }],
-  helpNotes: ["it repeats."],
-}
-
 test("asking for help lists the commands with what each page says it is for", async () => {
   const root = rootWith([{ slug: "held", body: ANSWERS, definition: "what held is for" }])
   const said = await calling([HELP], { ...OUTSIDE, root })
@@ -328,6 +324,15 @@ test("a command stating help notes and no taking is answered for from its page",
   expect(said.report).toContain("it is piped in.")
 })
 
+test("a command stating what it takes and no help note is answered for from its page", async () => {
+  const root = rootWith([
+    { slug: "held", body: ANSWERS, taking: [{ said: "<id>", takes: "the id acted on" }] },
+  ])
+  const said = await calling(["held", HELP], { ...OUTSIDE, root })
+  expect(said.code).toBe(0)
+  expect(said.report).toContain("  <id>  the id acted on")
+})
+
 test("a command stating no surface is handed the flag to answer for itself", async () => {
   const root = rootWith([{ slug: "held", body: ANSWERS }])
   const said = await calling(["held", HELP], { ...OUTSIDE, root })
@@ -342,18 +347,11 @@ test("a name no command carries is told where the surface is written down", asyn
   expect(said.refusals[0]).toContain("Say `akasha --help` for what each of them takes.")
 })
 
-const CARRIED = {
-  slug: "change-mechanical",
-  runsChecks: false,
-  writerOwesReading: false,
-  readersOweReading: false,
-}
-
 test("the change kind a call already carries is what the command is handed", async () => {
   const root = rootWith([{ slug: "held", body: SAYS_KIND }])
-  const said = await calling(["held"], { ...OUTSIDE, root, changeKind: CARRIED })
+  const said = await calling(["held"], { ...OUTSIDE, root, changeKind: MECHANICAL })
   expect(said.code).toBe(0)
-  expect(said.report[0]).toBe(JSON.stringify(CARRIED))
+  expect(said.report[0]).toBe(JSON.stringify(MECHANICAL))
 })
 
 test("a change kind no page states is handed as none, so everything runs", async () => {

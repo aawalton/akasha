@@ -222,10 +222,10 @@ function surfaceOf(page: Record<string, unknown> | null): Surface | null {
   if (page === null) return null
   const taking = page[TAKING]
   const helpNotes = page[HELP_NOTES]
-  if (!Array.isArray(helpNotes)) return null
+  if (!Array.isArray(taking) && !Array.isArray(helpNotes)) return null
   return {
     taking: (Array.isArray(taking) ? taking : []) as Taking,
-    helpNotes: helpNotes as HelpNotes,
+    helpNotes: (Array.isArray(helpNotes) ? helpNotes : []) as HelpNotes,
   }
 }
 
