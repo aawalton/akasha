@@ -22,6 +22,12 @@ export type Read<Answered = Taken> =
 
 const WHOLE = /^\d+$/
 
+const FLAG = "--"
+
+function spelledAsAFlag(word: string): boolean {
+  return word.startsWith(FLAG)
+}
+
 function carries(argument: Argument): boolean {
   return argument.value !== "none"
 }
@@ -134,7 +140,7 @@ export function takingIn(
     if (word === undefined) continue
     const held = bySaid.get(word)
     if (held === undefined) {
-      if (forWords === undefined || word.startsWith("--")) {
+      if (forWords === undefined || spelledAsAFlag(word)) {
         state.refusals.push(unknown(word, calledAs, spellings))
         continue
       }
@@ -148,7 +154,7 @@ export function takingIn(
       continue
     }
     const next = argv[at + 1]
-    if (next === undefined || bySaid.has(next)) {
+    if (next === undefined || spelledAsAFlag(next)) {
       state.refusals.push(`\`${word}\` takes a value, and none follows it`)
       continue
     }

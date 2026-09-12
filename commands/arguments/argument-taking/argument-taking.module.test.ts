@@ -97,6 +97,21 @@ test("an argument whose value is another argument is an argument no value follow
   )
 })
 
+test("a flag the command takes no argument at is refused rather than filling the one before it", () => {
+  expect(refusals(["--limit", "--nope"], [LIMIT])).toEqual([
+    "`--limit` takes a value, and none follows it",
+    "`--nope` is no argument `akasha thing` takes — it takes `--limit`",
+  ])
+})
+
+test("a value opening with one dash is a value rather than a flag", () => {
+  expect(taken(["--node", "-5"], [NODE])).toEqual({ node: "-5" })
+})
+
+test("a value that is one dash is a value, which is how a call names what is piped in", () => {
+  expect(taken(["--node", "-"], [NODE])).toEqual({ node: "-" })
+})
+
 test("an argument that does not repeat is refused where one call says it twice", () => {
   expect(refusals(["--limit", "1", "--limit", "2"], [LIMIT])[0]).toBe(
     "`--limit` is said twice, and one call says it once"
