@@ -147,7 +147,7 @@ export async function claudeAccountAdd(argv: readonly string[], given: Given): P
       `akasha: file a page for the claude account ${read.account}`
     )
     const wrong = "refusals" in landed ? landed.refusals : landed.wrong
-    if (wrong.length > 0) return { report: [], refusals: wrong, code: 1 }
+    if (wrong.length > 0) return { report: [], refusals: wrong, code: DATA }
     return {
       report: [
         `${read.account} holds slot ${slot} and is filed at ${at}`,
