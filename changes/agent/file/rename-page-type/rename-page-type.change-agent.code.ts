@@ -34,6 +34,8 @@ export async function renamePageType(world: World, given: RenamePageTypeAsked): 
 
 export type Asked = Readonly<Record<string, string>>
 
+export const takes: readonly string[] = [AT, TO, PLURAL]
+
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const at = given[AT]
   if (at === undefined) return refusing(missing(AT))

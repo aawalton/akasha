@@ -37,6 +37,8 @@ function readIn(said: string): Read {
 
 export type Asked = Readonly<Record<string, string>>
 
+export const takes: readonly string[] = [MOVED]
+
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const said = given[MOVED]
   if (said === undefined) return refusing(missing(MOVED))
