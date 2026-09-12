@@ -124,6 +124,14 @@ export function reasonIn(given: Ran): string {
   }
 }
 
+export function judgedOf(slug: string, answered: Ran): Answer | null {
+  if (answered.code === BLOCKED) return refusing(reasonIn(answered))
+  if (answered.code === ASIDE) return null
+  return refusing(
+    `${HOOK}: \`${slug}\` exited ${answered.code} — ${answered.err.trim()}, judging nothing`
+  )
+}
+
 async function ranAt(at: string, payload: string): Promise<Ran> {
   const child = Bun.spawn([process.execPath, at], {
     stdin: "pipe",
@@ -167,12 +175,8 @@ async function answerFor(root: string, payload: Record<string, unknown>): Promis
     const refusals = answered.code === BLOCKED ? 1 : 0
     costKept(root, one.page, costOf(before, after, runId, event, one.slug, 0, refusals))
     before = after
-    if (answered.code === BLOCKED) return refusing(reasonIn(answered))
-    if (answered.code !== ASIDE) {
-      return refusing(
-        `${HOOK}: \`${one.slug}\` exited ${answered.code} — ${answered.err.trim()}, judging nothing`
-      )
-    }
+    const judged = judgedOf(one.slug, answered)
+    if (judged !== null) return judged
     const anew = inputAnew(answered.out)
     if (anew !== null) {
       carried = { ...carried, [INPUT]: anew }

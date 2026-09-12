@@ -1,8 +1,10 @@
 import { describe, expect, test } from "bun:test"
+import { REFUSED } from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
 import {
   eventsIn,
   heldFor,
   inputAnew,
+  judgedOf,
   reasonIn,
   type Valued,
 } from "akasha/agents/hooks/dispatch/hook-dispatch.module.code.ts"
@@ -76,5 +78,32 @@ describe("reasonIn", () => {
 
   test("falls back to what the hook wrote to standard error", () => {
     expect(reasonIn({ code: 2, out: "", err: " broke \n" })).toBe("broke")
+  })
+})
+
+describe("judgedOf", () => {
+  test("answers nothing for a hook that judged and let the call through", () => {
+    expect(judgedOf("over-bash", { code: 0, out: "", err: "" })).toBe(null)
+  })
+
+  test("answers the refusal a hook that refused carried", () => {
+    const out = JSON.stringify({ decision: "block", reason: "because" })
+    const said = judgedOf("over-bash", { code: 2, out, err: "" })
+    expect(said?.code).toBe(REFUSED)
+    expect(said?.err).toBe("because")
+  })
+
+  test("a hook exiting neither let-through nor refused refuses the call it judged", () => {
+    const said = judgedOf("over-bash", { code: 5, out: "", err: "the payload would not parse\n" })
+    expect(said?.code).toBe(REFUSED)
+    expect(said?.err).toContain("`over-bash` exited 5")
+    expect(said?.err).toContain("the payload would not parse")
+    expect(said?.err).toContain("judging nothing")
+  })
+
+  test("every exit code but let-through refuses, whatever the hook wrote", () => {
+    for (const code of [1, 3, 5, 127, -1]) {
+      expect(judgedOf("over-bash", { code, out: "", err: "" })?.code).toBe(REFUSED)
+    }
   })
 })
