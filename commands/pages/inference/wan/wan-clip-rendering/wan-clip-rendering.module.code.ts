@@ -2,7 +2,6 @@ import { mkdir, readFile, writeFile } from "node:fs/promises"
 import { homedir } from "node:os"
 import { basename, dirname, join } from "node:path"
 import { negativePrompt as negativePromptArgument } from "akasha/commands/arguments/pages/negative-prompt.argument.ts"
-import { promptFile as promptFileArgument } from "akasha/commands/arguments/pages/prompt-file.argument.ts"
 import { renderPrompt as promptArgument } from "akasha/commands/arguments/pages/render-prompt.argument.ts"
 import {
   DATA,
@@ -74,16 +73,9 @@ export function prosedIn(
 ): Prosed | { readonly refused: readonly string[] } {
   const prompt = filledIn(root, taken.renderPrompt, taken.promptFile, PROMPT)
   if ("refused" in prompt) return prompt
-  if (prompt.text === undefined) {
-    return {
-      refused: [
-        `\`${promptArgument.said}\` or \`${promptFileArgument.said}\` says what to render, and neither was said`,
-      ],
-    }
-  }
   const negative = filledIn(root, taken.negativePrompt, taken.negativePromptFile, NEGATIVE)
   if ("refused" in negative) return negative
-  return { prompt: prompt.text, negative: negative.text ?? WAN_DEFAULT_NEGATIVE_PROMPT }
+  return { prompt: prompt.text ?? "", negative: negative.text ?? WAN_DEFAULT_NEGATIVE_PROMPT }
 }
 
 export async function generating(
@@ -96,9 +88,6 @@ export async function generating(
   if ("refused" in prose) return { report, refusals: [...prose.refused], code: INPUT }
   const startSaid = taken.startImage
   const endSaid = taken.endImage
-  if (startSaid === undefined && endSaid === undefined) {
-    return refused("this names `--start-image` or `--end-image`, and neither was said", INPUT)
-  }
   const startPath = startSaid === undefined ? undefined : pathUnder(given.root, startSaid)
   const endPath = endSaid === undefined ? undefined : pathUnder(given.root, endSaid)
   const prompt = prose.prompt
