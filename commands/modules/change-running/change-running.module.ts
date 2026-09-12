@@ -179,7 +179,27 @@ export const changeRunning = {
     },
     {
       invariantKind: "departure",
+      statement: "A fold that refuses is a fault of the data.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A change that refuses appends nothing and says why the change refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change that refuses is a fault of what the call was handed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change that threw is an operational fault.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A turn over the edits kept that would not open is an operational fault.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every answer here is built by a function rather than written out as a value.",
     },
     {
       invariantKind: "departure",

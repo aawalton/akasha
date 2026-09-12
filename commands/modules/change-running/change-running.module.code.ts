@@ -25,10 +25,16 @@ import {
 import { costRecorded, opening } from "akasha/checks/modules/cost/check-cost.module.code.ts"
 import { decodeUtf8 } from "akasha/code/utf8-body/utf8-body.module.code.ts"
 import {
+  DATA,
+  OPERATIONAL,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
   type Given as Arguments,
   readingIn,
 } from "akasha/commands/modules/argument-reading/argument-reading.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { type Answer, answering } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { NO_PAGE, saidOf } from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
 import { underIts } from "akasha/commands/modules/change-ceiling/change-ceiling.module.code.ts"
 import { commandPageAt } from "akasha/commands/modules/change-costing/change-costing.module.code.ts"
@@ -267,18 +273,18 @@ export async function appending(
   const kept = await keptEdits(root, page, async (had) => {
     const before = foldedIn(had)
     if (before.refused !== null) {
-      answer = { report: [], refusals: [before.refused], code: 2 }
+      answer = refusedBy([before.refused], DATA)
       return had
     }
     let said: Said
     try {
       said = await over(worldFor(root, had, before))
     } catch (thrown) {
-      answer = { report: [], refusals: [whyOf(thrown)], code: 3 }
+      answer = refusedBy([whyOf(thrown)], OPERATIONAL)
       return had
     }
     if (said.refused !== null) {
-      answer = { report: [], refusals: [said.refused], code: 1 }
+      answer = mistaking([said.refused])
       return had
     }
     const unread = owing ? unwarrantedFor(root, agentId, [...had, ...said.edits], said.edits) : []
@@ -286,14 +292,10 @@ export async function appending(
       answer = mistaking(unread)
       return had
     }
-    answer = {
-      report: said.edits.map(saidOf).sort(),
-      refusals: [],
-      code: 0,
-    }
+    answer = told(said.edits.map(saidOf).sort())
     return [...had, ...said.edits]
   })
-  if ("why" in kept) return { report: [], refusals: [kept.why], code: 3 }
+  if ("why" in kept) return refusedBy([kept.why], OPERATIONAL)
   return answer
 }
 
@@ -392,18 +394,16 @@ export async function changing(
   )
   if (answered.code !== 0) return answered
   const nothing = nothingSaid(slug, paths)
-  if (drafts) {
-    return { ...answered, report: [...answered.report, ...nothing, keptSaid(page, LANDS)] }
-  }
+  if (drafts) return told([...answered.report, ...nothing, keptSaid(page, LANDS)])
   const landed = await applying(asked.message, asked.measure)
-  return {
-    report: [
+  return answering(
+    [
       ...answered.report,
       ...nothing,
       ...landed.report,
       ...(landed.code === 0 ? [] : [keptSaid(page, KEPT)]),
     ],
-    refusals: landed.refusals,
-    code: landed.code,
-  }
+    landed.refusals,
+    landed.code
+  )
 }

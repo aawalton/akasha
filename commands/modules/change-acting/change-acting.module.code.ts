@@ -3,6 +3,11 @@ import {
   editsIn,
   keptEdits,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import {
+  OPERATIONAL,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
@@ -157,7 +162,7 @@ function missedIn(
 export function dropping(root: string, page: string, said: readonly string[]): Answer {
   const at = rootedAt(root, said)
   if (typeof at === "string") return mistaking([at])
-  let answer: Answer = { report: [NOTHING_KEPT], refusals: [], code: 0 }
+  let answer: Answer = told([NOTHING_KEPT])
   const dropped = keptEdits(root, page, (had) => {
     const bare = at.length === 0
     const went = bare ? had : had.filter((one) => namedIn(one, at))
@@ -168,17 +173,17 @@ export function dropping(root: string, page: string, said: readonly string[]): A
     }
     if (went.length === 0) return null
     const left = bare ? [] : [`${String(had.length - went.length)} ${STILL_KEPT}`]
-    answer = { report: [...went.map(saidOf).sort(), DROPPED, ...left], refusals: [], code: 0 }
+    answer = told([...went.map(saidOf).sort(), DROPPED, ...left])
     return bare ? null : had.filter((one) => !namedIn(one, at))
   })
-  if ("why" in dropped) return { report: [], refusals: [dropped.why], code: 3 }
+  if ("why" in dropped) return refusedBy([dropped.why], OPERATIONAL)
   return answer
 }
 
 export function listingKept(root: string, page: string): Answer {
   const held = editsIn(root, page)
-  if ("why" in held) return { report: [], refusals: [held.why], code: 3 }
+  if ("why" in held) return refusedBy([held.why], OPERATIONAL)
   const own =
     held.rows.length === 0 ? [NOTHING_HELD] : [...held.rows.map(saidOf).sort(), KEPT_LANDS]
-  return { report: own, refusals: [], code: 0 }
+  return told(own)
 }

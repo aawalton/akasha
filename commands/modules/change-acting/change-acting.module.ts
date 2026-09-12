@@ -128,6 +128,14 @@ export const changeActing = {
       statement: "A subagent dispatched or resumed a moment ago can run before that page lands.",
     },
     {
+      invariantKind: "departure",
+      statement: "Every answer here is built by a function rather than written out as a value.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A turn over the edits kept that would not open is an operational fault.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads an argument off the command line.",
     },
