@@ -37,6 +37,22 @@ export const helpWriting = {
       statement: "The help notes are written under the arguments.",
     },
     {
+      invariantKind: "departure",
+      statement: "The invariants a command's page states are written under the help notes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An invariant is written down as the statement alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An entry stating no statement is written down nowhere.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No invariant of its own makes a page a page help is answered from.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads the index.",
     },

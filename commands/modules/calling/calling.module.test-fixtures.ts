@@ -21,6 +21,7 @@ export const MECHANICAL: Kind = {
 export const SURFACED: Surface = {
   taking: [{ said: "--file-path <path>", takes: "a path it takes" }],
   helpNotes: ["it repeats."],
+  invariants: [],
 }
 
 export const COMMAND = "command"
