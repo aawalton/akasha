@@ -1,7 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { valueAlsoFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import {
   bundleEntryPathIn,
@@ -15,6 +14,7 @@ import {
   ASYNC_MAIN_AT,
   INTERFACE_ENTRY_AT,
 } from "akasha/temper/addon-build/addon-compiler-config/addon-compiler-config.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const SCRATCH = scratchWorld()
 

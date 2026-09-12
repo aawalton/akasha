@@ -9,9 +9,9 @@ import {
   refusalsAt,
   refusalsPut,
 } from "akasha/agents/refusals-keeping/refusals-keeping.module.code.ts"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { ANSWER_CEILING } from "akasha/commands/pages/read/long-body/long-body.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 
 const scratch = scratchWorld()
 

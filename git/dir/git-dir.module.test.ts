@@ -1,9 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync } from "node:fs"
 import { isAbsolute, join } from "node:path"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { git } from "akasha/git/capping/git-capping.module.code.ts"
 import { gitDirIn } from "akasha/git/dir/git-dir.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

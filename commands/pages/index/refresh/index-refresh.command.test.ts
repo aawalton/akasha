@@ -8,7 +8,6 @@ import {
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   classed,
   indexRefresh,
@@ -29,6 +28,7 @@ import {
 import { id as idPage } from "akasha/pages/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/pages/properties/slug.text-property.ts"
 import { textProperty } from "akasha/pages/text-properties/text-property.page-type.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const TREE = "."
 

@@ -5,7 +5,7 @@ import {
   keptAt,
   SCRATCH_AT,
   scratchWorld,
-} from "akasha/commands/modules/scratching/scratching.module.code.ts"
+} from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

@@ -10,7 +10,7 @@ import {
   scratch,
 } from "akasha/checks/code-checks/pages/file-length/file-length.code-check.decision.test-fixtures.ts"
 import { treed } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
-import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
+import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 
 const STRAY = "akasha/stray.ts"
 

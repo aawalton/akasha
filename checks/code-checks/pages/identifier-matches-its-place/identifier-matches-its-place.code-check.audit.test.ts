@@ -5,7 +5,7 @@ import {
   scratch,
 } from "akasha/checks/code-checks/pages/identifier-matches-its-place/identifier-matches-its-place.code-check.decision.test-fixtures.ts"
 import { treed } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
-import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
+import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 
 const HELD = "akasha/held.ts"
 

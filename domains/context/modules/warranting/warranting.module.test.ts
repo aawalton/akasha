@@ -5,7 +5,6 @@ import {
   recordRead,
   SUBAGENT_MARK,
 } from "akasha/agents/read-record/read-record.module.code.ts"
-import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import {
   agentPathOf,
   callOf,
@@ -44,6 +43,7 @@ import {
   Y,
 } from "akasha/domains/context/modules/warranting/warranting.module.test-fixtures.ts"
 import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 
 afterAll(sweeping)
 

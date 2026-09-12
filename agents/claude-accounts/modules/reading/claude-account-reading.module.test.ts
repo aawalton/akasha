@@ -20,7 +20,6 @@ import {
   stateFrom,
 } from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
 import { TYPE_PAGE } from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.test-fixtures.ts"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   listedFiled,
   valueAlsoFiled,
@@ -28,6 +27,7 @@ import {
 import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import type { Child, Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

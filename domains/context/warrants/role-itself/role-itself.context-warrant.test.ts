@@ -2,8 +2,6 @@ import { afterAll, expect, test } from "bun:test"
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { blobIdOf, recordRead } from "akasha/agents/read-record/read-record.module.code.ts"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { unreadIn } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import {
   pathsOf,
@@ -15,6 +13,8 @@ import {
   ROLE,
   roleItself,
 } from "akasha/domains/context/warrants/role-itself/role-itself.context-warrant.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 
 const scratch = scratchWorld()
 

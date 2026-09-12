@@ -1,5 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { answeringOver } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
 import { fileKeysAt, pageTypesIn } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import {
@@ -44,6 +43,7 @@ import {
 } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

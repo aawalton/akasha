@@ -1,6 +1,5 @@
 import { expect, test } from "bun:test"
 import { entry } from "akasha/agents/proc-liveness/agent-proc-liveness.module.test-fixtures.ts"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   censusOf,
   judgedOver,
@@ -28,6 +27,7 @@ import {
   takeLine,
   writeLine,
 } from "akasha/seat-system/subagent-census/subagent-census.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 test("a take-down is read whether or not its line opens with the time it was written", () => {
   const base = world.rootFor("subagent-census-logs-")

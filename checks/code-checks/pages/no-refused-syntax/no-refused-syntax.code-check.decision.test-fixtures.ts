@@ -4,8 +4,6 @@ import type {
   Readers,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import type { Naming } from "akasha/commands/modules/walking/command-walking.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
@@ -14,6 +12,8 @@ import {
 } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { bodyOf, type Held } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import { type Shadow, shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 export const PROBE_AT = "akasha/one/probe.module.code.ts"

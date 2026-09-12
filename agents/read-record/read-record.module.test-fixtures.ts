@@ -1,7 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
 import { readingFileAt, SUBAGENT_MARK } from "akasha/agents/read-record/read-record.module.code.ts"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 export const AGENT = "01a04e96-c80a-79ef-819f-a455a96a0e54"
 

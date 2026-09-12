@@ -1,7 +1,5 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
-import { writing as wrote } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { idFiled, valueAlsoFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import {
@@ -10,6 +8,8 @@ import {
   relationFiled,
   shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { writing as wrote } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 
 export const A = "akasha/t/a.note.ts"
 

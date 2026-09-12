@@ -9,7 +9,7 @@ import {
   rootStated,
 } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { CLI_UNDER } from "akasha/commands/modules/rooting/rooting.module.test-fixtures.ts"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const REFUSED = "is under no akasha folder"
 

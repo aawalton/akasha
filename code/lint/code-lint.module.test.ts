@@ -8,7 +8,7 @@ import {
   foundIn,
   lintedOver,
 } from "akasha/code/lint/code-lint.module.code.ts"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const UNUSED = "export function held(a: number, b: number): number {\n  return a\n}\n"
 

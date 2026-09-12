@@ -8,9 +8,9 @@ import {
 } from "akasha/agents/hooks/agent-hooks/block-akasha-edits/block-akasha-edits.agent-hook.code.ts"
 import { insideOf, settled } from "akasha/agents/hooks/settling/settling.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { dataAt } from "akasha/files/git-place/git-place.module.code.ts"
 import { INDEX_AT } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 const HERE = rootOf(import.meta.path)

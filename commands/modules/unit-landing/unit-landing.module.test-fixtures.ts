@@ -1,12 +1,12 @@
 import { mkdirSync, realpathSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import type { Weighing } from "akasha/commands/modules/unit-landing/unit-landing.module.code.ts"
 import {
   type Ran,
   stagingDir,
   systemdDir,
 } from "akasha/infrastructure/services/workstations/service-installing/service-installing.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

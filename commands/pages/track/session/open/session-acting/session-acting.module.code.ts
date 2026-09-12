@@ -3,7 +3,6 @@ import { join } from "node:path"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { filing } from "akasha/commands/modules/mechanical-filing/mechanical-filing.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { SCRATCH_AT } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import type { ActivityDifficulty } from "akasha/commands/pages/track/session/amend/session-leveling/session-leveling.module.code.ts"
 import type { RelationshipPage } from "akasha/commands/pages/track/session/check/session-relationships/session-relationships.module.code.ts"
 import {
@@ -32,6 +31,7 @@ import {
   dayBefore,
   sleeping,
 } from "akasha/commands/pages/track/session/switch/waking/waking.module.code.ts"
+import { SCRATCH_AT } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 export type Standing = {
   readonly day: string

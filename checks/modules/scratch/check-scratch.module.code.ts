@@ -2,7 +2,6 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { onDisk } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged, Running } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as git } from "akasha/git/running/git-running.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
@@ -16,6 +15,7 @@ import {
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { type Shadow, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
+import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 const PAGE_TYPE = "page-type"

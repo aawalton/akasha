@@ -4,9 +4,9 @@ import {
   declaring,
   filing,
 } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { noPathsFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 export const ID = "01a04d86-434f-7119-8000-000000000001"
 

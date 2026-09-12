@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
 import { committed } from "akasha/seat-system/subagent-page/subagent-page.module.test-fixtures.ts"
 import {
   pageInHistory,
   subagentPageInHistory,
 } from "akasha/seat-system/subagent-page-history/subagent-page-history.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 
 const AT = "seat-system/subagents/pages/akasha-a38f63805f9b94edf.subagent.ts"
 

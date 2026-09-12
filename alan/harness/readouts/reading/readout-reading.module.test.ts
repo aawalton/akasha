@@ -9,13 +9,13 @@ import {
   wentSilentAtKept,
   wentSilentAtOn,
 } from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { nothingFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import {
   mergeUncommitted,
   uncommittedIn,
 } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const PAGE = "alan/harness/readouts/pages/upkeep-probe/upkeep-probe.readout.ts"
 

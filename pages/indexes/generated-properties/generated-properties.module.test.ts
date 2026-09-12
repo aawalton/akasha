@@ -1,7 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { valueAlsoFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import {
@@ -16,6 +15,7 @@ import {
 import { indexIn } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import { shadowAt, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import { put, there } from "akasha/testing-system/putting/putting.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

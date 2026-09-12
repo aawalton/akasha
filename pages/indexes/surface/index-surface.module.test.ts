@@ -1,5 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   beneath,
   mergedIn,
@@ -7,6 +6,7 @@ import {
   readingAt,
 } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

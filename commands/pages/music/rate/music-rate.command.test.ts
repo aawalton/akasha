@@ -8,7 +8,6 @@ import type { Given } from "akasha/commands/modules/calling/calling.module.code.
 import { refusingWith } from "akasha/commands/modules/calling/calling.module.test-fixtures.ts"
 import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   ARTIST,
   type Landing,
@@ -19,6 +18,7 @@ import {
   valuesFor,
   WRITE,
 } from "akasha/commands/pages/music/rate/music-rate.command.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

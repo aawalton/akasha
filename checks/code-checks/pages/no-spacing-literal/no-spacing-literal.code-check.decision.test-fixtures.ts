@@ -4,10 +4,10 @@ import {
   reasonsOver,
 } from "akasha/checks/code-checks/pages/no-spacing-literal/no-spacing-literal.code-check.decision.code.ts"
 import { founded, typed } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 export const ROOT = "/repo"

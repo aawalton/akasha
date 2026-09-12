@@ -7,7 +7,6 @@ import type { Applied } from "akasha/commands/modules/applying/applying.module.c
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   FILE_PATH,
   KEEP_LAST_NEWLINE,
@@ -23,6 +22,7 @@ import {
   undeclared,
   valueIn,
 } from "akasha/pages/commands/page-secret-acting/page-secret-acting.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const AT = "akasha/agents/claude-accounts/pages/one.claude-account.ts"
 

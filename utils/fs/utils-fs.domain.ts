@@ -15,5 +15,6 @@ export const utilsFs = {
     "module/text-on-disk",
     "module/text-there",
     "module/whole-writing",
+    "module/scratching",
   ],
 } as const satisfies Domain

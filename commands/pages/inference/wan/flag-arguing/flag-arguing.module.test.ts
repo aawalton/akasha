@@ -2,7 +2,6 @@ import { afterAll, describe, expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { join } from "node:path"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   heldOnce,
   numberIn,
@@ -12,6 +11,7 @@ import {
   textIn,
   wholeIn,
 } from "akasha/commands/pages/inference/wan/flag-arguing/flag-arguing.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

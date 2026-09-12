@@ -2,8 +2,6 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { recordRead, SUBAGENT_MARK } from "akasha/agents/read-record/read-record.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import type { Warrant } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { dataAt } from "akasha/files/git-place/git-place.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
@@ -17,6 +15,8 @@ import {
   relationFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { mintedId } from "akasha/testing-system/minting/minting.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 
 const HERE = rootOf(import.meta.path)
 

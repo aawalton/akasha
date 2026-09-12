@@ -4,8 +4,8 @@ import {
   pathFor,
   typed,
 } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 export const HELD = "01a058ff-c2b0-7001-8000-000000000001"
 

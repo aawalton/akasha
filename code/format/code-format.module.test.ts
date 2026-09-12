@@ -7,7 +7,7 @@ import {
   formattedBody,
 } from "akasha/code/format/code-format.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const REPO_AT = rootOf(import.meta.dir)
 

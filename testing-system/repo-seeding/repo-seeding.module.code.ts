@@ -15,7 +15,6 @@ import { builtIn } from "akasha/commands/modules/file-arguing/file-arguing.modul
 import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { warrantsSeeded } from "akasha/domains/context/modules/warranting/warranting.module.test-fixtures.ts"
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
@@ -34,6 +33,7 @@ import {
   minting,
 } from "akasha/testing-system/minting/minting.module.code.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 export const ADMITS_AT = "akasha/admits.code-check*"
 

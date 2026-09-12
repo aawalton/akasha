@@ -1,6 +1,4 @@
 import { expect, test } from "bun:test"
-
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   agentSubagentSweep,
   runningOwnIn,
@@ -44,6 +42,7 @@ import {
 } from "akasha/commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts"
 import { pagesIn } from "akasha/seat-system/subagent-census/subagent-census.module.code.ts"
 import { refusalsSaid } from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const world = scratchWorld()
 

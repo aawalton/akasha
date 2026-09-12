@@ -1,8 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync, statSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import {
   bodiesFrom,
   keepDelta,
@@ -10,6 +8,8 @@ import {
   takenAway,
   wholeOf,
 } from "akasha/pages/indexes/index-keeping/index-keeping.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 
 const scratch = scratchWorld()
 

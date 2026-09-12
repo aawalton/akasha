@@ -1,6 +1,5 @@
 import { cpSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { said } from "akasha/git/running/git-running.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
@@ -16,6 +15,7 @@ import { refreshedIn } from "akasha/pages/indexes/reading/index-reading.module.t
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { type Cast, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import { put, there } from "akasha/testing-system/putting/putting.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 export const scratch = scratchWorld()
 

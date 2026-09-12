@@ -2,11 +2,11 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { gitSweep } from "akasha/commands/pages/git/sweep/git-sweep.command.code.ts"
 import { LEFT, STORES } from "akasha/files/git-place/git-place.module.code.ts"
 import { git } from "akasha/git/capping/git-capping.module.code.ts"
 import { gitDirIn } from "akasha/git/dir/git-dir.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const LEFT_AT = LEFT[0] ?? ""
 

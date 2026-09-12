@@ -12,7 +12,7 @@ import {
   type Taking,
 } from "akasha/alan/google/email/email-command-reading/email-command-reading.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const NAMING: Taking = { valued: [MESSAGE], needed: [MESSAGE], named: MESSAGE }
 

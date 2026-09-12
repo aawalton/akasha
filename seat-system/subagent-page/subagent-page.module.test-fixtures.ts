@@ -1,5 +1,4 @@
 import { join } from "node:path"
-import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
 import {
   listedFiled,
@@ -19,6 +18,7 @@ import {
 } from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
 import { landingNaming } from "akasha/seat-system/subagents/presence/subagent-presence.module.test-fixtures.ts"
 import { declaringUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
+import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 import { said as outOf } from "akasha/utils/run/running/running.module.code.ts"
 
 export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"

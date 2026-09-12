@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
 import { mkdtempSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { SCRATCH_AT } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   besideArgv,
   pathUnder,
   withSessionsDeclared,
 } from "akasha/commands/pages/track/session/file/day-landing/day-landing.module.code.ts"
+import { SCRATCH_AT } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const ROOT = "/var/home/walton/repos/akasha"
 

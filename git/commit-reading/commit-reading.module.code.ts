@@ -1,7 +1,7 @@
 import { closeSync, fstatSync, mkdtempSync, openSync, readSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { oneLine } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { SCRATCH_AT } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { SCRATCH_AT } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 const CAT_FILE = "akasha-cat-file-"

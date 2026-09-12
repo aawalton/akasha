@@ -8,7 +8,7 @@ import {
   removePkce,
   writePkce,
 } from "akasha/alan/music/spotify/pkce-store/spotify-pkce-store.module.code.ts"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const HANDOFF: PkceHandoff = { verifier: "a-verifier" }
 

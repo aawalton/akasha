@@ -1,7 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   declaredIn,
   loadedFrom,
@@ -9,6 +8,7 @@ import {
   valueIn,
 } from "akasha/pages/value/page-value.module.code.ts"
 import { slugsIn, textsAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const A = "01a04b79-0000-7000-8000-00000000000a"
 

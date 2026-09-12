@@ -6,11 +6,11 @@ import {
   filing,
 } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 import { speltIn } from "akasha/code/rule/code-rule.module.code.ts"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import type { Said } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 export const CAMEL = `function camel(slug: string): string {

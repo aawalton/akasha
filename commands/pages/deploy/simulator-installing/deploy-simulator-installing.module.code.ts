@@ -7,8 +7,8 @@ import {
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { SCRATCH_AT } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { quoted } from "akasha/shell/quoting/quoting.module.code.ts"
+import { SCRATCH_AT } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { ran as running } from "akasha/utils/run/running/running.module.code.ts"
 import { z } from "zod"

@@ -1,7 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   groupIn,
   heldIn,
@@ -10,6 +9,7 @@ import {
   seatScopeIn,
   turnedOn,
 } from "akasha/seat-system/seat-grouping/seat-grouping.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

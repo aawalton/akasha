@@ -9,7 +9,6 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { SCRATCH_AT } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { buildNodePatch } from "akasha/infrastructure/cluster/provisioning/talos/build-patch/build-patch.module.code.ts"
 import { buildSchematic } from "akasha/infrastructure/cluster/provisioning/talos/build-schematic/build-schematic.module.code.ts"
 import { buildNodeVolumes } from "akasha/infrastructure/cluster/provisioning/talos/build-volumes/build-volumes.module.code.ts"
@@ -34,6 +33,7 @@ import type {
 } from "akasha/infrastructure/cluster/provisioning/talos/schema/schema.module.code.ts"
 import { decryptToTmp } from "akasha/infrastructure/cluster/provisioning/talos/sops/sops.module.code.ts"
 import { runTalosctl } from "akasha/infrastructure/cluster/provisioning/talos/talosctl/talosctl.module.code.ts"
+import { SCRATCH_AT } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 export const NODE = "--node"
 

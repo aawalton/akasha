@@ -1,7 +1,5 @@
 import type { Places } from "akasha/checks/code-checks/pages/identifier-matches-its-place/identifier-matches-its-place.code-check.decision.code.ts"
 import { filing } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { noPathsFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { lowerCamelCase } from "akasha/pages/name-formats/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
 import { upperCamelCase } from "akasha/pages/name-formats/pages/upper-camel-case/upper-camel-case.name-format.code.ts"
@@ -11,6 +9,8 @@ import { constantIdentifier } from "akasha/pages/name-places/pages/constant-iden
 import { derivedIdentifier } from "akasha/pages/name-places/pages/derived-identifier.name-place.ts"
 import { functionIdentifier } from "akasha/pages/name-places/pages/function-identifier.name-place.ts"
 import { typeIdentifier } from "akasha/pages/name-places/pages/type-identifier.name-place.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 
 const FORMAT = "name-format"
 

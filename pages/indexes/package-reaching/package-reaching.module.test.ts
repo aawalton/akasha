@@ -1,6 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
-import { writing as wrote } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import {
   bodiesAt,
   manifestsAmong,
@@ -17,6 +15,8 @@ import {
   shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { reading } from "akasha/pages/value/page-value.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { writing as wrote } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 
 const scratch = scratchWorld()
 

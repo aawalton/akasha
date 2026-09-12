@@ -9,7 +9,6 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname, join } from "node:path"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   bodyFor,
   dropUncommitted,
@@ -21,6 +20,7 @@ import {
   wholeValue,
 } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { until } from "akasha/testing-system/waiting/waiting.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const PAGE = "akasha/one/amy.seat.ts"
 

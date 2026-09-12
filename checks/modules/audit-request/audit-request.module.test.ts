@@ -5,7 +5,7 @@ import {
   requestsAt,
   requestsIn,
 } from "akasha/checks/modules/audit-request/audit-request.module.code.ts"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

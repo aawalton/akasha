@@ -12,8 +12,6 @@ import type { Asking } from "akasha/changes/runners/pages/mechanical-change-runn
 import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import {
   isAgentProcess,
   killTarget,
@@ -25,6 +23,8 @@ import {
   type Working,
 } from "akasha/seat-system/seat-stopping/seat-stopping.module.code.ts"
 import { seatEditsAt } from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 
 const SELF = 4242
 

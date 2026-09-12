@@ -8,12 +8,12 @@ import {
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { SCRATCH_AT } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   driving,
   type Reading,
   wordsIn,
 } from "akasha/commands/pages/mobile/mobile-answering/mobile-answering.module.code.ts"
+import { SCRATCH_AT } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const OUTPUT = "--output"
 

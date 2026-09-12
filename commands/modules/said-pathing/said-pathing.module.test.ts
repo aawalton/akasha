@@ -8,8 +8,8 @@ import {
   underGitIn,
   writesOutside,
 } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

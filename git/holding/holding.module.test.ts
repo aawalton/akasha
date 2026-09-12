@@ -10,7 +10,6 @@ import {
   CARRIED_IN,
 } from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
 import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   heldSaid,
   holding,
@@ -25,6 +24,7 @@ import {
   listedFiledIn,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { until } from "akasha/testing-system/waiting/waiting.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const ROOT = process.cwd()
 

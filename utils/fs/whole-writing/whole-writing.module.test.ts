@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { Buffer } from "node:buffer"
 import { closeSync, openSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { writtenWhole } from "akasha/utils/fs/whole-writing/whole-writing.module.code.ts"
 
 const scratch = scratchWorld()

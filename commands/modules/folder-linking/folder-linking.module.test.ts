@@ -12,7 +12,7 @@ import {
   atHome,
   linkedOver,
 } from "akasha/commands/modules/folder-linking/folder-linking.module.code.ts"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 
