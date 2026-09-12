@@ -1,6 +1,4 @@
 import {
-  appiumIsUp,
-  appiumStartedSaid,
   ensureAppium,
   resolveAndBootSim,
 } from "akasha/alan/harness/mobile-cli/sim-macbook/sim-macbook.module.code.ts"
@@ -20,13 +18,11 @@ export type Read = {
 }
 
 export type Booting = {
-  readonly up: () => Promise<boolean>
-  readonly appium: () => Promise<string>
+  readonly appium: (done: string[]) => Promise<string>
   readonly sim: (done: string[], udid: string | undefined) => Promise<string>
 }
 
 export const BOOTING: Booting = {
-  up: appiumIsUp,
   appium: ensureAppium,
   sim: resolveAndBootSim,
 }
@@ -36,9 +32,7 @@ export async function booted(
   done: string[],
   booting: Booting = BOOTING
 ): Promise<Answer> {
-  const wasUp = await booting.up()
-  const base = await booting.appium()
-  if (!wasUp) done.push(appiumStartedSaid(base))
+  const base = await booting.appium(done)
   const udid = await booting.sim(done, read.udid)
   return told(
     keyedLines([

@@ -34,8 +34,10 @@ const GIVEN: Given = {
 
 function booting(over: Partial<Booting> = {}): Booting {
   return {
-    up: () => Promise.resolve(false),
-    appium: () => Promise.resolve(BASE),
+    appium: (done) => {
+      done.push(STARTED)
+      return Promise.resolve(BASE)
+    },
     sim: () => Promise.resolve("3F0C9A11-0000-4000-8000-000000000001"),
     ...over,
   }
@@ -46,15 +48,33 @@ const SIMLESS = booting({
 })
 
 const UNREACHABLE = booting({
-  up: () => Promise.reject(new OperationalError("the mac dropped the connection")),
+  appium: () => Promise.reject(new OperationalError("the mac dropped the connection")),
 })
 
 const ALREADY_UP = booting({
-  up: () => Promise.resolve(true),
+  appium: () => Promise.resolve(BASE),
   sim: () => Promise.reject(new OperationalError("no simulator udid resolved")),
 })
 
-test("the Appium server this started is named as soon as that server is up", async () => {
+const NEVER_READY = booting({
+  appium: (done) => {
+    done.push(STARTED)
+    return Promise.reject(
+      new OperationalError("Appium did not become ready within 60s after start")
+    )
+  },
+})
+
+test("a start that never became ready names the server it left running on the mac", async () => {
+  const held = await answering(async (done) => await booted(READ, done, NEVER_READY))
+
+  expect(held.code).toBe(OPERATIONAL)
+  expect(held.report).toEqual([STARTED])
+  const last = held.refusals[held.refusals.length - 1] as string
+  expect(last).toContain(STARTED)
+})
+
+test("the Appium server this started is named as soon as that server is started", async () => {
   const done: string[] = []
 
   await booted(READ, done, booting())

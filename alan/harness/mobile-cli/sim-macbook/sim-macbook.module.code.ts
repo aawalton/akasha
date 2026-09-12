@@ -109,9 +109,10 @@ export function simBootedSaid(host: string): string {
   return `booted a simulator on ${host}, and nothing here shuts one down again`
 }
 
-export async function ensureAppium(): Promise<string> {
+export async function ensureAppium(done: string[] = []): Promise<string> {
   if (await appiumReady(APPIUM_BASE)) return APPIUM_BASE
   await runSshCapture(MACBOOK, buildStartAppiumScript())
+  done.push(appiumStartedSaid(APPIUM_BASE))
   for (let attempt = 0; attempt < APPIUM_START_ATTEMPTS; attempt++) {
     await Bun.sleep(APPIUM_START_DELAY_MS)
     if (await appiumReady(APPIUM_BASE)) return APPIUM_BASE

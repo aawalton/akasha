@@ -33,5 +33,10 @@ export const simMacbook = {
       statement:
         "A simulator booted is named before the udid it booted is read back, which can fail.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "An Appium server started is named before the wait for it to answer, which can time out.",
+    },
   ],
 } as const satisfies Module

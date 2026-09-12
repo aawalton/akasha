@@ -18,7 +18,7 @@ export const mobileSimBoot = {
     },
     {
       invariantKind: "departure",
-      statement: "An Appium server this started is named as soon as that server is up.",
+      statement: "An Appium server this started is named before the wait for it to answer.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +26,12 @@ export const mobileSimBoot = {
     },
     {
       invariantKind: "departure",
-      statement: "The readiness, the starting and the booting are handed in.",
+      statement:
+        "A start that never became ready names in its refusal the server it left running on the mac.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The starting and the booting are handed in.",
     },
     {
       invariantKind: "departure",
