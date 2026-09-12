@@ -33,6 +33,15 @@ export const seatReset = {
       invariantKind: "departure",
       statement: "The output a reset prints is written where the reset runs.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A reset refused after it took the agent out of the seat names each write it finished.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reset refused before it wrote anything is refused as the fault alone.",
+    },
   ],
   name: "reset",
   arguments: [{ argument: "argument/seat", required: true, saidAs: "word" }],

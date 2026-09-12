@@ -81,7 +81,10 @@ function keptRecovered(was: SeatFromHistory): Kept {
   }
 }
 
-export default async function seatReset(args: readonly string[]): Promise<void> {
+export default async function seatReset(
+  args: readonly string[],
+  done: string[] = []
+): Promise<void> {
   const parsed = parseArgs(help, args)
 
   const input = parsed.positionals[0]
@@ -145,10 +148,13 @@ export default async function seatReset(args: readonly string[]): Promise<void> 
   }
 
   await stopSeat({ agentId, force: parsed.boolean("--force"), saying: A_RESET })
+  done.push(`took the agent ${agentId} out of \`${name}\``)
 
   await killSeatSession(name)
+  done.push(`killed the tmux session \`${name}\``)
 
   const fresh = await mintNamedAgent(name)
+  done.push(`bound \`${name}\` to the fresh agent ${fresh}`)
 
   const unstated = await stateSpawnedSeat({
     agentId: fresh,
@@ -168,6 +174,9 @@ export default async function seatReset(args: readonly string[]): Promise<void> 
       `[seat reset] ${name}: nothing was stated, so no page stands for this seat and nothing ` +
         `reads it as running — ${unstated.join("; ")}\n`
     )
+    done.push(`wrote no page for ${fresh} — ${unstated.join("; ")}`)
+  } else {
+    done.push(`wrote the page for ${fresh}`)
   }
   await launchSeatUnderTmux({
     name,
@@ -176,6 +185,7 @@ export default async function seatReset(args: readonly string[]): Promise<void> 
     prompt: "",
     mode,
   })
+  done.push(`launched ${fresh} in \`${name}\` under tmux, ${mode}`)
 
   if (parsed.boolean("--json")) {
     process.stdout.write(`${JSON.stringify({ agent_id: fresh, name, start_mode: mode })}\n`)
