@@ -1,8 +1,8 @@
 import { writeFile } from "node:fs/promises"
 import { resolve } from "node:path"
 import {
+  answering,
   OPERATIONAL,
-  refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
@@ -98,7 +98,46 @@ export async function fetched(
   return { bytes: new Uint8Array(await answer.arrayBuffer()) }
 }
 
-async function registering(read: Named, given: Given): Promise<Answer> {
+export type Registering = (yaml: string) => Promise<string>
+
+export type Writing = (at: string, bytes: Uint8Array) => Promise<void>
+
+export function schematicSaid(id: string): string {
+  return `schematic id: ${id}`
+}
+
+export function isoSaid(at: string): string {
+  return `wrote ${at}`
+}
+
+export async function registeredSchematic(
+  yaml: string,
+  registering: Registering,
+  done: string[]
+): Promise<string> {
+  const id = await registering(yaml)
+  done.push(schematicSaid(id))
+  return id
+}
+
+export async function wroteIso(
+  at: string,
+  bytes: Uint8Array,
+  writing: Writing,
+  done: string[]
+): Promise<undefined> {
+  await writing(at, bytes)
+  done.push(isoSaid(at))
+  return undefined
+}
+
+async function building(
+  read: Named,
+  given: Given,
+  registering: Registering,
+  writing: Writing,
+  done: string[]
+): Promise<Answer> {
   let node: NodeIntent
   let cluster: ClusterIntent
   try {
@@ -107,24 +146,23 @@ async function registering(read: Named, given: Given): Promise<Answer> {
   } catch (thrown) {
     return mistaking([whyOf(thrown)])
   }
-  const id = await registerSchematic(emitSchematicYaml(buildSchematic(node)))
+  const id = await registeredSchematic(emitSchematicYaml(buildSchematic(node)), registering, done)
   const isoUrl = installerIsoUrl(id, cluster.talosVersion)
-  const report = [`schematic id: ${id}`, `installer iso: ${isoUrl}`]
-  if (read.download === null) return told(report)
+  done.push(`installer iso: ${isoUrl}`)
+  if (read.download === null) return told(done)
   const got = await fetched(isoUrl)
-  if ("refused" in got) return answeredWith(report, [got.refused], OPERATIONAL)
-  const at = resolve(given.root, read.download)
-  await writeFile(at, got.bytes)
-  report.push(`wrote ${at}`)
-  return told(report)
+  if ("refused" in got) return answeredWith(done, [got.refused], OPERATIONAL)
+  await wroteIso(resolve(given.root, read.download), got.bytes, writing, done)
+  return told(done)
 }
 
-export async function talosImageBuild(argv: readonly string[], given: Given): Promise<Answer> {
+export async function talosImageBuild(
+  argv: readonly string[],
+  given: Given,
+  registering: Registering = registerSchematic,
+  writing: Writing = writeFile
+): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) return mistaking(read.refused)
-  try {
-    return await registering(read, given)
-  } catch (thrown) {
-    return refusedBy([whyOf(thrown)], OPERATIONAL)
-  }
+  return await answering(async (done) => building(read, given, registering, writing, done))
 }

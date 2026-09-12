@@ -6,6 +6,7 @@ export const talosImageBuild = {
   slug: "talos-image-build",
   definition: "the command registering one node's schematic with the Talos Image Factory",
   code: "ts",
+  test: "ts",
   taking: [
     {
       said: "--download <path>",
@@ -49,6 +50,22 @@ export const talosImageBuild = {
     {
       invariantKind: "departure",
       statement: "The id and the address are reported though the download did not land.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The schematic is named as soon as the factory holds it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The download is named as soon as the bytes reach the disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A build that threw part way names those in its refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The registering and the writing this runs are handed in.",
     },
     {
       invariantKind: "departure",
