@@ -8,7 +8,6 @@ export const temperBuildDeployChecks = {
   parts: [
     "module/population-bound",
     "module/error-message",
-    "module/suggest-closest",
     "module/cli-args",
     "module/repo-root",
     "module/addon-roster-guard",

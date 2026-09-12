@@ -89,7 +89,7 @@ export const athenaCommandModules = {
       statement:
         "A refusal over a misspelled name points at the nearest name, worked out in one place.",
       workingMemory:
-        "`change-running.module.code.ts:362,377` answers the whole act list with no nearest match. `parse-args.module.code.ts:88-93` already answers `did you mean`, through `suggestClosest` at `temper/build-deploy-checks/suggest-closest/`, whose other reader is `cli-args`. That module is a nearest-word matcher rather than a build check, so it moves, and one place answers the nearest name for every command rather than each command reaching for it itself.\n",
+        "`change-running.module.code.ts:362,377` answers the whole act list with no nearest match. `parse-args.module.code.ts:88-93` already answers `did you mean`, through `suggestClosest` at `utils/text/suggest-closest/`, whose other reader is `cli-args`. That module is a nearest-word matcher rather than a build check, so it moves, and one place answers the nearest name for every command rather than each command reaching for it itself.\n",
     },
   ],
   constraints: [

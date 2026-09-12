@@ -11,5 +11,6 @@ export const utilsText = {
     "module/seconds",
     "module/name-drawing",
     "module/shortened",
+    "module/suggest-closest",
   ],
 } as const satisfies Domain
