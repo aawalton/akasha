@@ -4,7 +4,6 @@ import {
   YELLOW,
 } from "akasha/design/interfaces/tokens/semantic-color/semantic-color.module.code.ts"
 import { TEXT_SECONDARY } from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
-import type { ActiveQuest } from "akasha/temper/characters-addon/characters-active-quests/characters-active-quests.module.code.ts"
 import {
   countSuffix,
   progressSuffix,
@@ -27,6 +26,7 @@ import {
 } from "akasha/temper/characters-addon/characters-task-hud-state/characters-task-hud-state.module.code.ts"
 import { isTaskComplete } from "akasha/temper/characters-addon/characters-task-hud-visibility/characters-task-hud-visibility.module.code.ts"
 import { resolveTaskProgress } from "akasha/temper/characters-addon/characters-task-progress-resolver/characters-task-progress-resolver.module.code.ts"
+import type { ActiveQuest } from "akasha/temper/characters-addon/modules/characters-active-quests/characters-active-quests.module.code.ts"
 import type { TaskData } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 
 const SUFFIX_GAP = 4

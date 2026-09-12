@@ -5,8 +5,6 @@ import {
   finishPerfTrace,
   startPerfTrace,
 } from "akasha/temper/capture-perf/perf-trace/perf-trace.module.code.ts"
-import { collectAchievements } from "akasha/temper/characters-addon/characters-achievements/characters-achievements.module.code.ts"
-import { collectAllianceRank } from "akasha/temper/characters-addon/characters-alliance-rank/characters-alliance-rank.module.code.ts"
 import { collectAntiquityLore } from "akasha/temper/characters-addon/characters-antiquity-lore/characters-antiquity-lore.module.code.ts"
 import { collectBagSize } from "akasha/temper/characters-addon/characters-bag-size/characters-bag-size.module.code.ts"
 import { collectCadwell } from "akasha/temper/characters-addon/characters-cadwell/characters-cadwell.module.code.ts"
@@ -45,6 +43,8 @@ import { collectTraitResearch } from "akasha/temper/characters-addon/characters-
 import { collectTributeCardUpgrades } from "akasha/temper/characters-addon/characters-tribute-card-upgrades/characters-tribute-card-upgrades.module.code.ts"
 import { toggleWindow } from "akasha/temper/characters-addon/characters-window/characters-window.module.code.ts"
 import { collectZoneCompletion } from "akasha/temper/characters-addon/characters-zone-completion/characters-zone-completion.module.code.ts"
+import { collectAchievements } from "akasha/temper/characters-addon/modules/characters-achievements/characters-achievements.module.code.ts"
+import { collectAllianceRank } from "akasha/temper/characters-addon/modules/characters-alliance-rank/characters-alliance-rank.module.code.ts"
 import {
   saveAccountSkillMorphProgress,
   saveSkillMorphProgress,

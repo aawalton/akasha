@@ -1,8 +1,8 @@
+import { tallyDone } from "akasha/temper/characters-addon/characters-progress-tally/characters-progress-tally.module.code.ts"
 import {
   getAccountAchievementCategoryMap,
   getCharacterAchievementCategoryMap,
-} from "akasha/temper/characters-addon/characters-achievements/characters-achievements.module.code.ts"
-import { tallyDone } from "akasha/temper/characters-addon/characters-progress-tally/characters-progress-tally.module.code.ts"
+} from "akasha/temper/characters-addon/modules/characters-achievements/characters-achievements.module.code.ts"
 import type { AchievementCriteriaProgress } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import type { AccountCompletion } from "akasha/temper/completion/completion-record/completion-record.module.code.ts"
 import type { SavedCharacterEntry } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"

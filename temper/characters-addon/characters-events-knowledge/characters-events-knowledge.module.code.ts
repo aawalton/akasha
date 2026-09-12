@@ -1,4 +1,3 @@
-import { saveAchievementProgress } from "akasha/temper/characters-addon/characters-achievements/characters-achievements.module.code.ts"
 import {
   refreshAllAntiquityLore,
   updateAntiquityLore,
@@ -23,6 +22,7 @@ import {
 import { updateSkillPoints } from "akasha/temper/characters-addon/characters-skill-points/characters-skill-points.module.code.ts"
 import { scheduleTaskAutoCompletionCheck } from "akasha/temper/characters-addon/characters-task-auto-complete/characters-task-auto-complete.module.code.ts"
 import { updateTraitResearch } from "akasha/temper/characters-addon/characters-trait-research/characters-trait-research.module.code.ts"
+import { saveAchievementProgress } from "akasha/temper/characters-addon/modules/characters-achievements/characters-achievements.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/player-completion-state/completion-addon-constants/completion-addon-constants.module.code.ts"
 
 const TRAIT_RESEARCH_EVENTS = [

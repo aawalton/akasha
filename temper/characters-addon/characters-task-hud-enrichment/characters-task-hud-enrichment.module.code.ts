@@ -1,10 +1,3 @@
-import {
-  type ActiveAntiquityLead,
-  collectActiveAntiquityLeads,
-  isActionableLead,
-  isLegendaryLead,
-  isMotifLead,
-} from "akasha/temper/characters-addon/characters-antiquity-lead-checks/characters-antiquity-lead-checks.module.code.ts"
 import { currentCharacterEntry } from "akasha/temper/characters-addon/characters-current-entry/characters-current-entry.module.code.ts"
 import { taskHasCardAndPathEntry } from "akasha/temper/characters-addon/characters-task-card-match/characters-task-card-match.module.code.ts"
 import {
@@ -16,6 +9,13 @@ import {
   pickFirstIncompleteCompanionRapport,
 } from "akasha/temper/characters-addon/characters-task-hud-companion-rapport/characters-task-hud-companion-rapport.module.code.ts"
 import { UNDAUNTED_SKILL_LINE_ID } from "akasha/temper/characters-addon/characters-task-hud-state/characters-task-hud-state.module.code.ts"
+import {
+  type ActiveAntiquityLead,
+  collectActiveAntiquityLeads,
+  isActionableLead,
+  isLegendaryLead,
+  isMotifLead,
+} from "akasha/temper/characters-addon/modules/characters-antiquity-lead-checks/characters-antiquity-lead-checks.module.code.ts"
 import { LORE_LIBRARY_DATA } from "akasha/temper/completion/lore-library-data/lore-library-data.module.code.ts"
 import {
   findFirstIncompleteCadwellZone,
