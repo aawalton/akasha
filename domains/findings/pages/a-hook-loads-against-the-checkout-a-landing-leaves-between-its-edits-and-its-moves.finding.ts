@@ -4,7 +4,7 @@ export const aHookLoadsAgainstTheCheckoutALandingLeavesBetweenItsEditsAndItsMove
   id: "01a09641-4f95-7824-93ef-74728268e524",
   type: "finding",
   slug: "a-hook-loads-against-the-checkout-a-landing-leaves-between-its-edits-and-its-moves",
-  domain: "domain/agent",
+  domain: "domain/hook",
   claim:
     "A landing writes every edited body before it moves any file: `landing.module.code.ts:341` runs `wroteOnto`, `:342` settles the index, and `:343` runs `movedOnto`. Between the first and the third the checkout names files where they are going and they are not there. A hook resolves its imports against that checkout at every call, `hook-dispatch.module.code.ts:136` spawning a fresh process per hook per call with no commit named anywhere on that road. A process that cannot load exits nonzero, and `:130-132` turns any nonzero exit that is not 2 into a refusal. `block-akasha-shell-writes` sorts first among the ten hooks over Bash and reaches 144 files by import, 37 of them not yet moved. While that window is open every bash call from every agent is refused, and a bash call is how an agent would report it.",
   evidence:
