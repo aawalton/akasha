@@ -96,7 +96,7 @@ async function generating(read: Named): Promise<Answer> {
   }
 }
 
-export async function talosSecretsGen(argv: readonly string[]): Promise<Answer> {
+export async function talosSecretGen(argv: readonly string[]): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
   try {
