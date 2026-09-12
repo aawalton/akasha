@@ -8,7 +8,6 @@ export const theaChecksSystem = {
   persona: "thea",
   intents: [],
   constraints: [
-    "An experimental check is out of scope.",
     "Each check takes one turn per step, and no turn carries two steps.",
     "Work a step turns up is finished rather than filed, however long that makes the initiative.",
   ],
