@@ -69,7 +69,7 @@ export function credentialOf(slug: string, said: Partial<Credential> = {}): Cred
 
 export const NOWHERE = "/var/tmp/credential-push-no-such-root"
 
-export const FAILED: readonly string[] = ["[gate] fail: the landing said no"]
+const FAILED: readonly string[] = ["[gate] fail: the landing said no"]
 
 const PUT = "change-mechanical-file/add-file"
 
@@ -127,7 +127,7 @@ export function sopsIn(said: Partial<Doors> = {}): Sops {
   return { doors, held, landed }
 }
 
-export function bodiesOf(asked: readonly Asking[]): ReadonlyMap<string, string> {
+function bodiesOf(asked: readonly Asking[]): ReadonlyMap<string, string> {
   const held = new Map<string, string>()
   for (const one of asked) if (one.at === PUT) held.set(one.given.at, one.given.body)
   return held
@@ -183,7 +183,7 @@ export function committingThenThrowingLanding(sops: Sops): Doors["landing"] {
   }
 }
 
-export function refusingLanding(refusals: readonly string[]): Doors["landing"] {
+function refusingLanding(refusals: readonly string[]): Doors["landing"] {
   return async () => ({ refusals, code: EXIT.DATA })
 }
 
