@@ -1,4 +1,7 @@
-import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  INPUT,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
   type Answer,
   type Given,
@@ -34,12 +37,12 @@ export function gitPush(argv: readonly string[], given: Given): Answer {
   if (remote === null) {
     return refused(
       "no remote is named in this checkout, so there is nowhere to carry the branch",
-      INPUT
+      OPERATIONAL
     )
   }
   const branch = branchIn(root)
   if (branch === null) {
-    return refused("HEAD is on no branch, so there is no branch to carry", INPUT)
+    return refused("HEAD is on no branch, so there is no branch to carry", OPERATIONAL)
   }
   if (dry) {
     return {
@@ -49,6 +52,6 @@ export function gitPush(argv: readonly string[], given: Given): Answer {
     }
   }
   const outcome = pushBranch(root)
-  if (outcome.failed) return refused(outcome.line, INPUT)
+  if (outcome.failed) return refused(outcome.line, OPERATIONAL)
   return { report: [outcome.line], refusals: [], code: 0 }
 }

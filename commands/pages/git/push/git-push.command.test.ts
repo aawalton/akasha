@@ -53,7 +53,7 @@ check("an argument naming what is carried is refused, and nothing is carried", (
 check("a checkout naming no remote is refused rather than reported as done", () => {
   const root = checkout()
   const said = gitPush([], given(root))
-  expect(said.code).toBe(1)
+  expect(said.code).toBe(3)
   expect(said.refusals[0]).toContain("no remote")
 })
 
@@ -62,7 +62,7 @@ check("a HEAD on no branch is refused", () => {
   remoted(root)
   gitIn(root, ["checkout", "--detach"])
   const said = gitPush([], given(root))
-  expect(said.code).toBe(1)
+  expect(said.code).toBe(3)
   expect(said.refusals[0]).toContain("no branch")
 })
 
@@ -98,6 +98,6 @@ check("a remote that has moved ahead refuses the push and keeps what it carries"
 
   committed(root, "three.txt")
   const said = gitPush([], given(root))
-  expect(said.code).toBe(1)
+  expect(said.code).toBe(3)
   expect(gitIn(bare, ["rev-parse", "main"])).toBe(carried)
 })
