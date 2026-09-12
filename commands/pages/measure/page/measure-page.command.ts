@@ -9,14 +9,27 @@ export const measurePage = {
   changeKind: "change-mechanical",
   parts: ["module/page-measuring"],
   taking: [],
-  helpNotes: [
-    "a page type is the second part of a file name, so `amy.persona.ts` is a `persona` page.",
-    "the pages of a page type and the property files beside them are counted apart.",
-    "a file naming a page type nothing declares is counted under no page type.",
-    "a secret beside a page is no property, so a `sops` file sits outside the page types.",
-    "how many files are no page at all is said beneath the total.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A page type is the second part of a file name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The pages of a page type and the property files beside them are counted apart.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file naming a page type nothing declares is counted under no page type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A secret beside a page is no property file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "How many files are no page at all is said beneath the total.",
+    },
     {
       invariantKind: "absence",
       statement: "A run writes no value the commit has.",
