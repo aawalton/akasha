@@ -97,7 +97,7 @@ export function bankIsCorrectStorage(ctx: BankSlotContext, dest: string): boolea
   return false
 }
 
-export function bankCountInBag(bag: number, targetItemId: number, excludeStolen?: boolean): number {
+export function countItemInBag(bag: number, targetItemId: number, excludeStolen?: boolean): number {
   let count = 0
   const size = GetBagSize(bag)
   for (let slot = 0; slot < size; slot++) {
@@ -113,10 +113,10 @@ export function bankCountInBag(bag: number, targetItemId: number, excludeStolen?
 export function bankCountItemInStorage(ctx: BankSlotContext, targetItemId: number): number {
   let total = 0
   if (ctx.isBank) {
-    total += bankCountInBag(BAG_BANK, targetItemId)
-    if (IsESOPlusSubscriber()) total += bankCountInBag(BAG_SUBSCRIBER_BANK, targetItemId)
+    total += countItemInBag(BAG_BANK, targetItemId)
+    if (IsESOPlusSubscriber()) total += countItemInBag(BAG_SUBSCRIBER_BANK, targetItemId)
   } else if (ctx.isHouseStorage) {
-    total += bankCountInBag(ctx.bankingBag, targetItemId)
+    total += countItemInBag(ctx.bankingBag, targetItemId)
   }
   return total
 }

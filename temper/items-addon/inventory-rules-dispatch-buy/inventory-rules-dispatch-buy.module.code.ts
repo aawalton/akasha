@@ -13,7 +13,7 @@ import {
   reportAction,
   reportPendingAction,
 } from "akasha/temper/items-addon/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
-import { bankCountInBag } from "akasha/temper/items-addon/inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
+import { countItemInBag } from "akasha/temper/items-addon/inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
 import { computeBuyShortfall } from "akasha/temper/items-rules-core/buy-rule-eval/buy-rule-eval.module.code.ts"
 
 interface BuyTarget {
@@ -46,7 +46,7 @@ export function dispatchBuyRules(): undefined {
     const itemId = tonumber(itemIdStr)
     if (itemId === undefined) continue
 
-    const liveCurrent = bankCountInBag(BAG_BACKPACK, itemId, true)
+    const liveCurrent = countItemInBag(BAG_BACKPACK, itemId, true)
     const byChar = compiled.buyStockByChar?.[itemId]
     const accountStock = compiled.buyStockAccount?.[itemId]
     const globalTotal = computeGlobalTotal(liveCurrent, currentCharId, byChar, accountStock)

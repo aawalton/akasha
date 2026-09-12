@@ -6,7 +6,7 @@ import {
   isDeconUsefulForCurrent,
 } from "akasha/temper/items-addon/inventory-rules-core-inspire/inventory-rules-core-inspire.module.code.ts"
 import { knowsMotifByCharData } from "akasha/temper/items-addon/inventory-rules-core-motif-knowledge/inventory-rules-core-motif-knowledge.module.code.ts"
-import { bankCountInBag } from "akasha/temper/items-addon/inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
+import { countItemInBag } from "akasha/temper/items-addon/inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
 import { getSavedVariables } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import { countScripts } from "akasha/temper/items-addon/inventory-scribing-knowledge/inventory-scribing-knowledge.module.code.ts"
 import { getTemperCharactersData } from "akasha/temper/items-addon/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
@@ -199,7 +199,7 @@ export function buildEsoEvalEnv(): EvalEnv {
     },
 
     getConsumableStock: (itemId, charId) => {
-      if (charId === currentId) return bankCountInBag(BAG_BACKPACK, itemId, true)
+      if (charId === currentId) return countItemInBag(BAG_BACKPACK, itemId, true)
       const stockByChar = compiled?.consumableStock[itemId]
       if (!stockByChar) return 0
       return stockByChar[charId] ?? 0
@@ -209,8 +209,8 @@ export function buildEsoEvalEnv(): EvalEnv {
       return compiled.wantedConsumables[itemId] ?? []
     },
     getBankStock: (itemId) => {
-      let total = bankCountInBag(BAG_BANK, itemId, true)
-      if (IsESOPlusSubscriber()) total += bankCountInBag(BAG_SUBSCRIBER_BANK, itemId, true)
+      let total = countItemInBag(BAG_BANK, itemId, true)
+      if (IsESOPlusSubscriber()) total += countItemInBag(BAG_SUBSCRIBER_BANK, itemId, true)
       return total
     },
 

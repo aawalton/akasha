@@ -3,7 +3,7 @@ import {
   computeGlobalTotal,
 } from "akasha/temper/items-addon/inventory-rules-buy-core/inventory-rules-buy-core.module.code.ts"
 import { getCompiledConfig } from "akasha/temper/items-addon/inventory-rules-core/inventory-rules-core.module.code.ts"
-import { bankCountInBag } from "akasha/temper/items-addon/inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
+import { countItemInBag } from "akasha/temper/items-addon/inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
 import type {
   BuyExplainRule,
   BuyExplainStoreScan,
@@ -58,7 +58,7 @@ function buildRuleEntry(
   numEntries: number,
   playerMoney: number
 ): BuyExplainRule {
-  const liveCurrent = bankCountInBag(BAG_BACKPACK, itemId, true)
+  const liveCurrent = countItemInBag(BAG_BACKPACK, itemId, true)
   const accountStock = compiled.buyStockAccount?.[itemId] ?? 0
   const byChar = compiled.buyStockByChar?.[itemId]
   const byCharSum = sumByCharExcludingCurrent(byChar, currentCharId)
