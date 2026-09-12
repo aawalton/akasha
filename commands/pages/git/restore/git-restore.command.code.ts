@@ -5,6 +5,7 @@ import { filePath } from "akasha/commands/arguments/pages/file-path.argument.ts"
 import {
   INPUT,
   OPERATIONAL,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
   type Answer,
@@ -337,5 +338,5 @@ export function gitRestore(argv: readonly string[], given: Given): Answer {
       OPERATIONAL
     )
   }
-  return answeredWith(reportOf(going, left, judged.cleared, given.calledAs), [], 0)
+  return told(reportOf(going, left, judged.cleared, given.calledAs))
 }
