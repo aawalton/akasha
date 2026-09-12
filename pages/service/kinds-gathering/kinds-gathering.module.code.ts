@@ -76,10 +76,7 @@ export function pagesOfType(
 }
 
 export function kindsFor(root: string, pageTypeSlug: string): readonly string[] {
-  const pages = new Map<string, Value>()
-  for (const one of valuesOfType(root, PAGE_TYPE)) pages.set(one.path, one.value)
-  const under = kindsUnder(pageTypeSlug, readingIn(root), (path) => pages.get(path) ?? null)
-  return [...under].sort()
+  return [...kindsUnder(pageTypeSlug, readingIn(root))].sort()
 }
 
 function textOver(root: string): TextOf {
