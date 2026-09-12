@@ -3,11 +3,11 @@ import type {
   Answered,
   AnsweredRow,
   Page,
-} from "akasha/alan/track/daily/day-narrow-types/day-narrow-types.module.code.ts"
+} from "akasha/alan/track/daily/modules/day-narrow-types/day-narrow-types.module.code.ts"
 import {
   checkoutRoot,
   DAY_PAGE_TYPE,
-} from "akasha/alan/track/daily/day-place/day-place.module.code.ts"
+} from "akasha/alan/track/daily/modules/day-place/day-place.module.code.ts"
 import { pageOf } from "akasha/alan/track/daily/track-pages/track-pages.module.code.ts"
 import { kebabisedRow } from "akasha/pages/modules/akasha-page-values/akasha-page-values.module.code.ts"
 import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"

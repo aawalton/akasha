@@ -6,11 +6,11 @@ let handed: unknown = null
 let ends: (thrown: unknown) => undefined = (): undefined => undefined
 
 const watching = await import(
-  "akasha/alan/harness/alan-readouts/day-readout-watching/day-readout-watching.module.code.ts"
+  "akasha/alan/harness/alan-readouts/modules/day-readout-watching/day-readout-watching.module.code.ts"
 )
 
 mock.module(
-  "akasha/alan/harness/alan-readouts/day-readout-watching/day-readout-watching.module.code.ts",
+  "akasha/alan/harness/alan-readouts/modules/day-readout-watching/day-readout-watching.module.code.ts",
   () => ({
     ...watching,
     watchDayReadings: (said: unknown, ended: (thrown: unknown) => undefined): (() => undefined) => {
@@ -68,7 +68,7 @@ test("a watch that ends carries out what ended it, so the unit fails rather than
 
 test("a watch that could not start is carried out rather than swallowed, so a failed start is a failed unit", async () => {
   mock.module(
-    "akasha/alan/harness/alan-readouts/day-readout-watching/day-readout-watching.module.code.ts",
+    "akasha/alan/harness/alan-readouts/modules/day-readout-watching/day-readout-watching.module.code.ts",
     () => ({
       ...watching,
       watchDayReadings: (): (() => undefined) => {

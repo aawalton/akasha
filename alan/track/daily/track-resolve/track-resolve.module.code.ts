@@ -5,14 +5,17 @@ import {
 import type {
   Page,
   PageAccessClient,
-} from "akasha/alan/track/daily/day-narrow-types/day-narrow-types.module.code.ts"
-import { landDayPage } from "akasha/alan/track/daily/day-place/day-place.module.code.ts"
-import { dayByDate, dayById } from "akasha/alan/track/daily/day-reading/day-reading.module.code.ts"
+} from "akasha/alan/track/daily/modules/day-narrow-types/day-narrow-types.module.code.ts"
+import { landDayPage } from "akasha/alan/track/daily/modules/day-place/day-place.module.code.ts"
+import {
+  dayByDate,
+  dayById,
+} from "akasha/alan/track/daily/modules/day-reading/day-reading.module.code.ts"
 import {
   openSession,
   sessionsBefore,
   sessionsOfDay,
-} from "akasha/alan/track/daily/day-stretches/day-stretches.module.code.ts"
+} from "akasha/alan/track/daily/modules/day-stretches/day-stretches.module.code.ts"
 import {
   displayTitle,
   fieldStr,

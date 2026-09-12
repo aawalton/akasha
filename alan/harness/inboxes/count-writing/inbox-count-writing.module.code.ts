@@ -5,12 +5,12 @@ import {
   type InboxKey,
 } from "akasha/alan/harness/inboxes/keys/inbox-keys.module.code.ts"
 import { statedAt } from "akasha/alan/harness/readouts/tier/readout-tier.module.code.ts"
-import { openedDayOf } from "akasha/alan/track/daily/day-opening/day-opening.module.code.ts"
+import { openedDayOf } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
 import {
   DAILY_TRACKING,
   landDayPage,
-} from "akasha/alan/track/daily/day-place/day-place.module.code.ts"
-import { askDayByDate } from "akasha/alan/track/daily/day-reading/day-reading.module.code.ts"
+} from "akasha/alan/track/daily/modules/day-place/day-place.module.code.ts"
+import { askDayByDate } from "akasha/alan/track/daily/modules/day-reading/day-reading.module.code.ts"
 import { resolveOrCreateDaily } from "akasha/alan/track/daily/track-resolve/track-resolve.module.code.ts"
 import { resolveRoots } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 

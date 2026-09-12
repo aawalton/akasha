@@ -13,7 +13,7 @@ export const askingForOneDaysStretchesReadsEveryDaysStretches = {
     "The five-minute reading timers pay it on every beat and the new readout watch pays it on " +
     "every take.",
   evidence:
-    "`sessionsAnswered` in `alan/track/daily/day-stretches/day-stretches.module.code.ts` asks " +
+    "`sessionsAnswered` in `alan/track/daily/modules/day-stretches/day-stretches.module.code.ts` asks " +
     '`asking(root, { pageTypeSlug: DAY_PAGE_TYPE, keys: ["slug", "sessions"] })` with no ' +
     "`where`. It then flattens every day's `sessions` list into rows and only afterwards " +
     "filters them, so `sessionsOfDay(dailyId)` narrows on `daily-tracking` over rows already " +

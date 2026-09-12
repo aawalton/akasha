@@ -7,7 +7,7 @@ import {
 import {
   openedDayOf,
   openedDayWindow,
-} from "akasha/alan/track/daily/day-opening/day-opening.module.code.ts"
+} from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
 import { rootStated } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import {
   AKASHA,

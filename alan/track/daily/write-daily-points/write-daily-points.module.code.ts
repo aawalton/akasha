@@ -1,9 +1,9 @@
-import type { Page } from "akasha/alan/track/daily/day-narrow-types/day-narrow-types.module.code.ts"
+import type { Page } from "akasha/alan/track/daily/modules/day-narrow-types/day-narrow-types.module.code.ts"
 import {
   DAILY_TRACKING,
   landDayPage,
-} from "akasha/alan/track/daily/day-place/day-place.module.code.ts"
-import { dayByDate } from "akasha/alan/track/daily/day-reading/day-reading.module.code.ts"
+} from "akasha/alan/track/daily/modules/day-place/day-place.module.code.ts"
+import { dayByDate } from "akasha/alan/track/daily/modules/day-reading/day-reading.module.code.ts"
 
 export type WriteOutcome = "patched" | "created" | "unchanged"
 

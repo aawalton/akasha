@@ -4,7 +4,7 @@ import {
   MS_PER_DAY,
   NOON,
   parseDay,
-} from "akasha/alan/harness/day/string/day-string.module.code.ts"
+} from "akasha/alan/harness/day/modules/string/day-string.module.code.ts"
 import { loadActiveCaloriesByDay } from "akasha/alan/harness/health-samples-day/modules/active-calories/active-calories.module.code.ts"
 import {
   type WriteOutcome,

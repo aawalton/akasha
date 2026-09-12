@@ -1,6 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Landed } from "akasha/alan/track/daily/day-narrow-types/day-narrow-types.module.code.ts"
+import type { Landed } from "akasha/alan/track/daily/modules/day-narrow-types/day-narrow-types.module.code.ts"
 import {
   AKASHA_DAY_PAGE_TYPE,
   COMPLETED_TASKS_SLUG,

@@ -8,7 +8,7 @@ import {
   isTierColor,
   type Rung,
 } from "akasha/alan/harness/surplus/fall-tier/surplus-fall-tier.module.code.ts"
-import { dayValuesByDate } from "akasha/alan/track/daily/day-reading/day-reading.module.code.ts"
+import { dayValuesByDate } from "akasha/alan/track/daily/modules/day-reading/day-reading.module.code.ts"
 import type { Query } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 

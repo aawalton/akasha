@@ -1,7 +1,7 @@
 import {
   openedDayOf,
   openedWindowOn,
-} from "akasha/alan/track/daily/day-opening/day-opening.module.code.ts"
+} from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
 import {
   type WriteOutcome,
   writeIntelligenceTopics,

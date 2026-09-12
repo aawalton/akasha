@@ -1,9 +1,9 @@
-import type { ReadonlyJSONValue } from "akasha/alan/track/daily/day-narrow-types/day-narrow-types.module.code.ts"
-import { textOf } from "akasha/alan/track/daily/day-scan-window/day-scan-window.module.code.ts"
+import type { ReadonlyJSONValue } from "akasha/alan/track/daily/modules/day-narrow-types/day-narrow-types.module.code.ts"
+import { textOf } from "akasha/alan/track/daily/modules/day-scan-window/day-scan-window.module.code.ts"
 import {
   allSessions,
   sessionPropertyUndeclared,
-} from "akasha/alan/track/daily/day-stretches/day-stretches.module.code.ts"
+} from "akasha/alan/track/daily/modules/day-stretches/day-stretches.module.code.ts"
 import { personaRecipeRows } from "akasha/alan/track/daily/persona-recipe-rows/persona-recipe-rows.module.code.ts"
 import {
   PersonaSessionRowSchema,

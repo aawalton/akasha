@@ -18,9 +18,9 @@ import { keepReading } from "akasha/alan/harness/readouts/reading/readout-readin
 import {
   openedDayOf,
   openedDayWindow,
-} from "akasha/alan/track/daily/day-opening/day-opening.module.code.ts"
-import { askDayByDate } from "akasha/alan/track/daily/day-reading/day-reading.module.code.ts"
-import { sessionsOfDay } from "akasha/alan/track/daily/day-stretches/day-stretches.module.code.ts"
+} from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
+import { askDayByDate } from "akasha/alan/track/daily/modules/day-reading/day-reading.module.code.ts"
+import { sessionsOfDay } from "akasha/alan/track/daily/modules/day-stretches/day-stretches.module.code.ts"
 import { rootStated } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import {
   AKASHA,

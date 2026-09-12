@@ -1,4 +1,4 @@
-import type { Page } from "akasha/alan/track/daily/day-narrow-types/day-narrow-types.module.code.ts"
+import type { Page } from "akasha/alan/track/daily/modules/day-narrow-types/day-narrow-types.module.code.ts"
 import { camelizeKey } from "akasha/utils/slug/modules/camelize-key/camelize-key.module.code.ts"
 
 const HELD_SEQ = 0

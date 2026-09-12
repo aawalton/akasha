@@ -1,4 +1,4 @@
-import { dayStrOf } from "akasha/alan/harness/day/string/day-string.module.code.ts"
+import { dayStrOf } from "akasha/alan/harness/day/modules/string/day-string.module.code.ts"
 import { denverOffsetMs } from "akasha/alan/harness/day/us-zone-offset/us-zone-offset.module.code.ts"
 
 export function getDenverDayEnd(now: Date): Date {

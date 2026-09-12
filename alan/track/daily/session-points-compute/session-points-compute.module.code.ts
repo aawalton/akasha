@@ -1,9 +1,9 @@
-import type { ReadonlyJSONValue } from "akasha/alan/track/daily/day-narrow-types/day-narrow-types.module.code.ts"
+import type { ReadonlyJSONValue } from "akasha/alan/track/daily/modules/day-narrow-types/day-narrow-types.module.code.ts"
 import {
   openedDayOf,
   openedWindowOn,
-} from "akasha/alan/track/daily/day-opening/day-opening.module.code.ts"
-import { numberOf } from "akasha/alan/track/daily/day-scan-window/day-scan-window.module.code.ts"
+} from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
+import { numberOf } from "akasha/alan/track/daily/modules/day-scan-window/day-scan-window.module.code.ts"
 import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
 import { z } from "zod"
 

@@ -52,7 +52,7 @@ const {
   landDayPage,
   landSessionRow,
   sessionRowAt,
-} = await import("akasha/alan/track/daily/day-place/day-place.module.code.ts")
+} = await import("akasha/alan/track/daily/modules/day-place/day-place.module.code.ts")
 
 function daysOnDisk(): readonly string[] {
   if (!existsSync(CORPUS)) return []

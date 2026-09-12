@@ -1,7 +1,7 @@
 import {
   numberOf,
   textOf,
-} from "akasha/alan/track/daily/day-scan-window/day-scan-window.module.code.ts"
+} from "akasha/alan/track/daily/modules/day-scan-window/day-scan-window.module.code.ts"
 import type { Asked, Query, Row } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 

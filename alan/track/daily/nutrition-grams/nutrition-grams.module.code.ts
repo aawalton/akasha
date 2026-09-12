@@ -1,5 +1,5 @@
-import { openedDayWindow } from "akasha/alan/track/daily/day-opening/day-opening.module.code.ts"
-import { numberOf } from "akasha/alan/track/daily/day-scan-window/day-scan-window.module.code.ts"
+import { openedDayWindow } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
+import { numberOf } from "akasha/alan/track/daily/modules/day-scan-window/day-scan-window.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
