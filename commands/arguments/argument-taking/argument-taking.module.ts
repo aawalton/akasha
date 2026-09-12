@@ -60,6 +60,11 @@ export const argumentTaking = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A whole number is read as the call wrote it, so one padded with spaces is refused.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An argument whose value is another argument is an argument no value follows.",
     },
     {
