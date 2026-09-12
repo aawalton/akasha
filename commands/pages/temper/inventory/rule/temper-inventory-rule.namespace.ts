@@ -13,6 +13,7 @@ export const temperInventoryRule = {
     "command/temper-inventory-rule-lock",
     "command/temper-inventory-rule-reorder",
     "command/temper-inventory-rule-show",
+    "command/temper-inventory-rule-takes",
     "command/temper-inventory-rule-unlock",
     "command/temper-inventory-rule-update",
   ],
