@@ -239,5 +239,14 @@ export const checkCost = {
       invariantKind: "absence",
       statement: "Nothing here has a lock against another writer of the same file.",
     },
+    {
+      invariantKind: "gap",
+      statement: "A file passes the ceiling where two writers read its size before either appends.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "A line whose next file cannot be named is appended to the full file rather than refused.",
+    },
   ],
 } as const satisfies Module
