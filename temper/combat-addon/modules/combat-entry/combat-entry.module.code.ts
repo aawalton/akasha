@@ -11,12 +11,12 @@ import "akasha/temper/combat-addon/combat-ui-selection/combat-ui-selection.modul
 import "akasha/temper/combat-addon/combat-ui-tooltips/combat-ui-tooltips.module.code.ts"
 
 import { registerAddonInit } from "akasha/temper/addon-init/modules/addon-init/addon-init.module.code.ts"
-import { resetFight } from "akasha/temper/combat-addon/combat-lib-fight/combat-lib-fight.module.code.ts"
 import { getCombatLogString } from "akasha/temper/combat-addon/combat-lib-log-strings/combat-lib-log-strings.module.code.ts"
 import { registerStrings } from "akasha/temper/combat-addon/combat-strings/combat-strings.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/combat-addon/modules/combat-constants/combat-constants.module.code.ts"
 import { setCombatLogStringFormatter } from "akasha/temper/combat-addon/modules/combat-core-events/combat-core-events.module.code.ts"
 import { initializeCore } from "akasha/temper/combat-addon/modules/combat-core-init/combat-core-init.module.code.ts"
+import { resetFight } from "akasha/temper/combat-addon/modules/combat-lib-fight/combat-lib-fight.module.code.ts"
 
 registerStrings()
 

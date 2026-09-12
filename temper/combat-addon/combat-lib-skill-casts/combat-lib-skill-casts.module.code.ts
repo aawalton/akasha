@@ -1,8 +1,4 @@
 import {
-  LOG_LEVEL_VERBOSE,
-  log,
-} from "akasha/temper/combat-addon/combat-lib-log/combat-lib-log.module.code.ts"
-import {
   getCurrentSkillBars,
   ID_TO_REDUCED_SLOT,
 } from "akasha/temper/combat-addon/combat-lib-skill-bars/combat-lib-skill-bars.module.code.ts"
@@ -35,6 +31,10 @@ import {
   LIBCOMBAT_SKILLSTATUS_SUCCESS,
   maxSkillDelay,
 } from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
+import {
+  LOG_LEVEL_VERBOSE,
+  log,
+} from "akasha/temper/combat-addon/modules/combat-lib-log/combat-lib-log.module.code.ts"
 
 let heavyAttackCharging: number | undefined
 

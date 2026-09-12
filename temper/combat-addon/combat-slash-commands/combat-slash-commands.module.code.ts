@@ -1,4 +1,3 @@
-import { resetFight } from "akasha/temper/combat-addon/combat-lib-fight/combat-lib-fight.module.code.ts"
 import {
   POSTTOCHAT_MODE_HEALING,
   POSTTOCHAT_MODE_MULTI,
@@ -7,6 +6,7 @@ import {
   postToChat,
 } from "akasha/temper/combat-addon/combat-ui-chat-report/combat-ui-chat-report.module.code.ts"
 import { toggleReport } from "akasha/temper/combat-addon/combat-ui-window/combat-ui-window.module.code.ts"
+import { resetFight } from "akasha/temper/combat-addon/modules/combat-lib-fight/combat-lib-fight.module.code.ts"
 
 function slashCommandFunction(this: void, extra: string): undefined {
   if (extra === "reset") {

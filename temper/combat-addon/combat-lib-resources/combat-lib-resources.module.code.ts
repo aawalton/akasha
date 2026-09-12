@@ -1,8 +1,3 @@
-import {
-  LOG_LEVEL_DEBUG,
-  LOG_LEVEL_INFO,
-  log,
-} from "akasha/temper/combat-addon/combat-lib-log/combat-lib-log.module.code.ts"
 import type { CombatEventHandler } from "akasha/temper/combat-addon/combat-lib-message-types/combat-lib-message-types.module.code.ts"
 import {
   DATA,
@@ -23,6 +18,11 @@ import {
   LIBCOMBAT_STAT_MAXMAGICKA,
   LIBCOMBAT_STAT_STATUS_EFFECT_CHANCE,
 } from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
+import {
+  LOG_LEVEL_DEBUG,
+  LOG_LEVEL_INFO,
+  log,
+} from "akasha/temper/combat-addon/modules/combat-lib-log/combat-lib-log.module.code.ts"
 
 function getStat(stat: number): number {
   return GetPlayerStat(stat, STAT_BONUS_OPTION_APPLY_BONUS)

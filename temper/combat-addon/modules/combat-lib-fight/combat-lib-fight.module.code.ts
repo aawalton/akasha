@@ -1,18 +1,3 @@
-import {
-  createFight,
-  finishFight,
-} from "akasha/temper/combat-addon/combat-lib-fight-lifecycle/combat-lib-fight-lifecycle.module.code.ts"
-import {
-  getCritBonusFromCP,
-  getCurrentCP,
-  printDamageStats,
-  updateStats,
-} from "akasha/temper/combat-addon/combat-lib-fight-stats/combat-lib-fight-stats.module.code.ts"
-import {
-  LOG_LEVEL_DEBUG,
-  LOG_LEVEL_INFO,
-  log,
-} from "akasha/temper/combat-addon/combat-lib-log/combat-lib-log.module.code.ts"
 import { getCurrentSkillBars } from "akasha/temper/combat-addon/combat-lib-skill-bars/combat-lib-skill-bars.module.code.ts"
 import {
   clearDamageShieldBuffer,
@@ -49,6 +34,21 @@ import {
   getPlayerBuffs,
   purgeEffectBuffer,
 } from "akasha/temper/combat-addon/modules/combat-lib-effects-buffer/combat-lib-effects-buffer.module.code.ts"
+import {
+  createFight,
+  finishFight,
+} from "akasha/temper/combat-addon/modules/combat-lib-fight-lifecycle/combat-lib-fight-lifecycle.module.code.ts"
+import {
+  getCritBonusFromCP,
+  getCurrentCP,
+  printDamageStats,
+  updateStats,
+} from "akasha/temper/combat-addon/modules/combat-lib-fight-stats/combat-lib-fight-stats.module.code.ts"
+import {
+  LOG_LEVEL_DEBUG,
+  LOG_LEVEL_INFO,
+  log,
+} from "akasha/temper/combat-addon/modules/combat-lib-log/combat-lib-log.module.code.ts"
 
 let RESET = false
 

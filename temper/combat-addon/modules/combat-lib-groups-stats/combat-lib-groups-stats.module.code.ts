@@ -1,12 +1,4 @@
 import {
-  createEventGroup,
-  registerEvent,
-  registerPlayerActivatedEvent,
-  setGroupActive,
-  updateSkillEvents,
-} from "akasha/temper/combat-addon/combat-lib-events/combat-lib-events.module.code.ts"
-import { onCombatEventGrpHealIn } from "akasha/temper/combat-addon/combat-lib-heal/combat-lib-heal.module.code.ts"
-import {
   onBaseResourceChangedGroup,
   onQuickSlotChanged,
   onQuickSlotUsed,
@@ -46,6 +38,14 @@ import {
   onResurrectRequest,
   onResurrectResult,
 } from "akasha/temper/combat-addon/modules/combat-lib-death/combat-lib-death.module.code.ts"
+import {
+  createEventGroup,
+  registerEvent,
+  registerPlayerActivatedEvent,
+  setGroupActive,
+  updateSkillEvents,
+} from "akasha/temper/combat-addon/modules/combat-lib-events/combat-lib-events.module.code.ts"
+import { onCombatEventGrpHealIn } from "akasha/temper/combat-addon/modules/combat-lib-heal/combat-lib-heal.module.code.ts"
 
 createEventGroup(
   "Messages",

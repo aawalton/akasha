@@ -1,7 +1,3 @@
-import {
-  LOG_LEVEL_VERBOSE,
-  log,
-} from "akasha/temper/combat-addon/combat-lib-log/combat-lib-log.module.code.ts"
 import type {
   CombatEventHandler,
   EffectChangedHandler,
@@ -28,6 +24,10 @@ import {
   STATUS_EFFECT_IDS,
 } from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 import { addToEffectBuffer } from "akasha/temper/combat-addon/modules/combat-lib-effects-buffer/combat-lib-effects-buffer.module.code.ts"
+import {
+  LOG_LEVEL_VERBOSE,
+  log,
+} from "akasha/temper/combat-addon/modules/combat-lib-log/combat-lib-log.module.code.ts"
 
 const GROUP_EFFECT_NONE = 0
 const GROUP_EFFECT_IN = 1

@@ -1,8 +1,3 @@
-import { prepareFight } from "akasha/temper/combat-addon/combat-lib-fight/combat-lib-fight.module.code.ts"
-import {
-  LOG_LEVEL_DEBUG,
-  log,
-} from "akasha/temper/combat-addon/combat-lib-log/combat-lib-log.module.code.ts"
 import type { CombatEventHandler } from "akasha/temper/combat-addon/combat-lib-message-types/combat-lib-message-types.module.code.ts"
 import {
   DATA,
@@ -20,6 +15,11 @@ import {
   LIBCOMBAT_STATE_DEAD,
   LIBCOMBAT_STATE_RESURRECTED,
 } from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
+import { prepareFight } from "akasha/temper/combat-addon/modules/combat-lib-fight/combat-lib-fight.module.code.ts"
+import {
+  LOG_LEVEL_DEBUG,
+  log,
+} from "akasha/temper/combat-addon/modules/combat-lib-log/combat-lib-log.module.code.ts"
 
 const LAST_DEATHS: Record<number, number> = {}
 

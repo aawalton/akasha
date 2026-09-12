@@ -1,7 +1,3 @@
-import {
-  LOG_LEVEL_DEBUG,
-  log,
-} from "akasha/temper/combat-addon/combat-lib-log/combat-lib-log.module.code.ts"
 import type {
   BossHpLogLine,
   DeathLogLine,
@@ -54,6 +50,10 @@ import {
   LIBCOMBAT_STAT_WEAPONPENETRATION,
   LIBCOMBAT_STAT_WEAPONPOWER,
 } from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
+import {
+  LOG_LEVEL_DEBUG,
+  log,
+} from "akasha/temper/combat-addon/modules/combat-lib-log/combat-lib-log.module.code.ts"
 
 export type CombatLogLine = (number | string | undefined)[]
 

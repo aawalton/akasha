@@ -1,5 +1,3 @@
-import { initializeLibCombat } from "akasha/temper/combat-addon/combat-lib-init/combat-lib-init.module.code.ts"
-import { setLibCombatLog } from "akasha/temper/combat-addon/combat-lib-log/combat-lib-log.module.code.ts"
 import { makeMenu } from "akasha/temper/combat-addon/combat-menu/combat-menu.module.code.ts"
 import { initializeFightData } from "akasha/temper/combat-addon/combat-saved-fights/combat-saved-fights.module.code.ts"
 import {
@@ -26,6 +24,8 @@ import {
   VARIABLE_PENETRATION_DEBUFF_ABILITY_IDS,
 } from "akasha/temper/combat-addon/modules/combat-data-tables/combat-data-tables.module.code.ts"
 import { setFightDataLog } from "akasha/temper/combat-addon/modules/combat-fight-data-log/combat-fight-data-log.module.code.ts"
+import { initializeLibCombat } from "akasha/temper/combat-addon/modules/combat-lib-init/combat-lib-init.module.code.ts"
+import { setLibCombatLog } from "akasha/temper/combat-addon/modules/combat-lib-log/combat-lib-log.module.code.ts"
 
 export function initializeCore(): undefined {
   const db = initializeSavedVariables()

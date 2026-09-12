@@ -1,9 +1,4 @@
 import {
-  LOG_LEVEL_INFO,
-  LOG_LEVEL_WARNING,
-  log,
-} from "akasha/temper/combat-addon/combat-lib-log/combat-lib-log.module.code.ts"
-import {
   DATA,
   LAST_BOSS_HEALTH_VALUE,
   setLastBossHealthValue,
@@ -18,6 +13,11 @@ import {
   LIBCOMBAT_EVENT_PERFORMANCE,
   PLAYER_ACTIVATED_TIME,
 } from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
+import {
+  LOG_LEVEL_INFO,
+  LOG_LEVEL_WARNING,
+  log,
+} from "akasha/temper/combat-addon/modules/combat-lib-log/combat-lib-log.module.code.ts"
 
 export function getSlottedAbilityId(
   actionSlotIndex: number,

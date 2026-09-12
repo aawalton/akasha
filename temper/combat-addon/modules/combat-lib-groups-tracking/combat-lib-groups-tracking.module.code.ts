@@ -1,9 +1,4 @@
 import {
-  createEventGroup,
-  registerEvent,
-  setGroupActive,
-} from "akasha/temper/combat-addon/combat-lib-events/combat-lib-events.module.code.ts"
-import {
   onBaseResourceChangedDelayed,
   onResourceChanged,
 } from "akasha/temper/combat-addon/combat-lib-resources/combat-lib-resources.module.code.ts"
@@ -32,6 +27,11 @@ import {
   onSpecialBuffEvent,
   onSpecialDebuffEvent,
 } from "akasha/temper/combat-addon/modules/combat-lib-effects/combat-lib-effects.module.code.ts"
+import {
+  createEventGroup,
+  registerEvent,
+  setGroupActive,
+} from "akasha/temper/combat-addon/modules/combat-lib-events/combat-lib-events.module.code.ts"
 
 createEventGroup(
   "Effects",

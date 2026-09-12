@@ -1,9 +1,4 @@
 import {
-  LOG_LEVEL_VERBOSE,
-  LOG_LEVEL_WARNING,
-  log,
-} from "akasha/temper/combat-addon/combat-lib-log/combat-lib-log.module.code.ts"
-import {
   DATA,
   getCurrentFight,
 } from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
@@ -19,6 +14,11 @@ import {
   LIBCOMBAT_EVENT_EFFECTS_OUT,
   STATUS_EFFECT_IDS,
 } from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
+import {
+  LOG_LEVEL_VERBOSE,
+  LOG_LEVEL_WARNING,
+  log,
+} from "akasha/temper/combat-addon/modules/combat-lib-log/combat-lib-log.module.code.ts"
 
 function createUnit(name: string, unitId: number, unitType: number | undefined): UnitEntry {
   name = ZO_CachedStrFormat(SI_UNIT_NAME, name)

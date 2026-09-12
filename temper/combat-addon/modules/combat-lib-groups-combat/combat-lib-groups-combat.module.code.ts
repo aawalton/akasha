@@ -1,24 +1,3 @@
-import {
-  createEventGroup,
-  getAllCallbackTypes,
-  type RegisteredEventCallback,
-  registerEvent,
-  registerPlayerActivatedEvent,
-  setGroupActive,
-} from "akasha/temper/combat-addon/combat-lib-events/combat-lib-events.module.code.ts"
-import {
-  onBossesChanged,
-  onCombatState,
-  onDuelEndDelayed,
-  onDuelStart,
-  onMageExplode,
-  onPortalWorld,
-} from "akasha/temper/combat-addon/combat-lib-fight/combat-lib-fight.module.code.ts"
-import {
-  onCombatEventHeal,
-  onCombatEventHealGrp,
-  onCombatEventHealIn,
-} from "akasha/temper/combat-addon/combat-lib-heal/combat-lib-heal.module.code.ts"
 import { getCurrentSkillBars } from "akasha/temper/combat-addon/combat-lib-skill-bars/combat-lib-skill-bars.module.code.ts"
 import { setIsInPortalWorld } from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
 import { onGroupChange } from "akasha/temper/combat-addon/combat-lib-units/combat-lib-units.module.code.ts"
@@ -42,6 +21,27 @@ import {
   onWTF,
 } from "akasha/temper/combat-addon/modules/combat-lib-damage/combat-lib-damage.module.code.ts"
 import { onCustomEvent } from "akasha/temper/combat-addon/modules/combat-lib-effects/combat-lib-effects.module.code.ts"
+import {
+  createEventGroup,
+  getAllCallbackTypes,
+  type RegisteredEventCallback,
+  registerEvent,
+  registerPlayerActivatedEvent,
+  setGroupActive,
+} from "akasha/temper/combat-addon/modules/combat-lib-events/combat-lib-events.module.code.ts"
+import {
+  onBossesChanged,
+  onCombatState,
+  onDuelEndDelayed,
+  onDuelStart,
+  onMageExplode,
+  onPortalWorld,
+} from "akasha/temper/combat-addon/modules/combat-lib-fight/combat-lib-fight.module.code.ts"
+import {
+  onCombatEventHeal,
+  onCombatEventHealGrp,
+  onCombatEventHealIn,
+} from "akasha/temper/combat-addon/modules/combat-lib-heal/combat-lib-heal.module.code.ts"
 
 const EVENT_ACTION_SLOT_ABILITY_SLOTTED_EFFECTIVE = EVENT_HOTBAR_SLOT_CHANGE_REQUESTED
 

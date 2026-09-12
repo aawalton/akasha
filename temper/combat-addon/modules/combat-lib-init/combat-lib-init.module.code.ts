@@ -1,9 +1,7 @@
-import "akasha/temper/combat-addon/combat-lib-groups-combat/combat-lib-groups-combat.module.code.ts"
-import "akasha/temper/combat-addon/combat-lib-groups-tracking/combat-lib-groups-tracking.module.code.ts"
-import "akasha/temper/combat-addon/combat-lib-groups-stats/combat-lib-groups-stats.module.code.ts"
+import "akasha/temper/combat-addon/modules/combat-lib-groups-combat/combat-lib-groups-combat.module.code.ts"
+import "akasha/temper/combat-addon/modules/combat-lib-groups-tracking/combat-lib-groups-tracking.module.code.ts"
+import "akasha/temper/combat-addon/modules/combat-lib-groups-stats/combat-lib-groups-stats.module.code.ts"
 
-import { onBossesChanged } from "akasha/temper/combat-addon/combat-lib-fight/combat-lib-fight.module.code.ts"
-import { createFight } from "akasha/temper/combat-addon/combat-lib-fight-lifecycle/combat-lib-fight-lifecycle.module.code.ts"
 import {
   DATA,
   setCurrentFight,
@@ -12,6 +10,8 @@ import { initAdvancedStats } from "akasha/temper/combat-addon/combat-lib-stats/c
 import { initStatusEffectBonuses } from "akasha/temper/combat-addon/combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"
 import { initResources } from "akasha/temper/combat-addon/modules/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
 import { LIB_EVENT_NAMESPACE } from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
+import { onBossesChanged } from "akasha/temper/combat-addon/modules/combat-lib-fight/combat-lib-fight.module.code.ts"
+import { createFight } from "akasha/temper/combat-addon/modules/combat-lib-fight-lifecycle/combat-lib-fight-lifecycle.module.code.ts"
 
 export function initializeLibCombat(): undefined {
   DATA.inCombat = IsUnitInCombat("player")

@@ -1,9 +1,3 @@
-import {
-  LOG_LEVEL_DEBUG,
-  LOG_LEVEL_VERBOSE,
-  LOG_LEVEL_WARNING,
-  log,
-} from "akasha/temper/combat-addon/combat-lib-log/combat-lib-log.module.code.ts"
 import type { SkillRegistrationData } from "akasha/temper/combat-addon/combat-lib-message-types/combat-lib-message-types.module.code.ts"
 import {
   DATA,
@@ -26,6 +20,12 @@ import {
   LIBCOMBAT_MESSAGE_WEAPONSWAP,
   LIBCOMBAT_SKILLSTATUS_QUEUE,
 } from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
+import {
+  LOG_LEVEL_DEBUG,
+  LOG_LEVEL_VERBOSE,
+  LOG_LEVEL_WARNING,
+  log,
+} from "akasha/temper/combat-addon/modules/combat-lib-log/combat-lib-log.module.code.ts"
 
 export const ID_TO_REDUCED_SLOT: Record<number, number> = {}
 
