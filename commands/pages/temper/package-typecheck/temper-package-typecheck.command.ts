@@ -14,18 +14,20 @@ export const temperPackageTypecheck = {
       takes: "a folder under `temper/` to typecheck, repeated to name several",
     },
   ],
-  helpNotes: [
-    "a package's own `tsconfig.json` is the only statement of what it compiles, so the compiler runs once per package rather than once over the workspace.",
-    "naming no package typechecks every folder under `temper/` that carries a `tsconfig.json`.",
-    "the answer says how many files the compiler read beside how many errors it found, because nothing read and nothing wrong read alike.",
-    "a package whose compiler read none of its own files is named, since a config compiling nothing reports success over nothing.",
-    "the packages are taken in name order and every one is run, so one failure does not hide the rest.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
       statement:
         "A package is typechecked against its own compiler settings rather than the workspace's.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A run naming no package typechecks every folder under `temper/` carrying a `tsconfig.json`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Packages are typechecked in name order.",
     },
     {
       invariantKind: "departure",
