@@ -8,7 +8,6 @@ export const initiativeHandIntent = {
   code: "ts",
   test: "ts",
   taking: [
-    { said: "<from>", takes: "the initiative stating the intent now" },
     { said: "<statement>", takes: "the statement the intent being handed over states" },
     { said: "<to>", takes: "the initiative taking the intent" },
   ],
@@ -89,4 +88,5 @@ export const initiativeHandIntent = {
     },
   ],
   name: "hand-intent",
+  arguments: [{ argument: "argument/from-initiative", required: true, saidAs: "word" }],
 } as const satisfies Command
