@@ -1,7 +1,8 @@
 import { dirname } from "node:path"
 import { namedUnder, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { filedById } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
+import { filedById, namesIn } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 export const COMMAND = "command"
 
@@ -9,13 +10,13 @@ export const NAMESPACE = "namespace"
 
 const MODULE = "module"
 
-const COMMANDS = "commands"
+export const COMMANDS = "commands"
 
 export const PAGES_AT = "commands/pages"
 
 const PAGE_TYPE = "page-type"
 
-const PARTS = "parts"
+export const PARTS = "parts"
 
 const HYPHEN = "-"
 
@@ -40,6 +41,10 @@ export type Named = {
 }
 
 export type Judging = (id: string, path: string, named: Named) => string | null
+
+export function partsIn(value: Value | null): readonly string[] {
+  return value === null ? [] : namesIn(value[PARTS])
+}
 
 function slugReason(slug: string, above: string): string {
   return (
