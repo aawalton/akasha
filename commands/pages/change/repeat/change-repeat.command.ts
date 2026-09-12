@@ -9,23 +9,19 @@ export const changeRepeat = {
   test: "ts",
   changeKind: "change-none",
   timeout: null,
-  helpNotes: [
-    "the change to repeat is the first word, and the arguments that change takes are piped in.",
-    "`at-most` says how many pages one batch acts on, and a repeat naming none is refused.",
-    "a change whose page states no `takes-at-most` is refused, because one run of it acts on every page.",
-    "each batch is a run of `akasha change apply` in a child of its own, so no batch holds what the batch before it held.",
-    "a batch is judged by the checks as any apply is, and a batch the checks refuse ends the run.",
-    "the edits a refused batch leaves kept are dropped, so a later run begins over a clean tree.",
-    "a call made where edits are kept already is refused, because a repeat lands what is kept as its own.",
-    "what each batch cost is appended beside the apply command's page as any apply's is.",
-    "the report names the commit each batch landed, and closes with what ended the run.",
-    "a repeat that landed no batch at all is refused with what the first batch said.",
-    "a repeat runs under no ceiling on the wall clock.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "The change to repeat is named by the first word of the call.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`at-most` says how many pages one batch acts on.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A batch is a run of `akasha change apply` and is judged by the checks as any apply is.",
     },
     {
       invariantKind: "departure",
