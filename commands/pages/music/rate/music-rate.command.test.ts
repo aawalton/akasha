@@ -75,13 +75,26 @@ function ratingAurora(reach: Reach) {
   )
 }
 
-const refusalOf = refusingWith((argv: readonly string[]) => taken(argv, GIVEN))
+const refusalsOf = refusingWith((argv: readonly string[]) => taken(argv, GIVEN))
+
+function refusalOf(argv: readonly string[]): string {
+  return refusalsOf(argv).join("\n")
+}
 
 function takingOf(argv: readonly string[]) {
   const held = taken(argv, GIVEN)
-  if ("refused" in held) throw new Error(`\`${argv.join(" ")}\` was refused — ${held.refused}`)
+  if ("refused" in held) {
+    throw new Error(`\`${argv.join(" ")}\` was refused — ${held.refused.join("; ")}`)
+  }
   return held
 }
+
+test("every refusal a call earns arrives on its own line rather than joined into one", () => {
+  expect(refusalsOf(["--slug", "a", "--reaction", "x", "--reaction-file", "y"])).toEqual([
+    "`akasha` takes `--target`, and nothing said it",
+    "`--reaction` and `--reaction-file` are never said together, and this call says both",
+  ])
+})
 
 test("a flag this takes nothing of is refused", () => {
   expect(refusalOf(["--id", "abc"])).toContain("`--id` is no argument")

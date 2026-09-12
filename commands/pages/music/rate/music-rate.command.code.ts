@@ -25,6 +25,7 @@ import {
   OK,
   OPERATIONAL,
   refused,
+  refusedBy,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { textAt } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -97,7 +98,7 @@ export type Taken = {
   readonly json: boolean
 }
 
-export type Reading = Taken | { readonly refused: string }
+export type Reading = Taken | { readonly refused: readonly string[] }
 
 export function wrongIn(
   target: string,
@@ -117,18 +118,22 @@ export function wrongIn(
 
 export function taken(argv: readonly string[], given: Given): Reading {
   const read = takenFor(argv, given.calledAs, page, TAKES)
-  if ("refused" in read) return { refused: read.refused.join(" | ") }
+  if ("refused" in read) return { refused: read.refused }
   const held = read.taken
   const target = held.gradeTarget
   if (target !== ARTIST && target !== SONG) {
     return {
-      refused: `\`${TARGET}\` takes \`${ARTIST}\` or \`${SONG}\`, and this call names \`${target}\``,
+      refused: [
+        `\`${TARGET}\` takes \`${ARTIST}\` or \`${SONG}\`, and this call names \`${target}\``,
+      ],
     }
   }
   const grade = held.rating ?? null
   if (grade !== null && !MUSIC_RATINGS.some((one) => one === grade)) {
     return {
-      refused: `\`${RATING}\` takes a rung from \`${MUSIC_RATINGS.join("`, `")}\`, and this call names \`${grade}\``,
+      refused: [
+        `\`${RATING}\` takes a rung from \`${MUSIC_RATINGS.join("`, `")}\`, and this call names \`${grade}\``,
+      ],
     }
   }
   const filled = [
@@ -144,12 +149,12 @@ export function taken(argv: readonly string[], given: Given): Reading {
   const keys = [reaction.slug, personalConnections.slug, insights.slug]
   const prose = new Map<string, string>()
   for (const [at, one] of filled.entries()) {
-    if ("refused" in one) return { refused: one.refused.join(" | ") }
+    if ("refused" in one) return { refused: one.refused }
     const key = keys[at]
     if (key !== undefined && one.text !== undefined) prose.set(key, one.text)
   }
   const wrong = wrongIn(target, grade, prose)
-  if (wrong !== null) return { refused: wrong }
+  if (wrong !== null) return { refused: [wrong] }
   return { target, slug: held.slug, rating: grade, prose, json: held.json }
 }
 
@@ -173,7 +178,7 @@ async function recorded(
   landing: Landing
 ): Promise<Answer> {
   const held = taken(argv, given)
-  if ("refused" in held) return refused(held.refused, INPUT)
+  if ("refused" in held) return refusedBy(held.refused, INPUT)
   const found = listedAt(given.root, held.target, held.slug)
   const at = found.length === 1 ? found[0]?.path : undefined
   if (at === undefined) {
