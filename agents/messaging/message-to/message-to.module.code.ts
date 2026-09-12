@@ -1,9 +1,9 @@
+import { resolveSlot, scan } from "akasha/agents/seats/modules/resolve/seat-resolve.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { resolveSlot, scan } from "akasha/seat-system/seat-resolve/seat-resolve.module.code.ts"
 import { seatRoster } from "akasha/seat-system/seat-roster/seat-roster.module.code.ts"
 
 export interface SeatRow {

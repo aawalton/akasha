@@ -3,11 +3,11 @@ import {
   ATTRIBUTES,
   type Declaration,
 } from "akasha/agents/attributes/agent-attributes.module.code.ts"
-import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   resolveAttributes,
   scan,
-} from "akasha/seat-system/seat-resolve/seat-resolve.module.code.ts"
+} from "akasha/agents/seats/modules/resolve/seat-resolve.module.code.ts"
+import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 
 export interface StatedIdentity {
   readonly persona?: string

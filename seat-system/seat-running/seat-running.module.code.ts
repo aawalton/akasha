@@ -37,6 +37,13 @@ import {
   followName,
 } from "akasha/agents/seats/modules/rename/seat-rename.module.code.ts"
 import {
+  defaultFor,
+  defaultSlots,
+  type Found,
+  resolveAttributes,
+  scan,
+} from "akasha/agents/seats/modules/resolve/seat-resolve.module.code.ts"
+import {
   AKASHA,
   akashaRoot,
   resolveRoots,
@@ -46,13 +53,6 @@ import {
   composeSeatName,
   personPrincipals,
 } from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
-import {
-  defaultFor,
-  defaultSlots,
-  type Found,
-  resolveAttributes,
-  scan,
-} from "akasha/seat-system/seat-resolve/seat-resolve.module.code.ts"
 import { statedNow } from "akasha/seat-system/seat-stated/seat-stated.module.code.ts"
 
 export type SeatStated =
