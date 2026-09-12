@@ -54,6 +54,10 @@ export const trackWeight = {
       invariantKind: "absence",
       statement: "Nothing here writes the weight onto Alan's person page.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A write that threw is refused as the machine's fault.",
+    },
   ],
   name: "weight",
 } as const satisfies Command

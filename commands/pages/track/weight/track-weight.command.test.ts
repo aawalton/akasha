@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   BODYWEIGHT,
@@ -34,7 +35,7 @@ test("a weight at or below nothing is refused", () => {
 test("a flag this command does not take is refused before anything is read", async () => {
   const said = await trackWeight(["--date", "2026-09-07"], GIVEN)
   expect(said.refusals).toEqual(["--date is no flag this takes"])
-  expect(said.code).toBe(1)
+  expect(said.code).toBe(INPUT)
 })
 
 test("a call saying no weight is refused before a day is resolved", async () => {
