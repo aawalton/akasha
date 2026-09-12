@@ -1,85 +1,35 @@
 import { expect, test } from "bun:test"
 import {
-  carriedIn,
   runChange,
   sortPropertyValuesOnEveryPage,
 } from "akasha/changes/agent/page-type/sort-property-values-on-every-page/sort-property-values-on-every-page.change-agent.code.ts"
-import { runChange as putValue } from "akasha/changes/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.code.ts"
-import { runChange as dropValue } from "akasha/changes/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.code.ts"
+import { runChange as sorting } from "akasha/changes/mechanical/page-type/move/sort-property-values-on-every-page/sort-property-values-on-every-page.change-mechanical-page-type.code.ts"
+import {
+  BODIES,
+  DECLARED,
+  type Files,
+  KEY,
+  ONE_AT,
+  OUT_OF_ORDER,
+  SORTING,
+  sectionAt,
+  worldFor as sectionsWorld,
+  TWO_AT,
+  VALUES,
+  valued,
+} from "akasha/changes/mechanical/page-type/move/sort-property-values-on-every-page/sort-property-values-on-every-page.change-mechanical-page-type.test-fixtures.ts"
 import { pathsIn, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,
   type Reaching,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { worldOfType } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
-import type { Shape } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import type { Carried as Declared } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
-const ADD = "change-mechanical-file-content/add-property-value"
-
-const REMOVE = "change-mechanical-file-content/remove-property-value"
-
 const REACHES: Reaching = (world, at, given) => {
-  if (at === ADD) return Promise.resolve(putValue(world, given as Parameters<typeof putValue>[1]))
-  if (at === REMOVE) {
-    return Promise.resolve(dropValue(world, given as Parameters<typeof dropValue>[1]))
-  }
+  if (at === SORTING) return Promise.resolve(sorting(world, given as Parameters<typeof sorting>[1]))
   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
-}
-
-const ONE_AT = "alan/books/one.book-section.ts"
-
-const TWO_AT = "alan/books/two.book-section.ts"
-
-const KEY = "partOfSlugs"
-
-function sectionAt(slug: string, held: readonly string[]): string {
-  const values = held.map((one) => JSON.stringify(one)).join(", ")
-  return `export const ${slug} = {
-  pageTypeSlug: "book-section",
-  slug: "${slug}",
-  ${KEY}: [${values}],
-} as const satisfies BookSection
-`
-}
-
-const SORTED: Shape = {
-  pageTypeSlug: "relation-property",
-  targetPageTypeSlug: null,
-  unique: null,
-  uniquePropertySlug: null,
-  slug: "part-of-slugs",
-  propertySlug: "part-of-slugs",
-  fileName: null,
-  folderName: null,
-  sorted: true,
-}
-
-const SHAPES = new Map([["relation-property/part-of-slugs", SORTED]])
-
-const DECLARED: Declared = {
-  pagePropertySlug: "part-of-slugs",
-  pageTypeSlug: "relation-property",
-  propertySlug: "part-of-slugs",
-  key: KEY,
-  unique: null,
-  declaredBy: "book-section",
-  required: false,
-  many: true,
-  maxCount: null,
-  maxLength: null,
-  uncommitted: false,
-  secret: false,
-}
-
-type Files = Readonly<Record<string, string>>
-
-function valued(held: Readonly<Record<string, readonly string[]>>): ReadonlyMap<string, Value> {
-  const found = new Map<string, Value>()
-  for (const [path, one] of Object.entries(held)) found.set(path, { [KEY]: [...one] })
-  return found
 }
 
 function worldFor(
@@ -87,17 +37,8 @@ function worldFor(
   values: ReadonlyMap<string, Value>,
   carried: readonly Declared[] | null = [DECLARED]
 ): World {
-  return worldOfType("book-section", bodies, carried, values, REACHES, SHAPES)
+  return sectionsWorld(bodies, values, REACHES, carried)
 }
-
-const OUT_OF_ORDER = ["beta", "alpha"]
-
-const BODIES: Files = {
-  [ONE_AT]: sectionAt("one", OUT_OF_ORDER),
-  [TWO_AT]: sectionAt("two", OUT_OF_ORDER),
-}
-
-const VALUES = valued({ [ONE_AT]: OUT_OF_ORDER, [TWO_AT]: OUT_OF_ORDER })
 
 test("every page holding the key out of order has those values put in order", async () => {
   const world = worldFor(BODIES, VALUES)
@@ -120,12 +61,16 @@ test("a page whose values are already in order is passed over", async () => {
   expect([...new Set(pathsIn(said))]).toEqual([ONE_AT])
 })
 
-test("the values left in place are the longest run already in order", () => {
-  expect(carriedIn(["alpha", "delta", "beta", "echo"])).toEqual(["delta"])
-})
+test("putting the values in order is left to the change reached at its address", async () => {
+  const reached: string[] = []
+  const world = sectionsWorld(BODIES, VALUES, (_world, at) => {
+    reached.push(at)
+    return Promise.resolve({ edits: [], refused: null })
+  })
 
-test("a list already in order carries nothing", () => {
-  expect(carriedIn(["alpha", "beta"])).toEqual([])
+  await sortPropertyValuesOnEveryPage(world, { pageType: "book-section", key: KEY })
+
+  expect(reached).toEqual([SORTING])
 })
 
 test("a key holding no list is passed over rather than refused", async () => {

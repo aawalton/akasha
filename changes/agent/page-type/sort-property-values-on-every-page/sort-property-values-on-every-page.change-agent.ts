@@ -20,19 +20,11 @@ export const sortPropertyValuesOnEveryPage = {
     },
     {
       invariantKind: "departure",
-      statement: "A page whose values are already in order is passed over rather than reached.",
+      statement: "A page whose values are already in order is passed over.",
     },
     {
       invariantKind: "departure",
       statement: "A page type no page of which holds the key out of order is refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The values left in place are the longest run already in order.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Every other value is taken out and put back, so the fewest values are carried.",
     },
     {
       invariantKind: "departure",
@@ -52,19 +44,12 @@ export const sortPropertyValuesOnEveryPage = {
     },
     {
       invariantKind: "departure",
-      statement: "Each page is reached over the edits the pages before it left.",
+      statement:
+        "Putting the values in order is left to the mechanical change acting on a page type.",
     },
     {
       invariantKind: "departure",
-      statement: "Where a value goes back is left to the mechanical change putting one value in.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That change reads the order off the property rather than being told it here.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Those changes are reached through the runner rather than by an import.",
+      statement: "That change is reached through the runner rather than by an import.",
     },
     {
       invariantKind: "absence",
@@ -73,6 +58,10 @@ export const sortPropertyValuesOnEveryPage = {
     {
       invariantKind: "absence",
       statement: "Nothing here reads a page's own body.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reads the index.",
     },
     {
       invariantKind: "absence",
