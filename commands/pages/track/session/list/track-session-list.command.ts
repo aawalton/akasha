@@ -1,9 +1,9 @@
 import type { Command } from "akasha/commands/command.page-type.types.ts"
 
-export const trackSessionShow = {
+export const trackSessionList = {
   id: "01a07979-8035-7a44-ae7e-9077fced1824",
   type: "command",
-  slug: "track-session-show",
+  slug: "track-session-list",
   definition: "the command saying the stretches a day has",
   code: "ts",
   changeKind: "change-mechanical",
@@ -18,7 +18,7 @@ export const trackSessionShow = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "`show` says each stretch's own id to a reader.",
+      statement: "`list` says each stretch's own id to a reader.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,7 @@ export const trackSessionShow = {
     },
     {
       invariantKind: "absence",
-      statement: "`show` writes nothing.",
+      statement: "`list` writes nothing.",
     },
   ],
 } as const satisfies Command

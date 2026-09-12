@@ -13,7 +13,7 @@ export const trackSession = {
     "command/track-session-amend",
     "command/track-session-drop",
     "command/track-session-split",
-    "command/track-session-show",
+    "command/track-session-list",
     "command/track-session-file",
     "command/track-session-check",
   ],
