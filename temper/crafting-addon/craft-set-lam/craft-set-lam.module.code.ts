@@ -1,4 +1,3 @@
-import { ACCOUNT_INIT } from "akasha/temper/crafting-addon/craft-account-init/craft-account-init.module.code.ts"
 import {
   optionSet,
   styleInitialize,
@@ -10,6 +9,7 @@ import {
   updateGridPerSettings,
 } from "akasha/temper/crafting-addon/craft-set-updates/craft-set-updates.module.code.ts"
 import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
+import { ACCOUNT_INIT } from "akasha/temper/crafting-addon/modules/craft-account-init/craft-account-init.module.code.ts"
 import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 
 const LAM = LibAddonMenu2

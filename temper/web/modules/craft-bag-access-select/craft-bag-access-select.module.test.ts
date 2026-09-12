@@ -3,7 +3,7 @@ import {
   type CraftBagAccessValue,
   fromCraftBagAccessValue,
   toCraftBagAccessValue,
-} from "akasha/temper/web/craft-bag-access-select/craft-bag-access-select.module.code.ts"
+} from "akasha/temper/web/modules/craft-bag-access-select/craft-bag-access-select.module.code.ts"
 
 describe("toCraftBagAccessValue", () => {
   test("an unanswered setting renders as the unset sentinel, never as an answer", () => {

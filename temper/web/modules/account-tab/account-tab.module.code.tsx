@@ -20,7 +20,7 @@ import {
   type CraftBagAccessValue,
   fromCraftBagAccessValue,
   toCraftBagAccessValue,
-} from "akasha/temper/web/craft-bag-access-select/craft-bag-access-select.module.code.ts"
+} from "akasha/temper/web/modules/craft-bag-access-select/craft-bag-access-select.module.code.ts"
 import { useCallback, useEffect, useState } from "react"
 
 const HANDLE_REGEX = /^[a-zA-Z0-9][a-zA-Z0-9-]*[a-zA-Z0-9]$/

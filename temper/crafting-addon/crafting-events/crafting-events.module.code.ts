@@ -1,4 +1,3 @@
-import { ACCOUNT_INIT } from "akasha/temper/crafting-addon/craft-account-init/craft-account-init.module.code.ts"
 import type { CharacterData } from "akasha/temper/crafting-addon/craft-char-init/craft-char-init.module.code.ts"
 import { CHAR_INIT } from "akasha/temper/crafting-addon/craft-char-init/craft-char-init.module.code.ts"
 import {
@@ -77,6 +76,7 @@ import { filterPublishedItems } from "akasha/temper/crafting-addon/crafting-help
 import { TEMPER_CRAFTING_API } from "akasha/temper/crafting-addon/crafting-public-api/crafting-public-api.module.code.ts"
 import { timed } from "akasha/temper/crafting-addon/crafting-slot-handler-stats/crafting-slot-handler-stats.module.code.ts"
 import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
+import { ACCOUNT_INIT } from "akasha/temper/crafting-addon/modules/craft-account-init/craft-account-init.module.code.ts"
 import { initializeTemperPotions } from "akasha/temper/crafting-addon/potion-init/potion-init.module.code.ts"
 import { initializeTemperWrit } from "akasha/temper/crafting-addon/writ-init/writ-init.module.code.ts"
 import { initializeMasterWritInventoryMarker } from "akasha/temper/crafting-addon/writ-mark-init/writ-mark-init.module.code.ts"

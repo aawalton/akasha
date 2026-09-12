@@ -10,7 +10,7 @@ import {
 import type { InferenceRunRecord } from "akasha/infrastructure/inference/runs/record/inference-run-record.module.code.ts"
 import { imageObjectKey } from "akasha/infrastructure/storage/object-store/key/object-store-key.module.code.ts"
 import { seaweedFSObjectStoreFromEnv } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
-import { coverUrl } from "akasha/pages/url/cover-url/cover-url.module.code.ts"
+import { coverUrl } from "akasha/pages/url/modules/cover-url/cover-url.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 
 const IMAGE_PAGE_TYPE_SLUG = "image"
