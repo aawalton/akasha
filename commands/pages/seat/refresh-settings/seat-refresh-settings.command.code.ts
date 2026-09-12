@@ -1,10 +1,10 @@
 import { readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { basename } from "node:path"
 import {
+  answering,
   asJson,
   DATA,
   OPERATIONAL,
-  partWay,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -111,32 +111,28 @@ export function refreshedRows(
 }
 
 export async function seatRefreshSettings(argv: readonly string[]): Promise<Answer> {
-  const stray = argv.filter((one) => one !== JSON_FLAG)
-  if (stray.length > 0) {
-    const said = namesDrawn(stray)
-    return refusedBy([`this takes \`${JSON_FLAG}\` and nothing else, and ${said} was said`])
-  }
-  const base = await readAgentSettingsBase()
-  if (base.kind !== "loaded") {
-    return refusedBy(
-      [`${AGENT_SETTINGS_PATH} would not read, so there is nothing to write: ${base.reason}`],
-      DATA
-    )
-  }
-  let paths: readonly string[]
-  try {
-    paths = liveSettingsPaths()
-  } catch (thrown) {
-    return refusedBy([whyOf(thrown)], OPERATIONAL)
-  }
-  if (paths.length === 0) return refusedBy([NOTHING_LIVE], DATA)
-  const done: string[] = []
-  let rows: readonly Row[]
-  try {
-    rows = refreshedRows(paths, base.settings, done)
-  } catch (thrown) {
-    return { report: done, refusals: [whyOf(thrown), ...partWay(done)], code: OPERATIONAL }
-  }
-  if (argv.includes(JSON_FLAG)) return asJson({ rows })
-  return told(rows.map((row) => `${row.path}\t${row.outcome}`))
+  return await answering(async (done) => {
+    const stray = argv.filter((one) => one !== JSON_FLAG)
+    if (stray.length > 0) {
+      const said = namesDrawn(stray)
+      return refusedBy([`this takes \`${JSON_FLAG}\` and nothing else, and ${said} was said`])
+    }
+    const base = await readAgentSettingsBase()
+    if (base.kind !== "loaded") {
+      return refusedBy(
+        [`${AGENT_SETTINGS_PATH} would not read, so there is nothing to write: ${base.reason}`],
+        DATA
+      )
+    }
+    let paths: readonly string[]
+    try {
+      paths = liveSettingsPaths()
+    } catch (thrown) {
+      return refusedBy([whyOf(thrown)], OPERATIONAL)
+    }
+    if (paths.length === 0) return refusedBy([NOTHING_LIVE], DATA)
+    const rows = refreshedRows(paths, base.settings, done)
+    if (argv.includes(JSON_FLAG)) return asJson({ rows })
+    return told(rows.map((row) => `${row.path}\t${row.outcome}`))
+  })
 }
