@@ -1,6 +1,7 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
 import {
+  answering,
   DATA,
   INPUT,
   OK,
@@ -15,6 +16,7 @@ import { textAt, type Value } from "akasha/pages/value-reading/page-value-readin
 import { seatPathForName } from "akasha/seat-system/seat-reading/seat-reading.module.code.ts"
 import {
   type Stopped,
+  type Stopping,
   stopping,
 } from "akasha/seat-system/seat-stopping/seat-stopping.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
@@ -36,6 +38,30 @@ function saidOf(one: Stopped): string {
     return `${one.name} was stopped by ending the session that carried it`
   }
   return `${one.name} was stopped, ending ${one.pids.map((pid) => String(pid)).join(", ")}`
+}
+
+export type Halting = (
+  given: Given,
+  agentId: string,
+  name: string,
+  force: boolean,
+  done: string[]
+) => Promise<Stopping>
+
+export async function stoppedBy(
+  given: Given,
+  agentId: string,
+  name: string,
+  force: boolean,
+  halting: Halting = stopping
+): Promise<Answer> {
+  return await answering(async (done) => {
+    const said = await halting(given, agentId, name, force, done)
+    if ("refused" in said) {
+      return answeredWith(done, [said.refused, ...partWay(done)], said.code)
+    }
+    return answeredWith([...said.stopped.moved, saidOf(said.stopped)], [], OK)
+  })
 }
 
 export async function seatSupervisorStop(argv: readonly string[], given: Given): Promise<Answer> {
@@ -71,10 +97,5 @@ export async function seatSupervisorStop(argv: readonly string[], given: Given):
       DATA
     )
   }
-  const done: string[] = []
-  const said = await stopping(given, agentId, named.name, flags.includes(FORCE), done)
-  if ("refused" in said) {
-    return answeredWith(done, [said.refused, ...partWay(done)], said.code)
-  }
-  return answeredWith([...said.stopped.moved, saidOf(said.stopped)], [], OK)
+  return await stoppedBy(given, agentId, named.name, flags.includes(FORCE))
 }

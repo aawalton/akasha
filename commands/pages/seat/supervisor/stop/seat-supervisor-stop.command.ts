@@ -50,6 +50,18 @@ export const seatSupervisorStop = {
       invariantKind: "departure",
       statement: "A stop refused before it wrote anything is refused as the fault alone.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A stop that threw rather than refused names each write that stop finished.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stop that threw names those writes in the order that stop finished them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stop that threw carries the kind of fault the throw names.",
+    },
   ],
   name: "stop",
   arguments: [
