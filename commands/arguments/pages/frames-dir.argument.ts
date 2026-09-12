@@ -5,7 +5,7 @@ export const framesDir = {
   type: "argument",
   slug: "frames-dir",
   said: "--frames-dir",
-  takes: "frames already taken out, read instead of a clip",
+  takes: "the directory of frames read",
   value: "path",
   placeholder: "dir",
 } as const satisfies Argument

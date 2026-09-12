@@ -7,11 +7,7 @@ export const inferenceWanScore = {
   definition: "the command measuring each frame's cosine against a reference identity",
   code: "ts",
   test: "ts",
-  taking: [
-    { said: "--frames-dir <dir>", takes: "the directory of frames this reads" },
-    { said: "--reference <png>", takes: "the identity each frame is measured against" },
-    { said: "--floor <f>", takes: "the cosine at or above which a frame is the same identity" },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -40,4 +36,9 @@ export const inferenceWanScore = {
     },
   ],
   name: "score",
+  arguments: [
+    { argument: "argument/frames-dir", required: true },
+    { argument: "argument/reference", required: true },
+    { argument: "argument/floor" },
+  ],
 } as const satisfies Command
