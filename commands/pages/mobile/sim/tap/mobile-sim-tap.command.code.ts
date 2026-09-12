@@ -3,67 +3,38 @@ import {
   findElement,
   tapCoordinates,
 } from "akasha/alan/harness/mobile-cli/appium-client/appium-client.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { selector as selectorArgument } from "akasha/commands/arguments/pages/selector.argument.ts"
+import { x as xArgument } from "akasha/commands/arguments/pages/x.argument.ts"
+import { y as yArgument } from "akasha/commands/arguments/pages/y.argument.ts"
 import {
   answering,
-  flagsAloneIn,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import {
-  countOf,
-  driving,
-  type Reading,
-  wordsIn,
-} from "akasha/commands/pages/mobile/mobile-answering/mobile-answering.module.code.ts"
-
-const SELECTOR = "--selector"
-
-const X = "--x"
-
-const Y = "--y"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { driving } from "akasha/commands/pages/mobile/mobile-answering/mobile-answering.module.code.ts"
+import { mobileSimTap as page } from "akasha/commands/pages/mobile/sim/tap/mobile-sim-tap.command.ts"
 
 const BY_CSS = "css selector"
 
-const VALUED = [SELECTOR, X, Y]
+export type Reading<T> = T | { readonly refused: readonly string[] }
 
 export type Read = { readonly selector: string } | { readonly x: number; readonly y: number }
 
-export function readIn(argv: readonly string[]): Reading<Read> {
-  const said = wordsIn(argv, VALUED, [])
-  if ("refused" in said) return said
-  const loose = flagsAloneIn(said)
-  if (loose.length > 0) return { refused: loose }
-
-  const selector = said.named[SELECTOR]
-  const acrossSaid = said.named[X]
-  const downSaid = said.named[Y]
-
-  if (selector !== undefined && (acrossSaid !== undefined || downSaid !== undefined)) {
+export function pointedAt(
+  named: string | undefined,
+  across: number | undefined,
+  down: number | undefined
+): Reading<Read> {
+  if (named !== undefined) return { selector: named }
+  if (across === undefined || down === undefined) {
     return {
       refused: [
-        `\`${SELECTOR}\` names an element and \`${X}\`/\`${Y}\` name a point, and one call taps one of them`,
+        `this taps what \`${selectorArgument.said}\` names or the point ` +
+          `\`${xArgument.said}\` and \`${yArgument.said}\` name, and nothing named either`,
       ],
     }
-  }
-  if (selector !== undefined) return { selector }
-
-  if (acrossSaid === undefined || downSaid === undefined) {
-    return {
-      refused: [
-        `this taps what \`${SELECTOR}\` names or the point \`${X}\` and \`${Y}\` name, and nothing named either`,
-      ],
-    }
-  }
-  const across = countOf(acrossSaid, X)
-  if (typeof across !== "number") {
-    return across === null
-      ? { refused: [`\`${X}\` names a point across, and nothing did`] }
-      : across
-  }
-  const down = countOf(downSaid, Y)
-  if (typeof down !== "number") {
-    return down === null ? { refused: [`\`${Y}\` names a point down, and nothing did`] } : down
   }
   return { x: across, y: down }
 }
@@ -83,9 +54,12 @@ async function tapped(done: string[], read: Read): Promise<Answer> {
 
 export async function mobileSimTap(
   argv: readonly string[],
+  given: Given,
   tapping: Tapping = tapped
 ): Promise<Answer> {
-  const read = readIn(argv)
+  const said = takenFor(argv, given.calledAs, page, [xArgument, yArgument, selectorArgument])
+  if ("refused" in said) return refusedBy(said.refused)
+  const read = pointedAt(said.taken.selector, said.taken.x, said.taken.y)
   if ("refused" in read) return refusedBy(read.refused)
   return await answering(async (done) => await tapping(done, read))
 }
