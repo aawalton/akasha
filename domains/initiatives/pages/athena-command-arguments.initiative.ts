@@ -28,7 +28,7 @@ export const athenaCommandArguments = {
       statement:
         "A command's code reads its arguments through a type generated from its argument pages.",
       workingMemory:
-        "Nothing of this is built. `page-type.page-type.ts:88` states a type generator, which writes one file beside each page of the type stating it, so `command` stating one writes a type beside each of 225 command pages. `takingIn` answers a record keyed by each argument's slug in camel, which is what that type would narrow. Is a generated type file wanted beside every command page, or is the type read in TypeScript off the `arguments` the page already states?\n",
+        "Settled by `Parsimony`: no type file is generated beside a command page. A command page states `arguments` as a literal, so TypeScript reads the record `takingIn` answers off that literal, and a generated file beside each of 225 pages costs a page, a folder and a name for what the page already says. Left to build once the migration lands: the type narrowing what `takingIn` answers to the arguments the page names.",
     },
     {
       statement: "A key piped into a command is one of that command's arguments.",
