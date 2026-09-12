@@ -5,6 +5,7 @@ import {
   bySlug,
   cooldownIn,
   iosSubjects,
+  kindedElsewhere,
   type Subject,
 } from "akasha/infrastructure/services/deploy-subject-listing/deploy-subject-listing.module.code.ts"
 
@@ -42,6 +43,20 @@ test("a service named as qualified is carried as its slug alone", () => {
 test("subjects come back ordered by slug", () => {
   const said = bySlug([subject("beta"), subject("alpha")]).map((one) => one.slug)
   expect(said).toEqual(["alpha", "beta"])
+})
+
+test("a page a deploy reads as another kind is no subject of the kind it is filed under", () => {
+  const web = { kind: "web-app", pagePath: "temper-web.web-app.ts" } as const
+  expect(kindedElsewhere("service-cluster", web)).toBe(true)
+})
+
+test("a page a deploy reads as the kind it is filed under is a subject of that kind", () => {
+  const same = { kind: "service-cluster", pagePath: "loki.service-cluster.ts" } as const
+  expect(kindedElsewhere("service-cluster", same)).toBe(false)
+})
+
+test("a page whose slug a deploy refuses to read is left a subject", () => {
+  expect(kindedElsewhere("service-cluster", { refused: "two pages are named that" })).toBe(false)
 })
 
 test("every ios app is a subject named by its slug", () => {

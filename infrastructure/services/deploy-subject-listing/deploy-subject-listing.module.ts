@@ -27,7 +27,20 @@ export const deploySubjectListing = {
     },
     {
       invariantKind: "departure",
-      statement: "Every other kind is every page of that kind.",
+      statement: "Every other kind is every page of that kind a deploy reads as that kind.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page whose slug a deploy reads as another kind is no subject of the kind it is filed under.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A deploy of a web app's slug puts up the cluster service beside that web app.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page whose slug a deploy refuses to read is left a subject.",
     },
     {
       invariantKind: "departure",

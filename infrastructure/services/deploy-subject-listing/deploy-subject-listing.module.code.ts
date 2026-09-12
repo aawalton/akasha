@@ -4,7 +4,9 @@ import {
   IOS_APP,
   type IosApps,
   type Kind,
+  kindNamed,
   PAGE_TYPE,
+  type Read,
   WORKSTATION_SERVICE,
 } from "akasha/commands/pages/deploy/kind-reading/deploy-kind-reading.module.code.ts"
 import { COOLDOWN_SECONDS } from "akasha/infrastructure/services/deploy-choosing/deploy-choosing.module.code.ts"
@@ -45,6 +47,10 @@ export function bySlug(every: readonly Subject[]): readonly Subject[] {
   return [...every].sort((one, two) => (one.slug < two.slug ? -1 : one.slug > two.slug ? 1 : 0))
 }
 
+export function kindedElsewhere(kind: Kind, read: Read): boolean {
+  return !("refused" in read) && read.kind !== kind
+}
+
 function wholeKindSubject(root: string): readonly Subject[] {
   const found = listedAt(root, PAGE_TYPE, WORKSTATION_SERVICE)[0]
   if (found === undefined) return []
@@ -71,11 +77,12 @@ export function iosSubjects(apps: Apps): readonly Subject[] {
   )
 }
 
-function pagedSubjects(root: string, kind: Kind): readonly Subject[] {
+function pagedSubjects(root: string, kind: Kind, apps: IosApps): readonly Subject[] {
   const found: Subject[] = []
   for (const one of valuesOfType(root, kind)) {
     const slug = textAt(one.value, SLUG)
     if (slug === null) continue
+    if (kindedElsewhere(kind, kindNamed(root, slug, apps))) continue
     found.push({
       kind,
       slug,
@@ -94,5 +101,5 @@ export function subjectsOf(
 ): readonly Subject[] {
   if (kind === WORKSTATION_SERVICE) return wholeKindSubject(root)
   if (kind === IOS_APP) return iosSubjects(apps())
-  return pagedSubjects(root, kind)
+  return pagedSubjects(root, kind, apps)
 }
