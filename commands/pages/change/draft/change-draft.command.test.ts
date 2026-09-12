@@ -1,6 +1,17 @@
-import { expect, test } from "bun:test"
-import { told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { afterAll, expect, test } from "bun:test"
+import { DATA, OK, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { CHOSEN, drafted } from "akasha/commands/pages/change/draft/change-draft.command.code.ts"
+import { REFUSES_CODE } from "akasha/testing-system/minting/minting.module.code.ts"
+import {
+  applied,
+  checking,
+  drafting,
+  givenIn,
+  repoWith,
+  scratch,
+} from "akasha/testing-system/repo-seeding/repo-seeding.module.code.ts"
+
+afterAll(scratch.sweep)
 
 const OUTSIDE = {
   root: "/elsewhere",
@@ -71,4 +82,18 @@ test("a draft that threw nothing is answered as that draft answered", async () =
   expect(said.code).toBe(0)
   expect(said.report).toEqual([KEPT])
   expect(said.refusals).toEqual([])
+})
+
+const REFUSED = "akasha/two.ts — refused for the test"
+
+test("no check runs over a draft", async () => {
+  const root = repoWith()
+  checking(root, "refuses", REFUSES_CODE)
+  const kept = await drafting(root, [])
+  expect(kept.code).toBe(OK)
+  expect(kept.report).toEqual(["adds akasha/two.ts"])
+  expect(kept.refusals).toEqual([])
+  const said = await applied(root, kept, ["--message", "held"], givenIn(root))
+  expect(said.code).toBe(DATA)
+  expect(said.refusals.join("\n")).toContain(REFUSED)
 })
