@@ -19,7 +19,6 @@ import {
   dataError,
   inputError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import { parseArgs } from "akasha/commands/modules/parse-args/parse-args.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
@@ -42,10 +41,7 @@ import {
   compositionOf,
   decideSpawnName,
 } from "akasha/seat-system/seat-spawn-name-decide/seat-spawn-name-decide.module.code.ts"
-import { HELP } from "akasha/seat-system/seat-start-help/seat-start-help.module.code.ts"
 import { resolveStatedIdentity } from "akasha/seat-system/seat-stated-identity/seat-stated-identity.module.code.ts"
-import { refuseStatedName } from "akasha/seat-system/seat-stated-name-refusal/seat-stated-name-refusal.module.code.ts"
-import { refuseStatedParent } from "akasha/seat-system/seat-stated-parent-refusal/seat-stated-parent-refusal.module.code.ts"
 import {
   type StatedIdentity,
   spawnSeat,
@@ -230,64 +226,64 @@ export async function startSeat(input: StartSeatInput, done: string[] = []): Pro
   return { agentId, name, startMode }
 }
 
-export default async function seatStart(
-  args: readonly string[],
-  done: string[] = []
-): Promise<void> {
-  const statedParent = refuseStatedParent(args)
-  if (statedParent !== null) throw inputError(statedParent)
-  const statedName = refuseStatedName(args)
-  if (statedName !== null) throw inputError(statedName)
-  const parsed = parseArgs(help, args)
+export interface StartAsked {
+  readonly json?: boolean
+  readonly startMode?: string
+  readonly promptFile?: string
+  readonly seatPrompt?: string
+  readonly persona?: string
+  readonly role?: string
+  readonly seatDomain?: string
+  readonly principal?: string
+  readonly flex?: string
+  readonly initiative?: string
+  readonly account?: string
+  readonly seatModel?: string
+  readonly anthropicBaseUrl?: string
+  readonly anthropicAuthToken?: string
+}
 
-  const startMode = parsed.string("--start-mode") ?? SEAT_MODE_INTERACTIVE
-  const json = parsed.boolean("--json")
+function written(started: StartedSeat, json: boolean): undefined {
+  const { agentId, name, startMode, pid } = started
+  if (json) {
+    const record = { agent_id: agentId, name, start_mode: startMode }
+    const whole = pid === undefined ? record : { ...record, pid }
+    process.stdout.write(`${JSON.stringify(whole)}\n`)
+    return
+  }
+  if (pid === undefined) {
+    process.stdout.write(`${agentId}\n`)
+    return
+  }
+  process.stdout.write(`${agentId}\t${name}\t${startMode}\n`)
+}
+
+export default async function seatStart(asked: StartAsked, done: string[] = []): Promise<void> {
+  const startMode = asked.startMode ?? SEAT_MODE_INTERACTIVE
 
   let prompt: string | undefined
   if (startMode === SEAT_MODE_HEADLESS) {
-    const promptFile = parsed.string("--prompt-file")
     prompt =
-      promptFile === undefined
-        ? parsed.requireString("--prompt")
-        : await readStdinOrFile(promptFile)
+      asked.promptFile === undefined ? asked.seatPrompt : await readStdinOrFile(asked.promptFile)
   }
 
   const started = await startSeat(
     {
       startMode,
-      persona: parsed.string("--persona"),
-      role: parsed.string("--role"),
-      domain: parsed.string("--domain"),
-      principal: parsed.string("--principal"),
-      flex: parsed.string("--flex"),
-      initiative: parsed.string("--initiative") ?? null,
-      account: parsed.string("--account"),
+      persona: asked.persona,
+      role: asked.role,
+      domain: asked.seatDomain,
+      principal: asked.principal,
+      flex: asked.flex,
+      initiative: asked.initiative ?? null,
+      account: asked.account,
       prompt,
-      modelOverride: parsed.string("--model"),
-      anthropicBaseUrl: parsed.string("--anthropic-base-url"),
-      anthropicAuthToken: parsed.string("--anthropic-auth-token"),
+      modelOverride: asked.seatModel,
+      anthropicBaseUrl: asked.anthropicBaseUrl,
+      anthropicAuthToken: asked.anthropicAuthToken,
     },
     done
   )
 
-  if (started.pid !== undefined) {
-    if (json) {
-      process.stdout.write(
-        `${JSON.stringify({ agent_id: started.agentId, name: started.name, start_mode: started.startMode, pid: started.pid })}\n`
-      )
-      return
-    }
-    process.stdout.write(`${started.agentId}\t${started.name}\t${started.startMode}\n`)
-    return
-  }
-
-  if (json) {
-    process.stdout.write(
-      `${JSON.stringify({ agent_id: started.agentId, name: started.name, start_mode: started.startMode })}\n`
-    )
-    return
-  }
-  process.stdout.write(`${started.agentId}\n`)
+  written(started, asked.json === true)
 }
-
-export const help = HELP

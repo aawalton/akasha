@@ -18,8 +18,16 @@ export const seatStatedParentRefusal = {
     },
     {
       invariantKind: "departure",
+      statement: "What this reads is the refusals the one reader gave rather than the call.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A parent stated as a flag and a parent stated with an equals sign are both refused.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A flag merely opening with those same letters is no stated parent.",
     },
   ],
 } as const satisfies Module

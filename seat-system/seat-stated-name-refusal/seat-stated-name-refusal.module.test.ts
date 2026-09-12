@@ -1,26 +1,31 @@
 import { expect, test } from "bun:test"
 import { refuseStatedName } from "akasha/seat-system/seat-stated-name-refusal/seat-stated-name-refusal.module.code.ts"
 
-test("a typed name is refused, and the refusal says what to state instead", () => {
-  const said = refuseStatedName(["scribe"])
+function refusalOf(said: string): string {
+  return `\`${said}\` is no argument \`akasha seat start\` takes — it takes \`--persona\``
+}
+
+test("one refusal naming a word is a typed name, and it says what to state instead", () => {
+  const said = refuseStatedName([refusalOf("scribe")])
   expect(said).not.toBeNull()
   expect(said).toContain("--persona")
   expect(said).toContain("--domain")
 })
 
-test("a call stating nothing is refused nothing", () => {
+test("a call refused nothing types no name", () => {
   expect(refuseStatedName([])).toBeNull()
 })
 
-test("an empty first argument is no stated name", () => {
-  expect(refuseStatedName([""])).toBeNull()
+test("a refusal naming a flag is no typed name", () => {
+  expect(refuseStatedName([refusalOf("--domain")])).toBeNull()
+  expect(refuseStatedName([refusalOf("-d")])).toBeNull()
 })
 
-test("a first argument that is a flag is no stated name", () => {
-  expect(refuseStatedName(["--domain", "akasha"])).toBeNull()
-  expect(refuseStatedName(["-d"])).toBeNull()
+test("a refusal naming an empty word is no typed name", () => {
+  expect(refuseStatedName([refusalOf("")])).toBeNull()
 })
 
-test("a name typed before the flags is still a stated name", () => {
-  expect(refuseStatedName(["scribe", "--domain", "akasha"])).not.toBeNull()
+test("a call refused more than once is a mistyped flag rather than a name", () => {
+  const said = [refusalOf("--presona"), refusalOf("athena")]
+  expect(refuseStatedName(said)).toBeNull()
 })

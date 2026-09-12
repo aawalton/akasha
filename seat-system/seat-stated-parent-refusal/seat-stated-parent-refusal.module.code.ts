@@ -1,4 +1,8 @@
-const STATED_PARENT = "--agent-id"
+export const STATED_PARENT = "--agent-id"
+
+const AT_FLAG = `\`${STATED_PARENT}\``
+
+const AT_EQUALS = `\`${STATED_PARENT}=`
 
 const REFUSAL =
   "this command takes no --agent-id: the seat above the new one is the seat running it, read " +
@@ -7,7 +11,7 @@ const REFUSAL =
   "hand-back it has no context for. Work for a different parent by setting AGENT_ID in the " +
   "environment of the call."
 
-export function refuseStatedParent(args: readonly string[]): string | null {
-  const stated = args.some((one) => one === STATED_PARENT || one.startsWith(`${STATED_PARENT}=`))
+export function refuseStatedParent(refused: readonly string[]): string | null {
+  const stated = refused.some((one) => one.includes(AT_FLAG) || one.includes(AT_EQUALS))
   return stated ? REFUSAL : null
 }

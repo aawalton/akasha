@@ -6,6 +6,7 @@ export const seatStart = {
   slug: "seat-start",
   definition: "the command composing a fresh seat from the slots named after it",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -17,7 +18,19 @@ export const seatStart = {
     },
     {
       invariantKind: "departure",
-      statement: "Every word said here but the help flag is handed to the code unread.",
+      statement: "Every word said here is read from the arguments this page names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A lone word where this takes none is read as a seat name wherever it sits.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call refused more than once is a mistyped flag rather than a name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stated parent is refused with the environment it is read from instead.",
     },
     {
       invariantKind: "departure",
