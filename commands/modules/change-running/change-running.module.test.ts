@@ -32,6 +32,7 @@ import {
   measuring,
   measuringWrongly,
   NOT_TEXT_SAID,
+  NOTHING,
   owedIn,
   PAGE,
   pathsIn,
@@ -153,6 +154,49 @@ test("a call piping nothing in is refused rather than run with no argument", asy
   const said = await acting(repo(), ["remove-page"])
 
   expect(said.refusals[0] ?? "").toContain("standard input")
+})
+
+const TAKES_AT: Loading = async () => ({
+  run: () => ({ edits: [], refused: null }),
+  guards: [],
+  takes: ["at", "to"],
+})
+
+test("a call piping nothing in is told what the change it named takes", async () => {
+  const said = await changing(
+    repo(),
+    PAGE,
+    null,
+    ["remove-page"],
+    NOTHING,
+    TAKES_AT,
+    applying,
+    CHOSEN
+  )
+
+  expect(said.code).not.toBe(0)
+  expect(said.refusals[0] ?? "").toContain("standard input")
+  expect(said.refusals[0] ?? "").toContain("`remove-page` takes")
+  expect(said.refusals[0] ?? "").toContain("`at`")
+})
+
+test("the help flag piped in is answered with the change and what that change takes", async () => {
+  const said = await changing(
+    repo(),
+    PAGE,
+    null,
+    ["remove-page"],
+    piping("--help\n"),
+    TAKES_AT,
+    applying,
+    CHOSEN
+  )
+
+  expect(said.code).toBe(0)
+  expect(said.refusals).toEqual([])
+  expect(said.report[0]).toBe("akasha change remove-page")
+  expect(said.report).toContain("  at")
+  expect(said.report).toContain("  to")
 })
 
 test("arguments that read as neither a value nor a body are refused", async () => {

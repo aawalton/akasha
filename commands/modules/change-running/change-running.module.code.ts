@@ -18,9 +18,12 @@ import {
   worldAt,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
+  helpAsked,
+  helpOfChange,
   type Loaded,
   ranBy,
   runAt,
+  takesSaid,
 } from "akasha/changes/runners/change-loading/change-loading.module.code.ts"
 import { costRecorded, opening } from "akasha/checks/modules/cost/check-cost.module.code.ts"
 import { decodeUtf8 } from "akasha/code/utf8-body/utf8-body.module.code.ts"
@@ -134,12 +137,21 @@ export function runsSaid(world: World): string {
   return namesDrawn(changesIn(world).map((one) => one.slug))
 }
 
-export function argumentsIn(piping: Piping): Arguments | string {
+export type Piped = { readonly text: string } | { readonly why: string } | { readonly none: true }
+
+export function pipedIn(piping: Piping): Piped {
   const held = piping()
-  if ("tty" in held) return NO_ARGUMENTS
-  if ("unreadable" in held) return `the arguments would not open: ${held.unreadable}`
-  if (held.bytes.byteLength === 0) return NO_ARGUMENTS
-  const read = readingIn(new TextDecoder().decode(held.bytes))
+  if ("tty" in held) return { none: true }
+  if ("unreadable" in held) return { why: `the arguments would not open: ${held.unreadable}` }
+  if (held.bytes.byteLength === 0) return { none: true }
+  return { text: new TextDecoder().decode(held.bytes) }
+}
+
+export function argumentsIn(piping: Piping): Arguments | string {
+  const held = pipedIn(piping)
+  if ("none" in held) return NO_ARGUMENTS
+  if ("why" in held) return held.why
+  const read = readingIn(held.text)
   return "refused" in read ? read.refused : read.given
 }
 
@@ -333,6 +345,23 @@ export function barredIn(given: Arguments, chosen: Chosen): readonly string[] {
     .map((key) => `\`${key}\` is no argument a ${chosen.said} takes`)
 }
 
+async function sayingWhat(
+  world: World,
+  loading: Loading,
+  type: string,
+  slug: string,
+  chosen: Chosen,
+  helps: boolean
+): Promise<Answer> {
+  const loaded = await loading(world, `${type}/${slug}`)
+  if (typeof loaded === "string") return mistaking([loaded])
+  const takes = loaded.takes
+  if (!helps) return mistaking([`${NO_ARGUMENTS}${takesSaid(slug, takes)}`])
+  const stated = world.index.pageAt(type, slug)
+  const definition = stated === null ? null : textAt(stated, DEFINITION)
+  return told(helpOfChange(chosen.calledAs, slug, definition, takes))
+}
+
 export async function changing(
   root: string,
   page: string,
@@ -351,15 +380,8 @@ export async function changing(
   }
   const unknown = unknownIn(argv.slice(1), BARE, BARE, chosen.calledAs)
   if (unknown.length > 0) return mistaking(unknown)
-  const said = argumentsIn(piping)
-  if (typeof said === "string") return mistaking([said])
-  const given = rootedIn(root, said)
-  if (typeof given === "string") return mistaking([given])
-  const wrong = barredIn(given, chosen)
-  if (wrong.length > 0) return mistaking(wrong)
-  const asked = applyIn(given)
-  if (typeof asked === "string") return mistaking([asked])
-  const drafts = chosen.drafts ?? asked.drafts
+  const piped = pipedIn(piping)
+  if ("why" in piped) return mistaking([piped.why])
   const type = typeOf(world, slug)
   if (type === null) {
     const every = changesIn(world).map((one) => one.slug)
@@ -368,6 +390,17 @@ export async function changing(
         meantSaid(slug, every),
     ])
   }
+  if ("none" in piped) return await sayingWhat(world, loading, type, slug, chosen, false)
+  if (helpAsked(piped.text)) return await sayingWhat(world, loading, type, slug, chosen, true)
+  const read = readingIn(piped.text)
+  if ("refused" in read) return mistaking([read.refused])
+  const given = rootedIn(root, read.given)
+  if (typeof given === "string") return mistaking([given])
+  const wrong = barredIn(given, chosen)
+  if (wrong.length > 0) return mistaking(wrong)
+  const asked = applyIn(given)
+  if (typeof asked === "string") return mistaking([asked])
+  const drafts = chosen.drafts ?? asked.drafts
   const loaded = await loading(world, `${type}/${slug}`)
   if (typeof loaded === "string") return mistaking([loaded])
   const held: Loaded = loaded

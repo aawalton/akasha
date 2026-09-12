@@ -132,6 +132,37 @@ export function untakenIn(given: unknown, takes: readonly string[] | undefined):
   return said === undefined ? null : untaken(said, takes)
 }
 
+const HELP = "--help"
+
+const HELP_SHORT = "-h"
+
+const TAKING = "It takes these arguments, piped in:"
+
+const NO_TAKING = "It takes no argument."
+
+export function helpAsked(said: string): boolean {
+  const one = said.trim()
+  return one === HELP || one === HELP_SHORT
+}
+
+export function takesSaid(slug: string, takes: readonly string[] | undefined): string {
+  if (takes === undefined || takes.length === 0) return ""
+  return ` — \`${slug}\` takes \`${takes.join("`, `")}\``
+}
+
+export function helpOfChange(
+  calledAs: string,
+  slug: string,
+  definition: string | null,
+  takes: readonly string[] | undefined
+): readonly string[] {
+  const named = `${calledAs} ${slug}`
+  const head = definition === null ? [named, ""] : [named, "", definition, ""]
+  const held = takes ?? []
+  if (held.length === 0) return [...head, NO_TAKING]
+  return [...head, TAKING, "", ...held.map((one) => `  ${one}`)]
+}
+
 export async function ranBy(
   world: World,
   loaded: Loaded,

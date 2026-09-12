@@ -37,6 +37,30 @@ export const changeLoading = {
       statement: "One key is refused at a time.",
     },
     {
+      invariantKind: "departure",
+      statement: "The arguments a change takes are said to a caller from the change's own list.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change stating no arguments is said to take none.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A help answer opens with the call and the change's own definition.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change stating no definition is answered with the call alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Both spellings of the help flag are told apart from an argument here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The space at either end of what is piped in is not read as part of the flag.",
+    },
+    {
       invariantKind: "absence",
       statement: "A change reached by another change has no key judged here.",
     },

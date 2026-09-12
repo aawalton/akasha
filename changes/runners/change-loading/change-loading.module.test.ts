@@ -11,10 +11,13 @@ import {
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   codeAt,
+  helpAsked,
+  helpOfChange,
   loadedAt,
   partsOf,
   ranBy,
   sittingAt,
+  takesSaid,
   targetRefusal,
 } from "akasha/changes/runners/change-loading/change-loading.module.code.ts"
 import {
@@ -402,6 +405,41 @@ test("a rung a guard would refuse alone is let through where the whole answer is
 
   expect(said.refused).toBe(null)
   expect((await ranBy(ledgerAt(root, textIn(root)), inside, {})).refused).toBe(HALFWAY)
+})
+
+test("both spellings of the help flag are told apart from an argument", () => {
+  expect(helpAsked("--help\n")).toBe(true)
+  expect(helpAsked("  -h  ")).toBe(true)
+  expect(helpAsked("at: a/b.ts\n")).toBe(false)
+  expect(helpAsked("")).toBe(false)
+})
+
+test("the arguments a change takes are said from that change's own list", () => {
+  expect(takesSaid("remove-page", ["at", "to"])).toBe(" — `remove-page` takes `at`, `to`")
+  expect(takesSaid("remove-page", [])).toBe("")
+  expect(takesSaid("remove-page", undefined)).toBe("")
+})
+
+test("a help answer opens with the call and the change's own definition", () => {
+  expect(helpOfChange("akasha change draft", "remove-page", "one page taken away", ["at"])).toEqual(
+    [
+      "akasha change draft remove-page",
+      "",
+      "one page taken away",
+      "",
+      "It takes these arguments, piped in:",
+      "",
+      "  at",
+    ]
+  )
+})
+
+test("a change stating no definition is answered with the call alone", () => {
+  expect(helpOfChange("akasha change draft", "held", null, [])).toEqual([
+    "akasha change draft held",
+    "",
+    "It takes no argument.",
+  ])
 })
 
 test("a key the change does not take is refused before that change runs", async () => {

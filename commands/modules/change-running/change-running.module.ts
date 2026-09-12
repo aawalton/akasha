@@ -39,6 +39,26 @@ export const changeRunning = {
     },
     {
       invariantKind: "departure",
+      statement: "That refusal names the arguments the change named takes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The help flag piped in as the whole body is answered rather than refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That answer is the change's definition and the arguments that change takes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The arguments a change takes are read off the change rather than off its page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A word naming no change is refused before what is piped in is read.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The key `at` names a path.",
     },
     {
