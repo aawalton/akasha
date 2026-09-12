@@ -16,6 +16,8 @@ const HIDDEN = "."
 
 const LINKED_FOLDER = "node_modules"
 
+const MANIFEST = "package.json"
+
 const GONE = ["ENOENT", "ENOTDIR"]
 
 function unsupported(entry: string): Error {
@@ -62,24 +64,40 @@ function childrenOf(abs: string): readonly Dirent[] {
   }
 }
 
-function foldersBelow(repoRoot: string, prefix: string): readonly string[] {
-  const found: string[] = []
-  for (const child of childrenOf(join(repoRoot, prefix))) {
-    if (!child.isDirectory() || !walkedInto(child.name)) continue
-    const rel = prefix === "" ? child.name : `${prefix}/${child.name}`
-    found.push(rel)
-    found.push(...foldersBelow(repoRoot, rel))
+function manifested(repoRoot: string, rel: string, children: readonly Dirent[]): boolean {
+  for (const child of children) {
+    if (child.name === MANIFEST) return existsSync(join(repoRoot, rel, MANIFEST))
   }
-  return found
+  return false
+}
+
+function manifestsBelow(
+  repoRoot: string,
+  prefix: string,
+  under: boolean,
+  found: string[]
+): undefined {
+  const children = childrenOf(join(repoRoot, prefix))
+  if (under && manifested(repoRoot, prefix, children)) found.push(prefix)
+  for (const child of children) {
+    if (!child.isDirectory() || !walkedInto(child.name)) continue
+    manifestsBelow(repoRoot, prefix === "" ? child.name : `${prefix}/${child.name}`, true, found)
+  }
+}
+
+function manifestsUnder(repoRoot: string, prefix: string): readonly string[] {
+  const found: string[] = []
+  manifestsBelow(repoRoot, prefix, false, found)
+  return found.sort()
 }
 
 function holdingAManifest(repoRoot: string, dirs: readonly string[]): readonly string[] {
-  return dirs.filter((rel) => existsSync(join(repoRoot, rel, "package.json"))).sort()
+  return dirs.filter((rel) => existsSync(join(repoRoot, rel, MANIFEST))).sort()
 }
 
 function expandGlobEntry(repoRoot: string, entry: string): readonly string[] {
   const deep = deepPrefixIn(entry)
-  if (deep !== null) return holdingAManifest(repoRoot, foldersBelow(repoRoot, deep))
+  if (deep !== null) return manifestsUnder(repoRoot, deep)
   const { prefix, depth } = parseTrailingStarGlob(entry)
   let level: readonly string[] = [prefix]
   for (let i = 0; i < depth; i += 1) {
@@ -117,7 +135,7 @@ export function isCoveredByWorkspaceGlob(workspaces: readonly string[], relPath:
 }
 
 export function listWorkspaceDirs(repoRoot: string): readonly string[] {
-  const rootPath = join(repoRoot, "package.json")
+  const rootPath = join(repoRoot, MANIFEST)
   const parsed = ROOT_PACKAGE_JSON_SCHEMA.parse(JSON.parse(readFileSync(rootPath, "utf-8")))
   const entries = parsed.workspaces ?? []
   const out: string[] = []
