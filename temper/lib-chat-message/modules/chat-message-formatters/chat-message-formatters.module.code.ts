@@ -1,4 +1,3 @@
-import { LIB } from "akasha/temper/lib-chat-message/chat-message-lib/chat-message-lib.module.code.ts"
 import {
   getFormattedTime,
   getTimeStampForEvent,
@@ -12,6 +11,7 @@ import {
   SYSTEM_TAG,
   TAG_PREFIX_OFF,
 } from "akasha/temper/lib-chat-message/modules/chat-message-constants/chat-message-constants.module.code.ts"
+import { LIB } from "akasha/temper/lib-chat-message/modules/chat-message-lib/chat-message-lib.module.code.ts"
 
 type PostHook = (
   this: void,

@@ -1,5 +1,3 @@
-import { LIB } from "akasha/temper/lib-chat-message/chat-message-lib/chat-message-lib.module.code.ts"
-import type { ChatProxy } from "akasha/temper/lib-chat-message/chat-message-types/chat-message-types.module.code.ts"
 import {
   REVERSE_TIME_FORMAT_MAPPING,
   TAG_PREFIX_LONG,
@@ -7,6 +5,8 @@ import {
   TAG_PREFIX_SHORT,
   TIME_FORMAT_MAPPING,
 } from "akasha/temper/lib-chat-message/modules/chat-message-constants/chat-message-constants.module.code.ts"
+import { LIB } from "akasha/temper/lib-chat-message/modules/chat-message-lib/chat-message-lib.module.code.ts"
+import type { ChatProxy } from "akasha/temper/lib-chat-message/modules/chat-message-types/chat-message-types.module.code.ts"
 
 export function registerSlashCommand(this: void, chat: ChatProxy): undefined {
   SLASH_COMMANDS["/chatmessage"] = (params: string): undefined => {
