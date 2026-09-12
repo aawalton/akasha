@@ -117,5 +117,9 @@ export const mechanicalChangeRunning = {
       statement:
         "A caller wanting what landed named in its own refusal reaches the landing threading that list.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A caller wanting the commit itself hands in the slot the landing writes it into.",
+    },
   ],
 } as const satisfies ChangeRunner

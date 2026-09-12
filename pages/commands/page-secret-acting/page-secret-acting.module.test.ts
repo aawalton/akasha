@@ -183,7 +183,8 @@ const THREW = "the links would not be placed"
 
 function throwing(commit: string | null): Landing {
   return async (_root, _changes, _message, _agentId, writing) => {
-    if (commit !== null) writing?.done?.push(commit)
+    const noting = writing?.noting
+    if (commit !== null && noting !== undefined) noting.commit = commit
     throw new Error(THREW)
   }
 }

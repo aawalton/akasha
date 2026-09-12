@@ -19,7 +19,7 @@ import type { Kind } from "akasha/commands/modules/calling/calling.module.code.t
 import { runningOf } from "akasha/commands/modules/change-kind-running/change-kind-running.module.code.ts"
 import { landingFrom } from "akasha/commands/modules/edits-landing/edits-landing.module.code.ts"
 import { NO_GATE } from "akasha/commands/modules/gate-building/gate-building.module.code.ts"
-import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
+import type { Committing, Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
 import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 
 const NOTHING_ASKED = "no change was named, so nothing is run and nothing lands"
@@ -58,6 +58,7 @@ export type Writing = {
   readonly writer?: string | null
   readonly read?: string | null
   readonly done?: string[]
+  readonly noting?: Committing
 }
 
 export async function runMechanicalChange(
@@ -98,7 +99,8 @@ export async function runMechanicalChange(
       owed: worked.owed,
     },
     writing.read ?? null,
-    writing.done ?? []
+    writing.done ?? [],
+    writing.noting ?? null
   )
 }
 

@@ -13,6 +13,7 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import type { Committing } from "akasha/commands/modules/landing/landing.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { secretAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { cipherFor, type Secrets } from "akasha/pages/secret/page-secret.module.code.ts"
@@ -136,9 +137,8 @@ function answered(landed: Awaited<ReturnType<Landing>>, did: string): Answer {
   return told([did])
 }
 
-function stoppedSaid(done: readonly string[]): string {
-  const commit = done[0]
-  return commit === undefined ? NOTHING_WRITTEN : `${commit} ${BEFORE_STOPPING}`
+function stoppedSaid(commit: string | null): string {
+  return commit === null ? NOTHING_WRITTEN : `${commit} ${BEFORE_STOPPING}`
 }
 
 async function landedOnto(
@@ -148,11 +148,11 @@ async function landedOnto(
   message: string,
   did: string
 ): Promise<Answer> {
-  const done: string[] = []
+  const noting: Committing = { commit: null }
   try {
-    return answered(await landing(root, changes, message, null, { done }), did)
+    return answered(await landing(root, changes, message, null, { noting }), did)
   } catch (thrown) {
-    return refusedBy([whyOf(thrown), stoppedSaid(done)], OPERATIONAL)
+    return refusedBy([whyOf(thrown), stoppedSaid(noting.commit)], OPERATIONAL)
   }
 }
 
