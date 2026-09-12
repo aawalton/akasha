@@ -6,6 +6,7 @@ export const infrastructureDevServerBootstrap = {
   slug: "infrastructure-dev-server-bootstrap",
   definition: "the command writing an app's `.env.local` from the app's secret pages",
   code: "ts",
+  test: "ts",
   name: "bootstrap",
   invariants: [
     {
@@ -21,6 +22,10 @@ export const infrastructureDevServerBootstrap = {
       invariantKind: "absence",
       statement:
         "Nothing here writes over an `.env.local` already there unless the command is told to.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal after the `.env.local` was written says that file was written.",
     },
   ],
   arguments: [

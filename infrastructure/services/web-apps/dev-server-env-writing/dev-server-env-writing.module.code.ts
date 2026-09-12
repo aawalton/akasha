@@ -51,6 +51,10 @@ export function readEnvLocal(path: string): Record<string, string> {
   return out
 }
 
+export function wroteEnvSaid(path: string, varCount: number): string {
+  return `${path} was written with ${varCount} secret values in it, readable by its owner alone`
+}
+
 export function writeEnvLocalFromPages(params: {
   readonly root: string
   readonly worktreePath: string

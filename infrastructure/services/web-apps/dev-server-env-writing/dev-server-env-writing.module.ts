@@ -45,5 +45,9 @@ export const devServerEnvWriting = {
       invariantKind: "departure",
       statement: "The pages are read from the worktree the app runs in.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The write is named here, so every caller names it the same way.",
+    },
   ],
 } as const satisfies Module

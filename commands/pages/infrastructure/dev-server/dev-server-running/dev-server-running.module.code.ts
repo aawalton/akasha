@@ -13,6 +13,7 @@ import {
   readEnvLocal,
   resolveEnvLocalPath,
   writeEnvLocalFromPages,
+  wroteEnvSaid,
 } from "akasha/infrastructure/services/web-apps/dev-server-env-writing/dev-server-env-writing.module.code.ts"
 import {
   computePort,
@@ -77,7 +78,7 @@ export async function starting(
       appName: read.app,
     })
     report.push(`auto-bootstrapped ${written.path} (${written.varCount} vars)`)
-    done.push(`wrote ${written.path}`)
+    done.push(wroteEnvSaid(written.path, written.varCount))
   }
   const envLocalVars = existsSync(envLocalPath) ? readEnvLocal(envLocalPath) : {}
 
