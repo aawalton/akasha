@@ -8,7 +8,7 @@ export const inference = {
   parts: [
     "command/inference-activate",
     "command/inference-active",
-    "command/inference-capabilities",
+    "command/inference-capability-list",
     "command/inference-edit",
     "command/inference-generate",
     "command/inference-music",

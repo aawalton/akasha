@@ -1,9 +1,9 @@
 import type { Command } from "akasha/commands/command.page-type.types.ts"
 
-export const inferenceCapabilities = {
+export const inferenceCapabilityList = {
   id: "01a0685e-fd50-72b2-a396-3f2715e4d3b4",
   type: "command",
-  slug: "inference-capabilities",
+  slug: "inference-capability-list",
   definition: "the command naming the image pool services and the mflux batch tools beside them",
   code: "ts",
   changeKind: "change-none",
