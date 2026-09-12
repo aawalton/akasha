@@ -5,11 +5,11 @@ const WATCHING_ON = "watching on"
 const RAN: string[] = []
 
 const watching = await import(
-  "akasha/alan/harness/code-editor/data-interfaces/data-watching/data-watching.module.code.ts"
+  "akasha/alan/harness/code-editor/data-interfaces/modules/data-watching/data-watching.module.code.ts"
 )
 
 mock.module(
-  "akasha/alan/harness/code-editor/data-interfaces/data-watching/data-watching.module.code.ts",
+  "akasha/alan/harness/code-editor/data-interfaces/modules/data-watching/data-watching.module.code.ts",
   () => ({
     ...watching,
     watchEditorData: () => {
@@ -54,7 +54,7 @@ test("a run does not answer while the watch is up, so the runner's process stays
 
 test("a watch that could not start is carried out rather than swallowed, so a failed start is a failed unit", async () => {
   mock.module(
-    "akasha/alan/harness/code-editor/data-interfaces/data-watching/data-watching.module.code.ts",
+    "akasha/alan/harness/code-editor/data-interfaces/modules/data-watching/data-watching.module.code.ts",
     () => ({
       ...watching,
       watchEditorData: () => {

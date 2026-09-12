@@ -1,19 +1,19 @@
-import { encode } from "akasha/temper/lib-data-encode/data-encode-encoder/data-encode-encoder.module.code.ts"
-import {
-  LOG_LEVELS,
-  printLog,
-  RUNTIME,
-} from "akasha/temper/lib-data-encode/data-encode-runtime/data-encode-runtime.module.code.ts"
-import type {
-  LdeValue,
-  LuaTable,
-  TestResult,
-} from "akasha/temper/lib-data-encode/data-encode-types/data-encode-types.module.code.ts"
 import {
   CHARSET,
   CHARSET_LENGTH,
 } from "akasha/temper/lib-data-encode/modules/data-encode-charset/data-encode-charset.module.code.ts"
 import { decode } from "akasha/temper/lib-data-encode/modules/data-encode-decoder/data-encode-decoder.module.code.ts"
+import { encode } from "akasha/temper/lib-data-encode/modules/data-encode-encoder/data-encode-encoder.module.code.ts"
+import {
+  LOG_LEVELS,
+  printLog,
+  RUNTIME,
+} from "akasha/temper/lib-data-encode/modules/data-encode-runtime/data-encode-runtime.module.code.ts"
+import type {
+  LdeValue,
+  LuaTable,
+  TestResult,
+} from "akasha/temper/lib-data-encode/modules/data-encode-types/data-encode-types.module.code.ts"
 
 function compareTables(this: void, t1: unknown, t2: unknown): boolean {
   if (type(t1) !== type(t2)) {

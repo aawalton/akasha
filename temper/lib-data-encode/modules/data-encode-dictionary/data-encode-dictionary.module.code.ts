@@ -1,13 +1,13 @@
+import {
+  asLdeValue,
+  asLuaArray,
+} from "akasha/temper/lib-data-encode/modules/data-encode-casts/data-encode-casts.module.code.ts"
 import type {
   DictionaryClass,
   DictionaryInstance,
   LdeValue,
   LuaTable,
-} from "akasha/temper/lib-data-encode/data-encode-types/data-encode-types.module.code.ts"
-import {
-  asLdeValue,
-  asLuaArray,
-} from "akasha/temper/lib-data-encode/modules/data-encode-casts/data-encode-casts.module.code.ts"
+} from "akasha/temper/lib-data-encode/modules/data-encode-types/data-encode-types.module.code.ts"
 
 const DICTIONARY_OBJECT = ZO_InitializingObject.Subclass<DictionaryClass>()
 

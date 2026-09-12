@@ -1,4 +1,4 @@
-import { watchEditorData } from "akasha/alan/harness/code-editor/data-interfaces/data-watching/data-watching.module.code.ts"
+import { watchEditorData } from "akasha/alan/harness/code-editor/data-interfaces/modules/data-watching/data-watching.module.code.ts"
 
 const NEVER: Promise<never> = new Promise(() => {})
 
