@@ -8,10 +8,10 @@ import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/co
 import { esoDoc } from "akasha/commands/arguments/pages/eso-doc.argument.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import {
-  answeredWith,
-  OK,
+  asJson,
   OPERATIONAL,
   refused,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { temperEsoDeclarationAudit as page } from "akasha/commands/pages/temper/eso/declaration-audit/temper-eso-declaration-audit.command.ts"
@@ -142,7 +142,7 @@ function audited(_done: string[], taken: Taken): Answer {
     observedAtMs: Date.now(),
   }
 
-  if (taken.json) return answeredWith([JSON.stringify(audit)], [], OK)
+  if (taken.json) return asJson(audit)
 
   const lines = [...renderAuditReading(SUBJECT, audit.reading)]
   lines.push(
@@ -162,7 +162,7 @@ function audited(_done: string[], taken: Taken): Answer {
     lines.push(
       `    Every artifact compared is stamped ${String(cloneApiVersion)}, current with the clone.`
     )
-    return answeredWith(lines, [], OK)
+    return told(lines)
   }
 
   lines.push(
@@ -179,7 +179,7 @@ function audited(_done: string[], taken: Taken): Answer {
       `    and ${String(findings.length - MAX_REPORTED)} more, not listed; --json carries every one`
     )
   }
-  return answeredWith(lines, [], OK)
+  return told(lines)
 }
 
 export async function auditing(
