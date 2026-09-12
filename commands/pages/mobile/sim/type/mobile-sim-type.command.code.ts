@@ -5,63 +5,50 @@ import {
   findElement,
 } from "akasha/alan/harness/mobile-cli/appium-client/appium-client.module.code.ts"
 import type { SimSessionState } from "akasha/alan/harness/mobile-cli/sim-session/sim-session.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { selector as selectorArgument } from "akasha/commands/arguments/pages/selector.argument.ts"
+import { typedText } from "akasha/commands/arguments/pages/typed-text.argument.ts"
 import {
   answering,
-  flagsAloneIn,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
-import {
-  driving,
-  type Reading,
-  wordsIn,
-} from "akasha/commands/pages/mobile/mobile-answering/mobile-answering.module.code.ts"
-
-const TEXT = "--text"
-
-const SELECTOR = "--selector"
+import { driving } from "akasha/commands/pages/mobile/mobile-answering/mobile-answering.module.code.ts"
+import { mobileSimType as page } from "akasha/commands/pages/mobile/sim/type/mobile-sim-type.command.ts"
 
 const PIPED = "-"
 
 const BY_CSS = "css selector"
 
-const VALUED = [TEXT, SELECTOR]
+export type Reading<T> = T | { readonly refused: readonly string[] }
 
 export type Read = {
   readonly text: string
   readonly selector: string | undefined
 }
 
-function pipedText(): Reading<string> {
-  const held = inputIn()
+export function textIn(
+  wanted: string,
+  named: string | undefined,
+  piping: Piping = inputIn
+): Reading<Read> {
+  if (wanted !== PIPED) return { text: wanted, selector: named }
+  const held = piping()
   if ("tty" in held) {
     return {
-      refused: [`\`${TEXT} ${PIPED}\` reads the text from what is piped in, and nothing was`],
+      refused: [
+        `\`${typedText.said} ${PIPED}\` reads the text from what is piped in, and nothing was`,
+      ],
     }
   }
   if ("unreadable" in held) return { refused: [held.unreadable] }
   if (held.bytes.byteLength === 0) {
-    return { refused: [`\`${TEXT} ${PIPED}\` was piped nothing to type`] }
+    return { refused: [`\`${typedText.said} ${PIPED}\` was piped nothing to type`] }
   }
-  return new TextDecoder().decode(held.bytes)
-}
-
-export function readIn(argv: readonly string[]): Reading<Read> {
-  const said = wordsIn(argv, VALUED, [])
-  if ("refused" in said) return said
-  const loose = flagsAloneIn(said)
-  if (loose.length > 0) return { refused: loose }
-  const wanted = said.named[TEXT]
-  if (wanted === undefined) {
-    return { refused: [`\`${TEXT}\` names what to type, and nothing did`] }
-  }
-  const selector = said.named[SELECTOR]
-  if (wanted !== PIPED) return { text: wanted, selector }
-  const piped = pipedText()
-  if (typeof piped !== "string") return piped
-  return { text: piped, selector }
+  return { text: new TextDecoder().decode(held.bytes), selector: named }
 }
 
 export type Typing = {
@@ -108,8 +95,10 @@ export async function typedIn(
   return told([`typed\t${read.text.length} characters into ${selector}`])
 }
 
-export async function mobileSimType(argv: readonly string[]): Promise<Answer> {
-  const read = readIn(argv)
+export async function mobileSimType(argv: readonly string[], given: Given): Promise<Answer> {
+  const said = takenFor(argv, given.calledAs, page, [selectorArgument, typedText])
+  if ("refused" in said) return refusedBy(said.refused)
+  const read = textIn(said.taken.typedText, said.taken.selector)
   if ("refused" in read) return refusedBy(read.refused)
   return await answering(async (done) => await typedIn(read, done))
 }

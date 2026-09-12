@@ -5,6 +5,7 @@ import {
   answering,
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type {
   Read,
   Typing,
@@ -12,10 +13,25 @@ import type {
 import {
   mobileSimType,
   tappedSaid,
+  textIn,
   typedIn,
 } from "akasha/commands/pages/mobile/sim/type/mobile-sim-type.command.code.ts"
 
 const SELECTOR = "#password"
+
+const CALLED_AS = "akasha mobile sim type"
+
+const GIVEN: Given = {
+  root: "/nowhere",
+  calledAs: CALLED_AS,
+  from: "/nowhere",
+  writer: null,
+  agentId: null,
+}
+
+const PIPED_TEXT = { bytes: new TextEncoder().encode("hunter2") }
+
+const PIPED_NOTHING = { bytes: new Uint8Array() }
 
 const TAPPED = tappedSaid(SELECTOR)
 
@@ -75,22 +91,22 @@ test("a call naming no element taps nothing, so a throw there names nothing", as
 })
 
 test("a call naming no text is refused before the session is reached", async () => {
-  const said = await mobileSimType([])
+  const said = await mobileSimType([], GIVEN)
 
   expect(said.code).toBe(1)
   expect(said.report).toEqual([])
-  expect(said.refusals[0]).toContain("--text")
+  expect(said.refusals[0]).toBe(`\`${CALLED_AS}\` takes \`--text\`, and nothing said it`)
 })
 
 test("a call naming an element and no text is refused", async () => {
-  const said = await mobileSimType(["--selector", SELECTOR])
+  const said = await mobileSimType(["--selector", SELECTOR], GIVEN)
 
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("--text")
 })
 
 test("a flag this takes no argument at is refused by name", async () => {
-  const said = await mobileSimType(["--bogus"])
+  const said = await mobileSimType(["--bogus"], GIVEN)
 
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("--bogus")
@@ -98,17 +114,32 @@ test("a flag this takes no argument at is refused by name", async () => {
 })
 
 test("a bare word is refused, since this names every argument at a flag", async () => {
-  const said = await mobileSimType(["hunter2"])
+  const said = await mobileSimType(["hunter2"], GIVEN)
 
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("hunter2")
 })
 
-test("a dash naming what is piped in reaches no piping today", async () => {
-  const said = await mobileSimType(["--text", "-"])
+test("text said is the text typed, and nothing is piped in for it", () => {
+  expect(textIn("hunter2", SELECTOR)).toEqual({ text: "hunter2", selector: SELECTOR })
+})
 
-  expect(said.code).toBe(1)
-  expect(said.refusals).toEqual([
-    "`--text` names a value, and nothing that could be one followed it",
-  ])
+test("a dash reads the text from what is piped in", () => {
+  const said = textIn("-", undefined, () => PIPED_TEXT)
+
+  expect(said).toEqual({ text: "hunter2", selector: undefined })
+})
+
+test("a dash with a terminal on the other end is refused", () => {
+  const said = textIn("-", undefined, () => ({ tty: true }))
+
+  expect(said).toEqual({
+    refused: ["`--text -` reads the text from what is piped in, and nothing was"],
+  })
+})
+
+test("a dash piped nothing at all is refused", () => {
+  const said = textIn("-", undefined, () => PIPED_NOTHING)
+
+  expect(said).toEqual({ refused: ["`--text -` was piped nothing to type"] })
 })

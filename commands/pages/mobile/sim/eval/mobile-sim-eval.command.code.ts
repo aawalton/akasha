@@ -1,58 +1,43 @@
 import { executeScript } from "akasha/alan/harness/mobile-cli/appium-client/appium-client.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { script } from "akasha/commands/arguments/pages/script.argument.ts"
 import {
   answering,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
-import {
-  bareWordAs,
-  driving,
-  type Reading,
-  wordsIn,
-} from "akasha/commands/pages/mobile/mobile-answering/mobile-answering.module.code.ts"
-
-const SCRIPT = "--script"
+import { driving } from "akasha/commands/pages/mobile/mobile-answering/mobile-answering.module.code.ts"
+import { mobileSimEval as page } from "akasha/commands/pages/mobile/sim/eval/mobile-sim-eval.command.ts"
 
 const PIPED = "-"
 
-const VALUED = [SCRIPT]
-
 const INDENT = 2
+
+export type Reading<T> = T | { readonly refused: readonly string[] }
 
 export type Read = {
   readonly script: string
 }
 
-function pipedScript(): Reading<string> {
-  const held = inputIn()
+export function scriptIn(said: string, piping: Piping = inputIn): Reading<Read> {
+  if (said !== PIPED) return { script: said }
+  const held = piping()
   if ("tty" in held) {
     return {
-      refused: [`\`${SCRIPT} ${PIPED}\` reads the script from what is piped in, and nothing was`],
+      refused: [
+        `\`${script.said} ${PIPED}\` reads the script from what is piped in, and nothing was`,
+      ],
     }
   }
   if ("unreadable" in held) return { refused: [held.unreadable] }
-  const said = new TextDecoder().decode(held.bytes)
-  if (said.trim() === "") {
-    return { refused: [`\`${SCRIPT} ${PIPED}\` was piped nothing that could be a script`] }
+  const body = new TextDecoder().decode(held.bytes)
+  if (body.trim() === "") {
+    return { refused: [`\`${script.said} ${PIPED}\` was piped nothing that could be a script`] }
   }
-  return said
-}
-
-export function readIn(argv: readonly string[]): Reading<Read> {
-  const words = wordsIn(argv, VALUED, [])
-  if ("refused" in words) return words
-  const said = bareWordAs(words, SCRIPT)
-  if ("refused" in said) return said
-  const script = said.named[SCRIPT]
-  if (script === undefined) {
-    return { refused: [`\`${SCRIPT}\` names the script to run, and nothing did`] }
-  }
-  if (script !== PIPED) return { script }
-  const piped = pipedScript()
-  if (typeof piped !== "string") return piped
-  return { script: piped }
+  return { script: body }
 }
 
 export type Evaluating = (done: string[], read: Read) => Promise<Answer>
@@ -65,9 +50,12 @@ async function evaluated(done: string[], read: Read): Promise<Answer> {
 
 export async function mobileSimEval(
   argv: readonly string[],
+  given: Given,
   evaluating: Evaluating = evaluated
 ): Promise<Answer> {
-  const read = readIn(argv)
+  const said = takenFor(argv, given.calledAs, page, [script])
+  if ("refused" in said) return refusedBy(said.refused)
+  const read = scriptIn(said.taken.script)
   if ("refused" in read) return refusedBy(read.refused)
   return await answering(async (done) => await evaluating(done, read))
 }
