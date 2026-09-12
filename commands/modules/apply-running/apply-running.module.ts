@@ -159,5 +159,23 @@ export const applyRunning = {
       invariantKind: "departure",
       statement: "An apply whose arguments the reading refused folds nothing.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A landing moving the file a hook link points at writes that link again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A link already reaching the file the link names is left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A mend that failed is said beside the apply's refusals rather than stopping the apply.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The mend follows the landing, so the run that moved the file is the run that mends.",
+    },
   ],
 } as const satisfies Module

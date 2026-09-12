@@ -1,4 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
+import { mkdirSync, symlinkSync } from "node:fs"
+import { linkFor, linksAt } from "akasha/agents/hooks/links/hook-links.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   appendEdits,
@@ -8,9 +10,11 @@ import {
 import {
   type Folded,
   folding,
+  mendedInto,
   runningOver,
   undone,
 } from "akasha/commands/modules/apply-running/apply-running.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   type Landing,
   landingFrom,
@@ -19,6 +23,7 @@ import { baseOf } from "akasha/commands/modules/landing-change-composing/landing
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { writing as putting } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as gitSaid } from "akasha/git/running/git-running.module.code.ts"
+import { AKASHA, rootEnvName } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   listedFiled,
   valueAlsoFiled,
@@ -307,5 +312,47 @@ test("a path that is no page keeps no edits", async () => {
 
   expect(folding(root, "akasha/notes.md")).toEqual({
     refusals: ["a path that is no page keeps no edits"],
+  })
+})
+
+const HOME = "HOME"
+
+const SERVED = rootEnvName(AKASHA)
+
+const GONE = "/made-up/nothing-is-here.ts"
+
+const LANDED: Answer = { report: ["landed"], refusals: [], code: 0 }
+
+function withEnv<T>(name: string, at: string, run: () => T): T {
+  const before = process.env[name]
+  process.env[name] = at
+  try {
+    return run()
+  } finally {
+    if (before === undefined) delete process.env[name]
+    else process.env[name] = before
+  }
+}
+
+function givenAt(root: string): Given {
+  return { root, calledAs: "akasha", from: root, writer: null, agentId: null }
+}
+
+test("an apply mends a hook link pointing at a file the landing moved away", () => {
+  const root = scratch.rootFor("akasha-apply-")
+  withEnv(HOME, scratch.rootFor("akasha-apply-home-"), () => {
+    mkdirSync(linksAt(), { recursive: true })
+    symlinkSync(GONE, linkFor("PreToolUse"))
+
+    const said = withEnv(SERVED, root, () => mendedInto(LANDED, givenAt(root)))
+
+    expect(said.refusals[0]).toContain("a hook is registered through a link that is gone")
+  })
+})
+
+test("an apply whose every hook link reaches leaves the answer as the answer was", () => {
+  const root = scratch.rootFor("akasha-apply-")
+  withEnv(HOME, scratch.rootFor("akasha-apply-home-"), () => {
+    expect(withEnv(SERVED, root, () => mendedInto(LANDED, givenAt(root)))).toEqual(LANDED)
   })
 })

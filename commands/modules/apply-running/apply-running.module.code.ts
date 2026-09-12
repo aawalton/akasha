@@ -1,3 +1,4 @@
+import { mendedFor } from "akasha/agents/hooks/links/hook-links.module.code.ts"
 import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
@@ -168,6 +169,12 @@ async function ending(asked: Taken, given: Given): Promise<Ended> {
   }
 }
 
+export function mendedInto(answer: Answer, given: Given): Answer {
+  const mended = mendedFor(given.root, given.calledAs)
+  if (mended.length === 0) return answer
+  return { ...answer, refusals: [...answer.refusals, ...mended] }
+}
+
 export async function applyWith(taken: Arguments, given: Given): Promise<Answer> {
   const asked = askedIn(taken)
   if (!("refusals" in asked) && asked.measure) allowedAgain(MEASURED_ALLOWED, MEASURED_NAME)
@@ -176,7 +183,7 @@ export async function applyWith(taken: Arguments, given: Given): Promise<Answer>
   const refusals = done.answer.refusals.length
   const page = commandPageAt(given.root, CHANGE_APPLY_SLUG)
   costRecorded(given.root, page, before, APPLY, APPLY, done.paths, refusals)
-  return done.answer
+  return mendedInto(done.answer, given)
 }
 
 export async function applyingKept(given: Given): Promise<Answer> {
