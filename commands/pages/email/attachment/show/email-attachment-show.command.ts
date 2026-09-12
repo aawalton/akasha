@@ -6,12 +6,7 @@ export const emailAttachmentShow = {
   slug: "email-attachment-show",
   definition: "the command fetching one attachment's bytes by id, with its size beside them",
   code: "ts",
-  taking: [
-    {
-      said: "--attachment-id <id>",
-      takes: "which attachment to fetch, said as `email attachment list` names it",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -28,5 +23,8 @@ export const emailAttachmentShow = {
     },
   ],
   name: "show",
-  arguments: [{ argument: "argument/message", required: true, saidAs: "flag-or-word" }],
+  arguments: [
+    { argument: "argument/message", required: true, saidAs: "flag-or-word" },
+    { argument: "argument/attachment-id", required: true },
+  ],
 } as const satisfies Command
