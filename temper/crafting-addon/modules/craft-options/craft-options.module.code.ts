@@ -1,4 +1,3 @@
-import * as StyleTracking from "akasha/temper/crafting-addon/craft-style-tracking/craft-style-tracking.module.code.ts"
 import type { CsTooltipOwner } from "akasha/temper/crafting-addon/craft-tooltips/craft-tooltips.module.code.ts"
 import * as Tooltips from "akasha/temper/crafting-addon/craft-tooltips/craft-tooltips.module.code.ts"
 import {
@@ -15,6 +14,7 @@ import {
   type CraftedSetEntry,
   SETS,
 } from "akasha/temper/crafting-addon/modules/craft-sets-data/craft-sets-data.module.code.ts"
+import * as StyleTracking from "akasha/temper/crafting-addon/modules/craft-style-tracking/craft-style-tracking.module.code.ts"
 
 function asWidth(this: void, value: unknown): number {
   return value as number

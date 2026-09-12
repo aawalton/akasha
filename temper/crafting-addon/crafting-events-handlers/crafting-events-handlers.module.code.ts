@@ -1,15 +1,4 @@
 import {
-  hideCrownStyles,
-  hideKnownBlueprints,
-  hideKnownRecipes,
-  hidePerfectedStyles,
-  hideStyles,
-  hideUnknownBlueprints,
-  hideUnknownRecipes,
-  hideUnknownStyles,
-  updateStyleKnowledge,
-} from "akasha/temper/crafting-addon/craft-style-tracking/craft-style-tracking.module.code.ts"
-import {
   controlCloseAll,
   initPreviews,
 } from "akasha/temper/crafting-addon/craft-ui-updates/craft-ui-updates.module.code.ts"
@@ -47,6 +36,17 @@ import type {
   RuneRefineGlyphEntry,
   RuneTable,
 } from "akasha/temper/crafting-addon/modules/craft-rune/craft-rune.module.code.ts"
+import {
+  hideCrownStyles,
+  hideKnownBlueprints,
+  hideKnownRecipes,
+  hidePerfectedStyles,
+  hideStyles,
+  hideUnknownBlueprints,
+  hideUnknownRecipes,
+  hideUnknownStyles,
+  updateStyleKnowledge,
+} from "akasha/temper/crafting-addon/modules/craft-style-tracking/craft-style-tracking.module.code.ts"
 import { runeShowMode } from "akasha/temper/crafting-addon/rune-mode/rune-mode.module.code.ts"
 import {
   runeHideVanillaUI,

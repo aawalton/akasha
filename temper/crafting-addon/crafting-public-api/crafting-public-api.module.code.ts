@@ -1,16 +1,4 @@
 import {
-  closeStyle,
-  hideCrownStyles,
-  hideKnownBlueprints,
-  hideKnownRecipes,
-  hidePerfectedStyles,
-  hideStyles,
-  hideUnknownBlueprints,
-  hideUnknownRecipes,
-  hideUnknownStyles,
-  setAllStyles,
-} from "akasha/temper/crafting-addon/craft-style-tracking/craft-style-tracking.module.code.ts"
-import {
   setTimer,
   tooltip,
 } from "akasha/temper/crafting-addon/craft-tooltips/craft-tooltips.module.code.ts"
@@ -63,6 +51,18 @@ import {
 } from "akasha/temper/crafting-addon/modules/craft-recipe-cooking/craft-recipe-cooking.module.code.ts"
 import { runeSetValue } from "akasha/temper/crafting-addon/modules/craft-rune-crafting/craft-rune-crafting.module.code.ts"
 import { refineAll } from "akasha/temper/crafting-addon/modules/craft-rune-refining/craft-rune-refining.module.code.ts"
+import {
+  closeStyle,
+  hideCrownStyles,
+  hideKnownBlueprints,
+  hideKnownRecipes,
+  hidePerfectedStyles,
+  hideStyles,
+  hideUnknownBlueprints,
+  hideUnknownRecipes,
+  hideUnknownStyles,
+  setAllStyles,
+} from "akasha/temper/crafting-addon/modules/craft-style-tracking/craft-style-tracking.module.code.ts"
 import { runeShowMode } from "akasha/temper/crafting-addon/rune-mode/rune-mode.module.code.ts"
 import { runeView } from "akasha/temper/crafting-addon/rune-panel/rune-panel.module.code.ts"
 

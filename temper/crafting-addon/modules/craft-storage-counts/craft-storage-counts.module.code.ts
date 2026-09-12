@@ -1,7 +1,7 @@
 import type {
   StorageMap,
   StorageSlot,
-} from "akasha/temper/crafting-addon/craft-storage-prune/craft-storage-prune.module.code.ts"
+} from "akasha/temper/crafting-addon/modules/craft-storage-prune/craft-storage-prune.module.code.ts"
 
 export function applyStorageCounts(
   storage: StorageMap,

@@ -1,4 +1,3 @@
-import { pruneEmptyStorage } from "akasha/temper/crafting-addon/craft-storage-prune/craft-storage-prune.module.code.ts"
 import * as DataValidation from "akasha/temper/crafting-addon/craft-validation/craft-validation.module.code.ts"
 import {
   CB_ADD_RESEARCH_ITEM,
@@ -14,6 +13,7 @@ import type { AccountData } from "akasha/temper/crafting-addon/modules/craft-acc
 import { defined } from "akasha/temper/crafting-addon/modules/craft-defined/craft-defined.module.code.ts"
 import { RawItemTypes } from "akasha/temper/crafting-addon/modules/craft-item-types/craft-item-types.module.code.ts"
 import { LANG } from "akasha/temper/crafting-addon/modules/craft-lang-index/craft-lang-index.module.code.ts"
+import { pruneEmptyStorage } from "akasha/temper/crafting-addon/modules/craft-storage-prune/craft-storage-prune.module.code.ts"
 
 function asSaveResult(this: void, value: unknown): LuaMultiReturn<[boolean, string | undefined]> {
   return value as LuaMultiReturn<[boolean, string | undefined]>
