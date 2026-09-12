@@ -41,6 +41,22 @@ export const temperEsoGenerateColonMethod = {
       statement: "Nothing here writes the clone.",
     },
     {
+      invariantKind: "departure",
+      statement: "The staging folder is named as soon as this made it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each body staged is named as soon as that body is written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that threw part way names in its refusal what it had staged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The staging is handed in.",
+    },
+    {
       invariantKind: "gap",
       statement: "A check reads this census.",
     },

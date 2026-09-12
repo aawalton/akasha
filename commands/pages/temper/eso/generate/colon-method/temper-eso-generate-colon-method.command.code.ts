@@ -8,7 +8,9 @@ import {
 } from "akasha/code/name-series/name-series.module.code.ts"
 import {
   answeredWith,
+  answering,
   DATA,
+  naming,
   OK,
   refused,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -42,7 +44,17 @@ const BINDING = "ESO_COLON_METHOD_NAMES"
 
 const STAGE_PREFIX = "eso-colon-methods-stage-"
 
-export function temperEsoGenerateColonMethod(argv: readonly string[], given: Given): Answer {
+export type Staging = (done: string[], argv: readonly string[], given: Given) => Answer
+
+export async function temperEsoGenerateColonMethod(
+  argv: readonly string[],
+  given: Given,
+  staging: Staging = staged
+): Promise<Answer> {
+  return await answering((done) => naming(done, staging(done, argv, given)))
+}
+
+function staged(done: string[], argv: readonly string[], given: Given): Answer {
   const namedCheckout = saidFor(argv, CODE_ROOT_FLAG)
 
   let checkout: string
@@ -112,22 +124,23 @@ export function temperEsoGenerateColonMethod(argv: readonly string[], given: Giv
 
   const pages = renderSeries(checkout, spec)
   const runs = pages.length - 1
-  const staged = stageSeries(
+  const put = stageSeries(
     checkout,
     spec,
     pages,
-    stagingAt(saidFor(argv, STAGE_FLAG), STAGE_PREFIX),
-    `write the base-game colon-method census from the ~/esoui clone at API ${String(apiVersion)}`
+    stagingAt(saidFor(argv, STAGE_FLAG), STAGE_PREFIX, done),
+    `write the base-game colon-method census from the ~/esoui clone at API ${String(apiVersion)}`,
+    done
   )
 
   const report = [
     `read ${String(luaFiles.length)} Lua file(s) under ${esoRoot} at API version ${String(apiVersion)}`,
     `kept ${String(spec.names.length)} colon-method name(s) divided into ${String(runs)} run(s)`,
     ...pages.map((one) => `  ${String(byteLength(one.code))}\t${one.codeRel}`),
-    ...staged.goneRels.map((rel) => `  gone\t${rel}`),
+    ...put.goneRels.map((rel) => `  gone\t${rel}`),
   ]
 
-  if (staged.landAt === null) {
+  if (put.landAt === null) {
     report.push(
       "every body above is already what this run rendered, so there is nothing to land",
       `that is the round trip: the ${String(runs)} runs compose back to the ${String(spec.names.length)} names one file would have held`
@@ -136,7 +149,7 @@ export function temperEsoGenerateColonMethod(argv: readonly string[], given: Giv
   }
 
   report.push(
-    `nothing has landed. ${String(staged.changed.length)} file(s) differ from what is there; to land them, run: bash ${staged.landAt}`,
+    `nothing has landed. ${String(put.changed.length)} file(s) differ from what is there; to land them, run: bash ${put.landAt}`,
     `nothing in the tree reads ${BINDING} today, so landing this sets up an authority with no consumer`,
     `the temper-build-deploy-checks package manifest would want a \`./${STEM}\` entry pointing at the aggregate's code, and its workspace-package page would want every run's slug in its part slugs; nothing here writes either`
   )
