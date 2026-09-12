@@ -22,17 +22,18 @@ export const inferenceEdit = {
     { said: "--timeout <s>", takes: "how many seconds the wait on the engine runs for" },
     { said: "--no-persist", takes: "leave the image where it was written and file no page for it" },
   ],
-  helpNotes: [
-    "one image is named, and it is the one whose identity is kept.",
-    "`--image` repeats, and each after the first becomes a reference rather than the subject.",
-    "identity carries across a chain of single-image edits, so chaining beats re-naming an anchor.",
-    "a ratio nothing named leaves the output at the input's own shape, and a size nothing named at its own size.",
-    "the engine reaches Google through the key `GEMINI_API_KEY` holds, and no key set refuses the call.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
+      statement: "`--image` is named again for each further image.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The first image named is the subject and every later image is a reference.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The engine is reached with the key `GEMINI_API_KEY` holds.",
     },
     {
       invariantKind: "departure",
