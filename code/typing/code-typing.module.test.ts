@@ -9,6 +9,7 @@ import {
   NOWHERE,
   readingOf,
   servedOf,
+  typingOver,
 } from "akasha/code/typing/code-typing.module.code.ts"
 import {
   linked,
@@ -117,4 +118,27 @@ test("a path under the root is answered relative and one outside the root is not
   expect(insideOf("/at", "/at/akasha/one.ts")).toBe("akasha/one.ts")
   expect(insideOf("/at", "/at/tools/one.ts")).toBe("tools/one.ts")
   expect(insideOf("/at", "/elsewhere/akasha/one.ts")).toBe(null)
+})
+
+const LIBRARY = "lib.es5.d.ts"
+
+test("the compiler's own library is parsed once however many programs are built", () => {
+  const root = linked({ [TWO_AT]: TWO }, "one")
+  const read = readingOf(root, (rel) => (rel === TWO_AT ? TWO : null), NOWHERE)
+  const one = typingOver(root, [TWO_AT], read, NOWHERE)
+  const two = typingOver(root, [TWO_AT], read, NOWHERE)
+  const held = one.program.getSourceFiles().find((file) => file.fileName.endsWith(LIBRARY))
+
+  expect(held).toBeDefined()
+  expect(held).toBe(two.program.getSourceFiles().find((file) => file.fileName.endsWith(LIBRARY)))
+})
+
+test("a body the akasha folder compiles is parsed anew for each program", () => {
+  const root = linked({ [TWO_AT]: TWO }, "one")
+  const read = readingOf(root, (rel) => (rel === TWO_AT ? TWO : null), NOWHERE)
+  const one = typingOver(root, [TWO_AT], read, NOWHERE)
+  const two = typingOver(root, [TWO_AT], read, NOWHERE)
+
+  expect(one.sourceAt(TWO_AT)).not.toBe(null)
+  expect(one.sourceAt(TWO_AT)).not.toBe(two.sourceAt(TWO_AT))
 })

@@ -70,6 +70,23 @@ export function placingOver(every: readonly string[], textOf: Bodies): Placing {
 
 const LINKED = new Map<string, string>()
 
+const LIBRARY = new Map<string, ts.SourceFile | undefined>()
+
+type Asked = ts.ScriptTarget | ts.CreateSourceFileOptions
+
+function versionOf(language: Asked): ts.ScriptTarget {
+  return typeof language === "object" ? language.languageVersion : language
+}
+
+function libraryAt(base: ts.CompilerHost, at: string, language: Asked): ts.SourceFile | undefined {
+  const key = `${String(versionOf(language))} ${at}`
+  const held = LIBRARY.get(key)
+  if (held !== undefined || LIBRARY.has(key)) return held
+  const made = stamped(base.getSourceFile(at, language))
+  LIBRARY.set(key, made)
+  return made
+}
+
 function realOf(at: string): string {
   const found = LINKED.get(at)
   if (found !== undefined) return found
@@ -130,6 +147,7 @@ function hostOver(
 ): ts.CompilerHost {
   const base = ts.createCompilerHost(SETTINGS, true)
   const dirs = directoriesIn(root, every)
+  const library = base.getDefaultLibLocation?.() ?? ""
   return {
     ...base,
     getCurrentDirectory: () => root,
@@ -147,7 +165,11 @@ function hostOver(
     writeFile: writtenTo,
     createHash: sha256Hex,
     getSourceFile: (path, language) => {
-      if (insideOf(root, resolve(path)) === null) return stamped(base.getSourceFile(path, language))
+      const at = resolve(path)
+      if (insideOf(root, at) === null) {
+        if (library !== "" && at.startsWith(`${library}/`)) return libraryAt(base, path, language)
+        return stamped(base.getSourceFile(path, language))
+      }
       const body = read(path)
       return body === undefined
         ? undefined

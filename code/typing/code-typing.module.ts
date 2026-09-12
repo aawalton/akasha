@@ -85,6 +85,14 @@ export const codeTyping = {
       statement: "A body served to the program has a version.",
     },
     {
+      invariantKind: "departure",
+      statement: "The compiler's own library is parsed once for the life of the process.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body the akasha folder compiles is parsed anew for each program.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here writes inside the akasha folder.",
     },
