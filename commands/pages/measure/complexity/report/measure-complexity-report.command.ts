@@ -25,4 +25,5 @@ export const measureComplexityReport = {
     },
   ],
   name: "report",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

@@ -53,4 +53,5 @@ export const measureLearning = {
     },
   ],
   name: "learning",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

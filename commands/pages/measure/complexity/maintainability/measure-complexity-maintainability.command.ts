@@ -29,4 +29,5 @@ export const measureComplexityMaintainability = {
     },
   ],
   name: "maintainability",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

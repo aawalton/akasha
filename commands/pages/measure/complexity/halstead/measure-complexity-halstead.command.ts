@@ -36,4 +36,5 @@ export const measureComplexityHalstead = {
     },
   ],
   name: "halstead",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command
