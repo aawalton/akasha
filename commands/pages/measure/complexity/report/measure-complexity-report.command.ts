@@ -6,6 +6,7 @@ export const measureComplexityReport = {
   slug: "measure-complexity-report",
   definition: "the command saying every complexity metric by percentile, with the outliers of each",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
