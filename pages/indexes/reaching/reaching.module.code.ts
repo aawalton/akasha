@@ -12,6 +12,7 @@ import {
 import type { Rowed, Rowing } from "akasha/pages/modules/entries/page-entries.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import {
+  recordsIn,
   slugOf,
   slugsIn,
   textAt,
@@ -375,13 +376,6 @@ export function namesIn(held: unknown): readonly string[] {
   if (typeof held === "string") return [held]
   if (!Array.isArray(held)) return []
   return held.filter((one): one is string => typeof one === "string")
-}
-
-export function recordsIn(held: unknown): readonly Value[] {
-  const listed = Array.isArray(held) ? held : [held]
-  return listed.filter(
-    (one): one is Value => one !== null && typeof one === "object" && !Array.isArray(one)
-  )
 }
 
 export type Naming = {

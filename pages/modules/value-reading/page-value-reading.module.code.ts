@@ -41,3 +41,10 @@ export function slugsIn(said: unknown): readonly string[] {
   }
   return named
 }
+
+export function recordsIn(held: unknown): readonly Value[] {
+  const listed = Array.isArray(held) ? held : [held]
+  return listed.filter(
+    (one): one is Value => one !== null && typeof one === "object" && !Array.isArray(one)
+  )
+}

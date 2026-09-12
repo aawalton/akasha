@@ -30,6 +30,10 @@ export const pageValueReading = {
     },
     {
       invariantKind: "departure",
+      statement: "A key holding one record or a list of them is read here as a list of records.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A browser reaches this module and never the module loading a value from a file.",
     },
     {
