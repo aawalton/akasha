@@ -15,15 +15,28 @@ export const talosConfigGen = {
       takes: "the file to write to, where the documents are not reported",
     },
   ],
-  helpNotes: [
-    "the documents are the strategic-merge patch laid over what `talosctl gen config` makes, followed by the node's storage documents.",
-    "the patch carries the hostname, install disk and image, control-plane VIP, registries and CA trust, kubelet mounts, etcd quota, subnets and labels.",
-    "the storage documents are one user volume per re-homed store and an ephemeral volume where the node states a separate etcd disk.",
-    "the cluster PKI is not here: it sits SOPS-encrypted beside the cluster's page and `talos-secrets-gen` writes it.",
-    "`TALOS_SCHEMATIC_ID` names the Image Factory schematic the install image points at, and a placeholder is used where it is unset.",
-    "the placeholder is enough for a golden test and no real apply takes it.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "The documents are the node's machine-config patch and then its storage documents.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A volume the node states is one user volume document.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A node stating an ephemeral disk has an ephemeral volume document as well.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The schematic id the install image points at is read from `TALOS_SCHEMATIC_ID`.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here writes the cluster's PKI.",
+    },
     {
       invariantKind: "departure",
       statement: "The node is named as a word or after `--node`.",
