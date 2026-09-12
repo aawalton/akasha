@@ -162,5 +162,15 @@ export const logDayWriting = {
       statement:
         "The folder a page written here sits in is answered from that page's type rather than spelled.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A writer refused by a line that could not reach its part writes again once that page moves.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A writer that is refused looks for its page on every line rather than once a second.",
+    },
   ],
 } as const satisfies Module

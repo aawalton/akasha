@@ -232,7 +232,7 @@ export function appenderOver(
   })
   const following = (now: number): undefined => {
     if (existsSync(join(root, pagePath))) return
-    if (now - lookedAt < LOOK_EVERY) return
+    if (refused === null && now - lookedAt < LOOK_EVERY) return
     lookedAt = now
     const again = pathing(slug)
     if (again === pagePath || !existsSync(join(root, again))) return
@@ -243,9 +243,11 @@ export function appenderOver(
     path = moved.path
     part = moved.part
     bytes = moved.bytes
+    refused = null
   }
   return {
     append: (line): undefined => {
+      following(Date.now())
       if (refused !== null) return
       let text: string
       try {
@@ -254,7 +256,6 @@ export function appenderOver(
         refused = `no line reached ${path}: ${error instanceof Error ? error.message : String(error)}`
         return
       }
-      following(Date.now())
       const size = Buffer.byteLength(text, "utf8") + 1
       let opened = bytes === 0
       if (bytes > 0 && bytes + size > ENTRY_CEILING) {

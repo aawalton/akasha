@@ -91,3 +91,76 @@ test("a line written after its page moved goes beside that page where the page n
   expect(linesIn(root, "now")).toContain("after the move")
   expect(linesIn(root, "was")).not.toContain("after the move")
 })
+
+test("a writer refused by a folder that went writes again once its page moves", async () => {
+  const root = scratch.rootFor("akasha-log-day-writing-refused-")
+  let at = dayUp(root, "was")
+  const next = dayUp(root, "now")
+  const said = appenderOver(
+    root,
+    SLUG,
+    null,
+    () => at,
+    async () => null
+  )
+
+  said.append({ "written-at": `${DATE}T00:00:00Z`, text: "before the folder went" })
+  await said.flushed()
+  expect(linesIn(root, "was")).toContain("before the folder went")
+
+  rmSync(join(root, "was", SLUG), { recursive: true })
+  said.append({ "written-at": `${DATE}T00:00:01Z`, text: "into the folder that went" })
+  await said.flushed()
+  expect(said.refused()).not.toBeNull()
+
+  at = next
+  said.append({ "written-at": `${DATE}T00:00:02Z`, text: "after the move" })
+  await said.flushed()
+
+  expect(said.refused()).toBeNull()
+  expect(linesIn(root, "now")).toContain("after the move")
+})
+
+test("a writer bound by a day naming no export stays refused though its page moves", async () => {
+  const root = scratch.rootFor("akasha-log-day-writing-bound-")
+  let at = dayUp(root, "was")
+  const next = dayUp(root, "now")
+  const bound = "a day naming no export, so no line is written"
+  const said = appenderOver(
+    root,
+    SLUG,
+    bound,
+    () => at,
+    async () => null
+  )
+
+  rmSync(join(root, "was", SLUG, PAGE))
+  at = next
+  said.append({ "written-at": `${DATE}T00:00:00Z`, text: "never written" })
+  await said.flushed()
+
+  expect(said.refused()).toBe(bound)
+  expect(linesIn(root, "now")).not.toContain("never written")
+})
+
+test("a writer whose first part could not be named stays refused though its page moves", async () => {
+  const root = scratch.rootFor("akasha-log-day-writing-partless-")
+  const next = dayUp(root, "now")
+  let at = "was/naming-no-page"
+  const said = appenderOver(
+    root,
+    SLUG,
+    null,
+    () => at,
+    async () => null
+  )
+
+  expect(said.refused()).toContain("no part could be named beside")
+
+  at = next
+  said.append({ "written-at": `${DATE}T00:00:00Z`, text: "never written" })
+  await said.flushed()
+
+  expect(said.refused()).toContain("no part could be named beside")
+  expect(linesIn(root, "now")).not.toContain("never written")
+})
