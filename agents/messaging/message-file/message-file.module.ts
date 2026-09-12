@@ -85,5 +85,13 @@ export const messageFile = {
       invariantKind: "departure",
       statement: "The folder a watch is handed is the folder a message arrives in.",
     },
+    {
+      invariantKind: "departure",
+      statement: "That folder is asked of the index rather than spelled here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No folder a message page sits in is written in this code.",
+    },
   ],
 } as const satisfies Module

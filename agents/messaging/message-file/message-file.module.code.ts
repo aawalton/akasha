@@ -3,7 +3,10 @@ import { messageNamed } from "akasha/agents/messaging/message-naming/message-nam
 import { CEILING } from "akasha/checks/code-checks/pages/file-length/file-length.code-check.decision.code.ts"
 import { AKASHA, akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { composedFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
+import {
+  composedFor,
+  pagesAtFor,
+} from "akasha/pages/service/page-composing/page-composing.module.code.ts"
 import {
   mergeUncommitted,
   removeUncommitted,
@@ -21,9 +24,11 @@ const PAGE_TYPE = "message"
 
 const WRITER = "message-file-writer"
 
-const PAGES_AT = "seat-system/messages/pages"
-
 const PAGE_EXT = `.${PAGE_TYPE}.ts`
+
+function pagesAt(): string {
+  return pagesAtFor(akashaRoot(), PAGE_TYPE)
+}
 
 const CLAIMED_AT_KEY = "claimedAt"
 
@@ -58,17 +63,17 @@ export function recipientRefused(to: string): string | null {
 }
 
 export function messagesDirRelPath(): string {
-  return PAGES_AT
+  return pagesAt()
 }
 
 export function messageDirRelPath(_to: string): string {
-  return PAGES_AT
+  return pagesAt()
 }
 
 export function messageRelPath(to: string, id: string): string {
   const stem = id.startsWith(`${PAGE_TYPE}-`) ? id : messageNamed(id)
   const found = messagesTo(to).find((one) => one.id === stem)
-  return found?.relPath ?? `${PAGES_AT}/${stem}${PAGE_EXT}`
+  return found?.relPath ?? `${pagesAt()}/${stem}${PAGE_EXT}`
 }
 
 function unknownRecipient(to: string): string | null {
@@ -114,11 +119,12 @@ export async function writeMessage(stated: {
     },
   })
   if ("refused" in composed) return { kind: "refused", detail: composed.refused }
-  if (!composed.put.path.startsWith(`${PAGES_AT}/`)) {
+  const under = pagesAt()
+  if (!composed.put.path.startsWith(`${under}/`)) {
     return {
       kind: "refused",
       detail:
-        `a message page would land at ${composed.put.path}, outside ${PAGES_AT}, which is ` +
+        `a message page would land at ${composed.put.path}, outside ${under}, which is ` +
         `the only place read here, so nothing would ever drain it`,
     }
   }
@@ -148,9 +154,10 @@ function msOf(said: unknown): number | null {
 
 function pageMessages(): readonly Message[] {
   const root = akashaRoot()
+  const under = `${pagesAtFor(root, PAGE_TYPE)}/`
   const held: Message[] = []
   for (const one of valuesOfType(root, PAGE_TYPE)) {
-    if (!one.path.startsWith(`${PAGES_AT}/`)) continue
+    if (!one.path.startsWith(under)) continue
     const slug = textAt(one.value, "slug")
     if (slug === null) continue
     held.push({
