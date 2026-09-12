@@ -5,7 +5,7 @@ import type { Reading as AsRead } from "akasha/agents/read-record/read-record.mo
 import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Judged, Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { textIn, textOf } from "akasha/code/body-text/body-text.module.code.ts"
+import { textIn, textOf } from "akasha/code/modules/body-text/body-text.module.code.ts"
 import { DATA, INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { sweptOff } from "akasha/commands/modules/beside-sweeping/beside-sweeping.module.code.ts"
 import {

@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { textIn, textOf } from "akasha/code/body-text/body-text.module.code.ts"
+import { textIn, textOf } from "akasha/code/modules/body-text/body-text.module.code.ts"
 
 const HELD = new TextEncoder().encode("held\n")
 
