@@ -9,9 +9,9 @@ export const temperLibTableFunctions = {
   addonManifest: "json",
   bundleEntry: "table-functions-entry",
   parts: [
-    "module/table-functions",
     "module/table-function-casts",
     "module/table-function-types",
+    "module/table-functions",
     "module/table-functions-entry",
   ],
   invariants: [

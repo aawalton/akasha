@@ -10,6 +10,7 @@ export const temperLibScrollableMenu = {
   bundleEntry: "scrollable-menu-main",
   interfaces: ["scrollable-menu-controls"],
   parts: [
+    "eso-interface/scrollable-menu-controls",
     "module/scrollable-menu-api-core",
     "module/scrollable-menu-api-entries",
     "module/scrollable-menu-api-refresh",
@@ -39,6 +40,7 @@ export const temperLibScrollableMenu = {
     "module/scrollable-menu-combobox-base-setup-editbox",
     "module/scrollable-menu-combobox-base-setup-helpers",
     "module/scrollable-menu-combobox-base-setup-slider",
+    "module/scrollable-menu-combobox-base-setup-toggles",
     "module/scrollable-menu-combobox-base-sort",
     "module/scrollable-menu-combobox-base-template",
     "module/scrollable-menu-combobox-class",
@@ -82,7 +84,6 @@ export const temperLibScrollableMenu = {
     "module/scrollable-menu-util-menu",
     "module/scrollable-menu-util-tooltip",
     "module/scrollable-menu-util-visible",
-    "eso-interface/scrollable-menu-controls",
     "type-declaration/scrollable-menu-api-shapes",
     "type-declaration/scrollable-menu-buttongroup-shapes",
     "type-declaration/scrollable-menu-code-shapes",
@@ -97,7 +98,6 @@ export const temperLibScrollableMenu = {
     "type-declaration/scrollable-menu-string-ids",
     "type-declaration/scrollable-menu-submenu-shapes",
     "type-declaration/scrollable-menu-util-shapes",
-    "module/scrollable-menu-combobox-base-setup-toggles",
   ],
   invariants: [
     {

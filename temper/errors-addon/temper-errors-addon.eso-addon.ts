@@ -9,12 +9,12 @@ export const temperErrorsAddon = {
   addonManifest: "json",
   bundleEntry: "errors-addon-entry",
   parts: [
-    "module/errors-addon-limits",
-    "module/errors-addon-traceback",
     "module/errors-addon-build-ids",
-    "module/errors-addon-record",
-    "module/errors-addon-hooks",
     "module/errors-addon-entry",
+    "module/errors-addon-hooks",
+    "module/errors-addon-limits",
+    "module/errors-addon-record",
+    "module/errors-addon-traceback",
   ],
   invariants: [
     {

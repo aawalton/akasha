@@ -10,15 +10,15 @@ export const temperLibAddonKeybinds = {
   bundleEntry: "addon-keybinds-entry",
   parts: [
     "module/addon-keybinds-bootstrap",
+    "module/addon-keybinds-casts",
+    "module/addon-keybinds-entry",
+    "module/addon-keybinds-list-hooks",
     "module/addon-keybinds-load",
     "module/addon-keybinds-menu-entry",
-    "module/addon-keybinds-list-hooks",
-    "module/addon-keybinds-casts",
     "module/addon-keybinds-names",
     "module/addon-keybinds-strings",
     "module/addon-keybinds-types",
     "type-declaration/addon-keybinds-declarations",
-    "module/addon-keybinds-entry",
   ],
   invariants: [
     {

@@ -30,6 +30,7 @@ export const temperLibAddonMenu = {
     "module/addon-menu-widget-divider",
     "module/addon-menu-widget-dropdown",
     "module/addon-menu-widget-dropdown-scroll",
+    "module/addon-menu-widget-dropdown-tooltips",
     "module/addon-menu-widget-editbox",
     "module/addon-menu-widget-header",
     "module/addon-menu-widget-iconpicker",
@@ -43,7 +44,6 @@ export const temperLibAddonMenu = {
     "type-declaration/addon-menu-eso-window",
     "type-declaration/addon-menu-logger",
     "type-declaration/addon-menu-string-ids",
-    "module/addon-menu-widget-dropdown-tooltips",
   ],
   invariants: [
     {

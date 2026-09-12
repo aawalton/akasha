@@ -15,7 +15,6 @@ export const temperItemsAddon = {
   parts: [
     "eso-interface/inventory-browser-layout",
     "lua-module/inventory-config-file",
-    "type-declaration/inventory-config-global",
     "module/inventory-action-panel",
     "module/inventory-auto-maintenance",
     "module/inventory-auto-maintenance-engine",
@@ -168,6 +167,7 @@ export const temperItemsAddon = {
     "module/inventory-writ-master-probe",
     "module/inventory-writ-master-probe-types",
     "module/inventory-writ-toggles",
+    "type-declaration/inventory-config-global",
   ],
   invariants: [
     {

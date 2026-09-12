@@ -9,6 +9,7 @@ export const temperLibAddonMenuOrderListBox = {
   addonManifest: "json",
   bundleEntry: "module/order-list-box-entry",
   parts: [
+    "eso-interface/lam-order-list-box-markup",
     "module/order-list-box-build",
     "module/order-list-box-casts",
     "module/order-list-box-constants",
@@ -24,7 +25,6 @@ export const temperLibAddonMenuOrderListBox = {
     "module/order-list-box-row-setup",
     "module/order-list-box-state",
     "module/order-list-box-widget",
-    "eso-interface/lam-order-list-box-markup",
     "type-declaration/order-list-box-control-shapes",
     "type-declaration/order-list-box-lam-shapes",
     "type-declaration/order-list-box-published",
