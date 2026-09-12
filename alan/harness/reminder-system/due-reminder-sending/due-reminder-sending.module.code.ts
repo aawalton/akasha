@@ -17,10 +17,6 @@ export function armedSaid(path: string, ms: number): string {
   return `${path}, armed for ${new Date(ms).toISOString()}`
 }
 
-export function tookSaid(path: string): string {
-  return `${path}, taken away because the reminder it held had sent`
-}
-
 async function sendOne(one: Found, done: string[]): Promise<string | null> {
   const written = await writeMessage({
     to: one.to,
@@ -77,13 +73,11 @@ export async function sendDueReminders(done: string[] = []): Promise<number> {
     const why = await tookReminder(
       root,
       one.path,
-      `the reminder to ${one.to} named one time and has sent, so its page goes`
+      `the reminder to ${one.to} named one time and has sent, so its page goes`,
+      done
     )
     if (why !== null) held.push(`${one.path} has sent and is there anyway: ${why}`)
-    else {
-      done.push(tookSaid(one.path))
-      spent += 1
-    }
+    else spent += 1
   }
   process.stderr.write(`${sent} sent, ${armed} armed, ${spent} spent and taken away\n`)
   for (const one of held) process.stderr.write(`held: ${one}\n`)

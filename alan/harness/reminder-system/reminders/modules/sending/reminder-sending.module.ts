@@ -30,6 +30,11 @@ export const reminderSending = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The page taken away is named before the values beside it are taken, which can throw.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A reminder is taken away by a program rather than by an agent.",
     },
     {

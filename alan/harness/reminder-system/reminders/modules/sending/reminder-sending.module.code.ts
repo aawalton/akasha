@@ -84,14 +84,25 @@ export function armFor(root: string, path: string, ms: number): undefined {
   mergeUncommitted(root, path, { [NEXT_AT]: new Date(ms).toISOString() })
 }
 
+export function tookSaid(path: string): string {
+  return `${path}, taken away because the reminder it held had sent`
+}
+
+export function forgotSaid(path: string): string {
+  return `the values kept beside ${path}, taken away with it`
+}
+
 export async function tookReminder(
   root: string,
   path: string,
-  why: string
+  why: string,
+  done: string[] = []
 ): Promise<string | null> {
   const landed = await runMechanicalChange(root, [{ at: TOOK, given: { at: path } }], why)
   const wrong = "refusals" in landed ? landed.refusals : landed.wrong
   if (wrong.length > 0) return wrong.join("; ")
+  done.push(tookSaid(path))
   removeUncommitted(root, path)
+  done.push(forgotSaid(path))
   return null
 }
