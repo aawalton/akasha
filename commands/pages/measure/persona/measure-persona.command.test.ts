@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { linesOf } from "akasha/commands/pages/measure/measure-tabling/measure-tabling.module.code.ts"
 import {
   measuredIn,
   measurePersona,
   type Named,
   untotalledOf,
 } from "akasha/commands/pages/measure/persona/measure-persona.command.code.ts"
+import { linesOf } from "akasha/commands/pages/measure/tabling/measure-tabling.module.code.ts"
 import { rungAt } from "akasha/personas/properties/persona-relationship-level.computed-property.test-fixtures.ts"
 
 const NOWHERE = "/nowhere"

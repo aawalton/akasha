@@ -14,7 +14,7 @@ import {
   linesOf,
   type Measured,
   PLACES,
-} from "akasha/commands/pages/measure/measure-tabling/measure-tabling.module.code.ts"
+} from "akasha/commands/pages/measure/tabling/measure-tabling.module.code.ts"
 import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 
 const READOUT = "readout"

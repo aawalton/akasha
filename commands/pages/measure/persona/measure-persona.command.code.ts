@@ -6,13 +6,13 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { measurePersona as page } from "akasha/commands/pages/measure/persona/measure-persona.command.ts"
 import {
   flooredTo,
   linesOf,
   type Measured,
   PLACES,
-} from "akasha/commands/pages/measure/measure-tabling/measure-tabling.module.code.ts"
-import { measurePersona as page } from "akasha/commands/pages/measure/persona/measure-persona.command.ts"
+} from "akasha/commands/pages/measure/tabling/measure-tabling.module.code.ts"
 import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import { pointsTotalKept } from "akasha/personas/points/keeping/persona-points-keeping.module.code.ts"
 import { levelOf } from "akasha/personas/properties/persona-relationship-level.computed-property.code.ts"
