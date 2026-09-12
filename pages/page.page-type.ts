@@ -9,7 +9,6 @@ export const page = {
   extends: [],
   properties: [
     { pageProperty: "text-property/id", required: true, many: false },
-    { pageProperty: "relation-property/page-type-slug", required: false, many: false },
     { pageProperty: "relation-property/page-page-type", required: false, many: false },
     { pageProperty: "text-property/slug", required: true, many: false },
     { pageProperty: "text-property/title", required: false, many: false },
@@ -26,7 +25,6 @@ export const page = {
   parts: [
     "file-property/entries",
     "relation-property/page-page-type",
-    "relation-property/page-type-slug",
     "text-property/cover",
     "text-property/description",
     "text-property/id",

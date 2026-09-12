@@ -85,7 +85,7 @@ export function serviceIn(root: string, value: Value, codeAt: string = ""): Star
   const worksWithinSeconds = value.worksWithinSeconds
   return {
     id,
-    pageTypeSlug: SERVICE_PAGE_TYPE,
+    type: SERVICE_PAGE_TYPE,
     slug,
     definition,
     runs,
