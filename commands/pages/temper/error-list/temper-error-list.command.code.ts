@@ -1,15 +1,20 @@
 import { readFileSync } from "node:fs"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { errorsPath as errorsPathArgument } from "akasha/commands/arguments/pages/errors-path.argument.ts"
+import { includeStale as includeStaleArgument } from "akasha/commands/arguments/pages/include-stale.argument.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { staleAfterHours as staleAfterHoursArgument } from "akasha/commands/arguments/pages/stale-after-hours.argument.ts"
 import {
   DATA,
-  INPUT,
   OK,
   refused,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { temperErrorList as page } from "akasha/commands/pages/temper/error-list/temper-error-list.command.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { listAllAddons } from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
 import type { ErrorEntry } from "akasha/temper/capture-errors/errors-payload/errors-payload.module.code.ts"
-import { valuesOf } from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 import {
   collectEntries,
   SAVED_VARIABLES_NAME,
@@ -31,13 +36,7 @@ import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-pa
 import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
-const ERRORS_PATH_FLAG = "--errors-path"
-
-const JSON_FLAG = "--json"
-
-const INCLUDE_STALE_FLAG = "--include-stale"
-
-const STALE_AFTER_FLAG = "--stale-after-hours"
+const NAMED = [json, errorsPathArgument, includeStaleArgument, staleAfterHoursArgument]
 
 const CAPTURE_FILE = "TemperErrors.lua"
 
@@ -177,22 +176,14 @@ function rowOf(one: Classified): string {
   ].join("\t")
 }
 
-function staleAfterIn(argv: readonly string[]): number | string {
-  const said = valuesOf(argv, STALE_AFTER_FLAG)[0]
-  if (said === undefined) return DEFAULT_STALE_AFTER_HOURS
-  const hours = Number(said)
-  if (!Number.isInteger(hours) || hours < 0) {
-    return `${STALE_AFTER_FLAG} takes a whole number of hours, and \`${said}\` is none`
-  }
-  return hours
-}
+export async function temperErrorList(argv: readonly string[], given: Given): Promise<Answer> {
+  const read = takenFor(argv, given.calledAs, page, NAMED)
+  if ("refused" in read) return mistaking(read.refused)
+  const taken = read.taken
 
-export async function temperErrorList(argv: readonly string[] = []): Promise<Answer> {
-  const staleAfterHours = staleAfterIn(argv)
-  if (typeof staleAfterHours === "string") return refused(staleAfterHours, INPUT)
-
-  const errorsPath = valuesOf(argv, ERRORS_PATH_FLAG)[0] ?? savedVarsFile(CAPTURE_FILE)
-  const includeStale = argv.includes(INCLUDE_STALE_FLAG)
+  const staleAfterHours = taken.staleAfterHours ?? DEFAULT_STALE_AFTER_HOURS
+  const errorsPath = taken.errorsPath ?? savedVarsFile(CAPTURE_FILE)
+  const includeStale = taken.includeStale
 
   let content: string
   try {
@@ -224,10 +215,10 @@ export async function temperErrorList(argv: readonly string[] = []): Promise<Ans
   const held = all.length - shown.length
   const heldLine =
     held > 0 && !includeStale
-      ? [`${String(held)} stale entry left out, and ${INCLUDE_STALE_FLAG} shows them`]
+      ? [`${String(held)} stale entry left out, and ${includeStaleArgument.said} shows them`]
       : []
 
-  if (argv.includes(JSON_FLAG)) {
+  if (taken.json) {
     const out = shown.map((one) => ({
       ...one.entry,
       liveness: one.verdict,
