@@ -1,7 +1,7 @@
 import { createHash } from "node:crypto"
 import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { landedMechanically } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { listedAt, valuesByPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import {
@@ -160,7 +160,8 @@ async function publishedFrom(
     report.push(`${tagFile} already names this image`)
     return { lines: report, refusals: [] }
   }
-  const landed = await runMechanicalChange(
+  const landed = await landedMechanically(
+    up,
     root,
     [{ at: PUT, given: { at: tagFile, body } }],
     MESSAGE

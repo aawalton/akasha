@@ -45,6 +45,10 @@ export const deployBundlePublishing = {
     },
     {
       invariantKind: "departure",
+      statement: "The commit that landing made is named to the deploy that asked for it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A tag already naming this image lands nothing.",
     },
     {
