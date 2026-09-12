@@ -9,17 +9,7 @@ export const gitRestore = {
   test: "ts",
   changeKind: "change-none",
   taking: [{ said: "--file-path <path>", takes: "a path to put back to what HEAD says of it" }],
-  helpNotes: [
-    "--file-path repeats, so several paths go back in one call.",
-    "nothing else names a path: there is no --all, no folder, and no whole-tree sweep.",
-    "the worktree is shared with other agents, so a restore is narrow by construction.",
-    "a path HEAD does not hold, that the working tree holds, is refused rather than deleted.",
-    "a path HEAD and the working tree both lack, that the git index alone holds, loses that entry.",
-    "a path already holding HEAD's body is said so and left alone.",
-    "the answer says what uncommitted work went before it says what was put back.",
-    "one path refused refuses the whole call, and nothing is written.",
-    "nothing is committed and no check runs: HEAD's body passed the checks when HEAD's body landed.",
-  ],
+  helpNotes: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -125,6 +115,10 @@ export const gitRestore = {
     {
       invariantKind: "departure",
       statement: "A restore git broke or stopped part way is refused as the machine's fault.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`--file-path` is named again for each path put back.",
     },
   ],
 } as const satisfies Command
