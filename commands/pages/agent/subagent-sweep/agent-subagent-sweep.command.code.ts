@@ -11,6 +11,7 @@ import {
 import {
   answering,
   INPUT,
+  naming,
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
@@ -293,6 +294,8 @@ export async function agentSubagentSweep(
     const why = left.length === 0 ? NOTHING_STALE : ALL_KEPT
     return answeredWith([...census, ...kept, "", why], [], 0)
   }
-  const gone = await answering(async (done) => await taking(root, going, landing, done))
+  const gone = await answering(async (done) =>
+    naming(done, await taking(root, going, landing, done))
+  )
   return answeredWith([...census, ...kept, "", ...gone.report], gone.refusals, gone.code)
 }

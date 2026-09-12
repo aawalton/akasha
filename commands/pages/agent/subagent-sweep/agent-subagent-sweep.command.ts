@@ -183,7 +183,7 @@ export const agentSubagentSweep = {
     },
     {
       invariantKind: "departure",
-      statement: "A run that refused names what it had already moved onto a seat.",
+      statement: "A run that refused names in its refusal what it had moved onto a seat.",
     },
     {
       invariantKind: "departure",

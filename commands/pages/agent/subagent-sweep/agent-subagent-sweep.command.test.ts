@@ -329,7 +329,7 @@ test("a run the landing refused names what it had already moved onto a seat", as
   const { root, base, seat } = oneWaiting()
   const said = await refusedRemoving(root, base, ALIVE, saying([], [OWN]))
   expect(said.code).toBe(3)
-  expect(said.report.join("\n")).toContain("left 1 edit(s) unlanded")
+  expect(said.refusals.at(-1)).toContain("left 1 edit(s) unlanded")
   expect(keptBySeat(root, seat).edits).toBe(ROW)
   world.sweep()
 })
