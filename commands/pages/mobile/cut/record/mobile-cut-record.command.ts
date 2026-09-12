@@ -7,10 +7,6 @@ export const mobileCutRecord = {
   definition: "the command filing what a TestFlight build already at Apple was cut from",
   code: "ts",
   taking: [
-    {
-      said: "--app <slug>",
-      takes: "the app the build belongs to, the default app where none is said",
-    },
     { said: "--build-number <n>", takes: "the number App Store Connect gave the build" },
     { said: "--main-sha <sha>", takes: "the code-repo commit the cut was taken at" },
     {
@@ -51,4 +47,5 @@ export const mobileCutRecord = {
     },
   ],
   name: "record",
+  arguments: [{ argument: "argument/app" }],
 } as const satisfies Command

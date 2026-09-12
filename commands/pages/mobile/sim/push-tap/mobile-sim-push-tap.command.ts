@@ -10,7 +10,6 @@ export const mobileSimPushTap = {
   taking: [
     { said: "<path>", takes: "the route the push carries, representing `--route`" },
     { said: "--route <path>", takes: "the route the push carries, such as a question's own path" },
-    { said: "--app <slug>", takes: "the app the push is for, the default app where none is said" },
     {
       said: "--warm",
       takes: "leave the app running, so the tap measures a warm open rather than a cold one",
@@ -49,4 +48,5 @@ export const mobileSimPushTap = {
     },
   ],
   name: "push-tap",
+  arguments: [{ argument: "argument/app" }],
 } as const satisfies Command

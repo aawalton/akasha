@@ -6,9 +6,7 @@ export const mobileCutStatus = {
   slug: "mobile-cut-status",
   definition: "the command saying whether a TestFlight cut is owed or the phones are current",
   code: "ts",
-  taking: [
-    { said: "--app <slug>", takes: "the app to answer about, the default app where none is said" },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -36,5 +34,5 @@ export const mobileCutStatus = {
     },
   ],
   name: "status",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/app" }],
 } as const satisfies Command

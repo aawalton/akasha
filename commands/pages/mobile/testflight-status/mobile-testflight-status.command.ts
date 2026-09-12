@@ -7,7 +7,6 @@ export const mobileTestflightStatus = {
   definition: "the command saying how far App Store Connect has got with the newest build",
   code: "ts",
   taking: [
-    { said: "--app <slug>", takes: "the app to ask about, the default app where none is said" },
     {
       said: "--wait",
       takes: "hold until the build is valid or has failed rather than answering once",
@@ -41,4 +40,5 @@ export const mobileTestflightStatus = {
     },
   ],
   name: "testflight-status",
+  arguments: [{ argument: "argument/app" }],
 } as const satisfies Command
