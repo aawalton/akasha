@@ -6,7 +6,7 @@ export const trackSessionAmend = {
   slug: "track-session-amend",
   definition: "the command changing a stretch already written",
   code: "ts",
-  parts: ["module/session-leveling"],
+  parts: [],
   taking: [
     { said: "--id <uuid>", takes: "the stretch to act on, named by the id that stretch carries" },
     { said: "--at <time>", takes: "a wall time the stretch amended covers" },

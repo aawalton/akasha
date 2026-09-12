@@ -4,7 +4,6 @@ import { told } from "akasha/commands/modules/answering/command-answering.module
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { filing } from "akasha/commands/modules/mechanical-filing/mechanical-filing.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import type { ActivityDifficulty } from "akasha/commands/pages/track/session/amend/session-leveling/session-leveling.module.code.ts"
 import {
   besideArgv,
   type Landing,
@@ -19,6 +18,7 @@ import {
   dayBefore,
   sleeping,
 } from "akasha/commands/pages/track/session/switch/waking/waking.module.code.ts"
+import type { ActivityDifficulty } from "akasha/commands/pages/track/session-leveling/session-leveling.module.code.ts"
 import {
   activitiesIn,
   BARE,

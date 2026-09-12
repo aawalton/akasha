@@ -10,6 +10,7 @@ export const track = {
     "command/track-health-import",
     "command/track-weight",
     "module/session-rows",
+    "module/session-leveling",
   ],
   name: "track",
 } as const satisfies Namespace
