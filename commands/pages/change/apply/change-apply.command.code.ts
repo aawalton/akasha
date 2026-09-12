@@ -1,5 +1,6 @@
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { loadedAt } from "akasha/changes/runners/change-loading/change-loading.module.code.ts"
+import { told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
   applyingKept,
   applyWith,
@@ -13,9 +14,25 @@ import {
 } from "akasha/commands/modules/change-running/change-running.module.code.ts"
 import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { helpIn } from "akasha/commands/pages/change/change-arguing/change-arguing.module.code.ts"
 import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 
 const APPLIES = "apply"
+
+const HELP: readonly string[] = [
+  "lands every edit kept, answering one change first where one is named.",
+  "",
+  "It takes a change to answer as its one word, and its arguments piped in:",
+  "",
+  "  message: <what the commit is for>   composed where none is said",
+  "  measure: true                       run the checks and land nothing",
+  "  break-the-glass: <why>              land with no check run",
+  "",
+  "A call naming a change takes that change's arguments beside these.",
+  "A call naming no change lands the edits already kept.",
+  "`draft` is refused here.",
+  "A change or a check that refuses lands nothing and leaves every edit kept.",
+]
 
 const MESSAGE = "message"
 
@@ -31,6 +48,8 @@ export const CHOSEN: Omit<Chosen, "calledAs"> = {
 }
 
 export async function changeApply(argv: readonly string[], given: Given): Promise<Answer> {
+  const help = helpIn(argv, given.calledAs, HELP)
+  if (help !== null) return told(help)
   if (argv[0] === undefined) return await applyingKept(given)
   const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
   if (page === null || editsAt(page) === null) {

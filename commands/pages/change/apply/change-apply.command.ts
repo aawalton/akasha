@@ -72,7 +72,15 @@ export const changeApply = {
     },
     {
       invariantKind: "absence",
-      statement: "No flag is said on the command line.",
+      statement: "No flag other than the help flag is said on the command line.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The help flag is answered with what an apply does and what an apply takes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The help flag is read before the arguments are, so nothing need be piped in.",
     },
     {
       invariantKind: "absence",
