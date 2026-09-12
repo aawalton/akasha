@@ -10,7 +10,7 @@ export const aranyaWorkstationServiceStability = {
     {
       statement: "A change never breaks a workstation service.",
       workingMemory:
-        "Alan: the code a service runs is named by a module property group on its page, with a standard `runService` export, so the run cannot be separated from it. All 43 services now carry `running.code.ts` and `running.test.ts`, each run to prove it. No unit uses them; `ExecStart` still names a `.ts` path. The switch must land `unit-writing` naming the slug and the wrap test together: `isWrapped` matches `.ts`, so naming the slug alone would silently drop every file-following restarter.\n",
+        "Every unit's `ExecStart` names the runner and the service's slug. `service-running` finds the page through the index under the checkout the environment names, and imports the `running` group beside it out of the checkout the runner sits in, so a unit runs the pinned tree's code over the main checkout's pages. Deployed over all 44 on 2026-09-12: every unit came up, and the ones leaving on 79 as the tree moves still do. `isWrapped` was never built. Left: `runs` and `starts` reach nothing.\n",
     },
     {
       statement: "A workstation unit on the machine is what its page says.",
