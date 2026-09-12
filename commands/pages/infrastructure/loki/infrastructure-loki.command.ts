@@ -9,10 +9,6 @@ export const infrastructureLoki = {
   test: "ts",
   taking: [
     {
-      said: "--namespace <ns>",
-      takes: "the namespace to look in, read as a literal string, `ci` where none is said",
-    },
-    {
       said: "--since <duration>",
       takes: "how far back from now to look, in s, m, h or d, `1h` where none is said",
     },
@@ -80,5 +76,9 @@ export const infrastructureLoki = {
     { invariantKind: "departure", statement: "A call saying no limit answers five hundred lines." },
   ],
   name: "loki",
-  arguments: [{ argument: "argument/limit" }, { argument: "argument/pod", saidAs: "flag-or-word" }],
+  arguments: [
+    { argument: "argument/limit" },
+    { argument: "argument/pod", saidAs: "flag-or-word" },
+    { argument: "argument/kube-namespace" },
+  ],
 } as const satisfies Command
