@@ -15,7 +15,7 @@ export const emberInventoryRules = {
     {
       statement: "The reading outside the game resolves a destination chain as the addon does.",
       workingMemory:
-        "Measured: about a quarter of Alan's distinct item ids read indeterminate offline while the addon decides them all, because `buildCliEvalEnv` hard-codes 16 of 24 resolvers to unknown. `isTraitResearched` and `isCraftingRankBelowCap` cause nearly all of it, so rules 47 `research-by-priority` and 50 `inspire-current` each take nothing offline and rule 60 `equipment-deconstruct` absorbs 514, making the plan's deconstruct line wrong in composition rather than merely short.",
+        "The addon reads research and crafting rank off the saved-variables blocks the reading off the game reads too, never a live game call, so the data was handed over rather than the addon's absent-as-false copied. ca39ecb and a5d23d6 hand `plan` and `explain` the crafting levels, cooldowns and transmute figures; 6e4e794 parses `traitResearch`. Rules 47 and 50 now reject rather than go indeterminate. edcae86 mends the addon matching a cased trait name against a lowered one.",
     },
     {
       statement:
