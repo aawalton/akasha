@@ -28,7 +28,10 @@ import {
   drawSeed,
   resolveSeed,
 } from "akasha/infrastructure/inference/clients/inference-seed/inference-seed.module.code.ts"
-import { serviceNamed } from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
+import {
+  serviceNamed,
+  wroteTo,
+} from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/record/inference-run-record.module.code.ts"
 import { recordInferenceRun } from "akasha/infrastructure/inference/runs/store/inference-run-store.module.code.ts"
 
@@ -86,7 +89,7 @@ export async function inferenceMusic(argv: readonly string[], given: Given): Pro
   const timeout = taken.timeout ?? DEFAULT_TIMEOUT_SEC
   const vocalLanguage = taken.vocalLanguage
 
-  return await answering(async () => {
+  return await answering(async (done) => {
     const reached = serviceNamed(SERVICE)
     const drawn = resolveSeed(seed, drawSeed)
     const nowMs = Date.now()
@@ -111,8 +114,8 @@ export async function inferenceMusic(argv: readonly string[], given: Given): Pro
 
     await recordInferenceRun(
       record,
-      async () =>
-        await runMusic({
+      async () => {
+        const made = await runMusic({
           baseUrl: reached.baseUrl,
           params: {
             prompt,
@@ -129,9 +132,12 @@ export async function inferenceMusic(argv: readonly string[], given: Given): Pro
           totalTimeoutMs: timeout * SECOND_MS,
           sleep: (ms: number) => sleep(ms),
           now: () => Date.now(),
-        }),
+        })
+        done.push(wroteTo(made.outputPath, made.outputBytes, "audio"))
+        return made
+      },
       { persist: !taken.noPersist }
     )
-    return told([`wrote ${outputPath}`])
+    return told(done)
   })
 }
