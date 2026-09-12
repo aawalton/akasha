@@ -3,6 +3,7 @@ import {
   sentIn,
 } from "akasha/alan/track/daily/day-messages/day-messages.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import {
   keepPointsToday,
@@ -59,13 +60,9 @@ const NO_DAY =
 
 export async function seatMessaged(argv: readonly string[], given: Given): Promise<Answer> {
   const name = argv[0]
-  if (name === undefined || name === "") {
-    return { report: [], refusals: [NO_NAME], code: 2 }
-  }
+  if (name === undefined || name === "") return mistaking([NO_NAME])
   const slug = personaIn(seatedIn(given.root), name)
-  if (slug === null) {
-    return { report: [], refusals: [noSeat(name)], code: 2 }
-  }
+  if (slug === null) return mistaking([noSeat(name)])
   const at = new Date()
   const persona = personaOr(given.root, slug)
   keepLastMessagedAt(given.root, persona, at)
