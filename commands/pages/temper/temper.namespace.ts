@@ -7,7 +7,7 @@ export const temper = {
   definition: "the commands Temper is run by",
   parts: [
     "command/temper-auto-quest-trace",
-    "command/temper-errors-list",
+    "command/temper-error-list",
     "command/temper-package-typecheck",
     "namespace/temper-addon",
     "namespace/temper-catalog",
