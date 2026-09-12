@@ -7,6 +7,7 @@ export const argumentTaking = {
   definition: "a call's words read against the argument pages the command naming them states",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -167,6 +168,23 @@ export const argumentTaking = {
       invariantKind: "departure",
       statement:
         "A set read at run time is weighed by adding to this refusal rather than by reading the call.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An argument said `--flag=value` carries what follows the first equals.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value opening with two dashes is handed to a flag written with an equals.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An argument carrying no value is refused where a call writes an equals after it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A word said after a bare `--` keeps an equals in it rather than being parted at one.",
     },
   ],
 } as const satisfies Module

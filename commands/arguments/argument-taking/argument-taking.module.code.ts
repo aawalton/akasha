@@ -25,6 +25,8 @@ const WHOLE = /^\d+$/
 
 const FLAG = "--"
 
+const EQUALS = "="
+
 function spelledAsAFlag(word: string): boolean {
   return word.startsWith(FLAG)
 }
@@ -151,7 +153,10 @@ export function takingIn(
       wordsOnly = true
       continue
     }
-    const held = wordsOnly ? undefined : bySaid.get(word)
+    const equals = wordsOnly || !spelledAsAFlag(word) ? -1 : word.indexOf(EQUALS)
+    const named = equals > FLAG.length ? word.slice(0, equals) : word
+    const inline = equals > FLAG.length ? word.slice(equals + 1) : undefined
+    const held = wordsOnly ? undefined : bySaid.get(named)
     if (held === undefined) {
       if (forWords.length === 0 || (!wordsOnly && spelledAsAFlag(word))) {
         state.refusals.push(unknown(word, calledAs, spellings))
@@ -168,8 +173,16 @@ export function takingIn(
     }
     const argument = held.argument
     if (!carries(argument)) {
+      if (inline !== undefined) {
+        state.refusals.push(`\`${named}\` carries no value, and \`${word}\` names one`)
+        continue
+      }
       state.taken[exportedAs(argument.slug)] = true
       state.heard.add(argument.slug)
+      continue
+    }
+    if (inline !== undefined) {
+      filling(state, held, inline, false)
       continue
     }
     const next = argv[at + 1]

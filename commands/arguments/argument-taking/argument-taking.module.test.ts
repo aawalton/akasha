@@ -8,38 +8,26 @@ import {
   takenFor,
   takingIn,
 } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
-
-function argumentOf(slug: string, value: Argument["value"]): Argument {
-  return {
-    id: "01a09400-0000-7000-8000-000000000000",
-    type: "argument",
-    slug,
-    said: `--${slug}`,
-    takes: `what ${slug} is for`,
-    value,
-  } as Argument
-}
-
-const DRY_RUN: Naming = { argument: argumentOf("dry-run", "none") }
-
-const LIMIT: Naming = { argument: argumentOf("limit", "whole-number") }
-
-const TO: Naming = { argument: argumentOf("to", "text"), repeats: true }
-
-const ACTIVE: Naming = { argument: argumentOf("active", "true-or-false") }
-
-const NODE: Naming = { argument: argumentOf("node", "text"), saidAs: "flag-or-word" }
-
-const SLUG: Naming = { argument: argumentOf("slug", "text"), saidAs: "word" }
-
-const VIDEO = argumentOf("video", "path")
-
-const FRAMES_DIR = argumentOf("frames-dir", "path")
-
-const ONE_OF_THEM: readonly Naming[] = [
-  { argument: VIDEO, notWith: [FRAMES_DIR] },
-  { argument: FRAMES_DIR },
-]
+import {
+  ACTIVE,
+  argumentOf,
+  DRY_RUN,
+  FRAMES_DIR,
+  FROM,
+  LIMIT,
+  LIMIT_PAGE,
+  NAMING_NONE,
+  NAMING_THEM,
+  NODE,
+  ONE_OF_THEM,
+  ONTO,
+  PAGES,
+  REST,
+  SEAT_PAGE,
+  SLUG,
+  TO,
+  VIDEO,
+} from "akasha/commands/arguments/argument-taking/argument-taking.module.test-fixtures.ts"
 
 function taken(argv: readonly string[], naming: readonly Naming[]): Taken {
   const read = takingIn(argv, "akasha thing", naming)
@@ -173,12 +161,6 @@ test("a second word is refused where the command takes one word", () => {
   )
 })
 
-const FROM: Naming = { argument: argumentOf("from", "text"), saidAs: "word" }
-
-const ONTO: Naming = { argument: argumentOf("onto", "text"), saidAs: "word" }
-
-const REST: Naming = { argument: argumentOf("rest", "text"), saidAs: "word", repeats: true }
-
 test("two words fill the two word arguments in the order the command names them", () => {
   expect(taken(["here", "there"], [FROM, ONTO])).toEqual({ from: "here", onto: "there" })
 })
@@ -220,6 +202,43 @@ test("words after a bare double dash fill the word arguments in the order they a
 
 test("a double dash after the first is a word rather than another separator", () => {
   expect(taken(["--", "--"], [NODE])).toEqual({ node: "--" })
+})
+
+test("an argument said with an equals carries what follows the first equals", () => {
+  expect(taken(["--node=n1"], [NODE])).toEqual({ node: "n1" })
+  expect(taken(["--limit=5"], [LIMIT])).toEqual({ limit: 5 })
+})
+
+test("a value written after the equals keeps every equals in it", () => {
+  expect(taken(["--node=a=b"], [NODE])).toEqual({ node: "a=b" })
+})
+
+test("a value opening with two dashes is handed to a flag written with an equals", () => {
+  expect(taken(["--node=--weird"], [NODE])).toEqual({ node: "--weird" })
+})
+
+test("a value written after the equals may be empty", () => {
+  expect(taken(["--node="], [NODE])).toEqual({ node: "" })
+})
+
+test("an argument carrying no value is refused where a call writes an equals after it", () => {
+  expect(refusals(["--dry-run=yes"], [DRY_RUN])[0]).toBe(
+    "`--dry-run` carries no value, and `--dry-run=yes` names one"
+  )
+})
+
+test("an equals after a flag the command takes no argument at is refused whole", () => {
+  expect(refusals(["--nope=1"], [LIMIT])[0]).toBe(
+    "`--nope=1` is no argument `akasha thing` takes — it takes `--limit`"
+  )
+})
+
+test("a word said after a bare double dash keeps an equals in it", () => {
+  expect(taken(["--", "--node=n1"], [NODE])).toEqual({ node: "--node=n1" })
+})
+
+test("a word that is no flag keeps an equals in it", () => {
+  expect(taken(["a=b"], [NODE])).toEqual({ node: "a=b" })
 })
 
 test("a word spelled as a flag is refused rather than filling an argument", () => {
@@ -282,56 +301,6 @@ test("an argument said as a word alone is named by the placeholder it states", (
   }
   expect(refusals([], [placed])[0]).toBe("`akasha thing` takes `<id>`, and nothing said it")
 })
-
-const DRY_RUN_PAGE = {
-  id: "01a09400-0000-7000-8000-000000000001",
-  type: "argument",
-  slug: "dry-run",
-  said: "--dry-run",
-  takes: "what dry-run is for",
-  value: "none",
-} as const satisfies Argument
-
-const SEAT_PAGE = {
-  id: "01a09400-0000-7000-8000-000000000002",
-  type: "argument",
-  slug: "seat",
-  said: "--seat",
-  takes: "what seat is for",
-  value: "text",
-} as const satisfies Argument
-
-const LIMIT_PAGE = {
-  id: "01a09400-0000-7000-8000-000000000003",
-  type: "argument",
-  slug: "limit",
-  said: "--limit",
-  takes: "what limit is for",
-  value: "whole-number",
-} as const satisfies Argument
-
-const TO_PAGE = {
-  id: "01a09400-0000-7000-8000-000000000004",
-  type: "argument",
-  slug: "to",
-  said: "--to",
-  takes: "what to is for",
-  value: "text",
-} as const satisfies Argument
-
-const PAGES = [DRY_RUN_PAGE, SEAT_PAGE, LIMIT_PAGE, TO_PAGE]
-
-const NAMING_THEM = {
-  slug: "thing",
-  arguments: [
-    { argument: "argument/dry-run" },
-    { argument: "argument/seat", required: true },
-    { argument: "argument/limit" },
-    { argument: "argument/to", repeats: true },
-  ],
-} as const
-
-const NAMING_NONE = { slug: "nothing" } as const
 
 test("a command page's entries are read against the argument pages its code names", () => {
   const read = takenFor(["--seat", "athena"], "akasha thing", NAMING_THEM, PAGES)
