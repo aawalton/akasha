@@ -79,5 +79,10 @@ export const treeReading = {
       statement:
         "A caller saying nothing about folders enters every folder the rules here leave in.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A folder a lock is held in is left out, because a lock is there only while a call runs.",
+    },
   ],
 } as const satisfies Module

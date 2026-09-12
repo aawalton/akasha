@@ -10,6 +10,8 @@ const PAGE_TYPE = "page-type"
 
 const UNWALKED = new Set<string>([VENDOR_ROOT, ".git"])
 
+const LOCK = ".lock"
+
 export function walkedUnder(
   at: string,
   taking: (name: string) => boolean,
@@ -20,7 +22,7 @@ export function walkedUnder(
     for (const one of readdirSync(here, { withFileTypes: true })) {
       const next = join(here, one.name)
       if (one.isDirectory()) {
-        if (UNWALKED.has(one.name)) continue
+        if (UNWALKED.has(one.name) || one.name.endsWith(LOCK)) continue
         if (here === at && one.name === QUARANTINE_ROOT) continue
         if (!entering(next)) continue
         walk(next)
