@@ -7,9 +7,7 @@ export const claudeAccountAdd = {
   definition:
     "the command filing a page for a claude account and giving it the next free alias slot",
   code: "ts",
-  taking: [
-    { said: "--alias <n>", takes: "the alias slot to take, where the next free one is not wanted" },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -77,5 +75,6 @@ export const claudeAccountAdd = {
   arguments: [
     { argument: "argument/account", required: true, saidAs: "word" },
     { argument: "argument/email", required: true },
+    { argument: "argument/alias" },
   ],
 } as const satisfies Command
