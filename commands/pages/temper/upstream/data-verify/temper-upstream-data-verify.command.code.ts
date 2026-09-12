@@ -1,6 +1,10 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  DATA,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { addonsDir } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
@@ -18,8 +22,6 @@ import {
 } from "akasha/temper/upstream-data/upstream-libraries/upstream-libraries.module.code.ts"
 import { verifyZone } from "akasha/temper/upstream-data/zone-upstream-verify/zone-upstream-verify.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
-
-const FAILED = 3
 
 const RULED_BY: Record<UpstreamLibrary, (addons: string) => Promise<Ruling>> = {
   housing: verifyHousing,
@@ -74,12 +76,12 @@ export async function temperUpstreamDataVerify(argv: readonly string[] = []): Pr
   } catch (thrown) {
     return refused(
       `ruling on ${library} broke off before it could answer — ${saidBy(thrown).replace(/\s+/g, " ").trim()}`,
-      FAILED
+      OPERATIONAL
     )
   }
 
   const read = SOURCES_OF[library].map((one) => join(where.addons, one))
   const report = [...ruling.report, `read upstream from ${read.join(", ")}`]
   if (ruling.parted.length === 0) return answering(report, [], OK)
-  return answering(report, [...ruling.parted, `${library} no longer matches upstream`], FAILED)
+  return answering(report, [...ruling.parted, `${library} no longer matches upstream`], OPERATIONAL)
 }
