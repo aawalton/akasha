@@ -1,7 +1,3 @@
-import type {
-  UnitEntry,
-  UnitInfo,
-} from "akasha/temper/combat-addon/combat-lib-types/combat-lib-types.module.code.ts"
 import { fireCombatEvent } from "akasha/temper/combat-addon/modules/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
 import {
   ABILITY_ID_FORCE_OF_NATURE,
@@ -19,6 +15,10 @@ import {
   DATA,
   getCurrentFight,
 } from "akasha/temper/combat-addon/modules/combat-lib-state/combat-lib-state.module.code.ts"
+import type {
+  UnitEntry,
+  UnitInfo,
+} from "akasha/temper/combat-addon/modules/combat-lib-types/combat-lib-types.module.code.ts"
 
 function createUnit(name: string, unitId: number, unitType: number | undefined): UnitEntry {
   name = ZO_CachedStrFormat(SI_UNIT_NAME, name)

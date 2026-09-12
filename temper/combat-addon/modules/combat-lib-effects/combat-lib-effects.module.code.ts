@@ -1,7 +1,3 @@
-import {
-  updateForceOfNatureData,
-  updateZenData,
-} from "akasha/temper/combat-addon/combat-lib-units/combat-lib-units.module.code.ts"
 import { fireCombatEvent } from "akasha/temper/combat-addon/modules/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
 import {
   ABILITY_ID_ZEN,
@@ -28,6 +24,10 @@ import {
   getCurrentFight,
 } from "akasha/temper/combat-addon/modules/combat-lib-state/combat-lib-state.module.code.ts"
 import { getNewStats } from "akasha/temper/combat-addon/modules/combat-lib-stats/combat-lib-stats.module.code.ts"
+import {
+  updateForceOfNatureData,
+  updateZenData,
+} from "akasha/temper/combat-addon/modules/combat-lib-units/combat-lib-units.module.code.ts"
 
 const GROUP_EFFECT_NONE = 0
 const GROUP_EFFECT_IN = 1

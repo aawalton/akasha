@@ -1,4 +1,3 @@
-import type { Fight } from "akasha/temper/combat-addon/combat-lib-types/combat-lib-types.module.code.ts"
 import {
   LIBCOMBAT_EVENT_BOSSHP,
   LIBCOMBAT_EVENT_DAMAGE_IN,
@@ -51,6 +50,7 @@ import {
   STRING_YOU,
 } from "akasha/temper/combat-addon/modules/combat-lib-log-strings-text/combat-lib-log-strings-text.module.code.ts"
 import { getCurrentFight } from "akasha/temper/combat-addon/modules/combat-lib-state/combat-lib-state.module.code.ts"
+import type { Fight } from "akasha/temper/combat-addon/modules/combat-lib-types/combat-lib-types.module.code.ts"
 
 export function getCombatLogString(
   fight: Fight | undefined,

@@ -1,10 +1,10 @@
-import type { Fight } from "akasha/temper/combat-addon/combat-lib-types/combat-lib-types.module.code.ts"
 import { COMBAT_TIMEOUT } from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 import {
   LOG_LEVEL_DEBUG,
   log,
 } from "akasha/temper/combat-addon/modules/combat-lib-log/combat-lib-log.module.code.ts"
 import { DATA } from "akasha/temper/combat-addon/modules/combat-lib-state/combat-lib-state.module.code.ts"
+import type { Fight } from "akasha/temper/combat-addon/modules/combat-lib-types/combat-lib-types.module.code.ts"
 
 export function createFight(): Fight {
   return {

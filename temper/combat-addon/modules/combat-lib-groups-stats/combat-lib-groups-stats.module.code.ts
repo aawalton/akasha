@@ -1,9 +1,4 @@
 import {
-  onBossHealthChanged,
-  onPlayerActivated2,
-  onPlayerDeactivated,
-} from "akasha/temper/combat-addon/combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"
-import {
   LIBCOMBAT_EVENT_BOSSHP,
   LIBCOMBAT_EVENT_DEATH,
   LIBCOMBAT_EVENT_DEATHRECAP,
@@ -46,6 +41,11 @@ import {
   onSlotUpdate,
   onSlotUsed,
 } from "akasha/temper/combat-addon/modules/combat-lib-skill-casts/combat-lib-skill-casts.module.code.ts"
+import {
+  onBossHealthChanged,
+  onPlayerActivated2,
+  onPlayerDeactivated,
+} from "akasha/temper/combat-addon/modules/combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"
 
 createEventGroup(
   "Messages",

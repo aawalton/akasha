@@ -1,7 +1,3 @@
-import type {
-  Fight,
-  UnitEntry,
-} from "akasha/temper/combat-addon/combat-lib-types/combat-lib-types.module.code.ts"
 import {
   ABILITY_ID_ZEN,
   getFormattedAbilityIcon,
@@ -54,6 +50,10 @@ import {
   STRING_UNITTYPE_PLAYER,
   STRING_YOU,
 } from "akasha/temper/combat-addon/modules/combat-lib-log-strings-text/combat-lib-log-strings-text.module.code.ts"
+import type {
+  Fight,
+  UnitEntry,
+} from "akasha/temper/combat-addon/modules/combat-lib-types/combat-lib-types.module.code.ts"
 
 export type CombatLogLine = (number | string | undefined)[]
 

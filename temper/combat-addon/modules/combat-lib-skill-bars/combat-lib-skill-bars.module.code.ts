@@ -1,4 +1,3 @@
-import { getSlottedAbilityId } from "akasha/temper/combat-addon/combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"
 import {
   ABILITY_ADDITIONS,
   ABILITY_CONVERSIONS,
@@ -26,6 +25,7 @@ import {
   setSlotSkills,
 } from "akasha/temper/combat-addon/modules/combat-lib-state/combat-lib-state.module.code.ts"
 import { getNewStats } from "akasha/temper/combat-addon/modules/combat-lib-stats/combat-lib-stats.module.code.ts"
+import { getSlottedAbilityId } from "akasha/temper/combat-addon/modules/combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"
 
 export const ID_TO_REDUCED_SLOT: Record<number, number> = {}
 

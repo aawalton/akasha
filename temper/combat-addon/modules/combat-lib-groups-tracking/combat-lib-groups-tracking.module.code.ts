@@ -1,4 +1,3 @@
-import { onTrialDummy } from "akasha/temper/combat-addon/combat-lib-units/combat-lib-units.module.code.ts"
 import {
   LIBCOMBAT_EVENT_EFFECTS_IN,
   LIBCOMBAT_EVENT_EFFECTS_OUT,
@@ -32,6 +31,7 @@ import {
   onShadowMundus,
   onTFSChanged,
 } from "akasha/temper/combat-addon/modules/combat-lib-stats/combat-lib-stats.module.code.ts"
+import { onTrialDummy } from "akasha/temper/combat-addon/modules/combat-lib-units/combat-lib-units.module.code.ts"
 
 createEventGroup(
   "Effects",

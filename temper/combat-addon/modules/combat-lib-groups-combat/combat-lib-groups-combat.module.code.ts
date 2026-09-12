@@ -1,4 +1,3 @@
-import { onGroupChange } from "akasha/temper/combat-addon/combat-lib-units/combat-lib-units.module.code.ts"
 import {
   LIB_DEBUG,
   LIBCOMBAT_EVENT_DAMAGE_IN,
@@ -42,6 +41,7 @@ import {
 } from "akasha/temper/combat-addon/modules/combat-lib-heal/combat-lib-heal.module.code.ts"
 import { getCurrentSkillBars } from "akasha/temper/combat-addon/modules/combat-lib-skill-bars/combat-lib-skill-bars.module.code.ts"
 import { setIsInPortalWorld } from "akasha/temper/combat-addon/modules/combat-lib-state/combat-lib-state.module.code.ts"
+import { onGroupChange } from "akasha/temper/combat-addon/modules/combat-lib-units/combat-lib-units.module.code.ts"
 
 const EVENT_ACTION_SLOT_ABILITY_SLOTTED_EFFECTIVE = EVENT_HOTBAR_SLOT_CHANGE_REQUESTED
 

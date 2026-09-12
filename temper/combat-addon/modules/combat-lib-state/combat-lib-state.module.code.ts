@@ -1,12 +1,12 @@
 import type {
-  Fight,
-  LibCombatData,
-} from "akasha/temper/combat-addon/combat-lib-types/combat-lib-types.module.code.ts"
-import type {
   DamageShieldEntry,
   EffectBufferEntry,
   SkillRegistrationData,
 } from "akasha/temper/combat-addon/modules/combat-lib-message-types/combat-lib-message-types.module.code.ts"
+import type {
+  Fight,
+  LibCombatData,
+} from "akasha/temper/combat-addon/modules/combat-lib-types/combat-lib-types.module.code.ts"
 
 export const DATA: LibCombatData = {
   skillBars: {},

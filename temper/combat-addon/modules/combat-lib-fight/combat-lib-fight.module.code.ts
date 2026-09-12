@@ -1,9 +1,3 @@
-import { initStatusEffectBonuses } from "akasha/temper/combat-addon/combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"
-import type {
-  Fight,
-  FightCharData,
-} from "akasha/temper/combat-addon/combat-lib-types/combat-lib-types.module.code.ts"
-import { clearUnitCaches } from "akasha/temper/combat-addon/combat-lib-unit-cache/combat-lib-unit-cache.module.code.ts"
 import { fireCombatEvent } from "akasha/temper/combat-addon/modules/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
 import {
   COMBAT_TIMEOUT,
@@ -49,6 +43,12 @@ import {
   setLastBossHealthValue,
 } from "akasha/temper/combat-addon/modules/combat-lib-state/combat-lib-state.module.code.ts"
 import { getNewStats } from "akasha/temper/combat-addon/modules/combat-lib-stats/combat-lib-stats.module.code.ts"
+import { initStatusEffectBonuses } from "akasha/temper/combat-addon/modules/combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"
+import type {
+  Fight,
+  FightCharData,
+} from "akasha/temper/combat-addon/modules/combat-lib-types/combat-lib-types.module.code.ts"
+import { clearUnitCaches } from "akasha/temper/combat-addon/modules/combat-lib-unit-cache/combat-lib-unit-cache.module.code.ts"
 
 let RESET = false
 

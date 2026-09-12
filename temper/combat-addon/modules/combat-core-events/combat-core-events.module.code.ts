@@ -1,9 +1,3 @@
-import type {
-  Fight,
-  FightRecapData,
-  GroupRecapData,
-  UnitEntry,
-} from "akasha/temper/combat-addon/combat-lib-types/combat-lib-types.module.code.ts"
 import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
 import {
   checkNumberOfFights,
@@ -47,6 +41,12 @@ import {
   LIBCOMBAT_EVENT_UNITS,
 } from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 import { DATA as libCombatData } from "akasha/temper/combat-addon/modules/combat-lib-state/combat-lib-state.module.code.ts"
+import type {
+  Fight,
+  FightRecapData,
+  GroupRecapData,
+  UnitEntry,
+} from "akasha/temper/combat-addon/modules/combat-lib-types/combat-lib-types.module.code.ts"
 
 let updateReportHook: ((this: void) => void) | undefined
 

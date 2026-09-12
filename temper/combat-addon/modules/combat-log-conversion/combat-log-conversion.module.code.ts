@@ -1,8 +1,3 @@
-import {
-  decodeCombatLogLine,
-  encodeCombatLogLine,
-  lineField,
-} from "akasha/temper/combat-addon/combat-log-line-codec/combat-log-line-codec.module.code.ts"
 import { COMBAT_MECHNIC_FLAG_TABLE_LOAD_LEGACY } from "akasha/temper/combat-addon/modules/combat-encoding-tables/combat-encoding-tables.module.code.ts"
 import type {
   CombatLogLine,
@@ -10,6 +5,11 @@ import type {
   FightUnit,
   LogFilters,
 } from "akasha/temper/combat-addon/modules/combat-fight-data-types/combat-fight-data-types.module.code.ts"
+import {
+  decodeCombatLogLine,
+  encodeCombatLogLine,
+  lineField,
+} from "akasha/temper/combat-addon/modules/combat-log-line-codec/combat-log-line-codec.module.code.ts"
 
 export function convertCombatLog(
   savedFight: Fight,

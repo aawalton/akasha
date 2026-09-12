@@ -1,4 +1,3 @@
-import { checkUnit } from "akasha/temper/combat-addon/combat-lib-units/combat-lib-units.module.code.ts"
 import { fireCombatEvent } from "akasha/temper/combat-addon/modules/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
 import {
   getFormattedAbilityName,
@@ -21,6 +20,7 @@ import {
   DATA,
   getCurrentFight,
 } from "akasha/temper/combat-addon/modules/combat-lib-state/combat-lib-state.module.code.ts"
+import { checkUnit } from "akasha/temper/combat-addon/modules/combat-lib-units/combat-lib-units.module.code.ts"
 
 const SPECIAL_RESULTS_INVERSE: Record<string, number | undefined> = {
   ACTION_RESULT_BLADETURN: ACTION_RESULT_BLADETURN,

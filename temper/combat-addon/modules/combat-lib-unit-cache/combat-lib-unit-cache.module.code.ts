@@ -1,8 +1,3 @@
-import type {
-  DeathRecapLogLine,
-  UnitCache,
-} from "akasha/temper/combat-addon/combat-lib-types/combat-lib-types.module.code.ts"
-import { getUnitInfo } from "akasha/temper/combat-addon/combat-lib-units/combat-lib-units.module.code.ts"
 import { fireCombatEvent } from "akasha/temper/combat-addon/modules/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
 import {
   DEATH_RECAP_TIME_PERIOD,
@@ -15,6 +10,11 @@ import {
   log,
 } from "akasha/temper/combat-addon/modules/combat-lib-log/combat-lib-log.module.code.ts"
 import { getCurrentFight } from "akasha/temper/combat-addon/modules/combat-lib-state/combat-lib-state.module.code.ts"
+import type {
+  DeathRecapLogLine,
+  UnitCache,
+} from "akasha/temper/combat-addon/modules/combat-lib-types/combat-lib-types.module.code.ts"
+import { getUnitInfo } from "akasha/temper/combat-addon/modules/combat-lib-units/combat-lib-units.module.code.ts"
 
 const COMBAT_EVENT_CACHE: Record<number, UnitCache> = {}
 

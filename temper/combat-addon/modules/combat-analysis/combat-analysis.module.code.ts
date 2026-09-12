@@ -1,9 +1,4 @@
 import {
-  processLogDamage,
-  processLogHeal,
-  processLogHealSelf,
-} from "akasha/temper/combat-addon/combat-process-log-damage/combat-process-log-damage.module.code.ts"
-import {
   processLogEffects,
   processLogResources,
   processLogStats,
@@ -64,6 +59,11 @@ import {
   LIBCOMBAT_EVENT_RESOURCES,
   LIBCOMBAT_EVENT_SKILL_TIMINGS,
 } from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
+import {
+  processLogDamage,
+  processLogHeal,
+  processLogHealSelf,
+} from "akasha/temper/combat-addon/modules/combat-process-log-damage/combat-process-log-damage.module.code.ts"
 
 const DESIRED_TIME = 0.01
 const STEP_SIZE = 20

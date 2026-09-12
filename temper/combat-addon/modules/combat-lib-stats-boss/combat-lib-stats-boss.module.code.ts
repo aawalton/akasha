@@ -1,4 +1,3 @@
-import type { StatusEffectBonusData } from "akasha/temper/combat-addon/combat-lib-types/combat-lib-types.module.code.ts"
 import { fireCombatEvent } from "akasha/temper/combat-addon/modules/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
 import {
   DESTRO_STAFF_TYPES,
@@ -18,6 +17,7 @@ import {
   LAST_BOSS_HEALTH_VALUE,
   setLastBossHealthValue,
 } from "akasha/temper/combat-addon/modules/combat-lib-state/combat-lib-state.module.code.ts"
+import type { StatusEffectBonusData } from "akasha/temper/combat-addon/modules/combat-lib-types/combat-lib-types.module.code.ts"
 
 export function getSlottedAbilityId(
   actionSlotIndex: number,

@@ -1,7 +1,3 @@
-import {
-  getUnitCache,
-  updateUnitCacheResource,
-} from "akasha/temper/combat-addon/combat-lib-unit-cache/combat-lib-unit-cache.module.code.ts"
 import { fireCombatEvent } from "akasha/temper/combat-addon/modules/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
 import {
   ABILITY_RESOURCE_CACHE_SIZE,
@@ -23,6 +19,10 @@ import {
   getCurrentFight,
 } from "akasha/temper/combat-addon/modules/combat-lib-state/combat-lib-state.module.code.ts"
 import { updateSingleStat } from "akasha/temper/combat-addon/modules/combat-lib-stats/combat-lib-stats.module.code.ts"
+import {
+  getUnitCache,
+  updateUnitCacheResource,
+} from "akasha/temper/combat-addon/modules/combat-lib-unit-cache/combat-lib-unit-cache.module.code.ts"
 
 function getStat(stat: number): number {
   return GetPlayerStat(stat, STAT_BONUS_OPTION_APPLY_BONUS)

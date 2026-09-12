@@ -1,11 +1,3 @@
-import type {
-  CPData,
-  CPDisciplineData,
-  Fight,
-  FightRecapData,
-  GroupRecapData,
-} from "akasha/temper/combat-addon/combat-lib-types/combat-lib-types.module.code.ts"
-import { processDeathRecaps } from "akasha/temper/combat-addon/combat-lib-unit-cache/combat-lib-unit-cache.module.code.ts"
 import { fireCombatEvent } from "akasha/temper/combat-addon/modules/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
 import {
   ACTIVE_TIME_ON_HEALS,
@@ -29,6 +21,14 @@ import {
   DATA,
   EVENT_GROUP_ACTIVE,
 } from "akasha/temper/combat-addon/modules/combat-lib-state/combat-lib-state.module.code.ts"
+import type {
+  CPData,
+  CPDisciplineData,
+  Fight,
+  FightRecapData,
+  GroupRecapData,
+} from "akasha/temper/combat-addon/modules/combat-lib-types/combat-lib-types.module.code.ts"
+import { processDeathRecaps } from "akasha/temper/combat-addon/modules/combat-lib-unit-cache/combat-lib-unit-cache.module.code.ts"
 
 export function getCritBonusFromCP(cpData: CPData): number {
   const greenDiscipline = cpData[1]

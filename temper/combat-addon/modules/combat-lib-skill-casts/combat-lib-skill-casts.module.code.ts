@@ -1,4 +1,3 @@
-import { getSlottedAbilityId } from "akasha/temper/combat-addon/combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"
 import {
   ABILITY_ADDITIONS_REVERSE,
   ABILITY_CONVERSIONS,
@@ -35,6 +34,7 @@ import {
   LAST_QUEUED_ABILITIES,
   USED_CAST_TIME_ABILITY,
 } from "akasha/temper/combat-addon/modules/combat-lib-state/combat-lib-state.module.code.ts"
+import { getSlottedAbilityId } from "akasha/temper/combat-addon/modules/combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"
 
 let heavyAttackCharging: number | undefined
 

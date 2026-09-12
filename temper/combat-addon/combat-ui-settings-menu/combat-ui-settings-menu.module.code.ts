@@ -1,4 +1,3 @@
-import { openSettings } from "akasha/temper/combat-addon/combat-menu/combat-menu.module.code.ts"
 import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
 import {
   getShowOverHeal,
@@ -23,6 +22,7 @@ import {
 import { updateReport } from "akasha/temper/combat-addon/combat-ui-window/combat-ui-window.module.code.ts"
 import { calculateFight } from "akasha/temper/combat-addon/modules/combat-analysis/combat-analysis.module.code.ts"
 import type { CmxFight } from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
+import { openSettings } from "akasha/temper/combat-addon/modules/combat-menu/combat-menu.module.code.ts"
 import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 
 function toggleShowIds(this: void): undefined {
