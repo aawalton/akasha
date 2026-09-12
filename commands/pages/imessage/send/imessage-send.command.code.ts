@@ -61,19 +61,19 @@ export async function handleFor(to: string): Promise<string> {
   const matched = searchContacts(await fetchContacts(), to)
   if (matched.length === 0) {
     throw new InputError(
-      `no contact matches "${to}" — say a phone number, an address, or a fuller name`
+      `no contact matches \`${to}\` — say a phone number, an address, or a fuller name`
     )
   }
   if (matched.length > 1) {
     throw new InputError(
-      `"${to}" lands on ${matched.map((each) => each.name).join(", ")} rather than one`
+      `\`${to}\` lands on ${matched.map((each) => each.name).join(", ")} rather than one`
     )
   }
   const one = matched[0]
-  if (one === undefined) throw new InputError(`no contact matches "${to}"`)
+  if (one === undefined) throw new InputError(`no contact matches \`${to}\``)
   const reached = one.phones[0] ?? one.emails[0]
   if (reached === undefined) {
-    throw new InputError(`"${one.name}" carries no phone number and no address to send to`)
+    throw new InputError(`\`${one.name}\` carries no phone number and no address to send to`)
   }
   return reached
 }
