@@ -46,13 +46,5 @@ export const devServerRunning = {
       invariantKind: "departure",
       statement: "A start names the server it left running and the state file it wrote.",
     },
-    {
-      invariantKind: "departure",
-      statement: "An answer refusing after a write names what was written beside that refusal.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An answer refusing with nothing written is left as that answer was.",
-    },
   ],
 } as const satisfies Module

@@ -55,15 +55,6 @@ export function stoppedBy(done: readonly string[], thrown: unknown): Answer {
   return { report: [...done], refusals: [whyOf(thrown), ...partWay(done)], code: codeOf(thrown) }
 }
 
-export function keeping(done: readonly string[], said: Answer): Answer {
-  if (said.refusals.length === 0 || done.length === 0) return said
-  return {
-    report: [...done, ...said.report],
-    refusals: [...said.refusals, ...partWay(done)],
-    code: said.code,
-  }
-}
-
 export async function starting(
   read: {
     root: string

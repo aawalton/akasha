@@ -12,6 +12,7 @@ import {
   faulted,
   flagsAloneIn,
   INPUT,
+  keeping,
   OK,
   OPERATIONAL,
   partWay,
@@ -107,6 +108,32 @@ test("a fault with nothing done by then is answered as the fault alone", async (
   })
   expect(held.report).toEqual([])
   expect(held.refusals.some((one) => one.includes("stopped part way"))).toBe(false)
+})
+
+const WROTE = ["left a dev server running at pid 4242 on port 3000"]
+
+const REFUSED = {
+  report: ["auto-bootstrapped /w/.env.local (3 vars)"],
+  refusals: ["the dev server exited straight away with code 1"],
+  code: OPERATIONAL,
+}
+
+test("an answer refusing after a write names what was written beside that refusal", () => {
+  const said = keeping(WROTE, REFUSED)
+  expect(said.report).toEqual([...WROTE, "auto-bootstrapped /w/.env.local (3 vars)"])
+  expect(said.refusals[0]).toBe("the dev server exited straight away with code 1")
+  expect(said.refusals[1]).toContain("stopped part way")
+  expect(said.refusals[1]).toContain("pid 4242 on port 3000")
+  expect(said.code).toBe(OPERATIONAL)
+})
+
+test("an answer refusing with nothing written is left as that answer was", () => {
+  expect(keeping([], REFUSED)).toEqual(REFUSED)
+})
+
+test("an answer refusing nothing is left as that answer was, whatever was written", () => {
+  const worked = { report: ["pid=4242 port=3000"], refusals: [], code: OK }
+  expect(keeping(WROTE, worked)).toEqual(worked)
 })
 
 test("a fault caught outside every command is answered as unclassified", () => {

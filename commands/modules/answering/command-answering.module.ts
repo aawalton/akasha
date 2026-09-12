@@ -47,6 +47,18 @@ export const commandAnswering = {
     },
     {
       invariantKind: "departure",
+      statement: "An answer refusing after a write names what was written beside that refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An answer refusing with nothing written is left as that answer was.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An answer refusing nothing is left as that answer was, whatever was written.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "The sentence naming what that list holds is built here for every refusal to reach.",
     },
