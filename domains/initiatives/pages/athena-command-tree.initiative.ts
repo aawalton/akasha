@@ -12,12 +12,12 @@ export const athenaCommandTree = {
       statement:
         "Every name in the command tree is singular; how many a command answers is no part of its name.",
       workingMemory:
-        "Every namespace and every command noun is singular now save one. `typings` became `declaration` in `1ce847a58b2` and `a8930c01c54`. `seat-refresh-settings` names one settings file rather than counting. `seat-compose-notices` is the plural left, and it no longer waits on the machine-facing intent, which does not reach it. Its name is contested between two rules: dropping the act word gives `seat notices`, and the list-or-show rule gives `seat notice list`. Alan's.\n",
+        "Two plural names, not one. `seat compose-notices`, whose name is contested between `seat notices` by dropping the act word and `seat notice list` by the list-or-show rule. And `infrastructure dev-server logs` at its page `:9`, named that since `a36d2e60f6d` rather than drifted into. `typings` became `declaration` at `1ce847a58b2`. `seat refresh-settings` names one settings file rather than counting, and `temper inventory rule takes` is a verb. Alan's, and one ruling settles both.\n",
     },
     {
       statement: "A command answering many is `list`, and a command answering one is `show`.",
       workingMemory:
-        "32 commands are genuinely act-less, 16 answering many and 16 answering one. The 16 `measure` commands are act-first rather than act-less — `measure` is the act, as in `refresh attribute` — so they belong to the word-order finding rather than here. A rename costs 5 to 12 files: the aliases derive every call from the page, and the extension spells none. Alan's: the rule earns its keep on the record-named getters and stacks a second answer-word on every `*-status`.\n",
+        "33 commands are act-less, answering something and saying neither word; 33 of 236 conform, 25 `list` and 8 `show`. The many-or-one split reads 20 to 13 and is soft — six could go either way on their definition line alone. The 16 `measure` commands are act-first rather than act-less. A rename costs 5 to 12 files: the aliases derive every call from the page, and the extension spells none. Alan's: the rule stacks a second answer-word on every `*-status`.\n",
     },
   ],
 } as const satisfies Initiative

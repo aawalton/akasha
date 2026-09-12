@@ -11,7 +11,7 @@ export const athenaCommandFolders = {
     {
       statement: "A parts list is sorted, and no reader depends on the order it is written in.",
       workingMemory:
-        "The namespace listing is settled and sorts by the listed name. `parts-list-is-sorted` is experimental, refusing 350 pages by whole `type/slug`, 335 after fifteen namespaces were sorted. Sorting by hand rots: `add-property-value` puts a value after the ones the property has, and `change-domain-parent` routes every new part through it. Alan's, one word for the Domains numbering: `record`, `number`, or `none`?\n",
+        "The namespace listing is settled and sorts by the listed name. `parts-list-is-sorted` is experimental and refuses 334 files at `320984945e3`, the first being `agents/agent.domain.ts`, which names `domain/hook` after `page-type/claude-account`. Sorting by hand rots: `add-property-value` puts a value after the ones the property has, and `change-domain-parent` routes every new part through it. Alan's, one word for the Domains numbering: `record`, `number`, or `none`?\n",
     },
   ],
 } as const satisfies Initiative
