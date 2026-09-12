@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { copyFileSync, mkdirSync } from "node:fs"
 import { join } from "node:path"
+import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -221,7 +222,7 @@ test("a value that will not compose is refused and reaches no landing", async ()
 })
 
 test("a landing that refuses is answered by what that landing refused", async () => {
-  const fake = reaching({ refusals: ["another landing held the lock"] })
+  const fake = reaching({ refusals: ["another landing held the lock"], code: EXIT.OPERATIONAL })
   const said = await landedWith(givenIn(NOWHERE), SAID, TARGET, "clear", new Map(), fake.landing)
   expect(said).toEqual({ report: [], refusals: ["another landing held the lock"], code: 3 })
 })

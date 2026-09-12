@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { readingIn, recordRead } from "akasha/agents/read-record/read-record.module.code.ts"
+import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   appendEdits,
@@ -190,7 +191,7 @@ test("a page taken away is forgotten by whoever read it", async () => {
 test("a reading is kept where the landing refused the page it names", async () => {
   const { root, oid } = heldIn()
   recordRead(root, AGENT, { path: HELD_AT, oid, seenAt: 1, carriedOid: null })
-  const held = noting([], { refusals: ["another landing held the lock"] })
+  const held = noting([], { refusals: ["another landing held the lock"], code: EXIT.OPERATIONAL })
   expect(await took(givenIn(root), [HELD_AT], MESSAGE, held)).toBe(false)
   expect(readingIn(root, AGENT, HELD_AT)).not.toBe(null)
   world.sweep()

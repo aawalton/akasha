@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -213,7 +214,8 @@ test("what landed is reported under the line saying what was recorded", async ()
 })
 
 test("a landing that refused is answered with the refusal and nothing recorded", async () => {
-  const said = await ratingAurora(reaching({ refusals: ["another landing held the lock"] }))
+  const refused = { refusals: ["another landing held the lock"], code: EXIT.OPERATIONAL }
+  const said = await ratingAurora(reaching(refused))
   expect(said.code).toBe(3)
   expect(said.refusals).toEqual(["another landing held the lock"])
   expect(said.report).toEqual([])

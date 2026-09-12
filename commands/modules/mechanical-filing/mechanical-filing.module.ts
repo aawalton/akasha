@@ -46,6 +46,10 @@ export const mechanicalFiling = {
       statement: "A landing that wrote before it went wrong answers the same beside its refusals.",
     },
     {
+      invariantKind: "departure",
+      statement: "A refusal the landing answered exits with the code that landing stated.",
+    },
+    {
       invariantKind: "absence",
       statement: "No ask here appends.",
     },

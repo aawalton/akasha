@@ -8,6 +8,11 @@ import { appendEdits } from "akasha/changes/modules/edits-keeping/edits-keeping.
 import type { Judged, Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { textIn, textOf } from "akasha/code/body-text/body-text.module.code.ts"
 import {
+  DATA,
+  INPUT,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
   commitNamed,
   unfresh,
 } from "akasha/commands/modules/change-freshness/change-freshness.module.code.ts"
@@ -76,6 +81,7 @@ export type Landed = {
 
 export type Refused = {
   readonly refusals: readonly string[]
+  readonly code: number
   readonly said?: readonly string[]
 }
 
@@ -255,9 +261,9 @@ function draftedBy(
   const base = baseOf(root)
   const changing = [...new Set(changes.flatMap(pathsOf))]
   const stale = unfresh(root, named, base, changing, asRead, AGAIN_DRAFTED)
-  if (stale !== null) return { refusals: stale }
+  if (stale !== null) return { refusals: stale, code: DATA }
   const kept = appendEdits(root, page, changes)
-  if ("why" in kept) return { refusals: [kept.why, KEPT_AS_IT_WAS] }
+  if ("why" in kept) return { refusals: [kept.why, KEPT_AS_IT_WAS], code: OPERATIONAL }
   return { base, drafted: [...changing].sort() }
 }
 
@@ -313,7 +319,7 @@ export async function landing(
     .flatMap(pathsOf)
     .filter((one) => outsideRoot(root, one))
     .map(writesOutside)
-  if (outside.length > 0) return { refusals: [...outside, NOTHING_OUTSIDE] }
+  if (outside.length > 0) return { refusals: [...outside, NOTHING_OUTSIDE], code: INPUT }
   const named = read === null ? null : commitNamed(root, read)
   if (read !== null && named === null) {
     return {
@@ -321,6 +327,7 @@ export async function landing(
         `\`${read}\` names no commit, so it says nothing about what this change read`,
         "nothing was written — name a commit that is there, or name none",
       ],
+      code: INPUT,
     }
   }
   if (drafting !== null) {
@@ -337,6 +344,7 @@ export async function landing(
         ...orphaned.map(orphaningSaid),
         `nothing was written — ${changes.length} change(s) were asked for and they land together or not at all`,
       ],
+      code: DATA,
     }
   }
   if (said.length > 0) {
@@ -345,6 +353,7 @@ export async function landing(
         ...said.map((one) => `${one.path} — ${one.reason}`),
         `nothing was written — ${changes.length} change(s) were asked for and they land together or not at all`,
       ],
+      code: DATA,
     }
   }
   allowedThrough()
@@ -352,7 +361,7 @@ export async function landing(
     const base = baseOf(root)
     const paths = edits.map((one) => one.path)
     const stale = unfresh(root, named, base, paths, asRead, AGAIN_WRITTEN)
-    if (stale !== null) return { refusals: stale }
+    if (stale !== null) return { refusals: stale, code: DATA }
     const split = heldBack(root, edits)
     const moving = movesHeld(
       moves,

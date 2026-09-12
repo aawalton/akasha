@@ -448,5 +448,13 @@ export const landing = {
       invariantKind: "departure",
       statement: "A refusal carries whatever the caller folding it has to say alongside it.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A refusal answered here states the code that refusal exits with.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change the checks refused is a fault of the data.",
+    },
   ],
 } as const satisfies Module

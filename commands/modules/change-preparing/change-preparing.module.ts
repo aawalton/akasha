@@ -173,6 +173,10 @@ export const changePreparing = {
         "Every road that lands is held to that refusal including a change kind running no check.",
     },
     {
+      invariantKind: "departure",
+      statement: "Every refusal answered here is a fault of the data.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here writes a file or takes the hold.",
     },

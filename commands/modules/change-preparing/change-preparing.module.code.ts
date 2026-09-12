@@ -11,6 +11,7 @@ import { steppedFor } from "akasha/code/ios-components/pages/spacing/spacing-ste
 import { bodiesFor } from "akasha/code/module-property-groups/group-writing/group-writing.module.code.ts"
 import { globbedFor } from "akasha/code/stylesheets/source-globbing/source-globbing.module.code.ts"
 import { lockingFor } from "akasha/code/workspaces/manifest-locking/manifest-locking.module.code.ts"
+import { DATA } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
 import { changeOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import type { FileMove } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
@@ -131,7 +132,7 @@ export function preparing(
   const formatting = formattingIn(root, changes, already)
   const folded = foldedOver(changes, formatting.edits)
   const stated = rowsFrom(root, base, folded)
-  if ("why" in stated) return { refusals: [stated.why] }
+  if ("why" in stated) return { refusals: [stated.why], code: DATA }
   const moved: readonly Moving[] = moves.map((one) => ({
     kind: "move",
     pathFrom: one.from,
@@ -139,7 +140,7 @@ export function preparing(
   }))
   const rows = [...moved, ...stated.rows]
   const unexportable = unexportableIn(rows)
-  if (unexportable.length > 0) return { refusals: unexportable }
+  if (unexportable.length > 0) return { refusals: unexportable, code: DATA }
   const locking = lockingFor(root, base, rows)
   const change = changeOf(root, base, rows)
   const stepped = steppedFor(change)

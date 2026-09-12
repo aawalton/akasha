@@ -69,6 +69,10 @@ export const holding = {
     },
     {
       invariantKind: "departure",
+      statement: "That refusal states the code an operational fault exits with.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "An act that failed inside the hold is thrown on rather than answered as a refusal.",
     },

@@ -247,6 +247,34 @@ export const applying = {
       statement: "A hold held past its ceiling is answered as a refusal rather than thrown on.",
     },
     {
+      invariantKind: "departure",
+      statement: "An apply exits with the code the landing that apply ran refused with.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An apply the checks refused exits as a fault of the data.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An apply a hold held past its ceiling exits as an operational fault.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An apply handed no rows exits as a fault of the call.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An apply whose checks would not load exits as an operational fault.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An apply a fault after the commit went wrong for exits as an operational fault.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every answer here is built by a function rather than written out as a value.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here takes the hold.",
     },

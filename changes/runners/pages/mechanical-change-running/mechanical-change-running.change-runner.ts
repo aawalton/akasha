@@ -66,6 +66,14 @@ export const mechanicalChangeRunning = {
     },
     {
       invariantKind: "departure",
+      statement: "A call naming no change is refused as a fault of the call.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change that refused the fold is refused as a fault of the data.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Changes that all state no edit land nothing and commit nothing.",
     },
     {

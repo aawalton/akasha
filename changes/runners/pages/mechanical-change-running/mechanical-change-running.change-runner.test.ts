@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { refusing, stating } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer as Said } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { ledgerAt, type Reaching } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
@@ -79,7 +80,10 @@ test("a change that refuses stops the fold, so no change after that change runs"
 
 test("a call naming no change lands nothing and says so", async () => {
   const said = await runMechanicalChange("/nowhere", [], "held")
-  expect(said).toEqual({ refusals: ["no change was named, so nothing is run and nothing lands"] })
+  expect(said).toEqual({
+    refusals: ["no change was named, so nothing is run and nothing lands"],
+    code: EXIT.INPUT,
+  })
 })
 
 test("every change stating no edit gathers to no edit and refuses nothing", async () => {

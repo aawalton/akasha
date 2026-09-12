@@ -1,6 +1,7 @@
 import { expect } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, readlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Judged, Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
@@ -110,6 +111,7 @@ export function drafting(
   if ("why" in said) {
     return Promise.resolve({
       refusals: [said.why, "nothing was drafted — the edits are as the edits were"],
+      code: EXIT.DATA,
     })
   }
   return landing(root, said.rows, "held", gate, null, null, [], DRAFT)

@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { LrclibRecord } from "akasha/alan/music/catalog/lrclib-schema/lrclib-schema.module.code.ts"
 import type {
   MbArtist,
@@ -304,7 +305,8 @@ test("the artist, the song and its words are named to the landing at one change 
 })
 
 test("a landing that refused is answered with the refusal and nothing brought in", async () => {
-  const said = await importingProbe(landingOnto(unseen(), { refusals: ["the lock was held"] }))
+  const refused = { refusals: ["the lock was held"], code: EXIT.OPERATIONAL }
+  const said = await importingProbe(landingOnto(unseen(), refused))
   expect(said.code).toBe(3)
   expect(said.refusals).toEqual(["the lock was held"])
   expect(said.report).toEqual([])

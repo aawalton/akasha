@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
+import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { Asking as Asked } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { refusingWith } from "akasha/commands/modules/calling/calling.module.test-fixtures.ts"
 import {
@@ -365,7 +366,8 @@ test("a run saying to write nothing reaches no landing and names what would be w
 })
 
 test("a landing that refused is answered with the refusal and nothing filed", async () => {
-  const held = landingTelling(TOLD_NOTHING, { refusals: ["the lock was held"] })
+  const refused = { refusals: ["the lock was held"], code: EXIT.OPERATIONAL }
+  const held = landingTelling(TOLD_NOTHING, refused)
   const answer = await capturing([], GIVEN, PROBE_PLAYS, held)
   expect(answer.code).toBe(3)
   expect(answer.refusals).toEqual(["the lock was held"])

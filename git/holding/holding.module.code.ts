@@ -1,5 +1,6 @@
 import { closeSync, mkdirSync, openSync, rmSync, statSync, unlinkSync, writeSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { keptAt, LANDING_LOCK } from "akasha/files/git-place/git-place.module.code.ts"
 import {
   alive,
@@ -46,13 +47,18 @@ export function heldSaid(waited: number): string {
   return `another landing has held \`${LOCK_AT}\` for longer than ${Math.round(waited / 1000)}s, so this change was not judged and nothing was written`
 }
 
-export async function refusedWhereHeld<T>(
-  act: () => Promise<T>
-): Promise<T | { readonly refusals: readonly string[] }> {
+export type Held = {
+  readonly refusals: readonly string[]
+  readonly code: number
+}
+
+export async function refusedWhereHeld<T>(act: () => Promise<T>): Promise<T | Held> {
   try {
     return await act()
   } catch (thrown) {
-    if (thrown instanceof HeldTooLong) return { refusals: [thrown.message] }
+    if (thrown instanceof HeldTooLong) {
+      return { refusals: [thrown.message], code: EXIT.OPERATIONAL }
+    }
     throw thrown
   }
 }

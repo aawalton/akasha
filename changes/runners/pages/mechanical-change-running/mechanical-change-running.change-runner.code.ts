@@ -13,6 +13,7 @@ import {
   runAt,
 } from "akasha/changes/runners/change-loading/change-loading.module.code.ts"
 import type { Changes } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.addressed.ts"
+import { DATA, INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { type Applied, applied } from "akasha/commands/modules/applying/applying.module.code.ts"
 import type { Kind } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { runningOf } from "akasha/commands/modules/change-kind-running/change-kind-running.module.code.ts"
@@ -65,9 +66,9 @@ export async function runMechanicalChange(
   agentId: string | null = null,
   writing: Writing = {}
 ): Promise<Applied | Refused> {
-  if (asked.length === 0) return { refusals: [NOTHING_ASKED] }
+  if (asked.length === 0) return { refusals: [NOTHING_ASKED], code: INPUT }
   const said = await foldedOver(ledgerAt(root, bodyIn(root), runAt), asked)
-  if (said.refused !== null) return { refusals: [said.refused] }
+  if (said.refused !== null) return { refusals: [said.refused], code: DATA }
   if (said.edits.length === 0) {
     return {
       base: baseOf(root),
@@ -80,7 +81,7 @@ export async function runMechanicalChange(
     }
   }
   const worked = landingFrom(root, baseOf(root), said)
-  if ("why" in worked) return { refusals: [worked.why] }
+  if ("why" in worked) return { refusals: [worked.why], code: DATA }
   return await applied(
     root,
     agentId,

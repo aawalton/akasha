@@ -11,8 +11,18 @@ import type { FileChange } from "akasha/changes/modules/answer/change-answer.mod
 import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { MEASURING } from "akasha/code/tests/code-tests.module.code.ts"
 import { installingIn } from "akasha/code/workspaces/manifest-locking/manifest-locking.module.code.ts"
+import {
+  INPUT,
+  OK,
+  OPERATIONAL,
+  refusedBy,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Given as Arguments } from "akasha/commands/modules/argument-reading/argument-reading.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import {
+  type Answer,
+  answering,
+  type Given,
+} from "akasha/commands/modules/calling/calling.module.code.ts"
 import type { Running } from "akasha/commands/modules/change-kind-running/change-kind-running.module.code.ts"
 import { preparing } from "akasha/commands/modules/change-preparing/change-preparing.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -108,6 +118,10 @@ function notLanded(answer: Answer): Applying {
   return { ...answer, landed: false }
 }
 
+function landedAs(answer: Answer): Applying {
+  return { ...answer, landed: true }
+}
+
 export type Asked = {
   readonly message: string | null
   readonly glass: string | null
@@ -159,11 +173,8 @@ export async function applying(
   }
   const built = gateBuilt(given.root)
   if (broken === null && !("gate" in built)) {
-    return notLanded({
-      report: [],
-      refusals: keeping([`the checks would not load — ${built.broken}`]),
-      code: 3,
-    })
+    const unloadable = `the checks would not load — ${built.broken}`
+    return notLanded(refusedBy(keeping([unloadable]), OPERATIONAL))
   }
   const built0 = broken === null && "gate" in built ? built.gate : NO_GATE
   const gate = asked.measure ? measured(built0) : built0
@@ -175,30 +186,23 @@ export async function applying(
   try {
     const said = await applied(given.root, given.agentId, why, gate, given.writer, [], carried)
     if ("refusals" in said) {
-      return notLanded({
-        report: [...(said.said ?? [])],
-        refusals: keeping(said.refusals),
-        code: 3,
-      })
+      return notLanded(answering([...(said.said ?? [])], keeping(said.refusals), said.code))
     }
-    return {
-      report: [
-        ...landedSaid(said.landed),
-        ...formattedSaid(said.formatted),
-        ...said.said,
-        ...(broken === null ? [] : [glassSaid(broken)]),
-        commitSaid(said.commit, said.untracked ?? []),
-      ],
-      refusals: keeping(said.wrong),
-      code: said.wrong.length === 0 ? 0 : 3,
-      landed: true,
-    }
+    return landedAs(
+      answering(
+        [
+          ...landedSaid(said.landed),
+          ...formattedSaid(said.formatted),
+          ...said.said,
+          ...(broken === null ? [] : [glassSaid(broken)]),
+          commitSaid(said.commit, said.untracked ?? []),
+        ],
+        keeping(said.wrong),
+        said.wrong.length === 0 ? OK : OPERATIONAL
+      )
+    )
   } catch (thrown) {
-    return notLanded({
-      report: [],
-      refusals: keeping([`nothing was committed — ${whyOf(thrown)}`]),
-      code: 3,
-    })
+    return notLanded(refusedBy(keeping([`nothing was committed — ${whyOf(thrown)}`]), OPERATIONAL))
   } finally {
     delete process.env[MEASURING]
   }
@@ -291,7 +295,7 @@ export async function applied(
   carried: Carried | null = null,
   read: string | null = null
 ): Promise<Applied | Refused> {
-  if (carried === null) return { refusals: [NOTHING_HELD] }
+  if (carried === null) return { refusals: [NOTHING_HELD], code: INPUT }
   const holding = carried
   const head = gitSaid(root, ["rev-parse", "HEAD"]).trim()
   const running = holding.running
@@ -299,7 +303,9 @@ export async function applied(
   const moving = [...moves, ...(holding.moves ?? [])]
   const paths = pathsIn(holding.rows)
   const prepared = preparing(root, head, holding.rows, moving, holding.formatted)
-  if ("refusals" in prepared) return { refusals: [...prepared.refusals, UNEXPORTABLE] }
+  if ("refusals" in prepared) {
+    return { refusals: [...prepared.refusals, UNEXPORTABLE], code: prepared.code }
+  }
   const formatting = prepared.formatting
   if (running.writerOwesReading && agentId !== null) warrantedAgain(root, head, agentId, paths)
   const asRead = agentId === null ? [] : asReadOf(root, agentId, paths)
@@ -316,7 +322,7 @@ export async function applied(
       prepared.over
     )
   )
-  if ("refusals" in done) return { refusals: done.refusals, said: prepared.said }
+  if ("refusals" in done) return { refusals: done.refusals, code: done.code, said: prepared.said }
   let put: Put = { said: [], wrong: [] }
   try {
     const carries = carriedFrom(root, head, moving)

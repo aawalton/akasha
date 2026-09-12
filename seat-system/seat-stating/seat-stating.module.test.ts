@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
@@ -192,7 +193,7 @@ function landingSaying(answers: readonly (readonly string[])[]): {
     named.push(changes.map((one) => one.at).join(","))
     const said = answers[asked] ?? []
     asked += 1
-    return Promise.resolve({ refusals: [...said] })
+    return Promise.resolve({ refusals: [...said], code: EXIT.OPERATIONAL })
   }
   return { landing, named }
 }

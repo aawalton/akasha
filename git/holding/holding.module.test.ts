@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, utimesSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { landing } from "akasha/commands/modules/landing/landing.module.code.ts"
@@ -208,7 +209,7 @@ test("a wait that ran out reaches a caller asking for a refusal as a refusal", a
   const root = repoWith({ "one.txt": "committed" })
   const kid = await heldBy(root)
   const said = await refusedWhereHeld(() => Promise.resolve(holding(root, () => PROPOSED, 200)))
-  expect(said).toEqual({ refusals: [heldSaid(200)] })
+  expect(said).toEqual({ refusals: [heldSaid(200)], code: EXIT.OPERATIONAL })
   await killed(kid)
 })
 

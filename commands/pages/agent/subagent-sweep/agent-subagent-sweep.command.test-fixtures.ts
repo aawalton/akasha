@@ -3,6 +3,7 @@ import { join } from "node:path"
 import type { ProcLivenessEntry } from "akasha/agents/proc-liveness/agent-proc-liveness.module.code.ts"
 import { entry } from "akasha/agents/proc-liveness/agent-proc-liveness.module.test-fixtures.ts"
 import { refusalsKept } from "akasha/agents/refusals-keeping/refusals-keeping.module.code.ts"
+import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { SubagentNode } from "akasha/code/editor/extension/subagent-reading/subagent-reading.module.code.ts"
@@ -211,7 +212,8 @@ export function refusedRemoving(
   seen: readonly ProcLivenessEntry[],
   said: RunningSaid
 ): Promise<Answer> {
-  return removing(root, base, seen, said, landings({ refusals: [LOCK_HELD] }).landing)
+  const held = landings({ refusals: [LOCK_HELD], code: EXIT.OPERATIONAL })
+  return removing(root, base, seen, said, held.landing)
 }
 
 export function there(root: string, at: string): boolean {

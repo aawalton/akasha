@@ -13,6 +13,7 @@ import {
   pageAt,
   worldIn,
 } from "akasha/agents/claude-accounts/modules/marking/claude-account-marking.module.test-fixtures.ts"
+import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
@@ -177,7 +178,7 @@ export function spoilingLanding(sops: Sops, at: string): Doors["landing"] {
 }
 
 export function refusingLanding(refusals: readonly string[]): Doors["landing"] {
-  return async () => ({ refusals })
+  return async () => ({ refusals, code: EXIT.DATA })
 }
 
 export function heldIn(sops: Sops, root: string, page: string): ReadonlyMap<string, string> {
