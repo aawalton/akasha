@@ -141,7 +141,6 @@ export const seatSystem = {
     "module/tick-deadline",
     "module/run-supervisor",
     "module/argument-narrowing",
-    "module/command-failing",
     "module/gated-landing",
     "module/gated-write",
     "module/payload",

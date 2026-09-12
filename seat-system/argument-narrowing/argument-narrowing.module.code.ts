@@ -1,4 +1,4 @@
-import { fail } from "akasha/seat-system/command-failing/command-failing.module.code.ts"
+import { fail } from "akasha/commands/modules/failing/command-failing.module.code.ts"
 
 export type Narrow<T> = (value: unknown, path: string) => T
 

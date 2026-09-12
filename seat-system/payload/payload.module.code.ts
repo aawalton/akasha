@@ -2,6 +2,7 @@ import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import { notUtf8 } from "akasha/checks/modules/body-not-utf8/body-not-utf8.module.code.ts"
 import { decodeUtf8 } from "akasha/code/utf8-body/utf8-body.module.code.ts"
+import { fail } from "akasha/commands/modules/failing/command-failing.module.code.ts"
 import {
   AKASHA,
   addressableNamed,
@@ -14,7 +15,6 @@ import type {
   Repo,
 } from "akasha/pages/markdown-document/markdown-document.module.code.ts"
 import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
-import { fail } from "akasha/seat-system/command-failing/command-failing.module.code.ts"
 
 const STANDALONE = [
   "--dry-run",

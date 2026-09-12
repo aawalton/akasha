@@ -1,5 +1,5 @@
+import { fail } from "akasha/commands/modules/failing/command-failing.module.code.ts"
 import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { fail } from "akasha/seat-system/command-failing/command-failing.module.code.ts"
 import type { Outcome } from "akasha/seat-system/gated-write/gated-write.module.code.ts"
 import {
   nameFromHistory,

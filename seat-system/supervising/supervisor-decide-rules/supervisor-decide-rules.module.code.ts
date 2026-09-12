@@ -1,3 +1,4 @@
+import { fail } from "akasha/commands/modules/failing/command-failing.module.code.ts"
 import {
   arr,
   bool,
@@ -6,7 +7,6 @@ import {
   obj,
   str,
 } from "akasha/seat-system/argument-narrowing/argument-narrowing.module.code.ts"
-import { fail } from "akasha/seat-system/command-failing/command-failing.module.code.ts"
 import {
   computeReExecJitterMs,
   resolveMaxReExecJitterMs,

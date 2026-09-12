@@ -6,12 +6,12 @@ import {
   MODES,
   type Mode,
 } from "akasha/agents/attributes/agent-attributes.module.code.ts"
+import { fail } from "akasha/commands/modules/failing/command-failing.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { fail } from "akasha/seat-system/command-failing/command-failing.module.code.ts"
 import {
   type Principal,
   principals,
