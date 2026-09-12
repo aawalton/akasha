@@ -12,11 +12,11 @@ import {
   categoryTitles,
   readFlags,
 } from "akasha/alan/harness/monarch/modules/rule-pages/monarch-rule-pages.module.code.ts"
-import type { Rule } from "akasha/alan/harness/monarch/rules/monarch-rules.module.code.ts"
+import type { Rule } from "akasha/alan/harness/monarch/modules/rules/monarch-rules.module.code.ts"
 import {
   decide,
   neighbourhoods,
-} from "akasha/alan/harness/monarch/rules/monarch-rules.module.code.ts"
+} from "akasha/alan/harness/monarch/modules/rules/monarch-rules.module.code.ts"
 
 const DEFAULT_LIMIT = 30
 

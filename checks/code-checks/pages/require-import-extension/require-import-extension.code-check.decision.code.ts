@@ -9,7 +9,7 @@ import {
   specifiersIn,
 } from "akasha/code/modules/specifier/code-specifier.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
-import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
 
 const ENDINGS: readonly string[] = [".ts", ".tsx", ".css"]
 

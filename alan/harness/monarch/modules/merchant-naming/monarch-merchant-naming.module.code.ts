@@ -2,7 +2,7 @@ import { AKASHA } from "akasha/alan/harness/monarch/modules/files/monarch-files.
 import {
   descriptionOf,
   type Subject,
-} from "akasha/alan/harness/monarch/transaction/monarch-transaction.module.code.ts"
+} from "akasha/alan/harness/monarch/modules/transaction/monarch-transaction.module.code.ts"
 import {
   normalize,
   type VocabularyEntry,

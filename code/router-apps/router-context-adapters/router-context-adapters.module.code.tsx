@@ -8,7 +8,7 @@ import {
   type PagesUILinkProps,
   PagesUILinkProvider,
   PagesUIRouterProvider,
-} from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
+} from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { type ReactNode, useMemo } from "react"
 import { Link, useLocation, useNavigate, useSearchParams } from "react-router"
 

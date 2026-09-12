@@ -3,7 +3,7 @@
 import { createPage } from "akasha/pages/access/modules/create/create.module.code.ts"
 import { deletePage } from "akasha/pages/access/modules/deleting/deleting.module.code.ts"
 import type { IconName } from "akasha/pages/core/generated/modules/icon-search-index/icon-search-index.module.code.ts"
-import type { PagesUIRouter } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
+import type { PagesUIRouter } from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { useOptimisticCreatePage } from "akasha/pages/ui/supabase/mutations/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"
 import { useOptimisticDeletePage } from "akasha/pages/ui/supabase/mutations/use-optimistic-delete-page/use-optimistic-delete-page.module.code.ts"
 import type { PageWithProperties } from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"

@@ -5,7 +5,7 @@ import {
   categoryPages,
   keyOf,
 } from "akasha/alan/harness/monarch/modules/files/monarch-files.module.code.ts"
-import { createTransaction } from "akasha/alan/harness/monarch/transaction-create/monarch-transaction-create.module.code.ts"
+import { createTransaction } from "akasha/alan/harness/monarch/modules/transaction-create/monarch-transaction-create.module.code.ts"
 import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 
 const CASH_ACCOUNT_ID = "151732808422660966"

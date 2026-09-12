@@ -6,7 +6,7 @@ import {
 import type {
   NativeTtsAdapter,
   NativeTtsEvent,
-} from "akasha/pages/ui/media/native-tts-adapter/native-tts-adapter.module.code.ts"
+} from "akasha/pages/ui/media/modules/native-tts-adapter/native-tts-adapter.module.code.ts"
 import { z } from "zod"
 
 const ProgressPayloadSchema = z

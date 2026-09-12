@@ -7,7 +7,7 @@ import {
   type HeldAt,
   holesIn,
   unfilledIn,
-} from "akasha/pages/naming/named-for/name-rule/name-rule.module.code.ts"
+} from "akasha/pages/naming/named-for/modules/name-rule/name-rule.module.code.ts"
 import { camelizeKey } from "akasha/utils/slug/modules/camelize-key/camelize-key.module.code.ts"
 
 export type Filled =

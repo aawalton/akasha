@@ -14,7 +14,7 @@ import type { World } from "akasha/changes/modules/shadow/change-shadow.module.c
 import { reachesIn } from "akasha/code/package-manifest/package-manifest.module.code.ts"
 import { manifestsIn } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
 import { spellersIn } from "akasha/pages/indexes/path-naming/path-naming.module.code.ts"
-import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
 
 const OUTSIDE = ".."
 

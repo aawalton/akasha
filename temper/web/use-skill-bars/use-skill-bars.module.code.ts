@@ -8,7 +8,7 @@ import { filterSkillsForBar } from "akasha/temper/character-skills/skill-bar-fil
 import { keysOf } from "akasha/temper/formula-framework/record-parts/record-parts.module.code.ts"
 import type { SkillSlotId } from "akasha/temper/skill-kinds/skill-slots/skill-slots.module.code.ts"
 import type { SkillLineId } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
-import { areConflictingMorphs } from "akasha/temper/skill-morphs/morph-conflict/morph-conflict.module.code.ts"
+import { areConflictingMorphs } from "akasha/temper/skill-morphs/modules/morph-conflict/morph-conflict.module.code.ts"
 import {
   type CategoryData,
   organizeSkills,

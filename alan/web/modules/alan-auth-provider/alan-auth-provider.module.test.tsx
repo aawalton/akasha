@@ -84,7 +84,7 @@ mock.module(
   })
 )
 mock.module(
-  "akasha/alan/web/native-auth-refresh-sync/native-auth-refresh-sync.module.code.tsx",
+  "akasha/alan/web/modules/native-auth-refresh-sync/native-auth-refresh-sync.module.code.tsx",
   () => ({
     NativeAuthRefreshSync: nullComponent,
   })

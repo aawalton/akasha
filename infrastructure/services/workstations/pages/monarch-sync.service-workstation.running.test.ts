@@ -2,9 +2,11 @@ import { expect, mock, test } from "bun:test"
 
 const HANDED: (readonly unknown[])[] = []
 
-const syncing = await import("akasha/alan/harness/monarch/syncing/monarch-syncing.module.code.ts")
+const syncing = await import(
+  "akasha/alan/harness/monarch/modules/syncing/monarch-syncing.module.code.ts"
+)
 
-mock.module("akasha/alan/harness/monarch/syncing/monarch-syncing.module.code.ts", () => ({
+mock.module("akasha/alan/harness/monarch/modules/syncing/monarch-syncing.module.code.ts", () => ({
   ...syncing,
   runMonarchSyncing: (...given: readonly unknown[]) => {
     HANDED.push(given)
@@ -40,7 +42,7 @@ test("the sync is handed the empty argv the unit's command line hands it, so it 
 test("a sync that could not run is carried out rather than swallowed, so a failed run is a failed unit", async () => {
   HANDED.length = 0
   const why = new Error("Monarch could not be read")
-  mock.module("akasha/alan/harness/monarch/syncing/monarch-syncing.module.code.ts", () => ({
+  mock.module("akasha/alan/harness/monarch/modules/syncing/monarch-syncing.module.code.ts", () => ({
     ...syncing,
     runMonarchSyncing: () => Promise.reject(why),
   }))

@@ -17,7 +17,7 @@ import {
   setTransactionTags,
   withAiTag,
 } from "akasha/alan/harness/monarch/modules/notes-write/monarch-notes-write.module.code.ts"
-import { object, str } from "akasha/alan/harness/monarch/shape/monarch-shape.module.code.ts"
+import { object, str } from "akasha/alan/harness/monarch/modules/shape/monarch-shape.module.code.ts"
 
 const UPDATE_TRANSACTION = `mutation Web_TransactionDrawerUpdateTransaction($input: UpdateTransactionMutationInput!) {
   updateTransaction(input: $input) {

@@ -4,7 +4,7 @@ import {
   categoryPages,
   keyOf,
 } from "akasha/alan/harness/monarch/modules/files/monarch-files.module.code.ts"
-import type { Rule } from "akasha/alan/harness/monarch/rules/monarch-rules.module.code.ts"
+import type { Rule } from "akasha/alan/harness/monarch/modules/rules/monarch-rules.module.code.ts"
 
 export function signFrom(value: unknown, path: string): Rule["amountSign"] {
   if (value === undefined || value === null || value === "") return null

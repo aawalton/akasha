@@ -3,8 +3,8 @@ import type { MorphSkillLineProgressMap } from "akasha/temper/skill-morphs/modul
 import type {
   MorphableSkillDetail,
   SkillMorphProgressEntry,
-} from "akasha/temper/skill-morphs/morph-progress-types/morph-progress-types.module.code.ts"
-import { morphableSkillsByLine } from "akasha/temper/skill-morphs/morphable-skills/morphable-skills.module.code.ts"
+} from "akasha/temper/skill-morphs/modules/morph-progress-types/morph-progress-types.module.code.ts"
+import { morphableSkillsByLine } from "akasha/temper/skill-morphs/modules/morphable-skills/morphable-skills.module.code.ts"
 
 const classSkillLineIds = skillLines.list
   .filter((sl) => sl.subcategoryId === "class")

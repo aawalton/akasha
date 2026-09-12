@@ -6,7 +6,7 @@ import {
   categoryPages,
   readAllTransactions,
 } from "akasha/alan/harness/monarch/modules/files/monarch-files.module.code.ts"
-import { UNCATEGORIZED } from "akasha/alan/harness/monarch/transaction/monarch-transaction.module.code.ts"
+import { UNCATEGORIZED } from "akasha/alan/harness/monarch/modules/transaction/monarch-transaction.module.code.ts"
 
 export interface Reading {
   readonly what: string

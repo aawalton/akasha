@@ -7,7 +7,7 @@ import {
 } from "akasha/design/interfaces/layout/modules/app-shell-context/app-shell-context.module.code.tsx"
 import { AppShellSidebar } from "akasha/design/interfaces/layout/modules/app-shell-sidebar/app-shell-sidebar.module.code.tsx"
 import { LayoutProvider } from "akasha/design/interfaces/layout/modules/layout-context/layout-context.module.code.tsx"
-import type { AppNavConfig } from "akasha/design/interfaces/layout/nav-types/nav-types.module.code.ts"
+import type { AppNavConfig } from "akasha/design/interfaces/layout/modules/nav-types/nav-types.module.code.ts"
 import { useLayoutPathname } from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
 import {
   SidebarStateContext,

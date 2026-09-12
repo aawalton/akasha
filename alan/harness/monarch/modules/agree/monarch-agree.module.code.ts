@@ -6,14 +6,17 @@ import {
   readNeighbourhood,
 } from "akasha/alan/harness/monarch/modules/history/monarch-history.module.code.ts"
 import { loadCategoryRules } from "akasha/alan/harness/monarch/modules/rule-documents/monarch-rule-documents.module.code.ts"
-import type { Decision, Rule } from "akasha/alan/harness/monarch/rules/monarch-rules.module.code.ts"
+import type {
+  Decision,
+  Rule,
+} from "akasha/alan/harness/monarch/modules/rules/monarch-rules.module.code.ts"
 import {
   clausesMatch,
   decide,
   neighbourhoodIn,
   neighbourhoods,
-} from "akasha/alan/harness/monarch/rules/monarch-rules.module.code.ts"
-import type { Subject } from "akasha/alan/harness/monarch/transaction/monarch-transaction.module.code.ts"
+} from "akasha/alan/harness/monarch/modules/rules/monarch-rules.module.code.ts"
+import type { Subject } from "akasha/alan/harness/monarch/modules/transaction/monarch-transaction.module.code.ts"
 
 function shape(decision: Decision): string {
   if (decision.kind === "ambiguous") {

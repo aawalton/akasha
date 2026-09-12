@@ -10,7 +10,7 @@ import {
   browseWorks,
   getArtist,
   searchArtist,
-} from "akasha/alan/music/catalog/musicbrainz-client/musicbrainz-client.module.code.ts"
+} from "akasha/alan/music/catalog/modules/musicbrainz-client/musicbrainz-client.module.code.ts"
 import {
   dedupeRecordings,
   extractGenres,
@@ -21,13 +21,13 @@ import {
   performedWorkIds,
   pickBestArtist,
   type SongFields,
-} from "akasha/alan/music/catalog/musicbrainz-map/musicbrainz-map.module.code.ts"
+} from "akasha/alan/music/catalog/modules/musicbrainz-map/musicbrainz-map.module.code.ts"
 import type {
   MbArtist,
   MbArtistSearchHit,
   MbRecording,
   MbWork,
-} from "akasha/alan/music/catalog/musicbrainz-schema/musicbrainz-schema.module.code.ts"
+} from "akasha/alan/music/catalog/modules/musicbrainz-schema/musicbrainz-schema.module.code.ts"
 import {
   artistSlugOf,
   type SongNames,

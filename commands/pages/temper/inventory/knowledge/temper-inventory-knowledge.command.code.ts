@@ -20,7 +20,7 @@ import {
   loadTemperCharactersFromPath,
 } from "akasha/temper/commands/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
-import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/motif-chapter-set/motif-chapter-set.module.code.ts"
+import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
 import { wholeNumberIn } from "akasha/utils/narrow/whole-number-in/whole-number-in.module.code.ts"
 
 const NAMED = [jsonArgument, charactersPathArgument, charArgument, itemKeyArgument]

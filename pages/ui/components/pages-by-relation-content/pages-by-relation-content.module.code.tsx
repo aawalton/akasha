@@ -12,7 +12,7 @@ import { usePagesFilteredHrefs } from "akasha/pages/ui/components/use-pages-filt
 import { usePagesFilteredMutations } from "akasha/pages/ui/components/use-pages-filtered-mutations/use-pages-filtered-mutations.module.code.ts"
 import { usePagesFilteredQuery } from "akasha/pages/ui/components/use-pages-filtered-query/use-pages-filtered-query.module.code.ts"
 import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
-import { usePagesUIRouter } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
+import { usePagesUIRouter } from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { SupabasePageResolverProvider } from "akasha/pages/ui/supabase/page-resolver-provider/page-resolver-provider.module.code.tsx"
 import { useCompletePageOptimistic } from "akasha/pages/ui/supabase/use-complete-page-optimistic/use-complete-page-optimistic.module.code.tsx"
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"

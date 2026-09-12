@@ -10,7 +10,7 @@ import type { WeaponBars } from "akasha/temper/characters-equipment/modules/load
 import {
   getMythicSlots,
   getWeaponMythicSlots,
-} from "akasha/temper/characters-equipment/mythic-set-rules/mythic-set-rules.module.code.ts"
+} from "akasha/temper/characters-equipment/modules/mythic-set-rules/mythic-set-rules.module.code.ts"
 import {
   getWeaponItem,
   isShieldSlot,

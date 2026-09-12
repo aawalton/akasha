@@ -1,6 +1,6 @@
 import type { AmazonOrder } from "akasha/alan/harness/monarch/modules/amazon-order/monarch-amazon-order.module.code.ts"
 import type { AmazonRefund } from "akasha/alan/harness/monarch/modules/amazon-refund/monarch-amazon-refund.module.code.ts"
-import { cents } from "akasha/alan/harness/monarch/transaction/monarch-transaction.module.code.ts"
+import { cents } from "akasha/alan/harness/monarch/modules/transaction/monarch-transaction.module.code.ts"
 
 const MATCH_WINDOW_DAYS = 10
 

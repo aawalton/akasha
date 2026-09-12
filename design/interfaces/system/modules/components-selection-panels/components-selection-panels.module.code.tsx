@@ -7,7 +7,7 @@ import {
 import {
   MultiSelect,
   type MultiSelectItem,
-} from "akasha/design/interfaces/forms/multi-select/multi-select.module.code.tsx"
+} from "akasha/design/interfaces/forms/modules/multi-select/multi-select.module.code.tsx"
 import {
   SearchMultiSelect,
   type SearchMultiSelectItem,

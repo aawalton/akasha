@@ -3,7 +3,7 @@
 import { ButtonBadge } from "akasha/design/interfaces/badges/modules/button-badge/button-badge.module.code.tsx"
 import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
 import { ToggleSection } from "akasha/pages/ui/components/page-detail-sections/page-detail-sections.module.code.tsx"
-import { usePagesUIRouter } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
+import { usePagesUIRouter } from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import {
   type Referrer,
   useReferrers,

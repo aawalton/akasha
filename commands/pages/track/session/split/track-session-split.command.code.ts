@@ -1,4 +1,4 @@
-import { readMountainWallTime } from "akasha/alan/harness/day/mountain-wall/mountain-wall.module.code.ts"
+import { readMountainWallTime } from "akasha/alan/harness/day/modules/mountain-wall/mountain-wall.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { at } from "akasha/commands/arguments/pages/at.argument.ts"
 import { day } from "akasha/commands/arguments/pages/day.argument.ts"

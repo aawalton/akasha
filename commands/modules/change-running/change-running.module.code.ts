@@ -60,7 +60,7 @@ import {
 } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
 import { meantSaid } from "akasha/utils/text/suggest-closest/suggest-closest.module.code.ts"
 
 const BARE: readonly string[] = []

@@ -1,6 +1,6 @@
 import { describeAmountClause } from "akasha/alan/harness/monarch/modules/rule-amounts/monarch-rule-amounts.module.code.ts"
 import { describeDateClauses } from "akasha/alan/harness/monarch/modules/rule-dates/monarch-rule-dates.module.code.ts"
-import type { Rule } from "akasha/alan/harness/monarch/rules/monarch-rules.module.code.ts"
+import type { Rule } from "akasha/alan/harness/monarch/modules/rules/monarch-rules.module.code.ts"
 
 function quoted(texts: readonly string[]): string {
   return texts.map((text) => `"${text}"`).join(" or ")

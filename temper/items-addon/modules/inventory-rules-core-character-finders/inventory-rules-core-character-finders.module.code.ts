@@ -11,8 +11,8 @@ import {
   knowsMotifByCharData,
 } from "akasha/temper/items-addon/modules/inventory-rules-core-motif-knowledge/inventory-rules-core-motif-knowledge.module.code.ts"
 import { getTemperCharactersData } from "akasha/temper/items-addon/modules/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
-import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/motif-chapter-set/motif-chapter-set.module.code.ts"
-import { parseMotifBookName } from "akasha/temper/items-core/motif-name-parser/motif-name-parser.module.code.ts"
+import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
+import { parseMotifBookName } from "akasha/temper/items-core/modules/motif-name-parser/motif-name-parser.module.code.ts"
 import {
   claimItemForCharacter,
   resolveUseDestination,

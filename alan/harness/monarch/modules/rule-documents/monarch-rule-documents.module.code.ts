@@ -8,7 +8,7 @@ import type {
   Match,
   Outcome,
   Rule,
-} from "akasha/alan/harness/monarch/rules/monarch-rules.module.code.ts"
+} from "akasha/alan/harness/monarch/modules/rules/monarch-rules.module.code.ts"
 import { valuesByPath } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 

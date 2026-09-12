@@ -9,7 +9,7 @@ import {
   declarationLines,
   SUBJECTS,
 } from "akasha/commands/pages/domain/modules/drawing/domain-drawing.module.code.ts"
-import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
 
 export function wrongIn(said: readonly string[]): readonly string[] {
   const named = namesDrawn(SUBJECTS)

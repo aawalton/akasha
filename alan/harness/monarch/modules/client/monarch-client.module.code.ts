@@ -5,7 +5,7 @@ import {
   object,
   optional,
   str,
-} from "akasha/alan/harness/monarch/shape/monarch-shape.module.code.ts"
+} from "akasha/alan/harness/monarch/modules/shape/monarch-shape.module.code.ts"
 
 const API_URL = "https://api.monarch.com/graphql"
 const REQUEST_TIMEOUT_MS = 30_000

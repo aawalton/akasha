@@ -12,7 +12,7 @@ import {
   object,
   optional,
   str,
-} from "akasha/alan/harness/monarch/shape/monarch-shape.module.code.ts"
+} from "akasha/alan/harness/monarch/modules/shape/monarch-shape.module.code.ts"
 
 const UPDATE_NOTES = `mutation Web_TransactionDrawerUpdateTransaction($input: UpdateTransactionMutationInput!) {
   updateTransaction(input: $input) {

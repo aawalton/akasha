@@ -4,7 +4,7 @@ import { buttonVariants } from "akasha/design/interfaces/primitives/modules/butt
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
-import { PagesUILink } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
+import { PagesUILink } from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { ChevronLeft, ChevronRight } from "lucide-react"
 import { useEffect, useState } from "react"
 

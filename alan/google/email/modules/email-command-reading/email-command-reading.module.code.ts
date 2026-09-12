@@ -8,7 +8,7 @@ import {
 } from "akasha/commands/modules/filling/command-filling.module.code.ts"
 import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
-import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
 
 const INPUT_MARK = "-"
 

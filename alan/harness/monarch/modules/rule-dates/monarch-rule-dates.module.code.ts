@@ -3,7 +3,7 @@ import {
   num,
   optional,
   str,
-} from "akasha/alan/harness/monarch/shape/monarch-shape.module.code.ts"
+} from "akasha/alan/harness/monarch/modules/shape/monarch-shape.module.code.ts"
 
 export interface DateClauses {
   readonly onOrAfter: string | null

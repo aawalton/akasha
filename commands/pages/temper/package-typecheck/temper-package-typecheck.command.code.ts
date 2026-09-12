@@ -14,7 +14,7 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { temperPackageTypecheck as page } from "akasha/commands/pages/temper/package-typecheck/temper-package-typecheck.command.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
-import { inNameOrder } from "akasha/temper/commands/name-ordering/name-ordering.module.code.ts"
+import { inNameOrder } from "akasha/temper/commands/modules/name-ordering/name-ordering.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 const NAMED = [codeRootArgument, packageName]

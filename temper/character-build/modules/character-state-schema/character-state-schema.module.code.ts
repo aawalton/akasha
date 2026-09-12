@@ -9,7 +9,7 @@ import { characterRoles as roles } from "akasha/temper/character-sources/modules
 import { curses } from "akasha/temper/character-sources/modules/curses/curses.module.code.ts"
 import { esoPlus } from "akasha/temper/character-sources/modules/eso-plus-source/eso-plus-source.module.code.ts"
 import { foodOrDrink } from "akasha/temper/character-sources/modules/food-or-drink-source/food-or-drink-source.module.code.ts"
-import { mundus } from "akasha/temper/character-sources/mundus-source/mundus-source.module.code.ts"
+import { mundus } from "akasha/temper/character-sources/modules/mundus-source/mundus-source.module.code.ts"
 import { targetArmor } from "akasha/temper/character-sources/target-armors/target-armors.module.code.ts"
 import { vampireStages } from "akasha/temper/character-sources/vampire-stages/vampire-stages.module.code.ts"
 import { armorEnchants } from "akasha/temper/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts"

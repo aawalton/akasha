@@ -12,7 +12,7 @@ import {
 import { restrictToVerticalAxis } from "@dnd-kit/modifiers"
 import { SortableContext, useSortable } from "@dnd-kit/sortable"
 import { navLinkClass } from "akasha/design/interfaces/layout/modules/app-shell-sidebar/app-shell-sidebar.module.code.tsx"
-import type { AppNavItem } from "akasha/design/interfaces/layout/nav-types/nav-types.module.code.ts"
+import type { AppNavItem } from "akasha/design/interfaces/layout/modules/nav-types/nav-types.module.code.ts"
 import { SidebarNavGroup } from "akasha/design/interfaces/layout/sidebar-nav-group/sidebar-nav-group.module.code.tsx"
 import { useSidebarState } from "akasha/design/interfaces/layout/use-sidebar-state/use-sidebar-state.module.code.ts"
 import { tookHold } from "akasha/design/interfaces/patterns/modules/drag-hold/drag-hold.module.code.ts"
@@ -30,7 +30,7 @@ import {
 import {
   PagesUILink,
   usePagesUIRouter,
-} from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
+} from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
 
 function SortableNavItem({

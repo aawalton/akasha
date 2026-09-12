@@ -18,7 +18,7 @@ import {
   extractPageTypeId,
   PAGE_TYPE_SLUG,
 } from "akasha/pages/ui/components/page-detail-content-helpers/page-detail-content-helpers.module.code.ts"
-import { usePagesUIRouter } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
+import { usePagesUIRouter } from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { useHostCreateSelectOption } from "akasha/pages/ui/option-create-context/option-create-context.module.code.tsx"
 import {
   useAllPages,

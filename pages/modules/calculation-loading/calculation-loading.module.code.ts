@@ -2,7 +2,7 @@ import { dirname, join } from "node:path"
 import type { Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"
 import type { Held } from "akasha/pages/computing/page-computing.module.code.ts"
 import { declaredIn } from "akasha/pages/value/page-value.module.code.ts"
-import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
 
 const WORK = "work"
 

@@ -6,7 +6,7 @@ import {
   PagesUIRouterAdapter,
 } from "akasha/code/router-apps/router-context-adapters/router-context-adapters.module.code.tsx"
 import { AppShell as SharedAppShell } from "akasha/design/interfaces/layout/modules/app-shell/app-shell.module.code.tsx"
-import type { AppNavConfig } from "akasha/design/interfaces/layout/nav-types/nav-types.module.code.ts"
+import type { AppNavConfig } from "akasha/design/interfaces/layout/modules/nav-types/nav-types.module.code.ts"
 import { useSidebarState } from "akasha/design/interfaces/layout/use-sidebar-state/use-sidebar-state.module.code.ts"
 import { useAppVersionCheck } from "akasha/pages/ui/app-version/use-app-version-check/use-app-version-check.module.code.ts"
 import { SortableNavs } from "akasha/pages/ui/components/sortable-navs/sortable-navs.module.code.tsx"
@@ -15,7 +15,7 @@ import {
   PRIMARY_NAV_ITEMS,
   RESOURCES_NAV_ITEM,
   SETTINGS_NAV_ITEM,
-} from "akasha/temper/web/nav-items/nav-items.module.code.ts"
+} from "akasha/temper/web/modules/nav-items/nav-items.module.code.ts"
 import {
   TEMPER_APP_ID,
   TEMPER_APP_SLUG,

@@ -18,7 +18,7 @@ import { LOCATION_FILTER } from "akasha/temper/items-rules-core/modules/location
 import { LOCKED_FILTER } from "akasha/temper/items-rules-core/modules/locked-filter/locked-filter.module.code.ts"
 import { MARKET_VALUE_FILTER } from "akasha/temper/items-rules-core/modules/market-value-filter/market-value-filter.module.code.ts"
 import { MERCHANT_VALUE_FILTER } from "akasha/temper/items-rules-core/modules/merchant-value-filter/merchant-value-filter.module.code.ts"
-import { NEEDED_FOR_TARGET_CHARACTER_BUILD_FILTER } from "akasha/temper/items-rules-core/needed-for-target-character-build-filter/needed-for-target-character-build-filter.module.code.ts"
+import { NEEDED_FOR_TARGET_CHARACTER_BUILD_FILTER } from "akasha/temper/items-rules-core/modules/needed-for-target-character-build-filter/needed-for-target-character-build-filter.module.code.ts"
 import { NEEDED_FOR_TARGET_COMPANION_BUILD_FILTER } from "akasha/temper/items-rules-core/needed-for-target-companion-build-filter/needed-for-target-companion-build-filter.module.code.ts"
 import { POTION_EFFECTS_FILTER } from "akasha/temper/items-rules-core/potion-effects-filter/potion-effects-filter.module.code.ts"
 import { QUEST_RELEVANT_FILTER } from "akasha/temper/items-rules-core/quest-relevant-filter/quest-relevant-filter.module.code.ts"

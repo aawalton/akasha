@@ -5,7 +5,7 @@ import { useSupabase } from "akasha/alan/harness/supabase-rr/supabase-provider/s
 import { isNativeShell } from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
 import { DeepLinkOpenSync } from "akasha/alan/web/modules/deep-link-open-sync/deep-link-open-sync.module.code.tsx"
 import { DeviceSecretSync } from "akasha/alan/web/modules/device-secret-sync/device-secret-sync.module.code.tsx"
-import { NativeAuthRefreshSync } from "akasha/alan/web/native-auth-refresh-sync/native-auth-refresh-sync.module.code.tsx"
+import { NativeAuthRefreshSync } from "akasha/alan/web/modules/native-auth-refresh-sync/native-auth-refresh-sync.module.code.tsx"
 import { setOfflineCacheUserKey } from "akasha/alan/web/offline-cache-namespace/offline-cache-namespace.module.code.ts"
 import { OfflineTextSync } from "akasha/alan/web/offline-text-sync/offline-text-sync.module.code.tsx"
 import { PushRegistrationSync } from "akasha/alan/web/push-registration-sync/push-registration-sync.module.code.tsx"

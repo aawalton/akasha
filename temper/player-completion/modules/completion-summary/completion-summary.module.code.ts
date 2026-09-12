@@ -24,7 +24,7 @@ import {
   type SkillLineId,
   skillLines,
 } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
-import type { CharacterSkillMorphProgress } from "akasha/temper/skill-morphs/morph-progress-types/morph-progress-types.module.code.ts"
+import type { CharacterSkillMorphProgress } from "akasha/temper/skill-morphs/modules/morph-progress-types/morph-progress-types.module.code.ts"
 import {
   buildMorphRankMap,
   getSkillLineMorphContribution,

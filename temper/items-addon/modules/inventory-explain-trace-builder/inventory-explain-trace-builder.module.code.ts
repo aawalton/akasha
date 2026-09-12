@@ -19,7 +19,7 @@ import {
 } from "akasha/temper/items-addon/modules/inventory-rules-core-character-finders/inventory-rules-core-character-finders.module.code.ts"
 import type { ExplainTrace } from "akasha/temper/items-addon/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
 import { getTemperCharactersData } from "akasha/temper/items-addon/modules/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
-import { parseMotifBookName } from "akasha/temper/items-core/motif-name-parser/motif-name-parser.module.code.ts"
+import { parseMotifBookName } from "akasha/temper/items-core/modules/motif-name-parser/motif-name-parser.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import { ALL_CATEGORIES_ID } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {

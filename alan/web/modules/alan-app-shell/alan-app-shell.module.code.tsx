@@ -11,14 +11,14 @@ import {
 } from "akasha/alan/web/modules/alan-nav-items/alan-nav-items.module.code.ts"
 import { EdgeSwipeNav } from "akasha/alan/web/modules/edge-swipe-nav/edge-swipe-nav.module.code.tsx"
 import { MiniPlayerBar } from "akasha/alan/web/modules/mini-player-bar/mini-player-bar.module.code.tsx"
-import { DynamicNavCommands } from "akasha/alan/web/nav-commands/nav-commands.module.code.tsx"
+import { DynamicNavCommands } from "akasha/alan/web/modules/nav-commands/nav-commands.module.code.tsx"
 import { PullToRefresh } from "akasha/alan/web/pull-to-refresh/pull-to-refresh.module.code.tsx"
 import {
   LayoutRouterAdapter,
   PagesUIRouterAdapter,
 } from "akasha/code/router-apps/router-context-adapters/router-context-adapters.module.code.tsx"
 import { AppShell as SharedAppShell } from "akasha/design/interfaces/layout/modules/app-shell/app-shell.module.code.tsx"
-import type { AppNavConfig } from "akasha/design/interfaces/layout/nav-types/nav-types.module.code.ts"
+import type { AppNavConfig } from "akasha/design/interfaces/layout/modules/nav-types/nav-types.module.code.ts"
 import { useSidebarState } from "akasha/design/interfaces/layout/use-sidebar-state/use-sidebar-state.module.code.ts"
 import { createPage } from "akasha/pages/access/modules/create/create.module.code.ts"
 import { NEVER_MATCH_SLUG } from "akasha/pages/access/sentinels/sentinels.module.code.ts"

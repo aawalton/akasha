@@ -3,7 +3,7 @@
 import { InputPanelCard } from "akasha/design/interfaces/patterns/modules/input-panel-card/input-panel-card.module.code.tsx"
 import { CardTitleBadges } from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
-import { PagesUILink as Link } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
+import { PagesUILink as Link } from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { useAutomationSettings } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import { AutomationSelect } from "akasha/temper/web/modules/automation-select/automation-select.module.code.tsx"
 

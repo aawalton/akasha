@@ -20,7 +20,7 @@ import { toPageDataJSON } from "akasha/pages/ui/components/page-data-json/page-d
 import { PageDetailHeaderMenu } from "akasha/pages/ui/components/page-detail-header-menu/page-detail-header-menu.module.code.tsx"
 import { PagesFilteredContent } from "akasha/pages/ui/components/pages-by-relation-content/pages-by-relation-content.module.code.tsx"
 import { PropertyBadge } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
-import { PagesUILink } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
+import { PagesUILink } from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { useAllPages } from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { useResolvedDefinitions } from "akasha/pages/ui/supabase/use-option-list-lookup/use-option-list-lookup.module.code.ts"
 import { usePage } from "akasha/pages/ui/supabase/use-page/use-page.module.code.ts"

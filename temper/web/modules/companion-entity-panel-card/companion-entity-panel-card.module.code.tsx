@@ -10,7 +10,7 @@ import { NumberBadge } from "akasha/design/interfaces/badges/number-badge/number
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
-import { PagesUILink as Link } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
+import { PagesUILink as Link } from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { companionUrl } from "akasha/temper/build-support/modules/build-url/build-url.module.code.ts"
 import {
   type CompanionBaseRoleId,

@@ -4,7 +4,10 @@ import type { Proposal } from "akasha/alan/harness/monarch/eval/modules/agent/mo
 import { STRATA } from "akasha/alan/harness/monarch/eval/modules/population/monarch-eval-population.module.code.ts"
 import type { RunFile } from "akasha/alan/harness/monarch/eval/modules/run/monarch-eval-run.module.code.ts"
 import { readFlags } from "akasha/alan/harness/monarch/modules/rule-pages/monarch-rule-pages.module.code.ts"
-import { array, object } from "akasha/alan/harness/monarch/shape/monarch-shape.module.code.ts"
+import {
+  array,
+  object,
+} from "akasha/alan/harness/monarch/modules/shape/monarch-shape.module.code.ts"
 
 type Confidence = Proposal["confidence"]
 const LEVELS: readonly Confidence[] = ["high", "medium", "low"]

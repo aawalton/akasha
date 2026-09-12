@@ -4,14 +4,14 @@ import {
   readTransactionsBetween,
 } from "akasha/alan/harness/monarch/modules/files/monarch-files.module.code.ts"
 import { categoryTitles } from "akasha/alan/harness/monarch/modules/rule-pages/monarch-rule-pages.module.code.ts"
-import type { Rule } from "akasha/alan/harness/monarch/rules/monarch-rules.module.code.ts"
+import type { Rule } from "akasha/alan/harness/monarch/modules/rules/monarch-rules.module.code.ts"
 import {
   bearsOn,
   clausesMatch,
   decide,
   fires,
-} from "akasha/alan/harness/monarch/rules/monarch-rules.module.code.ts"
-import type { Subject } from "akasha/alan/harness/monarch/transaction/monarch-transaction.module.code.ts"
+} from "akasha/alan/harness/monarch/modules/rules/monarch-rules.module.code.ts"
+import type { Subject } from "akasha/alan/harness/monarch/modules/transaction/monarch-transaction.module.code.ts"
 
 export interface HistoryRow {
   readonly monarchId: string

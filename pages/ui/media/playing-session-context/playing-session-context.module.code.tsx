@@ -3,7 +3,7 @@ import {
   POSITION_RESUME_MIN_FRACTION,
 } from "akasha/pages/ui/components/position-fraction/position-fraction.module.code.ts"
 import { STORED_READ_ALOUD_VARIANT } from "akasha/pages/ui/media/modules/media-src/media-src.module.code.ts"
-import type { NativeTtsAdapter } from "akasha/pages/ui/media/native-tts-adapter/native-tts-adapter.module.code.ts"
+import type { NativeTtsAdapter } from "akasha/pages/ui/media/modules/native-tts-adapter/native-tts-adapter.module.code.ts"
 import {
   type ActiveSessionInit,
   IDLE_PLAYING_SESSION,

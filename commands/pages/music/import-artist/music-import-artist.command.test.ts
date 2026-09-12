@@ -5,7 +5,7 @@ import type {
   MbArtist,
   MbRecording,
   MbWork,
-} from "akasha/alan/music/catalog/musicbrainz-schema/musicbrainz-schema.module.code.ts"
+} from "akasha/alan/music/catalog/modules/musicbrainz-schema/musicbrainz-schema.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"

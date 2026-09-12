@@ -5,8 +5,8 @@ import {
   ESO_SPECIALIZED_ITEMTYPE_MOTIF_CHAPTER,
   type InventoryItemData,
 } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
-import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/motif-chapter-set/motif-chapter-set.module.code.ts"
-import { parseMotifBookName } from "akasha/temper/items-core/motif-name-parser/motif-name-parser.module.code.ts"
+import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
+import { parseMotifBookName } from "akasha/temper/items-core/modules/motif-name-parser/motif-name-parser.module.code.ts"
 import { getRecipeResultId } from "akasha/temper/items-core/recipe-result-id-lookup/recipe-result-id-lookup.module.code.ts"
 import {
   lookupKnownMotifChapters,

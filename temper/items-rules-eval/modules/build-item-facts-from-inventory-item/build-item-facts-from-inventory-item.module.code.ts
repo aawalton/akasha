@@ -8,7 +8,7 @@ import {
 } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 import { parseItemLink } from "akasha/temper/items-core/modules/item-link-parser/item-link-parser.module.code.ts"
 import type { InventoryLocationConditionId } from "akasha/temper/items-core/modules/location-condition/location-condition.module.code.ts"
-import { parseMotifBookName } from "akasha/temper/items-core/motif-name-parser/motif-name-parser.module.code.ts"
+import { parseMotifBookName } from "akasha/temper/items-core/modules/motif-name-parser/motif-name-parser.module.code.ts"
 import { getRecipeResultId } from "akasha/temper/items-core/recipe-result-id-lookup/recipe-result-id-lookup.module.code.ts"
 import { getScriptItemIdByName } from "akasha/temper/items-core/script-knowledge-lookup/script-knowledge-lookup.module.code.ts"
 import { ALL_CATEGORIES_ID } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"

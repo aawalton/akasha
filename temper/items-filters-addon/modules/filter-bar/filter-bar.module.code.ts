@@ -7,7 +7,7 @@ import "akasha/temper/eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import {
   createMovableWindow,
   type WindowPosition,
-} from "akasha/temper/hud-window/movable-window/movable-window.module.code.ts"
+} from "akasha/temper/hud-window/modules/movable-window/movable-window.module.code.ts"
 import type { BarContext } from "akasha/temper/items-filters-addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
 import {
   buildMultiselectEditor,

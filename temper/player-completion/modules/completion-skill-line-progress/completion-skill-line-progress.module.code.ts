@@ -5,7 +5,7 @@ import type {
   SkillLineProgressEntry,
 } from "akasha/temper/player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
 import { skillLines } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
-import type { CharacterSkillMorphProgress } from "akasha/temper/skill-morphs/morph-progress-types/morph-progress-types.module.code.ts"
+import type { CharacterSkillMorphProgress } from "akasha/temper/skill-morphs/modules/morph-progress-types/morph-progress-types.module.code.ts"
 import { transformSkillMorphProgress } from "akasha/temper/skill-morphs-access/modules/character-skill-morph-transform/character-skill-morph-transform.module.code.ts"
 import { ESO_SKILL_LINE_ID_TO_SKILL_LINE_ID } from "akasha/temper/skill-morphs-access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"
 

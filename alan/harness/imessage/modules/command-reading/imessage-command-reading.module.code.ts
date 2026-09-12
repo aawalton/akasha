@@ -13,7 +13,7 @@ import {
 } from "akasha/alan/harness/imessage/modules/message-lines/message-lines.module.code.ts"
 import { asJson, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
 
 export const JSON_SAID = "--json"
 

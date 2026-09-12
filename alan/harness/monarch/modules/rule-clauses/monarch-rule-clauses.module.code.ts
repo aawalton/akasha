@@ -9,12 +9,12 @@ import type {
   MatchKey,
   Outcome,
   Rule,
-} from "akasha/alan/harness/monarch/rules/monarch-rules.module.code.ts"
+} from "akasha/alan/harness/monarch/modules/rules/monarch-rules.module.code.ts"
 import {
   COMPARISONS_READ,
   MATCH_COMPARISONS,
   MATCH_KEYS,
-} from "akasha/alan/harness/monarch/rules/monarch-rules.module.code.ts"
+} from "akasha/alan/harness/monarch/modules/rules/monarch-rules.module.code.ts"
 
 function checkedNote(rule: Rule): undefined {
   if (rule.note === null) return

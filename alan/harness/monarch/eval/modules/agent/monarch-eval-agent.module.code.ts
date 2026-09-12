@@ -4,8 +4,8 @@ import {
   num,
   object,
   str,
-} from "akasha/alan/harness/monarch/shape/monarch-shape.module.code.ts"
-import { money } from "akasha/alan/harness/monarch/transaction/monarch-transaction.module.code.ts"
+} from "akasha/alan/harness/monarch/modules/shape/monarch-shape.module.code.ts"
+import { money } from "akasha/alan/harness/monarch/modules/transaction/monarch-transaction.module.code.ts"
 
 export const MODEL = "sonnet"
 export const BATCH = 10

@@ -14,12 +14,12 @@ import {
 import {
   clausesMatch,
   decide,
-} from "akasha/alan/harness/monarch/rules/monarch-rules.module.code.ts"
+} from "akasha/alan/harness/monarch/modules/rules/monarch-rules.module.code.ts"
 import {
   answered,
   UNATTENDED_DAYS,
   unattendedFrom,
-} from "akasha/alan/harness/monarch/transaction/monarch-transaction.module.code.ts"
+} from "akasha/alan/harness/monarch/modules/transaction/monarch-transaction.module.code.ts"
 
 export interface CategorizeTally {
   readonly set: number

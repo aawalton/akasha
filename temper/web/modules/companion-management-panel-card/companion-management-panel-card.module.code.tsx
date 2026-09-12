@@ -14,7 +14,7 @@ import {
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
-import { usePagesUIRouter } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
+import { usePagesUIRouter } from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { useCompanion } from "akasha/temper/companions-ui/use-companions/use-companions.module.code.ts"
 import type { BuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { getCompanionVersions } from "akasha/temper/web/modules/companion-version-actions/companion-version-actions.module.code.ts"

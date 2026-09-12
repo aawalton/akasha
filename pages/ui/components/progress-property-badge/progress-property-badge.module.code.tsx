@@ -18,7 +18,7 @@ import type { PropertyValue } from "akasha/pages/core/property-types/property-ty
 import { resolveBadgeVariant } from "akasha/pages/core/resolve-badge-variant/resolve-badge-variant.module.code.ts"
 import type { BadgeVariant } from "akasha/pages/core/schema/modules/color-rule-variant/color-rule-variant.module.code.ts"
 import type { PropertyBadgeProps } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
-import { usePagesUIRouter } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
+import { usePagesUIRouter } from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
 import { useState } from "react"
 

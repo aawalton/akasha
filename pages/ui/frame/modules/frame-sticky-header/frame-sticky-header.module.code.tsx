@@ -5,7 +5,7 @@ import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/
 import {
   PagesUILink,
   usePagesUIRouter,
-} from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
+} from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { ArrowLeft } from "lucide-react"
 import type { ReactNode } from "react"
 

@@ -16,7 +16,7 @@ import type { CharacterProgressData } from "akasha/temper/web/modules/character-
 import { CharactersSummaryPanelCard } from "akasha/temper/web/modules/characters-summary-panel-card/characters-summary-panel-card.module.code.tsx"
 import { CompanionQuestsPanelCard } from "akasha/temper/web/modules/companion-quests-panel-card/companion-quests-panel-card.module.code.tsx"
 import { LoreLibraryProgressPanelCard } from "akasha/temper/web/modules/lore-library-progress-panel-card/lore-library-progress-panel-card.module.code.tsx"
-import { MountTrainingPanelCard } from "akasha/temper/web/mount-training-panel-card/mount-training-panel-card.module.code.tsx"
+import { MountTrainingPanelCard } from "akasha/temper/web/modules/mount-training-panel-card/mount-training-panel-card.module.code.tsx"
 import { PackUpgradesPanelCard } from "akasha/temper/web/pack-upgrades-panel-card/pack-upgrades-panel-card.module.code.tsx"
 import { PoiProgressPanelCard } from "akasha/temper/web/poi-progress-panel-card/poi-progress-panel-card.module.code.tsx"
 import { QuestProgressPanelCard } from "akasha/temper/web/quest-progress-panel-card/quest-progress-panel-card.module.code.tsx"

@@ -8,7 +8,7 @@ import {
   categoryIdByName,
   signFrom,
 } from "akasha/alan/harness/monarch/modules/rule-pages/monarch-rule-pages.module.code.ts"
-import type { Rule } from "akasha/alan/harness/monarch/rules/monarch-rules.module.code.ts"
+import type { Rule } from "akasha/alan/harness/monarch/modules/rules/monarch-rules.module.code.ts"
 
 export async function candidateRule(
   flags: ReadonlyMap<string, readonly string[]>

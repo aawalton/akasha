@@ -15,7 +15,7 @@ import {
   textAt,
   type Value,
 } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
 
 const RECORD = "record-property"
 

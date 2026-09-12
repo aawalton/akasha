@@ -1,11 +1,11 @@
 "use client"
 
 import * as CollapsiblePrimitive from "@radix-ui/react-collapsible"
-import { isNavItemActive } from "akasha/design/interfaces/layout/nav-active/nav-active.module.code.ts"
+import { isNavItemActive } from "akasha/design/interfaces/layout/modules/nav-active/nav-active.module.code.ts"
 import type {
   AppNavItem,
   MoreDrawerGroup,
-} from "akasha/design/interfaces/layout/nav-types/nav-types.module.code.ts"
+} from "akasha/design/interfaces/layout/modules/nav-types/nav-types.module.code.ts"
 import {
   LayoutLink,
   useLayoutPathname,

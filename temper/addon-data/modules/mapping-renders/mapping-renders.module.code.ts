@@ -3,7 +3,7 @@ import { generateChampionPointMappings } from "akasha/temper/addon-data/modules/
 import { generateClassMappings } from "akasha/temper/addon-data/modules/class-mappings/class-mappings.module.code.ts"
 import { generateCurseMappings } from "akasha/temper/addon-data/modules/curse-mappings/curse-mappings.module.code.ts"
 import { generateFoodMappings } from "akasha/temper/addon-data/modules/food-mappings/food-mappings.module.code.ts"
-import { generateMundusMappings } from "akasha/temper/addon-data/mundus-mappings/mundus-mappings.module.code.ts"
+import { generateMundusMappings } from "akasha/temper/addon-data/modules/mundus-mappings/mundus-mappings.module.code.ts"
 import { generatePassiveSkillMappings } from "akasha/temper/addon-data/passive-skill-mappings/passive-skill-mappings.module.code.ts"
 import { generatePlayerSkillMappings } from "akasha/temper/addon-data/player-skill-mappings/player-skill-mappings.module.code.ts"
 import { generatePotionMappings } from "akasha/temper/addon-data/potion-mappings/potion-mappings.module.code.ts"

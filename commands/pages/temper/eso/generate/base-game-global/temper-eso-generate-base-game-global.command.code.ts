@@ -1,11 +1,11 @@
 import { readFileSync, realpathSync, statSync } from "node:fs"
 import { resolve } from "node:path"
-import type { SeriesSpec } from "akasha/code/name-series/name-series.module.code.ts"
+import type { SeriesSpec } from "akasha/code/modules/name-series/name-series.module.code.ts"
 import {
   byteLength,
   renderSeries,
   stageSeries,
-} from "akasha/code/name-series/name-series.module.code.ts"
+} from "akasha/code/modules/name-series/name-series.module.code.ts"
 import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
 import { esoRoot as esoRootArgument } from "akasha/commands/arguments/pages/eso-root.argument.ts"
 import { stage as stageArgument } from "akasha/commands/arguments/pages/stage.argument.ts"

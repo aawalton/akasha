@@ -1,11 +1,14 @@
 import type { HistoryRow } from "akasha/alan/harness/monarch/modules/history/monarch-history.module.code.ts"
 import { describeClauses } from "akasha/alan/harness/monarch/modules/rule-describe/monarch-rule-describe.module.code.ts"
-import type { Decision, Rule } from "akasha/alan/harness/monarch/rules/monarch-rules.module.code.ts"
+import type {
+  Decision,
+  Rule,
+} from "akasha/alan/harness/monarch/modules/rules/monarch-rules.module.code.ts"
 import {
   answered,
   TRUSTED_MONTHS,
   trustedFrom,
-} from "akasha/alan/harness/monarch/transaction/monarch-transaction.module.code.ts"
+} from "akasha/alan/harness/monarch/modules/transaction/monarch-transaction.module.code.ts"
 
 export interface Decided {
   readonly rule: Rule

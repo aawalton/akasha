@@ -1,7 +1,7 @@
 import type {
   AppNavItem,
   MoreDrawerGroup,
-} from "akasha/design/interfaces/layout/nav-types/nav-types.module.code.ts"
+} from "akasha/design/interfaces/layout/modules/nav-types/nav-types.module.code.ts"
 
 export function selectDrawerGroups(
   primaryItems: readonly AppNavItem[],

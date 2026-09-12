@@ -9,7 +9,7 @@ import {
   bulkUpdateWeaponTrait,
 } from "akasha/temper/characters-equipment/modules/bulk-update-weapons/bulk-update-weapons.module.code.ts"
 import type { WeaponBars } from "akasha/temper/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
-import { getWeaponMythicSlots } from "akasha/temper/characters-equipment/mythic-set-rules/mythic-set-rules.module.code.ts"
+import { getWeaponMythicSlots } from "akasha/temper/characters-equipment/modules/mythic-set-rules/mythic-set-rules.module.code.ts"
 import {
   type WeaponEnchantmentId,
   weaponEnchantments,

@@ -15,7 +15,7 @@ import {
   bulkUpdateArmorWeight,
 } from "akasha/temper/characters-equipment/modules/bulk-update-armor/bulk-update-armor.module.code.ts"
 import { mergeItemData } from "akasha/temper/characters-equipment/modules/merge-item-data/merge-item-data.module.code.ts"
-import { getMythicSlots } from "akasha/temper/characters-equipment/mythic-set-rules/mythic-set-rules.module.code.ts"
+import { getMythicSlots } from "akasha/temper/characters-equipment/modules/mythic-set-rules/mythic-set-rules.module.code.ts"
 import {
   AVAILABLE_QUALITY_OPTIONS,
   getQualityVariant,

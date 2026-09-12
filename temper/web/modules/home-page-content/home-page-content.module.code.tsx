@@ -21,7 +21,7 @@ import { Button } from "akasha/design/interfaces/primitives/modules/button/butto
 import {
   PagesUILink as Link,
   usePagesUIRouter,
-} from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
+} from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import { decodeBuild } from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
 import {

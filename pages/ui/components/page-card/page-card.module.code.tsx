@@ -25,7 +25,7 @@ import { PageActionsMenu } from "akasha/pages/ui/components/page-actions-menu/pa
 import { PageCardCover } from "akasha/pages/ui/components/page-card-cover/page-card-cover.module.code.tsx"
 import { PageCardProperties } from "akasha/pages/ui/components/page-card-properties/page-card-properties.module.code.tsx"
 import { useOverflowFade } from "akasha/pages/ui/components/use-overflow-fade/use-overflow-fade.module.code.ts"
-import { PagesUILink } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
+import { PagesUILink } from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { CheckCircle2, Circle } from "lucide-react"
 import type * as React from "react"
 import { type ReactNode, useMemo } from "react"
