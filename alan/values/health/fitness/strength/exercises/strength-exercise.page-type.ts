@@ -15,7 +15,7 @@ export const strengthExercise = {
     "number-property/implement-count",
     "number-property/load-factor",
     "number-property/sfr-score",
-    "select-property/equipment",
+    "relation-property/equipment",
     "select-property/exercise-category",
     "select-property/exercise-level",
     "select-property/exercise-source",
@@ -40,7 +40,7 @@ export const strengthExercise = {
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "select-property/exercise-category", required: true, many: false },
-    { pageProperty: "select-property/equipment", required: false, many: false },
+    { pageProperty: "relation-property/equipment", required: false, many: false },
     { pageProperty: "text-property/exercise-external-id", required: false, many: false },
     { pageProperty: "url-property/exercise-external-link", required: false, many: false },
     { pageProperty: "select-property/force", required: false, many: false },

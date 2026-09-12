@@ -1,4 +1,4 @@
-import type { Equipment } from "akasha/alan/values/health/fitness/strength/exercises/properties/equipment.select-property.types.ts"
+import type { Equipment } from "akasha/alan/values/health/fitness/strength/exercises/properties/equipment.relation-property.types.ts"
 import type { ExerciseCategory } from "akasha/alan/values/health/fitness/strength/exercises/properties/exercise-category.select-property.types.ts"
 import type { ExerciseExternalId } from "akasha/alan/values/health/fitness/strength/exercises/properties/exercise-external-id.text-property.types.ts"
 import type { ExerciseExternalLink } from "akasha/alan/values/health/fitness/strength/exercises/properties/exercise-external-link.url-property.types.ts"
