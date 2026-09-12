@@ -14,7 +14,12 @@ export const inventoryRuleFlags = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal names the flag and the value said and the values that flag takes.",
+      statement:
+        "A refusal names the flag and the value said, and the values that flag takes or where to read them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The categories a rule may be written against are the item category tree's.",
     },
     {
       invariantKind: "departure",

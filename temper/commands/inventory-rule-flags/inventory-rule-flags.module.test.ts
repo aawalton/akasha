@@ -3,6 +3,7 @@ import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.
 import {
   BUY_SOURCE_VALUES,
   itemActionValues,
+  narrowCategoryId,
   narrowItemAction,
   narrowMoveToDestination,
   narrowStockScope,
@@ -24,6 +25,20 @@ test("an action the rules package declares is taken", () => {
 test("an action nobody declares is refused, naming the flag and what was said", () => {
   expect(() => narrowItemAction("burn", "--action")).toThrow(InputError)
   expect(() => narrowItemAction("burn", "--action")).toThrow(/--action: invalid action 'burn'/)
+})
+
+test("a category the item tree holds is taken, at any depth", () => {
+  expect(narrowCategoryId("all", "--category")).toBe("all")
+  expect(narrowCategoryId("equipment", "--category")).toBe("equipment")
+  expect(narrowCategoryId("currency-gold", "--category")).toBe("currency-gold")
+})
+
+test("a category the item tree does not hold is refused, naming where to read them", () => {
+  expect(() => narrowCategoryId("style-page", "--category")).toThrow(InputError)
+  expect(() => narrowCategoryId("style-page", "--category")).toThrow(
+    /--category: invalid category 'style-page'/
+  )
+  expect(() => narrowCategoryId("style-page", "--category")).toThrow(/category-list/)
 })
 
 test("a stock scope is one of two, and a third is refused", () => {

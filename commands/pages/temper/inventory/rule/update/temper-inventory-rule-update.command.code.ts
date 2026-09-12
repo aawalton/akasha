@@ -28,6 +28,7 @@ import {
   webOf,
 } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import {
+  narrowCategoryId,
   narrowItemAction,
   narrowMoveToDestination,
   narrowStockScope,
@@ -58,7 +59,9 @@ async function changed(taken: Taken, calledAs: string): Promise<Answer> {
   const narrowed = parseConditionsJson(taken.conditions)
   const clears = chain !== undefined && taken.destination === undefined
   const patch = {
-    ...(taken.category !== undefined ? { categoryId: taken.category } : {}),
+    ...(taken.category !== undefined
+      ? { categoryId: narrowCategoryId(taken.category, category.said) }
+      : {}),
     ...(taken.action !== undefined ? { action: narrowItemAction(taken.action, action.said) } : {}),
     ...(taken.destination !== undefined
       ? { destination: narrowMoveToDestination(taken.destination, destination.said) }
