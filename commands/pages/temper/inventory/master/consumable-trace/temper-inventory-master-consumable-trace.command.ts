@@ -11,11 +11,6 @@ export const temperInventoryMasterConsumableTrace = {
     { said: "--inventory-path <path>", takes: "the saved-variables file the traces are read from" },
     { said: "--json", takes: "give the whole ring as JSON rather than as text" },
   ],
-  helpNotes: [
-    "alchemy, enchanting and provisioning each carry their own facts alongside the shared ones.",
-    "each entry carries the resolve decision, the execute decision, and what the writ came to.",
-    "the ring holds a bounded count and the oldest entry goes when a new one arrives.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -24,6 +19,15 @@ export const temperInventoryMasterConsumableTrace = {
     {
       invariantKind: "departure",
       statement: "The oldest trace goes when a new trace arrives.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A trace names the phase it was taken in, resolve or execute.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A trace for alchemy, enchanting or provisioning has that craft's own facts beside the shared ones.",
     },
     {
       invariantKind: "departure",
