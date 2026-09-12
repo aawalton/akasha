@@ -2,6 +2,7 @@ import { resolve } from "node:path"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { initiativesDrawn } from "akasha/domains/modules/work-initiatives/work-initiatives.module.code.ts"
 import {
   listedByPath,
@@ -91,7 +92,7 @@ export async function initiativeDelete(argv: readonly string[], given: Given): P
   try {
     const root = resolve(given.root)
     const one = initiativesDrawn(root).find((each) => each.slug === read.slug)
-    if (one === undefined) return { report: [], refusals: [noInitiative(read.slug)], code: 2 }
+    if (one === undefined) return mistaking([noInitiative(read.slug)])
     return await away(root, one.path, read.slug, namingIn(root, one.path), given)
   } catch (thrown) {
     return { report: [], refusals: [whyOf(thrown)], code: 3 }
