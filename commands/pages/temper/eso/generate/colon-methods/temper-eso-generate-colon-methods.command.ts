@@ -22,16 +22,6 @@ export const temperEsoGenerateColonMethods = {
         "the directory the bodies are staged in, a fresh one under /var/tmp where none is said",
     },
   ],
-  helpNotes: [
-    "the scan takes every method the source defines on a class, and the census is the distinct names rather than the receivers.",
-    "nothing reads this census today, which is why it is not in akasha. It answered receiver provenance for two checks over the Lua compiler that did not cross.",
-    "this command is the rule the census would be made by, kept in place so a consumer arriving again has one.",
-    "one file of the whole census is many times the fifteen thousand byte akasha ceiling, so it is written as numbered runs with an aggregate composing them.",
-    "how many digits a run's ordinal carries follows from how many runs there are.",
-    "nothing lands here. The bodies are staged outside akasha and the writing call that lands them is named, because that call is what judges them against the checks and commits them.",
-    "landing them puts about twelve thousand method names into the tree that nothing asks a question of, so land them when a consumer arrives rather than before.",
-    "a clone holding no such method refuses the call, because an empty census reads to every consumer as a clean answer.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -40,6 +30,11 @@ export const temperEsoGenerateColonMethods = {
     {
       invariantKind: "departure",
       statement: "The census is written as numbered runs with an aggregate composing those runs.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A run's ordinal carries at least two digits and as many as the count of runs needs.",
     },
     {
       invariantKind: "departure",
