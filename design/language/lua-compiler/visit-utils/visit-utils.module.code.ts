@@ -17,7 +17,7 @@ import {
   checkVariableDeclarationList,
   transformBindingPattern,
 } from "akasha/design/language/lua-compiler/visit-variable-declaration/visit-variable-declaration.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import * as ts from "typescript"
 
 export function transformLoopBody(

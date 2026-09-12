@@ -26,9 +26,9 @@ import { useOptimisticDeletePage } from "akasha/pages/ui/supabase/mutations/use-
 import { useOptimisticPatchPage } from "akasha/pages/ui/supabase/mutations/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
 import type { PageWithProperties } from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
 import { useSetPropertyOptimistic } from "akasha/pages/ui/supabase/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { isJson } from "akasha/utils/narrow/is-json/is-json.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import { useCallback, useMemo } from "react"
 
 const VIEW_PAGE_TYPE_SLUG = "view"

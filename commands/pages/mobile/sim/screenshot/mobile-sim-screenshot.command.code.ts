@@ -1,8 +1,8 @@
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { screenshot } from "akasha/alan/harness/mobile-cli/appium-client/appium-client.module.code.ts"
+import { screenshot } from "akasha/alan/harness/mobile-cli/modules/appium-client/appium-client.module.code.ts"
 import { driving } from "akasha/alan/harness/mobile-cli/sim-driver/sim-driver.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { output } from "akasha/commands/arguments/pages/output.argument.ts"
 import {
   answering,

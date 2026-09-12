@@ -4,7 +4,7 @@ import {
   editsIn,
   foldedIn,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import {
   DATA,
   OPERATIONAL,

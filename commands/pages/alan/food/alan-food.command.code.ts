@@ -8,7 +8,7 @@ import {
   rootOf,
   written,
 } from "akasha/alan/track/daily/modules/akasha-day/akasha-day.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { date as dateArgument } from "akasha/commands/arguments/pages/date.argument.ts"
 import { estimatedCalories as caloriesArgument } from "akasha/commands/arguments/pages/estimated-calories.argument.ts"
 import { image as imageArgument } from "akasha/commands/arguments/pages/image.argument.ts"

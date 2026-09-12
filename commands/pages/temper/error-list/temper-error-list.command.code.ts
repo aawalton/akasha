@@ -1,5 +1,5 @@
 import { readFileSync } from "node:fs"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { errorsPath as errorsPathArgument } from "akasha/commands/arguments/pages/errors-path.argument.ts"
 import { includeStale as includeStaleArgument } from "akasha/commands/arguments/pages/include-stale.argument.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"

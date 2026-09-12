@@ -1,11 +1,11 @@
 import {
-  type ArmorTraitId,
-  armorTraits,
-} from "akasha/temper/equipment/armor-traits/armor-traits.module.code.ts"
-import {
   type JewelryTraitId,
   jewelryTraits,
 } from "akasha/temper/equipment/jewelry-traits/jewelry-traits.module.code.ts"
+import {
+  type ArmorTraitId,
+  armorTraits,
+} from "akasha/temper/equipment/modules/armor-traits/armor-traits.module.code.ts"
 import {
   type WeaponTraitId,
   weaponTraits,

@@ -16,7 +16,7 @@ import {
   SERVICES,
 } from "akasha/infrastructure/container-image/dockerfiles/dockerfile-services/dockerfile-services.module.code.ts"
 import { generateToolImageDockerfile } from "akasha/infrastructure/container-image/dockerfiles/dockerfile-tool-image/dockerfile-tool-image.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 function extensionsOf(config: ServiceConfig): DockerfileExtensions {
   if (config.extensionFile === undefined) return {}

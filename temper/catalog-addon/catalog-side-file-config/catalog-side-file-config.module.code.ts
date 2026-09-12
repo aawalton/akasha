@@ -1,4 +1,4 @@
-import type { PendingInvalidation } from "akasha/temper/catalog-core/apply-invalidations/apply-invalidations.module.code.ts"
+import type { PendingInvalidation } from "akasha/temper/catalog-core/modules/apply-invalidations/apply-invalidations.module.code.ts"
 
 function isStringArray(value: unknown): value is readonly string[] {
   if (!Array.isArray(value)) return false

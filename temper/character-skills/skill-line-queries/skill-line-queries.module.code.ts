@@ -5,10 +5,10 @@ import type {
   SkillBarsState,
   WeaponBarShape,
 } from "akasha/temper/character-skills/query-shapes/query-shapes.module.code.ts"
-import { armorWeights } from "akasha/temper/characters-equipment/armor-weights/armor-weights.module.code.ts"
+import { armorWeights } from "akasha/temper/characters-equipment/modules/armor-weights/armor-weights.module.code.ts"
 import { weaponTypes } from "akasha/temper/characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
 import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
-import type { ArmorWeightId } from "akasha/temper/equipment/armor-weight-ids/armor-weight-ids.module.code.ts"
+import type { ArmorWeightId } from "akasha/temper/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
 import type { ClassId } from "akasha/temper/formula-framework/class-id/class-id.module.code.ts"
 import { valuesOf } from "akasha/temper/formula-framework/record-parts/record-parts.module.code.ts"
 import {

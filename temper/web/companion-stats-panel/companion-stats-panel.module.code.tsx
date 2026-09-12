@@ -23,7 +23,7 @@ import { CompanionSuggestionsPanelCard } from "akasha/temper/web/companion-sugge
 import { CompanionSurplusPanelCard } from "akasha/temper/web/companion-surplus-panel-card/companion-surplus-panel-card.module.code.tsx"
 import { useCompanion } from "akasha/temper/web/use-companion/use-companion.module.code.ts"
 import { useCompanionStats } from "akasha/temper/web/use-companion-stats/use-companion-stats.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import { type ReactNode, useMemo, useState } from "react"
 
 interface CompanionStatsPanelProps {

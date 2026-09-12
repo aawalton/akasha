@@ -1,5 +1,5 @@
 import { resolve } from "node:path"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import { top } from "akasha/commands/arguments/pages/top.argument.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"

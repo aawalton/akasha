@@ -1,4 +1,3 @@
-import { validateAssignment } from "akasha/design/language/lua-compiler/assignment-validation/assignment-validation.module.code.ts"
 import type { TransformationContext } from "akasha/design/language/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
 import {
   createExportedIdentifier,
@@ -13,6 +12,7 @@ import * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-exp
 import * as luaStatements from "akasha/design/language/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
 import { transformLuaLibFunction } from "akasha/design/language/lua-compiler/lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "akasha/design/language/lua-compiler/lualib-features/lualib-features.module.code.ts"
+import { validateAssignment } from "akasha/design/language/lua-compiler/modules/assignment-validation/assignment-validation.module.code.ts"
 import { transformInPrecedingStatementScope } from "akasha/design/language/lua-compiler/preceding-statements/preceding-statements.module.code.ts"
 import {
   cannotAssignToNodeOfKind,

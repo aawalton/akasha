@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   alanElaine,

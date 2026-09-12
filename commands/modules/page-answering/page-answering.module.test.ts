@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import {
   CALLED_AS,
   NAMING_THEM,
   PAGES,
-} from "akasha/commands/arguments/argument-taking/argument-taking.module.test-fixtures.ts"
+} from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.test-fixtures.ts"
 import {
   INPUT,
   OPERATIONAL,

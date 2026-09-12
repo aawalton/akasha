@@ -1,5 +1,5 @@
 import { aliasIndexesIn } from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import {
   DATA,
   OPERATIONAL,

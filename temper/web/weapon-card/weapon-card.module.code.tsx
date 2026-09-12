@@ -10,10 +10,6 @@ import {
   SelectValue,
 } from "akasha/design/interfaces/primitives/select-control/select-control.module.code.tsx"
 import {
-  type ArmorEnchantId,
-  armorEnchants,
-} from "akasha/temper/characters-equipment/armor-enchants/armor-enchants.module.code.ts"
-import {
   convertIconPathToUrl,
   getEquipmentIcon,
 } from "akasha/temper/characters-equipment/get-equipment-icon/get-equipment-icon.module.code.ts"
@@ -21,6 +17,10 @@ import type {
   WeaponSlotItem,
   WeaponSlotUpdateParams,
 } from "akasha/temper/characters-equipment/loadout-types/loadout-types.module.code.ts"
+import {
+  type ArmorEnchantId,
+  armorEnchants,
+} from "akasha/temper/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts"
 import {
   getValidSetsForSlot,
   getValidTypesForSet,
@@ -42,7 +42,7 @@ import {
   type ArmorTraitId,
   armorTraits,
   armorTraitsBuildList,
-} from "akasha/temper/equipment/armor-traits/armor-traits.module.code.ts"
+} from "akasha/temper/equipment/modules/armor-traits/armor-traits.module.code.ts"
 import type { SetId as SetsAllId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/equipment/set-template/set-template.module.code.ts"
 import {

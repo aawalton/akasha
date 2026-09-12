@@ -1,6 +1,6 @@
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { inventoryPath as inventoryPathArgument } from "akasha/commands/arguments/pages/inventory-path.argument.ts"
 import { item as itemArgument } from "akasha/commands/arguments/pages/item.argument.ts"
 import { json as jsonArgument } from "akasha/commands/arguments/pages/json.argument.ts"

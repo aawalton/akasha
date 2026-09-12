@@ -4,7 +4,7 @@ import {
   COMPANION_ACTIONS,
   type CompanionAction,
 } from "akasha/temper/web/companion-actions/companion-actions.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 export function companionReducer(state: CompanionState, action: CompanionAction): CompanionState {
   switch (action.type) {

@@ -6,7 +6,7 @@ import {
   buildVersionedReloadUrl,
   liveVersionIn,
   shouldPromptVersionUpdate,
-} from "akasha/pages/ui/app-version/app-version-check/app-version-check.module.code.ts"
+} from "akasha/pages/ui/app-version/modules/app-version-check/app-version-check.module.code.ts"
 import { useEffect, useRef } from "react"
 import { toast } from "sonner"
 

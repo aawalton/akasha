@@ -10,7 +10,7 @@ import {
   standingSubagentsOf,
 } from "akasha/agents/subagents/modules/page/subagent-page.module.code.ts"
 import { inputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import { ending } from "akasha/utils/process/process-ending/process-ending.module.code.ts"
 
 const SEAT_STOP_STATUSES = ["stopped", "already-exited", "reconciled"] as const

@@ -1,4 +1,4 @@
-import { armedTimer } from "akasha/utils/timing/armed-timer/armed-timer.module.code.ts"
+import { armedTimer } from "akasha/utils/timing/modules/armed-timer/armed-timer.module.code.ts"
 
 export const UPSTREAM_IDLE_TIMEOUT_TOKEN = "oauth-proxy upstream idle timeout"
 

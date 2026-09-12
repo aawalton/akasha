@@ -5,7 +5,7 @@ import {
   monthKeyOf,
 } from "akasha/pages/core/view/calendar-grid/calendar-grid.module.code.ts"
 import { formatSmartDate } from "akasha/pages/core/view/format-smart-date/format-smart-date.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import { requireMatchPositional } from "akasha/utils/narrow/require-match-positional/require-match-positional.module.code.ts"
 import { z } from "zod"
 

@@ -18,7 +18,7 @@ import {
 import { requireTransformBinaryOperation } from "akasha/design/language/lua-compiler/visit-binary-operation-deps/visit-binary-operation-deps.module.code.ts"
 import { transformDestructuringAssignmentHolder } from "akasha/design/language/lua-compiler/visit-destructuring-deps/visit-destructuring-deps.module.code.ts"
 import { transformPropertyName } from "akasha/design/language/lua-compiler/visit-property-name/visit-property-name.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import * as ts from "typescript"
 
 function transformDestructuringAssignment(

@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { inventoryPath } from "akasha/commands/arguments/pages/inventory-path.argument.ts"
 import { itemlink } from "akasha/commands/arguments/pages/itemlink.argument.ts"
 import { temperInventoryReplayExplain as page } from "akasha/commands/pages/temper/inventory/replay-explain/temper-inventory-replay-explain.command.ts"

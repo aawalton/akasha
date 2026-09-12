@@ -12,7 +12,7 @@ import type { ViewDataJSON } from "akasha/pages/core/schema/view-data/view-data.
 import {
   adjustTotalForClientFilters,
   applyClientViewFilters,
-} from "akasha/pages/ui/supabase/apply-client-view-filters/apply-client-view-filters.module.code.ts"
+} from "akasha/pages/ui/supabase/modules/apply-client-view-filters/apply-client-view-filters.module.code.ts"
 import {
   type PageWithProperties,
   toPageWithProperties,

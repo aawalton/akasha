@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { saidForPart } from "akasha/commands/arguments/argument-taking/argument-taking.module.test-fixtures.ts"
+import { saidForPart } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.test-fixtures.ts"
 import { runWindow } from "akasha/commands/arguments/pages/run-window.argument.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"

@@ -1,5 +1,5 @@
 import { listMessages } from "akasha/alan/google/email/email-message-fetching/email-message-fetching.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { label } from "akasha/commands/arguments/pages/label.argument.ts"
 import { mailQuery } from "akasha/commands/arguments/pages/mail-query.argument.ts"
 import { max } from "akasha/commands/arguments/pages/max.argument.ts"

@@ -1,5 +1,5 @@
 import { existsSync } from "node:fs"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { seq } from "akasha/commands/arguments/pages/seq.argument.ts"
 import { tail } from "akasha/commands/arguments/pages/tail.argument.ts"
 import { webApp } from "akasha/commands/arguments/pages/web-app.argument.ts"

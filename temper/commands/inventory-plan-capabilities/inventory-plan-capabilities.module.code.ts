@@ -18,7 +18,7 @@ import {
   applyDestinationCapacityFilterWithAudit,
 } from "akasha/temper/items-rules-routing/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.code.ts"
 import { formatPlanChecklist } from "akasha/temper/items-rules-routing/inventory-plan-checklist/inventory-plan-checklist.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 interface PlanInputsModule {
   readonly DEFAULT_INVENTORY_PATH: typeof DEFAULT_INVENTORY_PATH

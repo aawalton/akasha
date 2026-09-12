@@ -6,7 +6,7 @@ import {
   type Stopping,
   stopping,
 } from "akasha/agents/seats/modules/stopping/seat-stopping.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { force as forceArgument } from "akasha/commands/arguments/pages/force.argument.ts"
 import { seat } from "akasha/commands/arguments/pages/seat.argument.ts"
 import {

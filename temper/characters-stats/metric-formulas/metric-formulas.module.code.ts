@@ -11,12 +11,12 @@ import type { FormulaNode } from "akasha/temper/characters-stats/formula-types/f
 import { getAggregateMetricIds } from "akasha/temper/characters-stats/metric-tree-queries/metric-tree-queries.module.code.ts"
 import type { Metric } from "akasha/temper/characters-stats/metrics/metrics.module.code.ts"
 import { hasFormula, metrics } from "akasha/temper/characters-stats/metrics/metrics.module.code.ts"
-import { evaluateArithmeticNode } from "akasha/temper/formula-framework/arithmetic-evaluate/arithmetic-evaluate.module.code.ts"
 import type { EffectSource } from "akasha/temper/formula-framework/effect-source/effect-source.module.code.ts"
 import type { MetricId } from "akasha/temper/formula-framework/metric-id/metric-id.module.code.ts"
+import { evaluateArithmeticNode } from "akasha/temper/formula-framework/modules/arithmetic-evaluate/arithmetic-evaluate.module.code.ts"
 import { convertRatingToChance } from "akasha/temper/formula-framework/rating-chance/rating-chance.module.code.ts"
 import { sourceCategories } from "akasha/temper/formula-framework/source-category/source-category.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 
 interface PlayerFormulaContext {

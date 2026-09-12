@@ -1,7 +1,8 @@
 import {
   type TakenFor,
   takenFor,
-} from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+} from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
+import type { Read } from "akasha/commands/arguments/modules/word-reading/argument-word-reading.module.code.ts"
 import { clipFrames } from "akasha/commands/arguments/pages/clip-frames.argument.ts"
 import { endImage } from "akasha/commands/arguments/pages/end-image.argument.ts"
 import { lightning } from "akasha/commands/arguments/pages/lightning.argument.ts"
@@ -15,7 +16,6 @@ import { size } from "akasha/commands/arguments/pages/size.argument.ts"
 import { startImage } from "akasha/commands/arguments/pages/start-image.argument.ts"
 import { steps } from "akasha/commands/arguments/pages/steps.argument.ts"
 import { timeout } from "akasha/commands/arguments/pages/timeout.argument.ts"
-import type { Read } from "akasha/commands/arguments/word-reading/argument-word-reading.module.code.ts"
 import {
   answering,
   naming,

@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { driveFile } from "akasha/commands/arguments/pages/drive-file.argument.ts"
 import { output } from "akasha/commands/arguments/pages/output.argument.ts"
 import { DATA } from "akasha/commands/modules/answering/command-answering.module.code.ts"

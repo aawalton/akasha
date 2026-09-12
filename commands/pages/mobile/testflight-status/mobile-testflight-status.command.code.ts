@@ -1,10 +1,10 @@
+import type { MobileApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+import { appIn } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import {
   createAscJwtSource,
   fetchLatestBuild,
   resolveAppId,
-} from "akasha/alan/harness/mobile-cli/asc-client/asc-client.module.code.ts"
-import type { MobileApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
-import { appIn } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/modules/asc-client/asc-client.module.code.ts"
 import {
   classifyProcessingState,
   describeProcessingFailure,
@@ -13,7 +13,7 @@ import {
   pollBuildUntilTerminal,
   processingFailureFor,
 } from "akasha/alan/harness/mobile-cli/testflight-poll/testflight-poll.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { app } from "akasha/commands/arguments/pages/app.argument.ts"
 import { wait } from "akasha/commands/arguments/pages/wait.argument.ts"
 import {

@@ -18,7 +18,7 @@ import type {
   ArmorPieceCounts,
   BadgeVariant,
 } from "akasha/temper/web/effect-badge-types/effect-badge-types.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 interface EffectBadgeProps {
   effect: CompanionEffect

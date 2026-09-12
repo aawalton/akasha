@@ -12,7 +12,7 @@ import {
   type SubmitPlayerAction,
   SystemChoiceCard,
 } from "akasha/story/ui/system-choice-card/system-choice-card.module.code.tsx"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 function ReadoutGrid({ record }: { record: Record<string, number> }) {
   const entries = Object.entries(record)

@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Leaf } from "akasha/alan/library/book-of-everything/seeded-draw/seeded-draw.module.code.ts"
-import { saidForPart } from "akasha/commands/arguments/argument-taking/argument-taking.module.test-fixtures.ts"
+import { saidForPart } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.test-fixtures.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"

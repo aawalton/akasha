@@ -33,7 +33,7 @@ import type {
   WalkTrace,
 } from "akasha/temper/items-rules-eval/eval-result/eval-result.module.code.ts"
 import { walkRules } from "akasha/temper/items-rules-eval/evaluator/evaluator.module.code.ts"
-import { asObjectRecord } from "akasha/utils/narrow/as-object-record/as-object-record.module.code.ts"
+import { asObjectRecord } from "akasha/utils/narrow/modules/as-object-record/as-object-record.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 
 const SCHEMA_VERSION = 1

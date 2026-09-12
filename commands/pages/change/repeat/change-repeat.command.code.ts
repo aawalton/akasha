@@ -5,7 +5,7 @@ import {
   sweptAll,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { atMostIn } from "akasha/changes/modules/value-carrying/value-carrying.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { change } from "akasha/commands/arguments/pages/change.argument.ts"
 import {
   answering,

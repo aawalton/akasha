@@ -1,10 +1,10 @@
 import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
-import { armorEnchants } from "akasha/temper/characters-equipment/armor-enchants/armor-enchants.module.code.ts"
 import { jewelryEnchants } from "akasha/temper/characters-equipment/jewelry-enchants/jewelry-enchants.module.code.ts"
+import { armorEnchants } from "akasha/temper/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts"
 import { weaponEnchantments } from "akasha/temper/characters-equipment/weapon-enchants/weapon-enchants.module.code.ts"
 import { weaponTypes } from "akasha/temper/characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
-import { armorTraits } from "akasha/temper/equipment/armor-traits/armor-traits.module.code.ts"
 import { jewelryTraits } from "akasha/temper/equipment/jewelry-traits/jewelry-traits.module.code.ts"
+import { armorTraits } from "akasha/temper/equipment/modules/armor-traits/armor-traits.module.code.ts"
 import { weaponTraits } from "akasha/temper/equipment/weapon-traits/weapon-traits.module.code.ts"
 
 interface EquipmentMappingTable {

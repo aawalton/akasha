@@ -3,7 +3,7 @@ import {
   rebuildPoints,
   saidOf,
 } from "akasha/alan/harness/persona-points-rebuilding/persona-points-rebuilding.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import {
   answering,
   DATA,

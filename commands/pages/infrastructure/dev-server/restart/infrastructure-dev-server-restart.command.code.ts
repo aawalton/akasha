@@ -1,4 +1,4 @@
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import { port } from "akasha/commands/arguments/pages/port.argument.ts"
 import { seq } from "akasha/commands/arguments/pages/seq.argument.ts"

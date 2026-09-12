@@ -4,7 +4,7 @@ import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit
 import {
   type TakenFor,
   takenFor,
-} from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+} from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { checklist as checklistArgument } from "akasha/commands/arguments/pages/checklist.argument.ts"
 import { checklistFile } from "akasha/commands/arguments/pages/checklist-file.argument.ts"
 import { fps as fpsArgument } from "akasha/commands/arguments/pages/fps.argument.ts"

@@ -6,7 +6,7 @@ import {
 import type { SeatMatch } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
 import { resolveSeatTarget } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
 import { readProxyState } from "akasha/agents/seats/modules/proxy-state/seat-proxy-state.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { fleet } from "akasha/commands/arguments/pages/fleet.argument.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import { seat } from "akasha/commands/arguments/pages/seat.argument.ts"

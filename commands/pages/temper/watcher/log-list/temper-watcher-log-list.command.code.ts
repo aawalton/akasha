@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { jsonInOneObject } from "akasha/commands/arguments/pages/json-in-one-object.argument.ts"
 import { limit as limitArgument } from "akasha/commands/arguments/pages/limit.argument.ts"
 import { logDir as logDirArgument } from "akasha/commands/arguments/pages/log-dir.argument.ts"

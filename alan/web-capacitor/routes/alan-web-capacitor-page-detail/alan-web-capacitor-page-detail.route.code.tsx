@@ -18,7 +18,7 @@ import { useAllPages, usePageByIdSuffix } from "akasha/pages/ui/supabase/hooks/h
 import { useReaderNeighbors } from "akasha/pages/ui/supabase/use-reader-neighbors/use-reader-neighbors.module.code.ts"
 import { parsePageHrefParam } from "akasha/pages/url/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import { lazy, Suspense } from "react"
 import { useParams } from "react-router"
 

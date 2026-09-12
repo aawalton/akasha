@@ -1,5 +1,5 @@
 import { resolve } from "node:path"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { addon } from "akasha/commands/arguments/pages/addon.argument.ts"
 import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
 import {

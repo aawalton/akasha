@@ -2,7 +2,7 @@ import { readFile, writeFile } from "node:fs/promises"
 import {
   type TakenFor,
   takenFor,
-} from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+} from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { aspectRatio as aspectRatioArgument } from "akasha/commands/arguments/pages/aspect-ratio.argument.ts"
 import { engine as engineArgument } from "akasha/commands/arguments/pages/engine.argument.ts"
 import { image as imageArgument } from "akasha/commands/arguments/pages/image.argument.ts"

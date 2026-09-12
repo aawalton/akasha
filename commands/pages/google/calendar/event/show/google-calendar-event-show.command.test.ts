@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { saidForPart } from "akasha/commands/arguments/argument-taking/argument-taking.module.test-fixtures.ts"
+import { saidForPart } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.test-fixtures.ts"
 import { calendar } from "akasha/commands/arguments/pages/calendar.argument.ts"
 import { event } from "akasha/commands/arguments/pages/event.argument.ts"
 import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"

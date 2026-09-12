@@ -1,7 +1,7 @@
 import { writeFileSync } from "node:fs"
 import { isAbsolute, resolve } from "node:path"
 import { notices } from "akasha/agents/messaging/notices/compose-notices/compose-notices.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { output } from "akasha/commands/arguments/pages/output.argument.ts"
 import {
   faulted,

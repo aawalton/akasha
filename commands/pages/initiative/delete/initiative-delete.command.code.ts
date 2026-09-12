@@ -1,6 +1,6 @@
 import { resolve } from "node:path"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { initiative } from "akasha/commands/arguments/pages/initiative.argument.ts"
 import {
   answering,

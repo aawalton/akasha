@@ -28,7 +28,7 @@ import type { MetricId } from "akasha/temper/formula-framework/metric-id/metric-
 import { formatDecimal } from "akasha/temper/formula-framework/number-format/number-format.module.code.ts"
 import { convertRatingToChance } from "akasha/temper/formula-framework/rating-chance/rating-chance.module.code.ts"
 import { sourceCategories } from "akasha/temper/formula-framework/source-category/source-category.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 
 function effectTypeToFormat(effectType: string): NumberFormat {

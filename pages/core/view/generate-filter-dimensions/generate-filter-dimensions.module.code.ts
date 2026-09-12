@@ -9,7 +9,7 @@ import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rol
 import {
   isSelectOption,
   type SelectOption,
-} from "akasha/pages/core/view/apply-grouping-shared/apply-grouping-shared.module.code.ts"
+} from "akasha/pages/core/view/modules/apply-grouping-shared/apply-grouping-shared.module.code.ts"
 
 export interface PageFilterDimension {
   id: string

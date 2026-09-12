@@ -8,7 +8,7 @@ import {
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { heldPerShadow, type Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 export type Grant = {
   readonly pageTypeSlug: string

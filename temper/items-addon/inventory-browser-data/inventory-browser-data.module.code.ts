@@ -11,7 +11,7 @@ import {
   getLocationDisplayName,
 } from "akasha/temper/items-core/location-classify/location-classify.module.code.ts"
 import type { LocationTypeId } from "akasha/temper/items-core/location-type-data/location-type-data.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 const FIXED_LOCATION_VIEWS: readonly (readonly [FixedLocationViewId, string])[] = [
   ["all", "All"],

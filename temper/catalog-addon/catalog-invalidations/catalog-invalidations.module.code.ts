@@ -1,7 +1,7 @@
 import { ADDON_NAME } from "akasha/temper/catalog-addon/catalog-constants/catalog-constants.module.code.ts"
 import { getPendingInvalidation } from "akasha/temper/catalog-addon/catalog-side-file-config/catalog-side-file-config.module.code.ts"
-import { applyPendingInvalidations } from "akasha/temper/catalog-core/apply-invalidations/apply-invalidations.module.code.ts"
 import { getCatalogDomains } from "akasha/temper/catalog-core/domain-registry/domain-registry.module.code.ts"
+import { applyPendingInvalidations } from "akasha/temper/catalog-core/modules/apply-invalidations/apply-invalidations.module.code.ts"
 import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 
 export function applyHostInvalidations(): undefined {

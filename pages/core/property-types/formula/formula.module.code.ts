@@ -10,7 +10,7 @@ import type {
   PropertyValue,
 } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
 import { formulaConfigSchema } from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 export const FORMULA_OPS: PropertyTypeOps = {
   validate() {

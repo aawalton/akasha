@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
-import { saidForPart } from "akasha/commands/arguments/argument-taking/argument-taking.module.test-fixtures.ts"
+import { saidForPart } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.test-fixtures.ts"
 import { filePath } from "akasha/commands/arguments/pages/file-path.argument.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import { threshold } from "akasha/commands/arguments/pages/threshold.argument.ts"

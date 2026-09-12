@@ -3,7 +3,7 @@ import { basename, dirname, extname, join } from "node:path"
 import {
   type TakenFor,
   takenFor,
-} from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+} from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { fps as fpsArgument } from "akasha/commands/arguments/pages/fps.argument.ts"
 import { outDir as outDirArgument } from "akasha/commands/arguments/pages/out-dir.argument.ts"
 import { video as videoArgument } from "akasha/commands/arguments/pages/video.argument.ts"

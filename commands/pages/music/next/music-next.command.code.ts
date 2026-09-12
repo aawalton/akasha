@@ -7,7 +7,7 @@ import type {
 import { selectNextExploration } from "akasha/alan/music/choosing/music-exploration/music-exploration.module.code.ts"
 import type { MusicRating } from "akasha/alan/music/choosing/rating-ladder/rating-ladder.module.code.ts"
 import { MUSIC_RATINGS } from "akasha/alan/music/choosing/rating-ladder/rating-ladder.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import {
   DATA,

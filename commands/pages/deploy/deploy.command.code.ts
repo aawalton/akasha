@@ -1,5 +1,5 @@
 import { costRecorded, opening } from "akasha/checks/modules/cost/check-cost.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { deploySubject } from "akasha/commands/arguments/pages/deploy-subject.argument.ts"
 import { device } from "akasha/commands/arguments/pages/device.argument.ts"
 import { dryRun } from "akasha/commands/arguments/pages/dry-run.argument.ts"

@@ -7,7 +7,7 @@ import {
   DEFAULT_PRICING_SERVER,
   type PricingRegionNoteKind,
 } from "akasha/temper/player-inventory-management-ui/pricing-region/pricing-region.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import type { ReactNode } from "react"
 
 export function PricingRegionNote({

@@ -1,4 +1,4 @@
-import type { TakenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import type { TakenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { active } from "akasha/commands/arguments/pages/active.argument.ts"
 import { goal } from "akasha/commands/arguments/pages/goal.argument.ts"
 import { itemId } from "akasha/commands/arguments/pages/item-id.argument.ts"

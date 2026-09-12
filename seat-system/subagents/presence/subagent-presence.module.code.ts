@@ -34,7 +34,7 @@ import {
   slugOf,
 } from "akasha/seat-system/subagents/modules/page-naming/subagent-page-naming.module.code.ts"
 import { subagentStarted } from "akasha/seat-system/subagents/properties/subagent-started.number-property.ts"
-import { asNumber } from "akasha/utils/narrow/as-number/as-number.module.code.ts"
+import { asNumber } from "akasha/utils/narrow/modules/as-number/as-number.module.code.ts"
 import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 
 export const WRITING = "write"

@@ -1,6 +1,6 @@
 import { readdirSync, readFileSync, statSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
 import { global as globalArgument } from "akasha/commands/arguments/pages/global.argument.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"

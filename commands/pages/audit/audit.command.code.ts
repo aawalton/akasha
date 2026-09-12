@@ -9,7 +9,7 @@ import {
 import { everythingIn } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Gathered } from "akasha/checks/modules/checking/checking.module.code.ts"
 import { checksAt, checksIn } from "akasha/checks/modules/checking/checking.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { check } from "akasha/commands/arguments/pages/check.argument.ts"
 import { refusedBy } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {

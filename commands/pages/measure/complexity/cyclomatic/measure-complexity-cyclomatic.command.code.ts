@@ -1,5 +1,5 @@
 import { resolve } from "node:path"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { filePath } from "akasha/commands/arguments/pages/file-path.argument.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import { threshold } from "akasha/commands/arguments/pages/threshold.argument.ts"

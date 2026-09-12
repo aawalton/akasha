@@ -1,4 +1,4 @@
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { commitMessage } from "akasha/commands/arguments/pages/commit-message.argument.ts"
 import { filePath } from "akasha/commands/arguments/pages/file-path.argument.ts"
 import { keepLastNewline } from "akasha/commands/arguments/pages/keep-last-newline.argument.ts"

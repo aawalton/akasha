@@ -1,6 +1,6 @@
 import { composedIn } from "akasha/alan/google/email/email-command-reading/email-command-reading.module.code.ts"
 import { emailGoogle } from "akasha/alan/google/email/email-operations/email-operations.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { attach } from "akasha/commands/arguments/pages/attach.argument.ts"
 import { bcc } from "akasha/commands/arguments/pages/bcc.argument.ts"
 import { body } from "akasha/commands/arguments/pages/body.argument.ts"

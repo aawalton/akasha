@@ -6,7 +6,7 @@ import {
   unsupportedForTarget,
   unsupportedRightShiftOperator,
 } from "akasha/design/language/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import * as ts from "typescript"
 
 export type BitOperator = ts.ShiftOperator | ts.BitwiseOperator

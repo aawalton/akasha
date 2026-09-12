@@ -1,4 +1,4 @@
-import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
+import { asRecord } from "akasha/utils/narrow/modules/as-record/as-record.module.code.ts"
 import { parseNumber } from "akasha/utils/narrow/parse-number/parse-number.module.code.ts"
 
 export function parseOpenCooldowns(raw: unknown): Record<string, number> | undefined {

@@ -6,7 +6,7 @@ import {
   landingAt,
   removingAt,
 } from "akasha/code/name-series/name-series.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
 import { stage as stageArgument } from "akasha/commands/arguments/pages/stage.argument.ts"
 import {

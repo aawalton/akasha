@@ -1,5 +1,5 @@
 import { type Collection, createOptimisticAction, type WritableDeep } from "@tanstack/db"
-import { applyJsonPatch } from "akasha/pages/core/json-patch/apply/apply.module.code.ts"
+import { applyJsonPatch } from "akasha/pages/core/json-patch/modules/apply/apply.module.code.ts"
 import type { PageRow } from "akasha/pages/ui-store/collection/page-row/page-row.module.code.ts"
 import { emitStoreDiagnostic } from "akasha/pages/ui-store/diagnostics/diagnostics.module.code.ts"
 import {
@@ -12,9 +12,9 @@ import type {
   PagesMutationPlan,
   RowOverlay,
 } from "akasha/pages/ui-store/optimistic/plan/plan.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 const SETTLE_HANDOFF_CEILING_MS = DEFAULT_TICK_MS * 5
 

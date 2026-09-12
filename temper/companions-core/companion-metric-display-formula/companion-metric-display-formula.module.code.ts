@@ -19,7 +19,7 @@ import type {
 import { formatDecimal } from "akasha/temper/formula-framework/number-format/number-format.module.code.ts"
 import { convertRatingToChance } from "akasha/temper/formula-framework/rating-chance/rating-chance.module.code.ts"
 import { sourceCategories } from "akasha/temper/formula-framework/source-category/source-category.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 function getContributionsByCategory(
   sources: readonly CompanionEffectSource[],

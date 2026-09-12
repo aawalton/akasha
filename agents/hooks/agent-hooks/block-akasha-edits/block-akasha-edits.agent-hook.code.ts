@@ -10,7 +10,7 @@ import { insideOf, settled } from "akasha/agents/hooks/settling/settling.module.
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { gitIn } from "akasha/files/git-place/git-place.module.code.ts"
 import { INDEX_AT, indexIn } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
-import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
+import { asRecord } from "akasha/utils/narrow/modules/as-record/as-record.module.code.ts"
 import { stringAt } from "akasha/utils/narrow/string-at/string-at.module.code.ts"
 
 const HOOK_NAME = "block-akasha-edits"

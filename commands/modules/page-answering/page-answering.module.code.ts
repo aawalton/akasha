@@ -2,8 +2,8 @@ import type { Argument } from "akasha/commands/arguments/argument.page-type.type
 import type {
   Commanding,
   TakenFor,
-} from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+} from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import {
   answering,
   refusedBy,

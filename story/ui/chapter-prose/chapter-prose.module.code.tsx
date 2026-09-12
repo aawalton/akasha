@@ -6,7 +6,7 @@ import {
 } from "akasha/story/ui/system-card/system-card.module.code.tsx"
 import type { SubmitPlayerAction } from "akasha/story/ui/system-choice-card/system-choice-card.module.code.tsx"
 import { SystemWindowCard } from "akasha/story/ui/system-window-card/system-window-card.module.code.tsx"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import type { ReactNode } from "react"
 
 const HEADING_RE = /^#{1,6}\s+/

@@ -1,6 +1,6 @@
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { dryRun as dryRunArgument } from "akasha/commands/arguments/pages/dry-run.argument.ts"
 import {
   answeredWith,

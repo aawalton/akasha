@@ -8,7 +8,7 @@ import {
   getCurrentlyPlaying,
   getRecentlyPlayed,
 } from "akasha/alan/music/spotify/player/spotify-player.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import { limit as limitArgument } from "akasha/commands/arguments/pages/limit.argument.ts"
 import { window as windowArgument } from "akasha/commands/arguments/pages/window.argument.ts"

@@ -2,7 +2,7 @@ import { setTimeout as sleep } from "node:timers/promises"
 import {
   type TakenFor,
   takenFor,
-} from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+} from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { duration as durationArgument } from "akasha/commands/arguments/pages/duration.argument.ts"
 import { lyrics as lyricsArgument } from "akasha/commands/arguments/pages/lyrics.argument.ts"
 import { lyricsFile } from "akasha/commands/arguments/pages/lyrics-file.argument.ts"

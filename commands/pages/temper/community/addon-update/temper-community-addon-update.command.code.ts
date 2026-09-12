@@ -1,4 +1,4 @@
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { addonsDir as addonsDirArgument } from "akasha/commands/arguments/pages/addons-dir.argument.ts"
 import { codeRoot } from "akasha/commands/arguments/pages/code-root.argument.ts"
 import { force } from "akasha/commands/arguments/pages/force.argument.ts"

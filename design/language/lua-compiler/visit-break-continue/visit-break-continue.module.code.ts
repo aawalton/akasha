@@ -7,7 +7,7 @@ import {
   LoopContinued,
   ScopeType,
 } from "akasha/design/language/lua-compiler/scope/scope.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import type * as ts from "typescript"
 
 export const transformBreakStatement: FunctionVisitor<ts.BreakStatement> = (

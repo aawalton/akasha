@@ -1,7 +1,7 @@
 import { existsSync } from "node:fs"
 import { chmod, copyFile, mkdir, mkdtemp, rm, writeFile } from "node:fs/promises"
 import { dirname, join } from "node:path"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { cluster as clusterArgument } from "akasha/commands/arguments/pages/cluster.argument.ts"
 import { ip as ipArgument } from "akasha/commands/arguments/pages/ip.argument.ts"
 import { node as nodeArgument } from "akasha/commands/arguments/pages/node.argument.ts"

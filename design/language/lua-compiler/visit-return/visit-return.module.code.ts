@@ -1,4 +1,3 @@
-import { validateAssignment } from "akasha/design/language/lua-compiler/assignment-validation/assignment-validation.module.code.ts"
 import type { TransformationContext } from "akasha/design/language/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
 import type { FunctionVisitor } from "akasha/design/language/lua-compiler/context-visitors/context-visitors.module.code.ts"
 import {
@@ -7,6 +6,7 @@ import {
 } from "akasha/design/language/lua-compiler/lua-ast/lua-ast.module.code.ts"
 import * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import * as luaStatements from "akasha/design/language/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import { validateAssignment } from "akasha/design/language/lua-compiler/modules/assignment-validation/assignment-validation.module.code.ts"
 import {
   ScopeType,
   walkScopesUp,

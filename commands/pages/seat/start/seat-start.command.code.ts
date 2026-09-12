@@ -1,6 +1,6 @@
 import { refuseStatedName } from "akasha/agents/seats/modules/stated-name-refusal/seat-stated-name-refusal.module.code.ts"
 import { refuseStatedParent } from "akasha/agents/seats/modules/stated-parent-refusal/seat-stated-parent-refusal.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { account } from "akasha/commands/arguments/pages/account.argument.ts"
 import { anthropicAuthToken } from "akasha/commands/arguments/pages/anthropic-auth-token.argument.ts"
 import { anthropicBaseUrl } from "akasha/commands/arguments/pages/anthropic-base-url.argument.ts"

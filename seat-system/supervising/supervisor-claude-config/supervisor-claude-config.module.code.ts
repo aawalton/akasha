@@ -2,7 +2,7 @@ import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { harnessSettingsAt } from "akasha/agents/settings/harness-settings-reading/harness-settings-reading.module.code.ts"
 import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
+import { asRecord } from "akasha/utils/narrow/modules/as-record/as-record.module.code.ts"
 
 const CLAUDE_CONFIG = "claude-config"
 

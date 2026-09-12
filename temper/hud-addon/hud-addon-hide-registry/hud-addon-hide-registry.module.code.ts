@@ -19,8 +19,8 @@ import type {
   HideRegistration,
 } from "akasha/temper/hud-addon/hud-addon-hide-types/hud-addon-hide-types.module.code.ts"
 import { HUD_SCENE_CATALOG } from "akasha/temper/hud-components/hud-scene-catalog/hud-scene-catalog.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 export interface HideRegistry {
   register: (this: void, registration: HideRegistration) => undefined

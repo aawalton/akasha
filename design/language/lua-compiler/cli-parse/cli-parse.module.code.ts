@@ -5,7 +5,7 @@ import {
   LuaLibImportKind,
   LuaTarget,
 } from "akasha/design/language/lua-compiler/compiler-options/compiler-options.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import * as ts from "typescript"
 import { z } from "zod"
 

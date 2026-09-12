@@ -4,7 +4,7 @@ import { join } from "node:path"
 import {
   type TakenFor,
   takenFor,
-} from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+} from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { host as hostArgument } from "akasha/commands/arguments/pages/host.argument.ts"
 import { image as imageArgument } from "akasha/commands/arguments/pages/image.argument.ts"
 import { noPersist } from "akasha/commands/arguments/pages/no-persist.argument.ts"

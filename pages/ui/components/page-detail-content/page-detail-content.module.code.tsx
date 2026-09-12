@@ -18,7 +18,7 @@ import { useAllPages } from "akasha/pages/ui/supabase/hooks/hooks.module.code.ts
 import { usePage } from "akasha/pages/ui/supabase/use-page/use-page.module.code.ts"
 import { useRecordPageView } from "akasha/pages/ui/supabase/use-record-page-view/use-record-page-view.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import type { ReactNode } from "react"
 
 interface PageDetailContentProps {

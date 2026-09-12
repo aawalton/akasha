@@ -1,5 +1,5 @@
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { addonsDir as addonsDirArgument } from "akasha/commands/arguments/pages/addons-dir.argument.ts"
 import { codeRoot } from "akasha/commands/arguments/pages/code-root.argument.ts"
 import { communityAddon } from "akasha/commands/arguments/pages/community-addon.argument.ts"

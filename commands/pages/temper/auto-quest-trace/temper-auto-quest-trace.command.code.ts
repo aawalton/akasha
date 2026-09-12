@@ -1,5 +1,5 @@
 import { readFileSync } from "node:fs"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import { questTracePath } from "akasha/commands/arguments/pages/quest-trace-path.argument.ts"
 import {

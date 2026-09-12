@@ -22,7 +22,7 @@ import {
 } from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
 import { isMultiReturnCall } from "akasha/design/language/lua-compiler/visit-extension-multi/visit-extension-multi.module.code.ts"
 import { isGlobalVarargConstant } from "akasha/design/language/lua-compiler/visit-extension-vararg/visit-extension-vararg.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import * as ts from "typescript"
 
 function isOptimizedVarArgSpread(

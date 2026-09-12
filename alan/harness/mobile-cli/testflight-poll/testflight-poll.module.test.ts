@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import type { LatestBuild } from "akasha/alan/harness/mobile-cli/asc-client/asc-client.module.code.ts"
+import type { LatestBuild } from "akasha/alan/harness/mobile-cli/modules/asc-client/asc-client.module.code.ts"
 import {
   classifyInternalBuildState,
   classifyProcessingState,

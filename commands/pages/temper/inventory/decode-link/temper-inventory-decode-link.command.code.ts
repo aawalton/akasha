@@ -1,4 +1,4 @@
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import { link as linkArgument } from "akasha/commands/arguments/pages/link.argument.ts"
 import {

@@ -3,7 +3,7 @@
 import { PanelToggleProvider } from "akasha/design/interfaces/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
 import { useCollapsedGroups } from "akasha/design/interfaces/patterns/use-collapsed-groups/use-collapsed-groups.module.code.ts"
 import type { ViewFilter } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
-import { applySearch } from "akasha/pages/core/view/apply-search/apply-search.module.code.ts"
+import { applySearch } from "akasha/pages/core/view/modules/apply-search/apply-search.module.code.ts"
 import {
   buildTableColumns,
   isCardEligibleProperty,

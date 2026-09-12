@@ -6,7 +6,7 @@ import {
   resolveAndBootSim,
 } from "akasha/alan/harness/mobile-cli/sim-macbook/sim-macbook.module.code.ts"
 import { loadSessionState } from "akasha/alan/harness/mobile-cli/sim-session/sim-session.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { app } from "akasha/commands/arguments/pages/app.argument.ts"
 import { asRealUser } from "akasha/commands/arguments/pages/as-real-user.argument.ts"
 import { kbDebug } from "akasha/commands/arguments/pages/kb-debug.argument.ts"

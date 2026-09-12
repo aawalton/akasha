@@ -6,7 +6,7 @@ import {
   getContexts,
   pickWebviewContext,
   setContext,
-} from "akasha/alan/harness/mobile-cli/appium-client/appium-client.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/modules/appium-client/appium-client.module.code.ts"
 import type { MintedSession } from "akasha/alan/harness/mobile-cli/sim-auth/sim-auth.module.code.ts"
 import {
   mintRealUserSession,

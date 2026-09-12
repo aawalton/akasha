@@ -7,7 +7,7 @@ import {
   addToQueue,
   startResumePlayback,
 } from "akasha/alan/music/spotify/player/spotify-player.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { artist as artistArgument } from "akasha/commands/arguments/pages/artist.argument.ts"
 import { deviceId as deviceIdArgument } from "akasha/commands/arguments/pages/device-id.argument.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"

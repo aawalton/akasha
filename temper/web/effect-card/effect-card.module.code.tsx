@@ -15,7 +15,7 @@ import type { CompanionEffect } from "akasha/temper/companions-core/companion-sk
 import type { CompanionFormulaStats } from "akasha/temper/companions-core/companion-skill-formula/companion-skill-formula.module.code.ts"
 import { calculateEffectValue } from "akasha/temper/companions-core/companion-skill-tooltip/companion-skill-tooltip.module.code.ts"
 import { formatAbbreviated } from "akasha/temper/formula-framework/number-format/number-format.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 interface EffectCardProps {
   effect: CompanionEffect

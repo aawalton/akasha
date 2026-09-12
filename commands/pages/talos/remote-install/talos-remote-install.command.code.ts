@@ -1,4 +1,4 @@
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { confirmWipe as confirmWipeArgument } from "akasha/commands/arguments/pages/confirm-wipe.argument.ts"
 import { ip as ipArgument } from "akasha/commands/arguments/pages/ip.argument.ts"
 import { method as methodArgument } from "akasha/commands/arguments/pages/method.argument.ts"

@@ -8,7 +8,7 @@ import {
   recordRead,
 } from "akasha/agents/read-record/read-record.module.code.ts"
 import { leadingBytes } from "akasha/code/utf8-body/utf8-body.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { filePath } from "akasha/commands/arguments/pages/file-path.argument.ts"
 import { full as fullArgument } from "akasha/commands/arguments/pages/full.argument.ts"
 import {

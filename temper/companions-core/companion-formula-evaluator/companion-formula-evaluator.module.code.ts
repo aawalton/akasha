@@ -3,9 +3,9 @@ import type { CompanionEffectSource } from "akasha/temper/companions-core/compan
 import type { CompanionMetricId } from "akasha/temper/companions-core/companion-metric-ids/companion-metric-ids.module.code.ts"
 import type { CompanionFormulaNode } from "akasha/temper/companions-core/companion-metric-template/companion-metric-template.module.code.ts"
 import { companionMetrics } from "akasha/temper/companions-core/companion-metrics/companion-metrics.module.code.ts"
-import { evaluateArithmeticNode } from "akasha/temper/formula-framework/arithmetic-evaluate/arithmetic-evaluate.module.code.ts"
+import { evaluateArithmeticNode } from "akasha/temper/formula-framework/modules/arithmetic-evaluate/arithmetic-evaluate.module.code.ts"
 import { convertRatingToChance } from "akasha/temper/formula-framework/rating-chance/rating-chance.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 interface CompanionFormulaContext {
   metricValues: Map<CompanionMetricId, number>

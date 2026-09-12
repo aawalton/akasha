@@ -2,7 +2,7 @@ import { basename, dirname, join } from "node:path"
 import {
   type TakenFor,
   takenFor,
-} from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+} from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { floor as floorArgument } from "akasha/commands/arguments/pages/floor.argument.ts"
 import { framesDir as framesDirArgument } from "akasha/commands/arguments/pages/frames-dir.argument.ts"
 import { reference as referenceArgument } from "akasha/commands/arguments/pages/reference.argument.ts"

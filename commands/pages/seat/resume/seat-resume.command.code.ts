@@ -1,4 +1,4 @@
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { seat } from "akasha/commands/arguments/pages/seat.argument.ts"
 import { seatPrompt } from "akasha/commands/arguments/pages/seat-prompt.argument.ts"
 import { startMode } from "akasha/commands/arguments/pages/start-mode.argument.ts"

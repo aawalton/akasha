@@ -16,7 +16,7 @@ import type {
   HeadingLevel,
   V1BlockType,
 } from "akasha/pages/core/property-types/rich-document-ops/rich-document-ops.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import {
   CheckSquare,
   ChevronRight,

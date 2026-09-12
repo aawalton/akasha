@@ -61,8 +61,8 @@ import {
   type SignedInReader,
   userIdFor,
 } from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
-import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
+import { asRecord } from "akasha/utils/narrow/modules/as-record/as-record.module.code.ts"
 
 const TEMPER_INVENTORY_SIBLINGS = ["db", "version"] as const
 

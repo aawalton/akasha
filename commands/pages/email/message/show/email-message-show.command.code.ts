@@ -1,5 +1,5 @@
 import { getMessage } from "akasha/alan/google/email/email-message-fetching/email-message-fetching.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { message } from "akasha/commands/arguments/pages/message.argument.ts"
 import {
   answering,

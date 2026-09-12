@@ -5,7 +5,7 @@ import { basename, dirname, join } from "node:path"
 import {
   type TakenFor,
   takenFor,
-} from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+} from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { baseModel } from "akasha/commands/arguments/pages/base-model.argument.ts"
 import { guidance as guidanceArgument } from "akasha/commands/arguments/pages/guidance.argument.ts"
 import { height as heightArgument } from "akasha/commands/arguments/pages/height.argument.ts"

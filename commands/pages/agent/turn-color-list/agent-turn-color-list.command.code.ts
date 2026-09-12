@@ -4,7 +4,7 @@ import {
   SEAT_TURN_STATES,
   type SeatTurnState,
 } from "akasha/agents/seats/modules/turn-state/seat-turn-state.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { agent as agentArgument } from "akasha/commands/arguments/pages/agent.argument.ts"
 import { turnState } from "akasha/commands/arguments/pages/turn-state.argument.ts"
 import { faulted, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"

@@ -5,7 +5,7 @@ import {
   landedMechanically,
   type runMechanicalChange,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { gradeTarget } from "akasha/commands/arguments/pages/grade-target.argument.ts"
 import { insights } from "akasha/commands/arguments/pages/insights.argument.ts"
 import { insightsFile } from "akasha/commands/arguments/pages/insights-file.argument.ts"

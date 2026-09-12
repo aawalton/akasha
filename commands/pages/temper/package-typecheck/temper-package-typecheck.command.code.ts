@@ -1,6 +1,6 @@
 import { existsSync, readdirSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
 import { packageName } from "akasha/commands/arguments/pages/package-name.argument.ts"
 import {

@@ -6,8 +6,8 @@ import {
   type ViewSort,
 } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import { pageQueryTimeIn } from "akasha/pages/core/view/page-query-times/page-query-times.module.code.ts"
-import { asBoolean } from "akasha/utils/narrow/as-boolean/as-boolean.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
+import { asBoolean } from "akasha/utils/narrow/modules/as-boolean/as-boolean.module.code.ts"
 import { camelizeKey } from "akasha/utils/slug/camelize-key/camelize-key.module.code.ts"
 import * as z from "zod"
 

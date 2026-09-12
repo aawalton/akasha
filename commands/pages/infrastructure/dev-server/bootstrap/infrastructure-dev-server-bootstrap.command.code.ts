@@ -1,5 +1,5 @@
 import { existsSync } from "node:fs"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { force } from "akasha/commands/arguments/pages/force.argument.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import { seq } from "akasha/commands/arguments/pages/seq.argument.ts"

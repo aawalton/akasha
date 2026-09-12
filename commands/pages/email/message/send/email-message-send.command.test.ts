@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
-import { saidForPart } from "akasha/commands/arguments/argument-taking/argument-taking.module.test-fixtures.ts"
+import { saidForPart } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.test-fixtures.ts"
 import { attach } from "akasha/commands/arguments/pages/attach.argument.ts"
 import { bcc } from "akasha/commands/arguments/pages/bcc.argument.ts"
 import { body } from "akasha/commands/arguments/pages/body.argument.ts"

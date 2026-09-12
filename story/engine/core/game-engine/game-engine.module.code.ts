@@ -1,4 +1,4 @@
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 const GAME_ENGINES = ["awen", "idle", "chess"] as const
 export type GameEngine = (typeof GAME_ENGINES)[number]

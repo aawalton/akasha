@@ -47,12 +47,12 @@ import type {
   WeaponSlot,
   WeaponSlotItem,
 } from "akasha/temper/characters-equipment/loadout-types/loadout-types.module.code.ts"
-import type { ArmorSlotId } from "akasha/temper/equipment-kinds/armor-slots/armor-slots.module.code.ts"
 import type {
   EquipmentQualityId,
   EquipmentQualityOptionId,
 } from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
 import type { JewelrySlotId } from "akasha/temper/equipment-kinds/jewelry-slots/jewelry-slots.module.code.ts"
+import type { ArmorSlotId } from "akasha/temper/equipment-kinds/modules/armor-slots/armor-slots.module.code.ts"
 
 export function encodeEquipment(writer: BitWriterState, build: CharacterState): undefined {
   const equipment = build.equipment

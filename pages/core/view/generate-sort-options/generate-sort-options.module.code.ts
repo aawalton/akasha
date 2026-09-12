@@ -1,5 +1,5 @@
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
-import type { SortDirection } from "akasha/pages/core/view/apply-grouping-shared/apply-grouping-shared.module.code.ts"
+import type { SortDirection } from "akasha/pages/core/view/modules/apply-grouping-shared/apply-grouping-shared.module.code.ts"
 
 export interface SortOption {
   value: string

@@ -12,7 +12,7 @@ import {
   stepToPly,
 } from "akasha/alan/chess/state/chess-state.module.code.ts"
 import { useChromeToggle } from "akasha/pages/ui/components/use-chrome-toggle/use-chrome-toggle.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import { Chessground } from "chessground"
 import type { Api as CgApi } from "chessground/api"
 import type { Config as CgConfig } from "chessground/config"

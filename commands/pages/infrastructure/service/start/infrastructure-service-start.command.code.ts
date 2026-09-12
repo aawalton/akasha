@@ -1,4 +1,4 @@
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { dryRun } from "akasha/commands/arguments/pages/dry-run.argument.ts"
 import { workstationService } from "akasha/commands/arguments/pages/workstation-service.argument.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"

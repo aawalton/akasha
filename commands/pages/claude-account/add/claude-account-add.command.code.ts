@@ -3,7 +3,7 @@ import {
   madeIn,
 } from "akasha/agents/claude-accounts/modules/making/claude-account-making.module.code.ts"
 import { aliasIndexesIn } from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { account as accountArgument } from "akasha/commands/arguments/pages/account.argument.ts"
 import { alias } from "akasha/commands/arguments/pages/alias.argument.ts"
 import { email as emailArgument } from "akasha/commands/arguments/pages/email.argument.ts"

@@ -1,4 +1,4 @@
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { cursor as cursorArgument } from "akasha/commands/arguments/pages/cursor.argument.ts"
 import { everyLine } from "akasha/commands/arguments/pages/every-line.argument.ts"
 import { kubeNamespace } from "akasha/commands/arguments/pages/kube-namespace.argument.ts"

@@ -1,6 +1,6 @@
 import { writeFile } from "node:fs/promises"
 import { resolve } from "node:path"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { node as nodeArgument } from "akasha/commands/arguments/pages/node.argument.ts"
 import { output } from "akasha/commands/arguments/pages/output.argument.ts"
 import {

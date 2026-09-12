@@ -20,7 +20,7 @@ import {
 import { wrapInStatement } from "akasha/design/language/lua-compiler/visit-expression-statement/visit-expression-statement.module.code.ts"
 import { transformOptionalChainWithCaptureHolder } from "akasha/design/language/lua-compiler/visit-optional-chain-deps/visit-optional-chain-deps.module.code.ts"
 import type { ExpressionWithThisValue } from "akasha/design/language/lua-compiler/visit-this-value-capture/visit-this-value-capture.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import * as ts from "typescript"
 
 type NormalOptionalChain = ts.PropertyAccessChain | ts.ElementAccessChain | ts.CallChain

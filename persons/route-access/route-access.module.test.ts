@@ -13,7 +13,7 @@ import {
   routeAccessForPerson,
   routeTargetsFor,
 } from "akasha/persons/route-access/route-access.module.code.ts"
-import { asObjectRecord } from "akasha/utils/narrow/as-object-record/as-object-record.module.code.ts"
+import { asObjectRecord } from "akasha/utils/narrow/modules/as-object-record/as-object-record.module.code.ts"
 
 const ACCOUNT_NOBODY_STATES = "00000000-0000-7000-8000-000000000000"
 

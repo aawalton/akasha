@@ -1,4 +1,4 @@
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { scope } from "akasha/commands/arguments/pages/scope.argument.ts"
 import { toggle } from "akasha/commands/arguments/pages/toggle.argument.ts"
 import { toggleTarget } from "akasha/commands/arguments/pages/toggle-target.argument.ts"

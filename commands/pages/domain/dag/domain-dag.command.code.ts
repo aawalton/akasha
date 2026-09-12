@@ -1,5 +1,5 @@
 import { resolve } from "node:path"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { descent } from "akasha/commands/arguments/pages/descent.argument.ts"
 import { paths } from "akasha/commands/arguments/pages/paths.argument.ts"
 import { rootDomain } from "akasha/commands/arguments/pages/root-domain.argument.ts"

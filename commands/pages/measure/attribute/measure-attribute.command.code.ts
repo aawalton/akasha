@@ -1,6 +1,6 @@
 import { pointsTotalKept } from "akasha/alan/attributes/points/attribute-points.module.code.ts"
 import { levelOf } from "akasha/alan/attributes/properties/attribute-level.computed-property.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import {
   DATA,
   refusedBy,

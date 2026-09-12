@@ -23,7 +23,7 @@ import {
   type ItemKey,
   type UseDestinationContext,
 } from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
-import { asObjectRecord } from "akasha/utils/narrow/as-object-record/as-object-record.module.code.ts"
+import { asObjectRecord } from "akasha/utils/narrow/modules/as-object-record/as-object-record.module.code.ts"
 export function findInspireCharacterIdByPriority(itemLink: string): string | undefined {
   const craftingType = inferDeconCraftingType(itemLink)
   if (craftingType === CRAFTING_TYPE_INVALID) return undefined

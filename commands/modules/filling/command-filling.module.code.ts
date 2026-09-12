@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
-import { routeFor } from "akasha/commands/arguments/routing/argument-routing.module.code.ts"
+import { routeFor } from "akasha/commands/arguments/modules/routing/argument-routing.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { inputIn, type Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"

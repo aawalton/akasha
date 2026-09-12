@@ -12,13 +12,13 @@ import type {
   GroupGranularity,
   ViewFilter,
 } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
-import { GROUP_NONE_KEY } from "akasha/pages/core/view/apply-grouping-shared/apply-grouping-shared.module.code.ts"
 import { pageDayKey } from "akasha/pages/core/view/calendar-date-to-value/calendar-date-to-value.module.code.ts"
 import { applyGranularityBucket } from "akasha/pages/core/view/group-granularity/group-granularity.module.code.ts"
+import { GROUP_NONE_KEY } from "akasha/pages/core/view/modules/apply-grouping-shared/apply-grouping-shared.module.code.ts"
 import {
   adjustTotalForClientFilters,
   applyClientViewFilters,
-} from "akasha/pages/ui/supabase/apply-client-view-filters/apply-client-view-filters.module.code.ts"
+} from "akasha/pages/ui/supabase/modules/apply-client-view-filters/apply-client-view-filters.module.code.ts"
 import {
   type PageWithProperties,
   toPageWithProperties,

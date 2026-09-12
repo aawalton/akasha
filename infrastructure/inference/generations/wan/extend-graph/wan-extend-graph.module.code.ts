@@ -3,7 +3,7 @@ import type {
   ComfyNode,
 } from "akasha/infrastructure/inference/comfy/graph/comfy-graph.module.code.ts"
 import { buildWanBackbone } from "akasha/infrastructure/inference/generations/wan/backbone/wan-backbone.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 export type ExtendDirection = "forward" | "back"
 

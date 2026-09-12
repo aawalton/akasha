@@ -23,7 +23,7 @@ import {
 } from "akasha/seat-system/supervising/supervisor-exec/supervisor-exec.module.code.ts"
 import { resolveRemoteControlEnv } from "akasha/seat-system/supervising/supervisor-remote-control-env/supervisor-remote-control-env.module.code.ts"
 import type { InheritedProc } from "akasha/seat-system/supervising/supervisor-types/supervisor-types.module.code.ts"
-import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
+import { asRecord } from "akasha/utils/narrow/modules/as-record/as-record.module.code.ts"
 
 export function adoptInheritedProc(pid: number, childExitRule: ChildExitRuleSource): InheritedProc {
   if (!isProcessAlive(pid)) {

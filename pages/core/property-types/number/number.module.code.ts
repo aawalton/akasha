@@ -10,7 +10,7 @@ import {
   type NumberFormat,
   numberConfigSchema,
 } from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 export function toNumber(value: PropertyValue): number | null {
   if (value === null || value === undefined || value === "") return null

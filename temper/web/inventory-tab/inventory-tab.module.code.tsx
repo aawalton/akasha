@@ -20,7 +20,7 @@ import {
   type GuildBankListState,
   resolveGuildBankListState,
 } from "akasha/temper/web/guild-bank-list-state/guild-bank-list-state.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import { AlertCircle, Package } from "lucide-react"
 import { useMemo } from "react"
 

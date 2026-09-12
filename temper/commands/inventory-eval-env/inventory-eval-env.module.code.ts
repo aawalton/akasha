@@ -3,7 +3,7 @@ import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/motif-chapter-set/mo
 import type { ItemKey } from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
 import type { EvalEnv } from "akasha/temper/items-rules-eval/eval-env/eval-env.module.code.ts"
 import { skillLines } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 export interface CliEvalEnvDeps {
   readonly charactersById: ReadonlyMap<string, CharacterKnowledge>

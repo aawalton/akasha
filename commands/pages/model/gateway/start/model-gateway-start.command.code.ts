@@ -1,4 +1,4 @@
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { agentId } from "akasha/commands/arguments/pages/agent-id.argument.ts"
 import { gatewayLogDir } from "akasha/commands/arguments/pages/gateway-log-dir.argument.ts"
 import { gatewayPort } from "akasha/commands/arguments/pages/gateway-port.argument.ts"

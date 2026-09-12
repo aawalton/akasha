@@ -11,11 +11,11 @@ import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import type { ViewSort } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
-import type { PageResolver } from "akasha/pages/core/view/apply-grouping-shared/apply-grouping-shared.module.code.ts"
+import type { PageResolver } from "akasha/pages/core/view/modules/apply-grouping-shared/apply-grouping-shared.module.code.ts"
 import {
   getDefaultGroupSorts,
   sortGroupedResults,
-} from "akasha/pages/core/view/apply-grouping-sort/apply-grouping-sort.module.code.ts"
+} from "akasha/pages/core/view/modules/apply-grouping-sort/apply-grouping-sort.module.code.ts"
 import type { ServerGroupedSection } from "akasha/pages/ui/components/page-system-tab-content-props/page-system-tab-content-props.module.code.ts"
 import { PageTimeline } from "akasha/pages/ui/components/page-timeline/page-timeline.module.code.tsx"
 import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"

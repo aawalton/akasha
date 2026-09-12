@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { saidForPart } from "akasha/commands/arguments/argument-taking/argument-taking.module.test-fixtures.ts"
+import { saidForPart } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.test-fixtures.ts"
 import { cluster } from "akasha/commands/arguments/pages/cluster.argument.ts"
 import { ip } from "akasha/commands/arguments/pages/ip.argument.ts"
 import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"

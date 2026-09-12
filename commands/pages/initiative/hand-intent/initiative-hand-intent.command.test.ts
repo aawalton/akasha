@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { fromInitiative } from "akasha/commands/arguments/pages/from-initiative.argument.ts"
 import { statement } from "akasha/commands/arguments/pages/statement.argument.ts"
 import { toInitiative } from "akasha/commands/arguments/pages/to-initiative.argument.ts"

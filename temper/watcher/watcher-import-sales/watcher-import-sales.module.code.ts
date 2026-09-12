@@ -1,5 +1,5 @@
 import { upsertPage } from "akasha/pages/access/upsert/upsert.module.code.ts"
-import { assertSchemaMatchesPayload } from "akasha/temper/capture-host/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
+import { assertSchemaMatchesPayload } from "akasha/temper/capture-host/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
 import type { SalesPayload } from "akasha/temper/capture-sales/sales-payload/sales-payload.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
 import { readFirstAccountWide } from "akasha/temper/saved-variables/modules/account-wide/account-wide.module.code.ts"
@@ -9,8 +9,8 @@ import {
   type SignedInReader,
   userIdFor,
 } from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
-import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
+import { asRecord } from "akasha/utils/narrow/modules/as-record/as-record.module.code.ts"
 import { slugOf } from "akasha/utils/slug/slug-of/slug-of.module.code.ts"
 import { z } from "zod"
 

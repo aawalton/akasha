@@ -1,4 +1,4 @@
-import type { StandardArmorWeightId } from "akasha/temper/equipment/armor-weight-ids/armor-weight-ids.module.code.ts"
+import type { StandardArmorWeightId } from "akasha/temper/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
 import type {
   ArmorPieceScalingEffect,
   Effect,

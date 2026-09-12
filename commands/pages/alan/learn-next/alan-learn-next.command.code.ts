@@ -8,7 +8,7 @@ import {
   type Topic,
   topicTreeIn,
 } from "akasha/alan/library/book-of-everything/topic-tree/topic-tree.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import {
   DATA,

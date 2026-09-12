@@ -1,4 +1,4 @@
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { calendar } from "akasha/commands/arguments/pages/calendar.argument.ts"
 import { event } from "akasha/commands/arguments/pages/event.argument.ts"
 import {

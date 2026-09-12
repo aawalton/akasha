@@ -1,4 +1,3 @@
-import { validateAssignment } from "akasha/design/language/lua-compiler/assignment-validation/assignment-validation.module.code.ts"
 import type { TransformationContext } from "akasha/design/language/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
 import type { FunctionVisitor } from "akasha/design/language/lua-compiler/context-visitors/context-visitors.module.code.ts"
 import { addExportToIdentifier } from "akasha/design/language/lua-compiler/export-scope/export-scope.module.code.ts"
@@ -12,6 +11,7 @@ import * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-exp
 import * as luaStatements from "akasha/design/language/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
 import { transformLuaLibFunction } from "akasha/design/language/lua-compiler/lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "akasha/design/language/lua-compiler/lualib-features/lualib-features.module.code.ts"
+import { validateAssignment } from "akasha/design/language/lua-compiler/modules/assignment-validation/assignment-validation.module.code.ts"
 import { transformInPrecedingStatementScope } from "akasha/design/language/lua-compiler/preceding-statements/preceding-statements.module.code.ts"
 import { unsupportedVarDeclaration } from "akasha/design/language/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
 import { assert, cast } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
@@ -22,7 +22,7 @@ import {
 } from "akasha/design/language/lua-compiler/visit-function-shape/visit-function-shape.module.code.ts"
 import { transformIdentifier } from "akasha/design/language/lua-compiler/visit-identifier/visit-identifier.module.code.ts"
 import { transformPropertyName } from "akasha/design/language/lua-compiler/visit-property-name/visit-property-name.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import * as ts from "typescript"
 
 export function transformArrayBindingElement(

@@ -2,7 +2,7 @@ import type {
   DisplayFormulaNode,
   NumberFormat,
 } from "akasha/temper/formula-framework/display-formula-node/display-formula-node.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 type ParentContext = "root" | "add" | "multiply" | "divide" | "floor" | "max" | "min" | "group"
 

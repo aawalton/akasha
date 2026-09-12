@@ -7,16 +7,6 @@ import type {
   ViewConfig,
   ViewSort,
 } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
-import { generateGroupOptions } from "akasha/pages/core/view/apply-grouping/apply-grouping.module.code.ts"
-import type {
-  GroupOption,
-  GroupSortOption,
-} from "akasha/pages/core/view/apply-grouping-shared/apply-grouping-shared.module.code.ts"
-import {
-  generateGroupSortOptions,
-  getDefaultGroupSorts,
-} from "akasha/pages/core/view/apply-grouping-sort/apply-grouping-sort.module.code.ts"
-import { applyView } from "akasha/pages/core/view/apply-view/apply-view.module.code.ts"
 import {
   generateFilterDimensions,
   type PageFilterDimension,
@@ -25,6 +15,16 @@ import {
   generateSortOptions,
   type SortOption,
 } from "akasha/pages/core/view/generate-sort-options/generate-sort-options.module.code.ts"
+import { generateGroupOptions } from "akasha/pages/core/view/modules/apply-grouping/apply-grouping.module.code.ts"
+import type {
+  GroupOption,
+  GroupSortOption,
+} from "akasha/pages/core/view/modules/apply-grouping-shared/apply-grouping-shared.module.code.ts"
+import {
+  generateGroupSortOptions,
+  getDefaultGroupSorts,
+} from "akasha/pages/core/view/modules/apply-grouping-sort/apply-grouping-sort.module.code.ts"
+import { applyView } from "akasha/pages/core/view/modules/apply-view/apply-view.module.code.ts"
 import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
 import { usePageResolverOptional } from "akasha/pages/ui/contexts/page-resolver-context/page-resolver-context.module.code.tsx"
 import { useCallback, useMemo, useRef } from "react"

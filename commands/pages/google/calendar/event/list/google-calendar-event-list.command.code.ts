@@ -1,4 +1,4 @@
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { calendar } from "akasha/commands/arguments/pages/calendar.argument.ts"
 import { eventQuery } from "akasha/commands/arguments/pages/event-query.argument.ts"
 import { max } from "akasha/commands/arguments/pages/max.argument.ts"

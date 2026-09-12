@@ -2,7 +2,7 @@ import { readFile, writeFile } from "node:fs/promises"
 import {
   type TakenFor,
   takenFor,
-} from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+} from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { alphaMatting as alphaMattingArgument } from "akasha/commands/arguments/pages/alpha-matting.argument.ts"
 import { cutout as cutoutArgument } from "akasha/commands/arguments/pages/cutout.argument.ts"
 import { cutoutOut as cutoutOutArgument } from "akasha/commands/arguments/pages/cutout-out.argument.ts"

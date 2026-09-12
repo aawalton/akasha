@@ -11,7 +11,7 @@ import {
   parseShareToken,
   resolveOutputDir,
 } from "akasha/alan/harness/icloud-photos/modules/album-pulling/album-pulling.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { album } from "akasha/commands/arguments/pages/album.argument.ts"
 import { json as jsonArgument } from "akasha/commands/arguments/pages/json.argument.ts"
 import { output } from "akasha/commands/arguments/pages/output.argument.ts"

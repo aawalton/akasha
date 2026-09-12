@@ -7,7 +7,7 @@ import type {
   PricingData,
   TTCPriceEntry,
 } from "akasha/temper/trading-pricing/pricing-types/pricing-types.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 const ARMOR_TTC_ITEMS: Record<string, string> = {
   "head:light": "23761",

@@ -2,7 +2,7 @@ import {
   nameOf,
   supervisorOf,
 } from "akasha/agents/seats/modules/reading/seat-reading.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { everySeat } from "akasha/commands/arguments/pages/every-seat.argument.ts"
 import {
   answering,

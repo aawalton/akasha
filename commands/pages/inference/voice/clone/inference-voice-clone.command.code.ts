@@ -3,7 +3,7 @@ import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit
 import {
   type TakenFor,
   takenFor,
-} from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+} from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { mode as modeArgument } from "akasha/commands/arguments/pages/mode.argument.ts"
 import { noPersist } from "akasha/commands/arguments/pages/no-persist.argument.ts"
 import { output as outputArgument } from "akasha/commands/arguments/pages/output.argument.ts"

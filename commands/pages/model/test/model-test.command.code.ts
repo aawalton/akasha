@@ -3,7 +3,7 @@ import {
   type Judged,
   runningOf,
 } from "akasha/agents/models/tests/running/model-test-running.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { broken as brokenArgument } from "akasha/commands/arguments/pages/broken.argument.ts"
 import { cases } from "akasha/commands/arguments/pages/cases.argument.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"

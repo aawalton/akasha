@@ -15,7 +15,7 @@ import {
 } from "akasha/alan/harness/imessage/send/imessage-send.module.code.ts"
 import { streamSshLines } from "akasha/alan/harness/ssh-access/ssh-reach/ssh-reach.module.code.ts"
 import type { SshTarget } from "akasha/alan/harness/ssh-access/ssh-target/ssh-target.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { image as imageArgument } from "akasha/commands/arguments/pages/image.argument.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import { text as textArgument } from "akasha/commands/arguments/pages/text.argument.ts"

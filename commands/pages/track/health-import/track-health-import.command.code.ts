@@ -9,7 +9,7 @@ import {
   MAX_IMPORT_BATCH,
   runHealthImport,
 } from "akasha/alan/harness/health-samples-import/health-import-run/health-import-run.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { batch as batchArgument } from "akasha/commands/arguments/pages/batch.argument.ts"
 import { dryRun as dryRunArgument } from "akasha/commands/arguments/pages/dry-run.argument.ts"
 import { firstDay } from "akasha/commands/arguments/pages/first-day.argument.ts"

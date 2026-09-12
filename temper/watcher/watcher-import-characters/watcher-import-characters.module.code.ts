@@ -17,7 +17,7 @@ import {
   type SignedInReader,
   userIdFor,
 } from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
-import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
+import { asRecord } from "akasha/utils/narrow/modules/as-record/as-record.module.code.ts"
 
 const CHARACTERS_GLOBAL = "TemperCharacters_SavedVariables"
 const CHARACTER_PAGE_TYPE_SLUG = "temper-account-character"
