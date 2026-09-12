@@ -7,7 +7,7 @@ export const imessage = {
   definition: "Alan's messages on iMessage",
   parts: [
     "command/imessage-contacts",
-    "command/imessage-recent",
+    "command/imessage-recent-list",
     "command/imessage-search",
     "command/imessage-send",
     "command/imessage-unread-list",
