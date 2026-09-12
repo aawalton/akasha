@@ -1,10 +1,11 @@
 import { resolve } from "node:path"
 import {
+  asJson,
   DATA,
-  INPUT,
-  OK,
   OPERATIONAL,
   refused,
+  refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -181,7 +182,7 @@ export async function temperInventoryMasterConsumableTrace(
   given?: Given
 ): Promise<Answer> {
   const read = readInventoryFileArgs(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
+  if ("refused" in read) return refusedBy(read.refused)
   const root = given === undefined ? process.cwd() : resolve(given.root)
   const at =
     read.inventoryPath === null ? savedVarsFile(INVENTORY_LUA) : resolve(root, read.inventoryPath)
@@ -192,6 +193,6 @@ export async function temperInventoryMasterConsumableTrace(
     return refused(whyOf(thrown), OPERATIONAL)
   }
   if ("why" in held) return refused(held.why, DATA)
-  if (read.json) return { report: [JSON.stringify(held.traces)], refusals: [], code: OK }
-  return { report: [...consumableTraceSaid(held.traces)], refusals: [], code: OK }
+  if (read.json) return asJson(held.traces)
+  return told([...consumableTraceSaid(held.traces)])
 }
