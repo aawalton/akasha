@@ -7,10 +7,7 @@ export const initiativeDeleteIntent = {
   definition: "the command taking one intent out of the initiative stating that intent",
   code: "ts",
   test: "ts",
-  taking: [
-    { said: "<initiative>", takes: "the initiative stating the intent" },
-    { said: "<statement>", takes: "the statement the intent being taken out states" },
-  ],
+  taking: [{ said: "<statement>", takes: "the statement the intent being taken out states" }],
 
   invariants: [
     {
@@ -73,4 +70,5 @@ export const initiativeDeleteIntent = {
     },
   ],
   name: "delete-intent",
+  arguments: [{ argument: "argument/initiative", required: true, saidAs: "word" }],
 } as const satisfies Command

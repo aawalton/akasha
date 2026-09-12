@@ -9,7 +9,6 @@ export const initiativeMoveIntent = {
   code: "ts",
   test: "ts",
   taking: [
-    { said: "<initiative>", takes: "the initiative whose intents are being ordered" },
     { said: "<statement>", takes: "the statement the intent being moved states" },
     { said: "<onto>", takes: "the statement the intent it is moved onto states" },
   ],
@@ -96,4 +95,5 @@ export const initiativeMoveIntent = {
     },
   ],
   name: "move-intent",
+  arguments: [{ argument: "argument/initiative", required: true, saidAs: "word" }],
 } as const satisfies Command

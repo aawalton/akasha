@@ -7,7 +7,7 @@ export const initiativeDelete = {
   definition: "the command taking one initiative's page away with the files beside that page",
   code: "ts",
   test: "ts",
-  taking: [{ said: "<initiative>", takes: "the initiative being taken away" }],
+  taking: [],
 
   invariants: [
     {
@@ -80,4 +80,5 @@ export const initiativeDelete = {
     },
   ],
   name: "delete",
+  arguments: [{ argument: "argument/initiative", required: true, saidAs: "word" }],
 } as const satisfies Command
