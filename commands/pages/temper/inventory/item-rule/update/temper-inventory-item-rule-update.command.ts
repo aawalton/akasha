@@ -18,11 +18,15 @@ export const temperInventoryItemRuleUpdate = {
     { said: "--stock-quantity <n>", takes: "how many the destination is stocked up to" },
     { said: "--force", takes: "change it even where it is locked" },
   ],
-  helpNotes: [
-    "a locked per-item rule is refused rather than changed, unless `--force` is said.",
-    "a title, a note and a goal are held for the web alone and never reach the addon.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A locked per-item rule is refused unless the call says `--force`.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing the web alone shows reaches the addon.",
+    },
     {
       invariantKind: "departure",
       statement: "An id no per-item rule carries refuses the call.",
