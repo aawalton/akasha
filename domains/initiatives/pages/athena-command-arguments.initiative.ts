@@ -33,7 +33,7 @@ export const athenaCommandArguments = {
     {
       statement: "A key piped into a command is one of that command's arguments.",
       workingMemory:
-        "Each of the 47 acts reads its keys from `const`s in its own `changes/agent/**/*.change-agent.code.ts`, and no module names them. A key is required where its read is guarded by a `missing` refusal. `untaken` at `change-answer.module.code.ts:61` is reached by 2 acts, so a misspelled key is silent in the other 45. `to` is overloaded eight ways, and only `at` is read against the repository root. Do these keys wait on the argument-page design?\n",
+        "All 47 acts refuse an unknown key now, from one reader at `change-loading.module.code.ts:129-152` and one wording at `change-answer.module.code.ts:62-67` — `8c65a674d1f` through `179c0471d8d`. Eight refusals drawn live, all exit 1. `to` names nine kinds of thing across sixteen acts; `at` is the only key read against the repository root. Should a change act move onto the `commands/arguments/` mechanism, which already carries this refusal?",
     },
     {
       statement: "No command page states `taking`.",
