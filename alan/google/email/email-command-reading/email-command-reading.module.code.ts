@@ -3,8 +3,7 @@ import { isAbsolute, resolve } from "node:path"
 import { buildComposeInput } from "akasha/alan/google/email/compose-input-from-arguments/compose-input-from-arguments.module.code.ts"
 import type { ComposeInput } from "akasha/alan/google/email/email-shapes/email-shapes.module.code.ts"
 import {
-  OPERATIONAL,
-  partWay,
+  answering,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -196,12 +195,7 @@ export function refusing(said: readonly string[], code: number): Answer {
 }
 
 export async function answeredBy(run: (done: string[]) => Promise<Answer>): Promise<Answer> {
-  const done: string[] = []
-  try {
-    return await run(done)
-  } catch (thrown) {
-    return { report: done, refusals: [whyOf(thrown), ...partWay(done)], code: OPERATIONAL }
-  }
+  return await answering(run)
 }
 
 type Held = { readonly text: string } | { readonly why: string }

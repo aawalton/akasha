@@ -13,8 +13,14 @@ import {
   SUBJECT_FILING,
   type Taking,
 } from "akasha/alan/google/email/email-command-reading/email-command-reading.module.code.ts"
-import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  DataError,
+  OperationalError,
+} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import {
+  DATA,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
@@ -48,6 +54,22 @@ test("a call that threw before gmail took anything names no write", async () => 
 
   expect(held.report).toEqual([])
   expect(held.refusals.some((one) => one.includes("stopped part way"))).toBe(false)
+})
+
+test("a fault carrying a code of its own is answered with that code", async () => {
+  const held = await answeredBy(async () => {
+    throw new DataError("no message answers that id")
+  })
+
+  expect(held.code).toBe(DATA)
+})
+
+test("a fault says where that fault was thrown", async () => {
+  const held = await answeredBy(async () => {
+    throw new OperationalError("gmail would not answer")
+  })
+
+  expect(held.refusals[1]).toMatch(/^thrown at \/.+\.module\.test\.ts:\d+:\d+$/)
 })
 
 const NAMING: Taking = { valued: [MESSAGE], needed: [MESSAGE], named: MESSAGE }
