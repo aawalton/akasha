@@ -1,15 +1,16 @@
+import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { framesOf, whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 
-export const OK = 0
+export const OK: number = EXIT.OK
 
-export const INPUT = 1
+export const INPUT: number = EXIT.INPUT
 
-export const DATA = 2
+export const DATA: number = EXIT.DATA
 
-export const OPERATIONAL = 3
+export const OPERATIONAL: number = EXIT.OPERATIONAL
 
-export const UNCLASSIFIED = 70
+export const UNCLASSIFIED: number = EXIT.UNCLASSIFIED
 
 const CARRIES_A_CODE: ReadonlySet<string> = new Set([
   "ExitError",
