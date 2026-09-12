@@ -17,7 +17,7 @@ export const athenaCommandModules = {
       statement:
         "A command that wrote before it threw says in its refusal what that command wrote.",
       workingMemory:
-        "`agent subagent-sweep`, `music capture`, `mechanical-filing` and `track landing` each answer what they wrote beside their refusals now, each with a test. `deploy.command.code.ts:245` catches its own throw and answers the commit and that what it put up may be partial. No test reaches `putUp`, and `deploy.command.ts` takes no invariant for it until its help notes move out. Does deploy thread back what it put up before it threw, or is the commit enough?\n",
+        "Deploy names what reached a machine before a fault, inference installing included (`9bafe896a32`); `pushedImage` needs none. `inference segment` names each file as it writes (`95f3e2a8f1e`, `0f5b19cfaf4`), and `answering` now hands every command a list 46 others could fill. One is left: `akasha index refresh` writes thousands of index files. Does its refusal name the eight stages it finished, or the stage in flight and the files written inside it?",
     },
     {
       statement: "A refusal's exit code says what kind of thing went wrong.",
