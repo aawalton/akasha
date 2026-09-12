@@ -9,11 +9,6 @@ export const athenaCommandHelp = {
   parent: "athena-commands-cleanup",
   intents: [
     {
-      statement: "A command's help parts what that command does from what it does not do yet.",
-      workingMemory:
-        "`helpOf` at `commands/modules/help-writing/help-writing.module.code.ts` writes every invariant a command's page states, unmarked. 17 across the 225 command pages are `gap` — `gap.invariant-kind.ts` calls a gap an invariant that does not hold yet — so a caller reads `The rendering of the registry is in akasha.` as a fact about the command they are about to run. Filtering means either spelling the kind slugs in the renderer or reading the index there. Which?",
-    },
-    {
       statement: "A command stating nothing taken answers the help flag rather than refusing it.",
       workingMemory:
         "The five that ignored `argv` and the one that refused now answer, in `5a7dc204b0f` through `718d429a17e`. Six are left, all under `akasha change`, and their code refuses the flag: `wordlessIn` at `change-arguing.module.code.ts:6` and `change-show.command.code.ts:92`. Three state `No taking is stated here.` as an invariant of their own, against `taking.record-property.ts:24`. Do those six state what they take, or does that property carve out a command reading what is piped in?",
