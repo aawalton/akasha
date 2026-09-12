@@ -1,6 +1,10 @@
 import { expect, test } from "bun:test"
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import {
+  appiumStartedSaid,
+  simBootedSaid,
+} from "akasha/alan/harness/mobile-cli/sim-macbook/sim-macbook.module.code.ts"
+import {
   answering,
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -8,14 +12,11 @@ import type {
   Booting,
   Read,
 } from "akasha/commands/pages/mobile/sim/boot/mobile-sim-boot.command.code.ts"
-import {
-  booted,
-  startedSaid,
-} from "akasha/commands/pages/mobile/sim/boot/mobile-sim-boot.command.code.ts"
+import { booted } from "akasha/commands/pages/mobile/sim/boot/mobile-sim-boot.command.code.ts"
 
 const BASE = "http://mac:4723"
 
-const STARTED = startedSaid(BASE)
+const STARTED = appiumStartedSaid(BASE)
 
 const READ: Read = { udid: undefined }
 
@@ -55,6 +56,23 @@ test("a boot that threw after starting Appium names that start in its refusal", 
   expect(held.report).toEqual([STARTED])
   const last = held.refusals[held.refusals.length - 1] as string
   expect(last).toContain(STARTED)
+})
+
+const BOOTED = simBootedSaid("mac")
+
+const SIM_UNREADABLE = booting({
+  sim: (done) => {
+    done.push(BOOTED)
+    return Promise.reject(new OperationalError("could not resolve a simulator udid"))
+  },
+})
+
+test("a simulator booted before the udid would not be read is named in the refusal", async () => {
+  const held = await answering(async (done) => await booted(READ, done, SIM_UNREADABLE))
+
+  expect(held.report).toEqual([STARTED, BOOTED])
+  const last = held.refusals[held.refusals.length - 1] as string
+  expect(last).toContain(`${STARTED}; ${BOOTED}`)
 })
 
 test("a boot that threw before Appium was started names nothing", async () => {

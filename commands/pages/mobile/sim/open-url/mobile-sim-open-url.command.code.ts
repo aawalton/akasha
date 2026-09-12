@@ -1,6 +1,8 @@
 import type { MobileApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import { openSession } from "akasha/alan/harness/mobile-cli/sim-driver/sim-driver.module.code.ts"
 import {
+  appiumIsUp,
+  appiumStartedSaid,
   ensureAppium,
   resolveAndBootSim,
 } from "akasha/alan/harness/mobile-cli/sim-macbook/sim-macbook.module.code.ts"
@@ -59,9 +61,13 @@ export function readIn(argv: readonly string[]): Reading<Read> {
   }
 }
 
-async function opened(read: Read, done: string[]): Promise<Answer> {
+export type Routing = (done: string[], read: Read) => Promise<Answer>
+
+async function opened(done: string[], read: Read): Promise<Answer> {
+  const wasUp = await appiumIsUp()
   const base = await ensureAppium()
-  const udid = read.udid ?? loadSessionState()?.udid ?? (await resolveAndBootSim())
+  if (!wasUp) done.push(appiumStartedSaid(base))
+  const udid = read.udid ?? loadSessionState()?.udid ?? (await resolveAndBootSim(done))
   const state = await openSession(
     {
       base,
@@ -84,8 +90,11 @@ async function opened(read: Read, done: string[]): Promise<Answer> {
   )
 }
 
-export async function mobileSimOpenUrl(argv: readonly string[]): Promise<Answer> {
+export async function mobileSimOpenUrl(
+  argv: readonly string[],
+  routing: Routing = opened
+): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) return refusedBy(read.refused)
-  return await answering(async (done) => await opened(read, done))
+  return await answering(async (done) => await routing(done, read))
 }

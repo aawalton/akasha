@@ -101,6 +101,14 @@ export function parseInstalledUdid(stdout: string): string {
   }
 }
 
+export function appiumStartedSaid(base: string): string {
+  return `started the mac's Appium server at ${base}`
+}
+
+export function simBootedSaid(host: string): string {
+  return `booted a simulator on ${host}, and nothing here shuts one down again`
+}
+
 export async function ensureAppium(): Promise<string> {
   if (await appiumReady(APPIUM_BASE)) return APPIUM_BASE
   await runSshCapture(MACBOOK, buildStartAppiumScript())
@@ -115,8 +123,9 @@ export async function ensureAppium(): Promise<string> {
   )
 }
 
-export async function resolveAndBootSim(preferredUdid?: string): Promise<string> {
+export async function resolveAndBootSim(done: string[], preferredUdid?: string): Promise<string> {
   const out = await runSshCapture(MACBOOK, buildResolveAndBootSimScript(preferredUdid))
+  done.push(simBootedSaid(MACBOOK.host))
   return parseResolvedUdid(out)
 }
 

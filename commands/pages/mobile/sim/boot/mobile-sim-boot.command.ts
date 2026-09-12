@@ -41,6 +41,11 @@ export const mobileSimBoot = {
       invariantKind: "absence",
       statement: "Nothing here opens a session or installs a build.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A simulator this booted is named even where the udid it booted would not be read back.",
+    },
   ],
   name: "boot",
   arguments: [{ argument: "argument/udid" }],

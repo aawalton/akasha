@@ -28,5 +28,10 @@ export const simMacbook = {
       invariantKind: "constraint",
       statement: "build-sim.sh reports success by printing a BUILD_SIM_OK line with the udid.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A simulator booted is named before the udid it booted is read back, which can fail.",
+    },
   ],
 } as const satisfies Module

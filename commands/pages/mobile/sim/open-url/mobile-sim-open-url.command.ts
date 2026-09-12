@@ -6,6 +6,7 @@ export const mobileSimOpenUrl = {
   slug: "mobile-sim-open-url",
   definition: "the command opening a route in the simulator and leaving a session at it",
   code: "ts",
+  test: "ts",
 
   invariants: [
     {
@@ -36,6 +37,11 @@ export const mobileSimOpenUrl = {
       invariantKind: "departure",
       statement:
         "A call naming no simulator takes the session's own simulator or the first booted simulator.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An Appium server this started and a simulator this booted are named in the refusal.",
     },
   ],
   name: "open-url",
