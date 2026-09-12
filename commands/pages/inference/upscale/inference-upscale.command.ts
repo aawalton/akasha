@@ -11,7 +11,6 @@ export const inferenceUpscale = {
     { said: "--image <path>", takes: "that image said as a flag instead" },
     { said: "--host <where>", takes: "which GPU the work runs on" },
     { said: "--resolution <px>", takes: "how many pixels the shortest edge is remade at" },
-    { said: "--seed <n>", takes: "the sampler seed" },
     { said: "--no-persist", takes: "leave the image where it was written and file no page for it" },
   ],
   invariants: [
@@ -50,5 +49,5 @@ export const inferenceUpscale = {
     },
   ],
   name: "upscale",
-  arguments: [{ argument: "argument/output" }],
+  arguments: [{ argument: "argument/output" }, { argument: "argument/seed" }],
 } as const satisfies Command

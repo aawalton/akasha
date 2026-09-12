@@ -23,7 +23,6 @@ export const inferenceZimage = {
     { said: "--guidance <f>", takes: "how far the sampler is pushed toward the prompt" },
     { said: "--lora-paths <path>", takes: "the one checkpoint the render is measured against" },
     { said: "--lora-scales <f>", takes: "how strongly that checkpoint is mixed in" },
-    { said: "--seed <n>", takes: "the sampler seed" },
   ],
   invariants: [
     {
@@ -86,5 +85,9 @@ export const inferenceZimage = {
     },
   ],
   name: "zimage",
-  arguments: [{ argument: "argument/output" }, { argument: "argument/timeout" }],
+  arguments: [
+    { argument: "argument/output" },
+    { argument: "argument/timeout" },
+    { argument: "argument/seed" },
+  ],
 } as const satisfies Command
