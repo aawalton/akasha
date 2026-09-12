@@ -6,7 +6,7 @@ export const pageIconSearchIndexGenerate = {
   slug: "page-icon-search-index-generate",
   definition: "the command building the icon search index from a lucide release, staged as bodies",
   code: "ts",
-  taking: [{ said: "--stage <path>", takes: "the folder the bodies are staged in" }],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -61,5 +61,5 @@ export const pageIconSearchIndexGenerate = {
     },
   ],
   name: "icon-search-index-generate",
-  arguments: [{ argument: "argument/code-root" }],
+  arguments: [{ argument: "argument/code-root" }, { argument: "argument/stage" }],
 } as const satisfies Command

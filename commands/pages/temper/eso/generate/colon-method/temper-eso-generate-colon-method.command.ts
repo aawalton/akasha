@@ -11,11 +11,6 @@ export const temperEsoGenerateColonMethod = {
       said: "--eso-root <path>",
       takes: "the game's Lua source root, the `~/esoui` clone where none is said",
     },
-    {
-      said: "--stage <path>",
-      takes:
-        "the directory the bodies are staged in, a fresh one under /var/tmp where none is said",
-    },
   ],
   invariants: [
     {
@@ -57,5 +52,5 @@ export const temperEsoGenerateColonMethod = {
     },
   ],
   name: "colon-method",
-  arguments: [{ argument: "argument/code-root" }],
+  arguments: [{ argument: "argument/code-root" }, { argument: "argument/stage" }],
 } as const satisfies Command
