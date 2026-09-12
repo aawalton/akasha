@@ -12,11 +12,13 @@ export const INDEXES = "indexes"
 
 export const TREES = "trees"
 
+export const DEPLOYS = "deploys"
+
 export const LANDING_LOCK = "akasha-landing.lock"
 
 export const HARNESS_LANDING_LOCK = "harness-landing.lock"
 
-export const STORES: readonly string[] = [CACHE, DATA, HANDOFF, INDEXES, TREES]
+export const STORES: readonly string[] = [CACHE, DATA, DEPLOYS, HANDOFF, INDEXES, TREES]
 
 export const KEPT: readonly string[] = [...STORES, LANDING_LOCK, HARNESS_LANDING_LOCK]
 

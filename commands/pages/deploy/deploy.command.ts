@@ -24,6 +24,7 @@ export const deploy = {
     "module/deploy-addon-installing",
     "module/deploy-bundle-publishing",
     "module/deploy-tree-pinning",
+    "module/deploy-holding",
   ],
   invariants: [
     {
@@ -239,6 +240,11 @@ export const deploy = {
     {
       invariantKind: "departure",
       statement: "The putting up a deploy runs is handed in.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A thing already being put up refuses a second deploy of that thing rather than waiting on it.",
     },
   ],
   name: "deploy",

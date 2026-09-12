@@ -30,7 +30,7 @@ function abandoned(at: string): boolean {
   return held === null ? agedOut(at) : !alive(held)
 }
 
-function taken(at: string, mine: string): boolean {
+export function taken(at: string, mine: string): boolean {
   try {
     const held = openSync(at, "wx")
     writeSync(held, mine)

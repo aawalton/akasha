@@ -153,7 +153,7 @@ test("a commit flag with nothing after it is refused rather than read as a flag"
 test("a commit named as an empty word is refused rather than read as the head", async () => {
   const answer = await deploy(["atlas", "--ref", ""], HERE)
   expect(answer.code).toBe(1)
-  expect(answer.refusals[0]).toContain("takes the commit to build")
+  expect(answer.refusals[0]).toContain("names none")
 })
 
 test("a commit named twice is refused rather than chosen between", async () => {

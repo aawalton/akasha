@@ -46,6 +46,7 @@ import {
   touchedIn,
   unionOf,
 } from "akasha/commands/pages/deploy/file-closure/deploy-file-closure.module.code.ts"
+import { heldWhile } from "akasha/commands/pages/deploy/holding/deploy-holding.module.code.ts"
 import { pushedImage } from "akasha/commands/pages/deploy/image-pushing/deploy-image-pushing.module.code.ts"
 import { putUpInferenceService } from "akasha/commands/pages/deploy/inference-installing/deploy-inference-installing.module.code.ts"
 import { shipIosApp } from "akasha/commands/pages/deploy/ios-shipping/deploy-ios-shipping.module.code.ts"
@@ -200,6 +201,19 @@ export async function deploy(
   if (unfit !== null) return refused(unfit, INPUT)
   if (read.kind === IOS_APP && wanted.device) return await installedOnDevice(slug)
   if (read.kind === IOS_APP && wanted.simulator) return await installedOnSimulator(slug, given)
+  const alone = await heldWhile(given.root, slug, () =>
+    deployHeld(read, slug, wanted, given, putting)
+  )
+  return "refused" in alone ? refused(alone.refused, OPERATIONAL) : alone.value
+}
+
+export async function deployHeld(
+  read: Read,
+  slug: string,
+  wanted: Wanted,
+  given: Given,
+  putting: PuttingUp
+): Promise<Answer> {
   const commit = commitAt(given.root, wanted.ref)
   if (commit === null) return refused(saidOfNoCommit(wanted.ref ?? AT_HEAD), INPUT)
   const closures = read.every === true ? closuresOf(given.root, read.kind, commit) : null
