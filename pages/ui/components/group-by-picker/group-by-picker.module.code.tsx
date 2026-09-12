@@ -1,8 +1,8 @@
 "use client"
 
-import { AddSortButton } from "akasha/design/interfaces/patterns/add-sort-button/add-sort-button.module.code.tsx"
 import { FilterGroup } from "akasha/design/interfaces/patterns/filter-group/filter-group.module.code.tsx"
 import type { GroupOption } from "akasha/design/interfaces/patterns/group-button/group-button.module.code.tsx"
+import { AddSortButton } from "akasha/design/interfaces/patterns/modules/add-sort-button/add-sort-button.module.code.tsx"
 import { SortableSortList } from "akasha/design/interfaces/patterns/sort-group/sort-group.module.code.tsx"
 import type {
   SortEntry,

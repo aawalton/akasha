@@ -6,11 +6,11 @@ import { buildNodePath } from "akasha/design/interfaces/patterns/path/path.modul
 import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
 import { StatRow } from "akasha/design/interfaces/patterns/stat-row/stat-row.module.code.tsx"
 import { useSetToggle } from "akasha/design/interfaces/patterns/use-set-toggle/use-set-toggle.module.code.ts"
+import { completionPercent } from "akasha/temper/player-completion/completion-percent/completion-percent.module.code.ts"
 import {
   ACTIVITY_CATEGORIES,
   type ActivityCategoryId,
-} from "akasha/temper/player-completion/activity-categories/activity-categories.module.code.ts"
-import { completionPercent } from "akasha/temper/player-completion/completion-percent/completion-percent.module.code.ts"
+} from "akasha/temper/player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import { useCompletionActivityMode } from "akasha/temper/player-completion-ui/completion-activity-mode-context/completion-activity-mode-context.module.code.tsx"
 import { useCompletionSearch } from "akasha/temper/player-completion-ui/completion-search-context/completion-search-context.module.code.tsx"
 import { CheckIcon, MinusIcon } from "lucide-react"

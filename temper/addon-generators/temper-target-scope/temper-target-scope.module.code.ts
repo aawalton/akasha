@@ -1,5 +1,5 @@
-import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
 import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
+import type { Page } from "akasha/temper/addon-generators/modules/addon-data-page/addon-data-page.module.code.ts"
 import { ranksOf } from "akasha/temper/addon-generators/rank-by-key/rank-by-key.module.code.ts"
 import { targetScopes } from "akasha/temper/skill-kinds/target-scopes/target-scopes.module.code.ts"
 import { z } from "zod"

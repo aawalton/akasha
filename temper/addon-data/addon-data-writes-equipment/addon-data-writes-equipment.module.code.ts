@@ -4,8 +4,8 @@ import {
   TEMPER_EQUIPMENT_TRAITS_OUTPUT_DIR,
   TEMPER_EQUIPMENT_WEAPON_OUTPUT_DIR,
   TEMPER_INVENTORY_CORE_OUTPUT_DIR,
-} from "akasha/temper/addon-data/addon-data-output-dirs/addon-data-output-dirs.module.code.ts"
-import type { AddonDataPages } from "akasha/temper/addon-data/addon-data-pages/addon-data-pages.module.code.ts"
+} from "akasha/temper/addon-data/modules/addon-data-output-dirs/addon-data-output-dirs.module.code.ts"
+import type { AddonDataPages } from "akasha/temper/addon-data/modules/addon-data-pages/addon-data-pages.module.code.ts"
 import { generateTemperArmorEnchant } from "akasha/temper/addon-generators/temper-armor-enchant/temper-armor-enchant.module.code.ts"
 import { generateTemperArmorTrait } from "akasha/temper/addon-generators/temper-armor-trait/temper-armor-trait.module.code.ts"
 import { generateTemperArmorWeight } from "akasha/temper/addon-generators/temper-armor-weight/temper-armor-weight.module.code.ts"

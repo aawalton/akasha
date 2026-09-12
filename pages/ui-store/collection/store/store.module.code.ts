@@ -1,21 +1,6 @@
 import type { Collection } from "@tanstack/db"
 import { RosterUnreachable } from "akasha/pages/access/file-backed-roster/file-backed-roster.module.code.ts"
 import {
-  type AcquireRegistry,
-  acquireShape as acquireShapeIn,
-  acquireSlug as acquireSlugIn,
-  attachDetachedShapes,
-  createAcquireRegistry,
-  isShapeReady as isShapeReadyIn,
-  isSlugReady as isSlugReadyIn,
-  markSeededReady,
-  markShapeReady,
-  releaseShape as releaseShapeIn,
-  releaseSlug as releaseSlugIn,
-  whenShapeReady as whenShapeReadyIn,
-  whenSlugReady as whenSlugReadyIn,
-} from "akasha/pages/ui-store/collection/acquire/acquire.module.code.ts"
-import {
   attachFetch,
   type FetchImpl,
   FILE_BACKING_POLL_MS,
@@ -30,6 +15,21 @@ import {
   applyIdentityChange,
   decideIdentityChange,
 } from "akasha/pages/ui-store/collection/identity-change/identity-change.module.code.ts"
+import {
+  type AcquireRegistry,
+  acquireShape as acquireShapeIn,
+  acquireSlug as acquireSlugIn,
+  attachDetachedShapes,
+  createAcquireRegistry,
+  isShapeReady as isShapeReadyIn,
+  isSlugReady as isSlugReadyIn,
+  markSeededReady,
+  markShapeReady,
+  releaseShape as releaseShapeIn,
+  releaseSlug as releaseSlugIn,
+  whenShapeReady as whenShapeReadyIn,
+  whenSlugReady as whenSlugReadyIn,
+} from "akasha/pages/ui-store/collection/modules/acquire/acquire.module.code.ts"
 import {
   asPageRowList,
   type PageRow,

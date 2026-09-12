@@ -19,11 +19,11 @@ import {
 import {
   getActionLabel,
   SELL_ACTIONS,
-} from "akasha/temper/player-inventory-management-ui/action-options/action-options.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/modules/action-options/action-options.module.code.ts"
 
 const SELL_ACTION_VALUES: ReadonlySet<string> = SELL_ACTIONS
 
-import { parseActionFilter } from "akasha/temper/player-inventory-management-ui/action-filter-utils/action-filter-utils.module.code.ts"
+import { parseActionFilter } from "akasha/temper/player-inventory-management-ui/modules/action-filter-utils/action-filter-utils.module.code.ts"
 
 const LOCATION_TYPE_SET = new Set<string>(locationTypes.ids)
 

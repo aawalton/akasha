@@ -7,7 +7,7 @@ import {
 import { CATALOG_CAPTURE_DESCRIPTOR } from "akasha/temper/catalog-core/catalog-descriptor/catalog-descriptor.module.code.ts"
 import type { CatalogPayload } from "akasha/temper/catalog-core/catalog-payload/catalog-payload.module.code.ts"
 import { setCatalogSavedVariablesAccessor } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
-import "akasha/temper/game-catalog-capture-addon/achievement-catalog-capture/achievement-catalog-capture.module.code.ts"
+import "akasha/temper/game-catalog-capture-addon/modules/achievement-catalog-capture/achievement-catalog-capture.module.code.ts"
 import "akasha/temper/game-catalog-capture-addon/recipe-catalog-capture/recipe-catalog-capture.module.code.ts"
 import "akasha/temper/game-catalog-capture-addon/lore-library-catalog-capture/lore-library-catalog-capture.module.code.ts"
 import "akasha/temper/game-catalog-capture-addon/antiquity-lore-catalog-capture/antiquity-lore-catalog-capture.module.code.ts"

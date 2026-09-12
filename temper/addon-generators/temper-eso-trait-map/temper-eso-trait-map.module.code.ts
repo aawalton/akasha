@@ -1,5 +1,5 @@
-import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
 import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
+import type { Page } from "akasha/temper/addon-generators/modules/addon-data-page/addon-data-page.module.code.ts"
 import { z } from "zod"
 
 const TRAIT_FAMILY_SCHEMA = z.union([z.literal("weapon"), z.literal("armor"), z.literal("jewelry")])

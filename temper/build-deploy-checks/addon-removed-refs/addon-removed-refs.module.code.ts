@@ -1,9 +1,9 @@
-import { maskStringLiterals } from "akasha/temper/build-deploy-checks/addon-banned-symbols/addon-banned-symbols.module.code.ts"
 import {
   REMOVED_EXTERNAL_ADDON_GLOBALS,
   type RemovedAddonGlobal,
 } from "akasha/temper/build-deploy-checks/addon-removed-refs-manifest/addon-removed-refs-manifest.module.code.ts"
 import { scanningBundleFile } from "akasha/temper/build-deploy-checks/bundle-file-scan/bundle-file-scan.module.code.ts"
+import { maskStringLiterals } from "akasha/temper/build-deploy-checks/modules/addon-banned-symbols/addon-banned-symbols.module.code.ts"
 import { escapeRegExp } from "akasha/utils/narrow/escape-reg-exp/escape-reg-exp.module.code.ts"
 import { z } from "zod"
 

@@ -3,7 +3,7 @@ import { withSidecars } from "akasha/temper/addon-data/catalog-sidecars/catalog-
 import {
   asPage,
   type Page,
-} from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+} from "akasha/temper/addon-generators/modules/addon-data-page/addon-data-page.module.code.ts"
 
 function pageOf(
   pageTypeSlug: string,

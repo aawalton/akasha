@@ -23,7 +23,7 @@ import {
 import {
   isAccountTerminal,
   markAccountTerminal,
-} from "akasha/seat-system/seat-credential/account-terminal/account-terminal.module.code.ts"
+} from "akasha/seat-system/seat-credential/modules/account-terminal/account-terminal.module.code.ts"
 import {
   reportOAuthRecovered,
   reportTerminalOAuthError,

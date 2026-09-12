@@ -2,13 +2,13 @@
 
 import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
-import type { AddonDataPages } from "akasha/temper/addon-data/addon-data-pages/addon-data-pages.module.code.ts"
+import { ADDON_DATA_SECTIONS } from "akasha/temper/addon-data/addon-data-writes/addon-data-writes.module.code.ts"
+import { fetchMinedRestorePotions } from "akasha/temper/addon-data/mined-restore-potions/mined-restore-potions.module.code.ts"
+import type { AddonDataPages } from "akasha/temper/addon-data/modules/addon-data-pages/addon-data-pages.module.code.ts"
 import {
   ASKED,
   answered,
-} from "akasha/temper/addon-data/addon-data-pages/addon-data-pages.module.code.ts"
-import { ADDON_DATA_SECTIONS } from "akasha/temper/addon-data/addon-data-writes/addon-data-writes.module.code.ts"
-import { fetchMinedRestorePotions } from "akasha/temper/addon-data/mined-restore-potions/mined-restore-potions.module.code.ts"
+} from "akasha/temper/addon-data/modules/addon-data-pages/addon-data-pages.module.code.ts"
 
 const WHY_MOST = 160
 

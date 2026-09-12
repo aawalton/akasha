@@ -7,8 +7,8 @@ import { textAt } from "akasha/pages/value-reading/page-value-reading.module.cod
 import {
   ARCHIVE_NAME,
   packedBundle,
-} from "akasha/temper/addon-build/addon-bundling/addon-bundling.module.code.ts"
-import { compiledEveryAddon } from "akasha/temper/addon-build/addon-compiling/addon-compiling.module.code.ts"
+} from "akasha/temper/addon-build/modules/addon-bundling/addon-bundling.module.code.ts"
+import { compiledEveryAddon } from "akasha/temper/addon-build/modules/addon-compiling/addon-compiling.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 const PUSH_CEILING_MS = 5 * 60 * 1000

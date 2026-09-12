@@ -1,8 +1,8 @@
 import {
   TEMPER_EQUIPMENT_SETS_OUTPUT_DIR,
   TEMPER_INVENTORY_CORE_OUTPUT_DIR,
-} from "akasha/temper/addon-data/addon-data-output-dirs/addon-data-output-dirs.module.code.ts"
-import type { AddonDataPages } from "akasha/temper/addon-data/addon-data-pages/addon-data-pages.module.code.ts"
+} from "akasha/temper/addon-data/modules/addon-data-output-dirs/addon-data-output-dirs.module.code.ts"
+import type { AddonDataPages } from "akasha/temper/addon-data/modules/addon-data-pages/addon-data-pages.module.code.ts"
 import { generateSetCategoryMappings } from "akasha/temper/addon-data/render-set-category-mappings/render-set-category-mappings.module.code.ts"
 import { generateTemperSet } from "akasha/temper/addon-generators/temper-set/temper-set.module.code.ts"
 import { generateTemperSetCategory } from "akasha/temper/addon-generators/temper-set-category/temper-set-category.module.code.ts"

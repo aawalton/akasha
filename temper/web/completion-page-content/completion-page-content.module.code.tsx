@@ -19,16 +19,16 @@ import { Button } from "akasha/design/interfaces/primitives/button/button.module
 import { useDebouncedValue } from "akasha/design/interfaces/primitives/use-debounced-value/use-debounced-value.module.code.ts"
 import { useKeyboardBinding } from "akasha/design/interfaces/primitives/use-keyboard-registry/use-keyboard-registry.module.code.ts"
 import { PagesUILink as Link } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
-import {
-  ACTIVITY_CATEGORIES,
-  type ActivityCategoryId,
-} from "akasha/temper/player-completion/activity-categories/activity-categories.module.code.ts"
 import { getCompletionCardTab } from "akasha/temper/player-completion/completion-card-tab/completion-card-tab.module.code.ts"
 import {
   isAccountMeasured,
   isCharacterMeasured,
   isCompanionMeasured,
 } from "akasha/temper/player-completion/completion-measured/completion-measured.module.code.ts"
+import {
+  ACTIVITY_CATEGORIES,
+  type ActivityCategoryId,
+} from "akasha/temper/player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import { CompletionActivityModeContext } from "akasha/temper/player-completion-ui/completion-activity-mode-context/completion-activity-mode-context.module.code.tsx"
 import type {
   CompletionFilter,

@@ -4,7 +4,7 @@ import {
   type ActionPresentation,
   type ActionVerbContext,
   registerActionVerb,
-} from "akasha/pages/ui/action-verbs/action-verb-registry/action-verb-registry.module.code.ts"
+} from "akasha/pages/ui/action-verbs/modules/action-verb-registry/action-verb-registry.module.code.ts"
 import { z } from "zod"
 
 const lockCardSchema = z

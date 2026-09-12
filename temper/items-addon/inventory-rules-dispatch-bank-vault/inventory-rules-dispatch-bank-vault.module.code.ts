@@ -13,7 +13,7 @@ import {
 } from "akasha/temper/items-addon/inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
 import { findMatchedRule } from "akasha/temper/items-addon/inventory-rules-eval/inventory-rules-eval.module.code.ts"
 import { slotKey } from "akasha/temper/items-addon/inventory-slot-key/inventory-slot-key.module.code.ts"
-import { isBackpackRequiredAction } from "akasha/temper/items-rules-core/action-storage-capability/action-storage-capability.module.code.ts"
+import { isBackpackRequiredAction } from "akasha/temper/items-rules-core/modules/action-storage-capability/action-storage-capability.module.code.ts"
 
 interface VaultWithdrawal {
   readonly slotIndex: number

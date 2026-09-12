@@ -8,8 +8,8 @@ import {
   cleanCharacterCompletionInput,
   cleanCompanionCompletionInput,
 } from "akasha/temper/completion-import/completion-input-schema/completion-input-schema.module.code.ts"
-import { readFirstAccountWide } from "akasha/temper/saved-variables/account-wide/account-wide.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
+import { readFirstAccountWide } from "akasha/temper/saved-variables/modules/account-wide/account-wide.module.code.ts"
 import { asRecord, asRecordOrEmpty } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 

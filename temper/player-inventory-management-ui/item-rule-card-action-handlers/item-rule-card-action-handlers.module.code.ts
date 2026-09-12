@@ -11,7 +11,7 @@ import {
   ACTION_OPTIONS,
   SELL_ACTIONS,
   SELL_DESTINATION_OPTIONS,
-} from "akasha/temper/player-inventory-management-ui/action-options/action-options.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/modules/action-options/action-options.module.code.ts"
 
 type UpdateItemRule = (
   ruleId: string,

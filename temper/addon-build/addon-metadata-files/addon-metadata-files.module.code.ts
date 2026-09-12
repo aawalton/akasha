@@ -2,7 +2,7 @@ import { existsSync } from "node:fs"
 import { join, relative } from "node:path"
 import { bindings } from "akasha/code/eso-addons/properties/bindings.file-property.ts"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { readEsoAddonPage } from "akasha/temper/addon-build/addon-compiler-config/addon-compiler-config.module.code.ts"
+import { readEsoAddonPage } from "akasha/temper/addon-build/modules/addon-compiler-config/addon-compiler-config.module.code.ts"
 
 export const GAME_METADATA_DIR = "metadata"
 

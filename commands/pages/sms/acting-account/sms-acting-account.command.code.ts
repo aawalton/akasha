@@ -1,4 +1,4 @@
-import { extractActingAccountUserId } from "akasha/alan/harness/sms-core/acting-account/acting-account.module.code.ts"
+import { extractActingAccountUserId } from "akasha/alan/harness/sms-core/modules/acting-account/acting-account.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { surfaceFile } from "akasha/commands/arguments/pages/surface-file.argument.ts"
 import { refusedBy, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"

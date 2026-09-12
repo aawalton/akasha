@@ -7,8 +7,6 @@ import {
 import { PageTabHeader } from "akasha/design/interfaces/layout/page-tab-header/page-tab-header.module.code.tsx"
 import { PanelToggleProvider } from "akasha/design/interfaces/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
 import { LayoutLink } from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
-import { AddFilterButton } from "akasha/design/interfaces/patterns/add-filter-button/add-filter-button.module.code.tsx"
-import { addFilterId } from "akasha/design/interfaces/patterns/add-filter-id/add-filter-id.module.code.ts"
 import {
   Empty,
   EmptyContent,
@@ -19,22 +17,24 @@ import {
 } from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
 import { FilterButton } from "akasha/design/interfaces/patterns/filter-button/filter-button.module.code.tsx"
 import { FilterGroup } from "akasha/design/interfaces/patterns/filter-group/filter-group.module.code.tsx"
+import { AddFilterButton } from "akasha/design/interfaces/patterns/modules/add-filter-button/add-filter-button.module.code.tsx"
+import { addFilterId } from "akasha/design/interfaces/patterns/modules/add-filter-id/add-filter-id.module.code.ts"
 import { SearchButton } from "akasha/design/interfaces/patterns/search-button/search-button.module.code.tsx"
 import { SearchSortFilterRow } from "akasha/design/interfaces/patterns/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
 import { SortButton } from "akasha/design/interfaces/patterns/sort-button/sort-button.module.code.tsx"
 import { TabsContent } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
 import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
 import { Card, CardContent } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
-import type { ActivityCategoryId } from "akasha/temper/player-completion/activity-categories/activity-categories.module.code.ts"
 import type { AccountSummaryData } from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
+import type { ActivityCategoryId } from "akasha/temper/player-completion/modules/activity-categories/activity-categories.module.code.ts"
+import { useCompletionToolbar } from "akasha/temper/web/completion-toolbar-context/completion-toolbar-context.module.code.tsx"
 import {
   ACCOUNT_FILTERS,
   type FilterId,
   isFilterId,
-} from "akasha/temper/web/account-filters/account-filters.module.code.ts"
-import { AccountPanelGrid } from "akasha/temper/web/account-panel-grid/account-panel-grid.module.code.tsx"
-import type { AccountProgressData } from "akasha/temper/web/account-progress/account-progress.module.code.ts"
-import { useCompletionToolbar } from "akasha/temper/web/completion-toolbar-context/completion-toolbar-context.module.code.tsx"
+} from "akasha/temper/web/modules/account-filters/account-filters.module.code.ts"
+import { AccountPanelGrid } from "akasha/temper/web/modules/account-panel-grid/account-panel-grid.module.code.tsx"
+import type { AccountProgressData } from "akasha/temper/web/modules/account-progress/account-progress.module.code.ts"
 import { Globe } from "lucide-react"
 import { useState } from "react"
 

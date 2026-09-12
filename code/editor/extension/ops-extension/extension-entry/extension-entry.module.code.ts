@@ -1,7 +1,3 @@
-import {
-  type Startable,
-  startIsolated,
-} from "akasha/code/editor/extension/activation/activation.module.code.ts"
 import * as agentTree from "akasha/code/editor/extension/agent-tree-panel/agent-tree-panel.module.code.ts"
 import * as commandTree from "akasha/code/editor/extension/command-tree-panel/command-tree-panel.module.code.ts"
 import * as domainTree from "akasha/code/editor/extension/domain-tree-panel/domain-tree-panel.module.code.ts"
@@ -10,6 +6,10 @@ import {
   commandServerHeard,
   disposeCommandServer,
 } from "akasha/code/editor/extension/harness-call/harness-call.module.code.ts"
+import {
+  type Startable,
+  startIsolated,
+} from "akasha/code/editor/extension/modules/activation/activation.module.code.ts"
 import {
   createObservationStore,
   recordObservation,

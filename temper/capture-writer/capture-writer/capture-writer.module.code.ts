@@ -7,7 +7,7 @@ import {
   finishPerfTrace,
   startPerfTrace,
 } from "akasha/temper/capture-perf/perf-trace/perf-trace.module.code.ts"
-import { makeAccountWideSavedVars } from "akasha/temper/capture-writer/account-wide-vars/account-wide-vars.module.code.ts"
+import { makeAccountWideSavedVars } from "akasha/temper/capture-writer/modules/account-wide-vars/account-wide-vars.module.code.ts"
 
 export interface CaptureWriter<T> {
   readonly initializeSavedVariables: (this: void) => T

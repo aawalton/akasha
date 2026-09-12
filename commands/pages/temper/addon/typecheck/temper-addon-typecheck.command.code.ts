@@ -14,7 +14,7 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { temperAddonTypecheck as page } from "akasha/commands/pages/temper/addon/typecheck/temper-addon-typecheck.command.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
-import { compilerConfigPathFor } from "akasha/temper/addon-build/addon-compiler-config/addon-compiler-config.module.code.ts"
+import { compilerConfigPathFor } from "akasha/temper/addon-build/modules/addon-compiler-config/addon-compiler-config.module.code.ts"
 import {
   type AddonInfo,
   listAllAddons,
