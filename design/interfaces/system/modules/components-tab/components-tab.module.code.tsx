@@ -3,9 +3,6 @@
 import { PageTabHeader } from "akasha/design/interfaces/layout/page-tab-header/page-tab-header.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
 import { TabsContent } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
-import { ComponentsSelectionPanels } from "akasha/design/interfaces/system/components-selection-panels/components-selection-panels.module.code.tsx"
-import { ComponentsSkeletonPanels } from "akasha/design/interfaces/system/components-skeleton-panels/components-skeleton-panels.module.code.tsx"
-import { ComponentsSortFilterPanels } from "akasha/design/interfaces/system/components-sort-filter-panels/components-sort-filter-panels.module.code.tsx"
 import { ComponentsTextDisplayPanels } from "akasha/design/interfaces/system/components-text-display-panels/components-text-display-panels.module.code.tsx"
 import { ComponentsCompoundNavPanels } from "akasha/design/interfaces/system/modules/components-compound-nav-panels/components-compound-nav-panels.module.code.tsx"
 import { ComponentsCompoundPanels } from "akasha/design/interfaces/system/modules/components-compound-panels/components-compound-panels.module.code.tsx"
@@ -17,6 +14,9 @@ import { ComponentsItemDisplayPanels } from "akasha/design/interfaces/system/mod
 import { ComponentsListGridPanels } from "akasha/design/interfaces/system/modules/components-list-grid-panels/components-list-grid-panels.module.code.tsx"
 import { ComponentsMenuPanels } from "akasha/design/interfaces/system/modules/components-menu-panels/components-menu-panels.module.code.tsx"
 import { ComponentsOverlayPanels } from "akasha/design/interfaces/system/modules/components-overlay-panels/components-overlay-panels.module.code.tsx"
+import { ComponentsSelectionPanels } from "akasha/design/interfaces/system/modules/components-selection-panels/components-selection-panels.module.code.tsx"
+import { ComponentsSkeletonPanels } from "akasha/design/interfaces/system/modules/components-skeleton-panels/components-skeleton-panels.module.code.tsx"
+import { ComponentsSortFilterPanels } from "akasha/design/interfaces/system/modules/components-sort-filter-panels/components-sort-filter-panels.module.code.tsx"
 
 export function ComponentsTabContent() {
   return (

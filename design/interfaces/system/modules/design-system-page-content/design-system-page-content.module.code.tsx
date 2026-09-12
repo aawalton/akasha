@@ -10,9 +10,9 @@ import {
   Tabs,
   TabsList,
 } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
-import { ComponentsTabContent } from "akasha/design/interfaces/system/components-tab/components-tab.module.code.tsx"
 import { LayoutTabContent } from "akasha/design/interfaces/system/layout-tab/layout-tab.module.code.tsx"
 import { BrandTabContent } from "akasha/design/interfaces/system/modules/brand-tab/brand-tab.module.code.tsx"
+import { ComponentsTabContent } from "akasha/design/interfaces/system/modules/components-tab/components-tab.module.code.tsx"
 import { PatternsTabContent } from "akasha/design/interfaces/system/patterns-tab/patterns-tab.module.code.tsx"
 import { TokensTabContent } from "akasha/design/interfaces/system/tokens-tab/tokens-tab.module.code.tsx"
 import { BookOpen, Component, LayoutGrid, Palette, Puzzle } from "lucide-react"
