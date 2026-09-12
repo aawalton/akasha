@@ -17,6 +17,7 @@ import {
 } from "akasha/agents/seats/modules/modes/seat-modes.module.code.ts"
 import { mintNamedAgent } from "akasha/agents/seats/modules/name-bind/seat-name-bind.module.code.ts"
 import { refuseHeldName } from "akasha/agents/seats/modules/name-held-refusal/seat-name-held-refusal.module.code.ts"
+import { refuseParentless } from "akasha/agents/seats/modules/parentless-refusal/seat-parentless-refusal.module.code.ts"
 import {
   dataError,
   inputError,
@@ -34,7 +35,6 @@ import {
   principals,
 } from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 import { launchSeatUnderTmux } from "akasha/seat-system/launch-seat-tmux/launch-seat-tmux.module.code.ts"
-import { refuseParentless } from "akasha/seat-system/seat-parentless-refusal/seat-parentless-refusal.module.code.ts"
 import { composedNameOf } from "akasha/seat-system/seat-rename/seat-rename.module.code.ts"
 import { defaultFor } from "akasha/seat-system/seat-resolve/seat-resolve.module.code.ts"
 import {
