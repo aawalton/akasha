@@ -6,6 +6,7 @@ export const temperAutoQuestTrace = {
   slug: "temper-auto-quest-trace",
   definition: "the command reading the auto-quest debug trace the quests addon captured",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

@@ -1,22 +1,22 @@
 import { readFileSync } from "node:fs"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { questTracePath } from "akasha/commands/arguments/pages/quest-trace-path.argument.ts"
 import {
   asJson,
   DATA,
   refused,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import {
-  saidFor,
-  saidShort,
-} from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { temperAutoQuestTrace as page } from "akasha/commands/pages/temper/auto-quest-trace/temper-auto-quest-trace.command.ts"
+import { saidShort } from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { TEMPER_QUESTS_SAVED_VARIABLES } from "akasha/temper/quests-trace/auto-quest-trace/auto-quest-trace.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
 
-const FILE_PATH_FLAG = "--file-path"
-
-const JSON_FLAG = "--json"
+const NAMED = [json, questTracePath]
 
 const SAVED_VARIABLES_NAME = "TemperQuests_SavedVariables"
 
@@ -91,8 +91,11 @@ function linesOf(entry: TraceEntry): readonly string[] {
   ]
 }
 
-export function temperAutoQuestTrace(argv: readonly string[] = []): Answer {
-  const tracePath = saidFor(argv, FILE_PATH_FLAG) ?? savedVarsFile(CAPTURE_FILE)
+export function temperAutoQuestTrace(argv: readonly string[], given: Given): Answer {
+  const read = takenFor(argv, given.calledAs, page, NAMED)
+  if ("refused" in read) return mistaking(read.refused)
+  const taken = read.taken
+  const tracePath = taken.questTracePath ?? savedVarsFile(CAPTURE_FILE)
 
   let content: string
   try {
@@ -114,7 +117,7 @@ export function temperAutoQuestTrace(argv: readonly string[] = []): Answer {
 
   if (entries.length === 0) return refused(`${tracePath} ${NOTHING_CAPTURED}`, DATA)
 
-  if (argv.includes(JSON_FLAG)) {
+  if (taken.json) {
     return asJson(entries)
   }
 
