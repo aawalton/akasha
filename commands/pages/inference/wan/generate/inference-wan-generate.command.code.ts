@@ -52,7 +52,7 @@ export async function inferenceWanGenerate(argv: readonly string[], given: Given
   if ("refused" in read) return refusedBy(read.refused)
   const report: string[] = []
   try {
-    return await generating(read.taken, given, argv, report)
+    return await generating(read.taken, given, report)
   } catch (thrown) {
     return { report, refusals: [whyOf(thrown)], code: OPERATIONAL }
   }

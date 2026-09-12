@@ -34,11 +34,6 @@ export function targetOf(host: InferenceHost): {
   return { user: host.user, host: host.address, keyPath: host.keyPath }
 }
 
-export function madeOf(called: string, argv: readonly string[]): string {
-  const quoted = argv.map((one) => (/\s/.test(one) ? `'${one}'` : one))
-  return `${called} ${quoted.join(" ")}`.trim()
-}
-
 export function wroteTo(path: string, bytes: Uint8Array, what: string): string {
   return `wrote ${bytes.byteLength} bytes (${what}) to ${path}`
 }

@@ -54,7 +54,7 @@ export async function inferenceWanExtend(argv: readonly string[], given: Given):
   if ("refused" in read) return refusedBy(read.refused)
   const report: string[] = []
   try {
-    return await extending(read.taken, given, argv, report)
+    return await extending(read.taken, given, report)
   } catch (thrown) {
     return { report, refusals: [whyOf(thrown)], code: OPERATIONAL }
   }

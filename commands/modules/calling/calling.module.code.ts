@@ -66,6 +66,7 @@ export type Outside = {
   readonly from: string
   readonly writer: string | null
   readonly agentId: string | null
+  readonly calledWhole?: string
 }
 
 export type Answer = {
@@ -236,6 +237,11 @@ function notYetIn(root: string): ReadonlySet<string> {
   return found
 }
 
+export function wholeOf(called: string, argv: readonly string[]): string {
+  const quoted = argv.map((one) => (/\s/.test(one) ? `'${one}'` : one))
+  return `${called} ${quoted.join(" ")}`.trim()
+}
+
 async function calledAt(
   level: Level,
   above: readonly Level[],
@@ -287,6 +293,7 @@ async function calledAt(
     return await answers(argv, {
       root,
       calledAs,
+      calledWhole: wholeOf(calledAs, argv),
       from: outside.from,
       writer: outside.writer,
       agentId: outside.agentId,

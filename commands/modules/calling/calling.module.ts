@@ -109,6 +109,18 @@ export const calling = {
     },
     {
       invariantKind: "departure",
+      statement: "That call is told whole as one line as well as word by word.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A word carrying a space is written back inside single quotes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A command filing a record of its run writes that line rather than spelling one.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A help answer is titled by the call that reached the command.",
     },
     {

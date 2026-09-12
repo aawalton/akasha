@@ -29,10 +29,7 @@ import {
   selectFrameIndices,
   toPngDataUrl,
 } from "akasha/infrastructure/inference/clients/mlx-vlm-client/mlx-vlm-client.module.code.ts"
-import {
-  madeOf,
-  serviceNamed,
-} from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
+import { serviceNamed } from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/record/inference-run-record.module.code.ts"
 import {
   finishInferenceRun,
@@ -206,7 +203,7 @@ export async function inferenceVideoQa(
     timeout: taken.timeout ?? DEFAULT_TIMEOUT_SEC,
     videoPath: taken.video,
     framesDir: taken.framesDir,
-    commandLine: madeOf(given.calledAs, argv),
+    commandLine: given.calledWhole ?? given.calledAs,
   }
   return await answering(async (done) => await asking(done, read))
 }

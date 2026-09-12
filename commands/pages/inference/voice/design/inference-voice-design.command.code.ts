@@ -27,7 +27,6 @@ import {
 } from "akasha/infrastructure/inference/clients/inference-output-path/inference-output-path.module.code.ts"
 import { isRiff } from "akasha/infrastructure/inference/clients/riff-bytes/riff-bytes.module.code.ts"
 import {
-  madeOf,
   serviceNamed,
   wroteTo,
 } from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
@@ -123,7 +122,7 @@ export async function inferenceVoiceDesign(argv: readonly string[], given: Given
       operation: "voice-design",
       model: backend.model,
       host: reached.service.host,
-      commandLine: madeOf(given.calledAs, argv),
+      commandLine: given.calledWhole ?? given.calledAs,
       startedAt: new Date(nowMs).toISOString(),
       instruct,
       text,

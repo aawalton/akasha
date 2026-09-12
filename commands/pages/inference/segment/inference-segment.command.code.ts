@@ -30,7 +30,6 @@ import {
   type SegmentOutput,
 } from "akasha/infrastructure/inference/clients/segment-client/segment-client.module.code.ts"
 import {
-  madeOf,
   serviceNamed,
   wroteTo,
 } from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
@@ -115,7 +114,7 @@ export async function inferenceSegment(argv: readonly string[], given: Given): P
       operation: "segment",
       model,
       host: reached.service.host,
-      commandLine: madeOf(given.calledAs, argv),
+      commandLine: given.calledWhole ?? given.calledAs,
       startedAt: new Date(nowMs).toISOString(),
       inputImagePath: imagePath,
       inputImageSha256: sha256Hex(inputBytes),

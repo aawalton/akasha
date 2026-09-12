@@ -22,10 +22,7 @@ import {
   ensureOutputDir,
   resolveOutputPath,
 } from "akasha/infrastructure/inference/clients/inference-output-path/inference-output-path.module.code.ts"
-import {
-  madeOf,
-  wroteTo,
-} from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
+import { wroteTo } from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
 import { runClusterUpscale } from "akasha/infrastructure/inference/generations/upscale/cluster/upscale-cluster.module.code.ts"
 import { runWorkstationUpscale } from "akasha/infrastructure/inference/generations/upscale/workstation/upscale-workstation.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/record/inference-run-record.module.code.ts"
@@ -109,7 +106,7 @@ export async function inferenceUpscale(argv: readonly string[], given: Given): P
       operation: "upscale",
       model: MODEL,
       host: LABELS[where] ?? where,
-      commandLine: madeOf(given.calledAs, argv),
+      commandLine: given.calledWhole ?? given.calledAs,
       startedAt: new Date(nowMs).toISOString(),
       resolution: String(resolution),
       seed,

@@ -33,7 +33,6 @@ import {
   copPriorityHeaders,
 } from "akasha/infrastructure/inference/clients/voice-clone-client/voice-clone-client.module.code.ts"
 import {
-  madeOf,
   serviceNamed,
   targetOf,
   wroteTo,
@@ -157,7 +156,7 @@ export async function inferenceVoiceClone(argv: readonly string[], given: Given)
       operation: "voice-clone",
       model: MODEL,
       host: reached.service.host,
-      commandLine: madeOf(given.calledAs, argv),
+      commandLine: given.calledWhole ?? given.calledAs,
       startedAt: new Date(nowMs).toISOString(),
       text,
       refAudioPath: refAudio ?? DEFAULT_REF_AUDIO,

@@ -31,10 +31,7 @@ import {
   ensureOutputDir,
   resolveOutputPath,
 } from "akasha/infrastructure/inference/clients/inference-output-path/inference-output-path.module.code.ts"
-import {
-  madeOf,
-  wroteTo,
-} from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
+import { wroteTo } from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/record/inference-run-record.module.code.ts"
 import { recordInferenceRun } from "akasha/infrastructure/inference/runs/store/inference-run-store.module.code.ts"
 import { sha256Hex } from "akasha/utils/hashing/sha256-hex/sha256-hex.module.code.ts"
@@ -158,7 +155,7 @@ export async function inferenceEdit(argv: readonly string[], given: Given): Prom
       operation: "edit",
       model: MODEL,
       host: HOST,
-      commandLine: madeOf(given.calledAs, argv),
+      commandLine: given.calledWhole ?? given.calledAs,
       startedAt: new Date(nowMs).toISOString(),
       prompt,
       inputImagePath: subject,

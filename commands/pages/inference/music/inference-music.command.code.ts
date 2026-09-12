@@ -28,10 +28,7 @@ import {
   drawSeed,
   resolveSeed,
 } from "akasha/infrastructure/inference/clients/inference-seed/inference-seed.module.code.ts"
-import {
-  madeOf,
-  serviceNamed,
-} from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
+import { serviceNamed } from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/record/inference-run-record.module.code.ts"
 import { recordInferenceRun } from "akasha/infrastructure/inference/runs/store/inference-run-store.module.code.ts"
 
@@ -100,7 +97,7 @@ export async function inferenceMusic(argv: readonly string[], given: Given): Pro
       operation: "music",
       model: DIT_MODEL,
       host: reached.service.host,
-      commandLine: madeOf(given.calledAs, argv),
+      commandLine: given.calledWhole ?? given.calledAs,
       startedAt: new Date(nowMs).toISOString(),
       prompt,
       seed: drawn,

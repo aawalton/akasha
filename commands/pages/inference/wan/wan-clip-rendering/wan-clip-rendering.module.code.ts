@@ -27,7 +27,7 @@ import {
   runComfyGraph,
 } from "akasha/infrastructure/inference/clients/comfy-client/comfy-client.module.code.ts"
 import { drawSeed } from "akasha/infrastructure/inference/clients/inference-seed/inference-seed.module.code.ts"
-import { madeOf } from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
+
 import {
   WAN_DEFAULT_NEGATIVE_PROMPT,
   WAN_FPS,
@@ -78,12 +78,7 @@ export function prosedIn(
   return { prompt: prompt.text ?? "", negative: negative.text ?? WAN_DEFAULT_NEGATIVE_PROMPT }
 }
 
-export async function generating(
-  taken: Generate,
-  given: Given,
-  argv: readonly string[],
-  report: string[]
-): Promise<Answer> {
+export async function generating(taken: Generate, given: Given, report: string[]): Promise<Answer> {
   const prose = prosedIn(given.root, taken)
   if ("refused" in prose) return { report, refusals: [...prose.refused], code: INPUT }
   const startSaid = taken.startImage
@@ -164,7 +159,7 @@ export async function generating(
     operation: "i2v",
     model: MODEL,
     host: HOST,
-    commandLine: madeOf(given.calledAs, argv),
+    commandLine: given.calledWhole ?? given.calledAs,
     startedAt: new Date(nowMs).toISOString(),
     prompt,
     negativePrompt: negative,
@@ -216,12 +211,7 @@ export async function generating(
   return { report, refusals: [], code: OK }
 }
 
-export async function extending(
-  taken: Extend,
-  given: Given,
-  argv: readonly string[],
-  report: string[]
-): Promise<Answer> {
+export async function extending(taken: Extend, given: Given, report: string[]): Promise<Answer> {
   const prose = prosedIn(given.root, taken)
   if ("refused" in prose) return { report, refusals: [...prose.refused], code: INPUT }
   const contextPath = pathUnder(given.root, taken.context)
@@ -320,7 +310,7 @@ export async function extending(
     operation: "i2v-extend",
     model: MODEL,
     host: HOST,
-    commandLine: madeOf(given.calledAs, argv),
+    commandLine: given.calledWhole ?? given.calledAs,
     startedAt: new Date(nowMs).toISOString(),
     prompt,
     negativePrompt: negative,

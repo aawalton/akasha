@@ -37,7 +37,6 @@ import {
 } from "akasha/infrastructure/inference/clients/mlx-image-client/mlx-image-client.module.code.ts"
 import {
   boundTo,
-  madeOf,
   serviceNamed,
   wroteTo,
 } from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
@@ -158,7 +157,7 @@ export async function inferenceGenerate(argv: readonly string[], given: Given): 
       operation: "generate",
       model,
       host: reached.service.host,
-      commandLine: madeOf(given.calledAs, argv),
+      commandLine: given.calledWhole ?? given.calledAs,
       startedAt: new Date(nowMs).toISOString(),
       prompt,
       size,

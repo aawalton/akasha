@@ -58,7 +58,7 @@ test("a second word beside the image is refused", async () => {
   const said = await inferenceSegment(["a.png", "b.png"], GIVEN)
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toBe(
-    "`akasha inference segment` takes 1 word and this call says 2 words"
+    "`akasha inference segment` takes 1 word and this call says 2 words — nothing takes `b.png`"
   )
 })
 
