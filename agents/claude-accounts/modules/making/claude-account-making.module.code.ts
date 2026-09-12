@@ -4,7 +4,7 @@ import {
 } from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
 import {
   type Asking,
-  runMechanicalChange,
+  landedMechanically,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
 import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
@@ -36,12 +36,13 @@ export type Made =
   | { readonly kind: "refused"; readonly slug: string; readonly why: string }
 
 export type Landing = (
+  done: string[],
   root: string,
   asked: readonly Asking[],
   message: string
 ) => Promise<Applied | Refused>
 
-export const LANDING: Landing = runMechanicalChange
+export const LANDING: Landing = landedMechanically
 
 export function accountsAtFor(page: string, slug: string): string {
   const named = page.lastIndexOf("/")
@@ -121,6 +122,7 @@ export async function madeIn(
   reading: Reading
 ): Promise<Made> {
   const { slug } = given
+  const done: string[] = []
   try {
     if (!ACCOUNT_SHAPE.test(slug)) {
       return {
@@ -153,6 +155,7 @@ export async function madeIn(
       reading
     )
     const landed = await landing(
+      done,
       root,
       [{ at: PUT, given: { at: path, body: text } }],
       `akasha: add ${path}`
@@ -161,12 +164,16 @@ export async function madeIn(
     if (wrong.length > 0) return { kind: "refused", slug, why: wrong.join("; ") }
     return { kind: "made", slug, path, id }
   } catch (thrown) {
+    const said = thrown instanceof Error ? thrown.message : String(thrown)
+    const landed =
+      done.length === 0
+        ? ""
+        : ` — ${done.join(", ")} landed before it stopped, so the page this wrote is in that ` +
+          `commit rather than still to write`
     return {
       kind: "refused",
       slug,
-      why: `the page make threw, which it is written never to do: ${
-        thrown instanceof Error ? thrown.message : String(thrown)
-      }`,
+      why: `the page make threw, which it is written never to do: ${said}${landed}`,
     }
   }
 }

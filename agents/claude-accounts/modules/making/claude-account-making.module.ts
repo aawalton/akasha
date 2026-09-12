@@ -87,6 +87,11 @@ export const claudeAccountMaking = {
       statement: "Making a page answers with an outcome rather than throwing.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A make that threw after the landing committed names that commit in what it refuses with.",
+    },
+    {
       invariantKind: "constraint",
       statement: "The repository root reaches this module as a parameter.",
     },

@@ -7,6 +7,7 @@ import {
   madeIn,
 } from "akasha/agents/claude-accounts/modules/making/claude-account-making.module.code.ts"
 import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 
 const ROOT = "/nowhere"
@@ -32,6 +33,13 @@ const UNREAD: Reading = {
 
 const uncalled: Landing = () => {
   throw new Error("the landing was called")
+}
+
+const COMMIT = "1111111111111111111111111111111111111111"
+
+const threwAfterCommitting: Landing = (done) => {
+  done.push(COMMIT)
+  throw new Error("the work after that commit stopped")
 }
 
 async function refusedFor(given: {
@@ -192,5 +200,16 @@ describe("madeIn", () => {
     await expect(
       madeIn(ROOT, { slug: "c1", email: "a@b.co", aliasIndex: 1 }, uncalled, UNREAD)
     ).resolves.toBeDefined()
+  })
+
+  test("a make that threw after it landed names what it landed", async () => {
+    const made = await madeIn(
+      HERE,
+      { slug: "no-account-here", email: "none@example.com", aliasIndex: 9, id: ID },
+      threwAfterCommitting,
+      readingIn(HERE)
+    )
+    expect(made.kind).toBe("refused")
+    expect(made.kind === "refused" ? made.why : "").toContain(COMMIT)
   })
 })
