@@ -23,6 +23,10 @@ export const wanHosting = {
     },
     {
       invariantKind: "departure",
+      statement: "The words spawned here are a program's command line rather than a call's own.",
+    },
+    {
+      invariantKind: "departure",
       statement: "ffprobe answers how many frames a clip has and how large those frames are.",
     },
     {

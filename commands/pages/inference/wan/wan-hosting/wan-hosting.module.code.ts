@@ -16,16 +16,18 @@ export function imageIn(): string {
   return optionalEnv("WAN_IMAGE") ?? "wan:local"
 }
 
-export function spawned(argv: readonly string[]): Bun.Subprocess<"ignore", "pipe", "pipe"> | null {
+export function spawned(
+  command: readonly string[]
+): Bun.Subprocess<"ignore", "pipe", "pipe"> | null {
   try {
-    return Bun.spawn([...argv], { stdout: "pipe", stderr: "pipe" })
+    return Bun.spawn([...command], { stdout: "pipe", stderr: "pipe" })
   } catch {
     return null
   }
 }
 
-async function probed(argv: readonly string[]): Promise<{ out: string } | { why: string }> {
-  const proc = spawned(["ffprobe", ...argv])
+async function probed(command: readonly string[]): Promise<{ out: string } | { why: string }> {
+  const proc = spawned(["ffprobe", ...command])
   if (proc === null) return { why: "ffprobe is not on PATH — install ffmpeg" }
   const out = await new Response(proc.stdout).text()
   const err = await new Response(proc.stderr).text()
