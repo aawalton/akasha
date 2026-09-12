@@ -11,7 +11,7 @@ export const athenaCommandArguments = {
     {
       statement: "Every argument a command takes is a page.",
       workingMemory:
-        "338 argument pages and 766 entries at `2422666aa8c` naming exactly those 338 — nothing dangling, no page no command names. One flag is read that no page names: `--restated`, admitted by `file-arguing` and reaching only `alan tracking`; `--break-the-glass` reaches that same command the same way. Alan's: `alan-tracking.command.ts:14-15` says no call names the kind of change landed here, so either that goes or the flags do.\n",
+        "338 argument pages and 766 entries at `2422666aa8c` name exactly those 338. Two flags reach `alan tracking` that no page names, both out of shared `file-arguing`: `--break-the-glass`, refused by name at its code `:54` yet still in the take-list `akasha alan tracking --nope` prints; and `--restated`, admitted, which swaps the kind to `change-restated`, whose page owes the writer a reading, making `alan-tracking.command.ts:44` false. Its `:15` is true — `landingTracked` passes no kind. Alan's.\n",
     },
     {
       statement: "A command names the arguments it takes and narrows each.",
@@ -28,7 +28,7 @@ export const athenaCommandArguments = {
       statement:
         "A command's code reads its arguments through a type generated from its argument pages.",
       workingMemory:
-        "218 of 235 reach the type at `f5b0716828`, and 17 are left: nine `temper/inventory` commands each with its own local `readIn`, five `temper/eso`, and `alan tracking`, `change apply`, `change draft`. `change apply` and `change draft` are held because `takingIn` swallows `--`, so `akasha change apply --` would land every kept edit where today it refuses. `alan tracking` is held on two frozen modules.\n",
+        "218 of 235 reach the type at `f5b0716828`; 17 are left: nine `temper/inventory`, five `temper/eso`, `alan tracking`, `change apply`, `change draft`. The last two are held because `takingIn` swallows `--`. `alan tracking` is held by no frozen module but by this: `takenFor` drops each word's place in the call, while `file-arguing` pairs every `--content-file` with the `--file-path` before it, so two calls differing only in word order must answer differently and read the same.\n",
     },
     {
       statement: "One spelling names one argument, and one argument has one spelling.",
