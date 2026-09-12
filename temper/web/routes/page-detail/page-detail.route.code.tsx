@@ -20,7 +20,7 @@ import {
 import { toBuildVisibility } from "akasha/temper/build-support/modules/build-visibility/build-visibility.module.code.ts"
 import { createEmptyCharacter } from "akasha/temper/character-build/modules/build-factory/build-factory.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
-import { skills } from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
+import { skills } from "akasha/temper/character-skills/modules/character-skills/character-skills.module.code.ts"
 import { setsAll } from "akasha/temper/characters-equipment/sets-all/sets-all.module.code.ts"
 import {
   decodeCompanion,

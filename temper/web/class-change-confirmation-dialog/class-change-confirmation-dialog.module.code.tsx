@@ -12,7 +12,7 @@ import {
   AlertDialogTitle,
 } from "akasha/design/interfaces/primitives/modules/alert-dialog/alert-dialog.module.code.tsx"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
-import type { Skill } from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
+import type { Skill } from "akasha/temper/character-skills/modules/character-skills/character-skills.module.code.ts"
 import {
   getSkillsToRemoveOnClassChange,
   validateSkillLinesForClass,

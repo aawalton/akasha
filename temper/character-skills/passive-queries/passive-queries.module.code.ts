@@ -1,5 +1,5 @@
-import type { SkillId } from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
-import { skills } from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
+import type { SkillId } from "akasha/temper/character-skills/modules/character-skills/character-skills.module.code.ts"
+import { skills } from "akasha/temper/character-skills/modules/character-skills/character-skills.module.code.ts"
 import type {
   ArmorShape,
   WeaponBarShape,

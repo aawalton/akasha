@@ -1,4 +1,4 @@
-import type { Skill } from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
+import type { Skill } from "akasha/temper/character-skills/modules/character-skills/character-skills.module.code.ts"
 import {
   getSkillCategory,
   getSkillLineName,

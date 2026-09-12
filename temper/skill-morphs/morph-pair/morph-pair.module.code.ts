@@ -1,4 +1,4 @@
-import type { Skill } from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
+import type { Skill } from "akasha/temper/character-skills/modules/character-skills/character-skills.module.code.ts"
 import { requireGet } from "akasha/utils/narrow/require-get/require-get.module.code.ts"
 
 export interface MorphPair {

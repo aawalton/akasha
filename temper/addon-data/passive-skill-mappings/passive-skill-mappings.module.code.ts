@@ -3,7 +3,7 @@ import {
   PASSIVE_SKILL_COUNT,
   passiveSkillIds,
 } from "akasha/temper/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"
-import { skills } from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
+import { skills } from "akasha/temper/character-skills/modules/character-skills/character-skills.module.code.ts"
 export function generatePassiveSkillMappings(): string {
   const entries: string[] = []
   for (const [i, id] of passiveSkillIds.entries()) {

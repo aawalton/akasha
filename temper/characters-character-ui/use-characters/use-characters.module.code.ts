@@ -25,7 +25,7 @@ import { createNewCharacter } from "akasha/temper/character-build/modules/build-
 import {
   type RoleId,
   characterRoles as roles,
-} from "akasha/temper/character-sources/character-roles/character-roles.module.code.ts"
+} from "akasha/temper/character-sources/modules/character-roles/character-roles.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 import { useMemo, useState } from "react"

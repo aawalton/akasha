@@ -1,7 +1,7 @@
 import type {
   Skill,
   SkillId,
-} from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
+} from "akasha/temper/character-skills/modules/character-skills/character-skills.module.code.ts"
 
 export function findSkillById(
   id: SkillId,

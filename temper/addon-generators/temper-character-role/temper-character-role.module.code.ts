@@ -4,7 +4,7 @@ import {
   rankOf,
   ranksOf,
 } from "akasha/temper/addon-generators/rank-by-key/rank-by-key.module.code.ts"
-import { characterRoles } from "akasha/temper/character-sources/character-roles/character-roles.module.code.ts"
+import { characterRoles } from "akasha/temper/character-sources/modules/character-roles/character-roles.module.code.ts"
 import { z } from "zod"
 
 const CHARACTER_ROLE_EAV_SCHEMA = z

@@ -1,8 +1,8 @@
+import type { FloorEnemy } from "akasha/story/tower/core/floor-schema/floor-schema.module.code.ts"
 import {
   CharacterSkillSchema,
   type GameCharacterSheet,
-} from "akasha/story/tower/core/character-schema/character-schema.module.code.ts"
-import type { FloorEnemy } from "akasha/story/tower/core/floor-schema/floor-schema.module.code.ts"
+} from "akasha/story/tower/core/modules/character-schema/character-schema.module.code.ts"
 import type { Hud } from "akasha/story/tower/core/revealed-sheet/revealed-sheet.module.code.ts"
 import type { Sheet as CombatSheet } from "akasha/story/tower/engine/combat-types/combat-types.module.code.ts"
 import { z } from "zod"

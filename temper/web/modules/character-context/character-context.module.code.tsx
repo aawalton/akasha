@@ -14,14 +14,14 @@ import {
   toBuildVisibility,
 } from "akasha/temper/build-support/modules/build-visibility/build-visibility.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
-import type { Skill } from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
+import type { Skill } from "akasha/temper/character-skills/modules/character-skills/character-skills.module.code.ts"
 import { useCharacter as useCharacterZero } from "akasha/temper/characters-character-ui/use-characters/use-characters.module.code.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/equipment/set-template/set-template.module.code.ts"
 import type { BuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
-import { characterReducer } from "akasha/temper/web/character-reducer/character-reducer.module.code.ts"
 import type { CharacterAction } from "akasha/temper/web/modules/character-actions/character-actions.module.code.ts"
 import { CHARACTER_ACTIONS } from "akasha/temper/web/modules/character-actions/character-actions.module.code.ts"
+import { characterReducer } from "akasha/temper/web/modules/character-reducer/character-reducer.module.code.ts"
 import { useBuildSync } from "akasha/temper/web/use-build-sync/use-build-sync.module.code.ts"
 import { createContext, type ReactNode, useCallback, useReducer } from "react"
 

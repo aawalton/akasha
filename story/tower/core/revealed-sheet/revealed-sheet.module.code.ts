@@ -1,7 +1,7 @@
 import {
   AttributesSchema,
   type GameCharacterSheet,
-} from "akasha/story/tower/core/character-schema/character-schema.module.code.ts"
+} from "akasha/story/tower/core/modules/character-schema/character-schema.module.code.ts"
 import { z } from "zod"
 
 export const HudSchema = z.object({

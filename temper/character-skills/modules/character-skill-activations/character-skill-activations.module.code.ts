@@ -1,5 +1,5 @@
-import type { CharacterSkillActivationData } from "akasha/temper/character-skills/character-skill-activation-types/character-skill-activation-types.module.code.ts"
-import type { SkillId } from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
+import type { CharacterSkillActivationData } from "akasha/temper/character-skills/modules/character-skill-activation-types/character-skill-activation-types.module.code.ts"
+import type { SkillId } from "akasha/temper/character-skills/modules/character-skills/character-skills.module.code.ts"
 
 const CHARACTER_SKILL_ACTIVATIONS = {
   "dark-flare": {

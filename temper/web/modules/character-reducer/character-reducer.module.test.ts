@@ -3,7 +3,7 @@ import { createNewCharacter } from "akasha/temper/character-build/modules/build-
 import {
   CHARACTER_ACTION_CREATORS,
   characterReducer,
-} from "akasha/temper/web/character-reducer/character-reducer.module.code.ts"
+} from "akasha/temper/web/modules/character-reducer/character-reducer.module.code.ts"
 
 describe("characterReducer", () => {
   const initialBuild = createNewCharacter()

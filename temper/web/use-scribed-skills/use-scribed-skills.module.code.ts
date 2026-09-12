@@ -1,8 +1,8 @@
-import type { Skill } from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
+import type { Skill } from "akasha/temper/character-skills/modules/character-skills/character-skills.module.code.ts"
 import {
   type SkillId,
   skills,
-} from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
+} from "akasha/temper/character-skills/modules/character-skills/character-skills.module.code.ts"
 import type { ScribedSkill } from "akasha/temper/character-skills/scribed-skill-types/scribed-skill-types.module.code.ts"
 import { getScribedSkillId } from "akasha/temper/character-skills/scribed-skills/scribed-skills.module.code.ts"
 import {

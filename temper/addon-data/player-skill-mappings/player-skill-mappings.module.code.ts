@@ -1,5 +1,5 @@
 import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
-import { skills } from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
+import { skills } from "akasha/temper/character-skills/modules/character-skills/character-skills.module.code.ts"
 export function generatePlayerSkillMappings(): string {
   const indexEntries: string[] = []
   const temperIdEntries: string[] = []

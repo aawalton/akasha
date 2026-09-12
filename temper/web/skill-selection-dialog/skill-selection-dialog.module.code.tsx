@@ -20,7 +20,7 @@ import { Button } from "akasha/design/interfaces/primitives/modules/button/butto
 import {
   type SkillId,
   skills,
-} from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
+} from "akasha/temper/character-skills/modules/character-skills/character-skills.module.code.ts"
 import type { CategoryData } from "akasha/temper/skill-morphs/skill-organization/skill-organization.module.code.ts"
 import { SkillCollapsibleCard } from "akasha/temper/web/skill-collapsible-card/skill-collapsible-card.module.code.tsx"
 import { Check, ChevronRight, ChevronsDown, ChevronsUp } from "lucide-react"
