@@ -152,3 +152,17 @@ test("an argument the change was handed no value for is refused by its key", asy
   const said = await runChange(worldFor([]), { at: OWNER_AT, property: PROPERTY })
   expect(said.refused).toContain("required")
 })
+
+test("the count is read under the key `max-count`", async () => {
+  const seen: Reached[] = []
+
+  await runChange(worldFor(seen), {
+    at: OWNER_AT,
+    property: PROPERTY,
+    required: "false",
+    many: "true",
+    "max-count": "30",
+  })
+
+  expect(seen[0]?.given.record).toContain("maxCount: 30")
+})

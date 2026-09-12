@@ -84,6 +84,11 @@ export const addPropertyToPageType = {
       invariantKind: "absence",
       statement: "Nothing here writes a page of the type the property was declared on.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The count is handed in named `max-count` and written into the declaration named `maxCount`.",
+    },
   ],
   changeKind: "change-checked",
 } as const satisfies ChangeAgent

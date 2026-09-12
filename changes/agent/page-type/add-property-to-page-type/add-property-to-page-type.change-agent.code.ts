@@ -28,7 +28,7 @@ const REQUIRED = "required"
 
 const MANY = "many"
 
-const MAX_COUNT = "maxCount"
+const MAX_COUNT = "max-count"
 
 const TRUE = "true"
 
