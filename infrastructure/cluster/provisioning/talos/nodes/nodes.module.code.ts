@@ -37,8 +37,6 @@ export const CLUSTERS: Readonly<Record<string, ClusterIntent>> = {
   },
 }
 
-export const DEFAULT_CLUSTER_NAME = "main"
-
 export const NODES: Readonly<Record<string, NodeIntent>> = {
   ...MAIN_NODES,
   ...REHEARSAL_NODES,
