@@ -8,7 +8,6 @@ export const modelGatewayStart = {
   code: "ts",
   parts: ["module/proxy-run"],
   taking: [
-    { said: "--log-dir", takes: "where the gateway console and the errors under it are written" },
     { said: "--port", takes: "the port to ask for, 0 for any free one" },
     { said: "--account", takes: "the registration account the boot environment carries" },
     { said: "--version", takes: "the version the boot environment carries" },
@@ -66,5 +65,5 @@ export const modelGatewayStart = {
     },
   ],
   name: "start",
-  arguments: [{ argument: "argument/agent-id" }],
+  arguments: [{ argument: "argument/agent-id" }, { argument: "argument/gateway-log-dir" }],
 } as const satisfies Command
