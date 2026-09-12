@@ -8,16 +8,16 @@ export const seatTranscriptList = {
   code: "ts",
   test: "ts",
   taking: [],
-  helpNotes: [
-    "it takes no word at all, and every word it is given is refused.",
-    "it prints one JSON object carrying a `seats` list, and nothing else.",
-    "each seat in that list carries its agent id, its seat name, and where its transcript is.",
-    "a seat is named by the index, so a seat kept only in akasha is answered here like any other.",
-    "a transcript is read from the values kept beside a seat's page rather than from the page itself.",
-    "a seat holding no transcript, or holding an empty one, is left out rather than answered with an empty path.",
-    "the editor's agent tree and transcript panel read this, because the read reaches an uncommitted page body.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The answer is one JSON object carrying a `seats` list.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A seat in that list carries its agent id, its seat name and where its transcript is.",
+    },
     {
       invariantKind: "departure",
       statement: "This command takes no word.",
