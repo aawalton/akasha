@@ -6,6 +6,7 @@ import {
   renderSeries,
   stageSeries,
 } from "akasha/code/name-series/name-series.module.code.ts"
+import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
@@ -25,8 +26,6 @@ import {
 } from "akasha/temper/eso-paths/eso-clone-stamp/eso-clone-stamp.module.code.ts"
 import { esouiSourceDir } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
 import { collectLuaFiles } from "akasha/temper/eso-paths/lua-files/lua-files.module.code.ts"
-
-const DATA = 2
 
 const SELF = "akasha temper eso generate base-game-globals"
 
@@ -146,7 +145,7 @@ export function temperEsoGenerateBaseGameGlobals(argv: readonly string[] = []): 
       "every body above is already what this run rendered, so there is nothing to land",
       `that is the round trip: the ${String(runs)} runs compose back to the ${String(spec.names.length)} string ids one file would have held`
     )
-    return answering(report, [], 0)
+    return answering(report, [], OK)
   }
 
   report.push(
@@ -165,5 +164,5 @@ export function temperEsoGenerateBaseGameGlobals(argv: readonly string[] = []): 
     )
   }
 
-  return answering(report, [], 0)
+  return answering(report, [], OK)
 }
