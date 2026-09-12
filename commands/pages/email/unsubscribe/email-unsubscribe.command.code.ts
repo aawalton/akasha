@@ -1,6 +1,6 @@
 import {
   answeredBy,
-  answering,
+  asJsonLines,
   refusing,
 } from "akasha/alan/google/email/email-command-reading/email-command-reading.module.code.ts"
 import { emailGoogle } from "akasha/alan/google/email/email-operations/email-operations.module.code.ts"
@@ -24,6 +24,6 @@ export function emailUnsubscribe(argv: readonly string[], given: Given): Promise
       google.getHeader(raw, HEADER),
       google.getHeader(raw, POST_HEADER)
     )
-    return answering(await google.executeUnsubscribe(client, intent, done))
+    return asJsonLines(await google.executeUnsubscribe(client, intent, done))
   })
 }

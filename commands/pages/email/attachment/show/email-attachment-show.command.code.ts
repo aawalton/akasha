@@ -1,6 +1,6 @@
 import {
   answeredBy,
-  answering,
+  asJsonLines,
   refusing,
 } from "akasha/alan/google/email/email-command-reading/email-command-reading.module.code.ts"
 import { emailGoogle } from "akasha/alan/google/email/email-operations/email-operations.module.code.ts"
@@ -16,7 +16,7 @@ export function emailAttachmentShow(argv: readonly string[], given: Given): Prom
   return answeredBy(async () => {
     const google = await emailGoogle()
     const client = await google.makeGmailClient()
-    return answering(
+    return asJsonLines(
       await google.getAttachment(client, read.taken.message, read.taken.attachmentId)
     )
   })

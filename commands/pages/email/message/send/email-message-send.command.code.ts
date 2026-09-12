@@ -1,6 +1,6 @@
 import {
   answeredBy,
-  answering,
+  asJsonLines,
   COMPOSING,
   composedIn,
   type Read,
@@ -22,6 +22,6 @@ export function emailMessageSend(argv: readonly string[], given: Given): Promise
     if ("why" in composed) return refusing([composed.why], 1)
     const google = await emailGoogle()
     const client = await google.makeGmailClient()
-    return answering(await google.sendMessage(client, composed.input, done))
+    return asJsonLines(await google.sendMessage(client, composed.input, done))
   })
 }

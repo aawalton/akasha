@@ -1,6 +1,6 @@
 import {
   answeredBy,
-  answering,
+  asJsonLines,
   refusing,
 } from "akasha/alan/google/email/email-command-reading/email-command-reading.module.code.ts"
 import { emailGoogle } from "akasha/alan/google/email/email-operations/email-operations.module.code.ts"
@@ -28,7 +28,7 @@ export function emailMessageModifyLabel(argv: readonly string[], given: Given): 
   return answeredBy(async (done) => {
     const google = await emailGoogle()
     const client = await google.makeGmailClient()
-    return answering(
+    return asJsonLines(
       await google.modifyMessageLabels(
         client,
         taken.message,

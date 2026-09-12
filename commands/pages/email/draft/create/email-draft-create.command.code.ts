@@ -1,6 +1,6 @@
 import {
   answeredBy,
-  answering,
+  asJsonLines,
   COMPOSING,
   composedIn,
   type Read,
@@ -22,6 +22,6 @@ export function emailDraftCreate(argv: readonly string[], given: Given): Promise
     if ("why" in composed) return refusing([composed.why], 1)
     const google = await emailGoogle()
     const client = await google.makeGmailClient()
-    return answering(await google.createDraft(client, composed.input, done))
+    return asJsonLines(await google.createDraft(client, composed.input, done))
   })
 }

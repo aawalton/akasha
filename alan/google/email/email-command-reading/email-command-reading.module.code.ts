@@ -187,7 +187,7 @@ export function maxIn(said: Said): number | undefined {
   return value === undefined ? undefined : Number(value)
 }
 
-export function answering(value: unknown): Answer {
+export function asJsonLines(value: unknown): Answer {
   return told(JSON.stringify(value, null, 2).split("\n"))
 }
 

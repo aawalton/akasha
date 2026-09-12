@@ -1,6 +1,6 @@
 import {
   answeredBy,
-  answering,
+  asJsonLines,
   refusing,
 } from "akasha/alan/google/email/email-command-reading/email-command-reading.module.code.ts"
 import { emailGoogle } from "akasha/alan/google/email/email-operations/email-operations.module.code.ts"
@@ -15,6 +15,6 @@ export function emailDraftList(argv: readonly string[], given: Given): Promise<A
   return answeredBy(async () => {
     const google = await emailGoogle()
     const client = await google.makeGmailClient()
-    return answering(await google.listDrafts(client, read.taken.max))
+    return asJsonLines(await google.listDrafts(client, read.taken.max))
   })
 }

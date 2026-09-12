@@ -1,6 +1,6 @@
 import {
   answeredBy,
-  answering,
+  asJsonLines,
   refusing,
 } from "akasha/alan/google/email/email-command-reading/email-command-reading.module.code.ts"
 import { getMessage } from "akasha/alan/google/email/email-message-fetching/email-message-fetching.module.code.ts"
@@ -12,5 +12,5 @@ import { emailMessageShow as page } from "akasha/commands/pages/email/message/sh
 export function emailMessageShow(argv: readonly string[], given: Given): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [message])
   if ("refused" in read) return Promise.resolve(refusing(read.refused, 1))
-  return answeredBy(async () => answering(await getMessage({ id: read.taken.message })))
+  return answeredBy(async () => asJsonLines(await getMessage({ id: read.taken.message })))
 }

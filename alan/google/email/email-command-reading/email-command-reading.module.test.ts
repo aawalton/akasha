@@ -3,7 +3,7 @@ import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
   answeredBy,
-  answering,
+  asJsonLines,
   BODY_FILING,
   COMPOSING,
   MAX,
@@ -21,7 +21,7 @@ import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.
 const WENT = "gmail sent the message to one@example.com, and sending cannot be undone"
 
 test("a call gmail took is answered as the value gmail gave", async () => {
-  const held = await answeredBy(async () => answering({ id: "abc123" }))
+  const held = await answeredBy(async () => asJsonLines({ id: "abc123" }))
 
   expect(held.code).toBe(0)
   expect(held.report.join("")).toContain("abc123")

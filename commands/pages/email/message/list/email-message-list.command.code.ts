@@ -1,6 +1,6 @@
 import {
   answeredBy,
-  answering,
+  asJsonLines,
   type Filing,
   MAX,
   maxIn,
@@ -38,7 +38,7 @@ export function emailMessageList(argv: readonly string[], given: Given): Promise
     const query = proseIn(given, said, FILING)
     if ("why" in query) return refusing([query.why], 1)
     const labels = said.many[LABEL] ?? []
-    return answering(
+    return asJsonLines(
       await listMessages({
         query: query.said,
         max: maxIn(said),
