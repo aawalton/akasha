@@ -1,6 +1,6 @@
 export type FilterId = "status" | "activity"
 
-export const FILTER_IDS: ReadonlySet<string> = new Set<FilterId>(["status", "activity"])
+const FILTER_IDS: ReadonlySet<string> = new Set<FilterId>(["status", "activity"])
 
 export function isFilterId(id: string): id is FilterId {
   return FILTER_IDS.has(id)

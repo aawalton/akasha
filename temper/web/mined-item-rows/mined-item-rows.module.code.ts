@@ -43,7 +43,7 @@ function bonusOf(one: unknown): readonly SetBonusEntry[] {
   }
 }
 
-export function setBonusesOf(row: MinedItemRow): readonly SetBonusEntry[] | null {
+function setBonusesOf(row: MinedItemRow): readonly SetBonusEntry[] | null {
   const held = row.setBonuses
   if (!Array.isArray(held)) return null
   const read = held.flatMap(bonusOf)

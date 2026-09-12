@@ -78,7 +78,7 @@ export function written(fd: number, whole: Uint8Array): undefined {
   while (done < whole.length) done += writeSync(fd, whole, done, whole.length - done)
 }
 
-export function taken(fd: number, want: number): Uint8Array {
+function taken(fd: number, want: number): Uint8Array {
   const whole = new Uint8Array(want)
   let done = 0
   while (done < want) {
@@ -99,7 +99,7 @@ export function unframed(fd: number): Frame {
   }
 }
 
-export function requested(argv: readonly string[], asked: Asked): Request {
+function requested(argv: readonly string[], asked: Asked): Request {
   const env = asked.env
   return {
     argv: [...argv],

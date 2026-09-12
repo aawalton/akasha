@@ -45,13 +45,13 @@ export const REPO_AT = rootOf(import.meta.dir)
 
 const TWO_AT = "akasha/two.ts"
 
-export const CHECK_CODE_AT = "akasha/admits.code-check.code.ts"
+const CHECK_CODE_AT = "akasha/admits.code-check.code.ts"
 
 export const PROPOSED = "proposed\n"
 
 export const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
 
-export const SEAT_AT = "akasha/agents/seats/pages/tester.seat.ts"
+const SEAT_AT = "akasha/agents/seats/pages/tester.seat.ts"
 
 const CHECK = "code-check"
 
@@ -98,7 +98,7 @@ function templateFor(named: Readonly<Record<string, string>>): string {
   return at
 }
 
-export function repoAt(root: string, named: Readonly<Record<string, string>>): string {
+function repoAt(root: string, named: Readonly<Record<string, string>>): string {
   cpSync(templateFor(named), root, { recursive: true })
   return root
 }

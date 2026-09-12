@@ -3,7 +3,7 @@ export interface SpawnLike {
   readonly kill: (signal?: number | NodeJS.Signals) => void
 }
 
-export class SubprocessTimeoutError extends Error {
+class SubprocessTimeoutError extends Error {
   readonly label: string
   readonly timeoutMs: number
   constructor(label: string, timeoutMs: number) {

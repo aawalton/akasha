@@ -6,7 +6,7 @@ import { z } from "zod"
 
 export const SOURCE_UPDATE_EXIT_CODE = 75
 
-export const BODY_SUMMARY_MAX = 200
+const BODY_SUMMARY_MAX = 200
 
 const WORKER_EXE_STEM = "temper-watcher-worker"
 
@@ -60,11 +60,11 @@ export function classifyVersionResponse(input: VersionResponseObservation): Upda
   return { kind: "update-available", version }
 }
 
-export function versionUrl(serverUrl: string): string {
+function versionUrl(serverUrl: string): string {
   return `${serverUrl}/api/watcher/worker/version`
 }
 
-export function downloadUrl(serverUrl: string): string {
+function downloadUrl(serverUrl: string): string {
   return `${serverUrl}/api/watcher/worker/download`
 }
 

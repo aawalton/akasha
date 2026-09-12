@@ -1,11 +1,11 @@
 import { statSync } from "node:fs"
 import { readFileWithRetry } from "akasha/temper/watcher/watcher-retry/watcher-retry.module.code.ts"
 
-export const STABILITY_POLL_MS = 1000
+const STABILITY_POLL_MS = 1000
 
-export const STABILITY_STABLE_POLLS = 3
+const STABILITY_STABLE_POLLS = 3
 
-export const STABILITY_TIMEOUT_MS = 120_000
+const STABILITY_TIMEOUT_MS = 120_000
 
 export interface StatSnapshot {
   size: number

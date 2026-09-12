@@ -22,7 +22,7 @@ export type StringShape = Shape<string> & {
   datetime: () => StringShape
 }
 
-export function StringShape(
+function StringShape(
   run: (value: unknown, path: ShapePath) => Outcome<string>,
   acceptsAbsent = false
 ): StringShape {
@@ -104,7 +104,7 @@ export type NumberShape = Shape<number> & {
   finite: () => NumberShape
 }
 
-export function NumberShape(
+function NumberShape(
   run: (value: unknown, path: ShapePath) => Outcome<number>,
   acceptsAbsent = false
 ): NumberShape {

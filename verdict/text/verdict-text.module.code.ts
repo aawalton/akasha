@@ -4,7 +4,7 @@ import type {
   VerdictReach,
 } from "akasha/verdict/shape/verdict-shape.module.code.ts"
 
-export const UNMEASURED = "UNMEASURED"
+const UNMEASURED = "UNMEASURED"
 
 export const UNCOVERED = "UNCOVERED"
 
@@ -28,7 +28,7 @@ const HEADLINE: Record<AnyVerdict["kind"], string> = {
 
 const HEADLINE_BY_ANY_KIND: Readonly<Record<string, string | undefined>> = HEADLINE
 
-export function verdictHeadline(verdict: AnyVerdict): string {
+function verdictHeadline(verdict: AnyVerdict): string {
   const headline = HEADLINE_BY_ANY_KIND[verdict.kind]
   if (headline === undefined) {
     return `UNREADABLE VERDICT — ${verdict.subject}: this build cannot interpret kind "${verdict.kind}"`
@@ -36,7 +36,7 @@ export function verdictHeadline(verdict: AnyVerdict): string {
   return `${headline} — ${verdict.subject}: ${verdict.reason} [over ${renderCoverage(verdict.coverage)}]`
 }
 
-export function verdictFindingLines(verdict: AnyVerdict): readonly string[] {
+function verdictFindingLines(verdict: AnyVerdict): readonly string[] {
   if (HEADLINE_BY_ANY_KIND[verdict.kind] === undefined) return []
   if (verdict.kind === "pass") return []
   return verdict.findings.map((finding) => `  [${finding.at ?? "unattributed"}] ${finding.detail}`)

@@ -10,6 +10,6 @@ export async function readStdinOrFile(path: string): Promise<string> {
   }
 }
 
-export async function readStdin(): Promise<string> {
+async function readStdin(): Promise<string> {
   return await new Response(Bun.stdin.stream()).text()
 }

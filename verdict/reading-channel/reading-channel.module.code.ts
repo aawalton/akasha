@@ -16,20 +16,20 @@ export interface AnyReading {
   readonly findings: readonly ReadingFinding[]
 }
 
-export const READING_ANCHOR = "READING: "
+const READING_ANCHOR = "READING: "
 
 const FOLD_LINE_BREAKS = /\s*[\r\n]+\s*/g
 
-export function readingHeadline(reading: AnyReading): string {
+function readingHeadline(reading: AnyReading): string {
   const head = `${reading.state.toUpperCase()} — ${reading.subject}`
   return `${head}: ${reading.reason} [over ${renderCoverage(reading.coverage)}]`
 }
 
-export function readingFindingLines(reading: AnyReading): readonly string[] {
+function readingFindingLines(reading: AnyReading): readonly string[] {
   return reading.findings.map((finding) => `  [${finding.at ?? "unattributed"}] ${finding.detail}`)
 }
 
-export function readingLine(reading: AnyReading): string {
+function readingLine(reading: AnyReading): string {
   return `${READING_ANCHOR}${readingHeadline(reading).replace(FOLD_LINE_BREAKS, " ")}`
 }
 

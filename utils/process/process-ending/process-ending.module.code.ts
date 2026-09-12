@@ -22,7 +22,7 @@ export type Ended = {
   readonly allGone: boolean
 }
 
-export function signalled(pid: number, sign: Sign): undefined {
+function signalled(pid: number, sign: Sign): undefined {
   try {
     process.kill(pid, sign)
     return undefined
@@ -42,7 +42,7 @@ export function signalled(pid: number, sign: Sign): undefined {
   }
 }
 
-export async function waitedForEnd(
+async function waitedForEnd(
   pid: number,
   waitingMs: number = WAITING_MS,
   askingMs: number = ASKING_MS
@@ -55,7 +55,7 @@ export async function waitedForEnd(
   return !pidAliveOrAssumeAlive(pid)
 }
 
-export const ENDING: Ending = {
+const ENDING: Ending = {
   alive: pidAliveOrAssumeAlive,
   signal: signalled,
   waited: (pid) => waitedForEnd(pid),

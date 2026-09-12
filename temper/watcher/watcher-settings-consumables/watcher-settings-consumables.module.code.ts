@@ -24,9 +24,9 @@ import { readCharactersWithTargetBuilds } from "akasha/temper/watcher/watcher-se
 
 const INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG = "temper-inventory-snapshot"
 
-export const DATA_PROPERTY = "data"
+const DATA_PROPERTY = "data"
 
-export const DATA_ENDING = "json"
+const DATA_ENDING = "json"
 
 const SNAPSHOT_KEYS = ["id", "slug"]
 

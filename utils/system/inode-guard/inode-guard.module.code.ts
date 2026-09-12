@@ -1,9 +1,9 @@
 import { readFileSync, statfsSync } from "node:fs"
 import { z } from "zod"
 
-export const INODE_WARN_PERCENT = 50
+const INODE_WARN_PERCENT = 50
 
-export const INODE_CRITICAL_PERCENT = 80
+const INODE_CRITICAL_PERCENT = 80
 
 const MAX_PLAUSIBLE_INODE_CAP = 2n ** 32n
 
@@ -12,7 +12,7 @@ export type InodeThresholds = {
   criticalPercent: number
 }
 
-export const DEFAULT_INODE_THRESHOLDS: InodeThresholds = {
+const DEFAULT_INODE_THRESHOLDS: InodeThresholds = {
   warnPercent: INODE_WARN_PERCENT,
   criticalPercent: INODE_CRITICAL_PERCENT,
 }
@@ -60,10 +60,7 @@ function unmeasurable(r: InodeReading, reason: string): MountInodeState {
   }
 }
 
-export function classifyMountInodes(
-  reading: InodeReading,
-  thresholds: InodeThresholds
-): MountInodeState {
+function classifyMountInodes(reading: InodeReading, thresholds: InodeThresholds): MountInodeState {
   const { totalInodes, freeInodes } = reading
   if (totalInodes === 0n) {
     return unmeasurable(
@@ -105,7 +102,7 @@ export function classifyMountInodes(
   }
 }
 
-export function assessInodePressure(
+function assessInodePressure(
   readings: readonly InodeReading[],
   thresholds: InodeThresholds
 ): InodePressureAssessment {
@@ -139,9 +136,9 @@ export function assessInodePressure(
   }
 }
 
-export const MIN_FREE_INODES = 200_000
+const MIN_FREE_INODES = 200_000
 
-export const INODE_ADMISSION_OUTCOMES = [
+const INODE_ADMISSION_OUTCOMES = [
   "headroom",
   "no-candidate-mounts",
   "below-floor",
@@ -174,7 +171,7 @@ function freeInodesOf(m: MountInodeState & { kind: "measured" }): number {
   return m.totalInodes - m.usedInodes
 }
 
-export function assessInodeAdmission(input: InodeAdmissionInput): InodeAdmissionDecision {
+function assessInodeAdmission(input: InodeAdmissionInput): InodeAdmissionDecision {
   const { assessment, minFreeInodes, kindLabel } = input
   const mounts = assessment.mounts
   if (mounts.length === 0) {
@@ -214,7 +211,7 @@ function unescapeMountField(raw: string): string {
   )
 }
 
-export function readMountInodes(): readonly InodeReading[] {
+function readMountInodes(): readonly InodeReading[] {
   const body = readFileSync("/proc/mounts", "utf8")
   const byMountPoint = new Map<string, InodeReading>()
   for (const line of body.split("\n")) {
@@ -242,7 +239,7 @@ export type HostInodePressure = {
   admission: InodeAdmissionDecision
 }
 
-export function readHostInodePressure(
+function readHostInodePressure(
   kindLabel = "a spawn",
   thresholds: InodeThresholds = DEFAULT_INODE_THRESHOLDS
 ): HostInodePressure {

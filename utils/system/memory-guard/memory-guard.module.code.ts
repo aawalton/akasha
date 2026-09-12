@@ -3,7 +3,7 @@ import { requireMatchPositional } from "akasha/utils/narrow/require-match-positi
 import { enforceInodeAdmission } from "akasha/utils/system/inode-guard/inode-guard.module.code.ts"
 import { z } from "zod"
 
-export const MIN_FREE_MEMORY_GB = 8
+const MIN_FREE_MEMORY_GB = 8
 
 const KB_PER_GB = 1024 * 1024
 const THRESHOLD_KB = MIN_FREE_MEMORY_GB * KB_PER_GB
@@ -25,7 +25,7 @@ export type MemoryGuardDecision = {
   reason: string
 }
 
-export function assessMemoryGuard(input: MemoryGuardInput): MemoryGuardDecision {
+function assessMemoryGuard(input: MemoryGuardInput): MemoryGuardDecision {
   const availableGb = (input.availableKb / KB_PER_GB).toFixed(1)
   if (input.availableKb > THRESHOLD_KB) {
     return {
@@ -39,7 +39,7 @@ export function assessMemoryGuard(input: MemoryGuardInput): MemoryGuardDecision 
   }
 }
 
-export function readMemAvailableKb(): number {
+function readMemAvailableKb(): number {
   const meminfo = z.string().parse(readFileSync("/proc/meminfo", "utf8"))
   const [kb] = requireMatchPositional(
     /^MemAvailable:\s+(\d+)\s+kB/m,
@@ -72,7 +72,7 @@ export type SpawnAdmissionInput = {
   kindLabel: string
 }
 
-export function assessSpawnAdmission(input: SpawnAdmissionInput): MemoryGuardDecision {
+function assessSpawnAdmission(input: SpawnAdmissionInput): MemoryGuardDecision {
   const availableGb = (input.availableKb / KB_PER_GB).toFixed(1)
   const minMemGb = (input.minFreeMemoryKb / KB_PER_GB).toFixed(0)
 
@@ -134,7 +134,7 @@ function psiLine(body: string, kind: "some" | "full"): { avg10: number; avg60: n
   return { avg10: Number.parseFloat(avg10), avg60: Number.parseFloat(avg60) }
 }
 
-export function parseMemPressureStats(body: string): MemPressureStats {
+function parseMemPressureStats(body: string): MemPressureStats {
   const some = psiLine(body, "some")
   const full = psiLine(body, "full")
   return {
@@ -145,7 +145,7 @@ export function parseMemPressureStats(body: string): MemPressureStats {
   }
 }
 
-export function readMemPressureStats(): MemPressureStats {
+function readMemPressureStats(): MemPressureStats {
   let body: string
   try {
     body = readFileSync("/proc/pressure/memory", "utf8")

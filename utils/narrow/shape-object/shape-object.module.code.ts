@@ -94,7 +94,7 @@ export type ObjectShape<F extends Fields, Out> = Shape<Out> & {
   passthrough: () => ObjectShape<F, LooseStruct<F>>
 }
 
-export function ObjectShape<F extends Fields, Out>(
+function ObjectShape<F extends Fields, Out>(
   declaration: F,
   unknowns: Unknowns
 ): ObjectShape<F, Out> {

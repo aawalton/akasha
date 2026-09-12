@@ -3,9 +3,9 @@ import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-pa
 import type { CharacterMark } from "akasha/temper/watcher/watcher-task-rolling/watcher-task-rolling.module.code.ts"
 import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
 
-export const TASKS_GLOBAL_NAME = "TemperCharacters_SavedVariables"
+const TASKS_GLOBAL_NAME = "TemperCharacters_SavedVariables"
 
-export const SCOPE_MARK_AT = 36
+const SCOPE_MARK_AT = 36
 
 export interface ParsedTaskCompletion {
   readonly taskId: string
@@ -23,7 +23,7 @@ export function namesWholeTask(key: string): boolean {
   return key.indexOf(":", SCOPE_MARK_AT) < 0
 }
 
-export function markOf(key: string): CharacterMark {
+function markOf(key: string): CharacterMark {
   return { taskId: key.slice(0, SCOPE_MARK_AT), characterId: key.slice(SCOPE_MARK_AT + 1) }
 }
 

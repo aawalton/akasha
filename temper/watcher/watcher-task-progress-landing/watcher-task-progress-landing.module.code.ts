@@ -28,19 +28,19 @@ import {
   type TaskFacts,
 } from "akasha/temper/watcher/watcher-task-progress/watcher-task-progress.module.code.ts"
 
-export const CHARACTER_TYPE = "temper-account-character"
+const CHARACTER_TYPE = "temper-account-character"
 
-export const ACCOUNT_TYPE = "temper-account"
+const ACCOUNT_TYPE = "temper-account"
 
-export const TASK_TYPE = "temper-task"
+const TASK_TYPE = "temper-task"
 
-export const COMPLETION_PROPERTY = "completion"
+const COMPLETION_PROPERTY = "completion"
 
-export const COMPLETION_ENDING = "json"
+const COMPLETION_ENDING = "json"
 
-export const PROGRESS_PROPERTY = "progress"
+const PROGRESS_PROPERTY = "progress"
 
-export const PROGRESS_ENDING = "jsonl"
+const PROGRESS_ENDING = "jsonl"
 
 export type Put = { readonly path: string; readonly content: string }
 
@@ -60,7 +60,7 @@ export type ProgressReady = {
   readonly report: (message: string) => void
 }
 
-export function readyFor(deps: ProgressDeps = {}): ProgressReady {
+function readyFor(deps: ProgressDeps = {}): ProgressReady {
   return {
     ask: deps.ask ?? askingFor,
     pages: deps.pages ?? readPages,
@@ -137,7 +137,7 @@ async function heldBeside<T>(
   return held
 }
 
-export async function indexFor(ready: ProgressReady, userId: string) {
+async function indexFor(ready: ProgressReady, userId: string) {
   const characters = await askedRows(ready, CHARACTER_TYPE, userId)
   const slugs = characters.map((row) => textOf(row, "slug")).filter((one) => one !== "")
   const completions = await heldBeside<CharacterCompletion>(ready, CHARACTER_TYPE, slugs)

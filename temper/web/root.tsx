@@ -60,7 +60,7 @@ export const meta: MetaFunction = () => [
   { name: "description", content: "The Elder Scrolls Online Build Planner" },
 ]
 
-export async function loader({ request, context }: LoaderFunctionArgs<AppLoadContext>) {
+async function loader({ request, context }: LoaderFunctionArgs<AppLoadContext>) {
   const guard = await authGuard(request, AUTH_CONFIG)
   if (guard instanceof Response) return guard
 

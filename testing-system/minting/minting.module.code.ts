@@ -58,12 +58,7 @@ function valueFor(
   }
 }
 
-export function pageFor(
-  slug: string,
-  id: string,
-  definition: string,
-  phase: Phase = "change"
-): string {
+function pageFor(slug: string, id: string, definition: string, phase: Phase = "change"): string {
   const said = Object.entries(valueFor(slug, id, definition, phase))
     .map(([key, one]) => `  ${key}: ${JSON.stringify(one)},`)
     .join("\n")

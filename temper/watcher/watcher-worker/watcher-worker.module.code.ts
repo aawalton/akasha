@@ -53,7 +53,7 @@ export type WatcherTokenRead = () => string
 
 export type WatcherTokenCheck = (token: unknown) => Promise<{ accountPageId: string } | null>
 
-export async function tokenSessionAnswer(
+async function tokenSessionAnswer(
   readToken: WatcherTokenRead,
   checkToken: WatcherTokenCheck
 ): Promise<SignedInAnswer> {
@@ -91,7 +91,7 @@ export function dispatchingThrough(
     })
 }
 
-export function reportingThrough(
+function reportingThrough(
   reader: () => SignedInReader
 ): (operations: readonly SyncOperation[]) => Promise<void> {
   return (operations) =>
@@ -121,7 +121,7 @@ export function sessionHold<Client>(): SessionHold<Client> {
   }
 }
 
-export async function runWorker(exit: (code: number) => never): Promise<WatcherStart> {
+async function runWorker(exit: (code: number) => never): Promise<WatcherStart> {
   const session = sessionHold<SignedInReader>()
 
   const started = await startWatcher({

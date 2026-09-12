@@ -25,7 +25,7 @@ export interface Sealed<K extends string> {
   readonly fold: <Out>(table: CollapseTable<K, Out>) => Out
 }
 
-export class CollapseRefused extends Error {
+class CollapseRefused extends Error {
   override readonly name = "CollapseRefused"
 }
 

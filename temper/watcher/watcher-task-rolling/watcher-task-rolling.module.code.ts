@@ -1,6 +1,6 @@
-export const NEXT_CHARACTER_SCOPE = "next_character"
+const NEXT_CHARACTER_SCOPE = "next_character"
 
-export const ALL_CHARACTERS_SCOPE = "all_characters"
+const ALL_CHARACTERS_SCOPE = "all_characters"
 
 export interface CharacterMark {
   readonly taskId: string

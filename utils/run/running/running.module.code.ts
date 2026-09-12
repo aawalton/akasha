@@ -67,7 +67,7 @@ export function madePid(named: string): number | null {
   return DIGITS.test(digits) ? Number(digits) : null
 }
 
-export function leftSwept(parent: string): undefined {
+function leftSwept(parent: string): undefined {
   let held: readonly string[] = []
   try {
     held = readdirSync(parent)
@@ -104,7 +104,7 @@ function budgetAt(): string | null {
   }
 }
 
-export function watching(at: string, ceiling: number): string {
+function watching(at: string, ceiling: number): string {
   const cap = String(Math.round(ceiling * MICROS))
   return (
     `const fs = require("node:fs")\n` +

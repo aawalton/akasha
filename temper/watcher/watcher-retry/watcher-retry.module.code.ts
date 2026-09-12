@@ -4,7 +4,7 @@ import { writeFileAtomicSync } from "akasha/utils/fs/atomic-write/atomic-write.m
 
 export const MAX_RETRIES = 5
 
-export const BACKOFF_MS: readonly number[] = [200, 400, 800, 1600, 3200]
+const BACKOFF_MS: readonly number[] = [200, 400, 800, 1600, 3200]
 
 export interface RetryDeps {
   readonly sleepSync?: (ms: number) => void

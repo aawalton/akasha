@@ -14,7 +14,7 @@ function hexPort(port: number): string {
   return port.toString(16).toUpperCase().padStart(4, "0")
 }
 
-export function parseListeningInodes(table: string, port: number): string[] {
+function parseListeningInodes(table: string, port: number): string[] {
   const wanted = `:${hexPort(port)}`
   const inodes: string[] = []
   for (const line of table.split("\n").slice(1)) {
