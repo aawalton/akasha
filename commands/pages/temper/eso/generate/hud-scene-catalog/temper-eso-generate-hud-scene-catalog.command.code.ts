@@ -7,12 +7,11 @@ import {
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
 import {
-  answeredWith,
   DATA,
   keeping,
-  OK,
   OPERATIONAL,
   refused,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
@@ -184,17 +183,13 @@ async function generated(done: string[], taken: Taken): Promise<Answer> {
 
   const fragments = catalog.filter((one) => one.kind === "fragment").length
   const uncategorized = catalog.filter((one) => one.category === "uncategorized").length
-  return answeredWith(
-    [
-      `wrote ${String(catalog.length)} component(s) — ${String(fragments)} fragment(s), ` +
-        `${String(catalog.length - fragments)} non-fragment control(s), ` +
-        `${String(uncategorized)} uncategorized`,
-      `read from ${scenePath} at API version ${String(apiVersion)}`,
-      ...written,
-    ],
-    [],
-    OK
-  )
+  return told([
+    `wrote ${String(catalog.length)} component(s) — ${String(fragments)} fragment(s), ` +
+      `${String(catalog.length - fragments)} non-fragment control(s), ` +
+      `${String(uncategorized)} uncategorized`,
+    `read from ${scenePath} at API version ${String(apiVersion)}`,
+    ...written,
+  ])
 }
 
 export async function cataloging(
