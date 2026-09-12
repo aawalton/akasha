@@ -9,7 +9,6 @@ export const trackSessionDrop = {
   test: "ts",
   taking: [
     { said: "--id <uuid>", takes: "the stretch to act on, named by the id that stretch carries" },
-    { said: "--at <time>", takes: "a wall time the stretch dropped covers" },
     { said: "--open", takes: "the stretch to act on, which is the one that is open" },
     { said: "--last", takes: "the stretch to act on, which is the one that ended last" },
     { said: "--mend", takes: "close the gap a dropped stretch leaves behind" },
@@ -70,5 +69,9 @@ export const trackSessionDrop = {
     },
   ],
   name: "drop",
-  arguments: [{ argument: "argument/dry-run" }, { argument: "argument/day" }],
+  arguments: [
+    { argument: "argument/dry-run" },
+    { argument: "argument/day" },
+    { argument: "argument/at" },
+  ],
 } as const satisfies Command

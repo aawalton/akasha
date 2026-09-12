@@ -9,7 +9,6 @@ export const trackSessionAmend = {
   parts: [],
   taking: [
     { said: "--id <uuid>", takes: "the stretch to act on, named by the id that stretch carries" },
-    { said: "--at <time>", takes: "a wall time the stretch amended covers" },
     { said: "--open", takes: "the stretch to act on, which is the one that is open" },
     { said: "--last", takes: "the stretch to act on, which is the one that ended last" },
     { said: "--title <text>", takes: "what the stretch is called" },
@@ -106,5 +105,9 @@ export const trackSessionAmend = {
     },
   ],
   name: "amend",
-  arguments: [{ argument: "argument/dry-run" }, { argument: "argument/day" }],
+  arguments: [
+    { argument: "argument/dry-run" },
+    { argument: "argument/day" },
+    { argument: "argument/at" },
+  ],
 } as const satisfies Command
