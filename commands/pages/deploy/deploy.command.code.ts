@@ -146,7 +146,7 @@ export async function putUp(
     if ("refused" in servable) return refused(servable.refused, DATA)
     return appliedWorkload(given.root, slug, servable.servable, dryRun, at)
   }
-  const bundle = await publishedBundleFor(given.root, slug, dryRun)
+  const bundle = await publishedBundleFor(given.root, slug, dryRun, at)
   if (bundle !== null && bundle.refusals.length > 0) {
     return answering(bundle.lines, bundle.refusals, OPERATIONAL)
   }

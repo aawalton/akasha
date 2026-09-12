@@ -110,10 +110,15 @@ function imaged(zipPath: string, versionPath: string, pushRef: string): string |
   }
 }
 
-async function publishedFrom(root: string, tagFile: string, scratch: string): Promise<Published> {
-  const compiled = await compiledEveryAddon(root)
+async function publishedFrom(
+  root: string,
+  tagFile: string,
+  scratch: string,
+  codeAt: string
+): Promise<Published> {
+  const compiled = await compiledEveryAddon(codeAt)
   if (compiled.refusals.length > 0) return compiled
-  const packed = packedBundle(root, join(scratch, "bundle"))
+  const packed = packedBundle(codeAt, join(scratch, "bundle"))
   if (packed.refusals.length > 0 || packed.archivePath === null) {
     return { lines: [...compiled.lines, ...packed.lines], refusals: packed.refusals }
   }
@@ -173,7 +178,8 @@ async function publishedFrom(root: string, tagFile: string, scratch: string): Pr
 export async function publishedBundleFor(
   root: string,
   slug: string,
-  dryRun: boolean
+  dryRun: boolean,
+  codeAt: string
 ): Promise<Published | null> {
   const tagFile = tagFileFor(root, slug)
   if (tagFile === null) return null
@@ -187,7 +193,7 @@ export async function publishedBundleFor(
   }
   const scratch = mkdtempSync(join(SCRATCH_ROOT, SCRATCH_PREFIX))
   try {
-    return await publishedFrom(root, tagFile, scratch)
+    return await publishedFrom(root, tagFile, scratch, codeAt)
   } finally {
     rmSync(scratch, { recursive: true, force: true })
   }
