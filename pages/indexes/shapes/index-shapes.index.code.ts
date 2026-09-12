@@ -93,6 +93,14 @@ const carriedFiled = heldEach((reading: Reading, pageTypeSlug: string): readonly
   return found
 })
 
+export function carriedOf(one: Carrying): Carried {
+  return {
+    ...one,
+    uniquePropertySlug: one.uniquePropertySlug ?? undefined,
+    fixed: one.fixed ?? undefined,
+  }
+}
+
 export function carriedOfType(given: string | Reading, pageTypeSlug: string): readonly Carrying[] {
   return answered(given, "", `what a \`${pageTypeSlug}\` page carries`, (reading) =>
     carriedFiled(reading, pageTypeSlug)

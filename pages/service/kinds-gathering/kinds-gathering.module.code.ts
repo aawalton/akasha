@@ -23,6 +23,7 @@ import {
   valuesOfType,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import { carriedOf, carriedOfType } from "akasha/pages/indexes/shapes/index-shapes.index.code.ts"
 import {
   type Carried,
   propertiesFrom,
@@ -52,12 +53,10 @@ export function sourceFor(given: string | Reading): Source {
   )
 }
 
-export function carriedFor(
-  given: string | Reading,
-  pageTypeSlug: string,
-  source: Source = sourceFor(given)
-): readonly Carried[] {
-  return propertiesFrom(pageTypeSlug, source)
+export function carriedFor(given: string | Reading, pageTypeSlug: string): readonly Carried[] {
+  const filed = carriedOfType(given, pageTypeSlug)
+  if (filed.length === 0) return propertiesFrom(pageTypeSlug, sourceFor(given))
+  return filed.map(carriedOf)
 }
 
 export function pagesOfType(
@@ -148,13 +147,11 @@ function reachingIn(
   const carried = new Map<string, readonly Computed[]>()
   const valued = new Map<string, ReadonlyMap<string, Value>>()
   const made = new Map<string, Subject | null>()
-  let properties: Source | null = null
 
   const computedOf = (pageTypeSlug: string): readonly Computed[] => {
     const already = carried.get(pageTypeSlug)
     if (already !== undefined) return already
-    properties ??= sourceFor(root)
-    const found = computedFor(root, carriedFor(root, pageTypeSlug, properties))
+    const found = computedFor(root, carriedFor(reading, pageTypeSlug))
     carried.set(pageTypeSlug, found)
     return found
   }
@@ -257,12 +254,11 @@ export function gatheredFor(
   files: readonly string[] = [],
   reading: Reading = readingIn(root)
 ): readonly Counting[] {
-  const source = sourceFor(reading)
   const counting: Counting[] = []
   for (const kind of kindsFor(reading, pageTypeSlug)) {
     const read = valuesOfType(reading, kind)
     if (read.length === 0) continue
-    const own = kind === pageTypeSlug ? carried : carriedFor(reading, kind, source)
+    const own = kind === pageTypeSlug ? carried : carriedFor(reading, kind)
     const computed = computedFor(root, own)
     for (const row of valuedFor(root, read, own, files)) counting.push({ row, computed })
   }
