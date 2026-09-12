@@ -235,7 +235,11 @@ export const argumentTaking = {
     {
       invariantKind: "departure",
       statement:
-        "An argument said with an equals and nothing after it is refused rather than carrying nothing.",
+        "An argument handed an empty value is refused however it was spelled, and counts as unsaid.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal names the empty value the way the call wrote it.",
     },
     {
       invariantKind: "departure",

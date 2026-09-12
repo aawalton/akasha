@@ -15,6 +15,8 @@ import {
   NAMING_TAIL,
   NAMING_THEM,
   NAMING_WORD,
+  NO_NOPE,
+  NO_VALUE,
   NODE,
   ONE_OF_THEM,
   ONE_OF_THREE,
@@ -26,6 +28,7 @@ import {
   pageTaken,
   REST,
   refusals,
+  SAID_NEITHER,
   SEAT_PAGE,
   SLUG,
   TAIL_PAGE,
@@ -72,16 +75,11 @@ test("a command naming no argument refuses every word", () => {
 })
 
 test("an argument whose value is another argument is an argument no value follows", () => {
-  expect(refusals(["--limit", "--dry-run"], [LIMIT, DRY_RUN])[0]).toBe(
-    "`--limit` takes a value, and none follows it"
-  )
+  expect(refusals(["--limit", "--dry-run"], [LIMIT, DRY_RUN])[0]).toBe(NO_VALUE)
 })
 
 test("a flag the command takes no argument at is refused rather than filling the one before it", () => {
-  expect(refusals(["--limit", "--nope"], [LIMIT])).toEqual([
-    "`--limit` takes a value, and none follows it",
-    "`--nope` is no argument `akasha thing` takes — it takes `--limit`",
-  ])
+  expect(refusals(["--limit", "--nope"], [LIMIT])).toEqual([NO_VALUE, NO_NOPE])
 })
 
 test("a value opening with one dash is a value rather than a flag", () => {
@@ -93,9 +91,7 @@ test("a value that is one dash is a value, which is how a call names what is pip
 })
 
 test("an argument the command names where a value goes is refused whatever it is spelled", () => {
-  expect(refusals(["--limit", "-s"], [LIMIT, DASH])[0]).toBe(
-    "`--limit` takes a value, and none follows it"
-  )
+  expect(refusals(["--limit", "-s"], [LIMIT, DASH])[0]).toBe(NO_VALUE)
 })
 
 test("an argument that does not repeat is refused where one call says it twice", () => {
@@ -144,7 +140,7 @@ test("an argument the command needs is not refused where the call says it", () =
 
 test("every refusal a call earns is gathered rather than the first alone", () => {
   expect(refusals(["--nope", "--limit", "many"], [LIMIT])).toEqual([
-    "`--nope` is no argument `akasha thing` takes — it takes `--limit`",
+    NO_NOPE,
     "`--limit many` is no whole number of nought or more",
   ])
 })
@@ -285,9 +281,15 @@ test("a pair both entries state is refused once", () => {
 })
 
 test("a group one call must say one of is refused where a call says none of them", () => {
-  expect(refusals([], ONE_OF_TWO)).toEqual([
-    "`akasha thing` takes `--video` or `--frames-dir`, and nothing said either",
+  expect(refusals([], ONE_OF_TWO)).toEqual([SAID_NEITHER])
+})
+
+test("an empty value is refused however it is spelled, and answers for no group", () => {
+  expect(refusals(["--video", ""], ONE_OF_TWO)).toEqual([
+    "`--video` takes a value, and the empty word after it names none",
+    SAID_NEITHER,
   ])
+  expect(refusals(["--video="], ONE_OF_TWO)[1]).toBe(SAID_NEITHER)
 })
 
 test("a group one call must say one of is read where a call says one", () => {

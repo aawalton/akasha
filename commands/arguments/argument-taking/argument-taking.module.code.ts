@@ -248,6 +248,10 @@ export function takingIn(
       continue
     }
     at += 1
+    if (next === "") {
+      state.refusals.push(`\`${word}\` takes a value, and the empty word after it names none`)
+      continue
+    }
     filling(state, held, next, false)
   }
   if (spare.length > 0) {

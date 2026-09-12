@@ -159,6 +159,13 @@ export const ONE_OF_TWO: readonly Naming[] = [
   { argument: FRAMES_DIR, oneOf: [VIDEO] },
 ]
 
+export const SAID_NEITHER =
+  "`akasha thing` takes `--video` or `--frames-dir`, and nothing said either"
+
+export const NO_VALUE = "`--limit` takes a value, and none follows it"
+
+export const NO_NOPE = "`--nope` is no argument `akasha thing` takes — it takes `--limit`"
+
 export const ONE_OF_THREE: readonly Naming[] = [
   { argument: TO_POSITION, oneOf: [BEFORE, AFTER] },
   { argument: BEFORE, oneOf: [TO_POSITION, AFTER] },
