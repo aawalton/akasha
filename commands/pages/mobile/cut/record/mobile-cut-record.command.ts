@@ -33,6 +33,11 @@ export const mobileCutRecord = {
       statement: "A page written without a commit taking it counts as nothing filed.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A filing that threw after its commit names that commit and that page in its refusal.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reaches Apple or the mac.",
     },

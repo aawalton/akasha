@@ -85,14 +85,14 @@ export function readIn(argv: readonly string[], nowIso: string): Reading<Read> {
   }
 }
 
-async function filed(read: Read): Promise<Answer> {
+async function filed(read: Read, done: string[]): Promise<Answer> {
   const last = await readLatestCutFingerprint(read.appSlug)
   if (last !== null && last.buildNumber === read.fingerprint.buildNumber) {
     return told([
       `${read.appSlug}\tbuild ${last.buildNumber} already carries a fingerprint cut at ${last.cutAt}, so nothing was written`,
     ])
   }
-  await recordCutFingerprint(read.appSlug, read.fingerprint)
+  await recordCutFingerprint(read.appSlug, read.fingerprint, done)
   return told([
     `filed\t${read.appSlug}\tbuild ${read.fingerprint.buildNumber}\t` +
       `main ${read.fingerprint.mainSha.slice(0, SHORT_SHA)}\tcut at ${read.fingerprint.cutAt}`,
@@ -102,5 +102,5 @@ async function filed(read: Read): Promise<Answer> {
 export async function mobileCutRecord(argv: readonly string[]): Promise<Answer> {
   const read = readIn(argv, new Date().toISOString())
   if ("refused" in read) return refusedBy(read.refused)
-  return await answering(async () => await filed(read))
+  return await answering(async (done) => await filed(read, done))
 }

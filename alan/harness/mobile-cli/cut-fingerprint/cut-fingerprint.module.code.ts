@@ -167,14 +167,39 @@ export function cutPageBody(appSlug: string, fp: CutFingerprint): string {
   ].join("\n")
 }
 
-export async function recordCutFingerprint(appSlug: string, fp: CutFingerprint): Promise<void> {
+export type Filing = {
+  readonly rooted: () => string
+  readonly pathed: (slug: string) => string
+  readonly changed: typeof runMechanicalChange
+  readonly valued: typeof valueAt
+}
+
+export const FILING: Filing = {
+  rooted: akashaRoot,
+  pathed: cutPagePath,
+  changed: runMechanicalChange,
+  valued: valueAt,
+}
+
+export function filedSaid(slug: string, path: string): string {
+  return `filed \`${MOBILE_CUT_PAGE_TYPE_SLUG}/${slug}\` at ${path}`
+}
+
+export async function recordCutFingerprint(
+  appSlug: string,
+  fp: CutFingerprint,
+  done: string[] = [],
+  filing: Filing = FILING
+): Promise<void> {
   const slug = cutPageNameFor(appSlug, fp.buildNumber)
-  const path = cutPagePath(slug)
-  const root = akashaRoot()
-  const said = await runMechanicalChange(
+  const path = filing.pathed(slug)
+  const root = filing.rooted()
+  const said = await filing.changed(
     root,
     [{ at: PUT, given: { at: path, body: cutPageBody(appSlug, fp) } }],
-    `record the ${appSlug} cut for build ${fp.buildNumber}`
+    `record the ${appSlug} cut for build ${fp.buildNumber}`,
+    null,
+    { done }
   )
   const wrong = "refusals" in said ? said.refusals : said.wrong
   if (wrong.length > 0) {
@@ -184,7 +209,8 @@ export async function recordCutFingerprint(appSlug: string, fp: CutFingerprint):
         `${fp.buildNumber}: ${wrong.join("\n")}`
     )
   }
-  if (valueAt(path, root) === null) {
+  done.push(filedSaid(slug, path))
+  if (filing.valued(path, root) === null) {
     throw new Error(
       `\`${MOBILE_CUT_PAGE_TYPE_SLUG}/${slug}\` reported as landed at ${path}, but nothing there ` +
         `declares a page value, so nothing is filed for build ${fp.buildNumber}`

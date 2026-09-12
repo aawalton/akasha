@@ -1,6 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
+import type { Filing } from "akasha/alan/harness/mobile-cli/cut-fingerprint/cut-fingerprint.module.code.ts"
 import {
   type CutFingerprint,
   compareCutStatus,
@@ -9,11 +10,19 @@ import {
   cutPageNameFor,
   cutPagePath,
   cutsFolder,
+  filedSaid,
   fingerprintOf,
   MOBILE_CUT_PAGE_TYPE_SLUG,
   readCutPages,
   readLatestCutFingerprint,
+  recordCutFingerprint,
 } from "akasha/alan/harness/mobile-cli/cut-fingerprint/cut-fingerprint.module.code.ts"
+import {
+  answering,
+  DATA,
+  OPERATIONAL,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
@@ -140,5 +149,71 @@ describe("cutPageBody", () => {
     const value = loadedFrom(text).value
     expect(typeof value?.["id"]).toBe("string")
     expect(String(value?.["id"])[14]).toBe("7")
+  })
+})
+
+describe("recordCutFingerprint", () => {
+  const COMMIT = "0f6062d9e734fcdb2ee190deca37f7a56328a2aa"
+
+  const SLUG = cutPageNameFor("alanwalton", BASIS.buildNumber)
+
+  const PATH = `a/folder/${SLUG}/${SLUG}.${MOBILE_CUT_PAGE_TYPE_SLUG}.ts`
+
+  const FILED = filedSaid(SLUG, PATH)
+
+  function filing(over: Partial<Filing> = {}): Filing {
+    return {
+      rooted: () => "/a/checkout",
+      pathed: () => PATH,
+      changed: (_root, _asked, _message, _agentId, writing) => {
+        writing?.done?.push(COMMIT)
+        return Promise.resolve({
+          base: "HEAD",
+          landed: [PATH],
+          formatted: [],
+          said: [],
+          wrong: [],
+          commit: COMMIT,
+        })
+      },
+      valued: () => ({ slug: SLUG }),
+      ...over,
+    }
+  }
+
+  const UNREADABLE = filing({ valued: () => null })
+
+  const UNLANDED = filing({
+    changed: () => Promise.resolve({ refusals: ["the change was refused"], code: DATA }),
+  })
+
+  test("the commit and the page filed are named as soon as each is there", async () => {
+    const done: string[] = []
+
+    await recordCutFingerprint("alanwalton", BASIS, done, filing())
+    expect(done).toEqual([COMMIT, FILED])
+  })
+
+  test("a filing whose page will not read still names the commit that took it", async () => {
+    const held = await answering(async (done) => {
+      await recordCutFingerprint("alanwalton", BASIS, done, UNREADABLE)
+      return told([])
+    })
+
+    expect(held.code).toBe(OPERATIONAL)
+    expect(held.report).toEqual([COMMIT, FILED])
+    const last = held.refusals[held.refusals.length - 1] as string
+    expect(last).toContain(COMMIT)
+    expect(last).toContain(FILED)
+  })
+
+  test("a filing refused before any commit names nothing", async () => {
+    const held = await answering(async (done) => {
+      await recordCutFingerprint("alanwalton", BASIS, done, UNLANDED)
+      return told([])
+    })
+
+    expect(held.report).toEqual([])
+    expect(held.refusals.some((one) => one.includes("stopped part way"))).toBe(false)
   })
 })

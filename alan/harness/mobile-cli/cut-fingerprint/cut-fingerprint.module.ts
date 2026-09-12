@@ -81,5 +81,18 @@ export const cutFingerprint = {
       invariantKind: "departure",
       statement: "A page no commit took raises rather than answering as filed.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The commit that took the page is named as soon as that commit is there.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page that will not read after its commit raises with that commit already named.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The root, the path, the change and the page reading are handed in.",
+    },
   ],
 } as const satisfies Module
