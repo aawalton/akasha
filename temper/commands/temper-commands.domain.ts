@@ -34,7 +34,6 @@ export const temperCommands = {
     "module/inventory-diagnostics-reading",
     "module/master-craft-trace-reading",
     "module/master-writ-probe-reading",
-    "module/argument-word-reading",
     "module/name-ordering",
     "module/addon-fixture-manifest",
   ],
