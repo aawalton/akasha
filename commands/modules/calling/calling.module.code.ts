@@ -1,7 +1,11 @@
 import { createRequire } from "node:module"
 import { join, resolve } from "node:path"
 import { costRecorded, opening } from "akasha/checks/modules/cost/check-cost.module.code.ts"
-import { helpOf, surfaceOf } from "akasha/commands/modules/help-writing/help-writing.module.code.ts"
+import {
+  helpOf,
+  rulesIn,
+  surfaceOf,
+} from "akasha/commands/modules/help-writing/help-writing.module.code.ts"
 import {
   type Held,
   listingOf,
@@ -80,6 +84,10 @@ const CODE = "code"
 const TS = "ts"
 
 const COMMAND = "command"
+
+const UNDER = "-"
+
+const SPACE = " "
 
 export const ROOTED = "index refresh"
 
@@ -225,6 +233,21 @@ export function unreadIn(root: string, outside: Outside): string | null {
   return null
 }
 
+function rulesAbove(root: string, words: readonly string[]): readonly string[] {
+  const type = namespaceSlugIn(root)
+  if (type === null) return []
+  const held: string[] = []
+  for (let at = 1; at < words.length; at = at + 1) {
+    const slug = words.slice(0, at).join(UNDER)
+    const found = listedAt(root, type, slug)
+    const one = found[0]
+    if (found.length !== 1 || one === undefined) continue
+    const page = pageIn(root, one.path, slug)
+    if (page !== null) held.push(...rulesIn(page))
+  }
+  return held
+}
+
 async function answeredBy(
   named: string,
   said: string,
@@ -248,8 +271,9 @@ async function answeredBy(
   const page = pageIn(root, path, named)
   const surface = surfaceOf(page)
   if (surface !== null && (argv[0] === HELP || argv[0] === HELP_SHORT)) {
+    const rules = [...rulesAbove(root, said.split(SPACE)), ...(page === null ? [] : rulesIn(page))]
     return {
-      report: helpOf(`${outside.calledAs} ${said}`, definitionOf(page), surface),
+      report: helpOf(`${outside.calledAs} ${said}`, definitionOf(page), surface, rules),
       refusals: [],
       code: 0,
     }

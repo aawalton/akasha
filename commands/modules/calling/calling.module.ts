@@ -103,6 +103,26 @@ export const calling = {
     },
     {
       invariantKind: "departure",
+      statement: "A help answer carries the directives the command's own page states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "It carries the directives every namespace above that command states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A namespace above is named by the leading words joined with a hyphen.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The namespaces are read widest first, and the command's own come last.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No directive a page type states reaches a help answer.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A namespace listing is titled by the call that reached the namespace.",
     },
     {

@@ -53,6 +53,18 @@ export const helpWriting = {
       statement: "No invariant of its own makes a page a page help is answered from.",
     },
     {
+      invariantKind: "departure",
+      statement: "A directive is written down as the rule that directive is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The rules are written under the invariants, each after a blank line.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which pages the rules were read off is settled by whoever hands them in.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads the index.",
     },

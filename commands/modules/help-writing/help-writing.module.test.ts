@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   helpOf,
+  rulesIn,
   type Surface,
   statementsIn,
   surfaceOf,
@@ -62,12 +63,46 @@ test("no invariant of its own makes a page one help is answered from", () => {
 })
 
 test("the invariants are written under the help notes", () => {
-  const said = helpOf("akasha held", null, {
-    taking: [],
-    helpNotes: ["it repeats."],
-    invariants: ["Nothing here writes."],
-  })
+  const said = helpOf(
+    "akasha held",
+    null,
+    { taking: [], helpNotes: ["it repeats."], invariants: ["Nothing here writes."] },
+    []
+  )
   expect(said).toEqual(["akasha held", "", "", "it repeats.", "", "Nothing here writes."])
+})
+
+const RULED = {
+  directives: [
+    {
+      directiveKind: "rule",
+      name: "One Read A Call",
+      act: "Run one read per shell call.",
+      warrant: "Output past what one shell result holds is lost.",
+      aids: ["One call naming many files caps itself."],
+    },
+  ],
+}
+
+test("a directive is read as the rule that directive is", () => {
+  expect(rulesIn(RULED)).toEqual([
+    "One Read A Call: Run one read per shell call.\n" +
+      "Output past what one shell result holds is lost.\n" +
+      "- One call naming many files caps itself.",
+  ])
+})
+
+test("a page stating no directive is read as no rule", () => {
+  expect(rulesIn({})).toEqual([])
+  expect(rulesIn({ directives: "held" })).toEqual([])
+})
+
+test("the rules are written under the invariants, each after a blank line", () => {
+  const said = helpOf("akasha held", null, { taking: [], helpNotes: [], invariants: [] }, [
+    "one",
+    "two",
+  ])
+  expect(said).toEqual(["akasha held", "", "", "one", "", "two"])
 })
 
 test("a page stating neither has none", () => {
@@ -76,7 +111,7 @@ test("a page stating neither has none", () => {
 })
 
 test("the arguments are padded so what each takes lines up", () => {
-  const said = helpOf("akasha page secret show", "one secret answered", SHOWN)
+  const said = helpOf("akasha page secret show", "one secret answered", SHOWN, [])
   expect(said[0]).toBe("akasha page secret show — one secret answered")
   expect(said[1]).toBe("")
   expect(said[2]).toBe("  --file-path <path>  the page read")
@@ -84,15 +119,15 @@ test("the arguments are padded so what each takes lines up", () => {
 })
 
 test("a call handed no definition opens with the call alone", () => {
-  expect(helpOf("akasha page secret show", null, SHOWN)[0]).toBe("akasha page secret show")
+  expect(helpOf("akasha page secret show", null, SHOWN, [])[0]).toBe("akasha page secret show")
 })
 
 test("the help notes are written under the arguments", () => {
-  expect(helpOf("akasha held", null, SHOWN).slice(4)).toEqual(["", "nothing is written."])
+  expect(helpOf("akasha held", null, SHOWN, []).slice(4)).toEqual(["", "nothing is written."])
 })
 
 test("a command stating no help note is written down without them", () => {
   expect(
-    helpOf("akasha held", null, { taking: SHOWN.taking, helpNotes: [], invariants: [] })
+    helpOf("akasha held", null, { taking: SHOWN.taking, helpNotes: [], invariants: [] }, [])
   ).toHaveLength(4)
 })
