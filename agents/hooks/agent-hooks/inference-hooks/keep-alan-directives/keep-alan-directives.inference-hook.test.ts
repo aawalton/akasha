@@ -76,6 +76,7 @@ test("every judge the hook runs puts its own rule to the model", () => {
     "One At A Time",
     "No Commentary",
     "No Commentary",
+    "No Commentary",
   ])
 })
 
@@ -83,9 +84,9 @@ test("one rule may be judged by more than one judge, each by its own sign", () =
   const put = JUDGES.flatMap((judge) =>
     judge({ ...TURN, directives: [ruleNamed("No Commentary")] })
   )
-  expect(put).toHaveLength(2)
-  expect(put[0]?.prompt).not.toBe(put[1]?.prompt)
-  expect(put[0]?.statement).toBe(put[1]?.statement)
+  expect(put).toHaveLength(3)
+  expect(new Set(put.map((one) => one.prompt)).size).toBe(3)
+  expect(new Set(put.map((one) => one.statement)).size).toBe(1)
 })
 
 test("a rule no judge here names is put to the model by nobody", () => {

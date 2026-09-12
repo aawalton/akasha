@@ -20,6 +20,7 @@ import {
 import { directiveKept as test } from "akasha/agents/models/tests/pages/directive-kept/directive-kept.model-test.ts"
 import { noCommentaryKept } from "akasha/agents/models/tests/pages/no-commentary-kept/no-commentary-kept.model-test.code.ts"
 import { oneAtATimeKept } from "akasha/agents/models/tests/pages/one-at-a-time-kept/one-at-a-time-kept.model-test.code.ts"
+import { stillWaitingKept } from "akasha/agents/models/tests/pages/still-waiting-kept/still-waiting-kept.model-test.code.ts"
 import { subagentBriefKept } from "akasha/agents/models/tests/pages/subagent-brief-kept/subagent-brief-kept.model-test.code.ts"
 import {
   askedOf,
@@ -58,6 +59,7 @@ export const JUDGES: readonly Putter[] = [
   oneAtATimeKept,
   noCommentaryKept,
   subagentBriefKept,
+  stillWaitingKept,
 ]
 
 export type Valued = { readonly path: string; readonly value: Record<string, unknown> }
