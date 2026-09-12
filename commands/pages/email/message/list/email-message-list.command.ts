@@ -6,7 +6,7 @@ export const emailMessageList = {
   slug: "email-message-list",
   definition: "the command summarising each Gmail message a search matches, the search optional",
   code: "ts",
-  taking: [{ said: "--label <id>", takes: "a label id a listing is held to, said again for each" }],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -34,5 +34,6 @@ export const emailMessageList = {
     { argument: "argument/query-file" },
     { argument: "argument/mail-query" },
     { argument: "argument/max" },
+    { argument: "argument/label" },
   ],
 } as const satisfies Command
