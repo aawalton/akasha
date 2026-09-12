@@ -36,11 +36,6 @@ export type Taken = {
   readonly json: boolean
 }
 
-export function wrongIn(read: Taken): readonly string[] {
-  if (read.seat !== undefined || read.fleet) return []
-  return [`a swap names a seat or says \`${fleet.said}\`, and no seat was named`]
-}
-
 export type Outcome = "swapped" | "no-live-proxy" | "timeout"
 
 export type Held = { readonly agentId: string; readonly status: Outcome }
@@ -150,7 +145,5 @@ export async function modelGatewaySwap(
 ): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [json, seat, fleet])
   if ("refused" in read) return { report: [], refusals: [...read.refused], code: INPUT }
-  const wrong = wrongIn(read.taken)
-  if (wrong.length > 0) return { report: [], refusals: wrong, code: INPUT }
   return await swappedBy(read.taken, seams)
 }

@@ -38,14 +38,6 @@ export const modelGatewaySwap = {
     },
     {
       invariantKind: "departure",
-      statement: "That one rule is code's, since no argument here can say not neither.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Every other narrowing is the page's, read by the reader every command reads by.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "A swap naming a seat and the fleet together is refused rather than chosen between.",
     },
@@ -107,7 +99,12 @@ export const modelGatewaySwap = {
   name: "swap",
   arguments: [
     { argument: "argument/json" },
-    { argument: "argument/seat", saidAs: "word", notWith: ["argument/fleet"] },
-    { argument: "argument/fleet", notWith: ["argument/seat"] },
+    {
+      argument: "argument/seat",
+      saidAs: "word",
+      notWith: ["argument/fleet"],
+      oneOf: ["argument/fleet"],
+    },
+    { argument: "argument/fleet", notWith: ["argument/seat"], oneOf: ["argument/seat"] },
   ],
 } as const satisfies Command
