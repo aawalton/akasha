@@ -2,6 +2,7 @@ import { closeSync, existsSync, mkdirSync, openSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { dropReadings, SUBAGENT_MARK } from "akasha/agents/read-record/read-record.module.code.ts"
 import { supervisorsRootDir } from "akasha/agents/seats/supervisors/modules/log-path/supervisor-log-path.module.code.ts"
+import { subagentPageInHistory } from "akasha/agents/subagents/modules/page-history/subagent-page-history.module.code.ts"
 import { editsWaiting } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
   type Asking,
@@ -22,7 +23,6 @@ import {
   uncommittedIn,
 } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import { subagentPageInHistory } from "akasha/seat-system/subagent-page-history/subagent-page-history.module.code.ts"
 import { movedOnto } from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
 import { bodyOf } from "akasha/seat-system/subagents/body/subagent-body.module.code.ts"
 import {
