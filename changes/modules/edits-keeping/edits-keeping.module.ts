@@ -163,5 +163,18 @@ export const editsKeeping = {
       invariantKind: "absence",
       statement: "Nothing here works out a body or judges an edit.",
     },
+    {
+      invariantKind: "absence",
+      statement: "A row names no commit the edit in that row was composed against.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A sweep keeps nothing of the rows swept.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "A row swept is read back with its agent, its paths, and the commit it was composed against.",
+    },
   ],
 } as const satisfies Module
