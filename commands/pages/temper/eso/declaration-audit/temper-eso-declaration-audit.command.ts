@@ -7,12 +7,7 @@ export const temperEsoDeclarationAudit = {
   definition:
     "the command reading which committed game artifacts are stamped behind the clone they came from",
   code: "ts",
-  taking: [
-    {
-      said: "--eso-doc <path>",
-      takes: "the documentation file the clone's API version is read from",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -61,5 +56,9 @@ export const temperEsoDeclarationAudit = {
     },
   ],
   name: "declaration-audit",
-  arguments: [{ argument: "argument/json" }, { argument: "argument/code-root" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/code-root" },
+    { argument: "argument/eso-doc" },
+  ],
 } as const satisfies Command
