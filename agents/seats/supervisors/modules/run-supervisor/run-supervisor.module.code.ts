@@ -1,4 +1,4 @@
-import { watchSessionFile } from "akasha/agents/claude-code/session/watch/session-watch.module.code.ts"
+import { watchSessionFile } from "akasha/agents/claude-code/session/modules/session-watch/session-watch.module.code.ts"
 import { openSeatGroup } from "akasha/agents/seats/modules/grouping/seat-grouping.module.code.ts"
 import { refuseSeatName } from "akasha/agents/seats/modules/name-bind/seat-name-bind.module.code.ts"
 import { runSupervisor } from "akasha/seat-system/supervising/supervisor/supervisor.module.code.ts"
