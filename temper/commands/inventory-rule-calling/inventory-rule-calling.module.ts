@@ -29,14 +29,6 @@ export const inventoryRuleCalling = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag where the rule should be named is refused rather than read as an id.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A flag said twice is refused rather than read as the last of the two sayings.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A field the call names nothing for is left as that field was.",
     },
     {

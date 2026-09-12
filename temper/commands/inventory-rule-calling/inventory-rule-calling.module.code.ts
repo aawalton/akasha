@@ -168,14 +168,6 @@ export function settingsOf(): ReturnType<typeof inventorySettings> {
   return inventorySettings()
 }
 
-export function heldIn(kind: Kind, settings: InventoryRuleSettings): readonly Held[] {
-  return KINDLY[kind].heldIn(settings)
-}
-
-export function nameOf(kind: Kind): string {
-  return KINDLY[kind].named
-}
-
 export async function shownRule(kind: Kind, id: string, asTsv: boolean): Promise<Answer> {
   const kindly = KINDLY[kind]
   const access = await inventorySettings()
