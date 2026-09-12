@@ -4,7 +4,7 @@ import {
   calendarDayToPropertyValue,
   isCalendarDraggablePropertyType,
   isCalendarKeyablePropertyType,
-} from "akasha/pages/core/view/calendar-date-to-value/calendar-date-to-value.module.code.ts"
+} from "akasha/pages/core/view/modules/calendar-date-to-value/calendar-date-to-value.module.code.ts"
 import { useCallback, useMemo } from "react"
 
 interface UseCalendarViewWiringArgs {

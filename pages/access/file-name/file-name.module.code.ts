@@ -8,7 +8,7 @@ import {
   holesIn,
   unfilledIn,
 } from "akasha/pages/naming/named-for/name-rule/name-rule.module.code.ts"
-import { camelizeKey } from "akasha/utils/slug/camelize-key/camelize-key.module.code.ts"
+import { camelizeKey } from "akasha/utils/slug/modules/camelize-key/camelize-key.module.code.ts"
 
 export type Filled =
   | { readonly ok: true; readonly stem: string }

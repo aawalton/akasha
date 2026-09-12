@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { RsvpStatus } from "akasha/alan/google/calendar/calendar-event-shapes/calendar-event-shapes.module.code.ts"
+import type { RsvpStatus } from "akasha/alan/google/calendar/modules/calendar-event-shapes/calendar-event-shapes.module.code.ts"
 import { SEND_UPDATES } from "akasha/alan/google/calendar/send-updates-narrowing/send-updates-narrowing.module.code.ts"
 import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
 import { calendar } from "akasha/commands/arguments/pages/calendar.argument.ts"

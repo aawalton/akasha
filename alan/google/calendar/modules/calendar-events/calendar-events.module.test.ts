@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   resolveCalendarId,
   wroteSaid,
-} from "akasha/alan/google/calendar/calendar-events/calendar-events.module.code.ts"
+} from "akasha/alan/google/calendar/modules/calendar-events/calendar-events.module.code.ts"
 
 test("a calendar named `primary` means Alan's own calendar", () => {
   expect(resolveCalendarId("primary", "work@example.com")).not.toBe("work@example.com")

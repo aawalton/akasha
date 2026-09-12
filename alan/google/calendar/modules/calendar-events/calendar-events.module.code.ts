@@ -1,3 +1,5 @@
+import type { CalendarClient } from "akasha/alan/google/calendar/modules/calendar-client/calendar-client.module.code.ts"
+import { OWNER_CALENDAR_ID } from "akasha/alan/google/calendar/modules/calendar-credentials/calendar-credentials.module.code.ts"
 import {
   buildEventRequestBody,
   buildListParams,
@@ -6,7 +8,7 @@ import {
   googleEventsListSchema,
   googleRsvpEventSchema,
   normalizeEvent,
-} from "akasha/alan/google/calendar/calendar-event-schema/calendar-event-schema.module.code.ts"
+} from "akasha/alan/google/calendar/modules/calendar-event-schema/calendar-event-schema.module.code.ts"
 import type {
   EventInput,
   EventPatch,
@@ -14,9 +16,7 @@ import type {
   ListEventsQuery,
   NormalizedEvent,
   RsvpInput,
-} from "akasha/alan/google/calendar/calendar-event-shapes/calendar-event-shapes.module.code.ts"
-import type { CalendarClient } from "akasha/alan/google/calendar/modules/calendar-client/calendar-client.module.code.ts"
-import { OWNER_CALENDAR_ID } from "akasha/alan/google/calendar/modules/calendar-credentials/calendar-credentials.module.code.ts"
+} from "akasha/alan/google/calendar/modules/calendar-event-shapes/calendar-event-shapes.module.code.ts"
 import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 
 export function resolveCalendarId(

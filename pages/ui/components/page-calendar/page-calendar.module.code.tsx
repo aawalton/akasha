@@ -21,7 +21,7 @@ import {
   CALENDAR_WEEKDAY_LABELS,
   monthKeyOf,
   shiftMonth,
-} from "akasha/pages/core/view/calendar-grid/calendar-grid.module.code.ts"
+} from "akasha/pages/core/view/modules/calendar-grid/calendar-grid.module.code.ts"
 import { usePageCalendarState } from "akasha/pages/ui/components/use-page-calendar-state/use-page-calendar-state.module.code.ts"
 import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
 import { Calendar as CalendarIcon, ChevronLeft, ChevronRight } from "lucide-react"

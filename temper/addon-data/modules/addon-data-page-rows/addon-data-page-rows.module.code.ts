@@ -6,7 +6,7 @@ import {
   type Json,
   type Page,
 } from "akasha/temper/addon-generators/modules/addon-data-page/addon-data-page.module.code.ts"
-import { camelizeKey } from "akasha/utils/slug/camelize-key/camelize-key.module.code.ts"
+import { camelizeKey } from "akasha/utils/slug/modules/camelize-key/camelize-key.module.code.ts"
 
 export interface PageResult {
   readonly rows: readonly Page[]

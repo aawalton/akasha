@@ -2,7 +2,7 @@ import type {
   EventInput,
   EventPatch,
   RsvpStatus,
-} from "akasha/alan/google/calendar/calendar-event-shapes/calendar-event-shapes.module.code.ts"
+} from "akasha/alan/google/calendar/modules/calendar-event-shapes/calendar-event-shapes.module.code.ts"
 import {
   narrowSendUpdates,
   SEND_UPDATES,
@@ -109,7 +109,9 @@ export async function asAkasha() {
 }
 
 export async function eventsIn() {
-  return await import("akasha/alan/google/calendar/calendar-events/calendar-events.module.code.ts")
+  return await import(
+    "akasha/alan/google/calendar/modules/calendar-events/calendar-events.module.code.ts"
+  )
 }
 
 export function answeredAsJson(work: (done: string[]) => Promise<unknown>): Promise<Answer> {

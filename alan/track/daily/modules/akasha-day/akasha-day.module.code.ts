@@ -17,7 +17,7 @@ import {
   type Put,
 } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import { camelizeKey } from "akasha/utils/slug/camelize-key/camelize-key.module.code.ts"
+import { camelizeKey } from "akasha/utils/slug/modules/camelize-key/camelize-key.module.code.ts"
 
 export type Values = Readonly<Record<string, unknown>>
 

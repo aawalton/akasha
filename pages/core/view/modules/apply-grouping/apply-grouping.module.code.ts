@@ -1,6 +1,5 @@
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import type { GroupGranularity } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
-import { pageDayKey } from "akasha/pages/core/view/calendar-date-to-value/calendar-date-to-value.module.code.ts"
 import {
   applyGranularityBucket,
   formatGranularityLabel,
@@ -13,6 +12,7 @@ import {
   type PageGroupDefinition,
   type PageResolver,
 } from "akasha/pages/core/view/modules/apply-grouping-shared/apply-grouping-shared.module.code.ts"
+import { pageDayKey } from "akasha/pages/core/view/modules/calendar-date-to-value/calendar-date-to-value.module.code.ts"
 
 const NONE_KEY = GROUP_NONE_KEY
 

@@ -13,7 +13,7 @@ import {
 } from "akasha/alan/track/daily/day-place/day-place.module.code.ts"
 import { pageOf } from "akasha/alan/track/daily/track-pages/track-pages.module.code.ts"
 import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
-import { camelizeKey } from "akasha/utils/slug/camelize-key/camelize-key.module.code.ts"
+import { camelizeKey } from "akasha/utils/slug/modules/camelize-key/camelize-key.module.code.ts"
 
 const MAX_DAY_SESSIONS = 200
 

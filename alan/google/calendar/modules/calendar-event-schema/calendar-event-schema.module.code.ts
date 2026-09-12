@@ -4,7 +4,7 @@ import type {
   ListEventsQuery,
   NormalizedEvent,
   RsvpStatus,
-} from "akasha/alan/google/calendar/calendar-event-shapes/calendar-event-shapes.module.code.ts"
+} from "akasha/alan/google/calendar/modules/calendar-event-shapes/calendar-event-shapes.module.code.ts"
 import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import * as z from "zod"
 
