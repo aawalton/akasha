@@ -2,6 +2,7 @@ import { resolve } from "node:path"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import {
   type InitiativeIntent,
   type InitiativeRow,
@@ -115,18 +116,12 @@ export async function initiativeHandIntent(argv: readonly string[], given: Given
       ...(from === undefined ? [noInitiative(read.from)] : []),
       ...(to === undefined ? [noInitiative(read.to)] : []),
     ]
-    if (from === undefined || to === undefined) {
-      return { report: [], refusals: missing, code: 2 }
-    }
+    if (from === undefined || to === undefined) return mistaking(missing)
     const found = statingIn(from, read.statement)
     const one = found[0]
-    if (one === undefined) return { report: [], refusals: [noIntent(read)], code: 2 }
-    if (found.length > 1) {
-      return { report: [], refusals: [manyIntents(read, found.length)], code: 2 }
-    }
-    if (statingIn(to, read.statement).length > 0) {
-      return { report: [], refusals: [heldAlready(read)], code: 2 }
-    }
+    if (one === undefined) return mistaking([noIntent(read)])
+    if (found.length > 1) return mistaking([manyIntents(read, found.length)])
+    if (statingIn(to, read.statement).length > 0) return mistaking([heldAlready(read)])
     return await handed(root, from, to, one, read, given)
   } catch (thrown) {
     return { report: [], refusals: [whyOf(thrown)], code: 3 }
