@@ -3,6 +3,7 @@ import { join, resolve } from "node:path"
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { dryRun as dryRunArgument } from "akasha/commands/arguments/pages/dry-run.argument.ts"
 import {
+  answeredWith,
   DATA,
   OK,
   OPERATIONAL,
@@ -112,11 +113,11 @@ function refreshing(root: string, read: { dryRun: boolean }, done: string[]): An
       ? `nothing was put in place — ${dryRunArgument.said}`
       : `${indexNamed()} was repaired in place, entry by entry`
   )
-  return {
+  return answeredWith(
     report,
-    refusals: said.refused.map((one) => `the index took less than the whole of it — ${one}`),
-    code: said.refused.length > 0 ? DATA : OK,
-  }
+    said.refused.map((one) => `the index took less than the whole of it — ${one}`),
+    said.refused.length > 0 ? DATA : OK
+  )
 }
 
 export function indexRefresh(argv: readonly string[], given: Given): Answer {
