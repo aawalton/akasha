@@ -14,7 +14,7 @@ import { wordsIn } from "akasha/code/browser/commands/browser-command-arguing/br
 import { readBrowserTestEnv } from "akasha/code/browser/test-harness/browser-test-env/browser-test-env.module.code.ts"
 import { launchAndSignIn } from "akasha/code/browser/test-harness/harness-launch/harness-launch.module.code.ts"
 import {
-  OPERATIONAL,
+  answering,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -50,7 +50,8 @@ export type StorageStateAsked = {
 }
 
 export async function exportBrowserTestStorageState(
-  asked: StorageStateAsked = {}
+  asked: StorageStateAsked = {},
+  done: string[] = []
 ): Promise<readonly string[]> {
   const read = readBrowserTestEnv()
   if (read.missing || read.env === null) {
@@ -64,20 +65,19 @@ export async function exportBrowserTestStorageState(
   const signInPath = asked.signInPath ?? DEFAULT_SIGN_IN
   const output = asked.output ?? playwrightStorageStatePath()
 
-  const report: string[] = []
   const client = createClient(env.supabaseUrl, env.supabaseAnonKey)
   let signIn = await signInWithPassword(client, env.email, env.password)
   if (healable(env.email, signIn.error)) {
-    report.push(
-      `the password ${env.email} carries was refused, and it is the throwaway user, so it is ` +
-        "being set to the one the environment states and tried once more"
-    )
     await ensureThrowawayUser({
       email: env.email,
       password: env.password,
       resetPassword: true,
       acknowledgeCanonicalRotation: true,
     })
+    done.push(
+      `the password ${env.email} carries was refused, and it is the throwaway user, so it was ` +
+        "set to the one the environment states and tried once more"
+    )
     signIn = await signInWithPassword(client, env.email, env.password)
   }
   if (signIn.error != null) {
@@ -93,27 +93,36 @@ export async function exportBrowserTestStorageState(
     signInPath
   )
   try {
+    done.push(`signed in at ${page.url()}`)
     mkdirSync(dirname(output), { recursive: true })
     await context.storageState({ path: output })
+    done.push(`wrote the storage state to ${output}`)
     chmodSync(output, OWNER_ONLY)
-    report.push(`signed in at ${page.url()}`, `wrote the storage state to ${output}`)
-    return report
+    return done
   } finally {
     await browser.close()
   }
 }
 
+export type Exporting = (done: string[], asked: StorageStateAsked) => Promise<Answer>
+
+async function exported(done: string[], asked: StorageStateAsked): Promise<Answer> {
+  return told(await exportBrowserTestStorageState(asked, done))
+}
+
+export async function exportedBy(
+  asked: StorageStateAsked,
+  exporting: Exporting = exported
+): Promise<Answer> {
+  return await answering(async (done) => await exporting(done, asked))
+}
+
 export async function browserTestStorageState(argv: readonly string[]): Promise<Answer> {
   const said = wordsIn(argv, VALUED, NO_SWITCH)
   if ("refused" in said) return refusedBy(said.refused)
-  try {
-    const report = await exportBrowserTestStorageState({
-      url: said.named[URL_SAID],
-      signInPath: said.named[SIGN_IN_PATH],
-      output: said.named[OUTPUT],
-    })
-    return told(report)
-  } catch (thrown) {
-    return refusedBy([thrown instanceof Error ? thrown.message : String(thrown)], OPERATIONAL)
-  }
+  return await exportedBy({
+    url: said.named[URL_SAID],
+    signInPath: said.named[SIGN_IN_PATH],
+    output: said.named[OUTPUT],
+  })
 }

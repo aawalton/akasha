@@ -7,6 +7,7 @@ export const browserTestStorageState = {
   definition:
     "the command signing the browser-test user in and writing the storage state a browser is seeded from",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -50,6 +51,14 @@ export const browserTestStorageState = {
     {
       invariantKind: "absence",
       statement: "Nothing here reads the session the state this command wrote carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that wrote before it threw says in its refusal what that run had written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A fault carries the code that fault names and says where it was thrown.",
     },
   ],
   name: "test-storage-state",
