@@ -7,4 +7,10 @@ export const inventoryRulesCoreInspire = {
   definition:
     "whether deconstructing an item is useful to a character, and which crafting levels say so",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A trait is matched by name without regard to case.",
+    },
+  ],
 } as const satisfies Module

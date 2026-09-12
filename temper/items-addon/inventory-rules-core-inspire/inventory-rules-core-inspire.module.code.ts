@@ -119,6 +119,7 @@ export function characterNeedsTrait(
   if (!craftData) return false
   const lines = asObjectRecord(craftData["lines"])
   if (!lines) return false
+  const wanted = traitName.toLowerCase()
   for (const lineData of Object.values(lines)) {
     const line = asObjectRecord(lineData)
     if (!line) continue
@@ -127,7 +128,9 @@ export function characterNeedsTrait(
     for (const traitData of Object.values(traits)) {
       const trait = asObjectRecord(traitData)
       if (!trait) continue
-      if (trait["name"] === traitName && !trait["known"]) return true
+      const held = trait["name"]
+      if (typeof held !== "string") continue
+      if (held.toLowerCase() === wanted && !trait["known"]) return true
     }
   }
   return false
