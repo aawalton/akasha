@@ -9,6 +9,7 @@ export const agent = {
   extends: ["page-type/page"],
   mortal: true,
   parts: [
+    "file-property/audit-refusals",
     "file-property/edits",
     "file-property/refusals",
     "one-of-property/assignment-slug",
@@ -31,6 +32,13 @@ export const agent = {
     },
     {
       pageProperty: "file-property/refusals",
+      required: false,
+      many: false,
+      uncommitted: true,
+      default: "txt",
+    },
+    {
+      pageProperty: "file-property/audit-refusals",
       required: false,
       many: false,
       uncommitted: true,
