@@ -6,9 +6,6 @@ export const workstationDeploying = {
   slug: "workstation-deploying",
   definition:
     "the service putting the workstation kind up once a commit changes what it is built from",
-  runs: [
-    "bun infrastructure/services/deploy-looping/deploy-looping.module.code.ts service-workstation",
-  ],
   enabled: true,
   systemd: {
     schedule: "*:*:00",
@@ -18,7 +15,8 @@ export const workstationDeploying = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One kind is put up by this service, and that kind is named in its run.",
+      statement:
+        "One kind is put up by this service, and the code beside this page names that kind.",
     },
     {
       invariantKind: "departure",
