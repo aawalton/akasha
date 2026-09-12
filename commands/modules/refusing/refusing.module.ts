@@ -32,5 +32,13 @@ export const refusing = {
       invariantKind: "absence",
       statement: "Nothing here works out what is mistaken or wrong.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The answer is built by the one function that builds a command's refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each code is read from the page declaring what an exit code means.",
+    },
   ],
 } as const satisfies Module

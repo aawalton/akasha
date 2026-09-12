@@ -1,3 +1,8 @@
+import {
+  DATA,
+  INPUT,
+  refusedBy,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 
 const NOTHING = "nothing was judged and nothing was written"
@@ -8,11 +13,11 @@ export type Trouble = {
 }
 
 export function mistaking(said: readonly string[]): Answer {
-  return { report: [], refusals: said, code: 1 }
+  return refusedBy(said, INPUT)
 }
 
 export function troubling(found: Trouble): Answer | null {
   const said = [...found.mistaken, ...found.wrong]
   if (said.length === 0) return null
-  return { report: [], refusals: [...said, NOTHING], code: found.mistaken.length > 0 ? 1 : 2 }
+  return refusedBy([...said, NOTHING], found.mistaken.length > 0 ? INPUT : DATA)
 }
