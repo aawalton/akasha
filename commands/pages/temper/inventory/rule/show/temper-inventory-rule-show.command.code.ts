@@ -1,22 +1,18 @@
-import { answering } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { categoryRuleId } from "akasha/commands/arguments/pages/category-rule-id.argument.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { tsv } from "akasha/commands/arguments/pages/tsv.argument.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { temperInventoryRuleShow as page } from "akasha/commands/pages/temper/inventory/rule/show/temper-inventory-rule-show.command.ts"
 import {
-  JSON_FLAG,
-  readIn,
-  refusedAll,
-  shapeOf,
+  answeredWith,
   shownRule,
-  TSV,
 } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
-
-const SHAPE = shapeOf([JSON_FLAG, TSV], { alone: [JSON_FLAG, TSV], namesARule: true })
 
 export async function temperInventoryRuleShow(
   argv: readonly string[],
   given: Given
 ): Promise<Answer> {
-  const read = readIn(argv, given.calledAs, SHAPE)
-  if ("refused" in read) return refusedAll(read.refused)
-  const id = read.id ?? ""
-  return await answering(() => shownRule("category", id, read.said))
+  return await answeredWith(argv, given.calledAs, page, [tsv, categoryRuleId, json], (taken) =>
+    shownRule("category", taken.categoryRuleId, taken.tsv)
+  )
 }

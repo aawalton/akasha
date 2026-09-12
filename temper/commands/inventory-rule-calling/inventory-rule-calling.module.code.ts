@@ -46,10 +46,6 @@ import type {
 
 export const FORCE = "--force"
 
-export const JSON_FLAG = "--json"
-
-export const TSV = "--tsv"
-
 export const ACTIVE = "--active"
 
 export const TITLE = "--title"
@@ -296,11 +292,7 @@ export function nameOf(kind: Kind): string {
   return KINDLY[kind].named
 }
 
-export async function shownRule(
-  kind: Kind,
-  id: string,
-  held: ReadonlyMap<string, string>
-): Promise<Answer> {
+export async function shownRule(kind: Kind, id: string, asTsv: boolean): Promise<Answer> {
   const kindly = KINDLY[kind]
   const access = await inventorySettings()
   const settings = await access.read()
@@ -310,7 +302,7 @@ export async function shownRule(
     found = [...derived.characterRules, ...derived.companionRules].find((one) => one.id === id)
   }
   if (found === undefined) return unfound(kind, id)
-  if (held.has(TSV)) return toldRows([kindly.rowOf(found)], kindly.columns)
+  if (asTsv) return toldRows([kindly.rowOf(found)], kindly.columns)
   return toldOf(found)
 }
 
