@@ -11,7 +11,6 @@ export const imessageUnreadList = {
       said: "--contact <name-or-handle>",
       takes: "hold the answer to the conversations of the one contact named",
     },
-    { said: "--limit <n>", takes: "the most messages given back, all of them where none is said" },
   ],
   invariants: [
     {
@@ -44,5 +43,5 @@ export const imessageUnreadList = {
     },
   ],
   name: "unread-list",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/limit" }],
 } as const satisfies Command
