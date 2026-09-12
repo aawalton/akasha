@@ -126,6 +126,7 @@ export const command = {
     "module/payload",
     "module/gated-write",
     "module/gated-landing",
+    "text-property/level-name",
   ],
   extends: ["page-type/module"],
   loadedBy: "module/calling",
@@ -134,6 +135,7 @@ export const command = {
     { pageProperty: "record-property/taking", required: false, many: true, maxCount: null },
     { pageProperty: "text-property/help-notes", required: false, many: true, maxCount: null },
     { pageProperty: "number-property/timeout", required: false, many: false },
+    { pageProperty: "text-property/level-name", required: false, many: false },
   ],
   invariants: [
     {
