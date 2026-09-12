@@ -16,7 +16,6 @@ export const inferenceVoiceClone = {
       takes: "that transcript read from a path, or `-` for standard input",
     },
     { said: "--priority <lane>", takes: "which lane of the traffic cop the request waits in" },
-    { said: "--timeout <s>", takes: "how many seconds the wait on the pool runs for" },
     {
       said: "--mode <how>",
       takes: "whether the clip is the voice to match or a tail to carry on from",
@@ -51,5 +50,5 @@ export const inferenceVoiceClone = {
     },
   ],
   name: "clone",
-  arguments: [{ argument: "argument/output" }],
+  arguments: [{ argument: "argument/output" }, { argument: "argument/timeout" }],
 } as const satisfies Command

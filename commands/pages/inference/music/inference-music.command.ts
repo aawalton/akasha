@@ -21,7 +21,6 @@ export const inferenceMusic = {
     { said: "--steps <n>", takes: "diffusion steps" },
     { said: "--seed <n>", takes: "the sampler seed" },
     { said: "--vocal-language <code>", takes: "the language the singing is in" },
-    { said: "--timeout <s>", takes: "how many seconds the wait on the task runs for" },
     { said: "--no-persist", takes: "leave the audio where it was written and file no page for it" },
   ],
   invariants: [
@@ -56,5 +55,5 @@ export const inferenceMusic = {
     },
   ],
   name: "music",
-  arguments: [{ argument: "argument/output" }],
+  arguments: [{ argument: "argument/output" }, { argument: "argument/timeout" }],
 } as const satisfies Command

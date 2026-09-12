@@ -29,7 +29,6 @@ export const inferenceWanExtend = {
     { said: "--steps <n>", takes: "denoise steps across both experts" },
     { said: "--lightning", takes: "the four-step Lightning pair, which drops guidance to one" },
     { said: "--size <WxH>", takes: "the dimensions the clip is rendered at" },
-    { said: "--timeout <s>", takes: "how many seconds the wait on ComfyUI runs for" },
   ],
   invariants: [
     {
@@ -58,5 +57,5 @@ export const inferenceWanExtend = {
     },
   ],
   name: "extend",
-  arguments: [{ argument: "argument/output" }],
+  arguments: [{ argument: "argument/output" }, { argument: "argument/timeout" }],
 } as const satisfies Command
