@@ -54,6 +54,14 @@ export const auditAsking = {
     },
     {
       invariantKind: "departure",
+      statement: "A round that ran is named on a list the caller hands in, with the checks asked.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller wanting none of that naming hands in no list.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A refusal is named with the check that refused it.",
     },
     {

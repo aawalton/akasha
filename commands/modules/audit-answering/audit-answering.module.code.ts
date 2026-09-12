@@ -29,10 +29,27 @@ const NOTHING_TAKES =
 
 const NO_ROUND = "no round of the audit service ran — "
 
+const NOTHING_JUDGED = "nothing was judged —"
+
+const RAN_BEFORE = "of the audit service ran before this stopped —"
+
+const ASKED_FOR = "those rounds were asked for"
+
+const IN_VERDICTS = "and what they judged is in their verdicts"
+
+const NONE_AFTER = "of the audit service ran, and no round after that started — "
+
 export type Keeping = (whole: readonly string[]) => string | null
 
-export function brokenBy(thrown: unknown): Answer {
-  return refusedBy([`nothing was judged — ${whyOf(thrown)}`], OPERATIONAL)
+export function brokenBy(thrown: unknown, rounds: readonly string[] = []): Answer {
+  if (rounds.length === 0) return refusedBy([`${NOTHING_JUDGED} ${whyOf(thrown)}`], OPERATIONAL)
+  return refusedBy(
+    [
+      `${counted(rounds.length, "round")} ${RAN_BEFORE} ${whyOf(thrown)}`,
+      `${ASKED_FOR} ${rounds.join("; ")}, ${IN_VERDICTS}`,
+    ],
+    OPERATIONAL
+  )
 }
 
 export async function judgedOver(
@@ -75,6 +92,7 @@ export type Asked = {
   readonly checks: number
   readonly commit: string
   readonly also: readonly string[]
+  readonly rounds?: readonly string[]
 }
 
 export function codeOf(round: Told): number {
@@ -84,7 +102,14 @@ export function codeOf(round: Told): number {
 
 export function askedAnswer(given: Asked, keeping: Keeping | null): Answer {
   const round = given.told
-  if (round.broken !== null) return refusedBy([`${NO_ROUND}${round.broken}`], OPERATIONAL)
+  const rounds = given.rounds ?? []
+  if (round.broken !== null && rounds.length === 0) {
+    return refusedBy([`${NO_ROUND}${round.broken}`], OPERATIONAL)
+  }
+  if (round.broken !== null) {
+    const ran = `${counted(rounds.length, "round")} ${NONE_AFTER}${round.broken}`
+    return refusedBy([ran], OPERATIONAL)
+  }
   const over = `${counted(given.checks, "check")} answered for ${given.commit}`
   const said =
     round.refusals.length === 0

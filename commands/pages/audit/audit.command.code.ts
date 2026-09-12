@@ -95,18 +95,20 @@ export async function askedOver(
   root: string,
   every: readonly Gathered[],
   named: readonly string[],
-  keeping: Keeping | null
+  keeping: Keeping | null,
+  done: string[] = []
 ): Promise<Answer> {
   const atAudit = checksAt(every, AUDIT)
   const narrowed = narrowedTo(every, atAudit, named)
   if (narrowed.refusals.length > 0) return refusedBy(narrowed.refusals)
   const commit = await commitOf(root)
-  const told = await asked({ root, home: requireEnv("HOME"), checks: narrowed.checks, commit })
+  const home = requireEnv("HOME")
+  const told = await asked({ root, home, checks: narrowed.checks, commit, done })
   const also = [
     ...notAnAuditIn(leftOutOf(atAudit, narrowed.checks)),
     ...notYetJudgingIn(every, named),
   ]
-  return askedAnswer({ told, checks: narrowed.checks.length, commit, also }, keeping)
+  return askedAnswer({ told, checks: narrowed.checks.length, commit, also, rounds: done }, keeping)
 }
 
 export async function audit(argv: readonly string[], given: Given): Promise<Answer> {
@@ -116,9 +118,10 @@ export async function audit(argv: readonly string[], given: Given): Promise<Answ
   const page = given.agentId === null ? null : agentPathOf(root, given.agentId)
   const keeping: Keeping | null =
     page === null ? null : (whole) => auditRefusalsPut(root, page, whole)
+  const done: string[] = []
   try {
-    return await askedOver(root, checksIn(root), meant.only, keeping)
+    return await askedOver(root, checksIn(root), meant.only, keeping, done)
   } catch (thrown) {
-    return brokenBy(thrown)
+    return brokenBy(thrown, done)
   }
 }

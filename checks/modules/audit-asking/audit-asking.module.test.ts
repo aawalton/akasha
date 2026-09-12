@@ -156,6 +156,37 @@ test("a name that is no check slug leaves the round unasked", async () => {
   expect(told.unanswered).toEqual(["Not A Slug"])
 })
 
+async function threwAfter(turns: number): Promise<readonly string[]> {
+  const { root, made } = await repoOf(2)
+  const home = scratch.rootFor("akasha-audit-asking-home-")
+  verdictsWrite(home, { typecheck: { ...CLEAN, commit: made[0] ?? "" } })
+  const done: string[] = []
+  let rounds = 0
+  await expect(
+    asked({
+      root,
+      home,
+      checks: ONE,
+      commit: made[1] ?? "",
+      done,
+      round: () => {
+        rounds += 1
+        if (rounds > turns) throw new Error("the unit died mid-round")
+        return null
+      },
+    })
+  ).rejects.toThrow("the unit died mid-round")
+  return done
+}
+
+test("a round that ran is named on the list the caller hands in", async () => {
+  expect(await threwAfter(1)).toEqual(["typecheck"])
+})
+
+test("a fault before any round started names nothing on that list", async () => {
+  expect(await threwAfter(0)).toEqual([])
+})
+
 test("a refusal is named with the check that refused it", () => {
   const verdicts: Verdicts = {
     typecheck: { ...CLEAN, refusals: ["one.ts — no"] },

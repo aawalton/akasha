@@ -64,6 +64,18 @@ export const auditAnswering = {
     },
     {
       invariantKind: "departure",
+      statement: "A fault after a round ran names those rounds rather than saying nothing judged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A fault before any round ran says nothing was judged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A round that would not start after another ran says how many rounds ran.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every answer here is built by a function rather than written out as a value.",
     },
     {

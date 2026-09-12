@@ -4,6 +4,7 @@ import type { Judged, Judging } from "akasha/checks/modules/judging/judging.modu
 import {
   type Asked,
   askedAnswer,
+  brokenBy,
   codeOf,
   judgedOver,
 } from "akasha/commands/modules/audit-answering/audit-answering.module.code.ts"
@@ -186,4 +187,33 @@ test("a check left unanswered makes the run operational though nothing refused",
   expect(codeOf({ ...ANSWERED, unanswered: ["one"] })).toBe(3)
   expect(codeOf({ ...ANSWERED, refusals: ["one — a.ts — no"] })).toBe(2)
   expect(codeOf(ANSWERED)).toBe(0)
+})
+
+const READ_FAULT = new Error("the verdicts would not be read")
+
+test("a fault before any round ran says nothing was judged", () => {
+  const said = brokenBy(READ_FAULT)
+  expect(said.code).toBe(3)
+  expect(said.refusals.length).toBe(1)
+  expect(said.refusals[0]?.startsWith("nothing was judged — ")).toBe(true)
+  expect(said.refusals[0]).toContain("the verdicts would not be read")
+})
+
+test("a fault after a round ran names those rounds rather than saying nothing was judged", () => {
+  const said = brokenBy(READ_FAULT, ["typecheck", "lint-clean"])
+  expect(said.code).toBe(3)
+  expect(said.refusals[0]).toContain("2 rounds of the audit service ran before this stopped —")
+  expect(said.refusals[0]).toContain("the verdicts would not be read")
+  expect(said.refusals[1]).toBe(
+    "those rounds were asked for typecheck; lint-clean, and what they judged is in their verdicts"
+  )
+})
+
+test("a round that would not start after one ran is not answered as no round running", () => {
+  const asking = { ...told({ broken: "the unit would not start" }), rounds: ["typecheck"] }
+  const said = askedAnswer(asking, null)
+  expect(said.code).toBe(3)
+  expect(said.refusals[0]).toBe(
+    "1 round of the audit service ran, and no round after that started — the unit would not start"
+  )
 })

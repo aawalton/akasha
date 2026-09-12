@@ -24,6 +24,7 @@ export type Asking = {
   readonly checks: readonly string[]
   readonly commit: string
   readonly round?: Round
+  readonly done?: string[]
 }
 
 export type Told = {
@@ -65,11 +66,13 @@ function requesting(home: string, checks: readonly string[]): string | null {
 
 export async function asked(given: Asking): Promise<Told> {
   const start = given.round ?? round
+  const done = given.done ?? []
   let broken: string | null = null
   let left = await unansweredIn(given.root, verdictsRead(given.home), given.checks, given.commit)
   for (let turn = 0; turn < ROUNDS && left.length > 0; turn += 1) {
     broken = requesting(given.home, left) ?? start()
     if (broken !== null) break
+    done.push(left.join(", "))
     left = await unansweredIn(given.root, verdictsRead(given.home), given.checks, given.commit)
   }
   const verdicts = verdictsRead(given.home)
