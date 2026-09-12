@@ -9,7 +9,7 @@ import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.c
 
 const NOTHING = "nothing"
 
-export async function pageSecretShow(argv: readonly string[], given: Given): Promise<Answer> {
+export async function pageSecretList(argv: readonly string[], given: Given): Promise<Answer> {
   return await caught(() => {
     const aimed = aiming(argv, given, [FILE_PATH])
     if ("code" in aimed) return aimed
