@@ -1,4 +1,5 @@
 import { resolve } from "node:path"
+import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
@@ -7,8 +8,6 @@ import {
   resolveAddon,
 } from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
 import { valuesOf } from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
-
-const DATA = 2
 
 const ROOT_FLAG = "--code-root"
 
@@ -52,5 +51,5 @@ export function temperAddonResolve(argv: readonly string[] = []): Answer {
     return refused(`${name} reaches no addon under ${root}`, DATA)
   }
 
-  return { report: JSON.stringify(match, null, SPACES).split("\n"), refusals: [], code: 0 }
+  return { report: JSON.stringify(match, null, SPACES).split("\n"), refusals: [], code: OK }
 }
