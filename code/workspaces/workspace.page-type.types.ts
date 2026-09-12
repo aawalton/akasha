@@ -1,3 +1,4 @@
+import type { ToolReached } from "akasha/code/workspace-packages/properties/tool-reached.text-property.types.ts"
 import type { BiomeConfig } from "akasha/code/workspaces/properties/biome-config.file-property.types.ts"
 import type { BunConfig } from "akasha/code/workspaces/properties/bun-config.file-property.types.ts"
 import type { DockerIgnore } from "akasha/code/workspaces/properties/docker-ignore.file-property.types.ts"
@@ -23,4 +24,5 @@ export type Workspace = Domain & {
   typescriptBuildInfo?: TypescriptBuildInfo
   workspaceGitIgnore: WorkspaceGitIgnore
   packageDirectory?: PackageDirectory
+  toolReached?: ToolReached
 }

@@ -1,10 +1,12 @@
 import { builtinModules } from "node:module"
-import { dirname, join } from "node:path"
+import { join } from "node:path"
 import {
+  folderOf,
   type Manifest,
   manifestNamed,
   manifestsIn,
   packagePagesIn,
+  pagesOfKind,
 } from "akasha/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.decision.code.ts"
 import {
   bodyNamed,
@@ -25,6 +27,8 @@ const AT = "@"
 const PARTED_BY = "/"
 
 const ROOT = ""
+
+const WORKSPACE = "workspace"
 
 const NODE = "node:"
 
@@ -275,10 +279,10 @@ export function unreachedIn(
 
 function byToolOver(shadow: Shadow): ReadonlyMap<string, ReadonlySet<string>> {
   const found = new Map<string, ReadonlySet<string>>()
-  for (const path of packagePagesIn(shadow)) {
+  for (const path of [...packagePagesIn(shadow), ...pagesOfKind(shadow, WORKSPACE)]) {
     const value = shadow.pageOf(path)
     const said = value === null ? null : textsAt(value, TOOL_REACHED)
-    if (said !== null) found.set(dirname(path), new Set(said))
+    if (said !== null) found.set(folderOf(path), new Set(said))
   }
   return found
 }

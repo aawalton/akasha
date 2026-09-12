@@ -36,6 +36,7 @@ export const workspace = {
     },
     { pageProperty: "file-property/workspace-git-ignore", required: true, many: false },
     { pageProperty: "build-folder-property/package-directory", required: false, many: false },
+    { pageProperty: "text-property/tool-reached", required: false, many: true, maxCount: null },
   ],
   invariants: [
     {

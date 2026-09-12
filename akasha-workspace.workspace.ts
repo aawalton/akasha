@@ -15,4 +15,14 @@ export const akashaWorkspace = {
   typescriptConfig: "json",
   workspaceGitIgnore: "gitignore",
   packageDirectory: true,
+  toolReached: [
+    "@biomejs/biome",
+    "@vscode/ripgrep",
+    "@capacitor/cli",
+    "@capacitor/ios",
+    "@capacitor/app",
+    "@capacitor/filesystem",
+    "@capacitor/push-notifications",
+    "@capacitor/status-bar",
+  ],
 } as const satisfies Workspace
