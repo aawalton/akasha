@@ -9,7 +9,7 @@ import {
   readIn,
   STATE,
   statedAs,
-} from "akasha/commands/pages/agent/turn-colors/agent-turn-colors.command.code.ts"
+} from "akasha/commands/pages/agent/turn-color-list/agent-turn-color-list.command.code.ts"
 import {
   colorIn,
   WORKING_PAGE,
