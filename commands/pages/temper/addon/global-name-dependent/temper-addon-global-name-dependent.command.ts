@@ -7,11 +7,7 @@ export const temperAddonGlobalNameDependent = {
   definition:
     "the command naming what depends on an addon global and ruling whether renaming it is safe",
   code: "ts",
-  taking: [
-    { said: "<global>", takes: "the global name dependents are enumerated for" },
-    { said: "--global <name>", takes: "the global name dependents are enumerated for" },
-    { said: "--json", takes: "give one report per line as JSON rather than as prose" },
-  ],
+  taking: [{ said: "--json", takes: "give one report per line as JSON rather than as prose" }],
 
   invariants: [
     {
@@ -37,5 +33,8 @@ export const temperAddonGlobalNameDependent = {
     },
   ],
   name: "global-name-dependent",
-  arguments: [{ argument: "argument/code-root" }],
+  arguments: [
+    { argument: "argument/code-root" },
+    { argument: "argument/global", saidAs: "flag-or-word" },
+  ],
 } as const satisfies Command
