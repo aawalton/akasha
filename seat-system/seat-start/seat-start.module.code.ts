@@ -21,6 +21,10 @@ import { refuseParentless } from "akasha/agents/seats/modules/parentless-refusal
 import { composedNameOf } from "akasha/agents/seats/modules/rename/seat-rename.module.code.ts"
 import { defaultFor } from "akasha/agents/seats/modules/resolve/seat-resolve.module.code.ts"
 import {
+  compositionOf,
+  decideSpawnName,
+} from "akasha/agents/seats/modules/spawn-name-decide/seat-spawn-name-decide.module.code.ts"
+import {
   dataError,
   inputError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
@@ -37,10 +41,6 @@ import {
   principals,
 } from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 import { launchSeatUnderTmux } from "akasha/seat-system/launch-seat-tmux/launch-seat-tmux.module.code.ts"
-import {
-  compositionOf,
-  decideSpawnName,
-} from "akasha/seat-system/seat-spawn-name-decide/seat-spawn-name-decide.module.code.ts"
 import { resolveStatedIdentity } from "akasha/seat-system/seat-stated-identity/seat-stated-identity.module.code.ts"
 import {
   type StatedIdentity,
