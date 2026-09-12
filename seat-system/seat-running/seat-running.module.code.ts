@@ -30,6 +30,7 @@ import {
 } from "akasha/agents/seats/modules/nameable/seat-nameable.module.code.ts"
 import { akashaSeatRelPath } from "akasha/agents/seats/modules/page-akasha/seat-page-akasha.module.code.ts"
 import { statedFromHistory } from "akasha/agents/seats/modules/page-history/seat-page-history.module.code.ts"
+import { writeSeatPage } from "akasha/agents/seats/modules/page-writing/seat-page-writing.module.code.ts"
 import {
   AKASHA,
   akashaRoot,
@@ -40,7 +41,6 @@ import {
   composeSeatName,
   personPrincipals,
 } from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
-import { writeSeatPage } from "akasha/seat-system/seat-page-writing/seat-page-writing.module.code.ts"
 import { principalOf } from "akasha/seat-system/seat-principal/seat-principal.module.code.ts"
 import {
   composedNameOf,
