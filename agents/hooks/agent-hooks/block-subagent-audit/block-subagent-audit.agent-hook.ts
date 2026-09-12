@@ -64,6 +64,14 @@ export const blockSubagentAudit = {
       statement: "A payload naming no subagent leaves the call as the call is.",
     },
     {
+      invariantKind: "departure",
+      statement: "A payload this cannot read judges nothing and exits so the dispatch refuses.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A payload that parses and is not an object is a payload this cannot read.",
+    },
+    {
       invariantKind: "gap",
       statement: "A harness naming no subagent refuses nobody rather than refusing everyone.",
     },
