@@ -51,6 +51,10 @@ export const argument = {
     },
     {
       invariantKind: "departure",
+      statement: "An argument has two spellings: `said` at its flag, `placeholder` as a word.",
+    },
+    {
+      invariantKind: "departure",
       statement: "What an argument carries where no call and no entry says it belongs here.",
     },
     {
