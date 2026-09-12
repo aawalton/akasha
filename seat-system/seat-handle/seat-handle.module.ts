@@ -6,4 +6,10 @@ export const seatHandle = {
   slug: "seat-handle",
   definition: "the grammar of a uuid, a prefix, or a name that names one seat",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A handle reaching no seat, or more than one, is refused as a fault of the call.",
+    },
+  ],
 } as const satisfies Module

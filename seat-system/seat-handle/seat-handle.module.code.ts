@@ -1,7 +1,4 @@
-import {
-  dataError,
-  inputError,
-} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { inputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
 import {
   type Seated,
@@ -109,13 +106,9 @@ function fromEnv(): string | undefined {
   return textIn(process.env.AGENT_ID) ?? undefined
 }
 
-async function missError(input: string, message: string): Promise<Error> {
-  return planSeatResolution(input).kind === "invalid" ? inputError(message) : dataError(message)
-}
-
 export async function resolveSeatTargetCli(input: string): Promise<string> {
   const found = resolveSeatTarget(input)
-  if ("error" in found) throw await missError(input, `[ops] ${found.error}`)
+  if ("error" in found) throw inputError(`[ops] ${found.error}`)
   return found.id
 }
 
@@ -166,8 +159,7 @@ export async function requireSenderInput(flagValue: string | undefined): Promise
 export async function resolveSenderTargetCli(candidate: string): Promise<string> {
   const found = resolveSeatTarget(candidate)
   if ("error" in found) {
-    throw await missError(
-      candidate,
+    throw inputError(
       `[ops] could not resolve sender identity '${candidate}' (the SENDER slot, not the recipient): ${found.error}`
     )
   }
