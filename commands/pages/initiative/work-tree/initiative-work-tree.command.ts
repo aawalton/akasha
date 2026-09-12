@@ -13,21 +13,7 @@ export const initiativeWorkTree = {
     { said: "--counts", takes: "how many initiatives and how many intents the tree holds" },
     { said: "--colors", takes: "the color each initiative is drawn in, keyed by its slug" },
   ],
-  helpNotes: [
-    "named nothing, it prints the tree.",
-    "each word names what to print, so one call prints one thing.",
-    "an initiative is keyed by the slug it declares rather than by the name of its file.",
-    "an intent is keyed by its initiative's slug and its place in that initiative's list.",
-    "nothing is stored: the tree is composed from the pages at the moment of asking.",
-    "an initiative whose parent names a page that is not there is drawn as a root rather than lost with its children.",
-    "an initiative whose parent chain closes into a cycle is drawn as a root in the same way.",
-    "the intents an initiative holds are drawn beneath it, ahead of the initiatives beneath it.",
-    "an intent keeps the place its initiative states, the order of an intent list being the author's.",
-    "an intent opens the page of the initiative holding it, an intent being no page of its own.",
-    "a color is the turn state of a seat sitting on that initiative, and a row several seats state takes the liveliest of them.",
-    "an initiative no seat sits on carries no color, and an intent carries none at all.",
-    "`--colors` opens no initiative page, so a caller repainting rows pays none of the walk the whole tree costs.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
@@ -85,6 +71,10 @@ export const initiativeWorkTree = {
     },
     {
       invariantKind: "departure",
+      statement: "A call naming no word prints the tree.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A call naming two words is refused.",
     },
     {
@@ -102,6 +92,10 @@ export const initiativeWorkTree = {
     {
       invariantKind: "absence",
       statement: "An intent has no color.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "An initiative no seat sits on has no color.",
     },
     {
       invariantKind: "absence",
