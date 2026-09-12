@@ -134,23 +134,6 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "A page sits in a folder of its own.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page's folder is named for the subagent.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page's files sit in the page's folder.",
-    },
-    {
-      invariantKind: "stopgap",
-      statement:
-        "A subagent whose page is already flat keeps that page rather than taking a second.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A page that is not there is taken away by doing nothing.",
     },
     {
@@ -311,10 +294,7 @@ export const subagentPresence = {
       invariantKind: "departure",
       statement: "A landing a held lock refused leaves its reason in the log as any refusal does.",
     },
-    {
-      invariantKind: "departure",
-      statement: "The pages under a seat are asked of the index rather than listed off a folder.",
-    },
+
     {
       invariantKind: "departure",
       statement:
@@ -340,15 +320,7 @@ export const subagentPresence = {
     {
       invariantKind: "departure",
       statement:
-        "A run of hyphens between the seat's name and the subagent's own id is written as one.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page is under the longest seat name the index files that its slug opens with.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A seat whose name opens another seat's name sweeps no page of that other seat.",
+        "A sweep reaches only the pages the module naming a page says are under that seat.",
     },
     {
       invariantKind: "constraint",
