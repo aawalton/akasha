@@ -1,3 +1,3 @@
-{"id":"01a09615-ed94-7668-89d7-b34b8a61585d","conditionField":"max-quality","conditionValue":"3"}
-{"id":"01a09615-ed94-7344-a90a-a27e4a7447e5","conditionField":"quality-op","conditionValue":">="}
-{"id":"01a09615-ed94-7cc3-8765-8db847a55432","conditionField":"stolen","conditionValue":"not-stolen"}
+{"id":"01a09617-9a23-7e31-aa9e-911f091eebc6","conditionField":"max-quality","conditionValue":"3"}
+{"id":"01a09617-9a23-7ff5-bb9d-2667946a2d49","conditionField":"quality-op","conditionValue":">="}
+{"id":"01a09617-9a23-7863-b921-297b9d8436a3","conditionField":"stolen","conditionValue":"not-stolen"}
