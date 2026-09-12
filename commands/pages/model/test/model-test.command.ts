@@ -7,7 +7,6 @@ export const modelTest = {
   definition: "the command putting a model test's labelled cases to its model and scoring them",
   code: "ts",
   test: "ts",
-  changeKind: "change-none",
   taking: [
     { said: "<test>", takes: "the model test whose prompt is put to the model" },
     { said: "--cases <test>", takes: "the model test whose cases are used, its own by default" },

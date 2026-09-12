@@ -7,7 +7,6 @@ export const musicPlay = {
   definition: "the command playing one track, named by a query or by a track uri",
   code: "ts",
   test: "ts",
-  changeKind: "change-none",
   taking: [
     { said: "<query>", takes: "the track searched for, played as the top hit" },
     {

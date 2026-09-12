@@ -7,7 +7,6 @@ export const musicNowPlaying = {
   definition: "the command naming the track Spotify is playing and the playback state around it",
   code: "ts",
   test: "ts",
-  changeKind: "change-none",
   taking: [
     { said: "--json", takes: "give the playback state as JSON rather than as one human line" },
   ],

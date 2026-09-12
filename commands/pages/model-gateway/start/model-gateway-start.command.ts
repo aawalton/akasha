@@ -6,7 +6,6 @@ export const modelGatewayStart = {
   slug: "model-gateway-start",
   definition: "the command starting one gateway on the akasha entry, apart from the fleet",
   code: "ts",
-  changeKind: "change-none",
   parts: ["module/proxy-run"],
   taking: [
     {

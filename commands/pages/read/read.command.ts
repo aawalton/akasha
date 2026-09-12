@@ -9,7 +9,6 @@ export const read = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  changeKind: "change-none",
   parts: ["module/long-body", "module/differing"],
   taking: [
     {

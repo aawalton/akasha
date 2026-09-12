@@ -6,7 +6,6 @@ export const pageSecretList = {
   slug: "page-secret-list",
   definition: "the command naming which secrets a page holds, none of them decrypted",
   code: "ts",
-  changeKind: "change-none",
   taking: [
     {
       said: "--file-path <path>",
