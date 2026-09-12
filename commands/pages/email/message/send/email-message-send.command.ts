@@ -6,12 +6,6 @@ export const emailMessageSend = {
   slug: "email-message-send",
   definition: "the command sending a composed message from the authenticated mailbox",
   code: "ts",
-  taking: [
-    {
-      said: "--to <addr,..>",
-      takes: "who the mail goes to, said again or parted by commas, and every send names one",
-    },
-  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -59,6 +53,7 @@ export const emailMessageSend = {
   ],
   name: "send",
   arguments: [
+    { argument: "argument/to-address", required: true, repeats: true },
     { argument: "argument/subject-file" },
     { argument: "argument/body-file" },
     { argument: "argument/subject" },
