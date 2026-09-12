@@ -10,7 +10,7 @@ import {
   SEQ,
   TAIL,
 } from "akasha/commands/pages/infrastructure/dev-server/dev-server-argument-reading/dev-server-argument-reading.module.code.ts"
-import { lastLinesOf } from "akasha/commands/pages/infrastructure/dev-server/last-lines/last-lines.module.code.ts"
+import { lastLinesOf } from "akasha/commands/pages/infrastructure/dev-server/logs/last-lines/last-lines.module.code.ts"
 import {
   logFilePath,
   lookupApp,
