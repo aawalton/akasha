@@ -11,29 +11,29 @@ export const athenaCommandArguments = {
     {
       statement: "Every argument a command takes is a page.",
       workingMemory:
-        "`commands/arguments/argument.page-type.ts` is the page type: `said`, `takes`, `value`, `placeholder`, `repeats`. `Single Authority` settles the shape: one page per argument carrying one `takes` sentence. 69 command pages name `--json`; 64 share one meaning and 5 keep their own on purpose. The migration runs largest argument first, one argument to a landing. Left for Alan: `--last`, `--to` and `--target` each spell two meanings, which is intent 7 and holds those commands back.",
+        "338 argument pages, and 765 entries name exactly those 338 — no dangling reference, no page no command names. 216 of 235 command pages name arguments; 3 state `arguments: []` and 16 state no key at all, which are two different claims. Two commands read a flag no page names: `--break-the-glass` at `index-refresh.command.code.ts:35` and `--settings` at `seat-refresh-settings.command.code.ts:22`. The five Alan held all split by meaning.\n",
     },
     {
       statement: "A command names the arguments it takes and narrows each.",
       workingMemory:
-        "`command-arguments.record-property.ts` carries `required`, `saidAs` and `notWith` now — `68264b739a4`, `eed95dc9120`, `0af54f5a91f`. `select-property/said-as` has `flag`, `word`, `flag-or-word`, and a refusal names an argument the way its command takes it, which gives `placeholder` its first reader. Three commands state entries, and this waits on every argument becoming a page. Is a route flag a page of its own, or synthesized as `prose-routing` makes it?",
+        "The vocabulary is five keys on `command-arguments.record-property.ts`: `argument`, `required`, `saidAs`, `notWith`, `repeats`. `default` sits on the argument page instead. Of 216 pages naming arguments, 141 narrow and 75 do not, some where the code narrows — `track-weight.command.ts:58` names two bare while its invariants refuse a weight that is no number. The route question is answered: a route argument is a page ending `-file`, `c194ea764b8`, and 21 exist.\n",
     },
     {
       statement:
         "One reader reads every command's arguments from the pages, refusing what no page names.",
       workingMemory:
-        "`takenFor` at `argument-taking.module.code.ts:279` is the one reader. The check is `code-check/command-takes-its-arguments-through-one-reader`, landed at `43dbf523a33e` with `experimental: true`, so it binds nobody yet. It refuses a command file reading its own first parameter, following calls within that file and passing over words handed to an import. It refused 57 of 236 files at 04:22. `experimental` comes off once that is zero; Alan approves a check before it binds.\n",
+        "`takenFor` is the one reader. The check `command-takes-its-arguments-through-one-reader` landed at `43dbf523a33e` with `experimental: true`, so it binds nobody; Alan approves a check before it binds. It refused 47 of 235 command files at `b365d4a17ab`, 22 of them temper. The number it cannot see is 87 more handing argv to a per-domain reader — `temper/commands/argument-word-reading` holds 15, `inference/wan/wan-arguing` 8. Those fold before the check means what it says.\n",
     },
     {
       statement:
         "A command's code reads its arguments through a type generated from its argument pages.",
       workingMemory:
-        "`TakenFor` in `argument-taking.module.code.ts` reads a command page's `arguments` literal and answers exactly those keys, camelised, each typed by its argument page's `value`, with `required` deciding optionality (`66235ec888d6`). Proven on `git push` (`bfc3221fbcbc`) and `seat reset` (`750592bac7dc`), where reading a key the page does not name now draws `TS2339` at apply. Left: every other command's code still reads a bag keyed by `string`.\n",
+        "101 of 235 command code files call `takenFor` and so get the generated keyed type; four more name `TakenFor` through `inventory-rule-calling`. The bag keyed by `string` has all but gone — `Taken` is named by no command file, and only `change-show` and `change-apply` reach a key by element access. The 130 left do not read a bag; they read argv words, themselves or through a per-domain reader. Measured at `b365d4a17ab`.\n",
     },
     {
       statement: "One spelling names one argument, and one argument has one spelling.",
       workingMemory:
-        "Every alias is gone — `7f192eb50ad` through `99d2e372171`. Measured at `e659f26d471`: 37 spellings carry more than one `takes` sentence, about 25 of them genuinely more than one argument. `--query` names five things, `--from` four, `--file-path` four over 13 commands, `--message` a Gmail id and a commit message. No command names two arguments alike, so no call site is ambiguous. Five wait on Alan: `--last`, `--to`, `--target`, `--prompt` and `--text`.\n",
+        "30 spellings are carried by more than one argument page at `b365d4a17ab`, down from 37 at `e659f26d471`: `--to` by six, `--query` by five, `--file-path`, `--all` and `--from` by four, then 19 pairs. No command names two alike, so no call is ambiguous. Each page was minted for one meaning with the contested spelling kept, which claims nothing and changes nothing a caller types. Alan's: does one argument having one spelling rename these 30?\n",
     },
   ],
 } as const satisfies Initiative
