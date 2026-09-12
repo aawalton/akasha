@@ -56,6 +56,18 @@ export const renameFilePage = {
     },
     {
       invariantKind: "departure",
+      statement: "A page in a folder named for what its slug adds keeps a folder named that way.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What the slug adds is what the folder's own name leaves off the front.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A new slug opening otherwise lands the page in a folder named for the whole.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page type owning its folder lands in the folder its new plural names.",
     },
     {

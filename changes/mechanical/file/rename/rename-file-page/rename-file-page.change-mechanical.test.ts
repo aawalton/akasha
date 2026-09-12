@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import {
   addressOf,
   runChange,
+  tailOf,
 } from "akasha/changes/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.code.ts"
 import {
   KEPT_ENTRIES,
@@ -368,6 +369,18 @@ const aPage = (said: Readonly<Record<string, string>>) => ({
   slug: "one",
   pageTypeSlug: "book-section",
   said: new Map(Object.entries(said)),
+})
+
+test("a folder named for what a slug adds to its parent's is named that way again", () => {
+  expect(tailOf("change-repeat", "repeat", "change-again")).toBe("again")
+  expect(tailOf("change-repeat", "repeat", "change-repeat-twice")).toBe("repeat-twice")
+})
+
+test("a folder the old slug does not close with names the whole new slug", () => {
+  expect(tailOf("held", "one", CARRIED)).toBe(null)
+  expect(tailOf("owned", "owned", CARRIED)).toBe(null)
+  expect(tailOf("change-repeat", "repeat", "apply-repeat")).toBe(null)
+  expect(tailOf("change-repeat", "repeat", "change-")).toBe(null)
 })
 
 test("a page whose type scopes nothing is addressed by its page type and its slug", () => {

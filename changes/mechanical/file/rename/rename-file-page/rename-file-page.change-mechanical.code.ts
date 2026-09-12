@@ -192,11 +192,18 @@ function ownsIn(world: World, held: Held, at: string, beside: readonly Beside[])
   return files.length > 0 && files.every((one) => basename(one).startsWith(opening))
 }
 
+export function tailOf(slug: string, named: string, to: string): string | null {
+  if (named === "" || !slug.endsWith(`-${named}`)) return null
+  const opening = slug.slice(0, slug.length - named.length)
+  return to.startsWith(opening) && to.length > opening.length ? to.slice(opening.length) : null
+}
+
 function foldedAs(world: World, held: Held, given: Asked, folder: string): string {
-  if (held.pageTypeSlug !== PAGE_TYPE) {
-    return folderFor(pluralIn(world, held), held.pageTypeSlug, given.to)
-  }
   const named = basename(folder)
+  if (held.pageTypeSlug !== PAGE_TYPE) {
+    const tail = tailOf(held.slug, named, given.to)
+    return tail ?? folderFor(pluralIn(world, held), held.pageTypeSlug, given.to)
+  }
   if (given.plural === undefined || namedForThePlural(named, given.plural)) return named
   return given.plural
 }
