@@ -16,6 +16,7 @@ import {
   OK,
   OPERATIONAL,
   refused,
+  refusedBy,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -144,6 +145,6 @@ export async function modelGatewaySwap(
   seams: Seams = SWAP_SEAMS
 ): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [json, seat, fleet])
-  if ("refused" in read) return { report: [], refusals: [...read.refused], code: INPUT }
+  if ("refused" in read) return refusedBy(read.refused)
   return await swappedBy(read.taken, seams)
 }
