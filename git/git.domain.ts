@@ -23,6 +23,7 @@ export const git = {
     "module/git-dir",
     "module/committing",
     "module/commit-reading",
+    "module/holding",
   ],
   invariants: [
     {

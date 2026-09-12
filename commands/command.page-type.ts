@@ -40,7 +40,6 @@ export const command = {
     "module/restating",
     "module/folder-clearing",
     "module/orphaning",
-    "module/holding",
     "module/change-freshness",
     "module/commit-author",
     "module/yaml-lines",
