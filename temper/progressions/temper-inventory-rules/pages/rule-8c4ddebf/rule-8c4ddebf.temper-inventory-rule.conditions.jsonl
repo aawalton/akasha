@@ -1,5 +1,5 @@
-{"id":"01a0963b-6d1d-7505-a095-27b18e80871f","conditionField":"max-quality","conditionValue":"1"}
-{"id":"01a0963b-6d1d-7f80-a04f-4b2bad3341e8","conditionField":"stolen","conditionValue":"not-stolen"}
-{"id":"01a0963b-6d1d-7141-901a-e5d0167caa49","conditionField":"crafted","conditionValue":"not-crafted"}
-{"id":"01a0963b-6d1d-706c-bd70-79f3fcff7e86","conditionField":"potion-effects","conditionValue":"[\"magicka-restore\"]"}
-{"id":"01a0963b-6d1d-75bc-b0fd-49363143f068","conditionField":"potion-effects-mode","conditionValue":"any"}
+{"id":"01a0963c-e869-7476-9dc7-3e8c9551fbbc","conditionField":"max-quality","conditionValue":"1"}
+{"id":"01a0963c-e869-7767-91a6-1dd39ac760dd","conditionField":"stolen","conditionValue":"not-stolen"}
+{"id":"01a0963c-e869-730c-92ae-d3ac0f099ab1","conditionField":"crafted","conditionValue":"not-crafted"}
+{"id":"01a0963c-e869-7dd7-9fda-9295a36c0793","conditionField":"potion-effects","conditionValue":"[\"magicka-restore\"]"}
+{"id":"01a0963c-e869-7ee2-a8d1-d0bc0d520978","conditionField":"potion-effects-mode","conditionValue":"any"}
