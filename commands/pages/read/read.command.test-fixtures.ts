@@ -1,11 +1,10 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Reading } from "akasha/agents/read-record/read-record.module.code.ts"
-import { blobIdOf, partly, readingIn } from "akasha/agents/read-record/read-record.module.code.ts"
+import { blobIdOf, readingIn } from "akasha/agents/read-record/read-record.module.code.ts"
 import { filePath } from "akasha/commands/arguments/pages/file-path.argument.ts"
 import { full as fullArgument } from "akasha/commands/arguments/pages/full.argument.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { numbered } from "akasha/commands/modules/long-body/long-body.module.code.ts"
 import {
   ANSWER_CEILING,
   costOf,
@@ -44,10 +43,6 @@ export const TAKING = readCommand.arguments.map((one) => ({
 export const AGENT = "01a04e96-c80a-79ef-819f-a455a96a0e54"
 
 export const HELD = "akasha/one/held.ts"
-
-export const LONG = "akasha/one/long.ts"
-
-export const LONG_LINES = 600
 
 export const MANY = 12
 
@@ -126,11 +121,6 @@ export function binRead(bytes: readonly number[]): Rooted {
   return { root, said: read(["--file-path", BIN], givenFor(root)) }
 }
 
-export function tooWideRead(): Answer {
-  const root = rootWith([{ at: LONG, body: `${"x".repeat(ANSWER_CEILING + 1)}\n` }])
-  return read(["--file-path", LONG], givenFor(root))
-}
-
 export type Overflowed = Rooted & {
   readonly left: readonly string[]
   readonly returned: readonly string[]
@@ -184,68 +174,6 @@ export function committed(root: string, path: string): undefined {
   ]) {
     saying(["git", "-C", root, ...one])
   }
-}
-
-export function longBody(): string {
-  return lettered(LONG_LINES)
-}
-
-export function longRoot(): string {
-  return rootWith([{ at: LONG, body: longBody() }])
-}
-
-export function ranThrough(root: string, most: number): readonly Answer[] {
-  const said: Answer[] = []
-  for (let one = 0; one < most; one += 1) {
-    said.push(read(["--file-path", LONG], givenFor(root)))
-    if (!partly(readingIn(root, AGENT, LONG))) break
-  }
-  return said
-}
-
-export function longFirst(): { readonly root: string; readonly said: Answer } {
-  const root = longRoot()
-  return { root, said: read(["--file-path", LONG], givenFor(root)) }
-}
-
-export function longWhole(): { readonly said: readonly Answer[]; readonly held: Reading | null } {
-  const root = longRoot()
-  const said = ranThrough(root, 8)
-  return { said, held: readingIn(root, AGENT, LONG) }
-}
-
-export function longBeside(): { readonly first: Answer; readonly next: Answer } {
-  const root = rootWith([
-    { at: LONG, body: longBody() },
-    { at: HELD, body: "one\n" },
-  ])
-  return {
-    first: read(namingEach([LONG, HELD]), givenFor(root)),
-    next: read(namingEach([HELD, LONG]), givenFor(root)),
-  }
-}
-
-export function begunAgain(): readonly string[] {
-  const root = longRoot()
-  read(["--file-path", LONG], givenFor(root))
-  const full = read(["--full", "--file-path", LONG], givenFor(root))
-  writeFileSync(join(root, LONG), lettered(LONG_LINES - 1))
-  const moved = read(["--file-path", LONG], givenFor(root))
-  return [full.report[0] ?? "", moved.report[0] ?? ""]
-}
-
-export function linesGiven(answers: readonly Answer[]): readonly string[] {
-  const said: string[] = []
-  for (const one of answers) {
-    for (const line of one.report) {
-      if (line.startsWith(" ")) said.push(...line.split("\n"))
-    }
-  }
-  return said
-}
-
-export function wholeNumbered(): readonly string[] {
-  return numbered(longBody()).split("\n")
 }
 
 export function manyFiles(): readonly { readonly at: string; readonly body: string }[] {

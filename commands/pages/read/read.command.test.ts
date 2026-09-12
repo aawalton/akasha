@@ -8,6 +8,17 @@ import {
   sameBody,
 } from "akasha/agents/read-record/read-record.module.code.ts"
 import {
+  begunAgain,
+  LONG,
+  linesGiven,
+  longBeside,
+  longBody,
+  longFirst,
+  longWhole,
+  tooWideRead,
+  wholeNumbered,
+} from "akasha/commands/pages/read/long-answering/long-answering.module.test-fixtures.ts"
+import {
   ANSWER_CEILING,
   costOf,
   NO_AGENT,
@@ -20,7 +31,6 @@ import {
   argued,
   BIN,
   bareRead,
-  begunAgain,
   besideSeat,
   binRead,
   bodyOf,
@@ -33,14 +43,8 @@ import {
   headedIn,
   heldRead,
   heldRoot,
-  LONG,
   leftIn,
   lettered,
-  linesGiven,
-  longBeside,
-  longBody,
-  longFirst,
-  longWhole,
   MANY,
   movedAfterCommit,
   namedOnly,
@@ -60,10 +64,8 @@ import {
   THING_TYPE,
   telling,
   thingRoot,
-  tooWideRead,
   WARRANTED,
   wholeIn,
-  wholeNumbered,
 } from "akasha/commands/pages/read/read.command.test-fixtures.ts"
 
 afterAll(scratch.sweep)
