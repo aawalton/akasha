@@ -7,16 +7,6 @@ export const imessageSend = {
   definition: "the command handing one message to the Messages app on the mac",
   code: "ts",
   test: "ts",
-  taking: [
-    {
-      said: "--to <name-or-handle>",
-      takes: "who the message goes to, as a phone number, an address, or an address book name",
-    },
-    {
-      said: "<name-or-handle>",
-      takes: "the same recipient, said as a word rather than at its flag",
-    },
-  ],
   invariants: [
     {
       invariantKind: "absence",
@@ -68,6 +58,7 @@ export const imessageSend = {
   name: "send",
   arguments: [
     { argument: "argument/json" },
+    { argument: "argument/to-handle", required: true, saidAs: "flag-or-word" },
     { argument: "argument/text-file" },
     { argument: "argument/text" },
     { argument: "argument/image" },
