@@ -16,7 +16,7 @@ export const athenaCommandArguments = {
     {
       statement: "A command names the arguments it takes and narrows each.",
       workingMemory:
-        "`commands/properties/command-arguments.record-property.ts` is on the command page type: an entry names an `argument` and says whether it is `required`. `akasha index refresh` is the one command stating it, and required is the only narrowing there is. A word alone filling an argument, and two arguments one call may not say together, are on neither the argument page nor the entry. Do those two belong to the argument or to the command naming it?\n",
+        "`command-arguments.record-property.ts` carries `required`, `saidAs` and `notWith` now — `68264b739a4`, `eed95dc9120`, `0af54f5a91f`. `select-property/said-as` has `flag`, `word`, `flag-or-word`, and a refusal names an argument the way its command takes it, which gives `placeholder` its first reader. Three commands state entries, and this waits on every argument becoming a page. Is a route flag a page of its own, or synthesized as `prose-routing` makes it?",
     },
     {
       statement:
