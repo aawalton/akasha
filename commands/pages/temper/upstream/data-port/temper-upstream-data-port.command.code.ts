@@ -1,4 +1,7 @@
 import { realpathSync } from "node:fs"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
+import { library as libraryArgument } from "akasha/commands/arguments/pages/library.argument.ts"
 import {
   answering,
   DATA,
@@ -6,12 +9,10 @@ import {
   refused,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { temperUpstreamDataPort as page } from "akasha/commands/pages/temper/upstream/data-port/temper-upstream-data-port.command.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
-import {
-  namesIn,
-  valuesOf,
-} from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 import { port as portHousing } from "akasha/temper/upstream-data/housing-upstream-port/housing-upstream-port.module.code.ts"
 import { port as portMapData } from "akasha/temper/upstream-data/map-data-upstream-port/map-data-upstream-port.module.code.ts"
 import { port as portTreasure } from "akasha/temper/upstream-data/treasure-upstream-port/treasure-upstream-port.module.code.ts"
@@ -23,11 +24,9 @@ import {
 import { port as portZone } from "akasha/temper/upstream-data/zone-upstream-port/zone-upstream-port.module.code.ts"
 import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
-const CODE_ROOT_FLAG = "--code-root"
-
 const CODE_ROOT_ENV = "CODE_ROOT"
 
-const TAKING_A_VALUE = [CODE_ROOT_FLAG]
+const NAMED = [codeRootArgument, libraryArgument]
 
 const PORTED_BY: Record<UpstreamLibrary, (root: string, done: string[]) => Promise<void>> = {
   housing: portHousing,
@@ -55,25 +54,21 @@ export async function portedBy(
   return await answering(async (done) => await porting(done, library, root))
 }
 
-export async function temperUpstreamDataPort(argv: readonly string[] = []): Promise<Answer> {
-  const names = namesIn(argv, TAKING_A_VALUE)
-  if (names.length === 0) {
-    return refused(`name the upstream library ported — this carries ${carried()}`, INPUT)
-  }
-  if (names.length > 1) {
-    return refused(
-      `one call ports one library, and ${names.join(", ")} names ${String(names.length)}`,
-      INPUT
-    )
-  }
+export async function temperUpstreamDataPort(
+  argv: readonly string[],
+  given: Given
+): Promise<Answer> {
+  const read = takenFor(argv, given.calledAs, page, NAMED)
+  if ("refused" in read) return mistaking(read.refused)
+  const taken = read.taken
 
-  const named = names[0] as string
+  const named = taken.library
   const library = libraryNamed(named)
   if (library === undefined) {
     return refused(`${named} is no upstream library this ports — it carries ${carried()}`, INPUT)
   }
 
-  const askedRoot = valuesOf(argv, CODE_ROOT_FLAG)[0]
+  const askedRoot = taken.codeRoot
   let root: string
   try {
     root = realpathSync(askedRoot ?? codeRoot())

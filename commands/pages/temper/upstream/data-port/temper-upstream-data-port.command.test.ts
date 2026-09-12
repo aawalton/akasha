@@ -4,12 +4,21 @@ import {
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   portedBy,
   temperUpstreamDataPort,
 } from "akasha/commands/pages/temper/upstream/data-port/temper-upstream-data-port.command.code.ts"
 
 const ROOT = "/nowhere"
+
+const GIVEN: Given = {
+  root: ROOT,
+  calledAs: "akasha temper upstream data-port",
+  from: ROOT,
+  writer: null,
+  agentId: null,
+}
 
 const STOPPED = new Error("geoDataReferenceTable missing")
 
@@ -48,24 +57,29 @@ test("a run that wrote more than one file names each of them in turn", async () 
 })
 
 test("a call naming no library is refused rather than answered with a default", async () => {
-  const said = await temperUpstreamDataPort([])
+  const said = await temperUpstreamDataPort([], GIVEN)
 
   expect(said.code).toBe(INPUT)
-  expect(said.refusals.join("\n")).toContain("name the upstream library ported")
+  expect(said.refusals.join("\n")).toContain("takes `<library>`, and nothing said it")
 })
 
 test("two libraries named in one call are refused rather than the first one ported", async () => {
-  const said = await temperUpstreamDataPort(["housing", "lib-zone"])
+  const said = await temperUpstreamDataPort(["housing", "lib-zone"], GIVEN)
 
   expect(said.code).toBe(INPUT)
-  expect(said.refusals.join("\n")).toContain(
-    "one call ports one library, and housing, lib-zone names 2"
-  )
+  expect(said.refusals.join("\n")).toContain("takes 1 word and this call says 2")
 })
 
 test("a library the port list does not hold refuses the call by that name", async () => {
-  const said = await temperUpstreamDataPort(["nosuch"])
+  const said = await temperUpstreamDataPort(["nosuch"], GIVEN)
 
   expect(said.code).toBe(INPUT)
   expect(said.refusals.join("\n")).toContain("nosuch is no upstream library this ports")
+})
+
+test("a flag this takes no argument for is refused rather than passed over", async () => {
+  const said = await temperUpstreamDataPort(["housing", "--json"], GIVEN)
+
+  expect(said.code).toBe(INPUT)
+  expect(said.refusals.join("\n")).toContain("`--json` is no argument")
 })
