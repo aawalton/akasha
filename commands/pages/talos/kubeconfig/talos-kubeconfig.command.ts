@@ -18,12 +18,6 @@ export const talosKubeconfig = {
     },
     { said: "--output <path>", takes: "the file to write to, in place of the one under the home" },
   ],
-  helpNotes: [
-    "the default destination is `<home>/.kube/talos-<cluster>.yaml`, and the folder above it is made where it is missing.",
-    "Talos answers at a cluster endpoint of its own, apart from the k3s kubeconfig, so the two are kept in separate files.",
-    "the talosconfig is read from `<home>/.talos/<cluster>.config`, where `talos-apply` wrote it.",
-    "an existing file at the destination is written over rather than merged into.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -31,20 +25,24 @@ export const talosKubeconfig = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The talosconfig read sits at `<home>/.talos/<cluster>.config`, where `talos-apply` writes it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A cluster nothing names is `main`.",
     },
     {
       invariantKind: "departure",
-      statement: "A destination nothing names is the cluster's own file under the home.",
+      statement: "A destination nothing names is `<home>/.kube/talos-<cluster>.yaml`.",
     },
-
     {
       invariantKind: "departure",
       statement: "The folder above the destination is made before the fetch runs.",
     },
     {
       invariantKind: "departure",
-      statement: "A kubeconfig already at the destination is written over.",
+      statement: "A kubeconfig already at the destination is written over rather than merged into.",
     },
     {
       invariantKind: "absence",
