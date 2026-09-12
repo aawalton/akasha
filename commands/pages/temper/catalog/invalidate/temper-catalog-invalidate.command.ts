@@ -28,6 +28,22 @@ export const temperCatalogInvalidate = {
       invariantKind: "departure",
       statement: "The collection happens when the game next reloads.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A folder this made where the game reads addons is named as soon as it is made.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write that threw names that folder in its refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call that made no folder says nothing about one.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The writing of the request is handed in.",
+    },
   ],
   name: "invalidate",
   arguments: [

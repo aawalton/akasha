@@ -6,9 +6,10 @@ import { domain as domainArgument } from "akasha/commands/arguments/pages/domain
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import { sideFile as sideFileArgument } from "akasha/commands/arguments/pages/side-file.argument.ts"
 import {
+  answering,
   INPUT,
+  naming,
   OK,
-  OPERATIONAL,
   refused,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -34,43 +35,76 @@ function strayIn(asked: readonly string[]): string | null {
   return `${stray.join(", ")} is no domain the catalog addon registers, and the registry holds ${String(CATALOG_DOMAIN_KEYS.length)} of them`
 }
 
-export function temperCatalogInvalidate(argv: readonly string[], given: Given): Answer {
-  const read = takenFor(argv, given.calledAs, page, NAMED)
-  if ("refused" in read) return mistaking(read.refused)
-  const taken = read.taken
+export function madeSaid(folder: string): string {
+  return `the folder ${folder}, which the game reads addons out of, was made by this`
+}
 
-  const asked = taken.domain
-  const stray = strayIn(asked)
-  if (stray !== null) return refused(stray, INPUT)
+export function wroteSaid(at: string): string {
+  return `the request at ${at}, which the addon reads when the game next reloads`
+}
 
-  const sideFilePath = resolveSideFilePath(taken.sideFile)
+export type Named = {
+  readonly domain: readonly string[]
+  readonly all: boolean
+  readonly json: boolean
+  readonly sideFile: string | undefined
+}
+
+export type Writing = (done: string[], named: Named) => Answer
+
+function written(done: string[], named: Named): Answer {
+  const sideFilePath = resolveSideFilePath(named.sideFile)
 
   let next: ReturnType<typeof computeNextSideFile>
   try {
     const prior = existsSync(sideFilePath)
       ? parseSideFile(readFileSync(sideFilePath, "utf-8"))
       : undefined
-    next = computeNextSideFile(prior, taken.all ? [] : asked)
-    mkdirSync(dirname(sideFilePath), { recursive: true })
+    next = computeNextSideFile(prior, named.all ? [] : named.domain)
+    const made = mkdirSync(dirname(sideFilePath), { recursive: true })
+    if (made !== undefined) done.push(madeSaid(made))
     writeFileSync(sideFilePath, serializeSideFile(next), "utf-8")
+    done.push(wroteSaid(sideFilePath))
   } catch (thrown) {
-    return refused(
-      `the request at ${sideFilePath} was not written, so the addon collects nothing again: ${messageOf(thrown)}`,
-      OPERATIONAL
+    throw new Error(
+      `the request at ${sideFilePath} was not written, so the addon collects nothing again: ${messageOf(thrown)}`
     )
   }
 
-  if (taken.json) {
+  if (named.json) {
     return { report: JSON.stringify(next, null, SPACES).split("\n"), refusals: [], code: OK }
   }
 
-  const named = next.invalidateDomains.length === 0 ? "all" : next.invalidateDomains.join(",")
+  const said = next.invalidateDomains.length === 0 ? "all" : next.invalidateDomains.join(",")
   return {
     report: [
-      `invalidateVersion=${String(next.invalidateVersion)} invalidateDomains=${named}`,
+      `invalidateVersion=${String(next.invalidateVersion)} invalidateDomains=${said}`,
       `written to ${sideFilePath}, and the addon collects again when the game next reloads`,
     ],
     refusals: [],
     code: OK,
   }
+}
+
+export async function writtenBy(named: Named, writing: Writing = written): Promise<Answer> {
+  return await answering((done) => naming(done, writing(done, named)))
+}
+
+export async function temperCatalogInvalidate(
+  argv: readonly string[],
+  given: Given
+): Promise<Answer> {
+  const read = takenFor(argv, given.calledAs, page, NAMED)
+  if ("refused" in read) return mistaking(read.refused)
+  const taken = read.taken
+
+  const stray = strayIn(taken.domain)
+  if (stray !== null) return refused(stray, INPUT)
+
+  return await writtenBy({
+    domain: taken.domain,
+    all: taken.all,
+    json: taken.json,
+    sideFile: taken.sideFile,
+  })
 }
