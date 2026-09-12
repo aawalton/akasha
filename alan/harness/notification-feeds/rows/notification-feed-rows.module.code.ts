@@ -55,12 +55,17 @@ export function feedPageFor(personSlug: string): string | null {
   return listed === undefined ? null : listed.path
 }
 
+export function notifiedSaid(personSlug: string, at: string): string {
+  return `a notification filed for ${personSlug} at ${at}, which a reader can already see`
+}
+
 export async function writeNotification(
   personSlug: string,
   input: NotifyInput,
   _writer: string,
   sentAt: string = new Date().toISOString(),
-  id: string = crypto.randomUUID()
+  id: string = crypto.randomUUID(),
+  done: string[] = []
 ): Promise<Landed> {
   const page = feedPageFor(personSlug)
   if (page === null) {
@@ -84,6 +89,7 @@ export async function writeNotification(
   const refused = made.queue.refused()
   if (refused !== null) return { ok: false, why: refused }
   const at = made.queue.at()
+  done.push(notifiedSaid(personSlug, at))
   partFiled(akashaRoot(), page, at)
   return { ok: true, at }
 }

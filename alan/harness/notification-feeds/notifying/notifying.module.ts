@@ -20,6 +20,10 @@ export const notifying = {
       statement: "A notification is written through the feed rows module rather than to a file.",
     },
     {
+      invariantKind: "departure",
+      statement: "A list the caller hands in is handed on, so a notification filed can be named.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here chooses which person a notification reaches.",
     },
