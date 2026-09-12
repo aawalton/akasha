@@ -7,7 +7,7 @@ export const trackSessionDrop = {
   definition: "the command taking a stretch away from a day",
   code: "ts",
   test: "ts",
-  taking: [{ said: "--mend", takes: "close the gap a dropped stretch leaves behind" }],
+  taking: [],
 
   invariants: [
     {
@@ -71,5 +71,6 @@ export const trackSessionDrop = {
     { argument: "argument/id" },
     { argument: "argument/open" },
     { argument: "argument/last" },
+    { argument: "argument/mend" },
   ],
 } as const satisfies Command
