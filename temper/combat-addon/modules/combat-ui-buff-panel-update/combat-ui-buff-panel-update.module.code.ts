@@ -1,7 +1,3 @@
-import {
-  adjustRowSize,
-  resetBars,
-} from "akasha/temper/combat-addon/combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
 import type { BarsPanelControl } from "akasha/temper/combat-addon/combat-ui-selection/combat-ui-selection.module.code.ts"
 import {
   getDx,
@@ -28,6 +24,10 @@ import {
   updateBuffPanelLegacy,
 } from "akasha/temper/combat-addon/modules/combat-ui-buff-panel/combat-ui-buff-panel.module.code.ts"
 import { isSigilAbility } from "akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
+import {
+  adjustRowSize,
+  resetBars,
+} from "akasha/temper/combat-addon/modules/combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
 
 interface BuffRowData {
   buffName?: string

@@ -1,8 +1,4 @@
 import {
-  toggleLiveReport,
-  updateLiveReport,
-} from "akasha/temper/combat-addon/combat-ui-live-report/combat-ui-live-report.module.code.ts"
-import {
   ADDON_NAME,
   REPORT_SCENE_NAME,
 } from "akasha/temper/combat-addon/modules/combat-constants/combat-constants.module.code.ts"
@@ -47,6 +43,10 @@ import {
   getFightName,
   LAST_FIGHTS,
 } from "akasha/temper/combat-addon/modules/combat-selection/combat-selection.module.code.ts"
+import {
+  toggleLiveReport,
+  updateLiveReport,
+} from "akasha/temper/combat-addon/modules/combat-ui-live-report/combat-ui-live-report.module.code.ts"
 
 let updateReportHook: ((this: void) => void) | undefined
 

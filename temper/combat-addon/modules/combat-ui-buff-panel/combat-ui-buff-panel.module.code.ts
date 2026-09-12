@@ -1,8 +1,3 @@
-import {
-  adjustRowSize,
-  numberValue,
-  resetBars,
-} from "akasha/temper/combat-addon/combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
 import type {
   BarsPanelControl,
   SelectionRowControl,
@@ -27,6 +22,11 @@ import { getFormattedAbilityIcon } from "akasha/temper/combat-addon/modules/comb
 import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
 import { generateSelectionStats } from "akasha/temper/combat-addon/modules/combat-selection/combat-selection.module.code.ts"
 import { spairs } from "akasha/temper/combat-addon/modules/combat-sorted-pairs/combat-sorted-pairs.module.code.ts"
+import {
+  adjustRowSize,
+  numberValue,
+  resetBars,
+} from "akasha/temper/combat-addon/modules/combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
 
 export interface BuffRowControl extends SelectionRowControl {
   parentrow?: BuffRowControl

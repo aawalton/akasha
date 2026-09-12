@@ -1,7 +1,3 @@
-import type {
-  CLButtonControl,
-  CombatLogWindowControl,
-} from "akasha/temper/combat-addon/combat-ui-log-window/combat-ui-log-window.module.code.ts"
 import {
   getCurrentCLPage,
   getFightData,
@@ -36,6 +32,10 @@ import {
 import { isLogLine } from "akasha/temper/combat-addon/modules/combat-lib-log-lines/combat-lib-log-lines.module.code.ts"
 import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
 import type { TooltipCarrier } from "akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
+import type {
+  CLButtonControl,
+  CombatLogWindowControl,
+} from "akasha/temper/combat-addon/modules/combat-ui-log-window/combat-ui-log-window.module.code.ts"
 
 export interface CLPageButtonRowControl extends Control {
   Update?: (this: void, buttonrow: Control, page: number, maxpage: number) => undefined

@@ -1,8 +1,4 @@
 import {
-  numberValue,
-  setChildText,
-} from "akasha/temper/combat-addon/combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
-import {
   getFightData,
   getSelections,
   getUiSelectionData,
@@ -30,6 +26,10 @@ import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables
 import { spairs } from "akasha/temper/combat-addon/modules/combat-sorted-pairs/combat-sorted-pairs.module.code.ts"
 import type { TooltipCarrier } from "akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
 import { isNonNullObject } from "akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
+import {
+  numberValue,
+  setChildText,
+} from "akasha/temper/combat-addon/modules/combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
 
 export function updateFightStatsPanelRight(this: void, panel: Control): undefined {
   log("UI", LOG_LEVEL_DEBUG, "Updating FightStatsPanelRight")

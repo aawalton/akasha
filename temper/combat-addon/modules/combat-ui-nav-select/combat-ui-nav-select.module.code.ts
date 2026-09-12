@@ -1,5 +1,3 @@
-import type { ActivePanelControl } from "akasha/temper/combat-addon/combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
-import { reportUpdate } from "akasha/temper/combat-addon/combat-ui-nav/combat-ui-nav.module.code.ts"
 import {
   getCurrentFight,
   type UpdatableControl,
@@ -8,6 +6,8 @@ import { isInitialized } from "akasha/temper/combat-addon/modules/combat-addon-s
 import { isDamageCategory } from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
 import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
 import { setLabelColor } from "akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
+import type { ActivePanelControl } from "akasha/temper/combat-addon/modules/combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
+import { reportUpdate } from "akasha/temper/combat-addon/modules/combat-ui-nav/combat-ui-nav.module.code.ts"
 
 interface SelectorButtonMeta extends Control {
   isMainCategory?: boolean

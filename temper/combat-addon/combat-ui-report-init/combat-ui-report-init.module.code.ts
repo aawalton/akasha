@@ -1,25 +1,5 @@
 import { REPORT_SCENE_NAME } from "akasha/temper/combat-addon/modules/combat-constants/combat-constants.module.code.ts"
 import "akasha/temper/combat-addon/combat-ui-report-rows/combat-ui-report-rows.module.code.ts"
-import {
-  updateInfoPanel,
-  updateInfoRowPanel,
-} from "akasha/temper/combat-addon/combat-ui-info-left/combat-ui-info-left.module.code.ts"
-import {
-  type CLPageButtonRowControl,
-  updateCLPageButtons,
-  updateCombatLog,
-} from "akasha/temper/combat-addon/combat-ui-log-update/combat-ui-log-update.module.code.ts"
-import { initCLButtonRow } from "akasha/temper/combat-addon/combat-ui-log-window/combat-ui-log-window.module.code.ts"
-import {
-  type ActivePanelControl,
-  updateMainPanel,
-  updateRightPanel,
-} from "akasha/temper/combat-addon/combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
-import {
-  initSelectorButtons,
-  selectRightPanel,
-  updateAttackStatsSelector,
-} from "akasha/temper/combat-addon/combat-ui-nav-select/combat-ui-nav-select.module.code.ts"
 import { updateGraphPanel } from "akasha/temper/combat-addon/combat-ui-plot/combat-ui-plot.module.code.ts"
 import {
   initPlotToolbar,
@@ -48,6 +28,26 @@ import {
   namedChild,
   storeOrigLayout,
 } from "akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
+import {
+  updateInfoPanel,
+  updateInfoRowPanel,
+} from "akasha/temper/combat-addon/modules/combat-ui-info-left/combat-ui-info-left.module.code.ts"
+import {
+  type CLPageButtonRowControl,
+  updateCLPageButtons,
+  updateCombatLog,
+} from "akasha/temper/combat-addon/modules/combat-ui-log-update/combat-ui-log-update.module.code.ts"
+import { initCLButtonRow } from "akasha/temper/combat-addon/modules/combat-ui-log-window/combat-ui-log-window.module.code.ts"
+import {
+  type ActivePanelControl,
+  updateMainPanel,
+  updateRightPanel,
+} from "akasha/temper/combat-addon/modules/combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
+import {
+  initSelectorButtons,
+  selectRightPanel,
+  updateAttackStatsSelector,
+} from "akasha/temper/combat-addon/modules/combat-ui-nav-select/combat-ui-nav-select.module.code.ts"
 
 function maxStatName(this: void): string {
   const [, magicka] = GetUnitPower("player", COMBAT_MECHANIC_FLAGS_MAGICKA)

@@ -1,9 +1,3 @@
-import {
-  adjustRowSize,
-  numberValue,
-  resetBars,
-  setChildText,
-} from "akasha/temper/combat-addon/combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
 import type {
   BarsPanelControl,
   SelectionRowControl,
@@ -34,6 +28,12 @@ import { getShowOverHeal } from "akasha/temper/combat-addon/modules/combat-selec
 import { spairs } from "akasha/temper/combat-addon/modules/combat-sorted-pairs/combat-sorted-pairs.module.code.ts"
 import type { RowAnchor } from "akasha/temper/combat-addon/modules/combat-ui-buff-panel/combat-ui-buff-panel.module.code.ts"
 import { isNonNullObject } from "akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
+import {
+  adjustRowSize,
+  numberValue,
+  resetBars,
+  setChildText,
+} from "akasha/temper/combat-addon/modules/combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
 
 type HitCritLayout = [string, string, string, string]
 

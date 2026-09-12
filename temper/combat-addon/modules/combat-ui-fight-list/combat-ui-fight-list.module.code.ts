@@ -1,12 +1,3 @@
-import {
-  adjustRowSize,
-  resetBars,
-  type ScalableRowControl,
-} from "akasha/temper/combat-addon/combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
-import {
-  clearSelections,
-  type FightListItemControl,
-} from "akasha/temper/combat-addon/combat-ui-nav/combat-ui-nav.module.code.ts"
 import type { BarsPanelControl } from "akasha/temper/combat-addon/combat-ui-selection/combat-ui-selection.module.code.ts"
 import {
   getCurrentFight,
@@ -33,6 +24,15 @@ import {
   LAST_FIGHTS,
 } from "akasha/temper/combat-addon/modules/combat-selection/combat-selection.module.code.ts"
 import type { TooltipCarrier } from "akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
+import {
+  adjustRowSize,
+  resetBars,
+  type ScalableRowControl,
+} from "akasha/temper/combat-addon/modules/combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
+import {
+  clearSelections,
+  type FightListItemControl,
+} from "akasha/temper/combat-addon/modules/combat-ui-nav/combat-ui-nav.module.code.ts"
 
 function updateReportDeferred(this: void): undefined {
   const report = TemperCombat_Report
