@@ -70,8 +70,8 @@ export const smsSend = {
   arguments: [
     { argument: "argument/json" },
     { argument: "argument/to-number", required: true, saidAs: "flag-or-word" },
-    { argument: "argument/text-file", notWith: ["argument/text"] },
-    { argument: "argument/text" },
+    { argument: "argument/text-file", notWith: ["argument/text"], oneOf: ["argument/text"] },
+    { argument: "argument/text", oneOf: ["argument/text-file"] },
     { argument: "argument/from-number" },
     { argument: "argument/base-url" },
   ],
