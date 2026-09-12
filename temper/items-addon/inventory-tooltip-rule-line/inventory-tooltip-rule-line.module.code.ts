@@ -6,8 +6,10 @@ import {
   getPendingDestination,
   getPendingTargetQuantity,
 } from "akasha/temper/items-addon/inventory-rules-core/inventory-rules-core.module.code.ts"
+import { countItemInBag } from "akasha/temper/items-addon/inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
 import { findMatchedRule } from "akasha/temper/items-addon/inventory-rules-eval/inventory-rules-eval.module.code.ts"
 import type { AddonItemAction } from "akasha/temper/items-addon/inventory-rules-types/inventory-rules-types.module.code.ts"
+import { computeStockTierDeposit } from "akasha/temper/items-addon/inventory-stock-deposit-decision/inventory-stock-deposit-decision.module.code.ts"
 import { formatActionLabel } from "akasha/temper/items-rules-core/inventory-rule-action-labels/inventory-rule-action-labels.module.code.ts"
 import type { ItemAction } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 export interface TooltipDecision {
@@ -41,6 +43,25 @@ export function resolveTooltipDecision(
   }
 }
 
+export function stockSurplus(
+  bagId: number,
+  slotIndex: number,
+  targetQuantity: number | undefined
+): number {
+  if (targetQuantity === undefined) return 0
+  const itemLink = GetItemLink(bagId, slotIndex, LINK_STYLE_BRACKETS)
+  const itemId = GetItemLinkItemId(itemLink)
+  const carried = countItemInBag(BAG_BACKPACK, itemId)
+  return computeStockTierDeposit({
+    stackCount: carried,
+    backpackCount: carried,
+    selfTarget: targetQuantity,
+    alreadyDispatched: 0,
+    tierCap: undefined,
+    tierAccountWideCount: 0,
+  })
+}
+
 export function registerRuleTooltipHook(): undefined {
   const originalSetBagItem = ItemTooltip.SetBagItem
 
@@ -67,17 +88,25 @@ export function registerRuleTooltipHook(): undefined {
       atDestination,
     })
 
-    this.AddLine(
-      `Plan: ${label}`,
-      "",
-      1,
-      1,
-      1,
-      BOTTOM,
-      MODIFY_TEXT_TYPE_NONE,
-      TEXT_ALIGN_CENTER,
-      true
-    )
+    const tooltip = this
+    const addPlanLine = function (this: void, text: string): undefined {
+      tooltip.AddLine(text, "", 1, 1, 1, BOTTOM, MODIFY_TEXT_TYPE_NONE, TEXT_ALIGN_CENTER, true)
+    }
+
+    addPlanLine(`Plan: ${label}`)
+
+    if (decision.action === "stock" && destinationLabel !== undefined) {
+      const surplus = stockSurplus(bagId, slotIndex, decision.targetQuantity)
+      if (surplus > 0) {
+        addPlanLine(
+          `Plan: ${formatActionLabel({
+            action: "move-to",
+            destinationLabel,
+            quantity: surplus,
+          })}`
+        )
+      }
+    }
   }
 }
 

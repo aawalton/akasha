@@ -48,11 +48,12 @@ export interface FormatActionLabelArgs {
   action: ItemAction
   destinationLabel?: string
   targetQuantity?: number
+  quantity?: number
   atDestination?: boolean
 }
 
 export function formatActionLabel(args: FormatActionLabelArgs): string {
-  const { action, destinationLabel, targetQuantity, atDestination } = args
+  const { action, destinationLabel, targetQuantity, quantity, atDestination } = args
   switch (action) {
     case "nothing":
     case "lock":
@@ -69,17 +70,19 @@ export function formatActionLabel(args: FormatActionLabelArgs): string {
       return getActionVerbLabel(action)
     case "use":
       return destinationLabel != null ? `Use on ${destinationLabel}` : "Use"
-    case "move-to":
+    case "move-to": {
       if (destinationLabel == null) return "Move"
-      return atDestination === true ? `Keep on ${destinationLabel}` : `Move to ${destinationLabel}`
+      if (atDestination === true) return `Keep on ${destinationLabel}`
+      const moved = quantity !== undefined ? ` ×${quantity}` : ""
+      return `Move to ${destinationLabel}${moved}`
+    }
     case "character-equip":
       return destinationLabel != null ? `Equip on ${destinationLabel}` : "Equip"
     case "companion-equip":
       return destinationLabel != null ? `Equip on ${destinationLabel}` : "Equip Companion"
     case "stock": {
-      const quantity = targetQuantity !== undefined ? ` ×${targetQuantity}` : ""
-      const target = destinationLabel != null ? `, rest to ${destinationLabel}` : ""
-      return `Stock${quantity}${target}`
+      const held = targetQuantity !== undefined ? ` ×${targetQuantity}` : ""
+      return `Stock${held}`
     }
     case "mail":
       return destinationLabel != null ? `Mail to ${destinationLabel}` : "Mail"
