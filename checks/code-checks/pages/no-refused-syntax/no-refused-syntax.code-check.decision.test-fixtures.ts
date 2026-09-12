@@ -178,10 +178,10 @@ const NAMED: ReadonlyMap<string, string> = new Map([
 
 export const LEVELS_NAMED: Naming = (slug) => NAMED.get(slug) ?? null
 
-export function parsed(text: string): Given {
+export function parsed(text: string, at: string = PROBE_AT): Given {
   return {
-    path: PROBE_AT,
-    source: parsedAs(PROBE_AT, text),
+    path: at,
+    source: parsedAs(at, text),
     readers: READERS_FILED,
     namedAt: LEVELS_NAMED,
   }

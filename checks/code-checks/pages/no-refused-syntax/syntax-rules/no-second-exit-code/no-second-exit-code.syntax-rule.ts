@@ -4,13 +4,30 @@ export const noSecondExitCode = {
   id: "01a09404-576c-788f-b915-f4998c66542e",
   type: "syntax-rule",
   slug: "no-second-exit-code",
-  definition: "the rule refusing an exit code declared again away from the page declaring the five",
+  definition:
+    "the rule refusing an exit code spelled as a number away from the page declaring the five",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement: "One page declares what each exit code is, and every other file imports it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An object naming what a call refuses is a refusal being built.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal whose code is a number rather than a name is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A number that is no exit code is left alone there too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The module building a command's refusal spells the number its test reads.",
     },
     {
       invariantKind: "departure",

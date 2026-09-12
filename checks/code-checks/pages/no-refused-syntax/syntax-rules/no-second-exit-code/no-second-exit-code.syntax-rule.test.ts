@@ -2,6 +2,10 @@ import { expect, test } from "bun:test"
 import { parsed } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
 import { noSecondExitCode } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-second-exit-code/no-second-exit-code.syntax-rule.code.ts"
 
+const BUILT = "const one = { report: [], refusals: [], code: 3 }\n"
+
+const WHERE_IT_IS_BUILT = "akasha/commands/modules/refusing/probe.module.code.ts"
+
 test("a file declaring no exit code is refused nothing", () => {
   expect(noSecondExitCode(parsed("export const one = 1\n"))).toEqual([])
 })
@@ -41,4 +45,33 @@ test("a declaration inside a function is refused too", () => {
 test("the line named is the line the declaration is on", () => {
   const said = noSecondExitCode(parsed("const one = 1\nconst DATA = 2\n"))
   expect(said[0]?.line).toBe(2)
+})
+
+test("a refusal whose code is a number rather than a name is refused", () => {
+  const said = noSecondExitCode(parsed(BUILT))
+  expect(said).toHaveLength(1)
+  expect(said[0]?.reason).toContain("OPERATIONAL")
+})
+
+test("a refusal naming its code is left", () => {
+  expect(
+    noSecondExitCode(parsed("const one = { report: [], refusals: [], code: DATA }\n"))
+  ).toEqual([])
+})
+
+test("a number on a code beside no refusals is left", () => {
+  expect(noSecondExitCode(parsed('const one = { code: 1, out: "" }\n'))).toEqual([])
+})
+
+test("a number that is no exit code is left alone there too", () => {
+  expect(noSecondExitCode(parsed("const one = { refusals: [], code: 7 }\n"))).toEqual([])
+})
+
+test("the module building a command's refusal spells the number", () => {
+  expect(noSecondExitCode(parsed(BUILT, WHERE_IT_IS_BUILT))).toEqual([])
+})
+
+test("the line named is the line the code sits on", () => {
+  const said = noSecondExitCode(parsed("const one = {\n  refusals: [],\n  code: 2,\n}\n"))
+  expect(said[0]?.line).toBe(3)
 })
