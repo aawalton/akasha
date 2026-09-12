@@ -9,7 +9,7 @@ import {
   rootFor,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
-import { onceInCall } from "akasha/utils/during-call/during-call.module.code.ts"
+import { onceInCall } from "akasha/utils/modules/during-call/during-call.module.code.ts"
 
 export type Beside = Record<string, unknown>
 

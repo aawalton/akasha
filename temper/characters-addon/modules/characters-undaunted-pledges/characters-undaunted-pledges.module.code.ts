@@ -2,7 +2,7 @@ import { currentCharacterEntry } from "akasha/temper/characters-addon/modules/ch
 import {
   TEMPER_DUNGEONS,
   TEMPER_QUEST_GIVERS,
-} from "akasha/temper/dungeons/dungeon-data/dungeon-data.module.code.ts"
+} from "akasha/temper/dungeons/modules/dungeon-data/dungeon-data.module.code.ts"
 import type { TodaysPledge } from "akasha/temper/dungeons/pledge-rotation/pledge-rotation.module.code.ts"
 import { getTodaysPledges as rotationTodaysPledges } from "akasha/temper/dungeons/pledge-rotation/pledge-rotation.module.code.ts"
 import { getSoloDifficulty } from "akasha/temper/dungeons/solo-difficulty/solo-difficulty.module.code.ts"

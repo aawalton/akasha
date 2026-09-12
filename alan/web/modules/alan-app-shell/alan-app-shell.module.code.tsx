@@ -1,5 +1,4 @@
 import { signOut } from "akasha/alan/harness/supabase-rr/modules/auth-client/auth-client.module.code.ts"
-import { EdgeSwipeNav } from "akasha/alan/web/edge-swipe-nav/edge-swipe-nav.module.code.tsx"
 import { MiniPlayerBar } from "akasha/alan/web/mini-player-bar/mini-player-bar.module.code.tsx"
 import {
   ALANWALTON_APP_ID,
@@ -11,6 +10,7 @@ import {
   navItemTech,
   primaryNavItems,
 } from "akasha/alan/web/modules/alan-nav-items/alan-nav-items.module.code.ts"
+import { EdgeSwipeNav } from "akasha/alan/web/modules/edge-swipe-nav/edge-swipe-nav.module.code.tsx"
 import { DynamicNavCommands } from "akasha/alan/web/nav-commands/nav-commands.module.code.tsx"
 import { PullToRefresh } from "akasha/alan/web/pull-to-refresh/pull-to-refresh.module.code.tsx"
 import {

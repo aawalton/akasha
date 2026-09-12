@@ -1,4 +1,3 @@
-import { getSavedVariables } from "akasha/temper/dungeon-champions/dungeon-champion-saved-vars/dungeon-champion-saved-vars.module.code.ts"
 import { getUiString } from "akasha/temper/dungeon-champions/modules/dungeon-champion-labels/dungeon-champion-labels.module.code.ts"
 import {
   asChampionPin,
@@ -13,6 +12,7 @@ import {
   PINS_UNKNOWN,
 } from "akasha/temper/dungeon-champions/modules/dungeon-champion-names/dungeon-champion-names.module.code.ts"
 import { PIN_TEXTURES } from "akasha/temper/dungeon-champions/modules/dungeon-champion-pin-textures/dungeon-champion-pin-textures.module.code.ts"
+import { getSavedVariables } from "akasha/temper/dungeon-champions/modules/dungeon-champion-saved-vars/dungeon-champion-saved-vars.module.code.ts"
 
 let UPDATE_PINS: Record<string, boolean> = {}
 let UPDATING = false

@@ -11,7 +11,7 @@ import { command } from "akasha/commands/command.page-type.ts"
 import { sayAnswer } from "akasha/commands/modules/answer-bytes/answer-bytes.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { duringOneCall } from "akasha/utils/during-call/during-call.module.code.ts"
+import { duringOneCall } from "akasha/utils/modules/during-call/during-call.module.code.ts"
 
 const HERE = import.meta.path
 

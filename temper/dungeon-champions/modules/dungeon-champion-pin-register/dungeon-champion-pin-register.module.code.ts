@@ -1,4 +1,3 @@
-import { getSavedVariables } from "akasha/temper/dungeon-champions/dungeon-champion-saved-vars/dungeon-champion-saved-vars.module.code.ts"
 import {
   newColorDef,
   setTextureColor,
@@ -18,6 +17,7 @@ import {
   mapCallbackUnknown,
   PIN_TOOLTIP_CREATOR,
 } from "akasha/temper/dungeon-champions/modules/dungeon-champion-pins/dungeon-champion-pins.module.code.ts"
+import { getSavedVariables } from "akasha/temper/dungeon-champions/modules/dungeon-champion-saved-vars/dungeon-champion-saved-vars.module.code.ts"
 
 function compassSizeCallback(
   this: void,

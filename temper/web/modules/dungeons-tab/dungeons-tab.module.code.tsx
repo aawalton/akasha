@@ -8,7 +8,7 @@ import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.mo
 import {
   TEMPER_DUNGEONS,
   TEMPER_QUEST_GIVERS,
-} from "akasha/temper/dungeons/dungeon-data/dungeon-data.module.code.ts"
+} from "akasha/temper/dungeons/modules/dungeon-data/dungeon-data.module.code.ts"
 import { getSoloDifficulty } from "akasha/temper/dungeons/solo-difficulty/solo-difficulty.module.code.ts"
 
 const DIFFICULTY_VARIANT = {
