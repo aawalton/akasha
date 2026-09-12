@@ -27,7 +27,7 @@ const WROTE = new Set(["typed", "queued"])
 
 const NAMED = /(?<!\\)"You are persona `([a-z0-9-]+)`/
 
-const SEAT_PAGE = /seat-system\/seats\/pages\/([a-z0-9-]+)\.seat\.ts — /
+const SEAT_PAGE = /([a-z0-9-]+)\.seat\.ts — /
 
 const GREETED = /^\s*(?:hi|hey|hello|good morning)[\s,]+([a-z]+)\b/i
 

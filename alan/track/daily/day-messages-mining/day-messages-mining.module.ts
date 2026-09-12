@@ -76,5 +76,10 @@ export const dayMessagesMining = {
       invariantKind: "absence",
       statement: "Nothing here writes a day page that is not there.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A seat page in a transcript is named by its file rather than by the folder it sits in.",
+    },
   ],
 } as const satisfies Module
