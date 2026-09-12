@@ -11,8 +11,20 @@ export const pageExportName = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "The slug this module is handed is one already held to lower kebab case.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "A slug becomes a name by dropping each `-` and raising the character following that `-`.",
+        "A `-` a lowercase ascii letter or an ascii digit follows is dropped and that character is raised.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A `-` anything else follows stays where it is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A letter outside ascii is kept as the slug spells it.",
     },
     {
       invariantKind: "departure",
@@ -54,6 +66,10 @@ export const pageExportName = {
     {
       invariantKind: "absence",
       statement: "Nothing here reaches a page or an index or a change.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here folds a key that is no slug.",
     },
   ],
 } as const satisfies Module
