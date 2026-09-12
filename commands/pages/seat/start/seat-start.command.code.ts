@@ -51,7 +51,7 @@ export async function seatStart(argv: readonly string[], given: Given): Promise<
   if ("refused" in read) return refusedBy(guidedBy(read.refused))
   const asked = read.taken
   const { default: starting } = await import(
-    "akasha/seat-system/seat-start/seat-start.module.code.ts"
+    "akasha/agents/seats/modules/start/seat-start.module.code.ts"
   )
   return await ran(async (done) => {
     await starting(asked, done)
