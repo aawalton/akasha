@@ -38,11 +38,6 @@ const MOST_BYTES = 10 * 1024 * 1024
 
 const BODY = filing(textArgument.said)
 
-export function wrongIn(text: string | undefined, picture: string | undefined): readonly string[] {
-  if (text !== undefined || picture !== undefined) return []
-  return ["this sends a body, a picture, or both, and neither was said"]
-}
-
 export function attachmentAt(root: string, path: string): SendAttachment {
   const at = resolve(root, path)
   let size: number
@@ -108,8 +103,6 @@ export function imessageSend(
   const taken = read.taken
   const body = filledIn(given.root, taken.text, taken.textFile, BODY)
   if ("refused" in body) return Promise.resolve(refusedBy(body.refused))
-  const wrong = wrongIn(body.text, taken.image)
-  if (wrong.length > 0) return Promise.resolve(refusedBy(wrong))
   return answering(async (done) => {
     const attachment = taken.image === undefined ? undefined : attachmentAt(given.root, taken.image)
     const handle = await handleFor(taken.toHandle)

@@ -5,13 +5,21 @@ import {
   SENT_TEXT,
   sentSaid,
 } from "akasha/alan/harness/imessage/send/imessage-send.module.code.ts"
+import { image as imageArgument } from "akasha/commands/arguments/pages/image.argument.ts"
+import { text as textArgument } from "akasha/commands/arguments/pages/text.argument.ts"
+import { textFile } from "akasha/commands/arguments/pages/text-file.argument.ts"
+import { toHandle } from "akasha/commands/arguments/pages/to-handle.argument.ts"
 import {
   answering,
   OPERATIONAL,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type { Lines } from "akasha/commands/pages/imessage/send/imessage-send.command.code.ts"
-import { sent } from "akasha/commands/pages/imessage/send/imessage-send.command.code.ts"
+import {
+  imessageSend,
+  sent,
+} from "akasha/commands/pages/imessage/send/imessage-send.command.code.ts"
 
 const TEXT = sentSaid(SENT_TEXT) as string
 
@@ -25,6 +33,24 @@ function saying(lines: readonly string[], why?: string): Lines {
     if (why !== undefined) throw new OperationalError(why)
   }
 }
+
+const GIVEN: Given = {
+  root: "/nowhere",
+  calledAs: "akasha imessage send",
+  from: "/nowhere",
+  writer: null,
+  agentId: null,
+}
+
+test("a send saying no body and no picture is refused once, naming every way to say one", async () => {
+  const held = await imessageSend([toHandle.said, "5551234"], GIVEN, saying([]))
+
+  expect(held.report).toEqual([])
+  expect(held.refusals.length).toBe(1)
+  for (const one of [textFile.said, textArgument.said, imageArgument.said]) {
+    expect(held.refusals[0]).toContain(one)
+  }
+})
 
 test("each send that landed is named as soon as the script says so", async () => {
   const done: string[] = []

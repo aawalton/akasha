@@ -59,8 +59,12 @@ export const imessageSend = {
   arguments: [
     { argument: "argument/json" },
     { argument: "argument/to-handle", required: true, saidAs: "flag-or-word" },
-    { argument: "argument/text-file", notWith: ["argument/text"] },
-    { argument: "argument/text" },
-    { argument: "argument/image" },
+    {
+      argument: "argument/text-file",
+      notWith: ["argument/text"],
+      oneOf: ["argument/text", "argument/image"],
+    },
+    { argument: "argument/text", oneOf: ["argument/text-file", "argument/image"] },
+    { argument: "argument/image", oneOf: ["argument/text-file", "argument/text"] },
   ],
 } as const satisfies Command
