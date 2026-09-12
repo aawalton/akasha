@@ -21,7 +21,7 @@ export const athenaCommandModules = {
     {
       statement: "A module whose readers are outside the command system sits outside it.",
       workingMemory:
-        "`repo-seeding` sits in `testing-system/` (62451e2a65c). `scratching` is still under `commands/modules/`; `utils/fs` is where it goes and its 250 importers move with it, but the landing is refused by 8 tests failing in check test files the move does not touch — `hand-written-global-is-no-method`, `held-addon-names-a-roster-addon`, `introduced-property-is-a-part`, `no-raw-nul-bytes` — each a fixture root the check reads nothing out of. Who mends those first?\n",
+        "`repo-seeding` sits in `testing-system/`, `gated-landing` and `gated-write` in `changes/modules/`. `scratching` goes to `utils/fs/`; the move composes over 253 files and is refused only by six check test files broken since 19:00 by the index fixture work. `argument-narrowing`, `parse-args` and `payload` import the command system, so they stay. `during-call` has no reader inside `commands/` but its definition names a command's run. Does it stay?\n",
     },
     {
       statement:
