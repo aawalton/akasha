@@ -45,4 +45,5 @@ export const pageSecretShow = {
       statement: "Nothing here reads a secret out of an earlier commit.",
     },
   ],
+  name: "show",
 } as const satisfies Command

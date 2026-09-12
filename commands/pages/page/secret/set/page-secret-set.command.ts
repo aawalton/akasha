@@ -72,4 +72,5 @@ export const pageSecretSet = {
       statement: "Two secrets valid only as a pair land in two commits rather than in one commit.",
     },
   ],
+  name: "set",
 } as const satisfies Command

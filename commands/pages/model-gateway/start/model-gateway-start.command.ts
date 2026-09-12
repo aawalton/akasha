@@ -58,4 +58,5 @@ export const modelGatewayStart = {
       statement: "Nothing here makes a request of a gateway.",
     },
   ],
+  name: "start",
 } as const satisfies Command

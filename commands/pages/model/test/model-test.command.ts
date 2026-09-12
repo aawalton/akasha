@@ -53,4 +53,5 @@ export const modelTest = {
       statement: "A run writes nothing.",
     },
   ],
+  name: "test",
 } as const satisfies Command

@@ -74,4 +74,5 @@ export const modelGatewaySwap = {
       statement: "Nothing here arms a further act on the seat this command swapped.",
     },
   ],
+  name: "swap",
 } as const satisfies Command

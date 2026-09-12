@@ -64,4 +64,5 @@ export const pageIconSearchIndexGenerate = {
       statement: "A shard that is new is written into the list the owning package's page states.",
     },
   ],
+  name: "icon-search-index-generate",
 } as const satisfies Command

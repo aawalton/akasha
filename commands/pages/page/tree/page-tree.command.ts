@@ -78,4 +78,5 @@ export const pageTree = {
       statement: "A run writes nothing.",
     },
   ],
+  name: "tree",
 } as const satisfies Command

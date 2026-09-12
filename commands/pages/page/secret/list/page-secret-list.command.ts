@@ -32,4 +32,5 @@ export const pageSecretList = {
       statement: "Nothing here decrypts anything or answers with a value.",
     },
   ],
+  name: "list",
 } as const satisfies Command

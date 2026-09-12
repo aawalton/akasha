@@ -46,4 +46,5 @@ export const modelGatewayStatus = {
       statement: "A run writes nothing.",
     },
   ],
+  name: "status",
 } as const satisfies Command

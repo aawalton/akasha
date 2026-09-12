@@ -48,4 +48,5 @@ export const pageSecretClear = {
       statement: "Nothing here puts back the secret this command dropped.",
     },
   ],
+  name: "clear",
 } as const satisfies Command
