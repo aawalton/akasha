@@ -8,4 +8,5 @@ export const rootSelector = {
   takes: "the element the render fills, `main` where none is said",
   value: "text",
   placeholder: "sel",
+  default: "main",
 } as const satisfies Argument

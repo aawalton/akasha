@@ -25,8 +25,6 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { browserTestStorageState as page } from "akasha/commands/pages/browser/test-storage-state/browser-test-storage-state.command.ts"
 import { playwrightStorageStatePath } from "akasha/seat-system/supervising/mcp-registry/mcp-registry.module.code.ts"
 
-const DEFAULT_SIGN_IN = "/sign-in"
-
 const OWNER_ONLY = 0o600
 
 export function healable(
@@ -56,7 +54,7 @@ export async function exportBrowserTestStorageState(
   }
   const env = read.env
   const url = (asked.url ?? env.url).replace(/\/+$/, "")
-  const signInPath = asked.signInPath ?? DEFAULT_SIGN_IN
+  const signInPath = asked.signInPath ?? signInPathArgument.default
   const output = asked.output ?? playwrightStorageStatePath()
 
   const client = createClient(env.supabaseUrl, env.supabaseAnonKey)

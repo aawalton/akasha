@@ -90,8 +90,6 @@ const TAKES = [
   url,
 ] as const
 
-const DEFAULT_TIMEOUT_MS = 60_000
-
 const CONTAINS_TOKEN = "contains-token"
 
 const LOCAL = /^https?:\/\/localhost|^https?:\/\/127\.0\.0\.1/
@@ -343,10 +341,10 @@ export async function browserTestVerifyRender(
     attrMode: (taken.expectAttrMode === CONTAINS_TOKEN
       ? CONTAINS_TOKEN
       : "equals") as ExpectedAttrMode,
-    rootSelector: taken.rootSelector ?? "main",
+    rootSelector: taken.rootSelector,
     hydrationSelector: taken.hydrationSelector,
-    signInPath: taken.signInPath ?? "/sign-in",
-    timeout: taken.timeoutMs ?? DEFAULT_TIMEOUT_MS,
+    signInPath: taken.signInPath,
+    timeout: taken.timeoutMs,
   }
   const asJson = taken.json
 

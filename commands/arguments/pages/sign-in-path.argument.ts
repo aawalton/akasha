@@ -8,4 +8,5 @@ export const signInPath = {
   takes: "the path the sign-in form is at, `/sign-in` where none is said",
   value: "text",
   placeholder: "path",
+  default: "/sign-in",
 } as const satisfies Argument

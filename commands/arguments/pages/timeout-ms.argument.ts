@@ -5,7 +5,8 @@ export const timeoutMs = {
   type: "argument",
   slug: "timeout-ms",
   said: "--timeout-ms",
-  takes: "how long each wait is given",
+  takes: "how long each wait is given, 60000 where none is said",
   value: "whole-number",
   placeholder: "ms",
+  default: "60000",
 } as const satisfies Argument
