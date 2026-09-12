@@ -2,7 +2,7 @@ import { existsSync, mkdirSync } from "node:fs"
 import { appendFile } from "node:fs/promises"
 import { dirname, join } from "node:path"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
+import { importedFrom, saidAs } from "akasha/pages/body/page-body.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
@@ -60,10 +60,6 @@ interface Appender {
   readonly flushed: () => Promise<void>
 }
 
-function said(value: string): string {
-  return JSON.stringify(value)
-}
-
 export function dayNameOf(source: string, seatName: string, date: string): string {
   return `${source}-${seatName}-${date}`
 }
@@ -95,8 +91,8 @@ export function sourceBodyOf(root: string, source: string): string {
     `import type { ${typedAs(typeSlug)} } from "${typedFrom(root, typeSlug)}"`,
     "",
     `export const ${exportedAs(source)} = {`,
-    `  type: ${said(typeSlug)},`,
-    `  slug: ${said(source)},`,
+    `  type: ${saidAs(typeSlug)},`,
+    `  slug: ${saidAs(source)},`,
     `} as const satisfies ${typedAs(typeSlug)}`,
     "",
   ].join("\n")
@@ -114,11 +110,11 @@ export function dayBodyOf(
     `import type { ${typedAs(typeSlug)} } from "${typedFrom(root, typeSlug)}"`,
     "",
     `export const ${exportedAs(slug)} = {`,
-    `  type: ${said(typeSlug)},`,
-    `  slug: ${said(slug)},`,
-    `  source: ${said(source)},`,
-    `  seatName: ${said(seatName)},`,
-    `  date: ${said(date)},`,
+    `  type: ${saidAs(typeSlug)},`,
+    `  slug: ${saidAs(slug)},`,
+    `  source: ${saidAs(source)},`,
+    `  seatName: ${saidAs(seatName)},`,
+    `  date: ${saidAs(date)},`,
     `} as const satisfies ${typedAs(typeSlug)}`,
     "",
   ].join("\n")

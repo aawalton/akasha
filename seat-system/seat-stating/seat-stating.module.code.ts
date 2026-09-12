@@ -4,7 +4,7 @@ import { seatPathForName } from "akasha/agents/seats/modules/reading/seat-readin
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { landedMechanically } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { partWay } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
+import { importedFrom, saidAs } from "akasha/pages/body/page-body.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
@@ -86,10 +86,6 @@ export function personNamed(root: string, principal: string): boolean {
   return slugsOfType(root, PERSON).includes(principal)
 }
 
-function said(value: string): string {
-  return JSON.stringify(value)
-}
-
 export function assignmentStatedIn(value: unknown, slug: string): string | null {
   if (typeof value !== "string") return null
   const at = value.indexOf(ADDRESSED)
@@ -118,22 +114,22 @@ export function seatBody(
   const typeSlug = typeSlugOf(root, SEAT_TYPE)
   const from = typedFrom(root, typeSlug)
   if (from === "") return null
-  const named = said(typeSlug)
+  const named = saidAs(typeSlug)
   return [
-    `import type { Seat } from ${said(from)}`,
+    `import type { Seat } from ${saidAs(from)}`,
     "",
     `export const ${exportedAs(seatName)} = {`,
-    `  id: ${said(stated.agentId)},`,
+    `  id: ${saidAs(stated.agentId)},`,
     `  type: ${named},`,
-    `  slug: ${said(seatName)},`,
-    `  persona: ${said(persona)},`,
-    `  assignmentSlug: ${said(addressed ?? assignmentAddressOf(domain, root))},`,
-    `  role: ${said(role)},`,
-    person ? `  person: ${said(principal)},` : `  principalSeatName: ${said(above as string)},`,
-    `  startMode: ${said(mode)},`,
+    `  slug: ${saidAs(seatName)},`,
+    `  persona: ${saidAs(persona)},`,
+    `  assignmentSlug: ${saidAs(addressed ?? assignmentAddressOf(domain, root))},`,
+    `  role: ${saidAs(role)},`,
+    person ? `  person: ${saidAs(principal)},` : `  principalSeatName: ${saidAs(above as string)},`,
+    `  startMode: ${saidAs(mode)},`,
     `  onCall: ${stated.onCall ? "true" : "false"},`,
-    `  registrationAccount: ${said(registration)},`,
-    ...(stated.session === null ? [] : [`  claudeCodeSessionUuid: ${said(stated.session)},`]),
+    `  registrationAccount: ${saidAs(registration)},`,
+    ...(stated.session === null ? [] : [`  claudeCodeSessionUuid: ${saidAs(stated.session)},`]),
     "} as const satisfies Seat",
     "",
   ].join("\n")

@@ -9,7 +9,7 @@ import {
 import { partWay } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
 import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
-import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
+import { importedFrom, saidAs } from "akasha/pages/body/page-body.module.code.ts"
 import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
@@ -87,10 +87,6 @@ function typedFrom(given: string | Reading, typeSlug: string): string {
   return importedFrom(at)
 }
 
-function said(value: string): string {
-  return JSON.stringify(value)
-}
-
 export function accountPageText(
   given: {
     readonly slug: string
@@ -102,13 +98,13 @@ export function accountPageText(
 ): string {
   const named = typedAs(PAGE_TYPE_SLUG)
   return [
-    `import type { ${named} } from ${said(typedFrom(reading, PAGE_TYPE_SLUG))}`,
+    `import type { ${named} } from ${saidAs(typedFrom(reading, PAGE_TYPE_SLUG))}`,
     ``,
     `export const ${exportedAs(given.slug)} = {`,
-    `  id: ${said(given.id)},`,
-    `  type: ${said(PAGE_TYPE_SLUG)},`,
-    `  slug: ${said(given.slug)},`,
-    `  email: ${said(given.email)},`,
+    `  id: ${saidAs(given.id)},`,
+    `  type: ${saidAs(PAGE_TYPE_SLUG)},`,
+    `  slug: ${saidAs(given.slug)},`,
+    `  email: ${saidAs(given.email)},`,
     `  aliasIndex: ${String(given.aliasIndex)},`,
     `} as const satisfies ${named}`,
     ``,
