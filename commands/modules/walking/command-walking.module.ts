@@ -46,6 +46,18 @@ export const commandWalking = {
     },
     {
       invariantKind: "departure",
+      statement: "The levels the walk stepped through to reach a level are carried with it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Those levels are carried widest first.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "The level reached is not among the levels carried with it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A part naming no level is stepped over rather than ending the descent.",
     },
     {

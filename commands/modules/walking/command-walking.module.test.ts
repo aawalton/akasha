@@ -62,6 +62,21 @@ test("a word that could be no part of a slug ends the descent before that word",
   expect(walkingIn(ROOT, ["track", "--help"], UNDER)?.held).toBe(1)
 })
 
+test("the levels stepped through to reach a level are carried with it, widest first", () => {
+  const said = walkingIn(ROOT, ["track", "session", "open"], UNDER)
+  expect(said?.above.map((one) => one.slug)).toEqual(["track", "track-session"])
+})
+
+test("a level reached by the first word is carried with no level above it", () => {
+  expect(walkingIn(ROOT, ["work-tree"], UNDER)?.above).toEqual([])
+})
+
+test("a descent ending early carries the levels above the level it ended at", () => {
+  const said = walkingIn(ROOT, ["track", "session", "shut"], UNDER)
+  expect(said?.found[0]?.slug).toBe("track-session")
+  expect(said?.above.map((one) => one.slug)).toEqual(["track"])
+})
+
 test("a descent starting from no part reaches nothing", () => {
   expect(walkingIn([], ["track"], UNDER)).toBe(null)
 })

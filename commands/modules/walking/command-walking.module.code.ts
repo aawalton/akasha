@@ -17,6 +17,7 @@ export type Parting = (part: string) => readonly Level[]
 export type Reached = {
   readonly held: number
   readonly found: readonly Level[]
+  readonly above: readonly Level[]
 }
 
 export type Naming = (slug: string) => string | null
@@ -66,13 +67,15 @@ export function walkingIn(
 ): Reached | null {
   let under = parts
   let held = 0
+  const above: Level[] = []
   let reached: Reached | null = null
   for (const word of wordsIn(argv)) {
     const found = levelsNamed(under, word, levelOf)
     const one = found[0]
     if (one === undefined) return reached
     held = held + 1
-    reached = { held, found }
+    reached = { held, found, above: [...above] }
+    above.push(one)
     under = one.parts
   }
   return reached
