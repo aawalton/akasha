@@ -6,6 +6,7 @@ export const temperInventoryKnowledge = {
   slug: "temper-inventory-knowledge",
   definition: "the command giving back what each character knows of recipes, motifs and scripts",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

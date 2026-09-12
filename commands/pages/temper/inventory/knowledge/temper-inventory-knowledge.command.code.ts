@@ -1,14 +1,20 @@
 import { resolve } from "node:path"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { char as charArgument } from "akasha/commands/arguments/pages/char.argument.ts"
+import { charactersPath as charactersPathArgument } from "akasha/commands/arguments/pages/characters-path.argument.ts"
+import { itemKey as itemKeyArgument } from "akasha/commands/arguments/pages/item-key.argument.ts"
+import { json as jsonArgument } from "akasha/commands/arguments/pages/json.argument.ts"
 import {
   asJson,
   INPUT,
   OPERATIONAL,
   refused,
-  refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { temperInventoryKnowledge as page } from "akasha/commands/pages/temper/inventory/knowledge/temper-inventory-knowledge.command.ts"
 import {
   type CharacterKnowledge,
   loadTemperCharactersFromPath,
@@ -17,13 +23,11 @@ import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-pat
 import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/motif-chapter-set/motif-chapter-set.module.code.ts"
 import { wholeNumberIn } from "akasha/utils/narrow/whole-number-in/whole-number-in.module.code.ts"
 
-const CHAR = "--char"
+const NAMED = [jsonArgument, charactersPathArgument, charArgument, itemKeyArgument]
 
-const ITEM_KEY = "--item-key"
+const CHAR = charArgument.said
 
-const CHARACTERS_PATH = "--characters-path"
-
-const JSON_FLAG = "--json"
+const ITEM_KEY = itemKeyArgument.said
 
 const CHARACTERS_LUA = "TemperCharacters.lua"
 
@@ -40,49 +44,6 @@ type MotifKey = {
 type ScriptKey = { readonly kind: "script"; readonly scriptId: number }
 
 type ItemKey = RecipeKey | MotifKey | ScriptKey
-
-export type Read =
-  | {
-      readonly charId: string | null
-      readonly itemKey: string | null
-      readonly charactersPath: string | null
-      readonly json: boolean
-    }
-  | { readonly refused: readonly string[] }
-
-export function readIn(argv: readonly string[]): Read {
-  const refusals: string[] = []
-  let charId: string | null = null
-  let itemKey: string | null = null
-  let charactersPath: string | null = null
-  let json = false
-  for (let at = 0; at < argv.length; at += 1) {
-    const one = argv[at]
-    if (one === undefined) continue
-    if (one === JSON_FLAG) {
-      json = true
-      continue
-    }
-    if (one === CHAR || one === ITEM_KEY || one === CHARACTERS_PATH) {
-      const value = argv[at + 1]
-      at += 1
-      if (value === undefined) {
-        refusals.push(`\`${one}\` takes a value, and none followed it`)
-        continue
-      }
-      if (one === CHAR) charId = value
-      else if (one === ITEM_KEY) itemKey = value
-      else charactersPath = value
-      continue
-    }
-    refusals.push(
-      `\`${one}\` is nothing this takes — it takes \`${CHAR}\`, \`${ITEM_KEY}\`, ` +
-        `\`${CHARACTERS_PATH}\` and \`${JSON_FLAG}\``
-    )
-  }
-  if (refusals.length > 0) return { refused: refusals }
-  return { charId, itemKey, charactersPath, json }
-}
 
 export function itemKeyIn(raw: string): ItemKey | string {
   const colon = raw.indexOf(":")
@@ -149,18 +110,19 @@ function motifBookCount(one: CharacterKnowledge): number {
 }
 
 export async function temperInventoryKnowledge(
-  argv: readonly string[] = [],
-  given?: Given
+  argv: readonly string[],
+  given: Given
 ): Promise<Answer> {
-  const read = readIn(argv)
-  if ("refused" in read) return refusedBy(read.refused)
-  const key = read.itemKey === null ? null : itemKeyIn(read.itemKey)
+  const read = takenFor(argv, given.calledAs, page, NAMED)
+  if ("refused" in read) return mistaking(read.refused)
+  const taken = read.taken
+  const key = taken.itemKey === undefined ? null : itemKeyIn(taken.itemKey)
   if (typeof key === "string") return refused(key, INPUT)
-  const root = given === undefined ? process.cwd() : resolve(given.root)
+  const root = resolve(given.root)
   const at =
-    read.charactersPath === null
+    taken.charactersPath === undefined
       ? savedVarsFile(CHARACTERS_LUA)
-      : resolve(root, read.charactersPath)
+      : resolve(root, taken.charactersPath)
   let characters: ReadonlyArray<CharacterKnowledge>
   try {
     characters = await loadTemperCharactersFromPath(at)
@@ -168,11 +130,11 @@ export async function temperInventoryKnowledge(
     return refused(whyOf(thrown), OPERATIONAL)
   }
   let selected: ReadonlyArray<CharacterKnowledge> = characters
-  if (read.charId !== null) {
-    const match = characters.find((one) => one.id === read.charId)
+  if (taken.char !== undefined) {
+    const match = characters.find((one) => one.id === taken.char)
     if (match === undefined) {
       return refused(
-        `\`${CHAR} ${read.charId}\` names no character in ${CHARACTERS_LUA} at ${at}`,
+        `\`${CHAR} ${taken.char}\` names no character in ${CHARACTERS_LUA} at ${at}`,
         INPUT
       )
     }
@@ -184,7 +146,7 @@ export async function temperInventoryKnowledge(
       name: one.name,
       knows: knowsItem(one, key, STYLE_TO_CHAPTERS),
     }))
-    if (read.json) return asJson(rows)
+    if (taken.json) return asJson(rows)
     return told(rows.map((one) => `${one.id}\t${one.name ?? ""}\t${one.knows}`))
   }
   const rows = selected.map((one) => ({
@@ -194,9 +156,9 @@ export async function temperInventoryKnowledge(
     motifCount: motifBookCount(one),
     scriptCount: one.unlockedScriptIds.size,
   }))
-  if (read.json) {
+  if (taken.json) {
     const first = rows[0]
-    const held = read.charId !== null && first !== undefined ? first : rows
+    const held = taken.char !== undefined && first !== undefined ? first : rows
     return asJson(held)
   }
   return told(
