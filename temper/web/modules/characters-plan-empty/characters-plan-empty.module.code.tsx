@@ -14,7 +14,7 @@ import {
   Card,
   CardContent,
 } from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
-import type { PlanEmptyState } from "akasha/temper/web/characters-plan-empty-state/characters-plan-empty-state.module.code.ts"
+import type { PlanEmptyState } from "akasha/temper/web/modules/characters-plan-empty-state/characters-plan-empty-state.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import { Gamepad2, Loader2 } from "lucide-react"
 

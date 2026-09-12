@@ -1,15 +1,10 @@
-import "akasha/temper/characters-addon/characters-public-api/characters-public-api.module.code.ts"
+import "akasha/temper/characters-addon/modules/characters-public-api/characters-public-api.module.code.ts"
 
 import { registerAddonInit } from "akasha/temper/addon-init/modules/addon-init/addon-init.module.code.ts"
 import {
   finishPerfTrace,
   startPerfTrace,
 } from "akasha/temper/capture-perf/perf-trace/perf-trace.module.code.ts"
-import { captureAndSaveCharacterStats } from "akasha/temper/characters-addon/characters-player-stats/characters-player-stats.module.code.ts"
-import { collectPointsOfInterest } from "akasha/temper/characters-addon/characters-points-of-interest/characters-points-of-interest.module.code.ts"
-import { collectQuests } from "akasha/temper/characters-addon/characters-quests/characters-quests.module.code.ts"
-import { collectRecipes } from "akasha/temper/characters-addon/characters-recipes/characters-recipes.module.code.ts"
-import { collectScribing } from "akasha/temper/characters-addon/characters-scribing/characters-scribing.module.code.ts"
 import {
   saveAccountSkillLineProgress,
   saveSkillLineProgress,
@@ -45,6 +40,11 @@ import { saveCharacterList } from "akasha/temper/characters-addon/modules/charac
 import { collectLoreLibrary } from "akasha/temper/characters-addon/modules/characters-lore-library/characters-lore-library.module.code.ts"
 import { runMigrations } from "akasha/temper/characters-addon/modules/characters-migrations/characters-migrations.module.code.ts"
 import { collectMountTraining } from "akasha/temper/characters-addon/modules/characters-mount-training/characters-mount-training.module.code.ts"
+import { captureAndSaveCharacterStats } from "akasha/temper/characters-addon/modules/characters-player-stats/characters-player-stats.module.code.ts"
+import { collectPointsOfInterest } from "akasha/temper/characters-addon/modules/characters-points-of-interest/characters-points-of-interest.module.code.ts"
+import { collectQuests } from "akasha/temper/characters-addon/modules/characters-quests/characters-quests.module.code.ts"
+import { collectRecipes } from "akasha/temper/characters-addon/modules/characters-recipes/characters-recipes.module.code.ts"
+import { collectScribing } from "akasha/temper/characters-addon/modules/characters-scribing/characters-scribing.module.code.ts"
 import {
   saveAccountSkillMorphProgress,
   saveSkillMorphProgress,

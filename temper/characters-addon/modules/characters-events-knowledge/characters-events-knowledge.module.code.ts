@@ -1,12 +1,3 @@
-import { updateQuest } from "akasha/temper/characters-addon/characters-quests/characters-quests.module.code.ts"
-import {
-  refreshAllRecipes,
-  updateRecipe,
-} from "akasha/temper/characters-addon/characters-recipes/characters-recipes.module.code.ts"
-import {
-  updateGrimoire,
-  updateScript,
-} from "akasha/temper/characters-addon/characters-scribing/characters-scribing.module.code.ts"
 import { updateSkillPoints } from "akasha/temper/characters-addon/characters-skill-points/characters-skill-points.module.code.ts"
 import { scheduleTaskAutoCompletionCheck } from "akasha/temper/characters-addon/characters-task-auto-complete/characters-task-auto-complete.module.code.ts"
 import { updateTraitResearch } from "akasha/temper/characters-addon/characters-trait-research/characters-trait-research.module.code.ts"
@@ -23,6 +14,15 @@ import {
   updateItemSet,
 } from "akasha/temper/characters-addon/modules/characters-item-sets/characters-item-sets.module.code.ts"
 import { updateLoreBook } from "akasha/temper/characters-addon/modules/characters-lore-library/characters-lore-library.module.code.ts"
+import { updateQuest } from "akasha/temper/characters-addon/modules/characters-quests/characters-quests.module.code.ts"
+import {
+  refreshAllRecipes,
+  updateRecipe,
+} from "akasha/temper/characters-addon/modules/characters-recipes/characters-recipes.module.code.ts"
+import {
+  updateGrimoire,
+  updateScript,
+} from "akasha/temper/characters-addon/modules/characters-scribing/characters-scribing.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/player-completion-state/completion-addon-constants/completion-addon-constants.module.code.ts"
 
 const TRAIT_RESEARCH_EVENTS = [

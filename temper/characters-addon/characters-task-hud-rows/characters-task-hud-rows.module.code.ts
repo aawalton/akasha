@@ -5,10 +5,6 @@ import {
 } from "akasha/design/interfaces/tokens/semantic-color/semantic-color.module.code.ts"
 import { TEXT_SECONDARY } from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
 import {
-  countSuffix,
-  progressSuffix,
-} from "akasha/temper/characters-addon/characters-progress-format/characters-progress-format.module.code.ts"
-import {
   getAntiquityLeadSessionProgress,
   isAntiquitySessionTask,
 } from "akasha/temper/characters-addon/characters-task-hud-enrichment/characters-task-hud-enrichment.module.code.ts"
@@ -27,6 +23,10 @@ import {
 import { isTaskComplete } from "akasha/temper/characters-addon/characters-task-hud-visibility/characters-task-hud-visibility.module.code.ts"
 import { resolveTaskProgress } from "akasha/temper/characters-addon/characters-task-progress-resolver/characters-task-progress-resolver.module.code.ts"
 import type { ActiveQuest } from "akasha/temper/characters-addon/modules/characters-active-quests/characters-active-quests.module.code.ts"
+import {
+  countSuffix,
+  progressSuffix,
+} from "akasha/temper/characters-addon/modules/characters-progress-format/characters-progress-format.module.code.ts"
 import type { TaskData } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 
 const SUFFIX_GAP = 4

@@ -1,4 +1,3 @@
-import { formatProgressCount } from "akasha/temper/characters-addon/characters-progress-format/characters-progress-format.module.code.ts"
 import {
   getScribingGuildDailyFallback,
   getScribingScriptType,
@@ -30,6 +29,7 @@ import {
   filterPledgesForCharacter,
   getTodaysPledges,
 } from "akasha/temper/characters-addon/characters-undaunted-pledges/characters-undaunted-pledges.module.code.ts"
+import { formatProgressCount } from "akasha/temper/characters-addon/modules/characters-progress-format/characters-progress-format.module.code.ts"
 import {
   getSkillMorphEnrichment,
   isSkillMorphTask,

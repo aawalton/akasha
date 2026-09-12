@@ -1,5 +1,5 @@
-import { populatedName } from "akasha/temper/characters-addon/characters-populated-name/characters-populated-name.module.code.ts"
 import { mergeByKey } from "akasha/temper/characters-addon/modules/characters-keyed-merge/characters-keyed-merge.module.code.ts"
+import { populatedName } from "akasha/temper/characters-addon/modules/characters-populated-name/characters-populated-name.module.code.ts"
 import type {
   GrimoireEntry,
   ScribingProgress,
