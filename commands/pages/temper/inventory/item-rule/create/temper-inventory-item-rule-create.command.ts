@@ -26,8 +26,8 @@ export const temperInventoryItemRuleCreate = {
     { argument: "argument/action" },
     { argument: "argument/destination" },
     { argument: "argument/stock-scope" },
-    { argument: "argument/item-id" },
-    { argument: "argument/item-name" },
+    { argument: "argument/item-id", required: true },
+    { argument: "argument/item-name", required: true },
     { argument: "argument/stock-quantity" },
   ],
 } as const satisfies Command
