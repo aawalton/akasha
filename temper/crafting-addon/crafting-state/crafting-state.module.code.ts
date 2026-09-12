@@ -1,4 +1,3 @@
-import type { CharacterData } from "akasha/temper/crafting-addon/craft-char-init/craft-char-init.module.code.ts"
 import {
   COOK,
   type CookTable,
@@ -30,6 +29,7 @@ import {
   StaminaName,
 } from "akasha/temper/crafting-addon/crafting-constants/crafting-constants.module.code.ts"
 import type { AccountData } from "akasha/temper/crafting-addon/modules/craft-account-init/craft-account-init.module.code.ts"
+import type { CharacterData } from "akasha/temper/crafting-addon/modules/craft-char-init/craft-char-init.module.code.ts"
 
 export interface StyleNameRow {
   name: string
