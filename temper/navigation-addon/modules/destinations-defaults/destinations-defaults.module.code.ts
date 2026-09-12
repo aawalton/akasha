@@ -1,4 +1,3 @@
-import { PIN_DEFAULTS } from "akasha/temper/navigation-addon/destinations-pin-defaults/destinations-pin-defaults.module.code.ts"
 import { PIN_TYPES } from "akasha/temper/navigation-addon/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 import {
   DEST_COLOR_ANTIQUEWHITE,
@@ -21,6 +20,7 @@ import {
   DEST_COLOR_WHITE,
   DEST_COLOR_YELLOW,
 } from "akasha/temper/navigation-addon/modules/destinations-colors/destinations-colors.module.code.ts"
+import { PIN_DEFAULTS } from "akasha/temper/navigation-addon/modules/destinations-pin-defaults/destinations-pin-defaults.module.code.ts"
 
 const FILTER_DEFAULTS: Record<string, boolean> = {
   [PIN_TYPES.UNKNOWN]: true,

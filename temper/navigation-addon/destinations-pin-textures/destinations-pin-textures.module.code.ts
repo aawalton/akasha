@@ -1,6 +1,6 @@
-import { getSettingsString } from "akasha/temper/navigation-addon/destinations-lang-strings/destinations-lang-strings.module.code.ts"
 import { PIN_TEXTURE_PATHS } from "akasha/temper/navigation-addon/destinations-pin-texture-paths/destinations-pin-texture-paths.module.code.ts"
 import { DEFAULTS } from "akasha/temper/navigation-addon/modules/destinations-defaults/destinations-defaults.module.code.ts"
+import { getSettingsString } from "akasha/temper/navigation-addon/modules/destinations-lang-strings/destinations-lang-strings.module.code.ts"
 
 export const PIN_TEXTURE_LISTS = {
   Unknown: [
