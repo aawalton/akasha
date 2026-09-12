@@ -9,18 +9,28 @@ export const pageTree = {
   test: "ts",
   changeKind: "change-none",
   taking: [],
-  helpNotes: [
-    "one JSON object is printed and nothing else, carrying `types`, `properties` and `propertyTypes`.",
-    "a row is `at` and `values`, and whoever asked assembles the tree, which keeps the assembling in one place rather than in two runtimes.",
-    "every row comes out of the index, so this opens 14 files and parses no page body.",
-    "an index that is not there refuses, because a walk kept as a fallback is a walk that runs.",
-    "each page type is drawn with the properties that page type declares.",
-    "each property page is drawn under the kind of property it is.",
-    "a property carrying properties of its own holds those beneath it in the second tree.",
-    "a declaration naming no property page refuses the whole answer rather than dropping that row.",
-    "no group of domain rows is answered, because a kind is a page type and `types` already carries its path.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "The whole answer is one JSON object carrying `types`, `properties` and `propertyTypes`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row is an `at` and a `values`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type is answered with the properties that page type declares.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property page is answered under the kind of property that page is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property carrying properties of its own is answered with those properties too.",
+    },
     {
       invariantKind: "departure",
       statement: "Every row is read from the index rather than from a page body.",
