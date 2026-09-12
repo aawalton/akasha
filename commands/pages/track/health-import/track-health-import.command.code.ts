@@ -7,46 +7,37 @@ import {
   type ImportOutcome,
   type ImportRunDeps,
   MAX_IMPORT_BATCH,
-  NO_LOWER_BOUND,
   runHealthImport,
 } from "akasha/alan/harness/health-samples-import/health-import-run/health-import-run.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { batch as batchArgument } from "akasha/commands/arguments/pages/batch.argument.ts"
+import { dryRun as dryRunArgument } from "akasha/commands/arguments/pages/dry-run.argument.ts"
+import { firstDay } from "akasha/commands/arguments/pages/first-day.argument.ts"
+import { healthExportPath } from "akasha/commands/arguments/pages/health-export-path.argument.ts"
+import { restart as restartArgument } from "akasha/commands/arguments/pages/restart.argument.ts"
 import {
   answering,
   DATA,
-  INPUT,
   keeping,
+  refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { trackHealthImport as page } from "akasha/commands/pages/track/health-import/track-health-import.command.ts"
 
 const NOTHING = "—"
 
 export const HEALTH = "health"
-
-const FILE_PATH = "--file-path"
-
-const SINCE = "--since"
-
-const BATCH = "--batch"
-
-const DRY_RUN = "--dry-run"
-
-const RESTART = "--restart"
-
-const VALUED = [FILE_PATH, SINCE, BATCH]
-
-const BARE = [DRY_RUN, RESTART]
 
 const CIVIL_DAY = /^\d{4}-\d{2}-\d{2}$/
 
 export const NO_EXPORT =
   "no Apple Health export is on this workstation or on the macbook. On your iPhone, open Health, " +
   "tap your profile photo, then Export All Health Data, and put the zip in `~/Downloads` on either " +
-  "machine — or name one with `--file-path`."
+  `machine — or name one with \`${healthExportPath.said}\`.`
 
-const TAKEN_UP =
-  "what already landed is written, and a call made again takes the run up where it ended unless `--restart` is said"
+const TAKEN_UP = `what already landed is written, and a call made again takes the run up where it ended unless \`${restartArgument.said}\` is said`
 
 export type Taken = {
   readonly path: string | undefined
@@ -56,65 +47,36 @@ export type Taken = {
   readonly restart: boolean
 }
 
-export type Reading = Taken | { readonly refused: string }
+export type Reading = Taken | { readonly refusals: readonly string[] }
 
 export function taken(argv: readonly string[], calledAs: string): Reading {
-  const held = new Map<string, string>()
-  const bare = new Set<string>()
-  let at = 0
-  while (at < argv.length) {
-    const one = argv[at] as string
-    at += 1
-    if (BARE.includes(one)) {
-      bare.add(one)
-      continue
-    }
-    if (!one.startsWith("-")) {
-      return {
-        refused: `\`${calledAs}\` takes flags alone, and \`${one}\` is named as a word of its own`,
-      }
-    }
-    const named = VALUED.find((each) => one === each || one.startsWith(`${each}=`))
-    if (named === undefined) {
-      return { refused: `\`${one}\` is nothing \`${calledAs}\` takes` }
-    }
-    let value: string | undefined
-    if (one === named) {
-      value = argv[at]
-      at += 1
-    } else {
-      value = one.slice(named.length + 1)
-    }
-    if (value === undefined || value === "" || value.startsWith("-")) {
-      return { refused: `\`${named}\` takes a value, and this call names none after it` }
-    }
-    const before = held.get(named)
-    if (before !== undefined) {
-      return {
-        refused: `\`${named}\` is named twice, as \`${before}\` and as \`${value}\`, so which is meant is unsettled`,
-      }
-    }
-    held.set(named, value)
+  const read = takenFor(argv, calledAs, page, [
+    dryRunArgument,
+    healthExportPath,
+    batchArgument,
+    restartArgument,
+    firstDay,
+  ])
+  if ("refused" in read) return { refusals: read.refused }
+  const held = read.taken
+  const refusals: string[] = []
+  if (!CIVIL_DAY.test(held.firstDay)) {
+    refusals.push(
+      `\`${firstDay.said}\` takes a civil day written YYYY-MM-DD, and this call names \`${held.firstDay}\``
+    )
   }
-  const since = held.get(SINCE)
-  if (since !== undefined && !CIVIL_DAY.test(since)) {
-    return {
-      refused: `\`${SINCE}\` takes a civil day written YYYY-MM-DD, and this call names \`${since}\``,
-    }
+  if (held.batch < 1 || held.batch > MAX_IMPORT_BATCH) {
+    refusals.push(
+      `\`${batchArgument.said}\` takes a whole number from 1 to ${MAX_IMPORT_BATCH}, and this call names \`${held.batch}\``
+    )
   }
-  const said = held.get(BATCH)
-  const batch = said === undefined ? MAX_IMPORT_BATCH : Number(said)
-  if (!Number.isInteger(batch) || batch < 1 || batch > MAX_IMPORT_BATCH) {
-    return {
-      refused: `\`${BATCH}\` takes a whole number from 1 to ${MAX_IMPORT_BATCH}, and this call names \`${said}\``,
-    }
-  }
+  if (refusals.length > 0) return { refusals }
   return {
-    path: held.get(FILE_PATH),
-    since: since ?? NO_LOWER_BOUND,
-    batch,
-    dryRun: bare.has(DRY_RUN),
-    restart: bare.has(RESTART),
+    path: held.healthExportPath,
+    since: held.firstDay,
+    batch: held.batch,
+    dryRun: held.dryRun,
+    restart: held.restart,
   }
 }
 
@@ -143,7 +105,9 @@ export function linesOf(outcome: ImportOutcome, dryRun: boolean): readonly strin
     if (many > 0) said.push(`refused\t${why}\t${many}`)
   }
   if (dryRun) {
-    said.push("dry-run\tnothing was written; run it again without `--dry-run` to carry it out")
+    said.push(
+      `dry-run\tnothing was written; run it again without \`${dryRunArgument.said}\` to carry it out`
+    )
     return said
   }
   said.push(`batches\t${outcome.batches}`)
@@ -213,6 +177,6 @@ export function reaching(held: Taken): ImportRunDeps {
 
 export async function trackHealthImport(argv: readonly string[], given: Given): Promise<Answer> {
   const held = taken(argv, given.calledAs)
-  if ("refused" in held) return refused(held.refused, INPUT)
+  if ("refusals" in held) return refusedBy(held.refusals)
   return await healthImported(held, reaching(held), Date.now())
 }

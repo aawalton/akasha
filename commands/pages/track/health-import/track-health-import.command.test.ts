@@ -7,6 +7,8 @@ import {
   MAX_IMPORT_BATCH,
   NO_LOWER_BOUND,
 } from "akasha/alan/harness/health-samples-import/health-import-run/health-import-run.module.code.ts"
+import { batch as batchArgument } from "akasha/commands/arguments/pages/batch.argument.ts"
+import { firstDay } from "akasha/commands/arguments/pages/first-day.argument.ts"
 import {
   DATA,
   OK,
@@ -33,7 +35,7 @@ const GIVEN: Given = { root: ".", calledAs: CALLED, from: ".", writer: null, age
 
 function held(argv: readonly string[]): Taken {
   const said = taken(argv, CALLED)
-  if ("refused" in said) throw new Error(said.refused)
+  if ("refusals" in said) throw new Error(said.refusals.join("; "))
   return said
 }
 
@@ -112,31 +114,41 @@ test("a flag this command does not take is refused by name", async () => {
 
 test("a day not written as a civil day is refused", () => {
   const said = taken(["--since", "2026-9-1"], CALLED)
-  expect(said).toEqual({ refused: expect.stringContaining("YYYY-MM-DD") })
+  expect(said).toEqual({ refusals: [expect.stringContaining("YYYY-MM-DD")] })
 })
 
-test("a batch outside one to a thousand is refused", () => {
-  expect(taken(["--batch", "0"], CALLED)).toEqual({ refused: expect.stringContaining("1 to 1000") })
-  expect(taken(["--batch", "1001"], CALLED)).toEqual({
-    refused: expect.stringContaining("1 to 1000"),
+test("a batch inside the whole numbers but outside one to a thousand is refused here", () => {
+  expect(taken(["--batch", "0"], CALLED)).toEqual({
+    refusals: [expect.stringContaining("1 to 1000")],
   })
+  expect(taken(["--batch", "1001"], CALLED)).toEqual({
+    refusals: [expect.stringContaining("1 to 1000")],
+  })
+})
+
+test("a batch that is no whole number is refused by the reader before the range is weighed", () => {
   expect(taken(["--batch", "ten"], CALLED)).toEqual({
-    refused: expect.stringContaining("1 to 1000"),
+    refusals: [expect.stringContaining("no whole number")],
   })
 })
 
 test("a value named twice is refused rather than chosen between", () => {
   const said = taken(["--since", "2026-08-01", "--since", "2026-08-02"], CALLED)
-  expect(said).toEqual({ refused: expect.stringContaining("named twice") })
+  expect(said).toEqual({ refusals: [expect.stringContaining("said twice")] })
 })
 
 test("a flag taking a value and given none is refused", () => {
   expect(taken(["--file-path"], CALLED)).toEqual({
-    refused: expect.stringContaining("names none after it"),
+    refusals: [expect.stringContaining("none follows it")],
   })
   expect(taken(["--since", "--dry-run"], CALLED)).toEqual({
-    refused: expect.stringContaining("names none after it"),
+    refusals: [expect.stringContaining("none follows it")],
   })
+})
+
+test("the defaults a call gets are the ones the argument pages carry", () => {
+  expect(firstDay.default).toBe(NO_LOWER_BOUND)
+  expect(batchArgument.default).toBe(`${MAX_IMPORT_BATCH}`)
 })
 
 test("a call naming nothing takes the whole history a thousand readings at a time", () => {
