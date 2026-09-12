@@ -8,7 +8,6 @@ export const claudeAccountAdd = {
     "the command filing a page for a claude account and giving it the next free alias slot",
   code: "ts",
   taking: [
-    { said: "--email <address>", takes: "the address the account signs in as" },
     { said: "--alias <n>", takes: "the alias slot to take, where the next free one is not wanted" },
   ],
   invariants: [
