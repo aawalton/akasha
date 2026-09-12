@@ -8,7 +8,6 @@ export const trackSessionDrop = {
   code: "ts",
   test: "ts",
   taking: [
-    { said: "--open", takes: "the stretch to act on, which is the one that is open" },
     { said: "--last", takes: "the stretch to act on, which is the one that ended last" },
     { said: "--mend", takes: "close the gap a dropped stretch leaves behind" },
   ],
@@ -73,5 +72,6 @@ export const trackSessionDrop = {
     { argument: "argument/day" },
     { argument: "argument/at" },
     { argument: "argument/id" },
+    { argument: "argument/open" },
   ],
 } as const satisfies Command

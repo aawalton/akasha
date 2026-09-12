@@ -8,7 +8,6 @@ export const trackSessionAmend = {
   code: "ts",
   parts: [],
   taking: [
-    { said: "--open", takes: "the stretch to act on, which is the one that is open" },
     { said: "--last", takes: "the stretch to act on, which is the one that ended last" },
     { said: "--title <text>", takes: "what the stretch is called" },
     {
@@ -109,5 +108,6 @@ export const trackSessionAmend = {
     { argument: "argument/day" },
     { argument: "argument/at" },
     { argument: "argument/id" },
+    { argument: "argument/open" },
   ],
 } as const satisfies Command
