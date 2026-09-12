@@ -42,4 +42,5 @@ export const measurePerformance = {
       statement: "Nothing here judges a figure against a limit.",
     },
   ],
+  name: "performance",
 } as const satisfies Command

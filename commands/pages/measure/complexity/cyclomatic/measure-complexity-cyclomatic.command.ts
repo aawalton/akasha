@@ -37,4 +37,5 @@ export const measureComplexityCyclomatic = {
       statement: "Nothing here refuses a body for being complex.",
     },
   ],
+  name: "cyclomatic",
 } as const satisfies Command

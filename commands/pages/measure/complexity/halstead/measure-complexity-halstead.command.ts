@@ -36,4 +36,5 @@ export const measureComplexityHalstead = {
       statement: "Nothing here refuses a body for being complex.",
     },
   ],
+  name: "halstead",
 } as const satisfies Command

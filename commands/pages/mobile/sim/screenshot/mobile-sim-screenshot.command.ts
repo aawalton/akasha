@@ -39,4 +39,5 @@ export const mobileSimScreenshot = {
       statement: "Nothing here reads the picture back.",
     },
   ],
+  name: "screenshot",
 } as const satisfies Command

@@ -47,4 +47,5 @@ export const measureCommand = {
       statement: "A row appended while this reads is read or passed over rather than refusing.",
     },
   ],
+  name: "command",
 } as const satisfies Command

@@ -62,4 +62,5 @@ export const measurePersona = {
       statement: "A run turns no figure into a color.",
     },
   ],
+  name: "persona",
 } as const satisfies Command

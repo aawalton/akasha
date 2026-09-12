@@ -57,4 +57,5 @@ export const mobileSimOpenUrl = {
         "A call naming no simulator takes the session's own simulator or the first booted simulator.",
     },
   ],
+  name: "open-url",
 } as const satisfies Command

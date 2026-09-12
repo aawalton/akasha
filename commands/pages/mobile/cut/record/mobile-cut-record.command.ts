@@ -55,4 +55,5 @@ export const mobileCutRecord = {
       statement: "Nothing here reaches Apple or the mac.",
     },
   ],
+  name: "record",
 } as const satisfies Command

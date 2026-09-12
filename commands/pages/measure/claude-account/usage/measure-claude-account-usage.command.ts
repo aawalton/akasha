@@ -43,4 +43,5 @@ export const measureClaudeAccountUsage = {
       statement: "A run writes no value the commit has.",
     },
   ],
+  name: "usage",
 } as const satisfies Command

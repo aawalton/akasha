@@ -83,4 +83,5 @@ export const measureAttribute = {
       statement: "A run turns no figure into a color.",
     },
   ],
+  name: "attribute",
 } as const satisfies Command

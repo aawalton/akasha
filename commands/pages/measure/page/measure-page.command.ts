@@ -22,4 +22,5 @@ export const measurePage = {
       statement: "A run writes no value the commit has.",
     },
   ],
+  name: "page",
 } as const satisfies Command

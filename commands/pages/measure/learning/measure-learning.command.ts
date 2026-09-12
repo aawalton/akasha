@@ -59,4 +59,5 @@ export const measureLearning = {
       statement: "Nothing here writes a page.",
     },
   ],
+  name: "learning",
 } as const satisfies Command

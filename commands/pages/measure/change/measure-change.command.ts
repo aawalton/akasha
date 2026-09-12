@@ -45,4 +45,5 @@ export const measureChange = {
       statement: "An argument this command does not take is refused.",
     },
   ],
+  name: "change",
 } as const satisfies Command

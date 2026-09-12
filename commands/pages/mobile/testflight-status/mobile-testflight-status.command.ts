@@ -48,4 +48,5 @@ export const mobileTestflightStatus = {
       statement: "Nothing here builds or uploads or reaches the mac.",
     },
   ],
+  name: "testflight-status",
 } as const satisfies Command

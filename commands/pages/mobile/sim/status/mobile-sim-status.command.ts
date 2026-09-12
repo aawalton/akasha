@@ -37,4 +37,5 @@ export const mobileSimStatus = {
       statement: "Nothing here opens or repairs or ends a session.",
     },
   ],
+  name: "status",
 } as const satisfies Command

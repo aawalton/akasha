@@ -16,4 +16,5 @@ export const measureComplexityReport = {
     "this is taken over the whole workspace and counts every row, so it takes no file and no threshold.",
     "ten outliers of each metric are shown where no count is said.",
   ],
+  name: "report",
 } as const satisfies Command

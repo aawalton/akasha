@@ -29,4 +29,5 @@ export const measureComplexityMaintainability = {
       statement: "A row is one file, and the rows are ordered by index, lowest first.",
     },
   ],
+  name: "maintainability",
 } as const satisfies Command

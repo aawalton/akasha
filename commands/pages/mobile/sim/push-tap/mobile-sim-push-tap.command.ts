@@ -57,4 +57,5 @@ export const mobileSimPushTap = {
       statement: "The session opened to tap the banner is ended whatever the tap did.",
     },
   ],
+  name: "push-tap",
 } as const satisfies Command

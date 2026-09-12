@@ -48,4 +48,5 @@ export const mobileSimLongPressDrag = {
       statement: "Nothing here opens a session.",
     },
   ],
+  name: "long-press-drag",
 } as const satisfies Command

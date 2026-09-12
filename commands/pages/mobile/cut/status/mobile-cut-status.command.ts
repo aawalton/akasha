@@ -41,4 +41,5 @@ export const mobileCutStatus = {
       statement: "Nothing here builds or uploads or files anything.",
     },
   ],
+  name: "status",
 } as const satisfies Command

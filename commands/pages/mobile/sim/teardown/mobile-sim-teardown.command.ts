@@ -34,4 +34,5 @@ export const mobileSimTeardown = {
       statement: "Nothing here shuts a simulator down.",
     },
   ],
+  name: "teardown",
 } as const satisfies Command

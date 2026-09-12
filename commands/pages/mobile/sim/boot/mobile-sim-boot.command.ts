@@ -38,4 +38,5 @@ export const mobileSimBoot = {
       statement: "Nothing here opens a session or installs a build.",
     },
   ],
+  name: "boot",
 } as const satisfies Command

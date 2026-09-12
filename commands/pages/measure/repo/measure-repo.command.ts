@@ -24,4 +24,5 @@ export const measureRepo = {
       statement: "A run writes no value the commit has.",
     },
   ],
+  name: "repo",
 } as const satisfies Command

@@ -40,4 +40,5 @@ export const mobileSimType = {
       statement: "Nothing here opens a session.",
     },
   ],
+  name: "type",
 } as const satisfies Command
