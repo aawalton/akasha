@@ -11,7 +11,7 @@ export const athenaCommandHelp = {
     {
       statement: "No command page states help notes.",
       workingMemory:
-        "`helpNotes` is the one hand-written part of a help answer, and every stale line the audits found sits in it. `commands/pages/claude-account/usage/claude-account-usage.command.ts:24` carries a bug post-mortem about `Promise.allSettled`; `commands/pages/seat/compose-notices/seat-compose-notices.command.ts:17` carries an internal to-do; `commands/pages/audit/audit.command.ts:20` writes a shape fact as prose. Nothing re-reads any of it.\n",
+        "215 command pages are swept clean; no command page states help notes. Left: the reader in `commands/modules/help-writing/`, the declaration at `commands/command.page-type.ts:15,128`, the page `commands/properties/help-notes.text-property.ts`, and two invariants at `commands/properties/taking.record-property.ts:25,29`. Deploy's 53 notes were bound by the fourteen modules its page names. Does a command stating no `taking` still answer its own help?\n",
     },
     {
       statement: "A command's help parts what that command does from what it does not do yet.",
