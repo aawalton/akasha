@@ -2,6 +2,8 @@ import type { Manifest } from "akasha/checks/code-checks/pages/package-reached-w
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { reachesIn } from "akasha/code/package-manifest/package-manifest.module.code.ts"
 
+const GLOB = "*"
+
 const SAID = "a way into a package lands on a file that is there"
 
 export type Asking = {
@@ -16,6 +18,7 @@ export function missingIn(
 ): readonly string[] {
   const said: string[] = []
   for (const [specifier, path] of reachesIn(folder, text)) {
+    if (path.includes(GLOB)) continue
     if (there(path)) continue
     said.push(`names \`${specifier}\`, which lands on ${path}, where no file is — ${SAID}`)
   }

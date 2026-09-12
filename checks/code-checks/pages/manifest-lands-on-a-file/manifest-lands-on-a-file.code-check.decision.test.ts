@@ -71,6 +71,10 @@ test("a target that is no string names no way in", () => {
   ).toEqual([])
 })
 
+test("a way in landing on a path spelling a star is passed over", () => {
+  expect(missingIn(FOLDER, manifest({ exports: { "./*": "./*" } }), there([]))).toEqual([])
+})
+
 test("a key that is neither a lone dot nor opens with one names no way in", () => {
   expect(missingIn(FOLDER, manifest({ exports: { one: "./gone.ts" } }), there([]))).toEqual([])
 })

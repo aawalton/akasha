@@ -59,6 +59,10 @@ export const manifestLandsOnAFile = {
       invariantKind: "absence",
       statement: "A file named by `main` or `bin` is no way in this check judges.",
     },
+    {
+      invariantKind: "absence",
+      statement: "A way in landing on a path spelling a `*` is no way in this check judges.",
+    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
