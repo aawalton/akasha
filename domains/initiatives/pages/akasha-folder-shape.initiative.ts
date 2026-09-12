@@ -15,7 +15,7 @@ export const akashaFolderShape = {
     {
       statement: "The folder shapes are the fewest patterns that allow every folder in akasha.",
       workingMemory:
-        "Twelve shapes are enabled, each written on its own. Seven differ only in the folder name that shape publishes as `HOLDS`: pages, properties, sections, scripts, modules, property pages and workstation services, each judging that one folder under the page above. Three differ only in what the single page in the folder is: a page, a domain, a page type. A pattern is worth replacing shapes with only where it refuses every folder those shapes refuse.\n",
+        "No pair of the twelve judges differs only in `HOLDS`. `judgedBy` in `shape-loading` does the name check before a judge runs, so `HOLDS` is already a parameter, and five shapes publish none. The judges differ in control flow rather than in data: three predicates for a page type, a three-valued empty-folder policy, five subfolder policies. The two shapes holding `properties` stay two, because `folder-shape.page-type.ts:60` makes one folder matching two a departure.\n",
     },
     {
       statement: "Every shape allowed by folder-matches-a-shape is clean and approved by Alan.",
