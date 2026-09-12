@@ -8,7 +8,7 @@ import type {
 import type { SongType } from "akasha/alan/music/catalog/songs/properties/song-type.select-property.types.ts"
 import type { Written } from "akasha/alan/music/catalog/songs/properties/written.select-property.types.ts"
 import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.ts"
-import { compareKey } from "akasha/utils/narrow/compare-key/compare-key.module.code.ts"
+import { compareKey } from "akasha/utils/narrow/modules/compare-key/compare-key.module.code.ts"
 
 export type ArtistFields = Pick<
   Artist,

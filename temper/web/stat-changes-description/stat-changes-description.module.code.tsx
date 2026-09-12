@@ -1,5 +1,5 @@
-import type { MetricChange } from "akasha/temper/characters-stats/compare-stats/compare-stats.module.code.ts"
 import { getMetricDisplayName } from "akasha/temper/characters-stats/metrics/metrics.module.code.ts"
+import type { MetricChange } from "akasha/temper/characters-stats/modules/compare-stats/compare-stats.module.code.ts"
 import {
   type BuffOrDebuffId,
   buffOrDebuff,
