@@ -2,8 +2,8 @@ import {
   DEFAULT_PER_SPEC_TIMEOUT_MS,
   type RecipientResolverTickDeps,
 } from "akasha/agents/messaging/recipient-resolving/modules/recipient-resolver-tick-deps/recipient-resolver-tick-deps.module.code.ts"
-import { decideWakeMatch } from "akasha/agents/messaging/recipient-resolving/seat-wake-match-decide/seat-wake-match-decide.module.code.ts"
-import type { OnDemandAgentSpec } from "akasha/agents/messaging/recipient-resolving/seat-wake-rules/seat-wake-rules.module.code.ts"
+import { decideWakeMatch } from "akasha/agents/messaging/recipient-resolving/modules/seat-wake-match-decide/seat-wake-match-decide.module.code.ts"
+import type { OnDemandAgentSpec } from "akasha/agents/messaging/recipient-resolving/modules/seat-wake-rules/seat-wake-rules.module.code.ts"
 
 const LOG = "[local] recipient-resolver:"
 

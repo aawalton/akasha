@@ -3,7 +3,7 @@ import {
   createObservationStore,
   type ObservationStore,
 } from "akasha/code/editor/extension/modules/observation-store/observation-store.module.code.ts"
-import type { Observation } from "akasha/code/editor/extension/seat-observations/seat-observations.module.code.ts"
+import type { Observation } from "akasha/code/editor/extension/modules/seat-observations/seat-observations.module.code.ts"
 import { z } from "zod"
 
 const sentBody = z.object({

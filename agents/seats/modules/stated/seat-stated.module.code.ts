@@ -34,7 +34,7 @@ import type { Roots } from "akasha/pages/modules/markdown-page-at/markdown-page-
 import {
   ROTATED_KEY,
   rotatedOf,
-} from "akasha/seat-system/seat-rotated-session/seat-rotated-session.module.code.ts"
+} from "akasha/seat-system/modules/seat-rotated-session/seat-rotated-session.module.code.ts"
 
 const OBSERVED = [SESSION_KEY, TRANSCRIPT_KEY, ROTATED_KEY] as const
 

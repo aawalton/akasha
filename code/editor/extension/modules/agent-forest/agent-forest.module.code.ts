@@ -1,6 +1,6 @@
 import * as path from "node:path"
 import type { AgentNode } from "akasha/code/editor/extension/modules/agent-row/agent-row.module.code.ts"
-import type { SeatMode } from "akasha/code/editor/extension/seat-mode/seat-mode.module.code.ts"
+import type { SeatMode } from "akasha/code/editor/extension/modules/seat-mode/seat-mode.module.code.ts"
 import type { SubagentNode } from "akasha/code/editor/extension/subagent-reading/subagent-reading.module.code.ts"
 
 export const ALAN = "alan"

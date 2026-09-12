@@ -4,8 +4,8 @@ import {
   TRANSCRIPT_KEY,
   transcriptOf,
 } from "akasha/agents/seats/modules/transcript-path/seat-transcript-path.module.code.ts"
-import { akashaSeatsThatExist } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
-import { akashaObservedOf } from "akasha/seat-system/seat-akasha-read/seat-akasha-read.module.code.ts"
+import { akashaSeatsThatExist } from "akasha/seat-system/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import { akashaObservedOf } from "akasha/seat-system/modules/seat-akasha-read/seat-akasha-read.module.code.ts"
 
 export const SETTLED_MS = 60_000
 

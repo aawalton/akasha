@@ -3,7 +3,7 @@ import {
   keepBeside,
 } from "akasha/agents/seats/modules/beside/seat-beside.module.code.ts"
 import { seatNameForAgent } from "akasha/agents/seats/modules/presence-read/seat-presence-read.module.code.ts"
-import { akashaSeatRecordOf } from "akasha/seat-system/seat-akasha-read/seat-akasha-read.module.code.ts"
+import { akashaSeatRecordOf } from "akasha/seat-system/modules/seat-akasha-read/seat-akasha-read.module.code.ts"
 
 function whereToWrite(agent: string): string | null {
   return seatNameForAgent(agent)

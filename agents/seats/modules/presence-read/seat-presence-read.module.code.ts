@@ -10,7 +10,7 @@ import {
   akashaSeatPathForAgent,
   akashaSeatSlugOf,
   akashaSeatsThatExist,
-} from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+} from "akasha/seat-system/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { parse } from "yaml"
 
 const FRONTMATTER_FENCE = "---"

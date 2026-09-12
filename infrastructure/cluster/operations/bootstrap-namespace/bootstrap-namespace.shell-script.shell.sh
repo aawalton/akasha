@@ -31,7 +31,7 @@ WORKSPACE_DIR="$(resolve_workspace_dir "$WORKSPACE")"
 
 NAMESPACE="$WORKSPACE"
 SECRET_RESOURCE="${WORKSPACE}-secrets"
-SECRET_SAYING="${AKASHA_ROOT}/infrastructure/services/secrets/saying/secret-saying.module.code.ts"
+SECRET_SAYING="${AKASHA_ROOT}/infrastructure/services/secrets/modules/saying/secret-saying.module.code.ts"
 
 if [[ ! -d "$WORKSPACE_DIR" ]]; then
   die "Workspace directory not found: $WORKSPACE_DIR"

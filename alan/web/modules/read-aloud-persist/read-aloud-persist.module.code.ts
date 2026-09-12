@@ -2,7 +2,7 @@ import { mediaRenderObjectKey } from "akasha/infrastructure/storage/object-store
 import {
   type ObjectStore,
   seaweedFSObjectStoreFromEnv,
-} from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
+} from "akasha/infrastructure/storage/object-store/modules/seaweedfs-store/seaweedfs-store.module.code.ts"
 import { MEDIA_FORMATS } from "akasha/pages/core/modules/media-formats/media-formats.module.code.ts"
 import { STORED_READ_ALOUD_VARIANT } from "akasha/pages/ui/media/modules/media-src/media-src.module.code.ts"
 

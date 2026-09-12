@@ -5,7 +5,7 @@ import {
   parseSeatProcKey,
   readProcStartTicks,
 } from "akasha/agents/seats/modules/proc-key/seat-proc-key.module.code.ts"
-import { akashaObservedOf } from "akasha/seat-system/seat-akasha-read/seat-akasha-read.module.code.ts"
+import { akashaObservedOf } from "akasha/seat-system/modules/seat-akasha-read/seat-akasha-read.module.code.ts"
 
 export interface OAuthProxyStateToWrite {
   readonly pid: number

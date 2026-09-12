@@ -2,7 +2,7 @@ import type { AgentNode } from "akasha/code/editor/extension/modules/agent-row/a
 import {
   SEAT_MODE_SCHEMA,
   type SeatMode,
-} from "akasha/code/editor/extension/seat-mode/seat-mode.module.code.ts"
+} from "akasha/code/editor/extension/modules/seat-mode/seat-mode.module.code.ts"
 
 export function readSeatPlaces(rows: readonly HarnessRow[]): ReadonlyMap<string, SeatMode> {
   const places = new Map<string, SeatMode>()

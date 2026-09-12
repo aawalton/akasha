@@ -11,7 +11,7 @@ import {
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "akasha/design/interfaces/primitives/select-control/select-control.module.code.tsx"
+} from "akasha/design/interfaces/primitives/modules/select-control/select-control.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { Textarea } from "akasha/design/interfaces/primitives/textarea/textarea.module.code.tsx"
 import { useState } from "react"

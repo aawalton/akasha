@@ -28,7 +28,7 @@ import {
   deriveSiblingPath,
   runSegment,
   type SegmentOutput,
-} from "akasha/infrastructure/inference/clients/segment-client/segment-client.module.code.ts"
+} from "akasha/infrastructure/inference/clients/modules/segment-client/segment-client.module.code.ts"
 import {
   serviceNamed,
   wroteTo,

@@ -2,7 +2,7 @@ import { join } from "node:path"
 import {
   type AppCspConfig,
   buildSecurityHeaders,
-} from "akasha/alan/harness/web-security-headers/security-headers/security-headers.module.code.ts"
+} from "akasha/alan/harness/web-security-headers/modules/security-headers/security-headers.module.code.ts"
 import {
   htmlCacheControl,
   serveClientStatic,

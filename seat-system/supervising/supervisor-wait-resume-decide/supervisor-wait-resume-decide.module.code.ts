@@ -1,4 +1,4 @@
-import { seconds } from "akasha/utils/text/seconds/seconds.module.code.ts"
+import { seconds } from "akasha/utils/text/modules/seconds/seconds.module.code.ts"
 
 export const WAIT_FIRST_MS = 30_000
 

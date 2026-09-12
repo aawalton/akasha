@@ -9,7 +9,7 @@ import { hlsSegmentObjectKey } from "akasha/infrastructure/storage/object-store/
 import {
   type ObjectStreamResult,
   seaweedFSObjectStoreFromEnv,
-} from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
+} from "akasha/infrastructure/storage/object-store/modules/seaweedfs-store/seaweedfs-store.module.code.ts"
 import {
   mediaTokenSecret,
   verifyMediaToken,

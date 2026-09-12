@@ -50,7 +50,7 @@ import { agentSubagentSweep as page } from "akasha/commands/pages/agent/subagent
 import {
   akashaHolderProcessOf,
   akashaSeatsThatExist,
-} from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+} from "akasha/seat-system/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import {
   leftWhereItIs,
   seatPageIn,

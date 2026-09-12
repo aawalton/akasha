@@ -13,13 +13,13 @@ import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/pag
 import type { PropertyValue } from "akasha/pages/core/property-types/modules/property-type-ops/property-type-ops.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import type { QuickAddConfig } from "akasha/pages/core/schema/modules/quick-add/quick-add.module.code.ts"
+import { SelectPropertyBadge } from "akasha/pages/ui/components/modules/select-property-badge/select-property-badge.module.code.tsx"
 import { computeQuickAddPayload } from "akasha/pages/ui/components/quick-add/modules/compute-quick-add-payload/compute-quick-add-payload.module.code.ts"
 import { parseInlineTokens } from "akasha/pages/ui/components/quick-add/modules/parse-inline-tokens/parse-inline-tokens.module.code.ts"
 import {
   type InlineCompletionSource,
   useInlineCompletion,
 } from "akasha/pages/ui/components/quick-add/use-inline-completion/use-inline-completion.module.code.ts"
-import { SelectPropertyBadge } from "akasha/pages/ui/components/select-property-badge/select-property-badge.module.code.tsx"
 import type { PageWithProperties } from "akasha/pages/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import { useMemo, useRef, useState } from "react"
 

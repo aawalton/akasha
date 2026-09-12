@@ -21,7 +21,7 @@ import {
   composedFor,
   pagesAtFor,
 } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
-import { akashaSeatIdForName } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import { akashaSeatIdForName } from "akasha/seat-system/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 
 const PAGE_TYPE = "message"
 

@@ -1,7 +1,7 @@
 import type { SentenceMark } from "akasha/alan/harness/voice-core/modules/mark-schema/mark-schema.module.code.ts"
 import { resolveReadAloudSentenceMarks } from "akasha/alan/web/modules/read-aloud-marks/read-aloud-marks.module.code.ts"
 import { mediaRenderObjectKey } from "akasha/infrastructure/storage/object-store/modules/key/object-store-key.module.code.ts"
-import { seaweedFSObjectStoreFromEnv } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
+import { seaweedFSObjectStoreFromEnv } from "akasha/infrastructure/storage/object-store/modules/seaweedfs-store/seaweedfs-store.module.code.ts"
 import { getPage } from "akasha/pages/access/modules/get/get.module.code.ts"
 import { MEDIA_FORMATS } from "akasha/pages/core/modules/media-formats/media-formats.module.code.ts"
 import type { Page } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"

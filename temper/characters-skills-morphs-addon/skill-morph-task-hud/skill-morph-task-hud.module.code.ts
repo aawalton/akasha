@@ -17,7 +17,7 @@ import {
   type MorphSuggestionEntry,
   pickRelevantSkillLineIds,
   selectMorphSuggestions,
-} from "akasha/temper/skill-morphs/select-morph-suggestions/select-morph-suggestions.module.code.ts"
+} from "akasha/temper/skill-morphs/modules/select-morph-suggestions/select-morph-suggestions.module.code.ts"
 
 export type SkillMorphEnrichmentEntry = MorphSuggestionEntry
 

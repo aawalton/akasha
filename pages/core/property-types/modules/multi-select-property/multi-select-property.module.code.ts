@@ -9,7 +9,7 @@ import type {
 import {
   findOption,
   type OptionLike,
-} from "akasha/pages/core/property-types/select/select.module.code.ts"
+} from "akasha/pages/core/property-types/modules/select/select.module.code.ts"
 import { parseConfig } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import { multiSelectConfigSchema } from "akasha/pages/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
 

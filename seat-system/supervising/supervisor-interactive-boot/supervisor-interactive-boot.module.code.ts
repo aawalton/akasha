@@ -8,7 +8,7 @@ import {
   SUPERVISOR_HANDOFF_ENV_KEYS,
 } from "akasha/seat-system/self-healing/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
 import { setProxyOwnerAgentIdForSelfHeal } from "akasha/seat-system/self-healing/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import { claimSeatSupervision } from "akasha/seat-system/supervising/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
+import { claimSeatSupervision } from "akasha/seat-system/supervising/modules/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
 import {
   reconcileAgentBootFiles,
   resolveClaudeHandoff,

@@ -6,11 +6,11 @@ import {
   akashaHolderProcessOf,
   akashaRunningModeOf,
   akashaSeatIdForName,
-} from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+} from "akasha/seat-system/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import {
   akashaSeatsStated,
   akashaSeatValuesOf,
-} from "akasha/seat-system/seat-akasha-read/seat-akasha-read.module.code.ts"
+} from "akasha/seat-system/modules/seat-akasha-read/seat-akasha-read.module.code.ts"
 import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 
 const MAX_ANCESTOR_GENERATIONS = 10

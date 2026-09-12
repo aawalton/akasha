@@ -10,7 +10,7 @@ import {
   readSeatLookup,
   readSeatTerminals,
   type SeatTerminal,
-} from "akasha/code/editor/extension/seat-terminals/seat-terminals.module.code.ts"
+} from "akasha/code/editor/extension/modules/seat-terminals/seat-terminals.module.code.ts"
 import { PROCESS_ID_TIMEOUT_MS } from "akasha/code/editor/extension/terminal-pids/terminal-pids.module.code.ts"
 
 export async function sampleColumns(

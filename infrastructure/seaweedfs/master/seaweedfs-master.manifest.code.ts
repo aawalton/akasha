@@ -4,7 +4,7 @@ import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-types/modules/k
 import {
   backupPvcYaml,
   backupPvYaml,
-} from "akasha/infrastructure/seaweedfs/backup-manifests/seaweedfs-backup-manifests.module.code.ts"
+} from "akasha/infrastructure/seaweedfs/modules/backup-manifests/seaweedfs-backup-manifests.module.code.ts"
 import {
   COMPONENT_MASTER,
   componentLabels,
@@ -16,8 +16,8 @@ import {
   NAMESPACE_LABELS,
   STORAGE_LABELS,
   selectorLabels,
-} from "akasha/infrastructure/seaweedfs/constants/seaweedfs-constants.module.code.ts"
-import { masterDeploymentYaml } from "akasha/infrastructure/seaweedfs/deployments/seaweedfs-deployments.module.code.ts"
+} from "akasha/infrastructure/seaweedfs/modules/constants/seaweedfs-constants.module.code.ts"
+import { masterDeploymentYaml } from "akasha/infrastructure/seaweedfs/modules/deployments/seaweedfs-deployments.module.code.ts"
 
 const SHARED_BACKUP = "seaweedfs-backup"
 

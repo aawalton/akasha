@@ -7,7 +7,7 @@ import {
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "akasha/design/interfaces/primitives/select-control/select-control.module.code.tsx"
+} from "akasha/design/interfaces/primitives/modules/select-control/select-control.module.code.tsx"
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import type {
   MoveToDestination,

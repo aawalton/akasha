@@ -2,7 +2,7 @@ import {
   drawsFromSeed,
   type Leaf,
   selectWithoutReplacement,
-} from "akasha/alan/library/book-of-everything/seeded-draw/seeded-draw.module.code.ts"
+} from "akasha/alan/library/book-of-everything/modules/seeded-draw/seeded-draw.module.code.ts"
 import {
   leavesOf,
   type Topic,

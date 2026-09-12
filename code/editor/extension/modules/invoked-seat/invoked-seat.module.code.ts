@@ -3,7 +3,7 @@ import type {
   SeatClick,
 } from "akasha/code/editor/extension/modules/agent-row/agent-row.module.code.ts"
 import { seatTabs } from "akasha/code/editor/extension/modules/agent-tree-state/agent-tree-state.module.code.ts"
-import { SEAT_MODE_SCHEMA } from "akasha/code/editor/extension/seat-mode/seat-mode.module.code.ts"
+import { SEAT_MODE_SCHEMA } from "akasha/code/editor/extension/modules/seat-mode/seat-mode.module.code.ts"
 import * as vscode from "vscode"
 import { z } from "zod"
 

@@ -11,8 +11,8 @@ import {
   LayoutLink,
   useLayoutPathname,
 } from "akasha/design/interfaces/layout/modules/router-context/router-context.module.code.tsx"
-import { selectBottomNavItems } from "akasha/design/interfaces/layout/select-bottom-nav-items/select-bottom-nav-items.module.code.ts"
-import { selectDrawerGroups } from "akasha/design/interfaces/layout/select-drawer-groups/select-drawer-groups.module.code.ts"
+import { selectBottomNavItems } from "akasha/design/interfaces/layout/modules/select-bottom-nav-items/select-bottom-nav-items.module.code.ts"
+import { selectDrawerGroups } from "akasha/design/interfaces/layout/modules/select-drawer-groups/select-drawer-groups.module.code.ts"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { Skeleton } from "akasha/design/interfaces/primitives/skeleton/skeleton.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"

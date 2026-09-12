@@ -11,7 +11,7 @@ import {
   row,
   subagent,
 } from "akasha/code/editor/extension/modules/agent-forest/agent-forest.module.test-fixtures.ts"
-import type { SeatMode } from "akasha/code/editor/extension/seat-mode/seat-mode.module.code.ts"
+import type { SeatMode } from "akasha/code/editor/extension/modules/seat-mode/seat-mode.module.code.ts"
 
 const live = (...ids: string[]): ReadonlySet<string> => new Set(ids)
 

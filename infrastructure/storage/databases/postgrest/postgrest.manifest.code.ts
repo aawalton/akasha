@@ -4,7 +4,7 @@ import {
   colocationAffinityPreferred,
 } from "akasha/infrastructure/cluster/k8s-types/modules/hostnames/hostnames.module.code.ts"
 import { synthNamespaceDeploymentService } from "akasha/infrastructure/cluster/k8s-types/modules/manifest-composing/manifest-composing.module.code.ts"
-import { secretChecksum } from "akasha/infrastructure/cluster/k8s-types/secret-checksum/secret-checksum.module.code.ts"
+import { secretChecksum } from "akasha/infrastructure/cluster/k8s-types/modules/secret-checksum/secret-checksum.module.code.ts"
 
 const NAMESPACE = "postgrest"
 const SECRETS_NAME = "postgrest-secrets"

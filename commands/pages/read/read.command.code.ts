@@ -43,7 +43,7 @@ import {
 } from "akasha/commands/pages/read/modules/output-reaching/output-reaching.module.code.ts"
 import { read as page } from "akasha/commands/pages/read/read.command.ts"
 import { warrantedIn } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
-import { akashaSeatPathForCaller } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import { akashaSeatPathForCaller } from "akasha/seat-system/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 
 export const ANSWER_CEILING = 28000
 

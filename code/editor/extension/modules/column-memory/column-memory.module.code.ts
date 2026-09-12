@@ -1,5 +1,5 @@
 import type { ColumnNumber } from "akasha/code/editor/extension/modules/editor-group/editor-group.module.code.ts"
-import type { SeatTerminal } from "akasha/code/editor/extension/seat-terminals/seat-terminals.module.code.ts"
+import type { SeatTerminal } from "akasha/code/editor/extension/modules/seat-terminals/seat-terminals.module.code.ts"
 import type * as vscode from "vscode"
 import { z } from "zod"
 

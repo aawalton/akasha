@@ -15,7 +15,7 @@ import {
   BUN_RUNTIME_IMAGE,
   ORCHESTRATOR_CACHE_REPO_PATH,
 } from "akasha/infrastructure/cluster/k8s-types/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
-import { secretChecksum } from "akasha/infrastructure/cluster/k8s-types/secret-checksum/secret-checksum.module.code.ts"
+import { secretChecksum } from "akasha/infrastructure/cluster/k8s-types/modules/secret-checksum/secret-checksum.module.code.ts"
 
 const NAMESPACE = "alanwalton"
 const SECRET_NAME = "alanwalton-secrets"

@@ -5,7 +5,7 @@ import type {
   MorphSkillLineInput,
   MorphSuggestionInput,
   SkillMorphInput,
-} from "akasha/temper/skill-morphs/select-morph-suggestions/select-morph-suggestions.module.code.ts"
+} from "akasha/temper/skill-morphs/modules/select-morph-suggestions/select-morph-suggestions.module.code.ts"
 
 const MORPHABLE_LINE_DISPLAY_ORDERS: ReadonlyMap<number, number> = (() => {
   const map = new Map<number, number>()

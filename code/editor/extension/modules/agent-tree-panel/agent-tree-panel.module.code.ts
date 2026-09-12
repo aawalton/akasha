@@ -38,19 +38,19 @@ import { invokedSeat } from "akasha/code/editor/extension/modules/invoked-seat/i
 import { newestWins } from "akasha/code/editor/extension/modules/newest-wins/newest-wins.module.code.ts"
 import { recordObservation } from "akasha/code/editor/extension/modules/observation-store/observation-store.module.code.ts"
 import type { SeatAct } from "akasha/code/editor/extension/modules/seat-act-confirm/seat-act-confirm.module.code.ts"
-import { runPlan as runPlanWith } from "akasha/code/editor/extension/seat-plan-running/seat-plan-running.module.code.ts"
-import { showSeat } from "akasha/code/editor/extension/seat-showing/seat-showing.module.code.ts"
+import { runPlan as runPlanWith } from "akasha/code/editor/extension/modules/seat-plan-running/seat-plan-running.module.code.ts"
+import { showSeat } from "akasha/code/editor/extension/modules/seat-showing/seat-showing.module.code.ts"
 import {
   type SeatTabState,
   seatTabContext,
-} from "akasha/code/editor/extension/seat-tab-context/seat-tab-context.module.code.ts"
-import { tabInstanceIds } from "akasha/code/editor/extension/seat-terminals/seat-terminals.module.code.ts"
+} from "akasha/code/editor/extension/modules/seat-tab-context/seat-tab-context.module.code.ts"
+import { tabInstanceIds } from "akasha/code/editor/extension/modules/seat-terminals/seat-terminals.module.code.ts"
 import {
   planReset,
   planRunToggle,
   type SeatStep,
   type SeatToggleState,
-} from "akasha/code/editor/extension/seat-toggles/seat-toggles.module.code.ts"
+} from "akasha/code/editor/extension/modules/seat-toggles/seat-toggles.module.code.ts"
 import * as vscode from "vscode"
 
 const FEATURE = "agent-tree"

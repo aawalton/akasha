@@ -20,7 +20,7 @@ import {
   resolveRoots,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { clearRotated } from "akasha/seat-system/seat-rotated-session/seat-rotated-session.module.code.ts"
+import { clearRotated } from "akasha/seat-system/modules/seat-rotated-session/seat-rotated-session.module.code.ts"
 import {
   getCurrentAgentIdForSelfHeal,
   getCurrentSessionIdForSelfHeal,

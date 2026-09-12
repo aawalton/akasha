@@ -1,7 +1,7 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-types/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { configChecksum } from "akasha/infrastructure/cluster/k8s-types/modules/config-checksum/config-checksum.module.code.ts"
 import { capabilitySelector } from "akasha/infrastructure/cluster/k8s-types/modules/hostnames/hostnames.module.code.ts"
-import { secretChecksum } from "akasha/infrastructure/cluster/k8s-types/secret-checksum/secret-checksum.module.code.ts"
+import { secretChecksum } from "akasha/infrastructure/cluster/k8s-types/modules/secret-checksum/secret-checksum.module.code.ts"
 import { LOKI_CONFIG } from "akasha/infrastructure/loki-service/modules/loki-configs/loki-configs.module.code.ts"
 import {
   LOKI_LABELS,

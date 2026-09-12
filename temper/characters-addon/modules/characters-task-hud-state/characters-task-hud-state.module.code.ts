@@ -2,7 +2,7 @@ import {
   BLUE,
   RED,
   YELLOW,
-} from "akasha/design/interfaces/tokens/semantic-color/semantic-color.module.code.ts"
+} from "akasha/design/interfaces/tokens/modules/semantic-color/semantic-color.module.code.ts"
 import { TEXT_SECONDARY } from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
 
 export const HUD_NAME = "TemperTaskHUD"

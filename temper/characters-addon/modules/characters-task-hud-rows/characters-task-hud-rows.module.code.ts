@@ -2,7 +2,7 @@ import {
   GREEN,
   PURPLE,
   YELLOW,
-} from "akasha/design/interfaces/tokens/semantic-color/semantic-color.module.code.ts"
+} from "akasha/design/interfaces/tokens/modules/semantic-color/semantic-color.module.code.ts"
 import { TEXT_SECONDARY } from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
 import type { ActiveQuest } from "akasha/temper/characters-addon/modules/characters-active-quests/characters-active-quests.module.code.ts"
 import {

@@ -6,7 +6,7 @@ import {
 import {
   changeKey,
   type Observation,
-} from "akasha/code/editor/extension/seat-observations/seat-observations.module.code.ts"
+} from "akasha/code/editor/extension/modules/seat-observations/seat-observations.module.code.ts"
 
 export interface SweepReport {
   readonly swept: number

@@ -4,7 +4,7 @@ import {
   textIn,
   type Value,
 } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
-import { akashaSeatPathForAgent } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import { akashaSeatPathForAgent } from "akasha/seat-system/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 
 const SUBAGENT = "subagent"
 

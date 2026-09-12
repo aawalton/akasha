@@ -1,6 +1,6 @@
 import { readFileSync, writeFileSync } from "node:fs"
 import { parseEnv } from "node:util"
-import { valuesFor } from "akasha/infrastructure/services/secrets/saying/secret-saying.module.code.ts"
+import { valuesFor } from "akasha/infrastructure/services/secrets/modules/saying/secret-saying.module.code.ts"
 import { lookupApp } from "akasha/infrastructure/services/web-apps/modules/dev-server-stating/dev-server-stating.module.code.ts"
 
 const NEXT_PUBLIC_COPY_PAIRS: ReadonlyArray<readonly [string, string]> = [

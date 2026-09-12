@@ -35,7 +35,7 @@ import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
 import {
   akashaRoot,
   akashaSeatsThatExist,
-} from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+} from "akasha/seat-system/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import {
   MARK_TAIL,
   marksIn,

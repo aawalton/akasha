@@ -5,7 +5,7 @@ import {
   PURPLE,
   RED,
   YELLOW,
-} from "akasha/design/interfaces/tokens/semantic-color/semantic-color.module.code.ts"
+} from "akasha/design/interfaces/tokens/modules/semantic-color/semantic-color.module.code.ts"
 import type { Rgb } from "akasha/design/interfaces/tokens/surface-color/surface-color.module.code.ts"
 import { TEXT_PRIMARY } from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
 

@@ -20,7 +20,7 @@ import {
   CARRIED,
   type Kind,
   RECORDS,
-} from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+} from "akasha/seat-system/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 
 export function bare(held: unknown): unknown {
   if (held === null || typeof held !== "object" || Array.isArray(held)) return held

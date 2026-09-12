@@ -2,7 +2,7 @@ import type {
   AgentNode,
   SeatClick,
 } from "akasha/code/editor/extension/modules/agent-row/agent-row.module.code.ts"
-import { seatContextValue } from "akasha/code/editor/extension/seat-toggles/seat-toggles.module.code.ts"
+import { seatContextValue } from "akasha/code/editor/extension/modules/seat-toggles/seat-toggles.module.code.ts"
 import {
   filterTree,
   textMatches,

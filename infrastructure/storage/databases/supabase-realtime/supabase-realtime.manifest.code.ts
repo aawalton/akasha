@@ -4,7 +4,7 @@ import {
   colocationAffinityPreferred,
 } from "akasha/infrastructure/cluster/k8s-types/modules/hostnames/hostnames.module.code.ts"
 import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-types/modules/k8s-namespace/k8s-namespace.module.code.ts"
-import { secretChecksum } from "akasha/infrastructure/cluster/k8s-types/secret-checksum/secret-checksum.module.code.ts"
+import { secretChecksum } from "akasha/infrastructure/cluster/k8s-types/modules/secret-checksum/secret-checksum.module.code.ts"
 
 const NAMESPACE = "supabase-realtime"
 const APP_LABEL = "realtime"
