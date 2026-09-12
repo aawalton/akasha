@@ -46,7 +46,7 @@ function givenIn(): Given {
 }
 
 function servingIn(root: string): Given {
-  return { ...givenIn(), root, from: root, changeKind: MECHANICAL }
+  return { ...givenIn(), root, from: root }
 }
 
 function bodyAt(root: string, named: string, body: string): string {
@@ -108,7 +108,8 @@ test("a day and the rows beside it are named as the change adding a file, with t
       "held",
     ],
     servingIn(root),
-    inputIn
+    inputIn,
+    MECHANICAL
   )
   if ("code" in built) throw new Error(built.refusals.join("\n"))
   expect(built.message).toBe("held")
@@ -130,7 +131,8 @@ test("a food entry is named as the change adding a file at its path", () => {
       "ate",
     ],
     servingIn(root),
-    inputIn
+    inputIn,
+    MECHANICAL
   )
   if ("code" in built) throw new Error(built.refusals.join("\n"))
   expect(built.message).toBe("ate")

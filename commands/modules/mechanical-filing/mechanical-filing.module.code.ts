@@ -1,6 +1,9 @@
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import {
+  MECHANICAL_KIND,
+  runMechanicalChange,
+} from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   type Answer,
   answering,
@@ -33,7 +36,7 @@ export async function filing(
   given: Given,
   piping: Piping
 ): Promise<Answer> {
-  const built = builtIn(argv, given, piping)
+  const built = builtIn(argv, given, piping, MECHANICAL_KIND)
   if ("code" in built) return built
   const landed = await runMechanicalChange(given.root, askedFor(built.changes), built.message)
   if ("refusals" in landed) return answering([], landed.refusals, WRONG)

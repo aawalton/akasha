@@ -18,18 +18,11 @@ const MECHANICAL = {
 }
 
 function givenIn(root: string): Given {
-  return {
-    root,
-    calledAs: "akasha tracking",
-    from: root,
-    writer: null,
-    agentId: null,
-    changeKind: MECHANICAL,
-  }
+  return { root, calledAs: "akasha tracking", from: root, writer: null, agentId: null }
 }
 
 function refusedBy(argv: readonly string[], root = "/repo", piping: Piping = TERMINAL): string {
-  const said = builtIn(argv, givenIn(root), piping)
+  const said = builtIn(argv, givenIn(root), piping, MECHANICAL)
   return "code" in said ? said.refusals.join("\n") : ""
 }
 
@@ -64,7 +57,8 @@ test("the body for a file is read from the file --content-file names", () => {
   const said = builtIn(
     ["--file-path", "akasha/one.ts", "--content-file", from],
     givenIn(root),
-    TERMINAL
+    TERMINAL,
+    MECHANICAL
   )
   if ("code" in said) throw new Error(said.refusals.join("\n"))
   expect(said.changes).toEqual([{ kind: "add", path: "akasha/one.ts", content: BODY }])
@@ -76,7 +70,8 @@ test("a commit message worked out from the paths names the path written", () => 
   const said = builtIn(
     ["--file-path", "akasha/one.ts", "--content-file", from],
     givenIn(root),
-    TERMINAL
+    TERMINAL,
+    MECHANICAL
   )
   if ("code" in said) throw new Error(said.refusals.join("\n"))
   expect(said.message).toBe("write akasha/one.ts")

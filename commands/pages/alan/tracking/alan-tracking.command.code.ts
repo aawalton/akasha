@@ -3,6 +3,7 @@ import {
   outsideTracked,
   trackedIn,
 } from "akasha/alan/track/landing/track-landing.module.code.ts"
+import { MECHANICAL_KIND } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { builtIn, VALUED } from "akasha/commands/modules/file-arguing/file-arguing.module.code.ts"
 import {
@@ -32,7 +33,7 @@ export async function alanTracking(argv: readonly string[], given: Given): Promi
   if (argv.includes(BREAK_GLASS)) return mistaking([NO_GLASS])
   const stray = strayIn(given.root, argv)
   if (stray.length > 0) return mistaking(stray)
-  const built = builtIn(argv, given, inputIn)
+  const built = builtIn(argv, given, inputIn, MECHANICAL_KIND)
   if ("code" in built) return built
   return await landingTracked(given.root, built.changes, built.message)
 }

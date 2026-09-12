@@ -74,6 +74,10 @@ export const fileArguing = {
     },
     {
       invariantKind: "departure",
+      statement: "The change kind read here is the kind of the change the caller runs.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A commit message is read from the command line or worked out from the paths.",
     },
     {

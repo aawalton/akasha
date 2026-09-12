@@ -14,7 +14,8 @@ import {
 } from "akasha/changes/runners/change-loading/change-loading.module.code.ts"
 import type { Changes } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.addressed.ts"
 import { type Applied, applied } from "akasha/commands/modules/applying/applying.module.code.ts"
-import type { Running } from "akasha/commands/modules/drafting/drafting.module.code.ts"
+import type { Kind } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { runningOf } from "akasha/commands/modules/drafting/drafting.module.code.ts"
 import { landingFrom } from "akasha/commands/modules/edits-landing/edits-landing.module.code.ts"
 import { NO_GATE } from "akasha/commands/modules/gate-building/gate-building.module.code.ts"
 import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
@@ -24,7 +25,14 @@ const NOTHING_ASKED = "no change was named, so nothing is run and nothing lands"
 
 const NOTHING_MOVED = "every change named states no edit, so nothing lands"
 
-const MECHANICAL: Running = { checks: false, writerOwesReading: false, readersOweReading: false }
+export const MECHANICAL_KIND: Kind = {
+  slug: "change-mechanical",
+  runsChecks: false,
+  writerOwesReading: false,
+  readersOweReading: false,
+}
+
+const MECHANICAL = runningOf(MECHANICAL_KIND)
 
 export type Asking = {
   [K in keyof Changes]: { readonly at: K; readonly given: Changes[K] }

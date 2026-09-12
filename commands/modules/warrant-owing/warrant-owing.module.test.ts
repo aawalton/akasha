@@ -21,15 +21,13 @@ const OWES: Kind = {
 const CHANGES: readonly FileChange[] = [{ kind: "add", path: "akasha/two.ts", content: "" }]
 
 test("a change kind saying the writer owes no reading is answered with nothing owed", () => {
-  const given: Given = { ...GIVEN, changeKind: { ...OWES, writerOwesReading: false } }
-  expect(unwarrantedIn(given, CHANGES)).toEqual([])
+  expect(unwarrantedIn(GIVEN, { ...OWES, writerOwesReading: false }, CHANGES)).toEqual([])
 })
 
 test("a change kind saying the writer owes a reading is asked of the warranting", () => {
-  const given: Given = { ...GIVEN, changeKind: OWES }
-  expect(unwarrantedIn(given, CHANGES).length).toBeGreaterThan(0)
+  expect(unwarrantedIn(GIVEN, OWES, CHANGES).length).toBeGreaterThan(0)
 })
 
-test("a call naming no change kind is asked of the warranting", () => {
-  expect(unwarrantedIn(GIVEN, CHANGES).length).toBeGreaterThan(0)
+test("a change of no kind is asked of the warranting", () => {
+  expect(unwarrantedIn(GIVEN, null, CHANGES).length).toBeGreaterThan(0)
 })

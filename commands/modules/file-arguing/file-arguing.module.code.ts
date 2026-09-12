@@ -7,6 +7,7 @@ import { bytesAt, textOf } from "akasha/commands/modules/body-reaching/body-reac
 import {
   type Answer,
   type Given,
+  type Kind,
   kindNamed,
 } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { bodyAt } from "akasha/commands/modules/commit-reading/commit-reading.module.code.ts"
@@ -50,18 +51,19 @@ const BYTES = new TextEncoder()
 
 export function restatedIn(
   argv: readonly string[],
-  given: Given
-): { readonly given: Given } | { readonly refusals: readonly string[] } {
-  if (!argv.includes(RESTATED)) return { given }
-  const kind = kindNamed(given.root, RESTATED_KIND)
-  if (kind === null) {
+  root: string,
+  kind: Kind | null
+): { readonly kind: Kind | null } | { readonly refusals: readonly string[] } {
+  if (!argv.includes(RESTATED)) return { kind }
+  const said = kindNamed(root, RESTATED_KIND)
+  if (said === null) {
     return {
       refusals: [
         `${RESTATED} lands a \`${RESTATED_KIND}\` change, and no such kind is a page here`,
       ],
     }
   }
-  return { given: { ...given, changeKind: kind } }
+  return { kind: said }
 }
 
 function wasAt(root: string, path: string): Uint8Array | null {
@@ -74,8 +76,12 @@ function bodyIn(one: FileChange): Uint8Array | null {
   return one.kind === "replace" ? BYTES.encode(one.contentTo) : null
 }
 
-export function unrestatedFor(given: Given, changes: readonly FileChange[]): readonly string[] {
-  if (given.changeKind?.slug !== RESTATED_KIND) return []
+export function unrestatedFor(
+  given: Given,
+  kind: Kind | null,
+  changes: readonly FileChange[]
+): readonly string[] {
+  if (kind?.slug !== RESTATED_KIND) return []
   return unrestatedIn(
     given.root,
     changes.map((one) => ({
@@ -214,7 +220,12 @@ export type Built = {
   readonly message: string
 }
 
-export function builtIn(argv: readonly string[], given: Given, piping: Piping): Built | Answer {
+export function builtIn(
+  argv: readonly string[],
+  given: Given,
+  piping: Piping,
+  kind: Kind | null
+): Built | Answer {
   const unknown = unknownIn(argv, VALUED, BARE)
   if (unknown.length > 0) return mistaking(unknown)
   const read = readIn(argv)
@@ -228,6 +239,8 @@ export function builtIn(argv: readonly string[], given: Given, piping: Piping): 
   if ("refusals" in glass) return mistaking(glass.refusals)
   const said = messageIn(argv, VALUED)
   if ("refusals" in said) return mistaking(said.refusals)
+  const restated = restatedIn(argv, given.root, kind)
+  if ("refusals" in restated) return mistaking(restated.refusals)
 
   let piped: string | null = null
   if (read.pairs.length > 0) {
@@ -306,8 +319,8 @@ export function builtIn(argv: readonly string[], given: Given, piping: Piping): 
   changes.push(...removing.changes)
   mistaken.push(...removing.mistaken)
   wrong.push(...removing.wrong)
-  wrong.push(...unwarrantedIn(given, changes))
-  wrong.push(...unrestatedFor(given, changes))
+  wrong.push(...unwarrantedIn(given, restated.kind, changes))
+  wrong.push(...unrestatedFor(given, restated.kind, changes))
   changes.push(...besideTaken(given, removing.base, removing.taken, seen))
   const troubled = troubling({ mistaken, wrong })
   if (troubled !== null) return troubled
