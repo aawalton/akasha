@@ -1,8 +1,3 @@
-import {
-  checkForLuaLibType,
-  isPromiseClass,
-  transformBuiltinIdentifierExpression,
-} from "akasha/design/language/lua-compiler/builtins/builtins.module.code.ts"
 import { tempSymbolId } from "akasha/design/language/lua-compiler/context-temp-symbol-id/context-temp-symbol-id.module.code.ts"
 import type { TransformationContext } from "akasha/design/language/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
 import type { FunctionVisitor } from "akasha/design/language/lua-compiler/context-visitors/context-visitors.module.code.ts"
@@ -21,6 +16,11 @@ import {
   AnnotationKind,
   getNodeAnnotations,
 } from "akasha/design/language/lua-compiler/modules/annotations/annotations.module.code.ts"
+import {
+  checkForLuaLibType,
+  isPromiseClass,
+  transformBuiltinIdentifierExpression,
+} from "akasha/design/language/lua-compiler/modules/builtins/builtins.module.code.ts"
 import {
   getOptionalContinuationData,
   isOptionalContinuation,

@@ -2,11 +2,11 @@
 
 import { groupByCount } from "akasha/temper/build-support/row-grouping/row-grouping.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
+import type { WeaponBars } from "akasha/temper/characters-equipment/loadout-types/loadout-types.module.code.ts"
 import {
   bulkUpdateAllQuality,
   bulkUpdateAllSets,
-} from "akasha/temper/characters-equipment/bulk-update-functions/bulk-update-functions.module.code.ts"
-import type { WeaponBars } from "akasha/temper/characters-equipment/loadout-types/loadout-types.module.code.ts"
+} from "akasha/temper/characters-equipment/modules/bulk-update-functions/bulk-update-functions.module.code.ts"
 import {
   getMythicSlots,
   getWeaponMythicSlots,
@@ -30,8 +30,8 @@ import { armorSlots } from "akasha/temper/equipment-kinds/modules/armor-slots/ar
 import { weaponBars } from "akasha/temper/equipment-kinds/weapon-bars/weapon-bars.module.code.ts"
 import { weaponSlots } from "akasha/temper/equipment-kinds/weapon-slots/weapon-slots.module.code.ts"
 import type { ClassId } from "akasha/temper/formula-framework/class-id/class-id.module.code.ts"
-import { BulkEditTag } from "akasha/temper/web/bulk-edit-tag/bulk-edit-tag.module.code.tsx"
-import { BulkSetEditTag } from "akasha/temper/web/bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx"
+import { BulkEditTag } from "akasha/temper/web/modules/bulk-edit-tag/bulk-edit-tag.module.code.tsx"
+import { BulkSetEditTag } from "akasha/temper/web/modules/bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx"
 import { useMemo } from "react"
 
 interface GlobalSetBulkEditTagsProps {

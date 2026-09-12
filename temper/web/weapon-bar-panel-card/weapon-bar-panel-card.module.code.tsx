@@ -2,13 +2,13 @@
 
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
 import { groupByCount } from "akasha/temper/build-support/row-grouping/row-grouping.module.code.ts"
+import type { WeaponBars } from "akasha/temper/characters-equipment/loadout-types/loadout-types.module.code.ts"
 import {
   bulkUpdateWeaponEnchant,
   bulkUpdateWeaponQuality,
   bulkUpdateWeaponSet,
   bulkUpdateWeaponTrait,
-} from "akasha/temper/characters-equipment/bulk-update-weapons/bulk-update-weapons.module.code.ts"
-import type { WeaponBars } from "akasha/temper/characters-equipment/loadout-types/loadout-types.module.code.ts"
+} from "akasha/temper/characters-equipment/modules/bulk-update-weapons/bulk-update-weapons.module.code.ts"
 import { getWeaponMythicSlots } from "akasha/temper/characters-equipment/mythic-set-rules/mythic-set-rules.module.code.ts"
 import {
   type WeaponEnchantmentId,
@@ -37,9 +37,9 @@ import {
 } from "akasha/temper/equipment/weapon-traits/weapon-traits.module.code.ts"
 import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
 import { weaponSlots as weaponSlotsData } from "akasha/temper/equipment-kinds/weapon-slots/weapon-slots.module.code.ts"
-import { BulkEditTag } from "akasha/temper/web/bulk-edit-tag/bulk-edit-tag.module.code.tsx"
-import { BulkSetEditTag } from "akasha/temper/web/bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx"
 import type { EquipmentSectionProps } from "akasha/temper/web/equipment-types/equipment-types.module.code.ts"
+import { BulkEditTag } from "akasha/temper/web/modules/bulk-edit-tag/bulk-edit-tag.module.code.tsx"
+import { BulkSetEditTag } from "akasha/temper/web/modules/bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx"
 import { WeaponCard } from "akasha/temper/web/weapon-card/weapon-card.module.code.tsx"
 import { useMemo } from "react"
 

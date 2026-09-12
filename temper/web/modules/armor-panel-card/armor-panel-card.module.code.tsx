@@ -2,19 +2,19 @@
 
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
 import { groupByCount } from "akasha/temper/build-support/row-grouping/row-grouping.module.code.ts"
-import {
-  bulkUpdateArmorEnchant,
-  bulkUpdateArmorQuality,
-  bulkUpdateArmorSet,
-  bulkUpdateArmorTrait,
-  bulkUpdateArmorWeight,
-} from "akasha/temper/characters-equipment/bulk-update-armor/bulk-update-armor.module.code.ts"
 import { mergeItemData } from "akasha/temper/characters-equipment/merge-item-data/merge-item-data.module.code.ts"
 import {
   type ArmorEnchantId,
   armorEnchants,
 } from "akasha/temper/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts"
 import { standardArmorWeights } from "akasha/temper/characters-equipment/modules/armor-weights/armor-weights.module.code.ts"
+import {
+  bulkUpdateArmorEnchant,
+  bulkUpdateArmorQuality,
+  bulkUpdateArmorSet,
+  bulkUpdateArmorTrait,
+  bulkUpdateArmorWeight,
+} from "akasha/temper/characters-equipment/modules/bulk-update-armor/bulk-update-armor.module.code.ts"
 import { getMythicSlots } from "akasha/temper/characters-equipment/mythic-set-rules/mythic-set-rules.module.code.ts"
 import {
   AVAILABLE_QUALITY_OPTIONS,
@@ -32,11 +32,11 @@ import {
   type ArmorSlotId,
   armorSlots,
 } from "akasha/temper/equipment-kinds/modules/armor-slots/armor-slots.module.code.ts"
-import { BulkEditTag } from "akasha/temper/web/bulk-edit-tag/bulk-edit-tag.module.code.tsx"
-import { BulkSetEditTag } from "akasha/temper/web/bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx"
 import type { EquipmentSectionProps } from "akasha/temper/web/equipment-types/equipment-types.module.code.ts"
 import type { ArmorUpdateParams } from "akasha/temper/web/modules/armor-card/armor-card.module.code.tsx"
 import { ArmorCard } from "akasha/temper/web/modules/armor-card/armor-card.module.code.tsx"
+import { BulkEditTag } from "akasha/temper/web/modules/bulk-edit-tag/bulk-edit-tag.module.code.tsx"
+import { BulkSetEditTag } from "akasha/temper/web/modules/bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx"
 import { useMemo } from "react"
 
 export function ArmorPanelCard({
