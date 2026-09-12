@@ -13,6 +13,7 @@ import {
   flagsAloneIn,
   INPUT,
   keeping,
+  naming,
   OK,
   OPERATIONAL,
   partWay,
@@ -129,6 +130,21 @@ test("an answer refusing after a write names what was written beside that refusa
 
 test("an answer refusing with nothing written is left as that answer was", () => {
   expect(keeping([], REFUSED)).toEqual(REFUSED)
+})
+
+test("a refusal names what was written where the report already carries it", () => {
+  const said = naming(WROTE, REFUSED)
+  expect(said.report).toEqual(REFUSED.report)
+  expect(said.refusals[0]).toBe("the dev server exited straight away with code 1")
+  expect(said.refusals[1]).toContain("stopped part way")
+  expect(said.refusals[1]).toContain("pid 4242 on port 3000")
+  expect(said.code).toBe(OPERATIONAL)
+})
+
+test("naming leaves an answer alone where nothing was written or nothing refused", () => {
+  expect(naming([], REFUSED)).toEqual(REFUSED)
+  const worked = { report: ["pid=4242 port=3000"], refusals: [], code: OK }
+  expect(naming(WROTE, worked)).toEqual(worked)
 })
 
 test("an answer refusing nothing is left as that answer was, whatever was written", () => {

@@ -65,6 +65,14 @@ export const commandAnswering = {
     },
     {
       invariantKind: "departure",
+      statement: "A refusal names what was written where the report already carries it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That list holds what outlives the run rather than every step the run took.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "The sentence naming what that list holds is built here for every refusal to reach.",
     },

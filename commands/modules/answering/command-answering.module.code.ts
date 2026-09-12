@@ -61,13 +61,14 @@ export function partWay(done: readonly string[]): readonly string[] {
   return [`${STOPPED} ${done.join("; ")}. Nothing after that ran.`]
 }
 
+export function naming(done: readonly string[], said: Answer): Answer {
+  if (said.refusals.length === 0 || done.length === 0) return said
+  return { ...said, refusals: [...said.refusals, ...partWay(done)] }
+}
+
 export function keeping(done: readonly string[], said: Answer): Answer {
   if (said.refusals.length === 0 || done.length === 0) return said
-  return {
-    report: [...done, ...said.report],
-    refusals: [...said.refusals, ...partWay(done)],
-    code: said.code,
-  }
+  return { ...naming(done, said), report: [...done, ...said.report] }
 }
 
 export async function answering(
