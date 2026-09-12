@@ -1,6 +1,6 @@
 import { rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { ANSWER_CEILING } from "akasha/commands/pages/read/long-body/long-body.module.code.ts"
+import { ANSWER_CEILING } from "akasha/commands/modules/long-body/long-body.module.code.ts"
 import { uncommittedBesideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { partFiled, partUnfiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 

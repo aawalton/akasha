@@ -18,15 +18,15 @@ import {
   worldFor,
 } from "akasha/commands/modules/change-running/change-running.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { offRepo, pathAt } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
-import { helpIn } from "akasha/commands/pages/change/change-arguing/change-arguing.module.code.ts"
 import {
   ANSWER_CEILING,
   countLines,
   numbered,
-} from "akasha/commands/pages/read/long-body/long-body.module.code.ts"
+} from "akasha/commands/modules/long-body/long-body.module.code.ts"
+import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { offRepo, pathAt } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
+import { helpIn } from "akasha/commands/pages/change/change-arguing/change-arguing.module.code.ts"
 import {
   agentPathOf,
   bytesAt,

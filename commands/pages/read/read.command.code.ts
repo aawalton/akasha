@@ -20,13 +20,7 @@ import {
   answeredWith,
   type Given,
 } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { owing } from "akasha/commands/pages/read/body-owing/body-owing.module.code.ts"
-import {
-  bodyRead,
-  differenceOf,
-} from "akasha/commands/pages/read/differing/differing.module.code.ts"
-import type { Run } from "akasha/commands/pages/read/long-body/long-body.module.code.ts"
+import type { Run } from "akasha/commands/modules/long-body/long-body.module.code.ts"
 import {
   countLines,
   linesOf,
@@ -37,7 +31,13 @@ import {
   runLines,
   tooWide,
   widthOf,
-} from "akasha/commands/pages/read/long-body/long-body.module.code.ts"
+} from "akasha/commands/modules/long-body/long-body.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { owing } from "akasha/commands/pages/read/body-owing/body-owing.module.code.ts"
+import {
+  bodyRead,
+  differenceOf,
+} from "akasha/commands/pages/read/differing/differing.module.code.ts"
 import {
   type Discard,
   discarded,

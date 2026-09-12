@@ -10,7 +10,7 @@ import {
   runLines,
   tooWide,
   widthOf,
-} from "akasha/commands/pages/read/long-body/long-body.module.code.ts"
+} from "akasha/commands/modules/long-body/long-body.module.code.ts"
 
 const CALLED_AS = "akasha read"
 

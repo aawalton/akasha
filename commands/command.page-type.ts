@@ -106,6 +106,7 @@ export const command = {
     "select-property/said-as",
     "relation-property/not-with",
     "module/beside-sweeping",
+    "module/long-body",
   ],
   extends: ["page-type/module"],
   loadedBy: "module/calling",

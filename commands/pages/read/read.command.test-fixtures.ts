@@ -3,7 +3,7 @@ import { join } from "node:path"
 import type { Reading } from "akasha/agents/read-record/read-record.module.code.ts"
 import { blobIdOf, partly, readingIn } from "akasha/agents/read-record/read-record.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { numbered } from "akasha/commands/pages/read/long-body/long-body.module.code.ts"
+import { numbered } from "akasha/commands/modules/long-body/long-body.module.code.ts"
 import {
   ANSWER_CEILING,
   costOf,
