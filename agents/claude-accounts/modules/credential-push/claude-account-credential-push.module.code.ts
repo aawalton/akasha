@@ -121,7 +121,7 @@ export function narrowedFor(root: string, page: string): string | null {
   return null
 }
 
-export function rescuedBeside(
+function rescuedBeside(
   root: string,
   page: string,
   credential: Credential,
@@ -154,7 +154,7 @@ export function rescuedBeside(
   return "and the rotated pair is held beside the page, which no gate judges, so the next read takes that pair"
 }
 
-export function rescueWhy(
+function rescueWhy(
   root: string,
   page: string | null,
   credential: Credential,
