@@ -222,7 +222,7 @@ export async function deploy(
         )
       }
       if (onto === DEVICE) return await installedOnDevice(slug)
-      return installedOnSimulator(slug, given)
+      return await installedOnSimulator(slug, given)
     }
     if (rest.includes(DRY_RUN)) {
       return refused(

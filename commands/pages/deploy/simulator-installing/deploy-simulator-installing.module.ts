@@ -42,7 +42,19 @@ export const deploySimulatorInstalling = {
     },
     {
       invariantKind: "constraint",
-      statement: "Nothing is reported until the build has finished.",
+      statement: "Nothing the build says is reported until the build has finished.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each thing this writes is named as soon as that thing reaches a machine.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that threw part way names those things in its refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The running this does is handed in.",
     },
     {
       invariantKind: "absence",
