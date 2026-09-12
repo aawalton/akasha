@@ -7,10 +7,7 @@ export const initiativeWorkTree = {
   definition: "the command drawing each initiative under the one above it, and the intents it has",
   code: "ts",
   test: "ts",
-  taking: [
-    { said: "--counts", takes: "how many initiatives and how many intents the tree holds" },
-    { said: "--colors", takes: "the color each initiative is drawn in, keyed by its slug" },
-  ],
+  taking: [],
 
   invariants: [
     {
@@ -117,5 +114,9 @@ export const initiativeWorkTree = {
     },
   ],
   name: "work-tree",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/counts", notWith: ["argument/colors"] },
+    { argument: "argument/colors", notWith: ["argument/counts"] },
+  ],
 } as const satisfies Command
