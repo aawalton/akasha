@@ -1,11 +1,13 @@
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
 import {
+  asJson,
   DATA,
   INPUT,
-  OK,
   OPERATIONAL,
   refused,
+  refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -257,7 +259,7 @@ export async function temperInventoryExplain(
   given?: Given
 ): Promise<Answer> {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
+  if ("refused" in read) return refusedBy(read.refused)
 
   const caps = await explainCapabilities()
   const itemId = wholeNumberIn(read.named) ?? caps.parseItemLink(read.named)?.itemId ?? null
@@ -305,6 +307,6 @@ export async function temperInventoryExplain(
     return refused(whyOf(thrown), OPERATIONAL)
   }
 
-  if (read.json) return { report: [JSON.stringify(out)], refusals: [], code: OK }
-  return { report: formatExplainWalk(out).replace(/\n+$/, "").split("\n"), refusals: [], code: OK }
+  if (read.json) return asJson(out)
+  return told(formatExplainWalk(out).replace(/\n+$/, "").split("\n"))
 }
