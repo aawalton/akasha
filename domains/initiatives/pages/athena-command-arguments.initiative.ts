@@ -28,7 +28,7 @@ export const athenaCommandArguments = {
       statement:
         "A command's code reads its arguments through a type generated from its argument pages.",
       workingMemory:
-        "Settled by `Parsimony`: no type file is generated beside a command page. A command page states `arguments` as a literal, so TypeScript reads the record `takingIn` answers off that literal, and a generated file beside each of 225 pages costs a page, a folder and a name for what the page already says. Left to build once the migration lands: the type narrowing what `takingIn` answers to the arguments the page names.",
+        "`TakenFor` in `argument-taking.module.code.ts` reads a command page's `arguments` literal and answers exactly those keys, camelised, each typed by its argument page's `value`, with `required` deciding optionality (`66235ec888d6`). Proven on `git push` (`bfc3221fbcbc`) and `seat reset` (`750592bac7dc`), where reading a key the page does not name now draws `TS2339` at apply. Left: every other command's code still reads a bag keyed by `string`.\n",
     },
     {
       statement: "No command page states `taking`.",
