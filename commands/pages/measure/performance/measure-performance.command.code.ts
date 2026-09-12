@@ -1,6 +1,7 @@
 import { join } from "node:path"
+import { faulted, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt, slugsOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
@@ -57,11 +58,11 @@ async function measuringIn(root: string, at: string): Promise<Measuring> {
 export async function measurePerformance(argv: readonly string[], given: Given): Promise<Answer> {
   try {
     const read = readIn(argv, slugsOfType(given.root, PERFORMANCE))
-    if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+    if ("refused" in read) return mistaking(read.refused)
     const at = codeAt(given.root, read.slug)
     const measuring = await measuringIn(given.root, at)
-    return { report: [...(await measuring(given.root))], refusals: [], code: 0 }
+    return told([...(await measuring(given.root))])
   } catch (thrown) {
-    return { report: [], refusals: [whyOf(thrown)], code: 3 }
+    return faulted(thrown)
   }
 }
