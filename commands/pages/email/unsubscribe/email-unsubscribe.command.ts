@@ -29,6 +29,10 @@ export const emailUnsubscribe = {
       statement: "An unsubscribe that threw after Gmail took the mailto says the mailto went.",
     },
     {
+      invariantKind: "departure",
+      statement: "An unsubscribe refused over a one-click answer says the POST reached the server.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here follows a link found in a message body.",
     },

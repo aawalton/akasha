@@ -54,6 +54,13 @@ export type UnsubscribeResult = {
   readonly detail: string
 }
 
+export function postedSaid(url: string, status: number): string {
+  return (
+    `the one-click POST reached ${url} and that server answered ${status};` +
+    " whether the list took it is that server's to say rather than ours"
+  )
+}
+
 export async function executeUnsubscribe(
   client: GmailClient,
   parsed: ParsedUnsubscribe,
@@ -65,6 +72,7 @@ export async function executeUnsubscribe(
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: "List-Unsubscribe=One-Click",
     })
+    done.push(postedSaid(parsed.oneClickUrl, res.status))
     if (!res.ok) {
       throw new OperationalError(
         `one-click unsubscribe POST failed: ${res.status} ${res.statusText} (${parsed.oneClickUrl})`
