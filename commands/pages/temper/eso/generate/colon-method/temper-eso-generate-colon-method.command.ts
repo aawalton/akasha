@@ -6,6 +6,7 @@ export const temperEsoGenerateColonMethod = {
   slug: "temper-eso-generate-colon-method",
   definition: "the command staging the census of the method names the base game defines on a class",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -55,6 +56,14 @@ export const temperEsoGenerateColonMethod = {
     {
       invariantKind: "departure",
       statement: "The staging is handed in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An argument this command does not take is refused rather than passed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A test seam is taken after the world, so a real call reaches the work.",
     },
     {
       invariantKind: "gap",

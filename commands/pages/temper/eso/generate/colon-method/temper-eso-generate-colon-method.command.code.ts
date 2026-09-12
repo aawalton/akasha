@@ -6,20 +6,26 @@ import {
   renderSeries,
   stageSeries,
 } from "akasha/code/name-series/name-series.module.code.ts"
+import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
+import { esoRoot } from "akasha/commands/arguments/pages/eso-root.argument.ts"
+import { stage } from "akasha/commands/arguments/pages/stage.argument.ts"
 import {
   answeredWith,
-  answering,
   DATA,
   naming,
   OK,
   refused,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import {
+  esoAnswering,
+  type Taking,
+} from "akasha/commands/pages/temper/eso/eso-answering/eso-answering.module.code.ts"
+import { temperEsoGenerateColonMethod as page } from "akasha/commands/pages/temper/eso/generate/colon-method/temper-eso-generate-colon-method.command.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { esoDocPathForLuaRoot } from "akasha/temper/build-deploy-checks/eso-doc-api-version/eso-doc-api-version.module.code.ts"
 import { extractColonMethodNames } from "akasha/temper/commands/eso-colon-methods/eso-colon-methods.module.code.ts"
 import {
-  saidFor,
   saidShort,
   stagingAt,
 } from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
@@ -30,11 +36,7 @@ import {
 import { esouiSourceDir } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
 import { collectLuaFiles } from "akasha/temper/eso-paths/lua-files/lua-files.module.code.ts"
 
-const ESO_ROOT_FLAG = "--eso-root"
-
-const CODE_ROOT_FLAG = "--code-root"
-
-const STAGE_FLAG = "--stage"
+const NAMED = [codeRootArgument, stage, esoRoot]
 
 const GENERATED_DIR_REL = "temper/build-deploy-checks"
 
@@ -44,18 +46,29 @@ const BINDING = "ESO_COLON_METHOD_NAMES"
 
 const STAGE_PREFIX = "eso-colon-methods-stage-"
 
-export type Staging = (done: string[], argv: readonly string[], given: Given) => Answer
+type Taken = Taking<typeof page, typeof NAMED>
 
-export async function temperEsoGenerateColonMethod(
+export type Staging = (done: string[], taken: Taken, given: Given) => Answer
+
+export async function methoding(
   argv: readonly string[],
   given: Given,
   staging: Staging = staged
 ): Promise<Answer> {
-  return await answering((done) => naming(done, staging(done, argv, given)))
+  return await esoAnswering(argv, given, page, NAMED, (done, taken) =>
+    naming(done, staging(done, taken, given))
+  )
 }
 
-function staged(done: string[], argv: readonly string[], given: Given): Answer {
-  const namedCheckout = saidFor(argv, CODE_ROOT_FLAG)
+export function temperEsoGenerateColonMethod(
+  argv: readonly string[],
+  given: Given
+): Promise<Answer> {
+  return methoding(argv, given)
+}
+
+function staged(done: string[], taken: Taken, given: Given): Answer {
+  const namedCheckout = taken.codeRoot
 
   let checkout: string
   try {
@@ -67,22 +80,23 @@ function staged(done: string[], argv: readonly string[], given: Given): Answer {
     )
   }
 
-  const namedRoot = saidFor(argv, ESO_ROOT_FLAG)
-  const esoRoot = namedRoot === undefined ? esouiSourceDir() : resolve(namedRoot)
+  const namedRoot = taken.esoRoot
+  const luaRoot = namedRoot === undefined ? esouiSourceDir() : resolve(namedRoot)
   try {
-    if (!statSync(esoRoot).isDirectory()) {
-      return refused(`${esoRoot} is no directory, so there was no Lua source to scan`, DATA)
+    if (!statSync(luaRoot).isDirectory()) {
+      return refused(`${luaRoot} is no directory, so there was no Lua source to scan`, DATA)
     }
   } catch {
     return refused(
-      `${esoRoot} is not there. The game's UI source is Zenimax's and is vendored in no repository here — ` +
-        "restore the peer clone with `git clone https://github.com/esoui/esoui.git ~/esoui`, or name another copy with --eso-root",
+      `${luaRoot} is not there. The game's UI source is Zenimax's and is vendored in no repository here — ` +
+        "restore the peer clone with `git clone https://github.com/esoui/esoui.git ~/esoui`, or name " +
+        `another copy with ${esoRoot.said}`,
       DATA
     )
   }
 
   const names = new Set<string>()
-  const luaFiles = collectLuaFiles(esoRoot)
+  const luaFiles = collectLuaFiles(luaRoot)
   for (const file of luaFiles) {
     let text: string
     try {
@@ -94,7 +108,7 @@ function staged(done: string[], argv: readonly string[], given: Given): Answer {
   }
   if (names.size === 0) {
     return refused(
-      `no colon-method is in ${String(luaFiles.length)} Lua file(s) under ${esoRoot}. ` +
+      `no colon-method is in ${String(luaFiles.length)} Lua file(s) under ${luaRoot}. ` +
         "An empty census reads to every consumer as a clean answer, so nothing was staged.",
       DATA
     )
@@ -102,10 +116,10 @@ function staged(done: string[], argv: readonly string[], given: Given): Answer {
 
   let apiVersion: number
   try {
-    apiVersion = parseEsoDocApiVersion(readFileSync(esoDocPathForLuaRoot(esoRoot), "utf8"))
+    apiVersion = parseEsoDocApiVersion(readFileSync(esoDocPathForLuaRoot(luaRoot), "utf8"))
   } catch (thrown) {
     return refused(
-      `the clone at ${esoRoot} states no API version, so a staged body would carry no stamp for the freshness audit to weigh — ${saidShort(thrown)}`,
+      `the clone at ${luaRoot} states no API version, so a staged body would carry no stamp for the freshness audit to weigh — ${saidShort(thrown)}`,
       DATA
     )
   }
@@ -128,13 +142,13 @@ function staged(done: string[], argv: readonly string[], given: Given): Answer {
     checkout,
     spec,
     pages,
-    stagingAt(saidFor(argv, STAGE_FLAG), STAGE_PREFIX, done),
+    stagingAt(taken.stage, STAGE_PREFIX, done),
     `write the base-game colon-method census from the ~/esoui clone at API ${String(apiVersion)}`,
     done
   )
 
   const report = [
-    `read ${String(luaFiles.length)} Lua file(s) under ${esoRoot} at API version ${String(apiVersion)}`,
+    `read ${String(luaFiles.length)} Lua file(s) under ${luaRoot} at API version ${String(apiVersion)}`,
     `kept ${String(spec.names.length)} colon-method name(s) divided into ${String(runs)} run(s)`,
     ...pages.map((one) => `  ${String(byteLength(one.code))}\t${one.codeRel}`),
     ...put.goneRels.map((rel) => `  gone\t${rel}`),
