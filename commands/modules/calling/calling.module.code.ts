@@ -248,7 +248,7 @@ function notYetIn(root: string): ReadonlySet<string> {
   return found
 }
 
-async function answeredBy(
+async function calledAt(
   level: Level,
   above: readonly Level[],
   said: string,
@@ -459,7 +459,7 @@ export async function calling(argv: readonly string[], outside: Outside): Promis
       DATA
     )
   }
-  const answer = await answeredBy(
+  const answer = await calledAt(
     first,
     reached.above,
     saidIn(argv, reached.held),
