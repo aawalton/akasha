@@ -1,6 +1,7 @@
 import { costRecorded, opening } from "akasha/checks/modules/cost/check-cost.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { allowedThrough } from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
 import { putUpAddon } from "akasha/commands/pages/deploy/addon-installing/deploy-addon-installing.module.code.ts"
 import { publishedBundleFor } from "akasha/commands/pages/deploy/bundle-publishing/deploy-bundle-publishing.module.code.ts"
@@ -68,6 +69,9 @@ const NAMED: Readonly<Record<string, string>> = {
   [INFERENCE_SERVICE]: "an inference service",
   [ESO_ADDON]: "an ESO addon",
 }
+
+const STOPPED_PART_WAY =
+  "the deploy stopped part way, so what it put up at this commit may be part of what was asked"
 
 export const PINNED: ReadonlySet<string> = new Set([
   WORKSTATION_SERVICE,
@@ -233,7 +237,14 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
     return answering([`commit\t${commit}`], [...unjudged, ...noting()], DATA)
   }
   const before = opening()
-  const answer = await putUp(read, slug, commit, rest, given, restarting)
+  let answer: Answer
+  try {
+    answer = await putUp(read, slug, commit, rest, given, restarting)
+  } catch (thrown) {
+    if (!dry) costRecorded(given.root, read.pagePath, before, PUT_UP, slug, 0, 1)
+    const why = [whyOf(thrown), STOPPED_PART_WAY]
+    return answering([`commit\t${commit}`], [...why, ...noting()], OPERATIONAL)
+  }
   if (!dry) {
     costRecorded(given.root, read.pagePath, before, PUT_UP, slug, 0, answer.refusals.length)
   }
