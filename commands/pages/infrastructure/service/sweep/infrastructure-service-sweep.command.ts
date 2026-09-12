@@ -59,6 +59,10 @@ export const infrastructureServiceSweep = {
     },
     {
       invariantKind: "departure",
+      statement: "A sweep systemd refused part way names them as a sweep that threw does.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The sweeping this runs is handed in.",
     },
     {

@@ -1,13 +1,11 @@
 import { expect, test } from "bun:test"
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import {
-  answering,
-  OPERATIONAL,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type { Sweeping } from "akasha/commands/pages/infrastructure/service/sweep/infrastructure-service-sweep.command.code.ts"
 import {
   infrastructureServiceSweep,
+  sweptBy,
   sweptEach,
 } from "akasha/commands/pages/infrastructure/service/sweep/infrastructure-service-sweep.command.code.ts"
 
@@ -75,7 +73,7 @@ test("each unit is named as soon as systemd has taken that unit away", () => {
 })
 
 test("a sweep that threw part way names in its refusal each unit it had taken away", async () => {
-  const held = await answering((done) => sweptEach(HOME, PLANNED, REMOVE, [], sweeping(1), done))
+  const held = await sweptBy(HOME, PLANNED, REMOVE, [], sweeping(1))
 
   expect(held.code).toBe(OPERATIONAL)
   expect(held.report).toEqual(["removed one.service"])
@@ -85,8 +83,38 @@ test("a sweep that threw part way names in its refusal each unit it had taken aw
 })
 
 test("a sweep that threw before a unit was taken away names none", async () => {
-  const held = await answering((done) => sweptEach(HOME, PLANNED, REMOVE, [], sweeping(0), done))
+  const held = await sweptBy(HOME, PLANNED, REMOVE, [], sweeping(0))
 
   expect(held.report).toEqual([])
+  expect(held.refusals.some((one) => one.includes("stopped part way"))).toBe(false)
+})
+
+const halfRefusing: Sweeping = (_home, plan, did) => {
+  const first = plan.remove[0]
+  if (first !== undefined) did.push(`removed ${first}`)
+  return { did, refused: ["stopped two.service: systemd would not"] }
+}
+
+test("a sweep that refused part way names in its refusal each unit it had taken away", async () => {
+  const held = await sweptBy(HOME, PLANNED, REMOVE, [], halfRefusing)
+
+  expect(held.code).toBe(OPERATIONAL)
+  expect(held.refusals[0]).toContain("systemd would not")
+  const last = held.refusals[held.refusals.length - 1] as string
+  expect(last).toContain("removed one.service")
+})
+
+test("what the report already says is not said a second time by naming it", async () => {
+  const held = await sweptBy(HOME, PLANNED, REMOVE, [], halfRefusing)
+
+  expect(held.report).toEqual([...PLANNED, "did\tremoved one.service"])
+})
+
+test("a sweep that refused before a unit was taken away names none", async () => {
+  const held = await sweptBy(HOME, PLANNED, REMOVE, [], (_home, _plan, did) => ({
+    did,
+    refused: ["stopped one.service: systemd would not"],
+  }))
+
   expect(held.refusals.some((one) => one.includes("stopped part way"))).toBe(false)
 })

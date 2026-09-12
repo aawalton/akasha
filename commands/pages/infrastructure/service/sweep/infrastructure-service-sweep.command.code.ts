@@ -2,6 +2,7 @@ import {
   answering,
   DATA,
   INPUT,
+  naming,
   OK,
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -49,6 +50,16 @@ export function sweptEach(
   return { report: said, refusals: [], code: OK }
 }
 
+export function sweptBy(
+  home: string,
+  report: readonly string[],
+  remove: readonly string[],
+  strand: readonly string[],
+  sweeping: Sweeping
+): Promise<Answer> {
+  return answering((done) => naming(done, sweptEach(home, report, remove, strand, sweeping, done)))
+}
+
 export async function infrastructureServiceSweep(
   argv: readonly string[],
   given: Given,
@@ -92,5 +103,5 @@ export async function infrastructureServiceSweep(
   ]
   if (dryRun) return { report: [...report, NOT_SWEPT], refusals: [], code: OK }
 
-  return await answering((done) => sweptEach(home, report, remove, strand, sweeping, done))
+  return await sweptBy(home, report, remove, strand, sweeping)
 }
