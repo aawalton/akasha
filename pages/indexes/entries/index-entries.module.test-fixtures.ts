@@ -11,6 +11,7 @@ import {
   sidecarsIn,
 } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 import type { Shaped } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
+import { shapeFiled } from "akasha/pages/indexes/shapes/index-shapes.index.code.ts"
 import { id as idPage } from "akasha/pages/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/pages/properties/slug.text-property.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
@@ -46,6 +47,19 @@ export function shaping(
   const line = JSON.stringify({ path: `${slug}.${pageTypeSlug}.ts`, value })
   kept.set(pageTypeSlug, [...(kept.get(pageTypeSlug) ?? []), line])
   propertyKind(kept, pageTypeSlug)
+}
+
+function shapesKept(kept: Kept): ReadonlyMap<string, readonly string[]> {
+  const found = new Map<string, string[]>()
+  for (const lines of kept.values()) {
+    for (const line of lines) {
+      const said = JSON.parse(line) as { readonly value: Value }
+      for (const one of shapeFiled(said.value)) {
+        found.set(one.at, [...(found.get(one.at) ?? []), one.line])
+      }
+    }
+  }
+  return found
 }
 
 export const scratch = scratchWorld()
@@ -120,6 +134,7 @@ export function grounded(): { readonly root: string; readonly repo: string } {
   })
   propertyKind(kept, "one-of-property")
   for (const [type, lines] of kept) filed(`value/${type}.jsonl`, lines.join("\n"))
+  for (const [at, lines] of shapesKept(kept)) filed(at, lines.join("\n"))
   return { root, repo }
 }
 
@@ -206,6 +221,11 @@ export function declaring(
     const at = join(index, `value/${type}.jsonl`)
     mkdirSync(dirname(at), { recursive: true })
     appendFileSync(at, `${lines.join("\n")}\n`, "utf8")
+  }
+  for (const [where, held] of shapesKept(kept)) {
+    const to = join(index, where)
+    mkdirSync(dirname(to), { recursive: true })
+    appendFileSync(to, `${held.join("\n")}\n`, "utf8")
   }
 }
 

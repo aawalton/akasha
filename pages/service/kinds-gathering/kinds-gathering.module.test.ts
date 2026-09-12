@@ -3,12 +3,14 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import {
   listedFiled,
+  shapeAlsoFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import {
   pageFiled,
   relationFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { shapedIn } from "akasha/pages/indexes/shapes/index-shapes.index.code.ts"
 import {
   carriedFor,
   computedInto,
@@ -31,9 +33,12 @@ function filed(
 ): string {
   const path = `held/${slug}.${pageTypeSlug}.ts`
   const id = `id-${pageTypeSlug}-${slug}`
+  const held = { id, pageTypeSlug, slug, ...value }
   listedFiled(root, pageTypeSlug, slug, [{ path, id }])
   pageFiled(root, id, path)
-  valueAlsoFiled(root, pageTypeSlug, [{ path, value: { id, pageTypeSlug, slug, ...value } }])
+  valueAlsoFiled(root, pageTypeSlug, [{ path, value: held }])
+  const shape = shapedIn(held)
+  if (shape !== null) shapeAlsoFiled(root, shape.pageTypeSlug, [shape])
   return path
 }
 
