@@ -6,6 +6,7 @@ export const talosApply = {
   slug: "talos-apply",
   definition: "the command taking one Talos node from maintenance mode into its cluster",
   code: "ts",
+  test: "ts",
   taking: [],
   invariants: [
     {
@@ -61,6 +62,18 @@ export const talosApply = {
     {
       invariantKind: "departure",
       statement: "The decrypted secrets are taken away however the apply ends.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The talosconfig and the node are each named as soon as each is written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An apply that threw part way names those in its refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The registering, the running and the keeping this runs are handed in.",
     },
     {
       invariantKind: "departure",

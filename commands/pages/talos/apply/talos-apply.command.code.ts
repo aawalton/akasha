@@ -1,11 +1,7 @@
 import { existsSync } from "node:fs"
 import { chmod, copyFile, mkdir, mkdtemp, rm, writeFile } from "node:fs/promises"
 import { dirname, join } from "node:path"
-import {
-  OPERATIONAL,
-  refusedBy,
-  told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { answering, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
@@ -105,7 +101,59 @@ export function readIn(argv: readonly string[]): Read {
   return { node, ip, cluster: flags.get(CLUSTER) ?? null }
 }
 
-async function applying(read: Named, given: Given): Promise<Answer> {
+export type Registering = (yaml: string) => Promise<string>
+
+export type Running = (call: { readonly args: readonly string[] }) => Promise<unknown>
+
+export type Keeping = (workDir: string, cluster: string) => Promise<string>
+
+export async function keptTalosconfig(workDir: string, cluster: string): Promise<string> {
+  const persisted = clusterTalosconfigPath(cluster)
+  await mkdir(dirname(persisted), { recursive: true, mode: 0o700 })
+  await copyFile(join(workDir, "talosconfig"), persisted)
+  await chmod(persisted, 0o600)
+  return persisted
+}
+
+export type Applied = {
+  readonly cluster: string
+  readonly node: string
+  readonly file: string
+  readonly ip: string
+  readonly workDir: string
+  readonly gen: readonly string[]
+  readonly apply: readonly string[]
+}
+
+export function tookSaid(applied: Applied): string {
+  return (
+    `${applied.node} took ${applied.file} at ${applied.ip}, ` +
+    "and that node is no longer running what it ran before"
+  )
+}
+
+export async function wroteConfig(
+  applied: Applied,
+  running: Running,
+  keeping: Keeping,
+  done: string[]
+): Promise<undefined> {
+  await running({ args: applied.gen })
+  const persisted = await keeping(applied.workDir, applied.cluster)
+  done.push(`wrote the talosconfig to ${persisted}`)
+  await running({ args: applied.apply })
+  done.push(tookSaid(applied))
+  return undefined
+}
+
+async function applying(
+  read: Named,
+  given: Given,
+  registering: Registering,
+  running: Running,
+  keeping: Keeping,
+  done: string[]
+): Promise<Answer> {
   let node: NodeIntent
   let cluster: ClusterIntent
   let name: string
@@ -125,9 +173,8 @@ async function applying(read: Named, given: Given): Promise<Answer> {
     ])
   }
 
-  const report = [`registering the image factory schematic for ${node.id}`]
-  const schematicId = await registerSchematic(emitSchematicYaml(buildSchematic(node)))
-  report.push(`schematic id: ${schematicId}`)
+  const schematicId = await registering(emitSchematicYaml(buildSchematic(node)))
+  done.push(`schematic id: ${schematicId}`)
 
   const registryCa = cluster.registryHosts.length > 0 ? readRegistryCa() : undefined
   const patchYaml = emitPatchYaml(buildNodePatch(node, cluster, schematicId, { registryCa }))
@@ -153,53 +200,57 @@ async function applying(read: Named, given: Given): Promise<Answer> {
   let decrypted: string | undefined
   try {
     decrypted = await decryptToTmp(secretsPath)
-    await runTalosctl({
-      args: [
-        "gen",
-        "config",
-        name,
-        endpoint,
-        "--with-secrets",
-        decrypted,
-        "--config-patch",
-        `@${patchPath}`,
-        ...volumesPatch,
-        "--output-types",
-        `${machineType},talosconfig`,
-        "--output",
+    await wroteConfig(
+      {
+        cluster: name,
+        node: node.id,
+        file: appliedFile,
+        ip: read.ip,
         workDir,
-        "--force",
-      ],
-    })
-    const persisted = clusterTalosconfigPath(name)
-    await mkdir(dirname(persisted), { recursive: true, mode: 0o700 })
-    await copyFile(join(workDir, "talosconfig"), persisted)
-    await chmod(persisted, 0o600)
-    report.push(`wrote the talosconfig to ${persisted}`)
-    await runTalosctl({
-      args: [
-        "apply-config",
-        "--insecure",
-        "--nodes",
-        read.ip,
-        "--file",
-        join(workDir, appliedFile),
-      ],
-    })
-    report.push(`${node.id} took ${appliedFile} at ${read.ip}`)
+        gen: [
+          "gen",
+          "config",
+          name,
+          endpoint,
+          "--with-secrets",
+          decrypted,
+          "--config-patch",
+          `@${patchPath}`,
+          ...volumesPatch,
+          "--output-types",
+          `${machineType},talosconfig`,
+          "--output",
+          workDir,
+          "--force",
+        ],
+        apply: [
+          "apply-config",
+          "--insecure",
+          "--nodes",
+          read.ip,
+          "--file",
+          join(workDir, appliedFile),
+        ],
+      },
+      running,
+      keeping,
+      done
+    )
   } finally {
     if (decrypted !== undefined) await rm(dirname(decrypted), { recursive: true, force: true })
     await rm(workDir, { recursive: true, force: true })
   }
-  return told(report)
+  return told(done)
 }
 
-export async function talosApply(argv: readonly string[], given: Given): Promise<Answer> {
+export async function talosApply(
+  argv: readonly string[],
+  given: Given,
+  registering: Registering = registerSchematic,
+  running: Running = runTalosctl,
+  keeping: Keeping = keptTalosconfig
+): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) return mistaking(read.refused)
-  try {
-    return await applying(read, given)
-  } catch (thrown) {
-    return refusedBy([whyOf(thrown)], OPERATIONAL)
-  }
+  return await answering(async (done) => applying(read, given, registering, running, keeping, done))
 }
