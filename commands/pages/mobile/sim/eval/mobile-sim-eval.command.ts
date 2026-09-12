@@ -33,6 +33,22 @@ export const mobileSimEval = {
       invariantKind: "departure",
       statement: "A refusal names the context switch attaching to the webview already made.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A script is named as sent before that script goes out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that threw after the script went out names that script in its refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a script did in the webview is not read back here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The session and the running are handed in.",
+    },
   ],
   name: "eval",
   arguments: [{ argument: "argument/script", required: true, saidAs: "flag-or-word" }],

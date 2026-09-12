@@ -1,5 +1,6 @@
 import { executeScript } from "akasha/alan/harness/mobile-cli/appium-client/appium-client.module.code.ts"
 import { driving } from "akasha/alan/harness/mobile-cli/sim-driver/sim-driver.module.code.ts"
+import type { SimSessionState } from "akasha/alan/harness/mobile-cli/sim-session/sim-session.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { script } from "akasha/commands/arguments/pages/script.argument.ts"
 import {
@@ -43,9 +44,31 @@ export function scriptIn(said: string, piping: Piping = inputIn): Reading<Read> 
 
 export type Evaluating = (done: string[], read: Read) => Promise<Answer>
 
-async function evaluated(done: string[], read: Read): Promise<Answer> {
-  const state = await driving(done)
-  const result = await executeScript(state.appiumBase, state.sessionId, read.script)
+export type Running = {
+  readonly state: (done: string[]) => Promise<SimSessionState>
+  readonly ran: (base: string, sessionId: string, script: string) => Promise<unknown>
+}
+
+export const RUNNING: Running = {
+  state: driving,
+  ran: executeScript,
+}
+
+export function sentSaid(body: string): string {
+  return (
+    `sent ${body.length} characters of script to the webview, ` +
+    "and what that script did there is not read back here"
+  )
+}
+
+export async function evaluated(
+  done: string[],
+  read: Read,
+  running: Running = RUNNING
+): Promise<Answer> {
+  const state = await running.state(done)
+  done.push(sentSaid(read.script))
+  const result = await running.ran(state.appiumBase, state.sessionId, read.script)
   return told([JSON.stringify(result, null, INDENT)])
 }
 

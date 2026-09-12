@@ -1,14 +1,20 @@
 import { expect, test } from "bun:test"
+import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { attachedSaid } from "akasha/alan/harness/mobile-cli/sim-driver/sim-driver.module.code.ts"
+import type { SimSessionState } from "akasha/alan/harness/mobile-cli/sim-session/sim-session.module.code.ts"
 import {
+  answering,
   OPERATIONAL,
   partWay,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Running } from "akasha/commands/pages/mobile/sim/eval/mobile-sim-eval.command.code.ts"
 import {
+  evaluated,
   mobileSimEval,
   scriptIn,
+  sentSaid,
 } from "akasha/commands/pages/mobile/sim/eval/mobile-sim-eval.command.code.ts"
 
 const ARGV = ["--script", "return 1"]
@@ -107,4 +113,39 @@ test("a dash piped only whitespace is refused", () => {
   const said = scriptIn("-", () => PIPED_BLANK)
 
   expect(said).toEqual({ refused: ["`--script -` was piped nothing that could be a script"] })
+})
+
+const STATE = { appiumBase: "http://mac:4723", sessionId: "sess-1" } as SimSessionState
+
+const SCRIPT = "window.localStorage.clear()"
+
+function running(over: Partial<Running> = {}): Running {
+  return {
+    state: () => Promise.resolve(STATE),
+    ran: () => Promise.resolve(null),
+    ...over,
+  }
+}
+
+const UNANSWERED = running({
+  ran: () => Promise.reject(new OperationalError("the webview never answered")),
+})
+
+test("a script is named as sent before that script goes out", async () => {
+  const done: string[] = []
+
+  await evaluated(done, { script: SCRIPT }, running())
+  expect(done).toEqual([sentSaid(SCRIPT)])
+})
+
+test("a script that threw after it went out is not read as a script that never ran", async () => {
+  const held = await answering(
+    async (done) => await evaluated(done, { script: SCRIPT }, UNANSWERED)
+  )
+
+  expect(held.code).toBe(OPERATIONAL)
+  expect(held.report).toEqual([sentSaid(SCRIPT)])
+  const last = held.refusals.at(-1) as string
+  expect(last).toContain(`sent ${SCRIPT.length} characters of script to the webview`)
+  expect(last).toContain("not read back here")
 })
