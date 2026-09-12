@@ -104,6 +104,16 @@ export const subagent = {
     {
       invariantKind: "departure",
       statement:
+        "A commit a subagent lands is no evidence the reading of whether it works consults.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "A subagent whose page went while it worked takes that page back without help from outside.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A subagent's slug is the name of the seat that ran the subagent and the id the subagent runs under.",
     },
     {
