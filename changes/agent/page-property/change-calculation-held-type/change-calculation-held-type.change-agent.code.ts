@@ -115,6 +115,8 @@ export async function changeCalculationHeldType(
 
 export type Asked = Readonly<Record<string, string>>
 
+export const takes: readonly string[] = [UNDER]
+
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const under = given[UNDER]
   return await changeCalculationHeldType(world, under === undefined ? {} : { under })

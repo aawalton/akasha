@@ -95,6 +95,8 @@ export async function addFilePropertyExtensions(
 
 export type Asked = Readonly<Record<string, string>>
 
+export const takes: readonly string[] = [UNDER]
+
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const under = given[UNDER]
   return await addFilePropertyExtensions(world, under === undefined ? {} : { under })

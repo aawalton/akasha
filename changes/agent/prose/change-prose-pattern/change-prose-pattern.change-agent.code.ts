@@ -191,6 +191,8 @@ export async function changeProsePattern(
 
 export type Asked = Readonly<Record<string, string>>
 
+export const takes: readonly string[] = [TERM, COUNT]
+
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const term = given[TERM]
   if (term === undefined) return refusing(missing(TERM))

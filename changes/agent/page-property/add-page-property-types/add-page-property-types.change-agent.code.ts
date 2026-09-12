@@ -88,6 +88,8 @@ export async function addPagePropertyTypes(
 
 export type Asked = Readonly<Record<string, string>>
 
+export const takes: readonly string[] = [PAGE_TYPE, UNDER]
+
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const pageType = given[PAGE_TYPE]
   if (pageType === undefined) return refusing(missing(PAGE_TYPE))
