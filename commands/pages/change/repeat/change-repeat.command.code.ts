@@ -3,7 +3,11 @@ import { editsWaiting } from "akasha/changes/modules/edits-keeping/edits-keeping
 import { atMostIn } from "akasha/changes/modules/value-carrying/value-carrying.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { change } from "akasha/commands/arguments/pages/change.argument.ts"
-import { answering, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  answering,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { readingIn } from "akasha/commands/modules/argument-reading/argument-reading.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { type Input, inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
@@ -123,9 +127,9 @@ export function repeating(
     const commit = batch.code === 0 ? committedIn(batch.out) : null
     if (commit === null) {
       const why = [...saidBy(batch), ...droppedBy(running)]
-      if (landed.length === 0) return { report: [], refusals: why, code: batch.code || 1 }
+      if (landed.length === 0) return refusedBy(why, batch.code || 1)
       const closing = `${String(landed.length)} ${AND_THEN}`
-      return { report: [...landed, closing, ...why], refusals: [], code: OK }
+      return told([...landed, closing, ...why])
     }
     landed.push(`batch ${String(landed.length + 1)} committed as ${commit}`)
   }
