@@ -51,7 +51,7 @@ const DIRECTIVES = "directives"
 
 const TOLD = "This is what you wrote to Alan, and it breaks a rule he holds. Write it again."
 
-const JUDGES: readonly Putter[] = [directiveKept, oneAtATimeKept, noCommentaryKept]
+export const JUDGES: readonly Putter[] = [directiveKept, oneAtATimeKept, noCommentaryKept]
 
 export type Valued = { readonly path: string; readonly value: Record<string, unknown> }
 
