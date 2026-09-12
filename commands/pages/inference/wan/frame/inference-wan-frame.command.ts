@@ -10,13 +10,10 @@ export const inferenceWanFrame = {
   taking: [
     { said: "--video <mp4>", takes: "the clip the frames are read from" },
     { said: "--fps <n>", takes: "the rate this samples at, where unsaid takes every frame" },
-    { said: "--out-dir <dir>", takes: "where the PNGs are written" },
-  ],
-  helpNotes: [
-    "this is said with flags alone.",
-    "this runs the host's ffmpeg, so it never reaches the GPU.",
-    "a call naming no directory writes beside the clip, in a folder named for the clip.",
-    "a path said here is read against the repository root rather than the folder the call was made from.",
+    {
+      said: "--out-dir <dir>",
+      takes: "where the PNGs are written, a folder beside the clip named for it where none is said",
+    },
   ],
   invariants: [
     {
