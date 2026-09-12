@@ -8,9 +8,7 @@ export const emailDraftList = {
   code: "ts",
   changeKind: "change-none",
   taking: [{ said: "--max <n>", takes: "how many drafts to answer with at most" }],
-  helpNotes: [
-    "a draft is named by its own id, the id of the message it holds, and the thread that message is in.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
