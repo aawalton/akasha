@@ -1,5 +1,5 @@
 import type { Adding } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
+import { importedFrom, saidAs } from "akasha/pages/body/page-body.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
@@ -108,7 +108,7 @@ function chosenIn(path: string, slug: string): Written {
   const named = exportedAs(slug)
   return {
     held: `(typeof ${named}.values)[number]`,
-    imports: [`import type { ${named} } from "${importedFrom(path)}"`],
+    imports: [`import type { ${named} } from ${saidAs(importedFrom(path))}`],
   }
 }
 
@@ -134,7 +134,7 @@ function memberIn(shadow: Shadow, named: string): Written | null {
   const at = value?.[SECTION] === HOLDS ? typesAtOf(listed.path) : listed.path
   if (at === null) return null
   const typed = typedAs(slug)
-  return { held: typed, imports: [`import type { ${typed} } from "${importedFrom(at)}"`] }
+  return { held: typed, imports: [`import type { ${typed} } from ${saidAs(importedFrom(at))}`] }
 }
 
 function oneOfIn(shadow: Shadow, value: Record<string, unknown>): Written | null {
@@ -166,7 +166,7 @@ function recordIn(shadow: Shadow, asked: Asked): Written | null {
   const imports: string[] = []
   for (const one of keys) {
     if (one.at === asked.at) continue
-    const said = `import type { ${one.typeName} } from "${importedFrom(one.at)}"`
+    const said = `import type { ${one.typeName} } from ${saidAs(importedFrom(one.at))}`
     if (!imports.includes(said)) imports.push(said)
   }
   const lines = keys.map((one) => `  ${one.key}${one.optional ? "?" : ""}: ${one.typeName}`)

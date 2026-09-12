@@ -40,6 +40,10 @@ export const types = {
       statement:
         "A key naming a property whose type is written beside that property is taken from that file.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The file a type is imported from is written as a quoted literal is.",
+    },
   ],
   types: "ts",
 } as const satisfies FileProperty

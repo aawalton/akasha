@@ -40,6 +40,10 @@ export const changeRunner = {
     },
     {
       invariantKind: "departure",
+      statement: "An address and the file it names are written as quoted literals are.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A runner reads the page filed at that address off the index.",
     },
     {

@@ -1,5 +1,5 @@
 import type { Adding } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
+import { importedFrom, saidAs } from "akasha/pages/body/page-body.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
@@ -151,7 +151,7 @@ function importsOf(slug: string, taken: readonly Taken[]): readonly string[] {
   }
   return [...names]
     .sort((one, two) => (one[0] < two[0] ? -1 : one[0] > two[0] ? 1 : 0))
-    .map(([spec, held]) => `import type { ${held.sort().join(", ")} } from "${spec}"`)
+    .map(([spec, held]) => `import type { ${held.sort().join(", ")} } from ${saidAs(spec)}`)
 }
 
 export function bodyFor(slug: string, parents: readonly Taken[], keys: readonly Key[]): string {

@@ -1,6 +1,6 @@
 import type { Adding } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { textOf } from "akasha/code/body-text/body-text.module.code.ts"
-import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
+import { importedFrom, saidAs } from "akasha/pages/body/page-body.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
@@ -72,7 +72,8 @@ export function bodyFor(addresses: readonly Address[]): string {
   const lines = [
     "export type Changes = {",
     ...addresses.map(
-      (one) => `  "${one.address}": Parameters<typeof import("${one.spec}")["${RUN_CHANGE}"]>[1]`
+      (one) =>
+        `  ${saidAs(one.address)}: Parameters<typeof import(${saidAs(one.spec)})["${RUN_CHANGE}"]>[1]`
     ),
     "}",
   ]
