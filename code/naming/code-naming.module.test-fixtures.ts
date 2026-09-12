@@ -1,6 +1,11 @@
 import { readFileSync } from "node:fs"
 import type { Typing } from "akasha/code/typing/code-typing.module.code.ts"
-import { insideOf, placingOver, typingOver } from "akasha/code/typing/code-typing.module.code.ts"
+import {
+  insideOf,
+  placingOver,
+  typingOver,
+  WITHOUT_BROWSER,
+} from "akasha/code/typing/code-typing.module.code.ts"
 import { wrote } from "akasha/code/typing/code-typing.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
@@ -31,7 +36,8 @@ export function typed(said: Readonly<Record<string, string>>): {
       const rel = insideOf(root, at)
       return rel === null ? onDisk(at) : said[rel]
     },
-    placed
+    placed,
+    WITHOUT_BROWSER
   )
   return { root, typing }
 }

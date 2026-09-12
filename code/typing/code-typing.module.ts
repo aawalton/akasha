@@ -15,7 +15,17 @@ export const codeTyping = {
     },
     {
       invariantKind: "departure",
-      statement: "Every file compiles against the full ESNext library.",
+      statement: "A file of the akasha folder compiles against the full ESNext library.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A program built over made-up files names the library those files compile against.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file from outside the akasha folder is parsed without the link from each node to the one above it.",
     },
     {
       invariantKind: "departure",

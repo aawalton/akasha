@@ -22,6 +22,8 @@ export const SETTINGS: ts.CompilerOptions = {
   jsx: ts.JsxEmit.ReactJSX,
 }
 
+export const WITHOUT_BROWSER: ts.CompilerOptions = { ...SETTINGS, lib: ["lib.esnext.d.ts"] }
+
 export type Reading = (at: string) => string | undefined
 
 export type Typing = {
@@ -143,9 +145,10 @@ function hostOver(
   root: string,
   read: Reading,
   every: readonly string[],
-  placed: Placing
+  placed: Placing,
+  settings: ts.CompilerOptions
 ): ts.CompilerHost {
-  const base = ts.createCompilerHost(SETTINGS, true)
+  const base = ts.createCompilerHost(settings, false)
   const dirs = directoriesIn(root, every)
   const library = base.getDefaultLibLocation?.() ?? ""
   return {
@@ -192,12 +195,13 @@ export function typingOver(
   root: string,
   roots: readonly string[],
   read: Reading,
-  placed: Placing
+  placed: Placing,
+  settings: ts.CompilerOptions = SETTINGS
 ): Typing {
   const program = ts.createProgram({
     rootNames: roots.map((one) => join(root, one)),
-    options: SETTINGS,
-    host: hostOver(root, read, roots, placed),
+    options: settings,
+    host: hostOver(root, read, roots, placed, settings),
   })
   return {
     program,
