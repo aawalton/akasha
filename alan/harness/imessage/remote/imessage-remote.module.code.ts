@@ -44,15 +44,15 @@ export async function resolveContactHandleRowids(contact: string): Promise<reado
     const key = handleKey(contact)
     const rowids = handles.filter((h) => handleKey(h.id) === key).map((h) => h.rowid)
     if (rowids.length === 0) {
-      throw new DataError(`no iMessage handle matches ${contact.trim()}`)
+      throw new DataError(`no iMessage handle matches \`${contact.trim()}\``)
     }
     return rowids
   }
   const matches = searchContacts(await fetchContacts(), contact)
   if (matches.length === 0) {
     throw new DataError(
-      `no contact matches "${contact}" — search the contact list for the name you meant, or ` +
-        "pass an email address or phone number instead"
+      `no contact matches \`${contact}\` — search the contact list for the name you meant, or ` +
+        "say an address or a phone number instead"
     )
   }
   const keys = new Set(matches.flatMap((c) => [...contactHandleKeys(c)]))
@@ -60,7 +60,7 @@ export async function resolveContactHandleRowids(contact: string): Promise<reado
   if (rowids.length === 0) {
     const names = matches.map((c) => c.name).join(", ")
     throw new DataError(
-      `contact "${contact}" matched (${names}) but none of their endpoints has an iMessage handle`
+      `\`${contact}\` matches ${names}, and none of them carries an iMessage handle`
     )
   }
   return rowids
