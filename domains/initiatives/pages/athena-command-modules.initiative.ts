@@ -13,11 +13,7 @@ export const athenaCommandModules = {
       workingMemory:
         "`refusedBy` at `answering/command-answering.module.code.ts:26` builds every refusal now: `calling.module.code.ts`'s private `refusing` is gone, and `refused:116`, `mistaking` and `troubling` in `refusing.module.code.ts` all call it. Three named ways in are left — `refused` (about 70 importers), `mistaking` (29), and `faulted`. Dropping them rewrites an import line in about 100 files, and no change act does that. Do the named ways stay?\n",
     },
-    {
-      statement: "A module sits at the lowest node of the command tree that reaches it.",
-      workingMemory:
-        "The six have moved, each a part of the page it now sits under: `differing` and `output-reaching` under `pages/read/`, `play-row` under `pages/music/capture/`, `change-arguing` under `pages/change/`, `measure-tabling` under `pages/measure/`, `inventory-file-arguing` under `pages/temper/inventory/`. No check holds the placement: `command-is-named-by-its-place-in-the-tree` judges a module beside a command by nothing. Does that check grow, or is a second written?\n",
-    },
+
     {
       statement: "A module whose readers are outside the command system sits outside it.",
       workingMemory:
