@@ -4,7 +4,7 @@ import type {
   ArmorShape,
   SkillBarsState,
   WeaponBarShape,
-} from "akasha/temper/character-skills/query-shapes/query-shapes.module.code.ts"
+} from "akasha/temper/character-skills/modules/query-shapes/query-shapes.module.code.ts"
 import { armorWeights } from "akasha/temper/characters-equipment/modules/armor-weights/armor-weights.module.code.ts"
 import { weaponTypes } from "akasha/temper/characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
 import { classes } from "akasha/temper/classes/modules/character-class/character-class.module.code.ts"

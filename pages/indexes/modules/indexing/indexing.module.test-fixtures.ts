@@ -18,10 +18,10 @@ import {
   indexingAt,
   refreshedFrom,
 } from "akasha/pages/indexes/modules/indexing/indexing.module.code.ts"
+import { shapesAt } from "akasha/pages/indexes/modules/property-shaping/property-shaping.module.code.ts"
 import { everyPath } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { settlingOver } from "akasha/pages/indexes/modules/settling/index-settling.module.code.ts"
 import { readingAt } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
-import { shapesAt } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
 import { pathsRead, readerAt, ruleWhole } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import { id as idPage } from "akasha/pages/properties/id.text-property.ts"

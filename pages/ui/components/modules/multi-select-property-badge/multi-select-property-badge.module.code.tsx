@@ -7,7 +7,7 @@ import { getValueArray } from "akasha/pages/core/property-types/modules/multi-re
 import { getOptions } from "akasha/pages/core/property-types/modules/multi-select-property/multi-select-property.module.code.ts"
 import { resolveBadgeVariant } from "akasha/pages/core/resolve-badge-variant/resolve-badge-variant.module.code.ts"
 import { MultiSelectPopover } from "akasha/pages/ui/components/modules/multi-select-popover/multi-select-popover.module.code.tsx"
-import type { PropertyBadgeProps } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
+import type { PropertyBadgeProps } from "akasha/pages/ui/components/modules/property-badge/property-badge.module.code.tsx"
 import { requireGet } from "akasha/utils/narrow/require-get/require-get.module.code.ts"
 
 function resolveOptionVariant(

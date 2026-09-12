@@ -20,7 +20,7 @@ import {
   multiSelectConfigSchema,
   numberConfigSchema,
   selectConfigSchema,
-} from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
+} from "akasha/pages/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
 import { formatSmartDate } from "akasha/pages/core/view/modules/format-smart-date/format-smart-date.module.code.ts"
 import {
   type PageTableColumn,

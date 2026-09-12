@@ -1,5 +1,9 @@
 import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-types/modules/k8s-namespace/k8s-namespace.module.code.ts"
 import {
+  NAMESPACE,
+  NAMESPACE_LABELS,
+} from "akasha/infrastructure/telemetry/modules/prometheus-constants/prometheus-constants.module.code.ts"
+import {
   prometheusConfigmapYaml,
   prometheusDeploymentYaml,
   prometheusPvcYaml,
@@ -7,10 +11,6 @@ import {
   prometheusRbacYaml,
   prometheusServiceYaml,
 } from "akasha/infrastructure/telemetry/prometheus/modules/manifests/prometheus-manifests.module.code.ts"
-import {
-  NAMESPACE,
-  NAMESPACE_LABELS,
-} from "akasha/infrastructure/telemetry/prometheus-constants/prometheus-constants.module.code.ts"
 
 export default async function synth(): Promise<
   readonly { readonly name: string; readonly yaml: string }[]

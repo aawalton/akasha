@@ -30,7 +30,7 @@ import {
   type PageTableColumn,
 } from "akasha/pages/ui/components/modules/page-table-shared/page-table-shared.module.code.ts"
 import { tableMinWidthPx } from "akasha/pages/ui/components/modules/page-table-widths/page-table-widths.module.code.ts"
-import { PropertyBadge } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
+import { PropertyBadge } from "akasha/pages/ui/components/modules/property-badge/property-badge.module.code.tsx"
 import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
 import { CheckCircle2, Circle } from "lucide-react"
 import type { ReactNode } from "react"

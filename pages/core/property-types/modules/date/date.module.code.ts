@@ -12,7 +12,7 @@ import type {
   FilterOperatorOption,
   PropertyTypeOps,
   PropertyValue,
-} from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
+} from "akasha/pages/core/property-types/modules/property-type-ops/property-type-ops.module.code.ts"
 
 const DATE_REGEX = /^\d{4}-\d{2}-\d{2}$/
 

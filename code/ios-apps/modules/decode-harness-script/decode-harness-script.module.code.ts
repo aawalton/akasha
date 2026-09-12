@@ -1,6 +1,6 @@
+import { fileOf } from "akasha/pages/indexes/modules/property-file/property-file.module.code.ts"
 import { valuedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
-import { fileOf } from "akasha/pages/indexes/property-file/property-file.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { slugsIn } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { upFrom } from "akasha/utils/narrow/up-from/up-from.module.code.ts"

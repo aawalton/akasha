@@ -1,5 +1,5 @@
 import { registerDeviceToken } from "akasha/persons/modules/device-token-registration/device-token-registration.module.code.ts"
-import { SMILINGJENNY_PUSH_APP } from "akasha/persons/push-apps/push-apps.module.code.ts"
+import { SMILINGJENNY_PUSH_APP } from "akasha/persons/modules/push-apps/push-apps.module.code.ts"
 import { requireApiJenny } from "akasha/smilingjenny/web/.server/jenny-session/jenny-session.module.code.ts"
 import { z } from "zod"
 

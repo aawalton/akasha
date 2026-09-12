@@ -3,11 +3,11 @@ import { expect, mock, test } from "bun:test"
 const RAN: string[] = []
 
 const notifying = await import(
-  "akasha/alan/harness/alanwalton-ios-notification/push-notifying/push-notifying.module.code.ts"
+  "akasha/alan/harness/alanwalton-ios-notification/modules/push-notifying/push-notifying.module.code.ts"
 )
 
 mock.module(
-  "akasha/alan/harness/alanwalton-ios-notification/push-notifying/push-notifying.module.code.ts",
+  "akasha/alan/harness/alanwalton-ios-notification/modules/push-notifying/push-notifying.module.code.ts",
   () => ({
     ...notifying,
     runPushNotifying: () => {
@@ -40,7 +40,7 @@ test("a loop that ended badly is carried out rather than swallowed, so a failed 
   RAN.length = 0
   const why = new Error("the tick loop could not open its state")
   mock.module(
-    "akasha/alan/harness/alanwalton-ios-notification/push-notifying/push-notifying.module.code.ts",
+    "akasha/alan/harness/alanwalton-ios-notification/modules/push-notifying/push-notifying.module.code.ts",
     () => ({
       ...notifying,
       runPushNotifying: () => Promise.reject(why),

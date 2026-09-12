@@ -43,7 +43,7 @@ import {
   UNFILED_AT,
   unfiled,
 } from "akasha/pages/shadow/shadow.module.test-fixtures.ts"
-import { put } from "akasha/testing-system/putting/putting.module.code.ts"
+import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
 
 afterAll(scratch.sweep)
 

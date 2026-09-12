@@ -14,7 +14,7 @@ import { refreshedIn } from "akasha/pages/indexes/modules/reading/index-reading.
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { type Cast, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
-import { put, there } from "akasha/testing-system/putting/putting.module.code.ts"
+import { put, there } from "akasha/testing-system/modules/putting/putting.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 export const scratch = scratchWorld()

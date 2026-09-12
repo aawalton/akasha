@@ -19,7 +19,7 @@ import { LoreLibraryProgressPanelCard } from "akasha/temper/web/modules/lore-lib
 import { MountTrainingPanelCard } from "akasha/temper/web/modules/mount-training-panel-card/mount-training-panel-card.module.code.tsx"
 import { PackUpgradesPanelCard } from "akasha/temper/web/modules/pack-upgrades-panel-card/pack-upgrades-panel-card.module.code.tsx"
 import { PoiProgressPanelCard } from "akasha/temper/web/modules/poi-progress-panel-card/poi-progress-panel-card.module.code.tsx"
-import { QuestProgressPanelCard } from "akasha/temper/web/quest-progress-panel-card/quest-progress-panel-card.module.code.tsx"
+import { QuestProgressPanelCard } from "akasha/temper/web/modules/quest-progress-panel-card/quest-progress-panel-card.module.code.tsx"
 import { RecipesProgressPanelCard } from "akasha/temper/web/recipes-progress-panel-card/recipes-progress-panel-card.module.code.tsx"
 import { ScribingKnowledgeProgressPanelCard } from "akasha/temper/web/scribing-knowledge-progress-panel-card/scribing-knowledge-progress-panel-card.module.code.tsx"
 import { SkillLinesProgressPanelCard } from "akasha/temper/web/skill-lines-progress-panel-card/skill-lines-progress-panel-card.module.code.tsx"

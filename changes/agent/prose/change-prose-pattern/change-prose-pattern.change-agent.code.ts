@@ -14,15 +14,15 @@ import {
   type ProseAt,
   proseFrom,
   type Reach,
-} from "akasha/domains/standard-agent-english/prose-reach/prose-reach.module.code.ts"
+} from "akasha/domains/standard-agent-english/modules/prose-reach/prose-reach.module.code.ts"
 import {
   type Parsing,
   type Passage,
   parsingNow,
   type Restatement,
   restatedIn,
-} from "akasha/domains/standard-agent-english/prose-restating/prose-restating.module.code.ts"
-import type { Pattern } from "akasha/domains/standard-agent-english/prose-rewrite/prose-rewrite.module.code.ts"
+} from "akasha/domains/standard-agent-english/modules/prose-restating/prose-restating.module.code.ts"
+import type { Pattern } from "akasha/domains/standard-agent-english/modules/prose-rewrite/prose-rewrite.module.code.ts"
 import {
   textAt,
   type Value,

@@ -1,4 +1,3 @@
-import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import {
   type Carried,
   type Facing,
@@ -7,7 +6,8 @@ import {
   namingFor,
   sectionHeld,
   slugsWhere,
-} from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
+} from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const APPEND_ONLY = "appendOnly"

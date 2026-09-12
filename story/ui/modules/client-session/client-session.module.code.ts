@@ -6,7 +6,7 @@ import {
   renderSystemMechanics,
   SystemMechanicsSchema,
 } from "akasha/story/engine/core/modules/beat-schema/beat-schema.module.code.ts"
-import { QuestSchema } from "akasha/story/engine/core/quest-schema/quest-schema.module.code.ts"
+import { QuestSchema } from "akasha/story/engine/core/modules/quest-schema/quest-schema.module.code.ts"
 import {
   DEFAULT_REVEAL_KEYS,
   narrowRevealed,

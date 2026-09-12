@@ -9,7 +9,7 @@ import { selectVisibleCardProperties } from "akasha/pages/ui/components/modules/
 import {
   isEmptyValue,
   PropertyBadge,
-} from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
+} from "akasha/pages/ui/components/modules/property-badge/property-badge.module.code.tsx"
 import { useMemo } from "react"
 
 interface PageTitlePropertiesProps {

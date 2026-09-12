@@ -10,7 +10,7 @@ import {
   WEIGHT_TO_CATEGORY2,
 } from "akasha/temper/trading-pricing/modules/companion-gear-price-lookup/companion-gear-price-lookup.module.code.ts"
 import { isPriceEntry } from "akasha/temper/trading-pricing/modules/is-price-entry/is-price-entry.module.code.ts"
-import type { PricingData } from "akasha/temper/trading-pricing/pricing-types/pricing-types.module.code.ts"
+import type { PricingData } from "akasha/temper/trading-pricing/modules/pricing-types/pricing-types.module.code.ts"
 
 export interface CompanionGearNeed {
   companionId: string

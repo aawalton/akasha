@@ -13,13 +13,13 @@ import {
   pathsOf,
   under,
 } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
+import { carryingOf } from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
 import {
   everyPath,
   importersIn,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import { readingOf } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
-import { carryingOf } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const MANIFEST = "manifest"

@@ -13,8 +13,8 @@ import { parseConfig } from "akasha/pages/core/schema/modules/pages/pages.module
 import {
   type NumberConfig,
   numberConfigSchema,
-} from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
-import type { PropertyBadgeProps } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
+} from "akasha/pages/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
+import type { PropertyBadgeProps } from "akasha/pages/ui/components/modules/property-badge/property-badge.module.code.tsx"
 
 function getConfig(definition: PropertyDefinition): NumberConfig {
   return parseConfig(numberConfigSchema, definition.config, { format: "number" })

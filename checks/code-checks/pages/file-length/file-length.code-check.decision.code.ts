@@ -11,7 +11,7 @@ import {
   namingFor,
   sectionHeld,
   slugsWhere,
-} from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
+} from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
 import { ENTRY_CEILING } from "akasha/pages/modules/entry-ceiling/entry-ceiling.module.code.ts"
 import { partedIn, sectionedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"

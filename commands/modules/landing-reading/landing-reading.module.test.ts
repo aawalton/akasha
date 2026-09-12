@@ -10,7 +10,7 @@ import {
   carryLanded,
   NO_OWING,
 } from "akasha/commands/modules/landing-reading/landing-reading.module.code.ts"
-import { put } from "akasha/testing-system/putting/putting.module.code.ts"
+import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
 import {
   AGENT,
   repoWith,

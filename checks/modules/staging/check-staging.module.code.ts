@@ -10,7 +10,7 @@ import {
   pathFiled,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
-import { put, there } from "akasha/testing-system/putting/putting.module.code.ts"
+import { put, there } from "akasha/testing-system/modules/putting/putting.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const EDGE_PAGE_AT = "graph/import-edge.graph-edge.ts"

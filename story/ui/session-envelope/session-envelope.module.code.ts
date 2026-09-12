@@ -21,7 +21,7 @@ import { selectPendingActions } from "akasha/story/ui/modules/pending-actions/pe
 import {
   interleaveTurnSegments,
   type TurnInterleaveMismatch,
-} from "akasha/story/ui/prose-interleave/prose-interleave.module.code.ts"
+} from "akasha/story/ui/modules/prose-interleave/prose-interleave.module.code.ts"
 
 type SystemClientBeat = Extract<ClientBeat, { type: "system" }>
 

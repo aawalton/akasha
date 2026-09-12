@@ -16,7 +16,7 @@ import {
   EmptyMedia,
   EmptyTitle,
 } from "akasha/design/interfaces/patterns/modules/empty/empty.module.code.tsx"
-import { QueryErrorBoundary } from "akasha/design/interfaces/patterns/query-error-boundary/query-error-boundary.module.code.tsx"
+import { QueryErrorBoundary } from "akasha/design/interfaces/patterns/modules/query-error-boundary/query-error-boundary.module.code.tsx"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import {
   PagesUILink as Link,

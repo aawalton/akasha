@@ -5,7 +5,7 @@ import type {
   FilterOperatorOption,
   PropertyTypeOps,
   PropertyValue,
-} from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
+} from "akasha/pages/core/property-types/modules/property-type-ops/property-type-ops.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import * as z from "zod"
 

@@ -12,7 +12,7 @@ import { runSshCapture } from "akasha/infrastructure/inference/pool/modules/infe
 import {
   buildQueryScript,
   parseActualState,
-} from "akasha/infrastructure/inference/pool/provision-script/provision-script.module.code.ts"
+} from "akasha/infrastructure/inference/pool/modules/provision-script/provision-script.module.code.ts"
 
 export async function inferenceStatus(argv: readonly string[], given: Given): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [])

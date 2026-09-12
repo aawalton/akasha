@@ -4,9 +4,9 @@ import type {
   FilterOperatorOption,
   PropertyTypeOps,
   PropertyValue,
-} from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
+} from "akasha/pages/core/property-types/modules/property-type-ops/property-type-ops.module.code.ts"
 import { parseConfig } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
-import { pathSelectConfigSchema } from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
+import { pathSelectConfigSchema } from "akasha/pages/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
 
 const DEFAULT_SEPARATOR = " > "
 

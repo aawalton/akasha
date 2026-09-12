@@ -12,7 +12,7 @@ import {
   getActionVerb,
   getActionVerbPresentation,
 } from "akasha/pages/ui/action-verbs/modules/action-verb-registry/action-verb-registry.module.code.ts"
-import type { PropertyBadgeProps } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
+import type { PropertyBadgeProps } from "akasha/pages/ui/components/modules/property-badge/property-badge.module.code.tsx"
 import { useSetPropertyOptimistic } from "akasha/pages/ui/supabase/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
 import { type MouseEvent, useEffect } from "react"
 

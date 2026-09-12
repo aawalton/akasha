@@ -8,7 +8,7 @@ import {
   readingAt,
   readingNone,
 } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
-import { put } from "akasha/testing-system/putting/putting.module.code.ts"
+import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()

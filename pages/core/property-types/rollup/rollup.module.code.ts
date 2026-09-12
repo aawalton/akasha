@@ -7,7 +7,7 @@ import type {
   FilterOperatorOption,
   PropertyTypeOps,
   PropertyValue,
-} from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
+} from "akasha/pages/core/property-types/modules/property-type-ops/property-type-ops.module.code.ts"
 
 export interface RollupConfig {
   readonly relationPropertyId: string

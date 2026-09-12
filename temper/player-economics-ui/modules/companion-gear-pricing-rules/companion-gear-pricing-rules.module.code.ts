@@ -5,7 +5,7 @@ import {
   lookupCompanionGearPrice,
   lookupCompanionGearPriceForSlot,
 } from "akasha/temper/trading-pricing/modules/companion-gear-price-lookup/companion-gear-price-lookup.module.code.ts"
-import type { PricingData } from "akasha/temper/trading-pricing/pricing-types/pricing-types.module.code.ts"
+import type { PricingData } from "akasha/temper/trading-pricing/modules/pricing-types/pricing-types.module.code.ts"
 
 const ARMOR_ITEM_NAMES: Record<string, Record<string, string>> = {
   head: { Light: "Hat", Medium: "Helmet", Heavy: "Helm" },

@@ -5,7 +5,7 @@ import { usePages } from "akasha/pages/ui/supabase/use-pages/use-pages.module.co
 import { assembleInventory } from "akasha/temper/items-core/modules/assemble-inventory/assemble-inventory.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 import { chunksStillLoading } from "akasha/temper/player-inventory-management-ui/modules/chunks-loading/chunks-loading.module.code.ts"
-import type { PricingData } from "akasha/temper/trading-pricing/pricing-types/pricing-types.module.code.ts"
+import type { PricingData } from "akasha/temper/trading-pricing/modules/pricing-types/pricing-types.module.code.ts"
 import { parseNumber } from "akasha/utils/narrow/modules/parse-number/parse-number.module.code.ts"
 import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
 import { useMemo } from "react"

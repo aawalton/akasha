@@ -4,7 +4,7 @@ import {
   type SelectOption,
   selectConfigSchema,
   selectOptionSchema,
-} from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
+} from "akasha/pages/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
 import * as z from "zod"
 
 const optionEntriesSchema = z.array(z.unknown())

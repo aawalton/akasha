@@ -1,6 +1,6 @@
 import type { PageDataJSON } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
-import type { AggregateFilter } from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
+import type { AggregateFilter } from "akasha/pages/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 export function matchesAggregateFilter(data: PageDataJSON, filter: AggregateFilter): boolean {

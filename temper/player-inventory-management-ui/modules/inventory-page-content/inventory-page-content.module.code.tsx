@@ -6,7 +6,7 @@ import {
   PageTitle,
 } from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
 import { tabbedPageSkeleton } from "akasha/design/interfaces/layout/skeleton-presets/skeleton-presets.module.code.ts"
-import { QueryErrorBoundary } from "akasha/design/interfaces/patterns/query-error-boundary/query-error-boundary.module.code.tsx"
+import { QueryErrorBoundary } from "akasha/design/interfaces/patterns/modules/query-error-boundary/query-error-boundary.module.code.tsx"
 import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
 import {
   PageTabsTrigger,

@@ -1,0 +1,54 @@
+import type { ApnsPayload } from "akasha/alan/harness/alanwalton-ios-notification/modules/apns-sending/apns-sending.module.code.ts"
+import {
+  type Feed,
+  NOTIFICATION_FEED_PAGE_TYPE_SLUG,
+} from "akasha/alan/harness/notification-feeds/modules/rows/notification-feed-rows.module.code.ts"
+import { buildPageHref } from "akasha/pages/url/modules/page-href/page-href.module.code.ts"
+import { toPageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
+import { SMILINGJENNY_PUSH_APP } from "akasha/persons/modules/push-apps/push-apps.module.code.ts"
+
+const SURPLUS_FALL_KIND = "surplus-fall"
+
+const DEEP_LINK_PATH_KEY = "path"
+
+export function notificationFeedRoute(feed: Feed): string {
+  return buildPageHref({
+    pageTypeSlug: toPageTypeSlug(NOTIFICATION_FEED_PAGE_TYPE_SLUG),
+    slug: feed.slug,
+    fallbackSlugSource: null,
+    id: feed.id,
+  })
+}
+
+export function buildApnsPayload(content: {
+  readonly title: string
+  readonly body: string
+  readonly route: string
+}): ApnsPayload {
+  return {
+    aps: { alert: { title: content.title, body: content.body }, sound: "default" },
+    [DEEP_LINK_PATH_KEY]: content.route,
+  }
+}
+
+export function buildSharedApnsPayload(content: {
+  readonly title: string
+  readonly body: string
+}): ApnsPayload {
+  return { aps: { alert: { title: content.title, body: content.body }, sound: "default" } }
+}
+
+export interface Recipient {
+  readonly userId: string
+  readonly ownsNotification: boolean
+}
+
+export function recipientsFor(args: {
+  readonly ownerUserId: string
+  readonly kind: string | null
+}): readonly Recipient[] {
+  const owner: Recipient = { userId: args.ownerUserId, ownsNotification: true }
+  if (args.kind !== SURPLUS_FALL_KIND) return [owner]
+  if (SMILINGJENNY_PUSH_APP.userId === args.ownerUserId) return [owner]
+  return [owner, { userId: SMILINGJENNY_PUSH_APP.userId, ownsNotification: false }]
+}

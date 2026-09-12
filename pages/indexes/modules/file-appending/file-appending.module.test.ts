@@ -7,7 +7,7 @@ import {
 import type {
   Carried,
   Facing,
-} from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
+} from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const ONE = "01a058c0-0000-7000-8000-000000000001"

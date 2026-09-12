@@ -7,7 +7,7 @@ import {
   isNativeShell,
   type PluginListenerHandle,
 } from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
-import { decideOpenUrlRoute } from "akasha/persons/push-routing/push-routing.module.code.ts"
+import { decideOpenUrlRoute } from "akasha/persons/modules/push-routing/push-routing.module.code.ts"
 import { useEffect, useRef } from "react"
 import { useNavigate } from "react-router"
 

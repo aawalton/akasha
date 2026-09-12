@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { planFor } from "akasha/code/ios-apps/modules/app-building/app-building.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
-import { put } from "akasha/testing-system/putting/putting.module.code.ts"
+import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const root = rootOf(import.meta.dir)

@@ -14,8 +14,8 @@ import type {
   FilterOperatorOption,
   PropertyTypeOps,
   PropertyValue,
-} from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
-import type { InstantFormat } from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
+} from "akasha/pages/core/property-types/modules/property-type-ops/property-type-ops.module.code.ts"
+import type { InstantFormat } from "akasha/pages/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 function isSentinelInstantValue(value: unknown): value is SentinelInstantValue {

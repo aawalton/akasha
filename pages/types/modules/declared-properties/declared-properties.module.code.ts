@@ -2,9 +2,9 @@ import type {
   Identifier,
   ScopedBy,
 } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
+import { shapeOf } from "akasha/pages/indexes/modules/property-shaping/property-shaping.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import type { Reading, Shape } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
-import { shapeOf } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
 import { addressIn, slugIn } from "akasha/pages/modules/address/page-address.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import {

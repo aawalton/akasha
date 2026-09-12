@@ -17,7 +17,7 @@ import { runSshCapture } from "akasha/infrastructure/inference/pool/modules/infe
 import {
   buildMfluxQueryScript,
   parseMfluxTools,
-} from "akasha/infrastructure/inference/pool/provision-script/provision-script.module.code.ts"
+} from "akasha/infrastructure/inference/pool/modules/provision-script/provision-script.module.code.ts"
 import {
   everyInference,
   type Inference,

@@ -1,6 +1,6 @@
+import { fileOf } from "akasha/pages/indexes/modules/property-file/property-file.module.code.ts"
 import { valuedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
-import { fileOf } from "akasha/pages/indexes/property-file/property-file.module.code.ts"
 
 const MODULE = "module"
 

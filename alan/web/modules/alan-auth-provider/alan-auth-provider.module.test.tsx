@@ -93,7 +93,7 @@ mock.module("akasha/alan/web/modules/offline-text-sync/offline-text-sync.module.
   OfflineTextSync: nullComponent,
 }))
 mock.module(
-  "akasha/alan/web/push-registration-sync/push-registration-sync.module.code.tsx",
+  "akasha/alan/web/modules/push-registration-sync/push-registration-sync.module.code.tsx",
   () => ({
     PushRegistrationSync: nullComponent,
   })

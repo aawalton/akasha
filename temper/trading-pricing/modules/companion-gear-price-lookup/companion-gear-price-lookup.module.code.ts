@@ -6,7 +6,7 @@ import { isPriceEntry } from "akasha/temper/trading-pricing/modules/is-price-ent
 import type {
   PricingData,
   TTCPriceEntry,
-} from "akasha/temper/trading-pricing/pricing-types/pricing-types.module.code.ts"
+} from "akasha/temper/trading-pricing/modules/pricing-types/pricing-types.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 
 const ARMOR_TTC_ITEMS: Record<string, string> = {

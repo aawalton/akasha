@@ -8,7 +8,7 @@ import {
   KUBE_STATE_METRICS_LABELS,
   KUBE_STATE_METRICS_SELECTOR_LABELS,
   NAMESPACE,
-} from "akasha/infrastructure/telemetry/prometheus-constants/prometheus-constants.module.code.ts"
+} from "akasha/infrastructure/telemetry/modules/prometheus-constants/prometheus-constants.module.code.ts"
 
 export function kubeStateMetricsRbacYaml(): string {
   return synthMulti(NAMESPACE, [

@@ -1,4 +1,4 @@
-import { onTheWorkstation } from "akasha/alan/harness/alanwalton-ios-notification/push-device-tokens/push-device-tokens.module.code.ts"
+import { onTheWorkstation } from "akasha/alan/harness/alanwalton-ios-notification/modules/push-device-tokens/push-device-tokens.module.code.ts"
 import { stilled } from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.code.ts"
 import { stated } from "akasha/alan/harness/readouts/none-left/readout-none-left.module.code.ts"
 import { sleepIn } from "akasha/alan/harness/readouts/pages/upkeep-sleep/upkeep-sleep.readout.code.ts"

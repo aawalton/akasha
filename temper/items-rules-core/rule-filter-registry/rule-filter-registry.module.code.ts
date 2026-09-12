@@ -21,7 +21,7 @@ import { MERCHANT_VALUE_FILTER } from "akasha/temper/items-rules-core/modules/me
 import { NEEDED_FOR_TARGET_CHARACTER_BUILD_FILTER } from "akasha/temper/items-rules-core/modules/needed-for-target-character-build-filter/needed-for-target-character-build-filter.module.code.ts"
 import { NEEDED_FOR_TARGET_COMPANION_BUILD_FILTER } from "akasha/temper/items-rules-core/modules/needed-for-target-companion-build-filter/needed-for-target-companion-build-filter.module.code.ts"
 import { POTION_EFFECTS_FILTER } from "akasha/temper/items-rules-core/modules/potion-effects-filter/potion-effects-filter.module.code.ts"
-import { QUEST_RELEVANT_FILTER } from "akasha/temper/items-rules-core/quest-relevant-filter/quest-relevant-filter.module.code.ts"
+import { QUEST_RELEVANT_FILTER } from "akasha/temper/items-rules-core/modules/quest-relevant-filter/quest-relevant-filter.module.code.ts"
 import { RECONSTRUCTED_FILTER } from "akasha/temper/items-rules-core/reconstructed-filter/reconstructed-filter.module.code.ts"
 import { REPLACEMENT_VALUE_FILTER } from "akasha/temper/items-rules-core/replacement-value-filter/replacement-value-filter.module.code.ts"
 import { REQUIRED_CURSE_STATE_FILTER } from "akasha/temper/items-rules-core/required-curse-state-filter/required-curse-state-filter.module.code.ts"

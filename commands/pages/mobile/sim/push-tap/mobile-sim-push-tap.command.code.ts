@@ -14,7 +14,7 @@ import {
   buildApnsPayload,
   buildPushTapScript,
   PUSH_TAP_APNS_AT,
-} from "akasha/alan/harness/mobile-cli/push-tap-script/push-tap-script.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/modules/push-tap-script/push-tap-script.module.code.ts"
 import {
   ensureAppium,
   resolveAndBootSim,

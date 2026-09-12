@@ -1,5 +1,5 @@
 import { isPriceEntry } from "akasha/temper/trading-pricing/modules/is-price-entry/is-price-entry.module.code.ts"
-import type { PricingData } from "akasha/temper/trading-pricing/pricing-types/pricing-types.module.code.ts"
+import type { PricingData } from "akasha/temper/trading-pricing/modules/pricing-types/pricing-types.module.code.ts"
 
 interface CurrencyConversionItem {
   ttcItemId: string

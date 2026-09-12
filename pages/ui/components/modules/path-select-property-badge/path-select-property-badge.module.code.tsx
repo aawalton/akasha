@@ -4,8 +4,8 @@ import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.modul
 import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import { getValueArray } from "akasha/pages/core/property-types/modules/path-select/path-select.module.code.ts"
 import { parseConfig } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
-import { pathSelectConfigSchema } from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
-import type { PropertyBadgeProps } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
+import { pathSelectConfigSchema } from "akasha/pages/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
+import type { PropertyBadgeProps } from "akasha/pages/ui/components/modules/property-badge/property-badge.module.code.tsx"
 
 const DEFAULT_SEPARATOR = " > "
 

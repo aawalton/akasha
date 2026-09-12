@@ -1,4 +1,4 @@
-import type { PatchPropertyDefinitionArgs } from "akasha/pages/access/property-definition/property-definition.module.code.ts"
+import type { PatchPropertyDefinitionArgs } from "akasha/pages/access/modules/property-definition/property-definition.module.code.ts"
 import type {
   PageDataJSON,
   PropertyDefinition,

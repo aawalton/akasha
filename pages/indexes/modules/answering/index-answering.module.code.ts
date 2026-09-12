@@ -15,6 +15,13 @@ import {
   sidecarsOver,
 } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
 import {
+  carryingOf,
+  type Declaring,
+  declaringOf,
+  type Carried as Reached,
+} from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
+import { shapesAt } from "akasha/pages/indexes/modules/property-shaping/property-shaping.module.code.ts"
+import {
   everyOfType,
   everyPath,
   filesIn,
@@ -38,13 +45,6 @@ import type {
   Shape as Filed,
   Reading,
 } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
-import {
-  carryingOf,
-  type Declaring,
-  declaringOf,
-  type Carried as Reached,
-} from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
-import { shapesAt } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
 import { knownIn, type Shaped } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import { ruleShort, type Said, saidOf } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"

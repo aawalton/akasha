@@ -11,7 +11,7 @@ import {
 import {
   aggregateConfigSchema,
   formulaConfigSchema,
-} from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
+} from "akasha/pages/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
 import type * as z from "zod"
 
 const MAX_ROLLUP_DEPTH = 10

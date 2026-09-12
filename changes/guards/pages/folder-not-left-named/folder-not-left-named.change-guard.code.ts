@@ -17,7 +17,7 @@ import { typed } from "akasha/code/modules/typing/code-typing.module.code.ts"
 import {
   generatedIn,
   groupWrites,
-} from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
+} from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
 
 const UNDER = "/"
 

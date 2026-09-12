@@ -19,7 +19,7 @@ import { DegradingImage } from "akasha/pages/ui/components/modules/degrading-ima
 import { toPageDataJSON } from "akasha/pages/ui/components/modules/page-data-json/page-data-json.module.code.ts"
 import { PageDetailHeaderMenu } from "akasha/pages/ui/components/modules/page-detail-header-menu/page-detail-header-menu.module.code.tsx"
 import { PagesFilteredContent } from "akasha/pages/ui/components/modules/pages-by-relation-content/pages-by-relation-content.module.code.tsx"
-import { PropertyBadge } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
+import { PropertyBadge } from "akasha/pages/ui/components/modules/property-badge/property-badge.module.code.tsx"
 import { PagesUILink } from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { useAllPages } from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { useResolvedDefinitions } from "akasha/pages/ui/supabase/use-option-list-lookup/use-option-list-lookup.module.code.ts"

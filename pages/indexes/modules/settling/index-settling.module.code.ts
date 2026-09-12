@@ -33,6 +33,7 @@ import {
   sidecarsOver,
   under,
 } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
+import { shapesAt } from "akasha/pages/indexes/modules/property-shaping/property-shaping.module.code.ts"
 import {
   indexThere,
   valuesOfType,
@@ -43,7 +44,6 @@ import {
   readingNone,
 } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import { claimingIn } from "akasha/pages/indexes/path/index-path.index.code.ts"
-import { shapesAt } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
 import { knownIn, type Shaped } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import {
   NOTHING_FILED,

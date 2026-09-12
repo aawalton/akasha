@@ -5,13 +5,13 @@ import type {
   FilterOperatorOption,
   PropertyTypeOps,
   PropertyValue,
-} from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
+} from "akasha/pages/core/property-types/modules/property-type-ops/property-type-ops.module.code.ts"
 import {
   findOption,
   type OptionLike,
 } from "akasha/pages/core/property-types/select/select.module.code.ts"
 import { parseConfig } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
-import { multiSelectConfigSchema } from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
+import { multiSelectConfigSchema } from "akasha/pages/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
 
 export function getOptions(definition: PropertyDefinition): readonly OptionLike[] {
   return parseConfig(multiSelectConfigSchema, definition.config, { options: [] }).options

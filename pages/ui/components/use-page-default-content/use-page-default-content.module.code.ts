@@ -1,6 +1,6 @@
 "use client"
 
-import { patchPropertyDefinitionById } from "akasha/pages/access/property-definition/property-definition.module.code.ts"
+import { patchPropertyDefinitionById } from "akasha/pages/access/modules/property-definition/property-definition.module.code.ts"
 import type { IconName } from "akasha/pages/core/generated/modules/icon-search-index/icon-search-index.module.code.ts"
 import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import { computeAggregatesForPage } from "akasha/pages/core/property-types/modules/aggregate/aggregate.module.code.ts"

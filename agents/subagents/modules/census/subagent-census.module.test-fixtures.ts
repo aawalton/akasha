@@ -14,7 +14,7 @@ import {
   TAKING,
   WRITING,
 } from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
-import { put } from "akasha/testing-system/putting/putting.module.code.ts"
+import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
 
 export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
 

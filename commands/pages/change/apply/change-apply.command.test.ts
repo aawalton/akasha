@@ -8,7 +8,7 @@ import { baseOf as headOf } from "akasha/commands/modules/landing-change-composi
 import { CHOSEN } from "akasha/commands/pages/change/apply/change-apply.command.code.ts"
 import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { REFUSES_CODE } from "akasha/testing-system/modules/minting/minting.module.code.ts"
-import { put } from "akasha/testing-system/putting/putting.module.code.ts"
+import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
 import {
   AGENT,
   applied,

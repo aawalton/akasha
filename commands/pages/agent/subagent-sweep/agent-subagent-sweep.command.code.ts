@@ -1,6 +1,6 @@
 import { resolve } from "node:path"
 import type { ProcLivenessEntry } from "akasha/agents/modules/proc-liveness/agent-proc-liveness.module.code.ts"
-import { scanProcEntries } from "akasha/agents/proc-scan/proc-scan.module.code.ts"
+import { scanProcEntries } from "akasha/agents/modules/proc-scan/proc-scan.module.code.ts"
 import { dropReadings } from "akasha/agents/read-record/read-record.module.code.ts"
 import { parseSeatProcKey } from "akasha/agents/seats/modules/proc-key/seat-proc-key.module.code.ts"
 import { transcriptOf } from "akasha/agents/seats/modules/transcript-path/seat-transcript-path.module.code.ts"

@@ -4,7 +4,7 @@ import {
   isInvalidCredentialsError,
   signInWithPassword,
 } from "akasha/alan/harness/supabase-auth/modules/auth/auth.module.code.ts"
-import { assertCredentialPathAllowed } from "akasha/alan/harness/supabase-auth/protected-user/protected-user.module.code.ts"
+import { assertCredentialPathAllowed } from "akasha/alan/harness/supabase-auth/modules/protected-user/protected-user.module.code.ts"
 import { createClient } from "akasha/alan/harness/supabase-client/user-client/user-client.module.code.ts"
 import {
   DEFAULT_THROWAWAY_EMAIL,

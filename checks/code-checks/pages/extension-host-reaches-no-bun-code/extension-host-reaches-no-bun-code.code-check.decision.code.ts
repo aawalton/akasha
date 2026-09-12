@@ -11,7 +11,7 @@ import {
   skimmedAs,
 } from "akasha/code/modules/source/code-source.module.code.ts"
 import { landingOf, type Naming } from "akasha/code/modules/specifier/code-specifier.module.code.ts"
-import type { Carried } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
+import type { Carried } from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"

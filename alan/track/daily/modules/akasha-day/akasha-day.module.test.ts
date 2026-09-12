@@ -6,7 +6,7 @@ import {
   rowsText,
   turnedRows,
 } from "akasha/alan/track/daily/modules/akasha-day/akasha-day.module.code.ts"
-import { put } from "akasha/testing-system/putting/putting.module.code.ts"
+import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()

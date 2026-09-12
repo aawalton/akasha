@@ -1,10 +1,10 @@
+import { shapesAt } from "akasha/pages/indexes/modules/property-shaping/property-shaping.module.code.ts"
 import {
   everyOfType,
   type Listed,
   listedEvery,
 } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
-import { shapesAt } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
 import {
   addressIn,
   type PageAddress,

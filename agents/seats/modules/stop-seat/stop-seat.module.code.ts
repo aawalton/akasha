@@ -1,5 +1,5 @@
 import { liveAgentPidsFromProc } from "akasha/agents/modules/proc-liveness/agent-proc-liveness.module.code.ts"
-import { scanProcEntries } from "akasha/agents/proc-scan/proc-scan.module.code.ts"
+import { scanProcEntries } from "akasha/agents/modules/proc-scan/proc-scan.module.code.ts"
 import { seatRecord } from "akasha/agents/seats/modules/facts/seat-facts.module.code.ts"
 import { decideKillTarget } from "akasha/agents/seats/modules/kill-target-plan/kill-target-plan.module.code.ts"
 import { killSeatSession } from "akasha/agents/seats/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts"
@@ -11,7 +11,7 @@ import {
 } from "akasha/agents/subagents/modules/page/subagent-page.module.code.ts"
 import { inputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
-import { ending } from "akasha/utils/process/process-ending/process-ending.module.code.ts"
+import { ending } from "akasha/utils/process/modules/process-ending/process-ending.module.code.ts"
 
 const SEAT_STOP_STATUSES = ["stopped", "already-exited", "reconciled"] as const
 

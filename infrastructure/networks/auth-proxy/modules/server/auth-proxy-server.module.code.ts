@@ -6,11 +6,11 @@ import {
 import {
   passthroughRequest,
   proxyRequest,
-} from "akasha/infrastructure/networks/auth-proxy/proxy/proxy.module.code.ts"
+} from "akasha/infrastructure/networks/auth-proxy/modules/proxy/proxy.module.code.ts"
 import {
   buildStubResponse,
   fetchOrBadGateway,
-} from "akasha/infrastructure/networks/auth-proxy/proxy-core/proxy-core.module.code.ts"
+} from "akasha/infrastructure/networks/auth-proxy/modules/proxy-core/proxy-core.module.code.ts"
 import { validateSession } from "akasha/infrastructure/networks/auth-proxy/session-identity/session-identity.module.code.ts"
 import {
   buildTargetUrl,

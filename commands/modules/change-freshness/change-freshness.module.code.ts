@@ -11,7 +11,7 @@ import {
   type Facing,
   facingOn,
   writerAt,
-} from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
+} from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
 
 const HERE = "."
 

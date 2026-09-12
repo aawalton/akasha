@@ -1,4 +1,4 @@
-import type { TTCPriceEntry } from "akasha/temper/trading-pricing/pricing-types/pricing-types.module.code.ts"
+import type { TTCPriceEntry } from "akasha/temper/trading-pricing/modules/pricing-types/pricing-types.module.code.ts"
 import type {
   TTCListingEntry,
   TTCListingSearchParams,

@@ -3,7 +3,7 @@ import { skills } from "akasha/temper/character-skills/modules/character-skills/
 import type {
   ArmorShape,
   WeaponBarShape,
-} from "akasha/temper/character-skills/query-shapes/query-shapes.module.code.ts"
+} from "akasha/temper/character-skills/modules/query-shapes/query-shapes.module.code.ts"
 import { weaponTypes } from "akasha/temper/characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
 import type { StandardArmorWeightId } from "akasha/temper/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
 import type { RaceId } from "akasha/temper/races/races/races.module.code.ts"

@@ -1,4 +1,4 @@
-import { assertCredentialPathAllowed } from "akasha/alan/harness/supabase-auth/protected-user/protected-user.module.code.ts"
+import { assertCredentialPathAllowed } from "akasha/alan/harness/supabase-auth/modules/protected-user/protected-user.module.code.ts"
 import type {
   BrowserTestEnv,
   RealUserOptInEnv,

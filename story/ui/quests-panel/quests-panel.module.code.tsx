@@ -4,8 +4,8 @@ import type { ClientQuest } from "akasha/story/ui/modules/client-session/client-
 import {
   QuestFields,
   QuestStatusBadge,
-} from "akasha/story/ui/quest-card/quest-card.module.code.tsx"
-import { deriveQuestPanel } from "akasha/story/ui/quest-projection/quest-projection.module.code.ts"
+} from "akasha/story/ui/modules/quest-card/quest-card.module.code.tsx"
+import { deriveQuestPanel } from "akasha/story/ui/modules/quest-projection/quest-projection.module.code.ts"
 
 function QuestRow({ quest }: { quest: ClientQuest }) {
   return (
