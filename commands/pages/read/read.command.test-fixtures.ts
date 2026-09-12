@@ -165,6 +165,11 @@ export function heldRoot(body = "one\n"): string {
   return rootWith([{ at: HELD, body }])
 }
 
+export function heldRead(body?: string): Rooted {
+  const root = heldRoot(body)
+  return { root, said: read(["--file-path", HELD], givenFor(root)) }
+}
+
 export function namingEach(paths: readonly string[]): readonly string[] {
   const said: string[] = []
   for (const one of paths) said.push("--file-path", one)
@@ -283,20 +288,19 @@ export const THING = "akasha/one/held.thing.ts"
 
 export const THING_TYPE = "akasha/kind/thing.page-type.ts"
 
-export const PAGE_TYPE = "akasha/kind/page.page-type.ts"
+const PAGE_TYPE = "akasha/kind/page.page-type.ts"
 
 export const STRAY = "../elsewhere.ts"
 
-export type Planted = {
+type Planted = {
   readonly slug: string
   readonly name: string
   readonly code: string
 }
 
-export const THING_BODY =
-  'export const thing = { slug: "thing", extendsSlug: ["page-type/page"] }\n'
+const THING_BODY = 'export const thing = { slug: "thing", extendsSlug: ["page-type/page"] }\n'
 
-export const PAGE_BODY = 'export const page = { slug: "page", extendsSlug: [] }\n'
+const PAGE_BODY = 'export const page = { slug: "page", extendsSlug: [] }\n'
 
 const TYPES: readonly {
   readonly slug: string
@@ -381,7 +385,7 @@ export function headedIn(report: readonly string[], path: string): number {
   return report.filter((one) => one.startsWith(`${path} —`)).length
 }
 
-export function straying(slug: string, name: string, path: string): Planted {
+function straying(slug: string, name: string, path: string): Planted {
   return {
     slug,
     name,
@@ -412,7 +416,7 @@ function pageFor(one: Planted, id: string): string {
   ].join("\n")
 }
 
-export function rootWarranting(
+function rootWarranting(
   named: readonly { readonly at: string; readonly body: string | Uint8Array }[],
   also: readonly Planted[] = []
 ): string {

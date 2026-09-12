@@ -31,6 +31,7 @@ import {
   givenFor,
   HELD,
   headedIn,
+  heldRead,
   heldRoot,
   LONG,
   leftIn,
@@ -68,8 +69,7 @@ import {
 afterAll(scratch.sweep)
 
 test("a file inside akasha comes back whole and line-numbered", () => {
-  const root = heldRoot("one\ntwo\nthree\n")
-  const said = read(["--file-path", HELD], givenFor(root))
+  const said = heldRead("one\ntwo\nthree\n").said
   expect(said.code).toBe(0)
   expect(said.refusals).toEqual([])
   expect(said.report[0]).toBe("akasha/one/held.ts — the whole file follows, 3 lines")
@@ -202,8 +202,7 @@ test("the call for the rest reads exactly what was left, and then the set is don
 })
 
 test("a read records the body that reached the agent", () => {
-  const root = heldRoot("one\ntwo\n")
-  const said = read(["--file-path", HELD], givenFor(root))
+  const { root, said } = heldRead("one\ntwo\n")
   expect(said.code).toBe(0)
   const held = readingIn(root, AGENT, HELD)
   expect(held?.oid).toBe(blobIdOf(bodyOf("one\ntwo\n")))
@@ -320,9 +319,7 @@ test("a committed body is found again, so a moved body is what changed", () => {
 })
 
 test("an agent whose record holds nothing gets the body whole", () => {
-  const root = heldRoot()
-  const said = read(["--file-path", HELD], givenFor(root))
-  expect(said.report.join("\n")).toContain("the whole file follows")
+  expect(heldRead().said.report.join("\n")).toContain("the whole file follows")
 })
 
 test("a read naming no file hands back the types it is under, and records them", () => {
