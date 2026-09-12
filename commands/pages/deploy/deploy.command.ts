@@ -27,10 +27,6 @@ export const deploy = {
   ],
   taking: [
     {
-      said: "--measured",
-      takes: "run the whole deploy under no ceiling, so what it cost is recorded",
-    },
-    {
       said: "--simulator",
       takes: "install an ios app on a simulator rather than hand it to Apple",
     },
@@ -257,5 +253,6 @@ export const deploy = {
     { argument: "argument/deploy-subject", required: true, saidAs: "word" },
     { argument: "argument/no-upload" },
     { argument: "argument/ref" },
+    { argument: "argument/measured" },
   ],
 } as const satisfies Command
