@@ -15,7 +15,7 @@ export const emberInventoryRules = {
     {
       statement: "The reading outside the game resolves a destination chain as the addon does.",
       workingMemory:
-        "Item 71779, rule 440d6e66. The addon was right: `resolveStockChainForCurrentChar` fills the character to the tier's targetQuantity, reads charEligibility, and sends on only the surplus. Alan holds ten and is eligible, so no surplus exists and nothing should move. The label lied, and f57605c makes it `Stock x10, rest to Bank`. Left: `resolveDestination` offline gives concrete empty for a rule carrying no flat destination and never reads destinationChain, so explain and plan show no tier.",
+        "Item 71779, rule 440d6e66. `resolveDestination` plans a stock rule's chain through `planStockChainVisit`, the planner the addon plans it through, so `explain 71779` answers destination `bank` and label `Stock x10`. `EvalEnv` gained the three eligibility lookups: off the game the ranks and the curse state come from the characters capture, and whether a character can level a morph is unknown. Left: plan routes a chain through items-rules-routing rather than through `resolveDestination`.",
     },
     {
       statement:
