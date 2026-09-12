@@ -6,9 +6,10 @@ import {
   type Source,
   type Subject,
 } from "akasha/pages/computing/page-computing.module.code.ts"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 
 function held(slug: string, holds: string, work: Computed["work"]): Computed {
-  return { slug, key: slug.replace(/-(.)/g, (_, one: string) => one.toUpperCase()), holds, work }
+  return { slug, key: exportedAs(slug), holds, work }
 }
 
 function sourceOf(pages: Readonly<Record<string, Subject>>): Source {
