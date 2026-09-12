@@ -10,11 +10,6 @@ export const musicRate = {
   taking: [
     { said: "--target <artist|song>", takes: "which sort of page the grade is recorded onto" },
 
-    {
-      said: "--personal-connections <md>",
-      takes: "what a song is tied to in Alan's own life, for `--target song`",
-    },
-
     { said: "--insights <md>", takes: "what Alan found in a song, for `--target song`" },
   ],
   invariants: [
@@ -72,5 +67,6 @@ export const musicRate = {
     { argument: "argument/personal-connections-file" },
     { argument: "argument/insights-file" },
     { argument: "argument/reaction", notWith: ["argument/reaction-file"] },
+    { argument: "argument/personal-connections", notWith: ["argument/personal-connections-file"] },
   ],
 } as const satisfies Command
