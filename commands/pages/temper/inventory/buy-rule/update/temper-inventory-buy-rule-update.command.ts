@@ -17,16 +17,15 @@ export const temperInventoryBuyRuleUpdate = {
     { said: "--active <true|false>", takes: "whether the rule is active" },
     { said: "--force", takes: "change it even where it is locked" },
   ],
-  helpNotes: [
-    "a locked buy rule is refused rather than changed, unless `--force` is said.",
-    "a title, a note and a goal are held for the web alone and never reach the addon.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "A locked buy rule is refused unless the call says `--force`.",
     },
-
+    {
+      invariantKind: "absence",
+      statement: "Nothing the web alone shows reaches the addon.",
+    },
     {
       invariantKind: "departure",
       statement: "An id no buy rule has refuses the call.",
