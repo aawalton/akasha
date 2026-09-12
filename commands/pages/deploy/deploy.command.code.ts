@@ -4,6 +4,7 @@ import {
   INPUT,
   OK,
   OPERATIONAL,
+  partWay,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { answeredWith, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -77,8 +78,7 @@ const NOTHING_UP =
   "the deploy stopped part way, and nothing it puts up had reached a machine at this commit"
 
 export function stoppedPartWay(up: readonly string[]): string {
-  if (up.length === 0) return NOTHING_UP
-  return `the deploy stopped part way. What it put up at this commit is ${up.join("; ")}. Nothing after that is up.`
+  return partWay(up)[0] ?? NOTHING_UP
 }
 
 export const PINNED: ReadonlySet<string> = new Set([

@@ -245,6 +245,10 @@ export const deploy = {
     },
     {
       invariantKind: "departure",
+      statement: "It names them in the sentence every command's refusal names them in.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A deploy that threw before any of them says so rather than saying it may be partial.",
     },

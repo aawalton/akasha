@@ -1,4 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
+import { partWay } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { commitAt } from "akasha/commands/pages/deploy/commit-naming/deploy-commit-naming.module.code.ts"
 import { recordedCommit } from "akasha/commands/pages/deploy/commit-recording/deploy-commit-recording.module.code.ts"
 import type { PuttingUp } from "akasha/commands/pages/deploy/deploy.command.code.ts"
@@ -176,4 +177,13 @@ test("a deploy that threw before anything reached a machine says that rather tha
 test("what a deploy put up is named in the refusal rather than counted", () => {
   expect(stoppedPartWay(["one", "two"])).toContain("one; two")
   expect(stoppedPartWay([])).not.toContain("what it put up")
+})
+
+test("what a deploy put up is said in the sentence every refusal says it in", () => {
+  expect(stoppedPartWay(["one", "two"])).toBe(partWay(["one", "two"])[0] as string)
+})
+
+test("a deploy that put nothing up says so, which that sentence does not", () => {
+  expect(partWay([])).toEqual([])
+  expect(stoppedPartWay([])).toContain("nothing it puts up had reached a machine")
 })
