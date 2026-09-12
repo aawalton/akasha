@@ -82,6 +82,14 @@ export const pendingMaintaining = {
     },
     {
       invariantKind: "departure",
+      statement: "A settled run ending is where this leaves for code that moved.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every run here is whole before it returns, which makes its end a safe point.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run stopped part way leaves every seat that run reached correct.",
     },
     {

@@ -50,6 +50,18 @@ export const inboxCountWatch = {
     },
     {
       invariantKind: "departure",
+      statement: "A take opening is where this watch leaves for code that moved.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No take is running there, which is what makes a take opening a safe point.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A take left rather than made is made again by the watch that opens next.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The day written and the day counted are one ESO day settled once.",
     },
     {

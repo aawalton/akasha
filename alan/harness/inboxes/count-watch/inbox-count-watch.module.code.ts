@@ -17,6 +17,7 @@ import {
   relayReading,
   statedIn,
 } from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
+import { leftWhereCodeMoved } from "akasha/infrastructure/services/workstations/code-moving/code-moving.module.code.ts"
 import { followFolders } from "akasha/infrastructure/services/workstations/file-following/file-following.module.code.ts"
 import {
   AKASHA,
@@ -82,6 +83,7 @@ export function watchInboxCounts(to: string, log: WatchLogger): () => undefined 
     try {
       do {
         owed = false
+        leftWhereCodeMoved()
         const now = new Date()
         const day = getEsoDayStr(now)
         const counts = await pollTaskCounts(day)
