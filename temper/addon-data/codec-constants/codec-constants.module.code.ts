@@ -5,6 +5,7 @@ import {
   TARGET_ARMOR_BITS,
   TARGET_HEALTH_BITS,
 } from "akasha/temper/addon-data/codec-widths/codec-widths.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import {
   AFFIX_SCRIPT_BITS,
   ALLIANCE_BITS,
@@ -71,7 +72,7 @@ export function generateCodecConstants(): string {
  *         temper/build-codec/build-codec-indices/build-codec-indices.module.code.ts
  *         temper/addon-data/codec-widths/codec-widths.module.code.ts
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 // =========================================================================

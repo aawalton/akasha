@@ -1,3 +1,4 @@
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { potions } from "akasha/temper/alchemy/potion-source/potion-source.module.code.ts"
 import {
   ALCHEMY_EFFECT_IDS,
@@ -106,7 +107,7 @@ export function generatePotionMappings(): string {
  *
  * Source: engine/alchemy/potions-source.ts, engine/alchemy/potion-encoded-traits.ts
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 /** Crown/dropped potion itemId → codec index */
