@@ -37,7 +37,7 @@ function givenIn(): Given {
 }
 
 function rootWith(color: string): string {
-  const at = mkdtempSync(join("/var/tmp", "agent-turn-colors-test-"))
+  const at = mkdtempSync(join("/var/tmp", "agent-turn-color-list-test-"))
   mkdirSync(join(at, dirname(WORKING_PAGE)), { recursive: true })
   colorIn(at, color)
   return at
