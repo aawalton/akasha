@@ -10,6 +10,7 @@ import {
   createSubagentReader,
   type SubagentNode,
 } from "akasha/code/editor/extension/subagent-reading/subagent-reading.module.code.ts"
+import { partWay } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
 import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
@@ -172,18 +173,13 @@ export function seatNamedIn(root: string, seatId: string): string | null {
   return named.slug
 }
 
-export function alsoLanded(why: string, done: readonly string[]): string {
-  if (done.length === 0) return why
-  return `${why} — ${done.join(", ")} landed before it stopped, so read that commit`
+export function wentOn(went: Went, done: readonly string[]): Went {
+  return "why" in went ? { why: [went.why, ...partWay(done)].join(" ") } : went
 }
 
 function wentBy(landed: Awaited<ReturnType<Landing>>, done: readonly string[] = []): Went {
   const wrong = "refusals" in landed ? landed.refusals : landed.wrong
-  return wrong.length > 0 ? { why: alsoLanded(wrong.join(" ").trim(), done) } : WENT
-}
-
-function wentOn(went: Went, done: readonly string[]): Went {
-  return "why" in went ? { why: alsoLanded(went.why, done) } : went
+  return wrong.length > 0 ? wentOn({ why: wrong.join(" ").trim() }, done) : WENT
 }
 
 export async function wrote(
