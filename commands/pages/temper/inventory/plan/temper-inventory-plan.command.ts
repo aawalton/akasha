@@ -30,7 +30,20 @@ export const temperInventoryPlan = {
     },
     {
       invariantKind: "departure",
-      statement: "The unmapped report names the items no rule reaches rather than the plan.",
+      statement:
+        "The unmapped report names the items reaching the end of the rules with no rule acting on them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The rules end in every trailing rule reaching every item and acting on none.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule the matcher ends with and one Alan ends with end the rules alike.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No rule a condition narrows ends the rules, whatever that rule's action.",
     },
     {
       invariantKind: "departure",

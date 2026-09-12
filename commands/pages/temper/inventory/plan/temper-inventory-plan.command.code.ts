@@ -35,9 +35,15 @@ import {
 } from "akasha/temper/commands/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 import type { ClassifiableItem } from "akasha/temper/items-core/item-category-tree-types/item-category-tree-types.module.code.ts"
-import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
-import type { ClassifiedInventoryItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
-import { IMPLICIT_TERMINAL_RULE_ID } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import {
+  type CompiledOrderedRule,
+  IMPLICIT_TERMINAL_COMPILED_RULE,
+} from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+import type {
+  AffectedItem,
+  ClassifiedInventoryItem,
+} from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import { ALL_CATEGORIES_ID } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {
   CharacterSession,
   ManagementPlan,
@@ -150,6 +156,35 @@ export function unmappedSaid(stacks: readonly TakenStack[]): readonly string[] {
   return lines
 }
 
+const NO_CONDITION_KEYS = new Set(["id", "action", "destination", "categoryId", "active"])
+
+export function endsTheRules(rule: CompiledOrderedRule): boolean {
+  if (rule.action !== "nothing") return false
+  if (rule.categoryId !== ALL_CATEGORIES_ID) return false
+  return Object.entries(rule).every(
+    ([key, held]) => held === undefined || NO_CONDITION_KEYS.has(key)
+  )
+}
+
+export function endingRuleIds(rules: readonly CompiledOrderedRule[]): readonly string[] {
+  const ids: string[] = []
+  for (let at = rules.length - 1; at >= 0; at -= 1) {
+    const rule = rules[at]
+    if (rule === undefined || !endsTheRules(rule)) break
+    if (rule.active !== false) ids.push(rule.id ?? `rule#${at}`)
+  }
+  return ids
+}
+
+export function unmappedItems(
+  ruleMap: ReadonlyMap<string, readonly AffectedItem[]>,
+  rules: readonly CompiledOrderedRule[]
+): readonly AffectedItem[] {
+  const held: AffectedItem[] = []
+  for (const id of endingRuleIds(rules)) held.push(...(ruleMap.get(id) ?? []))
+  return held
+}
+
 function classifiedFor(
   db: InventoryDatabase,
   toNodeIds: (item: ClassifiableItem) => readonly string[]
@@ -223,7 +258,8 @@ export async function temperInventoryPlan(argv: readonly string[], given: Given)
       itemRules
     )
     if (taken.unmapped) {
-      const stacks = ordered(gatheredByItem(matched.ruleMap.get(IMPLICIT_TERMINAL_RULE_ID) ?? []))
+      const walked = [...orderedRules, IMPLICIT_TERMINAL_COMPILED_RULE]
+      const stacks = ordered(gatheredByItem(unmappedItems(matched.ruleMap, walked)))
       if (taken.json) return told(JSON.stringify(stacks, null, SPACES).split("\n"))
       return told(unmappedSaid(stacks))
     }
