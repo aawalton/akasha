@@ -123,6 +123,7 @@ export const command = {
     "module/unit-landing",
     "module/command-failing",
     "module/argument-narrowing",
+    "module/payload",
   ],
   extends: ["page-type/module"],
   loadedBy: "module/calling",

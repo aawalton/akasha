@@ -3,7 +3,7 @@ import {
   readPayload,
   record,
   rejectUnknownFlags,
-} from "akasha/seat-system/payload/payload.module.code.ts"
+} from "akasha/commands/modules/payload/payload.module.code.ts"
 import { stateSeatFromArgv } from "akasha/seat-system/seat-running/seat-running.module.code.ts"
 import {
   type SeatWhoami,

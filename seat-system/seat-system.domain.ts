@@ -142,7 +142,6 @@ export const seatSystem = {
     "module/run-supervisor",
     "module/gated-landing",
     "module/gated-write",
-    "module/payload",
     "module/seat-call",
     "module/seat-running",
     "module/seat-turn-color",
