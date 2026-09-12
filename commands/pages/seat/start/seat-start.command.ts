@@ -8,10 +8,6 @@ export const seatStart = {
   code: "ts",
   taking: [
     {
-      said: "--principal <slug>",
-      takes: "who this seat's output is for — a person, or `agent` for the fleet",
-    },
-    {
       said: "--flex <flex-n>",
       takes: "`flex-` and a number, which is what keeps it out of every vocabulary",
     },
@@ -75,5 +71,6 @@ export const seatStart = {
     { argument: "argument/persona" },
     { argument: "argument/role" },
     { argument: "argument/seat-domain" },
+    { argument: "argument/principal" },
   ],
 } as const satisfies Command
