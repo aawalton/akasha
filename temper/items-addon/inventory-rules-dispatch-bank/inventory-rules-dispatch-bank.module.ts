@@ -11,5 +11,9 @@ export const inventoryRulesDispatchBank = {
       invariantKind: "departure",
       statement: "Withdrawing and depositing are each allowed their own moves in a visit.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Every backpack slot is judged afresh when the bank opens.",
+    },
   ],
 } as const satisfies Module

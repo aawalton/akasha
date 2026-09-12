@@ -244,14 +244,18 @@ function factsIdentity(facts: ItemFacts): ItemFacts {
   return facts
 }
 
-export function rescanInventory(): undefined {
-  clearAllPendingActions()
+export function refreshBackpackActions(): undefined {
   const claims = new Map<CharacterId, Set<string>>()
   const stockGroups = computeBackpackStockGroups()
   const bagSize = GetBagSize(BAG_BACKPACK)
   for (let slot = 0; slot < bagSize; slot++) {
     evaluateRules(BAG_BACKPACK, slot, claims, stockGroups)
   }
+}
+
+export function rescanInventory(): undefined {
+  clearAllPendingActions()
+  refreshBackpackActions()
   dispatchUseActions()
   fireInventoryActionsChanged()
   refreshLockOverlays()

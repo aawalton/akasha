@@ -16,6 +16,7 @@ import {
   startVaultDepositChain,
 } from "akasha/temper/items-addon/inventory-rules-dispatch-bank-vault/inventory-rules-dispatch-bank-vault.module.code.ts"
 import { executeBankWithdrawals } from "akasha/temper/items-addon/inventory-rules-dispatch-bank-withdrawals/inventory-rules-dispatch-bank-withdrawals.module.code.ts"
+import { refreshBackpackActions } from "akasha/temper/items-addon/inventory-rules-eval/inventory-rules-eval.module.code.ts"
 
 const MAX_OPS = 50
 
@@ -66,6 +67,8 @@ export function onOpenBank(): undefined {
     bankingBag,
     currentChestId,
   }
+
+  refreshBackpackActions()
 
   const frozenStock = freezeStockBackpackCounts()
 
