@@ -4,6 +4,7 @@ import {
   asJson,
   DATA,
   OPERATIONAL,
+  partWay,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -92,6 +93,23 @@ export function refreshedAt(path: string, base: Record<string, unknown>): Row {
   return { path, outcome: "refreshed" }
 }
 
+export type Refreshing = (path: string, base: Record<string, unknown>) => Row
+
+export function refreshedRows(
+  paths: readonly string[],
+  base: Record<string, unknown>,
+  done: string[],
+  refreshing: Refreshing = refreshedAt
+): readonly Row[] {
+  const rows: Row[] = []
+  for (const path of paths) {
+    const row = refreshing(path, base)
+    rows.push(row)
+    if (row.outcome === "refreshed") done.push(`wrote ${path} again`)
+  }
+  return rows
+}
+
 export async function seatRefreshSettings(argv: readonly string[]): Promise<Answer> {
   const stray = argv.filter((one) => one !== JSON_FLAG)
   if (stray.length > 0) {
@@ -112,7 +130,13 @@ export async function seatRefreshSettings(argv: readonly string[]): Promise<Answ
     return refusedBy([whyOf(thrown)], OPERATIONAL)
   }
   if (paths.length === 0) return refusedBy([NOTHING_LIVE], DATA)
-  const rows = paths.map((path) => refreshedAt(path, base.settings))
+  const done: string[] = []
+  let rows: readonly Row[]
+  try {
+    rows = refreshedRows(paths, base.settings, done)
+  } catch (thrown) {
+    return { report: done, refusals: [whyOf(thrown), ...partWay(done)], code: OPERATIONAL }
+  }
   if (argv.includes(JSON_FLAG)) return asJson({ rows })
   return told(rows.map((row) => `${row.path}\t${row.outcome}`))
 }

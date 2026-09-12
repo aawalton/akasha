@@ -7,6 +7,7 @@ export const seatRefreshSettings = {
   definition:
     "the command rewriting each running seat's settings file from the document as it now is",
   code: "ts",
+  test: "ts",
   taking: [],
   invariants: [
     {
@@ -62,6 +63,15 @@ export const seatRefreshSettings = {
     {
       invariantKind: "absence",
       statement: "Nothing here writes the settings document.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A run that stopped part way is refused naming each file written before it stopped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that stopped before writing a file is refused as the fault alone.",
     },
   ],
   name: "refresh-settings",
