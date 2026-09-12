@@ -41,7 +41,7 @@ export const argument = {
     },
     {
       invariantKind: "departure",
-      statement: "What an argument carries where no call says it belongs here.",
+      statement: "What an argument carries where no call and no entry says it belongs here.",
     },
     {
       invariantKind: "departure",
