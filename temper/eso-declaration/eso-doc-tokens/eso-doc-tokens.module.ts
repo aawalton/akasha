@@ -38,6 +38,20 @@ export const esoDocTokens = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The names this reads come from outside the repository, in a clone nobody here updates.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name is captured as a run of word characters, which admits a leading digit.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "Whether a name may be written into a declaration is answered, as it is for a type.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An enum with no values is no enum.",
     },
     {
