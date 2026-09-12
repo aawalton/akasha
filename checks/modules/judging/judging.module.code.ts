@@ -22,5 +22,5 @@ export type AnyAuditing = Auditing | AuditingAsync
 export type Judging = {
   readonly named: readonly string[]
   readonly checksFor: (change: Change) => readonly string[]
-  readonly over: (change: Change) => Promise<readonly Judged[]>
+  readonly over: (change: Change, done?: string[]) => Promise<readonly Judged[]>
 }

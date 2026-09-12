@@ -136,6 +136,14 @@ export const checking = {
     },
     {
       invariantKind: "departure",
+      statement: "A check that ran is named on a list the caller hands in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller wanting none of that naming hands in no list.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run id is a uuid version 7.",
     },
     {

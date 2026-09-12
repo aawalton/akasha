@@ -342,7 +342,7 @@ export function judgingBy(
   return {
     named: every.map((one) => one.slug),
     checksFor: (change) => checksFor(every, change, shadowAsked(change)).map((one) => one.slug),
-    over: async (change) => {
+    over: async (change, done = []) => {
       const left = checksLeftBy(every, change)
       const first = every[0]
       if (left.length === 0 && first !== undefined) {
@@ -377,6 +377,7 @@ export function judgingBy(
         const kept = sparing === null ? found : [...(await sparing(one.run, found))]
         if (over !== null) kept.push(over)
         said.push(...kept)
+        done.push(one.slug)
       }
       return said
     },

@@ -130,6 +130,25 @@ test("a judging that throws is refused as unjudged rather than answered clean", 
   expect(said.refusals[0]).toContain("the checks could not be reached")
 })
 
+test("a judging that throws after a check ran names those checks rather than saying nothing was judged", async () => {
+  const judging: Judging = {
+    named: ["one", "two"],
+    checksFor: () => ["one", "two"],
+    over: async (_change, done) => {
+      done?.push("one")
+      throw new Error("the checks could not be reached")
+    },
+  }
+  const said = await judgedOver(judging, over(["akasha/one.ts"]), [])
+  expect(said.code).toBe(3)
+  expect(said.refusals[0]).toBe(
+    "1 check judged before this stopped — the checks could not be reached"
+  )
+  expect(said.refusals[1]).toBe(
+    "those checks were `one`, and what they refused is not in this answer"
+  )
+})
+
 const ANSWERED: Told = { refusals: [], unrun: [], unanswered: [], broken: null }
 
 function told(some: Partial<Told>): Asked {

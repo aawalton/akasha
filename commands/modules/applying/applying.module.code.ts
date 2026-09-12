@@ -160,8 +160,8 @@ function measured(judging: Judging): Judging {
   return {
     named: judging.named,
     checksFor: judging.checksFor,
-    over: async (change) => {
-      const said = await judging.over(change)
+    over: async (change, done) => {
+      const said = await judging.over(change, done)
       if (said.length > 0) return said
       return [{ path: change.changed[0] ?? "", reason: NOTHING_MEASURED }]
     },
