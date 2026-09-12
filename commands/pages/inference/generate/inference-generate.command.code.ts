@@ -55,7 +55,7 @@ const NO_PERSIST = "--no-persist"
 
 const TAKING = [
   { said: PROMPT, prose: true },
-  { said: OUTPUT, aliases: ["--out"] },
+  { said: OUTPUT },
   { said: SIZE },
   { said: SEED },
   { said: GUIDANCE },
