@@ -1,14 +1,3 @@
-import {
-  choiceAt,
-  colorDefaultRgb,
-  isFilterEnabled,
-  perCharName,
-  perCharToggleTooltip,
-  setUnknownDestLayoutKey,
-  texturePathAt,
-  unpackRgb,
-} from "akasha/temper/navigation-addon/destinations-settings-helpers/destinations-settings-helpers.module.code.ts"
-import { getIconPreviews } from "akasha/temper/navigation-addon/destinations-settings-icon-previews/destinations-settings-icon-previews.module.code.ts"
 import { DEFAULTS } from "akasha/temper/navigation-addon/modules/destinations-defaults/destinations-defaults.module.code.ts"
 import { getSettingsString } from "akasha/temper/navigation-addon/modules/destinations-lang-strings/destinations-lang-strings.module.code.ts"
 import { PIN_TEXTURE_PATHS } from "akasha/temper/navigation-addon/modules/destinations-pin-texture-paths/destinations-pin-texture-paths.module.code.ts"
@@ -20,6 +9,17 @@ import {
   getCharacterSavedVariables,
   getSavedVariables,
 } from "akasha/temper/navigation-addon/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
+import {
+  choiceAt,
+  colorDefaultRgb,
+  isFilterEnabled,
+  perCharName,
+  perCharToggleTooltip,
+  setUnknownDestLayoutKey,
+  texturePathAt,
+  unpackRgb,
+} from "akasha/temper/navigation-addon/modules/destinations-settings-helpers/destinations-settings-helpers.module.code.ts"
+import { getIconPreviews } from "akasha/temper/navigation-addon/modules/destinations-settings-icon-previews/destinations-settings-icon-previews.module.code.ts"
 
 function unknownColored(stringKey: string): string {
   return DEFAULTS.miscColorCodes.settingsTextUnknown.Colorize(getSettingsString(stringKey))

@@ -1,23 +1,5 @@
 import { unpackRgba } from "akasha/temper/addon-color/unpack-color/unpack-color.module.code.ts"
 import {
-  achHeaderName,
-  choiceAt,
-  colorDefaultRgb,
-  colorDefaultRgba,
-  compassPinLayout,
-  filterDisabled,
-  isFilterEnabled,
-  perCharName,
-  perCharToggleTooltip,
-  redrawAllPins,
-  redrawCompassPinsOnly,
-  texturePathAt,
-  tooltipWithPerChar,
-  unpackRgb,
-} from "akasha/temper/navigation-addon/destinations-settings-helpers/destinations-settings-helpers.module.code.ts"
-import type { IconPreviews } from "akasha/temper/navigation-addon/destinations-settings-icon-previews/destinations-settings-icon-previews.module.code.ts"
-import { getIconPreviews } from "akasha/temper/navigation-addon/destinations-settings-icon-previews/destinations-settings-icon-previews.module.code.ts"
-import {
   DEST_PIN_TINT_VAMPALTAR,
   DEST_PIN_TINT_WWSHRINE,
   DEST_PIN_TINT_WWVAMP,
@@ -32,6 +14,24 @@ import {
   getCharacterSavedVariables,
   getSavedVariables,
 } from "akasha/temper/navigation-addon/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
+import {
+  achHeaderName,
+  choiceAt,
+  colorDefaultRgb,
+  colorDefaultRgba,
+  compassPinLayout,
+  filterDisabled,
+  isFilterEnabled,
+  perCharName,
+  perCharToggleTooltip,
+  redrawAllPins,
+  redrawCompassPinsOnly,
+  texturePathAt,
+  tooltipWithPerChar,
+  unpackRgb,
+} from "akasha/temper/navigation-addon/modules/destinations-settings-helpers/destinations-settings-helpers.module.code.ts"
+import type { IconPreviews } from "akasha/temper/navigation-addon/modules/destinations-settings-icon-previews/destinations-settings-icon-previews.module.code.ts"
+import { getIconPreviews } from "akasha/temper/navigation-addon/modules/destinations-settings-icon-previews/destinations-settings-icon-previews.module.code.ts"
 
 const LMP = LibMapPins
 

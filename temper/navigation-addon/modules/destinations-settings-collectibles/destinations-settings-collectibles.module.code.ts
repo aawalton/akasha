@@ -1,5 +1,19 @@
 import { unpackRgba } from "akasha/temper/addon-color/unpack-color/unpack-color.module.code.ts"
 import {
+  DEST_PIN_TINT_COLLECTIBLE,
+  DEST_PIN_TINT_COLLECTIBLE_DONE,
+} from "akasha/temper/navigation-addon/modules/destinations-colors/destinations-colors.module.code.ts"
+import { DEFAULTS } from "akasha/temper/navigation-addon/modules/destinations-defaults/destinations-defaults.module.code.ts"
+import { getSettingsString } from "akasha/temper/navigation-addon/modules/destinations-lang-strings/destinations-lang-strings.module.code.ts"
+import { PIN_TEXTURE_PATHS } from "akasha/temper/navigation-addon/modules/destinations-pin-texture-paths/destinations-pin-texture-paths.module.code.ts"
+import { PIN_TEXTURE_LISTS } from "akasha/temper/navigation-addon/modules/destinations-pin-textures/destinations-pin-textures.module.code.ts"
+import { PIN_TYPES } from "akasha/temper/navigation-addon/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
+import { togglePins } from "akasha/temper/navigation-addon/modules/destinations-pins-filters/destinations-pins-filters.module.code.ts"
+import {
+  getCharacterSavedVariables,
+  getSavedVariables,
+} from "akasha/temper/navigation-addon/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
+import {
   achHeaderName,
   choiceAt,
   colorDefaultRgb,
@@ -14,22 +28,8 @@ import {
   texturePathAt,
   tooltipWithPerChar,
   unpackRgb,
-} from "akasha/temper/navigation-addon/destinations-settings-helpers/destinations-settings-helpers.module.code.ts"
-import { getIconPreviews } from "akasha/temper/navigation-addon/destinations-settings-icon-previews/destinations-settings-icon-previews.module.code.ts"
-import {
-  DEST_PIN_TINT_COLLECTIBLE,
-  DEST_PIN_TINT_COLLECTIBLE_DONE,
-} from "akasha/temper/navigation-addon/modules/destinations-colors/destinations-colors.module.code.ts"
-import { DEFAULTS } from "akasha/temper/navigation-addon/modules/destinations-defaults/destinations-defaults.module.code.ts"
-import { getSettingsString } from "akasha/temper/navigation-addon/modules/destinations-lang-strings/destinations-lang-strings.module.code.ts"
-import { PIN_TEXTURE_PATHS } from "akasha/temper/navigation-addon/modules/destinations-pin-texture-paths/destinations-pin-texture-paths.module.code.ts"
-import { PIN_TEXTURE_LISTS } from "akasha/temper/navigation-addon/modules/destinations-pin-textures/destinations-pin-textures.module.code.ts"
-import { PIN_TYPES } from "akasha/temper/navigation-addon/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
-import { togglePins } from "akasha/temper/navigation-addon/modules/destinations-pins-filters/destinations-pins-filters.module.code.ts"
-import {
-  getCharacterSavedVariables,
-  getSavedVariables,
-} from "akasha/temper/navigation-addon/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
+} from "akasha/temper/navigation-addon/modules/destinations-settings-helpers/destinations-settings-helpers.module.code.ts"
+import { getIconPreviews } from "akasha/temper/navigation-addon/modules/destinations-settings-icon-previews/destinations-settings-icon-previews.module.code.ts"
 
 const LMP = LibMapPins
 

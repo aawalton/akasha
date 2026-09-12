@@ -1,5 +1,4 @@
 import "akasha/temper/navigation-addon/modules/destinations-pins-slash-commands/destinations-pins-slash-commands.module.code.ts"
-import { initSettings as InitSettings } from "akasha/temper/navigation-addon/destinations-settings-init/destinations-settings-init.module.code.ts"
 import { registerSettingsStrings } from "akasha/temper/navigation-addon/modules/destinations-lang-strings/destinations-lang-strings.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/navigation-addon/modules/destinations-names/destinations-names.module.code.ts"
 import {
@@ -31,6 +30,7 @@ import {
   initializeSavedVariables,
   markSavedVarsInitialized,
 } from "akasha/temper/navigation-addon/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
+import { initSettings as InitSettings } from "akasha/temper/navigation-addon/modules/destinations-settings-init/destinations-settings-init.module.code.ts"
 
 export function initializeDestinations(): undefined {
   registerSettingsStrings()
