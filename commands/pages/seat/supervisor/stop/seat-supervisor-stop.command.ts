@@ -38,6 +38,18 @@ export const seatSupervisorStop = {
       invariantKind: "absence",
       statement: "Nothing here stops a seat by anything but the name its page carries.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A stop whose processes did not all end is refused rather than reported as done.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stop refused after it wrote names each write that stop finished.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stop refused before it wrote anything is refused as the fault alone.",
+    },
   ],
   name: "stop",
   arguments: [

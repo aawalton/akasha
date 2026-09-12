@@ -3,6 +3,10 @@ import { join } from "node:path"
 import { dropReadings } from "akasha/agents/read-record/read-record.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import {
+  INPUT,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { everyOfType, typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { removeUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
@@ -166,54 +170,83 @@ export type Stopped = {
   readonly moved: readonly string[]
 }
 
-export type Stopping = { readonly stopped: Stopped } | { readonly refused: string }
+export type Stopping =
+  | { readonly stopped: Stopped }
+  | { readonly refused: string; readonly code: number }
+
+export function stillUp(name: string, pids: readonly number[], allGone: boolean): string | null {
+  if (allGone) return null
+  const drawn = pids.map((pid) => String(pid)).join(", ")
+  return (
+    `\`${name}\` was signalled at ${drawn} and did not all end, so the seat is up yet and ` +
+    "the page it holds is kept rather than taken"
+  )
+}
+
+async function tookPage(
+  given: Given,
+  page: string,
+  message: string,
+  done: string[]
+): Promise<void> {
+  removeUncommitted(given.root, page)
+  done.push(`took the uncommitted values beside \`${page}\``)
+  const gone = await took(given, [page], message)
+  done.push(gone ? `took \`${page}\`` : `left \`${page}\` — the landing taking it refused`)
+}
 
 export async function stopping(
   given: Given,
   agentId: string,
   name: string,
-  force: boolean
+  force: boolean,
+  done: string[] = []
 ): Promise<Stopping> {
   const page = seatPathForName(name)
   const pids = agentPids(agentId)
   const seatAlive = pids.length > 0 || supervisorAlive(given.root, page)
   const working = subagentsOf(given.root, name)
   const guard = subagentGuard({ working, seatAlive, force, seatName: name })
-  if (guard.kind === "refuse") return { refused: guard.said }
+  if (guard.kind === "refuse") return { refused: guard.said, code: INPUT }
 
   const moved = moving(given, page, working)
-  await took(
-    given,
-    working.map((one) => one.path),
-    `${name} is stopped, so what it dispatched goes with it`
-  )
+  if (moved.length > 0) done.push(`moved onto \`${name}\` what its subagents left unlanded`)
+  if (working.length > 0) {
+    const swept = await took(
+      given,
+      working.map((one) => one.path),
+      `${name} is stopped, so what it dispatched goes with it`
+    )
+    const many = String(working.length)
+    done.push(swept ? `took ${many} subagent page(s)` : `left ${many} subagent page(s)`)
+  }
 
   const target = killTarget({ procPids: pids, seatName: name, selfPid: process.pid })
   if (target.kind === "signal") {
     const ended = await ending(target.pids)
-    if (ended.allGone) {
-      removeUncommitted(given.root, page)
-      await took(given, [page], `${name} was stopped, so the page it held goes`)
-    }
+    const up = stillUp(name, target.pids, ended.allGone)
+    if (up !== null) return { refused: up, code: OPERATIONAL }
+    done.push(`ended ${target.pids.map((pid) => String(pid)).join(", ")}`)
+    await tookPage(given, page, `${name} was stopped, so the page it held goes`, done)
     return {
       stopped: { name, pids: target.pids, signalled: ended.asked, how: "ended", moved },
     }
   }
   if (target.kind === "session") {
     const ended = await endedSession(target.name)
-    removeUncommitted(given.root, page)
-    await took(
+    if (ended) done.push(`ended the tmux session \`${target.name}\``)
+    await tookPage(
       given,
-      [page],
+      page,
       ended
         ? `${name} was stopped by ending the session that carried it`
-        : `${name} had no process and no session, so the page it held goes`
+        : `${name} had no process and no session, so the page it held goes`,
+      done
     )
     return {
       stopped: { name, pids: [], signalled: ended, how: ended ? "ended" : "already-gone", moved },
     }
   }
-  removeUncommitted(given.root, page)
-  await took(given, [page], `no process and no session were left for ${name}`)
+  await tookPage(given, page, `no process and no session were left for ${name}`, done)
   return { stopped: { name, pids: [], signalled: false, how: "reconciled", moved } }
 }

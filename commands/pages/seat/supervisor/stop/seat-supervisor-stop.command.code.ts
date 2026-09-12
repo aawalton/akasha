@@ -1,6 +1,11 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { DATA, INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  DATA,
+  INPUT,
+  OK,
+  partWay,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { answeredWith, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { namedIn } from "akasha/commands/modules/seat-act-calling/seat-act-calling.module.code.ts"
@@ -66,7 +71,10 @@ export async function seatSupervisorStop(argv: readonly string[], given: Given):
       DATA
     )
   }
-  const said = await stopping(given, agentId, named.name, flags.includes(FORCE))
-  if ("refused" in said) return refused(said.refused, INPUT)
+  const done: string[] = []
+  const said = await stopping(given, agentId, named.name, flags.includes(FORCE), done)
+  if ("refused" in said) {
+    return answeredWith(done, [said.refused, ...partWay(done)], said.code)
+  }
   return answeredWith([...said.stopped.moved, saidOf(said.stopped)], [], OK)
 }

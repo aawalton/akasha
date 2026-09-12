@@ -17,6 +17,7 @@ import {
   killTarget,
   type Landing,
   moving,
+  stillUp,
   subagentGuard,
   TAKE,
   took,
@@ -120,6 +121,19 @@ test("a supervisor and a client are the agent's own processes", () => {
 test("a process that is neither is not signalled for the seat", () => {
   expect(isAgentProcess("bun /repo/tools/seat-call.ts")).toBe(false)
   expect(isAgentProcess("tmux new-session -d -s athena")).toBe(false)
+})
+
+test("a seat whose processes all ended is not said to be up", () => {
+  expect(stillUp("athena", [11, 12], true)).toBe(null)
+})
+
+test("a seat whose processes did not all end is refused naming the pids signalled", () => {
+  const said = stillUp("athena", [11, 12], false)
+  expect(said).not.toBe(null)
+  expect(said as string).toContain("athena")
+  expect(said as string).toContain("11, 12")
+  expect(said as string).toContain("did not all end")
+  expect(said as string).toContain("kept rather than taken")
 })
 
 const AGENT = "01a05844-6e60-7000-b54c-4b14559df70d"

@@ -33,6 +33,15 @@ export const seatStopping = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A seat whose processes did not all end is refused naming the pids that were signalled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stop names each write it finished as that stop goes.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The values beside a seat's page go with the page.",
     },
     {
