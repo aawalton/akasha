@@ -29,4 +29,5 @@ export const musicNowPlaying = {
       statement: "Nothing here changes the track playing.",
     },
   ],
+  name: "now-playing",
 } as const satisfies Command

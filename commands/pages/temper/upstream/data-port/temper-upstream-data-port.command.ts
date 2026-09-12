@@ -29,4 +29,5 @@ export const temperUpstreamDataPort = {
       statement: "A library the port list does not hold refuses the call.",
     },
   ],
+  name: "data-port",
 } as const satisfies Command

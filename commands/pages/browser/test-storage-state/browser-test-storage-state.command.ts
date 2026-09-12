@@ -59,4 +59,5 @@ export const browserTestStorageState = {
       statement: "Nothing here reads the session the state this command wrote carries.",
     },
   ],
+  name: "test-storage-state",
 } as const satisfies Command

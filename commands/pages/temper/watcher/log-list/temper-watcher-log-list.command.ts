@@ -34,4 +34,5 @@ export const temperWatcherLogList = {
       statement: "A duration written in an unknown unit refuses the call.",
     },
   ],
+  name: "log-list",
 } as const satisfies Command

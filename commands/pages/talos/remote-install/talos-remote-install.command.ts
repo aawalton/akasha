@@ -99,4 +99,5 @@ export const talosRemoteInstall = {
       statement: "Nothing here undoes a disk wipe.",
     },
   ],
+  name: "remote-install",
 } as const satisfies Command

@@ -49,4 +49,5 @@ export const talosSecretGen = {
       statement: "Nothing here undoes a rotation.",
     },
   ],
+  name: "secret-gen",
 } as const satisfies Command

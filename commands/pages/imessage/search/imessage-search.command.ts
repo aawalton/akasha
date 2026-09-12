@@ -46,4 +46,5 @@ export const imessageSearch = {
       statement: "A contact matching nobody refuses rather than answering empty.",
     },
   ],
+  name: "search",
 } as const satisfies Command

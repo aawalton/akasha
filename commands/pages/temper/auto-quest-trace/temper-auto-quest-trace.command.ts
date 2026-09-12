@@ -30,4 +30,5 @@ export const temperAutoQuestTrace = {
       statement: "Nothing here reaches the game.",
     },
   ],
+  name: "auto-quest-trace",
 } as const satisfies Command

@@ -72,4 +72,5 @@ export const musicRate = {
       statement: "Nothing here reaches a music provider.",
     },
   ],
+  name: "rate",
 } as const satisfies Command

@@ -48,4 +48,5 @@ export const musicQueue = {
       statement: "Nothing here writes a page.",
     },
   ],
+  name: "queue",
 } as const satisfies Command

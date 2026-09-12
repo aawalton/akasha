@@ -50,4 +50,5 @@ export const temperPackageTypecheck = {
       statement: "The compiler writes no output file.",
     },
   ],
+  name: "package-typecheck",
 } as const satisfies Command

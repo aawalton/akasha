@@ -44,4 +44,5 @@ export const alanLearnNext = {
       statement: "Nothing here writes a page.",
     },
   ],
+  name: "learn-next",
 } as const satisfies Command

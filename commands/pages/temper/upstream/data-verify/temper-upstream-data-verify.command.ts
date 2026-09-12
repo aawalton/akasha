@@ -49,4 +49,5 @@ export const temperUpstreamDataVerify = {
       statement: "Nothing here writes a ported file.",
     },
   ],
+  name: "data-verify",
 } as const satisfies Command

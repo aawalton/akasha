@@ -96,4 +96,5 @@ export const agentTurnColorList = {
       statement: "One call reads one checkout.",
     },
   ],
+  name: "turn-color-list",
 } as const satisfies Command

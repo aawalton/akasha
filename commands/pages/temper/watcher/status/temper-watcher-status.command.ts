@@ -32,4 +32,5 @@ export const temperWatcherStatus = {
       statement: "A watcher that is not running has no process id.",
     },
   ],
+  name: "status",
 } as const satisfies Command

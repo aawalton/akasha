@@ -66,4 +66,5 @@ export const inferenceWanExtend = {
       statement: "Nothing here starts the container or provisions the weights.",
     },
   ],
+  name: "extend",
 } as const satisfies Command

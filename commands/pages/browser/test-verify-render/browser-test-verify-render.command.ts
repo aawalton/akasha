@@ -97,4 +97,5 @@ export const browserTestVerifyRender = {
       statement: "Nothing here writes as the user this command signed in as.",
     },
   ],
+  name: "test-verify-render",
 } as const satisfies Command

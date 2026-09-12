@@ -49,4 +49,5 @@ export const temperErrorList = {
       statement: "Nothing here reaches the game.",
     },
   ],
+  name: "error-list",
 } as const satisfies Command

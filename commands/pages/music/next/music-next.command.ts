@@ -48,4 +48,5 @@ export const musicNext = {
       statement: "Nothing here reaches Spotify.",
     },
   ],
+  name: "next",
 } as const satisfies Command

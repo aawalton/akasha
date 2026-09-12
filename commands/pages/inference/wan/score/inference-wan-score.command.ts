@@ -43,4 +43,5 @@ export const inferenceWanScore = {
       statement: "Nothing here reaches the GPU.",
     },
   ],
+  name: "score",
 } as const satisfies Command

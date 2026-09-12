@@ -15,4 +15,5 @@ export const inferenceWan = {
     "module/wan-clip-rendering",
     "module/wan-hosting",
   ],
+  name: "wan",
 } as const satisfies Namespace

@@ -71,4 +71,5 @@ export const talosConfigGen = {
       statement: "Nothing here reaches a node.",
     },
   ],
+  name: "config-gen",
 } as const satisfies Command

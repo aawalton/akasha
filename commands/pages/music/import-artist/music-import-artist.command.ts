@@ -62,4 +62,5 @@ export const musicImportArtist = {
       statement: "No test here reaches MusicBrainz or LRCLIB.",
     },
   ],
+  name: "import-artist",
 } as const satisfies Command

@@ -57,4 +57,5 @@ export const imessageSend = {
       statement: "A body read from a file has no closing line ending.",
     },
   ],
+  name: "send",
 } as const satisfies Command

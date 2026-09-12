@@ -41,4 +41,5 @@ export const inferenceWanFrames = {
       statement: "Nothing here reaches the GPU.",
     },
   ],
+  name: "frames",
 } as const satisfies Command

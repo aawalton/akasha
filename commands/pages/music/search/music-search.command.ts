@@ -45,4 +45,5 @@ export const musicSearch = {
       statement: "Nothing here starts playback.",
     },
   ],
+  name: "search",
 } as const satisfies Command

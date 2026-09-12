@@ -57,4 +57,5 @@ export const talosImageBuild = {
       statement: "The id and the address are reported though the download did not land.",
     },
   ],
+  name: "image-build",
 } as const satisfies Command

@@ -86,4 +86,5 @@ export const musicCapture = {
       statement: "No test here reaches Spotify.",
     },
   ],
+  name: "capture",
 } as const satisfies Command
