@@ -27,7 +27,7 @@ const TAKING: Taking = {
   needed: ["--video"],
 }
 
-export function readFrames(argv: readonly string[]): ReturnType<typeof readIn> {
+export function readFrame(argv: readonly string[]): ReturnType<typeof readIn> {
   return readIn(argv, TAKING)
 }
 
@@ -68,8 +68,8 @@ async function framing(read: Taken, given: Given, report: string[]): Promise<Ans
   return { report, refusals: [], code: 0 }
 }
 
-export async function inferenceWanFrames(argv: readonly string[], given: Given): Promise<Answer> {
-  const read = readFrames(argv)
+export async function inferenceWanFrame(argv: readonly string[], given: Given): Promise<Answer> {
+  const read = readFrame(argv)
   if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
   const report: string[] = []
   try {
