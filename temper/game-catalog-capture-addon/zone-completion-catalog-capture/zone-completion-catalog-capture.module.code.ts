@@ -8,7 +8,7 @@ import type {
   ZoneCompletionCatalogType,
   ZoneCompletionCatalogZone,
 } from "akasha/temper/capture-shapes/zone-completion-catalog/zone-completion-catalog.module.code.ts"
-import { registerCatalogDomain } from "akasha/temper/catalog-core/domain-registry/domain-registry.module.code.ts"
+import { registerCatalogDomain } from "akasha/temper/catalog-core/modules/domain-registry/domain-registry.module.code.ts"
 import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 
 const ZONE_COMPLETION_TYPES = [

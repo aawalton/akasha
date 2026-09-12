@@ -14,7 +14,7 @@ import { SortableContext } from "@dnd-kit/sortable"
 import {
   letGo,
   tookHold,
-} from "akasha/design/interfaces/patterns/drag-hold/drag-hold.module.code.ts"
+} from "akasha/design/interfaces/patterns/modules/drag-hold/drag-hold.module.code.ts"
 import { FilterTextField } from "akasha/design/interfaces/primitives/filterable-list/filterable-list.module.code.tsx"
 import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
 import { SubView } from "akasha/design/interfaces/primitives/sub-view/sub-view.module.code.tsx"

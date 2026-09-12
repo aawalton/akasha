@@ -4,7 +4,7 @@ import {
   type Held,
   letGo,
   tookHold,
-} from "akasha/design/interfaces/patterns/drag-hold/drag-hold.module.code.ts"
+} from "akasha/design/interfaces/patterns/modules/drag-hold/drag-hold.module.code.ts"
 
 function eventOf(id: string | number): Dragged {
   return { active: { id } }

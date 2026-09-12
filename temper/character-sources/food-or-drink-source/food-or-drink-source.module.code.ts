@@ -1,5 +1,5 @@
-import { drinks } from "akasha/temper/character-sources/drink-source/drink-source.module.code.ts"
 import { foods } from "akasha/temper/character-sources/food-source/food-source.module.code.ts"
+import { drinks } from "akasha/temper/character-sources/modules/drink-source/drink-source.module.code.ts"
 import type { EffectSourceInterface } from "akasha/temper/formula-framework/effect-source/effect-source.module.code.ts"
 import { createSourceFile } from "akasha/temper/formula-framework/source-file/source-file.module.code.ts"
 

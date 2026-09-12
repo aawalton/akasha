@@ -2,16 +2,6 @@
 
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
 import {
-  Drawer,
-  DrawerClose,
-  DrawerContent,
-  DrawerDescription,
-  DrawerFooter,
-  DrawerHeader,
-  DrawerTitle,
-  DrawerTrigger,
-} from "akasha/design/interfaces/primitives/drawer/drawer.module.code.tsx"
-import {
   DropdownMenu,
   DropdownMenuCheckboxItem,
   DropdownMenuContent,
@@ -58,6 +48,16 @@ import {
   ContextMenuShortcut,
   ContextMenuTrigger,
 } from "akasha/design/interfaces/primitives/modules/context-menu/context-menu.module.code.tsx"
+import {
+  Drawer,
+  DrawerClose,
+  DrawerContent,
+  DrawerDescription,
+  DrawerFooter,
+  DrawerHeader,
+  DrawerTitle,
+  DrawerTrigger,
+} from "akasha/design/interfaces/primitives/modules/drawer/drawer.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useState } from "react"
 

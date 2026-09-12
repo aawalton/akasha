@@ -1,8 +1,8 @@
-import type { DriveClient } from "akasha/alan/google/drive/drive-client/drive-client.module.code.ts"
 import {
   type DriveFileMetadata,
   driveFileMetadataSchema,
 } from "akasha/alan/google/drive/drive-file-schema/drive-file-schema.module.code.ts"
+import type { DriveClient } from "akasha/alan/google/drive/modules/drive-client/drive-client.module.code.ts"
 import {
   InputError,
   OperationalError,

@@ -8,7 +8,7 @@ import type {
   TributePatronCatalogCard,
   TributePatronCatalogEntry,
 } from "akasha/temper/capture-shapes/tribute-catalog/tribute-catalog.module.code.ts"
-import { registerCatalogDomain } from "akasha/temper/catalog-core/domain-registry/domain-registry.module.code.ts"
+import { registerCatalogDomain } from "akasha/temper/catalog-core/modules/domain-registry/domain-registry.module.code.ts"
 import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 
 function collectTributeCatalog(this: void, onComplete: (this: void) => void): undefined {

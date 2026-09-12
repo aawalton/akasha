@@ -6,7 +6,7 @@ import type {
   ScribingCatalogGrimoire,
   ScribingCatalogScript,
 } from "akasha/temper/capture-shapes/scribing-catalog/scribing-catalog.module.code.ts"
-import { registerCatalogDomain } from "akasha/temper/catalog-core/domain-registry/domain-registry.module.code.ts"
+import { registerCatalogDomain } from "akasha/temper/catalog-core/modules/domain-registry/domain-registry.module.code.ts"
 import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 
 const SCRIBING_SLOTS = [SCRIBING_SLOT_PRIMARY, SCRIBING_SLOT_SECONDARY, SCRIBING_SLOT_TERTIARY]

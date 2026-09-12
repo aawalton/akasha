@@ -7,7 +7,7 @@ import type {
   LoreLibraryCatalogCategory,
   LoreLibraryCatalogCollection,
 } from "akasha/temper/capture-shapes/lore-library-catalog/lore-library-catalog.module.code.ts"
-import { registerCatalogDomain } from "akasha/temper/catalog-core/domain-registry/domain-registry.module.code.ts"
+import { registerCatalogDomain } from "akasha/temper/catalog-core/modules/domain-registry/domain-registry.module.code.ts"
 import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 
 const COLLECTION_BOOK_PROBE_CEILING = 100

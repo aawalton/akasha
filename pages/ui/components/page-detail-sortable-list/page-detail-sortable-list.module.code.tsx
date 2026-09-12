@@ -11,7 +11,7 @@ import {
 } from "@dnd-kit/core"
 import { restrictToVerticalAxis } from "@dnd-kit/modifiers"
 import { SortableContext, useSortable } from "@dnd-kit/sortable"
-import { tookHold } from "akasha/design/interfaces/patterns/drag-hold/drag-hold.module.code.ts"
+import { tookHold } from "akasha/design/interfaces/patterns/modules/drag-hold/drag-hold.module.code.ts"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import {
   type DropZoneInfo,

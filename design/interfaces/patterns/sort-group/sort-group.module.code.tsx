@@ -15,7 +15,7 @@ import { SortableContext, useSortable } from "@dnd-kit/sortable"
 import {
   letGo,
   tookHold,
-} from "akasha/design/interfaces/patterns/drag-hold/drag-hold.module.code.ts"
+} from "akasha/design/interfaces/patterns/modules/drag-hold/drag-hold.module.code.ts"
 import {
   applySortDrop,
   computeSortDropZone,

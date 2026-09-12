@@ -16,7 +16,7 @@ import { LoadMoreButton } from "akasha/design/interfaces/layout/load-more-button
 import {
   letGo,
   tookHold,
-} from "akasha/design/interfaces/patterns/drag-hold/drag-hold.module.code.ts"
+} from "akasha/design/interfaces/patterns/modules/drag-hold/drag-hold.module.code.ts"
 import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import {
