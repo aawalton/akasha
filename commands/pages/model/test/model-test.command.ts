@@ -8,7 +8,6 @@ export const modelTest = {
   code: "ts",
   test: "ts",
   taking: [
-    { said: "--broken", takes: "the cases the model got wrong and no others" },
     { said: "--show", takes: "the whole prompt put for each case shown and the whole answer back" },
   ],
   invariants: [
@@ -58,5 +57,6 @@ export const modelTest = {
     { argument: "argument/json" },
     { argument: "argument/model-test", required: true, saidAs: "word" },
     { argument: "argument/cases" },
+    { argument: "argument/broken" },
   ],
 } as const satisfies Command
