@@ -99,9 +99,9 @@ export const talosRemoteInstall = {
   name: "remote-install",
   arguments: [
     { argument: "argument/node", required: true, saidAs: "flag-or-word" },
-    { argument: "argument/ip" },
-    { argument: "argument/ssh-user" },
-    { argument: "argument/ssh-key" },
+    { argument: "argument/ip", required: true },
+    { argument: "argument/ssh-user", required: true },
+    { argument: "argument/ssh-key", required: true },
     { argument: "argument/method" },
     { argument: "argument/confirm-wipe", required: true },
   ],
