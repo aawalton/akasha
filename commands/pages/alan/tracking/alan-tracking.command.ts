@@ -59,10 +59,10 @@ export const alanTracking = {
   ],
   name: "tracking",
   arguments: [
-    { argument: "argument/file-path" },
     { argument: "argument/remove-path" },
     { argument: "argument/commit-message" },
     { argument: "argument/message-file" },
     { argument: "argument/content-file", repeats: true },
+    { argument: "argument/file-path", repeats: true },
   ],
 } as const satisfies Command
