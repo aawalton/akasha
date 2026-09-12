@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { writeFileSync } from "node:fs"
+import { readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
@@ -225,4 +225,22 @@ test("a landing answering something wrong is answered as a refusal", async () =>
   const said = await ratingAurora(reaching({ ...LANDED, wrong: ["the install would not take"] }))
   expect(said.code).toBe(3)
   expect(said.refusals).toEqual(["the install would not take"])
+})
+
+test("the page written again hands in the body it was composed against", async () => {
+  const reach = reaching()
+  await ratingAurora(reach)
+  const page = reach.reached[0]?.asked[0]
+  if (page === undefined) throw new Error("no page reached the landing")
+
+  expect(page.given).toMatchObject({ old: readFileSync(join(ROOT, RATED_AT), "utf8") })
+})
+
+test("the prose beside the page hands in no body it was composed against", async () => {
+  const reach = reaching()
+  await ratingAurora(reach)
+  const prose = reach.reached[0]?.asked[1]
+  if (prose === undefined) throw new Error("no prose reached the landing")
+
+  expect(prose.given).not.toHaveProperty("old")
 })

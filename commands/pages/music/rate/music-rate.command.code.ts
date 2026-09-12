@@ -1,3 +1,4 @@
+import { join } from "node:path"
 import { MUSIC_RATINGS } from "akasha/alan/music/choosing/rating-ladder/rating-ladder.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
@@ -189,15 +190,17 @@ export async function musicRate(
   }
   const was = valueAt(at, given.root)
   if (was === null) return refused(`${at} would not load, so what it holds is unknown`, DATA)
+  const old = textAt(join(given.root, at))
   const composed = composedFor(given.root, {
     pageTypeSlug: held.target,
     slug: held.slug,
     values: valuesFor(was, held),
   })
   if ("refused" in composed) return refused(composed.refused, DATA)
-  const changes: Asking[] = [
-    { at: WRITE, given: { at: composed.put.path, body: composed.put.content } },
-  ]
+  const put = composed.put
+  const first =
+    old === null ? { at: put.path, body: put.content } : { at: put.path, body: put.content, old }
+  const changes: Asking[] = [{ at: WRITE, given: first }]
   for (const [one, text] of held.prose) {
     const beside = besideAt(composed.put.path, one, TXT)
     if (beside === null) {

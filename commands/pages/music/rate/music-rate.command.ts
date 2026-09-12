@@ -53,6 +53,10 @@ export const musicRate = {
       invariantKind: "absence",
       statement: "Nothing here reaches a music provider.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The page hands in the body it was composed from, and the prose beside it none.",
+    },
   ],
   name: "rate",
   arguments: [
