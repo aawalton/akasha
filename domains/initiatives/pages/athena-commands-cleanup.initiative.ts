@@ -21,7 +21,6 @@ export const athenaCommandsCleanup = {
     "A change is judged before the hold is taken, so a landing over hundreds of files costs collision surface rather than a hold on the swarm.",
     "A check blind to a class of file steers the swarm away from that class rather than leaving it undone, because agents work the refusals they can see.",
     "A namespace whose survey shows one or two stragglers usually holds a shared reader the survey cannot see, and the straggler is bait.",
-    "A check that threw because a concurrent landing left a file momentarily empty is answered by running it again.",
     "Alan's aliases derive every call from the command page and the editor extension spells none, so a rename costs that command's own folder and one line of its parent's parts.",
     "A page invariant that reads like a group rule often means the opposite, so the refusal is confirmed in the code before a page key is landed.",
     "An import edit and the edits leaning on it are one unit, so the whole import line is settled from every name the file will use before any body edit is drafted.\n",
@@ -37,5 +36,6 @@ export const athenaCommandsCleanup = {
     "A caller's test asserts the distinctive part of a refusal rather than the whole sentence, because a shared refusal improves hourly and every whole-sentence assertion goes red together.",
     "An attribution is settled from the verdict store rather than from a fixture probe, because a probe over one scratch world does not answer for the test file it imitates.",
     "A conclusion drawn from one reading is settled by the series before it is acted on: the log sidecar, the verdict store, or the page type that already states the rule.",
+    "A check that fell short because a landing moved a path mid-walk still writes a verdict, so nothing re-asks it and the round is lost until the next one.",
   ],
 } as const satisfies Initiative
