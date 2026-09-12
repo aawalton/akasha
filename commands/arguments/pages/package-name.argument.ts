@@ -8,5 +8,4 @@ export const packageName = {
   takes: "a folder under `temper/` to typecheck, said once per folder",
   value: "text",
   placeholder: "name",
-  repeats: true,
 } as const satisfies Argument
