@@ -7,16 +7,23 @@ export const temperUpstreamDataVerify = {
   definition: "the command ruling whether a ported upstream library's data still matches upstream",
   code: "ts",
   changeKind: "change-none",
-  taking: [{ said: "<library>", takes: "which upstream library's port is ruled on" }],
-  helpNotes: [
-    "the libraries it carries are housing, lib-map-data, lib-treasure and lib-zone.",
-    "the comparison is leaf for leaf rather than file for file.",
-    "a difference refuses the call and names where the two part.",
-    "a library this does not carry is refused by name.",
-    "an upstream file this cannot find refuses the call, because a run over an absent upstream reports whatever a clean run reports.",
-    "the upstream is the third-party library a live ESO install carries, which our own deployed addons overwrite.",
+  taking: [
+    {
+      said: "<library>",
+      takes:
+        "which upstream library's port is ruled on: housing, lib-map-data, lib-treasure or lib-zone",
+    },
   ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "Upstream is the library a live ESO install carries, which our deployed addons overwrite.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name that is no upstream library ruled on here refuses the call.",
+    },
     {
       invariantKind: "departure",
       statement: "The comparison is leaf for leaf.",
