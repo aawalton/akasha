@@ -1,4 +1,9 @@
 import { resolve } from "node:path"
+import {
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -6,10 +11,6 @@ import { readInventoryFileArgs } from "akasha/commands/modules/inventory-file-ar
 import { numSaid } from "akasha/commands/modules/inventory-trace-saying/inventory-trace-saying.module.code.ts"
 import { readBankTrace } from "akasha/temper/commands/bank-trace-reading/bank-trace-reading.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
-
-const INPUT = 1
-
-const OPERATIONAL = 3
 
 const INVENTORY_LUA = "TemperInventory.lua"
 
@@ -123,8 +124,8 @@ export async function temperInventoryBankTrace(
     read.inventoryPath === null ? savedVarsFile(INVENTORY_LUA) : resolve(root, read.inventoryPath)
   try {
     const trace = (await readBankTrace(at)) as BankTrace
-    if (read.json) return { report: [JSON.stringify(trace)], refusals: [], code: 0 }
-    return { report: [...traceSaid(trace)], refusals: [], code: 0 }
+    if (read.json) return { report: [JSON.stringify(trace)], refusals: [], code: OK }
+    return { report: [...traceSaid(trace)], refusals: [], code: OK }
   } catch (thrown) {
     return refused(whyOf(thrown), OPERATIONAL)
   }
