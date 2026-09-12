@@ -1,9 +1,9 @@
 import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
-export const aFolderMoveLeavesRunningWritersAppendingToTheOldPathUntilTheDateRolls = {
+export const aFolderMoveLeavesARunningWriterAppendingToThePathItAlreadyResolved = {
   id: "01a095f4-f451-7783-a5e4-3784ffd267fe",
   type: "finding",
-  slug: "a-folder-move-leaves-running-writers-appending-to-the-old-path-until-the-date-rolls",
+  slug: "a-folder-move-leaves-a-running-writer-appending-to-the-path-it-already-resolved",
   domain: "domain/change",
   claim:
     "A folder move that lands while writers are running leaves those writers resolving the old path and writing fresh files at the folder the move vacated. `763256c3212` moved the seat pages out of `seat-system/` at 04:47 on 2026-09-12 and a seat entries file was born at the vacated path at 09:04; `9c808e72ac0` moved `alan/attributes/points` at 09:20 and its sidecar was appended at the vacated path minutes after. Each writer holds the path it resolved for as long as its own cycle runs, so none reads the move again. `file-has-its-page` names these files correctly, at a layer that cannot act on them: the move carried the git-ignored sidecars along with the pages and the writers re-created them behind it, so the check is right and the tree is wrong. Clearing them would throw away lines a running writer is still writing.",
