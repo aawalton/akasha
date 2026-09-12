@@ -6,6 +6,8 @@ import {
   leaseAsked,
   PROTOCOL,
 } from "akasha/code/editor/extension/harness-wire/harness-wire.module.code.ts"
+import { module } from "akasha/code/modules/module.page-type.ts"
+import { command } from "akasha/commands/command.page-type.ts"
 import { sayAnswer } from "akasha/commands/modules/answer-bytes/answer-bytes.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
@@ -32,9 +34,9 @@ asked before it. The lease is ${LEASE_MS}ms and \`${LEASE_ENV}\` names another.
   --help  This.
 `
 
-const MODULE_TYPE = "module"
+const MODULE_TYPE = module.slug
 
-const COMMAND_TYPE = "command"
+const COMMAND_TYPE = command.slug
 
 const CODE = "code"
 
