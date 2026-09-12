@@ -4,14 +4,9 @@ import { basename, dirname, join } from "node:path"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import type {
-  Act,
-  Taken,
-} from "akasha/commands/pages/inference/wan/wan-arguing/wan-arguing.module.code.ts"
+import type { Taken } from "akasha/commands/pages/inference/wan/wan-arguing/wan-arguing.module.code.ts"
 import {
   at,
-  EXTEND,
-  GENERATE,
   numberIn,
 } from "akasha/commands/pages/inference/wan/wan-arguing/wan-arguing.module.code.ts"
 import {
@@ -54,9 +49,9 @@ const NEW_FRAMES_FLOOR = 13
 
 const DIRECTIONS = ["forward", "back"] as const
 
-function madeOf(calledAs: string, act: Act, argv: readonly string[]): string {
+function madeOf(calledAs: string, argv: readonly string[]): string {
   const quoted = argv.map((one) => (/\s/.test(one) ? `'${one}'` : one))
-  return `${calledAs} ${act} ${quoted.slice(1).join(" ")}`.trim()
+  return `${calledAs} ${quoted.join(" ")}`.trim()
 }
 
 export async function generating(
@@ -69,7 +64,7 @@ export async function generating(
   const startSaid = said.get("--start-image")
   const endSaid = said.get("--end-image")
   if (startSaid === undefined && endSaid === undefined) {
-    return refused("a generate names `--start-image` or `--end-image`, and neither was said", 1)
+    return refused("this names `--start-image` or `--end-image`, and neither was said", 1)
   }
   const startPath = startSaid === undefined ? undefined : at(given, startSaid)
   const endPath = endSaid === undefined ? undefined : at(given, endSaid)
@@ -147,7 +142,7 @@ export async function generating(
     operation: "i2v",
     model: MODEL,
     host: HOST,
-    commandLine: madeOf(given.calledAs, GENERATE, argv),
+    commandLine: madeOf(given.calledAs, argv),
     startedAt: new Date(nowMs).toISOString(),
     prompt,
     negativePrompt: negative,
@@ -302,7 +297,7 @@ export async function extending(
     operation: "i2v-extend",
     model: MODEL,
     host: HOST,
-    commandLine: madeOf(given.calledAs, EXTEND, argv),
+    commandLine: madeOf(given.calledAs, argv),
     startedAt: new Date(nowMs).toISOString(),
     prompt,
     negativePrompt: negative,

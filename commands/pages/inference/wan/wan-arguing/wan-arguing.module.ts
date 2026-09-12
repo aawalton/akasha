@@ -9,7 +9,11 @@ export const wanArguing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A flag the named act does not take is refused rather than passed along.",
+      statement: "The flags a command takes are handed in rather than known here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A flag the command does not take is refused rather than passed along.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +29,7 @@ export const wanArguing = {
     },
     {
       invariantKind: "departure",
-      statement: "A default the named act has fills a flag nothing said.",
+      statement: "A default the command has fills a flag nothing said.",
     },
     {
       invariantKind: "departure",

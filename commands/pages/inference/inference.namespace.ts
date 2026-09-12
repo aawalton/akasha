@@ -16,9 +16,9 @@ export const inference = {
     "command/inference-status",
     "command/inference-upscale",
     "command/inference-video-qa",
-    "command/inference-wan",
     "command/inference-zimage",
     "namespace/inference-voice",
+    "namespace/inference-wan",
   ],
   name: "inference",
 } as const satisfies Namespace
