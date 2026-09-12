@@ -9,11 +9,11 @@ export const seatPageAkasha = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every seat page sits under seat-system/seats/pages.",
+      statement: "Every seat page sits under the folder the index files the seat type's pages in.",
     },
     {
       invariantKind: "departure",
-      statement: "A seat page's file name is the seat name followed by .seat.ts.",
+      statement: "Where that folder is, and what a seat page is named, are answered elsewhere.",
     },
     {
       invariantKind: "departure",
