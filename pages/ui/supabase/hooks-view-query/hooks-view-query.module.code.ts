@@ -7,7 +7,7 @@ import type {
   PageWhere,
 } from "akasha/pages/core/page-types/page-types.module.code.ts"
 import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
-import { getCrossTypePredicate } from "akasha/pages/core/schema/cross-type-predicates/cross-type-predicates.module.code.ts"
+import { getCrossTypePredicate } from "akasha/pages/core/schema/modules/cross-type-predicates/cross-type-predicates.module.code.ts"
 import type { ViewDataJSON } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import {
   adjustTotalForClientFilters,
