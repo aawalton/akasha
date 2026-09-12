@@ -5,6 +5,7 @@ import {
   DATA,
   INPUT,
   OPERATIONAL,
+  partWay,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -94,11 +95,45 @@ function reachSaid(thrown: unknown, fileId: string): Answer | null {
   return null
 }
 
+export type Making = (folder: string) => Promise<string | undefined>
+
+export type Putting = (at: string, bytes: Uint8Array) => Promise<unknown>
+
+export function madeSaid(folder: string): string {
+  return `the folder ${folder} was not there before this, and this made it`
+}
+
+export const madeFolder: Making = (folder) => mkdir(folder, { recursive: true })
+
+export const putBytes: Putting = (at, bytes) => Bun.write(at, bytes)
+
+export async function wroteFile(
+  folder: string,
+  name: string,
+  bytes: Uint8Array,
+  done: string[],
+  making: Making = madeFolder,
+  putting: Putting = putBytes
+): Promise<string> {
+  const made = await making(folder)
+  if (made !== undefined) done.push(madeSaid(made))
+  const at = join(folder, name)
+  await putting(at, bytes)
+  return isAbsolute(at) ? at : resolve(at)
+}
+
+export function fetchRefused(thrown: unknown, fileId: string, done: readonly string[]): Answer {
+  const said = reachSaid(thrown, fileId) ?? refused(whyOf(thrown), codeOf(thrown))
+  if (done.length === 0) return said
+  return { report: [...done], refusals: [...said.refusals, ...partWay(done)], code: said.code }
+}
+
 async function fetching(
   said: ReadonlyMap<string, string>,
   root: string,
   from: string
 ): Promise<Answer> {
+  const done: string[] = []
   const files = await import("akasha/alan/google/drive/drive-files/drive-files.module.code.ts")
   const fileId = files.parseDriveFileId(said.get(SOURCE) ?? "")
   const folder = folderOf(said.get(OUTPUT), root, from)
@@ -123,12 +158,9 @@ async function fetching(
         OPERATIONAL
       )
     }
-    const at = join(folder, name)
-    await mkdir(folder, { recursive: true })
-    await Bun.write(at, bytes)
-    return told([isAbsolute(at) ? at : resolve(at)])
+    return told([await wroteFile(folder, name, bytes, done)])
   } catch (thrown) {
-    return reachSaid(thrown, fileId) ?? refused(whyOf(thrown), codeOf(thrown))
+    return fetchRefused(thrown, fileId, done)
   }
 }
 

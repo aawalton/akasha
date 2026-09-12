@@ -33,6 +33,18 @@ export const googleDriveFetch = {
     },
     {
       invariantKind: "departure",
+      statement: "A write that throws after the folder was made names that folder in its refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder that was already there is named nowhere, because nothing made it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal naming the folder it made keeps the kind of thing that went wrong.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file in a native Google format is refused as the caller's mistake.",
     },
     {
