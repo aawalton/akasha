@@ -1,3 +1,4 @@
+import { pointerFor } from "akasha/agents/refusals-keeping/refusals-keeping.module.code.ts"
 import type { Told } from "akasha/checks/modules/audit-asking/audit-asking.module.code.ts"
 import type { Judged, Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
 import {
@@ -6,7 +7,6 @@ import {
 } from "akasha/checks/modules/refusal-holding/refusal-holding.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { pointerFor } from "akasha/commands/modules/refusals-keeping/refusals-keeping.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
 

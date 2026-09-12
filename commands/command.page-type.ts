@@ -66,7 +66,6 @@ export const command = {
     "module/command-walking",
     "module/warrant-owing",
     "module/namespace-listing",
-    "module/refusals-keeping",
     "module/value-minting",
     "module/drafting",
     "module/gate-building",
