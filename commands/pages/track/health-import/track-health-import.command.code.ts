@@ -168,9 +168,9 @@ export function reaching(held: Taken): ImportRunDeps {
   })
   return {
     openStream: () => streamExportLines(script),
-    writeBatch: async (samples) => {
+    writeBatch: async (samples, done) => {
       if (held.dryRun) throw new Error("a dry run reached the writer, which writes nothing")
-      return await upsertHealthSamples({ samples })
+      return await upsertHealthSamples({ samples }, done)
     },
   }
 }

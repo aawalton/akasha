@@ -53,7 +53,10 @@ export interface ImportRunOptions {
 
 export interface ImportRunDeps {
   readonly openStream: () => AsyncIterable<string>
-  readonly writeBatch: (samples: readonly HealthSample[]) => Promise<HealthSampleWriteReport>
+  readonly writeBatch: (
+    samples: readonly HealthSample[],
+    done?: string[]
+  ) => Promise<HealthSampleWriteReport>
 }
 
 export interface ImportOutcome {
@@ -128,7 +131,7 @@ export async function runHealthImport(
     if (buffer.length === 0) return
     const many = buffer.length
     if (!opts.dryRun) {
-      const report = await deps.writeBatch(buffer)
+      const report = await deps.writeBatch(buffer, done)
       write = addReport(write, report)
       done.push(
         `wrote batch ${batches + 1}, ${many} samples, through record line ${tally.recordLines}`

@@ -72,6 +72,18 @@ export const sampleUpsert = {
     },
     {
       invariantKind: "departure",
+      statement: "A day committed is named as soon as that day's commit comes back.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A day that never landed says nothing about the days landed before it.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here states that nothing was committed.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A day whose readings were all filed already is answered without a commit.",
     },
   ],

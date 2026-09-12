@@ -149,12 +149,17 @@ function messageFor(path: string, tally: DayTally): string {
   return `${String(tally.inserted)} reading(s) filed and ${String(tally.valueChanged)} corrected in ${path}`
 }
 
+export function committedSaid(said: string): string {
+  return `${said}, committed at the pages`
+}
+
 export async function landDay(
   path: string,
   held: Held,
   arrivedAt: string,
   reading: ReadingFor = readingFor,
-  writing: WritingFor = writingFor
+  writing: WritingFor = writingFor,
+  done: string[] = []
 ): Promise<DayTally> {
   let why = "nothing was tried"
   for (let taken = 1; taken <= TRIES; taken += 1) {
@@ -180,18 +185,24 @@ export async function landDay(
       why = `the pages named no commit for ${path}, and a change was meant`
       continue
     }
+    done.push(committedSaid(messageFor(path, merged.tally)))
     return merged.tally
   }
   throw new Error(
     `upsertHealthSamples: ${path} was not written in ${String(TRIES)} tries — ${why}. ` +
-      "Nothing was committed, so the device keeps its anchor and these readings arrive again."
+      "The device keeps its anchor, so these readings arrive again. This says nothing about the " +
+      "days landed before this one, and a write the pages timed out on can have landed there all " +
+      "the same, since a timed-out write is tried again rather than known to have failed."
   )
 }
 
-export async function upsertHealthSamples(args: {
-  readonly samples: readonly HealthSample[]
-  readonly arrivedAt?: string
-}): Promise<HealthSampleWriteReport> {
+export async function upsertHealthSamples(
+  args: {
+    readonly samples: readonly HealthSample[]
+    readonly arrivedAt?: string
+  },
+  done: string[] = []
+): Promise<HealthSampleWriteReport> {
   if (args.samples.length === 0) return EMPTY_REPORT
 
   const byIdentity = new Map<string, HealthSample>()
@@ -211,7 +222,14 @@ export async function upsertHealthSamples(args: {
   let valueChanged = 0
 
   for (const day of [...byDay.keys()].sort()) {
-    const tally = await landDay(sampleRowsIn(day), byDay.get(day) ?? [], arrivedAt)
+    const tally = await landDay(
+      sampleRowsIn(day),
+      byDay.get(day) ?? [],
+      arrivedAt,
+      readingFor,
+      writingFor,
+      done
+    )
     inserted += tally.inserted
     unchanged += tally.unchanged
     valueChanged += tally.valueChanged
