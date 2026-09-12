@@ -4,11 +4,11 @@ import "akasha/temper/eso-types/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
-import { FCOCO } from "akasha/temper/companions-addon/companion-qol-state/companion-qol-state.module.code.ts"
 import {
   asNumber,
   asRecord,
 } from "akasha/temper/companions-addon/modules/companion-qol-casts/companion-qol-casts.module.code.ts"
+import { FCOCO } from "akasha/temper/companions-addon/modules/companion-qol-state/companion-qol-state.module.code.ts"
 
 export function registerBindingStringIds(this: void): undefined {
   if (!FCOCO.isCompanionUnlocked) {

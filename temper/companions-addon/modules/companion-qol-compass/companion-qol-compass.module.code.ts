@@ -1,5 +1,5 @@
 import "akasha/temper/eso-types/eso-enums-18/eso-enums-18.type-declaration.d.ts"
-import { FCOCO } from "akasha/temper/companions-addon/companion-qol-state/companion-qol-state.module.code.ts"
+import { FCOCO } from "akasha/temper/companions-addon/modules/companion-qol-state/companion-qol-state.module.code.ts"
 
 FCOCO.UpdateCompass = function (this: void): undefined {
   const settings = FCOCO.settingsVars.settings
