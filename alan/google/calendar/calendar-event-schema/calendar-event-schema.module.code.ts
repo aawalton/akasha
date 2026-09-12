@@ -89,11 +89,11 @@ export function validateBoundaries(
   const endAllDay = end !== undefined && isDateOnly(end)
   if (start !== undefined && end !== undefined && startAllDay !== endAllDay)
     throw new InputError(
-      "mixed all-day and timed boundaries: --start and --end must both be date-only " +
-        "(YYYY-MM-DD) for an all-day event or both include a time"
+      "`--start` and `--end` are both a civil day written YYYY-MM-DD or both carry a time, " +
+        "and this call names one of each"
     )
   if ((startAllDay || endAllDay) && timezone !== undefined)
-    throw new InputError("--timezone is not valid for an all-day (date-only) event; remove it")
+    throw new InputError("an all-day event carries no zone, and this call names `--timezone`")
 }
 
 function buildEventTime(value: string, timezone: string | undefined): Record<string, unknown> {
