@@ -107,6 +107,7 @@ export const command = {
     "relation-property/not-with",
     "relation-property/one-of",
     "select-property/said-as",
+    "text-property/entry-default",
     "text-property/level-name",
   ],
   extends: ["page-type/module"],

@@ -1,0 +1,1 @@
+export type EntryDefault = string

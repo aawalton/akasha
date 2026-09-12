@@ -1,5 +1,6 @@
 import type { Argument } from "akasha/commands/arguments/properties/argument.relation-property.types.ts"
 import type { Repeats } from "akasha/commands/arguments/properties/repeats.boolean-property.types.ts"
+import type { EntryDefault } from "akasha/commands/properties/entry-default.text-property.types.ts"
 import type { NotWith } from "akasha/commands/properties/not-with.relation-property.types.ts"
 import type { OneOf } from "akasha/commands/properties/one-of.relation-property.types.ts"
 import type { SaidAs } from "akasha/commands/properties/said-as.select-property.types.ts"
@@ -13,4 +14,5 @@ export type CommandArguments = List<{
   notWith?: NotWith
   oneOf?: OneOf
   repeats?: Repeats
+  default?: EntryDefault
 }>

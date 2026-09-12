@@ -13,6 +13,7 @@ export const commandArguments = {
     { pageProperty: "relation-property/not-with", required: false, many: true, maxCount: null },
     { pageProperty: "relation-property/one-of", required: false, many: true, maxCount: null },
     { pageProperty: "boolean-property/repeats", required: false, many: false },
+    { pageProperty: "text-property/entry-default", required: false, many: false },
   ],
   invariants: [
     {
