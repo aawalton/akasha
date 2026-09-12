@@ -125,7 +125,8 @@ export function manifestLines(asked: ManifestAsked): readonly string[] {
     ...asked.luaPaths,
     ...(asked.xmlAfterBundle ?? []),
   ]
-  if (asked.nameXmlThere) lines.push(`${asked.addonName}.xml`)
+  const nameXml = `${asked.addonName}.xml`
+  if (asked.nameXmlThere && !lines.includes(nameXml)) lines.push(nameXml)
   if (asked.bindingsXmlThere) lines.push("Bindings.xml")
   return lines
 }

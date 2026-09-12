@@ -58,6 +58,10 @@ export const addonLoadOrder = {
     },
     {
       invariantKind: "departure",
+      statement: "A file the manifest lists is listed once.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Keybinds are listed wherever the addon's page carries a keybinds file.",
     },
     {
