@@ -13,12 +13,12 @@ export const domainDeclarationList = {
       takes: "`domains` or `personas` alone, where both would be said",
     },
   ],
-  helpNotes: [
-    "it carries each page WHOLE, so a property the pages grow needs no flag here and no change at any caller.",
-    "the pages are read from the index, which carries what each page file declares and applies nothing of its own.",
-    "a subject holding nothing refuses the call rather than answering an empty list, an empty tree being a dead read.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "The pages are read from the index, which applies nothing of its own to what a page declares.",
+    },
     {
       invariantKind: "departure",
       statement: "A subject that is neither domains nor personas is refused.",
