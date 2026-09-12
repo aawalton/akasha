@@ -115,6 +115,18 @@ export const changeDraft = {
       statement: "A draft's answer names every page written.",
     },
     {
+      invariantKind: "departure",
+      statement: "A draft that threw after keeping its edits names those edits in its refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A draft that threw before keeping anything says nothing of what it kept.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A draft names each thing it did in the order it did them.",
+    },
+    {
       invariantKind: "absence",
       statement: "No redirect carries that answer to a file.",
     },

@@ -16,9 +16,11 @@ import {
 import {
   APPLIED,
   acting,
+  answeringNothing,
   applying,
   BOTH,
   CHOSEN,
+  doneDrafting,
   drafting,
   draftingAndApplying,
   draftingAndMeasuring,
@@ -54,24 +56,8 @@ import {
 
 afterAll(scratch.sweep)
 
-const ANSWERS_NOTHING: Loading = async () => ({
-  run: () => ({ edits: [], refused: null }),
-  guards: [],
-})
-
 test("a run whose change answered no edit says that change answered none", async () => {
-  const said = `${taking(NAMER_PAGE)}draft: true\n`
-
-  const answered = await changing(
-    repo(),
-    PAGE,
-    null,
-    ["remove-page"],
-    piping(said),
-    ANSWERS_NOTHING,
-    applying,
-    CHOSEN
-  )
+  const answered = await answeringNothing(repo(), NAMER_PAGE)
 
   expect(answered.code).toBe(0)
   expect(answered.report[0] ?? "").toContain("`remove-page` answered no edit")
@@ -504,4 +490,15 @@ test("a change whose writer owes no reading appends without asking the record", 
 
   expect(said.code).toBe(0)
   expect(pathsIn(root)).toEqual(["a/b.ts"])
+})
+
+test("a run that appended its edits names them on the list it is handed", async () => {
+  const said = await doneDrafting(repo(), NAMER_PAGE)
+
+  expect(said.length).toBe(1)
+  expect(said[0] ?? "").toContain("akasha change apply")
+})
+
+test("a run that appended no edit names nothing on the list it is handed", async () => {
+  expect(await doneDrafting(repo(), MISSING)).toEqual([])
 })

@@ -19,6 +19,7 @@ import {
   type Applying,
   type Chosen,
   changing,
+  type Loading,
   type Over,
 } from "akasha/commands/modules/change-running/change-running.module.code.ts"
 import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
@@ -256,6 +257,23 @@ export function owedIn(root: string): readonly (boolean | undefined)[] {
 
 export function drafting(root: string, at: string): Promise<Answer> {
   return acting(root, ["remove-page"], piping(`${taking(at)}draft: true\n`))
+}
+
+const ANSWERS_NOTHING: Loading = async () => ({
+  run: () => ({ edits: [], refused: null }),
+  guards: [],
+})
+
+export async function answeringNothing(root: string, at: string): Promise<Answer> {
+  const said = piping(`${taking(at)}draft: true\n`)
+  return await changing(root, PAGE, null, ["remove-page"], said, ANSWERS_NOTHING, applying, CHOSEN)
+}
+
+export async function doneDrafting(root: string, at: string): Promise<readonly string[]> {
+  const done: string[] = []
+  const said = piping(`${taking(at)}draft: true\n`)
+  await changing(root, PAGE, null, ["remove-page"], said, loading, applying, CHOSEN, done)
+  return done
 }
 
 export function draftingAndApplying(root: string, at: string): Promise<Answer> {

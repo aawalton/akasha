@@ -370,7 +370,8 @@ export async function changing(
   piping: Piping,
   loading: Loading,
   applying: Applying,
-  chosen: Chosen
+  chosen: Chosen,
+  done: string[] = []
 ): Promise<Answer> {
   const before = opening()
   const world = worldAt(root, bodyIn(root), runAt, textIn(root))
@@ -416,6 +417,7 @@ export async function changing(
       return made
     })
   )
+  if (answered.report.length > 0) done.push(keptSaid(page, LANDS))
   costRecorded(
     root,
     commandPageAt(root, chosen.slug),

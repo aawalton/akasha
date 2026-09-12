@@ -1,6 +1,7 @@
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { loadedAt } from "akasha/changes/runners/change-loading/change-loading.module.code.ts"
 import {
+  answering,
   OPERATIONAL,
   refusedBy,
   told,
@@ -50,6 +51,41 @@ async function nothing(): Promise<Answer> {
   return refusedBy([LANDS], OPERATIONAL)
 }
 
+export type Running = (
+  done: string[],
+  page: string,
+  argv: readonly string[],
+  given: Given
+) => Promise<Answer>
+
+export async function ranChange(
+  done: string[],
+  page: string,
+  argv: readonly string[],
+  given: Given
+): Promise<Answer> {
+  return await changing(
+    given.root,
+    page,
+    given.agentId,
+    argv,
+    inputIn,
+    loadedAt,
+    nothing,
+    { ...CHOSEN, calledAs: given.calledAs },
+    done
+  )
+}
+
+export async function drafted(
+  page: string,
+  argv: readonly string[],
+  given: Given,
+  running: Running = ranChange
+): Promise<Answer> {
+  return await answering(async (done) => await running(done, page, argv, given))
+}
+
 export async function changeDraft(argv: readonly string[], given: Given): Promise<Answer> {
   const help = helpIn(argv, given.calledAs, HELP)
   if (help !== null) return told(help)
@@ -57,8 +93,5 @@ export async function changeDraft(argv: readonly string[], given: Given): Promis
   if (page === null || editsAt(page) === null) {
     return mistaking([noPageSaid(given.root, given.agentId)])
   }
-  return await changing(given.root, page, given.agentId, argv, inputIn, loadedAt, nothing, {
-    ...CHOSEN,
-    calledAs: given.calledAs,
-  })
+  return await drafted(page, argv, given)
 }

@@ -153,6 +153,15 @@ export const changeRunning = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A run names its edits on the list it is handed as soon as those edits are appended.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run appending no edit names nothing on that list.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run whose change answered no edit says that change answered none.",
     },
     {
