@@ -7,7 +7,7 @@ export const claudeAccountReEnable = {
   definition:
     "the command putting one claude account back in the pool its subscription shut it out of",
   code: "ts",
-  taking: [{ said: "<account>", takes: "the account to put back, named as its page is named" }],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -43,4 +43,5 @@ export const claudeAccountReEnable = {
     },
   ],
   name: "re-enable",
+  arguments: [{ argument: "argument/account", required: true, saidAs: "word" }],
 } as const satisfies Command

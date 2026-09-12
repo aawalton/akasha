@@ -8,7 +8,6 @@ export const claudeAccountAdd = {
     "the command filing a page for a claude account and giving it the next free alias slot",
   code: "ts",
   taking: [
-    { said: "<account>", takes: "the name the account is to be reached by" },
     { said: "--email <address>", takes: "the address the account signs in as" },
     { said: "--alias <n>", takes: "the alias slot to take, where the next free one is not wanted" },
   ],
@@ -76,4 +75,5 @@ export const claudeAccountAdd = {
     },
   ],
   name: "add",
+  arguments: [{ argument: "argument/account", required: true, saidAs: "word" }],
 } as const satisfies Command
