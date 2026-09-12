@@ -44,7 +44,7 @@ export const athenaCommandTree = {
     {
       statement: "A command answering many is `list`, and a command answering one is `show`.",
       workingMemory:
-        "`list` already holds: `change-list`, `email-messages-list` and `temper-inventory-rule-list` each answer many. `show` drifts both ways: `temper-inventory-rule-show` answers one rule by id, while `page-secret-show.command.ts:7` names which secrets a page holds and `track-session-show.command.ts:7` says the stretches a day has. `page-secret-reveal.command.ts:7` answers one and is named neither. `imessage-recent` and `imessage-unread-list` both give back messages.\n",
+        "`show` and `list` hold across the email, calendar, imessage, inference, domain, seat, agent and temper trees. `temper-inventory-rules` answers one compiled configuration and is the singular-noun intent's page. One class is left: a command named for what it answers with no act word — every `*-status`, every `measure-*`, the temper `-trace`, `-profile`, `-probe` and `-snapshot` getters. Does the rule reach them, making `akasha inference status show` and `akasha measure page list`?\n",
     },
     {
       statement: "A machine-facing answer is a flag on the command a person runs.",
