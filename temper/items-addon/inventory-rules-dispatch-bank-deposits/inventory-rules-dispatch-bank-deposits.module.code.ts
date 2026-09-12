@@ -168,6 +168,7 @@ export function executeBankDeposits(
   const stockDepositedCounts = new LuaMap<number, number>()
 
   let ops = startOps
+  let noRoomSaid = false
 
   for (const dep of deposits) {
     if (ops >= maxOps) break
@@ -238,15 +239,17 @@ export function executeBankDeposits(
 
     const depositItemLink = GetItemLink(dep.bagId, dep.slotIndex, LINK_STYLE_BRACKETS)
     const depositItemId = GetItemLinkItemId(depositItemLink)
-    const partialStorageSlot =
-      dep.action === "stock" ? bankFindPartialStorageSlot(ctx, depositItemId) : undefined
+    const partialStorageSlot = bankFindPartialStorageSlot(ctx, depositItemId)
     if (partialStorageSlot !== undefined) {
       ctx.reserved.delete(slotKey(partialStorageSlot.bag, partialStorageSlot.slot))
     }
     const target = partialStorageSlot ?? bankFindEmptyStorageSlot(ctx)
     if (target === undefined) {
-      d(`[${ADDON_NAME}] Storage is full, stopping deposit`)
-      break
+      if (!noRoomSaid) {
+        d(`[${ADDON_NAME}] Storage has no room for ${depositItemLink}`)
+        noRoomSaid = true
+      }
+      continue
     }
 
     depositedLinks.push(toMove > 1 ? `${depositItemLink} x${toMove}` : depositItemLink)
