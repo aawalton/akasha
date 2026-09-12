@@ -13,7 +13,7 @@ export const day20260911 = {
   intelligenceTopics: 0,
   inboxTasks: 0,
   inboxTasksClearedToday: true,
-  inboxTemperTasks: 13,
+  inboxTemperTasks: 3,
   inboxTemperTasksClearedToday: false,
   sessions: "jsonl",
   lowestEmailInboxCount: 0,
