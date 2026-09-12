@@ -7,10 +7,6 @@ export const temperWatcherLogList = {
   definition: "the command reading the workstation watcher's log lines newest first",
   code: "ts",
   taking: [
-    {
-      said: "--since <duration>",
-      takes: "how far back the records reach, said in seconds, minutes, hours or days",
-    },
     { said: "--json", takes: "give one object holding every line rather than one object per line" },
     { said: "--log-dir <path>", takes: "the directory the watcher's logs are read from" },
   ],
@@ -33,5 +29,5 @@ export const temperWatcherLogList = {
     },
   ],
   name: "log-list",
-  arguments: [{ argument: "argument/limit" }],
+  arguments: [{ argument: "argument/limit" }, { argument: "argument/since" }],
 } as const satisfies Command
