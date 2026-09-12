@@ -14,13 +14,15 @@ export const alanLearnNext = {
       takes: "give the leaf as one line of JSON rather than as a tab-separated row",
     },
   ],
-  helpNotes: [
-    "a leaf is a topic no other topic names as the topic it sits under.",
-    "the sweep is drawn from a seed written into the code, so the leaf handed back keeps coming back until that leaf is opened.",
-    "a leaf is opened where its status is anything other than unopened.",
-    "the sweep covers every leaf, so which leaves are opened moves the place reached rather than the order.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A leaf is a topic no other topic sits under.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A leaf is opened where its status is anything but unopened.",
+    },
     {
       invariantKind: "departure",
       statement: "The order the leaves are walked in is fixed in advance rather than drawn afresh.",
