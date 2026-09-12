@@ -13,11 +13,11 @@ import { companionWeaponSlots } from "akasha/temper/companions-core/modules/comp
 import type { CompanionWeaponTypeId } from "akasha/temper/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { companionWeaponTypes } from "akasha/temper/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 import type { CompanionId } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
+import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 import {
   ESO_EQUIP_TYPES,
   ESO_QUALITY_TO_COMPANION_QUALITY,
-} from "akasha/temper/items-core/eso-companion-equipment-constants-data/eso-companion-equipment-constants-data.module.code.ts"
-import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
+} from "akasha/temper/items-core/modules/eso-companion-equipment-constants-data/eso-companion-equipment-constants-data.module.code.ts"
 import { capitalize } from "akasha/utils/text/modules/capitalize/capitalize.module.code.ts"
 
 interface GearNeed {

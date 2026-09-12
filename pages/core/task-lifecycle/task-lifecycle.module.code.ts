@@ -1,7 +1,7 @@
 import {
   getEsoDayStr,
   getEsoResetTime,
-} from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
+} from "akasha/alan/harness/day/modules/eso-day/eso-day.module.code.ts"
 import { advanceRecurrenceDueDate } from "akasha/alan/harness/recurrence/scheduling/scheduling.module.code.ts"
 import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 

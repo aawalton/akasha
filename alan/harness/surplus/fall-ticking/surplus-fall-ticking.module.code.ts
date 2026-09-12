@@ -1,4 +1,4 @@
-import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
+import { getEsoDayStr } from "akasha/alan/harness/day/modules/eso-day/eso-day.module.code.ts"
 import { ALAN_PERSON } from "akasha/alan/harness/notification-feeds/notifying/notifying.module.code.ts"
 import {
   newestOfKind,

@@ -17,7 +17,7 @@ import {
   ESO_CLASS_ID_TO_CLASS_ID,
   ESO_RACE_ID_TO_RACE_ID,
   getApplicableSkillLineIds,
-} from "akasha/temper/skill-morphs-access/eso-id-helpers/eso-id-helpers.module.code.ts"
+} from "akasha/temper/skill-morphs-access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"
 import type { MorphCharacterRow } from "akasha/temper/skill-morphs-access/morph-completion-shapes/morph-completion-shapes.module.code.ts"
 import { resolveSkillMorphs } from "akasha/temper/skill-morphs-access/skill-morphs-resolver/skill-morphs-resolver.module.code.ts"
 

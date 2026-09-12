@@ -23,7 +23,7 @@ import type { CharacterSkillMorphProgress } from "akasha/temper/skill-morphs/mor
 import {
   ESO_CLASS_ID_TO_CLASS_ID,
   ESO_RACE_ID_TO_RACE_ID,
-} from "akasha/temper/skill-morphs-access/eso-id-helpers/eso-id-helpers.module.code.ts"
+} from "akasha/temper/skill-morphs-access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"
 
 const MAX_CHARACTER_LEVEL = 50
 const MAX_ALLIANCE_RANK = 50

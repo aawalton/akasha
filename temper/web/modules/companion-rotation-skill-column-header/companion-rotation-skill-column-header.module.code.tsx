@@ -12,7 +12,7 @@ import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/
 import { TableHead } from "akasha/design/interfaces/primitives/table/table.module.code.tsx"
 import type { SkillSlotData } from "akasha/temper/companions-core/modules/companion-rotation-slot/companion-rotation-slot.module.code.ts"
 import type { CompanionFormulaStats } from "akasha/temper/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
-import { getEsoIconUrl } from "akasha/temper/formula-framework/eso-icon-url/eso-icon-url.module.code.ts"
+import { getEsoIconUrl } from "akasha/temper/formula-framework/modules/eso-icon-url/eso-icon-url.module.code.ts"
 import { CompanionSkillDetailContent } from "akasha/temper/web/modules/companion-skill-detail-content/companion-skill-detail-content.module.code.tsx"
 import { CompanionSkillSelectDialog } from "akasha/temper/web/modules/companion-skill-select-dialog/companion-skill-select-dialog.module.code.tsx"
 import {

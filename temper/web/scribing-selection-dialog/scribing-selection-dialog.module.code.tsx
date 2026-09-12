@@ -19,7 +19,7 @@ import {
   getGrimoireCompatibleScripts,
   grimoires,
 } from "akasha/temper/character-skills/scribing-grimoires/scribing-grimoires.module.code.ts"
-import { getEsoIconUrl } from "akasha/temper/formula-framework/eso-icon-url/eso-icon-url.module.code.ts"
+import { getEsoIconUrl } from "akasha/temper/formula-framework/modules/eso-icon-url/eso-icon-url.module.code.ts"
 import {
   type FocusScriptId,
   focusScripts,

@@ -1,4 +1,4 @@
-import { getEsoDayAnchor } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
+import { getEsoDayAnchor } from "akasha/alan/harness/day/modules/eso-day/eso-day.module.code.ts"
 import * as chrono from "chrono-node"
 import { z } from "zod"
 

@@ -5,7 +5,7 @@ import {
   takeReadings,
 } from "akasha/alan/harness/attributes/modules/reading/attributes-reading.module.code.ts"
 import { totalAttributes } from "akasha/alan/harness/attributes/modules/totalling/attributes-totalling.module.code.ts"
-import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
+import { getEsoDayStr } from "akasha/alan/harness/day/modules/eso-day/eso-day.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import {
   answering,

@@ -2,7 +2,7 @@
 
 import type { DragStartEvent } from "@dnd-kit/core"
 import { KeyboardSensor, PointerSensor, useSensor, useSensors } from "@dnd-kit/core"
-import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
+import { getEsoDayStr } from "akasha/alan/harness/day/modules/eso-day/eso-day.module.code.ts"
 import {
   letGo,
   tookHold,

@@ -21,14 +21,14 @@ import {
 } from "akasha/commands/modules/page-answering/page-answering.module.code.ts"
 import { temperEsoDeclarationAudit as page } from "akasha/commands/pages/temper/eso/declaration-audit/temper-eso-declaration-audit.command.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
-import type { StampedArtifact } from "akasha/temper/build-deploy-checks/eso-doc-api-version/eso-doc-api-version.module.code.ts"
 import {
   buildEsoClonePopulation,
   WALK_ROOT,
 } from "akasha/temper/build-deploy-checks/modules/eso-clone-artifacts/eso-clone-artifacts.module.code.ts"
+import type { StampedArtifact } from "akasha/temper/build-deploy-checks/modules/eso-doc-api-version/eso-doc-api-version.module.code.ts"
 import { saidShort } from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
-import { parseEsoDocApiVersion } from "akasha/temper/eso-paths/eso-clone-stamp/eso-clone-stamp.module.code.ts"
 import { esouiDocPath } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
+import { parseEsoDocApiVersion } from "akasha/temper/eso-paths/modules/eso-clone-stamp/eso-clone-stamp.module.code.ts"
 
 const SUBJECT = "clone-derived ESO artifacts stamped behind the ~/esoui clone"
 

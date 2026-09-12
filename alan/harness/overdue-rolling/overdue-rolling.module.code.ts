@@ -1,4 +1,4 @@
-import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
+import { getEsoDayStr } from "akasha/alan/harness/day/modules/eso-day/eso-day.module.code.ts"
 import { patchPages } from "akasha/pages/access/patch/patch.module.code.ts"
 import type { Page, PageWhere } from "akasha/pages/core/page-types/page-types.module.code.ts"
 

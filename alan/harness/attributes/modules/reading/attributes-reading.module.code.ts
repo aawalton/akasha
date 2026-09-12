@@ -11,7 +11,7 @@ import { attributeEndurance } from "akasha/alan/attributes/readouts/attribute-en
 import { attributeIntelligence } from "akasha/alan/attributes/readouts/attribute-intelligence/attribute-intelligence.readout.ts"
 import { attributeStrength } from "akasha/alan/attributes/readouts/attribute-strength/attribute-strength.readout.ts"
 import { attributeWisdom } from "akasha/alan/attributes/readouts/attribute-wisdom/attribute-wisdom.readout.ts"
-import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
+import { getEsoDayStr } from "akasha/alan/harness/day/modules/eso-day/eso-day.module.code.ts"
 import { askingIn } from "akasha/alan/harness/plants/reading/plants-reading.module.code.ts"
 import type { Row } from "akasha/alan/harness/readouts/asking/readout-asking.module.code.ts"
 import { keepReading } from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"

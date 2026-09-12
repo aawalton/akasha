@@ -1,5 +1,5 @@
 import { LORE_LIBRARY_DATA } from "akasha/temper/completion/lore-library-data/lore-library-data.module.code.ts"
-import { getEsoDateString } from "akasha/temper/formula-framework/eso-date/eso-date.module.code.ts"
+import { getEsoDateString } from "akasha/temper/formula-framework/modules/eso-date/eso-date.module.code.ts"
 import type { CompletionCardChecker } from "akasha/temper/player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
 import type { CharacterCardId } from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import { isLoreLibraryItemComplete } from "akasha/temper/player-completion/modules/completion-lore-library-progress/completion-lore-library-progress.module.code.ts"

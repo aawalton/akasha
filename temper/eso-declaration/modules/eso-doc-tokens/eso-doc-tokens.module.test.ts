@@ -5,7 +5,7 @@ import {
   parseFunctions,
   parseObjects,
   typeFaultIn,
-} from "akasha/temper/eso-declaration/eso-doc-tokens/eso-doc-tokens.module.code.ts"
+} from "akasha/temper/eso-declaration/modules/eso-doc-tokens/eso-doc-tokens.module.code.ts"
 
 test("a type the map names may be written into a declaration", () => {
   expect(typeFaultIn("string")).toBeNull()

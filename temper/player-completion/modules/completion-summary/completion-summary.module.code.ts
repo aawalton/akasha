@@ -32,7 +32,7 @@ import {
 import {
   EXCLUDED_CATEGORIES,
   EXCLUDED_SKILL_LINES,
-} from "akasha/temper/skill-morphs-access/eso-id-helpers/eso-id-helpers.module.code.ts"
+} from "akasha/temper/skill-morphs-access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"
 
 interface CharacterTotals {
   name: string

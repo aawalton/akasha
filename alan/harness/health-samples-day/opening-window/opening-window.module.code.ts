@@ -3,7 +3,7 @@ import { join } from "node:path"
 import {
   getEsoDayStr,
   getEsoDayWindow,
-} from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
+} from "akasha/alan/harness/day/modules/eso-day/eso-day.module.code.ts"
 import { instantsForMountainWall } from "akasha/alan/harness/day/mountain-wall/mountain-wall.module.code.ts"
 import { entriesIn } from "akasha/pages/entries/page-entries.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"

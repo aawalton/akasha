@@ -23,7 +23,7 @@ import {
 } from "akasha/commands/modules/page-answering/page-answering.module.code.ts"
 import { temperEsoGenerateBaseGameGlobal as page } from "akasha/commands/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
-import { esoDocPathForLuaRoot } from "akasha/temper/build-deploy-checks/eso-doc-api-version/eso-doc-api-version.module.code.ts"
+import { esoDocPathForLuaRoot } from "akasha/temper/build-deploy-checks/modules/eso-doc-api-version/eso-doc-api-version.module.code.ts"
 import {
   saidShort,
   stagingAt,
@@ -32,12 +32,12 @@ import {
   extractGlobalNames,
   extractStringIdNames,
 } from "akasha/temper/commands/modules/eso-base-game-globals/eso-base-game-globals.module.code.ts"
+import { esouiSourceDir } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
+import { collectLuaFiles } from "akasha/temper/eso-paths/lua-files/lua-files.module.code.ts"
 import {
   esoCloneHeaderLines,
   parseEsoDocApiVersion,
-} from "akasha/temper/eso-paths/eso-clone-stamp/eso-clone-stamp.module.code.ts"
-import { esouiSourceDir } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
-import { collectLuaFiles } from "akasha/temper/eso-paths/lua-files/lua-files.module.code.ts"
+} from "akasha/temper/eso-paths/modules/eso-clone-stamp/eso-clone-stamp.module.code.ts"
 
 const NAMED = [codeRootArgument, stageArgument, esoRootArgument]
 
