@@ -222,8 +222,13 @@ test("a hand that failed is said with both initiatives, the statement and the re
 
 const ORDER = { slug: "held", statement: "A thing is so.", onto: "So is this." }
 
+const AGAIN_WRITTEN =
+  "nothing was written — reading those bodies again leaves the edits kept as they were," +
+  " so `akasha change drop` with `all: true` takes them away and the change is drafted again" +
+  " against what is there now"
+
 const REFUSED = `akasha/a.domain.ts — what is on disk is not the body you read, ${PUT_BACK}
-nothing was written — read them again against what is there now`
+${AGAIN_WRITTEN}`
 
 test("a refusal is read as a body that moved by the words the freshness rules close it with", () => {
   expect(movedUnderfoot(REFUSED)).toBe(true)
