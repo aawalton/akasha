@@ -1,10 +1,10 @@
+import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   ACTIVE,
   answeredCall,
   FORCE,
   GOAL,
-  INPUT,
   lockedOff,
   NOTES,
   named,
