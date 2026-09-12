@@ -4,7 +4,7 @@ import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import { composedFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import { chapterWords as countChapterWords } from "akasha/story/engine/core/chapter-words/chapter-words.module.code.ts"
+import { chapterWords as countChapterWords } from "akasha/story/engine/core/modules/chapter-words/chapter-words.module.code.ts"
 import {
   CHAPTER_PAGE_TYPE,
   chapterPageSlug,
@@ -13,7 +13,7 @@ import {
   STORY_ADDRESS,
   STORY_PAGE_TYPE,
   STORY_SLUG,
-} from "akasha/story/wandering-inn/chapter/chapter.module.code.ts"
+} from "akasha/story/wandering-inn/modules/chapter/chapter.module.code.ts"
 
 const PUT = "change-mechanical/add-file-of-any-kind"
 const PROSE = "prose"

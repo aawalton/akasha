@@ -1,7 +1,7 @@
 import {
   classifyTranscriptDelivery,
   type TranscriptOutcome,
-} from "akasha/agents/messaging/channel-delivery/channel-delivery.module.code.ts"
+} from "akasha/agents/messaging/modules/channel-delivery/channel-delivery.module.code.ts"
 import {
   type ClaimedRedeliveryDecision,
   decideClaimedRedelivery,

@@ -16,12 +16,15 @@ class FilingRefused extends Error {}
 
 let filing: (chapter: Filing) => Promise<string> = () => Promise.resolve(AT)
 
-mock.module("akasha/story/wandering-inn/chapter-filing/chapter-filing.module.code.ts", () => ({
-  FilingRefused,
-  assertStoryExists: (): undefined => undefined,
-  filedChapterLinks: (): ReadonlySet<string> => new Set([FILED_URL]),
-  fileChapter: (chapter: Filing): Promise<string> => filing(chapter),
-}))
+mock.module(
+  "akasha/story/wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts",
+  () => ({
+    FilingRefused,
+    assertStoryExists: (): undefined => undefined,
+    filedChapterLinks: (): ReadonlySet<string> => new Set([FILED_URL]),
+    fileChapter: (chapter: Filing): Promise<string> => filing(chapter),
+  })
+)
 
 mock.module("akasha/story/wandering-inn/site/site.module.code.ts", () => ({
   openSite: () =>

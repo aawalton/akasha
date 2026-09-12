@@ -1,5 +1,5 @@
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { loadedAt } from "akasha/changes/runners/change-loading/change-loading.module.code.ts"
+import { loadedAt } from "akasha/changes/runners/modules/change-loading/change-loading.module.code.ts"
 import {
   applyingKept,
   applyWith,

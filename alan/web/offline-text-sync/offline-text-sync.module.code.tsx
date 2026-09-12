@@ -3,7 +3,7 @@
 import {
   selectReadAheadChapterIds,
   selectUnreadChapters,
-} from "akasha/alan/library/reading/chapter-choosing/chapter-choosing.module.code.ts"
+} from "akasha/alan/library/reading/modules/chapter-choosing/chapter-choosing.module.code.ts"
 import {
   loadChapterForOffline,
   loadEagerCarveoutStoryIds,

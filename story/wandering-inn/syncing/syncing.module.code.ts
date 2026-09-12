@@ -2,12 +2,12 @@ import {
   chapterTitleOf,
   isPatronTitle,
   strippedOfTrailingNav,
-} from "akasha/story/wandering-inn/chapter/chapter.module.code.ts"
+} from "akasha/story/wandering-inn/modules/chapter/chapter.module.code.ts"
 import {
   assertStoryExists,
   fileChapter,
   filedChapterLinks,
-} from "akasha/story/wandering-inn/chapter-filing/chapter-filing.module.code.ts"
+} from "akasha/story/wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts"
 import {
   type ListedChapter,
   openSite,

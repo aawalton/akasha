@@ -11,7 +11,7 @@ import {
 import {
   guardsOver,
   runAt,
-} from "akasha/changes/runners/change-loading/change-loading.module.code.ts"
+} from "akasha/changes/runners/modules/change-loading/change-loading.module.code.ts"
 import type { Changes } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.addressed.ts"
 import { DATA, INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { type Applied, applied } from "akasha/commands/modules/applying/applying.module.code.ts"

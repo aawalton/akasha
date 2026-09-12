@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { chapterWords } from "akasha/story/engine/core/chapter-words/chapter-words.module.code.ts"
+import { chapterWords } from "akasha/story/engine/core/modules/chapter-words/chapter-words.module.code.ts"
 
 describe("chapterWords", () => {
   test("counts every word where no paragraph opens with a marker", () => {

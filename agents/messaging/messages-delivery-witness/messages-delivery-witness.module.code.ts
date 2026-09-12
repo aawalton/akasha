@@ -6,7 +6,7 @@ import {
   type DeliveryRecord,
   type DeliveryVerdict,
   readDeliveryRecords,
-} from "akasha/agents/messaging/channel-delivery/channel-delivery.module.code.ts"
+} from "akasha/agents/messaging/modules/channel-delivery/channel-delivery.module.code.ts"
 import { textThere } from "akasha/utils/fs/text-there/text-there.module.code.ts"
 
 export const WITNESS_OBSERVATION_LIMIT = 3

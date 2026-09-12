@@ -1,4 +1,4 @@
-import { chapterWords } from "akasha/story/engine/core/chapter-words/chapter-words.module.code.ts"
+import { chapterWords } from "akasha/story/engine/core/modules/chapter-words/chapter-words.module.code.ts"
 import type {
   Beat,
   ChapterEntry,

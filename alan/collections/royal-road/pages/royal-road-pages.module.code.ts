@@ -1,4 +1,4 @@
-import { chapterWords as countChapterWords } from "akasha/story/engine/core/chapter-words/chapter-words.module.code.ts"
+import { chapterWords as countChapterWords } from "akasha/story/engine/core/modules/chapter-words/chapter-words.module.code.ts"
 
 const ROYAL_ROAD_ORIGIN = "https://www.royalroad.com"
 

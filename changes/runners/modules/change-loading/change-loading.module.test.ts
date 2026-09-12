@@ -19,7 +19,7 @@ import {
   sittingAt,
   takesSaid,
   targetRefusal,
-} from "akasha/changes/runners/change-loading/change-loading.module.code.ts"
+} from "akasha/changes/runners/modules/change-loading/change-loading.module.code.ts"
 import {
   HELD_PAGE,
   indexedRepo,
