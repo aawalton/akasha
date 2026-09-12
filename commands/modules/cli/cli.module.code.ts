@@ -1,5 +1,4 @@
 import { Buffer } from "node:buffer"
-import { mendedFor } from "akasha/agents/hooks/links/hook-links.module.code.ts"
 import { writerIn } from "akasha/agents/read-record/read-record.module.code.ts"
 import { unclassified } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Outside } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -41,10 +40,7 @@ export async function answering(
   from: string
 ): Promise<Said> {
   try {
-    const outside = outsideOf(env, at, from)
-    const mended = mendedFor(outside.root, outside.calledAs)
-    const said = saidOf(await calling(argv, outside))
-    return { out: said.out, err: [...mended, ...said.err], code: said.code }
+    return saidOf(await calling(argv, outsideOf(env, at, from)))
   } catch (thrown) {
     return saidOf(unclassified(thrown, CALLED_AS))
   }

@@ -35,7 +35,8 @@ export const cli = {
     },
     {
       invariantKind: "departure",
-      statement: "Every run writes again a hook link pointing at a file that is gone.",
+      statement:
+        "What a run is outside the command line is gathered here and handed to the command.",
     },
   ],
 } as const satisfies Module
