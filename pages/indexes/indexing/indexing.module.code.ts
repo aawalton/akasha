@@ -72,7 +72,13 @@ function drifting(said: readonly Laid[], went: readonly string[]): Drift {
   }
 }
 
-export function refreshedFrom(tree: string, root: string, repo: string, put = true): Refreshed {
+export function refreshedFrom(
+  tree: string,
+  root: string,
+  repo: string,
+  put = true,
+  done: string[] = []
+): Refreshed {
   if (put) mkdirSync(root, { recursive: true })
   const held: { readonly path: string; readonly value: Value }[] = []
   for (const path of pagesUnder(tree)) {
@@ -86,7 +92,7 @@ export function refreshedFrom(tree: string, root: string, repo: string, put = tr
   refusingEmpty(unique, held.length)
   const identifying = identifyingFrom(sourceOver(values))
   const identity = held.flatMap((one) => identityIn(one.value, one.path, repo, identifying))
-  const drift = [reconcile(identity, root, put)]
+  const drift = [reconcile(identity, root, put, done)]
   const sidecars = sidecarsIn(values)
   const claim = claimingIn(
     repo,
@@ -96,11 +102,11 @@ export function refreshedFrom(tree: string, root: string, repo: string, put = tr
     folderPropertiesIn(values)
   )
   const paths = held.flatMap((one) => claim(one.value, one.path, false))
-  drift.push(reconcile(paths, root, put))
+  drift.push(reconcile(paths, root, put, done))
   const listed = listedOf(paths)
-  drift.push(reconcile(listed, root, put))
+  drift.push(reconcile(listed, root, put, done))
   const valued = held.flatMap((one) => valueIn(one.value, one.path, repo))
-  drift.push(reconcile(valued, root, put))
+  drift.push(reconcile(valued, root, put, done))
   const known = knownIn(readingAt(root), (path) => valueAt(path, repo))
   const beside = bodiesAt(repo)
   const filed = held.map((one) =>
@@ -113,12 +119,12 @@ export function refreshedFrom(tree: string, root: string, repo: string, put = tr
     )
   )
   const relation = filed.flatMap((one) => one.entries)
-  drift.push(reconcile(relation, root, put))
+  drift.push(reconcile(relation, root, put, done))
   const naming = reachingBuilt(held, repo, fileProperties, filedBy)
   const imported = walkedUnder(tree, typed).flatMap((path) =>
     importIn(readFileSync(path, "utf8"), path, repo, naming)
   )
-  drift.push(reconcile(imported, root, put))
+  drift.push(reconcile(imported, root, put, done))
   const walked = walkedUnder(tree, typed)
   const bodied = new Set(walked.map((one) => under(repo, one)))
   const ruled = [
@@ -126,7 +132,7 @@ export function refreshedFrom(tree: string, root: string, repo: string, put = tr
     ...listed.flatMap((one) => (bodied.has(one.line) ? [] : readAt(join(repo, one.line), repo))),
     readerIn(),
   ]
-  drift.push(reconcile(ruled, root, put))
+  drift.push(reconcile(ruled, root, put, done))
   const every = [...identity, ...paths, ...listed, ...valued, ...relation, ...imported, ...ruled]
   return {
     pages: held.length,
@@ -138,12 +144,17 @@ export function refreshedFrom(tree: string, root: string, repo: string, put = tr
       ruled.length +
       valued.length,
     refused: filed.flatMap((one) => one.refused),
-    drift: drifting(drift, takenAway(every, root, put)),
+    drift: drifting(drift, takenAway(every, root, put, done)),
   }
 }
 
-export function refreshedWhole(repo: string, tree: string, put: boolean): Refreshed {
-  return refreshedFrom(tree, indexIn(repo), repo, put)
+export function refreshedWhole(
+  repo: string,
+  tree: string,
+  put: boolean,
+  done: string[] = []
+): Refreshed {
+  return refreshedFrom(tree, indexIn(repo), repo, put, done)
 }
 
 export function filedInto(root: string, filings: readonly Filing[]): undefined {

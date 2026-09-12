@@ -17,6 +17,7 @@ import {
   aTarget,
   aWorldDeclaringNothing,
   aWorldDeclaringNoUnique,
+  aWorldWithOnePage,
   B,
   BLAND,
   BLAND_CODE,
@@ -34,7 +35,9 @@ import {
   linesIn,
   NOTE,
   namingAType,
+  pathBlocked,
   pathFile,
+  pathsFiledIn,
   renamed,
   retyped,
   said,
@@ -44,7 +47,7 @@ import {
   stampsApart,
   TYPE_SLUG,
   tookAway,
-  uniqueKindRespelled,
+  untouchedAfter,
   worldsApart,
   writingTo,
   wrotePages,
@@ -320,10 +323,19 @@ test("a world carrying a page and declaring no property at all is refused", () =
   expect(() => refreshedFrom(tree, root, tree)).toThrow("no property carrying a `unique`")
 })
 
+test("a refresh that threw names the stages it finished and the file it had in hand", () => {
+  const { tree, root } = aWorldWithOnePage()
+  pathBlocked(root, "a.domain.ts")
+  const done: string[] = []
+
+  expect(() => refreshedFrom(tree, root, tree, true, done)).toThrow()
+
+  expect(done[0] ?? "").toMatch(/^identity — \d+ files? written$/)
+  expect(done[done.length - 1] ?? "").toMatch(/^path — \d+ files? written, `\S+` in hand$/)
+})
+
 test("a refresh takes away an entry no page carries", () => {
-  const { tree, root } = bare()
-  put(tree, "domain.page-type.ts", bodyOf(aType("1", "domain", ["page"])[1]))
-  put(tree, "a.domain.ts", bodyOf({ id: A, pageTypeSlug: "domain", slug: "a" }))
+  const { tree, root } = aWorldWithOnePage()
   refreshedFrom(tree, root, tree)
 
   const stale = slugFile(root, "domain", "gone")
@@ -387,20 +399,12 @@ test("a path the index stores is relative to the repository root", () => {
     null
   )
 
-  const held = everyFileUnder(root)
-    .flatMap((one) => one.split("\n"))
-    .filter((one) => one.includes(`"path"`))
-    .map((one) => one.slice(one.indexOf("{")))
+  const held = pathsFiledIn(root)
   expect(held.length).toBeGreaterThan(0)
-  for (const line of held) {
-    expect((JSON.parse(line) as { path: string }).path.startsWith("/")).toBe(false)
-  }
+  for (const one of held) expect(one.startsWith("/")).toBe(false)
 })
 
 test("a unique kind respelled to the scope it already named files nothing for a page left alone", () => {
-  const untouched = (found: readonly string[]): boolean =>
-    found.some((one) => one.includes(join("identity", "page", "id", B)))
-
-  expect(untouched(uniqueKindRespelled("page"))).toBe(false)
-  expect(untouched(uniqueKindRespelled("page-type"))).toBe(true)
+  expect(untouchedAfter("page")).toBe(false)
+  expect(untouchedAfter("page-type")).toBe(true)
 })

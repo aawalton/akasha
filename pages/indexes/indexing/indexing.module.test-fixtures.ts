@@ -1,4 +1,4 @@
-import { readFileSync, rmSync } from "node:fs"
+import { mkdirSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { typed as typedCode } from "akasha/code/typing/code-typing.module.code.ts"
 import {
@@ -197,6 +197,25 @@ export function aWorldDeclaringNoUnique(): Pair {
   return held
 }
 
+export function aWorldWithOnePage(): Pair {
+  const { tree, root } = bare()
+  put(tree, "domain.page-type.ts", bodyOf(aType("1", "domain", ["page"])[1]))
+  put(tree, "a.domain.ts", bodyOf({ id: A, pageTypeSlug: "domain", slug: "a" }))
+  return { tree, root }
+}
+
+export function pathBlocked(root: string, at: string): undefined {
+  const blocked = pathFile(root, at)
+  rmSync(root, { recursive: true, force: true })
+  mkdirSync(join(blocked, "inside"), { recursive: true })
+}
+
+export const pathsFiledIn = (root: string): readonly string[] =>
+  everyFileUnder(root)
+    .flatMap((one) => one.split("\n"))
+    .filter((one) => one.includes(`"path"`))
+    .map((one) => (JSON.parse(one.slice(one.indexOf("{"))) as { path: string }).path)
+
 export function aWorldDeclaringNothing(): Pair {
   const held = { tree: heldAt(), root: heldAt() }
   put(held.tree, "domain.page-type.ts", bodyOf(aType("1", "domain", ["page"])[1]))
@@ -212,6 +231,9 @@ export function uniqueKindRespelled(unique: string): readonly string[] {
     (one) => one.at
   )
 }
+
+export const untouchedAfter = (unique: string): boolean =>
+  uniqueKindRespelled(unique).some((one) => one.includes(join("identity", "page", "id", B)))
 
 export const aTarget = (slug: string): Named => thePage({ id: D, pageTypeSlug: "domain", slug })
 

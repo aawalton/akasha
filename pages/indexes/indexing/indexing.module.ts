@@ -54,5 +54,18 @@ export const indexing = {
       statement:
         "A settle's report names the refusals the world had beside the refusals a change leaves.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A refresh writes the index in stages, one index to a stage.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What each stage wrote is named onto one list the refresh's caller hands in, stage after stage.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller wanting none of that naming hands in no list.",
+    },
   ],
 } as const satisfies Module
