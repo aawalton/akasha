@@ -11,7 +11,6 @@ interface HelpFlagCommon {
   readonly acceptsStdin?: boolean
   readonly valueShape?: FlagValueShape
   readonly path?: boolean
-  readonly aliases?: readonly string[]
 }
 
 interface HelpFlagBoolean extends HelpFlagCommon {
