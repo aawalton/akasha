@@ -4,6 +4,7 @@ import {
   type TakenFor,
   takenFor,
 } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { force as forceArgument } from "akasha/commands/arguments/pages/force.argument.ts"
 import {
   answering,
   DATA,
@@ -45,32 +46,9 @@ import type {
   ItemRule,
 } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
-export const FORCE = "--force"
-
-export const ACTIVE = "--active"
-
-export const TITLE = "--title"
-
-export const NOTES = "--notes"
-
-export const GOAL = "--goal"
-
 export type Kind = "category" | "item" | "buy"
 
 export type Held = { readonly id: string; readonly locked?: boolean }
-
-export type Shape = {
-  readonly takes: readonly string[]
-  readonly alone: readonly string[]
-  readonly whole: readonly string[]
-  readonly yesNo: readonly string[]
-  readonly namesARule: boolean
-  readonly required: readonly string[]
-}
-
-export type Read =
-  | { readonly id: string | null; readonly said: ReadonlyMap<string, string> }
-  | { readonly refused: readonly string[] }
 
 type Kindly = {
   readonly named: string
@@ -143,92 +121,6 @@ export function named(every: readonly string[]): string {
   return `\`${every.join("`, `")}\``
 }
 
-export function shapeOf(
-  takes: readonly string[],
-  how: {
-    readonly alone?: readonly string[]
-    readonly whole?: readonly string[]
-    readonly yesNo?: readonly string[]
-    readonly namesARule?: boolean
-    readonly required?: readonly string[]
-  } = {}
-): Shape {
-  return {
-    takes,
-    alone: how.alone ?? [],
-    whole: how.whole ?? [],
-    yesNo: how.yesNo ?? [],
-    namesARule: how.namesARule ?? false,
-    required: how.required ?? [],
-  }
-}
-
-export function readIn(argv: readonly string[], calledAs: string, shape: Shape): Read {
-  const refusals: string[] = []
-  const held = new Map<string, string>()
-  const alone = new Set(shape.alone)
-  const whole = new Set(shape.whole)
-  const yesNo = new Set(shape.yesNo)
-  let id: string | null = null
-  for (let step = 0; step < argv.length; step += 1) {
-    const one = argv[step]
-    if (one === undefined) continue
-    if (!one.startsWith("-")) {
-      if (!shape.namesARule) {
-        refusals.push(`\`${one}\` follows \`${calledAs}\`, which names no rule`)
-        continue
-      }
-      if (id !== null) {
-        refusals.push(`\`${one}\` follows the rule \`${id}\`, and one call names one rule`)
-        continue
-      }
-      id = one
-      continue
-    }
-    if (!shape.takes.includes(one)) {
-      refusals.push(
-        shape.takes.length === 0
-          ? `\`${one}\` is no flag \`${calledAs}\` takes, and it takes none`
-          : `\`${one}\` is no flag \`${calledAs}\` takes — it takes ${named(shape.takes)}`
-      )
-      continue
-    }
-    if (held.has(one)) {
-      refusals.push(`\`${one}\` was said twice, and one call says it once`)
-      continue
-    }
-    if (alone.has(one)) {
-      held.set(one, "")
-      continue
-    }
-    const value = argv[step + 1]
-    if (value === undefined || value.startsWith("-")) {
-      refusals.push(`\`${one}\` names a value, and nothing that could be one followed it`)
-      continue
-    }
-    step += 1
-    if (whole.has(one) && !/^\d+$/.test(value)) {
-      refusals.push(
-        `\`${one}\` takes a whole number of nought or more, and \`${value}\` is not one`
-      )
-      continue
-    }
-    if (yesNo.has(one) && value !== "true" && value !== "false") {
-      refusals.push(`\`${one}\` takes \`true\` or \`false\`, and \`${value}\` is neither`)
-      continue
-    }
-    held.set(one, value)
-  }
-  if (shape.namesARule && id === null) {
-    refusals.push(`\`${calledAs}\` names the rule to act on, and nothing followed it`)
-  }
-  for (const one of shape.required) {
-    if (!held.has(one)) refusals.push(`\`${calledAs}\` takes \`${one}\`, and it was not said`)
-  }
-  if (refusals.length > 0) return { refused: refusals }
-  return { id, said: held }
-}
-
 export function toldRows(
   rows: ReadonlyArray<Record<string, unknown>>,
   columns: readonly string[]
@@ -242,24 +134,6 @@ export function refusedAll(why: readonly string[]): Answer {
 
 export function refusing(why: string, code: number): Answer {
   return refused(why, code)
-}
-
-export function wholeOf(held: ReadonlyMap<string, string>, flag: string): number | undefined {
-  const value = held.get(flag)
-  return value === undefined ? undefined : Number(value)
-}
-
-export function webIn(held: ReadonlyMap<string, string>): Record<string, unknown> {
-  const title = held.get(TITLE)
-  const notes = held.get(NOTES)
-  const goal = held.get(GOAL)
-  const active = held.get(ACTIVE)
-  return {
-    ...(title !== undefined ? { title } : {}),
-    ...(notes !== undefined ? { notes } : {}),
-    ...(goal !== undefined ? { goal } : {}),
-    ...(active !== undefined ? { active: active === "true" } : {}),
-  }
 }
 
 export type Webbed = {
@@ -285,7 +159,7 @@ export function unfound(kind: Kind, id: string): Answer {
 
 export function lockedOff(kind: Kind, id: string): Answer {
   return refused(
-    `the ${KINDLY[kind].named} \`${id}\` is locked — say \`${FORCE}\` to act on it anyway, or unlock it first`,
+    `the ${KINDLY[kind].named} \`${id}\` is locked — say \`${forceArgument.said}\` to act on it anyway, or unlock it first`,
     INPUT
   )
 }
@@ -355,17 +229,6 @@ export async function copiedRule(kind: Kind, id: string): Promise<Answer> {
   }
   await access.write(next)
   return told(emitJson(clone).split("\n"))
-}
-
-export async function answeredCall(
-  argv: readonly string[],
-  calledAs: string,
-  shape: Shape,
-  act: (held: ReadonlyMap<string, string>, id: string) => Promise<Answer>
-): Promise<Answer> {
-  const read = readIn(argv, calledAs, shape)
-  if ("refused" in read) return refusedAll(read.refused)
-  return await answering(() => act(read.said, read.id ?? ""))
 }
 
 export async function answeredByPage<Page extends Commanding, Pages extends readonly Argument[]>(
