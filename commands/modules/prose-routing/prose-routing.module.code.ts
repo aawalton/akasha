@@ -10,7 +10,6 @@ export interface ProseRouteFlag {
   readonly name: string
   readonly argLabel?: string
   readonly valueShape?: FlagValueShape
-  readonly aliases?: readonly string[]
   readonly repeat?: boolean
 }
 
@@ -58,11 +57,7 @@ function routeFor(flag: ProseRouteFlag): HelpFlag {
 export function expandProseRoutes<T extends ProseRouteFlag>(
   flags: readonly T[]
 ): ProseRouteExpansion<T> {
-  const taken = new Set<string>()
-  for (const flag of flags) {
-    taken.add(flag.name)
-    for (const alias of flag.aliases ?? []) taken.add(alias)
-  }
+  const taken = new Set<string>(flags.map((flag) => flag.name))
 
   const routes: HelpFlag[] = []
   const synthesized = new Map<string, ProseRouteTarget>()
