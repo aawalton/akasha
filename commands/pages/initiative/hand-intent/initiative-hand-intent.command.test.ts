@@ -5,14 +5,15 @@ import type { Given } from "akasha/commands/modules/calling/calling.module.code.
 import {
   handedBy,
   heldAlready,
+  initiativeHandIntent,
   manyIntents,
   messageFor,
   noInitiative,
   noIntent,
-  readIn,
   recordFor,
   saidFor,
   statingIn,
+  wrongIn,
 } from "akasha/commands/pages/initiative/hand-intent/initiative-hand-intent.command.code.ts"
 
 const ASKED = { from: "one", statement: "A thing is so.", to: "two" }
@@ -24,28 +25,24 @@ function rowOf(
   return { slug, path: `${slug}.initiative.ts`, parent: null, persona: null, intents }
 }
 
-test("three words are read as two initiatives and a statement", () => {
-  expect(readIn(["one", "A thing is so.", "two"])).toEqual(ASKED)
-})
+test("a call naming four words is refused", async () => {
+  const said = await initiativeHandIntent(["one", "two", "three", "four"], GIVEN)
 
-test("a call naming two words is refused", () => {
-  expect("refused" in readIn(["one", "two"])).toBe(true)
-})
-
-test("a call naming four words is refused", () => {
-  expect("refused" in readIn(["one", "two", "three", "four"])).toBe(true)
+  expect(said.refusals).toEqual([
+    "`akasha initiative hand-intent` takes 3 words and this call says 4 words",
+  ])
 })
 
 test("a statement of no text is refused", () => {
-  expect(readIn(["one", "  ", "two"])).toEqual({
-    refused: ["the statement said is empty, and an intent is named by the statement it states"],
-  })
+  expect(wrongIn({ ...ASKED, statement: "  " })).toEqual([
+    "the statement said is empty, and an intent is named by the statement it states",
+  ])
 })
 
 test("an initiative handing an intent to itself is refused", () => {
-  expect(readIn(["one", "A thing is so.", "one"])).toEqual({
-    refused: ["`one` is named twice, and an intent is handed to another initiative"],
-  })
+  expect(wrongIn({ ...ASKED, to: ASKED.from })).toEqual([
+    "`one` is named twice, and an intent is handed to another initiative",
+  ])
 })
 
 test("a name that is no initiative is refused in words naming it", () => {

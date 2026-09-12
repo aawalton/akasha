@@ -1,5 +1,9 @@
 import { resolve } from "node:path"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { fromInitiative } from "akasha/commands/arguments/pages/from-initiative.argument.ts"
+import { statement as statementArgument } from "akasha/commands/arguments/pages/statement.argument.ts"
+import { toInitiative } from "akasha/commands/arguments/pages/to-initiative.argument.ts"
 import {
   answering,
   DATA,
@@ -9,6 +13,7 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { initiativeHandIntent as page } from "akasha/commands/pages/initiative/hand-intent/initiative-hand-intent.command.ts"
 import {
   type InitiativeIntent,
   type InitiativeRow,
@@ -23,9 +28,6 @@ const INTENTS = "intents"
 
 const STATEMENT = "statement"
 
-const TAKES =
-  "this takes three words: the initiative handing an intent over, the statement that intent states and the initiative taking it"
-
 const NO_STATEMENT =
   "the statement said is empty, and an intent is named by the statement it states"
 
@@ -35,22 +37,10 @@ export type Asked = {
   readonly to: string
 }
 
-export type Read = Asked | { readonly refused: readonly string[] }
-
-export function readIn(argv: readonly string[]): Read {
-  const from = argv[0]
-  const statement = argv[1]
-  const to = argv[2]
-  if (from === undefined || statement === undefined || to === undefined || argv.length !== 3) {
-    return { refused: [`${TAKES}, and ${argv.length} arrived`] }
-  }
-  if (statement.trim() === "") return { refused: [NO_STATEMENT] }
-  if (from === to) {
-    return {
-      refused: [`\`${from}\` is named twice, and an intent is handed to another initiative`],
-    }
-  }
-  return { from, statement, to }
+export function wrongIn(asked: Asked): readonly string[] {
+  if (asked.statement.trim() === "") return [NO_STATEMENT]
+  if (asked.from !== asked.to) return []
+  return [`\`${asked.from}\` is named twice, and an intent is handed to another initiative`]
 }
 
 export function noInitiative(slug: string): string {
@@ -140,7 +130,18 @@ export async function handedBy(
 }
 
 export async function initiativeHandIntent(argv: readonly string[], given: Given): Promise<Answer> {
-  const read = readIn(argv)
+  const read = takenFor(argv, given.calledAs, page, [
+    fromInitiative,
+    statementArgument,
+    toInitiative,
+  ])
   if ("refused" in read) return mistaking([...read.refused])
-  return await handedBy(read, given)
+  const asked: Asked = {
+    from: read.taken.fromInitiative,
+    statement: read.taken.statement,
+    to: read.taken.toInitiative,
+  }
+  const wrong = wrongIn(asked)
+  if (wrong.length > 0) return mistaking(wrong)
+  return await handedBy(asked, given)
 }
