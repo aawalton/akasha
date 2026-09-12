@@ -1,17 +1,9 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
-import {
-  type Commanding,
-  type TakenFor,
-  takenFor,
-} from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { force as forceArgument } from "akasha/commands/arguments/pages/force.argument.ts"
 import {
-  answering,
   asIndentedJson,
   DATA,
   INPUT,
   refused,
-  refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -260,17 +252,4 @@ export async function copiedRule(
 
 export async function copyingRule(kind: Kind, id: string, done: string[]): Promise<Answer> {
   return await copiedRule(kind, id, await inventorySettings(), done)
-}
-
-export async function answeredByPage<Page extends Commanding, Pages extends readonly Argument[]>(
-  argv: readonly string[],
-  calledAs: string,
-  page: Page,
-  pages: Pages,
-  act: (taken: TakenFor<Page, Pages[number]>, done: string[]) => Promise<Answer>
-): Promise<Answer> {
-  const read = takenFor(argv, calledAs, page, pages)
-  if ("refused" in read) return refusedBy(read.refused)
-  const taken = read.taken
-  return await answering((done) => act(taken, done))
 }

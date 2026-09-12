@@ -14,10 +14,10 @@ import {
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { answeredByPage } from "akasha/commands/modules/eso-answering/eso-answering.module.code.ts"
 import { temperInventoryItemRuleUpdate as page } from "akasha/commands/pages/temper/inventory/item-rule/update/temper-inventory-item-rule-update.command.ts"
 import { emitJson } from "akasha/temper/commands/format-output/format-output.module.code.ts"
 import {
-  answeredByPage,
   lockedOff,
   named,
   settingsOf,

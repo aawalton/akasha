@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import {
   CALLED_AS,
   NAMING_THEM,
@@ -15,7 +16,10 @@ import type {
   Generating,
   Taking,
 } from "akasha/commands/modules/eso-answering/eso-answering.module.code.ts"
-import { esoAnswering } from "akasha/commands/modules/eso-answering/eso-answering.module.code.ts"
+import {
+  answeredByPage,
+  esoAnswering,
+} from "akasha/commands/modules/eso-answering/eso-answering.module.code.ts"
 
 type Handed = Taking<typeof NAMING_THEM, typeof PAGES>
 
@@ -86,4 +90,25 @@ test("the work is handed values typed as the argument pages say", async () => {
   const said = await esoAnswering(NUMBERED, GIVEN, NAMING_THEM, PAGES, TYPED)
 
   expect(said.report).toEqual(["athena", "2"])
+})
+
+test("nothing here leaves the work for a command to open itself", async () => {
+  const said = await answeredByPage(SEATED, CALLED_AS, NAMING_THEM, PAGES, async () => {
+    throw new Error("the store would not open")
+  })
+
+  expect(said.refusals[0]).toBe("the store would not open")
+  expect(said.code).toBe(OPERATIONAL)
+})
+
+test("nothing here adds to the reasons the reader gave", async () => {
+  const read = takenFor(UNREAD, CALLED_AS, NAMING_THEM, PAGES)
+  const said = await answeredByPage(UNREAD, CALLED_AS, NAMING_THEM, PAGES, async () =>
+    told(["reached"])
+  )
+
+  expect("refused" in read).toBe(true)
+  expect(said.refusals).toEqual("refused" in read ? read.refused : [])
+  expect(said.code).toBe(INPUT)
+  expect(said.report).toEqual([])
 })
