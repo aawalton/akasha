@@ -14,13 +14,7 @@ export const measureLearning = {
       takes: "give the reading as one line of JSON rather than as a table",
     },
   ],
-  helpNotes: [
-    "a reading runs from nought to seven rather than from nought to a hundred.",
-    "a part's reading is folded up out of the topics beneath that part rather than kept on its own page.",
-    "the parts come in the order the book puts them in rather than in the order the readings sort.",
-    "the last row is the whole book rather than a part of it.",
-    "a count is every topic under a part, counting that part itself.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
