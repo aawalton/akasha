@@ -15,12 +15,11 @@ export const modelTest = {
     { said: "--json", takes: "the answer as one JSON object rather than as rows" },
     { said: "--show", takes: "the whole prompt put for each case shown and the whole answer back" },
   ],
-  helpNotes: [
-    "a rival prompt is weighed by running it over the cases of the test it rivals, so both are scored on the same cases.",
-    "a case nothing could be asked about is counted broken and marked unreached, because nothing asked answers nothing.",
-    "a run costs one model call for every thing a test asks about a case, so a test asking every rule multiplies the bill.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A case nothing could be asked about is counted broken and reported as unreached.",
+    },
     {
       invariantKind: "departure",
       statement: "A run scores the prompt of the test named rather than the cases of that test.",
