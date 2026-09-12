@@ -1,4 +1,3 @@
-import { STATE } from "akasha/temper/combat-addon/combat-action-queue/combat-action-queue.module.code.ts"
 import type { Action } from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
 import type { Widget } from "akasha/temper/combat-addon/combat-action-widget/combat-action-widget.module.code.ts"
 import {
@@ -11,6 +10,7 @@ import {
   getStartTime,
 } from "akasha/temper/combat-addon/modules/combat-action-duration/combat-action-duration.module.code.ts"
 import { buildActionCtx } from "akasha/temper/combat-addon/modules/combat-action-duration-args/combat-action-duration-args.module.code.ts"
+import { STATE } from "akasha/temper/combat-addon/modules/combat-action-queue/combat-action-queue.module.code.ts"
 
 export function collectShiftActions(
   showedActionMap: ReadonlyMap<number, Action>,

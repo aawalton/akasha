@@ -1,6 +1,6 @@
-import { STATE } from "akasha/temper/combat-addon/combat-action-queue/combat-action-queue.module.code.ts"
 import type { Action } from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
 import { getDuration } from "akasha/temper/combat-addon/modules/combat-action-duration/combat-action-duration.module.code.ts"
+import { STATE } from "akasha/temper/combat-addon/modules/combat-action-queue/combat-action-queue.module.code.ts"
 
 const DRAGONKNIGHT_CLASS_ID = 1
 const FLAME_LASH_ICON_KEYWORD = "dragonknight_001_a"

@@ -1,7 +1,7 @@
-import { matchesOldEffect } from "akasha/temper/combat-addon/combat-action-matching/combat-action-matching.module.code.ts"
-import { STATE } from "akasha/temper/combat-addon/combat-action-queue/combat-action-queue.module.code.ts"
 import { buildAbility } from "akasha/temper/combat-addon/modules/combat-action-ability/combat-action-ability.module.code.ts"
 import { buildEffect } from "akasha/temper/combat-addon/modules/combat-action-effect/combat-action-effect.module.code.ts"
+import { matchesOldEffect } from "akasha/temper/combat-addon/modules/combat-action-matching/combat-action-matching.module.code.ts"
+import { STATE } from "akasha/temper/combat-addon/modules/combat-action-queue/combat-action-queue.module.code.ts"
 
 const CORE_MULTIPLE_TARGET_TRACKING = true
 const CORE_MULTIPLE_TARGET_TRACKING_WITHOUT_CLEARING = true

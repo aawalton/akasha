@@ -1,9 +1,9 @@
-import { matchesAbility } from "akasha/temper/combat-addon/combat-action-matching/combat-action-matching.module.code.ts"
+import type { Action } from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
+import { matchesAbility } from "akasha/temper/combat-addon/modules/combat-action-matching/combat-action-matching.module.code.ts"
 import {
   removeAction,
   STATE,
-} from "akasha/temper/combat-addon/combat-action-queue/combat-action-queue.module.code.ts"
-import type { Action } from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
+} from "akasha/temper/combat-addon/modules/combat-action-queue/combat-action-queue.module.code.ts"
 
 function isSameLogicalSkill(prior: Action, incoming: Action, inCombat: boolean): boolean {
   if (prior.endTime !== 0 && prior.endTime < incoming.startTime) {

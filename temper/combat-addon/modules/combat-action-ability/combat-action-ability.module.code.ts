@@ -1,5 +1,5 @@
-import { isDigitChar } from "akasha/temper/combat-addon/combat-action-icon-path/combat-action-icon-path.module.code.ts"
 import type { Ability } from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
+import { isDigitChar } from "akasha/temper/combat-addon/modules/combat-action-icon-path/combat-action-icon-path.module.code.ts"
 
 const DIGITS = "0123456789"
 const WHITESPACE = " \t\n\r"

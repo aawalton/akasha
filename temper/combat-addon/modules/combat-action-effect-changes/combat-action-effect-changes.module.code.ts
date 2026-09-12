@@ -1,11 +1,3 @@
-import {
-  calcLevel,
-  sortEffectList,
-} from "akasha/temper/combat-addon/combat-action-priority/combat-action-priority.module.code.ts"
-import {
-  removeAction,
-  STATE,
-} from "akasha/temper/combat-addon/combat-action-queue/combat-action-queue.module.code.ts"
 import { getSelectedRole } from "akasha/temper/combat-addon/combat-action-slots/combat-action-slots.module.code.ts"
 import { updateStackInfo } from "akasha/temper/combat-addon/combat-action-stacks/combat-action-stacks.module.code.ts"
 import { saveAction } from "akasha/temper/combat-addon/combat-action-store/combat-action-store.module.code.ts"
@@ -20,6 +12,14 @@ import {
   findActionByNewEffect,
   findActionByOldEffect,
 } from "akasha/temper/combat-addon/modules/combat-action-effect-lookup/combat-action-effect-lookup.module.code.ts"
+import {
+  calcLevel,
+  sortEffectList,
+} from "akasha/temper/combat-addon/modules/combat-action-priority/combat-action-priority.module.code.ts"
+import {
+  removeAction,
+  STATE,
+} from "akasha/temper/combat-addon/modules/combat-action-queue/combat-action-queue.module.code.ts"
 
 export interface EffectChange {
   changeType: number

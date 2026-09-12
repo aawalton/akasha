@@ -1,7 +1,3 @@
-import {
-  getLabelFont,
-  getStackLabelFont,
-} from "akasha/temper/combat-addon/combat-action-fonts/combat-action-fonts.module.code.ts"
 import { getActiveHotbarCategory } from "akasha/temper/combat-addon/combat-action-slots/combat-action-slots.module.code.ts"
 import { resolveStackLabels } from "akasha/temper/combat-addon/combat-action-stack-labels/combat-action-stack-labels.module.code.ts"
 import type { Action } from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
@@ -23,6 +19,10 @@ import {
   getEndTime,
   optEffect,
 } from "akasha/temper/combat-addon/modules/combat-action-duration/combat-action-duration.module.code.ts"
+import {
+  getLabelFont,
+  getStackLabelFont,
+} from "akasha/temper/combat-addon/modules/combat-action-fonts/combat-action-fonts.module.code.ts"
 
 const QUICKSLOT_SLOT_NUM = 9
 

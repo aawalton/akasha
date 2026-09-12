@@ -1,4 +1,3 @@
-import type { LfgRole } from "akasha/temper/combat-addon/combat-action-priority/combat-action-priority.module.code.ts"
 import type {
   Ability,
   Action,
@@ -16,6 +15,7 @@ import {
   TARGET_GROUND,
   TARGET_SELF,
 } from "akasha/temper/combat-addon/modules/combat-action-build/combat-action-build.module.code.ts"
+import type { LfgRole } from "akasha/temper/combat-addon/modules/combat-action-priority/combat-action-priority.module.code.ts"
 
 const PLAYER_UNIT_TAG = "player"
 

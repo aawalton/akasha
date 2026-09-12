@@ -1,4 +1,3 @@
-import { powerLashPoll } from "akasha/temper/combat-addon/combat-action-power-lash/combat-action-power-lash.module.code.ts"
 import { refineTick } from "akasha/temper/combat-addon/combat-action-refine/combat-action-refine.module.code.ts"
 import { getNow } from "akasha/temper/combat-addon/combat-action-slots/combat-action-slots.module.code.ts"
 import { handleReticleTargetChanged } from "akasha/temper/combat-addon/combat-action-target/combat-action-target.module.code.ts"
@@ -19,6 +18,7 @@ import {
   onMountedStateChanged,
   onPlayerActivated,
 } from "akasha/temper/combat-addon/modules/combat-action-event-handlers/combat-action-event-handlers.module.code.ts"
+import { powerLashPoll } from "akasha/temper/combat-addon/modules/combat-action-power-lash/combat-action-power-lash.module.code.ts"
 
 const POWER_LASH_UPDATE = ADDON_NAME + "_PowerLash"
 const REFINE_UPDATE = ADDON_NAME + "_Update"

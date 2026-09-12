@@ -1,11 +1,4 @@
 import {
-  enqueueAction,
-  nextSn,
-  purgeQueue,
-  removeAction,
-  STATE,
-} from "akasha/temper/combat-addon/combat-action-queue/combat-action-queue.module.code.ts"
-import {
   buildActionFromSlot,
   getActiveHotbarCategory,
 } from "akasha/temper/combat-addon/combat-action-slots/combat-action-slots.module.code.ts"
@@ -15,6 +8,13 @@ import {
 } from "akasha/temper/combat-addon/combat-action-store/combat-action-store.module.code.ts"
 import type { Action } from "akasha/temper/combat-addon/combat-action-types/combat-action-types.module.code.ts"
 import { getNewest } from "akasha/temper/combat-addon/modules/combat-action-build/combat-action-build.module.code.ts"
+import {
+  enqueueAction,
+  nextSn,
+  purgeQueue,
+  removeAction,
+  STATE,
+} from "akasha/temper/combat-addon/modules/combat-action-queue/combat-action-queue.module.code.ts"
 
 const INHERIT_EFFECT_TAIL_MS = 500
 
