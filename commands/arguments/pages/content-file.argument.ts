@@ -8,5 +8,4 @@ export const contentFile = {
   takes: "the file the body landing at the `--file-path` before it is read from",
   value: "path",
   placeholder: "file",
-  repeats: true,
 } as const satisfies Argument

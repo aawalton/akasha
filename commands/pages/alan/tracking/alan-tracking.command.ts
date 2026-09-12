@@ -62,7 +62,7 @@ export const alanTracking = {
     { argument: "argument/file-path" },
     { argument: "argument/remove-path" },
     { argument: "argument/commit-message" },
-    { argument: "argument/content-file" },
     { argument: "argument/message-file" },
+    { argument: "argument/content-file", repeats: true },
   ],
 } as const satisfies Command
