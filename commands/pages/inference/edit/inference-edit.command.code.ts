@@ -52,7 +52,7 @@ const TAKING = [
   { said: IMAGE, aliases: ["--in"], repeat: true },
   { said: REFS },
   { said: PROMPT, prose: true },
-  { said: OUTPUT, aliases: ["--out"] },
+  { said: OUTPUT },
   { said: ENGINE },
   { said: ASPECT_RATIO, aliases: ["--aspect"] },
   { said: SIZE },
