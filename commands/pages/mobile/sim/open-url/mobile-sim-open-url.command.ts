@@ -6,13 +6,7 @@ export const mobileSimOpenUrl = {
   slug: "mobile-sim-open-url",
   definition: "the command opening a route in the simulator and leaving a session at it",
   code: "ts",
-  taking: [
-    { said: "--kb-debug", takes: "mount the keyboard-geometry readout over the block editor" },
-    {
-      said: "--as-real-user",
-      takes: "sign in as Alan to read what only he can see, and change nothing through it",
-    },
-  ],
+  taking: [],
 
   invariants: [
     {
@@ -46,5 +40,7 @@ export const mobileSimOpenUrl = {
     { argument: "argument/app" },
     { argument: "argument/udid" },
     { argument: "argument/route", required: true, saidAs: "flag-or-word" },
+    { argument: "argument/kb-debug" },
+    { argument: "argument/as-real-user" },
   ],
 } as const satisfies Command
