@@ -7,7 +7,7 @@ export const trackWeight = {
   definition: "the command recording what Alan's body weighed on a day",
   code: "ts",
   test: "ts",
-  taking: [{ said: "--bodyweight <lb>", takes: "what Alan's body weighed, in pounds" }],
+  taking: [],
 
   invariants: [
     {
@@ -56,5 +56,5 @@ export const trackWeight = {
     },
   ],
   name: "weight",
-  arguments: [{ argument: "argument/day" }],
+  arguments: [{ argument: "argument/day" }, { argument: "argument/bodyweight" }],
 } as const satisfies Command
