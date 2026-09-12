@@ -150,6 +150,10 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
+      statement: "The shape every page property of one page type has is one file read.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The pages of one page type are answered by path as one map.",
     },
     {
@@ -172,6 +176,10 @@ export const indexReading = {
       invariantKind: "departure",
       statement:
         "The value the pages of one page type carry is held for the reading and that page type together.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The shape the page properties of one page type have is held the same way.",
     },
     {
       invariantKind: "departure",

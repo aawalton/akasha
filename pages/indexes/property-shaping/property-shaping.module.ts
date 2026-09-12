@@ -42,6 +42,10 @@ export const propertyShaping = {
     },
     {
       invariantKind: "departure",
+      statement: "A name saying a page type reads the shapes filed under that page type alone.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A name saying no page type is answered by the one shape carrying that slug.",
     },
     {

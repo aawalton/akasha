@@ -321,6 +321,29 @@ export function shapesEvery(given: string | Reading): ReadonlyMap<string, Shape>
   )
 }
 
+const shapedOfType = heldEach(
+  (reading: Reading, pageTypeSlug: string): ReadonlyMap<string, Shape> => {
+    const found = new Map<string, Shape>()
+    for (const line of reading.lines(join(SHAPES, PROPERTY, `${pageTypeSlug}${ENDING}`))) {
+      const held = JSON.parse(line) as Shape
+      if (!found.has(held.slug)) found.set(held.slug, held)
+    }
+    return found
+  }
+)
+
+export function shapesOfType(
+  given: string | Reading,
+  pageTypeSlug: string
+): ReadonlyMap<string, Shape> {
+  return answered(
+    given,
+    ROOT,
+    `what shape the \`${pageTypeSlug}\` page properties have`,
+    (reading) => shapedOfType(reading, pageTypeSlug)
+  )
+}
+
 const bodied = heldEach((reading: Reading, path: string): Value | null => {
   const body = reading.read(path)
   return body === null ? null : valueIn(body)

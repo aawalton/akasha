@@ -1,5 +1,9 @@
 import { addressedIn, addressIn } from "akasha/pages/address/page-address.module.code.ts"
-import { answered, shapesEvery } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  answered,
+  shapesEvery,
+  shapesOfType,
+} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Reading, Shape } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 
 export function shapesAt(given: string | Reading): ReadonlyMap<string, Shape> {
@@ -40,7 +44,7 @@ function namedIn(reading: Reading, named: string): Shaping {
   if ("id" in address) {
     return { refused: `\`${named}\` names a page by id, and a page property is named by its slug` }
   }
-  const one = shapesAt(reading).get(`${address.pageTypeSlug}/${address.value}`)
+  const one = shapesOfType(reading, address.pageTypeSlug).get(address.value)
   return one === undefined ? { refused: carriesNo(address.value) } : { shape: one }
 }
 

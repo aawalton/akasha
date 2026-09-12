@@ -14,6 +14,8 @@ import {
   listedFor,
   listedWithin,
   readingIn,
+  shapesEvery,
+  shapesOfType,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   importFiled,
@@ -22,6 +24,7 @@ import {
   nothingFiled,
   pathFiled,
   scopedFiled,
+  shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { indexAt, indexIn } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
@@ -276,6 +279,34 @@ test("a page type whose slug is unique within a scope is answered from every sco
   scopedFiled(root, "section", "section-of", "second", "two", [two])
 
   expect(everyOfType(root, "section")).toEqual([one, two])
+})
+
+test("the shape every page property of one page type has is that page type's file read", () => {
+  const root = rootAt()
+  shapeAdded(root, "text-property", "held", [{}])
+  shapeAdded(root, "number-property", "counted", [{}])
+
+  expect([...shapesOfType(root, "text-property").keys()]).toEqual(["held"])
+  expect([...shapesOfType(root, "number-property").keys()]).toEqual(["counted"])
+  expect([...shapesEvery(root).keys()].sort()).toEqual([
+    "number-property/counted",
+    "text-property/held",
+  ])
+})
+
+test("a page type no page property is filed under is answered with no shape", () => {
+  const root = rootAt()
+  shapeAdded(root, "text-property", "held", [{}])
+
+  expect([...shapesOfType(root, "url-property").keys()]).toEqual([])
+})
+
+test("the shapes of one page type are read once for a reading and that page type together", () => {
+  const root = rootAt()
+  shapeAdded(root, "text-property", "held", [{}])
+  const reading = readingIn(root)
+
+  expect(shapesOfType(reading, "text-property")).toBe(shapesOfType(reading, "text-property"))
 })
 
 test("a page the values name and no slug names is answered by nothing", () => {
