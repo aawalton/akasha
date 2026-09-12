@@ -53,6 +53,10 @@ export const changePagePageType = {
       invariantKind: "absence",
       statement: "Nothing here changes the slug a page states.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The body states its new page type before any file beside that body is carried.",
+    },
   ],
   changeKind: "change-checked",
 } as const satisfies ChangeAgent

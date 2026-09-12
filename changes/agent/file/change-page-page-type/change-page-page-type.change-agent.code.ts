@@ -74,8 +74,7 @@ export async function changePagePageType(
   if (typeof moved === "string") return refusing(moved)
   const reading = importingOf(world.index, moved)
   if ("unread" in reading) return refusing(reading.unread)
-  const at = moved.get(given.at)
-  if (at === undefined) return refusing(`\`${given.at}\` names no file the page type moves`)
+  if (!moved.has(given.at)) return refusing(`\`${given.at}\` names no file the page type moves`)
   const movedOver = Object.fromEntries(moved)
   const carried: Answer[] = []
   let over = world
@@ -86,6 +85,10 @@ export async function changePagePageType(
   if (addressed.said.refused !== null) return addressed.said
   carried.push(addressed.said)
   over = addressed.world
+  const restated = await reach(over, CHANGE_PAGE_PAGE_TYPE, { at: given.at, to: given.to })
+  if (restated.said.refused !== null) return restated.said
+  carried.push(restated.said)
+  over = restated.world
   for (const [one, next] of moved) {
     if (over.bodyOf(one) === null) return refusing(`\`${one}\` could not be read`)
     const carrying = await reach(over, MOVE_FILE, { from: one, to: next })
@@ -97,10 +100,6 @@ export async function changePagePageType(
     carried.push(answer.said)
     over = answer.world
   }
-  const restated = await reach(over, CHANGE_PAGE_PAGE_TYPE, { at, to: given.to })
-  if (restated.said.refused !== null) return restated.said
-  carried.push(restated.said)
-  over = restated.world
   for (const path of reading.importers) {
     if (moved.has(path)) continue
     const text = over.textOf(path)
