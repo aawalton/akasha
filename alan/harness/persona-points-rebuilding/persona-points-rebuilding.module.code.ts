@@ -4,7 +4,7 @@ import {
   daysMessaged,
   daysOn,
   sentOver,
-} from "akasha/alan/track/daily/day-messages-totalling/day-messages-totalling.module.code.ts"
+} from "akasha/alan/track/daily/modules/day-messages-totalling/day-messages-totalling.module.code.ts"
 import { rootStated } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import {
   keepPoints,

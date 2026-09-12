@@ -13,7 +13,7 @@ import {
   transcriptIn,
   transcriptsIn,
   wroteIn,
-} from "akasha/alan/track/daily/day-messages-mining/day-messages-mining.module.code.ts"
+} from "akasha/alan/track/daily/modules/day-messages-mining/day-messages-mining.module.code.ts"
 
 const KNOWN = new Set(["aura", "amy", "thea"])
 

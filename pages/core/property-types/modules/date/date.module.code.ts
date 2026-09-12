@@ -1,12 +1,12 @@
 import type {
   BetweenDateValue,
   SentinelDateValue,
-} from "akasha/pages/core/property-types/date-sentinels/date-sentinels.module.code.ts"
+} from "akasha/pages/core/property-types/modules/date-sentinels/date-sentinels.module.code.ts"
 import {
   isRelativeToTodayValue,
   resolveDateSentinel,
   resolveRelativeToToday,
-} from "akasha/pages/core/property-types/date-sentinels/date-sentinels.module.code.ts"
+} from "akasha/pages/core/property-types/modules/date-sentinels/date-sentinels.module.code.ts"
 import type {
   FilterConfig,
   FilterOperatorOption,

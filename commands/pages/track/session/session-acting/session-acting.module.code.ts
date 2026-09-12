@@ -8,7 +8,7 @@ import {
   besideArgv,
   type Landing,
   pathUnder,
-} from "akasha/commands/pages/track/session/day-landing/day-landing.module.code.ts"
+} from "akasha/commands/pages/track/session/modules/day-landing/day-landing.module.code.ts"
 import type {
   RelationshipPage,
   Tagged,

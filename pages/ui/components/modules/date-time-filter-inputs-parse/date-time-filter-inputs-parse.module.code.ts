@@ -4,7 +4,7 @@ import type {
   RelativeToTodayValue,
   SentinelDateValue,
   SentinelInstantValue,
-} from "akasha/pages/core/property-types/date-sentinels/date-sentinels.module.code.ts"
+} from "akasha/pages/core/property-types/modules/date-sentinels/date-sentinels.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 
 function isJsonObject(

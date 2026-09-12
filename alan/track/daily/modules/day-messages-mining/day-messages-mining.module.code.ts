@@ -5,7 +5,7 @@ import { getEsoDayStrAt } from "akasha/alan/harness/day/eso-day/eso-day.module.c
 import {
   type Counted,
   dayPageAt,
-} from "akasha/alan/track/daily/day-messages/day-messages.module.code.ts"
+} from "akasha/alan/track/daily/modules/day-messages/day-messages.module.code.ts"
 import { mergeUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { personasStanding } from "akasha/personas/reading/persona-reading.module.code.ts"
 import { firstCapture } from "akasha/utils/narrow/first-capture/first-capture.module.code.ts"

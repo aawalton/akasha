@@ -4,7 +4,7 @@ import type {
   RelativeToTodayValue,
   SentinelDateValue,
   SentinelInstantValue,
-} from "akasha/pages/core/property-types/date-sentinels/date-sentinels.module.code.ts"
+} from "akasha/pages/core/property-types/modules/date-sentinels/date-sentinels.module.code.ts"
 import {
   resolveDateSentinel,
   resolveInstantSentinel,
@@ -12,7 +12,7 @@ import {
   resolveRelativeToToday,
   resolveRelativeToTodayInstant,
   resolveSentinelInstantDayRange,
-} from "akasha/pages/core/property-types/date-sentinels/date-sentinels.module.code.ts"
+} from "akasha/pages/core/property-types/modules/date-sentinels/date-sentinels.module.code.ts"
 import type { FilterOperator } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
 import { isJson } from "akasha/utils/narrow/is-json/is-json.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"

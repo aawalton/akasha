@@ -3,11 +3,11 @@ import { expect, mock, test } from "bun:test"
 const RAN: string[] = []
 
 const calories = await import(
-  "akasha/alan/track/daily/day-active-calories/day-active-calories.module.code.ts"
+  "akasha/alan/track/daily/modules/day-active-calories/day-active-calories.module.code.ts"
 )
 
 mock.module(
-  "akasha/alan/track/daily/day-active-calories/day-active-calories.module.code.ts",
+  "akasha/alan/track/daily/modules/day-active-calories/day-active-calories.module.code.ts",
   () => ({
     ...calories,
     runDayActiveCalories: () => {
@@ -40,7 +40,7 @@ test("a roll that landed nothing is carried out rather than swallowed, so a fail
   RAN.length = 0
   const why = new Error(calories.NOTHING_LANDED)
   mock.module(
-    "akasha/alan/track/daily/day-active-calories/day-active-calories.module.code.ts",
+    "akasha/alan/track/daily/modules/day-active-calories/day-active-calories.module.code.ts",
     () => ({
       ...calories,
       runDayActiveCalories: () => Promise.reject(why),

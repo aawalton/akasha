@@ -1,7 +1,7 @@
 import {
   raiseMessages,
   sentIn,
-} from "akasha/alan/track/daily/day-messages/day-messages.module.code.ts"
+} from "akasha/alan/track/daily/modules/day-messages/day-messages.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { seat } from "akasha/commands/arguments/pages/seat.argument.ts"
 import { answering, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"

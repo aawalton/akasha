@@ -1,6 +1,6 @@
-import { completedTasksInSpan } from "akasha/alan/track/daily/day-completions/day-completions.module.code.ts"
 import { openedWindowOn } from "akasha/alan/track/daily/day-opening/day-opening.module.code.ts"
 import { textOf } from "akasha/alan/track/daily/day-scan-window/day-scan-window.module.code.ts"
+import { completedTasksInSpan } from "akasha/alan/track/daily/modules/day-completions/day-completions.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

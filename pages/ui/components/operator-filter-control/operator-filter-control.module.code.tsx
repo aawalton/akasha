@@ -22,7 +22,7 @@ import {
   DateSentinelInput,
   InstantSentinelInput,
   RelativeToTodayInput,
-} from "akasha/pages/ui/components/date-time-filter-inputs/date-time-filter-inputs.module.code.tsx"
+} from "akasha/pages/ui/components/modules/date-time-filter-inputs/date-time-filter-inputs.module.code.tsx"
 import {
   MultiRelationValueInput,
   RelationValueInput,

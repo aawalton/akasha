@@ -12,7 +12,7 @@ import {
   DATE_SENTINEL_OPTIONS,
   RELATIVE_DIRECTION_OPTIONS,
   RELATIVE_UNIT_OPTIONS,
-} from "akasha/pages/core/property-types/date-sentinels/date-sentinels.module.code.ts"
+} from "akasha/pages/core/property-types/modules/date-sentinels/date-sentinels.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import {
   betweenDateToJson,
@@ -25,7 +25,7 @@ import {
   relativeToTodayToJson,
   sentinelDateToJson,
   sentinelInstantToJson,
-} from "akasha/pages/ui/components/date-time-filter-inputs-parse/date-time-filter-inputs-parse.module.code.ts"
+} from "akasha/pages/ui/components/modules/date-time-filter-inputs-parse/date-time-filter-inputs-parse.module.code.ts"
 import { Check, ChevronDown } from "lucide-react"
 import { useEffect, useState } from "react"
 
