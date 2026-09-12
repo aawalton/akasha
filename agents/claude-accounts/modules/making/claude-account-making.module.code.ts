@@ -6,6 +6,7 @@ import {
   type Asking,
   landedMechanically,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { partWay } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
 import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
 import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
@@ -169,15 +170,7 @@ export async function madeIn(
     return { kind: "made", slug, path, id }
   } catch (thrown) {
     const whyThrown = thrown instanceof Error ? thrown.message : String(thrown)
-    const landed =
-      done.length === 0
-        ? ""
-        : ` — ${done.join(", ")} landed before it stopped, so the page this wrote is in that ` +
-          `commit rather than still to write`
-    return {
-      kind: "refused",
-      slug,
-      why: `the page make threw, which it is written never to do: ${whyThrown}${landed}`,
-    }
+    const why = `the page make threw, which it is written never to do: ${whyThrown}`
+    return { kind: "refused", slug, why: [why, ...partWay(done)].join(" ") }
   }
 }

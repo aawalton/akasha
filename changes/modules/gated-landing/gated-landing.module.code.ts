@@ -1,5 +1,6 @@
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { landedMechanically } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { partWay } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { resolveRoots, rootFor } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 
@@ -30,8 +31,9 @@ function rootOf(act: GatedAct): string {
 }
 
 function alsoLanded(done: readonly string[]): string {
-  if (done.length === 0) return ""
-  return `\n${done.join(", ")} landed before it stopped, so read that commit rather than landing these bodies again`
+  return partWay(done)
+    .map((one) => `\n${one}`)
+    .join("")
 }
 
 async function landing(act: GatedAct, asked: readonly Asking[]): Promise<Landed> {
