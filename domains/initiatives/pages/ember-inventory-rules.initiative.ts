@@ -13,10 +13,9 @@ export const emberInventoryRules = {
         "The tooltip re-evaluates the compiled rules; a venue reads the pending action `applyAction` recorded. `sell` recorded none, alone of eighteen, so the store fell back to the game's junk flag and an item ESO refuses to junk showed Sell and never sold. 80631ab records it, a238ade stops the plan counting it twice, 0b0341a names destroying. Six of the shape are left and latent: `stock` to the furniture vault, cross-character `fence-sell`, `character-equip`, `refine`, `mail`, `use`.",
     },
     {
-      statement:
-        "A destination chain hands an item to the first tier whose eligibility that character meets.",
+      statement: "The reading outside the game resolves a destination chain as the addon does.",
       workingMemory:
-        "Item 71779 matches rule 440d6e66: `scrolls`, `stock`, not-stolen, name Counterfeit Pardon Edict. Its chain is `character:by-priority` at ten where any of world-legerdemain, guild-thieves-guild or guild-dark-brotherhood is not maxed, then `bank`. The tooltip says Stock On Bank (x10) and nothing moves; `explain 71779` gives that rule matched with destination and resolvedDestination both null. Alan holds ten and has not maxed those lines, so the first tier is right and the tooltip is wrong.",
+        "Item 71779, rule 440d6e66. The addon was right: `resolveStockChainForCurrentChar` fills the character to the tier's targetQuantity, reads charEligibility, and sends on only the surplus. Alan holds ten and is eligible, so no surplus exists and nothing should move. The label lied, and f57605c makes it `Stock x10, rest to Bank`. Left: `resolveDestination` offline gives concrete empty for a rule carrying no flat destination and never reads destinationChain, so explain and plan show no tier.",
     },
     {
       statement:
