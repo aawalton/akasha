@@ -1,5 +1,10 @@
 import { writeFile } from "node:fs/promises"
 import { resolve } from "node:path"
+import {
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { buildSchematic } from "akasha/infrastructure/cluster/provisioning/talos/build-schematic/build-schematic.module.code.ts"
@@ -22,10 +27,6 @@ export const NODE = "--node"
 export const DOWNLOAD = "--download"
 
 const VALUED: readonly string[] = [NODE, DOWNLOAD]
-
-const INPUT = 1
-
-const OPERATIONAL = 3
 
 export type Named = { readonly node: string; readonly download: string | null }
 
@@ -104,13 +105,13 @@ async function registering(read: Named, given: Given): Promise<Answer> {
   const id = await registerSchematic(emitSchematicYaml(buildSchematic(node)))
   const isoUrl = installerIsoUrl(id, cluster.talosVersion)
   const report = [`schematic id: ${id}`, `installer iso: ${isoUrl}`]
-  if (read.download === null) return { report, refusals: [], code: 0 }
+  if (read.download === null) return { report, refusals: [], code: OK }
   const got = await fetched(isoUrl)
   if ("refused" in got) return { report, refusals: [got.refused], code: OPERATIONAL }
   const at = resolve(given.root, read.download)
   await writeFile(at, got.bytes)
   report.push(`wrote ${at}`)
-  return { report, refusals: [], code: 0 }
+  return { report, refusals: [], code: OK }
 }
 
 export async function talosImageBuild(argv: readonly string[], given: Given): Promise<Answer> {
