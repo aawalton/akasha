@@ -6,7 +6,11 @@ import {
   commitRecordedIn,
   endedIn,
 } from "akasha/commands/pages/deploy/commit-recording/deploy-commit-recording.module.code.ts"
-import { closureFor } from "akasha/commands/pages/deploy/file-closure/deploy-file-closure.module.code.ts"
+import {
+  closureIn,
+  type Reading,
+  readingAt,
+} from "akasha/commands/pages/deploy/file-closure/deploy-file-closure.module.code.ts"
 import {
   type Named,
   WORKSTATION_SERVICE,
@@ -38,12 +42,13 @@ export function wantsIn(
   root: string,
   subject: Subject,
   was: string | null,
-  commit: string
+  commit: string,
+  reading: Reading
 ): boolean {
   if (was === null) return true
   const changed = changedBetween(root, was, commit)
   if (changed.length === 0) return false
-  const built = closureFor(root, subject.slug, readAs(subject), commit)
+  const built = closureIn(reading, root, subject.slug, readAs(subject))
   return changed.some((one) => built.has(one))
 }
 
@@ -51,12 +56,13 @@ export function candidateFor(
   root: string,
   subject: Subject,
   commit: string,
-  deploying: boolean = false
+  deploying: boolean = false,
+  reading: Reading = readingAt(root, commit)
 ): Candidate {
   const was = sinceCommit(root, commitRecordedIn(root, subject.pagePath))
   return {
     slug: subject.slug,
-    wants: wantsIn(root, subject, was, commit),
+    wants: wantsIn(root, subject, was, commit, reading),
     deploying,
     deployedAt: was === null ? null : committedAt(root, was),
     deployEndedAt: endedIn(root, subject.pagePath),
@@ -71,7 +77,8 @@ export function candidatesIn(
   commit: string,
   deploying: ReadonlySet<string> = new Set<string>()
 ): readonly Candidate[] {
+  const reading = readingAt(root, commit)
   return subjectsOf(root, kind).map((one) =>
-    candidateFor(root, one, commit, deploying.has(one.slug))
+    candidateFor(root, one, commit, deploying.has(one.slug), reading)
   )
 }

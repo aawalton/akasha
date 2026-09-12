@@ -48,5 +48,9 @@ export const deployWanting = {
       invariantKind: "absence",
       statement: "Nothing here puts anything up.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Every candidate of one kind is weighed against one reading of the commit.",
+    },
   ],
 } as const satisfies Module

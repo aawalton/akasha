@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { readingAt } from "akasha/commands/pages/deploy/file-closure/deploy-file-closure.module.code.ts"
 import { COOLDOWN_SECONDS } from "akasha/infrastructure/services/deploy-choosing/deploy-choosing.module.code.ts"
 import type { Subject } from "akasha/infrastructure/services/deploy-subject-listing/deploy-subject-listing.module.code.ts"
 import {
@@ -40,9 +41,13 @@ test("a commit git resolves has the moment it was made", () => {
 })
 
 test("a service nothing has put up wants a deploy", () => {
-  expect(wantsIn(ROOT, subject("web-app", "temper-web"), null, "HEAD")).toBe(true)
+  expect(
+    wantsIn(ROOT, subject("web-app", "temper-web"), null, "HEAD", readingAt(ROOT, "HEAD"))
+  ).toBe(true)
 })
 
 test("a service put up at the same commit wants nothing", () => {
-  expect(wantsIn(ROOT, subject("web-app", "temper-web"), "HEAD", "HEAD")).toBe(false)
+  expect(
+    wantsIn(ROOT, subject("web-app", "temper-web"), "HEAD", "HEAD", readingAt(ROOT, "HEAD"))
+  ).toBe(false)
 })
