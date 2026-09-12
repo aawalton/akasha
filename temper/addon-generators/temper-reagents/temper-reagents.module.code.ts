@@ -1,4 +1,5 @@
 import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { z } from "zod"
 
 const REAGENT_EAV_SCHEMA = z
@@ -67,7 +68,7 @@ export function generateTemperReagents(reagentRows: readonly Page[]): string {
  * path, and the 4-tuple of poison-effect ids that drive the crafting
  * combination logic.
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 import type { Reagent } from "../reagents-data"

@@ -1,4 +1,5 @@
 import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { spelt } from "akasha/temper/items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
 import { z } from "zod"
 
@@ -152,7 +153,7 @@ export function generateTemperRuleTemplate(
  * A condition names its field by the slug of a temper-condition-field
  * page, and the key emitted here is the one that page holds.
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 import type { CategoryRule } from "../inventory-rule-types"
