@@ -13,7 +13,6 @@ export const inferenceGenerate = {
       takes: "that prompt read from a path, or `-` for standard input",
     },
     { said: "--guidance <n>", takes: "how far the sampler is pushed toward the prompt" },
-    { said: "--service <name>", takes: "the image pool service the render goes through" },
   ],
   invariants: [
     {
@@ -58,5 +57,6 @@ export const inferenceGenerate = {
     { argument: "argument/no-persist" },
     { argument: "argument/steps" },
     { argument: "argument/size" },
+    { argument: "argument/service" },
   ],
 } as const satisfies Command

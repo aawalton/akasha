@@ -17,7 +17,6 @@ export const inferenceVoiceDesign = {
       takes: "what the voice says, which becomes the clip's transcript",
     },
     { said: "--text-file <path>", takes: "that text read from a path, or `-` for standard input" },
-    { said: "--service <name>", takes: "the backend the voice is made on" },
     { said: "--lang <name>", takes: "the language the speaking is in" },
   ],
   invariants: [
@@ -52,5 +51,9 @@ export const inferenceVoiceDesign = {
     },
   ],
   name: "design",
-  arguments: [{ argument: "argument/output" }, { argument: "argument/no-persist" }],
+  arguments: [
+    { argument: "argument/output" },
+    { argument: "argument/no-persist" },
+    { argument: "argument/service" },
+  ],
 } as const satisfies Command
