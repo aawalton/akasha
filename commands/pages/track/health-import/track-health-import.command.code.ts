@@ -16,15 +16,13 @@ import {
   OK,
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const NOTHING = "—"
 
 export const HEALTH = "health"
-
-const CALLED = "akasha track health import"
 
 const FILE_PATH = "--file-path"
 
@@ -60,7 +58,7 @@ export type Taken = {
 
 export type Reading = Taken | { readonly refused: string }
 
-export function taken(argv: readonly string[]): Reading {
+export function taken(argv: readonly string[], calledAs: string): Reading {
   const held = new Map<string, string>()
   const bare = new Set<string>()
   let at = 0
@@ -73,12 +71,12 @@ export function taken(argv: readonly string[]): Reading {
     }
     if (!one.startsWith("-")) {
       return {
-        refused: `\`${CALLED}\` takes flags alone, and \`${one}\` is named as a word of its own`,
+        refused: `\`${calledAs}\` takes flags alone, and \`${one}\` is named as a word of its own`,
       }
     }
     const named = VALUED.find((each) => one === each || one.startsWith(`${each}=`))
     if (named === undefined) {
-      return { refused: `\`${one}\` is nothing \`${CALLED}\` takes` }
+      return { refused: `\`${one}\` is nothing \`${calledAs}\` takes` }
     }
     let value: string | undefined
     if (one === named) {
@@ -211,8 +209,8 @@ export function reaching(held: Taken): ImportRunDeps {
   }
 }
 
-export async function trackHealthImport(argv: readonly string[]): Promise<Answer> {
-  const held = taken(argv)
+export async function trackHealthImport(argv: readonly string[], given: Given): Promise<Answer> {
+  const held = taken(argv, given.calledAs)
   if ("refused" in held) return refused(held.refused, INPUT)
   return await healthImported(held, reaching(held), Date.now())
 }

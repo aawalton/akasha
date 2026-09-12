@@ -7,6 +7,7 @@ import {
   MAX_IMPORT_BATCH,
   NO_LOWER_BOUND,
 } from "akasha/alan/harness/health-samples-import/health-import-run/health-import-run.module.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   healthImported,
   linesOf,
@@ -19,8 +20,12 @@ const SOURCE = "/Users/nobody/Downloads/export.zip"
 
 const REACHED = "the writer was reached"
 
+const CALLED = "akasha track health-import"
+
+const GIVEN: Given = { root: ".", calledAs: CALLED, from: ".", writer: null, agentId: null }
+
 function held(argv: readonly string[]): Taken {
-  const said = taken(argv)
+  const said = taken(argv, CALLED)
   if ("refused" in said) throw new Error(said.refused)
   return said
 }
@@ -81,44 +86,48 @@ const BROKEN_REACH: ImportRunDeps = {
 }
 
 test("a word of its own is refused, because this call takes flags alone", async () => {
-  const answer = await trackHealthImport(["weather"])
+  const answer = await trackHealthImport(["weather"], GIVEN)
   expect(answer.code).toBe(1)
   expect(answer.refusals[0]).toContain("`weather`")
 })
 
 test("the subject is no longer said, so naming it is refused as a word of its own", async () => {
-  const answer = await trackHealthImport(["health"])
+  const answer = await trackHealthImport(["health"], GIVEN)
   expect(answer.code).toBe(1)
-  expect(answer.refusals[0]).toContain("akasha track health import")
+  expect(answer.refusals[0]).toContain(CALLED)
 })
 
 test("a flag this command does not take is refused by name", async () => {
-  const answer = await trackHealthImport(["--json"])
+  const answer = await trackHealthImport(["--json"], GIVEN)
   expect(answer.code).toBe(1)
   expect(answer.refusals[0]).toContain("`--json`")
 })
 
 test("a day not written as a civil day is refused", () => {
-  const said = taken(["--since", "2026-9-1"])
+  const said = taken(["--since", "2026-9-1"], CALLED)
   expect(said).toEqual({ refused: expect.stringContaining("YYYY-MM-DD") })
 })
 
 test("a batch outside one to a thousand is refused", () => {
-  expect(taken(["--batch", "0"])).toEqual({ refused: expect.stringContaining("1 to 1000") })
-  expect(taken(["--batch", "1001"])).toEqual({ refused: expect.stringContaining("1 to 1000") })
-  expect(taken(["--batch", "ten"])).toEqual({ refused: expect.stringContaining("1 to 1000") })
+  expect(taken(["--batch", "0"], CALLED)).toEqual({ refused: expect.stringContaining("1 to 1000") })
+  expect(taken(["--batch", "1001"], CALLED)).toEqual({
+    refused: expect.stringContaining("1 to 1000"),
+  })
+  expect(taken(["--batch", "ten"], CALLED)).toEqual({
+    refused: expect.stringContaining("1 to 1000"),
+  })
 })
 
 test("a value named twice is refused rather than chosen between", () => {
-  const said = taken(["--since", "2026-08-01", "--since", "2026-08-02"])
+  const said = taken(["--since", "2026-08-01", "--since", "2026-08-02"], CALLED)
   expect(said).toEqual({ refused: expect.stringContaining("named twice") })
 })
 
 test("a flag taking a value and given none is refused", () => {
-  expect(taken(["--file-path"])).toEqual({
+  expect(taken(["--file-path"], CALLED)).toEqual({
     refused: expect.stringContaining("names none after it"),
   })
-  expect(taken(["--since", "--dry-run"])).toEqual({
+  expect(taken(["--since", "--dry-run"], CALLED)).toEqual({
     refused: expect.stringContaining("names none after it"),
   })
 })
