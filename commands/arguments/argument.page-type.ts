@@ -15,6 +15,7 @@ export const argument = {
     "relation-property/argument",
     "module/argument-taking",
     "module/argument-naming",
+    "module/argument-routing",
   ],
   properties: [
     { pageProperty: "text-property/said", required: true, many: false },

@@ -1,13 +1,12 @@
 import { readFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { isAbsolute, join, resolve } from "node:path"
+import { routedBy } from "akasha/commands/arguments/argument-routing/argument-routing.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 
 export type Shape = "token" | "prose" | "switch"
 
 export const STDIN = "-"
-
-const ROUTE = "-file"
 
 const HOME = "~/"
 
@@ -32,8 +31,8 @@ export function numberIn(said: ReadonlyMap<string, string>, flag: string): numbe
 }
 
 export function routedIn(said: string, shapes: ReadonlyMap<string, Shape>): string | null {
-  if (!said.endsWith(ROUTE)) return null
-  const named = said.slice(0, -ROUTE.length)
+  const named = routedBy(said)
+  if (named === null) return null
   return shapes.get(named) === "prose" ? named : null
 }
 

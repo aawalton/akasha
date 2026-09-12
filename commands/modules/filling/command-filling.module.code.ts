@@ -1,3 +1,4 @@
+import { routeFor } from "akasha/commands/arguments/argument-routing/argument-routing.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 export type Reading<T> = T | { readonly refused: readonly string[] }
@@ -13,7 +14,7 @@ export type Filing = {
 }
 
 export function filing(said: string): Filing {
-  return { said, file: `${said}-file` }
+  return { said, file: routeFor(said) }
 }
 
 export function wordFilling(

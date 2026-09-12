@@ -1,6 +1,7 @@
 import { MUSIC_RATINGS } from "akasha/alan/music/choosing/rating-ladder/rating-ladder.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { routeFor } from "akasha/commands/arguments/argument-routing/argument-routing.module.code.ts"
 import {
   DATA,
   INPUT,
@@ -38,8 +39,6 @@ const INSIGHTS = "insights"
 
 const JSON_SAID = "--json"
 
-const FROM_FILE = "-file"
-
 export const ARTIST_PROSE = [REACTION]
 
 export const SONG_PROSE = [PERSONAL_CONNECTIONS, INSIGHTS]
@@ -48,7 +47,7 @@ const PROSE = [...ARTIST_PROSE, ...SONG_PROSE]
 
 const FLAGGED = PROSE.map((one) => `--${one}`)
 
-const VALUED = [TARGET, SLUG, RATING, ...FLAGGED, ...FLAGGED.map((one) => `${one}${FROM_FILE}`)]
+const VALUED = [TARGET, SLUG, RATING, ...FLAGGED, ...FLAGGED.map((one) => routeFor(one))]
 
 const BARE = [JSON_SAID]
 
@@ -101,7 +100,7 @@ function proseIn(said: Said): ReadonlyMap<string, string> | { readonly refused: 
   const found = new Map<string, string>()
   for (const one of PROSE) {
     const flag = `--${one}`
-    const fromFile = `${flag}${FROM_FILE}`
+    const fromFile = routeFor(flag)
     const value = said.held.get(flag)
     const path = said.held.get(fromFile)
     if (value !== undefined && path !== undefined) {

@@ -1,5 +1,6 @@
 import { readFile } from "node:fs/promises"
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { routeFor } from "akasha/commands/arguments/argument-routing/argument-routing.module.code.ts"
 import { getHost } from "akasha/infrastructure/inference/pool/inference-hosts/inference-hosts.module.code.ts"
 import type { InferenceHost } from "akasha/infrastructure/inference/pool/inference-schema/inference-schema.module.code.ts"
 import {
@@ -8,8 +9,6 @@ import {
 } from "akasha/infrastructure/services/inferences/inference-reading/inference-reading.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
-
-export const PROSE_ROUTE = "-file"
 
 export const STDIN = "-"
 
@@ -55,7 +54,7 @@ export function wordsIn(
   for (const one of taking) {
     names.add(one.said)
     if (one.repeat === true) repeats.add(one.said)
-    if (one.prose === true) routes.set(`${one.said}${PROSE_ROUTE}`, one.said)
+    if (one.prose === true) routes.set(routeFor(one.said), one.said)
   }
 
   const refusals: string[] = []
@@ -148,7 +147,7 @@ export async function proseAt(said: Said, flag: string): Promise<Reading<string 
   const direct = said.named[flag]
   const paths = said.routed[flag]
   if (direct !== undefined && paths !== undefined) {
-    return { refused: [`\`${flag}\` was said both as itself and as \`${flag}${PROSE_ROUTE}\``] }
+    return { refused: [`\`${flag}\` was said both as itself and as \`${routeFor(flag)}\``] }
   }
   if (direct !== undefined) return direct
   if (paths === undefined) return undefined
@@ -157,7 +156,7 @@ export async function proseAt(said: Said, flag: string): Promise<Reading<string 
     try {
       held.push(await textAt(path))
     } catch {
-      return { refused: [`\`${flag}${PROSE_ROUTE}\` names \`${path}\`, which will not read`] }
+      return { refused: [`\`${routeFor(flag)}\` names \`${path}\`, which will not read`] }
     }
   }
   return held.join("")
@@ -167,7 +166,7 @@ export async function proseNeededAt(said: Said, flag: string): Promise<Reading<s
   const held = await proseAt(said, flag)
   if (wasRefused(held)) return held
   if (held === undefined) {
-    return { refused: [`this names \`${flag}\` or \`${flag}${PROSE_ROUTE}\`, and nothing did`] }
+    return { refused: [`this names \`${flag}\` or \`${routeFor(flag)}\`, and nothing did`] }
   }
   return held
 }
