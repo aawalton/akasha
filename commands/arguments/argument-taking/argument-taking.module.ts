@@ -70,24 +70,33 @@ export const argumentTaking = {
       statement: "Nothing here prints.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement:
-        "A pair one call may not say together is answered as two arguments a call may leave out.",
+        "A group a call must say one of is typed as a union over the members that may be absent.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A pair one call may not say together is typed so checking one undefined narrows the other.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which pairs a group forbids is read pair by pair and in either direction.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A member no pair forbids keeps the optional form, so a mixed group narrows in part.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A member always answered is never typed undefined, so a repeating one keeps its list.",
     },
     {
       invariantKind: "gap",
       statement:
-        "A command needing one of several arguments and none alone is refused here rather than typed.",
-    },
-    {
-      invariantKind: "gap",
-      statement:
-        "A group whose pairs differ on `not-with` has no union to type, though an exclusive pair has one.",
-    },
-    {
-      invariantKind: "gap",
-      statement:
-        "An exclusive pair narrows where the member left out is typed `undefined`, not optional as here.",
+        "Whether a group may hold a forbidden pair beside a free one is not stated, only allowed.",
     },
   ],
 } as const satisfies Module
