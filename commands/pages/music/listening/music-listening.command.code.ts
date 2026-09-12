@@ -107,7 +107,7 @@ export async function musicListening(argv: readonly string[], given: Given): Pro
   const window = windowOf(windowSaid)
   if (window === null) {
     return refused(
-      `unknown ${windowArgument.said} "${windowSaid ?? ""}" (expected one of: short, medium, long)`,
+      `\`${windowArgument.said}\` takes one of short, medium, long, and \`${windowSaid ?? ""}\` is none of them`,
       INPUT
     )
   }

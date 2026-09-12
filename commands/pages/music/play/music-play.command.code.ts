@@ -108,7 +108,8 @@ export function playLineFor(track: ResolvedTrack): string {
 
 export function wrongIn(said: string | undefined, named: string | undefined): string | null {
   if (named === "") return `\`${uriArgument.said}\` takes a track uri, and an empty one came`
-  if (said === "") return "a track query is a name to search for, and an empty one came"
+  if (said === "")
+    return `\`<${queryArgument.placeholder}>\` takes a name to search for, and an empty one came`
   return null
 }
 

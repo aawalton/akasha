@@ -33,7 +33,9 @@ test("a window Spotify does not carry is refused before any call is made", async
   const said = await musicListening(["--window", "sideways"], GIVEN)
   expect(said.code).toBe(1)
   expect(said.report).toEqual([])
-  expect(said.refusals.join("\n")).toContain('unknown --window "sideways"')
+  expect(said.refusals.join("\n")).toContain(
+    "`--window` takes one of short, medium, long, and `sideways` is none of them"
+  )
 })
 
 test("a window said with nothing after it is refused by name", async () => {
@@ -45,7 +47,9 @@ test("a window said with nothing after it is refused by name", async () => {
 test("a window said with an equals carries what follows it", async () => {
   const said = await musicListening(["--window=sideways"], GIVEN)
   expect(said.code).toBe(1)
-  expect(said.refusals.join("\n")).toContain('unknown --window "sideways"')
+  expect(said.refusals.join("\n")).toContain(
+    "`--window` takes one of short, medium, long, and `sideways` is none of them"
+  )
 })
 
 test("a limit that is no whole count is refused before any call is made", async () => {
