@@ -10,7 +10,7 @@ import { companionEquipmentQualities } from "akasha/temper/companions-core/modul
 import {
   getQualityClassName,
   getQualityVariant,
-} from "akasha/temper/companions-ui/companion-quality-rules/companion-quality-rules.module.code.ts"
+} from "akasha/temper/companions-ui/modules/companion-quality-rules/companion-quality-rules.module.code.ts"
 import {
   aggregateUnfulfilledByTraitQuality,
   type CompanionGearNeed,

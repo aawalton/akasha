@@ -4,7 +4,7 @@ import {
   clampRapportProgress,
   MAX_COMPANION_RAPPORT,
   rawRapportToCompanionTier,
-} from "akasha/temper/player-completion/companion-rapport/companion-rapport.module.code.ts"
+} from "akasha/temper/player-completion/modules/companion-rapport/companion-rapport.module.code.ts"
 
 describe("the shared vocabulary of companion rapport", () => {
   test("max affinity is 4000 raw points and tier 8", () => {

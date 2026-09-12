@@ -22,14 +22,14 @@ import { companionUrl } from "akasha/temper/build-support/modules/build-url/buil
 import type { SettableBuildVisibility } from "akasha/temper/build-support/modules/build-visibility/build-visibility.module.code.ts"
 import { encodeCompanion } from "akasha/temper/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import {
-  type CompanionRoleId,
-  companionRoles,
-} from "akasha/temper/companions-core/companion-roles/companion-roles.module.code.ts"
-import {
   type CompanionBaseRoleId,
   companionBaseRoles,
 } from "akasha/temper/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import { createNewCompanion } from "akasha/temper/companions-core/modules/companion-factory/companion-factory.module.code.ts"
+import {
+  type CompanionRoleId,
+  companionRoles,
+} from "akasha/temper/companions-core/modules/companion-roles/companion-roles.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 import { useMemo, useState } from "react"

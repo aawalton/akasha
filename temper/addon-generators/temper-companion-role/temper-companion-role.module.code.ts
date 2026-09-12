@@ -4,7 +4,7 @@ import {
   rankOf,
   ranksOf,
 } from "akasha/temper/addon-generators/rank-by-key/rank-by-key.module.code.ts"
-import { companionRoles } from "akasha/temper/companions-core/companion-roles/companion-roles.module.code.ts"
+import { companionRoles } from "akasha/temper/companions-core/modules/companion-roles/companion-roles.module.code.ts"
 import { z } from "zod"
 
 const COMPANION_ROLE_EAV_SCHEMA = z

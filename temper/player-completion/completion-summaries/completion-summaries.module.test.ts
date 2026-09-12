@@ -3,7 +3,6 @@ import type {
   AccountCompletion,
   CharacterCompletion,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import { companionQuestIds } from "akasha/temper/player-completion/companion-quest-data/companion-quest-data.module.code.ts"
 import {
   ACCOUNT_CARDS,
   CHARACTER_CARDS,
@@ -19,6 +18,7 @@ import {
   buildCompletionSummaries,
   computeOverallCompletionScoreFromRows,
 } from "akasha/temper/player-completion/completion-summaries/completion-summaries.module.code.ts"
+import { companionQuestIds } from "akasha/temper/player-completion/modules/companion-quest-data/companion-quest-data.module.code.ts"
 
 const NOTHING = {
   characterRows: [],

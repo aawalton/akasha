@@ -7,10 +7,6 @@ import type {
   CharacterCompletion,
   CompanionCompletion,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import {
-  clampRapportProgress,
-  MAX_COMPANION_RAPPORT,
-} from "akasha/temper/player-completion/companion-rapport/companion-rapport.module.code.ts"
 import { isCharacterMeasured } from "akasha/temper/player-completion/completion-measured/completion-measured.module.code.ts"
 import type {
   CharacterCompanionRapportProgress,
@@ -18,6 +14,10 @@ import type {
   CompanionSkillLineProgress,
   CompanionSkillLineProgressEntry,
 } from "akasha/temper/player-completion/completion-ui-types/completion-ui-types.module.code.ts"
+import {
+  clampRapportProgress,
+  MAX_COMPANION_RAPPORT,
+} from "akasha/temper/player-completion/modules/companion-rapport/companion-rapport.module.code.ts"
 import {
   type SkillLineId,
   skillLines,

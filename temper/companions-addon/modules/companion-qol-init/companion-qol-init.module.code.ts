@@ -34,9 +34,9 @@ import "akasha/temper/companions-addon/modules/companion-qol-saved-variables/com
 import "akasha/temper/companions-addon/modules/companion-qol-interaction-handlers/companion-qol-interaction-handlers.module.code.ts"
 import "akasha/temper/companions-addon/modules/companion-qol-settings-menu/companion-qol-settings-menu.module.code.ts"
 
-import { registerUiStrings } from "akasha/temper/companions-addon/companion-qol-ui-strings/companion-qol-ui-strings.module.code.ts"
 import { registerBindingStringIds } from "akasha/temper/companions-addon/modules/companion-qol-bindings/companion-qol-bindings.module.code.ts"
 import { FCOCO } from "akasha/temper/companions-addon/modules/companion-qol-state/companion-qol-state.module.code.ts"
+import { registerUiStrings } from "akasha/temper/companions-addon/modules/companion-qol-ui-strings/companion-qol-ui-strings.module.code.ts"
 
 registerUiStrings()
 registerBindingStringIds()

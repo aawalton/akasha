@@ -19,7 +19,7 @@ import { companionJewelrySlots } from "akasha/temper/companions-core/modules/com
 import {
   getQualityClassName,
   getQualityVariant,
-} from "akasha/temper/companions-ui/companion-quality-rules/companion-quality-rules.module.code.ts"
+} from "akasha/temper/companions-ui/modules/companion-quality-rules/companion-quality-rules.module.code.ts"
 import { BulkEditTag } from "akasha/temper/web/modules/companion-bulk-edit-tag/companion-bulk-edit-tag.module.code.tsx"
 import { useMemo } from "react"
 
