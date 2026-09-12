@@ -1,4 +1,5 @@
 import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { z } from "zod"
 
 const CLASS_EAV_SCHEMA = z
@@ -57,7 +58,7 @@ export function generateTemperClass(rows: readonly Page[]): string {
  * and feeds the \`ClassId\` union and the \`classes.data\` lookup
  * in @temper/game-characters-classes.
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 import type { ClassId } from "@temper/shared-formula-framework/class-id"
