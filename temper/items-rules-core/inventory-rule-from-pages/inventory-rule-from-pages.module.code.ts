@@ -12,6 +12,7 @@ import type {
 
 export interface RulePage {
   readonly slug: string
+  readonly accountPage?: string
   readonly title?: string
   readonly description?: string
   readonly categoryId: string
@@ -140,6 +141,9 @@ export function heldFromRow(row: Record<string, unknown>): HeldRule | null {
   if (updatedAt === undefined || typeof displayOrder !== "number") return null
   const page: RulePage = {
     slug,
+    ...(textAt(row, "accountPage") === undefined
+      ? {}
+      : { accountPage: textAt(row, "accountPage") as string }),
     categoryId,
     displayOrder,
     action,
