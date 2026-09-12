@@ -7,7 +7,6 @@ import {
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { decideKillTarget } from "akasha/seat-system/kill-target-plan/kill-target-plan.module.code.ts"
 import { seatRecord } from "akasha/seat-system/seat-facts/seat-facts.module.code.ts"
-import { resolveSeatTarget } from "akasha/seat-system/seat-handle/seat-handle.module.code.ts"
 import { resolveSessionIdByAgentId } from "akasha/seat-system/seat-session-resolve/seat-session-resolve.module.code.ts"
 import { SEAT_START_DIR } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
 import { ending } from "akasha/utils/process/process-ending/process-ending.module.code.ts"
@@ -17,12 +16,6 @@ export interface TakenSeat {
   readonly name: string | null
   readonly sessionId: string
   readonly tookOver: boolean
-}
-
-export async function resolveTakeoverTarget(target: string): Promise<string> {
-  const resolved = resolveSeatTarget(target)
-  if ("error" in resolved) throw dataError(resolved.error)
-  return resolved.id
 }
 
 async function stopHolder(pids: readonly number[], name: string | null): Promise<boolean> {

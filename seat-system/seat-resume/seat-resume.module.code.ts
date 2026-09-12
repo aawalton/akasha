@@ -23,7 +23,10 @@ import {
   waitForActionCleared,
 } from "akasha/seat-system/seat-action/seat-action.module.code.ts"
 import { seatRecord } from "akasha/seat-system/seat-facts/seat-facts.module.code.ts"
-import { resolveSeatTargetFromFlagOrEnv } from "akasha/seat-system/seat-handle/seat-handle.module.code.ts"
+import {
+  resolveSeatTargetCli,
+  resolveSeatTargetFromFlagOrEnv,
+} from "akasha/seat-system/seat-handle/seat-handle.module.code.ts"
 import { DEFAULT_ACCOUNT } from "akasha/seat-system/seat-launching/seat-launching.module.code.ts"
 import {
   isSeatMode,
@@ -37,7 +40,6 @@ import type { ReviveIoVerdict } from "akasha/seat-system/seat-revive-io-verify-d
 import { decideSubagentGuard } from "akasha/seat-system/subagent-guard/subagent-guard.module.code.ts"
 import { standingSubagentsOf } from "akasha/seat-system/subagent-page/subagent-page.module.code.ts"
 import {
-  resolveTakeoverTarget,
   type TakenSeat,
   takeoverSeat,
 } from "akasha/seat-system/takeover-seat/takeover-seat.module.code.ts"
@@ -265,7 +267,7 @@ export async function resumeSeat(request: ResumeSeatRequest): Promise<ResumedSea
 export async function resumeSeatInteractively(
   request: ResumeSeatInteractivelyRequest
 ): Promise<TakenSeat> {
-  const target = await resolveTakeoverTarget(request.named)
+  const target = await resolveSeatTargetCli(request.named)
   refuseWhereSubagentsWork(target, request.force === true)
   const standing = seatRecord(target)?.name ?? null
   if (standing !== null) await holdSeatPaneOpen(standing)
