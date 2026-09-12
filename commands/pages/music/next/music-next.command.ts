@@ -9,12 +9,11 @@ export const musicNext = {
   test: "ts",
   changeKind: "change-none",
   taking: [{ said: "--json", takes: "give the selection as JSON rather than as human text" }],
-  helpNotes: [
-    "the songs and the artists are read from the pages akasha carries rather than from Spotify.",
-    "a loved artist with a song left ungraded is offered before an artist no grade rests on.",
-    "an exhausted catalogue is reported rather than refused.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "An exhausted catalogue is reported rather than refused.",
+    },
     {
       invariantKind: "departure",
       statement: "The catalogue is read from the song pages and the artist pages.",
