@@ -30,7 +30,6 @@ import {
 } from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
 import type { ActivityCategoryId } from "akasha/temper/player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import type { AccountSummaryData } from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
-import { useCompletionToolbar } from "akasha/temper/web/completion-toolbar-context/completion-toolbar-context.module.code.tsx"
 import {
   ACCOUNT_FILTERS,
   type FilterId,
@@ -38,6 +37,7 @@ import {
 } from "akasha/temper/web/modules/account-filters/account-filters.module.code.ts"
 import { AccountPanelGrid } from "akasha/temper/web/modules/account-panel-grid/account-panel-grid.module.code.tsx"
 import type { AccountProgressData } from "akasha/temper/web/modules/account-progress/account-progress.module.code.ts"
+import { useCompletionToolbar } from "akasha/temper/web/modules/completion-toolbar-context/completion-toolbar-context.module.code.tsx"
 import { Globe } from "lucide-react"
 import { useState } from "react"
 

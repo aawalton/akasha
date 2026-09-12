@@ -30,12 +30,12 @@ import { resolveSkillMorphs } from "akasha/temper/characters-skills-morphs-addon
 import type { AccountCompletion } from "akasha/temper/completion/modules/completion-record/completion-record.module.code.ts"
 import { getEsoDayStringFromSec } from "akasha/temper/dungeons/eso-reset/eso-reset.module.code.ts"
 import { applyCompletionOverrides } from "akasha/temper/player-completion/modules/apply-completion-overrides/apply-completion-overrides.module.code.ts"
-import type { TaskProgress } from "akasha/temper/player-completion-state/completion-task-progress/completion-task-progress.module.code.ts"
 import {
   getSavedVariables,
   type SavedCharacterEntry,
   type TaskData,
 } from "akasha/temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
+import type { TaskProgress } from "akasha/temper/player-completion-state/modules/completion-task-progress/completion-task-progress.module.code.ts"
 
 function resolveTaskProgressForCharacter(
   charData: SavedCharacterEntry | undefined,

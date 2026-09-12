@@ -1,8 +1,3 @@
-import {
-  type TraitResearchCatalogCraftType,
-  type TraitResearchCatalogLine,
-  transformTraitResearchProgress,
-} from "akasha/temper/player-completion/completion-trait-research-progress/completion-trait-research-progress.module.code.ts"
 import type {
   AccountLoreProgress,
   CharacterMountTrainingProgress,
@@ -19,6 +14,11 @@ import { isCharacterMeasured } from "akasha/temper/player-completion/modules/com
 import { transformRecipeProgress } from "akasha/temper/player-completion/modules/completion-recipe-progress/completion-recipe-progress.module.code.ts"
 import { transformScribingProgress } from "akasha/temper/player-completion/modules/completion-scribing-progress/completion-scribing-progress.module.code.ts"
 import { transformSkillLineProgress } from "akasha/temper/player-completion/modules/completion-skill-line-progress/completion-skill-line-progress.module.code.ts"
+import {
+  type TraitResearchCatalogCraftType,
+  type TraitResearchCatalogLine,
+  transformTraitResearchProgress,
+} from "akasha/temper/player-completion/modules/completion-trait-research-progress/completion-trait-research-progress.module.code.ts"
 import type { CharacterSkillMorphProgress } from "akasha/temper/skill-morphs/morph-progress-types/morph-progress-types.module.code.ts"
 import {
   ESO_CLASS_ID_TO_CLASS_ID,
