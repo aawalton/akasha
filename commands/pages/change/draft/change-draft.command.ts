@@ -137,4 +137,5 @@ export const changeDraft = {
     },
   ],
   name: "draft",
+  arguments: [{ argument: "argument/change", required: true, saidAs: "word" }],
 } as const satisfies Command

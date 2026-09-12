@@ -147,4 +147,5 @@ export const changeApply = {
     },
   ],
   name: "apply",
+  arguments: [{ argument: "argument/change", saidAs: "word" }],
 } as const satisfies Command

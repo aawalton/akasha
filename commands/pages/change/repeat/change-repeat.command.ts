@@ -116,4 +116,5 @@ export const changeRepeat = {
     },
   ],
   name: "repeat",
+  arguments: [{ argument: "argument/change", required: true, saidAs: "word" }],
 } as const satisfies Command
