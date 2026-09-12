@@ -51,7 +51,6 @@ export const emailDraftCreate = {
   arguments: [
     { argument: "argument/subject-file" },
     { argument: "argument/body-file" },
-    { argument: "argument/bcc" },
     { argument: "argument/subject" },
     { argument: "argument/body" },
     { argument: "argument/attach" },
@@ -59,5 +58,6 @@ export const emailDraftCreate = {
     { argument: "argument/reply-to-message" },
     { argument: "argument/send-as" },
     { argument: "argument/cc", repeats: true },
+    { argument: "argument/bcc", repeats: true },
   ],
 } as const satisfies Command

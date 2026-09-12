@@ -8,5 +8,4 @@ export const bcc = {
   takes: "who is blind copied, said again or parted by commas",
   value: "text",
   placeholder: "addr,..",
-  repeats: true,
 } as const satisfies Argument
