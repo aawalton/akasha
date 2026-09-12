@@ -11,10 +11,10 @@ import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/co
 import { stage as stageArgument } from "akasha/commands/arguments/pages/stage.argument.ts"
 import {
   answering,
-  INPUT,
   keeping,
-  OK,
   OPERATIONAL,
+  refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { pageIconSearchIndexGenerate as page } from "akasha/commands/pages/page/icon-search-index-generate/page-icon-search-index-generate.command.ts"
@@ -192,15 +192,11 @@ export async function pageIconSearchIndexGenerate(
   given: Given
 ): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [codeRootArgument, stageArgument])
-  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
+  if ("refused" in read) return refusedBy(read.refused)
 
   const named = read.taken.codeRoot
   if (named !== undefined && !existsSync(named)) {
-    return {
-      report: [],
-      refusals: [`\`${codeRootArgument.said} ${named}\` names no folder that is there`],
-      code: INPUT,
-    }
+    return refusedBy([`\`${codeRootArgument.said} ${named}\` names no folder that is there`])
   }
   return await answering(async (done) => {
     const root = realpathSync(named ?? given.root)
@@ -209,12 +205,12 @@ export async function pageIconSearchIndexGenerate(
     try {
       const release = await fetched(scratch)
       if ("why" in release) {
-        return keeping(done, { report: [], refusals: [release.why], code: OPERATIONAL })
+        return keeping(done, refusedBy([release.why], OPERATIONAL))
       }
       const entries = entriesIn(release.icons)
       const held = rendered(entries)
       if ("refused" in held) {
-        return keeping(done, { report: [], refusals: held.refused, code: INPUT })
+        return keeping(done, refusedBy(held.refused))
       }
       const pages = held.pages
 
@@ -247,7 +243,7 @@ export async function pageIconSearchIndexGenerate(
           ...arrived.map((slug) => `  add     module/${slug}`)
         )
       }
-      return { report, refusals: [], code: OK }
+      return told(report)
     } finally {
       rmSync(scratch, { recursive: true, force: true })
     }
