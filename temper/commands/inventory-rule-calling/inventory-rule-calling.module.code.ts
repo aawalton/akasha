@@ -128,10 +128,6 @@ export function toldRows(
   return told(emitTsv(rows, columns).split("\n"))
 }
 
-export function refusedAll(why: readonly string[]): Answer {
-  return refusedBy(why)
-}
-
 export function refusing(why: string, code: number): Answer {
   return refused(why, code)
 }
@@ -231,7 +227,7 @@ export async function answeredByPage<Page extends Commanding, Pages extends read
   act: (taken: TakenFor<Page, Pages[number]>) => Promise<Answer>
 ): Promise<Answer> {
   const read = takenFor(argv, calledAs, page, pages)
-  if ("refused" in read) return refusedAll(read.refused)
+  if ("refused" in read) return refusedBy(read.refused)
   const taken = read.taken
   return await answering(() => act(taken))
 }
