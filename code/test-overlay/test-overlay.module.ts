@@ -68,6 +68,10 @@ export const testOverlay = {
     },
     {
       invariantKind: "departure",
+      statement: "A run under the mount is told where the age key deciphering a secret sits.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A path reaching outside the checkout refuses the mount.",
     },
     {

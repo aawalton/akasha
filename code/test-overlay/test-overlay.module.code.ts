@@ -1,5 +1,7 @@
-import { mkdirSync, mkdtempSync, rmSync, symlinkSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, mkdtempSync, rmSync, symlinkSync, writeFileSync } from "node:fs"
+import { homedir } from "node:os"
 import { dirname, isAbsolute, join, normalize } from "node:path"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 export const HOLD = "/var/tmp"
@@ -57,6 +59,17 @@ export function insideOf(one: string): boolean {
   return !isAbsolute(held) && !held.startsWith("..")
 }
 
+const AGE_KEY = "SOPS_AGE_KEY_FILE"
+
+const AGE_KEY_AT = [".config", "sops", "age", "keys.txt"]
+
+function ageKeyNamed(): Readonly<Record<string, string>> {
+  const said = optionalEnv(AGE_KEY)
+  if (said !== undefined) return { [AGE_KEY]: said }
+  const at = join(homedir(), ...AGE_KEY_AT)
+  return existsSync(at) ? { [AGE_KEY]: at } : {}
+}
+
 export function sweptAt(held: string): undefined {
   ran([...OWN, "rm", "-rf", held])
   rmSync(held, { recursive: true, force: true })
@@ -96,6 +109,7 @@ export function mountedOver(root: string, bodies: Bodies): Overlay {
         AKASHA_WORK: work,
         [MOUNTED]: merged,
         AKASHA_TAKEN: listed,
+        ...ageKeyNamed(),
         HOME: homed,
       },
       under: (argv: readonly string[]): readonly string[] => [...OWN, shim, ...argv],

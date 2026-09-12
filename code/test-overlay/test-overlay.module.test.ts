@@ -107,6 +107,19 @@ test("a run under a mount has a home of its own, and the sweep takes that home a
   expect(ran(["test", "-e", homed]).code).not.toBe(0)
 })
 
+test("a run under a mount is told where the age key sits, since its own home holds none", () => {
+  const held = process.env["SOPS_AGE_KEY_FILE"]
+  process.env["SOPS_AGE_KEY_FILE"] = "/nowhere/keys.txt"
+  const over = mountedOver(checkout(), {})
+  try {
+    expect(over.env["SOPS_AGE_KEY_FILE"]).toBe("/nowhere/keys.txt")
+  } finally {
+    over.sweep()
+    if (held === undefined) delete process.env["SOPS_AGE_KEY_FILE"]
+    else process.env["SOPS_AGE_KEY_FILE"] = held
+  }
+})
+
 test("a path reaching outside the checkout refuses the mount", () => {
   expect(() => mountedOver(checkout(), { "../away.txt": "no" })).toThrow(/reaches outside/)
   expect(() => mountedOver(checkout(), { "/etc/away.txt": "no" })).toThrow(/reaches outside/)
