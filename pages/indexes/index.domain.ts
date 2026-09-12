@@ -171,5 +171,10 @@ export const index = {
       invariantKind: "departure",
       statement: "A folder under the index that no index page names goes with the next refresh.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A pattern written under the index or under a cache is Alan's to approve before it is written.",
+    },
   ],
 } as const satisfies Domain
