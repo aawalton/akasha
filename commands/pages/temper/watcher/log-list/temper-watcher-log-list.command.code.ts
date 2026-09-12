@@ -9,8 +9,8 @@ import {
   asJson,
   DATA,
   INPUT,
-  OK,
   refused,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
@@ -90,5 +90,5 @@ export function temperWatcherLogList(argv: readonly string[], given: Given): Ans
   if (taken.jsonInOneObject) {
     return asJson({ lines: capped, count: capped.length })
   }
-  return { report: capped.map((one) => JSON.stringify(one)), refusals: [], code: OK }
+  return told(capped.map((one) => JSON.stringify(one)))
 }
