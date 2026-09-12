@@ -15,10 +15,7 @@ export const temperAddonResolve = {
     },
     { said: "--code-root <path>", takes: "the checkout the addons are discovered in" },
   ],
-  helpNotes: [
-    "a canonical name, a flat directory leaf and a nested parent domain all reach the same addon.",
-    "the resolver answers a folder path even for a name no addon carries, so the resolver's answer is checked against the roster first.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
