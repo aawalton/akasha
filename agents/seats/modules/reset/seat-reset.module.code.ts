@@ -16,6 +16,7 @@ import {
   seatFromHistory,
 } from "akasha/agents/seats/modules/page-history/seat-page-history.module.code.ts"
 import { principalSeatNameOf } from "akasha/agents/seats/modules/principal/seat-principal.module.code.ts"
+import { stateSpawnedSeat } from "akasha/agents/seats/modules/state-spawned-seat/state-spawned-seat.module.code.ts"
 import {
   pageWouldCompose,
   type Stated,
@@ -30,7 +31,6 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { stateSpawnedSeat } from "akasha/seat-system/state-spawned-seat/state-spawned-seat.module.code.ts"
 import { A_RESET, stopSeat } from "akasha/seat-system/stop-seat/stop-seat.module.code.ts"
 import { textIn } from "akasha/utils/narrow/text-in/text-in.module.code.ts"
 

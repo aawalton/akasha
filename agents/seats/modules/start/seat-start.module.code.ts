@@ -36,6 +36,7 @@ import {
   type StatedIdentity,
   spawnSeat,
 } from "akasha/agents/seats/modules/spawn-seat/spawn-seat.module.code.ts"
+import { stateSpawnedSeat } from "akasha/agents/seats/modules/state-spawned-seat/state-spawned-seat.module.code.ts"
 import { resolveStatedIdentity } from "akasha/agents/seats/modules/stated-identity/seat-stated-identity.module.code.ts"
 import {
   dataError,
@@ -46,7 +47,6 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { stateSpawnedSeat } from "akasha/seat-system/state-spawned-seat/state-spawned-seat.module.code.ts"
 import type { StatedAgentSlots } from "akasha/seat-system/supervising/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
 import { readStdinOrFile } from "akasha/utils/fs/read-stdin-or-file/read-stdin-or-file.module.code.ts"
 

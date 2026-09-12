@@ -21,6 +21,7 @@ import {
   decideSkillTokenGuard,
   DECLARING_MODULE as SKILL_TOKEN_GUARD_DECLARING,
 } from "akasha/agents/seats/modules/skill-token-guard/skill-token-guard.module.code.ts"
+import { stateSpawnedSeat } from "akasha/agents/seats/modules/state-spawned-seat/state-spawned-seat.module.code.ts"
 import {
   dataError,
   inputError,
@@ -32,7 +33,6 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { stateSpawnedSeat } from "akasha/seat-system/state-spawned-seat/state-spawned-seat.module.code.ts"
 import { enforceSpawnAdmission } from "akasha/utils/system/memory-guard/memory-guard.module.code.ts"
 
 export interface StatedIdentity {
