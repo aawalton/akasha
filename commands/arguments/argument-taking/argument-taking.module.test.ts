@@ -10,11 +10,14 @@ import {
   LIMIT_PAGE,
   NAMING_NONE,
   NAMING_NOT_WITH,
+  NAMING_ONE_OF,
   NAMING_TAIL,
   NAMING_THEM,
   NAMING_WORD,
   NODE,
   ONE_OF_THEM,
+  ONE_OF_THREE,
+  ONE_OF_TWO,
   ONTO,
   PAGES,
   PLACED,
@@ -270,6 +273,40 @@ test("two arguments one call may not say together are read where a call says one
 test("a pair both entries state is refused once", () => {
   expect(refusals(["--video", "a.mp4", "--frames-dir", "frames"], EACH_STATING)).toEqual([
     "`--video` and `--frames-dir` are never said together, and this call says both",
+  ])
+})
+
+test("a group one call must say one of is refused where a call says none of them", () => {
+  expect(refusals([], ONE_OF_TWO)).toEqual([
+    "`akasha thing` takes `--video` or `--frames-dir`, and nothing said either",
+  ])
+})
+
+test("a group one call must say one of is read where a call says one", () => {
+  expect(taken(["--video", "a.mp4"], ONE_OF_TWO)).toEqual({ video: "a.mp4" })
+})
+
+test("arguments naming each other that way are one group rather than pairs", () => {
+  expect(refusals([], ONE_OF_THREE)).toEqual([
+    "`akasha thing` takes `--to-position`, `--before` or `--after`, and nothing said any of them",
+  ])
+})
+
+test("any one of a group answers for the whole group", () => {
+  expect(taken(["--before", "x"], ONE_OF_THREE)).toEqual({ before: "x" })
+})
+
+test("a value that will not narrow still answers for the group it is in", () => {
+  expect(refusals(["--to-position", "abc"], ONE_OF_THREE)).toEqual([
+    "`--to-position abc` is no whole number of nought or more",
+  ])
+})
+
+test("a command page's group is read from the entries that page states", () => {
+  const read = takenFor([], "akasha thing", NAMING_ONE_OF, [SEAT_PAGE, LIMIT_PAGE])
+  if (!("refused" in read)) throw new Error("this was read rather than refused")
+  expect(read.refused).toEqual([
+    "`akasha thing` takes `--seat` or `--limit`, and nothing said either",
   ])
 })
 

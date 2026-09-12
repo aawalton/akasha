@@ -2,6 +2,7 @@ import type { Argument } from "akasha/commands/arguments/argument.page-type.type
 import { slugOfPart } from "akasha/commands/modules/namespace-listing/namespace-listing.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 export type SaidAs = "flag" | "word" | "flag-or-word"
 
@@ -11,6 +12,7 @@ export type Naming = {
   readonly repeats?: boolean
   readonly saidAs?: SaidAs
   readonly notWith?: readonly Argument[]
+  readonly oneOf?: readonly Argument[]
 }
 
 export type Value = string | number | boolean | readonly (string | number)[]
@@ -135,6 +137,36 @@ function fighting(state: Filling, naming: readonly Naming[]): undefined {
   }
 }
 
+function grouped(naming: readonly Naming[]): readonly (readonly Naming[])[] {
+  let groups: Set<string>[] = []
+  for (const one of naming) {
+    const named = one.oneOf ?? []
+    if (named.length === 0) continue
+    const slugs = new Set([one.argument.slug, ...named.map((other) => other.slug)])
+    const touching = groups.filter((group) => [...group].some((slug) => slugs.has(slug)))
+    for (const group of touching) for (const slug of group) slugs.add(slug)
+    groups = groups.filter((group) => !touching.includes(group))
+    groups.push(slugs)
+  }
+  return groups.map((group) => naming.filter((one) => group.has(one.argument.slug)))
+}
+
+function saidNone(calledAs: string, group: readonly Naming[]): string {
+  const every = group.map((one) => spelt(one))
+  const last = every[every.length - 1] ?? ""
+  const before = every.slice(0, -1)
+  const said = before.length === 0 ? `\`${last}\`` : `${namesDrawn(before)} or \`${last}\``
+  const naught = group.length > 2 ? "and nothing said any of them" : "and nothing said either"
+  return `\`${calledAs}\` takes ${said}, ${naught}`
+}
+
+function lacking(state: Filling, calledAs: string, naming: readonly Naming[]): undefined {
+  for (const group of grouped(naming)) {
+    if (group.some((one) => state.heard.has(one.argument.slug))) continue
+    state.refusals.push(saidNone(calledAs, group))
+  }
+}
+
 export function takingIn(
   argv: readonly string[],
   calledAs: string,
@@ -203,6 +235,7 @@ export function takingIn(
     state.refusals.push(`\`${calledAs}\` takes \`${spelt(one)}\`, and nothing said it`)
   }
   fighting(state, naming)
+  lacking(state, calledAs, naming)
   if (state.refusals.length > 0) return { refused: state.refusals }
   for (const one of naming) {
     const key = exportedAs(one.argument.slug)
@@ -221,6 +254,7 @@ export type Named = {
   readonly repeats?: boolean
   readonly saidAs?: SaidAs
   readonly notWith?: readonly string[]
+  readonly oneOf?: readonly string[]
 }
 
 export type Commanding = {
@@ -296,16 +330,20 @@ export type TakenFor<Page extends Commanding, Pages extends Argument> = [
 function namedBy(entry: Named, bySlug: ReadonlyMap<string, Argument>): Naming | null {
   const argument = bySlug.get(slugOfPart(entry.argument))
   if (argument === undefined) return null
-  const against = (entry.notWith ?? []).flatMap((one) => {
-    const held = bySlug.get(slugOfPart(one))
-    return held === undefined ? [] : [held]
-  })
+  const pagesOf = (named: readonly string[]): readonly Argument[] =>
+    named.flatMap((one) => {
+      const held = bySlug.get(slugOfPart(one))
+      return held === undefined ? [] : [held]
+    })
+  const against = pagesOf(entry.notWith ?? [])
+  const among = pagesOf(entry.oneOf ?? [])
   return {
     argument,
     ...(entry.required === undefined ? {} : { required: entry.required }),
     ...(entry.repeats === undefined ? {} : { repeats: entry.repeats }),
     ...(entry.saidAs === undefined ? {} : { saidAs: entry.saidAs }),
     ...(against.length === 0 ? {} : { notWith: against }),
+    ...(among.length === 0 ? {} : { oneOf: among }),
   }
 }
 

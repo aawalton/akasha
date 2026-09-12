@@ -119,6 +119,31 @@ export const NAMING_THEM = {
 
 export const NAMING_NONE = { slug: "nothing" } as const
 
+export const TO_POSITION = argumentOf("to-position", "whole-number")
+
+export const BEFORE = argumentOf("before", "text")
+
+export const AFTER = argumentOf("after", "text")
+
+export const ONE_OF_TWO: readonly Naming[] = [
+  { argument: VIDEO, oneOf: [FRAMES_DIR] },
+  { argument: FRAMES_DIR, oneOf: [VIDEO] },
+]
+
+export const ONE_OF_THREE: readonly Naming[] = [
+  { argument: TO_POSITION, oneOf: [BEFORE, AFTER] },
+  { argument: BEFORE, oneOf: [TO_POSITION, AFTER] },
+  { argument: AFTER, oneOf: [TO_POSITION, BEFORE] },
+]
+
+export const NAMING_ONE_OF = {
+  slug: "thing",
+  arguments: [
+    { argument: "argument/seat", oneOf: ["argument/limit"] },
+    { argument: "argument/limit", oneOf: ["argument/seat"] },
+  ],
+} as const
+
 export const DASH: Naming = {
   argument: { ...argumentOf("short", "text"), said: "-s" } as Argument,
 }

@@ -112,6 +112,22 @@ export const argumentTaking = {
     },
     {
       invariantKind: "departure",
+      statement: "A group one call must say one of is refused where a call says none of them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Arguments naming each other that way are one group rather than pairs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal names every argument in the group and is said once.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value that will not narrow still answers for the group it is in.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A command page's entries are read against the argument pages that command's code names.",
     },
