@@ -6,7 +6,7 @@ export const inferenceVoiceClone = {
   slug: "inference-voice-clone",
   definition: "the command speaking text in the voice a reference clip carries",
   code: "ts",
-  taking: [{ said: "--text <utterance>", takes: "what is spoken in the cloned voice" }],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -45,5 +45,6 @@ export const inferenceVoiceClone = {
     { argument: "argument/text-file" },
     { argument: "argument/ref-text-file" },
     { argument: "argument/ref-text", notWith: ["argument/ref-text-file"] },
+    { argument: "argument/spoken-text", notWith: ["argument/text-file"] },
   ],
 } as const satisfies Command

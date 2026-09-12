@@ -6,12 +6,7 @@ export const inferenceVoiceDesign = {
   slug: "inference-voice-design",
   definition: "the command speaking text in a voice made up from a description of it",
   code: "ts",
-  taking: [
-    {
-      said: "--text <transcript>",
-      takes: "what the voice says, which becomes the clip's transcript",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -52,5 +47,6 @@ export const inferenceVoiceDesign = {
     { argument: "argument/text-file" },
     { argument: "argument/instruct-file" },
     { argument: "argument/instruct", notWith: ["argument/instruct-file"] },
+    { argument: "argument/spoken-text", notWith: ["argument/text-file"] },
   ],
 } as const satisfies Command
