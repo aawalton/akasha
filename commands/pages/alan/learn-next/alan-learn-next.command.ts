@@ -44,4 +44,5 @@ export const alanLearnNext = {
     },
   ],
   name: "learn-next",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

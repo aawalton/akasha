@@ -95,4 +95,5 @@ export const alanFood = {
     },
   ],
   name: "food",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

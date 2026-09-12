@@ -72,4 +72,5 @@ export const alanElaine = {
     },
   ],
   name: "elaine",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command
