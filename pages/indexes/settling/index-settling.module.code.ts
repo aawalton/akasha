@@ -38,13 +38,18 @@ import {
 } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 import { shapesAt } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
 import { knownIn, type Shaped } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
-import { indexThere } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { indexThere, valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   NOTHING_FILED,
   relationIn,
 } from "akasha/pages/indexes/relation/index-relation.index.code.ts"
 import { ruleIn } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import type { Filing, Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import {
+  pageTypeSlugsIn,
+  shapesFiled,
+  shapesIn,
+} from "akasha/pages/indexes/shapes/index-shapes.index.code.ts"
 import { overlaidOn, readingNone } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import { valueIn } from "akasha/pages/indexes/value/index-value.index.code.ts"
 import {
@@ -55,8 +60,26 @@ import {
 import { loadedFrom } from "akasha/pages/value/page-value.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
+const PAGE_TYPE = "page-type"
+
 function keyOf(one: Entry): string {
   return `${one.at} ${one.line}`
+}
+
+function shapesOver(given: Reading): readonly Entry[] {
+  const values = valuesOfType(given, PAGE_TYPE).map((one) => one.value)
+  return shapesFiled(
+    sourceAmong(
+      values,
+      sourceIn(given, () => null)
+    ),
+    shapesAt(given),
+    pageTypeSlugsIn(values)
+  )
+}
+
+function reshaping(values: readonly Value[]): boolean {
+  return pageTypeSlugsIn(values).length > 0 || shapesIn(values).size > 0
 }
 
 export function filingOf(was: readonly Entry[], now: readonly Entry[]): readonly Filing[] {
@@ -207,6 +230,10 @@ export function settlingOver(
   const nowSource = sourceAmong(left, sourceIn(overValued, pageOf))
   const wasIdentifying = identifyingFrom(wasSource)
   const nowIdentifying = identifyingFrom(nowSource)
+  const carrying =
+    reshaping(before) || reshaping(left)
+      ? filingOf(shapesOver(reading), shapesOver(overValued))
+      : []
   const carriedAt = new Set(carried.keys())
   const elsewhere = pagesElsewhere(reading, turned, carriedAt)
   const stranded = pagesStranded(reading, before, left, carriedAt)
@@ -321,7 +348,16 @@ export function settlingOver(
     now.flatMap((one) => one.entries)
   )
 
-  const filings = [...imported, ...ruled, ...identity, ...paths, ...relation, ...valued, ...listing]
+  const filings = [
+    ...imported,
+    ...ruled,
+    ...identity,
+    ...paths,
+    ...relation,
+    ...valued,
+    ...listing,
+    ...carrying,
+  ]
   const wrote = new Map(moving.map((one) => [under(repo, one.path), one.after] as const))
   return {
     reading: overlaidOn(given, filings, wrote),

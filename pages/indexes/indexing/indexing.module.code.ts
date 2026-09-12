@@ -33,6 +33,11 @@ import {
   settlingOver,
 } from "akasha/pages/indexes/settling/index-settling.module.code.ts"
 import type { Filing } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import {
+  pageTypeSlugsIn,
+  shapesFiled,
+  shapesIn,
+} from "akasha/pages/indexes/shapes/index-shapes.index.code.ts"
 import { indexIn, readingAt } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import {
   pagesUnder,
@@ -105,7 +110,8 @@ export function refreshedFrom(
   const filedBy = filePropertiesIn(values)
   const unique = uniquePropertiesIn(values)
   refusingEmpty(unique, held.length)
-  const identifying = identifyingFrom(sourceOver(values))
+  const source = sourceOver(values)
+  const identifying = identifyingFrom(source)
   const identity = held.flatMap((one) => identityIn(one.value, one.path, repo, identifying))
   const drift = [reconcile(identity, root, put, done)]
   const sidecars = sidecarsIn(values)
@@ -122,6 +128,8 @@ export function refreshedFrom(
   drift.push(reconcile(listed, root, put, done))
   const valued = held.flatMap((one) => valueIn(one.value, one.path, repo))
   drift.push(reconcile(valued, root, put, done))
+  const carrying = shapesFiled(source, shapesIn(values), pageTypeSlugsIn(values))
+  drift.push(reconcile(carrying, root, put, done))
   const known = knownIn(readingAt(root), (path) => valueAt(path, repo))
   const beside = bodiesAt(repo)
   const filed = held.map((one) =>
@@ -146,7 +154,16 @@ export function refreshedFrom(
     readerIn(),
   ]
   drift.push(reconcile(ruled, root, put, done))
-  const every = [...identity, ...paths, ...listed, ...valued, ...relation, ...imported, ...ruled]
+  const every = [
+    ...identity,
+    ...paths,
+    ...listed,
+    ...valued,
+    ...carrying,
+    ...relation,
+    ...imported,
+    ...ruled,
+  ]
   return {
     pages: held.length,
     entries:
@@ -155,7 +172,8 @@ export function refreshedFrom(
       relation.length +
       imported.length +
       ruled.length +
-      valued.length,
+      valued.length +
+      carrying.length,
     refused: filed.flatMap((one) => one.refused),
     drift: drifting(drift, takenAway(every, root, put, done)),
   }
