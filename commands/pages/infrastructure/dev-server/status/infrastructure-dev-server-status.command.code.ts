@@ -1,4 +1,9 @@
-import { exitCodeForThrowable } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import {
+  asJson,
+  codeOf,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -46,8 +51,8 @@ function reading(read: Taken, root: string): Answer {
       .map(recorded)
       .filter((one) => (read.seq !== null ? one.seq === read.seq : one.app === read.app))
   }
-  if (read.json) return { report: [JSON.stringify(records)], refusals: [], code: 0 }
-  return { report: records.map(devServerTsvLine), refusals: [], code: 0 }
+  if (read.json) return asJson(records)
+  return told(records.map(devServerTsvLine))
 }
 
 export async function infrastructureDevServerStatus(
@@ -55,11 +60,10 @@ export async function infrastructureDevServerStatus(
   given: Given
 ): Promise<Answer> {
   const read = readIn(argv, given.root, TAKING)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+  if ("refused" in read) return refusedBy(read.refused)
   try {
     return reading(read, given.root)
   } catch (thrown) {
-    const carried = exitCodeForThrowable(thrown)
-    return refused(whyOf(thrown), carried === 70 ? 3 : carried)
+    return refused(whyOf(thrown), codeOf(thrown))
   }
 }

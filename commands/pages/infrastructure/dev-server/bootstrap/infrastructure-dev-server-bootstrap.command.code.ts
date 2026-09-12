@@ -1,5 +1,10 @@
 import { existsSync } from "node:fs"
-import { exitCodeForThrowable } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import {
+  codeOf,
+  INPUT,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -32,7 +37,7 @@ async function bootstrapping(read: {
   const worktreePath = await resolveWorktreePath(read.seq)
   const envPath = resolveEnvLocalPath(read.root, worktreePath, read.app)
   if (existsSync(envPath) && !read.force) {
-    return refused(`${envPath} is there already — say \`${FORCE}\` to write over it`, 1)
+    return refused(`${envPath} is there already — say \`${FORCE}\` to write over it`, INPUT)
   }
   const written = writeEnvLocalFromPages({
     root: read.root,
@@ -42,7 +47,7 @@ async function bootstrapping(read: {
   const report = read.json
     ? [JSON.stringify({ ok: true, path: written.path, var_count: written.varCount })]
     : [`wrote ${written.path} (${written.varCount} vars)`]
-  return { report, refusals: [], code: 0 }
+  return told(report)
 }
 
 export async function infrastructureDevServerBootstrap(
@@ -50,7 +55,7 @@ export async function infrastructureDevServerBootstrap(
   given: Given
 ): Promise<Answer> {
   const read = readIn(argv, given.root, TAKING)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+  if ("refused" in read) return refusedBy(read.refused)
   try {
     return await bootstrapping({
       root: given.root,
@@ -60,7 +65,6 @@ export async function infrastructureDevServerBootstrap(
       json: read.json,
     })
   } catch (thrown) {
-    const carried = exitCodeForThrowable(thrown)
-    return refused(whyOf(thrown), carried === 70 ? 3 : carried)
+    return refused(whyOf(thrown), codeOf(thrown))
   }
 }

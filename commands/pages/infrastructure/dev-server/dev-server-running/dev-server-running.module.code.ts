@@ -1,4 +1,10 @@
 import { existsSync, openSync, unlinkSync } from "node:fs"
+import {
+  asJson,
+  INPUT,
+  OPERATIONAL,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -59,7 +65,7 @@ export async function starting(read: {
   if (!existsSync(cwd)) {
     return refused(
       `no app workspace is at ${cwd} — check that \`${SEQ}\` and \`${APP}\` name what you meant`,
-      1
+      INPUT
     )
   }
 
@@ -79,14 +85,14 @@ export async function starting(read: {
     return refused(
       `a dev server is already running for seq=${read.seq} app=${read.app} ` +
         `(pid=${already.pid}, port=${already.port}) — \`${REPLACED_BY}\` is how one is replaced`,
-      3
+      OPERATIONAL
     )
   }
 
   try {
     enforceMemoryGuard(KIND)
   } catch (thrown) {
-    return refused(whyOf(thrown), 3)
+    return refused(whyOf(thrown), OPERATIONAL)
   }
 
   ensureDevServerDirs(read.seq)
@@ -119,7 +125,7 @@ export async function starting(read: {
         `the dev server exited straight away with code ${early.code} — ` +
           `port ${port} may be taken, and ${logPath} says what it wrote`,
       ],
-      code: 3,
+      code: OPERATIONAL,
     }
   }
 
@@ -139,7 +145,7 @@ export async function starting(read: {
       ? JSON.stringify({ ok: true, pid: state.pid, port: state.port, log_path: state.log_path })
       : `pid=${state.pid} port=${state.port} log=${state.log_path}`
   )
-  return { report, refusals: [], code: 0 }
+  return told(report)
 }
 
 type Stopped = {
@@ -200,21 +206,13 @@ export async function stopping(read: {
     const state = readStateFile(seq, app)
     if (state === null) {
       const said: Stopped = { seq, app, pid: 0, was_running: false }
-      return {
-        report: [read.json ? JSON.stringify({ stopped: [said] }) : stopSaid(said)],
-        refusals: [],
-        code: 0,
-      }
+      return read.json ? asJson({ stopped: [said] }) : told([stopSaid(said)])
     }
     states = [state]
   }
   const stopped: Stopped[] = []
   for (const state of states) stopped.push(await stoppedOne(state))
-  if (read.json) {
-    return { report: [JSON.stringify({ stopped })], refusals: [], code: 0 }
-  }
-  if (stopped.length === 0) {
-    return { report: ["no dev server is tracked, so none was stopped"], refusals: [], code: 0 }
-  }
-  return { report: stopped.map(stopSaid), refusals: [], code: 0 }
+  if (read.json) return asJson({ stopped })
+  if (stopped.length === 0) return told(["no dev server is tracked, so none was stopped"])
+  return told(stopped.map(stopSaid))
 }

@@ -1,5 +1,10 @@
 import { existsSync } from "node:fs"
-import { exitCodeForThrowable } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import {
+  codeOf,
+  DATA,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -30,9 +35,9 @@ async function tailing(read: {
   lookupApp(read.root, read.app)
   const path = logFilePath(read.seq, read.app)
   if (!existsSync(path)) {
-    return refused(`no log file is at ${path} — has the server ever been started?`, 2)
+    return refused(`no log file is at ${path} — has the server ever been started?`, DATA)
   }
-  return { report: await lastLinesOf(path, read.tail), refusals: [], code: 0 }
+  return told(await lastLinesOf(path, read.tail))
 }
 
 export async function infrastructureDevServerLogs(
@@ -40,7 +45,7 @@ export async function infrastructureDevServerLogs(
   given: Given
 ): Promise<Answer> {
   const read = readIn(argv, given.root, TAKING)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+  if ("refused" in read) return refusedBy(read.refused)
   try {
     return await tailing({
       root: given.root,
@@ -49,7 +54,6 @@ export async function infrastructureDevServerLogs(
       tail: read.tail,
     })
   } catch (thrown) {
-    const carried = exitCodeForThrowable(thrown)
-    return refused(whyOf(thrown), carried === 70 ? 3 : carried)
+    return refused(whyOf(thrown), codeOf(thrown))
   }
 }
