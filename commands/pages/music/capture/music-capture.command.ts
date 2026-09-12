@@ -13,15 +13,20 @@ export const musicCapture = {
     { said: "--dry-run", takes: "say what would land and write nothing" },
     { said: "--json", takes: "give what was filed as JSON rather than as rows" },
   ],
-  helpNotes: [
-    "the plays are the fifty Spotify gives back for one page, asked for from just past the newest play already filed.",
-    "a run finding no play filed anywhere is a priming run, and a priming run scores no first listen.",
-    "a play already filed is counted and written no second time.",
-    "a listen lands beside the day page the play finished in, and a heard track beside Alan's heard music page.",
-    "the day a play is filed under is the ESO day it finished in, which opens at six in the morning in New York.",
-    "a day with no page of its own is refused, and a run that refuses files nothing.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The plays taken are the fifty Spotify gives back for one page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run finding no play filed anywhere is a priming run.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A listen lands beside its day page and a heard track beside the heard music page.",
+    },
     {
       invariantKind: "departure",
       statement: "Capture adds to the rows filed and rewrites no row already filed.",
