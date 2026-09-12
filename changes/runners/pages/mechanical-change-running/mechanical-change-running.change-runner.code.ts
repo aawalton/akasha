@@ -57,6 +57,7 @@ export async function foldedOver(world: World, asked: readonly Asking[]): Promis
 export type Writing = {
   readonly writer?: string | null
   readonly read?: string | null
+  readonly done?: string[]
 }
 
 export async function runMechanicalChange(
@@ -96,6 +97,7 @@ export async function runMechanicalChange(
       formatted: worked.formatted,
       owed: worked.owed,
     },
-    writing.read ?? null
+    writing.read ?? null,
+    writing.done ?? []
   )
 }

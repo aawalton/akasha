@@ -247,3 +247,36 @@ test("a message the caller spells reaches the landing rather than the one compos
   await landedWith(givenIn(NOWHERE), spelled, TARGET, "clear", new Map(), fake.landing)
   expect(fake.handed()?.message).toBe("a reason of my own")
 })
+
+const THREW = "the links would not be placed"
+
+function throwing(commit: string | null): Landing {
+  return async (_root, _changes, _message, _agentId, writing) => {
+    if (commit !== null) writing?.done?.push(commit)
+    throw new Error(THREW)
+  }
+}
+
+test("a landing that threw after its commit names that commit rather than nothing written", async () => {
+  const said = await landedWith(
+    givenIn(NOWHERE),
+    SAID,
+    TARGET,
+    "clear",
+    new Map(),
+    throwing(LANDED.commit)
+  )
+  expect(said.code).toBe(OPERATIONAL)
+  expect(said.refusals[0]).toContain(THREW)
+  expect(said.refusals[1]).toBe(
+    `${LANDED.commit ?? ""} was committed before this stopped, ` +
+      "so read that commit rather than running this again"
+  )
+})
+
+test("a landing that threw before committing anything says nothing was written", async () => {
+  const said = await landedWith(givenIn(NOWHERE), SAID, TARGET, "clear", new Map(), throwing(null))
+  expect(said.code).toBe(OPERATIONAL)
+  expect(said.refusals[0]).toContain(THREW)
+  expect(said.refusals[1]).toBe("nothing was written")
+})

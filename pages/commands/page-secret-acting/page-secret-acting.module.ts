@@ -56,6 +56,18 @@ export const pageSecretActing = {
     },
     {
       invariantKind: "departure",
+      statement: "A fault the landing threw is answered where that landing runs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a refusal names the commit where the landing committed one.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every other fault here is thrown before anything is written.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every answer here is built by a function rather than written out as a value.",
     },
     {

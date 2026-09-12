@@ -1,6 +1,9 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import type {
+  Asking,
+  Writing,
+} from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   DATA,
@@ -176,13 +179,40 @@ export const TAKE = "change-mechanical-file/remove-file"
 export type Landing = (
   root: string,
   changes: readonly Asking[],
-  message: string
+  message: string,
+  agentId?: string | null,
+  writing?: Writing
 ) => ReturnType<typeof runMechanicalChange>
+
+const NOTHING_WRITTEN = "nothing was written"
+
+const BEFORE_STOPPING =
+  "was committed before this stopped, so read that commit rather than running this again"
 
 function answered(landed: Awaited<ReturnType<Landing>>, did: string): Answer {
   const wrong = "refusals" in landed ? landed.refusals : landed.wrong
   if (wrong.length > 0) return refusedBy(wrong, OPERATIONAL)
   return told([did])
+}
+
+function stoppedSaid(done: readonly string[]): string {
+  const commit = done[0]
+  return commit === undefined ? NOTHING_WRITTEN : `${commit} ${BEFORE_STOPPING}`
+}
+
+async function landedOnto(
+  landing: Landing,
+  root: string,
+  changes: readonly Asking[],
+  message: string,
+  did: string
+): Promise<Answer> {
+  const done: string[] = []
+  try {
+    return answered(await landing(root, changes, message, null, { done }), did)
+  } catch (thrown) {
+    return refusedBy([whyOf(thrown), stoppedSaid(done)], OPERATIONAL)
+  }
 }
 
 export async function landedWith(
@@ -196,21 +226,21 @@ export async function landedWith(
   const message = messageFor(said, target, act)
   if (values.size === 0) {
     const taken: readonly Asking[] = [{ at: TAKE, given: { at: target.sidecar } }]
-    return answered(await landing(given.root, taken, message), `took away ${target.sidecar}`)
+    return await landedOnto(landing, given.root, taken, message, `took away ${target.sidecar}`)
   }
   const composed = cipherFor(given.root, target.path, values)
-  if (composed.text === null) return refusedBy([composed.why, "nothing was written"], DATA)
+  if (composed.text === null) return refusedBy([composed.why, NOTHING_WRITTEN], DATA)
   const written: readonly Asking[] = [
     { at: PUT, given: { at: target.sidecar, body: composed.text } },
   ]
-  return answered(await landing(given.root, written, message), `wrote ${target.sidecar}`)
+  return await landedOnto(landing, given.root, written, message, `wrote ${target.sidecar}`)
 }
 
 export async function caught(run: () => Answer | Promise<Answer>): Promise<Answer> {
   try {
     return await run()
   } catch (thrown) {
-    return refusedBy([whyOf(thrown), "nothing was written"], OPERATIONAL)
+    return refusedBy([whyOf(thrown), NOTHING_WRITTEN], OPERATIONAL)
   }
 }
 
