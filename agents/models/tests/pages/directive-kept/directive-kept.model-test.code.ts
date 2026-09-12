@@ -2,6 +2,7 @@ import { directiveKept as test } from "akasha/agents/models/tests/pages/directiv
 import {
   type Asked,
   anyYes,
+  type Beside,
   type Case,
   filling,
   type Got,
@@ -69,29 +70,34 @@ export function directivesIn(given: unknown): readonly Directive[] {
   return found
 }
 
-export function judgedIn(directives: readonly Directive[]): readonly Directive[] {
-  return directives.filter((one) => one.name === JUDGED)
+export function judgedIn(directives: readonly Directive[], judged: string): readonly Directive[] {
+  return directives.filter((one) => one.name === judged)
 }
 
-export function asking(one: Case, reading: PageReading): readonly Asked[] {
-  const page = reading(PERSON, one.page)
-  if (page === null) return []
-  return judgedIn(directivesIn(page[DIRECTIVES])).map((found) => ({
-    about: found.name,
-    prompt: filling(test.prompt, {
-      [ASKED]: one.asked ?? "",
-      [TURN]: one.statement,
-      [RULE]: ruleOf(found),
-    }),
-  }))
+export function judgingOf(prompt: string, judged: string): Beside {
+  return {
+    asking(one: Case, reading: PageReading): readonly Asked[] {
+      const page = reading(PERSON, one.page)
+      if (page === null) return []
+      return judgedIn(directivesIn(page[DIRECTIVES]), judged).map((found) => ({
+        about: found.name,
+        prompt: filling(prompt, {
+          [ASKED]: one.asked ?? "",
+          [TURN]: one.statement,
+          [RULE]: ruleOf(found),
+        }),
+      }))
+    },
+    keeping(one: Case, got: readonly Got[]): boolean {
+      return anyYes(got) === (one.answer === YES && one.against === judged)
+    },
+  }
 }
 
-export function keeping(one: Case, got: readonly Got[]): boolean {
-  return anyYes(got) === (one.answer === YES && one.against === JUDGED)
-}
+export const { asking, keeping } = judgingOf(test.prompt, JUDGED)
 
 export function directiveKept(judging: Judging): readonly Putting[] {
-  return judgedIn(judging.directives).map((one) => {
+  return judgedIn(judging.directives, JUDGED).map((one) => {
     const rule = ruleOf(one)
     return {
       statement: rule,
