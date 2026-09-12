@@ -1,5 +1,8 @@
+import { leftWhereCodeMoved } from "akasha/infrastructure/services/workstations/code-moving/code-moving.module.code.ts"
+
 export function sleptUntilStopped(ms: number, signal: AbortSignal): Promise<boolean> {
   if (signal.aborted) return Promise.resolve(false)
+  leftWhereCodeMoved()
   return new Promise<boolean>((resolve) => {
     const cleanup = (): undefined => {
       clearTimeout(timer)

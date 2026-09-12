@@ -26,6 +26,14 @@ export const serviceBeating = {
     },
     {
       invariantKind: "departure",
+      statement: "The moment being written is where a service leaves for code that moved.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That round has landed already, which is what makes the moment a safe point.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A service that has landed no round at all carries no moment.",
     },
     {

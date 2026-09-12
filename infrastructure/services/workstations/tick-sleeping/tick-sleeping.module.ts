@@ -13,6 +13,27 @@ export const tickSleeping = {
     },
     {
       invariantKind: "departure",
+      statement: "A wait is where a service that keeps running leaves for code that moved.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The tick before a wait has landed, which is what makes the wait a safe point.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A service leaves as a wait opens rather than as a wait ends.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A wait a service defers its first tick by is waited out, so that deferral is never lost.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stop already asked is answered before code that moved is weighed.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A wait says whether that wait ran out or was ended early.",
     },
     {

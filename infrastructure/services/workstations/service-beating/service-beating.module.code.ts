@@ -1,3 +1,4 @@
+import { leftWhereCodeMoved } from "akasha/infrastructure/services/workstations/code-moving/code-moving.module.code.ts"
 import {
   mergeUncommitted,
   uncommittedIn,
@@ -13,6 +14,8 @@ export type Beating =
 
 export function keepBeat(root: string, page: string, at: Date): undefined {
   mergeUncommitted(root, page, { [WORKED_AT]: at.toISOString() })
+  leftWhereCodeMoved()
+  return undefined
 }
 
 export function beatOn(values: Readonly<Record<string, unknown>> | null): string | null {
