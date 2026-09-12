@@ -1,4 +1,4 @@
-import type { SeatTurnState } from "akasha/seat-system/seat-turn-states/seat-turn-state.page-type.types.ts"
+import type { SeatTurnState } from "akasha/agents/seats/turn-states/seat-turn-state.page-type.types.ts"
 
 export const idle = {
   id: "01a06925-c777-7e84-b147-2a1c7af4f56c",
