@@ -8,10 +8,10 @@ import { keepReading } from "akasha/alan/harness/readouts/reading/readout-readin
 import { statedAt } from "akasha/alan/harness/readouts/tier/readout-tier.module.code.ts"
 import { openedDayOf } from "akasha/alan/track/daily/day-opening/day-opening.module.code.ts"
 import { askDayByDate } from "akasha/alan/track/daily/day-reading/day-reading.module.code.ts"
+import { rootStated } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const READOUT = "readout"
@@ -128,7 +128,7 @@ export async function takeReadings(root: string, now: Date = new Date()): Promis
 }
 
 if (import.meta.main) {
-  const root = optionalEnv("AKASHA_ROOT") ?? process.cwd()
+  const root = rootStated(process.env) ?? process.cwd()
   try {
     const taken = await takeReadings(root)
     for (const one of taken.unread) process.stderr.write(`${one}\n`)
