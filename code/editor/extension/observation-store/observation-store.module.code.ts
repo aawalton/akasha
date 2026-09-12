@@ -18,7 +18,7 @@ export interface SweepReport {
   readonly trigger: string
 }
 
-export const SETTLE_MS = 250
+const SETTLE_MS = 250
 
 const WINDOW_PAGE_TYPE = "code-editor-window"
 

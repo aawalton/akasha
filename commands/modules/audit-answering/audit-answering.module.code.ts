@@ -15,9 +15,9 @@ import type { Answer } from "akasha/commands/modules/calling/calling.module.code
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
 
-export const ANSWER_CEILING = 28000
+const ANSWER_CEILING = 28000
 
-export const REASON_CEILING = 240
+const REASON_CEILING = 240
 
 const NO_ROUND = "no round of the audit service ran — "
 

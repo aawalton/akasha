@@ -49,7 +49,7 @@ export function saidOf(output: string): string {
     .join("\n")
 }
 
-export function counted(many: number): string {
+function counted(many: number): string {
   return many === 1 ? "1 test file" : `${many} test files`
 }
 
@@ -72,7 +72,7 @@ export function spentlyOf(spent: readonly Spent[]): string {
 const MEND =
   "The tests themselves are green. Deleting a test nothing needs is the best way to make a file cheaper, so look for one first. Then make the tests that are left cheaper. Divide the file last."
 
-export function slowlyOf(ran: Ran): string {
+function slowlyOf(ran: Ran): string {
   const given = `a test file is given ${String(CEILING)} processor seconds`
   if (ran.slow.length === 0)
     return (
@@ -135,7 +135,7 @@ function countingOf(ran: Ran): string {
   return failed === 0 ? `${outside}, and no test failed` : `${said}, and ${outside}`
 }
 
-export function failinglyOf(ran: Ran, over: string, failing: readonly string[]): string {
+function failinglyOf(ran: Ran, over: string, failing: readonly string[]): string {
   const said = `${countingOf(ran)}, over ${over}:\n${saidOf(ran.output)}`
   if (failing.length === 0) return `${UNNAMED}\n\n${said}`
   const blamed = ran.summary.failed === 0 ? "errored" : "failed"
@@ -169,7 +169,7 @@ export function reasonOf(ran: Ran, named: readonly string[], failing: readonly s
   )
 }
 
-export function spelledIn(output: string, root: string): string {
+function spelledIn(output: string, root: string): string {
   return output.replaceAll(`${root}/`, "")
 }
 
@@ -192,7 +192,7 @@ export function linksIn(change: Change): ReadonlyMap<string, Link> {
   return found
 }
 
-export function bodiesOf(change: Change, shadow: Shadow): Bodies {
+function bodiesOf(change: Change, shadow: Shadow): Bodies {
   const held: Record<string, Body> = {}
   for (const one of change.changed) held[one] = change.after(one)
   for (const [at, body] of shadow.filed()) held[at] = body

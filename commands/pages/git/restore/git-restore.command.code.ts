@@ -63,7 +63,7 @@ export type Refused = {
   readonly code: number
 }
 
-export function headEntries(root: string, paths: readonly string[]): ReadonlyMap<string, Entry> {
+function headEntries(root: string, paths: readonly string[]): ReadonlyMap<string, Entry> {
   const found = new Map<string, Entry>()
   for (const one of gitIn(root, ["ls-tree", "-z", HEAD, "--", ...paths]).split("\0")) {
     const read = TREE_ENTRY.exec(one)
@@ -73,7 +73,7 @@ export function headEntries(root: string, paths: readonly string[]): ReadonlyMap
   return found
 }
 
-export function indexEntries(root: string, paths: readonly string[]): ReadonlyMap<string, Entry> {
+function indexEntries(root: string, paths: readonly string[]): ReadonlyMap<string, Entry> {
   const found = new Map<string, Entry>()
   for (const one of gitIn(root, ["ls-files", "-s", "-z", "--", ...paths]).split("\0")) {
     const read = INDEX_ENTRY.exec(one)
@@ -83,7 +83,7 @@ export function indexEntries(root: string, paths: readonly string[]): ReadonlyMa
   return found
 }
 
-export function sameBytes(one: Uint8Array | null, other: Uint8Array): boolean {
+function sameBytes(one: Uint8Array | null, other: Uint8Array): boolean {
   if (one === null || one.length !== other.length) return false
   for (let at = 0; at < one.length; at += 1) {
     if (one[at] !== other[at]) return false
@@ -99,7 +99,7 @@ function bytesOnDisk(at: string): Uint8Array | null {
   }
 }
 
-export function unheld(path: string, calledAs: string): string {
+function unheld(path: string, calledAs: string): string {
   return (
     `HEAD holds no ${path}, so \`${calledAs}\` has nothing to put back there — a path HEAD ` +
     "does not hold is often work another agent has not landed, so this refuses rather than " +
@@ -107,7 +107,7 @@ export function unheld(path: string, calledAs: string): string {
   )
 }
 
-export function unlanded(path: string, calledAs: string): string {
+function unlanded(path: string, calledAs: string): string {
   return (
     `HEAD holds no ${path}, the git index holds it, and the working tree holds it too — that is ` +
     `work another agent staged and has not landed, so \`${calledAs}\` refuses rather than ` +
@@ -115,21 +115,21 @@ export function unlanded(path: string, calledAs: string): string {
   )
 }
 
-export function unclearable(path: string, entry: Entry, calledAs: string): string {
+function unclearable(path: string, entry: Entry, calledAs: string): string {
   return (
     `HEAD holds no ${path} and the git index holds it with mode ${entry.mode}, and ` +
     `\`${calledAs}\` clears a git index entry for a file with mode 100644 or 100755 alone`
   )
 }
 
-export function notAFile(path: string, entry: Entry, calledAs: string): string {
+function notAFile(path: string, entry: Entry, calledAs: string): string {
   return (
     `HEAD holds ${path} as a ${entry.kind} rather than a file, and \`${calledAs}\` puts back ` +
     "one file at a time — name the files under it"
   )
 }
 
-export function wrongMode(path: string, entry: Entry, calledAs: string): string {
+function wrongMode(path: string, entry: Entry, calledAs: string): string {
   return (
     `HEAD holds ${path} with mode ${entry.mode}, and \`${calledAs}\` puts back a file with ` +
     "mode 100644 or 100755 alone"
@@ -181,7 +181,7 @@ type Judged =
   | { readonly held: readonly Held[]; readonly cleared: readonly Cleared[] }
   | { readonly refusals: readonly string[]; readonly code: number }
 
-export function judgedIn(root: string, paths: readonly string[], calledAs: string): Judged {
+function judgedIn(root: string, paths: readonly string[], calledAs: string): Judged {
   let head: ReadonlyMap<string, Entry>
   let indexed: ReadonlyMap<string, Entry>
   try {
@@ -221,7 +221,7 @@ export function judgedIn(root: string, paths: readonly string[], calledAs: strin
 
 type Wanted = { readonly paths: readonly string[] } | { readonly refusals: readonly string[] }
 
-export function pathsIn(root: string, named: readonly string[]): Wanted {
+function pathsIn(root: string, named: readonly string[]): Wanted {
   const paths: string[] = []
   const refusals: string[] = []
   const seen = new Set<string>()
@@ -241,7 +241,7 @@ export function pathsIn(root: string, named: readonly string[]): Wanted {
   return refusals.length > 0 ? { refusals } : { paths }
 }
 
-export function putBackSaid(one: Held): string {
+function putBackSaid(one: Held): string {
   return `${one.path} is the body HEAD holds again on disk`
 }
 
@@ -288,7 +288,7 @@ function counted(many: number): string {
   return many === 1 ? "1 path" : `${many} paths`
 }
 
-export function reportOf(
+function reportOf(
   going: readonly Held[],
   left: readonly Held[],
   cleared: readonly Cleared[],

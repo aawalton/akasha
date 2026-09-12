@@ -133,7 +133,7 @@ function bare(answer: Answer): Ended {
   return { answer, paths: 0 }
 }
 
-export function takenIn(piping: Piping): Arguments | string {
+function takenIn(piping: Piping): Arguments | string {
   const held = piping()
   if ("tty" in held) return {}
   if ("unreadable" in held) return `the arguments would not open: ${held.unreadable}`

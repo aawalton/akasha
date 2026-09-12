@@ -41,20 +41,20 @@ import {
 
 const HEALTH_PROBED = "image-gen"
 
-export function sourceFileSet(workspace: string, sourceDir: string): readonly string[] {
+function sourceFileSet(workspace: string, sourceDir: string): readonly string[] {
   return readdirSync(join(workspace, sourceDir), { recursive: true, withFileTypes: true })
     .filter((one) => one.isFile())
     .map((one) => relative(workspace, join(one.parentPath, one.name)))
     .sort()
 }
 
-export function reasonFor(held: ActualResource | undefined): string {
+function reasonFor(held: ActualResource | undefined): string {
   if (held === undefined || !held.dirPresent) return "the host holds none of it"
   if (held.condaEnvPresent && !held.condaEnvHealthy) return "the environment on the host is broken"
   return "what the host holds is stale or half there"
 }
 
-export function currentAlready(held: ActualResource | undefined, inputsHash: string): boolean {
+function currentAlready(held: ActualResource | undefined, inputsHash: string): boolean {
   return (
     held?.dirPresent === true &&
     held.condaEnvPresent &&

@@ -1,7 +1,7 @@
 import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 import type { Infer } from "akasha/utils/narrow/shape-core/shape-core.module.code.ts"
 
-export const JWT_FRESHNESS_MARGIN_MS = 10 * 60 * 1000
+const JWT_FRESHNESS_MARGIN_MS = 10 * 60 * 1000
 
 const COOKIE_CHUNK_LIMIT = 3180
 

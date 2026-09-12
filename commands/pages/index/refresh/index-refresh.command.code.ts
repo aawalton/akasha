@@ -36,7 +36,7 @@ const COMMITTING = new Map<string, string>([
   ["--break-the-glass", "says why no check runs, and a refresh runs none"],
 ])
 
-export function committing(refused: readonly string[]): readonly string[] {
+function committing(refused: readonly string[]): readonly string[] {
   const said: string[] = []
   for (const [one, why] of COMMITTING) {
     if (refused.some((each) => each.includes(`\`${one}\``))) said.push(`\`${one}\` ${why}`)
@@ -44,7 +44,7 @@ export function committing(refused: readonly string[]): readonly string[] {
   return said
 }
 
-export function named(paths: readonly string[]): string {
+function named(paths: readonly string[]): string {
   const shown = paths.slice(0, SHOWN).join(", ")
   return paths.length > SHOWN ? `${shown}, and ${paths.length - SHOWN} more` : shown
 }
@@ -61,7 +61,7 @@ export function classed(paths: readonly string[]): string {
     .join(", ")
 }
 
-export function driftSaid(drift: Drift): readonly string[] {
+function driftSaid(drift: Drift): readonly string[] {
   const many = drift.added.length + drift.changed.length + drift.went.length
   if (many === 0) return ["nothing in the index differed from what the pages say"]
   const said = [

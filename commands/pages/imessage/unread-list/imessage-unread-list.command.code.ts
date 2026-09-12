@@ -29,19 +29,13 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { imessageUnreadList as page } from "akasha/commands/pages/imessage/unread-list/imessage-unread-list.command.ts"
 
-export function unreadLines(
-  messages: readonly ImessageMessage[],
-  name: NameFor
-): readonly string[] {
+function unreadLines(messages: readonly ImessageMessage[], name: NameFor): readonly string[] {
   return oldestFirst(messages).map((one) =>
     [formatLocalMinute(one.unixSeconds), messageLabel(one, name), singleLine(one.text)].join("\t")
   )
 }
 
-export function unreadRecords(
-  messages: readonly ImessageMessage[],
-  name: NameFor
-): readonly unknown[] {
+function unreadRecords(messages: readonly ImessageMessage[], name: NameFor): readonly unknown[] {
   return oldestFirst(messages).map((one) => ({
     rowid: one.rowid,
     guid: one.guid,

@@ -28,7 +28,7 @@ export function namedIn(changes: readonly FileChange[]): ReadonlySet<string> {
   return new Set(changes.flatMap(pathsOf))
 }
 
-export function besideIn(root: string): BesideOf {
+function besideIn(root: string): BesideOf {
   const fileProperties = filePropertiesAt(root)
   const sidecars = sidecarsOver(root, [])
   const withheld = uncommittedFiledAt(root)
@@ -38,7 +38,7 @@ export function besideIn(root: string): BesideOf {
     )
 }
 
-export function pageIn(root: string): PageOf {
+function pageIn(root: string): PageOf {
   return (at) => {
     try {
       return valueByPath(root, at)

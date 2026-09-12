@@ -11,7 +11,7 @@ import {
 } from "akasha/code/editor/extension/terminal-pids/terminal-pids.module.code.ts"
 import type * as vscode from "vscode"
 
-export function syncColor(
+function syncColor(
   term: vscode.Terminal,
   color: string | undefined,
   shellPid: number,

@@ -280,9 +280,9 @@ async function pump(): Promise<undefined> {
   return undefined
 }
 
-export const WIRE_MODULE_KEY = "module"
+const WIRE_MODULE_KEY = "module"
 
-export const WIRE_EXPORT_KEY = "export"
+const WIRE_EXPORT_KEY = "export"
 
 function parseAsk(said: unknown): Ask | null {
   if (said === null || typeof said !== "object") return null
@@ -337,7 +337,7 @@ function listen(): undefined {
   return undefined
 }
 
-export function main(argv: readonly string[]): number {
+function main(argv: readonly string[]): number {
   if (argv.includes("--help") || argv.includes("-h")) {
     process.stdout.write(HELP)
     return 0

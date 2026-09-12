@@ -26,9 +26,9 @@ const MANIFEST_SCHEMA = z.object({
 
 const MANIFEST_PATH = path.join(rootOf(import.meta.dir), "package.json")
 
-export const manifest = MANIFEST_SCHEMA.parse(JSON.parse(readFileSync(MANIFEST_PATH, "utf8")))
+const manifest = MANIFEST_SCHEMA.parse(JSON.parse(readFileSync(MANIFEST_PATH, "utf8")))
 
-export const rowItems = manifest.contributes.menus["view/item/context"]
+const rowItems = manifest.contributes.menus["view/item/context"]
 
 export const tabItems = manifest.contributes.menus["editor/title/context/replace"]
 
@@ -36,9 +36,9 @@ const VIEW_RE = /view\s*==\s*([A-Za-z]+)/
 
 const VIEW_ITEM_RE = /viewItem\s*=~\s*\/(.+?)\/\s*$/
 
-export const CLAUSE_SCHEMA = z.tuple([z.string(), z.string()]).nullable()
+const CLAUSE_SCHEMA = z.tuple([z.string(), z.string()]).nullable()
 
-export function matchesRow(when: string, contextValue: string, view: string = VIEW_ID): boolean {
+function matchesRow(when: string, contextValue: string, view: string = VIEW_ID): boolean {
   const named = CLAUSE_SCHEMA.parse(VIEW_RE.exec(when))
   if (named !== null && named[1] !== view) {
     return false

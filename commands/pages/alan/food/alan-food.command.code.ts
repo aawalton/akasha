@@ -153,7 +153,7 @@ export function happenedAtFrom(
   return { at: reading.at }
 }
 
-export function shortenedTo(whole: string, ceiling: number): string {
+function shortenedTo(whole: string, ceiling: number): string {
   return whole.length <= ceiling ? whole : whole.slice(0, ceiling).replace(/-+$/, "")
 }
 
@@ -186,7 +186,7 @@ export function freeStemIn(stem: string, slugs: readonly string[]): string {
 
 export type Stems = { readonly stems: readonly string[] } | { readonly refused: string }
 
-export function stemsThere(root: string): Stems {
+function stemsThere(root: string): Stems {
   const asked = asking(root, { pageTypeSlug: FOOD_ENTRY_PAGE_TYPE_SLUG, keys: [SLUG] })
   if ("refused" in asked) return { refused: asked.refused }
   const stems: string[] = []

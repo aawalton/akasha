@@ -37,9 +37,9 @@ import { bodyAt } from "akasha/git/commit-reading/commit-reading.module.code.ts"
 import { besideAll } from "akasha/pages/beside/page-beside.module.code.ts"
 import { fileKeysAt } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 
-export const RESTATED = "--restated"
+const RESTATED = "--restated"
 
-export const RESTATED_KIND = "change-restated"
+const RESTATED_KIND = "change-restated"
 
 export const VALUED = [FILE_PATH, CONTENT_FILE, REMOVE, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
@@ -49,7 +49,7 @@ const PIPED_IN = "the body piped in"
 
 const BYTES = new TextEncoder()
 
-export function restatedIn(
+function restatedIn(
   argv: readonly string[],
   root: string,
   kind: Kind | null
@@ -76,7 +76,7 @@ function bodyIn(one: FileChange): Uint8Array | null {
   return one.kind === "replace" ? BYTES.encode(one.contentTo) : null
 }
 
-export function unrestatedFor(
+function unrestatedFor(
   given: Given,
   kind: Kind | null,
   changes: readonly FileChange[]
@@ -100,7 +100,7 @@ export type Removing = {
   readonly wrong: readonly string[]
 }
 
-export function removingIn(
+function removingIn(
   given: Given,
   removals: readonly string[],
   seen: Set<string>,
@@ -136,7 +136,7 @@ export function removingIn(
   return { changes, taken, base, mistaken, wrong }
 }
 
-export function besideTaken(
+function besideTaken(
   given: Given,
   base: string | null,
   taken: readonly string[],

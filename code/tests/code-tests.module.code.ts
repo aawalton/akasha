@@ -116,11 +116,11 @@ export function measuring(): boolean {
   return optionalEnv(MEASURING) === MARK
 }
 
-export function testNamed(path: string): boolean {
+function testNamed(path: string): boolean {
   return SUFFIXES.some((one) => path.endsWith(one))
 }
 
-export function testsIn(absolute: string): readonly string[] {
+function testsIn(absolute: string): readonly string[] {
   if (!existsSync(absolute)) return []
   if (statSync(absolute).isFile()) return testNamed(absolute) ? [absolute] : []
   const held: string[] = []
@@ -252,7 +252,7 @@ export function groupedBy(root: string, named: readonly string[]): readonly Grou
   return groups
 }
 
-export function pathed(one: string): string {
+function pathed(one: string): string {
   return one.startsWith(HERE) || one.startsWith(ROOTED) ? one : `${HERE}${one}`
 }
 
@@ -282,7 +282,7 @@ function runsFor(root: string, named: readonly string[]): readonly Grouping[] {
   return grouped.length === 0 ? [{ preloads: [], named: [...named] }] : grouped
 }
 
-export function spentIn(
+function spentIn(
   root: string,
   runs: readonly Grouping[],
   naming: readonly string[],

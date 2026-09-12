@@ -43,7 +43,7 @@ export type Ran = { readonly out: string; readonly code: number }
 
 export type Running = (command: readonly string[], named?: Record<string, string>) => Ran
 
-export function ran(command: readonly string[], named: Record<string, string> = {}): Ran {
+function ran(command: readonly string[], named: Record<string, string> = {}): Ran {
   const done = spawned(command, { env: { ...process.env, ...named } })
   return { out: `${done.out}${done.err}`, code: done.code }
 }

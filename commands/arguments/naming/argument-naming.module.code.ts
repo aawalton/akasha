@@ -28,7 +28,7 @@ export type Said = {
   readonly placeholder: string | null
 }
 
-export function linesIn(root: string): ReadonlyMap<string, Said> {
+function linesIn(root: string): ReadonlyMap<string, Said> {
   const found = new Map<string, Said>()
   const type = typeSlugById(root, ARGUMENT_TYPE)
   if (type === null) return found

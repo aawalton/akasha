@@ -27,12 +27,12 @@ const MANIFEST = "package.json"
 
 const APART = "\0"
 
-export function trackedAt(root: string, commit: string): readonly string[] {
+function trackedAt(root: string, commit: string): readonly string[] {
   const held = said(root, ["ls-tree", "-r", "-z", "--name-only", commit]).split(APART)
   return held.filter((one) => one !== "")
 }
 
-export function bodiesFrom(root: string, commit: string): Body {
+function bodiesFrom(root: string, commit: string): Body {
   const reading = new TextDecoder()
   return (path) => {
     const held = bodyInCommit(root, commit, path)
@@ -44,7 +44,7 @@ export function codeBodies(bodyAt: Body): Body {
   return (path) => (typeScripted(path) ? bodyAt(path) : null)
 }
 
-export function memoized(bodyAt: Body): Body {
+function memoized(bodyAt: Body): Body {
   const held = new Map<string, string | null>()
   return (path) => {
     const found = held.get(path)
@@ -60,7 +60,7 @@ export type Reading = {
   readonly over: (seeds: readonly string[]) => ReadonlySet<string>
 }
 
-export function readingOver(tracked: readonly string[], bodyAt: Body): Reading {
+function readingOver(tracked: readonly string[], bodyAt: Body): Reading {
   const bodies = memoized(bodyAt)
   const naming = reachingOf(manifestsAmong(tracked, MANIFEST), bodies)
   const code = codeBodies(bodies)
@@ -81,11 +81,7 @@ export function besideThe(tracked: readonly string[], pagePath: string): readonl
   return underFolder(tracked, folderOf(pagePath))
 }
 
-export function webSeeds(
-  root: string,
-  slug: string,
-  tracked: readonly string[]
-): readonly string[] {
+function webSeeds(root: string, slug: string, tracked: readonly string[]): readonly string[] {
   const read = deployableNamed(root, slug)
   if ("refused" in read) return []
   const app = read.deployable
@@ -97,16 +93,12 @@ export function webSeeds(
   ]
 }
 
-export function iosSeeds(root: string): readonly string[] {
+function iosSeeds(root: string): readonly string[] {
   const shared = sharedBuildFiles(root)
   return "why" in shared ? [] : shared.files
 }
 
-export function everySeed(
-  root: string,
-  kind: string,
-  tracked: readonly string[]
-): readonly string[] {
+function everySeed(root: string, kind: string, tracked: readonly string[]): readonly string[] {
   const found: string[] = []
   for (const one of everyOfType(root, kind)) found.push(...besideThe(tracked, one.path))
   return found
@@ -116,7 +108,7 @@ export function kindSeeds(root: string, kind: string): readonly string[] {
   return kind === WORKSTATION_SERVICE ? runnerCodeIn(root) : []
 }
 
-export function seedsFor(
+function seedsFor(
   root: string,
   slug: string,
   read: Named,

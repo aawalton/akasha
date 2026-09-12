@@ -1,4 +1,4 @@
-export const ANSWER_BYTES = "answer-bytes"
+const ANSWER_BYTES = "answer-bytes"
 
 const SAID = `${ANSWER_BYTES}: `
 

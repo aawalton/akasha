@@ -84,7 +84,7 @@ export function mintedFor(kind: string, slug: string): string {
   )
 }
 
-export function earlyOf(shadow: Shadow): ReadonlyMap<string, Generated> {
+function earlyOf(shadow: Shadow): ReadonlyMap<string, Generated> {
   const found = new Map<string, Generated>()
   for (const [slug, one] of generatedProperties(shadow)) {
     if (!one.afterChecks) found.set(slug, one)

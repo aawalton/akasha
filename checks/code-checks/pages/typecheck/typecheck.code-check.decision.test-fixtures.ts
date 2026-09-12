@@ -115,9 +115,9 @@ export function basing(): string {
   })
 }
 
-export const TAKES_NUMBER = "export function held(one: number): number {\n  return one\n}\n"
+const TAKES_NUMBER = "export function held(one: number): number {\n  return one\n}\n"
 
-export const CALLS_HELD = 'import { held } from "./held.ts"\nexport const one = held(1)\n'
+const CALLS_HELD = 'import { held } from "./held.ts"\nexport const one = held(1)\n'
 
 export const IMPORTS_TYPEGEN =
   'import type { Route } from "./+types/two"\n\nexport const two: Route = 1\n'
@@ -144,7 +144,7 @@ const HELD_TYPE_AT = "akasha/held-type.page-type.ts"
 
 const HELD_LOADER_AT = "akasha/held-loader.module.ts"
 
-export const LOADER_CODE_AT = "akasha/held-loader.module.code.ts"
+const LOADER_CODE_AT = "akasha/held-loader.module.code.ts"
 
 export const LOADED_AT = "akasha/loaded.held-type.ts"
 

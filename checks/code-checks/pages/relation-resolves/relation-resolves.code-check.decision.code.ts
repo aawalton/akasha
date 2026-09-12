@@ -26,7 +26,7 @@ export type Carried = {
   readonly value: Value
 }
 
-export function valueFor(change: Change, path: string): Value | null {
+function valueFor(change: Change, path: string): Value | null {
   const text = textIn(change, path)
   if (text === null) return null
   return valueIn(text)
@@ -42,7 +42,7 @@ export function carriedBy(change: Change, pageTypes: ReadonlySet<string>): reado
   return found
 }
 
-export function rowedBy(change: Change, shadow: Shadow): readonly Carried[] {
+function rowedBy(change: Change, shadow: Shadow): readonly Carried[] {
   const carrying = new Set(change.changed)
   const found: Carried[] = []
   const seen = new Set<string>()
@@ -56,11 +56,11 @@ export function rowedBy(change: Change, shadow: Shadow): readonly Carried[] {
   return found
 }
 
-export function rowsFor(change: Change, known: Shaped, one: Carried): readonly Rowing[] {
+function rowsFor(change: Change, known: Shaped, one: Carried): readonly Rowing[] {
   return rowsOver(one.path, one.value, known.entriedIn(one.value), (at) => textIn(change, at))
 }
 
-export function idTakenFrom(change: Change, path: string): string | null {
+function idTakenFrom(change: Change, path: string): string | null {
   const text = textWas(change, path)
   if (text === null) return null
   const value = valueIn(text)

@@ -78,11 +78,11 @@ export interface OwnIds {
   readonly outlived: ReadonlySet<string>
 }
 
-export const NO_OWN_IDS: OwnIds = { running: new Set(), ended: new Set(), outlived: new Set() }
+const NO_OWN_IDS: OwnIds = { running: new Set(), ended: new Set(), outlived: new Set() }
 
 export type HolderPidOf = (seatId: string) => number | null
 
-export function holderPidOf(seatId: string): number | null {
+function holderPidOf(seatId: string): number | null {
   const held = akashaHolderProcessOf(seatId)
   if (held === null) return null
   return parseSeatProcKey(held)?.pid ?? null
@@ -165,7 +165,7 @@ async function transcriptsSay(pages: readonly SubagentPage[]): Promise<OwnIds> {
   )
 }
 
-export function heldBack(calledAs: string, stale: number): readonly string[] {
+function heldBack(calledAs: string, stale: number): readonly string[] {
   return [
     "",
     `${calledAs} wrote nothing. Say \`${remove.said}\` to take away the ${String(stale)} page(s) ` +
@@ -202,7 +202,7 @@ function keptSaid(left: readonly string[]): readonly string[] {
   ]
 }
 
-export function messageOf(stale: readonly Judged[]): string {
+function messageOf(stale: readonly Judged[]): string {
   return [
     `${String(stale.length)} subagent page(s) go, one for each subagent nothing says is at work`,
     "",
@@ -214,7 +214,7 @@ export function messageOf(stale: readonly Judged[]): string {
   ].join("\n")
 }
 
-export function moving(root: string, stale: readonly Judged[], done: string[]): undefined {
+function moving(root: string, stale: readonly Judged[], done: string[]): undefined {
   for (const one of stale) {
     const seat = seatPageIn(root, one.page.seatName)
     if (seat === null) continue

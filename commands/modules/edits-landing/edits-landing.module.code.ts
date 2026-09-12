@@ -52,7 +52,7 @@ function namedIn(said: Said): ReadonlyMap<string, number> {
   return named
 }
 
-export function movesIn(said: Said): readonly FileMove[] {
+function movesIn(said: Said): readonly FileMove[] {
   const named = namedIn(said)
   const moves: FileMove[] = []
   for (const one of said.edits) {
@@ -63,7 +63,7 @@ export function movesIn(said: Said): readonly FileMove[] {
   return moves
 }
 
-export function bringsIn(said: Said): readonly Bringing[] {
+function bringsIn(said: Said): readonly Bringing[] {
   const named = namedIn(said)
   const brings: Bringing[] = []
   for (const one of said.edits) {
@@ -98,7 +98,7 @@ function wentTo(root: string, head: string, path: string): string | null {
   return null
 }
 
-export function renamedTo(root: string, head: string, path: string): string | null {
+function renamedTo(root: string, head: string, path: string): string | null {
   let at = path
   for (let spun = 0; spun < FOLLOWED_AT_MOST; spun++) {
     const next = wentTo(root, head, at)

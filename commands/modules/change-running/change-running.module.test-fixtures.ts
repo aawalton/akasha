@@ -194,7 +194,7 @@ export function taking(path: string): string {
   return `at: ${path}\n`
 }
 
-export function asking(path: string, message: string): string {
+function asking(path: string, message: string): string {
   return `${taking(path)}message: ${message}\n`
 }
 
@@ -212,7 +212,7 @@ export const EDIT: FileChange = { kind: "add", path: "a/b.ts", content: "held" }
 
 export const HELD = { edits: [EDIT], refused: null }
 
-export const NOT_TEXT_AT = "akasha/three/wallpaper.png"
+const NOT_TEXT_AT = "akasha/three/wallpaper.png"
 
 export const NOT_TEXT_SAID = `\`${NOT_TEXT_AT}\` is not text, and a change reads a body as text`
 

@@ -121,10 +121,7 @@ export function folderOf(path: string): string {
   return folder === HERE ? ROOT : folder
 }
 
-export function manifestsAt(
-  pages: readonly string[],
-  manifest: string | null
-): readonly Manifest[] {
+function manifestsAt(pages: readonly string[], manifest: string | null): readonly Manifest[] {
   if (manifest === null) return []
   return pages.map((path) => {
     const folder = folderOf(path)
@@ -140,7 +137,7 @@ export function manifestsIn(shadow: Shadow): readonly Manifest[] {
   return [...held, ...over]
 }
 
-export function packagesIn(change: Change, standing: readonly Manifest[]): readonly Package[] {
+function packagesIn(change: Change, standing: readonly Manifest[]): readonly Package[] {
   const found: Package[] = []
   for (const one of standing) {
     const text = textIn(change, one.at)

@@ -44,7 +44,7 @@ function having(label: string, slugs: readonly string[]): string {
   return `${slugs.length} ${label}s have one: ${slugs.join(", ")}`
 }
 
-export function wholeKind(root: string, slug: string): Named | null {
+function wholeKind(root: string, slug: string): Named | null {
   if (slug !== WORKSTATION_SERVICE) return null
   const found = listedAt(root, PAGE_TYPE, slug)[0]
   return found === undefined
@@ -52,7 +52,7 @@ export function wholeKind(root: string, slug: string): Named | null {
     : { kind: WORKSTATION_SERVICE, pagePath: found.path, every: true }
 }
 
-export function saidOfWholeKind(slug: string): string {
+function saidOfWholeKind(slug: string): string {
   return `\`${slug}\` names a workstation service, and the kind is put up whole rather than one service at a time, so name \`${WORKSTATION_SERVICE}\` instead`
 }
 

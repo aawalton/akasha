@@ -35,7 +35,7 @@ function narrowingNothing(nearer: Declared, further: Declared): string {
   )
 }
 
-export function restatingIn(one: Held, shadow: Shadow): readonly Judged[] {
+function restatingIn(one: Held, shadow: Shadow): readonly Judged[] {
   const said: Judged[] = []
   const declared = shadow.index.declarationsOf(one.slug)
   for (const held of Map.groupBy(declared, identityOf).values()) {

@@ -70,7 +70,7 @@ function firstLine(value: string, limit = 200): string {
   return flattened.length > limit ? `${flattened.slice(0, limit - 1)}…` : flattened
 }
 
-export function toolSubject(name: string, input: unknown): string {
+function toolSubject(name: string, input: unknown): string {
   const parsed = toolInputSchema.safeParse(input)
   if (!parsed.success) {
     return ""

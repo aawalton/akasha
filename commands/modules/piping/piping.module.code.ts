@@ -13,7 +13,7 @@ export const MARK_SPLIT = RUN_SPLIT
 
 export const MARK_NEW = `${RUN_NEW} new`
 
-export const PIPED = "what is piped in"
+const PIPED = "what is piped in"
 
 export const RUNS_SAID = "`<<<<<<<`, `=======` or `>>>>>>>`"
 

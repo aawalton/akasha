@@ -46,7 +46,7 @@ export async function unclassifying(
   }
 }
 
-export function spilled(fd: number, lines: readonly string[]): undefined {
+function spilled(fd: number, lines: readonly string[]): undefined {
   if (lines.length === 0) return
   writtenWhole(fd, Buffer.from(lines.map((one) => `${one}\n`).join("")))
 }

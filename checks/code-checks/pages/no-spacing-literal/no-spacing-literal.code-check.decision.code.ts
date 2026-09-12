@@ -18,7 +18,7 @@ const SWIFT = "swift"
 
 const SWIFT_ENDING = ".swift"
 
-export const GRANTS: readonly Grant[] = [
+const GRANTS: readonly Grant[] = [
   {
     pageTypeSlug: "ios-component",
     slug: "ring",
@@ -92,11 +92,11 @@ function blanked(source: string): string {
   return source.replace(STRING_RE, spaced).replace(LINE_COMMENT_RE, spaced)
 }
 
-export function keyOf(one: Written): string {
+function keyOf(one: Written): string {
   return `${one.kind} ${one.value}`
 }
 
-export function inSwift(source: string): readonly Written[] {
+function inSwift(source: string): readonly Written[] {
   const said: Written[] = []
   const lines = blanked(source).split("\n")
   for (let at = 0; at < lines.length; at += 1) {

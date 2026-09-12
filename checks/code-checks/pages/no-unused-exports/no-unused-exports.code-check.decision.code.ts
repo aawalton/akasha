@@ -106,7 +106,7 @@ export function namedWithin(path: string, text: string): ReadonlySet<string> {
   return found
 }
 
-export function reasonFor(name: string, named: boolean): string {
+function reasonFor(name: string, named: boolean): string {
   if (named) return `exports \`${name}\`, which no other file names — ${PUBLISHED}`
   return `exports \`${name}\`, which nothing names — ${REACHED}`
 }
@@ -147,7 +147,7 @@ export function unreachedIn(
   return wanted.filter((one) => !taken.has(one)).map((one) => ({ name: one, named: here.has(one) }))
 }
 
-export function reasonsFor(
+function reasonsFor(
   path: string,
   text: string,
   change: Change,

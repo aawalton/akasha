@@ -21,10 +21,10 @@ export interface Sent {
   readonly observedAt: string
 }
 
-export const ORIGIN = "http://pages.test"
-export const WINDOW = "4242.46800522"
+const ORIGIN = "http://pages.test"
+const WINDOW = "4242.46800522"
 
-export function service(): {
+function service(): {
   readonly sent: readonly Sent[]
   readonly fetcher: Fetcher
   readonly refuse: (status: number) => void

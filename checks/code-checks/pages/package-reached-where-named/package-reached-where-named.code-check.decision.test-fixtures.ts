@@ -17,11 +17,11 @@ const FORMAT = "name-format"
 
 const KEBAB = "lower-kebab-case"
 
-export const HOME = "alan/held"
+const HOME = "alan/held"
 
-export const PAGE_AT = `${HOME}/held.${PACKAGE}.ts`
+const PAGE_AT = `${HOME}/held.${PACKAGE}.ts`
 
-export const MANIFEST_AT = `${HOME}/package.json`
+const MANIFEST_AT = `${HOME}/package.json`
 
 export const NAMED_AT = `${HOME}/one/one.module.code.ts`
 

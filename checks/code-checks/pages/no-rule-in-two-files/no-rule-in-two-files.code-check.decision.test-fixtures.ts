@@ -82,11 +82,11 @@ export function pageText(slug: string, last: string): string {
   return `export const it = { ${held} }\n`
 }
 
-export const HOME_PAGE = "akasha/d/home.module.ts"
+const HOME_PAGE = "akasha/d/home.module.ts"
 
-export const HOME_CODE = "akasha/d/home.module.code.ts"
+const HOME_CODE = "akasha/d/home.module.code.ts"
 
-export const NOTHING = "export const nothing = 1\n"
+const NOTHING = "export const nothing = 1\n"
 
 export function bothLeaving(root: string): Change {
   const bodies: Record<string, Uint8Array> = {
@@ -122,7 +122,7 @@ export function bothArriving(root: string): Change {
   }
 }
 
-export const ONE_MARKDOWN = "akasha/b/one.md"
+const ONE_MARKDOWN = "akasha/b/one.md"
 
 export function unindexed(): Change {
   const body = bytesOf("# one\n")

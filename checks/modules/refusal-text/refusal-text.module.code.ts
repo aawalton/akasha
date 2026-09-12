@@ -12,9 +12,9 @@ const REFUSAL = "refusal"
 
 const HOLE = /\{([^{}]*)\}/g
 
-export class HoleMismatch extends Error {}
+class HoleMismatch extends Error {}
 
-export function fill(body: string, values: Readonly<Record<string, string>>): string {
+function fill(body: string, values: Readonly<Record<string, string>>): string {
   const used = new Set<string>()
   const text = body.replace(HOLE, (_whole, name: string) => {
     const value = values[name]

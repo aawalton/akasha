@@ -23,7 +23,7 @@ const UNOPENED = "unopened"
 
 const SEED = 1618033988
 
-export function leafOf(topic: Topic): Leaf {
+function leafOf(topic: Topic): Leaf {
   return { path: topic.slug, label: topic.label, status: topic.status }
 }
 

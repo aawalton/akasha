@@ -25,7 +25,7 @@ export const IMPORTING =
 export const IMPORTING_AS =
   'import { matching as judging } from "../name-matching/name-matching.module.code.ts"\n'
 
-export const MATCHING_AT = "akasha/name-matching/name-matching.module.code.ts"
+const MATCHING_AT = "akasha/name-matching/name-matching.module.code.ts"
 
 export const SLUG = "lower-kebab-case"
 

@@ -103,7 +103,7 @@ export function lined(said: string | null): readonly string[] {
   return held === "" ? [] : held.split("\n")
 }
 
-export function runningIn(root: string, at: string): Running {
+function runningIn(root: string, at: string): Running {
   return (argv, given) => {
     const done = ran([process.execPath, join(root, at), ...argv], {
       cwd: root,
@@ -124,7 +124,7 @@ export function saidBy(batch: Batch): readonly string[] {
   return batch.out.length > 0 ? batch.out : [NOTHING_SAID]
 }
 
-export function droppedBy(running: Running): readonly string[] {
+function droppedBy(running: Running): readonly string[] {
   const done = running(DROPS, DROPS_ALL)
   return done.code === 0 ? [] : [DROP_FAILED, ...saidBy(done)]
 }
@@ -164,7 +164,7 @@ export function repeating(
 
 export type Piped = { readonly text: string } | { readonly why: string }
 
-export function textFrom(piping: Piping): Piped {
+function textFrom(piping: Piping): Piped {
   const held = piping()
   if ("tty" in held) return { why: NO_ARGUMENTS }
   if ("unreadable" in held) return { why: `the arguments would not open: ${held.unreadable}` }
@@ -172,7 +172,7 @@ export function textFrom(piping: Piping): Piped {
   return { text: new TextDecoder().decode(held.bytes) }
 }
 
-export function noBatching(slug: string): string {
+function noBatching(slug: string): string {
   return (
     `\`${slug}\` states no \`takes-at-most\`, so one run of it acts on every page it reaches` +
     " and there is nothing to repeat"

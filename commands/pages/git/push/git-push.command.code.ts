@@ -12,13 +12,13 @@ import { gitPush as page } from "akasha/commands/pages/git/push/git-push.command
 import { git } from "akasha/git/capping/git-capping.module.code.ts"
 import { pushBranch, remoteOf } from "akasha/git/pushing/git-pushing.module.code.ts"
 
-export function branchIn(root: string): string | null {
+function branchIn(root: string): string | null {
   const head = git(root, ["symbolic-ref", "--short", "HEAD"])
   if (head.code !== 0 || head.stdout === "") return null
   return head.stdout
 }
 
-export function aheadIn(root: string, remote: string, branch: string): string {
+function aheadIn(root: string, remote: string, branch: string): string {
   const counted = git(root, ["rev-list", "--count", `refs/remotes/${remote}/${branch}..HEAD`])
   if (counted.code !== 0 || counted.stdout === "") return "an unknown number of commits"
   return counted.stdout === "1" ? "1 commit" : `${counted.stdout} commits`

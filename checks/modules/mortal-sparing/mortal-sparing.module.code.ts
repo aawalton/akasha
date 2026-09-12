@@ -30,7 +30,7 @@ export function diesIn(known: Known): Dies {
   }
 }
 
-export function asItWas(change: Change): Change {
+function asItWas(change: Change): Change {
   return {
     root: change.root,
     changed: change.changed,

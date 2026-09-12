@@ -1,9 +1,6 @@
-export const NO_ANSWER = Symbol("no answer")
+const NO_ANSWER = Symbol("no answer")
 
-export async function answerWithin<T>(
-  promise: PromiseLike<T>,
-  ms: number
-): Promise<T | typeof NO_ANSWER> {
+async function answerWithin<T>(promise: PromiseLike<T>, ms: number): Promise<T | typeof NO_ANSWER> {
   let timer: ReturnType<typeof setTimeout> | undefined
   const expiry = new Promise<typeof NO_ANSWER>((resolve) => {
     timer = setTimeout(() => resolve(NO_ANSWER), ms)

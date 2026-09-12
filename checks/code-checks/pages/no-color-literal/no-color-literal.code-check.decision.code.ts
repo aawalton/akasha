@@ -33,7 +33,7 @@ const OWN = "no-color-literal"
 
 const CODE = "code"
 
-export const GRANTS: readonly Grant[] = [
+const GRANTS: readonly Grant[] = [
   {
     pageTypeSlug: "module",
     slug: "location-map",
@@ -43,7 +43,7 @@ export const GRANTS: readonly Grant[] = [
   },
 ]
 
-export function normalized(value: string): string {
+function normalized(value: string): string {
   return value.trim().toLowerCase().replace(/\s+/g, " ")
 }
 
@@ -257,7 +257,7 @@ function blanked(source: string): string {
 
 const DECLARATION_RE = /(--[\w-]+|[a-zA-Z-]+)\s*:\s*([^;{}]+)/g
 
-export function inStyles(source: string): readonly Written[] {
+function inStyles(source: string): readonly Written[] {
   const stripped = blanked(source)
   const said: Written[] = []
   for (const decl of stripped.matchAll(DECLARATION_RE)) {
@@ -366,7 +366,7 @@ function quotedIn(source: string): readonly Quoted[] {
 
 const BRACKETED_RE = /\[([^\]]*)\]/g
 
-export function inCode(source: string): readonly Written[] {
+function inCode(source: string): readonly Written[] {
   const said: Written[] = []
   for (const one of quotedIn(source)) {
     const trimmed = one.content.trim()

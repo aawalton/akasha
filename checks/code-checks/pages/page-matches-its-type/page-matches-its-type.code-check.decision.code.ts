@@ -24,7 +24,7 @@ export const DECLARES_NO_PAGE =
 export const STATES_NO_PAGE_TYPE =
   "states no `page-type-slug`, and what a page carries is read from the page type it states"
 
-export function unloadable(why: string | null): string {
+function unloadable(why: string | null): string {
   if (why === null) return DECLARES_NO_PAGE
   return `is named as a page and its body would not load, so what it carries could not be judged — ${why}`
 }

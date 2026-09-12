@@ -1,6 +1,6 @@
 export type ColumnNumber = number
 
-export const FIRST_COLUMN: ColumnNumber = 1
+const FIRST_COLUMN: ColumnNumber = 1
 
 export interface ColumnChoice {
   readonly column: ColumnNumber
@@ -35,7 +35,7 @@ export function seatTerminalOptions(name: string, column: ColumnNumber): SeatTer
   return { name, location: { viewColumn: column } }
 }
 
-export function firstColumn(openColumns: readonly ColumnNumber[]): ColumnNumber {
+function firstColumn(openColumns: readonly ColumnNumber[]): ColumnNumber {
   let lowest: ColumnNumber | undefined
   for (const column of openColumns) {
     if (lowest === undefined || column < lowest) {

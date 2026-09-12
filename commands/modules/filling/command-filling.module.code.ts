@@ -5,7 +5,7 @@ import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.
 import { inputIn, type Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
-export const PIPED = "-"
+const PIPED = "-"
 
 const TRAILING_LINES = /(?:\r?\n)+$/
 

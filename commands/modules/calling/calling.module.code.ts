@@ -107,21 +107,21 @@ const COMMAND = "command"
 
 const SLASH = "/"
 
-export const ROOTED = "index refresh"
+const ROOTED = "index refresh"
 
 const ROOTED_WORDS = ROOTED.split(" ")
 
-export function refreshNamed(argv: readonly string[]): boolean {
+function refreshNamed(argv: readonly string[]): boolean {
   return ROOTED_WORDS.every((one, at) => argv[at] === one)
 }
 
 const loadFrom = createRequire(import.meta.url)
 
-export function commandSlugIn(root: string): string | null {
+function commandSlugIn(root: string): string | null {
   return indexThere(root) ? typeSlugById(root, COMMAND_TYPE) : null
 }
 
-export function slugsIn(root: string): readonly string[] {
+function slugsIn(root: string): readonly string[] {
   const said = commandSlugIn(root)
   return said === null ? [] : slugsOfType(root, said)
 }
@@ -132,7 +132,7 @@ export function commandsIn(root: string): readonly string[] {
   return slugsIn(root).map((one) => pathOf(one, named))
 }
 
-export function reachedIn(
+function reachedIn(
   at: string
 ): { readonly mod: Record<string, unknown> } | { readonly why: string } {
   try {
@@ -197,7 +197,7 @@ export function kindNamed(root: string, slug: string): Kind | null {
   return { slug, runsChecks: checks, writerOwesReading: owed, readersOweReading: stales }
 }
 
-export function unreadIn(root: string, outside: Outside): string | null {
+function unreadIn(root: string, outside: Outside): string | null {
   const at = indexNamed()
   const saying = (opened: string): string =>
     `${opened} Every command is found through the index, so none is read without one. ` +
@@ -237,7 +237,7 @@ function notYetIn(root: string): ReadonlySet<string> {
   return found
 }
 
-export function wholeOf(called: string, argv: readonly string[]): string {
+function wholeOf(called: string, argv: readonly string[]): string {
   const quoted = argv.map((one) => (/\s/.test(one) ? `'${one}'` : one))
   return `${called} ${quoted.join(" ")}`.trim()
 }
@@ -325,7 +325,7 @@ function walkedIn(root: string, argv: readonly string[]): Reached | null {
   return walkingIn(parts, argv, (part) => levelsOf(levels, part))
 }
 
-export function namespaceSlugIn(root: string): string | null {
+function namespaceSlugIn(root: string): string | null {
   return indexThere(root) ? typeSlugById(root, NAMESPACE_TYPE) : null
 }
 

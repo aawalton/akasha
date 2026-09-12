@@ -8,7 +8,7 @@ import { bodyAt, readingEnded } from "akasha/git/commit-reading/commit-reading.m
 import { said } from "akasha/git/running/git-running.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 
-export const AT_DEPLOY = "deploy"
+const AT_DEPLOY = "deploy"
 
 export function sinceCommit(root: string, held: string | null): string | null {
   return held === null ? null : commitAt(root, held)

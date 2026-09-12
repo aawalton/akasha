@@ -38,9 +38,9 @@ export const TEXT = "export const one = 1\n"
 
 export const PROBE_SLUG = "probe"
 
-export const PROBE_RULE_AT = "akasha/one/probe/probe.syntax-rule.ts"
+const PROBE_RULE_AT = "akasha/one/probe/probe.syntax-rule.ts"
 
-export const PROBE_CODE_AT = "akasha/one/probe/probe.syntax-rule.code.ts"
+const PROBE_CODE_AT = "akasha/one/probe/probe.syntax-rule.code.ts"
 
 export const JUDGED_AT = "akasha/one/judged.module.code.ts"
 

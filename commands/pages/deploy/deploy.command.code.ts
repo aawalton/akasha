@@ -97,7 +97,7 @@ export function saidOfUnproven(unproven: readonly string[]): string {
   )
 }
 
-export const PINNED: ReadonlySet<string> = new Set([
+const PINNED: ReadonlySet<string> = new Set([
   WORKSTATION_SERVICE,
   INFERENCE_SERVICE,
   CONTAINER_RECIPE,
@@ -114,7 +114,7 @@ export type Wanted = {
   readonly ref: string | null
 }
 
-export function wrongIn(kind: string, slug: string, wanted: Wanted): string | null {
+function wrongIn(kind: string, slug: string, wanted: Wanted): string | null {
   const onto = wanted.simulator ? simulator.said : wanted.device ? device.said : null
   if (kind === IOS_APP) {
     if (onto === null) {
@@ -132,7 +132,7 @@ export function wrongIn(kind: string, slug: string, wanted: Wanted): string | nu
   return `\`${slug}\` names ${what}, which is put up rather than uploaded, so \`${noUpload.said}\` says nothing about it — a run that applies nothing is \`${dryRun.said}\``
 }
 
-export async function putUp(
+async function putUp(
   read: Read,
   slug: string,
   commit: string,
@@ -214,7 +214,7 @@ export async function deploy(
   return "refused" in alone ? refused(alone.refused, OPERATIONAL) : alone.value
 }
 
-export async function deployHeld(
+async function deployHeld(
   read: Read,
   slug: string,
   wanted: Wanted,

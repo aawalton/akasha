@@ -126,7 +126,7 @@ export type Runs = {
   readonly definition: string
 }
 
-export function changesIn(world: World): readonly Runs[] {
+function changesIn(world: World): readonly Runs[] {
   const held: Runs[] = []
   for (const one of world.index.everyOfType(COMMAND_TYPE)) {
     const slug = partedIn(one.path)?.slug
@@ -137,13 +137,13 @@ export function changesIn(world: World): readonly Runs[] {
   return held.sort((one, two) => (one.slug < two.slug ? -1 : one.slug > two.slug ? 1 : 0))
 }
 
-export function runsSaid(world: World): string {
+function runsSaid(world: World): string {
   return namesDrawn(changesIn(world).map((one) => one.slug))
 }
 
 export type Piped = { readonly text: string } | { readonly why: string } | { readonly none: true }
 
-export function pipedIn(piping: Piping): Piped {
+function pipedIn(piping: Piping): Piped {
   const held = piping()
   if ("tty" in held) return { none: true }
   if ("unreadable" in held) return { why: `the arguments would not open: ${held.unreadable}` }
@@ -165,7 +165,7 @@ const MANY_LINES =
   "`at` names one path, and this one runs over more than one line — a fence hands its whole" +
   " body over, so name the path on the `at` line itself"
 
-export function rootedIn(root: string, given: Arguments): Arguments | string {
+function rootedIn(root: string, given: Arguments): Arguments | string {
   const held = given[AT]
   if (held === undefined) return given
   const said = held.trim()
@@ -209,7 +209,7 @@ function measureIn(said: string | undefined): boolean | string {
   return said.trim() === "true" ? true : NO_MEASURE
 }
 
-export function applyIn(given: Arguments): Asked | string {
+function applyIn(given: Arguments): Asked | string {
   const drafts = draftIn(given[DRAFT])
   if (typeof drafts === "string") return drafts
   const measure = measureIn(given[MEASURE])
@@ -234,7 +234,7 @@ export function pathsNamedBy(
   return [...every].filter((one) => named.has(one))
 }
 
-export function unwarrantedFor(
+function unwarrantedFor(
   root: string,
   agentId: string | null,
   rows: readonly FileChange[],
@@ -257,7 +257,7 @@ export function owingBy(value: Value | null): boolean {
   return value === null || value[WRITER_OWES_READING] !== false
 }
 
-export function kindOf(world: World, value: Value | null): Value | null {
+function kindOf(world: World, value: Value | null): Value | null {
   const slug = value === null ? null : textAt(value, CHANGE_KIND)
   return slug === null ? null : world.index.pageAt(KIND_TYPE, slug)
 }
@@ -343,7 +343,7 @@ export type Chosen = {
   readonly calledAs: string
 }
 
-export function barredIn(given: Arguments, chosen: Chosen): readonly string[] {
+function barredIn(given: Arguments, chosen: Chosen): readonly string[] {
   return chosen.barred
     .filter((key) => given[key] !== undefined)
     .map((key) => `\`${key}\` is no argument a ${chosen.said} takes`)

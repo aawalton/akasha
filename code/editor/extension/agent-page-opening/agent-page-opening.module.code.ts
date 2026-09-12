@@ -14,7 +14,7 @@ export interface PageRow {
   readonly at: string
 }
 
-export function pageRowIn(invoked: unknown): PageRow | undefined {
+function pageRowIn(invoked: unknown): PageRow | undefined {
   const parsed = PAGE_ROW_SCHEMA.safeParse(invoked)
   return parsed.success ? { name: parsed.data.name, at: parsed.data.at } : undefined
 }

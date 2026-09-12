@@ -38,7 +38,7 @@ const MOST_BYTES = 10 * 1024 * 1024
 
 const BODY = filing(textArgument.said)
 
-export function attachmentAt(root: string, path: string): SendAttachment {
+function attachmentAt(root: string, path: string): SendAttachment {
   const at = resolve(root, path)
   let size: number
   try {
@@ -56,7 +56,7 @@ export function attachmentAt(root: string, path: string): SendAttachment {
   return { fileB64: readFileSync(at).toString("base64"), filename: basename(at) }
 }
 
-export async function handleFor(to: string): Promise<string> {
+async function handleFor(to: string): Promise<string> {
   if (isPhoneLike(to) || isEmailLike(to)) return to.trim()
   const matched = searchContacts(await fetchContacts(), to)
   if (matched.length === 0) {

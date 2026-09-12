@@ -76,7 +76,7 @@ export function builtFrom(path: string): boolean {
   return textNamed(path) || manifested(path)
 }
 
-export function landingsIn(change: Change): readonly string[] {
+function landingsIn(change: Change): readonly string[] {
   const found = new Set<string>()
   for (const at of change.changed) {
     if (!manifested(at)) continue
@@ -117,7 +117,7 @@ export function orphanedIn(change: Change, index: Answering): readonly string[] 
   return held.some((one) => change.after(one) !== null) ? [] : gone
 }
 
-export function declaringIn(change: Change, index: Answering): readonly string[] {
+function declaringIn(change: Change, index: Answering): readonly string[] {
   const held = new Set([...index.everyPath(), ...change.changed])
   return [...held].filter(
     (one) => compiled(one) && one.endsWith(DECLARED) && change.after(one) !== null
@@ -143,7 +143,7 @@ export function omittingIn(path: string, text: string, keys: readonly string[]):
   return null
 }
 
-export function mintingIn(change: Change, keys: readonly string[], index: Answering): Minting {
+function mintingIn(change: Change, keys: readonly string[], index: Answering): Minting {
   const pageTypes = keys.length === 0 ? null : index.pageTypesIn()
   return (path, text) => {
     if (pageTypes === null || !pageNamed(path, pageTypes)) return text
@@ -152,7 +152,7 @@ export function mintingIn(change: Change, keys: readonly string[], index: Answer
   }
 }
 
-export function bodiesOf(
+function bodiesOf(
   change: Change,
   minting: Minting,
   placed: Placing
@@ -200,7 +200,7 @@ export function servingOf(
   }
 }
 
-export function existingOf(
+function existingOf(
   served: (name: string) => string | null | undefined
 ): (name: string) => boolean | undefined {
   return (name) => {
@@ -209,7 +209,7 @@ export function existingOf(
   }
 }
 
-export function realOver(root: string, placed: Placing): (path: string) => string | undefined {
+function realOver(root: string, placed: Placing): (path: string) => string | undefined {
   return (path) => {
     const one = resolve(path)
     const said = linkedOf(root, one, placed)
@@ -217,7 +217,7 @@ export function realOver(root: string, placed: Placing): (path: string) => strin
   }
 }
 
-export function foldersIn(
+function foldersIn(
   root: string,
   named: readonly string[],
   placed: Placing
@@ -234,7 +234,7 @@ type Diagnosed = {
   readonly startPosition?: { readonly line: number }
 }
 
-export function foundOf(root: string, said: Diagnosed, placed: Placing): Found {
+function foundOf(root: string, said: Diagnosed, placed: Placing): Found {
   const at = said.fileName === undefined ? null : servedOf(root, resolve(said.fileName), placed)
   const line = (said.startPosition?.line ?? 0) + FIRST_LINE
   return {
@@ -253,7 +253,7 @@ export function matching(one: string): RegExp {
   return new RegExp(`^${said}$`)
 }
 
-export function librariesIn(change: Change, index: Answering): readonly string[] {
+function librariesIn(change: Change, index: Answering): readonly string[] {
   const held = new Set(index.everyOfType(LIBRARY).map((one) => one.path))
   const under = new Set([LIBRARY])
   for (const one of change.changed) if (namedUnder(one, under) !== null) held.add(one)
@@ -274,7 +274,7 @@ export function claimedIn(change: Change, index: Answering): (path: string) => b
   return (path) => held.some((one) => one.test(path))
 }
 
-export async function foundIn(given: Change, shadow: Shadow): Promise<readonly Found[]> {
+async function foundIn(given: Change, shadow: Shadow): Promise<readonly Found[]> {
   const change = holdingOver(given)
   const reached = rootsOf(change, shadow.index)
   const orphaned = orphanedIn(change, shadow.index)

@@ -27,7 +27,7 @@ export function calledIn(path: string): string | null {
   return folders.join(" ")
 }
 
-export function spellingOf(called: string): RegExp {
+function spellingOf(called: string): RegExp {
   const words = called.split(PARTED).join(BETWEEN)
   return new RegExp(`(?<![\\w-])akasha${BETWEEN}${words}(?![\\w-])`)
 }

@@ -25,7 +25,7 @@ function wordFor(node: ts.Expression, bound: ReadonlyMap<string, string>): strin
   return SOMETHING
 }
 
-export function builtBy(node: ts.TemplateExpression, bound: ReadonlyMap<string, string>): string {
+function builtBy(node: ts.TemplateExpression, bound: ReadonlyMap<string, string>): string {
   let said = node.head.text
   for (const span of node.templateSpans) {
     said = said + wordFor(span.expression, bound) + span.literal.text

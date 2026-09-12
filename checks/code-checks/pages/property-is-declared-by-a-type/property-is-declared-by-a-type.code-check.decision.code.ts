@@ -27,7 +27,7 @@ const SAID = "pageProperty"
 
 const WAS_SAID = "pagePropertySlug"
 
-export function declaredIn(value: Value | null): readonly string[] {
+function declaredIn(value: Value | null): readonly string[] {
   if (value === null) return []
   const found: string[] = []
   const held = value[DECLARED]

@@ -58,7 +58,7 @@ function landedIn(
   return outs
 }
 
-export function reachedAfter(change: Change, at: string): readonly string[] {
+function reachedAfter(change: Change, at: string): readonly string[] {
   let held = AFTER.get(change)
   if (held === undefined) {
     held = new Map()
@@ -71,7 +71,7 @@ export function reachedAfter(change: Change, at: string): readonly string[] {
   return made
 }
 
-export function reachedBefore(change: Change, at: string): readonly string[] {
+function reachedBefore(change: Change, at: string): readonly string[] {
   return landedIn(at, textWas(change, at), (path) => textWas(change, path) !== null)
 }
 
@@ -120,7 +120,7 @@ function heldBack(came: ReadonlyMap<string, string>, edge: Edge): readonly strin
   return held
 }
 
-export function cycleFor(change: Change, edge: Edge): readonly string[] | null {
+function cycleFor(change: Change, edge: Edge): readonly string[] | null {
   if (edge.to === edge.from) return [edge.from]
   const came = new Map<string, string>()
   const seen = new Set<string>([edge.to])
@@ -179,7 +179,7 @@ export function cyclesIn(
   return found
 }
 
-export function reasonFor(at: string, held: readonly string[]): string {
+function reasonFor(at: string, held: readonly string[]): string {
   const others = held.filter((one) => one !== at)
   if (others.length === 0) return `imports itself — ${ITSELF}`
   const first = namesDrawn(others.slice(0, SHOWN))

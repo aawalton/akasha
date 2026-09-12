@@ -72,7 +72,7 @@ export type Shaping = {
   readonly fieldsIn: Fielding
 }
 
-export function fieldsFor(page: Value, shadow: Shadow, slug: string): ReadonlyMap<string, Carried> {
+function fieldsFor(page: Value, shadow: Shadow, slug: string): ReadonlyMap<string, Carried> {
   const found = new Map<string, Carried>()
   for (const each of shadow.index.carriedIn(page, slug)) found.set(each.key, each)
   return found
@@ -90,7 +90,7 @@ export const COMPUTED = "computed-property"
 
 export const NOTHING_OPENED: Opened = { among: [], fields: NO_FIELDS, plain: true }
 
-export function memberNamesIn(page: Value): readonly string[] {
+function memberNamesIn(page: Value): readonly string[] {
   const said = page[MEMBERS]
   if (!Array.isArray(said)) return []
   return said.filter((one): one is string => typeof one === "string")

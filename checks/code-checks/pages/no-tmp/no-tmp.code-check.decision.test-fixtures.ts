@@ -13,7 +13,7 @@ export const ROOT = "/repo"
 
 export const AT = "akasha/held.ts"
 
-export const PAGE_AT = "akasha/one/held.module.ts"
+const PAGE_AT = "akasha/one/held.module.ts"
 
 export const CODE_AT = "akasha/one/held.module.code.ts"
 

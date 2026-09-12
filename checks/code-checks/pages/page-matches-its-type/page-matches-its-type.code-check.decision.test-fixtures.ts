@@ -184,7 +184,7 @@ export function besideCarried(uncommitted: boolean, secret = false): readonly Ca
 
 export const scratch = scratchWorld()
 
-export const ROWS = "rows"
+const ROWS = "rows"
 
 export function rooting(prefix: string = "akasha-matches-audit-"): string {
   const root = scratch.rootFor(prefix)

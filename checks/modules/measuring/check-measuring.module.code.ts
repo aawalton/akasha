@@ -111,11 +111,11 @@ export function meanOf(found: readonly number[]): number | null {
   return found.reduce((total, one) => total + one, 0) / found.length
 }
 
-export function rowsIn(body: string): readonly string[] {
+function rowsIn(body: string): readonly string[] {
   return body.split("\n").filter((one) => one.trim() !== "")
 }
 
-export function runIn(row: string): Run {
+function runIn(row: string): Run {
   const one = JSON.parse(row) as Record<string, unknown>
   const said = one["runId"]
   return {
@@ -273,11 +273,11 @@ export function partsIn(root: string, page: string, under: string): readonly str
   return uncommittedPartsOf(page, under, HELD, there).filter(there)
 }
 
-export function groupOf(phase: string): Group {
+function groupOf(phase: string): Group {
   return phase === AUDIT ? AUDIT : CHECK
 }
 
-export function logsOf(group: Group): string {
+function logsOf(group: Group): string {
   return `${group}.${LOGS}`
 }
 
@@ -453,7 +453,7 @@ export function ruledIn(root: string, paths: readonly string[]): readonly Ruled[
   return found
 }
 
-export function sharedIn(ruled: readonly Ruled[]): readonly Ruled[] {
+function sharedIn(ruled: readonly Ruled[]): readonly Ruled[] {
   const files = filesOf(ruled)
   return ruled.filter((one) => (files.get(one.rule)?.size ?? 0) > 1)
 }

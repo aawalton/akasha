@@ -49,7 +49,7 @@ export type Rule = {
 
 type Running = (...given: readonly unknown[]) => undefined
 
-export function carriedIn(change: Change | null, path: string): string | null {
+function carriedIn(change: Change | null, path: string): string | null {
   if (change === null) return null
   return textOf(change.after(path))
 }
@@ -74,7 +74,7 @@ function requiringIn(
   return Object.assign(load, plain)
 }
 
-export function compiledFrom(
+function compiledFrom(
   root: string,
   at: string,
   text: string,
@@ -223,11 +223,11 @@ export function levelsOf(shadow: Shadow): Levels {
   }
 }
 
-export const NAMES_NOTHING: Naming = () => null
+const NAMES_NOTHING: Naming = () => null
 
-export const TYPES_NOTHING: Typing = () => null
+const TYPES_NOTHING: Typing = () => null
 
-export const NO_LEVELS: Levels = { namedAt: NAMES_NOTHING, typedAt: TYPES_NOTHING }
+const NO_LEVELS: Levels = { namedAt: NAMES_NOTHING, typedAt: TYPES_NOTHING }
 
 export function refusalsIn(
   rules: readonly Rule[],

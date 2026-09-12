@@ -40,23 +40,23 @@ export function presenceIn(root: string): string {
 
 export const PAGE = "akasha/agents/seats/pages/tester.seat.ts"
 
-export const MISSING = "akasha/one/missing.module.ts"
+const MISSING = "akasha/one/missing.module.ts"
 
 export const KEPT_ONE = "akasha/three/one.md"
 
 export const KEPT_TWO = "akasha/three/two.md"
 
-export const SPARE = "akasha/three/spare.md"
+const SPARE = "akasha/three/spare.md"
 
-export const MOVED_FROM = "akasha/three/from.md"
+const MOVED_FROM = "akasha/three/from.md"
 
-export const MOVED_TO = "akasha/three/to.md"
+const MOVED_TO = "akasha/three/to.md"
 
 const MOVED: FileChange = { kind: "move", pathFrom: MOVED_FROM, pathTo: MOVED_TO }
 
-export const KEPT_BOTH: readonly string[] = [KEPT_ONE, KEPT_TWO]
+const KEPT_BOTH: readonly string[] = [KEPT_ONE, KEPT_TWO]
 
-export const DROPPED = "these edits are gone, and no apply lands them"
+const DROPPED = "these edits are gone, and no apply lands them"
 
 export const NOTHING_HELD = "no edits are kept beside this agent's page"
 
@@ -66,22 +66,22 @@ export function repo(): string {
   return indexedRepo()
 }
 
-export function piping(said: string): Piping {
+function piping(said: string): Piping {
   const bytes = new TextEncoder().encode(said)
   return () => ({ bytes })
 }
 
-export function naming(...paths: readonly string[]): Piping {
+function naming(...paths: readonly string[]): Piping {
   return piping(paths.map((one) => `at: ${one}\n`).join(""))
 }
 
-export const ALL: Piping = piping("all: true\n")
+const ALL: Piping = piping("all: true\n")
 
-export const ANOTHER: Piping = piping("all: no\n")
+const ANOTHER: Piping = piping("all: no\n")
 
-export const NOTHING: Piping = piping("")
+const NOTHING: Piping = piping("")
 
-export const QUIET: Piping = () => ({ unreadable: "went quiet", part: true as const })
+const QUIET: Piping = () => ({ unreadable: "went quiet", part: true as const })
 
 function rowsIn(root: string, page: string): readonly FileChange[] {
   const said = editsIn(root, page)
@@ -100,11 +100,11 @@ export function keeping(root: string): string {
   return root
 }
 
-export const UNREAD_SAID =
+const UNREAD_SAID =
   "a row kept beside this agent's page reads as no edit, and `all: true` takes every edit away" +
   " without reading one"
 
-export function unreadableIn(root: string): undefined {
+function unreadableIn(root: string): undefined {
   const at = editsAt(PAGE)
   if (at === null) return
   const full = join(root, at)

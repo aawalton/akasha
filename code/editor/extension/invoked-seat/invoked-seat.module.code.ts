@@ -24,7 +24,7 @@ const TOGGLE_TARGET_SCHEMA = z.object({
 
 export type ToggleTarget = z.infer<typeof TOGGLE_TARGET_SCHEMA>
 
-export function asToggleTarget(value: unknown): ToggleTarget | undefined {
+function asToggleTarget(value: unknown): ToggleTarget | undefined {
   const parsed = TOGGLE_TARGET_SCHEMA.safeParse(value)
   return parsed.success ? parsed.data : undefined
 }

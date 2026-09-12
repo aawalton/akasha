@@ -62,7 +62,7 @@ export function shownOf(path: string, text: string): readonly string[] {
   return [`${path} — the body once the edits kept land, ${held} lines`, numbered(text)]
 }
 
-export function recorded(root: string, agentId: string, at: string, folded: Uint8Array): undefined {
+function recorded(root: string, agentId: string, at: string, folded: Uint8Array): undefined {
   const held = bytesAt(root, at)
   const shown = blobIdOf(folded)
   const oid = held === null ? shown : blobIdOf(held)
@@ -74,7 +74,7 @@ export function recorded(root: string, agentId: string, at: string, folded: Uint
   })
 }
 
-export function showing(given: Given, taken: Arguments): Answer {
+function showing(given: Given, taken: Arguments): Answer {
   const path = pathIn(given.root, taken)
   if (typeof path !== "string") return mistaking(path)
   const agentPage = given.agentId === null ? null : agentPathOf(given.root, given.agentId)

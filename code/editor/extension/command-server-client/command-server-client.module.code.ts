@@ -5,11 +5,11 @@ export const REFUSAL_LEASE = "lease"
 
 export const REFUSAL_GONE = "gone"
 
-export const REFUSAL_HUNG = "hung"
+const REFUSAL_HUNG = "hung"
 
-export const REFUSAL_START = "start"
+const REFUSAL_START = "start"
 
-export const REFUSAL_DISPOSED = "disposed"
+const REFUSAL_DISPOSED = "disposed"
 
 const START_ANOTHER: ReadonlySet<string> = new Set([REFUSAL_LEASE, REFUSAL_GONE, REFUSAL_START])
 

@@ -19,7 +19,7 @@ export function judgedHere(path: string): boolean {
   return CODE.some((one) => path.endsWith(one))
 }
 
-export const textIn = textOf
+const textIn = textOf
 
 export function interiorsIn(body: string): readonly Interior[] {
   const held = tokensOf(body)

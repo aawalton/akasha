@@ -26,7 +26,7 @@ export type Lost = {
   readonly word: string
 }
 
-export function lostIn(said: string, standing: Given): Lost | null {
+function lostIn(said: string, standing: Given): Lost | null {
   const words = said.split(APART).filter((one) => one !== "")
   const first = words[0]
   if (first === undefined || standing.namedAt(first) !== first) return null

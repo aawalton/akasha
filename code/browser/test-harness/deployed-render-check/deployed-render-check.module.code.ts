@@ -128,7 +128,7 @@ function indeterminate(reason: string): RenderVerdict {
   return { verdict: "INDETERMINATE", reason }
 }
 
-export function discriminatingAssertions(observation: RenderObservation): readonly string[] {
+function discriminatingAssertions(observation: RenderObservation): readonly string[] {
   const checked: string[] = []
   if (observation.expectedText !== "not-checked") checked.push("--expect-text")
   if (observation.expectedCount.kind !== "not-checked") checked.push("--expect-count")

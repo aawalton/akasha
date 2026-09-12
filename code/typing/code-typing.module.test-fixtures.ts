@@ -37,7 +37,7 @@ export function linked(said: Readonly<Record<string, string>>, slug: string): st
   return root
 }
 
-export function unlinked(said: Readonly<Record<string, string>>): string {
+function unlinked(said: Readonly<Record<string, string>>): string {
   const root = scratch.rootFor("akasha-unlinked-")
   wrote(root, said)
   mkdirSync(join(root, PACKAGED), { recursive: true })

@@ -61,7 +61,7 @@ export function reasonsIn(value: Value, keyed: Keyed): readonly string[] {
   return said
 }
 
-export function keyedIn(pageTypeSlug: string, under: ReadonlySet<string>, shadow: Shadow): Keyed {
+function keyedIn(pageTypeSlug: string, under: ReadonlySet<string>, shadow: Shadow): Keyed {
   const found = new Map<string, string>()
   for (const one of shadow.index.propertiesOf(pageTypeSlug)) {
     if (under.has(one.pageTypeSlug)) found.set(one.key, one.pagePropertySlug)

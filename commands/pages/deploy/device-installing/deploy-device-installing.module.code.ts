@@ -100,7 +100,7 @@ export type Ran = (target: SshTarget, script: string, options?: RunSshOptions) =
 
 export type Secret = () => string
 
-export async function deployed(
+async function deployed(
   app: MobileApp,
   device: string,
   done: string[],

@@ -106,7 +106,7 @@ export async function ranHere(
   return { refusals, unrun, unanswered: [], broken: null }
 }
 
-export async function askedOver(
+async function askedOver(
   root: string,
   every: readonly Gathered[],
   named: readonly string[],

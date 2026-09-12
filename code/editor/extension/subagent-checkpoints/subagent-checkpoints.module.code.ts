@@ -30,7 +30,7 @@ export interface Checkpoint {
   readonly state: SubagentState
 }
 
-export function checkpointBook(): string {
+function checkpointBook(): string {
   return path.join(os.homedir(), ".cache", "ops", "agent-tree-cursors.json")
 }
 

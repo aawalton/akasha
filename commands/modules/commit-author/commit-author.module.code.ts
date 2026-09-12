@@ -17,7 +17,7 @@ function personaOf(writer: string): string | null {
   return pageTextOf(writer, PERSONA_SLUG_KEY)
 }
 
-export function personaAuthor(persona: string): string | null {
+function personaAuthor(persona: string): string | null {
   const found = personaAt(ownRepoRoot(), persona)
   if (found === null) return null
   const email = found.email
@@ -35,9 +35,7 @@ function defaultPersona(): string | null {
 
 let answered: string | null = null
 
-export function commitAuthor(
-  env: Readonly<Record<string, string | undefined>> = process.env
-): string {
+function commitAuthor(env: Readonly<Record<string, string | undefined>> = process.env): string {
   if (answered !== null) return answered
   let found = CLAUDE_AUTHOR
   try {

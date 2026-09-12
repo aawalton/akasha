@@ -93,7 +93,7 @@ export type Target = {
 
 export type Downloading = (url: string, at: string) => Promise<void>
 
-export function saidOf(path: string, json: boolean): string {
+function saidOf(path: string, json: boolean): string {
   return json ? JSON.stringify({ path }) : `path\t${path}`
 }
 

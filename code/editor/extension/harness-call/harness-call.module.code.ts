@@ -27,7 +27,7 @@ export function serverPath(): string {
 
 const BUN_DIRECTORIES = [path.join(os.homedir(), ".bun", "bin")]
 
-export class HarnessUnreachableError extends Error {
+class HarnessUnreachableError extends Error {
   constructor(message: string) {
     super(message)
     this.name = "HarnessUnreachableError"
@@ -49,7 +49,7 @@ function parseInheritedPath(inherited: string | undefined, bun: string): string 
   return inherited === undefined || inherited === "" ? bun : `${bun}${path.delimiter}${inherited}`
 }
 
-export function harnessEnvironment(): NodeJS.ProcessEnv {
+function harnessEnvironment(): NodeJS.ProcessEnv {
   const bun = bunDirectory()
   return {
     ...process.env,
@@ -63,7 +63,7 @@ export interface HarnessCallOptions {
   readonly timeout: number
 }
 
-export class HarnessShortAnswerError extends Error {
+class HarnessShortAnswerError extends Error {
   constructor(message: string) {
     super(message)
     this.name = "HarnessShortAnswerError"

@@ -17,7 +17,7 @@ export const ROOT = "/repo"
 
 export const LIBRARY = "design/language/lua-compiler/lualib/"
 
-export const LIBRARY_PAGE = `${LIBRARY}held.${KIND}.ts`
+const LIBRARY_PAGE = `${LIBRARY}held.${KIND}.ts`
 
 export const AT = "akasha/held.ts"
 

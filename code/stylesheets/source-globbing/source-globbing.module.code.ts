@@ -143,7 +143,7 @@ export function isEntry(css: string): boolean {
   return ENTRY_IMPORT.test(css.replace(BLOCK_COMMENT, ""))
 }
 
-export function globbedOver(change: Change): Globbed {
+function globbedOver(change: Change): Globbed {
   const every = everyIn(change)
   const known = new Set(every)
   const read = new Map<string, string | null>()

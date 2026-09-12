@@ -51,11 +51,7 @@ export function record(value: unknown, where: string): Record<string, unknown> {
   return value as Record<string, unknown>
 }
 
-export function requiredString(
-  source: Record<string, unknown>,
-  key: string,
-  where: string
-): string {
+function requiredString(source: Record<string, unknown>, key: string, where: string): string {
   const value = source[key]
   if (typeof value !== "string") fail(`${where} needs a \`${key}\` string`)
   return value

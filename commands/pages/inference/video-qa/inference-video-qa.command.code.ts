@@ -176,7 +176,7 @@ async function asked(done: string[], read: Read): Promise<Answer> {
   }
 }
 
-export function wrongIn(taken: Taken): readonly string[] {
+function wrongIn(taken: Taken): readonly string[] {
   if (taken.frames > 0) return []
   const said = framesArgument.said
   return [`\`${said}\` takes a whole number above zero, and ${taken.frames} is not one`]

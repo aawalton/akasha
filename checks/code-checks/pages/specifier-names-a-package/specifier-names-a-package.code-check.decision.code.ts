@@ -74,7 +74,7 @@ export function strandedIn(
   return said
 }
 
-export function statedOver(change: Change, shadow: Shadow): ReadonlySet<string> {
+function statedOver(change: Change, shadow: Shadow): ReadonlySet<string> {
   const found = new Set<string>()
   for (const one of manifestsIn(shadow)) {
     const named = calledIn(textIn(change, one.at))

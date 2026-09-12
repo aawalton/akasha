@@ -12,13 +12,13 @@ import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 export const SHAPE = "^[a-z0-9]+(-[a-z0-9]+)*$"
 
-export const KEBAB_PAGE = "akasha/f/kebab.name-format.ts"
+const KEBAB_PAGE = "akasha/f/kebab.name-format.ts"
 
 export const KEBAB_CODE = "akasha/f/kebab.name-format.code.ts"
 
 export const DASH_CODE = "akasha/f/dash.name-format.code.ts"
 
-export const OTHER_PAGE = "akasha/m/other.module.ts"
+const OTHER_PAGE = "akasha/m/other.module.ts"
 
 export const OTHER_CODE = "akasha/m/other.module.code.ts"
 

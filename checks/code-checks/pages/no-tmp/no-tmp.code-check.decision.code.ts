@@ -61,7 +61,7 @@ function reached(node: ts.Node, bound: ReadonlySet<string>): string | null {
   return bound.has(node.expression.text) ? node.expression.text : null
 }
 
-export function reasonsFor(at: string, text: string): readonly string[] {
+function reasonsFor(at: string, text: string): readonly string[] {
   const source = parsedAs(at, text)
   const taken = takenIn(source)
   const said: string[] = []

@@ -12,9 +12,9 @@ import {
   typeSlugOf,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
-export const AKASHA_FILE_CEILING_BYTES = 15_000
+const AKASHA_FILE_CEILING_BYTES = 15_000
 
-export const RUN_LINE_BUDGET_BYTES = 13_501
+const RUN_LINE_BUDGET_BYTES = 13_501
 
 const MODULE_PAGE_TYPE = "01a04a20-6e04-7b99-81a0-0efe0ad0a02a"
 
@@ -44,10 +44,7 @@ export function byteLength(text: string): number {
   return encoder.encode(text).length
 }
 
-export function packLines(
-  lines: readonly string[],
-  budgetBytes: number
-): readonly (readonly string[])[] {
+function packLines(lines: readonly string[], budgetBytes: number): readonly (readonly string[])[] {
   const runs: string[][] = []
   let current: string[] = []
   let bytes = 0
@@ -239,7 +236,7 @@ export function renderSeries(root: string, spec: SeriesSpec): readonly SeriesPag
   return pages
 }
 
-export function runSlugsThere(root: string, spec: SeriesSpec): readonly string[] {
+function runSlugsThere(root: string, spec: SeriesSpec): readonly string[] {
   const pattern = new RegExp(`^${spec.stem}-\\d+$`)
   const found: string[] = []
   for (const one of everyOfType(root, typeSlugOf(root, MODULE_PAGE_TYPE))) {
@@ -270,7 +267,7 @@ function holdsBody(root: string, rel: string, body: string): boolean {
   return readFileSync(at, "utf8") === body
 }
 
-export function quoted(word: string): string {
+function quoted(word: string): string {
   return `'${word.replaceAll("'", `'\\''`)}'`
 }
 
@@ -317,7 +314,7 @@ export function landingAt(at: string): readonly string[] {
   return ["{", ...fenced("message", at, readFileSync(at, "utf8")), "} | akasha change apply"]
 }
 
-export function stagedSaid(rel: string, at: string): string {
+function stagedSaid(rel: string, at: string): string {
   return `${rel}, staged at ${at}`
 }
 

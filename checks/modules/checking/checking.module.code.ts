@@ -81,7 +81,7 @@ const AT_CHANGE: Phase = "change"
 
 const loadFrom = createRequire(import.meta.url)
 
-export function checkSlugIn(root: string): string {
+function checkSlugIn(root: string): string {
   return typeSlugOf(root, CHECK_TYPE)
 }
 
@@ -176,14 +176,14 @@ function runningIn<T>(at: string, slug: string, beside: string, page: string): H
   return { why: `${page} is a check page, and ${beside} answers to nothing that can be run` }
 }
 
-export function codeOf(root: string, page: string): string | null {
+function codeOf(root: string, page: string): string | null {
   const held = besideAt(page, CHECK_CODE, TS)
   if (held !== null && existsSync(join(root, held))) return held
   const found = besideAt(page, CODE, TS)
   return found !== null && existsSync(join(root, found)) ? found : null
 }
 
-export function auditCodeOf(root: string, page: string): string | null {
+function auditCodeOf(root: string, page: string): string | null {
   const held = besideAt(page, AUDIT_CODE, TS)
   return held !== null && existsSync(join(root, held)) ? held : null
 }
@@ -295,7 +295,7 @@ function takenAway(one: Gathered, change: Change): boolean {
   return false
 }
 
-export function checksLeftBy(every: readonly Gathered[], change: Change): readonly Gathered[] {
+function checksLeftBy(every: readonly Gathered[], change: Change): readonly Gathered[] {
   return every.filter((one) => !takenAway(one, change))
 }
 

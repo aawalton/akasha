@@ -27,11 +27,11 @@ export function pagesTouchedBy(
   return [...found].sort()
 }
 
-export function tailOf(page: string, path: string): string {
+function tailOf(page: string, path: string): string {
   return path.slice(page.length - TS.length + 1)
 }
 
-export function namingOf(
+function namingOf(
   page: string,
   path: string,
   fileProperties: ReadonlyMap<string, string | null>
@@ -55,7 +55,7 @@ export function statedBy(
   return `\`${tail.slice(0, at)}: "${tail.slice(at + 1)}"\``
 }
 
-export function missingFor(
+function missingFor(
   change: Change,
   page: string,
   fileProperties: ReadonlyMap<string, string | null>,

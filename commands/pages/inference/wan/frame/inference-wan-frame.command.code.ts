@@ -27,7 +27,7 @@ const PAGES = [fpsArgument, outDirArgument, videoArgument]
 
 type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
 
-export function wrongIn(taken: Taken): readonly string[] {
+function wrongIn(taken: Taken): readonly string[] {
   if (taken.fps !== 0) return []
   return [`\`${fpsArgument.said}\` is one frame a second or more`]
 }

@@ -42,7 +42,7 @@ export function heldNow(root: string): ReadonlySet<string> {
   return found
 }
 
-export function sinceAt(at: string, now: number): number {
+function sinceAt(at: string, now: number): number {
   try {
     return Math.max(0, Math.round((now - statSync(at).mtimeMs) / A_SECOND))
   } catch {

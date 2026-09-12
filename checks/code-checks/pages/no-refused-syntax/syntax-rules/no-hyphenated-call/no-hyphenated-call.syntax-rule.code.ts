@@ -14,7 +14,7 @@ const SPACE = " "
 
 const INSTEAD = "write the levels apart, as the command line takes them"
 
-export function apartIn(slug: string, namedAt: Naming): string | null {
+function apartIn(slug: string, namedAt: Naming): string | null {
   const said = pathOf(slug, namedAt)
   return said.includes(SPACE) ? said : null
 }

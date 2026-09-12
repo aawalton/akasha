@@ -38,7 +38,7 @@ export type Running = (
   given: Given
 ) => Promise<Answer>
 
-export async function ranChange(
+async function ranChange(
   done: string[],
   page: string,
   argv: readonly string[],

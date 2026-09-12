@@ -44,7 +44,7 @@ export function bodyIn(one: Adding | Replacing): string {
   return one.kind === "add" ? one.content : one.contentTo
 }
 
-export function bodied(one: FileChange): one is Adding | Replacing {
+function bodied(one: FileChange): one is Adding | Replacing {
   return one.kind === "add" || one.kind === "replace"
 }
 
@@ -71,7 +71,7 @@ export function rowsFrom(root: string, base: string, changes: readonly FileChang
   return { rows }
 }
 
-export function formattingIn(
+function formattingIn(
   root: string,
   changes: readonly FileChange[],
   already: ReadonlySet<string> = new Set()

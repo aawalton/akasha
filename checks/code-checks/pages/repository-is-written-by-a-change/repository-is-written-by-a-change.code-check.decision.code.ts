@@ -69,7 +69,7 @@ export function asideIn(text: string): readonly string[] {
   return [...found].filter((one) => !back.some((said) => namesAside(said, one)))
 }
 
-export function asideOver(change: Change): readonly string[] {
+function asideOver(change: Change): readonly string[] {
   return asideIn(textIn(change, IGNORE_AT) ?? "")
 }
 

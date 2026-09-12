@@ -15,7 +15,7 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { googleLogin as page } from "akasha/commands/pages/google/login/google-login.command.ts"
 
-export const SCOPES: readonly string[] = [CALENDAR_OAUTH_SCOPE, ...DRIVE_SCOPES, ...GMAIL_SCOPES]
+const SCOPES: readonly string[] = [CALENDAR_OAUTH_SCOPE, ...DRIVE_SCOPES, ...GMAIL_SCOPES]
 
 export function googleLogin(argv: readonly string[], given: Given): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [callbackUrl])

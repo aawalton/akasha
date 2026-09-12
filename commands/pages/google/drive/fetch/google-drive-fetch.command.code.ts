@@ -56,9 +56,9 @@ export function madeSaid(folder: string): string {
   return `the folder ${folder} was not there before this, and this made it`
 }
 
-export const madeFolder: Making = (folder) => mkdir(folder, { recursive: true })
+const madeFolder: Making = (folder) => mkdir(folder, { recursive: true })
 
-export const putBytes: Putting = (at, bytes) => Bun.write(at, bytes)
+const putBytes: Putting = (at, bytes) => Bun.write(at, bytes)
 
 export async function wroteFile(
   folder: string,

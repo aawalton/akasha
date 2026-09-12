@@ -5,7 +5,7 @@ import type { SubagentNode } from "akasha/code/editor/extension/subagent-reading
 
 export const ALAN = "alan"
 
-export const WORKING = "working"
+const WORKING = "working"
 
 export interface SeatRow {
   readonly id: string

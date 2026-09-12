@@ -12,7 +12,7 @@ const ROUNDS = 2
 
 export type Round = () => string | null
 
-export const round: Round = () => {
+const round: Round = () => {
   const done = ran(["systemctl", "--user", "start", UNIT])
   if (done.code === 0) return null
   return `\`${UNIT}\` ${endingOf(done.code, done.signal)} — ${done.err.trim()}`

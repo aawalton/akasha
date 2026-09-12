@@ -48,7 +48,7 @@ export function boundIn(source: ts.SourceFile): Bound {
   return found
 }
 
-export function spelledIn(node: ts.Node, bound: Bound): readonly string[] {
+function spelledIn(node: ts.Node, bound: Bound): readonly string[] {
   const plain = plainIn(node)
   if (plain !== null) return [plain]
   if (ts.isIdentifier(node)) {
@@ -68,7 +68,7 @@ function launchedBy(node: ts.CallExpression): boolean {
   return ts.isPropertyAccessExpression(called) && LAUNCHERS.has(called.name.text)
 }
 
-export function programIn(node: ts.CallExpression, bound: Bound): readonly string[] {
+function programIn(node: ts.CallExpression, bound: Bound): readonly string[] {
   const first = node.arguments[0]
   if (first === undefined) return []
   if (ts.isArrayLiteralExpression(first)) {
@@ -78,7 +78,7 @@ export function programIn(node: ts.CallExpression, bound: Bound): readonly strin
   return spelledIn(first, bound)
 }
 
-export function shellHeadIn(node: ts.TaggedTemplateExpression): string | null {
+function shellHeadIn(node: ts.TaggedTemplateExpression): string | null {
   const tag = node.tag
   const named = ts.isIdentifier(tag)
     ? tag.text

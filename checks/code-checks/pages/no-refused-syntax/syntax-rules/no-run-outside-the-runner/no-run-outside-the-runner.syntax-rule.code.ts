@@ -28,7 +28,7 @@ type Bound = {
   readonly spaces: ReadonlySet<string>
 }
 
-export function boundIn(source: ts.SourceFile): Bound {
+function boundIn(source: ts.SourceFile): Bound {
   const named = new Set<string>()
   const spaces = new Set<string>()
   for (const one of source.statements) {
@@ -49,7 +49,7 @@ export function boundIn(source: ts.SourceFile): Bound {
   return { named, spaces }
 }
 
-export function capturedBy(node: ts.CallExpression, bound: Bound): string | null {
+function capturedBy(node: ts.CallExpression, bound: Bound): string | null {
   const called = node.expression
   if (ts.isIdentifier(called)) return bound.named.has(called.text) ? called.text : null
   if (!ts.isPropertyAccessExpression(called)) return null

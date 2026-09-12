@@ -9,14 +9,14 @@ export interface PrewarmDecisionInput {
   readonly maxMs: number
 }
 
-export function decidePrewarmStep(input: PrewarmDecisionInput): PrewarmStep {
+function decidePrewarmStep(input: PrewarmDecisionInput): PrewarmStep {
   if (input.totalElapsedMs >= input.maxMs) return "giveup"
   if (input.sinceLastNavMs >= input.quietMs) return "warm"
   return "wait"
 }
 
-export const PREWARM_QUIET_MS = 1_500
-export const PREWARM_MAX_MS = 30_000
+const PREWARM_QUIET_MS = 1_500
+const PREWARM_MAX_MS = 30_000
 const POLL_MS = 250
 
 export interface PrewarmResult {

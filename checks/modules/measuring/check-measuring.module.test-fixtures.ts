@@ -15,7 +15,7 @@ import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.
 
 export const ENTRIES = "entries"
 
-export const LOGS = "check.logs"
+const LOGS = "check.logs"
 
 export const AUDIT_LOGS = "audit.logs"
 

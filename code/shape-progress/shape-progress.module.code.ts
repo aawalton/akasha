@@ -1,8 +1,8 @@
-export const HYPOTHESIS = "hypothesis"
+const HYPOTHESIS = "hypothesis"
 
-export const CODED = "coded"
+const CODED = "coded"
 
-export const ENFORCED = "enforced"
+const ENFORCED = "enforced"
 
 export type Stage = typeof HYPOTHESIS | typeof CODED | typeof ENFORCED
 

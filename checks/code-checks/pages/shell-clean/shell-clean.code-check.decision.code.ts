@@ -7,7 +7,7 @@ import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 const SH = ".sh"
 
-export const TOOL = "shellcheck"
+const TOOL = "shellcheck"
 
 const ARGV: readonly string[] = ["-x", "--source-path=SCRIPTDIR", "--format=json1"]
 
@@ -49,7 +49,7 @@ export function besideIn(change: Change, shadow: Shadow): readonly string[] {
   return [...new Set([...every, ...carriedIn(change)])].sort()
 }
 
-export function foundOf(held: unknown): Found | null {
+function foundOf(held: unknown): Found | null {
   if (typeof held !== "object" || held === null) return null
   const said = held as Record<string, unknown>
   const path = said.file

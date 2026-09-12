@@ -27,7 +27,7 @@ import {
 import { type Shadow, shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
-export const CHECK = "code-check"
+const CHECK = "code-check"
 
 const PAGE_TYPE = "page-type"
 
@@ -58,11 +58,11 @@ export const WHOLE_TREE_CHECKS_TAKE = 30_000
 const WALKING_AT = new URL("../change-walking/change-walking.module.code.ts", import.meta.url)
   .pathname
 
-export const ROOT = rootOf(WALKING_AT)
+const ROOT = rootOf(WALKING_AT)
 
 const HELD = "akasha/checks-system/checking/checking.module"
 
-export const SAMPLED: readonly string[] = [
+const SAMPLED: readonly string[] = [
   `${HELD}.code.ts`,
   `${HELD}.ts`,
   "akasha/persona-system/personas/ali/ali.persona.portrait.md",
@@ -159,21 +159,21 @@ export async function judgedIn(
   return await judgingBy(checksIn(root), phase).over(overIn(root, changed))
 }
 
-export const REFUSES_ALL =
+const REFUSES_ALL =
   "export function refusesAll(change) {\n" +
   '  return change.changed.map((path) => ({ path, reason: "refused" }))\n' +
   "}\n"
 
-export const ADMITS_ALL = `export function admitsAll() {\n  return []\n}\n`
+const ADMITS_ALL = `export function admitsAll() {\n  return []\n}\n`
 
-export const AUDITS = "audits-root"
+const AUDITS = "audits-root"
 
-export const AUDITS_ROOT =
+const AUDITS_ROOT =
   "export function auditsRoot(root) {\n" + '  return [{ path: "held", reason: root }]\n' + "}\n"
 
-export const THROWS = `export function throws() {\n  throw new Error("could not look")\n}\n`
+const THROWS = `export function throws() {\n  throw new Error("could not look")\n}\n`
 
-export const THROWS_UNDER =
+const THROWS_UNDER =
   "function reaching() {\n" +
   '  throw new Error("the world at /var/tmp/held could not be made")\n' +
   "}\n" +
@@ -184,7 +184,7 @@ export const THROWS_UNDER =
   "  worldMade()\n" +
   "}\n"
 
-export const NAMES_SHADOW =
+const NAMES_SHADOW =
   "export function namesShadow(change, shadow) {\n" +
   '  const held = shadow !== undefined && typeof shadow.pageOf === "function"\n' +
   "  return held && shadow.index !== undefined\n" +
@@ -192,7 +192,7 @@ export const NAMES_SHADOW =
   '    : [{ path: "shadow", reason: "no shadow was handed over" }]\n' +
   "}\n"
 
-export const REFUSES_TAKING =
+const REFUSES_TAKING =
   "export function refusesTaking(change) {\n" +
   "  return change.changed\n" +
   "    .filter((path) => change.after(path) === null)\n" +
@@ -396,7 +396,7 @@ export function overIn(root: string, changed: readonly string[]): Change {
   return { root, changed, after: held, before: held }
 }
 
-export function over(changed: readonly string[]): Change {
+function over(changed: readonly string[]): Change {
   return overIn(ROOT, changed)
 }
 
@@ -437,7 +437,7 @@ export function checksTakenFrom(root: string, slug: string): undefined {
   valueTakenFrom(root, CHECK, slug)
 }
 
-export const INPUT_ONLY_CHECK = [{ slug: "input-ts", runsOn: ["change"], body: INPUT_TS }]
+const INPUT_ONLY_CHECK = [{ slug: "input-ts", runsOn: ["change"], body: INPUT_TS }]
 
 export async function untaken(rooted: boolean): Promise<readonly Judged[]> {
   const root = rootHolding(INPUT_ONLY_CHECK, [ONE_MD])

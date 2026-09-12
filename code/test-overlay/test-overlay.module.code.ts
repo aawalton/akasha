@@ -43,7 +43,7 @@ export type Body = Uint8Array | string | Link | null
 
 export type Bodies = Readonly<Record<string, Body>>
 
-export function linked(body: Body): body is Link {
+function linked(body: Body): body is Link {
   return body !== null && typeof body !== "string" && !(body instanceof Uint8Array)
 }
 
@@ -70,7 +70,7 @@ function ageKeyNamed(): Readonly<Record<string, string>> {
   return existsSync(at) ? { [AGE_KEY]: at } : {}
 }
 
-export function sweptAt(held: string): undefined {
+function sweptAt(held: string): undefined {
   ran([...OWN, "rm", "-rf", held])
   rmSync(held, { recursive: true, force: true })
 }

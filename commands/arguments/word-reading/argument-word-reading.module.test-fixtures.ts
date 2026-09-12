@@ -5,7 +5,7 @@ import type {
 } from "akasha/commands/arguments/word-reading/argument-word-reading.module.code.ts"
 import { takingIn } from "akasha/commands/arguments/word-reading/argument-word-reading.module.code.ts"
 
-export const CALLED_AS = "akasha thing"
+const CALLED_AS = "akasha thing"
 
 export function taken(argv: readonly string[], naming: readonly Naming[]): Taken {
   const read = takingIn(argv, CALLED_AS, naming)
@@ -19,7 +19,7 @@ export function refusals(argv: readonly string[], naming: readonly Naming[]): re
   return read.refused
 }
 
-export function argumentOf(slug: string, value: Argument["value"]): Argument {
+function argumentOf(slug: string, value: Argument["value"]): Argument {
   return {
     id: "01a09400-0000-7000-8000-000000000000",
     type: "argument",
@@ -47,9 +47,9 @@ export const COUNT: Naming = {
 
 export const SLUG: Naming = { argument: argumentOf("slug", "text"), saidAs: "word" }
 
-export const VIDEO = argumentOf("video", "path")
+const VIDEO = argumentOf("video", "path")
 
-export const FRAMES_DIR = argumentOf("frames-dir", "path")
+const FRAMES_DIR = argumentOf("frames-dir", "path")
 
 export const ONE_OF_THEM: readonly Naming[] = [
   { argument: VIDEO, notWith: [FRAMES_DIR] },
@@ -62,11 +62,11 @@ export const ONTO: Naming = { argument: argumentOf("onto", "text"), saidAs: "wor
 
 export const REST: Naming = { argument: argumentOf("rest", "text"), saidAs: "word", repeats: true }
 
-export const TO_POSITION = argumentOf("to-position", "whole-number")
+const TO_POSITION = argumentOf("to-position", "whole-number")
 
-export const BEFORE = argumentOf("before", "text")
+const BEFORE = argumentOf("before", "text")
 
-export const AFTER = argumentOf("after", "text")
+const AFTER = argumentOf("after", "text")
 
 export const ONE_OF_TWO: readonly Naming[] = [
   { argument: VIDEO, oneOf: [FRAMES_DIR] },

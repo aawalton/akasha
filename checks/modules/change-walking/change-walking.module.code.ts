@@ -159,7 +159,7 @@ export function pageOfRow(path: string, shadow: Shadow): string | null {
   return one.path
 }
 
-export function rowNamed(path: string, shadow: Shadow): boolean {
+function rowNamed(path: string, shadow: Shadow): boolean {
   return pageOfRow(path, shadow) !== null
 }
 

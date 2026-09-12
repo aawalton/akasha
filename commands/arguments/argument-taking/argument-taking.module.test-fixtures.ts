@@ -25,7 +25,7 @@ export function pageRefusals(
   return read.refused
 }
 
-export const DRY_RUN_PAGE = {
+const DRY_RUN_PAGE = {
   id: "01a09400-0000-7000-8000-000000000001",
   type: "argument",
   slug: "dry-run",
@@ -52,7 +52,7 @@ export const LIMIT_PAGE = {
   value: "whole-number",
 } as const satisfies Argument
 
-export const TO_PAGE = {
+const TO_PAGE = {
   id: "01a09400-0000-7000-8000-000000000004",
   type: "argument",
   slug: "to",
@@ -108,7 +108,7 @@ export const NAMING_NOT_WITH = {
   ],
 } as const
 
-export const NAMED_PART = "argument/"
+const NAMED_PART = "argument/"
 
 export function saidForPart(pages: readonly Argument[], part: string): string {
   const held = pages.find((one) => one.slug === part.slice(NAMED_PART.length))

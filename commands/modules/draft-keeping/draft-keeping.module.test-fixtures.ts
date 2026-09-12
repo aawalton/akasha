@@ -16,7 +16,7 @@ import {
   statedIn,
 } from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
 
-export const DRAFT: Drafting = { page: PAGE }
+const DRAFT: Drafting = { page: PAGE }
 
 export function drafting(
   root: string,

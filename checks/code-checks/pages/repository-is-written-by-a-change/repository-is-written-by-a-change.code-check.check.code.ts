@@ -21,7 +21,7 @@ function outsideFor(shadow: Shadow): (path: string) => boolean {
   return made
 }
 
-export const OUTSIDE: Selector<Text> = {
+const OUTSIDE: Selector<Text> = {
   named: "the code outside the changes",
   isInput: (path, shadow) => outsideFor(shadow)(path),
   from: (change, shadow) =>

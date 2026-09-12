@@ -3,9 +3,9 @@ import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.
 import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
-export const DOMAINS = "domains"
+const DOMAINS = "domains"
 
-export const PERSONAS = "personas"
+const PERSONAS = "personas"
 
 export const SUBJECTS: readonly string[] = [DOMAINS, PERSONAS]
 

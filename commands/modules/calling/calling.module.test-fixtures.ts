@@ -134,9 +134,9 @@ export function rootWith(
   return root
 }
 
-export const NAMESPACE = "namespace"
+const NAMESPACE = "namespace"
 
-export const NAMESPACE_TYPE = "01a06c7c-54b5-712b-b4a2-9ada10279dff"
+const NAMESPACE_TYPE = "01a06c7c-54b5-712b-b4a2-9ada10279dff"
 
 export type Under = {
   readonly slug: string
@@ -224,9 +224,9 @@ export function trackSession(): string {
   )
 }
 
-export const ARGUMENT = "argument"
+const ARGUMENT = "argument"
 
-export const ARGUMENT_TYPE = "01a093fd-9102-76e8-958e-03d34cd41e25"
+const ARGUMENT_TYPE = "01a093fd-9102-76e8-958e-03d34cd41e25"
 
 export type Taken = {
   readonly slug: string

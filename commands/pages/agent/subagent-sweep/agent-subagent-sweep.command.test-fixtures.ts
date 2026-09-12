@@ -36,17 +36,17 @@ import { bodyAt, writing } from "akasha/utils/fs/scratching/scratching.module.te
 
 export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
 
-export const OTHER_ID = "01a05844-6e60-7000-b54c-4b14559df70c"
+const OTHER_ID = "01a05844-6e60-7000-b54c-4b14559df70c"
 
 export const OWN = "a38f63805f9b94edf"
 
 export const AGAIN = "a38f63805f9b94ee0"
 
-export const CHILD = "claude --dangerously-skip-permissions --model opus"
+const CHILD = "claude --dangerously-skip-permissions --model opus"
 
-export const TASK = "rg --json needle ."
+const TASK = "rg --json needle ."
 
-export const AT = "held/subagents"
+const AT = "held/subagents"
 
 const TREE = "akasha"
 
@@ -67,7 +67,7 @@ const LANDED: Applied = {
   commit: COMMIT,
 }
 
-export function agentIdOf(seatId: string, own: string): string {
+function agentIdOf(seatId: string, own: string): string {
   return `${seatId}--${own}`
 }
 
@@ -89,7 +89,7 @@ export function pathOf(seatName: string, own: string): string {
   return `${AT}/${seatName}-${own}.subagent.ts`
 }
 
-export function bodyOf(seatName: string, own: string, agentId: string): string {
+function bodyOf(seatName: string, own: string, agentId: string): string {
   const slug = `${seatName}${own.slice(0, 1).toUpperCase()}${own.slice(1)}`
   return [
     `export const ${slug} = {`,
@@ -104,7 +104,7 @@ export function bodyOf(seatName: string, own: string, agentId: string): string {
   ].join("\n")
 }
 
-export function seated(root: string): string {
+function seated(root: string): string {
   gitIn(root, ["init", "--quiet"])
   gitIn(root, ["config", "user.email", "held@nowhere"])
   gitIn(root, ["config", "user.name", "Held"])
@@ -117,7 +117,7 @@ export function seated(root: string): string {
   return root
 }
 
-export function paged(root: string, seatName: string, own: string, agentId: string): string {
+function paged(root: string, seatName: string, own: string, agentId: string): string {
   const at = pathOf(seatName, own)
   const slug = `${seatName}-${own}`
   writing(root, at, bodyOf(seatName, own, agentId))

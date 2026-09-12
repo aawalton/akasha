@@ -37,14 +37,14 @@ export const S_ID = "01a04d99-71ca-7e06-8000-000000000005"
 
 export const T_ID = "01a04d99-71ca-7e06-8000-000000000006"
 
-export const TYPES: readonly (readonly [string, string | null, boolean])[] = [
+const TYPES: readonly (readonly [string, string | null, boolean])[] = [
   ["page-type", "page-type/page", false],
   ["domain", "page-type/page-type", false],
   ["note", "page-type/domain", false],
   ["spark", "page-type/domain", true],
 ]
 
-export const SCHEMA: Record<string, Record<string, string | null>> = {
+const SCHEMA: Record<string, Record<string, string | null>> = {
   id: { pageTypeSlug: "text-property", targetPageTypeSlug: null, unique: "page" },
   slug: { pageTypeSlug: "text-property", targetPageTypeSlug: null, unique: "page-type" },
   "page-type-slug": {
@@ -61,21 +61,21 @@ export const SCHEMA: Record<string, Record<string, string | null>> = {
   code: { pageTypeSlug: "file-property", targetPageTypeSlug: null, unique: null },
 }
 
-export const CASES = "akasha/t/cases.page-property-entry.ts"
+const CASES = "akasha/t/cases.page-property-entry.ts"
 
-export const CASES_ID = "01a04d99-71ca-7e06-8000-00000000000e"
+const CASES_ID = "01a04d99-71ca-7e06-8000-00000000000e"
 
 export const ROWS_AT = "akasha/t/a.note.cases.jsonl"
 
-export const ROW_ID = "01a04d99-71ca-7e06-8000-00000000000f"
+const ROW_ID = "01a04d99-71ca-7e06-8000-00000000000f"
 
 export function row(slug: string): string {
   return `${JSON.stringify({ id: ROW_ID, domainSlug: slug })}\n`
 }
 
-export const M = "akasha/t/marks.record-property.ts"
+const M = "akasha/t/marks.record-property.ts"
 
-export const M_ID = "01a04d99-71ca-7e06-8000-00000000000a"
+const M_ID = "01a04d99-71ca-7e06-8000-00000000000a"
 
 export const scratch = scratchWorld()
 
@@ -89,7 +89,7 @@ export function stating(
   return `export const it = { id: "${id}", slug: "${slug}", pageTypeSlug: "${pageTypeSlug}"${read}${stated} }\n`
 }
 
-export function valued(
+function valued(
   id: string,
   slug: string,
   pageTypeSlug: string,

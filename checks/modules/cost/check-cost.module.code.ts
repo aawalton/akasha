@@ -73,7 +73,7 @@ export type Taken = {
   readonly at: number
 }
 
-export function childSecondsIn(stat: string): number {
+function childSecondsIn(stat: string): number {
   const shut = stat.lastIndexOf(")")
   if (shut < 0) return 0
   const fields = stat.slice(shut + 2).split(" ")
@@ -83,7 +83,7 @@ export function childSecondsIn(stat: string): number {
   return (user + system) / TICKS_A_SECOND
 }
 
-export function bytesIn(status: string, named: string): number {
+function bytesIn(status: string, named: string): number {
   for (const line of status.split("\n")) {
     if (!line.startsWith(`${named}:`)) continue
     const found = /(\d+)/.exec(line)
@@ -92,7 +92,7 @@ export function bytesIn(status: string, named: string): number {
   return 0
 }
 
-export function ownSecondsIn(stat: string): number {
+function ownSecondsIn(stat: string): number {
   const shut = stat.lastIndexOf(")")
   if (shut < 0) return 0
   const fields = stat.slice(shut + 2).split(" ")
@@ -156,7 +156,7 @@ function marksNow(): { readonly peak: number; readonly resident: number } {
   return { peak: bytesIn(status, "VmHWM"), resident: bytesIn(status, "VmRSS") }
 }
 
-export function countIn(io: string, named: string): number {
+function countIn(io: string, named: string): number {
   for (const line of io.split("\n")) {
     if (!line.startsWith(`${named}:`)) continue
     const found = /(\d+)/.exec(line)
@@ -173,7 +173,7 @@ function readingNow(): Reading {
   return { reads: countIn(io, "syscr"), writes: countIn(io, "syscw"), bytes: countIn(io, "rchar") }
 }
 
-export function peakForgotten(): boolean {
+function peakForgotten(): boolean {
   try {
     writeFileSync(CLEAR_REFS, HIWATER_RESET)
     return true
@@ -279,7 +279,7 @@ export function costSpawned(given: Spawned): Cost {
   }
 }
 
-export function lineFor(cost: Cost): string {
+function lineFor(cost: Cost): string {
   return `${JSON.stringify(cost)}\n`
 }
 

@@ -185,7 +185,7 @@ export function writtenOver(
   return { edits, said }
 }
 
-export function couldWrite(change: Change): boolean {
+function couldWrite(change: Change): boolean {
   for (const path of change.changed) {
     if (partedIn(path) !== null) return true
     if (!basename(path).includes(ENDING)) return true

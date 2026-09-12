@@ -36,7 +36,7 @@ export function modulesIn(path: string, text: string): readonly string[] {
   return found
 }
 
-export function foldersFor(shadow: Shadow): readonly string[] {
+function foldersFor(shadow: Shadow): readonly string[] {
   const found = FOLDERS.get(shadow)
   if (found !== undefined) return found
   const made = [...new Set(shadow.index.everyOfType(APP).map((one) => folderOf(one.path)))]

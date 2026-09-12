@@ -48,7 +48,7 @@ const INSTALL = ["install"]
 
 const MODULES = "node_modules"
 
-export const LOCKING_SPELLING =
+const LOCKING_SPELLING =
   `the lockfile is made again from the manifests the base commit tracks with this change worked ` +
   `into them, so a change touching no \`${MANIFEST}\` is left alone and a change carrying its own ` +
   `\`${LOCK}\` is taken at its word`
@@ -139,7 +139,7 @@ export type Locking = {
 
 export const NOTHING_LOCKED: Locking = { edits: [], said: [] }
 
-export function lockingOver(root: string, base: string, changes: readonly FileChange[]): Locking {
+function lockingOver(root: string, base: string, changes: readonly FileChange[]): Locking {
   const touched = manifestsIn(changes)
   const moved = manifestMovesIn(changes)
   const many = touched.length + moved.length
@@ -188,7 +188,7 @@ export function lockingFor(root: string, base: string, changes: readonly FileCha
   }
 }
 
-export const INSTALL_SPELLING =
+const INSTALL_SPELLING =
   `the lockfile is made without an install, so what the workspace reaches its packages through ` +
   `still points at the folders the manifests named before, and a landing carrying a ` +
   `\`${MANIFEST}\` installs the checkout to move it, once that landing has given up the hold`

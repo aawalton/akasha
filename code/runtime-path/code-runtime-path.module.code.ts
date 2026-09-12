@@ -45,7 +45,7 @@ export interface RuntimePaths {
   readonly unreadable: readonly string[]
 }
 
-export const NO_RUNTIME_PATHS: RuntimePaths = { patches: [], read: 0, unread: 0, unreadable: [] }
+const NO_RUNTIME_PATHS: RuntimePaths = { patches: [], read: 0, unread: 0, unreadable: [] }
 
 export function readsRuntimePaths(relPath: string): boolean {
   return MODULE_ENDINGS.some((one) => relPath.endsWith(one))

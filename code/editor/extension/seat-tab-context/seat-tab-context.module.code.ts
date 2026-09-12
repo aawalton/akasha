@@ -1,6 +1,6 @@
 import type { SeatMode } from "akasha/code/editor/extension/seat-mode/seat-mode.module.code.ts"
 
-export const SEAT_TAB_KEYS = {
+const SEAT_TAB_KEYS = {
   any: "opsAgentTree.seatTabs",
   running: "opsAgentTree.seatTabsRunning",
   stopped: "opsAgentTree.seatTabsStopped",

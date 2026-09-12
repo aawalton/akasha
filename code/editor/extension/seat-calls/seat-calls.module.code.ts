@@ -18,7 +18,7 @@ export type SeatCall = {
   readonly args: readonly string[]
 }
 
-export function asking(one: { readonly slug: string }, args: readonly string[]): SeatCall {
+function asking(one: { readonly slug: string }, args: readonly string[]): SeatCall {
   return { slug: one.slug, exported: exportedAs(one.slug), args }
 }
 

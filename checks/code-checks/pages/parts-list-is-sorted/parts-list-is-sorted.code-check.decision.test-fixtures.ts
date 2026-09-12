@@ -2,7 +2,7 @@ import { founded, pathFor, typed } from "akasha/checks/modules/scratch/check-scr
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
-export const HELD = "01a0927a-1000-7001-8000-000000000001"
+const HELD = "01a0927a-1000-7001-8000-000000000001"
 
 export const AT = pathFor("domain", "held")
 

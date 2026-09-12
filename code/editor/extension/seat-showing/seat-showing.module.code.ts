@@ -23,7 +23,7 @@ import * as vscode from "vscode"
 
 const OPEN_TRANSCRIPT_COMMAND = "opsTranscript.open"
 
-export async function terminalForSeat(
+async function terminalForSeat(
   name: string,
   seatByShellPid: ReadonlyMap<number, string>
 ): Promise<vscode.Terminal | undefined> {

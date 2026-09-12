@@ -69,7 +69,7 @@ function besideOf(
   return beside
 }
 
-export function steppedOver(change: Change, shadow: Shadow): Stepped {
+function steppedOver(change: Change, shadow: Shadow): Stepped {
   const readFrom = besideOf(shadow, STYLESHEET, TOKEN_VALUES, STYLES)
   const writtenAt = besideOf(shadow, IOS_COMPONENT, SPACING, SWIFT)
   const css = textOf(change.after(readFrom))

@@ -1,4 +1,4 @@
-export const BROWSER_LAUNCH_ENV_ALLOWLIST = ["PATH", "HOME"] as const
+const BROWSER_LAUNCH_ENV_ALLOWLIST = ["PATH", "HOME"] as const
 
 type EnvSource = Record<string, string | undefined>
 

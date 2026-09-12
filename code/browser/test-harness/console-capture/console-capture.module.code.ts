@@ -16,7 +16,7 @@ export interface ConsoleCapture {
 const DEFAULT_CAP = 1000
 const PREFIX = "[browser console]"
 
-export function formatConsoleDump(
+function formatConsoleDump(
   label: string | undefined,
   entries: readonly ConsoleEntry[],
   droppedCount: number
@@ -41,7 +41,7 @@ export interface ConsoleBuffer {
   readonly capture: ConsoleCapture
 }
 
-export function createConsoleBuffer(opts?: { cap?: number; now?: () => number }): ConsoleBuffer {
+function createConsoleBuffer(opts?: { cap?: number; now?: () => number }): ConsoleBuffer {
   const cap = opts?.cap ?? DEFAULT_CAP
   const now = opts?.now ?? Date.now
   const startedAt = now()

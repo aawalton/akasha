@@ -52,7 +52,7 @@ export type Published = {
   readonly refusals: readonly string[]
 }
 
-export function tagFileFor(root: string, slug: string): string | null {
+function tagFileFor(root: string, slug: string): string | null {
   const app = listedAt(root, ROUTER_APP, slug)[0]
   if (app === undefined) return null
   const stated = valuesByPath(root, ROUTER_APP).get(app.path)
@@ -79,7 +79,7 @@ function mustRun(argv: readonly string[], what: string): string | null {
 
 const HASH_HELD = /ADDON_BUNDLE_CONTENT_HASH\s*=\s*"([0-9a-f]{64})"/
 
-export function hashHeldIn(held: string | null): string | null {
+function hashHeldIn(held: string | null): string | null {
   if (held === null) return null
   const found = HASH_HELD.exec(held)
   return found === null ? null : (found[1] ?? null)

@@ -10,7 +10,7 @@ const PACKAGES = "node_modules"
 
 const MANIFEST = "package.json"
 
-export const SETTINGS: ts.CompilerOptions = {
+const SETTINGS: ts.CompilerOptions = {
   noEmit: true,
   strict: true,
   noUncheckedIndexedAccess: true,

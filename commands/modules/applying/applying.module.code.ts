@@ -99,7 +99,7 @@ function seatOver(root: string, page: string): string | null {
   return value === null ? null : textIn(value, SEAT_KEY)
 }
 
-export function noneSaid(root: string, page: string): string {
+function noneSaid(root: string, page: string): string {
   const seat = seatOver(root, page)
   if (seat === null) return NONE
   return `${NONE} — a subagent's draft goes to its seat when the subagent stops, so ask the ${seat} seat for what was drafted here before`
@@ -249,7 +249,7 @@ export type Applied = {
   readonly untracked?: readonly string[]
 }
 
-export function warrantedAgain(
+function warrantedAgain(
   root: string,
   head: string,
   agentId: string,

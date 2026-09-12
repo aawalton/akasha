@@ -4,7 +4,7 @@ import type {
 } from "akasha/code/editor/extension/transcript-model/transcript-model.module.code.ts"
 import type { SubagentTranscript } from "akasha/code/editor/extension/transcript-sources/transcript-sources.module.code.ts"
 
-export function escapeHtml(value: string): string {
+function escapeHtml(value: string): string {
   return value
     .replace(/&/g, "&amp;")
     .replace(/</g, "&lt;")

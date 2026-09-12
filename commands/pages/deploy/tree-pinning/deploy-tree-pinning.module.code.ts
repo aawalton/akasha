@@ -15,11 +15,11 @@ export function saidOfNoTree(kind: string, why: string): string {
   return `\`${kind}\` is built from a tree pinned at the commit, and ${why}`
 }
 
-export function movedTree(at: string, commit: string): boolean {
+function movedTree(at: string, commit: string): boolean {
   return told(at, ["reset", "--hard", commit]) !== null
 }
 
-export function madeTree(root: string, at: string, commit: string): boolean {
+function madeTree(root: string, at: string, commit: string): boolean {
   mkdirSync(dirname(at), { recursive: true })
   told(root, ["worktree", "prune"])
   return told(root, ["worktree", "add", "--detach", at, commit]) !== null

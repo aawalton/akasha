@@ -93,7 +93,7 @@ export function assignmentStatedIn(value: unknown, slug: string): string | null 
   return value.slice(at + 1) === slug ? value : null
 }
 
-export function assignmentStatedOn(page: string, root: string, slug: string): string | null {
+function assignmentStatedOn(page: string, root: string, slug: string): string | null {
   const held = valueAt(page, root)
   if (held === null) return null
   return assignmentStatedIn((held as Record<string, unknown>)[ASSIGNMENT], slug)
@@ -191,7 +191,7 @@ export type Landing = (
   message: string
 ) => ReturnType<typeof landedMechanically>
 
-export function wrongIn(landed: Awaited<ReturnType<Landing>>): readonly string[] {
+function wrongIn(landed: Awaited<ReturnType<Landing>>): readonly string[] {
   return "refusals" in landed ? landed.refusals : landed.wrong
 }
 

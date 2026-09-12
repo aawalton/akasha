@@ -32,13 +32,13 @@ const IMAGE_EDIT = "image-edit"
 
 const IMAGE_PREFIX = "image-"
 
-export function routeOf(command: readonly string[]): string {
+function routeOf(command: readonly string[]): string {
   return boundTo(command, MODEL_TYPE) === IMAGE_EDIT
     ? "POST /v1/images/edits"
     : "POST /v1/images/generations"
 }
 
-export function isImagePool(service: Inference): boolean {
+function isImagePool(service: Inference): boolean {
   return service.enabled && service.lifecycle === "pool" && service.name.startsWith(IMAGE_PREFIX)
 }
 

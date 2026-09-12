@@ -61,7 +61,7 @@ export const ADMITS: Judging = {
   over: async () => [],
 }
 
-export function judgingThat(name: string, over: (change: Change) => readonly Judged[]): Judging {
+function judgingThat(name: string, over: (change: Change) => readonly Judged[]): Judging {
   return { named: [name], checksFor: () => [name], over: async (change) => over(change) }
 }
 
@@ -313,7 +313,7 @@ const VOCABULARY: readonly (readonly [string, string])[] = [
 
 export const LINE = `{"path":"akasha/a.domain.ts","id":"${ID}"}`
 
-export const identityAmong = (found: readonly string[]): readonly string[] =>
+const identityAmong = (found: readonly string[]): readonly string[] =>
   found.filter((one) => one.startsWith("/identity/"))
 
 const REAL: readonly Value[] = [textProperty, idPage, slugPage]

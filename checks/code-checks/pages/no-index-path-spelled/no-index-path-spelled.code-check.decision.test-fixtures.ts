@@ -15,7 +15,7 @@ export const HELD = "akasha/command-system/held.module.code.ts"
 
 export const PAGE = "akasha/command-system/held.module.ts"
 
-export const PAGE_TYPES: ReadonlySet<string> = new Set(["module"])
+const PAGE_TYPES: ReadonlySet<string> = new Set(["module"])
 
 export const INDEXES = "pages/indexes/"
 

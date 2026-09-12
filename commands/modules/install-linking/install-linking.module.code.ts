@@ -97,7 +97,7 @@ export function weighedIn(root: string, home: string, on: string = machineNow())
   return { placings, wrong }
 }
 
-export function placedTo(root: string, placing: Placing): string | null {
+function placedTo(root: string, placing: Placing): string | null {
   const to = join(root, placing.file)
   if (lstatSync(to, { throwIfNoEntry: false }) === undefined) {
     throw new Error(`${placing.file} is not there for ${placing.at} to be linked to`)
