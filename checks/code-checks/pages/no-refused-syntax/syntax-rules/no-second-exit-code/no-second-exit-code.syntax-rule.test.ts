@@ -100,6 +100,10 @@ test("a refusal handed its code by name is left", () => {
   expect(noSecondExitCode(parsed("const one = refusedBy(read.refused, INPUT)\n"))).toEqual([])
 })
 
+test("a refusal builder handed an empty list of refusals is left", () => {
+  expect(noSecondExitCode(parsed("const one = refusedBy([], 3)\n"))).toEqual([])
+})
+
 test("a refusal built one reason at a time is refused too", () => {
   const said = noSecondExitCode(parsed('const one = refused("nothing followed it", 2)\n'))
   expect(said).toHaveLength(1)

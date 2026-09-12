@@ -27,7 +27,10 @@ const BUILDS_THE_ANSWER: readonly string[] = [
 
 const HANDED_A_CODE: ReadonlySet<string> = new Set(["answeredWith", "refused", "refusedBy"])
 
-const REFUSALS_AT: ReadonlyMap<string, number> = new Map([["answeredWith", 1]])
+const REFUSALS_AT: ReadonlyMap<string, number> = new Map([
+  ["answeredWith", 1],
+  ["refusedBy", 0],
+])
 
 type Spelled = {
   readonly at: ts.Node
