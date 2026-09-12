@@ -19,6 +19,7 @@ import {
 import { directiveKept as test } from "akasha/agents/models/tests/pages/directive-kept/directive-kept.model-test.ts"
 import { noCommentaryKept } from "akasha/agents/models/tests/pages/no-commentary-kept/no-commentary-kept.model-test.code.ts"
 import { oneAtATimeKept } from "akasha/agents/models/tests/pages/one-at-a-time-kept/one-at-a-time-kept.model-test.code.ts"
+import { subagentBriefKept } from "akasha/agents/models/tests/pages/subagent-brief-kept/subagent-brief-kept.model-test.code.ts"
 import {
   askedOf,
   modelOf,
@@ -51,7 +52,12 @@ const DIRECTIVES = "directives"
 
 const TOLD = "This is what you wrote to Alan, and it breaks a rule he holds. Write it again."
 
-export const JUDGES: readonly Putter[] = [directiveKept, oneAtATimeKept, noCommentaryKept]
+export const JUDGES: readonly Putter[] = [
+  directiveKept,
+  oneAtATimeKept,
+  noCommentaryKept,
+  subagentBriefKept,
+]
 
 export type Valued = { readonly path: string; readonly value: Record<string, unknown> }
 
