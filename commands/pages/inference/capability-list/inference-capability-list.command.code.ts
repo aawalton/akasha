@@ -1,16 +1,16 @@
 import { wordsOf } from "akasha/agents/hooks/shell-calls/shell-calls.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import {
   answering,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { inferenceCapabilityList as page } from "akasha/commands/pages/inference/capability-list/inference-capability-list.command.ts"
 import {
   boundTo,
   targetOf,
-  wasRefused,
-  wordsIn,
 } from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
 import { getHost } from "akasha/infrastructure/inference/pool/inference-hosts/inference-hosts.module.code.ts"
 import { runSshCapture } from "akasha/infrastructure/inference/pool/inference-ssh/inference-ssh.module.code.ts"
@@ -42,12 +42,12 @@ export function isImagePool(service: Inference): boolean {
   return service.enabled && service.lifecycle === "pool" && service.name.startsWith(IMAGE_PREFIX)
 }
 
-export async function inferenceCapabilityList(argv: readonly string[]): Promise<Answer> {
-  const said = wordsIn(argv, [], [])
-  if (wasRefused(said)) return refusedBy(said.refused)
-  if (said.loose.length > 0) {
-    return refusedBy([`\`${said.loose[0]}\` follows nothing this takes — it takes nothing`])
-  }
+export async function inferenceCapabilityList(
+  argv: readonly string[],
+  given: Given
+): Promise<Answer> {
+  const taken = takenFor(argv, given.calledAs, page, [])
+  if ("refused" in taken) return refusedBy(taken.refused)
 
   const read = everyInference(codeRoot())
   if ("refused" in read) return refusedBy([read.refused])

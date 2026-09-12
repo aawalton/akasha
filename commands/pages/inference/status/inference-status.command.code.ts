@@ -1,14 +1,12 @@
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import {
   answering,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import {
-  targetOf,
-  wasRefused,
-  wordsIn,
-} from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { inferenceStatus as page } from "akasha/commands/pages/inference/status/inference-status.command.ts"
+import { targetOf } from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
 import { HOSTS } from "akasha/infrastructure/inference/pool/inference-hosts/inference-hosts.module.code.ts"
 import { runSshCapture } from "akasha/infrastructure/inference/pool/inference-ssh/inference-ssh.module.code.ts"
 import {
@@ -16,12 +14,9 @@ import {
   parseActualState,
 } from "akasha/infrastructure/inference/pool/provision-script/provision-script.module.code.ts"
 
-export async function inferenceStatus(argv: readonly string[]): Promise<Answer> {
-  const said = wordsIn(argv, [], [])
-  if (wasRefused(said)) return refusedBy(said.refused)
-  if (said.loose.length > 0) {
-    return refusedBy([`\`${said.loose[0]}\` follows nothing this takes — it takes nothing`])
-  }
+export async function inferenceStatus(argv: readonly string[], given: Given): Promise<Answer> {
+  const read = takenFor(argv, given.calledAs, page, [])
+  if ("refused" in read) return refusedBy(read.refused)
 
   return await answering(async () => {
     const report: string[] = []
