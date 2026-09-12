@@ -26,6 +26,7 @@ import {
   runComfyGraph,
 } from "akasha/infrastructure/inference/clients/comfy-client/comfy-client.module.code.ts"
 import { drawSeed } from "akasha/infrastructure/inference/clients/inference-seed/inference-seed.module.code.ts"
+import { madeOf } from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
 import {
   WAN_DEFAULT_NEGATIVE_PROMPT,
   WAN_FPS,
@@ -54,11 +55,6 @@ const HOST = "workstation"
 const NEW_FRAMES_FLOOR = 13
 
 const DIRECTIONS = ["forward", "back"] as const
-
-function madeOf(calledAs: string, argv: readonly string[]): string {
-  const quoted = argv.map((one) => (/\s/.test(one) ? `'${one}'` : one))
-  return `${calledAs} ${quoted.join(" ")}`.trim()
-}
 
 export async function generating(
   read: Taken,

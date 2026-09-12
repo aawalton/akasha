@@ -234,6 +234,11 @@ export function targetOf(host: InferenceHost): {
   return { user: host.user, host: host.address, keyPath: host.keyPath }
 }
 
+export function madeOf(called: string, argv: readonly string[]): string {
+  const quoted = argv.map((one) => (/\s/.test(one) ? `'${one}'` : one))
+  return `${called} ${quoted.join(" ")}`.trim()
+}
+
 export function calledAs(slug: string, argv: readonly string[]): string {
   const quoted = argv.map((one) => (/\s/.test(one) ? `'${one}'` : one))
   return `akasha ${slug} ${quoted.join(" ")}`.trim()
