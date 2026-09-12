@@ -3,7 +3,7 @@ import {
   OK,
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   type Asked,
   agentIdFor,
@@ -39,7 +39,12 @@ function wholeIn(said: string, flag: string): number | string {
   return value
 }
 
-export function askedOf(argv: readonly string[], at: number, salt: number): Asked | string {
+export function askedOf(
+  argv: readonly string[],
+  at: number,
+  salt: number,
+  calledAs: string
+): Asked | string {
   let agentId: string | null = null
   let logDir: string | null = null
   let port = 0
@@ -54,7 +59,7 @@ export function askedOf(argv: readonly string[], at: number, salt: number): Aske
       keep = true
       continue
     }
-    if (!TAKES_ONE.has(word)) return `\`${word}\` is nothing \`akasha model-gateway start\` takes`
+    if (!TAKES_ONE.has(word)) return `\`${word}\` is nothing \`${calledAs}\` takes`
     const said = argv[one + 1]
     if (said === undefined) return `\`${word}\` takes a value and none came after it`
     one += 1
@@ -87,8 +92,8 @@ export function askedOf(argv: readonly string[], at: number, salt: number): Aske
   }
 }
 
-export async function modelGatewayStart(argv: readonly string[]): Promise<Answer> {
-  const asked = askedOf(argv, Date.now(), Math.floor(Math.random() * 1_000_000))
+export async function modelGatewayStart(argv: readonly string[], given: Given): Promise<Answer> {
+  const asked = askedOf(argv, Date.now(), Math.floor(Math.random() * 1_000_000), given.calledAs)
   if (typeof asked === "string") return { report: [], refusals: [asked], code: INPUT }
   const started = await startedOn(asked, RUN_SEAMS)
   if (typeof started === "string") return { report: [], refusals: [started], code: OPERATIONAL }
