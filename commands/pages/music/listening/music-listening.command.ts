@@ -16,15 +16,23 @@ export const musicListening = {
     { said: "--limit <n>", takes: "the most rows given back for one list, ten where none is said" },
     { said: "--json", takes: "give one object holding every list rather than human text" },
   ],
-  helpNotes: [
-    "what is playing now, what was played lately, and the top artists and tracks are read together.",
-    "the rows of what was played lately are capped at the fifty Spotify gives back for one page.",
-    "a window Spotify does not carry is refused before any call is made.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
+      statement:
+        "The four reads are what is playing now, what was played lately, and the top lists.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The four reads are made together rather than in turn.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What was played lately is capped at the fifty Spotify gives back for one page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A window Spotify does not carry is refused before any call is made.",
     },
     {
       invariantKind: "departure",
