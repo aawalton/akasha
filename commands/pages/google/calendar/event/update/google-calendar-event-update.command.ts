@@ -7,8 +7,6 @@ export const googleCalendarEventUpdate = {
   definition: "the command changing the fields a call names on one event",
   code: "ts",
   taking: [
-    { said: "<id>", takes: "the event to act on, said in place" },
-    { said: "--event <id>", takes: "the event to act on, said as a flag rather than in place" },
     {
       said: "--calendar <id>",
       takes: "the calendar to act on, where `primary` and saying nothing both name Alan's own",
@@ -74,4 +72,5 @@ export const googleCalendarEventUpdate = {
     },
   ],
   name: "update",
+  arguments: [{ argument: "argument/event", required: true, saidAs: "flag-or-word" }],
 } as const satisfies Command
