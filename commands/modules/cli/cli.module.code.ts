@@ -2,12 +2,13 @@ import { Buffer } from "node:buffer"
 import { writeSync } from "node:fs"
 import { mendedFor } from "akasha/agents/hooks/links/hook-links.module.code.ts"
 import { writerIn } from "akasha/agents/read-record/read-record.module.code.ts"
-import { UNCLASSIFIED } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { unclassified } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Outside } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { calling } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { authorIn } from "akasha/commands/modules/commit-author/commit-author.module.code.ts"
 import { rootIn } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
+
+const CALLED_AS = "akasha"
 
 export type Said = {
   readonly out: readonly string[]
@@ -22,7 +23,7 @@ export function outsideOf(
 ): Outside {
   return {
     root: rootIn(env, at),
-    calledAs: "akasha",
+    calledAs: CALLED_AS,
     from,
     writer: authorIn(env),
     agentId: writerIn(env),
@@ -45,8 +46,7 @@ export async function answering(
     const said = saidOf(await calling(argv, outside))
     return { out: said.out, err: [...mended, ...said.err], code: said.code }
   } catch (thrown) {
-    const why = saidBy(thrown)
-    return { out: [], err: [`akasha: ${why}`], code: UNCLASSIFIED }
+    return saidOf(unclassified(thrown, CALLED_AS))
   }
 }
 

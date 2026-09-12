@@ -50,6 +50,10 @@ export function faulted(thrown: unknown): Answer {
   return { report: [], refusals: said, code: codeOf(thrown) }
 }
 
+export function unclassified(thrown: unknown, calledAs: string): Answer {
+  return { report: [], refusals: [`${calledAs}: ${whyOf(thrown)}`], code: UNCLASSIFIED }
+}
+
 export async function answering(work: () => Answer | Promise<Answer>): Promise<Answer> {
   try {
     return await work()

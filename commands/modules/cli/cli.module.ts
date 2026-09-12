@@ -49,10 +49,6 @@ export const cli = {
     },
     {
       invariantKind: "departure",
-      statement: "An unclassified failure says so rather than claiming a kind.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Every run writes again a hook link pointing at a file that is gone.",
     },
   ],

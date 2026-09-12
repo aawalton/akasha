@@ -44,5 +44,13 @@ export const commandAnswering = {
       invariantKind: "absence",
       statement: "Nothing here reads the words a command was called with.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A fault thrown outside every command is answered as unclassified.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a refusal opens with the name the call was made by.",
+    },
   ],
 } as const satisfies Module

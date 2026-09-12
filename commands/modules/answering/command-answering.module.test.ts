@@ -16,6 +16,8 @@ import {
   OPERATIONAL,
   refusedBy,
   told,
+  UNCLASSIFIED,
+  unclassified,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 
 test("a refusal is the caller's mistake unless the caller names another code", () => {
@@ -70,6 +72,17 @@ test("work that threw is answered as the fault it threw", async () => {
   expect(held.report).toEqual([])
   expect(held.code).toBe(INPUT)
   expect(held.refusals[0]).toBe("--app names a value")
+})
+
+test("a fault caught outside every command is answered as unclassified", () => {
+  const held = unclassified(new Error("the environment itself failed"), "akasha")
+  expect(held.report).toEqual([])
+  expect(held.code).toBe(UNCLASSIFIED)
+  expect(held.refusals).toEqual(["akasha: the environment itself failed"])
+})
+
+test("such a refusal opens with the name the call was made by", () => {
+  expect(unclassified("held", "akasha page tree").refusals[0]).toBe("akasha page tree: held")
 })
 
 test("a word where a command takes flags alone is the caller's mistake", () => {
