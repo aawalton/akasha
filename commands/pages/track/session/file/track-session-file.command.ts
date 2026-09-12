@@ -7,12 +7,7 @@ export const trackSessionFile = {
   definition: "the command taking a whole day in as written lines",
   code: "ts",
   parts: [],
-  taking: [
-    {
-      said: "--from-file <path|->",
-      takes: "the day's lines, read from a file or from standard input",
-    },
-  ],
+  taking: [],
 
   invariants: [
     {
@@ -109,5 +104,6 @@ export const trackSessionFile = {
     { argument: "argument/dry-run" },
     { argument: "argument/day" },
     { argument: "argument/relationship" },
+    { argument: "argument/from-file" },
   ],
 } as const satisfies Command
