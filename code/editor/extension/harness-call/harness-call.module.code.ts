@@ -7,13 +7,10 @@ import {
   servingFrom,
 } from "akasha/code/editor/extension/command-server-client/command-server-client.module.code.ts"
 import { answerBytesSaid } from "akasha/commands/modules/answer-bytes/answer-bytes.module.code.ts"
-
-function parseRoot(stated: string | undefined): string {
-  return stated === undefined || stated === "" ? path.join(os.homedir(), "repos", "akasha") : stated
-}
+import { rootStated } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 
 export function akashaRoot(): string {
-  return parseRoot(process.env.AKASHA_ROOT)
+  return rootStated(process.env) ?? path.join(os.homedir(), "repos", "akasha")
 }
 
 const SERVER_IN = "code/editor/extension/command-server"
