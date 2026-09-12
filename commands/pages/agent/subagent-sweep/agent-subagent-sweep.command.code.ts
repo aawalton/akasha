@@ -3,7 +3,10 @@ import type { ProcLivenessEntry } from "akasha/agents/proc-liveness/agent-proc-l
 import { scanProcEntries } from "akasha/agents/proc-scan/proc-scan.module.code.ts"
 import { dropReadings } from "akasha/agents/read-record/read-record.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import {
+  landedMechanically,
+  type runMechanicalChange,
+} from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   createSubagentReader,
   type SubagentNode,
@@ -58,6 +61,7 @@ import {
 export const TAKE = "change-mechanical/remove-file-of-any-kind"
 
 export type Landing = (
+  done: string[],
   root: string,
   changes: readonly Asking[],
   message: string
@@ -232,7 +236,7 @@ async function taking(
     at: TAKE,
     given: { at: one.page.path },
   }))
-  const landed = await landing(root, changes, messageOf(stale))
+  const landed = await landing(done, root, changes, messageOf(stale))
   if ("refusals" in landed) return answeredWith(done, landed.refusals, OPERATIONAL)
   if (landed.wrong.length > 0) return answeredWith(done, landed.wrong, OPERATIONAL)
   for (const one of stale) done.push(`${one.page.path} went`)
@@ -249,7 +253,7 @@ export async function agentSubagentSweep(
   entries: readonly ProcLivenessEntry[] = scanProcEntries().entries,
   baseDir?: string,
   said: RunningSaid = transcriptsSay,
-  landing: Landing = runMechanicalChange
+  landing: Landing = landedMechanically
 ): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [remove])
   if ("refused" in read) return answeredWith([], read.refused, INPUT)

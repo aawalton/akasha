@@ -181,9 +181,10 @@ export function landings(answer: Applied | Refused = LANDED): Landings {
   const asked: (readonly Asking[])[] = []
   const said: string[] = []
   return {
-    landing: (_root, changes, message) => {
+    landing: (done, _root, changes, message) => {
       asked.push(changes)
       said.push(message)
+      if ("commit" in answer && answer.commit !== null) done.push(answer.commit)
       return Promise.resolve(answer)
     },
     asked: () => asked,

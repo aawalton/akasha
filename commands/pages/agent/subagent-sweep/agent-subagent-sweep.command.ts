@@ -206,6 +206,10 @@ export const agentSubagentSweep = {
       invariantKind: "departure",
       statement: "Why a page is left that way is read from the module the take-down reads it from.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A run that refused after the landing committed names that commit.",
+    },
   ],
   name: "subagent-sweep",
   arguments: [{ argument: "argument/remove" }],
