@@ -41,7 +41,6 @@ export const command = {
     "module/manifest-locking",
     "module/change-preparing",
     "module/group-writing",
-    "module/judged-saying",
     "module/audit-answering",
     "module/landing-saying",
     "module/restating",
