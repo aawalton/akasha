@@ -9,11 +9,6 @@ export const gitPush = {
   test: "ts",
   changeKind: "change-none",
   taking: [{ said: "--dry-run", takes: "say how many commits would be carried, and carry none" }],
-  helpNotes: [
-    "a push carries the branch this checkout is on, so it names no branch and no remote.",
-    "git's own push is refused for an agent, and this command is the route that is not refused.",
-    "a remote that has moved ahead refuses the push, and the refusal is reported rather than forced through.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
