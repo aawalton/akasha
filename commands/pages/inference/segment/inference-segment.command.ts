@@ -6,6 +6,7 @@ export const inferenceSegment = {
   slug: "inference-segment",
   definition: "the command parting an image's foreground from its background as an alpha matte",
   code: "ts",
+  test: "ts",
   taking: [
     { said: "<image>", takes: "the image matted, said without a flag" },
     { said: "--image <path>", takes: "that image said as a flag instead" },
@@ -47,6 +48,18 @@ export const inferenceSegment = {
     {
       invariantKind: "departure",
       statement: "One run row is filed for the call.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each file this writes is named as soon as that file reaches the disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call that threw part way names those files in its refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The writing this runs is handed in.",
     },
     {
       invariantKind: "absence",

@@ -13,6 +13,7 @@ import {
   buildSegmentFields,
   deriveSiblingPath,
   runSegment,
+  type SegmentOutput,
 } from "akasha/infrastructure/inference/clients/segment-client/segment-client.module.code.ts"
 import {
   aloneIn,
@@ -66,6 +67,30 @@ const DEFAULT_TIMEOUT_SEC = 300
 
 const SECOND_MS = 1000
 
+export interface Made {
+  readonly output: SegmentOutput
+  readonly path: string
+  readonly what: string
+  readonly bgColor?: string
+}
+
+export type Putting = (made: Made) => Promise<Uint8Array>
+
+export async function wroteEach(
+  every: readonly [Made, ...Made[]],
+  putting: Putting,
+  done: string[]
+): Promise<Uint8Array> {
+  const [first, ...rest] = every
+  const matte = await putting(first)
+  done.push(wroteTo(first.path, matte, first.what))
+  for (const made of rest) {
+    const bytes = await putting(made)
+    done.push(wroteTo(made.path, bytes, made.what))
+  }
+  return matte
+}
+
 export async function inferenceSegment(argv: readonly string[]): Promise<Answer> {
   const said = wordsIn(argv, TAKING, SWITCHES)
   if (wasRefused(said)) return refusedBy(said.refused)
@@ -84,7 +109,7 @@ export async function inferenceSegment(argv: readonly string[]): Promise<Answer>
   const cutoutOut = said.named[CUTOUT_OUT]
   const wantsCutout = said.flags.has(CUTOUT) || cutoutOut !== undefined
 
-  return await answering(async () => {
+  return await answering(async (done) => {
     let inputBytes: Uint8Array
     try {
       inputBytes = await readFile(imagePath)
@@ -111,49 +136,38 @@ export async function inferenceSegment(argv: readonly string[]): Promise<Answer>
       ...(flatten === undefined ? {} : { flattenColor: flatten }),
     })
 
-    const report: string[] = []
-    await recordInferenceRun(record, async () => {
-      const matte = await runSegment({
+    const every: [Made, ...Made[]] = [{ output: "matte", path: mattePath, what: "alpha matte" }]
+    if (wantsCutout) every.push({ output: "cutout", path: cutoutPath, what: "cutout" })
+    if (flatten !== undefined) {
+      every.push({
+        output: "flatten",
+        path: flattenPath,
+        what: `flattened to ${flatten}`,
+        bgColor: flatten,
+      })
+    }
+
+    const putting: Putting = async (made) => {
+      const bytes = await runSegment({
         baseUrl: reached.baseUrl,
         imageBytes: inputBytes,
-        fields: buildSegmentFields({ output: "matte", model, alphaMatting }),
+        fields: buildSegmentFields({
+          output: made.output,
+          model,
+          alphaMatting,
+          ...(made.bgColor === undefined ? {} : { bgColor: made.bgColor }),
+        }),
         timeoutMs,
       })
-      await ensureOutputDir(mattePath)
-      await writeFile(mattePath, matte)
-      report.push(wroteTo(mattePath, matte, "alpha matte"))
+      await ensureOutputDir(made.path)
+      await writeFile(made.path, bytes)
+      return bytes
+    }
 
-      if (wantsCutout) {
-        const cutout = await runSegment({
-          baseUrl: reached.baseUrl,
-          imageBytes: inputBytes,
-          fields: buildSegmentFields({ output: "cutout", model, alphaMatting }),
-          timeoutMs,
-        })
-        await ensureOutputDir(cutoutPath)
-        await writeFile(cutoutPath, cutout)
-        report.push(wroteTo(cutoutPath, cutout, "cutout"))
-      }
-
-      if (flatten !== undefined) {
-        const flat = await runSegment({
-          baseUrl: reached.baseUrl,
-          imageBytes: inputBytes,
-          fields: buildSegmentFields({
-            output: "flatten",
-            model,
-            alphaMatting,
-            bgColor: flatten,
-          }),
-          timeoutMs,
-        })
-        await ensureOutputDir(flattenPath)
-        await writeFile(flattenPath, flat)
-        report.push(wroteTo(flattenPath, flat, `flattened to ${flatten}`))
-      }
-
-      return { outputPath: mattePath, outputBytes: matte }
-    })
-    return told(report)
+    await recordInferenceRun(record, async () => ({
+      outputPath: mattePath,
+      outputBytes: await wroteEach(every, putting, done),
+    }))
+    return told(done)
   })
 }
