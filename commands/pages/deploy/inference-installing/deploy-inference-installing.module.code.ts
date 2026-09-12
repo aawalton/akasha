@@ -1,11 +1,7 @@
 import { readdirSync } from "node:fs"
 import { join, relative } from "node:path"
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import {
-  answering,
-  refusedBy,
-  told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { refusedBy, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   buildGuiSessionProbeScript,
@@ -20,6 +16,7 @@ import type { ActualResource } from "akasha/infrastructure/inference/pool/infere
 import {
   runSsh,
   runSshCapture,
+  type SshTarget,
   syncDir,
 } from "akasha/infrastructure/inference/pool/inference-ssh/inference-ssh.module.code.ts"
 import { computeInputsHash } from "akasha/infrastructure/inference/pool/inputs-hash/inputs-hash.module.code.ts"
@@ -88,88 +85,104 @@ async function hashFor(
     : manifest
 }
 
-export function putUpInferenceService(
+export interface Reaching {
+  readonly runSsh: (target: SshTarget, script: string) => Promise<void>
+  readonly runSshCapture: (target: SshTarget, script: string) => Promise<string>
+  readonly syncDir: (args: {
+    target: SshTarget
+    localDir: string
+    remoteDir: string
+  }) => Promise<void>
+}
+
+export const OVER_SSH: Reaching = { runSsh, runSshCapture, syncDir }
+
+export async function putUpInferenceService(
   root: string,
   slug: string,
   dryRun: boolean,
-  codeAt: string
+  codeAt: string,
+  up: string[] = [],
+  reaching: Reaching = OVER_SSH
 ): Promise<Answer> {
-  return answering(async () => {
-    const one = readFor(root, slug)
-    if ("refused" in one) return refusedBy([one.refused])
-    const service = one.services[0] as Inference
-    const every = everyInference(root)
-    if ("refused" in every) return refusedBy([every.refused])
+  const one = readFor(root, slug)
+  if ("refused" in one) return refusedBy([one.refused])
+  const service = one.services[0] as Inference
+  const every = everyInference(root)
+  if ("refused" in every) return refusedBy([every.refused])
 
-    const host = getHost(service.host)
-    const target = { user: host.user, host: host.address, keyPath: host.keyPath }
-    const report = [`${service.name} on ${host.name} (${host.address})`]
+  const host = getHost(service.host)
+  const target = { user: host.user, host: host.address, keyPath: host.keyPath }
+  const report = [`${service.name} on ${host.name} (${host.address})`]
 
-    if (!service.enabled) {
-      report.push("is not to be running, so it is torn off the host")
-      if (dryRun) return told(report)
-      await runSsh(target, buildPruneScript({ host, name: service.name }))
-      report.push(`tore ${service.name} down`)
-      return told(report)
-    }
-
-    const running = every.services.filter((each) => each.enabled)
-    const cop = running.find((each) => each.name === TRAFFIC_COP_SERVICE_NAME)
-    const poolJson =
-      cop === undefined ? null : serializePoolConfig(buildPoolConfig(running, cop.port))
-    const inputsHash = await hashFor(codeAt, service, poolJson)
-    report.push(`is asked for at hash ${inputsHash}`)
-
-    const actual = parseActualState(
-      await runSshCapture(target, buildQueryScript(host, probedFor(service.name)))
-    )
-    const held = actual.find((each) => each.name === service.name)
-    if (currentAlready(held, inputsHash)) {
-      report.push("holds that hash already, so nothing is applied")
-      return told(report)
-    }
-    report.push(`is applied because ${reasonFor(held)}`)
+  if (!service.enabled) {
+    report.push("is not to be running, so it is torn off the host")
     if (dryRun) return told(report)
+    await reaching.runSsh(target, buildPruneScript({ host, name: service.name }))
+    up.push(`${service.name}, torn off ${host.name}`)
+    report.push(`tore ${service.name} down`)
+    return told(report)
+  }
 
-    const verdict = decideGuiSession(await runSshCapture(target, buildGuiSessionProbeScript()))
-    if (!verdict.sessionPresent) {
-      throw new OperationalError(
-        `no GUI session on ${host.name} (${host.address}): log in (or enable auto-login), then apply again`
-      )
-    }
+  const running = every.services.filter((each) => each.enabled)
+  const cop = running.find((each) => each.name === TRAFFIC_COP_SERVICE_NAME)
+  const poolJson =
+    cop === undefined ? null : serializePoolConfig(buildPoolConfig(running, cop.port))
+  const inputsHash = await hashFor(codeAt, service, poolJson)
+  report.push(`is asked for at hash ${inputsHash}`)
 
-    if (cop !== undefined) {
-      await runSsh(
-        target,
-        buildWritePoolConfigScript({
-          host,
-          services: running,
-          copName: cop.name,
-          adminPort: cop.port,
-        })
-      )
-    }
-    await syncDir({
+  const actual = parseActualState(
+    await reaching.runSshCapture(target, buildQueryScript(host, probedFor(service.name)))
+  )
+  const held = actual.find((each) => each.name === service.name)
+  if (currentAlready(held, inputsHash)) {
+    report.push("holds that hash already, so nothing is applied")
+    return told(report)
+  }
+  report.push(`is applied because ${reasonFor(held)}`)
+  if (dryRun) return told(report)
+
+  const probed = await reaching.runSshCapture(target, buildGuiSessionProbeScript())
+  if (!decideGuiSession(probed).sessionPresent) {
+    throw new OperationalError(
+      `no GUI session on ${host.name} (${host.address}): log in (or enable auto-login), then apply again`
+    )
+  }
+
+  if (cop !== undefined) {
+    await reaching.runSsh(
       target,
-      localDir: join(codeAt, service.sourceDir),
-      remoteDir: `${serviceDir(host.home, service.name)}/src`,
-    })
-    await runSsh(
-      target,
-      buildApplyScript({
+      buildWritePoolConfigScript({
         host,
-        service: {
-          name: service.name,
-          pythonVersion: service.pythonVersion,
-          sourceDir: service.sourceDir,
-          workdir: service.workdir,
-          runs: service.runs,
-          lifecycle: service.lifecycle,
-        },
-        inputsHash,
+        services: running,
+        copName: cop.name,
+        adminPort: cop.port,
       })
     )
-    report.push(`applied ${service.name}`)
-    return told(report)
+    up.push(`the pool file on ${host.name}, written from every service that is to be running`)
+  }
+  await reaching.syncDir({
+    target,
+    localDir: join(codeAt, service.sourceDir),
+    remoteDir: `${serviceDir(host.home, service.name)}/src`,
   })
+  up.push(`${service.sourceDir}, shipped to ${host.name}`)
+  await reaching.runSsh(
+    target,
+    buildApplyScript({
+      host,
+      service: {
+        name: service.name,
+        pythonVersion: service.pythonVersion,
+        sourceDir: service.sourceDir,
+        workdir: service.workdir,
+        runs: service.runs,
+        lifecycle: service.lifecycle,
+      },
+      inputsHash,
+    })
+  )
+  up.push(`${service.name} on ${host.name}, applied at hash ${inputsHash}`)
+  report.push(`applied ${service.name}`)
+  return told(report)
 }

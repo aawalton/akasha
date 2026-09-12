@@ -6,6 +6,7 @@ export const deployInferenceInstalling = {
   slug: "deploy-inference-installing",
   definition: "one inference service provisioned onto the machine its page names",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -43,6 +44,19 @@ export const deployInferenceInstalling = {
     {
       invariantKind: "departure",
       statement: "The pages a service is read from sit in the checkout rather than that tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each thing that reaches the host is named as soon as that thing reaches it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A fault part way is raised rather than answered, so the deploy names what reached the host.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The reaching the host is done over is handed in.",
     },
   ],
 } as const satisfies Module
