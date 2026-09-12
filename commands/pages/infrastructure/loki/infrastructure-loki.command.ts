@@ -7,12 +7,7 @@ export const infrastructureLoki = {
   definition: "the command answering the log lines Loki has for a pod, newest first",
   code: "ts",
   test: "ts",
-  taking: [
-    {
-      said: "--since <duration>",
-      takes: "how far back from now to look, in s, m, h or d, `1h` where none is said",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -74,5 +69,6 @@ export const infrastructureLoki = {
     { argument: "argument/kube-namespace" },
     { argument: "argument/cursor" },
     { argument: "argument/every-line" },
+    { argument: "argument/since" },
   ],
 } as const satisfies Command
