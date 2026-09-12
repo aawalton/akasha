@@ -6,10 +6,7 @@ export const mobileSimType = {
   slug: "mobile-sim-type",
   definition: "the command typing text into the simulator's webview",
   code: "ts",
-  taking: [
-    { said: "--text <text>", takes: "the text to type" },
-    { said: "--text -", takes: "the text to type, read from what is piped in" },
-  ],
+  taking: [],
 
   invariants: [
     {
@@ -30,5 +27,8 @@ export const mobileSimType = {
     },
   ],
   name: "type",
-  arguments: [{ argument: "argument/selector" }],
+  arguments: [
+    { argument: "argument/selector" },
+    { argument: "argument/typed-text", required: true },
+  ],
 } as const satisfies Command
