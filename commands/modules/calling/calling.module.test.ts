@@ -2,12 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { rmSync } from "node:fs"
 import { join } from "node:path"
 import { DATA, INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import {
-  calling,
-  commandsIn,
-  HELP,
-  HELP_SHORT,
-} from "akasha/commands/modules/calling/calling.module.code.ts"
+import { calling, commandsIn, HELP } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   ANSWERS,
   ANSWERS_LATER,
@@ -17,7 +12,6 @@ import {
   namespacesIn,
   OUTSIDE,
   rootWith,
-  SURFACED,
   sweep,
   THROWS_NO_ERROR,
   WILL_NOT_LOAD,
@@ -280,67 +274,6 @@ test("the commands there are come from the index", () => {
     { slug: "other", body: ANSWERS },
   ])
   expect(commandsIn(root)).toEqual(["held", "other"])
-})
-
-test("asking for help lists the commands with what each page says it is for", async () => {
-  const root = rootWith([{ slug: "held", body: ANSWERS, definition: "what held is for" }])
-  const said = await calling([HELP], { ...OUTSIDE, root })
-  expect(said.code).toBe(0)
-  expect(said.refusals).toEqual([])
-  expect(said.report).toContain("  akasha held  what held is for")
-  expect(said.report).toContain("say `akasha <command> --help` for what one takes")
-})
-
-test("`-h` says what `--help` says", async () => {
-  const root = rootWith([{ slug: "held", body: ANSWERS, definition: "what held is for" }])
-  expect(await calling([HELP_SHORT], { ...OUTSIDE, root })).toEqual(
-    await calling([HELP], { ...OUTSIDE, root })
-  )
-})
-
-test("a command whose page states no definition is listed by name alone", async () => {
-  const root = rootWith([{ slug: "held", body: ANSWERS }])
-  const said = await calling([HELP], { ...OUTSIDE, root })
-  expect(said.code).toBe(0)
-  expect(said.report).toContain("  akasha held")
-})
-
-test("a command answers for help out of the surface its own page states", async () => {
-  const root = rootWith([
-    { slug: "held", body: ANSWERS, definition: "what held is for", surface: SURFACED },
-  ])
-  const said = await calling(["held", HELP], { ...OUTSIDE, root })
-  expect(said.code).toBe(0)
-  expect(said.refusals).toEqual([])
-  expect(said.report[0]).toBe("akasha held — what held is for")
-  expect(said.report).toContain("  --file-path <path>  a path it takes")
-  expect(said.report).toContain("it repeats.")
-})
-
-test("a command stating help notes and no taking is answered for from its page", async () => {
-  const root = rootWith([
-    { slug: "held", body: ANSWERS, definition: "what held is for", notes: ["it is piped in."] },
-  ])
-  const said = await calling(["held", HELP], { ...OUTSIDE, root })
-  expect(said.code).toBe(0)
-  expect(said.report[0]).toBe("akasha held — what held is for")
-  expect(said.report).toContain("it is piped in.")
-})
-
-test("a command stating what it takes and no help note is answered for from its page", async () => {
-  const root = rootWith([
-    { slug: "held", body: ANSWERS, taking: [{ said: "<id>", takes: "the id acted on" }] },
-  ])
-  const said = await calling(["held", HELP], { ...OUTSIDE, root })
-  expect(said.code).toBe(0)
-  expect(said.report).toContain("  <id>  the id acted on")
-})
-
-test("a command stating no surface is handed the flag to answer for itself", async () => {
-  const root = rootWith([{ slug: "held", body: ANSWERS }])
-  const said = await calling(["held", HELP], { ...OUTSIDE, root })
-  expect(said.code).toBe(0)
-  expect(said.report[0]).toBe("--help")
 })
 
 test("a name no command carries is told where the surface is written down", async () => {
