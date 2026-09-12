@@ -7,7 +7,7 @@ import {
   type Ran,
   roundIn,
   settingIn,
-} from "akasha/personas/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts"
+} from "akasha/personas/modules/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts"
 
 const ROOT = "/repo"
 

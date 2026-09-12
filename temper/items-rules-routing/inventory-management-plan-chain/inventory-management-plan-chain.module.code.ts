@@ -1,5 +1,4 @@
 import type { InventoryItemData } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
-import type { TierAllocation } from "akasha/temper/items-rules-core/destination-chain-types/destination-chain-types.module.code.ts"
 import type { EligibilityResolvers } from "akasha/temper/items-rules-core/eligibility-predicate-composer/eligibility-predicate-composer.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
@@ -7,6 +6,7 @@ import type {
   ItemRule,
   MoveToDestination,
 } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { TierAllocation } from "akasha/temper/items-rules-core/modules/destination-chain-types/destination-chain-types.module.code.ts"
 import type { RuleMatcherContext } from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import { buildStockDestinationContext } from "akasha/temper/items-rules-core/stock-destination-context-builder/stock-destination-context-builder.module.code.ts"
 import { planStockDestinationsForChain } from "akasha/temper/items-rules-core/stock-destination-planner/stock-destination-planner.module.code.ts"

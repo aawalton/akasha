@@ -2,7 +2,7 @@ import { registerAddonInit } from "akasha/temper/addon-init/modules/addon-init/a
 import type {
   CaptureDescriptor,
   PerfSlot,
-} from "akasha/temper/capture-descriptor/descriptor/descriptor.module.code.ts"
+} from "akasha/temper/capture-descriptor/modules/descriptor/descriptor.module.code.ts"
 import {
   finishPerfTrace,
   startPerfTrace,

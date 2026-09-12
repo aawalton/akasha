@@ -6,11 +6,11 @@ let THROWS = false
 const SETTLE_MS = 20
 
 const setting = await import(
-  "akasha/personas/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts"
+  "akasha/personas/modules/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts"
 )
 
 mock.module(
-  "akasha/personas/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts",
+  "akasha/personas/modules/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts",
   () => ({
     ...setting,
     watchDesktopWallpaper: (...given: readonly unknown[]) => {

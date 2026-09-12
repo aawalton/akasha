@@ -1,4 +1,4 @@
-import { watchDesktopWallpaper } from "akasha/personas/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts"
+import { watchDesktopWallpaper } from "akasha/personas/modules/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts"
 
 const NEVER: Promise<never> = new Promise(() => {})
 

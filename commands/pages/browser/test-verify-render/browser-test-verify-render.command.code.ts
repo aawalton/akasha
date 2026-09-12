@@ -7,6 +7,10 @@ import {
   planVerifyRenderSession,
 } from "akasha/code/browser/commands/verify-render-plan/verify-render-plan.module.code.ts"
 import {
+  readBrowserTestEnv,
+  readRealUserOptInEnv,
+} from "akasha/code/browser/test-harness/modules/browser-test-env/browser-test-env.module.code.ts"
+import {
   classifyExpectedAttr,
   classifyExpectedCount,
   classifyExpectedTitleDom,
@@ -15,11 +19,7 @@ import {
   type ExpectedAttrMode,
   type RenderObservation,
   type RenderVerdict,
-} from "akasha/code/browser/test-harness/deployed-render-check/deployed-render-check.module.code.ts"
-import {
-  readBrowserTestEnv,
-  readRealUserOptInEnv,
-} from "akasha/code/browser/test-harness/modules/browser-test-env/browser-test-env.module.code.ts"
+} from "akasha/code/browser/test-harness/modules/deployed-render-check/deployed-render-check.module.code.ts"
 import {
   createReadOnlyAnonSession,
   createReadOnlyRealUserHarness,
