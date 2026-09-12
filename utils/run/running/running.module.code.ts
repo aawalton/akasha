@@ -215,7 +215,7 @@ export function spawnedHere(argv: readonly string[], asked: Asked = {}): Held {
       ...(asked.stdin === undefined ? {} : { stdin: asked.stdin }),
       ...(asked.timeout === undefined ? {} : { timeout: asked.timeout }),
     })
-    const group = at === null || ceiling === undefined ? null : spentAt(at)
+    const group = at === null ? null : spentAt(at)
     const peak = at === null ? null : peakAt(at)
     return {
       code: done.exitCode ?? NO_CODE,

@@ -224,14 +224,13 @@ test("the seconds answered carry what a process's own children spent", () => {
   expect(ran(["bun", "-e", inner]).cpuSeconds).toBeGreaterThan(0.1)
 })
 
-test("the seconds a bounded process answers carry a child that process never reaped", () => {
+test("the seconds answered carry a child the run never reaped, bounded or not", () => {
   const inner =
     "const child = Bun.spawn(['bun', '-e', 'let x = 0; for (let i = 0; i < 3e8; i++) x += i'])\n" +
     "child.unref()\n" +
     "Bun.sleepSync(2000)\n"
-  const loose = ran(["bun", "-e", inner]).cpuSeconds
-  const bound = ran(["bun", "-e", inner], { cpuCeiling: 30 }).cpuSeconds
-  expect(bound - loose).toBeGreaterThan(0.2)
+  expect(ran(["bun", "-e", inner]).cpuSeconds).toBeGreaterThan(0.2)
+  expect(ran(["bun", "-e", inner], { cpuCeiling: 30 }).cpuSeconds).toBeGreaterThan(0.2)
 })
 
 test("what a caller hands in reaches the process", () => {

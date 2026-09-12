@@ -87,8 +87,15 @@ export const running = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A process given no ceiling is answered the seconds that process and its reaped children spent.",
+      statement: "A process is answered the seconds every process in that process's group spent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Those seconds carry a child the run never reaped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The seconds answered leave out what was spent before the run joined its group.",
     },
     {
       invariantKind: "departure",
@@ -97,7 +104,7 @@ export const running = {
     {
       invariantKind: "departure",
       statement:
-        "Those seconds have every process in the group rather than the ones the run reaped.",
+        "A process run in no group is answered the seconds that process and its reaped children spent.",
     },
     {
       invariantKind: "departure",
