@@ -30,7 +30,6 @@ export const deploy = {
       said: "<slug>",
       takes: "the app or service to put up, named by the slug its page carries",
     },
-    { said: "--dry-run", takes: "say what would have been applied and change nothing" },
     { said: "--no-upload", takes: "build and validate an ios app without uploading it" },
     { said: "--ref <rev>", takes: "the commit to put up" },
     {
@@ -255,4 +254,5 @@ export const deploy = {
     },
   ],
   name: "deploy",
+  arguments: [{ argument: "argument/dry-run" }],
 } as const satisfies Command

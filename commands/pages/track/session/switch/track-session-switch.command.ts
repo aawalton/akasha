@@ -23,7 +23,6 @@ export const trackSessionSwitch = {
       said: "--relationship <id|title>",
       takes: "who the stretch was with, said again or parted by commas for several",
     },
-    { said: "--dry-run", takes: "judge what the act would land and write nothing" },
   ],
 
   invariants: [
@@ -109,4 +108,5 @@ export const trackSessionSwitch = {
     },
   ],
   name: "switch",
+  arguments: [{ argument: "argument/dry-run" }],
 } as const satisfies Command

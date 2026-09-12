@@ -8,10 +8,7 @@ export const infrastructureServiceStart = {
   code: "ts",
   test: "ts",
   name: "start",
-  taking: [
-    { said: "<slug>", takes: "the service to start, named by the slug its page carries" },
-    { said: "--dry-run", takes: "say what would happen and change nothing" },
-  ],
+  taking: [{ said: "<slug>", takes: "the service to start, named by the slug its page carries" }],
   invariants: [
     {
       invariantKind: "departure",
@@ -30,4 +27,5 @@ export const infrastructureServiceStart = {
       statement: "Nothing here is installed for the whole machine.",
     },
   ],
+  arguments: [{ argument: "argument/dry-run" }],
 } as const satisfies Command

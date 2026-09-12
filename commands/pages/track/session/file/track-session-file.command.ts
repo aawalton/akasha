@@ -17,7 +17,6 @@ export const trackSessionFile = {
       said: "--relationship <id|title>",
       takes: "who the stretches were with, said again or parted by commas for several",
     },
-    { said: "--dry-run", takes: "judge what the act would land and write nothing" },
   ],
 
   invariants: [
@@ -111,4 +110,5 @@ export const trackSessionFile = {
     },
   ],
   name: "file",
+  arguments: [{ argument: "argument/dry-run" }],
 } as const satisfies Command

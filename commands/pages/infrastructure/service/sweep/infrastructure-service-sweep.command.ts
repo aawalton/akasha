@@ -8,7 +8,7 @@ export const infrastructureServiceSweep = {
   code: "ts",
   test: "ts",
   name: "sweep",
-  taking: [{ said: "--dry-run", takes: "say what would happen and change nothing" }],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -55,4 +55,5 @@ export const infrastructureServiceSweep = {
       statement: "Nothing here is installed for the whole machine.",
     },
   ],
+  arguments: [{ argument: "argument/dry-run" }],
 } as const satisfies Command

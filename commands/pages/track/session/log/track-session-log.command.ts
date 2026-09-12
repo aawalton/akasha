@@ -24,7 +24,6 @@ export const trackSessionLog = {
       said: "--relationship <id|title>",
       takes: "who the stretch was with, said again or parted by commas for several",
     },
-    { said: "--dry-run", takes: "judge what the act would land and write nothing" },
   ],
 
   invariants: [
@@ -94,4 +93,5 @@ export const trackSessionLog = {
     },
   ],
   name: "log",
+  arguments: [{ argument: "argument/dry-run" }],
 } as const satisfies Command

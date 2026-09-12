@@ -9,7 +9,6 @@ export const trackSessionClose = {
   taking: [
     { said: "--at <time>", takes: "the wall time the stretch ends" },
     { said: "--day <date>", takes: "which day to act on, written as that day's own date" },
-    { said: "--dry-run", takes: "judge what the act would land and write nothing" },
   ],
 
   invariants: [
@@ -51,4 +50,5 @@ export const trackSessionClose = {
     },
   ],
   name: "close",
+  arguments: [{ argument: "argument/dry-run" }],
 } as const satisfies Command

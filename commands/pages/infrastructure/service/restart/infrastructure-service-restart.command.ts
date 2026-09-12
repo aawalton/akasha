@@ -7,10 +7,7 @@ export const infrastructureServiceRestart = {
   definition: "the command asking systemd to run one service's unit afresh",
   code: "ts",
   name: "restart",
-  taking: [
-    { said: "<slug>", takes: "the service to restart, named by the slug its page carries" },
-    { said: "--dry-run", takes: "say what would happen and change nothing" },
-  ],
+  taking: [{ said: "<slug>", takes: "the service to restart, named by the slug its page carries" }],
   invariants: [
     {
       invariantKind: "departure",
@@ -29,4 +26,5 @@ export const infrastructureServiceRestart = {
       statement: "Nothing here is installed for the whole machine.",
     },
   ],
+  arguments: [{ argument: "argument/dry-run" }],
 } as const satisfies Command

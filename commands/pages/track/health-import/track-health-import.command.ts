@@ -14,7 +14,6 @@ export const trackHealthImport = {
     },
     { said: "--since <YYYY-MM-DD>", takes: "the first civil day to bring in" },
     { said: "--batch <n>", takes: "how many readings one write carries, 1 to 1000" },
-    { said: "--dry-run", takes: "read and count and write nothing" },
     {
       said: "--restart",
       takes: "begin at the head of the export rather than where an earlier run ended",
@@ -83,4 +82,5 @@ export const trackHealthImport = {
     },
   ],
   name: "health-import",
+  arguments: [{ argument: "argument/dry-run" }],
 } as const satisfies Command
