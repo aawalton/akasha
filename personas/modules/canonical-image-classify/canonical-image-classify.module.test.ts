@@ -1,9 +1,9 @@
 import { describe, expect, test } from "bun:test"
+import type { NamedRoot } from "akasha/personas/image-locator/image-locator.module.code.ts"
 import {
   CANONICAL_BACKFILL_TAG,
   classifyCanonicalImage,
-} from "akasha/personas/canonical-image-classify/canonical-image-classify.module.code.ts"
-import type { NamedRoot } from "akasha/personas/image-locator/image-locator.module.code.ts"
+} from "akasha/personas/modules/canonical-image-classify/canonical-image-classify.module.code.ts"
 
 const ROOTS: readonly NamedRoot[] = [
   { tag: "personas", root: "/img/personas" },

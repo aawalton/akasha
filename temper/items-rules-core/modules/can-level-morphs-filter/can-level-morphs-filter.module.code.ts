@@ -1,8 +1,8 @@
-import type { CanLevelMorphsCondition } from "akasha/temper/items-rules-core/can-level-morphs-filter-types/can-level-morphs-filter-types.module.code.ts"
 import type {
   CategoryRule,
   ItemAction,
 } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { CanLevelMorphsCondition } from "akasha/temper/items-rules-core/modules/can-level-morphs-filter-types/can-level-morphs-filter-types.module.code.ts"
 import type { InventoryRuleFilter } from "akasha/temper/items-rules-core/rule-filter-types/rule-filter-types.module.code.ts"
 import type { RuleMatcherContext } from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 

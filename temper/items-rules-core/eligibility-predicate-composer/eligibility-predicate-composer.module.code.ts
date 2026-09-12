@@ -1,5 +1,5 @@
-import { characterPassesCanLevelMorphs } from "akasha/temper/items-rules-core/can-level-morphs-filter/can-level-morphs-filter.module.code.ts"
-import type { CanLevelMorphsCondition } from "akasha/temper/items-rules-core/can-level-morphs-filter-types/can-level-morphs-filter-types.module.code.ts"
+import { characterPassesCanLevelMorphs } from "akasha/temper/items-rules-core/modules/can-level-morphs-filter/can-level-morphs-filter.module.code.ts"
+import type { CanLevelMorphsCondition } from "akasha/temper/items-rules-core/modules/can-level-morphs-filter-types/can-level-morphs-filter-types.module.code.ts"
 import { characterPassesRequiredCurseState } from "akasha/temper/items-rules-core/required-curse-state-filter/required-curse-state-filter.module.code.ts"
 import type { RequiredCurseStateCondition } from "akasha/temper/items-rules-core/required-curse-state-filter-types/required-curse-state-filter-types.module.code.ts"
 import { characterPassesRequiredSkillLines } from "akasha/temper/items-rules-core/required-skill-lines-filter/required-skill-lines-filter.module.code.ts"

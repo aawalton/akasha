@@ -11,7 +11,7 @@ import "akasha/alan/web/declared-effects/declared-effects.module.code.ts"
 import { ROSTER_GALLERY_CAPABILITY } from "akasha/alan/web/idle-card-page-type/idle-card-page-type.module.code.ts"
 import { RevealHost } from "akasha/alan/web/reveal-host/reveal-host.module.code.tsx"
 import { RosterGalleryHost } from "akasha/alan/web/roster-gallery/roster-gallery.module.code.tsx"
-import { registerCapabilityHost } from "akasha/pages/ui/capabilities/capability-hosts/capability-hosts.module.code.tsx"
+import { registerCapabilityHost } from "akasha/pages/ui/capabilities/modules/capability-hosts/capability-hosts.module.code.tsx"
 
 registerCapabilityHost(ROSTER_GALLERY_CAPABILITY, RosterGalleryHost)
 registerCapabilityHost("reveal", RevealHost)

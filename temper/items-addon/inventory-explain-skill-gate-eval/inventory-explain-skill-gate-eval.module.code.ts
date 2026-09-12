@@ -12,11 +12,11 @@ import type {
 import { buildGetCharacterSkillLineRanks } from "akasha/temper/items-addon/inventory-skill-line-ranks/inventory-skill-line-ranks.module.code.ts"
 import { canCharacterLevelMorphs } from "akasha/temper/items-addon/inventory-skill-morphs-progress/inventory-skill-morphs-progress.module.code.ts"
 import { getTemperCharactersData } from "akasha/temper/items-addon/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
-import type { CanLevelMorphsCondition } from "akasha/temper/items-rules-core/can-level-morphs-filter-types/can-level-morphs-filter-types.module.code.ts"
 import {
   composeCharEligibilityPredicate,
   type EligibilityResolvers,
 } from "akasha/temper/items-rules-core/eligibility-predicate-composer/eligibility-predicate-composer.module.code.ts"
+import type { CanLevelMorphsCondition } from "akasha/temper/items-rules-core/modules/can-level-morphs-filter-types/can-level-morphs-filter-types.module.code.ts"
 import type { RequiredCurseStateCondition } from "akasha/temper/items-rules-core/required-curse-state-filter-types/required-curse-state-filter-types.module.code.ts"
 import type { RequiredSkillLinesCondition } from "akasha/temper/items-rules-core/required-skill-lines-filter-types/required-skill-lines-filter-types.module.code.ts"
 import { characterId } from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
