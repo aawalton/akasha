@@ -1,5 +1,9 @@
 import { join } from "node:path"
 import { runningModeIn } from "akasha/agents/seats/modules/modes/seat-modes.module.code.ts"
+import {
+  type BeatReport,
+  beat,
+} from "akasha/agents/seats/modules/page-beat/seat-page-beat.module.code.ts"
 import type { Outcome } from "akasha/changes/modules/gated-write/gated-write.module.code.ts"
 import {
   ownRepoRoot,
@@ -8,10 +12,6 @@ import {
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { keepBeside } from "akasha/seat-system/seat-beside/seat-beside.module.code.ts"
-import {
-  type BeatReport,
-  beat,
-} from "akasha/seat-system/seat-page-beat/seat-page-beat.module.code.ts"
 import { nameFromHistory } from "akasha/seat-system/seat-page-history/seat-page-history.module.code.ts"
 import {
   formatSeatProcKey,
