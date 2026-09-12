@@ -1,4 +1,3 @@
-import type { LangTable } from "akasha/temper/crafting-addon/craft-lang-lang-table/craft-lang-lang-table.module.code.ts"
 import {
   type CsQualityColor,
   QUALITY,
@@ -30,6 +29,7 @@ import {
   type FurnisherTable,
 } from "akasha/temper/crafting-addon/modules/craft-furnisher/craft-furnisher.module.code.ts"
 import { LANG } from "akasha/temper/crafting-addon/modules/craft-lang-index/craft-lang-index.module.code.ts"
+import type { LangTable } from "akasha/temper/crafting-addon/modules/craft-lang-lang-table/craft-lang-lang-table.module.code.ts"
 
 export interface StyleNameRow {
   name: string

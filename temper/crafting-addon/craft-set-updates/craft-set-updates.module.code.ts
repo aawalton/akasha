@@ -1,8 +1,8 @@
-import type { LangSuboptions } from "akasha/temper/crafting-addon/craft-lang-lang-table/craft-lang-lang-table.module.code.ts"
 import { repairStored } from "akasha/temper/crafting-addon/craft-player-state/craft-player-state.module.code.ts"
 import { updatePanelIcon } from "akasha/temper/crafting-addon/craft-research-grid/craft-research-grid.module.code.ts"
 import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 import type { AccountOptions } from "akasha/temper/crafting-addon/modules/craft-account-init/craft-account-init.module.code.ts"
+import type { LangSuboptions } from "akasha/temper/crafting-addon/modules/craft-lang-lang-table/craft-lang-lang-table.module.code.ts"
 
 type DropdownOptionName =
   | "overviewstyle"
