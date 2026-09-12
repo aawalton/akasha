@@ -50,7 +50,7 @@ const TAKING = [
   { said: SEED },
   { said: VOCAL_LANGUAGE },
   { said: TIMEOUT },
-  { said: OUTPUT, aliases: ["--out"] },
+  { said: OUTPUT },
 ]
 
 const SWITCHES = [NO_PERSIST]
