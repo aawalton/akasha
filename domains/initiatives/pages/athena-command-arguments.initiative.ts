@@ -11,12 +11,12 @@ export const athenaCommandArguments = {
     {
       statement: "Every argument a command takes is a page.",
       workingMemory:
-        "338 argument pages and 766 entries at `2422666aa8c` name exactly those 338. Two flags reach `alan tracking` that no page names, both out of shared `file-arguing`: `--break-the-glass`, refused by name at its code `:54` yet still in the take-list `akasha alan tracking --nope` prints; and `--restated`, admitted, which swaps the kind to `change-restated`, whose page owes the writer a reading, making `alan-tracking.command.ts:44` false. Its `:15` is true — `landingTracked` passes no kind. Alan's.\n",
+        "338 argument pages and 766 entries at `2422666aa8c` name exactly those 338. Two flags reach `alan tracking` that no page names, both out of shared `file-arguing`. `--break-the-glass` is refused by name, and the refusal's warrant is void: `MECHANICAL_KIND` carries `checks: false` and `runMechanicalChange` passes `NO_GATE` anyway, so no check judges this landing. `--restated` is admitted and swaps the kind. Four of the page's fourteen invariants became gaps at `4a27c8931ad`. Alan's.\n",
     },
     {
       statement: "A command names the arguments it takes and narrows each.",
       workingMemory:
-        "Naming holds; narrowing does not. Only `value` narrows, and 250 of 338 pages carry `text` or `path`, which both fall through to the raw string. Two splits are Alan's. `oneOf` says at least one for 6 groups and exactly one for 17, and until a page says which, no type narrows a group. `path` names two policies: `--file-path` must stay in the repository and `--output` writes outside it, so no one resolver fits and the rule that a path is read against the root must never be true of `--output`.\n",
+        "Naming holds; narrowing does not. Only `value` narrows, and 250 of 338 pages carry `text` or `path`, which both fall through to the raw string. `oneOf` is not Alan's: exclusivity is per-pair and falls out of whether `not-with` covers every pair, so a generator emits the discriminated form for the 22 exclusive groups and falls back for the rest. Typing the absent member `undefined` narrows in all four positions, so `EachGroup` needs one mapped type changed. `path` naming two policies is Alan's.\n",
     },
     {
       statement:
