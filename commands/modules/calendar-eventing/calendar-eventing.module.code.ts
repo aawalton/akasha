@@ -80,10 +80,6 @@ function wholeNumber(raw: string): number | null {
   return Number.isSafeInteger(held) ? held : null
 }
 
-export function maxOf(raw: string | undefined): number | undefined {
-  return raw === undefined ? undefined : (wholeNumber(raw) ?? undefined)
-}
-
 function emails(raw: string | undefined): readonly string[] | undefined {
   return raw === undefined ? undefined : raw.split(",").map((one) => one.trim())
 }
