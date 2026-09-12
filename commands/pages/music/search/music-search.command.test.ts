@@ -120,13 +120,7 @@ test("no artist named fetches no more than the limit asked for", async () => {
   expect(asked[0]?.limit).toBe(NARROW)
 })
 
-test("--top is another spelling of --limit", () => {
-  expect(toldIn(["Bulletproof", "--top", "3"])).toEqual({
-    query: "Bulletproof",
-    artist: undefined,
-    limitSaid: "3",
-    json: false,
-  })
+test("a flag joined to its value by an equals sign is read", () => {
   expect(toldIn(["Bulletproof", "--limit=3"])).toEqual({
     query: "Bulletproof",
     artist: undefined,

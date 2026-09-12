@@ -17,13 +17,11 @@ const ARTIST = "--artist"
 
 const LIMIT = "--limit"
 
-const TOP = "--top"
-
 const JSON_SAID = "--json"
 
 const REST = "--"
 
-const VALUED: readonly string[] = [ARTIST, LIMIT, TOP]
+const VALUED: readonly string[] = [ARTIST, LIMIT]
 
 export type SearchEnvelope = {
   readonly query: string
@@ -40,13 +38,8 @@ type Told = {
   readonly json: boolean
 }
 
-function canonical(said: string): string {
-  return said === TOP ? LIMIT : said
-}
-
 export function toldIn(argv: readonly string[]): Told | string {
   const named: Record<string, string> = {}
-  const spelled: Record<string, string> = {}
   const loose: string[] = []
   let json = false
   for (let at = 0; at < argv.length; at += 1) {
@@ -62,13 +55,8 @@ export function toldIn(argv: readonly string[]): Told | string {
       const value = inline ?? argv[at + 1]
       if (value === undefined) return `\`${said}\` was said with nothing after it`
       if (inline === undefined) at += 1
-      const key = canonical(said)
-      const held = named[key]
-      if (held !== undefined && (held !== value || spelled[key] === said)) {
-        return `\`${key}\` was said more than once`
-      }
-      named[key] = value
-      spelled[key] = said
+      if (named[said] !== undefined) return `\`${said}\` was said more than once`
+      named[said] = value
       continue
     }
     if (said === JSON_SAID) {
