@@ -1,7 +1,16 @@
 import { expect, test } from "bun:test"
-import { answering } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import {
+  answering,
+  INPUT,
+  OPERATIONAL,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { temperInventoryRuleList as listing } from "akasha/commands/pages/temper/inventory/rule/list/temper-inventory-rule-list.command.ts"
+import {
+  answeredByPage,
   copiedRule,
   droppedRule,
   lockedRule,
@@ -74,6 +83,28 @@ test("a rule copied is said to have been copied", async () => {
   const done: string[] = []
   await copiedRule("category", HELD, WROTE, done)
   expect(done).toEqual([wroteSaid("category", HELD, "copied")])
+})
+
+const CALLED = "akasha temper inventory rule list"
+
+const PAGES = [json] as const
+
+test("nothing here leaves the work for a command to open itself", async () => {
+  const said = await answeredByPage([], CALLED, listing, PAGES, async () => {
+    throw new Error("the store would not open")
+  })
+  expect(said.refusals[0]).toBe("the store would not open")
+  expect(said.code).toBe(OPERATIONAL)
+})
+
+test("nothing here adds to the reasons the reader gave", async () => {
+  const argv = ["--no-such-flag"]
+  const read = takenFor(argv, CALLED, listing, PAGES)
+  const said = await answeredByPage(argv, CALLED, listing, PAGES, async () => told(["reached"]))
+  expect("refused" in read).toBe(true)
+  expect(said.refusals).toEqual("refused" in read ? read.refused : [])
+  expect(said.code).toBe(INPUT)
+  expect(said.report).toEqual([])
 })
 
 test("what a write is said by names the kind of rule and its id", () => {

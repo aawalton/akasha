@@ -50,6 +50,22 @@ export const inventoryRuleCalling = {
       statement: "The flags a command takes are read against the list its own page states.",
     },
     {
+      invariantKind: "absence",
+      statement: "Nothing here leaves the work for a command to open itself.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A command catching what its own seam throws is written without this act.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here adds to the reasons the reader gave.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A command whose refusal is built from that list is written without this act.",
+    },
+    {
       invariantKind: "departure",
       statement: "A field the call names nothing for is left as that field was.",
     },
