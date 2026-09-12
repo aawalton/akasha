@@ -67,5 +67,10 @@ export const deployLooping = {
       invariantKind: "departure",
       statement: "A run handed no kind a deploy puts up is refused by naming every kind.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "Which scopes are running is asked of systemd, and a scope is started by the program that makes one.",
+    },
   ],
 } as const satisfies Module

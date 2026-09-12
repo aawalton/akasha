@@ -24,7 +24,10 @@ import {
   runOf,
 } from "akasha/infrastructure/services/workstations/run-composing/run-composing.module.code.ts"
 import { checkoutAt } from "akasha/infrastructure/services/workstations/service-checkout/service-checkout.module.code.ts"
-import type { Ran } from "akasha/infrastructure/services/workstations/service-installing/service-installing.module.code.ts"
+import {
+  type Ran,
+  systemctl,
+} from "akasha/infrastructure/services/workstations/service-installing/service-installing.module.code.ts"
 import {
   asked,
   type Running,
@@ -110,8 +113,8 @@ export function ticked(
   root: string,
   kind: Kind,
   now: number = Date.now(),
-  run: Running = (args) => systemdRun(args),
-  listing: Running = (args) => systemdRun(args)
+  run: Running = systemdRun,
+  listing: Running = systemctl
 ): Ticked {
   const tree = treeIn(root, WORKSTATION_SERVICE)
   if (tree === null) {
