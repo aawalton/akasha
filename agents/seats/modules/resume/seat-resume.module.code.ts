@@ -25,6 +25,7 @@ import {
 } from "akasha/agents/seats/modules/modes/seat-modes.module.code.ts"
 import { sweepSupersededAgentTrees } from "akasha/agents/seats/modules/recovery/seat-recovery.module.code.ts"
 import { HELP } from "akasha/agents/seats/modules/resume-help/seat-resume-help.module.code.ts"
+import { resumeSeat as relaunchStoppedSeat } from "akasha/agents/seats/modules/resume-seat/resume-seat.module.code.ts"
 import type { ReviveIoVerdict } from "akasha/agents/seats/modules/revive-io-verify-decide/seat-revive-io-verify-decide.module.code.ts"
 import {
   dataError,
@@ -33,7 +34,6 @@ import {
   operationalError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { parseArgs } from "akasha/commands/modules/parse-args/parse-args.module.code.ts"
-import { resumeSeat as relaunchStoppedSeat } from "akasha/seat-system/resume-seat/resume-seat.module.code.ts"
 import {
   liveResumeVerifySleep,
   resumeAndVerify,
