@@ -1,26 +1,7 @@
 import { expect, test } from "bun:test"
-import {
-  changeShow,
-  pathIn,
-  shownOf,
-} from "akasha/commands/pages/change/show/change-show.command.code.ts"
+import { pathIn, shownOf } from "akasha/commands/pages/change/show/change-show.command.code.ts"
 
 const ROOT = "/repo"
-
-const OUTSIDE = {
-  root: ROOT,
-  calledAs: "akasha change show",
-  from: "test",
-  writer: null,
-  agentId: null,
-}
-
-test("the help flag is answered rather than refused as a flag", () => {
-  const said = changeShow(["--help"], OUTSIDE)
-  expect(said.code).toBe(0)
-  expect(said.refusals).toEqual([])
-  expect(said.report[0]).toBe(OUTSIDE.calledAs)
-})
 
 test("the path is read against the repository root", () => {
   expect(pathIn(ROOT, { at: "a/b.ts" })).toBe("a/b.ts")

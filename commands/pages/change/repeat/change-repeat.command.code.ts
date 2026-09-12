@@ -1,16 +1,11 @@
 import { join } from "node:path"
 import { editsWaiting } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { atMostIn } from "akasha/changes/modules/value-carrying/value-carrying.module.code.ts"
-import {
-  answering,
-  OK,
-  told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { answering, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { readingIn } from "akasha/commands/modules/argument-reading/argument-reading.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { type Input, inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { helpIn } from "akasha/commands/pages/change/change-arguing/change-arguing.module.code.ts"
 import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
@@ -57,19 +52,6 @@ const NO_CLI = "no `module` is slugged `cli`, so no batch could be run"
 const NOTHING_SAID = "that batch landed nothing and said nothing"
 
 const AND_THEN = "batch(es) landed, and then:"
-
-const HELP: readonly string[] = [
-  "applies one change batch after batch until a batch lands nothing.",
-  "",
-  "It takes the change to repeat as its one word, and that change's arguments piped in:",
-  "",
-  "  at-most: <count>    how many pages one batch acts on",
-  "",
-  "Every batch is a landing of its own, judged by the checks as any landing is.",
-  "Every batch is handed the arguments piped in here, unchanged.",
-  "A change whose page states no `takes-at-most` is refused, since one run reaches every page.",
-  "A call made where edits are kept already is refused before any batch runs.",
-]
 
 export type Piping = () => Input
 
@@ -169,8 +151,6 @@ export async function changeRepeat(
   piping: Piping = inputIn,
   making: Making = runningIn
 ): Promise<Answer> {
-  const help = helpIn(argv, given.calledAs, HELP)
-  if (help !== null) return told(help)
   const slug = argv[0]
   if (slug === undefined) return mistaking([NO_CHANGE])
   const piped = textFrom(piping)

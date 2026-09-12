@@ -29,28 +29,12 @@ export const changeArguing = {
       statement: "The refusal names the act the caller was making and the word that call named.",
     },
     {
-      invariantKind: "departure",
-      statement: "The help flag is answered rather than handed on to be refused as a word.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Both spellings of the help flag are answered.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The help flag is read as the first word of the call alone.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A help answer opens with the call that reached the command.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The lines under that call are handed in rather than written here.",
+      invariantKind: "absence",
+      statement: "Nothing here reads what is piped in.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads what is piped in.",
+      statement: "No help flag reaches a command under `akasha change`, so none is answered here.",
     },
   ],
 } as const satisfies Module
