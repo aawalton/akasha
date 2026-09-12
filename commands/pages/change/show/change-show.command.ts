@@ -129,6 +129,10 @@ export const changeShow = {
       invariantKind: "departure",
       statement: "A body that would not open is an operational fault.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A key other than `at` is refused rather than passed over.",
+    },
   ],
   name: "show",
 } as const satisfies Command

@@ -295,5 +295,9 @@ export const applying = {
       invariantKind: "departure",
       statement: "An apply that committed nothing says that nothing was committed.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A key an apply does not take is refused rather than passed over.",
+    },
   ],
 } as const satisfies Module
