@@ -12,14 +12,15 @@ export const seatSupervisorStop = {
     { said: "<name>", takes: "the seat to stop, named as that seat's page is named" },
     { said: "--force", takes: "stop it though subagents are working, ending them with it" },
   ],
-  helpNotes: [
-    "a stop reaches one seat, where a restart reaches every seat akasha carries.",
-    "a stop ends what the seat dispatched before it ends the seat, so nothing is left orphaned.",
-    "what a subagent had not landed is moved onto the seat before that subagent's page goes, and the stop says what moved.",
-    "a name no seat holds a page for answers as a data refusal, which a caller can tell from a misspelling.",
-    "a stop names one seat, spelled as that seat's page is spelled rather than as an id.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A stop ends what the seat dispatched before it ends the seat.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The report names what moved off a subagent before it names the stop.",
+    },
     {
       invariantKind: "departure",
       statement: "The seat stopped is named by the first word.",
