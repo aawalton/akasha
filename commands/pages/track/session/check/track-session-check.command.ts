@@ -6,7 +6,7 @@ export const trackSessionCheck = {
   slug: "track-session-check",
   definition: "the command judging the rows a day carries",
   code: "ts",
-  parts: ["module/session-rows"],
+  parts: [],
   taking: [],
 
   invariants: [

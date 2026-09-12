@@ -4,7 +4,7 @@ import {
   type Held,
   linesOf,
   type Row,
-} from "akasha/commands/pages/track/session/check/session-rows/session-rows.module.code.ts"
+} from "akasha/commands/pages/track/session-rows/session-rows.module.code.ts"
 
 export type Landing = { readonly held: Held; readonly rows: Row[] }
 

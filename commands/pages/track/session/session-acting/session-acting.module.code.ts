@@ -6,19 +6,6 @@ import { filing } from "akasha/commands/modules/mechanical-filing/mechanical-fil
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import type { ActivityDifficulty } from "akasha/commands/pages/track/session/amend/session-leveling/session-leveling.module.code.ts"
 import {
-  activitiesIn,
-  BARE,
-  DAY,
-  dayNow,
-  type Held,
-  heldFor,
-  linesOf,
-  openIn,
-  type Row,
-  saidFor,
-  VALUED,
-} from "akasha/commands/pages/track/session/check/session-rows/session-rows.module.code.ts"
-import {
   besideArgv,
   type Landing,
   pathUnder,
@@ -32,6 +19,19 @@ import {
   dayBefore,
   sleeping,
 } from "akasha/commands/pages/track/session/switch/waking/waking.module.code.ts"
+import {
+  activitiesIn,
+  BARE,
+  DAY,
+  dayNow,
+  type Held,
+  heldFor,
+  linesOf,
+  openIn,
+  type Row,
+  saidFor,
+  VALUED,
+} from "akasha/commands/pages/track/session-rows/session-rows.module.code.ts"
 import { SCRATCH_AT } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 export type Standing = {

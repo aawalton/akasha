@@ -3,7 +3,7 @@ import {
   RELATIONSHIP,
   saidEachFor,
   VALUED,
-} from "akasha/commands/pages/track/session/check/session-rows/session-rows.module.code.ts"
+} from "akasha/commands/pages/track/session-rows/session-rows.module.code.ts"
 
 test("the flag is one this command takes", () => {
   expect(VALUED).toContain(RELATIONSHIP)

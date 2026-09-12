@@ -1,16 +1,6 @@
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import {
-  addressed,
-  DIFFICULTY,
-  DRY_RUN,
-  faultsIn,
-  levelsFor,
-  saidFor,
-  shownOf,
-  TITLE,
-} from "akasha/commands/pages/track/session/check/session-rows/session-rows.module.code.ts"
-import {
   landed,
   standingFor,
   taggingFor,
@@ -20,6 +10,16 @@ import {
   carriedIn,
   taggedFor,
 } from "akasha/commands/pages/track/session/session-relationships/session-relationships.module.code.ts"
+import {
+  addressed,
+  DIFFICULTY,
+  DRY_RUN,
+  faultsIn,
+  levelsFor,
+  saidFor,
+  shownOf,
+  TITLE,
+} from "akasha/commands/pages/track/session-rows/session-rows.module.code.ts"
 
 export async function trackSessionAmend(argv: readonly string[], given: Given): Promise<Answer> {
   const now = new Date()

@@ -4,13 +4,13 @@ import { join } from "node:path"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { scratch } from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
 import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import { trackSessionDrop } from "akasha/commands/pages/track/session/drop/track-session-drop.command.code.ts"
 import {
   DAY,
   dayRepo,
   ROWS_AT,
   SLEPT,
-} from "akasha/commands/pages/track/session/check/session-rows/session-rows.module.test-fixtures.ts"
-import { trackSessionDrop } from "akasha/commands/pages/track/session/drop/track-session-drop.command.code.ts"
+} from "akasha/commands/pages/track/session-rows/session-rows.module.test-fixtures.ts"
 import { said as git } from "akasha/git/running/git-running.module.code.ts"
 
 afterAll(scratch.sweep)
