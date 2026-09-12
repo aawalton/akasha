@@ -10,7 +10,7 @@ export const aineResourceManagement = {
     {
       statement: "Every kind of work an agent starts runs under a ceiling of its own.",
       workingMemory:
-        "The kinds are a change, a guard, a check, an audit, a test, a deploy, a command, and a bash call that is none of these. A seat holds a share and no ceiling, so a runaway inside one takes that whole share from the agent working there. Every kind records what it spent beside a page, so every kind has a page a ceiling could be stated on, and every kind now runs in a control group inside its seat, which is where a ceiling on one would be enforced.",
+        "The kinds are a change, a guard, a check, an audit, a test, a deploy, a command, and a bash call that is none of these. Four hold one already: five processor seconds a test file, ten a check, fifteen an audit, three hundred a change. Each is judged once the run has ended, which Alan settled is how it stays, because the agent keeps what the run found and what was judged lands nothing. Left: a guard, a deploy, a command, a bash call.",
     },
     {
       statement:
