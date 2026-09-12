@@ -11,7 +11,7 @@ export const temperInventoryBuyRuleShow = {
     { said: "<id>", takes: "the id of the buy rule given back" },
     { said: "--tsv", takes: "give one tab-separated row rather than JSON" },
   ],
-  helpNotes: ["an id no buy rule carries is refused by that id."],
+
   invariants: [
     {
       invariantKind: "departure",
