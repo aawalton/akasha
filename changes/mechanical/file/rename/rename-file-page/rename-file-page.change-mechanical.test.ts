@@ -114,6 +114,10 @@ const otherAt: string = indexedRepo({
   [OTHER_CODE]: "export const kept = 2\n",
 })
 
+const heldWas = textIn(heldAt)
+
+const carriedHeld = await runChange(worldIn(heldAt, heldWas), { at: HELD_PAGE, to: CARRIED })
+
 test("a body that could not be read is refused", async () => {
   const said = await runChange(
     worldIn(scratch.rootFor("slug-"), () => null),
@@ -173,14 +177,13 @@ test("the slug rename and the whole carry are reached at their own addresses", a
   expect(reached.slice(1, -1)).toEqual(["change-mechanical/move-files"])
 })
 
-test("a page's slug is renamed in its data, and its files are carried with it", async () => {
-  const root = heldAt
-  const was = textIn(root)
+test("a page's slug is renamed in its data, and its files are carried with it", () => {
+  const was = heldWas
   const page = was(HELD_PAGE) ?? ""
   const namer = was(NAMER_PAGE) ?? ""
   const namerCode = was(NAMER_CODE) ?? ""
   const heldCode = was(HELD_CODE) ?? ""
-  const said = await runChange(worldIn(root, was), { at: HELD_PAGE, to: CARRIED })
+  const said = carriedHeld
   const bodies = bodiesIn(said, was)
   expect(said.refused).toBe(null)
   expect(movesOf(said)).toEqual([
@@ -227,11 +230,10 @@ test("a caller having restated every address already has no address restated her
   expect(bodies.has(SPELLER_CODE)).toBe(false)
 })
 
-test("a body that is no page spelling the page's address states the new address", async () => {
-  const was = textIn(heldAt)
-  const said = await runChange(worldIn(heldAt, was), { at: HELD_PAGE, to: CARRIED })
+test("a body that is no page spelling the page's address states the new address", () => {
+  const said = carriedHeld
   expect(said.refused).toBe(null)
-  expect(bodiesIn(said, was).get(SPELLER_CODE)).toBe(`export const at = "module/${CARRIED}"\n`)
+  expect(bodiesIn(said, heldWas).get(SPELLER_CODE)).toBe(`export const at = "module/${CARRIED}"\n`)
 })
 
 test("a beside file is carried whichever kind of property holds that file", async () => {
