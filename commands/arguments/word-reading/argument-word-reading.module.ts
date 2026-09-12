@@ -51,6 +51,11 @@ export const argumentWordReading = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A default handed in with the narrowing is answered over the one the argument's page states.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An argument that does not repeat is refused where one call says it twice.",
     },
     {

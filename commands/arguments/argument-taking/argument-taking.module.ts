@@ -50,6 +50,14 @@ export const argumentTaking = {
     },
     {
       invariantKind: "departure",
+      statement: "An entry carrying a default is always answered, as a needed one is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A default an entry carries is answered over the one the argument's page carries.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "An argument carrying no value or repeating is always answered, as a needed one is.",
     },

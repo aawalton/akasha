@@ -12,6 +12,7 @@ export type Naming = {
   readonly saidAs?: SaidAs
   readonly notWith?: readonly Argument[]
   readonly oneOf?: readonly Argument[]
+  readonly default?: string
 }
 
 export type Value = string | number | boolean | readonly (string | number)[]
@@ -273,7 +274,7 @@ export function takingIn(
   for (const one of naming) {
     const key = exportedAs(one.argument.slug)
     if (key in state.taken) continue
-    const byDefault = one.argument.default
+    const byDefault = one.default ?? one.argument.default
     if (!carries(one.argument)) state.taken[key] = false
     else if (repeating(one)) state.taken[key] = []
     else if (byDefault !== undefined) state.taken[key] = heldOf(one.argument, byDefault)

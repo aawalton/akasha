@@ -14,6 +14,7 @@ export type Named = {
   readonly saidAs?: SaidAs
   readonly notWith?: readonly string[]
   readonly oneOf?: readonly string[]
+  readonly default?: string
 }
 
 export type Commanding = {
@@ -57,9 +58,11 @@ type Filled<Entry extends Named, Pages extends Argument> = Entry extends {
     ? true
     : Repeating<Entry> extends true
       ? true
-      : PageOf<Entry, Pages> extends { readonly default: string }
+      : Entry extends { readonly default: string }
         ? true
-        : false
+        : PageOf<Entry, Pages> extends { readonly default: string }
+          ? true
+          : false
 
 type Unnamed<Page extends Commanding, Pages extends Argument> = Exclude<
   Slugged<Entries<Page>["argument"]>,
@@ -174,6 +177,7 @@ function namedBy(entry: Named, bySlug: ReadonlyMap<string, Argument>): Naming | 
     ...(entry.required === undefined ? {} : { required: entry.required }),
     ...(entry.repeats === undefined ? {} : { repeats: entry.repeats }),
     ...(entry.saidAs === undefined ? {} : { saidAs: entry.saidAs }),
+    ...(entry.default === undefined ? {} : { default: entry.default }),
     ...(against.length === 0 ? {} : { notWith: against }),
     ...(among.length === 0 ? {} : { oneOf: among }),
   }
