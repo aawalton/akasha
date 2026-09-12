@@ -5,7 +5,7 @@ import {
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { buildCopFetchInit } from "akasha/infrastructure/inference/clients/cop-fetch/cop-fetch.module.code.ts"
 import {
   ensureOutputDir,
@@ -17,9 +17,9 @@ import {
   copPriorityHeaders,
 } from "akasha/infrastructure/inference/clients/voice-clone-client/voice-clone-client.module.code.ts"
 import {
-  calledAs,
   countAt,
   heldOr,
+  madeOf,
   oneOf,
   proseAt,
   proseNeededAt,
@@ -90,7 +90,7 @@ function isMode(one: string): one is Mode {
   return (MODES as readonly string[]).includes(one)
 }
 
-export async function inferenceVoiceClone(argv: readonly string[]): Promise<Answer> {
+export async function inferenceVoiceClone(argv: readonly string[], given: Given): Promise<Answer> {
   const said = wordsIn(argv, TAKING, SWITCHES)
   if (wasRefused(said)) return refusedBy(said.refused)
 
@@ -138,7 +138,7 @@ export async function inferenceVoiceClone(argv: readonly string[]): Promise<Answ
       operation: "voice-clone",
       model: MODEL,
       host: reached.service.host,
-      commandLine: calledAs("inference-voice-clone", argv),
+      commandLine: madeOf(given.calledAs, argv),
       startedAt: new Date(nowMs).toISOString(),
       text,
       refAudioPath: refAudio ?? DEFAULT_REF_AUDIO,
