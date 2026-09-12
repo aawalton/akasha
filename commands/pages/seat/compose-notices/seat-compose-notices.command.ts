@@ -9,20 +9,7 @@ export const seatComposeNotices = {
   test: "ts",
   changeKind: "change-mechanical",
   taking: [{ said: "--out <path>", takes: "a file to write into, rather than saying it" }],
-  helpNotes: [
-    "it prints one JSON object of notice slug to composed text, and nothing else.",
-    "every notice page the index files is rendered, keyed by its slug.",
-    "callers ask for a notice by slug, so a page renamed there is a notice one of them no longer finds.",
-    "nothing says so before a fleet meets it: the check that did went with an orphaned folder and has no successor yet.",
-    "wrapping is the author's convenience and not part of the text.",
-    "the lines of a paragraph are joined with a space, and a blank line between two paragraphs survives as one.",
-    "a notice page holding nothing is rendered as an empty text rather than left out.",
-    "the JSON is indented two spaces, unlike the other verbs the editor asks, so a caller diffing it reads a match as a match.",
-    "named `--out`, it writes there and says nothing, so a run that wrote prints no line at all.",
-    "a relative `--out` path is read against the repository root rather than the calling folder.",
-    "the editor's seat revive asks for this across the command server, and the supervisor imports the compose module and calls it.",
-    "the editor reads the `editor-revive` key alone, and the supervisor `restart-immediate`, `restart-deferred` and `restart-recovery-clause`.",
-  ],
+  helpNotes: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -61,6 +48,15 @@ export const seatComposeNotices = {
     {
       invariantKind: "absence",
       statement: "A run named no `--out` writes nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every notice page the index files is answered, keyed by that page's slug.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "A notice slug a caller names that no page carries is refused before a fleet meets it.",
     },
   ],
 } as const satisfies Command
