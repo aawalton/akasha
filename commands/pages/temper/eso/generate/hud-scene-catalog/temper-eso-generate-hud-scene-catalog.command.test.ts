@@ -2,7 +2,10 @@ import { expect, test } from "bun:test"
 import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
 import type { Answering, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { temperEsoGenerateHudSceneCatalog } from "akasha/commands/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.code.ts"
+import {
+  cataloging,
+  temperEsoGenerateHudSceneCatalog,
+} from "akasha/commands/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.code.ts"
 
 const GIVEN: Given = {
   root: "/nowhere",
@@ -20,8 +23,15 @@ test("the world reaches this where the dispatcher hands it, rather than the test
   expect(answers.length).toBe(2)
 })
 
+test("an argument this command does not take is refused rather than passed over", async () => {
+  const said = await cataloging(["--json"], GIVEN, throwingAfter([], BROKE))
+
+  expect(said.code).not.toBe(0)
+  expect(said.refusals.join("\n")).toContain("`--json` is no argument")
+})
+
 test("a run that landed the catalog and then threw names that commit", async () => {
-  const said = await temperEsoGenerateHudSceneCatalog([], GIVEN, throwingAfter(["abc123"], BROKE))
+  const said = await cataloging([], GIVEN, throwingAfter(["abc123"], BROKE))
 
   expect(said.report).toEqual(["abc123"])
   expect(said.refusals.at(-1)).toBe(
@@ -31,7 +41,7 @@ test("a run that landed the catalog and then threw names that commit", async () 
 })
 
 test("a run that threw with no module landed names the fault and nothing else", async () => {
-  const said = await temperEsoGenerateHudSceneCatalog([], GIVEN, throwingAfter([], BROKE))
+  const said = await cataloging([], GIVEN, throwingAfter([], BROKE))
 
   expect(said.report).toEqual([])
   expect(said.refusals[0]).toContain("the parse of the scene source broke after")
@@ -40,7 +50,7 @@ test("a run that threw with no module landed names the fault and nothing else", 
 
 test("a run that wrote three modules names all three where it stopped", async () => {
   const wrote = ["hud-fragment-group", "hud-scene-fragments", "hud-controls"]
-  const said = await temperEsoGenerateHudSceneCatalog([], GIVEN, throwingAfter(wrote, BROKE))
+  const said = await cataloging([], GIVEN, throwingAfter(wrote, BROKE))
 
   expect(said.report).toEqual(wrote)
   expect(said.refusals.at(-1)).toBe(

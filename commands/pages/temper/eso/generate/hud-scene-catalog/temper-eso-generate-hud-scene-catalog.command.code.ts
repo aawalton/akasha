@@ -5,9 +5,9 @@ import {
   type Asking,
   runMechanicalChange,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
 import {
   answeredWith,
-  answering,
   DATA,
   keeping,
   OK,
@@ -15,11 +15,14 @@ import {
   refused,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import {
-  saidFor,
-  saidShort,
-} from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
+  esoAnswering,
+  type Generating,
+  type Taking,
+} from "akasha/commands/pages/temper/eso/eso-answering/eso-answering.module.code.ts"
+import { temperEsoGenerateHudSceneCatalog as page } from "akasha/commands/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.ts"
+import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import { saidShort } from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
 import { parseEsoDocApiVersion } from "akasha/temper/eso-paths/eso-clone-stamp/eso-clone-stamp.module.code.ts"
 import { esouiDir } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
 import type { HudComponentRecord } from "akasha/temper/hud-components/hud-component-record/hud-component-record.module.code.ts"
@@ -27,7 +30,7 @@ import { HUD_SCENE_CATALOG_SCHEMA } from "akasha/temper/hud-components/hud-compo
 import { buildCatalog } from "akasha/temper/hud-components/hud-scene-parse/hud-scene-parse.module.code.ts"
 import { HUD_SCENE_SOURCE } from "akasha/temper/hud-components/hud-scene-source/hud-scene-source.module.code.ts"
 
-const CODE_ROOT_FLAG = "--code-root"
+const NAMED = [codeRootArgument]
 
 const DOC_REL = "ESOUIDocumentation.txt"
 
@@ -96,10 +99,10 @@ ${records.map(renderRecord).join("\n")}
 `
 }
 
-export type Generating = (done: string[], argv: readonly string[]) => Promise<Answer>
+type Taken = Taking<typeof page, typeof NAMED>
 
-async function generated(done: string[], argv: readonly string[]): Promise<Answer> {
-  const named = saidFor(argv, CODE_ROOT_FLAG)
+async function generated(done: string[], taken: Taken): Promise<Answer> {
+  const named = taken.codeRoot
 
   let root: string
   try {
@@ -194,10 +197,17 @@ async function generated(done: string[], argv: readonly string[]): Promise<Answe
   )
 }
 
-export async function temperEsoGenerateHudSceneCatalog(
+export async function cataloging(
   argv: readonly string[],
-  _given: Given,
-  generating: Generating = generated
+  given: Given,
+  generating: Generating<Taken> = generated
 ): Promise<Answer> {
-  return await answering(async (done) => await generating(done, argv))
+  return await esoAnswering(argv, given, page, NAMED, generating)
+}
+
+export function temperEsoGenerateHudSceneCatalog(
+  argv: readonly string[],
+  given: Given
+): Promise<Answer> {
+  return cataloging(argv, given)
 }
