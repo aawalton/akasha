@@ -30,12 +30,14 @@ const READS = "This one call reads every page named above:"
 const ANSWER_CEILING = 28000
 
 const DECIDING =
-  "NAMING DECISION — the term's page clears this, and it may mean renaming what your change writes."
+  "NAMING DECISION — this call was refused and wrote nothing. Reading the term's page clears it."
 
-const DECIDE =
-  "Nothing here judges the sense you meant, so this gate is clear whether you reword or not."
+const REWORD = "The judgement is yours: reword where you meant a sense the term bars."
 
-const REWORD = "Decide what you meant and reword where you meant a sense the term bars."
+const AGAIN = [
+  "Where you meant a sense it keeps, change nothing and run this same call again.",
+  "That page is recorded as read now, so this term will not stop the call twice.",
+].join("\n")
 
 const PAGE_TYPE = "page-type"
 
@@ -210,7 +212,7 @@ export function tabooOf(owing: Owing, body: string | null): string {
   const warrant = owing.warrant
   if (body === null) return [DECIDING, ...tabooSaid(owing), warrant.owed, REWORD].join("\n")
   const states = `${warrant.path} states the term, and the whole page follows.`
-  return [DECIDING, states, warrant.owed, "", body.trimEnd(), "", DECIDE, REWORD].join("\n")
+  return [DECIDING, states, warrant.owed, "", body.trimEnd(), "", REWORD, AGAIN].join("\n")
 }
 
 export function sayingOf(owing: Owing, body: string | null = null): string {

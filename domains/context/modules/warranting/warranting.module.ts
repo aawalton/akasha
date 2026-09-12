@@ -157,6 +157,15 @@ export const warranting = {
     },
     {
       invariantKind: "departure",
+      statement: "A refusal says the call was refused rather than leaving the exit code to say it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A refusal handing a term's page back names running that same call again as the way through.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Warrants owed of no taboo term keep the order the warrants were worked out in.",
     },
     {

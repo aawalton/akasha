@@ -20,10 +20,10 @@ import {
 } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import {
   A,
+  AGAIN,
   AGENT,
   B,
   bareRoot,
-  CLEARS,
   chainOf,
   DECIDING,
   NOT_READ,
@@ -403,15 +403,17 @@ test("a warrant owed of a taboo term is said before every warrant that is not", 
   ])
 })
 
-test("what is said of a taboo term hands its whole page back and clears the gate", () => {
+test("a taboo term's page is handed back, and the same call again is let through", () => {
   const root = rootWith([{ slug: "chain", code: chainOf({ [A]: [TERM_AT] }) }])
-  expect(unreadIn(root, AGENT, [A])[0]).toContain(`akasha read --file-path ${TERM_AT}`)
+  const first = unreadIn(root, AGENT, [A])[0]
+  expect(first).toContain(`akasha read --file-path ${TERM_AT}`)
+  expect(first).not.toContain(AGAIN)
   writing(root, TERM_AT, "the term itself\n")
   const said = unreadIn(root, AGENT, [A])[0]
   expect(said?.split("\n")[0]).toBe(DECIDING)
   expect(said).not.toContain(NOT_READ)
   expect(said).toContain("the term itself")
-  expect(said).toContain(CLEARS)
+  expect(said).toContain(AGAIN)
   expect(unreadIn(root, AGENT, [A])).toEqual([])
 })
 

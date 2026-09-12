@@ -116,10 +116,12 @@ export const Y = "akasha/one/y.ts"
 export const TERM_AT = "akasha/one/word.taboo-term.ts"
 
 export const DECIDING =
-  "NAMING DECISION — the term's page clears this, and it may mean renaming what your change writes."
+  "NAMING DECISION — this call was refused and wrote nothing. Reading the term's page clears it."
 
-export const CLEARS =
-  "Nothing here judges the sense you meant, so this gate is clear whether you reword or not."
+export const AGAIN = [
+  "Where you meant a sense it keeps, change nothing and run this same call again.",
+  "That page is recorded as read now, so this term will not stop the call twice.",
+].join("\n")
 
 export const NOT_READ = " — the record does not show you read this."
 
