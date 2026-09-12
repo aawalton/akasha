@@ -18,4 +18,8 @@ export const strengthExerciseSelectionConstraint = {
     },
   ],
   types: "ts",
+  properties: [
+    { pageProperty: "calendar-date-property/tested-again-on", required: true, many: false },
+  ],
+  parts: ["calendar-date-property/tested-again-on"],
 } as const satisfies PageType
