@@ -6,6 +6,7 @@ export const talosHealth = {
   slug: "talos-health",
   definition: "the command running the talosctl health check over a Talos cluster",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
