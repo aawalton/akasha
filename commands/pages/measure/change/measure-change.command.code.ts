@@ -5,7 +5,7 @@ import {
   costsIn,
 } from "akasha/commands/pages/measure/change/change-measuring/change-measuring.module.code.ts"
 
-export function measureChanges(argv: readonly string[], given: Given): Answer {
+export function measureChange(argv: readonly string[], given: Given): Answer {
   const chose = windowIn(argv)
   if (chose.chosen === null) return { report: [], refusals: [...chose.refusals], code: 2 }
   const costs = costsIn(given.root, Date.now(), chose.chosen)
