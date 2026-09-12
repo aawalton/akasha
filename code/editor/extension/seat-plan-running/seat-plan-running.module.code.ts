@@ -3,7 +3,7 @@ import { invokedSeat } from "akasha/code/editor/extension/modules/invoked-seat/i
 import {
   confirmTurnLoss,
   type SeatAct,
-} from "akasha/code/editor/extension/seat-act-confirm/seat-act-confirm.module.code.ts"
+} from "akasha/code/editor/extension/modules/seat-act-confirm/seat-act-confirm.module.code.ts"
 import { performPlan } from "akasha/code/editor/extension/seat-acts/seat-acts.module.code.ts"
 import type {
   SeatStep,

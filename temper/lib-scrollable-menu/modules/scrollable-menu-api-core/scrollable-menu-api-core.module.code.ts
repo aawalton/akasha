@@ -43,7 +43,7 @@ import {
   getContextMenu,
   lib,
   setContextMenu,
-} from "akasha/temper/lib-scrollable-menu/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/modules/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
 
 const MAJOR = lib.name
 

@@ -9,7 +9,7 @@ import {
 } from "akasha/temper/lib-scrollable-menu/modules/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
 
 import { getValueOrCallback } from "akasha/temper/lib-scrollable-menu/modules/scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"
-import "akasha/temper/lib-scrollable-menu/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+import "akasha/temper/lib-scrollable-menu/modules/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
 
 const editBoxCtrlsContextmenuRegistered = new LuaTable<LsmRowControl, boolean>()
 function reAnchorEditBoxControlsInRow(this: void, control: LsmRowControl): undefined {

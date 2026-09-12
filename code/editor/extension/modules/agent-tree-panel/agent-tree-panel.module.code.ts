@@ -37,7 +37,7 @@ import { akashaRoot } from "akasha/code/editor/extension/modules/harness-call/ha
 import { invokedSeat } from "akasha/code/editor/extension/modules/invoked-seat/invoked-seat.module.code.ts"
 import { newestWins } from "akasha/code/editor/extension/modules/newest-wins/newest-wins.module.code.ts"
 import { recordObservation } from "akasha/code/editor/extension/modules/observation-store/observation-store.module.code.ts"
-import type { SeatAct } from "akasha/code/editor/extension/seat-act-confirm/seat-act-confirm.module.code.ts"
+import type { SeatAct } from "akasha/code/editor/extension/modules/seat-act-confirm/seat-act-confirm.module.code.ts"
 import { runPlan as runPlanWith } from "akasha/code/editor/extension/seat-plan-running/seat-plan-running.module.code.ts"
 import { showSeat } from "akasha/code/editor/extension/seat-showing/seat-showing.module.code.ts"
 import {

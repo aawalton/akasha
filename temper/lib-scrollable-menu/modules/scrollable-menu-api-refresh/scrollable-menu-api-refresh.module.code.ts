@@ -20,7 +20,7 @@ import {
   LSM_UPDATE_MODE_MAINMENU,
   LSM_UPDATE_MODE_SUBMENU,
 } from "akasha/temper/lib-scrollable-menu/modules/scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"
-import { lib } from "akasha/temper/lib-scrollable-menu/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+import { lib } from "akasha/temper/lib-scrollable-menu/modules/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
 
 const LSM_UPDATE_MODE_SUBMENU_local = LSM_UPDATE_MODE_SUBMENU
 const LSM_UPDATE_MODE_MAINMENU_local = LSM_UPDATE_MODE_MAINMENU

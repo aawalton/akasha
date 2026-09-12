@@ -32,7 +32,7 @@ import {
 } from "akasha/temper/lib-scrollable-menu/modules/scrollable-menu-combobox-base-setup-helpers/scrollable-menu-combobox-base-setup-helpers.module.code.ts"
 import { processSliderData } from "akasha/temper/lib-scrollable-menu/modules/scrollable-menu-combobox-base-setup-slider/scrollable-menu-combobox-base-setup-slider.module.code.ts"
 import { getValueOrCallback } from "akasha/temper/lib-scrollable-menu/modules/scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"
-import { lib } from "akasha/temper/lib-scrollable-menu/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+import { lib } from "akasha/temper/lib-scrollable-menu/modules/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
 
 const libDebug = lib.Debug
 const dlog = asLsmCastThisVoidLogTypeNumberMsgIdNumberArgsUnknownUnd(libDebug.DebugLog)

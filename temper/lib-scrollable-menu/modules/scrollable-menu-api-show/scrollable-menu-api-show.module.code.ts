@@ -33,7 +33,7 @@ function asLsmCastLocalContextMenuLike(value: unknown): LsmCastLocalContextMenuL
 }
 
 import { updateContextMenuRef } from "akasha/temper/lib-scrollable-menu/modules/scrollable-menu-api-core/scrollable-menu-api-core.module.code.ts"
-import { lib } from "akasha/temper/lib-scrollable-menu/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+import { lib } from "akasha/temper/lib-scrollable-menu/modules/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
 
 const MAJOR = lib.name
 

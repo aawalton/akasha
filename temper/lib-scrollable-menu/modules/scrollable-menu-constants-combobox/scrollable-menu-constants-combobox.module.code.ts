@@ -24,7 +24,7 @@ import {
   HIGHLIGHTS,
   LSM_ROW_HIGHLIGHT_DEFAULT,
 } from "akasha/temper/lib-scrollable-menu/modules/scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"
-import "akasha/temper/lib-scrollable-menu/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+import "akasha/temper/lib-scrollable-menu/modules/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
 
 constants.data = {
   subtables: {

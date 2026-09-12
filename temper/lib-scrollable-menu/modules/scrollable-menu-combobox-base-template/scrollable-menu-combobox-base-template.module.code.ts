@@ -21,7 +21,7 @@ import {
 
 import { addItemBase } from "akasha/temper/lib-scrollable-menu/modules/scrollable-menu-combobox-base-data/scrollable-menu-combobox-base-data.module.code.ts"
 import { getValueOrCallback } from "akasha/temper/lib-scrollable-menu/modules/scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"
-import { lib } from "akasha/temper/lib-scrollable-menu/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+import { lib } from "akasha/temper/lib-scrollable-menu/modules/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
 
 const libDebug = lib.Debug
 const dlog = asLsmCastThisVoidLogTypeNumberMsgIdNumberArgsUnknownUnd(libDebug.DebugLog)

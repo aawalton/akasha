@@ -33,13 +33,13 @@ import {
   PADDING_Y,
 } from "akasha/temper/items-filters-addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
 import type { FilterController } from "akasha/temper/items-filters-addon/modules/panel-filter-binding/panel-filter-binding.module.code.ts"
-import { TEMPER_FILTERS } from "akasha/temper/items-filters-core/search-filter-registry/search-filter-registry.module.code.ts"
+import { TEMPER_FILTERS } from "akasha/temper/items-filters-core/modules/search-filter-registry/search-filter-registry.module.code.ts"
 import type {
   AnyTemperFilter,
   FilterGroup,
   FilterId,
   FilterValue,
-} from "akasha/temper/items-filters-core/search-filter-types/search-filter-types.module.code.ts"
+} from "akasha/temper/items-filters-core/modules/search-filter-types/search-filter-types.module.code.ts"
 import type { BrowseEngine } from "akasha/temper/trading-addon/trading-browse-engine/trading-browse-engine.module.code.ts"
 import {
   buildHeader,

@@ -1,7 +1,7 @@
 import { asLibDebugLoggerInstance } from "akasha/temper/lib-scrollable-menu/modules/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
 import { asLsmCastThisVoidArgsUnknownUndefined } from "akasha/temper/lib-scrollable-menu/modules/scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
 import { dlog } from "akasha/temper/lib-scrollable-menu/modules/scrollable-menu-debug-logger/scrollable-menu-debug-logger.module.code.ts"
-import { lib } from "akasha/temper/lib-scrollable-menu/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+import { lib } from "akasha/temper/lib-scrollable-menu/modules/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
 
 const tos = tostring
 
