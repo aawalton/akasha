@@ -3,8 +3,10 @@ import {
   answerFor,
   narrowedBy,
   narrowedIn,
+  SCOPE,
   underASubagent,
 } from "akasha/agents/hooks/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.code.ts"
+import { UNREADABLE } from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
 
 const SEAT = "01a064fd-036b-7000-b22b-8e4196630c07"
 
@@ -112,9 +114,18 @@ test("a call carrying no command is let through", () => {
   expect(answerFor(JSON.stringify({ agent_id: OWN, tool_input: {} })).code).toBe(ASIDE)
 })
 
-test("a payload that will not read refuses nobody", () => {
-  expect(answerFor("{not json").code).toBe(ASIDE)
-  expect(answerFor("").code).toBe(ASIDE)
+test("a payload this cannot read judges nothing and exits so the dispatch refuses", () => {
+  for (const one of ["{not json", "", "[]", "null", '"held"', "12"]) {
+    expect(answerFor(one).code).toBe(UNREADABLE)
+    expect(answerFor(one).out).toBe("")
+    expect(answerFor(one).err).toContain("would not read")
+  }
+})
+
+test("the scope no longer says an unreadable payload is left alone", () => {
+  const there = SCOPE.join("\n")
+  expect(there).toContain("A PAYLOAD THIS CANNOT READ")
+  expect(there).not.toContain("nothing is judged and nothing is refused")
 })
 
 test("a subagent is read off the payload rather than off the seat", () => {

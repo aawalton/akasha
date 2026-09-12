@@ -8,6 +8,7 @@ import {
   SCOPE_FLAG,
   said,
   toldOf,
+  UNREADABLE,
 } from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
 import {
   basenameOf,
@@ -100,7 +101,9 @@ export const SCOPE: readonly string[] = [
   "  a bare `akasha audit`, which asks the service rather than judging where it is called",
   "  every akasha command but `audit`, none of which is judged here",
   "  a call the seat itself makes, which the payload names no subagent for",
-  "  a payload that will not read, over which nothing is judged and nothing is refused",
+  "",
+  "A PAYLOAD THIS CANNOT READ judges nothing and exits so the dispatch refuses the call, rather",
+  "than standing aside. A payload that parses and is not an object is one this cannot read.",
   "",
   "NOT REACHED. Each measured against this hook, not supposed:",
   "  a call another program builds — `sh -c`, `xargs`, a script file",
@@ -133,9 +136,15 @@ export function underASubagent(payload: Record<string, unknown>): boolean {
   return typeof held === "string" && held.trim() !== ""
 }
 
+export const UNREAD: Answer = {
+  out: "",
+  err: `${HOOK}: the hook payload would not read, so nothing was judged`,
+  code: UNREADABLE,
+}
+
 export function answerFor(raw: string): Answer {
   const payload = payloadIn(raw)
-  if (payload === null) return LET_THROUGH
+  if (payload === null) return UNREAD
   if (!underASubagent(payload)) return LET_THROUGH
   const runs = inputIn(payload)?.[RUNS]
   if (typeof runs !== "string" || runs === "") return LET_THROUGH
