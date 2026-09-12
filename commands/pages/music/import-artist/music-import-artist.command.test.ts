@@ -7,6 +7,8 @@ import type {
   MbWork,
 } from "akasha/alan/music/catalog/musicbrainz-schema/musicbrainz-schema.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
 import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
@@ -128,7 +130,7 @@ const LANDED: Applied = {
 type Seen = { changes: readonly Asking[]; message: string }
 
 function landingOnto(seen: Seen, answer: Applied | Refused = LANDED): Landing {
-  return async (_root, changes, message) => {
+  return async (_done, _root, changes, message) => {
     seen.changes = changes
     seen.message = message
     return answer
@@ -324,5 +326,36 @@ test("what a landing answers wrong is answered as a refusal over what landed", a
   const said = await importingProbe(landingOnto(unseen(), answer))
   expect(said.code).toBe(3)
   expect(said.refusals).toEqual(["the install would not take"])
+  expect(said.report).toEqual(["wrote one/page.ts"])
+})
+
+const WENT_WRONG = new Error("the artist landed and the commit went wrong")
+
+test("a run that landed the pages and then threw says what it had landed", async () => {
+  const said = await importingProbe(throwingAfter(["abc123"], WENT_WRONG))
+
+  expect(said.report).toEqual(["abc123"])
+  expect(said.refusals.at(-1)).toBe(
+    "this stopped part way. What it had done by then is this: abc123. Nothing after that ran."
+  )
+  expect(said.code).toBe(OPERATIONAL)
+})
+
+test("a run that threw before a page landed says why it threw and no more", async () => {
+  const said = await importingProbe(throwingAfter([], WENT_WRONG))
+
   expect(said.report).toEqual([])
+  expect(said.refusals[0]).toContain("the artist landed and the commit went wrong")
+  expect(said.refusals.some((one) => one.startsWith("this stopped part way"))).toBe(false)
+})
+
+test("a run that wrote twice names each write in the order it was written", async () => {
+  const wrote = ["wrote one/page.ts", "abc123"]
+  const said = await importingProbe(throwingAfter(wrote, WENT_WRONG))
+
+  expect(said.report).toEqual(wrote)
+  expect(said.refusals.at(-1)).toBe(
+    "this stopped part way. What it had done by then is this: " +
+      "wrote one/page.ts; abc123. Nothing after that ran."
+  )
 })

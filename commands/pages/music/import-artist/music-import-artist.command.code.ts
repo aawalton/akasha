@@ -42,8 +42,10 @@ import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import { mbid as mbidArgument } from "akasha/commands/arguments/pages/mbid.argument.ts"
 import { songLimit } from "akasha/commands/arguments/pages/song-limit.argument.ts"
 import {
+  answering,
   DATA,
   INPUT,
+  keeping,
   OK,
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -62,7 +64,6 @@ import {
   type Source,
 } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import { textIn, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 import { todayYYYYMMDD } from "akasha/utils/sync/today/today.module.code.ts"
 
 const ARTIST = "artist"
@@ -82,10 +83,14 @@ const UNNAMED = `this call names no artist — say one after the command, or at 
 export const WRITE = "change-mechanical/add-file-of-any-kind"
 
 export type Landing = (
+  done: string[],
   root: string,
   changes: readonly Asking[],
   message: string
 ) => ReturnType<typeof runMechanicalChange>
+
+export const landedMechanically: Landing = (done, root, changes, message) =>
+  runMechanicalChange(root, changes, message, null, { done })
 
 export type Reach = {
   readonly searchArtist: (name: string) => Promise<readonly MbArtistSearchHit[]>
@@ -403,24 +408,29 @@ export function messageOf(said: Imported): string {
   return `import ${said.artistName} and ${said.songsWritten} songs from MusicBrainz`
 }
 
+async function brought(
+  done: string[],
+  argv: readonly string[],
+  given: Given,
+  reach: Reach,
+  landing: Landing
+): Promise<Answer> {
+  const held = taken(argv, given.calledAs)
+  if ("refused" in held) return refused(held.refused, INPUT)
+  const found = await gathered(given.root, held, reach, todayYYYYMMDD())
+  if ("refused" in found) return refused(found.refused, DATA)
+  const landed = await landing(done, given.root, found.changes, messageOf(found.said))
+  const wrote = "refusals" in landed ? [] : landed.landed.map((one) => `wrote ${one}`)
+  const wrong = "refusals" in landed ? landed.refusals : landed.wrong
+  if (wrong.length > 0) return keeping(done, answeredWith(wrote, wrong, OPERATIONAL))
+  return answeredWith(held.json ? [jsonOf(found.said)] : [...rowsOf(found.said), ...wrote], [], OK)
+}
+
 export async function musicImportArtist(
   argv: readonly string[],
   given: Given,
   reach: Reach = REACHING,
-  landing: Landing = runMechanicalChange
+  landing: Landing = landedMechanically
 ): Promise<Answer> {
-  const held = taken(argv, given.calledAs)
-  if ("refused" in held) return refused(held.refused, INPUT)
-  let found: Gathered | { readonly refused: string }
-  try {
-    found = await gathered(given.root, held, reach, todayYYYYMMDD())
-  } catch (thrown) {
-    return refused(saidBy(thrown), OPERATIONAL)
-  }
-  if ("refused" in found) return refused(found.refused, DATA)
-  const landed = await landing(given.root, found.changes, messageOf(found.said))
-  const wrong = "refusals" in landed ? landed.refusals : landed.wrong
-  if (wrong.length > 0) return answeredWith([], wrong, OPERATIONAL)
-  const wrote = "refusals" in landed ? [] : landed.landed.map((one) => `wrote ${one}`)
-  return answeredWith(held.json ? [jsonOf(found.said)] : [...rowsOf(found.said), ...wrote], [], OK)
+  return await answering(async (done) => await brought(done, argv, given, reach, landing))
 }

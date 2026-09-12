@@ -54,6 +54,14 @@ export const musicImportArtist = {
       invariantKind: "absence",
       statement: "No test here reaches MusicBrainz or LRCLIB.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A run that wrote before it threw says in its refusal what that run had written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A fault carries the code that fault names and says where it was thrown.",
+    },
   ],
   name: "import-artist",
   arguments: [
