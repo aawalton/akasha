@@ -27,10 +27,10 @@ export type Read = { readonly command: string } | { readonly answer: Answer }
 
 export const LET_THROUGH: Answer = { out: "", err: "", code: ASIDE }
 
-function unreadable(hook: string, why: string): Answer {
+export function unreadable(hook: string, why: string): Answer {
   return {
     out: "",
-    err: `${hook}: ${why}, so nothing was judged and the call was not refused`,
+    err: `${hook}: ${why}, so nothing was judged and the dispatch refuses the call`,
     code: UNREADABLE,
   }
 }

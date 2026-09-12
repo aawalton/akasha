@@ -7,7 +7,7 @@ import {
 import {
   payloadIn,
   REFUSED,
-  UNREADABLE,
+  unreadable,
 } from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
 import { insideOf, settled } from "akasha/agents/hooks/settling/settling.module.code.ts"
 import {
@@ -466,8 +466,9 @@ async function main(): Promise<number> {
   if (raw.trim() === "") return 0
   const payload = payloadIn(raw)
   if (payload === null) {
-    process.stderr.write(`${HOOK_NAME}: the hook payload would not read, so nothing was judged\n`)
-    return UNREADABLE
+    const unread = unreadable(HOOK_NAME, "the hook payload would not read")
+    process.stderr.write(`${unread.err}\n`)
+    return unread.code
   }
   const held = payload as {
     readonly tool_input?: { readonly command?: unknown }

@@ -8,7 +8,7 @@ import {
   SCOPE_FLAG,
   said,
   toldOf,
-  UNREADABLE,
+  unreadable,
 } from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
 import {
   basenameOf,
@@ -136,15 +136,9 @@ export function underASubagent(payload: Record<string, unknown>): boolean {
   return typeof held === "string" && held.trim() !== ""
 }
 
-export const UNREAD: Answer = {
-  out: "",
-  err: `${HOOK}: the hook payload would not read, so nothing was judged`,
-  code: UNREADABLE,
-}
-
 export function answerFor(raw: string): Answer {
   const payload = payloadIn(raw)
-  if (payload === null) return UNREAD
+  if (payload === null) return unreadable(HOOK, "the hook payload would not read")
   if (!underASubagent(payload)) return LET_THROUGH
   const runs = inputIn(payload)?.[RUNS]
   if (typeof runs !== "string" || runs === "") return LET_THROUGH

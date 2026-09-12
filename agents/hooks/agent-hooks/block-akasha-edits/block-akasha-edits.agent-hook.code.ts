@@ -3,7 +3,7 @@ import {
   payloadIn,
   REFUSED,
   SCOPE_FLAG,
-  UNREADABLE,
+  unreadable,
 } from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
 import { shownIn } from "akasha/agents/hooks/path-showing/path-showing.module.code.ts"
 import { insideOf, settled } from "akasha/agents/hooks/settling/settling.module.code.ts"
@@ -181,10 +181,9 @@ async function main(): Promise<number> {
   if (raw.trim() === "") return 0
   const asked = askedIn(raw)
   if (asked === null) {
-    process.stderr.write(
-      `${HOOK_NAME}: the hook payload would not read, so nothing was judged and the call was not refused\n`
-    )
-    return UNREADABLE
+    const unread = unreadable(HOOK_NAME, "the hook payload would not read")
+    process.stderr.write(`${unread.err}\n`)
+    return unread.code
   }
   const said = refusalFor(asked, rootOf(import.meta.path), process.cwd())
   if (said === null) return 0

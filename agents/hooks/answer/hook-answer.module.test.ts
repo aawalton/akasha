@@ -10,6 +10,7 @@ import {
   rewriting,
   toolInputIn,
   UNREADABLE,
+  unreadable,
 } from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
 
 const HOOK = "a-hook"
@@ -48,6 +49,14 @@ test("a payload that will not parse is answered as unreadable, and nothing is ju
   expect(said.answer.err).toContain(HOOK)
   expect(said.answer.err).toContain("would not parse")
   expect(said.answer.out).toBe("")
+})
+
+test("what is said of an unreadable payload says the dispatch refuses the call", () => {
+  const held = unreadable(HOOK, "the hook payload would not read")
+  expect(held.code).toBe(UNREADABLE)
+  expect(held.err).toContain("the dispatch refuses the call")
+  expect(held.err).not.toContain("the call was not refused")
+  expect(held.out).toBe("")
 })
 
 test("a payload that is not an object is answered as unreadable", () => {
