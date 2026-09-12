@@ -45,8 +45,6 @@ const NARROWED = 0o600
 
 export const PUSHED_KEYS: readonly string[] = [ACCESS_KEY, REFRESH_KEY]
 
-export const RESCUED_KEY = RESCUED
-
 export type Credential = {
   readonly slug: string
   readonly accessToken: string
