@@ -6,6 +6,7 @@ export const inferenceActivate = {
   slug: "inference-activate",
   definition: "the command making one pool service the resident the traffic cop serves",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -26,6 +27,10 @@ export const inferenceActivate = {
     {
       invariantKind: "absence",
       statement: "Nothing here provisions the service or starts the cop.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal after the swap was posted says the swap was posted.",
     },
   ],
   name: "activate",

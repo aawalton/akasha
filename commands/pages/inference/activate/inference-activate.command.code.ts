@@ -15,7 +15,23 @@ import {
   findCop,
 } from "akasha/infrastructure/inference/pool/cop-admin/cop-admin.module.code.ts"
 
-export async function inferenceActivate(argv: readonly string[]): Promise<Answer> {
+export type Residing = (done: string[], name: string) => Promise<Answer>
+
+async function resided(done: string[], name: string): Promise<Answer> {
+  const cop = findCop()
+  if (!cop.poolNames.includes(name)) {
+    return refusedBy([
+      `\`${name}\` is no pool service — the pool carries ${cop.poolNames.join(", ")}`,
+    ])
+  }
+  const resident = await copActivate(done, cop, name)
+  return told([`resident\t${resident.join(", ")}`])
+}
+
+export async function inferenceActivate(
+  argv: readonly string[],
+  residing: Residing = resided
+): Promise<Answer> {
   const said = wordsIn(argv, [], [])
   if (wasRefused(said)) return refusedBy(said.refused)
 
@@ -26,14 +42,5 @@ export async function inferenceActivate(argv: readonly string[]): Promise<Answer
     return refusedBy(["this names the pool service made resident, and nothing did"])
   }
 
-  return await answering(async () => {
-    const cop = findCop()
-    if (!cop.poolNames.includes(name)) {
-      return refusedBy([
-        `\`${name}\` is no pool service — the pool carries ${cop.poolNames.join(", ")}`,
-      ])
-    }
-    const resident = await copActivate(cop, name)
-    return told([`resident\t${resident.join(", ")}`])
-  })
+  return await answering(async (done) => await residing(done, name))
 }

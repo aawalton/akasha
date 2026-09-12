@@ -16,5 +16,9 @@ export const copAdmin = {
       statement:
         "A cop that answers something other than the expected answer is raised as an operational failure.",
     },
+    {
+      invariantKind: "departure",
+      statement: "An activate posted is named before its answer is read, since that read can fail.",
+    },
   ],
 } as const satisfies Module

@@ -40,15 +40,17 @@ const ActivateSchema = z.union([
   z.object({ error: z.string() }).strict(),
 ])
 
-async function copCurl<T>(cop: CopHandle, curl: string, schema: z.ZodType<T>): Promise<T> {
-  let out: string
+async function copSaid(cop: CopHandle, curl: string): Promise<string> {
   try {
-    out = await runSshCapture(cop.target, curl)
+    return await runSshCapture(cop.target, curl)
   } catch (err) {
     throw new OperationalError(
       `traffic cop admin not reachable on ${cop.target.host}:${cop.adminPort} — is it running? (${String(err)})`
     )
   }
+}
+
+function copRead<T>(cop: CopHandle, out: string, schema: z.ZodType<T>): T {
   try {
     return schema.parse(JSON.parse(out))
   } catch {
@@ -56,6 +58,10 @@ async function copCurl<T>(cop: CopHandle, curl: string, schema: z.ZodType<T>): P
       `traffic cop returned an unexpected response on ${cop.target.host}:${cop.adminPort}: ${out.slice(0, 200)}`
     )
   }
+}
+
+async function copCurl<T>(cop: CopHandle, curl: string, schema: z.ZodType<T>): Promise<T> {
+  return copRead(cop, await copSaid(cop, curl), schema)
 }
 
 export async function copActive(cop: CopHandle): Promise<readonly string[]> {
@@ -67,10 +73,23 @@ export async function copActive(cop: CopHandle): Promise<readonly string[]> {
   return parsed.resident
 }
 
-export async function copActivate(cop: CopHandle, name: string): Promise<readonly string[]> {
+export function askedToActivateSaid(name: string, host: string): string {
+  return (
+    `the traffic cop on ${host} was asked to make ${name} resident, ` +
+    "and whatever the pool held before that may already be evicted"
+  )
+}
+
+export async function copActivate(
+  done: string[],
+  cop: CopHandle,
+  name: string
+): Promise<readonly string[]> {
   const body = JSON.stringify({ name })
   const curl = `curl -sS -m 300 -X POST http://127.0.0.1:${cop.adminPort}/activate -H 'content-type: application/json' -d '${body}'`
-  const parsed = await copCurl(cop, curl, ActivateSchema)
+  const out = await copSaid(cop, curl)
+  done.push(askedToActivateSaid(name, cop.target.host))
+  const parsed = copRead(cop, out, ActivateSchema)
   if ("error" in parsed) {
     throw new OperationalError(`traffic cop: ${parsed.error}`)
   }
