@@ -11,7 +11,7 @@ export const athenaCommandTree = {
     {
       statement: "One check judges the whole command tree.",
       workingMemory:
-        "`command-is-named-by-its-place-in-the-tree` is the one check. It judges the parts of every changed page under commands (`a9a6e9e1bbe`), owns the test its group owes (`46cece2f178`), and says what it reaches (`e54f512edde`). The twelve misplaced modules are not Alan's — widening what an approved check reaches needs no approval — so they move under their lowest importing command and the check widens behind them. Alan's: six namespaces hold one part where the gap says more.",
+        "`command-is-named-by-its-place-in-the-tree` is the one check. Eleven modules moved and the check widened (`169167e8c1ae`): a module sits directly inside the lowest level every page under `commands/pages` reaching it sits under, one reached across namespaces sits in `commands/modules`, a reader outside `commands/pages` is not counted, and it now dispatches on TypeScript bodies under `commands/`. The one-part gap became a meaning test (`f2c07288812`) only `google-auth` fails.\n",
     },
     {
       statement:

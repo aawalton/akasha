@@ -17,7 +17,7 @@ export const athenaCommandModules = {
       statement:
         "A command that wrote before it threw says in its refusal what that command wrote.",
       workingMemory:
-        "The four refusals that stated a falsehood are mended: `applying` names the commit and drops the folded edits (`960b8da613c3`), `audit` and `audit-answering` name each round that ran (`a970ead831c6`), and `page-secret-acting` names its commit (`6284dba36f22`). A sweep judged 107 of 236 command files and closed five; 38 in those 107 still write before they throw and name nothing. The other 129 are under sweep now.",
+        "Five refusals that stated a falsehood are mended (`960b8da613c3`, `a970ead831c6`, `6284dba36f22`). All 236 command files are judged: 33 of the last 128 still write then throw silently. The cause is rarely a missing `answering` — 46 calls under `commands/pages` hand in a lambda ignoring `done`, and 16 of those call a decoy `answering` at `inventory-rule-calling.module.code.ts:363` building `report: []`, which could never fill one. Killing the decoy mends sixteen at once.\n",
     },
   ],
   constraints: [

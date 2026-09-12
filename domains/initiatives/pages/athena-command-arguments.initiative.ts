@@ -38,7 +38,7 @@ export const athenaCommandArguments = {
     {
       statement: "One spelling names one argument, and one argument has one spelling.",
       workingMemory:
-        "Every alias a command page declared is gone — sixteen landings, `7f192eb50ad` through `99d2e372171`, ending `--out`, `--in`, `-r`, `--aspect`, `--ref`, `--prompt` and `--output` across nine inference commands. `-r` was the only short form any command declared. Left: `--last` is a count at `measure-changes.command.ts:13` and true-or-false at `track-session-drop.command.ts:15`; `--to` names a recipient, a list position and a window end; `--target` names two. Which meaning keeps `--last`?",
+        "Every alias is gone — sixteen landings, `7f192eb50ad` through `99d2e372171`. Measured at `e659f26d471`: 37 spellings carry more than one `takes` sentence, about 25 of them genuinely more than one argument. `--query` names five things, `--from` four, `--file-path` four over 13 commands, `--message` a Gmail id and a commit message. No command names two arguments alike, so no call site is ambiguous. `--last`, `--to`, `--target` and `--prompt` each wait on Alan.\n",
     },
   ],
 } as const satisfies Initiative
