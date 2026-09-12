@@ -17,10 +17,6 @@ import {
   parseLokiPositiveInt,
 } from "akasha/infrastructure/services/clusters/loki-log-fetching/loki-log-fetching.module.code.ts"
 
-export const LOGS = "logs"
-
-const ACTS = [LOGS]
-
 const POD = "--pod"
 
 const NAMESPACE = "--namespace"
@@ -84,23 +80,10 @@ export function readIn(argv: readonly string[]): Read {
     }
     words.push(one)
   }
-  const act = words[0]
-  if (act === undefined) {
-    return { refused: [...refusals, `this names no act — it carries \`${ACTS.join("`, `")}\``] }
+  if (words.length > 1) {
+    refusals.push(`\`${words[1]}\` follows the pod, and one call names one pod`)
   }
-  if (!ACTS.includes(act)) {
-    return {
-      refused: [
-        ...refusals,
-        `\`${act}\` is no act this carries — it carries \`${ACTS.join("`, `")}\``,
-      ],
-    }
-  }
-  const rest = words.slice(1)
-  if (rest.length > 1) {
-    refusals.push(`\`${rest[1]}\` follows the pod, and one call names one act and one pod`)
-  }
-  const loose = rest[0]
+  const loose = words[0]
   if (loose !== undefined) {
     if (said.has(POD)) {
       refusals.push(`\`${loose}\` sits where the pod goes, and \`${POD}\` already names one`)
@@ -109,7 +92,9 @@ export function readIn(argv: readonly string[]): Read {
     }
   }
   const pod = said.get(POD)
-  if (pod === undefined) refusals.push(`\`${LOGS}\` names a pod, and none was said`)
+  if (pod === undefined) {
+    refusals.push(`the pod is said as the first word or with \`${POD}\`, and neither was said`)
+  }
   const namespace = said.get(NAMESPACE) ?? NAMESPACE_BY_DEFAULT
   const since = said.get(SINCE) ?? SINCE_BY_DEFAULT
   try {
@@ -138,7 +123,8 @@ async function boundingLine(
   read: Exclude<Read, { refused: readonly string[] }>,
   lines: readonly LogEntry[],
   isDone: boolean,
-  cursor: string | null
+  cursor: string | null,
+  calledAs: string
 ): Promise<string> {
   const { pod, namespace, since, limit } = read
   const older = isDone ? await hasLinesBeforeWindow({ pod, namespace, since }) : null
@@ -147,7 +133,7 @@ async function boundingLine(
       ? (await findPodNamespaces({ pod, since })).filter((one) => one !== namespace)
       : []
   const diagnostic = chooseLogsDiagnostic({
-    command: "akasha infrastructure loki logs",
+    command: calledAs,
     pod,
     namespace,
     since,
@@ -168,7 +154,10 @@ async function boundingLine(
   })
 }
 
-async function fetching(read: Exclude<Read, { refused: readonly string[] }>): Promise<Answer> {
+async function fetching(
+  read: Exclude<Read, { refused: readonly string[] }>,
+  calledAs: string
+): Promise<Answer> {
   const { pod, namespace, since, limit, cursor } = read
   const fetched = read.all
     ? {
@@ -178,15 +167,15 @@ async function fetching(read: Exclude<Read, { refused: readonly string[] }>): Pr
       }
     : await fetchLokiLogs({ pod, namespace, since, limit, cursor })
   const report = fetched.lines.map((one) => JSON.stringify(one))
-  report.push(await boundingLine(read, fetched.lines, fetched.isDone, fetched.cursor))
+  report.push(await boundingLine(read, fetched.lines, fetched.isDone, fetched.cursor, calledAs))
   return { report, refusals: [], code: 0 }
 }
 
-export async function infrastructureLoki(argv: readonly string[], _given: Given): Promise<Answer> {
+export async function infrastructureLoki(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
   try {
-    return await fetching(read)
+    return await fetching(read, given.calledAs)
   } catch (thrown) {
     const carried = exitCodeForThrowable(thrown)
     return refused(whyOf(thrown), carried === 70 ? 3 : carried)

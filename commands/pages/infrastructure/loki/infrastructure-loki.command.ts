@@ -9,7 +9,6 @@ export const infrastructureLoki = {
   test: "ts",
   changeKind: "change-none",
   taking: [
-    { said: "logs", takes: "the act, which is the lines Loki holds for a pod" },
     { said: "<pod>", takes: "the pod name to match as a prefix, said here where no flag names it" },
     { said: "--pod <name>", takes: "the pod name to match as a prefix, read as a literal string" },
     {
