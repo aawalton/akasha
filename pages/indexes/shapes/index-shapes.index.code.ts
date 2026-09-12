@@ -123,6 +123,7 @@ export function shapesIn(values: Iterable<Value>): ReadonlyMap<string, Shape> {
       propertySlug,
       fileName: textAt(value, "fileName"),
       folderName: textAt(value, "folderName"),
+      sorted: value["sorted"] === true,
     })
   }
   return found

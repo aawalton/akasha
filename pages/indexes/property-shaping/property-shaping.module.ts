@@ -27,6 +27,14 @@ export const propertyShaping = {
     },
     {
       invariantKind: "departure",
+      statement: "A shape says whether its property keeps its values in the order they sort in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property saying nothing about that order says false here rather than nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The first value a property is filed under answers for that property.",
     },
     {

@@ -10,6 +10,8 @@ import { slugAt, textAt } from "akasha/pages/value-reading/page-value-reading.mo
 
 const PAGE_PROPERTY = "page-property"
 
+const SORTED = "sorted"
+
 function shapesIn(reading: Reading): ReadonlyMap<string, Shape> {
   const found = new Map<string, Shape>()
   for (const kind of kindsUnder(PAGE_PROPERTY, reading)) {
@@ -30,6 +32,7 @@ function shapesIn(reading: Reading): ReadonlyMap<string, Shape> {
         propertySlug,
         fileName: textAt(held, "fileName"),
         folderName: textAt(held, "folderName"),
+        sorted: held[SORTED] === true,
       })
     }
   }

@@ -218,6 +218,7 @@ const CARRIED: readonly (readonly [string, string])[] = [
   ["uniquePropertySlug", "uniqueProperty"],
   ["fileName", "fileName"],
   ["folderName", "folderName"],
+  ["sorted", "sorted"],
 ]
 
 function shapeSaid(said: Record<string, unknown>): Record<string, unknown> {

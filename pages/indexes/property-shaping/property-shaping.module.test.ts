@@ -35,6 +35,7 @@ const PART_SLUGS = {
   propertySlug: "part-slugs",
   fileName: null,
   folderName: null,
+  sorted: false,
 }
 
 const TEXT_FOO = { ...PART_SLUGS, pageTypeSlug: "text-property", slug: "foo", propertySlug: "foo" }
@@ -57,6 +58,17 @@ test("a value saying nothing of a field carries that field as null", () => {
   expect(one?.unique).toBe(null)
   expect(one?.fileName).toBe(null)
   expect(one?.folderName).toBe(null)
+})
+
+test("a property saying it is sorted carries that, and one saying nothing carries false", () => {
+  const root = declaring("akasha-shaping-sorted-", [
+    { pageTypeSlug: "relation-property", slug: "parts", propertySlug: "parts", sorted: true },
+    { pageTypeSlug: "relation-property", slug: "intents", propertySlug: "intents" },
+  ])
+  const held = shapesAt(root)
+
+  expect(held.get("relation-property/parts")?.sorted).toBe(true)
+  expect(held.get("relation-property/intents")?.sorted).toBe(false)
 })
 
 test("a value carries the key a page reads the property by", () => {

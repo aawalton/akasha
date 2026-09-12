@@ -375,6 +375,7 @@ export function sourceOver(values: readonly Value[]): Source {
       propertySlug,
       fileName: textAt(value, "fileName"),
       folderName: textAt(value, "folderName"),
+      sorted: value["sorted"] === true,
     })
   }
   return {
