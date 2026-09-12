@@ -7,6 +7,10 @@ import type { Taking } from "akasha/commands/properties/taking.record-property.t
 
 const TAKING = "taking"
 
+const ARGUMENTS = "arguments"
+
+const ARGUMENT = "argument"
+
 const INVARIANTS = "invariants"
 
 const STATEMENT = "statement"
@@ -47,14 +51,43 @@ export function statementsIn(page: Record<string, unknown>, notYet: ReadonlySet<
   return { holds, notYet: later }
 }
 
+export function argumentsIn(page: Record<string, unknown>): readonly string[] {
+  const held = page[ARGUMENTS]
+  if (!Array.isArray(held)) return []
+  const named: string[] = []
+  for (const one of held) {
+    if (typeof one !== "object" || one === null) continue
+    const said = (one as Record<string, unknown>)[ARGUMENT]
+    if (typeof said === "string") named.push(said)
+  }
+  return named
+}
+
+function merged(taking: Taking, named: Taking): Taking {
+  const bySaid = new Map(named.map((one) => [one.said, one]))
+  const held: Taking[number][] = []
+  const seen = new Set<string>()
+  for (const one of taking) {
+    held.push(bySaid.get(one.said) ?? one)
+    seen.add(one.said)
+  }
+  for (const one of named) if (!seen.has(one.said)) held.push(one)
+  return held
+}
+
 export function surfaceOf(
   page: Record<string, unknown> | null,
-  notYet: ReadonlySet<string>
+  notYet: ReadonlySet<string>,
+  named: Taking
 ): Surface | null {
   if (page === null) return null
   const taking = page[TAKING]
-  if (!Array.isArray(taking)) return null
-  return { taking: taking as Taking, ...statementsIn(page, notYet) }
+  const states = Array.isArray(taking)
+  if (!states && !Array.isArray(page[ARGUMENTS])) return null
+  return {
+    taking: merged(states ? (taking as Taking) : [], named),
+    ...statementsIn(page, notYet),
+  }
 }
 
 export function helpOf(

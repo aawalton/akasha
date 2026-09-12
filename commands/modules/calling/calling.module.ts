@@ -137,6 +137,14 @@ export const calling = {
     },
     {
       invariantKind: "departure",
+      statement: "The argument pages a command names are read here and handed to the help answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An argument name reaching no one page is written into no help answer.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The invariant kinds that do not hold yet are the kinds naming the intent group.",
     },
     {

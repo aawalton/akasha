@@ -1,6 +1,7 @@
 import { createRequire } from "node:module"
 import { join, resolve } from "node:path"
 import { costRecorded, opening } from "akasha/checks/modules/cost/check-cost.module.code.ts"
+import { argumentsNamed } from "akasha/commands/arguments/argument-naming/argument-naming.module.code.ts"
 import {
   DATA,
   INPUT,
@@ -272,7 +273,7 @@ async function answeredBy(
   }
   const page = pageIn(root, level.path, named)
   if (argv[0] === HELP || argv[0] === HELP_SHORT) {
-    const surface = surfaceOf(page, notYetIn(root))
+    const surface = surfaceOf(page, notYetIn(root), argumentsNamed(root, page))
     if (surface !== null) {
       const rules = [
         ...rulesAbove(levelsIn(root, levelTypesIn(root)), above),

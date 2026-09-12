@@ -77,6 +77,7 @@ export type Named = {
   readonly surface?: Surface
   readonly taking?: Surface["taking"]
   readonly directives?: Ruled
+  readonly arguments?: readonly string[]
 }
 
 export function rootWith(
@@ -109,10 +110,14 @@ export function rootWith(
     const parted = one.parts === undefined ? "" : `, parts: ${JSON.stringify(one.parts)}`
     const ruled =
       one.directives === undefined ? "" : `, directives: ${JSON.stringify(one.directives)}`
+    const argued =
+      one.arguments === undefined
+        ? ""
+        : `, arguments: ${JSON.stringify(one.arguments.map((argument) => ({ argument })))}`
     writeFileSync(
       join(root, at),
       `export const ${exportedAs(one.slug)} = ` +
-        `{ slug: "${one.slug}"${called}${stated}${shown}${parted}${ruled} }\n`
+        `{ slug: "${one.slug}"${called}${stated}${shown}${parted}${ruled}${argued} }\n`
     )
     writeFileSync(join(root, `${at.slice(0, -".ts".length)}.code.ts`), one.body)
     minted = minted + 1
@@ -216,6 +221,36 @@ export function draftUnderChange(): string {
     },
   ])
   return root
+}
+
+export const ARGUMENT = "argument"
+
+export const ARGUMENT_TYPE = "01a093fd-9102-76e8-958e-03d34cd41e25"
+
+export type Taken = {
+  readonly slug: string
+  readonly said?: string
+  readonly takes?: string
+}
+
+export function argumentsFiled(root: string, taken: readonly Taken[]): undefined {
+  noneOfTypeFiled(root, ARGUMENT)
+  idFiled(root, ARGUMENT_TYPE, [
+    { path: `akasha/command-system/argument/${ARGUMENT}.page-type.ts`, id: ARGUMENT_TYPE },
+  ])
+  let minted = 0
+  for (const one of taken) {
+    const at = `akasha/command-system/argument/pages/${one.slug}.argument.ts`
+    minted = minted + 1
+    const id = `01a093fd-0000-7000-8000-00000000000${minted}`
+    listedFiled(root, ARGUMENT, one.slug, [{ path: at, id }])
+    valueAlsoFiled(root, ARGUMENT, [
+      {
+        path: at,
+        value: { id, pageTypeSlug: ARGUMENT, slug: one.slug, said: one.said, takes: one.takes },
+      },
+    ])
+  }
 }
 
 export function bootstrapped(root: string): undefined {

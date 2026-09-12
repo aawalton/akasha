@@ -22,7 +22,35 @@ export const helpWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "A page stating nothing taken has none.",
+      statement: "A page naming the arguments it takes has a surface.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page stating nothing taken and naming no argument has none.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An argument a page names and states the taking of too is written down once.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That one line says what the argument's own page says the argument is for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "It keeps the place the taking gave it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An argument the taking does not state is written under the ones it states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A taking emptied of an argument still writes that argument down.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "What an argument is for is handed in rather than read off that argument's page.",
     },
     {
       invariantKind: "departure",
