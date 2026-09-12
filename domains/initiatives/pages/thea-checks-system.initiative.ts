@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "No finding is filed on checks-system or any part beneath it.",
       workingMemory:
-        "3 name the check domain, from 17, and the lua-runtime one is out of scope: its subject states experimental. a-new-unique-property-costs-the-gate-minutes went at 11229d9e2e, retried and measured: a settle over the real index with a property's unique turned on costs 0.80 processor seconds against 0.33 with none, and a whole apply carrying that change took 15 seconds, the check answering in 5 ms. The two left wait on a deploy gate from a tracked-tree install and on an install that prunes.",
+        "2 in scope, from 17. Two more are out: a-name-place-check-reaches-the-vendored-lua-runtime, whose subject states experimental, and thirteen-flat-pages-folders, filed on folder-matches-a-shape, which states experimental as well. five-rows-of-a-model-tests-cases went at c39d1602929, relation-resolves refusing no row of it now. The two left are the deploy gate, whose frozen-install half inverted under the root manifest's glob, and the install that prunes.",
     },
     {
       statement: "No gap invariant is written on checks-system or any part beneath it.",
