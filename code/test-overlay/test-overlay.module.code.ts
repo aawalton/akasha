@@ -12,6 +12,8 @@ const WORK = "work"
 
 const MERGED = "merged"
 
+const HOMED = "home"
+
 export const MOUNTED = "AKASHA_MERGED"
 
 const MOUNTING = "mount.sh"
@@ -69,7 +71,8 @@ export function mountedOver(root: string, bodies: Bodies): Overlay {
     const upper = join(held, UPPER)
     const work = join(held, WORK)
     const merged = join(held, MERGED)
-    for (const one of [upper, work, merged]) mkdirSync(one)
+    const homed = join(held, HOMED)
+    for (const one of [upper, work, merged, homed]) mkdirSync(one)
     const taken: string[] = []
     for (const [one, body] of Object.entries(bodies)) {
       if (body === null) {
@@ -93,6 +96,7 @@ export function mountedOver(root: string, bodies: Bodies): Overlay {
         AKASHA_WORK: work,
         [MOUNTED]: merged,
         AKASHA_TAKEN: listed,
+        HOME: homed,
       },
       under: (argv: readonly string[]): readonly string[] => [...OWN, shim, ...argv],
       sweep: (): undefined => {

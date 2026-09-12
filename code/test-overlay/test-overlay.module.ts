@@ -59,6 +59,15 @@ export const testOverlay = {
     },
     {
       invariantKind: "departure",
+      statement: "A run under the mount has a home of its own, which the sweep takes away.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A link a page states under `~` is placed in that home rather than in the real home.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A path reaching outside the checkout refuses the mount.",
     },
     {

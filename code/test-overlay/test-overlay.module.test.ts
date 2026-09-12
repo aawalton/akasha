@@ -90,6 +90,23 @@ test("a run begins in the mounted tree rather than in the checkout", () => {
   }
 })
 
+test("a run under a mount has a home of its own, and the sweep takes that home away", () => {
+  const root = checkout()
+  const over = mountedOver(root, {})
+  const homed = String(over.env.HOME)
+  try {
+    const said = ran(over.under(["sh", "-c", 'printf %s "$HOME"']), {
+      cwd: root,
+      env: { ...process.env, ...over.env },
+    })
+    expect(said.out).toBe(homed)
+    expect(homed).not.toBe(process.env.HOME)
+  } finally {
+    over.sweep()
+  }
+  expect(ran(["test", "-e", homed]).code).not.toBe(0)
+})
+
 test("a path reaching outside the checkout refuses the mount", () => {
   expect(() => mountedOver(checkout(), { "../away.txt": "no" })).toThrow(/reaches outside/)
   expect(() => mountedOver(checkout(), { "/etc/away.txt": "no" })).toThrow(/reaches outside/)
