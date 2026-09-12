@@ -34,7 +34,7 @@ export const modelGatewayStatus = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag `model-gateway status` does not take is refused by name.",
+      statement: "A flag `model gateway status` does not take is refused by name.",
     },
     {
       invariantKind: "departure",
