@@ -1,16 +1,23 @@
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { char as charArgument } from "akasha/commands/arguments/pages/char.argument.ts"
+import { charactersPath as charactersPathArgument } from "akasha/commands/arguments/pages/characters-path.argument.ts"
+import { inventoryPath as inventoryPathArgument } from "akasha/commands/arguments/pages/inventory-path.argument.ts"
+import { item as itemArgument } from "akasha/commands/arguments/pages/item.argument.ts"
+import { json as jsonArgument } from "akasha/commands/arguments/pages/json.argument.ts"
 import {
   asJson,
   DATA,
   INPUT,
   OPERATIONAL,
   refused,
-  refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { temperInventoryExplain as page } from "akasha/commands/pages/temper/inventory/explain/temper-inventory-explain.command.ts"
 import type { CharacterKnowledge } from "akasha/temper/commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import {
   allBagItems,
@@ -37,79 +44,21 @@ import type {
 import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
 import { wholeNumberIn } from "akasha/utils/narrow/whole-number-in/whole-number-in.module.code.ts"
 
-const INVENTORY_PATH = "--inventory-path"
+const NAMED = [
+  jsonArgument,
+  inventoryPathArgument,
+  charactersPathArgument,
+  charArgument,
+  itemArgument,
+]
 
-const CHARACTERS_PATH = "--characters-path"
-
-const CHAR = "--char"
-
-const JSON_FLAG = "--json"
+const CHAR = charArgument.said
 
 const INVENTORY_LUA = "TemperInventory.lua"
 
 const CHARACTERS_LUA = "TemperCharacters.lua"
 
 const MASTER = "master"
-
-const TAKING_A_VALUE = [INVENTORY_PATH, CHARACTERS_PATH, CHAR]
-
-export type Read =
-  | {
-      readonly named: string
-      readonly inventoryPath: string | null
-      readonly charactersPath: string | null
-      readonly charId: string | null
-      readonly json: boolean
-    }
-  | { readonly refused: readonly string[] }
-
-export function readIn(argv: readonly string[]): Read {
-  const refusals: string[] = []
-  const held = new Map<string, string>()
-  let named: string | null = null
-  let json = false
-  for (let at = 0; at < argv.length; at += 1) {
-    const one = argv[at]
-    if (one === undefined) continue
-    if (one === JSON_FLAG) {
-      json = true
-      continue
-    }
-    if (TAKING_A_VALUE.includes(one)) {
-      const value = argv[at + 1]
-      at += 1
-      if (value === undefined) {
-        refusals.push(`\`${one}\` takes a value, and none followed it`)
-        continue
-      }
-      held.set(one, value)
-      continue
-    }
-    if (one.startsWith("--")) {
-      refusals.push(
-        `\`${one}\` is no flag this takes — it takes \`${INVENTORY_PATH}\`, ` +
-          `\`${CHARACTERS_PATH}\`, \`${CHAR}\` and \`${JSON_FLAG}\``
-      )
-      continue
-    }
-    if (named !== null) {
-      refusals.push(`\`${one}\` follows the item already named, and one call traces one item`)
-      continue
-    }
-    named = one
-  }
-  if (named === null) {
-    refusals.push("this names no item — it takes an item id or a whole ESO item link")
-  }
-  if (refusals.length > 0 || named === null) return { refused: refusals }
-  return {
-    named,
-    inventoryPath: held.get(INVENTORY_PATH) ?? null,
-    charactersPath: held.get(CHARACTERS_PATH) ?? null,
-    charId: held.get(CHAR) ?? null,
-    json,
-  }
-}
 
 function rejectionSaid(reason: RejectionReason): string {
   if (reason.kind === "category-mismatch") {
@@ -258,25 +207,28 @@ async function walkedFor(
 }
 
 export async function temperInventoryExplain(
-  argv: readonly string[] = [],
-  given?: Given
+  argv: readonly string[],
+  given: Given
 ): Promise<Answer> {
-  const read = readIn(argv)
-  if ("refused" in read) return refusedBy(read.refused)
+  const read = takenFor(argv, given.calledAs, page, NAMED)
+  if ("refused" in read) return mistaking(read.refused)
+  const taken = read.taken
 
   const caps = await explainCapabilities()
-  const itemId = wholeNumberIn(read.named) ?? caps.parseItemLink(read.named)?.itemId ?? null
+  const itemId = wholeNumberIn(taken.item) ?? caps.parseItemLink(taken.item)?.itemId ?? null
   if (itemId === null) {
-    return refused(`\`${read.named}\` reads as neither an item id nor an item link`, INPUT)
+    return refused(`\`${taken.item}\` reads as neither an item id nor an item link`, INPUT)
   }
 
-  const root = given === undefined ? process.cwd() : resolve(given.root)
+  const root = resolve(given.root)
   const inventoryPath =
-    read.inventoryPath === null ? savedVarsFile(INVENTORY_LUA) : resolve(root, read.inventoryPath)
+    taken.inventoryPath === undefined
+      ? savedVarsFile(INVENTORY_LUA)
+      : resolve(root, taken.inventoryPath)
   const charactersPath =
-    read.charactersPath === null
+    taken.charactersPath === undefined
       ? savedVarsFile(CHARACTERS_LUA)
-      : resolve(root, read.charactersPath)
+      : resolve(root, taken.charactersPath)
 
   let content: string
   try {
@@ -286,16 +238,16 @@ export async function temperInventoryExplain(
   }
 
   const db = caps.parseInventoryContent(content)
-  if (read.charId !== null && db.locations[read.charId] === undefined) {
+  if (taken.char !== undefined && db.locations[taken.char] === undefined) {
     const known = Object.keys(db.locations)
     return refused(
-      `\`${CHAR} ${read.charId}\` names no scanned location — ${inventoryPath} holds ` +
+      `\`${CHAR} ${taken.char}\` names no scanned location — ${inventoryPath} holds ` +
         `${known.length === 0 ? "none" : known.join(", ")}`,
       INPUT
     )
   }
 
-  const resolved = resolveItemFromInventory(caps, db, itemId, read.charId ?? undefined)
+  const resolved = resolveItemFromInventory(caps, db, itemId, taken.char)
   if (resolved === undefined) {
     return refused(
       `no scan in ${inventoryPath} holds item ${String(itemId)}, so there is no walk to trace`,
@@ -310,6 +262,6 @@ export async function temperInventoryExplain(
     return refused(whyOf(thrown), OPERATIONAL)
   }
 
-  if (read.json) return asJson(out)
+  if (taken.json) return asJson(out)
   return told(formatExplainWalk(out).replace(/\n+$/, "").split("\n"))
 }
