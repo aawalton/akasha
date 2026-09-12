@@ -9,7 +9,7 @@ import {
   refusedBy,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { starting } from "akasha/commands/pages/infrastructure/dev-server/dev-server-running/dev-server-running.module.code.ts"
+import { starting } from "akasha/commands/pages/infrastructure/dev-server/modules/dev-server-running/dev-server-running.module.code.ts"
 import { infrastructureDevServerStart as page } from "akasha/commands/pages/infrastructure/dev-server/start/infrastructure-dev-server-start.command.ts"
 import { namingApps } from "akasha/infrastructure/services/web-apps/dev-server-stating/dev-server-stating.module.code.ts"
 

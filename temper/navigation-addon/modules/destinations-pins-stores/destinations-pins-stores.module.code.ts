@@ -1,10 +1,4 @@
 import {
-  ACH_IDS as AchIDsData,
-  COLLECTIBLE_IDS as CollectibleIDsData,
-  FISH_IDS as FishIDsData,
-  FISH_LOCS as FishLocsData,
-} from "akasha/temper/navigation-addon/destinations-shared-data-ids/destinations-shared-data-ids.module.code.ts"
-import {
   CHAMPION_TABLE_INDEX,
   CHAMPION_TABLE_STORE,
 } from "akasha/temper/navigation-addon/modules/destinations-champions-data/destinations-champions-data.module.code.ts"
@@ -24,6 +18,12 @@ import {
   ACH_DATA_STORE,
   QOL_DATA_STORE,
 } from "akasha/temper/navigation-addon/modules/destinations-shared-data/destinations-shared-data.module.code.ts"
+import {
+  ACH_IDS as AchIDsData,
+  COLLECTIBLE_IDS as CollectibleIDsData,
+  FISH_IDS as FishIDsData,
+  FISH_LOCS as FishLocsData,
+} from "akasha/temper/navigation-addon/modules/destinations-shared-data-ids/destinations-shared-data-ids.module.code.ts"
 
 export type AchRow = (number | string)[]
 export type ChampionRow = number[]

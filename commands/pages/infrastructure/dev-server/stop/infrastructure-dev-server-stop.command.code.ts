@@ -9,7 +9,7 @@ import {
   refusedBy,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { stopping } from "akasha/commands/pages/infrastructure/dev-server/dev-server-running/dev-server-running.module.code.ts"
+import { stopping } from "akasha/commands/pages/infrastructure/dev-server/modules/dev-server-running/dev-server-running.module.code.ts"
 import { infrastructureDevServerStop as page } from "akasha/commands/pages/infrastructure/dev-server/stop/infrastructure-dev-server-stop.command.ts"
 
 export async function infrastructureDevServerStop(

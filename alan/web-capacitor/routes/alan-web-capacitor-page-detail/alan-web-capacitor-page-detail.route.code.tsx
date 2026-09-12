@@ -10,7 +10,7 @@ import { useIsOnline } from "akasha/alan/web/use-is-online/use-is-online.module.
 import { useMediaVariants } from "akasha/alan/web/use-media-variants/use-media-variants.module.code.ts"
 import { useNextUnreadHref } from "akasha/alan/web/use-next-unread/use-next-unread.module.code.ts"
 import { NotFoundNotice } from "akasha/alan/web-capacitor/not-found-notice/not-found-notice.module.code.tsx"
-import { resolveDisplayKind } from "akasha/pages/core/schema/detail-config/detail-config.module.code.ts"
+import { resolveDisplayKind } from "akasha/pages/core/schema/modules/detail-config/detail-config.module.code.ts"
 import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import { getPageDisplay } from "akasha/pages/ui/capabilities/page-display-registry/page-display-registry.module.code.ts"
 import { ViewPageContent } from "akasha/pages/ui/components/view-page-content/view-page-content.module.code.tsx"

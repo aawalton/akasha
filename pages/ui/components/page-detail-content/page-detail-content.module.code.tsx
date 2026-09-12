@@ -3,7 +3,7 @@
 import type { SentenceMark } from "akasha/alan/harness/voice-core/mark-schema/mark-schema.module.code.ts"
 import { PageLayout } from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
 import { simplePageSkeleton } from "akasha/design/interfaces/layout/skeleton-presets/skeleton-presets.module.code.ts"
-import { resolveDisplayKind } from "akasha/pages/core/schema/detail-config/detail-config.module.code.ts"
+import { resolveDisplayKind } from "akasha/pages/core/schema/modules/detail-config/detail-config.module.code.ts"
 import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import { PageCollectionContent } from "akasha/pages/ui/components/page-collection-content/page-collection-content.module.code.tsx"
 import { PageDefaultContent } from "akasha/pages/ui/components/page-default-content/page-default-content.module.code.tsx"

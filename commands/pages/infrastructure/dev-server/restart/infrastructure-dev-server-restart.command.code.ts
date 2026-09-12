@@ -13,7 +13,7 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import {
   starting,
   stopping,
-} from "akasha/commands/pages/infrastructure/dev-server/dev-server-running/dev-server-running.module.code.ts"
+} from "akasha/commands/pages/infrastructure/dev-server/modules/dev-server-running/dev-server-running.module.code.ts"
 import { infrastructureDevServerRestart as page } from "akasha/commands/pages/infrastructure/dev-server/restart/infrastructure-dev-server-restart.command.ts"
 import { namingApps } from "akasha/infrastructure/services/web-apps/dev-server-stating/dev-server-stating.module.code.ts"
 
