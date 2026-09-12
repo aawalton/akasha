@@ -5,13 +5,13 @@ import { InlineEditableText } from "akasha/design/interfaces/forms/inline-editab
 import { PageLayout } from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
 import { PAGE_TITLE_CLASSES } from "akasha/design/interfaces/layout/page-layout-data/page-layout-data.module.code.ts"
 import { simplePageSkeleton } from "akasha/design/interfaces/layout/skeleton-presets/skeleton-presets.module.code.ts"
+import { IconPicker } from "akasha/design/interfaces/patterns/icon-picker/icon-picker.module.code.tsx"
 import {
   Empty,
   EmptyDescription,
   EmptyHeader,
   EmptyTitle,
-} from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
-import { IconPicker } from "akasha/design/interfaces/patterns/icon-picker/icon-picker.module.code.tsx"
+} from "akasha/design/interfaces/patterns/modules/empty/empty.module.code.tsx"
 import { expandDateMentions } from "akasha/pages/core/view/expand-date-mentions/expand-date-mentions.module.code.ts"
 import { BlockEditor } from "akasha/pages/ui/block-editor/modules/block-editor/block-editor.module.code.tsx"
 import { MultiRelationPropertyBadge } from "akasha/pages/ui/components/multi-relation-property-badge/multi-relation-property-badge.module.code.tsx"

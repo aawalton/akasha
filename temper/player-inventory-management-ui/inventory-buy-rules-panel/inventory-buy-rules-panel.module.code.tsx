@@ -6,7 +6,7 @@ import {
   EmptyDescription,
   EmptyHeader,
   EmptyTitle,
-} from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
+} from "akasha/design/interfaces/patterns/modules/empty/empty.module.code.tsx"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import type { MinedItemSearchResult } from "akasha/temper/items-core/item-tooltip-types/item-tooltip-types.module.code.ts"
 import type { BuyRule } from "akasha/temper/items-rules-core/modules/buy-rule-types/buy-rule-types.module.code.ts"

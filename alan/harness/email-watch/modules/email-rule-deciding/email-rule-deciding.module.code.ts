@@ -1,6 +1,6 @@
 import type { Message } from "akasha/alan/google/email/gmail-mailbox/gmail-mailbox.module.code.ts"
-import type { Rule } from "akasha/alan/harness/email-watch/email-rule-reading/email-rule-reading.module.code.ts"
-import { EMAIL_RULE_SET } from "akasha/alan/harness/email-watch/email-rule-set/email-rule-set.module.code.ts"
+import type { Rule } from "akasha/alan/harness/email-watch/modules/email-rule-reading/email-rule-reading.module.code.ts"
+import { EMAIL_RULE_SET } from "akasha/alan/harness/email-watch/modules/email-rule-set/email-rule-set.module.code.ts"
 import type { Condition } from "akasha/alan/harness/rules-engine/rule-conditions/rule-conditions.module.code.ts"
 import {
   type Case,

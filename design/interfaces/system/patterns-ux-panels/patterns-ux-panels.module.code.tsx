@@ -8,7 +8,7 @@ import {
   EmptyHeader,
   EmptyMedia,
   EmptyTitle,
-} from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
+} from "akasha/design/interfaces/patterns/modules/empty/empty.module.code.tsx"
 import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"

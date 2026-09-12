@@ -10,7 +10,7 @@ import {
   EmptyDescription,
   EmptyHeader,
   EmptyTitle,
-} from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
+} from "akasha/design/interfaces/patterns/modules/empty/empty.module.code.tsx"
 import {
   PageTabsTrigger,
   Tabs,

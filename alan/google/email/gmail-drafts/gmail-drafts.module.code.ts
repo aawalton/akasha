@@ -1,13 +1,13 @@
-import type {
-  ComposeInput,
-  EmailDraft,
-} from "akasha/alan/google/email/email-shapes/email-shapes.module.code.ts"
 import type { GmailClient } from "akasha/alan/google/email/gmail-client/gmail-client.module.code.ts"
 import { buildRawEmail } from "akasha/alan/google/email/gmail-messages/gmail-messages.module.code.ts"
 import {
   gmailDraftsListSchema,
   normalizeDraft,
 } from "akasha/alan/google/email/gmail-schema/gmail-schema.module.code.ts"
+import type {
+  ComposeInput,
+  EmailDraft,
+} from "akasha/alan/google/email/modules/email-shapes/email-shapes.module.code.ts"
 
 export function draftedSaid(to: readonly string[]): string {
   return `gmail holds a new draft to ${to.join(", ")}`

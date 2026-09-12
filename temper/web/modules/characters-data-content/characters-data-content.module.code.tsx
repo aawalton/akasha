@@ -7,16 +7,16 @@ import {
   PageTabTitleBadges,
 } from "akasha/design/interfaces/layout/page-tab-header/page-tab-header.module.code.tsx"
 import {
+  searchChanging,
+  sortChanging,
+} from "akasha/design/interfaces/patterns/filter-changing/filter-changing.module.code.ts"
+import {
   Empty,
   EmptyDescription,
   EmptyHeader,
   EmptyMedia,
   EmptyTitle,
-} from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
-import {
-  searchChanging,
-  sortChanging,
-} from "akasha/design/interfaces/patterns/filter-changing/filter-changing.module.code.ts"
+} from "akasha/design/interfaces/patterns/modules/empty/empty.module.code.tsx"
 import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
 import { useScrollRestoration } from "akasha/design/interfaces/patterns/use-scroll-restoration/use-scroll-restoration.module.code.ts"
 import {

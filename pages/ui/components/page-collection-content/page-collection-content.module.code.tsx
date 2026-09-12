@@ -1,13 +1,13 @@
 "use client"
 
 import { PageLayout } from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
+import { Icon } from "akasha/design/interfaces/patterns/lucide-icon/lucide-icon.module.code.tsx"
 import {
   Empty,
   EmptyDescription,
   EmptyHeader,
   EmptyTitle,
-} from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
-import { Icon } from "akasha/design/interfaces/patterns/lucide-icon/lucide-icon.module.code.tsx"
+} from "akasha/design/interfaces/patterns/modules/empty/empty.module.code.tsx"
 import { buttonVariants } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"

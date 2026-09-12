@@ -1,12 +1,3 @@
-import type {
-  ComposeInput,
-  EmailLabelMutationResult,
-  EmailMessage,
-  EmailMessageSummary,
-  EmailSendResult,
-  ListMessagesQuery,
-  ModifyLabelsInput,
-} from "akasha/alan/google/email/email-shapes/email-shapes.module.code.ts"
 import type { GmailClient } from "akasha/alan/google/email/gmail-client/gmail-client.module.code.ts"
 import {
   getHeader,
@@ -22,6 +13,15 @@ import {
   buildMimeMessage,
   toBase64Url,
 } from "akasha/alan/google/email/mime-message/mime-message.module.code.ts"
+import type {
+  ComposeInput,
+  EmailLabelMutationResult,
+  EmailMessage,
+  EmailMessageSummary,
+  EmailSendResult,
+  ListMessagesQuery,
+  ModifyLabelsInput,
+} from "akasha/alan/google/email/modules/email-shapes/email-shapes.module.code.ts"
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 
 const SUMMARY_HEADERS = ["From", "To", "Subject", "Date"]

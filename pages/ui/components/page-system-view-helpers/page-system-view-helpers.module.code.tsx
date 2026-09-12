@@ -5,7 +5,7 @@ import {
   EmptyDescription,
   EmptyHeader,
   EmptyTitle,
-} from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
+} from "akasha/design/interfaces/patterns/modules/empty/empty.module.code.tsx"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
