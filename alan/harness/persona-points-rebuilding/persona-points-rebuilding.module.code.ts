@@ -21,18 +21,21 @@ export type Keeping = (slug: string, before: number, today: number) => boolean
 export function rebuiltOver(
   before: ReadonlyMap<string, number>,
   today: ReadonlyMap<string, number>,
-  keep: Keeping
+  keep: Keeping,
+  done: string[] = []
 ): Rebuilt {
   const unread: string[] = []
   let rebuilt = 0
   for (const slug of new Set([...before.keys(), ...today.keys()])) {
-    if (keep(slug, pointsIn(before.get(slug) ?? 0), pointsIn(today.get(slug) ?? 0))) rebuilt += 1
-    else unread.push(`${slug} — ${NO_PERSONA}`)
+    if (keep(slug, pointsIn(before.get(slug) ?? 0), pointsIn(today.get(slug) ?? 0))) {
+      rebuilt += 1
+      done.push(`rebuilt ${slug}`)
+    } else unread.push(`${slug} — ${NO_PERSONA}`)
   }
   return { rebuilt, unread }
 }
 
-export function rebuildPoints(root: string, today: string): Rebuilt {
+export function rebuildPoints(root: string, today: string, done: string[] = []): Rebuilt {
   const days = daysMessaged(root)
   return rebuiltOver(
     sentOver(daysCounted(days, today)),
@@ -42,7 +45,8 @@ export function rebuildPoints(root: string, today: string): Rebuilt {
       if (persona === null) return false
       keepPoints(root, persona, before, now)
       return true
-    }
+    },
+    done
   )
 }
 

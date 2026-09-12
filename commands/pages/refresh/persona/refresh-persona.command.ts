@@ -29,6 +29,15 @@ export const refreshPersona = {
       invariantKind: "departure",
       statement: "A run works today's count out again from today's own rows.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A run that stopped part way is refused naming each persona rebuilt before it stopped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that stopped before it rebuilt a persona is refused as the fault alone.",
+    },
   ],
   name: "persona",
 } as const satisfies Command

@@ -56,6 +56,43 @@ test("no persona counted rebuilds nobody", () => {
   expect(rebuiltOver(new Map(), new Map(), () => true).rebuilt).toBe(0)
 })
 
+test("every persona rebuilt is named as it is rebuilt", () => {
+  const done: string[] = []
+  rebuiltOver(BEFORE, TODAY, (slug) => slug !== "nobody", done)
+  expect(done).toEqual(["rebuilt aura", "rebuilt amy"])
+})
+
+test("a rebuild that stopped part way names the personas rebuilt before it stopped", () => {
+  const done: string[] = []
+  expect(() =>
+    rebuiltOver(
+      BEFORE,
+      TODAY,
+      (slug) => {
+        if (slug === "amy") throw new Error("the lock on amy was held")
+        return true
+      },
+      done
+    )
+  ).toThrow("the lock on amy was held")
+  expect(done).toEqual(["rebuilt aura", "rebuilt nobody"])
+})
+
+test("a rebuild that stopped on the first persona names nothing as rebuilt", () => {
+  const done: string[] = []
+  expect(() =>
+    rebuiltOver(
+      BEFORE,
+      TODAY,
+      () => {
+        throw new Error("the lock was held")
+      },
+      done
+    )
+  ).toThrow("the lock was held")
+  expect(done).toEqual([])
+})
+
 test("one persona rebuilt is said in the singular", () => {
   expect(saidOf(1)).toBe("1 persona was rebuilt from the days counted")
 })
