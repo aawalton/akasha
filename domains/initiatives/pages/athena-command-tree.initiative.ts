@@ -9,12 +9,6 @@ export const athenaCommandTree = {
   parent: "athena-commands-cleanup",
   intents: [
     {
-      statement:
-        "A command is reached by matching each word to a level's name rather than to a built slug.",
-      workingMemory:
-        "Each word must now equal the name the level it reaches states: `walkingIn` at `commands/modules/walking/command-walking.module.code.ts` asks a handed-in reader for the name at the slug built so far and stops where that name differs, so `akasha measure-claude-account-usage` and `akasha model gateway status` are both refused. The slug is still built and asked of the index. Should the descent read each level's parts list instead, loading one page a level and building no slug?\n",
-    },
-    {
       statement: "One check judges the whole command tree.",
       workingMemory:
         "`checks/code-checks/pages/command-is-named-by-its-place-in-the-tree/` is the one check over the tree. It holds a slug to its path hyphenated, a folder to the parts tree, a level's name against every name above it, and the page naming a level to being a namespace or the `command` page type. A level's own name is its folder, since no page states one yet. Its gap says a namespace holds more than one part; six hold one, among them `icloud` and `google/drive`. Do those six collapse?\n",
