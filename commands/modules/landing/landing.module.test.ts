@@ -2,7 +2,6 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { readingEnded } from "akasha/commands/modules/commit-reading/commit-reading.module.code.ts"
 import { NO_GATE } from "akasha/commands/modules/gate-building/gate-building.module.code.ts"
 import { landing } from "akasha/commands/modules/landing/landing.module.code.ts"
 import {
@@ -47,6 +46,7 @@ import {
   baseOf,
   changeOf,
 } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import { readingEnded } from "akasha/git/commit-reading/commit-reading.module.code.ts"
 import {
   everythingFiled,
   fileWhereTheIndexIs,

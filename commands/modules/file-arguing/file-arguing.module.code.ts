@@ -10,7 +10,6 @@ import {
   type Kind,
   kindNamed,
 } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { bodyAt } from "akasha/commands/modules/commit-reading/commit-reading.module.code.ts"
 import {
   BREAK_GLASS,
   CONTENT_FILE,
@@ -34,6 +33,7 @@ import {
   pathAt,
 } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
 import { unwarrantedIn } from "akasha/commands/modules/warrant-owing/warrant-owing.module.code.ts"
+import { bodyAt } from "akasha/git/commit-reading/commit-reading.module.code.ts"
 import { besideAll } from "akasha/pages/beside/page-beside.module.code.ts"
 import { fileKeysAt } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 

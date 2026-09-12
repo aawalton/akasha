@@ -1,13 +1,13 @@
 import { typeScripted } from "akasha/code/file-kind/file-kind.module.code.ts"
 import { sharedBuildFiles } from "akasha/code/ios-apps/shared-build-files/shared-build-files.module.code.ts"
 import { folderOf } from "akasha/code/path-between/code-path-between.module.code.ts"
-import { bodyAt as bodyInCommit } from "akasha/commands/modules/commit-reading/commit-reading.module.code.ts"
 import { reachedFrom } from "akasha/commands/modules/source-globbing/source-globbing.module.code.ts"
 import {
   IOS_APP,
   type Named,
   WEB_APP,
 } from "akasha/commands/pages/deploy/kind-reading/deploy-kind-reading.module.code.ts"
+import { bodyAt as bodyInCommit } from "akasha/git/commit-reading/commit-reading.module.code.ts"
 import { said } from "akasha/git/running/git-running.module.code.ts"
 import { deployableNamed } from "akasha/infrastructure/services/clusters/web-app-reading/web-app-reading.module.code.ts"
 import {

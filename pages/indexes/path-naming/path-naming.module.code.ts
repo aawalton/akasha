@@ -1,6 +1,6 @@
 import { basename } from "node:path"
 import { textOf } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
-import { bodyAt } from "akasha/commands/modules/commit-reading/commit-reading.module.code.ts"
+import { bodyAt } from "akasha/git/commit-reading/commit-reading.module.code.ts"
 import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
 import type { Listed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {

@@ -13,8 +13,8 @@ import type {
 import { bodyIn } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { textIn } from "akasha/code/body-text/body-text.module.code.ts"
 import { formattedBodies } from "akasha/code/format/code-format.module.code.ts"
-import { bodyAt } from "akasha/commands/modules/commit-reading/commit-reading.module.code.ts"
 import type { FileMove } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
+import { bodyAt } from "akasha/git/commit-reading/commit-reading.module.code.ts"
 import { said as gitSaid } from "akasha/git/running/git-running.module.code.ts"
 
 const BYTES = new TextEncoder()

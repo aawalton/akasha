@@ -7,7 +7,6 @@ import type {
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { textIn } from "akasha/code/body-text/body-text.module.code.ts"
 import { formattedBody } from "akasha/code/format/code-format.module.code.ts"
-import { bodyAt } from "akasha/commands/modules/commit-reading/commit-reading.module.code.ts"
 import { unexportableIn } from "akasha/commands/modules/export-naming/export-naming.module.code.ts"
 import { bodiesFor } from "akasha/commands/modules/group-writing/group-writing.module.code.ts"
 import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
@@ -17,6 +16,7 @@ import type { FileMove } from "akasha/commands/modules/path-moving/path-moving.m
 import { globbedFor } from "akasha/commands/modules/source-globbing/source-globbing.module.code.ts"
 import { steppedFor } from "akasha/commands/modules/spacing-stepping/spacing-stepping.module.code.ts"
 import { typesFor } from "akasha/commands/modules/type-generating/type-generating.module.code.ts"
+import { bodyAt } from "akasha/git/commit-reading/commit-reading.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 
 export type Formatting = {

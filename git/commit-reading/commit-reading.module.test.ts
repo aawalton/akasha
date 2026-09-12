@@ -2,15 +2,12 @@ import { expect, test } from "bun:test"
 import { spawn } from "node:child_process"
 import { join } from "node:path"
 import {
-  bodyAt,
-  readingEnded,
-} from "akasha/commands/modules/commit-reading/commit-reading.module.code.ts"
-import {
   git,
   gitOver,
   repoWith,
 } from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
 import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import { bodyAt, readingEnded } from "akasha/git/commit-reading/commit-reading.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { until } from "akasha/testing-system/waiting/waiting.module.code.ts"

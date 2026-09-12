@@ -1,13 +1,10 @@
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import {
-  bodyAt,
-  readingEnded,
-} from "akasha/commands/modules/commit-reading/commit-reading.module.code.ts"
 import { gateFor } from "akasha/commands/modules/gate-building/gate-building.module.code.ts"
 import {
   commitAt,
   pathsIn,
 } from "akasha/commands/pages/deploy/commit-naming/deploy-commit-naming.module.code.ts"
+import { bodyAt, readingEnded } from "akasha/git/commit-reading/commit-reading.module.code.ts"
 import { said } from "akasha/git/running/git-running.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 

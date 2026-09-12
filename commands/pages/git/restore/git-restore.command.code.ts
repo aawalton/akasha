@@ -6,9 +6,9 @@ import {
   answering,
   type Given,
 } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { bodyAt } from "akasha/commands/modules/commit-reading/commit-reading.module.code.ts"
 import { FILE_PATH } from "akasha/commands/modules/flags/command-flags.module.code.ts"
 import { offRepo, pathAt } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
+import { bodyAt } from "akasha/git/commit-reading/commit-reading.module.code.ts"
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
 import { anythingThere } from "akasha/utils/fs/anything-there/anything-there.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
