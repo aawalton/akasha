@@ -6,4 +6,10 @@ export const inventoryParser = {
   slug: "inventory-parser",
   definition: "the rows an inventory capture has, read out of a saved variables body",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A field the capture holds for an item reaches the item read out of it.",
+    },
+  ],
 } as const satisfies Module

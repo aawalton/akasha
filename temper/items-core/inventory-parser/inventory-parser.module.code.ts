@@ -84,6 +84,9 @@ export function parseItem(raw: unknown): InventoryItemData | undefined {
     stackCount: asNumber(item.stackCount),
   }
 
+  const maxStackSize = asOptionalNumber(item.maxStackSize)
+  if (maxStackSize !== undefined) parsed.maxStackSize = maxStackSize
+
   const specializedItemType = asOptionalNumber(item.specializedItemType)
   if (specializedItemType !== undefined) parsed.specializedItemType = specializedItemType
 
