@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { DATA, OK, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { CHOSEN, drafted } from "akasha/commands/pages/change/draft/change-draft.command.code.ts"
-import { REFUSES_CODE } from "akasha/testing-system/minting/minting.module.code.ts"
+import { REFUSES_CODE } from "akasha/testing-system/modules/minting/minting.module.code.ts"
 import {
   applied,
   checking,

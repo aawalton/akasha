@@ -1,19 +1,19 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { InputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { resolveRepoRoot } from "akasha/alan/harness/mobile-cli/modules/git-tree-hash/git-tree-hash.module.code.ts"
+import { MACBOOK } from "akasha/alan/harness/mobile-cli/modules/macbook-target/macbook-target.module.code.ts"
 import {
   type MobileApp,
   macWwwStagingDir,
   shellRepoRoot,
   splitRepoPath,
   stagedWwwRepoPath,
-} from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
 import {
   rsyncToHost,
   runSshCapture,
-} from "akasha/alan/harness/mobile-cli/mobile-ssh/mobile-ssh.module.code.ts"
-import { resolveRepoRoot } from "akasha/alan/harness/mobile-cli/modules/git-tree-hash/git-tree-hash.module.code.ts"
-import { MACBOOK } from "akasha/alan/harness/mobile-cli/modules/macbook-target/macbook-target.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/modules/mobile-ssh/mobile-ssh.module.code.ts"
 import {
   buildInstallScript,
   parseInstalledUdid,

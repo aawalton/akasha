@@ -1,4 +1,3 @@
-import type { LooseTable } from "akasha/temper/navigation-addon/minimap-view-types/minimap-view-types.module.code.ts"
 import {
   asAnyTable,
   asAnyTableMember,
@@ -17,6 +16,7 @@ import {
   panZoom,
 } from "akasha/temper/navigation-addon/modules/minimap-shared/minimap-shared.module.code.ts"
 import { STATE } from "akasha/temper/navigation-addon/modules/minimap-state/minimap-state.module.code.ts"
+import type { LooseTable } from "akasha/temper/navigation-addon/modules/minimap-view-types/minimap-view-types.module.code.ts"
 
 holder.GoWorldMapMode = function (this: VotansMiniMap, skipPanToPlayer?: boolean): undefined {
   const glob = asAnyTable(globalThis)

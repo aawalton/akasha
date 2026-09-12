@@ -1,4 +1,4 @@
-import { mobileApps } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+import { mobileApps } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
 import {
   type Apps,
   CONTAINER_RECIPE,

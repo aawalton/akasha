@@ -10,6 +10,10 @@ import {
 } from "akasha/agents/hooks/modules/answer/hook-answer.module.code.ts"
 import { endsYes } from "akasha/agents/models/modules/answer/model-answer.module.code.ts"
 import {
+  askedOf,
+  modelOf,
+} from "akasha/agents/models/tests/modules/running/model-test-running.module.code.ts"
+import {
   directiveKept,
   directivesIn,
   type Putter,
@@ -20,10 +24,6 @@ import { noCommentaryKept } from "akasha/agents/models/tests/pages/no-commentary
 import { oneAtATimeKept } from "akasha/agents/models/tests/pages/one-at-a-time-kept/one-at-a-time-kept.model-test.code.ts"
 import { stillWaitingKept } from "akasha/agents/models/tests/pages/still-waiting-kept/still-waiting-kept.model-test.code.ts"
 import { subagentBriefKept } from "akasha/agents/models/tests/pages/subagent-brief-kept/subagent-brief-kept.model-test.code.ts"
-import {
-  askedOf,
-  modelOf,
-} from "akasha/agents/models/tests/running/model-test-running.module.code.ts"
 import { readOwnTranscriptTail } from "akasha/agents/modules/io-probe/io-probe.module.code.ts"
 import { lastAskedIn, lastSaidIn } from "akasha/agents/modules/last-said/last-said.module.code.ts"
 import { seatIn } from "akasha/agents/read-record/read-record.module.code.ts"

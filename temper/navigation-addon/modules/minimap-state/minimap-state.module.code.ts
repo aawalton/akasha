@@ -1,7 +1,3 @@
-import type {
-  AnyAsyncTask,
-  LooseTable,
-} from "akasha/temper/navigation-addon/minimap-view-types/minimap-view-types.module.code.ts"
 import {
   asAnyTable,
   asAnyTableMember,
@@ -11,6 +7,10 @@ import {
 } from "akasha/temper/navigation-addon/modules/minimap-casts/minimap-casts.module.code.ts"
 import { holder } from "akasha/temper/navigation-addon/modules/minimap-holder/minimap-holder.module.code.ts"
 import { noOp } from "akasha/temper/navigation-addon/modules/minimap-shared/minimap-shared.module.code.ts"
+import type {
+  AnyAsyncTask,
+  LooseTable,
+} from "akasha/temper/navigation-addon/modules/minimap-view-types/minimap-view-types.module.code.ts"
 
 interface InitMiniMapState {
   orgUpdateSize: (this: void, ...args: unknown[]) => unknown

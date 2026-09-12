@@ -1,7 +1,7 @@
 import { mkdirSync, readdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { lowerKebabCase } from "akasha/pages/name-formats/pages/lower-kebab-case/lower-kebab-case.name-format.code.ts"
-import { isMissing } from "akasha/utils/fs/missing/missing.module.code.ts"
+import { isMissing } from "akasha/utils/fs/modules/missing/missing.module.code.ts"
 
 const ASKED = ".local/state/workstation-services/audit-asked"
 

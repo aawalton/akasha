@@ -2,9 +2,11 @@ import { expect, mock, test } from "bun:test"
 
 const RAN: string[] = []
 
-const reading = await import("akasha/alan/harness/monarch/reading/monarch-reading.module.code.ts")
+const reading = await import(
+  "akasha/alan/harness/monarch/modules/reading/monarch-reading.module.code.ts"
+)
 
-mock.module("akasha/alan/harness/monarch/reading/monarch-reading.module.code.ts", () => ({
+mock.module("akasha/alan/harness/monarch/modules/reading/monarch-reading.module.code.ts", () => ({
   ...reading,
   runMonarchReading: () => {
     RAN.push("read")
@@ -33,7 +35,7 @@ test("a run turns the reading module's own taking rather than a taking written a
 
 test("a cookie that is not set is carried out rather than swallowed, so a failed run is a failed unit", async () => {
   RAN.length = 0
-  mock.module("akasha/alan/harness/monarch/reading/monarch-reading.module.code.ts", () => ({
+  mock.module("akasha/alan/harness/monarch/modules/reading/monarch-reading.module.code.ts", () => ({
     ...reading,
     runMonarchReading: () => Promise.reject(new Error(reading.COOKIE_ABSENT)),
   }))

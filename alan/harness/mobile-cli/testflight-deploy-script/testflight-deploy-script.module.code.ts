@@ -1,9 +1,4 @@
 import {
-  iosAppDir,
-  type MobileApp,
-  macWwwStagingDir,
-} from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
-import {
   ALTOOL_MARKERS,
   buildUploadApp,
   buildValidateApp,
@@ -29,6 +24,11 @@ import {
   buildReleaseMacBuildLock,
   buildReserveBuildNumber,
 } from "akasha/alan/harness/mobile-cli/modules/mac-build-serialization/mac-build-serialization.module.code.ts"
+import {
+  iosAppDir,
+  type MobileApp,
+  macWwwStagingDir,
+} from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
 
 export function buildTestflightDeployScript(opts: {
   readonly app: MobileApp

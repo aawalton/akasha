@@ -1,13 +1,13 @@
-import type {
-  ColorDef,
-  LooseTable,
-  MiniMapControl,
-} from "akasha/temper/navigation-addon/minimap-view-types/minimap-view-types.module.code.ts"
 import { asVotansMiniMap } from "akasha/temper/navigation-addon/modules/minimap-casts/minimap-casts.module.code.ts"
 import type {
   AccountSettings,
   PlayerSettings,
 } from "akasha/temper/navigation-addon/modules/minimap-saved-variables/minimap-saved-variables.module.code.ts"
+import type {
+  ColorDef,
+  LooseTable,
+  MiniMapControl,
+} from "akasha/temper/navigation-addon/modules/minimap-view-types/minimap-view-types.module.code.ts"
 
 const ZONE_ALERT_MODE = {
   Always: "ALWAYS",

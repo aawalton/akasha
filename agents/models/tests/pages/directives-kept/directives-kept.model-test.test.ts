@@ -1,4 +1,8 @@
 import { expect, test } from "bun:test"
+import type {
+  Case,
+  Got,
+} from "akasha/agents/models/tests/modules/running/model-test-running.module.code.ts"
 import type { Directive } from "akasha/agents/models/tests/pages/directive-kept/directive-kept.model-test.code.ts"
 import {
   asking,
@@ -6,10 +10,6 @@ import {
   namesARule,
   rulesOf,
 } from "akasha/agents/models/tests/pages/directives-kept/directives-kept.model-test.code.ts"
-import type {
-  Case,
-  Got,
-} from "akasha/agents/models/tests/running/model-test-running.module.code.ts"
 
 const ONE: Directive = {
   name: "Act By Default",

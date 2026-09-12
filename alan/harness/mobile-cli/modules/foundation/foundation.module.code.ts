@@ -1,14 +1,14 @@
 import { InputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import {
+  componentSwiftFor,
+  widgetTargetNameFor,
+} from "akasha/alan/harness/mobile-cli/modules/ios-program-components/ios-program-components.module.code.ts"
+import {
   type MobileApp,
   nativeShellDir,
   ringCredentialScriptFor,
   splitRepoPath,
-} from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
-import {
-  componentSwiftFor,
-  widgetTargetNameFor,
-} from "akasha/alan/harness/mobile-cli/modules/ios-program-components/ios-program-components.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
 import { quoted } from "akasha/shell/quoting/quoting.module.code.ts"
 import { z } from "zod"
 

@@ -1,8 +1,3 @@
-import type { MobileApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
-import {
-  appIn,
-  shellRepoRoot,
-} from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import { buildInputSources } from "akasha/alan/harness/mobile-cli/modules/build-input-sources/build-input-sources.module.code.ts"
 import type { CurrentTreeState } from "akasha/alan/harness/mobile-cli/modules/cut-fingerprint/cut-fingerprint.module.code.ts"
 import {
@@ -17,6 +12,11 @@ import {
   resolveRef,
   resolveRepoRoot,
 } from "akasha/alan/harness/mobile-cli/modules/git-tree-hash/git-tree-hash.module.code.ts"
+import type { MobileApp } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
+import {
+  appIn,
+  shellRepoRoot,
+} from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
 import { simRunSharedRepoPaths } from "akasha/alan/harness/mobile-cli/sim-run-tree/sim-run-tree.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { app } from "akasha/commands/arguments/pages/app.argument.ts"

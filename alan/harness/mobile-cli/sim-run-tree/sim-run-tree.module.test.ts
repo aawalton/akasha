@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import type { MobileApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+import type { MobileApp } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
 import {
   shellRepoPath,
   simRunNativeShellDir,

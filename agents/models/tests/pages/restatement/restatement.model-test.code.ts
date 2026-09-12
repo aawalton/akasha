@@ -1,11 +1,11 @@
-import { restatement as test } from "akasha/agents/models/tests/pages/restatement/restatement.model-test.ts"
 import {
   type Asked,
   type Case,
   type Got,
   keptBy,
   type PageReading,
-} from "akasha/agents/models/tests/running/model-test-running.module.code.ts"
+} from "akasha/agents/models/tests/modules/running/model-test-running.module.code.ts"
+import { restatement as test } from "akasha/agents/models/tests/pages/restatement/restatement.model-test.ts"
 
 export type Judging = {
   readonly slug: string

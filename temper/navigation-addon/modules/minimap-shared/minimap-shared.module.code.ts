@@ -1,8 +1,3 @@
-import type {
-  AnyAsyncTask,
-  LooseTable,
-  MapScene,
-} from "akasha/temper/navigation-addon/minimap-view-types/minimap-view-types.module.code.ts"
 import {
   asAnyAsyncTask,
   asAnyTable,
@@ -12,6 +7,11 @@ import {
 } from "akasha/temper/navigation-addon/modules/minimap-casts/minimap-casts.module.code.ts"
 import { holder } from "akasha/temper/navigation-addon/modules/minimap-holder/minimap-holder.module.code.ts"
 import { MINIMAP_MAP_MODE } from "akasha/temper/navigation-addon/modules/minimap-names/minimap-names.module.code.ts"
+import type {
+  AnyAsyncTask,
+  LooseTable,
+  MapScene,
+} from "akasha/temper/navigation-addon/modules/minimap-view-types/minimap-view-types.module.code.ts"
 
 MAP_MODE_VOTANS_MINIMAP = MINIMAP_MAP_MODE
 

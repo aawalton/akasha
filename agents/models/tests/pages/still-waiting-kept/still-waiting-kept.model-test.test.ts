@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import type { Case } from "akasha/agents/models/tests/modules/running/model-test-running.module.code.ts"
 import {
   type Directive,
   ruleOf,
@@ -10,7 +11,6 @@ import {
 } from "akasha/agents/models/tests/pages/still-waiting-kept/still-waiting-kept.model-test.code.ts"
 import { stillWaitingKept } from "akasha/agents/models/tests/pages/still-waiting-kept/still-waiting-kept.model-test.ts"
 import { subagentBriefKept } from "akasha/agents/models/tests/pages/subagent-brief-kept/subagent-brief-kept.model-test.ts"
-import type { Case } from "akasha/agents/models/tests/running/model-test-running.module.code.ts"
 
 const RULE: Directive = {
   name: "No Commentary",

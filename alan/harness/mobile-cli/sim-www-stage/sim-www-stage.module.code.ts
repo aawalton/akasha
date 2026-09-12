@@ -10,7 +10,7 @@ import {
   shellRepoRoot,
   splitRepoPath,
   stagedWwwRepoPath,
-} from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
 import { gitDirIn } from "akasha/git/modules/dir/git-dir.module.code.ts"
 import { shown } from "akasha/utils/run/running/running.module.code.ts"
 

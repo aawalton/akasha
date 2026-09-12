@@ -1,16 +1,16 @@
 import {
-  type Directive,
-  directivesIn,
-  ruleOf,
-} from "akasha/agents/models/tests/pages/directive-kept/directive-kept.model-test.code.ts"
-import { directivesKept as test } from "akasha/agents/models/tests/pages/directives-kept/directives-kept.model-test.ts"
-import {
   type Asked,
   type Case,
   filling,
   type Got,
   type PageReading,
-} from "akasha/agents/models/tests/running/model-test-running.module.code.ts"
+} from "akasha/agents/models/tests/modules/running/model-test-running.module.code.ts"
+import {
+  type Directive,
+  directivesIn,
+  ruleOf,
+} from "akasha/agents/models/tests/pages/directive-kept/directive-kept.model-test.code.ts"
+import { directivesKept as test } from "akasha/agents/models/tests/pages/directives-kept/directives-kept.model-test.ts"
 
 const PERSON = "person"
 

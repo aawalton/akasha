@@ -1,9 +1,4 @@
 import {
-  type MobileApp,
-  resolveApp,
-  shellRepoRoot,
-} from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
-import {
   readKeychainPassword,
   readRingCredentialFor,
 } from "akasha/alan/harness/mobile-cli/modules/foundation/foundation.module.code.ts"
@@ -12,6 +7,11 @@ import {
   acquireLocalCutLock,
   releaseLocalCutLock,
 } from "akasha/alan/harness/mobile-cli/modules/local-cut-lock/local-cut-lock.module.code.ts"
+import {
+  type MobileApp,
+  resolveApp,
+  shellRepoRoot,
+} from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
 import { runTestflightCut } from "akasha/alan/harness/mobile-cli/testflight-cut/testflight-cut.module.code.ts"
 import {
   answeredWith,

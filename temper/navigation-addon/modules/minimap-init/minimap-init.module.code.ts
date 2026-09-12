@@ -1,11 +1,4 @@
 import {
-  installCallbackPump,
-  installUpdateHandler,
-  installVisibility,
-  installZoomOverrides,
-} from "akasha/temper/navigation-addon/minimap-update/minimap-update.module.code.ts"
-import type { LooseTable } from "akasha/temper/navigation-addon/minimap-view-types/minimap-view-types.module.code.ts"
-import {
   asAnyTable,
   asAnyTableMember,
   asBoolean,
@@ -24,6 +17,13 @@ import {
   noOp,
 } from "akasha/temper/navigation-addon/modules/minimap-shared/minimap-shared.module.code.ts"
 import { STATE } from "akasha/temper/navigation-addon/modules/minimap-state/minimap-state.module.code.ts"
+import {
+  installCallbackPump,
+  installUpdateHandler,
+  installVisibility,
+  installZoomOverrides,
+} from "akasha/temper/navigation-addon/modules/minimap-update/minimap-update.module.code.ts"
+import type { LooseTable } from "akasha/temper/navigation-addon/modules/minimap-view-types/minimap-view-types.module.code.ts"
 
 const em = EVENT_MANAGER
 

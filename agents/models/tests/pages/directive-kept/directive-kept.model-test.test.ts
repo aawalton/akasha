@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import type { Case } from "akasha/agents/models/tests/modules/running/model-test-running.module.code.ts"
 import {
   asking,
   type Directive,
@@ -7,7 +8,6 @@ import {
   keeping,
   ruleOf,
 } from "akasha/agents/models/tests/pages/directive-kept/directive-kept.model-test.code.ts"
-import type { Case } from "akasha/agents/models/tests/running/model-test-running.module.code.ts"
 
 const ONE: Directive = {
   name: "Neither Clock Nor Meter",

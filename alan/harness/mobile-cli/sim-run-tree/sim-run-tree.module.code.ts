@@ -1,16 +1,16 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { InputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { MACBOOK } from "akasha/alan/harness/mobile-cli/modules/macbook-target/macbook-target.module.code.ts"
 import {
   type MobileApp,
   shellRepoPath as shellRepoPathOf,
-} from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
 import {
   rsyncFilesToHost,
   rsyncToHost,
   runSshCapture,
-} from "akasha/alan/harness/mobile-cli/mobile-ssh/mobile-ssh.module.code.ts"
-import { MACBOOK } from "akasha/alan/harness/mobile-cli/modules/macbook-target/macbook-target.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/modules/mobile-ssh/mobile-ssh.module.code.ts"
 import { sharedBuildFiles } from "akasha/code/ios-apps/shared-build-files/shared-build-files.module.code.ts"
 import {
   AKASHA,

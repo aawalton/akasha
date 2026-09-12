@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import type { Case } from "akasha/agents/models/tests/modules/running/model-test-running.module.code.ts"
 import {
   type Directive,
   ruleOf,
@@ -8,7 +9,6 @@ import {
   keeping,
 } from "akasha/agents/models/tests/pages/one-at-a-time-kept/one-at-a-time-kept.model-test.code.ts"
 import { oneAtATimeKept } from "akasha/agents/models/tests/pages/one-at-a-time-kept/one-at-a-time-kept.model-test.ts"
-import type { Case } from "akasha/agents/models/tests/running/model-test-running.module.code.ts"
 
 const RULE: Directive = {
   name: "One At A Time",

@@ -1,7 +1,3 @@
-import type {
-  LooseTable,
-  MiniMapControl,
-} from "akasha/temper/navigation-addon/minimap-view-types/minimap-view-types.module.code.ts"
 import {
   asAnyTable,
   asAnyTableMember,
@@ -18,6 +14,10 @@ import {
   panZoom,
   pins,
 } from "akasha/temper/navigation-addon/modules/minimap-shared/minimap-shared.module.code.ts"
+import type {
+  LooseTable,
+  MiniMapControl,
+} from "akasha/temper/navigation-addon/modules/minimap-view-types/minimap-view-types.module.code.ts"
 
 holder.GetCurrentZoom = function (this: VotansMiniMap): number {
   return asNumber(asMiniMapPanAndZoom(panZoom()).GetCurrentNormalizedZoom())

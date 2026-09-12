@@ -7,7 +7,7 @@ import {
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { baseOf as headOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
-import { REFUSES_CODE } from "akasha/testing-system/minting/minting.module.code.ts"
+import { REFUSES_CODE } from "akasha/testing-system/modules/minting/minting.module.code.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import {
   applied,

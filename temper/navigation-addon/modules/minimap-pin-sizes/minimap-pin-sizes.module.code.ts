@@ -1,7 +1,3 @@
-import type {
-  AnyAsyncTask,
-  LooseTable,
-} from "akasha/temper/navigation-addon/minimap-view-types/minimap-view-types.module.code.ts"
 import {
   asAnyTable,
   asAnyTableMember,
@@ -15,6 +11,10 @@ import {
   type VotansMiniMap,
 } from "akasha/temper/navigation-addon/modules/minimap-holder/minimap-holder.module.code.ts"
 import { createAsyncTask } from "akasha/temper/navigation-addon/modules/minimap-shared/minimap-shared.module.code.ts"
+import type {
+  AnyAsyncTask,
+  LooseTable,
+} from "akasha/temper/navigation-addon/modules/minimap-view-types/minimap-view-types.module.code.ts"
 import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 
 const em = EVENT_MANAGER

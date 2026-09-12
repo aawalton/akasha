@@ -1,5 +1,3 @@
-import { EXPORTED_UPDATE_MAP } from "akasha/temper/navigation-addon/minimap-update/minimap-update.module.code.ts"
-import type { LooseTable } from "akasha/temper/navigation-addon/minimap-view-types/minimap-view-types.module.code.ts"
 import {
   asAnyAsyncTask,
   asAnyTable,
@@ -25,6 +23,8 @@ import {
   setMapTitle,
   setMapTitleCurrentLocation,
 } from "akasha/temper/navigation-addon/modules/minimap-state/minimap-state.module.code.ts"
+import { EXPORTED_UPDATE_MAP } from "akasha/temper/navigation-addon/modules/minimap-update/minimap-update.module.code.ts"
+import type { LooseTable } from "akasha/temper/navigation-addon/modules/minimap-view-types/minimap-view-types.module.code.ts"
 
 const em = EVENT_MANAGER
 const async = LibAsync

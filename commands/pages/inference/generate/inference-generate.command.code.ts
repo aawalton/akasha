@@ -23,11 +23,6 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { filing, filledIn } from "akasha/commands/modules/filling/command-filling.module.code.ts"
 import { inferenceGenerate as page } from "akasha/commands/pages/inference/generate/inference-generate.command.ts"
 import {
-  buildGenerationBody,
-  parseGenerationSize,
-  runGeneration,
-} from "akasha/infrastructure/inference/clients/mlx-image-client/mlx-image-client.module.code.ts"
-import {
   ensureOutputDir,
   resolveOutputPath,
 } from "akasha/infrastructure/inference/clients/modules/inference-output-path/inference-output-path.module.code.ts"
@@ -35,6 +30,11 @@ import {
   drawSeed,
   resolveSeed,
 } from "akasha/infrastructure/inference/clients/modules/inference-seed/inference-seed.module.code.ts"
+import {
+  buildGenerationBody,
+  parseGenerationSize,
+  runGeneration,
+} from "akasha/infrastructure/inference/clients/modules/mlx-image-client/mlx-image-client.module.code.ts"
 import {
   boundTo,
   serviceNamed,

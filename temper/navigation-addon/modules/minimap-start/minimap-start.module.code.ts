@@ -1,4 +1,4 @@
-import { registerStrings } from "akasha/temper/navigation-addon/minimap-ui-strings/minimap-ui-strings.module.code.ts"
+import { registerStrings } from "akasha/temper/navigation-addon/modules/minimap-ui-strings/minimap-ui-strings.module.code.ts"
 import "akasha/temper/navigation-addon/modules/minimap-global/minimap-global.module.code.ts"
 import "akasha/temper/navigation-addon/modules/minimap-core/minimap-core.module.code.ts"
 import "akasha/temper/navigation-addon/modules/minimap-settings/minimap-settings.module.code.ts"

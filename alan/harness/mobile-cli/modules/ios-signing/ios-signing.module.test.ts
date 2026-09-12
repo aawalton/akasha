@@ -1,5 +1,4 @@
 import { describe, expect, test } from "bun:test"
-import { resolveApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import {
   ASC_ISSUER_ID,
   ASC_KEY_ID,
@@ -9,6 +8,7 @@ import {
   buildLoginOnlyKeychainScope,
   classifyTestflightFailure,
 } from "akasha/alan/harness/mobile-cli/modules/ios-signing/ios-signing.module.code.ts"
+import { resolveApp } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
 
 describe("classifyTestflightFailure", () => {
   test("ASC 401/403 sentinel → ASC_PERMISSION_DENIED naming the key + role fix", () => {

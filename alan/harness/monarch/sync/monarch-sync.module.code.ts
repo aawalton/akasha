@@ -1,29 +1,29 @@
 #!/usr/bin/env bun
 
-import { reportAgreement } from "akasha/alan/harness/monarch/agreement/monarch-agreement.module.code.ts"
-import { categorizeRecent } from "akasha/alan/harness/monarch/categorize-recent/monarch-categorize-recent.module.code.ts"
+import { reportAgreement } from "akasha/alan/harness/monarch/modules/agreement/monarch-agreement.module.code.ts"
+import { categorizeRecent } from "akasha/alan/harness/monarch/modules/categorize-recent/monarch-categorize-recent.module.code.ts"
 import type {
   MonarchHolding,
   MonarchTag,
   MonarchTransaction,
-} from "akasha/alan/harness/monarch/client/monarch-client.module.code.ts"
-import { monarchClient } from "akasha/alan/harness/monarch/client/monarch-client.module.code.ts"
-import { monarchHeaders } from "akasha/alan/harness/monarch/credential/monarch-credential.module.code.ts"
+} from "akasha/alan/harness/monarch/modules/client/monarch-client.module.code.ts"
+import { monarchClient } from "akasha/alan/harness/monarch/modules/client/monarch-client.module.code.ts"
+import { monarchHeaders } from "akasha/alan/harness/monarch/modules/credential/monarch-credential.module.code.ts"
 import {
   landAccountFiles,
   landCategoryFiles,
   landHoldingFiles,
   landTagFiles,
-} from "akasha/alan/harness/monarch/domain-files/monarch-domain-files.module.code.ts"
+} from "akasha/alan/harness/monarch/modules/domain-files/monarch-domain-files.module.code.ts"
 import {
   landTransactionFiles,
   linesFor,
-} from "akasha/alan/harness/monarch/land-files/monarch-land-files.module.code.ts"
+} from "akasha/alan/harness/monarch/modules/land-files/monarch-land-files.module.code.ts"
 import {
   clearStalePending,
   clearVanishedAgainstFullFetch,
   clearVanishedInWindow,
-} from "akasha/alan/harness/monarch/reconcile/monarch-reconcile.module.code.ts"
+} from "akasha/alan/harness/monarch/modules/reconcile/monarch-reconcile.module.code.ts"
 import { trustedFrom } from "akasha/alan/harness/monarch/transaction/monarch-transaction.module.code.ts"
 
 export interface SyncTally {
