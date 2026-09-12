@@ -42,7 +42,8 @@ export const deployTreePinning = {
     },
     {
       invariantKind: "gap",
-      statement: "A landing and a deploy moving one tree at once are held apart by nothing here.",
+      statement:
+        "One thing moves a kind's tree, and that is the deploy of that kind under its own hold.",
     },
   ],
 } as const satisfies Module
