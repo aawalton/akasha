@@ -87,7 +87,7 @@ export async function inferenceUpscale(argv: readonly string[], given: Given): P
   const seed = taken.seed ?? DEFAULT_SEED
   const where = taken.host
 
-  return await answering(async () => {
+  return await answering(async (done) => {
     let inputBytes: Uint8Array
     try {
       inputBytes = await readFile(imagePath)
@@ -114,7 +114,6 @@ export async function inferenceUpscale(argv: readonly string[], given: Given): P
       inputImageSha256: sha256Hex(inputBytes),
     })
 
-    const report: string[] = []
     await recordInferenceRun(
       record,
       async () => {
@@ -138,11 +137,11 @@ export async function inferenceUpscale(argv: readonly string[], given: Given): P
               })
         await ensureOutputDir(outputPath)
         await writeFile(outputPath, outputBytes)
-        report.push(wroteTo(outputPath, outputBytes, "image"))
+        done.push(wroteTo(outputPath, outputBytes, "image"))
         return { outputPath, outputBytes }
       },
       { persist: !taken.noPersist }
     )
-    return told(report)
+    return told(done)
   })
 }

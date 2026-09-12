@@ -131,7 +131,7 @@ export async function inferenceEdit(argv: readonly string[], given: Given): Prom
   const imageSize = taken.size
   const references = [...images.slice(1), ...refsIn(taken.refs)]
 
-  return await answering(async () => {
+  return await answering(async (done) => {
     let subjectBytes: Uint8Array
     try {
       subjectBytes = await readFile(subject)
@@ -166,7 +166,6 @@ export async function inferenceEdit(argv: readonly string[], given: Given): Prom
     })
 
     const imageConfig = configOf(aspectRatio, imageSize)
-    const report: string[] = []
     await recordInferenceRun(
       record,
       async () => {
@@ -182,11 +181,11 @@ export async function inferenceEdit(argv: readonly string[], given: Given): Prom
         const image = await transcodeImage(raw, imageFormatForPath(outputPath))
         await ensureOutputDir(outputPath)
         await writeFile(outputPath, image)
-        report.push(wroteTo(outputPath, image, "image"))
+        done.push(wroteTo(outputPath, image, "image"))
         return { outputPath, outputBytes: image }
       },
       { persist: !taken.noPersist }
     )
-    return told(report)
+    return told(done)
   })
 }

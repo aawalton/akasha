@@ -112,7 +112,7 @@ export async function inferenceVoiceDesign(argv: readonly string[], given: Given
   const text = spoken.text ?? ""
   const lang = taken.lang
 
-  return await answering(async () => {
+  return await answering(async (done) => {
     const reached = serviceNamed(backend.service)
     const nowMs = Date.now()
     const outputPath = resolveOutputPath("voice-design", taken.output, nowMs)
@@ -130,7 +130,6 @@ export async function inferenceVoiceDesign(argv: readonly string[], given: Given
       ...SAMPLING,
     })
 
-    const report: string[] = []
     await recordInferenceRun(
       record,
       async () => {
@@ -156,11 +155,11 @@ export async function inferenceVoiceDesign(argv: readonly string[], given: Given
         if (!isRiff(wav)) throw new OperationalError("what came back is no RIFF payload")
         await ensureOutputDir(outputPath)
         await writeFile(outputPath, wav)
-        report.push(wroteTo(outputPath, wav, "audio"))
+        done.push(wroteTo(outputPath, wav, "audio"))
         return { outputPath, outputBytes: wav }
       },
       { persist: !taken.noPersist }
     )
-    return told(report)
+    return told(done)
   })
 }

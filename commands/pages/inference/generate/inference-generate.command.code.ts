@@ -138,7 +138,7 @@ export async function inferenceGenerate(argv: readonly string[], given: Given): 
   const guidance = guidanceOf(taken.guidance)
   const size = taken.size ?? DEFAULT_SIZE
 
-  return await answering(async () => {
+  return await answering(async (done) => {
     const { width, height } = parseGenerationSize(size)
     const reached = serviceNamed(serviceName)
     const words = wordsOf(reached.service.runs)
@@ -168,7 +168,6 @@ export async function inferenceGenerate(argv: readonly string[], given: Given): 
       ...(guidance === undefined ? {} : { guidance }),
     })
 
-    const report: string[] = []
     await recordInferenceRun(
       record,
       async () => {
@@ -186,11 +185,11 @@ export async function inferenceGenerate(argv: readonly string[], given: Given): 
         })
         await ensureOutputDir(outputPath)
         await writeFile(outputPath, png)
-        report.push(wroteTo(outputPath, png, "image"))
+        done.push(wroteTo(outputPath, png, "image"))
         return { outputPath, outputBytes: png }
       },
       { persist: !taken.noPersist }
     )
-    return told(report)
+    return told(done)
   })
 }

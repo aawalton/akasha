@@ -130,7 +130,7 @@ export async function inferenceVoiceClone(argv: readonly string[], given: Given)
   const how = taken.mode
   const mode: Mode | undefined = how !== undefined && isMode(how) ? how : undefined
 
-  return await answering(async () => {
+  return await answering(async (done) => {
     if (refAudio !== undefined) {
       try {
         await access(refAudio)
@@ -163,7 +163,6 @@ export async function inferenceVoiceClone(argv: readonly string[], given: Given)
       refText,
     })
 
-    const report: string[] = []
     await recordInferenceRun(
       record,
       async () => {
@@ -194,11 +193,11 @@ export async function inferenceVoiceClone(argv: readonly string[], given: Given)
         if (!isRiff(wav)) throw new OperationalError("what came back is no RIFF payload")
         await ensureOutputDir(outputPath)
         await writeFile(outputPath, wav)
-        report.push(wroteTo(outputPath, wav, "audio"))
+        done.push(wroteTo(outputPath, wav, "audio"))
         return { outputPath, outputBytes: wav }
       },
       { persist: !taken.noPersist }
     )
-    return told(report)
+    return told(done)
   })
 }
