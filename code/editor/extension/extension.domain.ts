@@ -78,6 +78,7 @@ export const extension = {
     "module/invoked-seat",
     "module/seat-showing",
     "module/seat-acts",
+    "module/seat-calls",
     "module/seat-plan-running",
     "module/agent-page-opening",
     "module/column-sampling",

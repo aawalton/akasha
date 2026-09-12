@@ -5,6 +5,14 @@ import {
   LANDING_TIMEOUT_MS,
 } from "akasha/code/editor/extension/harness-call/harness-call.module.code.ts"
 import type { ToggleTarget } from "akasha/code/editor/extension/invoked-seat/invoked-seat.module.code.ts"
+import {
+  interactiveCall,
+  NOTICES_CALL,
+  resetCall,
+  revivingCall,
+  type SeatCall,
+  stopCall,
+} from "akasha/code/editor/extension/seat-calls/seat-calls.module.code.ts"
 import { columnForSeat } from "akasha/code/editor/extension/seat-showing/seat-showing.module.code.ts"
 import { readSeatLookup } from "akasha/code/editor/extension/seat-terminals/seat-terminals.module.code.ts"
 import {
@@ -14,32 +22,10 @@ import {
 } from "akasha/code/editor/extension/seat-toggles/seat-toggles.module.code.ts"
 import * as vscode from "vscode"
 
-const NOTICES_SLUG = "seat-compose-notices"
-
-const NOTICES_EXPORT = "seatComposeNotices"
-
-const RESUME_SLUG = "seat-resume"
-
-const RESUME_EXPORT = "seatResume"
-
-const RESET_SLUG = "seat-reset"
-
-const RESET_EXPORT = "seatReset"
-
-const STOP_SLUG = "seat-supervisor-stop"
-
-const STOP_EXPORT = "seatSupervisorStop"
-
-const STOP_FORCE = "--force"
-
 const inFlight = new Set<string>()
 
-async function runSeat(
-  slug: string,
-  exported: string,
-  args: readonly string[]
-): Promise<undefined> {
-  await callHarness(slug, exported, args, { timeout: LANDING_TIMEOUT_MS })
+async function runSeat(call: SeatCall): Promise<undefined> {
+  await callHarness(call.slug, call.exported, call.args, { timeout: LANDING_TIMEOUT_MS })
   return undefined
 }
 
@@ -54,21 +40,21 @@ async function attachTerminal(seat: ToggleTarget, line: string): Promise<undefin
 
 async function resumeInteractive(seat: ToggleTarget): Promise<undefined> {
   const line = attachCommandLine(seat.name)
-  await runSeat(RESUME_SLUG, RESUME_EXPORT, [seat.name, "--start-mode", "interactive"])
+  await runSeat(interactiveCall(seat.name))
   return attachTerminal(seat, line)
 }
 
 async function performStep(seat: ToggleTarget, step: SeatStep): Promise<undefined> {
   switch (step.kind) {
     case "stop":
-      await runSeat(STOP_SLUG, STOP_EXPORT, [seat.name, STOP_FORCE])
+      await runSeat(stopCall(seat.name))
       return undefined
     case "revive": {
-      const said = await callHarness(NOTICES_SLUG, NOTICES_EXPORT, [], {
+      const said = await callHarness(NOTICES_CALL.slug, NOTICES_CALL.exported, NOTICES_CALL.args, {
         timeout: LANDING_TIMEOUT_MS,
       })
       const prompt = resumePromptIn(said)
-      await runSeat(RESUME_SLUG, RESUME_EXPORT, [seat.name, "--prompt", prompt])
+      await runSeat(revivingCall(seat.name, prompt))
       return undefined
     }
     case "resume-interactive":
@@ -76,7 +62,7 @@ async function performStep(seat: ToggleTarget, step: SeatStep): Promise<undefine
     case "attach":
       return attachTerminal(seat, attachCommandLine(seat.name))
     case "reset":
-      await runSeat(RESET_SLUG, RESET_EXPORT, [seat.name])
+      await runSeat(resetCall(seat.name))
       return undefined
     default: {
       const unreached: never = step
