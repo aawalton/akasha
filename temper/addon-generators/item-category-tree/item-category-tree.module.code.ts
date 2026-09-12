@@ -1,4 +1,5 @@
 import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import {
   nodeUnder,
   type TreeNode,
@@ -204,7 +205,7 @@ export function generateTemperItemCategoryTree(rows: readonly Page[]): string {
  * ESO item category hierarchy used by the inventory classifier, sourced
  * from the universal pages table (page type: temper-item-category-tree).
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 import type { ItemCategoryTree } from "../item-category-tree-types"
