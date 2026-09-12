@@ -5,7 +5,8 @@ import { ttcClient } from "akasha/infrastructure/services/workstations/pages/ttc
 const HANDED: string[][] = []
 const HOME = "%h"
 const SPACE = " "
-const WORDS = 5
+const WORDS = 6
+const PATH_AT = 4
 
 const binaryRunning = await import(
   "akasha/infrastructure/services/workstations/binary-running/binary-running.module.code.ts"
@@ -45,6 +46,7 @@ test("a run hands the binary runner the program and the arguments rather than a 
       "--appid",
       "306130",
       `${homedir()}/.steam/steam/steamapps/compatdata/306130/pfx/drive_c/users/steamuser/Documents/Elder Scrolls Online/live/AddOns/TamrielTradeCentre/Client/Client.exe`,
+      "Silent",
     ],
   ])
 })
@@ -53,7 +55,7 @@ test("the path the run quotes carries its spaces into one argument rather than f
   HANDED.length = 0
   await running.runService()
   expect(HANDED[0]).toHaveLength(WORDS)
-  expect(HANDED[0]?.[WORDS - 1]).toContain("Elder Scrolls Online")
+  expect(HANDED[0]?.[PATH_AT]).toContain("Elder Scrolls Online")
 })
 
 test("what the binary runner is handed is the run the page names, word for word", async () => {
@@ -69,7 +71,7 @@ test("what the binary runner is handed is the run the page names, word for word"
 test("the home directory is the one word the run spells that the page leaves to systemd", async () => {
   HANDED.length = 0
   await running.runService()
-  expect(HANDED[0]?.[WORDS - 1]?.startsWith(`${homedir()}/`)).toBe(true)
+  expect(HANDED[0]?.[PATH_AT]?.startsWith(`${homedir()}/`)).toBe(true)
   expect(ttcClient.runs[0]).toContain(`"${HOME}/`)
 })
 

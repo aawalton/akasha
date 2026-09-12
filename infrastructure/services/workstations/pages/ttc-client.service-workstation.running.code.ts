@@ -10,6 +10,7 @@ const ARGV = [
   "--appid",
   "306130",
   `${homedir()}/${CLIENT}`,
+  "Silent",
 ]
 
 export async function runService(): Promise<never> {
