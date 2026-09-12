@@ -33,8 +33,6 @@ import {
   finishPerfTrace,
   startPerfTrace,
 } from "akasha/temper/capture-perf/perf-trace/perf-trace.module.code.ts"
-import { refreshCompanionEquipmentPanel } from "akasha/temper/companions-addon/companions-equipment-refresh/companions-equipment-refresh.module.code.ts"
-import { registerCompanionEvents } from "akasha/temper/companions-addon/companions-events/companions-events.module.code.ts"
 import { installCompanionOverviewRapportOverlay } from "akasha/temper/companions-addon/companions-overview-rapport/companions-overview-rapport.module.code.ts"
 import { refreshCompanionPanel } from "akasha/temper/companions-addon/companions-panel/companions-panel.module.code.ts"
 import {
@@ -53,6 +51,8 @@ import { initializeFcoCompanion } from "akasha/temper/companions-addon/modules/c
 import { refreshAllCompanionData } from "akasha/temper/companions-addon/modules/companions-commands/companions-commands.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/companions-addon/modules/companions-constants/companions-constants.module.code.ts"
 import { createCompanionEquipmentPanel } from "akasha/temper/companions-addon/modules/companions-equipment-panel/companions-equipment-panel.module.code.ts"
+import { refreshCompanionEquipmentPanel } from "akasha/temper/companions-addon/modules/companions-equipment-refresh/companions-equipment-refresh.module.code.ts"
+import { registerCompanionEvents } from "akasha/temper/companions-addon/modules/companions-events/companions-events.module.code.ts"
 
 function registerCompanionSceneCallbacks(): undefined {
   const companionScenes = [
