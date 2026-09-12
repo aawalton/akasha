@@ -5,9 +5,5 @@ export const claudeAccount = {
   type: "namespace",
   slug: "claude-account",
   definition: "an Anthropic subscription put into service or brought back",
-  parts: [
-    "command/claude-account-add",
-    "command/claude-account-re-enable",
-    "command/claude-account-usage",
-  ],
+  parts: ["command/claude-account-add", "command/claude-account-re-enable"],
 } as const satisfies Namespace
