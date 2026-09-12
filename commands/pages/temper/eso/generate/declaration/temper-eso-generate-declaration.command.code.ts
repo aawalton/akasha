@@ -1,10 +1,16 @@
-import { realpathSync } from "node:fs"
+import { readFileSync, realpathSync } from "node:fs"
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
 import {
   type Asking,
   runMechanicalChange,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import {
+  keyOf,
+  mergedBy,
+  type Stated,
+  statedIn,
+} from "akasha/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.decision.code.ts"
 import {
   answeredWith,
   answering,
@@ -16,6 +22,8 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
   saidFor,
   saidShort,
@@ -48,11 +56,70 @@ const PUT = "change-mechanical/add-file-code"
 
 const MESSAGE = "the game's API declarations, read out of the game's own documentation"
 
+const AMBIENT = "ambient-types"
+
+const AMBIENT_KEY = "d"
+
+const AMBIENT_KIND = "ts"
+
+const DECLARED_ONCE = "A global name is declared in one file."
+
+const NAMED_FIRST = 5
+
 const INDEX_BODY = `/// <reference path="./enums.d.ts" />
 /// <reference path="./functions.d.ts" />
 /// <reference path="./events.d.ts" />
 /// <reference path="./objects.d.ts" />
 `
+
+export function declaredIn(
+  paths: readonly string[],
+  textAt: (path: string) => string | null
+): ReadonlyMap<string, Stated> {
+  const held = new Map<string, Stated>()
+  for (const path of paths) {
+    const text = textAt(path)
+    if (text === null) continue
+    for (const one of statedIn(path, text)) if (!held.has(keyOf(one))) held.set(keyOf(one), one)
+  }
+  return held
+}
+
+export function heldAlready(
+  bodies: readonly (readonly [string, string])[],
+  held: ReadonlyMap<string, Stated>
+): readonly string[] {
+  const found = new Map<string, string>()
+  for (const [name, body] of bodies) {
+    for (const one of statedIn(`${OUT_REL}/${name}`, body)) {
+      const was = held.get(keyOf(one))
+      if (was === undefined || mergedBy(one, was)) continue
+      if (!found.has(one.name)) found.set(one.name, `${was.path}:${String(was.line)}`)
+    }
+  }
+  return [...found].map(([name, at]) => `\`${name}\` at ${at}`).sort()
+}
+
+function ambientIn(root: string): readonly string[] {
+  const carried = shadowAt(root).index.carryingOf(AMBIENT)
+  if ("refused" in carried) return []
+  const found: string[] = []
+  for (const one of carried.carrying) {
+    const beside = besideAt(one.path, AMBIENT_KEY, AMBIENT_KIND)
+    if (beside !== null && !beside.startsWith(`${OUT_REL}/`)) found.push(beside)
+  }
+  return found
+}
+
+function readAt(root: string): (path: string) => string | null {
+  return (path) => {
+    try {
+      return readFileSync(resolve(root, path), "utf8")
+    } catch {
+      return null
+    }
+  }
+}
 
 export type Generating = (done: string[], argv: readonly string[], given: Given) => Promise<Answer>
 
@@ -115,6 +182,17 @@ async function generated(done: string[], argv: readonly string[], given: Given):
     ["objects.d.ts", stamped(generateObjectsFile(selected.objects))],
     ["index.d.ts", stamped(INDEX_BODY)],
   ]
+
+  const already = heldAlready(bodies, declaredIn(ambientIn(root), readAt(root)))
+  if (already.length > 0) {
+    return refused(
+      `${root} declares ${String(already.length)} of the names these declarations carry already, ` +
+        `among them ${already.slice(0, NAMED_FIRST).join(", ")}. ${DECLARED_ONCE} ` +
+        `A second file declaring one stops that name being typechecked wherever it is read, ` +
+        `so nothing was written to ${outDir}.`,
+      DATA
+    )
+  }
 
   const asked: Asking[] = []
   for (const [name, body] of bodies) {

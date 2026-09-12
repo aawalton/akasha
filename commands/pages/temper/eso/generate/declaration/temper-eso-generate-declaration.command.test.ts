@@ -2,7 +2,17 @@ import { expect, test } from "bun:test"
 import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { temperEsoGenerateDeclaration } from "akasha/commands/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"
+import {
+  declaredIn,
+  heldAlready,
+  temperEsoGenerateDeclaration,
+} from "akasha/commands/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"
+
+const HELD = "somewhere/held-already.type-declaration.d.ts"
+
+const ENUMS = "enums.d.ts"
+
+const ONE = "declare const ACTION_TYPE_ABILITY: number\n"
 
 const GIVEN: Given = {
   root: "/nowhere",
@@ -41,4 +51,37 @@ test("a run that wrote more than one thing names each of them in turn", async ()
     "this stopped part way. What it had done by then is this: " +
       "five declaration files were written; abc123. Nothing after that ran."
   )
+})
+
+test("a name a declaration file carries already is named against the file that carries it", () => {
+  const held = declaredIn([HELD], () => ONE)
+
+  expect(heldAlready([[ENUMS, ONE]], held)).toEqual([`\`ACTION_TYPE_ABILITY\` at ${HELD}:1`])
+})
+
+test("a name nothing else declares stops nothing", () => {
+  const held = declaredIn([HELD], () => "declare const ACTION_TYPE_EMOTE: number\n")
+
+  expect(heldAlready([[ENUMS, ONE]], held)).toEqual([])
+})
+
+test("an interface two declaration files merge is no second home for a name", () => {
+  const held = declaredIn([HELD], () => "interface AddOnManager { areEnabled: () => boolean }\n")
+
+  expect(
+    heldAlready([["objects.d.ts", "interface AddOnManager { isOld: () => boolean }\n"]], held)
+  ).toEqual([])
+})
+
+test("a member two declaration files both declare is a second home", () => {
+  const body = "interface AddOnManager { areEnabled: () => boolean }\n"
+  const held = declaredIn([HELD], () => body)
+
+  expect(heldAlready([["objects.d.ts", body]], held)).toEqual([
+    `\`AddOnManager.areEnabled\` at ${HELD}:1`,
+  ])
+})
+
+test("a file with no body to read declares nothing", () => {
+  expect(declaredIn([HELD], () => null).size).toBe(0)
 })

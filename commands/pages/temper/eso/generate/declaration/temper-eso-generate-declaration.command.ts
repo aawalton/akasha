@@ -48,6 +48,22 @@ export const temperEsoGenerateDeclaration = {
       statement: "A file the checkout already has is left out of that change.",
     },
     {
+      invariantKind: "constraint",
+      statement: "A name the checkout declares already is declared no second time here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run whose declarations carry such a name writes nothing and names those names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The names weighed are the ones the pages carrying ambient types declare.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name an interface or a namespace merges under is no such name.",
+    },
+    {
       invariantKind: "departure",
       statement: "The landing formats each body.",
     },
