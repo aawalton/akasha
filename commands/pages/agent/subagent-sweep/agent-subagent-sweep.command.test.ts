@@ -9,6 +9,7 @@ import {
   ACTS,
   AGAIN,
   ALIVE,
+  COMMIT,
   countingReads,
   editsBeside,
   GONE,
@@ -30,9 +31,12 @@ import {
   refusalBeside,
   refusedRemoving,
   removing,
+  reported,
+  reportSays,
   SEAT_ID,
   saying,
   seatFiled,
+  THREW_AFTER,
   THROWN,
   THROWS,
   takeLine,
@@ -52,16 +56,13 @@ test("a page whose agent no live process answers for is named stale", async () =
   const { root, base } = worldWith()
   const said = await agentSubagentSweep([], givenIn(root), GONE, base, saying([]))
   expect(said.code).toBe(0)
-  expect(said.report.join("\n")).toContain(`STALE`)
-  expect(said.report.join("\n")).toContain(`agent ${ACTING}`)
+  reportSays(said, "STALE", `agent ${ACTING}`)
   world.sweep()
 })
 
 test("a page a live process acts under is named working rather than stale", async () => {
   const { root, base } = worldWith()
-  const said = (await agentSubagentSweep([], givenIn(root), ACTS, base, saying([]))).report.join(
-    "\n"
-  )
+  const said = await reported(root, base, ACTS, saying([]))
   expect(said).toContain("1 subagent page(s): 1 working, 0 stale, 0 undetermined")
   expect(said).toContain("pid 9 answers")
   expect(said).not.toMatch(/^STALE/m)
@@ -83,8 +84,7 @@ test("a page nothing settles is undetermined and is named to no landing", async 
   const { root, base, at } = worldWith()
   const held = landings()
   const said = await removing(root, base, ALIVE, saying([]), held.landing)
-  expect(said.report.join("\n")).toContain("UNDETERMINED")
-  expect(said.report.join("\n")).toContain("no page was judged STALE, so nothing went")
+  reportSays(said, "UNDETERMINED", "no page was judged STALE, so nothing went")
   expect(held.asked()).toEqual([])
   expect(there(root, at)).toBe(true)
   world.sweep()
@@ -94,8 +94,7 @@ test("a run naming nothing reaches no landing, though the census called a page s
   const { root, base, at } = worldWith()
   const held = landings()
   const said = await agentSubagentSweep([], givenIn(root), GONE, base, saying([]), held.landing)
-  expect(said.report.join("\n")).toContain("wrote nothing")
-  expect(said.report.join("\n")).toContain("Say `--remove`")
+  reportSays(said, "wrote nothing", "Say `--remove`")
   expect(held.asked()).toEqual([])
   expect(there(root, at)).toBe(true)
   world.sweep()
@@ -172,13 +171,9 @@ test("a word this takes no flag for refuses the whole run and reaches no landing
 
 test("a transcript naming a page's own id reads that page working where no process acts", async () => {
   const { root, base } = worldWith()
-  const bare = (await agentSubagentSweep([], givenIn(root), ALIVE, base, saying([]))).report.join(
-    "\n"
-  )
+  const bare = await reported(root, base, ALIVE, saying([]))
   expect(bare).toContain("0 working, 0 stale, 1 undetermined")
-  const said = (
-    await agentSubagentSweep([], givenIn(root), ALIVE, base, saying([OWN]))
-  ).report.join("\n")
+  const said = await reported(root, base, ALIVE, saying([OWN]))
   expect(said).toContain("1 subagent page(s): 1 working, 0 stale, 0 undetermined")
   expect(said).toContain("its seat's transcript names it")
   world.sweep()
@@ -187,9 +182,8 @@ test("a transcript naming a page's own id reads that page working where no proce
 test("a transcript that will not open leaves the census the other evidence reached", async () => {
   const { root, base, at } = worldWith()
   for (const seen of [ACTS, ALIVE, GONE]) {
-    const bare = (await agentSubagentSweep([], givenIn(root), seen, base, saying([]))).report
-    const said = (await agentSubagentSweep([], givenIn(root), seen, base, THROWS)).report
-    expect(said.join("\n")).toBe(bare.join("\n"))
+    const bare = await reported(root, base, seen, saying([]))
+    expect(await reported(root, base, seen, THROWS)).toBe(bare)
   }
   expect(there(root, at)).toBe(true)
   world.sweep()
@@ -199,8 +193,11 @@ test("a page working by its acting agent id is still working when no transcript 
   const { root, base, at } = worldWith()
   const held = landings()
   const said = await removing(root, base, ACTS, THROWS, held.landing)
-  expect(said.report.join("\n")).toContain("1 working, 0 stale, 0 undetermined")
-  expect(said.report.join("\n")).toContain("no page was judged STALE, so nothing went")
+  reportSays(
+    said,
+    "1 working, 0 stale, 0 undetermined",
+    "no page was judged STALE, so nothing went"
+  )
   expect(held.asked()).toEqual([])
   expect(there(root, at)).toBe(true)
   world.sweep()
@@ -260,13 +257,9 @@ test("a seat naming no transcript is asked for no reading at all", async () => {
 
 test("a transcript naming a page's own id as ended reads that page stale", async () => {
   const { root, base } = worldWith()
-  const bare = (await agentSubagentSweep([], givenIn(root), ALIVE, base, saying([]))).report.join(
-    "\n"
-  )
+  const bare = await reported(root, base, ALIVE, saying([]))
   expect(bare).toContain("0 working, 0 stale, 1 undetermined")
-  const said = (
-    await agentSubagentSweep([], givenIn(root), ALIVE, base, saying([], [OWN]))
-  ).report.join("\n")
+  const said = await reported(root, base, ALIVE, saying([], [OWN]))
   expect(said).toContain("1 subagent page(s): 0 working, 1 stale, 0 undetermined")
   expect(said).toContain("started and returned")
   world.sweep()
@@ -289,9 +282,12 @@ test("a stale page whose seat the index files no page for is left where it is", 
   expect(said.code).toBe(0)
   expect(held.asked()).toEqual([])
   expect(there(root, at)).toBe(true)
-  expect(said.report.join("\n")).toContain("the index files no page for the akasha seat")
-  expect(said.report.join("\n")).toContain(`akasha-${OWN}`)
-  expect(said.report.join("\n")).toContain("every page judged STALE was left where it is")
+  reportSays(
+    said,
+    "the index files no page for the akasha seat",
+    `akasha-${OWN}`,
+    "every page judged STALE was left where it is"
+  )
   world.sweep()
 })
 
@@ -364,10 +360,20 @@ test("a page a live process acts under stays though the transcript says that pag
   const { root, base, at } = worldWith()
   const held = landings()
   const said = await removing(root, base, ACTS, saying([], [OWN]), held.landing)
-  expect(said.report.join("\n")).toContain("1 working, 0 stale, 0 undetermined")
-  expect(said.report.join("\n")).toContain("no page was judged STALE, so nothing went")
+  reportSays(
+    said,
+    "1 working, 0 stale, 0 undetermined",
+    "no page was judged STALE, so nothing went"
+  )
   expect(held.asked()).toEqual([])
   expect(there(root, at)).toBe(true)
+  world.sweep()
+})
+
+test("a run whose landing committed before it threw names that commit", async () => {
+  const { root, base } = worldWith()
+  const said = await removing(root, base, GONE, saying([]), THREW_AFTER)
+  expect(said.refusals.join("\n")).toContain(COMMIT)
   world.sweep()
 })
 

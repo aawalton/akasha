@@ -1,3 +1,4 @@
+import { expect } from "bun:test"
 import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { ProcLivenessEntry } from "akasha/agents/proc-liveness/agent-proc-liveness.module.code.ts"
@@ -55,7 +56,7 @@ const IMPORTING_AT = `${TREE}/holding.ts`
 
 const BASE = "0000000000000000000000000000000000000000"
 
-const COMMIT = "1111111111111111111111111111111111111111"
+export const COMMIT = "1111111111111111111111111111111111111111"
 
 const LANDED: Applied = {
   base: BASE,
@@ -206,6 +207,23 @@ export function removing(
   return agentSubagentSweep(["--remove"], givenIn(root), seen, base, said, landing)
 }
 
+export function reported(
+  root: string,
+  base: string,
+  seen: readonly ProcLivenessEntry[],
+  said: RunningSaid
+): Promise<string> {
+  return agentSubagentSweep([], givenIn(root), seen, base, said).then((one) =>
+    one.report.join("\n")
+  )
+}
+
+export function reportSays(said: Answer, ...held: readonly string[]): string {
+  const report = said.report.join("\n")
+  for (const one of held) expect(report).toContain(one)
+  return report
+}
+
 export const LOCK_HELD = "another landing held the lock"
 
 export function refusedRemoving(
@@ -312,6 +330,11 @@ export function countingReads(): { reads: SeatTranscripts; asked: () => number }
 
 export const THROWN: Landing = () => {
   throw new OperationalError("another landing held the lock")
+}
+
+export const THREW_AFTER: Landing = (done) => {
+  done.push(COMMIT)
+  throw new OperationalError("the commit landed and the work after that commit stopped")
 }
 
 export function twoWaiting(root: string): undefined {
