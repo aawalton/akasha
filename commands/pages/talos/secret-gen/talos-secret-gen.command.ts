@@ -6,6 +6,7 @@ export const talosSecretGen = {
   slug: "talos-secret-gen",
   definition: "the command writing a Talos cluster's PKI bundle SOPS-encrypted",
   code: "ts",
+  test: "ts",
   taking: [],
   invariants: [
     {
@@ -51,6 +52,14 @@ export const talosSecretGen = {
     {
       invariantKind: "departure",
       statement: "A run that threw after the bundle was written over says it was written over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that threw names those writes in the order that run finished them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that threw carries the kind of fault the throw names.",
     },
   ],
   name: "secret-gen",
