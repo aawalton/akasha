@@ -1,27 +1,27 @@
-import "akasha/temper/capture-datamining-addon/datamining-public-api/datamining-public-api.module.code.ts"
+import "akasha/temper/capture-datamining-addon/modules/datamining-public-api/datamining-public-api.module.code.ts"
 
 import { DATAMINING_CAPTURE_DESCRIPTOR } from "akasha/temper/capture-datamining/modules/datamining-descriptor/datamining-descriptor.module.code.ts"
+import {
+  ADDON_NAME,
+  AUTO_START_DELAY,
+} from "akasha/temper/capture-datamining-addon/modules/datamining-constants/datamining-constants.module.code.ts"
 import {
   printStatus,
   resetMining,
   startMining,
   stopMining,
   testItemLinkRanges,
-} from "akasha/temper/capture-datamining-addon/datamining-item-miner/datamining-item-miner.module.code.ts"
+} from "akasha/temper/capture-datamining-addon/modules/datamining-item-miner/datamining-item-miner.module.code.ts"
 import {
   printQuestStatus,
   resetQuestMining,
   startQuestMining,
   stopQuestMining,
-} from "akasha/temper/capture-datamining-addon/datamining-quest-miner/datamining-quest-miner.module.code.ts"
+} from "akasha/temper/capture-datamining-addon/modules/datamining-quest-miner/datamining-quest-miner.module.code.ts"
 import {
   getSavedVariables,
   setSavedVariablesAccessor,
-} from "akasha/temper/capture-datamining-addon/datamining-saved-variables/datamining-saved-variables.module.code.ts"
-import {
-  ADDON_NAME,
-  AUTO_START_DELAY,
-} from "akasha/temper/capture-datamining-addon/modules/datamining-constants/datamining-constants.module.code.ts"
+} from "akasha/temper/capture-datamining-addon/modules/datamining-saved-variables/datamining-saved-variables.module.code.ts"
 import { defineCaptureWriter } from "akasha/temper/capture-writer/modules/capture-writer/capture-writer.module.code.ts"
 import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
 

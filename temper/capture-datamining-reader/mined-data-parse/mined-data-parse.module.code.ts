@@ -1,7 +1,7 @@
 import type {
   MinedItemEntry,
   MinedQuestEntry,
-} from "akasha/temper/capture-datamining/datamining-payload/datamining-payload.module.code.ts"
+} from "akasha/temper/capture-datamining/modules/datamining-payload/datamining-payload.module.code.ts"
 import {
   minedItemSchema,
   minedQuestSchema,

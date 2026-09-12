@@ -1,11 +1,11 @@
-import type { MinedQuestEntry } from "akasha/temper/capture-datamining/datamining-payload/datamining-payload.module.code.ts"
-import { getSavedVariables } from "akasha/temper/capture-datamining-addon/datamining-saved-variables/datamining-saved-variables.module.code.ts"
+import type { MinedQuestEntry } from "akasha/temper/capture-datamining/modules/datamining-payload/datamining-payload.module.code.ts"
 import {
   ADDON_NAME,
   QUEST_BATCH_DELAY,
   QUEST_BATCH_SIZE,
   QUEST_MAX_CONSECUTIVE_MISSES,
 } from "akasha/temper/capture-datamining-addon/modules/datamining-constants/datamining-constants.module.code.ts"
+import { getSavedVariables } from "akasha/temper/capture-datamining-addon/modules/datamining-saved-variables/datamining-saved-variables.module.code.ts"
 
 let questCurrentGeneration = 0
 

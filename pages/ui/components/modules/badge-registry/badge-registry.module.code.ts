@@ -1,5 +1,4 @@
 import type { PropertyType } from "akasha/pages/core/page-data/page-data.module.code.ts"
-import { DatePropertyBadge } from "akasha/pages/ui/components/date-property-badge/date-property-badge.module.code.tsx"
 import { FormulaPropertyBadge } from "akasha/pages/ui/components/formula-property-badge/formula-property-badge.module.code.tsx"
 import { InstantPropertyBadge } from "akasha/pages/ui/components/instant-property-badge/instant-property-badge.module.code.tsx"
 import { JsonPropertyBadge } from "akasha/pages/ui/components/json-property-badge/json-property-badge.module.code.tsx"
@@ -8,6 +7,7 @@ import { ActionButtonPropertyBadge } from "akasha/pages/ui/components/modules/ac
 import { AggregatePropertyBadge } from "akasha/pages/ui/components/modules/aggregate-property-badge/aggregate-property-badge.module.code.tsx"
 import { BooleanPropertyBadge } from "akasha/pages/ui/components/modules/boolean-property-badge/boolean-property-badge.module.code.tsx"
 import { CalendarTimePropertyBadge } from "akasha/pages/ui/components/modules/calendar-time-property-badge/calendar-time-property-badge.module.code.tsx"
+import { DatePropertyBadge } from "akasha/pages/ui/components/modules/date-property-badge/date-property-badge.module.code.tsx"
 import { MultiRelationPropertyBadge } from "akasha/pages/ui/components/multi-relation-property-badge/multi-relation-property-badge.module.code.tsx"
 import { MultiSelectPropertyBadge } from "akasha/pages/ui/components/multi-select-property-badge/multi-select-property-badge.module.code.tsx"
 import { NumberPropertyBadge } from "akasha/pages/ui/components/number-property-badge/number-property-badge.module.code.tsx"
