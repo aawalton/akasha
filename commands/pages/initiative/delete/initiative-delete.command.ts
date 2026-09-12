@@ -9,13 +9,7 @@ export const initiativeDelete = {
   test: "ts",
   changeKind: "change-mechanical",
   taking: [{ said: "<initiative>", takes: "the initiative being taken away" }],
-  helpNotes: [
-    "an initiative is named by its slug rather than by the path its page sits at.",
-    "an intent is no file of its own, so every intent the initiative held goes with the page.",
-    "a run says every page that still names the initiative, and how those names are mended.",
-    "a seat assigned the initiative keeps that assignment and is named among those pages.",
-    "a run lands one commit and runs no check.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
@@ -44,6 +38,10 @@ export const initiativeDelete = {
     {
       invariantKind: "departure",
       statement: "Every page still naming the initiative is named in what a run says.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run says under which property each of those pages names the initiative.",
     },
     {
       invariantKind: "departure",
