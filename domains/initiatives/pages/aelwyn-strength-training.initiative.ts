@@ -75,6 +75,10 @@ export const aelwynStrengthTraining = {
     {
       statement: "A set counts toward the weekly total only where that set was taken near failure.",
     },
+    {
+      statement:
+        "How Alan is today is read from the sets Alan has just done rather than asked in advance.",
+    },
   ],
   constraints: [
     "The 122 sets already logged stay readable through any change to how training is tracked.",
