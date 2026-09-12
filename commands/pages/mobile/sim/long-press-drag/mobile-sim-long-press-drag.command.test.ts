@@ -1,13 +1,23 @@
 import { expect, test } from "bun:test"
+import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import type { SimSessionState } from "akasha/alan/harness/mobile-cli/sim-session/sim-session.module.code.ts"
 import {
+  answering,
   OPERATIONAL,
   partWay,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import type { Read } from "akasha/commands/pages/mobile/sim/long-press-drag/mobile-sim-long-press-drag.command.code.ts"
-import { mobileSimLongPressDrag } from "akasha/commands/pages/mobile/sim/long-press-drag/mobile-sim-long-press-drag.command.code.ts"
+import type {
+  Pressing,
+  Read,
+} from "akasha/commands/pages/mobile/sim/long-press-drag/mobile-sim-long-press-drag.command.code.ts"
+import {
+  dragged,
+  mobileSimLongPressDrag,
+  sentSaid,
+} from "akasha/commands/pages/mobile/sim/long-press-drag/mobile-sim-long-press-drag.command.code.ts"
 
 const CORNERS = ["--x", "1", "--y", "2", "--to-x", "3", "--to-y", "4"]
 
@@ -113,4 +123,35 @@ test("a hold, a count of moves and a wait said are each read as numbers", async 
 
   await mobileSimLongPressDrag(said, GIVEN, DRAGGING)
   expect(SEEN).toEqual([{ x: 1, y: 2, toX: 3, toY: 4, holdMs: 50, steps: 3, stepMs: 7 }])
+})
+
+const STATE = { appiumBase: "http://mac:4723", sessionId: "sess-4" } as SimSessionState
+
+const READ: Read = { x: 1, y: 2, toX: 3, toY: 4, holdMs: 800, steps: 12, stepMs: 30 }
+
+function pressing(over: Partial<Pressing> = {}): Pressing {
+  return {
+    state: () => Promise.resolve(STATE),
+    pressed: () => Promise.resolve(undefined),
+    ...over,
+  }
+}
+
+const UNPRESSED = pressing({
+  pressed: () => Promise.reject(new OperationalError("the actions call never answered")),
+})
+
+test("a press is named as sent before that press goes out", async () => {
+  const done: string[] = []
+
+  await dragged(done, READ, pressing())
+  expect(done).toEqual([sentSaid(READ)])
+})
+
+test("a press that threw on the send names that press in its refusal", async () => {
+  const held = await answering(async (done) => await dragged(done, READ, UNPRESSED))
+
+  expect(held.code).toBe(OPERATIONAL)
+  expect(held.report).toEqual([sentSaid(READ)])
+  expect(held.refusals.at(-1)).toContain("(1, 2) dragging to (3, 4)")
 })

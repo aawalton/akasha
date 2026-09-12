@@ -33,6 +33,18 @@ export const mobileSimLongPressDrag = {
       invariantKind: "departure",
       statement: "A refusal names the context switch attaching to the webview already made.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A press is named as sent before that press goes out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that threw on the send names that press in its refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The session and the pressing are handed in.",
+    },
   ],
   name: "long-press-drag",
   arguments: [

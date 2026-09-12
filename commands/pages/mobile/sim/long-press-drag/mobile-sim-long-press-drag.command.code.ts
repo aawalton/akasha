@@ -1,5 +1,7 @@
+import type { LongPressDragSpec } from "akasha/alan/harness/mobile-cli/appium-client/appium-client.module.code.ts"
 import { longPressDrag } from "akasha/alan/harness/mobile-cli/appium-client/appium-client.module.code.ts"
 import { driving } from "akasha/alan/harness/mobile-cli/sim-driver/sim-driver.module.code.ts"
+import type { SimSessionState } from "akasha/alan/harness/mobile-cli/sim-session/sim-session.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { dragSteps } from "akasha/commands/arguments/pages/drag-steps.argument.ts"
 import { holdMs } from "akasha/commands/arguments/pages/hold-ms.argument.ts"
@@ -31,9 +33,31 @@ export type Read = {
 
 export type Dragging = (done: string[], read: Read) => Promise<Answer>
 
-async function dragged(done: string[], read: Read): Promise<Answer> {
-  const state = await driving(done)
-  await longPressDrag(state.appiumBase, state.sessionId, {
+export type Pressing = {
+  readonly state: (done: string[]) => Promise<SimSessionState>
+  readonly pressed: (base: string, sessionId: string, spec: LongPressDragSpec) => Promise<void>
+}
+
+export const PRESSING: Pressing = {
+  state: driving,
+  pressed: longPressDrag,
+}
+
+export function sentSaid(read: Read): string {
+  return (
+    `sent a press at (${read.x}, ${read.y}) dragging to (${read.toX}, ${read.toY}), ` +
+    "which the sim may have taken"
+  )
+}
+
+export async function dragged(
+  done: string[],
+  read: Read,
+  pressing: Pressing = PRESSING
+): Promise<Answer> {
+  const state = await pressing.state(done)
+  done.push(sentSaid(read))
+  await pressing.pressed(state.appiumBase, state.sessionId, {
     x: read.x,
     y: read.y,
     toX: read.toX,
