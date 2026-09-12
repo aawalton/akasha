@@ -77,7 +77,7 @@ export function toldIn(argv: readonly string[]): Told | string {
       json = true
       continue
     }
-    if (one.startsWith(REST)) return `\`${said}\` is nothing \`akasha music-search\` takes`
+    if (one.startsWith(REST)) return `\`${said}\` is nothing \`akasha music search\` takes`
     loose.push(one)
   }
   return { query: loose[0], artist: named[ARTIST], limitSaid: named[LIMIT], json }

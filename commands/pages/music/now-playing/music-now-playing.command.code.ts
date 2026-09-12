@@ -89,7 +89,7 @@ export async function nowPlayingWith(
 ): Promise<Answer> {
   for (const one of argv) {
     if (one !== JSON_SAID) {
-      return refused(`\`${one}\` is nothing \`akasha music-now-playing\` takes`, INPUT)
+      return refused(`\`${one}\` is nothing \`akasha music now-playing\` takes`, INPUT)
     }
   }
   const [state, current] = await Promise.all([read.getPlaybackState(), read.getCurrentlyPlaying()])

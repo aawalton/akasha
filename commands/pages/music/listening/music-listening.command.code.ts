@@ -78,7 +78,7 @@ function told(argv: readonly string[]): Told | string {
       flags.push(one)
       continue
     }
-    return `\`${one}\` is nothing \`akasha music-listening\` takes`
+    return `\`${one}\` is nothing \`akasha music listening\` takes`
   }
   return { named, flags }
 }
