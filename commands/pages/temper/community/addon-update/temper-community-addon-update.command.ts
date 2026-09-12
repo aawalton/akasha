@@ -7,9 +7,7 @@ export const temperCommunityAddonUpdate = {
   definition:
     "the command installing the published updates for the third-party game addons already here",
   code: "ts",
-  taking: [
-    { said: "--only <dir>", takes: "restrict the run to one addon folder, said once per folder" },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -46,5 +44,6 @@ export const temperCommunityAddonUpdate = {
     { argument: "argument/code-root" },
     { argument: "argument/addons-dir" },
     { argument: "argument/force" },
+    { argument: "argument/only" },
   ],
 } as const satisfies Command
