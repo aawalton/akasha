@@ -1,5 +1,5 @@
-import type { Asking } from "akasha/alan/harness/readouts/asking/readout-asking.module.code.ts"
 import { windowHours } from "akasha/alan/harness/readouts/modules/allowance-window-hours/allowance-window-hours.module.code.ts"
+import type { Asking } from "akasha/alan/harness/readouts/modules/asking/readout-asking.module.code.ts"
 
 export async function fetchFiveHourBack(
   ask: Asking,

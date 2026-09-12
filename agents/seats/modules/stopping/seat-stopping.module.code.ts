@@ -1,6 +1,6 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { dropReadings } from "akasha/agents/read-record/read-record.module.code.ts"
+import { dropReadings } from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import {
   seatPathForName,
   supervisorAlive,

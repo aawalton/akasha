@@ -1,5 +1,5 @@
 import { DEFAULT_VOICE_INFER_URL } from "akasha/alan/harness/voice-core/modules/infer-endpoint/infer-endpoint.module.code.ts"
-import { readAloudKey } from "akasha/alan/web/read-aloud-persist/read-aloud-persist.module.code.ts"
+import { readAloudKey } from "akasha/alan/web/modules/read-aloud-persist/read-aloud-persist.module.code.ts"
 import {
   type HlsKeyOpts,
   hlsPlaylistObjectKey,

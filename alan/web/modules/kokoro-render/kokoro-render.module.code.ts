@@ -3,7 +3,7 @@ import { buildKokoroSpeechSegments } from "akasha/alan/harness/voice-core/speech
 import {
   readAloudKey,
   storedReadAloudExists,
-} from "akasha/alan/web/read-aloud-persist/read-aloud-persist.module.code.ts"
+} from "akasha/alan/web/modules/read-aloud-persist/read-aloud-persist.module.code.ts"
 import {
   type ObjectStore,
   seaweedFSObjectStoreFromEnv,

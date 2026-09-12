@@ -5,15 +5,15 @@ import {
   rowsAsked,
   type Tile,
   tileAt,
-} from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.test-fixtures.ts"
+} from "akasha/alan/harness/readouts/modules/group-serving/readout-group-serving.module.test-fixtures.ts"
 import {
   dropRelayed,
   RELAY_PATH,
-} from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
+} from "akasha/alan/harness/readouts/modules/relay/readout-relay.module.code.ts"
 import {
   type Relaying,
   relayingTo,
-} from "akasha/alan/harness/readouts/relay/readout-relay.module.test-fixtures.ts"
+} from "akasha/alan/harness/readouts/modules/relay/readout-relay.module.test-fixtures.ts"
 import { action } from "akasha/smilingjenny/web/routes/jenny-readout-relay/jenny-readout-relay.route.code.ts"
 import { loader } from "akasha/smilingjenny/web/routes/jenny-upkeep/jenny-upkeep.route.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"

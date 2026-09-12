@@ -1,7 +1,7 @@
 import { POTIONS_CRAFTED } from "akasha/temper/alchemy/modules/potions-crafted/potions-crafted.module.code.ts"
 import { POTIONS_CROWN } from "akasha/temper/alchemy/modules/potions-crown/potions-crown.module.code.ts"
 import { POTIONS_DROPPED } from "akasha/temper/alchemy/modules/potions-dropped/potions-dropped.module.code.ts"
-import type { REAGENTS } from "akasha/temper/alchemy/reagent/reagent.module.code.ts"
+import type { REAGENTS } from "akasha/temper/alchemy/modules/reagent/reagent.module.code.ts"
 import type { EffectSourceInterface } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"
 import { createSourceFile } from "akasha/temper/formula-framework/source-file/source-file.module.code.ts"
 

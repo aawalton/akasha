@@ -1,5 +1,5 @@
 import { Buffer } from "node:buffer"
-import { writerIn } from "akasha/agents/read-record/read-record.module.code.ts"
+import { writerIn } from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import { unclassified } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Outside } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { calling } from "akasha/commands/modules/calling/calling.module.code.ts"

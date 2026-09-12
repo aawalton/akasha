@@ -3,8 +3,8 @@ import {
   dropRelayed,
   RELAY_PATH,
   relayReading,
-} from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
-import { carryTo } from "akasha/alan/harness/readouts/relay/readout-relay.module.test-fixtures.ts"
+} from "akasha/alan/harness/readouts/modules/relay/readout-relay.module.code.ts"
+import { carryTo } from "akasha/alan/harness/readouts/modules/relay/readout-relay.module.test-fixtures.ts"
 import { loader } from "akasha/smilingjenny/web/routes/jenny-categorization/jenny-categorization.route.code.ts"
 import { action } from "akasha/smilingjenny/web/routes/jenny-readout-relay/jenny-readout-relay.route.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"

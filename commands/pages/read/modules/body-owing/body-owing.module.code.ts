@@ -1,5 +1,9 @@
 import { relative, resolve } from "node:path"
-import { blobIdOf, readingIn, sameBody } from "akasha/agents/read-record/read-record.module.code.ts"
+import {
+  blobIdOf,
+  readingIn,
+  sameBody,
+} from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import { bytesAt } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
 
 export type Aimed = {

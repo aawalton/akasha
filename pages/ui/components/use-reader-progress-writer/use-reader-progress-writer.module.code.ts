@@ -2,8 +2,8 @@
 
 import { clampFraction } from "akasha/pages/ui/components/modules/position-fraction/position-fraction.module.code.ts"
 import { emitPositionWrite } from "akasha/pages/ui/components/modules/position-write-event/position-write-event.module.code.ts"
-import { computeReadProgress } from "akasha/pages/ui/components/read-progress/read-progress.module.code.ts"
-import type { ReaderPositionAnchor } from "akasha/pages/ui/components/reader-prose-body/reader-prose-body.module.code.tsx"
+import { computeReadProgress } from "akasha/pages/ui/components/modules/read-progress/read-progress.module.code.ts"
+import type { ReaderPositionAnchor } from "akasha/pages/ui/components/modules/reader-prose-body/reader-prose-body.module.code.tsx"
 import type { PageWithProperties } from "akasha/pages/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import { type RefObject, useEffect, useRef } from "react"
 

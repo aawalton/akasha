@@ -4,7 +4,7 @@ import {
   type Reading,
   readingIn,
   recordRead,
-} from "akasha/agents/read-record/read-record.module.code.ts"
+} from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import { refusalsKept } from "akasha/agents/refusals-keeping/refusals-keeping.module.code.ts"
 import { leftAt } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"

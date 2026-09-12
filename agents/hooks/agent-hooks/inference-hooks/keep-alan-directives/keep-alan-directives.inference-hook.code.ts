@@ -26,7 +26,7 @@ import { stillWaitingKept } from "akasha/agents/models/tests/pages/still-waiting
 import { subagentBriefKept } from "akasha/agents/models/tests/pages/subagent-brief-kept/subagent-brief-kept.model-test.code.ts"
 import { readOwnTranscriptTail } from "akasha/agents/modules/io-probe/io-probe.module.code.ts"
 import { lastAskedIn, lastSaidIn } from "akasha/agents/modules/last-said/last-said.module.code.ts"
-import { seatIn } from "akasha/agents/read-record/read-record.module.code.ts"
+import { seatIn } from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import { transcriptOf } from "akasha/agents/seats/modules/transcript-path/seat-transcript-path.module.code.ts"
 import {
   createSubagentReader,

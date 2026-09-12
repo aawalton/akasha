@@ -6,15 +6,15 @@ import {
   storeGoes,
   type Tile,
   tileAt,
-} from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.test-fixtures.ts"
+} from "akasha/alan/harness/readouts/modules/group-serving/readout-group-serving.module.test-fixtures.ts"
 import {
   dropRelayed,
   RELAY_PATH,
-} from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
+} from "akasha/alan/harness/readouts/modules/relay/readout-relay.module.code.ts"
 import {
   type Relaying,
   relayingTo,
-} from "akasha/alan/harness/readouts/relay/readout-relay.module.test-fixtures.ts"
+} from "akasha/alan/harness/readouts/modules/relay/readout-relay.module.test-fixtures.ts"
 import { action } from "akasha/alan/web/routes/readout-relay/readout-relay.route.code.ts"
 
 globalThis.Response = (await fetch("data:text/plain,")).constructor as typeof Response

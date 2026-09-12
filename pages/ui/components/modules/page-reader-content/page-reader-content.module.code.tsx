@@ -19,19 +19,19 @@ import {
   fractionToScrollTop,
   resolveResumeFraction,
 } from "akasha/pages/ui/components/modules/position-fraction/position-fraction.module.code.ts"
-import { ReaderAudioBlock } from "akasha/pages/ui/components/reader-audio-block/reader-audio-block.module.code.tsx"
+import { ReaderAudioBlock } from "akasha/pages/ui/components/modules/reader-audio-block/reader-audio-block.module.code.tsx"
 import {
   type ReaderNeighborLink,
   ReaderPager,
   ReadingProgressBar,
-} from "akasha/pages/ui/components/reader-chrome/reader-chrome.module.code.tsx"
-import { useReaderPageSource } from "akasha/pages/ui/components/reader-page-source/reader-page-source.module.code.tsx"
+} from "akasha/pages/ui/components/modules/reader-chrome/reader-chrome.module.code.tsx"
+import { useReaderPageSource } from "akasha/pages/ui/components/modules/reader-page-source/reader-page-source.module.code.tsx"
 import {
   ReaderProseBody,
   ReaderProseStatic,
-} from "akasha/pages/ui/components/reader-prose-body/reader-prose-body.module.code.tsx"
-import { layoutSentenceSpans } from "akasha/pages/ui/components/reader-sentence-layout/reader-sentence-layout.module.code.ts"
-import { READER_PROSE_TYPOGRAPHY } from "akasha/pages/ui/components/reader-typography/reader-typography.module.code.ts"
+} from "akasha/pages/ui/components/modules/reader-prose-body/reader-prose-body.module.code.tsx"
+import { layoutSentenceSpans } from "akasha/pages/ui/components/modules/reader-sentence-layout/reader-sentence-layout.module.code.ts"
+import { READER_PROSE_TYPOGRAPHY } from "akasha/pages/ui/components/modules/reader-typography/reader-typography.module.code.ts"
 import { useReadEndOnScroll } from "akasha/pages/ui/components/use-read-end-on-scroll/use-read-end-on-scroll.module.code.ts"
 import { useReaderProgressWriter } from "akasha/pages/ui/components/use-reader-progress-writer/use-reader-progress-writer.module.code.ts"
 import { useRestoreReadPosition } from "akasha/pages/ui/components/use-restore-read-position/use-restore-read-position.module.code.ts"

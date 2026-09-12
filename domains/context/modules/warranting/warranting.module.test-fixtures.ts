@@ -1,6 +1,9 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { recordRead, SUBAGENT_MARK } from "akasha/agents/read-record/read-record.module.code.ts"
+import {
+  recordRead,
+  SUBAGENT_MARK,
+} from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import type { Warrant } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { dataAt } from "akasha/files/modules/git-place/git-place.module.code.ts"

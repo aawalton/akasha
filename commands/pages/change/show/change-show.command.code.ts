@@ -1,4 +1,4 @@
-import { blobIdOf, recordRead } from "akasha/agents/read-record/read-record.module.code.ts"
+import { blobIdOf, recordRead } from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import {
   editsAt,
   editsIn,

@@ -1,4 +1,4 @@
-import { READOUT_CACHE_CONTROL } from "akasha/alan/harness/readouts/credential/readout-credential.module.code.ts"
+import { READOUT_CACHE_CONTROL } from "akasha/alan/harness/readouts/modules/credential/readout-credential.module.code.ts"
 import { guardReadout } from "akasha/alan/web/.server/readout-guarding/readout-guarding.module.code.ts"
 import type {
   Asked,

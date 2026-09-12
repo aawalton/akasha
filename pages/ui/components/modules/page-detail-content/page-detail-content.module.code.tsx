@@ -12,7 +12,7 @@ import {
   selectDetailBody,
 } from "akasha/pages/ui/components/modules/page-detail-content-helpers/page-detail-content-helpers.module.code.ts"
 import { PageReaderContent } from "akasha/pages/ui/components/modules/page-reader-content/page-reader-content.module.code.tsx"
-import type { ReaderNeighborLink } from "akasha/pages/ui/components/reader-chrome/reader-chrome.module.code.tsx"
+import type { ReaderNeighborLink } from "akasha/pages/ui/components/modules/reader-chrome/reader-chrome.module.code.tsx"
 import type { MediaVariant } from "akasha/pages/ui/media/modules/page-media-player/page-media-player.module.code.tsx"
 import { useAllPages } from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { usePage } from "akasha/pages/ui/supabase/use-page/use-page.module.code.ts"

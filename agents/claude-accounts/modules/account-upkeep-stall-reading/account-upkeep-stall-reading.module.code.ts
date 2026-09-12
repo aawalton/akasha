@@ -15,7 +15,7 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { emitReading } from "akasha/verdict/reading-channel/reading-channel.module.code.ts"
+import { emitReading } from "akasha/verdict/modules/reading-channel/reading-channel.module.code.ts"
 
 const LATCH_AT = "/var/tmp/claude-account-upkeep-stall.latch"
 

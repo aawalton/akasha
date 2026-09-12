@@ -1,7 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { blobIdOf, type Reading } from "akasha/agents/read-record/read-record.module.code.ts"
+import {
+  blobIdOf,
+  type Reading,
+} from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
 import {
   commitNamed,

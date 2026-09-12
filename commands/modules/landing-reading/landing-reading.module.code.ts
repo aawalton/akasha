@@ -6,7 +6,7 @@ import {
   type Reading,
   readingIn,
   recordRead,
-} from "akasha/agents/read-record/read-record.module.code.ts"
+} from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type { Running } from "akasha/commands/modules/change-kind-running/change-kind-running.module.code.ts"

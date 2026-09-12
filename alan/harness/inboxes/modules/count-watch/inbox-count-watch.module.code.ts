@@ -9,14 +9,14 @@ import {
   tasksPage,
   temperTasksPage,
 } from "akasha/alan/harness/inboxes/modules/reading/inbox-reading.module.code.ts"
-import { keepReading } from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
+import { keepReading } from "akasha/alan/harness/readouts/modules/reading/readout-reading.module.code.ts"
 import {
   NO_SECRET_TO_CARRY_ON,
   RELAY_SECRET_NAME,
   readoutNamedBy,
   relayReading,
   statedIn,
-} from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
+} from "akasha/alan/harness/readouts/modules/relay/readout-relay.module.code.ts"
 import { leftWhereCodeMoved } from "akasha/infrastructure/services/workstations/modules/code-moving/code-moving.module.code.ts"
 import { followFolders } from "akasha/infrastructure/services/workstations/modules/file-following/file-following.module.code.ts"
 import { indexNamed } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"

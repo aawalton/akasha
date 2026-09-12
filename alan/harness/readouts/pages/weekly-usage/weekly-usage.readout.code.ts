@@ -1,4 +1,7 @@
-import type { Asking, Row } from "akasha/alan/harness/readouts/asking/readout-asking.module.code.ts"
+import type {
+  Asking,
+  Row,
+} from "akasha/alan/harness/readouts/modules/asking/readout-asking.module.code.ts"
 import { asNumber } from "akasha/utils/narrow/modules/as-number/as-number.module.code.ts"
 
 const CLAUDE_ACCOUNT = "claude-account"

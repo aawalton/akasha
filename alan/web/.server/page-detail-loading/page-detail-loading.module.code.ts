@@ -22,7 +22,7 @@ import {
   getPropertyDefinitions,
   getSequenceConfig,
 } from "akasha/pages/access/modules/page-type-config/page-type-config.module.code.ts"
-import type { ReaderNeighborLink } from "akasha/pages/ui/components/reader-chrome/reader-chrome.module.code.tsx"
+import type { ReaderNeighborLink } from "akasha/pages/ui/components/modules/reader-chrome/reader-chrome.module.code.tsx"
 import type { MediaVariant } from "akasha/pages/ui/media/modules/page-media-player/page-media-player.module.code.tsx"
 import {
   buildPageHref,

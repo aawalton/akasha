@@ -1,13 +1,13 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
-import { answerStoplightsAdmittedBy } from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.code.ts"
+import { answerStoplightsAdmittedBy } from "akasha/alan/harness/readouts/modules/group-serving/readout-group-serving.module.code.ts"
 import {
   colorIn,
   readoutsNaming,
   type Tile,
   tileAt,
-} from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.test-fixtures.ts"
-import { dropRelayed } from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
-import { relayedFor } from "akasha/alan/harness/readouts/relay/readout-relay.module.test-fixtures.ts"
+} from "akasha/alan/harness/readouts/modules/group-serving/readout-group-serving.module.test-fixtures.ts"
+import { dropRelayed } from "akasha/alan/harness/readouts/modules/relay/readout-relay.module.code.ts"
+import { relayedFor } from "akasha/alan/harness/readouts/modules/relay/readout-relay.module.test-fixtures.ts"
 import {
   GROUP,
   WIRE_KEY_NAME,

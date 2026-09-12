@@ -1,4 +1,4 @@
-import { SUBAGENT_MARK } from "akasha/agents/read-record/read-record.module.code.ts"
+import { SUBAGENT_MARK } from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import { transcriptOf } from "akasha/agents/seats/modules/transcript-path/seat-transcript-path.module.code.ts"
 import {
   createSubagentReader,

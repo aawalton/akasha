@@ -1,6 +1,6 @@
 import { cpSync, existsSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { blobIdOf, recordRead } from "akasha/agents/read-record/read-record.module.code.ts"
+import { blobIdOf, recordRead } from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { appendEdits } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Phase } from "akasha/checks/modules/checking/checking.module.code.ts"

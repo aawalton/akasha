@@ -4,7 +4,7 @@ import {
   type LitrpgChapter,
   type LitrpgRating,
   type LitrpgStory,
-} from "akasha/alan/library/reading/shapes/reading-shapes.module.code.ts"
+} from "akasha/alan/library/reading/modules/shapes/reading-shapes.module.code.ts"
 import type { ComposedQuery } from "akasha/pages/query/store-questioning/store-questioning.module.code.ts"
 import { askComposed } from "akasha/pages/query/store-spelled-asking/store-spelled-asking.module.code.ts"
 import { z } from "zod"

@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   answering,
   refusing,
-} from "akasha/alan/harness/readouts/asking/readout-asking.module.test-fixtures.ts"
+} from "akasha/alan/harness/readouts/modules/asking/readout-asking.module.test-fixtures.ts"
 import {
   fetchLowestInbox,
   lowestIn,

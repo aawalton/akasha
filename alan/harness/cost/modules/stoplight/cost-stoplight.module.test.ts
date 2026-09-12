@@ -3,14 +3,14 @@ import {
   answerCostAdmittedBy,
   costStoplights,
 } from "akasha/alan/harness/cost/modules/stoplight/cost-stoplight.module.code.ts"
-import type { Stoplight } from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.code.ts"
+import type { Stoplight } from "akasha/alan/harness/readouts/modules/group-serving/readout-group-serving.module.code.ts"
 import {
   type AskedOf,
   agedOut,
   rowsAsked,
-} from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.test-fixtures.ts"
-import { dropRelayed } from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
-import { relayedFor } from "akasha/alan/harness/readouts/relay/readout-relay.module.test-fixtures.ts"
+} from "akasha/alan/harness/readouts/modules/group-serving/readout-group-serving.module.test-fixtures.ts"
+import { dropRelayed } from "akasha/alan/harness/readouts/modules/relay/readout-relay.module.code.ts"
+import { relayedFor } from "akasha/alan/harness/readouts/modules/relay/readout-relay.module.test-fixtures.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 const COST = "cost-multiplier"

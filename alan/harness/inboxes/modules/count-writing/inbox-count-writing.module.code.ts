@@ -4,7 +4,7 @@ import {
   INBOX_KEYS,
   type InboxKey,
 } from "akasha/alan/harness/inboxes/modules/keys/inbox-keys.module.code.ts"
-import { statedAt } from "akasha/alan/harness/readouts/tier/readout-tier.module.code.ts"
+import { statedAt } from "akasha/alan/harness/readouts/modules/tier/readout-tier.module.code.ts"
 import { openedDayOf } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
 import {
   DAILY_TRACKING,

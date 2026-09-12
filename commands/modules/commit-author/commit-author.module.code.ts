@@ -1,4 +1,4 @@
-import { writerIn } from "akasha/agents/read-record/read-record.module.code.ts"
+import { writerIn } from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import { pageTextOf } from "akasha/agents/seats/modules/page-values/seat-page-values.module.code.ts"
 import { seat } from "akasha/agents/seats/seat.page-type.ts"
 import { ownRepoRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"

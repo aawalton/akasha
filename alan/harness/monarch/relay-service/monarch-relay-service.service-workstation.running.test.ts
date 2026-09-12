@@ -1,5 +1,5 @@
 import { expect, mock, test } from "bun:test"
-import type { Carry } from "akasha/alan/harness/readouts/relay-carrying/readout-relay-carrying.module.code.ts"
+import type { Carry } from "akasha/alan/harness/readouts/modules/relay-carrying/readout-relay-carrying.module.code.ts"
 
 const UNREVIEWED = "readout/monarch-unreviewed-transactions"
 
@@ -10,11 +10,11 @@ const JENNYS_SITE = "https://smilingjenny.me"
 const ROUNDS: (readonly Carry[])[] = []
 
 const carrying = await import(
-  "akasha/alan/harness/readouts/relay-carrying/readout-relay-carrying.module.code.ts"
+  "akasha/alan/harness/readouts/modules/relay-carrying/readout-relay-carrying.module.code.ts"
 )
 
 mock.module(
-  "akasha/alan/harness/readouts/relay-carrying/readout-relay-carrying.module.code.ts",
+  "akasha/alan/harness/readouts/modules/relay-carrying/readout-relay-carrying.module.code.ts",
   () => ({
     ...carrying,
     carryEachReading: (carries: readonly Carry[]) => {

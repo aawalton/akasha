@@ -26,7 +26,7 @@ import {
   OFFLINE_COMPLETIONS_CHANGED_EVENT,
   positionPatches,
 } from "akasha/alan/web/modules/offline-text-cache/offline-text-cache.module.code.ts"
-import { reportReadCompletionDiag } from "akasha/alan/web/read-completion-diagnostics/read-completion-diagnostics.module.code.ts"
+import { reportReadCompletionDiag } from "akasha/alan/web/modules/read-completion-diagnostics/read-completion-diagnostics.module.code.ts"
 import {
   POSITION_WRITE_EVENT,
   parsePositionWriteDetail,

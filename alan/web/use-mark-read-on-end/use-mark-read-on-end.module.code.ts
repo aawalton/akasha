@@ -5,7 +5,7 @@ import { enqueueChapterCompletion } from "akasha/alan/web/modules/offline-text/o
 import {
   isCompletionAlreadySet,
   selectCompletionWriteMode,
-} from "akasha/alan/web/read-completion/read-completion.module.code.ts"
+} from "akasha/alan/web/modules/read-completion/read-completion.module.code.ts"
 import { patchPage } from "akasha/pages/access/modules/patch/patch.module.code.ts"
 import { parsePageTypeData } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import { useAllPages } from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"

@@ -12,7 +12,7 @@ import {
   ACTING_NAMED,
   SUBAGENT_MARK,
   seatIn,
-} from "akasha/agents/read-record/read-record.module.code.ts"
+} from "akasha/agents/modules/read-record/read-record.module.code.ts"
 
 const HOOK = "name-subagent"
 

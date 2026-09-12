@@ -15,7 +15,7 @@ import type {
   LitrpgStory,
   NowReading,
   SelectOptions,
-} from "akasha/alan/library/reading/shapes/reading-shapes.module.code.ts"
+} from "akasha/alan/library/reading/modules/shapes/reading-shapes.module.code.ts"
 
 function selectNextStory(catalog: LitrpgCatalog, options: SelectOptions = {}): LitrpgStory | null {
   const chaptersByStory = buildChaptersByStory(catalog)

@@ -24,7 +24,7 @@ import {
   createReadOnlyAnonSession,
   createReadOnlyRealUserHarness,
   createReadOnlyThrowawayHarness,
-} from "akasha/code/browser/test-harness/read-only-harness/read-only-harness.module.code.ts"
+} from "akasha/code/browser/test-harness/modules/read-only-harness/read-only-harness.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { asThrowaway } from "akasha/commands/arguments/pages/as-throwaway.argument.ts"
 import { expectAttr } from "akasha/commands/arguments/pages/expect-attr.argument.ts"

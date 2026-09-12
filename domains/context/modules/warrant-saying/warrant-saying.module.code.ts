@@ -1,4 +1,4 @@
-import { reachOf } from "akasha/agents/read-record/read-record.module.code.ts"
+import { reachOf } from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import type {
   Owing,
   Warrant,

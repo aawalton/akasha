@@ -13,8 +13,8 @@ import { attributeStrength } from "akasha/alan/attributes/readouts/attribute-str
 import { attributeWisdom } from "akasha/alan/attributes/readouts/attribute-wisdom/attribute-wisdom.readout.ts"
 import { getEsoDayStr } from "akasha/alan/harness/day/modules/eso-day/eso-day.module.code.ts"
 import { askingIn } from "akasha/alan/harness/plants/modules/reading/plants-reading.module.code.ts"
-import type { Row } from "akasha/alan/harness/readouts/asking/readout-asking.module.code.ts"
-import { keepReading } from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
+import type { Row } from "akasha/alan/harness/readouts/modules/asking/readout-asking.module.code.ts"
+import { keepReading } from "akasha/alan/harness/readouts/modules/reading/readout-reading.module.code.ts"
 import {
   openedDayOf,
   openedDayWindow,

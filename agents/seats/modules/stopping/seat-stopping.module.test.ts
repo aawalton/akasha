@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { readingIn, recordRead } from "akasha/agents/read-record/read-record.module.code.ts"
+import { readingIn, recordRead } from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import {
   isAgentProcess,
   killTarget,

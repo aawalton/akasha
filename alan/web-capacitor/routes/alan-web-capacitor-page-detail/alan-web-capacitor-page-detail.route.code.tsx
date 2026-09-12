@@ -5,7 +5,7 @@ import {
   type PageDisplayKind,
   selectPageDisplayKind,
 } from "akasha/alan/web/modules/page-display-kind/page-display-kind.module.code.ts"
-import { ReaderNarrationDetail } from "akasha/alan/web/reader-narration-detail/reader-narration-detail.module.code.tsx"
+import { ReaderNarrationDetail } from "akasha/alan/web/modules/reader-narration-detail/reader-narration-detail.module.code.tsx"
 import { useIsOnline } from "akasha/alan/web/use-is-online/use-is-online.module.code.ts"
 import { useMediaVariants } from "akasha/alan/web/use-media-variants/use-media-variants.module.code.ts"
 import { useNextUnreadHref } from "akasha/alan/web/use-next-unread/use-next-unread.module.code.ts"

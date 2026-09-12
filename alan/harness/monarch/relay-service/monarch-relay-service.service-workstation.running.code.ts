@@ -1,4 +1,4 @@
-import { carryEachReading } from "akasha/alan/harness/readouts/relay-carrying/readout-relay-carrying.module.code.ts"
+import { carryEachReading } from "akasha/alan/harness/readouts/modules/relay-carrying/readout-relay-carrying.module.code.ts"
 
 const CARRIES = [
   { point: "readout/monarch-unreviewed-transactions", to: "https://alanwalton.com" },

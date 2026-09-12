@@ -9,7 +9,7 @@ import {
   recordRead,
   SUBAGENT_MARK,
   sameBody,
-} from "akasha/agents/read-record/read-record.module.code.ts"
+} from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   againOf,

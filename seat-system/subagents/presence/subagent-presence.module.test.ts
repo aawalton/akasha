@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { readingIn } from "akasha/agents/read-record/read-record.module.code.ts"
+import { readingIn } from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import { refusalsKept } from "akasha/agents/refusals-keeping/refusals-keeping.module.code.ts"
 import { refusalsSaid } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"

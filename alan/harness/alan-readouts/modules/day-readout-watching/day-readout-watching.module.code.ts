@@ -28,14 +28,14 @@ import {
 import {
   keepSilence,
   readoutPage,
-} from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
+} from "akasha/alan/harness/readouts/modules/reading/readout-reading.module.code.ts"
 import {
   SETTLE_MS,
   type WatchedReadout,
   type Watching,
   type WatchLogger,
   watchReadings,
-} from "akasha/alan/harness/readouts/watching/readout-watching.module.code.ts"
+} from "akasha/alan/harness/readouts/modules/watching/readout-watching.module.code.ts"
 import {
   READOUT_SLUG as SAFETY_SLUG,
   takeReading as takeSafety,

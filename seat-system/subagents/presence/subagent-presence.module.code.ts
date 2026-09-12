@@ -1,6 +1,6 @@
 import { closeSync, existsSync, mkdirSync, openSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { dropReadings } from "akasha/agents/read-record/read-record.module.code.ts"
+import { dropReadings } from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import { supervisorsRootDir } from "akasha/agents/seats/supervisors/modules/log-path/supervisor-log-path.module.code.ts"
 import { subagentPageInHistory } from "akasha/agents/subagents/modules/page-history/subagent-page-history.module.code.ts"
 import { movedOnto } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"

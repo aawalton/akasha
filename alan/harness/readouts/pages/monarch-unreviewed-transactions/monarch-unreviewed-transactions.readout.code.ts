@@ -1,4 +1,4 @@
-import type { RingCounts } from "akasha/alan/harness/readouts/body/readout-body.module.code.ts"
+import type { RingCounts } from "akasha/alan/harness/readouts/modules/body/readout-body.module.code.ts"
 import { z } from "zod"
 
 const API_URL = "https://api.monarch.com/graphql"

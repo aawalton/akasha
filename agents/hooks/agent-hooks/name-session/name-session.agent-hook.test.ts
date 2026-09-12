@@ -10,7 +10,7 @@ import {
   written,
 } from "akasha/agents/hooks/agent-hooks/name-session/name-session.agent-hook.code.ts"
 import { ASIDE } from "akasha/agents/hooks/modules/answer/hook-answer.module.code.ts"
-import { SEAT_NAMED } from "akasha/agents/read-record/read-record.module.code.ts"
+import { SEAT_NAMED } from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 const SCRIPT = join(import.meta.dir, "name-session.agent-hook.code.ts")

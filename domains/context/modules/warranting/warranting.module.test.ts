@@ -4,7 +4,7 @@ import {
   blobIdOf,
   recordRead,
   SUBAGENT_MARK,
-} from "akasha/agents/read-record/read-record.module.code.ts"
+} from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import {
   agentPathOf,
   gatheredIn,

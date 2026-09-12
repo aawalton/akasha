@@ -6,7 +6,7 @@ import {
   type Reading,
   readingIn,
   recordRead,
-} from "akasha/agents/read-record/read-record.module.code.ts"
+} from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import { leadingBytes } from "akasha/code/utf8-body/utf8-body.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/modules/argument-taking/argument-taking.module.code.ts"
 import { filePath } from "akasha/commands/arguments/pages/file-path.argument.ts"
