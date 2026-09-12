@@ -33,4 +33,5 @@ export const googleCalendarEventDelete = {
       statement: "This reaches the calendar as the account akasha runs under.",
     },
   ],
+  name: "delete",
 } as const satisfies Command

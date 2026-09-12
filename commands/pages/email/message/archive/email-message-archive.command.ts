@@ -29,4 +29,5 @@ export const emailMessageArchive = {
       statement: "Nothing here reads the message's body.",
     },
   ],
+  name: "archive",
 } as const satisfies Command

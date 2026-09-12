@@ -38,4 +38,5 @@ export const googleAuthLogin = {
       statement: "The token's value reaches neither the report nor a log.",
     },
   ],
+  name: "login",
 } as const satisfies Command

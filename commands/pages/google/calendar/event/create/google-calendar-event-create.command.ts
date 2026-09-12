@@ -68,4 +68,5 @@ export const googleCalendarEventCreate = {
       statement: "Everyone attending is emailed unless the call says who to email instead.",
     },
   ],
+  name: "create",
 } as const satisfies Command

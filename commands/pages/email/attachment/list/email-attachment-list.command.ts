@@ -26,4 +26,5 @@ export const emailAttachmentList = {
       statement: "No attachment's bytes are read here.",
     },
   ],
+  name: "list",
 } as const satisfies Command

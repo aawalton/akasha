@@ -31,4 +31,5 @@ export const emailMessageModifyLabels = {
       statement: "The labels the message has after the change come back.",
     },
   ],
+  name: "modify-labels",
 } as const satisfies Command

@@ -67,4 +67,5 @@ export const googleDriveFetch = {
       statement: "Nothing here writes to Drive.",
     },
   ],
+  name: "fetch",
 } as const satisfies Command

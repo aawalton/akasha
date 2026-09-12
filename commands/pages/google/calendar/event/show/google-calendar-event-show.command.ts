@@ -34,4 +34,5 @@ export const googleCalendarEventShow = {
       statement: "This reaches the calendar as the account akasha runs under.",
     },
   ],
+  name: "show",
 } as const satisfies Command

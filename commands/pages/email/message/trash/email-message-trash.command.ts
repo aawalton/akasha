@@ -29,4 +29,5 @@ export const emailMessageTrash = {
       statement: "Nothing here deletes a message for good.",
     },
   ],
+  name: "trash",
 } as const satisfies Command

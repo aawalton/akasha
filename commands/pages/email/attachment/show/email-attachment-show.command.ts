@@ -30,4 +30,5 @@ export const emailAttachmentShow = {
       statement: "Nothing here writes the bytes to a file.",
     },
   ],
+  name: "show",
 } as const satisfies Command

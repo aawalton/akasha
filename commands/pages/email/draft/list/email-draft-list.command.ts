@@ -19,4 +19,5 @@ export const emailDraftList = {
       statement: "Nothing here reads a draft's body.",
     },
   ],
+  name: "list",
 } as const satisfies Command

@@ -59,4 +59,5 @@ export const emailMessageSend = {
       statement: "A message with no attachment is one plain-text part rather than multipart.",
     },
   ],
+  name: "send",
 } as const satisfies Command

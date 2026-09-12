@@ -29,4 +29,5 @@ export const emailMessageShow = {
       statement: "No attachment's bytes come back here.",
     },
   ],
+  name: "show",
 } as const satisfies Command

@@ -54,4 +54,5 @@ export const emailDraftCreate = {
       statement: "Nothing here sends the draft.",
     },
   ],
+  name: "create",
 } as const satisfies Command

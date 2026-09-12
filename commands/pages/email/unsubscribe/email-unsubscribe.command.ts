@@ -39,4 +39,5 @@ export const emailUnsubscribe = {
         "Nothing here says the effect an unsubscribe would have without doing that unsubscribe.",
     },
   ],
+  name: "unsubscribe",
 } as const satisfies Command

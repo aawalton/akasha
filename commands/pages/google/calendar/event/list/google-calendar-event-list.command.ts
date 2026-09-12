@@ -35,4 +35,5 @@ export const googleCalendarEventList = {
       statement: "Nothing here reads a calendar the call does not name or Alan does not own.",
     },
   ],
+  name: "list",
 } as const satisfies Command

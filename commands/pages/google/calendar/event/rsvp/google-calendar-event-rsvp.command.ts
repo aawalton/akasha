@@ -48,4 +48,5 @@ export const googleCalendarEventRsvp = {
       statement: "Everyone attending is emailed unless the call says who to email instead.",
     },
   ],
+  name: "rsvp",
 } as const satisfies Command

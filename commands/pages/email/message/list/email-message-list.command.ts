@@ -36,4 +36,5 @@ export const emailMessageList = {
       statement: "A listing fetches each message's headers one message at a time.",
     },
   ],
+  name: "list",
 } as const satisfies Command
