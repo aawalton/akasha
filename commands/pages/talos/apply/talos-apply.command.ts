@@ -16,15 +16,24 @@ export const talosApply = {
       takes: "the cluster to apply for, where the node's own is not the one meant",
     },
   ],
-  helpNotes: [
-    "the schematic is registered, the machine-config patch is built, the secrets are decrypted, and the config is generated and applied.",
-    "the control-plane endpoint is the cluster's VIP where the cluster states one, so issuer and audience match across its members.",
-    "the machine type follows the node's role, so a worker takes worker.yaml and every other role takes controlplane.yaml.",
-    "the talosconfig generated here is written under the home directory at mode 0600, and the later talos acts read it there.",
-    "talosctl and sops must be on PATH, and the cluster's secrets must have been generated already.",
-    "talosctl writes its own progress to the streams this was called on, so that output is not in the report.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "The node's schematic is registered with the Image Factory before the config is generated.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The talosconfig is written under the home at mode 0600.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`talosctl` or `sops` missing from PATH is the machine's fault.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "talosctl writes its own progress to the streams the call was made on.",
+    },
     {
       invariantKind: "departure",
       statement: "The node is named as a word or after `--node`.",
