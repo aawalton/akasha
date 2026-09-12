@@ -1,0 +1,10 @@
+import type { SeatLogDay } from "akasha/agents/seats/log-days/seat-log-day.page-type.types.ts"
+
+export const supervisorConsoleThea20260906 = {
+  id: "01a07406-fdad-78f0-aff8-736d04351d9e",
+  type: "seat-log-day",
+  slug: "supervisor-console-thea-2026-09-06",
+  source: "supervisor-console",
+  seatName: "thea",
+  date: "2026-09-06",
+} as const satisfies SeatLogDay

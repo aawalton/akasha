@@ -1,4 +1,4 @@
-import { sweepLogDays } from "akasha/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.code.ts"
+import { sweepLogDays } from "akasha/agents/seats/log-days/log-day-sweeping/log-day-sweeping.module.code.ts"
 
 const REMOVE = "--remove"
 
