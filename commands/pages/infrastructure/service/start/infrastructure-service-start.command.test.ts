@@ -22,9 +22,9 @@ test("every service is nothing this takes", () => {
   expect(answer.refusals[0]).toContain("`--all`")
 })
 
-test("a slug no page carries is the data's fault", () => {
+test("a slug no page carries is the caller's mistake", () => {
   const answer = infrastructureServiceStart(["no-such-service-is-here"], HERE)
-  expect(answer.code).toBe(2)
+  expect(answer.code).toBe(1)
   expect(answer.refusals[0]).toContain("no-such-service-is-here")
 })
 
