@@ -4,7 +4,7 @@ import {
   actingAgentPidsFromProc,
   type ProcLivenessEntry,
 } from "akasha/agents/proc-liveness/agent-proc-liveness.module.code.ts"
-import { SUBAGENT_MARK } from "akasha/commands/modules/reading/reading.module.code.ts"
+import { SUBAGENT_MARK } from "akasha/agents/read-record/read-record.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"

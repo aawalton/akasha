@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { readdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { blobIdOf } from "akasha/commands/modules/reading/reading.module.code.ts"
+import { blobIdOf } from "akasha/agents/read-record/read-record.module.code.ts"
 import {
   SCRATCH_AT,
   scratchWorld,

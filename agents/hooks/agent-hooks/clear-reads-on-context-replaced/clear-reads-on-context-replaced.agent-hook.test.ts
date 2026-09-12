@@ -20,7 +20,7 @@ import {
   READS_AT,
   readingFileAt,
   SUBAGENT_MARK,
-} from "akasha/commands/modules/reading/reading.module.code.ts"
+} from "akasha/agents/read-record/read-record.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"

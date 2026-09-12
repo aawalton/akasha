@@ -14,7 +14,7 @@ import {
   calledWords,
   segmentsOf,
 } from "akasha/agents/hooks/shell-calls/shell-calls.module.code.ts"
-import { SUBAGENT_MARK } from "akasha/commands/modules/reading/reading.module.code.ts"
+import { SUBAGENT_MARK } from "akasha/agents/read-record/read-record.module.code.ts"
 
 const HOOK = "block-subagent-audit"
 

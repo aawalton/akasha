@@ -1,3 +1,4 @@
+import { blobIdOf, recordRead } from "akasha/agents/read-record/read-record.module.code.ts"
 import {
   editsAt,
   editsIn,
@@ -12,7 +13,6 @@ import {
 } from "akasha/commands/modules/change-running/change-running.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
-import { blobIdOf, recordRead } from "akasha/commands/modules/reading/reading.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { offRepo, pathAt } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
 import {

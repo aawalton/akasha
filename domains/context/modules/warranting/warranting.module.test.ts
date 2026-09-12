@@ -4,7 +4,7 @@ import {
   blobIdOf,
   recordRead,
   SUBAGENT_MARK,
-} from "akasha/commands/modules/reading/reading.module.code.ts"
+} from "akasha/agents/read-record/read-record.module.code.ts"
 import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import {
   agentPathOf,

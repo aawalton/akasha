@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { blobIdOf, recordRead } from "akasha/commands/modules/reading/reading.module.code.ts"
+import { blobIdOf, recordRead } from "akasha/agents/read-record/read-record.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import {

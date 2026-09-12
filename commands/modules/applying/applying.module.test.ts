@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { readingIn } from "akasha/agents/read-record/read-record.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   applied,
@@ -22,7 +23,6 @@ import {
   rowsIn,
   scratch,
 } from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
-import { readingIn } from "akasha/commands/modules/reading/reading.module.code.ts"
 import { said as gitSaid } from "akasha/git/running/git-running.module.code.ts"
 import { noImportersFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 

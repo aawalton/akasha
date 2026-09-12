@@ -1,6 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { recordRead, SUBAGENT_MARK } from "akasha/commands/modules/reading/reading.module.code.ts"
+import { recordRead, SUBAGENT_MARK } from "akasha/agents/read-record/read-record.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"

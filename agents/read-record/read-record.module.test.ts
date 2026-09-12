@@ -19,7 +19,7 @@ import {
   seatIn,
   sweptReadings,
   writerIn,
-} from "akasha/commands/modules/reading/reading.module.code.ts"
+} from "akasha/agents/read-record/read-record.module.code.ts"
 import {
   A,
   AGENT,
@@ -29,7 +29,7 @@ import {
   scratch,
   thinAt,
   UNDER,
-} from "akasha/commands/modules/reading/reading.module.test-fixtures.ts"
+} from "akasha/agents/read-record/read-record.module.test-fixtures.ts"
 import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)

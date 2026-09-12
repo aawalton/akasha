@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { blobIdOf, type Reading } from "akasha/agents/read-record/read-record.module.code.ts"
 import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
 import {
   commitNamed,
@@ -20,7 +21,6 @@ import {
   rowsIn,
   TYPE,
 } from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
-import { blobIdOf, type Reading } from "akasha/commands/modules/reading/reading.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { said as git } from "akasha/git/running/git-running.module.code.ts"
 import type { Facing } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"

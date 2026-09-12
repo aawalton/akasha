@@ -10,7 +10,7 @@ import {
   SUBAGENT_MARK,
   type Swept,
   sweptReadings,
-} from "akasha/commands/modules/reading/reading.module.code.ts"
+} from "akasha/agents/read-record/read-record.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 
 const HOOK = "clear-reads-on-context-replaced"

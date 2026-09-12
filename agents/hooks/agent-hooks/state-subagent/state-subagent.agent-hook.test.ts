@@ -4,7 +4,7 @@ import {
   askedOf,
   SCOPE,
 } from "akasha/agents/hooks/agent-hooks/state-subagent/state-subagent.agent-hook.code.ts"
-import { SEAT_NAMED } from "akasha/commands/modules/reading/reading.module.code.ts"
+import { SEAT_NAMED } from "akasha/agents/read-record/read-record.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 

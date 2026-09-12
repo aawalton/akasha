@@ -1,6 +1,7 @@
 import { existsSync, mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { dirname, join } from "node:path"
+import type { Reading as AsRead } from "akasha/agents/read-record/read-record.module.code.ts"
 import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { appendEdits } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
@@ -55,7 +56,6 @@ import {
   movedOnto,
   movesHeld,
 } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
-import type { Reading as AsRead } from "akasha/commands/modules/reading/reading.module.code.ts"
 import {
   outsideRoot,
   writesOutside,

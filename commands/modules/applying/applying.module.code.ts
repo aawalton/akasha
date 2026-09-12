@@ -1,3 +1,10 @@
+import {
+  blobIdOf,
+  type Carry,
+  type Reading,
+  readingIn,
+  recordRead,
+} from "akasha/agents/read-record/read-record.module.code.ts"
 import { leftAt } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
@@ -28,13 +35,6 @@ import {
 } from "akasha/commands/modules/landing-saying/landing-saying.module.code.ts"
 import { installingIn } from "akasha/commands/modules/manifest-locking/manifest-locking.module.code.ts"
 import type { FileMove } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
-import {
-  blobIdOf,
-  type Carry,
-  type Reading,
-  readingIn,
-  recordRead,
-} from "akasha/commands/modules/reading/reading.module.code.ts"
 import { refusalsKept } from "akasha/commands/modules/refusals-keeping/refusals-keeping.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { said as gitSaid } from "akasha/git/running/git-running.module.code.ts"

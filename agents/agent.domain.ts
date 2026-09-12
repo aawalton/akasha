@@ -24,5 +24,6 @@ export const agent = {
     "domain/messaging",
     "module/agent-turn-drawn",
     "module/proc-scan",
+    "module/read-record",
   ],
 } as const satisfies Domain

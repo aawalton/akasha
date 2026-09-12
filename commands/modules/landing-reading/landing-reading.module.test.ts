@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
+import { blobIdOf, readingIn, sameBody } from "akasha/agents/read-record/read-record.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Kind } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { runningOf } from "akasha/commands/modules/drafting/drafting.module.code.ts"
@@ -9,11 +10,6 @@ import {
   carryLanded,
   NO_OWING,
 } from "akasha/commands/modules/landing-reading/landing-reading.module.code.ts"
-import {
-  blobIdOf,
-  readingIn,
-  sameBody,
-} from "akasha/commands/modules/reading/reading.module.code.ts"
 import {
   AGENT,
   repoWith,

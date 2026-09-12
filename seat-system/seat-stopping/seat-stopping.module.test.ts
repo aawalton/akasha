@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import { readingIn, recordRead } from "akasha/agents/read-record/read-record.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   appendEdits,
@@ -10,7 +11,6 @@ import type { Asking } from "akasha/changes/runners/pages/mechanical-change-runn
 import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
-import { readingIn, recordRead } from "akasha/commands/modules/reading/reading.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import {

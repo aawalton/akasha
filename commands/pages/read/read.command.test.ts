@@ -6,7 +6,7 @@ import {
   partly,
   readingIn,
   sameBody,
-} from "akasha/commands/modules/reading/reading.module.code.ts"
+} from "akasha/agents/read-record/read-record.module.code.ts"
 import {
   ANSWER_CEILING,
   costOf,

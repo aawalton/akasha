@@ -1,5 +1,6 @@
 import { cpSync, existsSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
+import { blobIdOf, recordRead } from "akasha/agents/read-record/read-record.module.code.ts"
 import { PUT_BACK } from "akasha/commands/modules/change-freshness/change-freshness.module.code.ts"
 import {
   heldSaid,
@@ -8,7 +9,6 @@ import {
   refusedWhereHeld,
   WAITED_AT_MOST,
 } from "akasha/commands/modules/holding/holding.module.code.ts"
-import { blobIdOf, recordRead } from "akasha/commands/modules/reading/reading.module.code.ts"
 import { keptAt, scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   bodyAt,

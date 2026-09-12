@@ -1,7 +1,3 @@
-import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { bodyAt } from "akasha/commands/modules/commit-reading/commit-reading.module.code.ts"
-import type { Running } from "akasha/commands/modules/drafting/drafting.module.code.ts"
 import {
   blobIdOf,
   type Carry,
@@ -10,7 +6,11 @@ import {
   type Reading,
   readingIn,
   recordRead,
-} from "akasha/commands/modules/reading/reading.module.code.ts"
+} from "akasha/agents/read-record/read-record.module.code.ts"
+import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { bodyAt } from "akasha/commands/modules/commit-reading/commit-reading.module.code.ts"
+import type { Running } from "akasha/commands/modules/drafting/drafting.module.code.ts"
 
 const BYTES = new TextEncoder()
 

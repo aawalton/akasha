@@ -13,7 +13,7 @@ import {
   ACTING_NAMED,
   SEAT_NAMED,
   SUBAGENT_MARK,
-} from "akasha/commands/modules/reading/reading.module.code.ts"
+} from "akasha/agents/read-record/read-record.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 const SCRIPT = join(import.meta.dir, "name-subagent.agent-hook.code.ts")

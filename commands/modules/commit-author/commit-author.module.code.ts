@@ -1,4 +1,4 @@
-import { writerIn } from "akasha/commands/modules/reading/reading.module.code.ts"
+import { writerIn } from "akasha/agents/read-record/read-record.module.code.ts"
 import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { slugOf } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { displayNameOf, personaAt } from "akasha/personas/reading/persona-reading.module.code.ts"
