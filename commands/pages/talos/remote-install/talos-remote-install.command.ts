@@ -28,16 +28,32 @@ export const talosRemoteInstall = {
     },
     { said: "--confirm-wipe", takes: "the acknowledgement that the install disk is overwritten" },
   ],
-  helpNotes: [
-    "`auto` runs a pre-flight on the host and takes kexec where the host is eligible, else it falls back to writing the disk.",
-    "`kexec` refuses rather than falling back, and is what closes the UEFI NVRAM gap the dd path works around.",
-    "`dd` streams the metal raw image onto the disk, runs efibootmgr to make a UEFI entry, and reboots.",
-    "the dd path wipes at once, where the kexec path defers the disk write to the installer that `talos-apply` triggers.",
-    "kexec is blocked by kernel lockdown, by a disabled kexec load and by enforcing Secure Boot, and the pre-flight reads all three.",
-    "the run waits up to thirty minutes for Talos maintenance mode to answer on the node, and leaves it there for `talos-apply`.",
-    "ssh writes the remote script's own output to the streams this was called on, so that output is not in the report.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "`auto` runs a pre-flight and takes kexec where the host is eligible, else dd.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Kernel lockdown, a disabled kexec load or enforcing Secure Boot leaves a host ineligible.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`dd` writes the metal raw image to the disk, makes a UEFI entry and reboots.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The kexec path leaves the disk write to the installer `talos-apply` triggers.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The run waits up to thirty minutes for maintenance mode to answer on the node.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "ssh writes the remote script's own output to the streams the call was made on.",
+    },
     {
       invariantKind: "departure",
       statement: "The node is named as a word or after `--node`.",
