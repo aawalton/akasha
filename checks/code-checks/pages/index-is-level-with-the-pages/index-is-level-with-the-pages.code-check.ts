@@ -68,6 +68,15 @@ export const indexIsLevelWithThePages = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A file whose own name says a page type stating it is mortal is judged by nothing here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A mortal page is written and taken away as the agents run rather than drifted.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A drift outside that span refuses though the repository moved.",
     },
     {

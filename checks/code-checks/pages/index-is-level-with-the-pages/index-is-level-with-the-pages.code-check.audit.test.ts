@@ -1,12 +1,15 @@
 import { expect, test } from "bun:test"
 import {
   indexIsLevelWithThePages,
+  livingIn,
   pathOf,
 } from "akasha/checks/code-checks/pages/index-is-level-with-the-pages/index-is-level-with-the-pages.code-check.audit.code.ts"
 
 const ROOT = "/repo"
 
-const STILL = { at: () => "abc", moved: () => [], written: () => [] }
+const LIVES = (): boolean => false
+
+const STILL = { at: () => "abc", moved: () => [], written: () => [], dies: LIVES }
 
 test("an audit is handed the root the reconcile is read over", () => {
   let asked = ""
@@ -49,6 +52,7 @@ test("a repository that never moved while the reconcile ran is asked for no span
   const said = indexIsLevelWithThePages(ROOT, {
     at: () => "abc",
     written: () => [],
+    dies: LIVES,
     read: () => ({ added: ["path/checks/one.ts.jsonl"], changed: [], went: [] }),
     moved: () => {
       asked += 1
@@ -65,6 +69,7 @@ test("a file a commit landing while the reconcile ran touched refuses nothing", 
   const said = indexIsLevelWithThePages(ROOT, {
     at: () => commits[at++] ?? "",
     written: () => [],
+    dies: LIVES,
     read: () => ({
       added: ["path/checks/one.ts.jsonl"],
       changed: [],
@@ -82,6 +87,7 @@ test("the span asked for runs from the commit the reconcile opened at to the one
   indexIsLevelWithThePages(ROOT, {
     at: () => commits[at++] ?? "",
     written: () => [],
+    dies: LIVES,
     read: () => ({ added: [], changed: [], went: [] }),
     moved: (root, from, to) => {
       asked.push(root, from, to)
@@ -95,6 +101,7 @@ test("a file written and not yet committed refuses nothing", () => {
   const said = indexIsLevelWithThePages(ROOT, {
     at: () => "abc",
     moved: () => [],
+    dies: LIVES,
     written: () => ["checks/one.ts"],
     read: () => ({
       added: ["path/checks/one.ts.jsonl"],
@@ -110,6 +117,7 @@ test("the working tree is read before the reconcile and again after it", () => {
   const said = indexIsLevelWithThePages(ROOT, {
     at: () => "abc",
     moved: () => [],
+    dies: LIVES,
     written: () => {
       seen.push("read")
       return seen.length > 1 ? ["checks/late.ts"] : []
@@ -127,4 +135,39 @@ test("a status line names the path a rename landed on", () => {
   expect(pathOf("R  checks/was.ts -> checks/is.ts")).toBe("checks/is.ts")
   expect(pathOf(" M checks/one.ts")).toBe("checks/one.ts")
   expect(pathOf("?? checks/new.ts")).toBe("checks/new.ts")
+})
+
+test("a file of a page type stating it is mortal refuses nothing", () => {
+  const dies = (path: string): boolean => path.endsWith(".subagent.ts")
+  const said = indexIsLevelWithThePages(ROOT, {
+    at: () => "abc",
+    moved: () => [],
+    written: () => [],
+    dies,
+    read: () => ({
+      added: ["path/seats/pages/thea-1/thea-1.subagent.ts.jsonl"],
+      changed: [],
+      went: ["path/checks/gone.ts.jsonl"],
+    }),
+  })
+  expect(said.map((one) => one.path)).toEqual(["checks/gone.ts"])
+})
+
+test("a mortal page is read out of every drift the reconcile names", () => {
+  const dies = (path: string): boolean => path.endsWith(".subagent.ts")
+  const drift = {
+    added: ["path/seats/pages/a/a.subagent.ts.jsonl", "path/checks/one.ts.jsonl"],
+    changed: ["path/seats/pages/b/b.subagent.ts.jsonl"],
+    went: ["path/seats/pages/c/c.subagent.ts.jsonl"],
+  }
+  expect(livingIn(drift, dies)).toEqual({
+    added: ["path/checks/one.ts.jsonl"],
+    changed: [],
+    went: [],
+  })
+})
+
+test("a page type that is not mortal is read out of no drift", () => {
+  const drift = { added: ["path/checks/one.ts.jsonl"], changed: [], went: [] }
+  expect(livingIn(drift, LIVES)).toEqual(drift)
 })

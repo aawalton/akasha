@@ -135,6 +135,16 @@ export const commandTakesItsArgumentsThroughOneReader = {
       invariantKind: "absence",
       statement: "Words a module takes under another spelling are read by nothing here.",
     },
+    {
+      invariantKind: "gap",
+      statement:
+        "A parameter spelled `argv` holding another process's words reads as a command's own.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "A helper reading a foreign command line is refused where a module judged here exports it.",
+    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
