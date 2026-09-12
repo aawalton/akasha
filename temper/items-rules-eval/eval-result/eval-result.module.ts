@@ -14,6 +14,11 @@ export const evalResult = {
     {
       invariantKind: "departure",
       statement:
+        "A rule whose condition holds the wrong shape is indeterminate rather than rejected.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "An indeterminate outcome keeps every indeterminate rule found ahead of the first match.",
     },
     {

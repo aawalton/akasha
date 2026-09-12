@@ -184,6 +184,8 @@ function recordRuleResult(
   let detail: string
   if (ireason.kind === "condition-unknown") {
     detail = `condition unknown: ${ireason.conditionKind} (missing ${ireason.missingSignal})`
+  } else if (ireason.kind === "condition-misshapen") {
+    detail = `condition misshapen: ${ireason.conditionKind} holds ${ireason.held} — ${ireason.why}`
   } else if (ireason.kind === "category-unknown") {
     detail = `category unknown: missing ${ireason.missingSignal}`
   } else {

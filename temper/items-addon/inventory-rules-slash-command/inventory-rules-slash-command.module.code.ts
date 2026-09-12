@@ -121,6 +121,9 @@ function describeIndeterminateReason(reason: IndeterminateReason): string {
   if (reason.kind === "condition-unknown") {
     return `condition-unknown ${reason.conditionKind} (missing ${reason.missingSignal})`
   }
+  if (reason.kind === "condition-misshapen") {
+    return `condition-misshapen ${reason.conditionKind} holds ${reason.held} (${reason.why})`
+  }
   return `destination-unknown${reason.detail !== undefined ? ` (${reason.detail})` : ""}`
 }
 

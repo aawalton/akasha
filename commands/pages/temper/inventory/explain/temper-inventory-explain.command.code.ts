@@ -135,6 +135,9 @@ function indeterminateSaid(reason: IndeterminateReason): string {
   if (reason.kind === "condition-unknown") {
     return `condition-unknown:${reason.conditionKind} (missing=${reason.missingSignal})`
   }
+  if (reason.kind === "condition-misshapen") {
+    return `condition-misshapen:${reason.conditionKind} (held=${reason.held}, ${reason.why})`
+  }
   return reason.detail === undefined
     ? "destination-unknown"
     : `destination-unknown (${reason.detail})`

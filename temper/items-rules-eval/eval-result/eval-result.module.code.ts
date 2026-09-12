@@ -14,6 +14,12 @@ export type IndeterminateReason =
       readonly missingSignal: string
     }
   | { readonly kind: "destination-unknown"; readonly detail?: string }
+  | {
+      readonly kind: "condition-misshapen"
+      readonly conditionKind: string
+      readonly held: string
+      readonly why: string
+    }
 
 export type RuleVerdict =
   | { readonly kind: "matched" }

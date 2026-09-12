@@ -10,7 +10,8 @@ export const ruleConditionEval = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The first checker answering fail or indeterminate ends the whole condition run.",
+      statement:
+        "The first checker answering neither the passing nor the skip kind ends the condition run.",
     },
     {
       invariantKind: "departure",

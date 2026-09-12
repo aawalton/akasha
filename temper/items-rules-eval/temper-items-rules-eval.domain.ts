@@ -34,7 +34,12 @@ export const temperItemsRulesEval = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A condition answers with a verdict of four kinds rather than with true or false.",
+      statement: "A condition answers with a verdict of five kinds rather than with true or false.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A condition value that is not the shape that condition declares is named rather than tested.",
     },
     {
       invariantKind: "departure",

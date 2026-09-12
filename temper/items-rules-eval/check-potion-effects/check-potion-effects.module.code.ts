@@ -1,5 +1,8 @@
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
-import type { ConditionCheckResult } from "akasha/temper/items-rules-eval/check-result/check-result.module.code.ts"
+import {
+  type ConditionCheckResult,
+  misshapenList,
+} from "akasha/temper/items-rules-eval/check-result/check-result.module.code.ts"
 import type { EvalContext } from "akasha/temper/items-rules-eval/eval-env/eval-env.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
 
@@ -9,7 +12,12 @@ export function checkPotionEffects(
   _ctx: EvalContext
 ): ConditionCheckResult {
   const required = rule.potionEffects
-  if (required === undefined || required.length === 0) {
+  if (required === undefined) {
+    return { kind: "skip" }
+  }
+  const misshapen = misshapenList("potion-effects", required)
+  if (misshapen !== undefined) return misshapen
+  if (required.length === 0) {
     return { kind: "skip" }
   }
 

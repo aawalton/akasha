@@ -72,6 +72,20 @@ export function evaluateRule(
       },
     }
   }
+  if (conditions.kind === "misshapen") {
+    return {
+      ...baseResult,
+      verdict: {
+        kind: "indeterminate",
+        reason: {
+          kind: "condition-misshapen",
+          conditionKind: conditions.conditionKind,
+          held: conditions.held,
+          why: conditions.why,
+        },
+      },
+    }
+  }
 
   const platformBlock = checkPlatformBlock(rule, facts)
   if (platformBlock !== undefined) {

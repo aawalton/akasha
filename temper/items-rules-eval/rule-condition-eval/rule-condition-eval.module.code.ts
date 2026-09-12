@@ -22,6 +22,12 @@ export type ConditionResult =
       readonly conditionKind: string
       readonly missingSignal: string
     }
+  | {
+      readonly kind: "misshapen"
+      readonly conditionKind: string
+      readonly held: string
+      readonly why: string
+    }
 
 type ConditionChecker = (
   rule: CompiledOrderedRule,

@@ -7,10 +7,16 @@ export const checkResult = {
   definition:
     "the result kinds one condition checker may return, being the condition results plus skip",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement: "A checker's skip kind is distinct from the passing kind.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A list condition holding what is no list answers the misshapen kind naming what it held.",
     },
     {
       invariantKind: "constraint",
