@@ -1,4 +1,4 @@
-import { libAlchemyStation } from "akasha/temper/crafting-addon/craft-libraries/craft-libraries.module.code.ts"
+import { libAlchemyStation } from "akasha/temper/crafting-addon/modules/craft-libraries/craft-libraries.module.code.ts"
 
 import {
   TEXTURE_POISON_DISABLED,

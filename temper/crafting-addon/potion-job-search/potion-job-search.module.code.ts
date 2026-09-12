@@ -1,4 +1,4 @@
-import { libAsync } from "akasha/temper/crafting-addon/craft-libraries/craft-libraries.module.code.ts"
+import { libAsync } from "akasha/temper/crafting-addon/modules/craft-libraries/craft-libraries.module.code.ts"
 import type { TraitEffect } from "akasha/temper/crafting-addon/potion-constants/potion-constants.module.code.ts"
 import { PAGE_SIZE } from "akasha/temper/crafting-addon/potion-constants/potion-constants.module.code.ts"
 import { getPlayerSettings } from "akasha/temper/crafting-addon/potion-saved-variables/potion-saved-variables.module.code.ts"

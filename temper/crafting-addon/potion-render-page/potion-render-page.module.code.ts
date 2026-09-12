@@ -1,4 +1,4 @@
-import { libAsync } from "akasha/temper/crafting-addon/craft-libraries/craft-libraries.module.code.ts"
+import { libAsync } from "akasha/temper/crafting-addon/modules/craft-libraries/craft-libraries.module.code.ts"
 import { asNumber } from "akasha/temper/crafting-addon/potion-casts/potion-casts.module.code.ts"
 import {
   COLOR_SELECT,

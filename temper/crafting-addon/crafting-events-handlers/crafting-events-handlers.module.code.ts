@@ -1,6 +1,3 @@
-import { migrateJewelryIdSwap } from "akasha/temper/crafting-addon/craft-mig-jewelry-swap/craft-mig-jewelry-swap.module.code.ts"
-import { migrateStoragePrune } from "akasha/temper/crafting-addon/craft-mig-storage-prune/craft-mig-storage-prune.module.code.ts"
-import { migrateStudiesShape } from "akasha/temper/crafting-addon/craft-mig-studies-shape/craft-mig-studies-shape.module.code.ts"
 import { inventorySpace } from "akasha/temper/crafting-addon/craft-panel-init/craft-panel-init.module.code.ts"
 import {
   updateAccountVars,
@@ -47,6 +44,9 @@ import { cookShow } from "akasha/temper/crafting-addon/modules/craft-cooking/cra
 import { cookShowCategory } from "akasha/temper/crafting-addon/modules/craft-cooking-lists/craft-cooking-lists.module.code.ts"
 import { defined } from "akasha/temper/crafting-addon/modules/craft-defined/craft-defined.module.code.ts"
 import { updateBag } from "akasha/temper/crafting-addon/modules/craft-inventory/craft-inventory.module.code.ts"
+import { migrateJewelryIdSwap } from "akasha/temper/crafting-addon/modules/craft-mig-jewelry-swap/craft-mig-jewelry-swap.module.code.ts"
+import { migrateStoragePrune } from "akasha/temper/crafting-addon/modules/craft-mig-storage-prune/craft-mig-storage-prune.module.code.ts"
+import { migrateStudiesShape } from "akasha/temper/crafting-addon/modules/craft-mig-studies-shape/craft-mig-studies-shape.module.code.ts"
 import { runeShowMode } from "akasha/temper/crafting-addon/rune-mode/rune-mode.module.code.ts"
 import {
   runeHideVanillaUI,
