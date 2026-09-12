@@ -9,10 +9,7 @@ import {
   linesIn,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { costRecorded, opening } from "akasha/checks/modules/cost/check-cost.module.code.ts"
-import {
-  OPERATIONAL,
-  refusedBy,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { DATA, refusedBy } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
   applying,
   askedIn,
@@ -80,7 +77,7 @@ export type Folded =
       readonly unfold: Unfold | null
       readonly carried: Carried | null
     }
-  | { readonly refusals: readonly string[] }
+  | { readonly refusals: readonly string[]; readonly code: number }
 
 export function folding(root: string, page: string): Folded {
   let answer: Folded = { folded: [], dropped: [], unfold: null, carried: null }
@@ -97,12 +94,12 @@ export function folding(root: string, page: string): Folded {
     }
     const said = foldedIn(held)
     if (said.refused !== null) {
-      answer = { refusals: [said.refused] }
+      answer = { refusals: [said.refused], code: DATA }
       return had
     }
     const worked = landingFrom(root, head, said)
     if ("why" in worked) {
-      answer = { refusals: [worked.why] }
+      answer = { refusals: [worked.why], code: DATA }
       return had
     }
     answer = {
@@ -119,7 +116,7 @@ export function folding(root: string, page: string): Folded {
     }
     return had
   })
-  return "why" in kept ? { refusals: [kept.why] } : answer
+  return "why" in kept ? { refusals: [kept.why], code: DATA } : answer
 }
 
 export function undone(root: string, page: string, unfold: Unfold, landed: boolean): string | null {
@@ -152,9 +149,9 @@ async function ending(asked: Taken, given: Given): Promise<Ended> {
   }
   if ("refusals" in asked) return bare(await applying(given, page, asked, null))
   const held = keptEdits(given.root, page, (had) => had)
-  if ("why" in held) return bare(refusedBy([held.why], OPERATIONAL))
+  if ("why" in held) return bare(refusedBy([held.why], DATA))
   const said = folding(given.root, page)
-  if ("refusals" in said) return bare(refusedBy(said.refusals, OPERATIONAL))
+  if ("refusals" in said) return bare(refusedBy(said.refusals, said.code))
   const paths = said.folded.length
   const answered = await applying(given, page, asked, said.carried)
   const put = said.unfold === null ? null : undone(given.root, page, said.unfold, answered.landed)

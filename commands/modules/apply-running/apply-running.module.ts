@@ -187,7 +187,15 @@ export const applyRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "A fold that would not open is an operational fault.",
+      statement: "A fold that refuses carries the kind of fault that refusal is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An apply answers a refused fold with the kind that fold carried.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A fold the kept edits or the bodies beneath refuse is a fault of the data.",
     },
   ],
 } as const satisfies Module

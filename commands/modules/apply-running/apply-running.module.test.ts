@@ -7,6 +7,7 @@ import {
   editsIn,
   foldedIn,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
   type Folded,
   folding,
@@ -312,6 +313,7 @@ test("a path that is no page keeps no edits", async () => {
 
   expect(folding(root, "akasha/notes.md")).toEqual({
     refusals: ["a path that is no page keeps no edits"],
+    code: DATA,
   })
 })
 
@@ -321,7 +323,7 @@ const SERVED = rootEnvName(AKASHA)
 
 const GONE = "/made-up/nothing-is-here.ts"
 
-const LANDED: Answer = { report: ["landed"], refusals: [], code: 0 }
+const LANDED: Answer = { report: ["landed"], refusals: [], code: OK }
 
 function withEnv<T>(name: string, at: string, run: () => T): T {
   const before = process.env[name]
