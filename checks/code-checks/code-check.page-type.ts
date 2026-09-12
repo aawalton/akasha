@@ -42,6 +42,7 @@ export const codeCheck = {
     "code-check/lint-clean",
     "code-check/manifest-lands-on-a-file",
     "code-check/manifest-names-what-is-reached",
+    "code-check/module-sits-under-a-modules-folder",
     "code-check/name-format-judges-by-one-shape",
     "code-check/no-class",
     "code-check/no-code-comments",
