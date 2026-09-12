@@ -114,6 +114,10 @@ export function atMostIn(said: string | undefined): number | null | string {
   return held
 }
 
+export const keyHoldingTakes: readonly string[] = [PAGE_TYPE, KEY, AT_MOST]
+
+export const valueCarryingTakes: readonly string[] = [PAGE_TYPE, FROM, TO, AT_MOST]
+
 export function keyAskedIn(given: Asked): KeyHoldingAsked | string {
   const pageType = given[PAGE_TYPE]
   if (pageType === undefined) return missing(PAGE_TYPE)

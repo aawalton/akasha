@@ -82,6 +82,11 @@ export const valueCarrying = {
       statement: "A change reached and refused is answered by the reason that change gave.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "The arguments a run of either shape takes are named here rather than by a caller.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here says which mechanical changes a page is carried through.",
     },

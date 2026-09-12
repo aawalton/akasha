@@ -6,6 +6,7 @@ import {
   holdingIn,
   type KeyHoldingAsked,
   keyAskedIn,
+  keyHoldingTakes,
 } from "akasha/changes/modules/value-carrying/value-carrying.module.code.ts"
 
 const REMOVE_PAGE_PROPERTY = "change-mechanical-file-content/remove-page-property"
@@ -28,6 +29,8 @@ export async function removePropertyFromEveryPage(
 }
 
 export type Asked = Readonly<Record<string, string>>
+
+export const takes: readonly string[] = keyHoldingTakes
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const asked = keyAskedIn(given)

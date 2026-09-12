@@ -7,6 +7,7 @@ import {
   carriedIn,
   carryingOver,
   type ValueCarryingAsked,
+  valueCarryingTakes,
 } from "akasha/changes/modules/value-carrying/value-carrying.module.code.ts"
 
 const ADD_PAGE_PROPERTY = "change-mechanical-file-content/add-page-property"
@@ -29,6 +30,8 @@ export async function copyPropertyOnEveryPage(
   }
   return carrier.gatheredIn()
 }
+
+export const takes: readonly string[] = valueCarryingTakes
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const asked = askedIn(given)
