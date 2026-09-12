@@ -11,10 +11,7 @@ export const emailAttachmentList = {
     { said: "<id>", takes: "the message acted on, said as the id Gmail gives it" },
     { said: "--message <id>", takes: "the message acted on, where no id follows the command" },
   ],
-  helpNotes: [
-    "each attachment is named with its filename, its type, its size and the id its bytes are fetched by.",
-    "the bytes themselves are fetched by `email attachment get`.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
