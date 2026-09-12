@@ -12,9 +12,9 @@ import { limit as limitArgument } from "akasha/commands/arguments/pages/limit.ar
 import { query as queryArgument } from "akasha/commands/arguments/pages/query.argument.ts"
 import {
   INPUT,
-  OK,
   refused,
   refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { musicSearch as page } from "akasha/commands/pages/music/search/music-search.command.ts"
@@ -69,8 +69,7 @@ export async function searchWith(
   const result = await find({ q: query, types: ["track"], limit: fetchLimit })
   const candidates = selectCandidates(result.tracks?.items ?? [], artist, limit)
   const envelope: SearchEnvelope = { query, artist: artist ?? null, candidates }
-  const report = taken.json ? [JSON.stringify(envelope)] : linesOf(envelope)
-  return { report, refusals: [], code: OK }
+  return told(taken.json ? [JSON.stringify(envelope)] : linesOf(envelope))
 }
 
 export function musicSearch(argv: readonly string[], given: Given): Promise<Answer> {

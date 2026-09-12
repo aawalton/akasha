@@ -4,7 +4,7 @@ import {
 } from "akasha/alan/music/spotify/player/spotify-player.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import { OK, refusedBy } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { refusedBy, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { musicNowPlaying as page } from "akasha/commands/pages/music/now-playing/music-now-playing.command.ts"
 
@@ -91,8 +91,7 @@ export async function nowPlayingWith(
   if ("refused" in taking) return refusedBy(taking.refused)
   const [state, current] = await Promise.all([read.getPlaybackState(), read.getCurrentlyPlaying()])
   const envelope = envelopeOf(state, current)
-  const report = taking.taken.json ? [JSON.stringify(envelope)] : [lineOf(envelope)]
-  return { report, refusals: [], code: OK }
+  return told(taking.taken.json ? [JSON.stringify(envelope)] : [lineOf(envelope)])
 }
 
 export function musicNowPlaying(argv: readonly string[], given: Given): Promise<Answer> {
