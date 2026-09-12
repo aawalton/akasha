@@ -59,6 +59,12 @@ export const athenaCommandModules = {
       workingMemory:
         "`cli.module.ts:7` says that already. Around the one `calling` at `:68` sit root resolution at `outsideOf:28-41`, git authorship through `commitAuthor` at `:38`, hook links mended at `mendedFor:47-57`, fault catching at `:59-74`, and a byte write retrying EAGAIN at `spilled:77-89`. Each belongs to a domain that owns it.\n",
     },
+    {
+      statement:
+        "A command that wrote before it threw says in its refusal what that command wrote.",
+      workingMemory:
+        "`faulted` at `answering/command-answering.module.code.ts:44-46` answers an empty report, and `answering` at `:48-54` routes every escaped throw through it. The wrapper holds no partial report, because `work()` hands one back only on return, so each writer catches its own throw. `index-refresh.command.code.ts:26-31` and `git-restore.command.code.ts:352` already do. Five are left: `deploy`, `agent subagent-sweep`, `music capture`, `mechanical-filing`, `track landing`.\n",
+    },
   ],
   constraints: [
     "A module moved out of the command system is imported by name, so every importer moves with it.",
