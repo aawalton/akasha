@@ -24,6 +24,7 @@ export const infrastructure = {
     "domain/eso-rig",
     "domain/postgres-annual-dump",
     "domain/infrastructure-commands",
+    "module/infrastructure-calls",
     "domain/loki-service",
     "domain/seaweedfs",
     "domain/memory",
