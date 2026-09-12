@@ -6,7 +6,7 @@ export const temperWatcherStatus = {
   slug: "temper-watcher-status",
   definition: "the command saying whether the workstation watcher is running",
   code: "ts",
-  taking: [{ said: "--json", takes: "give the state as JSON rather than as one line" }],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",

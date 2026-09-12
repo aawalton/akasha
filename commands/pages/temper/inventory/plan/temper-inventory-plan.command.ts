@@ -15,7 +15,6 @@ export const temperInventoryPlan = {
       said: "--characters-path <path>",
       takes: "the saved-variables file the characters are read from",
     },
-    { said: "--json", takes: "give the whole plan as JSON rather than as text" },
     {
       said: "--checklist",
       takes: "give the login and venue-stop checklist rather than the plan the addon shows",

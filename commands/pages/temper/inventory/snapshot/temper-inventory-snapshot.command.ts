@@ -42,6 +42,14 @@ export const temperInventorySnapshot = {
       invariantKind: "absence",
       statement: "Nothing here reaches the page store over the network.",
     },
+    {
+      invariantKind: "stopgap",
+      statement: "The record is answered as JSON whether or not `--json` is said.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement: "So `--json` here takes the indenting off rather than choosing JSON.",
+    },
   ],
   name: "snapshot",
 } as const satisfies Command

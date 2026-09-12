@@ -24,6 +24,15 @@ export const temperInventoryRuleShow = {
       invariantKind: "departure",
       statement: "An id no category rule carries refuses the call.",
     },
+    {
+      invariantKind: "stopgap",
+      statement:
+        "The rule is answered as JSON whether or not `--json` is said, so `--json` changes nothing.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement: "`--tsv` is the flag choosing the shape of this answer.",
+    },
   ],
   name: "show",
 } as const satisfies Command

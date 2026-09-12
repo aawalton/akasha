@@ -8,7 +8,6 @@ export const temperInventoryMasterCraftTrace = {
   code: "ts",
   taking: [
     { said: "--inventory-path <path>", takes: "the saved-variables file the traces are read from" },
-    { said: "--json", takes: "give the whole ring as JSON rather than as text" },
   ],
   invariants: [
     {
