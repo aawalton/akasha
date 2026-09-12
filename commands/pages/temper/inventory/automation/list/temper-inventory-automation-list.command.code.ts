@@ -1,10 +1,10 @@
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import {
-  INPUT,
-  OK,
   OPERATIONAL,
   refused,
+  refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -53,7 +53,7 @@ export async function temperInventoryAutomationList(
   given: Given
 ): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [json])
-  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
+  if ("refused" in read) return refusedBy(read.refused)
 
   let settings: AutomationSettings
   try {
@@ -63,15 +63,11 @@ export async function temperInventoryAutomationList(
   }
 
   if (read.taken.json) {
-    return { report: JSON.stringify(settings, null, SPACES).split("\n"), refusals: [], code: OK }
+    return told(JSON.stringify(settings, null, SPACES).split("\n"))
   }
 
-  return {
-    report: [
-      HEADING,
-      ...rowsOf(settings).map((one) => `${one.scope}\t${one.toggle}\t${one.value}`),
-    ],
-    refusals: [],
-    code: OK,
-  }
+  return told([
+    HEADING,
+    ...rowsOf(settings).map((one) => `${one.scope}\t${one.toggle}\t${one.value}`),
+  ])
 }
