@@ -8,12 +8,6 @@ export const inferenceActivate = {
   code: "ts",
   changeKind: "change-mechanical",
   taking: [{ said: "<name>", takes: "the pool service made resident" }],
-  helpNotes: [
-    "the pool holds one resident at a time, so making one resident evicts the one that was.",
-    "a name the cop does not carry is refused naming the pool services there are.",
-    "the answer names every service resident once the swap has settled.",
-    "a cold load runs to about three minutes, and the call waits for it.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
