@@ -13,4 +13,5 @@ export const googleCalendarEvents = {
     "command/google-calendar-events-rsvp",
     "command/google-calendar-events-update",
   ],
+  name: "events",
 } as const satisfies Namespace

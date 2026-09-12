@@ -16,4 +16,5 @@ export const music = {
     "command/music-rate",
     "command/music-search",
   ],
+  name: "music",
 } as const satisfies Namespace

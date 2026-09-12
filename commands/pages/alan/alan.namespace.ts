@@ -11,4 +11,5 @@ export const alan = {
     "command/alan-learn-next",
     "command/alan-tracking",
   ],
+  name: "alan",
 } as const satisfies Namespace

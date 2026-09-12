@@ -13,4 +13,5 @@ export const emailMessage = {
     "command/email-message-send",
     "command/email-message-trash",
   ],
+  name: "message",
 } as const satisfies Namespace

@@ -10,4 +10,5 @@ export const temperCommunity = {
     "command/temper-community-addon-list",
     "command/temper-community-addon-update",
   ],
+  name: "community",
 } as const satisfies Namespace

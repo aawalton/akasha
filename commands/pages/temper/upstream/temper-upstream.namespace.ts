@@ -6,4 +6,5 @@ export const temperUpstream = {
   slug: "temper-upstream",
   definition: "the data Temper takes in from outside",
   parts: ["command/temper-upstream-data-port", "command/temper-upstream-data-verify"],
+  name: "upstream",
 } as const satisfies Namespace

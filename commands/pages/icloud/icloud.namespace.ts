@@ -6,4 +6,5 @@ export const icloud = {
   slug: "icloud",
   definition: "what Alan keeps with Apple, reached by a share link",
   parts: ["command/icloud-fetch"],
+  name: "icloud",
 } as const satisfies Namespace

@@ -10,4 +10,5 @@ export const modelGateway = {
     "command/model-gateway-status",
     "command/model-gateway-swap",
   ],
+  name: "model-gateway",
 } as const satisfies Namespace

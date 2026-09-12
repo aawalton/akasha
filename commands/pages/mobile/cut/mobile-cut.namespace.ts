@@ -6,4 +6,5 @@ export const mobileCut = {
   slug: "mobile-cut",
   definition: "the commit a TestFlight build was taken from",
   parts: ["command/mobile-cut-record", "command/mobile-cut-status"],
+  name: "cut",
 } as const satisfies Namespace

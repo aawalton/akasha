@@ -12,4 +12,5 @@ export const temperEsoGenerate = {
     "command/temper-eso-generate-hud-scene-catalog",
     "command/temper-eso-generate-typings",
   ],
+  name: "generate",
 } as const satisfies Namespace

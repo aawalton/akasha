@@ -17,4 +17,5 @@ export const temper = {
     "namespace/temper-upstream",
     "namespace/temper-watcher",
   ],
+  name: "temper",
 } as const satisfies Namespace

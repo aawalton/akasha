@@ -11,6 +11,7 @@ export const mobile = {
     "command/mobile-testflight-status",
     "module/mobile-answering",
   ],
+  name: "mobile",
   invariants: [
     {
       invariantKind: "departure",

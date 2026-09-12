@@ -11,4 +11,5 @@ export const measureComplexity = {
     "command/measure-complexity-maintainability",
     "command/measure-complexity-report",
   ],
+  name: "complexity",
 } as const satisfies Namespace

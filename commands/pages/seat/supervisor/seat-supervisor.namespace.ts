@@ -6,4 +6,5 @@ export const seatSupervisor = {
   slug: "seat-supervisor",
   definition: "the process running a seat",
   parts: ["command/seat-supervisor-restart", "command/seat-supervisor-stop"],
+  name: "supervisor",
 } as const satisfies Namespace

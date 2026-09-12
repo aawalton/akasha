@@ -10,4 +10,5 @@ export const temperInventoryMaster = {
     "command/temper-inventory-master-craft-trace",
     "command/temper-inventory-master-writ-probe",
   ],
+  name: "master",
 } as const satisfies Namespace

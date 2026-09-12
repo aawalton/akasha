@@ -15,4 +15,5 @@ export const talos = {
     "command/talos-remote-install",
     "command/talos-secrets-gen",
   ],
+  name: "talos",
 } as const satisfies Namespace

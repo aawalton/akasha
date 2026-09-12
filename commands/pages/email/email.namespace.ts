@@ -11,4 +11,5 @@ export const email = {
     "namespace/email-message",
     "command/email-unsubscribe",
   ],
+  name: "email",
 } as const satisfies Namespace

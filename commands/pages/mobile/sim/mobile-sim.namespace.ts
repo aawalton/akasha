@@ -17,6 +17,7 @@ export const mobileSim = {
     "command/mobile-sim-teardown",
     "command/mobile-sim-type",
   ],
+  name: "sim",
   invariants: [
     {
       invariantKind: "departure",

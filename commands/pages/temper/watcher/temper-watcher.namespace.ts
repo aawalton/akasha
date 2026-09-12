@@ -6,4 +6,5 @@ export const temperWatcher = {
   slug: "temper-watcher",
   definition: "the watcher running beside the game",
   parts: ["command/temper-watcher-logs", "command/temper-watcher-status"],
+  name: "watcher",
 } as const satisfies Namespace

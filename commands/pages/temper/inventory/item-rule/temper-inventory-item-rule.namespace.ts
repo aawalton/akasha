@@ -15,4 +15,5 @@ export const temperInventoryItemRule = {
     "command/temper-inventory-item-rule-unlock",
     "command/temper-inventory-item-rule-update",
   ],
+  name: "item-rule",
 } as const satisfies Namespace

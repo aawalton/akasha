@@ -14,4 +14,5 @@ export const temperAddon = {
     "command/temper-addon-resolve",
     "command/temper-addon-typecheck",
   ],
+  name: "addon",
 } as const satisfies Namespace

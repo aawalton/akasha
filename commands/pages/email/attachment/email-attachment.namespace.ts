@@ -6,4 +6,5 @@ export const emailAttachment = {
   slug: "email-attachment",
   definition: "a file carried by a message",
   parts: ["command/email-attachment-show", "command/email-attachment-list"],
+  name: "attachment",
 } as const satisfies Namespace

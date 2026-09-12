@@ -6,4 +6,5 @@ export const emailDraft = {
   slug: "email-draft",
   definition: "a message written and not sent",
   parts: ["command/email-draft-create", "command/email-draft-list"],
+  name: "draft",
 } as const satisfies Namespace

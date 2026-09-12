@@ -6,4 +6,5 @@ export const agent = {
   slug: "agent",
   definition: "the agents at work and the pages each one has",
   parts: ["command/agent-subagent-sweep", "command/agent-forest", "command/agent-turn-colors"],
+  name: "agent",
 } as const satisfies Namespace

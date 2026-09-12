@@ -6,4 +6,5 @@ export const index = {
   slug: "index",
   definition: "the index over the pages this repository holds",
   parts: ["command/index-refresh"],
+  name: "index",
 } as const satisfies Namespace

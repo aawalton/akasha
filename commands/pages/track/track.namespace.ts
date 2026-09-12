@@ -6,4 +6,5 @@ export const track = {
   slug: "track",
   definition: "what one of Alan's days held, written down",
   parts: ["namespace/track-session", "command/track-health-import", "command/track-weight"],
+  name: "track",
 } as const satisfies Namespace

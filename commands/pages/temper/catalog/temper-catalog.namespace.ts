@@ -10,4 +10,5 @@ export const temperCatalog = {
     "command/temper-catalog-list",
     "command/temper-catalog-status",
   ],
+  name: "catalog",
 } as const satisfies Namespace

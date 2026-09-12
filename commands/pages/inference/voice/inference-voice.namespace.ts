@@ -6,4 +6,5 @@ export const inferenceVoice = {
   slug: "inference-voice",
   definition: "a voice copied from a recording or drawn up from a description",
   parts: ["command/inference-voice-clone", "command/inference-voice-design"],
+  name: "voice",
 } as const satisfies Namespace

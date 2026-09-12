@@ -6,4 +6,5 @@ export const googleCalendar = {
   slug: "google-calendar",
   definition: "the calendar Alan keeps with Google",
   parts: ["namespace/google-calendar-events"],
+  name: "calendar",
 } as const satisfies Namespace

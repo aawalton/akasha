@@ -6,4 +6,5 @@ export const model = {
   slug: "model",
   definition: "what is put to a model and what comes back",
   parts: ["command/model-test"],
+  name: "model",
 } as const satisfies Namespace

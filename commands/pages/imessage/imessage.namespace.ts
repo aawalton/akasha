@@ -12,4 +12,5 @@ export const imessage = {
     "command/imessage-send",
     "command/imessage-unread-list",
   ],
+  name: "imessage",
 } as const satisfies Namespace

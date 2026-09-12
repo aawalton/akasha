@@ -11,4 +11,5 @@ export const infrastructure = {
     "command/infrastructure-service",
     "command/infrastructure-shell-init-bash",
   ],
+  name: "infrastructure",
 } as const satisfies Namespace

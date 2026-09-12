@@ -6,4 +6,5 @@ export const temperInventoryBank = {
   slug: "temper-inventory-bank",
   definition: "what a character keeps in the bank",
   parts: ["command/temper-inventory-bank-profile", "command/temper-inventory-bank-trace"],
+  name: "bank",
 } as const satisfies Namespace

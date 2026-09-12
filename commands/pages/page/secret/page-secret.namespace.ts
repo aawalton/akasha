@@ -11,4 +11,5 @@ export const pageSecret = {
     "command/page-secret-set",
     "command/page-secret-list",
   ],
+  name: "secret",
 } as const satisfies Namespace

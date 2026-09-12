@@ -6,4 +6,5 @@ export const googleAuth = {
   slug: "google-auth",
   definition: "the consent Google is reached as Alan on",
   parts: ["command/google-auth-login"],
+  name: "auth",
 } as const satisfies Namespace

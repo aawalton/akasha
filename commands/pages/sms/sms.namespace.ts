@@ -6,4 +6,5 @@ export const sms = {
   slug: "sms",
   definition: "a text message to or from a phone",
   parts: ["command/sms-acting-account", "command/sms-send"],
+  name: "sms",
 } as const satisfies Namespace

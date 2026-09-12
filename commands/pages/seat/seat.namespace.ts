@@ -15,4 +15,5 @@ export const seat = {
     "command/seat-transcript-list",
     "command/seat-compose-notices",
   ],
+  name: "seat",
 } as const satisfies Namespace

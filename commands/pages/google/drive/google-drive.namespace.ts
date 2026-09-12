@@ -6,4 +6,5 @@ export const googleDrive = {
   slug: "google-drive",
   definition: "the files in Alan's Google Drive",
   parts: ["command/google-drive-fetch"],
+  name: "drive",
 } as const satisfies Namespace
