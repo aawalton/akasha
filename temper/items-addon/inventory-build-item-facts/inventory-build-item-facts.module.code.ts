@@ -1,4 +1,4 @@
-import { parsePotionData } from "akasha/temper/characters-capture-addon/character-capture-potion-map/character-capture-potion-map.module.code.ts"
+import { parsePotionData } from "akasha/temper/characters-capture-addon/modules/character-capture-potion-map/character-capture-potion-map.module.code.ts"
 import {
   findItemInInventory,
   isItemLinkCraftedSafe,

@@ -7,7 +7,6 @@ import {
   getArmorWeightIndex,
   getQualityIndex,
 } from "akasha/temper/bit-codec/equipment-mappings/equipment-mappings.module.code.ts"
-import { getSetIndex } from "akasha/temper/characters-capture-addon/character-capture-set-map/character-capture-set-map.module.code.ts"
 import type {
   CharacterArmorSlotData,
   CharacterJewelrySlotData,
@@ -23,6 +22,7 @@ import {
   getPlayerWeaponTraitIndex,
   getPlayerWeaponTypeIndex,
 } from "akasha/temper/characters-capture-addon/modules/character-capture-equipment-map/character-capture-equipment-map.module.code.ts"
+import { getSetIndex } from "akasha/temper/characters-capture-addon/modules/character-capture-set-map/character-capture-set-map.module.code.ts"
 
 export function captureCharacterArmorSlot(slot: number): CharacterArmorSlotData {
   const itemLink = GetItemLink(BAG_WORN, slot, LINK_STYLE_DEFAULT)
