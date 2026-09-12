@@ -1,6 +1,7 @@
 import { join } from "node:path"
 import type { Entry } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
-import type { Shape } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import { answered, heldEach } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import type { Reading, Shape } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { indexShapes } from "akasha/pages/indexes/shapes/index-shapes.index.ts"
 import {
   type Carried,
@@ -81,6 +82,21 @@ export function carryingIn(line: string): Carrying | null {
     fileName: textAt(held, "fileName"),
     folderName: textAt(held, "folderName"),
   }
+}
+
+const carriedFiled = heldEach((reading: Reading, pageTypeSlug: string): readonly Carrying[] => {
+  const found: Carrying[] = []
+  for (const line of reading.lines(fileFor(pageTypeSlug))) {
+    const one = carryingIn(line)
+    if (one !== null) found.push(one)
+  }
+  return found
+})
+
+export function carriedOfType(given: string | Reading, pageTypeSlug: string): readonly Carrying[] {
+  return answered(given, "", `what a \`${pageTypeSlug}\` page carries`, (reading) =>
+    carriedFiled(reading, pageTypeSlug)
+  )
 }
 
 function carryingOf(one: Carried, shape: Shape | undefined): Carrying {

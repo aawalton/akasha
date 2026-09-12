@@ -1,6 +1,8 @@
 import { expect, test } from "bun:test"
 import type { Entry } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import {
+  carriedOfType,
   carryingIn,
   fileFor,
   pageTypeSlugsIn,
@@ -108,6 +110,36 @@ test("a page type naming a page type that is not there has no file", () => {
   const held = [...VALUES, stray]
   const said = shapesFiled(sourceOver(held), shapesIn(held), pageTypeSlugsIn(held))
   expect(said.some((one) => one.at === fileFor("stray"))).toBe(false)
+})
+
+function readingOf(asked: string[]): Reading {
+  const held = new Map<string, string[]>()
+  for (const one of filed()) held.set(one.at, [...(held.get(one.at) ?? []), one.line])
+  return {
+    holds: () => true,
+    listing: () => [],
+    lines: (at) => {
+      asked.push(at)
+      return held.get(at) ?? []
+    },
+    read: () => null,
+  }
+}
+
+test("what a page type carries is answered by reading the one file it is filed in", () => {
+  const asked: string[] = []
+  const reading = readingOf(asked)
+
+  expect(
+    carriedOfType(reading, "below")
+      .map((one) => one.key)
+      .sort()
+  ).toEqual(["code", "holder", "slug"])
+  expect(asked).toEqual([fileFor("below")])
+})
+
+test("a page type with no file carries nothing rather than refusing", () => {
+  expect(carriedOfType(readingOf([]), "gone")).toEqual([])
 })
 
 test("a line that is not a filed property is read as none rather than throwing", () => {
