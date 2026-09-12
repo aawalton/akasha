@@ -56,6 +56,14 @@ export const workloadApplying = {
       statement: "A kubectl that refuses makes the apply refuse.",
     },
     {
+      invariantKind: "departure",
+      statement: "Each kubectl that applied is named as soon as that kubectl applied.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A kubectl that refuses leaves the ones before it named rather than unsaid.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads the command line.",
     },

@@ -20,6 +20,10 @@ export const deployImagePushing = {
       statement: "Nothing is applied to the cluster here.",
     },
     {
+      invariantKind: "absence",
+      statement: "Nothing here catches the throw, so the deploy names what the push had done.",
+    },
+    {
       invariantKind: "departure",
       statement: "The recipe and the context are read from the tree pinned at the commit.",
     },

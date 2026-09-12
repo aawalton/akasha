@@ -24,5 +24,14 @@ export const imagePublishing = {
       invariantKind: "departure",
       statement: "The builder runs in the cluster and the workstation only asks it.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "Each thing a publish wrote outside the checkout is named as soon as it is written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An image already in the registry is named where a later image throws.",
+    },
   ],
 } as const satisfies Module

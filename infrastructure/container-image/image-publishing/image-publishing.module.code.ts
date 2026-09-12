@@ -36,24 +36,41 @@ const CACHE_DIR = join(homedir(), ".cache", "akasha")
 const TOOL_DIR = join(CACHE_DIR, "buildkit", BUILDKIT_VERSION)
 const BUILDCTL = join(TOOL_DIR, "bin", "buildctl")
 
-function dockerfileWrittenTo(slug: string, body: string): string {
+export function madeSaid(folder: string): string {
+  return `the folder ${folder} was not there before this, and this made it`
+}
+
+export function pushedSaid(ref: string): string {
+  return `the image ${ref}, built and pushed to the registry`
+}
+
+function dockerfileWrittenTo(slug: string, body: string, done: string[]): string {
   const at = join(CACHE_DIR, "dockerfiles", slug)
-  mkdirSync(at, { recursive: true })
-  writeFileSync(join(at, DOCKERFILE), body, "utf8")
+  const made = mkdirSync(at, { recursive: true })
+  if (made !== undefined) done.push(madeSaid(made))
+  const file = join(at, DOCKERFILE)
+  writeFileSync(file, body, "utf8")
+  done.push(`the Dockerfile ${slug} is built from, written to ${file}`)
   return at
 }
 
-export function buildctlAt(): string {
+export function buildctlAt(done: string[] = []): string {
   if (existsSync(BUILDCTL)) return BUILDCTL
-  mkdirSync(TOOL_DIR, { recursive: true })
+  const made = mkdirSync(TOOL_DIR, { recursive: true })
+  if (made !== undefined) done.push(madeSaid(made))
   const held = join(TOOL_DIR, "buildkit.tar.gz")
   const url = `https://github.com/moby/buildkit/releases/download/${BUILDKIT_VERSION}/buildkit-${BUILDKIT_VERSION}.linux-amd64.tar.gz`
   const got = ran(["curl", "-sSLo", held, url])
-  if (got.code !== 0) throw new Error(`buildctl could not be fetched: ${got.err.trim()}`)
+  if (got.code !== 0) {
+    throw new Error(`buildctl could not be fetched into ${held}: ${got.err.trim()}`)
+  }
+  done.push(`the buildkit ${BUILDKIT_VERSION} archive, fetched to ${held}`)
   const opened = ran(["tar", "xzf", held, "-C", TOOL_DIR, "bin/buildctl"])
   if (opened.code !== 0)
     throw new Error(`the buildctl archive would not open: ${opened.err.trim()}`)
+  done.push(`buildctl, unpacked to ${BUILDCTL}`)
   chmodSync(BUILDCTL, 0o755)
+  done.push(`${BUILDCTL}, made runnable`)
   return BUILDCTL
 }
 
@@ -104,7 +121,8 @@ export interface Published {
 export async function publish(
   build: ImageBuild,
   dryRun: boolean,
-  codeAt: string = ROOT
+  codeAt: string = ROOT,
+  done: string[] = []
 ): Promise<Published> {
   const inputs = inputsFor(build, codeAt)
   const ref = refFor(build.repository, inputs.hash)
@@ -116,11 +134,12 @@ export async function publish(
       `${build.slug} is built at the commit HEAD is at, and ${drifted.join(", ")} differs from it, so the image would not be what its tag names`
     )
   }
-  const at = dockerfileWrittenTo(build.slug, inputs.dockerfile)
-  const done = ran([buildctlAt(), ...buildArgv(at, build, ref, codeAt)])
-  if (done.code !== 0) {
-    throw new Error(`building ${ref} exited ${done.code}: ${done.err.trim()}`)
+  const at = dockerfileWrittenTo(build.slug, inputs.dockerfile, done)
+  const made = ran([buildctlAt(done), ...buildArgv(at, build, ref, codeAt)])
+  if (made.code !== 0) {
+    throw new Error(`building ${ref} exited ${made.code}: ${made.err.trim()}`)
   }
+  done.push(pushedSaid(ref))
   return { slug: build.slug, ref, held: false, built: true }
 }
 
@@ -133,11 +152,12 @@ export function claimedIn(yamls: readonly string[]): readonly ImageNamed[] {
 export async function publishedFor(
   yamls: readonly string[],
   dryRun: boolean,
-  codeAt: string = ROOT
+  codeAt: string = ROOT,
+  done: string[] = []
 ): Promise<readonly Published[]> {
-  const done: Published[] = []
+  const every: Published[] = []
   for (const named of claimedIn(yamls)) {
-    done.push(await publish(buildOf(named.slug, codeAt), dryRun, codeAt))
+    every.push(await publish(buildOf(named.slug, codeAt), dryRun, codeAt, done))
   }
-  return done
+  return every
 }

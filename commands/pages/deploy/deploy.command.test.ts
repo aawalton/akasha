@@ -1,5 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
-import { partWay } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  DATA,
+  OPERATIONAL,
+  partWay,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { commitAt } from "akasha/commands/pages/deploy/commit-naming/deploy-commit-naming.module.code.ts"
 import { recordedCommit } from "akasha/commands/pages/deploy/commit-recording/deploy-commit-recording.module.code.ts"
 import type { PuttingUp } from "akasha/commands/pages/deploy/deploy.command.code.ts"
@@ -161,6 +165,33 @@ test("a deploy that threw part way names in its refusal what it had put up", asy
   expect(answer.refusals[1]).toContain(IMAGE)
   expect(answer.refusals[1]).toContain(`${world.commit}, pushed to origin main`)
   expect(answer.report).toContain(`up\t${IMAGE}`)
+})
+
+test("a deploy refused without a throw names in its refusal what it had put up", async () => {
+  const world = pastTheChecks()
+  const putting: PuttingUp = async (_read, _slug, _commit, _rest, _given, _restarting, up) => {
+    up.push(IMAGE)
+    return await Promise.resolve({
+      report: [],
+      refusals: ["kubectl apply exited 1"],
+      code: OPERATIONAL,
+    })
+  }
+  const answer = await deploy(["one-web"], given(world.root), putting)
+  expect(answer.refusals[0]).toContain("kubectl apply exited 1")
+  expect(answer.refusals[1]).toContain(IMAGE)
+})
+
+test("a deploy refused with nothing put up says nothing about what it put up", async () => {
+  const world = pastTheChecks()
+  const putting: PuttingUp = async () =>
+    await Promise.resolve({
+      report: [],
+      refusals: ["the recipe names no repository"],
+      code: DATA,
+    })
+  const answer = await deploy(["one-web"], given(world.root), putting)
+  expect(answer.refusals.some((one) => one.includes("stopped part way"))).toBe(false)
 })
 
 test("a deploy that threw before anything reached a machine says that rather than saying it may be partial", async () => {

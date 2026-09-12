@@ -97,6 +97,10 @@ export function servableNamed(root: string, slug: string): Read {
   return { servable: { servicePath, manifestPath, synthPath, workload } }
 }
 
+export function appliedSaid(argv: readonly string[]): string {
+  return `\`kubectl ${argv.join(" ")}\`, applied to the cluster`
+}
+
 export async function appliedWorkload(
   root: string,
   slug: string,
@@ -131,11 +135,11 @@ export async function appliedWorkload(
     for (const one of await publishedFor(
       plan.manifests.map((manifest) => manifest.yaml),
       dryRun,
-      codeAt
+      codeAt,
+      up
     )) {
       const how = one.held ? "in the registry" : one.built ? "built and pushed" : "would be built"
       report.push(`image\t${one.ref}\t${how}`)
-      if (one.built) up.push(`the image ${one.ref}, built and pushed to the registry`)
     }
   } catch (thrown) {
     const why = thrown instanceof Error ? thrown.message : String(thrown)
@@ -168,10 +172,11 @@ export async function appliedWorkload(
     report.push(`kubectl\t${one.argv.join(" ")}\t${one.stdout.trim().split("\n").join("; ")}`)
     if (one.code !== 0) {
       refusals.push(`kubectl ${one.argv.join(" ")} exited ${one.code}: ${one.stderr.trim()}`)
+      continue
     }
+    up.push(appliedSaid(one.argv))
   }
   if (refusals.length > 0) return { report, refusals, code: OPERATIONAL }
-  up.push(`${workload.kind} ${workload.namespace}/${workload.name}, applied to the cluster`)
 
   report.push(
     `up\t${workload.kind} ${workload.namespace}/${workload.name} runs as its page describes`

@@ -146,7 +146,7 @@ export async function putUp(
   if (read.kind === IOS_APP) {
     return shipIosApp(slug, read.pagePath, rest.includes(NO_UPLOAD), commit, up)
   }
-  if (read.kind === CONTAINER_RECIPE) return await pushedImage(slug, dryRun, at)
+  if (read.kind === CONTAINER_RECIPE) return await pushedImage(slug, dryRun, at, up)
   if (read.kind === WORKSTATION_SERVICE) {
     return putUpEvery(given.root, dryRun, restarting ?? new Set<string>(), at, up)
   }
@@ -275,7 +275,7 @@ export async function deploy(
   }
   const lines = [`commit\t${commit}`, ...answer.report]
   if (answer.code !== OK || answer.refusals.length > 0) {
-    return answeredWith(lines, [...answer.refusals, ...noting()], answer.code)
+    return answeredWith(lines, [...answer.refusals, ...partWay(up), ...noting()], answer.code)
   }
   if (dry) return answeredWith(lines, answer.refusals, answer.code)
   const wrong = recordedCommit(given.root, slug, read.pagePath, commit)

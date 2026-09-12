@@ -225,6 +225,10 @@ export const deploy = {
     },
     {
       invariantKind: "departure",
+      statement: "A deploy refused without a throw names them in its refusal too.",
+    },
+    {
+      invariantKind: "departure",
       statement: "It names them in the sentence every command's refusal names them in.",
     },
     {
