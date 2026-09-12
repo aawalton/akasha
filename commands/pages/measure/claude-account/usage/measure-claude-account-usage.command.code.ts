@@ -6,6 +6,11 @@ import {
   notesOf,
   refreshAll,
 } from "akasha/agents/claude-accounts/modules/refreshing/claude-account-refreshing.module.code.ts"
+import {
+  DATA,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 
 export async function measureClaudeAccountUsage(
@@ -15,15 +20,14 @@ export async function measureClaudeAccountUsage(
   const notes = notesOf(await refreshAll(given.root, Date.now()))
   const readings = readingsIn(given.root)
   if (readings.length === 0) {
-    return {
-      report: [],
-      refusals: [
+    return refusedBy(
+      [
         `no claude-account page sits under \`${given.root}\`, and every account holding a page ` +
           `is answered, so a fleet of none is the pages being wrong rather than a fleet`,
       ],
-      code: 2,
-    }
+      DATA
+    )
   }
   const said = [...linesOf(readings, Date.now())]
-  return { report: notes.length === 0 ? said : [...said, "", ...notes], refusals: [], code: 0 }
+  return told(notes.length === 0 ? said : [...said, "", ...notes])
 }

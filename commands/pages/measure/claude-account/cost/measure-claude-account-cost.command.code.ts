@@ -1,3 +1,4 @@
+import { told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   countedIn,
@@ -11,5 +12,5 @@ const DAYS = 30
 export function measureClaudeAccountCost(): Answer {
   const until = Date.now()
   const counted = countedIn(storeHere(), sinceOf(until, DAYS), until)
-  return { report: [...linesOf(counted, DAYS)], refusals: [], code: 0 }
+  return told([...linesOf(counted, DAYS)])
 }
