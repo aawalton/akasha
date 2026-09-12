@@ -1,55 +1,32 @@
-import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  idsNaming,
+  listedAt,
+  slugsOfType,
+  typeSlugById,
+} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
-import { slugsIn, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+
+const PAGE = "page"
 
 const PAGE_TYPE = "page-type"
 
-const EXTENDS = "extends"
+const EXTENDS_TYPE = "extends-type"
 
-const SLUG = "slug"
-
-function saidIn(value: Value | null, key: string): string | null {
-  if (value === null) return null
-  const said = value[key]
-  return typeof said === "string" && said !== "" ? said : null
-}
-
-function namedAbove(value: Value | null): readonly string[] {
-  return value === null ? [] : slugsIn(value[EXTENDS])
-}
-
-export function listedAbove(
-  given: string | Reading,
-  pageOf?: (path: string) => Value | null
-): ReadonlyMap<string, readonly string[]> {
-  const above = new Map<string, string[]>()
-  for (const one of valuesOfType(given, PAGE_TYPE)) {
-    const value = pageOf === undefined ? one.value : pageOf(one.path)
-    const slug = saidIn(value, SLUG)
-    const named = namedAbove(value)
-    if (slug === null || named.length === 0) continue
-    const held = above.get(slug)
-    if (held === undefined) above.set(slug, [...named])
-    else for (const two of named) if (!held.includes(two)) held.push(two)
-  }
-  return above
-}
-
-export function kindsUnder(
-  slug: string,
-  given: string | Reading,
-  pageOf?: (path: string) => Value | null
-): ReadonlySet<string> {
-  const above = listedAbove(given, pageOf)
+export function kindsUnder(slug: string, given: string | Reading): ReadonlySet<string> {
+  if (slug === PAGE) return new Set(slugsOfType(given, PAGE_TYPE))
   const under = new Set<string>([slug])
-  for (;;) {
-    let grew = false
-    for (const [held, parents] of above) {
-      if (!under.has(held) && parents.some((one) => under.has(one))) {
-        under.add(held)
-        grew = true
-      }
+  const waiting = [slug]
+  for (let at = 0; at < waiting.length; at += 1) {
+    const one = waiting[at]
+    if (one === undefined) continue
+    const listed = listedAt(given, PAGE_TYPE, one)[0]
+    if (listed === undefined) continue
+    for (const id of idsNaming(given, listed.id, EXTENDS_TYPE)) {
+      const said = typeSlugById(given, id)
+      if (said === null || under.has(said)) continue
+      under.add(said)
+      waiting.push(said)
     }
-    if (!grew) return under
   }
+  return under
 }

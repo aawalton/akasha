@@ -168,7 +168,7 @@ test("a question answered through a shape hands back the shape the reader beneat
   const index = answeringOver(reading, pageOf)
   expect(index.knownIn().filed(HELD_ADDRESS)).toEqual(knownIn(reading, pageOf).filed(HELD_ADDRESS))
   expect(index.sourceIn().schemaFor(SLUG)).toEqual(sourceIn(reading, pageOf).schemaFor(SLUG))
-  expect(index.kindsUnder(PAGE_TYPE)).toEqual(kindsUnder(PAGE_TYPE, reading, pageOf))
+  expect(index.kindsUnder(PAGE_TYPE)).toEqual(kindsUnder(PAGE_TYPE, reading))
 })
 
 test("what imports a file is answered as the reader beneath answers it", () => {

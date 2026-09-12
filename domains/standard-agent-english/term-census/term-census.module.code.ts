@@ -28,7 +28,7 @@ export function kebabOf(form: string): string {
 
 function spellingsIn(root: string): readonly string[] {
   const found: string[] = []
-  for (const kind of kindsUnder(TERM, readingIn(root), (path) => valueAt(path, root))) {
+  for (const kind of kindsUnder(TERM, readingIn(root))) {
     for (const page of everyOfType(root, kind)) {
       let value: Value | null
       try {

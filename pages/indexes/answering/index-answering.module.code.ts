@@ -140,7 +140,7 @@ export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
     folderPropertiesAt: heldOnce(() => folderPropertiesAt(reading)),
     idsNaming: (id, propertySlug) => idsNaming(reading, id, propertySlug),
     importersOf: (path) => importersOf(path, reading),
-    kindsUnder: (slug) => kindsUnder(slug, reading, pageOf),
+    kindsUnder: (slug) => kindsUnder(slug, reading),
     knownIn: heldOnce(() => knownIn(reading, pageOf)),
     listedAt: (pageTypeSlug, slug) => listedAt(reading, pageTypeSlug, slug),
     listedById: (id) => listedById(reading, id),

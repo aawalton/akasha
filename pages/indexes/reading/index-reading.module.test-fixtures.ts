@@ -195,17 +195,22 @@ export function listingFiled(root: string, paths: readonly string[]): undefined 
 
 const KINDED = new Map<string, Set<string>>()
 
+export function typeListed(root: string, slug: string, path?: string): string {
+  const id = `01a04bed-2222-7000-8000-${slug}`
+  const at = path ?? `akasha/${slug}.${PAGE_TYPE}.ts`
+  listedFiled(root, PAGE_TYPE, slug, [{ path: at, id }])
+  idFiled(root, id, [{ path: at, id }])
+  return id
+}
+
 function kindFiled(root: string, kind: string): undefined {
   if (kind === PAGE_PROPERTY) return
   const held = KINDED.get(root) ?? new Set<string>()
   KINDED.set(root, held)
   if (held.has(kind)) return
   held.add(kind)
-  valueAlsoFiled(root, PAGE_TYPE, [
-    {
-      path: `akasha/${kind}.${PAGE_TYPE}.ts`,
-      value: { pageTypeSlug: PAGE_TYPE, slug: kind, extends: [PAGE_PROPERTY] },
-    },
+  relationFiled(root, typeListed(root, PAGE_PROPERTY), "extends-type", typeListed(root, kind), [
+    { path: `akasha/${kind}.${PAGE_TYPE}.ts` },
   ])
 }
 

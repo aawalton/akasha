@@ -104,7 +104,7 @@ export function pageAt(
 export function sourceIn(given: string | Reading, pageOf: (path: string) => Value | null): Source {
   let under: readonly string[] | null = null
   const typing = (): readonly string[] => {
-    if (under === null) under = [...kindsUnder(PAGE_TYPE, given, pageOf)]
+    if (under === null) under = [...kindsUnder(PAGE_TYPE, given)]
     return under
   }
   return {

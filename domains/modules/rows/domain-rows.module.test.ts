@@ -6,7 +6,12 @@ import {
   kindsUnderDomain,
   rowsFrom,
 } from "akasha/domains/modules/rows/domain-rows.module.code.ts"
-import { valueAlsoFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import {
+  idFiled,
+  listedFiled,
+  namedFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { relationFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
@@ -15,8 +20,6 @@ const ONE = "01a04e9f-1111-7000-8000-00000000000a"
 const TWO = "01a04e9f-1111-7000-8000-00000000000b"
 
 const THREE = "01a04e9f-1111-7000-8000-00000000000c"
-
-const KIND = "01a04e9f-1111-7000-8000-00000000000d"
 
 const HER = "01a04e9f-1111-7000-8000-00000000000e"
 
@@ -43,14 +46,24 @@ function filing(
   valueAlsoFiled(root, kind, [{ path, value: { id, slug, ...value } }])
 }
 
-function typing(root: string, slug: string, id: string, above: string): undefined {
+function typeIdOf(slug: string): string {
+  return `01a04e9f-2222-7000-8000-${slug.padStart(12, "0").slice(0, 12)}`
+}
+
+function aType(root: string, slug: string): string {
+  const id = typeIdOf(slug)
   const path = `akasha/held/${slug}.page-type.ts`
+  listedFiled(root, "page-type", slug, [{ path, id }])
+  idFiled(root, id, [{ path, id }])
   valueAlsoFiled(root, "page-type", [{ path, value: { id, slug } }])
-  pageAt(
-    root,
-    path,
-    `export const held = { slug: ${JSON.stringify(slug)}, extends: ["${above}"] }\n`
-  )
+  pageAt(root, path, `export const held = { slug: ${JSON.stringify(slug)} }\n`)
+  return id
+}
+
+function typing(root: string, slug: string, above: string): undefined {
+  const over = aType(root, above.slice(above.indexOf("/") + 1))
+  const id = aType(root, slug)
+  namedFiled(root, over, "extends-type", id, [{ path: `akasha/held/${slug}.page-type.ts` }])
 }
 
 function champions(root: string, id: string, her: string): undefined {
@@ -59,7 +72,7 @@ function champions(root: string, id: string, her: string): undefined {
 
 test("a page type under domain is a kind that is drawn", () => {
   const root = scratch.rootFor("akasha-domains-")
-  typing(root, "module", KIND, "page-type/domain")
+  typing(root, "module", "page-type/domain")
   const kinds = kindsUnderDomain(root)
   expect(kinds.has("domain")).toBe(true)
   expect(kinds.has("module")).toBe(true)
@@ -67,14 +80,14 @@ test("a page type under domain is a kind that is drawn", () => {
 
 test("a page type under one that sits under domain is drawn too", () => {
   const root = scratch.rootFor("akasha-domains-")
-  typing(root, "module", KIND, "page-type/domain")
-  typing(root, "check", TWO, "page-type/module")
+  typing(root, "module", "page-type/domain")
+  typing(root, "check", "page-type/module")
   expect(kindsUnderDomain(root).has("check")).toBe(true)
 })
 
 test("a page type outside domain is no kind of this panel", () => {
   const root = scratch.rootFor("akasha-domains-")
-  typing(root, "finding", KIND, "page-type/page")
+  typing(root, "finding", "page-type/page")
   expect(kindsUnderDomain(root).has("finding")).toBe(false)
 })
 

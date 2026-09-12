@@ -34,8 +34,8 @@ export type Reach = {
 export function reachIn(given: string | Read, pageOf: (path: string) => Value | null): Reach {
   const source = sourceIn(given, pageOf)
   return {
-    prose: kindsUnder(PROSE, given, pageOf),
-    record: kindsUnder(RECORD, given, pageOf),
+    prose: kindsUnder(PROSE, given),
+    record: kindsUnder(RECORD, given),
     source,
     fieldsOf: (one) => {
       const value = pageAt(given, one.pageTypeSlug, one.pagePropertySlug, pageOf)
@@ -88,7 +88,7 @@ export function proseUnder(root: string): ReadonlyMap<string, readonly ProseAt[]
   }
   const reach = reachIn(reading, pageOf)
   const found = new Map<string, readonly ProseAt[]>()
-  for (const kind of kindsUnder(PAGE_TYPE, reading, pageOf)) {
+  for (const kind of kindsUnder(PAGE_TYPE, reading)) {
     for (const one of valuesOfType(reading, kind)) {
       const slug = textAt(one.value, "slug")
       if (slug === null) continue

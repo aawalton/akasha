@@ -1,7 +1,9 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
-import { shapeAdded } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import {
+  shapeAdded,
+  typeListed,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import {
   type Carried,
   declarationsOf,
@@ -26,7 +28,7 @@ export function typed(
   declared: readonly Record<string, unknown>[]
 ): undefined {
   const path = `akasha/held/${slug}.page-type.ts`
-  listedFiled(root, "page-type", slug, [{ path, id: `id-${slug}` }])
+  typeListed(root, slug, path)
   const page = join(root, path)
   mkdirSync(dirname(page), { recursive: true })
   const said = named(above)

@@ -17,7 +17,7 @@ export interface DomainRead {
 
 function heldIn(root: string): readonly DomainRead[] {
   const found: DomainRead[] = []
-  for (const kind of kindsUnder(DOMAIN, readingIn(root), (path) => valueAt(path, root))) {
+  for (const kind of kindsUnder(DOMAIN, readingIn(root))) {
     for (const page of everyOfType(root, kind)) {
       let value: Value | null
       try {

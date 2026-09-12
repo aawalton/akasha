@@ -10,7 +10,9 @@ import {
   treeLines,
 } from "akasha/commands/pages/domain/drawing/domain-drawing.module.code.ts"
 import {
+  idFiled,
   listedFiled,
+  namedFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
@@ -95,10 +97,13 @@ test("a domain open above the point being drawn is marked rather than drawn agai
 function typed(root: string, slug: string, above: readonly string[]): undefined {
   const path = `akasha/held/${slug}.page-type.ts`
   const named = above.map((one) => `page-type/${one}`)
-  listedFiled(root, "page-type", slug, [{ path, id: `id-${slug}` }])
+  const id = `id-${slug}`
+  listedFiled(root, "page-type", slug, [{ path, id }])
+  idFiled(root, id, [{ path, id }])
   valueAlsoFiled(root, "page-type", [
-    { path, value: { id: `id-${slug}`, pageTypeSlug: "page-type", slug, extends: named } },
+    { path, value: { id, pageTypeSlug: "page-type", slug, extends: named } },
   ])
+  for (const one of above) namedFiled(root, `id-${one}`, "extends-type", id, [{ path }])
   const page = join(root, path)
   mkdirSync(dirname(page), { recursive: true })
   writeFileSync(

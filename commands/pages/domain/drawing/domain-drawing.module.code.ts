@@ -1,6 +1,5 @@
 import { readingIn, valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
@@ -38,7 +37,7 @@ export interface Drawn {
 }
 
 export function kindsUnderDomain(root: string): ReadonlySet<string> {
-  return kindsUnder(DOMAIN_TYPE, readingIn(root), (path) => valueAt(path, root))
+  return kindsUnder(DOMAIN_TYPE, readingIn(root))
 }
 
 function partsOf(value: Value): readonly string[] {

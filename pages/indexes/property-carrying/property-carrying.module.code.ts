@@ -241,9 +241,8 @@ function kindedIn(given: string | Reading): Kinded {
   const filling = (kind: string): undefined => {
     for (const one of valuesOfType(given, kind)) held.set(one.path, one.value)
   }
-  filling(PAGE_TYPE)
   return {
-    kindsUnder: (of) => kindsUnder(of, given, (path) => held.get(path) ?? null),
+    kindsUnder: (of) => kindsUnder(of, given),
     everyOfType: (kind) => {
       filling(kind)
       return everyOfType(given, kind)

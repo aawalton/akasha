@@ -21,6 +21,10 @@ export const indexFiling = {
       statement: "A line is written closed by a line end.",
     },
     {
+      invariantKind: "departure",
+      statement: "A page naming a page is filed under the named page's id and the property slug.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads a line back.",
     },

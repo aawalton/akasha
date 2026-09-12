@@ -65,7 +65,7 @@ export type SeatStated = {
 }
 
 export function assignedKinds(root: string): readonly string[] {
-  const rest = [...kindsUnder(DOMAIN, readingIn(root), (path) => valueAt(path, root))].sort()
+  const rest = [...kindsUnder(DOMAIN, readingIn(root))].sort()
   return [...PREFERRED, ...rest.filter((one) => !PREFERRED.includes(one))]
 }
 

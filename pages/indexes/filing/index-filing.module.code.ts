@@ -1,6 +1,7 @@
 import { appendFileSync, existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { indexIdentity } from "akasha/pages/indexes/identity/index-identity.index.ts"
+import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
 import { indexIn } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
 
@@ -59,6 +60,16 @@ export function listedFiled(
 
 export function idFiled(root: string, id: string, lines: readonly unknown[]): undefined {
   identityFiled(root, PAGE, NO_SCOPE, ID, id, lines)
+}
+
+export function namedFiled(
+  root: string,
+  id: string,
+  propertySlug: string,
+  naming: string,
+  lines: readonly unknown[]
+): undefined {
+  written(root, join(indexRelation.name, PAGE, ID, id, propertySlug, naming), lines)
 }
 
 function bodyWritten(root: string, path: string, value: unknown): undefined {

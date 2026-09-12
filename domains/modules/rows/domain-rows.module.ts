@@ -15,8 +15,7 @@ export const domainRows = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Which page types sit under `domain` is worked out from the page type pages themselves.",
+      statement: "Which page types sit under `domain` is read from the index.",
     },
     {
       invariantKind: "departure",
