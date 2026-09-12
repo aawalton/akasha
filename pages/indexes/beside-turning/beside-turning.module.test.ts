@@ -44,6 +44,8 @@ const BESIDE = "one.bland.code.ts"
 
 const PATHS = "listing/path.jsonl"
 
+const BODY = `export const it = ${JSON.stringify({ pageTypeSlug: "bland", slug: "one" })} as const\n`
+
 const READING: Reading = {
   holds: (at) => at === "",
   listing: (at) => (at === "value" ? [{ name: "bland.jsonl", directory: false }] : []),
@@ -53,7 +55,7 @@ const READING: Reading = {
     }
     return at === PATHS ? [PAGE, BESIDE] : []
   },
-  read: () => null,
+  read: (at) => (at === PAGE ? BODY : null),
 }
 
 function besidesOf(values: readonly Held[]): Besides {

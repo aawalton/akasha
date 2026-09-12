@@ -86,7 +86,7 @@ export const besideTurning = {
     },
     {
       invariantKind: "departure",
-      statement: "A page naming an id is read off the index rather than off the disk.",
+      statement: "A page naming an id has its value read from that page's own body.",
     },
     {
       invariantKind: "departure",
@@ -110,7 +110,7 @@ export const besideTurning = {
     },
     {
       invariantKind: "departure",
-      statement: "A page the index holds no value for is passed over.",
+      statement: "A page whose body reads as no value of the type its name says is passed over.",
     },
   ],
 } as const satisfies Module

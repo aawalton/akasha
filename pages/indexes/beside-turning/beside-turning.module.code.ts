@@ -6,7 +6,7 @@ import {
   everyValue,
   namersOf,
   type Valued,
-  valuesByPath,
+  valueByPath,
   valuesOfType,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Filing, Reading, Shape } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
@@ -73,10 +73,19 @@ export function pagesElsewhere(
   return found
 }
 
+function typeIn(value: Value): string | null {
+  return textAt(value, "type") ?? textAt(value, "pageTypeSlug")
+}
+
+function pageValueAt(reading: Reading, at: string, pageTypeSlug: string): Value | null {
+  const value = valueByPath(reading, at)
+  return value === null || typeIn(value) !== pageTypeSlug ? null : value
+}
+
 function typesNamed(values: readonly Value[]): ReadonlySet<string> {
   const found = new Set<string>()
   for (const one of values) {
-    if ((textAt(one, "type") ?? textAt(one, "pageTypeSlug")) !== PAGE_TYPE) continue
+    if (typeIn(one) !== PAGE_TYPE) continue
     const slug = textAt(one, "slug")
     if (slug !== null) found.add(slug)
   }
@@ -195,8 +204,8 @@ export function pagesNaming(
       seen.add(one.path)
       const said = partedIn(one.path)
       if (said === null) continue
-      const value = valuesByPath(reading, said.pageType).get(one.path)
-      if (value !== undefined) found.push({ path: one.path, value })
+      const value = pageValueAt(reading, one.path, said.pageType)
+      if (value !== null) found.push({ path: one.path, value })
     }
   }
   return found
@@ -211,8 +220,8 @@ export function pagesBeside(reading: Reading, carried: ReadonlySet<string>): rea
     const at = join(dirname(path), `${pageOf(said)}${PAGE_HELD}`)
     if (carried.has(at) || seen.has(at)) continue
     seen.add(at)
-    const value = valuesByPath(reading, said.pageType).get(at)
-    if (value !== undefined) found.push({ path: at, value })
+    const value = pageValueAt(reading, at, said.pageType)
+    if (value !== null) found.push({ path: at, value })
   }
   return found
 }
