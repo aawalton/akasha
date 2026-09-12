@@ -6,10 +6,7 @@ export const inferenceUpscale = {
   slug: "inference-upscale",
   definition: "the command remaking one image at a higher resolution on a GPU",
   code: "ts",
-  taking: [
-    { said: "--host <where>", takes: "which GPU the work runs on" },
-    { said: "--resolution <px>", takes: "how many pixels the shortest edge is remade at" },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -51,5 +48,7 @@ export const inferenceUpscale = {
     { argument: "argument/seed" },
     { argument: "argument/no-persist" },
     { argument: "argument/image", required: true, saidAs: "flag-or-word" },
+    { argument: "argument/host" },
+    { argument: "argument/resolution", required: true },
   ],
 } as const satisfies Command
