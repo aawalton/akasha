@@ -1,10 +1,12 @@
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
 import {
+  asJson,
   DATA,
   INPUT,
-  OK,
   refused,
+  refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -161,7 +163,7 @@ export async function temperInventoryLookupItem(
   given?: Given
 ): Promise<Answer> {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
+  if ("refused" in read) return refusedBy(read.refused)
   const itemId = wholeNumberIn(read.named) ?? parseItemLink(read.named)?.itemId ?? null
   if (itemId === null) {
     return refused(`\`${read.named}\` reads as neither an item id nor an item link`, INPUT)
@@ -184,16 +186,6 @@ export async function temperInventoryLookupItem(
   }
   const classification: Classification = classificationOf(match.itemName)
   const categoryNodeIds = classifyItemToNodeIds(match)
-  if (read.json) {
-    return {
-      report: [JSON.stringify(jsonOf(itemId, match, classification, categoryNodeIds))],
-      refusals: [],
-      code: OK,
-    }
-  }
-  return {
-    report: [...rowsOf(itemId, match, classification, categoryNodeIds)],
-    refusals: [],
-    code: OK,
-  }
+  if (read.json) return asJson(jsonOf(itemId, match, classification, categoryNodeIds))
+  return told([...rowsOf(itemId, match, classification, categoryNodeIds)])
 }
