@@ -7,7 +7,7 @@ import {
   SEQUENCE_CONFIG_KEY,
   type StatedConfig,
   statedConfigValue,
-} from "akasha/pages/access/file-page-type-config/file-page-type-config.module.code.ts"
+} from "akasha/pages/access/modules/file-page-type-config/file-page-type-config.module.code.ts"
 import type { Asked, Query, Row } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 
 type Store = Readonly<Record<string, Row>>

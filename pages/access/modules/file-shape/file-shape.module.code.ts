@@ -2,8 +2,8 @@ import {
   filePropertyDefinitions,
   PAGE_TYPE,
   shapeAsked,
-} from "akasha/pages/access/file-property-defs/file-property-defs.module.code.ts"
-import type { FileReadShape } from "akasha/pages/access/file-read/file-read.module.code.ts"
+} from "akasha/pages/access/modules/file-property-defs/file-property-defs.module.code.ts"
+import type { FileReadShape } from "akasha/pages/access/modules/file-read/file-read.module.code.ts"
 import type { Asked, Query } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"

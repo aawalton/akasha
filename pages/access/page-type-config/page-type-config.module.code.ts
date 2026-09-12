@@ -2,8 +2,8 @@ import {
   fileMediaConfig,
   fileMediaPageTypeSlugs,
   fileSequenceConfig,
-} from "akasha/pages/access/file-page-type-config/file-page-type-config.module.code.ts"
-import { filePropertyDefinitions } from "akasha/pages/access/file-property-defs/file-property-defs.module.code.ts"
+} from "akasha/pages/access/modules/file-page-type-config/file-page-type-config.module.code.ts"
+import { filePropertyDefinitions } from "akasha/pages/access/modules/file-property-defs/file-property-defs.module.code.ts"
 import type { StorageTier } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import type { MediaConfig } from "akasha/pages/core/schema/media-config/media-config.module.code.ts"
 import type { SequenceConfig } from "akasha/pages/core/schema/sequence-config/sequence-config.module.code.ts"

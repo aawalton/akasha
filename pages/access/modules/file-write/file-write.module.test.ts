@@ -8,7 +8,7 @@ import {
   slugsOf,
   upsertFilePage,
   writerLine,
-} from "akasha/pages/access/file-write/file-write.module.code.ts"
+} from "akasha/pages/access/modules/file-write/file-write.module.code.ts"
 import type { Asked, Query } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import type { Writing } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 import type {

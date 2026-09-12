@@ -1,8 +1,8 @@
-import { removeFilePages } from "akasha/pages/access/file-write/file-write.module.code.ts"
 import {
   rejectDefinitionTier,
   requireFileBacked,
 } from "akasha/pages/access/guards/guards.module.code.ts"
+import { removeFilePages } from "akasha/pages/access/modules/file-write/file-write.module.code.ts"
 import {
   asPageList,
   overServer,

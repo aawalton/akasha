@@ -1,4 +1,4 @@
-import { kebabizeKey } from "akasha/pages/access/file-rows/file-rows.module.code.ts"
+import { kebabizeKey } from "akasha/pages/access/modules/file-rows/file-rows.module.code.ts"
 import type { PropertyDefinition } from "akasha/pages/access/page-type-config/page-type-config.module.code.ts"
 import type {
   Page,

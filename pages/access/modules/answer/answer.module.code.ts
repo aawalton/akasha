@@ -1,9 +1,9 @@
-import { valuedRows } from "akasha/pages/access/file-read/file-read.module.code.ts"
-import { buildRawPageRows } from "akasha/pages/access/file-rows/file-rows.module.code.ts"
 import {
   fileBackedPageTypes,
   RosterUnreachable,
 } from "akasha/pages/access/modules/file-backed-roster/file-backed-roster.module.code.ts"
+import { valuedRows } from "akasha/pages/access/modules/file-read/file-read.module.code.ts"
+import { buildRawPageRows } from "akasha/pages/access/modules/file-rows/file-rows.module.code.ts"
 import { getPageTypeBySlug } from "akasha/pages/access/page-type/page-type.module.code.ts"
 import {
   getPropertyDefinitions,

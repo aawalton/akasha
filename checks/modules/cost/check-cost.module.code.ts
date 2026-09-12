@@ -5,7 +5,7 @@ import { exclusively } from "akasha/files/modules/exclusive/exclusive.module.cod
 import { uncommittedPartAt } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
 import { partFiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import { ENTRY_CEILING } from "akasha/pages/modules/entry-ceiling/entry-ceiling.module.code.ts"
-import { sizeOnDisk } from "akasha/utils/fs/file-size/file-size.module.code.ts"
+import { sizeOnDisk } from "akasha/utils/fs/modules/file-size/file-size.module.code.ts"
 import { textOnDisk } from "akasha/utils/fs/text-on-disk/text-on-disk.module.code.ts"
 import { spentRelaying } from "akasha/utils/run/run-relaying/run-relaying.module.code.ts"
 

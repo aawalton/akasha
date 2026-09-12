@@ -1,4 +1,3 @@
-import { buildRawPageRows } from "akasha/pages/access/file-rows/file-rows.module.code.ts"
 import {
   type CursorPayload,
   decodeCursor,
@@ -14,6 +13,7 @@ import {
   narrowing,
   ranked,
 } from "akasha/pages/access/modules/file-narrow/file-narrow.module.code.ts"
+import { buildRawPageRows } from "akasha/pages/access/modules/file-rows/file-rows.module.code.ts"
 import type { PropertyDefinition } from "akasha/pages/access/page-type-config/page-type-config.module.code.ts"
 import { flattenRow } from "akasha/pages/access/routing-core/routing-core.module.code.ts"
 import type {

@@ -19,7 +19,7 @@ import {
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { ENTRY_CEILING } from "akasha/pages/modules/entry-ceiling/entry-ceiling.module.code.ts"
 import { pagesAtFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
-import { sizeOnDisk } from "akasha/utils/fs/file-size/file-size.module.code.ts"
+import { sizeOnDisk } from "akasha/utils/fs/modules/file-size/file-size.module.code.ts"
 
 const PUT = "change-mechanical/add-file-of-any-kind"
 

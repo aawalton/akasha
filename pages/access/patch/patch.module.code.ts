@@ -1,14 +1,14 @@
 import {
-  patchFilePages,
-  refuseJsonPatch,
-} from "akasha/pages/access/file-write/file-write.module.code.ts"
-import {
   enforcePipelineScope,
   rejectDefinitionTier,
   rejectReadOnlyKeys,
   rejectWholesaleTagsSet,
   requireFileBacked,
 } from "akasha/pages/access/guards/guards.module.code.ts"
+import {
+  patchFilePages,
+  refuseJsonPatch,
+} from "akasha/pages/access/modules/file-write/file-write.module.code.ts"
 import {
   asPageList,
   overServer,
