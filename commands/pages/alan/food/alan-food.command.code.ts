@@ -126,9 +126,6 @@ export function readIn(argv: readonly string[], calledAs: string): Read {
       `\`${timeArgument.said}\` takes a wall clock written HH:MM, and \`${taken.time}\` is none`
     )
   }
-  if (taken.image === "") {
-    refusals.push(`\`${imageArgument.said}\` names a path, and what followed it was empty`)
-  }
   if (refusals.length > 0) return { refused: refusals }
   return {
     title: taken.title,
