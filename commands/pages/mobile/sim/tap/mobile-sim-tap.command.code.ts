@@ -3,6 +3,7 @@ import {
   findElement,
   tapCoordinates,
 } from "akasha/alan/harness/mobile-cli/appium-client/appium-client.module.code.ts"
+import { driving } from "akasha/alan/harness/mobile-cli/sim-driver/sim-driver.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { selector as selectorArgument } from "akasha/commands/arguments/pages/selector.argument.ts"
 import { x as xArgument } from "akasha/commands/arguments/pages/x.argument.ts"
@@ -13,7 +14,7 @@ import {
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { driving } from "akasha/commands/pages/mobile/mobile-answering/mobile-answering.module.code.ts"
+
 import { mobileSimTap as page } from "akasha/commands/pages/mobile/sim/tap/mobile-sim-tap.command.ts"
 
 const BY_CSS = "css selector"

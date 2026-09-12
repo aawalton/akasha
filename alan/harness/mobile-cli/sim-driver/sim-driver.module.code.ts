@@ -210,3 +210,7 @@ async function sessionStillLive(state: SimSessionState): Promise<boolean> {
 export function requireDrivingState(): SimSessionState {
   return requireSessionState()
 }
+
+export async function driving(done: string[]): Promise<SimSessionState> {
+  return await attachWebview(done, requireDrivingState())
+}

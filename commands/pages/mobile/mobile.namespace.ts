@@ -5,12 +5,7 @@ export const mobile = {
   type: "namespace",
   slug: "mobile",
   definition: "the simulator an iOS app is driven on, and what is known of the builds Apple holds",
-  parts: [
-    "namespace/mobile-cut",
-    "namespace/mobile-sim",
-    "command/mobile-testflight-status",
-    "module/mobile-answering",
-  ],
+  parts: ["namespace/mobile-cut", "namespace/mobile-sim", "command/mobile-testflight-status"],
   name: "mobile",
   invariants: [
     {

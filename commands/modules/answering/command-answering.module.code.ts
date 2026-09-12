@@ -88,6 +88,17 @@ export function flagsAloneIn(said: Loose): readonly string[] {
   return said.loose.map((one) => `\`${one}\` follows nothing this takes — it takes flags alone`)
 }
 
+export function keyedLines(
+  entries: ReadonlyArray<readonly [string, string | number | boolean | null | undefined]>
+): string[] {
+  const lines: string[] = []
+  for (const [key, value] of entries) {
+    if (value === undefined) continue
+    lines.push(`${key}\t${value === null ? "" : value}`)
+  }
+  return lines
+}
+
 export function answeredWith(
   report: readonly string[],
   refusals: readonly string[],

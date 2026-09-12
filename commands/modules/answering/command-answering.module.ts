@@ -105,6 +105,14 @@ export const commandAnswering = {
       statement: "A word where a command takes flags alone is the caller's mistake.",
     },
     {
+      invariantKind: "departure",
+      statement: "A line keyed by a name carries that name, a tab and what the name holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name holding nothing at all is a line, and a name holding no value is none.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here prints.",
     },

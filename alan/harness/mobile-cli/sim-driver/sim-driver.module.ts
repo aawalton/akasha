@@ -50,5 +50,10 @@ export const simDriver = {
       invariantKind: "departure",
       statement: "Attaching to a webview names the context it switched the session onto.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "Driving the session already there is attaching to the webview of the session written down.",
+    },
   ],
 } as const satisfies Module
