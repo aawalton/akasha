@@ -4,7 +4,7 @@ import {
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { runMusic } from "akasha/infrastructure/inference/clients/ace-step-client/ace-step-client.module.code.ts"
 import { resolveOutputPath } from "akasha/infrastructure/inference/clients/inference-output-path/inference-output-path.module.code.ts"
 import {
@@ -12,9 +12,9 @@ import {
   resolveSeed,
 } from "akasha/infrastructure/inference/clients/inference-seed/inference-seed.module.code.ts"
 import {
-  calledAs,
   countAt,
   heldOr,
+  madeOf,
   proseAt,
   proseNeededAt,
   serviceNamed,
@@ -75,7 +75,7 @@ const POLL_INTERVAL_MS = 5_000
 
 const SECOND_MS = 1000
 
-export async function inferenceMusic(argv: readonly string[]): Promise<Answer> {
+export async function inferenceMusic(argv: readonly string[], given: Given): Promise<Answer> {
   const said = wordsIn(argv, TAKING, SWITCHES)
   if (wasRefused(said)) return refusedBy(said.refused)
 
@@ -105,7 +105,7 @@ export async function inferenceMusic(argv: readonly string[]): Promise<Answer> {
       operation: "music",
       model: DIT_MODEL,
       host: reached.service.host,
-      commandLine: calledAs("inference-music", argv),
+      commandLine: madeOf(given.calledAs, argv),
       startedAt: new Date(nowMs).toISOString(),
       prompt,
       seed: drawn,
