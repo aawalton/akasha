@@ -6,6 +6,8 @@ import {
   seatsStanding,
 } from "akasha/seat-system/seat-roster/seat-roster.module.code.ts"
 import { textIn } from "akasha/utils/narrow/text-in/text-in.module.code.ts"
+import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 const UUID_HEX_LEN = 32
 
@@ -20,6 +22,12 @@ const NAME_MIN = 2
 const NAME_MAX = 128
 
 const HEX_ONLY_NAME_MAX = 7
+
+const NONE_NAMED = "no seat is named, and one is named at `--agent-id` or in `AGENT_ID`"
+
+function noSeatId(candidate: string): string {
+  return `\`${candidate}\` is no seat's id`
+}
 
 export type SeatHandle =
   | { readonly kind: "uuid"; readonly uuid: string }
@@ -56,10 +64,12 @@ function pickOne(input: string, found: readonly Seated[]): SeatMatch {
   const [first, second] = found
   if (first !== undefined && second === undefined) return { id: first.id }
   if (found.length > 1) {
-    const spelled = found.map((one) => one.name ?? one.id).join(", ")
-    return { error: `Ambiguous seat handle '${input}' — ${found.length} match: ${spelled}` }
+    const spelled = found.map((one) => one.name ?? one.id)
+    return {
+      error: `\`${input}\` names ${counted(found.length, "seat")}, and one call names one — ${namesDrawn(spelled)}`,
+    }
   }
-  return { error: `No seat found matching '${input}'` }
+  return { error: `\`${input}\` names no seat` }
 }
 
 function byPrefix(prefix: string, seats: readonly Seated[]): readonly Seated[] {
@@ -86,7 +96,7 @@ export function resolveSeatAmong(
   const plan = planSeatResolution(input)
   if (plan.kind === "invalid") {
     return {
-      error: `Invalid seat handle '${input}' (expected a uuid, a uuid prefix, or a name)`,
+      error: `\`${input}\` spells no seat — a seat is named as its page is named, or by its id or the opening of one`,
     }
   }
   const [held, alsoHeld] = matching(plan, standing)
@@ -108,7 +118,7 @@ function fromEnv(): string | undefined {
 
 export async function resolveSeatTargetCli(input: string): Promise<string> {
   const found = resolveSeatTarget(input)
-  if ("error" in found) throw inputError(`[ops] ${found.error}`)
+  if ("error" in found) throw inputError(found.error)
   return found.id
 }
 
@@ -117,9 +127,7 @@ export async function resolveSeatTargetFromFlagOrEnv(
 ): Promise<string> {
   const candidate = flagValue ?? fromEnv()
   if (candidate === undefined) {
-    throw inputError(
-      "[ops] seat not named — pass --agent-id <uuid|prefix|name> or set the AGENT_ID env var"
-    )
+    throw inputError(NONE_NAMED)
   }
   return resolveSeatTargetCli(candidate)
 }
@@ -127,10 +135,10 @@ export async function resolveSeatTargetFromFlagOrEnv(
 export async function resolveSeatId(flagValue: string | undefined): Promise<string> {
   const candidate = flagValue ?? fromEnv()
   if (candidate === undefined) {
-    throw inputError("[ops] seat not named — pass --agent-id <uuid> or set the AGENT_ID env var")
+    throw inputError(NONE_NAMED)
   }
   if (!lowerUuid(candidate.toLowerCase())) {
-    throw inputError(`[ops] invalid agent id (expected UUID): ${candidate}`)
+    throw inputError(noSeatId(candidate))
   }
   return candidate
 }
@@ -139,7 +147,7 @@ export async function resolveOptionalSeatId(flagValue: string | undefined): Prom
   const candidate = flagValue ?? fromEnv()
   if (candidate === undefined) return null
   if (!lowerUuid(candidate.toLowerCase())) {
-    throw inputError(`[ops] invalid agent id (expected UUID): ${candidate}`)
+    throw inputError(noSeatId(candidate))
   }
   return candidate
 }
@@ -148,9 +156,8 @@ export async function requireSenderInput(flagValue: string | undefined): Promise
   const candidate = flagValue ?? fromEnv()
   if (candidate === undefined) {
     throw inputError(
-      "[ops] sender identity not provided — this is the SENDER slot, not the recipient. " +
-        "Pass --from <uuid|name|prefix>, set the AGENT_ID env var, " +
-        "or run inside a supervisor session (which sets AGENT_ID automatically)."
+      "no sender is named, and the sender is named at `--from` or in `AGENT_ID` — " +
+        "the sender is who the message is from rather than who it is to"
     )
   }
   return candidate
@@ -160,7 +167,7 @@ export async function resolveSenderTargetCli(candidate: string): Promise<string>
   const found = resolveSeatTarget(candidate)
   if ("error" in found) {
     throw inputError(
-      `[ops] could not resolve sender identity '${candidate}' (the SENDER slot, not the recipient): ${found.error}`
+      `${found.error}, and that name is who the message is from rather than who it is to`
     )
   }
   return found.id
