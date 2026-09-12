@@ -6,6 +6,7 @@ export const trackSessionAmend = {
   slug: "track-session-amend",
   definition: "the command changing a stretch already written",
   code: "ts",
+  test: "ts",
   parts: [],
 
   invariants: [
