@@ -3,6 +3,7 @@ import { getChestDisplayName } from "akasha/temper/items-addon/inventory-locatio
 import {
   forEachPendingAction,
   getCompiledConfig,
+  getPendingAction,
 } from "akasha/temper/items-addon/inventory-rules-core/inventory-rules-core.module.code.ts"
 import type { AddonItemAction } from "akasha/temper/items-addon/inventory-rules-types/inventory-rules-types.module.code.ts"
 import { isSavedVariablesReady } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
@@ -162,6 +163,7 @@ export function computePlanVenues(): VenuePlan[] | undefined {
   const bagSize = GetBagSize(BAG_BACKPACK)
   for (let slot = 0; slot < bagSize; slot++) {
     if (!IsItemJunk(BAG_BACKPACK, slot)) continue
+    if (getPendingAction(BAG_BACKPACK, slot) !== undefined) continue
     const [stackCount] = GetSlotStackSize(BAG_BACKPACK, slot)
     if (stackCount === 0) continue
     if (IsItemStolen(BAG_BACKPACK, slot)) {
