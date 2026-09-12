@@ -49,7 +49,7 @@ import { isResettingCard } from "akasha/temper/player-completion/modules/complet
 import {
   getSavedVariables,
   type TaskData,
-} from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
+} from "akasha/temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 
 function backpackBufferSlots(): number {

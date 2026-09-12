@@ -3,7 +3,7 @@ import {
   TEXT_SECONDARY,
 } from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
 import { createPlaceholderPanel } from "akasha/temper/characters-addon/modules/characters-placeholder-panel/characters-placeholder-panel.module.code.ts"
-import { getSavedVariables } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
+import { getSavedVariables } from "akasha/temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 
 export interface TabControl extends Control {

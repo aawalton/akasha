@@ -1,5 +1,5 @@
 import { mergeIdListsByKey } from "akasha/temper/characters-addon/modules/characters-collector-merge/characters-collector-merge.module.code.ts"
-import { getSavedVariables } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
+import { getSavedVariables } from "akasha/temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 
 function upgradedPatronCards(patronId: number): number[] {
   const upgraded: number[] = []

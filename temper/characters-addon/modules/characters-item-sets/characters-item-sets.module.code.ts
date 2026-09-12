@@ -1,6 +1,6 @@
 import type { ItemSetProgress } from "akasha/temper/completion/modules/completion-record/completion-record.module.code.ts"
 import { resolveCategoryNames } from "akasha/temper/item-sets/item-set-categories/item-set-categories.module.code.ts"
-import { getSavedVariables } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
+import { getSavedVariables } from "akasha/temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 
 function scanPieces(itemSetId: number, totalSlots: number): { name: string; unlocked: boolean }[] {
   const pieces: { name: string; unlocked: boolean }[] = []

@@ -1,5 +1,5 @@
 import type { SkillLineProgress } from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
-import { getSavedVariables } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
+import { getSavedVariables } from "akasha/temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 
 function saveMorphsForSkillLine(
   skillLineEntry: SkillLineProgress,

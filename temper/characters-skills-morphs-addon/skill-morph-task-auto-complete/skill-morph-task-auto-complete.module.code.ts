@@ -1,5 +1,5 @@
 import { getSkillMorphEnrichment } from "akasha/temper/characters-skills-morphs-addon/skill-morph-task-hud/skill-morph-task-hud.module.code.ts"
-import type { TaskData } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
+import type { TaskData } from "akasha/temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 
 export function countEnrichmentSlots(task: TaskData): { equipped: number; available: number } {
   const enrichment = getSkillMorphEnrichment(task)

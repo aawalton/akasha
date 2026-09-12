@@ -1,9 +1,9 @@
 import { tallyDone } from "akasha/temper/characters-addon/modules/characters-progress-tally/characters-progress-tally.module.code.ts"
 import { getRecipeTotals } from "akasha/temper/characters-addon/modules/characters-recipes/characters-recipes.module.code.ts"
 import { getEsoDayStringFromSec } from "akasha/temper/dungeons/eso-reset/eso-reset.module.code.ts"
-import type { SavedCharacterEntry } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 import type { TaskProgress } from "akasha/temper/player-completion-state/completion-task-progress/completion-task-progress.module.code.ts"
 import { DAILY_WRIT_COUNT } from "akasha/temper/player-completion-state/modules/completion-daily-writs-state/completion-daily-writs-state.module.code.ts"
+import type { SavedCharacterEntry } from "akasha/temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 
 const isUnlocked = (entry: { unlocked: boolean }): boolean => entry.unlocked
 

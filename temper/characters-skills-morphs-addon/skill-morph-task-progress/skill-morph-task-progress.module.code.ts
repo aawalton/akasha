@@ -4,8 +4,8 @@ import {
   RACIAL_ESO_LINE_ID_PER_ESO_RACE,
 } from "akasha/temper/characters-capture-addon/modules/character-capture-skill-line-groups/character-capture-skill-line-groups.module.code.ts"
 import { MORPHABLE_SKILLS_DETAIL_PER_LINE } from "akasha/temper/characters-capture-addon/modules/character-capture-skill-line-map/character-capture-skill-line-map.module.code.ts"
-import type { SavedCharacterEntry } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 import type { TaskProgress } from "akasha/temper/player-completion-state/completion-task-progress/completion-task-progress.module.code.ts"
+import type { SavedCharacterEntry } from "akasha/temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 import { computeApplicableEsoSkillLineIds } from "akasha/temper/skill-morphs/modules/applicable-eso-skill-lines/applicable-eso-skill-lines.module.code.ts"
 import {
   computeCharacterMorphProgressByEsoId,

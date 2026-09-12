@@ -7,8 +7,8 @@ import {
   MAX_COMPANION_RAPPORT,
 } from "akasha/temper/player-completion/modules/companion-rapport/companion-rapport.module.code.ts"
 import { countLoreLibrary } from "akasha/temper/player-completion/modules/completion-lore-library-progress/completion-lore-library-progress.module.code.ts"
-import type { SavedCharacterEntry } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 import type { TaskProgress } from "akasha/temper/player-completion-state/completion-task-progress/completion-task-progress.module.code.ts"
+import type { SavedCharacterEntry } from "akasha/temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 
 const ALL_COMPANION_ID_SET = new Set<number>(ALL_COMPANION_IDS)
 const TOTAL_RAPPORT = ALL_COMPANION_IDS.length * MAX_COMPANION_RAPPORT

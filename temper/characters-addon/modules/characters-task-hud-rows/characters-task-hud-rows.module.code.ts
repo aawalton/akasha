@@ -27,7 +27,7 @@ import {
 } from "akasha/temper/characters-addon/modules/characters-task-hud-state/characters-task-hud-state.module.code.ts"
 import { isTaskComplete } from "akasha/temper/characters-addon/modules/characters-task-hud-visibility/characters-task-hud-visibility.module.code.ts"
 import { resolveTaskProgress } from "akasha/temper/characters-addon/modules/characters-task-progress-resolver/characters-task-progress-resolver.module.code.ts"
-import type { TaskData } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
+import type { TaskData } from "akasha/temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 
 const SUFFIX_GAP = 4
 
