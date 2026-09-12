@@ -8,11 +8,6 @@ export const inferenceSegment = {
   code: "ts",
   test: "ts",
   taking: [
-    {
-      said: "--flatten <color>",
-      takes:
-        "also write the foreground on a solid color, said `#RRGGBB` or as numbers parted by commas",
-    },
     { said: "--flatten-out <path>", takes: "where that flattened image is written" },
     { said: "--alpha-matting", takes: "refine the matte's edges, which costs more" },
   ],
@@ -67,5 +62,6 @@ export const inferenceSegment = {
     { argument: "argument/matte-out" },
     { argument: "argument/cutout" },
     { argument: "argument/cutout-out" },
+    { argument: "argument/flatten" },
   ],
 } as const satisfies Command
