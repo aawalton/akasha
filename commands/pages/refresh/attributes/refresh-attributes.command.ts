@@ -8,12 +8,7 @@ export const refreshAttributes = {
   code: "ts",
   test: "ts",
   changeKind: "change-mechanical",
-  helpNotes: [
-    "the days from 2026-09-06 up to today are added up afresh and kept as each attribute's points before today.",
-    "today's points and the total are taken again straight after, so the three figures agree when the run ends.",
-    "an attribute nothing can be read for keeps the figure it already carried.",
-    "run this when a day has turned, or when a total looks wrong.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
