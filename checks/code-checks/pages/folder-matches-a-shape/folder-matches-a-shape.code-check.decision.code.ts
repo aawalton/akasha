@@ -266,6 +266,33 @@ export function partOfOver(index: Paged): (page: Held) => readonly string[] {
   }
 }
 
+export function claimingOver(
+  grouped: Grouped,
+  pageTypes: ReadonlySet<string>,
+  fileProperties: ReadonlySet<string>,
+  parts: (page: Held) => readonly string[]
+): (folder: string) => boolean {
+  const held = new Map<string, boolean>()
+  const claiming = (folder: string): boolean => {
+    if (folder === "") return false
+    const found = held.get(folder)
+    if (found !== undefined) return found
+    const above = folderOf(folder)
+    let made = false
+    for (const one of grouped.at(above)) {
+      const page = heldIn(one, pageTypes, fileProperties)
+      if (page.kind === "page" && parts(page).includes(folder)) {
+        made = true
+        break
+      }
+    }
+    if (!made) made = claiming(above)
+    held.set(folder, made)
+    return made
+  }
+  return claiming
+}
+
 export type Reading = {
   readonly root: string
   readonly shadow: Shadow
@@ -312,6 +339,7 @@ export function judgingOver(given: Reading): Judging {
     (at) => grouped.at(folderOf(at)).includes(at)
   )
   const partOf = partOfOver(index)
+  const claimed = claimingOver(grouped, pageTypes, fileProperties, parts)
   const entering = enteringOf(given.shadow)
   const refusalsAt = (folders: Iterable<string>): readonly Judged[] => {
     const found: Judged[] = []
@@ -349,6 +377,7 @@ export function judgingOver(given: Reading): Judging {
         declared: (at) => holds(at).declared,
         parts,
         partOf,
+        claimed,
       }
       const said = shapes.map((one) => ({ slug: one.slug, reasons: judgedBy(one, described) }))
       if (said.some((one) => one.reasons.length === 0)) continue

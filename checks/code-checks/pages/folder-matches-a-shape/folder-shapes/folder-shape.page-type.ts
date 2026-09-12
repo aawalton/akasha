@@ -26,6 +26,7 @@ export type Standing = {
   readonly declared: (folder: string) => ReadonlySet<string>
   readonly parts: (page: Held) => readonly string[]
   readonly partOf: (page: Held) => readonly string[]
+  readonly claimed: (folder: string) => boolean
 }
 
 export type Judging = (standing: Standing) => readonly string[]
@@ -38,6 +39,7 @@ export const folderShape = {
   pluralSlug: "folder-shapes",
   parts: [
     "boolean-property/folder-shape-enabled",
+    "folder-shape/a-claimed-folder",
     "folder-shape/a-page-with-its-parts",
     "folder-shape/modules-only",
     "folder-shape/a-domain-with-its-parts",
@@ -232,6 +234,14 @@ export const folderShape = {
     {
       invariantKind: "departure",
       statement: "A page answers with the collections that page names as holding that page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder answers whether a page above that folder claims that folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder under a claimed folder answers that it is claimed too.",
     },
     {
       invariantKind: "departure",

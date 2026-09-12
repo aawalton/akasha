@@ -24,6 +24,7 @@ function judged(
     declared: () => new Set<string>(),
     parts: (page) => [page.path],
     partOf: () => [],
+    claimed: () => false,
   }
   return theWorkspaceRoot(made)
 }
