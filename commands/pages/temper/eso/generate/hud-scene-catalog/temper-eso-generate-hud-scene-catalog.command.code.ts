@@ -14,7 +14,7 @@ import {
   OPERATIONAL,
   refused,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import {
   saidFor,
@@ -195,7 +195,8 @@ async function generated(done: string[], argv: readonly string[]): Promise<Answe
 }
 
 export async function temperEsoGenerateHudSceneCatalog(
-  argv: readonly string[] = [],
+  argv: readonly string[],
+  _given: Given,
   generating: Generating = generated
 ): Promise<Answer> {
   return await answering(async (done) => await generating(done, argv))

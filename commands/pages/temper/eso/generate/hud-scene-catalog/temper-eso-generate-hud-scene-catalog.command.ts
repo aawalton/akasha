@@ -71,6 +71,10 @@ export const temperEsoGenerateHudSceneCatalog = {
       invariantKind: "departure",
       statement: "A run that wrote before it threw says in its refusal what that run had written.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A test seam is taken after the world, so a real call reaches the work.",
+    },
   ],
   name: "hud-scene-catalog",
   arguments: [{ argument: "argument/code-root" }],
