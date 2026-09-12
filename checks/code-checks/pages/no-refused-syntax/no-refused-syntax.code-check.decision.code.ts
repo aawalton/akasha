@@ -12,6 +12,7 @@ import {
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { textOf } from "akasha/code/body-text/body-text.module.code.ts"
 import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
+import type { Naming } from "akasha/commands/modules/walking/command-walking.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
@@ -28,6 +29,12 @@ const CODE = "code"
 const TS = "ts"
 
 const MODULE = "module"
+
+const COMMAND = "command"
+
+const NAMESPACE = "namespace"
+
+const NAMES_ITSELF = "name"
 
 const DECLARES = "pageBodyReaders"
 
@@ -177,13 +184,37 @@ export function readersOf(shadow: Shadow): Readers {
   }
 }
 
+function levelNamed(shadow: Shadow, slug: string): string | null {
+  for (const type of [COMMAND, NAMESPACE]) {
+    const listed = shadow.index.listedAt(type, slug)[0]
+    if (listed === undefined) continue
+    const said = shadow.pageOf(listed.path)?.[NAMES_ITSELF]
+    if (typeof said === "string") return said
+  }
+  return null
+}
+
+export function namingOf(shadow: Shadow): Naming {
+  const held = new Map<string, string | null>()
+  return (slug) => {
+    const found = held.get(slug)
+    if (found !== undefined) return found
+    const said = levelNamed(shadow, slug)
+    held.set(slug, said)
+    return said
+  }
+}
+
+export const NAMES_NOTHING: Naming = () => null
+
 export function refusalsIn(
   rules: readonly Rule[],
   path: string,
   text: string,
-  readers: Readers
+  readers: Readers,
+  namedAt: Naming = NAMES_NOTHING
 ): readonly string[] {
-  const parsed: Given = { path, source: parsedAs(path, text), readers }
+  const parsed: Given = { path, source: parsedAs(path, text), readers, namedAt }
   const said: string[] = []
   for (const rule of rules) {
     for (const one of rule.judge(parsed)) {
@@ -196,5 +227,8 @@ export function refusalsIn(
 export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
   const rules = rulesIn(change.root, shadow, change)
   const readers = readersOf(shadow)
-  return overEveryIn(change, textNamed, (path, text) => refusalsIn(rules, path, text, readers))
+  const namedAt = namingOf(shadow)
+  return overEveryIn(change, textNamed, (path, text) =>
+    refusalsIn(rules, path, text, readers, namedAt)
+  )
 }

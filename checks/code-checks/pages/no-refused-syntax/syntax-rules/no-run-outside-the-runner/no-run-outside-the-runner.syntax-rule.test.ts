@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import {
+  LEVELS_NAMED,
   NO_READERS,
   parsed,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
@@ -81,7 +82,12 @@ test("a file in the runner's own folder is refused nothing", () => {
   const at = "utils/run/running/held.module.code.ts"
   const text = 'import { spawnSync } from "node:child_process"\nspawnSync(argv)\n'
   expect(
-    noRunOutsideTheRunner({ path: at, source: parsedAs(at, text), readers: NO_READERS })
+    noRunOutsideTheRunner({
+      path: at,
+      source: parsedAs(at, text),
+      readers: NO_READERS,
+      namedAt: LEVELS_NAMED,
+    })
   ).toEqual([])
 })
 

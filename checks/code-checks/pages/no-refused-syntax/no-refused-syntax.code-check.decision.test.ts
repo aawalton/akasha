@@ -1,5 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import {
+  namingOf,
   type Rule,
   readersOf,
   refusalsIn,
@@ -9,6 +10,7 @@ import {
   BEFORE,
   CARRIED,
   changing,
+  levelsFiled,
   modulesFiled,
   NO_READERS,
   nowhereOnDisk,
@@ -122,6 +124,16 @@ test("the readers of page bodies a module has are the names that module's own pa
   expect([...(found.get("claude-account-reading") ?? [])]).toEqual(["accountValuesIn"])
   expect([...(found.get("quiet") ?? [])]).toEqual([])
   expect([...(found.get("no-module-carries-this-slug") ?? [])]).toEqual([])
+})
+
+test("what a level of the command tree names itself is read off that level's own page", () => {
+  const root = scratch.rootFor("akasha-syntax-rule-")
+  levelsFiled(root)
+  const named = namingOf(shadowAt(root))
+
+  expect(named("change")).toBe("change")
+  expect(named("change-draft")).toBe("draft")
+  expect(named("no-level-carries-this-slug")).toBe(null)
 })
 
 test("a rule whose code no change answers a body for is refused", () => {

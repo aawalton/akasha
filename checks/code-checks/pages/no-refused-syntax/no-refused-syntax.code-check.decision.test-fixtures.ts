@@ -6,6 +6,7 @@ import type {
 import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
+import type { Naming } from "akasha/commands/modules/walking/command-walking.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   listedFiled,
@@ -26,6 +27,10 @@ export const SHADOW_AT = "akasha/pages-system/shadow/shadow.module.code.ts"
 export const RULE = "syntax-rule"
 
 const MODULE = "module"
+
+const COMMAND = "command"
+
+const NAMESPACE = "namespace"
 
 export const TEXT = "export const one = 1\n"
 
@@ -131,8 +136,51 @@ export function modulesFiled(root: string): undefined {
   return undefined
 }
 
+const LEVEL_PAGES: readonly (readonly [string, Held])[] = [
+  [
+    "akasha/commands/pages/change/change.namespace.ts",
+    {
+      id: "01a0596b-0000-7000-8000-000000000005",
+      pageTypeSlug: NAMESPACE,
+      slug: "change",
+      name: "change",
+    },
+  ],
+  [
+    "akasha/commands/pages/change/draft/change-draft.command.ts",
+    {
+      id: "01a0596b-0000-7000-8000-000000000006",
+      pageTypeSlug: COMMAND,
+      slug: "change-draft",
+      name: "draft",
+    },
+  ],
+]
+
+export function levelsFiled(root: string): undefined {
+  for (const [path, value] of LEVEL_PAGES) {
+    writing(root, path, bodyOf(value))
+    listedFiled(root, String(value.pageTypeSlug), String(value.slug), [
+      { path, id: String(value.id) },
+    ])
+  }
+  return undefined
+}
+
+const NAMED: ReadonlyMap<string, string> = new Map([
+  ["change", "change"],
+  ["change-draft", "draft"],
+])
+
+export const LEVELS_NAMED: Naming = (slug) => NAMED.get(slug) ?? null
+
 export function parsed(text: string): Given {
-  return { path: PROBE_AT, source: parsedAs(PROBE_AT, text), readers: READERS_FILED }
+  return {
+    path: PROBE_AT,
+    source: parsedAs(PROBE_AT, text),
+    readers: READERS_FILED,
+    namedAt: LEVELS_NAMED,
+  }
 }
 
 export function ruled(prefix: string): string {

@@ -1,3 +1,4 @@
+import type { Naming } from "akasha/commands/modules/walking/command-walking.module.code.ts"
 import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 import type { SourceFile } from "typescript"
 
@@ -9,6 +10,7 @@ export type Given = {
   readonly path: string
   readonly source: SourceFile
   readonly readers: Readers
+  readonly namedAt: Naming
 }
 
 export type Refusal = {
@@ -56,6 +58,10 @@ export const syntaxRule = {
     {
       invariantKind: "departure",
       statement: "A rule is handed what the pages declare, since a rule reads no index of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule is handed what each level of the command tree names itself.",
     },
     {
       invariantKind: "departure",

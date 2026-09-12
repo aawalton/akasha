@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   CHANGE_FROM,
   JUDGED_FROM,
+  LEVELS_NAMED,
   NO_READERS,
   PROBE_AT,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
@@ -17,7 +18,12 @@ const SWALLOWED =
   "function one(at: string) { try { return readFileSync(at) } catch { return null } }\n"
 
 function over(text: string): readonly Refusal[] {
-  return noSwallowedRead({ path: PROBE_AT, source: parsedAs(PROBE_AT, text), readers: NO_READERS })
+  return noSwallowedRead({
+    path: PROBE_AT,
+    source: parsedAs(PROBE_AT, text),
+    readers: NO_READERS,
+    namedAt: LEVELS_NAMED,
+  })
 }
 
 function walking(body: string): readonly Refusal[] {

@@ -8,6 +8,7 @@ import type {
   Readers,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
+import type { Naming } from "akasha/commands/modules/walking/command-walking.module.code.ts"
 
 const HUMMED_AT = "commands/pages/humming/deep-song/humming-deep-song.command.code.ts"
 
@@ -19,8 +20,10 @@ const OUTSIDE_AT = "checks/one/one.module.code.ts"
 
 const NO_READERS: Readers = new Map()
 
+const NAMES_NOTHING: Naming = () => null
+
 function at(path: string, text: string): Given {
-  return { path, source: parsedAs(path, text), readers: NO_READERS }
+  return { path, source: parsedAs(path, text), readers: NO_READERS, namedAt: NAMES_NOTHING }
 }
 
 test("a command's own call spelled in its code is refused", () => {
