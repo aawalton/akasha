@@ -82,25 +82,8 @@ export const emailCommandReading = {
       statement: "One report line answers each line of that JSON.",
     },
     {
-      invariantKind: "departure",
-      statement: "A fault carries the code that fault names and says where it was thrown.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A command is handed a list to name each write on as Gmail takes that write.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A fault is answered with what that list holds, reported and named in the refusal.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A fault with nothing on that list is answered as the fault alone.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Every answer here is built by the one function building a command's answer.",
+      invariantKind: "absence",
+      statement: "No guard is written here.",
     },
     {
       invariantKind: "absence",

@@ -1,5 +1,4 @@
 import {
-  answeredBy,
   asJsonLines,
   composedIn,
   refusing,
@@ -17,7 +16,10 @@ import { subject } from "akasha/commands/arguments/pages/subject.argument.ts"
 import { subjectFile } from "akasha/commands/arguments/pages/subject-file.argument.ts"
 import { thread } from "akasha/commands/arguments/pages/thread.argument.ts"
 import { toAddress } from "akasha/commands/arguments/pages/to-address.argument.ts"
-import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  answering,
+  INPUT,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { emailMessageSend as page } from "akasha/commands/pages/email/message/send/email-message-send.command.ts"
 
@@ -38,7 +40,7 @@ const TAKES = [
 export function emailMessageSend(argv: readonly string[], given: Given): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, TAKES)
   if ("refused" in read) return Promise.resolve(refusing(read.refused, INPUT))
-  return answeredBy(async (done) => {
+  return answering(async (done) => {
     const composed = await composedIn(given, read.taken)
     if ("why" in composed) return refusing([composed.why], INPUT)
     const google = await emailGoogle()

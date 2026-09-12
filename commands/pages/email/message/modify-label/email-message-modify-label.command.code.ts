@@ -1,5 +1,4 @@
 import {
-  answeredBy,
   asJsonLines,
   refusing,
 } from "akasha/alan/google/email/email-command-reading/email-command-reading.module.code.ts"
@@ -8,7 +7,10 @@ import { takenFor } from "akasha/commands/arguments/argument-taking/argument-tak
 import { addLabel } from "akasha/commands/arguments/pages/add-label.argument.ts"
 import { message } from "akasha/commands/arguments/pages/message.argument.ts"
 import { removeLabel } from "akasha/commands/arguments/pages/remove-label.argument.ts"
-import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  answering,
+  INPUT,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { emailMessageModifyLabel as page } from "akasha/commands/pages/email/message/modify-label/email-message-modify-label.command.ts"
 
@@ -26,7 +28,7 @@ export function emailMessageModifyLabel(argv: readonly string[], given: Given): 
       )
     )
   }
-  return answeredBy(async (done) => {
+  return answering(async (done) => {
     const google = await emailGoogle()
     const client = await google.makeGmailClient()
     return asJsonLines(
