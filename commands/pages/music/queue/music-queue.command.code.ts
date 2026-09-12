@@ -1,4 +1,3 @@
-import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { ResolvedTrack } from "akasha/alan/music/choosing/track-resolving/track-resolving.module.code.ts"
 import {
   resolveDeviceId,
@@ -25,8 +24,6 @@ import { startedOn } from "akasha/commands/pages/music/play/music-play.command.c
 import { musicQueue as page } from "akasha/commands/pages/music/queue/music-queue.command.ts"
 
 const NAMED = [artistArgument, deviceIdArgument, json, queryArgument]
-
-const NO_QUERY = "supply at least one track query to queue"
 
 type Said = {
   readonly queries: readonly string[]
@@ -101,7 +98,7 @@ export async function playedAndQueued(
   done: string[]
 ): Promise<string | undefined> {
   const [first, ...rest] = tracks
-  if (first === undefined) throw new InputError(NO_QUERY)
+  if (first === undefined) return undefined
   const deviceId = await startedOn(first.uri, deviceNamed, ports)
   done.push(playingLineFor(first))
   const deviceOption = deviceId !== undefined ? { deviceId } : {}
@@ -114,7 +111,6 @@ export async function playedAndQueued(
 
 async function queued(said: Said, ports: Queueing, done: string[]): Promise<Answer> {
   const queries = said.queries
-  if (queries.length === 0) throw new InputError(NO_QUERY)
   const tracks = await resolvedFor(queries, said.artist, ports)
   const deviceId = await playedAndQueued(tracks, said.deviceId, ports, done)
   return told(said.json ? [JSON.stringify(queueEnvelopeFor(queries, tracks, deviceId))] : [...done])

@@ -1,7 +1,4 @@
-import {
-  InputError,
-  isCliError,
-} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { isCliError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type {
   ResolvableTrack,
   ResolvedTrack,
@@ -32,8 +29,6 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { musicPlay as page } from "akasha/commands/pages/music/play/music-play.command.ts"
 
 const NAMED = [artistArgument, deviceIdArgument, json, queryArgument, uriArgument]
-
-const NO_QUERY = "supply a track query to play, or --uri to play an exact track"
 
 export type StartResumeOptions = {
   readonly uris: readonly string[]
@@ -131,8 +126,8 @@ async function wantedIn(
     }
     return { query: null, track: ports.trackToResolved(named, await ports.getTrack(trackId)) }
   }
-  if (said === undefined) throw new InputError(NO_QUERY)
-  return { query: said, track: await ports.resolveQueryToTrack(said, by) }
+  const query = said ?? ""
+  return { query, track: await ports.resolveQueryToTrack(query, by) }
 }
 
 export async function playing(

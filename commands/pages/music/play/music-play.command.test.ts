@@ -149,7 +149,9 @@ test("an empty uri is refused rather than played", async () => {
   const fake = fakeFor()
   const said = await playing(["--uri", ""], fake.ports, CALLED)
   expect(said.code).toBe(1)
-  expect(said.refusals.join("")).toContain("an empty one came")
+  expect(said.refusals.join("")).toContain(
+    "`--uri` takes a value, and the empty word after it names none"
+  )
   expect(fake.kept.started).toEqual([])
 })
 
