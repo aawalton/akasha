@@ -13,7 +13,6 @@ export const seatSystem = {
     "module/seat-handle",
     "module/seat-name-restate",
     "module/seat-page-writing",
-    "module/pty-proxy",
     "module/seat-roster",
     "module/seat-whoami",
     "module/skill-token-guard",
