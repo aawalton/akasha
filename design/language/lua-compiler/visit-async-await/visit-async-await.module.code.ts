@@ -1,4 +1,3 @@
-import type { FunctionVisitor } from "akasha/design/language/lua-compiler/context-visitors/context-visitors.module.code.ts"
 import * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import * as luaStatements from "akasha/design/language/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
 import {
@@ -7,6 +6,7 @@ import {
 } from "akasha/design/language/lua-compiler/lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "akasha/design/language/lua-compiler/lualib-features/lualib-features.module.code.ts"
 import type { TransformationContext } from "akasha/design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"
+import type { FunctionVisitor } from "akasha/design/language/lua-compiler/modules/context-visitors/context-visitors.module.code.ts"
 import { awaitMustBeInAsyncFunction } from "akasha/design/language/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
 import { isInAsyncFunction } from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
 import * as ts from "typescript"

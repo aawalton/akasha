@@ -1,10 +1,10 @@
+import * as luaStatements from "akasha/design/language/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import { createTransformationContext } from "akasha/design/language/lua-compiler/modules/context-create-transformation-context/context-create-transformation-context.module.code.ts"
 import type {
   ObjectVisitor,
   VisitorMap,
   Visitors,
-} from "akasha/design/language/lua-compiler/context-visitors/context-visitors.module.code.ts"
-import * as luaStatements from "akasha/design/language/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
-import { createTransformationContext } from "akasha/design/language/lua-compiler/modules/context-create-transformation-context/context-create-transformation-context.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/context-visitors/context-visitors.module.code.ts"
 import { usingTransformer } from "akasha/design/language/lua-compiler/transform-using-transformer/transform-using-transformer.module.code.ts"
 import { getOrUpdate } from "akasha/design/language/lua-compiler/utils/utils.module.code.ts"
 import { standardVisitors } from "akasha/design/language/lua-compiler/visitors-visitors/visitors-visitors.module.code.ts"

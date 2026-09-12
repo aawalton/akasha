@@ -1,7 +1,3 @@
-import type {
-  ExpressionLikeNode,
-  StatementLikeNode,
-} from "akasha/design/language/lua-compiler/context-visitors/context-visitors.module.code.ts"
 import type { OneToManyVisitorResult } from "akasha/design/language/lua-compiler/lua-ast/lua-ast.module.code.ts"
 import type * as luaCore from "akasha/design/language/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
 import type * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
@@ -11,6 +7,10 @@ import type {
   CompilerOptions,
   LuaTarget,
 } from "akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts"
+import type {
+  ExpressionLikeNode,
+  StatementLikeNode,
+} from "akasha/design/language/lua-compiler/modules/context-visitors/context-visitors.module.code.ts"
 import type {
   Scope,
   ScopeType,

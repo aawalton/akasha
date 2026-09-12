@@ -7,7 +7,7 @@ import {
   type ConvergenceOptions,
   ConvergenceUnreached,
   DEFAULT_TICK_MS,
-} from "akasha/pages/ui-store/optimistic/convergence/convergence.module.code.ts"
+} from "akasha/pages/ui-store/optimistic/modules/convergence/convergence.module.code.ts"
 import type {
   PagesMutationPlan,
   RowOverlay,

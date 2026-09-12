@@ -1,8 +1,8 @@
-import type { ExpressionLikeNode } from "akasha/design/language/lua-compiler/context-visitors/context-visitors.module.code.ts"
 import type { OneToManyVisitorResult } from "akasha/design/language/lua-compiler/lua-ast/lua-ast.module.code.ts"
 import * as luaCore from "akasha/design/language/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
 import type * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import type * as luaStatements from "akasha/design/language/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import type { ExpressionLikeNode } from "akasha/design/language/lua-compiler/modules/context-visitors/context-visitors.module.code.ts"
 import * as ts from "typescript"
 
 function isLuaStatement(node: luaCore.Node): node is luaStatements.Statement {

@@ -1,9 +1,3 @@
-import type {
-  ExpressionLikeNode,
-  FunctionVisitor,
-  StatementLikeNode,
-  VisitorMap,
-} from "akasha/design/language/lua-compiler/context-visitors/context-visitors.module.code.ts"
 import {
   type OneToManyVisitorResult,
   unwrapVisitorResult,
@@ -27,6 +21,12 @@ import {
 } from "akasha/design/language/lua-compiler/modules/context-lua-node-assertions/context-lua-node-assertions.module.code.ts"
 import { createTempNames } from "akasha/design/language/lua-compiler/modules/context-temp-names/context-temp-names.module.code.ts"
 import type { TransformationContext } from "akasha/design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"
+import type {
+  ExpressionLikeNode,
+  FunctionVisitor,
+  StatementLikeNode,
+  VisitorMap,
+} from "akasha/design/language/lua-compiler/modules/context-visitors/context-visitors.module.code.ts"
 import type {
   Scope,
   ScopeType,

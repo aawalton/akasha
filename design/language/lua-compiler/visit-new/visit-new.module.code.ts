@@ -1,4 +1,3 @@
-import type { FunctionVisitor } from "akasha/design/language/lua-compiler/context-visitors/context-visitors.module.code.ts"
 import * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import { transformLuaLibFunction } from "akasha/design/language/lua-compiler/lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "akasha/design/language/lua-compiler/lualib-features/lualib-features.module.code.ts"
@@ -7,6 +6,7 @@ import {
   getTypeAnnotations,
 } from "akasha/design/language/lua-compiler/modules/annotations/annotations.module.code.ts"
 import { tryGetStandardLibrarySymbolOfType } from "akasha/design/language/lua-compiler/modules/builtins/builtins.module.code.ts"
+import type { FunctionVisitor } from "akasha/design/language/lua-compiler/modules/context-visitors/context-visitors.module.code.ts"
 import {
   annotationInvalidArgumentCount,
   unsupportedArrayWithLengthConstructor,

@@ -1,4 +1,3 @@
-import type { FunctionVisitor } from "akasha/design/language/lua-compiler/context-visitors/context-visitors.module.code.ts"
 import {
   getIterableExtensionKindForNode,
   IterableExtensionKind,
@@ -9,6 +8,7 @@ import { transformLuaLibFunction } from "akasha/design/language/lua-compiler/lua
 import { LuaLibFeature } from "akasha/design/language/lua-compiler/lualib-features/lualib-features.module.code.ts"
 import { LuaTarget } from "akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts"
 import type { TransformationContext } from "akasha/design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"
+import type { FunctionVisitor } from "akasha/design/language/lua-compiler/modules/context-visitors/context-visitors.module.code.ts"
 import {
   findScope,
   hasReferencedSymbol,

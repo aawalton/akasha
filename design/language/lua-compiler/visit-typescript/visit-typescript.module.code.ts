@@ -1,8 +1,8 @@
+import { validateAssignment } from "akasha/design/language/lua-compiler/modules/assignment-validation/assignment-validation.module.code.ts"
 import type {
   FunctionVisitor,
   Visitors,
-} from "akasha/design/language/lua-compiler/context-visitors/context-visitors.module.code.ts"
-import { validateAssignment } from "akasha/design/language/lua-compiler/modules/assignment-validation/assignment-validation.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/context-visitors/context-visitors.module.code.ts"
 import * as ts from "typescript"
 
 const transformAssertionExpression: FunctionVisitor<ts.AssertionExpression> = (

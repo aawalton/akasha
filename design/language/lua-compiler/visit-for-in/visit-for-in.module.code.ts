@@ -1,6 +1,6 @@
-import type { FunctionVisitor } from "akasha/design/language/lua-compiler/context-visitors/context-visitors.module.code.ts"
 import * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import * as luaStatements from "akasha/design/language/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import type { FunctionVisitor } from "akasha/design/language/lua-compiler/modules/context-visitors/context-visitors.module.code.ts"
 import { forbiddenForIn } from "akasha/design/language/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
 import { isArrayType } from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
 import {

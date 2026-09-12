@@ -1,7 +1,7 @@
 import type {
   FunctionVisitor,
   Visitors,
-} from "akasha/design/language/lua-compiler/context-visitors/context-visitors.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/context-visitors/context-visitors.module.code.ts"
 import {
   transformElementAccessExpression,
   transformPropertyAccessExpression,
