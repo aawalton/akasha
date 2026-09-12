@@ -11,23 +11,6 @@ export const emailDraftCreate = {
       said: "--to <addr,..>",
       takes: "who the mail goes to, said again or parted by commas, and every draft names one",
     },
-    { said: "--cc <addr,..>", takes: "who is copied, said again or parted by commas" },
-    { said: "--bcc <addr,..>", takes: "who is blind copied, said again or parted by commas" },
-    {
-      said: "--subject <text>",
-      takes: "the subject line, which every draft names here or at `--subject-file`",
-    },
-    {
-      said: "--body <text>",
-      takes: "the plain-text body, which every draft names here or at `--body-file`",
-    },
-    { said: "--attach <path>", takes: "a file to hang off the mail, said again for each" },
-    { said: "--thread <id>", takes: "the thread the message joins" },
-    {
-      said: "--reply-to-message <id>",
-      takes: "the message whose id seeds In-Reply-To and References",
-    },
-    { said: '--from <"Name <addr>">', takes: "a verified send-as alias to send the mail from" },
   ],
   invariants: [
     {
@@ -58,7 +41,23 @@ export const emailDraftCreate = {
       invariantKind: "absence",
       statement: "Nothing here takes a draft back.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Every draft names a subject here or at `--subject-file`.",
+    },
+    { invariantKind: "departure", statement: "Every draft names a body here or at `--body-file`." },
   ],
   name: "create",
-  arguments: [{ argument: "argument/subject-file" }, { argument: "argument/body-file" }],
+  arguments: [
+    { argument: "argument/subject-file" },
+    { argument: "argument/body-file" },
+    { argument: "argument/cc" },
+    { argument: "argument/bcc" },
+    { argument: "argument/subject" },
+    { argument: "argument/body" },
+    { argument: "argument/attach" },
+    { argument: "argument/thread" },
+    { argument: "argument/reply-to-message" },
+    { argument: "argument/send-as" },
+  ],
 } as const satisfies Command
