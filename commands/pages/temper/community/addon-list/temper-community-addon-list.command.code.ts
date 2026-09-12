@@ -1,3 +1,4 @@
+import { OK, OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { listDeployables } from "akasha/temper/addons-resolve/deployable-addons/deployable-addons.module.code.ts"
@@ -10,8 +11,6 @@ import { fetchCatalog } from "akasha/temper/community-addons/esoui-catalog/esoui
 import { readInstalledAddons } from "akasha/temper/community-addons/installed-addons/installed-addons.module.code.ts"
 import { addonsDir } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
-
-const FAILED = 3
 
 const OUTDATED_FLAG = "--outdated"
 
@@ -57,7 +56,7 @@ export async function temperCommunityAddonList(argv: readonly string[] = []): Pr
   } catch (thrown) {
     return refused(
       `the community catalog was not reached, so no addon here could be weighed against it: ${messageOf(thrown)}`,
-      FAILED
+      OPERATIONAL
     )
   }
 
@@ -72,7 +71,7 @@ export async function temperCommunityAddonList(argv: readonly string[] = []): Pr
         "\n"
       ),
       refusals: [],
-      code: 0,
+      code: OK,
     }
   }
 
@@ -85,6 +84,6 @@ export async function temperCommunityAddonList(argv: readonly string[] = []): Pr
       countLine(counts),
     ],
     refusals: [],
-    code: 0,
+    code: OK,
   }
 }
