@@ -6,7 +6,6 @@ export const temperInventoryAutomationList = {
   slug: "temper-inventory-automation-list",
   definition: "the command giving back the automation toggles as they are set",
   code: "ts",
-  changeKind: "change-none",
   taking: [
     { said: "--json", takes: "give the whole shape as JSON rather than as tab-separated rows" },
   ],

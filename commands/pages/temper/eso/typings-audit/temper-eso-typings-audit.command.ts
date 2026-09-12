@@ -7,7 +7,6 @@ export const temperEsoTypingsAudit = {
   definition:
     "the command reading which committed game artifacts are stamped behind the clone they came from",
   code: "ts",
-  changeKind: "change-none",
   taking: [
     {
       said: "--code-root <path>",

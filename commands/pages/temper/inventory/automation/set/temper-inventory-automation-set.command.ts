@@ -6,7 +6,6 @@ export const temperInventoryAutomationSet = {
   slug: "temper-inventory-automation-set",
   definition: "the command setting or clearing one automation toggle",
   code: "ts",
-  changeKind: "change-none",
   taking: [
     {
       said: "--scope <scope>",

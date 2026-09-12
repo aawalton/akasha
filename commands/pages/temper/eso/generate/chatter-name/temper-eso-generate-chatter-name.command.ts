@@ -7,7 +7,6 @@ export const temperEsoGenerateChatterName = {
   definition:
     "the command writing the chatter and interaction name registry the quests addon reads",
   code: "ts",
-  changeKind: "change-mechanical",
   taking: [
     {
       said: "--code-root <path>",

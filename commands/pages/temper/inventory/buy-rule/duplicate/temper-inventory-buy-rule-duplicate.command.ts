@@ -6,7 +6,6 @@ export const temperInventoryBuyRuleDuplicate = {
   slug: "temper-inventory-buy-rule-duplicate",
   definition: "the command copying a buy rule named by its id",
   code: "ts",
-  changeKind: "change-none",
   taking: [{ said: "<id>", takes: "the id of the buy rule copied" }],
 
   invariants: [
