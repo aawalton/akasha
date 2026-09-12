@@ -7,28 +7,28 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 
-export const OUT = "--out"
+export const OUTPUT = "--output"
 
-export type Read = { readonly out: string | null } | { readonly refused: readonly string[] }
+export type Read = { readonly output: string | null } | { readonly refused: readonly string[] }
 
 export function readIn(argv: readonly string[]): Read {
   const refusals: string[] = []
-  let out: string | null = null
+  let output: string | null = null
   for (let i = 0; i < argv.length; i += 1) {
     const one = argv[i]
-    if (one === OUT) {
+    if (one === OUTPUT) {
       const value = argv[i + 1]
-      if (value === undefined) refusals.push(`\`${OUT}\` takes a value, and none was named`)
+      if (value === undefined) refusals.push(`\`${OUTPUT}\` takes a value, and none was named`)
       else {
         i += 1
-        out = value
+        output = value
       }
       continue
     }
-    refusals.push(`\`${one}\` is no word this takes — it takes \`${OUT} <path>\``)
+    refusals.push(`\`${one}\` is no word this takes — it takes \`${OUTPUT} <path>\``)
   }
   if (refusals.length > 0) return { refused: refusals }
-  return { out }
+  return { output }
 }
 
 export function saidOf(found: Readonly<Record<string, string>>): string {
@@ -50,8 +50,8 @@ export function seatComposeNotices(argv: readonly string[], given: Given): Answe
   }
   try {
     const json = saidOf(found)
-    if (read.out === null) return { report: [json], refusals: [], code: 0 }
-    writeFileSync(pathOf(read.out, resolve(given.root)), `${json}\n`)
+    if (read.output === null) return { report: [json], refusals: [], code: 0 }
+    writeFileSync(pathOf(read.output, resolve(given.root)), `${json}\n`)
     return { report: [], refusals: [], code: 0 }
   } catch (thrown) {
     return faulted(thrown)

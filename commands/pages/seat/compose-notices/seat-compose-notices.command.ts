@@ -8,7 +8,7 @@ export const seatComposeNotices = {
     "the command answering what a seat is told when it is put back to work, as one JSON object",
   code: "ts",
   test: "ts",
-  taking: [{ said: "--out <path>", takes: "a file to write into, rather than saying it" }],
+  taking: [{ said: "--output <path>", takes: "a file to write into, rather than saying it" }],
 
   invariants: [
     {
@@ -37,12 +37,12 @@ export const seatComposeNotices = {
     },
     {
       invariantKind: "departure",
-      statement: "A run named `--out` writes the JSON there rather than saying the JSON.",
+      statement: "A run named `--output` writes the JSON there rather than saying the JSON.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A relative `--out` path is read against the repository root rather than the caller's folder.",
+        "A relative `--output` path is read against the repository root rather than the caller's folder.",
     },
     {
       invariantKind: "departure",
@@ -55,7 +55,7 @@ export const seatComposeNotices = {
     },
     {
       invariantKind: "absence",
-      statement: "A run named no `--out` writes nothing.",
+      statement: "A run named no `--output` writes nothing.",
     },
     {
       invariantKind: "departure",

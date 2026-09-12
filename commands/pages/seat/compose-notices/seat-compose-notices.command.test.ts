@@ -11,7 +11,7 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
-  OUT,
+  OUTPUT,
   pathOf,
   readIn,
   saidOf,
@@ -98,15 +98,15 @@ test("what the module refuses to compose is what the command refuses with", () =
 })
 
 test("a call naming nothing writes nowhere and asks for the notices", () => {
-  expect(readIn([])).toEqual({ out: null })
+  expect(readIn([])).toEqual({ output: null })
 })
 
-test("`--out` carries the path said after it", () => {
-  expect(readIn([OUT, "/var/tmp/one.json"])).toEqual({ out: "/var/tmp/one.json" })
+test("`--output` carries the path said after it", () => {
+  expect(readIn([OUTPUT, "/var/tmp/one.json"])).toEqual({ output: "/var/tmp/one.json" })
 })
 
-test("`--out` naming no value is refused rather than writing to nothing", () => {
-  const said = readIn([OUT])
+test("`--output` naming no value is refused rather than writing to nothing", () => {
+  const said = readIn([OUTPUT])
 
   expect("refused" in said && said.refused[0]).toContain("takes a value")
 })
@@ -126,7 +126,7 @@ test("a word this does not take refuses as a fault in the call", () => {
   expect(said.report).toEqual([])
 })
 
-test("a relative out path is read against the repository root, not the calling folder", () => {
+test("a relative output path is read against the repository root, not the calling folder", () => {
   expect(pathOf("one.json", "/repo")).toBe("/repo/one.json")
   expect(pathOf("/var/tmp/one.json", "/repo")).toBe("/var/tmp/one.json")
 })
@@ -152,11 +152,11 @@ test("the happy answer parses as the JSON the editor's revive reads, out of the 
   expect(line.startsWith('{\n  "')).toBe(true)
 })
 
-test("named an out path it writes there and says nothing", () => {
+test("named an output path it writes there and says nothing", () => {
   const folder = scratch()
   const at = join(folder, "notices.json")
   try {
-    const said = seatComposeNotices([OUT, at], givenIn(ROOT))
+    const said = seatComposeNotices([OUTPUT, at], givenIn(ROOT))
 
     expect(said.code).toBe(0)
     expect(said.report).toEqual([])
