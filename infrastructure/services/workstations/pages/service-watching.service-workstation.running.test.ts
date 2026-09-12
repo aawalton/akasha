@@ -36,12 +36,12 @@ test("a run turns the watching module's own round rather than a round written ag
   expect(RAN).toEqual(["watch"])
 })
 
-test("a round that told nobody is carried out rather than swallowed, so a failed run is a failed unit", async () => {
+test("a round that could not read the services is carried out rather than swallowed, so a failed run is a failed unit", async () => {
   RAN.length = 0
-  const why = new Error("service-watching: 1 broken services were told to nobody")
+  const why = new Error("service-watching: the services could not be read, so nothing is judged")
   mock.module(
     "akasha/infrastructure/services/workstations/service-watching/service-watching.module.code.ts",
     () => ({ ...watching, runServiceWatching: () => Promise.reject(why) })
   )
-  await expect(running.runService()).rejects.toThrow("told to nobody")
+  await expect(running.runService()).rejects.toThrow("could not be read")
 })

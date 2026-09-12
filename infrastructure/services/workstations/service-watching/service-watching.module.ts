@@ -43,6 +43,11 @@ export const serviceWatching = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The run's exit says whether the services could be read rather than whether a telling landed.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every service whose verdict changed is left carrying this run's finding.",
     },
     {
