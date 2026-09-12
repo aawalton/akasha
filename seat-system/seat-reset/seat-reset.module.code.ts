@@ -1,3 +1,4 @@
+import { flexInName } from "akasha/agents/seats/modules/flex/seat-flex.module.code.ts"
 import { resolveSeatTargetCli } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
 import {
   dataError,
@@ -13,7 +14,6 @@ import {
   killSeatSession,
   launchSeatUnderTmux,
 } from "akasha/seat-system/launch-seat-tmux/launch-seat-tmux.module.code.ts"
-import { flexInName } from "akasha/seat-system/seat-flex/seat-flex.module.code.ts"
 import { DEFAULT_ACCOUNT } from "akasha/seat-system/seat-launching/seat-launching.module.code.ts"
 import {
   isSeatMode,

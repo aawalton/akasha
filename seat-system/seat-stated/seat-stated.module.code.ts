@@ -1,7 +1,7 @@
 import * as declarations from "akasha/agents/attributes/agent-attributes.module.code.ts"
+import { type FlexRecord, flexOf } from "akasha/agents/seats/modules/flex/seat-flex.module.code.ts"
 import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
 import type { Principal } from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
-import { type FlexRecord, flexOf } from "akasha/seat-system/seat-flex/seat-flex.module.code.ts"
 import {
   type InitiativeRecord,
   initiativeOf,
