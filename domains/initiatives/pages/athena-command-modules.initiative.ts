@@ -11,13 +11,13 @@ export const athenaCommandModules = {
     {
       statement: "One function builds a command's refusal.",
       workingMemory:
-        "`answeredWith` and `refused` now live in `command-answering` with `told` and `refusedBy`, so the 31x import edge that bred 198 hand-spelled records is gone. 100 are still longhand over 44 files — 53 report-only, 11 refusal-only, 36 mixed — down from 198 over 71. Two modules outside `commands` grew rival builders rather than importing: `inventory-rule-calling` exports its own `told` and `toldOf`, and `workload-applying` a duplicate `Applied`.\n",
+        "`answeredWith` and `refused` live in `command-answering` with `told` and `refusedBy`, and the import edge that bred 198 hand-spelled records is gone. 100 are still longhand over 44 files — 53 report-only, 11 refusal-only, 36 mixed. The rival vocabularies are taken: `inventory-rule-calling`'s `told` and `toldOf`, `workload-applying`'s `Applied`, `service-putting-up`'s `PutUp`. Two aliases are left: `refusedAll` over 13 files and `refusing` over 6.\n",
     },
     {
       statement:
         "A command that wrote before it threw says in its refusal what that command wrote.",
       workingMemory:
-        "Judging by shape undercounts. An import-chain trace over seven trees found 17 more silent at HEAD, about as many as the sweep had found. The eleven `runMechanicalChange` callers are closed, `857f539d1a4` through `6c6670918c1`, and `landedMechanically` now lives once in `mechanical-change-running`. The seven inference persist commands get no `done` thread: `landRow` throws on every path, so nothing past `inference-run-store.module.code.ts:57` has ever run, and two invariants answer instead.\n",
+        "The eleven `runMechanicalChange` callers are closed and `landedMechanically` lives once. The seven inference persist commands get no thread: `landRow` throws on every path, so nothing past `inference-run-store.module.code.ts:57` has ever run. `alan/harness/**` is swept; what is left sits outside `commands` — mail sent, a push delivered, an account minted, a password rotated — none reached by a command page, only by `infrastructure service run`, whose service bodies carry no `done`.\n",
     },
   ],
   constraints: [
