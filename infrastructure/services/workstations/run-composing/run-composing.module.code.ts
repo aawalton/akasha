@@ -2,11 +2,10 @@ import { join } from "node:path"
 import { addressedIn, addressIn } from "akasha/pages/address/page-address.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
+  listedAt,
   listedFor,
-  valuesByPath,
-  valuesOfType,
+  valueByPath,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const PAGE_TYPE = "page-type"
@@ -40,10 +39,8 @@ export function pathOf(root: string, named: string): string | Refused {
 }
 
 function typeValueOf(root: string, pageTypeSlug: string): Value | null {
-  for (const one of valuesOfType(root, PAGE_TYPE)) {
-    if (textAt(one.value, "slug") === pageTypeSlug) return one.value
-  }
-  return null
+  const listed = listedAt(root, PAGE_TYPE, pageTypeSlug)[0]
+  return listed === undefined ? null : valueByPath(root, listed.path)
 }
 
 function requiredCodeIn(value: Value): readonly string[] {
@@ -76,7 +73,7 @@ export function runPropertyOf(root: string, pageTypeSlug: string): string | Refu
   }
   const at = pathOf(root, one)
   if (typeof at !== "string") return at
-  const held = valueAt(join(root, at), root)
+  const held = valueByPath(root, at)
   const propertySlug = held === null ? null : textAt(held, "propertySlug")
   if (propertySlug === null) {
     return { refused: `\`${one}\` states no property slug, so which file its pages run is unsaid` }
@@ -93,7 +90,7 @@ export function runOf(root: string, named: string): Run | Refused {
   if (typeof page !== "string") return page
   const propertySlug = runPropertyOf(root, address.pageTypeSlug)
   if (typeof propertySlug !== "string") return propertySlug
-  const held = valuesByPath(root, address.pageTypeSlug).get(page)?.[propertySlug]
+  const held = valueByPath(root, page)?.[propertySlug]
   if (typeof held !== "string") {
     return { refused: `\`${named}\` states no \`${propertySlug}\`, so no file beside it is run` }
   }
