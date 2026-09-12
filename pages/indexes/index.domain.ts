@@ -37,6 +37,7 @@ export const index = {
     "module/index-answering",
     "module/tree-reading",
     "module/file-appending",
+    "index/index-shapes",
   ],
   invariants: [
     {
