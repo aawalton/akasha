@@ -15,12 +15,19 @@ export const googleAuthLogin = {
         "the callback URL pasted from the browser, where the loopback listener cannot be reached",
     },
   ],
-  helpNotes: [
-    "one consent covers the calendar, drive and mail scopes together, and one token comes of it.",
-    "the minted refresh token is written into `~/.secrets.env`, which every shell started from here reads.",
-    "the token is read from `GOOGLE_OAUTH_REFRESH_TOKEN`, which stands ahead of the older token each product had.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The token minted is written into `~/.secrets.env`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The token is read from `GOOGLE_OAUTH_REFRESH_TOKEN`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The older token a product had is read only where that name has no value.",
+    },
     {
       invariantKind: "departure",
       statement: "The scopes asked for are every scope calendar, drive and mail read between them.",
