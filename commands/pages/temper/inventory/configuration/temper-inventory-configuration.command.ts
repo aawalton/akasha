@@ -20,6 +20,14 @@ export const temperInventoryConfiguration = {
       invariantKind: "departure",
       statement: "A section the configuration does not hold refuses the call.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A rule whose record and configured rule disagree has that disagreement named.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The records going unread is said rather than answered as agreement.",
+    },
   ],
   name: "configuration",
   arguments: [

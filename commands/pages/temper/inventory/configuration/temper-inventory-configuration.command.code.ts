@@ -13,14 +13,20 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { temperInventoryConfiguration as page } from "akasha/commands/pages/temper/inventory/configuration/temper-inventory-configuration.command.ts"
+import type { Divergence } from "akasha/temper/commands/inventory-config-divergence/inventory-config-divergence.module.code.ts"
+import {
+  compiledFromRecords,
+  divergenceBetween,
+} from "akasha/temper/commands/inventory-config-divergence/inventory-config-divergence.module.code.ts"
 import { loadTemperInventoryConfigFromPath } from "akasha/temper/commands/inventory-config-reading/inventory-config-reading.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
+import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 
 const TAKES = [json, inventoryPathArgument, sectionArgument]
 
 const INVENTORY_LUA = "TemperInventory.lua"
 
-const SECTIONS = ["rules", "consumables", "priority", "all"] as const
+const SECTIONS = ["rules", "consumables", "priority", "divergence", "all"] as const
 
 const NAMED_KEYS = 3
 
@@ -36,9 +42,12 @@ type CompiledRule = {
 
 type CompiledInventoryConfig = {
   readonly rules: ReadonlyArray<CompiledRule>
+  readonly orderedRules: ReadonlyArray<CompiledOrderedRule>
   readonly wantedConsumables: Record<string, unknown>
   readonly characterPriority: ReadonlyArray<string>
 }
+
+type Weighed = { readonly divergence: Divergence } | { readonly unread: string }
 
 export type Reading = Section | { readonly refused: readonly string[] }
 
@@ -108,22 +117,61 @@ function prioritySaid(priority: ReadonlyArray<string>): readonly string[] {
   return priority.length === 0 ? ["(no character priority)"] : [...priority]
 }
 
-function jsonShape(config: CompiledInventoryConfig, section: Section): Record<string, unknown> {
+async function weighed(config: CompiledInventoryConfig): Promise<Weighed> {
+  try {
+    return { divergence: divergenceBetween(await compiledFromRecords(), config.orderedRules) }
+  } catch (thrown) {
+    return { unread: whyOf(thrown) }
+  }
+}
+
+function divergenceSaid(weighing: Weighed | null): readonly string[] {
+  if (weighing === null) return []
+  if ("unread" in weighing) return [`(the rule records went unread — ${weighing.unread})`]
+  const { diverged, records, configured } = weighing.divergence
+  if (diverged.length === 0) {
+    return [`(all ${records} record(s) say what the ${configured} rule(s) configured say)`]
+  }
+  return diverged.map((one) => [one.id, one.categoryId, one.said].join("\t"))
+}
+
+function divergenceHead(weighing: Weighed | null): string {
+  if (weighing === null || "unread" in weighing) return "# divergence"
+  return `# divergence (${weighing.divergence.diverged.length})`
+}
+
+function divergenceShape(weighing: Weighed | null): Record<string, unknown> {
+  if (weighing === null) return {}
+  return { divergence: "unread" in weighing ? { unread: weighing.unread } : weighing.divergence }
+}
+
+function jsonShape(
+  config: CompiledInventoryConfig,
+  section: Section,
+  weighing: Weighed | null
+): Record<string, unknown> {
   const rules = config.rules.map(ruleShape)
   if (section === "rules") return { rules }
   if (section === "consumables") return { wantedConsumables: config.wantedConsumables }
   if (section === "priority") return { characterPriority: config.characterPriority }
+  if (section === "divergence") return divergenceShape(weighing)
   return {
     rules,
     wantedConsumables: config.wantedConsumables,
     characterPriority: config.characterPriority,
+    ...divergenceShape(weighing),
   }
 }
 
-function textOf(config: CompiledInventoryConfig, section: Section): readonly string[] {
+function textOf(
+  config: CompiledInventoryConfig,
+  section: Section,
+  weighing: Weighed | null
+): readonly string[] {
   if (section === "rules") return rulesSaid(config.rules)
   if (section === "consumables") return consumablesSaid(config.wantedConsumables)
   if (section === "priority") return prioritySaid(config.characterPriority)
+  if (section === "divergence") return divergenceSaid(weighing)
   return [
     `# rules (${config.rules.length})`,
     ...rulesSaid(config.rules),
@@ -133,6 +181,9 @@ function textOf(config: CompiledInventoryConfig, section: Section): readonly str
     "",
     `# priority (${config.characterPriority.length})`,
     ...prioritySaid(config.characterPriority),
+    "",
+    divergenceHead(weighing),
+    ...divergenceSaid(weighing),
   ]
 }
 
@@ -152,8 +203,9 @@ export async function temperInventoryConfiguration(
       : resolve(root, taken.inventoryPath)
   try {
     const config = (await loadTemperInventoryConfigFromPath(at)) as CompiledInventoryConfig
-    if (taken.json) return asJson(jsonShape(config, held))
-    return told([...textOf(config, held)])
+    const weighing = held === "divergence" || held === "all" ? await weighed(config) : null
+    if (taken.json) return asJson(jsonShape(config, held, weighing))
+    return told([...textOf(config, held, weighing)])
   } catch (thrown) {
     return refused(whyOf(thrown), OPERATIONAL)
   }

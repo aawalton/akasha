@@ -5,7 +5,7 @@ export const section = {
   type: "argument",
   slug: "section",
   said: "--section",
-  takes: "which section is given back: rules, consumables, priority or all",
+  takes: "which section is given back: rules, consumables, priority, divergence or all",
   value: "text",
   placeholder: "section",
   default: "all",

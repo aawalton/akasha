@@ -16,6 +16,7 @@ export const temperCommands = {
     "module/flag-fault-stage",
     "module/format-output",
     "module/inventory-characters-reading",
+    "module/inventory-config-divergence",
     "module/inventory-config-reading",
     "module/inventory-diagnostics-reading",
     "module/inventory-eval-env",
