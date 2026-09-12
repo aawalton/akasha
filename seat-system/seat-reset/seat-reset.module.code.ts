@@ -25,7 +25,6 @@ import {
   seatFromHistory,
 } from "akasha/seat-system/seat-page-history/seat-page-history.module.code.ts"
 import { principalSeatNameOf } from "akasha/seat-system/seat-principal/seat-principal.module.code.ts"
-import { HELP } from "akasha/seat-system/seat-reset-help/seat-reset-help.module.code.ts"
 import {
   pageWouldCompose,
   type Stated,
@@ -165,5 +164,3 @@ export default async function seatReset(input: string, done: string[] = []): Pro
 
   process.stdout.write(`${fresh}\t${name}\t${mode}\n`)
 }
-
-export const help = HELP

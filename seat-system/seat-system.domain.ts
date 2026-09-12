@@ -38,7 +38,6 @@ export const seatSystem = {
     "module/seat-action",
     "module/seat-forest",
     "module/seat-conditions-reading",
-    "module/seat-reset-help",
     "module/seat-resume-help",
     "module/seat-start-help",
     "module/seat-usage-keep",
