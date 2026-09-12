@@ -1,10 +1,5 @@
-import {
-  codeOf,
-  OK,
-  refusedBy,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { OK, refusedBy } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import type { Taking } from "akasha/commands/pages/infrastructure/dev-server/dev-server-argument-reading/dev-server-argument-reading.module.code.ts"
 import {
   APP,
@@ -14,7 +9,9 @@ import {
   SEQ,
 } from "akasha/commands/pages/infrastructure/dev-server/dev-server-argument-reading/dev-server-argument-reading.module.code.ts"
 import {
+  keeping,
   starting,
+  stoppedBy,
   stopping,
 } from "akasha/commands/pages/infrastructure/dev-server/dev-server-running/dev-server-running.module.code.ts"
 
@@ -32,11 +29,12 @@ export async function infrastructureDevServerRestart(
   const root = given.root
   const seq = read.seq ?? 0
   const app = read.app ?? ""
+  const done: string[] = []
   try {
-    const stopped = await stopping({ root, seq, app, all: false, json: false })
-    if (stopped.code !== OK) return stopped
-    return await starting({ root, seq, app, port: read.port, json: read.json })
+    const stopped = await stopping({ root, seq, app, all: false, json: false }, done)
+    if (stopped.code !== OK) return keeping(done, stopped)
+    return keeping(done, await starting({ root, seq, app, port: read.port, json: read.json }, done))
   } catch (thrown) {
-    return refusedBy([whyOf(thrown)], codeOf(thrown))
+    return stoppedBy(done, thrown)
   }
 }

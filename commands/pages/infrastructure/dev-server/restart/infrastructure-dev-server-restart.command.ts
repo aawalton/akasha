@@ -15,11 +15,23 @@ export const infrastructureDevServerRestart = {
     },
     {
       invariantKind: "departure",
-      statement: "This answers with the answer its start gave and nothing of its stop.",
+      statement: "This answers with the answer its start gave where that start gave no refusal.",
     },
     {
       invariantKind: "departure",
       statement: "A stop that refused leaves the start unrun.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A start that refused names the server the stop ended beside that refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A restart that stopped part way names each server it ended and each it started.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A restart that ended nothing is refused as the fault alone.",
     },
   ],
   arguments: [
