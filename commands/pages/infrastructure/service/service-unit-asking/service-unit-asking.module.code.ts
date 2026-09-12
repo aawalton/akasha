@@ -24,7 +24,7 @@ export function asked(told: string, argv: readonly string[], given: Given): Answ
   if ("refused" in read) return refused(read.refused, DATA)
   const found = read.services[0]
   if (found === undefined) {
-    return refused(`no workstation service is slugged \`${named.slug}\``, DATA)
+    return refused(`no workstation service is slugged \`${named.slug}\``, INPUT)
   }
 
   const unit = installedUnitName(found)
