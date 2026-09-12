@@ -195,7 +195,7 @@ export const read = {
     },
   ],
   name: "read",
-  arguments: [{ argument: "argument/file-path", repeats: true }],
+  arguments: [{ argument: "argument/file-path", repeats: true }, { argument: "argument/full" }],
   directives: [
     {
       directiveKind: "rule",

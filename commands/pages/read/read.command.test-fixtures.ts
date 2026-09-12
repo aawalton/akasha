@@ -2,6 +2,8 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Reading } from "akasha/agents/read-record/read-record.module.code.ts"
 import { blobIdOf, partly, readingIn } from "akasha/agents/read-record/read-record.module.code.ts"
+import { filePath } from "akasha/commands/arguments/pages/file-path.argument.ts"
+import { full as fullArgument } from "akasha/commands/arguments/pages/full.argument.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { numbered } from "akasha/commands/modules/long-body/long-body.module.code.ts"
 import {
@@ -29,7 +31,14 @@ import { said as saying } from "akasha/utils/run/running/running.module.code.ts"
 
 export const CALLED_AS = "akasha read"
 
-export const TAKING = readCommand.taking
+const SHOWN: Readonly<Record<string, string>> = {
+  "argument/file-path": filePath.said,
+  "argument/full": fullArgument.said,
+}
+
+export const TAKING = readCommand.arguments.map((one) => ({
+  said: SHOWN[one.argument] ?? one.argument,
+}))
 
 export const AGENT = "01a04e96-c80a-79ef-819f-a455a96a0e54"
 
