@@ -108,7 +108,9 @@ test("two bare words are refused, since one push carries one route", async () =>
   const said = await mobileSimPushTap(["/inbox", "/outbox"], GIVEN)
 
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toBe(`\`${CALLED_AS}\` takes 1 word and this call says 2 words`)
+  expect(said.refusals[0]).toBe(
+    `\`${CALLED_AS}\` takes 1 word and this call says 2 words — nothing takes \`/outbox\``
+  )
 })
 
 test("an app slug no page carries is refused rather than defaulted", async () => {
