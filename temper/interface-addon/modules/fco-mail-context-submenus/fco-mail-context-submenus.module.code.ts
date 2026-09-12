@@ -7,13 +7,13 @@ import {
   type MailFieldType,
   mailTextShortener,
   profilesText,
-} from "akasha/temper/interface-addon/fco-mail-data/fco-mail-data.module.code.ts"
+} from "akasha/temper/interface-addon/modules/fco-mail-data/fco-mail-data.module.code.ts"
 import {
   addToFavorites,
   checkIfNotAlreadyIn,
   removeSavedValue,
   setMailValue,
-} from "akasha/temper/interface-addon/fco-mail-store/fco-mail-store.module.code.ts"
+} from "akasha/temper/interface-addon/modules/fco-mail-store/fco-mail-store.module.code.ts"
 
 export function checkMaxFavoritesAndCreateSubMenus(
   this: void,

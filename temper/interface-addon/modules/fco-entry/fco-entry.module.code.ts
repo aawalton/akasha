@@ -1,13 +1,5 @@
 import "akasha/temper/interface-addon/modules/fco-global/fco-global.module.code.ts"
 
-import {
-  addMainMenuButtons,
-  addNotificationsButtons,
-  fixPlayerSpinFragments,
-  hideStuff,
-} from "akasha/temper/interface-addon/fco-mainmenu/fco-mainmenu.module.code.ts"
-import { mapStuff } from "akasha/temper/interface-addon/fco-map/fco-map.module.code.ts"
-import { overallFunctions } from "akasha/temper/interface-addon/fco-overall/fco-overall.module.code.ts"
 import { questChanges } from "akasha/temper/interface-addon/fco-quest/fco-quest.module.code.ts"
 import { getSettings } from "akasha/temper/interface-addon/fco-settings/fco-settings.module.code.ts"
 import { buildAddonMenu } from "akasha/temper/interface-addon/fco-settings-menu/fco-settings-menu.module.code.ts"
@@ -58,6 +50,14 @@ import {
 import { guildHistoryChanges } from "akasha/temper/interface-addon/modules/fco-guild-history/fco-guild-history.module.code.ts"
 import { inventoryChanges } from "akasha/temper/interface-addon/modules/fco-inventory/fco-inventory.module.code.ts"
 import { mailStuff } from "akasha/temper/interface-addon/modules/fco-mail/fco-mail.module.code.ts"
+import {
+  addMainMenuButtons,
+  addNotificationsButtons,
+  fixPlayerSpinFragments,
+  hideStuff,
+} from "akasha/temper/interface-addon/modules/fco-mainmenu/fco-mainmenu.module.code.ts"
+import { mapStuff } from "akasha/temper/interface-addon/modules/fco-map/fco-map.module.code.ts"
+import { overallFunctions } from "akasha/temper/interface-addon/modules/fco-overall/fco-overall.module.code.ts"
 
 const EM = EVENT_MANAGER
 

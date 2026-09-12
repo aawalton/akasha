@@ -1,7 +1,3 @@
-import {
-  buildActionBarsControls,
-  type PreventEndlessLoopHolder,
-} from "akasha/temper/interface-addon/fco-panel-action-bars/fco-panel-action-bars.module.code.ts"
 import { buildBattlegroundControls } from "akasha/temper/interface-addon/fco-panel-battleground/fco-panel-battleground.module.code.ts"
 import { buildChatControls } from "akasha/temper/interface-addon/fco-panel-chat/fco-panel-chat.module.code.ts"
 import {
@@ -41,6 +37,10 @@ import {
   noShopAdvertisement,
 } from "akasha/temper/interface-addon/modules/fco-after-login/fco-after-login.module.code.ts"
 import { updateExcludedMountIdsLibShifterBox } from "akasha/temper/interface-addon/modules/fco-collectibles/fco-collectibles.module.code.ts"
+import {
+  buildActionBarsControls,
+  type PreventEndlessLoopHolder,
+} from "akasha/temper/interface-addon/modules/fco-panel-action-bars/fco-panel-action-bars.module.code.ts"
 import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 
 const FAVORITES_EXCLUDED_LIST_STATUS_ICON = "/esoui/art/buttons/cancel_down.dds"
