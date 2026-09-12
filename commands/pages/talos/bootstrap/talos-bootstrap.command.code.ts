@@ -11,14 +11,13 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { talosBootstrap as page } from "akasha/commands/pages/talos/bootstrap/talos-bootstrap.command.ts"
-import { DEFAULT_CLUSTER_NAME } from "akasha/infrastructure/cluster/provisioning/talos/nodes/nodes.module.code.ts"
 import { clusterTalosconfigPath } from "akasha/infrastructure/cluster/provisioning/talos/paths/paths.module.code.ts"
 import { runTalosctl } from "akasha/infrastructure/cluster/provisioning/talos/talosctl/talosctl.module.code.ts"
 
-export type Named = { readonly ip: string; readonly cluster?: string }
+export type Named = { readonly ip: string; readonly cluster: string }
 
 async function bootstrapping(read: Named, given: Given): Promise<Answer> {
-  const cluster = read.cluster ?? DEFAULT_CLUSTER_NAME
+  const cluster = read.cluster
   const talosconfig = clusterTalosconfigPath(cluster)
   if (!existsSync(talosconfig)) {
     return mistaking([

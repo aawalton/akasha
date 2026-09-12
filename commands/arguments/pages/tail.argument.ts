@@ -5,7 +5,8 @@ export const tail = {
   type: "argument",
   slug: "tail",
   said: "--tail",
-  takes: "how many trailing lines to answer with, a hundred where none is said",
+  takes: "how many trailing lines to answer with",
   value: "whole-number",
   placeholder: "n",
+  default: "100",
 } as const satisfies Argument

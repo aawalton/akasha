@@ -20,8 +20,6 @@ import {
   namingApps,
 } from "akasha/infrastructure/services/web-apps/dev-server-stating/dev-server-stating.module.code.ts"
 
-const TAIL_BY_DEFAULT = 100
-
 async function tailing(read: {
   root: string
   seq: number
@@ -50,7 +48,7 @@ export async function infrastructureDevServerLogs(
       root: given.root,
       seq: read.taken.seq,
       app: read.taken.webApp,
-      tail: read.taken.tail ?? TAIL_BY_DEFAULT,
+      tail: read.taken.tail,
     })
   } catch (thrown) {
     return refused(whyOf(thrown), codeOf(thrown))

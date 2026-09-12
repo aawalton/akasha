@@ -9,7 +9,6 @@ import { answering, told } from "akasha/commands/modules/answering/command-answe
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { talosKubeconfig as page } from "akasha/commands/pages/talos/kubeconfig/talos-kubeconfig.command.ts"
-import { DEFAULT_CLUSTER_NAME } from "akasha/infrastructure/cluster/provisioning/talos/nodes/nodes.module.code.ts"
 import {
   clusterKubeconfigPath,
   clusterTalosconfigPath,
@@ -18,7 +17,7 @@ import { runTalosctl } from "akasha/infrastructure/cluster/provisioning/talos/ta
 
 export type Named = {
   readonly ip: string
-  readonly cluster?: string
+  readonly cluster: string
   readonly output?: string
 }
 
@@ -29,7 +28,7 @@ export function madeSaid(folder: string): string {
 export type Fetching = (done: string[], read: Named, given: Given) => Promise<Answer>
 
 async function fetched(done: string[], read: Named, given: Given): Promise<Answer> {
-  const cluster = read.cluster ?? DEFAULT_CLUSTER_NAME
+  const cluster = read.cluster
   const talosconfig = clusterTalosconfigPath(cluster)
   if (!existsSync(talosconfig)) {
     return mistaking([

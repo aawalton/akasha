@@ -5,7 +5,8 @@ export const cluster = {
   type: "argument",
   slug: "cluster",
   said: "--cluster",
-  takes: "the cluster acted on, `main` where none is said",
+  takes: "the cluster acted on",
   value: "text",
   placeholder: "name",
+  default: "main",
 } as const satisfies Argument

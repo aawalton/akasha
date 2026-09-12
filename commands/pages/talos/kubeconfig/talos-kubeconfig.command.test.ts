@@ -9,7 +9,7 @@ import {
   type Named,
 } from "akasha/commands/pages/talos/kubeconfig/talos-kubeconfig.command.code.ts"
 
-const ASKED: Named = { ip: "10.0.0.4" }
+const ASKED: Named = { ip: "10.0.0.4", cluster: "main" }
 
 const HERE: Given = {
   root: "/nowhere",

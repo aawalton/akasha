@@ -13,7 +13,6 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { talosHealth as page } from "akasha/commands/pages/talos/health/talos-health.command.ts"
-import { DEFAULT_CLUSTER_NAME } from "akasha/infrastructure/cluster/provisioning/talos/nodes/nodes.module.code.ts"
 import { clusterTalosconfigPath } from "akasha/infrastructure/cluster/provisioning/talos/paths/paths.module.code.ts"
 import { runTalosctl } from "akasha/infrastructure/cluster/provisioning/talos/talosctl/talosctl.module.code.ts"
 
@@ -71,7 +70,7 @@ export async function talosHealth(argv: readonly string[], given: Given): Promis
     return await checking(
       {
         ip: read.taken.ip,
-        cluster: read.taken.cluster ?? DEFAULT_CLUSTER_NAME,
+        cluster: read.taken.cluster,
         controlPlanes: named.length > 0 ? named : [read.taken.ip],
         workers: commaed(read.taken.workerIps),
       },

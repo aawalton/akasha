@@ -13,7 +13,6 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { talosSecretGen as page } from "akasha/commands/pages/talos/secret-gen/talos-secret-gen.command.ts"
-import { DEFAULT_CLUSTER_NAME } from "akasha/infrastructure/cluster/provisioning/talos/nodes/nodes.module.code.ts"
 import { clusterSecretsSopsPath } from "akasha/infrastructure/cluster/provisioning/talos/paths/paths.module.code.ts"
 import { encryptFile } from "akasha/infrastructure/cluster/provisioning/talos/sops/sops.module.code.ts"
 import { runTalosctl } from "akasha/infrastructure/cluster/provisioning/talos/talosctl/talosctl.module.code.ts"
@@ -55,8 +54,5 @@ export async function generatedBy(
 export async function talosSecretGen(argv: readonly string[], given: Given): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [force, cluster])
   if ("refused" in read) return mistaking(read.refused)
-  return await generatedBy({
-    cluster: read.taken.cluster ?? DEFAULT_CLUSTER_NAME,
-    force: read.taken.force,
-  })
+  return await generatedBy({ cluster: read.taken.cluster, force: read.taken.force })
 }
