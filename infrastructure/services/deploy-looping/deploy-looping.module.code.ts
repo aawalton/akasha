@@ -57,6 +57,10 @@ const DEPLOY = "deploy"
 
 const MEASURED = "--measured"
 
+export const RUNTIME_MAX_SECONDS = 3600
+
+const RUNTIME_MAX = `--property=RuntimeMaxSec=${RUNTIME_MAX_SECONDS}`
+
 const A_SERVICE = "service"
 
 const SHOW = "show"
@@ -82,6 +86,7 @@ export function deployArgv(root: string, tree: string, slug: string): readonly s
     "--collect",
     "--quiet",
     `--unit=${scopeFor(slug)}`,
+    RUNTIME_MAX,
     `--setenv=${SERVING_MARKER}=`,
     "--",
     run.runner,

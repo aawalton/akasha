@@ -6,6 +6,7 @@ import {
   EVERY_KIND,
   endingKept,
   kindIn,
+  RUNTIME_MAX_SECONDS,
   SCOPE_END,
   SCOPE_LEAD,
   saidOfNoKind,
@@ -42,6 +43,7 @@ test("a deploy is run from the tree, under a scope of its own", () => {
   expect(words).toContain(`--unit=${scopeFor("temper-web")}`)
   expect(words).toContain("deploy")
   expect(words).toContain("--measured")
+  expect(words).toContain(`--property=RuntimeMaxSec=${RUNTIME_MAX_SECONDS}`)
   expect(words).toContain("temper-web")
   expect(words.some((one) => one.startsWith("/tree/"))).toBe(true)
 })

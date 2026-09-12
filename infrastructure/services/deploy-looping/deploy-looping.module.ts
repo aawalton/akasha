@@ -125,5 +125,15 @@ export const deployLooping = {
       statement:
         "A deploy a tick starts runs under no ceiling, since nobody is waiting on that call.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A deploy that will not end is ended by systemd, which kills the scope's whole cgroup.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "That bound is an hour, which is long enough that only a deploy that is hung meets it.",
+    },
   ],
 } as const satisfies Module
