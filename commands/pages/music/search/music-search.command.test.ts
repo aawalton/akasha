@@ -7,6 +7,8 @@ import { searchResponseSchema } from "akasha/alan/music/spotify/search/spotify-s
 import type { Finding } from "akasha/commands/pages/music/search/music-search.command.code.ts"
 import { searchWith, toldIn } from "akasha/commands/pages/music/search/music-search.command.code.ts"
 
+const CALLED = "akasha music search"
+
 const TOTAL = 2
 
 const WIDE = 10
@@ -50,25 +52,25 @@ function findingOf(tracks: readonly Track[], asked: SearchParams[]): Finding {
 }
 
 test("a call naming no query is refused", async () => {
-  const said = await searchWith(findingOf([], []), ["--json"])
+  const said = await searchWith(findingOf([], []), ["--json"], CALLED)
   expect(said.code).toBe(1)
   expect(said.refusals).toEqual(["supply a track query to search for"])
 })
 
 test("a limit that is no whole count is refused", async () => {
-  const said = await searchWith(findingOf([], []), ["Bulletproof", "--limit", "half"])
+  const said = await searchWith(findingOf([], []), ["Bulletproof", "--limit", "half"], CALLED)
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("--limit must be a non-negative integer, got: half")
 })
 
 test("anything the command does not take refuses the call", async () => {
-  const said = await searchWith(findingOf([], []), ["Bulletproof", "--pretty"])
+  const said = await searchWith(findingOf([], []), ["Bulletproof", "--pretty"], CALLED)
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("--pretty")
 })
 
 test("the human report names each candidate over two lines", async () => {
-  const said = await searchWith(findingOf([ONE, TWO], []), ["Bulletproof"])
+  const said = await searchWith(findingOf([ONE, TWO], []), ["Bulletproof"], CALLED)
   expect(said.code).toBe(0)
   expect(said.report).toEqual([
     'Search "Bulletproof" — 2 candidate(s):',
@@ -80,12 +82,12 @@ test("the human report names each candidate over two lines", async () => {
 })
 
 test("no candidate is reported as none", async () => {
-  const said = await searchWith(findingOf([], []), ["Bulletproof"])
+  const said = await searchWith(findingOf([], []), ["Bulletproof"], CALLED)
   expect(said.report).toEqual(['Search "Bulletproof" — 0 candidate(s):', "  (none)"])
 })
 
 test("--json gives the envelope on one line", async () => {
-  const said = await searchWith(findingOf([ONE], []), ["Bulletproof", "--json"])
+  const said = await searchWith(findingOf([ONE], []), ["Bulletproof", "--json"], CALLED)
   expect(said.code).toBe(0)
   const read = JSON.parse(said.report[0] as string)
   expect(read.query).toBe("Bulletproof")
@@ -103,25 +105,23 @@ test("--json gives the envelope on one line", async () => {
 
 test("an artist named keeps only that artist and widens the fetch", async () => {
   const asked: SearchParams[] = []
-  const said = await searchWith(findingOf([ONE, TWO], asked), [
-    "Bulletproof",
-    "--artist",
-    "beihold",
-    "--limit",
-    "1",
-  ])
+  const said = await searchWith(
+    findingOf([ONE, TWO], asked),
+    ["Bulletproof", "--artist", "beihold", "--limit", "1"],
+    CALLED
+  )
   expect(asked[0]?.limit).toBe(WIDE)
   expect(said.report[0]).toBe('Search "Bulletproof" (artist: beihold) — 1 candidate(s):')
 })
 
 test("no artist named fetches no more than the limit asked for", async () => {
   const asked: SearchParams[] = []
-  await searchWith(findingOf([ONE], asked), ["Bulletproof", "--limit", "3"])
+  await searchWith(findingOf([ONE], asked), ["Bulletproof", "--limit", "3"], CALLED)
   expect(asked[0]?.limit).toBe(NARROW)
 })
 
 test("a flag joined to its value by an equals sign is read", () => {
-  expect(toldIn(["Bulletproof", "--limit=3"])).toEqual({
+  expect(toldIn(["Bulletproof", "--limit=3"], CALLED)).toEqual({
     query: "Bulletproof",
     artist: undefined,
     limitSaid: "3",
@@ -130,11 +130,13 @@ test("a flag joined to its value by an equals sign is read", () => {
 })
 
 test("a flag said with nothing after it is refused", () => {
-  expect(toldIn(["Bulletproof", "--artist"])).toBe("`--artist` was said with nothing after it")
+  expect(toldIn(["Bulletproof", "--artist"], CALLED)).toBe(
+    "`--artist` was said with nothing after it"
+  )
 })
 
 test("what follows a bare -- is a positional", () => {
-  expect(toldIn(["--", "--artist"])).toEqual({
+  expect(toldIn(["--", "--artist"], CALLED)).toEqual({
     query: "--artist",
     artist: undefined,
     limitSaid: undefined,

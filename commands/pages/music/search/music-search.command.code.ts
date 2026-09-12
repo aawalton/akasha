@@ -6,7 +6,7 @@ import type {
 } from "akasha/alan/music/spotify/search/spotify-search.module.code.ts"
 import { search } from "akasha/alan/music/spotify/search/spotify-search.module.code.ts"
 import { INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 
 const DEFAULT_LIMIT = 5
@@ -38,7 +38,7 @@ type Told = {
   readonly json: boolean
 }
 
-export function toldIn(argv: readonly string[]): Told | string {
+export function toldIn(argv: readonly string[], calledAs: string): Told | string {
   const named: Record<string, string> = {}
   const loose: string[] = []
   let json = false
@@ -64,7 +64,7 @@ export function toldIn(argv: readonly string[]): Told | string {
       json = true
       continue
     }
-    if (one.startsWith(REST)) return `\`${said}\` is nothing \`akasha music search\` takes`
+    if (one.startsWith(REST)) return `\`${said}\` is nothing \`${calledAs}\` takes`
     loose.push(one)
   }
   return { query: loose[0], artist: named[ARTIST], limitSaid: named[LIMIT], json }
@@ -92,8 +92,12 @@ export function linesOf(envelope: SearchEnvelope): readonly string[] {
   return lines
 }
 
-export async function searchWith(find: Finding, argv: readonly string[]): Promise<Answer> {
-  const read = toldIn(argv)
+export async function searchWith(
+  find: Finding,
+  argv: readonly string[],
+  calledAs: string
+): Promise<Answer> {
+  const read = toldIn(argv, calledAs)
   if (typeof read === "string") return refused(read, INPUT)
   const query = read.query
   if (query === undefined || query === "") {
@@ -111,6 +115,6 @@ export async function searchWith(find: Finding, argv: readonly string[]): Promis
   return { report, refusals: [], code: OK }
 }
 
-export function musicSearch(argv: readonly string[] = []): Promise<Answer> {
-  return searchWith(search, argv)
+export function musicSearch(argv: readonly string[], given: Given): Promise<Answer> {
+  return searchWith(search, argv, given.calledAs)
 }
