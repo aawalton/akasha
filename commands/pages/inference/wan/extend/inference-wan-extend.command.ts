@@ -25,7 +25,6 @@ export const inferenceWanExtend = {
       said: "--negative-prompt-file <path>",
       takes: "that steering read from a path, or `-` for stdin",
     },
-    { said: "--lightning", takes: "the four-step Lightning pair, which drops guidance to one" },
   ],
   invariants: [
     {
@@ -60,5 +59,6 @@ export const inferenceWanExtend = {
     { argument: "argument/seed" },
     { argument: "argument/steps" },
     { argument: "argument/size" },
+    { argument: "argument/lightning" },
   ],
 } as const satisfies Command

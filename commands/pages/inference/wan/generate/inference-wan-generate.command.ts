@@ -17,7 +17,6 @@ export const inferenceWanGenerate = {
       said: "--negative-prompt-file <path>",
       takes: "that steering read from a path, or `-` for stdin",
     },
-    { said: "--lightning", takes: "the four-step Lightning pair, which drops guidance to one" },
     { said: "--frames <n>", takes: "the clip's length in frames" },
   ],
   invariants: [
@@ -57,5 +56,6 @@ export const inferenceWanGenerate = {
     { argument: "argument/seed" },
     { argument: "argument/steps" },
     { argument: "argument/size" },
+    { argument: "argument/lightning" },
   ],
 } as const satisfies Command
