@@ -23,4 +23,5 @@ export const temperCatalogList = {
     },
   ],
   name: "list",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command
