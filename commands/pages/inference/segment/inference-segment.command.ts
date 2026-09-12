@@ -8,7 +8,6 @@ export const inferenceSegment = {
   code: "ts",
   test: "ts",
   taking: [
-    { said: "--cutout-out <path>", takes: "where that cutout is written" },
     {
       said: "--flatten <color>",
       takes:
@@ -67,5 +66,6 @@ export const inferenceSegment = {
     { argument: "argument/timeout" },
     { argument: "argument/matte-out" },
     { argument: "argument/cutout" },
+    { argument: "argument/cutout-out" },
   ],
 } as const satisfies Command
