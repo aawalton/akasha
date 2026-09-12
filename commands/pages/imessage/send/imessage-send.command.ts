@@ -22,15 +22,11 @@ export const imessageSend = {
     { said: "--attachment <path>", takes: "the same thing said the other way" },
     { said: "--json", takes: "give what was sent as JSON rather than as the sent line" },
   ],
-  helpNotes: [
-    "a body, a picture, or both is said; saying neither is refused.",
-    "a name is looked up in the address book and must land on exactly one person.",
-    "that person's first phone number is used, and their first address where they have no number.",
-    "a phone number or an address is taken as said rather than looked up.",
-    "the picture is read off the disk and carried to the mac before the message is handed over.",
-    "a message once sent is not taken back.",
-  ],
   invariants: [
+    {
+      invariantKind: "absence",
+      statement: "No message is taken back once that message is sent.",
+    },
     {
       invariantKind: "departure",
       statement:
