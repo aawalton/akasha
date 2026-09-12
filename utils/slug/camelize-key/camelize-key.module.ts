@@ -9,7 +9,16 @@ export const camelizeKey = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A character that is no letter and no digit parts one word from the next.",
+      statement: "The key this module is handed comes from outside akasha rather than from a page.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A character that is no ascii letter and no ascii digit parts one word from the next.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A letter outside ascii parts words and is dropped.",
     },
     {
       invariantKind: "departure",
@@ -17,7 +26,11 @@ export const camelizeKey = {
     },
     {
       invariantKind: "absence",
-      statement: "A name with no letter and no digit is rewritten as nothing.",
+      statement: "A name with no ascii letter and no ascii digit is rewritten as nothing.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here makes the name a page is exported under.",
     },
   ],
 } as const satisfies Module
