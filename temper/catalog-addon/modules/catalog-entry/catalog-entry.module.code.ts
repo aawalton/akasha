@@ -15,7 +15,7 @@ import "akasha/temper/game-catalog-capture-addon/modules/cadwell-catalog-capture
 import "akasha/temper/game-catalog-capture-addon/item-set-catalog-capture/item-set-catalog-capture.module.code.ts"
 import "akasha/temper/game-catalog-capture-addon/scribing-catalog-capture/scribing-catalog-capture.module.code.ts"
 import "akasha/temper/game-catalog-capture-addon/trait-research-catalog-capture/trait-research-catalog-capture.module.code.ts"
-import "akasha/temper/game-catalog-capture-addon/collectibles-catalog-capture/collectibles-catalog-capture.module.code.ts"
+import "akasha/temper/game-catalog-capture-addon/modules/collectibles-catalog-capture/collectibles-catalog-capture.module.code.ts"
 import "akasha/temper/game-catalog-capture-addon/tribute-catalog-capture/tribute-catalog-capture.module.code.ts"
 import "akasha/temper/game-catalog-capture-addon/zone-completion-catalog-capture/zone-completion-catalog-capture.module.code.ts"
 import "akasha/temper/game-catalog-capture-addon/poi-catalog-capture/poi-catalog-capture.module.code.ts"

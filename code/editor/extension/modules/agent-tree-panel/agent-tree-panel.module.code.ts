@@ -3,7 +3,6 @@ import {
   readState,
   stateAt,
 } from "akasha/alan/harness/code-editor/data-interfaces/state-reading/state-reading.module.code.ts"
-import { createColumnMemory } from "akasha/code/editor/extension/column-memory/column-memory.module.code.ts"
 import { sampleColumns } from "akasha/code/editor/extension/column-sampling/column-sampling.module.code.ts"
 import { akashaRoot } from "akasha/code/editor/extension/harness-call/harness-call.module.code.ts"
 import { invokedSeat } from "akasha/code/editor/extension/invoked-seat/invoked-seat.module.code.ts"
@@ -35,6 +34,7 @@ import {
   setSeatTabs,
   setSeatTerminals,
 } from "akasha/code/editor/extension/modules/agent-tree-state/agent-tree-state.module.code.ts"
+import { createColumnMemory } from "akasha/code/editor/extension/modules/column-memory/column-memory.module.code.ts"
 import { newestWins } from "akasha/code/editor/extension/newest-wins/newest-wins.module.code.ts"
 import { recordObservation } from "akasha/code/editor/extension/observation-store/observation-store.module.code.ts"
 import type { SeatAct } from "akasha/code/editor/extension/seat-act-confirm/seat-act-confirm.module.code.ts"

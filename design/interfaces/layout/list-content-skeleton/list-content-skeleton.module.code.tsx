@@ -1,6 +1,6 @@
 "use client"
 
-import { createGenericLayout } from "akasha/design/interfaces/layout/column-layout/column-layout.module.code.ts"
+import { createGenericLayout } from "akasha/design/interfaces/layout/modules/column-layout/column-layout.module.code.ts"
 import { ResponsiveColumnsSkeleton } from "akasha/design/interfaces/layout/responsive-columns-skeleton/responsive-columns-skeleton.module.code.tsx"
 import { Skeleton } from "akasha/design/interfaces/primitives/skeleton/skeleton.module.code.tsx"
 

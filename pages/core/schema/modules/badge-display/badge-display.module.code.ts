@@ -1,4 +1,4 @@
-import { badgeVariantSchema } from "akasha/pages/core/schema/color-rule-variant/color-rule-variant.module.code.ts"
+import { badgeVariantSchema } from "akasha/pages/core/schema/modules/color-rule-variant/color-rule-variant.module.code.ts"
 import * as z from "zod"
 
 export const BADGE_ICON_FIELD = {

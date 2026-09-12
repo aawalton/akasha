@@ -16,7 +16,7 @@ import {
   getOptions,
 } from "akasha/pages/core/property-types/select/select.module.code.ts"
 import { resolveBadgeVariant } from "akasha/pages/core/resolve-badge-variant/resolve-badge-variant.module.code.ts"
-import type { BadgeVariant } from "akasha/pages/core/schema/color-rule-variant/color-rule-variant.module.code.ts"
+import type { BadgeVariant } from "akasha/pages/core/schema/modules/color-rule-variant/color-rule-variant.module.code.ts"
 import type { PropertyBadgeProps } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
 
 const DROPDOWN_TRIGGER_CLS =

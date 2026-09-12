@@ -1,4 +1,4 @@
-import type { ColorRuleVariant } from "akasha/pages/core/schema/color-rule-variant/color-rule-variant.module.code.ts"
+import type { ColorRuleVariant } from "akasha/pages/core/schema/modules/color-rule-variant/color-rule-variant.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 
 export type PropertyType =

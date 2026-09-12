@@ -1,7 +1,7 @@
 "use client"
 
-import { createGenericLayout } from "akasha/design/interfaces/layout/column-layout/column-layout.module.code.ts"
 import { LoadMoreButton } from "akasha/design/interfaces/layout/load-more-button/load-more-button.module.code.tsx"
+import { createGenericLayout } from "akasha/design/interfaces/layout/modules/column-layout/column-layout.module.code.ts"
 import { ResponsiveColumnsSkeleton } from "akasha/design/interfaces/layout/responsive-columns-skeleton/responsive-columns-skeleton.module.code.tsx"
 import { CollapsibleGroupSection } from "akasha/design/interfaces/patterns/modules/collapsible-group-section/collapsible-group-section.module.code.tsx"
 import type { useCollapsedGroups } from "akasha/design/interfaces/patterns/use-collapsed-groups/use-collapsed-groups.module.code.ts"

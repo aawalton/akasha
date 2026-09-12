@@ -3,7 +3,7 @@ import type { PropertyValue } from "akasha/pages/core/property-types/property-ty
 import type {
   BadgeVariant,
   ColorRuleVariant,
-} from "akasha/pages/core/schema/color-rule-variant/color-rule-variant.module.code.ts"
+} from "akasha/pages/core/schema/modules/color-rule-variant/color-rule-variant.module.code.ts"
 
 export function colorRuleVariantToBadgeVariant(variant: ColorRuleVariant): BadgeVariant {
   return variant === "default" ? "elevation-muted" : variant

@@ -1,4 +1,4 @@
-import { colorRuleVariantSchema } from "akasha/pages/core/schema/color-rule-variant/color-rule-variant.module.code.ts"
+import { colorRuleVariantSchema } from "akasha/pages/core/schema/modules/color-rule-variant/color-rule-variant.module.code.ts"
 import type {
   PageResolverEntry,
   PageResolverValue,

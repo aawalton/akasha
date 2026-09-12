@@ -2,7 +2,7 @@
 
 import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
 import { resolveBadgeVariant } from "akasha/pages/core/resolve-badge-variant/resolve-badge-variant.module.code.ts"
-import type { BadgeVariant } from "akasha/pages/core/schema/color-rule-variant/color-rule-variant.module.code.ts"
+import type { BadgeVariant } from "akasha/pages/core/schema/modules/color-rule-variant/color-rule-variant.module.code.ts"
 import { formatSmartDate } from "akasha/pages/core/view/format-smart-date/format-smart-date.module.code.ts"
 import { DateBadge as DetailDateBadge } from "akasha/pages/ui/components/page-detail-properties-shared/page-detail-properties-shared.module.code.tsx"
 import type { PropertyBadgeProps } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"

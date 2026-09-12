@@ -1,10 +1,10 @@
 "use client"
 
+import { useAppShellOptional } from "akasha/design/interfaces/layout/modules/app-shell-context/app-shell-context.module.code.tsx"
 import {
   type ColumnLayout,
   createGenericLayout,
-} from "akasha/design/interfaces/layout/column-layout/column-layout.module.code.ts"
-import { useAppShellOptional } from "akasha/design/interfaces/layout/modules/app-shell-context/app-shell-context.module.code.tsx"
+} from "akasha/design/interfaces/layout/modules/column-layout/column-layout.module.code.ts"
 import {
   getPageWidth,
   PAGE_TITLE_CLASSES,

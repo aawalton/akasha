@@ -8,7 +8,7 @@ import {
   toNumber,
 } from "akasha/pages/core/property-types/number/number.module.code.ts"
 import { resolveBadgeVariant } from "akasha/pages/core/resolve-badge-variant/resolve-badge-variant.module.code.ts"
-import type { BadgeVariant } from "akasha/pages/core/schema/color-rule-variant/color-rule-variant.module.code.ts"
+import type { BadgeVariant } from "akasha/pages/core/schema/modules/color-rule-variant/color-rule-variant.module.code.ts"
 import { parseConfig } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import {
   type NumberConfig,

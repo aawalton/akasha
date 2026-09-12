@@ -1,7 +1,7 @@
 import {
   createGenericEditorLayout,
   createGenericLayout,
-} from "akasha/design/interfaces/layout/column-layout/column-layout.module.code.ts"
+} from "akasha/design/interfaces/layout/modules/column-layout/column-layout.module.code.ts"
 import type { PageLayoutSkeletonConfig } from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
 
 export function listPageSkeleton(opts?: {
