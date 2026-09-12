@@ -6,9 +6,7 @@ export const talosHealth = {
   slug: "talos-health",
   definition: "the command running the talosctl health check over a Talos cluster",
   code: "ts",
-  taking: [
-    { said: "--worker-ips <csv>", takes: "every worker's address, where the cluster has workers" },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -57,5 +55,6 @@ export const talosHealth = {
     { argument: "argument/cluster" },
     { argument: "argument/ip" },
     { argument: "argument/control-plane-ips" },
+    { argument: "argument/worker-ips" },
   ],
 } as const satisfies Command
