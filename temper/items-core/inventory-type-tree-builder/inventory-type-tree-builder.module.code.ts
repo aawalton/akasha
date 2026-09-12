@@ -1,4 +1,3 @@
-import { getCompanionTraitName } from "akasha/temper/items-core/companion-trait-labels/companion-trait-labels.module.code.ts"
 import type {
   InventoryItemRow,
   InventoryTypeCategory,
@@ -15,6 +14,7 @@ import {
   hasSignals,
   matchesSignals,
 } from "akasha/temper/items-core/modules/classify-item/classify-item.module.code.ts"
+import { getCompanionTraitName } from "akasha/temper/items-core/modules/companion-trait-labels/companion-trait-labels.module.code.ts"
 import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 
 function buildLeaf(entry: InventoryTypeEntry, useCompanionTraits: boolean): InventoryNode {
