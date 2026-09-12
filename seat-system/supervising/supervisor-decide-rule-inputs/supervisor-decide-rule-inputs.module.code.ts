@@ -1,3 +1,4 @@
+import type { IdleObservation } from "akasha/agents/seats/supervisors/modules/idle-decide/supervisor-idle-decide.module.code.ts"
 import {
   bool,
   maybe,
@@ -18,7 +19,6 @@ import {
   type DeferredRestartState,
   INITIAL_DEFERRED_RESTART_STATE,
 } from "akasha/seat-system/supervising/supervisor-deferred-restart-decide/supervisor-deferred-restart-decide.module.code.ts"
-import type { IdleObservation } from "akasha/seat-system/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import {
   INITIAL_PROXY_LIVENESS_STATE,
   type ProxyLivenessState,

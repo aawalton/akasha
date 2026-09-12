@@ -1,4 +1,5 @@
 import { readTranscriptMtimeMs } from "akasha/agents/io-probe/io-probe.module.code.ts"
+import type { IdleObservation } from "akasha/agents/seats/supervisors/modules/idle-decide/supervisor-idle-decide.module.code.ts"
 import {
   busyTrail,
   logPastCliffOverride,
@@ -18,7 +19,6 @@ import type {
   BusyChildDetail,
   IdleRuleSource,
 } from "akasha/seat-system/supervising/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
-import type { IdleObservation } from "akasha/seat-system/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 
 const TICK_MS = 10_000
 

@@ -1,4 +1,10 @@
 import {
+  isIdleForPreservingRestart,
+  isIdleForPreservingRestartPastCliff,
+  isIgnoredMcpChildCmdline,
+  preservingRestartBusyReason,
+} from "akasha/agents/seats/supervisors/modules/idle-decide/supervisor-idle-decide.module.code.ts"
+import {
   arr,
   bool,
   maybe,
@@ -38,12 +44,6 @@ import {
   resolvePreCliffOverrideMs,
   resolveStaleWedgeMs,
 } from "akasha/seat-system/supervising/supervisor-deferred-restart-decide/supervisor-deferred-restart-decide.module.code.ts"
-import {
-  isIdleForPreservingRestart,
-  isIdleForPreservingRestartPastCliff,
-  isIgnoredMcpChildCmdline,
-  preservingRestartBusyReason,
-} from "akasha/seat-system/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import {
   decidePreCliffRestart,
   type PreCliffObservation,
