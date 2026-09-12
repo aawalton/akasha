@@ -12,14 +12,7 @@ export const initiativeDeleteIntent = {
     { said: "<initiative>", takes: "the initiative stating the intent" },
     { said: "<statement>", takes: "the statement the intent being taken out states" },
   ],
-  helpNotes: [
-    "an intent is named by its statement, which is the label the work tree draws it under.",
-    "a statement no intent of that initiative states is refused.",
-    "a statement more than one intent of that initiative states is refused.",
-    "the initiative keeps its `intents` key where the intent taken out was the last one.",
-    "a run lands one commit and runs no check.",
-    "an initiative is named by its slug rather than by the path its page sits at.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
