@@ -6,10 +6,10 @@ export const claudeUsage = {
   slug: "claude-usage",
   definition: "how much of the weekly Claude allowance is spent and when more arrives",
   parts: [
-    "readout/weekly-usage",
     "readout/five-hour-back",
     "readout/weekly-back",
     "readout/weekly-ends",
+    "readout/weekly-usage",
   ],
   sortOrder: "place",
   invariants: [

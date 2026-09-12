@@ -7,10 +7,10 @@ export const verdict = {
   definition: "a judgement on something measured, with what it covered and what it found",
   parts: [
     "module/outcome",
-    "module/verdict-shape",
-    "module/verdict-exit",
-    "module/verdict-text",
     "module/reading-channel",
+    "module/verdict-exit",
+    "module/verdict-shape",
+    "module/verdict-text",
   ],
   invariants: [
     {

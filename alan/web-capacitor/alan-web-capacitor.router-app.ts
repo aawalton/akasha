@@ -15,9 +15,9 @@ export const alanWebCapacitor = {
   declarationDirectory: true,
   bundleDirectory: true,
   parts: [
+    "app-routes/alan-web-capacitor-routes",
     "module/not-found-notice",
     "stylesheet/alan-web-capacitor-look",
-    "app-routes/alan-web-capacitor-routes",
   ],
   invariants: [
     {

@@ -5,6 +5,6 @@ export const temperInventoryAutomation = {
   type: "namespace",
   slug: "temper-inventory-automation",
   definition: "what an inventory does without being asked",
-  parts: ["command/temper-inventory-automation-set", "command/temper-inventory-automation-list"],
+  parts: ["command/temper-inventory-automation-list", "command/temper-inventory-automation-set"],
   name: "automation",
 } as const satisfies Namespace

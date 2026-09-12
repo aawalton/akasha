@@ -19,13 +19,13 @@ export const archiveOfWorldsWeb = {
   declarationDirectory: true,
   bundleDirectory: true,
   parts: [
+    "app-routes/archive-of-worlds-web-routes",
     "manifest/archive-of-worlds-web-manifests",
-    "stylesheet/archive-of-worlds-web-look",
     "module/archive-of-worlds-app-id",
     "module/archive-of-worlds-app-shell",
     "module/archive-of-worlds-nav-commands",
     "module/archive-of-worlds-nav-items",
-    "app-routes/archive-of-worlds-web-routes",
+    "stylesheet/archive-of-worlds-web-look",
   ],
   toolReached: ["react-dom"],
   invariants: [

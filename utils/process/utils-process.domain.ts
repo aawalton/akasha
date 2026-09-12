@@ -6,11 +6,11 @@ export const utilsProcess = {
   slug: "utils-process",
   definition: "a process another did not start, read from outside it and ended from outside it",
   parts: [
+    "module/libc-mapping",
     "module/pid-signal",
     "module/port-holding",
     "module/proc-environ",
     "module/proc-reading",
     "module/process-ending",
-    "module/libc-mapping",
   ],
 } as const satisfies Domain

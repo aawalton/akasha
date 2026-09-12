@@ -5,5 +5,5 @@ export const utilsSync = {
   type: "domain",
   slug: "utils-sync",
   definition: "the day it is in UTC, and the shape a page type's properties are declared in",
-  parts: ["module/today", "module/page-type-props"],
+  parts: ["module/page-type-props", "module/today"],
 } as const satisfies Domain

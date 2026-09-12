@@ -18,15 +18,15 @@ export const smilingjennyWeb = {
   declarationDirectory: true,
   bundleDirectory: true,
   parts: [
+    "app-routes/smilingjenny-web-routes",
     "manifest/smilingjenny-web-manifests",
-    "stylesheet/smilingjenny-web-look",
     "module/jenny-capacitor-bridge",
     "module/jenny-push-registration-sync",
     "module/jenny-ring-credential",
     "module/jenny-session",
     "module/jenny-shell",
+    "stylesheet/smilingjenny-web-look",
     "type-declaration/jenny-capacitor-globals",
-    "app-routes/smilingjenny-web-routes",
   ],
   toolReached: ["react-dom"],
 } as const satisfies RouterApp

@@ -6,10 +6,10 @@ export const utilsText = {
   slug: "utils-text",
   definition: "how a value is written out as the English a reader reads",
   parts: [
-    "module/counted",
     "module/capitalize",
-    "module/seconds",
+    "module/counted",
     "module/name-drawing",
+    "module/seconds",
     "module/shortened",
     "module/suggest-closest",
   ],

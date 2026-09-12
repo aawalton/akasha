@@ -7,18 +7,18 @@ export const utils = {
   definition: "the pieces every domain reaches for and no domain claims",
 
   parts: [
+    "domain/digit-padding",
     "domain/utils-fs",
     "domain/utils-hashing",
     "domain/utils-narrow",
     "domain/utils-process",
     "domain/utils-run",
     "domain/utils-slug",
-    "domain/utils-system",
     "domain/utils-sync",
+    "domain/utils-system",
     "domain/utils-text",
     "domain/utils-timing",
     "domain/utils-waiting",
-    "domain/digit-padding",
     "module/during-call",
   ],
   invariants: [

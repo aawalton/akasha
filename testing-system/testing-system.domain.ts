@@ -8,16 +8,16 @@ export const testingSystem = {
   parts: [
     "domain/test",
     "domain/test-fixture",
-    "module/declaring",
     "module/bodying",
+    "module/declaring",
     "module/dom-guarding",
     "module/minting",
     "module/putting",
-    "module/waiting",
     "module/dom-guard-setting",
     "module/dom-registering",
     "module/page-holding",
     "module/repo-seeding",
+    "module/waiting",
     "module/walking",
   ],
   invariants: [

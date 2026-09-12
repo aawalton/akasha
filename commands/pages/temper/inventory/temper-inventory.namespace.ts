@@ -8,6 +8,7 @@ export const temperInventory = {
   parts: [
     "command/temper-inventory-capacity-audit",
     "command/temper-inventory-category-list",
+    "command/temper-inventory-configuration",
     "command/temper-inventory-decode-link",
     "command/temper-inventory-explain",
     "command/temper-inventory-knowledge",
@@ -15,7 +16,6 @@ export const temperInventory = {
     "command/temper-inventory-parity",
     "command/temper-inventory-plan",
     "command/temper-inventory-replay-explain",
-    "command/temper-inventory-configuration",
     "command/temper-inventory-snapshot",
     "namespace/temper-inventory-automation",
     "namespace/temper-inventory-bank",

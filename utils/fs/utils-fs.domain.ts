@@ -12,9 +12,9 @@ export const utilsFs = {
     "module/file-size",
     "module/missing",
     "module/read-stdin-or-file",
+    "module/scratching",
     "module/text-on-disk",
     "module/text-there",
     "module/whole-writing",
-    "module/scratching",
   ],
 } as const satisfies Domain

@@ -6,8 +6,8 @@ export const temperDungeons = {
   slug: "temper-dungeons",
   definition: "the group dungeons of Tamriel and the pledges quest givers hand out each day",
   parts: [
-    "module/dungeon-registry",
     "module/dungeon-data",
+    "module/dungeon-registry",
     "module/eso-reset",
     "module/pledge-rotation",
     "module/solo-difficulty",

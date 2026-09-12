@@ -163,9 +163,9 @@ export const temperLorebooks = {
     "module/lorebooks-shalidor-locations-18",
     "module/lorebooks-slash-commands",
     "type-declaration/lorebooks-controls",
-    "type-declaration/lorebooks-public-api-declarations",
     "module/lorebooks-types",
     "module/lorebooks-ui-strings",
+    "type-declaration/lorebooks-public-api-declarations",
     "type-declaration/lorebooks-string-ids",
   ],
   invariants: [

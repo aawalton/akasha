@@ -11,9 +11,9 @@ export const read = {
   testFixtures: "ts",
   parts: [
     "module/differing",
-    "module/output-reaching",
     "module/body-owing",
     "module/long-answering",
+    "module/output-reaching",
   ],
   invariants: [
     {

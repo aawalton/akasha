@@ -7,8 +7,8 @@ export const temperEsoDeclaration = {
   definition: "the game's own API documentation dump read as TypeScript declarations",
   parts: [
     "eso-opt-in-list/declared-tokens",
-    "module/eso-doc-tokens",
     "module/eso-declaration-text",
+    "module/eso-doc-tokens",
     "module/eso-opt-in",
     "module/eso-token-scope",
     "page-type/eso-opt-in-list",

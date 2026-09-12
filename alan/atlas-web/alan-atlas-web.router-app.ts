@@ -19,8 +19,8 @@ export const alanAtlasWeb = {
   declarationDirectory: true,
   bundleDirectory: true,
   parts: [
+    "app-routes/alan-atlas-web-routes",
     "manifest/alanwalton-atlas",
-    "stylesheet/alan-atlas-web-look",
     "module/atlas-app-id",
     "module/atlas-app-shell",
     "module/atlas-nav-commands",
@@ -37,7 +37,7 @@ export const alanAtlasWeb = {
     "module/pins",
     "module/place-candidate",
     "module/request-log",
-    "app-routes/alan-atlas-web-routes",
+    "stylesheet/alan-atlas-web-look",
   ],
   toolReached: ["react-dom"],
 } as const satisfies RouterApp

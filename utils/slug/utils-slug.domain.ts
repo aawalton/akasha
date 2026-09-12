@@ -6,10 +6,10 @@ export const utilsSlug = {
   slug: "utils-slug",
   definition: "how a string is folded to the key that names it",
   parts: [
-    "module/slug-of",
-    "module/dash-each-capital",
-    "module/dash-between-words",
     "module/camelize-key",
+    "module/dash-between-words",
+    "module/dash-each-capital",
+    "module/slug-of",
   ],
   invariants: [
     {

@@ -8,8 +8,8 @@ export const temperHudComponents = {
   parts: [
     "module/hud-component-labels",
     "module/hud-component-record",
-    "module/hud-fragment-group",
     "module/hud-controls",
+    "module/hud-fragment-group",
     "module/hud-scene-catalog",
     "module/hud-scene-fragments",
     "module/hud-scene-parse",

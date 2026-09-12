@@ -18,13 +18,13 @@ export const audhdalanWeb = {
   declarationDirectory: true,
   bundleDirectory: true,
   parts: [
+    "app-routes/audhdalan-web-routes",
     "manifest/audhdalan-web-manifests",
-    "stylesheet/audhdalan-web-look",
     "module/deck-page-content",
     "module/deck-slides",
     "module/resource-list",
     "module/subscribe-form",
-    "app-routes/audhdalan-web-routes",
+    "stylesheet/audhdalan-web-look",
   ],
   toolReached: ["react-dom"],
 } as const satisfies RouterApp

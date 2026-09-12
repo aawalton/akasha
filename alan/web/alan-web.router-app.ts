@@ -21,10 +21,10 @@ export const alanWeb = {
   declarationDirectory: true,
   bundleDirectory: true,
   parts: [
+    "app-routes/alan-web-routes",
     "manifest/alanwalton-web",
     "stylesheet/alan-web-look",
     "stylesheet/idle-look",
-    "stylesheet/reveal-host-look",
     "module/active-boosts",
     "module/alan-answer-page-types",
     "module/alan-answer-page-write",
@@ -150,7 +150,7 @@ export const alanWeb = {
     "module/use-next-unread",
     "module/use-reader-active-marks",
     "module/widget-tap-answering",
-    "app-routes/alan-web-routes",
+    "stylesheet/reveal-host-look",
   ],
   toolReached: ["react-dom"],
 } as const satisfies RouterApp

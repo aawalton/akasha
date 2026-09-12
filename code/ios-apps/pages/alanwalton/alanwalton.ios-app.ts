@@ -54,6 +54,7 @@ export const alanwalton = {
     "shell-script/alanwalton-fluidaudio-pin",
     "shell-script/alanwalton-health-anchored-read",
     "shell-script/alanwalton-health-cursorless-backstop",
+    "shell-script/alanwalton-health-foreground-sync",
     "shell-script/alanwalton-health-intent-anchored-drain",
     "shell-script/alanwalton-health-intent-declaration",
     "shell-script/alanwalton-health-intent-perform",
@@ -78,6 +79,5 @@ export const alanwalton = {
     "shell-script/alanwalton-wallpaper-intent",
     "shell-script/alanwalton-widget-refresh",
     "shell-script/alanwalton-widget-target",
-    "shell-script/alanwalton-health-foreground-sync",
   ],
 } as const satisfies IosApp
