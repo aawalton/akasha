@@ -25,7 +25,7 @@ export const musicQueue = {
     },
     {
       invariantKind: "departure",
-      statement: "The first track begins playing the way `music-play` begins a track.",
+      statement: "The first track begins playing the way `akasha music play` begins a track.",
     },
     {
       invariantKind: "departure",
