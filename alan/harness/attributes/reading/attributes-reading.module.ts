@@ -58,6 +58,10 @@ export const attributesReading = {
     },
     {
       invariantKind: "departure",
+      statement: "Each readout is named as soon as that readout's reading is kept.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run that kept a reading exits 0.",
     },
     {

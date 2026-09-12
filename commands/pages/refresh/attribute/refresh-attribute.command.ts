@@ -34,6 +34,18 @@ export const refreshAttribute = {
       statement: "A run that rebuilt no attribute at all is refused.",
     },
     {
+      invariantKind: "departure",
+      statement: "Each attribute is named as soon as that attribute's figure is kept.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that threw part way names those attributes in its refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The keeping and the taking this runs are handed in.",
+    },
+    {
       invariantKind: "absence",
       statement: "A run works out no level.",
     },

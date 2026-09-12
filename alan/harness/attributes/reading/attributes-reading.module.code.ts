@@ -155,12 +155,17 @@ export async function readAttributes(now: Date = new Date()): Promise<Taken> {
   return { kept, unread }
 }
 
-export async function takeReadings(root: string, now: Date = new Date()): Promise<Taken> {
+export async function takeReadings(
+  root: string,
+  now: Date = new Date(),
+  done: string[] = []
+): Promise<Taken> {
   const taken = await readAttributes(now)
   for (const [page, value] of Object.entries(taken.kept)) {
     keepReading(root, page, value, now)
     const slug = ATTRIBUTE_OF[page]
     if (slug !== undefined) keepPointsToday(root, slug, value)
+    done.push(`${page} carries the reading taken today`)
   }
   return taken
 }
