@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "No finding is filed on checks-system or any part beneath it.",
       workingMemory:
-        "2 in scope, from 17. Two more are out: a-name-place-check-reaches-the-vendored-lua-runtime, whose subject states experimental, and thirteen-flat-pages-folders, filed on folder-matches-a-shape, which states experimental as well. five-rows-of-a-model-tests-cases went at c39d1602929, relation-resolves refusing no row of it now. The two left are the deploy gate, whose frozen-install half inverted under the root manifest's glob, and the install that prunes.",
+        "1 in scope, from 17. Two more are out: a-name-place-check-reaches-the-vendored-lua-runtime, whose subject states experimental, and thirteen-flat-pages-folders, filed on folder-matches-a-shape, which states experimental as well. The deploy gate went at fef3cd37b3 as stale, Alan's call. The one left is the install that never prunes, and a6eee5327 wired the workspace root in as a package, so manifest-names-what-is-reached refuses a reach at a dead @akasha name now.",
     },
   ],
   constraints: [
