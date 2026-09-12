@@ -85,7 +85,7 @@ export const change = {
     {
       invariantKind: "departure",
       statement:
-        "The kind of file a path names is read from one module rather than worked out in each change.",
+        "The kind of file a path names is read from `target-kinding` rather than worked out in each change.",
     },
     {
       invariantKind: "departure",
