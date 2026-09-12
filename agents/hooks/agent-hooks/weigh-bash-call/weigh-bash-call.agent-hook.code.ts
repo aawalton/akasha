@@ -1,5 +1,5 @@
-import type { Answer } from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
-import { LET_THROUGH, said } from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
+import type { Answer } from "akasha/agents/hooks/modules/answer/hook-answer.module.code.ts"
+import { LET_THROUGH, said } from "akasha/agents/hooks/modules/answer/hook-answer.module.code.ts"
 
 export function answerFor(): Answer {
   return LET_THROUGH

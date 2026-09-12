@@ -6,8 +6,8 @@ import type {
   DestinationCategory,
   MoveToDestination,
 } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { useInventory } from "akasha/temper/player-inventory-management-ui/hooks-inventory/hooks-inventory.module.code.ts"
-import { useManagedGuildBanks } from "akasha/temper/player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
+import { useInventory } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.code.ts"
+import { useManagedGuildBanks } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import { useMemo } from "react"
 
 interface DestinationItem {

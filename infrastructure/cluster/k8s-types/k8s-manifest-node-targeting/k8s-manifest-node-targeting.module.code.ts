@@ -1,8 +1,4 @@
 import {
-  HOSTNAME_KEY,
-  WORKLOAD_CLASS_KEY,
-} from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
-import {
   childBlock,
   type DocSpan,
   parseMappingLine,
@@ -11,6 +7,10 @@ import {
   type ScanError,
   unquote,
 } from "akasha/infrastructure/cluster/k8s-types/k8s-manifest-walker/k8s-manifest-walker.module.code.ts"
+import {
+  HOSTNAME_KEY,
+  WORKLOAD_CLASS_KEY,
+} from "akasha/infrastructure/cluster/k8s-types/modules/hostnames/hostnames.module.code.ts"
 
 function nodeSelectorPathFor(kind: string | undefined): readonly string[] | null {
   if (kind === undefined) return null

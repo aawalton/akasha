@@ -7,7 +7,7 @@ import {
   refusing,
   SCOPE_FLAG,
   said,
-} from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
+} from "akasha/agents/hooks/modules/answer/hook-answer.module.code.ts"
 import { readOwnTranscriptTail } from "akasha/agents/io-probe/io-probe.module.code.ts"
 import { lastAskedIn, lastSaidIn } from "akasha/agents/last-said/last-said.module.code.ts"
 import { endsYes } from "akasha/agents/models/modules/answer/model-answer.module.code.ts"

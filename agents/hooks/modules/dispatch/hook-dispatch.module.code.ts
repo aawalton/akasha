@@ -9,8 +9,8 @@ import {
   refusing,
   rewriting,
   said,
-} from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
-import { linksMade } from "akasha/agents/hooks/links/hook-links.module.code.ts"
+} from "akasha/agents/hooks/modules/answer/hook-answer.module.code.ts"
+import { linksMade } from "akasha/agents/hooks/modules/links/hook-links.module.code.ts"
 import {
   type Cost,
   closing,

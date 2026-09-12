@@ -21,7 +21,7 @@ import {
   useAllPages,
   usePageByIdSuffix,
   useViewsForNavItem,
-} from "akasha/pages/ui/supabase/hooks/hooks.module.code.ts"
+} from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { useOptionListLookup } from "akasha/pages/ui/supabase/use-option-list-lookup/use-option-list-lookup.module.code.ts"
 import { usePageTypeDirectory } from "akasha/pages/ui/supabase/use-page-type-directory/use-page-type-directory.module.code.ts"
 import { useSetPropertyOptimistic } from "akasha/pages/ui/supabase/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"

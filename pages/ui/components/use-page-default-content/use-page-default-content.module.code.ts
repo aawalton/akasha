@@ -20,7 +20,10 @@ import {
 } from "akasha/pages/ui/components/page-detail-content-helpers/page-detail-content-helpers.module.code.ts"
 import { usePagesUIRouter } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { useHostCreateSelectOption } from "akasha/pages/ui/option-create-context/option-create-context.module.code.tsx"
-import { useAllPages, useRelatedPages } from "akasha/pages/ui/supabase/hooks/hooks.module.code.ts"
+import {
+  useAllPages,
+  useRelatedPages,
+} from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { useOptimisticPatchPropertyDefinition } from "akasha/pages/ui/supabase/mutations/use-optimistic-patch-property-definition/use-optimistic-patch-property-definition.module.code.ts"
 import { useOptionListLookup } from "akasha/pages/ui/supabase/use-option-list-lookup/use-option-list-lookup.module.code.ts"
 import { usePage } from "akasha/pages/ui/supabase/use-page/use-page.module.code.ts"

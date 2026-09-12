@@ -18,9 +18,12 @@ import { useEffectiveListing } from "akasha/pages/ui/components/use-effective-li
 import { useViewRowAggregates } from "akasha/pages/ui/components/view-engine/use-view-row-aggregates/use-view-row-aggregates.module.code.ts"
 import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
 import { buildPageTypeSlugMaps } from "akasha/pages/ui/components/view-tab-content-href/view-tab-content-href.module.code.ts"
-import { useAllPages, useRelatedPages } from "akasha/pages/ui/supabase/hooks/hooks.module.code.ts"
-import { usePageViewQuery } from "akasha/pages/ui/supabase/hooks-view-query/hooks-view-query.module.code.ts"
 import { useGroupByPaginatedQuery } from "akasha/pages/ui/supabase/modules/group-by-hooks/group-by-hooks.module.code.ts"
+import {
+  useAllPages,
+  useRelatedPages,
+} from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
+import { usePageViewQuery } from "akasha/pages/ui/supabase/modules/hooks-view-query/hooks-view-query.module.code.ts"
 import type { PageWithProperties } from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
 import { useOptionListLookup } from "akasha/pages/ui/supabase/use-option-list-lookup/use-option-list-lookup.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"

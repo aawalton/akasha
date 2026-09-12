@@ -31,7 +31,7 @@ import {
   type CreateSelectOptionEffect,
   PagesUIOptionCreateProvider,
 } from "akasha/pages/ui/option-create-context/option-create-context.module.code.tsx"
-import { useAllPages } from "akasha/pages/ui/supabase/hooks/hooks.module.code.ts"
+import { useAllPages } from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { useOptimisticCreatePage } from "akasha/pages/ui/supabase/mutations/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import { LogIn, LogOut } from "lucide-react"

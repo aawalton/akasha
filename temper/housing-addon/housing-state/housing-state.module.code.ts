@@ -1,13 +1,3 @@
-import {
-  CONTROLS,
-  PORT_MODE_ON_DEACTIVATE,
-  SEND_BASIC_COMMENT,
-  SEND_BASIC_STRING,
-  SEND_KEY_WORD,
-  TAB_HOUSE,
-} from "akasha/temper/housing-addon/housing-constants/housing-constants.module.code.ts"
-import type { PortToFriendHolder } from "akasha/temper/housing-addon/housing-holder-types/housing-holder-types.module.code.ts"
-import { portToFriendMenu } from "akasha/temper/housing-addon/housing-menu-state/housing-menu-state.module.code.ts"
 import type {
   PortToFriendData,
   PortToFriendDefaults,
@@ -16,6 +6,16 @@ import type {
   SavedVars,
   VcChatAllowed,
 } from "akasha/temper/housing-addon/housing-types/housing-types.module.code.ts"
+import {
+  CONTROLS,
+  PORT_MODE_ON_DEACTIVATE,
+  SEND_BASIC_COMMENT,
+  SEND_BASIC_STRING,
+  SEND_KEY_WORD,
+  TAB_HOUSE,
+} from "akasha/temper/housing-addon/modules/housing-constants/housing-constants.module.code.ts"
+import type { PortToFriendHolder } from "akasha/temper/housing-addon/modules/housing-holder-types/housing-holder-types.module.code.ts"
+import { portToFriendMenu } from "akasha/temper/housing-addon/modules/housing-menu-state/housing-menu-state.module.code.ts"
 
 function asPortToFriendHolder(value: unknown): PortToFriendHolder {
   return value as PortToFriendHolder

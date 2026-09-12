@@ -1,4 +1,4 @@
-import { gpuVramUsableMinSelector } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
+import { gpuVramUsableMinSelector } from "akasha/infrastructure/cluster/k8s-types/modules/hostnames/hostnames.module.code.ts"
 import { refOf } from "akasha/infrastructure/container-image/image-ref/image-ref.module.code.ts"
 import { upscaleClusterImage } from "akasha/infrastructure/inference/generations/upscale/cluster-image/upscale-cluster-image.container-recipe.ts"
 

@@ -10,9 +10,9 @@ import {
 } from "akasha/design/interfaces/primitives/select-control/select-control.module.code.tsx"
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import { classifyLocation } from "akasha/temper/items-core/location-classify/location-classify.module.code.ts"
-import { useInventory } from "akasha/temper/player-inventory-management-ui/hooks-inventory/hooks-inventory.module.code.ts"
-import { useManagedGuildBanks } from "akasha/temper/player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import { NULL_SENTINEL } from "akasha/temper/player-inventory-management-ui/modules/action-filter-utils/action-filter-utils.module.code.ts"
+import { useInventory } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.code.ts"
+import { useManagedGuildBanks } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import { ChevronRight } from "lucide-react"
 import { useMemo } from "react"
 

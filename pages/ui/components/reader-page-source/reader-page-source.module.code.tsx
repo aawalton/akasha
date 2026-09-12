@@ -3,7 +3,7 @@
 import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import { getLocalPositionReader } from "akasha/pages/ui/components/local-position-port/local-position-port.module.code.ts"
 import { PageDetailHeaderMenu } from "akasha/pages/ui/components/page-detail-header-menu/page-detail-header-menu.module.code.tsx"
-import { useAllPages } from "akasha/pages/ui/supabase/hooks/hooks.module.code.ts"
+import { useAllPages } from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { usePage } from "akasha/pages/ui/supabase/use-page/use-page.module.code.ts"
 import { useSetPropertyOptimistic } from "akasha/pages/ui/supabase/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"

@@ -25,7 +25,7 @@ import {
   DESTRUCTIVE_ACTIONS,
   type DestructiveAction,
 } from "akasha/temper/items-core/inventory-safety-types/inventory-safety-types.module.code.ts"
-import { useBackpackSettings } from "akasha/temper/player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
+import { useBackpackSettings } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import {
   useLoggingSettings,
   useSafetySettings,

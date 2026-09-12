@@ -8,7 +8,7 @@ import {
   payloadIn,
   REFUSED,
   unreadable,
-} from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
+} from "akasha/agents/hooks/modules/answer/hook-answer.module.code.ts"
 import { insideOf, settled } from "akasha/agents/hooks/settling/settling.module.code.ts"
 import {
   basenameOf,

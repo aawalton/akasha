@@ -1,6 +1,7 @@
 import "akasha/temper/eso-types/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-enums-19/eso-enums-19.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
+import { portToFriend } from "akasha/temper/housing-addon/housing-state/housing-state.module.code.ts"
 import {
   asBackdropEdgeView,
   asControl,
@@ -11,8 +12,7 @@ import {
   asSliderView,
   asTreeNode,
   controlsTree,
-} from "akasha/temper/housing-addon/housing-build-casts/housing-build-casts.module.code.ts"
-import { portToFriend } from "akasha/temper/housing-addon/housing-state/housing-state.module.code.ts"
+} from "akasha/temper/housing-addon/modules/housing-build-casts/housing-build-casts.module.code.ts"
 
 export function buildLibraryTab(this: void): undefined {
   const c = controlsTree(portToFriend.controls)

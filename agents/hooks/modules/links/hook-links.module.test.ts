@@ -6,7 +6,7 @@ import {
   linkFor,
   linksAt,
   servedFrom,
-} from "akasha/agents/hooks/links/hook-links.module.code.ts"
+} from "akasha/agents/hooks/modules/links/hook-links.module.code.ts"
 import { MOUNTED } from "akasha/code/test-overlay/test-overlay.module.code.ts"
 import {
   AKASHA,

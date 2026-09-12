@@ -12,12 +12,6 @@ import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.t
 import { partitionUnmanagedGuildBanks } from "akasha/temper/items-core/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import { classifyAllInventoryItems } from "akasha/temper/items-rules-matcher/inventory-item-classifier/inventory-item-classifier.module.code.ts"
-import { useInventory } from "akasha/temper/player-inventory-management-ui/hooks-inventory/hooks-inventory.module.code.ts"
-import {
-  useAutomationSettings,
-  useBackpackSettings,
-  useManagedGuildBanks,
-} from "akasha/temper/player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import type {
   ActiveStatusFilter,
   LockStatusFilter,
@@ -30,6 +24,12 @@ import { inventoryRulePanelVisibility } from "akasha/temper/player-inventory-man
 import { useAssembledInventoryRules } from "akasha/temper/player-inventory-management-ui/inventory-rules-tab-rule-assembly/inventory-rules-tab-rule-assembly.module.code.ts"
 import { InventoryScopeNote } from "akasha/temper/player-inventory-management-ui/inventory-scope-note/inventory-scope-note.module.code.tsx"
 import { ManagementPlanPanelCard } from "akasha/temper/player-inventory-management-ui/management-plan-panel-card/management-plan-panel-card.module.code.tsx"
+import { useInventory } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.code.ts"
+import {
+  useAutomationSettings,
+  useBackpackSettings,
+  useManagedGuildBanks,
+} from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import { UnmappedItemsPanelCard } from "akasha/temper/player-inventory-management-ui/unmapped-items-panel-card/unmapped-items-panel-card.module.code.tsx"
 import { useDestinationOptions } from "akasha/temper/player-inventory-management-ui/use-destination-options/use-destination-options.module.code.ts"
 import {

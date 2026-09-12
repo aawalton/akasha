@@ -14,7 +14,10 @@ import { resolveDisplayKind } from "akasha/pages/core/schema/modules/detail-conf
 import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import { getPageDisplay } from "akasha/pages/ui/capabilities/page-display-registry/page-display-registry.module.code.ts"
 import { ViewPageContent } from "akasha/pages/ui/components/view-page-content/view-page-content.module.code.tsx"
-import { useAllPages, usePageByIdSuffix } from "akasha/pages/ui/supabase/hooks/hooks.module.code.ts"
+import {
+  useAllPages,
+  usePageByIdSuffix,
+} from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { useReaderNeighbors } from "akasha/pages/ui/supabase/use-reader-neighbors/use-reader-neighbors.module.code.ts"
 import { parsePageHrefParam } from "akasha/pages/url/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"

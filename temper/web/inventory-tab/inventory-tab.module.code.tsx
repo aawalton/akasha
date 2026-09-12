@@ -14,8 +14,8 @@ import { Skeleton } from "akasha/design/interfaces/primitives/skeleton/skeleton.
 import { Switch } from "akasha/design/interfaces/primitives/switch-control/switch-control.module.code.tsx"
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import { extractGuildBankKeys } from "akasha/temper/items-core/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
-import { useInventory } from "akasha/temper/player-inventory-management-ui/hooks-inventory/hooks-inventory.module.code.ts"
-import { useManagedGuildBanks } from "akasha/temper/player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
+import { useInventory } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.code.ts"
+import { useManagedGuildBanks } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import {
   type GuildBankListState,
   resolveGuildBankListState,

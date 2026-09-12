@@ -1,4 +1,8 @@
-import { ASIDE, payloadIn, SCOPE_FLAG } from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
+import {
+  ASIDE,
+  payloadIn,
+  SCOPE_FLAG,
+} from "akasha/agents/hooks/modules/answer/hook-answer.module.code.ts"
 import { seatIn } from "akasha/agents/read-record/read-record.module.code.ts"
 import { setPending } from "akasha/agents/seats/modules/turn-pending/seat-turn-pending.module.code.ts"
 

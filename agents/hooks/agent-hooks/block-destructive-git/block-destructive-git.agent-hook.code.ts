@@ -2,7 +2,7 @@ import {
   ranAsCommandHook,
   SCOPE_FLAG,
   toldOf,
-} from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
+} from "akasha/agents/hooks/modules/answer/hook-answer.module.code.ts"
 import { judgingCalls } from "akasha/agents/hooks/modules/chain-refusal/chain-refusal.module.code.ts"
 import type { GitCall } from "akasha/agents/hooks/modules/git-calls/git-calls.module.code.ts"
 import { gitCallsIn } from "akasha/agents/hooks/modules/git-calls/git-calls.module.code.ts"

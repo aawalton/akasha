@@ -1,8 +1,4 @@
 import {
-  HOSTNAME_KEY,
-  WORKLOAD_CLASS_KEY,
-} from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
-import {
   type ContainerResources,
   readContainerProbes,
 } from "akasha/infrastructure/cluster/k8s-types/k8s-container-probes/k8s-container-probes.module.code.ts"
@@ -22,6 +18,10 @@ import {
   splitDocs,
   unquote,
 } from "akasha/infrastructure/cluster/k8s-types/k8s-manifest-walker/k8s-manifest-walker.module.code.ts"
+import {
+  HOSTNAME_KEY,
+  WORKLOAD_CLASS_KEY,
+} from "akasha/infrastructure/cluster/k8s-types/modules/hostnames/hostnames.module.code.ts"
 import { ORCHESTRATOR_CACHE_REPO_PATH } from "akasha/infrastructure/cluster/k8s-types/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
 
 export interface ImageLine {

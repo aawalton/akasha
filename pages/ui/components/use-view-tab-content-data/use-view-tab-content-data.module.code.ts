@@ -24,9 +24,9 @@ import {
   resolveRowPageTypeSlug,
 } from "akasha/pages/ui/components/view-tab-content-href/view-tab-content-href.module.code.ts"
 import { selectViewQueryResult } from "akasha/pages/ui/components/view-tab-content-results/view-tab-content-results.module.code.ts"
-import { useRelatedPages } from "akasha/pages/ui/supabase/hooks/hooks.module.code.ts"
-import { usePageViewQuery } from "akasha/pages/ui/supabase/hooks-view-query/hooks-view-query.module.code.ts"
 import { useGroupByPaginatedQuery } from "akasha/pages/ui/supabase/modules/group-by-hooks/group-by-hooks.module.code.ts"
+import { useRelatedPages } from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
+import { usePageViewQuery } from "akasha/pages/ui/supabase/modules/hooks-view-query/hooks-view-query.module.code.ts"
 import {
   type PageWithProperties,
   pageById,

@@ -9,8 +9,8 @@ import { shouldShowCountBadge } from "akasha/pages/ui/components/nav-count-badge
 import {
   useAllPages,
   useViewsForNavItem,
-} from "akasha/pages/ui/supabase/hooks/hooks.module.code.ts"
-import { usePageViewQuery } from "akasha/pages/ui/supabase/hooks-view-query/hooks-view-query.module.code.ts"
+} from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
+import { usePageViewQuery } from "akasha/pages/ui/supabase/modules/hooks-view-query/hooks-view-query.module.code.ts"
 import { useOptionListLookup } from "akasha/pages/ui/supabase/use-option-list-lookup/use-option-list-lookup.module.code.ts"
 import { usePageTypeDirectory } from "akasha/pages/ui/supabase/use-page-type-directory/use-page-type-directory.module.code.ts"
 import { viewDataOfPage } from "akasha/pages/ui/supabase/view-data-of-page/view-data-of-page.module.code.ts"

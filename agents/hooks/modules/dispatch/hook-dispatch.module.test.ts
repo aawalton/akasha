@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { REFUSED } from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
+import { REFUSED } from "akasha/agents/hooks/modules/answer/hook-answer.module.code.ts"
 import {
   eventsIn,
   heldFor,
@@ -7,7 +7,7 @@ import {
   judgedOf,
   reasonIn,
   type Valued,
-} from "akasha/agents/hooks/dispatch/hook-dispatch.module.code.ts"
+} from "akasha/agents/hooks/modules/dispatch/hook-dispatch.module.code.ts"
 
 const OVER_BASH = "made-up/hooks/over-bash/over-bash.agent-hook.ts"
 

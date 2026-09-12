@@ -11,7 +11,7 @@ import {
   toolInputIn,
   UNREADABLE,
   unreadable,
-} from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
+} from "akasha/agents/hooks/modules/answer/hook-answer.module.code.ts"
 
 const HOOK = "a-hook"
 

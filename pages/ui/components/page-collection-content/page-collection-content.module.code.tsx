@@ -21,7 +21,7 @@ import { PageDetailHeaderMenu } from "akasha/pages/ui/components/page-detail-hea
 import { PagesFilteredContent } from "akasha/pages/ui/components/pages-by-relation-content/pages-by-relation-content.module.code.tsx"
 import { PropertyBadge } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
 import { PagesUILink } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
-import { useAllPages } from "akasha/pages/ui/supabase/hooks/hooks.module.code.ts"
+import { useAllPages } from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { useResolvedDefinitions } from "akasha/pages/ui/supabase/use-option-list-lookup/use-option-list-lookup.module.code.ts"
 import { usePage } from "akasha/pages/ui/supabase/use-page/use-page.module.code.ts"
 import {

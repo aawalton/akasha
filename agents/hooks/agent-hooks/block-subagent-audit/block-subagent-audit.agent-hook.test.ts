@@ -6,7 +6,7 @@ import {
   SCOPE,
   underASubagent,
 } from "akasha/agents/hooks/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.code.ts"
-import { UNREADABLE } from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
+import { UNREADABLE } from "akasha/agents/hooks/modules/answer/hook-answer.module.code.ts"
 
 const SEAT = "01a064fd-036b-7000-b22b-8e4196630c07"
 

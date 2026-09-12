@@ -4,7 +4,7 @@ import {
   ASIDE,
   parseHookPayload,
   SCOPE_FLAG,
-} from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
+} from "akasha/agents/hooks/modules/answer/hook-answer.module.code.ts"
 import {
   READS_AT,
   SUBAGENT_MARK,

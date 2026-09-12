@@ -25,7 +25,7 @@ import {
 import {
   useInventory,
   usePriceExtract,
-} from "akasha/temper/player-inventory-management-ui/hooks-inventory/hooks-inventory.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.code.ts"
 import {
   type EffectivePricingRegion,
   type PricingRegionNoteKind,

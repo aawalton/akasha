@@ -8,7 +8,7 @@ import {
 } from "akasha/pages/core/schema/quick-add/quick-add.module.code.ts"
 import { resolveDefinitionOptions } from "akasha/pages/core/schema/resolve-select-options/resolve-select-options.module.code.ts"
 import { usePagesUIRouter } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
-import { useAllPages } from "akasha/pages/ui/supabase/hooks/hooks.module.code.ts"
+import { useAllPages } from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { useOptionListLookup } from "akasha/pages/ui/supabase/use-option-list-lookup/use-option-list-lookup.module.code.ts"
 import { useMemo } from "react"
 

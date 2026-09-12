@@ -14,7 +14,7 @@ import {
 import { PageReaderContent } from "akasha/pages/ui/components/page-reader-content/page-reader-content.module.code.tsx"
 import type { ReaderNeighborLink } from "akasha/pages/ui/components/reader-chrome/reader-chrome.module.code.tsx"
 import type { MediaVariant } from "akasha/pages/ui/media/page-media-player/page-media-player.module.code.tsx"
-import { useAllPages } from "akasha/pages/ui/supabase/hooks/hooks.module.code.ts"
+import { useAllPages } from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { usePage } from "akasha/pages/ui/supabase/use-page/use-page.module.code.ts"
 import { useRecordPageView } from "akasha/pages/ui/supabase/use-record-page-view/use-record-page-view.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
