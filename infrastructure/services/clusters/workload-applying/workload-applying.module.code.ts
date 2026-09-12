@@ -1,10 +1,12 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
 import {
+  answeredWith,
   DATA,
   OPERATIONAL,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { publishedFor } from "akasha/infrastructure/container-image/image-publishing/image-publishing.module.code.ts"
 import {
   CLUSTER_SERVICE_TYPE,
@@ -38,12 +40,6 @@ export interface Servable {
 }
 
 export type Read = { readonly servable: Servable } | { readonly refused: string }
-
-export interface Applied {
-  readonly report: readonly string[]
-  readonly refusals: readonly string[]
-  readonly code: number
-}
 
 export function servableNamed(root: string, slug: string): Read {
   const named = pathsNamed(root, CLUSTER_SERVICE_TYPE, slug)
@@ -108,7 +104,7 @@ export async function appliedWorkload(
   dryRun: boolean,
   codeAt: string,
   up: string[] = []
-): Promise<Applied> {
+): Promise<Answer> {
   const { servicePath, manifestPath, synthPath, workload } = servable
   const report: string[] = [
     `cluster-service\t${slug}\t${servicePath}`,
@@ -118,17 +114,15 @@ export async function appliedWorkload(
   ]
 
   const plan = await planFor(codeAt, workload, synthPath)
-  if (typeof plan === "string") return { report, refusals: [plan], code: DATA }
+  if (typeof plan === "string") return answeredWith(report, [plan], DATA)
 
   const left = unfilledOf(plan)
   if (left.length > 0) {
-    return {
+    return answeredWith(
       report,
-      refusals: left.map(
-        (one) => `${one}, and applying it would write the stand-in itself into the cluster`
-      ),
-      code: DATA,
-    }
+      left.map((one) => `${one}, and applying it would write the stand-in itself into the cluster`),
+      DATA
+    )
   }
 
   try {
@@ -143,13 +137,13 @@ export async function appliedWorkload(
     }
   } catch (thrown) {
     const why = thrown instanceof Error ? thrown.message : String(thrown)
-    return { report, refusals: [why], code: OPERATIONAL }
+    return answeredWith(report, [why], OPERATIONAL)
   }
 
   let differs = false
   for (const manifest of plan.manifests) {
     const applied = appliedOf(plan, manifest)
-    if ("why" in applied) return { report, refusals: [applied.why], code: OPERATIONAL }
+    if ("why" in applied) return answeredWith(report, [applied.why], OPERATIONAL)
     report.push(`manifest\t${manifest.path}\t${applied.stands ? "matches" : "differs"}`)
     if (!applied.stands) differs = true
   }
@@ -176,7 +170,7 @@ export async function appliedWorkload(
     }
     up.push(appliedSaid(one.argv))
   }
-  if (refusals.length > 0) return { report, refusals, code: OPERATIONAL }
+  if (refusals.length > 0) return answeredWith(report, refusals, OPERATIONAL)
 
   report.push(
     `up\t${workload.kind} ${workload.namespace}/${workload.name} runs as its page describes`
