@@ -36,6 +36,20 @@ export const sessionActing = {
       statement: "Every check that judges a write judges the rows landed here.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "What an act says is one report line whole, rather than one line to each line of it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An act saying nothing at all reports no line rather than one line holding nothing.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Neither difference shows on a terminal, where both read the same way.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here breaks the glass.",
     },
