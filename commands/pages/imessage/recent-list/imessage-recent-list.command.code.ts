@@ -3,7 +3,6 @@ import {
   CONTACT_SAID,
   countOf,
   JSON_SAID,
-  LIMIT_ALSO,
   LIMIT_SAID,
   messagesAnswered,
   namingIn,
@@ -35,7 +34,7 @@ export type Read = {
 }
 
 export function readIn(argv: readonly string[]): Reading<Read> {
-  const said = wordsIn(argv, VALUED, SWITCHES, LIMIT_ALSO)
+  const said = wordsIn(argv, VALUED, SWITCHES)
   if ("refused" in said) return said
   const refusals = [...flagsAloneIn(said)]
   const limit = countOf(said.named[LIMIT_SAID], LIMIT_SAID)

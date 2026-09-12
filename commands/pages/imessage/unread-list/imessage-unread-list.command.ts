@@ -12,7 +12,6 @@ export const imessageUnreadList = {
       takes: "hold the answer to the conversations of the one contact named",
     },
     { said: "--limit <n>", takes: "the most messages given back, all of them where none is said" },
-    { said: "--tail <n>", takes: "the same thing said the other way" },
     { said: "--json", takes: "give the messages as JSON rather than as tab-parted rows" },
   ],
   invariants: [

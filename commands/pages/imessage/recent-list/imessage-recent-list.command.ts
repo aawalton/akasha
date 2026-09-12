@@ -8,7 +8,6 @@ export const imessageRecentList = {
   code: "ts",
   taking: [
     { said: "--limit <n>", takes: "the most messages given back, twenty where none is said" },
-    { said: "--tail <n>", takes: "the same thing said the other way" },
     {
       said: "--contact <name-or-handle>",
       takes: "hold the answer to one contact, named in the address book or by number or address",

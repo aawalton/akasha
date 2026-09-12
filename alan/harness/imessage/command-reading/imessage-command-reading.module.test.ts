@@ -2,7 +2,6 @@ import { describe, expect, test } from "bun:test"
 import {
   countOf,
   JSON_SAID,
-  LIMIT_ALSO,
   LIMIT_SAID,
   messageLines,
   namingIn,
@@ -14,22 +13,13 @@ const VALUED = [LIMIT_SAID, "--contact"]
 
 const SWITCHES = [JSON_SAID]
 
-function said(argv: readonly string[]) {
-  const read = wordsIn(argv, VALUED, SWITCHES, LIMIT_ALSO)
-  if ("refused" in read) throw new Error(read.refused.join("; "))
-  return read
-}
-
 describe("wordsIn", () => {
   test("reads a value, a switch and a loose word", () => {
-    const read = said(["--contact", "mary", JSON_SAID, "sleep"])
+    const read = wordsIn(["--contact", "mary", JSON_SAID, "sleep"], VALUED, SWITCHES)
+    if ("refused" in read) throw new Error(read.refused.join("; "))
     expect(read.named["--contact"]).toBe("mary")
     expect(read.flags.has(JSON_SAID)).toBe(true)
     expect(read.loose).toEqual(["sleep"])
-  })
-
-  test("carries an alias to the flag it represents", () => {
-    expect(said(["--tail", "5"]).named[LIMIT_SAID]).toBe("5")
   })
 
   test("refuses a flag it does not take", () => {

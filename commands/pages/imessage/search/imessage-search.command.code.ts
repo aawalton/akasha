@@ -3,7 +3,6 @@ import {
   CONTACT_SAID,
   countOf,
   JSON_SAID,
-  LIMIT_ALSO,
   LIMIT_SAID,
   messagesAnswered,
   namingIn,
@@ -43,7 +42,7 @@ export type Read = {
 }
 
 export function readIn(argv: readonly string[], given: Given): Reading<Read> {
-  const said = wordsIn(argv, VALUED, SWITCHES, LIMIT_ALSO)
+  const said = wordsIn(argv, VALUED, SWITCHES)
   if ("refused" in said) return said
   const refusals: string[] = []
   const word = wordFilling(said, QUERY.said, WANTS)

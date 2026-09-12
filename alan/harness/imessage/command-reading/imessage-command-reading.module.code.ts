@@ -26,11 +26,7 @@ export const CONTACT_SAID = "--contact"
 
 export const LIMIT_SAID = "--limit"
 
-export const TAIL_SAID = "--tail"
-
 export const PIPED_SAID = "-"
-
-export const LIMIT_ALSO: Readonly<Record<string, string>> = { [TAIL_SAID]: LIMIT_SAID }
 
 const TRAILING_LINES = /(?:\r?\n)+$/
 
