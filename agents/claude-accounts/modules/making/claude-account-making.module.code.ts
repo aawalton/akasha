@@ -59,7 +59,7 @@ export function accountsAtFor(page: string, slug: string): string {
   return holding.slice(0, own)
 }
 
-export function accountsAtIn(given: string | Reading): string {
+function accountsAtIn(given: string | Reading): string {
   const first = everyAccountIn(given)[0]
   if (first === undefined) {
     throw new Error(
@@ -74,7 +74,7 @@ export function accountPageAt(accountsAt: string, slug: string): string {
   return `${accountsAt}/${slug}/${slug}.${PAGE_TYPE_SLUG}.ts`
 }
 
-export function accountPagePathIn(given: string | Reading, slug: string): string {
+function accountPagePathIn(given: string | Reading, slug: string): string {
   return accountPageAt(accountsAtIn(given), slug)
 }
 

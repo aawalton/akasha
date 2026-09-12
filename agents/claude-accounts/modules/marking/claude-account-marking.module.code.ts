@@ -122,7 +122,7 @@ export function unfitFor(key: string, value: Mark): string | null {
   return null
 }
 
-export function fieldsFrom(key: string, held: unknown): Fields | string {
+function fieldsFrom(key: string, held: unknown): Fields | string {
   if (held === null || typeof held !== "object" || Array.isArray(held)) {
     return `\`${key}\` carries what is no text, no finite number, no record and no removal`
   }

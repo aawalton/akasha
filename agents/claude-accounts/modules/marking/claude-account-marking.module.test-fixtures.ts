@@ -28,17 +28,17 @@ import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 
-export const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
+const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
 
-export const ABOVE_TYPE = "01a049b9-856c-7090-bd14-5a916f574259"
+const ABOVE_TYPE = "01a049b9-856c-7090-bd14-5a916f574259"
 
-export const TYPE_AT = "akasha/agents/claude-accounts/claude-account.page-type.ts"
+const TYPE_AT = "akasha/agents/claude-accounts/claude-account.page-type.ts"
 
-export const ABOVE_AT = "akasha/pages-system/pages/page.page-type.ts"
+const ABOVE_AT = "akasha/pages-system/pages/page.page-type.ts"
 
-export const PAGES_AT = "akasha/agents/claude-accounts/pages"
+const PAGES_AT = "akasha/agents/claude-accounts/pages"
 
-export const PROPERTY_TYPE = "text-property"
+const PROPERTY_TYPE = "text-property"
 
 export const RESETS_AT = "2026-09-05T00:00:00.000Z"
 
@@ -155,7 +155,7 @@ export const NO_FIELD: readonly (readonly [unknown, string])[] = [
   [JSON.parse('{"__proto__":"x","one":"y"}'), "which no record holds"],
 ]
 
-export function carriedOf(key: string, said: Partial<Carried> = {}): Carried {
+function carriedOf(key: string, said: Partial<Carried> = {}): Carried {
   return {
     pagePropertySlug: key,
     pageTypeSlug: PROPERTY_TYPE,
@@ -177,7 +177,7 @@ export function bodied(name: string, held: unknown): string {
   return `export const ${name} = ${JSON.stringify(held, null, 2)} as const\n`
 }
 
-export function typeWritten(
+function typeWritten(
   root: string,
   id: string,
   slug: string,
@@ -238,7 +238,7 @@ function idFor(slug: string): string {
   return `01a06351-0000-7000-8000-00000000000${slug.length}`
 }
 
-export function accountWritten(
+function accountWritten(
   root: string,
   slug: string,
   beside: Record<string, unknown> | null
