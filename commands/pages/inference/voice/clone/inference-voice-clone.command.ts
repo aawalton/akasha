@@ -9,16 +9,10 @@ export const inferenceVoiceClone = {
   taking: [
     { said: "--text <utterance>", takes: "what is spoken in the cloned voice" },
     { said: "--text-file <path>", takes: "that text read from a path, or `-` for standard input" },
-    { said: "--ref-audio <path.wav>", takes: "the clip the voice is taken from" },
     { said: "--ref-text <transcript>", takes: "what that clip says" },
     {
       said: "--ref-text-file <path>",
       takes: "that transcript read from a path, or `-` for standard input",
-    },
-    { said: "--priority <lane>", takes: "which lane of the traffic cop the request waits in" },
-    {
-      said: "--mode <how>",
-      takes: "whether the clip is the voice to match or a tail to carry on from",
     },
   ],
   invariants: [
@@ -53,5 +47,8 @@ export const inferenceVoiceClone = {
     { argument: "argument/output" },
     { argument: "argument/timeout" },
     { argument: "argument/no-persist" },
+    { argument: "argument/ref-audio" },
+    { argument: "argument/priority" },
+    { argument: "argument/mode" },
   ],
 } as const satisfies Command
