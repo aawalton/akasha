@@ -101,6 +101,10 @@ export const pageEntryLanding = {
       statement: "Nothing here reads the index.",
     },
     {
+      invariantKind: "departure",
+      statement: "A caller wanting the files written here claimed files them itself.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here commits.",
     },

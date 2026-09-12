@@ -65,6 +65,10 @@ export const pageEntryQueue = {
       statement: "Nothing here reads the index.",
     },
     {
+      invariantKind: "departure",
+      statement: "A caller wanting the file this opens claimed files the path `at` answers.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here commits.",
     },
