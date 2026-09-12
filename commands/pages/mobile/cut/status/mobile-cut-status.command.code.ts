@@ -13,47 +13,32 @@ import {
   resolveRepoRoot,
 } from "akasha/alan/harness/mobile-cli/git-tree-hash/git-tree-hash.module.code.ts"
 import type { MobileApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
-import { shellRepoRoot } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+import {
+  appIn,
+  shellRepoRoot,
+} from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import { simRunSharedRepoPaths } from "akasha/alan/harness/mobile-cli/sim-run-tree/sim-run-tree.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { app } from "akasha/commands/arguments/pages/app.argument.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import {
   answering,
   asJson,
-  flagsAloneIn,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import {
-  APP_SAID,
-  appIn,
-  JSON_SAID,
-  keyedLines,
-  type Reading,
-  wordsIn,
-} from "akasha/commands/pages/mobile/mobile-answering/mobile-answering.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mobileCutStatus as page } from "akasha/commands/pages/mobile/cut/status/mobile-cut-status.command.ts"
+import { keyedLines } from "akasha/commands/pages/mobile/mobile-answering/mobile-answering.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 
 const MAIN = "origin/main"
 
 const SHORT_SHA = 12
 
-const VALUED = [APP_SAID]
-
-const SWITCHES = [JSON_SAID]
-
 export type Read = {
   readonly app: MobileApp
   readonly json: boolean
-}
-
-export function readIn(argv: readonly string[]): Reading<Read> {
-  const said = wordsIn(argv, VALUED, SWITCHES)
-  if ("refused" in said) return said
-  const loose = flagsAloneIn(said)
-  if (loose.length > 0) return { refused: loose }
-  const app = appIn(said)
-  if ("refused" in app) return app
-  return { app, json: said.flags.has(JSON_SAID) }
 }
 
 export type Comparing = (done: string[], read: Read) => Promise<Answer>
@@ -131,9 +116,13 @@ async function compared(done: string[], read: Read): Promise<Answer> {
 
 export async function mobileCutStatus(
   argv: readonly string[],
+  given: Given,
   comparing: Comparing = compared
 ): Promise<Answer> {
-  const read = readIn(argv)
-  if ("refused" in read) return refusedBy(read.refused)
+  const said = takenFor(argv, given.calledAs, page, [json, app])
+  if ("refused" in said) return refusedBy(said.refused)
+  const held = appIn(said.taken.app)
+  if ("refused" in held) return refusedBy(held.refused)
+  const read: Read = { app: held, json: said.taken.json }
   return await answering(async (done) => await comparing(done, read))
 }

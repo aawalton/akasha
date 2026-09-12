@@ -4,6 +4,7 @@ import {
   resolveAppId,
 } from "akasha/alan/harness/mobile-cli/asc-client/asc-client.module.code.ts"
 import type { MobileApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+import { appIn } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import {
   classifyProcessingState,
   describeProcessingFailure,
@@ -12,26 +13,17 @@ import {
   pollBuildUntilTerminal,
   processingFailureFor,
 } from "akasha/alan/harness/mobile-cli/testflight-poll/testflight-poll.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { app } from "akasha/commands/arguments/pages/app.argument.ts"
+import { wait } from "akasha/commands/arguments/pages/wait.argument.ts"
 import {
   answering,
-  flagsAloneIn,
   OPERATIONAL,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import {
-  APP_SAID,
-  appIn,
-  type Reading,
-  wordsIn,
-} from "akasha/commands/pages/mobile/mobile-answering/mobile-answering.module.code.ts"
-
-const WAIT = "--wait"
-
-const VALUED = [APP_SAID]
-
-const SWITCHES = [WAIT]
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mobileTestflightStatus as page } from "akasha/commands/pages/mobile/testflight-status/mobile-testflight-status.command.ts"
 
 const A_SECOND = 1_000
 
@@ -40,16 +32,6 @@ const A_MINUTE = 60_000
 export type Read = {
   readonly app: MobileApp
   readonly wait: boolean
-}
-
-export function readIn(argv: readonly string[]): Reading<Read> {
-  const said = wordsIn(argv, VALUED, SWITCHES)
-  if ("refused" in said) return said
-  const loose = flagsAloneIn(said)
-  if (loose.length > 0) return { refused: loose }
-  const app = appIn(said)
-  if ("refused" in app) return app
-  return { app, wait: said.flags.has(WAIT) }
 }
 
 async function waited(read: Read, appId: string, jwt: () => Promise<string>): Promise<Answer> {
@@ -104,12 +86,19 @@ async function stated(read: Read): Promise<Answer> {
     return told([`valid\tbuild ${build.version} is ready to install`])
   }
   return told([
-    `processing\tbuild ${build.version} is ${build.processingState}, and \`${WAIT}\` holds until it is not`,
+    `processing\tbuild ${build.version} is ${build.processingState}, ` +
+      `and \`${wait.said}\` holds until it is not`,
   ])
 }
 
-export async function mobileTestflightStatus(argv: readonly string[]): Promise<Answer> {
-  const read = readIn(argv)
-  if ("refused" in read) return refusedBy(read.refused)
+export async function mobileTestflightStatus(
+  argv: readonly string[],
+  given: Given
+): Promise<Answer> {
+  const said = takenFor(argv, given.calledAs, page, [app, wait])
+  if ("refused" in said) return refusedBy(said.refused)
+  const held = appIn(said.taken.app)
+  if ("refused" in held) return refusedBy(held.refused)
+  const read: Read = { app: held, wait: said.taken.wait }
   return await answering(async () => await stated(read))
 }
