@@ -22,6 +22,10 @@ export const commandWalking = {
     },
     {
       invariantKind: "departure",
+      statement: "A level under another page type than the one looked under ends the walk too.",
+    },
+    {
+      invariantKind: "departure",
       statement: "What a level states as its name is handed in rather than read here.",
     },
     {

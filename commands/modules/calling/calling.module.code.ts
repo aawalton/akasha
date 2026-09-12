@@ -303,11 +303,7 @@ function helping(root: string, outside: Outside): Answer {
 }
 
 function levelNamed(root: string): Naming {
-  return (path, slug) => {
-    const page = pageIn(root, path, slug)
-    const said = page === null ? null : page[NAME]
-    return typeof said === "string" ? said : null
-  }
+  return (slug) => levelAt(root, slug)?.name ?? null
 }
 
 function walkedIn(root: string, argv: readonly string[]): Reached | null {
@@ -323,8 +319,12 @@ function namedIn(root: string, every: readonly string[]): readonly string[] {
   return type === null ? every : [...every, ...slugsOfType(root, type)]
 }
 
-function levelOfPart(root: string, part: string): Held | null {
-  const slug = slugOfPart(part)
+type Level = {
+  readonly name: string | null
+  readonly said: string | null
+}
+
+function levelAt(root: string, slug: string): Level | null {
   for (const type of [commandSlugIn(root), namespaceSlugIn(root)]) {
     if (type === null) continue
     const found = listedAt(root, type, slug)
@@ -332,9 +332,15 @@ function levelOfPart(root: string, part: string): Held | null {
     if (found.length !== 1 || one === undefined) continue
     const page = pageIn(root, one.path, slug)
     const named = page === null ? null : page[NAME]
-    return { named: typeof named === "string" ? named : slug, said: definitionOf(page) }
+    return { name: typeof named === "string" ? named : null, said: definitionOf(page) }
   }
   return null
+}
+
+function levelOfPart(root: string, part: string): Held | null {
+  const slug = slugOfPart(part)
+  const one = levelAt(root, slug)
+  return one === null ? null : { named: one.name ?? slug, said: one.said }
 }
 
 function listedUnder(
