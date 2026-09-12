@@ -27,5 +27,6 @@ export const athenaCommandsCleanup = {
     "Alan's aliases derive every call from the command page and the editor extension spells none, so a rename costs that command's own folder and one line of its parent's parts.",
     "A large mechanical landing arrives by holding fewer paths and putting fewer commands between draft and apply, rather than by waiting for the swarm to go quiet.",
     "A body branch a page key replaces is residue of three kinds: behavioural, reachable from code but not from a call, or load-bearing for a type. The third reads deadest and will not compile.",
+    "A page invariant that reads like a group rule often means the opposite, so the refusal is confirmed in the code before a page key is landed.",
   ],
 } as const satisfies Initiative

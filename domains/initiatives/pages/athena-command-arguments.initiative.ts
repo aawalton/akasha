@@ -16,7 +16,7 @@ export const athenaCommandArguments = {
     {
       statement: "A command names the arguments it takes and narrows each.",
       workingMemory:
-        "Six keys: `argument`, `required`, `saidAs`, `notWith`, `repeats`, `oneOf`; `default` sits on the argument page. Of 74 pages naming every argument bare, 1 was understated, and where a page feeds `takenFor` a gap cannot drift in, since the page is the enforcement. Three shapes no page states, all Alan's: ordered pairing of `--file-path` with the `--content-file` after it; a default one command has and another does not; an argument refused rather than taken, as `read --seat` is.\n",
+        "Six keys: `argument`, `required`, `saidAs`, `notWith`, `repeats`, `oneOf`; `default` sits on the argument page. Of 74 bare pages 1 understated its code, and where a page feeds `takenFor` the page is the enforcement. Four shapes no page states, all Alan's: `--content-file` read against the `--file-path` before it; a group required only when another is said, as `--ref-audio` wants a transcript; a default one command has and another lacks; an argument refused rather than taken, as `read --seat`.\n",
     },
     {
       statement:
