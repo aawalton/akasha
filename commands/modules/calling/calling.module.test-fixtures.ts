@@ -51,6 +51,18 @@ export const ANSWERS_LATER = `export async function held(argv, given) {
 
 export const OUTSIDE = { calledAs: "akasha", from: "/nowhere", writer: null, agentId: null }
 
+export const TYPED = "Typed"
+
+export type Ruled = readonly Record<string, unknown>[]
+
+export function ruleNamed(name: string): Record<string, unknown> {
+  return { directiveKind: "rule", name, act: `Act ${name}.`, warrant: `Because ${name}.`, aids: [] }
+}
+
+export function ruleWritten(name: string): string {
+  return `${name}: Act ${name}.\nBecause ${name}.`
+}
+
 const scratch = scratchWorld()
 
 export const sweep = scratch.sweep
@@ -64,6 +76,7 @@ export type Named = {
   readonly parts?: readonly string[]
   readonly surface?: Surface
   readonly taking?: Surface["taking"]
+  readonly directives?: Ruled
 }
 
 export function rootWith(
@@ -80,7 +93,8 @@ export function rootWith(
   writeFileSync(
     join(root, typeAt),
     `export const ${exportedAs(typeSlug)} = ` +
-      `{ slug: "${typeSlug}", parts: ${JSON.stringify(rooted)} }\n`
+      `{ slug: "${typeSlug}", parts: ${JSON.stringify(rooted)}` +
+      `, directives: ${JSON.stringify([ruleNamed(TYPED)])} }\n`
   )
   let minted = 0
   for (const one of named) {
@@ -93,10 +107,12 @@ export function rootWith(
     const shown =
       one.surface === undefined ? taken : `, taking: ${JSON.stringify(one.surface.taking)}`
     const parted = one.parts === undefined ? "" : `, parts: ${JSON.stringify(one.parts)}`
+    const ruled =
+      one.directives === undefined ? "" : `, directives: ${JSON.stringify(one.directives)}`
     writeFileSync(
       join(root, at),
       `export const ${exportedAs(one.slug)} = ` +
-        `{ slug: "${one.slug}"${called}${stated}${shown}${parted} }\n`
+        `{ slug: "${one.slug}"${called}${stated}${shown}${parted}${ruled} }\n`
     )
     writeFileSync(join(root, `${at.slice(0, -".ts".length)}.code.ts`), one.body)
     minted = minted + 1
@@ -117,6 +133,7 @@ export function rootWith(
           name: one.name,
           definition: one.definition,
           parts: one.parts,
+          directives: one.directives,
         },
       }))
     )
@@ -133,6 +150,7 @@ export type Under = {
   readonly name?: string
   readonly definition?: string
   readonly parts: readonly string[]
+  readonly directives?: Ruled
 }
 
 export function namespacesIn(root: string, named: readonly Under[]): undefined {
@@ -147,10 +165,12 @@ export function namespacesIn(root: string, named: readonly Under[]): undefined {
     const stated =
       one.definition === undefined ? "" : `, definition: ${JSON.stringify(one.definition)}`
     const called = one.name === undefined ? "" : `, name: ${JSON.stringify(one.name)}`
+    const ruled =
+      one.directives === undefined ? "" : `, directives: ${JSON.stringify(one.directives)}`
     writeFileSync(
       join(root, at),
       `export const ${exportedAs(one.slug)} = { slug: "${one.slug}"${called}${stated}` +
-        `, parts: ${JSON.stringify(one.parts)} }\n`
+        `, parts: ${JSON.stringify(one.parts)}${ruled} }\n`
     )
     minted = minted + 1
     const id = `01a06c7c-0000-7000-8000-00000000000${minted}`
@@ -165,10 +185,37 @@ export function namespacesIn(root: string, named: readonly Under[]): undefined {
           name: one.name,
           definition: one.definition,
           parts: one.parts,
+          directives: one.directives,
         },
       },
     ])
   }
+}
+
+export function ruledRoot(): string {
+  const root = rootWith(
+    [{ slug: "a-b-c", body: ANSWERS, name: "c", taking: [], directives: [ruleNamed("Own")] }],
+    COMMAND,
+    ["namespace/a"]
+  )
+  namespacesIn(root, [
+    { slug: "a", name: "a", parts: ["namespace/a-b"], directives: [ruleNamed("Wide")] },
+    { slug: "a-b", name: "b", parts: ["command/a-b-c"], directives: [ruleNamed("Near")] },
+  ])
+  return root
+}
+
+export function draftUnderChange(): string {
+  const root = rootWith([{ slug: "change-draft", body: ANSWERS, name: "draft" }])
+  namespacesIn(root, [
+    {
+      slug: "change",
+      name: "change",
+      definition: "what a landing carries",
+      parts: ["command/change-draft"],
+    },
+  ])
+  return root
 }
 
 export function bootstrapped(root: string): undefined {

@@ -10,11 +10,16 @@ import {
   bootstrapped,
   COMMAND,
   COMMAND_TYPE,
+  draftUnderChange,
   namespacesIn,
   OUTSIDE,
   rootWith,
+  ruledRoot,
+  ruleNamed,
+  ruleWritten,
   sweep,
   THROWS_NO_ERROR,
+  TYPED,
   WILL_NOT_LOAD,
 } from "akasha/commands/modules/calling/calling.module.test-fixtures.ts"
 import { idTakenFrom } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
@@ -214,6 +219,26 @@ test("a command reached under a namespace is answered rather than the namespace"
   expect(said.report[1]).toBe("akasha track session open")
 })
 
+test("a help answer carries what every namespace above states, widest first, its own last", async () => {
+  const said = await calling(["a", "b", "c", HELP], { ...OUTSIDE, root: ruledRoot() })
+  expect(said.code).toBe(0)
+  expect(said.report.filter((one) => one !== "")).toEqual([
+    "akasha a b c",
+    ruleWritten("Wide"),
+    ruleWritten("Near"),
+    ruleWritten("Own"),
+  ])
+})
+
+test("no directive the page type saying what a command is states reaches a help answer", async () => {
+  const root = rootWith([
+    { slug: "held", body: ANSWERS, taking: [], directives: [ruleNamed("Own")] },
+  ])
+  const said = await calling(["held", HELP], { ...OUTSIDE, root })
+  expect(said.report).toContain(ruleWritten("Own"))
+  expect(said.report).not.toContain(ruleWritten(TYPED))
+})
+
 test("a command reached in one hyphenated word keeps that hyphen in the call", async () => {
   const root = rootWith([{ slug: "work-tree", body: ANSWERS }])
   const said = await calling(["work-tree", "one"], { ...OUTSIDE, root })
@@ -304,45 +329,18 @@ test("the commands there are come from the index", () => {
 })
 
 test("a command under a namespace is named by the call reaching it", () => {
-  const root = rootWith([{ slug: "change-draft", body: ANSWERS, name: "draft" }])
-  namespacesIn(root, [
-    {
-      slug: "change",
-      name: "change",
-      definition: "what a landing carries",
-      parts: ["command/change-draft"],
-    },
-  ])
-  expect(commandsIn(root)).toEqual(["change draft"])
+  expect(commandsIn(draftUnderChange())).toEqual(["change draft"])
 })
 
 test("the commands a refusal lists are the calls reaching them", async () => {
-  const root = rootWith([{ slug: "change-draft", body: ANSWERS, name: "draft" }])
-  namespacesIn(root, [
-    {
-      slug: "change",
-      name: "change",
-      definition: "what a landing carries",
-      parts: ["command/change-draft"],
-    },
-  ])
-  const said = await calling(["nowhere"], { ...OUTSIDE, root })
+  const said = await calling(["nowhere"], { ...OUTSIDE, root: draftUnderChange() })
   expect(said.code).toBe(INPUT)
   expect(said.refusals[0]).toContain("  akasha change draft")
   expect(said.refusals[0]).not.toContain("akasha change-draft")
 })
 
 test("a name near a command's is pointed at as the call reaching that command", async () => {
-  const root = rootWith([{ slug: "change-draft", body: ANSWERS, name: "draft" }])
-  namespacesIn(root, [
-    {
-      slug: "change",
-      name: "change",
-      definition: "what a landing carries",
-      parts: ["command/change-draft"],
-    },
-  ])
-  const said = await calling(["change-draf"], { ...OUTSIDE, root })
+  const said = await calling(["change-draf"], { ...OUTSIDE, root: draftUnderChange() })
   expect(said.code).toBe(INPUT)
   expect(said.refusals[0]).toContain("Did you mean `change draft`?")
 })
