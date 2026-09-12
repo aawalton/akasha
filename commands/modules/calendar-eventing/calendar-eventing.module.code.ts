@@ -7,7 +7,10 @@ import {
   narrowSendUpdates,
   SEND_UPDATES,
 } from "akasha/alan/google/calendar/send-updates-narrowing/send-updates-narrowing.module.code.ts"
-import { answering, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  answering,
+  asIndentedJson,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
@@ -106,5 +109,5 @@ export async function eventsIn() {
 }
 
 export function answeredAsJson(work: (done: string[]) => Promise<unknown>): Promise<Answer> {
-  return answering(async (done) => told(JSON.stringify(await work(done), null, 2).split("\n")))
+  return answering(async (done) => asIndentedJson(await work(done)))
 }
