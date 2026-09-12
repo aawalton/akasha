@@ -71,10 +71,10 @@ log "Putting the credentials into ${CREDS_PAGE}"
 # The value is piped in, so it is enciphered before it reaches disk and never
 # written anywhere in the clear. What names the Secret, its namespace, its type
 # and its labels is the workflow step placing the page, not this script.
-if ! printf '%s' "$(< "$CREDS_FILE")" | (cd "$AKASHA_ROOT" && akasha page-secret-set \
+if ! printf '%s' "$(< "$CREDS_FILE")" | (cd "$AKASHA_ROOT" && akasha page secret set \
   --file-path "$CREDS_PAGE" --key value \
   --message "put the ${TUNNEL_NAME} tunnel's credentials into the page holding them"); then
-  die "akasha page-secret-set refused the credentials — the tunnel is created but unheld"
+  die "akasha page secret set refused the credentials — the tunnel is created but unheld"
 fi
 ok "Credentials held by ${CREDS_PAGE}"
 
@@ -88,6 +88,6 @@ ok "  Tunnel '${TUNNEL_NAME}' (${tunnel_id}) bootstrapped!"
 ok "================================================================"
 echo ""
 log "Next steps:"
-echo "  1. The credentials are committed already — page-secret-set landed them."
+echo "  1. The credentials are committed already — akasha page secret set landed them."
 echo "  2. Commit the tunnel id:  git add ${TUNNEL_CONFIG} && git commit -m 'Bootstrap cloudflared tunnel'"
 echo "  3. Push:                  git push (CI will place the secret, apply the configmap and sync DNS)"
