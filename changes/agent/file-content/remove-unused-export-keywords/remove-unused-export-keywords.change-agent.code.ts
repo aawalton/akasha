@@ -1,3 +1,4 @@
+import { droppableIn } from "akasha/changes/mechanical/file-content/remove/remove-export-keyword/remove-export-keyword.change-mechanical-file-content.code.ts"
 import {
   gathered,
   missing,
@@ -26,7 +27,8 @@ function surplusIn(world: World, pageTypes: ReadonlySet<string>, path: string): 
     world.index.importersOf(path),
     world.textOf
   )
-  return found.filter((one) => one.named).map((one) => one.name)
+  const named = found.filter((one) => one.named).map((one) => one.name)
+  return droppableIn(path, text, named)
 }
 
 export async function removeUnusedExportKeywords(world: World, most: number): Promise<Answer> {

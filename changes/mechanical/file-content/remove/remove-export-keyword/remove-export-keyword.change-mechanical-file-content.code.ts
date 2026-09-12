@@ -27,8 +27,8 @@ function declaredBy(statement: ts.Statement): readonly string[] {
     for (const one of statement.declarationList.declarations) namesOf(one.name, found)
     return found
   }
-  if (ts.isFunctionDeclaration(statement) && statement.name !== undefined) {
-    found.push(statement.name.text)
+  if (ts.isFunctionDeclaration(statement) || ts.isClassDeclaration(statement)) {
+    if (statement.name !== undefined) found.push(statement.name.text)
   }
   return found
 }
@@ -51,26 +51,44 @@ export type Asked = {
   readonly names: readonly string[]
 }
 
-export function removeExportKeyword(path: string, text: string, given: Asked): Said {
-  const wanted = new Set(given.names)
+type Dropping = {
+  readonly names: readonly string[]
+  readonly splices: readonly Splice[]
+}
+
+function droppedIn(path: string, text: string, wanted: ReadonlySet<string>): Dropping {
   const source = parsedAs(path, text)
   const splices: Splice[] = []
-  const dropped = new Set<string>()
+  const names: string[] = []
   for (const statement of source.statements) {
     const keyword = keywordIn(statement)
     if (keyword === null) continue
     const declared = declaredBy(statement)
     if (declared.length === 0) continue
     if (!declared.every((one) => wanted.has(one))) continue
-    for (const one of declared) dropped.add(one)
+    for (const one of declared) names.push(one)
     splices.push({ from: keyword.getStart(source), to: pastSpace(text, keyword.getEnd()), put: "" })
   }
+  return { names, splices }
+}
+
+export function droppableIn(
+  path: string,
+  text: string,
+  names: readonly string[]
+): readonly string[] {
+  return droppedIn(path, text, new Set(names)).names
+}
+
+export function removeExportKeyword(path: string, text: string, given: Asked): Said {
+  const found = droppedIn(path, text, new Set(given.names))
+  const dropped = new Set(found.names)
   const left = given.names.filter((one) => !dropped.has(one))
   if (left.length > 0) {
     const named = left.map((one) => `\`${one}\``).join(", ")
     return refusing(`${path} declares ${named} in a form this change drops no \`export\` from`)
   }
-  return stating(splicing(path, text, splices))
+  return stating(splicing(path, text, found.splices))
 }
 
 export type Given = {

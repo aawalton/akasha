@@ -27,6 +27,10 @@ export const removeExportKeyword = {
       invariantKind: "departure",
       statement: "The space after the keyword goes with the keyword.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Which names handed in this change reaches is answered without changing anything.",
+    },
   ],
   changeKind: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent
