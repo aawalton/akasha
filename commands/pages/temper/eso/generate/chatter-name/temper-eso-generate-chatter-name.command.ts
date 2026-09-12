@@ -7,6 +7,7 @@ export const temperEsoGenerateChatterName = {
   definition:
     "the command writing the chatter and interaction name registry the quests addon reads",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -49,6 +50,14 @@ export const temperEsoGenerateChatterName = {
     {
       invariantKind: "gap",
       statement: "The rendering of the registry is in akasha.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that wrote before it threw says in its refusal what that run had written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A fault carries the code that fault names and says where it was thrown.",
     },
   ],
   name: "chatter-name",

@@ -3,7 +3,9 @@ import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
+  answering,
   DATA,
+  keeping,
   OK,
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -26,10 +28,9 @@ const PUT = "change-mechanical/add-file-code"
 
 const MESSAGE = "the chatter and interaction name registry, read out of the emitted declarations"
 
-export async function temperEsoGenerateChatterName(
-  argv: readonly string[],
-  given: Given
-): Promise<Answer> {
+export type Generating = (done: string[], argv: readonly string[], given: Given) => Promise<Answer>
+
+async function generated(done: string[], argv: readonly string[], given: Given): Promise<Answer> {
   const named = saidFor(argv, CODE_ROOT_FLAG)
 
   let root: string
@@ -81,14 +82,22 @@ export async function temperEsoGenerateChatterName(
   const landed = await runMechanicalChange(
     root,
     [{ at: PUT, given: { at: OUT_REL, body: registry.text } }],
-    MESSAGE
+    MESSAGE,
+    null,
+    { done }
   )
   if ("refusals" in landed) {
-    return refused(
-      `the registry was not landed into ${outPath} — ${landed.refusals.join("; ")}`,
-      OPERATIONAL
-    )
+    const why = `the registry was not landed into ${outPath} — ${landed.refusals.join("; ")}`
+    return keeping(done, refused(why, OPERATIONAL))
   }
 
   return answeredWith([`wrote ${many} into ${outPath}`, `read from ${sourcePath}`], [], OK)
+}
+
+export async function temperEsoGenerateChatterName(
+  argv: readonly string[],
+  given: Given,
+  generating: Generating = generated
+): Promise<Answer> {
+  return await answering(async (done) => await generating(done, argv, given))
 }
