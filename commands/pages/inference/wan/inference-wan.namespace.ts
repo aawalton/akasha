@@ -10,7 +10,6 @@ export const inferenceWan = {
     "command/inference-wan-frame",
     "command/inference-wan-generate",
     "command/inference-wan-score",
-    "module/flag-arguing",
     "module/wan-arguing",
     "module/wan-clip-rendering",
     "module/wan-hosting",

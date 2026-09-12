@@ -7,7 +7,7 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import type { Shape } from "akasha/commands/pages/inference/wan/flag-arguing/flag-arguing.module.code.ts"
+import type { Shape } from "akasha/commands/pages/inference/flag-arguing/flag-arguing.module.code.ts"
 import type {
   Taken,
   Taking,

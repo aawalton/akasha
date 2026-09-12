@@ -10,7 +10,7 @@ import {
   type Shape,
   textIn,
   wholeIn,
-} from "akasha/commands/pages/inference/wan/flag-arguing/flag-arguing.module.code.ts"
+} from "akasha/commands/pages/inference/flag-arguing/flag-arguing.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()

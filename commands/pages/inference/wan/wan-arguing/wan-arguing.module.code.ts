@@ -7,7 +7,7 @@ import {
   type Shape,
   textIn,
   wholeIn,
-} from "akasha/commands/pages/inference/wan/flag-arguing/flag-arguing.module.code.ts"
+} from "akasha/commands/pages/inference/flag-arguing/flag-arguing.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 const WHOLE = new Set([
