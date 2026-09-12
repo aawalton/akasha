@@ -105,12 +105,24 @@ export const serviceWorkstation = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A running workstation service is started again by the deploy that moved its kind's tree.",
+      statement: "A running workstation service takes the commit its tree sat at as it started.",
     },
     {
       invariantKind: "departure",
-      statement: "A service's own closure settles whether that deploy starts the service again.",
+      statement:
+        "A service that finds the tree moved leaves at a point that service itself calls safe.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A service leaves on the one exit systemd is told means start me again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A service reaching no safe point goes on running the code it loaded.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A workstation service is killed for code that moved by nothing.",
     },
     {
       invariantKind: "departure",

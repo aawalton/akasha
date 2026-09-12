@@ -8,8 +8,6 @@ import {
   fieldsIn,
   installedText,
   landedOver,
-  reachedFor,
-  type Standing,
   startingIn,
   startsAgainFor,
   stilled,
@@ -21,11 +19,9 @@ import {
 } from "akasha/commands/modules/unit-landing/unit-landing.module.code.ts"
 import {
   homeWith,
-  keeping,
   nothingWeighed,
   oneDrift,
   PAGE,
-  REACHES,
   RELOADED,
   rooted,
   STARTED,
@@ -41,12 +37,9 @@ import {
   type Ran,
   stagingDir,
 } from "akasha/infrastructure/services/workstations/service-installing/service-installing.module.code.ts"
-import { everyService } from "akasha/infrastructure/services/workstations/service-reading/service-reading.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 
 afterAll(sweep)
-
-const UNREACHED = "node:fs"
 
 const NO_COMMIT = "0000000000000000000000000000000000000000"
 
@@ -57,17 +50,11 @@ function installedHere(): Weighing {
   return weighedOnce
 }
 
-function runningCode(weighed: Weighing): Standing {
-  const one = weighed.standings.find((each) => each.files.length > 0)
-  if (one === undefined) throw new Error("no workstation service runs a file of this repository")
-  return one
-}
-
 test("a unit already as its page states it is written by nothing and asks systemd nothing", () => {
   const home = homeWith({ [UNIT]: WAS })
   const { calls, run } = taking()
 
-  expect(landedOver(nothingWeighed(), home, run, new Map(), keeping())).toEqual({
+  expect(landedOver(nothingWeighed(), home, run)).toEqual({
     said: [],
     wrong: [],
   })
@@ -80,7 +67,7 @@ test("a unit whose text drifted is written and systemd is told to read it again"
   const now = without(WAS, "Description=A thing", "Description=Another thing")
   const { calls, run } = taking()
 
-  const said = landedOver(oneDrift(UNIT, now), home, run, new Map(), keeping())
+  const said = landedOver(oneDrift(UNIT, now), home, run)
 
   expect(said.wrong).toEqual([])
   expect(said.said).toEqual([
@@ -97,7 +84,7 @@ test("a changed ExecStart starts the service again and names the field that did 
   const startsFor = startsAgainFor(UNIT, WAS, now, true, false)
   const { calls, run } = taking()
 
-  const said = landedOver(oneDrift(UNIT, now, startsFor), home, run, new Map(), keeping())
+  const said = landedOver(oneDrift(UNIT, now, startsFor), home, run)
 
   expect(startsFor).toEqual(["ExecStart"])
   expect(said.wrong).toEqual([])
@@ -178,7 +165,7 @@ test("systemd that cannot be reached is said as wrong and starts nothing again",
     throw new Error("Failed to connect to bus: No medium found")
   }
 
-  const said = landedOver(oneDrift(UNIT, now, ["ExecStart"]), home, run, new Map(), keeping())
+  const said = landedOver(oneDrift(UNIT, now, ["ExecStart"]), home, run)
 
   expect(said.said).toEqual([`wrote ${UNIT} as ${PAGE} states it`])
   expect(said.wrong.join("")).toContain("Failed to connect to bus")
@@ -193,7 +180,7 @@ test("a restart that refuses is said as wrong and the rest are still asked for",
     { unit: TIMER, page: PAGE, text: without(TICKS, "hourly", "daily"), startsFor: ["OnCalendar"] },
   ]
 
-  const said = landedOver({ ...nothingWeighed(), drifts }, home, run, new Map(), keeping())
+  const said = landedOver({ ...nothingWeighed(), drifts }, home, run)
 
   expect(said.wrong.join("")).toContain(`${UNIT} runs as it did`)
   expect(said.said.join("")).toContain(`armed ${TIMER} again — \`OnCalendar\` changed`)
@@ -207,42 +194,38 @@ test("a reload that refuses leaves the units written and starts nothing again", 
   const now = without(WAS, "bun one.ts", "bun two.ts")
   const { calls, run } = taking({ "daemon-reload": 1 })
 
-  const said = landedOver(oneDrift(UNIT, now, ["ExecStart"]), home, run, new Map(), keeping())
+  const said = landedOver(oneDrift(UNIT, now, ["ExecStart"]), home, run)
 
   expect(said.wrong.join("")).toContain("what is loaded is what was loaded")
   expect(calls).toEqual([RELOADED])
   expect(readFileSync(join(stagingDir(home), UNIT), "utf8")).toBe(now)
 })
 
-test("a file a service reaches starts it again with no unit written and no reload", () => {
+test("a unit written whose fields stayed put starts nothing again", () => {
+  const one: Drift = { unit: UNIT, page: PAGE, text: WAS, startsFor: [] }
+
+  expect(startingIn([one])).toEqual([])
+  expect(startingIn([])).toEqual([])
+})
+
+test("the units named to start again are named once each and sorted", () => {
+  const held = startingIn([
+    { unit: TIMER, page: PAGE, text: TICKS, startsFor: ["OnCalendar"] },
+    { unit: UNIT, page: PAGE, text: WAS, startsFor: ["ExecStart", "Environment"] },
+  ])
+
+  expect(held.map((each) => each.unit)).toEqual([UNIT, TIMER])
+  expect(held[0]?.why).toContain("changed")
+})
+
+test("a landing over units already as their pages state them asks systemd for no start", () => {
   const home = homeWith({ [UNIT]: WAS })
   const { calls, run } = taking()
 
-  const said = landedOver(nothingWeighed(), home, run, new Map([[UNIT, REACHES]]), keeping())
+  const said = landedOver(nothingWeighed(), home, run)
 
-  expect(said.wrong).toEqual([])
-  expect(said.said).toEqual([`started ${UNIT} again — the code it runs changed at \`${REACHES}\``])
-  expect(calls).toContainEqual([STARTED, UNIT])
-})
-
-test("a service a field and a file both started again is said to have both reasons", () => {
-  const held = startingIn(
-    [{ unit: UNIT, page: PAGE, text: WAS, startsFor: ["ExecStart"] }],
-    new Map([[UNIT, REACHES]])
-  )
-
-  expect(held).toEqual([
-    { unit: UNIT, why: `\`ExecStart\` changed and the code it runs changed at \`${REACHES}\`` },
-  ])
-})
-
-test("a unit written whose fields stayed put starts again only for the file that changed", () => {
-  const one: Drift = { unit: UNIT, page: PAGE, text: WAS, startsFor: [] }
-
-  expect(startingIn([one], new Map())).toEqual([])
-  expect(startingIn([one], new Map([[TIMER, REACHES]]))).toEqual([
-    { unit: TIMER, why: `the code it runs changed at \`${REACHES}\`` },
-  ])
+  expect(said).toEqual({ said: [], wrong: [] })
+  expect(calls).toEqual([])
 })
 
 test("a unit's fields are read past its comment and its sections", () => {
@@ -280,7 +263,7 @@ test("a weighing stilled keeps its units and starts nothing again", () => {
   const held = stilled(oneDrift(UNIT, WAS, ["ExecStart"]))
 
   expect(held.drifts[0]?.startsFor).toEqual([])
-  expect(startingIn(held.drifts, new Map())).toEqual([])
+  expect(startingIn(held.drifts)).toEqual([])
   expect(installedHere().under).toBe(treeInstalled(homedir(), [], null))
 })
 
@@ -296,23 +279,12 @@ test("a tree git will not move is said as wrong rather than thrown", () => {
   expect(said.wrong.join("")).toContain("service-workstation")
 })
 
-test("a start a service is owed is a cause of its own, doubling no cause the commit gave", () => {
-  const why = `the code it runs changed at \`${REACHES}\``
-  const owed = { [UNIT]: { commit: NO_COMMIT, why, since: "" } }
-
-  expect(startingIn([], new Map(), owed)).toEqual([{ unit: UNIT, why }])
-  expect(startingIn([], new Map([[UNIT, REACHES]]), owed)).toEqual([{ unit: UNIT, why }])
-  expect(
-    startingIn([{ unit: UNIT, page: PAGE, text: WAS, startsFor: ["ExecStart"] }], new Map(), owed)
-  ).toEqual([{ unit: UNIT, why: "`ExecStart` changed" }])
-})
-
 test("no unit of akasha's installed is nothing weighed and nothing asked of systemd", () => {
   const home = rooted()
 
   expect(weighedIn(codeRoot(), home)).toEqual(nothingWeighed())
   expect(
-    unitsLanded(codeRoot(), home, null, [], () => {
+    unitsLanded(codeRoot(), home, null, () => {
       throw new Error("systemd was reached")
     })
   ).toEqual({ said: [], wrong: [] })
@@ -325,40 +297,13 @@ test("every workstation unit installed here is weighed without anything wrong", 
   for (const one of weighed.drifts) expect(one.text).toContain("[Unit]")
 })
 
-test("a service standing to be started again is enabled, is no timer's, and names the code it runs", () => {
+test("every unit installed here whose text is what its page states starts nothing again", () => {
   const weighed = installedHere()
-  const read = everyService(codeRoot(), "")
-  const off = new Set(
-    "refused" in read
-      ? []
-      : read.services.filter((one) => !one.service.enabled).map((one) => one.service.slug)
-  )
 
-  expect(weighed.standings.length).toBeGreaterThan(0)
-  expect(weighed.standings.some((one) => one.files.length > 0)).toBe(true)
-  for (const one of weighed.standings) {
-    expect(one.unit.endsWith(".service")).toBe(true)
-    expect(off.has(one.unit.slice(0, -".service".length))).toBe(false)
+  expect(startingIn(weighed.drifts.filter((one) => one.startsFor.length === 0))).toEqual([])
+  for (const one of weighed.drifts.filter((each) => each.unit.endsWith(".service"))) {
+    for (const each of one.startsFor) {
+      expect(["ExecStart", "Environment", "WorkingDirectory"]).toContain(each)
+    }
   }
-})
-
-test("a commit touching one service's code starts that one and leaves the rest running", () => {
-  const weighed = installedHere()
-  const one = runningCode(weighed)
-  const bare = weighed.standings.filter((each) => each.files.length === 0)
-
-  const reached = reachedFor(codeRoot(), weighed.standings, [one.files[0] ?? ""])
-
-  expect(reached.wrong).toEqual([])
-  expect(reached.starts.get(one.unit)).toBe(one.files[0])
-  expect(reached.starts.size).toBeLessThan(weighed.standings.length)
-  for (const each of bare) expect(reached.starts.has(each.unit)).toBe(false)
-})
-
-test("a commit touching a file no service reaches starts nothing again", () => {
-  const weighed = installedHere()
-
-  expect(reachedFor(codeRoot(), weighed.standings, [UNREACHED]).starts.size).toBe(0)
-  expect(reachedFor(codeRoot(), weighed.standings, []).starts.size).toBe(0)
-  expect(reachedFor(codeRoot(), [], [UNREACHED]).starts.size).toBe(0)
 })

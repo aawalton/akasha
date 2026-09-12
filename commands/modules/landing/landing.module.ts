@@ -256,7 +256,7 @@ export const landing = {
     {
       invariantKind: "departure",
       statement:
-        "A service is started again only where what that service runs, or runs under, changed.",
+        "A service is started again only where its own unit text changed, it taking any other start.",
     },
     {
       invariantKind: "departure",

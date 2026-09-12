@@ -18,21 +18,11 @@ import {
   writeUnit,
 } from "akasha/infrastructure/services/workstations/service-installing/service-installing.module.code.ts"
 import {
-  filesRun,
-  REACHED_CEILING,
-  reachedBack,
-  reachingIn,
-} from "akasha/infrastructure/services/workstations/service-reaching/service-reaching.module.code.ts"
-import {
   everyService,
   SERVICE_PAGE_TYPE,
 } from "akasha/infrastructure/services/workstations/service-reading/service-reading.module.code.ts"
 import {
   asked,
-  type Keeping,
-  type Owed,
-  owedRead,
-  PUT_RIGHT,
   type Running,
   type Starting,
   startedOver,
@@ -43,8 +33,6 @@ import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.c
 
 const A_TIMER = ".timer"
 
-const A_SERVICE = ".service"
-
 const A_COMMENT = "#"
 
 const A_SECTION = "["
@@ -54,8 +42,6 @@ const HELD_BY = "="
 const A_UNIT = "unit"
 
 const RELOAD: readonly string[] = ["daemon-reload"]
-
-const AND = " and "
 
 const RUNS_UNDER: readonly string[] = ["ExecStart", "Environment", "WorkingDirectory"]
 
@@ -73,27 +59,13 @@ export type Drift = {
   readonly startsFor: readonly string[]
 }
 
-export type Standing = {
-  readonly unit: string
-  readonly page: string
-  readonly files: readonly string[]
-}
-
 export type Weighing = {
   readonly drifts: readonly Drift[]
-  readonly standings: readonly Standing[]
   readonly under: string
   readonly wrong: readonly string[]
 }
 
-export type Reaching = {
-  readonly starts: ReadonlyMap<string, string>
-  readonly wrong: readonly string[]
-}
-
-const NOTHING_WEIGHED: Weighing = { drifts: [], standings: [], under: "", wrong: [] }
-
-const NOTHING_REACHED: Reaching = { starts: new Map(), wrong: [] }
+const NOTHING_WEIGHED: Weighing = { drifts: [], under: "", wrong: [] }
 
 export function fieldsIn(text: string): ReadonlyMap<string, readonly string[]> {
   const held = new Map<string, string[]>()
@@ -172,14 +144,9 @@ export function weighedIn(root: string, home: string): Weighing {
     return { ...NOTHING_WEIGHED, wrong: [`no workstation unit was weighed — ${read.refused}`] }
   }
   const drifts: Drift[] = []
-  const standings: Standing[] = []
   for (const one of read.services) {
     const enabled = one.service.enabled
     const scheduled = isScheduled(one)
-    const named = `${one.service.slug}${A_SERVICE}`
-    if (enabled && !scheduled && owned.has(named)) {
-      standings.push({ unit: named, page: one.pagePath, files: filesRun(one.service.runs, under) })
-    }
     for (const [unit, text] of textFor(one)) {
       if (!owned.has(unit)) continue
       const was = installedText(home, unit)
@@ -192,73 +159,21 @@ export function weighedIn(root: string, home: string): Weighing {
       })
     }
   }
-  return { drifts, standings, under, wrong: [] }
+  return { drifts, under, wrong: [] }
 }
 
 export function stilled(weighed: Weighing): Weighing {
   return { ...weighed, drifts: weighed.drifts.map((one) => ({ ...one, startsFor: [] })) }
 }
 
-export function reachedFor(
-  root: string,
-  standings: readonly Standing[],
-  changed: readonly string[]
-): Reaching {
-  if (standings.length === 0 || changed.length === 0) return NOTHING_REACHED
-  try {
-    const reached = reachedBack(root, changed)
-    const starts = new Map<string, string>()
-    for (const one of standings) {
-      const at = reachingIn(one.files, reached.files)
-      if (at !== null) starts.set(one.unit, at)
-    }
-    const wrong = reached.stopped
-      ? [
-          `what the commit changed was followed back through ${REACHED_CEILING} files and no ` +
-            `further, so a service reaching past that runs as it did; ${PUT_RIGHT}`,
-        ]
-      : []
-    return { starts, wrong }
-  } catch (thrown) {
-    return {
-      starts: new Map(),
-      wrong: [`no service was weighed against what the commit changed — ${whyOf(thrown)}`],
-    }
-  }
-}
-
-export function startingIn(
-  written: readonly Drift[],
-  starts: ReadonlyMap<string, string>,
-  owed: Owed = {}
-): readonly Starting[] {
-  const held = new Map<string, string[]>()
-  for (const one of written) {
-    if (one.startsFor.length === 0) continue
-    held.set(one.unit, [`${namesDrawn(one.startsFor)} changed`])
-  }
-  for (const [unit, at] of starts) {
-    const why = `the code it runs changed at \`${at}\``
-    const found = held.get(unit)
-    if (found === undefined) held.set(unit, [why])
-    else found.push(why)
-  }
-  for (const [unit, one] of Object.entries(owed)) {
-    if (held.has(unit)) continue
-    held.set(unit, [one.why])
-  }
-  return [...held]
-    .map(([unit, why]) => ({ unit, why: why.join(AND) }))
+export function startingIn(written: readonly Drift[]): readonly Starting[] {
+  return written
+    .filter((one) => one.startsFor.length > 0)
+    .map((one) => ({ unit: one.unit, why: `${namesDrawn(one.startsFor)} changed` }))
     .sort((one, two) => (one.unit < two.unit ? -1 : one.unit > two.unit ? 1 : 0))
 }
 
-export function landedOver(
-  weighed: Weighing,
-  home: string,
-  run: Running,
-  starts: ReadonlyMap<string, string>,
-  keeping: Keeping
-): Linking {
+export function landedOver(weighed: Weighing, home: string, run: Running): Linking {
   const said: string[] = []
   const wrong: string[] = [...weighed.wrong]
   const written: Drift[] = []
@@ -271,7 +186,7 @@ export function landedOver(
       wrong.push(`${one.unit} drifted from ${one.page} and was not written — ${whyOf(thrown)}`)
     }
   }
-  const starting = startingIn(written, starts, keeping.owed)
+  const starting = startingIn(written)
   if (written.length > 0) {
     const many = counted(written.length, A_UNIT)
     const reload = asked(run, RELOAD)
@@ -283,7 +198,7 @@ export function landedOver(
     }
     said.push(`told systemd to read ${many} again`)
   }
-  const done = startedOver(run, starting, home, keeping)
+  const done = startedOver(run, starting)
   return { said: [...said, ...done.said], wrong: [...wrong, ...done.wrong] }
 }
 
@@ -291,9 +206,7 @@ export function unitsLanded(
   root: string,
   home: string,
   commit: string | null = null,
-  changed: readonly string[] = [],
-  run: Running = systemctl,
-  now: number = Date.now()
+  run: Running = systemctl
 ): Linking {
   const tree = treeLanded(root, commit)
   try {
@@ -302,13 +215,10 @@ export function unitsLanded(
     const held = stale
       ? `no service was started again, because the services run out of ${weighed.under} and that tree is not at the commit`
       : null
-    const reached =
-      commit === null || stale ? NOTHING_REACHED : reachedFor(root, weighed.standings, changed)
-    const keeping: Keeping = { owed: stale ? {} : owedRead(home), commit: commit ?? "", now }
-    const done = landedOver(stale ? stilled(weighed) : weighed, home, run, reached.starts, keeping)
+    const done = landedOver(stale ? stilled(weighed) : weighed, home, run)
     return {
       said: [...tree.said, ...done.said],
-      wrong: [...tree.wrong, ...(held === null ? [] : [held]), ...reached.wrong, ...done.wrong],
+      wrong: [...tree.wrong, ...(held === null ? [] : [held]), ...done.wrong],
     }
   } catch (thrown) {
     return {

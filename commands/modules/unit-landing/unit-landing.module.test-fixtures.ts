@@ -7,13 +7,8 @@ import {
   stagingDir,
   systemdDir,
 } from "akasha/infrastructure/services/workstations/service-installing/service-installing.module.code.ts"
-import type { Keeping } from "akasha/infrastructure/services/workstations/service-restarting/service-restarting.module.code.ts"
 
 const scratch = scratchWorld()
-
-const COMMIT = "f1f1f1f1f1f1f1f1f1f1f1f1f1f1f1f1f1f1f1f1"
-
-const NOW = Date.parse("2026-09-12T06:00:00.000Z")
 
 export const sweep = scratch.sweep
 
@@ -26,8 +21,6 @@ export const PAGE = "one/held.service-workstation.ts"
 export const RELOADED = ["daemon-reload"]
 
 export const STARTED = "try-restart"
-
-export const REACHES = "one/held.module.code.ts"
 
 export const WAS = `${[
   "# Written from one/held.service-workstation.ts by akasha deploy. Edits here are lost.",
@@ -67,7 +60,7 @@ export function homeWith(units: Readonly<Record<string, string>>): string {
 }
 
 export function nothingWeighed(): Weighing {
-  return { drifts: [], standings: [], under: "", wrong: [] }
+  return { drifts: [], under: "", wrong: [] }
 }
 
 export function oneDrift(unit: string, text: string, startsFor: readonly string[] = []): Weighing {
@@ -91,8 +84,4 @@ export function taking(codes: Readonly<Record<string, number>> = {}): {
 
 export function without(text: string, was: string, now: string): string {
   return text.replace(was, now)
-}
-
-export function keeping(): Keeping {
-  return { owed: {}, commit: COMMIT, now: NOW }
 }

@@ -5,7 +5,7 @@ export const unitLanding = {
   type: "module",
   slug: "unit-landing",
   definition:
-    "the workstation units kept as their pages state them, started again where behaviour changed",
+    "the workstation units kept as their pages state them, started again where the text behaves anew",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -59,25 +59,11 @@ export const unitLanding = {
     {
       invariantKind: "departure",
       statement:
-        "A service is started again as well where a file that service reaches changed in the commit.",
+        "A service noticing for itself that its code moved is started again by nothing here.",
     },
     {
       invariantKind: "departure",
-      statement: "A service whose reach the commit left alone is started again by nothing.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A service started again because no unit field drifted is told about with no unit written.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "What started a service again is said as the field that changed or as the file that changed.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A service both a field and a file started again is said to have both reasons.",
+      statement: "What started a service again is said as the field of its unit that changed.",
     },
     {
       invariantKind: "departure",
@@ -147,28 +133,12 @@ export const unitLanding = {
       statement: "A reload that refuses leaves the units written and starts nothing again.",
     },
     {
-      invariantKind: "departure",
-      statement: "A reach that will not answer is said as wrong and starts nothing again.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A service is started again no oftener than the 30 minutes a service keeps.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A start a landing held back is owed, and a later landing takes it.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A start owed is a cause of its own, beside the field and the file that changed.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A tree that would not move leaves every start owed owed and takes none.",
+      invariantKind: "absence",
+      statement: "Nothing here rules on how long a service has been up.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here rules on how long a service has been up.",
+      statement: "Nothing here holds a start back, and nothing here carries a start forward.",
     },
     {
       invariantKind: "absence",
@@ -184,7 +154,7 @@ export const unitLanding = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here works out for itself which files a service reaches.",
+      statement: "Which files a service reaches is asked here by nothing at all.",
     },
     {
       invariantKind: "absence",
