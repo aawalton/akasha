@@ -22,6 +22,21 @@ export const literalSplicing = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A value put in order falls before the first value already written that sorts after it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A value put in order that sorts after every value already written falls after the last of them.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A value is ordered against the others as each is written rather than as each reads.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A value is written as the caller spells that value.",
     },
     {

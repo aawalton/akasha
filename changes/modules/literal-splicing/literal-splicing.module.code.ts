@@ -25,6 +25,19 @@ export function withValue(
   return { from: ended, to: ended, put: `, ${put}` }
 }
 
+export function inOrder(
+  source: ts.SourceFile,
+  holding: ts.ArrayLiteralExpression,
+  put: string
+): Splice {
+  for (const one of holding.elements) {
+    if (one.getText(source) <= put) continue
+    const from = one.getStart(source)
+    return { from, to: from, put: `${put}, ` }
+  }
+  return withValue(source, holding, put)
+}
+
 export function withProperty(
   text: string,
   source: ts.SourceFile,
