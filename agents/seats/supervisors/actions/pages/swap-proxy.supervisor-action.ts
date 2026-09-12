@@ -1,4 +1,4 @@
-import type { SupervisorAction } from "akasha/agents/seats/supervisor-actions/supervisor-action.page-type.types.ts"
+import type { SupervisorAction } from "akasha/agents/seats/supervisors/actions/supervisor-action.page-type.types.ts"
 
 export const swapProxy = {
   id: "01a05ede-80cc-7266-b628-6fc355977249",
