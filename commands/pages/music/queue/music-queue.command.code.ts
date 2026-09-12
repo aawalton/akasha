@@ -8,27 +8,32 @@ import {
   addToQueue,
   startResumePlayback,
 } from "akasha/alan/music/spotify/player/spotify-player.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { artist as artistArgument } from "akasha/commands/arguments/pages/artist.argument.ts"
+import { deviceId as deviceIdArgument } from "akasha/commands/arguments/pages/device-id.argument.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { query as queryArgument } from "akasha/commands/arguments/pages/query.argument.ts"
 import {
   answering,
   INPUT,
   OK,
+  refusedBy,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
-import type { Read, Starting } from "akasha/commands/pages/music/play/music-play.command.code.ts"
-import {
-  ARTIST,
-  DEVICE_ID,
-  JSON_FLAG,
-  readingArgv,
-  startedOn,
-} from "akasha/commands/pages/music/play/music-play.command.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Starting } from "akasha/commands/pages/music/play/music-play.command.code.ts"
+import { startedOn } from "akasha/commands/pages/music/play/music-play.command.code.ts"
+import { musicQueue as page } from "akasha/commands/pages/music/queue/music-queue.command.ts"
 
-const TAKING_VALUE: readonly string[] = [ARTIST, DEVICE_ID]
-
-const TAKING_NONE: readonly string[] = [JSON_FLAG]
+const NAMED = [artistArgument, deviceIdArgument, json, queryArgument]
 
 const NO_QUERY = "supply at least one track query to queue"
+
+type Said = {
+  readonly queries: readonly string[]
+  readonly artist: string | undefined
+  readonly deviceId: string | undefined
+  readonly json: boolean
+}
 
 export type DeviceOption = {
   readonly deviceId?: string
@@ -107,23 +112,34 @@ export async function playedAndQueued(
   return deviceId
 }
 
-async function queued(read: Read, ports: Queueing, done: string[]): Promise<Answer> {
-  const queries = read.positionals
+async function queued(said: Said, ports: Queueing, done: string[]): Promise<Answer> {
+  const queries = said.queries
   if (queries.length === 0) throw new InputError(NO_QUERY)
-  const tracks = await resolvedFor(queries, read.valued.get(ARTIST), ports)
-  const deviceId = await playedAndQueued(tracks, read.valued.get(DEVICE_ID), ports, done)
-  const said = read.bare.has(JSON_FLAG)
+  const tracks = await resolvedFor(queries, said.artist, ports)
+  const deviceId = await playedAndQueued(tracks, said.deviceId, ports, done)
+  const report = said.json
     ? [JSON.stringify(queueEnvelopeFor(queries, tracks, deviceId))]
     : [...done]
-  return { report: said, refusals: [], code: OK }
+  return { report, refusals: [], code: OK }
 }
 
-export async function queueing(argv: readonly string[], ports: Queueing): Promise<Answer> {
-  const read = readingArgv(argv, TAKING_VALUE, TAKING_NONE)
-  if ("mistaken" in read) return refused(read.mistaken, INPUT)
-  return await answering(async (done) => await queued(read, ports, done))
+export async function queueing(
+  argv: readonly string[],
+  ports: Queueing,
+  calledAs: string
+): Promise<Answer> {
+  const read = takenFor(argv, calledAs, page, NAMED)
+  if ("refused" in read) return refusedBy(read.refused, INPUT)
+  const taken = read.taken
+  const said: Said = {
+    queries: taken.query,
+    artist: taken.artist,
+    deviceId: taken.deviceId,
+    json: taken.json,
+  }
+  return await answering(async (done) => await queued(said, ports, done))
 }
 
-export function musicQueue(argv: readonly string[] = []): Promise<Answer> {
-  return queueing(argv, QUEUEING)
+export function musicQueue(argv: readonly string[], given: Given): Promise<Answer> {
+  return queueing(argv, QUEUEING, given.calledAs)
 }

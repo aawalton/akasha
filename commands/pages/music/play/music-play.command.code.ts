@@ -14,79 +14,24 @@ import {
 } from "akasha/alan/music/choosing/track-resolving/track-resolving.module.code.ts"
 import { startResumePlayback } from "akasha/alan/music/spotify/player/spotify-player.module.code.ts"
 import { getTrack } from "akasha/alan/music/spotify/tracks/spotify-tracks.module.code.ts"
-import { INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { artist as artistArgument } from "akasha/commands/arguments/pages/artist.argument.ts"
+import { deviceId as deviceIdArgument } from "akasha/commands/arguments/pages/device-id.argument.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { query as queryArgument } from "akasha/commands/arguments/pages/query.argument.ts"
+import { uri as uriArgument } from "akasha/commands/arguments/pages/uri.argument.ts"
+import {
+  INPUT,
+  OK,
+  refusedBy,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { musicPlay as page } from "akasha/commands/pages/music/play/music-play.command.ts"
 
-export const URI = "--uri"
-
-export const ARTIST = "--artist"
-
-export const DEVICE_ID = "--device-id"
-
-export const JSON_FLAG = "--json"
-
-const TAKING_VALUE: readonly string[] = [URI, ARTIST, DEVICE_ID]
-
-const TAKING_NONE: readonly string[] = [JSON_FLAG]
+const NAMED = [artistArgument, deviceIdArgument, json, queryArgument, uriArgument]
 
 const NO_QUERY = "supply a track query to play, or --uri to play an exact track"
-
-const QUERY_TOO = "--uri plays an exact track; do not also pass a query"
-
-export type Read = {
-  readonly valued: ReadonlyMap<string, string>
-  readonly bare: ReadonlySet<string>
-  readonly positionals: readonly string[]
-}
-
-export type Mistaken = {
-  readonly mistaken: string
-}
-
-export function readingArgv(
-  argv: readonly string[],
-  takingValue: readonly string[],
-  takingNone: readonly string[]
-): Read | Mistaken {
-  const valued = new Map<string, string>()
-  const bare = new Set<string>()
-  const positionals: string[] = []
-  for (let at = 0; at < argv.length; at += 1) {
-    const token = argv[at]
-    if (token === undefined) break
-    if (token === "--") {
-      positionals.push(...argv.slice(at + 1))
-      break
-    }
-    if (!token.startsWith("--")) {
-      positionals.push(token)
-      continue
-    }
-    const equals = token.indexOf("=")
-    const name = equals >= 0 ? token.slice(0, equals) : token
-    const inline = equals >= 0 ? token.slice(equals + 1) : undefined
-    if (takingValue.includes(name)) {
-      let value = inline
-      if (value === undefined) {
-        at += 1
-        value = argv[at]
-        if (value === undefined) return { mistaken: `${name} requires a value` }
-      }
-      if (valued.has(name)) return { mistaken: `${name}: flag given more than once` }
-      valued.set(name, value)
-      continue
-    }
-    if (takingNone.includes(name)) {
-      if (inline !== undefined) return { mistaken: `${name}: flag does not accept a value` }
-      if (bare.has(name)) return { mistaken: `${name}: flag given more than once` }
-      bare.add(name)
-      continue
-    }
-    return { mistaken: `unknown flag: ${name}` }
-  }
-  return { valued, bare, positionals }
-}
 
 export type StartResumeOptions = {
   readonly uris: readonly string[]
@@ -154,13 +99,10 @@ export function playLineFor(track: ResolvedTrack): string {
   return `▶ Playing "${label}"${suffix}`
 }
 
-function wrongIn(read: Read): string | null {
-  if (read.valued.has(URI) && read.valued.has(ARTIST)) {
-    return `mutually exclusive flags given together: ${URI}, ${ARTIST}`
-  }
-  const extra = read.positionals.slice(1)
-  if (extra.length > 0) return `unexpected positional argument(s): ${extra.join(" ")}`
-  return null
+export function wrongIn(said: string | undefined, named: string | undefined): string | null {
+  const byUri = named !== undefined && named !== ""
+  const byQuery = said !== undefined && said !== ""
+  return byUri || byQuery ? null : NO_QUERY
 }
 
 type Wanted = {
@@ -168,30 +110,37 @@ type Wanted = {
   readonly track: ResolvedTrack
 }
 
-async function wantedIn(read: Read, ports: Playing): Promise<Wanted> {
-  const query = read.positionals[0]
-  const uri = read.valued.get(URI)
-  if (uri !== undefined && uri !== "") {
-    if (query !== undefined && query !== "") throw new InputError(QUERY_TOO)
-    const trackId = ports.parseTrackId(uri)
+async function wantedIn(
+  said: string | undefined,
+  named: string | undefined,
+  by: string | undefined,
+  ports: Playing
+): Promise<Wanted> {
+  if (named !== undefined && named !== "") {
+    const trackId = ports.parseTrackId(named)
     if (trackId === null) {
-      return { query: null, track: { name: null, uri, id: null, artists: [] } }
+      return { query: null, track: { name: null, uri: named, id: null, artists: [] } }
     }
-    return { query: null, track: ports.trackToResolved(uri, await ports.getTrack(trackId)) }
+    return { query: null, track: ports.trackToResolved(named, await ports.getTrack(trackId)) }
   }
-  if (query === undefined || query === "") throw new InputError(NO_QUERY)
-  return { query, track: await ports.resolveQueryToTrack(query, read.valued.get(ARTIST)) }
+  if (said === undefined) throw new InputError(NO_QUERY)
+  return { query: said, track: await ports.resolveQueryToTrack(said, by) }
 }
 
-export async function playing(argv: readonly string[], ports: Playing): Promise<Answer> {
-  const read = readingArgv(argv, TAKING_VALUE, TAKING_NONE)
-  if ("mistaken" in read) return refused(read.mistaken, INPUT)
-  const wrong = wrongIn(read)
+export async function playing(
+  argv: readonly string[],
+  ports: Playing,
+  calledAs: string
+): Promise<Answer> {
+  const read = takenFor(argv, calledAs, page, NAMED)
+  if ("refused" in read) return refusedBy(read.refused, INPUT)
+  const taken = read.taken
+  const wrong = wrongIn(taken.query, taken.uri)
   if (wrong !== null) return refused(wrong, INPUT)
   try {
-    const wanted = await wantedIn(read, ports)
-    const deviceId = await startedOn(wanted.track.uri, read.valued.get(DEVICE_ID), ports)
-    const said = read.bare.has(JSON_FLAG)
+    const wanted = await wantedIn(taken.query, taken.uri, taken.artist, ports)
+    const deviceId = await startedOn(wanted.track.uri, taken.deviceId, ports)
+    const said = taken.json
       ? JSON.stringify(playEnvelopeFor(wanted.query, wanted.track, deviceId))
       : playLineFor(wanted.track)
     return { report: [said], refusals: [], code: OK }
@@ -201,6 +150,6 @@ export async function playing(argv: readonly string[], ports: Playing): Promise<
   }
 }
 
-export function musicPlay(argv: readonly string[] = []): Promise<Answer> {
-  return playing(argv, PLAYING)
+export function musicPlay(argv: readonly string[], given: Given): Promise<Answer> {
+  return playing(argv, PLAYING, given.calledAs)
 }

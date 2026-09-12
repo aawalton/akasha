@@ -14,6 +14,8 @@ import {
   queueing,
 } from "akasha/commands/pages/music/queue/music-queue.command.code.ts"
 
+const CALLED = "akasha music queue"
+
 const PLAYED = `▶ Playing "one — Someone"`
 
 const QUEUED = `  + queued "two — Someone"`
@@ -62,7 +64,7 @@ function fakeFor(over: Partial<Queueing> = {}): Fake {
 
 test("the first query is played and every one after it is queued in order", async () => {
   const fake = fakeFor()
-  const said = await queueing(["Holocene", "Skinny Love", "Re: Stacks"], fake.ports)
+  const said = await queueing(["Holocene", "Skinny Love", "Re: Stacks"], fake.ports, CALLED)
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(fake.kept.started).toEqual([{ uris: ["spotify:track:Holocene"] }])
@@ -74,7 +76,7 @@ test("the first query is played and every one after it is queued in order", asyn
 
 test("the report names the track played and each track queued behind it", async () => {
   const fake = fakeFor()
-  const said = await queueing(["Holocene", "Skinny Love"], fake.ports)
+  const said = await queueing(["Holocene", "Skinny Love"], fake.ports, CALLED)
   expect(said.report).toEqual([
     `▶ Playing "Holocene — Someone"`,
     `  + queued "Skinny Love — Someone"`,
@@ -93,19 +95,19 @@ test("every query is resolved before anything is played", async () => {
       return Promise.resolve()
     },
   })
-  await queueing(["one", "two"], fake.ports)
+  await queueing(["one", "two"], fake.ports, CALLED)
   expect(order).toEqual(["resolved one", "resolved two", "played"])
 })
 
 test("an artist named holds every query rather than the first alone", async () => {
   const fake = fakeFor()
-  await queueing(["Bulletproof", "Numb Little Bug", "--artist", "Em Beihold"], fake.ports)
+  await queueing(["Bulletproof", "Numb Little Bug", "--artist", "Em Beihold"], fake.ports, CALLED)
   expect(fake.kept.queries.map((one) => one.artist)).toEqual(["Em Beihold", "Em Beihold"])
 })
 
 test("a device named is carried into the first play and into every enqueue", async () => {
   const fake = fakeFor()
-  await queueing(["one", "two", "--device-id", "abc123"], fake.ports)
+  await queueing(["one", "two", "--device-id", "abc123"], fake.ports, CALLED)
   expect(fake.kept.started).toEqual([{ uris: ["spotify:track:one"], deviceId: "abc123" }])
   expect(fake.kept.enqueued).toEqual([
     { uri: "spotify:track:two", options: { deviceId: "abc123" } },
@@ -114,28 +116,34 @@ test("a device named is carried into the first play and into every enqueue", asy
 
 test("no device worked out leaves the enqueue naming none", async () => {
   const fake = fakeFor()
-  await queueing(["one", "two"], fake.ports)
+  await queueing(["one", "two"], fake.ports, CALLED)
   expect(fake.kept.enqueued).toEqual([{ uri: "spotify:track:two", options: {} }])
 })
 
 test("no query at all refuses the call as an input fault", async () => {
   const fake = fakeFor()
-  const said = await queueing([], fake.ports)
+  const said = await queueing([], fake.ports, CALLED)
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toBe("supply at least one track query to queue")
+  expect(said.refusals[0]).toBe(`\`${CALLED}\` takes \`<query>\`, and nothing said it`)
   expect(fake.kept.started).toEqual([])
 })
 
 test("a flag the command does not carry refuses the call", async () => {
   const fake = fakeFor()
-  const said = await queueing(["--uri", "spotify:track:abc"], fake.ports)
+  const said = await queueing(["--uri", "spotify:track:abc"], fake.ports, CALLED)
   expect(said.code).toBe(1)
-  expect(said.refusals).toEqual(["unknown flag: --uri"])
+  expect(said.refusals.join("")).toContain(`\`--uri\` is no argument \`${CALLED}\` takes`)
+})
+
+test("an artist written with an equals holds every query", async () => {
+  const fake = fakeFor()
+  await queueing(["Bulletproof", "Numb Little Bug", "--artist=Em Beihold"], fake.ports, CALLED)
+  expect(fake.kept.queries.map((one) => one.artist)).toEqual(["Em Beihold", "Em Beihold"])
 })
 
 test("the json answer carries the queries, the tracks and the device", async () => {
   const fake = fakeFor()
-  const said = await queueing(["one", "two", "--json"], fake.ports)
+  const said = await queueing(["one", "two", "--json"], fake.ports, CALLED)
   expect(said.code).toBe(0)
   expect(JSON.parse(said.report.join("\n"))).toEqual({
     queries: ["one", "two"],
@@ -148,7 +156,7 @@ test("a query no track answers refuses the call before anything is played", asyn
   const fake = fakeFor({
     resolveQueryToTrack: () => Promise.reject(new DataError("no Spotify track matched")),
   })
-  const said = await queueing(["one", "two"], fake.ports)
+  const said = await queueing(["one", "two"], fake.ports, CALLED)
   expect(said.code).toBe(2)
   expect(said.refusals[0]).toBe("no Spotify track matched")
   expect(fake.kept.started).toEqual([])
@@ -175,7 +183,7 @@ test("a call that threw part way names in its refusal each track it had reached"
         : Promise.resolve(),
   })
 
-  const said = await queueing(["one", "two", "three"], fake.ports)
+  const said = await queueing(["one", "two", "three"], fake.ports, CALLED)
   expect(said.code).toBe(3)
   expect(said.report).toEqual([PLAYED, QUEUED])
   const last = said.refusals[said.refusals.length - 1] as string
@@ -189,7 +197,7 @@ test("a call that threw before a track reached Spotify names no track", async ()
     startResumePlayback: () => Promise.reject(new OperationalError("spotify answered 502")),
   })
 
-  const said = await queueing(["one", "two"], fake.ports)
+  const said = await queueing(["one", "two"], fake.ports, CALLED)
   expect(said.report).toEqual([])
   expect(said.refusals.some((one) => one.includes("stopped part way"))).toBe(false)
 })

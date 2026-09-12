@@ -11,7 +11,9 @@ import type {
   Playing,
   StartResumeOptions,
 } from "akasha/commands/pages/music/play/music-play.command.code.ts"
-import { playing, readingArgv } from "akasha/commands/pages/music/play/music-play.command.code.ts"
+import { playing } from "akasha/commands/pages/music/play/music-play.command.code.ts"
+
+const CALLED = "akasha music play"
 
 const MOTION: ResolvedTrack = {
   name: "Motion Sickness",
@@ -70,7 +72,7 @@ function fakeFor(over: Partial<Playing> = {}): Fake {
 
 test("a query is resolved and the track it answers is played", async () => {
   const fake = fakeFor()
-  const said = await playing(["Phoebe Bridgers Motion Sickness"], fake.ports)
+  const said = await playing(["Phoebe Bridgers Motion Sickness"], fake.ports, CALLED)
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(fake.kept.queries).toEqual([
@@ -82,22 +84,35 @@ test("a query is resolved and the track it answers is played", async () => {
 
 test("an artist named is carried into the query resolve", async () => {
   const fake = fakeFor()
-  await playing(["Bulletproof", "--artist", "Em Beihold"], fake.ports)
+  await playing(["Bulletproof", "--artist", "Em Beihold"], fake.ports, CALLED)
+  expect(fake.kept.queries).toEqual([{ query: "Bulletproof", artist: "Em Beihold" }])
+})
+
+test("an artist written with an equals is carried into the query resolve", async () => {
+  const fake = fakeFor()
+  await playing(["Bulletproof", "--artist=Em Beihold"], fake.ports, CALLED)
   expect(fake.kept.queries).toEqual([{ query: "Bulletproof", artist: "Em Beihold" }])
 })
 
 test("a uri named is read for a track id and the track is fetched rather than searched", async () => {
   const fake = fakeFor()
-  const said = await playing(["--uri", MOTION.uri], fake.ports)
+  const said = await playing(["--uri", MOTION.uri], fake.ports, CALLED)
   expect(said.code).toBe(0)
   expect(fake.kept.queries).toEqual([])
   expect(fake.kept.fetched).toEqual([MOTION.id ?? ""])
   expect(fake.kept.started).toEqual([{ uris: [MOTION.uri] }])
 })
 
+test("a uri written with an equals names the track played", async () => {
+  const fake = fakeFor()
+  const said = await playing([`--uri=${MOTION.uri}`], fake.ports, CALLED)
+  expect(said.code).toBe(0)
+  expect(fake.kept.started).toEqual([{ uris: [MOTION.uri] }])
+})
+
 test("a uri naming no track is played as it was written", async () => {
   const fake = fakeFor()
-  const said = await playing(["--uri", "spotify:episode:abc"], fake.ports)
+  const said = await playing(["--uri", "spotify:episode:abc"], fake.ports, CALLED)
   expect(said.code).toBe(0)
   expect(fake.kept.fetched).toEqual([])
   expect(fake.kept.started).toEqual([{ uris: ["spotify:episode:abc"] }])
@@ -106,15 +121,15 @@ test("a uri naming no track is played as it was written", async () => {
 
 test("a query named beside a uri refuses the call as an input fault", async () => {
   const fake = fakeFor()
-  const said = await playing(["--uri", MOTION.uri, "Motion Sickness"], fake.ports)
+  const said = await playing(["--uri", MOTION.uri, "Motion Sickness"], fake.ports, CALLED)
   expect(said.code).toBe(1)
-  expect(said.refusals.join("")).toContain("do not also pass a query")
+  expect(said.refusals.join("")).toContain("`<query>` and `--uri` are never said together")
   expect(fake.kept.started).toEqual([])
 })
 
 test("neither a query nor a uri refuses the call as an input fault", async () => {
   const fake = fakeFor()
-  const said = await playing([], fake.ports)
+  const said = await playing([], fake.ports, CALLED)
   expect(said.code).toBe(1)
   expect(said.refusals.join("")).toContain("supply a track query to play")
   expect(fake.kept.started).toEqual([])
@@ -122,36 +137,40 @@ test("neither a query nor a uri refuses the call as an input fault", async () =>
 
 test("a uri and an artist named together refuse the call", async () => {
   const fake = fakeFor()
-  const said = await playing(["--uri", MOTION.uri, "--artist", "Phoebe Bridgers"], fake.ports)
+  const said = await playing(
+    ["--uri", MOTION.uri, "--artist", "Phoebe Bridgers"],
+    fake.ports,
+    CALLED
+  )
   expect(said.code).toBe(1)
-  expect(said.refusals.join("")).toContain("mutually exclusive")
+  expect(said.refusals.join("")).toContain("`--uri` and `--artist` are never said together")
   expect(fake.kept.started).toEqual([])
 })
 
 test("a flag the command does not carry refuses the call", async () => {
   const fake = fakeFor()
-  const said = await playing(["--shuffle"], fake.ports)
+  const said = await playing(["--shuffle"], fake.ports, CALLED)
   expect(said.code).toBe(1)
-  expect(said.refusals).toEqual(["unknown flag: --shuffle"])
+  expect(said.refusals.join("")).toContain(`\`--shuffle\` is no argument \`${CALLED}\` takes`)
 })
 
 test("a second positional refuses the call", async () => {
   const fake = fakeFor()
-  const said = await playing(["one", "two"], fake.ports)
+  const said = await playing(["one", "two"], fake.ports, CALLED)
   expect(said.code).toBe(1)
-  expect(said.refusals.join("")).toContain("unexpected positional argument(s): two")
+  expect(said.refusals.join("")).toContain(`\`${CALLED}\` takes 1 word and this call says 2 words`)
 })
 
 test("a device named on the command line is the device played on", async () => {
   const fake = fakeFor()
-  await playing(["Motion Sickness", "--device-id", "abc123"], fake.ports)
+  await playing(["Motion Sickness", "--device-id", "abc123"], fake.ports, CALLED)
   expect(fake.kept.devices).toEqual(["abc123"])
   expect(fake.kept.started).toEqual([{ uris: [MOTION.uri], deviceId: "abc123" }])
 })
 
 test("the json answer carries the query, the track and the device", async () => {
   const fake = fakeFor()
-  const said = await playing(["Motion Sickness", "--json"], fake.ports)
+  const said = await playing(["Motion Sickness", "--json"], fake.ports, CALLED)
   expect(said.code).toBe(0)
   expect(JSON.parse(said.report.join("\n"))).toEqual({
     query: "Motion Sickness",
@@ -164,7 +183,7 @@ test("a query no track answers refuses the call as a data fault", async () => {
   const fake = fakeFor({
     resolveQueryToTrack: () => Promise.reject(new DataError("no Spotify track matched")),
   })
-  const said = await playing(["nothing at all"], fake.ports)
+  const said = await playing(["nothing at all"], fake.ports, CALLED)
   expect(said.code).toBe(2)
   expect(said.refusals).toEqual(["no Spotify track matched"])
 })
@@ -173,23 +192,13 @@ test("no device left to play on refuses the call as an operational fault", async
   const fake = fakeFor({
     resolveDeviceId: () => Promise.reject(new OperationalError("no active Spotify device")),
   })
-  const said = await playing(["Motion Sickness"], fake.ports)
+  const said = await playing(["Motion Sickness"], fake.ports, CALLED)
   expect(said.code).toBe(3)
   expect(said.refusals).toEqual(["no active Spotify device"])
 })
 
-test("a flag written with an equals carries its value", () => {
-  const read = readingArgv(["--artist=Em Beihold", "Bulletproof"], ["--artist"], ["--json"])
-  expect("mistaken" in read).toBe(false)
-  if ("mistaken" in read) return
-  expect(read.valued.get("--artist")).toBe("Em Beihold")
-  expect(read.positionals).toEqual(["Bulletproof"])
-})
-
-test("what follows a bare pair of dashes is a positional however it is written", () => {
-  const read = readingArgv(["--", "--json"], ["--artist"], ["--json"])
-  expect("mistaken" in read).toBe(false)
-  if ("mistaken" in read) return
-  expect(read.positionals).toEqual(["--json"])
-  expect(read.bare.size).toBe(0)
+test("what follows a bare pair of dashes is the query however it is written", async () => {
+  const fake = fakeFor()
+  await playing(["--", "--json"], fake.ports, CALLED)
+  expect(fake.kept.queries).toEqual([{ query: "--json", artist: undefined }])
 })
