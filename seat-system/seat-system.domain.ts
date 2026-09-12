@@ -33,7 +33,6 @@ export const seatSystem = {
     "module/takeover-seat",
     "module/agent-name-bind",
     "module/agent-record",
-    "module/agent-turn-drawn",
     "module/proc-scan",
     "module/resume-seat",
     "module/resume-verify",
