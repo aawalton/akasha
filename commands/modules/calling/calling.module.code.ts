@@ -4,6 +4,7 @@ import { costRecorded, opening } from "akasha/checks/modules/cost/check-cost.mod
 import {
   DATA,
   INPUT,
+  OK,
   refusedBy,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
@@ -262,7 +263,7 @@ async function answeredBy(
     return {
       report: helpOf(`${outside.calledAs} ${said}`, definitionOf(page), surface, rules),
       refusals: [],
-      code: 0,
+      code: OK,
     }
   }
   const answers = answeringOf(reached.mod, named)
@@ -299,7 +300,7 @@ function helping(root: string, outside: Outside): Answer {
   const listing = listedUnder(root, rootPageIn(root), outside.calledAs, null)
   const report: string[] = listing === null ? [] : [...listing]
   if (unread !== null) report.push(unread)
-  return { report, refusals: [], code: 0 }
+  return { report, refusals: [], code: OK }
 }
 
 function levelNamed(root: string): Naming {
@@ -400,7 +401,7 @@ export async function calling(argv: readonly string[], outside: Outside): Promis
     const under = walkingIn(root, namespaceSlugIn(root), argv, levelNamed(root))
     const listing =
       under === null ? null : namespaceSaid(root, under, saidIn(argv, under.held), outside.calledAs)
-    if (listing !== null) return { report: listing, refusals: [], code: 0 }
+    if (listing !== null) return { report: listing, refusals: [], code: OK }
     return unread === null
       ? carried(
           INPUT,
