@@ -122,6 +122,7 @@ export const command = {
     "module/install-linking",
     "module/unit-landing",
     "module/command-failing",
+    "module/argument-narrowing",
   ],
   extends: ["page-type/module"],
   loadedBy: "module/calling",

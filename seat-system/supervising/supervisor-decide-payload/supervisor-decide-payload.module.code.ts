@@ -10,7 +10,7 @@ import {
   obj,
   oneOf,
   str,
-} from "akasha/seat-system/argument-narrowing/argument-narrowing.module.code.ts"
+} from "akasha/commands/modules/argument-narrowing/argument-narrowing.module.code.ts"
 import type { LimitResumeInput } from "akasha/seat-system/supervising/supervisor-limit-resume-decide/supervisor-limit-resume-decide.module.code.ts"
 import type { RcDegradedSeat } from "akasha/seat-system/supervising/supervisor-rc-degraded-decide/supervisor-rc-degraded-decide.module.code.ts"
 import type { RemoteControlSeatQuestion } from "akasha/seat-system/supervising/supervisor-remote-control-decide/supervisor-remote-control-decide.module.code.ts"

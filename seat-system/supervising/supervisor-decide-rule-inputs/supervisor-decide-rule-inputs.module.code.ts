@@ -5,7 +5,7 @@ import {
   obj,
   oneOf,
   str,
-} from "akasha/seat-system/argument-narrowing/argument-narrowing.module.code.ts"
+} from "akasha/commands/modules/argument-narrowing/argument-narrowing.module.code.ts"
 import type {
   ChildExitClassification,
   ChildExitObservation,
