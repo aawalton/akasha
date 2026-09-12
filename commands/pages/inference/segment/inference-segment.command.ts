@@ -18,7 +18,6 @@ export const inferenceSegment = {
     },
     { said: "--flatten-out <path>", takes: "where that flattened image is written" },
     { said: "--alpha-matting", takes: "refine the matte's edges, which costs more" },
-    { said: "--timeout <s>", takes: "how many seconds the wait on the pool runs for" },
   ],
   invariants: [
     {
@@ -67,5 +66,6 @@ export const inferenceSegment = {
   arguments: [
     { argument: "argument/rembg-session" },
     { argument: "argument/image", required: true, saidAs: "flag-or-word" },
+    { argument: "argument/timeout" },
   ],
 } as const satisfies Command
