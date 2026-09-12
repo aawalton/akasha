@@ -12,14 +12,14 @@ import {
   costsIn,
   foundIn,
   heldIn,
-} from "akasha/commands/pages/measure/commands/command-measuring/command-measuring.module.code.ts"
+} from "akasha/commands/pages/measure/command/command-measuring/command-measuring.module.code.ts"
 import {
   ONE,
   pageAt,
   rowsInto,
   THREE,
   TWO,
-} from "akasha/commands/pages/measure/commands/command-measuring/command-measuring.module.test-fixtures.ts"
+} from "akasha/commands/pages/measure/command/command-measuring/command-measuring.module.test-fixtures.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 
 const scratch = scratchWorld()

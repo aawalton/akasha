@@ -17,7 +17,7 @@ import {
   costsIn,
   heldIn,
   pagesIn,
-} from "akasha/commands/pages/measure/changes/change-measuring/change-measuring.module.code.ts"
+} from "akasha/commands/pages/measure/change/change-measuring/change-measuring.module.code.ts"
 import {
   APPLY_AT,
   CHANGE_AT,
@@ -27,7 +27,7 @@ import {
   rowsInto,
   THREE,
   TWO,
-} from "akasha/commands/pages/measure/changes/change-measuring/change-measuring.module.test-fixtures.ts"
+} from "akasha/commands/pages/measure/change/change-measuring/change-measuring.module.test-fixtures.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 
 const scratch = scratchWorld()

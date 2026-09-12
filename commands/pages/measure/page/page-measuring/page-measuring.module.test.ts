@@ -4,7 +4,7 @@ import {
   countsOver,
   linesOf,
   pageTypeOf,
-} from "akasha/commands/pages/measure/pages/page-measuring/page-measuring.module.code.ts"
+} from "akasha/commands/pages/measure/page/page-measuring/page-measuring.module.code.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 
 const scratch = scratchWorld()

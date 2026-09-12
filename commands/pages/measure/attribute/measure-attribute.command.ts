@@ -1,9 +1,9 @@
 import type { Command } from "akasha/commands/command.page-type.types.ts"
 
-export const measureAttributes = {
+export const measureAttribute = {
   id: "01a07803-0b6a-7fdb-9b43-0d4b23b072ee",
   type: "command",
-  slug: "measure-attributes",
+  slug: "measure-attribute",
   definition: "the command saying each attribute's level and the total behind that level",
   code: "ts",
   test: "ts",

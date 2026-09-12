@@ -4,7 +4,7 @@ import {
   measuredIn,
   type Named,
   untotalledOf,
-} from "akasha/commands/pages/measure/personas/measure-personas.command.code.ts"
+} from "akasha/commands/pages/measure/persona/measure-persona.command.code.ts"
 import { rungAt } from "akasha/personas/properties/persona-relationship-level.computed-property.test-fixtures.ts"
 
 const NAMED: readonly Named[] = [
