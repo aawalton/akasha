@@ -19,7 +19,7 @@ export const codeCheck = {
     "code-check/check-reaches-a-path-through-the-index",
     "code-check/client-reaches-a-server-module-through-a-route",
     "code-check/client-reaches-pages-through-its-hooks",
-    "code-check/command-is-in-the-right-folder",
+    "code-check/command-is-named-by-its-place-in-the-tree",
     "code-check/domain-is-named-by-a-parent",
     "code-check/email-address-is-well-formed",
     "code-check/extension-host-reaches-no-bun-code",

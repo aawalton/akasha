@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   PAGES_AT,
   reasonIn,
-} from "akasha/checks/code-checks/pages/command-is-in-the-right-folder/command-is-in-the-right-folder.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.code-check.decision.code.ts"
 
 const ROOT = { folder: PAGES_AT, slug: null }
 

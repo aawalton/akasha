@@ -1,7 +1,7 @@
 import {
   judgingBy,
   kindsFor,
-} from "akasha/checks/code-checks/pages/command-is-in-the-right-folder/command-is-in-the-right-folder.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.code-check.decision.code.ts"
 import type {
   Paged,
   Selector,

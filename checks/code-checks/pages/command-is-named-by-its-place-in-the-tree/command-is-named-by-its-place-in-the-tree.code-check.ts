@@ -1,9 +1,9 @@
 import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.types.ts"
 
-export const commandIsInTheRightFolder = {
+export const commandIsNamedByItsPlaceInTheTree = {
   id: "01a08d69-0b2e-7025-abd3-c4abe10799be",
   type: "code-check",
-  slug: "command-is-in-the-right-folder",
+  slug: "command-is-named-by-its-place-in-the-tree",
   definition:
     "the check refusing a command or a namespace misplaced or misnamed in the command tree",
   runsOnChange: true,
