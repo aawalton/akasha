@@ -7,7 +7,6 @@ import {
   appending,
   changing,
   type Loading,
-  noPageSaid,
   owedBy,
   owingBy,
   pathsNamedBy,
@@ -37,7 +36,6 @@ import {
   PAGE,
   pathsIn,
   piping,
-  presenceIn,
   readingNotText,
   refusedApply,
   removing,
@@ -453,33 +451,6 @@ test("a move names the path it leaves and the path it reaches", () => {
   const said = pathsNamedBy(["a/one.ts", "a/two.ts", "a/kept.ts"], [moved])
 
   expect(said).toEqual(["a/one.ts", "a/two.ts"])
-})
-
-test("the refusal opens with the retry and names where to look before it explains", () => {
-  const root = repo()
-
-  const said = noPageSaid(root, presenceIn(root))
-
-  expect(said).toContain("Run this same call again")
-  expect(said).toContain("nothing was kept and nothing was lost")
-  expect(said.indexOf("subagent-presence.log")).toBeLessThan(said.indexOf("still be queued"))
-})
-
-test("the refusal promises no outcome from waiting and names no call an agent is refused", () => {
-  const root = repo()
-
-  const said = noPageSaid(root, presenceIn(root))
-
-  expect(said).toContain("waiting will not mend it")
-  expect(said).toContain("nothing may have started it")
-  expect(said).not.toContain("bun ")
-})
-
-test("a call naming no agent at all is refused without the retry", () => {
-  const root = repo()
-  presenceIn(root)
-
-  expect(noPageSaid(root, null)).not.toContain("Run this same call again")
 })
 
 test("a change whose writer owes no reading appends without asking the record", async () => {

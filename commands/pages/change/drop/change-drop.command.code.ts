@@ -3,9 +3,9 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import {
   DROP_WORDS,
   dropping,
+  noPageSaid,
   pipedPathsIn,
 } from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
-import { noPageSaid } from "akasha/commands/modules/change-running/change-running.module.code.ts"
 import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { wordlessIn } from "akasha/commands/pages/change/change-arguing/change-arguing.module.code.ts"

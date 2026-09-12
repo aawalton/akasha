@@ -159,43 +159,7 @@ export const changeRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "That refusal opens by naming the retry, which costs only the wait.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That refusal says nothing was kept, so a retry loses nothing.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That refusal names the log to read next before it explains anything.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That refusal says a refusal surviving a few tries will not clear by waiting.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That refusal names all three causes rather than the one that clears.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A landing refused for any reason but the lock is retried by nothing.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "That refusal promises no outcome from waiting.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "That refusal names no act the agent reading it is refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A call naming no agent at all is refused without the retry.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A subagent dispatched or resumed a moment ago can run before that page lands.",
+      statement: "That refusal is worded where every act over the edits kept reads it.",
     },
     {
       invariantKind: "departure",
@@ -297,10 +261,6 @@ export const changeRunning = {
     {
       invariantKind: "departure",
       statement: "A call naming no change is refused with every change the index has.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A refusal composed where no index answers is said without the retry.",
     },
     {
       invariantKind: "departure",

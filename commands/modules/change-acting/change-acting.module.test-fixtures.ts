@@ -12,7 +12,21 @@ import {
 } from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
 import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { indexedRepo } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
+
+const PRESENCE_AT = "akasha/subagent-presence.module.ts"
+
+const PRESENCE_ID = "01a08f0a-0000-7000-8000-000000000001"
+
+const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
+
+const OWN = "a38f63805f9b94edf"
+
+export function presenceIn(root: string): string {
+  listedFiled(root, "module", "subagent-presence", [{ path: PRESENCE_AT, id: PRESENCE_ID }])
+  return `${SEAT_ID}--${OWN}`
+}
 
 export const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"
 

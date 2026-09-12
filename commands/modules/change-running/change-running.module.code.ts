@@ -45,26 +45,10 @@ import {
   changingOf,
   owedIn,
 } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
-import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { indexThere, listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 import { meantSaid } from "akasha/utils/text/suggest-closest/suggest-closest.module.code.ts"
-
-export const PAGE_LANDING =
-  "Run this same call again: nothing was kept and nothing was lost, so one or two tries cost" +
-  " only the wait. Where it is refused again after that, waiting will not mend it — read" +
-  " `subagent-presence.log` under this seat's folder in the user's runtime directory, which is" +
-  " where the landing that writes the page says what happened. That landing runs on its own" +
-  " and the subagent does not wait for it, so it may still be queued, it may have refused, or" +
-  " nothing may have started it. Only the first of the three clears by itself, and only that" +
-  " log tells them apart. A landing that refused for any reason but the lock is retried by" +
-  " nothing."
-
-export function noPageSaid(root: string, agentId: string | null): string {
-  if (agentId === null || presenceAt(root) === null) return NO_PAGE
-  return `${NO_PAGE}. ${PAGE_LANDING}`
-}
 
 const BARE: readonly string[] = []
 
@@ -422,22 +406,4 @@ export async function changing(
     refusals: landed.refusals,
     code: landed.code,
   }
-}
-
-const MODULE = "module"
-
-const PRESENCE = "subagent-presence"
-
-const CODE = "code"
-
-const TS = "ts"
-
-function presenceAt(root: string): string | null {
-  if (!indexThere(root)) return null
-  const page = listedAt(root, MODULE, PRESENCE)[0]
-  const at = page === undefined ? null : besideAt(page.path, CODE, TS)
-  if (at === null) {
-    throw new Error(`no \`${MODULE}\` is slugged \`${PRESENCE}\`, so no call would put a page up`)
-  }
-  return at
 }

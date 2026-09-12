@@ -7,8 +7,43 @@ import type { Answer } from "akasha/commands/modules/calling/calling.module.code
 import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { offRepo, pathAt } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { indexThere, listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
 export const NO_PAGE = "this call names no agent whose page the edits would be kept beside"
+
+const PAGE_LANDING =
+  "Run this same call again: nothing was kept and nothing was lost, so one or two tries cost" +
+  " only the wait. Where it is refused again after that, waiting will not mend it — read" +
+  " `subagent-presence.log` under this seat's folder in the user's runtime directory, which is" +
+  " where the landing that writes the page says what happened. That landing runs on its own" +
+  " and the subagent does not wait for it, so it may still be queued, it may have refused, or" +
+  " nothing may have started it. Only the first of the three clears by itself, and only that" +
+  " log tells them apart. A landing that refused for any reason but the lock is retried by" +
+  " nothing."
+
+const MODULE = "module"
+
+const PRESENCE = "subagent-presence"
+
+const CODE = "code"
+
+const TS = "ts"
+
+function presenceAt(root: string): string | null {
+  if (!indexThere(root)) return null
+  const page = listedAt(root, MODULE, PRESENCE)[0]
+  const at = page === undefined ? null : besideAt(page.path, CODE, TS)
+  if (at === null) {
+    throw new Error(`no \`${MODULE}\` is slugged \`${PRESENCE}\`, so no call would put a page up`)
+  }
+  return at
+}
+
+export function noPageSaid(root: string, agentId: string | null): string {
+  if (agentId === null || presenceAt(root) === null) return NO_PAGE
+  return `${NO_PAGE}. ${PAGE_LANDING}`
+}
 
 const DROPPED = "these edits are gone, and no apply lands them"
 

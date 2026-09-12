@@ -7,9 +7,9 @@ import {
 import { DATA } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Given as Arguments } from "akasha/commands/modules/argument-reading/argument-reading.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { noPageSaid } from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
 import {
   argumentsIn,
-  noPageSaid,
   worldFor,
 } from "akasha/commands/modules/change-running/change-running.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
