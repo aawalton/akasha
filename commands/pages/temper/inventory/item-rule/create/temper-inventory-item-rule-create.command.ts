@@ -25,10 +25,7 @@ export const temperInventoryItemRuleCreate = {
       takes: "whether stocking counts one character or every character",
     },
   ],
-  helpNotes: [
-    "a new per-item rule is inactive until it is activated.",
-    "a title, a note and a goal are held for the web alone and never reach the addon.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
