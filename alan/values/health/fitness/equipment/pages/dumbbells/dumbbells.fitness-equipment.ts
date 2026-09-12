@@ -11,4 +11,5 @@ export const dumbbells = {
   loads: [3, 5, 8, 10, 15, 20, 25, 30],
   notes: "Standard + light DB pairs, one continuous ladder.",
   sortOrder: 1,
+  covers: ["dumbbell"],
 } as const satisfies FitnessEquipment
