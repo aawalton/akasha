@@ -11,7 +11,7 @@ export const athenaCommandFolders = {
     {
       statement: "A parts list is sorted, and no reader depends on the order it is written in.",
       workingMemory:
-        "`parts.relation-property.ts` says what a parts list is and carries the sort as a gap. 343 of 919 parts lists are unsorted. Two readers depend on the written order: `domain-rows.module.code.ts:125` and `listedUnder` at `calling.module.code.ts:361`. Freeing both wants one optional order list declared beside `parts` on `domain.page-type.ts:36`; simulated at `champions-tree` it moves 0 of 11,795 nodes, against 6,638 moved by sorting `parts` alone. Are parts lists alphabetical?\n",
+        "`parts.relation-property.ts:21` carries the sort as a gap. Unsorted lists rise faster than anything sorts them, so this closes with a check, not a sweep. Only one reader is blessed: `champions-tree.module.ts:21` blesses the editor's Domains numbering, fed as `sequence` from `domain-rows.module.code.ts:125`; that ordering needs a property of its own or the sort takes it. The namespace listing at `calling.module.code.ts:361` is blessed by nothing. Alan's: what keeps the Domains numbering?\n",
     },
   ],
 } as const satisfies Initiative
