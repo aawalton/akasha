@@ -5,7 +5,7 @@ import {
 } from "akasha/temper/housing-addon/housing-state/housing-state.module.code.ts"
 import type { LamOption } from "akasha/temper/housing-addon/housing-state-types/housing-state-types.module.code.ts"
 import type { SavedVars } from "akasha/temper/housing-addon/housing-types/housing-types.module.code.ts"
-import { dropdown } from "akasha/temper/settings-panel/dropdown/dropdown.module.code.ts"
+import { dropdown } from "akasha/temper/settings-panel/modules/dropdown/dropdown.module.code.ts"
 import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 
 const portToFriendMenu = portToFriend.menu

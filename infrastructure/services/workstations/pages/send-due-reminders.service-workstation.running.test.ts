@@ -4,11 +4,11 @@ const HANDED: unknown[][] = []
 let CODE = 0
 
 const sending = await import(
-  "akasha/alan/harness/reminder-system/due-reminder-sending/due-reminder-sending.module.code.ts"
+  "akasha/alan/harness/reminder-system/modules/due-reminder-sending/due-reminder-sending.module.code.ts"
 )
 
 mock.module(
-  "akasha/alan/harness/reminder-system/due-reminder-sending/due-reminder-sending.module.code.ts",
+  "akasha/alan/harness/reminder-system/modules/due-reminder-sending/due-reminder-sending.module.code.ts",
   () => ({
     ...sending,
     sendDueReminders: (...args: unknown[]) => {

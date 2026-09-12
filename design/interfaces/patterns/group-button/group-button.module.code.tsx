@@ -6,15 +6,15 @@ import type {
   SortEntry,
   SortOption,
 } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
+import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import {
   DropdownMenu,
   DropdownMenuContent,
   DropdownMenuItem,
   DropdownMenuTrigger,
-} from "akasha/design/interfaces/primitives/dropdown-menu/dropdown-menu.module.code.tsx"
-import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
-import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
-import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
+} from "akasha/design/interfaces/primitives/modules/dropdown-menu/dropdown-menu.module.code.tsx"
 import {
   Popover,
   PopoverContent,

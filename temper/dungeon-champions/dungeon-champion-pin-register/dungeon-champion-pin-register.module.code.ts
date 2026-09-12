@@ -1,7 +1,3 @@
-import {
-  newColorDef,
-  setTextureColor,
-} from "akasha/temper/dungeon-champions/dungeon-champion-colors/dungeon-champion-colors.module.code.ts"
 import { getUiString } from "akasha/temper/dungeon-champions/dungeon-champion-labels/dungeon-champion-labels.module.code.ts"
 import {
   PINS_COLLECTED,
@@ -18,6 +14,10 @@ import {
   PIN_TOOLTIP_CREATOR,
 } from "akasha/temper/dungeon-champions/dungeon-champion-pins/dungeon-champion-pins.module.code.ts"
 import { getSavedVariables } from "akasha/temper/dungeon-champions/dungeon-champion-saved-vars/dungeon-champion-saved-vars.module.code.ts"
+import {
+  newColorDef,
+  setTextureColor,
+} from "akasha/temper/dungeon-champions/modules/dungeon-champion-colors/dungeon-champion-colors.module.code.ts"
 
 function compassSizeCallback(
   this: void,

@@ -26,7 +26,7 @@ import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/
 import {
   type DropZoneInfo,
   findDropZone,
-} from "akasha/pages/ui/components/drop-zones/drop-zones.module.code.ts"
+} from "akasha/pages/ui/components/modules/drop-zones/drop-zones.module.code.ts"
 import {
   PagesUILink,
   usePagesUIRouter,

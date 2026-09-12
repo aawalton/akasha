@@ -7,7 +7,7 @@ import {
   mobImmuneTooltip,
   STRINGS,
 } from "akasha/temper/interface-addon/quiet-strings/quiet-strings.module.code.ts"
-import { dropdown } from "akasha/temper/settings-panel/dropdown/dropdown.module.code.ts"
+import { dropdown } from "akasha/temper/settings-panel/modules/dropdown/dropdown.module.code.ts"
 
 export function buildMessageSections(this: void): LamControlData[] {
   const savedVars = getSavedVariables()

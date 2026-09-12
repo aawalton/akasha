@@ -8,7 +8,7 @@ import type {
   SavedVars,
   VcChatAllowed,
 } from "akasha/temper/housing-addon/housing-types/housing-types.module.code.ts"
-import type { LamDropdownData } from "akasha/temper/settings-panel/dropdown/dropdown.module.code.ts"
+import type { LamDropdownData } from "akasha/temper/settings-panel/modules/dropdown/dropdown.module.code.ts"
 
 export interface ConfigSize {
   width: number

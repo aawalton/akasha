@@ -25,7 +25,7 @@ import {
   asRefreshableControl,
   type IconControl,
 } from "akasha/temper/lorebooks/lorebooks-settings-types/lorebooks-settings-types.module.code.ts"
-import { valueDropdown } from "akasha/temper/settings-panel/dropdown/dropdown.module.code.ts"
+import { valueDropdown } from "akasha/temper/settings-panel/modules/dropdown/dropdown.module.code.ts"
 
 const LMP = LibMapPins
 

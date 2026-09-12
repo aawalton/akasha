@@ -16,7 +16,7 @@ import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.m
 import {
   type DropZoneInfo,
   findDropZone,
-} from "akasha/pages/ui/components/drop-zones/drop-zones.module.code.ts"
+} from "akasha/pages/ui/components/modules/drop-zones/drop-zones.module.code.ts"
 import { GripVertical } from "lucide-react"
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
 

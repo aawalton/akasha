@@ -23,13 +23,13 @@ import {
   getSavedVars,
 } from "akasha/temper/lost-treasure/lost-treasure-saved-vars/lost-treasure-saved-vars.module.code.ts"
 import {
-  type LamDropdownData,
-  valueDropdown,
-} from "akasha/temper/settings-panel/dropdown/dropdown.module.code.ts"
-import {
   header,
   type LamHeaderData,
 } from "akasha/temper/settings-panel/header/header.module.code.ts"
+import {
+  type LamDropdownData,
+  valueDropdown,
+} from "akasha/temper/settings-panel/modules/dropdown/dropdown.module.code.ts"
 import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 
 const logger = createLogger("settings")

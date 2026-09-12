@@ -1,4 +1,4 @@
-import { sendDueReminders } from "akasha/alan/harness/reminder-system/due-reminder-sending/due-reminder-sending.module.code.ts"
+import { sendDueReminders } from "akasha/alan/harness/reminder-system/modules/due-reminder-sending/due-reminder-sending.module.code.ts"
 
 export async function runService(done: string[] = []): Promise<void> {
   const code = await sendDueReminders(done)

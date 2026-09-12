@@ -13,7 +13,7 @@ import {
   dontReadBooks,
   hookAcceptOfferedQuest,
 } from "akasha/temper/interface-addon/quiet-world/quiet-world.module.code.ts"
-import { dropdown } from "akasha/temper/settings-panel/dropdown/dropdown.module.code.ts"
+import { dropdown } from "akasha/temper/settings-panel/modules/dropdown/dropdown.module.code.ts"
 
 export function buildWorldSections(this: void): LamControlData[] {
   const savedVars = getSavedVariables()

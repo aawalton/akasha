@@ -2,11 +2,6 @@
 
 import { Icon } from "akasha/design/interfaces/patterns/lucide-icon/lucide-icon.module.code.tsx"
 import { MenuTabsTrigger } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
-import {
-  DropdownMenuContent,
-  DropdownMenuItem,
-  DropdownMenuSeparator,
-} from "akasha/design/interfaces/primitives/dropdown-menu/dropdown-menu.module.code.tsx"
 import { Input } from "akasha/design/interfaces/primitives/input/input.module.code.tsx"
 import { Label } from "akasha/design/interfaces/primitives/label/label.module.code.tsx"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
@@ -18,6 +13,11 @@ import {
   DialogHeader,
   DialogTitle,
 } from "akasha/design/interfaces/primitives/modules/dialog/dialog.module.code.tsx"
+import {
+  DropdownMenuContent,
+  DropdownMenuItem,
+  DropdownMenuSeparator,
+} from "akasha/design/interfaces/primitives/modules/dropdown-menu/dropdown-menu.module.code.tsx"
 import type { ViewCallbacks } from "akasha/pages/ui/mutators/view-callbacks/view-callbacks.module.code.ts"
 import { useEffect, useRef, useState } from "react"
 

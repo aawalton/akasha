@@ -8,7 +8,7 @@ import {
   getMarkerColor,
   getSv,
 } from "akasha/temper/crafting-addon/writ-mark-saved-variables/writ-mark-saved-variables.module.code.ts"
-import { valueDropdown } from "akasha/temper/settings-panel/dropdown/dropdown.module.code.ts"
+import { valueDropdown } from "akasha/temper/settings-panel/modules/dropdown/dropdown.module.code.ts"
 import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 
 const PANEL_ID = "TemperMasterWritInventoryMarkerSettings"
