@@ -20,17 +20,7 @@ export const trackSessionFile = {
     },
     { said: "--dry-run", takes: "judge what the act would land and write nothing" },
   ],
-  helpNotes: [
-    "every time said here is a US Mountain wall time, and no other clock is read or written.",
-    "a day is named at --day and nowhere else.",
-    "a line handed to file opens with a wall time, carries the title next, and closes with the safety and the difficulty run together.",
-    "each line handed to file ends where the line after it begins, and the last line of the set is left open.",
-    "the lines handed to file are judged as a set and refused as a set, and a set that is sound lands as one commit.",
-    "a line saying no safety carries the safety of the line above it.",
-    "--relationship names a relationship by its id or by its title.",
-    "a title carrying one of a relationship's aliases tags the stretch with that relationship, with no flag said, and what --relationship names is kept beside it.",
-    "an alias more than one relationship carries tags neither, and says nothing about it, since no act that writes stops to ask.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
