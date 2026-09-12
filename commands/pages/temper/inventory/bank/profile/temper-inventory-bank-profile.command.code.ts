@@ -1,14 +1,15 @@
 import { resolve } from "node:path"
+import {
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { readInventoryFileArgs } from "akasha/commands/modules/inventory-file-arguing/inventory-file-arguing.module.code.ts"
 import { readBankProfile } from "akasha/temper/commands/bank-profile-reading/bank-profile-reading.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
-
-const INPUT = 1
-
-const OPERATIONAL = 3
 
 const INVENTORY_LUA = "TemperInventory.lua"
 
@@ -103,8 +104,8 @@ export async function temperInventoryBankProfile(
     read.inventoryPath === null ? savedVarsFile(INVENTORY_LUA) : resolve(root, read.inventoryPath)
   try {
     const profile = (await readBankProfile(at)) as BankProfile
-    if (read.json) return { report: [JSON.stringify(profile)], refusals: [], code: 0 }
-    return { report: [...profileSaid(profile)], refusals: [], code: 0 }
+    if (read.json) return { report: [JSON.stringify(profile)], refusals: [], code: OK }
+    return { report: [...profileSaid(profile)], refusals: [], code: OK }
   } catch (thrown) {
     return refused(whyOf(thrown), OPERATIONAL)
   }
