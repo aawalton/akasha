@@ -14,7 +14,7 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
   type Answer,
-  answering,
+  answeredWith,
   type Given,
 } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -220,19 +220,19 @@ function moving(root: string, stale: readonly Judged[]): Moving {
 
 async function taking(root: string, stale: readonly Judged[], landing: Landing): Promise<Answer> {
   const { moved, why } = moving(root, stale)
-  if (why !== null) return answering(moved, [why], OPERATIONAL)
+  if (why !== null) return answeredWith(moved, [why], OPERATIONAL)
   const changes: readonly Asking[] = stale.map((one) => ({
     at: TAKE,
     given: { at: one.page.path },
   }))
   const landed = await landing(root, changes, messageOf(stale))
-  if ("refusals" in landed) return answering(moved, landed.refusals, OPERATIONAL)
-  if (landed.wrong.length > 0) return answering(moved, landed.wrong, OPERATIONAL)
+  if ("refusals" in landed) return answeredWith(moved, landed.refusals, OPERATIONAL)
+  if (landed.wrong.length > 0) return answeredWith(moved, landed.wrong, OPERATIONAL)
   dropReadings(
     root,
     stale.map((one) => one.page.path)
   )
-  return answering([...moved, ...stale.map((one) => `${one.page.path} went`)], [], 0)
+  return answeredWith([...moved, ...stale.map((one) => `${one.page.path} went`)], [], 0)
 }
 
 export async function agentSubagentSweep(
@@ -244,7 +244,7 @@ export async function agentSubagentSweep(
   landing: Landing = runMechanicalChange
 ): Promise<Answer> {
   const read = namedIn(argv)
-  if ("refused" in read) return answering([], [read.refused], INPUT)
+  if ("refused" in read) return answeredWith([], [read.refused], INPUT)
   const root = resolve(given.root)
   const pages = pagesIn(root)
   let own: OwnIds = NO_OWN_IDS
@@ -258,15 +258,15 @@ export async function agentSubagentSweep(
   const { going, left } = partedStale(root, staleAmong(judged))
   const kept = keptSaid(left)
   if (!read.removing) {
-    return answering([...census, ...kept, ...heldBack(given.calledAs, going.length)], [], 0)
+    return answeredWith([...census, ...kept, ...heldBack(given.calledAs, going.length)], [], 0)
   }
   if (going.length === 0) {
     const why = left.length === 0 ? NOTHING_STALE : ALL_KEPT
-    return answering([...census, ...kept, "", why], [], 0)
+    return answeredWith([...census, ...kept, "", why], [], 0)
   }
   const gone = await taking(root, going, landing)
   if (gone.code !== 0) {
-    return answering([...census, ...kept, "", ...gone.report], [...gone.refusals], gone.code)
+    return answeredWith([...census, ...kept, "", ...gone.report], [...gone.refusals], gone.code)
   }
-  return answering([...census, ...kept, "", ...gone.report], [], 0)
+  return answeredWith([...census, ...kept, "", ...gone.report], [], 0)
 }

@@ -43,7 +43,7 @@ import {
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { answeredWith, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
@@ -451,7 +451,7 @@ export async function musicImportArtist(
   if ("refused" in found) return refused(found.refused, DATA)
   const landed = await landing(given.root, found.changes, messageOf(found.said))
   const wrong = "refusals" in landed ? landed.refusals : landed.wrong
-  if (wrong.length > 0) return answering([], wrong, OPERATIONAL)
+  if (wrong.length > 0) return answeredWith([], wrong, OPERATIONAL)
   const wrote = "refusals" in landed ? [] : landed.landed.map((one) => `wrote ${one}`)
-  return answering(held.json ? [jsonOf(found.said)] : [...rowsOf(found.said), ...wrote], [], OK)
+  return answeredWith(held.json ? [jsonOf(found.said)] : [...rowsOf(found.said), ...wrote], [], OK)
 }

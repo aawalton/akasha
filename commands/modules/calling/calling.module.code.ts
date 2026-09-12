@@ -116,7 +116,7 @@ export function refreshNamed(argv: readonly string[]): boolean {
 
 const loadFrom = createRequire(import.meta.url)
 
-export function answering(
+export function answeredWith(
   report: readonly string[],
   refusals: readonly string[],
   code: number

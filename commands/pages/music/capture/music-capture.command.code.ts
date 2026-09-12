@@ -10,7 +10,7 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { textAt } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { answeredWith, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   buildPlayRow,
   esoDayOfPlay,
@@ -441,13 +441,13 @@ export async function capturing(
   if ("refused" in changes) return refused(changes.refused, DATA)
   if (held.dryRun) {
     const said = [...wouldWrite(changes), NOTHING_WRITTEN]
-    return answering(held.json ? [jsonOf(planned)] : [...rowsOf(planned), ...said], [], OK)
+    return answeredWith(held.json ? [jsonOf(planned)] : [...rowsOf(planned), ...said], [], OK)
   }
   const landed = await landing(given.root, changes, messageFor(planned))
   const wrote = "refusals" in landed ? [] : landed.landed.map((one) => `wrote ${one}`)
   const wrong = "refusals" in landed ? landed.refusals : landed.wrong
-  if (wrong.length > 0) return answering(wrote, wrong, OPERATIONAL)
-  return answering(held.json ? [jsonOf(planned)] : [...rowsOf(planned), ...wrote], [], OK)
+  if (wrong.length > 0) return answeredWith(wrote, wrong, OPERATIONAL)
+  return answeredWith(held.json ? [jsonOf(planned)] : [...rowsOf(planned), ...wrote], [], OK)
 }
 
 export function musicCapture(argv: readonly string[], given: Given): Promise<Answer> {

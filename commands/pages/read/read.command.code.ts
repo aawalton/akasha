@@ -17,7 +17,7 @@ import {
 import { bytesAt, textOf } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
 import {
   type Answer,
-  answering,
+  answeredWith,
   type Given,
 } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
@@ -382,7 +382,7 @@ export function readWith(
     }
   }
   report.push(...restCall(given.calledAs, left, bare))
-  return answering(report, refusals, mistaken ? INPUT : failed ? OPERATIONAL : OK)
+  return answeredWith(report, refusals, mistaken ? INPUT : failed ? OPERATIONAL : OK)
 }
 
 export function read(argv: readonly string[], given: Given): Answer {

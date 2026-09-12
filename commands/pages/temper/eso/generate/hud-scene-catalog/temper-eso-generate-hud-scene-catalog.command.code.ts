@@ -11,7 +11,7 @@ import {
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { answeredWith, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import {
   saidFor,
@@ -180,7 +180,7 @@ export async function temperEsoGenerateHudSceneCatalog(
 
   const fragments = catalog.filter((one) => one.kind === "fragment").length
   const uncategorized = catalog.filter((one) => one.category === "uncategorized").length
-  return answering(
+  return answeredWith(
     [
       `wrote ${String(catalog.length)} component(s) — ${String(fragments)} fragment(s), ` +
         `${String(catalog.length - fragments)} non-fragment control(s), ` +

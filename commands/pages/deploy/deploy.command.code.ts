@@ -6,7 +6,7 @@ import {
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { answeredWith, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { allowedThrough } from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
 import { putUpAddon } from "akasha/commands/pages/deploy/addon-installing/deploy-addon-installing.module.code.ts"
@@ -161,11 +161,11 @@ export async function putUp(
   }
   const bundle = await publishedBundleFor(given.root, slug, dryRun, at, up)
   if (bundle !== null && bundle.refusals.length > 0) {
-    return answering(bundle.lines, bundle.refusals, OPERATIONAL)
+    return answeredWith(bundle.lines, bundle.refusals, OPERATIONAL)
   }
   const web = await putUpWebApp(slug, commit, given, dryRun, at, up)
   if (bundle === null) return web
-  return answering([...bundle.lines, ...web.report], web.refusals, web.code)
+  return answeredWith([...bundle.lines, ...web.report], web.refusals, web.code)
 }
 
 export type PuttingUp = (
@@ -257,7 +257,7 @@ export async function deploy(
   const dry = rest.includes(DRY_RUN)
   const noting = () => (dry ? [] : recordedRefusal(given.root, slug, read.pagePath, commit))
   if (unjudged.length > 0) {
-    return answering([`commit\t${commit}`], [...unjudged, ...noting()], DATA)
+    return answeredWith([`commit\t${commit}`], [...unjudged, ...noting()], DATA)
   }
   const before = opening()
   const up: string[] = []
@@ -268,17 +268,17 @@ export async function deploy(
     if (!dry) costRecorded(given.root, read.pagePath, before, PUT_UP, slug, 0, 1)
     const why = [whyOf(thrown), stoppedPartWay(up)]
     const said = [`commit\t${commit}`, ...up.map((one) => `up\t${one}`)]
-    return answering(said, [...why, ...noting()], OPERATIONAL)
+    return answeredWith(said, [...why, ...noting()], OPERATIONAL)
   }
   if (!dry) {
     costRecorded(given.root, read.pagePath, before, PUT_UP, slug, 0, answer.refusals.length)
   }
   const lines = [`commit\t${commit}`, ...answer.report]
   if (answer.code !== OK || answer.refusals.length > 0) {
-    return answering(lines, [...answer.refusals, ...noting()], answer.code)
+    return answeredWith(lines, [...answer.refusals, ...noting()], answer.code)
   }
-  if (dry) return answering(lines, answer.refusals, answer.code)
+  if (dry) return answeredWith(lines, answer.refusals, answer.code)
   const wrong = recordedCommit(given.root, slug, read.pagePath, commit)
-  if (wrong.length > 0) return answering(lines, wrong, OPERATIONAL)
-  return answering([...lines, `recorded\t${slug}\t${commit}`], [], OK)
+  if (wrong.length > 0) return answeredWith(lines, wrong, OPERATIONAL)
+  return answeredWith([...lines, `recorded\t${slug}\t${commit}`], [], OK)
 }

@@ -11,7 +11,7 @@ import {
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { answeredWith, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import {
   saidFor,
@@ -134,7 +134,7 @@ export async function temperEsoGenerateDeclaration(
     }
   }
 
-  return answering(
+  return answeredWith(
     [
       `${String(selected.functions.length)} function(s), ${String(selected.objects.length)} object(s), ` +
         `${String(selected.events.length)} event(s) and ${String(selected.enums.length)} enum(s) ` +

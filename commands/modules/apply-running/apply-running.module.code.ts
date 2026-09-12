@@ -23,7 +23,7 @@ import {
 } from "akasha/commands/modules/argument-reading/argument-reading.module.code.ts"
 import {
   type Answer,
-  answering,
+  answeredWith,
   type Given,
 } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { noPageSaid } from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
@@ -156,10 +156,10 @@ async function ending(asked: Taken, given: Given): Promise<Ended> {
   const answered = await applying(given, page, asked, said.carried)
   const put = said.unfold === null ? null : undone(given.root, page, said.unfold, answered.landed)
   if (put !== null) {
-    return { answer: answering([put], answered.refusals, answered.code), paths }
+    return { answer: answeredWith([put], answered.refusals, answered.code), paths }
   }
   return {
-    answer: answering(
+    answer: answeredWith(
       [
         ...said.dropped.map(
           (one) => `${one} is dropped — that body is written again on every apply`

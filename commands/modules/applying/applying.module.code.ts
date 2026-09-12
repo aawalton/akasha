@@ -20,7 +20,7 @@ import {
 import type { Given as Arguments } from "akasha/commands/modules/argument-reading/argument-reading.module.code.ts"
 import {
   type Answer,
-  answering,
+  answeredWith,
   type Given,
 } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type { Running } from "akasha/commands/modules/change-kind-running/change-kind-running.module.code.ts"
@@ -186,10 +186,10 @@ export async function applying(
   try {
     const said = await applied(given.root, given.agentId, why, gate, given.writer, [], carried)
     if ("refusals" in said) {
-      return notLanded(answering([...(said.said ?? [])], keeping(said.refusals), said.code))
+      return notLanded(answeredWith([...(said.said ?? [])], keeping(said.refusals), said.code))
     }
     return landedAs(
-      answering(
+      answeredWith(
         [
           ...landedSaid(said.landed),
           ...formattedSaid(said.formatted),

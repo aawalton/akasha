@@ -8,7 +8,7 @@ import {
 } from "akasha/code/name-series/name-series.module.code.ts"
 import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { answeredWith, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { esoDocPathForLuaRoot } from "akasha/temper/build-deploy-checks/eso-doc-api-version/eso-doc-api-version.module.code.ts"
 import { extractColonMethodNames } from "akasha/temper/commands/eso-colon-methods/eso-colon-methods.module.code.ts"
@@ -128,7 +128,7 @@ export function temperEsoGenerateColonMethod(argv: readonly string[], given: Giv
       "every body above is already what this run rendered, so there is nothing to land",
       `that is the round trip: the ${String(runs)} runs compose back to the ${String(spec.names.length)} names one file would have held`
     )
-    return answering(report, [], OK)
+    return answeredWith(report, [], OK)
   }
 
   report.push(
@@ -137,5 +137,5 @@ export function temperEsoGenerateColonMethod(argv: readonly string[], given: Giv
     `the temper-build-deploy-checks package manifest would want a \`./${STEM}\` entry pointing at the aggregate's code, and its workspace-package page would want every run's slug in its part slugs; nothing here writes either`
   )
 
-  return answering(report, [], OK)
+  return answeredWith(report, [], OK)
 }

@@ -6,7 +6,7 @@ import {
 } from "akasha/checks/modules/audit-reading/audit-reading.module.code.ts"
 import { OK, OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { answeredWith, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import {
   buildEsoClonePopulation,
@@ -134,7 +134,7 @@ export function temperEsoDeclarationAudit(argv: readonly string[] = []): Answer 
     observedAtMs: Date.now(),
   }
 
-  if (argv.includes(JSON_FLAG)) return answering([JSON.stringify(audit)], [], OK)
+  if (argv.includes(JSON_FLAG)) return answeredWith([JSON.stringify(audit)], [], OK)
 
   const lines = [...renderAuditReading(SUBJECT, audit.reading)]
   lines.push(
@@ -154,7 +154,7 @@ export function temperEsoDeclarationAudit(argv: readonly string[] = []): Answer 
     lines.push(
       `    Every artifact compared is stamped ${String(cloneApiVersion)}, current with the clone.`
     )
-    return answering(lines, [], OK)
+    return answeredWith(lines, [], OK)
   }
 
   lines.push(
@@ -171,5 +171,5 @@ export function temperEsoDeclarationAudit(argv: readonly string[] = []): Answer 
       `    and ${String(findings.length - MAX_REPORTED)} more, not listed; --json carries every one`
     )
   }
-  return answering(lines, [], OK)
+  return answeredWith(lines, [], OK)
 }

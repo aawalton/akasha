@@ -5,7 +5,7 @@ import {
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { answeredWith, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   bundlePathFor,
   compiledAddon,
@@ -41,7 +41,7 @@ export async function putUpAddon(
   }
   const name = found.canonicalName
   if (dryRun) {
-    return answering(
+    return answeredWith(
       [
         `${slug} would be compiled from ${under} to ${bundlePathFor(codeAt, name)}`,
         `and placed as ${name} in ${goingTo()}`,
@@ -54,12 +54,12 @@ export async function putUpAddon(
   const report: string[] = []
   const compiled = await compiledAddon(codeAt, dir, name)
   report.push(...compiled.lines)
-  if (compiled.refusals.length > 0) return answering(report, compiled.refusals, OPERATIONAL)
+  if (compiled.refusals.length > 0) return answeredWith(report, compiled.refusals, OPERATIONAL)
   up.push(`${name}, compiled from ${under}`)
 
   const placed = placedAddon(codeAt, dir, name)
   report.push(...placed.lines)
-  if (placed.refusals.length > 0) return answering(report, placed.refusals, OPERATIONAL)
+  if (placed.refusals.length > 0) return answeredWith(report, placed.refusals, OPERATIONAL)
   up.push(`${name}, placed where the game reads it`)
-  return answering(report, [], OK)
+  return answeredWith(report, [], OK)
 }

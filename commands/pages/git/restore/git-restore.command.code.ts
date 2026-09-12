@@ -3,7 +3,7 @@ import { dirname, join, resolve } from "node:path"
 import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
   type Answer,
-  answering,
+  answeredWith,
   type Given,
 } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { FILE_PATH } from "akasha/commands/modules/flags/command-flags.module.code.ts"
@@ -341,15 +341,15 @@ export function reportOf(
 
 export function gitRestore(argv: readonly string[], given: Given): Answer {
   const read = namedIn(argv)
-  if ("refused" in read) return answering([], [read.refused], 1)
+  if ("refused" in read) return answeredWith([], [read.refused], 1)
   if (read.named.length === 0) {
-    return answering([], [`name at least one path to restore, as \`${FILE_PATH} <path>\``], 1)
+    return answeredWith([], [`name at least one path to restore, as \`${FILE_PATH} <path>\``], 1)
   }
   const root = resolve(given.root)
   const wanted = pathsIn(root, read.named)
-  if ("refusals" in wanted) return answering([], wanted.refusals, 1)
+  if ("refusals" in wanted) return answeredWith([], wanted.refusals, 1)
   const judged = judgedIn(root, wanted.paths, given.calledAs)
-  if ("refusals" in judged) return answering([], judged.refusals, judged.code ?? 1)
+  if ("refusals" in judged) return answeredWith([], judged.refusals, judged.code ?? 1)
   const going = judged.held.filter((one) => !one.diskHolds || !one.indexHolds)
   const left = judged.held.filter((one) => one.diskHolds && one.indexHolds)
   const done: Held[] = []
@@ -360,7 +360,7 @@ export function gitRestore(argv: readonly string[], given: Given): Answer {
     }
     indexWritten(root, going, judged.cleared)
   } catch (why) {
-    return answering(
+    return answeredWith(
       done.map((one) => `${one.path} is the body HEAD holds again on disk`),
       [
         `${given.calledAs} stopped part way, so the git index may still hold another body — ` +
@@ -369,5 +369,5 @@ export function gitRestore(argv: readonly string[], given: Given): Answer {
       OPERATIONAL
     )
   }
-  return answering(reportOf(going, left, judged.cleared, given.calledAs), [], 0)
+  return answeredWith(reportOf(going, left, judged.cleared, given.calledAs), [], 0)
 }

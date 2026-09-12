@@ -6,7 +6,7 @@ import {
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { answeredWith, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { addonsDir } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { verifyHousing } from "akasha/temper/upstream-data/housing-upstream-verify/housing-upstream-verify.module.code.ts"
 import { verifyMapData } from "akasha/temper/upstream-data/map-data-upstream-verify/map-data-upstream-verify.module.code.ts"
@@ -82,6 +82,10 @@ export async function temperUpstreamDataVerify(argv: readonly string[] = []): Pr
 
   const read = SOURCES_OF[library].map((one) => join(where.addons, one))
   const report = [...ruling.report, `read upstream from ${read.join(", ")}`]
-  if (ruling.parted.length === 0) return answering(report, [], OK)
-  return answering(report, [...ruling.parted, `${library} no longer matches upstream`], OPERATIONAL)
+  if (ruling.parted.length === 0) return answeredWith(report, [], OK)
+  return answeredWith(
+    report,
+    [...ruling.parted, `${library} no longer matches upstream`],
+    OPERATIONAL
+  )
 }

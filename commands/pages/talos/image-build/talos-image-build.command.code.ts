@@ -7,7 +7,7 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
   type Answer,
-  answering,
+  answeredWith,
   type Given,
 } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -112,7 +112,7 @@ async function registering(read: Named, given: Given): Promise<Answer> {
   const report = [`schematic id: ${id}`, `installer iso: ${isoUrl}`]
   if (read.download === null) return told(report)
   const got = await fetched(isoUrl)
-  if ("refused" in got) return answering(report, [got.refused], OPERATIONAL)
+  if ("refused" in got) return answeredWith(report, [got.refused], OPERATIONAL)
   const at = resolve(given.root, read.download)
   await writeFile(at, got.bytes)
   report.push(`wrote ${at}`)
