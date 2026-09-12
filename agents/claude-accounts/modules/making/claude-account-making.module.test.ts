@@ -117,6 +117,16 @@ export const cSeven = {
     expect(text.endsWith("} as const satisfies ClaudeAccount\n")).toBe(true)
   })
 
+  test("an address carrying a quote is written so the page still parses", () => {
+    const text = accountPageText({ slug: "c1", email: 'a"b@c.co', aliasIndex: 1, id: ID }, HERE)
+    expect(text).toContain('  email: "a\\"b@c.co",')
+  })
+
+  test("an address carrying a backslash is written so the page still parses", () => {
+    const text = accountPageText({ slug: "c1", email: "a\\b@c.co", aliasIndex: 1, id: ID }, HERE)
+    expect(text).toContain('  email: "a\\\\b@c.co",')
+  })
+
   test("nothing but the account's own values is written", () => {
     const text = accountPageText({ slug: "c1", email: "a@b.co", aliasIndex: 1, id: ID }, HERE)
     expect(text).not.toContain("accountUuid")

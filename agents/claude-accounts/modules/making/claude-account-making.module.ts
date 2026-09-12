@@ -39,6 +39,14 @@ export const claudeAccountMaking = {
       statement: "An alias slot is written as a number rather than as text.",
     },
     {
+      invariantKind: "constraint",
+      statement: "A page composed here parses whatever characters the address carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every text written into the page is written as a quoted literal is.",
+    },
+    {
       invariantKind: "departure",
       statement: "The page's text closes with one newline.",
     },

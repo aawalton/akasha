@@ -86,6 +86,10 @@ function typedFrom(given: string | Reading, typeSlug: string): string {
   return importedFrom(at)
 }
 
+function said(value: string): string {
+  return JSON.stringify(value)
+}
+
 export function accountPageText(
   given: {
     readonly slug: string
@@ -97,14 +101,14 @@ export function accountPageText(
 ): string {
   const named = typedAs(PAGE_TYPE_SLUG)
   return [
-    `import type { ${named} } from "${typedFrom(reading, PAGE_TYPE_SLUG)}"`,
+    `import type { ${named} } from ${said(typedFrom(reading, PAGE_TYPE_SLUG))}`,
     ``,
     `export const ${exportedAs(given.slug)} = {`,
-    `  id: "${given.id}",`,
-    `  type: "${PAGE_TYPE_SLUG}",`,
-    `  slug: "${given.slug}",`,
-    `  email: "${given.email}",`,
-    `  aliasIndex: ${given.aliasIndex},`,
+    `  id: ${said(given.id)},`,
+    `  type: ${said(PAGE_TYPE_SLUG)},`,
+    `  slug: ${said(given.slug)},`,
+    `  email: ${said(given.email)},`,
+    `  aliasIndex: ${String(given.aliasIndex)},`,
     `} as const satisfies ${named}`,
     ``,
   ].join("\n")
@@ -164,7 +168,7 @@ export async function madeIn(
     if (wrong.length > 0) return { kind: "refused", slug, why: wrong.join("; ") }
     return { kind: "made", slug, path, id }
   } catch (thrown) {
-    const said = thrown instanceof Error ? thrown.message : String(thrown)
+    const whyThrown = thrown instanceof Error ? thrown.message : String(thrown)
     const landed =
       done.length === 0
         ? ""
@@ -173,7 +177,7 @@ export async function madeIn(
     return {
       kind: "refused",
       slug,
-      why: `the page make threw, which it is written never to do: ${said}${landed}`,
+      why: `the page make threw, which it is written never to do: ${whyThrown}${landed}`,
     }
   }
 }
