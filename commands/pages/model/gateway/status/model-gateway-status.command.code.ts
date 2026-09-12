@@ -3,6 +3,7 @@ import type { LiveProxySeat } from "akasha/agents/models/gateway/modules/proxy-s
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import {
+  answeredWith,
   OPERATIONAL,
   refusedBy,
   told,
@@ -66,6 +67,6 @@ export function modelGatewayStatus(argv: readonly string[], given: Given): Answe
   try {
     return statusing(read.taken.json, report)
   } catch (thrown) {
-    return { report, refusals: [whyOf(thrown)], code: OPERATIONAL }
+    return answeredWith(report, [whyOf(thrown)], OPERATIONAL)
   }
 }
