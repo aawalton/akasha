@@ -1,8 +1,14 @@
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { addonsDir as addonsDirArgument } from "akasha/commands/arguments/pages/addons-dir.argument.ts"
+import { codeRoot } from "akasha/commands/arguments/pages/code-root.argument.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { outdated } from "akasha/commands/arguments/pages/outdated.argument.ts"
 import { OK, OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { temperCommunityAddonList as page } from "akasha/commands/pages/temper/community/addon-list/temper-community-addon-list.command.ts"
 import { listDeployables } from "akasha/temper/addons-resolve/deployable-addons/deployable-addons.module.code.ts"
-import { valuesOf } from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 import {
   type PlannedAddon,
   planUpdates,
@@ -12,13 +18,7 @@ import { readInstalledAddons } from "akasha/temper/community-addons/installed-ad
 import { addonsDir } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
-const OUTDATED_FLAG = "--outdated"
-
-const ADDONS_DIR_FLAG = "--addons-dir"
-
-const CODE_ROOT_FLAG = "--code-root"
-
-const JSON_FLAG = "--json"
+const NAMED = [json, codeRoot, addonsDirArgument, outdated]
 
 const SPACES = 2
 
@@ -41,9 +41,15 @@ function countLine(counts: Record<PlannedAddon["status"], number>): string {
   )
 }
 
-export async function temperCommunityAddonList(argv: readonly string[] = []): Promise<Answer> {
-  const addonsPath = valuesOf(argv, ADDONS_DIR_FLAG)[0] ?? addonsDir()
-  const repoRoot = valuesOf(argv, CODE_ROOT_FLAG)[0]
+export async function temperCommunityAddonList(
+  argv: readonly string[],
+  given: Given
+): Promise<Answer> {
+  const read = takenFor(argv, given.calledAs, page, NAMED)
+  if ("refused" in read) return mistaking(read.refused)
+  const taken = read.taken
+  const addonsPath = taken.addonsDir ?? addonsDir()
+  const repoRoot = taken.codeRoot
 
   let plan: ReturnType<typeof planUpdates>
   try {
@@ -60,12 +66,12 @@ export async function temperCommunityAddonList(argv: readonly string[] = []): Pr
     )
   }
 
-  const shown = argv.includes(OUTDATED_FLAG)
+  const shown = taken.outdated
     ? plan.addons.filter((one) => one.status === "outdated")
     : plan.addons
   const counts = countsOf(plan.addons)
 
-  if (argv.includes(JSON_FLAG)) {
+  if (taken.json) {
     return {
       report: JSON.stringify({ addonsDir: addonsPath, counts, addons: shown }, null, SPACES).split(
         "\n"
