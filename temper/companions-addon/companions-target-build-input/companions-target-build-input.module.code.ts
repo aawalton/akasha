@@ -2,7 +2,7 @@ import "akasha/temper/eso-types/eso-api/eso-api.type-declaration.d.ts"
 import {
   ensureCompanionEntry,
   getSavedVariables,
-} from "akasha/temper/companions-addon/companions-saved-variables/companions-saved-variables.module.code.ts"
+} from "akasha/temper/companions-addon/modules/companions-saved-variables/companions-saved-variables.module.code.ts"
 export function getTargetBuildHash(companionId: number): string | undefined {
   const savedVars = getSavedVariables()
   const hash = savedVars.companions[companionId]?.targetBuildHash

@@ -14,14 +14,6 @@ import "akasha/temper/eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso-types/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
 import { TEXT_TERTIARY } from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
 import {
-  formatArmorFromIndices,
-  formatJewelryFromIndices,
-  formatWeaponFromIndices,
-  getQualityColorFromIndex,
-  isWeaponIndexTwoHanded,
-} from "akasha/temper/companions-addon/companions-reverse-mappings/companions-reverse-mappings.module.code.ts"
-import type { SavedCompanionBuild } from "akasha/temper/companions-addon/companions-saved-variables/companions-saved-variables.module.code.ts"
-import {
   getCleanCompanionName,
   getSavedCompanionBuild,
   getSelectedCompanionId,
@@ -49,6 +41,14 @@ import {
   refreshUpgradeIndicators,
 } from "akasha/temper/companions-addon/modules/companions-equipment-panel/companions-equipment-panel.module.code.ts"
 import { TWO_HANDED_TYPES } from "akasha/temper/companions-addon/modules/companions-equipment-rows/companions-equipment-rows.module.code.ts"
+import {
+  formatArmorFromIndices,
+  formatJewelryFromIndices,
+  formatWeaponFromIndices,
+  getQualityColorFromIndex,
+  isWeaponIndexTwoHanded,
+} from "akasha/temper/companions-addon/modules/companions-reverse-mappings/companions-reverse-mappings.module.code.ts"
+import type { SavedCompanionBuild } from "akasha/temper/companions-addon/modules/companions-saved-variables/companions-saved-variables.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 
 function refreshEquipmentOptimalColumn(decoded: CompanionBuildData): undefined {
