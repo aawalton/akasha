@@ -22,7 +22,7 @@ export function widest(said: readonly string[]): number {
   return said.reduce((held, one) => (one.length > held ? one.length : held), 0)
 }
 
-function byName(one: Held, next: Held): number {
+export function byName(one: Held, next: Held): number {
   if (one.named < next.named) return -1
   return one.named > next.named ? 1 : 0
 }

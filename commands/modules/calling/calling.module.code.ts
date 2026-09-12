@@ -23,6 +23,7 @@ import {
   valuedUnder,
 } from "akasha/commands/modules/leveling/command-leveling.module.code.ts"
 import {
+  byName,
   type Held,
   listingOf,
   partsOf,
@@ -352,7 +353,7 @@ function heldUnder(root: string, page: Record<string, unknown> | null): readonly
     const one = levelOfPart(levels, part)
     if (one !== null) held.push(one)
   }
-  return held
+  return held.sort(byName)
 }
 
 function listedUnder(

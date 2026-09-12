@@ -214,6 +214,11 @@ export const calling = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "Two names equally near a word are told apart by name order rather than by the order written.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The help flag past a namespace asks for that namespace's listing.",
     },
     {
