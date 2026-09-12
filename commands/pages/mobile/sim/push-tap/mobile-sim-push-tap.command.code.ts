@@ -13,6 +13,7 @@ import { runSshCapture } from "akasha/alan/harness/mobile-cli/mobile-ssh/mobile-
 import {
   buildApnsPayload,
   buildPushTapScript,
+  PUSH_TAP_APNS_AT,
 } from "akasha/alan/harness/mobile-cli/push-tap-script/push-tap-script.module.code.ts"
 import {
   ensureAppium,
@@ -35,6 +36,7 @@ import {
   answeredWith,
   answering,
   OPERATIONAL,
+  partWay,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -149,6 +151,13 @@ export function pushSaid(read: Read, udid: string): string {
   return `${read.cold ? "cold" : "warm"} push of ${read.route} to ${read.app.bundleId} on ${udid}`
 }
 
+export function puttingSaid(read: Read, udid: string): string {
+  const steps = [`writes ${PUSH_TAP_APNS_AT} there`]
+  if (read.cold) steps.push(`terminates ${read.app.bundleId} on ${udid}`)
+  steps.push(`pushes ${read.route}`)
+  return `put the push script to ${MACBOOK.host}, which ${steps.join(", then ")}`
+}
+
 export async function probed(
   read: Read,
   done: string[],
@@ -157,6 +166,7 @@ export async function probed(
   const base = await probing.appium(done)
   const udid = read.udid ?? probing.loaded()?.udid ?? (await probing.sim(done))
 
+  done.push(puttingSaid(read, udid))
   const pushed = await probing.pushed(read, udid)
   done.push(pushSaid(read, udid), pushed.trimEnd())
 
@@ -169,6 +179,7 @@ export async function probed(
         done,
         [
           "the installed bundle exposes no tap trace, so it was built without the instrument — install one from a tree that carries it",
+          ...partWay(done),
         ],
         OPERATIONAL
       )
@@ -178,6 +189,7 @@ export async function probed(
         done,
         [
           `no trace appeared in ${Math.round((TRIES * WAIT_MS) / A_SECOND)}s of the tap, so either no banner was there to tap or the tap did not reach the push handler`,
+          ...partWay(done),
         ],
         OPERATIONAL
       )

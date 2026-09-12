@@ -1,5 +1,7 @@
 export const DEEP_LINK_PATH_KEY = "path"
 
+export const PUSH_TAP_APNS_AT = "/var/tmp/ops-sim-push-tap.apns"
+
 export interface ApnsPayload {
   readonly "Simulator Target Bundle": string
   readonly aps: {
@@ -36,8 +38,7 @@ export function buildPushTapScript(opts: {
   readonly cold: boolean
 }): string {
   const encoded = encodeApnsPayload(opts.payload)
-  const file = "/var/tmp/ops-sim-push-tap.apns"
-  const lines = ["set -e", `printf '%s' ${encoded} | base64 -d > ${file}`]
+  const lines = ["set -e", `printf '%s' ${encoded} | base64 -d > ${PUSH_TAP_APNS_AT}`]
   if (opts.cold) {
     lines.push(`xcrun simctl terminate ${opts.udid} ${opts.bundleId} 2>&1 || true`)
     lines.push("sleep 2")
@@ -46,6 +47,6 @@ export function buildPushTapScript(opts: {
     )
     lines.push("echo 'PRECONDITION: app not running'")
   }
-  lines.push(`xcrun simctl push ${opts.udid} ${opts.bundleId} ${file}`)
+  lines.push(`xcrun simctl push ${opts.udid} ${opts.bundleId} ${PUSH_TAP_APNS_AT}`)
   return lines.join("\n")
 }

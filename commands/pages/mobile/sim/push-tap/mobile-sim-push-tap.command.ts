@@ -28,6 +28,22 @@ export const mobileSimPushTap = {
     },
     {
       invariantKind: "departure",
+      statement: "The push script is named before that script is run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The naming of that script says the file it writes and the app it terminates.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that threw inside the push script names that script in its refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run refused for want of a trace names what was done as well as why.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The answer and the refusal are drawn from that one list of what was done.",
     },
     {

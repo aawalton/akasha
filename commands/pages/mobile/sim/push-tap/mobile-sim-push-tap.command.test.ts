@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { MobileApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+import { PUSH_TAP_APNS_AT } from "akasha/alan/harness/mobile-cli/push-tap-script/push-tap-script.module.code.ts"
 import {
   answering,
   OPERATIONAL,
@@ -14,6 +15,7 @@ import {
   mobileSimPushTap,
   probed,
   pushSaid,
+  puttingSaid,
 } from "akasha/commands/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.code.ts"
 
 const UDID = "3F0C9A11-0000-4000-8000-000000000001"
@@ -33,6 +35,8 @@ const APP = { bundleId: "com.example.app" } as MobileApp
 const READ: Read = { app: APP, route: "/inbox", cold: true, udid: UDID, title: undefined }
 
 const PUSHED = pushSaid(READ, UDID)
+
+const PUTTING = puttingSaid(READ, UDID)
 
 const SAID = "PUSH_TAP_OK"
 
@@ -69,31 +73,35 @@ test("each thing this did is named as soon as this did it", async () => {
   const done: string[] = []
 
   await probed(READ, done, probing())
-  expect(done).toEqual([PUSHED, SAID, TRACE])
+  expect(done).toEqual([PUTTING, PUSHED, SAID, TRACE])
 })
 
 test("a push-tap that threw after the push names that push in its refusal", async () => {
   const held = await answering(async (done) => await probed(READ, done, SESSIONLESS))
 
   expect(held.code).toBe(OPERATIONAL)
-  expect(held.report).toEqual([PUSHED, SAID])
+  expect(held.report).toEqual([PUTTING, PUSHED, SAID])
   const last = held.refusals[held.refusals.length - 1] as string
   expect(last).toContain(PUSHED)
   expect(last).toContain(SAID)
 })
 
-test("a push-tap that threw before the push names nothing", async () => {
+test("a push-tap that threw inside the push names what that script may have got through", async () => {
   const held = await answering(async (done) => await probed(READ, done, UNPUSHABLE))
 
-  expect(held.report).toEqual([])
-  expect(held.refusals.some((one) => one.includes("stopped part way"))).toBe(false)
+  expect(held.report).toEqual([PUTTING])
+  const last = held.refusals[held.refusals.length - 1] as string
+  expect(last).toContain("stopped part way")
+  expect(last).toContain(PUSH_TAP_APNS_AT)
+  expect(last).toContain(`terminates ${APP.bundleId} on ${UDID}`)
 })
 
 test("a tap that drew no trace is refused with the push still named", async () => {
   const held = await answering(async (done) => await probed(READ, done, QUIET))
 
   expect(held.code).toBe(OPERATIONAL)
-  expect(held.report).toEqual([PUSHED, SAID])
+  expect(held.report).toEqual([PUTTING, PUSHED, SAID])
+  expect(held.refusals.at(-1)).toContain(PUSHED)
 })
 
 test("a call naming no route is refused before any push goes out", async () => {
