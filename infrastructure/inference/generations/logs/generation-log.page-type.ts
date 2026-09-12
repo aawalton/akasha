@@ -28,12 +28,12 @@ export const generationLog = {
       statement: "A log is reached by the slug the inference commands are pointed at.",
     },
     {
-      invariantKind: "gap",
-      statement: "Nothing lands a row.",
+      invariantKind: "departure",
+      statement: "A row is landed by appending one line to the file beside the log.",
     },
     {
-      invariantKind: "gap",
-      statement: "The log reaches only as far as its last hand-written line.",
+      invariantKind: "departure",
+      statement: "The log reaches as far as the last run an inference command made.",
     },
   ],
   types: "ts",

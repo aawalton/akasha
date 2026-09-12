@@ -39,19 +39,16 @@ export const inferenceRun = {
       statement: "Nothing here knows which host a service is on.",
     },
     {
-      invariantKind: "gap",
-      statement:
-        "No run is recorded, since the generation log refuses every row rather than landing one.",
+      invariantKind: "departure",
+      statement: "A run is recorded as a row beside the generation log that run names.",
     },
     {
-      invariantKind: "gap",
-      statement:
-        "A command recording a run stops at that refusal before reaching anything it would record.",
+      invariantKind: "departure",
+      statement: "What a recording landed is pushed into the caller's `done` as it lands.",
     },
     {
-      invariantKind: "gap",
-      statement:
-        "Whoever makes a row land mends the six `inference` commands holding a report beside the guard's.",
+      invariantKind: "departure",
+      statement: "A recording that threw part way names in its refusal what had landed by then.",
     },
   ],
 } as const satisfies Domain
