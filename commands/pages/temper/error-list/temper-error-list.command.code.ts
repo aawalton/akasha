@@ -6,8 +6,8 @@ import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import { staleAfterHours as staleAfterHoursArgument } from "akasha/commands/arguments/pages/stale-after-hours.argument.ts"
 import {
   DATA,
-  OK,
   refused,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
@@ -227,19 +227,15 @@ export async function temperErrorList(argv: readonly string[], given: Given): Pr
       triageReason: one.triageReason,
       ...(one.inferred === undefined ? {} : { inferredCulprit: one.inferred }),
     }))
-    return { report: [JSON.stringify(out), ...heldLine], refusals: [], code: OK }
+    return told([JSON.stringify(out), ...heldLine])
   }
 
   if (shown.length === 0) {
-    return {
-      report: [
-        `every one of the ${String(all.length)} captured errors is stale, so none is still firing`,
-        ...heldLine,
-      ],
-      refusals: [],
-      code: OK,
-    }
+    return told([
+      `every one of the ${String(all.length)} captured errors is stale, so none is still firing`,
+      ...heldLine,
+    ])
   }
 
-  return { report: [HEADING, ...shown.map(rowOf), ...heldLine], refusals: [], code: OK }
+  return told([HEADING, ...shown.map(rowOf), ...heldLine])
 }

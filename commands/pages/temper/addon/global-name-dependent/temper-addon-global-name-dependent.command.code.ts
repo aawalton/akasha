@@ -6,8 +6,8 @@ import { global as globalArgument } from "akasha/commands/arguments/pages/global
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import {
   DATA,
-  OK,
   refused,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
@@ -149,16 +149,12 @@ export function temperAddonGlobalNameDependent(argv: readonly string[], given: G
       : [enumerateGlobalDependents({ global: named, files: sources })]
 
   if (taken.json) {
-    return { report: reports.map((one) => JSON.stringify(one)), refusals: [], code: OK }
+    return told(reports.map((one) => JSON.stringify(one)))
   }
 
   if (reports.length === 0) {
-    return {
-      report: ["no global an addon writes carries a settings-panel binding here"],
-      refusals: [],
-      code: OK,
-    }
+    return told(["no global an addon writes carries a settings-panel binding here"])
   }
 
-  return { report: reports.flatMap(linesFor), refusals: [], code: OK }
+  return told(reports.flatMap(linesFor))
 }
