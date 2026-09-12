@@ -1,11 +1,12 @@
 import { dirname, join } from "node:path"
 import {
+  answeredWith,
   DATA,
   OK,
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { answeredWith, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   bundlePathFor,
   compiledAddon,

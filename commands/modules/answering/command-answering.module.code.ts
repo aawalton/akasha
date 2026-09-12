@@ -87,3 +87,11 @@ export async function answering(
 export function flagsAloneIn(said: Loose): readonly string[] {
   return said.loose.map((one) => `\`${one}\` follows nothing this takes — it takes flags alone`)
 }
+
+export function answeredWith(
+  report: readonly string[],
+  refusals: readonly string[],
+  code: number
+): Answer {
+  return { report, refusals, code }
+}

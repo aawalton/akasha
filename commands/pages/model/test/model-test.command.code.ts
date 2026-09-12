@@ -10,13 +10,13 @@ import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import { modelTest as modelTestArgument } from "akasha/commands/arguments/pages/model-test.argument.ts"
 import { show } from "akasha/commands/arguments/pages/show.argument.ts"
 import {
+  answeredWith,
   codeOf,
   DATA,
   OK,
   refusedBy,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { answeredWith } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { modelTest as page } from "akasha/commands/pages/model/test/model-test.command.ts"
 

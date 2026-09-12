@@ -4,12 +4,11 @@ import {
   MECHANICAL_KIND,
   runMechanicalChange,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
-  type Answer,
   answeredWith,
-  type Given,
-} from "akasha/commands/modules/calling/calling.module.code.ts"
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { builtIn } from "akasha/commands/modules/file-arguing/file-arguing.module.code.ts"
 import { commitSaid } from "akasha/commands/modules/landing-saying/landing-saying.module.code.ts"
 import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"

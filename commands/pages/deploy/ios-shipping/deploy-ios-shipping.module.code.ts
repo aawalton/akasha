@@ -14,11 +14,12 @@ import {
 } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import { runTestflightCut } from "akasha/alan/harness/mobile-cli/testflight-cut/testflight-cut.module.code.ts"
 import {
+  answeredWith,
   DATA,
   OPERATIONAL,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { type Answer, answeredWith } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { pushBranch } from "akasha/git/pushing/git-pushing.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"

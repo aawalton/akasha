@@ -28,6 +28,7 @@ import {
 import { costRecorded, opening } from "akasha/checks/modules/cost/check-cost.module.code.ts"
 import { decodeUtf8 } from "akasha/code/utf8-body/utf8-body.module.code.ts"
 import {
+  answeredWith,
   DATA,
   OPERATIONAL,
   refusedBy,
@@ -37,7 +38,7 @@ import {
   type Given as Arguments,
   readingIn,
 } from "akasha/commands/modules/argument-reading/argument-reading.module.code.ts"
-import { type Answer, answeredWith } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   NO_PAGE,
   saidOf,

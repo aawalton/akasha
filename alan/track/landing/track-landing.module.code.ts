@@ -2,9 +2,12 @@ import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { keeping } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  answeredWith,
+  keeping,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
-import { type Answer, answeredWith } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { commitSaid } from "akasha/commands/modules/landing-saying/landing-saying.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"

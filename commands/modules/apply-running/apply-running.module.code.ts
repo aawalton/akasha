@@ -9,7 +9,11 @@ import {
   linesIn,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { costRecorded, opening } from "akasha/checks/modules/cost/check-cost.module.code.ts"
-import { DATA, refusedBy } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  answeredWith,
+  DATA,
+  refusedBy,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
   applying,
   askedIn,
@@ -21,11 +25,7 @@ import {
   type Given as Arguments,
   readingIn,
 } from "akasha/commands/modules/argument-reading/argument-reading.module.code.ts"
-import {
-  type Answer,
-  answeredWith,
-  type Given,
-} from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { noPageSaid } from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
 import {
   APPLY,
