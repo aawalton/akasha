@@ -1,7 +1,7 @@
 "use client"
 
-import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
 import { InputBadge } from "akasha/design/interfaces/badges/input-badge/input-badge.module.code.tsx"
+import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
 import { resolveBadgeVariant } from "akasha/pages/core/resolve-badge-variant/resolve-badge-variant.module.code.ts"
 import { parseConfig } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import { textConfigSchema } from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"

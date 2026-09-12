@@ -1,6 +1,6 @@
 "use client"
 
-import { BadgeLayoutProvider } from "akasha/design/interfaces/badges/badge-layout-context/badge-layout-context.module.code.tsx"
+import { BadgeLayoutProvider } from "akasha/design/interfaces/badges/modules/badge-layout-context/badge-layout-context.module.code.tsx"
 import { InlineEditableText } from "akasha/design/interfaces/forms/inline-editable-text/inline-editable-text.module.code.tsx"
 import { PageLayout } from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
 import { PAGE_TITLE_CLASSES } from "akasha/design/interfaces/layout/page-layout-data/page-layout-data.module.code.ts"

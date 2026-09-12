@@ -1,6 +1,6 @@
 "use client"
 
-import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
+import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import { getValueArray } from "akasha/pages/core/property-types/path-select/path-select.module.code.ts"
 import { parseConfig } from "akasha/pages/core/schema/pages/pages.module.code.ts"

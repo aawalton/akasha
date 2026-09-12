@@ -1,6 +1,6 @@
 "use client"
 
-import { BadgeRow } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
+import { BadgeRow } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
 import type {
   PageDataJSON,
   PropertyDefinition,

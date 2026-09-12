@@ -3,7 +3,7 @@
 import {
   Badge,
   type badgeVariants,
-} from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
+} from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
 import {
   Select,
   SelectContent,

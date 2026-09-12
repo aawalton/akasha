@@ -14,7 +14,7 @@ import { z } from "zod"
 
 const NODE_ENV_SCHEMA = z.string().optional()
 
-import { useBadgeLayoutContext } from "akasha/design/interfaces/badges/badge-layout-context/badge-layout-context.module.code.tsx"
+import { useBadgeLayoutContext } from "akasha/design/interfaces/badges/modules/badge-layout-context/badge-layout-context.module.code.tsx"
 
 const VARIANT_MAP = {
   accent: "bg-accent/15 text-accent [button&]:active:bg-accent/35 [a&]:active:bg-accent/35",

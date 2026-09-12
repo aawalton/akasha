@@ -1,6 +1,6 @@
 "use client"
 
-import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
+import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
 import { TimeBadge } from "akasha/design/interfaces/badges/time-badge/time-badge.module.code.tsx"
 import { formatTime12h } from "akasha/design/interfaces/forms/format-time/format-time.module.code.ts"
 import type { PropertyValue } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"

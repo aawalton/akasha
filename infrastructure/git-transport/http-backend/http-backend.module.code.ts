@@ -1,4 +1,4 @@
-import { backendEnv } from "akasha/infrastructure/git-transport/backend-env/backend-env.module.code.ts"
+import { backendEnv } from "akasha/infrastructure/git-transport/modules/backend-env/backend-env.module.code.ts"
 import { z } from "zod"
 
 const GIT_HTTP_BACKEND_BIN_DEFAULT = z.string().default("/usr/libexec/git-core/git-http-backend")

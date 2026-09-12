@@ -1,7 +1,7 @@
 "use client"
 
-import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
 import { InputBadge } from "akasha/design/interfaces/badges/input-badge/input-badge.module.code.tsx"
+import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
 import { hostIn } from "akasha/design/interfaces/badges/url-badge/url-badge.module.code.tsx"
 import type { PropertyBadgeProps } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
 import { scalarText } from "akasha/utils/narrow/scalar-text/scalar-text.module.code.ts"

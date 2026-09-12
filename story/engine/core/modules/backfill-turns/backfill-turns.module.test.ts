@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { deriveLogTurns } from "akasha/story/engine/core/backfill-turns/backfill-turns.module.code.ts"
+import { deriveLogTurns } from "akasha/story/engine/core/modules/backfill-turns/backfill-turns.module.code.ts"
 
 const narrative = (turn: number, text: string, id?: string | number) => ({
   type: "narrative",

@@ -1,7 +1,7 @@
 "use client"
 
-import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
 import { BadgeToggleGroup } from "akasha/design/interfaces/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
 import {
   Popover,
   PopoverContent,

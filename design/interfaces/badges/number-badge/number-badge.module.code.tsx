@@ -1,10 +1,10 @@
 "use client"
 
+import { ButtonBadge } from "akasha/design/interfaces/badges/button-badge/button-badge.module.code.tsx"
 import {
   Badge,
   type BadgeVariant,
-} from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
-import { ButtonBadge } from "akasha/design/interfaces/badges/button-badge/button-badge.module.code.tsx"
+} from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import { useNumberDraft } from "akasha/design/interfaces/primitives/use-number-draft/use-number-draft.module.code.ts"
 import * as React from "react"

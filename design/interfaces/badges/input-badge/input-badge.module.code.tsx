@@ -3,7 +3,7 @@
 import {
   Badge,
   type BadgeVariant,
-} from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
+} from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import * as React from "react"
 

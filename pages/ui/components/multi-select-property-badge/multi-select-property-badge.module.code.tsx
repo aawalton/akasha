@@ -1,7 +1,7 @@
 "use client"
 
-import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
-import { useBadgeLayoutContext } from "akasha/design/interfaces/badges/badge-layout-context/badge-layout-context.module.code.tsx"
+import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
+import { useBadgeLayoutContext } from "akasha/design/interfaces/badges/modules/badge-layout-context/badge-layout-context.module.code.tsx"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import { getValueArray } from "akasha/pages/core/property-types/multi-relation/multi-relation.module.code.ts"
 import { getOptions } from "akasha/pages/core/property-types/multi-select-property/multi-select-property.module.code.ts"

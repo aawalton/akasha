@@ -1,10 +1,10 @@
 "use client"
 
-import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
 import {
   localDateIn,
   localDateOf,
 } from "akasha/design/interfaces/badges/date-badge/date-badge.module.code.tsx"
+import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
 import { Calendar } from "akasha/design/interfaces/forms/calendar/calendar.module.code.tsx"
 import {
   Popover,

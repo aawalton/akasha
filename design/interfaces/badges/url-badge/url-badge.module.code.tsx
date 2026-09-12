@@ -3,7 +3,7 @@
 import {
   Badge,
   type BadgeVariant,
-} from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
+} from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
 import { ExternalLink } from "lucide-react"
 
 interface UrlBadgeProps {
