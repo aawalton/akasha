@@ -70,7 +70,10 @@ export type ResolveRemoteControlEnvOpts = {
 export function resolveRemoteControlEnv(
   opts: ResolveRemoteControlEnvOpts
 ): RemoteControlEnv | undefined {
-  if (!opts.remoteControlWanted) return undefined
+  if (!opts.remoteControlWanted) {
+    opts.log?.("remote-control: this spawn asked for none — RC omitted, inference stays on TCP")
+    return undefined
+  }
 
   const socketPath = opts.socketPath
   if (!existsSync(socketPath)) {
