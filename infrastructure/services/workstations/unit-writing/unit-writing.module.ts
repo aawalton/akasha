@@ -65,7 +65,20 @@ export const unitWriting = {
     {
       invariantKind: "departure",
       statement:
-        "The exit codes a unit recycles on are the ones that service's page states and no others.",
+        "One exit means a service is leaving for code that moved rather than leaving because it failed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That exit is named here, and every service stating no schedule recycles on it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A scheduled service recycles on nothing, its next tick reading the code as it is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An exit code a service states joins that exit rather than replacing it.",
     },
   ],
 } as const satisfies Module

@@ -32,7 +32,14 @@ test("a service stating no schedule is simple, wanted by the default target, and
   expect(text).toContain("Type=simple")
   expect(text).toContain("Restart=always")
   expect(text).toContain("WantedBy=default.target")
-  expect(text).toContain("SuccessExitStatus=143\n")
+  expect(text).toContain("SuccessExitStatus=143 79\n")
+  expect(text).toContain("RestartForceExitStatus=79\n")
+})
+
+test("a scheduled service recycles on nothing at all", () => {
+  const text = serviceUnitText(pageOf({ systemd: { schedule: "hourly" } }))
+  expect(text).not.toContain("SuccessExitStatus")
+  expect(text).not.toContain("RestartForceExitStatus")
 })
 
 test("a service is put in the slice ranking below the apps Alan is using", () => {
@@ -56,7 +63,6 @@ test("the command a page states is the one the unit starts", () => {
   const text = serviceUnitText(pageOf({}))
   expect(text).toContain(`ExecStart=/usr/bin/env bash -c 'exec ${RUNS_TYPESCRIPT}'`)
   expect(text).not.toContain(" -- ")
-  expect(text).not.toContain("RestartForceExitStatus")
 })
 
 test("a scheduled service is oneshot and states no install", () => {
@@ -156,20 +162,23 @@ test("a start limit window a service states is written before the service sectio
   expect(text.indexOf("StartLimitIntervalSec=")).toBeLessThan(text.indexOf("[Service]"))
 })
 
-test("an exit code a service recycles on joins the one a term leaves", () => {
+test("an exit code a service states joins the term and the moved code rather than replacing them", () => {
   const text = serviceUnitText(
     pageOf({ systemd: { successExitStatus: 75, restartForceExitStatus: 75 } })
   )
-  expect(text).toContain("SuccessExitStatus=143 75")
-  expect(text).toContain("RestartForceExitStatus=75")
+  expect(text).toContain("SuccessExitStatus=143 79 75\n")
+  expect(text).toContain("RestartForceExitStatus=79 75\n")
 })
 
-test("a service forces a restart on the code its page states and on no other", () => {
+test("a service stating one exit twice is written that exit once", () => {
   const text = serviceUnitText(
-    pageOf({ runs: ["/usr/bin/held"], systemd: { restartForceExitStatus: 75 } })
+    pageOf({
+      runs: ["/usr/bin/held"],
+      systemd: { successExitStatus: 79, restartForceExitStatus: 79 },
+    })
   )
-  expect(text).toContain("RestartForceExitStatus=75\n")
-  expect(text).toContain("SuccessExitStatus=143\n")
+  expect(text).toContain("SuccessExitStatus=143 79\n")
+  expect(text).toContain("RestartForceExitStatus=79\n")
 })
 
 test("the accuracy a scheduled service states is written on that service's timer", () => {

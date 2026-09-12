@@ -12,6 +12,8 @@ const TIMER_TARGET = "timers.target"
 const LENIENT = "-"
 const SECRETS_FILE = "%h/.secrets.env"
 
+export const RESTART_EXIT = 79
+
 export const WRITTEN_PREFIX = "# Written from "
 
 export type Started = ServiceWorkstation & { readonly runs: Runs }
@@ -84,9 +86,9 @@ function joined(codes: readonly number[]): string {
 export function exitLines(given: Service): readonly string[] {
   const stated = given.service.systemd
   const stops = stated?.successExitStatus === undefined ? [] : [stated.successExitStatus]
-  const forced = stated?.restartForceExitStatus === undefined ? [] : [stated.restartForceExitStatus]
-  const lines = [`SuccessExitStatus=${joined([SIGTERM_EXIT, ...stops])}`]
-  if (forced.length > 0) lines.push(`RestartForceExitStatus=${joined(forced)}`)
+  const forces = stated?.restartForceExitStatus === undefined ? [] : [stated.restartForceExitStatus]
+  const lines = [`SuccessExitStatus=${joined([SIGTERM_EXIT, RESTART_EXIT, ...stops])}`]
+  lines.push(`RestartForceExitStatus=${joined([RESTART_EXIT, ...forces])}`)
   return lines
 }
 

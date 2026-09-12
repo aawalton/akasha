@@ -8,6 +8,7 @@ export const serviceWorkstation = {
   pluralSlug: "service-workstations",
   extends: ["page-type/service"],
   parts: [
+    "module/code-moving",
     "module/file-following",
     "module/service-alerting",
     "module/service-beating",
