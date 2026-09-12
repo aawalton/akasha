@@ -52,11 +52,6 @@ export const athenaCommandTree = {
         "`list` already holds: `change-list`, `email-messages-list` and `temper-inventory-rule-list` each answer many. `show` drifts both ways: `temper-inventory-rule-show` answers one rule by id, while `page-secret-show.command.ts:7` names which secrets a page holds and `track-session-show.command.ts:7` says the stretches a day has. `page-secret-reveal.command.ts:7` answers one and is named neither. `imessage-recent` and `imessage-unread-list` both give back messages.\n",
     },
     {
-      statement: "One command issues Alan's Google consent.",
-      workingMemory:
-        "`google-auth-login.command.ts:7` grants one consent for calendar, drive and mail and writes `GOOGLE_OAUTH_REFRESH_TOKEN`. `email-auth-login.command.ts:7` still issues a Gmail-only `GOOGLE_GMAIL_OAUTH_REFRESH_TOKEN`, and `gmail-credentials.module.code.ts:11` still reads it, so mail runs on the narrow consent. Both take the same `--callback-url`. `google-oauth.domain.ts:22` already says one consent covers all three. Mail moves onto the shared token and the second command goes.\n",
-    },
-    {
       statement: "A machine-facing answer is a flag on the command a person runs.",
       workingMemory:
         "`--json` is already the convention at `model-test.command.ts:15` and `icloud-fetch.command.ts:16`. Four commands are a second name instead: `domain-tree.command.ts:7` answers as JSON what `domain-dag` draws; `agent-forest:7` and `seat-compose-notices:7` each answer one JSON object; `claude-account-usage:7` answers a fleet mean where `measure-claude-accounts-usage:7` answers each account, so that pair differs in shape too. Each exists because the editor forks it.\n",
