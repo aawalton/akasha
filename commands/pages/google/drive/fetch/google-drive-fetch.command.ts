@@ -17,14 +17,7 @@ export const googleDriveFetch = {
     },
     { said: "--out <dir>", takes: "the folder to write into, made where nothing is there" },
   ],
-  helpNotes: [
-    "the file is named in place or as a flag, and naming it both ways over is refused.",
-    "every Drive URL shape is read for the id it carries, and a bare id is taken as it is.",
-    "the name the file lands under on disk is the name Drive holds for it.",
-    "a folder named here is read against the repository root, and naming none writes into the folder the call came from.",
-    "a Docs, Sheets or Slides file holds no bytes to download and is refused rather than exported.",
-    "the consent this leans on is granted by `akasha google auth login`, and it reaches Drive read-only.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
