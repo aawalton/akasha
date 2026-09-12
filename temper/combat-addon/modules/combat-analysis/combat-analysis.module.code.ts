@@ -1,10 +1,4 @@
 import {
-  basicTable,
-  CATEGORY_LIST,
-  type CategoryKey,
-  sumUnitTables,
-} from "akasha/temper/combat-addon/combat-categories/combat-categories.module.code.ts"
-import {
   LOG_LEVEL_DEBUG,
   log,
 } from "akasha/temper/combat-addon/combat-core-log/combat-core-log.module.code.ts"
@@ -64,6 +58,12 @@ import {
   processQuickslotEvents,
 } from "akasha/temper/combat-addon/combat-process-log-timings/combat-process-log-timings.module.code.ts"
 import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
+import {
+  basicTable,
+  CATEGORY_LIST,
+  type CategoryKey,
+  sumUnitTables,
+} from "akasha/temper/combat-addon/modules/combat-categories/combat-categories.module.code.ts"
 
 const DESIRED_TIME = 0.01
 const STEP_SIZE = 20

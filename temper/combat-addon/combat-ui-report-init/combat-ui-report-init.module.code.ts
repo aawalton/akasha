@@ -1,4 +1,4 @@
-import { REPORT_SCENE_NAME } from "akasha/temper/combat-addon/combat-constants/combat-constants.module.code.ts"
+import { REPORT_SCENE_NAME } from "akasha/temper/combat-addon/modules/combat-constants/combat-constants.module.code.ts"
 import "akasha/temper/combat-addon/combat-ui-report-rows/combat-ui-report-rows.module.code.ts"
 import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
 import { updateAbilityPanel } from "akasha/temper/combat-addon/combat-ui-ability-panel/combat-ui-ability-panel.module.code.ts"

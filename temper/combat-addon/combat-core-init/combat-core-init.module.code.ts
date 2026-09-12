@@ -1,10 +1,3 @@
-import { initializeActions } from "akasha/temper/combat-addon/combat-actions-init/combat-actions-init.module.code.ts"
-import {
-  setInCombat,
-  setInitialized,
-  setPlayername,
-} from "akasha/temper/combat-addon/combat-addon-state/combat-addon-state.module.code.ts"
-import { ADDON_NAME } from "akasha/temper/combat-addon/combat-constants/combat-constants.module.code.ts"
 import {
   initCurrentData,
   initializeChat,
@@ -26,6 +19,13 @@ import {
 } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
 import { registerSlashCommands } from "akasha/temper/combat-addon/combat-slash-commands/combat-slash-commands.module.code.ts"
 import { initializeUI } from "akasha/temper/combat-addon/combat-ui-window/combat-ui-window.module.code.ts"
+import { initializeActions } from "akasha/temper/combat-addon/modules/combat-actions-init/combat-actions-init.module.code.ts"
+import {
+  setInCombat,
+  setInitialized,
+  setPlayername,
+} from "akasha/temper/combat-addon/modules/combat-addon-state/combat-addon-state.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/combat-addon/modules/combat-constants/combat-constants.module.code.ts"
 
 export function initializeCore(): undefined {
   const db = initializeSavedVariables()

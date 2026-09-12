@@ -1,4 +1,3 @@
-import { isInitialized } from "akasha/temper/combat-addon/combat-addon-state/combat-addon-state.module.code.ts"
 import { isDamageCategory } from "akasha/temper/combat-addon/combat-core-types/combat-core-types.module.code.ts"
 import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
 import { setLabelColor } from "akasha/temper/combat-addon/combat-ui-helpers/combat-ui-helpers.module.code.ts"
@@ -8,6 +7,7 @@ import {
   getCurrentFight,
   type UpdatableControl,
 } from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
+import { isInitialized } from "akasha/temper/combat-addon/modules/combat-addon-state/combat-addon-state.module.code.ts"
 
 interface SelectorButtonMeta extends Control {
   isMainCategory?: boolean

@@ -1,10 +1,10 @@
-import type { CategoryKey } from "akasha/temper/combat-addon/combat-categories/combat-categories.module.code.ts"
 import type {
   Fight,
   FightRecapData,
   GroupRecapData,
   UnitEntry,
 } from "akasha/temper/combat-addon/combat-lib-types/combat-lib-types.module.code.ts"
+import type { CategoryKey } from "akasha/temper/combat-addon/modules/combat-categories/combat-categories.module.code.ts"
 
 export type CoreLogLine = (number | string | undefined)[]
 

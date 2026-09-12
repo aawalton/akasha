@@ -1,4 +1,3 @@
-import { calculateFight } from "akasha/temper/combat-addon/combat-analysis/combat-analysis.module.code.ts"
 import {
   LOG_LEVEL_DEBUG,
   log,
@@ -33,6 +32,7 @@ import {
   type UpdatableControl,
 } from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
 import { DPS_STRINGS } from "akasha/temper/combat-addon/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"
+import { calculateFight } from "akasha/temper/combat-addon/modules/combat-analysis/combat-analysis.module.code.ts"
 
 function updateReportDeferred(this: void): undefined {
   const report = TemperCombat_Report
