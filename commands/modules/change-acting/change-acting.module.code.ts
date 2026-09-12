@@ -159,7 +159,7 @@ function wording(one: {
   readonly toDo: string
   readonly missing: string
 }): Words {
-  const line = `a ${one.said} names each path on a line of its own, written \`at\` and the path`
+  const line = `a ${one.said} names each path on a line of its own, written \`at:\` and the path`
   const every = `a ${one.said} ${one.every} only where the lines piped in say \`all: true\``
   return {
     line,
