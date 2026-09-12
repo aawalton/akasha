@@ -22,13 +22,6 @@ export const smsSend = {
     },
     { said: "--json", takes: "give what was sent as JSON rather than as the sent line" },
   ],
-  helpNotes: [
-    "the key and the number sent from are read from the environment, which the secrets file fills.",
-    "neither is ever written into the answer or into a log.",
-    "an answer the carrier gives that is not OK is operational rather than a refusal of what was said.",
-    "the answer carries the id the carrier gave the message.",
-    "a message once sent is not taken back.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -36,7 +29,15 @@ export const smsSend = {
     },
     {
       invariantKind: "departure",
-      statement: "A credential is never carried into the answer.",
+      statement: "A credential is never carried into the answer or into a log.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The answer carries the id the carrier gave the message.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No message is taken back once that message is sent.",
     },
     {
       invariantKind: "departure",
