@@ -9,10 +9,6 @@ export const inferenceMusic = {
   taking: [
     { said: "--prompt <text>", takes: "the style, the mood and the instruments the song carries" },
     { said: "--lyrics <text>", takes: "the words the song sings" },
-    {
-      said: "--lyrics-file <path>",
-      takes: "those words read from a path, or `-` for standard input",
-    },
   ],
   invariants: [
     {
@@ -55,5 +51,6 @@ export const inferenceMusic = {
     { argument: "argument/duration" },
     { argument: "argument/vocal-language" },
     { argument: "argument/prompt-file" },
+    { argument: "argument/lyrics-file" },
   ],
 } as const satisfies Command
