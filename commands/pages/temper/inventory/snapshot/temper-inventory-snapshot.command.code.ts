@@ -2,6 +2,12 @@ import { existsSync } from "node:fs"
 import { readFile, writeFile } from "node:fs/promises"
 import { join, resolve } from "node:path"
 import { USER_ID } from "akasha/alan/harness/supabase-auth/user-id/user-id.module.code.ts"
+import {
+  DATA,
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -12,12 +18,6 @@ import {
   slugsOfType,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
-
-const INPUT = 1
-
-const DATA = 2
-
-const OPERATIONAL = 3
 
 const LATEST = "--latest"
 
@@ -163,7 +163,7 @@ export async function temperInventorySnapshot(
   }
 
   const said = read.json ? JSON.stringify(db) : JSON.stringify(db, null, SPACES)
-  if (read.outPath === null) return { report: said.split("\n"), refusals: [], code: 0 }
+  if (read.outPath === null) return { report: said.split("\n"), refusals: [], code: OK }
 
   const at = resolve(root, read.outPath)
   try {
@@ -174,6 +174,6 @@ export async function temperInventorySnapshot(
   return {
     report: [`wrote snapshot ${page.id} into ${at}, read whole from ${dataFile}`],
     refusals: [],
-    code: 0,
+    code: OK,
   }
 }
