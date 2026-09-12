@@ -17,7 +17,7 @@ export const athenaCommandModules = {
       statement:
         "A command that wrote before it threw says in its refusal what that command wrote.",
       workingMemory:
-        "Deploy names what reached a machine before a fault, inference installing included (`9bafe896a32`); `pushedImage` needs none. `inference segment` names each file as it writes (`95f3e2a8f1e`, `0f5b19cfaf4`), and `answering` now hands every command a list 46 others could fill. One is left: `akasha index refresh` writes thousands of index files. Does its refusal name the eight stages it finished, or the stage in flight and the files written inside it?",
+        "Every case found is closed: deploy names what reached a machine (`9bafe896a32`), `inference segment` names each file as it writes (`0f5b19cfaf4`), and `akasha index refresh` names its finished stages and the file in hand (`0f1f8e961e6`, `81b7ea09c75`, `ff2ffe9a34e`), drawn live against a scratch repository. `answering` hands every command a list 46 others could fill. A sweep is running for any command that writes before it throws and says nothing.",
     },
     {
       statement: "A refusal's exit code says what kind of thing went wrong.",
