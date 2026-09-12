@@ -12,6 +12,7 @@ export const codeCheck = {
     "boolean-property/runs-on-change",
     "boolean-property/runs-on-deploy",
     "boolean-property/runs-on-worktree",
+    "code-check/answered-work-takes-its-list",
     "code-check/browser-code-reads-the-environment-by-a-name",
     "code-check/calculation-imports-only-types",
     "code-check/check-reaches-a-path-through-the-index",
