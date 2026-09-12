@@ -7,7 +7,7 @@ export const measurePerformance = {
   definition: "the command running one performance and saying what that performance measured",
   code: "ts",
   test: "ts",
-  taking: [{ said: "<performance>", takes: "the slug of the one performance to run" }],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -47,4 +47,5 @@ export const measurePerformance = {
     },
   ],
   name: "performance",
+  arguments: [{ argument: "argument/performance", required: true, saidAs: "word" }],
 } as const satisfies Command
