@@ -34,17 +34,17 @@ function main(): number {
   const result = evaluateEsoTypingsFreshness({ artifacts })
   if (result.ok) {
     process.stdout.write(
-      "check-eso-typings-fresh: every clone-derived ESO artifact is stamped, names a generator " +
+      "check-eso-declaration-fresh: every clone-derived ESO artifact is stamped, names a generator " +
         `that is still there, and agrees with the others ${bound} ${scan}\n`
     )
     return 0
   }
 
   for (const violation of result.violations) {
-    process.stderr.write(`check-eso-typings-fresh: ${violation}\n`)
+    process.stderr.write(`check-eso-declaration-fresh: ${violation}\n`)
   }
   process.stderr.write(
-    `check-eso-typings-fresh: ${result.violations.length} stamp defect(s) found ${bound} ${scan} — ` +
+    `check-eso-declaration-fresh: ${result.violations.length} stamp defect(s) found ${bound} ${scan} — ` +
       "regenerate with the command each violation above names. Whether these stamps have fallen " +
       "behind the ESO API itself is not asked here, that being a reading of a clone outside this " +
       "repository; a separate audit answers that one\n"
@@ -56,7 +56,7 @@ if (import.meta.main) {
   try {
     process.exit(main())
   } catch (err) {
-    process.stderr.write(`check-eso-typings-fresh: ${errorMessage(err)}\n`)
+    process.stderr.write(`check-eso-declaration-fresh: ${errorMessage(err)}\n`)
     process.exit(2)
   }
 }
