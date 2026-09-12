@@ -1,4 +1,4 @@
-import { SUPERVISOR_DECIDE_COMMAND } from "akasha/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
+import { SUPERVISOR_DECIDE_COMMAND } from "akasha/agents/seats/supervisors/modules/limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
 import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 import type { Infer } from "akasha/utils/narrow/shape-core/shape-core.module.code.ts"
 

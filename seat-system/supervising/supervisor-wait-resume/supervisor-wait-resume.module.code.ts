@@ -1,4 +1,5 @@
 import { readOwnTranscriptTail } from "akasha/agents/io-probe/io-probe.module.code.ts"
+import { askSupervisorDecide } from "akasha/agents/seats/supervisors/modules/limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
 import { USER_ID } from "akasha/alan/harness/supabase-auth/user-id/user-id.module.code.ts"
 import {
   ANNOUNCE,
@@ -20,7 +21,6 @@ import {
   CONNECTION_STATUS,
   classifyTurnEndErrorDeath,
 } from "akasha/seat-system/supervising/turn-end-error-death/turn-end-error-death.module.code.ts"
-import { askSupervisorDecide } from "akasha/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
 
 const WAIT_RESUME_INTERVAL_MS = 30_000
 

@@ -1,3 +1,7 @@
+import {
+  askSupervisorDecide,
+  SUPERVISOR_DECIDE_COMMAND,
+} from "akasha/agents/seats/supervisors/modules/limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
 import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
 import {
   REMOTE_CONTROL_DECISION,
@@ -6,10 +10,6 @@ import {
   remoteControlFallback,
   seatLabel,
 } from "akasha/seat-system/supervising/supervisor-remote-control-default/supervisor-remote-control-default.module.code.ts"
-import {
-  askSupervisorDecide,
-  SUPERVISOR_DECIDE_COMMAND,
-} from "akasha/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
 import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 
 const SeatSpawnAnswerShape = shape.object({

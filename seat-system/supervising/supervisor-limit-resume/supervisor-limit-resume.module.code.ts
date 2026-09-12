@@ -2,6 +2,10 @@ import { summarizePool } from "akasha/agents/claude-accounts/modules/selection/c
 import { readOwnTranscriptTail } from "akasha/agents/io-probe/io-probe.module.code.ts"
 import { pacingIn } from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 import type { AccountState } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
+import {
+  askSupervisorDecide,
+  classifyRateLimitDeath,
+} from "akasha/agents/seats/supervisors/modules/limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
 import { USER_ID } from "akasha/alan/harness/supabase-auth/user-id/user-id.module.code.ts"
 import {
   AKASHA,
@@ -20,10 +24,6 @@ import {
   sendMessage,
 } from "akasha/seat-system/supervising/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"
 import { tickSaying } from "akasha/seat-system/supervising/supervisor-tick-saying/supervisor-tick-saying.module.code.ts"
-import {
-  askSupervisorDecide,
-  classifyRateLimitDeath,
-} from "akasha/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
 
 const LIMIT_RESUME_INTERVAL_MS = 30_000
 

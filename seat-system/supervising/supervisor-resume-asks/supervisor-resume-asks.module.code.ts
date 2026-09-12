@@ -1,9 +1,9 @@
-import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
-import { SUPERVISOR_NOTICE_PREFIX } from "akasha/seat-system/supervising/supervisor-resume-notices/supervisor-resume-notices.module.code.ts"
 import {
   askSupervisorDecide,
   SUPERVISOR_DECIDE_COMMAND,
-} from "akasha/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
+} from "akasha/agents/seats/supervisors/modules/limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
+import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
+import { SUPERVISOR_NOTICE_PREFIX } from "akasha/seat-system/supervising/supervisor-resume-notices/supervisor-resume-notices.module.code.ts"
 import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 import type { Infer, ShapeError } from "akasha/utils/narrow/shape-core/shape-core.module.code.ts"
 
