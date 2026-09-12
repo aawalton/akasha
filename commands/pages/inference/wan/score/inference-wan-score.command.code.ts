@@ -1,5 +1,12 @@
 import { basename, dirname, join } from "node:path"
 import {
+  type TakenFor,
+  takenFor,
+} from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { floor as floorArgument } from "akasha/commands/arguments/pages/floor.argument.ts"
+import { framesDir as framesDirArgument } from "akasha/commands/arguments/pages/frames-dir.argument.ts"
+import { reference as referenceArgument } from "akasha/commands/arguments/pages/reference.argument.ts"
+import {
   answering,
   DATA,
   keeping,
@@ -8,15 +15,8 @@ import {
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import type { Shape } from "akasha/commands/pages/inference/flag-arguing/flag-arguing.module.code.ts"
-import type {
-  Taken,
-  Taking,
-} from "akasha/commands/pages/inference/wan/wan-arguing/wan-arguing.module.code.ts"
-import {
-  at,
-  readIn,
-} from "akasha/commands/pages/inference/wan/wan-arguing/wan-arguing.module.code.ts"
+import { pathUnder } from "akasha/commands/pages/inference/flag-arguing/flag-arguing.module.code.ts"
+import { inferenceWanScore as page } from "akasha/commands/pages/inference/wan/score/inference-wan-score.command.ts"
 import {
   homeIn,
   imageIn,
@@ -25,18 +25,14 @@ import {
 
 const REJECTED_INPUTS = 2
 
-const TAKING: Taking = {
-  shapes: new Map<string, Shape>([
-    ["--frames-dir", "token"],
-    ["--reference", "token"],
-    ["--floor", "token"],
-  ]),
-  filled: new Map([["--floor", "0.45"]]),
-  needed: ["--frames-dir", "--reference"],
-}
+const PAGES = [floorArgument, framesDirArgument, referenceArgument]
 
-export function readScore(argv: readonly string[]): ReturnType<typeof readIn> {
-  return readIn(argv, TAKING)
+export type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
+
+export function wrongIn(taken: Taken): readonly string[] {
+  const said = taken.floor
+  if (said.trim() !== "" && Number.isFinite(Number(said))) return []
+  return [`\`${floorArgument.said}\` carries a number, and \`${said}\` is not one`]
 }
 
 export function relabelledSaid(dirs: readonly string[]): string {
@@ -46,14 +42,13 @@ export function relabelledSaid(dirs: readonly string[]): string {
   )
 }
 
-export type Scoring = (done: string[], read: Taken, given: Given) => Promise<Answer>
+export type Scoring = (done: string[], taken: Taken, given: Given) => Promise<Answer>
 
-async function scored(done: string[], read: Taken, given: Given): Promise<Answer> {
-  const said = read.said
-  const framesDir = at(given, said.get("--frames-dir") ?? "")
-  const referencePath = at(given, said.get("--reference") ?? "")
+async function scored(done: string[], taken: Taken, given: Given): Promise<Answer> {
+  const framesDir = pathUnder(given.root, taken.framesDir)
+  const referencePath = pathUnder(given.root, taken.reference)
   const referenceDir = dirname(referencePath)
-  const clearing = Number(said.get("--floor") ?? "")
+  const clearing = Number(taken.floor)
   const cache = join(homeIn(), "cache")
   const proc = spawned([
     "podman",
@@ -111,7 +106,9 @@ export async function inferenceWanScore(
   given: Given,
   scoring: Scoring = scored
 ): Promise<Answer> {
-  const read = readScore(argv)
+  const read = takenFor(argv, given.calledAs, page, PAGES)
   if ("refused" in read) return refusedBy(read.refused)
-  return await answering(async (done) => await scoring(done, read, given))
+  const wrong = wrongIn(read.taken)
+  if (wrong.length > 0) return refusedBy(wrong)
+  return await answering(async (done) => await scoring(done, read.taken, given))
 }

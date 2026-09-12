@@ -4,12 +4,13 @@ import {
   DATA,
   OPERATIONAL,
   partWay,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Scoring } from "akasha/commands/pages/inference/wan/score/inference-wan-score.command.code.ts"
 import {
   inferenceWanScore,
-  readScore,
   relabelledSaid,
 } from "akasha/commands/pages/inference/wan/score/inference-wan-score.command.code.ts"
 
@@ -18,6 +19,11 @@ function given(root: string): Given {
 }
 
 const SCORED = ["--frames-dir", "f", "--reference", "r.png"]
+
+const noting: Scoring = (done, taken) => {
+  done.push(taken.floor)
+  return Promise.resolve(told(done))
+}
 
 const RELABELLED = relabelledSaid(["/frames", "/ref", "/cache"])
 
@@ -53,26 +59,30 @@ test("nothing said is refused, naming the flags it needs", async () => {
   expect(said.refusals[0]).toContain("--frames-dir")
 })
 
-test("the reference is named as well as the directory", () => {
-  const said = readScore(["--frames-dir", "f"])
-  expect("refused" in said).toBe(true)
-  if ("refused" in said) expect(said.refused[0]).toContain("--reference")
+test("the reference is named as well as the directory", async () => {
+  const said = await inferenceWanScore(["--frames-dir", "f"], given("/nowhere"), noting)
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--reference")
 })
 
-test("the default cosine holds where nothing said one", () => {
-  const said = readScore(["--frames-dir", "f", "--reference", "r.png"])
-  expect("refused" in said).toBe(false)
-  if (!("refused" in said)) expect(said.said.get("--floor")).toBe("0.45")
+test("the default cosine holds where nothing said one", async () => {
+  const said = await inferenceWanScore(SCORED, given("/nowhere"), noting)
+  expect(said.report).toEqual(["0.45"])
 })
 
-test("a cosine that is no number is refused", () => {
-  expect(
-    "refused" in readScore(["--frames-dir", "f", "--reference", "r.png", "--floor", "high"])
-  ).toBe(true)
+test("a cosine that is no number is refused", async () => {
+  const said = await inferenceWanScore([...SCORED, "--floor", "high"], given("/nowhere"), noting)
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("high")
 })
 
-test("a flag another command takes is refused here", () => {
-  const said = readScore(["--frames-dir", "f", "--reference", "r.png", "--lightning"])
-  expect("refused" in said).toBe(true)
-  if ("refused" in said) expect(said.refused[0]).toContain("--lightning")
+test("a cosine said at an equals sign is taken rather than refused", async () => {
+  const said = await inferenceWanScore([...SCORED, "--floor=0.8"], given("/nowhere"), noting)
+  expect(said.report).toEqual(["0.8"])
+})
+
+test("a flag another command takes is refused here", async () => {
+  const said = await inferenceWanScore([...SCORED, "--lightning"], given("/nowhere"), noting)
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--lightning")
 })
