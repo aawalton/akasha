@@ -8,7 +8,7 @@ export const indexRefresh = {
   code: "ts",
   test: "ts",
   timeout: 600,
-  taking: [{ said: "--dry-run", takes: "say what the repair would change and write nothing" }],
+  taking: [],
   invariants: [
     {
       invariantKind: "absence",
