@@ -2,9 +2,11 @@ import { join, resolve } from "node:path"
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
 import {
+  answering,
   DATA,
-  OK,
+  naming,
   OPERATIONAL,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
@@ -62,11 +64,7 @@ function rowOf(one: Judged): string {
   return `${one.name}: ${String(one.errors.length)} error(s), ${String(one.ownFiles)} own file(s) of ${String(one.readFiles)} read, exit ${String(one.code)}`
 }
 
-export async function temperAddonTypecheck(argv: readonly string[], given: Given): Promise<Answer> {
-  const read = takenFor(argv, given.calledAs, page, NAMED)
-  if ("refused" in read) return mistaking(read.refused)
-  const root = resolve(read.taken.codeRoot ?? codeRoot())
-
+async function typechecked(done: string[], root: string): Promise<Answer> {
   const every = inNameOrder(listAllAddons({ repoRoot: root }))
   if (every.length === 0) {
     return refused(
@@ -76,7 +74,7 @@ export async function temperAddonTypecheck(argv: readonly string[], given: Given
   }
 
   const deadline = Date.now() + CEILING_MS
-  const done: Judged[] = []
+  const rows: Judged[] = []
   const unbuilt: string[] = []
 
   for (const one of every) {
@@ -90,11 +88,10 @@ export async function temperAddonTypecheck(argv: readonly string[], given: Given
 
     let config: string | null
     try {
-      config = await compilerConfigPathFor(root, one.dir, one.canonicalName)
+      config = await compilerConfigPathFor(root, one.dir, one.canonicalName, done)
     } catch (thrown) {
-      return refused(
-        `${one.canonicalName} names no settings the compiler could be run with — ${saidOf(thrown)}`,
-        OPERATIONAL
+      throw new Error(
+        `${one.canonicalName} names no settings the compiler could be run with — ${saidOf(thrown)}`
       )
     }
     if (config === null) {
@@ -103,10 +100,10 @@ export async function temperAddonTypecheck(argv: readonly string[], given: Given
     }
 
     const said = judged(root, one, config, left)
-    done.push(said)
+    rows.push(said)
     if (said.code !== 0) {
       return {
-        report: [...said.errors, ...done.map(rowOf)],
+        report: [...said.errors, ...rows.map(rowOf)],
         refusals: [
           `${said.name} does not typecheck against its own compiler settings (exit ${String(said.code)}, ${String(said.errors.length)} error(s)), so the addons after it were left unread`,
         ],
@@ -115,7 +112,7 @@ export async function temperAddonTypecheck(argv: readonly string[], given: Given
     }
     if (said.ownFiles === 0) {
       return {
-        report: done.map(rowOf),
+        report: rows.map(rowOf),
         refusals: [
           `${said.name} compiled none of its own ${String(said.readFiles)} read file(s), so a clean result here is a result over nothing`,
         ],
@@ -124,14 +121,26 @@ export async function temperAddonTypecheck(argv: readonly string[], given: Given
     }
   }
 
-  const readFiles = done.reduce((sum, one) => sum + one.readFiles, 0)
-  const ownFiles = done.reduce((sum, one) => sum + one.ownFiles, 0)
-  const report = [...done.map(rowOf)]
+  const readFiles = rows.reduce((sum, one) => sum + one.readFiles, 0)
+  const ownFiles = rows.reduce((sum, one) => sum + one.ownFiles, 0)
+  const report = [...rows.map(rowOf)]
   for (const name of unbuilt) {
     report.push(`${name}: no bundle entry is named, so nothing of it was compiled`)
   }
   report.push(
-    `typechecked ${String(done.length)} addon(s) of the ${String(every.length)} under ${root}: read ${String(readFiles)} file(s), ${String(ownFiles)} of them the addons' own`
+    `typechecked ${String(rows.length)} addon(s) of the ${String(every.length)} under ${root}: read ${String(readFiles)} file(s), ${String(ownFiles)} of them the addons' own`
   )
-  return { report, refusals: [], code: OK }
+  return told(report)
+}
+
+export type Judging = (done: string[], root: string) => Promise<Answer>
+
+export async function typecheckedBy(root: string, judging: Judging = typechecked): Promise<Answer> {
+  return await answering(async (done) => naming(done, await judging(done, root)))
+}
+
+export async function temperAddonTypecheck(argv: readonly string[], given: Given): Promise<Answer> {
+  const read = takenFor(argv, given.calledAs, page, NAMED)
+  if ("refused" in read) return mistaking(read.refused)
+  return await typecheckedBy(resolve(read.taken.codeRoot ?? codeRoot()))
 }

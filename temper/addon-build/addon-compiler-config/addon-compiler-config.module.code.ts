@@ -219,7 +219,10 @@ export async function compilerConfigPathFor(
     )
   }
   const heldAt = join(repoRoot, ADDON_BUILD_REL_ROOT, HELD_AT)
-  mkdirSync(heldAt, { recursive: true })
+  const made = mkdirSync(heldAt, { recursive: true })
+  if (made !== undefined) {
+    done.push(`the folder ${made} was not there before this, and this made it`)
+  }
   const path = join(heldAt, `${canonicalName}.${TSCONFIG_NAME}`)
   const reachedDirs = reachedAddonDirs(repoRoot, addonDir)
   writeFileSync(

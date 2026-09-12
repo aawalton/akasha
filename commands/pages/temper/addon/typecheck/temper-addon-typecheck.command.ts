@@ -54,6 +54,18 @@ export const temperAddonTypecheck = {
       invariantKind: "absence",
       statement: "Nothing is emitted by the compiler here.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A run that refused names in that refusal every settings file it had written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that wrote nothing says nothing about what it wrote.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The judging of the addons is handed in.",
+    },
   ],
   name: "typecheck",
   arguments: [{ argument: "argument/code-root" }],

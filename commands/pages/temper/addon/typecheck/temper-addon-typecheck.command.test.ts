@@ -219,6 +219,26 @@ test("a checkout holding no addon is refused rather than reported clean", async 
   expect(said.refusals.join("\n")).toContain("holds no addon folder")
 })
 
+test("a run that refused names in that refusal every settings file it had written", async () => {
+  const root = rootFor()
+  alphaIn(root)
+  addonIn(root, "BetaAddon", {
+    folder: "temper-beta-addon",
+    entry: "beta-entry",
+    body: 'export const betaValue: number = "not a number"\n',
+  })
+  const said = await temperAddonTypecheck(["--code-root", root], GIVEN)
+  expect(said.code).not.toBe(0)
+  expect(said.refusals.join("\n")).toContain("AlphaAddon.tsconfig.json")
+  expect(said.refusals.join("\n")).toContain("BetaAddon.tsconfig.json")
+})
+
+test("a run that wrote nothing says nothing about what it wrote", async () => {
+  const root = rootFor()
+  const said = await temperAddonTypecheck(["--code-root", root], GIVEN)
+  expect(said.refusals.join("\n")).not.toContain("stopped part way")
+})
+
 test("a flag this takes no argument for is refused rather than passed over", async () => {
   const root = rootFor()
   const said = await temperAddonTypecheck(["--code-root", root, "--json"], GIVEN)
