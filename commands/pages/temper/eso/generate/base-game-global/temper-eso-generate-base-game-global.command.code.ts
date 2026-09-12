@@ -7,7 +7,7 @@ import {
   stageSeries,
 } from "akasha/code/name-series/name-series.module.code.ts"
 import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { esoDocPathForLuaRoot } from "akasha/temper/build-deploy-checks/eso-doc-api-version/eso-doc-api-version.module.code.ts"
@@ -27,8 +27,6 @@ import {
 import { esouiSourceDir } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
 import { collectLuaFiles } from "akasha/temper/eso-paths/lua-files/lua-files.module.code.ts"
 
-const SELF = "akasha temper eso generate base-game-global"
-
 const ESO_ROOT_FLAG = "--eso-root"
 
 const CODE_ROOT_FLAG = "--code-root"
@@ -43,7 +41,7 @@ const BINDING = "ESO_BASE_GAME_STRING_IDS"
 
 const STAGE_PREFIX = "eso-base-game-string-ids-stage-"
 
-export function temperEsoGenerateBaseGameGlobals(argv: readonly string[] = []): Answer {
+export function temperEsoGenerateBaseGameGlobals(argv: readonly string[], given: Given): Answer {
   const namedCheckout = saidFor(argv, CODE_ROOT_FLAG)
 
   let checkout: string
@@ -112,7 +110,7 @@ export function temperEsoGenerateBaseGameGlobals(argv: readonly string[] = []): 
     runDefinition: "one run of the string ids the base game provides, in the whole census's order",
     aggregateDefinition:
       "every string id the base game provides, gathered from the runs holding them",
-    provenance: [...esoCloneHeaderLines(SELF, apiVersion)],
+    provenance: [...esoCloneHeaderLines(given.calledAs, apiVersion)],
   }
 
   const pages = renderSeries(checkout, spec)
