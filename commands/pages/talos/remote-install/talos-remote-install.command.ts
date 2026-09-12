@@ -8,11 +8,6 @@ export const talosRemoteInstall = {
   code: "ts",
   test: "ts",
   taking: [
-    { said: "<node>", takes: "the node to install, said as a word rather than after `--node`" },
-    {
-      said: "--node <id>",
-      takes: "the node to install, which settles its schematic and install disk",
-    },
     {
       said: "--ip <ip>",
       takes: "the address the running host answers at, and answers at as Talos",
@@ -117,4 +112,5 @@ export const talosRemoteInstall = {
     },
   ],
   name: "remote-install",
+  arguments: [{ argument: "argument/node", required: true, saidAs: "flag-or-word" }],
 } as const satisfies Command

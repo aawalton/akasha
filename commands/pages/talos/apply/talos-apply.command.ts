@@ -7,8 +7,6 @@ export const talosApply = {
   definition: "the command taking one Talos node from maintenance mode into its cluster",
   code: "ts",
   taking: [
-    { said: "<node>", takes: "the node to apply, said as a word rather than after `--node`" },
-    { said: "--node <id>", takes: "the node to apply, as the node table names it" },
     { said: "--ip <ip>", takes: "the maintenance-mode address the node answers at" },
     {
       said: "--cluster <name>",
@@ -80,4 +78,5 @@ export const talosApply = {
     },
   ],
   name: "apply",
+  arguments: [{ argument: "argument/node", required: true, saidAs: "flag-or-word" }],
 } as const satisfies Command

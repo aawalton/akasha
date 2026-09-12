@@ -8,11 +8,6 @@ export const talosImageBuild = {
   code: "ts",
   taking: [
     {
-      said: "<node>",
-      takes: "the node to register for, said as a word rather than after `--node`",
-    },
-    { said: "--node <id>", takes: "the node to register for, as the node table names it" },
-    {
       said: "--download <path>",
       takes: "the file to fetch the installer ISO to once it is registered",
     },
@@ -61,4 +56,5 @@ export const talosImageBuild = {
     },
   ],
   name: "image-build",
+  arguments: [{ argument: "argument/node", required: true, saidAs: "flag-or-word" }],
 } as const satisfies Command
