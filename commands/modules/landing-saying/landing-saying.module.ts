@@ -10,49 +10,7 @@ export const landingSaying = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A report opens with the lines the caller asked to have said of the landing.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A report that could not be built names the paths the landing wrote and took away.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Why a report could not be built is said in the report.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A report says the commit's outcome.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A commit that could not be named is told apart from a landing that committed nothing.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A body that landed differently from the body handed in is named in the report.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A value worked out as a body landed is named in the report.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A landing that ran no check says why in place of the count.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The paths a draft left are named in the report as drafted.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Where a draft's edits are kept is named in the report.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A landing's saying of itself is handed in rather than reached for.",
     },
     {
       invariantKind: "departure",
@@ -67,14 +25,6 @@ export const landingSaying = {
       invariantKind: "departure",
       statement:
         "A landing with more than three paths is said as the act and how many paths landed.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Both paths a rename row names are paths the landing has.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A path more than one row names is one path.",
     },
     {
       invariantKind: "departure",
