@@ -1,5 +1,7 @@
 import { resolve } from "node:path"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { initiative } from "akasha/commands/arguments/pages/initiative.argument.ts"
 import {
   DATA,
   OPERATIONAL,
@@ -9,6 +11,7 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { initiativeDelete as page } from "akasha/commands/pages/initiative/delete/initiative-delete.command.ts"
 import { initiativesDrawn } from "akasha/domains/modules/work-initiatives/work-initiatives.module.code.ts"
 import {
   listedByPath,
@@ -18,19 +21,7 @@ import {
 
 const CARRIES = "change-mechanical/remove-file-of-any-kind"
 
-const TAKES = "this takes one word: the initiative to take away"
-
 const REFRESH = "the index files those names until `akasha index refresh` runs"
-
-export type Read = { readonly slug: string } | { readonly refused: readonly string[] }
-
-export function readIn(argv: readonly string[]): Read {
-  const slug = argv[0]
-  if (slug === undefined || argv.length !== 1) {
-    return { refused: [`${TAKES}, and ${argv.length} arrived`] }
-  }
-  return { slug }
-}
 
 export function noInitiative(slug: string): string {
   return `\`${slug}\` names no initiative, so there is no page to take away`
@@ -93,13 +84,14 @@ async function away(
 }
 
 export async function initiativeDelete(argv: readonly string[], given: Given): Promise<Answer> {
-  const read = readIn(argv)
+  const read = takenFor(argv, given.calledAs, page, [initiative])
   if ("refused" in read) return mistaking([...read.refused])
   try {
     const root = resolve(given.root)
-    const one = initiativesDrawn(root).find((each) => each.slug === read.slug)
-    if (one === undefined) return mistaking([noInitiative(read.slug)])
-    return await away(root, one.path, read.slug, namingIn(root, one.path), given)
+    const named = read.taken.initiative
+    const one = initiativesDrawn(root).find((each) => each.slug === named)
+    if (one === undefined) return mistaking([noInitiative(named)])
+    return await away(root, one.path, named, namingIn(root, one.path), given)
   } catch (thrown) {
     return refusedBy([whyOf(thrown)], OPERATIONAL)
   }

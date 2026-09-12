@@ -1,10 +1,11 @@
 import { expect, test } from "bun:test"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
+  initiativeDelete,
   messageFor,
   namedSaid,
   namingOver,
   noInitiative,
-  readIn,
   saidFor,
 } from "akasha/commands/pages/initiative/delete/initiative-delete.command.code.ts"
 
@@ -12,18 +13,22 @@ const SEAT = { path: "seat-system/seats/pages/hum/hum.seat.ts", propertySlug: "a
 
 const OWN = { path: "domains/initiatives/pages/held.initiative.ts", propertySlug: "parts" }
 
-test("one word is read as an initiative", () => {
-  expect(readIn(["amy-harness-improvements"])).toEqual({ slug: "amy-harness-improvements" })
+function given(root: string): Given {
+  return { root, calledAs: "akasha initiative delete", from: root, writer: null, agentId: null }
+}
+
+test("a call naming no word is refused, naming the initiative by its placeholder", async () => {
+  const said = await initiativeDelete([], given("/nowhere"))
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toBe(
+    "`akasha initiative delete` takes `<initiative>`, and nothing said it"
+  )
 })
 
-test("a call naming no word is refused", () => {
-  expect(readIn([])).toEqual({
-    refused: ["this takes one word: the initiative to take away, and 0 arrived"],
-  })
-})
-
-test("a call naming two words is refused", () => {
-  expect("refused" in readIn(["one", "two"])).toBe(true)
+test("a call naming two words is refused", async () => {
+  const said = await initiativeDelete(["one", "two"], given("/nowhere"))
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("said twice")
 })
 
 test("a name that is no initiative is refused in words naming it", () => {
