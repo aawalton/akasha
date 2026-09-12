@@ -39,30 +39,30 @@ Wrapping is the author's convenience and not part of the text: the lines of a pa
 are joined with a space, and a blank line between paragraphs survives as one.
 
 Usage:
-  bun ${ownPath()} [--out <path>]
+  bun ${ownPath()} [--output <path>]
 
 Flags:
-  --out <path>   Write there rather than to stdout.
-  --help         This.
+  --output <path>   Write there rather than to stdout.
+  --help            This.
 `
 }
 
-function parse(argv: readonly string[]): { readonly out: string | null } {
-  let out: string | null = null
+function parse(argv: readonly string[]): { readonly output: string | null } {
+  let output: string | null = null
   for (let i = 0; i < argv.length; i += 1) {
     const arg = argv[i]
     if (arg === "--help") {
       process.stdout.write(help())
       process.exit(0)
     }
-    if (arg === "--out") {
+    if (arg === "--output") {
       const value = argv[i + 1]
-      if (value === undefined) fail("`--out` takes a value")
+      if (value === undefined) fail("`--output` takes a value")
       i += 1
-      out = value
+      output = value
     } else fail(`\`${arg}\` is not an argument this takes — run it with --help`)
   }
-  return { out }
+  return { output }
 }
 
 export function render(body: string): string {
@@ -102,7 +102,7 @@ export function notices(): Readonly<Record<string, string>> {
 }
 
 function main(): undefined {
-  const { out } = parse(process.argv.slice(2))
+  const { output } = parse(process.argv.slice(2))
   let composed: Readonly<Record<string, string>>
   try {
     composed = notices()
@@ -110,8 +110,8 @@ function main(): undefined {
     fail(error instanceof Error ? error.message : String(error))
   }
   const json = `${JSON.stringify(composed, null, 2)}\n`
-  if (out === null) process.stdout.write(json)
-  else writeFileSync(out, json)
+  if (output === null) process.stdout.write(json)
+  else writeFileSync(output, json)
 }
 
 if (import.meta.main) main()
