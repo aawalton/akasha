@@ -155,6 +155,20 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A caller stating `merge` composes its body from the value the page already holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A body composed that way holds whatever moved under it since that value was read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`merge` is what marks a caller that reads a body and writes that body again.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A value held in a file beside the page is kept as the extension the page states.",
     },
     {
