@@ -8,10 +8,9 @@ import {
   getCurrentlyPlaying,
   getRecentlyPlayed,
 } from "akasha/alan/music/spotify/player/spotify-player.module.code.ts"
+import { INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
-
-const INPUT = 1
 
 const WINDOW = "--window"
 
@@ -163,6 +162,6 @@ export async function musicListening(argv: readonly string[]): Promise<Answer> {
   return {
     report: read.flags.includes(JSON_SAID) ? [JSON.stringify(data)] : [...saidOf(data)],
     refusals: [],
-    code: 0,
+    code: OK,
   }
 }
