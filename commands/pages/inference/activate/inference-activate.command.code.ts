@@ -10,7 +10,7 @@ import { inferenceActivate as page } from "akasha/commands/pages/inference/activ
 import {
   copActivate,
   findCop,
-} from "akasha/infrastructure/inference/pool/cop-admin/cop-admin.module.code.ts"
+} from "akasha/infrastructure/inference/pool/modules/cop-admin/cop-admin.module.code.ts"
 
 export type Residing = (done: string[], name: string) => Promise<Answer>
 

@@ -12,7 +12,7 @@ import {
   RFTW_GROUP as PURE_RFTW_GROUP,
   findCooldownGroup as pureFindCooldownGroup,
   matchesCooldownGroup as pureMatchesCooldownGroup,
-} from "akasha/temper/items-core/cooldown-groups/cooldown-groups.module.code.ts"
+} from "akasha/temper/items-core/modules/cooldown-groups/cooldown-groups.module.code.ts"
 
 const RFTW_GROUP = PURE_RFTW_GROUP
 const COOLDOWN_GROUPS = PURE_COOLDOWN_GROUPS

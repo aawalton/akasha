@@ -9,7 +9,7 @@ import { inferenceActiveList as page } from "akasha/commands/pages/inference/act
 import {
   copActive,
   findCop,
-} from "akasha/infrastructure/inference/pool/cop-admin/cop-admin.module.code.ts"
+} from "akasha/infrastructure/inference/pool/modules/cop-admin/cop-admin.module.code.ts"
 
 export async function inferenceActiveList(argv: readonly string[], given: Given): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [])

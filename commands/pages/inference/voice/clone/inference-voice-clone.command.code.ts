@@ -22,11 +22,11 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { filing, filledIn } from "akasha/commands/modules/filling/command-filling.module.code.ts"
 import { inferenceVoiceClone as page } from "akasha/commands/pages/inference/voice/clone/inference-voice-clone.command.ts"
-import { buildCopFetchInit } from "akasha/infrastructure/inference/clients/cop-fetch/cop-fetch.module.code.ts"
 import {
   ensureOutputDir,
   resolveOutputPath,
 } from "akasha/infrastructure/inference/clients/inference-output-path/inference-output-path.module.code.ts"
+import { buildCopFetchInit } from "akasha/infrastructure/inference/clients/modules/cop-fetch/cop-fetch.module.code.ts"
 import { isRiff } from "akasha/infrastructure/inference/clients/riff-bytes/riff-bytes.module.code.ts"
 import {
   buildSpeechRequestBody,

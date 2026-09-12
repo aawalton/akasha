@@ -6,7 +6,7 @@ import {
 import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { inferenceActivate } from "akasha/commands/pages/inference/activate/inference-activate.command.code.ts"
-import { askedToActivateSaid } from "akasha/infrastructure/inference/pool/cop-admin/cop-admin.module.code.ts"
+import { askedToActivateSaid } from "akasha/infrastructure/inference/pool/modules/cop-admin/cop-admin.module.code.ts"
 
 const GIVEN: Given = {
   root: "/nowhere",
