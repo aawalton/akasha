@@ -1,7 +1,7 @@
-import { craftPassives } from "akasha/temper/champion-points/craft-passives/craft-passives.module.code.ts"
 import { craftSlottables } from "akasha/temper/champion-points/craft-slottables/craft-slottables.module.code.ts"
 import { fitnessPassives } from "akasha/temper/champion-points/fitness-passives/fitness-passives.module.code.ts"
 import { fitnessSlottables } from "akasha/temper/champion-points/fitness-slottables/fitness-slottables.module.code.ts"
+import { craftPassives } from "akasha/temper/champion-points/modules/craft-passives/craft-passives.module.code.ts"
 import { warfarePassives } from "akasha/temper/champion-points/warfare-passives/warfare-passives.module.code.ts"
 import { warfareSlottables } from "akasha/temper/champion-points/warfare-slottables/warfare-slottables.module.code.ts"
 import type { Effect } from "akasha/temper/formula-framework/effect/effect.module.code.ts"

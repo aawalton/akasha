@@ -1,10 +1,3 @@
-import { inventorySpace } from "akasha/temper/crafting-addon/craft-panel-init/craft-panel-init.module.code.ts"
-import {
-  updateAccountVars,
-  updateInventory,
-  updatePlayer,
-  updateRecipeKnowledge,
-} from "akasha/temper/crafting-addon/craft-player-state/craft-player-state.module.code.ts"
 import { updateQuest } from "akasha/temper/crafting-addon/craft-quest-tracking/craft-quest-tracking.module.code.ts"
 import { recipeLearned } from "akasha/temper/crafting-addon/craft-recipe-cooking/craft-recipe-cooking.module.code.ts"
 import {
@@ -47,6 +40,13 @@ import { updateBag } from "akasha/temper/crafting-addon/modules/craft-inventory/
 import { migrateJewelryIdSwap } from "akasha/temper/crafting-addon/modules/craft-mig-jewelry-swap/craft-mig-jewelry-swap.module.code.ts"
 import { migrateStoragePrune } from "akasha/temper/crafting-addon/modules/craft-mig-storage-prune/craft-mig-storage-prune.module.code.ts"
 import { migrateStudiesShape } from "akasha/temper/crafting-addon/modules/craft-mig-studies-shape/craft-mig-studies-shape.module.code.ts"
+import { inventorySpace } from "akasha/temper/crafting-addon/modules/craft-panel-init/craft-panel-init.module.code.ts"
+import {
+  updateAccountVars,
+  updateInventory,
+  updatePlayer,
+  updateRecipeKnowledge,
+} from "akasha/temper/crafting-addon/modules/craft-player-state/craft-player-state.module.code.ts"
 import { runeShowMode } from "akasha/temper/crafting-addon/rune-mode/rune-mode.module.code.ts"
 import {
   runeHideVanillaUI,

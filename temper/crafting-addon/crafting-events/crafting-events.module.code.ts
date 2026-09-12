@@ -1,14 +1,4 @@
 import {
-  inventorySpace,
-  panelInitialize,
-} from "akasha/temper/crafting-addon/craft-panel-init/craft-panel-init.module.code.ts"
-import {
-  repairStored,
-  updateGuildStore,
-  updatePlayer,
-  updateRecipeKnowledge,
-} from "akasha/temper/crafting-addon/craft-player-state/craft-player-state.module.code.ts"
-import {
   addResearchItem,
   updateResearch,
 } from "akasha/temper/crafting-addon/craft-research/craft-research.module.code.ts"
@@ -77,6 +67,16 @@ import {
   updateBag,
 } from "akasha/temper/crafting-addon/modules/craft-inventory/craft-inventory.module.code.ts"
 import * as Knowledge from "akasha/temper/crafting-addon/modules/craft-knowledge/craft-knowledge.module.code.ts"
+import {
+  inventorySpace,
+  panelInitialize,
+} from "akasha/temper/crafting-addon/modules/craft-panel-init/craft-panel-init.module.code.ts"
+import {
+  repairStored,
+  updateGuildStore,
+  updatePlayer,
+  updateRecipeKnowledge,
+} from "akasha/temper/crafting-addon/modules/craft-player-state/craft-player-state.module.code.ts"
 import { initializeTemperPotions } from "akasha/temper/crafting-addon/potion-init/potion-init.module.code.ts"
 import { initializeTemperWrit } from "akasha/temper/crafting-addon/writ-init/writ-init.module.code.ts"
 import { initializeMasterWritInventoryMarker } from "akasha/temper/crafting-addon/writ-mark-init/writ-mark-init.module.code.ts"
