@@ -64,5 +64,9 @@ export const indexRefresh = {
       invariantKind: "gap",
       statement: "A body a hand is still writing is taken as the body stands.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A refresh that stopped part way says the index may hold part of what it wrote.",
+    },
   ],
 } as const satisfies Command

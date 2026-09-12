@@ -19,6 +19,8 @@ const PARTED_BY = "/"
 
 const UNCHANGED = "the index stands as it did, and nothing was put in its place"
 
+const PART_WAY = "the refresh may have written part of the index before it stopped — run it again"
+
 const COMMITTING = new Map<string, string>([
   ["--message", "says what a commit is for, and a refresh makes none"],
   ["--message-file", "says what a commit is for, and a refresh makes none"],
@@ -130,6 +132,7 @@ export function indexRefresh(argv: readonly string[], given: Given): Answer {
   try {
     return holding(root, () => refreshing(root, read))
   } catch (thrown) {
-    return refusing([whyOf(thrown)], 3)
+    if (read.dryRun) return refusing([whyOf(thrown)], 3)
+    return { report: [], refusals: [whyOf(thrown), PART_WAY], code: 3 }
   }
 }
