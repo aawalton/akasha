@@ -8,5 +8,4 @@ export const relationship = {
   takes: "who the stretch was with, by id or by title",
   value: "text",
   placeholder: "id|title",
-  repeats: true,
 } as const satisfies Argument

@@ -101,6 +101,6 @@ export const trackSessionSplit = {
     { argument: "argument/title" },
     { argument: "argument/safety" },
     { argument: "argument/difficulty" },
-    { argument: "argument/relationship" },
+    { argument: "argument/relationship", repeats: true },
   ],
 } as const satisfies Command
