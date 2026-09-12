@@ -12,10 +12,7 @@ export const inferenceAnswering = {
       invariantKind: "departure",
       statement: "A flag naming a value takes the word after that flag.",
     },
-    {
-      invariantKind: "departure",
-      statement: "An alias is read as the flag that alias represents.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A flag that repeats has every value the call said for that flag.",

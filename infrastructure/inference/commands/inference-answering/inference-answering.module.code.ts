@@ -17,7 +17,6 @@ export type Reading<T> = T | { readonly refused: readonly string[] }
 
 export type Taken = {
   readonly said: string
-  readonly aliases?: readonly string[]
   readonly repeat?: boolean
   readonly prose?: boolean
 }
@@ -50,12 +49,11 @@ export function wordsIn(
   taking: readonly Taken[],
   switches: readonly string[]
 ): Reading<Said> {
-  const canon = new Map<string, string>()
+  const names = new Set<string>()
   const routes = new Map<string, string>()
   const repeats = new Set<string>()
   for (const one of taking) {
-    canon.set(one.said, one.said)
-    for (const alias of one.aliases ?? []) canon.set(alias, one.said)
+    names.add(one.said)
     if (one.repeat === true) repeats.add(one.said)
     if (one.prose === true) routes.set(`${one.said}${PROSE_ROUTE}`, one.said)
   }
@@ -75,7 +73,7 @@ export function wordsIn(
       continue
     }
     const route = routes.get(one)
-    const held = canon.get(one) ?? route
+    const held = names.has(one) ? one : route
     if (held !== undefined) {
       const value = argv[at + 1]
       at += 1
@@ -99,7 +97,7 @@ export function wordsIn(
       continue
     }
     if (looksLikeFlag(one)) {
-      const takes = namesDrawn([...canon.keys(), ...routes.keys(), ...switches])
+      const takes = namesDrawn([...names, ...routes.keys(), ...switches])
       refusals.push(`\`${one}\` is no flag this takes — it takes ${takes}`)
       continue
     }
