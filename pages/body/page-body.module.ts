@@ -36,6 +36,14 @@ export const pageBody = {
     },
     {
       invariantKind: "departure",
+      statement: "The file a body names its type from is written as a quoted literal is.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A body composed here parses whatever characters that file's path carries.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Only data JSON has may be a value.",
     },
     {

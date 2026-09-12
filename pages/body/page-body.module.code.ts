@@ -36,7 +36,7 @@ export function bodyOf(given: Rendering): string {
   const named = typedAs(given.pageTypeSlug)
   const carried = given.keys.filter((one) => given.values[one] !== undefined)
   return [
-    `import type { ${named} } from "${given.importFrom}"`,
+    `import type { ${named} } from ${saidAs(given.importFrom)}`,
     "",
     `export const ${exportedAs(given.slug)} = {`,
     ...carried.map((one) => `  ${one}: ${saidAs(given.values[one])},`),

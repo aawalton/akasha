@@ -98,6 +98,28 @@ test("a key inside a value is written bare where TypeScript reads it bare", () =
   expect(said).toContain('  invariants: [{invariantKind:"gap",statement:"A key is bare."}],')
 })
 
+test("a type imported from a path carrying a quote is written so the body still parses", () => {
+  const said = bodyOf({
+    pageTypeSlug: "thing",
+    slug: "one",
+    importFrom: 'a"b/thing.page-type.ts',
+    keys: ["slug"],
+    values: { slug: "one" },
+  })
+  expect(said).toContain('import type { Thing } from "a\\"b/thing.page-type.ts"')
+})
+
+test("a type imported from a path carrying a backslash is written so the body still parses", () => {
+  const said = bodyOf({
+    pageTypeSlug: "thing",
+    slug: "one",
+    importFrom: "a\\b/thing.page-type.ts",
+    keys: ["slug"],
+    values: { slug: "one" },
+  })
+  expect(said).toContain('import type { Thing } from "a\\\\b/thing.page-type.ts"')
+})
+
 test("a key TypeScript does not read bare is written quoted", () => {
   expect(saidAs({ "a-key": 1 })).toBe('{"a-key":1}')
 })
