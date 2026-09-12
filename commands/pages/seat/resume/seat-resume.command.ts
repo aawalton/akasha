@@ -18,12 +18,11 @@ export const seatResume = {
       takes: "whether a terminal is attached to the seat as it comes up",
     },
   ],
-  helpNotes: [
-    "a resume names one seat, spelled as that seat's page is spelled rather than as an id.",
-    "what a resume says is written where the resume runs rather than carried back as a report.",
-    "a flag not named here is refused though the module beneath a resume takes that flag.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A flag this page does not name is refused though the module beneath takes it.",
+    },
     {
       invariantKind: "departure",
       statement: "The seat resumed is named by the first word.",
