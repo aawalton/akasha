@@ -11,7 +11,7 @@ export const athenaCommandArguments = {
     {
       statement: "Every argument a command takes is a page.",
       workingMemory:
-        "`commands/arguments/argument.page-type.ts` is the page type: `said`, `takes`, `value`, `placeholder`, `repeats`. `Single Authority` settles the shape: one page per argument carrying one `takes` sentence, so the 44 wordings of `--json` across 64 command pages become one. The migration is running, largest argument first. Left for Alan: `--last`, `--to` and `--target` each spell two meanings, which is intent 7 and holds those commands back.",
+        "`commands/arguments/argument.page-type.ts` is the page type: `said`, `takes`, `value`, `placeholder`, `repeats`. `Single Authority` settles the shape: one page per argument carrying one `takes` sentence. 69 command pages name `--json`; 64 share one meaning and 5 keep their own on purpose. The migration runs largest argument first, one argument to a landing. Left for Alan: `--last`, `--to` and `--target` each spell two meanings, which is intent 7 and holds those commands back.",
     },
     {
       statement: "A command names the arguments it takes and narrows each.",
@@ -38,7 +38,7 @@ export const athenaCommandArguments = {
     {
       statement: "No command page states `taking`.",
       workingMemory:
-        "224 of 236 command pages state `taking`, 790 entries in all. Its one reader moved to `commands/modules/help-writing/help-writing.module.code.ts:43,59,61`, plus three tests. `text-property/said` and `text-property/takes` do not go with it — both are now the argument page's own, under `page-type/argument`. `commands/properties/command-arguments.record-property.ts` is the replacement, stated by one command. This waits on every argument becoming a page.\n",
+        "62 of 236 command pages state `taking: []` now, every argument they take being an entry under `arguments` instead. 168 still carry entries: 90 in trees three agents are working, 8 prose-route pairs, 4 that are Alan's under intent 7, and 66 in hand. No act takes a many-valued property off one page, so `taking: []` is the terminal state, and this intent closes with one `remove-property-from-every-page` over `page-type/command` once the last entry is gone.",
     },
     {
       statement: "One spelling names one argument, and one argument has one spelling.",
