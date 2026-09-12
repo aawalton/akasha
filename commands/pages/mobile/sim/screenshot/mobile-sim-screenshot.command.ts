@@ -8,7 +8,7 @@ export const mobileSimScreenshot = {
   code: "ts",
   taking: [
     {
-      said: "--out <path>",
+      said: "--output <path>",
       takes:
         "where to put the picture, a file named for this moment in the temp folder where none is said",
     },

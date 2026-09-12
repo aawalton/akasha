@@ -15,12 +15,12 @@ import {
   wordsIn,
 } from "akasha/commands/pages/mobile/mobile-answering/mobile-answering.module.code.ts"
 
-const OUT = "--out"
+const OUTPUT = "--output"
 
-const VALUED = [OUT]
+const VALUED = [OUTPUT]
 
 export type Read = {
-  readonly out: string
+  readonly output: string
 }
 
 export function readIn(argv: readonly string[], nowMs: number): Reading<Read> {
@@ -28,14 +28,14 @@ export function readIn(argv: readonly string[], nowMs: number): Reading<Read> {
   if ("refused" in said) return said
   const loose = flagsAloneIn(said)
   if (loose.length > 0) return { refused: loose }
-  return { out: said.named[OUT] ?? join(SCRATCH_AT, `mobile-sim-${nowMs}.png`) }
+  return { output: said.named[OUTPUT] ?? join(SCRATCH_AT, `mobile-sim-${nowMs}.png`) }
 }
 
 async function pictured(read: Read): Promise<Answer> {
   const state = await driving()
   const png = await screenshot(state.appiumBase, state.sessionId)
-  writeFileSync(read.out, png)
-  return told([read.out])
+  writeFileSync(read.output, png)
+  return told([read.output])
 }
 
 export async function mobileSimScreenshot(argv: readonly string[]): Promise<Answer> {
