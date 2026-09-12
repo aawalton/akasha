@@ -16,12 +16,12 @@ import type {
   Build,
   ComboRankingsMap,
 } from "akasha/temper/companions-core/modules/companion-leaderboard/companion-leaderboard.module.code.ts"
+import { CompanionLeaderboardContent } from "akasha/temper/web/modules/companion-leaderboard-content/companion-leaderboard-content.module.code.tsx"
 import {
   LEADERBOARD_TARGET_ARMOR_ITEMS,
   LEADERBOARD_TARGET_COUNT_ITEMS,
   LEADERBOARD_TARGET_HEALTH_ITEMS,
-} from "akasha/temper/web/companions-filter-types/companions-filter-types.module.code.ts"
-import { CompanionLeaderboardContent } from "akasha/temper/web/modules/companion-leaderboard-content/companion-leaderboard-content.module.code.tsx"
+} from "akasha/temper/web/modules/companions-filter-types/companions-filter-types.module.code.ts"
 import { useCallback, useState } from "react"
 
 type FilterId = "target-armor" | "target-count" | "target-health"

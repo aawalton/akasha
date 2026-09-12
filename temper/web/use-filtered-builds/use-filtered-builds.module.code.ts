@@ -3,7 +3,7 @@ import {
   getBuildScoreAndStats,
 } from "akasha/temper/companions-core/modules/companion-leaderboard/companion-leaderboard.module.code.ts"
 import type { CompanionStatsResult } from "akasha/temper/companions-core/modules/companion-stats-result/companion-stats-result.module.code.ts"
-import type { FilterValues } from "akasha/temper/web/companions-filter-types/companions-filter-types.module.code.ts"
+import type { FilterValues } from "akasha/temper/web/modules/companions-filter-types/companions-filter-types.module.code.ts"
 import { useMemo } from "react"
 
 type BuildWithData = DecodedBuild & { buildData: NonNullable<DecodedBuild["buildData"]> }

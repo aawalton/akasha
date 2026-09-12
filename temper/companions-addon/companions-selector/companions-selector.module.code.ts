@@ -9,7 +9,6 @@ import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
-import { ALL_COMPANION_IDS } from "akasha/temper/companions-addon/companions-id-map/companions-id-map.module.code.ts"
 import {
   ensureCompanionEntry,
   getSavedVariables,
@@ -31,6 +30,7 @@ import {
   formatWeaponSlot,
   getQualityColorForSlot,
 } from "akasha/temper/companions-addon/modules/companions-equipment-formatters/companions-equipment-formatters.module.code.ts"
+import { ALL_COMPANION_IDS } from "akasha/temper/companions-addon/modules/companions-id-map/companions-id-map.module.code.ts"
 export const DROPDOWN_HEIGHT = 30
 const DROPDOWN_WIDTH = 200
 export const DROPDOWN_BOTTOM_MARGIN = 12
