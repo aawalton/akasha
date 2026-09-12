@@ -138,7 +138,7 @@ function namedOf(clause: ts.ImportClause): readonly string[] {
   return found
 }
 
-function takenIn(source: ts.SourceFile, roots: ReadonlySet<string>): Taken {
+function takenIn(source: ts.SourceFile, roots: (slug: string) => boolean): Taken {
   const writes = new Map<string, readonly number[]>()
   const opens = new Set<string>()
   const spaces = new Set<string>()
@@ -149,7 +149,7 @@ function takenIn(source: ts.SourceFile, roots: ReadonlySet<string>): Taken {
     const clause = one.importClause
     if (clause === undefined || !ts.isStringLiteral(one.moduleSpecifier)) continue
     const specifier = one.moduleSpecifier.text
-    if (roots.has(slugOf(specifier))) {
+    if (roots(slugOf(specifier))) {
       for (const named of namedOf(clause)) rooted.add(named)
     }
     if (AWAY.has(specifier)) {
@@ -321,7 +321,7 @@ export function reasonsOver(
   at: string,
   text: string,
   aside: readonly string[],
-  roots: ReadonlySet<string>
+  roots: (slug: string) => boolean
 ): readonly string[] {
   const source = parsedAs(at, text)
   const taken = takenIn(source, roots)
@@ -359,14 +359,12 @@ export function reasonsOver(
   return said
 }
 
-export function rootModulesOf(shadow: Shadow): ReadonlySet<string> {
-  const found = new Set<string>()
-  for (const value of shadow.index.valuesByPath(MODULE).values()) {
-    if (value[ANSWERS_ROOT] !== true) continue
-    const slug = value.slug
-    if (typeof slug === "string") found.add(slug)
+export function rootModuleIn(shadow: Shadow): (slug: string) => boolean {
+  return (slug) => {
+    const listed = shadow.index.listedAt(MODULE, slug)[0]
+    if (listed === undefined) return false
+    return shadow.pageOf(listed.path)?.[ANSWERS_ROOT] === true
   }
-  return found
 }
 
 export function reasonsOf(
@@ -374,7 +372,7 @@ export function reasonsOf(
   shadow: Shadow
 ): (at: string, text: string) => readonly string[] {
   const aside = asideOver(change)
-  const roots = rootModulesOf(shadow)
+  const roots = rootModuleIn(shadow)
   return (at, text) => reasonsOver(at, text, aside, roots)
 }
 

@@ -3,7 +3,7 @@ import {
   asideIn,
   namesAside,
   reasonsOver,
-  rootModulesOf,
+  rootModuleIn,
 } from "akasha/checks/code-checks/pages/repository-is-written-by-a-change/repository-is-written-by-a-change.code-check.decision.code.ts"
 import {
   ROOT_MODULE_WRITE,
@@ -22,7 +22,7 @@ const IGNORED =
 
 const ASIDE = asideIn(IGNORED)
 
-const ROOTED = new Set(["code-root"])
+const ROOTED = (slug: string): boolean => slug === "code-root"
 
 function only(text: string): readonly string[] {
   return reasonsOver(AT, text, ASIDE, ROOTED)
@@ -299,16 +299,19 @@ test("each write is named on its own", () => {
 })
 
 test("a root taken from any module the index names as answering one is the checkout root", () => {
-  expect(reasonsOver(AT, ROOT_MODULE_WRITE, ASIDE, new Set(["repo-root"]))).toHaveLength(1)
+  const repoRoot = (slug: string): boolean => slug === "repo-root"
+
+  expect(reasonsOver(AT, ROOT_MODULE_WRITE, ASIDE, repoRoot)).toHaveLength(1)
   expect(reasonsOver(AT, ROOT_MODULE_WRITE, ASIDE, ROOTED)).toEqual([])
 })
 
-test("the modules answering a checkout root are the ones whose pages say so and no others", () => {
-  const found = [...rootModulesOf(shadowAt(rooted()))].sort()
+test("a module answers a checkout root where that module's own page says so and not otherwise", () => {
+  const answers = rootModuleIn(shadowAt(rooted()))
 
-  expect(found).toEqual([...ROOT_MODULES_FILED])
-  expect(found).not.toContain("change-walking")
-  expect(found).not.toContain("shadow")
+  expect(ROOT_MODULES_FILED.filter(answers)).toEqual([...ROOT_MODULES_FILED])
+  expect(answers("change-walking")).toBe(false)
+  expect(answers("shadow")).toBe(false)
+  expect(answers("no-page-of-this-name")).toBe(false)
 })
 
 test("a write to a name an un-ignoring rule reaches is judged where that rule is there", () => {

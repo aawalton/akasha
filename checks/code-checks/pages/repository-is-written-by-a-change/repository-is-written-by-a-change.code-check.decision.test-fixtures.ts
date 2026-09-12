@@ -1,10 +1,8 @@
 import { founded, typed } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
-import {
-  listedFiled,
-  valueAlsoFiled,
-} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import { bodyOf } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 
 export const AT = "checks/one/one.module.code.ts"
 
@@ -59,10 +57,12 @@ export const ROOT_MODULE_WRITE =
   '  writeFileSync(join(getRepoRoot(), "a.ts"), "")\n' +
   "}\n"
 
-const MODULE_VALUES: readonly {
+type Filed = {
   readonly path: string
   readonly value: Record<string, unknown>
-}[] = [
+}
+
+const MODULE_VALUES: readonly Filed[] = [
   {
     path: "pages/checkout-roots/checkout-roots.module.ts",
     value: {
@@ -122,6 +122,11 @@ export function rooted(): string {
   listedFiled(root, "page-type", "change", [{ path: CHANGE_AT, id: CHANGE_ID }])
   listedFiled(root, "page-type", "command", [{ path: COMMAND_AT, id: COMMAND_ID }])
   listedFiled(root, "module", "command", [{ path: NAMESAKE_AT, id: NAMESAKE_ID }])
-  valueAlsoFiled(root, "module", MODULE_VALUES)
+  for (const one of MODULE_VALUES) {
+    writing(root, one.path, bodyOf(one.value))
+    listedFiled(root, "module", String(one.value.slug), [
+      { path: one.path, id: String(one.value.id) },
+    ])
+  }
   return root
 }
