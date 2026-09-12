@@ -1,17 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
 import {
   DATA,
+  OK,
   OPERATIONAL,
   partWay,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { commitAt } from "akasha/commands/pages/deploy/commit-naming/deploy-commit-naming.module.code.ts"
 import { recordedCommit } from "akasha/commands/pages/deploy/commit-recording/deploy-commit-recording.module.code.ts"
-import type { PuttingUp } from "akasha/commands/pages/deploy/deploy.command.code.ts"
-import {
-  deploy,
-  refNamed,
-  stoppedPartWay,
-} from "akasha/commands/pages/deploy/deploy.command.code.ts"
+import type { PuttingUp, Wanted } from "akasha/commands/pages/deploy/deploy.command.code.ts"
+import { deploy, stoppedPartWay } from "akasha/commands/pages/deploy/deploy.command.code.ts"
 import { committed, given } from "akasha/commands/pages/deploy/deploy.command.test-fixtures.ts"
 import {
   seededWorld,
@@ -37,14 +34,15 @@ function pastTheChecks(): { readonly root: string; readonly commit: string } {
 test("a call naming no app is refused as the caller's fault", async () => {
   const answer = await deploy([], HERE)
   expect(answer.code).toBe(1)
-  expect(answer.refusals[0]).toContain("name the app")
+  expect(answer.refusals[0]).toContain("<slug>")
+  expect(answer.refusals[0]).toContain("nothing said it")
 })
 
 test("a call naming two apps is refused rather than chosen between", async () => {
   const answer = await deploy(["one-web", "two-web"], HERE)
   expect(answer.code).toBe(1)
-  expect(answer.refusals[0]).toContain("one app")
-  expect(answer.refusals[0]).toContain("one-web, two-web")
+  expect(answer.refusals[0]).toContain("takes 1 word")
+  expect(answer.refusals[0]).toContain("2 words")
 })
 
 test("a flag this command does not take is refused by name", async () => {
@@ -117,44 +115,64 @@ test("every ios app the mobile commands carry is reached by this command", async
   }
 })
 
-test("a commit named is taken off the call rather than read as a second app", () => {
-  expect(refNamed(["atlas", "--ref", "4f2a91c", "--no-upload"])).toEqual({
-    ref: "4f2a91c",
-    rest: ["atlas", "--no-upload"],
-  })
+test("a commit named is taken off the call rather than read as a second app", async () => {
+  const answer = await deploy(["atlas", "--ref", "4f2a91c", "--no-upload"], HERE)
+  expect(answer.code).toBe(1)
+  expect(answer.refusals[0]).not.toContain("2 words")
+  expect(answer.refusals[0]).toContain("4f2a91c")
 })
 
-test("a commit named with an equals sign is the same as one named after a space", () => {
-  expect(refNamed(["atlas", "--ref=origin/change-19458"])).toEqual({
-    ref: "origin/change-19458",
-    rest: ["atlas"],
-  })
+test("a commit named with an equals sign is the same as one named after a space", async () => {
+  const answer = await deploy(["atlas", "--ref=origin/change-19458"], HERE)
+  expect(answer.code).toBe(1)
+  expect(answer.refusals[0]).toContain("origin/change-19458")
 })
 
-test("a call naming no commit answers no commit rather than a fixed one", () => {
-  expect(refNamed(["atlas", "--no-upload"])).toEqual({ ref: null, rest: ["atlas", "--no-upload"] })
+test("a call naming no commit answers no commit rather than a fixed one", async () => {
+  const world = pastTheChecks()
+  const seen: Wanted[] = []
+  const putting: PuttingUp = async (_read, _slug, _commit, wanted) => {
+    seen.push(wanted)
+    return await Promise.resolve({ report: [], refusals: [], code: OK })
+  }
+  await deploy(["one-web", "--dry-run"], given(world.root), putting)
+  expect(seen[0]?.ref).toBeNull()
+  expect(seen[0]?.dryRun).toBe(true)
 })
 
-test("a commit flag with nothing after it is refused rather than read as a flag", () => {
-  expect(refNamed(["atlas", "--ref"])).toEqual({
-    refused: "`--ref` takes the commit to build, and this call names none after it",
-  })
-  expect(refNamed(["atlas", "--ref", "--no-upload"])).toHaveProperty("refused")
-  expect(refNamed(["atlas", "--ref="])).toHaveProperty("refused")
+test("a commit flag with nothing after it is refused rather than read as a flag", async () => {
+  const bare = await deploy(["atlas", "--ref"], HERE)
+  expect(bare.code).toBe(1)
+  expect(bare.refusals[0]).toContain("takes a value, and none follows it")
+  const flagged = await deploy(["atlas", "--ref", "--no-upload"], HERE)
+  expect(flagged.refusals[0]).toContain("takes a value, and none follows it")
+  const empty = await deploy(["atlas", "--ref="], HERE)
+  expect(empty.refusals[0]).toContain("names none")
 })
 
-test("a commit named twice is refused rather than chosen between", () => {
-  const answer = refNamed(["atlas", "--ref", "one", "--ref", "two"])
-  expect(answer).toHaveProperty("refused")
-  expect((answer as { refused: string }).refused).toContain("one")
-  expect((answer as { refused: string }).refused).toContain("two")
+test("a commit named as an empty word is refused rather than read as the head", async () => {
+  const answer = await deploy(["atlas", "--ref", ""], HERE)
+  expect(answer.code).toBe(1)
+  expect(answer.refusals[0]).toContain("takes the commit to build")
+})
+
+test("a commit named twice is refused rather than chosen between", async () => {
+  const answer = await deploy(["atlas", "--ref", "one", "--ref", "two"], HERE)
+  expect(answer.code).toBe(1)
+  expect(answer.refusals[0]).toContain("`--ref` is said twice")
+})
+
+test("two places to install to are refused rather than chosen between", async () => {
+  const answer = await deploy(["atlas", "--simulator", "--device"], HERE)
+  expect(answer.code).toBe(1)
+  expect(answer.refusals[0]).toContain("are never said together")
 })
 
 const IMAGE = "the image one/web:abc, built and pushed to the registry"
 
 test("a deploy that threw part way names in its refusal what it had put up", async () => {
   const world = pastTheChecks()
-  const putting: PuttingUp = (_read, _slug, _commit, _rest, _given, _restarting, up) => {
+  const putting: PuttingUp = (_read, _slug, _commit, _wanted, _given, _restarting, up) => {
     up.push(IMAGE)
     up.push(`${world.commit}, pushed to origin main`)
     throw new Error("kubectl apply was killed")
@@ -169,7 +187,7 @@ test("a deploy that threw part way names in its refusal what it had put up", asy
 
 test("a deploy refused without a throw names in its refusal what it had put up", async () => {
   const world = pastTheChecks()
-  const putting: PuttingUp = async (_read, _slug, _commit, _rest, _given, _restarting, up) => {
+  const putting: PuttingUp = async (_read, _slug, _commit, _wanted, _given, _restarting, up) => {
     up.push(IMAGE)
     return await Promise.resolve({
       report: [],

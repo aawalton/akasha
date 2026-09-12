@@ -1,4 +1,12 @@
 import { costRecorded, opening } from "akasha/checks/modules/cost/check-cost.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { deploySubject } from "akasha/commands/arguments/pages/deploy-subject.argument.ts"
+import { device } from "akasha/commands/arguments/pages/device.argument.ts"
+import { dryRun } from "akasha/commands/arguments/pages/dry-run.argument.ts"
+import { measured } from "akasha/commands/arguments/pages/measured.argument.ts"
+import { noUpload } from "akasha/commands/arguments/pages/no-upload.argument.ts"
+import { ref } from "akasha/commands/arguments/pages/ref.argument.ts"
+import { simulator } from "akasha/commands/arguments/pages/simulator.argument.ts"
 import {
   answeredWith,
   DATA,
@@ -7,6 +15,7 @@ import {
   OPERATIONAL,
   partWay,
   refused,
+  refusedBy,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -28,6 +37,7 @@ import {
   recordedCommit,
   recordedRefusal,
 } from "akasha/commands/pages/deploy/commit-recording/deploy-commit-recording.module.code.ts"
+import { deploy as page } from "akasha/commands/pages/deploy/deploy.command.ts"
 import { installedOnDevice } from "akasha/commands/pages/deploy/device-installing/deploy-device-installing.module.code.ts"
 import {
   closureFor,
@@ -59,13 +69,8 @@ import {
 import { putUpEvery } from "akasha/infrastructure/services/workstations/service-putting-up/service-putting-up.module.code.ts"
 
 const PUT_UP = "deploy"
-const DRY_RUN = "--dry-run"
-const NO_UPLOAD = "--no-upload"
-const MEASURED = "--measured"
-const REF = "--ref"
-const SIMULATOR = "--simulator"
-const DEVICE = "--device"
-const FLAGS = [DRY_RUN, NO_UPLOAD, MEASURED, SIMULATOR, DEVICE]
+const TAKES = [dryRun, deploySubject, noUpload, ref, measured, simulator, device]
+const NO_REF = `\`${ref.said}\` takes the commit to build, and this call names none after it`
 const NAMED: Readonly<Record<string, string>> = {
   [CLUSTER_SERVICE]: "a cluster service",
   [WORKSTATION_SERVICE]: "a workstation service",
@@ -91,53 +96,43 @@ export const PINNED: ReadonlySet<string> = new Set([
   ESO_ADDON,
 ])
 
-export interface RefNamed {
+export type Wanted = {
+  readonly dryRun: boolean
+  readonly noUpload: boolean
+  readonly simulator: boolean
+  readonly device: boolean
   readonly ref: string | null
-  readonly rest: readonly string[]
 }
 
-export function refNamed(argv: readonly string[]): RefNamed | { readonly refused: string } {
-  let ref: string | null = null
-  const rest: string[] = []
-  let at = 0
-  while (at < argv.length) {
-    const one = argv[at] as string
-    at += 1
-    let value: string | undefined
-    if (one === REF) {
-      value = argv[at]
-      at += 1
-    } else if (one.startsWith(`${REF}=`)) {
-      value = one.slice(REF.length + 1)
-    } else {
-      rest.push(one)
-      continue
+export function wrongIn(kind: string, slug: string, wanted: Wanted): string | null {
+  if (wanted.ref === "") return NO_REF
+  const onto = wanted.simulator ? simulator.said : wanted.device ? device.said : null
+  if (kind === IOS_APP) {
+    if (onto === null) {
+      if (!wanted.dryRun) return null
+      return `\`${slug}\` names an ios app, which is built and handed to Apple rather than applied to a cluster, so \`${dryRun.said}\` says nothing about it — a build Apple validates and nobody is sent is \`${noUpload.said}\``
     }
-    if (value === undefined || value === "" || value.startsWith("-")) {
-      return {
-        refused: `\`${REF}\` takes the commit to build, and this call names none after it`,
-      }
-    }
-    if (ref !== null) {
-      return {
-        refused: `\`${REF}\` is named twice, as \`${ref}\` and as \`${value}\`, so which commit is meant is unsettled`,
-      }
-    }
-    ref = value
+    if (!wanted.noUpload && wanted.ref === null) return null
+    return `\`${onto}\` installs the build rather than handing it to Apple, so \`${noUpload.said}\` and \`${ref.said}\` say nothing about it`
   }
-  return { ref, rest }
+  const what = NAMED[kind] as string
+  if (onto !== null) {
+    return `\`${slug}\` names ${what}, which is put up rather than installed on a phone, so \`${onto}\` says nothing about it`
+  }
+  if (!wanted.noUpload) return null
+  return `\`${slug}\` names ${what}, which is put up rather than uploaded, so \`${noUpload.said}\` says nothing about it — a run that applies nothing is \`${dryRun.said}\``
 }
 
 export async function putUp(
   read: Read,
   slug: string,
   commit: string,
-  rest: readonly string[],
+  wanted: Wanted,
   given: Given,
   restarting: ReadonlySet<string> | null = null,
   up: string[] = []
 ): Promise<Answer> {
-  const dryRun = rest.includes(DRY_RUN)
+  const dry = wanted.dryRun
   let at = ""
   if (PINNED.has(read.kind)) {
     const pinned = pinnedTree(given.root, read.kind, commit)
@@ -145,26 +140,26 @@ export async function putUp(
     at = pinned.at
   }
   if (read.kind === IOS_APP) {
-    return shipIosApp(slug, read.pagePath, rest.includes(NO_UPLOAD), commit, up)
+    return shipIosApp(slug, read.pagePath, wanted.noUpload, commit, up)
   }
-  if (read.kind === CONTAINER_RECIPE) return await pushedImage(slug, dryRun, at, up)
+  if (read.kind === CONTAINER_RECIPE) return await pushedImage(slug, dry, at, up)
   if (read.kind === WORKSTATION_SERVICE) {
-    return putUpEvery(given.root, dryRun, restarting ?? new Set<string>(), at, up)
+    return putUpEvery(given.root, dry, restarting ?? new Set<string>(), at, up)
   }
   if (read.kind === INFERENCE_SERVICE) {
-    return await putUpInferenceService(given.root, slug, dryRun, at, up)
+    return await putUpInferenceService(given.root, slug, dry, at, up)
   }
-  if (read.kind === ESO_ADDON) return await putUpAddon(at, slug, read.pagePath, dryRun, up)
+  if (read.kind === ESO_ADDON) return await putUpAddon(at, slug, read.pagePath, dry, up)
   if (read.kind === CLUSTER_SERVICE) {
     const servable = servableNamed(given.root, slug)
     if ("refused" in servable) return refused(servable.refused, DATA)
-    return appliedWorkload(given.root, slug, servable.servable, dryRun, at, up)
+    return appliedWorkload(given.root, slug, servable.servable, dry, at, up)
   }
-  const bundle = await publishedBundleFor(given.root, slug, dryRun, at, up)
+  const bundle = await publishedBundleFor(given.root, slug, dry, at, up)
   if (bundle !== null && bundle.refusals.length > 0) {
     return answeredWith(bundle.lines, bundle.refusals, OPERATIONAL)
   }
-  const web = await putUpWebApp(slug, commit, given, dryRun, at, up)
+  const web = await putUpWebApp(slug, commit, given, dry, at, up)
   if (bundle === null) return web
   return answeredWith([...bundle.lines, ...web.report], web.refusals, web.code)
 }
@@ -173,7 +168,7 @@ export type PuttingUp = (
   read: Read,
   slug: string,
   commit: string,
-  rest: readonly string[],
+  wanted: Wanted,
   given: Given,
   restarting: ReadonlySet<string> | null,
   up: string[]
@@ -184,78 +179,35 @@ export async function deploy(
   given: Given,
   putting: PuttingUp = putUp
 ): Promise<Answer> {
-  const taken = refNamed(argv)
-  if ("refused" in taken) return refused(taken.refused, INPUT)
-  const { ref, rest } = taken
-  const strange = rest.find((one) => one.startsWith("-") && !FLAGS.includes(one))
-  if (strange !== undefined) {
-    return refused(`\`${strange}\` is nothing \`${given.calledAs}\` takes`, INPUT)
-  }
-  const named = rest.filter((one) => !one.startsWith("-"))
-  if (named.length === 0) {
-    return refused("name the app to put up by the slug its page carries", INPUT)
-  }
-  if (named.length > 1) {
-    return refused(
-      `a deploy puts up one app, and ${named.length} were named, so which one is meant is unsettled: ${named.join(", ")}`,
-      INPUT
-    )
+  const taken = takenFor(argv, given.calledAs, page, TAKES)
+  if ("refused" in taken) return refusedBy(taken.refused, INPUT)
+  const held = taken.taken
+  const wanted: Wanted = {
+    dryRun: held.dryRun,
+    noUpload: held.noUpload,
+    simulator: held.simulator,
+    device: held.device,
+    ref: held.ref ?? null,
   }
 
-  if (rest.includes(MEASURED)) allowedThrough()
+  if (held.measured) allowedThrough()
 
-  const slug = named[0] as string
+  const slug = held.deploySubject
   const read = kindNamed(given.root, slug)
   if ("refused" in read) return refused(read.refused, DATA)
-  if (read.kind === IOS_APP) {
-    const onto = rest.find((one) => one === SIMULATOR || one === DEVICE)
-    if (onto !== undefined) {
-      if (rest.includes(SIMULATOR) && rest.includes(DEVICE)) {
-        return refused(
-          `\`${SIMULATOR}\` and \`${DEVICE}\` name two places to install to, so which is meant is unsettled`,
-          INPUT
-        )
-      }
-      if (rest.includes(NO_UPLOAD) || ref !== null) {
-        return refused(
-          `\`${onto}\` installs the build rather than handing it to Apple, so \`${NO_UPLOAD}\` and \`${REF}\` say nothing about it`,
-          INPUT
-        )
-      }
-      if (onto === DEVICE) return await installedOnDevice(slug)
-      return await installedOnSimulator(slug, given)
-    }
-    if (rest.includes(DRY_RUN)) {
-      return refused(
-        `\`${slug}\` names an ios app, which is built and handed to Apple rather than applied to a cluster, so \`${DRY_RUN}\` says nothing about it — a build Apple validates and nobody is sent is \`${NO_UPLOAD}\``,
-        INPUT
-      )
-    }
-  } else {
-    const what = NAMED[read.kind] as string
-    const elsewhere = rest.find((one) => one === SIMULATOR || one === DEVICE)
-    if (elsewhere !== undefined) {
-      return refused(
-        `\`${slug}\` names ${what}, which is put up rather than installed on a phone, so \`${elsewhere}\` says nothing about it`,
-        INPUT
-      )
-    }
-    if (rest.includes(NO_UPLOAD)) {
-      return refused(
-        `\`${slug}\` names ${what}, which is put up rather than uploaded, so \`${NO_UPLOAD}\` says nothing about it — a run that applies nothing is \`${DRY_RUN}\``,
-        INPUT
-      )
-    }
-  }
-  const commit = commitAt(given.root, ref)
-  if (commit === null) return refused(saidOfNoCommit(ref ?? AT_HEAD), INPUT)
+  const unfit = wrongIn(read.kind, slug, wanted)
+  if (unfit !== null) return refused(unfit, INPUT)
+  if (read.kind === IOS_APP && wanted.device) return await installedOnDevice(slug)
+  if (read.kind === IOS_APP && wanted.simulator) return await installedOnSimulator(slug, given)
+  const commit = commitAt(given.root, wanted.ref)
+  if (commit === null) return refused(saidOfNoCommit(wanted.ref ?? AT_HEAD), INPUT)
   const closures = read.every === true ? closuresOf(given.root, read.kind, commit) : null
   const built = closures === null ? closureFor(given.root, slug, read, commit) : unionOf(closures)
   const was = sinceCommit(given.root, commitRecordedIn(given.root, read.pagePath))
   const moved = was === null ? null : changedBetween(given.root, was, commit)
   const restarting = closures === null ? null : touchedIn(closures, moved)
   const unjudged = await judgedOnDeploy(given.root, slug, was, commit, built)
-  const dry = rest.includes(DRY_RUN)
+  const dry = wanted.dryRun
   const noting = () => (dry ? [] : recordedRefusal(given.root, slug, read.pagePath, commit))
   if (unjudged.length > 0) {
     return answeredWith([`commit\t${commit}`], [...unjudged, ...noting()], DATA)
@@ -264,7 +216,7 @@ export async function deploy(
   const up: string[] = []
   let answer: Answer
   try {
-    answer = await putting(read, slug, commit, rest, given, restarting, up)
+    answer = await putting(read, slug, commit, wanted, given, restarting, up)
   } catch (thrown) {
     if (!dry) costRecorded(given.root, read.pagePath, before, PUT_UP, slug, 0, 1)
     const why = [whyOf(thrown), stoppedPartWay(up)]
