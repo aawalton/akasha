@@ -4,8 +4,8 @@ import {
   colorsSaid,
   countOf,
   initiativeWorkTree,
-  readIn,
   render,
+  shownIn,
   treeOf,
   walk,
 } from "akasha/commands/pages/initiative/work-tree/initiative-work-tree.command.code.ts"
@@ -38,30 +38,30 @@ function intentIn(statement: string): InitiativeIntent {
   return { statement, workingMemory: null }
 }
 
+const NONE = { json: false, counts: false, colors: false }
+
 test("a call naming nothing prints the tree", () => {
-  expect(readIn([])).toEqual({ shown: "tree" })
+  expect(shownIn(NONE)).toBe("tree")
 })
 
 test("each word names what to print", () => {
-  expect(readIn(["--json"])).toEqual({ shown: "json" })
-  expect(readIn(["--counts"])).toEqual({ shown: "counts" })
-  expect(readIn(["--colors"])).toEqual({ shown: "colors" })
+  expect(shownIn({ ...NONE, json: true })).toBe("json")
+  expect(shownIn({ ...NONE, counts: true })).toBe("counts")
+  expect(shownIn({ ...NONE, colors: true })).toBe("colors")
 })
 
 test("one call prints one thing", () => {
-  const said = readIn(["--json", "--counts"])
+  const said = initiativeWorkTree(["--json", "--counts"], givenIn())
 
-  expect("refused" in said && said.refused[0]).toContain("one call prints one thing")
-})
-
-test("a word said twice names one thing rather than two", () => {
-  expect(readIn(["--json", "--json"])).toEqual({ shown: "json" })
+  expect(said.refusals[0]).toBe(
+    "`--json` and `--counts` are never said together, and this call says both"
+  )
 })
 
 test("the older spelling of the colors is no word this takes", () => {
-  const said = readIn(["--colours"])
+  const said = initiativeWorkTree(["--colours"], givenIn())
 
-  expect("refused" in said && said.refused[0]).toContain("`--colours`")
+  expect(said.refusals[0]).toContain("`--colours`")
 })
 
 test("the colors carry the root beside them and nothing else", () => {

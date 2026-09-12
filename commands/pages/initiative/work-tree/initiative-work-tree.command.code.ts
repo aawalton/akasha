@@ -1,4 +1,8 @@
 import { resolve } from "node:path"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { colors } from "akasha/commands/arguments/pages/colors.argument.ts"
+import { counts } from "akasha/commands/arguments/pages/counts.argument.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import {
   DATA,
   OPERATIONAL,
@@ -8,6 +12,7 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { initiativeWorkTree as page } from "akasha/commands/pages/initiative/work-tree/initiative-work-tree.command.ts"
 import {
   type InitiativeRow,
   initiativesDrawn,
@@ -16,14 +21,6 @@ import {
   type Drawn,
   drawnNow,
 } from "akasha/seat-system/work-tree-drawn/work-tree-drawn.module.code.ts"
-
-export const JSON_OUT = "--json"
-
-export const COUNTS = "--counts"
-
-export const COLORS = "--colors"
-
-const FLAGS = [JSON_OUT, COUNTS, COLORS]
 
 const NOTHING_DRAWN: Drawn = { byInitiative: new Map() }
 
@@ -44,27 +41,17 @@ export interface Node {
 
 export type Shown = "tree" | "json" | "counts" | "colors"
 
-export type Read = { readonly shown: Shown } | { readonly refused: readonly string[] }
+export type Asked = {
+  readonly json: boolean
+  readonly counts: boolean
+  readonly colors: boolean
+}
 
-export function readIn(argv: readonly string[]): Read {
-  const refusals: string[] = []
-  const named: string[] = []
-  for (const one of argv) {
-    if (FLAGS.includes(one)) {
-      if (!named.includes(one)) named.push(one)
-      continue
-    }
-    refusals.push(`\`${one}\` is no word this takes — it takes \`${FLAGS.join("`, `")}\``)
-  }
-  if (named.length > 1) {
-    refusals.push(`${named.join(", ")} each name what to print, and one call prints one thing`)
-  }
-  if (refusals.length > 0) return { refused: refusals }
-  const one = named[0]
-  if (one === JSON_OUT) return { shown: "json" }
-  if (one === COUNTS) return { shown: "counts" }
-  if (one === COLORS) return { shown: "colors" }
-  return { shown: "tree" }
+export function shownIn(asked: Asked): Shown {
+  if (asked.json) return "json"
+  if (asked.counts) return "counts"
+  if (asked.colors) return "colors"
+  return "tree"
 }
 
 export function colorsSaid(repo: string, drawn: Drawn): string {
@@ -215,10 +202,10 @@ function said(root: string, shown: Shown): Answer {
 }
 
 export function initiativeWorkTree(argv: readonly string[], given: Given): Answer {
-  const read = readIn(argv)
+  const read = takenFor(argv, given.calledAs, page, [json, counts, colors])
   if ("refused" in read) return mistaking(read.refused)
   try {
-    return said(resolve(given.root), read.shown)
+    return said(resolve(given.root), shownIn(read.taken))
   } catch (thrown) {
     return refusedBy([whyOf(thrown)], OPERATIONAL)
   }
