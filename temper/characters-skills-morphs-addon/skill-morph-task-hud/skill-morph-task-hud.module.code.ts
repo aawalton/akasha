@@ -1,12 +1,12 @@
 import {
   ALL_CLASS_ESO_SKILL_LINE_IDS,
   CLASS_ESO_SKILL_LINE_IDS,
-} from "akasha/temper/characters-capture-addon/character-capture-skill-line-groups/character-capture-skill-line-groups.module.code.ts"
-import { MORPHABLE_SKILLS_DETAIL_PER_LINE } from "akasha/temper/characters-capture-addon/character-capture-skill-line-map/character-capture-skill-line-map.module.code.ts"
+} from "akasha/temper/characters-capture-addon/modules/character-capture-skill-line-groups/character-capture-skill-line-groups.module.code.ts"
+import { MORPHABLE_SKILLS_DETAIL_PER_LINE } from "akasha/temper/characters-capture-addon/modules/character-capture-skill-line-map/character-capture-skill-line-map.module.code.ts"
 import {
   MORPHABLE_SKILLS_PER_LINE,
   SKILL_LINE_DISPLAY_ORDER,
-} from "akasha/temper/characters-capture-addon/character-capture-skill-line-ranks/character-capture-skill-line-ranks.module.code.ts"
+} from "akasha/temper/characters-capture-addon/modules/character-capture-skill-line-ranks/character-capture-skill-line-ranks.module.code.ts"
 import type { SkillLineProgress } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import {
   getSavedVariables,

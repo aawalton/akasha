@@ -1,12 +1,12 @@
-import { SKILL_ESO_ID_TO_INDEX_00 } from "akasha/temper/characters-capture-addon/character-capture-skill-index-00/character-capture-skill-index-00.module.code.ts"
-import { SKILL_ESO_ID_TO_INDEX_01 } from "akasha/temper/characters-capture-addon/character-capture-skill-index-01/character-capture-skill-index-01.module.code.ts"
-import { SKILL_ESO_ID_TO_INDEX_02 } from "akasha/temper/characters-capture-addon/character-capture-skill-index-02/character-capture-skill-index-02.module.code.ts"
-import { SKILL_ESO_ID_TO_TEMPER_ID_00 } from "akasha/temper/characters-capture-addon/character-capture-skill-name-00/character-capture-skill-name-00.module.code.ts"
-import { SKILL_ESO_ID_TO_TEMPER_ID_01 } from "akasha/temper/characters-capture-addon/character-capture-skill-name-01/character-capture-skill-name-01.module.code.ts"
-import { SKILL_ESO_ID_TO_TEMPER_ID_02 } from "akasha/temper/characters-capture-addon/character-capture-skill-name-02/character-capture-skill-name-02.module.code.ts"
 import { SKILL_ESO_ID_TO_TEMPER_ID_03 } from "akasha/temper/characters-capture-addon/character-capture-skill-name-03/character-capture-skill-name-03.module.code.ts"
 import { SKILL_ESO_ID_TO_TEMPER_ID_04 } from "akasha/temper/characters-capture-addon/character-capture-skill-name-04/character-capture-skill-name-04.module.code.ts"
 import { SKILL_ESO_ID_TO_TEMPER_ID_05 } from "akasha/temper/characters-capture-addon/character-capture-skill-name-05/character-capture-skill-name-05.module.code.ts"
+import { SKILL_ESO_ID_TO_INDEX_00 } from "akasha/temper/characters-capture-addon/modules/character-capture-skill-index-00/character-capture-skill-index-00.module.code.ts"
+import { SKILL_ESO_ID_TO_INDEX_01 } from "akasha/temper/characters-capture-addon/modules/character-capture-skill-index-01/character-capture-skill-index-01.module.code.ts"
+import { SKILL_ESO_ID_TO_INDEX_02 } from "akasha/temper/characters-capture-addon/modules/character-capture-skill-index-02/character-capture-skill-index-02.module.code.ts"
+import { SKILL_ESO_ID_TO_TEMPER_ID_00 } from "akasha/temper/characters-capture-addon/modules/character-capture-skill-name-00/character-capture-skill-name-00.module.code.ts"
+import { SKILL_ESO_ID_TO_TEMPER_ID_01 } from "akasha/temper/characters-capture-addon/modules/character-capture-skill-name-01/character-capture-skill-name-01.module.code.ts"
+import { SKILL_ESO_ID_TO_TEMPER_ID_02 } from "akasha/temper/characters-capture-addon/modules/character-capture-skill-name-02/character-capture-skill-name-02.module.code.ts"
 
 const SKILL_ESO_ID_TO_INDEX: Record<number, number> = {
   ...SKILL_ESO_ID_TO_INDEX_00,

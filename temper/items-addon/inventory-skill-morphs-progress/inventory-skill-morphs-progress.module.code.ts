@@ -2,8 +2,8 @@ import {
   BASE_APPLICABLE_ESO_LINE_IDS,
   CLASS_ESO_SKILL_LINE_IDS,
   RACIAL_ESO_LINE_ID_PER_ESO_RACE,
-} from "akasha/temper/characters-capture-addon/character-capture-skill-line-groups/character-capture-skill-line-groups.module.code.ts"
-import { MORPHABLE_SKILLS_DETAIL_PER_LINE } from "akasha/temper/characters-capture-addon/character-capture-skill-line-map/character-capture-skill-line-map.module.code.ts"
+} from "akasha/temper/characters-capture-addon/modules/character-capture-skill-line-groups/character-capture-skill-line-groups.module.code.ts"
+import { MORPHABLE_SKILLS_DETAIL_PER_LINE } from "akasha/temper/characters-capture-addon/modules/character-capture-skill-line-map/character-capture-skill-line-map.module.code.ts"
 import { getTemperCharactersData } from "akasha/temper/items-addon/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
 import {
   computeCharacterMorphProgressByEsoId,
