@@ -15,6 +15,7 @@ export type SupervisorEnvOpts = {
   baseEnv: Record<string, string | undefined>
   agentId: string
   sessionId: string
+  sessionName?: string
   configDir: string
   anthropicBaseUrl?: string
   anthropicAuthToken?: string
@@ -61,6 +62,9 @@ export function buildSupervisorEnv(opts: SupervisorEnvOpts): Record<string, stri
     MCP_TOOL_TIMEOUT: mcpToolTimeout,
     AGENT_ID: opts.agentId,
     SESSION_ID: opts.sessionId,
+    ...(opts.sessionName != null && opts.sessionName !== ""
+      ? { CLAUDE_CODE_SESSION_NAME: opts.sessionName }
+      : {}),
     CLAUDE_CONFIG_DIR: opts.configDir,
     ...(opts.supervisorPid !== undefined ? { SUPERVISOR_PID: String(opts.supervisorPid) } : {}),
     [AGENT_LAUNCH_ENV]: opts.headless ? AGENT_LAUNCH_SPAWNED : AGENT_LAUNCH_OPENED,
