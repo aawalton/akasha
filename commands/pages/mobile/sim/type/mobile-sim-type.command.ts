@@ -6,12 +6,25 @@ export const mobileSimType = {
   slug: "mobile-sim-type",
   definition: "the command typing text into the simulator's webview",
   code: "ts",
+  test: "ts",
   taking: [],
 
   invariants: [
     {
       invariantKind: "departure",
       statement: "An element named is tapped before anything is typed into that element.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The element tapped is named as soon as that element is tapped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A typing that threw after that tap names the tap in its refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The session, the finding, the tapping and the typing are handed in.",
     },
     {
       invariantKind: "departure",
