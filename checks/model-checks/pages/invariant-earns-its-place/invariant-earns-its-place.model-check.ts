@@ -19,9 +19,5 @@ export const invariantEarnsItsPlace = {
       statement:
         "A page whose definition a change alters has every departure on that page judged again.",
     },
-    {
-      invariantKind: "gap",
-      statement: "A test is here for each way a departure fails.",
-    },
   ],
 } as const satisfies ModelCheck
