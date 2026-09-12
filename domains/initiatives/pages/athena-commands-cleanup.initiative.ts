@@ -24,7 +24,6 @@ export const athenaCommandsCleanup = {
     "A check that threw because a concurrent landing left a file momentarily empty is answered by running it again.",
     "Alan's aliases derive every call from the command page and the editor extension spells none, so a rename costs that command's own folder and one line of its parent's parts.",
     "A large mechanical landing arrives by holding fewer paths and putting fewer commands between draft and apply, rather than by waiting for the swarm to go quiet.",
-    "A body branch a page key replaces is residue of three kinds: behavioural, reachable from code but not from a call, or load-bearing for a type. The third reads deadest and will not compile.",
     "A page invariant that reads like a group rule often means the opposite, so the refusal is confirmed in the code before a page key is landed.",
     "An import edit and the edits leaning on it are one unit, so the whole import line is settled from every name the file will use before any body edit is drafted.\n",
     "A command page and the module page beneath it can disagree with nothing to catch it, and a check compares code against the page beside that code, so the module page is the one that has been wrong.\n",
@@ -37,5 +36,6 @@ export const athenaCommandsCleanup = {
     "A name carrying meaning the builder's name does not is no alias, however exactly its body reduces to that builder.",
     "A census of a symbol greps the bare identifier or runs multiline, and an import with no call to justify it is the cheaper census, because a call spelled over four lines is invisible to one line.",
     "An invariant with a test named after its own words does not rot, and an invariant with no test is true only on the day it was written.",
+    "A caller's test asserts the distinctive part of a refusal rather than the whole sentence, because a shared refusal improves hourly and every whole-sentence assertion goes red together.",
   ],
 } as const satisfies Initiative
