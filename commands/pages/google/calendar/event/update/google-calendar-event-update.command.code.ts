@@ -18,7 +18,7 @@ const WANTED: Wanted = {
   inPlace: true,
 }
 
-export function googleCalendarEventsUpdate(argv: readonly string[], given: Given): Promise<Answer> {
+export function googleCalendarEventUpdate(argv: readonly string[], given: Given): Promise<Answer> {
   return answeredBy(readIn(argv, WANTED), given.calledAs, async (read) =>
     (await eventsIn()).updateEvent(await asAlan(), patchOf(read))
   )
