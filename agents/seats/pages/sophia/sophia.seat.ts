@@ -9,6 +9,6 @@ export const sophia = {
   role: "persona-craft",
   person: "alan",
   startMode: "interactive",
-  onCall: false,
+  onCall: true,
   registrationAccount: "aawalton",
 } as const satisfies Seat
