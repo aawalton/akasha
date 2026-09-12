@@ -1,5 +1,10 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
+import {
+  DATA,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { publishedFor } from "akasha/infrastructure/container-image/image-publishing/image-publishing.module.code.ts"
 import {
   CLUSTER_SERVICE_TYPE,
@@ -22,8 +27,6 @@ import { slugsOfType } from "akasha/pages/indexes/reading/index-reading.module.c
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
-const DATA = 2
-const OPERATIONAL = 3
 const MANIFEST = "manifest"
 const NEEDS = ["resourceKind", "namespace", "resourceName", MANIFEST]
 
@@ -149,12 +152,12 @@ export async function appliedWorkload(
 
   if (!differs && up) {
     report.push(`nothing\tthe cluster already runs ${slug} as its page describes`)
-    return { report, refusals: [], code: 0 }
+    return { report, refusals: [], code: OK }
   }
 
   if (dryRun) {
     report.push("dry-run\tnothing was applied; run it again without `--dry-run` to carry it out")
-    return { report, refusals: [], code: 0 }
+    return { report, refusals: [], code: OK }
   }
 
   for (const one of writeManifests(root, plan)) report.push(`wrote\t${one}`)
@@ -170,5 +173,5 @@ export async function appliedWorkload(
   report.push(
     `up\t${workload.kind} ${workload.namespace}/${workload.name} runs as its page describes`
   )
-  return { report, refusals: [], code: 0 }
+  return { report, refusals: [], code: OK }
 }
