@@ -1,4 +1,4 @@
-import type { Notice } from "akasha/seat-system/notices/notice.page-type.types.ts"
+import type { Notice } from "akasha/agents/messaging/notices/notice.page-type.types.ts"
 
 export const restartDeferred = {
   id: "01a06864-7aa3-7f1d-8d0e-7e8835e11fd1",

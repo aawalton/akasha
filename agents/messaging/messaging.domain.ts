@@ -23,5 +23,6 @@ export const messaging = {
     "module/supervisor-redelivery-holdoff",
     "module/channel-delivery",
     "module/messages-agent-tools",
+    "page-type/notice",
   ],
 } as const satisfies Domain
