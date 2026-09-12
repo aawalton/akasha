@@ -8,7 +8,6 @@ export const browserTestVerifyRender = {
     "the command telling a rendered page on a deployed site from a failure and from an empty shell",
   code: "ts",
   taking: [
-    { said: "--url <origin>", takes: "the deployed origin the page is fetched from" },
     { said: "--path <path>", takes: "the path under that origin" },
     { said: "--page-type <slug>", takes: "the page type the answer is said about" },
     { said: "--expect-text <text>", takes: "text the rendered body is to hold" },
@@ -96,5 +95,5 @@ export const browserTestVerifyRender = {
     },
   ],
   name: "test-verify-render",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/url", required: true }],
 } as const satisfies Command

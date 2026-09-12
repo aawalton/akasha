@@ -8,7 +8,6 @@ export const browserTestStorageState = {
     "the command signing the browser-test user in and writing the storage state a browser is seeded from",
   code: "ts",
   taking: [
-    { said: "--url <origin>", takes: "the origin signed in to, the env's where none is said" },
     {
       said: "--sign-in-path <path>",
       takes: "the path the form is at, `/sign-in` where none is said",
@@ -60,5 +59,5 @@ export const browserTestStorageState = {
     },
   ],
   name: "test-storage-state",
-  arguments: [{ argument: "argument/output" }],
+  arguments: [{ argument: "argument/output" }, { argument: "argument/url" }],
 } as const satisfies Command
