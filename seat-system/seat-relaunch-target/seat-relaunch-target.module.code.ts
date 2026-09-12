@@ -2,8 +2,8 @@ import {
   frontmatterFromHistory,
   nameFromHistory,
 } from "akasha/agents/seats/modules/page-history/seat-page-history.module.code.ts"
+import { pageValuesOf } from "akasha/agents/seats/modules/page-values/seat-page-values.module.code.ts"
 import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { pageValuesOf } from "akasha/seat-system/seat-page-values/seat-page-values.module.code.ts"
 import { agentPresence } from "akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
 import type { SeatPresence } from "akasha/seat-system/seat-proc-key/seat-proc-key.module.code.ts"
 import { sessionOf } from "akasha/seat-system/seat-session/seat-session.module.code.ts"

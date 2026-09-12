@@ -1,8 +1,8 @@
+import { pageTextOf } from "akasha/agents/seats/modules/page-values/seat-page-values.module.code.ts"
 import {
   FLEET,
   type Principal,
 } from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
-import { pageTextOf } from "akasha/seat-system/seat-page-values/seat-page-values.module.code.ts"
 import { seatIdForName } from "akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
 
 const PERSON_KEY = "person-slug"

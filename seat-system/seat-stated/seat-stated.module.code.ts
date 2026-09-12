@@ -9,9 +9,9 @@ import {
   type StatedFromHistory,
   statedFromHistory,
 } from "akasha/agents/seats/modules/page-history/seat-page-history.module.code.ts"
+import { pageTextOf } from "akasha/agents/seats/modules/page-values/seat-page-values.module.code.ts"
 import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
 import type { Principal } from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
-import { pageTextOf } from "akasha/seat-system/seat-page-values/seat-page-values.module.code.ts"
 import {
   type PrincipalRecord,
   principalOf,

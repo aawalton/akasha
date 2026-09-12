@@ -1,4 +1,4 @@
-import { pageTextOf } from "akasha/seat-system/seat-page-values/seat-page-values.module.code.ts"
+import { pageTextOf } from "akasha/agents/seats/modules/page-values/seat-page-values.module.code.ts"
 import {
   dropSeatRecord,
   keepSeatRecord,
