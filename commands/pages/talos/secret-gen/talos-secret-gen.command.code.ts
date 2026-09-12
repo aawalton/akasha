@@ -3,6 +3,7 @@ import { mkdir, mkdtemp, rm, stat } from "node:fs/promises"
 import { dirname, join } from "node:path"
 import {
   OPERATIONAL,
+  partWay,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -65,7 +66,7 @@ export function readIn(argv: readonly string[]): Read {
   return { cluster: flags.get(CLUSTER) ?? DEFAULT_CLUSTER_NAME, force }
 }
 
-async function generating(read: Named): Promise<Answer> {
+async function generating(read: Named, done: string[]): Promise<Answer> {
   const destPath = clusterSecretsSopsPath(read.cluster)
   if (existsSync(destPath) && !read.force) {
     return mistaking([
@@ -80,7 +81,7 @@ async function generating(read: Named): Promise<Answer> {
     await runTalosctl({ args: ["gen", "secrets", "-o", tmpSecretsPath, "--force"] })
     const info = await stat(tmpSecretsPath)
     if (info.size === 0) return refusedBy(["talosctl gen secrets wrote nothing"], OPERATIONAL)
-    await encryptFile(tmpSecretsPath, destPath)
+    await encryptFile(tmpSecretsPath, destPath, done)
   } finally {
     await rm(workDir, { recursive: true, force: true })
   }
@@ -90,9 +91,12 @@ async function generating(read: Named): Promise<Answer> {
 export async function talosSecretGen(argv: readonly string[]): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) return mistaking(read.refused)
+  const done: string[] = []
   try {
-    return await generating(read)
+    return await generating(read, done)
   } catch (thrown) {
-    return refusedBy([whyOf(thrown)], OPERATIONAL)
+    const why = whyOf(thrown)
+    if (done.length === 0) return refusedBy([why], OPERATIONAL)
+    return { report: done, refusals: [why, ...partWay(done)], code: OPERATIONAL }
   }
 }

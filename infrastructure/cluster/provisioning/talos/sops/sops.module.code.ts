@@ -21,8 +21,29 @@ export async function decryptToTmp(sopsPath: string): Promise<string> {
   return outPath
 }
 
-export async function encryptFile(srcPath: string, destSopsPath: string): Promise<void> {
-  const stdout = await runSops([
+export type Encrypting = {
+  readonly ran: (args: readonly string[]) => Promise<string>
+  readonly wrote: (path: string, body: string) => Promise<void>
+  readonly moded: (path: string, mode: number) => Promise<void>
+}
+
+export const ENCRYPTING: Encrypting = {
+  ran: runSops,
+  wrote: async (path, body) => {
+    await writeFile(path, body)
+  },
+  moded: async (path, mode) => {
+    await chmod(path, mode)
+  },
+}
+
+export async function encryptFile(
+  srcPath: string,
+  destSopsPath: string,
+  done: string[] = [],
+  encrypting: Encrypting = ENCRYPTING
+): Promise<void> {
+  const stdout = await encrypting.ran([
     "encrypt",
     "--input-type",
     "yaml",
@@ -32,8 +53,10 @@ export async function encryptFile(srcPath: string, destSopsPath: string): Promis
     destSopsPath,
     srcPath,
   ])
-  await writeFile(destSopsPath, stdout)
-  await chmod(destSopsPath, 0o600)
+  await encrypting.wrote(destSopsPath, stdout)
+  done.push(`wrote ${destSopsPath}, which is every node's PKI`)
+  await encrypting.moded(destSopsPath, 0o600)
+  done.push(`set ${destSopsPath} to mode 0600`)
 }
 
 async function runSops(args: readonly string[]): Promise<string> {

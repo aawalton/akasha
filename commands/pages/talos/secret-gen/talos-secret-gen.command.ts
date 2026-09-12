@@ -48,6 +48,10 @@ export const talosSecretGen = {
       invariantKind: "absence",
       statement: "Nothing here undoes a rotation.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A run that threw after the bundle was written over says it was written over.",
+    },
   ],
   name: "secret-gen",
   arguments: [{ argument: "argument/force" }, { argument: "argument/cluster" }],
