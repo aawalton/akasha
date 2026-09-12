@@ -8,4 +8,5 @@ export const holdMs = {
   takes: "how long the finger holds before it drags, 800 where none is said",
   value: "whole-number",
   placeholder: "ms",
+  default: "800",
 } as const satisfies Argument

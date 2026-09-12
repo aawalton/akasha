@@ -8,4 +8,5 @@ export const dragSteps = {
   takes: "how many moves the drag is made of, 12 where none is said",
   value: "whole-number",
   placeholder: "n",
+  default: "12",
 } as const satisfies Argument

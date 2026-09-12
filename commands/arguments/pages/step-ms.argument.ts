@@ -8,4 +8,5 @@ export const stepMs = {
   takes: "how long each move of the drag takes, 30 where none is said",
   value: "whole-number",
   placeholder: "ms",
+  default: "30",
 } as const satisfies Argument

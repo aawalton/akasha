@@ -1,40 +1,22 @@
 import { longPressDrag } from "akasha/alan/harness/mobile-cli/appium-client/appium-client.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { dragSteps } from "akasha/commands/arguments/pages/drag-steps.argument.ts"
+import { holdMs } from "akasha/commands/arguments/pages/hold-ms.argument.ts"
+import { stepMs } from "akasha/commands/arguments/pages/step-ms.argument.ts"
+import { toX } from "akasha/commands/arguments/pages/to-x.argument.ts"
+import { toY } from "akasha/commands/arguments/pages/to-y.argument.ts"
+import { x } from "akasha/commands/arguments/pages/x.argument.ts"
+import { y } from "akasha/commands/arguments/pages/y.argument.ts"
 import {
   answering,
-  flagsAloneIn,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import {
-  countOf,
-  driving,
-  type Reading,
-  type Said,
-  wordsIn,
-} from "akasha/commands/pages/mobile/mobile-answering/mobile-answering.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { driving } from "akasha/commands/pages/mobile/mobile-answering/mobile-answering.module.code.ts"
+import { mobileSimLongPressDrag as page } from "akasha/commands/pages/mobile/sim/long-press-drag/mobile-sim-long-press-drag.command.ts"
 
-const X = "--x"
-
-const Y = "--y"
-
-const TO_X = "--to-x"
-
-const TO_Y = "--to-y"
-
-const HOLD_MS = "--hold-ms"
-
-const STEPS = "--steps"
-
-const STEP_MS = "--step-ms"
-
-const VALUED = [X, Y, TO_X, TO_Y, HOLD_MS, STEPS, STEP_MS]
-
-const DEFAULT_HOLD_MS = 800
-
-const DEFAULT_STEPS = 12
-
-const DEFAULT_STEP_MS = 30
+const TAKES = [x, y, toX, toY, holdMs, dragSteps, stepMs]
 
 export type Read = {
   readonly x: number
@@ -44,42 +26,6 @@ export type Read = {
   readonly holdMs: number
   readonly steps: number
   readonly stepMs: number
-}
-
-function neededIn(said: Said, flag: string): Reading<number> {
-  const held = countOf(said.named[flag], flag)
-  if (held === null) return { refused: [`\`${flag}\` names a coordinate, and nothing did`] }
-  return held
-}
-
-function orElse(said: Said, flag: string, instead: number): Reading<number> {
-  const held = countOf(said.named[flag], flag)
-  return held === null ? instead : held
-}
-
-export function readIn(argv: readonly string[]): Reading<Read> {
-  const said = wordsIn(argv, VALUED, [])
-  if ("refused" in said) return said
-  const loose = flagsAloneIn(said)
-  if (loose.length > 0) return { refused: loose }
-
-  const x = neededIn(said, X)
-  if (typeof x !== "number") return x
-  const y = neededIn(said, Y)
-  if (typeof y !== "number") return y
-  const toX = neededIn(said, TO_X)
-  if (typeof toX !== "number") return toX
-  const toY = neededIn(said, TO_Y)
-  if (typeof toY !== "number") return toY
-
-  const holdMs = orElse(said, HOLD_MS, DEFAULT_HOLD_MS)
-  if (typeof holdMs !== "number") return holdMs
-  const steps = orElse(said, STEPS, DEFAULT_STEPS)
-  if (typeof steps !== "number") return steps
-  const stepMs = orElse(said, STEP_MS, DEFAULT_STEP_MS)
-  if (typeof stepMs !== "number") return stepMs
-
-  return { x, y, toX, toY, holdMs, steps, stepMs }
 }
 
 export type Dragging = (done: string[], read: Read) => Promise<Answer>
@@ -102,9 +48,20 @@ async function dragged(done: string[], read: Read): Promise<Answer> {
 
 export async function mobileSimLongPressDrag(
   argv: readonly string[],
+  given: Given,
   dragging: Dragging = dragged
 ): Promise<Answer> {
-  const read = readIn(argv)
-  if ("refused" in read) return refusedBy(read.refused)
+  const said = takenFor(argv, given.calledAs, page, TAKES)
+  if ("refused" in said) return refusedBy(said.refused)
+  const taken = said.taken
+  const read: Read = {
+    x: taken.x,
+    y: taken.y,
+    toX: taken.toX,
+    toY: taken.toY,
+    holdMs: taken.holdMs,
+    steps: taken.dragSteps,
+    stepMs: taken.stepMs,
+  }
   return await answering(async (done) => await dragging(done, read))
 }
