@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import {
   countsOver,
-  linesOf,
+  pageTypeLinesOf,
   pageTypeOf,
 } from "akasha/commands/pages/measure/page/page-measuring/page-measuring.module.code.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
@@ -90,7 +90,7 @@ test("a file that could not be read is counted with no lines and named", () => {
 
   expect(counts.pages).toEqual({ files: 1, lines: 0 })
   expect(counts.unread).toEqual(["personas/nowhere.persona.ts"])
-  expect(linesOf(counts)).toContain("these were not read, and count no lines:")
+  expect(pageTypeLinesOf(counts)).toContain("these were not read, and count no lines:")
 })
 
 test("a generated file is not counted", () => {
@@ -106,7 +106,7 @@ test("a generated file is not counted", () => {
 })
 
 test("two sets of columns are set out under one heading, above a total", () => {
-  const said = linesOf(countsWith())
+  const said = pageTypeLinesOf(countsWith())
 
   expect(said[0]).toContain("page lines")
   expect(said[0]).toContain("property lines")

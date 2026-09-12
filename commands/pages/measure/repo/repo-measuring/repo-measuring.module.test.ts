@@ -2,8 +2,8 @@ import { afterAll, expect, test } from "bun:test"
 import { symlinkSync } from "node:fs"
 import { join } from "node:path"
 import {
-  countsIn,
-  linesOf,
+  fileTypeCountsIn,
+  fileTypeLinesOf,
   typeOf,
 } from "akasha/commands/pages/measure/repo/repo-measuring/repo-measuring.module.code.ts"
 import { said as git } from "akasha/git/running/git-running.module.code.ts"
@@ -34,7 +34,7 @@ function repoWith(): string {
 }
 
 test("every file the checkout holds is counted, and a generated file is not", () => {
-  const counts = countsIn(repoWith())
+  const counts = fileTypeCountsIn(repoWith())
 
   expect(counts.files).toBe(5)
   expect(counts.lines).toBe(8)
@@ -44,7 +44,7 @@ test("a file not yet committed is counted where the repository does not ignore i
   const root = repoWith()
   put(root, "nine.ts", "nine\n")
 
-  expect(countsIn(root).files).toBe(6)
+  expect(fileTypeCountsIn(root).files).toBe(6)
 })
 
 test("a file type is what follows the last dot in a name", () => {
@@ -59,22 +59,22 @@ test("a file that could not be read is counted with no lines and named", () => {
   const root = repoWith()
   symlinkSync(join(root, "nowhere.ts"), join(root, "broken.ts"))
   git(root, ["add", "-A"])
-  const counts = countsIn(root)
+  const counts = fileTypeCountsIn(root)
 
   expect(counts.files).toBe(6)
   expect(counts.lines).toBe(8)
   expect(counts.unread).toEqual(["broken.ts"])
-  expect(linesOf(counts)).toContain("these were not read, and count no lines:")
+  expect(fileTypeLinesOf(counts)).toContain("these were not read, and count no lines:")
 })
 
 test("types are ordered by how many lines each type holds", () => {
-  const counts = countsIn(repoWith())
+  const counts = fileTypeCountsIn(repoWith())
 
   expect(counts.types.map((one) => one.type)).toEqual(["ts", "txt", ".gitignore"])
 })
 
 test("the numbers are set out in a column under a heading, above a total", () => {
-  const said = linesOf({
+  const said = fileTypeLinesOf({
     types: [
       { type: "ts", files: 3, lines: 40 },
       { type: "md", files: 1, lines: 2 },

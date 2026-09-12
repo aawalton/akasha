@@ -97,7 +97,7 @@ export function countsOver(
   return { types, pages, properties, outside, unread }
 }
 
-export function countsIn(root: string): Counts {
+export function pageTypeCountsIn(root: string): Counts {
   return countsOver(
     root,
     pathsIn(root),
@@ -116,7 +116,7 @@ function rowOf(type: string, pages: Tally, properties: Tally): readonly string[]
   ]
 }
 
-export function linesOf(counts: Counts): readonly string[] {
+export function pageTypeLinesOf(counts: Counts): readonly string[] {
   const said = columnsOf([
     HEADING,
     ...counts.types.map((one) => rowOf(one.type, one.pages, one.properties)),

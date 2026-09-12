@@ -30,7 +30,7 @@ export function typeOf(path: string): string {
   return at < 1 ? name : name.slice(at + 1)
 }
 
-export function countsIn(root: string): Counts {
+export function fileTypeCountsIn(root: string): Counts {
   const held = new Map<string, { files: number; lines: number }>()
   const unread: string[] = []
   let files = 0
@@ -53,7 +53,7 @@ export function countsIn(root: string): Counts {
   return { types, files, lines, unread }
 }
 
-export function linesOf(counts: Counts): readonly string[] {
+export function fileTypeLinesOf(counts: Counts): readonly string[] {
   const said = columnsOf([
     HEADING,
     ...counts.types.map((one) => [one.type, String(one.files), String(one.lines)]),
