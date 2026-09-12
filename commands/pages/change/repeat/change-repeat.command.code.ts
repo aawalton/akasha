@@ -1,10 +1,15 @@
 import { join } from "node:path"
-import { editsWaiting } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import {
+  editsIn,
+  editsWaiting,
+  sweptAll,
+} from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { atMostIn } from "akasha/changes/modules/value-carrying/value-carrying.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { change } from "akasha/commands/arguments/pages/change.argument.ts"
 import {
   answering,
+  DATA,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -41,9 +46,17 @@ const DROPS_ALL = "all: true\n"
 
 const DROP_FAILED = "the edits that batch left were not dropped, so no later run may land:"
 
-const KEPT_ALREADY =
-  "edits are kept beside this agent's page already, and a repeat lands what is kept as its own —" +
-  " land them or drop them first"
+const KEPT_MESSAGE =
+  "message: the edits kept before this repeat began land before its first batch\n"
+
+const KEPT_LANDED = "the edits kept beside this agent's page landed before the first batch"
+
+const KEPT_UNREAD =
+  "a row kept beside this agent's page reads as no edit, so what was kept was swept rather than" +
+  " landed"
+
+const KEPT_STALE =
+  "edits are kept beside this agent's page and landing them first was refused, so no batch ran:"
 
 const COMMITTED = "committed as "
 
@@ -116,20 +129,34 @@ export function droppedBy(running: Running): readonly string[] {
   return done.code === 0 ? [] : [DROP_FAILED, ...saidBy(done)]
 }
 
+export type Cleared = { readonly said: readonly string[] } | { readonly why: readonly string[] }
+
+export function clearing(root: string, beside: string, running: Running): Cleared {
+  const landed = running(APPLIES, KEPT_MESSAGE)
+  if (landed.code === 0) {
+    const commit = committedIn(landed.out)
+    return { said: [commit === null ? KEPT_LANDED : `${KEPT_LANDED}, committed as ${commit}`] }
+  }
+  const stale = { why: [KEPT_STALE, ...saidBy(landed)] }
+  if (!("why" in editsIn(root, beside))) return stale
+  return sweptAll(root, beside) ? { said: [KEPT_UNREAD] } : stale
+}
+
 export function repeating(
   running: Running,
   slug: string,
   given: string,
-  landed: string[] = []
+  landed: string[] = [],
+  opening: readonly string[] = []
 ): Answer {
   for (;;) {
     const batch = running([...APPLIES, slug], given)
     const commit = batch.code === 0 ? committedIn(batch.out) : null
     if (commit === null) {
       const why = [...saidBy(batch), ...droppedBy(running)]
-      if (landed.length === 0) return refusedBy(why, batch.code || 1)
+      if (landed.length === 0) return refusedBy([...opening, ...why], batch.code || 1)
       const closing = `${String(landed.length)} ${AND_THEN}`
-      return told([...landed, closing, ...why])
+      return told([...opening, ...landed, closing, ...why])
     }
     landed.push(`batch ${String(landed.length + 1)} committed as ${commit}`)
   }
@@ -174,6 +201,13 @@ export async function changeRepeat(
   const at = cliAt(given.root)
   if (at === null) return mistaking([NO_CLI])
   const agentPage = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
-  if (agentPage !== null && editsWaiting(given.root, agentPage)) return mistaking([KEPT_ALREADY])
-  return await answering((done) => repeating(making(given.root, at), slug, piped.text, done))
+  return await answering((done) => {
+    const running = making(given.root, at)
+    if (agentPage === null || !editsWaiting(given.root, agentPage)) {
+      return repeating(running, slug, piped.text, done)
+    }
+    const cleared = clearing(given.root, agentPage, running)
+    if ("why" in cleared) return refusedBy(cleared.why, DATA)
+    return repeating(running, slug, piped.text, done, cleared.said)
+  })
 }

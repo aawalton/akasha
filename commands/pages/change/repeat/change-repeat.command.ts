@@ -80,7 +80,24 @@ export const changeRepeat = {
     },
     {
       invariantKind: "departure",
-      statement: "A call made where edits are kept already is refused before any batch runs.",
+      statement:
+        "A call made where edits are kept already lands those edits before its first batch.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Edits that will not land refuse the call rather than being dropped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal says why the landing refused rather than that edits are kept.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row that reads as no edit is swept rather than refusing the call.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What the opening landing did is reported and counted as no batch.",
     },
     {
       invariantKind: "departure",

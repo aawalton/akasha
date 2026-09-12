@@ -1,11 +1,18 @@
 import { afterAll, expect, test } from "bun:test"
+import { mkdirSync, writeFileSync } from "node:fs"
+import { dirname, join } from "node:path"
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import {
+  editsAt,
+  editsWaiting,
+} from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { answering } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { NOTHING } from "akasha/commands/modules/change-running/change-running.module.test-fixtures.ts"
 import { piping } from "akasha/commands/modules/piping/piping.module.test-fixtures.ts"
 import {
   changeRepeat,
+  clearing,
   cliAt,
   committedIn,
   lined,
@@ -89,6 +96,59 @@ function throwingAfter(commits: readonly string[]): Running {
     return { code: 0, out: [`committed as ${one}`], err: [] }
   }
 }
+
+const A_ROW = `${JSON.stringify({ kind: "remove", path: "akasha/held/gone.md" })}\n`
+
+function keptAt(root: string, text: string): string {
+  const at = editsAt(CLI_PAGE)
+  if (at === null) return CLI_PAGE
+  const full = join(root, at)
+  mkdirSync(dirname(full), { recursive: true })
+  writeFileSync(full, text)
+  return CLI_PAGE
+}
+
+function saidIn(held: ReturnType<typeof clearing>): readonly string[] {
+  return "said" in held ? held.said : held.why
+}
+
+const REFUSING: Running = () => ({ code: 1, out: [], err: ["edit 1 no longer fits"] })
+
+test("the edits kept before a repeat begins land before its first batch", () => {
+  const root = indexedRepo(HELD)
+
+  const held = clearing(root, keptAt(root, A_ROW), landing(["aaa"]))
+
+  expect(saidIn(held)[0] ?? "").toContain("landed before the first batch, committed as aaa")
+})
+
+test("edits that will not land refuse the repeat rather than being dropped", () => {
+  const root = indexedRepo(HELD)
+  const page = keptAt(root, A_ROW)
+
+  const held = clearing(root, page, REFUSING)
+
+  expect("why" in held).toBe(true)
+  expect(saidIn(held)).toContain("edit 1 no longer fits")
+  expect(editsWaiting(root, page)).toBe(true)
+})
+
+test("a row that reads as no edit is swept rather than refusing every later run", () => {
+  const root = indexedRepo(HELD)
+  const page = keptAt(root, "not an edit\n")
+
+  const held = clearing(root, page, REFUSING)
+
+  expect(saidIn(held)[0] ?? "").toContain("reads as no edit")
+  expect(editsWaiting(root, page)).toBe(false)
+})
+
+test("what the opening landing did is reported and counted as no batch", () => {
+  const said = repeating(landing(["aaa"]), "wide", ASKED, [], ["the edits kept landed"])
+
+  expect(said.report[0]).toBe("the edits kept landed")
+  expect(said.report).toContain("1 batch(es) landed, and then:")
+})
 
 test("a call naming no change is refused", async () => {
   const said = await changeRepeat([], givenAt("/nowhere"), piping(ASKED))
