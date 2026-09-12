@@ -23,7 +23,7 @@ export const athenaCommandTree = {
       statement:
         "Every name in the command tree is singular; how many a command answers is no part of its name.",
       workingMemory:
-        "Every namespace and every command noun in the tree is singular now, save three. `seat-compose-notices` is the `--json` intent's. `seat-refresh-settings` names one settings file rather than counting. `temper-eso-generate-typings` and `temper-eso-typings-audit` are the plural left: 32 generated pages stamp `writtenBy: akasha temper-eso-generate-typings`, and both commands are unrunnable here. Does `typings` become `declaration`, the word the rest of the repo uses?\n",
+        "Every namespace and every command noun is singular now save one. `typings` became `declaration` in `1ce847a58b2` and `a8930c01c54`, and all 32 `writtenBy` stamps were restated with it, though neither command can be run here to prove it. `seat-refresh-settings` names one settings file rather than counting. `seat-compose-notices` is the plural left, and it waits on the machine-facing intent, which asks whether it becomes `akasha seat notices`.",
     },
     {
       statement: "A command answering many is `list`, and a command answering one is `show`.",
