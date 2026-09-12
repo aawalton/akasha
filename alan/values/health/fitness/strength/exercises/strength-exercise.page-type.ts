@@ -35,6 +35,7 @@ export const strengthExercise = {
     "url-property/image-end-url",
     "url-property/image-start-url",
     "domain/strength-exercise-selection",
+    "page-type/strength-exercise-implement",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
