@@ -18,26 +18,24 @@ import {
   draftedBy,
 } from "akasha/commands/modules/draft-keeping/draft-keeping.module.code.ts"
 import {
-  clearedOff,
   clearedUnder,
   isFolder,
 } from "akasha/commands/modules/folder-clearing/folder-clearing.module.code.ts"
 import {
-  type Linking,
-  linkedOver,
-  NOTHING_LINKED,
-} from "akasha/commands/modules/folder-linking/folder-linking.module.code.ts"
-import {
   indexingLoaded,
   type Keeping,
 } from "akasha/commands/modules/gate-building/gate-building.module.code.ts"
-import { linkedInPlace } from "akasha/commands/modules/install-linking/install-linking.module.code.ts"
 import {
   type Bodied,
   baseOf,
   changeOf,
   splitIn,
 } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import {
+  type Finished,
+  finishedOver,
+  NOTHING_FINISHED,
+} from "akasha/commands/modules/landing-finishing/landing-finishing.module.code.ts"
 import {
   alsoFailed,
   alsoSaid,
@@ -60,7 +58,6 @@ import {
   writesOutside,
 } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
 import { allowedThrough } from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
-import { unitsLanded } from "akasha/commands/modules/unit-landing/unit-landing.module.code.ts"
 import { bodyAt, readingEnded } from "akasha/git/commit-reading/commit-reading.module.code.ts"
 import { committed, whileIndexFrees } from "akasha/git/committing/committing.module.code.ts"
 import { holding } from "akasha/git/holding/holding.module.code.ts"
@@ -69,16 +66,12 @@ import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
-export type Landed = {
+export type Landed = Finished & {
   readonly base: string
   readonly commit: string | null
   readonly wrote: readonly string[]
   readonly took: readonly string[]
   readonly noted: readonly string[]
-  readonly cleared: readonly string[]
-  readonly linked: Linking
-  readonly placed: Linking
-  readonly units: Linking
   readonly untracked?: readonly string[]
 }
 
@@ -279,15 +272,12 @@ export async function landing(
     const base = baseOf(root)
     if (drafting !== null) return { base, drafted: [] }
     return {
+      ...NOTHING_FINISHED,
       base,
       commit: null,
       wrote: [],
       took: [],
       noted: [],
-      cleared: [],
-      linked: NOTHING_LINKED,
-      placed: NOTHING_LINKED,
-      units: NOTHING_LINKED,
       untracked: [],
     }
   }
@@ -382,11 +372,8 @@ export async function landing(
           const untracked = [...new Set([...aside.took, ...ignoredGone.took])].sort()
           aside.done()
           const gone = [...put.took, ...then.took, ...moves.map((one) => one.from), ...untracked]
-          const cleared = clearedOff(root, gone)
-          const linked = linkedOver(root, moves, homedir())
-          const placed = linkedInPlace(root, homedir())
-          const units = unitsLanded(root, homedir(), commit)
-          return { base, commit, wrote, took, noted, cleared, linked, placed, units, untracked }
+          const finished = finishedOver(root, gone, moves, commit, homedir())
+          return { ...finished, base, commit, wrote, took, noted, untracked }
         } catch (failed) {
           aside.back()
           throw failed

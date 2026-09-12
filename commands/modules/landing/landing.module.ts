@@ -179,92 +179,23 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder left with nothing by a path taken away is cleared off the disk.",
+      statement: "A landing is finished after its commit rather than before that commit.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A folder left with nothing by a path the repository ignores is cleared off the disk.",
+      statement: "A change that commits nothing is finished all the same.",
     },
     {
       invariantKind: "departure",
-      statement: "The folders are cleared after the commit rather than before the commit.",
+      statement: "A landing that throws is finished by nothing.",
     },
     {
       invariantKind: "departure",
-      statement: "A change that commits nothing clears the folders its paths left empty.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The folders cleared are answered alongside the paths written and the paths taken.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A landing that throws clears no folder.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page that moved has the folder it sits in linked where that page says.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The links are placed after the folders are cleared.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page no move carries has the folder it sits in linked by nothing.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A folder is linked for a page that moved rather than for every page there is.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A page saying where the file it holds is reached has that file linked there, moved or not.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Such a link is made again only where it names something other than that file.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The file such a link names is the one the page holds its body in.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A link that could not be placed is answered rather than refusing the landing.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The links placed are answered alongside the paths written and the paths taken.",
+      statement: "A landing answers what its finishing cleared, linked, placed and kept.",
     },
     {
       invariantKind: "departure",
       statement: "A link outside the repository is placed outside the writing this refuses.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Every unit akasha has installed is kept as its workstation service's page states it.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The units are kept after the links are placed.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A service is started again only where its own unit text changed, it taking any other start.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A unit that could not be kept is answered rather than refusing the landing.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The units kept are answered alongside the paths written and the paths taken.",
     },
     {
       invariantKind: "departure",

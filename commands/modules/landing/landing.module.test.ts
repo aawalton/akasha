@@ -23,7 +23,6 @@ import {
   LINE,
   landedAtHead,
   landedMoving,
-  linkMoved,
   NUL,
   pageLanded,
   pagesRepo,
@@ -328,10 +327,6 @@ test("a name beginning with two dots and a move inside the repository both land"
   expect("refusals" in said ? said.refusals.join("\n") : "").toBe("")
   expect(readFileSync(join(root, "..hidden.txt"), "utf8")).toBe("kept")
   expect(readFileSync(join(root, "deep/moved.txt"), "utf8")).toBe("committed")
-})
-
-test("a page that moved has the folder it sits in linked where that page says", async () => {
-  expect(await linkMoved()).toEqual([])
 })
 
 test("a path the repository ignores is written onto the tree and left out of the commit", async () => {
