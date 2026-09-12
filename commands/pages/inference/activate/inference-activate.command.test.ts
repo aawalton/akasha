@@ -33,3 +33,21 @@ test("the post is named as an ask, since the pool may hold neither one now", asy
   expect(ASKED).toContain("was asked to make ollama resident")
   expect(ASKED).toContain("may already be evicted")
 })
+
+test("naming no pool service is refused", async () => {
+  const said = await inferenceActivate([], throwingAfter([], UNREADABLE))
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("pool service")
+})
+
+test("naming a second pool service is refused", async () => {
+  const said = await inferenceActivate(["ollama", "other"], throwingAfter([], UNREADABLE))
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("other")
+})
+
+test("a flag is refused, because the pool service is said as a word", async () => {
+  const said = await inferenceActivate(["--nonsense"], throwingAfter([], UNREADABLE))
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--nonsense")
+})
