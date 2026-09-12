@@ -10,7 +10,7 @@ export const aineResourceManagement = {
     {
       statement: "Every kind of work an agent starts runs under a ceiling of its own.",
       workingMemory:
-        "The kinds are a change, a guard, a check, an audit, a test, a deploy, a command, and a bash call that is none of these. A seat's ceiling bounds the seat and nothing inside it, so one runaway takes the whole seat's allowance. Every kind now records what it spent beside a page, so every kind has a page a ceiling could be stated on. A bash call already runs in a control group of its own, which is where a ceiling on one would be enforced.",
+        "The kinds are a change, a guard, a check, an audit, a test, a deploy, a command, and a bash call that is none of these. A seat holds a share and no ceiling, so a runaway inside one takes that whole share from the agent working there. Every kind records what it spent beside a page, so every kind has a page a ceiling could be stated on, and every kind now runs in a control group inside its seat, which is where a ceiling on one would be enforced.",
     },
     {
       statement:
@@ -27,7 +27,7 @@ export const aineResourceManagement = {
       statement:
         "Every agent and every service on the workstation runs under a stated memory ceiling.",
       workingMemory:
-        "Nothing states one today. seat-launching sets CPUQuota, CPUWeight and TasksMax and no Memory* at all, and service-workstation models no memory property to state one in. The only live guard is memory-reaper, weighing every uid-1000 process every ten seconds against a 32 GiB resident ceiling, so a runaway holds half the host before anything reaches it. A required field carries its own enforcement: a unit stating no ceiling is refused rather than left unbounded.\n",
+        "Nothing states one today. seat-launching sets CPUWeight and TasksMax and no memory setting at all, and service-workstation models no memory property to state one in. The only live guard is memory-reaper, weighing every uid-1000 process every ten seconds against a 32 GiB resident ceiling, so a runaway holds half the host before anything reaches it. A required field carries its own enforcement: a unit stating no ceiling is refused rather than left unbounded.\n",
     },
     {
       statement: "An agent may surge well past its usual share, and the host absorbs the surge.",
