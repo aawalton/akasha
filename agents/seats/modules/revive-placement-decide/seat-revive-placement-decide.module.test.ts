@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { decideRevivePlacement } from "akasha/seat-system/seat-revive-placement-decide/seat-revive-placement-decide.module.code.ts"
+import { decideRevivePlacement } from "akasha/agents/seats/modules/revive-placement-decide/seat-revive-placement-decide.module.code.ts"
 
 test("a seat whose prior launch opened a live terminal restarts in place", () => {
   expect(decideRevivePlacement({ priorLaunchOpened: true, isLive: true })).toBe("restart-in-place")
