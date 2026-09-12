@@ -21,6 +21,11 @@ export const sshReach = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "That error carries whole what the host printed before the exit that was not zero.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A reader letting go before the output ends kills the command.",
     },
   ],

@@ -224,5 +224,8 @@ export async function runSshCapture(
 ): Promise<string> {
   const { stdout, code } = await deliverAndRun(target, script, options)
   if (code === 0) return stdout
-  throw new OperationalError(`ssh exited ${code} (host: ${target.user}@${target.host})`)
+  throw new OperationalError(`ssh exited ${code} (host: ${target.user}@${target.host})`, {
+    stdout,
+    exit: code,
+  })
 }

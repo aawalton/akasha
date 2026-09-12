@@ -26,6 +26,10 @@ export const mobileSsh = {
     },
     {
       invariantKind: "departure",
+      statement: "A capture rejecting on that code carries the output the run had already given.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Remote stderr is inherited straight to this process.",
     },
     {

@@ -6,7 +6,24 @@ export const exitCode = {
   slug: "exit-code",
   definition: "the code a command exits with, and the error types that have one",
   code: "ts",
+  test: "ts",
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "An operational error may carry the run on another host that raised it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That run is what the host printed before it stopped, and the exit it stopped on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Carrying a run changes no code, the error being the one it already was.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "An error raised by no run on another host carries no run.",
+    },
     {
       invariantKind: "departure",
       statement: "An error this module did not classify exits seventy.",

@@ -20,5 +20,13 @@ export const inferenceSsh = {
       statement:
         "A missing ssh or scp on the path is raised as an operational failure rather than a crash.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A script refused for its exit carries what the host printed before that exit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run asked for no output carries none, having none to carry.",
+    },
   ],
 } as const satisfies Module

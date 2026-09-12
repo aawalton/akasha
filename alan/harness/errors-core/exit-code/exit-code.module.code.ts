@@ -42,9 +42,17 @@ export class DataError extends Error {
   }
 }
 
+export interface RemoteRun {
+  readonly stdout: string
+  readonly exit: number | null
+}
+
 export class OperationalError extends Error {
   readonly code: number = EXIT.OPERATIONAL
-  constructor(message: string) {
+  constructor(
+    message: string,
+    readonly ran?: RemoteRun
+  ) {
     super(message)
     this.name = "OperationalError"
   }

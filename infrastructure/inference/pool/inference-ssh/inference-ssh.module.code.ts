@@ -36,7 +36,12 @@ function runSshInner(target: SshTarget, script: string, capture: boolean): Promi
         resolve({ stdout })
         return
       }
-      reject(new OperationalError(`ssh exited ${code} (host: ${target.user}@${target.host})`))
+      reject(
+        new OperationalError(`ssh exited ${code} (host: ${target.user}@${target.host})`, {
+          stdout,
+          exit: code,
+        })
+      )
     })
     if (child.stdin) {
       child.stdin.write(script)
