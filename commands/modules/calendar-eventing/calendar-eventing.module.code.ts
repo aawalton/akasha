@@ -254,15 +254,13 @@ export async function eventsIn() {
   return await import("akasha/alan/google/calendar/calendar-events/calendar-events.module.code.ts")
 }
 
-export async function answeredBy(
-  read: Read,
+export async function answering(
   calledAs: string,
-  work: (taken: Said, done: string[]) => Promise<unknown>
+  work: (done: string[]) => Promise<unknown>
 ): Promise<Answer> {
-  if ("refused" in read) return mistaking(read.refused)
   const done: string[] = []
   try {
-    const value = await work(read, done)
+    const value = await work(done)
     return told(JSON.stringify(value, null, 2).split("\n"))
   } catch (thrown) {
     return {
@@ -271,4 +269,13 @@ export async function answeredBy(
       code: exitCodeForThrowable(thrown),
     }
   }
+}
+
+export function answeredBy(
+  read: Read,
+  calledAs: string,
+  work: (taken: Said, done: string[]) => Promise<unknown>
+): Promise<Answer> {
+  if ("refused" in read) return Promise.resolve(mistaking(read.refused))
+  return answering(calledAs, (done) => work(read, done))
 }
