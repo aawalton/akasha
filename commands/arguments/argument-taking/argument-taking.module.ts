@@ -224,9 +224,13 @@ export const argumentTaking = {
         "A pair one call may not say together is answered as two arguments a call may leave out.",
     },
     {
+      invariantKind: "departure",
+      statement: "A group one call must say one of is typed as a union over the arguments in it.",
+    },
+    {
       invariantKind: "gap",
       statement:
-        "A command needing one of several arguments and none alone is refused here rather than typed.",
+        "A group holding an argument that is always answered is typed as no narrowing at all.",
     },
     {
       invariantKind: "departure",
