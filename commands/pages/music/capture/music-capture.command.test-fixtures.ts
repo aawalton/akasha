@@ -101,19 +101,28 @@ export function foldedInto(ledger: Ledger, planned: Planned): Ledger {
   return { playKeys, heardIds, heardKeys, newestPlayedAt }
 }
 
+let heldPage: string | null = null
+
 export function ledgerPage(): string {
+  if (heldPage !== null) return heldPage
   const page = heardPageIn(ROOT)
   if (typeof page !== "string") throw new Error(`no one heard music page — ${page.refused}`)
+  heldPage = page
   return page
 }
 
+const HELD_CHANGES = new Map<string, readonly Asked[]>()
+
 export function changesOver(at: string): readonly Asked[] {
+  const already = HELD_CHANGES.get(at)
+  if (already !== undefined) return already
   const planned = plannedOver([playOf("probe-track-nine", at, "Probe Nine", "Probe Artist Nine")], {
     ...NONE,
     newestPlayedAt: "2026-08-21T00:00:00.000Z",
   })
   const changes = changesFor(ROOT, ledgerPage(), planned)
   if ("refused" in changes) throw new Error(`the changes were refused — ${changes.refused}`)
+  HELD_CHANGES.set(at, changes)
   return changes
 }
 
