@@ -6,7 +6,7 @@ import {
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   buildFrameExtractArgs,
   buildVideoQaRequest,
@@ -17,9 +17,9 @@ import {
   toPngDataUrl,
 } from "akasha/infrastructure/inference/clients/mlx-vlm-client/mlx-vlm-client.module.code.ts"
 import {
-  calledAs,
   countAt,
   heldOr,
+  madeOf,
   proseNeededAt,
   serviceNamed,
   wasRefused,
@@ -81,7 +81,7 @@ async function urlsIn(dir: string, wanted: number): Promise<readonly string[]> {
   return urls
 }
 
-export async function inferenceVideoQa(argv: readonly string[]): Promise<Answer> {
+export async function inferenceVideoQa(argv: readonly string[], given: Given): Promise<Answer> {
   const said = wordsIn(argv, TAKING, [])
   if (wasRefused(said)) return refusedBy(said.refused)
 
@@ -137,7 +137,7 @@ export async function inferenceVideoQa(argv: readonly string[]): Promise<Answer>
         operation: "video-qa",
         model: MLX_VLM_MODEL,
         host: reached.service.host,
-        commandLine: calledAs("inference-video-qa", argv),
+        commandLine: madeOf(given.calledAs, argv),
         startedAt: new Date().toISOString(),
         prompt: checklist,
         frames: imageDataUrls.length,
