@@ -65,6 +65,11 @@ export const athenaCommandModules = {
       workingMemory:
         "`faulted` at `answering/command-answering.module.code.ts:44-46` answers an empty report, and `answering` at `:48-54` routes every escaped throw through it. The wrapper holds no partial report, because `work()` hands one back only on return, so each writer catches its own throw. `index-refresh.command.code.ts:26-31` and `git-restore.command.code.ts:352` already do. Five are left: `deploy`, `agent subagent-sweep`, `music capture`, `mechanical-filing`, `track landing`.\n",
     },
+    {
+      statement: "A fault a command answers with says where that fault was thrown.",
+      workingMemory:
+        "`whyOf` at `fault-saying.module.code.ts:12-14` cuts the message at 240 and is the whole of a fault refusal: `faulted` at `answering/command-answering.module.code.ts:44-46` builds it from `whyOf` alone. `framesOf` at `:16-27` already reads file, line and column off the stack, and its one reader is `checks/modules/checking/checking.module.code.ts:305,308`. The frame goes on a line of its own, so `fault-saying.module.ts:59` still holds. The 240 cut stays.\n",
+    },
   ],
   constraints: [
     "A module moved out of the command system is imported by name, so every importer moves with it.",
