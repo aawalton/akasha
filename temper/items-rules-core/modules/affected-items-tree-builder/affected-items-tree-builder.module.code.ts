@@ -1,4 +1,3 @@
-import { classifyItem } from "akasha/temper/items-core/classify-item/classify-item.module.code.ts"
 import { ESO_BAG_WORN } from "akasha/temper/items-core/eso-bag-constants/eso-bag-constants.module.code.ts"
 import { computeValue } from "akasha/temper/items-core/inventory-display-value/inventory-display-value.module.code.ts"
 import {
@@ -12,6 +11,7 @@ import {
   type LocationTypeId,
   locationTypes,
 } from "akasha/temper/items-core/location-type-data/location-type-data.module.code.ts"
+import { classifyItem } from "akasha/temper/items-core/modules/classify-item/classify-item.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 

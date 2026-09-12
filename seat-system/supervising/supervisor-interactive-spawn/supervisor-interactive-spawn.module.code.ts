@@ -1,4 +1,4 @@
-import { buildInteractiveCLIArgs } from "akasha/agents/claude-code/launch-args/claude-launch-args.module.code.ts"
+import { buildInteractiveCLIArgs } from "akasha/agents/claude-code/modules/launch-args/claude-launch-args.module.code.ts"
 import { seatNameForAgent } from "akasha/agents/seats/modules/presence-read/seat-presence-read.module.code.ts"
 import { isPendingReExec } from "akasha/seat-system/self-healing/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import {

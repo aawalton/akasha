@@ -2,7 +2,7 @@ import { existsSync, readFileSync, renameSync, writeFileSync } from "node:fs"
 import {
   buildClaudeArgv,
   refuseMissingCwd,
-} from "akasha/agents/claude-code/launch-args/claude-launch-args.module.code.ts"
+} from "akasha/agents/claude-code/modules/launch-args/claude-launch-args.module.code.ts"
 import type { SupervisorHandoff } from "akasha/seat-system/self-healing/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
 import type { ChildExitStatus } from "akasha/seat-system/supervising/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
 import type { ChildExitRuleSource } from "akasha/seat-system/supervising/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"

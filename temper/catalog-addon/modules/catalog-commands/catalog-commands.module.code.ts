@@ -1,6 +1,6 @@
 import { ADDON_NAME } from "akasha/temper/catalog-addon/modules/catalog-constants/catalog-constants.module.code.ts"
-import { decideClearTarget } from "akasha/temper/catalog-core/clear-target/clear-target.module.code.ts"
 import { getCatalogDomains } from "akasha/temper/catalog-core/domain-registry/domain-registry.module.code.ts"
+import { decideClearTarget } from "akasha/temper/catalog-core/modules/clear-target/clear-target.module.code.ts"
 import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 
 export function parseLuaCommand(captured: string | undefined): string | undefined {

@@ -1,6 +1,6 @@
 import { lstatSync, mkdirSync, readlinkSync, statSync, symlinkSync, unlinkSync } from "node:fs"
 import { resolve } from "node:path"
-import { configPathForAccount } from "akasha/agents/claude-code/launch-args/claude-launch-args.module.code.ts"
+import { configPathForAccount } from "akasha/agents/claude-code/modules/launch-args/claude-launch-args.module.code.ts"
 import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 

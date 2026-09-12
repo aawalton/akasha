@@ -16,13 +16,13 @@ import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { temperInventoryLookupItem as page } from "akasha/commands/pages/temper/inventory/lookup-item/temper-inventory-lookup-item.command.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
-import { classifyItemToNodeIds } from "akasha/temper/items-core/classify-item-node-ids/classify-item-node-ids.module.code.ts"
 import { parseInventoryContent } from "akasha/temper/items-core/inventory-parser/inventory-parser.module.code.ts"
 import type {
   InventoryDatabase,
   InventoryItemData,
 } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 import { parseItemLink } from "akasha/temper/items-core/item-link-parser/item-link-parser.module.code.ts"
+import { classifyItemToNodeIds } from "akasha/temper/items-core/modules/classify-item-node-ids/classify-item-node-ids.module.code.ts"
 import { parseMotifBookName } from "akasha/temper/items-core/motif-name-parser/motif-name-parser.module.code.ts"
 import { getRecipeResultId } from "akasha/temper/items-core/recipe-result-id-lookup/recipe-result-id-lookup.module.code.ts"
 import { getScriptItemIdByName } from "akasha/temper/items-core/script-knowledge-lookup/script-knowledge-lookup.module.code.ts"

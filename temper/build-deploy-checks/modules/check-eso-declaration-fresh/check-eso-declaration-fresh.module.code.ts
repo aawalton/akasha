@@ -1,7 +1,3 @@
-import {
-  parseArgs as parseCliArgs,
-  REPO_ROOT_FLAG,
-} from "akasha/temper/build-deploy-checks/cli-args/cli-args.module.code.ts"
 import { errorMessage } from "akasha/temper/build-deploy-checks/error-message/error-message.module.code.ts"
 import {
   buildEsoClonePopulation,
@@ -11,6 +7,10 @@ import {
   evaluateEsoDeclarationFreshness,
   type StampedArtifact,
 } from "akasha/temper/build-deploy-checks/eso-doc-api-version/eso-doc-api-version.module.code.ts"
+import {
+  parseArgs as parseCliArgs,
+  REPO_ROOT_FLAG,
+} from "akasha/temper/build-deploy-checks/modules/cli-args/cli-args.module.code.ts"
 import { renderPopulationBound } from "akasha/temper/build-deploy-checks/population-bound/population-bound.module.code.ts"
 import { getRepoRoot } from "akasha/temper/build-deploy-checks/repo-root/repo-root.module.code.ts"
 

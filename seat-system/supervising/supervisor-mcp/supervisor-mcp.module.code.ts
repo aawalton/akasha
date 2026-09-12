@@ -9,7 +9,7 @@ import {
 import {
   computeMcpConfigContent,
   type McpServerConfig,
-} from "akasha/agents/claude-code/launch-args/claude-launch-args.module.code.ts"
+} from "akasha/agents/claude-code/modules/launch-args/claude-launch-args.module.code.ts"
 import {
   type AuthSession,
   applyRefreshedSessionToStorageState,

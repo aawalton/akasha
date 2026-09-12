@@ -1,4 +1,3 @@
-import { classifyItem } from "akasha/temper/items-core/classify-item/classify-item.module.code.ts"
 import { esoTraitToTemperId } from "akasha/temper/items-core/eso-trait-reverse-map/eso-trait-reverse-map.module.code.ts"
 import { computeValue } from "akasha/temper/items-core/inventory-display-value/inventory-display-value.module.code.ts"
 import {
@@ -23,6 +22,7 @@ import {
   type LocationTypeId,
   locationTypes,
 } from "akasha/temper/items-core/location-type-data/location-type-data.module.code.ts"
+import { classifyItem } from "akasha/temper/items-core/modules/classify-item/classify-item.module.code.ts"
 
 interface FilterableGroup {
   items: readonly InventoryItemRow[]

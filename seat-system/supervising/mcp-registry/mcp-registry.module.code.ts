@@ -1,5 +1,5 @@
 import { readFileSync } from "node:fs"
-import type { McpServerConfig } from "akasha/agents/claude-code/launch-args/claude-launch-args.module.code.ts"
+import type { McpServerConfig } from "akasha/agents/claude-code/modules/launch-args/claude-launch-args.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { ownRepoRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
