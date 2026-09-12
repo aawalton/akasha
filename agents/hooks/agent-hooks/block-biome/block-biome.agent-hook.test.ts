@@ -33,8 +33,10 @@ test("a biome call is refused, reading as well as writing", () => {
 test("the refusal names where the linter runs instead", () => {
   const said = judged("biome check .") ?? ""
   expect(said).toContain("akasha change apply")
-  expect(said).toContain("`akasha change draft` and `akasha change apply` run biome over")
-  expect(said).toContain("no\ncommand runs the linter by hand either.")
+  expect(said).toContain("`akasha change draft` keeps edits and runs no check")
+  expect(said).toContain("`akasha change apply` runs biome over")
+  expect(said).toContain("formats every body it lands before it judges that body")
+  expect(said).toContain("no command runs the linter by hand either.")
 })
 
 test("biome reached by a path is the same call", () => {
@@ -133,7 +135,7 @@ test("the hook refuses on stdin with exit 2 and a blocking decision", () => {
   expect(done.code).toBe(2)
   const said = parseRefusal(done.out)
   expect(said.decision).toBe("block")
-  expect(said.reason).toContain("The linter runs at the change.")
+  expect(said.reason).toContain("The linter runs at the apply.")
 })
 
 test("the hook stands aside on stdin for a call that is not biome", () => {

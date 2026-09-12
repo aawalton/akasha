@@ -26,7 +26,8 @@ test("a run naming a path is refused too, and says why the path bounds nothing",
   const said = judged("bun test hook-system/agent-hooks") ?? ""
   expect(said).toContain("runs the akasha tests outside the akasha commands")
   expect(said).toContain("Every test file in this repository is an akasha test")
-  expect(said).toContain("`akasha change draft` and `akasha change apply` run every test")
+  expect(said).toContain("`akasha change draft` keeps edits and runs no check")
+  expect(said).toContain("`akasha change apply` runs every")
   expect(said).toContain("No command runs a test by hand.")
 })
 
@@ -149,7 +150,7 @@ test("the hook refuses on stdin with exit 2 and a blocking decision", () => {
   expect(done.code).toBe(2)
   const said = parseRefusal(done.out)
   expect(said.decision).toBe("block")
-  expect(said.reason).toContain("The tests run at the change.")
+  expect(said.reason).toContain("The tests run at the apply.")
 })
 
 test("the hook refuses a run naming a path on stdin too", () => {

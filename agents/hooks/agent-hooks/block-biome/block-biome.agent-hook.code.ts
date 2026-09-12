@@ -24,17 +24,18 @@ const REFUSAL = toldOf(HOOK, [
   "A biome run that writes reaches akasha content with no gate, no index and no commit, which",
   "leaves the akasha index behind HEAD and takes the gate from every agent working here.",
   "",
-  "The linter runs at the change. `akasha change draft` and `akasha change apply` run biome over",
-  "what that change carries, and refuse the change where biome finds anything.",
+  "The linter runs at the apply. `akasha change draft` keeps edits and runs no check, so a draft",
+  "that was accepted says nothing about what biome finds. `akasha change apply` runs biome over",
+  "the edits kept and refuses the apply where biome finds anything.",
   "",
-  "akasha formats every body it lands, so there is no formatting here to run by hand, and no",
-  "command runs the linter by hand either.",
+  "akasha formats every body it lands before it judges that body, so there is no formatting here",
+  "to run by hand, and no command runs the linter by hand either.",
 ])
 
 export const SCOPE: readonly string[] = [
   `${HOOK} refuses a call it reads as running biome, reading as well as writing.`,
   "  biome, a path ending in biome, and biome run through npx, bunx, pnpx or dlx",
-  "The checks at a change say what biome finds, and akasha formats every body it lands.",
+  "The checks at an apply say what biome finds, and akasha formats every body it lands.",
   "",
   "WHERE THE RULE COMES FROM: biome writes files, and `--write` reaches akasha content with no",
   "gate, no index and no commit. That is the shape that has taken the gate down before: content",
