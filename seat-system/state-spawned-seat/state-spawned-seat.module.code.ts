@@ -8,7 +8,7 @@ import {
   modeRefusal,
   principalRefusal,
 } from "akasha/agents/seats/modules/args/seat-args.module.code.ts"
-import { run } from "akasha/seat-system/seat-running/seat-running.module.code.ts"
+import { run } from "akasha/agents/seats/modules/running/seat-running.module.code.ts"
 
 export interface SeatStatement {
   readonly agentId: string
