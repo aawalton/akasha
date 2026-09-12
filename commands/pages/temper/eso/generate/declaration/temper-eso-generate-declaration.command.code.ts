@@ -11,9 +11,9 @@ import {
   type Stated,
   statedIn,
 } from "akasha/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.decision.code.ts"
+import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
 import {
   answeredWith,
-  answering,
   DATA,
   keeping,
   OK,
@@ -21,13 +21,16 @@ import {
   refused,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import {
+  esoAnswering,
+  type Generating,
+  type Taking,
+} from "akasha/commands/pages/temper/eso/eso-answering/eso-answering.module.code.ts"
+import { temperEsoGenerateDeclaration as page } from "akasha/commands/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
-import {
-  saidFor,
-  saidShort,
-} from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
+import { saidShort } from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
 import {
   generateEnumsFile,
   generateEventsFile,
@@ -48,7 +51,7 @@ import {
 } from "akasha/temper/eso-paths/eso-clone-stamp/eso-clone-stamp.module.code.ts"
 import { esouiDocPath } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
 
-const CODE_ROOT_FLAG = "--code-root"
+const NAMED = [codeRootArgument]
 
 const OUT_REL = "temper/addons/types/eso/generated"
 
@@ -121,10 +124,10 @@ function readAt(root: string): (path: string) => string | null {
   }
 }
 
-export type Generating = (done: string[], argv: readonly string[], given: Given) => Promise<Answer>
+type Taken = Taking<typeof page, typeof NAMED>
 
-async function generated(done: string[], argv: readonly string[], given: Given): Promise<Answer> {
-  const named = saidFor(argv, CODE_ROOT_FLAG)
+async function generated(done: string[], taken: Taken, given: Given): Promise<Answer> {
+  const named = taken.codeRoot
 
   let root: string
   try {
@@ -227,10 +230,17 @@ async function generated(done: string[], argv: readonly string[], given: Given):
   )
 }
 
-export async function temperEsoGenerateDeclaration(
+export async function declaring(
   argv: readonly string[],
   given: Given,
-  generating: Generating = generated
+  generating: Generating<Taken> = generated
 ): Promise<Answer> {
-  return await answering(async (done) => await generating(done, argv, given))
+  return await esoAnswering(argv, given, page, NAMED, generating)
+}
+
+export function temperEsoGenerateDeclaration(
+  argv: readonly string[],
+  given: Given
+): Promise<Answer> {
+  return declaring(argv, given)
 }

@@ -4,6 +4,7 @@ import { throwingAfter } from "akasha/commands/modules/answering/command-answeri
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   declaredIn,
+  declaring,
   heldAlready,
   temperEsoGenerateDeclaration,
 } from "akasha/commands/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"
@@ -25,7 +26,7 @@ const GIVEN: Given = {
 const STOPPED = new Error("the declarations landed and the stamp could not be read back")
 
 test("a run that landed the declarations and then threw names that commit", async () => {
-  const said = await temperEsoGenerateDeclaration([], GIVEN, throwingAfter(["abc123"], STOPPED))
+  const said = await declaring([], GIVEN, throwingAfter(["abc123"], STOPPED))
 
   expect(said.report).toEqual(["abc123"])
   expect(said.refusals.at(-1)).toBe(
@@ -35,7 +36,7 @@ test("a run that landed the declarations and then threw names that commit", asyn
 })
 
 test("a run that threw with no declaration landed says the fault by itself", async () => {
-  const said = await temperEsoGenerateDeclaration([], GIVEN, throwingAfter([], STOPPED))
+  const said = await declaring([], GIVEN, throwingAfter([], STOPPED))
 
   expect(said.report).toEqual([])
   expect(said.refusals[0]).toContain("the stamp could not be read back")
@@ -44,13 +45,37 @@ test("a run that threw with no declaration landed says the fault by itself", asy
 
 test("a run that wrote more than one thing names each of them in turn", async () => {
   const wrote = ["five declaration files were written", "abc123"]
-  const said = await temperEsoGenerateDeclaration([], GIVEN, throwingAfter(wrote, STOPPED))
+  const said = await declaring([], GIVEN, throwingAfter(wrote, STOPPED))
 
   expect(said.report).toEqual(wrote)
   expect(said.refusals.at(-1)).toBe(
     "this stopped part way. What it had done by then is this: " +
       "five declaration files were written; abc123. Nothing after that ran."
   )
+})
+
+test("a flag this takes no argument for is refused before anything is read", async () => {
+  const said = await temperEsoGenerateDeclaration(["--nonsense"], GIVEN)
+
+  expect(said.code).not.toBe(0)
+  expect(said.refusals.join("\n")).toContain("`--nonsense` is no argument")
+})
+
+test("a word this takes no argument for is refused before anything is read", async () => {
+  const said = await temperEsoGenerateDeclaration(["enums.d.ts"], GIVEN)
+
+  expect(said.code).not.toBe(0)
+  expect(said.refusals.join("\n")).toContain("`enums.d.ts` is no argument")
+})
+
+test("the checkout said twice is refused rather than read as the first saying", async () => {
+  const said = await temperEsoGenerateDeclaration(
+    ["--code-root", "/nowhere", "--code-root", "/nowhere"],
+    GIVEN
+  )
+
+  expect(said.code).not.toBe(0)
+  expect(said.refusals.join("\n")).toContain("`--code-root` is said twice")
 })
 
 test("a name a declaration file carries already is named against the file that carries it", () => {
