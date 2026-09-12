@@ -1,9 +1,11 @@
 import { resolve } from "node:path"
 import {
+  asJson,
   INPUT,
-  OK,
   OPERATIONAL,
   refused,
+  refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -151,7 +153,7 @@ export async function temperInventoryKnowledge(
   given?: Given
 ): Promise<Answer> {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
+  if ("refused" in read) return refusedBy(read.refused)
   const key = read.itemKey === null ? null : itemKeyIn(read.itemKey)
   if (typeof key === "string") return refused(key, INPUT)
   const root = given === undefined ? process.cwd() : resolve(given.root)
@@ -182,12 +184,8 @@ export async function temperInventoryKnowledge(
       name: one.name,
       knows: knowsItem(one, key, STYLE_TO_CHAPTERS),
     }))
-    if (read.json) return { report: [JSON.stringify(rows)], refusals: [], code: OK }
-    return {
-      report: rows.map((one) => `${one.id}\t${one.name ?? ""}\t${one.knows}`),
-      refusals: [],
-      code: OK,
-    }
+    if (read.json) return asJson(rows)
+    return told(rows.map((one) => `${one.id}\t${one.name ?? ""}\t${one.knows}`))
   }
   const rows = selected.map((one) => ({
     id: one.id,
@@ -199,14 +197,12 @@ export async function temperInventoryKnowledge(
   if (read.json) {
     const first = rows[0]
     const held = read.charId !== null && first !== undefined ? first : rows
-    return { report: [JSON.stringify(held)], refusals: [], code: OK }
+    return asJson(held)
   }
-  return {
-    report: rows.map(
+  return told(
+    rows.map(
       (one) =>
         `${one.id}\t${one.name ?? ""}\t${one.recipeCount}\t${one.motifCount}\t${one.scriptCount}`
-    ),
-    refusals: [],
-    code: OK,
-  }
+    )
+  )
 }
