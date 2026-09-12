@@ -32,6 +32,17 @@ export function taskProgressPath(slug: string): string {
   return rowsPathIn(FOLDER, slug, TASK_PAGE_TYPE_SLUG, ROWS_PROPERTY)
 }
 
+const BARE_KEY = /^[A-Za-z_$][A-Za-z0-9_$]*$/
+
+function assertBareKey(key: string): undefined {
+  if (!BARE_KEY.test(key)) {
+    throw new Error(
+      `taskBodyWith: ${JSON.stringify(key)} is no usable task key — a key becomes both a pattern matching one line of the body and a bare key written into that body, so it has to match /^[A-Za-z_$][A-Za-z0-9_$]*$/`
+    )
+  }
+  return undefined
+}
+
 function keyLine(key: string): RegExp {
   return new RegExp(`^ {2}${key}: .*,$`, "m")
 }
@@ -43,6 +54,7 @@ function keyLineAndBreak(key: string): RegExp {
 export function taskBodyWith(body: string, values: TaskValues): string | null {
   const closing = closingFor(TASK_PAGE_TYPE_SLUG)
   let put = body
+  for (const key of Object.keys(values)) assertBareKey(key)
   for (const [key, value] of Object.entries(values)) {
     if (value === null) {
       put = put.replace(keyLineAndBreak(key), "")

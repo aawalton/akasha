@@ -29,6 +29,14 @@ export const watcherTaskLanding = {
       statement: "Only a key indented by two spaces is matched.",
     },
     {
+      invariantKind: "constraint",
+      statement: "A key that is no bare name refuses the call before any body is composed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every key is judged before the first one is written.",
+    },
+    {
       invariantKind: "departure",
       statement: "A body with no closing line is refused rather than guessed at.",
     },

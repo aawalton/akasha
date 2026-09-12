@@ -128,6 +128,22 @@ test("only a key indented by two spaces is matched", () => {
   )
 })
 
+test("a key that is no bare name refuses the call before any body is composed", () => {
+  expect(() => taskBodyWith(BODY, { "due-date": "2026-03-12" })).toThrow("no usable task key")
+  expect(() => taskBodyWith(BODY, { "due(date": "2026-03-12" })).toThrow()
+  expect(() => taskBodyWith(BODY, { "": "2026-03-12" })).toThrow()
+})
+
+test("a key carrying a pattern character matches no other key's line", () => {
+  expect(() => taskBodyWith(BODY, { "due.ate": "X" })).toThrow("no usable task key")
+})
+
+test("every key is judged before the first one is written", () => {
+  expect(() => taskBodyWith(BODY, { dueDate: "2026-03-12", "due-date": "X" })).toThrow(
+    "no usable task key"
+  )
+})
+
 test("a task's whole body goes back with the values the completion changes", async () => {
   const { deps, wrote } = store([{ path: PAGE_PATH, content: BODY }], [{ ok: true, at: "c1" }])
   const landed = await landTaskValues(
