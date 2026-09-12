@@ -7,10 +7,6 @@ export const seatStart = {
   definition: "the command composing a fresh seat from the slots named after it",
   code: "ts",
   taking: [
-    {
-      said: "--start-mode <mode>",
-      takes: "`interactive` or `headless`, which is whether a terminal is attached",
-    },
     { said: "--prompt <text>", takes: "the first turn's prompt, which a headless start needs" },
     {
       said: "--prompt-file <path|->",
@@ -81,5 +77,5 @@ export const seatStart = {
     },
   ],
   name: "start",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [{ argument: "argument/json" }, { argument: "argument/start-mode" }],
 } as const satisfies Command

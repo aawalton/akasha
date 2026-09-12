@@ -12,10 +12,6 @@ export const seatResume = {
       said: "--prompt <text>",
       takes: "the first turn a resumed seat takes up, where it was stopped",
     },
-    {
-      said: "--start-mode <mode>",
-      takes: "whether a terminal is attached to the seat as it comes up",
-    },
   ],
   invariants: [
     {
@@ -48,5 +44,8 @@ export const seatResume = {
     },
   ],
   name: "resume",
-  arguments: [{ argument: "argument/seat", required: true, saidAs: "word" }],
+  arguments: [
+    { argument: "argument/seat", required: true, saidAs: "word" },
+    { argument: "argument/start-mode" },
+  ],
 } as const satisfies Command
