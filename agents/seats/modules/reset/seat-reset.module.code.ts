@@ -1,3 +1,4 @@
+import { composeSeatName } from "akasha/agents/seats/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import { flexInName } from "akasha/agents/seats/modules/flex/seat-flex.module.code.ts"
 import { resolveSeatTargetCli } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
 import { DEFAULT_ACCOUNT } from "akasha/agents/seats/modules/launching/seat-launching.module.code.ts"
@@ -25,7 +26,6 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { composeSeatName } from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 import {
   killSeatSession,
   launchSeatUnderTmux,

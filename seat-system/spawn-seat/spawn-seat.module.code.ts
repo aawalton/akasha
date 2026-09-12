@@ -3,6 +3,10 @@ import {
   refuseAnswering,
 } from "akasha/agents/seats/modules/answering/seat-answering.module.code.ts"
 import { seatByName } from "akasha/agents/seats/modules/by-name/seat-by-name.module.code.ts"
+import {
+  FLEET,
+  personaDefaultsOf,
+} from "akasha/agents/seats/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import { isValidSeatName } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
 import { SEAT_MODE_HEADLESS } from "akasha/agents/seats/modules/modes/seat-modes.module.code.ts"
 import { mintNamedAgent } from "akasha/agents/seats/modules/name-bind/seat-name-bind.module.code.ts"
@@ -20,10 +24,6 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import {
-  FLEET,
-  personaDefaultsOf,
-} from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 import {
   type LaunchSeatResult,
   launchSeatUnderTmux,

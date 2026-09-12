@@ -1,4 +1,5 @@
 import * as declarations from "akasha/agents/modules/attributes/agent-attributes.module.code.ts"
+import type { Principal } from "akasha/agents/seats/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import { type FlexRecord, flexOf } from "akasha/agents/seats/modules/flex/seat-flex.module.code.ts"
 import {
   type InitiativeRecord,
@@ -30,7 +31,6 @@ import {
   transcriptOf,
 } from "akasha/agents/seats/modules/transcript-path/seat-transcript-path.module.code.ts"
 import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
-import type { Principal } from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 import {
   ROTATED_KEY,
   rotatedOf,

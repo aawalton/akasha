@@ -5,6 +5,13 @@ import {
 } from "akasha/agents/seats/modules/answering/seat-answering.module.code.ts"
 import { seatByName } from "akasha/agents/seats/modules/by-name/seat-by-name.module.code.ts"
 import {
+  composeSeatName,
+  FLEET,
+  FLEX,
+  personaDefaultsOf,
+  principals,
+} from "akasha/agents/seats/modules/compose-seat-name/compose-seat-name.module.code.ts"
+import {
   isValidSeatName,
   resolveOptionalSeatId,
 } from "akasha/agents/seats/modules/handle/seat-handle.module.code.ts"
@@ -34,13 +41,6 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import {
-  composeSeatName,
-  FLEET,
-  FLEX,
-  personaDefaultsOf,
-  principals,
-} from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 import { launchSeatUnderTmux } from "akasha/seat-system/launch-seat-tmux/launch-seat-tmux.module.code.ts"
 import {
   type StatedIdentity,

@@ -6,16 +6,16 @@ import {
   MODES,
   type Mode,
 } from "akasha/agents/modules/attributes/agent-attributes.module.code.ts"
+import {
+  type Principal,
+  principals,
+} from "akasha/agents/seats/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import { fail } from "akasha/commands/modules/failing/command-failing.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import {
-  type Principal,
-  principals,
-} from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 
 export interface Args {
   readonly set: Partial<Record<Declaration, string>>

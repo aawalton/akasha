@@ -6,7 +6,7 @@ import {
   HANDLER,
   handlerSeatName,
   personPrincipals,
-} from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
+} from "akasha/agents/seats/modules/compose-seat-name/compose-seat-name.module.code.ts"
 
 const SEGMENT = "/"
 
