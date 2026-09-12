@@ -7,10 +7,6 @@ export const googleCalendarEventCreate = {
   definition: "the command placing a new event and inviting everyone named on it",
   code: "ts",
   taking: [
-    {
-      said: "--calendar <id>",
-      takes: "the calendar to act on, where `primary` and saying nothing both name Alan's own",
-    },
     { said: "--summary <text>", takes: "the event's title" },
     { said: "--start <iso>", takes: "when the event opens, as a timestamp or as a date alone" },
     { said: "--end <iso>", takes: "when the event closes, as a timestamp or as a date alone" },
@@ -69,4 +65,5 @@ export const googleCalendarEventCreate = {
     },
   ],
   name: "create",
+  arguments: [{ argument: "argument/calendar" }],
 } as const satisfies Command

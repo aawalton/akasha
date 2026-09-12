@@ -8,10 +8,6 @@ export const googleCalendarEventRsvp = {
   code: "ts",
   taking: [
     {
-      said: "--calendar <id>",
-      takes: "the calendar to act on, where `primary` and saying nothing both name Alan's own",
-    },
-    {
       said: "--status <status>",
       takes: "the response to set, of `accepted`, `declined` and `tentative`",
     },
@@ -44,5 +40,8 @@ export const googleCalendarEventRsvp = {
     },
   ],
   name: "rsvp",
-  arguments: [{ argument: "argument/event", required: true, saidAs: "flag-or-word" }],
+  arguments: [
+    { argument: "argument/event", required: true, saidAs: "flag-or-word" },
+    { argument: "argument/calendar" },
+  ],
 } as const satisfies Command

@@ -6,12 +6,7 @@ export const googleCalendarEventShow = {
   slug: "google-calendar-event-show",
   definition: "the command answering one event named by its id",
   code: "ts",
-  taking: [
-    {
-      said: "--calendar <id>",
-      takes: "the calendar to act on, where `primary` and saying nothing both name Alan's own",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -31,5 +26,8 @@ export const googleCalendarEventShow = {
     },
   ],
   name: "show",
-  arguments: [{ argument: "argument/event", required: true, saidAs: "flag-or-word" }],
+  arguments: [
+    { argument: "argument/event", required: true, saidAs: "flag-or-word" },
+    { argument: "argument/calendar" },
+  ],
 } as const satisfies Command

@@ -6,12 +6,7 @@ export const googleCalendarEventDelete = {
   slug: "google-calendar-event-delete",
   definition: "the command taking one event off its calendar",
   code: "ts",
-  taking: [
-    {
-      said: "--calendar <id>",
-      takes: "the calendar to act on, where `primary` and saying nothing both name Alan's own",
-    },
-  ],
+  taking: [],
 
   invariants: [
     {
@@ -28,5 +23,8 @@ export const googleCalendarEventDelete = {
     },
   ],
   name: "delete",
-  arguments: [{ argument: "argument/event", required: true, saidAs: "flag-or-word" }],
+  arguments: [
+    { argument: "argument/event", required: true, saidAs: "flag-or-word" },
+    { argument: "argument/calendar" },
+  ],
 } as const satisfies Command
