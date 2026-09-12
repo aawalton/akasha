@@ -36,14 +36,15 @@ export const googleCalendarEventUpdate = {
       takes: "who is emailed about the change, of `all`, `externalOnly` and `none`",
     },
   ],
-  helpNotes: [
-    "an event is named in place or as a flag, and naming it both ways over is refused.",
-    "this reaches the calendar as Alan, so the invites carry his name.",
-    "an update changes the fields the call names and leaves every other field as it is.",
-    "a zone is an IANA name rather than an offset, and a whole-day event carries none.",
-    "the event answered with is reported as JSON.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A whole-day event has no zone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The event this answers with is reported as JSON.",
+    },
     {
       invariantKind: "departure",
       statement: "An event named in place and as a flag is refused.",
