@@ -53,11 +53,11 @@ export const emailDraftCreate = {
     { argument: "argument/body-file" },
     { argument: "argument/subject" },
     { argument: "argument/body" },
-    { argument: "argument/attach" },
     { argument: "argument/thread" },
     { argument: "argument/reply-to-message" },
     { argument: "argument/send-as" },
     { argument: "argument/cc", repeats: true },
     { argument: "argument/bcc", repeats: true },
+    { argument: "argument/attach", repeats: true },
   ],
 } as const satisfies Command

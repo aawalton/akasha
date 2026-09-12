@@ -8,5 +8,4 @@ export const attach = {
   takes: "a file to hang off the mail, said again for each",
   value: "path",
   placeholder: "path",
-  repeats: true,
 } as const satisfies Argument
