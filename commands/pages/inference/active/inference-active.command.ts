@@ -8,7 +8,6 @@ export const inferenceActive = {
   code: "ts",
   changeKind: "change-none",
   taking: [],
-  helpNotes: ["what is resident is read off the cop rather than off what was declared."],
   invariants: [
     {
       invariantKind: "departure",
