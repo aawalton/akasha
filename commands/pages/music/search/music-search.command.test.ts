@@ -60,7 +60,10 @@ test("a call naming no query is refused", async () => {
 test("a query said as nothing at all is refused", async () => {
   const said = await searchWith(findingOf([], []), [""], CALLED)
   expect(said.code).toBe(1)
-  expect(said.refusals).toEqual(["supply a track query to search for"])
+  expect(said.refusals).toEqual([
+    `\`${CALLED}\` takes \`<query>\`, and an empty word names none`,
+    `\`${CALLED}\` takes \`<query>\`, and nothing said it`,
+  ])
 })
 
 test("a limit that is no whole count is refused", async () => {

@@ -141,7 +141,9 @@ test("an empty query is refused rather than searched for", async () => {
   const fake = fakeFor()
   const said = await playing([""], fake.ports, CALLED)
   expect(said.code).toBe(1)
-  expect(said.refusals.join("")).toContain("an empty one came")
+  expect(said.refusals.join("")).toContain(
+    `\`${CALLED}\` takes \`<query>\`, and an empty word names none`
+  )
   expect(fake.kept.queries).toEqual([])
 })
 
