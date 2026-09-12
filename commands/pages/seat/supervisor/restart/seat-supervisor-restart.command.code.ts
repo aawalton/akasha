@@ -1,11 +1,14 @@
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { everySeat } from "akasha/commands/arguments/pages/every-seat.argument.ts"
 import {
   answering,
   DATA,
-  INPUT,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { seatSupervisorRestart as page } from "akasha/commands/pages/seat/supervisor/restart/seat-supervisor-restart.command.ts"
 import type { Holder } from "akasha/files/lock-holder/lock-holder.module.code.ts"
 import { alive } from "akasha/files/lock-holder/lock-holder.module.code.ts"
 import { everyOfType, typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
@@ -13,8 +16,6 @@ import { mergeUncommitted } from "akasha/pages/uncommitted/page-uncommitted.modu
 import { nameOf, supervisorOf } from "akasha/seat-system/seat-reading/seat-reading.module.code.ts"
 
 const SEAT_TYPE = "01a05035-2609-7463-ba49-ccaf20f5c337"
-
-const ALL = "--all"
 
 const ASK = "reExecAsk"
 
@@ -77,9 +78,8 @@ export async function seatSupervisorRestart(
   given: Given,
   restarting: Restarting = restarted
 ): Promise<Answer> {
-  if (argv.length !== 1 || argv[0] !== ALL) {
-    return refused(`\`${given.calledAs}\` takes \`${ALL}\` and nothing else`, INPUT)
-  }
+  const read = takenFor(argv, given.calledAs, page, [everySeat])
+  if ("refused" in read) return mistaking(read.refused)
   const seats = seatsIn(given.root)
   if (seats.length === 0) {
     return refused(
