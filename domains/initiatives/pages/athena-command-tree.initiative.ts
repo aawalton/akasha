@@ -12,7 +12,7 @@ export const athenaCommandTree = {
       statement:
         "Every name in the command tree is singular; how many a command answers is no part of its name.",
       workingMemory:
-        "Every namespace and every command noun is singular now save one. `typings` became `declaration` in `1ce847a58b2` and `a8930c01c54`, and all 32 `writtenBy` stamps were restated with it, though neither command can be run here to prove it. `seat-refresh-settings` names one settings file rather than counting. `seat-compose-notices` is the plural left, and it waits on the machine-facing intent, which asks whether it becomes `akasha seat notices`.",
+        "Every namespace and every command noun is singular now save one. `typings` became `declaration` in `1ce847a58b2` and `a8930c01c54`. `seat-refresh-settings` names one settings file rather than counting. `seat-compose-notices` is the plural left, and it no longer waits on the machine-facing intent, which does not reach it. Its name is contested between two rules: dropping the act word gives `seat notices`, and the list-or-show rule gives `seat notice list`. Alan's.\n",
     },
     {
       statement: "A command answering many is `list`, and a command answering one is `show`.",
@@ -22,7 +22,7 @@ export const athenaCommandTree = {
     {
       statement: "A machine-facing answer is a flag on the command a person runs.",
       workingMemory:
-        "`--json` is the convention, at `icloud-fetch.command.ts:16` and eleven more. `domain-tree` and `claude-account-usage` are gone. Two are left, each answering one JSON object with no person-facing twin. Nothing forks `agent-forest`; the editor imports `forestOver` in process. The editor asks the command server for `seat-compose-notices` by slug, held as a literal at `seat-acts.module.code.ts:17,19`. Are these `akasha agent tree` and `akasha seat notices`?\n",
+        "The rule has run out of subjects. It de-duplicates, so it wants a command a person runs for the flag to sit on; `domain-tree` and `claude-account-usage` had twins and folded. `agent forest` has no caller of any kind — `no-akasha-command-from-code` forbids forking a command at all, so the roads are a person typing it, the command server by slug, or an import, and all three are empty. It goes, its functions moving to a module first. `seat compose-notices` has no twin to fold into.\n",
     },
   ],
 } as const satisfies Initiative
