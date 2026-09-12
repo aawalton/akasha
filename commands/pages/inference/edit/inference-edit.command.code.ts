@@ -49,7 +49,7 @@ const TIMEOUT = "--timeout"
 const NO_PERSIST = "--no-persist"
 
 const TAKING = [
-  { said: IMAGE, aliases: ["--in"], repeat: true },
+  { said: IMAGE, repeat: true },
   { said: REFS },
   { said: PROMPT, prose: true },
   { said: OUTPUT },
