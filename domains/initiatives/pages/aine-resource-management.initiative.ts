@@ -8,15 +8,9 @@ export const aineResourceManagement = {
   persona: "aine",
   intents: [
     {
-      statement:
-        "Every agent and every service on the workstation runs under a stated share of the processor.",
-      workingMemory:
-        "A share costs nothing while the machine is quiet and decides who goes first while it is busy, which is what makes interactive work win against a build. seat-launching states CPUWeight=100 and CPUQuota=800%, and both reach only the scope that begins the tmux server. The other sixteen seats run in pane scopes tmux made, with CPUQuotaPerSecUSec=infinity. The host has 24 processors and nothing on it has ever been throttled.\n",
-    },
-    {
       statement: "The work a seat starts is weighed as part of that seat rather than beside it.",
       workingMemory:
-        "A run given a processor ceiling gets a group under the nearest ancestor where processor time is delegated. A seat's scope is a leaf and delegates nothing, so the group lands in app.slice beside every seat at the same weight 100, and a seat with three bounded runs pulls four shares where a quiet seat pulls one. Delegating processor time below a seat's scope is what would let the group be made inside it.\n",
+        "A run given a processor ceiling gets a group under the nearest ancestor where processor time is delegated. A seat's scope is a leaf and delegates nothing, so the group lands in seats.slice beside every seat at the same weight, and a seat with three bounded runs pulls four shares where a quiet seat pulls one. Delegating processor time below a seat's scope is what would let the group be made inside it.\n",
     },
     {
       statement: "A seat is bounded by its share rather than by a ceiling.",

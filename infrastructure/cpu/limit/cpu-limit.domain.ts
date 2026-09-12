@@ -31,6 +31,14 @@ export const cpuLimit = {
       statement: "A share left unspent by one thing is taken by another rather than kept.",
     },
     {
+      invariantKind: "departure",
+      statement: "Every agent, service and container on the workstation runs under a stated share.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The desktop outranks the apps, and the apps outrank everything akasha runs.",
+    },
+    {
       invariantKind: "gap",
       statement: "Every processor limit is the value of a page property.",
     },
