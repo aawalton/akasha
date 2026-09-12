@@ -17,13 +17,7 @@ export const trackSessionDrop = {
     { said: "--mend", takes: "close the gap a dropped stretch leaves behind" },
     { said: "--dry-run", takes: "judge what the act would land and write nothing" },
   ],
-  helpNotes: [
-    "every time said here is a US Mountain wall time, and no other clock is read or written.",
-    "a day is named at --day and nowhere else.",
-    "a stretch is addressed by --id, by --at, by --open or by --last, so no act asks for an id first.",
-    "show prints each stretch's id in what it says to a reader, which is where an id to address by comes from.",
-    "drop leaves the gap it makes behind unless --mend is said.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
