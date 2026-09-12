@@ -7,7 +7,6 @@ export const infrastructureServiceStart = {
   definition: "the command asking systemd to run one service's unit",
   code: "ts",
   test: "ts",
-  changeKind: "change-none",
   name: "start",
   taking: [
     { said: "<slug>", takes: "the service to start, named by the slug its page carries" },

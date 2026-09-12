@@ -7,7 +7,6 @@ export const infrastructureServiceRun = {
   definition: "the command running one service's own code in this process",
   code: "ts",
   test: "ts",
-  changeKind: "change-none",
   name: "run",
   taking: [{ said: "<slug>", takes: "the service to run, named by the slug its page carries" }],
   invariants: [

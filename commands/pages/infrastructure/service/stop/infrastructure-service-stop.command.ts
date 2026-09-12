@@ -6,7 +6,6 @@ export const infrastructureServiceStop = {
   slug: "infrastructure-service-stop",
   definition: "the command asking systemd to end one service's unit",
   code: "ts",
-  changeKind: "change-none",
   name: "stop",
   taking: [
     { said: "<slug>", takes: "the service to stop, named by the slug its page carries" },

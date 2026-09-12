@@ -7,7 +7,6 @@ export const infrastructureServiceSweep = {
   definition: "the command taking away every unit of ours no page accounts for",
   code: "ts",
   test: "ts",
-  changeKind: "change-none",
   name: "sweep",
   taking: [{ said: "--dry-run", takes: "say what would happen and change nothing" }],
   invariants: [
