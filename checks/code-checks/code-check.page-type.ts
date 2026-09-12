@@ -79,6 +79,7 @@ export const codeCheck = {
     "code-check/index-is-level-with-the-pages",
     "code-check/command-takes-its-arguments-through-one-reader",
     "code-check/command-taking-two-words-is-tested-from-words",
+    "code-check/no-unused-exports",
   ],
   extends: ["page-type/domain"],
   loadedBy: "module/checking",
