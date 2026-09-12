@@ -11,8 +11,12 @@ export const blockBunTest = {
   overTools: ["Bash"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "gap",
       statement: "A `bun test` made inside the checkout is refused whatever paths that call names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A `bun test` this reads as a command word is refused whatever paths it names.",
     },
     {
       invariantKind: "departure",

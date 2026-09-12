@@ -27,8 +27,8 @@ const REFUSED = [
 ]
 
 export const SCOPE: readonly string[] = [
-  `${HOOK} refuses one act, \`bun test\`, in every form it is written in.`,
-  "A path on the line changes nothing. There is no form of it this lets through.",
+  `${HOOK} refuses one act, \`bun test\`, wherever this reads the act.`,
+  "A path on the line changes nothing. No path and no flag lets the act through.",
   "",
   "WHERE THE RULE COMES FROM: what `bun test` runs is not what it is handed.",
   "Handed nothing it runs every test file it can find. Every test file it can find here is an",
@@ -62,6 +62,9 @@ export const SCOPE: readonly string[] = [
   "  an act inside a quoted run, which the dequoting step takes out before the cut",
   "  an act in a heredoc body, which that step does not take out, so data naming an act is",
   "    refused as though it were a command",
+  "  a call kept out of the command word, which `shell-calls` reads as part of that word, so no",
+  "    bun call is read out of it at all — measured through the dispatch on 2026-09-12:",
+  "      $(bun test)   H=$(bun test)   (bun test)   was let through",
   "",
   "The absence of a runner from this list is NOT a finding that it is safe. It is unexamined.",
   "",

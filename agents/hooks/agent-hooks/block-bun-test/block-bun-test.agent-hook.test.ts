@@ -113,13 +113,21 @@ test("an act inside a quoted run is not read as a call", () => {
   expect(judged('echo "bun test"')).toBeNull()
 })
 
-test("the scope names the class it cannot close and says no form is let through", () => {
+test("the scope names the class it cannot close, and the forms it lets through", () => {
   const said = SCOPE.join("\n")
   expect(said).toContain("NOT REACHED")
   expect(said).toContain("is NOT a finding that it is safe")
   expect(said).toContain("`bun run test`")
-  expect(said).toContain("There is no form of it this lets through.")
+  expect(said).not.toContain("There is no form of it this lets through.")
+  expect(said).toContain("a call kept out of the command word")
+  expect(said).toContain("was let through")
   expect(said).toContain("WHERE THE CALL RUNS")
+})
+
+test("a call kept out of the command word is read as no bun call, which is the gap", () => {
+  expect(judged("H=$(bun test)")).toBeNull()
+  expect(judged("$(bun test)")).toBeNull()
+  expect(judged("(bun test)")).toBeNull()
 })
 
 test("the scope prescribes no path, because a path bounds nothing", () => {
