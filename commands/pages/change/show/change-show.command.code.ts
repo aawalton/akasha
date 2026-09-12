@@ -4,6 +4,7 @@ import {
   editsIn,
   foldedIn,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import {
   DATA,
   OPERATIONAL,
@@ -28,6 +29,7 @@ import {
 import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { offRepo, pathAt } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
+import { changeShow as page } from "akasha/commands/pages/change/show/change-show.command.ts"
 import {
   agentPathOf,
   bytesAt,
@@ -75,11 +77,11 @@ export function recorded(root: string, agentId: string, at: string, folded: Uint
 export function showing(given: Given, taken: Arguments): Answer {
   const path = pathIn(given.root, taken)
   if (typeof path !== "string") return mistaking(path)
-  const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
-  if (page === null || editsAt(page) === null) {
+  const agentPage = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
+  if (agentPage === null || editsAt(agentPage) === null) {
     return mistaking([noPageSaid(given.root, given.agentId)])
   }
-  const kept = editsIn(given.root, page)
+  const kept = editsIn(given.root, agentPage)
   if ("why" in kept) return refusedBy([kept.why], OPERATIONAL)
   const before = foldedIn(kept.rows)
   if (before.refused !== null) return refusedBy([before.refused], DATA)
@@ -97,7 +99,8 @@ export function showing(given: Given, taken: Arguments): Answer {
 }
 
 export function changeShow(argv: readonly string[], given: Given): Answer {
-  if (argv.length > 0) return mistaking([NO_FLAGS])
+  const read = takenFor(argv, given.calledAs, page, [])
+  if ("refused" in read) return mistaking([...read.refused, NO_FLAGS])
   const taken = argumentsIn(inputIn)
   if (typeof taken === "string") return mistaking([taken])
   return showing(given, taken)
