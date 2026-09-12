@@ -66,8 +66,13 @@ function eitherWay(one: Naming): string {
 
 function whyRefused(one: Naming, said: string, byWord: boolean): string | null {
   const value = one.argument.value
-  if (value === "whole-number" && !WHOLE.test(said)) {
-    return `\`${spelt(one, byWord)} ${said}\` is no whole number of nought or more`
+  if (value === "whole-number") {
+    if (!WHOLE.test(said)) {
+      return `\`${spelt(one, byWord)} ${said}\` is no whole number of nought or more`
+    }
+    if (!Number.isSafeInteger(Number(said))) {
+      return `\`${spelt(one, byWord)} ${said}\` is past the largest whole number that can be read`
+    }
   }
   if (value === "true-or-false" && said !== "true" && said !== "false") {
     return `\`${spelt(one, byWord)}\` takes \`true\` or \`false\`, and \`${said}\` is neither`

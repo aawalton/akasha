@@ -118,6 +118,9 @@ test("a value that will not narrow is refused for the value alone, named as the 
   expect(refusals(["many"], [{ ...COUNT, required: true }])).toEqual([
     "`<count> many` is no whole number of nought or more",
   ])
+  expect(refusals(["--limit", "9999999999999999"], [LIMIT])[0]).toBe(
+    "`--limit 9999999999999999` is past the largest whole number that can be read"
+  )
 })
 
 test("a value is read whole, so the spaces around it are the value's own", () => {
@@ -195,16 +198,13 @@ test("a repeating word argument takes every word from its own place on", () => {
   })
 })
 
-test("a bare double dash makes every word after it a word rather than a flag", () => {
+test("every word after a bare double dash is a word, including another double dash", () => {
   expect(taken(["--", "--json"], [NODE])).toEqual({ node: "--json" })
+  expect(taken(["--", "--"], [NODE])).toEqual({ node: "--" })
 })
 
 test("words after a bare double dash fill the word arguments in the order they are named", () => {
   expect(taken(["--", "here", "there"], [FROM, ONTO])).toEqual({ from: "here", onto: "there" })
-})
-
-test("a double dash after the first is a word rather than another separator", () => {
-  expect(taken(["--", "--"], [NODE])).toEqual({ node: "--" })
 })
 
 test("an argument said with an equals carries what follows the first equals", () => {

@@ -33,6 +33,11 @@ export const argumentTaking = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A whole number past the largest a number holds exactly is refused rather than read.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A repeating argument gathers its values in the order the values are said.",
     },
     {
