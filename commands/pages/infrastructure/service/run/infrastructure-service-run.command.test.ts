@@ -1,6 +1,10 @@
 import { expect, test } from "bun:test"
+import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { infrastructureServiceRun } from "akasha/commands/pages/infrastructure/service/run/infrastructure-service-run.command.code.ts"
+import {
+  calledBy,
+  infrastructureServiceRun,
+} from "akasha/commands/pages/infrastructure/service/run/infrastructure-service-run.command.code.ts"
 
 const HERE: Given = {
   root: process.cwd(),
@@ -40,4 +44,34 @@ test("a slug another page type carries is no workstation service to run", async 
   expect(answer.code).toBe(1)
   expect(answer.refusals[0]).toContain("service-installing")
   expect(answer.report).toEqual([])
+})
+
+test("a service that threw part way names in the refusal what that service had done", async () => {
+  const answer = await calledBy("send-due-reminders", (done) => {
+    done.push("the message to alan, written at agents/messages/one.message.md")
+    throw new Error("the second reminder would not arm")
+  })
+
+  expect(answer.code).toBe(OPERATIONAL)
+  expect(answer.refusals[0]).toContain("would not arm")
+  expect(answer.refusals.join("\n")).toContain("agents/messages/one.message.md")
+  expect(answer.report).toContain("the message to alan, written at agents/messages/one.message.md")
+})
+
+test("a service that did nothing before it threw says nothing about what it did", async () => {
+  const answer = await calledBy("send-due-reminders", () => {
+    throw new Error("the index would not load")
+  })
+
+  expect(answer.refusals.join("\n")).not.toContain("stopped part way")
+})
+
+test("a service that ran through says what it did beside the slug it ran", async () => {
+  const answer = await calledBy("send-due-reminders", (done) => {
+    done.push("the message to alan, written at agents/messages/one.message.md")
+  })
+
+  expect(answer.refusals).toEqual([])
+  expect(answer.report).toContain("ran\tsend-due-reminders")
+  expect(answer.report).toContain("the message to alan, written at agents/messages/one.message.md")
 })

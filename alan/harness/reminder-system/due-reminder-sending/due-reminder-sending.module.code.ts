@@ -9,7 +9,19 @@ import {
 } from "akasha/alan/harness/reminder-system/reminders/modules/sending/reminder-sending.module.code.ts"
 import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 
-async function sendOne(one: Found): Promise<string | null> {
+export function sentSaid(to: string, relPath: string): string {
+  return `the message to ${to}, written at ${relPath}, which nothing here takes back`
+}
+
+export function armedSaid(path: string, ms: number): string {
+  return `${path}, armed for ${new Date(ms).toISOString()}`
+}
+
+export function tookSaid(path: string): string {
+  return `${path}, taken away because the reminder it held had sent`
+}
+
+async function sendOne(one: Found, done: string[]): Promise<string | null> {
   const written = await writeMessage({
     to: one.to,
     from: one.from,
@@ -19,11 +31,12 @@ async function sendOne(one: Found): Promise<string | null> {
   if (written.kind === "refused") {
     return `${one.path} came due and its message was refused: ${written.detail}`
   }
+  done.push(sentSaid(one.to, written.relPath))
   process.stdout.write(`${one.path}\t${written.relPath}\n`)
   return null
 }
 
-export async function sendDueReminders(): Promise<number> {
+export async function sendDueReminders(done: string[] = []): Promise<number> {
   const root = akashaRoot()
   const now = Date.now()
   const held: string[] = []
@@ -45,11 +58,12 @@ export async function sendDueReminders(): Promise<number> {
         continue
       }
       armFor(root, one.path, elapse.ms)
+      done.push(armedSaid(one.path, elapse.ms))
       armed += 1
       continue
     }
     if (nextMs > now) continue
-    const refused = await sendOne(one)
+    const refused = await sendOne(one, done)
     if (refused !== null) {
       held.push(refused)
       continue
@@ -57,6 +71,7 @@ export async function sendDueReminders(): Promise<number> {
     sent += 1
     if (elapse.kind !== "never") {
       armFor(root, one.path, elapse.ms)
+      done.push(armedSaid(one.path, elapse.ms))
       continue
     }
     const why = await tookReminder(
@@ -65,7 +80,10 @@ export async function sendDueReminders(): Promise<number> {
       `the reminder to ${one.to} named one time and has sent, so its page goes`
     )
     if (why !== null) held.push(`${one.path} has sent and is there anyway: ${why}`)
-    else spent += 1
+    else {
+      done.push(tookSaid(one.path))
+      spent += 1
+    }
   }
   process.stderr.write(`${sent} sent, ${armed} armed, ${spent} spent and taken away\n`)
   for (const one of held) process.stderr.write(`held: ${one}\n`)

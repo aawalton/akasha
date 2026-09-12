@@ -1,10 +1,11 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
 import {
+  answering,
   DATA,
   INPUT,
-  OK,
   refused,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { allowedThrough } from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
@@ -22,7 +23,7 @@ const TS = "ts"
 
 const RUNS = "runService"
 
-export type Running = () => void | Promise<void>
+export type Running = (done: string[]) => void | Promise<void>
 
 type Reached =
   | { readonly running: Running }
@@ -55,6 +56,22 @@ async function reachedFor(root: string, slug: string): Promise<Reached> {
   return { running: named as Running }
 }
 
+export type Calling = (done: string[], slug: string, running: Running) => Promise<Answer>
+
+async function called(done: string[], slug: string, running: Running): Promise<Answer> {
+  allowedThrough()
+  await running(done)
+  return told([...done, `ran\t${slug}`])
+}
+
+export async function calledBy(
+  slug: string,
+  running: Running,
+  calling: Calling = called
+): Promise<Answer> {
+  return await answering(async (done) => await calling(done, slug, running))
+}
+
 export async function infrastructureServiceRun(
   argv: readonly string[],
   given: Given
@@ -66,7 +83,5 @@ export async function infrastructureServiceRun(
   if ("unnamed" in reached) return refused(reached.unnamed, INPUT)
   if ("refused" in reached) return refused(reached.refused, DATA)
 
-  allowedThrough()
-  await reached.running()
-  return { report: [`ran\t${named.slug}`], refusals: [], code: OK }
+  return await calledBy(named.slug, reached.running)
 }

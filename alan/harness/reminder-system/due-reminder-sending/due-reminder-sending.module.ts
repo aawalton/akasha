@@ -60,5 +60,17 @@ export const dueReminderSending = {
       invariantKind: "departure",
       statement: "A run holding anything back ends non-zero.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A message written is named as soon as that message is written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reminder armed is named as soon as that reminder is armed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reminder taken away is named as soon as that page has gone.",
+    },
   ],
 } as const satisfies Module

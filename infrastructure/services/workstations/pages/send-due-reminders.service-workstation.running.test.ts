@@ -22,7 +22,7 @@ const running = await import(
   "akasha/infrastructure/services/workstations/pages/send-due-reminders.service-workstation.running.code.ts"
 )
 
-test("the run is a function taking nothing, which is how the service runner calls it", () => {
+test("the run is a function the service runner can call with nothing handed", () => {
   expect(typeof running.runService).toBe("function")
   expect(running.runService.length).toBe(0)
 })
@@ -38,9 +38,23 @@ test("a run turns the sending module's own send rather than a send written again
   expect(HANDED.length).toBe(1)
 })
 
-test("the send is handed nothing, since the unit's command line spells no argument", async () => {
+test("the send is handed the list the run was handed, so what it did reaches the caller", async () => {
+  HANDED.length = 0
+  CODE = 0
+  const done: string[] = []
+  await running.runService(done)
+  expect(HANDED).toEqual([[done]])
+})
+
+test("a run handed no list hands the send a list of its own rather than nothing", async () => {
   HANDED.length = 0
   CODE = 0
   await running.runService()
-  expect(HANDED).toEqual([[]])
+  expect(HANDED).toEqual([[[]]])
+})
+
+test("a send holding a reminder back throws rather than ending the process where nothing reads it", async () => {
+  HANDED.length = 0
+  CODE = 1
+  await expect(running.runService()).rejects.toThrow("held back")
 })

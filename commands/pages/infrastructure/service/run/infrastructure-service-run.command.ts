@@ -42,6 +42,22 @@ export const infrastructureServiceRun = {
       statement: "Systemd is asked nothing.",
     },
     {
+      invariantKind: "departure",
+      statement: "A service is handed the list it names what it did into.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A service that threw part way has what it did named in the refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A service that did nothing before it threw has nothing named.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A service that ran through has what it did reported beside the slug it ran.",
+    },
+    {
       invariantKind: "gap",
       statement: "A service akasha carries is reached from the cluster.",
     },
