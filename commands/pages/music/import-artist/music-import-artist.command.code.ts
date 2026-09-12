@@ -82,7 +82,7 @@ const SYNCED_LYRICS = "synced-lyrics"
 
 export const NAMED = [json, songLimit, artistNameArgument, mbidArgument] as const
 
-const UNNAMED = `this call names no artist — say one after the command, or at \`${artistNameArgument.said}\` or \`${mbidArgument.said}\``
+const BLANK = `\`${artistNameArgument.said}\` names no artist, and no \`${mbidArgument.said}\` was said either`
 
 export const WRITE = "change-mechanical/add-file-of-any-kind"
 
@@ -137,7 +137,7 @@ export function taken(argv: readonly string[], calledAs: string): Reading {
   const held = read.taken
   const name = held.artistName ?? null
   const said = held.mbid ?? null
-  if ((name === null || name.trim() === "") && said === null) return { refused: UNNAMED }
+  if (name !== null && name.trim() === "" && said === null) return { refused: BLANK }
   const limit = held.songLimit ?? null
   if (limit !== null && limit < 1) {
     return {
@@ -285,7 +285,7 @@ async function mbidFor(held: Taken, reach: Reach): Promise<string | { readonly r
   const said = held.mbid
   if (said !== null && said !== "") return said
   const name = (held.name ?? "").trim()
-  if (name === "") return { refused: UNNAMED }
+  if (name === "") return { refused: BLANK }
   const best = pickBestArtist(await reach.searchArtist(name), name)
   return best === undefined ? { refused: `MusicBrainz answers no artist for \`${name}\`` } : best.id
 }

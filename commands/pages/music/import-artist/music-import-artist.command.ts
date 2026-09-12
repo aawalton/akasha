@@ -66,7 +66,7 @@ export const musicImportArtist = {
   arguments: [
     { argument: "argument/json" },
     { argument: "argument/song-limit" },
-    { argument: "argument/artist-name", saidAs: "flag-or-word" },
+    { argument: "argument/artist-name", saidAs: "flag-or-word", oneOf: ["argument/mbid"] },
     { argument: "argument/mbid" },
   ],
 } as const satisfies Command

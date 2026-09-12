@@ -155,9 +155,16 @@ function importingProbe(landing: Landing) {
 
 const CALLED_AS = "akasha music import-artist"
 
-test("a call naming no artist is refused", () => {
+test("a call naming no artist is refused in the words the reader refuses with", () => {
   const held = taken(["--json"], CALLED_AS)
-  expect("refused" in held && held.refused).toContain("names no artist")
+  expect("refused" in held && held.refused).toContain(
+    "takes `<name>` or `--name` or `--mbid`, and nothing said either"
+  )
+})
+
+test("a name said blank with no mbid is refused by what this command narrows past the reader", () => {
+  const held = taken(["--name", "  "], CALLED_AS)
+  expect("refused" in held && held.refused).toContain("`--name` names no artist")
 })
 
 test("an artist is named after the command as well as at a flag", () => {
