@@ -10,13 +10,13 @@ export const notificationFeed = {
   parts: [
     "instant-property/notification-read-at",
     "instant-property/notification-sent-at",
+    "module/notification-feed-rows",
+    "module/notifying",
     "page-property-entry/notifications",
     "text-property/notification-body",
     "text-property/notification-kind",
     "text-property/notification-link",
     "text-property/notification-source",
-    "module/notifying",
-    "module/notification-feed-rows",
   ],
   properties: [
     { pageProperty: "relation-property/person", required: true, many: false },

@@ -9,8 +9,8 @@ export const changeMechanical = {
   extends: ["page-type/change"],
   parts: [
     "page-type/change-mechanical-file",
-    "page-type/change-mechanical-folder",
     "page-type/change-mechanical-file-content",
+    "page-type/change-mechanical-folder",
     "page-type/change-mechanical-page-type",
     "relation-property/guards",
   ],

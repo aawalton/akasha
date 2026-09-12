@@ -11,10 +11,10 @@ export const fitnessEquipment = {
     "boolean-property/fitness-equipment-available",
     "number-property/fitness-equipment-loads",
     "number-property/fitness-equipment-sort-order",
+    "relation-property/fitness-equipment-covers",
     "select-property/fitness-equipment-category",
     "select-property/fitness-equipment-configuration",
     "text-property/fitness-equipment-notes",
-    "relation-property/fitness-equipment-covers",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },

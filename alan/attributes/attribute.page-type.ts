@@ -8,8 +8,6 @@ export const attribute = {
   pluralSlug: "attributes",
   extends: ["page-type/domain"],
   parts: [
-    "module/attribute-points",
-    "computed-property/attribute-level",
     "attribute/charisma",
     "attribute/constitution",
     "attribute/endurance",
@@ -17,11 +15,13 @@ export const attribute = {
     "attribute/luck",
     "attribute/strength",
     "attribute/wisdom",
+    "computed-property/attribute-level",
+    "domain/attribute-readouts",
+    "module/attribute-points",
     "number-property/points-before-today",
     "number-property/points-today",
     "number-property/points-total",
     "text-property/point-unit",
-    "domain/attribute-readouts",
   ],
   properties: [
     { pageProperty: "code-file-property/code", required: false, many: false },

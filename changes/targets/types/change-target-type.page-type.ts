@@ -8,10 +8,10 @@ export const changeTargetType = {
   pluralSlug: "change-target-types",
   parts: [
     "change-target-type/file",
-    "change-target-type/folder",
     "change-target-type/file-content",
-    "change-target-type/page-type",
+    "change-target-type/folder",
     "change-target-type/page-property",
+    "change-target-type/page-type",
     "change-target-type/prose",
   ],
   extends: ["page-type/domain"],

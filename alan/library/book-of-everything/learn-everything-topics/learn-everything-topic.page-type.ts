@@ -10,6 +10,7 @@ export const learnEverythingTopic = {
   parts: [
     "calendar-date-property/topic-scored-on",
     "computed-property/topic-coverage",
+    "domain/learn-everything-topic-mastery",
     "file-property/bites",
     "file-property/frontier",
     "file-property/integration",
@@ -25,7 +26,6 @@ export const learnEverythingTopic = {
     "text-property/capture-source",
     "text-property/topic-calibration-read",
     "text-property/topic-node",
-    "domain/learn-everything-topic-mastery",
   ],
   properties: [
     { pageProperty: "text-property/topic-node", required: true, many: false },

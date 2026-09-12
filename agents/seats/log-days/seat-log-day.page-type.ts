@@ -9,9 +9,9 @@ export const seatLogDay = {
   extends: ["page-type/page"],
   mortal: true,
   parts: [
+    "file-property/lines",
     "module/log-day-sweeping",
     "module/log-day-writing",
-    "file-property/lines",
     "relation-property/log-source",
     "text-property/seat-name",
   ],

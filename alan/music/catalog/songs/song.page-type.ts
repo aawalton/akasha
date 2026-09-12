@@ -14,10 +14,10 @@ export const song = {
     "file-property/personal-connections",
     "file-property/synced-lyrics",
     "relation-property/artist",
-    "text-property/lyrics-source",
     "rank-property/singability",
     "select-property/song-type",
     "select-property/written",
+    "text-property/lyrics-source",
   ],
   properties: [
     { pageProperty: "text-property/external-id", required: true, many: false },

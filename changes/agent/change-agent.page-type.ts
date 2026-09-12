@@ -9,8 +9,8 @@ export const changeAgent = {
   extends: ["page-type/change"],
   parts: [
     "domain/change-agent-file",
-    "domain/change-agent-folder",
     "domain/change-agent-file-content",
+    "domain/change-agent-folder",
     "domain/change-agent-page-property",
     "domain/change-agent-page-type",
     "domain/change-agent-prose",

@@ -6,11 +6,11 @@ export const audhdalanWebRoutes = {
   slug: "audhdalan-web-routes",
   definition: "the routes audhdalan.com serves",
   parts: [
+    "route/audhdalan-api-errors",
     "route/audhdalan-api-health",
+    "route/audhdalan-api-subscribe",
     "route/audhdalan-autcon-2026",
     "route/audhdalan-home",
-    "route/audhdalan-api-errors",
-    "route/audhdalan-api-subscribe",
     "route/audhdalan-safety-levels",
   ],
 } as const satisfies AppRoutes

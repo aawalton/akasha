@@ -7,7 +7,7 @@ export const notice = {
   definition: "message text written ahead of time and asked for by name",
   pluralSlug: "notices",
   extends: ["page-type/page"],
-  parts: ["file-property/notice-text", "text-property/notice-warrant", "module/compose-notices"],
+  parts: ["file-property/notice-text", "module/compose-notices", "text-property/notice-warrant"],
   properties: [
     { pageProperty: "file-property/notice-text", required: true, many: false },
     { pageProperty: "text-property/notice-warrant", required: true, many: false },

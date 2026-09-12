@@ -6,8 +6,8 @@ export const temperCaptureShapes = {
   slug: "temper-capture-shapes",
   definition: "the shape of every catalog the addon captures out of the running game",
   parts: [
-    "module/antiquity-lore-catalog",
     "module/achievement-catalog",
+    "module/antiquity-lore-catalog",
     "module/cadwell-catalog",
     "module/class-catalog",
     "module/collectibles-catalog",

@@ -8,13 +8,13 @@ export const changeMode = {
   pluralSlug: "change-modes",
   parts: [
     "change-mode/change-mode-add",
+    "change-mode/change-mode-add-if-not-present",
+    "change-mode/change-mode-append",
     "change-mode/change-mode-change",
+    "change-mode/change-mode-divide",
     "change-mode/change-mode-move",
     "change-mode/change-mode-remove",
     "change-mode/change-mode-rename",
-    "change-mode/change-mode-add-if-not-present",
-    "change-mode/change-mode-append",
-    "change-mode/change-mode-divide",
   ],
   extends: ["page-type/domain"],
   invariants: [

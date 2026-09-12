@@ -7,14 +7,14 @@ export const changeKind = {
   definition: "which sort one change is",
   pluralSlug: "change-kinds",
   parts: [
+    "boolean-property/readers-owe-reading",
+    "boolean-property/runs-checks",
+    "boolean-property/writer-owes-reading",
     "change-kind/change-authored",
     "change-kind/change-checked",
     "change-kind/change-mechanical",
     "change-kind/change-none",
     "change-kind/change-restated",
-    "boolean-property/readers-owe-reading",
-    "boolean-property/runs-checks",
-    "boolean-property/writer-owes-reading",
   ],
   extends: ["page-type/domain"],
   properties: [

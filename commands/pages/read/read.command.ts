@@ -10,8 +10,8 @@ export const read = {
   test: "ts",
   testFixtures: "ts",
   parts: [
-    "module/differing",
     "module/body-owing",
+    "module/differing",
     "module/long-answering",
     "module/output-reaching",
   ],

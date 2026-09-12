@@ -9,8 +9,8 @@ export const changeRunner = {
   parts: [
     "change-runner/agent-change-running",
     "change-runner/mechanical-change-running",
-    "module/change-loading",
     "file-property/addressed",
+    "module/change-loading",
     "relation-property/reached",
   ],
   extends: ["page-type/module"],

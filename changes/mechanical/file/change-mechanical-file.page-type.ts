@@ -9,11 +9,11 @@ export const changeMechanicalFile = {
   extends: ["page-type/change-mechanical"],
   parts: [
     "domain/change-mechanical-file-add",
-    "domain/change-mechanical-file-remove",
-    "domain/change-mechanical-file-move",
     "domain/change-mechanical-file-add-if-not-present",
-    "domain/change-mechanical-file-rename",
+    "domain/change-mechanical-file-move",
+    "domain/change-mechanical-file-remove",
     "domain/change-mechanical-file-divide",
+    "domain/change-mechanical-file-rename",
   ],
   properties: [
     { pageProperty: "relation-property/change-target-type", required: true, many: false },

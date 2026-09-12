@@ -9,7 +9,6 @@ export const monarch = {
   parts: [
     "module/monarch-syncing",
     "module/transaction-polling",
-    "page-type/category-rule",
     "domain/monarch-eval",
     "module/monarch-agree",
     "module/monarch-agreement",
@@ -56,6 +55,7 @@ export const monarch = {
     "module/monarch-sync",
     "module/monarch-transaction",
     "module/monarch-transaction-create",
+    "page-type/category-rule",
     "page-type/monarch-account",
     "page-type/monarch-category",
     "page-type/monarch-direction",

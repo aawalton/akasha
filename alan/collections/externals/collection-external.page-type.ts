@@ -8,8 +8,8 @@ export const collectionExternal = {
   pluralSlug: "collection-externals",
   parts: [
     "calendar-date-property/last-synced-at",
-    "text-property/external-id",
     "select-property/source",
+    "text-property/external-id",
     "url-property/external-link",
   ],
   extends: ["page-type/collection"],

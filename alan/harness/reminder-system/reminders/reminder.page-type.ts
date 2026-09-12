@@ -10,11 +10,11 @@ export const reminder = {
   mortal: true,
   parts: [
     "instant-property/next-at",
+    "module/reminder-sending",
     "relation-property/sent-from",
     "relation-property/sent-to",
     "text-property/reminder-schedule",
     "text-property/reminder-text",
-    "module/reminder-sending",
   ],
   properties: [
     { pageProperty: "relation-property/sent-to", required: true, many: false },

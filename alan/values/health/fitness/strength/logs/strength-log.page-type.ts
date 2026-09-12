@@ -10,6 +10,7 @@ export const strengthLog = {
   parts: [
     "boolean-property/is-warmup",
     "calendar-date-property/set-log-date",
+    "computed-property/set-volume",
     "number-property/distance",
     "number-property/duration-seconds",
     "number-property/reps",
@@ -17,11 +18,10 @@ export const strengthLog = {
     "number-property/set-number",
     "number-property/weight",
     "relation-property/exercise",
-    "text-property/session-slug",
     "relation-property/day",
-    "computed-property/set-volume",
     "select-property/activity-type",
     "text-property/note",
+    "text-property/session-slug",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
