@@ -33,8 +33,6 @@ import {
   finishPerfTrace,
   startPerfTrace,
 } from "akasha/temper/capture-perf/perf-trace/perf-trace.module.code.ts"
-import { createCompanionSummaryPanel } from "akasha/temper/companions-addon/companions-summary-panel/companions-summary-panel.module.code.ts"
-import { refreshCompanionSummaryPanel } from "akasha/temper/companions-addon/companions-summary-refresh/companions-summary-refresh.module.code.ts"
 import { initializeFcoCompanion } from "akasha/temper/companions-addon/modules/companion-qol-init/companion-qol-init.module.code.ts"
 import { refreshAllCompanionData } from "akasha/temper/companions-addon/modules/companions-commands/companions-commands.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/companions-addon/modules/companions-constants/companions-constants.module.code.ts"
@@ -53,6 +51,8 @@ import {
   createCompanionSkillsPanel,
   refreshCompanionSkillsPanel,
 } from "akasha/temper/companions-addon/modules/companions-skills-panel/companions-skills-panel.module.code.ts"
+import { createCompanionSummaryPanel } from "akasha/temper/companions-addon/modules/companions-summary-panel/companions-summary-panel.module.code.ts"
+import { refreshCompanionSummaryPanel } from "akasha/temper/companions-addon/modules/companions-summary-refresh/companions-summary-refresh.module.code.ts"
 
 function registerCompanionSceneCallbacks(): undefined {
   const companionScenes = [
