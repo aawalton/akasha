@@ -23,5 +23,17 @@ export const questsChatterNameTables = {
       invariantKind: "departure",
       statement: "These names are worked out from the game's own enumerations.",
     },
+    {
+      invariantKind: "departure",
+      statement: "`akasha temper eso generate chatter-name` writes this code.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An edit by hand to this code is lost at the next run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "This page names the command writing this code rather than the code itself.",
+    },
   ],
 } as const satisfies Module

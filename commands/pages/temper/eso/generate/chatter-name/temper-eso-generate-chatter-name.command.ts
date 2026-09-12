@@ -29,7 +29,15 @@ export const temperEsoGenerateChatterName = {
     },
     {
       invariantKind: "departure",
-      statement: "The written file names the command that wrote the file.",
+      statement: "The registry is written where a page already claims that file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The page beside the written file names the command that wrote the file.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "The registry carries no prose of its own.",
     },
     {
       invariantKind: "departure",
