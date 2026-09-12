@@ -16,7 +16,7 @@ export const draftKeeping = {
     {
       invariantKind: "departure",
       statement:
-        "A draft refused over a body that moved names the call taking the kept edits away.",
+        "A draft refused over a body that moved names the paths to read again rather than a drop.",
     },
     {
       invariantKind: "departure",

@@ -20,9 +20,10 @@ export type Drafted = {
 }
 
 const AGAIN_DRAFTED =
-  "nothing was drafted — the edits kept do not rebase, and reading those bodies again does not" +
-  " move them. `akasha change drop` with `all: true` takes away the whole pool rather than the" +
-  " stale part, and the change is drafted again against what is there now"
+  "nothing was drafted — this edit was written against a body that is not the body there now," +
+  " and reading it again does not move it. Each line above names a path that moved: read those" +
+  " paths again and write this edit against what they now say. The edits already kept are not" +
+  " at fault here, so a drop takes away work this refusal is no reason to lose."
 
 const KEPT_AS_IT_WAS = "nothing was drafted — the edits are as the edits were"
 

@@ -38,7 +38,7 @@ test("a draft runs no check, so a gate that would refuse drafts all the same", a
   expect(keptText(root)).toContain("second")
 })
 
-test("a draft refused over a body that moved names the call taking the kept edits away", async () => {
+test("a draft refused over a body that moved names the paths to read again", async () => {
   const root = pagesRepo()
   const read = baseOf(root)
   committedAgain(root, "akasha/a.domain.ts", `${A}\n`)
@@ -50,8 +50,8 @@ test("a draft refused over a body that moved names the call taking the kept edit
   )
   const why = "refusals" in said ? said.refusals.join("\n") : ""
   expect(why).toContain("moved in between")
-  expect(why).toContain("`akasha change drop` with `all: true`")
-  expect(why).toContain("drafted again")
+  expect(why).toContain("read those paths again")
+  expect(why).toContain("The edits already kept are not")
   expect(keptText(root)).toBe("")
 })
 
