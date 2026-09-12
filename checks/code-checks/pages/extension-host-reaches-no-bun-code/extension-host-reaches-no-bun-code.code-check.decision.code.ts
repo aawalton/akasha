@@ -20,7 +20,7 @@ import ts from "typescript"
 
 const LINKED = "linked-at"
 
-const MANIFEST_PROPERTY = "manifest"
+const MANIFEST_PROPERTY = "workspace-manifest"
 
 const ROOT = "."
 

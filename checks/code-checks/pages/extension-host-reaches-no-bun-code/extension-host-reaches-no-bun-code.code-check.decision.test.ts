@@ -42,7 +42,7 @@ test("two pages stating a `linked-at` are refused rather than chosen between", (
   expect(() => manifestIn(two)).toThrow("2 pages state a")
 })
 
-test("no `manifest` file key is refused rather than guessed", () => {
+test("no `workspace-manifest` file key is refused rather than guessed", () => {
   const held = stating({ [LINKED_PAGE]: LINKED_TO }, null)
   expect(() => manifestIn(held)).toThrow("no page property is slugged")
 })

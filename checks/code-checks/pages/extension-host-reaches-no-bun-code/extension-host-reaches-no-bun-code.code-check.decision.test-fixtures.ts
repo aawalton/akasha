@@ -58,7 +58,7 @@ const EXTENDS_TYPE = "extends-type"
 
 const FILE_PROPERTY = "file-property"
 
-const MANIFEST_PROPERTY = "manifest"
+const MANIFEST_PROPERTY = "workspace-manifest"
 
 const PACKAGE_JSON = "package.json"
 
