@@ -4,7 +4,11 @@ import {
   guardedIn,
   SWEPT,
 } from "akasha/agents/hooks/agent-hooks/block-akasha-edits/block-akasha-edits.agent-hook.code.ts"
-import { parseHookPayload } from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
+import {
+  payloadIn,
+  REFUSED,
+  UNREADABLE,
+} from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
 import { insideOf, settled } from "akasha/agents/hooks/settling/settling.module.code.ts"
 import {
   basenameOf,
@@ -21,10 +25,6 @@ import { gitIgnoring } from "akasha/git/pathspec/git-pathspec.module.code.ts"
 import { z } from "zod"
 
 const HOOK_NAME = "block-akasha-shell-writes"
-
-const UNREADABLE = 5
-
-const REFUSED = 2
 
 const DD = "dd"
 
@@ -464,14 +464,12 @@ export function refusalFor(command: string, from: string, root: string): string 
 async function main(): Promise<number> {
   const raw = await Bun.stdin.text()
   if (raw.trim() === "") return 0
-  let payload: Record<string, unknown> | null
-  try {
-    payload = parseHookPayload(raw)
-  } catch {
+  const payload = payloadIn(raw)
+  if (payload === null) {
     process.stderr.write(`${HOOK_NAME}: the hook payload would not read, so nothing was judged\n`)
     return UNREADABLE
   }
-  const held = (payload ?? {}) as {
+  const held = payload as {
     readonly tool_input?: { readonly command?: unknown }
     readonly cwd?: unknown
   }

@@ -6,6 +6,7 @@ import {
   refusalFor,
   SCOPE,
 } from "akasha/agents/hooks/agent-hooks/block-akasha-edits/block-akasha-edits.agent-hook.code.ts"
+import { UNREADABLE } from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
 import { insideOf, settled } from "akasha/agents/hooks/settling/settling.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { dataAt } from "akasha/files/git-place/git-place.module.code.ts"
@@ -255,4 +256,12 @@ test("the hook prints its scope when it is asked", () => {
   const done = ran(["bun", SCRIPT, "--scope"], { stdin: Buffer.from("") })
   expect(done.code).toBe(0)
   expect(done.out).toContain("NOT REACHED")
+})
+
+test("a payload this cannot read judges nothing and exits so the dispatch refuses", () => {
+  for (const one of ["{", "[]", "null", '"held"', "12"]) {
+    const done = ran(["bun", SCRIPT], { stdin: Buffer.from(one) })
+    expect(done.code).toBe(UNREADABLE)
+    expect(done.out).toBe("")
+  }
 })

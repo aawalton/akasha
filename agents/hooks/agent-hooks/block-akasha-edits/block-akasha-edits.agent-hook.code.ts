@@ -1,5 +1,10 @@
 import { resolve } from "node:path"
-import { parseHookPayload } from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
+import {
+  payloadIn,
+  REFUSED,
+  SCOPE_FLAG,
+  UNREADABLE,
+} from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
 import { shownIn } from "akasha/agents/hooks/path-showing/path-showing.module.code.ts"
 import { insideOf, settled } from "akasha/agents/hooks/settling/settling.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
@@ -9,10 +14,6 @@ import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts
 import { stringAt } from "akasha/utils/narrow/string-at/string-at.module.code.ts"
 
 const HOOK_NAME = "block-akasha-edits"
-
-const UNREADABLE = 5
-
-const REFUSED = 2
 
 const WRITE = "Write"
 
@@ -79,12 +80,7 @@ export const SWEPT: readonly string[] = [
 ]
 
 export function askedIn(raw: string): Asked | null {
-  let held: Record<string, unknown> | null
-  try {
-    held = parseHookPayload(raw)
-  } catch {
-    return null
-  }
+  const held = payloadIn(raw)
   if (held === null) return null
   const input = asRecord(held["tool_input"]) ?? {}
   const named = stringAt(input, "file_path") ?? ""
@@ -177,7 +173,7 @@ export function refusalFor(asked: Asked, root: string, fallback: string): string
 }
 
 async function main(): Promise<number> {
-  if (Bun.argv[2] === "--scope") {
+  if (Bun.argv[2] === SCOPE_FLAG) {
     process.stdout.write(`${SCOPE.join("\n")}\n`)
     return 0
   }
