@@ -17,6 +17,11 @@ export const levelName = {
       invariantKind: "departure",
       statement: "A name is matched whole against one word of the command line.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A command named `list` answers many, and a command named `show` answers one the caller names.",
+    },
   ],
   types: "ts",
 } as const satisfies TextProperty
