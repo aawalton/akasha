@@ -9,7 +9,6 @@ export const measureComplexityMaintainability = {
   code: "ts",
   taking: [
     { said: "--threshold <n>", takes: "the index a row must be at or under to be in the answer" },
-    { said: "--top <n>", takes: "how many rows are in the answer, worst first" },
   ],
   invariants: [
     {
@@ -27,5 +26,9 @@ export const measureComplexityMaintainability = {
     },
   ],
   name: "maintainability",
-  arguments: [{ argument: "argument/json" }, { argument: "argument/file-path" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/file-path" },
+    { argument: "argument/top" },
+  ],
 } as const satisfies Command

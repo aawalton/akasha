@@ -7,10 +7,7 @@ export const measureComplexityCyclomatic = {
   definition:
     "the command saying the McCabe complexity of each function of a checkout's TypeScript",
   code: "ts",
-  taking: [
-    { said: "--threshold <n>", takes: "the figure a row must reach to be in the answer" },
-    { said: "--top <n>", takes: "how many rows are in the answer, worst first" },
-  ],
+  taking: [{ said: "--threshold <n>", takes: "the figure a row must reach to be in the answer" }],
   invariants: [
     {
       invariantKind: "departure",
@@ -35,5 +32,9 @@ export const measureComplexityCyclomatic = {
     },
   ],
   name: "cyclomatic",
-  arguments: [{ argument: "argument/json" }, { argument: "argument/file-path" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/file-path" },
+    { argument: "argument/top" },
+  ],
 } as const satisfies Command
