@@ -43,6 +43,10 @@ export const smsSend = {
       invariantKind: "departure",
       statement: "The carrier reached is the live API unless another is said.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A call saying neither a body nor a file to read one from is refused.",
+    },
   ],
   name: "send",
   arguments: [

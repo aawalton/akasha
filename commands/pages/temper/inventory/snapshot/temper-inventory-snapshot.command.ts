@@ -44,6 +44,10 @@ export const temperInventorySnapshot = {
       invariantKind: "stopgap",
       statement: "So `--json` here takes the indenting off rather than choosing JSON.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A call naming no snapshot and not asking for the newest is refused.",
+    },
   ],
   name: "snapshot",
   arguments: [
