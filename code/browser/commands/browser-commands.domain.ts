@@ -5,7 +5,7 @@ export const browserCommands = {
   type: "domain",
   slug: "browser-commands",
   definition: "what an agent runs by name over a site it drives a browser against",
-  parts: ["module/browser-command-arguing", "module/verify-render-plan"],
+  parts: ["module/verify-render-plan"],
   invariants: [
     {
       invariantKind: "departure",
