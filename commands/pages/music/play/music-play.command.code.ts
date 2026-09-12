@@ -21,9 +21,9 @@ import {
   answering,
   INPUT,
   keeping,
-  OK,
   refused,
   refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { musicPlay as page } from "akasha/commands/pages/music/play/music-play.command.ts"
@@ -145,7 +145,7 @@ export async function playing(
       const said = taken.json
         ? JSON.stringify(playEnvelopeFor(wanted.query, wanted.track, deviceId))
         : playLineFor(wanted.track)
-      return { report: [said], refusals: [], code: OK }
+      return told([said])
     } catch (thrown) {
       if (isCliError(thrown)) return keeping(done, refused(thrown.message, thrown.code))
       throw thrown
