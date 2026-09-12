@@ -64,7 +64,7 @@ export const infrastructureLoki = {
   name: "loki",
   arguments: [
     { argument: "argument/limit" },
-    { argument: "argument/pod", saidAs: "flag-or-word" },
+    { argument: "argument/pod", required: true, saidAs: "flag-or-word" },
     { argument: "argument/kube-namespace" },
     { argument: "argument/cursor" },
     { argument: "argument/every-line" },

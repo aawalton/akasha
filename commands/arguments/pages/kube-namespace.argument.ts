@@ -5,7 +5,8 @@ export const kubeNamespace = {
   type: "argument",
   slug: "kube-namespace",
   said: "--namespace",
-  takes: "the Kubernetes namespace to look in, read as a literal string, `ci` where none is said",
+  takes: "the Kubernetes namespace to look in, read as a literal string",
   value: "text",
   placeholder: "ns",
+  default: "ci",
 } as const satisfies Argument
