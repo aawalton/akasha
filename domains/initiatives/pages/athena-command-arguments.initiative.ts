@@ -22,7 +22,7 @@ export const athenaCommandArguments = {
       statement:
         "One reader reads every command's arguments from the pages, refusing what no page names.",
       workingMemory:
-        "`takingIn` at `commands/arguments/argument-taking/argument-taking.module.code.ts` is the one reader, proven by 29 tests. The question is settled: `calling` resolves a command's argument pages and hands the command what it read, since `command.page-type.ts` already binds `loadedBy: module/calling` and each command reaching the reader itself repeats the resolution 225 times. This waits on the migration off `taking`.",
+        "`takenFor` at `argument-taking.module.code.ts:279` is the one reader, and the command reaches it rather than `calling`. The 225-times cost never existed: one process runs one command. `calling` resolves argument pages only to write help, behind the `--help` gate at `calling.module.code.ts:276`. Deciding it: a command page names an argument by slug, and only an import carries a slug to that page's type, so `calling` could only hand down `Record<string, Value>`. A check closes this.\n",
     },
     {
       statement:
@@ -33,7 +33,7 @@ export const athenaCommandArguments = {
     {
       statement: "No command page states `taking`.",
       workingMemory:
-        "153 command pages state `taking: []` now, every argument they take being an entry under `arguments` instead. 67 still carry entries, split across five agents' slices: temper, the media tree, talos with infrastructure and track, the prose-route pairs, and everything else. No act takes a many-valued property off one page, so `taking: []` is the terminal state, and this intent closes with one `remove-property-from-every-page` over `page-type/command` once the last entry is gone.",
+        "210 command pages state `taking: []`; 20 still carry entries — nine inference generators, four send commands, four temper inventory writers, `music rate`, `google calendar event list` and `read`. `read` carries `--full`, which its `arguments` does not name and Alan has not ruled on. No act takes a many-valued property off one page, so `taking: []` is the terminal state, and this closes with one `remove-property-from-every-page` over `page-type/command` once the last entry is gone.\n",
     },
     {
       statement: "One spelling names one argument, and one argument has one spelling.",
