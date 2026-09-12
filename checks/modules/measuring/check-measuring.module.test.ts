@@ -29,6 +29,7 @@ import {
   lineOf,
   NOW,
   ONE,
+  partAt,
   RULED,
   rootWith,
   rowsBeside,
@@ -39,7 +40,9 @@ import {
   spacedOnce,
   TALLIED,
   THREE,
+  TORN_SAID,
   TWO,
+  tornInto,
   unreadableInto,
   WITHIN,
 } from "akasha/checks/modules/measuring/check-measuring.module.test-fixtures.ts"
@@ -252,6 +255,7 @@ test("the total sits beneath the table with its memory drawn absent", () => {
     checks: [cost],
     total: { runs: 1, cpu: 2, paths: 1, refusals: 0 },
     unread: [],
+    torn: [],
   })
 
   expect(spacedOnce(said[2])).toBe("")
@@ -391,24 +395,23 @@ test("every numbered file of a check's logs is read in order rather than the fir
   expect(cost?.cpu).toBe(4)
 })
 
-test("a file holding a row that would not read is named beneath the table as well", () => {
-  const cost = costOf("one", runsIn(lineOf({ phase: "change", cpuSeconds: 2 })))
-  const said = linesOf({ ...costsOf([cost]), torn: ["one/two.jsonl"] })
-
-  expect(said.slice(-2)).toEqual([
-    "these held a row that would not read, and that row counts no run:",
-    "one/two.jsonl",
-  ])
-})
-
 test("a file that could not be read is named beneath the table", () => {
   const root = unreadableInto(rootWith({ one: [{ phase: "change", cpuSeconds: 1 }] }), "bad")
   const costs = costsIn(root, NOW, DAY_BACK)
 
   expect(costs.checks.map((one) => one.check)).toEqual(["one"])
-  expect(costs.unread).toEqual([
-    "checks/code-checks/pages/bad/bad.code-check.check.logs.uncommitted.jsonl",
-  ])
+  expect(costs.unread).toEqual([partAt("bad", 1)])
+  expect(costs.torn).toEqual([])
+})
+
+test("a row that would not read is passed over and the rest of that file is read", () => {
+  const root = tornInto(rootWith({ one: [{ phase: "change", cpuSeconds: 1 }] }), "bad")
+  const costs = costsIn(root, NOW, DAY_BACK)
+
+  expect(costs.checks.find((one) => one.check === "bad")?.runs).toBe(1)
+  expect(costs.unread).toEqual([])
+  expect(costs.torn).toEqual([partAt("bad", 1)])
+  expect(linesOf(costs).slice(-2)).toEqual([TORN_SAID, partAt("bad", 1)])
 })
 
 test("memory is scaled to the unit that fits and processor time runs to three decimals", () => {
@@ -431,6 +434,7 @@ test("a root holding no checks answers no check rather than throwing", () => {
     checks: [],
     total: { runs: 0, cpu: null, paths: 0, refusals: 0 },
     unread: [],
+    torn: [],
   })
 })
 

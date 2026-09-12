@@ -67,6 +67,7 @@ export interface Held {
 export interface Reading {
   readonly held: readonly Held[]
   readonly unread: readonly string[]
+  readonly torn: readonly string[]
 }
 
 export type Chosen =
@@ -100,7 +101,7 @@ export interface Costs {
   readonly checks: readonly CheckCost[]
   readonly total: Total
   readonly unread: readonly string[]
-  readonly torn?: readonly string[]
+  readonly torn: readonly string[]
 }
 
 export const ONE_RUN: Chosen = { by: "runs", runs: 1 }
@@ -134,10 +135,10 @@ export interface Rows {
   readonly torn: number
 }
 
-export function runsRead(body: string): Rows {
+function rowsRead(rows: readonly string[]): Rows {
   const runs: Run[] = []
   let torn = 0
-  for (const one of rowsIn(body)) {
+  for (const one of rows) {
     try {
       runs.push(runIn(one))
     } catch {
@@ -145,6 +146,10 @@ export function runsRead(body: string): Rows {
     }
   }
   return { runs, torn }
+}
+
+export function runsRead(body: string): Rows {
+  return rowsRead(rowsIn(body))
 }
 
 export function runsIn(body: string): readonly Run[] {
@@ -279,6 +284,7 @@ export function logsOf(group: Group): string {
 interface Gathering {
   readonly runs: readonly Run[]
   readonly unread: readonly string[]
+  readonly torn: readonly string[]
   readonly read: boolean
 }
 
@@ -291,21 +297,26 @@ function readInto(
 ): Gathering {
   const runs: Run[] = []
   const unread: string[] = []
+  const torn: string[] = []
   let read = false
   for (const at of partsIn(root, page, under)) {
+    let body: string
     try {
-      const rows = rowsIn(readFileSync(join(root, at), "utf8")).filter((one) => !held.has(one))
-      const found = rows.map(runIn)
-      for (const one of rows) held.add(one)
-      for (const one of found) {
-        if (keeping(one)) runs.push(one)
-      }
-      read = true
+      body = readFileSync(join(root, at), "utf8")
     } catch {
       unread.push(at)
+      continue
     }
+    const rows = rowsIn(body).filter((one) => !held.has(one))
+    for (const one of rows) held.add(one)
+    const found = rowsRead(rows)
+    for (const one of found.runs) {
+      if (keeping(one)) runs.push(one)
+    }
+    if (found.torn > 0) torn.push(at)
+    read = true
   }
-  return { runs, unread, read }
+  return { runs, unread, torn, read }
 }
 
 function gatheredIn(root: string, page: string, group: Group): Gathering {
@@ -315,6 +326,7 @@ function gatheredIn(root: string, page: string, group: Group): Gathering {
   return {
     runs: [...logs.runs, ...was.runs],
     unread: [...logs.unread, ...was.unread],
+    torn: [...logs.torn, ...was.torn],
     read: logs.read || was.read,
   }
 }
@@ -322,14 +334,16 @@ function gatheredIn(root: string, page: string, group: Group): Gathering {
 export function heldIn(root: string, group: Group = CHECK): Reading {
   const held: Held[] = []
   const unread: string[] = []
+  const torn: string[] = []
   for (const page of everyOfType(root, CHECKED)) {
     const named = partedIn(page.path)
     if (named === null) continue
     const found = gatheredIn(root, page.path, group)
     unread.push(...found.unread)
+    torn.push(...found.torn)
     if (found.read) held.push({ check: named.slug, runs: found.runs })
   }
-  return { held, unread }
+  return { held, unread, torn }
 }
 
 export function costsIn(root: string, now: number, chosen: Chosen, group: Group = CHECK): Costs {
@@ -344,7 +358,12 @@ export function costsIn(root: string, now: number, chosen: Chosen, group: Group 
     for (const run of runs) picked.push(run)
     if (runs.length > 0) checks.push(costOf(one.check, runs))
   }
-  return { checks: [...checks].sort(byCpu), total: totalOf(picked), unread: reading.unread }
+  return {
+    checks: [...checks].sort(byCpu),
+    total: totalOf(picked),
+    unread: reading.unread,
+    torn: reading.torn,
+  }
 }
 
 export function bytesAs(count: number): string {
@@ -390,8 +409,7 @@ export function linesOf(costs: Costs, named: string = CHECK): readonly string[] 
   ]
   const said = [...columnsOf(rows)]
   if (costs.unread.length > 0) said.push("", UNREAD, ...costs.unread)
-  const torn = costs.torn ?? []
-  if (torn.length > 0) said.push("", TORN, ...torn)
+  if (costs.torn.length > 0) said.push("", TORN, ...costs.torn)
   return said
 }
 

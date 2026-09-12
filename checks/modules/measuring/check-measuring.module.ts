@@ -243,11 +243,15 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
+      statement: "A row that would not read is passed over and the rest of that file is read.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file holding a row that would not read is named beneath the table as well.",
     },
     {
-      invariantKind: "gap",
-      statement: "A check's own rows are read whole, so one torn row leaves that file unread.",
+      invariantKind: "departure",
+      statement: "A file named for a torn row is no file left unread.",
     },
     {
       invariantKind: "departure",

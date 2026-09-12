@@ -27,6 +27,8 @@ const NOT_JSON = "{not json\n"
 
 const UNREADABLE = 99
 
+const TORN = 98
+
 const FIRST_PART = 1
 
 export const NOW = Date.parse("2026-09-05T12:00:00.000Z")
@@ -42,6 +44,8 @@ export const TWO = "01a08071-39a4-7000-9c6b-6cee59d30b20"
 export const THREE = "01a08071-39a4-7000-9c6b-6cee59d30b30"
 
 export const DAY_BACK: Chosen = { by: "period", ms: DAY, said: "24h" }
+
+export const TORN_SAID = "these held a row that would not read, and that row counts no run:"
 
 export const scratch = scratchWorld()
 
@@ -114,12 +118,19 @@ export function rowsBeside(
 
 export function unreadableInto(root: string, check: string): string {
   checkFiled(root, check, UNREADABLE)
-  put(root, partAt(check, FIRST_PART), NOT_JSON)
+  put(root, `${partAt(check, FIRST_PART)}/inner`, "")
+  return root
+}
+
+export function tornInto(root: string, check: string): string {
+  const rows = [lineOf({ phase: "change", cpuSeconds: 4 }), NOT_JSON].join("\n")
+  checkFiled(root, check, TORN)
+  put(root, partAt(check, FIRST_PART), rows)
   return root
 }
 
 export function costsOf(checks: readonly CheckCost[]): Costs {
-  return { checks, total: { runs: 0, cpu: null, paths: 0, refusals: 0 }, unread: [] }
+  return { checks, total: { runs: 0, cpu: null, paths: 0, refusals: 0 }, unread: [], torn: [] }
 }
 
 export function spacedOnce(said: string | undefined): string {
