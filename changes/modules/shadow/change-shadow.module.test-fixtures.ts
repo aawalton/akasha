@@ -28,8 +28,10 @@ import {
 } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import {
   indexedRepo,
+  put,
   scratch,
   textIn,
+  bodyOf as valueBody,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import type { Shaped } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import {
@@ -95,6 +97,14 @@ const PAGE_AT = "akasha/one.thing.ts"
 
 const FILE_PROPERTY = "file-property"
 
+const PROPERTY_VALUE: Value = {
+  id: TYPES_ID,
+  pageTypeSlug: FILE_PROPERTY,
+  slug: "types",
+  propertySlug: "types",
+  generated: true,
+}
+
 function propertyFiled(root: string): undefined {
   shapeAdded(root, FILE_PROPERTY, "types", [
     {
@@ -107,20 +117,10 @@ function propertyFiled(root: string): undefined {
     },
   ])
   listedFiled(root, FILE_PROPERTY, "types", [{ path: PROPERTY_AT, id: TYPES_ID }])
-  valueAlsoFiled(root, FILE_PROPERTY, [
-    {
-      path: PROPERTY_AT,
-      value: {
-        id: TYPES_ID,
-        pageTypeSlug: FILE_PROPERTY,
-        slug: "types",
-        propertySlug: "types",
-        generated: true,
-      },
-    },
-  ])
+  valueAlsoFiled(root, FILE_PROPERTY, [{ path: PROPERTY_AT, value: PROPERTY_VALUE }])
   idFiled(root, TYPES_ID, [{ path: PROPERTY_AT, id: TYPES_ID }])
   relationFiled(root, TYPES_ID, "page-property", THING_ID, [{ path: PAGE_TYPE_AT }])
+  put(root, PROPERTY_AT, valueBody(PROPERTY_VALUE))
 }
 
 function rootThatFormats(): string {
