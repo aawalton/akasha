@@ -41,7 +41,7 @@ const BINDING = "ESO_BASE_GAME_STRING_IDS"
 
 const STAGE_PREFIX = "eso-base-game-string-ids-stage-"
 
-export function temperEsoGenerateBaseGameGlobals(argv: readonly string[], given: Given): Answer {
+export function temperEsoGenerateBaseGameGlobal(argv: readonly string[], given: Given): Answer {
   const namedCheckout = saidFor(argv, CODE_ROOT_FLAG)
 
   let checkout: string
