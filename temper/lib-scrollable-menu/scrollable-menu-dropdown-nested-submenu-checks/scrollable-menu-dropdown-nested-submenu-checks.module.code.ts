@@ -3,23 +3,23 @@ import {
   asDropdownClassPrivate,
   asDropdownObject,
   asDropdownRowControl,
-} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/modules/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
 import {
   asLsmCastDropdownClassPrivateDoOnMouseEnterNestedSubmen,
   asLsmCastDropdownClassPrivateDoSubmenuOnMouseEnterNeste,
-} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-1b/scrollable-menu-casts-1b.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/modules/scrollable-menu-casts-1b/scrollable-menu-casts-1b.module.code.ts"
 import {
   asLsmCastReadonlyUnknown,
   asLsmCastRecordStringUnknown,
-} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
-import { asLsmCastThisVoidArgsUnknownUndefined } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/modules/scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
+import { asLsmCastThisVoidArgsUnknownUndefined } from "akasha/temper/lib-scrollable-menu/modules/scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
 import {
   asLsmCastThisVoidControlUnknownAltUnknownString,
   asLsmCastThisVoidControlUnknownRecordStringUnknown,
-} from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
-import { asLsmCastThisVoidSubentryUnknownComboBoxUnknownBoolean } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
+} from "akasha/temper/lib-scrollable-menu/modules/scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
+import { asLsmCastThisVoidSubentryUnknownComboBoxUnknownBoolean } from "akasha/temper/lib-scrollable-menu/modules/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
 
-import { getValueOrCallback } from "akasha/temper/lib-scrollable-menu/scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"
+import { getValueOrCallback } from "akasha/temper/lib-scrollable-menu/modules/scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"
 import { lib } from "akasha/temper/lib-scrollable-menu/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
 
 const libDebug = lib.Debug

@@ -1,4 +1,4 @@
-import { asLib } from "akasha/temper/lib-scrollable-menu/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
+import { asLib } from "akasha/temper/lib-scrollable-menu/modules/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
 
 export const lib: Lib = asLib(ZO_CallbackObject.New())
 

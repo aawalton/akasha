@@ -4,7 +4,7 @@ import { ResponsiveColumns } from "akasha/design/interfaces/layout/modules/respo
 import {
   collapseCard,
   scrollToCard,
-} from "akasha/design/interfaces/layout/scroll-to-card/scroll-to-card.module.code.ts"
+} from "akasha/design/interfaces/layout/modules/scroll-to-card/scroll-to-card.module.code.ts"
 import {
   type Build,
   type ComboRankingsMap,

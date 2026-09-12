@@ -5,7 +5,7 @@ import { SCRIBING_GRIMOIRES_02 } from "akasha/temper/character-skills/modules/sc
 import { SCRIBING_GRIMOIRES_03 } from "akasha/temper/character-skills/modules/scribing-grimoires-03/scribing-grimoires-03.module.code.ts"
 import type { AffixScriptId } from "akasha/temper/skill-kinds/modules/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
 import type { FocusScriptId } from "akasha/temper/skill-kinds/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
-import type { SignatureScriptId } from "akasha/temper/skill-kinds/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
+import type { SignatureScriptId } from "akasha/temper/skill-kinds/modules/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
 import { createDataFile } from "akasha/utils/narrow/modules/create-data-file/create-data-file.module.code.ts"
 
 const GRIMOIRES_DATA = {

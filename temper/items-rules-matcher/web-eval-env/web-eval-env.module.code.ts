@@ -7,7 +7,7 @@ import {
   lookupKnownMotifChapters,
   type RuleMatcherContext,
 } from "akasha/temper/items-rules-core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
-import { TOTAL_SCRIPT_COUNT } from "akasha/temper/items-rules-core/scribing-total-script-count/scribing-total-script-count.module.code.ts"
+import { TOTAL_SCRIPT_COUNT } from "akasha/temper/items-rules-core/modules/scribing-total-script-count/scribing-total-script-count.module.code.ts"
 import type {
   EvalEnv,
   WantedEquipmentFacts,

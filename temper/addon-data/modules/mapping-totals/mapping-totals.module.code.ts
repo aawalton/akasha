@@ -22,7 +22,7 @@ import { weaponTraits } from "akasha/temper/equipment/weapon-traits/weapon-trait
 import { races } from "akasha/temper/races/modules/races/races.module.code.ts"
 import { affixScripts } from "akasha/temper/skill-kinds/modules/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
 import { focusScripts } from "akasha/temper/skill-kinds/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
-import { signatureScripts } from "akasha/temper/skill-kinds/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
+import { signatureScripts } from "akasha/temper/skill-kinds/modules/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
 
 export function buildMappingTotals(): Record<string, string> {
   return {

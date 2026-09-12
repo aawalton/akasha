@@ -4,7 +4,7 @@ import { ListContentSkeleton } from "akasha/design/interfaces/layout/modules/lis
 import { PageTabHeader } from "akasha/design/interfaces/layout/modules/page-tab-header/page-tab-header.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import { LayoutLink } from "akasha/design/interfaces/layout/modules/router-context/router-context.module.code.tsx"
-import { scrollToCard } from "akasha/design/interfaces/layout/scroll-to-card/scroll-to-card.module.code.ts"
+import { scrollToCard } from "akasha/design/interfaces/layout/modules/scroll-to-card/scroll-to-card.module.code.ts"
 import {
   Empty,
   EmptyContent,

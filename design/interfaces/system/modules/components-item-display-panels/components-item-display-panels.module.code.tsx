@@ -12,7 +12,7 @@ import { HorizontalScrollFade } from "akasha/design/interfaces/primitives/module
 import {
   ScrollArea,
   ScrollBar,
-} from "akasha/design/interfaces/primitives/scroll-area/scroll-area.module.code.tsx"
+} from "akasha/design/interfaces/primitives/modules/scroll-area/scroll-area.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useState } from "react"
 

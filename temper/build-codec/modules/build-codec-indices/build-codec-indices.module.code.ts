@@ -27,7 +27,7 @@ import { jewelrySlots } from "akasha/temper/equipment-kinds/modules/jewelry-slot
 import { races } from "akasha/temper/races/modules/races/races.module.code.ts"
 import { affixScripts } from "akasha/temper/skill-kinds/modules/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
 import { focusScripts } from "akasha/temper/skill-kinds/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
-import { signatureScripts } from "akasha/temper/skill-kinds/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
+import { signatureScripts } from "akasha/temper/skill-kinds/modules/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
 import { skillSlots } from "akasha/temper/skill-kinds/skill-slots/skill-slots.module.code.ts"
 import { skillLines } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
 import { bitsNeeded } from "akasha/utils/narrow/modules/bits-needed/bits-needed.module.code.ts"

@@ -2,7 +2,7 @@ import type { ScribedSkillId } from "akasha/temper/character-skills/modules/scri
 import type { GrimoireId } from "akasha/temper/character-skills/modules/scribing-grimoires/scribing-grimoires.module.code.ts"
 import type { AffixScriptId } from "akasha/temper/skill-kinds/modules/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
 import type { FocusScriptId } from "akasha/temper/skill-kinds/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
-import type { SignatureScriptId } from "akasha/temper/skill-kinds/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
+import type { SignatureScriptId } from "akasha/temper/skill-kinds/modules/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
 
 export interface ScribedSkill {
   skillId: ScribedSkillId

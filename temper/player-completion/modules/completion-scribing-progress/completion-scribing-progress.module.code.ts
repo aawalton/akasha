@@ -7,7 +7,7 @@ import type {
 } from "akasha/temper/player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
 import { affixScripts } from "akasha/temper/skill-kinds/modules/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
 import { focusScripts } from "akasha/temper/skill-kinds/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
-import { signatureScripts } from "akasha/temper/skill-kinds/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
+import { signatureScripts } from "akasha/temper/skill-kinds/modules/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
 
 export function transformScribingProgress(
   rows: readonly CompletionCharacterRow[]
