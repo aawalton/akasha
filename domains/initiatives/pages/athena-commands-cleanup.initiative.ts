@@ -23,5 +23,7 @@ export const athenaCommandsCleanup = {
     "A change is judged before the hold is taken, so a landing over hundreds of files costs collision surface rather than a hold on the swarm.",
     "A check blind to a class of file steers the swarm away from that class rather than leaving it undone, because agents work the refusals they can see.",
     "A namespace whose survey shows one or two stragglers usually holds a shared reader the survey cannot see, and the straggler is bait.",
+    "A module exporting flag constants puts those literals in every importer's reach, so a diff of reachable flags against a page is a worklist rather than findings.",
+    "A check that threw because a concurrent landing left a file momentarily empty is answered by running it again.",
   ],
 } as const satisfies Initiative
