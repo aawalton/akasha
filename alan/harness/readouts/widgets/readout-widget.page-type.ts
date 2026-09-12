@@ -77,6 +77,48 @@ export const readoutWidget = {
         "The name a placed tile is bound to cannot change without the tile falling off the phone.",
     },
     {
+      invariantKind: "constraint",
+      statement: "A tile is granted forty to seventy reloads a day.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "The reloads a tile is granted move with how often that tile is looked at.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "Each placed tile is granted reloads of its own rather than reloads an app shares out.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A tile's entries cost that tile nothing and its reloads alone are counted.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A tile is not reloaded twice inside five minutes however near its next entry is.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A reload asked for while the app is in front is not counted against the grant.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A tile asked to reload is not promised a reload.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A push reloading a tile is rationed apart from that tile's own reloads.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "Time is the only thing a tile redraws while nothing of the tile's is running.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "A tile under WidgetKit developer mode reloads at a rate the phone will not grant.",
+    },
+    {
       invariantKind: "departure",
       statement: "A widget's link names that widget in the link's fragment.",
     },
