@@ -14,14 +14,14 @@ import { terminatePriorAgentTree } from "akasha/agents/seats/modules/recovery/se
 import { resolveRelaunchTarget } from "akasha/agents/seats/modules/relaunch-target/seat-relaunch-target.module.code.ts"
 import { decideReviveLaunch } from "akasha/agents/seats/modules/revive-launch-decide/seat-revive-launch-decide.module.code.ts"
 import {
-  dataError,
-  operationalError,
-} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import {
   decideSpawnGuard,
   type SpawnGuardDecision,
   type SpawnGuardInput,
-} from "akasha/seat-system/spawn-guard/spawn-guard.module.code.ts"
+} from "akasha/agents/seats/modules/spawn-guard/spawn-guard.module.code.ts"
+import {
+  dataError,
+  operationalError,
+} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { clearRequestedAction } from "akasha/seat-system/supervising/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"
 import { SEAT_START_DIR } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
 
