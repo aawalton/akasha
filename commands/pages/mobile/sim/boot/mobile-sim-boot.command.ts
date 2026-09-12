@@ -6,6 +6,7 @@ export const mobileSimBoot = {
   slug: "mobile-sim-boot",
   definition: "the command booting a simulator and starting the Appium server it is driven through",
   code: "ts",
+  test: "ts",
   taking: [],
   invariants: [
     {
@@ -15,6 +16,18 @@ export const mobileSimBoot = {
     {
       invariantKind: "departure",
       statement: "An Appium server already up is left up.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An Appium server this started is named as soon as that server is up.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A boot that threw after starting Appium names that start in its refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The readiness, the starting and the booting are handed in.",
     },
     {
       invariantKind: "departure",
