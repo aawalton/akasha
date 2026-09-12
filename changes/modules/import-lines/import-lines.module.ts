@@ -66,6 +66,14 @@ export const importLines = {
       statement: "A line opening a body with no anchor is parted from that body by a blank line.",
     },
     {
+      invariantKind: "constraint",
+      statement: "A line spelling no path is refused rather than composed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An import from an empty path is whole syntax, so no parse catches it.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads the disk or the index.",
     },

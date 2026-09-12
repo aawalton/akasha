@@ -199,6 +199,22 @@ test("names taken out of one line together leave one passage rather than one for
   ])
 })
 
+test("a line spelling no path is refused rather than composed", () => {
+  expect(() => lineFor("one", "", false)).toThrow("spells no path")
+  expect(() => lineFor("Held", "   ", true)).toThrow("spells no path")
+  expect(() => everyFor("held", "")).toThrow("spells no path")
+  expect(() => linesOf([taking("one", "")])).toThrow("spells no path")
+  expect(() => linesOf([taking("held", "", false, true)])).toThrow("spells no path")
+})
+
+test("an import from an empty path is whole syntax, so no parse catches it", () => {
+  const said = 'import { one } from ""\n'
+
+  expect(
+    (parsedAs(AT, said) as { parseDiagnostics?: readonly unknown[] }).parseDiagnostics
+  ).toEqual([])
+})
+
 test("a body taking nothing from that path, or already naming it, is left whole", () => {
   const text = `${VALUES}\n`
   const source = parsedAs(AT, text)

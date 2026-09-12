@@ -85,11 +85,22 @@ export function everyIn(source: ts.SourceFile): ReadonlyMap<string, Carried> {
   return found
 }
 
+function assertSpelled(spelled: string): undefined {
+  if (spelled.trim() === "") {
+    throw new Error(
+      `import-lines: an import line spells no path — \`from ""\` is whole syntax naming no module, so it draws no parse fault and no import line is composed from it`
+    )
+  }
+  return undefined
+}
+
 export function lineFor(name: string, spelled: string, type: boolean): string {
+  assertSpelled(spelled)
   return `import ${type ? "type " : ""}{ ${name} } from ${JSON.stringify(spelled)}`
 }
 
 export function everyFor(name: string, spelled: string): string {
+  assertSpelled(spelled)
   return `import ${EVERY} as ${name} from ${JSON.stringify(spelled)}`
 }
 
@@ -113,6 +124,7 @@ export function linesOf(taking: readonly Taking[]): readonly string[] {
     else held.push(one)
   }
   for (const [from, held] of found) {
+    assertSpelled(from)
     const whole = held.every((one) => one.type)
     const names = held.map((one) => (whole || !one.type ? one.name : `type ${one.name}`))
     lines.push(`import ${whole ? "type " : ""}{ ${names.join(", ")} } from ${JSON.stringify(from)}`)
