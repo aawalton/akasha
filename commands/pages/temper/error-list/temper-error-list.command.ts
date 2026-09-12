@@ -7,7 +7,6 @@ export const temperErrorList = {
   definition: "the command naming the game's Lua errors the errors addon captured",
   code: "ts",
   taking: [
-    { said: "--include-stale", takes: "show the entries left behind by an older session too" },
     {
       said: "--stale-after-hours <n>",
       takes: "how far behind the log frontier an entry is before it counts as stale",
@@ -46,5 +45,9 @@ export const temperErrorList = {
     },
   ],
   name: "error-list",
-  arguments: [{ argument: "argument/json" }, { argument: "argument/errors-path" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/errors-path" },
+    { argument: "argument/include-stale" },
+  ],
 } as const satisfies Command
