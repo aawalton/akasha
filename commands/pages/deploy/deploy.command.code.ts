@@ -16,6 +16,7 @@ import {
   partWay,
   refused,
   refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -255,5 +256,5 @@ export async function deployHeld(
     ...recordedEnding(given.root, slug, read.pagePath),
   ]
   if (wrong.length > 0) return answeredWith(lines, wrong, OPERATIONAL)
-  return answeredWith([...lines, `recorded\t${slug}\t${commit}`], [], OK)
+  return told([...lines, `recorded\t${slug}\t${commit}`])
 }
