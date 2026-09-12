@@ -26,7 +26,7 @@ const PUT = "change-mechanical/add-file-code"
 
 const MESSAGE = "the chatter and interaction name registry, read out of the emitted declarations"
 
-export async function temperEsoGenerateChatterNames(
+export async function temperEsoGenerateChatterName(
   argv: readonly string[],
   given: Given
 ): Promise<Answer> {
