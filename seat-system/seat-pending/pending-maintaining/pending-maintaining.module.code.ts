@@ -1,11 +1,11 @@
 import { watch } from "node:fs"
 import { dirname, join } from "node:path"
 import { messagesDirRelPath } from "akasha/agents/messaging/message-file/message-file.module.code.ts"
+import { akashaSeatsDirIn } from "akasha/agents/seats/modules/page-akasha/seat-page-akasha.module.code.ts"
 import { leftWhereCodeMoved } from "akasha/infrastructure/services/workstations/code-moving/code-moving.module.code.ts"
 import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { akashaSeatsThatExist } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { akashaObservedOf } from "akasha/seat-system/seat-akasha-read/seat-akasha-read.module.code.ts"
-import { akashaSeatsDirIn } from "akasha/seat-system/seat-page-akasha/seat-page-akasha.module.code.ts"
 import {
   pendingFromFiles,
   type SeatPending,
