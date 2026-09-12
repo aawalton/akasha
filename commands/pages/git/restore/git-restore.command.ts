@@ -116,6 +116,10 @@ export const gitRestore = {
     },
     {
       invariantKind: "departure",
+      statement: "That refusal names each path put back before it stopped, not the report alone.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A path HEAD names and holds no body for is refused as the data's fault.",
     },
     {

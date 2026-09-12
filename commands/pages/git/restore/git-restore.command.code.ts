@@ -7,6 +7,7 @@ import {
   DATA,
   INPUT,
   OPERATIONAL,
+  partWay,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -240,6 +241,10 @@ export function pathsIn(root: string, named: readonly string[]): Wanted {
   return refusals.length > 0 ? { refusals } : { paths }
 }
 
+export function putBackSaid(one: Held): string {
+  return `${one.path} is the body HEAD holds again on disk`
+}
+
 function putBack(root: string, one: Held): undefined {
   const at = join(root, one.path)
   mkdirSync(dirname(at), { recursive: true })
@@ -343,11 +348,13 @@ export function gitRestore(argv: readonly string[], given: Given): Answer {
     }
     indexWritten(root, going, judged.cleared)
   } catch (why) {
+    const named = done.map(putBackSaid)
     return answeredWith(
-      done.map((one) => `${one.path} is the body HEAD holds again on disk`),
+      named,
       [
         `${given.calledAs} stopped part way, so the git index may still hold another body — ` +
           `${saidBy(why)}`,
+        ...partWay(named),
       ],
       OPERATIONAL
     )
