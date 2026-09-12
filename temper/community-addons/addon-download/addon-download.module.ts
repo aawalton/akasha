@@ -6,6 +6,7 @@ export const addonDownload = {
   slug: "addon-download",
   definition: "an ESOUI archive fetched, proved, unpacked and laid into the addons directory",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -26,6 +27,19 @@ export const addonDownload = {
     {
       invariantKind: "departure",
       statement: "The working directory is swept whether the install finished or threw.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A folder is named as soon as that folder is cleared and again once that folder is laid down.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An install that threw part way names those folders in its refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The clearing and the laying down are handed in.",
     },
   ],
 } as const satisfies Module

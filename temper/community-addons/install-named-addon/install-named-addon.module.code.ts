@@ -31,7 +31,8 @@ async function foldersThere(addonsPath: string): Promise<ReadonlySet<string>> {
 
 export async function installNamedAddon(
   name: string,
-  opts: InstallByNameOpts
+  opts: InstallByNameOpts,
+  done: string[] = []
 ): Promise<InstallByNameOutcome> {
   const entry = findCatalogEntryByName(await fetchCatalog(), name)
   if (entry === undefined) {
@@ -61,11 +62,11 @@ export async function installNamedAddon(
 
   await mkdir(opts.addonsPath, { recursive: true })
   const details = await fetchFileDetails(entry.uid)
-  const done = await downloadAndInstall(details, entry.dirs, opts.addonsPath)
-  if (done.installedDirs.length === 0) {
+  const laid = await downloadAndInstall(details, entry.dirs, opts.addonsPath, done)
+  if (laid.installedDirs.length === 0) {
     throw new OperationalError(
       `the ESOUI download for file ${entry.uid} carried none of ${entry.dirs.join(", ")}`
     )
   }
-  return { action: "installed", dirs: done.installedDirs, version: done.version }
+  return { action: "installed", dirs: laid.installedDirs, version: laid.version }
 }

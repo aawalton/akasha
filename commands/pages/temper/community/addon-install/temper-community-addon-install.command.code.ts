@@ -1,4 +1,6 @@
+import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import {
+  answering,
   INPUT,
   OK,
   OPERATIONAL,
@@ -45,45 +47,52 @@ export async function temperCommunityAddonInstall(argv: readonly string[] = []):
   const addonsPath = valuesOf(argv, ADDONS_DIR_FLAG)[0] ?? addonsDir()
   const repoRoot = valuesOf(argv, CODE_ROOT_FLAG)[0]
 
-  let outcome: Awaited<ReturnType<typeof installNamedAddon>>
-  try {
-    const owned = new Set(
-      listDeployables(repoRoot === undefined ? undefined : { repoRoot }).map((one) => one.name)
-    )
-    outcome = await installNamedAddon(name, {
-      addonsPath,
-      force: argv.includes(FORCE_FLAG),
-      ownedNames: owned,
-    })
-  } catch (thrown) {
-    return refused(`${name} was not installed: ${messageOf(thrown)}`, OPERATIONAL)
-  }
-
-  if (argv.includes(JSON_FLAG)) {
-    return {
-      report: JSON.stringify({ name, addonsDir: addonsPath, ...outcome }, null, SPACES).split("\n"),
-      refusals: [],
-      code: OK,
+  return await answering(async (done) => {
+    let outcome: Awaited<ReturnType<typeof installNamedAddon>>
+    try {
+      const owned = new Set(
+        listDeployables(repoRoot === undefined ? undefined : { repoRoot }).map((one) => one.name)
+      )
+      outcome = await installNamedAddon(
+        name,
+        { addonsPath, force: argv.includes(FORCE_FLAG), ownedNames: owned },
+        done
+      )
+    } catch (thrown) {
+      if (done.length === 0) {
+        return refused(`${name} was not installed: ${messageOf(thrown)}`, OPERATIONAL)
+      }
+      throw new OperationalError(`${name} was not installed whole: ${messageOf(thrown)}`)
     }
-  }
 
-  if (outcome.action === "skipped") {
+    if (argv.includes(JSON_FLAG)) {
+      return {
+        report: JSON.stringify({ name, addonsDir: addonsPath, ...outcome }, null, SPACES).split(
+          "\n"
+        ),
+        refusals: [],
+        code: OK,
+      }
+    }
+
+    if (outcome.action === "skipped") {
+      return {
+        report: [
+          `${name}\tskipped\t${outcome.dirs.join(",")}`,
+          `every folder it installs is already there, and ${FORCE_FLAG} installs it again`,
+        ],
+        refusals: [],
+        code: OK,
+      }
+    }
+
     return {
       report: [
-        `${name}\tskipped\t${outcome.dirs.join(",")}`,
-        `every folder it installs is already there, and ${FORCE_FLAG} installs it again`,
+        `${outcome.dirs.join(",")}\tinstalled\t${outcome.version}`,
+        `${String(outcome.dirs.length)} folder(s) into ${addonsPath}, unmanaged, so nothing keeps it up to date`,
       ],
       refusals: [],
       code: OK,
     }
-  }
-
-  return {
-    report: [
-      `${outcome.dirs.join(",")}\tinstalled\t${outcome.version}`,
-      `${String(outcome.dirs.length)} folder(s) into ${addonsPath}, unmanaged, so nothing keeps it up to date`,
-    ],
-    refusals: [],
-    code: OK,
-  }
+  })
 }

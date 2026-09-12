@@ -36,10 +36,53 @@ async function downloadProved(details: FileDetails, zipPath: string): Promise<vo
   await writeFile(zipPath, bytes)
 }
 
+export type Laying = {
+  readonly cleared: (at: string) => Promise<void>
+  readonly laid: (from: string, to: string) => Promise<void>
+}
+
+export const LAYING: Laying = {
+  cleared: async (at) => {
+    await rm(at, { recursive: true, force: true })
+  },
+  laid: async (from, to) => {
+    await cp(from, to, { recursive: true })
+  },
+}
+
+export function clearedSaid(dir: string, addonsPath: string): string {
+  return `${dir} was cleared from ${addonsPath}`
+}
+
+export function laidSaid(dir: string, addonsPath: string): string {
+  return `${dir} was laid into ${addonsPath}`
+}
+
+export async function layEach(
+  laying: readonly string[],
+  staging: string,
+  addonsPath: string,
+  lay: Laying,
+  done: string[]
+): Promise<readonly string[]> {
+  const installedDirs: string[] = []
+  for (const dir of laying) {
+    const target = join(addonsPath, dir)
+    await lay.cleared(target)
+    done.push(clearedSaid(dir, addonsPath))
+    await lay.laid(join(staging, dir), target)
+    done.push(laidSaid(dir, addonsPath))
+    installedDirs.push(dir)
+  }
+  return installedDirs
+}
+
 export async function downloadAndInstall(
   details: FileDetails,
   expectedDirs: readonly string[],
-  addonsPath: string
+  addonsPath: string,
+  done: string[] = [],
+  lay: Laying = LAYING
 ): Promise<InstallResult> {
   const work = await mkdtemp(join(SCRATCH_AT, "temper-addon-"))
   try {
@@ -56,13 +99,7 @@ export async function downloadAndInstall(
       .map((one) => one.name)
       .filter((name) => expected.has(name))
 
-    const installedDirs: string[] = []
-    for (const dir of laying) {
-      const target = join(addonsPath, dir)
-      await rm(target, { recursive: true, force: true })
-      await cp(join(staging, dir), target, { recursive: true })
-      installedDirs.push(dir)
-    }
+    const installedDirs = await layEach(laying, staging, addonsPath, lay, done)
     return { installedDirs, version: details.version }
   } finally {
     await rm(work, { recursive: true, force: true })
