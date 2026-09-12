@@ -11,7 +11,7 @@ export const temperInventoryItemRuleShow = {
     { said: "<id>", takes: "the id of the per-item rule given back" },
     { said: "--tsv", takes: "give one tab-separated row rather than JSON" },
   ],
-  helpNotes: ["an id no per-item rule carries is refused by that id."],
+
   invariants: [
     {
       invariantKind: "departure",
