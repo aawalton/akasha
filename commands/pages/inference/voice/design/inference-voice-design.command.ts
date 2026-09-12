@@ -23,13 +23,11 @@ export const inferenceVoiceDesign = {
     { said: "--output <path.wav>", takes: "where the WAV is written" },
     { said: "--no-persist", takes: "leave the audio where it was written and file no page for it" },
   ],
-  helpNotes: [
-    "both models raise without a description, so a call naming none is refused rather than passed on.",
-    "the language is sent to the backend that takes one, and the other takes accent and language inside the description.",
-    "the text is not cut into pieces, so a few sentences is what this is for.",
-    "the sampling the server is asked for is fixed here and recorded on the run row.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The sampling is fixed here and recorded on the run row.",
+    },
     {
       invariantKind: "departure",
       statement: "A call naming no description is refused.",
