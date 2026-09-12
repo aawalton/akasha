@@ -7,12 +7,7 @@ export const talosImageBuild = {
   definition: "the command registering one node's schematic with the Talos Image Factory",
   code: "ts",
   test: "ts",
-  taking: [
-    {
-      said: "--download <path>",
-      takes: "the file to fetch the installer ISO to once it is registered",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "absence",
@@ -73,5 +68,8 @@ export const talosImageBuild = {
     },
   ],
   name: "image-build",
-  arguments: [{ argument: "argument/node", required: true, saidAs: "flag-or-word" }],
+  arguments: [
+    { argument: "argument/node", required: true, saidAs: "flag-or-word" },
+    { argument: "argument/download" },
+  ],
 } as const satisfies Command
