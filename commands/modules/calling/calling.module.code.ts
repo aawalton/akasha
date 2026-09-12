@@ -114,7 +114,7 @@ export function answering(
 }
 
 export function refused(said: string, code: number): Answer {
-  return { report: [], refusals: [said], code }
+  return refusedBy([said], code)
 }
 
 export function commandSlugIn(root: string): string | null {
