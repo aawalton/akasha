@@ -78,7 +78,7 @@ const NOTHING_UP =
 
 export function stoppedPartWay(up: readonly string[]): string {
   if (up.length === 0) return NOTHING_UP
-  return `the deploy stopped part way, and what it put up at this commit is ${up.join(", ")}, and nothing after that`
+  return `the deploy stopped part way. What it put up at this commit is ${up.join("; ")}. Nothing after that is up.`
 }
 
 export const PINNED: ReadonlySet<string> = new Set([

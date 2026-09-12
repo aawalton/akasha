@@ -174,6 +174,6 @@ test("a deploy that threw before anything reached a machine says that rather tha
 })
 
 test("what a deploy put up is named in the refusal rather than counted", () => {
-  expect(stoppedPartWay(["one", "two"])).toContain("one, two")
+  expect(stoppedPartWay(["one", "two"])).toContain("one; two")
   expect(stoppedPartWay([])).not.toContain("what it put up")
 })
