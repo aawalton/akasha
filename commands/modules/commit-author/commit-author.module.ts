@@ -43,5 +43,17 @@ export const commitAuthor = {
       invariantKind: "departure",
       statement: "The author is worked out once per process and held.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A commit names the persona of the seat that wrote that commit as the author.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A writer the environment names is the author over the persona.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A writer named as nothing is no writer named.",
+    },
   ],
 } as const satisfies Module

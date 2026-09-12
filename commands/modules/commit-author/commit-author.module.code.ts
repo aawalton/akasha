@@ -11,6 +11,8 @@ const PERSONA_SLUG_PROPERTY = "seat-persona"
 
 export const CLAUDE_AUTHOR = "Claude <noreply@anthropic.com>"
 
+export const WRITER_NAMED = "AKASHA_WRITER"
+
 function personaOf(writer: string): string | null {
   return pageTextOf(writer, PERSONA_SLUG_KEY)
 }
@@ -50,6 +52,11 @@ export function commitAuthor(
   }
   answered = found
   return found
+}
+
+export function authorIn(env: Readonly<Record<string, string | undefined>> = process.env): string {
+  const said = env[WRITER_NAMED]
+  return said === undefined || said === "" ? commitAuthor(env) : said
 }
 
 export function forgetCommitAuthor(): undefined {

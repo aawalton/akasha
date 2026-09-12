@@ -5,7 +5,7 @@ import { writerIn } from "akasha/agents/read-record/read-record.module.code.ts"
 import { UNCLASSIFIED } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Outside } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { calling } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { commitAuthor } from "akasha/commands/modules/commit-author/commit-author.module.code.ts"
+import { authorIn } from "akasha/commands/modules/commit-author/commit-author.module.code.ts"
 import { rootIn } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
@@ -20,12 +20,11 @@ export function outsideOf(
   at: string,
   from: string
 ): Outside {
-  const said = env["AKASHA_WRITER"]
   return {
     root: rootIn(env, at),
     calledAs: "akasha",
     from,
-    writer: said === undefined || said === "" ? commitAuthor(env) : said,
+    writer: authorIn(env),
     agentId: writerIn(env),
   }
 }
