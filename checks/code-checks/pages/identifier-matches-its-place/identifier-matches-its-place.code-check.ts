@@ -164,6 +164,14 @@ export const identifierMatchesItsPlace = {
       statement:
         "A parameter opening with an underscore is passed over where the body does not read the parameter.",
     },
+    {
+      invariantKind: "gap",
+      statement: "A name another writer fixed outside akasha is passed over.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A function spelled as the `luaExport` its page states is passed over.",
+    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
