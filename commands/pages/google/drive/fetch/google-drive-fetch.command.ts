@@ -4,7 +4,8 @@ export const googleDriveFetch = {
   id: "01a08cdb-485a-7511-90c8-8b12ad2e1662",
   type: "command",
   slug: "google-drive-fetch",
-  definition: "one file written out of Alan's Google Drive to disk under its Drive name",
+  definition:
+    "the command writing one file out of Alan's Google Drive to disk under its Drive name",
   code: "ts",
   test: "ts",
   changeKind: "change-mechanical",

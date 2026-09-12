@@ -4,7 +4,7 @@ export const icloudFetch = {
   id: "01a08cf8-d3c1-744e-a8e9-70301b272c28",
   type: "command",
   slug: "icloud-fetch",
-  definition: "the act writing every photo an iCloud shared album holds to disk",
+  definition: "the command writing every photo an iCloud shared album holds to disk",
   code: "ts",
   test: "ts",
   changeKind: "change-none",

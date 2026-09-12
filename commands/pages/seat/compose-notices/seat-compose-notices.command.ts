@@ -4,7 +4,8 @@ export const seatComposeNotices = {
   id: "01a0693b-42f9-7c87-95fd-2c7147ecd1f2",
   type: "command",
   slug: "seat-compose-notices",
-  definition: "what a seat is told when it is put back to work, as one JSON object",
+  definition:
+    "the command answering what a seat is told when it is put back to work, as one JSON object",
   code: "ts",
   test: "ts",
   changeKind: "change-mechanical",

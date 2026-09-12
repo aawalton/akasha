@@ -4,7 +4,7 @@ export const infrastructureLoki = {
   id: "01a06809-250b-7ab3-b9ac-5e00cfbba4ec",
   type: "command",
   slug: "infrastructure-loki",
-  definition: "the log lines Loki has for a pod, newest first",
+  definition: "the command answering the log lines Loki has for a pod, newest first",
   code: "ts",
   test: "ts",
   changeKind: "change-none",

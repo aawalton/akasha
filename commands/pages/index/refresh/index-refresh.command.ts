@@ -4,7 +4,7 @@ export const indexRefresh = {
   id: "01a04de1-13fa-7331-979e-d443758eefad",
   type: "command",
   slug: "index-refresh",
-  definition: "the index repaired against the pages of the repository as it is",
+  definition: "the command repairing the index against the pages the repository has",
   code: "ts",
   test: "ts",
   changeKind: "change-none",

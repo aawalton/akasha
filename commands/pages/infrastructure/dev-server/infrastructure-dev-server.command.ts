@@ -4,7 +4,8 @@ export const infrastructureDevServer = {
   id: "01a06809-250b-78b0-b853-abd5d686eb05",
   type: "command",
   slug: "infrastructure-dev-server",
-  definition: "a React Router dev server run detached for one app in a branch's worktree",
+  definition:
+    "the command starting, stopping and reading one app's dev server in a branch's worktree",
   code: "ts",
   test: "ts",
   changeKind: "change-mechanical",
