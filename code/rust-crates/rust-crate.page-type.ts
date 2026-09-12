@@ -7,9 +7,9 @@ export const rustCrate = {
   definition: "one thing Cargo builds",
   pluralSlug: "rust-crates",
   parts: [
-    "file-property/crate-icon",
     "code-file-property/cargo-build-script",
     "file-property/cargo-manifest",
+    "file-property/crate-icon",
     "relation-property/rust-modules",
   ],
   extends: ["page-type/domain"],

@@ -7,6 +7,7 @@ export const workspace = {
   definition: "the tree a package manager installs every package in at once",
   pluralSlug: "workspaces",
   parts: [
+    "build-folder-property/package-directory",
     "file-property/biome-config",
     "file-property/bun-config",
     "file-property/docker-ignore",
@@ -16,7 +17,6 @@ export const workspace = {
     "file-property/typescript-build-info",
     "file-property/workspace-git-ignore",
     "file-property/workspace-manifest",
-    "build-folder-property/package-directory",
     "module/manifest-locking",
     "text-property/tool-reached",
   ],

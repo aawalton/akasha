@@ -8,9 +8,9 @@ export const initiative = {
   pluralSlug: "initiatives",
   parts: [
     "record-property/intents",
-    "relation-property/initiative-persona",
     "relation-property/initiative",
     "relation-property/initiative-parent",
+    "relation-property/initiative-persona",
     "standard-agent-english-property/constraints",
     "standard-agent-english-property/intent-statement",
     "text-property/working-memory",

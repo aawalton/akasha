@@ -10,9 +10,9 @@ export const masteryLevel = {
   parts: [
     "mastery-level/doctor",
     "mastery-level/novice",
-    "mastery-level/reader",
     "mastery-level/expert",
     "mastery-level/master",
+    "mastery-level/reader",
     "mastery-level/sage",
     "mastery-level/scholar",
     "mastery-level/student",

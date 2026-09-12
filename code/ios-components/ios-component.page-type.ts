@@ -7,6 +7,7 @@ export const iosComponent = {
   definition: "code an iOS app is built from",
   pluralSlug: "ios-components",
   parts: [
+    "code-file-property/swift",
     "ios-component/alanwalton-attribute-stoplights-widget",
     "ios-component/alanwalton-categorize-widget",
     "ios-component/alanwalton-claude-usage-payload",
@@ -39,7 +40,6 @@ export const iosComponent = {
     "ios-component/surplus-ring",
     "ios-component/tier",
     "ios-component/timeline-checks",
-    "code-file-property/swift",
   ],
   extends: ["page-type/domain"],
   properties: [{ pageProperty: "code-file-property/swift", required: true, many: false }],

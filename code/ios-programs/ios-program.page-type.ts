@@ -7,6 +7,7 @@ export const iosProgram = {
   definition: "one thing an iOS package builds",
   pluralSlug: "ios-programs",
   parts: [
+    "code-file-property/main",
     "file-property/entitlements",
     "file-property/info-plist",
     "ios-program/alanwalton-app",
@@ -15,7 +16,6 @@ export const iosProgram = {
     "ios-program/smilingjenny-app",
     "ios-program/smilingjenny-decode-harness",
     "ios-program/smilingjenny-widget",
-    "code-file-property/main",
     "relation-property/components",
     "text-property/profile-name",
     "text-property/target-name",

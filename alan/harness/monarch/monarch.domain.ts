@@ -8,7 +8,6 @@ export const monarch = {
     "the outside service that gathers every account Alan has into one picture of his money",
   parts: [
     "module/monarch-syncing",
-    "module/transaction-polling",
     "domain/monarch-eval",
     "module/monarch-agree",
     "module/monarch-agreement",
@@ -55,6 +54,7 @@ export const monarch = {
     "module/monarch-sync",
     "module/monarch-transaction",
     "module/monarch-transaction-create",
+    "module/transaction-polling",
     "page-type/category-rule",
     "page-type/monarch-account",
     "page-type/monarch-category",

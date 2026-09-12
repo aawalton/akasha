@@ -7,11 +7,11 @@ export const module = {
   definition: "code reached by importing it",
   pluralSlug: "modules",
   parts: [
+    "boolean-property/answers-a-checkout-root",
     "code-file-property/code",
-    "file-property/module-types",
     "code-file-property/test",
     "code-file-property/test-fixtures",
-    "boolean-property/answers-a-checkout-root",
+    "file-property/module-types",
     "text-property/page-body-readers",
   ],
   extends: ["page-type/domain"],

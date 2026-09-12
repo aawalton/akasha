@@ -8,9 +8,9 @@ export const typeDeclaration = {
   pluralSlug: "type-declarations",
   parts: [
     "file-property/ambient-types",
+    "number-property/source-version",
     "record-property/generated",
     "text-property/written-by",
-    "number-property/source-version",
   ],
   extends: ["page-type/domain"],
   properties: [

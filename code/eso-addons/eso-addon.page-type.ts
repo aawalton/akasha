@@ -7,8 +7,8 @@ export const esoAddon = {
   definition: "one thing the game loads out of its AddOns folder",
   pluralSlug: "eso-addons",
   parts: [
-    "file-property/addon-manifest",
     "file-property/addon-git-ignore",
+    "file-property/addon-manifest",
     "file-property/bindings",
     "file-property/sibling-manifest",
     "named-extension-property/addon-dds-file",

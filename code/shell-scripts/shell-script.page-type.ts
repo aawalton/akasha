@@ -9,12 +9,12 @@ export const shellScript = {
   parts: [
     "boolean-property/sourced",
     "code-file-property/shell",
+    "module-property-group/scripting",
+    "service-workstation/repos-empty-dir-purge",
     "shell-script/bash-call-weighing",
     "shell-script/bash-env",
     "shell-script/repos-empty-dir-purge",
     "shell-script/statusline",
-    "service-workstation/repos-empty-dir-purge",
-    "module-property-group/scripting",
   ],
   extends: ["page-type/domain"],
   properties: [

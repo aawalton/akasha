@@ -23,7 +23,6 @@ export const alanWeb = {
   parts: [
     "app-routes/alan-web-routes",
     "manifest/alanwalton-web",
-    "stylesheet/alan-web-look",
     "module/active-boosts",
     "module/alan-answer-page-types",
     "module/alan-answer-page-write",
@@ -149,6 +148,7 @@ export const alanWeb = {
     "module/use-next-unread",
     "module/use-reader-active-marks",
     "module/widget-tap-answering",
+    "stylesheet/alan-web-look",
     "stylesheet/idle-look",
     "stylesheet/reveal-host-look",
   ],

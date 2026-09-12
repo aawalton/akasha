@@ -10,9 +10,9 @@ export const changeMechanicalFile = {
   parts: [
     "domain/change-mechanical-file-add",
     "domain/change-mechanical-file-add-if-not-present",
+    "domain/change-mechanical-file-divide",
     "domain/change-mechanical-file-move",
     "domain/change-mechanical-file-remove",
-    "domain/change-mechanical-file-divide",
     "domain/change-mechanical-file-rename",
   ],
   properties: [
