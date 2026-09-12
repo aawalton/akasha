@@ -1,3 +1,4 @@
+import { recordToAgent } from "akasha/agents/messaging/agent-record/agent-record.module.code.ts"
 import { mailbox } from "akasha/alan/google/email/gmail-mailbox/gmail-mailbox.module.code.ts"
 import {
   markTold,
@@ -9,7 +10,6 @@ import {
   stopsOnSignal,
 } from "akasha/infrastructure/services/workstations/tick-sleeping/tick-sleeping.module.code.ts"
 import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { recordToAgent } from "akasha/seat-system/agent-record/agent-record.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 const PERSON = optionalEnv("EMAIL_WORKER_PERSON") ?? "alan"
