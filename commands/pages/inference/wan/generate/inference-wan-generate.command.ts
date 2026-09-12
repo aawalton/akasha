@@ -25,15 +25,6 @@ export const inferenceWanGenerate = {
     { said: "--output <path>", takes: "where the mp4 is written" },
     { said: "--timeout <s>", takes: "how many seconds the wait on ComfyUI runs for" },
   ],
-  helpNotes: [
-    "this is said with flags alone.",
-    "given both conditioning images the model interpolates first to last; given the last alone, it makes the lead-in that lands on it.",
-    "a seed nothing named is drawn and recorded with the run, and the whole recipe this ran under is kept as an inference run.",
-    "the lightning pair renders in four steps for iteration, and a keeper is rendered again at full steps.",
-    "a path said here is read against the repository root rather than the folder the call was made from.",
-    "the port ComfyUI answers on is `WAN_PORT` and the host data directory is `WAN_HOME`.",
-    "the container is up and the weights are provisioned before this reaches the GPU.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -42,6 +33,10 @@ export const inferenceWanGenerate = {
     {
       invariantKind: "departure",
       statement: "A flag this does not take is refused rather than passed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Naming both frames has the model interpolate the first frame to the last.",
     },
     {
       invariantKind: "departure",
