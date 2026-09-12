@@ -7,7 +7,7 @@ export const seatMessaged = {
   definition: "the command counting a message Alan wrote to the persona at a seat",
   code: "ts",
   test: "ts",
-  taking: [{ said: "<name>", takes: "the seat Alan wrote to" }],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -60,4 +60,5 @@ export const seatMessaged = {
     },
   ],
   name: "messaged",
+  arguments: [{ argument: "argument/seat", required: true, saidAs: "word" }],
 } as const satisfies Command

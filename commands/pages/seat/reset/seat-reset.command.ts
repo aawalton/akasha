@@ -7,7 +7,7 @@ export const seatReset = {
   definition: "the command sitting a new agent down under everything a seat already states",
   code: "ts",
   test: "ts",
-  taking: [{ said: "<name>", takes: "the seat to reset, named as that seat's page is named" }],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -35,4 +35,5 @@ export const seatReset = {
     },
   ],
   name: "reset",
+  arguments: [{ argument: "argument/seat", required: true, saidAs: "word" }],
 } as const satisfies Command

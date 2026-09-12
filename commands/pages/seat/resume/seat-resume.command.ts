@@ -8,7 +8,6 @@ export const seatResume = {
   code: "ts",
   test: "ts",
   taking: [
-    { said: "<name>", takes: "the seat to resume, named as that seat's page is named" },
     {
       said: "--prompt <text>",
       takes: "the first turn a resumed seat takes up, where it was stopped",
@@ -41,4 +40,5 @@ export const seatResume = {
     },
   ],
   name: "resume",
+  arguments: [{ argument: "argument/seat", required: true, saidAs: "word" }],
 } as const satisfies Command
