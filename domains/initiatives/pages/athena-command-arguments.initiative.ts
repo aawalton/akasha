@@ -22,7 +22,7 @@ export const athenaCommandArguments = {
       statement:
         "One reader reads every command's arguments from the pages, refusing what no page names.",
       workingMemory:
-        "`takenFor` is the one reader, and both of the check's blind spots are mended at `3ae22245d60`: it judges module code under `commands/pages` and follows a call one file on. That took 79 refusals over 39 files to 188 over 56, and the swarm has since brought it to 123 over 40. It still sees only `*.command.code.ts`, so a shared reader outside the tree it serves stays invisible, as `parse-args` is to `seat-system`. `experimental: true` means it binds nobody.\n",
+        "`takenFor` is the one reader, and the check's first two blind spots are mended at `3ae22245d60`: it judges module code under `commands/pages` and follows a call one file on. 79 refusals over 39 files became 188 over 56, and the swarm has brought it to 76 over 31 at `fee5097a1c62`. Two holes are left: a reader outside the tree it serves, as `parse-args` is to `seat-system`, and a dynamic `await import()`, which hides a handoff wherever the reader lives.\n",
     },
     {
       statement:
