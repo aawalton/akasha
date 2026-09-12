@@ -33,7 +33,7 @@ export const temperCatalogInvalidate = {
   arguments: [
     { argument: "argument/json" },
     { argument: "argument/side-file" },
-    { argument: "argument/domain" },
     { argument: "argument/all", notWith: ["argument/domain"] },
+    { argument: "argument/domain", repeats: true },
   ],
 } as const satisfies Command

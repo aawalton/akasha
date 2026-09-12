@@ -8,5 +8,4 @@ export const domain = {
   takes: "a catalog domain to collect again, said once per domain",
   value: "text",
   placeholder: "name",
-  repeats: true,
 } as const satisfies Argument
