@@ -3,7 +3,11 @@ import {
   type Topic,
   topicTreeIn,
 } from "akasha/alan/library/book-of-everything/topic-tree/topic-tree.module.code.ts"
-import { DATA, INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  DATA,
+  INPUT,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 
@@ -72,11 +76,9 @@ export function measureLearning(argv: readonly string[], given: Given): Answer {
   }
   const parts = tree.children.map(readingOf)
   const whole = readingOf(tree)
-  return {
-    report: argv.includes(JSON_SAID)
+  return told(
+    argv.includes(JSON_SAID)
       ? [JSON.stringify({ scale: SCALE, parts, whole })]
-      : [...saidOf(parts, whole)],
-    refusals: [],
-    code: OK,
-  }
+      : [...saidOf(parts, whole)]
+  )
 }
