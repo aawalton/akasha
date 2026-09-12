@@ -76,6 +76,14 @@ export const runRelaying = {
     },
     {
       invariantKind: "departure",
+      statement: "That throw says the run the server was sent may already have been made.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller may open the channel without sending a run over it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The seconds every relayed run burned are kept for this process to read back.",
     },
     {

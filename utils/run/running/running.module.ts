@@ -189,6 +189,18 @@ export const running = {
     },
     {
       invariantKind: "departure",
+      statement: "Whether the relay will start is settled before a run is sent rather than after.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A run the relay answered on is never made a second time here.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A raise the relay sends back says nothing of whether the run was made.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A relayed run goes to a server outliving the run but not the process that started the server.",
     },

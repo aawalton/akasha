@@ -23,6 +23,8 @@ const CODE = "code"
 
 const TS = "ts"
 
+const MAY_HAVE_RUN = "the relay answered this run, so the run may already have been made"
+
 const libc = dlopen(resolveMappedLibc(), {
   pipe2: { args: [FFIType.ptr, FFIType.i32], returns: FFIType.i32 },
 }).symbols
@@ -192,6 +194,16 @@ function lostOn(raised: unknown): Held {
   }
 }
 
+export function relayOpened(): boolean {
+  if (channel !== null) return true
+  try {
+    channel = started()
+    return true
+  } catch {
+    return false
+  }
+}
+
 export function relayed(argv: readonly string[], asked: Asked = {}): Held {
   channel ??= started()
   const open = channel
@@ -206,7 +218,7 @@ export function relayed(argv: readonly string[], asked: Asked = {}): Held {
   }
   const said = answered.head as Answer
   spent += said.cpuSeconds
-  if (said.threw !== null) throw new Error(said.threw)
+  if (said.threw !== null) throw new Error(`${said.threw} — ${MAY_HAVE_RUN}`)
   return {
     code: said.code,
     signal: said.signal,

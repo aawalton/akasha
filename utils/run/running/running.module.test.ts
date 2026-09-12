@@ -19,6 +19,8 @@ const CLEAN = { ...process.env, [SERVING_MARKER]: undefined }
 
 const MARKED = { ...process.env, [SERVING_MARKER]: "1" }
 
+const WHERE = ["sh", "-c", `printf %s "$${SERVING_MARKER}"`]
+
 const SEEING = `
 function servers() {
   const own = String(process.pid)
@@ -258,11 +260,20 @@ test("a process marked as the server itself makes every run here and starts no s
   expect(childSaying(AFTER_COSTLY, MARKED)).toBe("said hi 0\nservers 0")
 })
 
-test("a run the server raises on is made here rather than answered as a run", () => {
+test("a run the server raises on is raised rather than made a second time here", () => {
   const body =
     `bytes(${JSON.stringify(COSTLY)})\n` +
     'try { bytes(["no-such-program-on-any-path"]) } catch { console.log("raised") }\n' +
-    'const done = bytes(["printf", "hi"])\n' +
-    'console.log("said " + new TextDecoder().decode(done.out) + " " + String(done.code))\n'
-  expect(childSaying(body)).toBe("raised\nsaid hi 0\nservers 1")
+    `const done = bytes(${JSON.stringify(WHERE)})\n` +
+    'console.log("where " + new TextDecoder().decode(done.out))\n'
+  expect(childSaying(body)).toBe("raised\nwhere 1\nservers 1")
+})
+
+test("a raise the server sends back says the run may already have been made", () => {
+  const body =
+    `bytes(${JSON.stringify(COSTLY)})\n` +
+    'try { bytes(["no-such-program-on-any-path"]) } catch (raised) {\n' +
+    '  console.log("why " + String(raised.message.includes("may already have been made")))\n' +
+    "}\n"
+  expect(childSaying(body)).toBe("why true\nservers 1")
 })

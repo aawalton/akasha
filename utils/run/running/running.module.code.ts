@@ -3,6 +3,7 @@ import { dirname, join } from "node:path"
 import {
   parseServingMarker,
   relayed,
+  relayOpened,
   SERVING_MARKER,
 } from "akasha/utils/run/run-relaying/run-relaying.module.code.ts"
 
@@ -181,12 +182,9 @@ let measured = false
 
 export function bytes(argv: readonly string[], asked: Asked = {}): Held {
   if (relaying) {
-    try {
-      return relayed(argv, asked)
-    } catch {
-      relaying = false
-      return spawnedHere(argv, asked)
-    }
+    if (relayOpened()) return relayed(argv, asked)
+    relaying = false
+    return spawnedHere(argv, asked)
   }
   const done = spawnedHere(argv, asked)
   if (!measured && asked.cpuCeiling === undefined) {
