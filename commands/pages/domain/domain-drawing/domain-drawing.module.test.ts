@@ -8,7 +8,7 @@ import {
   heldBy,
   kindsUnderDomain,
   treeLines,
-} from "akasha/commands/pages/domain/dag/domain-drawing/domain-drawing.module.code.ts"
+} from "akasha/commands/pages/domain/domain-drawing/domain-drawing.module.code.ts"
 import {
   listedFiled,
   valueAlsoFiled,

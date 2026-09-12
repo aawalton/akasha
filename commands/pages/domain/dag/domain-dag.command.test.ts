@@ -6,7 +6,6 @@ import {
   readIn,
   UP,
 } from "akasha/commands/pages/domain/dag/domain-dag.command.code.ts"
-import { domainDag } from "akasha/commands/pages/domain/dag/domain-dag.command.ts"
 
 function refusalsOf(argv: readonly string[]): readonly string[] {
   const read = readIn(argv)
@@ -50,8 +49,4 @@ test("--domain and --up are each repeatable", () => {
   const wanted = wantedOf([AT_DOMAIN, "one", AT_DOMAIN, "two", UP, "three"])
   expect(wanted.rooted).toEqual(["one", "two"])
   expect(wanted.above).toEqual(["three"])
-})
-
-test("the page names the module it draws with", () => {
-  expect(domainDag.parts).toContain("module/domain-drawing")
 })

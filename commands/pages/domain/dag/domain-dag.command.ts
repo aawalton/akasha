@@ -7,7 +7,7 @@ export const domainDag = {
   definition: "the command drawing the domain tree, each domain under the domain with it",
   code: "ts",
   test: "ts",
-  parts: ["module/domain-drawing"],
+  parts: [],
   taking: [
     { said: "--domain <slug>", takes: "the domain to root the tree at instead of at its roots" },
     { said: "--up <slug>", takes: "the domain to draw ABOVE instead of below, up to the roots" },

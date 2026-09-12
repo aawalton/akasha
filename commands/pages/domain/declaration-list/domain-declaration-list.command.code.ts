@@ -5,7 +5,7 @@ import { answeredBy } from "akasha/commands/modules/report-answering/report-answ
 import {
   declarationLines,
   SUBJECTS,
-} from "akasha/commands/pages/domain/dag/domain-drawing/domain-drawing.module.code.ts"
+} from "akasha/commands/pages/domain/domain-drawing/domain-drawing.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 export const SUBJECT = "--subject"
