@@ -22,7 +22,7 @@ export interface SubpageSpec {
 
 const MAX_SUBPAGES = 100
 
-export function computeSubpageSpecs({
+function computeSubpageSpecs({
   pageTypePropertiesMap,
   pageTypeSlugById,
 }: {
@@ -44,7 +44,7 @@ export function computeSubpageSpecs({
   return out
 }
 
-export function subpageWhere(spec: SubpageSpec, pageId: string): PageWhere {
+function subpageWhere(spec: SubpageSpec, pageId: string): PageWhere {
   return spec.kind === "multi-relation"
     ? [{ key: spec.propertyId, includes: pageId }]
     : [{ key: spec.propertyId, eq: pageId }]

@@ -3,7 +3,7 @@ import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.c
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
-export const SUBAGENT = "subagent"
+const SUBAGENT = "subagent"
 
 const PAGE_TYPE = "page-type"
 
@@ -21,7 +21,7 @@ const KEYS: readonly string[] = [
   "agentId",
 ]
 
-export function typedFrom(root: string): string {
+function typedFrom(root: string): string {
   const page = listedAt(root, PAGE_TYPE, SUBAGENT)[0]
   const at = page === undefined ? null : besideAt(page.path, TYPES, TS)
   if (at === null) throw new Error(`no \`${PAGE_TYPE}\` is slugged \`${SUBAGENT}\``)

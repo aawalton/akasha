@@ -1,4 +1,4 @@
-export function isWebKit(userAgent: string): boolean {
+function isWebKit(userAgent: string): boolean {
   if (!/AppleWebKit/.test(userAgent)) return false
   if (/Chrom(e|ium)\/|Edg\/|OPR\/|SamsungBrowser\//.test(userAgent)) return false
   return /Safari\/|Mobile\/|Version\//.test(userAgent)

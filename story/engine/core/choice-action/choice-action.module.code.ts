@@ -1,6 +1,6 @@
 import { z } from "zod"
 
-export const PlayerChoiceActionSchema = z
+const PlayerChoiceActionSchema = z
   .object({
     windowId: z.string().min(1),
     choiceId: z.string().min(1),

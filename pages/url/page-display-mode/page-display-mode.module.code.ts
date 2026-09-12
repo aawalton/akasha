@@ -1,5 +1,5 @@
 export const DISPLAY_PARAM = "display"
-export const DISPLAY_PROPERTIES = "properties"
+const DISPLAY_PROPERTIES = "properties"
 
 export type PageDisplayMode = "page" | "properties"
 

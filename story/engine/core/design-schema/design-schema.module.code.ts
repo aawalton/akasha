@@ -1,14 +1,14 @@
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { z } from "zod"
 
-export const DESIGN_KINDS = ["companion-design", "floor-design", "world-logic"] as const
+const DESIGN_KINDS = ["companion-design", "floor-design", "world-logic"] as const
 export type DesignKind = (typeof DESIGN_KINDS)[number]
 
 export function isDesignKind(s: string): s is DesignKind {
   return DESIGN_KINDS.some((k) => k === s)
 }
 
-export const EnemyDesignSchema = z
+const EnemyDesignSchema = z
   .object({
     name: z.string().min(1),
     role: z.string().min(1).optional(),
@@ -17,7 +17,7 @@ export const EnemyDesignSchema = z
   .strict()
 export type EnemyDesign = z.infer<typeof EnemyDesignSchema>
 
-export const ItemDesignSchema = z
+const ItemDesignSchema = z
   .object({
     name: z.string().min(1),
     effect: z.string().min(1).optional(),
@@ -26,7 +26,7 @@ export const ItemDesignSchema = z
   .strict()
 export type ItemDesign = z.infer<typeof ItemDesignSchema>
 
-export const ClueDesignSchema = z
+const ClueDesignSchema = z
   .object({
     component: z.string().min(1),
     dealSite: z.string().min(1),
@@ -79,7 +79,7 @@ export const DesignContentSchema = z
   })
 export type DesignContent = z.infer<typeof DesignContentSchema>
 
-export const DesignEntryInputSchema = z
+const DesignEntryInputSchema = z
   .object({
     externalId: z.string().min(1),
     subjectKey: z.string().min(1),

@@ -1,10 +1,10 @@
-export const WORDS_PER_MINUTE = 250
+const WORDS_PER_MINUTE = 250
 
-export function wordsToMinutes(words: number): number {
+function wordsToMinutes(words: number): number {
   return Math.round(words / WORDS_PER_MINUTE)
 }
 
-export function formatDuration(minutes: number): string {
+function formatDuration(minutes: number): string {
   if (minutes < 60) return `${minutes}m`
   const hours = (minutes / 60).toFixed(1).replace(/\.0$/, "")
   return `${hours}h`

@@ -13,14 +13,14 @@ export function rng(seed: number): () => number {
   }
 }
 
-export function roll2d10(next: () => number): Roll {
+function roll2d10(next: () => number): Roll {
   const d1 = 1 + Math.floor(next() * 10)
   const d2 = 1 + Math.floor(next() * 10)
   const total = d1 + d2
   return { mode: "2d10", dice: [d1, d2], total, crit: total === 20, fumble: total === 2 }
 }
 
-export function roll1d20(next: () => number): Roll {
+function roll1d20(next: () => number): Roll {
   const d = 1 + Math.floor(next() * 20)
   return { mode: "1d20", dice: [d], total: d, crit: d === 20, fumble: d === 1 }
 }

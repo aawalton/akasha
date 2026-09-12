@@ -4,7 +4,7 @@ import {
 } from "akasha/seat-system/supervising/supervisor-remote-control-decide/supervisor-remote-control-decide.module.code.ts"
 import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 
-export const UNCLAIMED_SEAT = "unclaimed"
+const UNCLAIMED_SEAT = "unclaimed"
 
 export function seatLabel(agentId: string | null): string {
   return agentId ?? UNCLAIMED_SEAT

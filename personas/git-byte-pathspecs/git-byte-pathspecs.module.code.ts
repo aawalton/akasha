@@ -1,5 +1,5 @@
 export const AWEN_ENGINE_PREFIX = "packages/alanwalton/awen/"
-export const ASTRA_PAGES_PREFIX = "packages/shared/pages/"
+const ASTRA_PAGES_PREFIX = "packages/shared/pages/"
 export const ATHENA_AGENTS_PREFIX = "packages/agents/"
 
 const CODE_EXTENSIONS = ["ts", "tsx"] as const

@@ -9,19 +9,19 @@ import type { Shape } from "akasha/utils/narrow/shape-core/shape-core.module.cod
 
 export const AGENT_SENDER_PREFIX = "agent:"
 
-export const PAGE_CHAT_SOURCE = "page-chat"
+const PAGE_CHAT_SOURCE = "page-chat"
 
-export const QUESTION_ANSWER_SOURCE = "question-answer"
+const QUESTION_ANSWER_SOURCE = "question-answer"
 
-export const QUESTION_DISMISS_SOURCE = "question-dismiss"
+const QUESTION_DISMISS_SOURCE = "question-dismiss"
 
-export const SMS_SOURCE_PREFIX = "sms:"
+const SMS_SOURCE_PREFIX = "sms:"
 
 export function smsWakeSource(handlerSeat: string): string {
   return `${SMS_SOURCE_PREFIX}${handlerSeat}`
 }
 
-export const STATE_AUTHORITY_KINDS = [
+const STATE_AUTHORITY_KINDS = [
   "pages-rows",
   "bound-worktree",
   "game-state-rows",
@@ -31,11 +31,11 @@ const KEBAB_HANDLE = /^[a-z0-9]+(?:-[a-z0-9]+)*$/
 
 const SLASH_SKILL_TOKEN = /^\/[a-z0-9]+(?:-[a-z0-9]+)*(?:\s|$)/
 
-export function constrainsOnSomething(rule: CommsRule): boolean {
+function constrainsOnSomething(rule: CommsRule): boolean {
   return rule.senderMatch.length > 0 || (rule.contentRegex ?? "").length > 0
 }
 
-export const commsRuleSchema = shape
+const commsRuleSchema = shape
   .object({
     id: shape.string(),
     senderMatch: shape.string(),
@@ -84,7 +84,7 @@ export const onDemandAgentSpecSchema = shape
 
 const STANDING_PERSONA_TOKEN_THRESHOLD = 150_000
 
-export const PERSON_HANDLER_TOKEN_THRESHOLD = 150_000
+const PERSON_HANDLER_TOKEN_THRESHOLD = 150_000
 
 export const PERSON_HANDLER_IDLE_MS = 15 * 60 * 1000
 
@@ -146,7 +146,7 @@ export interface PersonHandlerSpecOptions {
   readonly stateAuthorityDetail?: string
 }
 
-export function personHandlerWakeSources(handlerSeat: string): readonly CommsRule[] {
+function personHandlerWakeSources(handlerSeat: string): readonly CommsRule[] {
   return [
     {
       id: `${handlerSeat}-sms-inbound`,

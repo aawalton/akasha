@@ -5,7 +5,7 @@ import {
 import { RulebookSchema } from "akasha/story/engine/core/rulebook-schema/rulebook-schema.module.code.ts"
 import { z } from "zod"
 
-export const CombatantDataSchema = z
+const CombatantDataSchema = z
   .object({
     attributes: z.record(z.string(), z.number()),
     equipment: z.record(z.string(), z.record(z.string(), z.number())).optional(),
@@ -14,7 +14,7 @@ export const CombatantDataSchema = z
   .strict()
 export type CombatantData = z.infer<typeof CombatantDataSchema>
 
-export const RollDataSchema = z
+const RollDataSchema = z
   .object({
     system: z.string(),
     dice: z.array(z.number()),
@@ -25,7 +25,7 @@ export const RollDataSchema = z
   .strict()
 export type RollData = z.infer<typeof RollDataSchema>
 
-export const ResolveInputStoredSchema = z
+const ResolveInputStoredSchema = z
   .object({
     attacker: CombatantDataSchema,
     defender: CombatantDataSchema,
@@ -38,7 +38,7 @@ export const ResolveInputStoredSchema = z
   .strict()
 export type ResolveInputStored = z.infer<typeof ResolveInputStoredSchema>
 
-export const ResolveResultDataSchema = z
+const ResolveResultDataSchema = z
   .object({
     hit: z.boolean(),
     crit: z.boolean(),
@@ -57,7 +57,7 @@ export const ResolveResultDataSchema = z
   .strict()
 export type ResolveResultData = z.infer<typeof ResolveResultDataSchema>
 
-export const ResolveRecordSchema = z
+const ResolveRecordSchema = z
   .object({
     kind: z.literal("resolve"),
     gameExternalId: z.string(),
@@ -76,7 +76,7 @@ export type ResolveRecord = z.infer<typeof ResolveRecordSchema>
 
 export type ResolveRecordHashable = Omit<ResolveRecord, "hash" | "kind">
 
-export const AuditRecordSchema = z.union([RollRecordSchema, ResolveRecordSchema])
+const AuditRecordSchema = z.union([RollRecordSchema, ResolveRecordSchema])
 export type AuditRecord = z.infer<typeof AuditRecordSchema>
 
 export type AuditRecordHashable = RollRecordHashable | ResolveRecordHashable

@@ -27,7 +27,7 @@ export type ProxyAdoptionRuleSource = (
   input: ProxyAdoptionInput
 ) => Promise<RuleAnswer<ProxyAdoptionDecision>>
 
-export function readProxyAdoption(answered: unknown): ProxyAdoptionDecision {
+function readProxyAdoption(answered: unknown): ProxyAdoptionDecision {
   return AnswerZ.parse(answered)[RULE].decideProxyAdoption
 }
 

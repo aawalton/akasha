@@ -221,7 +221,7 @@ export function isFileSpelledView(properties: Readonly<Record<string, unknown>>)
   )
 }
 
-export function viewDataFromFile(
+function viewDataFromFile(
   properties: Readonly<Record<string, unknown>>,
   resolvePageTypeId?: PageTypeIdBySlug
 ): ViewDataJSON {

@@ -35,7 +35,7 @@ import {
 import { guardTick } from "akasha/seat-system/supervising/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
 import { writePacingSnapshot } from "akasha/seat-system/supervising/supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts"
 
-export async function runCredentialPullTick(args: {
+async function runCredentialPullTick(args: {
   account: string
   getAgentId: () => string | null
 }): Promise<void> {

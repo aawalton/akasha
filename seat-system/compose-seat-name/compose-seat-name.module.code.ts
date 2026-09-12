@@ -3,7 +3,7 @@ import { personaAt } from "akasha/personas/reading/persona-reading.module.code.t
 import { answeredByOf, peopleStanding } from "akasha/persons/reading/person-reading.module.code.ts"
 import { stated } from "akasha/utils/narrow/stated/stated.module.code.ts"
 
-export const JOINER = "-"
+const JOINER = "-"
 
 export const FLEX = /^flex-(?:0|[1-9]\d*)$/
 
@@ -25,7 +25,7 @@ export function movesWithTheAttributes(name: string, root: string): boolean {
   return !personPrincipals(root).includes(name)
 }
 
-export function principalsFrom(persons: readonly string[]): readonly string[] {
+function principalsFrom(persons: readonly string[]): readonly string[] {
   return [...persons, FLEET]
 }
 

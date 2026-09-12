@@ -39,7 +39,7 @@ export type ProxyLivenessRuleSource = (
   healthy: boolean
 ) => Promise<RuleAnswer<ProxyLivenessVerdict>>
 
-export function readProxyLiveness(answered: unknown): ProxyLivenessVerdict {
+function readProxyLiveness(answered: unknown): ProxyLivenessVerdict {
   return AnswerZ.parse(answered)[RULE].decideProxyLiveness
 }
 

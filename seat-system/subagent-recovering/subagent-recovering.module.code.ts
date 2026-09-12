@@ -60,7 +60,7 @@ function appended(root: string, page: string, at: string, text: string): undefin
   return undefined
 }
 
-export function editsSaid(lines: readonly string[]): string {
+function editsSaid(lines: readonly string[]): string {
   return lines.map((one) => `${one}\n`).join("")
 }
 

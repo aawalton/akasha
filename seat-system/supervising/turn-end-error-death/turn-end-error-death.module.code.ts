@@ -1,10 +1,10 @@
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 
-export const OVERLOAD_STATUS = 529
+const OVERLOAD_STATUS = 529
 
 export const CONNECTION_STATUS = 502
 
-export const RESUME_STATUSES: readonly number[] = [OVERLOAD_STATUS, CONNECTION_STATUS]
+const RESUME_STATUSES: readonly number[] = [OVERLOAD_STATUS, CONNECTION_STATUS]
 
 export interface DeathReading {
   readonly detected: boolean

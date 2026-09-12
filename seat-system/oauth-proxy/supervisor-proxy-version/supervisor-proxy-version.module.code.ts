@@ -21,7 +21,7 @@ export interface RespawnProxyDeps {
   log: (line: string) => void
 }
 
-export async function respawnProxy(
+async function respawnProxy(
   opts: {
     respawnArgs: SpawnOAuthProxyArgs
     state: OAuthProxyState
@@ -41,7 +41,7 @@ let respawnFn: ((newVersion: string) => void) | null = null
 let unsubProxyVersion: (() => void) | null = null
 let pendingVersion: string | null = null
 
-export function setProxyRespawnFn(fn: ((newVersion: string) => void) | null): undefined {
+function setProxyRespawnFn(fn: ((newVersion: string) => void) | null): undefined {
   respawnFn = fn
 }
 

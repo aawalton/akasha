@@ -18,7 +18,7 @@ export type SelfHealJitterRuleSource = (
   rawMaxJitterMs: string | undefined
 ) => Promise<RuleAnswer<number>>
 
-export function readReExecJitterMs(answered: unknown): number {
+function readReExecJitterMs(answered: unknown): number {
   return AnswerZ.parse(answered)[RULE].reExecJitterMs
 }
 

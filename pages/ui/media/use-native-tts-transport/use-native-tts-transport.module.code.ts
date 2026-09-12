@@ -33,7 +33,7 @@ const IDLE: NativeTtsFlags = {
   playbackStarted: false,
 }
 
-export const STARTUP_STALL_MS = 20_000
+const STARTUP_STALL_MS = 20_000
 
 export function useNativeTtsTransport(args: {
   readonly adapter: NativeTtsAdapter | null

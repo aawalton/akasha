@@ -11,7 +11,7 @@ export const SystemMechanicsSchema = z
   .strict()
 export type SystemMechanics = z.infer<typeof SystemMechanicsSchema>
 
-export const NarrativeBeatSchema = z.object({
+const NarrativeBeatSchema = z.object({
   type: z.literal("narrative"),
   id: BeatIdSchema.optional(),
   turn: z.number().optional(),
@@ -19,7 +19,7 @@ export const NarrativeBeatSchema = z.object({
 })
 export type NarrativeBeat = z.infer<typeof NarrativeBeatSchema>
 
-export const SystemBeatSchema = z.object({
+const SystemBeatSchema = z.object({
   type: z.literal("system"),
   id: BeatIdSchema.optional(),
   turn: z.number().optional(),

@@ -1,4 +1,4 @@
-export const EXTERNAL_POINTS_SOURCE_KIND = "external"
+const EXTERNAL_POINTS_SOURCE_KIND = "external"
 
 export const WINDOWED_POINTS_SOURCE_KIND = "windowed"
 

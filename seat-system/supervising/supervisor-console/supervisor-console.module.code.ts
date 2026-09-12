@@ -127,7 +127,7 @@ export function redirectConsoleToSink(sink: LogSink): () => void {
   }
 }
 
-export const DEFAULT_SUPERVISORS_DIR = supervisorsRootDir()
+const DEFAULT_SUPERVISORS_DIR = supervisorsRootDir()
 
 export function buildAgentLogRedirect(supervisorsDir: string = DEFAULT_SUPERVISORS_DIR): {
   redirectToBootstrap: () => () => void

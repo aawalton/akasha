@@ -13,7 +13,7 @@ export const PoolChangeSchema = z
   .strict()
 export type PoolChange = z.infer<typeof PoolChangeSchema>
 
-export const TurnPackageSchema = z
+const TurnPackageSchema = z
   .object({
     playerAction: z.string().min(1),
     worldResponse: z.string().min(1),

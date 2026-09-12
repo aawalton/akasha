@@ -41,7 +41,7 @@ export const WRITING = "write"
 
 export const TAKING = "take"
 
-export const SWEEPING = "sweep"
+const SWEEPING = "sweep"
 
 export const LOG_AT = "subagent-presence.log"
 
@@ -186,7 +186,7 @@ export function startedIn(root: string, page: string, startedAt: number | null):
   mergeUncommitted(root, page, { [STARTED]: startedAt })
 }
 
-export function startedAfter(root: string, page: string, stoppedAt: number | null): boolean {
+function startedAfter(root: string, page: string, stoppedAt: number | null): boolean {
   if (stoppedAt === null) return false
   const held = asNumber(uncommittedIn(root, page)?.[STARTED])
   return held !== null && held > stoppedAt
@@ -201,7 +201,7 @@ export function leftWhereItIs(root: string, seatName: string, at: string): strin
   )
 }
 
-export function movingOff(root: string, seatName: string, at: string): Went {
+function movingOff(root: string, seatName: string, at: string): Went {
   const why = leftWhereItIs(root, seatName, at)
   if (why !== null) return { why }
   const seat = seatPageIn(root, seatName)
@@ -231,7 +231,7 @@ export async function took(
   return wentBy(await landing(done, root, [{ at: TAKE_PAGE, given: { at } }], why), done)
 }
 
-export function seatNamesIn(root: string): readonly string[] {
+function seatNamesIn(root: string): readonly string[] {
   const names: string[] = []
   for (const one of everyOfType(root, SEAT)) {
     const named = partedIn(one.path)
@@ -371,7 +371,7 @@ function exitFor(went: Went, at: string): number {
   return "why" in went ? saying(`${at} — ${went.why}`) : 0
 }
 
-export async function ran(argv: readonly string[]): Promise<number> {
+async function ran(argv: readonly string[]): Promise<number> {
   const root = argv[2]
   const act = argv[3]
   const seatName = argv[4]

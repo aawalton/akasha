@@ -21,7 +21,7 @@ export function subagentsDirOf(transcriptPath: string): string {
   return join(transcriptPath.replace(/\.jsonl$/, ""), SUBAGENTS)
 }
 
-export function lastRecordAt(subagentsDir: string, own: string): number | null {
+function lastRecordAt(subagentsDir: string, own: string): number | null {
   try {
     return statSync(join(subagentsDir, `agent-${own}${TAIL}`)).mtimeMs
   } catch {

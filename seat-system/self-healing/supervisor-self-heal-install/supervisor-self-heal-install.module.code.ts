@@ -7,7 +7,7 @@ export type SelfHealRunInstall = (version: string) => Promise<SelfHealInstallRes
 
 const SINGLE_FLIGHT_LOCK_TIMEOUT_S = 600
 
-export const SINGLE_FLIGHT_FLOCK_SH = [
+const SINGLE_FLIGHT_FLOCK_SH = [
   "set -e",
   "lock=$1",
   "limit=$2",
@@ -29,7 +29,7 @@ function verifyWorkspaceBinsAt(): string {
   return `${ownRepoRoot()}/alan/harness/workspace-paths/workspace-bins-verifying/workspace-bins-verifying.module.code.ts`
 }
 
-export const SINGLE_FLIGHT_INSTALL_SCRIPT = [
+const SINGLE_FLIGHT_INSTALL_SCRIPT = [
   'if [ -e "$1" ]; then exit 0; fi',
   "bun install --frozen-lockfile 1>&2 || exit 1",
   'if ! bun "$2" 1>&2; then',

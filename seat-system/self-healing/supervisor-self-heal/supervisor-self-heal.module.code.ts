@@ -16,7 +16,7 @@ export function resolveReExecArgv(): readonly string[] {
   return buildReExecArgv({ originalArgv: ORIGINAL_ARGV, agentId, sessionId })
 }
 
-export function requestReExec(why: string): undefined {
+function requestReExec(why: string): undefined {
   if (SELF_HEAL_STATE.pendingReExec) return
   SELF_HEAL_STATE.pendingReExec = true
   try {
@@ -29,7 +29,7 @@ export function requestReExec(why: string): undefined {
   }
 }
 
-export function requestSelfHealRestart(newVersion: string): undefined {
+function requestSelfHealRestart(newVersion: string): undefined {
   requestReExec(`version ${newVersion}`)
 }
 

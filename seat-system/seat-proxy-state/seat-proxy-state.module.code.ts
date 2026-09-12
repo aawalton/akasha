@@ -38,7 +38,7 @@ export function readProxyState(agentId: string): OAuthProxyState | null {
   }
 }
 
-export function writeProxyState(agentId: string, state: OAuthProxyStateToWrite): undefined {
+function writeProxyState(agentId: string, state: OAuthProxyStateToWrite): undefined {
   const seatName = seatNameForAgent(agentId)
   if (seatName === null) return
   const startTicks = readProcStartTicks(state.pid)

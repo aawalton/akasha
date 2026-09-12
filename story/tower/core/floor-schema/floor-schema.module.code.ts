@@ -1,7 +1,7 @@
 import { AttributesSchema } from "akasha/story/tower/core/character-schema/character-schema.module.code.ts"
 import { z } from "zod"
 
-export const SearchableSchema = z
+const SearchableSchema = z
   .object({
     thing: z.string(),
     use: z.string().optional(),
@@ -11,7 +11,7 @@ export const SearchableSchema = z
   .passthrough()
 export type Searchable = z.infer<typeof SearchableSchema>
 
-export const RoomSchema = z
+const RoomSchema = z
   .object({
     id: z.string(),
     name: z.string(),
@@ -25,7 +25,7 @@ export const RoomSchema = z
   .passthrough()
 export type Room = z.infer<typeof RoomSchema>
 
-export const FloorEnemySchema = z
+const FloorEnemySchema = z
   .object({
     name: z.string(),
     kind: z.literal("enemy"),
@@ -48,7 +48,7 @@ export const FloorEnemySchema = z
   .passthrough()
 export type FloorEnemy = z.infer<typeof FloorEnemySchema>
 
-export const EncounterSchema = z
+const EncounterSchema = z
   .object({
     id: z.string(),
     trigger: z.string().optional(),
@@ -61,7 +61,7 @@ export const EncounterSchema = z
   .passthrough()
 export type Encounter = z.infer<typeof EncounterSchema>
 
-export const FloorSchema = z
+const FloorSchema = z
   .object({
     floor: z.number(),
     name: z.string(),

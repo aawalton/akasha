@@ -18,7 +18,7 @@ export function worthAnotherTry(why: string): boolean {
   return why.includes(LOCK_AT) || why.includes(PUT_BACK)
 }
 
-export async function sleeping(ms: number): Promise<void> {
+async function sleeping(ms: number): Promise<void> {
   await Bun.sleep(ms)
 }
 

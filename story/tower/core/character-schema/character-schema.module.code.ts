@@ -38,7 +38,7 @@ export const CharacterSkillSchema = z
   .passthrough()
 export type CharacterSkill = z.infer<typeof CharacterSkillSchema>
 
-export const CharacterAffinitySchema = z
+const CharacterAffinitySchema = z
   .object({
     id: z.string().optional(),
     name: z.string().optional(),
@@ -53,7 +53,7 @@ export const CharacterAffinitySchema = z
   .passthrough()
 export type CharacterAffinity = z.infer<typeof CharacterAffinitySchema>
 
-export const CharacterTraitSchema = z
+const CharacterTraitSchema = z
   .object({
     id: z.string().optional(),
     name: z.string().optional(),
@@ -63,7 +63,7 @@ export const CharacterTraitSchema = z
   .passthrough()
 export type CharacterTrait = z.infer<typeof CharacterTraitSchema>
 
-export const EquipmentItemSchema = z
+const EquipmentItemSchema = z
   .object({
     name: z.string().optional(),
     atk: z.number().optional(),
@@ -73,7 +73,7 @@ export const EquipmentItemSchema = z
   .passthrough()
 export type EquipmentItem = z.infer<typeof EquipmentItemSchema>
 
-export const EquipmentSchema = z
+const EquipmentSchema = z
   .object({
     weapon: EquipmentItemSchema.nullish(),
     armor: EquipmentItemSchema.nullish(),
@@ -82,7 +82,7 @@ export const EquipmentSchema = z
   .passthrough()
 export type Equipment = z.infer<typeof EquipmentSchema>
 
-export const GameCharacterSheetSchema = z
+const GameCharacterSheetSchema = z
   .object({
     name: z.string(),
     kind: z.enum(["player", "enemy", "ally"]),

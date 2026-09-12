@@ -63,7 +63,7 @@ export function seatMarksAt(root: string): string {
   return join(root, TERMINAL_PAGES_DIR)
 }
 
-export function startedAtOf(pid: number): string | null {
+function startedAtOf(pid: number): string | null {
   let stat: string
   try {
     stat = readFileSync(`/proc/${String(pid)}/stat`).toString("utf8")

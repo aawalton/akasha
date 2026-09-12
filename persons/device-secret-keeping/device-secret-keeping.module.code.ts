@@ -19,17 +19,17 @@ export const DEVICE_SECRET_PAGE_TYPE = "device-secret"
 
 export const DEVICE_SECRET_HEADER = "X-Device-Secret"
 
-export const DEVICE_SECRET_RANDOM_BYTES = 32
+const DEVICE_SECRET_RANDOM_BYTES = 32
 
-export const DEVICE_SECRET_WRITER = "alanwalton web <web@alanwalton.com>"
+const DEVICE_SECRET_WRITER = "alanwalton web <web@alanwalton.com>"
 
-export const SECRET_HASH_KEY = "secretHash"
+const SECRET_HASH_KEY = "secretHash"
 
-export const USER_ID_KEY = "userId"
+const USER_ID_KEY = "userId"
 
-export const DEVICE_ID_KEY = "deviceId"
+const DEVICE_ID_KEY = "deviceId"
 
-export const REVOKED_AT_KEY = "revokedAt"
+const REVOKED_AT_KEY = "revokedAt"
 
 const HASH_SHAPE = /^[0-9a-f]{64}$/
 
@@ -151,7 +151,7 @@ async function onlyOne(
   return first === undefined ? { outcome: "none" } : { outcome: "found", page: first }
 }
 
-export async function deviceSecretCarryingHash(
+async function deviceSecretCarryingHash(
   secretHash: string,
   fetcher?: Fetcher,
   naps?: Sleeper
@@ -165,7 +165,7 @@ export async function deviceSecretCarryingHash(
   )
 }
 
-export async function deviceSecretFor(
+async function deviceSecretFor(
   userId: string,
   deviceId: string,
   fetcher?: Fetcher,

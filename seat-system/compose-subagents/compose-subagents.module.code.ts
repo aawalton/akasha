@@ -67,10 +67,7 @@ function brief(root: string, path: string, value: Value): string {
   return prompt
 }
 
-export function kindsIn(
-  root: string,
-  listed: readonly Listed[]
-): Readonly<Record<string, Definition>> {
+function kindsIn(root: string, listed: readonly Listed[]): Readonly<Record<string, Definition>> {
   const definitions: Record<string, Definition> = {}
   for (const one of listed) {
     const value = pageValueOf(root, one.path)

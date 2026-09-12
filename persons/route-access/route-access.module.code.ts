@@ -5,11 +5,11 @@ import {
 } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 import { personSlugForAccount } from "akasha/persons/enrolment/person-enrolment.module.code.ts"
 
-export const PERSON_ACCESS_PAGE_TYPE = "person-access"
+const PERSON_ACCESS_PAGE_TYPE = "person-access"
 
-export const ROUTE_ACCESS_KIND = "route"
+const ROUTE_ACCESS_KIND = "route"
 
-export const EVERY_TARGET = "all"
+const EVERY_TARGET = "all"
 
 export const ROUTE_TARGETS = {
   DEVICE_SECRET_MINT: "device-secret-mint",

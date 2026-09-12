@@ -2,19 +2,19 @@ import type { FrameConfig } from "akasha/pages/core/schema/detail-config/detail-
 import { RevealKeySchema } from "akasha/story/engine/core/revealed/revealed.module.code.ts"
 import { z } from "zod"
 
-export const MECHANICS_WEIGHTS = ["zero", "light", "medium", "heavy"] as const
+const MECHANICS_WEIGHTS = ["zero", "light", "medium", "heavy"] as const
 export const MechanicsWeightSchema = z.enum(MECHANICS_WEIGHTS)
 export type MechanicsWeight = z.infer<typeof MechanicsWeightSchema>
 
-export const CONTROLLED_ENTITY_KINDS = ["single", "party", "dungeon", "nation"] as const
+const CONTROLLED_ENTITY_KINDS = ["single", "party", "dungeon", "nation"] as const
 export const ControlledEntityKindSchema = z.enum(CONTROLLED_ENTITY_KINDS)
 export type ControlledEntityKind = z.infer<typeof ControlledEntityKindSchema>
 
-export const RESOLUTIONS = ["none", "dice", "formula", "resource", "hybrid"] as const
+const RESOLUTIONS = ["none", "dice", "formula", "resource", "hybrid"] as const
 export const ResolutionSchema = z.enum(RESOLUTIONS)
 export type Resolution = z.infer<typeof ResolutionSchema>
 
-export const GAME_GENRES = [
+const GAME_GENRES = [
   "narrative",
   "litrpg",
   "ttrpg",
@@ -41,11 +41,11 @@ export const GameRulebookSchema = z
   .passthrough()
 export type GameRulebook = z.infer<typeof GameRulebookSchema>
 
-export const POOL_BAR_COLORS = ["red", "blue", "green"] as const
-export const PoolBarColorSchema = z.enum(POOL_BAR_COLORS)
+const POOL_BAR_COLORS = ["red", "blue", "green"] as const
+const PoolBarColorSchema = z.enum(POOL_BAR_COLORS)
 export type PoolBarColor = z.infer<typeof PoolBarColorSchema>
 
-export const PoolPresentationSchema = z
+const PoolPresentationSchema = z
   .object({
     key: z.string(),
     label: z.string(),
@@ -55,19 +55,19 @@ export const PoolPresentationSchema = z
   .strict()
 export type PoolPresentation = z.infer<typeof PoolPresentationSchema>
 
-export const STORY_SO_FAR_SOURCES = ["turns", "stateLedger"] as const
-export const StorySoFarSourceSchema = z.enum(STORY_SO_FAR_SOURCES)
+const STORY_SO_FAR_SOURCES = ["turns", "stateLedger"] as const
+const StorySoFarSourceSchema = z.enum(STORY_SO_FAR_SOURCES)
 export type StorySoFarSource = z.infer<typeof StorySoFarSourceSchema>
 
-export const CHAPTER_PROSE_HISTORY_SCOPES = ["session", "full"] as const
-export const ChapterProseHistorySchema = z.enum(CHAPTER_PROSE_HISTORY_SCOPES)
+const CHAPTER_PROSE_HISTORY_SCOPES = ["session", "full"] as const
+const ChapterProseHistorySchema = z.enum(CHAPTER_PROSE_HISTORY_SCOPES)
 export type ChapterProseHistory = z.infer<typeof ChapterProseHistorySchema>
 
-export const CHAPTER_PROSE_TITLES = ["shown", "hidden"] as const
+const CHAPTER_PROSE_TITLES = ["shown", "hidden"] as const
 export const ChapterProseTitlesSchema = z.enum(CHAPTER_PROSE_TITLES)
 export type ChapterProseTitles = z.infer<typeof ChapterProseTitlesSchema>
 
-export const CHAPTER_PROSE_PAST_TURNS = ["plain", "muted"] as const
+const CHAPTER_PROSE_PAST_TURNS = ["plain", "muted"] as const
 export const ChapterProsePastTurnsSchema = z.enum(CHAPTER_PROSE_PAST_TURNS)
 export type ChapterProsePastTurns = z.infer<typeof ChapterProsePastTurnsSchema>
 
@@ -98,8 +98,8 @@ export const GameDisplayModulesSchema = z
   .strict()
 export type GameDisplayModules = z.infer<typeof GameDisplayModulesSchema>
 
-export const ALERT_SOUND_PRESETS = ["chime", "bell", "pip"] as const
-export const AlertSoundSchema = z.enum([...ALERT_SOUND_PRESETS, "off"])
+const ALERT_SOUND_PRESETS = ["chime", "bell", "pip"] as const
+const AlertSoundSchema = z.enum([...ALERT_SOUND_PRESETS, "off"])
 export type AlertSound = z.infer<typeof AlertSoundSchema>
 
 export const GameAlertsSchema = z
@@ -128,7 +128,7 @@ export interface ResolvedGameDisplay {
   readonly frame?: FrameConfig
 }
 
-export function frameDefaultForEngine(gameEngine: string | undefined): FrameConfig | undefined {
+function frameDefaultForEngine(gameEngine: string | undefined): FrameConfig | undefined {
   if (gameEngine === "awen")
     return { edgeToEdge: true, focusMode: true, autoScroll: { loadScroll: "new-top" } }
   return undefined
@@ -148,7 +148,7 @@ export function resolveGameDisplay(
   }
 }
 
-export const DEFAULT_ALERT_SOUND: AlertSound = "chime"
+const DEFAULT_ALERT_SOUND: AlertSound = "chime"
 
 export interface ResolvedAlertPrefs {
   readonly sound: AlertSound

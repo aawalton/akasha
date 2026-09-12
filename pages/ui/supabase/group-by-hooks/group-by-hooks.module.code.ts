@@ -135,7 +135,7 @@ export function useGroupByPaginatedQuery(args: GroupByArgs): GroupByResult {
   }
 }
 
-export function bucketRowsByGroup(args: {
+function bucketRowsByGroup(args: {
   rows: readonly Page[]
   groupPropertyId: string
   isLoading: boolean

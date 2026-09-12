@@ -13,7 +13,7 @@ import {
   processes,
 } from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
 
-export function collectClaudeHandoff(): {
+function collectClaudeHandoff(): {
   pid: number
   processId: string
   account: string

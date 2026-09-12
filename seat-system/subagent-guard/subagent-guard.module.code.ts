@@ -1,4 +1,4 @@
-export const SUBAGENT_REJECT_BASES = ["subagents-working"] as const
+const SUBAGENT_REJECT_BASES = ["subagents-working"] as const
 
 export type SubagentRejectBasis = (typeof SUBAGENT_REJECT_BASES)[number]
 
@@ -15,7 +15,7 @@ export interface SubagentGuardInput {
   readonly act: string
 }
 
-export const SUBAGENT_GUARD_DECISIONS = ["allow", "reject"] as const
+const SUBAGENT_GUARD_DECISIONS = ["allow", "reject"] as const
 
 export type SubagentGuardDecisionKind = (typeof SUBAGENT_GUARD_DECISIONS)[number]
 

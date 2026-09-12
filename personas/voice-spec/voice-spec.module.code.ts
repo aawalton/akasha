@@ -9,7 +9,7 @@ const RepoRelativePath = z
     message: "must be a repo-relative path (no leading '/', no '..' segment)",
   })
 
-export const ReferenceSchema = z
+const ReferenceSchema = z
   .object({
     wavPath: RepoRelativePath.refine((p) => p.endsWith(".wav"), {
       message: "reference clip must be a .wav file",
@@ -20,7 +20,7 @@ export const ReferenceSchema = z
 
 export type Reference = z.infer<typeof ReferenceSchema>
 
-export const CentroidSchema = z.discriminatedUnion("kind", [
+const CentroidSchema = z.discriminatedUnion("kind", [
   z
     .object({
       kind: z.literal("inline"),
@@ -39,7 +39,7 @@ export const CentroidSchema = z.discriminatedUnion("kind", [
 
 export type Centroid = z.infer<typeof CentroidSchema>
 
-export const PostProductionSchema = z
+const PostProductionSchema = z
   .object({
     filterComplex: z.string().min(1),
     outLabel: z
@@ -62,11 +62,9 @@ const SHARED_SHAPE = {
   postProduction: PostProductionSchema.optional(),
 } as const
 
-export const RealVoiceSpecSchema = z
-  .object({ sourceKind: z.literal("real"), ...SHARED_SHAPE })
-  .strict()
+const RealVoiceSpecSchema = z.object({ sourceKind: z.literal("real"), ...SHARED_SHAPE }).strict()
 
-export const DesignedVoiceSpecSchema = z
+const DesignedVoiceSpecSchema = z
   .object({ sourceKind: z.literal("designed"), instruct: z.string().min(1), ...SHARED_SHAPE })
   .strict()
 

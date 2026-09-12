@@ -4,9 +4,9 @@ import type { PageTypeIdBySlug } from "akasha/pages/ui/supabase/view-data-of-pag
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { useEffect, useState } from "react"
 
-export const PAGE_TYPE_DIRECTORY_PATH = "/api/pages/page-type"
+const PAGE_TYPE_DIRECTORY_PATH = "/api/pages/page-type"
 
-export function readPageTypeDirectory(body: unknown): ReadonlyMap<string, string> | null {
+function readPageTypeDirectory(body: unknown): ReadonlyMap<string, string> | null {
   if (!isRecord(body)) return null
   const rows = body.rows
   if (!Array.isArray(rows)) return null
@@ -32,7 +32,7 @@ export function forgetPageTypeDirectory(): undefined {
   return undefined
 }
 
-export async function askPageTypeDirectory(
+async function askPageTypeDirectory(
   fetchImpl: Fetcher = fetch
 ): Promise<ReadonlyMap<string, string> | null> {
   if (known !== null) return known

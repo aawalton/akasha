@@ -26,7 +26,7 @@ export interface InboundSpec {
 
 const MAX_REFERRERS = 100
 
-export function computeInboundSpecs({
+function computeInboundSpecs({
   pageTypeId,
   pageTypePropertiesMap,
   pageTypeSlugById,
@@ -54,7 +54,7 @@ export function computeInboundSpecs({
   return out
 }
 
-export function referrerWhere(spec: InboundSpec, pageId: string): PageWhere {
+function referrerWhere(spec: InboundSpec, pageId: string): PageWhere {
   return spec.kind === "multi-relation"
     ? [{ key: spec.propertyId, includes: pageId }]
     : [{ key: spec.propertyId, eq: pageId }]

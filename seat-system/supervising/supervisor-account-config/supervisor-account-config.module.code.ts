@@ -10,7 +10,7 @@ export type WorkerModelDeps = {
   getExtendedContextAvailable: () => Promise<boolean>
 }
 
-export async function getExtendedContextAvailable(): Promise<boolean> {
+async function getExtendedContextAvailable(): Promise<boolean> {
   return readSeatConditions().extendedContextAvailable
 }
 

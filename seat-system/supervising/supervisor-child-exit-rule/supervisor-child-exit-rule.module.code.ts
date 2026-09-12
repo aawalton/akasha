@@ -87,45 +87,42 @@ export type ChildExitRuleSource = {
   ) => Promise<RuleAnswer<ShutdownExitWrite | null>>
 }
 
-export function readDecodeWaitStatus(answered: unknown): ChildExitStatus {
+function readDecodeWaitStatus(answered: unknown): ChildExitStatus {
   return DecodeZ.parse(answered)[RULE].decodeWaitStatus
 }
 
-export function readCollapse(answered: unknown): number {
+function readCollapse(answered: unknown): number {
   return CollapseZ.parse(answered)[RULE].collapseChildExitStatus
 }
 
-export function readClassify(answered: unknown): ChildExitClassification {
+function readClassify(answered: unknown): ChildExitClassification {
   const held = ClassifyZ.parse(answered)[RULE]
   agreeStopReasons(held.stopReason)
   return held.classifyChildExit
 }
 
-export function readShutdownWrite(answered: unknown): ShutdownExitWrite {
+function readShutdownWrite(answered: unknown): ShutdownExitWrite {
   const held = ShutdownWriteZ.parse(answered)[RULE]
   agreeStopReasons(held.stopReason)
   return held.decideShutdownExitWrite
 }
 
-export function askDecodeWaitStatus(
-  raw: number,
-  ask?: AskDecide
-): Promise<RuleAnswer<ChildExitStatus>> {
+function askDecodeWaitStatus(raw: number, ask?: AskDecide): Promise<RuleAnswer<ChildExitStatus>> {
   return askRule(RULE, { decodeWaitStatus: raw }, readDecodeWaitStatus, UNREAD_STATUS, ask)
 }
 
-export function askCollapse(status: ChildExitStatus, ask?: AskDecide): Promise<RuleAnswer<number>> {
+function askCollapse(status: ChildExitStatus, ask?: AskDecide): Promise<RuleAnswer<number>> {
   return askRule(RULE, { collapseChildExitStatus: status }, readCollapse, UNREAD_COLLAPSE, ask)
 }
 
-export function askClassify(
+function askClassify(
   obs: ChildExitObservation,
   ask?: AskDecide
 ): Promise<RuleAnswer<ChildExitClassification | null>> {
   return askRule(RULE, { stopReason: true, classifyChildExit: obs }, readClassify, null, ask)
 }
 
-export function askShutdownWrite(
+function askShutdownWrite(
   classification: ChildExitClassification | null,
   ask?: AskDecide
 ): Promise<RuleAnswer<ShutdownExitWrite | null>> {

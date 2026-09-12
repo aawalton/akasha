@@ -18,7 +18,7 @@ import { setOAuthProxyHandle } from "akasha/seat-system/supervising/supervisor-s
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { pidAliveOrRefuse } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
 
-export const PROXY_LIVENESS_INTERVAL_MS = 30_000
+const PROXY_LIVENESS_INTERVAL_MS = 30_000
 
 export function startProxyLivenessMonitor(opts: {
   getProxyHandle: () => SupervisorOAuthProxyHandle | null

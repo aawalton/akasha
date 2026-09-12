@@ -1,17 +1,17 @@
 import { oneLine } from "akasha/utils/text/one-line/one-line.module.code.ts"
 import { z } from "zod"
 
-export const LORE_KINDS = ["entity", "timeline", "thread", "quote"] as const
+const LORE_KINDS = ["entity", "timeline", "thread", "quote"] as const
 export type LoreKind = (typeof LORE_KINDS)[number]
 
 export function isLoreKind(s: string): s is LoreKind {
   return LORE_KINDS.some((k) => k === s)
 }
 
-export const LORE_THREAD_STATUSES = ["open", "closed"] as const
+const LORE_THREAD_STATUSES = ["open", "closed"] as const
 export type LoreThreadStatus = (typeof LORE_THREAD_STATUSES)[number]
 
-export const LoreCitationSchema = z
+const LoreCitationSchema = z
   .object({
     turnExternalId: z.string().min(1),
     quote: z.string().min(1),
@@ -51,7 +51,7 @@ export const LoreContentSchema = z.discriminatedUnion("kind", [
 ])
 export type LoreContent = z.infer<typeof LoreContentSchema>
 
-export const LoreEntryInputSchema = z
+const LoreEntryInputSchema = z
   .object({
     externalId: z.string().min(1),
     subjectKey: z.string().min(1),

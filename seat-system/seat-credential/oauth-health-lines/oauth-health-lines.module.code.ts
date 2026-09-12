@@ -1,4 +1,4 @@
-export function terminalErrorSummary(code: string | null | undefined): string {
+function terminalErrorSummary(code: string | null | undefined): string {
   return code === "invalid_grant"
     ? "OAuth refresh token expired or revoked"
     : code === "invalid_client"
@@ -6,7 +6,7 @@ export function terminalErrorSummary(code: string | null | undefined): string {
       : `OAuth refresh terminal error (${code ?? "unknown"})`
 }
 
-export function terminalErrorLine(
+function terminalErrorLine(
   account: string,
   reason: { code?: string | null; description?: string | null },
   logPrefix: string

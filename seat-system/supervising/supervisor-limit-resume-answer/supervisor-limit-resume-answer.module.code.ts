@@ -2,7 +2,7 @@ import { SUPERVISOR_DECIDE_COMMAND } from "akasha/seat-system/supervisor-limit-r
 import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 import type { Infer } from "akasha/utils/narrow/shape-core/shape-core.module.code.ts"
 
-export const LIMIT_RESUME_DECISION = "limitResume"
+const LIMIT_RESUME_DECISION = "limitResume"
 
 export type AskDecide = (stdin: string) => Promise<unknown>
 

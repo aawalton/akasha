@@ -33,9 +33,9 @@ export const CARRIED: Readonly<Record<string, Carried>> = {
   "reexec-asked": { at: ["reExecAsk"], kind: "text" },
 }
 
-export const SUPERVISOR_PROCESS = "supervisor-process"
+const SUPERVISOR_PROCESS = "supervisor-process"
 
-export const MODE = "mode"
+const MODE = "mode"
 
 export const RECORDS: Readonly<Record<string, string>> = {
   "turn-pending": "turnPending",
@@ -116,7 +116,7 @@ export function akashaRunningModeOf(agentId: string): string | null {
   return typeof held === "string" && held !== "" ? held : null
 }
 
-export function akashaValueOf(agentId: string, key: string): unknown {
+function akashaValueOf(agentId: string, key: string): unknown {
   const where = CARRIED[key]
   if (where === undefined) return undefined
   const values = akashaBesideOf(agentId)

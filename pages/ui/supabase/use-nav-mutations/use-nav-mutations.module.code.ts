@@ -12,7 +12,7 @@ import { useCallback } from "react"
 const NAV_SLUG = "nav"
 const VIEW_SLUG = "view"
 
-export function slugFromName(name: string): string {
+function slugFromName(name: string): string {
   const stem = name
     .replace(/&/g, "and")
     .replace(/[^A-Za-z0-9]+/g, "-")

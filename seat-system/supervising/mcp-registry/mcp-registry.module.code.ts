@@ -74,7 +74,7 @@ function secretEnv(keys: readonly string[]): Record<string, string | undefined> 
   return env
 }
 
-export function storageStatePathOf(server: string): string | null {
+function storageStatePathOf(server: string): string | null {
   const declared = declaration()[server]
   if (declared === undefined || declared.storageState === undefined) return null
   return resolved(declared.storageState, null)

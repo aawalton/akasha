@@ -95,15 +95,15 @@ export type DeferredRestartRuleSource = {
   windows: (raw: DeferredRestartRawWindows) => Promise<RuleAnswer<DeferredRestartWindows | null>>
 }
 
-export function readConstants(answered: unknown): DeferredRestartConstants {
+function readConstants(answered: unknown): DeferredRestartConstants {
   return ConstantsZ.parse(answered)[RULE].constants
 }
 
-export function readDecide(answered: unknown): DeferredRestartVerdict {
+function readDecide(answered: unknown): DeferredRestartVerdict {
   return DecideZ.parse(answered)[RULE].decideDeferredRestart
 }
 
-export function readWindows(answered: unknown): DeferredRestartWindows {
+function readWindows(answered: unknown): DeferredRestartWindows {
   const held = WindowsZ.parse(answered)[RULE]
   return {
     maxDeferMs: held.resolveMaxDeferMs,
@@ -112,13 +112,11 @@ export function readWindows(answered: unknown): DeferredRestartWindows {
   }
 }
 
-export function askConstants(
-  ask?: AskDecide
-): Promise<RuleAnswer<DeferredRestartConstants | null>> {
+function askConstants(ask?: AskDecide): Promise<RuleAnswer<DeferredRestartConstants | null>> {
   return askRule(RULE, { constants: true }, readConstants, null, ask)
 }
 
-export function askDecide(
+function askDecide(
   state: DeferredRestartState | null,
   obs: DeferredRestartObservation,
   config?: DeferredRestartConfig,
@@ -133,7 +131,7 @@ export function askDecide(
   )
 }
 
-export function askWindows(
+function askWindows(
   raw: DeferredRestartRawWindows,
   ask?: AskDecide
 ): Promise<RuleAnswer<DeferredRestartWindows | null>> {

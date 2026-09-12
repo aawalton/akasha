@@ -17,9 +17,7 @@ const DELEGATION_OFF =
 
 const AGENT_MAP = shape.record(shape.string(), shape.unknown())
 
-export function renderSubagentDefinitions(
-  composed: Readonly<Record<string, Definition>>
-): string | null {
+function renderSubagentDefinitions(composed: Readonly<Record<string, Definition>>): string | null {
   const parsed = AGENT_MAP.safeParse(composed)
   if (!parsed.success) return null
   if (Object.keys(parsed.data).length === 0) return null

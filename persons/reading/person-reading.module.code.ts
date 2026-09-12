@@ -64,7 +64,7 @@ export function peopleStanding(root: string): readonly Person[] {
   return [...found].sort((one, two) => (one.slug < two.slug ? -1 : one.slug > two.slug ? 1 : 0))
 }
 
-export function personAt(root: string, slug: string): Person | null {
+function personAt(root: string, slug: string): Person | null {
   const listed = listedAt(root, PAGE_TYPE, slug)[0]
   return listed === undefined ? null : personFrom(root, listed)
 }

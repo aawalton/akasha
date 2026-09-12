@@ -8,7 +8,7 @@ function actionOf(value: unknown): AgentActionEvent["action"] | null {
   return ACTIONS.find((one) => one === value) ?? null
 }
 
-export function extractAgentAction(attrs: Record<string, unknown> | null): AgentActionEvent | null {
+function extractAgentAction(attrs: Record<string, unknown> | null): AgentActionEvent | null {
   const action = actionOf(attrs?.requestedAction)
   if (action === null) return null
   if (action === "swap-proxy") return { action }
@@ -19,7 +19,7 @@ export function extractAgentAction(attrs: Record<string, unknown> | null): Agent
   return { action, interruptMessage, restartArmedAt }
 }
 
-export async function readAgentAction(agentId: string): Promise<AgentActionEvent | null> {
+async function readAgentAction(agentId: string): Promise<AgentActionEvent | null> {
   try {
     return extractAgentAction(controlOf(agentId))
   } catch (err) {

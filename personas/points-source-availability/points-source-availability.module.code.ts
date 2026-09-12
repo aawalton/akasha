@@ -1,4 +1,4 @@
-export const UNAVAILABLE_POINTS_SOURCE_KIND = "unavailable"
+const UNAVAILABLE_POINTS_SOURCE_KIND = "unavailable"
 
 export interface PointsSourceAvailabilityRow {
   readonly pointsSourceKind?: string | null | undefined

@@ -20,7 +20,7 @@ export type RestartNoticePlan = Infer<typeof RestartNoticeVerdictZ>
 
 export type AskDecide = (stdin: string) => Promise<unknown>
 
-export const DECISION_UNREACHED_PREFIX = `${SUPERVISOR_NOTICE_PREFIX} Your resume notice could not be decided`
+const DECISION_UNREACHED_PREFIX = `${SUPERVISOR_NOTICE_PREFIX} Your resume notice could not be decided`
 
 const REASON_CAP = 400
 

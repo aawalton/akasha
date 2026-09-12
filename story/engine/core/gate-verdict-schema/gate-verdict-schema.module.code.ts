@@ -1,14 +1,14 @@
 import { z } from "zod"
 
-export const GATE_VERDICT_OVERALLS = ["PASS", "PASS-repaired", "REGEN", "EXHAUSTED"] as const
-export const GateVerdictOverallSchema = z.enum(GATE_VERDICT_OVERALLS)
+const GATE_VERDICT_OVERALLS = ["PASS", "PASS-repaired", "REGEN", "EXHAUSTED"] as const
+const GateVerdictOverallSchema = z.enum(GATE_VERDICT_OVERALLS)
 export type GateVerdictOverall = z.infer<typeof GateVerdictOverallSchema>
 
-export const GATE_FINDING_VERDICTS = ["clean", "finding", "suspended"] as const
-export const GateFindingVerdictSchema = z.enum(GATE_FINDING_VERDICTS)
+const GATE_FINDING_VERDICTS = ["clean", "finding", "suspended"] as const
+const GateFindingVerdictSchema = z.enum(GATE_FINDING_VERDICTS)
 export type GateFindingVerdict = z.infer<typeof GateFindingVerdictSchema>
 
-export const GateFindingSchema = z
+const GateFindingSchema = z
   .object({
     dimension: z.string().min(1),
     verdict: GateFindingVerdictSchema,
@@ -17,7 +17,7 @@ export const GateFindingSchema = z
   .strict()
 export type GateFinding = z.infer<typeof GateFindingSchema>
 
-export const GateVerdictSchema = z
+const GateVerdictSchema = z
   .object({
     overall: GateVerdictOverallSchema,
     turnExternalId: z.string().min(1),

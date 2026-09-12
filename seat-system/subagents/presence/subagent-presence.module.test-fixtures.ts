@@ -63,7 +63,7 @@ export const AGENT = "01a05844-6e60-7000-b54c-4b14559df70d"
 
 export const OWN = "a38f63805f9b94edf"
 
-export const TREE = "akasha"
+const TREE = "akasha"
 
 export const SEAT_AT = `${TREE}/seat-system/seats/pages/akasha.seat.ts`
 
@@ -109,7 +109,7 @@ function seedIn(): string {
   return seed
 }
 
-export function seated(root: string): string {
+function seated(root: string): string {
   cpSync(seedIn(), root, { recursive: true })
   return root
 }
@@ -213,7 +213,7 @@ export async function loggedAt(at: string, within: number): Promise<string> {
   return existsSync(at) ? readFileSync(at, "utf8") : ""
 }
 
-export const STAMP = /^(\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\.\d{3}[+-]\d{2}:\d{2}) /
+const STAMP = /^(\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\.\d{3}[+-]\d{2}:\d{2}) /
 
 function parseStampDate(found: RegExpExecArray | null): Date | null {
   if (found === null) return null

@@ -5,7 +5,7 @@ export const CHANGE_CLAUSE =
 
 export const SCENE_PLACEHOLDER = "<a fitting moment for this closeness — fill this in>."
 
-export const DEFAULT_LENS_CUE = "Shot on an 85mm portrait lens, under soft natural daylight."
+const DEFAULT_LENS_CUE = "Shot on an 85mm portrait lens, under soft natural daylight."
 
 export const UNIVERSAL_SCENE_DIRECTION =
   "Throughout: her softness and safety stay fully lit — warm and attuned, never cold, clinical, " +

@@ -1,6 +1,6 @@
-export const PROXY_LIVENESS_FAILURE_THRESHOLD = 3
+const PROXY_LIVENESS_FAILURE_THRESHOLD = 3
 
-export const PROXY_LIVENESS_MAX_CONSECUTIVE_RESPAWNS = 3
+const PROXY_LIVENESS_MAX_CONSECUTIVE_RESPAWNS = 3
 
 export type ProxyLivenessState = {
   readonly consecutiveFailures: number

@@ -1,4 +1,4 @@
-export const GREEN_DAY_POINTS_FIELD = "greenDayPoints"
+const GREEN_DAY_POINTS_FIELD = "greenDayPoints"
 
 export interface PersonaGreenDayPoints {
   readonly slug?: string | null | undefined

@@ -24,7 +24,7 @@ type CarriedRow =
   | null
   | undefined
 
-export function pickCarriedAgentName(row: CarriedRow): CarriedAgentName | null {
+function pickCarriedAgentName(row: CarriedRow): CarriedAgentName | null {
   if (row == null) return null
   const name = row.name
   if (name == null || name.length === 0) return null

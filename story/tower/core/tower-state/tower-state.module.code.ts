@@ -4,7 +4,7 @@ import {
 } from "akasha/story/tower/core/revealed-sheet/revealed-sheet.module.code.ts"
 import { z } from "zod"
 
-export const BeatSchema = z
+const BeatSchema = z
   .object({
     id: z.string().min(1),
     turn: z.number(),
@@ -16,7 +16,7 @@ export const BeatSchema = z
   .passthrough()
 export type Beat = z.infer<typeof BeatSchema>
 
-export const ChapterEntrySchema = z
+const ChapterEntrySchema = z
   .object({
     number: z.number(),
     title: z.string(),
@@ -30,7 +30,7 @@ export const ChapterEntrySchema = z
   .passthrough()
 export type ChapterEntry = z.infer<typeof ChapterEntrySchema>
 
-export const IllustrationSchema = z
+const IllustrationSchema = z
   .object({
     anchor: z.string().min(1),
     src: z.string().min(1),
@@ -40,14 +40,14 @@ export const IllustrationSchema = z
   .passthrough()
 export type Illustration = z.infer<typeof IllustrationSchema>
 
-export const IllustrationsSchema = z.array(IllustrationSchema)
+const IllustrationsSchema = z.array(IllustrationSchema)
 export type Illustrations = z.infer<typeof IllustrationsSchema>
 
 export function parseIllustrations(raw: string): Illustrations {
   return IllustrationsSchema.parse(JSON.parse(raw))
 }
 
-export const TowerStateSchema = z
+const TowerStateSchema = z
   .object({
     title: z.string().optional(),
     turn: z.number(),
@@ -65,7 +65,7 @@ export function parseTowerState(raw: string): TowerState {
   return TowerStateSchema.parse(JSON.parse(raw))
 }
 
-export const TrimDocSchema = z
+const TrimDocSchema = z
   .object({
     log: z.array(z.object({ id: z.string() }).passthrough()),
     chapters: z.array(z.unknown()),

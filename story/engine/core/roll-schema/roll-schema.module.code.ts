@@ -1,6 +1,6 @@
 import { z } from "zod"
 
-export const DiceTermSchema = z
+const DiceTermSchema = z
   .object({
     count: z.number().int().positive(),
     sides: z.number().int().positive(),
@@ -12,7 +12,7 @@ export const DiceTermSchema = z
   .strict()
 export type DiceTerm = z.infer<typeof DiceTermSchema>
 
-export const ParsedDiceSchema = z
+const ParsedDiceSchema = z
   .object({
     terms: z.array(DiceTermSchema).min(1),
     modifier: z.number().int(),
@@ -21,7 +21,7 @@ export const ParsedDiceSchema = z
   .strict()
 export type ParsedDice = z.infer<typeof ParsedDiceSchema>
 
-export const TermResultSchema = z
+const TermResultSchema = z
   .object({
     count: z.number().int().positive(),
     sides: z.number().int().positive(),
@@ -32,7 +32,7 @@ export const TermResultSchema = z
   .strict()
 export type TermResult = z.infer<typeof TermResultSchema>
 
-export const RollOutcomeSchema = z
+const RollOutcomeSchema = z
   .object({
     terms: z.array(TermResultSchema).min(1),
     modifier: z.number().int(),

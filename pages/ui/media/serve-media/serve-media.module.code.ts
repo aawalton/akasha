@@ -16,7 +16,7 @@ import {
 import { requireMatchPositional } from "akasha/utils/narrow/require-match-positional/require-match-positional.module.code.ts"
 import { z } from "zod"
 
-export const MEDIA_RANGE_CAP_BYTES = 8 * 1024 * 1024
+const MEDIA_RANGE_CAP_BYTES = 8 * 1024 * 1024
 export const MEDIA_VARIANT_PATTERN = /^[a-z0-9-]+$/i
 
 const SINGLE_BYTE_RANGE_PATTERN = /^bytes=(\d+)-(\d*)$/
@@ -43,7 +43,7 @@ function rangeParts(rangeHeader: string): readonly [number, string] | null {
   }
 }
 
-export function capMediaRange(rangeHeader: string, cap: number): string {
+function capMediaRange(rangeHeader: string, cap: number): string {
   const parts = rangeParts(rangeHeader)
   if (parts === null) return rangeHeader
   const [start, endStr] = parts
@@ -53,7 +53,7 @@ export function capMediaRange(rangeHeader: string, cap: number): string {
   return `bytes=${start}-${end}`
 }
 
-export function mediaRangeStart(rangeHeader: string | null): number {
+function mediaRangeStart(rangeHeader: string | null): number {
   if (rangeHeader == null) return 0
   const parts = rangeParts(rangeHeader)
   return parts === null ? 0 : parts[0]
@@ -71,7 +71,7 @@ export async function mediaPageExists(pageId: string): Promise<boolean> {
   return false
 }
 
-export function buildMediaStreamResponse(
+function buildMediaStreamResponse(
   stream: ObjectStreamResult,
   contentType: string,
   headers: Headers

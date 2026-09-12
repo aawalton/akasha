@@ -6,7 +6,7 @@ import {
 } from "akasha/story/engine/core/game-schema/game-schema.module.code.ts"
 import { z } from "zod"
 
-export const ChapterProseDefaultsSchema = z
+const ChapterProseDefaultsSchema = z
   .object({
     titles: ChapterProseTitlesSchema.optional(),
     pastTurns: ChapterProsePastTurnsSchema.optional(),
@@ -14,8 +14,8 @@ export const ChapterProseDefaultsSchema = z
   .strict()
 export type ChapterProseDefaults = z.infer<typeof ChapterProseDefaultsSchema>
 
-export const CHAPTER_PROSE_TITLES_DEFAULT: ChapterProseTitles = "shown"
-export const CHAPTER_PROSE_PAST_TURNS_DEFAULT: ChapterProsePastTurns = "plain"
+const CHAPTER_PROSE_TITLES_DEFAULT: ChapterProseTitles = "shown"
+const CHAPTER_PROSE_PAST_TURNS_DEFAULT: ChapterProsePastTurns = "plain"
 
 export interface ResolvedChapterProseDials {
   readonly titles: ChapterProseTitles

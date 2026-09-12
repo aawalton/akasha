@@ -28,7 +28,7 @@ const STALE_PROXY_SHUTDOWN_BUDGET_MS = 5_000
 
 const POLL_INTERVAL_MS = 100
 
-export const HEALTHZ_TIMEOUT_MS = 10_000
+const HEALTHZ_TIMEOUT_MS = 10_000
 
 const STDERR_LOG = "oauth-proxy.stderr.log"
 

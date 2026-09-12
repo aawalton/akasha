@@ -26,7 +26,7 @@ export type PreCliffRestartRuleSource = (
   thresholdMs: number
 ) => Promise<RuleAnswer<PreCliffDecision>>
 
-export function readPreCliffRestart(answered: unknown): PreCliffDecision {
+function readPreCliffRestart(answered: unknown): PreCliffDecision {
   return AnswerZ.parse(answered)[RULE].decidePreCliffRestart
 }
 

@@ -7,11 +7,11 @@ import {
 } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 import { personSlugForAccount } from "akasha/persons/enrolment/person-enrolment.module.code.ts"
 
-export const DEVICE_TOKEN_PAGE_TYPE_SLUG = "device-token"
+const DEVICE_TOKEN_PAGE_TYPE_SLUG = "device-token"
 
-export const IOS_APP_PAGE_TYPE_SLUG = "ios-app"
+const IOS_APP_PAGE_TYPE_SLUG = "ios-app"
 
-export const DEVICE_TOKEN_WRITER = "device token registration <push@alanwalton.com>"
+const DEVICE_TOKEN_WRITER = "device token registration <push@alanwalton.com>"
 
 export interface DeviceTokenRegistration {
   readonly userId: string
@@ -29,11 +29,7 @@ export type Reached =
   | { readonly ok: true; readonly tokens: readonly DeviceTokenReached[] }
   | { readonly ok: false; readonly why: string }
 
-export function deviceTokenSlugFor(
-  personSlug: string,
-  iosAppSlug: string,
-  deviceToken: string
-): string {
+function deviceTokenSlugFor(personSlug: string, iosAppSlug: string, deviceToken: string): string {
   return `${personSlug}-${iosAppSlug}-${deviceToken.toLowerCase()}`
 }
 

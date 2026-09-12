@@ -4,11 +4,11 @@ import {
 } from "akasha/story/engine/core/schema-violation/schema-violation.module.code.ts"
 import { z } from "zod"
 
-export const FOG_REPORT_SEATS = ["resolver", "worldbuilder", "loremaker"] as const
+const FOG_REPORT_SEATS = ["resolver", "worldbuilder", "loremaker"] as const
 
-export const FOG_REF_KINDS = ["entity", "turn", "pool", "section", "roll", "state"] as const
+const FOG_REF_KINDS = ["entity", "turn", "pool", "section", "roll", "state"] as const
 
-export const FogRefSchema = z
+const FogRefSchema = z
   .object({
     kind: z.enum(FOG_REF_KINDS),
     slug: z.string().min(1),
@@ -16,7 +16,7 @@ export const FogRefSchema = z
   .strict()
 export type FogRef = z.infer<typeof FogRefSchema>
 
-export const FogReportSchema = z
+const FogReportSchema = z
   .object({
     seat: z.enum(FOG_REPORT_SEATS),
     counts: z.record(z.string(), z.number().int().nonnegative()).default({}),

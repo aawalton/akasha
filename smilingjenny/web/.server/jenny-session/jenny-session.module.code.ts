@@ -4,7 +4,7 @@ import { redirect } from "react-router"
 
 export const SIGN_IN_PATH = "/sign-in"
 
-export const JENNY_USER_ID = "9bc63b11-d301-4a51-8839-7371336262c7"
+const JENNY_USER_ID = "9bc63b11-d301-4a51-8839-7371336262c7"
 
 export type SignedIn = { user: SupabaseUser; headers: Headers }
 

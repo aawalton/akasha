@@ -9,7 +9,7 @@ import { z } from "zod"
 
 export const DOCTRINE_POLICY_ID_PREFIX = "doctrine:"
 
-export const DoctrineSchema = z
+const DoctrineSchema = z
   .object({
     doctrineVersion: z.number().int().nonnegative(),
     policies: z.array(GmPolicySchema),
@@ -20,7 +20,7 @@ export const DoctrineSchema = z
   .strict()
 export type Doctrine = z.infer<typeof DoctrineSchema>
 
-export const DoctrinePatchSchema = z
+const DoctrinePatchSchema = z
   .object({
     doctrineVersion: z.number().int().nonnegative().optional(),
     policies: z.array(GmPolicySchema).optional(),

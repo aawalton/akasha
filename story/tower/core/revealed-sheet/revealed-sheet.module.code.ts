@@ -26,7 +26,7 @@ export const HudSchema = z.object({
 })
 export type Hud = z.infer<typeof HudSchema>
 
-export const RevealedSkillSchema = z.object({
+const RevealedSkillSchema = z.object({
   name: z.string().optional(),
   rung: z.string().optional(),
   score: z.number().optional(),
@@ -35,7 +35,7 @@ export const RevealedSkillSchema = z.object({
 })
 export type RevealedSkill = z.infer<typeof RevealedSkillSchema>
 
-export const RevealedAffinitySchema = z.object({
+const RevealedAffinitySchema = z.object({
   name: z.string().optional(),
   value: z.number().optional(),
   note: z.string().optional(),
@@ -43,7 +43,7 @@ export const RevealedAffinitySchema = z.object({
 })
 export type RevealedAffinity = z.infer<typeof RevealedAffinitySchema>
 
-export const RevealedEquipSlotSchema = z.object({
+const RevealedEquipSlotSchema = z.object({
   name: z.string().optional(),
   atk: z.number().optional(),
   def: z.number().optional(),
@@ -51,7 +51,7 @@ export const RevealedEquipSlotSchema = z.object({
 })
 export type RevealedEquipSlot = z.infer<typeof RevealedEquipSlotSchema>
 
-export const RevealedInventoryItemSchema = z.object({
+const RevealedInventoryItemSchema = z.object({
   name: z.string().optional(),
   note: z.string().optional(),
   new: z.boolean().optional(),

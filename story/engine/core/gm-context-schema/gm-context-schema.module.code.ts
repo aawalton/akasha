@@ -3,8 +3,8 @@ import { SheetEntryTemplateSchema } from "akasha/story/engine/core/sheet-templat
 import { TallyCatalogSchema } from "akasha/story/engine/core/tally-catalog/tally-catalog.module.code.ts"
 import { z } from "zod"
 
-export const SYSTEM_VOICE_VALUES = ["mute", "declared"] as const
-export const SystemVoiceSchema = z.enum(SYSTEM_VOICE_VALUES)
+const SYSTEM_VOICE_VALUES = ["mute", "declared"] as const
+const SystemVoiceSchema = z.enum(SYSTEM_VOICE_VALUES)
 export type SystemVoice = z.infer<typeof SystemVoiceSchema>
 
 export const GmPolicySchema = z
@@ -17,7 +17,7 @@ export const GmPolicySchema = z
   .strict()
 export type GmPolicy = z.infer<typeof GmPolicySchema>
 
-export const TurnObligationSchema = z
+const TurnObligationSchema = z
   .object({
     id: z.string(),
     requirement: z.string(),
@@ -26,7 +26,7 @@ export const TurnObligationSchema = z
   .strict()
 export type TurnObligation = z.infer<typeof TurnObligationSchema>
 
-export const TurnContractSchema = z
+const TurnContractSchema = z
   .object({
     obligations: z.array(TurnObligationSchema).default([]),
     notes: z.string().optional(),
@@ -53,7 +53,7 @@ export function parseGmContext(value: unknown): GmContext | null {
   return GmContextSchema.parse(value)
 }
 
-export const GmReferenceSectionSchema = z
+const GmReferenceSectionSchema = z
   .object({
     id: z.string(),
     title: z.string(),

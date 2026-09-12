@@ -1,7 +1,7 @@
 import type { RevealedSheet } from "akasha/story/engine/core/revealed/revealed.module.code.ts"
 import { z } from "zod"
 
-export const QuestWindowSchema = z
+const QuestWindowSchema = z
   .object({
     id: z.string().optional(),
     title: z.string(),
@@ -11,7 +11,7 @@ export const QuestWindowSchema = z
   .strict()
 export type QuestWindow = z.infer<typeof QuestWindowSchema>
 
-export const ItemAwardDescriptorSchema = z
+const ItemAwardDescriptorSchema = z
   .object({
     label: z.string(),
     value: z.string(),
@@ -19,7 +19,7 @@ export const ItemAwardDescriptorSchema = z
   .strict()
 export type ItemAwardDescriptor = z.infer<typeof ItemAwardDescriptorSchema>
 
-export const ItemAwardSchema = z
+const ItemAwardSchema = z
   .object({
     id: z.string().optional(),
     item: z.string(),
@@ -28,7 +28,7 @@ export const ItemAwardSchema = z
   .strict()
 export type ItemAward = z.infer<typeof ItemAwardSchema>
 
-export const StatusAssessmentSchema = z
+const StatusAssessmentSchema = z
   .object({
     name: z.string(),
     level: z.number().optional(),
@@ -39,7 +39,7 @@ export const StatusAssessmentSchema = z
   .strict()
 export type StatusAssessment = z.infer<typeof StatusAssessmentSchema>
 
-export const TalentActivationSchema = z
+const TalentActivationSchema = z
   .object({
     holder: z.string(),
     talent: z.string(),
@@ -49,7 +49,7 @@ export const TalentActivationSchema = z
   .strict()
 export type TalentActivation = z.infer<typeof TalentActivationSchema>
 
-export const SystemChoiceOptionSchema = z
+const SystemChoiceOptionSchema = z
   .object({
     id: z.string(),
     label: z.string(),
@@ -58,7 +58,7 @@ export const SystemChoiceOptionSchema = z
   .strict()
 export type SystemChoiceOption = z.infer<typeof SystemChoiceOptionSchema>
 
-export const SystemChoiceSchema = z
+const SystemChoiceSchema = z
   .object({
     id: z.string(),
     title: z.string(),

@@ -1,6 +1,6 @@
 import { z } from "zod"
 
-export const EntitySheetSchema = z
+const EntitySheetSchema = z
   .object({
     name: z.string().optional(),
     kind: z.string().optional(),

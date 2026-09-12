@@ -37,7 +37,7 @@ export const meta: Route.MetaFunction = () => [
   { name: "description", content: "Archive of Worlds" },
 ]
 
-export async function loader({ request, context }: Route.LoaderArgs) {
+async function loader({ request, context }: Route.LoaderArgs) {
   const guard = await authGuard(request, AUTH_CONFIG)
   if (guard instanceof Response) return guard
   return data({ nonce: context.nonce }, { headers: guard.headers })

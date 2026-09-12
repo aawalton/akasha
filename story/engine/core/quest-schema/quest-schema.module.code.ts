@@ -1,10 +1,10 @@
 import { z } from "zod"
 
-export const QUEST_STATUSES = ["active", "complete"] as const
-export const QuestStatusSchema = z.enum(QUEST_STATUSES)
+const QUEST_STATUSES = ["active", "complete"] as const
+const QuestStatusSchema = z.enum(QUEST_STATUSES)
 export type QuestStatus = z.infer<typeof QuestStatusSchema>
 
-export const StoredQuestStatusSchema = z.preprocess(
+const StoredQuestStatusSchema = z.preprocess(
   (value) => (value === "offered" ? "active" : value),
   QuestStatusSchema
 )

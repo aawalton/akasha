@@ -14,7 +14,7 @@ export interface PersonaTarget {
 
 const NONE: readonly CommsRule[] = []
 
-export async function listPersonaTargets(): Promise<readonly PersonaTarget[]> {
+async function listPersonaTargets(): Promise<readonly PersonaTarget[]> {
   const root = rootFor(resolveRoots(), AKASHA)
   return personasStanding(root).map((one) => ({
     id: one.id,

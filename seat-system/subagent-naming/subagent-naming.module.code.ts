@@ -1,4 +1,4 @@
-export const SUBAGENT_MARK = "--"
+const SUBAGENT_MARK = "--"
 
 export function seatAbove(agent: string): string | null {
   const at = agent.indexOf(SUBAGENT_MARK)

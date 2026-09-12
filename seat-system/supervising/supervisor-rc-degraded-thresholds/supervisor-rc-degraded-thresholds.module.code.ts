@@ -1,22 +1,22 @@
-export const RC_CONNECTION_SIGNATURE = {
+const RC_CONNECTION_SIGNATURE = {
   activeStart: 7,
   idleBaseline: 2,
   degraded: 1,
 } as const
 
-export const DEFAULT_HEALTHY_FLOOR = RC_CONNECTION_SIGNATURE.idleBaseline
+const DEFAULT_HEALTHY_FLOOR = RC_CONNECTION_SIGNATURE.idleBaseline
 
-export const DEFAULT_DEBOUNCE_STREAK = 4
+const DEFAULT_DEBOUNCE_STREAK = 4
 
-export const DEFAULT_RECOVERY_STREAK = DEFAULT_DEBOUNCE_STREAK
+const DEFAULT_RECOVERY_STREAK = DEFAULT_DEBOUNCE_STREAK
 
-export const DEFAULT_REALERT_COOLDOWN_SEC = 1800
+const DEFAULT_REALERT_COOLDOWN_SEC = 1800
 
-export const DEFAULT_BOOT_SETTLE_SEC = 90
+const DEFAULT_BOOT_SETTLE_SEC = 90
 
-export const DEFAULT_BOOT_CEILING_SEC = 600
+const DEFAULT_BOOT_CEILING_SEC = 600
 
-export const DEFAULT_BOOT_RETRY_ENABLED = true
+const DEFAULT_BOOT_RETRY_ENABLED = true
 
 export interface RcDegradedThresholds {
   readonly healthyFloor: number

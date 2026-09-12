@@ -152,7 +152,7 @@ function safeRealpath(p: string): string {
   }
 }
 
-export function reconcileDisabledMcpServers(
+function reconcileDisabledMcpServers(
   configDir: string,
   launchCwd: string,
   declaredServers: readonly string[]

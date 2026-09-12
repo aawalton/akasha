@@ -12,7 +12,7 @@ function claim(attributes: Attributes): string {
   return named.length === 0 ? "" : named.join(", ")
 }
 
-export const SEAT_READ = "akasha read"
+const SEAT_READ = "akasha read"
 
 const READING =
   "What that means is in pages, and none of them is here. They are read rather than handed " +
@@ -23,7 +23,7 @@ const UNKNOWN =
   "Nothing here states who you are: no persona, no domain and no role reached this prompt. Where " +
   "that is stated is behind the read below, so run it before you take yourself for nobody."
 
-export function compose(seat: string, sent = ""): string {
+function compose(seat: string, sent = ""): string {
   return (
     (seat === "" ? `${UNKNOWN}\n` : `You are ${seat}.\n`) +
     (sent === "" ? "" : `\n${sent}\n`) +

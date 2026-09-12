@@ -22,7 +22,7 @@ export const meta: Route.MetaFunction = () => [
   { name: "viewport", content: "width=device-width, initial-scale=1, viewport-fit=cover" },
 ]
 
-export const loader = rootNonceLoader
+const loader = rootNonceLoader
 
 export function Layout({ children }: { children: React.ReactNode }) {
   const nonce = useRouteLoaderData<typeof loader>("root")?.nonce

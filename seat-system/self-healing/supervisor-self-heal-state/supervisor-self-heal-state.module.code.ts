@@ -14,7 +14,7 @@ import { isProcessAlive } from "akasha/seat-system/supervising/supervisor-exec/s
 import { LIVE_IDLE_RULE } from "akasha/seat-system/supervising/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
 import { getInheritedClaude } from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
 
-export function inheritedClaudePid(): number | null {
+function inheritedClaudePid(): number | null {
   const inherited = getInheritedClaude()
   if (inherited === null) return null
   return isProcessAlive(inherited.pid) ? inherited.pid : null

@@ -192,12 +192,12 @@ function snapshotEntries(): ReadonlyArray<PageCardPerfEntry> {
   return out
 }
 
-export function getPageCardPerf(): PageCardPerf {
+function getPageCardPerf(): PageCardPerf {
   installWindowGlobals()
   return { entries: snapshotEntries() }
 }
 
-export function clearPageCardPerf(): undefined {
+function clearPageCardPerf(): undefined {
   installWindowGlobals()
   try {
     if (typeof performance !== "undefined") {

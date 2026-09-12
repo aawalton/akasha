@@ -4,9 +4,9 @@ import { peopleStanding } from "akasha/persons/reading/person-reading.module.cod
 
 export const SLUG_MARK = "<slug>"
 
-export const PERSONA_FALLBACK = `personas/personas/${SLUG_MARK}/${SLUG_MARK}.persona.ts`
+const PERSONA_FALLBACK = `personas/personas/${SLUG_MARK}/${SLUG_MARK}.persona.ts`
 
-export const PERSON_FALLBACK = `persons/pages/${SLUG_MARK}/${SLUG_MARK}.person.ts`
+const PERSON_FALLBACK = `persons/pages/${SLUG_MARK}/${SLUG_MARK}.person.ts`
 
 export interface Named {
   readonly slug: string
@@ -45,14 +45,14 @@ export function standsShell(paths: readonly string[]): string {
   return paths.map((at) => `[ -f "${at}" ]`).join(" || ")
 }
 
-export function personaPaths(slugVar: string): readonly string[] {
+function personaPaths(slugVar: string): readonly string[] {
   return pathsFor(
     shapesStanding(() => personasStanding(ownRepoRoot()), PERSONA_FALLBACK),
     slugVar
   )
 }
 
-export function personPaths(slugVar: string): readonly string[] {
+function personPaths(slugVar: string): readonly string[] {
   return pathsFor(
     shapesStanding(() => peopleStanding(ownRepoRoot()), PERSON_FALLBACK),
     slugVar

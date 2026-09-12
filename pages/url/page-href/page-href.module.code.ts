@@ -2,8 +2,8 @@ import type { Page } from "akasha/pages/core/page-types/page-types.module.code.t
 import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 
 export const ID_SUFFIX_LENGTH = 8
-export const ID_SUFFIX_PATTERN = /^[0-9a-f]{8}$/
-export const FALLBACK_SLUG = "untitled"
+const ID_SUFFIX_PATTERN = /^[0-9a-f]{8}$/
+const FALLBACK_SLUG = "untitled"
 
 export type PageHrefArgs = {
   pageTypeSlug: PageTypeSlug

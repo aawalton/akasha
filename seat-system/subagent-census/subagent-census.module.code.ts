@@ -61,7 +61,7 @@ function statedAt(absolute: string, root: string, key: string): string {
   return said === null ? "" : said
 }
 
-export function partedAgentId(agentId: string): { seatId: string; own: string } {
+function partedAgentId(agentId: string): { seatId: string; own: string } {
   const at = agentId.indexOf(SUBAGENT_MARK)
   if (at === -1) return { seatId: "", own: "" }
   return { seatId: agentId.slice(0, at), own: agentId.slice(at + SUBAGENT_MARK.length) }
@@ -214,13 +214,13 @@ function saidPids(pids: readonly number[]): string {
   return pids.length === 0 ? "no live process answers" : `pid ${pids.join(", ")} answers`
 }
 
-export function saidOf(one: Judged): string {
+function saidOf(one: Judged): string {
   const named = one.page.seatName === "" ? "no seat" : one.page.seatName
   const agent = one.page.agentId === "" ? "no agent id" : one.page.agentId
   return `${one.verdict.padEnd(12)} ${one.page.slug} — seat ${named}, agent ${agent}, ${saidPids(one.pids)}: ${one.why}`
 }
 
-export function talliedOver(judged: readonly Judged[]): string {
+function talliedOver(judged: readonly Judged[]): string {
   const held = (verdict: Verdict): number => judged.filter((one) => one.verdict === verdict).length
   return (
     `${String(judged.length)} subagent page(s): ${String(held(WORKING))} working, ` +

@@ -4,7 +4,7 @@ import type {
 } from "akasha/story/tower/engine/combat-types/combat-types.module.code.ts"
 import { z } from "zod"
 
-export const TowerRollPayloadSchema = z
+const TowerRollPayloadSchema = z
   .object({
     turn: z.number(),
     action: z.string().optional(),
@@ -33,7 +33,7 @@ export const TowerRollPayloadSchema = z
   .passthrough()
 export type TowerRollPayload = z.infer<typeof TowerRollPayloadSchema>
 
-export function parseRollLine(line: string): TowerRollPayload {
+function parseRollLine(line: string): TowerRollPayload {
   return TowerRollPayloadSchema.parse(JSON.parse(line))
 }
 

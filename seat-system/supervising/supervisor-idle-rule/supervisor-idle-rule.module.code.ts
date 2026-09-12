@@ -34,21 +34,21 @@ export type IdleRuleSource = {
   pastCliff: (obs: IdleObservation) => Promise<RuleAnswer<IdleVerdict>>
 }
 
-export function readIgnoredMcpCmdlines(answered: unknown): readonly boolean[] {
+function readIgnoredMcpCmdlines(answered: unknown): readonly boolean[] {
   return IgnoredZ.parse(answered)[RULE].ignoredMcpCmdlines
 }
 
-export function readPreservingRestart(answered: unknown): IdleVerdict {
+function readPreservingRestart(answered: unknown): IdleVerdict {
   const held = PreservingZ.parse(answered)[RULE]
   return { idle: held.preservingRestart, reason: held.busyReason }
 }
 
-export function readPastCliff(answered: unknown): IdleVerdict {
+function readPastCliff(answered: unknown): IdleVerdict {
   const held = PastCliffZ.parse(answered)[RULE]
   return { idle: held.preservingRestartPastCliff, reason: held.busyReason }
 }
 
-export function askIgnoredMcpCmdlines(
+function askIgnoredMcpCmdlines(
   cmdlines: readonly string[],
   ask?: AskDecide
 ): Promise<RuleAnswer<readonly boolean[]>> {
@@ -61,7 +61,7 @@ export function askIgnoredMcpCmdlines(
   )
 }
 
-export function askPreservingRestart(
+function askPreservingRestart(
   obs: IdleObservation,
   ask?: AskDecide
 ): Promise<RuleAnswer<IdleVerdict>> {
@@ -74,10 +74,7 @@ export function askPreservingRestart(
   )
 }
 
-export function askPastCliff(
-  obs: IdleObservation,
-  ask?: AskDecide
-): Promise<RuleAnswer<IdleVerdict>> {
+function askPastCliff(obs: IdleObservation, ask?: AskDecide): Promise<RuleAnswer<IdleVerdict>> {
   return askRule(
     RULE,
     { preservingRestartPastCliff: obs, busyReason: { obs, ignoreBusyChildren: true } },

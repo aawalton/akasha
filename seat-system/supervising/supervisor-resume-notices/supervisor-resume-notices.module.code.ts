@@ -22,9 +22,9 @@ export const HANDED_NOTICE_KEYS = [
   "restart-deferred",
 ] as const satisfies readonly (keyof ResumeNotices)[]
 
-export const NOTICE_UNAVAILABLE_PREFIX = `${SUPERVISOR_NOTICE_PREFIX} Your resume notice could not be composed`
+const NOTICE_UNAVAILABLE_PREFIX = `${SUPERVISOR_NOTICE_PREFIX} Your resume notice could not be composed`
 
-export function unavailable(reason: string): ResumeNotices {
+function unavailable(reason: string): ResumeNotices {
   const said = `${NOTICE_UNAVAILABLE_PREFIX}: ${reason}. Nothing was asked of you by this restart.`
   return {
     "restart-immediate": said,
@@ -33,7 +33,7 @@ export function unavailable(reason: string): ResumeNotices {
   }
 }
 
-export function checkNotices(
+function checkNotices(
   composed: Readonly<Record<string, string>>
 ): { notices: ResumeNotices } | { reason: string } {
   const result = ResumeNoticesZ.safeParse(composed)

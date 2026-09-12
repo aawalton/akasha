@@ -28,7 +28,7 @@ export type ClientBeat = Beat
 export const ClientQuestSchema = z.object(QuestSchema.shape).strict()
 export type ClientQuest = z.infer<typeof ClientQuestSchema>
 
-export const ClientSkillSchema = z.object({
+const ClientSkillSchema = z.object({
   name: z.string().optional(),
   rank: z.union([z.number(), z.string()]).optional(),
   score: z.number().optional(),
@@ -36,21 +36,21 @@ export const ClientSkillSchema = z.object({
 })
 export type ClientSkill = z.infer<typeof ClientSkillSchema>
 
-export const ClientAffinitySchema = z.object({
+const ClientAffinitySchema = z.object({
   name: z.string().optional(),
   value: z.number().optional(),
   note: z.string().optional(),
 })
 export type ClientAffinity = z.infer<typeof ClientAffinitySchema>
 
-export const ClientBondSchema = z.object({
+const ClientBondSchema = z.object({
   name: z.string().optional(),
   value: z.number().optional(),
   note: z.string().optional(),
 })
 export type ClientBond = z.infer<typeof ClientBondSchema>
 
-export const ClientItemSchema = z.object({
+const ClientItemSchema = z.object({
   name: z.string().optional(),
   note: z.string().optional(),
 })

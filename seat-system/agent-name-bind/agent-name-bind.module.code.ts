@@ -26,7 +26,7 @@ function readParentPid(pid: number): number | null {
   return Number.isInteger(ppid) && ppid > 0 ? ppid : null
 }
 
-export function isAncestorOfSelf(pid: number): boolean {
+function isAncestorOfSelf(pid: number): boolean {
   let cursor: number | null = process.pid
   for (let depth = 0; depth < ANCESTRY_DEPTH_LIMIT && cursor !== null; depth++) {
     if (cursor === pid) return true
@@ -36,7 +36,7 @@ export function isAncestorOfSelf(pid: number): boolean {
   return false
 }
 
-export function isPriorHolderCallerSeat(priorHolderId: string): boolean {
+function isPriorHolderCallerSeat(priorHolderId: string): boolean {
   const stated = agentHolderProcess(priorHolderId)
   const key = stated === null ? null : parseSeatProcKey(stated)
   if (key === null || seatProcKeyPresence(key) !== "present") return false

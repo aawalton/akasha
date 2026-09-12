@@ -7,7 +7,7 @@ const RETIRED_SKILL_REPLACEMENTS: Readonly<Record<string, string>> = {
   images: "run akasha inference generate --help",
 }
 
-export const SKILL_TOKEN_GUARD_DECISIONS = ["allow", "reject"] as const
+const SKILL_TOKEN_GUARD_DECISIONS = ["allow", "reject"] as const
 
 export type SkillTokenGuardDecisionKind = (typeof SKILL_TOKEN_GUARD_DECISIONS)[number]
 
@@ -15,7 +15,7 @@ export type SkillTokenGuardDecision =
   | { readonly kind: "allow" }
   | { readonly kind: "reject"; readonly reason: string }
 
-export function leadingSkillSlug(prompt: string): string | null {
+function leadingSkillSlug(prompt: string): string | null {
   const trimmed = prompt.trimStart()
   if (!trimmed.startsWith("/")) return null
   const token = trimmed.slice(1).split(/\s/)[0] ?? ""

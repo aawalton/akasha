@@ -8,7 +8,7 @@ const READ_END_FRACTION_THRESHOLD = 0.98
 
 const FITS_VIEWPORT_SCROLLABLE_PX = 4
 
-export function readEndContentFraction(args: {
+function readEndContentFraction(args: {
   scrollTop: number
   scrollable: number
   anchor: ReaderPositionAnchor | null

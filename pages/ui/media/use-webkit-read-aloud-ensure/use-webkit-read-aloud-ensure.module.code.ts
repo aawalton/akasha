@@ -14,7 +14,7 @@ const ensureResponseSchema = z.object({
   status: z.enum(["ready", "generating", "unavailable"]),
 })
 
-export async function webEnsureRendition(track: {
+async function webEnsureRendition(track: {
   pageId: string
   medium: string
 }): Promise<EnsureRenditionStatus> {

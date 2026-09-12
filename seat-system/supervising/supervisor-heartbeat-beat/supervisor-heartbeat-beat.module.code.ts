@@ -98,7 +98,7 @@ async function beatReport(args: readonly string[]): Promise<BeatReport> {
   }
 }
 
-export function writeSeatProcessKey(seatName: string, supervisorPid: number): undefined {
+function writeSeatProcessKey(seatName: string, supervisorPid: number): undefined {
   const key = readSeatProcKey(supervisorPid)
   if (key === null) return undefined
   try {

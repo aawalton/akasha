@@ -5,7 +5,7 @@ import {
 
 export type ProxyStopDecision = { stop: boolean; reason: string }
 
-export function decideProxyStop(input: {
+function decideProxyStop(input: {
   selfPid: number
   handlePid: number
   state: OAuthProxyState | null

@@ -26,7 +26,7 @@ export const CHILD = "claude --dangerously-skip-permissions --model opus"
 
 export const TASK = "rg --json needle ."
 
-export const REFUSED = heldSaid(WAITED_AT_MOST)
+const REFUSED = heldSaid(WAITED_AT_MOST)
 
 export function agentIdOf(seatId: string, own: string): string {
   return `${seatId}--${own}`

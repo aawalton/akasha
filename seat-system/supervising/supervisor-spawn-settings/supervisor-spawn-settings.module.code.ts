@@ -11,7 +11,7 @@ import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 
 const LOG = "[spawn-settings]"
 
-export const AGENT_SETTINGS_MODULE = "supervisor-agent-settings"
+const AGENT_SETTINGS_MODULE = "supervisor-agent-settings"
 
 const AGENTS = "agents"
 
@@ -24,7 +24,7 @@ function agentSettingsPath(): string {
 
 export const AGENT_SETTINGS_PATH = agentSettingsPath()
 
-export const PER_SPAWN_KEYS = ["remoteControlAtStartup"] as const
+const PER_SPAWN_KEYS = ["remoteControlAtStartup"] as const
 
 export type SpawnSettingsOverrides = {
   readonly [K in (typeof PER_SPAWN_KEYS)[number]]: boolean
@@ -48,7 +48,7 @@ export type SpawnSettingsBase =
 
 const SETTINGS_OBJECT = shape.record(shape.string(), shape.unknown())
 
-export function checkAgentSettings(document: Record<string, unknown>): SpawnSettingsBase {
+function checkAgentSettings(document: Record<string, unknown>): SpawnSettingsBase {
   const parsed = SETTINGS_OBJECT.safeParse(document)
   if (!parsed.success) {
     return { kind: "absent", reason: "expected a JSON object at the top level" }
@@ -72,7 +72,7 @@ export function readAgentSettingsBase(
   return Promise.resolve(checkAgentSettings(document))
 }
 
-export function composeSpawnSettings(
+function composeSpawnSettings(
   base: Record<string, unknown> | null,
   overrides: SpawnSettingsOverrides
 ): Record<string, unknown> {

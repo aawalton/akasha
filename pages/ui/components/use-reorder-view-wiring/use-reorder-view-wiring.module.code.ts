@@ -15,7 +15,7 @@ interface DeriveReorderCardsHandlerArgs {
   pageTypeSlug: string
 }
 
-export function deriveReorderCardsHandler({
+function deriveReorderCardsHandler({
   reorder,
   viewId,
   pageTypeSlug,

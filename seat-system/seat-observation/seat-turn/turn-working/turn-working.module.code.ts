@@ -3,7 +3,7 @@ import { keepBesideUnder } from "akasha/agents/seats/modules/beside/seat-beside.
 import { seatNameForAgent } from "akasha/agents/seats/modules/presence-read/seat-presence-read.module.code.ts"
 import { akashaObservedOf } from "akasha/seat-system/seat-akasha-read/seat-akasha-read.module.code.ts"
 
-export const WORKING_KEY = "turn-working"
+const WORKING_KEY = "turn-working"
 
 const TRANSCRIPT_KEY = "transcript-path"
 

@@ -69,7 +69,7 @@ const AFFINITY_ACQUIRED_RE = /^AFFINITY ACQUIRED — (.+)$/
 const CLASS_RE = /^CLASS — (.+)$/
 const TITLE_RE = /^TITLE — (.+)$/
 
-export function parseDing(line: string): ParsedDing | null {
+function parseDing(line: string): ParsedDing | null {
   const text = line.trim()
 
   if (LEVEL_RE.test(text)) {
@@ -128,7 +128,7 @@ export function parseDing(line: string): ParsedDing | null {
   return null
 }
 
-export function renderDing(ding: ParsedDing): string {
+function renderDing(ding: ParsedDing): string {
   switch (ding.kind) {
     case "level":
       return `LEVEL UP — ${ding.level}`
@@ -153,7 +153,7 @@ export type ProgressionState = {
   skill: Map<string, number>
   affinity: Map<string, number>
 }
-export function createProgressionState(): ProgressionState {
+function createProgressionState(): ProgressionState {
   return { skill: new Map(), affinity: new Map() }
 }
 
@@ -217,7 +217,7 @@ function isSoulAppraisal(heading: string): boolean {
   return /soul appraisal/i.test(heading)
 }
 
-export function reduceCard(
+function reduceCard(
   heading: string,
   bodyLines: readonly string[],
   state: ProgressionState

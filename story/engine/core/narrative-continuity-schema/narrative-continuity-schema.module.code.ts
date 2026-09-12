@@ -1,10 +1,10 @@
 import { z } from "zod"
 
-export const NARRATION_PERSONS = ["first", "second", "third"] as const
-export const NarrationPersonSchema = z.enum(NARRATION_PERSONS)
+const NARRATION_PERSONS = ["first", "second", "third"] as const
+const NarrationPersonSchema = z.enum(NARRATION_PERSONS)
 export type NarrationPerson = z.infer<typeof NarrationPersonSchema>
 
-export const NarrationSchema = z
+const NarrationSchema = z
   .object({
     person: NarrationPersonSchema,
     povCharacter: z.string().optional(),
@@ -13,7 +13,7 @@ export const NarrationSchema = z
   .strict()
 export type Narration = z.infer<typeof NarrationSchema>
 
-export const FrameSchema = z
+const FrameSchema = z
   .object({
     id: z.string(),
     name: z.string(),
@@ -22,11 +22,11 @@ export const FrameSchema = z
   .strict()
 export type Frame = z.infer<typeof FrameSchema>
 
-export const TRANSITION_MARKINGS = ["boundaries-only", "throughout"] as const
-export const TransitionMarkingSchema = z.enum(TRANSITION_MARKINGS)
+const TRANSITION_MARKINGS = ["boundaries-only", "throughout"] as const
+const TransitionMarkingSchema = z.enum(TRANSITION_MARKINGS)
 export type TransitionMarking = z.infer<typeof TransitionMarkingSchema>
 
-export const TransitionsSchema = z
+const TransitionsSchema = z
   .object({
     marking: TransitionMarkingSchema,
     convention: z.string().optional(),
@@ -34,7 +34,7 @@ export const TransitionsSchema = z
   .strict()
 export type Transitions = z.infer<typeof TransitionsSchema>
 
-export const FrameMapEntrySchema = z
+const FrameMapEntrySchema = z
   .object({
     character: z.string(),
     identities: z.record(z.string(), z.string()),

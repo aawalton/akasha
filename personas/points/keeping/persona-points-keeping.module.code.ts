@@ -9,7 +9,7 @@ const POINTS_TODAY = "pointsToday"
 
 const POINTS_TOTAL = "pointsTotal"
 
-export const MESSAGES_TO_THE_POINT = 100
+const MESSAGES_TO_THE_POINT = 100
 
 export type Paged = { readonly path: string }
 

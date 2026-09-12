@@ -67,10 +67,10 @@ export const CATALOG: TallyCatalog = {
   ],
 }
 
-export const TURN_1 =
+const TURN_1 =
   '"Stay," she said, unhurried. "I\'ve got you. I\'m not going anywhere."\nShe lets her shoulders drop. "There." Something settles below her ribs.'
 
-export const TURN_2 =
+const TURN_2 =
   "He loved the way she does everything. Stay meant stay, and she would stay.\nA warmth behind his ribs, and something somewhere under the ribs too."
 
 export const TURNS = [
@@ -96,7 +96,7 @@ export function total(result: ReturnType<typeof computeTally>, id: string) {
   return t
 }
 
-export const BOUNDARY_LENS: BoundaryLens = {
+const BOUNDARY_LENS: BoundaryLens = {
   runThreshold: 3,
   head: {
     fallback: "ambient-reestablish",

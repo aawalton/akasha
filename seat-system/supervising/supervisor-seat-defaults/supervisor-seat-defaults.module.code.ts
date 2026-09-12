@@ -22,7 +22,7 @@ export const AGENT_MODE_INTERACTIVE: SeatMode = "interactive"
 
 export const AGENT_MODE_HEADLESS: SeatMode = "headless"
 
-export function defaultStating(agentId: string, mode: SeatMode): Args {
+function defaultStating(agentId: string, mode: SeatMode): Args {
   return {
     set: {},
     initiative: null,
@@ -43,7 +43,7 @@ export function defaultStating(agentId: string, mode: SeatMode): Args {
   }
 }
 
-export function seatDefaultsStand(agentId: string, mode: SeatMode): boolean {
+function seatDefaultsStand(agentId: string, mode: SeatMode): boolean {
   if (mode !== AGENT_MODE_INTERACTIVE) return false
   if (seatNameForAgent(agentId) === null) return false
   if (!onCallOf(agentId)) return false
@@ -76,7 +76,7 @@ export async function stateSeatDefaults(opts: {
   await takeUpPageInHistory(opts.agentId)
 }
 
-export async function takeUpPageInHistory(agentId: string): Promise<void> {
+async function takeUpPageInHistory(agentId: string): Promise<void> {
   if (seatNameForAgent(agentId) !== null) return
   const held = nameFromHistory(agentId, resolveRoots())
   if (held === null) return

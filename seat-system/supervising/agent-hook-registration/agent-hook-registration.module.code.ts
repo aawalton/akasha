@@ -29,7 +29,7 @@ export interface HookRegistration {
   readonly hooks: readonly HookCommand[]
 }
 
-export function commandFor(event: string): string {
+function commandFor(event: string): string {
   return `${BUN} ${linkFor(event)}`
 }
 

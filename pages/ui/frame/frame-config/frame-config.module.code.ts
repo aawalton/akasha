@@ -10,7 +10,7 @@ export function frameSupportsFocusMode(config: FrameConfig | undefined): boolean
   return config?.focusMode === true
 }
 
-export function frameLoadScroll(config: FrameConfig | undefined): FrameLoadScroll | undefined {
+function frameLoadScroll(config: FrameConfig | undefined): FrameLoadScroll | undefined {
   return config?.autoScroll?.loadScroll
 }
 

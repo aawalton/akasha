@@ -5,19 +5,19 @@ import type { Infer } from "akasha/utils/narrow/shape-core/shape-core.module.cod
 
 const MS_PER_MINUTE = 60_000
 
-export const TypingMinuteRecordSchema = shape.object({
+const TypingMinuteRecordSchema = shape.object({
   minute: shape.number().finite(),
   seat: shape.string().min(1),
 })
 
 export type TypingMinuteRecord = Infer<typeof TypingMinuteRecordSchema>
 
-export function typingSpoolDir(): string {
+function typingSpoolDir(): string {
   const home = shape.string().default("/home/walton").parse(process.env.HOME)
   return `${home}/.cache/alan-typing-minutes`
 }
 
-export function minuteIndex(ms: number): number {
+function minuteIndex(ms: number): number {
   return Math.floor(ms / MS_PER_MINUTE)
 }
 
@@ -29,11 +29,11 @@ function dayKeyForMinute(index: number): string {
   return `${year}-${month}-${day}`
 }
 
-export function spoolFileForMinute(index: number): string {
+function spoolFileForMinute(index: number): string {
   return `${typingSpoolDir()}/${dayKeyForMinute(index)}.jsonl`
 }
 
-export function spoolLine(record: TypingMinuteRecord): string {
+function spoolLine(record: TypingMinuteRecord): string {
   return `${JSON.stringify(record)}\n`
 }
 

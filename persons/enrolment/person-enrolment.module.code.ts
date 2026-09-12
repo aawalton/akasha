@@ -4,7 +4,7 @@ import {
   type Sleeper,
 } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 
-export const PERSON_PAGE_TYPE = "person"
+const PERSON_PAGE_TYPE = "person"
 
 export const ACCOUNT_KEY = "supabaseAuthUserId"
 

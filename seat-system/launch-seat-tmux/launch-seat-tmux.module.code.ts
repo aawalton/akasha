@@ -36,11 +36,11 @@ export interface TmuxCall {
   readonly err: string
 }
 
-export function seatStartDir(): string {
+function seatStartDir(): string {
   return resolve(akashaRoot(), "..")
 }
 
-export function buildSupervisorCmd(root: string, opts: LaunchSeatOpts): readonly string[] {
+function buildSupervisorCmd(root: string, opts: LaunchSeatOpts): readonly string[] {
   const overrides = [
     ...(opts.modelOverride != null ? ["--model", opts.modelOverride] : []),
     ...(opts.anthropicBaseUrl != null ? ["--anthropic-base-url", opts.anthropicBaseUrl] : []),
@@ -61,10 +61,7 @@ export function buildSupervisorCmd(root: string, opts: LaunchSeatOpts): readonly
   ]
 }
 
-export function buildNewSessionArgs(
-  opts: LaunchSeatOpts,
-  cmd: readonly string[]
-): readonly string[] {
+function buildNewSessionArgs(opts: LaunchSeatOpts, cmd: readonly string[]): readonly string[] {
   return [
     "new-session",
     "-d",
@@ -102,7 +99,7 @@ async function tmux(args: readonly string[]): Promise<TmuxCall> {
   return runBounded(["tmux", ...args])
 }
 
-export async function sessionHolds(name: string): Promise<boolean> {
+async function sessionHolds(name: string): Promise<boolean> {
   return (await tmux(["has-session", "-t", `=${name}`])).code === 0
 }
 

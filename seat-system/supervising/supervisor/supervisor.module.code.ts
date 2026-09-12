@@ -17,7 +17,7 @@ import {
 } from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
 import { installSupervisorTerminalGuard } from "akasha/seat-system/supervising/supervisor-terminal/supervisor-terminal.module.code.ts"
 
-export async function supervisorMain(seams: RunInteractiveSeams): Promise<void> {
+async function supervisorMain(seams: RunInteractiveSeams): Promise<void> {
   const agentLog = buildAgentLogRedirect()
   setRestoreConsoleHandle(agentLog.redirectToBootstrap())
   const parsed = parseArgs(process.argv.slice(2))

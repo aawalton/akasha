@@ -16,7 +16,7 @@ const inFlightResponseShape = shape
   .object({ inFlight: shape.number().int().nonnegative() })
   .passthrough()
 
-export function parseInFlightResponse(body: unknown): number | null {
+function parseInFlightResponse(body: unknown): number | null {
   const parsed = inFlightResponseShape.safeParse(body)
   return parsed.success ? parsed.data.inFlight : null
 }
@@ -40,7 +40,7 @@ export interface DispatchChild {
   readonly presence: SeatPresence
 }
 
-export function selectInFlightDispatch(
+function selectInFlightDispatch(
   children: readonly DispatchChild[],
   parentAgentId: string
 ): readonly DispatchChild[] {
@@ -49,7 +49,7 @@ export function selectInFlightDispatch(
   )
 }
 
-export function dispatchChildrenNow(): readonly DispatchChild[] {
+function dispatchChildrenNow(): readonly DispatchChild[] {
   const found: DispatchChild[] = []
   for (const agentId of akashaSeatsThatExist().keys()) {
     found.push({

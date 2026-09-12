@@ -2,7 +2,7 @@ import type { SeatPresence } from "akasha/agents/seats/modules/proc-key/seat-pro
 
 export const DECLARING_MODULE = "spawn-guard"
 
-export const SPAWN_REJECT_BASES = ["holder-live", "holder-uncertain"] as const
+const SPAWN_REJECT_BASES = ["holder-live", "holder-uncertain"] as const
 
 export type SpawnRejectBasis = (typeof SPAWN_REJECT_BASES)[number]
 
@@ -10,7 +10,7 @@ export interface SpawnGuardInput {
   readonly holder: SeatPresence
 }
 
-export const SPAWN_GUARD_DECISIONS = ["allow", "reject"] as const
+const SPAWN_GUARD_DECISIONS = ["allow", "reject"] as const
 
 export type SpawnGuardDecisionKind = (typeof SPAWN_GUARD_DECISIONS)[number]
 

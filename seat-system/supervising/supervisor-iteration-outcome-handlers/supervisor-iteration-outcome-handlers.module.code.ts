@@ -13,7 +13,7 @@ type LoopDirective = "continue" | "break"
 
 type ActionEventOf<K extends AgentActionEvent["action"]> = Extract<AgentActionEvent, { action: K }>
 
-export function restartFirstTurn(plan: RestartNoticePlan): string {
+function restartFirstTurn(plan: RestartNoticePlan): string {
   return plan.route === "spawn-argv" ? plan.notice : ""
 }
 

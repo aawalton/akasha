@@ -34,7 +34,7 @@ export function namedAmong(nodes: readonly SubagentNode[], own: string): boolean
   return nodes.some((one) => one.agentId === own || namedAmong(one.children, own))
 }
 
-export function actingAs(root: string, page: string): Acting | null {
+function actingAs(root: string, page: string): Acting | null {
   const value = valueAt(page, root)
   const agentId = value === null ? null : textAt(value, AGENT_ID)
   if (agentId === null) return null

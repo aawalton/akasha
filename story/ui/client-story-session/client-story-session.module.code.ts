@@ -9,7 +9,7 @@ export const ClientStoryChapterSchema = z.object({
 })
 export type ClientStoryChapter = z.infer<typeof ClientStoryChapterSchema>
 
-export const ClientProseSegmentSchema = z.discriminatedUnion("kind", [
+const ClientProseSegmentSchema = z.discriminatedUnion("kind", [
   z.object({ kind: z.literal("prose"), text: z.string() }).strict(),
   z
     .object({

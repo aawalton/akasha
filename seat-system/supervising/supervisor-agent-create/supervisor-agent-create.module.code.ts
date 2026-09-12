@@ -5,7 +5,7 @@ export type RowAgentLaunch = "spawned" | "opened"
 
 const SPAWNED: RowAgentLaunch = "spawned"
 
-export function mintSeatId(): string {
+function mintSeatId(): string {
   return Bun.randomUUIDv7()
 }
 

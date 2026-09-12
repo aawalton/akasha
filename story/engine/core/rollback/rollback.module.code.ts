@@ -17,9 +17,9 @@ export const ROLLBACK_STATE_KEYS = [
   "revealedAt",
 ] as const
 
-export const ROLLBACK_ENTITY_KEYS = ["kind", "level", "sheet", "title", "revealGate"] as const
+const ROLLBACK_ENTITY_KEYS = ["kind", "level", "sheet", "title", "revealGate"] as const
 
-export const ROLLBACK_CONTINUITY_KEY = "narrativeContinuity"
+const ROLLBACK_CONTINUITY_KEY = "narrativeContinuity"
 
 export type ContinuityBranch = "exact-direct"
 

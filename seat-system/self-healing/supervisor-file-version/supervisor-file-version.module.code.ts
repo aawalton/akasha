@@ -28,7 +28,7 @@ function climbFrom(entry: string): readonly string[] {
   return climbing
 }
 
-export function namesWorkspaces(text: string): boolean {
+function namesWorkspaces(text: string): boolean {
   let read: unknown
   try {
     read = JSON.parse(text)
@@ -111,9 +111,9 @@ export function importGraph(
   return reached.sort()
 }
 
-export const SUPERVISOR_DATA_FILES: readonly string[] = [AGENT_SETTINGS_PATH]
+const SUPERVISOR_DATA_FILES: readonly string[] = [AGENT_SETTINGS_PATH]
 
-export function supervisorFileSet(
+function supervisorFileSet(
   entry: string,
   read: (path: string) => string | null = textThere,
   naming: Naming = namingFrom(entry)

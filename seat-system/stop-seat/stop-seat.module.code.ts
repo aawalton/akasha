@@ -13,7 +13,7 @@ import {
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { ending } from "akasha/utils/process/process-ending/process-ending.module.code.ts"
 
-export const SEAT_STOP_STATUSES = ["stopped", "already-exited", "reconciled"] as const
+const SEAT_STOP_STATUSES = ["stopped", "already-exited", "reconciled"] as const
 
 export type SeatStopStatus = (typeof SEAT_STOP_STATUSES)[number]
 

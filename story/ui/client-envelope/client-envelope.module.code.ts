@@ -21,7 +21,7 @@ export interface PendingActionInput {
   readonly submittedAt: number
 }
 
-export const ClientPendingActionSchema = z
+const ClientPendingActionSchema = z
   .object({
     text: z.string(),
     submittedAt: z.number(),
@@ -30,7 +30,7 @@ export const ClientPendingActionSchema = z
   .strict()
 export type ClientPendingAction = z.infer<typeof ClientPendingActionSchema>
 
-export const SessionEnvelopeSchema = z
+const SessionEnvelopeSchema = z
   .object({
     title: z.string(),
     chapterProse: z.array(ClientStoryTurnSchema).optional(),
@@ -44,7 +44,7 @@ export const SessionEnvelopeSchema = z
   .strict()
 export type SessionEnvelope = z.infer<typeof SessionEnvelopeSchema>
 
-export const ResolvedGameDisplaySchema = z
+const ResolvedGameDisplaySchema = z
   .object({
     modules: GameDisplayModulesSchema,
     pollMs: z.number(),
@@ -54,7 +54,7 @@ export const ResolvedGameDisplaySchema = z
   })
   .strict()
 
-export const AwenDisplayPropsSchema = z
+const AwenDisplayPropsSchema = z
   .object({
     game: z
       .object({

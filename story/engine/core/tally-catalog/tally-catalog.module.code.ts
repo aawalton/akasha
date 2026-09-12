@@ -7,11 +7,11 @@ export class TallyCatalogError extends Error {
   }
 }
 
-export const TALLY_PATTERN_FAMILIES = ["template", "let-verb", "telling"] as const
-export const TallyPatternFamilySchema = z.enum(TALLY_PATTERN_FAMILIES)
+const TALLY_PATTERN_FAMILIES = ["template", "let-verb", "telling"] as const
+const TallyPatternFamilySchema = z.enum(TALLY_PATTERN_FAMILIES)
 export type TallyPatternFamily = z.infer<typeof TallyPatternFamilySchema>
 
-export const TallyPatternSchema = z
+const TallyPatternSchema = z
   .object({
     id: z.string().min(1),
     family: TallyPatternFamilySchema,
@@ -22,7 +22,7 @@ export const TallyPatternSchema = z
   .strict()
 export type TallyPattern = z.infer<typeof TallyPatternSchema>
 
-export const BoundaryScreenSchema = z
+const BoundaryScreenSchema = z
   .object({
     category: z.string().min(1),
     regex: z.string().min(1),
@@ -32,7 +32,7 @@ export const BoundaryScreenSchema = z
   .strict()
 export type BoundaryScreen = z.infer<typeof BoundaryScreenSchema>
 
-export const BoundaryClassifierSchema = z
+const BoundaryClassifierSchema = z
   .object({
     screens: z.array(BoundaryScreenSchema),
     fallback: z.string().min(1),
@@ -40,7 +40,7 @@ export const BoundaryClassifierSchema = z
   .strict()
 export type BoundaryClassifier = z.infer<typeof BoundaryClassifierSchema>
 
-export const BoundaryYouInitialSchema = z
+const BoundaryYouInitialSchema = z
   .object({
     regex: z.string().min(1),
     flags: z.string().optional(),
@@ -49,7 +49,7 @@ export const BoundaryYouInitialSchema = z
   .strict()
 export type BoundaryYouInitial = z.infer<typeof BoundaryYouInitialSchema>
 
-export const BoundaryLensSchema = z
+const BoundaryLensSchema = z
   .object({
     runThreshold: z.number().int().min(2),
     head: BoundaryClassifierSchema,

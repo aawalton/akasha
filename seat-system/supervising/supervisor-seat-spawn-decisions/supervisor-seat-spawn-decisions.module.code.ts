@@ -28,7 +28,7 @@ function fallback(headless: boolean): SeatSpawnDecisions {
   return { remoteControl: remoteControlFallback(headless) }
 }
 
-export const DEFAULT_SEAT_SPAWN_DEPS: SeatSpawnDeps = {
+const DEFAULT_SEAT_SPAWN_DEPS: SeatSpawnDeps = {
   ask: askSupervisorDecide,
 }
 

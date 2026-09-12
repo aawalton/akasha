@@ -64,7 +64,7 @@ export interface ResumeSeatDeps {
   readonly launch: (opts: LaunchSeatOpts) => Promise<LaunchSeatResult>
 }
 
-export async function liveResumeSeatDeps(): Promise<ResumeSeatDeps> {
+async function liveResumeSeatDeps(): Promise<ResumeSeatDeps> {
   return {
     resolveTarget: resolveRelaunchTarget,
     decideGuard: decideSpawnGuard,

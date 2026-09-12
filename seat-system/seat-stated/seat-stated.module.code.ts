@@ -91,7 +91,7 @@ function modeIn(said: string | null): declarations.Mode | null {
   return declarations.MODES.find((one) => one === said) ?? null
 }
 
-export function mergeHeld(now: Stated, held: StatedFromHistory | null): Stated {
+function mergeHeld(now: Stated, held: StatedFromHistory | null): Stated {
   if (held === null) return now
   const heldMode = modeIn(held.mode)
   const attributes: { -readonly [K in declarations.AttributeKey]?: declarations.Attribute } = {

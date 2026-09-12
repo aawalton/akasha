@@ -1,4 +1,4 @@
-export const DEFAULT_REEXEC_MAX_JITTER_MS = 60_000
+const DEFAULT_REEXEC_MAX_JITTER_MS = 60_000
 
 export function computeReExecJitterMs(randFloat: number, maxJitterMs: number): number {
   if (!Number.isFinite(maxJitterMs) || maxJitterMs <= 0) return 0
