@@ -1,4 +1,4 @@
-import type { LogSource } from "akasha/seat-system/log-sources/log-source.page-type.types.ts"
+import type { LogSource } from "akasha/agents/seats/log-sources/log-source.page-type.types.ts"
 
 export const oauthProxyConsole = {
   id: "01a0657c-cb14-7832-8d4b-09d86276c2e5",
