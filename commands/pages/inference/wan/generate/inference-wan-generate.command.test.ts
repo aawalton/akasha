@@ -5,6 +5,8 @@ import {
   readGenerate,
 } from "akasha/commands/pages/inference/wan/generate/inference-wan-generate.command.code.ts"
 
+const CALLED = "akasha inference wan generate"
+
 function given(root: string): Given {
   return {
     root,
@@ -22,27 +24,36 @@ test("nothing said is refused, naming the flag it needs", async () => {
 })
 
 test("a flag another command takes is refused here", () => {
-  const said = readGenerate(["--prompt", "a stroll", "--video", "clip.mp4"])
+  const said = readGenerate(["--prompt", "a stroll", "--video", "clip.mp4"], CALLED)
   expect("refused" in said).toBe(true)
   if ("refused" in said) expect(said.refused[0]).toContain("--video")
 })
 
 test("a switch is held apart from a flag carrying a value", () => {
-  const said = readGenerate(["--prompt", "a stroll", "--lightning"])
+  const said = readGenerate(["--prompt", "a stroll", "--lightning"], CALLED)
   expect("refused" in said).toBe(false)
   if (!("refused" in said)) {
-    expect(said.on.has("--lightning")).toBe(true)
-    expect(said.said.get("--prompt")).toBe("a stroll")
+    expect(said.taken.lightning).toBe(true)
+    expect(said.taken.renderPrompt).toBe("a stroll")
   }
 })
 
-test("the defaults hold where nothing said them", () => {
-  const said = readGenerate(["--prompt", "a stroll"])
+test("the clip length holds the default its page states", () => {
+  const said = readGenerate(["--prompt", "a stroll"], CALLED)
   expect("refused" in said).toBe(false)
-  if (!("refused" in said)) {
-    expect(said.said.get("--size")).toBe("1280x720")
-    expect(said.said.get("--frames")).toBe("81")
-  }
+  if (!("refused" in said)) expect(said.taken.clipFrames).toBe(81)
+})
+
+test("the prompt and the file it sits in are never said together", () => {
+  const said = readGenerate(["--prompt", "a stroll", "--prompt-file", "p.txt"], CALLED)
+  expect("refused" in said).toBe(true)
+  if ("refused" in said) expect(said.refused[0]).toContain("--prompt-file")
+})
+
+test("a flag carrying its value at an equals sign is taken rather than refused", () => {
+  const said = readGenerate(["--prompt=a stroll", "--steps=8"], CALLED)
+  expect("refused" in said).toBe(false)
+  if (!("refused" in said)) expect(said.taken.steps).toBe(8)
 })
 
 test("naming neither conditioning image is the caller's mistake", async () => {

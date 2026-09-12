@@ -1,6 +1,9 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises"
 import { homedir } from "node:os"
 import { basename, dirname, join } from "node:path"
+import { negativePrompt as negativePromptArgument } from "akasha/commands/arguments/pages/negative-prompt.argument.ts"
+import { promptFile as promptFileArgument } from "akasha/commands/arguments/pages/prompt-file.argument.ts"
+import { renderPrompt as promptArgument } from "akasha/commands/arguments/pages/render-prompt.argument.ts"
 import {
   DATA,
   INPUT,
@@ -10,6 +13,9 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { filing, filledIn } from "akasha/commands/modules/filling/command-filling.module.code.ts"
+import { pathUnder } from "akasha/commands/pages/inference/flag-arguing/flag-arguing.module.code.ts"
+import type { Taken as Generate } from "akasha/commands/pages/inference/wan/generate/inference-wan-generate.command.code.ts"
 import type { Taken } from "akasha/commands/pages/inference/wan/wan-arguing/wan-arguing.module.code.ts"
 import {
   at,
@@ -56,39 +62,68 @@ const NEW_FRAMES_FLOOR = 13
 
 const DIRECTIONS = ["forward", "back"] as const
 
+const DEFAULT_SIZE = "1280x720"
+
+const DEFAULT_TIMEOUT_SECONDS = 3600
+
+const PROMPT = filing(promptArgument.said)
+
+const NEGATIVE = filing(negativePromptArgument.said)
+
+type Prosed = { readonly prompt: string; readonly negative: string }
+
+export function prosedIn(
+  root: string,
+  taken: Generate
+): Prosed | { readonly refused: readonly string[] } {
+  const prompt = filledIn(root, taken.renderPrompt, taken.promptFile, PROMPT)
+  if ("refused" in prompt) return prompt
+  if (prompt.text === undefined) {
+    return {
+      refused: [
+        `\`${promptArgument.said}\` or \`${promptFileArgument.said}\` says what to render, and neither was said`,
+      ],
+    }
+  }
+  const negative = filledIn(root, taken.negativePrompt, taken.negativePromptFile, NEGATIVE)
+  if ("refused" in negative) return negative
+  return { prompt: prompt.text, negative: negative.text ?? WAN_DEFAULT_NEGATIVE_PROMPT }
+}
+
 export async function generating(
-  read: Taken,
+  taken: Generate,
   given: Given,
   argv: readonly string[],
   report: string[]
 ): Promise<Answer> {
-  const said = read.said
-  const startSaid = said.get("--start-image")
-  const endSaid = said.get("--end-image")
+  const prose = prosedIn(given.root, taken)
+  if ("refused" in prose) return { report, refusals: [...prose.refused], code: INPUT }
+  const startSaid = taken.startImage
+  const endSaid = taken.endImage
   if (startSaid === undefined && endSaid === undefined) {
     return refused("this names `--start-image` or `--end-image`, and neither was said", INPUT)
   }
-  const startPath = startSaid === undefined ? undefined : at(given, startSaid)
-  const endPath = endSaid === undefined ? undefined : at(given, endSaid)
-  const prompt = said.get("--prompt") ?? ""
-  const negative = said.get("--negative-prompt") ?? WAN_DEFAULT_NEGATIVE_PROMPT
-  const lightning = read.on.has("--lightning")
-  const steps = numberIn(said, "--steps") ?? (lightning ? WAN_LIGHTNING_STEPS : WAN_FULL_STEPS)
-  const seed = numberIn(said, "--seed") ?? drawSeed()
-  const size = said.get("--size") ?? ""
+  const startPath = startSaid === undefined ? undefined : pathUnder(given.root, startSaid)
+  const endPath = endSaid === undefined ? undefined : pathUnder(given.root, endSaid)
+  const prompt = prose.prompt
+  const negative = prose.negative
+  const lightning = taken.lightning
+  const steps = taken.steps ?? (lightning ? WAN_LIGHTNING_STEPS : WAN_FULL_STEPS)
+  const seed = taken.seed ?? drawSeed()
+  const size = taken.size ?? DEFAULT_SIZE
   const held = parseSizeOrNull(size)
   if (held === null) {
     return refused(`\`--size\` is two whole numbers parted by \`x\`, and \`${size}\` is not`, INPUT)
   }
   const { width, height } = held
-  const frames = numberIn(said, "--frames") ?? 0
-  const waiting = (numberIn(said, "--timeout") ?? 0) * 1000
+  const frames = taken.clipFrames
+  const waiting = (taken.timeout ?? DEFAULT_TIMEOUT_SECONDS) * 1000
   const nowMs = Date.now()
-  const outSaid = said.get("--output")
+  const outSaid = taken.output
   const outPath =
     outSaid === undefined
       ? join(homedir(), "Pictures", "Generated", `i2v-${Math.floor(nowMs / 1000)}.mp4`)
-      : at(given, outSaid)
+      : pathUnder(given.root, outSaid)
 
   const bytesIn = async (
     flag: string,
