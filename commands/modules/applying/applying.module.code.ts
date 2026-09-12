@@ -24,6 +24,7 @@ import {
   commitSaid,
   defaultMessage,
   formattedSaid,
+  landedSaid,
 } from "akasha/commands/modules/landing-saying/landing-saying.module.code.ts"
 import { installingIn } from "akasha/commands/modules/manifest-locking/manifest-locking.module.code.ts"
 import type { FileMove } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
@@ -182,7 +183,7 @@ export async function applying(
     }
     return {
       report: [
-        ...said.landed.map((one) => `landed ${one}`),
+        ...landedSaid(said.landed),
         ...formattedSaid(said.formatted),
         ...said.said,
         ...(broken === null ? [] : [glassSaid(broken)]),

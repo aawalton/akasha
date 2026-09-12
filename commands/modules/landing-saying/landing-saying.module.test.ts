@@ -3,7 +3,16 @@ import {
   commitSaid,
   defaultMessage,
   formattedSaid,
+  landedSaid,
 } from "akasha/commands/modules/landing-saying/landing-saying.module.code.ts"
+
+test("every body a landing landed is named in the report", () => {
+  expect(landedSaid(["akasha/one.ts", "akasha/two.ts"])).toEqual([
+    "landed akasha/one.ts",
+    "landed akasha/two.ts",
+  ])
+  expect(landedSaid([])).toEqual([])
+})
 
 test("a body that landed other than as it was handed in is named in the report", () => {
   expect(formattedSaid(["akasha/two.ts"])).toEqual([

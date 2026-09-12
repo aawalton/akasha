@@ -10,6 +10,10 @@ export const landingSaying = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "Every body a landing landed is named in the report.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body that landed differently from the body handed in is named in the report.",
     },
     {

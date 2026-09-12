@@ -4,6 +4,10 @@ const NOTHING_COMMITTED = "nothing was committed — the tree already holds what
 
 const TOOK_OUTSIDE = "nothing was committed, because git ignores the path(s) this apply took away:"
 
+export function landedSaid(paths: readonly string[]): readonly string[] {
+  return paths.map((one) => `landed ${one}`)
+}
+
 export function formattedSaid(paths: readonly string[]): readonly string[] {
   return paths.map(
     (one) => `formatted ${one} as it landed — what is there is not what was handed in`
