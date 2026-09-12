@@ -76,8 +76,7 @@ export const longBody = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "Nothing here judges whether the reader kept the lines an earlier run handed over.",
+      statement: "A reader that dropped the lines an earlier run handed over is judged here.",
     },
   ],
 } as const satisfies Module

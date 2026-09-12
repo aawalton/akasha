@@ -48,7 +48,7 @@ export const applyRunning = {
     },
     {
       invariantKind: "gap",
-      statement: "Nothing says a body the fold formatted was formatted.",
+      statement: "A body the fold formatted is said to have been formatted.",
     },
     {
       invariantKind: "departure",
@@ -141,7 +141,7 @@ export const applyRunning = {
     },
     {
       invariantKind: "gap",
-      statement: "No row says whether the checks run.",
+      statement: "A row says whether the checks run.",
     },
     {
       invariantKind: "departure",

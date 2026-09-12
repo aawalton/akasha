@@ -76,7 +76,7 @@ export const valueMinting = {
     },
     {
       invariantKind: "gap",
-      statement: "Whether the page type declares the property is not asked here.",
+      statement: "A value is put in only for a property the page type declares.",
     },
     {
       invariantKind: "gap",

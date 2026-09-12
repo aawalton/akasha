@@ -109,7 +109,7 @@ export const argumentTaking = {
     {
       invariantKind: "gap",
       statement:
-        "Whether a group may hold a forbidden pair beside a free one is not stated, only allowed.",
+        "Whether a group may hold a forbidden pair beside a free one is stated rather than allowed.",
     },
   ],
 } as const satisfies Module

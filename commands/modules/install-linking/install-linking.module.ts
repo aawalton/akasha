@@ -74,15 +74,15 @@ export const installLinking = {
     },
     {
       invariantKind: "gap",
-      statement: "Only a placing said under the home is made here.",
+      statement: "A placing said anywhere, not only under the home, is made here.",
     },
     {
       invariantKind: "gap",
-      statement: "A placing needing rights this does not have is left to the script that has them.",
+      statement: "A placing is made here whatever rights that placing needs.",
     },
     {
       invariantKind: "gap",
-      statement: "Which page types state a placing is a table here rather than read off the pages.",
+      statement: "Which page types state a placing is read off the pages rather than a table here.",
     },
   ],
 } as const satisfies Module

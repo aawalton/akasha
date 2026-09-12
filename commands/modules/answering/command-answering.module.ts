@@ -113,7 +113,7 @@ export const commandAnswering = {
     },
     {
       invariantKind: "gap",
-      statement: "Nothing checks a list is filled, a write hiding inside whatever the work calls.",
+      statement: "A work whose writes hide inside what it calls has its list checked as filled.",
     },
     {
       invariantKind: "gap",
