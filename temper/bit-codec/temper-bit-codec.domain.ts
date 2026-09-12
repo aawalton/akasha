@@ -7,9 +7,9 @@ export const temperBitCodec = {
   definition:
     "packing a build into as few bits as the game allows, and the characters that have them",
   parts: [
-    "module/bit-writer",
-    "module/bit-reader",
     "module/base64url",
+    "module/bit-reader",
+    "module/bit-writer",
     "module/equipment-mappings",
   ],
   invariants: [

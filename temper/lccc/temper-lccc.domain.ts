@@ -6,12 +6,12 @@ export const temperLccc = {
   slug: "temper-lccc",
   definition: "the helper table an add-on leaves in the game's globals as LibCodesCommonCode",
   parts: [
+    "module/lccc",
     "module/lccc-casts",
     "module/lccc-codec",
     "module/lccc-color",
     "module/lccc-util",
     "module/lccc-util-tables",
-    "module/lccc",
   ],
   invariants: [
     {

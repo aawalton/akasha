@@ -6,13 +6,13 @@ export const temperLuaRunner = {
   slug: "temper-lua-runner",
   definition: "a Lua 5.1 interpreter kept alive in a subprocess and talked to over a pipe",
   parts: [
-    "lua-module/lua-driver",
     "lua-module/eso-sandbox-prelude",
-    "module/lua-protocol",
+    "lua-module/lua-driver",
     "module/lua-marshal",
     "module/lua-number-string",
-    "module/persistent-vm",
+    "module/lua-protocol",
     "module/lua-vm",
+    "module/persistent-vm",
     "module/sandboxed-lua-vm",
   ],
   invariants: [

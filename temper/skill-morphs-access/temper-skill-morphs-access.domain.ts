@@ -6,9 +6,9 @@ export const temperSkillMorphsAccess = {
   slug: "temper-skill-morphs-access",
   definition: "the morph progress a saved completion row carries",
   parts: [
-    "module/morph-completion-shapes",
-    "module/eso-id-helpers",
     "module/character-skill-morph-transform",
+    "module/eso-id-helpers",
+    "module/morph-completion-shapes",
     "module/skill-morphs-checker",
     "module/skill-morphs-resolver",
   ],

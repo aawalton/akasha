@@ -6,9 +6,9 @@ export const temperSavedVarsMigration = {
   slug: "temper-saved-vars-migration",
   definition: "carrying a player's saved variables over when addons are renamed or folded together",
   parts: [
+    "module/bundle-member-saved-vars",
     "module/saved-vars-blocks",
     "module/saved-vars-migration",
-    "module/bundle-member-saved-vars",
   ],
   invariants: [
     {

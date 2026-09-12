@@ -6,9 +6,9 @@ export const temperEsoPaths = {
   slug: "temper-eso-paths",
   definition: "what a workstation has of the game and of the game's own sources",
   parts: [
+    "module/eso-clone-stamp",
     "module/eso-paths",
     "module/eso-paths-resolve",
-    "module/eso-clone-stamp",
     "module/lua-files",
   ],
   invariants: [

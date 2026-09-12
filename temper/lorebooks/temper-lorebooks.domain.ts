@@ -105,7 +105,6 @@ export const temperLorebooks = {
     "module/lorebooks-callbacks",
     "module/lorebooks-compass-pins",
     "module/lorebooks-constants",
-    "type-declaration/lorebooks-controls",
     "module/lorebooks-data-accessors",
     "module/lorebooks-events",
     "module/lorebooks-filter-flags",
@@ -163,10 +162,11 @@ export const temperLorebooks = {
     "module/lorebooks-shalidor-locations-17",
     "module/lorebooks-shalidor-locations-18",
     "module/lorebooks-slash-commands",
+    "type-declaration/lorebooks-controls",
     "type-declaration/lorebooks-public-api-declarations",
-    "type-declaration/lorebooks-string-ids",
     "module/lorebooks-types",
     "module/lorebooks-ui-strings",
+    "type-declaration/lorebooks-string-ids",
   ],
   invariants: [
     {

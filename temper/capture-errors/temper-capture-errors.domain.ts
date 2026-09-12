@@ -5,7 +5,7 @@ export const temperCaptureErrors = {
   type: "domain",
   slug: "temper-capture-errors",
   definition: "the shape an error raised inside the game takes where the game saves it",
-  parts: ["module/errors-payload", "module/errors-descriptor"],
+  parts: ["module/errors-descriptor", "module/errors-payload"],
   invariants: [
     {
       invariantKind: "departure",

@@ -7,20 +7,20 @@ export const temperSkillKinds = {
   definition:
     "the kinds a skill is sorted by and the shapes a skill activation effect is written in",
   parts: [
-    "module/skill-types",
-    "module/skill-slots",
     "module/skill-bars",
-    "module/target-scopes",
-    "module/target-types",
+    "module/skill-buff-debuff-types",
+    "module/skill-slots",
+    "module/skill-types",
+    "module/skill-value-formulas",
     "module/special-effect-types",
     "module/status-effect-types",
+    "module/target-scopes",
     "module/scribing-affix-scripts",
     "module/scribing-focus-scripts",
     "module/scribing-signature-scripts",
-    "module/skill-value-formulas",
-    "module/skill-buff-debuff-types",
     "module/skill-activation-effect-types",
     "module/skills-source",
+    "module/target-types",
   ],
   invariants: [
     {

@@ -7,10 +7,10 @@ export const temperDungeons = {
   definition: "the group dungeons of Tamriel and the pledges quest givers hand out each day",
   parts: [
     "module/dungeon-registry",
-    "module/solo-difficulty",
-    "module/pledge-rotation",
     "module/dungeon-data",
     "module/eso-reset",
+    "module/pledge-rotation",
+    "module/solo-difficulty",
   ],
   invariants: [
     {

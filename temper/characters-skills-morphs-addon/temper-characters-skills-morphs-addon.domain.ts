@@ -8,10 +8,10 @@ export const temperCharactersSkillsMorphsAddon = {
     "the morphs a character has taken, read from the game and shown on that character's tasks",
   parts: [
     "module/skill-morph-strip",
-    "module/skill-morph-tracking",
-    "module/skill-morph-task-hud",
     "module/skill-morph-task-auto-complete",
+    "module/skill-morph-task-hud",
     "module/skill-morph-task-progress",
+    "module/skill-morph-tracking",
   ],
   invariants: [
     {

@@ -6,12 +6,12 @@ export const temperEsoDeclaration = {
   slug: "temper-eso-declaration",
   definition: "the game's own API documentation dump read as TypeScript declarations",
   parts: [
+    "eso-opt-in-list/declared-tokens",
     "module/eso-doc-tokens",
-    "module/eso-token-scope",
     "module/eso-declaration-text",
     "module/eso-opt-in",
+    "module/eso-token-scope",
     "page-type/eso-opt-in-list",
-    "eso-opt-in-list/declared-tokens",
   ],
   invariants: [
     {

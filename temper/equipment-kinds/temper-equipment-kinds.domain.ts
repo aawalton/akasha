@@ -8,11 +8,11 @@ export const temperEquipmentKinds = {
   parts: [
     "module/armor-slots",
     "module/armor-types",
+    "module/equipment-qualities",
     "module/jewelry-slots",
     "module/jewelry-types",
-    "module/weapon-slots",
     "module/weapon-bars",
-    "module/equipment-qualities",
+    "module/weapon-slots",
   ],
   invariants: [
     {

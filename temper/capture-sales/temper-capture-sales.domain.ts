@@ -5,7 +5,7 @@ export const temperCaptureSales = {
   type: "domain",
   slug: "temper-capture-sales",
   definition: "the shape a sale through a guild store takes where the game saves it",
-  parts: ["module/sales-payload", "module/sales-descriptor"],
+  parts: ["module/sales-descriptor", "module/sales-payload"],
   invariants: [
     {
       invariantKind: "departure",

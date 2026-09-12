@@ -6,14 +6,14 @@ export const temperHudComponents = {
   slug: "temper-hud-components",
   definition: "the parts of the game's HUD, each with the way the game hides that part",
   parts: [
-    "module/hud-scene-source",
-    "module/hud-component-record",
     "module/hud-component-labels",
-    "module/hud-scene-parse",
+    "module/hud-component-record",
     "module/hud-fragment-group",
-    "module/hud-scene-fragments",
     "module/hud-controls",
     "module/hud-scene-catalog",
+    "module/hud-scene-fragments",
+    "module/hud-scene-parse",
+    "module/hud-scene-source",
   ],
   invariants: [
     {

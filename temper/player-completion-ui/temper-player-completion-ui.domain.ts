@@ -7,8 +7,8 @@ export const temperPlayerCompletionUi = {
   definition: "the panel a browser draws one player's completion in",
   parts: [
     "module/completion-activity-mode-context",
-    "module/completion-search-context",
     "module/completion-panel-card",
+    "module/completion-search-context",
     "module/use-completion",
   ],
   invariants: [

@@ -5,7 +5,7 @@ export const temperSavedVariables = {
   type: "domain",
   slug: "temper-saved-variables",
   definition: "the Lua file the game writes an add-on's own state into",
-  parts: ["module/lua-parser", "module/lua-serializer", "module/account-wide", "module/lua-array"],
+  parts: ["module/lua-parser", "module/account-wide", "module/lua-array", "module/lua-serializer"],
   invariants: [
     {
       invariantKind: "departure",

@@ -6,15 +6,15 @@ export const temperCatalogCore = {
   slug: "temper-catalog-core",
   definition: "the shape a capture of the game's reference data takes, and the walk that fills it",
   parts: [
-    "module/catalog-payload",
+    "module/apply-invalidations",
+    "module/batch-config",
     "module/catalog-descriptor",
+    "module/catalog-payload",
+    "module/catalog-walk",
+    "module/clear-target",
     "module/domain-keys",
     "module/domain-registry",
     "module/saved-variables-accessor",
-    "module/apply-invalidations",
-    "module/clear-target",
-    "module/batch-config",
-    "module/catalog-walk",
   ],
   invariants: [
     {

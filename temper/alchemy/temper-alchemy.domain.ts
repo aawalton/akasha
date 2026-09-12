@@ -9,15 +9,15 @@ export const temperAlchemy = {
     "module/poison-effect",
     "module/poison-source",
     "module/potion-traits",
-    "module/reagent",
     "module/potion-source",
+    "module/potions-crafted-stamina",
     "module/potions-crown",
-    "module/potions-dropped",
     "module/potions-crafted",
     "module/potions-crafted-health",
     "module/potions-crafted-magicka",
-    "module/potions-crafted-stamina",
     "module/potions-crafted-other",
+    "module/potions-dropped",
+    "module/reagent",
   ],
   invariants: [
     {

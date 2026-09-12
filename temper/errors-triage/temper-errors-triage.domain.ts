@@ -6,10 +6,10 @@ export const temperErrorsTriage = {
   slug: "temper-errors-triage",
   definition: "how an error the game reported is judged",
   parts: [
-    "module/errors-saved-variables",
     "module/errors-collect",
     "module/errors-crash-signatures",
     "module/errors-liveness",
+    "module/errors-saved-variables",
     "module/errors-triage",
     "module/errors-triage-gather",
   ],

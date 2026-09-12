@@ -6,9 +6,9 @@ export const temperInventoryAutomation = {
   slug: "temper-inventory-automation",
   definition: "what temper keeps up for a character or a companion without being asked",
   parts: [
-    "module/automation-toggles",
     "module/automation-settings-shape",
     "module/automation-toggle-change",
+    "module/automation-toggles",
   ],
   invariants: [
     {

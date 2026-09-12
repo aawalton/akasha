@@ -7,10 +7,10 @@ export const generation = {
   definition: "images, video, audio or prose made by a model",
   pluralSlug: "generations",
   parts: [
-    "module/comfy-up-body",
     "domain/upscale",
     "domain/wan",
     "domain/zimage",
+    "module/comfy-up-body",
     "module/comfy-up-building",
     "module/comfy-up-guarding",
     "page-type/audio",

@@ -8,12 +8,12 @@ export const temperAddonsResolve = {
   parts: [
     "module/addon-json",
     "module/addon-manifest-file",
-    "module/workspace-closure",
     "module/addon-roster",
     "module/deployable-addons",
     "module/distributable-set",
     "module/folder-ownership",
     "module/sibling-addons",
+    "module/workspace-closure",
   ],
   invariants: [
     {

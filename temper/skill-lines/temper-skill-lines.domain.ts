@@ -6,16 +6,16 @@ export const temperSkillLines = {
   slug: "temper-skill-lines",
   definition: "the skill lines an Elder Scrolls Online character advances",
   parts: [
+    "module/alliance-war-skill-lines",
+    "module/class-skill-lines",
+    "module/companion-skill-lines",
+    "module/racial-and-craft-skill-lines",
     "module/skill-line-category-data",
     "module/skill-line-template",
-    "module/class-skill-lines",
+    "module/skill-lines",
+    "module/vengeance-skill-lines",
     "module/weapon-and-armor-skill-lines",
     "module/world-and-guild-skill-lines",
-    "module/alliance-war-skill-lines",
-    "module/racial-and-craft-skill-lines",
-    "module/companion-skill-lines",
-    "module/vengeance-skill-lines",
-    "module/skill-lines",
   ],
   invariants: [
     {

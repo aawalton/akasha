@@ -6,11 +6,11 @@ export const temperCommunityAddons = {
   slug: "temper-community-addons",
   definition: "addons other people wrote, fetched from ESOUI and kept current",
   parts: [
+    "module/addon-download",
     "module/addon-update-plan",
     "module/esoui-catalog",
-    "module/installed-addons",
-    "module/addon-download",
     "module/install-named-addon",
+    "module/installed-addons",
   ],
   invariants: [
     {
