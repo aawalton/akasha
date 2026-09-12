@@ -148,16 +148,15 @@ fi
 
 loginctl enable-linger "$USER"
 
-echo "==> Wiring the wallpaper-black KDE shortcut (Meta+L)..."
+echo "==> Wiring the wallpaper-black KDE shortcut (Scroll Lock)..."
 if command -v gdbus >/dev/null 2>&1 && gdbus call --session --dest org.kde.kglobalaccel --object-path /kglobalaccel --method org.freedesktop.DBus.Peer.Ping >/dev/null 2>&1; then
-  meta_l_owner="$(gdbus call --session --dest org.kde.kglobalaccel --object-path /kglobalaccel --method org.kde.KGlobalAccel.getGlobalShortcutsByKey 268435532 || true)"
-  if [[ "$meta_l_owner" != *"wallpaper-black.desktop"* ]]; then
+  scroll_lock_owner="$(gdbus call --session --dest org.kde.kglobalaccel --object-path /kglobalaccel --method org.kde.KGlobalAccel.getGlobalShortcutsByKey 16777254 || true)"
+  if [[ "$scroll_lock_owner" != *"wallpaper-black.desktop"* ]]; then
     kbuildsycoca6 >/dev/null 2>&1 || true
-    gdbus call --session --dest org.kde.kglobalaccel --object-path /kglobalaccel --method org.kde.KGlobalAccel.setShortcutKeys "['ksmserver','Lock Session','','']" "[([16777402,0,0,0],)]" 4 >/dev/null
     gdbus call --session --dest org.kde.kglobalaccel --object-path /kglobalaccel --method org.kde.KGlobalAccel.doRegister "['wallpaper-black.desktop','_launch','Wallpaper Black','Wallpaper Black']"
-    gdbus call --session --dest org.kde.kglobalaccel --object-path /kglobalaccel --method org.kde.KGlobalAccel.setShortcutKeys "['wallpaper-black.desktop','_launch','Wallpaper Black','Wallpaper Black']" "[([268435532,0,0,0],)]" 4 >/dev/null
+    gdbus call --session --dest org.kde.kglobalaccel --object-path /kglobalaccel --method org.kde.KGlobalAccel.setShortcutKeys "['wallpaper-black.desktop','_launch','Wallpaper Black','Wallpaper Black']" "[([16777254,0,0,0],)]" 4 >/dev/null
   else
-    echo "    Meta+L already bound to wallpaper-black — skipping."
+    echo "    Scroll Lock already bound to wallpaper-black — skipping."
   fi
 else
   echo "WARN: org.kde.kglobalaccel not reachable — skipping (no KDE session?)." >&2
