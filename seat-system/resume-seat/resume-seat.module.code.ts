@@ -5,6 +5,7 @@ import {
 import { DEFAULT_ACCOUNT } from "akasha/agents/seats/modules/launching/seat-launching.module.code.ts"
 import type { SeatPresence } from "akasha/agents/seats/modules/proc-key/seat-proc-key.module.code.ts"
 import { terminatePriorAgentTree } from "akasha/agents/seats/modules/recovery/seat-recovery.module.code.ts"
+import { resolveRelaunchTarget } from "akasha/agents/seats/modules/relaunch-target/seat-relaunch-target.module.code.ts"
 import {
   dataError,
   operationalError,
@@ -15,7 +16,6 @@ import {
   launchSeatUnderTmux,
   liveSessionHolds,
 } from "akasha/seat-system/launch-seat-tmux/launch-seat-tmux.module.code.ts"
-import { resolveRelaunchTarget } from "akasha/seat-system/seat-relaunch-target/seat-relaunch-target.module.code.ts"
 import { decideReviveLaunch } from "akasha/seat-system/seat-revive-launch-decide/seat-revive-launch-decide.module.code.ts"
 import {
   decideSpawnGuard,
