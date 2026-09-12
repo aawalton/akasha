@@ -6,5 +6,5 @@ export const esoFunctions10 = {
   slug: "eso-functions-10",
   definition: "one part of the game calls an add-on makes",
   d: "ts",
-  generated: { writtenBy: "akasha temper eso generate typings", sourceVersion: 101050 },
+  generated: { writtenBy: "akasha temper eso generate declaration", sourceVersion: 101050 },
 } as const satisfies TypeDeclaration

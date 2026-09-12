@@ -1,9 +1,9 @@
 import type { Command } from "akasha/commands/command.page-type.types.ts"
 
-export const temperEsoGenerateTypings = {
+export const temperEsoGenerateDeclaration = {
   id: "01a0685d-f8fa-7755-9f01-412ee9b28025",
   type: "command",
-  slug: "temper-eso-generate-typings",
+  slug: "temper-eso-generate-declaration",
   definition: "the command writing the game's API declarations from the game's own documentation",
   code: "ts",
   taking: [
@@ -73,5 +73,5 @@ export const temperEsoGenerateTypings = {
       statement: "The opt-in manifest naming which tokens are kept is in akasha.",
     },
   ],
-  name: "typings",
+  name: "declaration",
 } as const satisfies Command

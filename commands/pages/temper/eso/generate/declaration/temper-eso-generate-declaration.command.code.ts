@@ -51,7 +51,7 @@ const INDEX_BODY = `/// <reference path="./enums.d.ts" />
 /// <reference path="./objects.d.ts" />
 `
 
-export async function temperEsoGenerateTypings(
+export async function temperEsoGenerateDeclaration(
   argv: readonly string[],
   given: Given
 ): Promise<Answer> {

@@ -20,7 +20,8 @@ export const temperEsoGenerateChatterName = {
     },
     {
       invariantKind: "departure",
-      statement: "The declarations read are the ones `akasha temper eso generate typings` writes.",
+      statement:
+        "The declarations read are the ones `akasha temper eso generate declaration` writes.",
     },
     {
       invariantKind: "departure",

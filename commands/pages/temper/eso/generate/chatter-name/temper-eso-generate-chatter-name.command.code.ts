@@ -49,7 +49,7 @@ export async function temperEsoGenerateChatterName(
   } catch (thrown) {
     return refused(
       `${sourcePath} is what this registry is drawn from and it is not there — ` +
-        "`akasha temper eso generate typings` is what writes it — " +
+        "`akasha temper eso generate declaration` is what writes it — " +
         saidShort(thrown),
       DATA
     )

@@ -10,7 +10,7 @@ export const temperEsoGenerate = {
     "command/temper-eso-generate-chatter-name",
     "command/temper-eso-generate-colon-method",
     "command/temper-eso-generate-hud-scene-catalog",
-    "command/temper-eso-generate-typings",
+    "command/temper-eso-generate-declaration",
   ],
   name: "generate",
 } as const satisfies Namespace

@@ -8,7 +8,7 @@ import type {
 function header(title: string): string {
   return [
     `// ${title} (Auto-generated — opt-in scoped)`,
-    "// Generated from ESOUIDocumentation.txt by ops eso generate-typings.",
+    "// Generated from ESOUIDocumentation.txt by akasha temper eso generate declaration.",
     "// Do not edit by hand; add tokens to the manifest and regenerate.",
     "",
   ].join("\n")
