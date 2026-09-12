@@ -7,10 +7,7 @@ export const inferenceZimage = {
   definition: "the command rendering one image off a registered checkpoint",
   code: "ts",
   test: "ts",
-  taking: [
-    { said: "--prompt <text>", takes: "what the image is of" },
-    { said: "--negative-prompt <text>", takes: "what the sampler is steered away from" },
-  ],
+  taking: [{ said: "--prompt <text>", takes: "what the image is of" }],
   invariants: [
     {
       invariantKind: "departure",
@@ -86,5 +83,6 @@ export const inferenceZimage = {
     { argument: "argument/height" },
     { argument: "argument/lora-paths" },
     { argument: "argument/lora-scales" },
+    { argument: "argument/negative-prompt", notWith: ["argument/negative-prompt-file"] },
   ],
 } as const satisfies Command
