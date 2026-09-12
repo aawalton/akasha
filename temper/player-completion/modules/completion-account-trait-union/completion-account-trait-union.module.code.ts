@@ -3,7 +3,7 @@ import type {
   TraitResearchCraftTypeProgress,
   TraitResearchLineEntry,
   TraitResearchTraitEntry,
-} from "akasha/temper/player-completion/completion-ui-types/completion-ui-types.module.code.ts"
+} from "akasha/temper/player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
 
 export interface TraitResearchUnionCatalogTrait {
   traitIndex: number

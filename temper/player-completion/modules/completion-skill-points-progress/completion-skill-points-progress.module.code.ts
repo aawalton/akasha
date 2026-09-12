@@ -1,10 +1,10 @@
 import type { SkillPointProgress } from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
+import type { CompletionCharacterRow } from "akasha/temper/player-completion/modules/completion-character-row/completion-character-row.module.code.ts"
+import { isCharacterMeasured } from "akasha/temper/player-completion/modules/completion-measured/completion-measured.module.code.ts"
 import type {
   CharacterSkillPointsProgress,
   SkillPointSourceProgress,
-} from "akasha/temper/player-completion/completion-ui-types/completion-ui-types.module.code.ts"
-import type { CompletionCharacterRow } from "akasha/temper/player-completion/modules/completion-character-row/completion-character-row.module.code.ts"
-import { isCharacterMeasured } from "akasha/temper/player-completion/modules/completion-measured/completion-measured.module.code.ts"
+} from "akasha/temper/player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
 import { SKILL_POINT_GENERAL_SOURCES } from "akasha/temper/player-completion/skill-point-general-sources/skill-point-general-sources.module.code.ts"
 import { SKILL_POINT_GROUP_DUNGEON_SOURCES } from "akasha/temper/player-completion/skill-point-group-dungeons/skill-point-group-dungeons.module.code.ts"
 import { SKILL_POINT_PUBLIC_DUNGEON_SOURCES } from "akasha/temper/player-completion/skill-point-public-dungeons/skill-point-public-dungeons.module.code.ts"

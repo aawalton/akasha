@@ -2,11 +2,11 @@ import type {
   AccountCompletion,
   AntiquityLoreProgress,
 } from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
+import { isNamedShape } from "akasha/temper/player-completion/modules/completion-named-shape/completion-named-shape.module.code.ts"
 import type {
   AccountAntiquityLoreProgress,
   AntiquityLoreCategoryProgress,
-} from "akasha/temper/player-completion/completion-ui-types/completion-ui-types.module.code.ts"
-import { isNamedShape } from "akasha/temper/player-completion/modules/completion-named-shape/completion-named-shape.module.code.ts"
+} from "akasha/temper/player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
 
 export interface AntiquityCatalogAntiquity {
   esoAntiquityId: number

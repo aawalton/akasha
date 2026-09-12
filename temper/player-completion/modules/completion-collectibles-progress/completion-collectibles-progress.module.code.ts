@@ -6,7 +6,7 @@ import type {
   AccountCollectiblesProgress,
   CollectibleCategoryProgress,
   CollectibleSubCategoryProgress,
-} from "akasha/temper/player-completion/completion-ui-types/completion-ui-types.module.code.ts"
+} from "akasha/temper/player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
 
 export interface CollectibleCatalogCollectible {
   esoCollectibleId: number

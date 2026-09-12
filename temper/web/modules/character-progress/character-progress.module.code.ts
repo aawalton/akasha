@@ -1,23 +1,4 @@
 import type { BadgeToggleGroupItem } from "akasha/design/interfaces/badges/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
-import { transformCompletionCharacters } from "akasha/temper/player-completion/completion-transforms/completion-transforms.module.code.ts"
-import type {
-  AccountLoreProgress,
-  CharacterCadwellProgress,
-  CharacterCompanionRapportProgress,
-  CharacterDailyWritsProgress,
-  CharacterLoreLibraryProgress,
-  CharacterMountTrainingProgress,
-  CharacterPackUpgradesProgress,
-  CharacterPoiProgress,
-  CharacterQuestProgress,
-  CharacterRecipeProgress,
-  CharacterScribingProgress,
-  CharacterSkillLineProgress,
-  CharacterSkillPointsProgress,
-  CharacterTraitResearchProgress,
-  CharacterZoneCompletionProgress,
-  CompletionCharacter,
-} from "akasha/temper/player-completion/completion-ui-types/completion-ui-types.module.code.ts"
 import { transformZoneCompletionProgress } from "akasha/temper/player-completion/completion-zone-progress/completion-zone-progress.module.code.ts"
 import type {
   AchievementTallyCategory,
@@ -35,6 +16,25 @@ import { transformPoiProgress } from "akasha/temper/player-completion/modules/co
 import { transformQuestProgress } from "akasha/temper/player-completion/modules/completion-quest-progress/completion-quest-progress.module.code.ts"
 import { transformSkillPointsProgress } from "akasha/temper/player-completion/modules/completion-skill-points-progress/completion-skill-points-progress.module.code.ts"
 import { buildCharacterSummary } from "akasha/temper/player-completion/modules/completion-summary/completion-summary.module.code.ts"
+import { transformCompletionCharacters } from "akasha/temper/player-completion/modules/completion-transforms/completion-transforms.module.code.ts"
+import type {
+  AccountLoreProgress,
+  CharacterCadwellProgress,
+  CharacterCompanionRapportProgress,
+  CharacterDailyWritsProgress,
+  CharacterLoreLibraryProgress,
+  CharacterMountTrainingProgress,
+  CharacterPackUpgradesProgress,
+  CharacterPoiProgress,
+  CharacterQuestProgress,
+  CharacterRecipeProgress,
+  CharacterScribingProgress,
+  CharacterSkillLineProgress,
+  CharacterSkillPointsProgress,
+  CharacterTraitResearchProgress,
+  CharacterZoneCompletionProgress,
+  CompletionCharacter,
+} from "akasha/temper/player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
 import type {
   useAccountCompletion,
   useCompletionCharacters,

@@ -1,7 +1,7 @@
 import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
-import type { CompanionProgressEntry } from "akasha/temper/player-completion/completion-ui-types/completion-ui-types.module.code.ts"
 import { MAX_COMPANION_RAPPORT } from "akasha/temper/player-completion/modules/companion-rapport/companion-rapport.module.code.ts"
 import type { CompanionCardId } from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import type { CompanionProgressEntry } from "akasha/temper/player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
 import {
   type CompletionFilter,
   type CompletionNode,

@@ -1,7 +1,6 @@
 "use client"
 
 import { askComposed } from "akasha/pages/query/store-spelled-asking/store-spelled-asking.module.code.ts"
-import type { TributePatronCatalogEntry } from "akasha/temper/player-completion/completion-tribute-progress/completion-tribute-progress.module.code.ts"
 import type { ZoneCompletionCatalogZone } from "akasha/temper/player-completion/completion-zone-progress/completion-zone-progress.module.code.ts"
 import type { AchievementCategoryCatalogEntry } from "akasha/temper/player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"
 import type { AntiquityCatalogCategory } from "akasha/temper/player-completion/modules/completion-antiquity-lore-progress/completion-antiquity-lore-progress.module.code.ts"
@@ -13,6 +12,7 @@ import type {
   TraitResearchCatalogCraftType,
   TraitResearchCatalogLine,
 } from "akasha/temper/player-completion/modules/completion-trait-research-progress/completion-trait-research-progress.module.code.ts"
+import type { TributePatronCatalogEntry } from "akasha/temper/player-completion/modules/completion-tribute-progress/completion-tribute-progress.module.code.ts"
 import { useEffect, useState } from "react"
 
 const held = new Map<string, Promise<readonly Record<string, unknown>[]>>()

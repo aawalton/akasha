@@ -1,4 +1,6 @@
 import { getRacialSkillLineIdForRace } from "akasha/temper/character-skills/passive-queries/passive-queries.module.code.ts"
+import type { CharacterAchievementProgressResult } from "akasha/temper/player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"
+import type { CharacterSummaryData } from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import type {
   CharacterCadwellProgress,
   CharacterCompanionRapportProgress,
@@ -15,9 +17,7 @@ import type {
   CharacterTraitResearchProgress,
   CharacterZoneCompletionProgress,
   CompletionCharacter,
-} from "akasha/temper/player-completion/completion-ui-types/completion-ui-types.module.code.ts"
-import type { CharacterAchievementProgressResult } from "akasha/temper/player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"
-import type { CharacterSummaryData } from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+} from "akasha/temper/player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
 import { skillLineCategoriesSorted } from "akasha/temper/skill-lines/skill-line-category-data/skill-line-category-data.module.code.ts"
 import {
   getSkillLineIdsForClass,
