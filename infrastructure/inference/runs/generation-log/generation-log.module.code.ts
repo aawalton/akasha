@@ -5,7 +5,6 @@ import { ENTRY_CEILING } from "akasha/pages/entry-ceiling/entry-ceiling.module.c
 import { FIRST_PART } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { partAt } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
 import {
-  type Body,
   type Put,
   readFiles,
   readPages,
@@ -74,47 +73,61 @@ async function pagePathOf(slug: string, landing: Landing): Promise<string> {
   return page
 }
 
-function partPathsOf(page: string, property: string): readonly string[] {
-  const paths: string[] = []
-  for (let part = FIRST_PART; part < FIRST_PART + MOST_PARTS; part += 1) {
-    const at = partAt(page, property, HELD, part)
-    if (at === null) throw nowhereBeside(page, property)
-    paths.push(at)
-  }
-  return paths
+type Part = {
+  readonly at: string
+  readonly part: number
+  readonly path: string
+  readonly content: string | null
 }
 
-type Sheet = { readonly at: string; readonly parts: readonly Body[] }
+async function partRead(
+  page: string,
+  property: string,
+  part: number,
+  landing: Landing
+): Promise<Part> {
+  const path = partAt(page, property, HELD, part)
+  if (path === null) throw nowhereBeside(page, property)
+  const found = await landing.readFiles([path])
+  if (!found.ok) throw new OperationalError(`\`${path}\` did not come back: ${found.why}`)
+  const content = found.bodies.find((one) => one.path === path)?.content ?? null
+  return { at: found.at, part, path, content }
+}
 
-async function sheetOf(page: string, property: string, landing: Landing): Promise<Sheet> {
-  const paths = partPathsOf(page, property)
-  const found = await landing.readFiles(paths)
-  if (!found.ok) {
-    throw new OperationalError(
-      `the \`${property}\` beside \`${page}\` did not come back: ${found.why}`
-    )
+async function lastPartOf(page: string, property: string, landing: Landing): Promise<Part> {
+  let low = FIRST_PART
+  let high = FIRST_PART + MOST_PARTS
+  let held: Part | null = null
+  let empty: Part | null = null
+  while (low < high) {
+    const mid = low + Math.floor((high - low) / 2)
+    const read = await partRead(page, property, mid, landing)
+    if (read.content === null) {
+      empty = read
+      high = mid
+    } else {
+      held = read
+      low = mid + 1
+    }
   }
-  const parts: Body[] = []
-  for (const path of paths) {
-    const body = found.bodies.find((one) => one.path === path)
-    if (body === undefined || body.content === null) break
-    parts.push(body)
+  if (held === null) {
+    if (empty === null) throw nowhereBeside(page, property)
+    return empty
   }
-  if (parts.length === MOST_PARTS) {
+  if (held.part >= FIRST_PART + MOST_PARTS - 1) {
     throw new OperationalError(
       `the \`${property}\` beside \`${page}\` is in ${MOST_PARTS} parts, and this reads ${MOST_PARTS}`
     )
   }
-  return { at: found.at, parts }
+  return held
 }
 
-function appendedTo(page: string, property: string, parts: readonly Body[], line: string): Put {
-  const last = parts.at(-1)
-  const held = last?.content ?? ""
+function appendedTo(page: string, property: string, last: Part, line: string): Put {
+  const held = last.content ?? ""
   const ended = held === "" || held.endsWith("\n") ? held : `${held}\n`
   const room = Buffer.byteLength(ended) + Buffer.byteLength(line) <= ENTRY_CEILING
-  if (last !== undefined && room) return { path: last.path, content: ended + line }
-  const at = partAt(page, property, HELD, FIRST_PART + parts.length)
+  if (ended === "" || room) return { path: last.path, content: ended + line }
+  const at = partAt(page, property, HELD, last.part + 1)
   if (at === null) throw nowhereBeside(page, property)
   return { path: at, content: line }
 }
@@ -129,22 +142,26 @@ function rowIn(line: string): Record<string, Json> | null {
   }
 }
 
-function mergedInto(
-  parts: readonly Body[],
+type Merged = { readonly at: string; readonly put: Put }
+
+async function mergedInto(
+  page: string,
+  property: string,
+  last: Part,
   id: string,
-  patch: Readonly<Record<string, Json>>
-): Put | null {
-  for (let part = parts.length - 1; part >= 0; part -= 1) {
-    const held = parts[part]
-    if (held === undefined) continue
-    const lines = (held.content ?? "").split("\n")
+  patch: Readonly<Record<string, Json>>,
+  landing: Landing
+): Promise<Merged | null> {
+  for (let part = last.part; part >= FIRST_PART; part -= 1) {
+    const read = part === last.part ? last : await partRead(page, property, part, landing)
+    const lines = (read.content ?? "").split("\n")
     for (let at = lines.length - 1; at >= 0; at -= 1) {
       const line = lines[at] ?? ""
       if (!line.includes(id)) continue
       const row = rowIn(line)
       if (row === null || row["id"] !== id) continue
       lines[at] = JSON.stringify({ ...row, ...patch })
-      return { path: held.path, content: lines.join("\n") }
+      return { at: read.at, put: { path: read.path, content: lines.join("\n") } }
     }
   }
   return null
@@ -167,15 +184,15 @@ export async function landRow(
   const said = `land ${pageTypeSlug} ${id} in ${slug}`
   let why = "nothing was tried"
   for (let taken = 1; taken <= TRIES; taken += 1) {
-    const sheet = await sheetOf(page, property, landing)
-    const put = appendedTo(page, property, sheet.parts, line)
+    const last = await lastPartOf(page, property, landing)
+    const put = appendedTo(page, property, last, line)
     const wrote = await landing.writeFiles(
       [put],
       GENERATION_WRITER,
       said,
       undefined,
       undefined,
-      sheet.at
+      last.at
     )
     if (wrote.ok) return id
     why = wrote.why
@@ -200,16 +217,16 @@ export async function mergeRow(
   const said = `patch ${pageTypeSlug} ${id} in ${slug}`
   let why = "nothing was tried"
   for (let taken = 1; taken <= TRIES; taken += 1) {
-    const sheet = await sheetOf(page, property, landing)
-    const put = mergedInto(sheet.parts, id, patch)
-    if (put === null) throw new OperationalError(`${opening}: no row of that id is there`)
+    const last = await lastPartOf(page, property, landing)
+    const held = await mergedInto(page, property, last, id, patch, landing)
+    if (held === null) throw new OperationalError(`${opening}: no row of that id is there`)
     const wrote = await landing.writeFiles(
-      [put],
+      [held.put],
       GENERATION_WRITER,
       said,
       undefined,
       undefined,
-      sheet.at
+      held.at
     )
     if (wrote.ok) return
     why = wrote.why
