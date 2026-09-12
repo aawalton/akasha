@@ -1,5 +1,7 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { workstationService } from "akasha/commands/arguments/pages/workstation-service.argument.ts"
 import {
   answering,
   DATA,
@@ -8,8 +10,9 @@ import {
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { allowedThrough } from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
-import { slugIn } from "akasha/commands/pages/infrastructure/service/service-slug-arguing/service-slug-arguing.module.code.ts"
+import { infrastructureServiceRun as page } from "akasha/commands/pages/infrastructure/service/run/infrastructure-service-run.command.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
@@ -30,8 +33,8 @@ type Reached =
   | { readonly refused: string }
   | { readonly unnamed: string }
 
-function runningAt(page: string): string | null {
-  return besideAt(page, `${RUNNING}.${CODE}`, TS)
+function runningAt(servicePage: string): string | null {
+  return besideAt(servicePage, `${RUNNING}.${CODE}`, TS)
 }
 
 export function noService(slug: string): string {
@@ -76,12 +79,13 @@ export async function infrastructureServiceRun(
   argv: readonly string[],
   given: Given
 ): Promise<Answer> {
-  const named = slugIn(argv, given.calledAs, [])
-  if ("refused" in named) return refused(named.refused, INPUT)
+  const read = takenFor(argv, given.calledAs, page, [workstationService])
+  if ("refused" in read) return mistaking(read.refused)
+  const slug = read.taken.workstationService
 
-  const reached = await reachedFor(given.root, named.slug)
+  const reached = await reachedFor(given.root, slug)
   if ("unnamed" in reached) return refused(reached.unnamed, INPUT)
   if ("refused" in reached) return refused(reached.refused, DATA)
 
-  return await calledBy(named.slug, reached.running)
+  return await calledBy(slug, reached.running)
 }

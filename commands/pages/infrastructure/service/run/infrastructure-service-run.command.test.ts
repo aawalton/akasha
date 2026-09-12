@@ -17,13 +17,14 @@ const HERE: Given = {
 test("a call naming no service is refused as the caller's fault", async () => {
   const answer = await infrastructureServiceRun([], HERE)
   expect(answer.code).toBe(1)
-  expect(answer.refusals[0]).toContain("name the service")
+  expect(answer.refusals[0]).toContain("<slug>")
+  expect(answer.refusals[0]).toContain("nothing said it")
 })
 
 test("a call naming two services is refused rather than chosen between", async () => {
   const answer = await infrastructureServiceRun(["one", "two"], HERE)
   expect(answer.code).toBe(1)
-  expect(answer.refusals[0]).toContain("one service at a time")
+  expect(answer.refusals[0]).toContain("takes 1 word")
 })
 
 test("a flag this does not take is refused by name", async () => {

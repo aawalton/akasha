@@ -6,6 +6,7 @@ export const infrastructureServiceRestart = {
   slug: "infrastructure-service-restart",
   definition: "the command asking systemd to run one service's unit afresh",
   code: "ts",
+  test: "ts",
   name: "restart",
   invariants: [
     {

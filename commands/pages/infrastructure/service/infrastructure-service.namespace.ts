@@ -12,7 +12,6 @@ export const infrastructureService = {
     "command/infrastructure-service-start",
     "command/infrastructure-service-stop",
     "command/infrastructure-service-sweep",
-    "module/service-slug-arguing",
     "module/service-unit-asking",
   ],
 } as const satisfies Namespace
