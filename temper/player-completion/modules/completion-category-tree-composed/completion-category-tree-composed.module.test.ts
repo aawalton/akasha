@@ -1,12 +1,12 @@
 import { describe, expect, test } from "bun:test"
-import { COMPLETION_CATEGORY_TREE_STATIC } from "akasha/temper/player-completion/completion-category-tree/completion-category-tree.module.code.ts"
+import { COMPLETION_CATEGORY_TREE_STATIC } from "akasha/temper/player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
 import {
   ACCOUNT_ACHIEVEMENTS_CARD_ID,
   type AchievementHeading,
   CHARACTER_ACHIEVEMENTS_CARD_ID,
   composeCompletionCategoryTree,
-} from "akasha/temper/player-completion/completion-category-tree-composed/completion-category-tree-composed.module.code.ts"
-import type { CompletionCategoryNode } from "akasha/temper/player-completion/completion-category-tree-types/completion-category-tree-types.module.code.ts"
+} from "akasha/temper/player-completion/modules/completion-category-tree-composed/completion-category-tree-composed.module.code.ts"
+import type { CompletionCategoryNode } from "akasha/temper/player-completion/modules/completion-category-tree-types/completion-category-tree-types.module.code.ts"
 
 const ACCOUNT_HEADINGS: readonly AchievementHeading[] = [
   { name: "Recent Seasons", subCategories: [{ name: "General" }] },

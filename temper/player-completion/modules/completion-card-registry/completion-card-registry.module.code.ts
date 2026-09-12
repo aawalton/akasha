@@ -1,5 +1,5 @@
-import { COMPLETION_CATEGORY_TREE_STATIC } from "akasha/temper/player-completion/completion-category-tree/completion-category-tree.module.code.ts"
-import type { CompletionTab } from "akasha/temper/player-completion/completion-category-tree-types/completion-category-tree-types.module.code.ts"
+import { COMPLETION_CATEGORY_TREE_STATIC } from "akasha/temper/player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
+import type { CompletionTab } from "akasha/temper/player-completion/modules/completion-category-tree-types/completion-category-tree-types.module.code.ts"
 
 export type AccountCardId = (typeof COMPLETION_CATEGORY_TREE_STATIC.account)[number]["id"]
 export type CharacterCardId = (typeof COMPLETION_CATEGORY_TREE_STATIC.characters)[number]["id"]
