@@ -66,7 +66,7 @@ export const alanTracking = {
   ],
   name: "tracking",
   arguments: [
-    { argument: "argument/commit-message" },
+    { argument: "argument/commit-message", notWith: ["argument/message-file"] },
     { argument: "argument/message-file" },
     { argument: "argument/content-file", repeats: true },
     { argument: "argument/file-path", repeats: true, oneOf: ["argument/remove-path"] },
