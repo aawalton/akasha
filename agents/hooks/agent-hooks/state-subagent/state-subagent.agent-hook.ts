@@ -68,7 +68,7 @@ export const stateSubagent = {
     },
     {
       invariantKind: "gap",
-      statement: "Nothing reads that log to put up a page the refusal left unwritten.",
+      statement: "A page a refusal left unwritten is put up from that log.",
     },
     {
       invariantKind: "departure",

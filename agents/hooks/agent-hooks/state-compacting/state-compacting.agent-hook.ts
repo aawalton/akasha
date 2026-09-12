@@ -43,7 +43,7 @@ export const stateCompacting = {
     },
     {
       invariantKind: "gap",
-      statement: "A compaction that never reaches its second event leaves the seat waiting.",
+      statement: "A seat stops waiting on a compaction whose second event never comes.",
     },
   ],
 } as const satisfies AgentHook
