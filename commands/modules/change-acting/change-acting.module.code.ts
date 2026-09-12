@@ -20,11 +20,13 @@ export const NO_PAGE = "this call names no agent whose page the edits would be k
 const PAGE_LANDING =
   "Run this same call again: nothing was kept and nothing was lost, so a try costs only the" +
   " wait, and that wait has run to minutes rather than to seconds. Where it is refused again," +
-  " read `subagent-presence.log` under this seat's folder in the user's runtime directory," +
-  " which is where the landing that writes the page says what happened. That landing runs on" +
+  " what says whether this page was ever written, and when it last went, is this repository's" +
+  " own history over the page's path. A reason is in `subagent-presence.log` under this seat's" +
+  " folder in the user's runtime directory, which the landing that writes the page leaves a" +
+  " line in only where that landing refused, so a log naming this page nowhere says those" +
+  " landings went rather than that none ran. That landing runs on" +
   " its own and the subagent does not wait for it, so it may still be queued, it may have" +
-  " refused, or nothing may have started it. Only the first of the three clears by itself, and" +
-  " only that log tells them apart. A landing that refused for any reason but the lock or a" +
+  " refused, or nothing may have started it. A landing that refused for any reason but the lock or a" +
   " put-back is retried by nothing, and a landing that ended before it could say why is" +
   " retried by nothing either. What writes the page again is the landing that runs when this" +
   " subagent is next dispatched or resumed, so say that you are refused to whoever dispatched" +

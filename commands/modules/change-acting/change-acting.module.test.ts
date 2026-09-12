@@ -72,6 +72,8 @@ test("the refusal says what writes the page again and what is retried by nothing
   const said = noPageSaid(root, presenceIn(root))
 
   expect(said).toContain("next dispatched or resumed")
+  expect(said).toContain("this repository's own history over the page's path")
+  expect(said).toContain("says those landings went rather than that none ran")
   expect(said).toContain("ended before it could say why is retried by nothing")
   expect(said).toContain("minutes rather than to seconds")
 })

@@ -106,6 +106,19 @@ export const changeActing = {
     {
       invariantKind: "departure",
       statement:
+        "That refusal names this repository's history as what says whether the page was written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal says the log carries a line only where a landing refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal says a log naming the page nowhere is no sign that no landing ran.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A landing refused for any reason but the lock or a put-back is retried by nothing.",
     },
     {
