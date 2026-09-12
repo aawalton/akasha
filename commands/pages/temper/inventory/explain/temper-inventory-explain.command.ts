@@ -20,11 +20,7 @@ export const temperInventoryExplain = {
     { said: "--char <id>", takes: "the character whose location the bag scan is scoped to" },
     { said: "--json", takes: "give the trace as JSON rather than as tab-separated rows" },
   ],
-  helpNotes: [
-    "the walk is reported in priority order, so the first rule that matches is the one that decides.",
-    "naming no character lets the freshest scan win where one item id sits in more than one place.",
-    "recipes, motifs and scripts each carry the knowledge facts the walk turned on.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
