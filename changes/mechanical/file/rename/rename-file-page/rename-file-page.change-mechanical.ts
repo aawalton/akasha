@@ -82,7 +82,11 @@ export const renameFilePage = {
     },
     {
       invariantKind: "departure",
-      statement: "A file exporting no type named from the old slug is left as that file is.",
+      statement: "The name a page's code file exports from the old slug is spelled anew too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which name a file exports under the old slug is answered by one module.",
     },
     {
       invariantKind: "departure",

@@ -11,6 +11,7 @@ import type {
   FileChange,
   Splice,
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { spellingsIn } from "akasha/changes/modules/export-spelling/export-spelling.module.code.ts"
 import { spelledAnew } from "akasha/changes/modules/package-naming/package-naming.module.code.ts"
 import { statedIn } from "akasha/changes/modules/page-literal/page-literal.module.code.ts"
 import {
@@ -21,7 +22,7 @@ import {
 import { reachesIn } from "akasha/code/package-manifest/package-manifest.module.code.ts"
 import { parsedAs } from "akasha/code/source/code-source.module.code.ts"
 import { namedAs, slugIn } from "akasha/pages/address/page-address.module.code.ts"
-import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import {
   besideAt,
   secretAt,
@@ -301,32 +302,6 @@ function wayEdits(world: World, way: Way, was: string, to: string): readonly Fil
   return edits
 }
 
-function typedIn(at: string, text: string, named: string): boolean {
-  for (const one of parsedAs(at, text).statements) {
-    if (!ts.isTypeAliasDeclaration(one) && !ts.isInterfaceDeclaration(one)) continue
-    if (one.name.text !== named) continue
-    const shown = one.modifiers ?? []
-    if (shown.some((each) => each.kind === ts.SyntaxKind.ExportKeyword)) return true
-  }
-  return false
-}
-
-async function typeAnew(world: World, at: string, was: string, to: string): Promise<Answer | null> {
-  const text = world.textOf(at)
-  if (text === null) return null
-  const named = typedAs(was)
-  if (!typedIn(at, text, named)) return null
-  const reading = importingOf(world.index, new Map([[at, at]]))
-  if ("unread" in reading) return refusing(reading.unread)
-  const spelled = await reach(world, RENAME_EXPORT, {
-    at,
-    over: [at, ...reading.importers],
-    of: named,
-    to: typedAs(to),
-  })
-  return spelled.said
-}
-
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
@@ -388,12 +363,16 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
     folded = gathered(answers)
     if (folded.refused !== null) return folded
     seen = said.world
-    const spelled = await typeAnew(seen, lands, held.slug, given.to)
-    if (spelled !== null) {
-      if (spelled.refused !== null) return spelled
-      answers.push(spelled)
+    for (const one of spellingsIn(seen.textOf, lands, held.said, held.slug, given.to)) {
+      const reading = importingOf(seen.index, new Map([[one.at, one.at]]))
+      if ("unread" in reading) return refusing(reading.unread)
+      const over = [one.at, ...reading.importers]
+      const spelled = await reach(seen, RENAME_EXPORT, { at: one.at, over, of: one.of, to: one.to })
+      if (spelled.said.refused !== null) return spelled.said
+      answers.push(spelled.said)
       folded = gathered(answers)
       if (folded.refused !== null) return folded
+      seen = spelled.world
     }
   }
   if (way !== null) {
