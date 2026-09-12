@@ -1,4 +1,5 @@
 import { resolve } from "node:path"
+import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
@@ -11,7 +12,6 @@ import { valuesOf } from "akasha/temper/commands/argument-word-reading/argument-
 import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const SAID_WRONG = 1
-const DATA = 2
 
 const ADDON = "--addon"
 const CODE_ROOT = "--code-root"
@@ -50,7 +50,7 @@ export async function temperAddonGenerateLoadOrder(argv: readonly string[] = [])
         `${String(written.bytes)} byte(s) at ${written.manifestPath}, beside ${written.buildIdPath}`,
       ],
       refusals: [],
-      code: 0,
+      code: OK,
     }
   } catch (thrown) {
     return refused(`${found.canonicalName}: ${messageOf(thrown)}`, DATA)
