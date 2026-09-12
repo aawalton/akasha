@@ -1,8 +1,8 @@
 import { expect, test } from "bun:test"
+import { bodyweight } from "akasha/commands/arguments/pages/bodyweight.argument.ts"
 import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
-  BODYWEIGHT,
   poundsIn,
   trackWeight,
 } from "akasha/commands/pages/track/weight/track-weight.command.code.ts"
@@ -19,10 +19,6 @@ test("a weight in pounds reads as the number it says", () => {
   expect(poundsIn("177.9")).toBe(177.9)
 })
 
-test("no weight said is refused rather than taken as nothing", () => {
-  expect(poundsIn(null)).toBe(`${BODYWEIGHT} takes a weight in pounds`)
-})
-
 test("a weight that reads as no number is refused", () => {
   expect(poundsIn("heavy")).toBe("heavy is no weight in pounds")
 })
@@ -32,13 +28,23 @@ test("a weight at or below nothing is refused", () => {
   expect(poundsIn("-5")).toBe("-5 is no weight in pounds")
 })
 
-test("a flag this command does not take is refused before anything is read", async () => {
+test("a flag this command does not take is refused, and the refusal names what it does take", async () => {
   const said = await trackWeight(["--date", "2026-09-07"], GIVEN)
-  expect(said.refusals).toEqual(["--date is no flag this takes"])
+  expect(said.refusals[0]).toContain("`--date`")
+  expect(said.refusals[0]).toContain(bodyweight.said)
   expect(said.code).toBe(INPUT)
+})
+
+test("one call is weighed whole, so every fault in it is said at once", async () => {
+  const said = await trackWeight(["--date", "2026-09-07"], GIVEN)
+  expect(said.refusals).toHaveLength(3)
+  expect(said.refusals[1]).toContain("`2026-09-07`")
+  expect(said.refusals[2]).toContain(bodyweight.said)
 })
 
 test("a call saying no weight is refused before a day is resolved", async () => {
   const said = await trackWeight([], GIVEN)
-  expect(said.refusals).toEqual([`${BODYWEIGHT} takes a weight in pounds`])
+  expect(said.refusals).toHaveLength(1)
+  expect(said.refusals[0]).toContain(bodyweight.said)
+  expect(said.code).toBe(INPUT)
 })
