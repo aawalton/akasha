@@ -7,10 +7,7 @@ export const temperCommunityAddonList = {
   definition:
     "the command naming each installed third-party game addon beside its newest published version",
   code: "ts",
-  taking: [
-    { said: "--outdated", takes: "name only the addons an update is published for" },
-    { said: "--addons-dir <path>", takes: "the game's addon directory read" },
-  ],
+  taking: [{ said: "--outdated", takes: "name only the addons an update is published for" }],
 
   invariants: [
     {
@@ -31,5 +28,9 @@ export const temperCommunityAddonList = {
     },
   ],
   name: "addon-list",
-  arguments: [{ argument: "argument/json" }, { argument: "argument/code-root" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/code-root" },
+    { argument: "argument/addons-dir" },
+  ],
 } as const satisfies Command
