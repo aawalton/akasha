@@ -7,9 +7,6 @@ export const imessageSearch = {
   definition: "the command giving back the messages whose text has a run of characters",
   code: "ts",
   taking: [
-    { said: "--query <text>", takes: "the run of characters a message's text must hold" },
-    { said: "<text>", takes: "the same run, said as a word rather than at its flag" },
-
     {
       said: "--contact <name-or-handle>",
       takes: "hold the answer to the conversations of the one contact named",
@@ -44,5 +41,9 @@ export const imessageSearch = {
     },
   ],
   name: "search",
-  arguments: [{ argument: "argument/json" }, { argument: "argument/query-file" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/query-file" },
+    { argument: "argument/message-query", saidAs: "flag-or-word" },
+  ],
 } as const satisfies Command
