@@ -1,3 +1,4 @@
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
 export function generateClassMappings(): string {
   const indexEntries: string[] = []
@@ -17,7 +18,7 @@ export function generateClassMappings(): string {
  * Maps ESO class IDs to temper indices and string IDs.
  * Source: engine/character/classes-data.ts
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 export const CLASS_ESO_ID_TO_INDEX: Record<number, number> = {

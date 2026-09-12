@@ -1,3 +1,4 @@
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { alliances } from "akasha/temper/character-sources/alliances/alliances.module.code.ts"
 
 export function generateAllianceMappings(): string {
@@ -18,7 +19,7 @@ export function generateAllianceMappings(): string {
  * Maps ESO alliance IDs to temper indices and string IDs.
  * Source: engine/character/alliances-data.ts
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 export const ALLIANCE_ESO_ID_TO_INDEX: Record<number, number> = {

@@ -1,3 +1,4 @@
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { championPoints } from "akasha/temper/champion-points/champion-point-source/champion-point-source.module.code.ts"
 export function generateChampionPointMappings(): string {
   const indexEntries: string[] = []
@@ -17,7 +18,7 @@ export function generateChampionPointMappings(): string {
  * Maps ESO champion skill IDs to temper indices and string IDs.
  * Source: engine/champion-points/champion-points-source.ts
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 export const CP_ESO_SKILL_ID_TO_INDEX: Record<number, number> = {

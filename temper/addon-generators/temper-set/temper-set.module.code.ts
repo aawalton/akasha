@@ -2,6 +2,7 @@ import type {
   Json,
   Page,
 } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { z } from "zod"
 
 const BONUS_EFFECT_SCHEMA = z.looseObject({})
@@ -152,7 +153,7 @@ ${fields.join(",\n")},
  * \`setsAll.ids\` keeps the sentinel at the position the character
  * codec's \`getSetId(index)\` expects.
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 import { createDataFile, type DataFile } from "@akasha/utils/narrow/create-data-file"

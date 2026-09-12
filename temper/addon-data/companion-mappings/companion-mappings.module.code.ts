@@ -1,3 +1,4 @@
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { companions } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 
 export function generateCompanionMappings(): string {
@@ -21,7 +22,7 @@ export function generateCompanionMappings(): string {
  * Maps ESO companion IDs to temper indices.
  * Source: engine/companions/companions-data.ts
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 export const COMPANION_ID_TO_INDEX: Record<number, number> = {
