@@ -57,6 +57,28 @@ export const subagent = {
     {
       invariantKind: "departure",
       statement:
+        "A page is written again out of history when the subagent it was for is next dispatched or resumed.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A subagent begins a turn before the landing writing its page again has gone.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "The stretch a subagent has no page for has run to minutes rather than to seconds.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing tells a subagent its page is back but a call that stops being refused.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A subagent at work with no page is found by nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A subagent's slug is the name of the seat that ran the subagent and the id the subagent runs under.",
     },
     {
