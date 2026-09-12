@@ -2,16 +2,6 @@ import { expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { readingIn, recordRead } from "akasha/agents/read-record/read-record.module.code.ts"
-import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import {
-  appendEdits,
-  linesIn,
-} from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
 import {
   isAgentProcess,
   killTarget,
@@ -22,7 +12,17 @@ import {
   TAKE,
   took,
   type Working,
-} from "akasha/seat-system/seat-stopping/seat-stopping.module.code.ts"
+} from "akasha/agents/seats/modules/stopping/seat-stopping.module.code.ts"
+import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import {
+  appendEdits,
+  linesIn,
+} from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
 import { seatEditsAt } from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
