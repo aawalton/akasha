@@ -1,14 +1,16 @@
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { dryRun } from "akasha/commands/arguments/pages/dry-run.argument.ts"
 import {
   answering,
   DATA,
-  INPUT,
   naming,
   OK,
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { DRY_RUN } from "akasha/commands/pages/infrastructure/service/service-slug-arguing/service-slug-arguing.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { infrastructureServiceSweep as page } from "akasha/commands/pages/infrastructure/service/sweep/infrastructure-service-sweep.command.ts"
 import type {
   Done,
   Plan,
@@ -29,6 +31,8 @@ const NOT_SWEPT =
 
 const ALL_ACCOUNTED =
   "nothing\tevery unit akasha owns, installed and staged alike, is accounted for by a page"
+
+const EVERY_UNIT = "this reaches every unit akasha owns rather than one service"
 
 export type Sweeping = (home: string, plan: Plan, did: string[]) => Done
 
@@ -65,24 +69,11 @@ export async function infrastructureServiceSweep(
   given: Given,
   sweeping: Sweeping = sweptAway
 ): Promise<Answer> {
-  const dryRun = argv.includes(DRY_RUN)
-  const named = argv.filter((one) => !one.startsWith("-"))
-  const strange = argv.find((one) => one.startsWith("-") && one !== DRY_RUN)
+  const read = takenFor(argv, given.calledAs, page, [dryRun])
+  if ("refused" in read) return mistaking([...read.refused, EVERY_UNIT])
 
-  if (strange !== undefined) {
-    return refused(`\`${strange}\` is nothing \`${given.calledAs}\` takes`, INPUT)
-  }
-
-  const slug = named[0]
-  if (slug !== undefined) {
-    return refused(
-      `this reaches every unit akasha owns rather than one service, and \`${slug}\` was named`,
-      INPUT
-    )
-  }
-
-  const read = everyService(given.root)
-  if ("refused" in read) return refused(read.refused, DATA)
+  const found = everyService(given.root)
+  if ("refused" in found) return refused(found.refused, DATA)
 
   const home = homeAt()
   if (home === null) {
@@ -90,7 +81,7 @@ export async function infrastructureServiceSweep(
   }
 
   const owned = ourInstalled(home)
-  const plan = planFor(read.services, owned)
+  const plan = planFor(found.services, owned)
   const remove = plan.remove
   const strand = strandedAmong(ourStaged(home), owned, plan)
   if (remove.length === 0 && strand.length === 0) {
@@ -101,7 +92,7 @@ export async function infrastructureServiceSweep(
     ...remove.map((name) => `remove\t${name}`),
     ...strand.map((name) => `stranded\t${name}`),
   ]
-  if (dryRun) return { report: [...report, NOT_SWEPT], refusals: [], code: OK }
+  if (read.taken.dryRun) return { report: [...report, NOT_SWEPT], refusals: [], code: OK }
 
   return await sweptBy(home, report, remove, strand, sweeping)
 }
