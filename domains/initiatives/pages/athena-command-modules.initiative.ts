@@ -17,13 +17,13 @@ export const athenaCommandModules = {
     {
       statement: "A module whose readers are outside the command system sits outside it.",
       workingMemory:
-        "`repo-seeding` sits in `testing-system/`, `gated-landing` and `gated-write` in `changes/modules/`. `scratching` goes to `utils/fs/`; the move composes over 253 files and is refused only by six check test files broken since 19:00 by the index fixture work. `argument-narrowing`, `parse-args` and `payload` import the command system, so they stay. `during-call` has no reader inside `commands/` but its definition names a command's run. Does it stay?\n",
+        "`repo-seeding` sits in `testing-system/`, `gated-landing` and `gated-write` in `changes/modules/`, and `during-call` in `utils/` at `a6050f8e918`, its readers spread over two domains and claimed by none. `argument-narrowing`, `parse-args`, `payload`, `cli` and `value-minting` each import the command system, so they stay. Two are in flight: `scratching` to `utils/fs/`, a move over 253 files, and `body-loading`, whose readers sit in `pages` and `code`.",
     },
     {
       statement:
         "`cli` prints an answer and gives that answer an exit code, and does nothing else.",
       workingMemory:
-        "Root resolution, git authorship, fault shaping and the retrying byte write are gone from `cli`: `rootIn` in `rooting`, `authorIn` in `commit-author`, `unclassified` in `answering`, `writtenWhole` in `utils/fs/whole-writing`. Mending the hook links is the one job left, and it is neither printing an answer nor giving that answer an exit code — but `cli` is the only place every run reaches, and `hook-links` cannot trigger itself. Does that chore stay?\n",
+        "The hook links are mended by the landing that breaks them now, in `apply-running` at `b2deb3c7011` and `efd4a8ba6cf` — they are Claude Code event links, not git hooks, and only a landing may move their target. `cli` is 59 lines. A third job is left that nobody had named: `outsideOf` gathers what a run is outside the command line, and `cli` is the only code that may read `process`, so it cannot move. Is gathering that part of printing an answer, or a third job wanting its own home?",
     },
     {
       statement:
