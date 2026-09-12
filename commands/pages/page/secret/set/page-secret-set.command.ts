@@ -6,12 +6,7 @@ export const pageSecretSet = {
   slug: "page-secret-set",
   definition: "the command enciphering one value into the sops file beside a page",
   code: "ts",
-  taking: [
-    {
-      said: "--keep-last-newline",
-      takes: "the trailing newline, for a value that is a whole file ending in one",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -67,5 +62,6 @@ export const pageSecretSet = {
     { argument: "argument/file-path", required: true },
     { argument: "argument/key", required: true },
     { argument: "argument/commit-message" },
+    { argument: "argument/keep-last-newline" },
   ],
 } as const satisfies Command
