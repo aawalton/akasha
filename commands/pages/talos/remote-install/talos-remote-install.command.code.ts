@@ -1,10 +1,11 @@
 import {
-  INPUT,
-  OK,
   OPERATIONAL,
+  refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { buildSchematic } from "akasha/infrastructure/cluster/provisioning/talos/build-schematic/build-schematic.module.code.ts"
 import { emitSchematicYaml } from "akasha/infrastructure/cluster/provisioning/talos/emit-yaml/emit-yaml.module.code.ts"
 import {
@@ -240,28 +241,20 @@ async function installing(read: Named, given: Given): Promise<Answer> {
     node = getNode(read.node)
     cluster = getClusterForNode(read.node)
   } catch (thrown) {
-    return { report: [], refusals: [whyOf(thrown)], code: INPUT }
+    return mistaking([whyOf(thrown)])
   }
 
   const installDisk = node.installDisk ?? null
   if (installDisk === null && read.method !== KEXEC) {
-    return {
-      report: [],
-      refusals: [
-        `${node.id} states a disk selector rather than a fixed disk, and \`${read.method}\` needs a device path`,
-        `\`${METHOD} ${KEXEC}\` leaves the selector to the apply, as does booting the node into maintenance mode`,
-      ],
-      code: INPUT,
-    }
+    return mistaking([
+      `${node.id} states a disk selector rather than a fixed disk, and \`${read.method}\` needs a device path`,
+      `\`${METHOD} ${KEXEC}\` leaves the selector to the apply, as does booting the node into maintenance mode`,
+    ])
   }
   if (!read.confirmWipe) {
-    return {
-      report: [],
-      refusals: [
-        `${installDisk ?? "the disk the selector matches"} on ${read.ip} is wiped, and \`${CONFIRM_WIPE}\` did not say so`,
-      ],
-      code: INPUT,
-    }
+    return mistaking([
+      `${installDisk ?? "the disk the selector matches"} on ${read.ip} is wiped, and \`${CONFIRM_WIPE}\` did not say so`,
+    ])
   }
 
   const schematicId = await registerSchematic(emitSchematicYaml(buildSchematic(node)))
@@ -274,11 +267,7 @@ async function installing(read: Named, given: Given): Promise<Answer> {
   }
   const script = installScript(read.method, urls, installDisk)
   if (script === null) {
-    return {
-      report: [],
-      refusals: [`\`${read.method}\` needs a fixed install disk, and ${node.id} states none`],
-      code: INPUT,
-    }
+    return mistaking([`\`${read.method}\` needs a fixed install disk, and ${node.id} states none`])
   }
 
   const report = [
@@ -300,15 +289,15 @@ async function installing(read: Named, given: Given): Promise<Answer> {
   report.push(
     `\`${given.calledAs} talos apply ${NODE} ${node.id} ${IP} ${read.ip}\` takes it into its cluster`
   )
-  return { report, refusals: [], code: OK }
+  return told(report)
 }
 
 export async function talosRemoteInstall(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
+  if ("refused" in read) return mistaking(read.refused)
   try {
     return await installing(read, given)
   } catch (thrown) {
-    return { report: [], refusals: [whyOf(thrown)], code: OPERATIONAL }
+    return refusedBy([whyOf(thrown)], OPERATIONAL)
   }
 }

@@ -95,6 +95,10 @@ export const talosRemoteInstall = {
       statement: "The node is left in maintenance mode rather than in its cluster.",
     },
     {
+      invariantKind: "departure",
+      statement: "Every answer here is built by a function rather than written out as a value.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here undoes a disk wipe.",
     },
