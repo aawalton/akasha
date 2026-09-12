@@ -18,11 +18,15 @@ export const changeDrop = {
     },
     {
       invariantKind: "departure",
-      statement: "A word on the command line is refused.",
+      statement: "A word on the command line other than the help flag is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "A flag is refused as any other word is.",
+      statement: "A flag other than the help flag is refused as any other word is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The help flag is answered with what a drop does and what a drop takes.",
     },
     {
       invariantKind: "departure",
