@@ -5,10 +5,12 @@ import {
   installing,
   linkUnit,
   ourInstalled,
+  ourStaged,
   ownedByService,
   planFor,
   type Ran,
   stagingDir,
+  strandedAmong,
   systemdDir,
   textFor,
   unitChanged,
@@ -176,4 +178,38 @@ test("a unit no service accounts for is stopped, disabled and then taken away", 
   expect(said.indexOf("stop gone.service")).toBeLessThan(said.indexOf("disable gone.service"))
   expect(existsSync(join(systemdDir(HOME), "gone.service"))).toBe(false)
   expect(existsSync(join(stagingDir(HOME), "gone.service"))).toBe(false)
+})
+
+test("what is staged that is no unit is weighed as no unit", () => {
+  writeUnit(HOME, "counted.service", "body")
+  writeFileSync(join(stagingDir(HOME), "verdicts.json"), "{}")
+  const staged = ourStaged(HOME)
+  expect(staged).toContain("counted.service")
+  expect(staged).not.toContain("verdicts.json")
+})
+
+test("nothing is staged where there is no staging folder", () => {
+  expect(ourStaged(join(HOME, "nowhere"))).toEqual([])
+})
+
+test("a staged file no link reaches and no service accounts for is stranded", () => {
+  const plan = planFor([pageOf({})], [])
+  const staged = ["held-service.service", "adrift.service", "installed.service"]
+  expect(strandedAmong(staged, ["installed.service"], plan)).toEqual(["adrift.service"])
+})
+
+test("a stranded file is taken away with systemd told to stop and disable nothing", () => {
+  const { said, run } = recorded()
+  writeUnit(HOME, "adrift.service", "body")
+  installing(HOME, { ...NOTHING, strand: ["adrift.service"] }, run)
+  expect(existsSync(join(stagingDir(HOME), "adrift.service"))).toBe(false)
+  expect(said).not.toContain("stop adrift.service")
+  expect(said).not.toContain("disable adrift.service")
+})
+
+test("a plan naming nothing stranded takes no staged file away", () => {
+  const { run } = recorded()
+  writeUnit(HOME, "stays.service", "body")
+  installing(HOME, NOTHING, run)
+  expect(existsSync(join(stagingDir(HOME), "stays.service"))).toBe(true)
 })

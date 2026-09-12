@@ -14,7 +14,23 @@ export const serviceInstalling = {
     },
     {
       invariantKind: "departure",
-      statement: "A unit akasha owns is a unit whose link points into that folder.",
+      statement: "A unit akasha installed is a unit whose link points into that folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A unit akasha staged is a `.service` or `.timer` file sitting in that folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Anything staged there that is neither is no unit and is weighed by nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A staged unit no link reaches and no service accounts for is stranded.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stranded file is taken away with systemd told to stop and disable nothing.",
     },
     {
       invariantKind: "departure",

@@ -7,7 +7,9 @@ import {
   homeAt,
   installing,
   ourInstalled,
+  ourStaged,
   planFor,
+  strandedAmong,
   systemctl,
 } from "akasha/infrastructure/services/workstations/service-installing/service-installing.module.code.ts"
 import {
@@ -38,7 +40,8 @@ const DRY_RUN = "--dry-run"
 const NOT_ASKED = "dry-run\tsystemd was not asked; run it again without `--dry-run` to carry it out"
 const NOT_SWEPT =
   "dry-run\tnothing was taken away; run it again without `--dry-run` to carry it out"
-const ALL_ACCOUNTED = "nothing\tevery unit akasha owns is accounted for by a page"
+const ALL_ACCOUNTED =
+  "nothing\tevery unit akasha owns, installed and staged alike, is accounted for by a page"
 
 function acts(): string {
   return namesDrawn(ACTS)
@@ -69,13 +72,21 @@ function swept(argv: readonly string[], given: Given): Answer {
     return refused("no home directory is stated, so no unit has anywhere to sit", OPERATIONAL)
   }
 
-  const remove = planFor(read.services, ourInstalled(home)).remove
-  if (remove.length === 0) return { report: [ALL_ACCOUNTED], refusals: [], code: 0 }
+  const owned = ourInstalled(home)
+  const plan = planFor(read.services, owned)
+  const remove = plan.remove
+  const strand = strandedAmong(ourStaged(home), owned, plan)
+  if (remove.length === 0 && strand.length === 0) {
+    return { report: [ALL_ACCOUNTED], refusals: [], code: 0 }
+  }
 
-  const report = remove.map((name) => `remove\t${name}`)
+  const report = [
+    ...remove.map((name) => `remove\t${name}`),
+    ...strand.map((name) => `stranded\t${name}`),
+  ]
   if (dryRun) return { report: [...report, NOT_SWEPT], refusals: [], code: 0 }
 
-  const done = installing(home, { write: new Map(), enable: [], stop: [], remove })
+  const done = installing(home, { write: new Map(), enable: [], stop: [], remove, strand })
   const said = [...report, ...done.did.map((what) => `did\t${what}`)]
   if (done.refused.length > 0) return { report: said, refusals: done.refused, code: OPERATIONAL }
   return { report: said, refusals: [], code: 0 }

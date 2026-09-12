@@ -53,6 +53,13 @@ test("a dry run of a sweep asks systemd nothing and plans no unit written or ena
   for (const line of answer.report) expect(line).not.toContain("enable\t")
 })
 
+test("a sweep says of each unit only that it is to be removed or that it is stranded", async () => {
+  const answer = await infrastructureService(["sweep", "--dry-run"], HERE)
+  expect(answer.code).toBe(0)
+  const said = ["nothing\t", "remove\t", "stranded\t", "dry-run\t"]
+  for (const line of answer.report) expect(said.some((one) => line.startsWith(one))).toBe(true)
+})
+
 test("an act asking systemd for no named service is refused as the caller's fault", async () => {
   const answer = await infrastructureService(["restart"], HERE)
   expect(answer.code).toBe(1)
@@ -110,9 +117,9 @@ test("a run naming a slug no service page carries is the data's fault", async ()
   expect(answer.report).toEqual([])
 })
 
-test("a service keeping no running code is refused by name rather than run", async () => {
-  const answer = await infrastructureService(["run", "audit-running"], HERE)
+test("a slug another page type carries is no workstation service to run", async () => {
+  const answer = await infrastructureService(["run", "service-installing"], HERE)
   expect(answer.code).toBe(2)
-  expect(answer.refusals[0]).toContain("audit-running")
-  expect(answer.refusals[0]).toContain("running")
+  expect(answer.refusals[0]).toContain("service-installing")
+  expect(answer.report).toEqual([])
 })

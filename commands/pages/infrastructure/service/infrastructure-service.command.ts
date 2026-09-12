@@ -30,7 +30,10 @@ export const infrastructureService = {
     "`run` asks systemd nothing, so a service already under systemd is left running where it is.",
     "a scheduled service is reached by its timer, and one that is not by its service unit.",
     "a unit is written under your home and reached by a link systemd reads, which is how it is known to be ours.",
-    "a unit of ours that the pages no longer account for is disabled and taken away by `sweep`.",
+    "a unit of ours the pages no longer account for is stopped, disabled and taken away by `sweep`.",
+    "a unit file staged under your home that no link reaches is stranded, and `sweep` takes it away too.",
+    "a stranded file is said apart from an installed unit, since taking it away asks systemd nothing.",
+    "`sweep` answers nothing only where installed and staged alike are accounted for by a page.",
     "putting a service's units where systemd reads them is `akasha deploy`, which nothing here does.",
     "a systemctl that refuses is carried back as a refusal rather than printed beside a success.",
     "`run` runs under no ceiling on the wall clock, since a service runs until it is stopped.",
@@ -47,6 +50,22 @@ export const infrastructureService = {
     {
       invariantKind: "departure",
       statement: "A sweep takes away a unit of ours and writes none.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A sweep weighs what is staged under your home as well as what a link installs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A staged file no link reaches and no page accounts for is stranded.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stranded file is said apart from an installed unit no page accounts for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A sweep answers nothing only where installed and staged alike are accounted for.",
     },
     {
       invariantKind: "departure",

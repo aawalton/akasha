@@ -36,6 +36,7 @@ export type Plan = {
   readonly stop: readonly string[]
   readonly remove: readonly string[]
   readonly restart?: readonly string[]
+  readonly strand?: readonly string[]
 }
 
 export type Done = {
@@ -57,6 +58,10 @@ export function systemdDir(home: string): string {
   return join(home, SYSTEMD)
 }
 
+function isUnit(name: string): boolean {
+  return name.endsWith(SERVICE_SUFFIX) || name.endsWith(TIMER_SUFFIX)
+}
+
 export function ourInstalled(home: string): readonly string[] {
   const ours = stagingDir(home)
   const found: string[] = []
@@ -67,7 +72,7 @@ export function ourInstalled(home: string): readonly string[] {
     return []
   }
   for (const name of names) {
-    if (!name.endsWith(SERVICE_SUFFIX) && !name.endsWith(TIMER_SUFFIX)) continue
+    if (!isUnit(name)) continue
     const at = join(systemdDir(home), name)
     try {
       if (!lstatSync(at).isSymbolicLink()) continue
@@ -75,6 +80,26 @@ export function ourInstalled(home: string): readonly string[] {
     } catch {}
   }
   return found.sort()
+}
+
+export function ourStaged(home: string): readonly string[] {
+  let names: readonly string[]
+  try {
+    names = readdirSync(stagingDir(home))
+  } catch {
+    return []
+  }
+  return names.filter(isUnit).sort()
+}
+
+export function strandedAmong(
+  staged: readonly string[],
+  owned: readonly string[],
+  plan: Plan
+): readonly string[] {
+  const accounted = new Set(plan.write.keys())
+  const installed = new Set(owned)
+  return staged.filter((one) => !accounted.has(one) && !installed.has(one)).sort()
 }
 
 export function ownedByService(owned: readonly string[], slug: string): readonly string[] {
@@ -147,9 +172,13 @@ export function linkUnit(home: string, name: string): undefined {
   symlinkSync(target, at)
 }
 
+function dropStaged(home: string, name: string): undefined {
+  rmSync(join(stagingDir(home), name), { force: true })
+}
+
 export function unlinkUnit(home: string, name: string): undefined {
   rmSync(join(systemdDir(home), name), { force: true })
-  rmSync(join(stagingDir(home), name), { force: true })
+  dropStaged(home, name)
 }
 
 export function installing(
@@ -174,6 +203,11 @@ export function installing(
     took(`stopped ${name}`, run(["stop", name]))
     took(`removed ${name}`, run(["disable", name]))
     unlinkUnit(home, name)
+  }
+
+  for (const name of plan.strand ?? []) {
+    dropStaged(home, name)
+    did.push(`took away ${name}`)
   }
 
   took("reloaded", run(["daemon-reload"]))
