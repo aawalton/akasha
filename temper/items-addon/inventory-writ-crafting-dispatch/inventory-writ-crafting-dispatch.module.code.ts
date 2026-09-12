@@ -1,5 +1,3 @@
-import { getInventoryConfig } from "akasha/temper/items-addon/inventory-config/inventory-config.module.code.ts"
-import { ADDON_NAME } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
 import { getActionReportLevel } from "akasha/temper/items-addon/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
 import { resolveAlchemyWrit } from "akasha/temper/items-addon/inventory-writ-crafting-alchemy/inventory-writ-crafting-alchemy.module.code.ts"
 import { resolveEnchantingWrit } from "akasha/temper/items-addon/inventory-writ-crafting-enchanting/inventory-writ-crafting-enchanting.module.code.ts"
@@ -21,6 +19,8 @@ import {
   type MasterWritToggles,
   type WritToggles,
 } from "akasha/temper/items-addon/inventory-writ-toggles/inventory-writ-toggles.module.code.ts"
+import { getInventoryConfig } from "akasha/temper/items-addon/modules/inventory-config/inventory-config.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/items-addon/modules/inventory-constants/inventory-constants.module.code.ts"
 
 const SMITHING_CRAFT_TYPES = new LuaSet<number>()
 SMITHING_CRAFT_TYPES.add(CRAFTING_TYPE_BLACKSMITHING)

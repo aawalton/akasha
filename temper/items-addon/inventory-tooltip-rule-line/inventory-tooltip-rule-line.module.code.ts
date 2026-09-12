@@ -1,4 +1,3 @@
-import { resolveCharacterNameById } from "akasha/temper/items-addon/inventory-character-names/inventory-character-names.module.code.ts"
 import { isItemAtMoveToDestination } from "akasha/temper/items-addon/inventory-location-keys/inventory-location-keys.module.code.ts"
 import { resolveVenueLabel } from "akasha/temper/items-addon/inventory-plan/inventory-plan.module.code.ts"
 import {
@@ -10,6 +9,7 @@ import { countItemInBag } from "akasha/temper/items-addon/inventory-rules-dispat
 import { findMatchedRule } from "akasha/temper/items-addon/inventory-rules-eval/inventory-rules-eval.module.code.ts"
 import type { AddonItemAction } from "akasha/temper/items-addon/inventory-rules-types/inventory-rules-types.module.code.ts"
 import { computeStockTierDeposit } from "akasha/temper/items-addon/inventory-stock-deposit-decision/inventory-stock-deposit-decision.module.code.ts"
+import { resolveCharacterNameById } from "akasha/temper/items-addon/modules/inventory-character-names/inventory-character-names.module.code.ts"
 import { formatActionLabel } from "akasha/temper/items-rules-core/inventory-rule-action-labels/inventory-rule-action-labels.module.code.ts"
 import type { ItemAction } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 export interface TooltipDecision {

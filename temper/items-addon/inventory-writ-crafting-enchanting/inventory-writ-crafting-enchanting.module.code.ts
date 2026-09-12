@@ -1,4 +1,3 @@
-import { ADDON_NAME } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
 import { ensureEnchantSoundGuard } from "akasha/temper/items-addon/inventory-writ-crafting-enchant-sound-guard/inventory-writ-crafting-enchant-sound-guard.module.code.ts"
 import {
   GLYPH_TYPES,
@@ -18,6 +17,7 @@ import {
   newConsumableTrace,
   recordMasterConsumableTrace,
 } from "akasha/temper/items-addon/inventory-writ-master-consumable-trace/inventory-writ-master-consumable-trace.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/items-addon/modules/inventory-constants/inventory-constants.module.code.ts"
 export function findItemInBags(itemId: number): { bag: number; slot: number } | undefined {
   const bags = [BAG_BACKPACK, BAG_BANK, BAG_SUBSCRIBER_BANK]
   for (const bagId of bags) {

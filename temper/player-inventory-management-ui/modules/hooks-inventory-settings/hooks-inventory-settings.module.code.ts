@@ -16,7 +16,6 @@ import type {
   CharacterAutomationToggles,
   CompanionAutomationToggles,
 } from "akasha/temper/build-support/modules/automation-settings/automation-settings.module.code.ts"
-import type { CraftBagAccessSettings } from "akasha/temper/items-core/inventory-craft-bag-types/inventory-craft-bag-types.module.code.ts"
 import {
   type ManagedGuildBankSettings,
   readManagedGuildBanks,
@@ -25,6 +24,7 @@ import {
   type BackpackSettings,
   DEFAULT_BACKPACK_SETTINGS,
 } from "akasha/temper/items-core/modules/backpack-settings-types/backpack-settings-types.module.code.ts"
+import type { CraftBagAccessSettings } from "akasha/temper/items-core/modules/inventory-craft-bag-types/inventory-craft-bag-types.module.code.ts"
 import {
   heldFromRows,
   rulesFromPages,

@@ -1,5 +1,5 @@
-import { getInventoryConfig } from "akasha/temper/items-addon/inventory-config/inventory-config.module.code.ts"
-import { ADDON_NAME } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
+import { getInventoryConfig } from "akasha/temper/items-addon/modules/inventory-config/inventory-config.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/items-addon/modules/inventory-constants/inventory-constants.module.code.ts"
 
 function getPerfTracingLevel(): "none" | "minimal" {
   const level = getInventoryConfig().logging?.perfTracing

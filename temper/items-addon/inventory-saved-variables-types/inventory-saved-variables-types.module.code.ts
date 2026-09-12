@@ -1,5 +1,3 @@
-import type { BankProfile } from "akasha/temper/items-addon/inventory-bank-profile-types/inventory-bank-profile-types.module.code.ts"
-import type { BankTrace } from "akasha/temper/items-addon/inventory-bank-trace-types/inventory-bank-trace-types.module.code.ts"
 import type { ItemRuleVerdictMutation } from "akasha/temper/items-addon/inventory-item-rule-verdict-core/inventory-item-rule-verdict-core.module.code.ts"
 import {
   RULES_CONFIG_DEFAULTS,
@@ -10,6 +8,8 @@ import type { SkillGateEval } from "akasha/temper/items-addon/inventory-skill-ga
 import type { MasterConsumableTrace } from "akasha/temper/items-addon/inventory-writ-master-consumable-trace-types/inventory-writ-master-consumable-trace-types.module.code.ts"
 import type { MasterCraftTrace } from "akasha/temper/items-addon/inventory-writ-master-craft-trace-types/inventory-writ-master-craft-trace-types.module.code.ts"
 import type { MasterWritProbe } from "akasha/temper/items-addon/inventory-writ-master-probe-types/inventory-writ-master-probe-types.module.code.ts"
+import type { BankProfile } from "akasha/temper/items-addon/modules/inventory-bank-profile-types/inventory-bank-profile-types.module.code.ts"
+import type { BankTrace } from "akasha/temper/items-addon/modules/inventory-bank-trace-types/inventory-bank-trace-types.module.code.ts"
 import type {
   CharacterCurrencies as CoreCharacterCurrencies,
   CurrencyBalances as CoreCurrencyBalances,

@@ -3,11 +3,11 @@ import { DataError } from "akasha/alan/harness/errors-core/modules/exit-code/exi
 import {
   type CharacterKnowledge,
   loadTemperCharactersFromPath,
-} from "akasha/temper/commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
+} from "akasha/temper/commands/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import {
   type CompiledInventoryConfig,
   parseTemperInventoryConfig,
-} from "akasha/temper/commands/inventory-config-reading/inventory-config-reading.module.code.ts"
+} from "akasha/temper/commands/modules/inventory-config-reading/inventory-config-reading.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { parseInventoryContent } from "akasha/temper/items-core/inventory-parser/inventory-parser.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"

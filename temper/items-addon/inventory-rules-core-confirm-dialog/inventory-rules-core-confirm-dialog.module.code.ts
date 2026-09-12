@@ -1,4 +1,4 @@
-import { getInventoryConfig } from "akasha/temper/items-addon/inventory-config/inventory-config.module.code.ts"
+import { getInventoryConfig } from "akasha/temper/items-addon/modules/inventory-config/inventory-config.module.code.ts"
 
 const CONFIRM_DIALOG_NAME = "TEMPERINVENTORY_CONFIRM_DESTRUCTIVE"
 

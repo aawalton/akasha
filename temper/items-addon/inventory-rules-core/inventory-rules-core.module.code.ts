@@ -1,4 +1,3 @@
-import { getInventoryConfig } from "akasha/temper/items-addon/inventory-config/inventory-config.module.code.ts"
 import { setItemIsJunkGated } from "akasha/temper/items-addon/inventory-junk-queue/inventory-junk-queue.module.code.ts"
 import {
   applyMultiCharAllocation,
@@ -12,6 +11,7 @@ import type {
 } from "akasha/temper/items-addon/inventory-rules-types/inventory-rules-types.module.code.ts"
 import { slotKey } from "akasha/temper/items-addon/inventory-slot-key/inventory-slot-key.module.code.ts"
 import { setTemperLock } from "akasha/temper/items-addon/inventory-temper-lock-store/inventory-temper-lock-store.module.code.ts"
+import { getInventoryConfig } from "akasha/temper/items-addon/modules/inventory-config/inventory-config.module.code.ts"
 import type { CompiledRuleConfig } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import { isBackpackRequiredAction } from "akasha/temper/items-rules-core/modules/action-storage-capability/action-storage-capability.module.code.ts"
 export function getCompiledConfig(): CompiledRuleConfig | undefined {

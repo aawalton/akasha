@@ -1,9 +1,9 @@
-import { ADDON_NAME } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
 import {
   clearPendingAction,
   forEachPendingAction,
 } from "akasha/temper/items-addon/inventory-rules-core/inventory-rules-core.module.code.ts"
 import { reportAction } from "akasha/temper/items-addon/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/items-addon/modules/inventory-constants/inventory-constants.module.code.ts"
 import type { ItemAction } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const MAX_OPS = 50

@@ -1,4 +1,3 @@
-import { ADDON_NAME } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
 import { getSavedVariables } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import type {
   MasterWritProbe,
@@ -6,6 +5,7 @@ import type {
   MasterWritProbeQuest,
   MasterWritProbeStep,
 } from "akasha/temper/items-addon/inventory-writ-master-probe-types/inventory-writ-master-probe-types.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/items-addon/modules/inventory-constants/inventory-constants.module.code.ts"
 
 function probeCondition(
   this: void,

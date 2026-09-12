@@ -18,14 +18,14 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { temperInventoryExplain as page } from "akasha/commands/pages/temper/inventory/explain/temper-inventory-explain.command.ts"
-import type { CharacterKnowledge } from "akasha/temper/commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
+import type { CharacterKnowledge } from "akasha/temper/commands/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import {
   allBagItems,
   type ExplainCapabilities,
   explainCapabilities,
   type ResolvedInventoryItem,
   resolveItemFromInventory,
-} from "akasha/temper/commands/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"
+} from "akasha/temper/commands/modules/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import {
   formatExplainWalk,

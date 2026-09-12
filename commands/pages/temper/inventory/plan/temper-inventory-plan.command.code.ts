@@ -21,7 +21,6 @@ import {
   ordered,
   type TakenStack,
 } from "akasha/commands/pages/temper/inventory/rule/takes/temper-inventory-rule-takes.command.code.ts"
-import type { CharacterKnowledge } from "akasha/temper/commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import {
   capacityFilter,
   classifyItem,
@@ -33,6 +32,7 @@ import {
   planInputs,
   ruleMatcher,
 } from "akasha/temper/commands/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
+import type { CharacterKnowledge } from "akasha/temper/commands/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 import type { ClassifiableItem } from "akasha/temper/items-core/item-category-tree-types/item-category-tree-types.module.code.ts"
 import {

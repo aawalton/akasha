@@ -13,12 +13,12 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { temperInventoryConfiguration as page } from "akasha/commands/pages/temper/inventory/configuration/temper-inventory-configuration.command.ts"
-import type { Divergence } from "akasha/temper/commands/inventory-config-divergence/inventory-config-divergence.module.code.ts"
+import type { Divergence } from "akasha/temper/commands/modules/inventory-config-divergence/inventory-config-divergence.module.code.ts"
 import {
   compiledFromRecords,
   divergenceBetween,
-} from "akasha/temper/commands/inventory-config-divergence/inventory-config-divergence.module.code.ts"
-import { loadTemperInventoryConfigFromPath } from "akasha/temper/commands/inventory-config-reading/inventory-config-reading.module.code.ts"
+} from "akasha/temper/commands/modules/inventory-config-divergence/inventory-config-divergence.module.code.ts"
+import { loadTemperInventoryConfigFromPath } from "akasha/temper/commands/modules/inventory-config-reading/inventory-config-reading.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 

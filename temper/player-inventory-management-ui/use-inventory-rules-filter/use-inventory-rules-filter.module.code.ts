@@ -6,11 +6,6 @@ import type {
   CategoryRule,
   ItemRule,
 } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-import type {
-  ActiveStatusFilter,
-  LockStatusFilter,
-  RuleSortField,
-} from "akasha/temper/player-inventory-management-ui/inventory-filter-types/inventory-filter-types.module.code.ts"
 import {
   ACTIVE_STATUS_ITEMS,
   GOAL_FILTER_ITEMS,
@@ -29,6 +24,11 @@ import {
   sortCategoryRules,
   sortItemRules,
 } from "akasha/temper/player-inventory-management-ui/inventory-rules-sort/inventory-rules-sort.module.code.ts"
+import type {
+  ActiveStatusFilter,
+  LockStatusFilter,
+  RuleSortField,
+} from "akasha/temper/player-inventory-management-ui/modules/inventory-filter-types/inventory-filter-types.module.code.ts"
 import { useCallback, useMemo, useRef } from "react"
 
 export interface DeferredRuleFilters {

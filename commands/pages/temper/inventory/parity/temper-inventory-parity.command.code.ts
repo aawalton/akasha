@@ -16,18 +16,18 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { temperInventoryParity as page } from "akasha/commands/pages/temper/inventory/parity/temper-inventory-parity.command.ts"
-import type { CharacterKnowledge } from "akasha/temper/commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
-import {
-  allBagItems,
-  explainCapabilities,
-  resolveItemFromInventory,
-} from "akasha/temper/commands/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"
 import {
   type MatchedRoute,
   type ParityAddonTrace,
   parityAddonTrace,
   parityRouting,
 } from "akasha/temper/commands/inventory-parity-capabilities/inventory-parity-capabilities.module.code.ts"
+import type { CharacterKnowledge } from "akasha/temper/commands/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
+import {
+  allBagItems,
+  explainCapabilities,
+  resolveItemFromInventory,
+} from "akasha/temper/commands/modules/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"

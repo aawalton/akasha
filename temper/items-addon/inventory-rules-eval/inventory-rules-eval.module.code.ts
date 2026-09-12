@@ -1,10 +1,3 @@
-import { recordSettlingMs } from "akasha/temper/items-addon/inventory-bank-trace/inventory-bank-trace.module.code.ts"
-import {
-  buildItemFactsForSlot,
-  resolveItemKey,
-} from "akasha/temper/items-addon/inventory-build-item-facts/inventory-build-item-facts.module.code.ts"
-import { refreshEquipmentLockOverlays } from "akasha/temper/items-addon/inventory-equipment-lock-overlay/inventory-equipment-lock-overlay.module.code.ts"
-import { buildEsoEvalEnv } from "akasha/temper/items-addon/inventory-eso-eval-env/inventory-eso-eval-env.module.code.ts"
 import { isItemLocked } from "akasha/temper/items-addon/inventory-item-data/inventory-item-data.module.code.ts"
 import {
   getEffectiveItemRuleAction,
@@ -22,6 +15,13 @@ import { dispatchUseActions } from "akasha/temper/items-addon/inventory-rules-di
 import { resolveEntryAllocation } from "akasha/temper/items-addon/inventory-rules-eval-allocation/inventory-rules-eval-allocation.module.code.ts"
 import { setRescanInventoryRef } from "akasha/temper/items-addon/inventory-rules-rescan-ref/inventory-rules-rescan-ref.module.code.ts"
 import type { UseAllocation } from "akasha/temper/items-addon/inventory-rules-types/inventory-rules-types.module.code.ts"
+import { recordSettlingMs } from "akasha/temper/items-addon/modules/inventory-bank-trace/inventory-bank-trace.module.code.ts"
+import {
+  buildItemFactsForSlot,
+  resolveItemKey,
+} from "akasha/temper/items-addon/modules/inventory-build-item-facts/inventory-build-item-facts.module.code.ts"
+import { refreshEquipmentLockOverlays } from "akasha/temper/items-addon/modules/inventory-equipment-lock-overlay/inventory-equipment-lock-overlay.module.code.ts"
+import { buildEsoEvalEnv } from "akasha/temper/items-addon/modules/inventory-eso-eval-env/inventory-eso-eval-env.module.code.ts"
 import type {
   ItemAction,
   StockScope,

@@ -1,10 +1,10 @@
-import { ADDON_NAME } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
 import { patchMailKeybindName } from "akasha/temper/items-addon/inventory-mail-keybind-patch/inventory-mail-keybind-patch.module.code.ts"
 import {
   HIRELING_CATEGORY,
   type MailHeader,
   type MailSourceCategory,
 } from "akasha/temper/items-addon/inventory-mail-source-category/inventory-mail-source-category.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/items-addon/modules/inventory-constants/inventory-constants.module.code.ts"
 export type MailHandlerState = "idle" | "waiting-response"
 
 const MAX_TAKE_PASSES = 25

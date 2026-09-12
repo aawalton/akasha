@@ -7,7 +7,7 @@ import type {
 import {
   formatAbsoluteInstant,
   instantToMillis,
-} from "akasha/pages/core/property-types/instant/instant.module.code.ts"
+} from "akasha/pages/core/property-types/modules/instant/instant.module.code.ts"
 import {
   formatPropertyNumber,
   toNumber,

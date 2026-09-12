@@ -15,7 +15,6 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { temperCommunityAddonUpdate as page } from "akasha/commands/pages/temper/community/addon-update/temper-community-addon-update.command.ts"
 import { listDeployables } from "akasha/temper/addons-resolve/modules/deployable-addons/deployable-addons.module.code.ts"
-import { readInstalledAddons } from "akasha/temper/community-addons/installed-addons/installed-addons.module.code.ts"
 import {
   clearedSaid,
   downloadAndInstall,
@@ -32,6 +31,7 @@ import {
   fetchCatalog,
   fetchFileDetails,
 } from "akasha/temper/community-addons/modules/esoui-catalog/esoui-catalog.module.code.ts"
+import { readInstalledAddons } from "akasha/temper/community-addons/modules/installed-addons/installed-addons.module.code.ts"
 import { addonsDir } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 

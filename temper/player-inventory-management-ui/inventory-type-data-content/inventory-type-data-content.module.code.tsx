@@ -16,18 +16,12 @@ import {
 import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
-import { computeCurrencyGoldTotal } from "akasha/temper/items-core/inventory-currencies/inventory-currencies.module.code.ts"
+import { computeCurrencyGoldTotal } from "akasha/temper/items-core/modules/inventory-currencies/inventory-currencies.module.code.ts"
 import {
   filterInventoryTypeGroups,
   groupInventoryByType,
-} from "akasha/temper/items-core/inventory-grouping/inventory-grouping.module.code.ts"
-import { partitionUnmanagedGuildBanks } from "akasha/temper/items-core/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
-import { InventoryCurrencyPanelCard } from "akasha/temper/player-inventory-management-ui/inventory-currency-panel-card/inventory-currency-panel-card.module.code.tsx"
-import { InventoryFilterBar } from "akasha/temper/player-inventory-management-ui/inventory-filter-bar/inventory-filter-bar.module.code.tsx"
-import type {
-  FilterValues,
-  SortField,
-} from "akasha/temper/player-inventory-management-ui/inventory-filter-types/inventory-filter-types.module.code.ts"
+} from "akasha/temper/items-core/modules/inventory-grouping/inventory-grouping.module.code.ts"
+import { partitionUnmanagedGuildBanks } from "akasha/temper/items-core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
 import { InventoryScopeNote } from "akasha/temper/player-inventory-management-ui/inventory-scope-note/inventory-scope-note.module.code.tsx"
 import { InventoryTypeSummaryPanelCard } from "akasha/temper/player-inventory-management-ui/inventory-summary-panel-card/inventory-summary-panel-card.module.code.tsx"
 import { InventoryTypePanelCard } from "akasha/temper/player-inventory-management-ui/inventory-type-panel-card/inventory-type-panel-card.module.code.tsx"
@@ -36,6 +30,12 @@ import {
   usePriceExtract,
 } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.code.ts"
 import { useManagedGuildBanks } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
+import { InventoryCurrencyPanelCard } from "akasha/temper/player-inventory-management-ui/modules/inventory-currency-panel-card/inventory-currency-panel-card.module.code.tsx"
+import { InventoryFilterBar } from "akasha/temper/player-inventory-management-ui/modules/inventory-filter-bar/inventory-filter-bar.module.code.tsx"
+import type {
+  FilterValues,
+  SortField,
+} from "akasha/temper/player-inventory-management-ui/modules/inventory-filter-types/inventory-filter-types.module.code.ts"
 import {
   resolvePricingRegion,
   resolvePricingRegionNote,

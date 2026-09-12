@@ -6,14 +6,14 @@ import type {
   ItemRule,
 } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type { BuyRule } from "akasha/temper/items-rules-core/modules/buy-rule-types/buy-rule-types.module.code.ts"
-import { BuyRulesPanel } from "akasha/temper/player-inventory-management-ui/inventory-buy-rules-panel/inventory-buy-rules-panel.module.code.tsx"
-import { CategoryRulesPanel } from "akasha/temper/player-inventory-management-ui/inventory-category-rules-panel/inventory-category-rules-panel.module.code.tsx"
+import { ItemRulesPanel } from "akasha/temper/player-inventory-management-ui/inventory-item-rules-panel/inventory-item-rules-panel.module.code.tsx"
+import type { InventoryRulesHandlers } from "akasha/temper/player-inventory-management-ui/inventory-rules-handlers/inventory-rules-handlers.module.code.ts"
+import { BuyRulesPanel } from "akasha/temper/player-inventory-management-ui/modules/inventory-buy-rules-panel/inventory-buy-rules-panel.module.code.tsx"
+import { CategoryRulesPanel } from "akasha/temper/player-inventory-management-ui/modules/inventory-category-rules-panel/inventory-category-rules-panel.module.code.tsx"
 import type {
   ActiveStatusFilter,
   LockStatusFilter,
-} from "akasha/temper/player-inventory-management-ui/inventory-filter-types/inventory-filter-types.module.code.ts"
-import { ItemRulesPanel } from "akasha/temper/player-inventory-management-ui/inventory-item-rules-panel/inventory-item-rules-panel.module.code.tsx"
-import type { InventoryRulesHandlers } from "akasha/temper/player-inventory-management-ui/inventory-rules-handlers/inventory-rules-handlers.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/modules/inventory-filter-types/inventory-filter-types.module.code.ts"
 import type { DestinationOptions } from "akasha/temper/player-inventory-management-ui/use-destination-options/use-destination-options.module.code.ts"
 import type * as React from "react"
 

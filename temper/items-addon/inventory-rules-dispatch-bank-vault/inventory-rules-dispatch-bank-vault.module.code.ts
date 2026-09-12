@@ -1,5 +1,3 @@
-import { getConfiguredBufferSlots } from "akasha/temper/items-addon/inventory-backpack-buffer/inventory-backpack-buffer.module.code.ts"
-import { ADDON_NAME } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
 import {
   clearPendingAction,
   forEachPendingAction,
@@ -13,6 +11,8 @@ import {
 } from "akasha/temper/items-addon/inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
 import { findMatchedRule } from "akasha/temper/items-addon/inventory-rules-eval/inventory-rules-eval.module.code.ts"
 import { slotKey } from "akasha/temper/items-addon/inventory-slot-key/inventory-slot-key.module.code.ts"
+import { getConfiguredBufferSlots } from "akasha/temper/items-addon/modules/inventory-backpack-buffer/inventory-backpack-buffer.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/items-addon/modules/inventory-constants/inventory-constants.module.code.ts"
 import { isBackpackRequiredAction } from "akasha/temper/items-rules-core/modules/action-storage-capability/action-storage-capability.module.code.ts"
 
 interface VaultWithdrawal {

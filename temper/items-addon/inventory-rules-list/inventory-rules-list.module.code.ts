@@ -1,9 +1,9 @@
-import { ADDON_NAME } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
 import {
   clearPendingAction,
   forEachPendingAction,
 } from "akasha/temper/items-addon/inventory-rules-core/inventory-rules-core.module.code.ts"
 import { isVendorCrossCharDestination } from "akasha/temper/items-addon/inventory-rules-cross-char/inventory-rules-cross-char.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/items-addon/modules/inventory-constants/inventory-constants.module.code.ts"
 import { postGuildStoreItem } from "akasha/temper/trading-post/modules/guild-store-poster/guild-store-poster.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 export interface ListingCandidate {

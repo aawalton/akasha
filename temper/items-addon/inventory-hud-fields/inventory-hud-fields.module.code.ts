@@ -4,8 +4,6 @@ import {
   GREEN,
   RED,
 } from "akasha/design/interfaces/tokens/semantic-color/semantic-color.module.code.ts"
-import { recordNetWorthScanMs } from "akasha/temper/items-addon/inventory-bank-trace/inventory-bank-trace.module.code.ts"
-import { getInventoryConfig } from "akasha/temper/items-addon/inventory-config/inventory-config.module.code.ts"
 import { computeLiveNetWorth } from "akasha/temper/items-addon/inventory-live-net-worth/inventory-live-net-worth.module.code.ts"
 import { getSavedVariables } from "akasha/temper/items-addon/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import {
@@ -17,6 +15,8 @@ import {
   formatSignedGold,
   isBurstVisible,
 } from "akasha/temper/items-addon/inventory-session-tracking/inventory-session-tracking.module.code.ts"
+import { recordNetWorthScanMs } from "akasha/temper/items-addon/modules/inventory-bank-trace/inventory-bank-trace.module.code.ts"
+import { getInventoryConfig } from "akasha/temper/items-addon/modules/inventory-config/inventory-config.module.code.ts"
 
 interface HudCell {
   text: string

@@ -1,4 +1,3 @@
-import { ADDON_NAME } from "akasha/temper/items-addon/inventory-constants/inventory-constants.module.code.ts"
 import type { MasterWritSpec } from "akasha/temper/items-addon/inventory-writ-crafting-master-decode/inventory-writ-crafting-master-decode.module.code.ts"
 import {
   findBestSpecMatch,
@@ -15,6 +14,7 @@ import type {
   MasterCraftOutcome,
   MasterCraftTrace,
 } from "akasha/temper/items-addon/inventory-writ-master-craft-trace-types/inventory-writ-master-craft-trace-types.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/items-addon/modules/inventory-constants/inventory-constants.module.code.ts"
 
 const SET_PATTERN_OFFSET: Record<number, number> = { [1]: 14, [2]: 15, [6]: 6, [7]: 2 }
 

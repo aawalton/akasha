@@ -1,5 +1,5 @@
 import { getEsoDayStr } from "akasha/alan/harness/day/modules/eso-day/eso-day.module.code.ts"
-import { instantToMillis } from "akasha/pages/core/property-types/instant/instant.module.code.ts"
+import { instantToMillis } from "akasha/pages/core/property-types/modules/instant/instant.module.code.ts"
 import {
   type CompletionShape,
   completionShapeOf,
