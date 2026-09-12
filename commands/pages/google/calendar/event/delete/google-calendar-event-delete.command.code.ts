@@ -11,7 +11,7 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 
 const WANTED: Wanted = { takes: [CALENDAR, EVENT], needs: [EVENT], inPlace: true }
 
-export function googleCalendarEventsDelete(argv: readonly string[], given: Given): Promise<Answer> {
+export function googleCalendarEventDelete(argv: readonly string[], given: Given): Promise<Answer> {
   return answeredBy(readIn(argv, WANTED), given.calledAs, async ({ said }) =>
     (await eventsIn()).deleteEvent(await asAkasha(), {
       calendarId: said.get(CALENDAR),
