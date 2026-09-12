@@ -17,12 +17,8 @@ export const parts = {
       statement: "A page is named by exactly one parent.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "gap",
       statement: "A parts list is sorted.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "No reader depends on the order a parts list is written in.",
     },
   ],
   types: "ts",
