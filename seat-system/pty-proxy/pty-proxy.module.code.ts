@@ -1,7 +1,10 @@
 #!/usr/bin/env bun
 
 import { writeSync } from "node:fs"
-import { type BunPtyTerminal, spawnPty } from "akasha/seat-system/bun-pty/bun-pty.module.code.ts"
+import {
+  type BunPtyTerminal,
+  spawnPty,
+} from "akasha/agents/seats/pty/bun-pty/bun-pty.module.code.ts"
 import {
   createRisingEdgeDetector,
   DEV_CHANNEL_MARKER,

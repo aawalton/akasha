@@ -10,7 +10,6 @@ export const seatSystem = {
     "module/kill-target-plan",
     "module/window-duration",
     "module/launch-seat-tmux",
-    "module/bun-pty",
     "module/seat-handle",
     "module/seat-name-restate",
     "module/seat-page-writing",
