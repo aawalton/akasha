@@ -14,8 +14,7 @@ export const commandExportNamedForItsSlug = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Which name a file exports under a slug is answered by the module a rename reaches.",
+      statement: "Which name a file exports under a slug is read from `export-spelling`.",
     },
     {
       invariantKind: "departure",
