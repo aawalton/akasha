@@ -9,6 +9,10 @@ import {
   type PreCliffObservation,
 } from "akasha/agents/seats/supervisors/modules/precliff-restart-decide/supervisor-precliff-restart-decide.module.code.ts"
 import {
+  decideProxyAdoption,
+  type ProxyAdoptionInput,
+} from "akasha/agents/seats/supervisors/modules/proxy-adoption-decide/supervisor-proxy-adoption-decide.module.code.ts"
+import {
   arr,
   bool,
   maybe,
@@ -48,10 +52,6 @@ import {
   resolvePreCliffOverrideMs,
   resolveStaleWedgeMs,
 } from "akasha/seat-system/supervising/supervisor-deferred-restart-decide/supervisor-deferred-restart-decide.module.code.ts"
-import {
-  decideProxyAdoption,
-  type ProxyAdoptionInput,
-} from "akasha/seat-system/supervisor-proxy-adoption-decide/supervisor-proxy-adoption-decide.module.code.ts"
 import { decideProxyLiveness } from "akasha/seat-system/supervisor-proxy-liveness-decide/supervisor-proxy-liveness-decide.module.code.ts"
 
 function sub(
