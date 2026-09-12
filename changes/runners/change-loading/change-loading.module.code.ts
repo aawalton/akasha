@@ -1,5 +1,5 @@
 import { join } from "node:path"
-import { refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import { refusing, untaken } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer, Said } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { dropped } from "akasha/changes/modules/edits-dropping/edits-dropping.module.code.ts"
 import { guardedBy } from "akasha/changes/modules/guarding/change-guarding.module.code.ts"
@@ -15,12 +15,14 @@ import {
   slugIn,
 } from "akasha/changes/modules/target-narrowing/target-narrowing.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { stringsIn } from "akasha/utils/narrow/strings-in/strings-in.module.code.ts"
 
 const CODE = "code"
 const TS = "ts"
 const GUARDS = "guards"
 const RUN_CHANGE = "runChange"
 const RUN_GUARD = "runGuard"
+const TAKES = "takes"
 const SUBTYPE = "changeTargetSubtype"
 const FILE = "file"
 const AT = "at"
@@ -82,6 +84,7 @@ async function guardsIn(world: World, address: string): Promise<readonly Guard[]
 export type Loaded = {
   readonly run: (world: World, given: unknown) => Said | Promise<Said>
   readonly guards: readonly Guard[]
+  readonly takes?: readonly string[]
 }
 
 const LOADED = new WeakMap<World, Map<string, Loaded>>()
@@ -98,9 +101,12 @@ export async function loadedAt(world: World, at: string): Promise<Loaded | strin
   }
   const guards = await guardsIn(world, at)
   if (typeof guards === "string") return guards
+  const stated = await exportedFrom(world, path, TAKES)
+  const takes = stated === null ? null : stringsIn(stated)
   const loaded: Loaded = {
     run: run as (over: World, asked: unknown) => Said | Promise<Said>,
     guards,
+    ...(takes === null ? {} : { takes }),
   }
   if (held === undefined) LOADED.set(world, new Map([[at, loaded]]))
   else held.set(at, loaded)
@@ -120,6 +126,12 @@ export function guardsOver(world: World, guards: readonly Guard[]): readonly Gua
   return [...new Set([...guards, ...(REACHED.get(world) ?? [])])]
 }
 
+export function untakenIn(given: unknown, takes: readonly string[] | undefined): string | null {
+  if (takes === undefined || typeof given !== "object" || given === null) return null
+  const said = Object.keys(given).find((key) => !takes.includes(key))
+  return said === undefined ? null : untaken(said, takes)
+}
+
 export async function ranBy(
   world: World,
   loaded: Loaded,
@@ -130,6 +142,8 @@ export async function ranBy(
     reachedBy(world, loaded.guards)
     return dropped(facingHeld(world), await loaded.run(world, given))
   }
+  const untook = untakenIn(given, loaded.takes)
+  if (untook !== null) return refusing(untook)
   const before = worldBefore(world)
   const ran = await loaded.run(world, given)
   if (ran.refused !== null) return ran

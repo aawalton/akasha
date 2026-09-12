@@ -20,6 +20,14 @@ export const changeAnswer = {
     },
     {
       invariantKind: "departure",
+      statement: "That refusal names every argument the change does take.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal points at the argument nearest the key, where one is near enough.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An edit states whether the readers of its path owe the reading again.",
     },
     {

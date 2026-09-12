@@ -404,6 +404,52 @@ test("a rung a guard would refuse alone is let through where the whole answer is
   expect((await ranBy(ledgerAt(root, textIn(root)), inside, {})).refused).toBe(HALFWAY)
 })
 
+test("a key the change does not take is refused before that change runs", async () => {
+  let ran = 0
+  const said = await ranBy(
+    worldOf(),
+    {
+      run: () => {
+        ran += 1
+        return WROTE
+      },
+      guards: [],
+      takes: ["at", "old", "new"],
+    },
+    { at: AT, pat: "one" }
+  )
+
+  expect(ran).toBe(0)
+  expect(said.refused).toBe(
+    "`pat` is no argument this change takes — it takes `at`, `old`, `new`. Did you mean `at`?"
+  )
+})
+
+test("a key near no argument the change takes is refused with nothing pointed at", async () => {
+  const said = await ranBy(
+    worldOf(),
+    { run: () => WROTE, guards: [], takes: ["at"] },
+    { wherever: "one" }
+  )
+
+  expect(said.refused).toBe("`wherever` is no argument this change takes — it takes `at`.")
+})
+
+test("a change stating no arguments it takes has no key judged", async () => {
+  const said = await ranBy(worldOf(), { run: () => WROTE, guards: [] }, { at: AT, pat: "one" })
+
+  expect(said).toEqual(WROTE)
+})
+
+test("a change reached by another change has no key judged", async () => {
+  const root = indexedRepo()
+  const world = ledgerAt(root, textIn(root))
+
+  const said = await ranBy(world, { run: () => adding(FRESH), guards: [], takes: [] }, {}, true)
+
+  expect(said.refused).toBeNull()
+})
+
 test("the arguments reach the change as the caller handed the arguments in", async () => {
   let held: unknown = null
   await ranBy(

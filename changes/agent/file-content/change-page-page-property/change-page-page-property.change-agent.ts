@@ -31,14 +31,6 @@ export const changePagePageProperty = {
       statement: "The value under the key is stated anew whole rather than a passage of it.",
     },
     {
-      invariantKind: "departure",
-      statement: "An argument this change does not take is refused by the key naming it.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That refusal says the whole value under the key is stated anew.",
-    },
-    {
       invariantKind: "absence",
       statement: "Nothing here works out a body of its own.",
     },

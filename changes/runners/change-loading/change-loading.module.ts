@@ -26,6 +26,26 @@ export const changeLoading = {
     },
     {
       invariantKind: "departure",
+      statement: "A change states the arguments that change takes beside its run, under one name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key no change reached by name takes is refused before that change runs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One key is refused at a time.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A change reached by another change has no key judged here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A change stating no arguments has no key judged here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A guard is loaded by the slug the change's page names.",
     },
     {

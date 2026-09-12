@@ -1,8 +1,4 @@
-import {
-  missing,
-  refusing,
-  untaken,
-} from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import { missing, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { readFor } from "akasha/changes/modules/page-knowing/page-knowing.module.code.ts"
 import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
@@ -22,9 +18,7 @@ const KEY = "key"
 
 const TO = "to"
 
-const TAKEN: ReadonlySet<string> = new Set([AT, KEY, TO])
-
-const WHOLE = "and `to` states the whole value anew"
+export const takes: readonly string[] = [AT, KEY, TO]
 
 export type ChangePagePropertyTextAsked = {
   readonly at: string
@@ -58,9 +52,6 @@ export async function changePagePropertyText(
 export type Asked = Readonly<Record<string, string>>
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
-  for (const said of Object.keys(given)) {
-    if (!TAKEN.has(said)) return refusing(`${untaken(said)}, ${WHOLE}`)
-  }
   const at = given[AT]
   if (at === undefined) return refusing(missing(AT))
   const key = given[KEY]

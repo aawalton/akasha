@@ -13,6 +13,7 @@ import type {
   Said,
   Splice,
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { meantSaid } from "akasha/utils/text/suggest-closest/suggest-closest.module.code.ts"
 
 const NOT_TEXT_SAID = "is not text, so no passage in it is changed"
 
@@ -58,8 +59,11 @@ export function missing(key: string): string {
   return `\`${key}\` names what this change is handed, and the arguments hold no \`${key}\``
 }
 
-export function untaken(key: string): string {
-  return `\`${key}\` is no argument this change takes`
+export function untaken(key: string, takes: readonly string[]): string {
+  return (
+    `\`${key}\` is no argument this change takes — it takes \`${takes.join("`, `")}\`.` +
+    meantSaid(key, takes)
+  )
 }
 
 export function stating(edits: readonly FileChange[]): Said {
