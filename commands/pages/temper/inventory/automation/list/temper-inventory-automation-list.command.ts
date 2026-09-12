@@ -10,11 +10,14 @@ export const temperInventoryAutomationList = {
   taking: [
     { said: "--json", takes: "give the whole shape as JSON rather than as tab-separated rows" },
   ],
-  helpNotes: ["every scope is reported: the global one, each character and each companion."],
   invariants: [
     {
       invariantKind: "departure",
       statement: "Every scope is reported.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A scope is the global one, one character or one companion.",
     },
     {
       invariantKind: "absence",
