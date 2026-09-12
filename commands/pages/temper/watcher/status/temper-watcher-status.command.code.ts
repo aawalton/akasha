@@ -1,3 +1,4 @@
+import { INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
@@ -9,7 +10,6 @@ import {
   unitMainPid,
 } from "akasha/temper/watcher/watcher-unit/watcher-unit.module.code.ts"
 
-const INPUT = 1
 const JSON_SAID = "--json"
 
 function upSeconds(startedAt: string): number | null {
@@ -37,15 +37,15 @@ export function temperWatcherStatus(argv: readonly string[]): Answer {
           logPath: workerLogPath(),
         }
       : { status: "stopped", pid: null, startedAt: null, upSeconds: null, logPath: null }
-    return { report: [JSON.stringify(said)], refusals: [], code: 0 }
+    return { report: [JSON.stringify(said)], refusals: [], code: OK }
   }
 
-  if (!running) return { report: ["stopped"], refusals: [], code: 0 }
+  if (!running) return { report: ["stopped"], refusals: [], code: OK }
   const pid = unitMainPid()
   const shown = [
     `running pid=${pid === null ? "?" : String(pid)}`,
     `uptime=${up === null ? "?" : String(up)}s`,
     `log=${workerLogPath()}`,
   ].join(" ")
-  return { report: [shown], refusals: [], code: 0 }
+  return { report: [shown], refusals: [], code: OK }
 }
