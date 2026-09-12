@@ -11,11 +11,6 @@ export const temperInventoryMasterWritProbe = {
     { said: "--inventory-path <path>", takes: "the saved-variables file the capture is read from" },
     { said: "--json", takes: "give the whole capture as JSON rather than as text" },
   ],
-  helpNotes: [
-    "every step and every condition is carried with the raw fields the game gave for it.",
-    "the capture is taken in the game by a slash command rather than here.",
-    "a file holding no capture is refused rather than read as an empty one.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -23,7 +18,11 @@ export const temperInventoryMasterWritProbe = {
     },
     {
       invariantKind: "departure",
-      statement: "Every step has the raw fields the game gave.",
+      statement: "Every step and every condition has the raw fields the game gave.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A capture is taken in the game by the `/tempermwprobe` slash command.",
     },
     {
       invariantKind: "departure",
