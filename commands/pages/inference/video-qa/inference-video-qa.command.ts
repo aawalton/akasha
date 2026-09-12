@@ -6,21 +6,7 @@ export const inferenceVideoQa = {
   slug: "inference-video-qa",
   definition: "the command answering a question about a clip from the frames taken out of it",
   code: "ts",
-  taking: [
-    { said: "--video <path>", takes: "the clip read, whose frames are taken here" },
-    { said: "--frames-dir <dir>", takes: "frames already taken out, read instead of a clip" },
-    { said: "--checklist <text>", takes: "what the model is asked to look for" },
-    {
-      said: "--checklist-file <path>",
-      takes: "that question read from a path, or `-` for standard input",
-    },
-    { said: "--frames <n>", takes: "how many frames are sampled out of the ones there are" },
-    {
-      said: "--fps <n>",
-      takes: "the rate the clip is resampled to, every frame left in place where none is said",
-    },
-    { said: "--timeout <s>", takes: "how many seconds the wait on the model runs for" },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
