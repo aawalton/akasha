@@ -11,10 +11,19 @@ export const measureComplexityReport = {
     { said: "--top <n>", takes: "how many outliers each metric shows, worst first" },
     { said: "--json", takes: "the rows as one line of JSON rather than as tab-separated columns" },
   ],
-  helpNotes: [
-    "this says p50, p75, p90, p95, p99 and the maximum, because complexity follows a power law and a mean hides the outliers the maintenance is spent on.",
-    "this is taken over the whole workspace and counts every row, so it takes no file and no threshold.",
-    "ten outliers of each metric are shown where no count is said.",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "Each metric is answered at p50, p75, p90, p95, p99 and its maximum.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The report is taken over the whole workspace and counts every row.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call saying no count shows ten outliers of each metric.",
+    },
   ],
   name: "report",
 } as const satisfies Command
