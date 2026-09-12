@@ -8,7 +8,6 @@ export const temperInventoryRuleReorder = {
   code: "ts",
   taking: [
     { said: "--to <index>", takes: "the position the rule moves to" },
-    { said: "--before <anchor-id>", takes: "the rule the moved rule comes before" },
     { said: "--after <anchor-id>", takes: "the rule the moved rule comes after" },
   ],
   invariants: [
@@ -37,5 +36,6 @@ export const temperInventoryRuleReorder = {
   arguments: [
     { argument: "argument/force" },
     { argument: "argument/category-rule-id", required: true, saidAs: "word" },
+    { argument: "argument/before" },
   ],
 } as const satisfies Command
