@@ -39,42 +39,47 @@ const POTION_ITEM_ID_TO_RESTORE_METRICS: Record<number, readonly string[]> = {
   [224832]: ["magicka-restore", "stamina-restore"],
 }
 
-const POTION_ENCODED_TRAITS_TO_RESTORE_METRICS: Record<number, readonly string[]> = {
-  [8849689]: [],
-  [8456477]: ["health-restore"],
-  [8984861]: [],
-  [9772288]: [],
-  [8455433]: ["health-restore", "stamina-restore"],
-  [9902363]: ["health-restore"],
-  [8454917]: ["stamina-restore", "health-restore", "magicka-restore"],
-  [8586519]: ["stamina-restore", "magicka-restore"],
-  [8722207]: ["stamina-restore"],
-  [8722203]: ["stamina-restore", "health-restore"],
-  [8719639]: ["stamina-restore"],
-  [8719633]: ["stamina-restore"],
-  [8459805]: ["health-restore"],
-  [8458006]: ["health-restore"],
-  [8454919]: ["health-restore", "magicka-restore"],
-  [8587029]: ["magicka-restore"],
-  [8454927]: ["health-restore", "magicka-restore"],
-  [8455945]: ["health-restore"],
-  [8587033]: ["magicka-restore"],
-  [10165535]: ["health-restore"],
-  [8586517]: ["stamina-restore", "magicka-restore"],
-  [8588053]: ["magicka-restore"],
-  [8720661]: ["stamina-restore"],
-  [8586527]: ["stamina-restore", "magicka-restore"],
-  [8455441]: ["stamina-restore", "health-restore"],
-  [8588047]: ["magicka-restore"],
-  [8458001]: ["health-restore"],
-  [9837343]: ["health-restore"],
-  [9836319]: [],
-  [9903391]: [],
-  [9836317]: [],
-  [9902879]: ["health-restore"],
-  [8589079]: ["magicka-restore"],
-  [8591129]: ["magicka-restore"],
-  [9836315]: ["health-restore"],
+const RESTORE_HEALTH_EFFECT_ID = 1
+
+const RESTORE_MAGICKA_EFFECT_ID = 3
+
+const RESTORE_STAMINA_EFFECT_ID = 5
+
+const SUSTAINED_RESTORE_HEALTH_EFFECT_ID = 27
+
+const ALCHEMY_EFFECT_RESTORE_METRIC: Record<number, string> = {
+  [RESTORE_HEALTH_EFFECT_ID]: "health-restore",
+  [RESTORE_MAGICKA_EFFECT_ID]: "magicka-restore",
+  [RESTORE_STAMINA_EFFECT_ID]: "stamina-restore",
+  [SUSTAINED_RESTORE_HEALTH_EFFECT_ID]: "health-restore",
+}
+
+const EFFECT_ID_RANGE = 256
+
+const HIGHEST_EFFECT_ID_PLACE = EFFECT_ID_RANGE * EFFECT_ID_RANGE
+
+const THREE_REAGENT_FLAG = 128
+
+function packedEffectIds(encodedTraits: number): readonly number[] {
+  const highest = Math.floor(encodedTraits / HIGHEST_EFFECT_ID_PLACE)
+  return [
+    highest >= THREE_REAGENT_FLAG ? highest - THREE_REAGENT_FLAG : highest,
+    Math.floor(encodedTraits / EFFECT_ID_RANGE) % EFFECT_ID_RANGE,
+    encodedTraits % EFFECT_ID_RANGE,
+  ]
+}
+
+function decodePotionRestoreMetricIds(encodedTraits: number): readonly string[] {
+  const held: string[] = []
+  const taken: Record<string, boolean> = {}
+  for (const effectId of packedEffectIds(encodedTraits)) {
+    const metric = ALCHEMY_EFFECT_RESTORE_METRIC[effectId]
+    if (metric === undefined) continue
+    if (taken[metric] === true) continue
+    taken[metric] = true
+    held.push(metric)
+  }
+  return held
 }
 
 export function resolvePotionRestoreMetricIds(
@@ -82,7 +87,7 @@ export function resolvePotionRestoreMetricIds(
   encodedTraits: number
 ): readonly string[] | undefined {
   if (encodedTraits !== 0) {
-    return POTION_ENCODED_TRAITS_TO_RESTORE_METRICS[encodedTraits]
+    return decodePotionRestoreMetricIds(encodedTraits)
   }
   return POTION_ITEM_ID_TO_RESTORE_METRICS[itemId]
 }
