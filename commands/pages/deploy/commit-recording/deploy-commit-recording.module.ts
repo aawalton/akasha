@@ -4,7 +4,8 @@ export const deployCommitRecording = {
   id: "01a0918e-3f40-7004-a4ca-adca97c45186",
   type: "module",
   slug: "deploy-commit-recording",
-  definition: "the commit a deploy put up or refused at, kept beside the service's page",
+  definition:
+    "what a deploy put up or refused at, and when that deploy ended, kept beside the service's page",
   code: "ts",
   test: "ts",
   invariants: [
@@ -31,6 +32,14 @@ export const deployCommitRecording = {
     {
       invariantKind: "absence",
       statement: "Nothing here settles whether a deploy finished.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The moment a deploy ended is kept whether that deploy put up or refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A moment that will not parse is read as no moment rather than as the epoch.",
     },
   ],
 } as const satisfies Module

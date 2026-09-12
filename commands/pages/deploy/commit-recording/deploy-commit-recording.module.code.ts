@@ -8,6 +8,8 @@ export const DEPLOYED_COMMIT = "deployedCommit"
 
 export const REFUSED_COMMIT = "refusedCommit"
 
+export const DEPLOY_ENDED_AT = "deployEndedAt"
+
 export function commitKeptIn(root: string, pagePath: string, key: string): string | null {
   const kept = uncommittedIn(root, pagePath)
   return kept === null ? null : textAt(kept, key)
@@ -38,6 +40,27 @@ export function wroteUnder(
   } catch (why) {
     return [why instanceof Error ? why.message : String(why)]
   }
+}
+
+export function endedIn(root: string, pagePath: string): number | null {
+  const said = commitKeptIn(root, pagePath, DEPLOY_ENDED_AT)
+  if (said === null) return null
+  const at = Date.parse(said)
+  return Number.isFinite(at) ? at : null
+}
+
+export function saidOfNoEnding(slug: string, wrong: readonly string[]): string {
+  return `\`${slug}\` was deployed, and the moment that deploy ended was not kept beside its page, so a loop would deploy it again without waiting out its cooldown: ${wrong.join("\n")}`
+}
+
+export function recordedEnding(
+  root: string,
+  slug: string,
+  pagePath: string,
+  at: Date = new Date()
+): readonly string[] {
+  const wrong = wroteUnder(root, pagePath, DEPLOY_ENDED_AT, at.toISOString())
+  return wrong.length === 0 ? [] : [saidOfNoEnding(slug, wrong)]
 }
 
 export function recordedCommit(

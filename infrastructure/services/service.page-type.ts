@@ -12,6 +12,7 @@ export const service = {
     "text-property/refused-commit",
     "number-property/cooldown-seconds",
     "relation-property/deploys-after",
+    "instant-property/deploy-ended-at",
   ],
   properties: [
     {
@@ -32,6 +33,12 @@ export const service = {
       required: false,
       many: true,
       maxCount: null,
+    },
+    {
+      pageProperty: "instant-property/deploy-ended-at",
+      required: false,
+      many: false,
+      uncommitted: true,
     },
   ],
   invariants: [

@@ -35,6 +35,7 @@ import {
 import {
   commitRecordedIn,
   recordedCommit,
+  recordedEnding,
   recordedRefusal,
 } from "akasha/commands/pages/deploy/commit-recording/deploy-commit-recording.module.code.ts"
 import { deploy as page } from "akasha/commands/pages/deploy/deploy.command.ts"
@@ -208,7 +209,13 @@ export async function deploy(
   const restarting = closures === null ? null : touchedIn(closures, moved)
   const unjudged = await judgedOnDeploy(given.root, slug, was, commit, built)
   const dry = wanted.dryRun
-  const noting = () => (dry ? [] : recordedRefusal(given.root, slug, read.pagePath, commit))
+  const noting = () =>
+    dry
+      ? []
+      : [
+          ...recordedRefusal(given.root, slug, read.pagePath, commit),
+          ...recordedEnding(given.root, slug, read.pagePath),
+        ]
   if (unjudged.length > 0) {
     return answeredWith([`commit\t${commit}`], [...unjudged, ...noting()], DATA)
   }
@@ -231,7 +238,10 @@ export async function deploy(
     return answeredWith(lines, [...answer.refusals, ...partWay(up), ...noting()], answer.code)
   }
   if (dry) return answeredWith(lines, answer.refusals, answer.code)
-  const wrong = recordedCommit(given.root, slug, read.pagePath, commit)
+  const wrong = [
+    ...recordedCommit(given.root, slug, read.pagePath, commit),
+    ...recordedEnding(given.root, slug, read.pagePath),
+  ]
   if (wrong.length > 0) return answeredWith(lines, wrong, OPERATIONAL)
   return answeredWith([...lines, `recorded\t${slug}\t${commit}`], [], OK)
 }
