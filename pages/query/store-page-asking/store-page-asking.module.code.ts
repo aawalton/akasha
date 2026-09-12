@@ -180,9 +180,9 @@ async function propertyPages(
   const named = types
     .map((one) => textAt(one, "slug"))
     .filter((one): one is string => one?.endsWith(PROPERTY_TAIL) === true)
+  const asked = await Promise.all(named.map((one) => rowsOf({ "page-type": one }, fetcher, naps)))
   const found = new Map<string, Flat>()
-  for (const one of named) {
-    const pages = await rowsOf({ "page-type": one }, fetcher, naps)
+  for (const pages of asked) {
     if (!Array.isArray(pages)) continue
     for (const page of pages) {
       const slug = textAt(page, "slug")
