@@ -4,9 +4,9 @@ import {
   type InitiativeRecord,
   initiativeOf,
 } from "akasha/agents/seats/modules/initiative/seat-initiative.module.code.ts"
+import { onCallOf } from "akasha/agents/seats/modules/on-call/seat-on-call.module.code.ts"
 import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
 import type { Principal } from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
-import { onCallOf } from "akasha/seat-system/seat-on-call/seat-on-call.module.code.ts"
 import {
   type StatedFromHistory,
   statedFromHistory,
