@@ -9,7 +9,7 @@ export const temperAddon = {
     "command/temper-addon-copy-metadata",
     "command/temper-addon-data-generate",
     "command/temper-addon-generate-load-order",
-    "command/temper-addon-global-name-dependents",
+    "command/temper-addon-global-name-dependent",
     "command/temper-addon-list",
     "command/temper-addon-resolve",
     "command/temper-addon-typecheck",
