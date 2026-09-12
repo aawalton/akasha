@@ -8,13 +8,17 @@ import { goal } from "akasha/commands/arguments/pages/goal.argument.ts"
 import { notes } from "akasha/commands/arguments/pages/notes.argument.ts"
 import { stockScope } from "akasha/commands/arguments/pages/stock-scope.argument.ts"
 import { title } from "akasha/commands/arguments/pages/title.argument.ts"
-import { DATA, refused } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  DATA,
+  refused,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { temperInventoryRuleCreate as page } from "akasha/commands/pages/temper/inventory/rule/create/temper-inventory-rule-create.command.ts"
+import { emitJson } from "akasha/temper/commands/format-output/format-output.module.code.ts"
 import {
   answeredByPage,
   settingsOf,
-  toldOf,
   webOf,
 } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import {
@@ -55,7 +59,7 @@ async function made(taken: Taken): Promise<Answer> {
     ...next,
     rules: next.rules.map((one) => (one.id === created.id ? merged : one)),
   })
-  return toldOf(merged)
+  return told(emitJson(merged).split("\n"))
 }
 
 export async function temperInventoryRuleCreate(

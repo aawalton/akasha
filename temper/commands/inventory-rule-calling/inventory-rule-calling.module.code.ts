@@ -8,8 +8,9 @@ import {
   answering,
   DATA,
   INPUT,
-  OK,
   refused,
+  refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
@@ -228,23 +229,15 @@ export function readIn(argv: readonly string[], calledAs: string, shape: Shape):
   return { id, said: held }
 }
 
-export function told(text: string): Answer {
-  return { report: text.split("\n"), refusals: [], code: OK }
-}
-
-export function toldOf(value: unknown): Answer {
-  return told(emitJson(value))
-}
-
 export function toldRows(
   rows: ReadonlyArray<Record<string, unknown>>,
   columns: readonly string[]
 ): Answer {
-  return told(emitTsv(rows, columns))
+  return told(emitTsv(rows, columns).split("\n"))
 }
 
 export function refusedAll(why: readonly string[]): Answer {
-  return { report: [], refusals: why, code: INPUT }
+  return refusedBy(why)
 }
 
 export function refusing(why: string, code: number): Answer {
@@ -320,7 +313,7 @@ export async function shownRule(kind: Kind, id: string, asTsv: boolean): Promise
   }
   if (found === undefined) return unfound(kind, id)
   if (asTsv) return toldRows([kindly.rowOf(found)], kindly.columns)
-  return toldOf(found)
+  return told(emitJson(found).split("\n"))
 }
 
 export async function lockedRule(kind: Kind, id: string, on: boolean): Promise<Answer> {
@@ -331,7 +324,7 @@ export async function lockedRule(kind: Kind, id: string, on: boolean): Promise<A
   if (found === undefined) return unfound(kind, id)
   const next = kindly.locking(settings, id, on)
   await access.write(next)
-  return toldOf(kindly.heldIn(next).find((one) => one.id === id) ?? found)
+  return told(emitJson(kindly.heldIn(next).find((one) => one.id === id) ?? found).split("\n"))
 }
 
 export async function droppedRule(kind: Kind, id: string, force: boolean): Promise<Answer> {
@@ -343,7 +336,7 @@ export async function droppedRule(kind: Kind, id: string, force: boolean): Promi
   if (found.locked === true && !force) return lockedOff(kind, id)
   const unlocked = found.locked === true && force ? kindly.locking(settings, id, false) : settings
   await access.write(kindly.dropping(unlocked, id))
-  return toldOf(found)
+  return told(emitJson(found).split("\n"))
 }
 
 export async function copiedRule(kind: Kind, id: string): Promise<Answer> {
@@ -361,7 +354,7 @@ export async function copiedRule(kind: Kind, id: string): Promise<Answer> {
     )
   }
   await access.write(next)
-  return toldOf(clone)
+  return told(emitJson(clone).split("\n"))
 }
 
 export async function answeredCall(

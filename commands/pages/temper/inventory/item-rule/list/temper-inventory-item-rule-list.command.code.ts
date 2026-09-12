@@ -1,10 +1,11 @@
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { temperInventoryItemRuleList as page } from "akasha/commands/pages/temper/inventory/item-rule/list/temper-inventory-item-rule-list.command.ts"
+import { emitJson } from "akasha/temper/commands/format-output/format-output.module.code.ts"
 import {
   answeredByPage,
   settingsOf,
-  toldOf,
   toldRows,
 } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import {
@@ -15,7 +16,7 @@ import {
 async function listed(asJson: boolean): Promise<Answer> {
   const settings = await (await settingsOf()).read()
   const rules = settings.itemRules ?? []
-  if (asJson) return toldOf(rules)
+  if (asJson) return told(emitJson(rules).split("\n"))
   return toldRows(rules.map(itemRuleRow), ITEM_RULE_COLUMNS)
 }
 

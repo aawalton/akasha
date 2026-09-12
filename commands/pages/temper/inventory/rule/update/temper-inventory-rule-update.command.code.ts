@@ -11,16 +11,16 @@ import { goal } from "akasha/commands/arguments/pages/goal.argument.ts"
 import { notes } from "akasha/commands/arguments/pages/notes.argument.ts"
 import { stockScope } from "akasha/commands/arguments/pages/stock-scope.argument.ts"
 import { title } from "akasha/commands/arguments/pages/title.argument.ts"
-import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { INPUT, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { temperInventoryRuleUpdate as page } from "akasha/commands/pages/temper/inventory/rule/update/temper-inventory-rule-update.command.ts"
+import { emitJson } from "akasha/temper/commands/format-output/format-output.module.code.ts"
 import {
   answeredByPage,
   lockedOff,
   named,
   refusing,
   settingsOf,
-  toldOf,
   unfound,
   webOf,
 } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
@@ -81,7 +81,7 @@ async function changed(taken: Taken, calledAs: string): Promise<Answer> {
   if (rule.locked === true && !taken.force) return lockedOff("category", id)
   const next = bulkUpdateCategoryRules(settings, [id], patch, { force: taken.force })
   await settingsAccess.write(next)
-  return toldOf(next.rules.find((one) => one.id === id) ?? rule)
+  return told(emitJson(next.rules.find((one) => one.id === id) ?? rule).split("\n"))
 }
 
 export async function temperInventoryRuleUpdate(

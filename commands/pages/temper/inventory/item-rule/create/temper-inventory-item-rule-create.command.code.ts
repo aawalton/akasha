@@ -9,14 +9,18 @@ import { notes } from "akasha/commands/arguments/pages/notes.argument.ts"
 import { stockQuantity } from "akasha/commands/arguments/pages/stock-quantity.argument.ts"
 import { stockScope } from "akasha/commands/arguments/pages/stock-scope.argument.ts"
 import { title } from "akasha/commands/arguments/pages/title.argument.ts"
-import { DATA, INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  DATA,
+  INPUT,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { temperInventoryItemRuleCreate as page } from "akasha/commands/pages/temper/inventory/item-rule/create/temper-inventory-item-rule-create.command.ts"
+import { emitJson } from "akasha/temper/commands/format-output/format-output.module.code.ts"
 import {
   answeredByPage,
   refusing,
   settingsOf,
-  toldOf,
   webOf,
 } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import { narrowItemAction } from "akasha/temper/commands/inventory-rule-flags/inventory-rule-flags.module.code.ts"
@@ -83,7 +87,8 @@ async function made(taken: Taken): Promise<Answer> {
   const next =
     Object.keys(patch).length > 0 ? bulkUpdateItemRules(added, [created.id], patch) : added
   await settingsAccess.write(next)
-  return toldOf((next.itemRules ?? []).find((one) => one.id === created.id) ?? created)
+  const after = (next.itemRules ?? []).find((one) => one.id === created.id) ?? created
+  return told(emitJson(after).split("\n"))
 }
 
 export async function temperInventoryItemRuleCreate(

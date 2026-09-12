@@ -2,8 +2,10 @@ import {
   answering,
   DATA,
   INPUT,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { emitJson } from "akasha/temper/commands/format-output/format-output.module.code.ts"
 import {
   FORCE,
   lockedOff,
@@ -13,7 +15,6 @@ import {
   refusing,
   settingsOf,
   shapeOf,
-  toldOf,
   unfound,
   wholeOf,
 } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
@@ -89,7 +90,7 @@ async function moved(
     toIndex = found
   }
   await settingsAccess.write(reorderCategoryRule(settings, id, toIndex))
-  return toldOf({ id, toIndex })
+  return told(emitJson({ id, toIndex }).split("\n"))
 }
 
 export async function temperInventoryRuleReorder(

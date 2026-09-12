@@ -1,11 +1,12 @@
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { temperInventoryRuleList as page } from "akasha/commands/pages/temper/inventory/rule/list/temper-inventory-rule-list.command.ts"
+import { emitJson } from "akasha/temper/commands/format-output/format-output.module.code.ts"
 import {
   answeredByPage,
   categoryRow,
   settingsOf,
-  toldOf,
   toldRows,
 } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import { buildAllControlledRules } from "akasha/temper/items-rules-core/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
@@ -32,12 +33,11 @@ async function withControlled(asJson: boolean): Promise<Answer> {
   const controlled = [...derived.characterRules, ...derived.companionRules]
   if (asJson) {
     const every: readonly CategoryRule[] = [...controlled, ...settings.rules]
-    return toldOf(
-      every.map((one, at) => ({
-        ...one,
-        pos: at < controlled.length ? undefined : at - controlled.length,
-      }))
-    )
+    const said = every.map((one, at) => ({
+      ...one,
+      pos: at < controlled.length ? undefined : at - controlled.length,
+    }))
+    return told(emitJson(said).split("\n"))
   }
   return toldRows(
     [

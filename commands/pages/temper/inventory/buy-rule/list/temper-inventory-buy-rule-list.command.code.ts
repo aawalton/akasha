@@ -1,11 +1,12 @@
 import { USER_ID } from "akasha/alan/harness/supabase-auth/user-id/user-id.module.code.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { temperInventoryBuyRuleList as page } from "akasha/commands/pages/temper/inventory/buy-rule/list/temper-inventory-buy-rule-list.command.ts"
+import { emitJson } from "akasha/temper/commands/format-output/format-output.module.code.ts"
 import {
   answeredByPage,
   settingsOf,
-  toldOf,
   toldRows,
 } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import {
@@ -58,12 +59,11 @@ async function shortfalls(asJson: boolean): Promise<Answer> {
     }
   }
   if (asJson) {
-    return toldOf(
-      rules.map((rule) => {
-        const read = reading.get(rule.id) ?? UNREAD
-        return { ...rule, currentTotal: read.currentTotal, shortfall: read.shortfall }
-      })
-    )
+    const said = rules.map((rule) => {
+      const read = reading.get(rule.id) ?? UNREAD
+      return { ...rule, currentTotal: read.currentTotal, shortfall: read.shortfall }
+    })
+    return told(emitJson(said).split("\n"))
   }
   return toldRows(
     rules.map((rule) => {

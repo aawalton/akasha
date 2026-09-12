@@ -7,14 +7,17 @@ import { notes } from "akasha/commands/arguments/pages/notes.argument.ts"
 import { source as sourceArgument } from "akasha/commands/arguments/pages/source.argument.ts"
 import { targetQuantity } from "akasha/commands/arguments/pages/target-quantity.argument.ts"
 import { title } from "akasha/commands/arguments/pages/title.argument.ts"
-import { DATA, INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  DATA,
+  INPUT,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { temperInventoryBuyRuleCreate as page } from "akasha/commands/pages/temper/inventory/buy-rule/create/temper-inventory-buy-rule-create.command.ts"
 import {
   answeredByPage,
   refusing,
   settingsOf,
-  told,
   webOf,
 } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import { BUY_SOURCE_VALUES } from "akasha/temper/commands/inventory-rule-flags/inventory-rule-flags.module.code.ts"
@@ -61,16 +64,12 @@ async function made(taken: Taken): Promise<Answer> {
     Object.keys(patch).length > 0 ? bulkUpdateBuyRules(added, [created.id], patch) : added
   await settingsAccess.write(next)
   const after = (next.buyRules ?? []).find((one) => one.id === created.id) ?? created
-  const answer = told(JSON.stringify(after, null, SPACES))
+  const answer = told(JSON.stringify(after, null, SPACES).split("\n"))
   if (after.active === true) return answer
-  return {
-    report: [
-      ...answer.report,
-      `this buy rule is inactive — say \`akasha temper inventory buy-rule update ${created.id} ${active.said} true\` to start it`,
-    ],
-    refusals: [],
-    code: OK,
-  }
+  return told([
+    ...answer.report,
+    `this buy rule is inactive — say \`akasha temper inventory buy-rule update ${created.id} ${active.said} true\` to start it`,
+  ])
 }
 
 export async function temperInventoryBuyRuleCreate(

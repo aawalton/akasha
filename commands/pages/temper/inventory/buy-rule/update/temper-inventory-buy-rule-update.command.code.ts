@@ -7,16 +7,16 @@ import { notes } from "akasha/commands/arguments/pages/notes.argument.ts"
 import { source as sourceArgument } from "akasha/commands/arguments/pages/source.argument.ts"
 import { targetQuantity as targetArgument } from "akasha/commands/arguments/pages/target-quantity.argument.ts"
 import { title } from "akasha/commands/arguments/pages/title.argument.ts"
-import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { INPUT, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { temperInventoryBuyRuleUpdate as page } from "akasha/commands/pages/temper/inventory/buy-rule/update/temper-inventory-buy-rule-update.command.ts"
+import { emitJson } from "akasha/temper/commands/format-output/format-output.module.code.ts"
 import {
   answeredByPage,
   lockedOff,
   named,
   refusing,
   settingsOf,
-  toldOf,
   unfound,
   webOf,
 } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
@@ -64,7 +64,7 @@ async function changed(taken: Taken, calledAs: string): Promise<Answer> {
   if (rule.locked === true && !taken.force) return lockedOff("buy", id)
   const next = bulkUpdateBuyRules(settings, [id], patch, { force: taken.force })
   await settingsAccess.write(next)
-  return toldOf((next.buyRules ?? []).find((one) => one.id === id) ?? rule)
+  return told(emitJson((next.buyRules ?? []).find((one) => one.id === id) ?? rule).split("\n"))
 }
 
 export async function temperInventoryBuyRuleUpdate(
