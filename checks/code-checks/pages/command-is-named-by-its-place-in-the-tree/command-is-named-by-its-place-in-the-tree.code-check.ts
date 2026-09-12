@@ -25,6 +25,14 @@ export const commandIsNamedByItsPlaceInTheTree = {
     },
     {
       invariantKind: "departure",
+      statement: "A page under `commands/` is input here though that page is no level of the tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change to a page's parts leaves every page that page names judged.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A page the `command` page type names sits in a folder directly in `commands/pages/`.",
     },
@@ -61,6 +69,11 @@ export const commandIsNamedByItsPlaceInTheTree = {
     {
       invariantKind: "gap",
       statement: "A namespace holds more than one command or namespace.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "A module under `commands/pages` sits under the lowest level whose commands import it.",
     },
     {
       invariantKind: "absence",
