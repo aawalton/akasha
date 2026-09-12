@@ -3,8 +3,10 @@ import {
   besideThe,
   closureOver,
   codeBodies,
+  kindSeeds,
   underFolder,
 } from "akasha/commands/pages/deploy/file-closure/deploy-file-closure.module.code.ts"
+import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 
 const PAGE = "apps/one/one.web-app.ts"
 
@@ -65,6 +67,15 @@ test("a file nothing beside the page reaches is no file the deploy is built from
 test("a path git does not track is reached by nothing", () => {
   const found = closureOver([PAGE, "apps/one/main.ts"], SEEDS, bodyAt)
   expect(found.has("shared/helper.ts")).toBe(false)
+})
+
+test("a workstation service is seeded as well with the code its unit's command runs", () => {
+  const found = kindSeeds(codeRoot(), "service-workstation")[0] ?? ""
+  expect(found).toContain("service-running")
+})
+
+test("a kind whose unit names no shared code is seeded with nothing shared", () => {
+  expect(kindSeeds(codeRoot(), "web-app")).toEqual([])
 })
 
 test("a body that is no TypeScript is read for no import", () => {

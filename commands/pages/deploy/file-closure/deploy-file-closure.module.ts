@@ -31,6 +31,10 @@ export const deployFileClosure = {
     },
     {
       invariantKind: "departure",
+      statement: "A workstation service is seeded as well with the code its unit's command runs.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page a kind's own reader refuses is seeded with the files beside it alone.",
     },
     {

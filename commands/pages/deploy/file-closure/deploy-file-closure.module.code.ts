@@ -6,10 +6,12 @@ import {
   IOS_APP,
   type Named,
   WEB_APP,
+  WORKSTATION_SERVICE,
 } from "akasha/commands/pages/deploy/kind-reading/deploy-kind-reading.module.code.ts"
 import { bodyAt as bodyInCommit } from "akasha/git/commit-reading/commit-reading.module.code.ts"
 import { said } from "akasha/git/running/git-running.module.code.ts"
 import { deployableNamed } from "akasha/infrastructure/services/clusters/web-app-reading/web-app-reading.module.code.ts"
+import { runnerCodeIn } from "akasha/infrastructure/services/workstations/service-reading/service-reading.module.code.ts"
 import {
   type Body,
   manifestsAmong,
@@ -104,6 +106,10 @@ export function closureOver(
   return reachedFrom(seeds, codeBodies(bodyAt), naming, new Set(tracked))
 }
 
+export function kindSeeds(root: string, kind: string): readonly string[] {
+  return kind === WORKSTATION_SERVICE ? runnerCodeIn(root) : []
+}
+
 export function closuresOf(
   root: string,
   kind: string,
@@ -111,11 +117,12 @@ export function closuresOf(
 ): ReadonlyMap<string, ReadonlySet<string>> {
   const tracked = trackedAt(root, commit)
   const bodies = bodiesFrom(root, commit)
+  const shared = kindSeeds(root, kind)
   const found = new Map<string, ReadonlySet<string>>()
   for (const one of valuesOfType(root, kind)) {
     const slug = textAt(one.value, "slug")
     if (slug === null) continue
-    found.set(slug, closureOver(tracked, besideThe(tracked, one.path), bodies))
+    found.set(slug, closureOver(tracked, [...besideThe(tracked, one.path), ...shared], bodies))
   }
   return found
 }

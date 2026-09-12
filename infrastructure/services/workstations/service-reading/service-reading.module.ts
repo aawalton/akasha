@@ -49,6 +49,10 @@ export const serviceReading = {
       statement: "A service is named there by its slug rather than by the file holding its code.",
     },
     {
+      invariantKind: "departure",
+      statement: "The file that command line runs is answered for on its own as well.",
+    },
+    {
       invariantKind: "absence",
       statement: "What a page spells of how it runs reaches no command line.",
     },

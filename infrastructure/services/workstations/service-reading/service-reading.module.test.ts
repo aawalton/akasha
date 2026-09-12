@@ -4,6 +4,7 @@ import { join } from "node:path"
 import {
   everyService,
   readFor,
+  runnerCodeIn,
   serviceIn,
   systemdIn,
 } from "akasha/infrastructure/services/workstations/service-reading/service-reading.module.code.ts"
@@ -63,6 +64,10 @@ test("the command line is composed the same way for every service", () => {
   const beside = runnerBeside()
   const other = serviceIn(ROOT, { ...WHOLE, slug: "another-service" })
   expect(other?.runs).toEqual([`${RUNNER} ${beside} another-service`])
+})
+
+test("the file that command line runs is answered for on its own as well", () => {
+  expect(runnerCodeIn(ROOT)).toEqual([runnerBeside()])
 })
 
 test("what a page spells of how it runs reaches no command line", () => {

@@ -2,6 +2,7 @@ import type { Systemd } from "akasha/infrastructure/services/workstations/proper
 import {
   commandOf,
   type Refused,
+  runOf,
 } from "akasha/infrastructure/services/workstations/run-composing/run-composing.module.code.ts"
 import type {
   Service,
@@ -54,6 +55,11 @@ export function systemdIn(value: Value): Systemd | undefined {
   }
   if (typeof one.catchUp === "boolean") took.catchUp = one.catchUp
   return took as Systemd
+}
+
+export function runnerCodeIn(root: string): readonly string[] {
+  const run = runOf(root, RUNNER)
+  return "refused" in run ? [] : [run.path]
 }
 
 export function runsFrom(
