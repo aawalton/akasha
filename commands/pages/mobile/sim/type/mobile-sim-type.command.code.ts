@@ -77,6 +77,10 @@ export function tappedSaid(selector: string): string {
   return `tapped ${selector}, which is focused with nothing typed into it`
 }
 
+export function sentSaid(many: number, into: string): string {
+  return `sent ${many} characters to ${into}, which may hold them now`
+}
+
 export async function typedIn(
   read: Read,
   done: string[],
@@ -86,12 +90,14 @@ export async function typedIn(
   const selector = read.selector
   if (selector === undefined) {
     const focused = await typing.focused(state.appiumBase, state.sessionId)
+    done.push(sentSaid(read.text.length, "the element already focused"))
     await typing.typed(state.appiumBase, state.sessionId, focused, read.text)
     return told([`typed\t${read.text.length} characters into what was focused`])
   }
   const elementId = await typing.found(state.appiumBase, state.sessionId, BY_CSS, selector)
   await typing.tapped(state.appiumBase, state.sessionId, elementId)
   done.push(tappedSaid(selector))
+  done.push(sentSaid(read.text.length, selector))
   await typing.typed(state.appiumBase, state.sessionId, elementId, read.text)
   return told([`typed\t${read.text.length} characters into ${selector}`])
 }

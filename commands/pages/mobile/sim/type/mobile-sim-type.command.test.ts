@@ -12,6 +12,7 @@ import type {
 } from "akasha/commands/pages/mobile/sim/type/mobile-sim-type.command.code.ts"
 import {
   mobileSimType,
+  sentSaid,
   tappedSaid,
   textIn,
   typedIn,
@@ -39,6 +40,10 @@ const READ: Read = { text: "hunter2", selector: SELECTOR }
 
 const FOCUSED: Read = { text: "hunter2", selector: undefined }
 
+const SENT = sentSaid(READ.text.length, SELECTOR)
+
+const SENT_FOCUSED = sentSaid(FOCUSED.text.length, "the element already focused")
+
 const STATE = { appiumBase: "http://mac:4723", sessionId: "3f0c9a11" } as SimSessionState
 
 function typing(over: Partial<Typing> = {}): Typing {
@@ -64,16 +69,17 @@ test("the element tapped is named as soon as that element is tapped", async () =
   const done: string[] = []
 
   await typedIn(READ, done, typing())
-  expect(done).toEqual([TAPPED])
+  expect(done).toEqual([TAPPED, SENT])
 })
 
 test("a typing that threw after the tap names that tap in its refusal", async () => {
   const held = await answering(async (done) => await typedIn(READ, done, KEYBOARDLESS))
 
   expect(held.code).toBe(OPERATIONAL)
-  expect(held.report).toEqual([TAPPED])
+  expect(held.report).toEqual([TAPPED, SENT])
   const last = held.refusals[held.refusals.length - 1] as string
   expect(last).toContain(TAPPED)
+  expect(last).toContain(SENT)
 })
 
 test("a typing that threw before the tap names nothing", async () => {
@@ -83,11 +89,11 @@ test("a typing that threw before the tap names nothing", async () => {
   expect(held.refusals.some((one) => one.includes("stopped part way"))).toBe(false)
 })
 
-test("a call naming no element taps nothing, so a throw there names nothing", async () => {
+test("a call naming no element taps nothing, and still names the text it sent", async () => {
   const held = await answering(async (done) => await typedIn(FOCUSED, done, KEYBOARDLESS))
 
-  expect(held.report).toEqual([])
-  expect(held.refusals.some((one) => one.includes("stopped part way"))).toBe(false)
+  expect(held.report).toEqual([SENT_FOCUSED])
+  expect(held.refusals.at(-1)).toContain(SENT_FOCUSED)
 })
 
 test("a call naming no text is refused before the session is reached", async () => {

@@ -23,6 +23,18 @@ export const mobileSimType = {
     },
     {
       invariantKind: "departure",
+      statement: "The text is named as sent before that text is sent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A typing that threw on the send names that send in its refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call naming no element names the send into the element already focused.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The session, the finding, the tapping and the typing are handed in.",
     },
     {
