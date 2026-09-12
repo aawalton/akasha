@@ -20,7 +20,15 @@ test("naming neither a description nor text is refused for both", async () => {
 test("naming a description without text is refused", async () => {
   const said = await inferenceVoiceDesign(["--instruct", "a low voice"], GIVEN)
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("--text")
+  expect(said.refusals[0]).toBe(
+    "`akasha inference voice design` takes `--text-file` or `--text`, and nothing said either"
+  )
+})
+
+test("a value said at the flag with an equals sign is taken", async () => {
+  const said = await inferenceVoiceDesign(["--instruct=low", "--text=hi", "--service=none"], GIVEN)
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("`none` is none of them")
 })
 
 test("a backend this does not speak through is refused", async () => {

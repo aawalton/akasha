@@ -1,11 +1,25 @@
 import { writeFile } from "node:fs/promises"
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import {
+  type TakenFor,
+  takenFor,
+} from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { instruct as instructArgument } from "akasha/commands/arguments/pages/instruct.argument.ts"
+import { instructFile } from "akasha/commands/arguments/pages/instruct-file.argument.ts"
+import { lang as langArgument } from "akasha/commands/arguments/pages/lang.argument.ts"
+import { noPersist } from "akasha/commands/arguments/pages/no-persist.argument.ts"
+import { output as outputArgument } from "akasha/commands/arguments/pages/output.argument.ts"
+import { service as serviceArgument } from "akasha/commands/arguments/pages/service.argument.ts"
+import { spokenText } from "akasha/commands/arguments/pages/spoken-text.argument.ts"
+import { textFile } from "akasha/commands/arguments/pages/text-file.argument.ts"
+import {
   answering,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { filing, filledIn } from "akasha/commands/modules/filling/command-filling.module.code.ts"
+import { inferenceVoiceDesign as page } from "akasha/commands/pages/inference/voice/design/inference-voice-design.command.ts"
 import { buildCopFetchInit } from "akasha/infrastructure/inference/clients/cop-fetch/cop-fetch.module.code.ts"
 import {
   ensureOutputDir,
@@ -13,40 +27,30 @@ import {
 } from "akasha/infrastructure/inference/clients/inference-output-path/inference-output-path.module.code.ts"
 import { isRiff } from "akasha/infrastructure/inference/clients/riff-bytes/riff-bytes.module.code.ts"
 import {
-  heldOr,
   madeOf,
-  oneOf,
-  proseNeededAt,
   serviceNamed,
-  wasRefused,
-  wordsIn,
   wroteTo,
 } from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/record/inference-run-record.module.code.ts"
 import type { InferenceService } from "akasha/infrastructure/inference/runs/services/inference-run-services.module.code.ts"
 import { recordInferenceRun } from "akasha/infrastructure/inference/runs/store/inference-run-store.module.code.ts"
 
-const INSTRUCT = "--instruct"
-
-const TEXT = "--text"
-
-const SERVICE = "--service"
-
-const LANG = "--lang"
-
-const OUTPUT = "--output"
-
-const NO_PERSIST = "--no-persist"
-
-const TAKING = [
-  { said: INSTRUCT, prose: true },
-  { said: TEXT, prose: true },
-  { said: SERVICE },
-  { said: LANG },
-  { said: OUTPUT },
+const PAGES = [
+  instructArgument,
+  instructFile,
+  langArgument,
+  noPersist,
+  outputArgument,
+  serviceArgument,
+  spokenText,
+  textFile,
 ]
 
-const SWITCHES = [NO_PERSIST]
+type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
+
+const INSTRUCT = filing(instructArgument.said)
+
+const TEXT = filing(spokenText.said)
 
 type Backend = {
   readonly service: InferenceService
@@ -71,8 +75,6 @@ const BACKEND_NAMES = Object.keys(BACKENDS)
 
 const DEFAULT_BACKEND = "voxcpm2"
 
-const DEFAULT_LANG = "English"
-
 const TIMEOUT_MS = 1_800_000
 
 const SAMPLING = {
@@ -83,30 +85,38 @@ const SAMPLING = {
   maxTokens: 1200,
 } as const
 
+export function wrongIn(taken: Taken): readonly string[] {
+  const named = taken.service ?? DEFAULT_BACKEND
+  if (BACKENDS[named] !== undefined) return []
+  const said = serviceArgument.said
+  const every = BACKEND_NAMES.join(", ")
+  return [`\`${said}\` takes one of ${every}, and \`${named}\` is none of them`]
+}
+
 export async function inferenceVoiceDesign(argv: readonly string[], given: Given): Promise<Answer> {
-  const said = wordsIn(argv, TAKING, SWITCHES)
-  if (wasRefused(said)) return refusedBy(said.refused)
+  const read = takenFor(argv, given.calledAs, page, PAGES)
+  if ("refused" in read) return refusedBy(read.refused)
+  const taken: Taken = read.taken
 
-  const refusals: string[] = said.loose.map(
-    (one) => `\`${one}\` follows nothing this takes — it takes flags alone`
-  )
-  const instruct = heldOr(await proseNeededAt(said, INSTRUCT), refusals)
-  const text = heldOr(await proseNeededAt(said, TEXT), refusals)
-  const backendName = heldOr(oneOf(said, SERVICE, BACKEND_NAMES, DEFAULT_BACKEND), refusals)
-  if (refusals.length > 0 || instruct === null || text === null || backendName === null) {
-    return refusedBy(refusals)
-  }
+  const wrong = wrongIn(taken)
+  if (wrong.length > 0) return refusedBy(wrong)
 
-  const backend = BACKENDS[backendName ?? DEFAULT_BACKEND]
-  if (backend === undefined) {
-    return refusedBy([`\`${SERVICE}\` takes one of ${BACKEND_NAMES.join(", ")}`])
-  }
-  const lang = said.named[LANG] ?? DEFAULT_LANG
+  const described = filledIn(given.root, taken.instruct, taken.instructFile, INSTRUCT)
+  if ("refused" in described) return refusedBy(described.refused)
+  const spoken = filledIn(given.root, taken.spokenText, taken.textFile, TEXT)
+  if ("refused" in spoken) return refusedBy(spoken.refused)
+
+  const backend = BACKENDS[taken.service ?? DEFAULT_BACKEND]
+  if (backend === undefined) return refusedBy(wrongIn(taken))
+
+  const instruct = described.text ?? ""
+  const text = spoken.text ?? ""
+  const lang = taken.lang
 
   return await answering(async () => {
     const reached = serviceNamed(backend.service)
     const nowMs = Date.now()
-    const outputPath = resolveOutputPath("voice-design", said.named[OUTPUT], nowMs)
+    const outputPath = resolveOutputPath("voice-design", taken.output, nowMs)
 
     const record = buildInferenceRunRecord({
       service: backend.service,
@@ -150,7 +160,7 @@ export async function inferenceVoiceDesign(argv: readonly string[], given: Given
         report.push(wroteTo(outputPath, wav, "audio"))
         return { outputPath, outputBytes: wav }
       },
-      { persist: !said.flags.has(NO_PERSIST) }
+      { persist: !taken.noPersist }
     )
     return told(report)
   })
