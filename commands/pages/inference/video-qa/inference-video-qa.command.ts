@@ -16,14 +16,11 @@ export const inferenceVideoQa = {
       takes: "that question read from a path, or `-` for standard input",
     },
     { said: "--frames <n>", takes: "how many frames are sampled out of the ones there are" },
-    { said: "--fps <n>", takes: "the rate the clip is resampled to before frames are sampled" },
+    {
+      said: "--fps <n>",
+      takes: "the rate the clip is resampled to, every frame left in place where none is said",
+    },
     { said: "--timeout <s>", takes: "how many seconds the wait on the model runs for" },
-  ],
-  helpNotes: [
-    "a clip or a directory of frames is named, never both and never neither.",
-    "the frames sampled are spread evenly across the ones there are rather than taken from the front.",
-    "a rate nothing named leaves every frame in place before sampling.",
-    "the answer is what the model said, and it is the run row's output as well.",
   ],
   invariants: [
     {
@@ -49,6 +46,10 @@ export const inferenceVideoQa = {
     {
       invariantKind: "departure",
       statement: "The answer is the model's words.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The answer is the run row's output.",
     },
 
     {
