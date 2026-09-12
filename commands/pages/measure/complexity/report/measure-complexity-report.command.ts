@@ -6,10 +6,7 @@ export const measureComplexityReport = {
   slug: "measure-complexity-report",
   definition: "the command saying every complexity metric by percentile, with the outliers of each",
   code: "ts",
-  taking: [
-    { said: "--top <n>", takes: "how many outliers each metric shows, worst first" },
-    { said: "--json", takes: "the rows as one line of JSON rather than as tab-separated columns" },
-  ],
+  taking: [{ said: "--top <n>", takes: "how many outliers each metric shows, worst first" }],
   invariants: [
     {
       invariantKind: "departure",
