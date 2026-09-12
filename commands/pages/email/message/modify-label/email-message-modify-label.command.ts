@@ -13,11 +13,11 @@ export const emailMessageModifyLabel = {
     { said: "--add <label-id>", takes: "a label id to put on it, said again for each" },
     { said: "--remove <label-id>", takes: "a label id to take off it, said again for each" },
   ],
-  helpNotes: [
-    "a relabelling naming neither an addition nor a removal is refused, since it would be no act.",
-    "the labels the message carries afterwards come back with its id and its thread.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The message's id and its thread come back beside those labels.",
+    },
     {
       invariantKind: "departure",
       statement: "A relabelling naming neither an addition nor a removal is refused.",
