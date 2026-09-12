@@ -1,4 +1,5 @@
 import { realpathSync } from "node:fs"
+import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
@@ -18,8 +19,6 @@ import { port as portZone } from "akasha/temper/upstream-data/zone-upstream-port
 import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const SAID_WRONG = 1
-
-const DATA = 2
 
 const FAILED = 3
 
@@ -83,6 +82,6 @@ export async function temperUpstreamDataPort(argv: readonly string[] = []): Prom
   return {
     report: [`ported ${library} into ${root}, writing each emitted file whole`],
     refusals: [],
-    code: 0,
+    code: OK,
   }
 }
