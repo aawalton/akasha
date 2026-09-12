@@ -7,7 +7,6 @@ export const infrastructureDevServerLogs = {
   definition: "the command answering the tail of one dev server's captured output",
   code: "ts",
   test: "ts",
-  changeKind: "change-none",
   name: "logs",
   parts: ["module/last-lines"],
   taking: [

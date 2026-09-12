@@ -8,7 +8,6 @@ export const googleDriveFetch = {
     "the command writing one file out of Alan's Google Drive to disk under its Drive name",
   code: "ts",
   test: "ts",
-  changeKind: "change-mechanical",
   taking: [
     { said: "<url-or-id>", takes: "the file to fetch, said in place as a share URL or a bare id" },
     {

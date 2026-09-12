@@ -7,7 +7,6 @@ export const infrastructureLoki = {
   definition: "the command answering the log lines Loki has for a pod, newest first",
   code: "ts",
   test: "ts",
-  changeKind: "change-none",
   taking: [
     { said: "<pod>", takes: "the pod name to match as a prefix, said here where no flag names it" },
     { said: "--pod <name>", takes: "the pod name to match as a prefix, read as a literal string" },

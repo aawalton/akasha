@@ -6,7 +6,6 @@ export const infrastructureDevServerStop = {
   slug: "infrastructure-dev-server-stop",
   definition: "the command ending one app's dev server and taking the state file it held",
   code: "ts",
-  changeKind: "change-mechanical",
   name: "stop",
   taking: [
     { said: "<seq>", takes: "the branch sequence number, said here where no flag names it" },

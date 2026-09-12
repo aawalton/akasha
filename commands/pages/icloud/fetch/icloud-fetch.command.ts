@@ -7,7 +7,6 @@ export const icloudFetch = {
   definition: "the command writing every photo an iCloud shared album holds to disk",
   code: "ts",
   test: "ts",
-  changeKind: "change-none",
   taking: [
     { said: "<share-url>", takes: "the album to fetch, said in place as its share URL" },
     { said: "--url <share-url>", takes: "the album to fetch, said as a flag rather than in place" },

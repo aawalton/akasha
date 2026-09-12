@@ -6,7 +6,6 @@ export const infrastructureDevServerBootstrap = {
   slug: "infrastructure-dev-server-bootstrap",
   definition: "the command writing an app's `.env.local` from the app's secret pages",
   code: "ts",
-  changeKind: "change-mechanical",
   name: "bootstrap",
   taking: [
     { said: "<seq>", takes: "the branch sequence number, said here where no flag names it" },

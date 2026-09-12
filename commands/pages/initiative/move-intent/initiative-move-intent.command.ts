@@ -8,7 +8,6 @@ export const initiativeMoveIntent = {
     "the command carrying one intent onto the place another intent of its initiative holds",
   code: "ts",
   test: "ts",
-  changeKind: "change-mechanical",
   taking: [
     { said: "<initiative>", takes: "the initiative whose intents are being ordered" },
     { said: "<statement>", takes: "the statement the intent being moved states" },

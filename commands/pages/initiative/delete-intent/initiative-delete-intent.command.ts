@@ -7,7 +7,6 @@ export const initiativeDeleteIntent = {
   definition: "the command taking one intent out of the initiative stating that intent",
   code: "ts",
   test: "ts",
-  changeKind: "change-mechanical",
   taking: [
     { said: "<initiative>", takes: "the initiative stating the intent" },
     { said: "<statement>", takes: "the statement the intent being taken out states" },

@@ -8,7 +8,6 @@ export const infrastructureService = {
     "the command starting, stopping and sweeping akasha's service units, and running one in process",
   code: "ts",
   test: "ts",
-  changeKind: "change-none",
   parts: [],
   taking: [
     {

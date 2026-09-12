@@ -6,7 +6,6 @@ export const infrastructureDevServerRestart = {
   slug: "infrastructure-dev-server-restart",
   definition: "the command stopping one app's dev server and starting it again",
   code: "ts",
-  changeKind: "change-mechanical",
   name: "restart",
   taking: [
     { said: "<seq>", takes: "the branch sequence number, said here where no flag names it" },

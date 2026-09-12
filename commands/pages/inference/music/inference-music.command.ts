@@ -6,7 +6,6 @@ export const inferenceMusic = {
   slug: "inference-music",
   definition: "the command rendering one song off a style and, where there is one, its lyrics",
   code: "ts",
-  changeKind: "change-mechanical",
   taking: [
     { said: "--prompt <text>", takes: "the style, the mood and the instruments the song carries" },
     {

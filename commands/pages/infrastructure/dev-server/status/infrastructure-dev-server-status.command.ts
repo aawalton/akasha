@@ -6,7 +6,6 @@ export const infrastructureDevServerStatus = {
   slug: "infrastructure-dev-server-status",
   definition: "the command reading whether an app's dev server is running or stopped",
   code: "ts",
-  changeKind: "change-none",
   name: "status",
   taking: [
     { said: "<seq>", takes: "the branch sequence number, said here where no flag names it" },

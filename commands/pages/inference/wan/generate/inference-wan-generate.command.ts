@@ -7,7 +7,6 @@ export const inferenceWanGenerate = {
   definition: "the command rendering one clip conditioned on a first frame, a last frame, or both",
   code: "ts",
   test: "ts",
-  changeKind: "change-mechanical",
   taking: [
     { said: "--start-image <png>", takes: "the first frame the clip is conditioned on" },
     { said: "--end-image <png>", takes: "the last frame the clip is conditioned on" },

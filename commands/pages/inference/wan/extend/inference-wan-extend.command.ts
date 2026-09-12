@@ -7,7 +7,6 @@ export const inferenceWanExtend = {
   definition: "the command rendering fresh frames before or after a clip",
   code: "ts",
   test: "ts",
-  changeKind: "change-mechanical",
   taking: [
     { said: "--context <mp4>", takes: "the clip the conditioning window is taken from" },
     {

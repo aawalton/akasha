@@ -6,7 +6,6 @@ export const infrastructureDevServerStart = {
   slug: "infrastructure-dev-server-start",
   definition: "the command spawning one app's dev server and recording where it is",
   code: "ts",
-  changeKind: "change-mechanical",
   name: "start",
   taking: [
     { said: "<seq>", takes: "the branch sequence number, said here where no flag names it" },

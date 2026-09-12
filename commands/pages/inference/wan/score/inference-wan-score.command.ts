@@ -7,7 +7,6 @@ export const inferenceWanScore = {
   definition: "the command measuring each frame's cosine against a reference identity",
   code: "ts",
   test: "ts",
-  changeKind: "change-none",
   taking: [
     { said: "--frames-dir <dir>", takes: "the directory of frames this reads" },
     { said: "--reference <png>", takes: "the identity each frame is measured against" },

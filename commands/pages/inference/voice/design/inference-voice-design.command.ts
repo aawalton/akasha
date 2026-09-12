@@ -6,7 +6,6 @@ export const inferenceVoiceDesign = {
   slug: "inference-voice-design",
   definition: "the command speaking text in a voice made up from a description of it",
   code: "ts",
-  changeKind: "change-mechanical",
   taking: [
     { said: "--instruct <description>", takes: "the voice described in words" },
     {

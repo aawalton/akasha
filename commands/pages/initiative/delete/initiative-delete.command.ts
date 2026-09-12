@@ -7,7 +7,6 @@ export const initiativeDelete = {
   definition: "the command taking one initiative's page away with the files beside that page",
   code: "ts",
   test: "ts",
-  changeKind: "change-mechanical",
   taking: [{ said: "<initiative>", takes: "the initiative being taken away" }],
 
   invariants: [

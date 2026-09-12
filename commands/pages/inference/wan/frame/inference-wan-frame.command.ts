@@ -7,7 +7,6 @@ export const inferenceWanFrame = {
   definition: "the command writing a clip's frames out as numbered PNGs",
   code: "ts",
   test: "ts",
-  changeKind: "change-mechanical",
   taking: [
     { said: "--video <mp4>", takes: "the clip the frames are read from" },
     { said: "--fps <n>", takes: "the rate this samples at, where unsaid takes every frame" },

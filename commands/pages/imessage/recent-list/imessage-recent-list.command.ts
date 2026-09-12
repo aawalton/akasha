@@ -6,7 +6,6 @@ export const imessageRecentList = {
   slug: "imessage-recent-list",
   definition: "the command giving back the newest messages in the mac's message store",
   code: "ts",
-  changeKind: "change-none",
   taking: [
     { said: "--limit <n>", takes: "the most messages given back, twenty where none is said" },
     { said: "--tail <n>", takes: "the same thing said the other way" },

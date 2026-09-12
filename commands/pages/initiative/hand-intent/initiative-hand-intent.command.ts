@@ -7,7 +7,6 @@ export const initiativeHandIntent = {
   definition: "the command handing one intent from the initiative stating it to another initiative",
   code: "ts",
   test: "ts",
-  changeKind: "change-mechanical",
   taking: [
     { said: "<from>", takes: "the initiative stating the intent now" },
     { said: "<statement>", takes: "the statement the intent being handed over states" },

@@ -8,7 +8,6 @@ export const infrastructureShellInitBash = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  changeKind: "change-none",
   taking: [],
   invariants: [
     {
