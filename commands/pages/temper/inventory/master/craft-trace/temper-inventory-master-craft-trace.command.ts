@@ -11,10 +11,6 @@ export const temperInventoryMasterCraftTrace = {
     { said: "--inventory-path <path>", takes: "the saved-variables file the traces are read from" },
     { said: "--json", takes: "give the whole ring as JSON rather than as text" },
   ],
-  helpNotes: [
-    "each entry carries the station context, the pattern it resolved, what it observed on verifying, and what the craft came to.",
-    "the ring holds a bounded count and the oldest entry goes when a new one arrives.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -23,6 +19,11 @@ export const temperInventoryMasterCraftTrace = {
     {
       invariantKind: "departure",
       statement: "The oldest trace goes when a new trace arrives.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Each trace has the station context, the pattern resolved and what verifying observed.",
     },
     {
       invariantKind: "departure",
