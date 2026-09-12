@@ -6,6 +6,7 @@ export const pageSecretSet = {
   slug: "page-secret-set",
   definition: "the command enciphering one value into the sops file beside a page",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
