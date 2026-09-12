@@ -4,7 +4,8 @@ export const infrastructureService = {
   id: "01a05a66-caa0-72a3-8f49-29ab09a8de77",
   type: "command",
   slug: "infrastructure-service",
-  definition: "the command acting on the services akasha carries",
+  definition:
+    "the command starting, stopping and sweeping akasha's service units, and running one in process",
   code: "ts",
   test: "ts",
   changeKind: "change-none",
