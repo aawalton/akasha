@@ -15,14 +15,7 @@ export const musicImportArtist = {
     { said: "--limit <n>", takes: "how many songs at most are brought in" },
     { said: "--json", takes: "give what was brought in as JSON rather than as rows" },
   ],
-  helpNotes: [
-    "an artist is named by `--name` or by `--mbid`, and a name that matches exactly wins over one scored higher.",
-    "the songs are the artist's works, and an artist MusicBrainz files no work under is read from their recordings.",
-    "the words of each song are asked of LRCLIB and land in a file beside the song.",
-    "a song already here keeps the name it has, matched by the MusicBrainz id it was filed under.",
-    "a field this does not fetch is left as it was, so a rating already recorded is kept.",
-    "the artist and every song land as one commit or none of them do.",
-  ],
+
   invariants: [
     {
       invariantKind: "constraint",
