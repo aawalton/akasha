@@ -52,5 +52,9 @@ export const aDomainWithItsParts = {
       statement:
         "A subfolder a file this page's own property names sits under is a part of that page.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A subfolder this page's own folder property names is a part of that page.",
+    },
   ],
 } as const satisfies FolderShape
