@@ -9,17 +9,22 @@ export const measurePerformance = {
   test: "ts",
   changeKind: "change-none",
   taking: [{ said: "<performance>", takes: "the slug of the one performance to run" }],
-  helpNotes: [
-    "one call runs one performance.",
-    "a call naming no performance is refused with every performance there is.",
-    "the code beside the performance page is what runs, and its `measured` is what is called.",
-    "a run is under no ceiling on processor time, so a performance may take as long as it takes.",
-    "an answer is figures rather than a verdict, so nothing here refuses a performance for being slow.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "One call runs one performance.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call naming no performance is refused naming every performance there is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The `measured` that code exports is what is called.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No ceiling on processor time holds a run here.",
     },
     {
       invariantKind: "departure",
