@@ -14,16 +14,19 @@ export const pageSecretShow = {
     },
     { said: "--key <name>", takes: "the one secret to decrypt and answer with" },
   ],
-  helpNotes: [
-    "nothing is written: the sops file, the page and the repository are left exactly as they stood.",
-    "which keys a page may hold is its page type's call, and a key it does not declare secret is refused before anything is decrypted.",
-    "the value reaches the report in the clear, so whatever takes the report decides where it then stands.",
-    "a key the sops file does not hold is answered apart from a key the page type does not declare.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "A key is refused before anything is decrypted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key the page's page type does not declare secret is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A key the sops file does not hold is answered apart from a key the page type does not declare.",
     },
     {
       invariantKind: "departure",
