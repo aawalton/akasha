@@ -1,13 +1,7 @@
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
-
-const SAID_AT_MOST = 240
+import { oneLine } from "akasha/utils/text/one-line/one-line.module.code.ts"
 
 const FRAME_AT = /^\s+at (?:.+ )?\(?(\/[^\s()]+:\d+:\d+)\)?$/
-
-export function oneLine(said: string): string {
-  const held = said.replace(/\s+/g, " ").trim()
-  return held.length <= SAID_AT_MOST ? held : `${held.slice(0, SAID_AT_MOST - 3)}...`
-}
 
 export function whyOf(thrown: unknown): string {
   return oneLine(saidBy(thrown))

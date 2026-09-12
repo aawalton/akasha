@@ -23,10 +23,6 @@ export const faultSaying = {
     },
     {
       invariantKind: "departure",
-      statement: "A reason worked out rather than thrown is carried by the same rule.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "A reader outside `commands/` reaches this module by its path rather than by a package alias.",
     },
@@ -57,6 +53,10 @@ export const faultSaying = {
     {
       invariantKind: "absence",
       statement: "The message has no frame.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here holds a message to a length, so a long refusal arrives entire.",
     },
   ],
 } as const satisfies Module

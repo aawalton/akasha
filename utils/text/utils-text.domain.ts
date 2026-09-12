@@ -9,6 +9,7 @@ export const utilsText = {
     "module/capitalize",
     "module/counted",
     "module/name-drawing",
+    "module/one-line",
     "module/seconds",
     "module/shortened",
     "module/suggest-closest",

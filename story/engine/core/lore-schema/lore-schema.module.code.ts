@@ -1,3 +1,4 @@
+import { oneLine } from "akasha/utils/text/one-line/one-line.module.code.ts"
 import { z } from "zod"
 
 export const LORE_KINDS = ["entity", "timeline", "thread", "quote"] as const
@@ -71,10 +72,6 @@ export interface CitationIntegrityResult {
   readonly reason?: string
 }
 
-function normalizeForMatch(s: string): string {
-  return s.replace(/\s+/g, " ").trim()
-}
-
 export function decideCitationIntegrity(
   quote: string,
   turnText: string | undefined
@@ -82,8 +79,8 @@ export function decideCitationIntegrity(
   if (turnText === undefined || turnText.length === 0) {
     return { ok: false, reason: "cited turn has no published text" }
   }
-  const haystack = normalizeForMatch(turnText)
-  const needle = normalizeForMatch(quote)
+  const haystack = oneLine(turnText)
+  const needle = oneLine(quote)
   if (needle.length === 0) return { ok: false, reason: "citation quote is empty" }
   return haystack.includes(needle)
     ? { ok: true }

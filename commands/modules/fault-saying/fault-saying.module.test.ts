@@ -1,9 +1,5 @@
 import { expect, test } from "bun:test"
-import {
-  framesOf,
-  oneLine,
-  whyOf,
-} from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { framesOf, whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import {
   EVERY_FRAME,
   FIRST_FRAME,
@@ -33,15 +29,9 @@ test("what is said in one line is the whole of it with its breaks closed up", ()
   )
 })
 
-test("a fault too long to carry is cut, and says it was cut", () => {
-  const said = whyOf(new Error("held ".repeat(200)))
-  expect(said).toEndWith("...")
-  expect(said.length).toBe(240)
-})
-
-test("what was never thrown is said in one line too, so a reason a commit carries is shaped here", () => {
-  expect(oneLine("  a b\n  c  ")).toBe("a b c")
-  expect(oneLine("held ".repeat(200)).length).toBe(240)
+test("a long fault reaches the reader whole, so what to do about it is never dropped", () => {
+  const long = `${"held ".repeat(200)}run the in-game explain keybind`
+  expect(whyOf(new Error(long))).toBe(long.trim())
 })
 
 function threwHere(): unknown {
