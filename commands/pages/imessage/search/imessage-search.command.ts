@@ -19,14 +19,11 @@ export const imessageSearch = {
     { said: "--tail <n>", takes: "the same thing said the other way" },
     { said: "--json", takes: "give the messages as JSON rather than as tab-parted rows" },
   ],
-  helpNotes: [
-    "the text of almost every row is empty and is decoded from the typedstream body beside it instead.",
-    "the store is asked for five times the limit and the decoded texts are then matched again.",
-    "the match the store makes is over raw bytes and minds the case; the match made after it does not.",
-    "so a mixed-case hit of a lower-case run can be missed, and none is ever falsely answered.",
-    "the rows are answered oldest first, the same way `imessage recent` answers.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The messages are answered oldest first.",
+    },
     {
       invariantKind: "departure",
       statement: "The store is over-asked and the answer is narrowed against the decoded text.",
