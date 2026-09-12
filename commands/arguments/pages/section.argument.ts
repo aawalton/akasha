@@ -8,4 +8,5 @@ export const section = {
   takes: "which section is given back: rules, consumables, priority or all",
   value: "text",
   placeholder: "section",
+  default: "all",
 } as const satisfies Argument

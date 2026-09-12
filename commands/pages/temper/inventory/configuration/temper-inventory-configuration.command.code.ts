@@ -1,4 +1,8 @@
 import { resolve } from "node:path"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { inventoryPath as inventoryPathArgument } from "akasha/commands/arguments/pages/inventory-path.argument.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { section as sectionArgument } from "akasha/commands/arguments/pages/section.argument.ts"
 import {
   asJson,
   OPERATIONAL,
@@ -8,14 +12,11 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { temperInventoryConfiguration as page } from "akasha/commands/pages/temper/inventory/configuration/temper-inventory-configuration.command.ts"
 import { loadTemperInventoryConfigFromPath } from "akasha/temper/commands/inventory-config-reading/inventory-config-reading.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 
-const INVENTORY_PATH = "--inventory-path"
-
-const SECTION = "--section"
-
-const JSON_FLAG = "--json"
+const TAKES = [json, inventoryPathArgument, sectionArgument]
 
 const INVENTORY_LUA = "TemperInventory.lua"
 
@@ -39,53 +40,18 @@ type CompiledInventoryConfig = {
   readonly characterPriority: ReadonlyArray<string>
 }
 
-export type Read =
-  | {
-      readonly inventoryPath: string | null
-      readonly section: Section
-      readonly json: boolean
-    }
-  | { readonly refused: readonly string[] }
+export type Reading = Section | { readonly refused: readonly string[] }
 
-export function readIn(argv: readonly string[]): Read {
-  const refusals: string[] = []
-  let inventoryPath: string | null = null
-  let section: Section = "all"
-  let json = false
-  for (let at = 0; at < argv.length; at += 1) {
-    const one = argv[at]
-    if (one === undefined) continue
-    if (one === JSON_FLAG) {
-      json = true
-      continue
+export function sectionIn(said: string): Reading {
+  if (!SECTIONS.includes(said as Section)) {
+    return {
+      refused: [
+        `\`${sectionArgument.said}\` takes \`${SECTIONS.join("`, `")}\`, ` +
+          `and \`${said}\` is none of them`,
+      ],
     }
-    if (one === INVENTORY_PATH || one === SECTION) {
-      const value = argv[at + 1]
-      at += 1
-      if (value === undefined) {
-        refusals.push(`\`${one}\` takes a value, and none followed it`)
-        continue
-      }
-      if (one === INVENTORY_PATH) {
-        inventoryPath = value
-        continue
-      }
-      if (!SECTIONS.includes(value as Section)) {
-        refusals.push(
-          `\`${SECTION}\` takes \`${SECTIONS.join("`, `")}\`, and \`${value}\` is none of them`
-        )
-        continue
-      }
-      section = value as Section
-      continue
-    }
-    refusals.push(
-      `\`${one}\` is nothing this takes — it takes \`${INVENTORY_PATH}\`, ` +
-        `\`${SECTION}\` and \`${JSON_FLAG}\``
-    )
   }
-  if (refusals.length > 0) return { refused: refusals }
-  return { inventoryPath, section, json }
+  return said as Section
 }
 
 const RULE_IDENTITY = new Set(["id", "action", "destination", "categoryId"])
@@ -171,18 +137,23 @@ function textOf(config: CompiledInventoryConfig, section: Section): readonly str
 }
 
 export async function temperInventoryConfiguration(
-  argv: readonly string[] = [],
-  given?: Given
+  argv: readonly string[],
+  given: Given
 ): Promise<Answer> {
-  const read = readIn(argv)
+  const read = takenFor(argv, given.calledAs, page, TAKES)
   if ("refused" in read) return refusedBy(read.refused)
-  const root = given === undefined ? process.cwd() : resolve(given.root)
+  const taken = read.taken
+  const held = sectionIn(taken.section)
+  if (typeof held !== "string") return refusedBy(held.refused)
+  const root = resolve(given.root)
   const at =
-    read.inventoryPath === null ? savedVarsFile(INVENTORY_LUA) : resolve(root, read.inventoryPath)
+    taken.inventoryPath === undefined
+      ? savedVarsFile(INVENTORY_LUA)
+      : resolve(root, taken.inventoryPath)
   try {
     const config = (await loadTemperInventoryConfigFromPath(at)) as CompiledInventoryConfig
-    if (read.json) return asJson(jsonShape(config, read.section))
-    return told([...textOf(config, read.section)])
+    if (taken.json) return asJson(jsonShape(config, held))
+    return told([...textOf(config, held)])
   } catch (thrown) {
     return refused(whyOf(thrown), OPERATIONAL)
   }
