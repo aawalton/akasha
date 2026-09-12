@@ -71,6 +71,14 @@ export const seatStart = {
       invariantKind: "departure",
       statement: "A start prints the agent's id on the output stream.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A start refused after it bound the name names each write it finished.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A start refused before it wrote anything is refused as the fault alone.",
+    },
   ],
   name: "start",
   arguments: [{ argument: "argument/json" }],

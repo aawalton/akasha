@@ -5,7 +5,7 @@ export async function seatStart(argv: readonly string[]): Promise<Answer> {
   const { default: starting } = await import(
     "akasha/seat-system/seat-start/seat-start.module.code.ts"
   )
-  return await ran(async () => {
-    await starting(argv)
+  return await ran(async (done) => {
+    await starting(argv, done)
   })
 }

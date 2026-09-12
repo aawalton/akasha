@@ -87,7 +87,7 @@ function readFlexValue(raw: string | undefined): string | null {
   return raw
 }
 
-export async function startSeat(input: StartSeatInput): Promise<StartedSeat> {
+export async function startSeat(input: StartSeatInput, done: string[] = []): Promise<StartedSeat> {
   const startMode = input.startMode
   if (!isSeatMode(startMode)) {
     throw inputError(
@@ -194,6 +194,7 @@ export async function startSeat(input: StartSeatInput): Promise<StartedSeat> {
       anthropicBaseUrl: input.anthropicBaseUrl,
       anthropicAuthToken: input.anthropicAuthToken,
     })
+    done.push(`spawned ${handle.agentId} in \`${handle.name}\`, headless, at pid ${handle.pid}`)
     return { agentId: handle.agentId, name: handle.name, startMode, pid: handle.pid }
   }
 
@@ -201,6 +202,7 @@ export async function startSeat(input: StartSeatInput): Promise<StartedSeat> {
   if (held !== null) throw dataError(held)
 
   const agentId = await mintNamedAgent(name)
+  done.push(`bound \`${name}\` to the fresh agent ${agentId}`)
 
   const unstated = await stateSpawnedSeat({
     agentId,
@@ -221,12 +223,17 @@ export async function startSeat(input: StartSeatInput): Promise<StartedSeat> {
         "refused here rather than launched blank."
     )
   }
+  done.push(`wrote the page for ${agentId}`)
   await launchSeatUnderTmux({ name, agentId, account, prompt: "", mode: startMode })
+  done.push(`launched ${agentId} in \`${name}\` under tmux, ${startMode}`)
 
   return { agentId, name, startMode }
 }
 
-export default async function seatStart(args: readonly string[]): Promise<void> {
+export default async function seatStart(
+  args: readonly string[],
+  done: string[] = []
+): Promise<void> {
   const statedParent = refuseStatedParent(args)
   if (statedParent !== null) throw inputError(statedParent)
   const statedName = refuseStatedName(args)
@@ -245,20 +252,23 @@ export default async function seatStart(args: readonly string[]): Promise<void> 
         : await readStdinOrFile(promptFile)
   }
 
-  const started = await startSeat({
-    startMode,
-    persona: parsed.string("--persona"),
-    role: parsed.string("--role"),
-    domain: parsed.string("--domain"),
-    principal: parsed.string("--principal"),
-    flex: parsed.string("--flex"),
-    initiative: parsed.string("--initiative") ?? null,
-    account: parsed.string("--account"),
-    prompt,
-    modelOverride: parsed.string("--model"),
-    anthropicBaseUrl: parsed.string("--anthropic-base-url"),
-    anthropicAuthToken: parsed.string("--anthropic-auth-token"),
-  })
+  const started = await startSeat(
+    {
+      startMode,
+      persona: parsed.string("--persona"),
+      role: parsed.string("--role"),
+      domain: parsed.string("--domain"),
+      principal: parsed.string("--principal"),
+      flex: parsed.string("--flex"),
+      initiative: parsed.string("--initiative") ?? null,
+      account: parsed.string("--account"),
+      prompt,
+      modelOverride: parsed.string("--model"),
+      anthropicBaseUrl: parsed.string("--anthropic-base-url"),
+      anthropicAuthToken: parsed.string("--anthropic-auth-token"),
+    },
+    done
+  )
 
   if (started.pid !== undefined) {
     if (json) {
