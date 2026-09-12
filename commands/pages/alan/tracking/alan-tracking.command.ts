@@ -9,10 +9,7 @@ export const alanTracking = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  taking: [
-    { said: "--content-file <file>", takes: "the body that lands at the --file-path before it" },
-    { said: "--message-file <file>", takes: "a file the commit message is read from" },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -65,5 +62,7 @@ export const alanTracking = {
     { argument: "argument/file-path" },
     { argument: "argument/remove-path" },
     { argument: "argument/commit-message" },
+    { argument: "argument/content-file" },
+    { argument: "argument/message-file" },
   ],
 } as const satisfies Command
