@@ -9,7 +9,7 @@ import {
   getRecentlyPlayed,
 } from "akasha/alan/music/spotify/player/spotify-player.module.code.ts"
 import { INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 
 const WINDOW = "--window"
@@ -59,7 +59,7 @@ type Told = {
   readonly flags: readonly string[]
 }
 
-function told(argv: readonly string[]): Told | string {
+function told(argv: readonly string[], calledAs: string): Told | string {
   const named: Record<string, string> = {}
   const flags: string[] = []
   for (let at = 0; at < argv.length; at += 1) {
@@ -77,7 +77,7 @@ function told(argv: readonly string[]): Told | string {
       flags.push(one)
       continue
     }
-    return `\`${one}\` is nothing \`akasha music listening\` takes`
+    return `\`${one}\` is nothing \`${calledAs}\` takes`
   }
   return { named, flags }
 }
@@ -123,8 +123,8 @@ export function saidOf(data: Listening): readonly string[] {
   return lines
 }
 
-export async function musicListening(argv: readonly string[]): Promise<Answer> {
-  const read = told(argv)
+export async function musicListening(argv: readonly string[], given: Given): Promise<Answer> {
+  const read = told(argv, given.calledAs)
   if (typeof read === "string") return refused(read, INPUT)
 
   const windowSaid = read.named[WINDOW]

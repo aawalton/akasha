@@ -1,9 +1,18 @@
 import { expect, test } from "bun:test"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   musicListening,
   saidOf,
   windowOf,
 } from "akasha/commands/pages/music/listening/music-listening.command.code.ts"
+
+const GIVEN: Given = {
+  root: ".",
+  calledAs: "akasha music listening",
+  from: ".",
+  writer: null,
+  agentId: null,
+}
 
 test("a window said short, medium or long is read as the term Spotify names", () => {
   expect(windowOf("short")).toBe("short_term")
@@ -21,32 +30,32 @@ test("no window said is the medium window", () => {
 })
 
 test("a window Spotify does not carry is refused before any call is made", async () => {
-  const said = await musicListening(["--window", "sideways"])
+  const said = await musicListening(["--window", "sideways"], GIVEN)
   expect(said.code).toBe(1)
   expect(said.report).toEqual([])
   expect(said.refusals.join("\n")).toContain('unknown --window "sideways"')
 })
 
 test("a window said with nothing after it is refused by name", async () => {
-  const said = await musicListening(["--window"])
+  const said = await musicListening(["--window"], GIVEN)
   expect(said.code).toBe(1)
   expect(said.refusals.join("\n")).toContain("`--window` was said with nothing after it")
 })
 
 test("a limit that is no whole count is refused before any call is made", async () => {
-  const said = await musicListening(["--limit", "two"])
+  const said = await musicListening(["--limit", "two"], GIVEN)
   expect(said.code).toBe(1)
   expect(said.refusals.join("\n")).toContain("--limit must be a non-negative integer, got: two")
 })
 
 test("a limit below zero is refused", async () => {
-  const said = await musicListening(["--limit", "-3"])
+  const said = await musicListening(["--limit", "-3"], GIVEN)
   expect(said.code).toBe(1)
   expect(said.refusals.join("\n")).toContain("--limit must be a non-negative integer, got: -3")
 })
 
 test("anything the command does not take is refused by name", async () => {
-  const said = await musicListening(["--nope"])
+  const said = await musicListening(["--nope"], GIVEN)
   expect(said.code).toBe(1)
   expect(said.refusals.join("\n")).toContain("`--nope` is nothing")
 })
