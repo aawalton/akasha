@@ -34,7 +34,7 @@ export const strengthExercise = {
     "url-property/exercise-external-link",
     "url-property/image-end-url",
     "url-property/image-start-url",
-    "domain/strength-exercises-selection",
+    "domain/strength-exercise-selection",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
