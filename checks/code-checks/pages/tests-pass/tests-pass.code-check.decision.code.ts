@@ -210,7 +210,7 @@ export function refusedOf(ran: Ran, named: readonly string[], first: string): Ju
 
 const PHASE = "test"
 
-function costsKept(root: string, each: readonly Spent[], baselineBytes: number | null): undefined {
+function costsKept(root: string, each: readonly Spent[]): undefined {
   const runId = Bun.randomUUIDv7()
   for (const one of each) {
     const page = pageOf(one.path)
@@ -229,7 +229,6 @@ function costsKept(root: string, each: readonly Spent[], baselineBytes: number |
           cpuSeconds: one.cpuSeconds,
           peakBytes: one.peakBytes,
           peakMeasured: one.peakMeasured,
-          baselineBytes,
           refusals: clean ? 0 : 1,
         })
       )
@@ -249,11 +248,11 @@ export function refusalsOver(given: Change, shadow: Shadow): readonly Judged[] {
   const bodies = bodiesOf(change, shadow)
   if (measuring()) {
     const each = spentOver(change.root, named, bodies)
-    costsKept(change.root, each.spent, each.baselineBytes)
-    return [{ path: first, reason: spentlyOf(each.spent) }]
+    costsKept(change.root, each)
+    return [{ path: first, reason: spentlyOf(each) }]
   }
   const found = ranOver(change.root, named, named.length, null, bodies)
-  costsKept(change.root, found.spent, found.baselineBytes)
+  costsKept(change.root, found.spent)
   if (found.verdict === "pass") return []
   const said = { ...found, output: spelledIn(found.output, change.root) }
   return [refusedOf(said, named, first)]

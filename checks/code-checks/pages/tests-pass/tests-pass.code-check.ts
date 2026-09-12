@@ -264,10 +264,6 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
-      statement: "Every file of one run is recorded against the one memory that run measured.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Each file is recorded as the run of that file says its peak was measured.",
     },
     {

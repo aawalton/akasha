@@ -38,13 +38,4 @@ export const SWELLS =
   "  held.fill(1)\n" +
   "  expect(held[0]).toBe(1) })\n"
 
-export const LOADED = "akasha/loaded.log"
-
-export const COUNTS =
-  'import { appendFileSync } from "node:fs"\n' +
-  'import { join } from "node:path"\n' +
-  'import { expect, test } from "bun:test"\n' +
-  'appendFileSync(join(import.meta.dir, "loaded.log"), "one\\n")\n' +
-  'test("one", () => { expect(1).toBe(1) })\n'
-
 export const WEB_BUNFIG = "akasha/web/bunfig.toml"

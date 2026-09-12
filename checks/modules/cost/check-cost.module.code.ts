@@ -255,12 +255,10 @@ export type Spawned = {
   readonly cpuSeconds: number
   readonly peakBytes: number
   readonly peakMeasured: boolean
-  readonly baselineBytes: number | null
   readonly refusals: number
 }
 
 export function costSpawned(given: Spawned): Cost {
-  const baseline = given.baselineBytes
   return {
     runId: given.runId,
     ranAt: given.ranAt,
@@ -270,8 +268,8 @@ export function costSpawned(given: Spawned): Cost {
     cpuSeconds: 0,
     childCpuSeconds: Number(given.cpuSeconds.toFixed(3)),
     peakBytes: given.peakBytes,
-    residentBeforeBytes: baseline ?? 0,
-    peakAddedBytes: baseline === null ? given.peakBytes : Math.max(given.peakBytes - baseline, 0),
+    residentBeforeBytes: 0,
+    peakAddedBytes: given.peakBytes,
     peakMeasured: given.peakMeasured,
     readCalls: 0,
     writeCalls: 0,

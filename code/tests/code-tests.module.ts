@@ -52,49 +52,6 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A run's answer has the memory the runner reaches before any test of that run runs.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That baseline is measured once for a run rather than once for each file of it.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The baseline is measured over one of the files the run names.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The baseline run carries the preloads and the roots and the overlay the run carries.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The baseline run is named a test name no test carries.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The name that run is named is minted fresh for that run.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A run with no file to measure the baseline over has no baseline.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A baseline run that did not come back clean leaves the run with no baseline.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "What one file spent has that file's whole peak rather than its peak above the baseline.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A caller asking what every file named spent is answered that baseline too.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The clock is read around the run of that one file.",
     },
     {

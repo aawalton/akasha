@@ -20,9 +20,7 @@ import {
 } from "akasha/code/tests/code-tests.module.code.ts"
 import {
   BURNS,
-  COUNTS,
   FAILS,
-  LOADED,
   MARKED,
   NEEDS,
   PASSES,
@@ -258,7 +256,7 @@ check(
   "a file past the ceiling runs to its end and is answered with what that file spent",
   () => {
     const root = repo({ "one.test.ts": PASSES, "slow.test.ts": BURNS })
-    const found = beyondIn(spentOver(root, ["akasha"]).spent, 1)
+    const found = beyondIn(spentOver(root, ["akasha"]), 1)
     expect(found.map((one) => one.path)).toEqual(["akasha/slow.test.ts"])
     expect(found[0]?.cpuSeconds).toBeGreaterThan(1.5)
   },
@@ -274,12 +272,12 @@ check("a run is slow only where a file went past the seconds one file may spend"
 
 check("a file under the ceiling is not answered as over it", () => {
   const root = repo({ "one.test.ts": PASSES })
-  expect(beyondIn(spentOver(root, ["akasha"]).spent)).toEqual([])
+  expect(beyondIn(spentOver(root, ["akasha"]))).toEqual([])
 })
 
 check("a file under the ceiling is still answered with what that file spent", () => {
   const root = repo({ "one.test.ts": PASSES })
-  const found = spentOver(root, ["akasha"]).spent
+  const found = spentOver(root, ["akasha"])
   expect(found.map((one) => one.path)).toEqual(["akasha/one.test.ts"])
   expect(found[0]?.signal).toBeNull()
   expect(found[0]?.cpuSeconds).toBeGreaterThan(0)
@@ -293,32 +291,12 @@ check(
   "two files of one run are each answered the peak that file reached",
   () => {
     const root = repo({ "big.test.ts": SWELLS, "one.test.ts": PASSES })
-    const found = spentOver(root, ["akasha"]).spent
+    const found = spentOver(root, ["akasha"])
     expect(found.map((one) => one.path)).toEqual(["akasha/big.test.ts", "akasha/one.test.ts"])
     const big = found[0]?.peakBytes ?? 0
     const small = found[1]?.peakBytes ?? 0
     expect(big - small).toBeGreaterThan(200e6)
     expect(found[1]?.peakMeasured).toBe(true)
-  },
-  30000
-)
-
-check("a run answers the memory a run of its shape reached before any test of it ran", () => {
-  const root = repo({ "one.test.ts": PASSES })
-  const done = ranOver(root, ["akasha"], 1)
-  expect(done.verdict).toBe("pass")
-  expect(done.baselineBytes).toBeGreaterThan(0)
-})
-
-check(
-  "the baseline is measured once however many files a run names",
-  () => {
-    const root = repo({ "one.test.ts": COUNTS, "two.test.ts": COUNTS })
-    const found = spentOver(root, ["akasha"])
-    expect(found.spent.map((one) => one.path)).toEqual(["akasha/one.test.ts", "akasha/two.test.ts"])
-    expect(found.baselineBytes).toBeGreaterThan(0)
-    const loaded = readFileSync(join(root, LOADED), "utf8").trim().split("\n")
-    expect(loaded.length).toBe(3)
   },
   30000
 )

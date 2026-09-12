@@ -152,24 +152,11 @@ export const checkCost = {
     },
     {
       invariantKind: "departure",
-      statement: "Such a run states the memory the harness around that run holds.",
+      statement: "A child starts holding nothing.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The memory such a run added is that run's peak over the memory that harness holds.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A run peaking under the memory that harness holds added nothing.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A run stating no held memory holds none.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Such a run added its whole peak.",
+      statement: "The memory such a run added is that run's whole peak.",
     },
     {
       invariantKind: "departure",
