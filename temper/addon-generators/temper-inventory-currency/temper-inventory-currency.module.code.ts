@@ -37,7 +37,7 @@ export function generateTemperInventoryCurrency(currencyRows: readonly Page[]): 
 
   const recordLines = sorted.map(
     (c) =>
-      `  ${c.currencyId}: { id: ${JSON.stringify(c.currencyId)} as const, name: ${JSON.stringify(c.title)} },`
+      `  ${JSON.stringify(c.currencyId)}: { id: ${JSON.stringify(c.currencyId)} as const, name: ${JSON.stringify(c.title)} },`
   )
 
   return `\

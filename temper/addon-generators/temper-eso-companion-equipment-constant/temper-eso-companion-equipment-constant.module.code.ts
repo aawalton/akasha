@@ -61,13 +61,13 @@ export function generateTemperEsoCompanionEquipmentConstant(rows: readonly Page[
 
   const equipTypeEntries = equipTypeRows.map((r) => {
     if (r.valueNum === null) throw new Error("unreachable: equip-type valueNum null")
-    return `  ${r.keyText}: ${r.valueNum},`
+    return `  ${JSON.stringify(r.keyText)}: ${r.valueNum},`
   })
 
   const qualityEsoToCompanionEntries = qualityEsoToCompanionRows.map((r) => {
     if (r.valueText === null)
       throw new Error("unreachable: quality-eso-to-companion valueText null")
-    return `  ${r.keyText}: ${JSON.stringify(r.valueText)},`
+    return `  ${JSON.stringify(r.keyText)}: ${JSON.stringify(r.valueText)},`
   })
 
   const qualityCompanionToEsoEntries = qualityCompanionToEsoRows.map((r) => {

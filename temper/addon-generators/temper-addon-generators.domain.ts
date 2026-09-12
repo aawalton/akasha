@@ -127,6 +127,10 @@ export const temperAddonGenerators = {
     },
     {
       invariantKind: "departure",
+      statement: "A key a generator renders is written as a string literal rather than bare.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Where a rendered file lands is settled by the caller.",
     },
     {

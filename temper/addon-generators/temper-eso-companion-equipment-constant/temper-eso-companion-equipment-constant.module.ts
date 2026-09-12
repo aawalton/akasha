@@ -6,4 +6,5 @@ export const temperEsoCompanionEquipmentConstant = {
   slug: "temper-eso-companion-equipment-constant",
   definition: "the eso companion equipment constants data file, rendered from pages",
   code: "ts",
+  test: "ts",
 } as const satisfies Module

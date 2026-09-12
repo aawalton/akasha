@@ -6,4 +6,5 @@ export const temperInventoryCurrency = {
   slug: "temper-inventory-currency",
   definition: "the inventory currencies data file, rendered from pages",
   code: "ts",
+  test: "ts",
 } as const satisfies Module
