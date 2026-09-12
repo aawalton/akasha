@@ -20,7 +20,7 @@ import {
   SAVED_VARIABLES_DEFAULTS,
   type SavedVariablesData,
 } from "akasha/temper/items-addon/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
-import { isCharacterLocationRow } from "akasha/temper/items-core/location-character-row/location-character-row.module.code.ts"
+import { isCharacterLocationRow } from "akasha/temper/items-core/modules/location-character-row/location-character-row.module.code.ts"
 export function initializeSavedVariables(): SavedVariablesData {
   const defaults: Record<string, unknown> = { ...SAVED_VARIABLES_DEFAULTS }
   const created: unknown = ZO_SavedVars.NewAccountWide(SAVED_VARIABLES_NAME, 1, undefined, defaults)

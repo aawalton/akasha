@@ -1,4 +1,4 @@
-import { createLogger } from "akasha/temper/addon-log/library-logger/library-logger.module.code.ts"
+import { createLogger } from "akasha/temper/addon-log/modules/library-logger/library-logger.module.code.ts"
 import { asLib } from "akasha/temper/lib-gps/modules/gps-casts/gps-casts.module.code.ts"
 import {
   BLACKREACH_ROOT_MAP_INDEX,

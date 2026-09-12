@@ -1,9 +1,9 @@
-import type { LocationTypeId } from "akasha/temper/items-core/location-type-data/location-type-data.module.code.ts"
 import { ESO_BAG_WORN } from "akasha/temper/items-core/modules/eso-bag-constants/eso-bag-constants.module.code.ts"
 import type {
   ItemCentricEntry,
   ItemLocationEntry,
 } from "akasha/temper/items-core/modules/item-centric-inventory/item-centric-inventory.module.code.ts"
+import type { LocationTypeId } from "akasha/temper/items-core/modules/location-type-data/location-type-data.module.code.ts"
 export interface LocationTooltipLine {
   readonly text: string
 }

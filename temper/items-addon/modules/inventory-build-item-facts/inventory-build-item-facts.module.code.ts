@@ -18,7 +18,7 @@ import {
   isItemKnown,
   isKnowledgeItemLink,
 } from "akasha/temper/items-addon/modules/inventory-rules-core-overrides/inventory-rules-core-overrides.module.code.ts"
-import { locationConditionFromKeyAndBag } from "akasha/temper/items-core/location-condition/location-condition.module.code.ts"
+import { locationConditionFromKeyAndBag } from "akasha/temper/items-core/modules/location-condition/location-condition.module.code.ts"
 import { resolvePotionRestoreMetricIds } from "akasha/temper/items-rules-core/potion-restore-resolve/potion-restore-resolve.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/modules/item-facts/item-facts.module.code.ts"
 export function buildItemFactsForSlot(bagId: number, slotIndex: number): ItemFacts | undefined {

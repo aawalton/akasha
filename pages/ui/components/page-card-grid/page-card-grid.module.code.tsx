@@ -1,6 +1,6 @@
 "use client"
 
-import { LoadMoreButton } from "akasha/design/interfaces/layout/load-more-button/load-more-button.module.code.tsx"
+import { LoadMoreButton } from "akasha/design/interfaces/layout/modules/load-more-button/load-more-button.module.code.tsx"
 import { PanelDefaultOpenProvider } from "akasha/design/interfaces/layout/panel-default-open-context/panel-default-open-context.module.code.tsx"
 import { useColumnCount } from "akasha/design/interfaces/layout/use-column-count/use-column-count.module.code.tsx"
 import { useLoadMore } from "akasha/design/interfaces/layout/use-load-more/use-load-more.module.code.ts"

@@ -8,11 +8,11 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interfaces/primitives/select-control/select-control.module.code.tsx"
-import { classifyLocation } from "akasha/temper/items-core/location-classify/location-classify.module.code.ts"
+import { classifyLocation } from "akasha/temper/items-core/modules/location-classify/location-classify.module.code.ts"
 import {
   type LocationTypeId,
   locationTypes,
-} from "akasha/temper/items-core/location-type-data/location-type-data.module.code.ts"
+} from "akasha/temper/items-core/modules/location-type-data/location-type-data.module.code.ts"
 import { ChevronRight } from "lucide-react"
 import { useMemo } from "react"
 

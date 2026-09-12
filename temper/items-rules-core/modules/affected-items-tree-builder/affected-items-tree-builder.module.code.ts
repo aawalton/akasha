@@ -1,8 +1,3 @@
-import { classifyLocation } from "akasha/temper/items-core/location-classify/location-classify.module.code.ts"
-import {
-  type LocationTypeId,
-  locationTypes,
-} from "akasha/temper/items-core/location-type-data/location-type-data.module.code.ts"
 import { classifyItem } from "akasha/temper/items-core/modules/classify-item/classify-item.module.code.ts"
 import { ESO_BAG_WORN } from "akasha/temper/items-core/modules/eso-bag-constants/eso-bag-constants.module.code.ts"
 import { computeValue } from "akasha/temper/items-core/modules/inventory-display-value/inventory-display-value.module.code.ts"
@@ -12,6 +7,11 @@ import {
 } from "akasha/temper/items-core/modules/inventory-grouping-types/inventory-grouping-types.module.code.ts"
 import type { InventoryNode } from "akasha/temper/items-core/modules/inventory-node-types/inventory-node-types.module.code.ts"
 import { buildInventoryTypeNodes } from "akasha/temper/items-core/modules/inventory-type-tree-builder/inventory-type-tree-builder.module.code.ts"
+import { classifyLocation } from "akasha/temper/items-core/modules/location-classify/location-classify.module.code.ts"
+import {
+  type LocationTypeId,
+  locationTypes,
+} from "akasha/temper/items-core/modules/location-type-data/location-type-data.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 

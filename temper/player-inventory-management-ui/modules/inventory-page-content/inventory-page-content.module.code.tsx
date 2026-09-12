@@ -1,6 +1,6 @@
 "use client"
 
-import { ListContentSkeleton } from "akasha/design/interfaces/layout/list-content-skeleton/list-content-skeleton.module.code.tsx"
+import { ListContentSkeleton } from "akasha/design/interfaces/layout/modules/list-content-skeleton/list-content-skeleton.module.code.tsx"
 import {
   PageLayout,
   PageTitle,

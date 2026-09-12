@@ -1,4 +1,4 @@
-import type { LocationTypeId } from "akasha/temper/items-core/location-type-data/location-type-data.module.code.ts"
+import type { LocationTypeId } from "akasha/temper/items-core/modules/location-type-data/location-type-data.module.code.ts"
 import type {
   ItemAction,
   MoveToDestination,

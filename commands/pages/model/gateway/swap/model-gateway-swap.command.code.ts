@@ -23,7 +23,7 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { liveSeats } from "akasha/commands/pages/model/gateway/live-gateway-seats/live-gateway-seats.module.code.ts"
+import { liveSeats } from "akasha/commands/pages/model/gateway/modules/live-gateway-seats/live-gateway-seats.module.code.ts"
 import { modelGatewaySwap as page } from "akasha/commands/pages/model/gateway/swap/model-gateway-swap.command.ts"
 import { pidAliveOrRefuse } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
 

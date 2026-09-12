@@ -17,7 +17,7 @@ import {
   longWhole,
   tooWideRead,
   wholeNumbered,
-} from "akasha/commands/pages/read/long-answering/long-answering.module.test-fixtures.ts"
+} from "akasha/commands/pages/read/modules/long-answering/long-answering.module.test-fixtures.ts"
 import {
   ANSWER_CEILING,
   costOf,

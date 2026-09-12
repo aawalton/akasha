@@ -1,7 +1,7 @@
 "use client"
 
 import type { PageWhere } from "akasha/pages/core/page-types/page-types.module.code.ts"
-import type { ListingConfig } from "akasha/pages/core/schema/listing-config/listing-config.module.code.ts"
+import type { ListingConfig } from "akasha/pages/core/schema/modules/listing-config/listing-config.module.code.ts"
 import type { ViewDataJSON } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import { resolveListingViewData } from "akasha/pages/ui/components/resolve-listing-config/resolve-listing-config.module.code.ts"
 import { useDescendantListing } from "akasha/pages/ui/components/use-descendant-pages/use-descendant-pages.module.code.ts"

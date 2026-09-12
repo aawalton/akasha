@@ -13,8 +13,8 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { seatSupervisorRestart as page } from "akasha/commands/pages/seat/supervisor/restart/seat-supervisor-restart.command.ts"
-import type { Holder } from "akasha/files/lock-holder/lock-holder.module.code.ts"
-import { alive } from "akasha/files/lock-holder/lock-holder.module.code.ts"
+import type { Holder } from "akasha/files/modules/lock-holder/lock-holder.module.code.ts"
+import { alive } from "akasha/files/modules/lock-holder/lock-holder.module.code.ts"
 import {
   everyOfType,
   typeSlugOf,

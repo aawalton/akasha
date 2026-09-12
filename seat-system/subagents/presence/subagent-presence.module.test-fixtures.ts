@@ -5,7 +5,7 @@ import {
   seatEditsAt,
   seatRefusalsAt,
 } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
-import { startedAt } from "akasha/files/lock-holder/lock-holder.module.code.ts"
+import { startedAt } from "akasha/files/modules/lock-holder/lock-holder.module.code.ts"
 import {
   holding,
   LOCK_AT,

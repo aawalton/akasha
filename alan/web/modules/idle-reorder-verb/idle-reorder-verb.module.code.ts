@@ -1,6 +1,6 @@
-import { reorderTeam } from "akasha/alan/web/lineup-slots-draft/lineup-slots-draft.module.code.ts"
 import { idleGameStore } from "akasha/alan/web/modules/idle-game-store/idle-game-store.module.code.ts"
 import { IDLE_REORDER_VERB_ID } from "akasha/alan/web/modules/idle-lineup-view-config/idle-lineup-view-config.module.code.ts"
+import { reorderTeam } from "akasha/alan/web/modules/lineup-slots-draft/lineup-slots-draft.module.code.ts"
 import {
   type ReorderVerbContext,
   registerReorderVerb,

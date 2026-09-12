@@ -1,16 +1,16 @@
-import {
-  classifyLocation,
-  getLocationDisplayName,
-} from "akasha/temper/items-core/location-classify/location-classify.module.code.ts"
-import {
-  type LocationTypeId,
-  locationTypes,
-} from "akasha/temper/items-core/location-type-data/location-type-data.module.code.ts"
 import { ESO_BAG_WORN } from "akasha/temper/items-core/modules/eso-bag-constants/eso-bag-constants.module.code.ts"
 import type {
   InventoryDatabase,
   InventoryItemData,
 } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
+import {
+  classifyLocation,
+  getLocationDisplayName,
+} from "akasha/temper/items-core/modules/location-classify/location-classify.module.code.ts"
+import {
+  type LocationTypeId,
+  locationTypes,
+} from "akasha/temper/items-core/modules/location-type-data/location-type-data.module.code.ts"
 
 export interface ItemLocationEntry {
   locationKey: string

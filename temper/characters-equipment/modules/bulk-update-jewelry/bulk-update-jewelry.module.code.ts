@@ -1,5 +1,5 @@
-import type { Loadout } from "akasha/temper/characters-equipment/loadout-types/loadout-types.module.code.ts"
 import type { JewelryEnchantId } from "akasha/temper/characters-equipment/modules/jewelry-enchants/jewelry-enchants.module.code.ts"
+import type { Loadout } from "akasha/temper/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
 import { isSetValidForSlot } from "akasha/temper/characters-equipment/set-pattern-matcher/set-pattern-matcher.module.code.ts"
 import type { JewelryTraitId } from "akasha/temper/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"
 import type { SetId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"

@@ -2,11 +2,11 @@
 
 import { groupByCount } from "akasha/temper/build-support/row-grouping/row-grouping.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
-import type { WeaponBars } from "akasha/temper/characters-equipment/loadout-types/loadout-types.module.code.ts"
 import {
   bulkUpdateAllQuality,
   bulkUpdateAllSets,
 } from "akasha/temper/characters-equipment/modules/bulk-update-functions/bulk-update-functions.module.code.ts"
+import type { WeaponBars } from "akasha/temper/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
 import {
   getMythicSlots,
   getWeaponMythicSlots,

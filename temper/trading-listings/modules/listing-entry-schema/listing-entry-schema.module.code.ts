@@ -1,0 +1,19 @@
+import { assertSchemaMatchesPayload } from "akasha/temper/capture-host/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
+import type { ListingEntry } from "akasha/temper/trading-listings/modules/listing-types/listing-types.module.code.ts"
+import { z } from "zod"
+
+const listingEntrySchema = z
+  .object({
+    itemLink: z.string(),
+    itemName: z.string(),
+    stackCount: z.number(),
+    price: z.number(),
+    pricePerUnit: z.number(),
+    sellerName: z.string(),
+    timeRemaining: z.number(),
+    quality: z.number(),
+    capturedAt: z.number(),
+  })
+  .strict()
+
+assertSchemaMatchesPayload<typeof listingEntrySchema, ListingEntry>()

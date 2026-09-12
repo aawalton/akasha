@@ -1,6 +1,6 @@
 "use client"
 
-import { parseListingConfig } from "akasha/pages/core/schema/listing-config/listing-config.module.code.ts"
+import { parseListingConfig } from "akasha/pages/core/schema/modules/listing-config/listing-config.module.code.ts"
 import {
   isLocked,
   isPageTypeLocked,

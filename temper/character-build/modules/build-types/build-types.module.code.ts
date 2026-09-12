@@ -10,7 +10,7 @@ import type { FoodOrDrinkId } from "akasha/temper/character-sources/modules/food
 import type { MundusId } from "akasha/temper/character-sources/mundus-source/mundus-source.module.code.ts"
 import type { TargetArmorId } from "akasha/temper/character-sources/target-armors/target-armors.module.code.ts"
 import type { VampireStageId } from "akasha/temper/character-sources/vampire-stages/vampire-stages.module.code.ts"
-import type { Loadout } from "akasha/temper/characters-equipment/loadout-types/loadout-types.module.code.ts"
+import type { Loadout } from "akasha/temper/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
 import type { BuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
 import type { RaceId } from "akasha/temper/races/races/races.module.code.ts"

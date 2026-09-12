@@ -1,7 +1,6 @@
 "use client"
 
 import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
-import type { LocationTypeId } from "akasha/temper/items-core/location-type-data/location-type-data.module.code.ts"
 import { classifyItem } from "akasha/temper/items-core/modules/classify-item/classify-item.module.code.ts"
 import {
   ESO_BAG_BACKPACK,
@@ -22,6 +21,7 @@ import type {
   CurrencyBalances,
   InventoryCurrencies,
 } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
+import type { LocationTypeId } from "akasha/temper/items-core/modules/location-type-data/location-type-data.module.code.ts"
 import {
   InventoryPanelCard,
   type InventorySortMode,

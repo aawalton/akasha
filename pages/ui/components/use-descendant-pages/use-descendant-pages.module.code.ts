@@ -11,7 +11,7 @@ import type { Page, PageWhere } from "akasha/pages/core/page-types/page-types.mo
 import {
   type ListingConfig,
   listingIncludesDescendants,
-} from "akasha/pages/core/schema/listing-config/listing-config.module.code.ts"
+} from "akasha/pages/core/schema/modules/listing-config/listing-config.module.code.ts"
 import { resolveDescendantPageTypeIds } from "akasha/pages/core/schema/page-type-inheritance/page-type-inheritance.module.code.ts"
 import type { ViewSort } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import {

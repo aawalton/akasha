@@ -15,7 +15,7 @@ import {
   holderOf,
   markIn,
   startedAt,
-} from "akasha/files/lock-holder/lock-holder.module.code.ts"
+} from "akasha/files/modules/lock-holder/lock-holder.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { partedIn, uncommittedAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { loadedFrom } from "akasha/pages/value/page-value.module.code.ts"

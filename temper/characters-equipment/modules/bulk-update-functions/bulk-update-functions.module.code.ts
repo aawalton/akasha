@@ -1,4 +1,3 @@
-import type { Loadout } from "akasha/temper/characters-equipment/loadout-types/loadout-types.module.code.ts"
 import {
   bulkUpdateArmorQuality,
   bulkUpdateArmorSet,
@@ -11,6 +10,7 @@ import {
   bulkUpdateWeaponQuality,
   bulkUpdateWeaponSet,
 } from "akasha/temper/characters-equipment/modules/bulk-update-weapons/bulk-update-weapons.module.code.ts"
+import type { Loadout } from "akasha/temper/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
 import type { SetId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
 import type { SetTemplate } from "akasha/temper/equipment/set-template/set-template.module.code.ts"
 import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kinds/modules/equipment-qualities/equipment-qualities.module.code.ts"

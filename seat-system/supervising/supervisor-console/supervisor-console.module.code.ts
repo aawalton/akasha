@@ -11,7 +11,7 @@ import { dirname } from "node:path"
 import {
   type LogWriter,
   logWriter,
-} from "akasha/agents/seats/log-days/log-day-writing/log-day-writing.module.code.ts"
+} from "akasha/agents/seats/log-days/modules/log-day-writing/log-day-writing.module.code.ts"
 import { seatNameForAgent } from "akasha/agents/seats/modules/presence-read/seat-presence-read.module.code.ts"
 import { supervisorsRootDir } from "akasha/agents/seats/supervisors/modules/log-path/supervisor-log-path.module.code.ts"
 

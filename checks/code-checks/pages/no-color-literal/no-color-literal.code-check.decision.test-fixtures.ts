@@ -15,7 +15,7 @@ export const ROOT = "/repo"
 
 export const HOME = "checks/code-checks/pages/no-color-literal/"
 
-export const GRANTED_AT = "alan/atlas-web/location-map/location-map.module.code.tsx"
+export const GRANTED_AT = "alan/atlas-web/modules/location-map/location-map.module.code.tsx"
 
 export const CODED_AT = "alan/web/held/held.module.code.ts"
 
@@ -45,7 +45,7 @@ const DESIGN_AT = "design/design.domain.ts"
 
 const CHECK_AT = `${HOME}no-color-literal.code-check.ts`
 
-const MAP_AT = "alan/atlas-web/location-map/location-map.module.ts"
+const MAP_AT = "alan/atlas-web/modules/location-map/location-map.module.ts"
 
 const DESIGN_ID = "01a08843-1c72-7a41-9f0e-1d1a5b4c7f20"
 

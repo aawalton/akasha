@@ -2,13 +2,13 @@
 
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
 import { groupByCount } from "akasha/temper/build-support/row-grouping/row-grouping.module.code.ts"
-import type { WeaponBars } from "akasha/temper/characters-equipment/loadout-types/loadout-types.module.code.ts"
 import {
   bulkUpdateWeaponEnchant,
   bulkUpdateWeaponQuality,
   bulkUpdateWeaponSet,
   bulkUpdateWeaponTrait,
 } from "akasha/temper/characters-equipment/modules/bulk-update-weapons/bulk-update-weapons.module.code.ts"
+import type { WeaponBars } from "akasha/temper/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
 import { getWeaponMythicSlots } from "akasha/temper/characters-equipment/mythic-set-rules/mythic-set-rules.module.code.ts"
 import {
   type WeaponEnchantmentId,

@@ -39,7 +39,7 @@ export default function AppLayout({ loaderData }: Route.ComponentProps) {
   useEffect(() => {
     let cancelled = false
     void import(
-      "akasha/alan/atlas-web/location-capture-client/location-capture-client.module.code.ts"
+      "akasha/alan/atlas-web/modules/location-capture-client/location-capture-client.module.code.ts"
     ).then((m) => {
       if (!cancelled) void m.startLocationCapture()
     })

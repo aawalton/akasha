@@ -1,7 +1,7 @@
 "use client"
 
 import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
-import { getLocalPositionReader } from "akasha/pages/ui/components/local-position-port/local-position-port.module.code.ts"
+import { getLocalPositionReader } from "akasha/pages/ui/components/modules/local-position-port/local-position-port.module.code.ts"
 import { PageDetailHeaderMenu } from "akasha/pages/ui/components/page-detail-header-menu/page-detail-header-menu.module.code.tsx"
 import { useAllPages } from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { usePage } from "akasha/pages/ui/supabase/use-page/use-page.module.code.ts"

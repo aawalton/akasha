@@ -1,4 +1,4 @@
-import { createLogger } from "akasha/temper/addon-log/library-logger/library-logger.module.code.ts"
+import { createLogger } from "akasha/temper/addon-log/modules/library-logger/library-logger.module.code.ts"
 import {
   CALLBACK,
   LIB_IDENTIFIER,

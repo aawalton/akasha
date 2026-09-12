@@ -2,7 +2,7 @@ import type {
   Loadout,
   WeaponSlot,
   WeaponSlotItem,
-} from "akasha/temper/characters-equipment/loadout-types/loadout-types.module.code.ts"
+} from "akasha/temper/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
 import type { SetId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
 import { keysOf } from "akasha/temper/formula-framework/record-parts/record-parts.module.code.ts"
 

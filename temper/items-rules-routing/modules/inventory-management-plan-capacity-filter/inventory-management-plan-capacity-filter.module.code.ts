@@ -1,5 +1,5 @@
-import { getLocationDisplayName } from "akasha/temper/items-core/location-classify/location-classify.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
+import { getLocationDisplayName } from "akasha/temper/items-core/modules/location-classify/location-classify.module.code.ts"
 import { narrowDestination } from "akasha/temper/items-rules-core/modules/inventory-destination-parse/inventory-destination-parse.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"

@@ -1,7 +1,7 @@
 import { readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { holderProcessRuns } from "akasha/files/lock-holder-runs/lock-holder-runs.module.code.ts"
 import { HARNESS_LANDING_LOCK } from "akasha/files/modules/git-place/git-place.module.code.ts"
+import { holderProcessRuns } from "akasha/files/modules/lock-holder-runs/lock-holder-runs.module.code.ts"
 import { gitDirIn } from "akasha/git/modules/dir/git-dir.module.code.ts"
 import { pause } from "akasha/utils/waiting/thread-pause/thread-pause.module.code.ts"
 

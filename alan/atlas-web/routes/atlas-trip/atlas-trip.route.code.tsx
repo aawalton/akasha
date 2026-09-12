@@ -1,4 +1,4 @@
-import { LocationMap } from "akasha/alan/atlas-web/location-map/location-map.module.code.tsx"
+import { LocationMap } from "akasha/alan/atlas-web/modules/location-map/location-map.module.code.tsx"
 import {
   TIME_BUCKET_TOKENS,
   type TimeBucket,

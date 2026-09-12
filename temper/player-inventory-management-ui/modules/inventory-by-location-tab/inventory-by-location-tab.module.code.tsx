@@ -12,10 +12,6 @@ import {
 } from "akasha/design/interfaces/patterns/modules/empty/empty.module.code.tsx"
 import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
-import {
-  type LocationTypeId,
-  locationTypes,
-} from "akasha/temper/items-core/location-type-data/location-type-data.module.code.ts"
 import { computeCurrencyGoldTotal } from "akasha/temper/items-core/modules/inventory-currencies/inventory-currencies.module.code.ts"
 import {
   filterInventoryGroups,
@@ -27,6 +23,10 @@ import type {
   InventoryCurrencies,
   InventoryDatabase,
 } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
+import {
+  type LocationTypeId,
+  locationTypes,
+} from "akasha/temper/items-core/modules/location-type-data/location-type-data.module.code.ts"
 import { InventoryLocationSummaryPanelCard } from "akasha/temper/player-inventory-management-ui/modules/inventory-location-summary-panel-card/inventory-location-summary-panel-card.module.code.tsx"
 import {
   InventoryLocationTypePanelCard,

@@ -6,7 +6,7 @@ import {
   folds,
   refuses,
 } from "akasha/utils/narrow/modules/collapse/collapse.module.code.ts"
-import { resolveMappedLibc } from "akasha/utils/process/libc-mapping/libc-mapping.module.code.ts"
+import { resolveMappedLibc } from "akasha/utils/process/modules/libc-mapping/libc-mapping.module.code.ts"
 import {
   errnoCodeOf,
   readPidSignal,

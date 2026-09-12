@@ -17,7 +17,7 @@ import { infrastructureLoki as page } from "akasha/commands/pages/infrastructure
 import {
   chooseLogsDiagnostic,
   describeBounds,
-} from "akasha/infrastructure/services/clusters/log-bound-saying/log-bound-saying.module.code.ts"
+} from "akasha/infrastructure/services/clusters/modules/log-bound-saying/log-bound-saying.module.code.ts"
 import {
   fetchAllLokiLogs,
   fetchLokiLogs,
@@ -27,7 +27,7 @@ import {
   type LogEntry,
   parseLokiDuration,
   parseLokiPositiveInt,
-} from "akasha/infrastructure/services/clusters/loki-log-fetching/loki-log-fetching.module.code.ts"
+} from "akasha/infrastructure/services/clusters/modules/loki-log-fetching/loki-log-fetching.module.code.ts"
 
 export type Read =
   | {

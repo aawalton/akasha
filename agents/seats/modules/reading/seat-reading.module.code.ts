@@ -1,5 +1,5 @@
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { alive, type Holder } from "akasha/files/lock-holder/lock-holder.module.code.ts"
+import { alive, type Holder } from "akasha/files/modules/lock-holder/lock-holder.module.code.ts"
 import {
   everyOfType,
   typeSlugOf,

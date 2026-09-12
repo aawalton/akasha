@@ -1,6 +1,6 @@
-import { removeFromTeam } from "akasha/alan/web/lineup-slots-draft/lineup-slots-draft.module.code.ts"
 import { IDLE_REMOVE_VERB_ID } from "akasha/alan/web/modules/idle-card-page-type/idle-card-page-type.module.code.ts"
 import { idleGameStore } from "akasha/alan/web/modules/idle-game-store/idle-game-store.module.code.ts"
+import { removeFromTeam } from "akasha/alan/web/modules/lineup-slots-draft/lineup-slots-draft.module.code.ts"
 import {
   type ActionVerbContext,
   registerActionVerb,

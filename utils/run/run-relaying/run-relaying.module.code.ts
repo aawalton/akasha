@@ -4,7 +4,7 @@ import { join } from "node:path"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { ownRepoRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { resolveMappedLibc } from "akasha/utils/process/libc-mapping/libc-mapping.module.code.ts"
+import { resolveMappedLibc } from "akasha/utils/process/modules/libc-mapping/libc-mapping.module.code.ts"
 import type { Asked, Held } from "akasha/utils/run/running/running.module.code.ts"
 
 export const SERVING_MARKER = "AKASHA_RUN_SERVING"

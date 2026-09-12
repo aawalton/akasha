@@ -43,7 +43,7 @@ import "akasha/temper/lib-sets/modules/lib-sets-core-lifecycle-inventory-context
 import "akasha/temper/lib-sets/modules/lib-sets-core-lifecycle-slash-commands/lib-sets-core-lifecycle-slash-commands.module.code.ts"
 import "akasha/temper/lib-sets/modules/lib-sets-core-lifecycle-loaded/lib-sets-core-lifecycle-loaded.module.code.ts"
 
-import "akasha/temper/lib-sets/lib-sets-tip-tooltips-index/lib-sets-tip-tooltips-index.module.code.ts"
+import "akasha/temper/lib-sets/modules/lib-sets-tip-tooltips-index/lib-sets-tip-tooltips-index.module.code.ts"
 
 import "akasha/temper/lib-sets/modules/lib-sets-auto-autocompletion/lib-sets-auto-autocompletion.module.code.ts"
 

@@ -1,7 +1,7 @@
 import type {
   Loadout,
   WeaponSlot,
-} from "akasha/temper/characters-equipment/loadout-types/loadout-types.module.code.ts"
+} from "akasha/temper/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
 import {
   getWeaponItem,
   isShieldSlot,

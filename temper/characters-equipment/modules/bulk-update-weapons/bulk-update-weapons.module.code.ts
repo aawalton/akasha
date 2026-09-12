@@ -1,7 +1,7 @@
 import type {
   Loadout,
   WeaponBars,
-} from "akasha/temper/characters-equipment/loadout-types/loadout-types.module.code.ts"
+} from "akasha/temper/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
 import { isSetValidForSlot } from "akasha/temper/characters-equipment/set-pattern-matcher/set-pattern-matcher.module.code.ts"
 import type { WeaponEnchantmentId } from "akasha/temper/characters-equipment/weapon-enchants/weapon-enchants.module.code.ts"
 import {

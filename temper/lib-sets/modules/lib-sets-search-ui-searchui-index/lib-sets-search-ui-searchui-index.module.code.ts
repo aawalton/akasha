@@ -7,9 +7,9 @@ import "akasha/temper/lib-sets/modules/lib-sets-search-ui-shared-prefilter/lib-s
 import "akasha/temper/lib-sets/modules/lib-sets-search-ui-shared-tooltip-favorites/lib-sets-search-ui-shared-tooltip-favorites.module.code.ts"
 import "akasha/temper/lib-sets/modules/lib-sets-search-ui-shared-rowmenu/lib-sets-search-ui-shared-rowmenu.module.code.ts"
 import "akasha/temper/lib-sets/modules/lib-sets-search-ui-shared-contextmenu/lib-sets-search-ui-shared-contextmenu.module.code.ts"
-import "akasha/temper/lib-sets/lib-sets-search-ui-shared-xml-handlers/lib-sets-search-ui-shared-xml-handlers.module.code.ts"
+import "akasha/temper/lib-sets/modules/lib-sets-search-ui-shared-xml-handlers/lib-sets-search-ui-shared-xml-handlers.module.code.ts"
 
-import "akasha/temper/lib-sets/lib-sets-search-ui-xml-api/lib-sets-search-ui-xml-api.module.code.ts"
+import "akasha/temper/lib-sets/modules/lib-sets-search-ui-xml-api/lib-sets-search-ui-xml-api.module.code.ts"
 
 import "akasha/temper/lib-sets/modules/lib-sets-search-ui-list-class/lib-sets-search-ui-list-class.module.code.ts"
 import "akasha/temper/lib-sets/modules/lib-sets-search-ui-list-keyboard/lib-sets-search-ui-list-keyboard.module.code.ts"
