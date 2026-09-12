@@ -41,6 +41,8 @@ const itemSchema = z
     locked: z.boolean().optional(),
     crafted: z.boolean().optional(),
     known: z.boolean().optional(),
+    junk: z.boolean().optional(),
+    junkable: z.boolean().optional(),
   })
   .strict()
 

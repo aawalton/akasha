@@ -58,6 +58,8 @@ export interface InventoryItemData {
   locked?: boolean
   crafted?: boolean
   known?: boolean
+  junk?: boolean
+  junkable?: boolean
 }
 
 export interface PlacedFurnishingData {

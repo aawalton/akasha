@@ -6,4 +6,14 @@ export const inventoryTypes = {
   slug: "inventory-types",
   definition: "what an inventory has and the item numbers the game gives",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "An item carries the game's junk state as `junk` and `junkable`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A capture taken before a field was recorded leaves that field off the item.",
+    },
+  ],
 } as const satisfies Module

@@ -125,6 +125,8 @@ export function parseItem(raw: unknown): InventoryItemData | undefined {
   if (typeof item.known === "boolean") parsed.known = item.known
   if (typeof item.crafted === "boolean") parsed.crafted = item.crafted
   if (typeof item.isContainer === "boolean") parsed.isContainer = item.isContainer
+  if (typeof item.junk === "boolean") parsed.junk = item.junk
+  if (typeof item.junkable === "boolean") parsed.junkable = item.junkable
 
   const merchantValue = asOptionalNumber(item.merchantValue)
   if (merchantValue !== undefined) parsed.merchantValue = merchantValue

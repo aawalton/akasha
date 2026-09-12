@@ -137,6 +137,8 @@ export function extractItemData(bagId: number, slotIndex: number): ItemData | un
   result.reconstructed = IsItemReconstructed(bagId, slotIndex)
   result.transmuted = GetItemTraitInformation(bagId, slotIndex) === ITEM_TRAIT_INFORMATION_RETRAITED
   result.locked = isItemLocked(bagId, slotIndex)
+  result.junk = IsItemJunk(bagId, slotIndex)
+  result.junkable = CanItemBeMarkedAsJunk(bagId, slotIndex)
   result.crafted = isItemLinkCraftedSafe(itemLink, itemType)
   if (itemType === ITEMTYPE_RECIPE) {
     result.known = IsItemLinkRecipeKnown(itemLink)
