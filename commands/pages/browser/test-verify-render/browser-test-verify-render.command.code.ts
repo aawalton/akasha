@@ -1,9 +1,4 @@
 import {
-  countIn,
-  missingOf,
-  wordsIn,
-} from "akasha/code/browser/commands/browser-command-arguing/browser-command-arguing.module.code.ts"
-import {
   classifyExpectedText,
   decideDiscriminatingSignal,
   isRetryableSessionOpenTimeout,
@@ -30,54 +25,67 @@ import {
   createReadOnlyRealUserHarness,
   createReadOnlyThrowawayHarness,
 } from "akasha/code/browser/test-harness/read-only-harness/read-only-harness.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { asThrowaway } from "akasha/commands/arguments/pages/as-throwaway.argument.ts"
+import { expectAttr } from "akasha/commands/arguments/pages/expect-attr.argument.ts"
+import { expectAttrMode } from "akasha/commands/arguments/pages/expect-attr-mode.argument.ts"
+import { expectAttrSelector } from "akasha/commands/arguments/pages/expect-attr-selector.argument.ts"
+import { expectAttrValue } from "akasha/commands/arguments/pages/expect-attr-value.argument.ts"
+import { expectCount } from "akasha/commands/arguments/pages/expect-count.argument.ts"
+import { expectCountSelector } from "akasha/commands/arguments/pages/expect-count-selector.argument.ts"
+import { expectText } from "akasha/commands/arguments/pages/expect-text.argument.ts"
+import { expectTitle } from "akasha/commands/arguments/pages/expect-title.argument.ts"
+import { hydrationSelector } from "akasha/commands/arguments/pages/hydration-selector.argument.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { noSignIn } from "akasha/commands/arguments/pages/no-sign-in.argument.ts"
+import { pageType } from "akasha/commands/arguments/pages/page-type.argument.ts"
+import { path as pathArgument } from "akasha/commands/arguments/pages/path.argument.ts"
+import { rootSelector } from "akasha/commands/arguments/pages/root-selector.argument.ts"
+import { signInPath as signInPathArgument } from "akasha/commands/arguments/pages/sign-in-path.argument.ts"
+import { timeoutMs } from "akasha/commands/arguments/pages/timeout-ms.argument.ts"
+import { url } from "akasha/commands/arguments/pages/url.argument.ts"
 import { refusedBy } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { browserTestVerifyRender as page } from "akasha/commands/pages/browser/test-verify-render/browser-test-verify-render.command.ts"
 
-const URL_SAID = "--url"
+const EXPECT_TEXT = expectText.said
 
-const PATH_SAID = "--path"
+const COUNT_SELECTOR = expectCountSelector.said
 
-const PAGE_TYPE = "--page-type"
+const COUNT = expectCount.said
 
-const EXPECT_TEXT = "--expect-text"
+const ATTR_SELECTOR = expectAttrSelector.said
 
-const COUNT_SELECTOR = "--expect-count-selector"
+const ATTR = expectAttr.said
 
-const COUNT = "--expect-count"
+const ATTR_VALUE = expectAttrValue.said
 
-const ATTR_SELECTOR = "--expect-attr-selector"
+const URL_SAID = url.said
 
-const ATTR = "--expect-attr"
+const NO_SIGN_IN = noSignIn.said
 
-const ATTR_VALUE = "--expect-attr-value"
+const AS_THROWAWAY = asThrowaway.said
 
-const TIMEOUT = "--timeout-ms"
-
-const JSON_SAID = "--json"
-
-const NO_SIGN_IN = "--no-sign-in"
-
-const AS_THROWAWAY = "--as-throwaway"
-
-const VALUED: readonly string[] = [
-  URL_SAID,
-  PATH_SAID,
-  PAGE_TYPE,
-  EXPECT_TEXT,
-  "--expect-title",
-  COUNT_SELECTOR,
-  COUNT,
-  ATTR_SELECTOR,
-  ATTR,
-  ATTR_VALUE,
-  "--expect-attr-mode",
-  "--root-selector",
-  "--hydration-selector",
-  "--sign-in-path",
-  TIMEOUT,
-]
-
-const SWITCHES: readonly string[] = [JSON_SAID, NO_SIGN_IN, AS_THROWAWAY]
+const TAKES = [
+  asThrowaway,
+  expectAttr,
+  expectAttrMode,
+  expectAttrSelector,
+  expectAttrValue,
+  expectCount,
+  expectCountSelector,
+  expectText,
+  expectTitle,
+  hydrationSelector,
+  json,
+  noSignIn,
+  pageType,
+  pathArgument,
+  rootSelector,
+  signInPathArgument,
+  timeoutMs,
+  url,
+] as const
 
 const DEFAULT_TIMEOUT_MS = 60_000
 
@@ -184,7 +192,7 @@ async function observed(
     readonly timeout: number
   }
 ): Promise<{ readonly observation: RenderObservation; readonly status: number }> {
-  const { page } = session
+  const { page: tab } = session
   const timeout = wanted.timeout
   let ranOut = false
   const missed = (): undefined => {
@@ -194,13 +202,13 @@ async function observed(
 
   let response: Awaited<ReturnType<Session["page"]["goto"]>> = null
   try {
-    response = await page.goto(at, { waitUntil: "domcontentloaded", timeout })
+    response = await tab.goto(at, { waitUntil: "domcontentloaded", timeout })
   } catch (thrown) {
     if (thrown instanceof Error && thrown.name === "TimeoutError") ranOut = true
     else throw thrown
   }
   const status = response?.status() ?? 0
-  const gotoPath = new URL(page.url()).pathname
+  const gotoPath = new URL(tab.url()).pathname
   const initialHtml =
     wanted.expectTitle === undefined ? "" : ((await response?.text().catch(() => "")) ?? "")
 
@@ -215,21 +223,21 @@ async function observed(
         hydrationSelector: wanted.hydrationSelector,
       })
   if (settle.kind === "expect-text") {
-    await page
+    await tab
       .getByText(settle.text, { exact: false })
       .filter({ visible: true })
       .first()
       .waitFor({ state: "visible", timeout })
       .catch(missed)
   } else if (settle.kind === "root-populated") {
-    await page
+    await tab
       .locator(settle.rootSelector)
       .filter({ hasText: /\S/ })
       .first()
       .waitFor({ state: "visible", timeout })
       .catch(missed)
   } else if (settle.kind === "hydration-marker") {
-    await page.locator(settle.selector).first().waitFor({ state: "visible", timeout }).catch(missed)
+    await tab.locator(settle.selector).first().waitFor({ state: "visible", timeout }).catch(missed)
   }
 
   const title = ranOut
@@ -241,38 +249,38 @@ async function observed(
         signInPath: wanted.signInPath,
       })
   if (title !== undefined) {
-    await page
+    await tab
       .waitForFunction(`document.title === ${JSON.stringify(title)}`, undefined, { timeout })
       .catch(() => undefined)
   }
 
-  const bodyText = await page
+  const bodyText = await tab
     .locator("body")
     .innerText()
     .catch(() => "")
-  const rootCount = await page
+  const rootCount = await tab
     .locator(wanted.rootSelector)
     .count()
     .catch(() => 0)
-  const domTitle = await page.title().catch(() => "")
+  const domTitle = await tab.title().catch(() => "")
   const actualCount =
     wanted.countSelector === undefined
       ? 0
-      : await page
+      : await tab
           .locator(wanted.countSelector)
           .count()
           .catch(() => 0)
   const attrFound =
     wanted.attrSelector === undefined
       ? false
-      : (await page
+      : (await tab
           .locator(wanted.attrSelector)
           .count()
           .catch(() => 0)) > 0
   const attrValue =
     wanted.attrSelector === undefined || wanted.attr === undefined || !attrFound
       ? null
-      : await page
+      : await tab
           .locator(wanted.attrSelector)
           .first()
           .getAttribute(wanted.attr)
@@ -282,7 +290,7 @@ async function observed(
     status,
     observation: {
       pageTypeSlug: wanted.pageTypeSlug,
-      signInRedirect: new URL(page.url()).pathname.startsWith(wanted.signInPath),
+      signInRedirect: new URL(tab.url()).pathname.startsWith(wanted.signInPath),
       serverError: status >= SERVER_ERROR_FROM,
       notFound: status === NOT_FOUND,
       renderedNonBlank: bodyText.trim().length > 0,
@@ -308,41 +316,36 @@ async function observed(
   }
 }
 
-export async function browserTestVerifyRender(argv: readonly string[]): Promise<Answer> {
-  const said = wordsIn(argv, VALUED, SWITCHES)
-  if ("refused" in said) return refusedBy(said.refused)
+export async function browserTestVerifyRender(
+  argv: readonly string[],
+  given: Given
+): Promise<Answer> {
+  const read = takenFor(argv, given.calledAs, page, TAKES)
+  if ("refused" in read) return refusedBy(read.refused)
+  const taken = read.taken
 
-  const missing = missingOf(said.named, [URL_SAID, PATH_SAID, PAGE_TYPE])
-  if (missing.length > 0) {
-    return refusedBy([`${missing.join(", ")} must be said, and was not`])
-  }
-  const base = (said.named[URL_SAID] ?? "").replace(/\/+$/, "")
-  const path = said.named[PATH_SAID] ?? ""
-  const pageTypeSlug = said.named[PAGE_TYPE] ?? ""
-
-  const count = countIn(said.named[COUNT], COUNT)
-  const timeoutRead = countIn(said.named[TIMEOUT], TIMEOUT)
-  const bad = [count, timeoutRead].filter((one): one is string => typeof one === "string")
-  if (bad.length > 0) return refusedBy(bad)
+  const base = taken.url.replace(/\/+$/, "")
+  const path = taken.path
+  const pageTypeSlug = taken.pageType
 
   const wanted = {
     pageTypeSlug,
-    expectText: said.named[EXPECT_TEXT],
-    expectTitle: said.named["--expect-title"],
-    countSelector: said.named[COUNT_SELECTOR],
-    count: typeof count === "number" ? count : undefined,
-    attrSelector: said.named[ATTR_SELECTOR],
-    attr: said.named[ATTR],
-    attrValue: said.named[ATTR_VALUE],
-    attrMode: (said.named["--expect-attr-mode"] === CONTAINS_TOKEN
+    expectText: taken.expectText,
+    expectTitle: taken.expectTitle,
+    countSelector: taken.expectCountSelector,
+    count: taken.expectCount,
+    attrSelector: taken.expectAttrSelector,
+    attr: taken.expectAttr,
+    attrValue: taken.expectAttrValue,
+    attrMode: (taken.expectAttrMode === CONTAINS_TOKEN
       ? CONTAINS_TOKEN
       : "equals") as ExpectedAttrMode,
-    rootSelector: said.named["--root-selector"] ?? "main",
-    hydrationSelector: said.named["--hydration-selector"],
-    signInPath: said.named["--sign-in-path"] ?? "/sign-in",
-    timeout: typeof timeoutRead === "number" ? timeoutRead : DEFAULT_TIMEOUT_MS,
+    rootSelector: taken.rootSelector ?? "main",
+    hydrationSelector: taken.hydrationSelector,
+    signInPath: taken.signInPath ?? "/sign-in",
+    timeout: taken.timeoutMs ?? DEFAULT_TIMEOUT_MS,
   }
-  const asJson = said.flags.has(JSON_SAID)
+  const asJson = taken.json
 
   const signal = decideDiscriminatingSignal({
     expectText: wanted.expectText,
@@ -367,8 +370,8 @@ export async function browserTestVerifyRender(argv: readonly string[]): Promise<
   }
 
   const plan = planVerifyRenderSession({
-    noSignIn: said.flags.has(NO_SIGN_IN),
-    asThrowaway: said.flags.has(AS_THROWAWAY),
+    noSignIn: taken.noSignIn,
+    asThrowaway: taken.asThrowaway,
   })
   const at = `${base}${path}`
 
