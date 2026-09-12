@@ -1,10 +1,24 @@
 import { readFile, writeFile } from "node:fs/promises"
 import {
+  type TakenFor,
+  takenFor,
+} from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { alphaMatting as alphaMattingArgument } from "akasha/commands/arguments/pages/alpha-matting.argument.ts"
+import { cutout as cutoutArgument } from "akasha/commands/arguments/pages/cutout.argument.ts"
+import { cutoutOut as cutoutOutArgument } from "akasha/commands/arguments/pages/cutout-out.argument.ts"
+import { flatten as flattenArgument } from "akasha/commands/arguments/pages/flatten.argument.ts"
+import { flattenOut as flattenOutArgument } from "akasha/commands/arguments/pages/flatten-out.argument.ts"
+import { image as imageArgument } from "akasha/commands/arguments/pages/image.argument.ts"
+import { matteOut as matteOutArgument } from "akasha/commands/arguments/pages/matte-out.argument.ts"
+import { rembgSession } from "akasha/commands/arguments/pages/rembg-session.argument.ts"
+import { timeout as timeoutArgument } from "akasha/commands/arguments/pages/timeout.argument.ts"
+import {
   answering,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { inferenceSegment as page } from "akasha/commands/pages/inference/segment/inference-segment.command.ts"
 import {
   ensureOutputDir,
   resolveOutputPath,
@@ -16,52 +30,29 @@ import {
   type SegmentOutput,
 } from "akasha/infrastructure/inference/clients/segment-client/segment-client.module.code.ts"
 import {
-  aloneIn,
-  countAt,
-  heldOr,
   madeOf,
   serviceNamed,
-  wasRefused,
-  wordsIn,
   wroteTo,
 } from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/record/inference-run-record.module.code.ts"
 import { recordInferenceRun } from "akasha/infrastructure/inference/runs/store/inference-run-store.module.code.ts"
 import { sha256Hex } from "akasha/utils/hashing/sha256-hex/sha256-hex.module.code.ts"
 
-const IMAGE = "--image"
-
-const MATTE_OUT = "--matte-out"
-
-const MODEL = "--model"
-
-const CUTOUT = "--cutout"
-
-const CUTOUT_OUT = "--cutout-out"
-
-const FLATTEN = "--flatten"
-
-const FLATTEN_OUT = "--flatten-out"
-
-const ALPHA_MATTING = "--alpha-matting"
-
-const TIMEOUT = "--timeout"
-
-const TAKING = [
-  { said: IMAGE },
-  { said: MATTE_OUT },
-  { said: MODEL },
-  { said: CUTOUT_OUT },
-  { said: FLATTEN },
-  { said: FLATTEN_OUT },
-  { said: TIMEOUT },
+const PAGES = [
+  alphaMattingArgument,
+  cutoutArgument,
+  cutoutOutArgument,
+  flattenArgument,
+  flattenOutArgument,
+  imageArgument,
+  matteOutArgument,
+  rembgSession,
+  timeoutArgument,
 ]
 
-const SWITCHES = [CUTOUT, ALPHA_MATTING]
+type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
 
 const SERVICE = "segment-rembg"
-
-const DEFAULT_MODEL = "birefnet-portrait"
 
 const DEFAULT_TIMEOUT_SEC = 300
 
@@ -92,35 +83,30 @@ export async function wroteEach(
 }
 
 export async function inferenceSegment(argv: readonly string[], given: Given): Promise<Answer> {
-  const said = wordsIn(argv, TAKING, SWITCHES)
-  if (wasRefused(said)) return refusedBy(said.refused)
+  const read = takenFor(argv, given.calledAs, page, PAGES)
+  if ("refused" in read) return refusedBy(read.refused)
+  const taken: Taken = read.taken
 
-  const refusals: string[] = []
-  const loose = heldOr(aloneIn(said, "the image"), refusals) ?? undefined
-  const timeout =
-    heldOr(countAt(said, TIMEOUT, DEFAULT_TIMEOUT_SEC), refusals) ?? DEFAULT_TIMEOUT_SEC
-  const imagePath = said.named[IMAGE] ?? loose
-  if (imagePath === undefined) refusals.push(`this names the image matted, and nothing did`)
-  if (refusals.length > 0 || imagePath === undefined) return refusedBy(refusals)
-
-  const model = said.named[MODEL] ?? DEFAULT_MODEL
-  const alphaMatting = said.flags.has(ALPHA_MATTING)
-  const flatten = said.named[FLATTEN]
-  const cutoutOut = said.named[CUTOUT_OUT]
-  const wantsCutout = said.flags.has(CUTOUT) || cutoutOut !== undefined
+  const timeout = taken.timeout ?? DEFAULT_TIMEOUT_SEC
+  const imagePath = taken.image
+  const model = taken.rembgSession
+  const alphaMatting = taken.alphaMatting
+  const flatten = taken.flatten
+  const cutoutOut = taken.cutoutOut
+  const wantsCutout = taken.cutout || cutoutOut !== undefined
 
   return await answering(async (done) => {
     let inputBytes: Uint8Array
     try {
       inputBytes = await readFile(imagePath)
     } catch {
-      return refusedBy([`\`${IMAGE}\` names \`${imagePath}\`, which will not read`])
+      return refusedBy([`\`${imageArgument.said}\` names \`${imagePath}\`, which will not read`])
     }
 
     const nowMs = Date.now()
-    const mattePath = resolveOutputPath("segment", said.named[MATTE_OUT], nowMs)
+    const mattePath = resolveOutputPath("segment", taken.matteOut, nowMs)
     const cutoutPath = cutoutOut ?? deriveSiblingPath(mattePath, "cutout")
-    const flattenPath = said.named[FLATTEN_OUT] ?? deriveSiblingPath(mattePath, "flat")
+    const flattenPath = taken.flattenOut ?? deriveSiblingPath(mattePath, "flat")
     const reached = serviceNamed(SERVICE)
     const timeoutMs = timeout * SECOND_MS
 
