@@ -2,6 +2,12 @@ import { createHash } from "node:crypto"
 import { copyFile, mkdir, rename, stat, writeFile } from "node:fs/promises"
 import { homedir } from "node:os"
 import { basename, dirname, join } from "node:path"
+import {
+  codeOf,
+  INPUT,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -175,7 +181,7 @@ async function generating(read: Taken, given: Given, report: string[]): Promise<
   if (modelId === undefined) {
     return refused(
       `\`--model\` names \`${modelSaid}\`, which nothing registers — the registered ones are ${MODEL_IDS.join(", ")}`,
-      1
+      INPUT
     )
   }
   const spec = MODELS[modelId]
@@ -202,11 +208,11 @@ async function generating(read: Taken, given: Given, report: string[]): Promise<
     if (loraSaid.includes(",")) {
       return refused(
         `\`--lora-paths\` names one checkpoint, and \`${loraSaid}\` is a comma list of them`,
-        1
+        INPUT
       )
     }
     const held = await staged(at(given, loraSaid), join(homeIn(), "models", "loras"))
-    if ("why" in held) return refused(held.why, 2)
+    if ("why" in held) return refused(held.why, INPUT)
     loraName = held.name
     report.push(`the checkpoint is staged as loras/${loraName}, mixed in at ${loraStrength}`)
   }
@@ -238,16 +244,16 @@ async function generating(read: Taken, given: Given, report: string[]): Promise<
   await mkdir(dirname(outPath), { recursive: true })
   await writeFile(outPath, png)
   report.push(`${png.byteLength} bytes are at ${outPath}, at seed ${seed}`)
-  return { report, refusals: [], code: 0 }
+  return told(report)
 }
 
 export async function inferenceZimage(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+  if ("refused" in read) return refusedBy(read.refused)
   const report: string[] = []
   try {
     return await generating(read, given, report)
   } catch (thrown) {
-    return { report, refusals: [whyOf(thrown)], code: 3 }
+    return { report, refusals: [whyOf(thrown)], code: codeOf(thrown) }
   }
 }
