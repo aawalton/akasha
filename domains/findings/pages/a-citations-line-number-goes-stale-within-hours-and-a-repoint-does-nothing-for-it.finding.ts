@@ -1,9 +1,9 @@
 import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
-export const aFolderMoveRepointsACitationAndLeavesItsLineNumberSoItResolvesToTheWrongLines = {
+export const aCitationsLineNumberGoesStaleWithinHoursAndARepointDoesNothingForIt = {
   id: "01a09666-1ee6-710c-aa9b-78efed47ae79",
   type: "finding",
-  slug: "a-folder-move-repoints-a-citation-and-leaves-its-line-number-so-it-resolves-to-the-wrong-lines",
+  slug: "a-citations-line-number-goes-stale-within-hours-and-a-repoint-does-nothing-for-it",
   domain: "domain/change",
   claim:
     "`move-folder` rewrites path strings inside a finding's prose and never the line number beside them, so a repoint can leave a citation resolving to the wrong lines rather than failing loudly. That the repointing happens is verified. That it has ever produced a wrong line number is not, and no instance was found. What the measurement shows instead is the plainer fault beneath it: of 216 path citations that resolve, 110 carry a line number, and 8 of a sample of 30 point at something other than what the sentence around them says. All 8 were right when written, all 8 drifted with the cited path unchanged and so were never repointed, and 6 of the 8 were written the same day they went wrong.",
