@@ -6,12 +6,7 @@ export const seatStart = {
   slug: "seat-start",
   definition: "the command composing a fresh seat from the slots named after it",
   code: "ts",
-  taking: [
-    {
-      said: "--anthropic-auth-token <token>",
-      takes: "the token the seat launched here signs in with",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -69,5 +64,6 @@ export const seatStart = {
     { argument: "argument/account" },
     { argument: "argument/seat-model" },
     { argument: "argument/anthropic-base-url" },
+    { argument: "argument/anthropic-auth-token" },
   ],
 } as const satisfies Command
