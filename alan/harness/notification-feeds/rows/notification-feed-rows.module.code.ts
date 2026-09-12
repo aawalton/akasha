@@ -2,8 +2,9 @@ import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.co
 import { entriesAt } from "akasha/pages/entries/page-entries.module.code.ts"
 import { ENTRY_CEILING } from "akasha/pages/entry-ceiling/entry-ceiling.module.code.ts"
 import { queueAt } from "akasha/pages/entry-queue/page-entry-queue.module.code.ts"
+import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { partFiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
-import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { everyOfType, listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 
 export const NOTIFICATION_FEED_PAGE_TYPE_SLUG = "notification-feed"
@@ -50,10 +51,8 @@ function rowsFor(page: string): readonly Readonly<Record<string, unknown>>[] {
 }
 
 export function feedPageFor(personSlug: string): string | null {
-  for (const found of valuesOfType(akashaRoot(), NOTIFICATION_FEED_PAGE_TYPE_SLUG)) {
-    if (found.value.person === personSlug) return found.path
-  }
-  return null
+  const listed = listedAt(akashaRoot(), NOTIFICATION_FEED_PAGE_TYPE_SLUG, personSlug)[0]
+  return listed === undefined ? null : listed.path
 }
 
 export async function writeNotification(
@@ -96,11 +95,9 @@ type Held = {
 
 function everyRow(): readonly Held[] {
   const found: Held[] = []
-  for (const one of valuesOfType(akashaRoot(), NOTIFICATION_FEED_PAGE_TYPE_SLUG)) {
-    const feed: Feed = {
-      slug: textAt(one.value, "slug") ?? "",
-      id: textAt(one.value, "id") ?? "",
-    }
+  for (const one of everyOfType(akashaRoot(), NOTIFICATION_FEED_PAGE_TYPE_SLUG)) {
+    const said = partedIn(one.path)
+    const feed: Feed = { slug: said === null ? "" : said.slug, id: one.id }
     for (const row of rowsFor(one.path)) found.push({ feed, row })
   }
   return found
