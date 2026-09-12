@@ -22,11 +22,17 @@ const TRANSCRIPTS_SLUG = "seat-transcript-list"
 
 const TRANSCRIPTS_EXPORT = "seatTranscriptList"
 
+export const TRANSCRIPTS_CALL = {
+  slug: TRANSCRIPTS_SLUG,
+  exported: TRANSCRIPTS_EXPORT,
+  args: [] as readonly string[],
+}
+
 const HOLD_MS = 5_000
 
 let held: { readonly at: number; readonly seats: readonly SeatTranscript[] } | null = null
 
-function parseSeats(answered: unknown): readonly SeatTranscript[] {
+export function parseSeats(answered: unknown): readonly SeatTranscript[] {
   if (
     answered === null ||
     typeof answered !== "object" ||
@@ -57,9 +63,12 @@ export async function readSeatTranscripts(): Promise<readonly SeatTranscript[]> 
   if (held !== null && now - held.at < HOLD_MS) {
     return held.seats
   }
-  const stdout = await callHarness(TRANSCRIPTS_SLUG, TRANSCRIPTS_EXPORT, [], {
-    timeout: CALL_TIMEOUT_MS,
-  })
+  const stdout = await callHarness(
+    TRANSCRIPTS_CALL.slug,
+    TRANSCRIPTS_CALL.exported,
+    TRANSCRIPTS_CALL.args,
+    { timeout: CALL_TIMEOUT_MS }
+  )
   let seats: readonly SeatTranscript[]
   try {
     seats = parseSeats(JSON.parse(stdout))

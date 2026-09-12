@@ -6,6 +6,7 @@ export const transcriptSources = {
   slug: "transcript-sources",
   definition: "where each seat's transcript is, and which subagent transcripts sit beside one",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
