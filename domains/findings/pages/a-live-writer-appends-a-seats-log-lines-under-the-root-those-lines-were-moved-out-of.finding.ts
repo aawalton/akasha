@@ -1,0 +1,12 @@
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
+
+export const aLiveWriterAppendsASeatsLogLinesUnderTheRootThoseLinesWereMovedOutOf = {
+  id: "01a09591-b374-75fb-9354-d734a8c435d8",
+  type: "finding",
+  slug: "a-live-writer-appends-a-seats-log-lines-under-the-root-those-lines-were-moved-out-of",
+  domain: "domain/seat-system",
+  claim:
+    "A writer that was running when `seats` and `seat-log-days` moved under `agents` still resolves its sidecar path against `seat-system`, so it appends a page's lines to a folder that holds no page. Nothing reads them, and the part numbering has forked: one `part2` is written at each root with different contents, and a `part3` exists only at the root the page left. The folders it writes into are three of the forty `folder-matches-a-shape` refuses, which is how this was seen.",
+  evidence:
+    "The page `oauth-proxy-console-athena-2026-09-12.seat-log-day.ts` sits at `agents/seats/log-days/pages/oauth-proxy-console-athena-2026-09-12/`, beside `lines.uncommitted.jsonl` at 8,388,539 bytes and `lines.part2.uncommitted.jsonl` at 5,978,491 bytes, last written 05:08:20.\\n\\nUnder the root the page left, `seat-system/seat-log-days/pages/oauth-proxy-console-athena-2026-09-12/` holds no page and two sidecars: `lines.part2.uncommitted.jsonl` at 2,410,069 bytes, last written 05:59:55, and `lines.part3.uncommitted.jsonl` at 903,794 bytes, last written 06:21:22, which was the moment of looking. So the writing is live rather than left over, and the second `part2` is a second file of that name rather than the same file.\\n\\nTwo seat folders are in the same state, both stopped rather than live: `seat-system/seats/pages/athena/athena.seat.entries.part2.uncommitted.jsonl`, 754 bytes at 04:52:44, and `seat-system/seats/pages/ryn/ryn.seat.entries.uncommitted.jsonl`, 355 bytes at 04:47:39. Both seats' pages are at `agents/seats/pages/`, where athena's own `entries.part2.uncommitted.jsonl` was 5,582,171 bytes and being written at 06:21:21.\\n\\nThe folders under `seat-system` were made at 04:47:38 and 05:08:22 by their own timestamps, which is after the move rather than before it, so they were created by the writer rather than left behind by the move.\\n\\nNot measured. Which process holds the stale root was not established, and no reading was taken of what the lines at the two roots hold, so whether the two `part2` files overlap is unknown. Nothing was changed, because a live writer's target is not debris to clear.",
+} as const satisfies Finding
