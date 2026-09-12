@@ -15,23 +15,17 @@ const CODE = "code"
 
 const TS = "ts"
 
-const FLAG = "-"
-
 export const MEASURED = "measured"
 
 export type Measuring = (root: string) => Promise<readonly string[]>
 
-export function nothingNamed(there: readonly string[]): string {
-  return `this names no performance — it carries ${namesDrawn(there)}`
+export function thereAre(there: readonly string[]): string {
+  return `the performances there are ${namesDrawn(there)}`
 }
 
 export function noPerformance(slug: string, there: readonly string[]): readonly string[] {
   if (there.includes(slug)) return []
   return [`\`${slug}\` is no performance — it carries ${namesDrawn(there)}`]
-}
-
-function worded(one: string): boolean {
-  return !one.startsWith(FLAG)
 }
 
 function codeAt(root: string, slug: string): string {
@@ -55,10 +49,7 @@ export async function measurePerformance(argv: readonly string[], given: Given):
   try {
     const there = slugsOfType(given.root, PERFORMANCE)
     const read = takenFor(argv, given.calledAs, page, [performanceArgument])
-    if ("refused" in read) {
-      const missing = argv.some(worded) ? [] : [nothingNamed(there)]
-      return mistaking([...read.refused, ...missing])
-    }
+    if ("refused" in read) return mistaking([...read.refused, thereAre(there)])
     const slug = read.taken.performance
     const unknown = noPerformance(slug, there)
     if (unknown.length > 0) return mistaking(unknown)

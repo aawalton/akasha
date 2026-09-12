@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   noPerformance,
-  nothingNamed,
+  thereAre,
 } from "akasha/commands/pages/measure/performance/measure-performance.command.code.ts"
 
 const THERE: readonly string[] = ["landing-throughput"]
@@ -11,8 +11,8 @@ test("a call naming one performance there reads that performance", () => {
 })
 
 test("a call naming no performance is refused with every performance there is", () => {
-  expect(nothingNamed(THERE)).toContain("this names no performance")
-  expect(nothingNamed(THERE)).toContain("landing-throughput")
+  expect(thereAre(THERE)).toContain("the performances there are")
+  expect(thereAre(THERE)).toContain("landing-throughput")
 })
 
 test("a word naming no performance is refused", () => {
