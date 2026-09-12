@@ -39,6 +39,10 @@ export const hookDispatch = {
     },
     {
       invariantKind: "departure",
+      statement: "A hook exiting neither let-through nor refused refuses the call it judged.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A hook handing back changed input hands the next hook the input as changed.",
     },
     {
