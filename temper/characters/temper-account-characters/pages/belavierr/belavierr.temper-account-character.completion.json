@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATAHSsTAAIBkBRMiijtQso7WLmCVi5glYuYJWLmCVi5glEGjtRBBu0QQbtJhEx2xEEx0sAAAHNz2azXQrIAAAAAABE8AAgDUEABAGAACQAIBAQQACEAADJwAjAGYABkABCAwIABDJIFAjEQgwhQCgiAMAHIAxAcAABDA4y6NeozIsSZWPJllzJs7Po06te2fQo0qdTxVWNlbI2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBw2SNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpMAEBkKMMEnIOQNYA",
+  "buildHash": "ATQHSsTAAIBkBRMiijtQso7WLmCVi5glYuYJWLmCVi5glEGjtRBBu0QQbtJhEx2xEEx0sAAAHNz2azXQrIAAAAAABE8AAgDUEABAGAACQAIBAQQACEAADJwAjAGYABkABCAwIABDJIFAjEQgwhQCgiAMAHIAxAcAABDA4y6NeozIsSZWPJllzJs7Po06te2fQo0qdTxVWNlbI2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBw2SNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpMAEBkKMMEnIOQNYA",
   "gender": 1,
   "level": 50,
   "classId": 5,
@@ -1046,12 +1046,12 @@
       }
     },
     "2611": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "criteria": {
           "1": {
             "numRequired": 20,
-            "numCompleted": 19
+            "numCompleted": 20
           }
         },
         "completedSteps": 0,
@@ -1064,7 +1064,7 @@
         "criteria": {
           "1": {
             "numRequired": 30,
-            "numCompleted": 19
+            "numCompleted": 20
           }
         },
         "completedSteps": 0,
@@ -13430,11 +13430,11 @@
   },
   "dailyWrits": {
     "completed": 7,
-    "date": "2026-09-11"
+    "date": "2026-09-12"
   },
   "dailyWritStates": {
     "completed": {
-      "1": 1,
+      "1": 6,
       "2": 7,
       "3": 6,
       "4": 6,
@@ -13451,7 +13451,7 @@
       "6": 6,
       "7": 7
     },
-    "date": "2026-09-11"
+    "date": "2026-09-12"
   },
   "motifKnowledge": {
     "2": {
