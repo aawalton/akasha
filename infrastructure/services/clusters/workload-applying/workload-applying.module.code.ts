@@ -2,8 +2,8 @@ import { existsSync } from "node:fs"
 import { join } from "node:path"
 import {
   DATA,
-  OK,
   OPERATIONAL,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { publishedFor } from "akasha/infrastructure/container-image/image-publishing/image-publishing.module.code.ts"
 import {
@@ -154,12 +154,12 @@ export async function appliedWorkload(
 
   if (!differs && alreadyUp) {
     report.push(`nothing\tthe cluster already runs ${slug} as its page describes`)
-    return { report, refusals: [], code: OK }
+    return told(report)
   }
 
   if (dryRun) {
     report.push("dry-run\tnothing was applied; run it again without `--dry-run` to carry it out")
-    return { report, refusals: [], code: OK }
+    return told(report)
   }
 
   for (const one of writeManifests(root, plan)) report.push(`wrote\t${one}`)
@@ -176,5 +176,5 @@ export async function appliedWorkload(
   report.push(
     `up\t${workload.kind} ${workload.namespace}/${workload.name} runs as its page describes`
   )
-  return { report, refusals: [], code: OK }
+  return told(report)
 }
