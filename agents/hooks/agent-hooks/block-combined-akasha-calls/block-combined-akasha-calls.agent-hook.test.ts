@@ -191,19 +191,19 @@ test("one of the names inside a quoted run is refused rather than read as data",
 })
 
 test("another akasha command carrying one of the names in a message is let through", () => {
-  expect(refusalIn('akasha sms-send --text "fix the akasha change delimiter"')).toBe(null)
+  expect(refusalIn('akasha sms send --text "fix the akasha change delimiter"')).toBe(null)
 })
 
 test("another akasha command carrying one of the names in single quotes is let through", () => {
-  expect(refusalIn("akasha sms-send --text 'akasha change is named here'")).toBe(null)
+  expect(refusalIn("akasha sms send --text 'akasha change is named here'")).toBe(null)
 })
 
 test("a call chained after another akasha command is refused", () => {
-  expect(refusalIn('akasha sms-send --text "x" && akasha read y')).toContain(NAMES)
+  expect(refusalIn('akasha sms send --text "x" && akasha read y')).toContain(NAMES)
 })
 
 test("a run the shell would rewrite is not taken out", () => {
-  expect(refusalIn('akasha sms-send --text "see $HOME and akasha read x"')).toContain(NAMES)
+  expect(refusalIn('akasha sms send --text "see $HOME and akasha read x"')).toContain(NAMES)
 })
 
 test("a quoted call handed to another program is refused", () => {
