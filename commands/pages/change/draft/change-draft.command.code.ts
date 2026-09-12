@@ -1,6 +1,10 @@
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { loadedAt } from "akasha/changes/runners/change-loading/change-loading.module.code.ts"
-import { told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  OPERATIONAL,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { noPageSaid } from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
 import { CHANGE_DRAFT_SLUG } from "akasha/commands/modules/change-costing/change-costing.module.code.ts"
@@ -43,7 +47,7 @@ export const CHOSEN: Omit<Chosen, "calledAs"> = {
 }
 
 async function nothing(): Promise<Answer> {
-  return { report: [], refusals: [LANDS], code: 3 }
+  return refusedBy([LANDS], OPERATIONAL)
 }
 
 export async function changeDraft(argv: readonly string[], given: Given): Promise<Answer> {
