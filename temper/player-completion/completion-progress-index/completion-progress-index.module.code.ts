@@ -2,11 +2,6 @@ import type {
   AccountCompletion,
   CharacterCompletion,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import { COMPLETION_CARD_CHECKERS } from "akasha/temper/player-completion/completion-card-checkers/completion-card-checkers.module.code.ts"
-import {
-  type AnyCompletionCardId,
-  isAnyCompletionCardId,
-} from "akasha/temper/player-completion/completion-card-id/completion-card-id.module.code.ts"
 import { resolveTaskProgress } from "akasha/temper/player-completion/completion-card-task-progress/completion-card-task-progress.module.code.ts"
 import { enumeratePaths } from "akasha/temper/player-completion/completion-item-picker/completion-item-picker.module.code.ts"
 import {
@@ -14,6 +9,11 @@ import {
   resolveNextCharacter,
 } from "akasha/temper/player-completion/completion-next-character/completion-next-character.module.code.ts"
 import { ACCOUNT_COMPLETION_CARD_CHECKERS } from "akasha/temper/player-completion/modules/completion-account-checkers/completion-account-checkers.module.code.ts"
+import { COMPLETION_CARD_CHECKERS } from "akasha/temper/player-completion/modules/completion-card-checkers/completion-card-checkers.module.code.ts"
+import {
+  type AnyCompletionCardId,
+  isAnyCompletionCardId,
+} from "akasha/temper/player-completion/modules/completion-card-id/completion-card-id.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { joinPath } from "akasha/utils/narrow/join-path/join-path.module.code.ts"
 

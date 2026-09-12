@@ -1,4 +1,4 @@
-import type { AnyCompletionCardId } from "akasha/temper/player-completion/completion-card-id/completion-card-id.module.code.ts"
+import type { AnyCompletionCardId } from "akasha/temper/player-completion/modules/completion-card-id/completion-card-id.module.code.ts"
 
 export type ResetBehavior = "resetting" | "cumulative"
 

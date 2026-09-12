@@ -3,8 +3,6 @@ import type {
   AccountCompletion,
   CharacterCompletion,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import type { ItemProgress } from "akasha/temper/player-completion/completion-card-checker-types/completion-card-checker-types.module.code.ts"
-import type { AnyCompletionCardId } from "akasha/temper/player-completion/completion-card-id/completion-card-id.module.code.ts"
 import { resolveGenericCheckerProgress } from "akasha/temper/player-completion/completion-generic-checker-progress/completion-generic-checker-progress.module.code.ts"
 import type { ItemPath } from "akasha/temper/player-completion/completion-item-picker/completion-item-picker.module.code.ts"
 import { isCharacterMeasured } from "akasha/temper/player-completion/completion-measured/completion-measured.module.code.ts"
@@ -12,6 +10,8 @@ import {
   clampRapportProgress,
   MAX_COMPANION_RAPPORT,
 } from "akasha/temper/player-completion/modules/companion-rapport/companion-rapport.module.code.ts"
+import type { ItemProgress } from "akasha/temper/player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
+import type { AnyCompletionCardId } from "akasha/temper/player-completion/modules/completion-card-id/completion-card-id.module.code.ts"
 import { skillLines } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
 import {
   ESO_CLASS_ID_TO_CLASS_ID,
