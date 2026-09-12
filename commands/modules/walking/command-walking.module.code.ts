@@ -20,6 +20,11 @@ export type Reached = {
   readonly above: readonly Level[]
 }
 
+export type Named = {
+  readonly slug: string
+  readonly name: string
+}
+
 export type Naming = (slug: string) => string | null
 
 export function wordsIn(argv: readonly string[]): readonly string[] {
@@ -48,6 +53,11 @@ export function pathOf(slug: string, namedAt: Naming): string {
     rest = said === rest ? "" : rest.slice(0, rest.length - said.length - UNDER.length)
   }
   return words.join(SPACE)
+}
+
+export function namingOver(levels: readonly Named[]): Naming {
+  const named = new Map(levels.map((one) => [one.slug, one.name]))
+  return (slug) => named.get(slug) ?? null
 }
 
 function levelsNamed(parts: readonly string[], word: string, levelOf: Parting): readonly Level[] {

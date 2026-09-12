@@ -107,6 +107,10 @@ export const commandWalking = {
       statement: "A level whose name is no ending of its slug is reached the same way.",
     },
     {
+      invariantKind: "departure",
+      statement: "A naming is built over the levels handed in rather than over any list here.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here loads a page.",
     },

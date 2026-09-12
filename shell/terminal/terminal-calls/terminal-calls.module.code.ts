@@ -1,4 +1,8 @@
-import { pathOf } from "akasha/commands/modules/walking/command-walking.module.code.ts"
+import {
+  type Named,
+  namingOver,
+  pathOf,
+} from "akasha/commands/modules/walking/command-walking.module.code.ts"
 import { claudeAccountAdd } from "akasha/commands/pages/claude-account/add/claude-account-add.command.ts"
 import { claudeAccount } from "akasha/commands/pages/claude-account/claude-account.namespace.ts"
 import { git } from "akasha/commands/pages/git/git.namespace.ts"
@@ -13,9 +17,7 @@ import { seatStart } from "akasha/commands/pages/seat/start/seat-start.command.t
 import { seatSupervisor } from "akasha/commands/pages/seat/supervisor/seat-supervisor.namespace.ts"
 import { seatSupervisorStop } from "akasha/commands/pages/seat/supervisor/stop/seat-supervisor-stop.command.ts"
 
-type Level = { readonly slug: string; readonly name: string }
-
-const LEVELS: readonly Level[] = [
+const LEVELS: readonly Named[] = [
   claudeAccount,
   claudeAccountAdd,
   git,
@@ -31,10 +33,10 @@ const LEVELS: readonly Level[] = [
   seatSupervisorStop,
 ]
 
-const NAMED: ReadonlyMap<string, string> = new Map(LEVELS.map((one) => [one.slug, one.name]))
+const NAMED = namingOver(LEVELS)
 
-export function calling(one: Level): string {
-  return pathOf(one.slug, (slug) => NAMED.get(slug) ?? null)
+export function calling(one: Named): string {
+  return pathOf(one.slug, NAMED)
 }
 
 export const CLAUDE_ACCOUNT_ADD = calling(claudeAccountAdd)
