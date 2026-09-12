@@ -158,7 +158,7 @@ const CALLED_AS = "akasha music import-artist"
 test("a call naming no artist is refused in the words the reader refuses with", () => {
   const held = taken(["--json"], CALLED_AS)
   expect("refused" in held && held.refused).toContain(
-    "takes `<name>` or `--name` or `--mbid`, and nothing said either"
+    "takes `<name>`, `--name` or `--mbid`, and nothing said any of them"
   )
 })
 
