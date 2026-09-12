@@ -122,5 +122,10 @@ export const shellCalls = {
       statement:
         "A prefix this module does not name hides the call behind that prefix from every hook.",
     },
+    {
+      invariantKind: "gap",
+      statement:
+        "An assignment whose value the shell rewrites hides the call in that value from every hook.",
+    },
   ],
 } as const satisfies Module
