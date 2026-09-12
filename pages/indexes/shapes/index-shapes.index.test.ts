@@ -6,6 +6,9 @@ import {
   carryingIn,
   fileFor,
   pageTypeSlugsIn,
+  shapedIn,
+  shapeFiled,
+  shapeFileFor,
   shapesFiled,
   shapesIn,
 } from "akasha/pages/indexes/shapes/index-shapes.index.code.ts"
@@ -140,6 +143,29 @@ test("what a page type carries is answered by reading the one file it is filed i
 
 test("a page type with no file carries nothing rather than refusing", () => {
   expect(carriedOfType(readingOf([]), "gone")).toEqual([])
+})
+
+test("a page property names the one file its own shape is filed in", () => {
+  expect(shapeFileFor("text-property")).toBe("shapes/page-property/text-property.jsonl")
+})
+
+test("a page property is filed under the page type it is", () => {
+  expect(shapeFiled(HOLDER)).toEqual([
+    { at: shapeFileFor("relation-property"), line: JSON.stringify(shapedIn(HOLDER)) },
+  ])
+})
+
+test("a page stating no property slug is filed nowhere", () => {
+  expect(shapeFiled(BELOW)).toEqual([])
+})
+
+test("a shape says what the property's own page says", () => {
+  const one = shapedIn(SLUG)
+  expect(one?.unique).toBe("page-type")
+  expect(one?.propertySlug).toBe("slug")
+  expect(one?.sorted).toBe(false)
+  expect(shapedIn(HOLDER)?.targetPageTypeSlug).toBe("person")
+  expect(shapedIn(CODE)?.fileName).toBe("code")
 })
 
 test("a line that is not a filed property is read as none rather than throwing", () => {

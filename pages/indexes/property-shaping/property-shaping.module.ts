@@ -4,18 +4,13 @@ export const propertyShaping = {
   id: "01a091e7-e2ef-7749-b938-fe724b6673e5",
   type: "module",
   slug: "property-shaping",
-  definition: "the shape each page property declares, read from the pages of its own kinds",
+  definition: "the shape each page property declares, read from where the index filed it",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "Every shape the pages declare is read from the value each of those pages carries.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The pages read are the pages of `page-property` and of every kind under it.",
+      statement: "Every shape the pages declare is read from the shapes index rather than a page.",
     },
     {
       invariantKind: "departure",

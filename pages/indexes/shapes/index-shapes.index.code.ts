@@ -19,6 +19,8 @@ const SHAPES = indexShapes.name
 
 const PAGE_TYPE = "page-type"
 
+const PAGE_PROPERTY = "page-property"
+
 const ENDING = ".jsonl"
 
 const NAMES = "/"
@@ -45,6 +47,38 @@ export type Carrying = {
 
 export function fileFor(pageTypeSlug: string): string {
   return join(SHAPES, PAGE_TYPE, `${pageTypeSlug}${ENDING}`)
+}
+
+export function shapeFileFor(pageTypeSlug: string): string {
+  return join(SHAPES, PAGE_PROPERTY, `${pageTypeSlug}${ENDING}`)
+}
+
+export function shapedIn(value: Value): Shape | null {
+  const pageTypeSlug = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
+  const slug = textAt(value, "slug")
+  const propertySlug = textAt(value, "propertySlug")
+  if (pageTypeSlug === null || slug === null || propertySlug === null) return null
+  return {
+    pageTypeSlug,
+    targetPageTypeSlug: slugAt(value, "targetPageType"),
+    unique: slugAt(value, "unique"),
+    uniquePropertySlug: slugAt(value, "uniqueProperty"),
+    slug,
+    propertySlug,
+    fileName: textAt(value, "fileName"),
+    folderName: textAt(value, "folderName"),
+    sorted: value["sorted"] === true,
+  }
+}
+
+export function shapeFiled(value: Value): readonly Entry[] {
+  const one = shapedIn(value)
+  if (one === null) return []
+  return [{ at: shapeFileFor(one.pageTypeSlug), line: JSON.stringify(one) }]
+}
+
+function namedOf(one: Shape): string {
+  return `${one.pageTypeSlug}${NAMES}${one.slug}`
 }
 
 export function carryingIn(line: string): Carrying | null {
@@ -132,23 +166,9 @@ function carryingOf(one: Carried, shape: Shape | undefined): Carrying {
 export function shapesIn(values: Iterable<Value>): ReadonlyMap<string, Shape> {
   const found = new Map<string, Shape>()
   for (const value of values) {
-    const pageTypeSlug = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
-    const slug = textAt(value, "slug")
-    const propertySlug = textAt(value, "propertySlug")
-    if (pageTypeSlug === null || slug === null || propertySlug === null) continue
-    const named = `${pageTypeSlug}${NAMES}${slug}`
-    if (found.has(named)) continue
-    found.set(named, {
-      pageTypeSlug,
-      targetPageTypeSlug: slugAt(value, "targetPageType"),
-      unique: slugAt(value, "unique"),
-      uniquePropertySlug: slugAt(value, "uniqueProperty"),
-      slug,
-      propertySlug,
-      fileName: textAt(value, "fileName"),
-      folderName: textAt(value, "folderName"),
-      sorted: value["sorted"] === true,
-    })
+    const one = shapedIn(value)
+    if (one === null || found.has(namedOf(one))) continue
+    found.set(namedOf(one), one)
   }
   return found
 }

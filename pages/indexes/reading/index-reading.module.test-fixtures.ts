@@ -13,6 +13,7 @@ import type { Entry } from "akasha/pages/indexes/entries/index-entries.module.co
 import {
   idFiled,
   listedFiled,
+  shapeAlsoFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { indexIdentity } from "akasha/pages/indexes/identity/index-identity.index.ts"
@@ -215,25 +216,13 @@ function kindFiled(root: string, kind: string): undefined {
   valueAlsoFiled(root, PAGE_TYPE, [{ path: at, value }])
 }
 
-const CARRIED: readonly (readonly [string, string])[] = [
-  ["pageTypeSlug", "pageTypeSlug"],
-  ["slug", "slug"],
-  ["propertySlug", "propertySlug"],
-  ["targetPageTypeSlug", "targetPageType"],
-  ["unique", "unique"],
-  ["uniquePropertySlug", "uniqueProperty"],
-  ["fileName", "fileName"],
-  ["folderName", "folderName"],
-  ["sorted", "sorted"],
-]
-
-function shapeSaid(said: Record<string, unknown>): Record<string, unknown> {
-  const value: Record<string, unknown> = {}
-  for (const [held, key] of CARRIED) {
-    const one = said[held]
-    if (one !== undefined && one !== null) value[key] = one
-  }
-  return value
+const SHAPED: Readonly<Record<string, unknown>> = {
+  targetPageTypeSlug: null,
+  unique: null,
+  uniquePropertySlug: null,
+  fileName: null,
+  folderName: null,
+  sorted: false,
 }
 
 export function shapeAdded(
@@ -244,11 +233,17 @@ export function shapeAdded(
 ): undefined {
   for (const one of lines) {
     if (one === null || typeof one !== "object") continue
-    const said = { pageTypeSlug, slug, propertySlug: slug, ...one } as Record<string, unknown>
+    const said = {
+      pageTypeSlug,
+      slug,
+      propertySlug: slug,
+      ...SHAPED,
+      ...one,
+    } as Record<string, unknown>
+    if (typeof said.propertySlug !== "string") continue
     const kind = typeof said.pageTypeSlug === "string" ? said.pageTypeSlug : pageTypeSlug
-    const named = typeof said.slug === "string" ? said.slug : slug
     kindFiled(root, kind)
-    valueAlsoFiled(root, kind, [{ path: `akasha/${named}.${kind}.ts`, value: shapeSaid(said) }])
+    shapeAlsoFiled(root, kind, [said])
   }
 }
 

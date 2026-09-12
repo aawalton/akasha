@@ -47,6 +47,7 @@ import { ruleIn } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import type { Filing, Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import {
   pageTypeSlugsIn,
+  shapeFiled,
   shapesFiled,
   shapesIn,
 } from "akasha/pages/indexes/shapes/index-shapes.index.code.ts"
@@ -211,7 +212,11 @@ export function settlingOver(
     held.flatMap((one) => (one.was === null ? [] : valueIn(one.was, one.path, repo))),
     held.flatMap((one) => (one.now === null ? [] : valueIn(one.now, one.path, repo)))
   )
-  const overValued = overlaidOn(reading, valued)
+  const shaping = filingOf(
+    held.flatMap((one) => (one.was === null ? [] : shapeFiled(one.was))),
+    held.flatMap((one) => (one.now === null ? [] : shapeFiled(one.now)))
+  )
+  const overValued = overlaidOn(reading, [...valued, ...shaping])
   const wasUnique = uniquePropertiesAt(reading)
   const unique = uniquePropertiesAt(overValued)
   if (indexThere(given)) refusingEmpty(unique, held.filter((one) => one.now !== null).length)
@@ -289,7 +294,7 @@ export function settlingOver(
   const paths = filingOf(wasPaths, nowPaths)
   const listing = filingOf(listedOf(wasPaths), listedOf(nowPaths))
 
-  const stepped = overlaidOn(reading, [...imported, ...identity, ...paths, ...valued])
+  const stepped = overlaidOn(reading, [...imported, ...identity, ...paths, ...valued, ...shaping])
   const wasBody: Body = (at) => {
     const one = carried.get(under(repo, at))
     return one === undefined ? bodyAt(at) : one.before
@@ -355,6 +360,7 @@ export function settlingOver(
     ...paths,
     ...relation,
     ...valued,
+    ...shaping,
     ...listing,
     ...carrying,
   ]

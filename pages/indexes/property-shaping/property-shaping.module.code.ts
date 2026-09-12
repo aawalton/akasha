@@ -1,48 +1,9 @@
 import { addressedIn, addressIn } from "akasha/pages/address/page-address.module.code.ts"
-import {
-  answered,
-  heldOnce,
-  valuesOfType,
-} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { answered, shapesEvery } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Reading, Shape } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
-import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
-import { slugAt, textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-
-const PAGE_PROPERTY = "page-property"
-
-const SORTED = "sorted"
-
-function shapesIn(reading: Reading): ReadonlyMap<string, Shape> {
-  const found = new Map<string, Shape>()
-  for (const kind of kindsUnder(PAGE_PROPERTY, reading)) {
-    for (const one of valuesOfType(reading, kind)) {
-      const held = one.value
-      const pageTypeSlug = textAt(held, "type") ?? textAt(held, "pageTypeSlug")
-      const slug = textAt(held, "slug")
-      const propertySlug = textAt(held, "propertySlug")
-      if (pageTypeSlug === null || slug === null || propertySlug === null) continue
-      const named = `${pageTypeSlug}/${slug}`
-      if (found.has(named)) continue
-      found.set(named, {
-        pageTypeSlug,
-        targetPageTypeSlug: slugAt(held, "targetPageType"),
-        unique: slugAt(held, "unique"),
-        uniquePropertySlug: slugAt(held, "uniqueProperty"),
-        slug,
-        propertySlug,
-        fileName: textAt(held, "fileName"),
-        folderName: textAt(held, "folderName"),
-        sorted: held[SORTED] === true,
-      })
-    }
-  }
-  return found
-}
-
-const shaped = heldOnce(shapesIn)
 
 export function shapesAt(given: string | Reading): ReadonlyMap<string, Shape> {
-  return shaped(given)
+  return shapesEvery(given)
 }
 
 export type Shaping = { readonly shape: Shape } | { readonly refused: string }

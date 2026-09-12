@@ -214,5 +214,9 @@ export const indexReading = {
       invariantKind: "departure",
       statement: "A field left out of that filing has a test read a default as what was filed.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A fixture files no shape for a page stating no property slug.",
+    },
   ],
 } as const satisfies Module

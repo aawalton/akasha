@@ -6,7 +6,8 @@ import { indexImport } from "akasha/pages/indexes/import/index-import.index.ts"
 import { indexListing } from "akasha/pages/indexes/listing/index-listing.index.ts"
 import { indexPath } from "akasha/pages/indexes/path/index-path.index.ts"
 import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
-import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import type { Reading, Shape } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import { indexShapes } from "akasha/pages/indexes/shapes/index-shapes.index.ts"
 import {
   beneath,
   INDEX_AT,
@@ -33,6 +34,8 @@ const LISTING = indexListing.name
 const PATH = indexPath.name
 
 const RELATION = indexRelation.name
+
+const SHAPES = indexShapes.name
 
 const VALUE = indexValue.name
 
@@ -298,6 +301,24 @@ export function valuesByPath(
   pageTypeSlug: string
 ): ReadonlyMap<string, Value> {
   return pathed(given, pageTypeSlug)
+}
+
+const everyShaped = heldOnce((reading: Reading): ReadonlyMap<string, Shape> => {
+  const found = new Map<string, Shape>()
+  for (const one of endingIn(reading.listing(join(SHAPES, PROPERTY)))) {
+    for (const line of reading.lines(join(SHAPES, PROPERTY, `${one}${ENDING}`))) {
+      const held = JSON.parse(line) as Shape
+      const named = `${held.pageTypeSlug}/${held.slug}`
+      if (!found.has(named)) found.set(named, held)
+    }
+  }
+  return found
+})
+
+export function shapesEvery(given: string | Reading): ReadonlyMap<string, Shape> {
+  return answered(given, ROOT, "what shape every page property has", (reading) =>
+    everyShaped(reading)
+  )
 }
 
 const bodied = heldEach((reading: Reading, path: string): Value | null => {

@@ -35,6 +35,7 @@ import {
 import type { Filing } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import {
   pageTypeSlugsIn,
+  shapeFiled,
   shapesFiled,
   shapesIn,
 } from "akasha/pages/indexes/shapes/index-shapes.index.code.ts"
@@ -128,6 +129,8 @@ export function refreshedFrom(
   drift.push(reconcile(listed, root, put, done))
   const valued = held.flatMap((one) => valueIn(one.value, one.path, repo))
   drift.push(reconcile(valued, root, put, done))
+  const shaped = values.flatMap((one) => shapeFiled(one))
+  drift.push(reconcile(shaped, root, put, done))
   const carrying = shapesFiled(source, shapesIn(values), pageTypeSlugsIn(values))
   drift.push(reconcile(carrying, root, put, done))
   const known = knownIn(readingAt(root), (path) => valueAt(path, repo))
@@ -159,6 +162,7 @@ export function refreshedFrom(
     ...paths,
     ...listed,
     ...valued,
+    ...shaped,
     ...carrying,
     ...relation,
     ...imported,
@@ -173,6 +177,7 @@ export function refreshedFrom(
       imported.length +
       ruled.length +
       valued.length +
+      shaped.length +
       carrying.length,
     refused: filed.flatMap((one) => one.refused),
     drift: drifting(drift, takenAway(every, root, put, done)),

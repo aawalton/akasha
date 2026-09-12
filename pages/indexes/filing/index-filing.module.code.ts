@@ -2,6 +2,7 @@ import { appendFileSync, existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { indexIdentity } from "akasha/pages/indexes/identity/index-identity.index.ts"
 import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
+import { indexShapes } from "akasha/pages/indexes/shapes/index-shapes.index.ts"
 import { indexIn } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
 
@@ -10,6 +11,8 @@ const ENDING = ".jsonl"
 const PAGE = "page"
 
 const PAGE_TYPE = "page-type"
+
+const PAGE_PROPERTY = "page-property"
 
 const NO_SCOPE = ""
 
@@ -95,6 +98,14 @@ export function valueAlsoFiled(
     const path = pagedIn(one)
     if (path !== null) bodyWritten(root, path, one.value)
   }
+}
+
+export function shapeAlsoFiled(
+  root: string,
+  pageTypeSlug: string,
+  lines: readonly unknown[]
+): undefined {
+  added(root, join(indexShapes.name, PAGE_PROPERTY, pageTypeSlug), lines)
 }
 
 export function lineFiled(root: string, at: string, line: string): undefined {
