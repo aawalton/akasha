@@ -218,9 +218,21 @@ function openedAt(reach: Reach, at: string): Opened | null {
   return made
 }
 
-function hopped(state: Reading, callee: ts.Identifier, at: number): undefined {
+function meantBy(from: ts.Node | undefined, spelled: string): string | null {
+  if (from === undefined) return spelled
+  if (!ts.isFunctionLike(from)) return meantBy(from.parent, spelled)
+  const one = from.parameters.find(
+    (each) => ts.isIdentifier(each.name) && each.name.text === spelled
+  )
+  if (one === undefined) return meantBy(from.parent, spelled)
+  const made = one.initializer
+  if (made === undefined || !ts.isIdentifier(made)) return null
+  return made.text
+}
+
+function hopped(state: Reading, spelled: string, at: number): undefined {
   if (state.hops >= ONE_HOP) return
-  const held = state.opened.imported.get(callee.text)
+  const held = state.opened.imported.get(spelled)
   if (held === undefined || judgedIn(held.at)) return
   const opened = openedAt(state.shared.reach, held.at)
   if (opened === null) return
@@ -231,10 +243,12 @@ function hopped(state: Reading, callee: ts.Identifier, at: number): undefined {
 
 function followed(state: Reading, call: ts.CallExpression, node: ts.Identifier): undefined {
   const callee = call.expression
-  if (!ts.isIdentifier(callee) || callee.text === ONE_READER) return
+  if (!ts.isIdentifier(callee)) return
+  const spelled = meantBy(call.parent, callee.text)
+  if (spelled === null || spelled === ONE_READER) return
   const at = call.arguments.indexOf(node)
-  const into = state.opened.declared.get(callee.text)
-  if (into === undefined) hopped(state, callee, at)
+  const into = state.opened.declared.get(spelled)
+  if (into === undefined) hopped(state, spelled, at)
   else reading(state, into, at)
 }
 

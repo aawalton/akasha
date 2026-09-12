@@ -29,6 +29,10 @@ export const commandTakesItsArgumentsThroughOneReader = {
     },
     {
       invariantKind: "departure",
+      statement: "A call to a name a parameter holds is followed into that parameter's default.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A call to a name this file imports is followed into the file that import lands in.",
     },
@@ -91,6 +95,10 @@ export const commandTakesItsArgumentsThroughOneReader = {
     {
       invariantKind: "absence",
       statement: "A name brought in as a default or as a whole module is followed nowhere.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A parameter holding a function under no default is followed nowhere.",
     },
     {
       invariantKind: "absence",

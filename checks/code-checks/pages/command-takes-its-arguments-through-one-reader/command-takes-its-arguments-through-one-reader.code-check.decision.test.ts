@@ -217,3 +217,34 @@ test("a command's own read is named before one reached across an import", () => 
   expect(said[0]).not.toContain(FAR_AT)
   expect(said[1]).toContain(FAR_AT)
 })
+
+const READS_IN = "function readIn(words: readonly string[]): number {\n  return words.length\n}\n"
+
+const HANDS_TO =
+  "function handing(words: readonly string[], reading = readIn): number {\n" +
+  "  return reading(words)\n}\n"
+
+const CALLS_IT = "  return answered(handing(argv))\n"
+
+test("a reader a parameter defaults to is followed into", () => {
+  const said = found(AT, READS_IN + HANDS_TO + bodied(CALLS_IT))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("line 2")
+  expect(said[0]).toContain("`words.length`")
+})
+
+test("a parameter shadowing a reader under no default is followed nowhere", () => {
+  const shadows =
+    "function handing(words: readonly string[], readIn: Reading): number {\n" +
+    "  return readIn(words)\n}\n"
+  expect(found(AT, READS_IN + shadows + bodied(CALLS_IT))).toEqual([])
+})
+
+test("a reader a parameter defaults to across an import is followed one file on", () => {
+  const reach = opening(new Map([[FAR_AT, READER]]))
+  const hands = HANDS_TO.replace("readIn", "saidFor")
+  const said = found(AT, brings(FAR_AT, "saidFor") + hands + bodied(CALLS_IT), reach)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain(FAR_AT)
+  expect(said[0]).toContain("`argv.length`")
+})
