@@ -18,11 +18,11 @@ import { steps } from "akasha/commands/arguments/pages/steps.argument.ts"
 import { timeout } from "akasha/commands/arguments/pages/timeout.argument.ts"
 import type { Read } from "akasha/commands/arguments/word-reading/argument-word-reading.module.code.ts"
 import {
-  OPERATIONAL,
+  answering,
+  naming,
   refusedBy,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { inferenceWanExtend as page } from "akasha/commands/pages/inference/wan/extend/inference-wan-extend.command.ts"
 import { extending } from "akasha/commands/pages/inference/wan/wan-clip-rendering/wan-clip-rendering.module.code.ts"
 
@@ -49,13 +49,14 @@ export function readExtend(argv: readonly string[], calledAs: string): Read<Take
   return takenFor(argv, calledAs, page, PAGES)
 }
 
-export async function inferenceWanExtend(argv: readonly string[], given: Given): Promise<Answer> {
+export type Making = (taken: Taken, given: Given, done: string[]) => Promise<Answer>
+
+export async function inferenceWanExtend(
+  argv: readonly string[],
+  given: Given,
+  making: Making = extending
+): Promise<Answer> {
   const read = readExtend(argv, given.calledAs)
   if ("refused" in read) return refusedBy(read.refused)
-  const report: string[] = []
-  try {
-    return await extending(read.taken, given, report)
-  } catch (thrown) {
-    return { report, refusals: [whyOf(thrown)], code: OPERATIONAL }
-  }
+  return await answering(async (done) => naming(done, await making(read.taken, given, done)))
 }

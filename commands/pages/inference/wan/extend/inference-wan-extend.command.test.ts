@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { DATA, refused } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   inferenceWanExtend,
@@ -59,4 +60,47 @@ test("a direction that is neither way is refused", async () => {
   )
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("forward")
+})
+
+const STAGED = "the context clip is staged under /nowhere/inputs"
+
+const BROKE = "the model host answered nothing"
+
+test("an extend that threw after staging names the staging in its refusal", async () => {
+  const said = await inferenceWanExtend(EXTENDED, given("/nowhere"), (_taken, _given, done) => {
+    done.push(STAGED)
+    return Promise.reject(new Error(BROKE))
+  })
+
+  expect(said.report).toEqual([STAGED])
+  expect(said.refusals.join(" ")).toContain(STAGED)
+  expect(said.refusals.join(" ")).toContain(BROKE)
+})
+
+test("an extend that threw carries the frame it was thrown at", async () => {
+  const said = await inferenceWanExtend(EXTENDED, given("/nowhere"), (_taken, _given, done) => {
+    done.push(STAGED)
+    return Promise.reject(new Error(BROKE))
+  })
+
+  expect(said.refusals.some((one) => one.startsWith("thrown at "))).toBe(true)
+})
+
+test("an extend that threw before staging names nothing it had done", async () => {
+  const said = await inferenceWanExtend(EXTENDED, given("/nowhere"), () =>
+    Promise.reject(new Error(BROKE))
+  )
+
+  expect(said.report).toEqual([])
+  expect(said.refusals.some((one) => one.includes("stopped part way"))).toBe(false)
+})
+
+test("a refusal handed back carries its own code rather than one guessed here", async () => {
+  const said = await inferenceWanExtend(EXTENDED, given("/nowhere"), (_taken, _given, done) => {
+    done.push(STAGED)
+    return Promise.resolve(refused("the window is wider than the clip", DATA))
+  })
+
+  expect(said.code).toBe(DATA)
+  expect(said.refusals.join(" ")).toContain(STAGED)
 })

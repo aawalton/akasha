@@ -17,11 +17,11 @@ import { steps } from "akasha/commands/arguments/pages/steps.argument.ts"
 import { timeout } from "akasha/commands/arguments/pages/timeout.argument.ts"
 import type { Read } from "akasha/commands/arguments/word-reading/argument-word-reading.module.code.ts"
 import {
-  OPERATIONAL,
+  answering,
+  naming,
   refusedBy,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { inferenceWanGenerate as page } from "akasha/commands/pages/inference/wan/generate/inference-wan-generate.command.ts"
 import { generating } from "akasha/commands/pages/inference/wan/wan-clip-rendering/wan-clip-rendering.module.code.ts"
 
@@ -47,13 +47,14 @@ export function readGenerate(argv: readonly string[], calledAs: string): Read<Ta
   return takenFor(argv, calledAs, page, PAGES)
 }
 
-export async function inferenceWanGenerate(argv: readonly string[], given: Given): Promise<Answer> {
+export type Making = (taken: Taken, given: Given, done: string[]) => Promise<Answer>
+
+export async function inferenceWanGenerate(
+  argv: readonly string[],
+  given: Given,
+  making: Making = generating
+): Promise<Answer> {
   const read = readGenerate(argv, given.calledAs)
   if ("refused" in read) return refusedBy(read.refused)
-  const report: string[] = []
-  try {
-    return await generating(read.taken, given, report)
-  } catch (thrown) {
-    return { report, refusals: [whyOf(thrown)], code: OPERATIONAL }
-  }
+  return await answering(async (done) => naming(done, await making(read.taken, given, done)))
 }

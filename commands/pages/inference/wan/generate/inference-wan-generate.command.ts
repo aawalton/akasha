@@ -36,6 +36,18 @@ export const inferenceWanGenerate = {
       invariantKind: "absence",
       statement: "Nothing here starts the container or provisions the weights.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A render that threw after staging names that staging in its refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A fault carries the code that fault names and says where it was thrown.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The rendering is handed in.",
+    },
   ],
   name: "generate",
   arguments: [
