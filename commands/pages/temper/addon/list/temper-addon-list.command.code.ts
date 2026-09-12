@@ -4,8 +4,8 @@ import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/co
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import {
   DATA,
-  OK,
   refused,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
@@ -48,12 +48,8 @@ export function temperAddonList(argv: readonly string[], given: Given): Answer {
   }
 
   if (taken.json) {
-    return { report: JSON.stringify(all, null, SPACES).split("\n"), refusals: [], code: OK }
+    return told(JSON.stringify(all, null, SPACES).split("\n"))
   }
 
-  return {
-    report: [...rowsOf(all), `${String(all.length)} addon(s) under ${root}`],
-    refusals: [],
-    code: OK,
-  }
+  return told([...rowsOf(all), `${String(all.length)} addon(s) under ${root}`])
 }

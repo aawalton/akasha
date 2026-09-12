@@ -1,6 +1,6 @@
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import { OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { temperCatalogList as page } from "akasha/commands/pages/temper/catalog/list/temper-catalog-list.command.ts"
@@ -18,8 +18,8 @@ export function temperCatalogList(argv: readonly string[], given: Given): Answer
   const domains = [...CATALOG_DOMAIN_KEYS]
 
   if (read.taken.json) {
-    return { report: JSON.stringify({ domains }, null, SPACES).split("\n"), refusals: [], code: OK }
+    return told(JSON.stringify({ domains }, null, SPACES).split("\n"))
   }
 
-  return { report: [HEADING, ...domains], refusals: [], code: OK }
+  return told([HEADING, ...domains])
 }
