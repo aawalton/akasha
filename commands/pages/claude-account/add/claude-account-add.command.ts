@@ -64,6 +64,10 @@ export const claudeAccountAdd = {
     },
     {
       invariantKind: "departure",
+      statement: "A run that refused after the commit landed names that commit in its refusal.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run that threw before the commit landed is refused as the fault alone.",
     },
     {

@@ -1,6 +1,10 @@
 import { expect, test } from "bun:test"
 import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  DATA,
+  OPERATIONAL,
+  refusedBy,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
@@ -48,6 +52,20 @@ test("a run that threw after the commit landed names that commit", async () => {
   expect(said.report).toEqual([LANDED])
   expect(refused).toContain("stopped part way")
   expect(refused).toContain(LANDED)
+})
+
+test("a refusal returned after the commit landed names that commit too", async () => {
+  const said = await filedBy(ASKED, HERE, async (done) => {
+    done.push(LANDED)
+    return refusedBy(["the unit would not install"], DATA)
+  })
+
+  const refused = said.refusals.join(" ")
+  expect(said.report).toEqual([LANDED])
+  expect(refused).toContain("the unit would not install")
+  expect(refused).toContain("stopped part way")
+  expect(refused).toContain(LANDED)
+  expect(said.code).toBe(DATA)
 })
 
 test("a run that threw before the commit landed says nothing of a commit", async () => {

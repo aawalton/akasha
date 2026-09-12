@@ -8,6 +8,7 @@ import { email as emailArgument } from "akasha/commands/arguments/pages/email.ar
 import {
   answering,
   DATA,
+  keeping,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -135,7 +136,7 @@ export async function filedBy(
   given: Given,
   filing: Filing = filedPage
 ): Promise<Answer> {
-  return await answering(async (done) => await filing(done, read, given))
+  return await answering(async (done) => keeping(done, await filing(done, read, given)))
 }
 
 export async function claudeAccountAdd(argv: readonly string[], given: Given): Promise<Answer> {
