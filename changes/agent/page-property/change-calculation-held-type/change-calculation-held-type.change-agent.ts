@@ -40,6 +40,14 @@ export const changeCalculationHeldType = {
       statement: "A code file exporting no such calculation is refused rather than passed over.",
     },
     {
+      invariantKind: "constraint",
+      statement: "A slug making no type name refuses the change before any code is composed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The path the type is imported from is written as the source spells a string.",
+    },
+    {
       invariantKind: "departure",
       statement: "One page refused refuses the whole change.",
     },

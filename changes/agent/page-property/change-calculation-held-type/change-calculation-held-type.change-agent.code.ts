@@ -7,8 +7,8 @@ import {
   reach,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
-import { typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { importedFrom, saidAs } from "akasha/pages/body/page-body.module.code.ts"
+import { nameFaultIn, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
@@ -81,6 +81,8 @@ export async function changeCalculationHeldType(
     if (slug === null || code === null || typesAt === null) {
       return refusing(`\`${at}\` states no slug to name a type`)
     }
+    const fault = nameFaultIn(slug)
+    if (fault !== null) return refusing(`\`${at}\` is refused, and ${fault}`)
     const text = over.textOf(code)
     if (text === null) return refusing(`\`${code}\` could not be read`)
     const worked = workedIn(text)
@@ -101,7 +103,7 @@ export async function changeCalculationHeldType(
     if (drawn === null) return refusing(`\`${code}\` takes the calculation shape from nowhere`)
     const shown = await reach(over, CHANGE_CODE, {
       at: code,
-      new: `import type { ${named} } from "${importedFrom(typesAt)}"\n${drawn[0]}`,
+      new: `import type { ${named} } from ${saidAs(importedFrom(typesAt))}\n${drawn[0]}`,
       old: drawn[0],
     })
     if (shown.said.refused !== null)

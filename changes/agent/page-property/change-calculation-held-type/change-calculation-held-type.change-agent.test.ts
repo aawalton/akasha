@@ -17,6 +17,7 @@ import {
   refusingAt,
   worldOf,
 } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { faultSaid, parsedAs } from "akasha/code/source/code-source.module.code.ts"
 
 const KIND = "computed-property"
 
@@ -51,7 +52,8 @@ type Caught = { at: string; given: Record<string, unknown> }
 function worldFor(
   reaching: Reaching,
   bodies: Readonly<Record<string, string>>,
-  paths: readonly string[] = [AT]
+  paths: readonly string[] = [AT],
+  slug = "total-remaining"
 ): World {
   return {
     ...worldOf(bodies),
@@ -60,7 +62,7 @@ function worldFor(
       everyOfType: () => paths.map((path) => ({ path })),
       pageByPath: () => ({
         pageTypeSlug: KIND,
-        slug: "total-remaining",
+        slug,
         code: "ts",
         types: "ts",
       }),
@@ -112,6 +114,40 @@ test("a calculation already naming that type is passed over", async () => {
 
   expect(said.refused ?? "").toMatch(/names its property's type already/)
   expect(seen).toEqual([])
+})
+
+test("a slug making no type name refuses the change before any code is composed", async () => {
+  const seen: Caught[] = []
+
+  const said = await changeCalculationHeldType(
+    worldFor(catching(seen), { [CODE]: BODY }, [AT], "total remaining"),
+    {}
+  )
+
+  expect(said.refused ?? "").toContain("no `export const` may be declared under")
+  expect(seen).toEqual([])
+})
+
+test("a slug saying nothing refuses the change", async () => {
+  const seen: Caught[] = []
+
+  const said = await changeCalculationHeldType(
+    worldFor(catching(seen), { [CODE]: BODY }, [AT], ""),
+    {}
+  )
+
+  expect(said.refused ?? "").toContain("names no export")
+  expect(seen).toEqual([])
+})
+
+test("the code each change is handed carries no parse fault", async () => {
+  const seen: Caught[] = []
+
+  await changeCalculationHeldType(worldFor(catching(seen), { [CODE]: BODY }), {})
+
+  for (const one of seen) {
+    expect(faultSaid(parsedAs(CODE, `${String(one.given.new)}\n`))).toBeNull()
+  }
 })
 
 test("a code file exporting no such calculation is refused", async () => {
