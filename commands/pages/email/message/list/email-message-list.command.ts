@@ -13,12 +13,11 @@ export const emailMessageList = {
     { said: "--max <n>", takes: "how many messages to answer with at most" },
     { said: "--label <id>", takes: "a label id a listing is held to, said again for each" },
   ],
-  helpNotes: [
-    "the search is Gmail's own syntax, so `from:`, `subject:`, `newer_than:7d` and `has:attachment` all hold.",
-    "a summary carries the id, the thread, from, to, subject, date and the snippet.",
-    "a search too awkward to say in a shell is read from a file, or from standard input at `-`.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A summary carries the id, the thread, from, to, subject, date and the snippet.",
+    },
     {
       invariantKind: "departure",
       statement: "A listing naming no search matches every message.",
