@@ -4,7 +4,7 @@ export const changeArguing = {
   id: "01a08174-78c9-7fb4-91e3-ca3e56c1323c",
   type: "module",
   slug: "change-arguing",
-  definition: "whether a command under `akasha change` was named a word it takes none of",
+  definition: "what a command under `akasha change` makes of the words on its command line",
   code: "ts",
   test: "ts",
   invariants: [
@@ -27,6 +27,26 @@ export const changeArguing = {
     {
       invariantKind: "departure",
       statement: "The refusal names the act the caller was making and the word that call named.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The help flag is answered rather than handed on to be refused as a word.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Both spellings of the help flag are answered.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The help flag is read as the first word of the call alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A help answer opens with the call that reached the command.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The lines under that call are handed in rather than written here.",
     },
     {
       invariantKind: "absence",
