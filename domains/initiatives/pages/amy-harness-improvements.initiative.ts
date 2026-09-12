@@ -6,7 +6,12 @@ export const amyHarnessImprovements = {
   slug: "amy-harness-improvements",
   domain: "domain/alan-harness",
   persona: "amy",
-  intents: [],
+  intents: [
+    {
+      statement:
+        "The Stop hook names a seat's Claude Code session for that seat, so Alan sees who he is talking to.",
+    },
+  ],
   constraints: [
     "This initiative stays when its last intent goes, rather than dying as a finished initiative does.",
   ],
