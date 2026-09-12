@@ -1,4 +1,4 @@
-import type { TraitEffect } from "akasha/temper/crafting-addon/potion-constants/potion-constants.module.code.ts"
+import type { TraitEffect } from "akasha/temper/crafting-addon/modules/potion-constants/potion-constants.module.code.ts"
 
 export interface BagSlot {
   bagId: number

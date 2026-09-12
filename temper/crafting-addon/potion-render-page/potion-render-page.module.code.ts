@@ -1,5 +1,5 @@
 import { libAsync } from "akasha/temper/crafting-addon/modules/craft-libraries/craft-libraries.module.code.ts"
-import { asNumber } from "akasha/temper/crafting-addon/potion-casts/potion-casts.module.code.ts"
+import { asNumber } from "akasha/temper/crafting-addon/modules/potion-casts/potion-casts.module.code.ts"
 import {
   COLOR_SELECT,
   COLOR_USEABLE,
@@ -7,7 +7,7 @@ import {
   TEXTURE_FAVORITE,
   TEXTURE_REAGENTUNKNOWN,
   TEXTURE_TRAITUNKNOWN,
-} from "akasha/temper/crafting-addon/potion-constants/potion-constants.module.code.ts"
+} from "akasha/temper/crafting-addon/modules/potion-constants/potion-constants.module.code.ts"
 import {
   asIngredientRuntime,
   asPotion,

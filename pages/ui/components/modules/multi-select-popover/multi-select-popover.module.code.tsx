@@ -6,7 +6,7 @@ import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "akasha/design/interfaces/primitives/popover/popover.module.code.tsx"
+} from "akasha/design/interfaces/primitives/modules/popover/popover.module.code.tsx"
 import type { BadgeVariant } from "akasha/pages/core/schema/modules/color-rule-variant/color-rule-variant.module.code.ts"
 import type { SelectOption } from "akasha/pages/core/schema/select-option-create/select-option-create.module.code.ts"
 import { Plus, X } from "lucide-react"

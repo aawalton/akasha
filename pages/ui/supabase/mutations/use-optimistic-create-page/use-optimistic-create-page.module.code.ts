@@ -3,7 +3,7 @@ import type { Page } from "akasha/pages/core/modules/page-types/page-types.modul
 import { runOptimisticMutation } from "akasha/pages/ui/supabase/mutations/modules/apply-prediction/apply-prediction.module.code.ts"
 import { buildPredictedRow } from "akasha/pages/ui/supabase/mutations/modules/build-predicted-row/build-predicted-row.module.code.ts"
 import { resolvePageTypeId } from "akasha/pages/ui/supabase/mutations/modules/collection-lookup/collection-lookup.module.code.ts"
-import type { PagesMutationPlan } from "akasha/pages/ui-store/optimistic/plan/plan.module.code.ts"
+import type { PagesMutationPlan } from "akasha/pages/ui-store/optimistic/modules/plan/plan.module.code.ts"
 import { getPagesStore } from "akasha/pages/ui-store/singleton/singleton.module.code.ts"
 
 export function useOptimisticCreatePage(mutate: (args: CreatePageArgs) => Promise<Page>) {

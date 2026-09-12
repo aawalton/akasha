@@ -5,7 +5,7 @@ import {
   sentenceMarkSchema,
 } from "akasha/alan/harness/voice-core/modules/mark-schema/mark-schema.module.code.ts"
 import { KOKORO_STREAM_VARIANT } from "akasha/pages/ui/media/modules/media-src/media-src.module.code.ts"
-import { useOptionalPlayingSession } from "akasha/pages/ui/media/playing-session-context/playing-session-context.module.code.tsx"
+import { useOptionalPlayingSession } from "akasha/pages/ui/media/modules/playing-session-context/playing-session-context.module.code.tsx"
 import { useEffect, useState } from "react"
 import { z } from "zod"
 

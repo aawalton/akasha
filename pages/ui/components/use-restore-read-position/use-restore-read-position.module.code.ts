@@ -4,7 +4,7 @@ import { reportError } from "akasha/alan/harness/errors-client/modules/error-rep
 import {
   decideReadRestore,
   fractionToScrollTop,
-} from "akasha/pages/ui/components/position-fraction/position-fraction.module.code.ts"
+} from "akasha/pages/ui/components/modules/position-fraction/position-fraction.module.code.ts"
 import { type RefObject, useEffect, useRef, useState } from "react"
 
 const LAYOUT_MAX_FRAMES = 30

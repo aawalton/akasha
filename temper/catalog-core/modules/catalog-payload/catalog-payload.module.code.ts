@@ -10,7 +10,7 @@ import type { FurnitureCatalogData } from "akasha/temper/capture-shapes/modules/
 import type { InventoryConstantsCatalogData } from "akasha/temper/capture-shapes/modules/inventory-constants-catalog/inventory-constants-catalog.module.code.ts"
 import type { ItemSetCatalogEntry } from "akasha/temper/capture-shapes/modules/item-set-catalog/item-set-catalog.module.code.ts"
 import type { LoreLibraryCatalogCategory } from "akasha/temper/capture-shapes/modules/lore-library-catalog/lore-library-catalog.module.code.ts"
-import type { PoiCatalogZone } from "akasha/temper/capture-shapes/poi-catalog/poi-catalog.module.code.ts"
+import type { PoiCatalogZone } from "akasha/temper/capture-shapes/modules/poi-catalog/poi-catalog.module.code.ts"
 import type { RecipeCatalogList } from "akasha/temper/capture-shapes/recipe-catalog/recipe-catalog.module.code.ts"
 import type { ScribingCatalogData } from "akasha/temper/capture-shapes/scribing-catalog/scribing-catalog.module.code.ts"
 import type { SkillCatalogLine } from "akasha/temper/capture-shapes/skill-catalog/skill-catalog.module.code.ts"

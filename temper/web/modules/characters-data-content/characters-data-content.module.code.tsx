@@ -45,7 +45,10 @@ import {
   type SortField,
   TAB_LABELS,
 } from "akasha/temper/web/modules/characters-filter-types/characters-filter-types.module.code.ts"
-import { PlanTab, usePlanEntities } from "akasha/temper/web/plan-tab/plan-tab.module.code.tsx"
+import {
+  PlanTab,
+  usePlanEntities,
+} from "akasha/temper/web/modules/plan-tab/plan-tab.module.code.tsx"
 import { Trophy } from "lucide-react"
 import { useCallback, useMemo, useRef } from "react"
 

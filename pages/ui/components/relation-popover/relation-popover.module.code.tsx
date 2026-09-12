@@ -5,7 +5,7 @@ import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "akasha/design/interfaces/primitives/popover/popover.module.code.tsx"
+} from "akasha/design/interfaces/primitives/modules/popover/popover.module.code.tsx"
 import { useDebouncedValue } from "akasha/design/interfaces/primitives/use-debounced-value/use-debounced-value.module.code.ts"
 import type { PageResolverValue } from "akasha/pages/ui/contexts/modules/page-resolver-context/page-resolver-context.module.code.tsx"
 import { useRelationPicker } from "akasha/pages/ui/contexts/relation-picker-context/relation-picker-context.module.code.tsx"

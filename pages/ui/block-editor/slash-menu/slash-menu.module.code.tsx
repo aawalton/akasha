@@ -11,7 +11,7 @@ import {
   Popover,
   PopoverAnchor,
   PopoverContent,
-} from "akasha/design/interfaces/primitives/popover/popover.module.code.tsx"
+} from "akasha/design/interfaces/primitives/modules/popover/popover.module.code.tsx"
 import type {
   HeadingLevel,
   V1BlockType,

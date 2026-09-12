@@ -10,7 +10,7 @@ import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "akasha/design/interfaces/primitives/popover/popover.module.code.tsx"
+} from "akasha/design/interfaces/primitives/modules/popover/popover.module.code.tsx"
 import type { BadgeVariant } from "akasha/pages/core/schema/modules/color-rule-variant/color-rule-variant.module.code.ts"
 import { formatSmartDate } from "akasha/pages/core/view/modules/format-smart-date/format-smart-date.module.code.ts"
 import { useState } from "react"

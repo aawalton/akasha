@@ -2,7 +2,7 @@
 
 import * as SelectPrimitive from "@radix-ui/react-select"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
-import { POPOVER_COLLISION_PADDING } from "akasha/design/interfaces/primitives/popover-tokens/popover-tokens.module.code.ts"
+import { POPOVER_COLLISION_PADDING } from "akasha/design/interfaces/primitives/modules/popover-tokens/popover-tokens.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import {
   SurfaceProvider,

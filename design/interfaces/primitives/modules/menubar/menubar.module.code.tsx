@@ -2,7 +2,7 @@
 
 import * as MenubarPrimitive from "@radix-ui/react-menubar"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
-import { POPOVER_COLLISION_PADDING } from "akasha/design/interfaces/primitives/popover-tokens/popover-tokens.module.code.ts"
+import { POPOVER_COLLISION_PADDING } from "akasha/design/interfaces/primitives/modules/popover-tokens/popover-tokens.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { SurfaceProvider } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { CheckIcon, ChevronRightIcon, CircleIcon } from "lucide-react"

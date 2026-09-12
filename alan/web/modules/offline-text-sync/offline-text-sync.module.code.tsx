@@ -30,7 +30,7 @@ import { reportReadCompletionDiag } from "akasha/alan/web/read-completion-diagno
 import {
   POSITION_WRITE_EVENT,
   parsePositionWriteDetail,
-} from "akasha/pages/ui/components/position-write-event/position-write-event.module.code.ts"
+} from "akasha/pages/ui/components/modules/position-write-event/position-write-event.module.code.ts"
 import { getContentPersistence } from "akasha/pages/ui-store/singleton/singleton.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 import { useEffect, useRef } from "react"

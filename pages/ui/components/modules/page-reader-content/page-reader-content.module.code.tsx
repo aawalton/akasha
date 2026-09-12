@@ -18,7 +18,7 @@ import {
   decideRestoreReady,
   fractionToScrollTop,
   resolveResumeFraction,
-} from "akasha/pages/ui/components/position-fraction/position-fraction.module.code.ts"
+} from "akasha/pages/ui/components/modules/position-fraction/position-fraction.module.code.ts"
 import { ReaderAudioBlock } from "akasha/pages/ui/components/reader-audio-block/reader-audio-block.module.code.tsx"
 import {
   type ReaderNeighborLink,

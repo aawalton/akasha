@@ -3,7 +3,7 @@ import { join } from "node:path"
 import {
   PORCELAIN_STATUS_ARGS,
   parsePorcelainStatusZ,
-} from "akasha/git/porcelain-status/porcelain-status.module.code.ts"
+} from "akasha/git/modules/porcelain-status/porcelain-status.module.code.ts"
 import { addonUpstreamDir } from "akasha/temper/eso-paths/modules/eso-paths/eso-paths.module.code.ts"
 import {
   LIBSETS_UPSTREAM,

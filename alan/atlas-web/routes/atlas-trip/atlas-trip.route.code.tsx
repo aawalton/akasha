@@ -3,8 +3,8 @@ import {
   TIME_BUCKET_TOKENS,
   type TimeBucket,
   timeBucket,
-} from "akasha/alan/atlas-web/pin-time-color/pin-time-color.module.code.ts"
-import { type LocationPin, toPins } from "akasha/alan/atlas-web/pins/pins.module.code.ts"
+} from "akasha/alan/atlas-web/modules/pin-time-color/pin-time-color.module.code.ts"
+import { type LocationPin, toPins } from "akasha/alan/atlas-web/modules/pins/pins.module.code.ts"
 import { createServerClient } from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
 import {
   PageLayout,

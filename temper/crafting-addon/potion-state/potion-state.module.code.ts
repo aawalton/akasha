@@ -1,9 +1,9 @@
-import type { TraitEffect } from "akasha/temper/crafting-addon/potion-constants/potion-constants.module.code.ts"
+import type { TraitEffect } from "akasha/temper/crafting-addon/modules/potion-constants/potion-constants.module.code.ts"
 import {
   FAVORITE_COLOR,
   TRAIT_CONTROL_NAMES,
   TRAIT_EFFECT,
-} from "akasha/temper/crafting-addon/potion-constants/potion-constants.module.code.ts"
+} from "akasha/temper/crafting-addon/modules/potion-constants/potion-constants.module.code.ts"
 import type {
   AccountSettings,
   Ingredient,

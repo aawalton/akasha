@@ -4,7 +4,7 @@ import {
   mediaSrcForVariant,
 } from "akasha/pages/ui/media/modules/media-src/media-src.module.code.ts"
 import type { NativeTtsAdapter } from "akasha/pages/ui/media/modules/native-tts-adapter/native-tts-adapter.module.code.ts"
-import type { PlayingSessionState } from "akasha/pages/ui/media/playing-session/playing-session.module.code.ts"
+import type { PlayingSessionState } from "akasha/pages/ui/media/modules/playing-session/playing-session.module.code.ts"
 import {
   selectTransport,
   type Transport,

@@ -15,7 +15,7 @@ import {
   type ExistingSnapshotRow,
   planChunkImport,
   planSnapshotImport,
-} from "akasha/temper/items-core/plan-inventory-import/plan-inventory-import.module.code.ts"
+} from "akasha/temper/items-core/modules/plan-inventory-import/plan-inventory-import.module.code.ts"
 import { shardInventoryJson } from "akasha/temper/items-core/shard-inventory/shard-inventory.module.code.ts"
 import type { InventoryImportResult } from "akasha/temper/player-inventory-management-ui/modules/inventory-import-types/inventory-import-types.module.code.ts"
 import { useCallback, useEffect, useRef, useState } from "react"

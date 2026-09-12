@@ -7,9 +7,9 @@ import {
   KOKORO_STREAM_VARIANT,
   STORED_READ_ALOUD_VARIANT,
 } from "akasha/pages/ui/media/modules/media-src/media-src.module.code.ts"
-import { planPlayFromSentence } from "akasha/pages/ui/media/play-from-sentence/play-from-sentence.module.code.ts"
-import type { ActiveSessionInit } from "akasha/pages/ui/media/playing-session/playing-session.module.code.ts"
-import { useOptionalPlayingSession } from "akasha/pages/ui/media/playing-session-context/playing-session-context.module.code.tsx"
+import { planPlayFromSentence } from "akasha/pages/ui/media/modules/play-from-sentence/play-from-sentence.module.code.ts"
+import type { ActiveSessionInit } from "akasha/pages/ui/media/modules/playing-session/playing-session.module.code.ts"
+import { useOptionalPlayingSession } from "akasha/pages/ui/media/modules/playing-session-context/playing-session-context.module.code.tsx"
 import { type ComponentProps, useCallback, useMemo } from "react"
 import { useLocation } from "react-router"
 

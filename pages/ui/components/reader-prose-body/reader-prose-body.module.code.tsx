@@ -5,7 +5,7 @@ import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.cod
 import {
   clampFraction,
   fractionToScrollTop,
-} from "akasha/pages/ui/components/position-fraction/position-fraction.module.code.ts"
+} from "akasha/pages/ui/components/modules/position-fraction/position-fraction.module.code.ts"
 import {
   blockPositionForFraction,
   buildProseCharTable,

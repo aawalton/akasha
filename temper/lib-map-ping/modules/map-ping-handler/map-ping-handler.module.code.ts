@@ -22,7 +22,7 @@ import type {
   MapPingHandlerInstance,
   PendingPing,
 } from "akasha/temper/lib-map-ping/modules/map-ping-types/map-ping-types.module.code.ts"
-import { LeakyBucket } from "akasha/temper/lib-map-ping/ping-leaky-bucket/ping-leaky-bucket.module.code.ts"
+import { LeakyBucket } from "akasha/temper/lib-map-ping/modules/ping-leaky-bucket/ping-leaky-bucket.module.code.ts"
 
 const logger = INTERNAL.logger
 const callback = INTERNAL.callback

@@ -1,4 +1,4 @@
-import type { PlaceCandidate } from "akasha/alan/atlas-web/place-candidate/place-candidate.module.code.ts"
+import type { PlaceCandidate } from "akasha/alan/atlas-web/modules/place-candidate/place-candidate.module.code.ts"
 import { buildGeoapifyAutocompleteUrl } from "akasha/alan/harness/geo-io/modules/geoapify/geoapify.module.code.ts"
 import { z } from "zod"
 

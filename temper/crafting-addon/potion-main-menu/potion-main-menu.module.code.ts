@@ -1,10 +1,10 @@
-import { asLabelControl } from "akasha/temper/crafting-addon/potion-casts/potion-casts.module.code.ts"
+import { asLabelControl } from "akasha/temper/crafting-addon/modules/potion-casts/potion-casts.module.code.ts"
 import {
   TEXTURE_POISON_DISABLED,
   TEXTURE_POISON_DOWN,
   TEXTURE_POISON_OVER,
   TEXTURE_POISON_UP,
-} from "akasha/temper/crafting-addon/potion-constants/potion-constants.module.code.ts"
+} from "akasha/temper/crafting-addon/modules/potion-constants/potion-constants.module.code.ts"
 import {
   getAccountSettings,
   getPlayerSettings,

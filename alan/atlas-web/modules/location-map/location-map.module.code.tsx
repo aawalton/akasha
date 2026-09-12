@@ -1,5 +1,5 @@
 import "maplibre-gl/dist/maplibre-gl.css"
-import type { LocationPin } from "akasha/alan/atlas-web/pins/pins.module.code.ts"
+import type { LocationPin } from "akasha/alan/atlas-web/modules/pins/pins.module.code.ts"
 import type { StyleSpecification } from "maplibre-gl"
 import { useEffect, useRef } from "react"
 

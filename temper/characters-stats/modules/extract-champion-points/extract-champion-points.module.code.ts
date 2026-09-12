@@ -2,7 +2,7 @@ import {
   type ChampionPointSource,
   championPoints,
 } from "akasha/temper/champion-points/modules/champion-point-source/champion-point-source.module.code.ts"
-import type { PipelineStage } from "akasha/temper/characters-stats/pipeline-types/pipeline-types.module.code.ts"
+import type { PipelineStage } from "akasha/temper/characters-stats/modules/pipeline-types/pipeline-types.module.code.ts"
 
 export function getCPSkillDisplayName(championPointId: string): string {
   const source = championPoints.has(championPointId)

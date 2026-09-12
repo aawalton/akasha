@@ -1,4 +1,4 @@
-import { asBoolean } from "akasha/temper/crafting-addon/potion-casts/potion-casts.module.code.ts"
+import { asBoolean } from "akasha/temper/crafting-addon/modules/potion-casts/potion-casts.module.code.ts"
 import {
   getAccountSettings,
   getPlayerSettings,

@@ -1,4 +1,4 @@
-import { placeCandidateSchema } from "akasha/alan/atlas-web/place-candidate/place-candidate.module.code.ts"
+import { placeCandidateSchema } from "akasha/alan/atlas-web/modules/place-candidate/place-candidate.module.code.ts"
 import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
 import { createServerClient } from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
 import { createPage } from "akasha/pages/access/modules/create/create.module.code.ts"

@@ -9,7 +9,7 @@ import { LIB } from "akasha/temper/lib-map-pins/modules/map-pins-lib/map-pins-li
 import {
   isEnabled,
   setEnabled,
-} from "akasha/temper/lib-map-pins/pin-state/pin-state.module.code.ts"
+} from "akasha/temper/lib-map-pins/modules/pin-state/pin-state.module.code.ts"
 
 function fixupPool(
   pool: WorldMapFilterControlPool | undefined,

@@ -6,7 +6,7 @@ import {
   buildPatchPlan,
 } from "akasha/pages/ui/supabase/mutations/modules/build-patch-plan/build-patch-plan.module.code.ts"
 import { extractTargetIds } from "akasha/pages/ui/supabase/mutations/modules/extract-target-ids/extract-target-ids.module.code.ts"
-import type { PagesMutationPlan } from "akasha/pages/ui-store/optimistic/plan/plan.module.code.ts"
+import type { PagesMutationPlan } from "akasha/pages/ui-store/optimistic/modules/plan/plan.module.code.ts"
 
 export function useOptimisticUpsertPages(
   mutate: (args: UpsertPagesArgs) => Promise<readonly Page[]>

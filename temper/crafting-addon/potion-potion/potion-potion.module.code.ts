@@ -2,13 +2,13 @@ import {
   asNumber,
   asString,
   asZoColorDef,
-} from "akasha/temper/crafting-addon/potion-casts/potion-casts.module.code.ts"
-import type { TraitEffect } from "akasha/temper/crafting-addon/potion-constants/potion-constants.module.code.ts"
+} from "akasha/temper/crafting-addon/modules/potion-casts/potion-casts.module.code.ts"
+import type { TraitEffect } from "akasha/temper/crafting-addon/modules/potion-constants/potion-constants.module.code.ts"
 import {
   COLOR_DISABLED,
   COLOR_SELECT,
   TRAIT_EFFECT,
-} from "akasha/temper/crafting-addon/potion-constants/potion-constants.module.code.ts"
+} from "akasha/temper/crafting-addon/modules/potion-constants/potion-constants.module.code.ts"
 import { getPlayerSettings } from "akasha/temper/crafting-addon/potion-saved-variables/potion-saved-variables.module.code.ts"
 import { PotMaker } from "akasha/temper/crafting-addon/potion-state/potion-state.module.code.ts"
 import {

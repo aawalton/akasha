@@ -5,7 +5,7 @@ import {
   recordVisibleUpdate,
 } from "akasha/pages/ui/perf/modules/page-card-perf/page-card-perf.module.code.ts"
 import { runPagesOptimisticMutation } from "akasha/pages/ui-store/optimistic/modules/optimistic-mutation/optimistic-mutation.module.code.ts"
-import type { PagesMutationPlan } from "akasha/pages/ui-store/optimistic/plan/plan.module.code.ts"
+import type { PagesMutationPlan } from "akasha/pages/ui-store/optimistic/modules/plan/plan.module.code.ts"
 import { getPagesStore } from "akasha/pages/ui-store/singleton/singleton.module.code.ts"
 
 export async function runOptimisticMutation<Result>(args: {

@@ -14,7 +14,7 @@ import {
   type Taken,
   WISDOM_PAGE,
 } from "akasha/alan/harness/attributes/modules/reading/attributes-reading.module.code.ts"
-import { askingIn } from "akasha/alan/harness/plants/reading/plants-reading.module.code.ts"
+import { askingIn } from "akasha/alan/harness/plants/modules/reading/plants-reading.module.code.ts"
 import { openedDayWindow } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
 import { kebabisedRow } from "akasha/pages/modules/akasha-page-values/akasha-page-values.module.code.ts"
 import {

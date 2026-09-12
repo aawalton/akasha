@@ -11,7 +11,7 @@ import {
 import type {
   PagesMutationPlan,
   RowOverlay,
-} from "akasha/pages/ui-store/optimistic/plan/plan.module.code.ts"
+} from "akasha/pages/ui-store/optimistic/modules/plan/plan.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
 import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"

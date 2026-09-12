@@ -25,7 +25,7 @@ import {
   buildWritePoolConfigScript,
   foldPoolConfigHash,
   serializePoolConfig,
-} from "akasha/infrastructure/inference/pool/pool-config-build/pool-config-build.module.code.ts"
+} from "akasha/infrastructure/inference/pool/modules/pool-config-build/pool-config-build.module.code.ts"
 import {
   buildApplyScript,
   buildPruneScript,

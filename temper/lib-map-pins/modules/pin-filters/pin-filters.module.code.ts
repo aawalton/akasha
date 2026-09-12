@@ -13,7 +13,7 @@ import type {
 import {
   isEnabled,
   setEnabled,
-} from "akasha/temper/lib-map-pins/pin-state/pin-state.module.code.ts"
+} from "akasha/temper/lib-map-pins/modules/pin-state/pin-state.module.code.ts"
 
 export function addPinFilter(
   lib: Lib,

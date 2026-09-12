@@ -1,6 +1,6 @@
 "use client"
 
-import { clampFraction } from "akasha/pages/ui/components/position-fraction/position-fraction.module.code.ts"
+import { clampFraction } from "akasha/pages/ui/components/modules/position-fraction/position-fraction.module.code.ts"
 import type { ReaderPositionAnchor } from "akasha/pages/ui/components/reader-prose-body/reader-prose-body.module.code.tsx"
 import { type RefObject, useEffect, useRef } from "react"
 

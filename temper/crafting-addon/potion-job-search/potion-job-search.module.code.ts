@@ -1,6 +1,6 @@
 import { libAsync } from "akasha/temper/crafting-addon/modules/craft-libraries/craft-libraries.module.code.ts"
-import type { TraitEffect } from "akasha/temper/crafting-addon/potion-constants/potion-constants.module.code.ts"
-import { PAGE_SIZE } from "akasha/temper/crafting-addon/potion-constants/potion-constants.module.code.ts"
+import type { TraitEffect } from "akasha/temper/crafting-addon/modules/potion-constants/potion-constants.module.code.ts"
+import { PAGE_SIZE } from "akasha/temper/crafting-addon/modules/potion-constants/potion-constants.module.code.ts"
 import { getPlayerSettings } from "akasha/temper/crafting-addon/potion-saved-variables/potion-saved-variables.module.code.ts"
 import { PotMaker } from "akasha/temper/crafting-addon/potion-state/potion-state.module.code.ts"
 import { isThirdAlchemySlotUnlocked } from "akasha/temper/crafting-addon/potion-tooltip-helpers/potion-tooltip-helpers.module.code.ts"

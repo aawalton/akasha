@@ -2,7 +2,7 @@ import {
   addResponseSchema,
   type PlaceCandidate,
   searchResponseSchema,
-} from "akasha/alan/atlas-web/place-candidate/place-candidate.module.code.ts"
+} from "akasha/alan/atlas-web/modules/place-candidate/place-candidate.module.code.ts"
 import {
   InputGroup,
   InputGroupAddon,

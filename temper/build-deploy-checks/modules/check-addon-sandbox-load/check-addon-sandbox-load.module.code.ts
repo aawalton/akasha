@@ -22,7 +22,7 @@ import {
 import { parseSingleFileFlag } from "akasha/temper/build-deploy-checks/modules/cli-args/cli-args.module.code.ts"
 import { errorMessage } from "akasha/temper/build-deploy-checks/modules/error-message/error-message.module.code.ts"
 import { ESO_BASE_GAME_STRING_IDS } from "akasha/temper/build-deploy-checks/modules/eso-base-game-string-ids/eso-base-game-string-ids.module.code.ts"
-import { renderPopulationBound } from "akasha/temper/build-deploy-checks/population-bound/population-bound.module.code.ts"
+import { renderPopulationBound } from "akasha/temper/build-deploy-checks/modules/population-bound/population-bound.module.code.ts"
 import { makeSandboxedLuaVm } from "akasha/temper/lua-runner/sandboxed-lua-vm/sandboxed-lua-vm.module.code.ts"
 import { errnoCodeOf } from "akasha/utils/process/modules/pid-signal/pid-signal.module.code.ts"
 

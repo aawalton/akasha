@@ -23,7 +23,7 @@ import {
   enablePin,
   isEnabled,
   setEnabled,
-} from "akasha/temper/lib-map-pins/pin-state/pin-state.module.code.ts"
+} from "akasha/temper/lib-map-pins/modules/pin-state/pin-state.module.code.ts"
 import {
   addPinType,
   createPin,
@@ -38,7 +38,7 @@ import {
   setLayoutData,
   setLayoutKey,
   setResizeCallback,
-} from "akasha/temper/lib-map-pins/pin-types/pin-types.module.code.ts"
+} from "akasha/temper/lib-map-pins/modules/pin-types/pin-types.module.code.ts"
 
 function onMapChanged(this: void): undefined {
   const [mapGroup, filterKey] = getCurrentMapFilterGroup()

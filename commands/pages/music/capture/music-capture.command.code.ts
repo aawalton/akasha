@@ -20,7 +20,6 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { textAt } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { musicCapture as page } from "akasha/commands/pages/music/capture/music-capture.command.ts"
 import {
   buildPlayRow,
   esoDayOfPlay,
@@ -31,7 +30,8 @@ import {
   playKeyOf,
   resumeCursorMs,
   sumNewMusicMinutes,
-} from "akasha/commands/pages/music/capture/play-row/play-row.module.code.ts"
+} from "akasha/commands/pages/music/capture/modules/play-row/play-row.module.code.ts"
+import { musicCapture as page } from "akasha/commands/pages/music/capture/music-capture.command.ts"
 import { uuidVersion7 } from "akasha/pages/ids/uuid-version-7/uuid-version-7.module.code.ts"
 import {
   everyOfType,

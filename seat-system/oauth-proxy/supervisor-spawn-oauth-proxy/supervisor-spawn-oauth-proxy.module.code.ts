@@ -21,7 +21,7 @@ import { pidAliveOrRefuse } from "akasha/utils/process/modules/pid-signal/pid-si
 import {
   pidsListeningOn,
   portIsHeld,
-} from "akasha/utils/process/port-holding/port-holding.module.code.ts"
+} from "akasha/utils/process/modules/port-holding/port-holding.module.code.ts"
 import { readProcEnvVar } from "akasha/utils/process/proc-environ/proc-environ.module.code.ts"
 
 const STALE_PROXY_SHUTDOWN_BUDGET_MS = 5_000

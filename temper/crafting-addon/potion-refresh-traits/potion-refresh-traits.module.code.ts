@@ -1,4 +1,4 @@
-import { TEXTURE_TRAITUNKNOWN } from "akasha/temper/crafting-addon/potion-constants/potion-constants.module.code.ts"
+import { TEXTURE_TRAITUNKNOWN } from "akasha/temper/crafting-addon/modules/potion-constants/potion-constants.module.code.ts"
 import {
   asIngredientRuntime,
   asVoidHolderMethod,

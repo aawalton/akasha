@@ -1,6 +1,6 @@
 import { potions } from "akasha/temper/alchemy/potion-source/potion-source.module.code.ts"
 import { foodOrDrink } from "akasha/temper/character-sources/modules/food-or-drink-source/food-or-drink-source.module.code.ts"
-import type { PipelineStage } from "akasha/temper/characters-stats/pipeline-types/pipeline-types.module.code.ts"
+import type { PipelineStage } from "akasha/temper/characters-stats/modules/pipeline-types/pipeline-types.module.code.ts"
 import { lookupSourceUnlessSentinel } from "akasha/temper/characters-stats/source-lookup/source-lookup.module.code.ts"
 
 export const extractConsumables: PipelineStage = (build, _context) => {

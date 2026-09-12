@@ -5,7 +5,10 @@ import type {
   PoolPresentation,
 } from "akasha/story/engine/core/modules/game-schema/game-schema.module.code.ts"
 import type { ClientHud } from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
-import { computePoolBars, type PoolBar } from "akasha/story/ui/pool-bars/pool-bars.module.code.ts"
+import {
+  computePoolBars,
+  type PoolBar,
+} from "akasha/story/ui/modules/pool-bars/pool-bars.module.code.ts"
 
 const FILL_CLASS: Record<PoolBarColor, string> = {
   red: "bg-red",

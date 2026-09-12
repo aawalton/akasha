@@ -1,4 +1,4 @@
-import { asBoolean } from "akasha/temper/crafting-addon/potion-casts/potion-casts.module.code.ts"
+import { asBoolean } from "akasha/temper/crafting-addon/modules/potion-casts/potion-casts.module.code.ts"
 import { updateKeyStrip } from "akasha/temper/crafting-addon/potion-keybind-helpers/potion-keybind-helpers.module.code.ts"
 import { getAccountSettings } from "akasha/temper/crafting-addon/potion-saved-variables/potion-saved-variables.module.code.ts"
 import { PotMaker } from "akasha/temper/crafting-addon/potion-state/potion-state.module.code.ts"

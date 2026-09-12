@@ -29,7 +29,7 @@ import { useBackpackSettings } from "akasha/temper/player-inventory-management-u
 import {
   useLoggingSettings,
   useSafetySettings,
-} from "akasha/temper/web/player-settings/player-settings.module.code.ts"
+} from "akasha/temper/web/modules/player-settings/player-settings.module.code.ts"
 import { useEffect, useMemo, useState } from "react"
 
 type ConfirmActionItem = BadgeToggleGroupItem & { value: DestructiveAction }

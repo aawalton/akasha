@@ -1,5 +1,5 @@
-import { asRecord } from "akasha/temper/crafting-addon/potion-casts/potion-casts.module.code.ts"
-import { SAVED_VARIABLES_NAME } from "akasha/temper/crafting-addon/potion-constants/potion-constants.module.code.ts"
+import { asRecord } from "akasha/temper/crafting-addon/modules/potion-casts/potion-casts.module.code.ts"
+import { SAVED_VARIABLES_NAME } from "akasha/temper/crafting-addon/modules/potion-constants/potion-constants.module.code.ts"
 import { PotMaker } from "akasha/temper/crafting-addon/potion-state/potion-state.module.code.ts"
 import type {
   AccountSettings,
