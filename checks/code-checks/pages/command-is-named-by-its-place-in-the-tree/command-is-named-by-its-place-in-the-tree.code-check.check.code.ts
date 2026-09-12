@@ -6,6 +6,8 @@ import {
   namedAt,
   PARTS,
   partsIn,
+  placingBy,
+  treeUnder,
 } from "akasha/checks/code-checks/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.code-check.decision.code.ts"
 import type {
   Paged,
@@ -15,6 +17,7 @@ import {
   input,
   PAGES,
   textIn,
+  textNamed,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
@@ -37,9 +40,14 @@ function ours(path: string, shadow: Shadow): boolean {
   return path.startsWith(`${COMMANDS}/`) || namedAt(path, kindsFrom(shadow)) !== null
 }
 
+function bodied(path: string): boolean {
+  return textNamed(path) && path.startsWith(`${COMMANDS}/`)
+}
+
 const OURS: Selector<Paged> = {
-  named: "the pages under `commands/`, and commands and namespaces wherever they sit",
-  isInput: (path, shadow) => PAGES.isInput(path, shadow) && ours(path, shadow),
+  named:
+    "the pages and the TypeScript under `commands/`, and commands and namespaces wherever they sit",
+  isInput: (path, shadow) => (PAGES.isInput(path, shadow) && ours(path, shadow)) || bodied(path),
   from: (change, shadow) => PAGES.from(change, shadow).filter((one) => ours(one.path, shadow)),
 }
 
@@ -71,6 +79,13 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
     }
     const filed = shadow.index.listedByPath(path).find((each) => each.path === path)
     if (filed !== undefined) judge(path, filed.id)
+  }
+  const placing = placingBy(shadow, kinds)
+  for (const path of treeUnder(shadow, kinds).modules) {
+    if (judged.has(path)) continue
+    judged.add(path)
+    const reason = placing(path)
+    if (reason !== null) said.push({ path, reason })
   }
   return said
 }

@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   moduleReasonIn,
   PAGES_AT,
+  placeReasonIn,
   reasonIn,
 } from "akasha/checks/code-checks/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.code-check.decision.code.ts"
 
@@ -122,4 +123,73 @@ test("a module whose name carries a word of a folder above it is let through", (
   const said = moduleReasonIn(at, { folder: "commands/pages/google/calendar", beside: true })
 
   expect(said).toBe(null)
+})
+
+const LEVELS = new Set<string>([
+  "commands/pages/read",
+  "commands/pages/google",
+  "commands/pages/google/calendar",
+  "commands/pages/google/calendar/event",
+  "commands/pages/google/calendar/match",
+  "commands/pages/google/drive",
+])
+
+test("a module one command reaches sits under that command", () => {
+  const at = "commands/pages/google/calendar/event/humming/humming.module.ts"
+  const reaching = ["commands/pages/google/calendar/event"]
+
+  expect(placeReasonIn(at, { levels: LEVELS, reaching })).toBe(null)
+})
+
+test("a module one command reaches from lower down is refused with that command named", () => {
+  const at = "commands/pages/google/calendar/humming/humming.module.ts"
+  const reaching = ["commands/pages/google/calendar/event"]
+  const said = placeReasonIn(at, { levels: LEVELS, reaching })
+
+  expect(said).toContain("commands/pages/google/calendar/event")
+})
+
+test("a module two commands under one namespace reach sits under that namespace", () => {
+  const at = "commands/pages/google/calendar/humming/humming.module.ts"
+  const reaching = ["commands/pages/google/calendar/event", "commands/pages/google/calendar/match"]
+
+  expect(placeReasonIn(at, { levels: LEVELS, reaching })).toBe(null)
+})
+
+test("a module two commands under one namespace reach is refused under one of them", () => {
+  const at = "commands/pages/google/calendar/event/humming/humming.module.ts"
+  const reaching = ["commands/pages/google/calendar/event", "commands/pages/google/calendar/match"]
+  const said = placeReasonIn(at, { levels: LEVELS, reaching })
+
+  expect(said).toContain("commands/pages/google/calendar")
+})
+
+test("a module reached from a module counts that module's level", () => {
+  const at = "commands/pages/google/calendar/humming/humming.module.ts"
+  const reaching = ["commands/pages/google/calendar/event/warbling"]
+
+  expect(placeReasonIn(at, { levels: LEVELS, reaching })).toContain(
+    "commands/pages/google/calendar/event"
+  )
+})
+
+test("a module two commands under different namespaces reach belongs in the modules folder", () => {
+  const at = "commands/pages/read/humming/humming.module.ts"
+  const reaching = ["commands/pages/read", "commands/pages/google/drive"]
+  const said = placeReasonIn(at, { levels: LEVELS, reaching })
+
+  expect(said).toContain("commands/modules")
+})
+
+test("a module no page under the pages folder reaches belongs in the modules folder", () => {
+  const at = "commands/pages/read/humming/humming.module.ts"
+  const said = placeReasonIn(at, { levels: LEVELS, reaching: [] })
+
+  expect(said).toContain("commands/modules")
+})
+
+test("a module already in the modules folder is judged by nothing here", () => {
+  const at = "commands/modules/humming/humming.module.ts"
+
+  expect(placeReasonIn(at, { levels: LEVELS, reaching: [] })).toBe(null)
 })

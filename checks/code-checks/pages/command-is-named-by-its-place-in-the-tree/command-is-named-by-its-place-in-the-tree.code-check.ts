@@ -72,9 +72,32 @@ export const commandIsNamedByItsPlaceInTheTree = {
         "A namespace names an area a person narrows by rather than restating a command under it.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement:
-        "A module under `commands/pages` sits under the lowest level whose commands import it.",
+        "A module under `commands/pages` sits under the lowest level every page reaching it sits under.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page reaching a module counts at the lowest level that page sits under.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A module reached from two levels with no level above both sits in `commands/modules`.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A module no page under `commands/pages` reaches sits in `commands/modules` as well.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A page outside `commands/pages` reaching a module is counted by nothing here.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A change to a body under `commands/` leaves every module under `commands/pages` judged.",
     },
     {
       invariantKind: "absence",
