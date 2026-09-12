@@ -25,10 +25,6 @@ import { watcherLogDir } from "akasha/temper/watcher/watcher-paths/watcher-paths
 
 const NAMED = [limitArgument, sinceArgument, logDirArgument, jsonInOneObject]
 
-const SINCE_BY_DEFAULT = "1h"
-
-const LIMIT_BY_DEFAULT = 500
-
 const UNITS: Readonly<Record<string, number>> = { s: 1000, m: 60000, h: 3600000, d: 86400000 }
 
 const DURATION = /^(\d+)([smhd])$/
@@ -62,12 +58,12 @@ export function temperWatcherLogList(argv: readonly string[], given: Given): Ans
   if ("refused" in read) return mistaking(read.refused)
   const taken = read.taken
 
-  const sinceSaid = taken.since ?? SINCE_BY_DEFAULT
+  const sinceSaid = taken.since
   const sinceMillis = millisOf(sinceSaid)
   if (sinceMillis === null) {
     return refused(`\`${sinceSaid}\` is no duration — say a count and one of s, m, h or d`, INPUT)
   }
-  const limit = taken.limit ?? LIMIT_BY_DEFAULT
+  const limit = taken.limit
   if (limit === 0) {
     return refused(
       `\`${limitArgument.said} 0\` reads no records — say a whole number above zero`,

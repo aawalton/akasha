@@ -24,11 +24,19 @@ export const temperWatcherLogList = {
       invariantKind: "departure",
       statement: "A duration written in an unknown unit refuses the call.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A call saying no limit answers five hundred records.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call saying no window reaches back one hour.",
+    },
   ],
   name: "log-list",
   arguments: [
-    { argument: "argument/limit" },
-    { argument: "argument/since" },
+    { argument: "argument/limit", default: "500" },
+    { argument: "argument/since", default: "1h" },
     { argument: "argument/log-dir" },
     { argument: "argument/json-in-one-object" },
   ],
