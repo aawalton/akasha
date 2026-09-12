@@ -5,7 +5,7 @@ import {
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { buildCopFetchInit } from "akasha/infrastructure/inference/clients/cop-fetch/cop-fetch.module.code.ts"
 import {
   ensureOutputDir,
@@ -13,8 +13,8 @@ import {
 } from "akasha/infrastructure/inference/clients/inference-output-path/inference-output-path.module.code.ts"
 import { isRiff } from "akasha/infrastructure/inference/clients/riff-bytes/riff-bytes.module.code.ts"
 import {
-  calledAs,
   heldOr,
+  madeOf,
   oneOf,
   proseNeededAt,
   serviceNamed,
@@ -83,7 +83,7 @@ const SAMPLING = {
   maxTokens: 1200,
 } as const
 
-export async function inferenceVoiceDesign(argv: readonly string[]): Promise<Answer> {
+export async function inferenceVoiceDesign(argv: readonly string[], given: Given): Promise<Answer> {
   const said = wordsIn(argv, TAKING, SWITCHES)
   if (wasRefused(said)) return refusedBy(said.refused)
 
@@ -113,7 +113,7 @@ export async function inferenceVoiceDesign(argv: readonly string[]): Promise<Ans
       operation: "voice-design",
       model: backend.model,
       host: reached.service.host,
-      commandLine: calledAs("inference-voice-design", argv),
+      commandLine: madeOf(given.calledAs, argv),
       startedAt: new Date(nowMs).toISOString(),
       instruct,
       text,
