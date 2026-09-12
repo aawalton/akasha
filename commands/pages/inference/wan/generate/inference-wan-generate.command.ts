@@ -10,10 +10,6 @@ export const inferenceWanGenerate = {
   taking: [
     { said: "--prompt <text>", takes: "the motion prompt" },
     { said: "--negative-prompt <text>", takes: "what the sampler is steered away from" },
-    {
-      said: "--negative-prompt-file <path>",
-      takes: "that steering read from a path, or `-` for stdin",
-    },
   ],
   invariants: [
     {
@@ -57,5 +53,6 @@ export const inferenceWanGenerate = {
     { argument: "argument/end-image" },
     { argument: "argument/clip-frames" },
     { argument: "argument/prompt-file" },
+    { argument: "argument/negative-prompt-file" },
   ],
 } as const satisfies Command

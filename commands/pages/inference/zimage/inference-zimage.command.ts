@@ -10,10 +10,6 @@ export const inferenceZimage = {
   taking: [
     { said: "--prompt <text>", takes: "what the image is of" },
     { said: "--negative-prompt <text>", takes: "what the sampler is steered away from" },
-    {
-      said: "--negative-prompt-file <path>",
-      takes: "that steering read from a path, or `-` for stdin",
-    },
     { said: "--model <id>", takes: "the registered checkpoint the render goes through" },
     { said: "--base-model <name>", takes: "the selector mflux takes here, which is passed over" },
     { said: "--width <n>", takes: "how wide the image is rendered" },
@@ -89,5 +85,6 @@ export const inferenceZimage = {
     { argument: "argument/guidance" },
     { argument: "argument/output", required: true },
     { argument: "argument/prompt-file" },
+    { argument: "argument/negative-prompt-file" },
   ],
 } as const satisfies Command
