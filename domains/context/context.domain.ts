@@ -8,6 +8,7 @@ export const context = {
   parts: [
     "domain/required-reading",
     "module/agent-stated",
+    "module/warrant-saying",
     "module/warranting",
     "page-type/context-warrant",
   ],

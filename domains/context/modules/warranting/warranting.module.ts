@@ -24,10 +24,6 @@ export const warranting = {
     },
     {
       invariantKind: "departure",
-      statement: "A warrant carries why the reading is owed.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A body only part of which reached the agent answers no warrant.",
     },
     {
@@ -36,36 +32,11 @@ export const warranting = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal for a body read in part says how far that body reached the agent.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A refusal names the reading owed rather than only saying something is owed.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A refusal names the read that would answer the warrant ready to run.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "One read call names every page a refusal names.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page a refusal names more than once is named once in that read.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "A refusal says nothing about how a read behaves.",
+      statement: "What a refusal says of one reading owed is composed elsewhere.",
     },
     {
       invariantKind: "departure",
       statement: "The readings owed are held to the ceiling one answer carries.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A list held back says how many readings are owed past the list and to call again.",
     },
     {
       invariantKind: "departure",
@@ -139,30 +110,11 @@ export const warranting = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A warrant owed of a taboo term is told from the rest by the page type its path names.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The refusal said of a taboo term asks the writer for a decision about the change.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The refusal said of a taboo term hands that term's whole page back.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A page a refusal hands back clears the warrant owed of that page.",
     },
     {
       invariantKind: "departure",
       statement: "A refusal says the call was refused rather than leaving the exit code to say it.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A refusal handing a term's page back names running that same call again as the way through.",
     },
     {
       invariantKind: "departure",

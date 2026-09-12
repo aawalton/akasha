@@ -7,7 +7,6 @@ import {
 } from "akasha/agents/read-record/read-record.module.code.ts"
 import {
   agentPathOf,
-  callOf,
   gatheredIn,
   NO_AGENT,
   owedIn,
@@ -169,10 +168,6 @@ test("one call reads every page a refusal names", () => {
   const said = unreadIn(root, AGENT, [PATH, B])
   expect(said.length).toBe(2)
   expect(said[1]).toContain(`akasha read --file-path ${PATH} --file-path ${B}`)
-})
-
-test("a page owed twice is named once in the read", () => {
-  expect(callOf([PATH, B, PATH])).toBe(callOf([PATH, B]))
 })
 
 test("a path named twice is refused once", () => {
