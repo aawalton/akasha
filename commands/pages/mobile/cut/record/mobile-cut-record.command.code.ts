@@ -3,86 +3,50 @@ import {
   readLatestCutFingerprint,
   recordCutFingerprint,
 } from "akasha/alan/harness/mobile-cli/cut-fingerprint/cut-fingerprint.module.code.ts"
+import { appIn } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { app } from "akasha/commands/arguments/pages/app.argument.ts"
+import { buildInputTreeHash } from "akasha/commands/arguments/pages/build-input-tree-hash.argument.ts"
+import { buildNumber } from "akasha/commands/arguments/pages/build-number.argument.ts"
+import { cutAt } from "akasha/commands/arguments/pages/cut-at.argument.ts"
+import { mainSha } from "akasha/commands/arguments/pages/main-sha.argument.ts"
+import { shellSha } from "akasha/commands/arguments/pages/shell-sha.argument.ts"
 import {
   answering,
-  flagsAloneIn,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import {
-  APP_SAID,
-  appIn,
-  countOf,
-  type Reading,
-  wordsIn,
-} from "akasha/commands/pages/mobile/mobile-answering/mobile-answering.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mobileCutRecord as page } from "akasha/commands/pages/mobile/cut/record/mobile-cut-record.command.ts"
 
-const BUILD_NUMBER = "--build-number"
-
-const MAIN_SHA = "--main-sha"
-
-const SHELL_SHA = "--shell-sha"
-
-const TREE_HASH = "--build-input-tree-hash"
-
-const CUT_AT = "--cut-at"
-
-const VALUED = [APP_SAID, BUILD_NUMBER, MAIN_SHA, SHELL_SHA, TREE_HASH, CUT_AT]
+const TAKES = [app, buildNumber, mainSha, shellSha, buildInputTreeHash, cutAt]
 
 const SHORT_SHA = 12
 
 const LEAST_BUILD = 1
+
+export type Reading<T> = T | { readonly refused: readonly string[] }
 
 export type Read = {
   readonly appSlug: string
   readonly fingerprint: CutFingerprint
 }
 
-export function readIn(argv: readonly string[], nowIso: string): Reading<Read> {
-  const said = wordsIn(argv, VALUED, [])
-  if ("refused" in said) return said
-  const loose = flagsAloneIn(said)
-  if (loose.length > 0) return { refused: loose }
-
-  const counted = countOf(said.named[BUILD_NUMBER], BUILD_NUMBER)
-  if (counted === null) {
-    return {
-      refused: [`\`${BUILD_NUMBER}\` names the build App Store Connect gave, and nothing did`],
-    }
-  }
-  if (typeof counted === "object") return counted
-  if (counted < LEAST_BUILD) {
+export function buildIn(held: number): Reading<number> {
+  if (held < LEAST_BUILD) {
     return {
       refused: [
-        `\`${BUILD_NUMBER}\` names a build at or above one, and \`${counted}\` is below it`,
+        `\`${buildNumber.said}\` names a build at or above one, and \`${held}\` is below it`,
       ],
     }
   }
+  return held
+}
 
-  const mainSha = said.named[MAIN_SHA]
-  if (mainSha === undefined) {
-    return { refused: [`\`${MAIN_SHA}\` names the commit the cut was taken at, and nothing did`] }
-  }
-
-  const cutAt = said.named[CUT_AT] ?? nowIso
-  if (Number.isNaN(Date.parse(cutAt))) {
-    return { refused: [`\`${cutAt}\` is no instant this can read`] }
-  }
-
-  const app = appIn(said)
-  if ("refused" in app) return app
-
-  return {
-    appSlug: app.slug,
-    fingerprint: {
-      buildNumber: counted,
-      mainSha,
-      shellSha: said.named[SHELL_SHA] ?? null,
-      buildInputTreeHash: said.named[TREE_HASH] ?? null,
-      cutAt,
-    },
-  }
+export function momentIn(said: string | undefined, nowIso: string): Reading<string> {
+  const at = said ?? nowIso
+  if (Number.isNaN(Date.parse(at))) return { refused: [`\`${at}\` is no instant this can read`] }
+  return at
 }
 
 async function filed(read: Read, done: string[]): Promise<Answer> {
@@ -99,8 +63,25 @@ async function filed(read: Read, done: string[]): Promise<Answer> {
   ])
 }
 
-export async function mobileCutRecord(argv: readonly string[]): Promise<Answer> {
-  const read = readIn(argv, new Date().toISOString())
-  if ("refused" in read) return refusedBy(read.refused)
+export async function mobileCutRecord(argv: readonly string[], given: Given): Promise<Answer> {
+  const said = takenFor(argv, given.calledAs, page, TAKES)
+  if ("refused" in said) return refusedBy(said.refused)
+  const taken = said.taken
+  const build = buildIn(taken.buildNumber)
+  if (typeof build !== "number") return refusedBy(build.refused)
+  const moment = momentIn(taken.cutAt, new Date().toISOString())
+  if (typeof moment !== "string") return refusedBy(moment.refused)
+  const held = appIn(taken.app)
+  if ("refused" in held) return refusedBy(held.refused)
+  const read: Read = {
+    appSlug: held.slug,
+    fingerprint: {
+      buildNumber: build,
+      mainSha: taken.mainSha,
+      shellSha: taken.shellSha ?? null,
+      buildInputTreeHash: taken.buildInputTreeHash ?? null,
+      cutAt: moment,
+    },
+  }
   return await answering(async (done) => await filed(read, done))
 }

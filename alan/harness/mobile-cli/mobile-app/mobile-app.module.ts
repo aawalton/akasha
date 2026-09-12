@@ -18,6 +18,10 @@ export const mobileApp = {
     },
     {
       invariantKind: "departure",
+      statement: "An app slug no page carries is answered as a refusal as well as thrown.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A script an app names by slug is answered as the file holding that script.",
     },
     {

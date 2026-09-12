@@ -1,4 +1,5 @@
 import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
@@ -152,6 +153,16 @@ export function resolveApp(slug?: string): MobileApp {
     )
   }
   return app
+}
+
+export type AppRead = MobileApp | { readonly refused: readonly string[] }
+
+export function appIn(slug: string | undefined): AppRead {
+  try {
+    return resolveApp(slug)
+  } catch (thrown) {
+    return { refused: [whyOf(thrown)] }
+  }
 }
 
 const SHELL_SCRIPT_PART_PREFIX = `${SHELL_SCRIPT_PAGE_TYPE_SLUG}/`
