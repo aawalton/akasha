@@ -6,7 +6,7 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { temperInventoryBuyRuleUnlock as page } from "akasha/commands/pages/temper/inventory/buy-rule/unlock/temper-inventory-buy-rule-unlock.command.ts"
-import { lockedRule } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
+import { lockingRule } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 
 export async function temperInventoryBuyRuleUnlock(
   argv: readonly string[],
@@ -14,5 +14,5 @@ export async function temperInventoryBuyRuleUnlock(
 ): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [buyRuleId])
   if ("refused" in read) return refusedBy(read.refused)
-  return await answering(() => lockedRule("buy", read.taken.buyRuleId, false))
+  return await answering((done) => lockingRule("buy", read.taken.buyRuleId, false, done))
 }

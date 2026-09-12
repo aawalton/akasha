@@ -6,7 +6,7 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { temperInventoryBuyRuleDuplicate as page } from "akasha/commands/pages/temper/inventory/buy-rule/duplicate/temper-inventory-buy-rule-duplicate.command.ts"
-import { copiedRule } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
+import { copyingRule } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 
 export async function temperInventoryBuyRuleDuplicate(
   argv: readonly string[],
@@ -14,5 +14,5 @@ export async function temperInventoryBuyRuleDuplicate(
 ): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [buyRuleId])
   if ("refused" in read) return refusedBy(read.refused)
-  return await answering(() => copiedRule("buy", read.taken.buyRuleId))
+  return await answering((done) => copyingRule("buy", read.taken.buyRuleId, done))
 }

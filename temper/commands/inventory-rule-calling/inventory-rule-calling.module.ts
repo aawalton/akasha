@@ -6,10 +6,31 @@ export const inventoryRuleCalling = {
   slug: "inventory-rule-calling",
   definition: "what the commands over a temper player's inventory rules read and do alike",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement: "The category rules and the item rules and the buy rules have one act set.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An act that writes takes the store it writes through rather than reaching it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The act naming no store takes the store and hands it to the act that writes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write is named on the caller's list as soon as that write has gone through.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An act that wrote and then threw names that write in its refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write the store refused names nothing, because nothing was written.",
     },
     {
       invariantKind: "departure",

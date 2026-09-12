@@ -175,33 +175,76 @@ export async function shownRule(kind: Kind, id: string, asTsv: boolean): Promise
   return told(emitJson(found).split("\n"))
 }
 
-export async function lockedRule(kind: Kind, id: string, on: boolean): Promise<Answer> {
+export type Writing = {
+  readonly read: () => Promise<InventoryRuleSettings>
+  readonly write: (settings: InventoryRuleSettings) => Promise<unknown>
+}
+
+export function wroteSaid(kind: Kind, id: string, did: string): string {
+  return `the ${KINDLY[kind].named} \`${id}\` was ${did} in the game's inventory settings`
+}
+
+export async function lockedRule(
+  kind: Kind,
+  id: string,
+  on: boolean,
+  writing: Writing,
+  done: string[]
+): Promise<Answer> {
   const kindly = KINDLY[kind]
-  const access = await inventorySettings()
-  const settings = await access.read()
+  const settings = await writing.read()
   const found = kindly.heldIn(settings).find((one) => one.id === id)
   if (found === undefined) return unfound(kind, id)
   const next = kindly.locking(settings, id, on)
-  await access.write(next)
+  await writing.write(next)
+  done.push(wroteSaid(kind, id, on ? "locked" : "unlocked"))
   return told(emitJson(kindly.heldIn(next).find((one) => one.id === id) ?? found).split("\n"))
 }
 
-export async function droppedRule(kind: Kind, id: string, force: boolean): Promise<Answer> {
+export async function lockingRule(
+  kind: Kind,
+  id: string,
+  on: boolean,
+  done: string[]
+): Promise<Answer> {
+  return await lockedRule(kind, id, on, await inventorySettings(), done)
+}
+
+export async function droppedRule(
+  kind: Kind,
+  id: string,
+  force: boolean,
+  writing: Writing,
+  done: string[]
+): Promise<Answer> {
   const kindly = KINDLY[kind]
-  const access = await inventorySettings()
-  const settings = await access.read()
+  const settings = await writing.read()
   const found = kindly.heldIn(settings).find((one) => one.id === id)
   if (found === undefined) return unfound(kind, id)
   if (found.locked === true && !force) return lockedOff(kind, id)
   const unlocked = found.locked === true && force ? kindly.locking(settings, id, false) : settings
-  await access.write(kindly.dropping(unlocked, id))
+  await writing.write(kindly.dropping(unlocked, id))
+  done.push(wroteSaid(kind, id, "taken away"))
   return told(emitJson(found).split("\n"))
 }
 
-export async function copiedRule(kind: Kind, id: string): Promise<Answer> {
+export async function droppingRule(
+  kind: Kind,
+  id: string,
+  force: boolean,
+  done: string[]
+): Promise<Answer> {
+  return await droppedRule(kind, id, force, await inventorySettings(), done)
+}
+
+export async function copiedRule(
+  kind: Kind,
+  id: string,
+  writing: Writing,
+  done: string[]
+): Promise<Answer> {
   const kindly = KINDLY[kind]
-  const access = await inventorySettings()
-  const settings = await access.read()
+  const settings = await writing.read()
   const at = kindly.heldIn(settings).findIndex((one) => one.id === id)
   if (at === -1) return unfound(kind, id)
   const next = kindly.copying(settings, id)
@@ -212,8 +255,13 @@ export async function copiedRule(kind: Kind, id: string): Promise<Answer> {
       DATA
     )
   }
-  await access.write(next)
+  await writing.write(next)
+  done.push(wroteSaid(kind, id, "copied"))
   return told(emitJson(clone).split("\n"))
+}
+
+export async function copyingRule(kind: Kind, id: string, done: string[]): Promise<Answer> {
+  return await copiedRule(kind, id, await inventorySettings(), done)
 }
 
 export async function answeredByPage<Page extends Commanding, Pages extends readonly Argument[]>(
