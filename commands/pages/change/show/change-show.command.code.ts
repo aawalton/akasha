@@ -21,6 +21,7 @@ import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.
 import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { offRepo, pathAt } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
+import { helpIn } from "akasha/commands/pages/change/change-arguing/change-arguing.module.code.ts"
 import {
   ANSWER_CEILING,
   countLines,
@@ -42,6 +43,18 @@ const NO_AT = "`at` names the path to show, and this call named none"
 const NOTHING = "is at no path once the edits kept land, so there is no body to show"
 
 const TOO_MUCH = `runs past the ${ANSWER_CEILING} bytes one answer holds, and a show takes no line range`
+
+const HELP: readonly string[] = [
+  "answers the body a path would have once this agent's kept edits land,",
+  "with its lines numbered the way `akasha read` numbers a body.",
+  "",
+  "It takes no word on the command line, and its one argument piped in:",
+  "",
+  "  at: <path>    the path shown, read against the repository root",
+  "",
+  "A path the edits kept would leave nowhere is refused.",
+  "A body past what one answer holds is refused rather than broken off partway.",
+]
 
 export function pathIn(root: string, taken: Arguments): string | readonly string[] {
   const said = Object.keys(taken).filter((key) => key !== AT)
@@ -95,6 +108,8 @@ export function showing(given: Given, taken: Arguments): Answer {
 }
 
 export function changeShow(argv: readonly string[], given: Given): Answer {
+  const help = helpIn(argv, given.calledAs, HELP)
+  if (help !== null) return told(help)
   if (argv.length > 0) return mistaking([NO_FLAGS])
   const taken = argumentsIn(inputIn)
   if (typeof taken === "string") return mistaking([taken])

@@ -11,7 +11,11 @@ export const changeShow = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "No flag is said on the command line.",
+      statement: "No flag other than the help flag is said on the command line.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The help flag is answered with what a show answers and what a show takes.",
     },
     {
       invariantKind: "departure",
