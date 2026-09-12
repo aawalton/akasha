@@ -1,5 +1,4 @@
 import {
-  DOORS as PUSH_DOORS,
   type Doors as PushDoors,
   pushedIn,
 } from "akasha/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.code.ts"
@@ -192,8 +191,6 @@ export type Pinned =
 export type Doors = {
   readonly push: PushDoors
 }
-
-export const DOORS: Doors = { push: PUSH_DOORS }
 
 export async function pinnedIn(
   root: string,
