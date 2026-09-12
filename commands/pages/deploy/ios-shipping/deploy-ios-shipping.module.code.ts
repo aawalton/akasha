@@ -65,7 +65,8 @@ export async function shipIosApp(
   slug: string,
   pagePath: string,
   noUpload: boolean,
-  ref: string
+  ref: string,
+  up: string[] = []
 ): Promise<Answer> {
   const report = [...linesFor(slug, pagePath, noUpload, ref)]
   let app: MobileApp
@@ -91,6 +92,7 @@ export async function shipIosApp(
     if (pushed.failed) {
       return { report, refusals: [saidOfUnpushed(root, ref)], code: OPERATIONAL }
     }
+    up.push(`${ref}, pushed to the origin of ${root}`)
   }
   let password: string
   try {
@@ -125,6 +127,11 @@ export async function shipIosApp(
     releaseLocalCutLock(process.pid)
   }
   report.push(...linesOf(spoken))
+  up.push(
+    noUpload
+      ? `${slug}, archived, exported and validated by Apple`
+      : `${slug}, archived, exported and uploaded to TestFlight`
+  )
   report.push(
     noUpload
       ? `built\t${slug}\tarchived, exported, validated by Apple, and sent to nobody`

@@ -114,7 +114,8 @@ async function publishedFrom(
   root: string,
   tagFile: string,
   scratch: string,
-  codeAt: string
+  codeAt: string,
+  up: string[]
 ): Promise<Published> {
   const compiled = await compiledEveryAddon(codeAt)
   if (compiled.refusals.length > 0) return compiled
@@ -146,6 +147,7 @@ async function publishedFrom(
   if (assembled !== null) return { lines: report, refusals: [assembled] }
   const pushed = mustRun(["podman", "push", "--tls-verify=false", pushRef], `pushing ${pushRef}`)
   if (pushed !== null) return { lines: report, refusals: [pushed] }
+  up.push(`the addon bundle image ${pushRef}, pushed to the registry`)
   report.push(`content ${contentHash}`, `pushed ${pushRef}`)
 
   const tagPath = join(root, tagFile)
@@ -171,6 +173,7 @@ async function publishedFrom(
       ],
     }
   }
+  up.push(`${tagFile}, landed naming that image`)
   report.push(`landed ${tagFile} after the push, so what the tag names is already in the registry`)
   return { lines: report, refusals: [] }
 }
@@ -179,7 +182,8 @@ export async function publishedBundleFor(
   root: string,
   slug: string,
   dryRun: boolean,
-  codeAt: string
+  codeAt: string,
+  up: string[] = []
 ): Promise<Published | null> {
   const tagFile = tagFileFor(root, slug)
   if (tagFile === null) return null
@@ -193,7 +197,7 @@ export async function publishedBundleFor(
   }
   const scratch = mkdtempSync(join(SCRATCH_ROOT, SCRATCH_PREFIX))
   try {
-    return await publishedFrom(root, tagFile, scratch, codeAt)
+    return await publishedFrom(root, tagFile, scratch, codeAt, up)
   } finally {
     rmSync(scratch, { recursive: true, force: true })
   }

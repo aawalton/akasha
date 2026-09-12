@@ -27,7 +27,8 @@ export async function putUpAddon(
   codeAt: string,
   slug: string,
   pagePath: string,
-  dryRun: boolean
+  dryRun: boolean,
+  up: string[] = []
 ): Promise<Answer> {
   const under = dirname(pagePath)
   const dir = join(codeAt, under)
@@ -54,9 +55,11 @@ export async function putUpAddon(
   const compiled = await compiledAddon(codeAt, dir, name)
   report.push(...compiled.lines)
   if (compiled.refusals.length > 0) return answering(report, compiled.refusals, OPERATIONAL)
+  up.push(`${name}, compiled from ${under}`)
 
   const placed = placedAddon(codeAt, dir, name)
   report.push(...placed.lines)
   if (placed.refusals.length > 0) return answering(report, placed.refusals, OPERATIONAL)
+  up.push(`${name}, placed where the game reads it`)
   return answering(report, [], OK)
 }

@@ -8,6 +8,7 @@ import {
   installing,
   ourInstalled,
   planFor,
+  systemctl,
 } from "akasha/infrastructure/services/workstations/service-installing/service-installing.module.code.ts"
 import { everyService } from "akasha/infrastructure/services/workstations/service-reading/service-reading.module.code.ts"
 
@@ -23,7 +24,8 @@ export function putUpEvery(
   root: string,
   dryRun: boolean,
   restarting: ReadonlySet<string> = new Set(),
-  codeAt: string = ""
+  codeAt: string = "",
+  up: string[] = []
 ): PutUp {
   const read = everyService(root, codeAt)
   if ("refused" in read) return { report: [], refusals: [read.refused], code: DATA }
@@ -47,7 +49,7 @@ export function putUpEvery(
 
   if (dryRun) return { report: [...report, NOT_WRITTEN], refusals: [], code: OK }
 
-  const done = installing(home, plan)
+  const done = installing(home, plan, systemctl, up)
   const said = [...report, ...done.did.map((what) => `did\t${what}`)]
   if (done.refused.length > 0) return { report: said, refusals: done.refused, code: OPERATIONAL }
   return { report: said, refusals: [], code: OK }

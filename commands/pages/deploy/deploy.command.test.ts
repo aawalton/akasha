@@ -1,7 +1,17 @@
 import { afterAll, expect, test } from "bun:test"
-import { deploy, refNamed } from "akasha/commands/pages/deploy/deploy.command.code.ts"
+import { commitAt } from "akasha/commands/pages/deploy/commit-naming/deploy-commit-naming.module.code.ts"
+import { recordedCommit } from "akasha/commands/pages/deploy/commit-recording/deploy-commit-recording.module.code.ts"
+import type { PuttingUp } from "akasha/commands/pages/deploy/deploy.command.code.ts"
+import {
+  deploy,
+  refNamed,
+  stoppedPartWay,
+} from "akasha/commands/pages/deploy/deploy.command.code.ts"
 import { committed, given } from "akasha/commands/pages/deploy/deploy.command.test-fixtures.ts"
-import { seededWorld } from "akasha/infrastructure/services/clusters/web-app-reading/web-app-reading.module.test-fixtures.ts"
+import {
+  seededWorld,
+  WEB_APPS_AT,
+} from "akasha/infrastructure/services/clusters/web-app-reading/web-app-reading.module.test-fixtures.ts"
 
 const WORLD = seededWorld()
 
@@ -10,6 +20,14 @@ afterAll(() => {
 })
 
 const HERE = given(committed(WORLD.root))
+
+function pastTheChecks(): { readonly root: string; readonly commit: string } {
+  const world = seededWorld()
+  const root = committed(world.root)
+  const commit = commitAt(root, null) as string
+  recordedCommit(root, "one-web", `${WEB_APPS_AT}/one-web.web-app.ts`, commit)
+  return { root, commit }
+}
 
 test("a call naming no app is refused as the caller's fault", async () => {
   const answer = await deploy([], HERE)
@@ -125,4 +143,37 @@ test("a commit named twice is refused rather than chosen between", () => {
   expect(answer).toHaveProperty("refused")
   expect((answer as { refused: string }).refused).toContain("one")
   expect((answer as { refused: string }).refused).toContain("two")
+})
+
+const IMAGE = "the image one/web:abc, built and pushed to the registry"
+
+test("a deploy that threw part way names in its refusal what it had put up", async () => {
+  const world = pastTheChecks()
+  const putting: PuttingUp = (_read, _slug, _commit, _rest, _given, _restarting, up) => {
+    up.push(IMAGE)
+    up.push(`${world.commit}, pushed to origin main`)
+    throw new Error("kubectl apply was killed")
+  }
+  const answer = await deploy(["one-web"], given(world.root), putting)
+  expect(answer.code).toBe(3)
+  expect(answer.refusals[0]).toContain("kubectl apply was killed")
+  expect(answer.refusals[1]).toContain(IMAGE)
+  expect(answer.refusals[1]).toContain(`${world.commit}, pushed to origin main`)
+  expect(answer.report).toContain(`up\t${IMAGE}`)
+})
+
+test("a deploy that threw before anything reached a machine says that rather than saying it may be partial", async () => {
+  const world = pastTheChecks()
+  const putting: PuttingUp = () => {
+    throw new Error("the pinned tree would not open")
+  }
+  const answer = await deploy(["one-web"], given(world.root), putting)
+  expect(answer.code).toBe(3)
+  expect(answer.refusals[1]).toContain("nothing it puts up had reached a machine")
+  expect(answer.refusals[1]).not.toContain("may be")
+})
+
+test("what a deploy put up is named in the refusal rather than counted", () => {
+  expect(stoppedPartWay(["one", "two"])).toContain("one, two")
+  expect(stoppedPartWay([])).not.toContain("what it put up")
 })

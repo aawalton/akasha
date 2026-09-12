@@ -236,6 +236,23 @@ export const deploy = {
       statement:
         "A deploy is built from a tree pinned at the commit rather than from the checkout.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Each thing a deploy puts up is named as soon as that thing reaches a machine.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A deploy that threw part way names those things in its refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A deploy that threw before any of them says so rather than saying it may be partial.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The putting up a deploy runs is handed in.",
+    },
   ],
   name: "deploy",
 } as const satisfies Command

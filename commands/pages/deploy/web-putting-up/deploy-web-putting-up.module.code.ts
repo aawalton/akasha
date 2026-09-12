@@ -36,7 +36,8 @@ export async function putUpWebApp(
   sha: string,
   given: Given,
   dryRun: boolean,
-  codeAt: string
+  codeAt: string,
+  up: string[] = []
 ): Promise<Answer> {
   const read = deployableNamed(given.root, slug)
   if ("refused" in read) return refused(read.refused, DATA)
@@ -84,6 +85,7 @@ export async function putUpWebApp(
         code: OPERATIONAL,
       }
     }
+    up.push(`${sha}, pushed to origin main`)
     const now = carriedByOrigin(given.root, sha)
     if ("why" in now) return { report, refusals: [now.why], code: OPERATIONAL }
     if (!now.carried) {
@@ -136,10 +138,10 @@ export async function putUpWebApp(
     report.push(`manifest\t${manifest.path}\t${applied.stands ? "stands" : "differs"}`)
     if (!applied.stands) differs = true
   }
-  const up = upAlready(workload)
-  report.push(`standing\t${up ? "up" : "not up"}`)
+  const alreadyUp = upAlready(workload)
+  report.push(`standing\t${alreadyUp ? "up" : "not up"}`)
 
-  if (!differs && up && isBuilt) {
+  if (!differs && alreadyUp && isBuilt) {
     report.push(
       `nothing\tthe cluster already stands as ${deployable.slug}'s page describes, at ${sha}`
     )
@@ -153,15 +155,16 @@ export async function putUpWebApp(
 
   let builtNow = false
   if (target !== null && !isBuilt) {
-    const built = buildInPod(target, sha, resolved, !differs && up)
+    const built = buildInPod(target, sha, resolved, !differs && alreadyUp)
     for (const one of built.ran) {
       report.push(`ran\t${one.argv.slice(0, SAID).join(" ")}\texited ${one.code}`)
     }
     if (built.why !== null) return { report, refusals: [built.why], code: OPERATIONAL }
     builtNow = true
+    up.push(`${target.packagePath}, built in the pod from ${sha}`)
   }
 
-  if (differs || !up) {
+  if (differs || !alreadyUp) {
     for (const one of writeManifests(given.root, plan)) report.push(`wrote\t${one}`)
     const refusals: string[] = []
     for (const one of putUp(plan)) {
@@ -171,6 +174,7 @@ export async function putUpWebApp(
       }
     }
     if (refusals.length > 0) return { report, refusals, code: OPERATIONAL }
+    up.push(`${workload.kind} ${workload.namespace}/${workload.name}, applied to the cluster`)
   }
 
   if (target !== null && builtNow) {

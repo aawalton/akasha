@@ -73,8 +73,13 @@ const NAMED: Readonly<Record<string, string>> = {
   [ESO_ADDON]: "an ESO addon",
 }
 
-const STOPPED_PART_WAY =
-  "the deploy stopped part way, so what it put up at this commit may be part of what was asked"
+const NOTHING_UP =
+  "the deploy stopped part way, and nothing it puts up had reached a machine at this commit"
+
+export function stoppedPartWay(up: readonly string[]): string {
+  if (up.length === 0) return NOTHING_UP
+  return `the deploy stopped part way, and what it put up at this commit is ${up.join(", ")}, and nothing after that`
+}
 
 export const PINNED: ReadonlySet<string> = new Set([
   WORKSTATION_SERVICE,
@@ -128,7 +133,8 @@ export async function putUp(
   commit: string,
   rest: readonly string[],
   given: Given,
-  restarting: ReadonlySet<string> | null = null
+  restarting: ReadonlySet<string> | null = null,
+  up: string[] = []
 ): Promise<Answer> {
   const dryRun = rest.includes(DRY_RUN)
   let at = ""
@@ -138,31 +144,45 @@ export async function putUp(
     at = pinned.at
   }
   if (read.kind === IOS_APP) {
-    return shipIosApp(slug, read.pagePath, rest.includes(NO_UPLOAD), commit)
+    return shipIosApp(slug, read.pagePath, rest.includes(NO_UPLOAD), commit, up)
   }
   if (read.kind === CONTAINER_RECIPE) return await pushedImage(slug, dryRun, at)
   if (read.kind === WORKSTATION_SERVICE) {
-    return putUpEvery(given.root, dryRun, restarting ?? new Set<string>(), at)
+    return putUpEvery(given.root, dryRun, restarting ?? new Set<string>(), at, up)
   }
   if (read.kind === INFERENCE_SERVICE) {
     return await putUpInferenceService(given.root, slug, dryRun, at)
   }
-  if (read.kind === ESO_ADDON) return await putUpAddon(at, slug, read.pagePath, dryRun)
+  if (read.kind === ESO_ADDON) return await putUpAddon(at, slug, read.pagePath, dryRun, up)
   if (read.kind === CLUSTER_SERVICE) {
     const servable = servableNamed(given.root, slug)
     if ("refused" in servable) return refused(servable.refused, DATA)
-    return appliedWorkload(given.root, slug, servable.servable, dryRun, at)
+    return appliedWorkload(given.root, slug, servable.servable, dryRun, at, up)
   }
-  const bundle = await publishedBundleFor(given.root, slug, dryRun, at)
+  const bundle = await publishedBundleFor(given.root, slug, dryRun, at, up)
   if (bundle !== null && bundle.refusals.length > 0) {
     return answering(bundle.lines, bundle.refusals, OPERATIONAL)
   }
-  const up = await putUpWebApp(slug, commit, given, dryRun, at)
-  if (bundle === null) return up
-  return answering([...bundle.lines, ...up.report], up.refusals, up.code)
+  const web = await putUpWebApp(slug, commit, given, dryRun, at, up)
+  if (bundle === null) return web
+  return answering([...bundle.lines, ...web.report], web.refusals, web.code)
 }
 
-export async function deploy(argv: readonly string[], given: Given): Promise<Answer> {
+export type PuttingUp = (
+  read: Read,
+  slug: string,
+  commit: string,
+  rest: readonly string[],
+  given: Given,
+  restarting: ReadonlySet<string> | null,
+  up: string[]
+) => Promise<Answer>
+
+export async function deploy(
+  argv: readonly string[],
+  given: Given,
+  putting: PuttingUp = putUp
+): Promise<Answer> {
   const taken = refNamed(argv)
   if ("refused" in taken) return refused(taken.refused, INPUT)
   const { ref, rest } = taken
@@ -240,13 +260,15 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
     return answering([`commit\t${commit}`], [...unjudged, ...noting()], DATA)
   }
   const before = opening()
+  const up: string[] = []
   let answer: Answer
   try {
-    answer = await putUp(read, slug, commit, rest, given, restarting)
+    answer = await putting(read, slug, commit, rest, given, restarting, up)
   } catch (thrown) {
     if (!dry) costRecorded(given.root, read.pagePath, before, PUT_UP, slug, 0, 1)
-    const why = [whyOf(thrown), STOPPED_PART_WAY]
-    return answering([`commit\t${commit}`], [...why, ...noting()], OPERATIONAL)
+    const why = [whyOf(thrown), stoppedPartWay(up)]
+    const said = [`commit\t${commit}`, ...up.map((one) => `up\t${one}`)]
+    return answering(said, [...why, ...noting()], OPERATIONAL)
   }
   if (!dry) {
     costRecorded(given.root, read.pagePath, before, PUT_UP, slug, 0, answer.refusals.length)

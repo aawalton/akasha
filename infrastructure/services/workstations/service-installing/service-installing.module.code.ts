@@ -184,9 +184,9 @@ export function unlinkUnit(home: string, name: string): undefined {
 export function installing(
   home: string,
   plan: Plan,
-  run: (args: readonly string[]) => Ran = systemctl
+  run: (args: readonly string[]) => Ran = systemctl,
+  did: string[] = []
 ): Done {
-  const did: string[] = []
   const refused: string[] = []
   const took = (what: string, done: Ran): undefined => {
     if (done.code === 0) did.push(what)

@@ -102,7 +102,8 @@ export async function appliedWorkload(
   slug: string,
   servable: Servable,
   dryRun: boolean,
-  codeAt: string
+  codeAt: string,
+  up: string[] = []
 ): Promise<Applied> {
   const { servicePath, manifestPath, synthPath, workload } = servable
   const report: string[] = [
@@ -134,6 +135,7 @@ export async function appliedWorkload(
     )) {
       const how = one.held ? "in the registry" : one.built ? "built and pushed" : "would be built"
       report.push(`image\t${one.ref}\t${how}`)
+      if (one.built) up.push(`the image ${one.ref}, built and pushed to the registry`)
     }
   } catch (thrown) {
     const why = thrown instanceof Error ? thrown.message : String(thrown)
@@ -147,10 +149,10 @@ export async function appliedWorkload(
     report.push(`manifest\t${manifest.path}\t${applied.stands ? "matches" : "differs"}`)
     if (!applied.stands) differs = true
   }
-  const up = upAlready(workload)
-  report.push(`running\t${up ? "yes" : "no"}`)
+  const alreadyUp = upAlready(workload)
+  report.push(`running\t${alreadyUp ? "yes" : "no"}`)
 
-  if (!differs && up) {
+  if (!differs && alreadyUp) {
     report.push(`nothing\tthe cluster already runs ${slug} as its page describes`)
     return { report, refusals: [], code: OK }
   }
@@ -169,6 +171,7 @@ export async function appliedWorkload(
     }
   }
   if (refusals.length > 0) return { report, refusals, code: OPERATIONAL }
+  up.push(`${workload.kind} ${workload.namespace}/${workload.name}, applied to the cluster`)
 
   report.push(
     `up\t${workload.kind} ${workload.namespace}/${workload.name} runs as its page describes`
