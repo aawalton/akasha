@@ -32,6 +32,15 @@ export const refreshMessage = {
       invariantKind: "absence",
       statement: "A run writes no value the commit has.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A run that stopped part way is refused naming each day counted before it stopped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that stopped before it counted a day is refused as the fault alone.",
+    },
   ],
   name: "message",
 } as const satisfies Command

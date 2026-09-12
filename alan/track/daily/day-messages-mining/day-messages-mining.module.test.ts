@@ -1,9 +1,11 @@
 import { expect, test } from "bun:test"
 import {
   countedOver,
+  type Filing,
   greetedIn,
   heldBy,
   keepMined,
+  type Mined,
   namedIn,
   saidOf,
   seatPageIn,
@@ -138,6 +140,39 @@ test("a store that is not there holds no transcript", () => {
 
 test("nothing mined keeps nothing", () => {
   expect(keepMined("/var/tmp", [])).toEqual({ days: 0, rows: 0, unfiled: [] })
+})
+
+const MINED: readonly Mined[] = [
+  { day: "2026-09-06", counted: [{ persona: "amy", sent: 1 }] },
+  { day: "2026-09-07", counted: [{ persona: "amy", sent: 2 }] },
+  { day: "2026-09-08", counted: [{ persona: "thea", sent: 3 }] },
+]
+
+function filing(stops: string | null, unfiled: string | null = null): Filing {
+  return (_root, day) => {
+    if (day === stops) throw new Error(`the lock on ${day} was held`)
+    return day !== unfiled
+  }
+}
+
+test("every day written is named, and a date no day page is filed under is not", () => {
+  const done: string[] = []
+  const kept = keepMined("/var/tmp", MINED, done, filing(null, "2026-09-07"))
+  expect(kept.days).toBe(2)
+  expect(kept.unfiled.length).toBe(1)
+  expect(done).toEqual(["counted 2026-09-06", "counted 2026-09-08"])
+})
+
+test("a count that stopped part way names the days written before it stopped", () => {
+  const done: string[] = []
+  expect(() => keepMined("/var/tmp", MINED, done, filing("2026-09-08"))).toThrow("the lock on")
+  expect(done).toEqual(["counted 2026-09-06", "counted 2026-09-07"])
+})
+
+test("a count that stopped on the first day names nothing as written", () => {
+  const done: string[] = []
+  expect(() => keepMined("/var/tmp", MINED, done, filing("2026-09-06"))).toThrow("the lock on")
+  expect(done).toEqual([])
 })
 
 test("one row over one day is said in the singular", () => {

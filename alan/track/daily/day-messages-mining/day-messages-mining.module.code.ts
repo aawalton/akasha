@@ -161,24 +161,37 @@ export function transcriptsHere(): readonly string[] {
   return transcriptsIn(join(base, PROJECTS))
 }
 
-export function keepMined(root: string, mined: readonly Mined[]): Kept {
+export type Filing = (root: string, day: string, counted: readonly Counted[]) => boolean
+
+export const FILING: Filing = (root, day, counted) => {
+  const page = dayPageAt(root, day)
+  if (page === null) return false
+  mergeUncommitted(root, page, { [PERSONA_MESSAGES]: counted })
+  return true
+}
+
+export function keepMined(
+  root: string,
+  mined: readonly Mined[],
+  done: string[] = [],
+  filing: Filing = FILING
+): Kept {
   const unfiled: string[] = []
   let days = 0
   let rows = 0
   for (const one of mined) {
-    const page = dayPageAt(root, one.day)
-    if (page === null) {
+    if (!filing(root, one.day, one.counted)) {
       unfiled.push(`${one.day} — ${NO_DAY}`)
       continue
     }
-    mergeUncommitted(root, page, { [PERSONA_MESSAGES]: one.counted })
+    done.push(`counted ${one.day}`)
     days += 1
     rows += one.counted.length
   }
   return { days, rows, unfiled }
 }
 
-export function mineMessages(root: string): Kept {
+export function mineMessages(root: string, done: string[] = []): Kept {
   const known = new Set(personasStanding(root).map((one) => one.slug))
   const read = transcriptsHere().map((path) => {
     try {
@@ -187,7 +200,7 @@ export function mineMessages(root: string): Kept {
       return { named: null, seatPage: null, greeted: null, wrote: [] }
     }
   })
-  return keepMined(root, countedOver(read, known))
+  return keepMined(root, countedOver(read, known), done)
 }
 
 export function saidOf(kept: Kept): string {
