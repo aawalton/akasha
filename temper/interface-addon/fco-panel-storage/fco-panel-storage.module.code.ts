@@ -1,4 +1,3 @@
-import { enableCharacterFragment } from "akasha/temper/interface-addon/fco-bank/fco-bank.module.code.ts"
 import { guildHistoryNavigationHelper } from "akasha/temper/interface-addon/fco-guild-history/fco-guild-history.module.code.ts"
 import {
   easyDestroy,
@@ -9,6 +8,7 @@ import type {
   AddonSettings,
   IconPosBox,
 } from "akasha/temper/interface-addon/fco-types/fco-types.module.code.ts"
+import { enableCharacterFragment } from "akasha/temper/interface-addon/modules/fco-bank/fco-bank.module.code.ts"
 
 export function buildInventoryControls(
   this: void,

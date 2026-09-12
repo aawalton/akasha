@@ -1,14 +1,5 @@
 import "akasha/temper/interface-addon/fco-global/fco-global.module.code.ts"
 
-import {
-  afterLoginOrReloaduiFunctions,
-  noEnlightenedSound,
-} from "akasha/temper/interface-addon/fco-after-login/fco-after-login.module.code.ts"
-import { bankChanges } from "akasha/temper/interface-addon/fco-bank/fco-bank.module.code.ts"
-import {
-  bGHUDStandardSave,
-  bgModifications,
-} from "akasha/temper/interface-addon/fco-battleground/fco-battleground.module.code.ts"
 import { asString } from "akasha/temper/interface-addon/fco-casts/fco-casts.module.code.ts"
 import {
   chatBlacklist,
@@ -58,6 +49,15 @@ import {
 import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
 import { tooltipChanges } from "akasha/temper/interface-addon/fco-tooltips/fco-tooltips.module.code.ts"
 import { uiChanges } from "akasha/temper/interface-addon/fco-ui/fco-ui.module.code.ts"
+import {
+  afterLoginOrReloaduiFunctions,
+  noEnlightenedSound,
+} from "akasha/temper/interface-addon/modules/fco-after-login/fco-after-login.module.code.ts"
+import { bankChanges } from "akasha/temper/interface-addon/modules/fco-bank/fco-bank.module.code.ts"
+import {
+  bGHUDStandardSave,
+  bgModifications,
+} from "akasha/temper/interface-addon/modules/fco-battleground/fco-battleground.module.code.ts"
 
 const EM = EVENT_MANAGER
 
