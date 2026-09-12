@@ -77,6 +77,14 @@ function mustRun(argv: readonly string[], what: string): string | null {
   return `${what} ${why}, so nothing it would have produced is there. It ran as \`${argv.join(" ")}\`.\n${done.err.trim()}`
 }
 
+const HASH_HELD = /ADDON_BUNDLE_CONTENT_HASH\s*=\s*"([0-9a-f]{64})"/
+
+export function hashHeldIn(held: string | null): string | null {
+  if (held === null) return null
+  const found = HASH_HELD.exec(held)
+  return found === null ? null : (found[1] ?? null)
+}
+
 function tagBody(contentHash: string): string {
   return [
     `export const ADDON_BUNDLE_CONTENT_HASH = "${contentHash}"`,
@@ -156,7 +164,7 @@ async function publishedFrom(
   try {
     held = readFileSync(tagPath, "utf8")
   } catch {}
-  if (held === body) {
+  if (hashHeldIn(held) === contentHash) {
     report.push(`${tagFile} already names this image`)
     return { lines: report, refusals: [] }
   }

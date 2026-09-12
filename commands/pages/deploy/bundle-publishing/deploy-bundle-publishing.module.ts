@@ -53,6 +53,20 @@ export const deployBundlePublishing = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "Whether a tag names this image is read off the hash it states rather than off its text.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The tag on disk is wrapped by the formatter and what is composed here is not.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A tag naming an image the registry lacks would stop the pull, so the push comes first.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The name pushed to and the name pulled from are two names for one registry.",
     },
     {
