@@ -14,7 +14,6 @@ export const temperInventoryRuleCreate = {
       takes: "where the item goes, for the actions that move it",
     },
     { said: "--conditions <json>", takes: "the conditions narrowing which items the rule reaches" },
-    { said: "--title <text>", takes: "a title the web shows" },
     { said: "--notes <text>", takes: "a note the web shows" },
     { said: "--goal <text>", takes: "a goal label the web shows" },
     { said: "--active <true|false>", takes: "whether the rule is active" },
@@ -35,4 +34,5 @@ export const temperInventoryRuleCreate = {
     },
   ],
   name: "create",
+  arguments: [{ argument: "argument/title" }],
 } as const satisfies Command

@@ -10,7 +10,6 @@ export const temperInventoryItemRuleUpdate = {
     { said: "<id>", takes: "the id of the per-item rule changed" },
     { said: "--action <name>", takes: "what is done with the item when the rule fires" },
     { said: "--destination <d>", takes: "where the item goes, for the actions that move it" },
-    { said: "--title <s>", takes: "a title the web shows" },
     { said: "--notes <s>", takes: "a note the web shows" },
     { said: "--goal <s>", takes: "a goal label the web shows" },
     { said: "--active <true|false>", takes: "whether the rule is active" },
@@ -31,5 +30,5 @@ export const temperInventoryItemRuleUpdate = {
     },
   ],
   name: "update",
-  arguments: [{ argument: "argument/force" }],
+  arguments: [{ argument: "argument/force" }, { argument: "argument/title" }],
 } as const satisfies Command
