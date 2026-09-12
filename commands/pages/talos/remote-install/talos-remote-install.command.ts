@@ -44,7 +44,8 @@ export const talosRemoteInstall = {
     },
     {
       invariantKind: "departure",
-      statement: "The kexec path leaves the disk write to the installer `talos-apply` triggers.",
+      statement:
+        "The kexec path leaves the disk write to the installer `akasha talos apply` triggers.",
     },
     {
       invariantKind: "departure",

@@ -27,7 +27,7 @@ export const talosHealth = {
     {
       invariantKind: "departure",
       statement:
-        "The talosconfig read sits at `<home>/.talos/<cluster>.config`, where `talos-apply` writes it.",
+        "The talosconfig read sits at `<home>/.talos/<cluster>.config`, where `akasha talos apply` writes it.",
     },
     {
       invariantKind: "departure",
