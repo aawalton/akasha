@@ -45,5 +45,22 @@ export const desktopWallpaperSetting = {
       invariantKind: "departure",
       statement: "A persona's last-messaged stamp is read from the file beside her page.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The wallpaper is set the moment a persona's page or the file beside it changes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A round is passed over while the key is holding the desktop black.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The desktop is black or a persona's picture, and the key alone moves between them.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here asks on a schedule what the wallpaper should be.",
+    },
   ],
 } as const satisfies Module

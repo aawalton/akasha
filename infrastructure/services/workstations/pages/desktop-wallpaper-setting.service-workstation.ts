@@ -7,7 +7,22 @@ export const desktopWallpaperSetting = {
   definition: "the service setting the desktop wallpaper to the persona Alan messaged last",
   enabled: true,
   systemd: {
-    schedule: "*:0/5",
-    catchUp: true,
+    restart: "on-failure",
+    restartDelaySeconds: 5,
+    startLimitIntervalSeconds: 0,
   },
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The unit running the watch is simple rather than a timer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Repeated starts are counted over no window.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A watch failing all night keeps on.",
+    },
+  ],
 } as const satisfies ServiceWorkstation

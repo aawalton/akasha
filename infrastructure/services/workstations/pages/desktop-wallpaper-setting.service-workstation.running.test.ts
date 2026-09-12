@@ -1,7 +1,9 @@
 import { expect, mock, test } from "bun:test"
 
-const HANDED: (readonly unknown[])[] = []
-let CODE = 0
+const STARTED: (readonly unknown[])[] = []
+let THROWS = false
+
+const SETTLE_MS = 20
 
 const setting = await import(
   "akasha/personas/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts"
@@ -11,9 +13,10 @@ mock.module(
   "akasha/personas/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts",
   () => ({
     ...setting,
-    runDesktopWallpaperSetting: (...given: readonly unknown[]) => {
-      HANDED.push(given)
-      return CODE
+    watchDesktopWallpaper: (...given: readonly unknown[]) => {
+      STARTED.push(given)
+      if (THROWS) throw new Error("no watch")
+      return () => undefined
     },
   })
 )
@@ -31,22 +34,28 @@ test("the run is the only way into this file, so the service has one entry", () 
   expect(Object.keys(running)).toEqual(["runService"])
 })
 
-test("a run turns the setting module's own setting rather than a setting written again here", () => {
-  HANDED.length = 0
-  CODE = 0
-  running.runService()
-  expect(HANDED.length).toBe(1)
+test("a run starts the watch the setting module holds rather than one written again here", () => {
+  STARTED.length = 0
+  THROWS = false
+  void running.runService()
+  expect(STARTED).toEqual([[]])
 })
 
-test("the setting is handed nothing, which is what the unit's command line hands it", () => {
-  HANDED.length = 0
-  CODE = 0
-  running.runService()
-  expect(HANDED).toEqual([[]])
+test("a run that started the watch does not end, so systemd is left with a service running", async () => {
+  STARTED.length = 0
+  THROWS = false
+  let ended = false
+  const settle = (): undefined => {
+    ended = true
+    return undefined
+  }
+  running.runService().then(settle, settle)
+  await Bun.sleep(SETTLE_MS)
+  expect(ended).toBe(false)
 })
 
-test("a setting that was done hands nothing back, so the run ends of its own accord", () => {
-  HANDED.length = 0
-  CODE = 0
-  expect(running.runService()).toBeUndefined()
+test("a watch that cannot start ends the run, so systemd is left with a service that failed", async () => {
+  STARTED.length = 0
+  THROWS = true
+  await expect(running.runService()).rejects.toThrow()
 })

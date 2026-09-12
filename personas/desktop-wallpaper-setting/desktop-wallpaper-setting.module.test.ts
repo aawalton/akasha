@@ -1,14 +1,23 @@
 import { expect, test } from "bun:test"
 import {
+  blackHeldAt,
   chosenIn,
+  holdsPersona,
   type PersonaWallpaper,
   type Ran,
+  roundIn,
   settingIn,
 } from "akasha/personas/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts"
 
 const ROOT = "/repo"
 
 const PNG = "png"
+
+const CACHE = "/cache"
+
+const HOME = "/home/alan"
+
+const HELD_AT = `${CACHE}/wallpaper-black-state.json`
 
 function persona(
   id: string,
@@ -106,4 +115,29 @@ test("choosing nothing exits non-zero without running the command", () => {
   expect(pointedAt).toEqual([])
   expect(setting.status).not.toBe(0)
   expect(setting.said).toContain("desktop wallpaper")
+})
+
+test("a round taken while the key holds the desktop black runs no command", () => {
+  const pointedAt: string[] = []
+  const run = (at: string): Ran => {
+    pointedAt.push(at)
+    return { status: 0, said: "set" }
+  }
+  const round = roundIn(ROOT, run, () => true, HELD_AT)
+  expect(pointedAt).toEqual([])
+  expect(round.status).toBe(0)
+  expect(round.said).toContain("black")
+})
+
+test("the file the key writes is the file a round is held by", () => {
+  expect(blackHeldAt(CACHE, HOME)).toBe(`${CACHE}/wallpaper-black-state.json`)
+  expect(blackHeldAt(undefined, HOME)).toBe(`${HOME}/.cache/wallpaper-black-state.json`)
+  expect(blackHeldAt("", HOME)).toBe(`${HOME}/.cache/wallpaper-black-state.json`)
+})
+
+test("a persona's page and the file beside it are what the watch admits", () => {
+  expect(holdsPersona(`${ROOT}/personas/pages/amy/amy.persona.ts`)).toBe(true)
+  expect(holdsPersona(`${ROOT}/personas/pages/amy/amy.persona.uncommitted.ts`)).toBe(true)
+  expect(holdsPersona(`${ROOT}/personas/pages/amy/amy.persona.desktop-wallpaper.png`)).toBe(false)
+  expect(holdsPersona(`${ROOT}/personas/pages/amy/amy.persona.portrait.md`)).toBe(false)
 })

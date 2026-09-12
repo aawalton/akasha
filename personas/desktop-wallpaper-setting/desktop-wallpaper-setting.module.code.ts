@@ -1,5 +1,7 @@
 import { existsSync } from "node:fs"
-import { isAbsolute, join } from "node:path"
+import { homedir } from "node:os"
+import { dirname, isAbsolute, join } from "node:path"
+import { followWithin } from "akasha/infrastructure/services/workstations/file-following/file-following.module.code.ts"
 import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { everyOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
@@ -21,6 +23,14 @@ const WALLPAPER_PROPERTY = "desktop-wallpaper"
 const PNG = "png"
 
 const SETTER = "plasma-apply-wallpaperimage"
+
+const BLACK_HELD = "wallpaper-black-state.json"
+
+const CACHE = ".cache"
+
+const PAGE_TAIL = ".persona.ts"
+
+const BESIDE_TAIL = ".persona.uncommitted.ts"
 
 export type PersonaWallpaper = WallpaperRow & {
   readonly pagePath: string
@@ -100,12 +110,60 @@ export function settingIn(
   return { status: done.status, said: `${chosen.slug}: ${done.said}` }
 }
 
-export function runDesktopWallpaperSetting(): number {
-  const setting = settingIn(akashaRoot())
+export function blackHeldAt(
+  cache: string | undefined = process.env.XDG_CACHE_HOME,
+  home: string = homedir()
+): string {
+  const at = cache === undefined || cache === "" ? join(home, CACHE) : cache
+  return join(at, BLACK_HELD)
+}
+
+export function roundIn(
+  root: string,
+  run: (at: string) => Ran = plasmaRan,
+  held: (at: string) => boolean = existsSync,
+  heldAt: string = blackHeldAt()
+): Ran {
+  if (held(heldAt)) return { status: 0, said: "The key is holding the desktop black." }
+  return settingIn(root, run)
+}
+
+function told(setting: Ran): number {
   const said = `${setting.said}\n`
   if (setting.status === 0) process.stdout.write(said)
   else process.stderr.write(said)
   return setting.status
+}
+
+export function holdsPersona(at: string): boolean {
+  return at.endsWith(PAGE_TAIL) || at.endsWith(BESIDE_TAIL)
+}
+
+export function personaFoldersIn(root: string): ReadonlySet<string> {
+  const folders = new Set<string>()
+  for (const persona of everyPersonaWallpaper(root)) {
+    const at = isAbsolute(persona.pagePath) ? persona.pagePath : join(root, persona.pagePath)
+    folders.add(dirname(at))
+  }
+  return folders
+}
+
+export function watchDesktopWallpaper(): () => undefined {
+  const root = akashaRoot()
+  const following = followWithin(personaFoldersIn(root), holdsPersona, () => {
+    told(roundIn(root))
+    return undefined
+  })
+  for (const one of following.unfollowed) process.stderr.write(`No watch on ${one}.\n`)
+  told(roundIn(root))
+  return () => {
+    following.stop()
+    return undefined
+  }
+}
+
+export function runDesktopWallpaperSetting(): number {
+  return told(roundIn(akashaRoot()))
 }
 
 if (import.meta.main) {
