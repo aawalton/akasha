@@ -243,7 +243,7 @@ export async function deployHeld(
       ? []
       : [
           ...recordedRefusal(given.root, slug, read.pagePath, commit),
-          ...recordedEnding(given.root, slug, read.pagePath),
+          ...recordedEnding(given.root, slug, read.pagePath, true),
         ]
   if (unjudged.length > 0) {
     return answeredWith([`commit\t${commit}`], [...unjudged, ...noting()], DATA)

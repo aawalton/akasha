@@ -8,6 +8,7 @@ export const service = {
   pluralSlug: "services",
   extends: ["page-type/domain"],
   parts: [
+    "instant-property/deploy-refused-at",
     "text-property/deployed-commit",
     "text-property/refused-commit",
     "number-property/cooldown-seconds",
@@ -36,6 +37,12 @@ export const service = {
     },
     {
       pageProperty: "instant-property/deploy-ended-at",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+    {
+      pageProperty: "instant-property/deploy-refused-at",
       required: false,
       many: false,
       uncommitted: true,

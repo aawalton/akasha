@@ -79,5 +79,15 @@ export const deployChoosing = {
       statement:
         "That question is put in order, furthest behind first, and stops at the one chosen.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A service whose last deploy refused waits longer than its own cooldown before being chosen.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "That wait is what keeps a service that cannot be put up from starving the rest of its kind.",
+    },
   ],
 } as const satisfies Module

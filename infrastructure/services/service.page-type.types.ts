@@ -1,6 +1,7 @@
 import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 import type { CooldownSeconds } from "akasha/infrastructure/services/properties/cooldown-seconds.number-property.types.ts"
 import type { DeployEndedAt } from "akasha/infrastructure/services/properties/deploy-ended-at.instant-property.types.ts"
+import type { DeployRefusedAt } from "akasha/infrastructure/services/properties/deploy-refused-at.instant-property.types.ts"
 import type { DeployedCommit } from "akasha/infrastructure/services/properties/deployed-commit.text-property.types.ts"
 import type { DeploysAfter } from "akasha/infrastructure/services/properties/deploys-after.relation-property.types.ts"
 import type { RefusedCommit } from "akasha/infrastructure/services/properties/refused-commit.text-property.types.ts"
@@ -11,4 +12,5 @@ export type Service = Domain & {
   cooldownSeconds?: CooldownSeconds
   deploysAfter?: DeploysAfter
   deployEndedAt?: DeployEndedAt
+  deployRefusedAt?: DeployRefusedAt
 }

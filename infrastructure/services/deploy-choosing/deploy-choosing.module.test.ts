@@ -6,7 +6,9 @@ import {
   chosenFrom,
   cooledBy,
   heldBackBy,
+  REFUSAL_SECONDS,
   type Wanting,
+  waitedBy,
 } from "akasha/infrastructure/services/deploy-choosing/deploy-choosing.module.code.ts"
 
 const NOW = 1_000_000_000
@@ -26,6 +28,7 @@ function candidate(slug: string, some: Partial<Candidate> = {}): Candidate {
     deploying: false,
     deployedAt: NOW - 1000,
     deployEndedAt: null,
+    refusedAt: null,
     cooldownSeconds: COOLDOWN_SECONDS,
     dependsOn: [],
     ...some,
@@ -134,6 +137,30 @@ test("a service behind the one chosen is never asked whether it wants a deploy",
   const two = candidate("two", { deployedAt: NOW - 50_000 })
   expect(chosenFrom([one, two], NOW, wants)?.slug).toBe("two")
   expect(asked).toEqual(["two"])
+})
+
+test("a service whose last deploy refused waits longer than its own cooldown", () => {
+  const at = NOW - 120_000
+  const one = candidate("one", { deployEndedAt: at, refusedAt: at, cooldownSeconds: 60 })
+  expect(waitedBy(one)).toBe(REFUSAL_SECONDS)
+  expect(cooledBy(one, NOW)).toBe(false)
+  expect(cooledBy(one, NOW + REFUSAL_SECONDS * 1000)).toBe(true)
+})
+
+test("a service that refused before its last deploy waits out its own cooldown", () => {
+  const one = candidate("one", {
+    deployEndedAt: NOW - 61_000,
+    refusedAt: NOW - 900_000,
+    cooldownSeconds: 60,
+  })
+  expect(waitedBy(one)).toBe(60)
+  expect(cooledBy(one, NOW)).toBe(true)
+})
+
+test("a service whose stated cooldown is longer than the wait after a refusal keeps its own", () => {
+  const at = NOW - 1000
+  const one = candidate("one", { deployEndedAt: at, refusedAt: at, cooldownSeconds: 86_400 })
+  expect(waitedBy(one)).toBe(86_400)
 })
 
 test("the stated cooldown is a whole number of seconds above zero", () => {

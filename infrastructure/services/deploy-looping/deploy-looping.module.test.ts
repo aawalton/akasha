@@ -17,6 +17,7 @@ function candidate(slug: string): Candidate {
     deploying: false,
     deployedAt: null,
     deployEndedAt: null,
+    refusedAt: null,
     cooldownSeconds: 60,
     dependsOn: [],
   }

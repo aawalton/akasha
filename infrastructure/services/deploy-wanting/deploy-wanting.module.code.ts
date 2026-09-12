@@ -5,6 +5,7 @@ import {
 import {
   commitRecordedIn,
   endedIn,
+  refusedAtIn,
 } from "akasha/commands/pages/deploy/commit-recording/deploy-commit-recording.module.code.ts"
 import {
   closureIn,
@@ -96,6 +97,7 @@ export function candidateFor(
     deploying,
     deployedAt: was === null ? null : committedAt(root, was),
     deployEndedAt: endedIn(root, subject.pagePath),
+    refusedAt: refusedAtIn(root, subject.pagePath),
     cooldownSeconds: subject.cooldownSeconds,
     dependsOn: subject.deploysAfter,
   }

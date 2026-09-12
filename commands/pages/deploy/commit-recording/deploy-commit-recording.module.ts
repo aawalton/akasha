@@ -41,5 +41,10 @@ export const deployCommitRecording = {
       invariantKind: "departure",
       statement: "A moment that will not parse is read as no moment rather than as the epoch.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A deploy that refused keeps that one moment under both the ending's key and the refusal's.",
+    },
   ],
 } as const satisfies Module

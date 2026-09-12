@@ -10,6 +10,8 @@ export const REFUSED_COMMIT = "refusedCommit"
 
 export const DEPLOY_ENDED_AT = "deployEndedAt"
 
+export const DEPLOY_REFUSED_AT = "deployRefusedAt"
+
 export function commitKeptIn(root: string, pagePath: string, key: string): string | null {
   const kept = uncommittedIn(root, pagePath)
   return kept === null ? null : textAt(kept, key)
@@ -42,11 +44,19 @@ export function wroteUnder(
   }
 }
 
-export function endedIn(root: string, pagePath: string): number | null {
-  const said = commitKeptIn(root, pagePath, DEPLOY_ENDED_AT)
+export function momentIn(root: string, pagePath: string, key: string): number | null {
+  const said = commitKeptIn(root, pagePath, key)
   if (said === null) return null
   const at = Date.parse(said)
   return Number.isFinite(at) ? at : null
+}
+
+export function endedIn(root: string, pagePath: string): number | null {
+  return momentIn(root, pagePath, DEPLOY_ENDED_AT)
+}
+
+export function refusedAtIn(root: string, pagePath: string): number | null {
+  return momentIn(root, pagePath, DEPLOY_REFUSED_AT)
 }
 
 export function saidOfNoEnding(slug: string, wrong: readonly string[]): string {
@@ -57,9 +67,14 @@ export function recordedEnding(
   root: string,
   slug: string,
   pagePath: string,
+  refused: boolean = false,
   at: Date = new Date()
 ): readonly string[] {
-  const wrong = wroteUnder(root, pagePath, DEPLOY_ENDED_AT, at.toISOString())
+  const said = at.toISOString()
+  const wrong = [
+    ...wroteUnder(root, pagePath, DEPLOY_ENDED_AT, said),
+    ...(refused ? wroteUnder(root, pagePath, DEPLOY_REFUSED_AT, said) : []),
+  ]
   return wrong.length === 0 ? [] : [saidOfNoEnding(slug, wrong)]
 }
 
