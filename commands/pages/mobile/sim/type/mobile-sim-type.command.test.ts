@@ -10,6 +10,7 @@ import type {
   Typing,
 } from "akasha/commands/pages/mobile/sim/type/mobile-sim-type.command.code.ts"
 import {
+  mobileSimType,
   tappedSaid,
   typedIn,
 } from "akasha/commands/pages/mobile/sim/type/mobile-sim-type.command.code.ts"
@@ -71,4 +72,43 @@ test("a call naming no element taps nothing, so a throw there names nothing", as
 
   expect(held.report).toEqual([])
   expect(held.refusals.some((one) => one.includes("stopped part way"))).toBe(false)
+})
+
+test("a call naming no text is refused before the session is reached", async () => {
+  const said = await mobileSimType([])
+
+  expect(said.code).toBe(1)
+  expect(said.report).toEqual([])
+  expect(said.refusals[0]).toContain("--text")
+})
+
+test("a call naming an element and no text is refused", async () => {
+  const said = await mobileSimType(["--selector", SELECTOR])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--text")
+})
+
+test("a flag this takes no argument at is refused by name", async () => {
+  const said = await mobileSimType(["--bogus"])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--bogus")
+  expect(said.refusals[0]).toContain("--text")
+})
+
+test("a bare word is refused, since this names every argument at a flag", async () => {
+  const said = await mobileSimType(["hunter2"])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("hunter2")
+})
+
+test("a dash naming what is piped in reaches no piping today", async () => {
+  const said = await mobileSimType(["--text", "-"])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals).toEqual([
+    "`--text` names a value, and nothing that could be one followed it",
+  ])
 })

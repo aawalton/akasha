@@ -36,3 +36,49 @@ test("a run that did two things names both of them in one sentence", async () =>
   expect(said.report).toEqual(wrote)
   expect(said.refusals.at(-1)).toContain(`${SWITCHED}; the script was sent`)
 })
+
+test("a call naming no script is refused before the session is reached", async () => {
+  const said = await mobileSimEval([])
+
+  expect(said.code).toBe(1)
+  expect(said.report).toEqual([])
+  expect(said.refusals[0]).toContain("--script")
+})
+
+test("two bare words are refused, since this takes one script", async () => {
+  const said = await mobileSimEval(["return 1", "return 2"])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("return 2")
+})
+
+test("a script said as a word and at its flag is refused", async () => {
+  const said = await mobileSimEval(["--script", "return 1", "return 2"])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--script")
+})
+
+test("a flag this takes no argument at is refused by name", async () => {
+  const said = await mobileSimEval(["--bogus"])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--bogus")
+  expect(said.refusals[0]).toContain("--script")
+})
+
+test("a dash naming what is piped in reaches no piping today", async () => {
+  const said = await mobileSimEval(["--script", "-"])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals).toEqual([
+    "`--script` names a value, and nothing that could be one followed it",
+  ])
+})
+
+test("a dash said as the bare word reaches no piping today either", async () => {
+  const said = await mobileSimEval(["-"])
+
+  expect(said.code).toBe(1)
+  expect(said.refusals).toEqual(["`-` is no flag this takes — it takes `--script`"])
+})
