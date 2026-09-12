@@ -21,12 +21,6 @@ export const athenaCommandModules = {
     },
     {
       statement:
-        "`cli` prints an answer and gives that answer an exit code, and does nothing else.",
-      workingMemory:
-        "The hook links are mended by the landing that breaks them now, in `apply-running` at `b2deb3c7011` and `efd4a8ba6cf` — they are Claude Code event links, not git hooks, and only a landing may move their target. `cli` is 59 lines. A third job is left that nobody had named: `outsideOf` gathers what a run is outside the command line, and `cli` is the only code that may read `process`, so it cannot move. Is gathering that part of printing an answer, or a third job wanting its own home?",
-    },
-    {
-      statement:
         "A command that wrote before it threw says in its refusal what that command wrote.",
       workingMemory:
         "`agent subagent-sweep`, `music capture`, `mechanical-filing` and `track landing` each answer what they wrote beside their refusals now, each with a test. `deploy.command.code.ts:245` catches its own throw and answers the commit and that what it put up may be partial. No test reaches `putUp`, and `deploy.command.ts` takes no invariant for it until its help notes move out. Does deploy thread back what it put up before it threw, or is the commit enough?\n",
