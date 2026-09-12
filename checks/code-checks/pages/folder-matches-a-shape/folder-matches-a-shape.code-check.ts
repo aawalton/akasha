@@ -203,6 +203,14 @@ export const folderMatchesAShape = {
       invariantKind: "departure",
       statement: "A folder looked through to find the page above is judged all the same.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Nothing is judged while this page states `experimental`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`experimental` comes off this page where Alan has approved this check.",
+    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
