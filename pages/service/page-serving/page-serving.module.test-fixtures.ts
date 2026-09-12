@@ -61,7 +61,7 @@ export const A_DEVICE_TOKEN = {
   slug: "held-one",
   values: {
     id: "01a05dc7-421c-7000-b93a-ac4514adf294",
-    pageTypeSlug: "device-token",
+    type: "device-token",
     slug: "held-one",
     person: "alan",
     iosApp: "alanwalton",
