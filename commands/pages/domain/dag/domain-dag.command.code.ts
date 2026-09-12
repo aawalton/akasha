@@ -8,7 +8,7 @@ import { refusedBy } from "akasha/commands/modules/answering/command-answering.m
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { reportedBy } from "akasha/commands/modules/report-answering/report-answering.module.code.ts"
 import { domainDag as page } from "akasha/commands/pages/domain/dag/domain-dag.command.ts"
-import { dagLines } from "akasha/commands/pages/domain/domain-drawing/domain-drawing.module.code.ts"
+import { dagLines } from "akasha/commands/pages/domain/drawing/domain-drawing.module.code.ts"
 
 const NAMED = [paths, descent, rootDomain, up]
 

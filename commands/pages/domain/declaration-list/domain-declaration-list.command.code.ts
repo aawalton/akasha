@@ -8,7 +8,7 @@ import { domainDeclarationList as page } from "akasha/commands/pages/domain/decl
 import {
   declarationLines,
   SUBJECTS,
-} from "akasha/commands/pages/domain/domain-drawing/domain-drawing.module.code.ts"
+} from "akasha/commands/pages/domain/drawing/domain-drawing.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 export function wrongIn(said: readonly string[]): readonly string[] {
