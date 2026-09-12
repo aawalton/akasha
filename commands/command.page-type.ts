@@ -152,8 +152,7 @@ export const command = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "A command's code spells no name of its own call, which the call it is handed carries.",
+      statement: "Outside its directives, a command's code and page spell no name of its own call.",
     },
     {
       invariantKind: "gap",

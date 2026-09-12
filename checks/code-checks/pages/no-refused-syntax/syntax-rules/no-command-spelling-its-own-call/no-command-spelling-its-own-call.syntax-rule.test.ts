@@ -12,6 +12,8 @@ import type { Naming } from "akasha/commands/modules/walking/command-walking.mod
 
 const HUMMED_AT = "commands/pages/humming/deep-song/humming-deep-song.command.code.ts"
 
+const HUMMED_PAGE_AT = "commands/pages/humming/deep-song/humming-deep-song.command.ts"
+
 const HUMMED_TEST_AT = "commands/pages/humming/deep-song/humming-deep-song.command.test.ts"
 
 const LEAF_AT = "commands/pages/humming/leaf/humming-leaf.command.code.ts"
@@ -84,6 +86,24 @@ test("a specifier naming the command's own folder is left alone", () => {
   expect(noCommandSpellingItsOwnCall(at(LEAF_AT, text))).toEqual([])
 })
 
+test("a command's own call spelled in an invariant on its page is refused", () => {
+  const text = 'export const one = { statement: "a flag `akasha humming deep-song` takes" }\n'
+  const said = noCommandSpellingItsOwnCall(at(HUMMED_PAGE_AT, text))
+  expect(said).toHaveLength(1)
+  expect(said[0]?.reason).toContain("akasha humming deep-song")
+})
+
+test("a command's own call spelled in its definition is refused", () => {
+  const text = 'export const one = { definition: "what akasha humming deep-song answers" }\n'
+  expect(noCommandSpellingItsOwnCall(at(HUMMED_PAGE_AT, text))).toHaveLength(1)
+})
+
+test("what a directive on that page says is left alone", () => {
+  const text =
+    'export const one = { directives: [{ act: "Run `akasha humming deep-song` once" }] }\n'
+  expect(noCommandSpellingItsOwnCall(at(HUMMED_PAGE_AT, text))).toEqual([])
+})
+
 test("a test beside the code hands the call rather than spelling it", () => {
   const text = 'const GIVEN = { calledAs: "akasha humming deep-song" }\n'
   expect(noCommandSpellingItsOwnCall(at(HUMMED_TEST_AT, text))).toEqual([])
@@ -102,6 +122,7 @@ test("the line named is the line the literal is on", () => {
   expect(said[0]?.line).toBe(2)
 })
 
-test("the folders a command's code sits in are answered with a space for each slash", () => {
+test("the folders a command's file sits in are answered with a space for each slash", () => {
   expect(calledIn(HUMMED_AT)).toBe("humming deep-song")
+  expect(calledIn(HUMMED_PAGE_AT)).toBe("humming deep-song")
 })
