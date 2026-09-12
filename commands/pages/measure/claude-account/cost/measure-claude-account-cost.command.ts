@@ -1,9 +1,9 @@
 import type { Command } from "akasha/commands/command.page-type.types.ts"
 
-export const measureClaudeAccountsCost = {
+export const measureClaudeAccountCost = {
   id: "01a0796e-60fd-789e-af7f-3c8104ab8bb3",
   type: "command",
-  slug: "measure-claude-accounts-cost",
+  slug: "measure-claude-account-cost",
   definition: "the command pricing the calls the transcripts on this machine have",
   code: "ts",
   changeKind: "change-mechanical",

@@ -12,7 +12,7 @@ export const measure = {
     "command/measure-audit",
     "command/measure-changes",
     "command/measure-commands",
-    "namespace/measure-claude-accounts",
+    "namespace/measure-claude-account",
     "command/measure-attributes",
     "command/measure-personas",
     "command/measure-learning",

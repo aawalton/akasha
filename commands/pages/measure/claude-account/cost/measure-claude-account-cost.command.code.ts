@@ -4,7 +4,7 @@ import {
   linesOf,
   sinceOf,
   storeHere,
-} from "akasha/commands/pages/measure/claude-accounts/cost/claude-account-costing/claude-account-costing.module.code.ts"
+} from "akasha/commands/pages/measure/claude-account/cost/claude-account-costing/claude-account-costing.module.code.ts"
 
 const DAYS = 30
 
