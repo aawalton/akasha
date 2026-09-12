@@ -75,6 +75,10 @@ export const workTreeDeleting = {
     },
     {
       invariantKind: "departure",
+      statement: "Each command asked is named by reading the slug off that command's own page.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The panel is told a row is going before the command deleting that row is called.",
     },
     {

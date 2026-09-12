@@ -6,14 +6,17 @@ import {
   keyedAs,
   shownSaid,
 } from "akasha/code/editor/extension/work-tree-dragging/work-tree-dragging.module.code.ts"
+import { initiativeDelete } from "akasha/commands/pages/initiative/delete/initiative-delete.command.ts"
+import { initiativeDeleteIntent } from "akasha/commands/pages/initiative/delete-intent/initiative-delete-intent.command.ts"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 
-const INTENT_SLUG = "initiative-delete-intent"
+const INTENT_SLUG = initiativeDeleteIntent.slug
 
-const INTENT_EXPORT = "initiativeDeleteIntent"
+const INTENT_EXPORT = exportedAs(INTENT_SLUG)
 
-const INITIATIVE_SLUG = "initiative-delete"
+const INITIATIVE_SLUG = initiativeDelete.slug
 
-const INITIATIVE_EXPORT = "initiativeDelete"
+const INITIATIVE_EXPORT = exportedAs(INITIATIVE_SLUG)
 
 const CONFIRM = "Delete"
 
