@@ -1,12 +1,3 @@
-import type { EffectBufferEntry } from "akasha/temper/combat-addon/combat-lib-message-types/combat-lib-message-types.module.code.ts"
-import {
-  clearEffectBuffer,
-  DATA,
-  EFFECT_BUFFER,
-  EVENT_GROUP_ACTIVE,
-  getCurrentFight,
-} from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
-import { onTFSChanged } from "akasha/temper/combat-addon/combat-lib-stats/combat-lib-stats.module.code.ts"
 import { getShadowBonus } from "akasha/temper/combat-addon/combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"
 import {
   updateForceOfNatureData,
@@ -19,6 +10,15 @@ import {
   LIBCOMBAT_EVENT_EFFECTS_IN,
   STATUS_EFFECT_IDS,
 } from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
+import type { EffectBufferEntry } from "akasha/temper/combat-addon/modules/combat-lib-message-types/combat-lib-message-types.module.code.ts"
+import {
+  clearEffectBuffer,
+  DATA,
+  EFFECT_BUFFER,
+  EVENT_GROUP_ACTIVE,
+  getCurrentFight,
+} from "akasha/temper/combat-addon/modules/combat-lib-state/combat-lib-state.module.code.ts"
+import { onTFSChanged } from "akasha/temper/combat-addon/modules/combat-lib-stats/combat-lib-stats.module.code.ts"
 
 let LAST_PURGE = 0
 

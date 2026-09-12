@@ -1,31 +1,4 @@
 import type {
-  BossHpLogLine,
-  DeathLogLine,
-  MessagesLogLine,
-  PerformanceLogLine,
-  PlayerStatsLogLine,
-  SkillTimingsLogLine,
-} from "akasha/temper/combat-addon/combat-lib-log-lines/combat-lib-log-lines.module.code.ts"
-import {
-  getDeathFormatString,
-  getMessageString,
-  getResurrectString,
-  getSkillsFormatString,
-  STRING_DECREASED,
-  STRING_FORMATSTRING_SKILLDELAY,
-  STRING_INCREASED,
-  STRING_IS_AT,
-  STRING_MESSAGE_BAR,
-  STRING_STAT_SPELL_CRIT_DONE,
-  STRING_STAT_STATUS_EFFECT_CHANCE,
-  STRING_STAT_WEAPON_CRIT_DONE,
-  STRING_UNITTYPE_GROUP,
-  STRING_UNITTYPE_OTHER,
-  STRING_UNITTYPE_PET,
-  STRING_UNITTYPE_PLAYER,
-  STRING_YOU,
-} from "akasha/temper/combat-addon/combat-lib-log-strings-text/combat-lib-log-strings-text.module.code.ts"
-import type {
   Fight,
   UnitEntry,
 } from "akasha/temper/combat-addon/combat-lib-types/combat-lib-types.module.code.ts"
@@ -54,6 +27,33 @@ import {
   LOG_LEVEL_DEBUG,
   log,
 } from "akasha/temper/combat-addon/modules/combat-lib-log/combat-lib-log.module.code.ts"
+import type {
+  BossHpLogLine,
+  DeathLogLine,
+  MessagesLogLine,
+  PerformanceLogLine,
+  PlayerStatsLogLine,
+  SkillTimingsLogLine,
+} from "akasha/temper/combat-addon/modules/combat-lib-log-lines/combat-lib-log-lines.module.code.ts"
+import {
+  getDeathFormatString,
+  getMessageString,
+  getResurrectString,
+  getSkillsFormatString,
+  STRING_DECREASED,
+  STRING_FORMATSTRING_SKILLDELAY,
+  STRING_INCREASED,
+  STRING_IS_AT,
+  STRING_MESSAGE_BAR,
+  STRING_STAT_SPELL_CRIT_DONE,
+  STRING_STAT_STATUS_EFFECT_CHANCE,
+  STRING_STAT_WEAPON_CRIT_DONE,
+  STRING_UNITTYPE_GROUP,
+  STRING_UNITTYPE_OTHER,
+  STRING_UNITTYPE_PET,
+  STRING_UNITTYPE_PLAYER,
+  STRING_YOU,
+} from "akasha/temper/combat-addon/modules/combat-lib-log-strings-text/combat-lib-log-strings-text.module.code.ts"
 
 export type CombatLogLine = (number | string | undefined)[]
 

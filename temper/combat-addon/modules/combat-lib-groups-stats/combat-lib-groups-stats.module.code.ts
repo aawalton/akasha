@@ -1,19 +1,4 @@
 import {
-  onBaseResourceChangedGroup,
-  onQuickSlotChanged,
-  onQuickSlotUsed,
-} from "akasha/temper/combat-addon/combat-lib-resources/combat-lib-resources.module.code.ts"
-import {
-  onProjectileEvent,
-  onQueueEvent,
-  onWeaponSwap,
-} from "akasha/temper/combat-addon/combat-lib-skill-bars/combat-lib-skill-bars.module.code.ts"
-import {
-  getCurrentSkillBarsDelayed,
-  onSlotUpdate,
-  onSlotUsed,
-} from "akasha/temper/combat-addon/combat-lib-skill-casts/combat-lib-skill-casts.module.code.ts"
-import {
   onBossHealthChanged,
   onPlayerActivated2,
   onPlayerDeactivated,
@@ -46,6 +31,21 @@ import {
   updateSkillEvents,
 } from "akasha/temper/combat-addon/modules/combat-lib-events/combat-lib-events.module.code.ts"
 import { onCombatEventGrpHealIn } from "akasha/temper/combat-addon/modules/combat-lib-heal/combat-lib-heal.module.code.ts"
+import {
+  onBaseResourceChangedGroup,
+  onQuickSlotChanged,
+  onQuickSlotUsed,
+} from "akasha/temper/combat-addon/modules/combat-lib-resources/combat-lib-resources.module.code.ts"
+import {
+  onProjectileEvent,
+  onQueueEvent,
+  onWeaponSwap,
+} from "akasha/temper/combat-addon/modules/combat-lib-skill-bars/combat-lib-skill-bars.module.code.ts"
+import {
+  getCurrentSkillBarsDelayed,
+  onSlotUpdate,
+  onSlotUsed,
+} from "akasha/temper/combat-addon/modules/combat-lib-skill-casts/combat-lib-skill-casts.module.code.ts"
 
 createEventGroup(
   "Messages",

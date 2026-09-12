@@ -1,7 +1,3 @@
-import {
-  DATA,
-  getCurrentFight,
-} from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
 import type {
   UnitEntry,
   UnitInfo,
@@ -19,6 +15,10 @@ import {
   LOG_LEVEL_WARNING,
   log,
 } from "akasha/temper/combat-addon/modules/combat-lib-log/combat-lib-log.module.code.ts"
+import {
+  DATA,
+  getCurrentFight,
+} from "akasha/temper/combat-addon/modules/combat-lib-state/combat-lib-state.module.code.ts"
 
 function createUnit(name: string, unitId: number, unitType: number | undefined): UnitEntry {
   name = ZO_CachedStrFormat(SI_UNIT_NAME, name)

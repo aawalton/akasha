@@ -1,11 +1,3 @@
-import {
-  onBaseResourceChangedDelayed,
-  onResourceChanged,
-} from "akasha/temper/combat-addon/combat-lib-resources/combat-lib-resources.module.code.ts"
-import {
-  onShadowMundus,
-  onTFSChanged,
-} from "akasha/temper/combat-addon/combat-lib-stats/combat-lib-stats.module.code.ts"
 import { onTrialDummy } from "akasha/temper/combat-addon/combat-lib-units/combat-lib-units.module.code.ts"
 import {
   LIBCOMBAT_EVENT_EFFECTS_IN,
@@ -32,6 +24,14 @@ import {
   registerEvent,
   setGroupActive,
 } from "akasha/temper/combat-addon/modules/combat-lib-events/combat-lib-events.module.code.ts"
+import {
+  onBaseResourceChangedDelayed,
+  onResourceChanged,
+} from "akasha/temper/combat-addon/modules/combat-lib-resources/combat-lib-resources.module.code.ts"
+import {
+  onShadowMundus,
+  onTFSChanged,
+} from "akasha/temper/combat-addon/modules/combat-lib-stats/combat-lib-stats.module.code.ts"
 
 createEventGroup(
   "Effects",

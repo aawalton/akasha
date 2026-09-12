@@ -1,8 +1,3 @@
-import type { CombatEventHandler } from "akasha/temper/combat-addon/combat-lib-message-types/combat-lib-message-types.module.code.ts"
-import {
-  DATA,
-  getCurrentFight,
-} from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
 import {
   addUnitCacheEvent,
   getUnitCache,
@@ -20,6 +15,11 @@ import {
   LOG_LEVEL_DEBUG,
   log,
 } from "akasha/temper/combat-addon/modules/combat-lib-log/combat-lib-log.module.code.ts"
+import type { CombatEventHandler } from "akasha/temper/combat-addon/modules/combat-lib-message-types/combat-lib-message-types.module.code.ts"
+import {
+  DATA,
+  getCurrentFight,
+} from "akasha/temper/combat-addon/modules/combat-lib-state/combat-lib-state.module.code.ts"
 
 const LAST_DEATHS: Record<number, number> = {}
 

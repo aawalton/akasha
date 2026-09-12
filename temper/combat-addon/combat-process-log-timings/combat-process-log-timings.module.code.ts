@@ -1,10 +1,4 @@
 import {
-  isMessagesLogLine,
-  isPerformanceLogLine,
-  isQuickslotLogLine,
-  isSkillTimingsLogLine,
-} from "akasha/temper/combat-addon/combat-lib-log-lines/combat-lib-log-lines.module.code.ts"
-import {
   LOG_LEVEL_WARNING,
   log,
 } from "akasha/temper/combat-addon/modules/combat-core-log/combat-core-log.module.code.ts"
@@ -35,6 +29,12 @@ import {
   LIBCOMBAT_SKILLSTATUS_REGISTERED,
   LIBCOMBAT_SKILLSTATUS_SUCCESS,
 } from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
+import {
+  isMessagesLogLine,
+  isPerformanceLogLine,
+  isQuickslotLogLine,
+  isSkillTimingsLogLine,
+} from "akasha/temper/combat-addon/modules/combat-lib-log-lines/combat-lib-log-lines.module.code.ts"
 
 export function processLogSkillTimings(fight: CmxFight, logline: CoreLogLine): undefined {
   if (!isSkillTimingsLogLine(logline)) {

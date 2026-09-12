@@ -1,15 +1,3 @@
-import {
-  getCurrentSkillBars,
-  ID_TO_REDUCED_SLOT,
-} from "akasha/temper/combat-addon/combat-lib-skill-bars/combat-lib-skill-bars.module.code.ts"
-import {
-  DATA,
-  EVENT_GROUP_ACTIVE,
-  IS_PROJECTILE,
-  LAST_ABILITY_ACTIVATIONS,
-  LAST_QUEUED_ABILITIES,
-  USED_CAST_TIME_ABILITY,
-} from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
 import { getSlottedAbilityId } from "akasha/temper/combat-addon/combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"
 import {
   ABILITY_ADDITIONS_REVERSE,
@@ -35,6 +23,18 @@ import {
   LOG_LEVEL_VERBOSE,
   log,
 } from "akasha/temper/combat-addon/modules/combat-lib-log/combat-lib-log.module.code.ts"
+import {
+  getCurrentSkillBars,
+  ID_TO_REDUCED_SLOT,
+} from "akasha/temper/combat-addon/modules/combat-lib-skill-bars/combat-lib-skill-bars.module.code.ts"
+import {
+  DATA,
+  EVENT_GROUP_ACTIVE,
+  IS_PROJECTILE,
+  LAST_ABILITY_ACTIVATIONS,
+  LAST_QUEUED_ABILITIES,
+  USED_CAST_TIME_ABILITY,
+} from "akasha/temper/combat-addon/modules/combat-lib-state/combat-lib-state.module.code.ts"
 
 let heavyAttackCharging: number | undefined
 

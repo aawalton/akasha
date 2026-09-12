@@ -1,12 +1,3 @@
-import type {
-  CombatEventHandler,
-  DamageShieldEntry,
-} from "akasha/temper/combat-addon/combat-lib-message-types/combat-lib-message-types.module.code.ts"
-import {
-  DAMAGE_SHIELD_BUFFER,
-  DATA,
-  getCurrentFight,
-} from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
 import { checkUnit } from "akasha/temper/combat-addon/combat-lib-units/combat-lib-units.module.code.ts"
 import { fireCombatEvent } from "akasha/temper/combat-addon/modules/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
 import {
@@ -21,6 +12,15 @@ import {
   LOG_LEVEL_WARNING,
   log,
 } from "akasha/temper/combat-addon/modules/combat-lib-log/combat-lib-log.module.code.ts"
+import type {
+  CombatEventHandler,
+  DamageShieldEntry,
+} from "akasha/temper/combat-addon/modules/combat-lib-message-types/combat-lib-message-types.module.code.ts"
+import {
+  DAMAGE_SHIELD_BUFFER,
+  DATA,
+  getCurrentFight,
+} from "akasha/temper/combat-addon/modules/combat-lib-state/combat-lib-state.module.code.ts"
 
 const SPECIAL_RESULTS_INVERSE: Record<string, number | undefined> = {
   ACTION_RESULT_BLADETURN: ACTION_RESULT_BLADETURN,

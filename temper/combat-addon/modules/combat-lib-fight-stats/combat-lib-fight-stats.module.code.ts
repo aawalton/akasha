@@ -1,7 +1,3 @@
-import {
-  DATA,
-  EVENT_GROUP_ACTIVE,
-} from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
 import type {
   CPData,
   CPDisciplineData,
@@ -29,6 +25,10 @@ import {
   LOG_LEVEL_DEBUG,
   log,
 } from "akasha/temper/combat-addon/modules/combat-lib-log/combat-lib-log.module.code.ts"
+import {
+  DATA,
+  EVENT_GROUP_ACTIVE,
+} from "akasha/temper/combat-addon/modules/combat-lib-state/combat-lib-state.module.code.ts"
 
 export function getCritBonusFromCP(cpData: CPData): number {
   const greenDiscipline = cpData[1]

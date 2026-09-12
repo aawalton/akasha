@@ -1,4 +1,3 @@
-import { isLogLine } from "akasha/temper/combat-addon/combat-lib-log-lines/combat-lib-log-lines.module.code.ts"
 import { getDb } from "akasha/temper/combat-addon/combat-saved-variables/combat-saved-variables.module.code.ts"
 import type { TooltipCarrier } from "akasha/temper/combat-addon/combat-ui-helpers/combat-ui-helpers.module.code.ts"
 import type {
@@ -36,6 +35,7 @@ import {
   LIBCOMBAT_EVENT_RESOURCES,
   LIBCOMBAT_EVENT_SKILL_TIMINGS,
 } from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
+import { isLogLine } from "akasha/temper/combat-addon/modules/combat-lib-log-lines/combat-lib-log-lines.module.code.ts"
 
 export interface CLPageButtonRowControl extends Control {
   Update?: (this: void, buttonrow: Control, page: number, maxpage: number) => undefined

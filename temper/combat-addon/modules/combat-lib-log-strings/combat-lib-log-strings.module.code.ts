@@ -1,36 +1,3 @@
-import { isLogLine } from "akasha/temper/combat-addon/combat-lib-log-lines/combat-lib-log-lines.module.code.ts"
-import {
-  type CombatLogLine,
-  CRIT_FORMAT,
-  type FormattedLogLine,
-  formatBossHpLine,
-  formatDeathLine,
-  formatMessageLine,
-  formatPerformanceLine,
-  formatPlayerStatsLine,
-  formatSkillTimingsLine,
-  getAbilityString,
-  getUnitName,
-  type LogColor,
-  UNIT_TYPE_STRING,
-} from "akasha/temper/combat-addon/combat-lib-log-strings-format/combat-lib-log-strings-format.module.code.ts"
-import {
-  getLogFormatString,
-  STRING_CRITICAL,
-  STRING_FORMAT_ABSORBED,
-  STRING_FORMAT_HEALABSORB,
-  STRING_FORMAT_TARGET_BLOCK,
-  STRING_FORMAT_TARGET_NORMAL,
-  STRING_FORMAT_TARGETSELF_BLOCK,
-  STRING_FORMAT_TARGETSELF_NORMAL,
-  STRING_FORMAT_TARGETSELF_SELF,
-  STRING_GAINED,
-  STRING_LOST,
-  STRING_NOGAINED,
-  STRING_ULTIMATE,
-  STRING_YOU,
-} from "akasha/temper/combat-addon/combat-lib-log-strings-text/combat-lib-log-strings-text.module.code.ts"
-import { getCurrentFight } from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
 import type { Fight } from "akasha/temper/combat-addon/combat-lib-types/combat-lib-types.module.code.ts"
 import {
   LIBCOMBAT_EVENT_BOSSHP,
@@ -51,6 +18,39 @@ import {
   LIBCOMBAT_EVENT_RESOURCES,
   LIBCOMBAT_EVENT_SKILL_TIMINGS,
 } from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
+import { isLogLine } from "akasha/temper/combat-addon/modules/combat-lib-log-lines/combat-lib-log-lines.module.code.ts"
+import {
+  type CombatLogLine,
+  CRIT_FORMAT,
+  type FormattedLogLine,
+  formatBossHpLine,
+  formatDeathLine,
+  formatMessageLine,
+  formatPerformanceLine,
+  formatPlayerStatsLine,
+  formatSkillTimingsLine,
+  getAbilityString,
+  getUnitName,
+  type LogColor,
+  UNIT_TYPE_STRING,
+} from "akasha/temper/combat-addon/modules/combat-lib-log-strings-format/combat-lib-log-strings-format.module.code.ts"
+import {
+  getLogFormatString,
+  STRING_CRITICAL,
+  STRING_FORMAT_ABSORBED,
+  STRING_FORMAT_HEALABSORB,
+  STRING_FORMAT_TARGET_BLOCK,
+  STRING_FORMAT_TARGET_NORMAL,
+  STRING_FORMAT_TARGETSELF_BLOCK,
+  STRING_FORMAT_TARGETSELF_NORMAL,
+  STRING_FORMAT_TARGETSELF_SELF,
+  STRING_GAINED,
+  STRING_LOST,
+  STRING_NOGAINED,
+  STRING_ULTIMATE,
+  STRING_YOU,
+} from "akasha/temper/combat-addon/modules/combat-lib-log-strings-text/combat-lib-log-strings-text.module.code.ts"
+import { getCurrentFight } from "akasha/temper/combat-addon/modules/combat-lib-state/combat-lib-state.module.code.ts"
 
 export function getCombatLogString(
   fight: Fight | undefined,

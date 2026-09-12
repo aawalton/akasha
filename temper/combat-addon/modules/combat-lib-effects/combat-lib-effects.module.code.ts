@@ -1,12 +1,3 @@
-import type {
-  CombatEventHandler,
-  EffectChangedHandler,
-} from "akasha/temper/combat-addon/combat-lib-message-types/combat-lib-message-types.module.code.ts"
-import {
-  DATA,
-  getCurrentFight,
-} from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
-import { getNewStats } from "akasha/temper/combat-addon/combat-lib-stats/combat-lib-stats.module.code.ts"
 import {
   updateForceOfNatureData,
   updateZenData,
@@ -28,6 +19,15 @@ import {
   LOG_LEVEL_VERBOSE,
   log,
 } from "akasha/temper/combat-addon/modules/combat-lib-log/combat-lib-log.module.code.ts"
+import type {
+  CombatEventHandler,
+  EffectChangedHandler,
+} from "akasha/temper/combat-addon/modules/combat-lib-message-types/combat-lib-message-types.module.code.ts"
+import {
+  DATA,
+  getCurrentFight,
+} from "akasha/temper/combat-addon/modules/combat-lib-state/combat-lib-state.module.code.ts"
+import { getNewStats } from "akasha/temper/combat-addon/modules/combat-lib-stats/combat-lib-stats.module.code.ts"
 
 const GROUP_EFFECT_NONE = 0
 const GROUP_EFFECT_IN = 1

@@ -1,7 +1,3 @@
-import {
-  isDamageLogLine,
-  isHealLogLine,
-} from "akasha/temper/combat-addon/combat-lib-log-lines/combat-lib-log-lines.module.code.ts"
 import type {
   AbilityData,
   CmxFight,
@@ -33,6 +29,10 @@ import {
   LIBCOMBAT_EVENT_HEAL_IN,
   LIBCOMBAT_EVENT_HEAL_OUT,
 } from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
+import {
+  isDamageLogLine,
+  isHealLogLine,
+} from "akasha/temper/combat-addon/modules/combat-lib-log-lines/combat-lib-log-lines.module.code.ts"
 
 function incrementStatSum(
   fight: CmxFight,

@@ -1,4 +1,3 @@
-import { getCurrentFight } from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
 import type {
   DeathRecapLogLine,
   UnitCache,
@@ -15,6 +14,7 @@ import {
   LOG_LEVEL_DEBUG,
   log,
 } from "akasha/temper/combat-addon/modules/combat-lib-log/combat-lib-log.module.code.ts"
+import { getCurrentFight } from "akasha/temper/combat-addon/modules/combat-lib-state/combat-lib-state.module.code.ts"
 
 const COMBAT_EVENT_CACHE: Record<number, UnitCache> = {}
 

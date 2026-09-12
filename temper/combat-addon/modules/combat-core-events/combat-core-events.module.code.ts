@@ -1,4 +1,3 @@
-import { DATA as libCombatData } from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
 import type {
   Fight,
   FightRecapData,
@@ -47,6 +46,7 @@ import {
   LIBCOMBAT_EVENT_QUICKSLOT,
   LIBCOMBAT_EVENT_UNITS,
 } from "akasha/temper/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
+import { DATA as libCombatData } from "akasha/temper/combat-addon/modules/combat-lib-state/combat-lib-state.module.code.ts"
 
 let updateReportHook: ((this: void) => void) | undefined
 

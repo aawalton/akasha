@@ -1,8 +1,3 @@
-import {
-  DATA,
-  LAST_BOSS_HEALTH_VALUE,
-  setLastBossHealthValue,
-} from "akasha/temper/combat-addon/combat-lib-state/combat-lib-state.module.code.ts"
 import type { StatusEffectBonusData } from "akasha/temper/combat-addon/combat-lib-types/combat-lib-types.module.code.ts"
 import { fireCombatEvent } from "akasha/temper/combat-addon/modules/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"
 import {
@@ -18,6 +13,11 @@ import {
   LOG_LEVEL_WARNING,
   log,
 } from "akasha/temper/combat-addon/modules/combat-lib-log/combat-lib-log.module.code.ts"
+import {
+  DATA,
+  LAST_BOSS_HEALTH_VALUE,
+  setLastBossHealthValue,
+} from "akasha/temper/combat-addon/modules/combat-lib-state/combat-lib-state.module.code.ts"
 
 export function getSlottedAbilityId(
   actionSlotIndex: number,
