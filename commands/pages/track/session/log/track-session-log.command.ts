@@ -7,7 +7,7 @@ export const trackSessionLog = {
   definition: "the command writing a stretch that already began and ended",
   code: "ts",
   test: "ts",
-  taking: [{ said: "--end <time>", takes: "the wall time the stretch ended" }],
+  taking: [],
 
   invariants: [
     {
@@ -84,5 +84,6 @@ export const trackSessionLog = {
     { argument: "argument/relationship" },
     { argument: "argument/title" },
     { argument: "argument/stretch-start" },
+    { argument: "argument/stretch-end" },
   ],
 } as const satisfies Command
