@@ -10,7 +10,7 @@ export const measurePersona = {
   changeKind: "change-mechanical",
   helpNotes: [
     "the total is the one kept beside the persona's own page rather than added up again here.",
-    "`akasha refresh personas` rebuilds a total that has fallen behind the days.",
+    "`akasha refresh persona` rebuilds a total that has fallen behind the days.",
     "a hundred messages Alan wrote is one point, and a rung costs three times what the rung before it cost.",
     "a level is a whole number, and a total is floored to two decimal places.",
     "a persona carrying no total is counted beneath the lines rather than drawn at level 0.",

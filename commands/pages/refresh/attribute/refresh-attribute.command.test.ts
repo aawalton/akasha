@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   saidOf,
   slugsIn,
-} from "akasha/commands/pages/refresh/attributes/refresh-attributes.command.code.ts"
+} from "akasha/commands/pages/refresh/attribute/refresh-attribute.command.code.ts"
 
 const AT = "alan/attributes/readouts"
 

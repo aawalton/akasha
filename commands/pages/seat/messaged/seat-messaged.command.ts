@@ -13,7 +13,7 @@ export const seatMessaged = {
     "the moment kept is the moment of the run rather than a moment the caller states.",
     "the values are kept beside the persona's page and the day's page rather than in the commit.",
     "a seat holding no persona is refused rather than kept against nobody.",
-    "a hundred messages is one point, and `akasha refresh personas` rebuilds the days before today.",
+    "a hundred messages is one point, and `akasha refresh persona` rebuilds the days before today.",
   ],
   invariants: [
     {

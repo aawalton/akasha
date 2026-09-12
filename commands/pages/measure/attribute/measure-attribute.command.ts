@@ -10,7 +10,7 @@ export const measureAttribute = {
   changeKind: "change-mechanical",
   helpNotes: [
     "the total is the one kept beside the attribute's own page rather than added up again here.",
-    "`akasha refresh attributes` rebuilds a total that has fallen behind the days.",
+    "`akasha refresh attribute` rebuilds a total that has fallen behind the days.",
     "a level is the highest rung a total has reached, each climb costing 10, 10, 20, 30, 50, 80 points and on up the Fibonacci numbers.",
     "a level is a whole number, and a total is floored to two decimal places, so a total short of a hundredth reads `0.00`.",
     "an attribute carrying no total is named beneath the lines rather than drawn at level 0.",
