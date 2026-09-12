@@ -3,7 +3,7 @@
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
-import { MentionChip } from "akasha/pages/ui/markdown/mention-chip/mention-chip.module.code.tsx"
+import { MentionChip } from "akasha/pages/ui/markdown/modules/mention-chip/mention-chip.module.code.tsx"
 import type { MentionResolver } from "akasha/pages/ui/markdown/remark-mentions/remark-mentions.module.code.ts"
 import { remarkMentions } from "akasha/pages/ui/markdown/remark-mentions/remark-mentions.module.code.ts"
 import { remarkSectionize } from "akasha/pages/ui/markdown/remark-sectionize/remark-sectionize.module.code.ts"

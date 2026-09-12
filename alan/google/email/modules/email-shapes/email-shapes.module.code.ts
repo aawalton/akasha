@@ -1,4 +1,4 @@
-import type { MimeAttachment } from "akasha/alan/google/email/mime-message/mime-message.module.code.ts"
+import type { MimeAttachment } from "akasha/alan/google/email/modules/mime-message/mime-message.module.code.ts"
 
 export interface ListMessagesQuery {
   readonly query?: string

@@ -1,11 +1,3 @@
-import {
-  checkBoxFactory,
-  dividerFactory,
-  headerFactory,
-  menuItemFactory,
-  resetCheckBox,
-  resetMenuItem,
-} from "akasha/temper/lib-custom-menu/menu-row-factories/menu-row-factories.module.code.ts"
 import { asMenuRegistry } from "akasha/temper/lib-custom-menu/modules/custom-menu-casts/custom-menu-casts.module.code.ts"
 import {
   CATEGORY_EARLY,
@@ -20,6 +12,14 @@ import {
 } from "akasha/temper/lib-custom-menu/modules/custom-menu-constants/custom-menu-constants.module.code.ts"
 import type { Lib } from "akasha/temper/lib-custom-menu/modules/custom-menu-types/custom-menu-types.module.code.ts"
 import { menu } from "akasha/temper/lib-custom-menu/modules/eso-menu/eso-menu.module.code.ts"
+import {
+  checkBoxFactory,
+  dividerFactory,
+  headerFactory,
+  menuItemFactory,
+  resetCheckBox,
+  resetMenuItem,
+} from "akasha/temper/lib-custom-menu/modules/menu-row-factories/menu-row-factories.module.code.ts"
 import { subMenuItemFactory } from "akasha/temper/lib-custom-menu/submenu-item/submenu-item.module.code.ts"
 
 function addMenuItem(

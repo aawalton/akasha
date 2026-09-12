@@ -6,7 +6,7 @@ import {
   type MinedExtractDiagnostics,
   readMinedAccountWide,
   TEMPER_DATA_MINING_SIBLINGS,
-} from "akasha/temper/capture-datamining-reader/mined-data-parse/mined-data-parse.module.code.ts"
+} from "akasha/temper/capture-datamining-reader/modules/mined-data-parse/mined-data-parse.module.code.ts"
 import {
   detectIndent,
   replaceOrInsertLuaBlock,

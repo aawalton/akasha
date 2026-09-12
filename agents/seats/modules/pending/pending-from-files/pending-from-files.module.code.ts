@@ -1,7 +1,7 @@
 import {
   everyRecipient,
   messagesTo,
-} from "akasha/agents/messaging/message-file/message-file.module.code.ts"
+} from "akasha/agents/messaging/modules/message-file/message-file.module.code.ts"
 import { seatsPresent } from "akasha/agents/seats/modules/roster/seat-roster.module.code.ts"
 import type { TurnPendingComponent } from "akasha/agents/seats/modules/turn-pending/seat-turn-pending.module.code.ts"
 import {

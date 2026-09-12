@@ -2,7 +2,6 @@
 
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
 import { groupByCount } from "akasha/temper/build-support/row-grouping/row-grouping.module.code.ts"
-import { mergeItemData } from "akasha/temper/characters-equipment/merge-item-data/merge-item-data.module.code.ts"
 import {
   bulkUpdateJewelryEnchant,
   bulkUpdateJewelryQuality,
@@ -13,6 +12,7 @@ import {
   type JewelryEnchantId,
   jewelryEnchants,
 } from "akasha/temper/characters-equipment/modules/jewelry-enchants/jewelry-enchants.module.code.ts"
+import { mergeItemData } from "akasha/temper/characters-equipment/modules/merge-item-data/merge-item-data.module.code.ts"
 import { getMythicSlots } from "akasha/temper/characters-equipment/mythic-set-rules/mythic-set-rules.module.code.ts"
 import {
   AVAILABLE_QUALITY_OPTIONS,

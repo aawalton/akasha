@@ -1,4 +1,4 @@
-import { writeMessage } from "akasha/agents/messaging/message-file/message-file.module.code.ts"
+import { writeMessage } from "akasha/agents/messaging/modules/message-file/message-file.module.code.ts"
 import { sweepOrphanedResources } from "akasha/infrastructure/cluster/manifests/orphan-resource-audit/orphan-resource-audit.module.code.ts"
 import {
   decideSweepSignal,

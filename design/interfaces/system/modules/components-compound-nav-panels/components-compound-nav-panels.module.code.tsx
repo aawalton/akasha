@@ -11,6 +11,9 @@ import {
 } from "akasha/design/interfaces/forms/modules/form/form.module.code.tsx"
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
 import { SidebarNavGroup } from "akasha/design/interfaces/layout/sidebar-nav-group/sidebar-nav-group.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
+import { Input } from "akasha/design/interfaces/primitives/modules/input/input.module.code.tsx"
 import {
   Menubar,
   MenubarCheckboxItem,
@@ -25,10 +28,7 @@ import {
   MenubarSubContent,
   MenubarSubTrigger,
   MenubarTrigger,
-} from "akasha/design/interfaces/primitives/menubar/menubar.module.code.tsx"
-import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
-import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
-import { Input } from "akasha/design/interfaces/primitives/modules/input/input.module.code.tsx"
+} from "akasha/design/interfaces/primitives/modules/menubar/menubar.module.code.tsx"
 import { Toaster } from "akasha/design/interfaces/primitives/sonner/sonner.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useState } from "react"

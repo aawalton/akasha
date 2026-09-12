@@ -1,3 +1,7 @@
+import type {
+  AnyAsyncTask,
+  LooseTable,
+} from "akasha/temper/navigation-addon/minimap-view-types/minimap-view-types.module.code.ts"
 import {
   asAnyArray,
   asAnyAsyncTask,
@@ -7,25 +11,21 @@ import {
   asMiniMapPanAndZoom,
   asMiniMapScene,
   asNumber,
-} from "akasha/temper/navigation-addon/minimap-casts/minimap-casts.module.code.ts"
+} from "akasha/temper/navigation-addon/modules/minimap-casts/minimap-casts.module.code.ts"
 import {
   holder,
   type VotansMiniMap,
-} from "akasha/temper/navigation-addon/minimap-holder/minimap-holder.module.code.ts"
-import { MINIMAP_MAP_MODE } from "akasha/temper/navigation-addon/minimap-names/minimap-names.module.code.ts"
+} from "akasha/temper/navigation-addon/modules/minimap-holder/minimap-holder.module.code.ts"
+import { MINIMAP_MAP_MODE } from "akasha/temper/navigation-addon/modules/minimap-names/minimap-names.module.code.ts"
 import {
   createAsyncTask,
   getScene,
   noGamepad,
-} from "akasha/temper/navigation-addon/minimap-shared/minimap-shared.module.code.ts"
+} from "akasha/temper/navigation-addon/modules/minimap-shared/minimap-shared.module.code.ts"
 import {
   newUpdateSize,
   STATE,
-} from "akasha/temper/navigation-addon/minimap-state/minimap-state.module.code.ts"
-import type {
-  AnyAsyncTask,
-  LooseTable,
-} from "akasha/temper/navigation-addon/minimap-view-types/minimap-view-types.module.code.ts"
+} from "akasha/temper/navigation-addon/modules/minimap-state/minimap-state.module.code.ts"
 
 const em = EVENT_MANAGER
 

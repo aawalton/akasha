@@ -1,7 +1,3 @@
-import {
-  getValueOrCallback,
-  noop,
-} from "akasha/temper/lib-custom-menu/menu-row-setup/menu-row-setup.module.code.ts"
 import type { GlobalTable } from "akasha/temper/lib-custom-menu/modules/custom-menu-casts/custom-menu-casts.module.code.ts"
 import {
   asVoidSelfFn,
@@ -21,6 +17,10 @@ import type {
   Valued,
 } from "akasha/temper/lib-custom-menu/modules/custom-menu-types/custom-menu-types.module.code.ts"
 import { menu } from "akasha/temper/lib-custom-menu/modules/eso-menu/eso-menu.module.code.ts"
+import {
+  getValueOrCallback,
+  noop,
+} from "akasha/temper/lib-custom-menu/modules/menu-row-setup/menu-row-setup.module.code.ts"
 
 function addCustomMenuItem(
   this: void,

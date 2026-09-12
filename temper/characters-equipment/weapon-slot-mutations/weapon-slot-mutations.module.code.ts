@@ -1,4 +1,3 @@
-import { mergeItemData } from "akasha/temper/characters-equipment/merge-item-data/merge-item-data.module.code.ts"
 import type {
   ShieldItem,
   WeaponItem,
@@ -8,6 +7,7 @@ import type {
   WeaponSlotItem,
   WeaponSlotUpdateParams,
 } from "akasha/temper/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
+import { mergeItemData } from "akasha/temper/characters-equipment/modules/merge-item-data/merge-item-data.module.code.ts"
 import {
   isShieldSlot,
   isWeaponSlot,

@@ -1,4 +1,3 @@
-import type { MetricId } from "akasha/temper/formula-framework/metric-id/metric-id.module.code.ts"
 import type {
   AddNode,
   ConstantNode,
@@ -8,6 +7,7 @@ import type {
   MinNode,
   MultiplyNode,
 } from "akasha/temper/formula-framework/modules/arithmetic-node/arithmetic-node.module.code.ts"
+import type { MetricId } from "akasha/temper/formula-framework/modules/metric-id/metric-id.module.code.ts"
 import type { SourceCategoryId } from "akasha/temper/formula-framework/source-category/source-category.module.code.ts"
 
 type MetricEffectType =

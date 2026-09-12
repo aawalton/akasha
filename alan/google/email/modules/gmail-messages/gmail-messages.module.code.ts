@@ -1,7 +1,3 @@
-import {
-  buildMimeMessage,
-  toBase64Url,
-} from "akasha/alan/google/email/mime-message/mime-message.module.code.ts"
 import type {
   ComposeInput,
   EmailLabelMutationResult,
@@ -22,6 +18,10 @@ import {
   normalizeMessageSummary,
   type ParsedFullMessage,
 } from "akasha/alan/google/email/modules/gmail-schema/gmail-schema.module.code.ts"
+import {
+  buildMimeMessage,
+  toBase64Url,
+} from "akasha/alan/google/email/modules/mime-message/mime-message.module.code.ts"
 import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 
 const SUMMARY_HEADERS = ["From", "To", "Subject", "Date"]

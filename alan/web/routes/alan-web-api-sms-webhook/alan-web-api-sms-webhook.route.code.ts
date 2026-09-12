@@ -1,4 +1,4 @@
-import { messageNamed } from "akasha/agents/messaging/message-naming/message-naming.module.code.ts"
+import { messageNamed } from "akasha/agents/messaging/modules/message-naming/message-naming.module.code.ts"
 import {
   type DeliverEffect,
   handleInboundSms,

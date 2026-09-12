@@ -1,5 +1,5 @@
-import { asMiniMapPanAndZoom } from "akasha/temper/navigation-addon/minimap-casts/minimap-casts.module.code.ts"
-import { panZoom } from "akasha/temper/navigation-addon/minimap-shared/minimap-shared.module.code.ts"
+import { asMiniMapPanAndZoom } from "akasha/temper/navigation-addon/modules/minimap-casts/minimap-casts.module.code.ts"
+import { panZoom } from "akasha/temper/navigation-addon/modules/minimap-shared/minimap-shared.module.code.ts"
 
 export function zoomDone(this: void): boolean {
   const pz = panZoom()

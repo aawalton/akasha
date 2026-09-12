@@ -1,7 +1,7 @@
 import {
   getMetricDisplayName,
   metrics,
-} from "akasha/temper/characters-stats/metrics/metrics.module.code.ts"
+} from "akasha/temper/characters-stats/modules/metrics/metrics.module.code.ts"
 import { buffOrDebuff } from "akasha/temper/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
 import {
   type BuffOrDebuffEffect,

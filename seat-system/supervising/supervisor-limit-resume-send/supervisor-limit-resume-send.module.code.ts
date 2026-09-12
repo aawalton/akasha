@@ -1,7 +1,7 @@
 import {
   unclaimedTo,
   writeMessage,
-} from "akasha/agents/messaging/message-file/message-file.module.code.ts"
+} from "akasha/agents/messaging/modules/message-file/message-file.module.code.ts"
 import { composedNameOf } from "akasha/agents/seats/modules/rename/seat-rename.module.code.ts"
 
 const SENDER = "supervisor"

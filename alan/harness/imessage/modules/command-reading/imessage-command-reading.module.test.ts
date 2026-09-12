@@ -1,5 +1,4 @@
 import { describe, expect, test } from "bun:test"
-import { message } from "akasha/alan/harness/imessage/message-lines/message-lines.module.test-fixtures.ts"
 import {
   countOf,
   JSON_SAID,
@@ -8,6 +7,7 @@ import {
   namingIn,
   wordsIn,
 } from "akasha/alan/harness/imessage/modules/command-reading/imessage-command-reading.module.code.ts"
+import { message } from "akasha/alan/harness/imessage/modules/message-lines/message-lines.module.test-fixtures.ts"
 
 const VALUED = [LIMIT_SAID, "--contact"]
 

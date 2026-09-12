@@ -1,9 +1,3 @@
-import {
-  formatLocalMinute,
-  messageLabel,
-  type NameFor,
-  singleLine,
-} from "akasha/alan/harness/imessage/message-lines/message-lines.module.code.ts"
 import type { ImessageMessage } from "akasha/alan/harness/imessage/modules/chat-db/chat-db.module.code.ts"
 import { buildUnreadListSql } from "akasha/alan/harness/imessage/modules/chat-db/chat-db.module.code.ts"
 import {
@@ -11,6 +5,12 @@ import {
   namingIn,
   oldestFirst,
 } from "akasha/alan/harness/imessage/modules/command-reading/imessage-command-reading.module.code.ts"
+import {
+  formatLocalMinute,
+  messageLabel,
+  type NameFor,
+  singleLine,
+} from "akasha/alan/harness/imessage/modules/message-lines/message-lines.module.code.ts"
 import {
   fetchContacts,
   fetchMessages,

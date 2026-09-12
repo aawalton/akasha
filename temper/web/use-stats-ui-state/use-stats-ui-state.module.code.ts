@@ -1,4 +1,4 @@
-import type { MetricValue } from "akasha/temper/characters-stats/metric-value/metric-value.module.code.ts"
+import type { MetricValue } from "akasha/temper/characters-stats/modules/metric-value/metric-value.module.code.ts"
 import type { BuffOrDebuffSource } from "akasha/temper/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
 import { useState } from "react"
 

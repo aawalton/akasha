@@ -1,16 +1,4 @@
 import {
-  asAnyTable,
-  asAnyTableMember,
-  asMiniMapPinManager,
-  asNumber,
-} from "akasha/temper/navigation-addon/minimap-casts/minimap-casts.module.code.ts"
-import type { VotansMiniMap } from "akasha/temper/navigation-addon/minimap-holder/minimap-holder.module.code.ts"
-import {
-  createAsyncTask,
-  getScene,
-  pins,
-} from "akasha/temper/navigation-addon/minimap-shared/minimap-shared.module.code.ts"
-import {
   type WayshrineCell,
   zoomDone,
 } from "akasha/temper/navigation-addon/minimap-tweaks-shared/minimap-tweaks-shared.module.code.ts"
@@ -18,6 +6,18 @@ import type {
   AnyAsyncTask,
   LooseTable,
 } from "akasha/temper/navigation-addon/minimap-view-types/minimap-view-types.module.code.ts"
+import {
+  asAnyTable,
+  asAnyTableMember,
+  asMiniMapPinManager,
+  asNumber,
+} from "akasha/temper/navigation-addon/modules/minimap-casts/minimap-casts.module.code.ts"
+import type { VotansMiniMap } from "akasha/temper/navigation-addon/modules/minimap-holder/minimap-holder.module.code.ts"
+import {
+  createAsyncTask,
+  getScene,
+  pins,
+} from "akasha/temper/navigation-addon/modules/minimap-shared/minimap-shared.module.code.ts"
 
 export function installRefreshAllPOIs(this: void): undefined {
   const task = createAsyncTask("VOTAN_RefreshAllPOIs")

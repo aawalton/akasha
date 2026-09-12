@@ -1,9 +1,9 @@
+import type { LooseTable } from "akasha/temper/navigation-addon/minimap-view-types/minimap-view-types.module.code.ts"
 import {
   asAnyTable,
   asAnyTableMember,
   asDimsGetter,
-} from "akasha/temper/navigation-addon/minimap-casts/minimap-casts.module.code.ts"
-import type { LooseTable } from "akasha/temper/navigation-addon/minimap-view-types/minimap-view-types.module.code.ts"
+} from "akasha/temper/navigation-addon/modules/minimap-casts/minimap-casts.module.code.ts"
 
 function roundGet(this: void, control: LooseTable, funcName: string): undefined {
   const org = asDimsGetter(control[funcName])

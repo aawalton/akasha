@@ -3,12 +3,12 @@ import {
   type CategoryNode,
   isMetricNode,
   isSubcategoryNode,
-} from "akasha/temper/characters-stats/metric-tree-types/metric-tree-types.module.code.ts"
-import type { MetricValue } from "akasha/temper/characters-stats/metric-value/metric-value.module.code.ts"
+} from "akasha/temper/characters-stats/modules/metric-tree-types/metric-tree-types.module.code.ts"
+import type { MetricValue } from "akasha/temper/characters-stats/modules/metric-value/metric-value.module.code.ts"
 import {
   hasVisibleMetricRows,
   MetricTreeRenderer,
-} from "akasha/temper/web/metric-tree-renderer/metric-tree-renderer.module.code.tsx"
+} from "akasha/temper/web/modules/metric-tree-renderer/metric-tree-renderer.module.code.tsx"
 import { StatSubcategoryPanelCard } from "akasha/temper/web/stat-subcategory-panel-card/stat-subcategory-panel-card.module.code.tsx"
 import type { StatsRecord } from "akasha/temper/web/stats-types/stats-types.module.code.ts"
 

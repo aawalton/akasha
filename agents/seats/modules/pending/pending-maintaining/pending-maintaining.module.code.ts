@@ -1,6 +1,6 @@
 import { watch } from "node:fs"
 import { dirname, join } from "node:path"
-import { messagesDirRelPath } from "akasha/agents/messaging/message-file/message-file.module.code.ts"
+import { messagesDirRelPath } from "akasha/agents/messaging/modules/message-file/message-file.module.code.ts"
 import { akashaSeatsDirIn } from "akasha/agents/seats/modules/page-akasha/seat-page-akasha.module.code.ts"
 import {
   pendingFromFiles,

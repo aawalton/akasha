@@ -3,7 +3,7 @@ import "akasha/temper/navigation-addon/navigation-global/navigation-global.modul
 import "akasha/temper/navigation-addon/modules/compass-pins-start/compass-pins-start.module.code.ts"
 import "akasha/temper/navigation-addon/modules/map-pins-start/map-pins-start.module.code.ts"
 import "akasha/temper/navigation-addon/modules/destinations-start/destinations-start.module.code.ts"
-import "akasha/temper/navigation-addon/minimap-start/minimap-start.module.code.ts"
+import "akasha/temper/navigation-addon/modules/minimap-start/minimap-start.module.code.ts"
 
 import { registerAddonInit } from "akasha/temper/addon-init/modules/addon-init/addon-init.module.code.ts"
 import { onAddOnLoaded } from "akasha/temper/navigation-addon/navigation-loaded/navigation-loaded.module.code.ts"

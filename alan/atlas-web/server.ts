@@ -3,7 +3,7 @@ import {
   formatWatermark,
   observeRss,
   RSS_SAMPLE_INTERVAL_MS,
-} from "akasha/alan/atlas-web/memory-watch/memory-watch.module.code.ts"
+} from "akasha/alan/atlas-web/modules/memory-watch/memory-watch.module.code.ts"
 import {
   formatArrival,
   formatCompletion,
