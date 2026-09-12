@@ -21,5 +21,8 @@ export const strengthExerciseSelectionConstraint = {
   properties: [
     { pageProperty: "calendar-date-property/tested-again-on", required: true, many: false },
   ],
-  parts: ["calendar-date-property/tested-again-on"],
+  parts: [
+    "calendar-date-property/tested-again-on",
+    "strength-exercise-selection-constraint/bilateral-hinge",
+  ],
 } as const satisfies PageType
