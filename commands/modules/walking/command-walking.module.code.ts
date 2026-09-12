@@ -10,6 +10,8 @@ export type Reached = {
   readonly found: readonly { readonly path: string }[]
 }
 
+export type Naming = (path: string, slug: string) => string | null
+
 export function wordsIn(argv: readonly string[]): readonly string[] {
   const words: string[] = []
   for (const one of argv) {
@@ -30,7 +32,8 @@ function below(named: string, word: string): string {
 export function walkingIn(
   root: string,
   type: string | null,
-  argv: readonly string[]
+  argv: readonly string[],
+  namedAt: Naming
 ): Reached | null {
   if (type === null) return null
   let named = ""
@@ -40,7 +43,11 @@ export function walkingIn(
     named = below(named, word)
     held = held + 1
     const found = listedAt(root, type, named)
-    if (found.length > 0) reached = { named, held, found }
+    const one = found[0]
+    if (found.length === 0 || one === undefined) continue
+    const said = namedAt(one.path, named)
+    if (said !== null && said !== word) return reached
+    reached = { named, held, found }
   }
   return reached
 }

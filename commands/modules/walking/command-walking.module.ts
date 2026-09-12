@@ -14,7 +14,19 @@ export const commandWalking = {
     },
     {
       invariantKind: "departure",
-      statement: "A level's name is the words taken down to that level joined with a hyphen.",
+      statement: "A word reaches a level only where that level states that word as its name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A word other than the name of the level it reaches ends the walk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a level states as its name is handed in rather than read here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A level stating no name is reached by the words taken joined with a hyphen.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +51,7 @@ export const commandWalking = {
     },
     {
       invariantKind: "departure",
-      statement: "A level reached in one word keeps the hyphen that word has.",
+      statement: "A level whose own name has a hyphen is reached in one word carrying that hyphen.",
     },
     {
       invariantKind: "departure",

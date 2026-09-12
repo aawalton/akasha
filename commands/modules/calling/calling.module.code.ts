@@ -22,6 +22,7 @@ import {
   watching,
 } from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
 import {
+  type Naming,
   type Reached,
   saidIn,
   walkingIn,
@@ -301,8 +302,16 @@ function helping(root: string, outside: Outside): Answer {
   return { report, refusals: [], code: 0 }
 }
 
+function levelNamed(root: string): Naming {
+  return (path, slug) => {
+    const page = pageIn(root, path, slug)
+    const said = page === null ? null : page[NAME]
+    return typeof said === "string" ? said : null
+  }
+}
+
 function walkedIn(root: string, argv: readonly string[]): Reached | null {
-  return walkingIn(root, commandSlugIn(root), argv)
+  return walkingIn(root, commandSlugIn(root), argv, levelNamed(root))
 }
 
 export function namespaceSlugIn(root: string): string | null {
@@ -382,7 +391,7 @@ export async function calling(argv: readonly string[], outside: Outside): Promis
   const reached = walkedIn(root, argv)
   const first = reached === null ? undefined : reached.found[0]
   if (reached === null || first === undefined) {
-    const under = walkingIn(root, namespaceSlugIn(root), argv)
+    const under = walkingIn(root, namespaceSlugIn(root), argv, levelNamed(root))
     const listing =
       under === null ? null : namespaceSaid(root, under, saidIn(argv, under.held), outside.calledAs)
     if (listing !== null) return { report: listing, refusals: [], code: 0 }
