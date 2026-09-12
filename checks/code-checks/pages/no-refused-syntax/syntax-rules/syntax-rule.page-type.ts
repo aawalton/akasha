@@ -48,6 +48,7 @@ export const syntaxRule = {
     "syntax-rule/no-command-spelling-its-own-call",
     "syntax-rule/no-hyphenated-call",
     "syntax-rule/command-export-named-for-its-slug",
+    "syntax-rule/no-call-built-as-it-runs",
   ],
   extends: ["page-type/module"],
   loadedBy: "code-check/no-refused-syntax",

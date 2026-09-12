@@ -32,7 +32,7 @@ export function spellingOf(called: string): RegExp {
   return new RegExp(`(?<![\\w-])akasha${BETWEEN}${words}(?![\\w-])`)
 }
 
-function directivesIn(node: ts.Node): boolean {
+export function directivesIn(node: ts.Node): boolean {
   if (!ts.isPropertyAssignment(node)) return false
   return ts.isIdentifier(node.name) && node.name.text === DIRECTIVES
 }
