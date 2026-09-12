@@ -6,10 +6,7 @@ export const emailMessageArchive = {
   slug: "email-message-archive",
   definition: "the command taking the INBOX label off one Gmail message",
   code: "ts",
-  taking: [
-    { said: "<id>", takes: "the message acted on, said as the id Gmail gives it" },
-    { said: "--message <id>", takes: "the message acted on, where no id follows the command" },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -29,4 +26,5 @@ export const emailMessageArchive = {
     },
   ],
   name: "archive",
+  arguments: [{ argument: "argument/message", required: true, saidAs: "flag-or-word" }],
 } as const satisfies Command

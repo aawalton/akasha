@@ -6,10 +6,7 @@ export const emailAttachmentList = {
   slug: "email-attachment-list",
   definition: "the command naming the filename, type, size and id of a message's attachments",
   code: "ts",
-  taking: [
-    { said: "<id>", takes: "the message acted on, said as the id Gmail gives it" },
-    { said: "--message <id>", takes: "the message acted on, where no id follows the command" },
-  ],
+  taking: [],
 
   invariants: [
     {
@@ -26,4 +23,5 @@ export const emailAttachmentList = {
     },
   ],
   name: "list",
+  arguments: [{ argument: "argument/message", required: true, saidAs: "flag-or-word" }],
 } as const satisfies Command

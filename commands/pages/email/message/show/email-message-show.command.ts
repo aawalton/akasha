@@ -6,10 +6,7 @@ export const emailMessageShow = {
   slug: "email-message-show",
   definition: "the command fetching one Gmail message whole, its plain-text body decoded",
   code: "ts",
-  taking: [
-    { said: "<id>", takes: "the message acted on, said as the id Gmail gives it" },
-    { said: "--message <id>", takes: "the message acted on, where no id follows the command" },
-  ],
+  taking: [],
 
   invariants: [
     {
@@ -26,4 +23,5 @@ export const emailMessageShow = {
     },
   ],
   name: "show",
+  arguments: [{ argument: "argument/message", required: true, saidAs: "flag-or-word" }],
 } as const satisfies Command

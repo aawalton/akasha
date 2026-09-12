@@ -7,8 +7,6 @@ export const emailAttachmentShow = {
   definition: "the command fetching one attachment's bytes by id, with its size beside them",
   code: "ts",
   taking: [
-    { said: "<id>", takes: "the message the attachment hangs off, said as Gmail's own id" },
-    { said: "--message <id>", takes: "that message, where no id follows the command" },
     {
       said: "--attachment-id <id>",
       takes: "which attachment to fetch, said as `email attachment list` names it",
@@ -30,4 +28,5 @@ export const emailAttachmentShow = {
     },
   ],
   name: "show",
+  arguments: [{ argument: "argument/message", required: true, saidAs: "flag-or-word" }],
 } as const satisfies Command
