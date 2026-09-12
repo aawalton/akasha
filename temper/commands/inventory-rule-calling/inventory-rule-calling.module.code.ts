@@ -1,3 +1,9 @@
+import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import {
+  type Commanding,
+  type TakenFor,
+  takenFor,
+} from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import {
   answering,
   DATA,
@@ -358,4 +364,17 @@ export async function answeredCall(
   const read = readIn(argv, calledAs, shape)
   if ("refused" in read) return refusedAll(read.refused)
   return await answering(() => act(read.said, read.id ?? ""))
+}
+
+export async function answeredWith<Page extends Commanding, Pages extends readonly Argument[]>(
+  argv: readonly string[],
+  calledAs: string,
+  page: Page,
+  pages: Pages,
+  act: (taken: TakenFor<Page, Pages[number]>) => Promise<Answer>
+): Promise<Answer> {
+  const read = takenFor(argv, calledAs, page, pages)
+  if ("refused" in read) return refusedAll(read.refused)
+  const taken = read.taken
+  return await answering(() => act(taken))
 }
