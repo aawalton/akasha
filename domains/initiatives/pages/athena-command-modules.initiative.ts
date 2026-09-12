@@ -80,6 +80,11 @@ export const athenaCommandModules = {
       workingMemory:
         "`unknownIn` at `flags/command-flags.module.code.ts:35-52` refuses with `is no flag this takes` alone, though it is handed `valued` and `bare`, which `command-flags.module.ts:34` says is deliberate. Its callers are `change-running.module.code.ts:364` and `file-arguing.module.code.ts:218`, so one bare line covers every change command. `callOf` at `domains/context/modules/warranting/warranting.module.code.ts:114-117` is the proven shape. A refusal over the data or the machine names no such call.\n",
     },
+    {
+      statement: "A refusal that is the caller's mistake quotes the part of the call it refused.",
+      workingMemory:
+        "`refusalIn` at `block-combined-akasha-calls.agent-hook.code.ts:158-161` answers one static body from `:30` whatever the command was, so a pipe, a loop, a redirect, a substitution, an `&&` and a semicolon all meet the same wall and none is named. The auditor read it after a semicolon and reached the wrong conclusion about which part was barred. `block-akasha-reads.agent-hook.code.ts:47,51` is the shape: it fills the path in and spells the call to run instead.\n",
+    },
   ],
   constraints: [
     "A module moved out of the command system is imported by name, so every importer moves with it.",
