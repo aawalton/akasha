@@ -21,7 +21,7 @@ import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 
 const LATEST = "--latest"
 
-const OUT = "--out"
+const OUTPUT = "--output"
 
 const JSON_FLAG = "--json"
 
@@ -41,7 +41,7 @@ export type Read =
   | {
       readonly named: string | null
       readonly latest: boolean
-      readonly outPath: string | null
+      readonly outputPath: string | null
       readonly json: boolean
     }
   | { readonly refused: readonly string[] }
@@ -50,7 +50,7 @@ export function readIn(argv: readonly string[]): Read {
   const refusals: string[] = []
   let named: string | null = null
   let latest = false
-  let outPath: string | null = null
+  let outputPath: string | null = null
   let json = false
   for (let at = 0; at < argv.length; at += 1) {
     const one = argv[at]
@@ -63,19 +63,19 @@ export function readIn(argv: readonly string[]): Read {
       json = true
       continue
     }
-    if (one === OUT) {
+    if (one === OUTPUT) {
       const value = argv[at + 1]
       at += 1
       if (value === undefined) {
-        refusals.push(`\`${OUT}\` names the file written to, and no file followed it`)
+        refusals.push(`\`${OUTPUT}\` names the file written to, and no file followed it`)
         continue
       }
-      outPath = value
+      outputPath = value
       continue
     }
     if (one.startsWith("--")) {
       refusals.push(
-        `\`${one}\` is no flag this takes — it takes \`${LATEST}\`, \`${OUT}\` and \`${JSON_FLAG}\``
+        `\`${one}\` is no flag this takes — it takes \`${LATEST}\`, \`${OUTPUT}\` and \`${JSON_FLAG}\``
       )
       continue
     }
@@ -94,7 +94,7 @@ export function readIn(argv: readonly string[]): Read {
     refusals.push(`name the snapshot read, or say \`${LATEST}\` for the newest one`)
   }
   if (refusals.length > 0) return { refused: refusals }
-  return { named, latest, outPath, json }
+  return { named, latest, outputPath, json }
 }
 
 function pageNamed(root: string, said: string): Page | null {
@@ -163,9 +163,9 @@ export async function temperInventorySnapshot(
   }
 
   const said = read.json ? JSON.stringify(db) : JSON.stringify(db, null, SPACES)
-  if (read.outPath === null) return { report: said.split("\n"), refusals: [], code: OK }
+  if (read.outputPath === null) return { report: said.split("\n"), refusals: [], code: OK }
 
-  const at = resolve(root, read.outPath)
+  const at = resolve(root, read.outputPath)
   try {
     await writeFile(at, `${said}\n`, "utf8")
   } catch (thrown) {
