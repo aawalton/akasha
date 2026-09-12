@@ -61,6 +61,18 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
+      statement: "The folder a page type's pages sit in is answered here from that type alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller naming a page type that is no page is refused rather than guessed at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type stating no plural is refused, because its pages have no folder.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A folder named by the plural with that opening taken off is named by it.",
     },
     {

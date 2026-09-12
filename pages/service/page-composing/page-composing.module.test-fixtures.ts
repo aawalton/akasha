@@ -36,6 +36,34 @@ export const HELD_CRATE_ID = seed("22")
 
 export const DEVICE_TOKENS_AT = "akasha/person-system/device-tokens/device-token.page-type.ts"
 
+export const HELD_THING = "held-thing"
+
+export const HELD_FIGURE = "held-figure"
+
+export const A_PORTRAIT_AT = "akasha/figures/pages/held-figure/held-figure.figure.portrait.md"
+
+export const AT_THE_LENGTH: string = `held-${"a".repeat(95)}`
+
+export const PAST_THE_LENGTH: string = `held-${"a".repeat(96)}`
+
+export const A_NEW_THING = {
+  pageTypeSlug: "thing",
+  slug: "new-thing",
+  values: { title: "one that is new", lastSeenAt: AN_INSTANT },
+}
+
+export const A_NEW_FIGURE = {
+  pageTypeSlug: "figure",
+  slug: "new-figure",
+  values: { title: "one that is new" },
+}
+
+export const A_CRATE = {
+  pageTypeSlug: "crate",
+  slug: "held-crate",
+  values: { title: "a crate" },
+}
+
 const REPO_AT = rootOf(import.meta.dir)
 
 export function pageTypeAt(slug: string): string {

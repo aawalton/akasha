@@ -7,16 +7,25 @@ import {
   foldedFor,
   folderFor,
   orderedIn,
+  pagesAtFor,
   pathFor,
   slugRefused,
 } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
 import {
+  A_CRATE,
+  A_NEW_FIGURE,
+  A_NEW_THING,
+  A_PORTRAIT_AT,
   AN_INSTANT,
+  AT_THE_LENGTH,
   carrying,
   DEVICE_TOKENS_AT,
   HELD_CRATE_ID,
+  HELD_FIGURE,
+  HELD_THING,
   HELD_THING_BODY,
   HELD_THING_ID,
+  PAST_THE_LENGTH,
   pageTypeAt,
   ROOT,
 } from "akasha/pages/service/page-composing/page-composing.module.test-fixtures.ts"
@@ -75,18 +84,6 @@ test("a page carrying files beside it takes a folder of its own under the plural
   expect(said).toBe("akasha/pages-system/indexes/index/indexes/one/one.index.ts")
 })
 
-const A_NEW_THING = {
-  pageTypeSlug: "thing",
-  slug: "new-thing",
-  values: { title: "one that is new", lastSeenAt: AN_INSTANT },
-}
-
-const A_NEW_FIGURE = {
-  pageTypeSlug: "figure",
-  slug: "new-figure",
-  values: { title: "one that is new" },
-}
-
 test("a type declaring a property held beside the page carries files beside it", () => {
   const carried = [carrying("slug", "thing"), carrying("rounds", "figure")]
   expect(besideItsPage(ROOT, carried)).toBe(true)
@@ -141,12 +138,6 @@ test("a list of no page composes into nothing put and nothing kept", () => {
   expect("kept" in said && said.kept.length).toBe(0)
 })
 
-const A_CRATE = {
-  pageTypeSlug: "crate",
-  slug: "held-crate",
-  values: { title: "a crate" },
-}
-
 test("a page the index already holds keeps the identity it has", () => {
   const said = foldedFor(ROOT, [A_CRATE])
   expect("puts" in said && said.puts[0]?.content).toContain(HELD_CRATE_ID)
@@ -167,10 +158,6 @@ test("a slug the name above it does not open is the folder whole", () => {
   expect(folderFor("seats", "seat", "one")).toBe("one")
   expect(folderFor("seats", "seat", "seat-")).toBe("seat-")
 })
-
-const HELD_THING = "held-thing"
-
-const HELD_FIGURE = "held-figure"
 
 test("a merge keeps every key the caller does not name", () => {
   const said = foldedFor(ROOT, [
@@ -241,8 +228,6 @@ test("a key held in a file naming an ending is written into the page", () => {
   ])
   expect("puts" in said && said.puts[0]?.content).toContain('rounds: "jsonl"')
 })
-
-const A_PORTRAIT_AT = "akasha/figures/pages/held-figure/held-figure.figure.portrait.md"
 
 test("a body handed over for a file property is put at the file its ending names", () => {
   const said = foldedFor(ROOT, [
@@ -362,10 +347,6 @@ test("a merge into a page the index does not hold composes that page as a new on
   expect("puts" in said && said.puts[0]?.content).not.toContain("id:")
 })
 
-const AT_THE_LENGTH = `held-${"a".repeat(95)}`
-
-const PAST_THE_LENGTH = `held-${"a".repeat(96)}`
-
 test("a slug inside the length a page's slug holds is no refusal", () => {
   expect(slugRefused("held-one")).toBeNull()
   expect(AT_THE_LENGTH.length).toBe(100)
@@ -402,4 +383,19 @@ test("a merge is refused for a key the page type declares no property for", () =
     { pageTypeSlug: "thing", slug: HELD_THING, values: { nowhere: "one" }, merge: true },
   ])
   expect("refused" in said && said.refused).toContain("nowhere")
+})
+
+test("the folder a page type's pages sit in is answered from that type alone", () => {
+  expect(pagesAtFor(ROOT, "thing")).toBe("akasha/things/pages")
+  expect(pagesAtFor(ROOT, "crate")).toBe("akasha/crates/pages")
+})
+
+test("that folder is the folder every new page of that type is placed under", () => {
+  const said = foldedFor(ROOT, [{ ...A_CRATE, slug: "held-one" }])
+  const at = "puts" in said ? said.puts[0]?.path : ""
+  expect(at).toBe(`${pagesAtFor(ROOT, "crate")}/held-one.crate.ts`)
+})
+
+test("a page type that is no page the index holds is refused rather than guessed at", () => {
+  expect(() => pagesAtFor(ROOT, "no-such-type")).toThrow("names no page type the index holds")
 })

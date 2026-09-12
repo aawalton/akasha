@@ -136,6 +136,25 @@ export function namedForThePlural(named: string, plural: string): boolean {
   return named === plural || plural.endsWith(`-${named}`)
 }
 
+export function pagesUnder(typeAt: string, plural: string): string {
+  const above = typeAt.split("/").slice(0, -1)
+  const under = namedForThePlural(above.at(-1) ?? "", plural) ? PAGES : plural
+  return `${above.join("/")}/${under}`
+}
+
+export function pagesAtFor(root: string, pageTypeSlug: string): string {
+  const typed = listedAt(root, PAGE_TYPE, pageTypeSlug)
+  const typeAt = typed.length === 1 ? typed[0]?.path : undefined
+  if (typeAt === undefined) {
+    throw new Error(`\`${pageTypeSlug}\` names no page type the index holds`)
+  }
+  const plural = textAt(valueAt(typeAt, root) ?? {}, PLURAL)
+  if (plural === null) {
+    throw new Error(`\`${pageTypeSlug}\` states no ${PLURAL}, so its pages have no folder`)
+  }
+  return pagesUnder(typeAt, plural)
+}
+
 export function pathFor(
   typeAt: string,
   plural: string,
@@ -143,11 +162,8 @@ export function pathFor(
   slug: string,
   besideIt: boolean
 ): string {
-  const above = typeAt.split("/").slice(0, -1)
-  const folder = above.join("/")
-  const under = namedForThePlural(above.at(-1) ?? "", plural) ? PAGES : plural
   const own = besideIt ? `/${folderFor(plural, pageTypeSlug, slug)}` : ""
-  return `${folder}/${under}${own}/${slug}.${pageTypeSlug}.ts`
+  return `${pagesUnder(typeAt, plural)}${own}/${slug}.${pageTypeSlug}.ts`
 }
 
 function shownAs(held: string): string {
