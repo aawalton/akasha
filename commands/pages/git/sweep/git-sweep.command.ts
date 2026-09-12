@@ -4,7 +4,7 @@ export const gitSweep = {
   id: "01a091c8-1761-7abf-827f-f2622036c56c",
   type: "command",
   slug: "git-sweep",
-  definition: "the act taking away what akasha left under the folder git does not track",
+  definition: "the command taking away what akasha left under the folder git does not track",
   code: "ts",
   test: "ts",
   changeKind: "change-none",

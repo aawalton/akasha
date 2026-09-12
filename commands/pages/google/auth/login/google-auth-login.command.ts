@@ -4,7 +4,8 @@ export const googleAuthLogin = {
   id: "01a08cd6-dec8-70d0-806a-01701518ada0",
   type: "command",
   slug: "google-auth-login",
-  definition: "the consent Google is reached as Alan on, granted once for calendar, drive and mail",
+  definition:
+    "the command granting the consent Google is reached as Alan on, for calendar, drive and mail",
   code: "ts",
   changeKind: "change-none",
   taking: [

@@ -4,7 +4,7 @@ export const gitPush = {
   id: "01a06cce-9280-7c22-afc1-5cfcba8a5ac4",
   type: "command",
   slug: "git-push",
-  definition: "the act carrying this checkout's commits to the remote its branch tracks",
+  definition: "the command carrying this checkout's commits to the remote its branch tracks",
   code: "ts",
   test: "ts",
   changeKind: "change-none",

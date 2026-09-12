@@ -4,7 +4,7 @@ export const domainTree = {
   id: "01a06936-1ef0-76c1-a12f-33eb7a0e5a10",
   type: "command",
   slug: "domain-tree",
-  definition: "the domain tree, composed from the domain pages at the moment of asking",
+  definition: "the command composing the domain tree from the domain pages at the moment of asking",
   code: "ts",
   test: "ts",
   changeKind: "change-none",

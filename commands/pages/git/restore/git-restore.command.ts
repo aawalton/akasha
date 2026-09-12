@@ -4,7 +4,8 @@ export const gitRestore = {
   id: "01a07267-f795-738d-90c6-a5e16e277228",
   type: "command",
   slug: "git-restore",
-  definition: "named paths put back to what HEAD says, in the working tree and in the git index",
+  definition:
+    "the command putting named paths back to what HEAD says, in the working tree and the git index",
   code: "ts",
   test: "ts",
   changeKind: "change-none",
