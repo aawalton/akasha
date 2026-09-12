@@ -18,6 +18,8 @@ import {
 } from "akasha/commands/pages/temper/eso/eso-answering/eso-answering.module.code.ts"
 import { temperEsoGenerateChatterName as page } from "akasha/commands/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import { fileOf } from "akasha/pages/indexes/property-file/property-file.module.code.ts"
+import { valuedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { chatterNamesModule } from "akasha/temper/commands/eso-chatter-names/eso-chatter-names.module.code.ts"
 import { saidShort } from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
 
@@ -25,7 +27,11 @@ const NAMED = [codeRootArgument]
 
 const SOURCE_REL = "temper/addons/types/eso/generated/enums.d.ts"
 
-const OUT_REL = "temper/player-quests-addon/src/generated/chatter-names.generated.ts"
+const MODULE = "module"
+
+const TABLES = "quests-chatter-name-tables"
+
+const CODE = "code"
 
 const PUT = "change-mechanical/add-file-code"
 
@@ -33,7 +39,7 @@ const MESSAGE = "the chatter and interaction name registry, read out of the emit
 
 type Taken = Taking<typeof page, typeof NAMED>
 
-async function generated(done: string[], taken: Taken, given: Given): Promise<Answer> {
+async function generated(done: string[], taken: Taken): Promise<Answer> {
   const named = taken.codeRoot
   let root: string
   try {
@@ -58,7 +64,7 @@ async function generated(done: string[], taken: Taken, given: Given): Promise<An
     )
   }
 
-  const registry = chatterNamesModule(source, given.calledAs)
+  const registry = chatterNamesModule(source)
   if (registry.chatter.length === 0 || registry.interaction.length === 0) {
     return refused(
       `${sourcePath} declares ${String(registry.chatter.length)} CHATTER_ and ` +
@@ -68,7 +74,18 @@ async function generated(done: string[], taken: Taken, given: Given): Promise<An
     )
   }
 
-  const outPath = resolve(root, OUT_REL)
+  let outRel: string
+  try {
+    outRel = fileOf(root, valuedAt(root, MODULE, TABLES), MODULE, CODE)
+  } catch (thrown) {
+    return refused(
+      `the index under ${root} names no \`${MODULE}/${TABLES}\` page for the registry to land in — ` +
+        saidShort(thrown),
+      DATA
+    )
+  }
+
+  const outPath = resolve(root, outRel)
   let held: string | null = null
   try {
     held = await readFile(outPath, "utf8")
@@ -83,7 +100,7 @@ async function generated(done: string[], taken: Taken, given: Given): Promise<An
 
   const landed = await runMechanicalChange(
     root,
-    [{ at: PUT, given: { at: OUT_REL, body: registry.text } }],
+    [{ at: PUT, given: { at: outRel, body: registry.text } }],
     MESSAGE,
     null,
     { done }

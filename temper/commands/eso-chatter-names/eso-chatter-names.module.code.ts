@@ -15,28 +15,15 @@ function namesWithPrefix(source: string, prefix: string): readonly string[] {
 }
 
 function renderArray(exportName: string, names: readonly string[]): string {
-  const body = names.map((n) => `  "${n}",`).join("\n")
+  const body = names.map((one) => `  ${JSON.stringify(one)},`).join("\n")
   return `export const ${exportName}: readonly string[] = [\n${body}\n]`
 }
 
-export function chatterNamesModule(source: string, generatorRef: string): ChatterNamesModule {
+export function chatterNamesModule(source: string): ChatterNamesModule {
   const chatter = namesWithPrefix(source, "CHATTER_")
   const interaction = namesWithPrefix(source, "INTERACTION_")
 
-  const text = `/**
- * Chatter / Interaction constant-name registry (Generated)
- *
- * Source: types/eso/generated/enums.d.ts
- *
- * DO NOT EDIT — regenerate with:
- *   ${generatorRef}
- *
- * The auto-quest debug trace resolves option/interaction type codes to names by
- * reading each of these globals individually (\`_G[name]\`). It must NOT scan
- * \`pairs(_G)\` — that taints the ESO call stack on protected-function globals.
- */
-
-${renderArray("CHATTER_OPTION_TYPE_NAMES", chatter)}
+  const text = `${renderArray("CHATTER_OPTION_TYPE_NAMES", chatter)}
 
 ${renderArray("INTERACTION_TYPE_NAMES", interaction)}
 `
