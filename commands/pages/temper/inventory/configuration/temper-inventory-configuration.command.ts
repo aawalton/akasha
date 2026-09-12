@@ -1,9 +1,9 @@
 import type { Command } from "akasha/commands/command.page-type.types.ts"
 
-export const temperInventoryRules = {
+export const temperInventoryConfiguration = {
   id: "01a0603c-c1d9-7bdc-8aab-dcc717f3de9b",
   type: "command",
-  slug: "temper-inventory-rules",
+  slug: "temper-inventory-configuration",
   definition: "the command giving back the compiled rule configuration the addon has",
   code: "ts",
   changeKind: "change-none",
