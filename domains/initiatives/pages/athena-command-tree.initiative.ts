@@ -17,7 +17,7 @@ export const athenaCommandTree = {
     {
       statement: "A command answering many is `list`, and a command answering one is `show`.",
       workingMemory:
-        "`show` and `list` hold across the email, calendar, imessage, inference, domain, seat, agent and temper trees. `temper-inventory-rules` answers one compiled configuration and is the singular-noun intent's page. One class is left: a command named for what it answers with no act word — every `*-status`, every `measure-*`, the temper `-trace`, `-profile`, `-probe` and `-snapshot` getters. Does the rule reach them, making `akasha inference status show` and `akasha measure page list`?\n",
+        "32 commands are genuinely act-less, 16 answering many and 16 answering one. The 16 `measure` commands are act-first rather than act-less — `measure` is the act, as in `refresh attribute` — so they belong to the word-order finding rather than here. A rename costs 5 to 12 files: the aliases derive every call from the page, and the extension spells none. Alan's: the rule earns its keep on the record-named getters and stacks a second answer-word on every `*-status`.\n",
     },
   ],
 } as const satisfies Initiative

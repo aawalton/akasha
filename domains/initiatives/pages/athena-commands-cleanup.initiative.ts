@@ -16,7 +16,6 @@ export const athenaCommandsCleanup = {
     "The work goes on until every intent left on a child initiative is blocked on Alan.",
     "A subagent lands its own change, and the coordinating seat keeps the child pages.",
     "A spelling two arguments share is settled by Alan rather than by whichever agent lands on it first.",
-    "A command's name is spelled in Alan's aliases and in the editor extension, both inside this repository, so a rename lands there in the same change and reaches Alan's machine at the next deploy.",
     "A claim that a file changed is settled by reading that file at HEAD, rather than by the commit that claims it.",
     "A page and the code beneath it drift in both directions, so a sweep reads both rather than trusting either.",
     "Every question for Alan waits for the end of the work and is written into the working memory of the intent it belongs to.",
@@ -25,5 +24,6 @@ export const athenaCommandsCleanup = {
     "A namespace whose survey shows one or two stragglers usually holds a shared reader the survey cannot see, and the straggler is bait.",
     "A module exporting flag constants puts those literals in every importer's reach, so a diff of reachable flags against a page is a worklist rather than findings.",
     "A check that threw because a concurrent landing left a file momentarily empty is answered by running it again.",
+    "Alan's aliases derive every call from the command page and the editor extension spells none, so a rename costs that command's own folder and one line of its parent's parts.",
   ],
 } as const satisfies Initiative
