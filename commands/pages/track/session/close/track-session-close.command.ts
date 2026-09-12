@@ -12,11 +12,7 @@ export const trackSessionClose = {
     { said: "--day <date>", takes: "which day to act on, written as that day's own date" },
     { said: "--dry-run", takes: "judge what the act would land and write nothing" },
   ],
-  helpNotes: [
-    "every time said here is a US Mountain wall time, and no other clock is read or written.",
-    "a day is named at --day and nowhere else.",
-    "the day is left closed, so the next stretch is opened by a call of its own.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
