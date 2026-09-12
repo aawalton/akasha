@@ -2,6 +2,8 @@ import type {
   AccountCompletion,
   CharacterCompletion,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
+import type { ItemProgress } from "akasha/temper/player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
+import type { AnyCompletionCardId } from "akasha/temper/player-completion/modules/completion-card-id/completion-card-id.module.code.ts"
 import {
   accountCheckerFor,
   characterCheckerFor,
@@ -9,9 +11,7 @@ import {
   getItemPickerLevels,
   type ItemPath,
   isAccountCard,
-} from "akasha/temper/player-completion/completion-item-picker/completion-item-picker.module.code.ts"
-import type { ItemProgress } from "akasha/temper/player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
-import type { AnyCompletionCardId } from "akasha/temper/player-completion/modules/completion-card-id/completion-card-id.module.code.ts"
+} from "akasha/temper/player-completion/modules/completion-item-picker/completion-item-picker.module.code.ts"
 
 function resolveLeafDetail<C>(
   checker: {

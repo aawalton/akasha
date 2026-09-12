@@ -1,6 +1,6 @@
 import type { CharacterCompletion } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import { characterCheckerFor } from "akasha/temper/player-completion/completion-item-picker/completion-item-picker.module.code.ts"
 import type { AnyCompletionCardId } from "akasha/temper/player-completion/modules/completion-card-id/completion-card-id.module.code.ts"
+import { characterCheckerFor } from "akasha/temper/player-completion/modules/completion-item-picker/completion-item-picker.module.code.ts"
 
 export interface NextCharacterInput {
   id: string
