@@ -1,21 +1,20 @@
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { buyRuleId } from "akasha/commands/arguments/pages/buy-rule-id.argument.ts"
+import { force } from "akasha/commands/arguments/pages/force.argument.ts"
 import { answering } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { temperInventoryBuyRuleDelete as page } from "akasha/commands/pages/temper/inventory/buy-rule/delete/temper-inventory-buy-rule-delete.command.ts"
 import {
   droppedRule,
-  FORCE,
-  readIn,
   refusedAll,
-  shapeOf,
 } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
-
-const SHAPE = shapeOf([FORCE], { alone: [FORCE], namesARule: true })
 
 export async function temperInventoryBuyRuleDelete(
   argv: readonly string[],
   given: Given
 ): Promise<Answer> {
-  const read = readIn(argv, given.calledAs, SHAPE)
+  const read = takenFor(argv, given.calledAs, page, [force, buyRuleId])
   if ("refused" in read) return refusedAll(read.refused)
-  const id = read.id ?? ""
-  return await answering(() => droppedRule("buy", id, read.said.has(FORCE)))
+  const taken = read.taken
+  return await answering(() => droppedRule("buy", taken.buyRuleId, taken.force))
 }
