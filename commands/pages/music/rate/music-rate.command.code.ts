@@ -1,11 +1,16 @@
 import { join } from "node:path"
 import { MUSIC_RATINGS } from "akasha/alan/music/choosing/rating-ladder/rating-ladder.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import {
+  landedMechanically,
+  type runMechanicalChange,
+} from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { routeFor } from "akasha/commands/arguments/argument-routing/argument-routing.module.code.ts"
 import {
+  answering,
   DATA,
   INPUT,
+  keeping,
   OK,
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -55,6 +60,7 @@ const BARE = [JSON_SAID]
 export const WRITE = "change-mechanical/add-file-of-any-kind"
 
 export type Landing = (
+  done: string[],
   root: string,
   changes: readonly Asking[],
   message: string
@@ -176,10 +182,11 @@ export function saidOf(held: Taken): string {
     : `Recorded ${held.target} ${held.slug}`
 }
 
-export async function musicRate(
+async function recorded(
+  done: string[],
   argv: readonly string[],
   given: Given,
-  landing: Landing = runMechanicalChange
+  landing: Landing
 ): Promise<Answer> {
   const held = taken(argv)
   if ("refused" in held) return refused(held.refused, INPUT)
@@ -208,9 +215,17 @@ export async function musicRate(
     }
     changes.push({ at: WRITE, given: { at: beside, body: text } })
   }
-  const landed = await landing(given.root, changes, `record ${held.target} ${held.slug}`)
-  const wrong = "refusals" in landed ? landed.refusals : landed.wrong
-  if (wrong.length > 0) return answeredWith([], wrong, OPERATIONAL)
+  const landed = await landing(done, given.root, changes, `record ${held.target} ${held.slug}`)
   const wrote = "refusals" in landed ? [] : landed.landed.map((one) => `wrote ${one}`)
+  const wrong = "refusals" in landed ? landed.refusals : landed.wrong
+  if (wrong.length > 0) return keeping(done, answeredWith(wrote, wrong, OPERATIONAL))
   return answeredWith(held.json ? [saidOf(held)] : [saidOf(held), ...wrote], [], OK)
+}
+
+export async function musicRate(
+  argv: readonly string[],
+  given: Given,
+  landing: Landing = landedMechanically
+): Promise<Answer> {
+  return await answering(async (done) => await recorded(done, argv, given, landing))
 }

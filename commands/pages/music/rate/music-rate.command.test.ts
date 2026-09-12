@@ -3,6 +3,11 @@ import { readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import {
+  OPERATIONAL,
+  partWay,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
 import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refusingWith } from "akasha/commands/modules/calling/calling.module.test-fixtures.ts"
@@ -51,7 +56,7 @@ function reaching(answer: Applied | Refused = LANDED): Reach {
   const reached: Reached[] = []
   return {
     reached,
-    landing: async (_root, asked, said) => {
+    landing: async (_done, _root, asked, said) => {
       reached.push({ asked, said })
       return answer
     },
@@ -225,6 +230,40 @@ test("a landing answering something wrong is answered as a refusal", async () =>
   const said = await ratingAurora(reaching({ ...LANDED, wrong: ["the install would not take"] }))
   expect(said.code).toBe(3)
   expect(said.refusals).toEqual(["the install would not take"])
+})
+
+const GAVE_OUT = new Error("the grade landed and the push gave out")
+
+function ratingThrowing(wrote: readonly string[]) {
+  return musicRate(
+    ["--target", ARTIST, "--slug", RATED, "--rating", "A", "--reaction", REACTION],
+    GIVEN,
+    throwingAfter(wrote, GAVE_OUT)
+  )
+}
+
+test("a run that landed the grade and then threw names that commit", async () => {
+  const said = await ratingThrowing(["abc123"])
+
+  expect(said.report).toEqual(["abc123"])
+  expect(said.refusals.at(-1)).toBe(partWay(["abc123"])[0])
+  expect(said.code).toBe(OPERATIONAL)
+})
+
+test("a run that threw with nothing recorded says why it threw and no more", async () => {
+  const said = await ratingThrowing([])
+
+  expect(said.report).toEqual([])
+  expect(said.refusals[0]).toContain("the push gave out")
+  expect(said.refusals.at(-1)).not.toContain("stopped part way")
+})
+
+test("a run that wrote the page and the prose names both in the order written", async () => {
+  const wrote = [`wrote ${RATED_AT}`, `wrote ${REACTION_AT}`]
+  const said = await ratingThrowing(wrote)
+
+  expect(said.report).toEqual(wrote)
+  expect(said.refusals.at(-1)).toBe(partWay(wrote)[0])
 })
 
 test("the page written again hands in the body it was composed against", async () => {

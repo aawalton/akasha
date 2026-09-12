@@ -56,6 +56,14 @@ export const musicRate = {
       invariantKind: "departure",
       statement: "The page hands in the body it was composed from, and the prose beside it none.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A run that wrote before it threw says in its refusal what that run had written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A fault carries the code that fault names and says where it was thrown.",
+    },
   ],
   name: "rate",
   arguments: [
