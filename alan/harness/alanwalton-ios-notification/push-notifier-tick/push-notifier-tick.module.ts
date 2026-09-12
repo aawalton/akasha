@@ -21,6 +21,14 @@ export const pushNotifierTick = {
     },
     {
       invariantKind: "departure",
+      statement: "A push delivered to a phone is named as soon as that phone has it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A device token taken away is named as soon as that token is gone.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The cursor moves past a notification whose push threw.",
     },
     {

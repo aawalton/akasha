@@ -26,10 +26,14 @@ export async function runPushNotifying(): Promise<void> {
   )
 
   while (!ac.signal.aborted) {
+    const done: string[] = []
     try {
-      await runBoundedPushNotifierTick(state, { sender, writer: WORKER_NAME }, ac.signal)
+      await runBoundedPushNotifierTick(state, { sender, writer: WORKER_NAME }, ac.signal, done)
     } catch (err) {
-      if (!ac.signal.aborted) console.error(`${LOG} tick threw:`, err)
+      if (!ac.signal.aborted) {
+        console.error(`${LOG} tick threw:`, err)
+        for (const one of done) console.error(`${LOG} the tick had already done this: ${one}`)
+      }
     }
     const slept = await sleptUntilStopped(TICK_MS, ac.signal)
     if (!slept) break

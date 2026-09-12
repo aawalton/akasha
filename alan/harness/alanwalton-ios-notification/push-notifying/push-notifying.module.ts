@@ -51,6 +51,14 @@ export const pushNotifying = {
     },
     {
       invariantKind: "departure",
+      statement: "A tick that threw says what that tick had already delivered before it threw.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each tick is handed a list of its own rather than one the loop keeps filling.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A stop ends that loop at the next boundary.",
     },
     {

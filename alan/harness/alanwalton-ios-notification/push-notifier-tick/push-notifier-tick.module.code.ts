@@ -47,13 +47,24 @@ export async function openState(): Promise<NotifierState> {
   return { sentThrough: newest ?? new Date().toISOString() }
 }
 
-async function fanOut(args: {
-  readonly sender: ApnsSender
-  readonly recipients: readonly Recipient[]
-  readonly payloadFor: (recipient: Recipient) => ApnsPayload
-  readonly what: string
-  readonly signal: AbortSignal
-}): Promise<void> {
+export function deliveredSaid(what: string, bundleId: string): string {
+  return `${what}, delivered to a phone on ${bundleId}, which nothing here takes back`
+}
+
+export function prunedSaid(bundleId: string): string {
+  return `a dead device token on ${bundleId}, taken away`
+}
+
+async function fanOut(
+  args: {
+    readonly sender: ApnsSender
+    readonly recipients: readonly Recipient[]
+    readonly payloadFor: (recipient: Recipient) => ApnsPayload
+    readonly what: string
+    readonly signal: AbortSignal
+  },
+  done: string[] = []
+): Promise<void> {
   for (const recipient of args.recipients) {
     args.signal.throwIfAborted()
     const tokens = await listDeviceTokens(recipient.userId)
@@ -68,12 +79,14 @@ async function fanOut(args: {
         const said = await args.sender.send(token.deviceToken, payload, token.bundleId)
         if (said.kind === "prune") {
           await pruneDeviceToken(token.deviceToken)
+          done.push(prunedSaid(token.bundleId))
           say(
             `${args.what}: dropped a dead token on ${token.bundleId} (${said.status} ${said.reason})`
           )
         } else if (said.kind === "error") {
           complain(`${args.what}: ${token.bundleId} refused it (${said.status})`, said.reason)
         } else {
+          done.push(deliveredSaid(args.what, token.bundleId))
           say(`${args.what}: delivered on ${token.bundleId} (${said.apnsId ?? "no id"})`)
         }
       } catch (err) {
@@ -83,25 +96,31 @@ async function fanOut(args: {
   }
 }
 
-export async function pushNotification(args: {
-  readonly notification: Notification
-  readonly sender: ApnsSender
-  readonly alanUserId: string
-  readonly signal: AbortSignal
-}): Promise<void> {
+export async function pushNotification(
+  args: {
+    readonly notification: Notification
+    readonly sender: ApnsSender
+    readonly alanUserId: string
+    readonly signal: AbortSignal
+  },
+  done: string[] = []
+): Promise<void> {
   const one = args.notification
   const what = `notification ${one.id}`
   const route = notificationFeedRoute(one.feed)
-  await fanOut({
-    sender: args.sender,
-    recipients: recipientsFor({ ownerUserId: args.alanUserId, kind: one.kind }),
-    payloadFor: (recipient) =>
-      recipient.ownsNotification
-        ? buildApnsPayload({ title: one.title, body: one.body, route })
-        : buildSharedApnsPayload({ title: one.title, body: one.body }),
-    what,
-    signal: args.signal,
-  })
+  await fanOut(
+    {
+      sender: args.sender,
+      recipients: recipientsFor({ ownerUserId: args.alanUserId, kind: one.kind }),
+      payloadFor: (recipient) =>
+        recipient.ownsNotification
+          ? buildApnsPayload({ title: one.title, body: one.body, route })
+          : buildSharedApnsPayload({ title: one.title, body: one.body }),
+      what,
+      signal: args.signal,
+    },
+    done
+  )
 }
 
 export interface TickDeps {
@@ -113,7 +132,8 @@ export interface TickDeps {
 export async function runPushNotifierTick(
   state: NotifierState,
   deps: TickDeps,
-  signal: AbortSignal
+  signal: AbortSignal,
+  done: string[] = []
 ): Promise<void> {
   const alanUserId = deps.alanUserId ?? USER_ID
 
@@ -130,7 +150,7 @@ export async function runPushNotifierTick(
   for (const one of fresh) {
     signal.throwIfAborted()
     try {
-      await pushNotification({ notification: one, sender, alanUserId, signal })
+      await pushNotification({ notification: one, sender, alanUserId, signal }, done)
     } catch (err) {
       complain(`notification ${one.id}: the push leg threw:`, err)
     }
@@ -141,7 +161,8 @@ export async function runPushNotifierTick(
 export async function runBoundedPushNotifierTick(
   state: NotifierState,
   deps: TickDeps,
-  signal: AbortSignal
+  signal: AbortSignal,
+  done: string[] = []
 ): Promise<void> {
   let timer: ReturnType<typeof setTimeout> | undefined
   const ceiling = new Promise<never>((_resolve, reject) => {
@@ -157,7 +178,7 @@ export async function runBoundedPushNotifierTick(
     )
   })
   try {
-    await Promise.race([runPushNotifierTick(state, deps, signal), ceiling])
+    await Promise.race([runPushNotifierTick(state, deps, signal, done), ceiling])
   } finally {
     if (timer !== undefined) clearTimeout(timer)
   }
