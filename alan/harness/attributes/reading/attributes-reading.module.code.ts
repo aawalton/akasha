@@ -21,8 +21,8 @@ import {
 } from "akasha/alan/track/daily/day-opening/day-opening.module.code.ts"
 import { askDayByDate } from "akasha/alan/track/daily/day-reading/day-reading.module.code.ts"
 import { sessionsOfDay } from "akasha/alan/track/daily/day-stretches/day-stretches.module.code.ts"
+import { rootStated } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { AKASHA, resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const READOUTS = "alan/attributes/readouts"
@@ -166,7 +166,7 @@ export async function takeReadings(root: string, now: Date = new Date()): Promis
 }
 
 if (import.meta.main) {
-  const root = optionalEnv("AKASHA_ROOT") ?? process.cwd()
+  const root = rootStated(process.env) ?? process.cwd()
   try {
     const taken = await takeReadings(root)
     for (const one of taken.unread) process.stderr.write(`${one}\n`)
