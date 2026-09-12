@@ -7,10 +7,6 @@ export const temperInventoryAutomationSet = {
   definition: "the command setting or clearing one automation toggle",
   code: "ts",
   taking: [
-    {
-      said: "--scope <scope>",
-      takes: "the scope set, as `global`, `character:<id>` or `companion:<id>`",
-    },
     { said: "--toggle <name>", takes: "the toggle set" },
     {
       said: "--value <true|false|null>",
@@ -41,4 +37,5 @@ export const temperInventoryAutomationSet = {
     },
   ],
   name: "set",
+  arguments: [{ argument: "argument/scope" }],
 } as const satisfies Command
