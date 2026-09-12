@@ -446,9 +446,9 @@ export async function capturing(
     return answering(held.json ? [jsonOf(planned)] : [...rowsOf(planned), ...said], [], 0)
   }
   const landed = await landing(given.root, changes, messageFor(planned))
-  const wrong = "refusals" in landed ? landed.refusals : landed.wrong
-  if (wrong.length > 0) return answering([], wrong, WRONG)
   const wrote = "refusals" in landed ? [] : landed.landed.map((one) => `wrote ${one}`)
+  const wrong = "refusals" in landed ? landed.refusals : landed.wrong
+  if (wrong.length > 0) return answering(wrote, wrong, WRONG)
   return answering(held.json ? [jsonOf(planned)] : [...rowsOf(planned), ...wrote], [], 0)
 }
 

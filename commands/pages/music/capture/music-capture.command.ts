@@ -70,6 +70,10 @@ export const musicCapture = {
     },
     {
       invariantKind: "departure",
+      statement: "A landing that wrote before it went wrong is answered with what that run wrote.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A run saying to write nothing reaches no landing and names what would be written.",
     },

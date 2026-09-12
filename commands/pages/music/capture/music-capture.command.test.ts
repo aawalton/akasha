@@ -372,6 +372,14 @@ test("a landing that refused is answered with the refusal and nothing filed", as
   expect(answer.report).toEqual([])
 })
 
+test("a landing that wrote before it went wrong names what it wrote", async () => {
+  const landed = { ...LANDED, landed: ["one/day.listens.jsonl"], wrong: ["the install stopped"] }
+  const answer = await capturing([], GIVEN, PROBE_PLAYS, landingTelling(TOLD_NOTHING, landed))
+  expect(answer.code).toBe(3)
+  expect(answer.refusals).toEqual(["the install stopped"])
+  expect(answer.report).toEqual(["wrote one/day.listens.jsonl"])
+})
+
 test("what landed is reported under the rows saying what was filed", async () => {
   const held = landingTelling(TOLD_NOTHING, { ...LANDED, landed: ["one/day.listens.jsonl"] })
   const answer = await capturing([], GIVEN, PROBE_PLAYS, held)
