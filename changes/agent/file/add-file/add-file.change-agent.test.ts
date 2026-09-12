@@ -69,6 +69,22 @@ test("the arguments this change hands on are reached through the runner the worl
   )
 
   expect(reached).toBe(REACHES)
-  expect(carried).toEqual({ at: AT, body: "alpha\n", id: "auto" })
+  expect(carried).toEqual({ at: AT, body: "alpha\n", id: "auto", old: undefined })
   expect(said.refused).toBeNull()
+})
+
+test("the body a caller composed against is handed on beside the body written", async () => {
+  let carried: unknown = null
+  await addFileCommand(
+    {
+      ...worldOf({}),
+      reaching: (_world, _at, given) => {
+        carried = given
+        return Promise.resolve(NOTHING_OVER)
+      },
+    },
+    { at: AT, body: "beta\n", old: "alpha\n" }
+  )
+
+  expect(carried).toEqual({ at: AT, body: "beta\n", id: undefined, old: "alpha\n" })
 })

@@ -6,6 +6,7 @@ const ADD_FILE_PAGE = "change-mechanical/add-file-page"
 export type Asked = {
   readonly at: string
   readonly body: string
+  readonly old?: string
 }
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {

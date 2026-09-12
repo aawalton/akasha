@@ -8,6 +8,8 @@ const BODY = "body"
 
 const ID = "id"
 
+const OLD = "old"
+
 const ADD_FILE_OF_ANY_KIND = "change-mechanical/add-file-of-any-kind"
 
 export type Asked = Readonly<Record<string, string>>
@@ -17,10 +19,11 @@ export async function addFileCommand(world: World, given: Asked): Promise<Answer
   if (at === undefined) return refusing(missing(AT))
   const body = given[BODY]
   if (body === undefined) return refusing(missing(BODY))
-  return (await reach(world, ADD_FILE_OF_ANY_KIND, { at, body, id: given[ID] })).said
+  const carried = { at, body, id: given[ID], old: given[OLD] }
+  return (await reach(world, ADD_FILE_OF_ANY_KIND, carried)).said
 }
 
-export const takes: readonly string[] = [AT, BODY, ID]
+export const takes: readonly string[] = [AT, BODY, ID, OLD]
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   return await addFileCommand(world, given)

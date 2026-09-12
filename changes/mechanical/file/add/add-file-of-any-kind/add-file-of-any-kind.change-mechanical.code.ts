@@ -46,14 +46,16 @@ export type Asked = {
   readonly at: string
   readonly body: string
   readonly id?: string
+  readonly old?: string
 }
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const address = ADDRESSES[kindOf(world, given.at)]
+  const old = given.old
   if (!pagedAt(world, given.at)) {
-    return (await reach(world, address, { at: given.at, body: given.body })).said
+    return (await reach(world, address, { at: given.at, body: given.body, old })).said
   }
   const filled = idFilled(given.at, given.body, given.id ?? AUTO)
   if (typeof filled !== "string") return refusing(filled.refused)
-  return (await reach(world, address, { at: given.at, body: filled })).said
+  return (await reach(world, address, { at: given.at, body: filled, old })).said
 }

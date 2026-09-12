@@ -6,8 +6,10 @@ const ADD_FILE_CODE = "change-mechanical/add-file-code"
 export type Asked = {
   readonly at: string
   readonly body: string
+  readonly old?: string
 }
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
-  return (await reach(world, ADD_FILE_CODE, { at: given.at, body: given.body })).said
+  return (await reach(world, ADD_FILE_CODE, { at: given.at, body: given.body, old: given.old }))
+    .said
 }

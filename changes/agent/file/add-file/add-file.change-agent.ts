@@ -15,6 +15,18 @@ export const addFile = {
     },
     {
       invariantKind: "departure",
+      statement: "The body that body was composed against may be handed in beside it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body handed in that is not the body there refuses the change unwritten.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A caller handing none in writes over whatever the path holds.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Writing the body is left to the partial this change runs.",
     },
     {
