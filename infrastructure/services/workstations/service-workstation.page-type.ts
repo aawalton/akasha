@@ -101,6 +101,16 @@ export const serviceWorkstation = {
     {
       invariantKind: "departure",
       statement:
+        "A service a deploy would restart has the test beside its page judged before that tree moves.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A service that test refuses leaves the tree, and every service running, as they were.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A service that finds the tree moved leaves at a point that service itself calls safe.",
     },
     {
