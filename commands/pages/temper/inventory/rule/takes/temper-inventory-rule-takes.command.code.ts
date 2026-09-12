@@ -147,6 +147,7 @@ async function answered(
   const mine = gatheredByItem(whole.ruleMap.get(taken.categoryRuleId) ?? [])
   const solo = gatheredByItem(alone.ruleMap.get(taken.categoryRuleId) ?? [])
   const order = orderedRules.map((one, at) => one.id ?? `rule#${String(at)}`)
+  const above = order.slice(0, order.indexOf(taken.categoryRuleId))
   const shadowed: ShadowedStack[] = []
   for (const [itemId, stack] of solo) {
     const lost = stack.units - (mine.get(itemId)?.units ?? 0)
@@ -155,7 +156,7 @@ async function answered(
       itemId,
       itemName: stack.itemName,
       units: lost,
-      takenBy: takerOf(whole.ruleMap, order, taken.categoryRuleId, itemId),
+      takenBy: takerOf(whole.ruleMap, above, taken.categoryRuleId, itemId),
     })
   }
   const takes: RuleTakes = {
