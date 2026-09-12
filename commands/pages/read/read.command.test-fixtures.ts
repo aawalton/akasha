@@ -17,8 +17,8 @@ import {
 } from "akasha/commands/pages/read/read.command.code.ts"
 import { read as readCommand } from "akasha/commands/pages/read/read.command.ts"
 import {
-  realAt,
   SEEDED_AT,
+  warrantsSeeded,
 } from "akasha/domains/context/modules/warranting/warranting.module.test-fixtures.ts"
 import {
   listedFiled,
@@ -27,6 +27,7 @@ import {
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import { mintedId } from "akasha/testing-system/minting/minting.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
+import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 import { said as saying } from "akasha/utils/run/running/running.module.code.ts"
 
 export const CALLED_AS = "akasha read"
@@ -376,28 +377,6 @@ export function headedIn(report: readonly string[], path: string): number {
   return report.filter((one) => one.startsWith(`${path} —`)).length
 }
 
-function forwarding(name: string, at: string): string {
-  return [
-    `import { ${name} as held } from ${JSON.stringify(at)}`,
-    "",
-    `export const ${name} = held`,
-    "",
-  ].join("\n")
-}
-
-const REAL: readonly Planted[] = [
-  {
-    slug: "file-itself",
-    name: "fileItself",
-    code: forwarding("fileItself", realAt("file-itself")),
-  },
-  {
-    slug: "file-page-type",
-    name: "filePageType",
-    code: forwarding("filePageType", realAt("file-page-type")),
-  },
-]
-
 export function straying(slug: string, name: string, path: string): Planted {
   return {
     slug,
@@ -429,12 +408,6 @@ function pageFor(one: Planted, id: string): string {
   ].join("\n")
 }
 
-function planting(root: string, at: string, body: string): undefined {
-  const said = join(root, at)
-  mkdirSync(said.slice(0, said.lastIndexOf("/")), { recursive: true })
-  writeFileSync(said, body)
-}
-
 export function rootWarranting(
   named: readonly { readonly at: string; readonly body: string | Uint8Array }[],
   also: readonly Planted[] = []
@@ -455,11 +428,12 @@ export function rootWarranting(
       },
     ])
   }
-  for (const one of [...REAL, ...also]) {
+  warrantsSeeded(root)
+  for (const one of also) {
     const id = mintedId(one.slug)
     const at = join(SEEDED_AT, `${one.slug}.context-warrant.ts`)
-    planting(root, at, pageFor(one, id))
-    planting(root, `${at.slice(0, -".ts".length)}.code.ts`, one.code)
+    writing(root, at, pageFor(one, id))
+    writing(root, `${at.slice(0, -".ts".length)}.code.ts`, one.code)
     listedFiled(root, CONTEXT_WARRANT, one.slug, [{ path: at, id }])
     valueAlsoFiled(root, CONTEXT_WARRANT, [
       { path: at, value: { id, pageTypeSlug: CONTEXT_WARRANT, slug: one.slug } },
