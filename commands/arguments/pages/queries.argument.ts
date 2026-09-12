@@ -8,5 +8,4 @@ export const queries = {
   takes: "the track queries, played in the order they are said",
   value: "text",
   placeholder: "query",
-  repeats: true,
 } as const satisfies Argument

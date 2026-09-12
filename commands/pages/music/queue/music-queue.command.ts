@@ -56,6 +56,6 @@ export const musicQueue = {
     { argument: "argument/json" },
     { argument: "argument/artist" },
     { argument: "argument/device-id" },
-    { argument: "argument/queries", required: true, saidAs: "word" },
+    { argument: "argument/queries", required: true, repeats: true, saidAs: "word" },
   ],
 } as const satisfies Command
