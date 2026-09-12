@@ -7,8 +7,8 @@ export const changeMechanicalFileContentAdd = {
   definition: "a mechanical change adding to what a file holds",
   parts: [
     "change-mechanical-file-content/add-page-property",
-    "change-mechanical-file-content/add-property-value",
     "change-mechanical-file-content/add-property-record",
+    "change-mechanical-file-content/add-property-value",
     "change-mechanical-file-content/add-type-member",
   ],
 } as const satisfies Domain

@@ -6,5 +6,5 @@ export const changeTarget = {
   slug: "change-target",
   definition: "the thing a change acts on",
   pluralSlug: "change-targets",
-  parts: ["page-type/change-target-type", "page-type/change-target-subtype"],
+  parts: ["page-type/change-target-subtype", "page-type/change-target-type"],
 } as const satisfies Domain

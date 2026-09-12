@@ -8,11 +8,11 @@ export const changeMechanicalFileMove = {
   parts: [
     "change-mechanical-file/move-file",
     "change-mechanical/move-file-code",
-    "change-mechanical/move-files",
     "change-mechanical-file/move-file-page",
     "change-mechanical/move-file-of-any-kind",
     "change-mechanical/move-file-page-property",
     "change-mechanical/move-file-page-type",
+    "change-mechanical/move-files",
   ],
   invariants: [],
 } as const satisfies Domain

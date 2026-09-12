@@ -5,7 +5,7 @@ export const auditAstUnused = {
   type: "domain",
   slug: "audit-ast-unused",
   definition: "the entry globs each workspace's reachability is worked out from",
-  parts: ["page-type/ast-unused-config", "ast-unused-config/every-workspace"],
+  parts: ["ast-unused-config/every-workspace", "page-type/ast-unused-config"],
   invariants: [
     {
       invariantKind: "departure",

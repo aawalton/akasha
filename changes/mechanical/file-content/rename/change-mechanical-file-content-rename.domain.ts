@@ -7,14 +7,14 @@ export const changeMechanicalFileContentRename = {
   definition: "a mechanical change spelling a name anew in what a file holds",
   parts: [
     "change-mechanical-file-content/change-imports",
+    "change-mechanical-file-content/rename-entry-key",
     "change-mechanical-file-content/rename-export",
     "change-mechanical-file-content/rename-local-variable",
     "change-mechanical-file-content/rename-page-address",
+    "change-mechanical-file-content/rename-page-addresses",
     "change-mechanical-file-content/rename-page-property-key",
     "change-mechanical-file-content/rename-page-slug",
     "change-mechanical-file-content/rename-property-signature",
-    "change-mechanical-file-content/rename-page-addresses",
-    "change-mechanical-file-content/rename-entry-key",
   ],
   invariants: [
     {

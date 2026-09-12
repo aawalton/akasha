@@ -7,6 +7,7 @@ export const designInterfacesSystem = {
   definition: "the look every product wears and the gallery showing what it is made of",
 
   parts: [
+    "domain/ring",
     "module/borders",
     "module/brand-heart",
     "module/brand-tab",
@@ -49,7 +50,6 @@ export const designInterfacesSystem = {
     "stylesheet/motion-look",
     "stylesheet/theme-bridge",
     "stylesheet/token-values",
-    "domain/ring",
   ],
   invariants: [
     {

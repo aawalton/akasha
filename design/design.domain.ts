@@ -6,10 +6,10 @@ export const design = {
   slug: "design",
   definition: "how something is done well",
   parts: [
-    "domain/design-interfaces",
     "domain/design-games",
-    "domain/image",
+    "domain/design-interfaces",
     "domain/design-language",
+    "domain/image",
   ],
   invariants: [
     {

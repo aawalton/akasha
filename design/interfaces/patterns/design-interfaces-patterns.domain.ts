@@ -8,6 +8,7 @@ export const designInterfacesPatterns = {
 
   parts: [
     "module/add-filter-button",
+    "module/add-filter-id",
     "module/add-sort-button",
     "module/auth-page-content",
     "module/back-button",
@@ -47,6 +48,5 @@ export const designInterfacesPatterns = {
     "module/use-filter-persistence",
     "module/use-scroll-restoration",
     "module/use-set-toggle",
-    "module/add-filter-id",
   ],
 } as const satisfies Domain

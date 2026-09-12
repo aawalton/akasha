@@ -7,11 +7,11 @@ export const changeMechanicalFileRemove = {
   definition: "a mechanical change taking a file away",
   parts: [
     "change-mechanical-file/remove-file",
-    "change-mechanical/remove-file-code",
     "change-mechanical-file/remove-file-page",
-    "change-mechanical/remove-file-page-type",
+    "change-mechanical/remove-file-code",
     "change-mechanical/remove-file-of-any-kind",
     "change-mechanical/remove-file-page-property",
+    "change-mechanical/remove-file-page-type",
   ],
   invariants: [
     {
