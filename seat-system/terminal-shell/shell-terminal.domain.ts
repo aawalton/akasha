@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
-export const terminalShell = {
+export const shellTerminal = {
   id: "01a0884d-5f98-745e-bc9f-ced0318936eb",
   type: "domain",
-  slug: "terminal-shell",
+  slug: "shell-terminal",
   definition: "the shell an editor terminal runs",
   parts: [
     "module/document-present",
