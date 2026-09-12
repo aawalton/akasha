@@ -138,7 +138,6 @@ export const seatSystem = {
     "module/seat-stated-parent-refusal",
     "module/seat-usage",
     "page-type/subagent-kind",
-    "module/tick-deadline",
     "module/run-supervisor",
     "module/seat-call",
     "module/seat-running",

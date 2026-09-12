@@ -25,7 +25,7 @@ import {
   readSupervisorPids,
   readUserPidSnapshots,
 } from "akasha/infrastructure/memory/reaping/memory-reaper-read/memory-reaper-read.module.code.ts"
-import { withTickDeadline } from "akasha/seat-system/tick-deadline/tick-deadline.module.code.ts"
+import { withTickDeadline } from "akasha/infrastructure/services/workstations/tick-deadline/tick-deadline.module.code.ts"
 import { readMemInfoKb } from "akasha/utils/system/memory-guard/memory-guard.module.code.ts"
 
 export type ReaperState = { lastGlobalKillAtMs: number | null }

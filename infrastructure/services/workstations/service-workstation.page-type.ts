@@ -57,6 +57,7 @@ export const serviceWorkstation = {
     "module/service-putting-up",
     "module-property-group/running",
     "module/binary-running",
+    "module/tick-deadline",
   ],
   properties: [
     { pageProperty: "text-property/runs", required: false, many: true, maxCount: null },

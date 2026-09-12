@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   TickDeadlineExceededError,
   withTickDeadline,
-} from "akasha/seat-system/tick-deadline/tick-deadline.module.code.ts"
+} from "akasha/infrastructure/services/workstations/tick-deadline/tick-deadline.module.code.ts"
 
 test("a tick inside its ceiling answers", async () => {
   await expect(withTickDeadline("here", async () => 7, 1000)).resolves.toBe(7)
