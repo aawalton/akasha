@@ -12,12 +12,12 @@ export const imessageContactList = {
     { said: "<name>", takes: "the same run of letters, said as a word rather than at its flag" },
     { said: "--json", takes: "give the contacts as JSON rather than as tab-parted rows" },
   ],
-  helpNotes: [
-    "the address book is read off the mac, every source of it merged into one contact for a person.",
-    "the run of letters is matched against a first name, a last name and an organization alike, whatever the case.",
-    "a row carries the name, then the phone numbers parted by commas, then the addresses.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "A row carries the name, then the phone numbers parted by commas, then the addresses.",
+    },
     {
       invariantKind: "departure",
       statement: "A name is matched whatever the case that name was said in.",
