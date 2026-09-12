@@ -131,7 +131,25 @@ test("neither a query nor a uri refuses the call as an input fault", async () =>
   const fake = fakeFor()
   const said = await playing([], fake.ports, CALLED)
   expect(said.code).toBe(1)
-  expect(said.refusals.join("")).toContain("supply a track query to play")
+  expect(said.refusals.length).toBe(1)
+  expect(said.refusals[0]).toContain("`--uri` or `<query>`")
+  expect(said.refusals[0]).toContain("nothing said either")
+  expect(fake.kept.started).toEqual([])
+})
+
+test("an empty query is refused rather than searched for", async () => {
+  const fake = fakeFor()
+  const said = await playing([""], fake.ports, CALLED)
+  expect(said.code).toBe(1)
+  expect(said.refusals.join("")).toContain("an empty one came")
+  expect(fake.kept.queries).toEqual([])
+})
+
+test("an empty uri is refused rather than played", async () => {
+  const fake = fakeFor()
+  const said = await playing(["--uri", ""], fake.ports, CALLED)
+  expect(said.code).toBe(1)
+  expect(said.refusals.join("")).toContain("an empty one came")
   expect(fake.kept.started).toEqual([])
 })
 
