@@ -1,5 +1,5 @@
 import geistSansWoff2 from "@fontsource-variable/geist/files/geist-latin-wght-normal.woff2?url"
-import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/error-capture-installer/error-capture-installer.module.code.tsx"
+import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/modules/error-capture-installer/error-capture-installer.module.code.tsx"
 import { useReportRenderError } from "akasha/alan/harness/errors-client/use-report-render-error/use-report-render-error.module.code.ts"
 import { fontPreloading } from "akasha/code/router-apps/font-preload/font-preload.module.code.ts"
 import { rootNonceLoader } from "akasha/code/router-apps/root-nonce-loader/root-nonce-loader.module.code.ts"

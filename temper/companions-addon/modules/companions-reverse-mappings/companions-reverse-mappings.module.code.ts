@@ -6,7 +6,7 @@ import {
   QUALITY_TO_INDEX,
   WEAPON_TRAIT_TO_INDEX,
   WEAPON_TYPE_TO_INDEX,
-} from "akasha/temper/bit-codec/equipment-mappings/equipment-mappings.module.code.ts"
+} from "akasha/temper/bit-codec/modules/equipment-mappings/equipment-mappings.module.code.ts"
 import { SKILL_ABILITY_ID_TO_INDEX } from "akasha/temper/companions-addon/modules/companions-skill-map/companions-skill-map.module.code.ts"
 
 const INDEX_TO_ARMOR_WEIGHT: string[] = ["", "Light", "Medium", "Heavy"]

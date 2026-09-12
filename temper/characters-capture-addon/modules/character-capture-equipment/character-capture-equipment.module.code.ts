@@ -6,7 +6,7 @@ import "akasha/temper/eso-types/eso-functions-08/eso-functions-08.type-declarati
 import {
   getArmorWeightIndex,
   getQualityIndex,
-} from "akasha/temper/bit-codec/equipment-mappings/equipment-mappings.module.code.ts"
+} from "akasha/temper/bit-codec/modules/equipment-mappings/equipment-mappings.module.code.ts"
 import type {
   CharacterArmorSlotData,
   CharacterJewelrySlotData,

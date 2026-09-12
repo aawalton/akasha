@@ -28,18 +28,18 @@ import { weaponTypes } from "akasha/temper/characters-equipment/weapon-types-dat
 import {
   AVAILABLE_QUALITY_OPTIONS,
   getQualityVariant,
-} from "akasha/temper/characters-equipment-ui/equipment-quality-rules/equipment-quality-rules.module.code.ts"
+} from "akasha/temper/characters-equipment-ui/modules/equipment-quality-rules/equipment-quality-rules.module.code.ts"
 import type { SetId as SetsAllId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
 import {
   type WeaponTraitId,
   weaponTraitsBuildList,
   weaponTraits as weaponTraitsData,
 } from "akasha/temper/equipment/weapon-traits/weapon-traits.module.code.ts"
-import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kinds/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import { weaponSlots as weaponSlotsData } from "akasha/temper/equipment-kinds/weapon-slots/weapon-slots.module.code.ts"
-import type { EquipmentSectionProps } from "akasha/temper/web/equipment-types/equipment-types.module.code.ts"
 import { BulkEditTag } from "akasha/temper/web/modules/bulk-edit-tag/bulk-edit-tag.module.code.tsx"
 import { BulkSetEditTag } from "akasha/temper/web/modules/bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx"
+import type { EquipmentSectionProps } from "akasha/temper/web/modules/equipment-types/equipment-types.module.code.ts"
 import { WeaponCard } from "akasha/temper/web/weapon-card/weapon-card.module.code.tsx"
 import { useMemo } from "react"
 

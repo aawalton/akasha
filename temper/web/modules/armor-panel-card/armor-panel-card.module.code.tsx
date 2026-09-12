@@ -19,7 +19,7 @@ import { getMythicSlots } from "akasha/temper/characters-equipment/mythic-set-ru
 import {
   AVAILABLE_QUALITY_OPTIONS,
   getQualityVariant,
-} from "akasha/temper/characters-equipment-ui/equipment-quality-rules/equipment-quality-rules.module.code.ts"
+} from "akasha/temper/characters-equipment-ui/modules/equipment-quality-rules/equipment-quality-rules.module.code.ts"
 import {
   type ArmorTraitId,
   armorTraitsBuildList,
@@ -27,16 +27,16 @@ import {
 } from "akasha/temper/equipment/modules/armor-traits/armor-traits.module.code.ts"
 import type { StandardArmorWeightId } from "akasha/temper/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
 import type { SetId as SetsAllId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
-import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
 import {
   type ArmorSlotId,
   armorSlots,
 } from "akasha/temper/equipment-kinds/modules/armor-slots/armor-slots.module.code.ts"
-import type { EquipmentSectionProps } from "akasha/temper/web/equipment-types/equipment-types.module.code.ts"
+import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kinds/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type { ArmorUpdateParams } from "akasha/temper/web/modules/armor-card/armor-card.module.code.tsx"
 import { ArmorCard } from "akasha/temper/web/modules/armor-card/armor-card.module.code.tsx"
 import { BulkEditTag } from "akasha/temper/web/modules/bulk-edit-tag/bulk-edit-tag.module.code.tsx"
 import { BulkSetEditTag } from "akasha/temper/web/modules/bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx"
+import type { EquipmentSectionProps } from "akasha/temper/web/modules/equipment-types/equipment-types.module.code.ts"
 import { useMemo } from "react"
 
 export function ArmorPanelCard({

@@ -8,7 +8,7 @@ import {
   companionTraitIds,
   companionWeaponTypeIds,
 } from "akasha/temper/companion-codec/modules/companion-codec-indices/companion-codec-indices.module.code.ts"
-import { equipmentQualities } from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+import { equipmentQualities } from "akasha/temper/equipment-kinds/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import { z } from "zod"
 
 const MODULE = "module"

@@ -1,5 +1,5 @@
-import { computeFingerprint } from "akasha/alan/harness/errors-core/error-fingerprint/error-fingerprint.module.code.ts"
 import { ErrorReportSchema } from "akasha/alan/harness/errors-core/error-report/error-report.module.code.ts"
+import { computeFingerprint } from "akasha/alan/harness/errors-core/modules/error-fingerprint/error-fingerprint.module.code.ts"
 import {
   captureError,
   type ErrorCapturePayload,

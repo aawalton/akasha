@@ -1,5 +1,4 @@
 import { relative, resolve } from "node:path"
-import { errorMessage } from "akasha/temper/build-deploy-checks/error-message/error-message.module.code.ts"
 import {
   formatIssue,
   type Issue,
@@ -12,6 +11,7 @@ import {
   refuseAddonDistPopulation,
 } from "akasha/temper/build-deploy-checks/modules/addon-dist-bundles/addon-dist-bundles.module.code.ts"
 import { parseSingleFileFlag } from "akasha/temper/build-deploy-checks/modules/cli-args/cli-args.module.code.ts"
+import { errorMessage } from "akasha/temper/build-deploy-checks/modules/error-message/error-message.module.code.ts"
 import { renderPopulationBound } from "akasha/temper/build-deploy-checks/population-bound/population-bound.module.code.ts"
 import { errnoCodeOf } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
 

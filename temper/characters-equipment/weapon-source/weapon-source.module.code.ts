@@ -12,7 +12,7 @@ import type { WeaponTypeId } from "akasha/temper/equipment/weapon-type-ids/weapo
 import {
   type EquipmentQualityId,
   resolveQuality,
-} from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+} from "akasha/temper/equipment-kinds/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type {
   Effect,
   MetricEffect,

@@ -5,7 +5,7 @@ import {
   type EquipmentQualityId,
   minQuality,
   resolveQuality,
-} from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+} from "akasha/temper/equipment-kinds/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type { MetricEffect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
 import { updateEffectValue } from "akasha/temper/formula-framework/modules/effect-value-update/effect-value-update.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"

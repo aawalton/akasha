@@ -7,12 +7,12 @@ import type { StandardArmorWeightId } from "akasha/temper/equipment/modules/armo
 import type { SetId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
 import type { WeaponTraitId } from "akasha/temper/equipment/weapon-traits/weapon-traits.module.code.ts"
 import type { WeaponTypeId } from "akasha/temper/equipment/weapon-type-ids/weapon-type-ids.module.code.ts"
+import type { JewelryTypeId } from "akasha/temper/equipment-kinds/jewelry-types/jewelry-types.module.code.ts"
+import type { StandardArmorType } from "akasha/temper/equipment-kinds/modules/armor-types/armor-types.module.code.ts"
 import type {
   EquipmentQualityId,
   EquipmentQualityOptionId,
-} from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
-import type { JewelryTypeId } from "akasha/temper/equipment-kinds/jewelry-types/jewelry-types.module.code.ts"
-import type { StandardArmorType } from "akasha/temper/equipment-kinds/modules/armor-types/armor-types.module.code.ts"
+} from "akasha/temper/equipment-kinds/modules/equipment-qualities/equipment-qualities.module.code.ts"
 export type PoisonId = "no-poison"
 
 export type ItemLevel =

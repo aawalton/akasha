@@ -31,13 +31,13 @@ import {
   weaponEnchantments,
 } from "akasha/temper/characters-equipment/weapon-enchants/weapon-enchants.module.code.ts"
 import { weaponTypes } from "akasha/temper/characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
+import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import {
   AVAILABLE_QUALITY_OPTIONS,
   getQualityClassName,
   getQualityLabel,
   getQualityVariant,
-} from "akasha/temper/characters-equipment-ui/equipment-quality-rules/equipment-quality-rules.module.code.ts"
-import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
+} from "akasha/temper/characters-equipment-ui/modules/equipment-quality-rules/equipment-quality-rules.module.code.ts"
 import {
   type ArmorTraitId,
   armorTraits,
@@ -51,7 +51,7 @@ import {
   weaponTraitsBuildList,
 } from "akasha/temper/equipment/weapon-traits/weapon-traits.module.code.ts"
 import type { WeaponTypeId } from "akasha/temper/equipment/weapon-type-ids/weapon-type-ids.module.code.ts"
-import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kinds/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type { WeaponBar } from "akasha/temper/equipment-kinds/weapon-bars/weapon-bars.module.code.ts"
 import {
   type WeaponSlot,

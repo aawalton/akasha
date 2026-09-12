@@ -12,13 +12,13 @@ import type {
   StandardArmorWeightId,
 } from "akasha/temper/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
 import {
-  type EquipmentQualityId,
-  resolveQuality,
-} from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
-import {
   type ArmorTypeId,
   getArmorMultiplier,
 } from "akasha/temper/equipment-kinds/modules/armor-types/armor-types.module.code.ts"
+import {
+  type EquipmentQualityId,
+  resolveQuality,
+} from "akasha/temper/equipment-kinds/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type { MetricEffect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import {
