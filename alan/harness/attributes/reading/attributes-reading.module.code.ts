@@ -163,9 +163,11 @@ export async function takeReadings(
   const taken = await readAttributes(now)
   for (const [page, value] of Object.entries(taken.kept)) {
     keepReading(root, page, value, now)
-    const slug = ATTRIBUTE_OF[page]
-    if (slug !== undefined) keepPointsToday(root, slug, value)
     done.push(`${page} carries the reading taken today`)
+    const slug = ATTRIBUTE_OF[page]
+    if (slug === undefined) continue
+    keepPointsToday(root, slug, value)
+    done.push(`${slug} carries its points from today`)
   }
   return taken
 }

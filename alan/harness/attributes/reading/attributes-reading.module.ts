@@ -62,6 +62,14 @@ export const attributesReading = {
     },
     {
       invariantKind: "departure",
+      statement: "An attribute's points today are named as soon as those points are kept.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading kept is named before the points that reading writes, which can throw.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run that kept a reading exits 0.",
     },
     {
