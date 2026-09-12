@@ -6,6 +6,7 @@ export const temperCatalogList = {
   slug: "temper-catalog-list",
   definition: "the command naming every catalog domain the game's reference data is collected in",
   code: "ts",
+  test: "ts",
 
   invariants: [
     {
