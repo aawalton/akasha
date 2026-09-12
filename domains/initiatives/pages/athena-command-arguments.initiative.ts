@@ -16,7 +16,7 @@ export const athenaCommandArguments = {
     {
       statement: "A command names the arguments it takes and narrows each.",
       workingMemory:
-        "Six keys: `argument`, `required`, `saidAs`, `notWith`, `repeats`, `oneOf`; `default` sits on the argument page. Of 74 bare pages 1 understated its code, and where a page feeds `takenFor` the page is the enforcement. Four shapes no page states, all Alan's: `--content-file` read against the `--file-path` before it; a group required only when another is said, as `--ref-audio` wants a transcript; a default one command has and another lacks; an argument refused rather than taken, as `read --seat`.\n",
+        "Six keys narrow an argument and `default` sits on the argument page. Seven shapes the vocabulary cannot say, all Alan's: an enum over text; a real number; a range; a per-command default; a conditional group, as `--ref-audio` wants a transcript; `--content-file` read against the `--file-path` before it; and an argument refused rather than taken, as `read --seat`. The `path` kind says a path is read against the repository root and no reader does it.\n",
     },
     {
       statement:
@@ -28,7 +28,7 @@ export const athenaCommandArguments = {
       statement:
         "A command's code reads its arguments through a type generated from its argument pages.",
       workingMemory:
-        "199 of 235 call `takenFor` at `06eee94c208`, and 10 more reach the generated keyed type through `inventory-rule-calling`; most of the rest are temper. Held: `alan tracking` on two frozen modules; `change apply` and `change draft` because `takingIn` swallows `--`, so `akasha change apply --` would land every kept edit where today it refuses. Alan's: `seat start` can move alone, and asks whether its seat-name refusal may widen from the first word to any lone stray word.\n",
+        "213 of 235 reach the generated keyed type at `8c05bfa52f66`, 200 calling `takenFor` and 13 through `inventory-rule-calling`. Of the 22 left, 18 are temper. Held: `alan tracking` on two frozen modules; `change apply` and `change draft` because `takingIn` swallows `--`, so `akasha change apply --` would land every kept edit where today it refuses. Alan's: whether `seat start`'s seat-name refusal may widen from the first word to any lone stray word.\n",
     },
     {
       statement: "One spelling names one argument, and one argument has one spelling.",
