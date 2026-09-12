@@ -1,4 +1,5 @@
 import { existsSync, readFileSync } from "node:fs"
+import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { CATALOG_DOMAIN_KEYS } from "akasha/temper/catalog-core/domain-keys/domain-keys.module.code.ts"
@@ -16,8 +17,6 @@ import {
 } from "akasha/temper/catalog-side-file/catalog-side-file/catalog-side-file.module.code.ts"
 import { valuesOf } from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
-
-const DATA = 2
 
 const SAVED_VARIABLES_FLAG = "--saved-variables-file"
 
@@ -124,7 +123,7 @@ export function temperCatalogStatus(argv: readonly string[] = []): Answer {
   }
 
   if (argv.includes(JSON_FLAG)) {
-    return { report: jsonOf(summaries, sideFile), refusals: [], code: 0 }
+    return { report: jsonOf(summaries, sideFile), refusals: [], code: OK }
   }
 
   if (summaries.length === 0) {
@@ -134,13 +133,13 @@ export function temperCatalogStatus(argv: readonly string[] = []): Answer {
         ...summaryLines(summaries, sideFile),
       ],
       refusals: [],
-      code: 0,
+      code: OK,
     }
   }
 
   return {
     report: [HEADING, ...rowsFor(summaries, sideFile), "", ...summaryLines(summaries, sideFile)],
     refusals: [],
-    code: 0,
+    code: OK,
   }
 }
