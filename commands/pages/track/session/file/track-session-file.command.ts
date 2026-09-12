@@ -6,7 +6,7 @@ export const trackSessionFile = {
   slug: "track-session-file",
   definition: "the command taking a whole day in as written lines",
   code: "ts",
-  parts: ["module/day-landing"],
+  parts: [],
   taking: [
     {
       said: "--from-file <path|->",

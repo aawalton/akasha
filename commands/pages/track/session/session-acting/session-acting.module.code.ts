@@ -27,7 +27,7 @@ import {
   besideArgv,
   type Landing,
   pathUnder,
-} from "akasha/commands/pages/track/session/file/day-landing/day-landing.module.code.ts"
+} from "akasha/commands/pages/track/session/day-landing/day-landing.module.code.ts"
 import {
   dayBefore,
   sleeping,
