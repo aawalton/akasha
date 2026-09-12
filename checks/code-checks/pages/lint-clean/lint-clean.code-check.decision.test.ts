@@ -123,6 +123,26 @@ test("a path the linter could not open is no finding in that path", () => {
   )
 })
 
+test("a page that can go while the linter walks is judged by nothing", () => {
+  const at = "/held/akasha/mortal/pages/one.ts"
+  const went = { path: at, line: 0, column: 0, rule: UNREAD, said: "No such file" }
+  const inside = { path: at, line: 3, column: 1, rule: RULE, said: "This is unused." }
+  const outside = {
+    path: "/held/akasha/one.ts",
+    line: 12,
+    column: 7,
+    rule: RULE,
+    said: "This is unused.",
+  }
+  const looked = { code: 1, errors: 3, found: [went, inside, outside], failed: null }
+
+  const judged = judgedOf(looked, "akasha/one.ts", "/held", "the tree", ["akasha/mortal/pages"])
+
+  expect(judged.length).toBe(1)
+  expect(judged[0]?.path).toBe("/held/akasha/one.ts")
+  expect(judged[0]?.threw).toBe(undefined)
+})
+
 test("every path the linter could not open is answered as one run that fell short", () => {
   const missing = (path: string) => ({
     path,

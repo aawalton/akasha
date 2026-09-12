@@ -97,6 +97,22 @@ export const lintClean = {
     },
     {
       invariantKind: "departure",
+      statement: "A page that can go while the tree is read is judged by no reading of the tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The pages that can go are the pages of every page type stating it is mortal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which folders those are is read from the page types rather than named here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The mirror a change is judged in judges those pages as it judges any other.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An audit reads no body to find which files the linter reads.",
     },
     {

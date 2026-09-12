@@ -99,7 +99,8 @@ export function judgedOf(
   linted: Linted,
   first: string,
   root: string,
-  named: string = MIRROR
+  named: string = MIRROR,
+  skips: readonly string[] = []
 ): readonly Judged[] {
   if (linted.failed !== null) {
     const stopped = `${outsideOf(linted.failed, root, named)}. ${UNLOOKED}`
@@ -108,8 +109,10 @@ export function judgedOf(
   const judged: Judged[] = []
   const went: string[] = []
   for (const one of linted.found) {
+    const at = outsideOf(one.path, root, named)
+    if (!lookedAt(at, null, skips)) continue
     if (one.rule === UNREAD) {
-      went.push(outsideOf(one.path, root, named))
+      went.push(at)
       continue
     }
     judged.push({ path: one.path, reason: outsideOf(reasonOf(one), root, named) })
