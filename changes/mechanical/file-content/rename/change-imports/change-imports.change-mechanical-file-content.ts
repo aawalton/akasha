@@ -65,6 +65,11 @@ export const changeImports = {
     {
       invariantKind: "departure",
       statement:
+        "A run that is a path this repository has names that path rather than an ending of it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A specifier naming a package other than the root is left as it is whatever moved.",
     },
     {

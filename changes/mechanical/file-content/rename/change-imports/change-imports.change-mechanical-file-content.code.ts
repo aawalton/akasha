@@ -34,6 +34,24 @@ const NOTHING_MOVED: Readonly<Record<string, string>> = {}
 
 export type Landing = (path: string) => string | null
 
+export type Known = (path: string) => boolean
+
+const NAMED = new WeakMap<World, ReadonlySet<string>>()
+
+function namesIn(world: World): ReadonlySet<string> {
+  const held = NAMED.get(world)
+  if (held !== undefined) return held
+  const made = new Set<string>()
+  for (const path of world.index.everyPath()) {
+    made.add(path)
+    for (let at = path.indexOf(UNDER); at >= 0; at = path.indexOf(UNDER, at + 1)) {
+      made.add(path.slice(0, at))
+    }
+  }
+  NAMED.set(world, made)
+  return made
+}
+
 function stemOf(path: string): string {
   const name = basename(path)
   const tail = extname(name)
@@ -86,12 +104,24 @@ function nextFor(
   return specifier ? endedAs(said, specifierFor(dir, landed)) : null
 }
 
-function withinFor(was: string, dir: string, said: string, landing: Landing): string | null {
-  const splices = runsFor(was, dir, said, landing)
+function withinFor(
+  was: string,
+  dir: string,
+  said: string,
+  landing: Landing,
+  known: Known
+): string | null {
+  const splices = runsFor(was, dir, said, landing, known)
   return splices.length === 0 ? null : putOver(said, splices)
 }
 
-export function changeImports(was: string, now: string, text: string, landing: Landing): Said {
+export function changeImports(
+  was: string,
+  now: string,
+  text: string,
+  landing: Landing,
+  known: Known
+): Said {
   const dir = dirname(now)
   const specifier = new Set(placedIn(now, text).map((one) => one.start))
   const splices: Splice[] = []
@@ -99,7 +129,7 @@ export function changeImports(was: string, now: string, text: string, landing: L
     const held = specifier.has(one.start)
     const next =
       nextFor(was, now, dir, one.text, landing, held) ??
-      (held ? null : withinFor(was, dir, one.text, landing))
+      (held ? null : withinFor(was, dir, one.text, landing, known))
     if (next === null || next === one.text) continue
     splices.push({ from: one.start, to: one.end, put: JSON.stringify(next) })
   }
@@ -125,11 +155,17 @@ function nearFor(was: string, dir: string, run: string, landing: Landing): Point
   return { at: 0, said: run, put: endedAs(run, specifierFor(dir, there)) }
 }
 
-function anchoredFor(run: string, said: readonly string[], landing: Landing): Pointed | null {
+function anchoredFor(
+  run: string,
+  said: readonly string[],
+  landing: Landing,
+  known: Known
+): Pointed | null {
   if (RELATIVE.test(run)) return null
   for (const one of said) {
     const there = landing(one)
     if (there !== null) return { at: run.length - one.length, said: one, put: there }
+    if (known(one)) return null
   }
   return null
 }
@@ -154,7 +190,13 @@ function putOver(text: string, splices: readonly Splice[]): string {
   return `${put}${text.slice(at)}`
 }
 
-function runsFor(was: string, dir: string, text: string, landing: Landing): readonly Splice[] {
+function runsFor(
+  was: string,
+  dir: string,
+  text: string,
+  landing: Landing,
+  known: Known
+): readonly Splice[] {
   const lines = text.split(LINES)
   const opens = openingsIn(lines)
   const splices: Splice[] = []
@@ -172,7 +214,7 @@ function runsFor(was: string, dir: string, text: string, landing: Landing): read
     const found = line.indexOf(whole, cursor)
     if (found < 0) continue
     cursor = found + whole.length
-    const held = nearFor(was, dir, whole, landing) ?? anchoredFor(whole, run.said, landing)
+    const held = nearFor(was, dir, whole, landing) ?? anchoredFor(whole, run.said, landing, known)
     if (held === null || held.put === held.said) continue
     const from = open + found + held.at
     splices.push({ from, to: from + held.said.length, put: held.put })
@@ -180,8 +222,14 @@ function runsFor(was: string, dir: string, text: string, landing: Landing): read
   return splices
 }
 
-export function changeRuns(was: string, now: string, text: string, landing: Landing): Said {
-  return stating(splicing(now, text, runsFor(was, dirname(now), text, landing)))
+export function changeRuns(
+  was: string,
+  now: string,
+  text: string,
+  landing: Landing,
+  known: Known
+): Said {
+  return stating(splicing(now, text, runsFor(was, dirname(now), text, landing, known)))
 }
 
 export type Carried = {
@@ -216,6 +264,10 @@ export function runChange(world: World, given: Given): Said {
   if (notText(held)) return stating([])
   if (held === null) return refusing(`\`${given.now}\` holds no body, so nothing is repointed`)
   const landing = landingFor(given)
-  if (CODE.has(extname(given.now))) return changeImports(given.was, given.now, held, landing)
-  return changeRuns(given.was, given.now, held, landing)
+  const names = namesIn(world)
+  const known: Known = (path) => names.has(path)
+  if (CODE.has(extname(given.now))) {
+    return changeImports(given.was, given.now, held, landing, known)
+  }
+  return changeRuns(given.was, given.now, held, landing, known)
 }

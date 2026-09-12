@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   changeImports,
   changeRuns,
+  type Known,
   type Landing,
   runChange,
 } from "akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
@@ -65,8 +66,10 @@ function by(moved: ReadonlyMap<string, string>): Landing {
   return (path) => moved.get(path) ?? null
 }
 
+const KNOWN: Known = () => false
+
 function ranOn(was: string, now: string, text: string, moved: ReadonlyMap<string, string>): Answer {
-  return gathered([changeImports(was, now, text, by(moved))])
+  return gathered([changeImports(was, now, text, by(moved), KNOWN)])
 }
 
 function bodyIn(
@@ -90,14 +93,14 @@ test("a body naming nothing that moved is answered as no edit", () => {
 })
 
 test("a body that does not move states a replace rather than a move", () => {
-  const said = changeImports(HOLDER, HOLDER, CODE, by(new Map([[TARGET, ARRIVES]])))
+  const said = changeImports(HOLDER, HOLDER, CODE, by(new Map([[TARGET, ARRIVES]])), KNOWN)
 
   expect(said.edits).toHaveLength(1)
   expect(said.edits[0]).toMatchObject({ kind: "replace", path: HOLDER })
 })
 
 test("the passage a repointed import names is the line rather than the body", () => {
-  const said = changeImports(HOLDER, HOLDER, CODE, by(new Map([[TARGET, ARRIVES]])))
+  const said = changeImports(HOLDER, HOLDER, CODE, by(new Map([[TARGET, ARRIVES]])), KNOWN)
   const one = said.edits[0]
 
   expect(one?.kind === "replace" && one.contentFrom).toBe(
@@ -141,7 +144,7 @@ test("a body moving under the name it has keeps the types specifier it already s
   const now = "akasha/one/routes/under/keep.ts"
   const text = `import type { Route } from "./+types/keep"\n`
 
-  const said = changeImports(was, now, text, by(new Map([[was, now]])))
+  const said = changeImports(was, now, text, by(new Map([[was, now]])), KNOWN)
 
   expect(said.edits).toEqual([])
 })
@@ -149,7 +152,7 @@ test("a body moving under the name it has keeps the types specifier it already s
 test("a specifier naming a package is left alone though the file it reaches moved", () => {
   const text = `import { other } from "${ALIAS}"\n\nexport const held = other\n`
 
-  const said = changeImports(HOLDER, HOLDER, text, by(new Map([[TARGET, ARRIVES]])))
+  const said = changeImports(HOLDER, HOLDER, text, by(new Map([[TARGET, ARRIVES]])), KNOWN)
 
   expect(said.edits).toEqual([])
 })
@@ -157,7 +160,7 @@ test("a specifier naming a package is left alone though the file it reaches move
 test("a package name a body spells outside an import is left alone too", () => {
   const text = `export const at = "${ALIAS}"\n`
 
-  const said = changeImports(TABLE, TABLE, text, by(new Map([[TARGET, ARRIVES]])))
+  const said = changeImports(TABLE, TABLE, text, by(new Map([[TARGET, ARRIVES]])), KNOWN)
 
   expect(said.edits).toEqual([])
 })
@@ -186,7 +189,7 @@ function ranOverRuns(
   text: string,
   moved: ReadonlyMap<string, string>
 ): Answer {
-  return gathered([changeRuns(was, now, text, by(moved))])
+  return gathered([changeRuns(was, now, text, by(moved), KNOWN)])
 }
 
 function runBodyIn(
@@ -357,5 +360,16 @@ test("a specifier spelled from the root under the folder that moved follows it",
 
   expect(carriedBody(TABLE, text)).toBe(
     `import { one } from "akasha/code/one/one.module.code.ts"\n`
+  )
+})
+
+const BESIDE = "held/code-system/one.module.code.ts"
+
+test("a run that is a path this repository has is left alone though its ending moved", () => {
+  const text = `export const at = "${BESIDE}"\n`
+  const world = worldOf({ [TABLE]: text, [BESIDE]: `export const one = 1\n` })
+
+  expect(gathered([runChange(world, { was: TABLE, now: TABLE, carried: MOVING })]).edits).toEqual(
+    []
   )
 })
