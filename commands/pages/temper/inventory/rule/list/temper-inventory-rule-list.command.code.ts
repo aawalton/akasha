@@ -2,7 +2,7 @@ import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { temperInventoryRuleList as page } from "akasha/commands/pages/temper/inventory/rule/list/temper-inventory-rule-list.command.ts"
 import {
-  answeredWith,
+  answeredByPage,
   categoryRow,
   settingsOf,
   toldOf,
@@ -52,7 +52,7 @@ export async function temperInventoryRuleList(
   argv: readonly string[],
   given: Given
 ): Promise<Answer> {
-  return await answeredWith(argv, given.calledAs, page, [json], (taken) =>
+  return await answeredByPage(argv, given.calledAs, page, [json], (taken) =>
     withControlled(taken.json)
   )
 }

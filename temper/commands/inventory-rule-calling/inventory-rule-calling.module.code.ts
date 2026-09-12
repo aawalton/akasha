@@ -358,7 +358,7 @@ export async function answeredCall(
   return await answering(() => act(read.said, read.id ?? ""))
 }
 
-export async function answeredWith<Page extends Commanding, Pages extends readonly Argument[]>(
+export async function answeredByPage<Page extends Commanding, Pages extends readonly Argument[]>(
   argv: readonly string[],
   calledAs: string,
   page: Page,

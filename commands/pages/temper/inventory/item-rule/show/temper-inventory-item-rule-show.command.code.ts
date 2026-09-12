@@ -3,7 +3,7 @@ import { tsv } from "akasha/commands/arguments/pages/tsv.argument.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { temperInventoryItemRuleShow as page } from "akasha/commands/pages/temper/inventory/item-rule/show/temper-inventory-item-rule-show.command.ts"
 import {
-  answeredWith,
+  answeredByPage,
   shownRule,
 } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 
@@ -11,7 +11,7 @@ export async function temperInventoryItemRuleShow(
   argv: readonly string[],
   given: Given
 ): Promise<Answer> {
-  return await answeredWith(argv, given.calledAs, page, [tsv, itemRuleId], (taken) =>
+  return await answeredByPage(argv, given.calledAs, page, [tsv, itemRuleId], (taken) =>
     shownRule("item", taken.itemRuleId, taken.tsv)
   )
 }
