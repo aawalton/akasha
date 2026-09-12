@@ -30,7 +30,7 @@ const ESO_DOC_FLAG = "--eso-doc"
 
 const JSON_FLAG = "--json"
 
-export function temperEsoTypingsAudit(argv: readonly string[] = []): Answer {
+export function temperEsoDeclarationAudit(argv: readonly string[] = []): Answer {
   const namedRepo = saidFor(argv, CODE_ROOT_FLAG)
   const givenRepo = namedRepo === undefined ? codeRoot() : resolve(namedRepo)
   let repoRoot: string
