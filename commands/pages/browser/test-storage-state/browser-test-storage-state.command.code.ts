@@ -62,12 +62,15 @@ export async function exportBrowserTestStorageState(
   const client = createClient(env.supabaseUrl, env.supabaseAnonKey)
   let signIn = await signInWithPassword(client, env.email, env.password)
   if (healable(env.email, signIn.error)) {
-    await ensureThrowawayUser({
-      email: env.email,
-      password: env.password,
-      resetPassword: true,
-      acknowledgeCanonicalRotation: true,
-    })
+    await ensureThrowawayUser(
+      {
+        email: env.email,
+        password: env.password,
+        resetPassword: true,
+        acknowledgeCanonicalRotation: true,
+      },
+      done
+    )
     done.push(
       `the password ${env.email} carries was refused, and it is the throwaway user, so it was ` +
         "set to the one the environment states and tried once more"

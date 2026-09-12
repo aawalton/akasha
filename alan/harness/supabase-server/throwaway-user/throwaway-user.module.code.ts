@@ -55,8 +55,17 @@ interface EnsureThrowawayUserOptions {
   readonly acknowledgeCanonicalRotation?: boolean
 }
 
+export function rotatedSaid(email: string): string {
+  return `the password ${email} signs in with, rotated at Supabase`
+}
+
+export function mintedSaid(email: string): string {
+  return `${email}, a user made at Supabase, which nothing here takes away again`
+}
+
 export async function ensureThrowawayUser(
-  options: EnsureThrowawayUserOptions
+  options: EnsureThrowawayUserOptions,
+  done: string[] = []
 ): Promise<EnsureThrowawayUserResult> {
   const client = createServiceRoleClient()
 
@@ -77,6 +86,7 @@ export async function ensureThrowawayUser(
     const password = options.password ?? generatePassword()
     const upd = await client.auth.admin.updateUserById(existing.id, { password })
     if (upd.error) throw new Error(`ensure-user: updateUserById failed: ${upd.error.message}`)
+    done.push(rotatedSaid(options.email))
     return {
       userId: existing.id,
       email: options.email,
@@ -93,6 +103,7 @@ export async function ensureThrowawayUser(
     email_confirm: true,
   })
   if (created.error) throw new Error(`ensure-user: createUser failed: ${created.error.message}`)
+  done.push(mintedSaid(options.email))
   const user = created.data.user
   if (!user) throw new Error("ensure-user: createUser returned no user")
   assertCredentialPathAllowed({ resolvedUserId: user.id })

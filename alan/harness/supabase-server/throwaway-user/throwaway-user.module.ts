@@ -32,6 +32,18 @@ export const throwawayUser = {
       statement: "A user outside the paths credentials are allowed for is refused.",
     },
     {
+      invariantKind: "departure",
+      statement: "A user made is named before the check that can refuse it, which comes after.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A password rotated is named as soon as Supabase has taken it.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "The password itself is never named, only that one was rotated.",
+    },
+    {
       invariantKind: "absence",
       statement: "No password reaches a browser from here.",
     },
