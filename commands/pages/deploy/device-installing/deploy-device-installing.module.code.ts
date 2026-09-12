@@ -23,6 +23,7 @@ import type {
 } from "akasha/alan/harness/mobile-cli/mobile-ssh/mobile-ssh.module.code.ts"
 import { runSshResult } from "akasha/alan/harness/mobile-cli/mobile-ssh/mobile-ssh.module.code.ts"
 import {
+  answeredWith,
   answering,
   OPERATIONAL,
   refusedBy,
@@ -117,21 +118,17 @@ async function deployed(
     ...done,
   ]
   if (said.code !== 0) {
-    return {
-      report,
-      refusals: [`the run on ${MACBOOK.host} exited ${said.code}`],
-      code: OPERATIONAL,
-    }
+    return answeredWith(report, [`the run on ${MACBOOK.host} exited ${said.code}`], OPERATIONAL)
   }
   if (!said.stdout.includes(BUILT)) {
-    return { report, refusals: [`xcodebuild did not report \`${BUILT}\``], code: OPERATIONAL }
+    return answeredWith(report, [`xcodebuild did not report \`${BUILT}\``], OPERATIONAL)
   }
   if (!said.stdout.includes(INSTALLED)) {
-    return {
+    return answeredWith(
       report,
-      refusals: [`the install did not report \`${INSTALLED}\`, so nothing reached the phone`],
-      code: OPERATIONAL,
-    }
+      [`the install did not report \`${INSTALLED}\`, so nothing reached the phone`],
+      OPERATIONAL
+    )
   }
   return told(report)
 }
