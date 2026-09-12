@@ -9,7 +9,7 @@ import {
   followFolders,
   followWithin,
   movedBetween,
-} from "akasha/infrastructure/services/workstations/file-following/file-following.module.code.ts"
+} from "akasha/infrastructure/services/workstations/modules/file-following/file-following.module.code.ts"
 
 const ROOT = mkdtempSync("/var/tmp/file-following-")
 

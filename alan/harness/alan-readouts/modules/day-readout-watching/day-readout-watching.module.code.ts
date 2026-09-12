@@ -50,7 +50,7 @@ import {
 } from "akasha/alan/harness/surplus/reading/surplus-reading.module.code.ts"
 import { openedDayOf } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
 import { DAY_PAGE_TYPE } from "akasha/alan/track/daily/modules/day-place/day-place.module.code.ts"
-import { followFolders } from "akasha/infrastructure/services/workstations/file-following/file-following.module.code.ts"
+import { followFolders } from "akasha/infrastructure/services/workstations/modules/file-following/file-following.module.code.ts"
 import { keepBeat } from "akasha/infrastructure/services/workstations/service-beating/service-beating.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {

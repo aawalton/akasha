@@ -1,4 +1,3 @@
-import { isFileBacked } from "akasha/pages/access/file-backed-roster/file-backed-roster.module.code.ts"
 import {
   type FileReadDeps,
   getFilePages,
@@ -8,6 +7,7 @@ import {
   pageTypeSlugById,
 } from "akasha/pages/access/file-shape/file-shape.module.code.ts"
 import { shapelessWhy, unfiledWhy } from "akasha/pages/access/get/get.module.code.ts"
+import { isFileBacked } from "akasha/pages/access/modules/file-backed-roster/file-backed-roster.module.code.ts"
 import type { PageCursor, PageOrder } from "akasha/pages/access/types/types.module.code.ts"
 import type { Page, PageWhere } from "akasha/pages/core/page-types/page-types.module.code.ts"
 

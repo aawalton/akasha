@@ -1,6 +1,6 @@
 import { realpathSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
-import { typeScripted } from "akasha/code/file-kind/file-kind.module.code.ts"
+import { typeScripted } from "akasha/code/modules/file-kind/file-kind.module.code.ts"
 import { calledIn } from "akasha/code/package-manifest/package-manifest.module.code.ts"
 import { stamped, writtenTo } from "akasha/code/typing-keeping/typing-keeping.module.code.ts"
 import { sha256Hex } from "akasha/utils/hashing/sha256-hex/sha256-hex.module.code.ts"

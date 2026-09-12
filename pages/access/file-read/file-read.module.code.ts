@@ -1,4 +1,10 @@
-import { fileBackedPageTypes } from "akasha/pages/access/file-backed-roster/file-backed-roster.module.code.ts"
+import { buildRawPageRows } from "akasha/pages/access/file-rows/file-rows.module.code.ts"
+import {
+  type CursorPayload,
+  decodeCursor,
+  encodeCursor,
+} from "akasha/pages/access/modules/cursor/cursor.module.code.ts"
+import { fileBackedPageTypes } from "akasha/pages/access/modules/file-backed-roster/file-backed-roster.module.code.ts"
 import {
   askableNarrows,
   declaredAs,
@@ -7,13 +13,7 @@ import {
   matches,
   narrowing,
   ranked,
-} from "akasha/pages/access/file-narrow/file-narrow.module.code.ts"
-import { buildRawPageRows } from "akasha/pages/access/file-rows/file-rows.module.code.ts"
-import {
-  type CursorPayload,
-  decodeCursor,
-  encodeCursor,
-} from "akasha/pages/access/modules/cursor/cursor.module.code.ts"
+} from "akasha/pages/access/modules/file-narrow/file-narrow.module.code.ts"
 import type { PropertyDefinition } from "akasha/pages/access/page-type-config/page-type-config.module.code.ts"
 import { flattenRow } from "akasha/pages/access/routing-core/routing-core.module.code.ts"
 import type {

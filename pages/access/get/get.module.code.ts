@@ -1,4 +1,3 @@
-import { isFileBacked } from "akasha/pages/access/file-backed-roster/file-backed-roster.module.code.ts"
 import type { FileReadShape } from "akasha/pages/access/file-read/file-read.module.code.ts"
 import {
   getFilePage,
@@ -8,6 +7,7 @@ import {
   pickOne,
 } from "akasha/pages/access/file-read/file-read.module.code.ts"
 import { fileShapeOf } from "akasha/pages/access/file-shape/file-shape.module.code.ts"
+import { isFileBacked } from "akasha/pages/access/modules/file-backed-roster/file-backed-roster.module.code.ts"
 import { applySelect } from "akasha/pages/access/routing-core/routing-core.module.code.ts"
 import type {
   PageCursor,

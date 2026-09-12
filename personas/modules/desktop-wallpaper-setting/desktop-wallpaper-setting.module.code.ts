@@ -1,7 +1,7 @@
 import { existsSync } from "node:fs"
 import { homedir } from "node:os"
 import { dirname, isAbsolute, join } from "node:path"
-import { followWithin } from "akasha/infrastructure/services/workstations/file-following/file-following.module.code.ts"
+import { followWithin } from "akasha/infrastructure/services/workstations/modules/file-following/file-following.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { everyOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"

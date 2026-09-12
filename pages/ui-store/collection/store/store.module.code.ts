@@ -1,11 +1,5 @@
 import type { Collection } from "@tanstack/db"
-import { RosterUnreachable } from "akasha/pages/access/file-backed-roster/file-backed-roster.module.code.ts"
-import {
-  type PageTypeBacking,
-  type RosterAnswer,
-  type RosterReader,
-  rosterOverFetch,
-} from "akasha/pages/ui-store/collection/file-backing/file-backing.module.code.ts"
+import { RosterUnreachable } from "akasha/pages/access/modules/file-backed-roster/file-backed-roster.module.code.ts"
 import {
   applyIdentityChange,
   decideIdentityChange,
@@ -30,6 +24,12 @@ import {
   type FetchImpl,
   FILE_BACKING_POLL_MS,
 } from "akasha/pages/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts"
+import {
+  type PageTypeBacking,
+  type RosterAnswer,
+  type RosterReader,
+  rosterOverFetch,
+} from "akasha/pages/ui-store/collection/modules/file-backing/file-backing.module.code.ts"
 import {
   asPageRowList,
   type PageRow,

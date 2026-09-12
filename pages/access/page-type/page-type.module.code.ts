@@ -1,4 +1,3 @@
-import { isFileBacked } from "akasha/pages/access/file-backed-roster/file-backed-roster.module.code.ts"
 import {
   createFilePage,
   patchFilePages,
@@ -6,6 +5,7 @@ import {
 } from "akasha/pages/access/file-write/file-write.module.code.ts"
 import { getPages } from "akasha/pages/access/get/get.module.code.ts"
 import { validateTemperTitlePrefix } from "akasha/pages/access/modules/domain-title-prefix/domain-title-prefix.module.code.ts"
+import { isFileBacked } from "akasha/pages/access/modules/file-backed-roster/file-backed-roster.module.code.ts"
 import { validateSlugReserved } from "akasha/pages/access/reserved-slugs/reserved-slugs.module.code.ts"
 import type { JsonPatch, PageSelect } from "akasha/pages/access/types/types.module.code.ts"
 import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"

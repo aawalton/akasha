@@ -25,7 +25,7 @@ import {
   dirsOf,
   followFolders,
   followWithin,
-} from "akasha/infrastructure/services/workstations/file-following/file-following.module.code.ts"
+} from "akasha/infrastructure/services/workstations/modules/file-following/file-following.module.code.ts"
 import {
   everyOfType,
   indexNamed,
