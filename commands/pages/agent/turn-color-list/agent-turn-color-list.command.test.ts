@@ -1,6 +1,10 @@
 import { expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync } from "node:fs"
 import { dirname, join } from "node:path"
+import {
+  colorIn,
+  WORKING_PAGE,
+} from "akasha/agents/seats/modules/turn-color/seat-turn-color.module.test-fixtures.ts"
 import { turnState } from "akasha/commands/arguments/pages/turn-state.argument.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { ROOT_NAMED } from "akasha/commands/modules/rooting/rooting.module.code.ts"
@@ -11,10 +15,6 @@ import {
   statedAs,
   wrongIn,
 } from "akasha/commands/pages/agent/turn-color-list/agent-turn-color-list.command.code.ts"
-import {
-  colorIn,
-  WORKING_PAGE,
-} from "akasha/seat-system/seat-turn-color/seat-turn-color.module.test-fixtures.ts"
 import type { SeatTurnState } from "akasha/seat-system/seat-turn-state/seat-turn-state.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { z } from "zod"

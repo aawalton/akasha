@@ -1,6 +1,10 @@
 import { afterEach, describe, expect, test } from "bun:test"
 import { mkdirSync } from "node:fs"
 import { dirname, join } from "node:path"
+import {
+  colorIn,
+  WORKING_PAGE,
+} from "akasha/agents/seats/modules/turn-color/seat-turn-color.module.test-fixtures.ts"
 import { askIn } from "akasha/code/editor/extension/command-server/command-server.module.code.ts"
 import {
   askServed,
@@ -11,10 +15,6 @@ import {
   servingFrom,
 } from "akasha/code/editor/extension/command-server-client/command-server-client.module.code.ts"
 import { LEASE_ENV } from "akasha/code/editor/extension/harness-wire/harness-wire.module.code.ts"
-import {
-  colorIn,
-  WORKING_PAGE,
-} from "akasha/seat-system/seat-turn-color/seat-turn-color.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { z } from "zod"
 

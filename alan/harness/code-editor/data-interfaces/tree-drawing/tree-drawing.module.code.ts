@@ -5,6 +5,7 @@ import {
   forestOver,
   NOW,
 } from "akasha/agents/seats/modules/forest-reading/seat-forest-reading.module.code.ts"
+import { colorOfState } from "akasha/agents/seats/modules/turn-color/seat-turn-color.module.code.ts"
 import { assembleCommandTree } from "akasha/alan/harness/code-editor/data-interfaces/command-tree-assemble/command-tree-assemble.module.code.ts"
 import { assemblePageTree } from "akasha/alan/harness/code-editor/data-interfaces/page-tree-assemble/page-tree-assemble.module.code.ts"
 import {
@@ -19,7 +20,6 @@ import type { SubagentNode } from "akasha/code/editor/extension/subagent-reading
 import { treeIn } from "akasha/commands/pages/initiative/work-tree/initiative-work-tree.command.code.ts"
 import { pageAnswers } from "akasha/commands/pages/page/tree/page-tree.command.code.ts"
 import { domainRowsIn } from "akasha/domains/modules/rows/domain-rows.module.code.ts"
-import { colorOfState } from "akasha/seat-system/seat-turn-color/seat-turn-color.module.code.ts"
 
 function wholePath(root: string, at: string | null | undefined): string | null {
   if (at === undefined || at === null || at === "") return null

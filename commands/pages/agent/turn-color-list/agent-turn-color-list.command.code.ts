@@ -1,3 +1,4 @@
+import { colorOfState } from "akasha/agents/seats/modules/turn-color/seat-turn-color.module.code.ts"
 import { colorsOf } from "akasha/agents/turn-drawn/agent-turn-drawn.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { agent as agentArgument } from "akasha/commands/arguments/pages/agent.argument.ts"
@@ -6,7 +7,6 @@ import { faulted, told } from "akasha/commands/modules/answering/command-answeri
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { agentTurnColorList as page } from "akasha/commands/pages/agent/turn-color-list/agent-turn-color-list.command.ts"
-import { colorOfState } from "akasha/seat-system/seat-turn-color/seat-turn-color.module.code.ts"
 import {
   SEAT_TURN_STATES,
   type SeatTurnState,

@@ -1,6 +1,6 @@
 import { initiativeOf } from "akasha/agents/seats/modules/initiative/seat-initiative.module.code.ts"
 import { seatPageAgents } from "akasha/agents/seats/modules/presence-read/seat-presence-read.module.code.ts"
-import { colorOfState } from "akasha/seat-system/seat-turn-color/seat-turn-color.module.code.ts"
+import { colorOfState } from "akasha/agents/seats/modules/turn-color/seat-turn-color.module.code.ts"
 import {
   SEAT_TURN_STATES,
   type SeatTurnState,
