@@ -36,11 +36,6 @@ export const athenaCommandTree = {
         "`checks/code-checks/pages/command-is-in-the-right-folder/` is the only check over the tree, and every invariant on it is a folder rule. Nothing judges that a slug is its path hyphenated, that a name carries no ancestor's name, or that a namespace holds more than one part. `commands/namespaces/namespace.page-type.ts:18,23` state the slug-opens-with-the-parent rule and only the folder check reads it. Alan approved one check absorbing these and the tree checks there are.\n",
     },
     {
-      statement: "A command's definition says what that command does.",
-      workingMemory:
-        "172 of 227 command pages open `the command `, so 55 depart: `google-calendar-events-get.command.ts:8` opens `the act answering`, `change-list.command.ts:8` is a bare noun phrase. `page-tree.command.ts:8` describes what the command is given rather than what it does, and its help says it prints `types`, `properties` and `propertyTypes`, which is no tree. That one line is the whole right column of every listing, drawn by `toldOf` at `calling.module.code.ts:207-219`.\n",
-    },
-    {
       statement:
         "Every name in the command tree is singular; how many a command answers is no part of its name.",
       workingMemory:
