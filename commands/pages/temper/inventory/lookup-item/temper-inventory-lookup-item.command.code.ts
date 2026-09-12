@@ -34,6 +34,12 @@ const INVENTORY_LUA = "TemperInventory.lua"
 
 const MASTER = "master"
 
+const NOT_CAPTURED = "not captured"
+
+function boolSaid(held: boolean | undefined): string {
+  return held === undefined ? NOT_CAPTURED : String(held)
+}
+
 type Classification =
   | { readonly kind: "recipe"; readonly resultItemId: number }
   | { readonly kind: "script"; readonly scriptId: number }
@@ -75,6 +81,8 @@ function jsonOf(
     itemName: match?.itemName ?? null,
     classification: classification.kind,
     categoryNodeIds,
+    junk: match?.junk ?? null,
+    junkable: match?.junkable ?? null,
   }
   if (classification.kind === "recipe") {
     return { ...base, recipeResultItemId: classification.resultItemId }
@@ -102,6 +110,8 @@ export function rowsOf(
     `itemName\t${match?.itemName ?? ""}`,
     `classification\t${classification.kind}`,
     `categoryNodeIds\t${JSON.stringify(categoryNodeIds)}`,
+    `junk\t${boolSaid(match?.junk)}`,
+    `junkable\t${boolSaid(match?.junkable)}`,
   ]
   if (classification.kind === "recipe") {
     lines.push(`recipeResultItemId\t${classification.resultItemId}`)

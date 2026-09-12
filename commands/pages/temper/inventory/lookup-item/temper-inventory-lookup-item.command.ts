@@ -16,6 +16,14 @@ export const temperInventoryLookupItem = {
       invariantKind: "departure",
       statement: "An item the capture does not hold refuses the call.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Both the junk the game holds and the junk the game would allow are said.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A capture recording neither says `not captured` rather than saying false.",
+    },
   ],
   name: "lookup-item",
   arguments: [
