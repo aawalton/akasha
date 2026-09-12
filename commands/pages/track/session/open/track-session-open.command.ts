@@ -68,7 +68,7 @@ export const trackSessionOpen = {
     { argument: "argument/day" },
     { argument: "argument/safety" },
     { argument: "argument/difficulty" },
-    { argument: "argument/title" },
+    { argument: "argument/title", required: true },
     { argument: "argument/at" },
     { argument: "argument/relationship", repeats: true },
   ],

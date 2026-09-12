@@ -80,9 +80,9 @@ export const trackSessionLog = {
     { argument: "argument/day" },
     { argument: "argument/safety" },
     { argument: "argument/difficulty" },
-    { argument: "argument/title" },
+    { argument: "argument/title", required: true },
     { argument: "argument/stretch-start" },
-    { argument: "argument/stretch-end" },
+    { argument: "argument/stretch-end", required: true },
     { argument: "argument/relationship", repeats: true },
   ],
 } as const satisfies Command

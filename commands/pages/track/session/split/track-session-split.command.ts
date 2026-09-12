@@ -93,7 +93,7 @@ export const trackSessionSplit = {
   arguments: [
     { argument: "argument/dry-run" },
     { argument: "argument/day" },
-    { argument: "argument/at" },
+    { argument: "argument/at", required: true },
     { argument: "argument/id" },
     { argument: "argument/open" },
     { argument: "argument/last" },

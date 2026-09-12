@@ -102,7 +102,7 @@ export const trackSessionFile = {
   arguments: [
     { argument: "argument/dry-run" },
     { argument: "argument/day" },
-    { argument: "argument/from-file" },
+    { argument: "argument/from-file", required: true },
     { argument: "argument/relationship", repeats: true },
   ],
 } as const satisfies Command
