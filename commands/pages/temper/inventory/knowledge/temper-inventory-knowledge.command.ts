@@ -19,12 +19,16 @@ export const temperInventoryKnowledge = {
     },
     { said: "--json", takes: "give the answer as JSON rather than as tab-separated rows" },
   ],
-  helpNotes: [
-    "an item key is `recipe:<resultItemId>`, `motif:<styleId>:<chapterId>` or `script:<scriptId>`.",
-    "a motif chapter may be said as `master` rather than as a number.",
-    "naming an item key turns the whole answer into who knows it.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "An item key is `recipe:<resultItemId>`, `motif:<styleId>:<chapterId>` or `script:<scriptId>`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A motif key's chapter is a whole number or the word `master`.",
+    },
     {
       invariantKind: "departure",
       statement: "Naming an item key turns the answer into who knows that item.",
