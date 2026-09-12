@@ -10,7 +10,7 @@ import {
   OK,
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import {
@@ -37,8 +37,6 @@ import {
 import { ESO_OPT_IN } from "akasha/temper/eso-typings/eso-opt-in/eso-opt-in.module.code.ts"
 import { selectOptIn } from "akasha/temper/eso-typings/eso-token-scope/eso-token-scope.module.code.ts"
 
-const SELF = "akasha temper eso generate typings"
-
 const CODE_ROOT_FLAG = "--code-root"
 
 const OUT_REL = "temper/addons/types/eso/generated"
@@ -53,7 +51,10 @@ const INDEX_BODY = `/// <reference path="./enums.d.ts" />
 /// <reference path="./objects.d.ts" />
 `
 
-export async function temperEsoGenerateTypings(argv: readonly string[] = []): Promise<Answer> {
+export async function temperEsoGenerateTypings(
+  argv: readonly string[],
+  given: Given
+): Promise<Answer> {
   const named = saidFor(argv, CODE_ROOT_FLAG)
 
   let root: string
@@ -99,7 +100,7 @@ export async function temperEsoGenerateTypings(argv: readonly string[] = []): Pr
     ESO_OPT_IN
   )
 
-  const stamp = esoCloneHeaderLines(SELF, apiVersion)
+  const stamp = esoCloneHeaderLines(given.calledAs, apiVersion)
     .map((line) => `// ${line}`)
     .join("\n")
   const stamped = (body: string): string => `${stamp}\n${body}`
