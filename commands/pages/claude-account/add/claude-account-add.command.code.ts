@@ -57,6 +57,10 @@ export function wrongIn(
   return wrong
 }
 
+function said(value: string): string {
+  return JSON.stringify(value)
+}
+
 export function pageTextFor(
   account: string,
   email: string,
@@ -66,14 +70,14 @@ export function pageTextFor(
   importFrom: string
 ): string {
   return [
-    `import type { ClaudeAccount } from "${importFrom}"`,
+    `import type { ClaudeAccount } from ${said(importFrom)}`,
     ``,
     `export const ${exportedAs(account)} = {`,
-    `  id: "${id}",`,
-    `  type: "${pageTypeSlug}",`,
-    `  slug: "${account}",`,
-    `  email: "${email}",`,
-    `  aliasIndex: ${aliasIndex},`,
+    `  id: ${said(id)},`,
+    `  type: ${said(pageTypeSlug)},`,
+    `  slug: ${said(account)},`,
+    `  email: ${said(email)},`,
+    `  aliasIndex: ${String(aliasIndex)},`,
     `} as const satisfies ClaudeAccount`,
     ``,
   ].join("\n")

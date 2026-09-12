@@ -58,6 +58,14 @@ export const claudeAccountAdd = {
       statement: "The change adding a file writes the page rather than an edit composed here.",
     },
     {
+      invariantKind: "constraint",
+      statement: "A page composed here parses whatever characters the address carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every text written into the page is written as a quoted literal is.",
+    },
+    {
       invariantKind: "departure",
       statement: "A run that threw after the commit landed names that commit in its refusal.",
     },
