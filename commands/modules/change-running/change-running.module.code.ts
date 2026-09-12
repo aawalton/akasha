@@ -299,7 +299,7 @@ export async function appending(
     }
     const unread = owing ? unwarrantedFor(root, agentId, [...had, ...said.edits], said.edits) : []
     if (unread.length > 0) {
-      answer = { report: [], refusals: unread, code: 3 }
+      answer = mistaking(unread)
       return had
     }
     answer = {

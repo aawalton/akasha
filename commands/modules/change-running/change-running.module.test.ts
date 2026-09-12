@@ -426,7 +426,7 @@ test("a change whose writer owes reading asks the record before appending its ed
 
   const said = await appending(root, PAGE, null, true, async () => HELD)
 
-  expect(said.code).toBe(3)
+  expect(said.code).toBe(1)
   expect(said.refusals[0] ?? "").toContain("names no agent")
   expect(pathsIn(root)).toEqual([])
 })
