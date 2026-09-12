@@ -16,7 +16,7 @@ export const athenaCommandHelp = {
     {
       statement: "A command stating nothing taken answers the help flag rather than refusing it.",
       workingMemory:
-        "`taking.record-property.ts:22` says a command stating nothing here is handed the help flag to answer itself. Twelve state neither `taking` nor `arguments`. The six under `commands/pages/change/` do answer. The other six do not: `akasha seat start --help` refuses with `unknown flag: --help` and exits 1, and `measure-attribute`, `measure-persona`, `refresh-attribute`, `refresh-message` and `refresh-persona` are the same. Do those six answer, or state what they take?\n",
+        "The five that ignored `argv` and the one that refused now answer, in `5a7dc204b0f` through `718d429a17e`. Six are left, all under `akasha change`, and their code refuses the flag: `wordlessIn` at `change-arguing.module.code.ts:6` and `change-show.command.code.ts:92`. Three state `No taking is stated here.` as an invariant of their own, against `taking.record-property.ts:24`. Do those six state what they take, or does that property carve out a command reading what is piped in?",
     },
   ],
 } as const satisfies Initiative
