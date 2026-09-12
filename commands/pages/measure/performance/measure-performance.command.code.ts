@@ -1,7 +1,10 @@
 import { join } from "node:path"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { performance as performanceArgument } from "akasha/commands/arguments/pages/performance.argument.ts"
 import { faulted, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { measurePerformance as page } from "akasha/commands/pages/measure/performance/measure-performance.command.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt, slugsOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
@@ -12,30 +15,23 @@ const CODE = "code"
 
 const TS = "ts"
 
+const FLAG = "-"
+
 export const MEASURED = "measured"
 
 export type Measuring = (root: string) => Promise<readonly string[]>
 
-export type Read = { readonly slug: string } | { readonly refused: readonly string[] }
+export function nothingNamed(there: readonly string[]): string {
+  return `this names no performance — it carries ${namesDrawn(there)}`
+}
 
-export function readIn(argv: readonly string[], there: readonly string[]): Read {
-  const refusals: string[] = []
-  const named: string[] = []
-  for (const one of argv) {
-    if (one.startsWith("-")) refusals.push(`\`${one}\` is no flag this takes`)
-    else named.push(one)
-  }
-  const first = named[0]
-  if (first === undefined) {
-    return { refused: [...refusals, `this names no performance — it carries ${namesDrawn(there)}`] }
-  }
-  for (const one of named.slice(1)) {
-    refusals.push(`\`${one}\` follows \`${first}\`, and one call runs one performance`)
-  }
-  if (!there.includes(first)) {
-    refusals.push(`\`${first}\` is no performance — it carries ${namesDrawn(there)}`)
-  }
-  return refusals.length > 0 ? { refused: refusals } : { slug: first }
+export function noPerformance(slug: string, there: readonly string[]): readonly string[] {
+  if (there.includes(slug)) return []
+  return [`\`${slug}\` is no performance — it carries ${namesDrawn(there)}`]
+}
+
+function worded(one: string): boolean {
+  return !one.startsWith(FLAG)
 }
 
 function codeAt(root: string, slug: string): string {
@@ -57,9 +53,16 @@ async function measuringIn(root: string, at: string): Promise<Measuring> {
 
 export async function measurePerformance(argv: readonly string[], given: Given): Promise<Answer> {
   try {
-    const read = readIn(argv, slugsOfType(given.root, PERFORMANCE))
-    if ("refused" in read) return mistaking(read.refused)
-    const at = codeAt(given.root, read.slug)
+    const there = slugsOfType(given.root, PERFORMANCE)
+    const read = takenFor(argv, given.calledAs, page, [performanceArgument])
+    if ("refused" in read) {
+      const missing = argv.some(worded) ? [] : [nothingNamed(there)]
+      return mistaking([...read.refused, ...missing])
+    }
+    const slug = read.taken.performance
+    const unknown = noPerformance(slug, there)
+    if (unknown.length > 0) return mistaking(unknown)
+    const at = codeAt(given.root, slug)
     const measuring = await measuringIn(given.root, at)
     return told([...(await measuring(given.root))])
   } catch (thrown) {
