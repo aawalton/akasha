@@ -253,6 +253,20 @@ test("the scope says what it does not reach", () => {
   expect(said).toContain("git update-ref")
 })
 
+test("the scope says the command-word gap, with the lines measured", () => {
+  const said = SCOPE.join("\n")
+  expect(said).toContain("an act kept out of the command word")
+  expect(said).toContain("was let through")
+  expect(said).not.toContain("refused for an agent in every form")
+})
+
+test("an act kept out of the command word is read as no git call, which is the gap", () => {
+  expect(refusalIn("H=$(git push)")).toBeNull()
+  expect(refusalIn("$(git reset --hard)")).toBeNull()
+  expect(refusalIn("(git checkout -f p)")).toBeNull()
+  expect(refusalIn('"$(git stash)"')).toBeNull()
+})
+
 test("the scope names the three plumbing acts, and where `git apply` is refused", () => {
   const said = SCOPE.join("\n")
   expect(said).toContain("update-index checkout-index read-tree")

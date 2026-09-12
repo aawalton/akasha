@@ -11,8 +11,12 @@ export const blockDestructiveGit = {
   overTools: ["Bash"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "gap",
       statement: "An act named here is refused wherever that act is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An act this hook reads as a command word is refused wherever that act is.",
     },
     {
       invariantKind: "departure",

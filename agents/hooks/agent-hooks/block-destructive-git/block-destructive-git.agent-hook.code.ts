@@ -130,7 +130,8 @@ const AMENDED = [
 const FORCED = ["`git push --force` overwrites commits on a branch other agents push to.", ...NONE]
 
 const PUSHED = [
-  "`git push` is refused for an agent in every form. `akasha git push` is the route that is not.",
+  "`git push` is refused for an agent wherever this hook reads the act.",
+  "`akasha git push` is the route that is not.",
   "It carries the branch this checkout is on to the remote that branch tracks, it forces nothing",
   "in any form, and where the remote has moved ahead it refuses rather than overwriting.",
   "Say `akasha git push`, or `akasha git push --dry-run` to read how many commits would be carried",
@@ -166,6 +167,7 @@ export const SCOPE: readonly string[] = [
   "  a push a program makes for itself — `handOffPush` spawns the pusher detached, under no",
   "    tool call, so nothing here is ever asked about it",
   "  anything typed into a terminal rather than sent as a tool call, which no hook is given",
+  "  a push kept out of the command word — `H=$(git push)` was let through, measured 2026-09-12",
   "",
   "WHERE THE LIST COMES FROM: nowhere.",
   "Git names its acts exactly and classifies none of them by this hazard.",
@@ -201,6 +203,9 @@ export const SCOPE: readonly string[] = [
   "    refused as though it were a command",
   "  a git call another program builds — `sh -c`, `xargs git`, `make`, a script file",
   "  a call behind a prefix the list above does not name, which hides it as `sh -c` does",
+  "  an act kept out of the command word, which `shell-calls` reads as part of that word, so no",
+  "    git call is read out of it at all — measured through the dispatch on 2026-09-12:",
+  "      $(git rm -f /tmp/x)   H=$(git checkout -f p)   (git reset --hard)   was let through",
   "  every way to destroy shared work that is not a git call at all",
   "",
   "ALSO REFUSED ELSEWHERE:",
