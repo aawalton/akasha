@@ -40,17 +40,18 @@ const CODE = "code"
 
 const TS = "ts"
 
-async function codeFileIn(root: string, slug: string): Promise<string | null> {
+async function codeFilesIn(root: string, slug: string): Promise<readonly string[]> {
   const { listedAt } = await import("akasha/pages/indexes/reading/index-reading.module.code.ts")
   const { besideAt } = await import("akasha/pages/file-name/page-file-name.module.code.ts")
+  const every: string[] = []
   for (const pageTypeSlug of [MODULE_TYPE, COMMAND_TYPE]) {
     const found = listedAt(root, pageTypeSlug, slug)
     const one = found.length === 1 ? found[0] : undefined
     if (one === undefined) continue
     const beside = besideAt(one.path, CODE, TS)
-    if (beside !== null) return beside
+    if (beside !== null) every.push(beside)
   }
-  return null
+  return every
 }
 
 function answerSaid(answer: {
@@ -80,18 +81,20 @@ async function ranFor(root: string, ask: Ask): Promise<Loaded | string> {
   const key = asked(ask)
   const held = loaded.get(key)
   if (held !== undefined) return held
-  const at = await codeFileIn(root, ask.module)
-  if (at === null) {
+  const every = await codeFilesIn(root, ask.module)
+  if (every.length === 0) {
     return `no module and no command carries the slug \`${ask.module}\`, so ${key} is answered by nothing`
   }
-  const mod = (await import(join(root, at))) as Record<string, unknown>
-  const one = mod[ask.exported]
-  if (typeof one !== "function") {
-    return `\`${at}\` exports no function named \`${ask.exported}\``
+  for (const at of every) {
+    const mod = (await import(join(root, at))) as Record<string, unknown>
+    const one = mod[ask.exported]
+    if (typeof one !== "function") continue
+    const made: Loaded = { one: one as Ran, at }
+    loaded.set(key, made)
+    return made
   }
-  const made: Loaded = { one: one as Ran, at }
-  loaded.set(key, made)
-  return made
+  const read = every.map((one) => `\`${one}\``).join(" and then ")
+  return `no code beside \`${ask.module}\` exports a function named \`${ask.exported}\` — ${read} was read`
 }
 
 const PROTOCOL_FD = 3

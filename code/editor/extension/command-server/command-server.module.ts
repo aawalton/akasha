@@ -182,6 +182,14 @@ export const commandServer = {
     },
     {
       invariantKind: "departure",
+      statement: "The page answering is the first of those whose code holds the export asked for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A module sharing a slug with a command shadows it only where it answers.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The page is answered from the index rather than assembled from a name.",
     },
     {
@@ -218,7 +226,11 @@ export const commandServer = {
     },
     {
       invariantKind: "departure",
-      statement: "A page whose code holds no such export is refused as unserved.",
+      statement: "A slug no page of either type exports that name from is refused as unserved.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal names every file read looking for the export.",
     },
     {
       invariantKind: "absence",
