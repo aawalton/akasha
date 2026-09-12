@@ -43,7 +43,7 @@ const TAKING = [
   { said: TEXT, prose: true },
   { said: SERVICE },
   { said: LANG },
-  { said: OUTPUT, aliases: ["--out"] },
+  { said: OUTPUT },
 ]
 
 const SWITCHES = [NO_PERSIST]
