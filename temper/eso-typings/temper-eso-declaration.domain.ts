@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
-export const temperEsoTypings = {
+export const temperEsoDeclaration = {
   id: "01a0673e-3ddf-7000-a6f4-66fa0861fb9d",
   type: "domain",
-  slug: "temper-eso-typings",
+  slug: "temper-eso-declaration",
   definition: "the game's own API documentation dump read as TypeScript declarations",
   parts: [
     "module/eso-doc-tokens",

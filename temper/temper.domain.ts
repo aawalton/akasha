@@ -41,7 +41,7 @@ export const temper = {
     "domain/temper-addon-build",
     "domain/temper-capture-shapes",
     "domain/temper-eso-paths",
-    "domain/temper-eso-typings",
+    "domain/temper-eso-declaration",
     "eso-addon/temper-lib-table-functions",
     "domain/temper-saved-variables",
     "domain/temper-settings-panel",
