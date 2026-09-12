@@ -29,9 +29,9 @@ import {
   saveAccountSkillMorphProgress,
   saveSkillMorphProgress,
 } from "akasha/temper/characters-skills-morphs-addon/skill-morph-tracking/skill-morph-tracking.module.code.ts"
-import { collectMotifKnowledge } from "akasha/temper/player-completion-state/completion-motif-knowledge/completion-motif-knowledge.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/player-completion-state/modules/completion-addon-constants/completion-addon-constants.module.code.ts"
+import { collectMotifKnowledge } from "akasha/temper/player-completion-state/modules/completion-motif-knowledge/completion-motif-knowledge.module.code.ts"
 
 const SLASH_COMMAND_LISTINGS = [
   { name: "/temperrefresh", description: "Refresh all completion data" },

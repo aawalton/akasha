@@ -11,12 +11,12 @@ import type {
   CompanionCompletion,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import { parseSavedVariablesContent } from "akasha/temper/completion-import/completion-saved-variables-parser/completion-saved-variables-parser.module.code.ts"
+import { classifyCompletionImport } from "akasha/temper/player-completion/modules/completion-import-outcome/completion-import-outcome.module.code.ts"
 import {
   mergeAccountCompletionForward,
   mergeCharacterCompletionForward,
   mergeCompanionCompletionForward,
-} from "akasha/temper/player-completion/completion-merge-forward/completion-merge-forward.module.code.ts"
-import { classifyCompletionImport } from "akasha/temper/player-completion/modules/completion-import-outcome/completion-import-outcome.module.code.ts"
+} from "akasha/temper/player-completion/modules/completion-merge-forward/completion-merge-forward.module.code.ts"
 import type { ImportResult } from "akasha/temper/web/import-result/import-result.module.code.ts"
 import { useCallback, useEffect, useRef, useState } from "react"
 

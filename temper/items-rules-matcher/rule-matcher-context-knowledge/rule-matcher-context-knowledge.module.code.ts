@@ -10,7 +10,7 @@ import type {
   CharacterBuildInput,
   CompletionCharacterInput,
 } from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
-import { isNamedShape } from "akasha/temper/player-completion/completion-named-shape/completion-named-shape.module.code.ts"
+import { isNamedShape } from "akasha/temper/player-completion/modules/completion-named-shape/completion-named-shape.module.code.ts"
 import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 import { recordField } from "akasha/utils/narrow/record-field/record-field.module.code.ts"
 

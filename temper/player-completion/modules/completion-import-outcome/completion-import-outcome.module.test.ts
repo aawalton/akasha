@@ -1,10 +1,10 @@
 import { describe, expect, test } from "bun:test"
 import type { CharacterCompletion } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import { mergeCharacterCompletionForward } from "akasha/temper/player-completion/completion-merge-forward/completion-merge-forward.module.code.ts"
 import {
   type CompletionImportVerdict,
   classifyCompletionImport,
 } from "akasha/temper/player-completion/modules/completion-import-outcome/completion-import-outcome.module.code.ts"
+import { mergeCharacterCompletionForward } from "akasha/temper/player-completion/modules/completion-merge-forward/completion-merge-forward.module.code.ts"
 
 function verdictFor(
   existing: CharacterCompletion | undefined,
