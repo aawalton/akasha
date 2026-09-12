@@ -8,14 +8,14 @@ export const temperInventoryRuleList = {
   code: "ts",
   changeKind: "change-none",
   taking: [{ said: "--json", takes: "give the rules as JSON rather than as tab-separated rows" }],
-  helpNotes: [
-    "the controlled rules come first, which is the order the addon compiles them into.",
-    "the position column is the index a reorder names.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "The controlled rules come before the rules a person wrote.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The position column is the index a reorder names.",
     },
     {
       invariantKind: "departure",
