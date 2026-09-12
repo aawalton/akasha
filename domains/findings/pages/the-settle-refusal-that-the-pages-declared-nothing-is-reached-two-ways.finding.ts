@@ -1,9 +1,9 @@
 import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
-export const aSettleIntoAnIndexRootThatIsNotThereRefusesAsThoughThePagesDeclaredNothing = {
+export const theSettleRefusalThatThePagesDeclaredNothingIsReachedTwoWays = {
   id: "01a0915d-029d-7966-b806-4efb04167ea2",
   type: "finding",
-  slug: "a-settle-into-an-index-root-that-is-not-there-refuses-as-though-the-pages-declared-nothing",
+  slug: "the-settle-refusal-that-the-pages-declared-nothing-is-reached-two-ways",
   domain: "domain/index",
   claim:
     "One refusal, the one saying these pages declare no property carrying a `unique`, is reached two ways, and a reader who knows only one of them looks for that one, does not find it, and judges the fault a different fault. Either way the sentence names the pages the change carries, so it reads as a fault in the change, and either way it is not. The root is not there: the reading holds nothing, so nothing declares a `unique`. Or the root is there and what the unique properties are read from is not filed yet, which is any world writing its own index for the first time. The guard runs behind `indexThere`, which asks only whether the root is there, so it turns the first off and leaves the second unmended: at HEAD an absent root settles a real page while a present root holding nothing refuses it. Telling them apart is cheap: ask whether the index root is there, and if it is, this is the second.",
