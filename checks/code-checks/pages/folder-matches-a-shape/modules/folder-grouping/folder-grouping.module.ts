@@ -6,6 +6,7 @@ export const folderGrouping = {
   slug: "folder-grouping",
   definition: "the folders a path sits under, and what a change leaves sitting in a folder",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -34,6 +35,15 @@ export const folderGrouping = {
     {
       invariantKind: "departure",
       statement: "A folder a change opens is answered under the folder above that folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An uncommitted file opens no folder, so a folder holding only those is no folder here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a file is still among the files of a folder the index already answers.",
     },
     {
       invariantKind: "departure",

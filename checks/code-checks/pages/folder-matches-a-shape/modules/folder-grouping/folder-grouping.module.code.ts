@@ -1,5 +1,6 @@
 import { folderOf } from "akasha/code/path-between/code-path-between.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { uncommittedHeld } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
 
 export function ancestorsOf(path: string): readonly string[] {
@@ -42,6 +43,7 @@ export function groupedOver(index: Answering, change: Change): Grouped {
       continue
     }
     into(added, folderOf(one), one)
+    if (uncommittedHeld(one)) continue
     for (const at of ancestorsOf(one)) into(opened, folderOf(at), at)
   }
   const files = new Map<string, readonly string[]>()
