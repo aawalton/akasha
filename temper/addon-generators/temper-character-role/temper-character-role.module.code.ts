@@ -1,4 +1,5 @@
 import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import {
   rankOf,
   ranksOf,
@@ -47,7 +48,7 @@ export function generateTemperCharacterRole(roleRows: readonly Page[]): string {
  * ESO build roles (playstyles) sourced from the universal pages table
  * (page type: temper-character-role).
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 import { createDataFile } from "@akasha/utils/narrow/create-data-file"

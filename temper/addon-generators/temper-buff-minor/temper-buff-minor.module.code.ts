@@ -1,4 +1,5 @@
 import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { renderBuffEffectEntry } from "akasha/temper/addon-generators/render-buff-effect-entry/render-buff-effect-entry.module.code.ts"
 import { z } from "zod"
 
@@ -87,7 +88,7 @@ export function generateTemperBuffMinor(rows: readonly Page[]): string {
  * ESO Minor buff data sourced from the universal pages table (page
  * type: temper-buff-minor). 21 entries, one per Minor buff effect.
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 interface BuffMinorEffect {

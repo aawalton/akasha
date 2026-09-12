@@ -1,4 +1,5 @@
 import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
 import { z } from "zod"
 
 const SKILL_SCALING_STAT = z.enum([
@@ -139,7 +140,7 @@ export function generateTemperCharacterSkillActivation(rows: readonly Page[]): s
  * \`key\` (e.g. "vampires-bane") — the validator routes from \`SkillId\`
  * directly into this record.
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 import type { CharacterActivationEffect } from "../character-skill-activation-data"
