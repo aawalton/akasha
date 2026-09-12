@@ -1,8 +1,5 @@
 import { mkdir } from "node:fs/promises"
-import {
-  exitCodeForThrowable,
-  OperationalError,
-} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { PhotoAsset } from "akasha/alan/harness/icloud-photos/album-pulling/album-pulling.module.code.ts"
 import {
   buildQueryRequest,
@@ -14,6 +11,12 @@ import {
   parseShareToken,
   resolveOutputDir,
 } from "akasha/alan/harness/icloud-photos/album-pulling/album-pulling.module.code.ts"
+import {
+  codeOf,
+  DATA,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 
@@ -148,31 +151,23 @@ async function fetching(
   const asked = buildResolveRequest(token)
   const assets = await everyAsset(await postJson(asked.url, asked.body))
   if (assets.length === 0) {
-    return { report: [], refusals: [`the shared album at ${shareUrl} holds no photo`], code: 2 }
+    return refusedBy([`the shared album at ${shareUrl} holds no photo`], DATA)
   }
   const folder = folderOf(read.said.get(OUTPUT), root, from)
   await mkdir(folder, { recursive: true })
   const targets = dedupePaths(assets, folder)
   for (const target of targets) await downloadTo(target.asset.downloadURL, target.path)
-  return {
-    report: targets.map((one) =>
-      read.json ? JSON.stringify({ path: one.path }) : `path\t${one.path}`
-    ),
-    refusals: [],
-    code: 0,
-  }
+  return told(
+    targets.map((one) => (read.json ? JSON.stringify({ path: one.path }) : `path\t${one.path}`))
+  )
 }
 
 export async function icloudFetch(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+  if ("refused" in read) return refusedBy(read.refused)
   try {
     return await fetching(read, given.root, given.from)
   } catch (thrown) {
-    return {
-      report: [],
-      refusals: [`${given.calledAs} — ${whyOf(thrown)}`],
-      code: exitCodeForThrowable(thrown),
-    }
+    return refusedBy([`${given.calledAs} — ${whyOf(thrown)}`], codeOf(thrown))
   }
 }

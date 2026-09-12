@@ -4,6 +4,13 @@ import {
   SNAPSHOT_METRICS,
   summarizeSnapshot,
 } from "akasha/alan/harness/health-samples-import/health-snapshot/health-snapshot.module.code.ts"
+import {
+  asJson,
+  DATA,
+  OPERATIONAL,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -75,7 +82,7 @@ export function sinceDay(days: number, nowMs: number): string {
 export async function alanElaine(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) {
-    return { report: [], refusals: [...read.refused, `\`${given.calledAs}\` did nothing`], code: 1 }
+    return refusedBy([...read.refused, `\`${given.calledAs}\` did nothing`])
   }
   try {
     const nowMs = Date.now()
@@ -88,13 +95,13 @@ export async function alanElaine(argv: readonly string[], given: Given): Promise
       return refused(
         "no Apple Health export is on the macbook — export all health data from the iPhone's " +
           `Health app and drop the zip in the macbook's downloads, or name one with \`${FILE_PATH}\``,
-        2
+        DATA
       )
     }
     const snapshot = summarizeSnapshot(exported, read.days, nowMs)
-    if (read.json) return { report: [JSON.stringify(snapshot)], refusals: [], code: 0 }
-    return { report: [...lines(formatSnapshot(snapshot))], refusals: [], code: 0 }
+    if (read.json) return asJson(snapshot)
+    return told([...lines(formatSnapshot(snapshot))])
   } catch (thrown) {
-    return refused(whyOf(thrown), 3)
+    return refused(whyOf(thrown), OPERATIONAL)
   }
 }
