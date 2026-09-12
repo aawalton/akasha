@@ -9,9 +9,9 @@ export const masteryLevel = {
   extends: ["page-type/domain"],
   parts: [
     "mastery-level/doctor",
-    "mastery-level/novice",
     "mastery-level/expert",
     "mastery-level/master",
+    "mastery-level/novice",
     "mastery-level/reader",
     "mastery-level/sage",
     "mastery-level/scholar",

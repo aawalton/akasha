@@ -8,7 +8,6 @@ export const utilsNarrow = {
   parts: [
     "module/base64-url",
     "module/is-whitespace",
-    "module/shape",
     "module/as-boolean",
     "module/as-instant",
     "module/as-number",
@@ -53,6 +52,7 @@ export const utilsNarrow = {
     "module/require-only",
     "module/said-by",
     "module/scalar-text",
+    "module/shape",
     "module/shape-core",
     "module/shape-object",
     "module/shape-scalar",

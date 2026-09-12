@@ -7,7 +7,6 @@ export const monarch = {
   definition:
     "the outside service that gathers every account Alan has into one picture of his money",
   parts: [
-    "module/monarch-syncing",
     "domain/monarch-eval",
     "module/monarch-agree",
     "module/monarch-agreement",
@@ -52,6 +51,7 @@ export const monarch = {
     "module/monarch-seat",
     "module/monarch-shape",
     "module/monarch-sync",
+    "module/monarch-syncing",
     "module/monarch-transaction",
     "module/monarch-transaction-create",
     "module/transaction-polling",
