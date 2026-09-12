@@ -7,6 +7,7 @@ import {
   removingAt,
 } from "akasha/code/name-series/name-series.module.code.ts"
 import {
+  answering,
   INPUT,
   OK,
   OPERATIONAL,
@@ -101,46 +102,114 @@ async function fetched(
   return { icons }
 }
 
+export type Making = (at: string) => undefined
+
+export type Writing = (at: string, body: string) => undefined
+
+export type Staging = {
+  readonly making: Making
+  readonly writing: Writing
+}
+
+export const STAGING: Staging = {
+  making: (at) => {
+    mkdirSync(at, { recursive: true })
+  },
+  writing: (at, body) => {
+    writeFileSync(at, body)
+  },
+}
+
+export type Stageable = {
+  readonly slug: string
+  readonly files: readonly { readonly at: string; readonly body: string }[]
+}
+
+export function stageSaid(stage: string): string {
+  return `the stage this writes under is ${stage}`
+}
+
+export function stagedSaid(slug: string): string {
+  return `staged ${slug}`
+}
+
+export function messageSaid(messageAt: string): string {
+  return `wrote the message a landing takes at ${messageAt}`
+}
+
+export function wroteStage(
+  stage: string,
+  items: readonly Stageable[],
+  done: string[],
+  staging: Staging = STAGING
+): undefined {
+  for (const one of items) {
+    for (const file of one.files) {
+      const into = join(stage, file.at)
+      staging.making(dirname(into))
+      staging.writing(into, file.body)
+    }
+    done.push(stagedSaid(one.slug))
+  }
+  return undefined
+}
+
 function staged(
   stage: string,
   root: string,
   pages: readonly Staged[],
   gone: readonly string[],
-  calledAs: string
+  calledAs: string,
+  done: string[],
+  staging: Staging = STAGING
 ): string {
+  const items: readonly Stageable[] = pages.map((page) => ({
+    slug: page.slug,
+    files: [
+      { at: page.codeAt, body: page.code },
+      { at: page.pageAt, body: pageBody(root, page.slug, page.definition) },
+    ],
+  }))
+
   const calls: string[] = []
-  for (const page of pages) {
-    for (const [at, body] of [
-      [page.codeAt, page.code],
-      [page.pageAt, pageBody(root, page.slug, page.definition)],
-    ] as const) {
-      const into = join(stage, at)
-      mkdirSync(dirname(into), { recursive: true })
-      writeFileSync(into, body)
-      const was = join(root, at)
+  for (const one of items) {
+    for (const file of one.files) {
+      const was = join(root, file.at)
+      const into = join(stage, file.at)
       calls.push(
-        ...(existsSync(was) ? changingFile(at, was, into, body) : addingFile(at, into, body))
+        ...(existsSync(was)
+          ? changingFile(file.at, was, into, file.body)
+          : addingFile(file.at, into, file.body))
       )
     }
   }
   for (const slug of gone) calls.push(removingAt("remove-page", pageAtOf(slug)))
 
+  wroteStage(stage, items, done, staging)
+
   const messageAt = join(stage, "message.txt")
-  writeFileSync(
+  staging.writing(
     messageAt,
     `regenerate the icon search index from lucide ${LUCIDE_TAG}\n\nWritten by \`${calledAs}\`.\n`
   )
+  done.push(messageSaid(messageAt))
 
   const landAt = join(stage, "land.sh")
   const script = ["#!/usr/bin/env bash", "set -euo pipefail", ...calls, ...landingAt(messageAt)]
-  writeFileSync(landAt, `${script.join("\n")}\n`)
+  staging.writing(landAt, `${script.join("\n")}\n`)
   return landAt
 }
 
-function stagingAt(named: string | undefined): string {
-  if (named === undefined) return mkdtempSync(join(realpathSync(SCRATCH_UNDER), STAGE_PREFIX))
+function stagingAt(named: string | undefined, done: string[]): string {
+  if (named === undefined) {
+    const made = mkdtempSync(join(realpathSync(SCRATCH_UNDER), STAGE_PREFIX))
+    done.push(stageSaid(made))
+    return made
+  }
   mkdirSync(named, { recursive: true })
-  return realpathSync(named)
+  const at = realpathSync(named)
+  done.push(stageSaid(at))
+  return at
 }
 
 export async function pageIconSearchIndexGenerate(
@@ -158,48 +227,50 @@ export async function pageIconSearchIndexGenerate(
       code: INPUT,
     }
   }
-  const root = realpathSync(named ?? given.root)
-  const stage = stagingAt(said.named[STAGE])
-  const scratch = mkdtempSync(join(realpathSync(SCRATCH_UNDER), SCRATCH_PREFIX))
-  try {
-    const release = await fetched(scratch)
-    if ("why" in release) return { report: [], refusals: [release.why], code: OPERATIONAL }
-    const entries = entriesIn(release.icons)
-    const held = rendered(entries)
-    if ("refused" in held) return { report: [], refusals: held.refused, code: INPUT }
-    const pages = held.pages
+  return await answering(async (done) => {
+    const root = realpathSync(named ?? given.root)
+    const stage = stagingAt(said.named[STAGE], done)
+    const scratch = mkdtempSync(join(realpathSync(SCRATCH_UNDER), SCRATCH_PREFIX))
+    try {
+      const release = await fetched(scratch)
+      if ("why" in release) return { report: [], refusals: [release.why], code: OPERATIONAL }
+      const entries = entriesIn(release.icons)
+      const held = rendered(entries)
+      if ("refused" in held) return { report: [], refusals: held.refused, code: INPUT }
+      const pages = held.pages
 
-    const standing = standingIn(root)
-    const kept = new Set(pages.map((one) => one.slug))
-    const gone = standing.filter((slug) => !kept.has(slug))
-    const landAt = staged(stage, root, pages, gone, given.calledAs)
+      const standing = standingIn(root)
+      const kept = new Set(pages.map((one) => one.slug))
+      const gone = standing.filter((slug) => !kept.has(slug))
+      const landAt = staged(stage, root, pages, gone, given.calledAs, done)
 
-    const report = [
-      `${entries.length} icons staged across ${pages.length} pages ` +
-        `(${pages.length * 2} files) under ${stage}`,
-      ...pages.map((one) => `  ${bytesIn(one.code)}\t${one.codeAt}`),
-      ...gone.map((slug) => `  gone\t${folderOf(slug)}`),
-      "",
-      `nothing has landed. To land what was staged, run:`,
-      `  bash ${landAt}`,
-      "",
-      "the apply is refused for a body the read record does not show you read, so every file " +
-        "the script changes has to be read first. Breaking the glass passes the checks and " +
-        "passes no reading.",
-    ]
-
-    const stood = new Set(standing)
-    const arrived = [...kept].filter((slug) => slug !== AGGREGATE && !stood.has(slug)).sort()
-    if (arrived.length > 0) {
-      report.push(
+      const report = [
+        `${entries.length} icons staged across ${pages.length} pages ` +
+          `(${pages.length * 2} files) under ${stage}`,
+        ...pages.map((one) => `  ${bytesIn(one.code)}\t${one.codeAt}`),
+        ...gone.map((slug) => `  gone\t${folderOf(slug)}`),
         "",
-        "a shard that is new is named by no `partSlugs` of the package holding these, and " +
-          "nothing here writes that list. A shard removed is taken out of it by `remove-page`:",
-        ...arrived.map((slug) => `  add     module/${slug}`)
-      )
+        `nothing has landed. To land what was staged, run:`,
+        `  bash ${landAt}`,
+        "",
+        "the apply is refused for a body the read record does not show you read, so every file " +
+          "the script changes has to be read first. Breaking the glass passes the checks and " +
+          "passes no reading.",
+      ]
+
+      const stood = new Set(standing)
+      const arrived = [...kept].filter((slug) => slug !== AGGREGATE && !stood.has(slug)).sort()
+      if (arrived.length > 0) {
+        report.push(
+          "",
+          "a shard that is new is named by no `partSlugs` of the package holding these, and " +
+            "nothing here writes that list. A shard removed is taken out of it by `remove-page`:",
+          ...arrived.map((slug) => `  add     module/${slug}`)
+        )
+      }
+      return { report, refusals: [], code: OK }
+    } finally {
+      rmSync(scratch, { recursive: true, force: true })
     }
-    return { report, refusals: [], code: OK }
-  } finally {
-    rmSync(scratch, { recursive: true, force: true })
-  }
+  })
 }

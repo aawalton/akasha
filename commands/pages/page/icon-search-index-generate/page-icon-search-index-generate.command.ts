@@ -6,6 +6,7 @@ export const pageIconSearchIndexGenerate = {
   slug: "page-icon-search-index-generate",
   definition: "the command building the icon search index from a lucide release, staged as bodies",
   code: "ts",
+  test: "ts",
   taking: [],
   invariants: [
     {
@@ -32,6 +33,18 @@ export const pageIconSearchIndexGenerate = {
     {
       invariantKind: "departure",
       statement: "The staging folder remains after a run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The staging folder is the first thing a refusal part way names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that throws part way names every shard already whole in the stage.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shard only half written is named nowhere, because half a shard cannot land.",
     },
     {
       invariantKind: "departure",
