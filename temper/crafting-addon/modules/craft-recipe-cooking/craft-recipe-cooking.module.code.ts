@@ -1,7 +1,3 @@
-import {
-  type CsQualityColor,
-  QUALITY,
-} from "akasha/temper/crafting-addon/craft-quality/craft-quality.module.code.ts"
 import * as Tooltips from "akasha/temper/crafting-addon/craft-tooltips/craft-tooltips.module.code.ts"
 import {
   hideControl,
@@ -10,6 +6,10 @@ import {
 import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 import { defined } from "akasha/temper/crafting-addon/modules/craft-defined/craft-defined.module.code.ts"
 import * as PlayerState from "akasha/temper/crafting-addon/modules/craft-player-state/craft-player-state.module.code.ts"
+import {
+  type CsQualityColor,
+  QUALITY,
+} from "akasha/temper/crafting-addon/modules/craft-quality/craft-quality.module.code.ts"
 
 const WM = WINDOW_MANAGER
 

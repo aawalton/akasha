@@ -1,10 +1,3 @@
-import { updateQuest } from "akasha/temper/crafting-addon/craft-quest-tracking/craft-quest-tracking.module.code.ts"
-import { recipeLearned } from "akasha/temper/crafting-addon/craft-recipe-cooking/craft-recipe-cooking.module.code.ts"
-import {
-  updateAllStudies,
-  updateResearch,
-  updateResearchWindows,
-} from "akasha/temper/crafting-addon/craft-research/craft-research.module.code.ts"
 import { updatePanelIcon } from "akasha/temper/crafting-addon/craft-research-grid/craft-research-grid.module.code.ts"
 import type {
   RuneRefineGlyphEntry,
@@ -47,6 +40,13 @@ import {
   updatePlayer,
   updateRecipeKnowledge,
 } from "akasha/temper/crafting-addon/modules/craft-player-state/craft-player-state.module.code.ts"
+import { updateQuest } from "akasha/temper/crafting-addon/modules/craft-quest-tracking/craft-quest-tracking.module.code.ts"
+import { recipeLearned } from "akasha/temper/crafting-addon/modules/craft-recipe-cooking/craft-recipe-cooking.module.code.ts"
+import {
+  updateAllStudies,
+  updateResearch,
+  updateResearchWindows,
+} from "akasha/temper/crafting-addon/modules/craft-research/craft-research.module.code.ts"
 import { runeShowMode } from "akasha/temper/crafting-addon/rune-mode/rune-mode.module.code.ts"
 import {
   runeHideVanillaUI,

@@ -1,4 +1,3 @@
-import * as RecipeCooking from "akasha/temper/crafting-addon/craft-recipe-cooking/craft-recipe-cooking.module.code.ts"
 import type { StyleApi } from "akasha/temper/crafting-addon/craft-styles-data/craft-styles-data.module.code.ts"
 import { CB_CONTROL_SHOW } from "akasha/temper/crafting-addon/crafting-constants/crafting-constants.module.code.ts"
 import {
@@ -7,6 +6,7 @@ import {
 } from "akasha/temper/crafting-addon/crafting-state/crafting-state.module.code.ts"
 import * as BlueprintFurnisher from "akasha/temper/crafting-addon/modules/craft-blueprint-furnisher/craft-blueprint-furnisher.module.code.ts"
 import * as Knowledge from "akasha/temper/crafting-addon/modules/craft-knowledge/craft-knowledge.module.code.ts"
+import * as RecipeCooking from "akasha/temper/crafting-addon/modules/craft-recipe-cooking/craft-recipe-cooking.module.code.ts"
 
 const WM = WINDOW_MANAGER
 

@@ -1,9 +1,4 @@
 import {
-  type CsQualityColor,
-  QUALITY,
-  QUALITY_HEX,
-} from "akasha/temper/crafting-addon/craft-quality/craft-quality.module.code.ts"
-import {
   RUNE,
   type RuneTable,
 } from "akasha/temper/crafting-addon/craft-rune/craft-rune.module.code.ts"
@@ -30,6 +25,11 @@ import {
 } from "akasha/temper/crafting-addon/modules/craft-furnisher/craft-furnisher.module.code.ts"
 import { LANG } from "akasha/temper/crafting-addon/modules/craft-lang-index/craft-lang-index.module.code.ts"
 import type { LangTable } from "akasha/temper/crafting-addon/modules/craft-lang-lang-table/craft-lang-lang-table.module.code.ts"
+import {
+  type CsQualityColor,
+  QUALITY,
+  QUALITY_HEX,
+} from "akasha/temper/crafting-addon/modules/craft-quality/craft-quality.module.code.ts"
 
 export interface StyleNameRow {
   name: string
