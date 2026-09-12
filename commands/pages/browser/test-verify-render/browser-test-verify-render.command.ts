@@ -8,8 +8,6 @@ export const browserTestVerifyRender = {
     "the command telling a rendered page on a deployed site from a failure and from an empty shell",
   code: "ts",
   taking: [
-    { said: "--path <path>", takes: "the path under that origin" },
-    { said: "--page-type <slug>", takes: "the page type the answer is said about" },
     { said: "--expect-text <text>", takes: "text the rendered body is to hold" },
     { said: "--expect-title <text>", takes: "the title the document is to carry" },
     { said: "--expect-count-selector <sel>", takes: "the elements a count is taken over" },
@@ -21,17 +19,6 @@ export const browserTestVerifyRender = {
       said: "--expect-attr-mode <mode>",
       takes: "`equals` or `contains-token`, equals where none is said",
     },
-    {
-      said: "--root-selector <sel>",
-      takes: "the element the render fills, `main` where none is said",
-    },
-    {
-      said: "--hydration-selector <sel>",
-      takes: "an element that is there once the page has hydrated",
-    },
-    { said: "--timeout-ms <ms>", takes: "how long each wait is given" },
-    { said: "--no-sign-in", takes: "look as nobody rather than signing in" },
-    { said: "--as-throwaway", takes: "look as the throwaway user rather than the live one" },
   ],
   invariants: [
     {
@@ -95,5 +82,12 @@ export const browserTestVerifyRender = {
     { argument: "argument/json" },
     { argument: "argument/url", required: true },
     { argument: "argument/sign-in-path" },
+    { argument: "argument/path", required: true },
+    { argument: "argument/page-type", required: true },
+    { argument: "argument/root-selector" },
+    { argument: "argument/hydration-selector" },
+    { argument: "argument/timeout-ms" },
+    { argument: "argument/no-sign-in" },
+    { argument: "argument/as-throwaway" },
   ],
 } as const satisfies Command
