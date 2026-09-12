@@ -20,7 +20,7 @@ export const akashaFolderShape = {
     {
       statement: "Every shape allowed by folder-matches-a-shape is clean and approved by Alan.",
       workingMemory:
-        "The shapes are one of logic: if any shape matches, the folder is fine, and two shapes need not agree. So a refused folder is answered by changing the folder or adding a shape, never by loosening a shape that declines it. Alan has refused enabling `pages-of-one-type`. This check runs at no phase, so nothing judges a folder at landing and the intent can go un-met in silence; enabling it is Alan's and follows zero refusals. The tests read the held folder names from the shapes' own `HOLDS` now.\n",
+        "The check refuses 40 folders at `f03f76377ab`, so enabling it follows work rather than nothing. Eight open with the name of the page above and want that opening off the folder name. Seven under `design/interfaces` want an opening they do not have. `infrastructure/services/workstations/pages` holds 28 pages rather than one. Seven under `seat-system` and seventeen under `temper` hold no page, being seat data and ESO addon assets. Alan has refused enabling `pages-of-one-type`.\n",
     },
     {
       statement: "A check determines whether a folder should be a workspace package.",
