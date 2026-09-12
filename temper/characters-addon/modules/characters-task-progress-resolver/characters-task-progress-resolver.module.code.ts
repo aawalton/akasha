@@ -1,16 +1,22 @@
+import { getCompletionOverridesForCharacter } from "akasha/temper/characters-addon/modules/characters-config/characters-config.module.code.ts"
+import { currentCharacterEntry } from "akasha/temper/characters-addon/modules/characters-current-entry/characters-current-entry.module.code.ts"
+import {
+  HIRELING_MAILS_DAILY_TARGET,
+  hirelingCountForToday,
+} from "akasha/temper/characters-addon/modules/characters-hireling-mail-count/characters-hireling-mail-count.module.code.ts"
 import {
   resolveAccountAchievements,
   resolveCharacterAchievements,
-} from "akasha/temper/characters-addon/characters-task-progress-resolver-achievements/characters-task-progress-resolver-achievements.module.code.ts"
+} from "akasha/temper/characters-addon/modules/characters-task-progress-resolver-achievements/characters-task-progress-resolver-achievements.module.code.ts"
 import {
   resolveDailyWrits,
   resolveRecipes,
   resolveScribing,
-} from "akasha/temper/characters-addon/characters-task-progress-resolver-knowledge/characters-task-progress-resolver-knowledge.module.code.ts"
+} from "akasha/temper/characters-addon/modules/characters-task-progress-resolver-knowledge/characters-task-progress-resolver-knowledge.module.code.ts"
 import {
   resolveSkillLines,
   resolveSkillPoints,
-} from "akasha/temper/characters-addon/characters-task-progress-resolver-skills/characters-task-progress-resolver-skills.module.code.ts"
+} from "akasha/temper/characters-addon/modules/characters-task-progress-resolver-skills/characters-task-progress-resolver-skills.module.code.ts"
 import {
   resolveAntiquityLore,
   resolveCadwell,
@@ -19,13 +25,7 @@ import {
   resolveLoreLibrary,
   resolveMountTraining,
   resolveTraitResearch,
-} from "akasha/temper/characters-addon/characters-task-progress-resolver-world/characters-task-progress-resolver-world.module.code.ts"
-import { getCompletionOverridesForCharacter } from "akasha/temper/characters-addon/modules/characters-config/characters-config.module.code.ts"
-import { currentCharacterEntry } from "akasha/temper/characters-addon/modules/characters-current-entry/characters-current-entry.module.code.ts"
-import {
-  HIRELING_MAILS_DAILY_TARGET,
-  hirelingCountForToday,
-} from "akasha/temper/characters-addon/modules/characters-hireling-mail-count/characters-hireling-mail-count.module.code.ts"
+} from "akasha/temper/characters-addon/modules/characters-task-progress-resolver-world/characters-task-progress-resolver-world.module.code.ts"
 import { resolveSkillMorphs } from "akasha/temper/characters-skills-morphs-addon/skill-morph-task-progress/skill-morph-task-progress.module.code.ts"
 import type { AccountCompletion } from "akasha/temper/completion/completion-record/completion-record.module.code.ts"
 import { getEsoDayStringFromSec } from "akasha/temper/dungeons/eso-reset/eso-reset.module.code.ts"

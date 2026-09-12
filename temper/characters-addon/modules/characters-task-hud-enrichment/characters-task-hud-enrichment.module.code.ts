@@ -1,4 +1,3 @@
-import { UNDAUNTED_SKILL_LINE_ID } from "akasha/temper/characters-addon/characters-task-hud-state/characters-task-hud-state.module.code.ts"
 import {
   type ActiveAntiquityLead,
   collectActiveAntiquityLeads,
@@ -16,6 +15,7 @@ import {
   type CompanionRapportEnrichment,
   pickFirstIncompleteCompanionRapport,
 } from "akasha/temper/characters-addon/modules/characters-task-hud-companion-rapport/characters-task-hud-companion-rapport.module.code.ts"
+import { UNDAUNTED_SKILL_LINE_ID } from "akasha/temper/characters-addon/modules/characters-task-hud-state/characters-task-hud-state.module.code.ts"
 import { LORE_LIBRARY_DATA } from "akasha/temper/completion/lore-library-data/lore-library-data.module.code.ts"
 import {
   findFirstIncompleteCadwellZone,

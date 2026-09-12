@@ -1,4 +1,3 @@
-import { refreshAllTraitResearch } from "akasha/temper/characters-addon/characters-trait-research/characters-trait-research.module.code.ts"
 import { refreshAllTributeCardUpgrades } from "akasha/temper/characters-addon/characters-tribute-card-upgrades/characters-tribute-card-upgrades.module.code.ts"
 import { collectZoneCompletion } from "akasha/temper/characters-addon/characters-zone-completion/characters-zone-completion.module.code.ts"
 import { collectAchievements } from "akasha/temper/characters-addon/modules/characters-achievements/characters-achievements.module.code.ts"
@@ -25,6 +24,7 @@ import {
 import { updateSkillPoints } from "akasha/temper/characters-addon/modules/characters-skill-points/characters-skill-points.module.code.ts"
 import { getCompletionKey } from "akasha/temper/characters-addon/modules/characters-task-auto-complete/characters-task-auto-complete.module.code.ts"
 import { refreshTaskHud } from "akasha/temper/characters-addon/modules/characters-task-hud/characters-task-hud.module.code.ts"
+import { refreshAllTraitResearch } from "akasha/temper/characters-addon/modules/characters-trait-research/characters-trait-research.module.code.ts"
 import {
   saveAccountSkillMorphProgress,
   saveSkillMorphProgress,

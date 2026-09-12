@@ -1,11 +1,11 @@
+import { isPermanentlyComplete } from "akasha/temper/characters-addon/modules/characters-task-hud-full-completion/characters-task-hud-full-completion.module.code.ts"
 import {
   userCollapsedQuestIds,
   userCollapsedTaskIds,
   userExpandedQuestIds,
   userExpandedTaskIds,
-} from "akasha/temper/characters-addon/characters-task-hud-state/characters-task-hud-state.module.code.ts"
-import { resolveTaskProgress } from "akasha/temper/characters-addon/characters-task-progress-resolver/characters-task-progress-resolver.module.code.ts"
-import { isPermanentlyComplete } from "akasha/temper/characters-addon/modules/characters-task-hud-full-completion/characters-task-hud-full-completion.module.code.ts"
+} from "akasha/temper/characters-addon/modules/characters-task-hud-state/characters-task-hud-state.module.code.ts"
+import { resolveTaskProgress } from "akasha/temper/characters-addon/modules/characters-task-progress-resolver/characters-task-progress-resolver.module.code.ts"
 import {
   getEsoDayStringFromSec,
   getEsoResetTimestampSec,

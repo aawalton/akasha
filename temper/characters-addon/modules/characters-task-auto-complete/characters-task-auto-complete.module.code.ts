@@ -1,6 +1,3 @@
-import { clearInitialCompletion } from "akasha/temper/characters-addon/characters-task-hud-state/characters-task-hud-state.module.code.ts"
-import { isCurrentCharacterNext } from "akasha/temper/characters-addon/characters-task-hud-visibility/characters-task-hud-visibility.module.code.ts"
-import { resolveTaskProgress } from "akasha/temper/characters-addon/characters-task-progress-resolver/characters-task-progress-resolver.module.code.ts"
 import {
   hasNoAntiquityLeadMatching,
   isActionableLead,
@@ -13,6 +10,9 @@ import {
   hirelingCountForToday,
 } from "akasha/temper/characters-addon/modules/characters-hireling-mail-count/characters-hireling-mail-count.module.code.ts"
 import { refreshTaskHud } from "akasha/temper/characters-addon/modules/characters-task-hud/characters-task-hud.module.code.ts"
+import { clearInitialCompletion } from "akasha/temper/characters-addon/modules/characters-task-hud-state/characters-task-hud-state.module.code.ts"
+import { isCurrentCharacterNext } from "akasha/temper/characters-addon/modules/characters-task-hud-visibility/characters-task-hud-visibility.module.code.ts"
+import { resolveTaskProgress } from "akasha/temper/characters-addon/modules/characters-task-progress-resolver/characters-task-progress-resolver.module.code.ts"
 import { isSkillMorphTaskComplete } from "akasha/temper/characters-skills-morphs-addon/skill-morph-task-hud/skill-morph-task-hud.module.code.ts"
 import {
   getEsoDayStringFromSec,
