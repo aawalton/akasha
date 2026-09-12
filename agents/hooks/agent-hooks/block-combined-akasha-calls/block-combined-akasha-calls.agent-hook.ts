@@ -25,6 +25,15 @@ export const blockCombinedAkashaCalls = {
       statement: "The whole command is matched rather than the calls the command has.",
     },
     {
+      invariantKind: "constraint",
+      statement:
+        "A hook reading a command word is blind to a call a substitution or a subshell holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Matching the whole command is what no substitution and no subshell gets past.",
+    },
+    {
       invariantKind: "departure",
       statement: "A refusal quotes the command refused, as the shell was handed it.",
     },

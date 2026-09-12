@@ -157,6 +157,22 @@ test("a read inside a subshell is refused", () => {
   expect(refusalIn("(akasha read --file-path a.ts)")).toContain(NAMES)
 })
 
+test("every wrapping that hides a call from a command-word hook is refused here", () => {
+  for (const one of [
+    "H=$(akasha change apply)",
+    "$(akasha change apply)",
+    "(akasha change apply)",
+    '"$(akasha change apply)"',
+    "`akasha change apply`",
+  ]) {
+    expect(refusalIn(one)).toContain(NAMES)
+  }
+})
+
+test("the name in a variable is the one wrapping that gets past, which is the stated gap", () => {
+  expect(refusalIn("A=akasha; $A change apply && rm -rf x")).toBe(null)
+})
+
 test("a body piped into a change is refused", () => {
   expect(refusalIn("printf 'at: a.ts' | akasha change draft add-file")).toContain(NAMES)
 })
