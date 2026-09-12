@@ -18,6 +18,7 @@ export const provisionedFile = {
     "provisioned-file/git-global-ignore",
     "provisioned-file/home-search-ignore",
     "provisioned-file/macbook-brewfile",
+    "provisioned-file/podman-slice-share",
     "provisioned-file/profile",
     "provisioned-file/repos-editor-settings",
     "provisioned-file/seats-slice",
