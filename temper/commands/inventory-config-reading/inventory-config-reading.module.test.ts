@@ -50,6 +50,89 @@ test("a character priority written as a lua list reads as a list", () => {
   expect(parseTemperInventoryConfig(TWO_RULES).characterPriority).toEqual(["111", "222"])
 })
 
+const A_CHAINED_RULE = savedVariables(
+  `    ["@one"] =
+    {
+      ["$AccountWide"] =
+      {
+        ["sellCompiled"] =
+        {
+          ["orderedRules"] =
+          {
+            [1] =
+            {
+              ["categoryId"] = "potions",
+              ["action"] = "move-to",
+              ["potionEffects"] = { [1] = "health-restore", [2] = "magicka-restore" },
+              ["potionEffectsMode"] = "any",
+              ["destinationChain"] =
+              {
+                [1] = { ["destination"] = "character:by-priority", ["targetQuantity"] = 200 },
+                [2] = { ["destination"] = "bank" },
+              },
+            },
+          },
+        },
+      },
+    },`
+)
+
+test("a rule's potion effects written as a lua list read as a list", () => {
+  const rule = parseTemperInventoryConfig(A_CHAINED_RULE).orderedRules[0]
+  expect(rule?.potionEffects).toEqual(["health-restore", "magicka-restore"])
+  expect(Array.isArray(rule?.potionEffects)).toBe(true)
+})
+
+test("a rule's destination chain written as a lua list reads as a list", () => {
+  const rule = parseTemperInventoryConfig(A_CHAINED_RULE).orderedRules[0]
+  expect(Array.isArray(rule?.destinationChain)).toBe(true)
+  expect(rule?.destinationChain).toEqual([
+    { destination: "character:by-priority", targetQuantity: 200 },
+    { destination: "bank" },
+  ])
+})
+
+test("a chain leg's skill line ids are a lua list of their own", () => {
+  const held = parseTemperInventoryConfig(
+    savedVariables(
+      `    ["@one"] =
+    {
+      ["$AccountWide"] =
+      {
+        ["sellCompiled"] =
+        {
+          ["orderedRules"] =
+          {
+            [1] =
+            {
+              ["categoryId"] = "gear",
+              ["action"] = "move-to",
+              ["destinationChain"] =
+              {
+                [1] =
+                {
+                  ["destination"] = "bank",
+                  ["charEligibility"] =
+                  {
+                    ["requiredSkillLines"] =
+                    {
+                      ["mode"] = "any-not-maxed",
+                      ["skillLineIds"] = { [1] = "world-legerdemain" },
+                    },
+                  },
+                },
+              },
+            },
+          },
+        },
+      },
+    },`
+    )
+  )
+  const leg = held.orderedRules[0]?.destinationChain?.[0]
+  expect(leg?.charEligibility?.requiredSkillLines?.skillLineIds).toEqual(["world-legerdemain"])
+})
+
 test("consumables nobody wants read as none rather than as missing", () => {
   expect(parseTemperInventoryConfig(TWO_RULES).wantedConsumables).toEqual({})
 })

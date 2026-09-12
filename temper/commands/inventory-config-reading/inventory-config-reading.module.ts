@@ -32,5 +32,14 @@ export const inventoryConfigReading = {
       invariantKind: "departure",
       statement: "A key this side has never heard of is carried through untouched.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "Every list a rule holds is named here, because Lua writes a list as a table keyed from one.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A list left unnamed reaches a reader as a record, and every reader takes a list.",
+    },
   ],
 } as const satisfies Module

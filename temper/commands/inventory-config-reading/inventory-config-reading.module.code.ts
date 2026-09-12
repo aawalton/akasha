@@ -1,5 +1,10 @@
 import { DataError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+import type {
+  CharEligibility,
+  MoveToDestination,
+  Tier,
+} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { RULE_CONSTANT_KEYS } from "akasha/temper/items-rules-core/rule-constants/rule-constants.module.code.ts"
 import { savedVariablesRootSchema } from "akasha/temper/saved-variables/account-wide/account-wide.module.code.ts"
 import { luaArrayOrEmpty } from "akasha/temper/saved-variables/lua-array/lua-array.module.code.ts"
@@ -68,6 +73,26 @@ const CHARACTER_SCOPE_SCHEMA: z.ZodType<
   )
 const COMPANION_SCOPE_SCHEMA = z.enum(["active-companion", "any-companion"])
 const STOCK_SCOPE_SCHEMA = z.enum(["current-character", "any-character"])
+
+const TIER_CHAR_ELIGIBILITY_SCHEMA: z.ZodType<CharEligibility> = z
+  .object({
+    requiredSkillLines: z
+      .object({
+        skillLineIds: luaArrayOrEmpty(z.string()).readonly(),
+        mode: z.enum(["all-maxed", "any-not-maxed"]),
+      })
+      .optional(),
+    canLevelMorphs: z.object({ mode: z.literal("can-level") }).optional(),
+  })
+  .passthrough()
+
+const DESTINATION_TIER_SCHEMA: z.ZodType<Tier> = z
+  .object({
+    destination: z.custom<MoveToDestination>((one) => typeof one === "string" && one.length > 0),
+    targetQuantity: z.number().optional(),
+    charEligibility: TIER_CHAR_ELIGIBILITY_SCHEMA.optional(),
+  })
+  .passthrough()
 
 const COMPILED_ORDERED_RULE_SCHEMA = z
   .object({
@@ -142,6 +167,9 @@ const COMPILED_ORDERED_RULE_SCHEMA = z
     )
       .readonly()
       .optional(),
+    potionEffects: luaArrayOrEmpty(z.string()).readonly().optional(),
+    potionEffectsMode: z.enum(["all", "any"]).optional(),
+    destinationChain: luaArrayOrEmpty(DESTINATION_TIER_SCHEMA).readonly().optional(),
   })
   .passthrough()
 
