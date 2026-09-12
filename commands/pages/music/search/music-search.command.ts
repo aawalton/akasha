@@ -33,6 +33,10 @@ export const musicSearch = {
       statement: "A call naming no query is refused.",
     },
     {
+      invariantKind: "departure",
+      statement: "A call saying no limit gives back five candidates.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here starts playback.",
     },
@@ -40,7 +44,7 @@ export const musicSearch = {
   name: "search",
   arguments: [
     { argument: "argument/json" },
-    { argument: "argument/limit" },
+    { argument: "argument/limit", default: "5" },
     { argument: "argument/artist" },
     { argument: "argument/query", required: true, saidAs: "word" },
   ],

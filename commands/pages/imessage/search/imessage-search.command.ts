@@ -53,6 +53,6 @@ export const imessageSearch = {
       oneOf: ["argument/query-file"],
     },
     { argument: "argument/contact" },
-    { argument: "argument/limit" },
+    { argument: "argument/limit", default: "20" },
   ],
 } as const satisfies Command

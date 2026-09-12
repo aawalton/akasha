@@ -19,8 +19,6 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { musicSearch as page } from "akasha/commands/pages/music/search/music-search.command.ts"
 
-const DEFAULT_LIMIT = 5
-
 const MAX_FETCH = 10
 
 const NAMED = [artistArgument, json, limitArgument, queryArgument]
@@ -62,7 +60,7 @@ export async function searchWith(
   const wrong = wrongIn(taken.query)
   if (wrong !== null) return refused(wrong, INPUT)
   const query = taken.query
-  const limit = taken.limit ?? DEFAULT_LIMIT
+  const limit = taken.limit
   const artist = taken.artist
   const wide = artist !== undefined && artist !== ""
   const fetchLimit = wide ? MAX_FETCH : Math.min(limit, MAX_FETCH)

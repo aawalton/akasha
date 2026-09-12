@@ -25,8 +25,6 @@ import { imessageSearch as page } from "akasha/commands/pages/imessage/search/im
 
 const QUERY = filing(messageQuery.said)
 
-const DEFAULT_LIMIT = 20
-
 const OVER_ASKED_BY = 5
 
 const WANTS = "what to search for"
@@ -49,7 +47,7 @@ export function imessageSearch(argv: readonly string[], given: Given): Promise<A
   if (query === undefined) {
     return Promise.resolve(refusedBy([`this names ${WANTS}, and nothing did`]))
   }
-  const limit = taken.limit ?? DEFAULT_LIMIT
+  const limit = taken.limit
   return answering(async () => {
     const handleRowids =
       taken.contact === undefined ? undefined : await resolveContactHandleRowids(taken.contact)

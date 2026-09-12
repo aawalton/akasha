@@ -38,7 +38,7 @@ export const imessageRecentList = {
   name: "recent-list",
   arguments: [
     { argument: "argument/json" },
-    { argument: "argument/limit" },
+    { argument: "argument/limit", default: "20" },
     { argument: "argument/contact" },
   ],
 } as const satisfies Command

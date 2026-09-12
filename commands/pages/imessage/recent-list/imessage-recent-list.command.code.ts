@@ -20,8 +20,6 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { imessageRecentList as page } from "akasha/commands/pages/imessage/recent-list/imessage-recent-list.command.ts"
 
-const DEFAULT_LIMIT = 20
-
 export function imessageRecentList(argv: readonly string[], given: Given): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [json, limitArgument, contact])
   if ("refused" in read) return Promise.resolve(refusedBy(read.refused))
@@ -34,7 +32,7 @@ export function imessageRecentList(argv: readonly string[], given: Given): Promi
     const [messages, contacts] = await Promise.all([
       fetchMessages(
         buildRecentSql({
-          limit: taken.limit ?? DEFAULT_LIMIT,
+          limit: taken.limit,
           ...(handleRowids === undefined ? {} : { handleRowids }),
         })
       ),
