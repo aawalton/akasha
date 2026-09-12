@@ -6,13 +6,6 @@ export const temperInventoryAutomationSet = {
   slug: "temper-inventory-automation-set",
   definition: "the command setting or clearing one automation toggle",
   code: "ts",
-  taking: [
-    {
-      said: "--target <characters|companions>",
-      takes: "which interface a toggle carried by both is set on",
-    },
-  ],
-
   invariants: [
     {
       invariantKind: "departure",
@@ -33,8 +26,9 @@ export const temperInventoryAutomationSet = {
   ],
   name: "set",
   arguments: [
-    { argument: "argument/scope" },
+    { argument: "argument/scope", required: true },
     { argument: "argument/toggle", required: true },
     { argument: "argument/value", required: true },
+    { argument: "argument/toggle-target" },
   ],
 } as const satisfies Command

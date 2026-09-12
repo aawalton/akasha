@@ -1,11 +1,17 @@
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { scope } from "akasha/commands/arguments/pages/scope.argument.ts"
+import { toggle } from "akasha/commands/arguments/pages/toggle.argument.ts"
+import { toggleTarget } from "akasha/commands/arguments/pages/toggle-target.argument.ts"
+import { value } from "akasha/commands/arguments/pages/value.argument.ts"
 import {
   INPUT,
   OK,
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { temperInventoryAutomationSet as page } from "akasha/commands/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.ts"
 import { inventorySettings } from "akasha/temper/commands/inventory-settings-handle/inventory-settings-handle.module.code.ts"
 import {
   type AutomationScope,
@@ -16,90 +22,46 @@ import {
 } from "akasha/temper/inventory-automation/automation-toggle-change/automation-toggle-change.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/inventory-automation/automation-toggles/automation-toggles.module.code.ts"
 
-const SCOPE = "--scope"
-
-const TOGGLE = "--toggle"
-
-const VALUE = "--value"
-
-const TARGET = "--target"
-
 const SPACES = 2
 
-const TAKING_A_VALUE = [SCOPE, TOGGLE, VALUE, TARGET]
+const PAGES = [scope, toggle, value, toggleTarget]
 
-const NEEDED = [SCOPE, TOGGLE, VALUE]
-
-export type Read =
-  | {
-      readonly scope: string
-      readonly toggle: string
-      readonly value: string
-      readonly target: string | null
-    }
-  | { readonly refused: readonly string[] }
-
-export function readIn(argv: readonly string[]): Read {
-  const refusals: string[] = []
-  const held = new Map<string, string>()
-  for (let at = 0; at < argv.length; at += 1) {
-    const one = argv[at]
-    if (one === undefined) continue
-    if (!TAKING_A_VALUE.includes(one)) {
-      refusals.push(
-        `\`${one}\` is nothing this takes — it takes \`${SCOPE}\`, \`${TOGGLE}\`, ` +
-          `\`${VALUE}\` and \`${TARGET}\``
-      )
-      continue
-    }
-    const value = argv[at + 1]
-    at += 1
-    if (value === undefined) {
-      refusals.push(`\`${one}\` takes a value, and none followed it`)
-      continue
-    }
-    held.set(one, value)
-  }
-  for (const flag of NEEDED) {
-    if (!held.has(flag)) {
-      refusals.push(`\`${flag}\` names part of what is set, and nothing said it`)
-    }
-  }
-  if (refusals.length > 0) return { refused: refusals }
-  return {
-    scope: held.get(SCOPE) as string,
-    toggle: held.get(TOGGLE) as string,
-    value: held.get(VALUE) as string,
-    target: held.get(TARGET) ?? null,
-  }
-}
-
-export function scopeSaid(scope: AutomationScope): string {
-  if (scope.kind === "global") return `global.${scope.target}`
-  if (scope.kind === "character") return `character:${scope.esoCharId}`
-  return `companion:${scope.companionId}`
+export function scopeSaid(held: AutomationScope): string {
+  if (held.kind === "global") return `global.${held.target}`
+  if (held.kind === "character") return `character:${held.esoCharId}`
+  return `companion:${held.companionId}`
 }
 
 type Asked =
   | { readonly scope: AutomationScope; readonly value: ToggleValue }
   | { readonly why: string }
 
-function askedIn(read: Exclude<Read, { refused: readonly string[] }>): Asked {
+type Asking = {
+  readonly scope: string
+  readonly toggle: string
+  readonly value: string
+  readonly toggleTarget?: string
+}
+
+function askedIn(asking: Asking): Asked {
   try {
     return {
-      scope: parseScope(read.scope, read.toggle, read.target ?? undefined),
-      value: parseValue(read.value),
+      scope: parseScope(asking.scope, asking.toggle, asking.toggleTarget),
+      value: parseValue(asking.value),
     }
   } catch (thrown) {
     return { why: whyOf(thrown) }
   }
 }
 
-export async function temperInventoryAutomationSet(argv: readonly string[] = []): Promise<Answer> {
-  const read = readIn(argv)
+export async function temperInventoryAutomationSet(
+  argv: readonly string[],
+  given: Given
+): Promise<Answer> {
+  const read = takenFor(argv, given.calledAs, page, PAGES)
   if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
 
-  const asked = askedIn(read)
+  const asked = askedIn(read.taken)
   if ("why" in asked) return refused(asked.why, INPUT)
 
   const access = await inventorySettings()
@@ -113,7 +75,7 @@ export async function temperInventoryAutomationSet(argv: readonly string[] = [])
 
   let next: AutomationSettings
   try {
-    next = applyToggle(settings, asked.scope, read.toggle, asked.value)
+    next = applyToggle(settings, asked.scope, read.taken.toggle, asked.value)
   } catch (thrown) {
     return refused(whyOf(thrown), INPUT)
   }
@@ -127,6 +89,6 @@ export async function temperInventoryAutomationSet(argv: readonly string[] = [])
     )
   }
 
-  const said = { scope: scopeSaid(asked.scope), toggle: read.toggle, value: asked.value }
+  const said = { scope: scopeSaid(asked.scope), toggle: read.taken.toggle, value: asked.value }
   return { report: JSON.stringify(said, null, SPACES).split("\n"), refusals: [], code: OK }
 }
