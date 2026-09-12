@@ -148,6 +148,10 @@ export const command = {
       statement: "The arguments a command takes are carried here as data rather than as prose.",
     },
     {
+      invariantKind: "departure",
+      statement: "A machine-facing answer is a flag on the command a person runs.",
+    },
+    {
       invariantKind: "absence",
       statement: "Outside its directives, a command's code and page spell no name of its own call.",
     },
