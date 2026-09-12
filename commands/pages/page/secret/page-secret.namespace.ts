@@ -7,7 +7,7 @@ export const pageSecret = {
   definition: "a value a page carries that the files hide",
   parts: [
     "command/page-secret-clear",
-    "command/page-secret-reveal",
+    "command/page-secret-show",
     "command/page-secret-set",
     "command/page-secret-list",
   ],

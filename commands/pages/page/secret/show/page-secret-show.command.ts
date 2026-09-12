@@ -1,9 +1,9 @@
 import type { Command } from "akasha/commands/command.page-type.types.ts"
 
-export const pageSecretReveal = {
+export const pageSecretShow = {
   id: "01a06812-3ce8-7f5f-b3d7-fce6fc2e94e5",
   type: "command",
-  slug: "page-secret-reveal",
+  slug: "page-secret-show",
   definition: "the command answering with one of a page's secrets, decrypted",
   code: "ts",
   changeKind: "change-none",

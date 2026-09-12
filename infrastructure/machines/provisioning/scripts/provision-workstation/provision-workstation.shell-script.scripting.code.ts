@@ -247,7 +247,7 @@ export function bodyIn(given: string | Reading): string {
     'echo "    (setup-symlinks.sh) are in place — those are not provisioned by this script."',
     'echo "  - Restore the workstation SMS outbound creds into ~/.secrets.env from the telnyx"',
     'echo "    account page, which is their tracked source:"',
-    `echo "      akasha page-secret-reveal --file-path ${accountIn(given)} --key api-key"`,
+    `echo "      akasha page-secret-show --file-path ${accountIn(given)} --key api-key"`,
     'echo "    and the from-number is stated on that page. Add each as"',
     "echo \"    'export KEY=value' (edit specific lines; never overwrite the file).\"",
   ]

@@ -8,7 +8,7 @@ import {
 } from "akasha/pages/commands/page-secret-acting/page-secret-acting.module.code.ts"
 import { secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
 
-export async function pageSecretReveal(argv: readonly string[], given: Given): Promise<Answer> {
+export async function pageSecretShow(argv: readonly string[], given: Given): Promise<Answer> {
   return await caught(() => {
     const aimed = aiming(argv, given, [FILE_PATH, KEY])
     if ("code" in aimed) return aimed
