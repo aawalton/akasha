@@ -7,9 +7,9 @@ import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.
 
 const SOURCE = "--source"
 
-const OUT = "--out"
+const OUTPUT = "--output"
 
-const VALUED = new Set([SOURCE, OUT])
+const VALUED = new Set([SOURCE, OUTPUT])
 
 export type Read =
   | { readonly said: ReadonlyMap<string, string> }
@@ -94,7 +94,7 @@ async function fetching(
 ): Promise<Answer> {
   const files = await import("akasha/alan/google/drive/drive-files/drive-files.module.code.ts")
   const fileId = files.parseDriveFileId(said.get(SOURCE) ?? "")
-  const folder = folderOf(said.get(OUT), root, from)
+  const folder = folderOf(said.get(OUTPUT), root, from)
   const { makeDriveClient } = await import(
     "akasha/alan/google/drive/drive-client/drive-client.module.code.ts"
   )
