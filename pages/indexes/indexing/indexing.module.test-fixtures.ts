@@ -124,6 +124,18 @@ export const said = (at: string): unknown => JSON.parse(linesIn(at)[0] ?? "")
 export const shapeFiled = (root: string, pageTypeSlug: string, slug: string): unknown =>
   shapesAt(readingAt(root)).get(`${pageTypeSlug}/${slug}`) ?? null
 
+export const noteShaped = (pageTypeSlug: string, targetPageTypeSlug: string | null): unknown => ({
+  pageTypeSlug,
+  targetPageTypeSlug,
+  unique: null,
+  uniquePropertySlug: null,
+  slug: "note",
+  propertySlug: "note",
+  fileName: null,
+  folderName: null,
+  sorted: false,
+})
+
 export const NOTE = aProperty("8", "note", "relation-property", { targetPageType: "domain" })
 
 export function grounded(): Pair {

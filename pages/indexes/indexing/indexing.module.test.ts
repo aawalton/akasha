@@ -39,6 +39,7 @@ import {
   NAMES_C_BY_SLUG,
   NOTE,
   namingAType,
+  noteShaped,
   pathBlocked,
   pathFile,
   pathsFiledIn,
@@ -141,31 +142,15 @@ test("two pages carrying one value leave two lines in one file", () => {
 test("a property that changes its shape changes what its entry says and where it is filed", () => {
   const { tree, root } = grounded()
   const at = settled(root, tree, ...NOTE, null)
-  expect(shapeFiled(root, "relation-property", "note")).toEqual({
-    pageTypeSlug: "relation-property",
-    targetPageTypeSlug: "domain",
-    unique: null,
-    uniquePropertySlug: null,
-    slug: "note",
-    propertySlug: "note",
-    fileName: null,
-    folderName: null,
-  })
+  expect(shapeFiled(root, "relation-property", "note")).toEqual(
+    noteShaped("relation-property", "domain")
+  )
 
   tookAway(root, tree, at, bodyOf(NOTE[1]))
   settled(root, tree, ...aProperty("8", "note", "text-property"), null)
 
   expect(shapeFiled(root, "relation-property", "note")).toBe(null)
-  expect(shapeFiled(root, "text-property", "note")).toEqual({
-    pageTypeSlug: "text-property",
-    targetPageTypeSlug: null,
-    unique: null,
-    uniquePropertySlug: null,
-    slug: "note",
-    propertySlug: "note",
-    fileName: null,
-    folderName: null,
-  })
+  expect(shapeFiled(root, "text-property", "note")).toEqual(noteShaped("text-property", null))
 })
 
 test("a removed property leaves no shape of its own and leaves the rest in place", () => {
