@@ -9,30 +9,19 @@ export const changeApply = {
   test: "ts",
   changeKind: "change-mechanical",
   timeout: null,
-  helpNotes: [
-    "an apply naming no change lands the edits already kept beside this agent's page.",
-    "an apply naming a change answers that change first, then lands every edit kept, and `measure` measures that landing rather than landing it.",
-    "the arguments a change takes are piped in, as they are for a draft.",
-    "an argument is a line `key: value`, or `key <fence>` opening a body that `<fence>` alone closes.",
-    "nothing on the command line carries a value, so no shell reads a quote or a backslash.",
-    "`message` says what the commit is for, and an apply naming none composes the message.",
-    "`draft` is refused here, because an apply lands rather than keeps.",
-    "an apply lands every edit kept rather than the edits this run answered alone.",
-    "the checks judge the whole set of edits kept as that apply lands them.",
-    "an apply the checks refused leaves every edit kept, and that is the dry run.",
-    "why the apply refused is written beside this agent's page, whole.",
-    "`break-the-glass` says why no check is to run, and the reason is written into the commit.",
-    "`measure` runs the checks, holds no test file to a ceiling, is allowed more seconds than this page states, says what each spent, and lands nothing.",
-    "the edits `akasha change draft` kept are folded into one answer and landed.",
-    "an apply that refuses puts the fold back, so the edits are kept for a change to mend.",
-    "an edit for a body the apply writes again is dropped rather than folded, and the report names it.",
-    "an apply says how many subagents handed edits over, because an apply lands none of them.",
-    "an apply runs under no ceiling on the clock, and a change past the processor seconds its page allows lands nothing.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "An apply naming no change lands the edits already kept.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The arguments a change takes are piped in.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An argument is a line `key: value` or `key <fence>` opening a body `<fence>` alone closes.",
     },
     {
       invariantKind: "departure",
@@ -93,6 +82,10 @@ export const changeApply = {
     {
       invariantKind: "departure",
       statement: "`break-the-glass` passes the checks.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The value at `break-the-glass` is why no check is to run.",
     },
     {
       invariantKind: "departure",
