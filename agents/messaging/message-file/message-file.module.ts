@@ -29,7 +29,8 @@ export const messageFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A message page composed outside the one folder read here is refused.",
+      statement:
+        "A message lands at the path the composer gives rather than at one worked out again here.",
     },
     {
       invariantKind: "departure",

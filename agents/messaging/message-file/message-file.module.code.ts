@@ -119,15 +119,6 @@ export async function writeMessage(stated: {
     },
   })
   if ("refused" in composed) return { kind: "refused", detail: composed.refused }
-  const under = pagesAt()
-  if (!composed.put.path.startsWith(`${under}/`)) {
-    return {
-      kind: "refused",
-      detail:
-        `a message page would land at ${composed.put.path}, outside ${under}, which is ` +
-        `the only place read here, so nothing would ever drain it`,
-    }
-  }
   const held = new TextEncoder().encode(composed.put.content).byteLength
   if (held > CEILING) {
     return {
