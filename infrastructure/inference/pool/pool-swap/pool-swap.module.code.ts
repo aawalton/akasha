@@ -2,7 +2,7 @@ import {
   killService,
   startService,
   stopService,
-} from "akasha/infrastructure/inference/pool/launchd-service/launchd-service.module.code.ts"
+} from "akasha/infrastructure/inference/pool/modules/launchd-service/launchd-service.module.code.ts"
 import type {
   PoolConfig,
   PoolService,

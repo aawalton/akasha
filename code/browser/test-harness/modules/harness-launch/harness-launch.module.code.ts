@@ -1,6 +1,6 @@
 import { createClient } from "@supabase/supabase-js"
 import { signInWithPassword } from "akasha/alan/harness/supabase-auth/modules/auth/auth.module.code.ts"
-import { buildBrowserLaunchEnv } from "akasha/code/browser/launch-env/launch-env/launch-env.module.code.ts"
+import { buildBrowserLaunchEnv } from "akasha/code/browser/launch-env/modules/launch-env/launch-env.module.code.ts"
 import {
   type ConsoleCapture,
   createConsoleCapture,

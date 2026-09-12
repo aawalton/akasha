@@ -8,7 +8,6 @@ import {
   SCOPE_FLAG,
   said,
 } from "akasha/agents/hooks/modules/answer/hook-answer.module.code.ts"
-import { lastAskedIn, lastSaidIn } from "akasha/agents/last-said/last-said.module.code.ts"
 import { endsYes } from "akasha/agents/models/modules/answer/model-answer.module.code.ts"
 import {
   directiveKept,
@@ -26,6 +25,7 @@ import {
   modelOf,
 } from "akasha/agents/models/tests/running/model-test-running.module.code.ts"
 import { readOwnTranscriptTail } from "akasha/agents/modules/io-probe/io-probe.module.code.ts"
+import { lastAskedIn, lastSaidIn } from "akasha/agents/modules/last-said/last-said.module.code.ts"
 import { seatIn } from "akasha/agents/read-record/read-record.module.code.ts"
 import { transcriptOf } from "akasha/agents/seats/modules/transcript-path/seat-transcript-path.module.code.ts"
 import {

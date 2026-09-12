@@ -1,4 +1,3 @@
-import { getExtensionKindForNode } from "akasha/design/language/lua-compiler/language-extension-kinds/language-extension-kinds.module.code.ts"
 import { addToNumericExpression } from "akasha/design/language/lua-compiler/lua-ast/lua-ast.module.code.ts"
 import * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import { transformLuaLibFunction } from "akasha/design/language/lua-compiler/lualib-call/lualib-call.module.code.ts"
@@ -15,6 +14,7 @@ import {
   isSymbolExported,
 } from "akasha/design/language/lua-compiler/modules/export-scope/export-scope.module.code.ts"
 import { createExportsIdentifier } from "akasha/design/language/lua-compiler/modules/exports-identifier/exports-identifier.module.code.ts"
+import { getExtensionKindForNode } from "akasha/design/language/lua-compiler/modules/language-extension-kinds/language-extension-kinds.module.code.ts"
 import { isOptionalContinuation } from "akasha/design/language/lua-compiler/optional-chain-data/optional-chain-data.module.code.ts"
 import { maybeWrapThisVoidAsAdapter } from "akasha/design/language/lua-compiler/this-void-adapter/this-void-adapter.module.code.ts"
 import {

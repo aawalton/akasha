@@ -1,0 +1,16 @@
+import "akasha/temper/keybinder-addon/modules/keybinder-public-api/keybinder-public-api.module.code.ts"
+
+import { registerAddonInit } from "akasha/temper/addon-init/modules/addon-init/addon-init.module.code.ts"
+import { bindingFunctionsAvailable } from "akasha/temper/keybinder-addon/modules/keybinder-binding-fns/keybinder-binding-fns.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/keybinder-addon/modules/keybinder-constants/keybinder-constants.module.code.ts"
+import { installBuildMasterListHook } from "akasha/temper/keybinder-addon/modules/keybinder-filter/keybinder-filter.module.code.ts"
+import { registerBindingEvents } from "akasha/temper/keybinder-addon/modules/keybinder-keybind-events/keybinder-keybind-events.module.code.ts"
+import { initializeSavedVariables } from "akasha/temper/keybinder-addon/modules/keybinder-saved-variables/keybinder-saved-variables.module.code.ts"
+import { resetBindingSyncState } from "akasha/temper/keybinder-addon/modules/keybinder-state/keybinder-state.module.code.ts"
+
+if (bindingFunctionsAvailable()) {
+  registerBindingEvents()
+  installBuildMasterListHook()
+  resetBindingSyncState()
+  registerAddonInit(ADDON_NAME, initializeSavedVariables)
+}

@@ -1,7 +1,3 @@
-import {
-  getExtensionKindForNode,
-  getExtensionKindForSymbol,
-} from "akasha/design/language/lua-compiler/language-extension-kinds/language-extension-kinds.module.code.ts"
 import * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import { createPromiseIdentifier } from "akasha/design/language/lua-compiler/lualib-call/lualib-call.module.code.ts"
 import {
@@ -21,6 +17,10 @@ import {
   createExportedIdentifier,
   getSymbolExportScope,
 } from "akasha/design/language/lua-compiler/modules/export-scope/export-scope.module.code.ts"
+import {
+  getExtensionKindForNode,
+  getExtensionKindForSymbol,
+} from "akasha/design/language/lua-compiler/modules/language-extension-kinds/language-extension-kinds.module.code.ts"
 import {
   getOptionalContinuationData,
   isOptionalContinuation,

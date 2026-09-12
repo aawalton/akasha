@@ -1,7 +1,7 @@
 import {
   messageUnrevivableToKeeper,
   pushKeeperUnrevivableToAlan,
-} from "akasha/agents/messaging/recipient-resolving/keeper-unrevivable-push/keeper-unrevivable-push.module.code.ts"
+} from "akasha/agents/messaging/recipient-resolving/modules/keeper-unrevivable-push/keeper-unrevivable-push.module.code.ts"
 import type { RecipientResolverConfig } from "akasha/agents/messaging/recipient-resolving/recipient-resolver-config/recipient-resolver-config.module.code.ts"
 import {
   getAgentInboundMessages,

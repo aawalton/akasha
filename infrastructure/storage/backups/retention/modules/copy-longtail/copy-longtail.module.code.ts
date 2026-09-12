@@ -1,6 +1,5 @@
 import { existsSync, mkdirSync, mkdtempSync, readdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { GfsAlertEnvelope } from "akasha/infrastructure/storage/backups/retention/keep-decision/keep-decision.module.code.ts"
 import {
   attestationLogLines,
   attestationProbeProblem,
@@ -17,6 +16,7 @@ import {
   walFilesInRange,
   walPrefixDirsInRange,
 } from "akasha/infrastructure/storage/backups/retention/modules/decide-longtail/decide-longtail.module.code.ts"
+import type { GfsAlertEnvelope } from "akasha/infrastructure/storage/backups/retention/modules/keep-decision/keep-decision.module.code.ts"
 import {
   rcloneCat,
   rcloneCopy,

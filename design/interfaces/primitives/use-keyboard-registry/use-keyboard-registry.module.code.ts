@@ -9,7 +9,7 @@ import {
   type OS,
   parseChord,
   selectBindingsById,
-} from "akasha/design/interfaces/primitives/keyboard-registry/keyboard-registry.module.code.ts"
+} from "akasha/design/interfaces/primitives/modules/keyboard-registry/keyboard-registry.module.code.ts"
 import { useCallback, useEffect, useRef, useSyncExternalStore } from "react"
 
 const STORAGE_KEY = "keyboard-shortcuts-enabled"

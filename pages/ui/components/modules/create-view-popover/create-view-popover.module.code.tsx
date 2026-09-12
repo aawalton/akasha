@@ -1,8 +1,8 @@
 "use client"
 
-import { Label } from "akasha/design/interfaces/primitives/label/label.module.code.tsx"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { Input } from "akasha/design/interfaces/primitives/modules/input/input.module.code.tsx"
+import { Label } from "akasha/design/interfaces/primitives/modules/label/label.module.code.tsx"
 import {
   Popover,
   PopoverContent,

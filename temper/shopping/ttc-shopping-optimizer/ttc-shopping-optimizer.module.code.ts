@@ -6,7 +6,7 @@ import type {
   ShoppingPlan,
   TaggedListing,
 } from "akasha/temper/shopping/ttc-shopping-types/ttc-shopping-types.module.code.ts"
-import { kioskLocationName } from "akasha/temper/trading-pricing/kiosk-location-name/kiosk-location-name.module.code.ts"
+import { kioskLocationName } from "akasha/temper/trading-pricing/modules/kiosk-location-name/kiosk-location-name.module.code.ts"
 import {
   TTC_AGO,
   type TTCListingClient,

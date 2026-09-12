@@ -1,7 +1,7 @@
 import {
   kubernetesLabels,
   selectorOf,
-} from "akasha/infrastructure/cluster/k8s-types/labels/labels.module.code.ts"
+} from "akasha/infrastructure/cluster/k8s-types/modules/labels/labels.module.code.ts"
 
 export const NAMESPACE = "headscale"
 const APP_NAME = "headscale"
