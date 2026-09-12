@@ -6,7 +6,6 @@ export const temperInventoryRuleReorder = {
   slug: "temper-inventory-rule-reorder",
   definition: "the command moving a category rule to another place in the priority order",
   code: "ts",
-  taking: [{ said: "--to <index>", takes: "the position the rule moves to" }],
   invariants: [
     {
       invariantKind: "departure",
@@ -33,7 +32,11 @@ export const temperInventoryRuleReorder = {
   arguments: [
     { argument: "argument/force" },
     { argument: "argument/category-rule-id", required: true, saidAs: "word" },
-    { argument: "argument/before" },
+    {
+      argument: "argument/to-position",
+      notWith: ["argument/before", "argument/after"],
+    },
+    { argument: "argument/before", notWith: ["argument/after"] },
     { argument: "argument/after" },
   ],
 } as const satisfies Command
