@@ -97,4 +97,5 @@ export const browserTestVerifyRender = {
     },
   ],
   name: "test-verify-render",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command

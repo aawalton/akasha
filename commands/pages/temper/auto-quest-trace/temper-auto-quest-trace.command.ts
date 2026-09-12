@@ -30,4 +30,5 @@ export const temperAutoQuestTrace = {
     },
   ],
   name: "auto-quest-trace",
+  arguments: [{ argument: "argument/json" }],
 } as const satisfies Command
