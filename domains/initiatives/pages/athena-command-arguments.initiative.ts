@@ -28,7 +28,7 @@ export const athenaCommandArguments = {
       statement:
         "A command's code reads its arguments through a type generated from its argument pages.",
       workingMemory:
-        "229 of 236 at `1865d6a7de3`, and seven `temper` commands converted since. The `--` reason was wrong: the swallow is right, and four pages promise it — a `--` makes the word after it the id — on both lock and both unlock. `change draft` is not at risk, its change being required. Only `change apply` is, saying nothing being its instruction to land. Both stay: converting buys two lines and costs a special case in the command every landing goes through. `alan tracking` reads by word order.\n",
+        "234 of 237 by the check at `9b56121c79b`: 15 refusals over three commands. Two are settled: `change apply`, where saying nothing is the instruction to land, and `change draft` with it. The third is `alan tracking`, and it is a property of the command: `file-arguing`'s `readIn` pairs each `--file-path` with the `--content-file` after it, while `takingIn` keys a repeating argument by slug and records no place, so a converted call would accept an unpaired path where today it refuses. Alan's.\n",
     },
     {
       statement: "One spelling names one argument, and one argument has one spelling.",
