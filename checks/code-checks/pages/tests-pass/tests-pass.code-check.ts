@@ -264,6 +264,14 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
+      statement: "Every file of one run is recorded against the one memory that run measured.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that measured no such memory records each file's peak as unmeasured.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file that came back unclean is recorded with one refusal.",
     },
     {

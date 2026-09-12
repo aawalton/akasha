@@ -235,7 +235,17 @@ export function ranAs(
   slow: Ran["slow"] = [],
   cpuSeconds = 0
 ): Ran {
-  return { code: 1, signal: null, output, summary, verdict, cpuSeconds, slow, spent: [] }
+  return {
+    code: 1,
+    signal: null,
+    output,
+    summary,
+    verdict,
+    cpuSeconds,
+    slow,
+    spent: [],
+    baselineBytes: null,
+  }
 }
 
 export function spentAs(path: string, cpuSeconds: number, code: number): Spent {

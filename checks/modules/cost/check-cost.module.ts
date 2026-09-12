@@ -6,6 +6,7 @@ export const checkCost = {
   slug: "check-cost",
   definition: "what one run cost, appended beside the page of what ran",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -151,12 +152,32 @@ export const checkCost = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A child starts holding nothing, so the memory such a run added is that run's peak.",
+      statement: "Such a run states the memory the harness around that run holds.",
     },
     {
       invariantKind: "departure",
-      statement: "Such a run's peak is measured rather than a proxy.",
+      statement:
+        "The memory such a run added is that run's peak over the memory that harness holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run peaking under the memory that harness holds added nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run stating no held memory holds none.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a run added its whole peak.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a run's peak is measured where the held memory is stated.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a run's peak is a proxy where no held memory is stated.",
     },
     {
       invariantKind: "absence",

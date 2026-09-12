@@ -100,6 +100,12 @@ export type Ran = {
   readonly cpuSeconds: number
   readonly slow: readonly Slowed[]
   readonly spent: readonly Spent[]
+  readonly baselineBytes: number | null
+}
+
+export type Spending = {
+  readonly spent: readonly Spent[]
+  readonly baselineBytes: number | null
 }
 
 export type Grouping = {
@@ -281,12 +287,31 @@ function runsFor(root: string, named: readonly string[]): readonly Grouping[] {
   return grouped.length === 0 ? [{ preloads: [], named: [...named] }] : grouped
 }
 
+export function baselineIn(
+  root: string,
+  runs: readonly Grouping[],
+  over: Overlay | null = null
+): number | null {
+  for (const group of runs) {
+    const one = group.named[0]
+    if (one === undefined) continue
+    const preloading = group.preloads.flatMap((each) => [PRELOADING, each])
+    const naming = [NAMING, wholeOf(Bun.randomUUIDv7())]
+    const done = runsIn(root, [RUNNER, RUNS, ...preloading, ...naming, pathed(one)], over)
+    if (done.signal !== null) return null
+    const said = verdictOf(done.code, `${done.out}${done.err}`, 0)
+    return said === "pass" ? done.peakBytes : null
+  }
+  return null
+}
+
 export function spentIn(
   root: string,
   runs: readonly Grouping[],
   naming: readonly string[],
   over: Overlay | null = null
-): readonly Spent[] {
+): Spending {
+  const baselineBytes = baselineIn(root, runs, over)
   const found: Spent[] = []
   for (const group of runs) {
     const preloading = group.preloads.flatMap((one) => [PRELOADING, one])
@@ -306,7 +331,7 @@ export function spentIn(
       })
     }
   }
-  return found
+  return { spent: found, baselineBytes }
 }
 
 export function beyondIn(each: readonly Spent[], ceiling: number = CEILING): readonly Slowed[] {
@@ -323,7 +348,7 @@ export function spentOver(
   root: string,
   named: readonly string[],
   bodies: Bodies | null = null
-): readonly Spent[] {
+): Spending {
   const over = bodies === null ? null : mountedOver(root, bodies)
   try {
     return spentIn(root, runsFor(root, named), [], over)
@@ -340,7 +365,8 @@ function ranUnder(
   over: Overlay | null
 ): Ran {
   const naming = name === null ? [] : [NAMING, wholeOf(name)]
-  const each = spentIn(root, runsFor(root, named), naming, over)
+  const spending = spentIn(root, runsFor(root, named), naming, over)
+  const each = spending.spent
   let code = 0
   let signal: string | null = null
   let output = ""
@@ -367,6 +393,7 @@ function ranUnder(
     cpuSeconds: spent,
     slow,
     spent: each,
+    baselineBytes: spending.baselineBytes,
   }
 }
 
