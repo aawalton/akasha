@@ -46,12 +46,16 @@ test("a fault carrying no code of its own is answered as operational", () => {
   expect(codeOf("held")).toBe(OPERATIONAL)
 })
 
-test("a fault is answered as the one refusal its message makes", () => {
-  expect(faulted(new DataError("no row answers"))).toEqual({
-    report: [],
-    refusals: ["no row answers"],
-    code: DATA,
-  })
+test("a fault is answered as its message and where that fault was thrown", () => {
+  const held = faulted(new DataError("no row answers"))
+  expect(held.report).toEqual([])
+  expect(held.code).toBe(DATA)
+  expect(held.refusals[0]).toBe("no row answers")
+  expect(held.refusals[1]).toMatch(/^thrown at \/.+\.module\.test\.ts:\d+:\d+$/)
+})
+
+test("a fault carrying no frame is answered as its message alone", () => {
+  expect(faulted("held")).toEqual({ report: [], refusals: ["held"], code: OPERATIONAL })
 })
 
 test("work that threw is answered as the fault it threw", async () => {
@@ -60,11 +64,12 @@ test("work that threw is answered as the fault it threw", async () => {
     refusals: [],
     code: OK,
   })
-  expect(
-    await answering(() => {
-      throw new InputError("--app names a value")
-    })
-  ).toEqual({ report: [], refusals: ["--app names a value"], code: INPUT })
+  const held = await answering(() => {
+    throw new InputError("--app names a value")
+  })
+  expect(held.report).toEqual([])
+  expect(held.code).toBe(INPUT)
+  expect(held.refusals[0]).toBe("--app names a value")
 })
 
 test("a word where a command takes flags alone is the caller's mistake", () => {

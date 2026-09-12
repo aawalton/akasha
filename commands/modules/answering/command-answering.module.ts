@@ -26,7 +26,11 @@ export const commandAnswering = {
     },
     {
       invariantKind: "departure",
-      statement: "A fault is answered as the one refusal its message makes.",
+      statement: "A fault is answered as its message and where that fault was thrown.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A fault carrying no frame is answered as its message alone.",
     },
     {
       invariantKind: "departure",

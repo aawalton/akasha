@@ -1,5 +1,5 @@
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { framesOf, whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 
 export const OK = 0
 
@@ -44,7 +44,9 @@ export function codeOf(thrown: unknown): number {
 }
 
 export function faulted(thrown: unknown): Answer {
-  return { report: [], refusals: [whyOf(thrown)], code: codeOf(thrown) }
+  const [frame] = framesOf(thrown, 1)
+  const said = frame === undefined ? [whyOf(thrown)] : [whyOf(thrown), `thrown at ${frame}`]
+  return { report: [], refusals: said, code: codeOf(thrown) }
 }
 
 export async function answering(work: () => Answer | Promise<Answer>): Promise<Answer> {
