@@ -75,3 +75,44 @@ test("a call saying an argument takes that value over the default", () => {
   if ("refused" in read) throw new Error(read.refused.join("; "))
   expect(read.taken.tail).toBe(7)
 })
+
+const NAMING_ONLY_ONE = {
+  slug: "thing",
+  arguments: [
+    { argument: "argument/seat", notWith: ["argument/limit"], oneOf: ["argument/limit"] },
+    { argument: "argument/limit", notWith: ["argument/seat"], oneOf: ["argument/seat"] },
+  ],
+} as const
+
+const NAMING_EITHER = {
+  slug: "thing",
+  arguments: [
+    { argument: "argument/seat", oneOf: ["argument/limit"] },
+    { argument: "argument/limit", oneOf: ["argument/seat"] },
+  ],
+} as const
+
+test("a group forbidding its pair narrows to the member a call said", () => {
+  const read = takenFor(["--seat", "a"], "akasha thing", NAMING_ONLY_ONE, [SEAT_PAGE, LIMIT_PAGE])
+  if ("refused" in read) throw new Error(read.refused.join("; "))
+  const taken = read.taken
+  if (taken.limit !== undefined) throw new Error("the limit was said")
+  const seat: string = taken.seat
+  expect(seat).toBe("a")
+})
+
+test("a group forbidding its pair narrows the other way round", () => {
+  const read = takenFor(["--limit", "2"], "akasha thing", NAMING_ONLY_ONE, [SEAT_PAGE, LIMIT_PAGE])
+  if ("refused" in read) throw new Error(read.refused.join("; "))
+  const taken = read.taken
+  if (taken.seat !== undefined) throw new Error("the seat was said")
+  const limit: number = taken.limit
+  expect(limit).toBe(2)
+})
+
+test("a group forbidding nothing is answered as two a call may leave out", () => {
+  const read = takenFor(["--seat", "a"], "akasha thing", NAMING_EITHER, [SEAT_PAGE, LIMIT_PAGE])
+  if ("refused" in read) throw new Error(read.refused.join("; "))
+  const seat: string | undefined = read.taken.seat
+  expect(seat).toBe("a")
+})
