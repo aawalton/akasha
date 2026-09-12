@@ -15,7 +15,7 @@ import {
   type RunSeams,
   saidOf,
   startedOn,
-} from "akasha/commands/pages/model-gateway/start/proxy-run/proxy-run.module.code.ts"
+} from "akasha/commands/pages/model/gateway/start/proxy-run/proxy-run.module.code.ts"
 
 const AGENT_ID = "--agent-id"
 

@@ -8,14 +8,14 @@ import {
 import type {
   Asking,
   Outcome,
-} from "akasha/commands/pages/model-gateway/swap/model-gateway-swap.command.code.ts"
+} from "akasha/commands/pages/model/gateway/swap/model-gateway-swap.command.code.ts"
 import {
   askedEach,
   askedSaid,
   FLEET,
   JSON_OUT,
   readIn,
-} from "akasha/commands/pages/model-gateway/swap/model-gateway-swap.command.code.ts"
+} from "akasha/commands/pages/model/gateway/swap/model-gateway-swap.command.code.ts"
 
 const SEATS = ["awen", "athena"]
 

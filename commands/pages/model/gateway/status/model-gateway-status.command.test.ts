@@ -4,7 +4,7 @@ import {
   JSON_OUT,
   readIn,
   shortOf,
-} from "akasha/commands/pages/model-gateway/status/model-gateway-status.command.code.ts"
+} from "akasha/commands/pages/model/gateway/status/model-gateway-status.command.code.ts"
 
 function statusRefusals(argv: readonly string[]): readonly string[] {
   const said = readIn(argv)

@@ -14,7 +14,7 @@ import {
   saidOf,
   spawnedSaid,
   startedOn,
-} from "akasha/commands/pages/model-gateway/start/proxy-run/proxy-run.module.code.ts"
+} from "akasha/commands/pages/model/gateway/start/proxy-run/proxy-run.module.code.ts"
 
 const ASKED: Asked = {
   agentId: "model-gateway-start-test",

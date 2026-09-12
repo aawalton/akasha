@@ -27,7 +27,6 @@ export const command = {
     "namespace/claude-account",
     "namespace/domain",
     "namespace/model",
-    "namespace/model-gateway",
     "namespace/temper",
     "module/cli",
     "module/change-preparing",

@@ -11,5 +11,5 @@ export const modelGateway = {
     "command/model-gateway-swap",
     "module/live-gateway-seats",
   ],
-  name: "model-gateway",
+  name: "gateway",
 } as const satisfies Namespace

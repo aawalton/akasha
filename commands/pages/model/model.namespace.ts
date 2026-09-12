@@ -5,6 +5,6 @@ export const model = {
   type: "namespace",
   slug: "model",
   definition: "what is put to a model and what comes back",
-  parts: ["command/model-test"],
+  parts: ["command/model-test", "namespace/model-gateway"],
   name: "model",
 } as const satisfies Namespace
