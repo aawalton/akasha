@@ -1,4 +1,3 @@
-import { BOOK_DATA } from "akasha/temper/lorebooks/lorebooks-book-data/lorebooks-book-data.module.code.ts"
 import { BOOKSHELF_DATA } from "akasha/temper/lorebooks/lorebooks-bookshelf-data/lorebooks-bookshelf-data.module.code.ts"
 import {
   LBOOKS_IMMERSIVE_EXPLORATION,
@@ -31,6 +30,7 @@ import type {
   ShalidorMapData,
   ShalidorPinEntry,
 } from "akasha/temper/lorebooks/lorebooks-types/lorebooks-types.module.code.ts"
+import { BOOK_DATA } from "akasha/temper/lorebooks/modules/lorebooks-book-data/lorebooks-book-data.module.code.ts"
 
 export function loreBooksGetBookData(): EideticBookTable {
   return BOOK_DATA

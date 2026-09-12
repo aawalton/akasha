@@ -1,17 +1,17 @@
 import { describe, expect, test } from "bun:test"
-import { LORE_LIBRARY_DATA } from "akasha/temper/completion/lore-library-data/lore-library-data.module.code.ts"
 import type {
   CharacterCompletion,
   LoreCategory,
 } from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
-import {
-  sparseComplete,
-  sparseMissingOne,
-} from "akasha/temper/player-completion/lore-library-sparse-test-utils/lore-library-sparse-test-utils.module.code.ts"
+import { LORE_LIBRARY_DATA } from "akasha/temper/completion/modules/lore-library-data/lore-library-data.module.code.ts"
 import {
   extractLoreKnownSet,
   isLoreLibraryItemComplete,
 } from "akasha/temper/player-completion/modules/completion-lore-library-progress/completion-lore-library-progress.module.code.ts"
+import {
+  sparseComplete,
+  sparseMissingOne,
+} from "akasha/temper/player-completion/modules/lore-library-sparse-test-utils/lore-library-sparse-test-utils.module.code.ts"
 
 const CATEGORY = 1
 

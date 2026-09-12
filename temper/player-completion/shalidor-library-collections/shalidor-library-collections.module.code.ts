@@ -1,4 +1,4 @@
-import type { LoreCollectionEntry } from "akasha/temper/completion/lore-library-types/lore-library-types.module.code.ts"
+import type { LoreCollectionEntry } from "akasha/temper/completion/modules/lore-library-types/lore-library-types.module.code.ts"
 import { SHALIDOR_LIBRARY_COLLECTIONS_00 } from "akasha/temper/player-completion/shalidor-library-collections-00/shalidor-library-collections-00.module.code.ts"
 import { SHALIDOR_LIBRARY_COLLECTIONS_01 } from "akasha/temper/player-completion/shalidor-library-collections-01/shalidor-library-collections-01.module.code.ts"
 
