@@ -2,10 +2,8 @@ import { afterAll, expect, test } from "bun:test"
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { answering } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import {
-  NOTHING,
-  piping,
-} from "akasha/commands/modules/change-running/change-running.module.test-fixtures.ts"
+import { NOTHING } from "akasha/commands/modules/change-running/change-running.module.test-fixtures.ts"
+import { piping } from "akasha/commands/modules/piping/piping.module.test-fixtures.ts"
 import {
   changeRepeat,
   cliAt,

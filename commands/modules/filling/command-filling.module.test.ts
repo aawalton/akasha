@@ -4,10 +4,11 @@ import { join } from "node:path"
 import {
   filing,
   filledIn,
+  heldAt,
   proseIn,
   wordFilling,
 } from "akasha/commands/modules/filling/command-filling.module.code.ts"
-import { TERMINAL } from "akasha/commands/modules/piping/piping.module.test-fixtures.ts"
+import { piping, TERMINAL } from "akasha/commands/modules/piping/piping.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const WANTS = "what to send"
@@ -56,6 +57,25 @@ test("a file that would not open is refused rather than thrown", () => {
 test("a terminal where the file is `-` is nothing piped in", () => {
   const held = proseIn("/nowhere", { [TEXT.file]: "-" }, TEXT, TERMINAL)
   expect("refused" in held ? held.refused.join("") : "").toContain("nothing is piped in")
+})
+
+test("a file named `-` is the input, and no root is reached for it", () => {
+  expect(heldAt("/nowhere", TEXT.file, "-", piping("hello"))).toEqual({ text: "hello" })
+})
+
+test("what is piped in fills the value where the file is `-`", () => {
+  expect(proseIn("/nowhere", { [TEXT.file]: "-" }, TEXT, piping("Line one\n"))).toEqual({
+    text: "Line one",
+  })
+})
+
+test("a value piped in is read whole or loses its line endings as the filing says", () => {
+  expect(proseIn("/nowhere", { [TEXT.file]: "-" }, TEXT, piping("Line one\n\n"))).toEqual({
+    text: "Line one",
+  })
+  expect(proseIn("/nowhere", { [TEXT.file]: "-" }, WHOLE, piping("Line one\n\n"))).toEqual({
+    text: "Line one\n\n",
+  })
 })
 
 test("the two values a filing holds are read the same handed in as looked up", () => {

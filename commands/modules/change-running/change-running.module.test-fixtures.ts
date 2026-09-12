@@ -23,6 +23,7 @@ import {
   type Over,
 } from "akasha/commands/modules/change-running/change-running.module.code.ts"
 import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
+import { piping } from "akasha/commands/modules/piping/piping.module.test-fixtures.ts"
 import {
   idOf,
   indexedRepo,
@@ -159,10 +160,6 @@ export function repo(): string {
     ...KINDS,
     ...DRAFT_COMMAND,
   })
-}
-
-export function piping(said: string): Piping {
-  return () => ({ bytes: new TextEncoder().encode(said) })
 }
 
 export const NOTHING: Piping = () => ({ bytes: new Uint8Array(0) })

@@ -38,7 +38,6 @@ import {
   owedIn,
   PAGE,
   pathsIn,
-  piping,
   readingNotText,
   refusedApply,
   removing,
@@ -48,6 +47,7 @@ import {
   saysApply,
   taking,
 } from "akasha/commands/modules/change-running/change-running.module.test-fixtures.ts"
+import { piping } from "akasha/commands/modules/piping/piping.module.test-fixtures.ts"
 import {
   NAMER_CODE,
   NAMER_PAGE,
