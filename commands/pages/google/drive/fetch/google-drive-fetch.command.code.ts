@@ -32,14 +32,14 @@ function reachSaid(thrown: unknown, fileId: string): Answer | null {
   const status = statusOf(thrown)
   if (status === 404) {
     return refused(
-      `Drive holds no file ${fileId} this consent can reach — check the id, and that the file ` +
-        "is shared with the account the consent was granted for",
+      `\`${fileId}\` names no file on Drive this consent can reach — check the id, and that ` +
+        "the file is shared with the account the consent was granted for",
       DATA
     )
   }
   if (status === 401 || status === 403) {
     return refused(
-      `Drive turned the request for ${fileId} away with ${status} — the consent held is missing ` +
+      `\`${fileId}\` was turned away by Drive with ${status} — the consent held is missing ` +
         "or too narrow, and `akasha google login` grants a fresh one",
       OPERATIONAL
     )
@@ -98,7 +98,7 @@ async function fetching(
     const metadata = await files.fetchFileMetadata(client, fileId)
     if (files.isNativeGoogleDoc(metadata.mimeType)) {
       return refused(
-        `"${metadata.name}" is a native Google ${metadata.mimeType ?? "app"} file holding no ` +
+        `\`${metadata.name}\` is a native Google ${metadata.mimeType ?? "app"} file holding no ` +
           "bytes to download, and exporting one sits outside what this reaches",
         INPUT
       )
@@ -107,7 +107,7 @@ async function fetching(
     const name = basename(metadata.name).trim()
     if (name === "" || name === "." || name === "..") {
       return refused(
-        `Drive file ${fileId} carries a name nothing can be written under: "${metadata.name}"`,
+        `\`${fileId}\` carries the Drive name \`${metadata.name}\`, and nothing can be written under it`,
         OPERATIONAL
       )
     }
@@ -124,6 +124,6 @@ export async function googleDriveFetch(argv: readonly string[], given: Given): P
   try {
     return await fetching(taken.driveFile, taken.output, resolve(given.root), given.from)
   } catch (thrown) {
-    return refused(`${given.calledAs} — ${whyOf(thrown)}`, codeOf(thrown))
+    return refused(`\`${given.calledAs}\` — ${whyOf(thrown)}`, codeOf(thrown))
   }
 }

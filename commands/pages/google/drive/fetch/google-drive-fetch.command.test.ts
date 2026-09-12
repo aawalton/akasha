@@ -45,7 +45,7 @@ test("a file named in place and as a flag is refused", () => {
 
 test("a second file is refused", () => {
   expect(refusedBy(["1AbC", "2DeF"])[0]).toBe(
-    `\`${CALLED_AS}\` takes 1 word and this call says 2 words`
+    `\`${CALLED_AS}\` takes 1 word and this call says 2 words — nothing takes \`2DeF\``
   )
 })
 
