@@ -19,10 +19,5 @@ export const athenaCommandTree = {
       workingMemory:
         "`show` and `list` hold across the email, calendar, imessage, inference, domain, seat, agent and temper trees. `temper-inventory-rules` answers one compiled configuration and is the singular-noun intent's page. One class is left: a command named for what it answers with no act word — every `*-status`, every `measure-*`, the temper `-trace`, `-profile`, `-probe` and `-snapshot` getters. Does the rule reach them, making `akasha inference status show` and `akasha measure page list`?\n",
     },
-    {
-      statement: "A machine-facing answer is a flag on the command a person runs.",
-      workingMemory:
-        "The rule has run out of subjects. It de-duplicates, so it wants a command a person runs for the flag to sit on; `domain-tree` and `claude-account-usage` had twins and folded. `agent forest` has no caller of any kind — `no-akasha-command-from-code` forbids forking a command at all, so the roads are a person typing it, the command server by slug, or an import, and all three are empty. It goes, its functions moving to a module first. `seat compose-notices` has no twin to fold into.\n",
-    },
   ],
 } as const satisfies Initiative
