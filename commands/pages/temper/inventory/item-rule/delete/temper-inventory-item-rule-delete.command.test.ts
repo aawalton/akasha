@@ -20,7 +20,7 @@ const FORCE = saidForPart(PAGES, page.arguments[0]?.argument ?? "")
 
 const PLACED = `<${itemRuleId.placeholder}>`
 
-const deleteRefusing = async (argv: readonly string[]): Promise<readonly string[]> => {
+const deleteRefusals = async (argv: readonly string[]): Promise<readonly string[]> => {
   const answer = await temperInventoryItemRuleDelete(argv, GIVEN)
   if (answer.refusals.length === 0) {
     throw new Error(`\`${argv.join(" ")}\` was taken rather than refused`)
@@ -38,13 +38,13 @@ test("the page declares going on past the lock at a flag and the id as a word", 
 })
 
 test("a call naming no id is refused though it says to go on past the lock", async () => {
-  const said = await deleteRefusing([FORCE])
+  const said = await deleteRefusals([FORCE])
   expect(said.length).toBe(1)
   expect(said[0]).toContain(`\`${PLACED}\``)
 })
 
 test("a flag this takes none of is refused, naming both the ways this is said", async () => {
-  const said = await deleteRefusing(["--nope", "a-rule-the-settings-hold"])
+  const said = await deleteRefusals(["--nope", "a-rule-the-settings-hold"])
   expect(said.length).toBe(1)
   expect(said[0]).toContain("--nope")
   expect(said[0]).toContain(FORCE)
@@ -52,13 +52,13 @@ test("a flag this takes none of is refused, naming both the ways this is said", 
 })
 
 test("going on past the lock carries no value, so joining one to it is refused", async () => {
-  const said = await deleteRefusing([`${FORCE}=yes`])
+  const said = await deleteRefusals([`${FORCE}=yes`])
   expect(said[0]).toContain("carries no value")
   expect(said[0]).toContain(`${FORCE}=yes`)
 })
 
 test("a `--` makes even a flag this does take the id rather than that flag", async () => {
-  const said = await deleteRefusing(["--", FORCE, "a-spare-word"])
+  const said = await deleteRefusals(["--", FORCE, "a-spare-word"])
   expect(said.length).toBe(1)
   expect(said[0]).not.toContain("is no argument")
   expect(said[0]).toContain("`a-spare-word`")

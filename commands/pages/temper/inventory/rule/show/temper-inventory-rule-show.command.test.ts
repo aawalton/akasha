@@ -23,7 +23,7 @@ const AS_JSON = saidForPart(PAGES, page.arguments[2]?.argument ?? "")
 
 const PLACED = `<${categoryRuleId.placeholder}>`
 
-const showRefusing = async (argv: readonly string[]): Promise<readonly string[]> => {
+const showRefusals = async (argv: readonly string[]): Promise<readonly string[]> => {
   const answer = await temperInventoryRuleShow(argv, GIVEN)
   if (answer.refusals.length === 0) {
     throw new Error(`\`${argv.join(" ")}\` was taken rather than refused`)
@@ -41,13 +41,13 @@ test("the page declares three arguments, the id among them said as a word", () =
 })
 
 test("a call naming no id asks for it by the placeholder its page carries", async () => {
-  const said = await showRefusing([AS_TSV])
+  const said = await showRefusals([AS_TSV])
   expect(said.length).toBe(1)
   expect(said[0]).toContain(`\`${PLACED}\``)
 })
 
 test("a flag this takes none of is refused, naming the three ways this is said", async () => {
-  const said = await showRefusing(["--nope", "a-rule-the-settings-hold"])
+  const said = await showRefusals(["--nope", "a-rule-the-settings-hold"])
   expect(said.length).toBe(1)
   expect(said[0]).toContain("--nope")
   expect(said[0]).toContain(AS_TSV)
@@ -56,22 +56,22 @@ test("a flag this takes none of is refused, naming the three ways this is said",
 })
 
 test("the shape flags carry no value, so joining one to either is refused", async () => {
-  const asTsv = await showRefusing([`${AS_TSV}=yes`])
+  const asTsv = await showRefusals([`${AS_TSV}=yes`])
   expect(asTsv[0]).toContain("carries no value")
   expect(asTsv[0]).toContain(`${AS_TSV}=yes`)
-  const asJson = await showRefusing([`${AS_JSON}=yes`])
+  const asJson = await showRefusals([`${AS_JSON}=yes`])
   expect(asJson[0]).toContain("carries no value")
   expect(asJson[0]).toContain(`${AS_JSON}=yes`)
 })
 
 test("the answer's shape said twice is refused rather than the second passed over", async () => {
-  const said = await showRefusing([AS_TSV, AS_TSV])
+  const said = await showRefusals([AS_TSV, AS_TSV])
   expect(said[0]).toContain(AS_TSV)
   expect(said[0]).toContain("said twice")
 })
 
 test("the page declares --json, so it is taken rather than refused as unknown", async () => {
-  const said = await showRefusing([AS_JSON])
+  const said = await showRefusals([AS_JSON])
   expect(said.length).toBe(1)
   expect(said[0]).not.toContain("is no argument")
   expect(said[0]).toContain(`\`${PLACED}\``)

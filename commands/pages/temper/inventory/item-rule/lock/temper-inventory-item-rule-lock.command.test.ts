@@ -17,7 +17,7 @@ const FLAG = saidForPart([itemRuleId], page.arguments[0]?.argument ?? "")
 
 const PLACED = `<${itemRuleId.placeholder}>`
 
-const lockRefusing = async (argv: readonly string[]): Promise<readonly string[]> => {
+const lockRefusals = async (argv: readonly string[]): Promise<readonly string[]> => {
   const answer = await temperInventoryItemRuleLock(argv, GIVEN)
   if (answer.refusals.length === 0) {
     throw new Error(`\`${argv.join(" ")}\` was taken rather than refused`)
@@ -34,27 +34,27 @@ test("the page declares one argument, the per-item rule id, and this test carrie
 })
 
 test("a call naming no id asks for it by the placeholder its page carries", async () => {
-  const said = await lockRefusing([])
+  const said = await lockRefusals([])
   expect(said.length).toBe(1)
   expect(said[0]).toContain(`\`${PLACED}\``)
 })
 
 test("saying the id at its flag is refused, since this takes it as a word", async () => {
-  const said = await lockRefusing([FLAG, "a-rule-the-settings-hold"])
+  const said = await lockRefusals([FLAG, "a-rule-the-settings-hold"])
   expect(said.length).toBe(1)
   expect(said[0]).toContain(FLAG)
   expect(said[0]).toContain(`\`${PLACED}\``)
 })
 
 test("a `--` makes the word after it the id rather than a flag this takes none of", async () => {
-  const said = await lockRefusing(["--", FLAG, "a-spare-word"])
+  const said = await lockRefusals(["--", FLAG, "a-spare-word"])
   expect(said.length).toBe(1)
   expect(said[0]).not.toContain("is no argument")
   expect(said[0]).toContain("`a-spare-word`")
 })
 
 test("two words nothing takes are both named in the one refusal", async () => {
-  const said = await lockRefusing(["a-rule-the-settings-hold", "one-spare", "two-spare"])
+  const said = await lockRefusals(["a-rule-the-settings-hold", "one-spare", "two-spare"])
   expect(said.length).toBe(1)
   expect(said[0]).toContain("1 word")
   expect(said[0]).toContain("3 words")

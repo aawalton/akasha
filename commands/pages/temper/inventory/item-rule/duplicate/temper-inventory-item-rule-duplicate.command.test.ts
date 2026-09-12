@@ -17,7 +17,7 @@ const FLAG = saidForPart([itemRuleId], page.arguments[0]?.argument ?? "")
 
 const PLACED = `<${itemRuleId.placeholder}>`
 
-const copyRefusing = async (argv: readonly string[]): Promise<readonly string[]> => {
+const copyRefusals = async (argv: readonly string[]): Promise<readonly string[]> => {
   const answer = await temperInventoryItemRuleDuplicate(argv, GIVEN)
   if (answer.refusals.length === 0) {
     throw new Error(`\`${argv.join(" ")}\` was taken rather than refused`)
@@ -34,27 +34,27 @@ test("the page declares one argument, the per-item rule id, and this test carrie
 })
 
 test("a call naming no id asks for it by the placeholder its page carries", async () => {
-  const said = await copyRefusing([])
+  const said = await copyRefusals([])
   expect(said.length).toBe(1)
   expect(said[0]).toContain(`\`${PLACED}\``)
 })
 
 test("saying the id at its flag is refused, since this takes it as a word", async () => {
-  const said = await copyRefusing([FLAG, "a-rule-the-settings-hold"])
+  const said = await copyRefusals([FLAG, "a-rule-the-settings-hold"])
   expect(said.length).toBe(1)
   expect(said[0]).toContain(FLAG)
   expect(said[0]).toContain(`\`${PLACED}\``)
 })
 
 test("a `--` makes the word after it the id rather than a flag this takes none of", async () => {
-  const said = await copyRefusing(["--", FLAG, "a-spare-word"])
+  const said = await copyRefusals(["--", FLAG, "a-spare-word"])
   expect(said.length).toBe(1)
   expect(said[0]).not.toContain("is no argument")
   expect(said[0]).toContain("`a-spare-word`")
 })
 
 test("this copies one rule, so two words nothing takes are both named at once", async () => {
-  const said = await copyRefusing(["a-rule-the-settings-hold", "one-spare", "two-spare"])
+  const said = await copyRefusals(["a-rule-the-settings-hold", "one-spare", "two-spare"])
   expect(said.length).toBe(1)
   expect(said[0]).toContain("1 word")
   expect(said[0]).toContain("3 words")

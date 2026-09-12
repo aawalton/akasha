@@ -20,7 +20,7 @@ const AS_TSV = saidForPart(PAGES, page.arguments[0]?.argument ?? "")
 
 const PLACED = `<${buyRuleId.placeholder}>`
 
-const showRefusing = async (argv: readonly string[]): Promise<readonly string[]> => {
+const showRefusals = async (argv: readonly string[]): Promise<readonly string[]> => {
   const answer = await temperInventoryBuyRuleShow(argv, GIVEN)
   if (answer.refusals.length === 0) {
     throw new Error(`\`${argv.join(" ")}\` was taken rather than refused`)
@@ -38,13 +38,13 @@ test("the page declares the answer's shape at a flag and the id as a word", () =
 })
 
 test("a call naming no id asks for it by the placeholder its page carries", async () => {
-  const said = await showRefusing([AS_TSV])
+  const said = await showRefusals([AS_TSV])
   expect(said.length).toBe(1)
   expect(said[0]).toContain(`\`${PLACED}\``)
 })
 
 test("a flag this takes none of is refused, naming both the ways this is said", async () => {
-  const said = await showRefusing(["--nope", "a-rule-the-settings-hold"])
+  const said = await showRefusals(["--nope", "a-rule-the-settings-hold"])
   expect(said.length).toBe(1)
   expect(said[0]).toContain("--nope")
   expect(said[0]).toContain(AS_TSV)
@@ -52,13 +52,13 @@ test("a flag this takes none of is refused, naming both the ways this is said", 
 })
 
 test("the answer's shape carries no value, so joining one to it is refused", async () => {
-  const said = await showRefusing([`${AS_TSV}=yes`])
+  const said = await showRefusals([`${AS_TSV}=yes`])
   expect(said[0]).toContain("carries no value")
   expect(said[0]).toContain(`${AS_TSV}=yes`)
 })
 
 test("the answer's shape said twice is refused rather than the second being passed over", async () => {
-  const said = await showRefusing([AS_TSV, AS_TSV])
+  const said = await showRefusals([AS_TSV, AS_TSV])
   expect(said[0]).toContain(AS_TSV)
   expect(said[0]).toContain("said twice")
 })
