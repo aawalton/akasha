@@ -7,7 +7,7 @@ export const temperInventoryDecodeLink = {
   definition: "the command reading a game item link into its named fields",
   code: "ts",
   test: "ts",
-  taking: [{ said: "<link>", takes: "the game item link read" }],
+  taking: [],
 
   invariants: [
     {
@@ -36,5 +36,8 @@ export const temperInventoryDecodeLink = {
     },
   ],
   name: "decode-link",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/link", required: true, saidAs: "word" },
+  ],
 } as const satisfies Command
