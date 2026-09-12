@@ -15,6 +15,7 @@ export interface CharacterKnowledge {
   readonly motifKnowledgeByStyle: ReadonlyMap<number, ReadonlySet<number>>
   readonly unlockedScriptIds: ReadonlySet<number>
   readonly skillLineRanksByEsoLineId: ReadonlyMap<number, number>
+  readonly researchedTraitsByCraftingType: ReadonlyMap<number, ReadonlyMap<string, boolean>>
   readonly curseState: CharacterCurseState | undefined
 }
 
@@ -51,6 +52,20 @@ const SKILL_LINE_PROGRESS_ENTRY_SCHEMA = z
 
 const SKILL_LINE_PROGRESS_SCHEMA = z.record(z.string(), SKILL_LINE_PROGRESS_ENTRY_SCHEMA).optional()
 
+const TRAIT_SCHEMA = z
+  .object({ name: z.string().optional(), known: z.boolean().optional() })
+  .passthrough()
+
+const TRAIT_LINE_SCHEMA = z
+  .object({ traits: z.record(z.string(), TRAIT_SCHEMA).optional() })
+  .passthrough()
+
+const TRAIT_CRAFTING_TYPE_SCHEMA = z
+  .object({ lines: z.record(z.string(), TRAIT_LINE_SCHEMA).optional() })
+  .passthrough()
+
+const TRAIT_RESEARCH_SCHEMA = z.record(z.string(), TRAIT_CRAFTING_TYPE_SCHEMA).optional()
+
 const CHARACTER_RECORD_SCHEMA = z
   .object({
     name: z.string().optional(),
@@ -59,6 +74,7 @@ const CHARACTER_RECORD_SCHEMA = z
     motifKnowledge: MOTIF_KNOWLEDGE_SCHEMA,
     scribing: SCRIBING_SCHEMA,
     skillLineProgress: SKILL_LINE_PROGRESS_SCHEMA,
+    traitResearch: TRAIT_RESEARCH_SCHEMA,
     curseState: z.string().optional(),
   })
   .passthrough()
@@ -190,6 +206,29 @@ function collectSkillLineRanks(
   return out
 }
 
+function collectResearchedTraits(
+  traitResearch: z.infer<typeof TRAIT_RESEARCH_SCHEMA>
+): ReadonlyMap<number, ReadonlyMap<string, boolean>> {
+  const out = new Map<number, Map<string, boolean>>()
+  if (!traitResearch) return out
+  for (const [craftKey, craftingType] of Object.entries(traitResearch)) {
+    const craftingTypeId = Number(craftKey)
+    if (!Number.isInteger(craftingTypeId)) continue
+    const researched = new Map<string, boolean>()
+    for (const line of Object.values(craftingType.lines ?? {})) {
+      for (const trait of Object.values(line.traits ?? {})) {
+        const traitName = trait.name
+        if (traitName === undefined || traitName === "") continue
+        const key = traitName.toLowerCase()
+        if (trait.known !== true) researched.set(key, false)
+        else if (!researched.has(key)) researched.set(key, true)
+      }
+    }
+    if (researched.size > 0) out.set(craftingTypeId, researched)
+  }
+  return out
+}
+
 function readCurseState(held: string | undefined): CharacterCurseState | undefined {
   return held === "vampire" || held === "werewolf" ? held : undefined
 }
@@ -233,6 +272,7 @@ export function parseTemperCharacters(content: string): ReadonlyArray<CharacterK
       motifKnowledgeByStyle: collectMotifKnowledgeByStyle(record.motifKnowledge),
       unlockedScriptIds: collectUnlockedScriptIds(record.scribing),
       skillLineRanksByEsoLineId: collectSkillLineRanks(record.skillLineProgress),
+      researchedTraitsByCraftingType: collectResearchedTraits(record.traitResearch),
       curseState: readCurseState(record.curseState),
     })
   }

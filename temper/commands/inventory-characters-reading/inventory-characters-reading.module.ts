@@ -43,6 +43,20 @@ export const inventoryCharactersReading = {
       statement: "A curse state that is neither vampire nor werewolf reads as no curse at all.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A trait is named by the crafting type it is researched under and by its own name.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A trait's name is lowered, because the name an item carries is cased its own way.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A trait unresearched on any one line is unresearched for the crafting type.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here talks to the game.",
     },

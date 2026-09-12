@@ -62,6 +62,7 @@ export function buildMatcherContext(
   const knownMotifsByCharacter = new Map<string, Map<number, Set<number>>>()
   const knownMotifsByStyleIdByCharacter = new Map<string, Map<number, Set<number>>>()
   const knownScriptsByCharacter = new Map<string, Set<number>>()
+  const researchedTraitsByCharacter = new Map<string, Map<number, Map<string, boolean>>>()
   for (const [charId, knowledge] of charactersById) {
     knownRecipesByCharacter.set(charId, new Set(knowledge.recipeResultItemIds))
     const motifMap = new Map<number, Set<number>>()
@@ -75,6 +76,11 @@ export function buildMatcherContext(
     }
     knownMotifsByStyleIdByCharacter.set(charId, motifKnowledgeMap)
     knownScriptsByCharacter.set(charId, new Set(knowledge.unlockedScriptIds))
+    const researchedMap = new Map<number, Map<string, boolean>>()
+    for (const [craftingType, researched] of knowledge.researchedTraitsByCraftingType) {
+      researchedMap.set(craftingType, new Map(researched))
+    }
+    if (researchedMap.size > 0) researchedTraitsByCharacter.set(charId, researchedMap)
   }
   const wantedConsumables = compileWantedConsumablesFromConfig(config.wantedConsumables)
   return {
@@ -88,7 +94,7 @@ export function buildMatcherContext(
     knownMotifsByCharacter,
     knownMotifsByStyleIdByCharacter,
     knownScriptsByCharacter,
-    researchedTraitsByCharacter: new Map(),
+    researchedTraitsByCharacter,
     characterPriority: config.characterPriority,
     craftingLevels: compileCraftingLevels(db),
     openCooldowns: compileOpenCooldowns(db),

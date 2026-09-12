@@ -86,7 +86,13 @@ export function buildCliEvalEnv(deps: CliEvalEnvDeps): EvalEnv {
     getTransmuteCrystalAmount: () => db?.transmuteCrystalAmount ?? UNKNOWN,
     getTransmuteCrystalCap: () => db?.transmuteCrystalCap ?? UNKNOWN,
 
-    isTraitResearched: () => UNKNOWN,
+    isTraitResearched: (charId, craftingType, traitName) => {
+      const byCraftingType = charactersById.get(charId)?.researchedTraitsByCraftingType
+      if (byCraftingType === undefined) return UNKNOWN
+      const researched = byCraftingType.get(craftingType)
+      if (researched === undefined) return UNKNOWN
+      return researched.get(traitName.toLowerCase()) ?? UNKNOWN
+    },
     matchesWantedEquipment: () => UNKNOWN,
     matchesWantedCompanionEquipment: () => UNKNOWN,
     isCompanionWornSlotFilled: () => UNKNOWN,

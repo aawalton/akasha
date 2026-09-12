@@ -17,6 +17,7 @@ function knowing(over: Partial<CharacterKnowledge>): CharacterKnowledge {
     motifKnowledgeByStyle: new Map(),
     unlockedScriptIds: new Set<number>(),
     skillLineRanksByEsoLineId: new Map<number, number>(),
+    researchedTraitsByCraftingType: new Map<number, ReadonlyMap<string, boolean>>(),
     curseState: undefined,
     ...over,
   }
@@ -76,7 +77,29 @@ test("what only the running game knows is answered unknown rather than guessed",
   const env = envOf(knowing({}))
   expect(env.getCurrentCharacter()).toBe("unknown")
   expect(env.getConsumableStock(1, "111")).toBe("unknown")
-  expect(env.isTraitResearched("111", 2, "Sharpened")).toBe("unknown")
+})
+
+const CLOTHIER = 2
+
+test("a trait comes from the characters capture, and one nothing names reads as unknown", () => {
+  const env = envOf(
+    knowing({
+      researchedTraitsByCraftingType: new Map([
+        [
+          CLOTHIER,
+          new Map([
+            ["sharpened", true],
+            ["nirnhoned", false],
+          ]),
+        ],
+      ]),
+    })
+  )
+  expect(env.isTraitResearched("111", CLOTHIER, "Sharpened")).toBe(true)
+  expect(env.isTraitResearched("111", CLOTHIER, "Nirnhoned")).toBe(false)
+  expect(env.isTraitResearched("111", CLOTHIER, "Training")).toBe("unknown")
+  expect(env.isTraitResearched("111", 1, "Sharpened")).toBe("unknown")
+  expect(env.isTraitResearched("999", CLOTHIER, "Sharpened")).toBe("unknown")
 })
 
 function envOverInventory(db: InventoryDatabase) {

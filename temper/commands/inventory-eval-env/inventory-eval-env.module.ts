@@ -36,6 +36,14 @@ export const inventoryEvalEnv = {
     },
     {
       invariantKind: "departure",
+      statement: "Whether a trait is researched comes from the characters capture.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A trait the characters capture never names is answered unknown.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A cooldown group is worked out from the name of a container the capture holds.",
     },
     {

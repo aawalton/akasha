@@ -30,6 +30,7 @@ const ONE_CHARACTER = savedVariables(
             ["scribing"] = { ["scripts"] = { ["5"] = { ["unlocked"] = true }, ["6"] = { ["unlocked"] = false } } },
             ["curseState"] = "vampire",
             ["skillLineProgress"] = { [111] = { ["currentRank"] = 7 }, [117] = { } },
+            ["traitResearch"] = { [1] = { ["name"] = "Blacksmithing", ["lines"] = { [1] = { ["name"] = "Axe", ["traits"] = { [1] = { ["name"] = "Powered", ["known"] = true }, [2] = { ["name"] = "Sharpened", ["known"] = false } } }, [2] = { ["name"] = "Mace", ["traits"] = { [1] = { ["name"] = "Powered", ["known"] = false } } } } } },
           },
         },
       },
@@ -67,6 +68,25 @@ test("a skill line held with no current rank reads as being at rank zero", () =>
 test("a skill line the saved variables never name is absent rather than at rank zero", () => {
   const held = parseTemperCharacters(ONE_CHARACTER)
   expect(held[0]?.skillLineRanksByEsoLineId.get(118)).toBeUndefined()
+})
+
+test("a trait is researched where the saved variables say the character knows it", () => {
+  const held = parseTemperCharacters(ONE_CHARACTER)
+  expect(held[0]?.researchedTraitsByCraftingType.get(1)?.get("sharpened")).toBe(false)
+  expect(held[0]?.researchedTraitsByCraftingType.get(1)?.get("nirnhoned")).toBeUndefined()
+  expect(held[0]?.researchedTraitsByCraftingType.get(2)).toBeUndefined()
+})
+
+test("a trait unresearched on one line is unresearched however many lines know it", () => {
+  const held = parseTemperCharacters(ONE_CHARACTER)
+  expect(held[0]?.researchedTraitsByCraftingType.get(1)?.get("powered")).toBe(false)
+})
+
+test("a character the saved variables hold no trait research for holds none", () => {
+  const held = parseTemperCharacters(
+    savedVariables(`    ["@one"] = { ["$AccountWide"] = { ["characters"] = { ["222"] = { } } } },`)
+  )
+  expect(held[0]?.researchedTraitsByCraftingType.size).toBe(0)
 })
 
 test("a curse state the saved variables carry reads through", () => {
