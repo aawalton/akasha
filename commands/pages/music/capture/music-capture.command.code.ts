@@ -344,7 +344,8 @@ export function changesFor(
       values: { ...was, [LISTENS]: JSONL },
     })
     if ("refused" in composed) return composed
-    changes.push(bodied(composed.put.path, composed.put.content))
+    const held = textAt(join(root, composed.put.path))
+    changes.push(bodied(composed.put.path, composed.put.content, held ?? undefined))
     const edit = appendedBeside(root, composed.put.path, LISTENS, planned.listens.get(day) ?? [])
     if ("refused" in edit) return edit
     changes.push(edit)

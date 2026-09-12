@@ -380,8 +380,9 @@ test("an append hands in the body on disk it was composed against", () => {
   expect(oldAt(changes, at)).toBe(readFileSync(join(ROOT, at), "utf8"))
 })
 
-test("a day page composed from the values that day holds names no body it composed against", () => {
+test("a day page composed from the values that day holds hands in the body on disk", () => {
+  const at = `${FILED_DAY}.ts`
   const changes = changesOver("2026-08-21T12:00:00.000Z")
 
-  expect(oldAt(changes, `${FILED_DAY}.ts`)).toBeUndefined()
+  expect(oldAt(changes, at)).toBe(readFileSync(join(ROOT, at), "utf8"))
 })

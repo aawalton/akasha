@@ -86,6 +86,10 @@ export const musicCapture = {
       invariantKind: "departure",
       statement: "An append hands in the body it read, so a body that moved refuses the write.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A day page written again hands in the body its values were composed from.",
+    },
   ],
   name: "capture",
   arguments: [{ argument: "argument/json" }, { argument: "argument/dry-run" }],
