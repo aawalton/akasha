@@ -1,7 +1,8 @@
 import {
+  asJson,
   INPUT,
-  OK,
   refused,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
@@ -40,15 +41,15 @@ export function temperWatcherStatus(argv: readonly string[], given: Given): Answ
           logPath: workerLogPath(),
         }
       : { status: "stopped", pid: null, startedAt: null, upSeconds: null, logPath: null }
-    return { report: [JSON.stringify(said)], refusals: [], code: OK }
+    return asJson(said)
   }
 
-  if (!running) return { report: ["stopped"], refusals: [], code: OK }
+  if (!running) return told(["stopped"])
   const pid = unitMainPid()
   const shown = [
     `running pid=${pid === null ? "?" : String(pid)}`,
     `uptime=${up === null ? "?" : String(up)}s`,
     `log=${workerLogPath()}`,
   ].join(" ")
-  return { report: [shown], refusals: [], code: OK }
+  return told([shown])
 }
