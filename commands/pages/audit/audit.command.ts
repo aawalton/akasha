@@ -15,7 +15,7 @@ export const audit = {
       takes: "a check the round runs beyond the ones the audit phase names",
     },
   ],
-  helpNotes: [],
+
   timeout: null,
   invariants: [
     {
