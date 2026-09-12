@@ -1,10 +1,12 @@
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
+
 export const WEB_CONDITIONS_PREAMBLE = `\
 /**
  * Inventory Rule Conditions (Generated)
  *
  * Condition evaluation for the inventory rule matcher (web platform).
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 import { findCooldownGroup, isRftwContainer } from "@temper/game-items-core/cooldown-groups"

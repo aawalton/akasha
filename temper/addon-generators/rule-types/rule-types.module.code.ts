@@ -1,3 +1,5 @@
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
+
 export function generateRuleTypes(): string {
   return `\
 /**
@@ -9,7 +11,7 @@ export function generateRuleTypes(): string {
  *         engine/inventory/filters/comparison-op-data.ts,
  *         engine/inventory/filters/comparison-op.ts
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 // \`destinationChain\` is the SINGLE source-of-truth type from rules-core — both

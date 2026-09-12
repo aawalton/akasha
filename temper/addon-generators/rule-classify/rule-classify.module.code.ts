@@ -1,3 +1,5 @@
+import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
+
 export function generateRuleClassify(): string {
   return `\
 import { CategoryNode } from "../category-tree"
@@ -8,7 +10,7 @@ import { CategoryNode } from "../category-tree"
  * Source: engine/inventory/classify-item.ts,
  *         engine/inventory/item-name-pattern.ts
  *
- * DO NOT EDIT — regenerate with: akasha temper addon data-generate
+ * ${DO_NOT_EDIT}
  */
 
 // =========================================================================
