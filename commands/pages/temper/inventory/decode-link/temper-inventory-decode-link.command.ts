@@ -12,12 +12,7 @@ export const temperInventoryDecodeLink = {
     { said: "<link>", takes: "the game item link read" },
     { said: "--json", takes: "give the fields as JSON rather than as tab-separated rows" },
   ],
-  helpNotes: [
-    "a link carries twenty-one fields after its item marker, and one carrying fewer is refused rather than read partway.",
-    "the fields after the twenty-first are the game's to add, so a longer link is read rather than refused.",
-    "a link naming no item marker is refused, since the marker is what says where the fields begin.",
-    "nothing is read off the workstation here: the link is the whole input.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
