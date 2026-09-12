@@ -2,15 +2,19 @@ import { join } from "node:path"
 import { getRecentlyPlayed } from "akasha/alan/music/spotify/player/spotify-player.module.code.ts"
 import type { Asking as Asked } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { dryRun } from "akasha/commands/arguments/pages/dry-run.argument.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import {
   DATA,
-  INPUT,
   OK,
   OPERATIONAL,
+  refusedBy,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { textAt } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { answeredWith, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { musicCapture as page } from "akasha/commands/pages/music/capture/music-capture.command.ts"
 import {
   buildPlayRow,
   esoDayOfPlay,
@@ -51,15 +55,9 @@ const OBSERVED = "observed"
 
 const SEED_PRIOR_WINDOW = "seed-prior-window"
 
-const DRY_RUN_SAID = "--dry-run"
-
-const JSON_SAID = "--json"
-
-const BARE = [DRY_RUN_SAID, JSON_SAID]
-
 const NOTHING_NEW = "nothing was played that is not already filed, so nothing landed"
 
-const NOTHING_WRITTEN = `nothing was written — ${DRY_RUN_SAID}`
+const NOTHING_WRITTEN = `nothing was written — ${dryRun.said}`
 
 export const WRITE = "change-mechanical/add-file-of-any-kind"
 
@@ -114,25 +112,6 @@ export type Planned = {
   readonly skippedUnidentified: number
   readonly newMusicMinutes: number
   readonly primed: boolean
-}
-
-export type Taken = {
-  readonly dryRun: boolean
-  readonly json: boolean
-}
-
-export type Reading = Taken | { readonly refused: string }
-
-export function taken(argv: readonly string[]): Reading {
-  const said = new Set<string>()
-  for (const one of argv) {
-    if (!BARE.includes(one)) return { refused: `\`${one}\` is nothing this takes` }
-    if (said.has(one)) {
-      return { refused: `\`${one}\` is named twice, and once says all it says` }
-    }
-    said.add(one)
-  }
-  return { dryRun: said.has(DRY_RUN_SAID), json: said.has(JSON_SAID) }
 }
 
 function heldIn(raw: unknown, key: string): unknown {
@@ -315,14 +294,14 @@ function bodied(path: string, text: string): Asked {
 
 function appendedBeside(
   root: string,
-  page: string,
+  filed: string,
   propertySlug: string,
   rows: readonly Value[]
 ): Asked | { readonly refused: string } {
-  const at = besideAt(page, propertySlug, JSONL)
+  const at = besideAt(filed, propertySlug, JSONL)
   if (at === null) {
     return {
-      refused: `'${page}' is no page file, so its \`${propertySlug}\` has no name beside it`,
+      refused: `'${filed}' is no page file, so its \`${propertySlug}\` has no name beside it`,
     }
   }
   return bodied(at, appendedOnto(textAt(join(root, at)), rows))
@@ -419,17 +398,18 @@ export async function capturing(
   plays: Plays,
   landing: Landing = runMechanicalChange
 ): Promise<Answer> {
-  const held = taken(argv)
-  if ("refused" in held) return refused(held.refused, INPUT)
+  const read = takenFor(argv, given.calledAs, page, [dryRun, json])
+  if ("refused" in read) return refusedBy(read.refused)
+  const held = read.taken
   const filed = filedIn(given.root)
   if ("refused" in filed) return refused(filed.refused, DATA)
-  let page: Fetched
+  let played: Fetched
   try {
-    page = await plays(askingFor(filed.ledger))
+    played = await plays(askingFor(filed.ledger))
   } catch (thrown) {
     return refused(saidBy(thrown), OPERATIONAL)
   }
-  const planned = plannedOver(page.items, filed.ledger)
+  const planned = plannedOver(played.items, filed.ledger)
   if (planned.recorded === 0) {
     return {
       report: held.json ? [jsonOf(planned)] : [...rowsOf(planned), NOTHING_NEW],

@@ -3,7 +3,6 @@ import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { Asking as Asked } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { refusingWith } from "akasha/commands/modules/calling/calling.module.test-fixtures.ts"
 import {
   appendedOnto,
   askingFor,
@@ -18,7 +17,6 @@ import {
   providerTrackIn,
   readPlay,
   rowsOf,
-  taken,
   WRITE,
 } from "akasha/commands/pages/music/capture/music-capture.command.code.ts"
 import {
@@ -45,24 +43,9 @@ import {
 import { statesVersionSeven } from "akasha/pages/ids/uuid-version-7/uuid-version-7.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
-const refusalOf = refusingWith(taken)
-
 function rowsIn(planned: Planned, day: string): readonly Value[] {
   return planned.listens.get(day) ?? []
 }
-
-test("a flag this takes nothing of is refused", () => {
-  expect(refusalOf(["--limit", "5"])).toContain("`--limit` is nothing this takes")
-})
-
-test("a flag named twice is refused", () => {
-  expect(refusalOf(["--json", "--json"])).toContain("named twice")
-})
-
-test("what is said is taken as it is said", () => {
-  expect(taken([])).toEqual({ dryRun: false, json: false })
-  expect(taken(["--dry-run", "--json"])).toEqual({ dryRun: true, json: true })
-})
 
 test("a track Spotify names no id for is read as no play", () => {
   expect(providerTrackIn({ id: null, name: "One" })).toBe(null)
@@ -326,7 +309,7 @@ test("what this does not take is refused before Spotify is asked anything", asyn
   }
   const said = await capturing(["--nope"], GIVEN, plays)
   expect(said.code).toBe(1)
-  expect(said.refusals.join("\n")).toContain("`--nope` is nothing this takes")
+  expect(said.refusals.join("\n")).toContain("`--nope` is no argument")
 })
 
 test("what was filed is said as rows or as JSON", () => {
