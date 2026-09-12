@@ -295,7 +295,8 @@ check(
     expect(found.map((one) => one.path)).toEqual(["akasha/big.test.ts", "akasha/one.test.ts"])
     const big = found[0]?.peakBytes ?? 0
     const small = found[1]?.peakBytes ?? 0
-    expect(big - small).toBeGreaterThan(200e6)
+    expect(big - small).toBeGreaterThan(64e6)
+    expect(found[0]?.signal).toBeNull()
     expect(found[1]?.peakMeasured).toBe(true)
   },
   30000

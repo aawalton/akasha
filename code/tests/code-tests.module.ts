@@ -72,6 +72,18 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
+      statement: "The memory one test file may hold is read off that page too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A test file is run under that memory as a ceiling of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file reaching that ceiling is slowed rather than ended there.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "The runner ends a test on a clock of its own rather than the seconds one file may spend.",
     },

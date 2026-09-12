@@ -67,6 +67,8 @@ export const MEASURING = "AKASHA_TESTS_MEASURING"
 
 export const CEILING = testFile.maxCpuSeconds
 
+export const MEMORY = testFile.maxMemoryMb
+
 export type Verdict = "pass" | "fail" | "short" | "crash" | "slow"
 
 export type Slowed = {
@@ -274,7 +276,7 @@ function rootsOver(over: Overlay): Readonly<Record<string, string>> {
 function runsIn(root: string, argv: readonly string[], over: Overlay | null): Said {
   const env = over === null ? process.env : { ...process.env, ...over.env, ...rootsOver(over) }
   const called = over === null ? [...argv] : [...over.under(argv)]
-  return ran(called, { cwd: root, env: { ...env, [RUNNING]: MARK } })
+  return ran(called, { cwd: root, env: { ...env, [RUNNING]: MARK }, memoryCeiling: MEMORY })
 }
 
 function runsFor(root: string, named: readonly string[]): readonly Grouping[] {

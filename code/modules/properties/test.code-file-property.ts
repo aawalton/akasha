@@ -8,6 +8,7 @@ export const test = {
   definition: "what proves a page's code",
   extensions: ["ts", "tsx"],
   maxCpuSeconds: 5,
+  maxMemoryMb: 128,
   invariants: [
     {
       invariantKind: "departure",
