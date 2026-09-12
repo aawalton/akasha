@@ -2,11 +2,6 @@ import { readFileSync, statSync } from "node:fs"
 import { basename, resolve } from "node:path"
 import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import {
-  JSON_SAID,
-  type Reading,
-  wordsIn,
-} from "akasha/alan/harness/imessage/command-reading/imessage-command-reading.module.code.ts"
-import {
   isEmailLike,
   isPhoneLike,
   searchContacts,
@@ -20,6 +15,12 @@ import {
 } from "akasha/alan/harness/imessage/send/imessage-send.module.code.ts"
 import { streamSshLines } from "akasha/alan/harness/ssh-access/ssh-reach/ssh-reach.module.code.ts"
 import type { SshTarget } from "akasha/alan/harness/ssh-access/ssh-target/ssh-target.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { image as imageArgument } from "akasha/commands/arguments/pages/image.argument.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { text as textArgument } from "akasha/commands/arguments/pages/text.argument.ts"
+import { textFile } from "akasha/commands/arguments/pages/text-file.argument.ts"
+import { toHandle } from "akasha/commands/arguments/pages/to-handle.argument.ts"
 import {
   answering,
   asJson,
@@ -28,49 +29,18 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import {
-  filing,
-  proseIn,
-  wordFilling,
-} from "akasha/commands/modules/filling/command-filling.module.code.ts"
+import { filing, filledIn } from "akasha/commands/modules/filling/command-filling.module.code.ts"
+import { imessageSend as page } from "akasha/commands/pages/imessage/send/imessage-send.command.ts"
 
-const TO = "--to"
-
-const TEXT = filing("--text")
-
-const IMAGE = "--image"
+const IMAGE = imageArgument.said
 
 const MOST_BYTES = 10 * 1024 * 1024
 
-const VALUED = [TO, TEXT.said, TEXT.file, IMAGE]
+const BODY = filing(textArgument.said)
 
-const SWITCHES = [JSON_SAID]
-
-const WANTS = "who the message goes to"
-
-export type Read = {
-  readonly to: string
-  readonly text: string | undefined
-  readonly image: string | undefined
-  readonly json: boolean
-}
-
-export function readIn(argv: readonly string[], given: Given): Reading<Read> {
-  const said = wordsIn(argv, VALUED, SWITCHES)
-  if ("refused" in said) return said
-  const refusals: string[] = []
-  const to = wordFilling(said, TO, WANTS)
-  if (typeof to === "object") refusals.push(...to.refused)
-  else if (to === undefined) refusals.push(`this names ${WANTS}, and nothing did`)
-  const body = proseIn(given.root, said.named, TEXT)
-  if ("refused" in body) refusals.push(...body.refused)
-  const image = said.named[IMAGE]
-  const text = "refused" in body ? undefined : body.text
-  if (text === undefined && image === undefined && !("refused" in body)) {
-    refusals.push("this sends a body, a picture, or both, and neither was said")
-  }
-  if (refusals.length > 0 || typeof to !== "string") return { refused: refusals }
-  return { to, text, image, json: said.flags.has(JSON_SAID) }
+export function wrongIn(text: string | undefined, picture: string | undefined): readonly string[] {
+  if (text !== undefined || picture !== undefined) return []
+  return ["this sends a body, a picture, or both, and neither was said"]
 }
 
 export function attachmentAt(root: string, path: string): SendAttachment {
@@ -127,18 +97,29 @@ export function imessageSend(
   given: Given,
   lines: Lines = streamSshLines
 ): Promise<Answer> {
-  const said = readIn(argv, given)
-  if ("refused" in said) return Promise.resolve(refusedBy(said.refused))
+  const read = takenFor(argv, given.calledAs, page, [
+    json,
+    toHandle,
+    textFile,
+    textArgument,
+    imageArgument,
+  ])
+  if ("refused" in read) return Promise.resolve(refusedBy(read.refused))
+  const taken = read.taken
+  const body = filledIn(given.root, taken.text, taken.textFile, BODY)
+  if ("refused" in body) return Promise.resolve(refusedBy(body.refused))
+  const wrong = wrongIn(body.text, taken.image)
+  if (wrong.length > 0) return Promise.resolve(refusedBy(wrong))
   return answering(async (done) => {
-    const attachment = said.image === undefined ? undefined : attachmentAt(given.root, said.image)
-    const handle = await handleFor(said.to)
-    await sent(buildSendScript(handle, said.text, attachment), done, lines)
-    if (said.json) {
+    const attachment = taken.image === undefined ? undefined : attachmentAt(given.root, taken.image)
+    const handle = await handleFor(taken.toHandle)
+    await sent(buildSendScript(handle, body.text, attachment), done, lines)
+    if (taken.json) {
       return asJson({
         sent: true,
         to: handle,
-        text: said.text ?? null,
-        image: said.image === undefined ? null : resolve(given.root, said.image),
+        text: body.text ?? null,
+        image: taken.image === undefined ? null : resolve(given.root, taken.image),
       })
     }
     return told([`sent\t${handle}`])

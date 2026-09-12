@@ -59,7 +59,7 @@ export const imessageSend = {
   arguments: [
     { argument: "argument/json" },
     { argument: "argument/to-handle", required: true, saidAs: "flag-or-word" },
-    { argument: "argument/text-file" },
+    { argument: "argument/text-file", notWith: ["argument/text"] },
     { argument: "argument/text" },
     { argument: "argument/image" },
   ],
