@@ -9,10 +9,6 @@ export const trackSessionAmend = {
   parts: [],
   taking: [
     {
-      said: "--difficulty <level>",
-      takes: "how hard the stretch was on him, from 0 to 5 in half steps",
-    },
-    {
       said: "--relationship <id|title>",
       takes: "who the stretch was with, said again or parted by commas for several",
     },
@@ -106,5 +102,6 @@ export const trackSessionAmend = {
     { argument: "argument/last" },
     { argument: "argument/title" },
     { argument: "argument/safety" },
+    { argument: "argument/difficulty" },
   ],
 } as const satisfies Command
