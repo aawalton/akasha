@@ -7,16 +7,16 @@ import {
   identityHeardFrom,
 } from "akasha/agents/seats/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import {
-  AKASHA,
-  resolveRoots,
-  rootFor,
-} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import {
   type PersonHandlerIdentity,
   personHandlerSpec,
   smsWakeSource,
   standingPersonaSpec,
-} from "akasha/seat-system/wake-armed-specs/wake-armed-specs.module.code.ts"
+} from "akasha/agents/seats/modules/wake-armed-specs/wake-armed-specs.module.code.ts"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 
 const ROOT = rootFor(resolveRoots(), AKASHA)
 
