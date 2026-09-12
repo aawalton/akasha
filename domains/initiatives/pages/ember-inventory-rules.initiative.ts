@@ -18,6 +18,12 @@ export const emberInventoryRules = {
       workingMemory:
         "Item 71779 matches rule 440d6e66: `scrolls`, `stock`, not-stolen, name Counterfeit Pardon Edict. Its chain is `character:by-priority` at ten where any of world-legerdemain, guild-thieves-guild or guild-dark-brotherhood is not maxed, then `bank`. The tooltip says Stock On Bank (x10) and nothing moves; `explain 71779` gives that rule matched with destination and resolvedDestination both null. Alan holds ten and has not maxed those lines, so the first tier is right and the tooltip is wrong.",
     },
+    {
+      statement:
+        "An item the rules move to another place is moved once the character reaches that place.",
+      workingMemory:
+        "Soul Gem (Empty), 33265, resolves to `move-to` `bank` by soul-gems-empty-bank at index 57, cleanly matched, and the banker does not move it while other items do move. Unidentified Enchanter Survey Report, 219852, resolves to `move-to` `character:8796093022338107` by 118d98dd at 14, but the outcome is indeterminate: 3f8c330f at 13 wants the guild bank and cannot read maxStackSize. The tooltip shows the later rule's plan regardless. Unsettled: whether the addon acts on an indeterminate outcome.",
+    },
   ],
   constraints: [
     "The rules are compiled outside the game, so a fix reaches the game only once the addon is built and deployed.",
