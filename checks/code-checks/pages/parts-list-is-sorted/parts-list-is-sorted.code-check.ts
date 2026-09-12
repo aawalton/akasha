@@ -55,6 +55,10 @@ export const partsListIsSorted = {
       statement: "`experimental` comes off this page where Alan has approved this check.",
     },
     {
+      invariantKind: "gap",
+      statement: "A part is put into a parts list in the order that list is sorted by.",
+    },
+    {
       invariantKind: "upkeep",
       statement: "The pages naming their parts out of order are sorted before this check binds.",
     },
