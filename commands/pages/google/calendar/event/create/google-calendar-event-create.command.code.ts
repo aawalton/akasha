@@ -20,7 +20,7 @@ const WANTED: Wanted = {
   inPlace: false,
 }
 
-export function googleCalendarEventsCreate(argv: readonly string[], given: Given): Promise<Answer> {
+export function googleCalendarEventCreate(argv: readonly string[], given: Given): Promise<Answer> {
   return answeredBy(readIn(argv, WANTED), given.calledAs, async (read) =>
     (await eventsIn()).createEvent(await asAlan(), inputOf(read))
   )
