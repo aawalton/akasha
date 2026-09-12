@@ -9,7 +9,7 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   type Filing,
-  proseIn,
+  filledIn,
 } from "akasha/commands/modules/filling/command-filling.module.code.ts"
 import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
@@ -194,29 +194,54 @@ export async function answeredBy(run: (done: string[]) => Promise<Answer>): Prom
 
 export type Composed = { readonly input: ComposeInput } | { readonly why: string }
 
+export type Composing = {
+  readonly toAddress: readonly string[]
+  readonly cc: readonly string[]
+  readonly bcc: readonly string[]
+  readonly attach: readonly string[]
+  readonly subject?: string
+  readonly subjectFile?: string
+  readonly body?: string
+  readonly bodyFile?: string
+  readonly thread?: string
+  readonly replyToMessage?: string
+  readonly sendAs?: string
+}
+
+export function wrongIn(said: Composing): readonly string[] {
+  const piped = [
+    ...(said.subjectFile === INPUT_MARK ? [SUBJECT_FILE] : []),
+    ...(said.bodyFile === INPUT_MARK ? [BODY_FILE] : []),
+  ]
+  if (piped.length < 2) return []
+  return [`${namesDrawn(piped)} each name the input, and one call reads the input once`]
+}
+
 export async function composedIn(
   given: Given,
-  said: Said,
+  said: Composing,
   piping: Piping = inputIn
 ): Promise<Composed> {
   const root = resolve(given.root)
-  const subject = proseIn(root, said.one, SUBJECT_FILING, piping)
+  const wrong = wrongIn(said)
+  if (wrong.length > 0) return { why: wrong.join(" | ") }
+  const subject = filledIn(root, said.subject, said.subjectFile, SUBJECT_FILING, piping)
   if ("refused" in subject) return { why: subject.refused.join(" | ") }
-  const body = proseIn(root, said.one, BODY_FILING, piping)
+  const body = filledIn(root, said.body, said.bodyFile, BODY_FILING, piping)
   if ("refused" in body) return { why: body.refused.join(" | ") }
   if (subject.text === undefined || body.text === undefined) {
     return { why: `a composition names both \`${SUBJECT}\` and \`${BODY}\`` }
   }
   const input = await buildComposeInput({
-    to: said.many[TO] ?? [],
-    cc: said.many[CC] ?? [],
-    bcc: said.many[BCC] ?? [],
+    to: said.toAddress,
+    cc: said.cc,
+    bcc: said.bcc,
     subject: subject.text,
     body: body.text,
-    thread: said.one[THREAD],
-    replyToMessage: said.one[REPLY_TO],
-    from: said.one[FROM],
-    attach: (said.many[ATTACH] ?? []).map((path) => pathAt(root, path)),
+    thread: said.thread,
+    replyToMessage: said.replyToMessage,
+    from: said.sendAs,
+    attach: said.attach.map((path) => pathAt(root, path)),
   })
   return { input }
 }
