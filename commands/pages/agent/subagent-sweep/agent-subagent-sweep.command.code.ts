@@ -9,6 +9,7 @@ import {
   type SubagentNode,
 } from "akasha/code/editor/extension/subagent-reading/subagent-reading.module.code.ts"
 import {
+  answering,
   INPUT,
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -17,7 +18,6 @@ import {
   answeredWith,
   type Given,
 } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { akashaHolderProcessOf } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { parseSeatProcKey } from "akasha/seat-system/seat-proc-key/seat-proc-key.module.code.ts"
 import { transcriptOf } from "akasha/seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
@@ -162,9 +162,6 @@ const NOTHING_STALE = "no page was judged STALE, so nothing went"
 
 const ALL_KEPT = "every page judged STALE was left where it is, so nothing went"
 
-const MOVE_STOPPED =
-  "the sweep stopped while moving what the stale pages had beside them, and no page went —"
-
 interface Parted {
   readonly going: readonly Judged[]
   readonly left: readonly string[]
@@ -202,37 +199,35 @@ export function messageOf(stale: readonly Judged[]): string {
   ].join("\n")
 }
 
-type Moving = { readonly moved: readonly string[]; readonly why: string | null }
-
-function moving(root: string, stale: readonly Judged[]): Moving {
-  const said: string[] = []
+export function moving(root: string, stale: readonly Judged[], done: string[]): undefined {
   for (const one of stale) {
-    try {
-      const seat = seatPageIn(root, one.page.seatName)
-      if (seat === null) continue
-      said.push(...saidOf(one.page.slug, movedOnto(root, seat, one.page.path)))
-    } catch (thrown) {
-      return { moved: said, why: `${MOVE_STOPPED} ${whyOf(thrown)}` }
-    }
+    const seat = seatPageIn(root, one.page.seatName)
+    if (seat === null) continue
+    done.push(...saidOf(one.page.slug, movedOnto(root, seat, one.page.path)))
   }
-  return { moved: said, why: null }
+  return undefined
 }
 
-async function taking(root: string, stale: readonly Judged[], landing: Landing): Promise<Answer> {
-  const { moved, why } = moving(root, stale)
-  if (why !== null) return answeredWith(moved, [why], OPERATIONAL)
+async function taking(
+  root: string,
+  stale: readonly Judged[],
+  landing: Landing,
+  done: string[]
+): Promise<Answer> {
+  moving(root, stale, done)
   const changes: readonly Asking[] = stale.map((one) => ({
     at: TAKE,
     given: { at: one.page.path },
   }))
   const landed = await landing(root, changes, messageOf(stale))
-  if ("refusals" in landed) return answeredWith(moved, landed.refusals, OPERATIONAL)
-  if (landed.wrong.length > 0) return answeredWith(moved, landed.wrong, OPERATIONAL)
+  if ("refusals" in landed) return answeredWith(done, landed.refusals, OPERATIONAL)
+  if (landed.wrong.length > 0) return answeredWith(done, landed.wrong, OPERATIONAL)
+  for (const one of stale) done.push(`${one.page.path} went`)
   dropReadings(
     root,
     stale.map((one) => one.page.path)
   )
-  return answeredWith([...moved, ...stale.map((one) => `${one.page.path} went`)], [], 0)
+  return answeredWith(done, [], 0)
 }
 
 export async function agentSubagentSweep(
@@ -264,9 +259,6 @@ export async function agentSubagentSweep(
     const why = left.length === 0 ? NOTHING_STALE : ALL_KEPT
     return answeredWith([...census, ...kept, "", why], [], 0)
   }
-  const gone = await taking(root, going, landing)
-  if (gone.code !== 0) {
-    return answeredWith([...census, ...kept, "", ...gone.report], [...gone.refusals], gone.code)
-  }
-  return answeredWith([...census, ...kept, "", ...gone.report], [], 0)
+  const gone = await answering(async (done) => await taking(root, going, landing, done))
+  return answeredWith([...census, ...kept, "", ...gone.report], gone.refusals, gone.code)
 }

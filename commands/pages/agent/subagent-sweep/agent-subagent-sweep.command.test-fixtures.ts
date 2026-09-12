@@ -3,7 +3,10 @@ import { join } from "node:path"
 import type { ProcLivenessEntry } from "akasha/agents/proc-liveness/agent-proc-liveness.module.code.ts"
 import { entry } from "akasha/agents/proc-liveness/agent-proc-liveness.module.test-fixtures.ts"
 import { refusalsKept } from "akasha/agents/refusals-keeping/refusals-keeping.module.code.ts"
-import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import {
+  EXIT,
+  OperationalError,
+} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { SubagentNode } from "akasha/code/editor/extension/subagent-reading/subagent-reading.module.code.ts"
@@ -27,6 +30,7 @@ import {
   seatRefusalsAt,
 } from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
 import { declaringUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { bodyAt, writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 
 export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
@@ -257,3 +261,72 @@ export function saying(
 }
 
 export const THROWS: RunningSaid = () => Promise.reject(new Error("no transcript would open"))
+
+export const world = scratchWorld()
+
+export const NOWHERE = "/var/tmp/subagent-sweep-no-transcript.jsonl"
+
+export function worldWith(): { root: string; base: string; at: string } {
+  const root = seated(world.rootFor("subagent-sweep-"))
+  return {
+    root,
+    base: world.rootFor("subagent-sweep-logs-"),
+    at: paged(root, "akasha", OWN, ACTING),
+  }
+}
+
+export function threePaged(): { root: string; base: string; gone: string } {
+  const root = seated(world.rootFor("subagent-sweep-"))
+  paged(root, "akasha", OWN, ACTING)
+  paged(root, "akasha", AGAIN, agentIdOf(SEAT_ID, AGAIN))
+  return {
+    root,
+    base: world.rootFor("subagent-sweep-logs-"),
+    gone: paged(root, "thea", OWN, agentIdOf(OTHER_ID, OWN)),
+  }
+}
+
+export function twoThea(): { root: string; base: string; kept: string; gone: string } {
+  const root = seated(world.rootFor("subagent-sweep-"))
+  const kept = paged(root, "thea", OWN, agentIdOf(OTHER_ID, OWN))
+  const gone = paged(root, "thea", AGAIN, agentIdOf(OTHER_ID, AGAIN))
+  editsBeside(root, kept)
+  return { root, base: world.rootFor("subagent-sweep-logs-"), kept, gone }
+}
+
+export function countingReads(): { reads: SeatTranscripts; asked: () => number } {
+  let asked = 0
+  const reads: SeatTranscripts = {
+    forSeat: () => {
+      asked += 1
+      return Promise.resolve([])
+    },
+    endedForSeat: () => {
+      asked += 1
+      return Promise.resolve([])
+    },
+  }
+  return { reads, asked: () => asked }
+}
+
+export const THROWN: Landing = () => {
+  throw new OperationalError("another landing held the lock")
+}
+
+export function twoWaiting(root: string): undefined {
+  seatFiled(root, "thea", OTHER_ID)
+  editsBeside(root, paged(root, "thea", OWN, agentIdOf(OTHER_ID, OWN)))
+  editsBeside(root, paged(root, "thea", AGAIN, agentIdOf(OTHER_ID, AGAIN)))
+  return undefined
+}
+
+export function unlandedBy(seatName: string, own: string): string {
+  return `${seatName}-${own} left 1 edit(s) unlanded`
+}
+
+export function oneWaiting(): { root: string; base: string; at: string; seat: string } {
+  const { root, base, at } = worldWith()
+  const seat = seatFiled(root, "akasha", SEAT_ID)
+  editsBeside(root, at)
+  return { root, base, at, seat }
+}

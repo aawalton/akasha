@@ -2,7 +2,6 @@ import { expect, test } from "bun:test"
 import {
   agentSubagentSweep,
   runningOwnIn,
-  type SeatTranscripts,
   TAKE,
 } from "akasha/commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"
 import {
@@ -10,7 +9,7 @@ import {
   ACTS,
   AGAIN,
   ALIVE,
-  agentIdOf,
+  countingReads,
   editsBeside,
   GONE,
   givenIn,
@@ -20,10 +19,10 @@ import {
   landings,
   logPut,
   NOTHING_KEPT,
+  NOWHERE,
   node,
-  OTHER_ID,
   OWN,
-  paged,
+  oneWaiting,
   pathOf,
   REFUSAL,
   ROW,
@@ -33,29 +32,21 @@ import {
   removing,
   SEAT_ID,
   saying,
-  seated,
   seatFiled,
+  THROWN,
   THROWS,
   takeLine,
   there,
+  threePaged,
+  twoThea,
+  twoWaiting,
   UNREADABLE,
+  unlandedBy,
+  world,
+  worldWith,
 } from "akasha/commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts"
 import { pagesIn } from "akasha/seat-system/subagent-census/subagent-census.module.code.ts"
 import { refusalsSaid } from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
-import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
-
-const world = scratchWorld()
-
-function worldWith(): { root: string; base: string; at: string } {
-  const root = seated(world.rootFor("subagent-sweep-"))
-  return {
-    root,
-    base: world.rootFor("subagent-sweep-logs-"),
-    at: paged(root, "akasha", OWN, ACTING),
-  }
-}
-
-const NOWHERE = "/var/tmp/subagent-sweep-no-transcript.jsonl"
 
 test("a page whose agent no live process answers for is named stale", async () => {
   const { root, base } = worldWith()
@@ -141,11 +132,7 @@ test("a take-down the log says was refused is stale and is named to the landing"
 })
 
 test("only the stale are named to the landing in one run", async () => {
-  const root = seated(world.rootFor("subagent-sweep-"))
-  const base = world.rootFor("subagent-sweep-logs-")
-  paged(root, "akasha", OWN, ACTING)
-  paged(root, "akasha", AGAIN, agentIdOf(SEAT_ID, AGAIN))
-  const gone = paged(root, "thea", OWN, agentIdOf(OTHER_ID, OWN))
+  const { root, base, gone } = threePaged()
   const held = landings()
   const said = await removing(root, base, ACTS, saying([]), held.landing)
   expect(said.code).toBe(0)
@@ -263,21 +250,11 @@ test("an id both readings name is answered as running and never as ended", async
 
 test("a seat naming no transcript is asked for no reading at all", async () => {
   const { root } = worldWith()
-  let asked = 0
-  const counted: SeatTranscripts = {
-    forSeat: () => {
-      asked += 1
-      return Promise.resolve([])
-    },
-    endedForSeat: () => {
-      asked += 1
-      return Promise.resolve([])
-    },
-  }
-  const said = await runningOwnIn(pagesIn(root), counted, () => null)
+  const held = countingReads()
+  const said = await runningOwnIn(pagesIn(root), held.reads, () => null)
   expect(said.running.size).toBe(0)
   expect(said.ended.size).toBe(0)
-  expect(asked).toBe(0)
+  expect(held.asked()).toBe(0)
   world.sweep()
 })
 
@@ -319,11 +296,7 @@ test("a stale page whose seat the index files no page for is left where it is", 
 })
 
 test("only the stale pages nothing left edits beside are named to the landing", async () => {
-  const root = seated(world.rootFor("subagent-sweep-"))
-  const base = world.rootFor("subagent-sweep-logs-")
-  const kept = paged(root, "thea", OWN, agentIdOf(OTHER_ID, OWN))
-  const gone = paged(root, "thea", AGAIN, agentIdOf(OTHER_ID, AGAIN))
-  editsBeside(root, kept)
+  const { root, base, kept, gone } = twoThea()
   const held = landings()
   const said = await removing(root, base, ALIVE, saying([]), held.landing)
   expect(said.code).toBe(0)
@@ -353,9 +326,7 @@ test("a stale page whose subagent left edits waiting moves them onto its seat an
 })
 
 test("a run the landing refused names what it had already moved onto a seat", async () => {
-  const { root, base, at } = worldWith()
-  const seat = seatFiled(root, "akasha", SEAT_ID)
-  editsBeside(root, at)
+  const { root, base, seat } = oneWaiting()
   const said = await refusedRemoving(root, base, ALIVE, saying([], [OWN]))
   expect(said.code).toBe(3)
   expect(said.report.join("\n")).toContain("left 1 edit(s) unlanded")
@@ -397,5 +368,37 @@ test("a page a live process acts under stays though the transcript says that pag
   expect(said.report.join("\n")).toContain("no page was judged STALE, so nothing went")
   expect(held.asked()).toEqual([])
   expect(there(root, at)).toBe(true)
+  world.sweep()
+})
+
+test("each page is named onto its seat as soon as that page's move lands", async () => {
+  const { root, base } = worldWith()
+  twoWaiting(root)
+
+  const said = await removing(root, base, ALIVE, saying([]), landings().landing)
+  const report = said.report.join("\n")
+  expect(report).toContain(unlandedBy("thea", OWN))
+  expect(report).toContain(unlandedBy("thea", AGAIN))
+  world.sweep()
+})
+
+test("a run whose landing threw part way names in its refusal what it had moved", async () => {
+  const { root, base } = worldWith()
+  twoWaiting(root)
+
+  const said = await removing(root, base, ALIVE, saying([]), THROWN)
+  expect(said.code).toBe(3)
+  const last = said.refusals[said.refusals.length - 1] as string
+  expect(last).toContain(unlandedBy("thea", OWN))
+  expect(last).toContain(unlandedBy("thea", AGAIN))
+  world.sweep()
+})
+
+test("a run whose landing threw before anything moved names nothing moved", async () => {
+  const { root, base } = worldWith()
+
+  const said = await removing(root, base, GONE, saying([]), THROWN)
+  expect(said.code).toBe(3)
+  expect(said.refusals.some((one) => one.includes("stopped part way"))).toBe(false)
   world.sweep()
 })
