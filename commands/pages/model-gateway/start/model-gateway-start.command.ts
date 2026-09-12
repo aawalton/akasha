@@ -20,19 +20,18 @@ export const modelGatewayStart = {
     { said: "--keep", takes: "leave the gateway running and say the process id to stop it by" },
     { said: "--seconds", takes: "how long to wait for the port line before giving up" },
   ],
-  helpNotes: [
-    "this starts the akasha gateway entry the way a supervisor starts one: `bun <entry>` with the five OAUTH_PROXY keys in its environment.",
-    "it is here because `block-akasha-shell-writes` refuses `bun akasha/...` on a command line, so the entry had no road a lane could run it by.",
-    "an agent id a seat answers to is refused, so no run of this can write over the proxy state a serving gateway is using.",
-    "without `--keep` the gateway is stopped as soon as it has printed its port, which is the cheapest proof that it boots.",
-    "with `--keep` the gateway is left running and you stop it yourself by the process id reported.",
-    "the port and the socket are its own, so nothing it does reaches a gateway already serving a seat.",
-    "the code is 0 where a port came back and 3 where the gateway printed none.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "One run starts one gateway.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A port that came back answers 0.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A gateway that printed no port answers 3.",
     },
     {
       invariantKind: "departure",
