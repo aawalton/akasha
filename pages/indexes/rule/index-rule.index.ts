@@ -64,6 +64,18 @@ export const indexRule = {
     },
     {
       invariantKind: "departure",
+      statement: "A reader asks which of the paths the index names have not been read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reader reading those few itself has what the whole map would have said.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A map no reader of today's body filed answers no such few, all of it suspect.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A rule a file spells is a function of that file's body and of the reader.",
     },
     {

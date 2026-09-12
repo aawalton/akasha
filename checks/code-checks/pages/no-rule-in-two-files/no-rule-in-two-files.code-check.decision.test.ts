@@ -12,6 +12,7 @@ import {
   CAMEL,
   EXPORTED_AS,
   ONE_CODE,
+  readerFiledIn,
   rooted,
   scratch,
   TWO_CODE,
@@ -218,10 +219,23 @@ test("the filed map answers what parsing answers, refusal for refusal", () => {
   expect(refusingBy(change, everyFiledIn(cast.shadow))).toEqual(parsed)
 })
 
-test("an index that has not read every path it names is parsed rather than trusted", () => {
+test("a map no reader of today's body filed parses every file named", () => {
   const change = bothArriving(rooted())
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
-  expect(cast.shadow.index.ruleWhole()).toBe(false)
+  expect(cast.shadow.index.ruleShort()).toBe(null)
   expect(refusalsOver(change, cast.shadow, true)).toEqual(refusalsOver(change, cast.shadow))
+})
+
+test("an index short of paths it names parses those and reads the filed rules for the rest", () => {
+  const change = bothArriving(readerFiledIn(rooted()))
+  const cast = shadowFor(change)
+  if ("refused" in cast) throw new Error(cast.refused)
+  const short = cast.shadow.index.ruleShort()
+  if (short === null) throw new Error("that map named no reader")
+  expect(short.length).toBeGreaterThan(0)
+  expect(short).not.toContain(ONE_CODE)
+  expect(short).not.toContain(TWO_CODE)
+  expect(refusalsOver(change, cast.shadow, true)).toEqual(refusalsOver(change, cast.shadow))
+  expect(refusalsOver(change, cast.shadow, true).length).toBeGreaterThan(0)
 })

@@ -13,8 +13,8 @@ import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 
 export type Saying = (rule: string) => readonly Said[]
 
-export function everySpeltIn(change: Change, shadow: Shadow): Saying {
-  const spelt = [...everyFileOf(shadow.index)].flatMap((path) => {
+function speltOver(change: Change, over: readonly string[]): Saying {
+  const spelt = over.flatMap((path) => {
     if (!textNamed(path)) return []
     const text = textIn(change, path)
     if (text === null) return []
@@ -26,9 +26,22 @@ export function everySpeltIn(change: Change, shadow: Shadow): Saying {
   return (rule) => every.get(rule) ?? []
 }
 
-export function everyFiledIn(shadow: Shadow): Saying {
+export function everySpeltIn(change: Change, shadow: Shadow): Saying {
+  return speltOver(change, everyFileOf(shadow.index))
+}
+
+export function everyFiledIn(shadow: Shadow, short: ReadonlySet<string> = new Set()): Saying {
   const named = new Set(everyFileOf(shadow.index))
-  return (rule) => shadow.index.saidOf(rule).filter((one) => named.has(one.path))
+  return (rule) =>
+    shadow.index.saidOf(rule).filter((one) => named.has(one.path) && !short.has(one.path))
+}
+
+function bothSaying(filed: Saying, spelt: Saying): Saying {
+  return (rule) =>
+    [...filed(rule), ...spelt(rule)].sort((one, two) => {
+      if (one.path !== two.path) return one.path < two.path ? -1 : 1
+      return one.place - two.place
+    })
 }
 
 export function reasonsIn(path: string, text: string, every: Saying): readonly string[] {
@@ -56,6 +69,8 @@ export function refusingBy(change: Change, every: Saying): readonly Judged[] {
 
 export function refusalsOver(change: Change, shadow: Shadow, filed = false): readonly Judged[] {
   if (!change.changed.some(textNamed)) return []
-  const whole = filed && shadow.index.ruleWhole()
-  return refusingBy(change, whole ? everyFiledIn(shadow) : everySpeltIn(change, shadow))
+  const short = filed ? shadow.index.ruleShort() : null
+  if (short === null) return refusingBy(change, everySpeltIn(change, shadow))
+  const few = new Set(short)
+  return refusingBy(change, bothSaying(everyFiledIn(shadow, few), speltOver(change, short)))
 }

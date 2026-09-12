@@ -42,7 +42,7 @@ import {
   typeSlugOf,
   valuesByPath,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { ruleWhole, type Said, saidOf } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
+import { ruleShort, type Said, saidOf } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import type { Shape as Filed, Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import {
   type Carried,
@@ -103,7 +103,7 @@ export type Answering = {
   readonly pageTypesIn: () => ReadonlySet<string>
   readonly propertiesOf: (pageTypeSlug: string) => readonly Carried[]
   readonly propertiesIfNamed: (pageTypeSlug: string) => readonly Carried[] | null
-  readonly ruleWhole: () => boolean
+  readonly ruleShort: () => readonly string[] | null
   readonly saidOf: (rule: string) => readonly Said[]
   readonly shapesAt: () => ReadonlyMap<string, Filed>
   readonly sidecarsAt: () => SidecarsBy
@@ -157,7 +157,7 @@ export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
     pageTypesIn: heldOnce(() => pageTypesIn(reading)),
     propertiesOf: (pageTypeSlug) => propertiesOf(pageTypeSlug, reading, pageOf),
     propertiesIfNamed: (pageTypeSlug) => propertiesIfNamedOf(pageTypeSlug, reading, pageOf),
-    ruleWhole: heldOnce(() => ruleWhole(reading, everyPath(reading))),
+    ruleShort: heldOnce(() => ruleShort(reading, everyPath(reading))),
     saidOf: (rule) => saidOf(reading, rule),
     shapesAt: heldOnce(() => shapesAt(reading)),
     sidecarsAt: heldOnce(() => sidecarsOver(reading, [])),

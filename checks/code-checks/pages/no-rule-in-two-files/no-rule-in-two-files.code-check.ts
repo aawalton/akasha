@@ -110,7 +110,15 @@ export const noRuleInTwoFiles = {
     },
     {
       invariantKind: "departure",
-      statement: "The filed rules are read only where every typed path the index names is in them.",
+      statement: "The filed rules are read for the typed paths the index names that are in them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A typed path the index names and has not read is parsed on the run instead.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Reading the rest as filed and parsing those few answers as parsing all would.",
     },
     {
       invariantKind: "departure",
@@ -128,7 +136,7 @@ export const noRuleInTwoFiles = {
     },
     {
       invariantKind: "departure",
-      statement: "A run whose filed rules fall short of that parses every file named instead.",
+      statement: "A run the filing reader did not file for parses every file named instead.",
     },
     {
       invariantKind: "departure",

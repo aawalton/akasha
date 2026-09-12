@@ -7,7 +7,8 @@ import {
 } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 import { speltIn } from "akasha/code/rule/code-rule.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
-import type { Said } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
+import { entriesFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { readerIn, type Said } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
@@ -56,6 +57,11 @@ export function byRule(held: readonly Held[]): Saying {
     }
   }
   return (rule) => found.get(rule) ?? []
+}
+
+export function readerFiledIn(root: string): string {
+  entriesFiled(root, [readerIn()])
+  return root
 }
 
 export function rooted(): string {
