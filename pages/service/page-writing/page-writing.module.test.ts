@@ -218,7 +218,8 @@ test("a write that threw after it committed names that commit beside those paths
   const commit = "1".repeat(40)
   const said = thrownWhy(held, new Error("the index would not free"), [commit])
   expect(said).toContain("the write carried akasha/a.ts")
-  expect(said).toContain(`${commit} landed before it stopped`)
+  expect(said).toContain("stopped part way")
+  expect(said).toContain(commit)
 })
 
 test("a write that throws is refused naming what the write carried", async () => {

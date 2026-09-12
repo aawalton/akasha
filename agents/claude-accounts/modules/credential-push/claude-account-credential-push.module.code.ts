@@ -10,6 +10,7 @@ import {
   type Asking,
   landedMechanically,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { partWay } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
 import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
 import { secretAt, uncommittedAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
@@ -303,14 +304,10 @@ export async function pushedIn(
     }
     return { kind: "pushed", slug, sidecar, keys: [...PUSHED_KEYS] }
   } catch (thrown) {
-    const landed =
-      done.length === 0
-        ? ""
-        : ` — ${done.join(", ")} landed before it stopped, so the pair this pushed is in that commit`
     const rescue = rescueWhy(root, reached, credential, given, pageOf, routing)
-    return refusedFor(
-      slug,
-      `the push threw, which it is written never to do: ${saidBy(thrown)}${landed} — ${rescue}`
-    )
+    const stopped = partWay(done)
+    const pair = stopped.length === 0 ? [] : ["The pair this pushed is in that commit."]
+    const why = `the push threw, which it is written never to do: ${saidBy(thrown)} — ${rescue}`
+    return refusedFor(slug, [why, ...stopped, ...pair].join(" "))
   }
 }

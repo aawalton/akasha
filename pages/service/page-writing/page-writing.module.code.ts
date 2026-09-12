@@ -3,6 +3,7 @@ import {
   type Asking,
   runMechanicalChange,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { partWay } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { mintingOnto } from "akasha/commands/modules/value-minting/value-minting.module.code.ts"
 import { mergeUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
@@ -78,8 +79,7 @@ export function thrownWhy(
   const said = thrown instanceof Error ? thrown.message : String(thrown)
   const paths = pathsOver(batch)
   const carried = paths.length === 0 ? said : `${said} — the write carried ${paths.join(", ")}`
-  if (done.length === 0) return carried
-  return `${carried} — ${done.join(", ")} landed before it stopped, so read that commit rather than handing these bodies in again`
+  return [carried, ...partWay(done)].join(" ")
 }
 
 export function refusalIn(asked: Asked): string | null {
