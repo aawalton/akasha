@@ -11,4 +11,5 @@ export const akasha = {
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",
+  claudeCodeSessionUuid: "66c0bcb7-2283-4b35-b162-cafc6f825ed6",
 } as const satisfies Seat
