@@ -10,15 +10,19 @@ export const infrastructureShellInitBash = {
   testFixtures: "ts",
   changeKind: "change-none",
   taking: [],
-  helpNotes: [
-    "this takes no word and no flag: it composes one set, for bash, and every terminal sources the same one.",
-    "the set is written to the output stream for a shell to evaluate, so nothing else is ever printed there.",
-    "the accounts a `c<N>` launcher is composed for are the claude account pages akasha carries.",
-    "an account whose page states no alias index gets no launcher, and the rest are composed as before.",
-    "reading no account at all is refused rather than composed as a set with no account launcher in it.",
-    "every launcher in the set composes the set again by calling this, so a change here reaches a terminal already open.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "One `c<N>` launcher is composed for each claude account page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An account page stating no alias index has no launcher.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every launcher in the set composes the set again by calling this.",
+    },
     {
       invariantKind: "departure",
       statement: "The set is composed whole on every call rather than kept between calls.",
