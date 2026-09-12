@@ -1,3 +1,8 @@
+import {
+  INPUT,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { listDeployables } from "akasha/temper/addons-resolve/deployable-addons/deployable-addons.module.code.ts"
@@ -17,10 +22,6 @@ import {
 import { readInstalledAddons } from "akasha/temper/community-addons/installed-addons/installed-addons.module.code.ts"
 import { addonsDir } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
-
-const SAID_WRONG = 1
-
-const FAILED = 3
 
 const ONLY_FLAG = "--only"
 
@@ -110,13 +111,13 @@ export async function temperCommunityAddonUpdate(argv: readonly string[] = []): 
   } catch (thrown) {
     return refused(
       `the community catalog was not reached, so nothing here was updated: ${messageOf(thrown)}`,
-      FAILED
+      OPERATIONAL
     )
   }
 
   const unknown = unknownOnlyDirs(plan, only)
   if (unknown.length > 0) {
-    return refused(`${ONLY_FLAG} names no installable addon: ${unknown.join(", ")}`, SAID_WRONG)
+    return refused(`${ONLY_FLAG} names no installable addon: ${unknown.join(", ")}`, INPUT)
   }
 
   const selected = selectTargets(plan, { force: argv.includes(FORCE_FLAG), only })
@@ -135,7 +136,7 @@ export async function temperCommunityAddonUpdate(argv: readonly string[] = []): 
     return {
       report: JSON.stringify({ addonsDir: addonsPath, outcomes }, null, SPACES).split("\n"),
       refusals: failed.map((one) => `${one.dir} was not updated: ${one.error ?? ""}`),
-      code: failed.length > 0 ? FAILED : 0,
+      code: failed.length > 0 ? OPERATIONAL : OK,
     }
   }
 
@@ -145,6 +146,6 @@ export async function temperCommunityAddonUpdate(argv: readonly string[] = []): 
       `${String(updated)} updated, ${String(failed.length)} failed`,
     ],
     refusals: failed.map((one) => `${one.dir} was not updated: ${one.error ?? ""}`),
-    code: failed.length > 0 ? FAILED : 0,
+    code: failed.length > 0 ? OPERATIONAL : OK,
   }
 }
