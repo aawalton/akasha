@@ -5,8 +5,8 @@ import type { CharacterState } from "akasha/temper/character-build/modules/build
 import type { Skill } from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/equipment/set-template/set-template.module.code.ts"
 import type { BuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
-import { CharacterProvider } from "akasha/temper/web/character-context/character-context.module.code.tsx"
-import { CharacterEditorContent } from "akasha/temper/web/character-editor-content/character-editor-content.module.code.tsx"
+import { CharacterProvider } from "akasha/temper/web/modules/character-context/character-context.module.code.tsx"
+import { CharacterEditorContent } from "akasha/temper/web/modules/character-editor-content/character-editor-content.module.code.tsx"
 
 interface CharacterEditorProps {
   buildId: BuildId

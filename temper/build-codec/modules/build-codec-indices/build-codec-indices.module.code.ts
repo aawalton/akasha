@@ -17,7 +17,7 @@ import { standardArmorWeights } from "akasha/temper/characters-equipment/modules
 import { setsAll } from "akasha/temper/characters-equipment/sets-all/sets-all.module.code.ts"
 import { weaponEnchantments } from "akasha/temper/characters-equipment/weapon-enchants/weapon-enchants.module.code.ts"
 import { weaponTypes } from "akasha/temper/characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
-import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
+import { classes } from "akasha/temper/classes/modules/character-class/character-class.module.code.ts"
 import { jewelryTraits } from "akasha/temper/equipment/jewelry-traits/jewelry-traits.module.code.ts"
 import { armorTraits } from "akasha/temper/equipment/modules/armor-traits/armor-traits.module.code.ts"
 import { weaponTraits } from "akasha/temper/equipment/weapon-traits/weapon-traits.module.code.ts"

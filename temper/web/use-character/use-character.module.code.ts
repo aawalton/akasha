@@ -3,14 +3,14 @@
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import type { ClassId } from "akasha/temper/formula-framework/class-id/class-id.module.code.ts"
 import type { SkillLineId } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
+import { CHARACTER_ACTION_CREATORS } from "akasha/temper/web/character-reducer/character-reducer.module.code.ts"
+import type { CharacterAction } from "akasha/temper/web/modules/character-actions/character-actions.module.code.ts"
 import {
   CharacterDispatchContext,
   type CharacterMetadata,
   CharacterMetadataContext,
   CharacterStateContext,
-} from "akasha/temper/web/character-context/character-context.module.code.tsx"
-import { CHARACTER_ACTION_CREATORS } from "akasha/temper/web/character-reducer/character-reducer.module.code.ts"
-import type { CharacterAction } from "akasha/temper/web/modules/character-actions/character-actions.module.code.ts"
+} from "akasha/temper/web/modules/character-context/character-context.module.code.tsx"
 import { useCallback, useContext } from "react"
 
 export function useCharacter(): CharacterState {

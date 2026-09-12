@@ -1,5 +1,5 @@
 import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
-import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
+import { classes } from "akasha/temper/classes/modules/character-class/character-class.module.code.ts"
 export function generateClassMappings(): string {
   const indexEntries: string[] = []
   const temperIdEntries: string[] = []

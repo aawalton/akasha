@@ -13,7 +13,7 @@ import { armorEnchants } from "akasha/temper/characters-equipment/modules/armor-
 import { setsAll } from "akasha/temper/characters-equipment/sets-all/sets-all.module.code.ts"
 import { weaponEnchantments } from "akasha/temper/characters-equipment/weapon-enchants/weapon-enchants.module.code.ts"
 import { weaponTypes } from "akasha/temper/characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
-import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
+import { classes } from "akasha/temper/classes/modules/character-class/character-class.module.code.ts"
 import { companionSkills } from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
 import { companions } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import { jewelryTraits } from "akasha/temper/equipment/jewelry-traits/jewelry-traits.module.code.ts"

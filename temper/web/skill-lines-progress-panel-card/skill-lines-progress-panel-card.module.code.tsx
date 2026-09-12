@@ -1,6 +1,6 @@
 import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
 import { getRacialSkillLineIdForRace } from "akasha/temper/character-skills/passive-queries/passive-queries.module.code.ts"
-import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
+import { classes } from "akasha/temper/classes/modules/character-class/character-class.module.code.ts"
 import type { CharacterCardId } from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
 import type {
   CharacterSkillLineProgress,

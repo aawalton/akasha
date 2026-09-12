@@ -31,8 +31,8 @@ import {
   buildHash as toBuildHash,
   buildId as toBuildId,
 } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
-import { CharacterEditor } from "akasha/temper/web/character-editor/character-editor.module.code.tsx"
 import { CompanionEditor } from "akasha/temper/web/companion-editor/companion-editor.module.code.tsx"
+import { CharacterEditor } from "akasha/temper/web/modules/character-editor/character-editor.module.code.tsx"
 import { useEffect } from "react"
 import { data, useSearchParams } from "react-router"
 import { toast } from "sonner"

@@ -7,7 +7,7 @@ import {
   type RoleId,
   characterRoles as roles,
 } from "akasha/temper/character-sources/character-roles/character-roles.module.code.ts"
-import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
+import { classes } from "akasha/temper/classes/modules/character-class/character-class.module.code.ts"
 import type { ClassId } from "akasha/temper/formula-framework/class-id/class-id.module.code.ts"
 import { type RaceId, races } from "akasha/temper/races/races/races.module.code.ts"
 import type { TabValue } from "akasha/temper/web/modules/build-page-tab/build-page-tab.module.code.ts"

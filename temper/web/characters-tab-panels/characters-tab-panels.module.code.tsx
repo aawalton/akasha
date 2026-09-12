@@ -7,7 +7,6 @@ import type {
   CompletionFilter,
   CompletionSortMode,
 } from "akasha/temper/player-completion-ui/completion-panel-card/completion-panel-card.module.code.tsx"
-import { CharacterCompanionRapportPanelCard } from "akasha/temper/web/character-companion-rapport-panel-card/character-companion-rapport-panel-card.module.code.tsx"
 import { CharacterLevelPanelCard } from "akasha/temper/web/character-level-panel-card/character-level-panel-card.module.code.tsx"
 import type { CharacterProgressData } from "akasha/temper/web/character-progress/character-progress.module.code.ts"
 import { CharactersSummaryPanelCard } from "akasha/temper/web/characters-summary-panel-card/characters-summary-panel-card.module.code.tsx"
@@ -16,6 +15,7 @@ import { LoreLibraryProgressPanelCard } from "akasha/temper/web/lore-library-pro
 import { AllianceRankPanelCard } from "akasha/temper/web/modules/alliance-rank-panel-card/alliance-rank-panel-card.module.code.tsx"
 import { CadwellProgressPanelCard } from "akasha/temper/web/modules/cadwell-progress-panel-card/cadwell-progress-panel-card.module.code.tsx"
 import { CharacterAchievementsPanelCard } from "akasha/temper/web/modules/character-achievements-panel-card/character-achievements-panel-card.module.code.tsx"
+import { CharacterCompanionRapportPanelCard } from "akasha/temper/web/modules/character-companion-rapport-panel-card/character-companion-rapport-panel-card.module.code.tsx"
 import { MountTrainingPanelCard } from "akasha/temper/web/mount-training-panel-card/mount-training-panel-card.module.code.tsx"
 import { PackUpgradesPanelCard } from "akasha/temper/web/pack-upgrades-panel-card/pack-upgrades-panel-card.module.code.tsx"
 import { PoiProgressPanelCard } from "akasha/temper/web/poi-progress-panel-card/poi-progress-panel-card.module.code.tsx"
