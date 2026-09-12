@@ -4,7 +4,7 @@ export const indexFiling = {
   id: "01a08e9f-f494-79ea-9155-8f6f56dbf41c",
   type: "module",
   slug: "index-filing",
-  definition: "the index lines a test files into a root of its own",
+  definition: "the index lines and page bodies a test files into a root of its own",
   code: "ts",
   invariants: [
     {
@@ -23,6 +23,18 @@ export const indexFiling = {
     {
       invariantKind: "absence",
       statement: "Nothing here reads a line back.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value filed for a page is written as that page's body at that page's path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value carrying no id is a shape rather than a page, and leaves no body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body already at that path is left as the caller wrote it.",
     },
   ],
 } as const satisfies Module

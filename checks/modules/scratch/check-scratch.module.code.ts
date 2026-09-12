@@ -179,9 +179,10 @@ export function change(
 }
 
 export function arriving(root: string, bodies: Readonly<Record<string, string>>): Change {
+  const disk = onDisk(root)
   const at = (path: string): Uint8Array | null => {
     const said = bodies[path]
-    return said === undefined ? null : bytesOf(said)
+    return said === undefined ? disk(path) : bytesOf(said)
   }
   return { root, changed: Object.keys(bodies), before: at, after: at }
 }
