@@ -67,6 +67,11 @@ export const bashCallWeighing = {
     {
       invariantKind: "departure",
       statement:
+        "A row written before `137ed2adbee8` may say its peak was measured where nothing measured it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "The peak a group reached is the memory the call added, since a shell starts holding nothing.",
     },
     {
