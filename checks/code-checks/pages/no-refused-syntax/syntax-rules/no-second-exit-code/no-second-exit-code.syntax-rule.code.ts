@@ -19,7 +19,20 @@ const NAMED: ReadonlyMap<number, string> = new Map(
 
 const INSTEAD = "import it from the command-answering module instead"
 
-const BUILDS_THE_REFUSAL = "commands/modules/refusing/"
+const BUILDS_THE_ANSWER: readonly string[] = [
+  "commands/modules/answering/",
+  "commands/modules/calling/",
+  "commands/modules/refusing/",
+]
+
+const HANDED_A_CODE: ReadonlySet<string> = new Set([
+  "answeredWith",
+  "refused",
+  "refusedBy",
+  "refusing",
+])
+
+const REFUSALS_AT: ReadonlyMap<string, number> = new Map([["answeredWith", 1]])
 
 type Spelled = {
   readonly at: ts.Node
@@ -45,9 +58,35 @@ function spelledIn(held: ts.ObjectLiteralExpression): Spelled | null {
   return refuses ? found : null
 }
 
+function emptyList(node: ts.Expression | undefined): boolean {
+  return node !== undefined && ts.isArrayLiteralExpression(node) && node.elements.length === 0
+}
+
+function handedIn(held: ts.CallExpression): Spelled | null {
+  const called = held.expression
+  if (!ts.isIdentifier(called) || !HANDED_A_CODE.has(called.text)) return null
+  const given = held.arguments
+  const last = given[given.length - 1]
+  const meant = numberOf(last)
+  if (given.length < 2 || last === undefined || meant === null) return null
+  const refuses = REFUSALS_AT.get(called.text)
+  if (refuses === undefined) return { at: last, meant }
+  if (given.length !== refuses + 2 || emptyList(given[refuses])) return null
+  return { at: last, meant }
+}
+
+function refusedFor(standing: Given, spelled: Spelled, how: string): Refusal | null {
+  const named = NAMED.get(spelled.meant)
+  if (named === undefined) return null
+  return {
+    line: lineOf(standing.source, spelled.at),
+    reason: `a refusal ${how} says nothing of what kind of thing went wrong — name it \`${named}\` and ${INSTEAD}`,
+  }
+}
+
 export function noSecondExitCode(standing: Given): readonly Refusal[] {
   const found: Refusal[] = []
-  const builds = standing.path.includes(BUILDS_THE_REFUSAL)
+  const builds = BUILDS_THE_ANSWER.some((one) => standing.path.includes(one))
   const visit = (node: ts.Node): undefined => {
     if (ts.isVariableDeclaration(node) && ts.isIdentifier(node.name)) {
       const named = node.name.text
@@ -61,13 +100,19 @@ export function noSecondExitCode(standing: Given): readonly Refusal[] {
     }
     if (!builds && ts.isObjectLiteralExpression(node)) {
       const spelled = spelledIn(node)
-      const named = spelled === null ? undefined : NAMED.get(spelled.meant)
-      if (spelled !== null && named !== undefined) {
-        found.push({
-          line: lineOf(standing.source, spelled.at),
-          reason: `a refusal spelling \`code: ${String(spelled.meant)}\` says nothing of what kind of thing went wrong — name it \`${named}\` and ${INSTEAD}`,
-        })
-      }
+      const said =
+        spelled === null
+          ? null
+          : refusedFor(standing, spelled, `spelling \`code: ${String(spelled.meant)}\``)
+      if (said !== null) found.push(said)
+    }
+    if (!builds && ts.isCallExpression(node)) {
+      const handed = handedIn(node)
+      const said =
+        handed === null
+          ? null
+          : refusedFor(standing, handed, `handed \`${String(handed.meant)}\` where its code goes`)
+      if (said !== null) found.push(said)
     }
     ts.forEachChild(node, visit)
   }

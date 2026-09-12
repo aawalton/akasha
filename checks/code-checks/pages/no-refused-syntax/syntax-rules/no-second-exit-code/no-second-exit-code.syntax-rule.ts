@@ -27,7 +27,25 @@ export const noSecondExitCode = {
     },
     {
       invariantKind: "departure",
-      statement: "The module building a command's refusal spells the number its test reads.",
+      statement: "A module building a command's answer spells the number its test reads.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call handing a refusal builder a number where its code goes is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A code is looked for in the last argument, since each builder takes it in a place of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A builder handed an empty list of refusals answers well, and is left alone.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "A builder of that name taking no code is not seen, since no number is ever handed it.",
     },
     {
       invariantKind: "departure",

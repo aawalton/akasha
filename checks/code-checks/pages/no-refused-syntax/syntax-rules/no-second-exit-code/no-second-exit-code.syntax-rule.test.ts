@@ -6,6 +6,8 @@ const BUILT = "const one = { report: [], refusals: [], code: 3 }\n"
 
 const WHERE_IT_IS_BUILT = "akasha/commands/modules/refusing/probe.module.code.ts"
 
+const WHERE_THE_ANSWER_IS_BUILT = "akasha/commands/modules/calling/probe.module.code.ts"
+
 test("a file declaring no exit code is refused nothing", () => {
   expect(noSecondExitCode(parsed("export const one = 1\n"))).toEqual([])
 })
@@ -74,4 +76,60 @@ test("the module building a command's refusal spells the number", () => {
 test("the line named is the line the code sits on", () => {
   const said = noSecondExitCode(parsed("const one = {\n  refusals: [],\n  code: 2,\n}\n"))
   expect(said[0]?.line).toBe(3)
+})
+
+test("a refusal handed its code as a number is refused", () => {
+  const said = noSecondExitCode(parsed("const one = refusing(read.refused, 1)\n"))
+  expect(said).toHaveLength(1)
+  expect(said[0]?.reason).toContain("INPUT")
+})
+
+test("a refusal handed its code by name is left", () => {
+  expect(noSecondExitCode(parsed("const one = refusing(read.refused, INPUT)\n"))).toEqual([])
+})
+
+test("a refusal built one reason at a time is refused too", () => {
+  const said = noSecondExitCode(parsed('const one = refused("nothing followed it", 2)\n'))
+  expect(said).toHaveLength(1)
+  expect(said[0]?.reason).toContain("DATA")
+})
+
+test("an answer carrying refusals and a number is refused", () => {
+  const said = noSecondExitCode(parsed("const one = answeredWith([], read.refused, 3)\n"))
+  expect(said).toHaveLength(1)
+  expect(said[0]?.reason).toContain("OPERATIONAL")
+})
+
+test("an answer carrying no refusals is left", () => {
+  expect(noSecondExitCode(parsed("const one = answeredWith(done, [], 0)\n"))).toEqual([])
+})
+
+test("a builder of that name handed a reason alone is left", () => {
+  expect(noSecondExitCode(parsed('const one = refusing("no page was read")\n'))).toEqual([])
+})
+
+test("a builder of that name handed no number is left", () => {
+  expect(noSecondExitCode(parsed("const one = refused(payload, what)\n"))).toEqual([])
+})
+
+test("a call by another name ending in a number is left", () => {
+  expect(noSecondExitCode(parsed("const one = costRecorded(root, path, before, 0)\n"))).toEqual([])
+})
+
+test("a number that is no exit code is left where a call hands it too", () => {
+  expect(noSecondExitCode(parsed('const one = refused("why", 7)\n'))).toEqual([])
+})
+
+test("a call handed more than that name takes is left", () => {
+  expect(noSecondExitCode(parsed("const one = answeredWith(a, b, c, 1)\n"))).toEqual([])
+})
+
+test("the module building the answer hands the number its test reads", () => {
+  const text = 'const one = answeredWith([], ["why"], 1)\n'
+  expect(noSecondExitCode(parsed(text, WHERE_THE_ANSWER_IS_BUILT))).toEqual([])
+})
+
+test("the line named is the line the number handed sits on", () => {
+  const text = "const one = answeredWith(\n  [],\n  read.refused,\n  1\n)\n"
+  expect(noSecondExitCode(parsed(text))[0]?.line).toBe(4)
 })
