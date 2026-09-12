@@ -68,7 +68,7 @@ export function measuredIn(
   return { measured, unread }
 }
 
-export function measureAttributes(_argv: readonly string[], given: Given): Answer {
+export function measureAttribute(_argv: readonly string[], given: Given): Answer {
   const read = measuredIn(drawnIn(given.root), (slug) => pointsTotalKept(given.root, slug))
   if (read.measured.length === 0) {
     return { report: [], refusals: [NOTHING_KEPT, ...read.unread], code: 2 }
