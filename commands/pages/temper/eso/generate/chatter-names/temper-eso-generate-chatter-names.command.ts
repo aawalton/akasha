@@ -16,7 +16,7 @@ export const temperEsoGenerateChatterNames = {
   ],
   helpNotes: [
     "the checkout defaults to what `CODE_ROOT` names, and to this repository where that names nothing.",
-    "the source is the enum declaration file `temper-eso-generate-typings` writes, so the registry covers what those declarations opted into; widening the registry means regenerating the declarations.",
+    "the source is the enum declaration file `akasha temper eso generate typings` writes, so the registry covers what those declarations opted into; widening it means regenerating the declarations.",
     "reading the declarations rather than the clone is what lets this answer on a workstation carrying no clone.",
     "a registry naming no constant of either kind refuses the call, because an empty registry reads to the trace as a clean answer.",
     "the registry lands as its own commit through the mechanical change that writes a code file, so the run leaves no unlanded body behind.",
