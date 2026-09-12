@@ -12,7 +12,7 @@ import { getRaceSourceById } from "akasha/temper/character-build/race-source/rac
 import {
   type CurseState,
   curses,
-} from "akasha/temper/character-sources/curses/curses.module.code.ts"
+} from "akasha/temper/character-sources/modules/curses/curses.module.code.ts"
 import {
   type VampireStageId,
   vampireStages,

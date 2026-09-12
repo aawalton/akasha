@@ -44,7 +44,7 @@ import { PricingRegionNote } from "akasha/temper/player-inventory-management-ui/
 import { resolvePricingSourceNote } from "akasha/temper/player-inventory-management-ui/pricing-source/pricing-source.module.code.ts"
 import { PricingSourceNote } from "akasha/temper/player-inventory-management-ui/pricing-source-note/pricing-source-note.module.code.tsx"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
-import { lookupCurrencyConversionRates } from "akasha/temper/trading-pricing/currency-price-lookup/currency-price-lookup.module.code.ts"
+import { lookupCurrencyConversionRates } from "akasha/temper/trading-pricing/modules/currency-price-lookup/currency-price-lookup.module.code.ts"
 import { Package, Search } from "lucide-react"
 import { useMemo } from "react"
 

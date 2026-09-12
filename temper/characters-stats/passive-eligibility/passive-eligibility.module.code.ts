@@ -8,7 +8,7 @@ import {
   getWeaponTypeIdsForBar,
 } from "akasha/temper/character-skills/passive-queries/passive-queries.module.code.ts"
 import { getWeaponSkillLineIdsForBar } from "akasha/temper/character-skills/skill-line-queries/skill-line-queries.module.code.ts"
-import type { CurseState } from "akasha/temper/character-sources/curses/curses.module.code.ts"
+import type { CurseState } from "akasha/temper/character-sources/modules/curses/curses.module.code.ts"
 import type { TranslationContext } from "akasha/temper/characters-stats/pipeline-types/pipeline-types.module.code.ts"
 import type { StandardArmorWeightId } from "akasha/temper/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
 import type { SkillLineId } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"

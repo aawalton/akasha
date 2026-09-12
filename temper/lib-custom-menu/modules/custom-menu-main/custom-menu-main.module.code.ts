@@ -1,6 +1,6 @@
 import "akasha/temper/lib-custom-menu/custom-menu-public-api/custom-menu-public-api.module.code.ts"
 
-import { ADDON_NAME } from "akasha/temper/lib-custom-menu/custom-menu-constants/custom-menu-constants.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/lib-custom-menu/modules/custom-menu-constants/custom-menu-constants.module.code.ts"
 import {
   hookAddSlotAction,
   hookClearMenu,
@@ -9,8 +9,8 @@ import {
   hookShowMenu,
   hookShowPlayerContextMenu,
   hookSocialListContextMenu,
-} from "akasha/temper/lib-custom-menu/custom-menu-hooks/custom-menu-hooks.module.code.ts"
-import { LIB } from "akasha/temper/lib-custom-menu/custom-menu-lib/custom-menu-lib.module.code.ts"
+} from "akasha/temper/lib-custom-menu/modules/custom-menu-hooks/custom-menu-hooks.module.code.ts"
+import { LIB } from "akasha/temper/lib-custom-menu/modules/custom-menu-lib/custom-menu-lib.module.code.ts"
 import { createSubmenu } from "akasha/temper/lib-custom-menu/submenu-window/submenu-window.module.code.ts"
 
 const identifier = `${ADDON_NAME}${GetTimeStamp()}`

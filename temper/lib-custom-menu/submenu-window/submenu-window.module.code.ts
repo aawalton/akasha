@@ -1,12 +1,3 @@
-import { asLcmLabel } from "akasha/temper/lib-custom-menu/custom-menu-casts/custom-menu-casts.module.code.ts"
-import {
-  DEFAULT_ITEM_FONT,
-  DIVIDER,
-  HEADER_FONT,
-  MENU_ADD_OPTION_HEADER,
-  SUBMENU_ITEM_MOUSE_ENTER,
-  SUBMENU_ITEM_MOUSE_EXIT,
-} from "akasha/temper/lib-custom-menu/custom-menu-constants/custom-menu-constants.module.code.ts"
 import type {
   LcmLabel,
   LcmRowControl,
@@ -19,6 +10,15 @@ import {
   setupDivider,
   setupHeader,
 } from "akasha/temper/lib-custom-menu/menu-row-setup/menu-row-setup.module.code.ts"
+import { asLcmLabel } from "akasha/temper/lib-custom-menu/modules/custom-menu-casts/custom-menu-casts.module.code.ts"
+import {
+  DEFAULT_ITEM_FONT,
+  DIVIDER,
+  HEADER_FONT,
+  MENU_ADD_OPTION_HEADER,
+  SUBMENU_ITEM_MOUSE_ENTER,
+  SUBMENU_ITEM_MOUSE_EXIT,
+} from "akasha/temper/lib-custom-menu/modules/custom-menu-constants/custom-menu-constants.module.code.ts"
 import {
   DEFAULT_TEXT_COLOR,
   DEFAULT_TEXT_HIGHLIGHT,

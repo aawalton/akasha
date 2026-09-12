@@ -1,5 +1,5 @@
 import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
-import { curses } from "akasha/temper/character-sources/curses/curses.module.code.ts"
+import { curses } from "akasha/temper/character-sources/modules/curses/curses.module.code.ts"
 import { vampireStages } from "akasha/temper/character-sources/vampire-stages/vampire-stages.module.code.ts"
 export function generateCurseMappings(): string {
   const curseEntries: string[] = []
