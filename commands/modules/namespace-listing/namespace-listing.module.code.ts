@@ -22,6 +22,11 @@ export function widest(said: readonly string[]): number {
   return said.reduce((held, one) => (one.length > held ? one.length : held), 0)
 }
 
+function byName(one: Held, next: Held): number {
+  if (one.named < next.named) return -1
+  return one.named > next.named ? 1 : 0
+}
+
 export function listingOf(
   under: string,
   definition: string | null,
@@ -29,9 +34,10 @@ export function listingOf(
   help: string
 ): readonly string[] | null {
   if (held.length === 0) return null
-  const wide = widest(held.map((one) => one.named))
+  const listed = [...held].sort(byName)
+  const wide = widest(listed.map((one) => one.named))
   const report = [definition === null ? under : `${under} — ${definition}`, ""]
-  for (const one of held) {
+  for (const one of listed) {
     report.push(one.said === null ? `  ${one.named}` : `  ${one.named.padEnd(wide)}  ${one.said}`)
   }
   report.push("", `say \`${under} <command> ${help}\` for what one takes`)

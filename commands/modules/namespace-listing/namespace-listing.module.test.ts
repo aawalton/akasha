@@ -41,9 +41,19 @@ test("the parts are written down under the namespace, padded so the definitions 
   const said = listingOf("akasha track session", "the stretches", HELD, HELP)
   expect(said?.[0]).toBe("akasha track session — the stretches")
   expect(said?.[1]).toBe("")
-  expect(said?.[2]).toBe("  akasha track session open  open one")
-  expect(said?.[3]).toBe("  akasha track session log")
+  expect(said?.[2]).toBe("  akasha track session log")
+  expect(said?.[3]).toBe("  akasha track session open  open one")
   expect(said?.[5]).toBe("say `akasha track session <command> --help` for what one takes")
+})
+
+test("the parts are sorted by the name each is listed under", () => {
+  const held: readonly Held[] = [
+    { named: "akasha seat", said: null },
+    { named: "akasha audit", said: null },
+    { named: "akasha read", said: null },
+  ]
+  const said = listingOf("akasha", null, held, HELP)
+  expect(said?.slice(2, 5)).toEqual(["  akasha audit", "  akasha read", "  akasha seat"])
 })
 
 test("a namespace stating no definition is written down by name alone", () => {

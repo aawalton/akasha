@@ -34,6 +34,14 @@ export const namespaceListing = {
     },
     {
       invariantKind: "departure",
+      statement: "The parts are written down sorted by the name each is listed under.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "The order the parts were handed in reaches no listing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A namespace with no part is written down as nothing.",
     },
     {
