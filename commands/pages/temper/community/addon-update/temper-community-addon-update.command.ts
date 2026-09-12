@@ -46,6 +46,15 @@ export const temperCommunityAddonUpdate = {
       invariantKind: "departure",
       statement: "A folder the archive carried nothing for is named failed rather than left out.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A folder cleared whose new one never landed is named gone rather than left as it was.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder that was never cleared is refused as the fault alone.",
+    },
   ],
   name: "addon-update",
   arguments: [

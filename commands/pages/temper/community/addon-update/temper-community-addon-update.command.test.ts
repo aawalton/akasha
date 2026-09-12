@@ -1,8 +1,9 @@
 import { expect, test } from "bun:test"
 import {
+  amongDone,
   carriedNothingSaid,
-  laidAmong,
   outcomesFor,
+  wentSaid,
 } from "akasha/commands/pages/temper/community/addon-update/temper-community-addon-update.command.code.ts"
 import {
   clearedSaid,
@@ -29,11 +30,11 @@ const GROUP = [planned("Alpha"), planned("Beta")]
 test("the folders the ledger says were laid down are the folders read as laid down", () => {
   const done = [clearedSaid("Alpha", AT), laidSaid("Alpha", AT), clearedSaid("Beta", AT)]
 
-  expect([...laidAmong(GROUP, done, AT)]).toEqual(["Alpha"])
+  expect([...amongDone(GROUP, done, AT, laidSaid)]).toEqual(["Alpha"])
 })
 
 test("an install that threw part way reads as updated the folder it had laid down", () => {
-  const said = outcomesFor(GROUP, NOW, new Set(["Alpha"]), WHY)
+  const said = outcomesFor(GROUP, NOW, new Set(["Alpha"]), () => WHY)
 
   expect(said).toEqual([
     { dir: "Alpha", action: "updated", from: WAS, to: NOW },
@@ -42,7 +43,7 @@ test("an install that threw part way reads as updated the folder it had laid dow
 })
 
 test("an install that laid no folder down reads every folder as failed at its old version", () => {
-  const said = outcomesFor(GROUP, NOW, new Set(), WHY)
+  const said = outcomesFor(GROUP, NOW, new Set(), () => WHY)
 
   expect(said).toEqual([
     { dir: "Alpha", action: "failed", from: WAS, to: NOW, error: WHY },
@@ -51,7 +52,7 @@ test("an install that laid no folder down reads every folder as failed at its ol
 })
 
 test("a folder the archive carried nothing for is read as failed rather than left out", () => {
-  const said = outcomesFor(GROUP, NOW, new Set(["Alpha"]), carriedNothingSaid(UID))
+  const said = outcomesFor(GROUP, NOW, new Set(["Alpha"]), () => carriedNothingSaid(UID))
 
   expect(said.map((one) => one.dir)).toEqual(["Alpha", "Beta"])
   expect(said[1]).toEqual({
@@ -61,4 +62,35 @@ test("a folder the archive carried nothing for is read as failed rather than lef
     to: NOW,
     error: `the ESOUI download for file ${UID} carried nothing for it`,
   })
+})
+
+test("the folders the ledger says were cleared are the folders read as cleared", () => {
+  const done = [clearedSaid("Alpha", AT), laidSaid("Alpha", AT), clearedSaid("Beta", AT)]
+
+  expect([...amongDone(GROUP, done, AT, clearedSaid)]).toEqual(["Alpha", "Beta"])
+})
+
+test("a folder cleared whose new one never landed is refused as gone rather than unchanged", () => {
+  const done = [clearedSaid("Alpha", AT), laidSaid("Alpha", AT), clearedSaid("Beta", AT)]
+  const cleared = amongDone(GROUP, done, AT, clearedSaid)
+
+  const said = outcomesFor(GROUP, NOW, amongDone(GROUP, done, AT, laidSaid), (dir) =>
+    cleared.has(dir) ? wentSaid(dir, AT, WHY) : WHY
+  )
+
+  expect(said[0]?.action).toBe("updated")
+  expect(said[1]?.error ?? "").toContain("is gone")
+  expect(said[1]?.error ?? "").toContain(AT)
+  expect(said[1]?.error ?? "").toContain(WHY)
+})
+
+test("a folder that was never cleared is refused as the fault alone", () => {
+  const done = [clearedSaid("Alpha", AT), laidSaid("Alpha", AT)]
+  const cleared = amongDone(GROUP, done, AT, clearedSaid)
+
+  const said = outcomesFor(GROUP, NOW, amongDone(GROUP, done, AT, laidSaid), (dir) =>
+    cleared.has(dir) ? wentSaid(dir, AT, WHY) : WHY
+  )
+
+  expect(said[1]?.error).toBe(WHY)
 })

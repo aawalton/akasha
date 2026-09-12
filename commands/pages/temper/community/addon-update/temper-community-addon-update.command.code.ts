@@ -8,6 +8,7 @@ import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { listDeployables } from "akasha/temper/addons-resolve/deployable-addons/deployable-addons.module.code.ts"
 import { valuesOf } from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 import {
+  clearedSaid,
   downloadAndInstall,
   laidSaid,
 } from "akasha/temper/community-addons/addon-download/addon-download.module.code.ts"
@@ -57,29 +58,39 @@ function dirsByUid(selected: readonly PlannedAddon[]): ReadonlyMap<string, strin
   return found
 }
 
-export function laidAmong(
+export type Saying = (dir: string, addonsPath: string) => string
+
+export function amongDone(
   group: readonly PlannedAddon[],
   done: readonly string[],
-  addonsPath: string
+  addonsPath: string,
+  saying: Saying
 ): ReadonlySet<string> {
-  const laid = group.filter((one) => done.includes(laidSaid(one.dir, addonsPath)))
-  return new Set(laid.map((one) => one.dir))
+  const found = group.filter((one) => done.includes(saying(one.dir, addonsPath)))
+  return new Set(found.map((one) => one.dir))
 }
 
 export function carriedNothingSaid(uid: string): string {
   return `the ESOUI download for file ${uid} carried nothing for it`
 }
 
+export function wentSaid(dir: string, addonsPath: string, why: string): string {
+  return (
+    `${dir} was cleared from ${addonsPath} and the new one never landed, so ${dir} is gone ` +
+    `rather than left as it was — ${why}`
+  )
+}
+
 export function outcomesFor(
   group: readonly PlannedAddon[],
   to: string | undefined,
   laid: ReadonlySet<string>,
-  why: string
+  why: (dir: string) => string
 ): readonly Outcome[] {
   return group.map((one) => {
     const both = { dir: one.dir, from: one.installedVersion, to }
     if (laid.has(one.dir)) return { ...both, action: "updated" as const }
-    return { ...both, action: "failed" as const, error: why }
+    return { ...both, action: "failed" as const, error: why(one.dir) }
   })
 }
 
@@ -94,9 +105,15 @@ async function updatedGroup(
   try {
     const details = await fetchFileDetails(uid)
     const held = await downloadAndInstall(details, [...dirs], addonsPath, done)
-    return outcomesFor(group, held.version, new Set(held.installedDirs), carriedNothingSaid(uid))
+    return outcomesFor(group, held.version, new Set(held.installedDirs), () =>
+      carriedNothingSaid(uid)
+    )
   } catch (thrown) {
-    return outcomesFor(group, latest, laidAmong(group, done, addonsPath), messageOf(thrown))
+    const cleared = amongDone(group, done, addonsPath, clearedSaid)
+    const why = messageOf(thrown)
+    return outcomesFor(group, latest, amongDone(group, done, addonsPath, laidSaid), (dir) =>
+      cleared.has(dir) ? wentSaid(dir, addonsPath, why) : why
+    )
   }
 }
 
