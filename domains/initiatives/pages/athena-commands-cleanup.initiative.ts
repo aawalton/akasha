@@ -26,7 +26,6 @@ export const athenaCommandsCleanup = {
     "A page invariant that reads like a group rule often means the opposite, so the refusal is confirmed in the code before a page key is landed.",
     "An import edit and the edits leaning on it are one unit, so the whole import line is settled from every name the file will use before any body edit is drafted.\n",
     "A command page and the module page beneath it can disagree with nothing to catch it, and a check compares code against the page beside that code, so the module page is the one that has been wrong.\n",
-    "`asJson` is exactly one `JSON.stringify` call and nothing else, so a second element, or a `null, SPACES` spelling split into lines, is `told` rather than `asJson`.\n",
     "A check's silence measures adoption better than a grep for the reader's name, because a command reaching that reader through a typed wrapper reads as neither converted nor refused.\n",
     "A defaulted test seam in second place crashes every call while every test passes, and a thin entry handing the call and the world to a seam-taking helper makes that impossible.\n",
     "A subagent may run a bare `akasha audit` and not one narrowed by check or path, so a single check is re-derived by calling its own audit entry rather than by narrowing the audit.\n",
@@ -37,5 +36,6 @@ export const athenaCommandsCleanup = {
     "An invariant with a test named after its own words does not rot, and an invariant with no test is true only on the day it was written.",
     "A caller's test asserts the distinctive part of a refusal rather than the whole sentence, because a shared refusal improves hourly and every whole-sentence assertion goes red together.",
     "An attribution is settled from the verdict store rather than from a fixture probe, because a probe over one scratch world does not answer for the test file it imitates.",
+    "A conclusion drawn from one reading is settled by the series before it is acted on: the log sidecar, the verdict store, or the page type that already states the rule.",
   ],
 } as const satisfies Initiative
