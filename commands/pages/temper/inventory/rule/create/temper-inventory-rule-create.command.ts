@@ -23,10 +23,10 @@ export const temperInventoryRuleCreate = {
     { argument: "argument/notes" },
     { argument: "argument/goal" },
     { argument: "argument/active" },
-    { argument: "argument/action" },
+    { argument: "argument/action", required: true },
     { argument: "argument/destination" },
     { argument: "argument/stock-scope" },
-    { argument: "argument/category" },
+    { argument: "argument/category", required: true },
     { argument: "argument/conditions" },
   ],
 } as const satisfies Command
