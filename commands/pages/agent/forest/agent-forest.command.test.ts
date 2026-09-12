@@ -19,7 +19,7 @@ import {
 const ROOT = "/nowhere"
 
 function givenIn(root: string): Given {
-  return { root, calledAs: "akasha agent-forest", from: root, writer: null, agentId: null }
+  return { root, calledAs: "akasha agent forest", from: root, writer: null, agentId: null }
 }
 
 const ASTRA: ForestRow = {

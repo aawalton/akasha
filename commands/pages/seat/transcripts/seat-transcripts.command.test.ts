@@ -12,7 +12,7 @@ const ROOT = "/nowhere"
 function givenIn(): Given {
   return {
     root: ROOT,
-    calledAs: "akasha seat-transcripts",
+    calledAs: "akasha seat transcripts",
     from: ROOT,
     writer: null,
     agentId: null,
