@@ -34,14 +34,14 @@ import {
   shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
 import {
   carriedIn,
   declarationsOf,
   pageAt,
   propertiesOf,
   sourceIn,
-} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
-import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
+} from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 

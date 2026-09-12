@@ -57,7 +57,7 @@ import {
   identifyingFrom,
   sourceAmong,
   sourceIn,
-} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+} from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 import { loadedFrom } from "akasha/pages/value/page-value.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 

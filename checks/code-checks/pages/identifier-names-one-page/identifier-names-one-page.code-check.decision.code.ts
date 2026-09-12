@@ -2,7 +2,7 @@ import type { Carried } from "akasha/checks/code-checks/pages/relation-resolves/
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { filedIn, keyFor } from "akasha/pages/indexes/identity/index-identity.index.code.ts"
 import type { Listed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import type { Identifying } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import type { Identifying } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 
 export type Stated = {
   readonly path: string

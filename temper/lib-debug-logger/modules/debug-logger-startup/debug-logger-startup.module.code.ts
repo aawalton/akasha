@@ -1,8 +1,8 @@
+import { asPreHookFn } from "akasha/temper/lib-debug-logger/modules/debug-logger-casts/debug-logger-casts.module.code.ts"
 import {
   INTERNAL,
   LIB,
-} from "akasha/temper/lib-debug-logger/debug-logger-state/debug-logger-state.module.code.ts"
-import { asPreHookFn } from "akasha/temper/lib-debug-logger/modules/debug-logger-casts/debug-logger-casts.module.code.ts"
+} from "akasha/temper/lib-debug-logger/modules/debug-logger-state/debug-logger-state.module.code.ts"
 
 declare const debug: { traceback: (this: void, message?: string, level?: number) => string }
 

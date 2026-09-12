@@ -13,7 +13,7 @@ import {
   relaying,
   worldOfType,
 } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
-import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 
 const RUNS: Reaching = relaying("change-mechanical-file-content/add-page-property", addKey)
 

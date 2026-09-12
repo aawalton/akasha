@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import {
   propertiesIfNamed,
   sourceIn,
-} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+} from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 import {
   carriedBy,
   declaredIn,
@@ -12,7 +12,7 @@ import {
   rootAt,
   scratch,
   typed,
-} from "akasha/pages/types/declared-properties/declared-properties.module.test-fixtures.ts"
+} from "akasha/pages/types/modules/declared-properties/declared-properties.module.test-fixtures.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 
 afterAll(scratch.sweep)

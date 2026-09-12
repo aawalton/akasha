@@ -10,7 +10,7 @@ import { waitingProperties } from "akasha/pages/indexes/generated-properties/gen
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { matchingIn } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
-import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 import { loadedFrom } from "akasha/pages/value/page-value.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 

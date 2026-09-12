@@ -1,4 +1,3 @@
-import { decideKeepActions } from "akasha/infrastructure/storage/backups/retention/decide-keeps/decide-keeps.module.code.ts"
 import type {
   GfsAlertEnvelope,
   KeepDisagreement,
@@ -11,6 +10,7 @@ import {
   readKeepState,
   releaseKeep,
 } from "akasha/infrastructure/storage/backups/retention/modules/barman/barman.module.code.ts"
+import { decideKeepActions } from "akasha/infrastructure/storage/backups/retention/modules/decide-keeps/decide-keeps.module.code.ts"
 import { envSchema } from "akasha/infrastructure/storage/backups/retention/retention-env/retention-env.module.code.ts"
 
 const WEEKLY_KEEP_COUNT = 4

@@ -20,7 +20,7 @@ export const theaChecksSystem = {
     {
       statement: "No file the broad unexport run left alone still publishes a value only it names.",
       workingMemory:
-        "10 refusals over 8 files the run skipped, each held back by its own fault. `introduced-property-is-a-part`'s decision has a test red at HEAD from a regression in `pages/types/declared-properties`. Five lualib shims under `design/language/lua-compiler/lualibs` declare classes Biome calls unused once the `export` goes. `check-cost` and `code-tests` came later. The two atlas route files fell away once a route's code stopped being judged.",
+        "10 refusals over 8 files the run skipped, each held back by its own fault. `introduced-property-is-a-part`'s decision has a test red at HEAD from a regression in `pages/types/modules/declared-properties`. Five lualib shims under `design/language/lua-compiler/lualibs` declare classes Biome calls unused once the `export` goes. `check-cost` and `code-tests` came later. The two atlas route files fell away once a route's code stopped being judged.",
     },
     {
       statement: "Every uncommitted body beside a page exports the name that page's writer makes.",

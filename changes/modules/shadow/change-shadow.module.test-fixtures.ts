@@ -41,7 +41,7 @@ import {
   shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import type { Shape } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
-import type { Carried as Declared } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import type { Carried as Declared } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const MODULES = "node_modules"

@@ -1,6 +1,6 @@
 import type { Reaching, World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { worldOfType } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
-import type { Carried as Declared } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import type { Carried as Declared } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 export const SORTING = "change-mechanical-page-type/sort-property-values-on-every-page"

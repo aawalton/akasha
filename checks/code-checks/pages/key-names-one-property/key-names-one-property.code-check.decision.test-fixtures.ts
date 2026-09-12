@@ -17,7 +17,7 @@ import {
 import { valueAlsoFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
-import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 

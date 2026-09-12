@@ -6,7 +6,7 @@ import {
   type Identifying,
   identifyingFrom,
   sourceOver,
-} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+} from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 function identifying(held: Record<string, ReadonlyMap<string, Identifier>>): Identifying {

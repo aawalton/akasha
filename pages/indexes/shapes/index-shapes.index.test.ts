@@ -12,7 +12,7 @@ import {
   shapesFiled,
   shapesIn,
 } from "akasha/pages/indexes/shapes/index-shapes.index.code.ts"
-import { sourceOver } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import { sourceOver } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const SLUG: Value = {

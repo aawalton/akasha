@@ -4,7 +4,7 @@ import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
   type Carried as Declared,
   identityOf,
-} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+} from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const PAGE_TYPE = "page-type"

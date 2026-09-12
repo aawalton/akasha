@@ -10,7 +10,7 @@ import {
   foldedFor,
   type Naming,
 } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
-import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 
 type Held = Record<string, unknown>
 

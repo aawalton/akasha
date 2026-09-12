@@ -7,7 +7,7 @@ import { input, PAGES } from "akasha/checks/modules/change-walking/change-walkin
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
-import { identifyingFrom } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import { identifyingFrom } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const carried = carriedBy(change, shadow.index.pageTypesIn())

@@ -16,7 +16,7 @@ import {
   keyAskedIn,
   spelledAs,
 } from "akasha/changes/modules/value-carrying/value-carrying.module.code.ts"
-import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 
 const ADD = "change-mechanical-file-content/add-page-property"
 

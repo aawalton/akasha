@@ -17,7 +17,7 @@ import type { Committing } from "akasha/commands/modules/landing/landing.module.
 import { mistaking, wrongData } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { secretAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { cipherFor, type Secrets } from "akasha/pages/secret/page-secret.module.code.ts"
-import { propertiesOf } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import { propertiesOf } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"

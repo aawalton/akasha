@@ -13,7 +13,7 @@ import {
   type StoplightColor,
   slides,
   type TitleSlide,
-} from "akasha/products/audhdalan/web/deck-slides/deck-slides.module.code.ts"
+} from "akasha/products/audhdalan/web/modules/deck-slides/deck-slides.module.code.ts"
 import { Brain, Code, Gauge, HeartPulse } from "lucide-react"
 import { useCallback, useEffect, useState } from "react"
 

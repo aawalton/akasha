@@ -10,7 +10,7 @@ import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code
 import {
   type Carried,
   propertiesOf,
-} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+} from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 import {
   dropUncommitted,
   mergeUncommitted,

@@ -11,15 +11,15 @@ import {
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Filing, Reading, Shape } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import {
-  identityOf,
-  propertiesIfNamed,
-  type Source,
-} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
-import {
   typeSlugsIn,
   typesAmong,
   typeValuesIn,
 } from "akasha/pages/types/gathering/page-type-gathering.module.code.ts"
+import {
+  identityOf,
+  propertiesIfNamed,
+  type Source,
+} from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const PAGE_TYPE = "page-type"

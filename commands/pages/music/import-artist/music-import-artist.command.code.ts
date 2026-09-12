@@ -66,7 +66,7 @@ import {
 import {
   propertiesIfNamed,
   type Source,
-} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+} from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 import { textIn, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { todayYYYYMMDD } from "akasha/utils/sync/today/today.module.code.ts"
 

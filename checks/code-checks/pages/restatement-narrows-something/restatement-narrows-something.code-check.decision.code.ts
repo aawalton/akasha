@@ -12,7 +12,7 @@ import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
   type Carried as Declared,
   identityOf,
-} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+} from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 
 function fallen(was: number | null, now: number | null): boolean {
   return now !== null && (was === null || now < was)

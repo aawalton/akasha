@@ -14,7 +14,7 @@ import {
   pagesOfType,
 } from "akasha/pages/service/kinds-gathering/kinds-gathering.module.code.ts"
 import { matches, weigh } from "akasha/pages/service/where-testing/where-testing.module.code.ts"
-import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 import {
   slugAt,
   slugOf,

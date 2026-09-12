@@ -24,14 +24,14 @@ import {
   type TextOf,
   workIn,
 } from "akasha/pages/modules/calculation-loading/calculation-loading.module.code.ts"
+import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
 import {
   type Carried,
   propertiesFrom,
   type Source,
   sourceAmong,
   sourceIn,
-} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
-import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
+} from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 import { wholeValue } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 

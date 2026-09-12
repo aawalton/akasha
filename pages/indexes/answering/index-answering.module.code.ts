@@ -44,6 +44,7 @@ import {
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { ruleShort, type Said, saidOf } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import type { Shape as Filed, Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
 import {
   type Carried,
   carriedIn,
@@ -54,8 +55,7 @@ import {
   propertiesOf,
   type Source,
   sourceIn,
-} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
-import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
+} from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 export type PageOf = (path: string) => Value | null

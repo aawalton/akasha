@@ -6,7 +6,7 @@ import "akasha/alan/web/idle-trainmax-verb/idle-trainmax-verb.module.code.ts"
 import "akasha/alan/web/idle-remove-verb/idle-remove-verb.module.code.ts"
 import "akasha/alan/web/idle-lock-verb/idle-lock-verb.module.code.ts"
 import "akasha/alan/web/idle-reorder-verb/idle-reorder-verb.module.code.ts"
-import "akasha/alan/web/declared-effects/declared-effects.module.code.ts"
+import "akasha/alan/web/modules/declared-effects/declared-effects.module.code.ts"
 
 import { ROSTER_GALLERY_CAPABILITY } from "akasha/alan/web/idle-card-page-type/idle-card-page-type.module.code.ts"
 import { RevealHost } from "akasha/alan/web/reveal-host/reveal-host.module.code.tsx"

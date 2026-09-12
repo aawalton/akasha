@@ -10,7 +10,7 @@ import {
   propertiesFrom,
   type Source,
   sourceAmong,
-} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+} from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 import {
   slugsIn,
   textAt,
