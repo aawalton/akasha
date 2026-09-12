@@ -14,15 +14,10 @@ export function akashaRoot(): string {
   return rootStated(process.env) ?? path.join(os.homedir(), "repos", "akasha")
 }
 
-const SERVER_IN = "code/editor/extension"
+const SERVER_IN = "code/editor/extension/command-server"
 
 export function serverPath(): string {
-  return path.join(
-    akashaRoot(),
-    SERVER_IN,
-    commandServer.slug,
-    `${commandServer.slug}.module.code.ts`
-  )
+  return path.join(akashaRoot(), SERVER_IN, `${commandServer.slug}.module.code.ts`)
 }
 
 const BUN_DIRECTORIES = [path.join(os.homedir(), ".bun", "bin")]

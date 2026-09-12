@@ -106,8 +106,13 @@ export const harnessCall = {
       statement: "The command server's file is named from that server's own page.",
     },
     {
-      invariantKind: "stopgap",
-      statement: "The folder the command server sits in is spelled here.",
+      invariantKind: "departure",
+      statement: "The folder spelled here is the server's own folder rather than the folder above.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A move of that folder respells it here, where a move respells no folder above it.",
     },
     {
       invariantKind: "gap",
