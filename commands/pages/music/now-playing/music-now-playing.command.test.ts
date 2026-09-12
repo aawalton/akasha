@@ -9,6 +9,8 @@ import {
   nowPlayingWith,
 } from "akasha/commands/pages/music/now-playing/music-now-playing.command.code.ts"
 
+const CALLED = "akasha music now-playing"
+
 const PROGRESS = 1000
 
 const LATER = 2000
@@ -68,18 +70,18 @@ test("the human line marks a held track apart from a playing one", () => {
 })
 
 test("the human report is the one line", async () => {
-  const said = await nowPlayingWith(readerFor(STATE, null), [])
+  const said = await nowPlayingWith(readerFor(STATE, null), [], CALLED)
   expect(said).toEqual({ report: ["▶ Bulletproof · Kitchen"], refusals: [], code: 0 })
 })
 
 test("--json gives the envelope on one line", async () => {
-  const said = await nowPlayingWith(readerFor(null, null), ["--json"])
+  const said = await nowPlayingWith(readerFor(null, null), ["--json"], CALLED)
   expect(said.code).toBe(0)
   expect(said.report).toEqual(['{"activeDevice":false,"track":null}'])
 })
 
 test("anything the command does not take refuses the call", async () => {
-  const said = await nowPlayingWith(readerFor(STATE, null), ["--pretty"])
+  const said = await nowPlayingWith(readerFor(STATE, null), ["--pretty"], CALLED)
   expect(said.code).toBe(1)
   expect(said.report).toEqual([])
   expect(said.refusals[0]).toContain("--pretty")

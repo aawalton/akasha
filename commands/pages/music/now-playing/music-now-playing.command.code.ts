@@ -3,7 +3,7 @@ import {
   getPlaybackState,
 } from "akasha/alan/music/spotify/player/spotify-player.module.code.ts"
 import { INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 
 const JSON_SAID = "--json"
@@ -84,11 +84,12 @@ export function lineOf(envelope: NowPlayingEnvelope): string {
 
 export async function nowPlayingWith(
   read: NowPlayingReader,
-  argv: readonly string[]
+  argv: readonly string[],
+  calledAs: string
 ): Promise<Answer> {
   for (const one of argv) {
     if (one !== JSON_SAID) {
-      return refused(`\`${one}\` is nothing \`akasha music now-playing\` takes`, INPUT)
+      return refused(`\`${one}\` is nothing \`${calledAs}\` takes`, INPUT)
     }
   }
   const [state, current] = await Promise.all([read.getPlaybackState(), read.getCurrentlyPlaying()])
@@ -97,6 +98,6 @@ export async function nowPlayingWith(
   return { report, refusals: [], code: OK }
 }
 
-export function musicNowPlaying(argv: readonly string[] = []): Promise<Answer> {
-  return nowPlayingWith({ getPlaybackState, getCurrentlyPlaying }, argv)
+export function musicNowPlaying(argv: readonly string[], given: Given): Promise<Answer> {
+  return nowPlayingWith({ getPlaybackState, getCurrentlyPlaying }, argv, given.calledAs)
 }
