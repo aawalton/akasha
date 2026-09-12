@@ -1,5 +1,6 @@
 import { existsSync, readdirSync } from "node:fs"
 import { join, resolve } from "node:path"
+import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
@@ -7,7 +8,6 @@ import { valuesOf } from "akasha/temper/commands/argument-word-reading/argument-
 import { inNameOrder } from "akasha/temper/commands/name-ordering/name-ordering.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
-const DATA = 2
 const FAILED = 3
 
 const UNDER = "temper"
@@ -114,5 +114,5 @@ export function temperPackageTypecheck(argv: readonly string[] = []): Answer {
   for (const one of all.filter((row) => row.code !== 0)) {
     refusals.push(`${one.name} failed to typecheck (exit ${String(one.code)})`)
   }
-  return { report, refusals, code: refusals.length > 0 ? FAILED : 0 }
+  return { report, refusals, code: refusals.length > 0 ? FAILED : OK }
 }
