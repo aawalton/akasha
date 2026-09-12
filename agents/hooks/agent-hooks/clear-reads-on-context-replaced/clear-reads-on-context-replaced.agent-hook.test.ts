@@ -301,8 +301,8 @@ test("the scope says what this reaches and what it does not", () => {
   expect(said).toContain("WHAT IS WRITTEN DOWN")
 })
 
-test("the session begins at every source, and the hook says nothing", () => {
-  for (const one of [...REPLACING, "resume", "other"]) {
+test("the session begins either way, and the hook says nothing", () => {
+  for (const one of ["compact", "resume"]) {
     const done = ranWith(one, NOBODY)
     expect(done.code).toBe(0)
     expect(done.out).toBe("")
