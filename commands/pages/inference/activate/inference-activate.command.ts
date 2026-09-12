@@ -6,7 +6,7 @@ export const inferenceActivate = {
   slug: "inference-activate",
   definition: "the command making one pool service the resident the traffic cop serves",
   code: "ts",
-  taking: [{ said: "<name>", takes: "the pool service made resident" }],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -30,4 +30,5 @@ export const inferenceActivate = {
     },
   ],
   name: "activate",
+  arguments: [{ argument: "argument/pool-service", required: true, saidAs: "word" }],
 } as const satisfies Command
