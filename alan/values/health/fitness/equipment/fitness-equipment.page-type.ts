@@ -14,7 +14,7 @@ export const fitnessEquipment = {
     "select-property/fitness-equipment-category",
     "select-property/fitness-equipment-configuration",
     "text-property/fitness-equipment-notes",
-    "select-property/fitness-equipment-covers",
+    "relation-property/fitness-equipment-covers",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -34,7 +34,7 @@ export const fitnessEquipment = {
     { pageProperty: "text-property/fitness-equipment-notes", required: false, many: false },
     { pageProperty: "number-property/fitness-equipment-sort-order", required: false, many: false },
     {
-      pageProperty: "select-property/fitness-equipment-covers",
+      pageProperty: "relation-property/fitness-equipment-covers",
       required: false,
       many: true,
       maxCount: null,
