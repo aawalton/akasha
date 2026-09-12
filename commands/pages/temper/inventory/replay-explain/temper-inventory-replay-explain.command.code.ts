@@ -1,4 +1,7 @@
 import { resolve } from "node:path"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { inventoryPath as inventoryPathArgument } from "akasha/commands/arguments/pages/inventory-path.argument.ts"
+import { itemlink } from "akasha/commands/arguments/pages/itemlink.argument.ts"
 import {
   INPUT,
   OPERATIONAL,
@@ -8,6 +11,7 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { temperInventoryReplayExplain as page } from "akasha/commands/pages/temper/inventory/replay-explain/temper-inventory-replay-explain.command.ts"
 import { readLastExplain } from "akasha/temper/commands/explain-replay-reading/explain-replay-reading.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import {
@@ -16,9 +20,7 @@ import {
   type RuleTraceRow,
 } from "akasha/temper/explain/explain-walk/explain-walk.module.code.ts"
 
-const INVENTORY_PATH = "--inventory-path"
-
-const ITEM_LINK = "--itemlink"
+const TAKES = [inventoryPathArgument, itemlink]
 
 const INVENTORY_LUA = "TemperInventory.lua"
 
@@ -59,36 +61,6 @@ type ExplainTrace = {
     readonly destination: string
     readonly summary: string
   }
-}
-
-export type Read =
-  | { readonly inventoryPath: string | null; readonly itemLink: string | null }
-  | { readonly refused: readonly string[] }
-
-export function readIn(argv: readonly string[]): Read {
-  const refusals: string[] = []
-  let inventoryPath: string | null = null
-  let itemLink: string | null = null
-  for (let at = 0; at < argv.length; at += 1) {
-    const one = argv[at]
-    if (one === undefined) continue
-    if (one === INVENTORY_PATH || one === ITEM_LINK) {
-      const value = argv[at + 1]
-      at += 1
-      if (value === undefined) {
-        refusals.push(`\`${one}\` takes a value, and none followed it`)
-        continue
-      }
-      if (one === INVENTORY_PATH) inventoryPath = value
-      else itemLink = value
-      continue
-    }
-    refusals.push(
-      `\`${one}\` is nothing this takes — it takes \`${INVENTORY_PATH}\` and \`${ITEM_LINK}\``
-    )
-  }
-  if (refusals.length > 0) return { refused: refusals }
-  return { inventoryPath, itemLink }
 }
 
 function itemKeySaid(itemKey: ExplainTrace["itemKey"]): string | null {
@@ -144,24 +116,27 @@ export function outputOf(trace: ExplainTrace): JsonOutput {
 }
 
 export async function temperInventoryReplayExplain(
-  argv: readonly string[] = [],
-  given?: Given
+  argv: readonly string[],
+  given: Given
 ): Promise<Answer> {
-  const read = readIn(argv)
+  const read = takenFor(argv, given.calledAs, page, TAKES)
   if ("refused" in read) return refusedBy(read.refused)
-  const root = given === undefined ? process.cwd() : resolve(given.root)
+  const taken = read.taken
+  const root = resolve(given.root)
   const at =
-    read.inventoryPath === null ? savedVarsFile(INVENTORY_LUA) : resolve(root, read.inventoryPath)
+    taken.inventoryPath === undefined
+      ? savedVarsFile(INVENTORY_LUA)
+      : resolve(root, taken.inventoryPath)
   let trace: ExplainTrace
   try {
     trace = (await readLastExplain(at)) as ExplainTrace
   } catch (thrown) {
     return refused(whyOf(thrown), OPERATIONAL)
   }
-  if (read.itemLink !== null && read.itemLink !== trace.itemLink) {
+  if (taken.itemlink !== undefined && taken.itemlink !== trace.itemLink) {
     return refused(
       `the stored trace is for item ${trace.itemId} (${trace.itemLink}), ` +
-        `and \`${ITEM_LINK} ${read.itemLink}\` names another`,
+        `and \`${itemlink.said} ${taken.itemlink}\` names another`,
       INPUT
     )
   }
