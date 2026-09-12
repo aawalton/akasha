@@ -1,4 +1,3 @@
-import { getDefaultUltimateForCompanion } from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
 import type { CompanionTraitId } from "akasha/temper/companions-core/companion-traits/companion-traits.module.code.ts"
 import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import {
@@ -13,6 +12,7 @@ import {
   type CompanionBaseRoleId,
   getArmorWeightForBaseRoles,
 } from "akasha/temper/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
+import { getDefaultUltimateForCompanion } from "akasha/temper/companions-core/modules/companion-skills/companion-skills.module.code.ts"
 import { buildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { randomFrom } from "akasha/temper/formula-framework/random-from/random-from.module.code.ts"
 

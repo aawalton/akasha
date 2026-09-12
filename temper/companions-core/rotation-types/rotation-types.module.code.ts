@@ -1,5 +1,5 @@
 import { targetArmor as targetArmorData } from "akasha/temper/character-sources/target-armors/target-armors.module.code.ts"
-import type { CompanionSkillId } from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
+import type { CompanionSkillId } from "akasha/temper/companions-core/modules/companion-skills/companion-skills.module.code.ts"
 import type {
   DamageType,
   EffectCondition,

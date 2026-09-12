@@ -1,5 +1,5 @@
 import { DO_NOT_EDIT } from "akasha/temper/addon-generators/do-not-edit/do-not-edit.module.code.ts"
-import { companionSkills } from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
+import { companionSkills } from "akasha/temper/companions-core/modules/companion-skills/companion-skills.module.code.ts"
 
 export function generateSkillMappings(): string {
   const entries: string[] = []

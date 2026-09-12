@@ -1,7 +1,3 @@
-import {
-  type CompanionSkillId,
-  companionSkills,
-} from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
 import { calculateCompanionStats } from "akasha/temper/companions-core/companion-stats-calculator/companion-stats-calculator.module.code.ts"
 import { optimizeTraits } from "akasha/temper/companions-core/companion-trait-optimizer/companion-trait-optimizer.module.code.ts"
 import type { CompanionTraitId } from "akasha/temper/companions-core/companion-traits/companion-traits.module.code.ts"
@@ -41,6 +37,10 @@ import {
   type CompanionSkillSlotId,
   companionSkillSlots,
 } from "akasha/temper/companions-core/modules/companion-skill-slots/companion-skill-slots.module.code.ts"
+import {
+  type CompanionSkillId,
+  companionSkills,
+} from "akasha/temper/companions-core/modules/companion-skills/companion-skills.module.code.ts"
 
 type CompanionAction =
   | { type: "select-companion"; companionId: CompanionId }
