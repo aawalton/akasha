@@ -43,6 +43,18 @@ export const proxyRun = {
     },
     {
       invariantKind: "departure",
+      statement: "The log directory is named as soon as that directory is made.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A gateway stopped again is no longer named as left running.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A gateway that would not be stopped is left named as running.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The console and the errors are written under the log directory named.",
     },
     {

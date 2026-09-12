@@ -9,11 +9,13 @@ import {
   type Asked,
   agentIdFor,
   envFor,
+  noLonger,
   type RunSeams,
   STDERR_LOG,
   saidOf,
   spawnedSaid,
   startedOn,
+  wroteSaid,
 } from "akasha/commands/pages/model/gateway/start/proxy-run/proxy-run.module.code.ts"
 
 const ASKED: Asked = {
@@ -137,9 +139,59 @@ test("the gateway is named as soon as it is running under a process id", async (
   const done: string[] = []
 
   await startedOn(ASKED, seamsWith(null, 51240, { value: false }), done)
+  expect(done).toHaveLength(2)
+  expect(done[1]).toContain("process 4242")
+  expect(done[1]).toContain("kill 4242")
+})
+
+test("the log directory is named as soon as that directory is made", async () => {
+  const done: string[] = []
+
+  await startedOn(ASKED, seamsWith(null, 51242, { value: false }), done)
+  expect(done[0]).toContain(`/var/tmp/run/akasha-${ASKED.agentId}`)
+})
+
+test("a gateway stopped again is no longer named as left running", async () => {
+  const done: string[] = []
+
+  const said = await startedOn(
+    ASKED,
+    seamsWith(null, new Error("timed out waiting for port"), { value: false }),
+    done
+  )
+
+  expect(typeof said).toBe("string")
   expect(done).toHaveLength(1)
-  expect(done[0]).toContain("process 4242")
-  expect(done[0]).toContain("kill 4242")
+  expect(done[0]).toContain(`/var/tmp/run/akasha-${ASKED.agentId}`)
+  expect(done.join(" ")).not.toContain("kill 4242")
+})
+
+test("a gateway that would not be stopped is still named as left running", async () => {
+  const held = await answering(async (done) => {
+    await startedOn(
+      ASKED,
+      { ...seamsThatWillNotLetGo(), ported: () => Promise.reject(new Error("no port")) },
+      done
+    )
+    return { report: [], refusals: [], code: OK }
+  })
+
+  expect(held.code).toBe(OPERATIONAL)
+  const last = held.refusals[held.refusals.length - 1] as string
+  expect(last).toContain("kill 4242")
+})
+
+test("a name nothing put in the list leaves that list as it was", () => {
+  const done = ["one", "two"]
+
+  noLonger(done, "three")
+  expect(done).toEqual(["one", "two"])
+  noLonger(done, "one")
+  expect(done).toEqual(["two"])
+})
+
+test("what the gateway wrote is named by the directory it wrote under", () => {
+  expect(wroteSaid("/var/log/gw")).toContain("/var/log/gw")
 })
 
 test("a start that threw after the spawn names the process left running", async () => {

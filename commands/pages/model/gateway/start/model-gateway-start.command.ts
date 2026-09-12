@@ -6,6 +6,7 @@ export const modelGatewayStart = {
   slug: "model-gateway-start",
   definition: "the command starting one gateway on the akasha entry, apart from the fleet",
   code: "ts",
+  test: "ts",
   parts: ["module/proxy-run"],
   invariants: [
     {
@@ -35,6 +36,10 @@ export const modelGatewayStart = {
     {
       invariantKind: "departure",
       statement: "A start that threw after the spawn names the process left running.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A gateway that printed no port is refused with its log directory named.",
     },
     {
       invariantKind: "departure",

@@ -92,6 +92,15 @@ export function spawnedSaid(entry: string, pid: number, logDir: string): string 
   )
 }
 
+export function wroteSaid(logDir: string): string {
+  return `whatever the gateway wrote before it was stopped is under ${logDir}`
+}
+
+export function noLonger(done: string[], said: string): undefined {
+  const at = done.indexOf(said)
+  if (at !== -1) done.splice(at, 1)
+}
+
 export async function startedOn(
   asked: Asked,
   seams: RunSeams,
@@ -108,6 +117,7 @@ export async function startedOn(
   const socketPath = seams.socketFor(asked.agentId)
   const logDir = asked.logDir ?? seams.logDirFor(asked.agentId)
   seams.madeDir(logDir)
+  done.push(wroteSaid(logDir))
   const entry = modelGatewayEntrypoint()
   const proc = seams.spawned(entry, envFor(asked, logDir), join(logDir, STDERR_LOG))
   const pid = proc.pid
@@ -115,12 +125,14 @@ export async function startedOn(
     proc.stopped()
     return "the gateway was spawned and no process id came back, so nothing can be reported"
   }
-  done.push(spawnedSaid(entry, pid, logDir))
+  const running = spawnedSaid(entry, pid, logDir)
+  done.push(running)
   let port: number
   try {
     port = await seams.ported(proc.outOf(), asked.budgetMs)
   } catch (thrown) {
     proc.stopped()
+    noLonger(done, running)
     const why = thrown instanceof Error ? thrown.message : String(thrown)
     return `the gateway at \`${entry}\` printed no port and was stopped — ${why}`
   }

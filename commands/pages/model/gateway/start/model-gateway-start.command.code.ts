@@ -1,6 +1,7 @@
 import {
   answering,
   INPUT,
+  keeping,
   OK,
   OPERATIONAL,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
@@ -103,7 +104,9 @@ export async function modelGatewayStart(
   if (typeof asked === "string") return { report: [], refusals: [asked], code: INPUT }
   return await answering(async (done) => {
     const started = await startedOn(asked, seams, done)
-    if (typeof started === "string") return { report: [], refusals: [started], code: OPERATIONAL }
+    if (typeof started === "string") {
+      return keeping(done, { report: [], refusals: [started], code: OPERATIONAL })
+    }
     return { report: [...saidOf(started)], refusals: [], code: OK }
   })
 }
