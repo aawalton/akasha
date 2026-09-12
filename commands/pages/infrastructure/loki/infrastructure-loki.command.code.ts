@@ -29,10 +29,6 @@ import {
   parseLokiPositiveInt,
 } from "akasha/infrastructure/services/clusters/loki-log-fetching/loki-log-fetching.module.code.ts"
 
-const SINCE_BY_DEFAULT = "1h"
-
-const LIMIT_BY_DEFAULT = "500"
-
 export type Read =
   | {
       readonly pod: string
@@ -56,7 +52,7 @@ export function readIn(argv: readonly string[], calledAs: string): Read {
   if ("refused" in read) return { refused: read.refused }
   const taken = read.taken
   const refusals: string[] = []
-  const since = taken.since ?? SINCE_BY_DEFAULT
+  const since = taken.since
   try {
     parseLokiDuration(sinceArgument.said, since)
   } catch (thrown) {
@@ -64,7 +60,7 @@ export function readIn(argv: readonly string[], calledAs: string): Read {
   }
   let limit = 0
   try {
-    limit = parseLokiPositiveInt(limitArgument.said, String(taken.limit ?? LIMIT_BY_DEFAULT))
+    limit = parseLokiPositiveInt(limitArgument.said, String(taken.limit))
   } catch (thrown) {
     refusals.push(whyOf(thrown))
   }

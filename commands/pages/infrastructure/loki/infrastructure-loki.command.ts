@@ -60,14 +60,18 @@ export const infrastructureLoki = {
       statement: "Nothing here writes.",
     },
     { invariantKind: "departure", statement: "A call saying no limit answers five hundred lines." },
+    {
+      invariantKind: "departure",
+      statement: "A call saying no window reaches back one hour.",
+    },
   ],
   name: "loki",
   arguments: [
-    { argument: "argument/limit" },
+    { argument: "argument/limit", default: "500" },
     { argument: "argument/pod", required: true, saidAs: "flag-or-word" },
     { argument: "argument/kube-namespace" },
     { argument: "argument/cursor" },
     { argument: "argument/every-line" },
-    { argument: "argument/since" },
+    { argument: "argument/since", default: "1h" },
   ],
 } as const satisfies Command
