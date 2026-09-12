@@ -70,11 +70,16 @@ export function pathsOver(batch: readonly Asked[]): readonly string[] {
   return [...new Set(batch.flatMap((one) => pathsIn(one)))]
 }
 
-export function thrownWhy(batch: readonly Asked[], thrown: unknown): string {
+export function thrownWhy(
+  batch: readonly Asked[],
+  thrown: unknown,
+  done: readonly string[] = []
+): string {
   const said = thrown instanceof Error ? thrown.message : String(thrown)
   const paths = pathsOver(batch)
-  if (paths.length === 0) return said
-  return `${said} — the write carried ${paths.join(", ")}`
+  const carried = paths.length === 0 ? said : `${said} — the write carried ${paths.join(", ")}`
+  if (done.length === 0) return carried
+  return `${carried} — ${done.join(", ")} landed before it stopped, so read that commit rather than handing these bodies in again`
 }
 
 export function refusalIn(asked: Asked): string | null {
@@ -147,6 +152,7 @@ export function tidiedIn(root: string, changes: readonly Edit[]): readonly Edit[
 export async function landedIn(root: string, batch: readonly Asked[]): Promise<Wrote> {
   const first = batch[0]
   if (first === undefined) return { refused: "a batch carries at least one write" }
+  const done: string[] = []
   try {
     const kept = keptIn(batch)
     const changes = latestIn(batch)
@@ -155,6 +161,7 @@ export async function landedIn(root: string, batch: readonly Asked[]): Promise<W
     const said = await runMechanicalChange(root, asked, messageIn(batch), null, {
       writer: first.writer,
       read: first.read ?? null,
+      done,
     })
     if ("refusals" in said) return { refused: said.refusals.join(" — ") }
     const gone = new Set(asked.filter((one) => one.at === TAKE).map((one) => one.given.at))
@@ -164,7 +171,7 @@ export async function landedIn(root: string, batch: readonly Asked[]): Promise<W
       took: said.landed.filter((one) => gone.has(one)),
     }
   } catch (thrown) {
-    return { refused: thrownWhy(batch, thrown) }
+    return { refused: thrownWhy(batch, thrown, done) }
   }
 }
 

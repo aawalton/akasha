@@ -213,6 +213,14 @@ test("a throw carrying no path is answered naming the paths the write carried", 
   expect(said).toContain("the write carried akasha/a.ts")
 })
 
+test("a write that threw after it committed names that commit beside those paths", () => {
+  const held = [asking({ puts: [{ path: "akasha/a.ts", content: "" }] })]
+  const commit = "1".repeat(40)
+  const said = thrownWhy(held, new Error("the index would not free"), [commit])
+  expect(said).toContain("the write carried akasha/a.ts")
+  expect(said).toContain(`${commit} landed before it stopped`)
+})
+
 test("a write that throws is refused naming what the write carried", async () => {
   const root = mkdtempSync(join(SCRATCH_AT, "page-writing-"))
   const said = await landedIn(root, [

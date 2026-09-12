@@ -106,6 +106,10 @@ export const pageWriting = {
     },
     {
       invariantKind: "departure",
+      statement: "A write that threw after it committed names that commit beside those paths.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A write carrying only values kept outside the commit lands no commit.",
     },
     {
