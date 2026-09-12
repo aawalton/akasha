@@ -75,6 +75,10 @@ const NOTHING_COMMITTED = "nothing was committed — the tree already holds what
 
 const TOOK_OUTSIDE = "nothing was committed, because git ignores the path(s) this apply took away:"
 
+const AFTER_COMMIT = "the commit landed, and the work after that commit stopped —"
+
+type Put = { readonly said: readonly string[]; readonly wrong: readonly string[] }
+
 export function commitSaid(commit: string | null, untracked: readonly string[]): string {
   if (commit !== null) return `committed as ${commit}`
   if (untracked.length === 0) return NOTHING_COMMITTED
@@ -322,10 +326,15 @@ export async function applied(
     )
   )
   if ("refusals" in done) return { refusals: done.refusals, said: prepared.said }
-  const carries = carriedFrom(root, head, moving)
-  carryLanded(root, head, running, prepared.changes, carries, holding.owed ?? new Map())
-  if (agentId !== null) recordedAsLanded(root, agentId, prepared.authored)
-  const put = installingIn(root, prepared.changes)
+  let put: Put = { said: [], wrong: [] }
+  try {
+    const carries = carriedFrom(root, head, moving)
+    carryLanded(root, head, running, prepared.changes, carries, holding.owed ?? new Map())
+    if (agentId !== null) recordedAsLanded(root, agentId, prepared.authored)
+    put = installingIn(root, prepared.changes)
+  } catch (thrown) {
+    put = { said: [], wrong: [`${AFTER_COMMIT} ${whyOf(thrown)}`] }
+  }
   return {
     base: done.base,
     landed: [...done.wrote, ...done.took].sort(),

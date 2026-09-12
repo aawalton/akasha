@@ -265,5 +265,14 @@ export const applying = {
       invariantKind: "absence",
       statement: "Nothing here takes the hold.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "An apply whose commit landed answers with that commit however the work after it went.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A fault thrown after the commit is answered as a refusal beside that commit.",
+    },
   ],
 } as const satisfies Module
