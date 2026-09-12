@@ -31,7 +31,7 @@ export const emailMessageModifyLabel = {
   name: "modify-label",
   arguments: [
     { argument: "argument/message", required: true, saidAs: "flag-or-word" },
-    { argument: "argument/add-label", repeats: true },
-    { argument: "argument/remove-label", repeats: true },
+    { argument: "argument/add-label", repeats: true, oneOf: ["argument/remove-label"] },
+    { argument: "argument/remove-label", repeats: true, oneOf: ["argument/add-label"] },
   ],
 } as const satisfies Command

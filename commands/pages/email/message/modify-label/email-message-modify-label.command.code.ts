@@ -18,16 +18,6 @@ export function emailMessageModifyLabel(argv: readonly string[], given: Given): 
   const read = takenFor(argv, given.calledAs, page, [message, addLabel, removeLabel])
   if ("refused" in read) return Promise.resolve(refusing(read.refused, INPUT))
   const taken = read.taken
-  if (taken.addLabel.length === 0 && taken.removeLabel.length === 0) {
-    return Promise.resolve(
-      refusing(
-        [
-          `\`${given.calledAs}\` names \`${addLabel.said}\` or \`${removeLabel.said}\` or both, and nothing said either`,
-        ],
-        INPUT
-      )
-    )
-  }
   return answering(async (done) => {
     const google = await emailGoogle()
     const client = await google.makeGmailClient()
