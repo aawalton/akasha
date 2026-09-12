@@ -8,9 +8,13 @@ import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
 import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { refusalsSaid } from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
-import { worthAnotherTry } from "akasha/seat-system/subagents/landing-again/subagent-landing-again.module.code.ts"
+import {
+  landingAgain,
+  worthAnotherTry,
+} from "akasha/seat-system/subagents/landing-again/subagent-landing-again.module.code.ts"
 import {
   agentIdOf,
+  alsoLanded,
   asking,
   assignedTo,
   bodyOf,
@@ -32,6 +36,7 @@ import {
   AGENT,
   ANOTHER,
   BODY_STATES,
+  COMMITTED,
   HELD_ASSIGNMENT,
   HELD_ID,
   HELD_LANDING,
@@ -62,6 +67,7 @@ import {
   SEAT_ID,
   stampOpening,
   subagentsFiled,
+  THREW_AFTER,
   underSeat,
   WENT,
   whyIn,
@@ -181,7 +187,7 @@ test("a page that is no seat names no seat", () => {
 
 test("a page composed is landed by a program, and goes when the subagent is done", async () => {
   await underSeat(async (root) => {
-    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", LANDS)).toEqual(WENT)
+    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", [], LANDS)).toEqual(WENT)
     const landed = landedAt(root, OWN)
     expect(landed).toContain('dispatchedAs: "Explore"')
     expect(landed).toContain('assignmentSlug: "domain/akasha-system"')
@@ -191,7 +197,7 @@ test("a page composed is landed by a program, and goes when the subagent is done
     expect(messageIn(root)).not.toContain(MECHANICAL)
     const at = pathOf(slugOf("akasha", OWN))
     const named: string[] = []
-    expect(await took(root, "akasha", OWN, landingNaming(named))).toEqual(WENT)
+    expect(await took(root, "akasha", OWN, [], landingNaming(named))).toEqual(WENT)
     expect(named).toEqual(["change-mechanical-file/remove-file-page"])
     expect(existsSync(join(root, at))).toBe(false)
     expect(messageIn(root)).not.toContain(MECHANICAL)
@@ -201,10 +207,10 @@ test("a page composed is landed by a program, and goes when the subagent is done
 
 test("a take-down leaves the readings of the page it took where they are", async () => {
   await underSeat(async (root) => {
-    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", LANDS)).toEqual(WENT)
+    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", [], LANDS)).toEqual(WENT)
     const at = pathOf(slugOf("akasha", OWN))
     readingKept(root, at)
-    expect(await took(root, "akasha", OWN, LANDS)).toEqual(WENT)
+    expect(await took(root, "akasha", OWN, [], LANDS)).toEqual(WENT)
     expect(existsSync(join(root, at))).toBe(false)
     expect(readingIn(root, AGENT, at)).not.toBe(null)
   })
@@ -212,10 +218,10 @@ test("a take-down leaves the readings of the page it took where they are", async
 
 test("a take-down a held hold refused answers a why worth another try, taking no page", async () => {
   await underSeat(async (root) => {
-    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", LANDS)).toEqual(WENT)
+    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", [], LANDS)).toEqual(WENT)
     const at = pathOf(slugOf("akasha", OWN))
     lockHeldIn(root)
-    const why = whyIn(await took(root, "akasha", OWN, HELD_LANDING))
+    const why = whyIn(await took(root, "akasha", OWN, [], HELD_LANDING))
     expect(worthAnotherTry(why)).toBe(true)
     expect(existsSync(join(root, at))).toBe(true)
   })
@@ -223,9 +229,9 @@ test("a take-down a held hold refused answers a why worth another try, taking no
 
 test("a page already there is left as it is", async () => {
   await underSeat(async (root) => {
-    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", LANDS)).toEqual(WENT)
+    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", [], LANDS)).toEqual(WENT)
     const held = gitIn(root, ["rev-parse", "HEAD"])
-    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Task", LANDS)).toEqual(WENT)
+    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Task", [], LANDS)).toEqual(WENT)
     expect(gitIn(root, ["rev-parse", "HEAD"])).toBe(held)
   })
 })
@@ -240,6 +246,15 @@ test("a seat stating no assignment writes nothing and says which seat and why", 
   })
 })
 
+test("a take-down that threw after it landed names what it landed", async () => {
+  await underSeat(async (root) => {
+    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", [], LANDS)).toEqual(WENT)
+    const done: string[] = []
+    const why = whyIn(await landingAgain(() => took(root, "akasha", OWN, done, THREW_AFTER)))
+    expect(alsoLanded(why, done)).toContain(COMMITTED)
+  })
+})
+
 test("a page that is not there is taken away by doing nothing", async () => {
   await underSeat(async (root) => {
     const held = gitIn(root, ["rev-parse", "HEAD"])
@@ -250,11 +265,11 @@ test("a page that is not there is taken away by doing nothing", async () => {
 
 test("a take-down moves what its subagent left onto the seat, and the page goes", async () => {
   await underSeat(async (root) => {
-    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", LANDS)).toEqual(WENT)
+    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", [], LANDS)).toEqual(WENT)
     const at = pathOf(slugOf("akasha", OWN))
     writing(root, editsAt(at) ?? "", ROW)
     refusalsKept(root, at, [REFUSAL])
-    expect(await took(root, "akasha", OWN, LANDS)).toEqual(WENT)
+    expect(await took(root, "akasha", OWN, [], LANDS)).toEqual(WENT)
     expect(existsSync(join(root, at))).toBe(false)
     expect(keptBySeat(root)).toEqual({
       edits: ROW,
@@ -267,19 +282,19 @@ test("a take-down whose seat the index has no page for leaves edits waiting", as
   await underSeat(async (root) => {
     const at = pageUnder(root, "thea")
     writing(root, editsAt(at) ?? "", ROW)
-    expect(whyIn(await took(root, "thea", OWN, LANDS))).toContain("edits waiting")
+    expect(whyIn(await took(root, "thea", OWN, [], LANDS))).toContain("edits waiting")
     expect(existsSync(join(root, at))).toBe(true)
   })
 })
 
 test("a stop the run began after leaves the page where it is", async () => {
   await underSeat(async (root) => {
-    await wrote(root, "akasha", SEAT_ID, OWN, "Explore", LANDS)
+    await wrote(root, "akasha", SEAT_ID, OWN, "Explore", [], LANDS)
     const at = pathOf(slugOf("akasha", OWN))
     startedIn(root, at, 2)
-    expect(await took(root, "akasha", OWN, LANDS, 1)).toEqual(WENT)
+    expect(await took(root, "akasha", OWN, [], LANDS, 1)).toEqual(WENT)
     expect(existsSync(join(root, at))).toBe(true)
-    expect(await took(root, "akasha", OWN, LANDS, 3)).toEqual(WENT)
+    expect(await took(root, "akasha", OWN, [], LANDS, 3)).toEqual(WENT)
     expect(existsSync(join(root, at))).toBe(false)
   })
 })
@@ -297,7 +312,7 @@ test("the pages under a seat are the pages the index files under that seat's nam
 test("a page in history is taken up with its id and kind, and comes back with that id", async () => {
   await underSeat(async (root) => {
     heldInHistory(root, OWN, agentIdOf(SEAT_ID, OWN), "Explore")
-    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Task", LANDS)).toEqual(WENT)
+    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Task", [], LANDS)).toEqual(WENT)
     const landed = landedAt(root, OWN)
     expect(idIn(landed)).toBe(HELD_ID)
     expect(landed).toContain('dispatchedAs: "Explore"')
@@ -305,8 +320,8 @@ test("a page in history is taken up with its id and kind, and comes back with th
     expect(landed).not.toContain(HELD_ASSIGNMENT)
     expect(landed).toContain(`agentId: "${SEAT_ID}--${OWN}"`)
     expect(messageIn(root)).toContain("a subagent resuming takes up the page it had")
-    expect(await took(root, "akasha", OWN, LANDS)).toEqual(WENT)
-    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", LANDS)).toEqual(WENT)
+    expect(await took(root, "akasha", OWN, [], LANDS)).toEqual(WENT)
+    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", [], LANDS)).toEqual(WENT)
     expect(idIn(landedAt(root, OWN))).toBe(HELD_ID)
   })
 })
@@ -314,7 +329,7 @@ test("a page in history is taken up with its id and kind, and comes back with th
 test("a page taken up under a seat stating no assignment takes history's", async () => {
   await underSeat(async (root) => {
     heldUnder(root, "thea", OWN, agentIdOf(SEAT_ID, OWN), "Explore")
-    expect(await wrote(root, "thea", SEAT_ID, OWN, "Task", LANDS)).toEqual(WENT)
+    expect(await wrote(root, "thea", SEAT_ID, OWN, "Task", [], LANDS)).toEqual(WENT)
     expect(landedUnder(root, "thea", OWN)).toContain(
       `assignmentSlug: ${JSON.stringify(HELD_ASSIGNMENT)}`
     )
@@ -324,14 +339,14 @@ test("a page taken up under a seat stating no assignment takes history's", async
 test("a page in history is taken up though the call names no kind", async () => {
   await underSeat(async (root) => {
     heldInHistory(root, OWN, agentIdOf(SEAT_ID, OWN), "Explore")
-    expect(await wrote(root, "akasha", SEAT_ID, OWN, null, LANDS)).toEqual(WENT)
+    expect(await wrote(root, "akasha", SEAT_ID, OWN, null, [], LANDS)).toEqual(WENT)
     expect(landedAt(root, OWN)).toContain('dispatchedAs: "Explore"')
   })
 })
 
 test("a call naming no kind writes nothing where history states none", async () => {
   await underSeat(async (root) => {
-    const went = await wrote(root, "akasha", SEAT_ID, OWN, null, LANDS)
+    const went = await wrote(root, "akasha", SEAT_ID, OWN, null, [], LANDS)
     expect(whyIn(went)).toContain("no kind is named")
     expect(existsSync(join(root, pathOf(slugOf("akasha", OWN))))).toBe(false)
   })
@@ -340,7 +355,7 @@ test("a call naming no kind writes nothing where history states none", async () 
 test("a page in history under another agent id is composed afresh", async () => {
   await underSeat(async (root) => {
     heldInHistory(root, OWN, agentIdOf(ANOTHER, OWN), "Explore")
-    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Task", LANDS)).toEqual(WENT)
+    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Task", [], LANDS)).toEqual(WENT)
     const landed = landedAt(root, OWN)
     expect(idIn(landed)).toBe(null)
     expect(landed).toContain('dispatchedAs: "Task"')

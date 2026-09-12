@@ -26,8 +26,10 @@ import { firstCapture } from "akasha/utils/narrow/first-capture/first-capture.mo
 
 const LANDED = { base: "", landed: [], formatted: [], said: [], wrong: [], commit: null }
 
+export const COMMITTED = "1111111111111111111111111111111111111111"
+
 export function landingNaming(named: string[]): Landing {
-  return (root, changes, message) => {
+  return (_done, root, changes, message) => {
     for (const one of changes) {
       named.push(one.at)
       const given = one.given as { readonly at: string; readonly body?: string }
@@ -254,5 +256,10 @@ export function lockHeldIn(root: string): undefined {
   writing(root, LOCK_AT, `${process.pid} ${startedAt(process.pid)}`)
 }
 
-export const HELD_LANDING: Landing = (root) =>
+export const HELD_LANDING: Landing = (_done, root) =>
   refusedWhereHeld(() => Promise.resolve(holding(root, () => LANDED, 0)))
+
+export const THREW_AFTER: Landing = (done) => {
+  done.push(COMMITTED)
+  throw new Error("the work after that commit stopped")
+}

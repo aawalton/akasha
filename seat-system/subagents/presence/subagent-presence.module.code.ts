@@ -3,7 +3,7 @@ import { dirname, join } from "node:path"
 import { dropReadings, SUBAGENT_MARK } from "akasha/agents/read-record/read-record.module.code.ts"
 import { editsWaiting } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { landedMechanically } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   createSubagentReader,
   type SubagentNode,
@@ -72,10 +72,11 @@ const TAKE_PAGE = "change-mechanical-file/remove-file-page"
 const STARTED = subagentStarted.propertySlug
 
 export type Landing = (
+  done: string[],
   root: string,
   changes: readonly Asking[],
   message: string
-) => ReturnType<typeof runMechanicalChange>
+) => ReturnType<typeof landedMechanically>
 
 const WENT: Went = { went: true }
 
@@ -165,9 +166,18 @@ export function seatNamedIn(root: string, seatId: string): string | null {
   return named.slug
 }
 
-function wentBy(landed: Awaited<ReturnType<Landing>>): Went {
+export function alsoLanded(why: string, done: readonly string[]): string {
+  if (done.length === 0) return why
+  return `${why} — ${done.join(", ")} landed before it stopped, so read that commit`
+}
+
+function wentBy(landed: Awaited<ReturnType<Landing>>, done: readonly string[] = []): Went {
   const wrong = "refusals" in landed ? landed.refusals : landed.wrong
-  return wrong.length > 0 ? { why: wrong.join(" ").trim() } : WENT
+  return wrong.length > 0 ? { why: alsoLanded(wrong.join(" ").trim(), done) } : WENT
+}
+
+function wentOn(went: Went, done: readonly string[]): Went {
+  return "why" in went ? { why: alsoLanded(went.why, done) } : went
 }
 
 export async function wrote(
@@ -176,7 +186,8 @@ export async function wrote(
   seatId: string,
   own: string,
   dispatchedAs: string | null,
-  landing: Landing = runMechanicalChange
+  done: string[] = [],
+  landing: Landing = landedMechanically
 ): Promise<Went> {
   const slug = slugOf(seatName, own)
   const at = pathIn(root, slug)
@@ -203,12 +214,14 @@ export async function wrote(
   const content = bodyOf(slug, seatName, assignmentSlug, kind, agentId, textAt(held, ID))
   return wentBy(
     await landing(
+      done,
       root,
       [{ at: ADD_PAGE, given: { at, body: content } }],
       had === null
         ? `${slug}: a subagent states the agent id it acts under`
         : `${slug}: a subagent resuming takes up the page it had`
-    )
+    ),
+    done
   )
 }
 
@@ -269,7 +282,8 @@ export async function took(
   root: string,
   seatName: string,
   own: string,
-  landing: Landing = runMechanicalChange,
+  done: string[] = [],
+  landing: Landing = landedMechanically,
   stoppedAt: number | null = null
 ): Promise<Went> {
   const slug = slugOf(seatName, own)
@@ -280,7 +294,7 @@ export async function took(
   const moved = movingOff(root, seatName, at)
   if ("why" in moved) return moved
   const why = `${slug} is done, so its page goes; what it was is in this repository's history`
-  return wentBy(await landing(root, [{ at: TAKE_PAGE, given: { at } }], why))
+  return wentBy(await landing(done, root, [{ at: TAKE_PAGE, given: { at } }], why), done)
 }
 
 export function pathsUnder(root: string, seatName: string): readonly string[] {
@@ -295,7 +309,8 @@ export async function tookUnder(
   root: string,
   seatName: string,
   why: string,
-  landing: Landing = runMechanicalChange
+  done: string[] = [],
+  landing: Landing = landedMechanically
 ): Promise<Went> {
   const paths = pathsUnder(root, seatName)
   if (paths.length === 0) return WENT
@@ -303,10 +318,12 @@ export async function tookUnder(
   if (seat !== null) for (const at of paths) movedOnto(root, seat, at)
   const gone = wentBy(
     await landing(
+      done,
       root,
       paths.map((at): Asking => ({ at: TAKE_PAGE, given: { at } })),
       `${seatName} ${why}, so the ${String(paths.length)} subagent page(s) under it go`
-    )
+    ),
+    done
   )
   if (!("why" in gone)) dropReadings(root, paths)
   return gone
@@ -400,11 +417,12 @@ export async function ran(argv: readonly string[]): Promise<number> {
   if (root === undefined || root === "") return saying("no root was named")
   if (act === undefined || act === "") return saying("no act was named")
   if (seatName === undefined || seatName === "") return saying(`${act}: no seat was named`)
+  const done: string[] = []
   if (act === SWEEPING) {
     const why = own
     if (why === undefined || why === "") return saying(`${act} ${seatName}: no reason was named`)
-    const swept = await landingAgain(() => tookUnder(root, seatName, why))
-    return exitFor(swept, `${act} ${seatName}`)
+    const swept = await landingAgain(() => tookUnder(root, seatName, why, done))
+    return exitFor(wentOn(swept, done), `${act} ${seatName}`)
   }
   if (own === undefined || own === "") return saying(`${act} ${seatName}: no subagent id was named`)
   const at = `${act} ${seatName} ${own}`
@@ -412,13 +430,15 @@ export async function ran(argv: readonly string[]): Promise<number> {
   if (act === WRITING) {
     if (seatId === undefined || seatId === "") return saying(`${at} — no seat id was named`)
     const kind = dispatchedAs === undefined || dispatchedAs === "" ? null : dispatchedAs
-    const put = await landingAgain(() => wrote(root, seatName, seatId, own, kind))
+    const put = await landingAgain(() => wrote(root, seatName, seatId, own, kind, done))
     if (!("why" in put)) startedIn(root, pathIn(root, slugOf(seatName, own)), moment)
-    return exitFor(put, at)
+    return exitFor(wentOn(put, done), at)
   }
   if (act === TAKING) {
-    const gone = await landingAgain(() => took(root, seatName, own, runMechanicalChange, moment))
-    return exitFor(gone, at)
+    const gone = await landingAgain(() =>
+      took(root, seatName, own, done, landedMechanically, moment)
+    )
+    return exitFor(wentOn(gone, done), at)
   }
   return saying(`\`${act}\` is no act this takes`)
 }

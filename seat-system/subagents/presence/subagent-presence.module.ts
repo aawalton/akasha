@@ -90,6 +90,10 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
+      statement: "A landing that committed before it stopped names that commit in that reason.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every line the program left to finish says goes to a log named for this module.",
     },
     {

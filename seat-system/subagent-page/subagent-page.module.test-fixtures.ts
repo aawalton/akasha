@@ -78,7 +78,7 @@ export function filedNow(root: string, at: string, slug: string, id: string): un
 }
 
 export async function tookAway(root: string, seatName: string, own: string): Promise<Went> {
-  const went = await took(root, seatName, own, landingNaming([]))
+  const went = await took(root, seatName, own, [], landingNaming([]))
   const slug = slugOf(seatName, own)
   listedTakenFrom(root, "subagent", slug)
   valueTakenFrom(root, "subagent", slug)
