@@ -57,6 +57,16 @@ export const changeFile = {
       invariantKind: "absence",
       statement: "No change a mechanism reaches passes through this refusal.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A passage an earlier `change-file` draft wrote is found, so these stack on one path.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A passage another kind of act drafted is not found, and that draft is dropped and made again.",
+    },
   ],
   changeKind: "change-authored",
 } as const satisfies ChangeAgent

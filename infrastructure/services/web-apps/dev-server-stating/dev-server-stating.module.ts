@@ -52,5 +52,10 @@ export const devServerStating = {
       invariantKind: "absence",
       statement: "Nothing here starts a dev server.",
     },
+    {
+      invariantKind: "gap",
+      statement:
+        "A refusal naming the app flag is enriched from the index, so a bad flag reads as a missing index.",
+    },
   ],
 } as const satisfies Module
