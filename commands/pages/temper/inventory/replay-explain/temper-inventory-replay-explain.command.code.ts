@@ -1,9 +1,10 @@
 import { resolve } from "node:path"
 import {
   INPUT,
-  OK,
   OPERATIONAL,
   refused,
+  refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -147,7 +148,7 @@ export async function temperInventoryReplayExplain(
   given?: Given
 ): Promise<Answer> {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
+  if ("refused" in read) return refusedBy(read.refused)
   const root = given === undefined ? process.cwd() : resolve(given.root)
   const at =
     read.inventoryPath === null ? savedVarsFile(INVENTORY_LUA) : resolve(root, read.inventoryPath)
@@ -165,9 +166,5 @@ export async function temperInventoryReplayExplain(
     )
   }
   const said = formatExplainWalk(outputOf(trace))
-  return {
-    report: [`[addon @ ${trace.timestamp}]`, ...said.replace(/\n+$/, "").split("\n")],
-    refusals: [],
-    code: OK,
-  }
+  return told([`[addon @ ${trace.timestamp}]`, ...said.replace(/\n+$/, "").split("\n")])
 }

@@ -4,10 +4,10 @@ import { join, resolve } from "node:path"
 import { USER_ID } from "akasha/alan/harness/supabase-auth/user-id/user-id.module.code.ts"
 import {
   DATA,
-  INPUT,
-  OK,
   OPERATIONAL,
   refused,
+  refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -128,7 +128,7 @@ export async function temperInventorySnapshot(
   given?: Given
 ): Promise<Answer> {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: INPUT }
+  if ("refused" in read) return refusedBy(read.refused)
   const root = given === undefined ? process.cwd() : resolve(given.root)
 
   let page: Page | null
@@ -163,7 +163,7 @@ export async function temperInventorySnapshot(
   }
 
   const said = read.json ? JSON.stringify(db) : JSON.stringify(db, null, SPACES)
-  if (read.outputPath === null) return { report: said.split("\n"), refusals: [], code: OK }
+  if (read.outputPath === null) return told(said.split("\n"))
 
   const at = resolve(root, read.outputPath)
   try {
@@ -171,9 +171,5 @@ export async function temperInventorySnapshot(
   } catch (thrown) {
     return refused(`the record was not written to ${at} — ${whyOf(thrown)}`, OPERATIONAL)
   }
-  return {
-    report: [`wrote snapshot ${page.id} into ${at}, read whole from ${dataFile}`],
-    refusals: [],
-    code: OK,
-  }
+  return told([`wrote snapshot ${page.id} into ${at}, read whole from ${dataFile}`])
 }
