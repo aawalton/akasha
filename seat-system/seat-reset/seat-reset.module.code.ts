@@ -5,6 +5,7 @@ import {
   isSeatMode,
   SEAT_MODE_HEADLESS,
 } from "akasha/agents/seats/modules/modes/seat-modes.module.code.ts"
+import { mintNamedAgent } from "akasha/agents/seats/modules/name-bind/seat-name-bind.module.code.ts"
 import {
   dataError,
   inputError,
@@ -19,7 +20,6 @@ import {
   killSeatSession,
   launchSeatUnderTmux,
 } from "akasha/seat-system/launch-seat-tmux/launch-seat-tmux.module.code.ts"
-import { mintNamedAgent } from "akasha/seat-system/seat-name-bind/seat-name-bind.module.code.ts"
 import {
   type SeatFromHistory,
   seatFromHistory,
