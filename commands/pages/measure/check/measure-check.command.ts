@@ -6,6 +6,7 @@ export const measureCheck = {
   slug: "measure-check",
   definition: "the command saying what a check's run cost in processor time and memory",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
