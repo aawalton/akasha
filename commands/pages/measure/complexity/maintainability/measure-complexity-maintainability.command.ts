@@ -7,9 +7,7 @@ export const measureComplexityMaintainability = {
   definition:
     "the command saying the maintainability index of each file of a checkout's TypeScript",
   code: "ts",
-  taking: [
-    { said: "--threshold <n>", takes: "the index a row must be at or under to be in the answer" },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -24,11 +22,16 @@ export const measureComplexityMaintainability = {
       invariantKind: "departure",
       statement: "A row is one file, and the rows are ordered by index, lowest first.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A cutoff keeps the rows whose index is at or under it.",
+    },
   ],
   name: "maintainability",
   arguments: [
     { argument: "argument/json" },
     { argument: "argument/file-path" },
     { argument: "argument/top" },
+    { argument: "argument/threshold" },
   ],
 } as const satisfies Command

@@ -7,7 +7,7 @@ export const measureComplexityHalstead = {
   definition:
     "the command saying each function's token counts, and the volume, difficulty, effort, time and bugs",
   code: "ts",
-  taking: [{ said: "--threshold <n>", takes: "the volume a row must reach to be in the answer" }],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -29,11 +29,16 @@ export const measureComplexityHalstead = {
       invariantKind: "absence",
       statement: "Nothing here refuses a body for being complex.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A cutoff keeps the rows whose volume is at or over it.",
+    },
   ],
   name: "halstead",
   arguments: [
     { argument: "argument/json" },
     { argument: "argument/file-path" },
     { argument: "argument/top" },
+    { argument: "argument/threshold" },
   ],
 } as const satisfies Command
