@@ -1,4 +1,15 @@
 import { readMountainWallTime } from "akasha/alan/harness/day/mountain-wall/mountain-wall.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { at } from "akasha/commands/arguments/pages/at.argument.ts"
+import { day } from "akasha/commands/arguments/pages/day.argument.ts"
+import { difficulty } from "akasha/commands/arguments/pages/difficulty.argument.ts"
+import { dryRun } from "akasha/commands/arguments/pages/dry-run.argument.ts"
+import { id } from "akasha/commands/arguments/pages/id.argument.ts"
+import { last } from "akasha/commands/arguments/pages/last.argument.ts"
+import { open } from "akasha/commands/arguments/pages/open.argument.ts"
+import { relationship } from "akasha/commands/arguments/pages/relationship.argument.ts"
+import { safety } from "akasha/commands/arguments/pages/safety.argument.ts"
+import { title } from "akasha/commands/arguments/pages/title.argument.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import {
@@ -12,30 +23,32 @@ import {
   taggedFor,
   taggingOf,
 } from "akasha/commands/pages/track/session/session-relationships/session-relationships.module.code.ts"
+import { trackSessionSplit as page } from "akasha/commands/pages/track/session/split/track-session-split.command.ts"
 import {
-  AT,
   addressed,
   anchoredIn,
   faultsIn,
   levelsFor,
   mintedAt,
   type Row,
-  saidFor,
   shownOf,
-  TITLE,
 } from "akasha/commands/pages/track/session-rows/session-rows.module.code.ts"
+
+const NAMED = [dryRun, day, at, id, open, last, title, safety, difficulty, relationship]
 
 export async function trackSessionSplit(argv: readonly string[], given: Given): Promise<Answer> {
   const now = new Date()
-  const standing = standingFor(argv, given.root, now)
+  const read = takenFor(argv, given.calledAs, page, NAMED)
+  if ("refused" in read) return mistaking(read.refused)
+  const taken = read.taken
+  const standing = standingFor(taken, given.root, now)
   if (typeof standing === "string") return mistaking([standing])
-  const tagging = taggingFor(argv, given.root)
+  const tagging = taggingFor(taken, given.root)
   if (tagging.read === "refused") return mistaking(tagging.refusals)
-  const found = addressed(argv, standing.rows, now)
+  const found = addressed(taken, standing.rows, now)
   if (typeof found === "string") return mistaking([found])
-  const said = saidFor(argv, AT)
-  if (said === null) return mistaking([`${AT} names the time the stretch is parted at`])
-  const reading = readMountainWallTime(anchoredIn(argv, said), now)
+  const said = taken.at
+  const reading = readMountainWallTime(anchoredIn(taken, said), now)
   if (reading.read === "refused") return mistaking([reading.saying])
   const parted = reading.at.getTime()
   const from = new Date(found.startTime).getTime()
@@ -44,16 +57,16 @@ export async function trackSessionSplit(argv: readonly string[], given: Given): 
   if (parted <= from || parted >= to) {
     return mistaking([`${said} falls outside the stretch this parts`])
   }
-  const title = saidFor(argv, TITLE) ?? found.title
-  const levels = levelsFor(argv, title, found, standing.activities)
+  const called = taken.title ?? found.title
+  const levels = levelsFor(taken, called, found, standing.activities)
   if (levels.read === "refused") return mistaking(levels.refusals)
   const next: Row = {
     id: mintedAt(now),
-    title,
+    title: called,
     startTime: reading.iso,
     dailyTracking: standing.held.page,
     ...levels.levels,
-    ...taggingOf(taggedFor(tagging.stated, title, carriedIn(found), tagging.known)),
+    ...taggingOf(taggedFor(tagging.stated, called, carriedIn(found), tagging.known)),
   }
   if (found.endTime !== undefined) next.endTime = found.endTime
   found.endTime = reading.iso

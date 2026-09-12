@@ -1,7 +1,13 @@
 import { readFileSync } from "node:fs"
 import { readMountainWallTime } from "akasha/alan/harness/day/mountain-wall/mountain-wall.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { day } from "akasha/commands/arguments/pages/day.argument.ts"
+import { dryRun } from "akasha/commands/arguments/pages/dry-run.argument.ts"
+import { fromFile } from "akasha/commands/arguments/pages/from-file.argument.ts"
+import { relationship } from "akasha/commands/arguments/pages/relationship.argument.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { trackSessionFile as page } from "akasha/commands/pages/track/session/file/track-session-file.command.ts"
 import {
   landed,
   standingFor,
@@ -19,24 +25,26 @@ import {
 } from "akasha/commands/pages/track/session-leveling/session-leveling.module.code.ts"
 import {
   anchoredIn,
-  FROM_FILE,
   faultsIn,
   mintedAt,
   type Row,
-  saidFor,
   shownOf,
 } from "akasha/commands/pages/track/session-rows/session-rows.module.code.ts"
 
 const LINE = /^(\S+)\s+(.+?)(?:\s+s(-?[\d.]+)d([\d.]+))?$/
 
+const NAMED = [dryRun, day, fromFile, relationship]
+
 export async function trackSessionFile(argv: readonly string[], given: Given): Promise<Answer> {
   const now = new Date()
-  const standing = standingFor(argv, given.root, now)
+  const read = takenFor(argv, given.calledAs, page, NAMED)
+  if ("refused" in read) return mistaking(read.refused)
+  const taken = read.taken
+  const standing = standingFor(taken, given.root, now)
   if (typeof standing === "string") return mistaking([standing])
-  const tagging = taggingFor(argv, given.root)
+  const tagging = taggingFor(taken, given.root)
   if (tagging.read === "refused") return mistaking(tagging.refusals)
-  const from = saidFor(argv, FROM_FILE)
-  if (from === null) return mistaking([`${FROM_FILE} names the file the lines are read from`])
+  const from = taken.fromFile
   let said: string
   try {
     said = readFileSync(from === "-" ? "/dev/stdin" : from, "utf8")
@@ -54,7 +62,7 @@ export async function trackSessionFile(argv: readonly string[], given: Given): P
       refusals.push(`${named} opens with no wall time and a title`)
       continue
     }
-    const reading = readMountainWallTime(anchoredIn(argv, found[1] ?? ""), now)
+    const reading = readMountainWallTime(anchoredIn(taken, found[1] ?? ""), now)
     if (reading.read === "refused") {
       refusals.push(`${named}: ${reading.saying}`)
       continue

@@ -1,3 +1,6 @@
+import { difficulty } from "akasha/commands/arguments/pages/difficulty.argument.ts"
+import { safety } from "akasha/commands/arguments/pages/safety.argument.ts"
+
 export const SAFETY_LOW = -2
 
 export const SAFETY_HIGH = 5
@@ -5,10 +8,6 @@ export const SAFETY_HIGH = 5
 export const DIFFICULTY_LOW = 0
 
 export const DIFFICULTY_HIGH = 5
-
-export const SAFETY_SAID = "--safety"
-
-export const DIFFICULTY_SAID = "--difficulty"
 
 const HALVES = 2
 
@@ -48,11 +47,11 @@ export function readLevel(said: string, low: number, high: number, named: string
 }
 
 export function readSafety(said: string): LevelReading {
-  return readLevel(said, SAFETY_LOW, SAFETY_HIGH, SAFETY_SAID)
+  return readLevel(said, SAFETY_LOW, SAFETY_HIGH, safety.said)
 }
 
 export function readDifficulty(said: string): LevelReading {
-  return readLevel(said, DIFFICULTY_LOW, DIFFICULTY_HIGH, DIFFICULTY_SAID)
+  return readLevel(said, DIFFICULTY_LOW, DIFFICULTY_HIGH, difficulty.said)
 }
 
 const WORD_CHARACTER = "[0-9A-Za-z_]"

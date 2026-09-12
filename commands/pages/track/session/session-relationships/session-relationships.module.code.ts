@@ -1,8 +1,4 @@
-import {
-  RELATIONSHIP,
-  type Row,
-  saidEachFor,
-} from "akasha/commands/pages/track/session-rows/session-rows.module.code.ts"
+import type { Row } from "akasha/commands/pages/track/session-rows/session-rows.module.code.ts"
 import { statesVersionSeven } from "akasha/pages/ids/uuid-version-7/uuid-version-7.module.code.ts"
 import { valuesByPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
@@ -21,6 +17,10 @@ export type RelationshipPage = {
 export type RelationshipsReading =
   | { readonly read: "relationships"; readonly ids: readonly string[] }
   | { readonly read: "refused"; readonly refusals: readonly string[] }
+
+export type Tagged = {
+  readonly relationship?: readonly string[]
+}
 
 const RELATIONSHIP_TYPE = "relationship"
 
@@ -118,10 +118,10 @@ export function idsForTokens(
 }
 
 export function relationshipsFor(
-  argv: readonly string[],
+  taken: Tagged,
   pages: readonly RelationshipPage[]
 ): RelationshipsReading | null {
-  const occurrences = saidEachFor(argv, RELATIONSHIP)
+  const occurrences = taken.relationship ?? []
   if (occurrences.length === 0) return null
   return idsForTokens(tokensIn(occurrences), pages)
 }

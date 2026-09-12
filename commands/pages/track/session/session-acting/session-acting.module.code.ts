@@ -9,26 +9,24 @@ import {
   type Landing,
   pathUnder,
 } from "akasha/commands/pages/track/session/day-landing/day-landing.module.code.ts"
-import type { RelationshipPage } from "akasha/commands/pages/track/session/session-relationships/session-relationships.module.code.ts"
+import type {
+  RelationshipPage,
+  Tagged,
+} from "akasha/commands/pages/track/session/session-relationships/session-relationships.module.code.ts"
 import {
   relationshipsFor,
   relationshipsIn,
 } from "akasha/commands/pages/track/session/session-relationships/session-relationships.module.code.ts"
 import type { ActivityDifficulty } from "akasha/commands/pages/track/session-leveling/session-leveling.module.code.ts"
 import {
+  type Anchoring,
   activitiesIn,
-  BARE,
-  DAY,
-  DRY_RUN,
   dayNow,
   type Held,
   heldFor,
   linesOf,
-  MEND,
   openIn,
   type Row,
-  saidFor,
-  VALUED,
 } from "akasha/commands/pages/track/session-rows/session-rows.module.code.ts"
 import { dayBefore, sleeping } from "akasha/commands/pages/track/waking/waking.module.code.ts"
 import { SCRATCH_AT } from "akasha/utils/fs/scratching/scratching.module.code.ts"
@@ -52,13 +50,13 @@ export type Tagging =
 
 export type Ending = Landing & { readonly stretch: Row }
 
-export function standingFor(argv: readonly string[], root: string, now: Date): Standing | string {
-  for (const said of argv) {
-    if (said.startsWith("--") && !VALUED.includes(said) && !BARE.includes(said)) {
-      return `${said} is no flag this takes`
-    }
-  }
-  const day = saidFor(argv, DAY) ?? dayNow(now)
+export type Taking = Anchoring & {
+  readonly dryRun?: boolean
+  readonly mend?: boolean
+}
+
+export function standingFor(taken: Taking, root: string, now: Date): Standing | string {
+  const day = taken.day ?? dayNow(now)
   const held = heldFor(root, day)
   if (typeof held === "string") return held
   return {
@@ -66,14 +64,14 @@ export function standingFor(argv: readonly string[], root: string, now: Date): S
     held,
     rows: held.rows.map((one) => ({ ...one })),
     activities: activitiesIn(root),
-    dryRun: argv.includes(DRY_RUN),
-    mend: argv.includes(MEND),
+    dryRun: taken.dryRun === true,
+    mend: taken.mend === true,
   }
 }
 
-export function taggingFor(argv: readonly string[], root: string): Tagging {
+export function taggingFor(taken: Tagged, root: string): Tagging {
   const known = relationshipsIn(root)
-  const reading = relationshipsFor(argv, known)
+  const reading = relationshipsFor(taken, known)
   if (reading === null) return { read: "tagging", known, stated: null }
   if (reading.read === "refused") return { read: "refused", refusals: reading.refusals }
   return { read: "tagging", known, stated: reading.ids }
