@@ -8,10 +8,6 @@ export const inferenceMusic = {
   code: "ts",
   taking: [
     { said: "--prompt <text>", takes: "the style, the mood and the instruments the song carries" },
-    {
-      said: "--prompt-file <path>",
-      takes: "that style read from a path, or `-` for standard input",
-    },
     { said: "--lyrics <text>", takes: "the words the song sings" },
     {
       said: "--lyrics-file <path>",
@@ -58,5 +54,6 @@ export const inferenceMusic = {
     { argument: "argument/steps" },
     { argument: "argument/duration" },
     { argument: "argument/vocal-language" },
+    { argument: "argument/prompt-file" },
   ],
 } as const satisfies Command

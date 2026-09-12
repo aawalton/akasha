@@ -9,7 +9,6 @@ export const inferenceWanExtend = {
   test: "ts",
   taking: [
     { said: "--prompt <text>", takes: "the motion prompt" },
-    { said: "--prompt-file <path>", takes: "the motion prompt read from a path, or `-` for stdin" },
     { said: "--negative-prompt <text>", takes: "what the sampler is steered away from" },
     {
       said: "--negative-prompt-file <path>",
@@ -54,5 +53,6 @@ export const inferenceWanExtend = {
     { argument: "argument/direction", required: true },
     { argument: "argument/context-frames" },
     { argument: "argument/new-frames" },
+    { argument: "argument/prompt-file" },
   ],
 } as const satisfies Command

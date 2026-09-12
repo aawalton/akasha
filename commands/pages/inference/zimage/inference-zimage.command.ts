@@ -9,12 +9,17 @@ export const inferenceZimage = {
   test: "ts",
   taking: [
     { said: "--prompt <text>", takes: "what the image is of" },
-    { said: "--prompt-file <path>", takes: "that prompt read from a path, or `-` for stdin" },
     { said: "--negative-prompt <text>", takes: "what the sampler is steered away from" },
     {
       said: "--negative-prompt-file <path>",
       takes: "that steering read from a path, or `-` for stdin",
     },
+    { said: "--model <id>", takes: "the registered checkpoint the render goes through" },
+    { said: "--base-model <name>", takes: "the selector mflux takes here, which is passed over" },
+    { said: "--width <n>", takes: "how wide the image is rendered" },
+    { said: "--height <n>", takes: "how tall the image is rendered" },
+    { said: "--lora-paths <path>", takes: "the one checkpoint the render is measured against" },
+    { said: "--lora-scales <f>", takes: "how strongly that checkpoint is mixed in" },
   ],
   invariants: [
     {
@@ -83,11 +88,6 @@ export const inferenceZimage = {
     { argument: "argument/steps" },
     { argument: "argument/guidance" },
     { argument: "argument/output", required: true },
-    { argument: "argument/model" },
-    { argument: "argument/base-model" },
-    { argument: "argument/width" },
-    { argument: "argument/height" },
-    { argument: "argument/lora-paths" },
-    { argument: "argument/lora-scales" },
+    { argument: "argument/prompt-file" },
   ],
 } as const satisfies Command

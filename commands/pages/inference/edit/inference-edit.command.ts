@@ -9,10 +9,6 @@ export const inferenceEdit = {
   taking: [
     { said: "--image <path>", takes: "the image edited, which carries the identity kept" },
     { said: "--prompt <text>", takes: "the instruction the edit follows" },
-    {
-      said: "--prompt-file <path>",
-      takes: "that instruction read from a path, or `-` for standard input",
-    },
   ],
   invariants: [
     {
@@ -57,5 +53,6 @@ export const inferenceEdit = {
     { argument: "argument/refs" },
     { argument: "argument/engine" },
     { argument: "argument/aspect-ratio" },
+    { argument: "argument/prompt-file" },
   ],
 } as const satisfies Command
