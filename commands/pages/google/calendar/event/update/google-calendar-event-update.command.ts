@@ -62,6 +62,10 @@ export const googleCalendarEventUpdate = {
       invariantKind: "departure",
       statement: "Everyone attending is emailed unless the call says who to email instead.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A call that threw after the calendar took the change says the calendar took it.",
+    },
   ],
   name: "update",
   arguments: [

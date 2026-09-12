@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
+import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import {
+  answeredBy,
   CALENDAR,
   END,
   EVENT,
@@ -129,4 +132,44 @@ test("a whole call reads to what it was said", () => {
   if ("refused" in read) throw new Error("this was refused")
   expect(read.said.get(CALENDAR)).toBe("work")
   expect(read.said.get(MAX)).toBe("5")
+})
+
+const TAKEN = readIn(["abc123"], GETTING)
+
+const TOOK_IT = "work@example.com took the change to event abc123"
+
+test("a call the calendar took is answered as the value it gave, laid out as JSON", async () => {
+  const held = await answeredBy(TAKEN, "akasha google calendar event show", async () => ({
+    id: "abc123",
+  }))
+
+  expect(held.code).toBe(0)
+  expect(held.report.join("")).toContain("abc123")
+})
+
+test("a call that threw after the calendar took the write names that write in its refusal", async () => {
+  const held = await answeredBy(
+    TAKEN,
+    "akasha google calendar event update",
+    async (_taken, done) => {
+      done.push(TOOK_IT)
+      throw new OperationalError("the reply would not read")
+    }
+  )
+
+  expect(held.code).toBe(OPERATIONAL)
+  expect(held.report).toEqual([TOOK_IT])
+  expect(held.refusals[0]).toContain("akasha google calendar event update")
+  const last = held.refusals[held.refusals.length - 1] as string
+  expect(last).toContain("stopped part way")
+  expect(last).toContain(TOOK_IT)
+})
+
+test("a call that threw before the calendar took anything names no write", async () => {
+  const held = await answeredBy(TAKEN, "akasha google calendar event update", async () => {
+    throw new OperationalError("the calendar would not answer")
+  })
+
+  expect(held.report).toEqual([])
+  expect(held.refusals.some((one) => one.includes("stopped part way"))).toBe(false)
 })

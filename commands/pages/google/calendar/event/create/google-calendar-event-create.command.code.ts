@@ -21,7 +21,7 @@ const WANTED: Wanted = {
 }
 
 export function googleCalendarEventCreate(argv: readonly string[], given: Given): Promise<Answer> {
-  return answeredBy(readIn(argv, WANTED), given.calledAs, async (read) =>
-    (await eventsIn()).createEvent(await asAlan(), inputOf(read))
+  return answeredBy(readIn(argv, WANTED), given.calledAs, async (read, done) =>
+    (await eventsIn()).createEvent(await asAlan(), inputOf(read), done)
   )
 }

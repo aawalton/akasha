@@ -6,10 +6,23 @@ export const calendarEvents = {
   slug: "calendar-events",
   definition: "the calendar operations one event is put through",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement: "A calendar named `primary` means Alan's own calendar.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write is named as soon as the calendar has taken that write.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write that emailed the attendees is named as having emailed them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A delete is named nowhere, because nothing after it can throw.",
     },
     {
       invariantKind: "departure",

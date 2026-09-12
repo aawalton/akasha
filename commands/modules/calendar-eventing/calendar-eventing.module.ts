@@ -49,6 +49,19 @@ export const calendarEventing = {
       statement: "A call the calendar threw on exits with the code that throw carries.",
     },
     {
+      invariantKind: "departure",
+      statement: "An act is handed a list to name each write on as the calendar takes that write.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A call that threw is answered with what that list holds, reported and named in the refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call that threw with nothing on that list is answered as the fault alone.",
+    },
+    {
       invariantKind: "absence",
       statement: "No act word is read here, because the namespace walked names the act.",
     },

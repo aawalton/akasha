@@ -27,16 +27,24 @@ export function resolveCalendarId(
   return explicit ?? defaultCalendarId ?? OWNER_CALENDAR_ID
 }
 
+export function wroteSaid(calendarId: string, what: string, sendUpdates: string): string {
+  const also = sendUpdates === "none" ? "" : ", and its attendees were emailed"
+  return `${calendarId} took ${what}${also}`
+}
+
 export async function createEvent(
   client: CalendarClient,
-  input: EventInput
+  input: EventInput,
+  done: string[] = []
 ): Promise<NormalizedEvent> {
   const calendarId = resolveCalendarId(input.calendarId, client.defaultCalendarId)
+  const sending = input.sendUpdates ?? "all"
   const res = await client.raw.events.insert({
     calendarId,
-    sendUpdates: input.sendUpdates ?? "all",
+    sendUpdates: sending,
     requestBody: buildEventRequestBody(input),
   })
+  done.push(wroteSaid(calendarId, "a new event", sending))
   return normalizeEvent(res.data, calendarId)
 }
 
@@ -58,15 +66,18 @@ export async function listEvents(
 
 export async function updateEvent(
   client: CalendarClient,
-  patch: EventPatch
+  patch: EventPatch,
+  done: string[] = []
 ): Promise<NormalizedEvent> {
   const calendarId = resolveCalendarId(patch.calendarId, client.defaultCalendarId)
+  const sending = patch.sendUpdates ?? "all"
   const res = await client.raw.events.patch({
     calendarId,
     eventId: patch.eventId,
-    sendUpdates: patch.sendUpdates ?? "all",
+    sendUpdates: sending,
     requestBody: buildPatchRequestBody(patch),
   })
+  done.push(wroteSaid(calendarId, `the change to event ${patch.eventId}`, sending))
   return normalizeEvent(res.data, calendarId)
 }
 
@@ -81,7 +92,8 @@ export async function deleteEvent(
 
 export async function rsvpEvent(
   client: CalendarClient,
-  input: RsvpInput
+  input: RsvpInput,
+  done: string[] = []
 ): Promise<NormalizedEvent> {
   const calendarId = resolveCalendarId(input.calendarId, client.defaultCalendarId)
   const current = await client.raw.events.get({ calendarId, eventId: input.eventId })
@@ -92,11 +104,13 @@ export async function rsvpEvent(
       `cannot RSVP to event ${input.eventId}: you are not an attendee on it ` +
         "(no attendee is marked as self), so there is no response of yours to set"
     )
+  const sending = input.sendUpdates ?? "all"
   const res = await client.raw.events.patch({
     calendarId,
     eventId: input.eventId,
-    sendUpdates: input.sendUpdates ?? "all",
+    sendUpdates: sending,
     requestBody: { attendees: [...attendees] },
   })
+  done.push(wroteSaid(calendarId, `the answer to event ${input.eventId}`, sending))
   return normalizeEvent(res.data, calendarId)
 }

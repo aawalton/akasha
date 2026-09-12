@@ -19,7 +19,7 @@ const WANTED: Wanted = {
 }
 
 export function googleCalendarEventRsvp(argv: readonly string[], given: Given): Promise<Answer> {
-  return answeredBy(readIn(argv, WANTED), given.calledAs, async (read) =>
-    (await eventsIn()).rsvpEvent(await asAlan(), rsvpOf(read))
+  return answeredBy(readIn(argv, WANTED), given.calledAs, async (read, done) =>
+    (await eventsIn()).rsvpEvent(await asAlan(), rsvpOf(read), done)
   )
 }
