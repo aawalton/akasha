@@ -1,5 +1,5 @@
-import { currentCharacterEntry } from "akasha/temper/characters-addon/characters-current-entry/characters-current-entry.module.code.ts"
 import { mergeTraitResearch } from "akasha/temper/characters-addon/characters-trait-research-merge/characters-trait-research-merge.module.code.ts"
+import { currentCharacterEntry } from "akasha/temper/characters-addon/modules/characters-current-entry/characters-current-entry.module.code.ts"
 import type {
   TraitResearchCraftType,
   TraitResearchLine,

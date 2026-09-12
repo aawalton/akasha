@@ -1,8 +1,8 @@
-import { currentCharacterEntry } from "akasha/temper/characters-addon/characters-current-entry/characters-current-entry.module.code.ts"
+import { currentCharacterEntry } from "akasha/temper/characters-addon/modules/characters-current-entry/characters-current-entry.module.code.ts"
 import {
   reconcileDailyWritStates,
   scanDailyWritJournal,
-} from "akasha/temper/characters-addon/characters-daily-writs/characters-daily-writs.module.code.ts"
+} from "akasha/temper/characters-addon/modules/characters-daily-writs/characters-daily-writs.module.code.ts"
 import { getEsoDayStringFromSec } from "akasha/temper/dungeons/eso-reset/eso-reset.module.code.ts"
 import {
   DAILY_WRIT_CRAFT_TYPES,

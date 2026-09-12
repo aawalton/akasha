@@ -1,9 +1,3 @@
-import { refreshAllAntiquityLore } from "akasha/temper/characters-addon/characters-antiquity-lore/characters-antiquity-lore.module.code.ts"
-import { collectBagSize } from "akasha/temper/characters-addon/characters-bag-size/characters-bag-size.module.code.ts"
-import { collectCadwell } from "akasha/temper/characters-addon/characters-cadwell/characters-cadwell.module.code.ts"
-import { refreshAllCollectibles } from "akasha/temper/characters-addon/characters-collectibles/characters-collectibles.module.code.ts"
-import { getCharactersConfig } from "akasha/temper/characters-addon/characters-config/characters-config.module.code.ts"
-import { currentCharacterEntry } from "akasha/temper/characters-addon/characters-current-entry/characters-current-entry.module.code.ts"
 import { refreshAllItemSets } from "akasha/temper/characters-addon/characters-item-sets/characters-item-sets.module.code.ts"
 import { saveCharacterList } from "akasha/temper/characters-addon/characters-list/characters-list.module.code.ts"
 import { collectLoreLibrary } from "akasha/temper/characters-addon/characters-lore-library/characters-lore-library.module.code.ts"
@@ -25,6 +19,12 @@ import { refreshAllTributeCardUpgrades } from "akasha/temper/characters-addon/ch
 import { collectZoneCompletion } from "akasha/temper/characters-addon/characters-zone-completion/characters-zone-completion.module.code.ts"
 import { collectAchievements } from "akasha/temper/characters-addon/modules/characters-achievements/characters-achievements.module.code.ts"
 import { collectAllianceRank } from "akasha/temper/characters-addon/modules/characters-alliance-rank/characters-alliance-rank.module.code.ts"
+import { refreshAllAntiquityLore } from "akasha/temper/characters-addon/modules/characters-antiquity-lore/characters-antiquity-lore.module.code.ts"
+import { collectBagSize } from "akasha/temper/characters-addon/modules/characters-bag-size/characters-bag-size.module.code.ts"
+import { collectCadwell } from "akasha/temper/characters-addon/modules/characters-cadwell/characters-cadwell.module.code.ts"
+import { refreshAllCollectibles } from "akasha/temper/characters-addon/modules/characters-collectibles/characters-collectibles.module.code.ts"
+import { getCharactersConfig } from "akasha/temper/characters-addon/modules/characters-config/characters-config.module.code.ts"
+import { currentCharacterEntry } from "akasha/temper/characters-addon/modules/characters-current-entry/characters-current-entry.module.code.ts"
 import {
   saveAccountSkillMorphProgress,
   saveSkillMorphProgress,

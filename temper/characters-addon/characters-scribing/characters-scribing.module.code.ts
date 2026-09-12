@@ -1,5 +1,5 @@
-import { currentCharacterEntry } from "akasha/temper/characters-addon/characters-current-entry/characters-current-entry.module.code.ts"
 import { mergeScribing } from "akasha/temper/characters-addon/characters-scribing-merge/characters-scribing-merge.module.code.ts"
+import { currentCharacterEntry } from "akasha/temper/characters-addon/modules/characters-current-entry/characters-current-entry.module.code.ts"
 import type {
   GrimoireEntry,
   ScribingProgress,

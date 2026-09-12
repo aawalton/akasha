@@ -1,5 +1,5 @@
-import { isDailyCraftingWritQuest } from "akasha/temper/characters-addon/characters-daily-writs-detection/characters-daily-writs-detection.module.code.ts"
 import { formatProgressCount } from "akasha/temper/characters-addon/characters-progress-format/characters-progress-format.module.code.ts"
+import { isDailyCraftingWritQuest } from "akasha/temper/characters-addon/modules/characters-daily-writs-detection/characters-daily-writs-detection.module.code.ts"
 
 export interface ActiveQuest {
   readonly name: string

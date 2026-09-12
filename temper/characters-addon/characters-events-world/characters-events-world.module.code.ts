@@ -1,14 +1,3 @@
-import { collectBagSize } from "akasha/temper/characters-addon/characters-bag-size/characters-bag-size.module.code.ts"
-import { collectCadwell } from "akasha/temper/characters-addon/characters-cadwell/characters-cadwell.module.code.ts"
-import {
-  refreshAllCollectibles,
-  updateCollectible,
-} from "akasha/temper/characters-addon/characters-collectibles/characters-collectibles.module.code.ts"
-import { currentCharacterEntry } from "akasha/temper/characters-addon/characters-current-entry/characters-current-entry.module.code.ts"
-import {
-  reconcileDailyWritStates,
-  recordDailyWritCompletion,
-} from "akasha/temper/characters-addon/characters-daily-writs/characters-daily-writs.module.code.ts"
 import { collectGrandMasterStations } from "akasha/temper/characters-addon/characters-grand-master-stations/characters-grand-master-stations.module.code.ts"
 import { collectMountTraining } from "akasha/temper/characters-addon/characters-mount-training/characters-mount-training.module.code.ts"
 import {
@@ -26,6 +15,17 @@ import {
   updateZoneCompletionActivity,
 } from "akasha/temper/characters-addon/characters-zone-completion/characters-zone-completion.module.code.ts"
 import { collectAllianceRank } from "akasha/temper/characters-addon/modules/characters-alliance-rank/characters-alliance-rank.module.code.ts"
+import { collectBagSize } from "akasha/temper/characters-addon/modules/characters-bag-size/characters-bag-size.module.code.ts"
+import { collectCadwell } from "akasha/temper/characters-addon/modules/characters-cadwell/characters-cadwell.module.code.ts"
+import {
+  refreshAllCollectibles,
+  updateCollectible,
+} from "akasha/temper/characters-addon/modules/characters-collectibles/characters-collectibles.module.code.ts"
+import { currentCharacterEntry } from "akasha/temper/characters-addon/modules/characters-current-entry/characters-current-entry.module.code.ts"
+import {
+  reconcileDailyWritStates,
+  recordDailyWritCompletion,
+} from "akasha/temper/characters-addon/modules/characters-daily-writs/characters-daily-writs.module.code.ts"
 import { getEsoDayStringFromSec } from "akasha/temper/dungeons/eso-reset/eso-reset.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/player-completion-state/completion-addon-constants/completion-addon-constants.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"

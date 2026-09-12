@@ -1,4 +1,4 @@
-import { currentCharacterEntry } from "akasha/temper/characters-addon/characters-current-entry/characters-current-entry.module.code.ts"
+import { currentCharacterEntry } from "akasha/temper/characters-addon/modules/characters-current-entry/characters-current-entry.module.code.ts"
 
 export function collectAllianceRank(this: void): undefined {
   const charEntry = currentCharacterEntry()

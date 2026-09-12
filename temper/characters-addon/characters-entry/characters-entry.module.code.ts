@@ -5,16 +5,6 @@ import {
   finishPerfTrace,
   startPerfTrace,
 } from "akasha/temper/capture-perf/perf-trace/perf-trace.module.code.ts"
-import { collectAntiquityLore } from "akasha/temper/characters-addon/characters-antiquity-lore/characters-antiquity-lore.module.code.ts"
-import { collectBagSize } from "akasha/temper/characters-addon/characters-bag-size/characters-bag-size.module.code.ts"
-import { collectCadwell } from "akasha/temper/characters-addon/characters-cadwell/characters-cadwell.module.code.ts"
-import { collectCollectibles } from "akasha/temper/characters-addon/characters-collectibles/characters-collectibles.module.code.ts"
-import { registerCommands } from "akasha/temper/characters-addon/characters-commands/characters-commands.module.code.ts"
-import { currentCharacterEntry } from "akasha/temper/characters-addon/characters-current-entry/characters-current-entry.module.code.ts"
-import {
-  probeDailyWrits,
-  reconcileDailyWritStates,
-} from "akasha/temper/characters-addon/characters-daily-writs/characters-daily-writs.module.code.ts"
 import { registerBuildEvents } from "akasha/temper/characters-addon/characters-events-build/characters-events-build.module.code.ts"
 import { registerCompletionKnowledgeEvents } from "akasha/temper/characters-addon/characters-events-knowledge/characters-events-knowledge.module.code.ts"
 import { registerCompletionWorldEvents } from "akasha/temper/characters-addon/characters-events-world/characters-events-world.module.code.ts"
@@ -45,6 +35,16 @@ import { toggleWindow } from "akasha/temper/characters-addon/characters-window/c
 import { collectZoneCompletion } from "akasha/temper/characters-addon/characters-zone-completion/characters-zone-completion.module.code.ts"
 import { collectAchievements } from "akasha/temper/characters-addon/modules/characters-achievements/characters-achievements.module.code.ts"
 import { collectAllianceRank } from "akasha/temper/characters-addon/modules/characters-alliance-rank/characters-alliance-rank.module.code.ts"
+import { collectAntiquityLore } from "akasha/temper/characters-addon/modules/characters-antiquity-lore/characters-antiquity-lore.module.code.ts"
+import { collectBagSize } from "akasha/temper/characters-addon/modules/characters-bag-size/characters-bag-size.module.code.ts"
+import { collectCadwell } from "akasha/temper/characters-addon/modules/characters-cadwell/characters-cadwell.module.code.ts"
+import { collectCollectibles } from "akasha/temper/characters-addon/modules/characters-collectibles/characters-collectibles.module.code.ts"
+import { registerCommands } from "akasha/temper/characters-addon/modules/characters-commands/characters-commands.module.code.ts"
+import { currentCharacterEntry } from "akasha/temper/characters-addon/modules/characters-current-entry/characters-current-entry.module.code.ts"
+import {
+  probeDailyWrits,
+  reconcileDailyWritStates,
+} from "akasha/temper/characters-addon/modules/characters-daily-writs/characters-daily-writs.module.code.ts"
 import {
   saveAccountSkillMorphProgress,
   saveSkillMorphProgress,
