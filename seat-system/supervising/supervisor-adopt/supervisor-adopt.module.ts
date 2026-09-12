@@ -23,9 +23,5 @@ export const supervisorAdopt = {
       invariantKind: "departure",
       statement: "An adopted child is reaped by waiting on its pid rather than by a spawn handle.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A child is spawned under the slug of the seat it answers in.",
-    },
   ],
 } as const satisfies Module

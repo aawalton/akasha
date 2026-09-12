@@ -21,6 +21,7 @@ export type InteractiveCLIArgsOpts = {
   disallowedTools: readonly string[]
   resume: SeatResume
   sessionId: string
+  sessionName: string | null
   systemPromptFile: string | null
   model: string
   fallbackModel: string | null
@@ -34,6 +35,10 @@ export function buildInteractiveCLIArgs(opts: InteractiveCLIArgsOpts): readonly 
   if (opts.systemPromptFile !== null) {
     cliArgs.push("--system-prompt-file", opts.systemPromptFile)
   }
+  if (opts.sessionName !== null && opts.sessionName !== "") {
+    cliArgs.push("--name", opts.sessionName)
+  }
+
   cliArgs.push("--model", opts.model)
 
   if (opts.fallbackModel !== null) {

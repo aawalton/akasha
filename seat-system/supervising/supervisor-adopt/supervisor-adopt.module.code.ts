@@ -3,7 +3,6 @@ import {
   buildClaudeArgv,
   refuseMissingCwd,
 } from "akasha/agents/claude-code/launch-args/claude-launch-args.module.code.ts"
-import { seatNameForAgent } from "akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
 import type { SupervisorHandoff } from "akasha/seat-system/self-healing/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
 import type { ChildExitStatus } from "akasha/seat-system/supervising/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
 import type { ChildExitRuleSource } from "akasha/seat-system/supervising/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
@@ -117,7 +116,6 @@ export function spawnClaudeChild(opts: {
       baseEnv: process.env,
       agentId,
       sessionId,
-      sessionName: seatNameForAgent(agentId) ?? undefined,
       configDir,
       anthropicBaseUrl,
       anthropicAuthToken: opts.anthropicAuthToken,

@@ -124,18 +124,6 @@ test("the agent, session and config directory are always stated", () => {
   expect(held.SUPERVISOR_PID).toBeUndefined()
 })
 
-test("the name a session is registered under is handed to the child", () => {
-  const held = buildSupervisorEnv({ ...BASE, baseEnv: {}, sessionName: "amy" })
-  expect(held.CLAUDE_CODE_SESSION_NAME).toBe("amy")
-})
-
-test("a child under no session name is handed no session name key", () => {
-  expect(buildSupervisorEnv({ ...BASE, baseEnv: {} }).CLAUDE_CODE_SESSION_NAME).toBeUndefined()
-  expect(
-    buildSupervisorEnv({ ...BASE, baseEnv: {}, sessionName: "" }).CLAUDE_CODE_SESSION_NAME
-  ).toBeUndefined()
-})
-
 test("a stale session name the supervisor carries does not reach the child", () => {
   const held = buildSupervisorEnv({
     ...BASE,

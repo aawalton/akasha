@@ -1,4 +1,5 @@
 import { buildInteractiveCLIArgs } from "akasha/agents/claude-code/launch-args/claude-launch-args.module.code.ts"
+import { seatNameForAgent } from "akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
 import { isPendingReExec } from "akasha/seat-system/self-healing/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import {
   resolveAgentEffortLevel,
@@ -138,6 +139,7 @@ export async function buildIterationSpawnOpts(args: {
     disallowedTools: disallowedToolsForLaunch(restrictions.disallowedTools, agentsJson),
     resume,
     sessionId,
+    sessionName: seatNameForAgent(agentId),
     systemPromptFile,
     model,
     fallbackModel,

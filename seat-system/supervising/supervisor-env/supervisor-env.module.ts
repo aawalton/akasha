@@ -29,13 +29,5 @@ export const supervisorEnv = {
       statement:
         "A name the supervisor has that is neither of those keys reaches the child unchanged.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A child is handed the name its session is to be registered under.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A child under no such name is handed no such key.",
-    },
   ],
 } as const satisfies Module
