@@ -1,10 +1,3 @@
-import {
-  CLASSES,
-  CRAFT_ICON,
-  FLAGS,
-  MOUNT,
-  RACES,
-} from "akasha/temper/crafting-addon/craft-icons/craft-icons.module.code.ts"
 import * as Inventory from "akasha/temper/crafting-addon/craft-inventory/craft-inventory.module.code.ts"
 import type { CraftSkillEntry } from "akasha/temper/crafting-addon/craft-player-state/craft-player-state.module.code.ts"
 import * as UiUpdates from "akasha/temper/crafting-addon/craft-ui-updates/craft-ui-updates.module.code.ts"
@@ -18,6 +11,13 @@ import { STATE } from "akasha/temper/crafting-addon/crafting-state/crafting-stat
 import type { AccountPlayerEntry } from "akasha/temper/crafting-addon/modules/craft-account-init/craft-account-init.module.code.ts"
 import * as CharMeta from "akasha/temper/crafting-addon/modules/craft-char-meta/craft-char-meta.module.code.ts"
 import { getCharacters } from "akasha/temper/crafting-addon/modules/craft-characters/craft-characters.module.code.ts"
+import {
+  CLASSES,
+  CRAFT_ICON,
+  FLAGS,
+  MOUNT,
+  RACES,
+} from "akasha/temper/crafting-addon/modules/craft-icons/craft-icons.module.code.ts"
 
 const defined = <T>(value: T | undefined): T =>
   value ?? error("TemperCrafting: unexpected nil in saved variables")
