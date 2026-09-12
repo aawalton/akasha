@@ -38,15 +38,7 @@ export const infrastructureDevServer = {
     { said: "--all", takes: "every server a state file tracks, which a stop alone reaches" },
     { said: "--json", takes: "answer as one JSON line rather than as lines a reader takes" },
   ],
-  helpNotes: [
-    "the act is the first word, and a seq may follow it as a word where no `--seq` names one.",
-    "a start refuses a server already running rather than replacing it, and a restart is how one is replaced.",
-    "a start writes the app's `.env.local` from the app's secret pages where that file is not there yet.",
-    "a stop names one server by its seq and its app, or every tracked server with `--all`, and never both.",
-    "a stop already stopped is answered as stopped, and the stale state file it left is taken.",
-    "a state file naming a process that is gone reads as stopped, and a status takes no state file away.",
-    "`WORKTREE_DIR` names the worktree outright, and the seq still names the state file and the log.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
