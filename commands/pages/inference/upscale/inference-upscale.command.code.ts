@@ -140,6 +140,7 @@ export async function inferenceUpscale(argv: readonly string[], given: Given): P
         done.push(wroteTo(outputPath, outputBytes, "image"))
         return { outputPath, outputBytes }
       },
+      done,
       { persist: !taken.noPersist }
     )
     return told(done)

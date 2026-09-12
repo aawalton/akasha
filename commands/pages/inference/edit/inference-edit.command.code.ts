@@ -184,6 +184,7 @@ export async function inferenceEdit(argv: readonly string[], given: Given): Prom
         done.push(wroteTo(outputPath, image, "image"))
         return { outputPath, outputBytes: image }
       },
+      done,
       { persist: !taken.noPersist }
     )
     return told(done)

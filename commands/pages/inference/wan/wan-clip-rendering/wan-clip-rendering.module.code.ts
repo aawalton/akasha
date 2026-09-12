@@ -178,35 +178,39 @@ export async function generating(taken: Generate, given: Given, report: string[]
   })
 
   const baseUrl = `http://127.0.0.1:${portIn()}`
-  await recordInferenceRun(record, async () => {
-    const run = await runComfyGraph({
-      baseUrl,
-      buildGraph: () =>
-        buildI2vGraph({
-          ...(startName !== undefined ? { startImageName: startName } : {}),
-          ...(endName !== undefined ? { endImageName: endName } : {}),
-          prompt,
-          negativePrompt: negative,
-          width,
-          height,
-          frames,
-          seed,
-          steps,
-          lightning,
-          filenamePrefix: "i2v",
-        }),
-      pollDeadlineMs: waiting,
-      onProgress: (one: string) => {
-        report.push(one)
-        return undefined
-      },
-    })
-    const mp4 = await fetchImage(baseUrl, run.image)
-    await mkdir(dirname(outPath), { recursive: true })
-    await writeFile(outPath, mp4)
-    report.push(`${mp4.byteLength} bytes stand at ${outPath}`)
-    return { outputPath: outPath, outputBytes: mp4 }
-  })
+  await recordInferenceRun(
+    record,
+    async () => {
+      const run = await runComfyGraph({
+        baseUrl,
+        buildGraph: () =>
+          buildI2vGraph({
+            ...(startName !== undefined ? { startImageName: startName } : {}),
+            ...(endName !== undefined ? { endImageName: endName } : {}),
+            prompt,
+            negativePrompt: negative,
+            width,
+            height,
+            frames,
+            seed,
+            steps,
+            lightning,
+            filenamePrefix: "i2v",
+          }),
+        pollDeadlineMs: waiting,
+        onProgress: (one: string) => {
+          report.push(one)
+          return undefined
+        },
+      })
+      const mp4 = await fetchImage(baseUrl, run.image)
+      await mkdir(dirname(outPath), { recursive: true })
+      await writeFile(outPath, mp4)
+      report.push(`${mp4.byteLength} bytes stand at ${outPath}`)
+      return { outputPath: outPath, outputBytes: mp4 }
+    },
+    report
+  )
   report.push(`the recipe it ran under is kept as an inference run, at seed ${seed}`)
   return { report, refusals: [], code: OK }
 }
@@ -327,37 +331,41 @@ export async function extending(taken: Extend, given: Given, report: string[]): 
   })
 
   const baseUrl = `http://127.0.0.1:${portIn()}`
-  await recordInferenceRun(record, async () => {
-    const run = await runComfyGraph({
-      baseUrl,
-      buildGraph: () =>
-        buildExtendGraph({
-          contextVideoName: resolveComfyInputName(contextName),
-          direction,
-          skipFirstFrames: skip,
-          contextFrames,
-          length,
-          prompt,
-          negativePrompt: negative,
-          width,
-          height,
-          seed,
-          steps,
-          lightning,
-          filenamePrefix: "extend",
-        }),
-      pollDeadlineMs: waiting,
-      onProgress: (one: string) => {
-        report.push(one)
-        return undefined
-      },
-    })
-    const mp4 = await fetchImage(baseUrl, run.image)
-    await mkdir(dirname(outPath), { recursive: true })
-    await writeFile(outPath, mp4)
-    report.push(`${mp4.byteLength} bytes stand at ${outPath}`)
-    return { outputPath: outPath, outputBytes: mp4 }
-  })
+  await recordInferenceRun(
+    record,
+    async () => {
+      const run = await runComfyGraph({
+        baseUrl,
+        buildGraph: () =>
+          buildExtendGraph({
+            contextVideoName: resolveComfyInputName(contextName),
+            direction,
+            skipFirstFrames: skip,
+            contextFrames,
+            length,
+            prompt,
+            negativePrompt: negative,
+            width,
+            height,
+            seed,
+            steps,
+            lightning,
+            filenamePrefix: "extend",
+          }),
+        pollDeadlineMs: waiting,
+        onProgress: (one: string) => {
+          report.push(one)
+          return undefined
+        },
+      })
+      const mp4 = await fetchImage(baseUrl, run.image)
+      await mkdir(dirname(outPath), { recursive: true })
+      await writeFile(outPath, mp4)
+      report.push(`${mp4.byteLength} bytes stand at ${outPath}`)
+      return { outputPath: outPath, outputBytes: mp4 }
+    },
+    report
+  )
   report.push(`the recipe it ran under is kept as an inference run, at seed ${seed}`)
   return { report, refusals: [], code: OK }
 }

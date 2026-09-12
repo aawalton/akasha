@@ -54,7 +54,15 @@ export interface PersistImageDeps {
   readonly publishCover: (pageId: string, bytes: Uint8Array) => Promise<void>
 }
 
-export function defaultPersistImageDeps(): PersistImageDeps {
+export function putSaid(pageId: string): string {
+  return `put ${pageId}'s bytes at ${imageObjectKey(pageId)} in the object store`
+}
+
+export function coveredSaid(pageId: string): string {
+  return `set the cover of ${pageId} to ${coverUrl(pageId)}`
+}
+
+export function defaultPersistImageDeps(done: string[]): PersistImageDeps {
   return {
     createImagePage: async (properties) => landRow(IMAGE_PAGE_TYPE_SLUG, properties),
     publishCover: async (pageId, bytes) => {
@@ -65,17 +73,21 @@ export function defaultPersistImageDeps(): PersistImageDeps {
         )
       }
       await store.put(imageObjectKey(pageId), new Uint8Array(bytes))
+      done.push(putSaid(pageId))
       await mergeRow(IMAGE_PAGE_TYPE_SLUG, pageId, { cover: coverUrl(pageId) })
+      done.push(coveredSaid(pageId))
     },
   }
 }
 
 export async function persistInferenceImage(
   deps: PersistImageDeps,
-  input: ImagePersistInput & { readonly outputBytes: Uint8Array }
+  input: ImagePersistInput & { readonly outputBytes: Uint8Array },
+  done: string[]
 ): Promise<string> {
   return persistInferenceMedia(
     { createPage: deps.createImagePage, publishBytes: deps.publishCover },
-    { properties: buildImagePageProperties(input), outputBytes: input.outputBytes }
+    { properties: buildImagePageProperties(input), outputBytes: input.outputBytes },
+    done
   )
 }

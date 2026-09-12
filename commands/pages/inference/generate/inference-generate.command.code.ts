@@ -188,6 +188,7 @@ export async function inferenceGenerate(argv: readonly string[], given: Given): 
         done.push(wroteTo(outputPath, png, "image"))
         return { outputPath, outputBytes: png }
       },
+      done,
       { persist: !taken.noPersist }
     )
     return told(done)

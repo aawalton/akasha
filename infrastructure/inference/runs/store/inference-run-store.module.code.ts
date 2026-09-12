@@ -1,4 +1,5 @@
 import {
+  generationLogSlug,
   landRow,
   mergeRow,
 } from "akasha/infrastructure/inference/runs/generation-log/generation-log.module.code.ts"
@@ -39,6 +40,14 @@ export async function finishInferenceRun(
   )
 }
 
+export function openedSaid(pageId: string): string {
+  return `opened run ${pageId} in the \`${generationLogSlug()}\` log`
+}
+
+export function closedSaid(pageId: string, status: string): string {
+  return `closed run ${pageId} as ${status}`
+}
+
 export interface InferenceRunResult {
   readonly outputPath: string
   readonly outputBytes: Uint8Array
@@ -52,9 +61,11 @@ export interface RecordInferenceRunOptions {
 export async function recordInferenceRun(
   record: InferenceRunRecord,
   run: () => Promise<InferenceRunResult>,
+  done: string[],
   opts: RecordInferenceRunOptions = {}
 ): Promise<InferenceRunResult> {
   const pageId = await startInferenceRun(record)
+  done.push(openedSaid(pageId))
   const startMs = Date.now()
   let result: InferenceRunResult
   try {
@@ -78,6 +89,7 @@ export async function recordInferenceRun(
           }),
       ...(result.identityCosine !== undefined ? { identityCosine: result.identityCosine } : {}),
     })
+    done.push(closedSaid(pageId, "completed"))
   } catch (err) {
     await finishInferenceRun(pageId, {
       status: "failed",
@@ -85,23 +97,32 @@ export async function recordInferenceRun(
       durationMs: Date.now() - startMs,
       errorMessage: err instanceof Error ? err.message : String(err),
     })
+    done.push(closedSaid(pageId, "failed"))
     throw err
   }
 
   if (shouldPersistImage(record.operation, opts.persist)) {
-    await persistInferenceImage(defaultPersistImageDeps(), {
-      record,
-      inferenceRunId: pageId,
-      outputPath: result.outputPath,
-      outputBytes: result.outputBytes,
-    })
+    await persistInferenceImage(
+      defaultPersistImageDeps(done),
+      {
+        record,
+        inferenceRunId: pageId,
+        outputPath: result.outputPath,
+        outputBytes: result.outputBytes,
+      },
+      done
+    )
   } else if (shouldPersistAudio(record.operation, opts.persist)) {
-    await persistInferenceAudio(defaultPersistAudioDeps(), {
-      record,
-      inferenceRunId: pageId,
-      outputPath: result.outputPath,
-      outputBytes: result.outputBytes,
-    })
+    await persistInferenceAudio(
+      defaultPersistAudioDeps(done),
+      {
+        record,
+        inferenceRunId: pageId,
+        outputPath: result.outputPath,
+        outputBytes: result.outputBytes,
+      },
+      done
+    )
   }
 
   return result

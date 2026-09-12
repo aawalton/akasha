@@ -149,10 +149,14 @@ export async function inferenceSegment(argv: readonly string[], given: Given): P
       return bytes
     }
 
-    await recordInferenceRun(record, async () => ({
-      outputPath: mattePath,
-      outputBytes: await wroteEach(every, putting, done),
-    }))
+    await recordInferenceRun(
+      record,
+      async () => ({
+        outputPath: mattePath,
+        outputBytes: await wroteEach(every, putting, done),
+      }),
+      done
+    )
     return told(done)
   })
 }

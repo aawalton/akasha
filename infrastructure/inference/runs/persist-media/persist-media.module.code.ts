@@ -19,11 +19,17 @@ export function shouldPersistMedia(
   return operations.has(operation)
 }
 
+export function landedSaid(pageId: string): string {
+  return `landed the row ${pageId} beside the generation log`
+}
+
 export async function persistInferenceMedia(
   deps: MediaPersistDeps,
-  input: MediaPersistInput
+  input: MediaPersistInput,
+  done: string[]
 ): Promise<string> {
   const pageId = await deps.createPage(input.properties)
+  done.push(landedSaid(pageId))
   await deps.publishBytes(pageId, input.outputBytes)
   return pageId
 }

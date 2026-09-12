@@ -51,7 +51,11 @@ export interface PersistAudioDeps {
   readonly publishAudio: (pageId: string, bytes: Uint8Array) => Promise<void>
 }
 
-export function defaultPersistAudioDeps(): PersistAudioDeps {
+export function putSaid(pageId: string): string {
+  return `put ${pageId}'s bytes at ${audioObjectKey(pageId)} in the object store`
+}
+
+export function defaultPersistAudioDeps(done: string[]): PersistAudioDeps {
   return {
     createAudioPage: async (properties) => landRow(AUDIO_PAGE_TYPE_SLUG, properties),
     publishAudio: async (pageId, bytes) => {
@@ -62,16 +66,19 @@ export function defaultPersistAudioDeps(): PersistAudioDeps {
         )
       }
       await store.put(audioObjectKey(pageId), new Uint8Array(bytes))
+      done.push(putSaid(pageId))
     },
   }
 }
 
 export async function persistInferenceAudio(
   deps: PersistAudioDeps,
-  input: AudioPersistInput & { readonly outputBytes: Uint8Array }
+  input: AudioPersistInput & { readonly outputBytes: Uint8Array },
+  done: string[]
 ): Promise<string> {
   return persistInferenceMedia(
     { createPage: deps.createAudioPage, publishBytes: deps.publishAudio },
-    { properties: buildAudioPageProperties(input), outputBytes: input.outputBytes }
+    { properties: buildAudioPageProperties(input), outputBytes: input.outputBytes },
+    done
   )
 }

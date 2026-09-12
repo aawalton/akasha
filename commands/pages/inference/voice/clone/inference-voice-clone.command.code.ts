@@ -196,6 +196,7 @@ export async function inferenceVoiceClone(argv: readonly string[], given: Given)
         done.push(wroteTo(outputPath, wav, "audio"))
         return { outputPath, outputBytes: wav }
       },
+      done,
       { persist: !taken.noPersist }
     )
     return told(done)

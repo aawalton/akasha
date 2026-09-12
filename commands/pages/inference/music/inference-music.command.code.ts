@@ -136,6 +136,7 @@ export async function inferenceMusic(argv: readonly string[], given: Given): Pro
         done.push(wroteTo(made.outputPath, made.outputBytes, "audio"))
         return made
       },
+      done,
       { persist: !taken.noPersist }
     )
     return told(done)
