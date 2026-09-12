@@ -75,16 +75,16 @@ function ratingAurora(reach: Reach) {
   )
 }
 
-const refusalOf = refusingWith(taken)
+const refusalOf = refusingWith((argv: readonly string[]) => taken(argv, GIVEN))
 
 function takingOf(argv: readonly string[]) {
-  const held = taken(argv)
+  const held = taken(argv, GIVEN)
   if ("refused" in held) throw new Error(`\`${argv.join(" ")}\` was refused — ${held.refused}`)
   return held
 }
 
 test("a flag this takes nothing of is refused", () => {
-  expect(refusalOf(["--id", "abc"])).toContain("`--id` is nothing this takes")
+  expect(refusalOf(["--id", "abc"])).toContain("`--id` is no argument")
 })
 
 test("a target that is neither an artist nor a song is refused", () => {
@@ -126,11 +126,11 @@ test("a value and its file together are refused", () => {
     "--insights-file",
     "y",
   ])
-  expect(said).toContain("both are given")
+  expect(said).toContain("never said together")
 })
 
 test("a flag named twice is refused", () => {
-  expect(refusalOf(["--target", SONG, "--target", ARTIST])).toContain("named twice")
+  expect(refusalOf(["--target", SONG, "--target", ARTIST])).toContain("is said twice")
 })
 
 test("a rating and prose are taken together", () => {
@@ -164,7 +164,7 @@ test("prose is read off the file its flag names", () => {
 
 test("a file that is not there is refused", () => {
   const said = refusalOf(["--target", ARTIST, "--slug", "mitski", "--reaction-file", "/nowhere/x"])
-  expect(said).toContain("could not be read as text")
+  expect(said).toContain("would not open")
 })
 
 test("the values carry the rating and mark the prose beside the page", () => {

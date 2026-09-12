@@ -5,7 +5,17 @@ import {
   landedMechanically,
   type runMechanicalChange,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { routeFor } from "akasha/commands/arguments/argument-routing/argument-routing.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { gradeTarget } from "akasha/commands/arguments/pages/grade-target.argument.ts"
+import { insights } from "akasha/commands/arguments/pages/insights.argument.ts"
+import { insightsFile } from "akasha/commands/arguments/pages/insights-file.argument.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { personalConnections } from "akasha/commands/arguments/pages/personal-connections.argument.ts"
+import { personalConnectionsFile } from "akasha/commands/arguments/pages/personal-connections-file.argument.ts"
+import { rating } from "akasha/commands/arguments/pages/rating.argument.ts"
+import { reaction } from "akasha/commands/arguments/pages/reaction.argument.ts"
+import { reactionFile } from "akasha/commands/arguments/pages/reaction-file.argument.ts"
+import { slug as slugArgument } from "akasha/commands/arguments/pages/slug.argument.ts"
 import {
   answering,
   DATA,
@@ -17,7 +27,12 @@ import {
 import { textAt } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { answeredWith, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import {
+  type Filing,
+  filledIn,
+} from "akasha/commands/modules/filling/command-filling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { musicRate as page } from "akasha/commands/pages/music/rate/music-rate.command.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
@@ -31,31 +46,38 @@ export const SONG = "song"
 
 const TXT = "txt"
 
-const TARGET = "--target"
+const TARGET = gradeTarget.said
 
-const SLUG = "--slug"
+const RATING = rating.said
 
-const RATING = "--rating"
+const WHOLE = true
 
-const REACTION = "reaction"
+export const ARTIST_PROSE = [reaction.slug]
 
-const PERSONAL_CONNECTIONS = "personal-connections"
+export const SONG_PROSE = [personalConnections.slug, insights.slug]
 
-const INSIGHTS = "insights"
+const TAKES = [
+  json,
+  slugArgument,
+  rating,
+  reactionFile,
+  personalConnectionsFile,
+  insightsFile,
+  reaction,
+  personalConnections,
+  insights,
+  gradeTarget,
+]
 
-const JSON_SAID = "--json"
+const REACTION_FILING: Filing = { said: reaction.said, file: reactionFile.said, whole: WHOLE }
 
-export const ARTIST_PROSE = [REACTION]
+const CONNECTIONS_FILING: Filing = {
+  said: personalConnections.said,
+  file: personalConnectionsFile.said,
+  whole: WHOLE,
+}
 
-export const SONG_PROSE = [PERSONAL_CONNECTIONS, INSIGHTS]
-
-const PROSE = [...ARTIST_PROSE, ...SONG_PROSE]
-
-const FLAGGED = PROSE.map((one) => `--${one}`)
-
-const VALUED = [TARGET, SLUG, RATING, ...FLAGGED, ...FLAGGED.map((one) => routeFor(one))]
-
-const BARE = [JSON_SAID]
+const INSIGHTS_FILING: Filing = { said: insights.said, file: insightsFile.said, whole: WHOLE }
 
 export const WRITE = "change-mechanical/add-file-of-any-kind"
 
@@ -76,60 +98,9 @@ export type Taken = {
 
 export type Reading = Taken | { readonly refused: string }
 
-type Said = { readonly held: ReadonlyMap<string, string>; readonly bare: ReadonlySet<string> }
-
-function saidIn(argv: readonly string[]): Said | { readonly refused: string } {
-  const held = new Map<string, string>()
-  const bare = new Set<string>()
-  let at = 0
-  while (at < argv.length) {
-    const one = argv[at] as string
-    at += 1
-    if (BARE.includes(one)) {
-      bare.add(one)
-      continue
-    }
-    if (!VALUED.includes(one)) return { refused: `\`${one}\` is nothing this takes` }
-    const value = argv[at]
-    at += 1
-    if (value === undefined || value === "") {
-      return { refused: `\`${one}\` takes a value, and this call names none after it` }
-    }
-    if (held.has(one)) {
-      return { refused: `\`${one}\` is named twice, so which is meant is unsettled` }
-    }
-    held.set(one, value)
-  }
-  return { held, bare }
-}
-
-function proseIn(said: Said): ReadonlyMap<string, string> | { readonly refused: string } {
-  const found = new Map<string, string>()
-  for (const one of PROSE) {
-    const flag = `--${one}`
-    const fromFile = routeFor(flag)
-    const value = said.held.get(flag)
-    const path = said.held.get(fromFile)
-    if (value !== undefined && path !== undefined) {
-      return {
-        refused: `\`${flag}\` and \`${fromFile}\` each carry the ${one}, and both are given`,
-      }
-    }
-    if (value !== undefined) {
-      found.set(one, value)
-      continue
-    }
-    if (path === undefined) continue
-    const read = textAt(path)
-    if (read === null) return { refused: `\`${fromFile}\` ${path} could not be read as text` }
-    found.set(one, read)
-  }
-  return found
-}
-
-function wantingIn(
+export function wrongIn(
   target: string,
-  rating: string | null,
+  grade: string | null,
   prose: ReadonlyMap<string, string>
 ): string | null {
   const strayed = (target === ARTIST ? SONG_PROSE : ARTIST_PROSE).filter((one) => prose.has(one))
@@ -138,35 +109,47 @@ function wantingIn(
     const other = target === ARTIST ? SONG : ARTIST
     return `${named} applies to \`${TARGET} ${other}\` rather than to \`${TARGET} ${target}\``
   }
-  if (rating !== null || prose.size > 0) return null
+  if (grade !== null || prose.size > 0) return null
   const own = (target === ARTIST ? ARTIST_PROSE : SONG_PROSE).map((one) => `\`--${one}\``)
   return `nothing is recorded by this call — name \`${RATING}\` or ${own.join(" or ")}`
 }
 
-export function taken(argv: readonly string[]): Reading {
-  const said = saidIn(argv)
-  if ("refused" in said) return said
-  const target = said.held.get(TARGET)
-  if (target === undefined)
-    return { refused: `\`${TARGET}\` says which sort of page, and none is named` }
+export function taken(argv: readonly string[], given: Given): Reading {
+  const read = takenFor(argv, given.calledAs, page, TAKES)
+  if ("refused" in read) return { refused: read.refused.join(" | ") }
+  const held = read.taken
+  const target = held.gradeTarget
   if (target !== ARTIST && target !== SONG) {
     return {
       refused: `\`${TARGET}\` takes \`${ARTIST}\` or \`${SONG}\`, and this call names \`${target}\``,
     }
   }
-  const slug = said.held.get(SLUG)
-  if (slug === undefined) return { refused: `\`${SLUG}\` names the page, and none is named` }
-  const rating = said.held.get(RATING) ?? null
-  if (rating !== null && !MUSIC_RATINGS.some((one) => one === rating)) {
+  const grade = held.rating ?? null
+  if (grade !== null && !MUSIC_RATINGS.some((one) => one === grade)) {
     return {
-      refused: `\`${RATING}\` takes a rung from \`${MUSIC_RATINGS.join("`, `")}\`, and this call names \`${rating}\``,
+      refused: `\`${RATING}\` takes a rung from \`${MUSIC_RATINGS.join("`, `")}\`, and this call names \`${grade}\``,
     }
   }
-  const prose = proseIn(said)
-  if ("refused" in prose) return prose
-  const wanting = wantingIn(target, rating, prose)
-  if (wanting !== null) return { refused: wanting }
-  return { target, slug, rating, prose, json: said.bare.has(JSON_SAID) }
+  const filled = [
+    filledIn(given.root, held.reaction, held.reactionFile, REACTION_FILING),
+    filledIn(
+      given.root,
+      held.personalConnections,
+      held.personalConnectionsFile,
+      CONNECTIONS_FILING
+    ),
+    filledIn(given.root, held.insights, held.insightsFile, INSIGHTS_FILING),
+  ]
+  const keys = [reaction.slug, personalConnections.slug, insights.slug]
+  const prose = new Map<string, string>()
+  for (const [at, one] of filled.entries()) {
+    if ("refused" in one) return { refused: one.refused.join(" | ") }
+    const key = keys[at]
+    if (key !== undefined && one.text !== undefined) prose.set(key, one.text)
+  }
+  const wrong = wrongIn(target, grade, prose)
+  if (wrong !== null) return { refused: wrong }
+  return { target, slug: held.slug, rating: grade, prose, json: held.json }
 }
 
 export function valuesFor(was: Value, held: Taken): Value {
@@ -188,7 +171,7 @@ async function recorded(
   given: Given,
   landing: Landing
 ): Promise<Answer> {
-  const held = taken(argv)
+  const held = taken(argv, given)
   if ("refused" in held) return refused(held.refused, INPUT)
   const found = listedAt(given.root, held.target, held.slug)
   const at = found.length === 1 ? found[0]?.path : undefined
