@@ -15,11 +15,7 @@ export const temperAddonList = {
     },
     { said: "--code-root <path>", takes: "the checkout the addons are discovered in" },
   ],
-  helpNotes: [
-    "both the flat layout and the nested layout are discovered.",
-    "the roster is read from the checkout rather than from any list written by hand.",
-    "a checkout holding no addon is refused, since an empty roster and an unreadable one read alike.",
-  ],
+
   invariants: [
     {
       invariantKind: "departure",
