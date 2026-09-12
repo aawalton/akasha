@@ -1,8 +1,25 @@
-import { expect, test } from "bun:test"
-import type { Spawned } from "akasha/checks/modules/cost/check-cost.module.code.ts"
-import { costSpawned } from "akasha/checks/modules/cost/check-cost.module.code.ts"
+import { afterAll, expect, test } from "bun:test"
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { join } from "node:path"
+import type { Cost, Spawned } from "akasha/checks/modules/cost/check-cost.module.code.ts"
+import { costSpawned, recordCost } from "akasha/checks/modules/cost/check-cost.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 
 const MIB = 1024 * 1024
+
+const PAGE = "one.module.ts"
+
+const FILLING = "one.module.entries.uncommitted.jsonl"
+
+const HELD = "{}\n"
+
+const HOLDER = "held-by"
+
+const GONE = "1"
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
 
 function spawned(peakBytes: number, peakMeasured = true): Spawned {
   return {
@@ -41,4 +58,44 @@ test("every second a spawned run spent is a child's", () => {
   expect(cost.writeCalls).toBe(0)
   expect(cost.readBytes).toBe(0)
   expect(cost.pathsChanged).toBe(0)
+})
+
+function seeded(): string {
+  const root = scratch.rootFor("check-cost-")
+  writeFileSync(join(root, PAGE), "", "utf8")
+  writeFileSync(join(root, FILLING), HELD, "utf8")
+  return root
+}
+
+function turnAt(root: string): string {
+  return `${join(root, FILLING)}.lock`
+}
+
+function turnLeftBy(root: string, mark: string): string {
+  const turn = turnAt(root)
+  mkdirSync(turn)
+  writeFileSync(join(turn, HOLDER), mark, "utf8")
+  return turn
+}
+
+function oneCost(): Cost {
+  return costSpawned(spawned(MIB))
+}
+
+test("a writer reads how full a file is and appends to that file under one turn it gives up after", () => {
+  const root = seeded()
+  const cost = oneCost()
+  expect(recordCost(root, PAGE, cost)).toBe(FILLING)
+  expect(readFileSync(join(root, FILLING), "utf8")).toBe(`${HELD}${JSON.stringify(cost)}\n`)
+  expect(existsSync(turnAt(root))).toBe(false)
+})
+
+test("a turn over the file is taken before the line lands, and a turn left by a process that is gone is broken first", () => {
+  const root = seeded()
+  const turn = turnLeftBy(root, `${String(process.pid)} ${GONE}`)
+  expect(existsSync(turn)).toBe(true)
+  const cost = oneCost()
+  expect(recordCost(root, PAGE, cost)).toBe(FILLING)
+  expect(readFileSync(join(root, FILLING), "utf8")).toBe(`${HELD}${JSON.stringify(cost)}\n`)
+  expect(existsSync(turn)).toBe(false)
 })

@@ -1,6 +1,7 @@
 import { Buffer } from "node:buffer"
 import { appendFileSync, existsSync, readdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { exclusively } from "akasha/files/exclusive/exclusive.module.code.ts"
 import { ENTRY_CEILING } from "akasha/pages/entry-ceiling/entry-ceiling.module.code.ts"
 import { uncommittedPartAt } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
 import { partFiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
@@ -331,20 +332,31 @@ export function costRecorded(
 
 const NAMES_NO_PAGE = "names no page, so what a run cost is recorded nowhere"
 
+const TURN_MS = 5_000
+
+function appendedIn(root: string, page: string, line: string, under: string): string | null {
+  const filling = fillingAt(root, page, Buffer.byteLength(line, "utf8"), under)
+  if (filling === null) return null
+  appendFileSync(join(root, filling.at), line)
+  if (filling.opened) partFiled(root, page, filling.at)
+  return filling.at
+}
+
 export function recordCost(
   root: string,
   page: string,
   cost: Cost,
   under: string = ENTRIES
 ): string | null {
+  const turn = partAt(page, under, FIRST_PART)
+  if (turn === null) return null
   const line = lineFor(cost)
-  const filling = fillingAt(root, page, Buffer.byteLength(line, "utf8"), under)
-  if (filling === null) return null
-  const at = filling.at
   try {
-    appendFileSync(join(root, at), line)
-    if (filling.opened) partFiled(root, page, at)
-    return at
+    return exclusively(
+      join(root, turn),
+      (): string | null => appendedIn(root, page, line, under),
+      TURN_MS
+    )
   } catch {
     if (!existsSync(join(root, page))) throw new Error(`\`${page}\` ${NAMES_NO_PAGE}`)
     return null

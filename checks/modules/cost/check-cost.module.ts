@@ -236,12 +236,16 @@ export const checkCost = {
       statement: "A peak a run within forgot is no peak of the run around that run.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing here has a lock against another writer of the same file.",
+      invariantKind: "departure",
+      statement: "A writer takes the turn over a page's first entry file before reading a fill.",
     },
     {
-      invariantKind: "gap",
-      statement: "A file passes the ceiling where two writers read its size before either appends.",
+      invariantKind: "departure",
+      statement: "The turn is given up once the line has reached the file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line whose turn has not come in five seconds is dropped.",
     },
     {
       invariantKind: "gap",
