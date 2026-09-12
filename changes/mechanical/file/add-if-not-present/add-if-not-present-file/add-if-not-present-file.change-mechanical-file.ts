@@ -40,6 +40,22 @@ export const addIfNotPresentFile = {
       invariantKind: "absence",
       statement: "Nothing here reads the disk.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A caller states under `old` the body that caller composed its body from.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path holding a body other than `old` is refused rather than written over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller stating no `old` writes over whatever body is there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path already holding the body given is left alone whatever `old` states.",
+    },
   ],
   changeKind: "change-mechanical",
 } as const satisfies ChangeMechanicalFile
