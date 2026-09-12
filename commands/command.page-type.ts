@@ -124,8 +124,7 @@ export const command = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A command's page states the command's arguments and the notes worth knowing about the taking.",
+      statement: "A command's page names the arguments that command takes and narrows each.",
     },
     {
       invariantKind: "departure",
