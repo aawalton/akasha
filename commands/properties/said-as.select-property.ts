@@ -22,7 +22,7 @@ export const saidAs = {
     },
     {
       invariantKind: "departure",
-      statement: "One command fills one argument at most with a word.",
+      statement: "Words fill the arguments taken as words in the order the page states them.",
     },
     {
       invariantKind: "departure",
