@@ -6,9 +6,7 @@ export const talosKubeconfig = {
   slug: "talos-kubeconfig",
   definition: "the command fetching a Talos cluster's kubeconfig onto the workstation",
   code: "ts",
-  taking: [
-    { said: "--output <path>", takes: "the file to write to, in place of the one under the home" },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -45,5 +43,9 @@ export const talosKubeconfig = {
     },
   ],
   name: "kubeconfig",
-  arguments: [{ argument: "argument/cluster" }, { argument: "argument/ip" }],
+  arguments: [
+    { argument: "argument/cluster" },
+    { argument: "argument/ip" },
+    { argument: "argument/output" },
+  ],
 } as const satisfies Command

@@ -8,7 +8,7 @@ export const seatComposeNotices = {
     "the command answering what a seat is told when it is put back to work, as one JSON object",
   code: "ts",
   test: "ts",
-  taking: [{ said: "--output <path>", takes: "a file to write into, rather than saying it" }],
+  taking: [],
 
   invariants: [
     {
@@ -68,4 +68,5 @@ export const seatComposeNotices = {
     },
   ],
   name: "compose-notices",
+  arguments: [{ argument: "argument/output" }],
 } as const satisfies Command
