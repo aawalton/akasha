@@ -288,8 +288,9 @@ export function appendedOnto(was: string | null, rows: readonly Value[]): string
   return `${held}${linesOver(rows)}`
 }
 
-function bodied(path: string, text: string): Asked {
-  return { at: WRITE, given: { at: path, body: text } }
+function bodied(path: string, text: string, old?: string): Asked {
+  const given = old === undefined ? { at: path, body: text } : { at: path, body: text, old }
+  return { at: WRITE, given }
 }
 
 function appendedBeside(
@@ -304,7 +305,8 @@ function appendedBeside(
       refused: `'${filed}' is no page file, so its \`${propertySlug}\` has no name beside it`,
     }
   }
-  return bodied(at, appendedOnto(textAt(join(root, at)), rows))
+  const was = textAt(join(root, at))
+  return bodied(at, appendedOnto(was, rows), was ?? undefined)
 }
 
 function dayValuesIn(root: string): ReadonlyMap<string, Value> {

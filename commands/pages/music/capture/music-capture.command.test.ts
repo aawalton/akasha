@@ -32,6 +32,7 @@ import {
   landingTelling,
   ledgerPage,
   NONE,
+  oldAt,
   PROBE_DAY,
   PROBE_PLAYS,
   pathsOf,
@@ -370,4 +371,17 @@ test("what landed is reported under the rows saying what was filed", async () =>
   const answer = await capturing([], GIVEN, PROBE_PLAYS, held)
   expect(answer.report[0]).toBe("fetched\t1")
   expect(answer.report).toContain("wrote one/day.listens.jsonl")
+})
+
+test("an append hands in the body on disk it was composed against", () => {
+  const at = `${FILED_DAY}.listens.jsonl`
+  const changes = changesOver("2026-08-21T12:00:00.000Z")
+
+  expect(oldAt(changes, at)).toBe(readFileSync(join(ROOT, at), "utf8"))
+})
+
+test("a day page composed from the values that day holds names no body it composed against", () => {
+  const changes = changesOver("2026-08-21T12:00:00.000Z")
+
+  expect(oldAt(changes, `${FILED_DAY}.ts`)).toBeUndefined()
 })

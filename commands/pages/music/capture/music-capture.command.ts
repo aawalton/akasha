@@ -82,6 +82,10 @@ export const musicCapture = {
       invariantKind: "absence",
       statement: "No test here reaches Spotify.",
     },
+    {
+      invariantKind: "departure",
+      statement: "An append hands in the body it read, so a body that moved refuses the write.",
+    },
   ],
   name: "capture",
   arguments: [{ argument: "argument/json" }, { argument: "argument/dry-run" }],

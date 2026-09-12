@@ -99,6 +99,14 @@ export function bodyAt(changes: readonly Asked[], path: string): string {
   throw new Error(`no change was made for ${path}`)
 }
 
+export function oldAt(changes: readonly Asked[], path: string): string | undefined {
+  for (const one of changes) {
+    if (one.at !== WRITE || one.given.at !== path) continue
+    return one.given.old
+  }
+  throw new Error(`no change was made for ${path}`)
+}
+
 export const LANDED: Applied = {
   base: "6666666666666666666666666666666666666666",
   landed: [],
