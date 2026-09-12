@@ -2,9 +2,12 @@ import {
   raiseMessages,
   sentIn,
 } from "akasha/alan/track/daily/day-messages/day-messages.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { seat } from "akasha/commands/arguments/pages/seat.argument.ts"
 import { answering, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { seatMessaged as page } from "akasha/commands/pages/seat/messaged/seat-messaged.command.ts"
 import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import {
   keepPointsToday,
@@ -54,8 +57,6 @@ export function noSeat(name: string): string {
   )
 }
 
-const NO_NAME = "no seat is named, and a run naming none would mark whichever persona came first"
-
 const NO_DAY =
   "no day page is filed for today, so this message earned nobody a point. The mark is kept all " +
   "the same, and the count starts once the day is there."
@@ -94,8 +95,9 @@ export function marking(
 }
 
 export async function seatMessaged(argv: readonly string[], given: Given): Promise<Answer> {
-  const name = argv[0]
-  if (name === undefined || name === "") return mistaking([NO_NAME])
+  const read = takenFor(argv, given.calledAs, page, [seat])
+  if ("refused" in read) return mistaking(read.refused)
+  const name = read.taken.seat
   return await answering((done) => {
     const slug = personaIn(seatedIn(given.root), name)
     if (slug === null) return mistaking([noSeat(name)])
