@@ -1,6 +1,6 @@
 import { textOf } from "akasha/code/modules/body-text/body-text.module.code.ts"
 import { digestOf } from "akasha/code/modules/carried-file/carried-file.module.code.ts"
-import { bodyAt } from "akasha/git/commit-reading/commit-reading.module.code.ts"
+import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { told } from "akasha/git/running/git-running.module.code.ts"
 import {
   type Answering,

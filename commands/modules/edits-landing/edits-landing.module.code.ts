@@ -14,7 +14,7 @@ import { bodyIn } from "akasha/changes/modules/edits-keeping/edits-keeping.modul
 import { textIn } from "akasha/code/modules/body-text/body-text.module.code.ts"
 import { formattedBodies } from "akasha/code/modules/format/code-format.module.code.ts"
 import type { FileMove } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
-import { bodyAt } from "akasha/git/commit-reading/commit-reading.module.code.ts"
+import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { said as gitSaid } from "akasha/git/running/git-running.module.code.ts"
 
 const BYTES = new TextEncoder()

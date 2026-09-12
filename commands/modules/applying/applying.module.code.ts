@@ -41,13 +41,13 @@ import {
 } from "akasha/commands/modules/landing-saying/landing-saying.module.code.ts"
 import type { FileMove } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { bodyAt } from "akasha/git/commit-reading/commit-reading.module.code.ts"
+import { refusedWhereHeld } from "akasha/git/holding/holding.module.code.ts"
+import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import {
   bypassedIn,
   glassSaid,
   unloadableIn,
-} from "akasha/git/committing/committing.module.code.ts"
-import { refusedWhereHeld } from "akasha/git/holding/holding.module.code.ts"
+} from "akasha/git/modules/committing/committing.module.code.ts"
 import { said as gitSaid } from "akasha/git/running/git-running.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"

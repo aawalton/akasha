@@ -8,7 +8,11 @@ import {
   edged,
   rowsIn,
 } from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
-import { AUTHOR, committed, whileIndexFrees } from "akasha/git/committing/committing.module.code.ts"
+import {
+  AUTHOR,
+  committed,
+  whileIndexFrees,
+} from "akasha/git/modules/committing/committing.module.code.ts"
 import { said as git } from "akasha/git/running/git-running.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 

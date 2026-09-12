@@ -5,7 +5,10 @@ import {
   pathsIn,
 } from "akasha/commands/pages/deploy/commit-naming/deploy-commit-naming.module.code.ts"
 import { carriedWith } from "akasha/commands/pages/deploy/file-closure/deploy-file-closure.module.code.ts"
-import { bodyAt, readingEnded } from "akasha/git/commit-reading/commit-reading.module.code.ts"
+import {
+  bodyAt,
+  readingEnded,
+} from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { said } from "akasha/git/running/git-running.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 

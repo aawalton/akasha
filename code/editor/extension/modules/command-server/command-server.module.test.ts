@@ -5,6 +5,8 @@ import {
   colorIn,
   WORKING_PAGE,
 } from "akasha/agents/seats/modules/turn-color/seat-turn-color.module.test-fixtures.ts"
+import { LEASE_ENV } from "akasha/code/editor/extension/harness-wire/harness-wire.module.code.ts"
+import { askIn } from "akasha/code/editor/extension/modules/command-server/command-server.module.code.ts"
 import {
   askServed,
   CommandServerRefusal,
@@ -12,9 +14,7 @@ import {
   REFUSAL_LEASE,
   type Serving,
   servingFrom,
-} from "akasha/code/editor/extension/command-server-client/command-server-client.module.code.ts"
-import { LEASE_ENV } from "akasha/code/editor/extension/harness-wire/harness-wire.module.code.ts"
-import { askIn } from "akasha/code/editor/extension/modules/command-server/command-server.module.code.ts"
+} from "akasha/code/editor/extension/modules/command-server-client/command-server-client.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { z } from "zod"
 

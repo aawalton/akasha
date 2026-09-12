@@ -44,7 +44,7 @@ import {
   baseOf,
   changeOf,
 } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
-import { readingEnded } from "akasha/git/commit-reading/commit-reading.module.code.ts"
+import { readingEnded } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import {
   everythingFiled,
   fileWhereTheIndexIs,

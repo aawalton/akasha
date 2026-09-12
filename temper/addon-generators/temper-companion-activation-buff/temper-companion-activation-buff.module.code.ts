@@ -4,7 +4,7 @@ import {
   rankOf,
   ranksOf,
 } from "akasha/temper/addon-generators/rank-by-key/rank-by-key.module.code.ts"
-import { companionActivationBuffs } from "akasha/temper/companions-core/companion-activation-buffs/companion-activation-buffs.module.code.ts"
+import { companionActivationBuffs } from "akasha/temper/companions-core/modules/companion-activation-buffs/companion-activation-buffs.module.code.ts"
 import { z } from "zod"
 
 const COMPANION_ACTIVATION_BUFF_EAV_SCHEMA = z
