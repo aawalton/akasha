@@ -43,8 +43,7 @@ export const inferenceVideoQa = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "That one of the two is named is held in this command's code rather than in a narrowing.",
+      statement: "The question is said at its own flag or in the file a second flag names.",
     },
     {
       invariantKind: "departure",
@@ -53,9 +52,17 @@ export const inferenceVideoQa = {
   ],
   name: "video-qa",
   arguments: [
-    { argument: "argument/video", notWith: ["argument/frames-dir"] },
+    {
+      argument: "argument/video",
+      notWith: ["argument/frames-dir"],
+      oneOf: ["argument/frames-dir"],
+    },
     { argument: "argument/frames-dir" },
-    { argument: "argument/checklist" },
+    {
+      argument: "argument/checklist",
+      notWith: ["argument/checklist-file"],
+      oneOf: ["argument/checklist-file"],
+    },
     { argument: "argument/checklist-file" },
     { argument: "argument/frames" },
     { argument: "argument/fps" },

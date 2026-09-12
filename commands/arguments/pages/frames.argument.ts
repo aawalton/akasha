@@ -8,4 +8,5 @@ export const frames = {
   takes: "how many frames are sampled out of the ones there are",
   value: "whole-number",
   placeholder: "n",
+  default: "16",
 } as const satisfies Argument
