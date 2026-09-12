@@ -2,10 +2,10 @@ import { takenFor } from "akasha/commands/arguments/argument-taking/argument-tak
 import { filePath } from "akasha/commands/arguments/pages/file-path.argument.ts"
 import { told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { pageSecretList as page } from "akasha/commands/pages/page/secret/list/page-secret-list.command.ts"
 import {
   caught,
-  mistaken,
   targeting,
 } from "akasha/pages/commands/page-secret-acting/page-secret-acting.module.code.ts"
 import { keysBeside } from "akasha/pages/secret/page-secret.module.code.ts"
@@ -16,7 +16,7 @@ const NOTHING = "nothing"
 export async function pageSecretList(argv: readonly string[], given: Given): Promise<Answer> {
   return await caught(() => {
     const read = takenFor(argv, given.calledAs, page, [filePath])
-    if ("refused" in read) return mistaken(read.refused)
+    if ("refused" in read) return mistaking(read.refused)
     const aimed = targeting(given, read.taken.filePath, undefined)
     if ("code" in aimed) return aimed
     const target = aimed.target

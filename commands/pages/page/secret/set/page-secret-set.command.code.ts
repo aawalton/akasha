@@ -8,11 +8,11 @@ import {
   refusedBy,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { pageSecretSet as page } from "akasha/commands/pages/page/secret/set/page-secret-set.command.ts"
 import {
   caught,
   landedWith,
-  mistaken,
   pipedIn,
   targeting,
   valueIn as valueSaid,
@@ -31,16 +31,16 @@ export async function pageSecretSet(argv: readonly string[], given: Given): Prom
       commitMessage,
       keepLastNewline,
     ])
-    if ("refused" in read) return mistaken(read.refused)
+    if ("refused" in read) return mistaking(read.refused)
     const aimed = targeting(given, read.taken.filePath, read.taken.key)
     if ("code" in aimed) return aimed
     const taken = pipedIn()
-    if ("tty" in taken) return mistaken([BARE])
+    if ("tty" in taken) return mistaking([BARE])
     if ("unreadable" in taken) {
       return refusedBy([`what is piped in would not open — ${taken.unreadable}`], OPERATIONAL)
     }
     const value = valueSaid(taken.bytes, read.taken.keepLastNewline)
-    if (typeof value !== "string") return mistaken([value.refused])
+    if (typeof value !== "string") return mistaking([value.refused])
     const next = new Map(secretsIn(given.root, aimed.target.path) ?? [])
     next.set(read.taken.key, value)
     return landedWith(given, read.taken, aimed.target, ACT, next)

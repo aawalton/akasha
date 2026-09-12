@@ -28,8 +28,6 @@ const PAGE_TYPE_SLUG = "pageTypeSlug"
 
 const INPUT_AT = "/dev/stdin"
 
-export const mistaken = mistaking
-
 export function wrongData(said: string): Answer {
   return refusedBy([said], DATA)
 }
@@ -194,7 +192,7 @@ export function targeting(
   if ("refused" in target) return wrongData(target.refused)
   if (key !== undefined) {
     const wrong = undeclared(key, target)
-    if (wrong !== null) return mistaken([wrong])
+    if (wrong !== null) return mistaking([wrong])
   }
   return { target }
 }
