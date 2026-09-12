@@ -17,6 +17,7 @@ import {
 } from "akasha/commands/pages/read/read.command.code.ts"
 import {
   AGENT,
+  argued,
   BIN,
   bareRead,
   begunAgain,
@@ -106,7 +107,7 @@ test("a file named alongside is read, and the seat page is never reached for", (
 })
 
 test("a path outside the repository is refused rather than read", () => {
-  const root = rootWith([{ at: HELD, body: "one\n" }])
+  const root = heldRoot()
   const said = read(["--file-path", "../elsewhere.ts"], givenFor(root))
   expect(said.code).toBe(1)
   expect(said.report).toEqual([])
@@ -114,7 +115,7 @@ test("a path outside the repository is refused rather than read", () => {
 })
 
 test("an absolute path inside the repository is read, and one outside it is not", () => {
-  const root = rootWith([{ at: HELD, body: "one\n" }])
+  const root = heldRoot()
   const inside = read(["--file-path", join(root, HELD)], givenFor(root))
   expect(inside.code).toBe(0)
   const outside = read(["--file-path", join(root, "../elsewhere.ts")], givenFor(root))
@@ -167,10 +168,14 @@ test("--seat is refused with what it would have meant", () => {
 })
 
 test("an argument this does not take is refused, naming every argument it takes", () => {
-  const said = read(["--offset", "20"], givenFor(rootWith([])))
+  const said = argued(["--offset", "20"])
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("is no argument")
   for (const one of TAKING) expect(said.refusals[0]).toContain(one.said)
+})
+
+test("`--file-path` with nothing after it is refused rather than read", () => {
+  expect(argued(["--file-path"]).refusals[0]).toContain("takes a value, and none follows it")
 })
 
 test("more than one answer holds comes back as fewer files and a call for the rest", () => {

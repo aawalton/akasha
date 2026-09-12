@@ -95,6 +95,10 @@ export function read(argv: readonly string[], given: Given, seatAt: SeatAt = SEA
   return readWith(argv, given, null, seatAt)
 }
 
+export function argued(argv: readonly string[]): Answer {
+  return read(argv, givenFor(rootWith([])))
+}
+
 export type Rooted = { readonly root: string; readonly said: Answer }
 
 export function bareRead(at: string | null): Rooted {
