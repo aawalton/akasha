@@ -1,25 +1,5 @@
 import "akasha/temper/interface-addon/fco-global/fco-global.module.code.ts"
 
-import { asString } from "akasha/temper/interface-addon/fco-casts/fco-casts.module.code.ts"
-import {
-  chatBlacklist,
-  chatDisableNotificationStuff,
-  chatWhisperAndFlaggedAsOffline,
-} from "akasha/temper/interface-addon/fco-chat/fco-chat.module.code.ts"
-import { favoriteMountChanges } from "akasha/temper/interface-addon/fco-collectibles-mounts/fco-collectibles-mounts.module.code.ts"
-import { collectibleChanges } from "akasha/temper/interface-addon/fco-collectibles-tooltips/fco-collectibles-tooltips.module.code.ts"
-import {
-  ADDON_NAME,
-  BINDING_NAME_STRINGS,
-  SCENE_DELAYS,
-  SCENES_BLACKLISTED,
-} from "akasha/temper/interface-addon/fco-constants/fco-constants.module.code.ts"
-import {
-  craftingModifications,
-  onEventCraftingStationOpened,
-  saveVolumeLevels,
-} from "akasha/temper/interface-addon/fco-crafting/fco-crafting.module.code.ts"
-import { dialogsChanges } from "akasha/temper/interface-addon/fco-dialogs/fco-dialogs.module.code.ts"
 import { snapCursor } from "akasha/temper/interface-addon/fco-functions/fco-functions.module.code.ts"
 import {
   cPStuff,
@@ -58,6 +38,26 @@ import {
   bGHUDStandardSave,
   bgModifications,
 } from "akasha/temper/interface-addon/modules/fco-battleground/fco-battleground.module.code.ts"
+import { asString } from "akasha/temper/interface-addon/modules/fco-casts/fco-casts.module.code.ts"
+import {
+  chatBlacklist,
+  chatDisableNotificationStuff,
+  chatWhisperAndFlaggedAsOffline,
+} from "akasha/temper/interface-addon/modules/fco-chat/fco-chat.module.code.ts"
+import { favoriteMountChanges } from "akasha/temper/interface-addon/modules/fco-collectibles-mounts/fco-collectibles-mounts.module.code.ts"
+import { collectibleChanges } from "akasha/temper/interface-addon/modules/fco-collectibles-tooltips/fco-collectibles-tooltips.module.code.ts"
+import {
+  ADDON_NAME,
+  BINDING_NAME_STRINGS,
+  SCENE_DELAYS,
+  SCENES_BLACKLISTED,
+} from "akasha/temper/interface-addon/modules/fco-constants/fco-constants.module.code.ts"
+import {
+  craftingModifications,
+  onEventCraftingStationOpened,
+  saveVolumeLevels,
+} from "akasha/temper/interface-addon/modules/fco-crafting/fco-crafting.module.code.ts"
+import { dialogsChanges } from "akasha/temper/interface-addon/modules/fco-dialogs/fco-dialogs.module.code.ts"
 
 const EM = EVENT_MANAGER
 

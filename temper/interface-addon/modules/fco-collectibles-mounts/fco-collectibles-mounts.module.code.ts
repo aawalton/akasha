@@ -1,9 +1,9 @@
+import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
 import {
   getAllMountCollectibleIds,
   isAnyMountAFavoriteAtThisCategory,
   setExcludedMountIdsState,
-} from "akasha/temper/interface-addon/fco-collectibles/fco-collectibles.module.code.ts"
-import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
+} from "akasha/temper/interface-addon/modules/fco-collectibles/fco-collectibles.module.code.ts"
 
 function changeMountFavorites(
   this: void,

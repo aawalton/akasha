@@ -1,11 +1,3 @@
-import {
-  excludedMountIdsShifterBoxControl,
-  updateExcludedMountIdsLibShifterBox,
-  updateExcludedMountIdsLibShifterBoxEntries,
-  updateExcludedMountIdsLibShifterBoxState,
-} from "akasha/temper/interface-addon/fco-collectibles/fco-collectibles.module.code.ts"
-import { buildFavoriteMountsContextMenu } from "akasha/temper/interface-addon/fco-collectibles-mounts/fco-collectibles-mounts.module.code.ts"
-import { collectibleChanges } from "akasha/temper/interface-addon/fco-collectibles-tooltips/fco-collectibles-tooltips.module.code.ts"
 import { mailStuff } from "akasha/temper/interface-addon/fco-mail/fco-mail.module.code.ts"
 import { questTrackerMovable } from "akasha/temper/interface-addon/fco-quest/fco-quest.module.code.ts"
 import {
@@ -20,6 +12,14 @@ import {
   promotionalEventTrackerUiChanges,
   statsPanelUiChanges,
 } from "akasha/temper/interface-addon/fco-ui/fco-ui.module.code.ts"
+import {
+  excludedMountIdsShifterBoxControl,
+  updateExcludedMountIdsLibShifterBox,
+  updateExcludedMountIdsLibShifterBoxEntries,
+  updateExcludedMountIdsLibShifterBoxState,
+} from "akasha/temper/interface-addon/modules/fco-collectibles/fco-collectibles.module.code.ts"
+import { buildFavoriteMountsContextMenu } from "akasha/temper/interface-addon/modules/fco-collectibles-mounts/fco-collectibles-mounts.module.code.ts"
+import { collectibleChanges } from "akasha/temper/interface-addon/modules/fco-collectibles-tooltips/fco-collectibles-tooltips.module.code.ts"
 
 export function buildCollectiblesControls(
   this: void,
