@@ -40,7 +40,7 @@ export const seatActCalling = {
     },
     {
       invariantKind: "departure",
-      statement: "What an act finished writing is reported whether that act threw or not.",
+      statement: "An act that finished every write says nothing over what that act printed itself.",
     },
     {
       invariantKind: "absence",

@@ -30,5 +30,5 @@ export async function ran(running: (done: string[]) => Promise<void>): Promise<A
     if (done.length === 0) return refused(why, code)
     return { report: done, refusals: [why, ...partWay(done)], code }
   }
-  return told(done)
+  return told([])
 }

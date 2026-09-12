@@ -36,13 +36,13 @@ test("an act that wrote nothing and threw nothing is answered as nothing done", 
   expect(await ran(async () => {})).toEqual({ report: [], refusals: [], code: OK })
 })
 
-test("what an act finished writing is reported when the act did not throw", async () => {
+test("an act that finished every write says nothing over what that act printed itself", async () => {
   expect(
     await ran(async (done) => {
       done.push("stopped athena")
       done.push("minted athena-2")
     })
-  ).toEqual({ report: ["stopped athena", "minted athena-2"], refusals: [], code: OK })
+  ).toEqual({ report: [], refusals: [], code: OK })
 })
 
 test("an act that threw after writing is refused naming what it had written", async () => {
