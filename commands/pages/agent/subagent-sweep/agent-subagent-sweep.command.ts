@@ -117,6 +117,23 @@ export const agentSubagentSweep = {
     {
       invariantKind: "departure",
       statement:
+        "The seats read are the seats the index names rather than the seats the pages name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat every page of whose subagents has gone is read as any other seat is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The report names each subagent a transcript names as at work that has no page.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No subagent named that way is thereby removed or written.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A transcript entry naming no agent id is dropped rather than carried as an empty name.",
     },
     {

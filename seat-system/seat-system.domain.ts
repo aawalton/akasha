@@ -25,6 +25,7 @@ export const seatSystem = {
     "module/subagent-page",
     "module/subagent-page-akasha",
     "module/subagent-page-history",
+    "module/subagent-pageless",
     "module/subagent-recovering",
     "module/takeover-seat",
     "module/agent-name-bind",

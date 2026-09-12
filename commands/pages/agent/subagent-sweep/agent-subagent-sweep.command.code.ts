@@ -18,7 +18,10 @@ import {
   answeredWith,
   type Given,
 } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { akashaHolderProcessOf } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import {
+  akashaHolderProcessOf,
+  akashaSeatsThatExist,
+} from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { parseSeatProcKey } from "akasha/seat-system/seat-proc-key/seat-proc-key.module.code.ts"
 import { transcriptOf } from "akasha/seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
 import {
@@ -35,6 +38,10 @@ import {
   outlivedAmong,
   subagentsDirOf,
 } from "akasha/seat-system/subagent-outliving/subagent-outliving.module.code.ts"
+import {
+  pagelessAmong,
+  pagelessSaid,
+} from "akasha/seat-system/subagent-pageless/subagent-pageless.module.code.ts"
 import {
   movedOnto,
   saidOf,
@@ -81,6 +88,18 @@ export function holderPidOf(seatId: string): number | null {
 
 export type RunningSaid = (pages: readonly SubagentPage[]) => Promise<OwnIds>
 
+export type SeatsNow = () => Iterable<string>
+
+const NO_SEATS: SeatsNow = () => []
+
+function seatsNow(): Iterable<string> {
+  try {
+    return akashaSeatsThatExist().keys()
+  } catch {
+    return []
+  }
+}
+
 export function namedIn(argv: readonly string[]): Read {
   let removing = false
   for (const token of argv) {
@@ -110,12 +129,15 @@ export async function runningOwnIn(
   reading: SeatTranscripts,
   pathOf: TranscriptPathOf,
   pidOf: HolderPidOf = holderPidOf,
-  startedAt: (pid: number) => number | null = clientStartedAt
+  startedAt: (pid: number) => number | null = clientStartedAt,
+  seatsOf: SeatsNow = NO_SEATS
 ): Promise<OwnIds> {
   const running = new Set<string>()
   const ended = new Set<string>()
   const outlived = new Set<string>()
-  const seats = [...new Set(pages.map((one) => one.seatId))].filter((one) => one !== "").sort()
+  const seats = [...new Set([...seatsOf(), ...pages.map((one) => one.seatId)])]
+    .filter((one) => one !== "")
+    .sort()
   for (const seat of seats) {
     let named: string | null
     try {
@@ -147,7 +169,14 @@ export async function runningOwnIn(
 }
 
 async function transcriptsSay(pages: readonly SubagentPage[]): Promise<OwnIds> {
-  return runningOwnIn(pages, createSubagentReader(), (seat) => transcriptOf(seat)?.value ?? null)
+  return runningOwnIn(
+    pages,
+    createSubagentReader(),
+    (seat) => transcriptOf(seat)?.value ?? null,
+    holderPidOf,
+    clientStartedAt,
+    seatsNow
+  )
 }
 
 export function heldBack(calledAs: string, stale: number): readonly string[] {
@@ -253,7 +282,12 @@ export async function agentSubagentSweep(
   const { going, left } = partedStale(root, staleAmong(judged))
   const kept = keptSaid(left)
   if (!read.removing) {
-    return answeredWith([...census, ...kept, ...heldBack(given.calledAs, going.length)], [], 0)
+    const loose = pagelessSaid(pagelessAmong(pages, own.running))
+    return answeredWith(
+      [...census, ...kept, ...loose, ...heldBack(given.calledAs, going.length)],
+      [],
+      0
+    )
   }
   if (going.length === 0) {
     const why = left.length === 0 ? NOTHING_STALE : ALL_KEPT

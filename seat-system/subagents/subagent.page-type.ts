@@ -61,7 +61,7 @@ export const subagent = {
     },
     {
       invariantKind: "gap",
-      statement: "A subagent begins a turn before the landing writing its page again has gone.",
+      statement: "A subagent begins a turn before the landing writing its page has gone.",
     },
     {
       invariantKind: "constraint",
