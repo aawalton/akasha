@@ -88,6 +88,9 @@ export const aelwynStrengthTraining = {
     {
       statement: "A movement Alan turns down tells the selector as much as a set Alan finishes.",
     },
+    {
+      statement: "A movement chosen carries the weight to use and a suggested number of reps.",
+    },
   ],
   constraints: [
     "The 122 sets already logged stay readable through any change to how training is tracked.",
