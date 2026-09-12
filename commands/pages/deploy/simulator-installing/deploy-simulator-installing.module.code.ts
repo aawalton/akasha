@@ -1,14 +1,17 @@
 import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { type Plan, planFor } from "akasha/code/ios-apps/app-building/app-building.module.code.ts"
+import {
+  DATA,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { SCRATCH_AT } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { quoted } from "akasha/shell/quoting/quoting.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { ran as running } from "akasha/utils/run/running/running.module.code.ts"
 import { z } from "zod"
-
-const DATA = 2
 
 const HOST_ENV = "AKASHA_MAC_HOST"
 
@@ -139,13 +142,13 @@ export function installedOnSimulator(slug: string, given: Given): Answer {
       return {
         report,
         refusals: [`the site ${plan.appSlug} serves was not staged from ${from}`],
-        code: 3,
+        code: OPERATIONAL,
       }
     }
     report.push(`staged the site ${plan.appSlug} serves from ${from}`)
   }
   const short = delivered(given.root, plan, host)
-  if (short.length > 0) return { report, refusals: short, code: 3 }
+  if (short.length > 0) return { report, refusals: short, code: OPERATIONAL }
   const stamp = stampOf(given.root, plan)
   if (stamp === null) {
     return {
@@ -153,7 +156,7 @@ export function installedOnSimulator(slug: string, given: Given): Answer {
       refusals: [
         `the commit ${given.root} is at could not be read, and a build stamped with nothing cannot be told from a stale one`,
       ],
-      code: 3,
+      code: OPERATIONAL,
     }
   }
   const done = built(scriptOf(given.root, plan, stamp), host)
@@ -165,9 +168,9 @@ export function installedOnSimulator(slug: string, given: Given): Answer {
       refusals: [
         `${plan.appSlug} did not report BUILD_SIM_OK, so it was neither built nor installed`,
       ],
-      code: 3,
+      code: OPERATIONAL,
     }
   }
   report.push(`installed ${plan.appSlug} to simulator ${udid}`)
-  return { report, refusals: [], code: 0 }
+  return { report, refusals: [], code: OK }
 }
