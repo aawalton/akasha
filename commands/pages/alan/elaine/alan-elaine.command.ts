@@ -9,25 +9,37 @@ export const alanElaine = {
   test: "ts",
   changeKind: "change-none",
   taking: [
-    { said: "--days <n>", takes: "how many days back the trailing window reaches" },
+    {
+      said: "--days <n>",
+      takes: "how many days back the trailing window reaches, fourteen where none is said",
+    },
     {
       said: "--path <file>",
       takes: "the macbook path to an export zip or an unpacked export.xml, in place of the scan",
     },
     { said: "--json", takes: "the snapshot as one JSON object rather than as formatted lines" },
   ],
-  helpNotes: [
-    "Apple Health lives on the iPhone, so what is read is an export dropped on the macbook rather than the phone itself.",
-    "the newest export zip in the macbook's downloads is taken where no path is named.",
-    "the metrics are heart rate variability, resting heart rate, blood oxygen, steps and sleep.",
-    "heart rate variability is the marquee reading and the others sit beneath it.",
-    "refreshing means exporting again on the iPhone and dropping the zip on the macbook again.",
-    "a window of no days is refused rather than read as the window this takes by default.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "The archive is scanned whole on the macbook whatever window is asked for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The newest export zip in the machine's downloads is read where no path is said.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The reading covers heart rate variability, resting heart rate, blood oxygen, steps and sleep.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Heart rate variability is answered first.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A window shorter than one day is refused rather than read as the default.",
     },
     {
       invariantKind: "departure",
