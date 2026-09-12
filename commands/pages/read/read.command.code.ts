@@ -307,7 +307,7 @@ export function readWith(
   if (asked === null) return mistaking([noSeatFor(agentId)])
   const aimed = aiming(asked, given)
   if (aimed.refusals.length > 0) return mistaking(aimed.refusals)
-  const queue = spreading(aimed.targets, given)
+  const queue = bare ? spreading(aimed.targets, given) : aimed.targets
   const report: string[] = []
   const refusals: string[] = []
   let spent = 0

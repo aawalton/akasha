@@ -147,7 +147,7 @@ export const read = {
     },
     {
       invariantKind: "departure",
-      statement: "A read hands back the files the file the read names warrants.",
+      statement: "A read naming no file hands back the files that seat page warrants.",
     },
     {
       invariantKind: "departure",
@@ -183,6 +183,10 @@ export const read = {
     {
       invariantKind: "departure",
       statement: "A read of a body that would not open is an operational fault.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A read naming a file hands back that file and no file that file warrants.",
     },
   ],
   name: "read",

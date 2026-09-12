@@ -41,6 +41,7 @@ import {
   longWhole,
   MANY,
   movedAfterCommit,
+  namedOnly,
   overMany,
   priced,
   read,
@@ -327,27 +328,28 @@ test("an agent whose record holds nothing gets the body whole", () => {
   expect(said.report.join("\n")).toContain("the whole file follows")
 })
 
-test("a read of a page hands back the types it is under, and records them", () => {
+test("a read naming no file hands back the types it is under, and records them", () => {
   const root = thingRoot()
-  const said = read(["--file-path", THING], givenFor(root))
+  const said = read([], givenFor(root), seatedAt(THING))
   expect(said.code).toBe(0)
   expect(wholeIn(said.report).map((one) => one.split(" \u2014")[0])).toEqual([...WARRANTED])
   for (const one of WARRANTED) expect(readingIn(root, AGENT, one)).not.toBeNull()
+  expect(headedIn(namedOnly().report, THING_TYPE)).toBe(0)
 })
 
 test("a file warranted and named both comes back once, and --full expands the same way", () => {
   const root = thingRoot()
   const said = read(["--file-path", THING, "--file-path", THING_TYPE], givenFor(root))
   expect(headedIn(said.report, THING_TYPE)).toBe(1)
-  expect(wholeIn(read(["--full", "--file-path", THING], givenFor(root)).report).length).toBe(2)
+  expect(wholeIn(read(["--full"], givenFor(root), seatedAt(THING)).report).length).toBe(2)
 })
 
 test("a warrant naming a file outside the repository reaches no read", () => {
-  const said = read(["--file-path", THING], givenFor(strayRoot())).report.join("\n")
+  const said = read([], givenFor(strayRoot()), seatedAt(THING)).report.join("\n")
   expect(said).not.toContain(STRAY)
 })
 
-test("a warranted set past what one answer holds leaves a call that reads the rest", () => {
+test("a named set past what one answer holds leaves a call that reads the rest", () => {
   const held = ceilinged()
   expect(costOf(held.first.report)).toBeLessThanOrEqual(ANSWER_CEILING)
   expect(held.left.length).toBeGreaterThan(0)
@@ -356,11 +358,10 @@ test("a warranted set past what one answer holds leaves a call that reads the re
   for (const one of everyPaged()) expect(headedIn(held.both, one)).toBeGreaterThan(0)
 })
 
-test("the call for what is left over is priced as it is printed, warrants and all", () => {
+test("the call for what is left over is priced as it is printed", () => {
   const { said, call } = priced()
   expect(costOf(said.report)).toBeLessThanOrEqual(ANSWER_CEILING)
   expect(said.report[said.report.length - 1]).toBe(call)
-  expect(headedIn(said.report, THING_TYPE)).toBe(1)
 })
 
 test("a long body's first run comes back with a call for the next, and is no read yet", () => {

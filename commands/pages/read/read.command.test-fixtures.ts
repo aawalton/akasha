@@ -300,6 +300,10 @@ export function thingRoot(): string {
   return rootWarranting([{ at: THING, body: "one\n" }])
 }
 
+export function namedOnly(): Answer {
+  return read(["--file-path", THING], givenFor(thingRoot()))
+}
+
 export function strayRoot(): string {
   return rootWarranting([{ at: THING, body: "one\n" }], [straying("says-away", "saysAway", STRAY)])
 }
@@ -310,7 +314,7 @@ export function leftIn(report: readonly string[]): readonly string[] {
 }
 
 export function everyPaged(): readonly string[] {
-  return [...namingPages().filter((one) => one !== "--file-path"), THING_TYPE]
+  return namingPages().filter((one) => one !== "--file-path")
 }
 
 export type Ceilinged = {
@@ -343,8 +347,7 @@ export function priced(): Priced {
     { named: three, absolute: three },
   ]
   const call = restCall(CALLED_AS, left, false)
-  const held =
-    costOf(linesFor(THING_TYPE, bodyOf(THING_BODY))) + costOf(linesFor(two, bodyOf(body)))
+  const held = costOf(linesFor(two, bodyOf(body)))
   const want = ANSWER_CEILING - Math.floor(costOf(call) / 2) - held
   const bare = costOf(linesFor(one, bodyOf("x\n")))
   const root = rootWarranting([
