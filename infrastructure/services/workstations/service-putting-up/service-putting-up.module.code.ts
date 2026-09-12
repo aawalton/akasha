@@ -1,4 +1,9 @@
 import {
+  DATA,
+  OK,
+  OPERATIONAL,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
   homeAt,
   installing,
   ourInstalled,
@@ -6,8 +11,6 @@ import {
 } from "akasha/infrastructure/services/workstations/service-installing/service-installing.module.code.ts"
 import { everyService } from "akasha/infrastructure/services/workstations/service-reading/service-reading.module.code.ts"
 
-const DATA = 2
-const OPERATIONAL = 3
 const NOT_WRITTEN = "dry-run\tnothing was written; run it again without `--dry-run` to carry it out"
 
 export interface PutUp {
@@ -42,10 +45,10 @@ export function putUpEvery(
   for (const name of plan.stop) report.push(`stop\t${name}`)
   for (const name of plan.remove) report.push(`remove\t${name}`)
 
-  if (dryRun) return { report: [...report, NOT_WRITTEN], refusals: [], code: 0 }
+  if (dryRun) return { report: [...report, NOT_WRITTEN], refusals: [], code: OK }
 
   const done = installing(home, plan)
   const said = [...report, ...done.did.map((what) => `did\t${what}`)]
   if (done.refused.length > 0) return { report: said, refusals: done.refused, code: OPERATIONAL }
-  return { report: said, refusals: [], code: 0 }
+  return { report: said, refusals: [], code: OK }
 }
