@@ -27,10 +27,6 @@ export const stateSubagent = {
         "A subagent the seat's transcript still names as one that has not returned keeps its page.",
     },
     {
-      invariantKind: "gap",
-      statement: "A return the seat's transcript has yet to carry leaves a page for the sweep.",
-    },
-    {
       invariantKind: "departure",
       statement: "A subagent resuming takes up the page that subagent had.",
     },
