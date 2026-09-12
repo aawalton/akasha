@@ -1,8 +1,11 @@
 import {
+  answeredWith,
   DATA,
-  OK,
   OPERATIONAL,
+  refusedBy,
+  told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   homeAt,
   installing,
@@ -14,29 +17,19 @@ import { everyService } from "akasha/infrastructure/services/workstations/servic
 
 const NOT_WRITTEN = "dry-run\tnothing was written; run it again without `--dry-run` to carry it out"
 
-export interface PutUp {
-  readonly report: readonly string[]
-  readonly refusals: readonly string[]
-  readonly code: number
-}
-
 export function putUpEvery(
   root: string,
   dryRun: boolean,
   restarting: ReadonlySet<string> = new Set(),
   codeAt: string = "",
   up: string[] = []
-): PutUp {
+): Answer {
   const read = everyService(root, codeAt)
-  if ("refused" in read) return { report: [], refusals: [read.refused], code: DATA }
+  if ("refused" in read) return refusedBy([read.refused], DATA)
 
   const home = homeAt()
   if (home === null) {
-    return {
-      report: [],
-      refusals: ["no home directory is stated, so no unit has anywhere to sit"],
-      code: OPERATIONAL,
-    }
+    return refusedBy(["no home directory is stated, so no unit has anywhere to sit"], OPERATIONAL)
   }
 
   const plan = planFor(read.services, ourInstalled(home), restarting)
@@ -47,10 +40,10 @@ export function putUpEvery(
   for (const name of plan.stop) report.push(`stop\t${name}`)
   for (const name of plan.remove) report.push(`remove\t${name}`)
 
-  if (dryRun) return { report: [...report, NOT_WRITTEN], refusals: [], code: OK }
+  if (dryRun) return told([...report, NOT_WRITTEN])
 
   const done = installing(home, plan, systemctl, up)
   const said = [...report, ...done.did.map((what) => `did\t${what}`)]
-  if (done.refused.length > 0) return { report: said, refusals: done.refused, code: OPERATIONAL }
-  return { report: said, refusals: [], code: OK }
+  if (done.refused.length > 0) return answeredWith(said, done.refused, OPERATIONAL)
+  return told(said)
 }
