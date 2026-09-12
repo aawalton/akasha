@@ -11,7 +11,6 @@ export const command = {
     "namespace/icloud",
     "command/read",
     "namespace/git",
-    "record-property/taking",
     "namespace/imessage",
     "namespace/measure",
     "namespace/seat",
@@ -113,7 +112,6 @@ export const command = {
   extends: ["page-type/module"],
   loadedBy: "module/calling",
   properties: [
-    { pageProperty: "record-property/taking", required: false, many: true, maxCount: null },
     { pageProperty: "number-property/timeout", required: false, many: false },
     { pageProperty: "text-property/level-name", required: false, many: false },
     {

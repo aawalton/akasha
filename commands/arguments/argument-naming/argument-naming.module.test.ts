@@ -81,7 +81,6 @@ test("a page stating neither how it is said nor what it is for is no argument he
 })
 
 test("a command naming no argument is answered with none", () => {
-  expect(argumentsNamed(rooted(), { taking: [] })).toEqual([])
   expect(argumentsNamed(rooted(), {})).toEqual([])
   expect(argumentsNamed(rooted(), null)).toEqual([])
 })

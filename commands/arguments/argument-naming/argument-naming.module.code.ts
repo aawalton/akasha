@@ -1,6 +1,8 @@
-import { argumentsIn } from "akasha/commands/modules/help-writing/help-writing.module.code.ts"
+import {
+  argumentsIn,
+  type Taken,
+} from "akasha/commands/modules/help-writing/help-writing.module.code.ts"
 import { slugOfPart } from "akasha/commands/modules/namespace-listing/namespace-listing.module.code.ts"
-import type { Taking } from "akasha/commands/properties/taking.record-property.types.ts"
 import {
   typeSlugById,
   valuesOfType,
@@ -49,7 +51,7 @@ function atAFlag(one: Said): string {
   return one.placeholder === null ? one.said : `${one.said} <${one.placeholder}>`
 }
 
-function spelt(slug: string, one: Said, saidAs: string | null): Taking {
+function spelt(slug: string, one: Said, saidAs: string | null): readonly Taken[] {
   const takes = one.takes
   if (saidAs === WORD) return [{ said: asAWord(slug, one), takes }]
   if (saidAs === FLAG_OR_WORD) {
@@ -61,12 +63,15 @@ function spelt(slug: string, one: Said, saidAs: string | null): Taking {
   return [{ said: atAFlag(one), takes }]
 }
 
-export function argumentsNamed(root: string, page: Record<string, unknown> | null): Taking {
+export function argumentsNamed(
+  root: string,
+  page: Record<string, unknown> | null
+): readonly Taken[] {
   if (page === null) return []
   const named = argumentsIn(page)
   if (named.length === 0) return []
   const lines = linesIn(root)
-  const held: Taking[number][] = []
+  const held: Taken[] = []
   for (const part of named) {
     const slug = slugOfPart(part.argument)
     const one = lines.get(slug)

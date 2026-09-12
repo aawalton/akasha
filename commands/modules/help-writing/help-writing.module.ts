@@ -18,39 +18,15 @@ export const helpWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "A page stating what a command takes has a surface.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A page naming the arguments it takes has a surface.",
     },
     {
       invariantKind: "departure",
-      statement: "A page stating nothing taken and naming no argument is read as taking nothing.",
+      statement: "A page naming no argument is read as taking nothing.",
     },
     {
       invariantKind: "departure",
       statement: "A command whose page is nowhere has no surface.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An argument a page names and states the taking of too is written down once.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That one line says what the argument's own page says the argument is for.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "It keeps the place the taking gave it.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An argument the taking does not state is written under the ones it states.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A taking emptied of an argument still writes that argument down.",
     },
     {
       invariantKind: "absence",

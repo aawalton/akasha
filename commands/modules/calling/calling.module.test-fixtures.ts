@@ -1,7 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Kind } from "akasha/commands/modules/calling/calling.module.code.ts"
-import type { Surface } from "akasha/commands/modules/help-writing/help-writing.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import {
   idFiled,
@@ -16,12 +15,6 @@ export const MECHANICAL: Kind = {
   runsChecks: false,
   writerOwesReading: false,
   readersOweReading: false,
-}
-
-export const SURFACED: Surface = {
-  taking: [{ said: "--file-path <path>", takes: "a path it takes" }],
-  holds: [],
-  notYet: [],
 }
 
 export const COMMAND = "command"
@@ -74,8 +67,6 @@ export type Named = {
   readonly name?: string
   readonly definition?: string
   readonly parts?: readonly string[]
-  readonly surface?: Surface
-  readonly taking?: Surface["taking"]
   readonly directives?: Ruled
   readonly arguments?: readonly string[]
 }
@@ -104,9 +95,6 @@ export function rootWith(
     const stated =
       one.definition === undefined ? "" : `, definition: ${JSON.stringify(one.definition)}`
     const called = one.name === undefined ? "" : `, name: ${JSON.stringify(one.name)}`
-    const taken = one.taking === undefined ? "" : `, taking: ${JSON.stringify(one.taking)}`
-    const shown =
-      one.surface === undefined ? taken : `, taking: ${JSON.stringify(one.surface.taking)}`
     const parted = one.parts === undefined ? "" : `, parts: ${JSON.stringify(one.parts)}`
     const ruled =
       one.directives === undefined ? "" : `, directives: ${JSON.stringify(one.directives)}`
@@ -117,7 +105,7 @@ export function rootWith(
     writeFileSync(
       join(root, at),
       `export const ${exportedAs(one.slug)} = ` +
-        `{ slug: "${one.slug}"${called}${stated}${shown}${parted}${ruled}${argued} }\n`
+        `{ slug: "${one.slug}"${called}${stated}${parted}${ruled}${argued} }\n`
     )
     writeFileSync(join(root, `${at.slice(0, -".ts".length)}.code.ts`), one.body)
     minted = minted + 1
@@ -199,7 +187,7 @@ export function namespacesIn(root: string, named: readonly Under[]): undefined {
 
 export function ruledRoot(): string {
   const root = rootWith(
-    [{ slug: "a-b-c", body: ANSWERS, name: "c", taking: [], directives: [ruleNamed("Own")] }],
+    [{ slug: "a-b-c", body: ANSWERS, name: "c", directives: [ruleNamed("Own")] }],
     COMMAND,
     ["namespace/a"]
   )

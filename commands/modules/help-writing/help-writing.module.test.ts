@@ -5,7 +5,6 @@ import {
   argumentsFiled,
   OUTSIDE,
   rootWith,
-  SURFACED,
   sweep,
 } from "akasha/commands/modules/calling/calling.module.test-fixtures.ts"
 import {
@@ -15,8 +14,8 @@ import {
   type Surface,
   statementsIn,
   surfaceOf,
+  type Taken,
 } from "akasha/commands/modules/help-writing/help-writing.module.code.ts"
-import type { Taking } from "akasha/commands/properties/taking.record-property.types.ts"
 
 afterAll(sweep)
 
@@ -26,7 +25,7 @@ const GAP: ReadonlySet<string> = new Set(["gap"])
 
 const CENSUS = "A check reads this census."
 
-const UNNAMED: Taking = []
+const UNNAMED: readonly Taken[] = []
 
 const JSON_LINE = {
   said: "--json",
@@ -41,14 +40,6 @@ const SHOWN: Surface = {
   holds: [],
   notYet: [],
 }
-
-test("a page stating what a command takes has a surface", () => {
-  expect(surfaceOf({ taking: [{ said: "<id>", takes: "the id" }] }, NONE, UNNAMED)).toEqual({
-    taking: [{ said: "<id>", takes: "the id" }],
-    holds: [],
-    notYet: [],
-  })
-})
 
 test("an entry's name and how that command takes it are both read off the entry", () => {
   expect(argumentsIn({ arguments: [{ argument: "argument/json", required: false }] })).toEqual([
@@ -68,34 +59,6 @@ test("a page naming the arguments it takes has a surface", () => {
     holds: [],
     notYet: [],
   })
-})
-
-test("an argument the taking states too is written down once, as its own page says", () => {
-  const page = {
-    taking: [
-      { said: "--json", takes: "give the domains as JSON rather than as tab-separated rows" },
-      { said: "--top <n>", takes: "how many rows" },
-    ],
-    arguments: [{ argument: "argument/json" }],
-  }
-  expect(surfaceOf(page, NONE, [JSON_LINE])?.taking).toEqual([
-    JSON_LINE,
-    { said: "--top <n>", takes: "how many rows" },
-  ])
-})
-
-test("an argument the taking does not state is written under the ones it states", () => {
-  const page = { taking: [{ said: "--top <n>", takes: "how many rows" }], arguments: [] }
-  expect(surfaceOf(page, NONE, [JSON_LINE])?.taking).toEqual([
-    { said: "--top <n>", takes: "how many rows" },
-    JSON_LINE,
-  ])
-})
-
-test("a taking emptied of an argument still writes that argument down", () => {
-  expect(
-    surfaceOf({ taking: [], arguments: [{ argument: "argument/json" }] }, NONE, [JSON_LINE])?.taking
-  ).toEqual([JSON_LINE])
 })
 
 test("the invariants a page states are read as their statements alone", () => {
@@ -213,7 +176,7 @@ test("the rules are written under the invariants, each after a blank line", () =
   expect(said).toEqual(["akasha held", "", "", "one", "", "two"])
 })
 
-test("a page stating nothing taken and naming no argument is read as taking nothing", () => {
+test("a page naming no argument is read as taking nothing", () => {
   expect(surfaceOf({}, NONE, UNNAMED)).toEqual({ taking: [], holds: [], notYet: [] })
 })
 
@@ -256,48 +219,12 @@ test("a command whose page states no definition is listed by name alone", async 
   expect(said.report).toContain("  akasha held")
 })
 
-test("a command answers for help out of the surface its own page states", async () => {
-  const root = rootWith([
-    { slug: "held", body: ANSWERS, definition: "what held is for", surface: SURFACED },
-  ])
-  const said = await calling(["held", HELP], { ...OUTSIDE, root })
-  expect(said.code).toBe(0)
-  expect(said.refusals).toEqual([])
-  expect(said.report[0]).toBe("akasha held — what held is for")
-  expect(said.report).toContain("  --file-path <path>  a path it takes")
-})
-
-test("a command stating what it takes is answered for from its page", async () => {
-  const root = rootWith([
-    { slug: "held", body: ANSWERS, taking: [{ said: "<id>", takes: "the id acted on" }] },
-  ])
-  const said = await calling(["held", HELP], { ...OUTSIDE, root })
-  expect(said.code).toBe(0)
-  expect(said.report).toContain("  <id>  the id acted on")
-})
-
 test("a command naming an argument is answered for from that argument's page", async () => {
   const root = rootWith([{ slug: "held", body: ANSWERS, arguments: ["argument/json"] }])
   argumentsFiled(root, [{ slug: "json", ...JSON_LINE }])
   const said = await calling(["held", HELP], { ...OUTSIDE, root })
   expect(said.code).toBe(0)
   expect(said.report).toContain(`  --json  ${JSON_LINE.takes}`)
-})
-
-test("a command stating the taking of an argument it names writes that argument down once", async () => {
-  const root = rootWith([
-    {
-      slug: "held",
-      body: ANSWERS,
-      taking: [{ said: "--json", takes: "the sentence this command spelled for itself" }],
-      arguments: ["argument/json"],
-    },
-  ])
-  argumentsFiled(root, [{ slug: "json", ...JSON_LINE }])
-  const said = await calling(["held", HELP], { ...OUTSIDE, root })
-  expect(said.report.filter((one) => one.startsWith("  --json"))).toEqual([
-    `  --json  ${JSON_LINE.takes}`,
-  ])
 })
 
 test("a command stating nothing taken is answered for from its page all the same", async () => {

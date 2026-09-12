@@ -231,9 +231,7 @@ test("a help answer carries what every namespace above states, widest first, its
 })
 
 test("no directive the page type saying what a command is states reaches a help answer", async () => {
-  const root = rootWith([
-    { slug: "held", body: ANSWERS, taking: [], directives: [ruleNamed("Own")] },
-  ])
+  const root = rootWith([{ slug: "held", body: ANSWERS, directives: [ruleNamed("Own")] }])
   const said = await calling(["held", HELP], { ...OUTSIDE, root })
   expect(said.report).toContain(ruleWritten("Own"))
   expect(said.report).not.toContain(ruleWritten(TYPED))

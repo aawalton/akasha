@@ -3,9 +3,6 @@ import {
   ruleOf,
 } from "akasha/agents/models/tests/pages/directive-kept/directive-kept.model-test.code.ts"
 import { widest } from "akasha/commands/modules/namespace-listing/namespace-listing.module.code.ts"
-import type { Taking } from "akasha/commands/properties/taking.record-property.types.ts"
-
-const TAKING = "taking"
 
 const ARGUMENTS = "arguments"
 
@@ -27,13 +24,18 @@ export function rulesIn(page: Record<string, unknown>): readonly string[] {
   return directivesIn(page[DIRECTIVES]).map(ruleOf)
 }
 
+export type Taken = {
+  readonly said: string
+  readonly takes: string
+}
+
 export type Parted = {
   readonly holds: readonly string[]
   readonly notYet: readonly string[]
 }
 
 export type Surface = Parted & {
-  readonly taking: Taking
+  readonly taking: readonly Taken[]
 }
 
 export function statementsIn(page: Record<string, unknown>, notYet: ReadonlySet<string>): Parted {
@@ -73,29 +75,13 @@ export function argumentsIn(page: Record<string, unknown>): readonly Naming[] {
   return named
 }
 
-function merged(taking: Taking, named: Taking): Taking {
-  const bySaid = new Map(named.map((one) => [one.said, one]))
-  const held: Taking[number][] = []
-  const seen = new Set<string>()
-  for (const one of taking) {
-    held.push(bySaid.get(one.said) ?? one)
-    seen.add(one.said)
-  }
-  for (const one of named) if (!seen.has(one.said)) held.push(one)
-  return held
-}
-
 export function surfaceOf(
   page: Record<string, unknown> | null,
   notYet: ReadonlySet<string>,
-  named: Taking
+  named: readonly Taken[]
 ): Surface | null {
   if (page === null) return null
-  const taking = page[TAKING]
-  return {
-    taking: merged(Array.isArray(taking) ? (taking as Taking) : [], named),
-    ...statementsIn(page, notYet),
-  }
+  return { taking: named, ...statementsIn(page, notYet) }
 }
 
 export function helpOf(
