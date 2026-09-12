@@ -1,3 +1,7 @@
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { seq } from "akasha/commands/arguments/pages/seq.argument.ts"
+import { webApp } from "akasha/commands/arguments/pages/web-app.argument.ts"
 import {
   asJson,
   codeOf,
@@ -7,16 +11,7 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import type {
-  Taken,
-  Taking,
-} from "akasha/commands/pages/infrastructure/dev-server/dev-server-argument-reading/dev-server-argument-reading.module.code.ts"
-import {
-  APP,
-  JSON_LINE,
-  readIn,
-  SEQ,
-} from "akasha/commands/pages/infrastructure/dev-server/dev-server-argument-reading/dev-server-argument-reading.module.code.ts"
+import { infrastructureDevServerStatus as page } from "akasha/commands/pages/infrastructure/dev-server/status/infrastructure-dev-server-status.command.ts"
 import {
   type DevServerRecord,
   devServerTsvLine,
@@ -31,12 +26,13 @@ import {
   readStateFile,
 } from "akasha/infrastructure/services/web-apps/dev-server-stating/dev-server-stating.module.code.ts"
 
-export const TAKING: Taking = {
-  flags: [SEQ, APP, JSON_LINE],
-  names: "any",
+type Named = {
+  readonly seq: number | null
+  readonly app: string | null
+  readonly json: boolean
 }
 
-function reading(read: Taken, root: string): Answer {
+function reading(read: Named, root: string): Answer {
   const recorded = (state: DevServerState): DevServerRecord =>
     recordFromState(state, isPidAlive(state.pid))
   let records: readonly DevServerRecord[]
@@ -59,10 +55,13 @@ export async function infrastructureDevServerStatus(
   argv: readonly string[],
   given: Given
 ): Promise<Answer> {
-  const read = readIn(argv, given.root, TAKING)
+  const read = takenFor(argv, given.calledAs, page, [json, seq, webApp])
   if ("refused" in read) return refusedBy(read.refused)
   try {
-    return reading(read, given.root)
+    return reading(
+      { seq: read.taken.seq ?? null, app: read.taken.webApp ?? null, json: read.taken.json },
+      given.root
+    )
   } catch (thrown) {
     return refused(whyOf(thrown), codeOf(thrown))
   }
