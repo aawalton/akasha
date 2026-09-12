@@ -8,7 +8,7 @@ export const temperInventoryItemRuleList = {
   code: "ts",
   changeKind: "change-none",
   taking: [{ said: "--json", takes: "give the rules as JSON rather than as tab-separated rows" }],
-  helpNotes: ["the rules are given in the order they are held."],
+
   invariants: [
     {
       invariantKind: "departure",
