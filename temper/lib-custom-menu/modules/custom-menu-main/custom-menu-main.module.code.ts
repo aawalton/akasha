@@ -1,4 +1,4 @@
-import "akasha/temper/lib-custom-menu/custom-menu-public-api/custom-menu-public-api.module.code.ts"
+import "akasha/temper/lib-custom-menu/modules/custom-menu-public-api/custom-menu-public-api.module.code.ts"
 
 import { ADDON_NAME } from "akasha/temper/lib-custom-menu/modules/custom-menu-constants/custom-menu-constants.module.code.ts"
 import {

@@ -3,10 +3,6 @@ import {
   OperationalError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import {
-  type CutFingerprint,
-  recordCutFingerprint,
-} from "akasha/alan/harness/mobile-cli/cut-fingerprint/cut-fingerprint.module.code.ts"
-import {
   KEYCHAIN_PASSWORD_SSH_ENV,
   readNativeShellApsEnv,
   readNativeShellHealthkitEnv,
@@ -45,6 +41,10 @@ import {
 } from "akasha/alan/harness/mobile-cli/modules/asc-client/asc-client.module.code.ts"
 import { buildInputSources } from "akasha/alan/harness/mobile-cli/modules/build-input-sources/build-input-sources.module.code.ts"
 import { STAMP_GATE_OK } from "akasha/alan/harness/mobile-cli/modules/build-stamp-gate/build-stamp-gate.module.code.ts"
+import {
+  type CutFingerprint,
+  recordCutFingerprint,
+} from "akasha/alan/harness/mobile-cli/modules/cut-fingerprint/cut-fingerprint.module.code.ts"
 import { simRunSharedRepoPaths } from "akasha/alan/harness/mobile-cli/sim-run-tree/sim-run-tree.module.code.ts"
 import { buildTestflightDeployScript } from "akasha/alan/harness/mobile-cli/testflight-deploy-script/testflight-deploy-script.module.code.ts"
 import {

@@ -14,7 +14,7 @@ import {
 } from "akasha/code/modules/source/code-source.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import { dashEachCapital } from "akasha/utils/slug/dash-each-capital/dash-each-capital.module.code.ts"
+import { dashEachCapital } from "akasha/utils/slug/modules/dash-each-capital/dash-each-capital.module.code.ts"
 import ts from "typescript"
 
 const TABLE = "route-table"

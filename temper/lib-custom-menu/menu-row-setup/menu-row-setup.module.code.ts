@@ -1,11 +1,11 @@
+import { asValuedString } from "akasha/temper/lib-custom-menu/modules/custom-menu-casts/custom-menu-casts.module.code.ts"
 import type {
   LcmControlBase,
   LcmLabel,
   LcmMenuEntry,
   TooltipValue,
   Valued,
-} from "akasha/temper/lib-custom-menu/custom-menu-types/custom-menu-types.module.code.ts"
-import { asValuedString } from "akasha/temper/lib-custom-menu/modules/custom-menu-casts/custom-menu-casts.module.code.ts"
+} from "akasha/temper/lib-custom-menu/modules/custom-menu-types/custom-menu-types.module.code.ts"
 import { isCallback } from "akasha/temper/narrow/is-callback/is-callback.module.code.ts"
 
 const wm = WINDOW_MANAGER

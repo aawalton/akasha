@@ -1,6 +1,6 @@
 import { yellow } from "akasha/design/interfaces/colors/pages/yellow.color.ts"
 import { resolveIconName } from "akasha/pages/core/icon/icon.module.code.ts"
-import { dashEachCapital } from "akasha/utils/slug/dash-each-capital/dash-each-capital.module.code.ts"
+import { dashEachCapital } from "akasha/utils/slug/modules/dash-each-capital/dash-each-capital.module.code.ts"
 import dynamicIconImports from "lucide-react/dynamicIconImports"
 
 export const NAV_ICON_ACCENT = yellow.hex

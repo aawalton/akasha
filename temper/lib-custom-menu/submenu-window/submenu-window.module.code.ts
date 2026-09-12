@@ -1,8 +1,3 @@
-import type {
-  LcmLabel,
-  LcmRowControl,
-  Submenu,
-} from "akasha/temper/lib-custom-menu/custom-menu-types/custom-menu-types.module.code.ts"
 import { menu } from "akasha/temper/lib-custom-menu/eso-menu/eso-menu.module.code.ts"
 import {
   getValueOrCallback,
@@ -19,6 +14,11 @@ import {
   SUBMENU_ITEM_MOUSE_ENTER,
   SUBMENU_ITEM_MOUSE_EXIT,
 } from "akasha/temper/lib-custom-menu/modules/custom-menu-constants/custom-menu-constants.module.code.ts"
+import type {
+  LcmLabel,
+  LcmRowControl,
+  Submenu,
+} from "akasha/temper/lib-custom-menu/modules/custom-menu-types/custom-menu-types.module.code.ts"
 import {
   DEFAULT_TEXT_COLOR,
   DEFAULT_TEXT_HIGHLIGHT,

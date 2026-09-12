@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import type { CutFingerprint } from "akasha/alan/harness/mobile-cli/cut-fingerprint/cut-fingerprint.module.code.ts"
+import type { CutFingerprint } from "akasha/alan/harness/mobile-cli/modules/cut-fingerprint/cut-fingerprint.module.code.ts"
 import {
   cutRecordCall,
   fileFingerprint,

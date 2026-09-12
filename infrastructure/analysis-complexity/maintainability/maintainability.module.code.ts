@@ -1,5 +1,5 @@
-import { computeCyclomaticComplexity } from "akasha/infrastructure/analysis-complexity/cyclomatic/cyclomatic.module.code.ts"
 import { computeHalstead } from "akasha/infrastructure/analysis-complexity/halstead/halstead.module.code.ts"
+import { computeCyclomaticComplexity } from "akasha/infrastructure/analysis-complexity/modules/cyclomatic/cyclomatic.module.code.ts"
 import { walkFunctions } from "akasha/infrastructure/analysis-complexity/walk-functions/walk-functions.module.code.ts"
 import ts from "typescript"
 

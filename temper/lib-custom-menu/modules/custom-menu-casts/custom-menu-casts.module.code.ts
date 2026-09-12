@@ -3,7 +3,7 @@ import type {
   LcmLabel,
   LcmMenu,
   Valued,
-} from "akasha/temper/lib-custom-menu/custom-menu-types/custom-menu-types.module.code.ts"
+} from "akasha/temper/lib-custom-menu/modules/custom-menu-types/custom-menu-types.module.code.ts"
 
 export type GlobalFnTable = Record<
   string,

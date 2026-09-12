@@ -21,7 +21,7 @@ import {
   textAt,
   type Value,
 } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import { dashEachCapital } from "akasha/utils/slug/dash-each-capital/dash-each-capital.module.code.ts"
+import { dashEachCapital } from "akasha/utils/slug/modules/dash-each-capital/dash-each-capital.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

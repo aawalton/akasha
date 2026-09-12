@@ -1,9 +1,3 @@
-import type {
-  LcmSubmenuParent,
-  MenuEntry,
-  TooltipValue,
-  Valued,
-} from "akasha/temper/lib-custom-menu/custom-menu-types/custom-menu-types.module.code.ts"
 import { menu } from "akasha/temper/lib-custom-menu/eso-menu/eso-menu.module.code.ts"
 import {
   getValueOrCallback,
@@ -21,6 +15,12 @@ import {
   SUBMENU_ITEM_MOUSE_EXIT,
 } from "akasha/temper/lib-custom-menu/modules/custom-menu-constants/custom-menu-constants.module.code.ts"
 import { LIB } from "akasha/temper/lib-custom-menu/modules/custom-menu-lib/custom-menu-lib.module.code.ts"
+import type {
+  LcmSubmenuParent,
+  MenuEntry,
+  TooltipValue,
+  Valued,
+} from "akasha/temper/lib-custom-menu/modules/custom-menu-types/custom-menu-types.module.code.ts"
 
 function addCustomMenuItem(
   this: void,

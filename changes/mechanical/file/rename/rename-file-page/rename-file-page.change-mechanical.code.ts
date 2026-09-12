@@ -40,7 +40,7 @@ import {
   folderFor,
   namedForThePlural,
 } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
-import { dashEachCapital } from "akasha/utils/slug/dash-each-capital/dash-each-capital.module.code.ts"
+import { dashEachCapital } from "akasha/utils/slug/modules/dash-each-capital/dash-each-capital.module.code.ts"
 import ts from "typescript"
 
 const RENAME_PAGE_SLUG = "change-mechanical-file-content/rename-page-slug"

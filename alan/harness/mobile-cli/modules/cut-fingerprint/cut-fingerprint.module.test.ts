@@ -1,7 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Filing } from "akasha/alan/harness/mobile-cli/cut-fingerprint/cut-fingerprint.module.code.ts"
+import type { Filing } from "akasha/alan/harness/mobile-cli/modules/cut-fingerprint/cut-fingerprint.module.code.ts"
 import {
   type CutFingerprint,
   compareCutStatus,
@@ -16,7 +16,7 @@ import {
   readCutPages,
   readLatestCutFingerprint,
   recordCutFingerprint,
-} from "akasha/alan/harness/mobile-cli/cut-fingerprint/cut-fingerprint.module.code.ts"
+} from "akasha/alan/harness/mobile-cli/modules/cut-fingerprint/cut-fingerprint.module.code.ts"
 import {
   answering,
   DATA,
