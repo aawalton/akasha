@@ -1,4 +1,8 @@
 import { resolve } from "node:path"
+import {
+  type Drawn,
+  drawnNow,
+} from "akasha/agents/seats/modules/work-tree-drawn/work-tree-drawn.module.code.ts"
 import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import { colors } from "akasha/commands/arguments/pages/colors.argument.ts"
 import { counts } from "akasha/commands/arguments/pages/counts.argument.ts"
@@ -17,10 +21,6 @@ import {
   type InitiativeRow,
   initiativesDrawn,
 } from "akasha/domains/modules/work-initiatives/work-initiatives.module.code.ts"
-import {
-  type Drawn,
-  drawnNow,
-} from "akasha/seat-system/work-tree-drawn/work-tree-drawn.module.code.ts"
 
 const NOTHING_DRAWN: Drawn = { byInitiative: new Map() }
 
