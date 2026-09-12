@@ -17,17 +17,14 @@ export const alanTracking = {
     { said: "--message <text>", takes: "what the commit is for" },
     { said: "--message-file <file>", takes: "a file the commit message is read from" },
   ],
-  helpNotes: [
-    "this command is for the tracking funnel, which composes a day, the rows beside it, and a food entry.",
-    "the tracked trees are the days and the food entries, and a path outside them is refused, so nothing else in akasha is reachable here.",
-    "the checks judge what this lands exactly as they judge a write.",
-    "no reading is owed, because a program composed the body and no record says a program read.",
-    "there is no glass to break: a body this refuses is a fault in the program that composed it.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "No call names the kind of change landed here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The tracked trees are Alan's days and his food entries.",
     },
     {
       invariantKind: "departure",
