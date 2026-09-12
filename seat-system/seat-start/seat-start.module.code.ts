@@ -24,6 +24,7 @@ import {
   compositionOf,
   decideSpawnName,
 } from "akasha/agents/seats/modules/spawn-name-decide/seat-spawn-name-decide.module.code.ts"
+import { resolveStatedIdentity } from "akasha/agents/seats/modules/stated-identity/seat-stated-identity.module.code.ts"
 import {
   dataError,
   inputError,
@@ -41,7 +42,6 @@ import {
   principals,
 } from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 import { launchSeatUnderTmux } from "akasha/seat-system/launch-seat-tmux/launch-seat-tmux.module.code.ts"
-import { resolveStatedIdentity } from "akasha/seat-system/seat-stated-identity/seat-stated-identity.module.code.ts"
 import {
   type StatedIdentity,
   spawnSeat,
