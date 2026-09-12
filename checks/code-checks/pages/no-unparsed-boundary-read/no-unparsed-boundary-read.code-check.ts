@@ -74,6 +74,38 @@ export const noUnparsedBoundaryRead = {
       statement: "A read followed through a second variable is not seen.",
     },
     { invariantKind: "departure", statement: "A call to `firstCapture` is an approved parse." },
+    {
+      invariantKind: "departure",
+      statement: "A body read from a `fetch` answer is a read across a boundary.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file read through `Bun.file` is a read across a boundary.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file read through `fs` is a read across a boundary.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The standard output of a spawned process is a read across a boundary.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An answer from a named remote procedure is a read across a boundary.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A capture a regular expression took is a read across a boundary.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call to `requireMatch` or `requireMatchPositional` is an approved parse.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call to `requireEnv` or `requireGet` or `requireFirst` is an approved parse.",
+    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
