@@ -1,3 +1,8 @@
+import {
+  DATA,
+  INPUT,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type { Holder } from "akasha/files/lock-holder/lock-holder.module.code.ts"
@@ -50,15 +55,15 @@ function restarted(root: string, standing: Seat): string {
 
 export function seatSupervisorRestart(argv: readonly string[], given: Given): Answer {
   if (argv.length !== 1 || argv[0] !== ALL) {
-    return refused(`\`${given.calledAs}\` takes \`${ALL}\` and nothing else`, 1)
+    return refused(`\`${given.calledAs}\` takes \`${ALL}\` and nothing else`, INPUT)
   }
   const seats = seatsIn(given.root)
   if (seats.length === 0) {
     return refused(
       `no seat page stands under \`${given.root}\`, and every seat holding a page is acted on, ` +
         "so a fleet of none is the pages being wrong rather than a fleet",
-      2
+      DATA
     )
   }
-  return { report: seats.map((one) => restarted(given.root, one)), refusals: [], code: 0 }
+  return told(seats.map((one) => restarted(given.root, one)))
 }

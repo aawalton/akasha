@@ -1,7 +1,8 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
+import { DATA, INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { answeredWith, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { namedIn } from "akasha/commands/modules/seat-act-calling/seat-act-calling.module.code.ts"
 import { told } from "akasha/git/running/git-running.module.code.ts"
 import { valueAt, valueIn } from "akasha/pages/value/page-value.module.code.ts"
@@ -40,7 +41,7 @@ export async function seatSupervisorStop(argv: readonly string[], given: Given):
   if (stray.length > 0) {
     return refused(
       `\`${given.calledAs}\` takes \`${FORCE}\` and nothing else, and ${namesDrawn(stray)} followed it`,
-      1
+      INPUT
     )
   }
   const page = seatPathForName(named.name)
@@ -53,7 +54,7 @@ export async function seatSupervisorStop(argv: readonly string[], given: Given):
     if (held === null) {
       return refused(
         `no seat named \`${named.name}\` holds a page under \`${given.root}\`, so there is nothing to stop`,
-        2
+        DATA
       )
     }
     value = valueIn(held)
@@ -62,10 +63,10 @@ export async function seatSupervisorStop(argv: readonly string[], given: Given):
   if (agentId === null || agentId === "") {
     return refused(
       `the page for \`${named.name}\` states no id, and a seat's id is its agent's id, so nothing here says which processes are its own`,
-      2
+      DATA
     )
   }
   const said = await stopping(given, agentId, named.name, flags.includes(FORCE))
-  if ("refused" in said) return refused(said.refused, 1)
-  return { report: [...said.stopped.moved, saidOf(said.stopped)], refusals: [], code: 0 }
+  if ("refused" in said) return refused(said.refused, INPUT)
+  return answeredWith([...said.stopped.moved, saidOf(said.stopped)], [], OK)
 }
