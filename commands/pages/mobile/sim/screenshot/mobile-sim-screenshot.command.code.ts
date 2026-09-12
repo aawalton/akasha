@@ -1,34 +1,24 @@
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { screenshot } from "akasha/alan/harness/mobile-cli/appium-client/appium-client.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { output } from "akasha/commands/arguments/pages/output.argument.ts"
 import {
   answering,
-  flagsAloneIn,
   refusedBy,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import {
-  driving,
-  type Reading,
-  wordsIn,
-} from "akasha/commands/pages/mobile/mobile-answering/mobile-answering.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { driving } from "akasha/commands/pages/mobile/mobile-answering/mobile-answering.module.code.ts"
+import { mobileSimScreenshot as page } from "akasha/commands/pages/mobile/sim/screenshot/mobile-sim-screenshot.command.ts"
 import { SCRATCH_AT } from "akasha/utils/fs/scratching/scratching.module.code.ts"
-
-const OUTPUT = "--output"
-
-const VALUED = [OUTPUT]
 
 export type Read = {
   readonly output: string
 }
 
-export function readIn(argv: readonly string[], nowMs: number): Reading<Read> {
-  const said = wordsIn(argv, VALUED, [])
-  if ("refused" in said) return said
-  const loose = flagsAloneIn(said)
-  if (loose.length > 0) return { refused: loose }
-  return { output: said.named[OUTPUT] ?? join(SCRATCH_AT, `mobile-sim-${nowMs}.png`) }
+export function pathIn(said: string | undefined, nowMs: number): string {
+  return said ?? join(SCRATCH_AT, `mobile-sim-${nowMs}.png`)
 }
 
 export type Picturing = (done: string[], read: Read) => Promise<Answer>
@@ -42,9 +32,11 @@ async function pictured(done: string[], read: Read): Promise<Answer> {
 
 export async function mobileSimScreenshot(
   argv: readonly string[],
+  given: Given,
   picturing: Picturing = pictured
 ): Promise<Answer> {
-  const read = readIn(argv, Date.now())
+  const read = takenFor(argv, given.calledAs, page, [output])
   if ("refused" in read) return refusedBy(read.refused)
-  return await answering(async (done) => await picturing(done, read))
+  const held: Read = { output: pathIn(read.taken.output, Date.now()) }
+  return await answering(async (done) => await picturing(done, held))
 }
