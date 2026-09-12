@@ -6,10 +6,7 @@ export const imessageContactList = {
   slug: "imessage-contact-list",
   definition: "the command naming the address book contacts whose name has a run of letters",
   code: "ts",
-  taking: [
-    { said: "--query <name>", takes: "the run of letters a contact's name must hold" },
-    { said: "<name>", takes: "the same run of letters, said as a word rather than at its flag" },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -38,5 +35,8 @@ export const imessageContactList = {
     },
   ],
   name: "contact-list",
-  arguments: [{ argument: "argument/json" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/contact-query", saidAs: "flag-or-word" },
+  ],
 } as const satisfies Command
