@@ -226,7 +226,7 @@ export function builtIn(
   piping: Piping,
   kind: Kind | null
 ): Built | Answer {
-  const unknown = unknownIn(argv, VALUED, BARE)
+  const unknown = unknownIn(argv, VALUED, BARE, given.calledAs)
   if (unknown.length > 0) return mistaking(unknown)
   const read = readIn(argv)
   if (read.refusals.length > 0) return mistaking(read.refusals)

@@ -23,7 +23,7 @@ const MEASURE = "measure"
 
 const TRUE = "true"
 
-export const CHOSEN: Chosen = {
+export const CHOSEN: Omit<Chosen, "calledAs"> = {
   said: APPLIES,
   drafts: false,
   barred: ["draft"],
@@ -42,5 +42,8 @@ export async function changeApply(argv: readonly string[], given: Given): Promis
     if (measure) taken[MEASURE] = TRUE
     return await applyWith(taken, given)
   }
-  return await changing(given.root, page, given.agentId, argv, inputIn, loadedAt, landing, CHOSEN)
+  return await changing(given.root, page, given.agentId, argv, inputIn, loadedAt, landing, {
+    ...CHOSEN,
+    calledAs: given.calledAs,
+  })
 }

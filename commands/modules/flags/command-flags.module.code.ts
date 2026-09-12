@@ -1,4 +1,5 @@
 import { textAt } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 import { meantSaid } from "akasha/utils/text/suggest-closest/suggest-closest.module.code.ts"
 
 export const BREAK_GLASS = "--break-the-glass"
@@ -33,12 +34,19 @@ export function valuesOf(
   return found
 }
 
+function takesSaid(calledAs: string, every: readonly string[]): string {
+  const takes = every.length === 0 ? "no flag at all" : namesDrawn(every)
+  return `\`${calledAs}\` takes ${takes}.`
+}
+
 export function unknownIn(
   argv: readonly string[],
   valued: readonly string[],
-  bare: readonly string[]
+  bare: readonly string[],
+  calledAs: string
 ): readonly string[] {
   const every = [...valued, ...bare]
+  const takes = takesSaid(calledAs, every)
   const said: string[] = []
   for (let at = 0; at < argv.length; at += 1) {
     const one = argv[at]
@@ -48,7 +56,7 @@ export function unknownIn(
       continue
     }
     if (bare.includes(one)) continue
-    said.push(`\`${one}\` is no flag this takes.${meantSaid(one, every)}`)
+    said.push(`\`${one}\` is no flag this takes.${meantSaid(one, every)} ${takes}`)
   }
   return said
 }

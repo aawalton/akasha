@@ -86,6 +86,7 @@ export const CHOSEN: Chosen = {
   drafts: null,
   barred: [],
   slug: DRAFT_SLUG,
+  calledAs: "akasha change",
 }
 
 let given: Readonly<Record<string, string>> = {}

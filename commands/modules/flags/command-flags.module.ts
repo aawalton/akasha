@@ -43,6 +43,14 @@ export const commandFlags = {
     },
     {
       invariantKind: "departure",
+      statement: "That refusal names the call as it was made and every flag that call takes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call handed no spelling at all is refused saying it takes no flag.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A message is read from the command line or from a file.",
     },
     {

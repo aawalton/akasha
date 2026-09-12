@@ -15,7 +15,7 @@ const DRAFTS = "draft"
 
 const LANDS = "a draft lands nothing, so no message is composed and none is taken"
 
-export const CHOSEN: Chosen = {
+export const CHOSEN: Omit<Chosen, "calledAs"> = {
   said: DRAFTS,
   drafts: true,
   barred: ["draft", "message", "measure"],
@@ -31,5 +31,8 @@ export async function changeDraft(argv: readonly string[], given: Given): Promis
   if (page === null || editsAt(page) === null) {
     return mistaking([noPageSaid(given.root, given.agentId)])
   }
-  return await changing(given.root, page, given.agentId, argv, inputIn, loadedAt, nothing, CHOSEN)
+  return await changing(given.root, page, given.agentId, argv, inputIn, loadedAt, nothing, {
+    ...CHOSEN,
+    calledAs: given.calledAs,
+  })
 }

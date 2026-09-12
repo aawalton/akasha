@@ -14,6 +14,8 @@ import {
 
 const VALUED = [FILE_PATH, CONTENT_FILE, REMOVE, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
+const CALLED = "akasha held"
+
 function refusedBy(said: { readonly refusals: readonly string[] } | object): string {
   return "refusals" in said ? said.refusals.join("\n") : ""
 }
@@ -35,19 +37,28 @@ test("the value of one flag is not read as another flag", () => {
   expect(valuesOf([MESSAGE, REMOVE, REMOVE, "one"], REMOVE, VALUED)).toEqual(["one"])
 })
 
-test("a flag this does not take is refused rather than ignored", () => {
-  expect(unknownIn(["--mechanical"], VALUED, [])).toEqual(["`--mechanical` is no flag this takes."])
-})
-
-test("a flag near one handed in is refused with that flag pointed at", () => {
-  expect(unknownIn(["--file-paths"], VALUED, [])).toEqual([
-    "`--file-paths` is no flag this takes. Did you mean `--file-path`?",
+test("a flag this does not take is refused naming the call and every flag it takes", () => {
+  expect(unknownIn(["--mechanical"], VALUED, [], CALLED)).toEqual([
+    "`--mechanical` is no flag this takes. `akasha held` takes `--file-path`, `--content-file`," +
+      " `--remove`, `--message`, `--message-file`, `--break-the-glass`.",
   ])
 })
 
+test("a call handed no spelling at all is refused saying it takes no flag", () => {
+  expect(unknownIn([FILE_PATH], [], [], CALLED)).toEqual([
+    "`--file-path` is no flag this takes. `akasha held` takes no flag at all.",
+  ])
+})
+
+test("a flag near one handed in is refused with that flag pointed at", () => {
+  expect(unknownIn(["--file-paths"], VALUED, [], CALLED)[0] ?? "").toContain(
+    "is no flag this takes. Did you mean `--file-path`?"
+  )
+})
+
 test("a flag the caller says carries no value is taken", () => {
-  expect(unknownIn(["--restated"], VALUED, ["--restated"])).toEqual([])
-  expect(unknownIn([MESSAGE, "--restated"], VALUED, [])).toEqual([])
+  expect(unknownIn(["--restated"], VALUED, ["--restated"], CALLED)).toEqual([])
+  expect(unknownIn([MESSAGE, "--restated"], VALUED, [], CALLED)).toEqual([])
 })
 
 test("breaking the glass with no reason is refused", () => {

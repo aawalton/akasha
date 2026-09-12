@@ -121,6 +121,14 @@ export const changeRunning = {
     },
     {
       invariantKind: "departure",
+      statement: "A flag said on the command line is refused naming the call as it was made.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That call is handed in by the caller rather than spelled here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run keeping its edits names where they are kept and the apply landing them.",
     },
     {

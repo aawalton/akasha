@@ -70,6 +70,10 @@ export const fileArguing = {
     },
     {
       invariantKind: "departure",
+      statement: "A flag this takes no spelling of is refused naming the call and what it takes.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The readings the writer owes are answered as faults of the call.",
     },
     {

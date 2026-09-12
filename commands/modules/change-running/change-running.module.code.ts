@@ -338,6 +338,7 @@ export type Chosen = {
   readonly drafts: boolean | null
   readonly barred: readonly string[]
   readonly slug: string
+  readonly calledAs: string
 }
 
 export function barredIn(given: Arguments, chosen: Chosen): readonly string[] {
@@ -362,7 +363,7 @@ export async function changing(
   if (slug === undefined) {
     return mistaking([`no change is named, and this runs one of ${runsSaid(world)}`])
   }
-  const unknown = unknownIn(argv.slice(1), BARE, BARE)
+  const unknown = unknownIn(argv.slice(1), BARE, BARE, chosen.calledAs)
   if (unknown.length > 0) return mistaking(unknown)
   const said = argumentsIn(piping)
   if (typeof said === "string") return mistaking([said])
