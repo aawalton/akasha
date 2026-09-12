@@ -1,8 +1,3 @@
-import {
-  refreshAllItemSets,
-  updateItemSet,
-} from "akasha/temper/characters-addon/characters-item-sets/characters-item-sets.module.code.ts"
-import { updateLoreBook } from "akasha/temper/characters-addon/characters-lore-library/characters-lore-library.module.code.ts"
 import { updateQuest } from "akasha/temper/characters-addon/characters-quests/characters-quests.module.code.ts"
 import {
   refreshAllRecipes,
@@ -23,6 +18,11 @@ import {
 import { collectCadwell } from "akasha/temper/characters-addon/modules/characters-cadwell/characters-cadwell.module.code.ts"
 import { currentCharacterEntry } from "akasha/temper/characters-addon/modules/characters-current-entry/characters-current-entry.module.code.ts"
 import { reconcileDailyWritStates } from "akasha/temper/characters-addon/modules/characters-daily-writs/characters-daily-writs.module.code.ts"
+import {
+  refreshAllItemSets,
+  updateItemSet,
+} from "akasha/temper/characters-addon/modules/characters-item-sets/characters-item-sets.module.code.ts"
+import { updateLoreBook } from "akasha/temper/characters-addon/modules/characters-lore-library/characters-lore-library.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/player-completion-state/completion-addon-constants/completion-addon-constants.module.code.ts"
 
 const TRAIT_RESEARCH_EVENTS = [

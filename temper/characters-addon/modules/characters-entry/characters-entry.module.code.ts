@@ -5,11 +5,6 @@ import {
   finishPerfTrace,
   startPerfTrace,
 } from "akasha/temper/capture-perf/perf-trace/perf-trace.module.code.ts"
-import { collectItemSets } from "akasha/temper/characters-addon/characters-item-sets/characters-item-sets.module.code.ts"
-import { saveCharacterList } from "akasha/temper/characters-addon/characters-list/characters-list.module.code.ts"
-import { collectLoreLibrary } from "akasha/temper/characters-addon/characters-lore-library/characters-lore-library.module.code.ts"
-import { runMigrations } from "akasha/temper/characters-addon/characters-migrations/characters-migrations.module.code.ts"
-import { collectMountTraining } from "akasha/temper/characters-addon/characters-mount-training/characters-mount-training.module.code.ts"
 import { captureAndSaveCharacterStats } from "akasha/temper/characters-addon/characters-player-stats/characters-player-stats.module.code.ts"
 import { collectPointsOfInterest } from "akasha/temper/characters-addon/characters-points-of-interest/characters-points-of-interest.module.code.ts"
 import { collectQuests } from "akasha/temper/characters-addon/characters-quests/characters-quests.module.code.ts"
@@ -45,6 +40,11 @@ import { registerBuildEvents } from "akasha/temper/characters-addon/modules/char
 import { registerCompletionKnowledgeEvents } from "akasha/temper/characters-addon/modules/characters-events-knowledge/characters-events-knowledge.module.code.ts"
 import { registerCompletionWorldEvents } from "akasha/temper/characters-addon/modules/characters-events-world/characters-events-world.module.code.ts"
 import { registerHirelingMailSubscriber } from "akasha/temper/characters-addon/modules/characters-hireling-mail-subscriber/characters-hireling-mail-subscriber.module.code.ts"
+import { collectItemSets } from "akasha/temper/characters-addon/modules/characters-item-sets/characters-item-sets.module.code.ts"
+import { saveCharacterList } from "akasha/temper/characters-addon/modules/characters-list/characters-list.module.code.ts"
+import { collectLoreLibrary } from "akasha/temper/characters-addon/modules/characters-lore-library/characters-lore-library.module.code.ts"
+import { runMigrations } from "akasha/temper/characters-addon/modules/characters-migrations/characters-migrations.module.code.ts"
+import { collectMountTraining } from "akasha/temper/characters-addon/modules/characters-mount-training/characters-mount-training.module.code.ts"
 import {
   saveAccountSkillMorphProgress,
   saveSkillMorphProgress,

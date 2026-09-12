@@ -1,7 +1,3 @@
-import { refreshAllItemSets } from "akasha/temper/characters-addon/characters-item-sets/characters-item-sets.module.code.ts"
-import { saveCharacterList } from "akasha/temper/characters-addon/characters-list/characters-list.module.code.ts"
-import { collectLoreLibrary } from "akasha/temper/characters-addon/characters-lore-library/characters-lore-library.module.code.ts"
-import { collectMountTraining } from "akasha/temper/characters-addon/characters-mount-training/characters-mount-training.module.code.ts"
 import { captureAndSaveCharacterStats } from "akasha/temper/characters-addon/characters-player-stats/characters-player-stats.module.code.ts"
 import { collectPointsOfInterest } from "akasha/temper/characters-addon/characters-points-of-interest/characters-points-of-interest.module.code.ts"
 import { collectQuests } from "akasha/temper/characters-addon/characters-quests/characters-quests.module.code.ts"
@@ -25,6 +21,10 @@ import { collectCadwell } from "akasha/temper/characters-addon/modules/character
 import { refreshAllCollectibles } from "akasha/temper/characters-addon/modules/characters-collectibles/characters-collectibles.module.code.ts"
 import { getCharactersConfig } from "akasha/temper/characters-addon/modules/characters-config/characters-config.module.code.ts"
 import { currentCharacterEntry } from "akasha/temper/characters-addon/modules/characters-current-entry/characters-current-entry.module.code.ts"
+import { refreshAllItemSets } from "akasha/temper/characters-addon/modules/characters-item-sets/characters-item-sets.module.code.ts"
+import { saveCharacterList } from "akasha/temper/characters-addon/modules/characters-list/characters-list.module.code.ts"
+import { collectLoreLibrary } from "akasha/temper/characters-addon/modules/characters-lore-library/characters-lore-library.module.code.ts"
+import { collectMountTraining } from "akasha/temper/characters-addon/modules/characters-mount-training/characters-mount-training.module.code.ts"
 import {
   saveAccountSkillMorphProgress,
   saveSkillMorphProgress,

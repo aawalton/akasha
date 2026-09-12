@@ -1,4 +1,3 @@
-import { collectMountTraining } from "akasha/temper/characters-addon/characters-mount-training/characters-mount-training.module.code.ts"
 import {
   collectPointsOfInterest,
   updatePointOfInterest,
@@ -26,6 +25,7 @@ import {
   recordDailyWritCompletion,
 } from "akasha/temper/characters-addon/modules/characters-daily-writs/characters-daily-writs.module.code.ts"
 import { collectGrandMasterStations } from "akasha/temper/characters-addon/modules/characters-grand-master-stations/characters-grand-master-stations.module.code.ts"
+import { collectMountTraining } from "akasha/temper/characters-addon/modules/characters-mount-training/characters-mount-training.module.code.ts"
 import { getEsoDayStringFromSec } from "akasha/temper/dungeons/eso-reset/eso-reset.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/player-completion-state/completion-addon-constants/completion-addon-constants.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"

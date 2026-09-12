@@ -1,4 +1,4 @@
-import { mergeByKey } from "akasha/temper/characters-addon/characters-keyed-merge/characters-keyed-merge.module.code.ts"
+import { mergeByKey } from "akasha/temper/characters-addon/modules/characters-keyed-merge/characters-keyed-merge.module.code.ts"
 
 export function mergeIdList(
   stored: readonly number[] | undefined,
