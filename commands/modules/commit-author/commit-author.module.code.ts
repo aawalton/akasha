@@ -1,9 +1,9 @@
 import { writerIn } from "akasha/agents/read-record/read-record.module.code.ts"
+import { seat } from "akasha/agents/seats/seat.page-type.ts"
 import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { slugOf } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { displayNameOf, personaAt } from "akasha/personas/reading/persona-reading.module.code.ts"
 import { pageTextOf } from "akasha/seat-system/seat-page-values/seat-page-values.module.code.ts"
-import { seat } from "akasha/seat-system/seats/seat.page-type.ts"
 
 const PERSONA_SLUG_KEY = "persona-slug"
 

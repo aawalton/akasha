@@ -48,7 +48,7 @@ export const PROPOSED = "proposed\n"
 
 export const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
 
-export const SEAT_AT = "akasha/seat-system/seats/pages/tester.seat.ts"
+export const SEAT_AT = "akasha/agents/seats/pages/tester.seat.ts"
 
 const CHECK = "code-check"
 

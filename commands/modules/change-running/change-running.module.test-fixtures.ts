@@ -31,7 +31,7 @@ import {
   pageOf,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 
-export const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"
+export const PAGE = "akasha/agents/seats/pages/tester.seat.ts"
 
 export const MISSING = "akasha/one/missing.module.ts"
 

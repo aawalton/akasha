@@ -21,7 +21,7 @@ const RUNS: Reaching = (world, at, given) => {
   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
 }
 
-const AT = "seat-system/seats/pages/held.seat.ts"
+const AT = "agents/seats/pages/held.seat.ts"
 
 const TEXT_PROPERTY = "text-property"
 

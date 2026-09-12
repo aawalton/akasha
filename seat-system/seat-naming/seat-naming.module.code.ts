@@ -1,5 +1,5 @@
+import { seat } from "akasha/agents/seats/seat.page-type.ts"
 import { slugOf } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import { seat } from "akasha/seat-system/seats/seat.page-type.ts"
 import { firstCapture } from "akasha/utils/narrow/first-capture/first-capture.module.code.ts"
 import { stated } from "akasha/utils/narrow/stated/stated.module.code.ts"
 

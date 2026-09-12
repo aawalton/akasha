@@ -1,3 +1,4 @@
+import type { Role } from "akasha/agents/seats/properties/role.relation-property.types.ts"
 import type { PointsBeforeToday } from "akasha/alan/attributes/properties/points-before-today.number-property.types.ts"
 import type { PointsToday } from "akasha/alan/attributes/properties/points-today.number-property.types.ts"
 import type { PointsTotal } from "akasha/alan/attributes/properties/points-total.number-property.types.ts"
@@ -18,7 +19,6 @@ import type { ValueSlug } from "akasha/personas/properties/value-slug.text-prope
 import type { VoiceInstruction } from "akasha/personas/properties/voice-instruction.text-property.types.ts"
 import type { VoiceReferenceSha256 } from "akasha/personas/properties/voice-reference-sha256.text-property.types.ts"
 import type { Phone } from "akasha/persons/properties/phone.phone-number-property.types.ts"
-import type { Role } from "akasha/seat-system/seats/properties/role.relation-property.types.ts"
 
 export type Persona = Domain & {
   purpose?: Purpose

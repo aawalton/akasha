@@ -77,7 +77,7 @@ test("each row carries the seat's page beside what the seat itself is doing", ()
         [BOREA.id]: { state: "idle-pending", waitingOn: "a subagent" },
       },
       { working: "green", "idle-pending": "yellow" },
-      { [ASTRA.id]: "akasha/seat-system/seats/pages/astra.seat.ts" }
+      { [ASTRA.id]: "akasha/agents/seats/pages/astra.seat.ts" }
     )
   )
 
@@ -86,7 +86,7 @@ test("each row carries the seat's page beside what the seat itself is doing", ()
     state: "working",
     waitingOn: null,
     color: "green",
-    at: "akasha/seat-system/seats/pages/astra.seat.ts",
+    at: "akasha/agents/seats/pages/astra.seat.ts",
   })
   expect(said.rows[1]).toEqual({
     ...BOREA,

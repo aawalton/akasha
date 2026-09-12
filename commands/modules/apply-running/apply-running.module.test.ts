@@ -31,7 +31,7 @@ import { nothingFiled } from "akasha/pages/indexes/reading/index-reading.module.
 import { scratchWorld } from "akasha/utils/fs/scratching/scratching.module.code.ts"
 import { writing as putting } from "akasha/utils/fs/scratching/scratching.module.test-fixtures.ts"
 
-const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"
+const PAGE = "akasha/agents/seats/pages/tester.seat.ts"
 
 const ONE = "akasha/one.page.ts"
 

@@ -1,4 +1,4 @@
-import type { Seat } from "akasha/seat-system/seats/seat.page-type.types.ts"
+import type { Seat } from "akasha/agents/seats/seat.page-type.types.ts"
 
 export const ryn = {
   id: "01a09140-fee5-7000-b6cc-66e5ce9adce8",

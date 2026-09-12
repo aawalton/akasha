@@ -22,7 +22,7 @@ function payloadOf(said: Record<string, unknown>): string {
 
 function worldNaming(rootFor: (prefix: string) => string, path: string | null): string {
   const root = rootFor("state-subagent-")
-  if (path === null) pageFiled(root, ANOTHER, "akasha/seat-system/seats/pages/thea.seat.ts")
+  if (path === null) pageFiled(root, ANOTHER, "akasha/agents/seats/pages/thea.seat.ts")
   else pageFiled(root, SEAT, path)
   return root
 }
@@ -77,7 +77,7 @@ test("a seat the index carries no page for asks for nothing", () => {
 test("a call under no seat asks for nothing", () => {
   const world = scratchWorld()
   try {
-    const root = worldNaming(world.rootFor, "akasha/seat-system/seats/pages/akasha.seat.ts")
+    const root = worldNaming(world.rootFor, "akasha/agents/seats/pages/akasha.seat.ts")
     const raw = payloadOf({ hook_event_name: "SubagentStop", agent_id: OWN })
     expect(askedOf({}, raw, root)).toBe(null)
   } finally {
@@ -88,7 +88,7 @@ test("a call under no seat asks for nothing", () => {
 test("a stop under a named seat asks for the page to go", () => {
   const world = scratchWorld()
   try {
-    const root = worldNaming(world.rootFor, "akasha/seat-system/seats/pages/akasha.seat.ts")
+    const root = worldNaming(world.rootFor, "akasha/agents/seats/pages/akasha.seat.ts")
     const raw = payloadOf({ hook_event_name: "SubagentStop", agent_id: OWN })
     expect(askedOf(SEATED, raw, root)).toEqual({
       seatName: "akasha",
@@ -103,7 +103,7 @@ test("a stop under a named seat asks for the page to go", () => {
 test("a start under a named seat carries the seat's id rather than its name alone", () => {
   const world = scratchWorld()
   try {
-    const root = worldNaming(world.rootFor, "akasha/seat-system/seats/pages/akasha.seat.ts")
+    const root = worldNaming(world.rootFor, "akasha/agents/seats/pages/akasha.seat.ts")
     const raw = payloadOf({
       hook_event_name: "SubagentStart",
       agent_id: OWN,

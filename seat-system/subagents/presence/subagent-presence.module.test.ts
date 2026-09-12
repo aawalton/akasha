@@ -153,21 +153,21 @@ test("a page takes the assignment from the page its seat is at", () => {
 
 test("a seat the index carries no page for is assigned nothing", () => {
   inScratch((root) => {
-    pageFiled(root, ANOTHER, "akasha/seat-system/seats/pages/thea.seat.ts")
+    pageFiled(root, ANOTHER, "akasha/agents/seats/pages/thea.seat.ts")
     expect(assignedTo(root, "akasha")).toBe(null)
   })
 })
 
 test("a seat is named by the page the index carries for its id", () => {
   inScratch((root) => {
-    pageFiled(root, SEAT_ID, "akasha/seat-system/seats/pages/akasha.seat.ts")
+    pageFiled(root, SEAT_ID, "akasha/agents/seats/pages/akasha.seat.ts")
     expect(seatNamedIn(root, SEAT_ID)).toBe("akasha")
   })
 })
 
 test("a seat the index carries no page for is named by nothing", () => {
   inScratch((root) => {
-    pageFiled(root, ANOTHER, "akasha/seat-system/seats/pages/thea.seat.ts")
+    pageFiled(root, ANOTHER, "akasha/agents/seats/pages/thea.seat.ts")
     expect(seatNamedIn(root, SEAT_ID)).toBe(null)
   })
 })

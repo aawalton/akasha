@@ -76,7 +76,7 @@ export function givenFor(root: string) {
 
 export const bodyOf = bytesOf
 
-export const SEAT_PAGE = "seat-system/seats/pages/held.seat.ts"
+export const SEAT_PAGE = "agents/seats/pages/held.seat.ts"
 
 export const BIN = "akasha/one/held.bin"
 

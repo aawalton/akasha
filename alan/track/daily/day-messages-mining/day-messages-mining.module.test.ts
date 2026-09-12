@@ -39,7 +39,7 @@ const QUOTED =
 
 const ANSWERED =
   '{"type":"user","message":{"role":"user","content":[{"type":"tool_result","content":' +
-  '"seat-system/seats/pages/thea.seat.ts — the whole file follows, 15 lines"}]}}'
+  '"agents/seats/pages/thea.seat.ts — the whole file follows, 15 lines"}]}}'
 
 const EMPTY: Transcript = { named: null, seatPage: null, greeted: null, wrote: [] }
 
@@ -56,7 +56,7 @@ test("the seat page a read answered with names the seat", () => {
 })
 
 test("a seat page no read answered with names no seat", () => {
-  expect(seatPageIn("open seat-system/seats/pages/thea.seat.ts and look")).toBeNull()
+  expect(seatPageIn("open agents/seats/pages/thea.seat.ts and look")).toBeNull()
 })
 
 test("the name Alan greeted is read off what he wrote", () => {

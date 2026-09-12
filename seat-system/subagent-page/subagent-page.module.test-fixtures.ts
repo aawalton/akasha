@@ -31,7 +31,7 @@ export const HELD_ASSIGNMENT = "domain/held-before"
 
 const TREE = "akasha"
 
-const SEAT_AT = "seat-system/seats/pages/akasha.seat.ts"
+const SEAT_AT = "agents/seats/pages/akasha.seat.ts"
 
 const SEAT_BODY = `export const akasha = { assignmentSlug: "domain/akasha-system" }\n`
 

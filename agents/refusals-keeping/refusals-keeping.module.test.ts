@@ -26,8 +26,8 @@ const AT = "one/amy.seat.refusals.uncommitted.txt"
 const AUDITED_AT = "one/amy.seat.audit-refusals.uncommitted.txt"
 
 test("a seat's refusals are named beside that seat's page, outside the commit", () => {
-  expect(refusalsAt("seat-system/seats/pages/amy.seat.ts")).toBe(
-    "seat-system/seats/pages/amy.seat.refusals.uncommitted.txt"
+  expect(refusalsAt("agents/seats/pages/amy.seat.ts")).toBe(
+    "agents/seats/pages/amy.seat.refusals.uncommitted.txt"
   )
 })
 

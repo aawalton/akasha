@@ -4,6 +4,8 @@ import {
   refusalsAt,
   refusalsKept,
 } from "akasha/agents/refusals-keeping/refusals-keeping.module.code.ts"
+import { subagentEdits } from "akasha/agents/seats/properties/subagent-edits.file-property.ts"
+import { subagentRefusals } from "akasha/agents/seats/properties/subagent-refusals.file-property.ts"
 import {
   droppedAll,
   linesIn,
@@ -11,8 +13,6 @@ import {
 import { exclusively } from "akasha/files/exclusive/exclusive.module.code.ts"
 import { partedIn, uncommittedBesideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { partFiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
-import { subagentEdits } from "akasha/seat-system/seats/properties/subagent-edits.file-property.ts"
-import { subagentRefusals } from "akasha/seat-system/seats/properties/subagent-refusals.file-property.ts"
 
 const EDITS_HELD = "jsonl"
 

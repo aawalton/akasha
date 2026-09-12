@@ -88,7 +88,7 @@ test("a restart that threw before a seat was signalled names none", async () => 
 })
 
 test("a name is read off the page path", () => {
-  expect(nameOf("seat-system/seats/pages/athena.seat.ts")).toBe("athena")
+  expect(nameOf("agents/seats/pages/athena.seat.ts")).toBe("athena")
 })
 
 test("a process is its pid and the start time joined by a hyphen", () => {

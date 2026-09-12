@@ -220,7 +220,7 @@ test("a landing answering something wrong leaves the reading where it is", async
   world.sweep()
 })
 
-const SEAT_AT = "seat-system/seats/pages/tester/tester.seat.ts"
+const SEAT_AT = "agents/seats/pages/tester/tester.seat.ts"
 
 const UNDER_AT = "seat-system/subagents/pages/tester-abc/tester-abc.subagent.ts"
 
@@ -247,7 +247,7 @@ test("the seat keeps what moved beside its own page", () => {
   appendEdits(root, UNDER_AT, [ROW])
   moving(givenIn(root), SEAT_AT, UNDER)
   const at = seatEditsAt(SEAT_AT)
-  expect(at).toBe("seat-system/seats/pages/tester/tester.seat.subagent-edits.uncommitted.jsonl")
+  expect(at).toBe("agents/seats/pages/tester/tester.seat.subagent-edits.uncommitted.jsonl")
   expect(readFileSync(join(root, at ?? ""), "utf8")).toBe(`${JSON.stringify(ROW)}\n`)
   world.sweep()
 })

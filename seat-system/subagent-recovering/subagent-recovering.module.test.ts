@@ -21,7 +21,7 @@ import {
 
 afterAll(scratch.sweep)
 
-const SEAT = "seat-system/seats/pages/tester/tester.seat.ts"
+const SEAT = "agents/seats/pages/tester/tester.seat.ts"
 
 const UNDER = "seat-system/subagents/pages/tester-abc/tester-abc.subagent.ts"
 
@@ -122,10 +122,10 @@ test("a subagent's slug is read off its page rather than handed in", () => {
 
 test("the seat keeps each kind beside its own page under the name its property states", () => {
   expect(seatEditsAt(SEAT)).toBe(
-    "seat-system/seats/pages/tester/tester.seat.subagent-edits.uncommitted.jsonl"
+    "agents/seats/pages/tester/tester.seat.subagent-edits.uncommitted.jsonl"
   )
   expect(seatRefusalsAt(SEAT)).toBe(
-    "seat-system/seats/pages/tester/tester.seat.subagent-refusals.uncommitted.txt"
+    "agents/seats/pages/tester/tester.seat.subagent-refusals.uncommitted.txt"
   )
 })
 

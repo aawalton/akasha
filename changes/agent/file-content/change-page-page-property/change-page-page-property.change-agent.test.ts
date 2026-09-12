@@ -27,7 +27,7 @@ const RUNS: Reaching = async (world, at, given) => {
   return refusing(`\`${at}\` is reached by nothing here`)
 }
 
-const AT = "seat-system/seats/pages/held.seat.ts"
+const AT = "agents/seats/pages/held.seat.ts"
 
 const ID = "01a072c8-f35d-7ffc-afc3-75b72460b059"
 
