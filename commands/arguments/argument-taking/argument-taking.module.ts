@@ -136,5 +136,14 @@ export const argumentTaking = {
       statement:
         "How many times a call may say an argument is handed in rather than read off the argument.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "An argument page the code does not hand in is answered with no key rather than a refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The type a take answers is the one warning that an argument page was left out.",
+    },
   ],
 } as const satisfies Module
