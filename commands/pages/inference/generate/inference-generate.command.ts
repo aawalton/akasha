@@ -53,6 +53,10 @@ export const inferenceGenerate = {
     { argument: "argument/service" },
     { argument: "argument/guidance" },
     { argument: "argument/prompt-file" },
-    { argument: "argument/render-prompt", notWith: ["argument/prompt-file"] },
+    {
+      argument: "argument/render-prompt",
+      notWith: ["argument/prompt-file"],
+      oneOf: ["argument/prompt-file"],
+    },
   ],
 } as const satisfies Command
