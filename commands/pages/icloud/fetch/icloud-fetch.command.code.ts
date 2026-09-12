@@ -12,7 +12,7 @@ import {
   resolveOutputDir,
 } from "akasha/alan/harness/icloud-photos/album-pulling/album-pulling.module.code.ts"
 import {
-  codeOf,
+  answering,
   DATA,
   refusedBy,
   told,
@@ -138,13 +138,38 @@ async function everyAsset(raw: unknown): Promise<readonly PhotoAsset[]> {
   return assets
 }
 
+export type Target = {
+  readonly asset: { readonly downloadURL: string }
+  readonly path: string
+}
+
+export type Downloading = (url: string, at: string) => Promise<void>
+
+export function saidOf(path: string, json: boolean): string {
+  return json ? JSON.stringify({ path }) : `path\t${path}`
+}
+
+export async function wroteEach(
+  targets: readonly Target[],
+  json: boolean,
+  downloading: Downloading,
+  done: string[]
+): Promise<void> {
+  for (const target of targets) {
+    await downloading(target.asset.downloadURL, target.path)
+    done.push(saidOf(target.path, json))
+  }
+}
+
 async function fetching(
   read: {
     readonly said: ReadonlyMap<string, string>
     readonly json: boolean
   },
   root: string,
-  from: string
+  from: string,
+  downloading: Downloading,
+  done: string[]
 ): Promise<Answer> {
   const shareUrl = read.said.get(URL_FLAG) ?? ""
   const token = parseShareToken(shareUrl)
@@ -155,19 +180,16 @@ async function fetching(
   }
   const folder = folderOf(read.said.get(OUTPUT), root, from)
   await mkdir(folder, { recursive: true })
-  const targets = dedupePaths(assets, folder)
-  for (const target of targets) await downloadTo(target.asset.downloadURL, target.path)
-  return told(
-    targets.map((one) => (read.json ? JSON.stringify({ path: one.path }) : `path\t${one.path}`))
-  )
+  await wroteEach(dedupePaths(assets, folder), read.json, downloading, done)
+  return told(done)
 }
 
-export async function icloudFetch(argv: readonly string[], given: Given): Promise<Answer> {
+export async function icloudFetch(
+  argv: readonly string[],
+  given: Given,
+  downloading: Downloading = downloadTo
+): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) return refusedBy(read.refused)
-  try {
-    return await fetching(read, given.root, given.from)
-  } catch (thrown) {
-    return refusedBy([`${given.calledAs} — ${whyOf(thrown)}`], codeOf(thrown))
-  }
+  return await answering(async (done) => fetching(read, given.root, given.from, downloading, done))
 }

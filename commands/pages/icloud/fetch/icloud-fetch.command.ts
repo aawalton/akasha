@@ -59,6 +59,18 @@ export const icloudFetch = {
       statement: "A response iCloud could not be read from is answered as operational.",
     },
     {
+      invariantKind: "departure",
+      statement: "Each photo is named as soon as that photo reaches the disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call that threw part way names those photos in its refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The downloading this runs is handed in.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here has an Apple credential.",
     },
