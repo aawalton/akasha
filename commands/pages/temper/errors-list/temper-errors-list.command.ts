@@ -17,14 +17,12 @@ export const temperErrorsList = {
       takes: "how far behind the log frontier an entry is before it counts as stale",
     },
   ],
-  helpNotes: [
-    "an entry more than the stale window behind the newest log line is residue from a session already gone.",
-    "such an entry is left out unless `--include-stale` is said, and shown with its liveness where it is.",
-    "how many stale entries were left out is said whether or not any were shown.",
-    "the path defaults to the errors addon's saved variables in the workstation's live game install.",
-    "a capture holding no entry at all is refused, since a clean run and an unread one read alike.",
-  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "A call naming no path reads the errors addon's capture in the game's live saved variables.",
+    },
     {
       invariantKind: "departure",
       statement:
