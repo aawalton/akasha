@@ -61,7 +61,6 @@ export const emailMessageSend = {
   arguments: [
     { argument: "argument/subject-file" },
     { argument: "argument/body-file" },
-    { argument: "argument/cc" },
     { argument: "argument/bcc" },
     { argument: "argument/subject" },
     { argument: "argument/body" },
@@ -69,5 +68,6 @@ export const emailMessageSend = {
     { argument: "argument/thread" },
     { argument: "argument/reply-to-message" },
     { argument: "argument/send-as" },
+    { argument: "argument/cc", repeats: true },
   ],
 } as const satisfies Command

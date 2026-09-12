@@ -8,5 +8,4 @@ export const cc = {
   takes: "who is copied, said again or parted by commas",
   value: "text",
   placeholder: "addr,..",
-  repeats: true,
 } as const satisfies Argument
