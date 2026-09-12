@@ -229,6 +229,10 @@ export function takingIn(
       continue
     }
     if (inline !== undefined) {
+      if (inline === "") {
+        state.refusals.push(`\`${named}\` takes a value, and \`${word}\` names none`)
+        continue
+      }
       filling(state, held, inline, false)
       continue
     }

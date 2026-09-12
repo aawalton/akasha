@@ -221,8 +221,8 @@ test("a value opening with two dashes is handed to a flag written with an equals
   expect(taken(["--node=--weird"], [NODE])).toEqual({ node: "--weird" })
 })
 
-test("a value written after the equals may be empty", () => {
-  expect(taken(["--node="], [NODE])).toEqual({ node: "" })
+test("a flag written with an equals and nothing after it is refused", () => {
+  expect(refusals(["--node="], [NODE])[0]).toBe("`--node` takes a value, and `--node=` names none")
 })
 
 test("an argument carrying no value is refused where a call writes an equals after it", () => {

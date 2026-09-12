@@ -231,6 +231,11 @@ export const argumentTaking = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "An argument said with an equals and nothing after it is refused rather than carrying nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A value opening with two dashes is handed to a flag written with an equals.",
     },
     {
