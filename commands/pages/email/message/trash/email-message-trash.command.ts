@@ -6,6 +6,7 @@ export const emailMessageTrash = {
   slug: "email-message-trash",
   definition: "the command moving one Gmail message to Trash",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
