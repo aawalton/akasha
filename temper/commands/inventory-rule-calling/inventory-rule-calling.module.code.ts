@@ -7,6 +7,7 @@ import {
 import { force as forceArgument } from "akasha/commands/arguments/pages/force.argument.ts"
 import {
   answering,
+  asIndentedJson,
   DATA,
   INPUT,
   refused,
@@ -14,10 +15,7 @@ import {
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import {
-  emitJson,
-  emitTsv,
-} from "akasha/temper/commands/format-output/format-output.module.code.ts"
+import { emitTsv } from "akasha/temper/commands/format-output/format-output.module.code.ts"
 import {
   BUY_RULE_COLUMNS,
   ITEM_RULE_COLUMNS,
@@ -172,7 +170,7 @@ export async function shownRule(kind: Kind, id: string, asTsv: boolean): Promise
   }
   if (found === undefined) return unfound(kind, id)
   if (asTsv) return toldRows([kindly.rowOf(found)], kindly.columns)
-  return told(emitJson(found).split("\n"))
+  return asIndentedJson(found)
 }
 
 export type Writing = {
@@ -198,7 +196,7 @@ export async function lockedRule(
   const next = kindly.locking(settings, id, on)
   await writing.write(next)
   done.push(wroteSaid(kind, id, on ? "locked" : "unlocked"))
-  return told(emitJson(kindly.heldIn(next).find((one) => one.id === id) ?? found).split("\n"))
+  return asIndentedJson(kindly.heldIn(next).find((one) => one.id === id) ?? found)
 }
 
 export async function lockingRule(
@@ -225,7 +223,7 @@ export async function droppedRule(
   const unlocked = found.locked === true && force ? kindly.locking(settings, id, false) : settings
   await writing.write(kindly.dropping(unlocked, id))
   done.push(wroteSaid(kind, id, "taken away"))
-  return told(emitJson(found).split("\n"))
+  return asIndentedJson(found)
 }
 
 export async function droppingRule(
@@ -257,7 +255,7 @@ export async function copiedRule(
   }
   await writing.write(next)
   done.push(wroteSaid(kind, id, "copied"))
-  return told(emitJson(clone).split("\n"))
+  return asIndentedJson(clone)
 }
 
 export async function copyingRule(kind: Kind, id: string, done: string[]): Promise<Answer> {
