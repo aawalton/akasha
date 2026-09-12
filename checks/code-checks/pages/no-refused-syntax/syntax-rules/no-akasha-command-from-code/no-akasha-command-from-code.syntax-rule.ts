@@ -14,6 +14,19 @@ export const noAkashaCommandFromCode = {
       statement: "The command's own name is refused in the program's place alone.",
     },
     {
+      invariantKind: "departure",
+      statement: "A name the runner starts a process by is a launching call.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The program a runner is handed is the first word of the list that runner takes.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A name is judged by what that name spells rather than by where it was taken from.",
+    },
+    {
       invariantKind: "absence",
       statement: "No path a launching call names is read.",
     },

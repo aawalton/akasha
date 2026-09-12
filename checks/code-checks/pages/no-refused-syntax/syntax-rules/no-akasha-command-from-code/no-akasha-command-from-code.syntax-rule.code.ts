@@ -17,6 +17,11 @@ const LAUNCHERS: ReadonlySet<string> = new Set([
   "execSync",
   "execFile",
   "execFileSync",
+  "spawnedHere",
+  "bytes",
+  "ran",
+  "said",
+  "shown",
 ])
 
 const INSTEAD =

@@ -45,6 +45,30 @@ test("a program starting itself to outlive its caller is left", () => {
   expect(noAkashaCommandFromCode(parsed(text))).toEqual([])
 })
 
+test("the command run through the runner is refused", () => {
+  const said = noAkashaCommandFromCode(parsed('ran(["akasha", "read"])\n'))
+  expect(said).toHaveLength(1)
+  expect(said[0]?.reason).toContain("akasha")
+})
+
+test("every name the runner starts a process by is a launching call", () => {
+  for (const one of ["bytes", "ran", "said", "shown", "spawnedHere"]) {
+    expect(noAkashaCommandFromCode(parsed(`${one}(["akasha", "read"])\n`))).toHaveLength(1)
+  }
+})
+
+test("a name of the runner's reached on something else is a launching call too", () => {
+  expect(noAkashaCommandFromCode(parsed('running.ran(["akasha", "read"])\n'))).toHaveLength(1)
+})
+
+test("another program run through the runner is left", () => {
+  expect(noAkashaCommandFromCode(parsed('ran(["git", "status"])\n'))).toEqual([])
+})
+
+test("a list the runner is handed that opens with a name is left", () => {
+  expect(noAkashaCommandFromCode(parsed("ran([process.execPath, at])\n"))).toEqual([])
+})
+
 test("the command run through the shell is refused", () => {
   expect(noAkashaCommandFromCode(parsed("$`akasha write --file-path one`\n"))).toHaveLength(1)
 })
