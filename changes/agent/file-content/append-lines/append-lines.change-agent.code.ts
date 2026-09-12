@@ -18,6 +18,8 @@ export async function appendLinesCommand(world: World, given: Asked): Promise<An
   return (await reach(world, APPEND_LINES, { at, content })).said
 }
 
+export const takes: readonly string[] = [AT, CONTENT]
+
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   return await appendLinesCommand(world, given)
 }

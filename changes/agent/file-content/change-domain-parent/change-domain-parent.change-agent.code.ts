@@ -22,6 +22,8 @@ export async function changeDomainParent(
 
 export type Asked = Readonly<Record<string, string>>
 
+export const takes: readonly string[] = [PAGE, TO]
+
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const page = given[PAGE]
   if (page === undefined) return refusing(missing(PAGE))

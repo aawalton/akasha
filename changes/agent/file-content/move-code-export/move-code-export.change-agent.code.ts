@@ -22,6 +22,8 @@ export async function moveCodeExportCommand(world: World, given: Asked): Promise
   return (await reach(world, MOVE_CODE_EXPORT, { from, to, of: named })).said
 }
 
+export const takes: readonly string[] = [FROM, TO, OF]
+
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   return await moveCodeExportCommand(world, given)
 }

@@ -53,6 +53,8 @@ export async function changeFileCommand(world: World, given: Asked): Promise<Ans
   return (await reach(world, CHANGE_FILE, passage)).said
 }
 
+export const takes: readonly string[] = [AT, OLD, NEW]
+
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   return await changeFileCommand(world, given)
 }
