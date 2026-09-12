@@ -7,7 +7,7 @@ export const temperAddonGlobalNameDependent = {
   definition:
     "the command naming what depends on an addon global and ruling whether renaming it is safe",
   code: "ts",
-  taking: [{ said: "--json", takes: "give one report per line as JSON rather than as prose" }],
+  taking: [],
 
   invariants: [
     {
@@ -31,10 +31,15 @@ export const temperAddonGlobalNameDependent = {
       invariantKind: "departure",
       statement: "A global an addon saves its variables under is one that addon writes.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A JSON answer here is one report a line rather than one document.",
+    },
   ],
   name: "global-name-dependent",
   arguments: [
     { argument: "argument/code-root" },
     { argument: "argument/global", saidAs: "flag-or-word" },
+    { argument: "argument/json" },
   ],
 } as const satisfies Command

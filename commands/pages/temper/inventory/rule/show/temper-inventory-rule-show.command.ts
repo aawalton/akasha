@@ -6,7 +6,7 @@ export const temperInventoryRuleShow = {
   slug: "temper-inventory-rule-show",
   definition: "the command giving back one category rule named by its id",
   code: "ts",
-  taking: [{ said: "--json", takes: "give the rule as JSON" }],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -34,5 +34,6 @@ export const temperInventoryRuleShow = {
   arguments: [
     { argument: "argument/tsv" },
     { argument: "argument/category-rule-id", required: true, saidAs: "word" },
+    { argument: "argument/json" },
   ],
 } as const satisfies Command
