@@ -100,6 +100,15 @@ export function countOf(said: string | undefined, flag: string): Reading<number 
   return held
 }
 
+export function countRefused(value: number | undefined, flag: string): readonly string[] {
+  if (value === undefined) return []
+  if (value === 0) return [`\`${flag}\` takes a whole number above zero, and \`0\` is not one`]
+  if (!Number.isSafeInteger(value)) {
+    return [`\`${flag}\` was said a number past the largest one that can be read`]
+  }
+  return []
+}
+
 export type Prose = { readonly text: string | undefined } | { readonly refused: readonly string[] }
 
 export function proseIn(given: Given, said: Said, one: Filing, piping: Piping = inputIn): Prose {
