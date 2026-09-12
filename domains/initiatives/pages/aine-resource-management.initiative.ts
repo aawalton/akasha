@@ -8,10 +8,45 @@ export const aineResourceManagement = {
   persona: "aine",
   intents: [
     {
-      statement:
-        "Each kind of work an agent starts has a processor and a memory ceiling of its own.",
+      statement: "Every test file an agent runs has a memory ceiling of its own.",
       workingMemory:
-        "The kinds are a change, a guard, a check, an audit, a test, a deploy, a command, and a bash call that is none of these. On processor time four hold one: five seconds a test file, ten a check, fifteen an audit, three hundred a change, each judged once the run ended. On memory none holds one, though every kind records the peak it reached. A memory ceiling reclaims rather than kills while swap is free, so it slows a run rather than ending it.",
+        "A test file is held to five processor seconds, stated once on code-file-property and inherited by every module's test run, and judged once the run ended. Nothing states a memory ceiling. Every test file now spawns in a control group of its own and the peak recorded against it is that group's own, so the number a ceiling would be judged against is per file rather than per run. maxMemoryMb is declared on code-file-property, read by no code, and stated by no page.",
+    },
+    {
+      statement: "Every change an agent runs has a memory ceiling of its own.",
+      workingMemory:
+        "A change is held to three hundred processor seconds by ALLOWED_CPU in change-ceiling, which a change page overrides by stating maxCpuSeconds of its own. Nothing states a memory ceiling. A change runs inside the command process, so the peak recorded is that whole process's high water mark rather than the change's own. One draft of sort-property-values-on-every-page reached 24.0 GiB, and nothing above it refused that run.",
+    },
+    {
+      statement: "Every check an agent runs has a memory ceiling of its own.",
+      workingMemory:
+        "Fifty-eight of the fifty-nine code checks state maxCpuSeconds of their own, usually ten seconds and up to thirty, and ranOver judges cpuSeconds plus childCpuSeconds once the run ended. Nothing states a memory ceiling. A check runs inside the checking process, and the peak recorded is that process's high water mark, forgotten before each check and so counted from what the process already held rather than from nothing.",
+    },
+    {
+      statement: "Every audit an agent runs has a memory ceiling of its own.",
+      workingMemory:
+        "An audit is a check over the whole tree rather than over what changed, and states a processor ceiling of its own: fifteen seconds usually, twenty for no-relative-specifier, twenty-five for check-reaches-a-path-through-the-index, and a hundred and twenty for no-unused-exports and for index-is-level-with-the-pages. Nothing states a memory ceiling, and the peak is taken the way a check's is.",
+    },
+    {
+      statement: "Every guard a tool call runs has a processor and a memory ceiling of its own.",
+      workingMemory:
+        "A guard is an agent hook, and hook-dispatch spawns each one and records a cost row against that hook's page. No hook states either ceiling and nothing judges the run. The processor seconds recorded are the dispatcher's child seconds and so are the guard's, while the peak recorded is the dispatcher's own high water mark rather than the guard's. A guard runs on every tool call of every seat, which is where the volume is.",
+    },
+    {
+      statement: "Every deploy an agent runs has a processor and a memory ceiling of its own.",
+      workingMemory:
+        "The deploy command records one cost row against the page it put up and states neither ceiling, so a deploy is measured and never judged. A dry run records nothing. A deploy reaches a machine rather than the repository, so a run past a ceiling has already left its work on that machine, and refusing what the run answered undoes none of it.",
+    },
+    {
+      statement: "Every command an agent runs has a processor and a memory ceiling of its own.",
+      workingMemory:
+        "Calling records one cost row against the command's page and states neither ceiling. The command process is what a change runs inside, so a command's peak already counts the change's, and holding both to a ceiling weighs the same bytes twice. The commands that run long are the ones carrying a change.",
+    },
+    {
+      statement:
+        "Every bash call that is none of these has a processor and a memory ceiling of its own.",
+      workingMemory:
+        "weigh-bash-call records what the shell's exit trap leaves, and states neither ceiling. A call killed part way still leaves its peak, which is how the 24.0 GiB run was found with no change row beside it. Nothing above a bash call reaches it: the reaper weighs one process against 32 GiB, and its host leg waits for MemAvailable and SwapFree to be under 4 GiB each.",
     },
     {
       statement: "Every kind of work an agent starts is stopped at an elapsed ceiling of its own.",
