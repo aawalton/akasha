@@ -6,12 +6,7 @@ export const imessageUnreadList = {
   slug: "imessage-unread-list",
   definition: "the command giving back the unread messages that came to Alan",
   code: "ts",
-  taking: [
-    {
-      said: "--contact <name-or-handle>",
-      takes: "hold the answer to the conversations of the one contact named",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -43,5 +38,9 @@ export const imessageUnreadList = {
     },
   ],
   name: "unread-list",
-  arguments: [{ argument: "argument/json" }, { argument: "argument/limit" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/limit" },
+    { argument: "argument/contact" },
+  ],
 } as const satisfies Command

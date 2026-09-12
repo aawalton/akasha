@@ -6,12 +6,7 @@ export const imessageRecentList = {
   slug: "imessage-recent-list",
   definition: "the command giving back the newest messages in the mac's message store",
   code: "ts",
-  taking: [
-    {
-      said: "--contact <name-or-handle>",
-      takes: "hold the answer to one contact, named in the address book or by number or address",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -41,5 +36,9 @@ export const imessageRecentList = {
     { invariantKind: "departure", statement: "A call saying no limit gives back twenty messages." },
   ],
   name: "recent-list",
-  arguments: [{ argument: "argument/json" }, { argument: "argument/limit" }],
+  arguments: [
+    { argument: "argument/json" },
+    { argument: "argument/limit" },
+    { argument: "argument/contact" },
+  ],
 } as const satisfies Command
