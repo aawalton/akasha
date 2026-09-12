@@ -128,15 +128,16 @@ test("a page stating no systemd carries none", () => {
   expect(systemdIn({ systemd: [] })).toBe(undefined)
 })
 
-test("a slug no service is filed under is refused by name", () => {
+test("a slug no service is filed under is refused by name, apart from a page that will not read", () => {
   const read = readFor(ROOT, "no-such-service-stands-here")
-  expect("refused" in read).toBe(true)
+  expect("unnamed" in read).toBe(true)
+  expect("refused" in read).toBe(false)
 })
 
 test("the service there today is read from its page", () => {
   const read = readFor(ROOT, "pages-service")
   expect("refused" in read).toBe(false)
-  if ("refused" in read) return
+  if ("refused" in read || "unnamed" in read) return
   expect(read.services.length).toBe(1)
   expect(read.services[0]?.service.slug).toBe("pages-service")
   expect(read.services[0]?.service.enabled).toBe(true)

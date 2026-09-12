@@ -21,6 +21,7 @@ export function asked(told: string, argv: readonly string[], given: Given): Answ
   if ("refused" in named) return refused(named.refused, INPUT)
 
   const read = readFor(given.root, named.slug)
+  if ("unnamed" in read) return refused(read.unnamed, INPUT)
   if ("refused" in read) return refused(read.refused, DATA)
   const found = read.services[0]
   if (found === undefined) {

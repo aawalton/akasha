@@ -26,7 +26,9 @@ const SYSTEMD_NUMBER_KEYS = [
 ] as const
 const SYSTEMD_LIST_KEYS = ["after", "wants", "stops"] as const
 
-export type Read = { readonly services: readonly Service[] } | { readonly refused: string }
+export type Every = { readonly services: readonly Service[] } | { readonly refused: string }
+
+export type Read = Every | { readonly unnamed: string }
 
 export function textsIn(held: unknown): readonly string[] | null {
   if (!Array.isArray(held)) return null
@@ -112,12 +114,12 @@ function serviceAt(root: string, path: string, codeAt: string): Service | string
 export function readFor(root: string, slug: string, codeAt: string = ""): Read {
   const found = listedAt(root, SERVICE_PAGE_TYPE, slug)
   const one = found[0]
-  if (one === undefined) return { refused: `no ${SERVICE_PAGE_TYPE} is slugged \`${slug}\`` }
+  if (one === undefined) return { unnamed: `no ${SERVICE_PAGE_TYPE} is slugged \`${slug}\`` }
   const read = serviceAt(root, one.path, codeAt)
   return typeof read === "string" ? { refused: read } : { services: [read] }
 }
 
-export function everyService(root: string, codeAt: string = ""): Read {
+export function everyService(root: string, codeAt: string = ""): Every {
   const found = [...everyOfType(root, SERVICE_PAGE_TYPE)].sort((a, b) =>
     a.path < b.path ? -1 : a.path > b.path ? 1 : 0
   )
