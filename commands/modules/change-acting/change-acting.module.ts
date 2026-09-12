@@ -97,7 +97,7 @@ export const changeActing = {
     },
     {
       invariantKind: "departure",
-      statement: "That refusal says a refusal surviving a few tries will not clear by waiting.",
+      statement: "That refusal says how long the wait for the queued cause has run to.",
     },
     {
       invariantKind: "departure",
@@ -105,7 +105,21 @@ export const changeActing = {
     },
     {
       invariantKind: "departure",
-      statement: "A landing refused for any reason but the lock is retried by nothing.",
+      statement:
+        "A landing refused for any reason but the lock or a put-back is retried by nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing that ended before it could say why is retried by nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "That refusal says the page is written again by the landing the next dispatch or resume runs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal tells the agent to say it is refused to whoever dispatched it.",
     },
     {
       invariantKind: "absence",
