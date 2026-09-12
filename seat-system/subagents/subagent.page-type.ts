@@ -63,6 +63,19 @@ export const subagent = {
         "A page is written again out of history when the subagent it was for is next dispatched or resumed.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A subagent the transcript names nowhere is done for now rather than done for good.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A resumed subagent may be named nowhere by the transcript while it is working.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A subagent's page goes once rather than going, coming back, and going again.",
+    },
+    {
       invariantKind: "gap",
       statement: "A subagent begins a turn before the landing writing its page has gone.",
     },
@@ -78,6 +91,15 @@ export const subagent = {
     {
       invariantKind: "gap",
       statement: "A subagent at work with no page is found by nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A subagent whose page has gone can read and report and can keep no edit, so it can land nothing.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A subagent can ask what it is leaving behind when its page has gone.",
     },
     {
       invariantKind: "departure",
