@@ -11,7 +11,7 @@ export const athenaCommandArguments = {
     {
       statement: "Every argument a command takes is a page.",
       workingMemory:
-        "338 argument pages and 766 entries at `2422666aa8c` naming exactly those 338 — nothing dangling, no page no command names. Three flags are read that no page names: `--restated` and `--break-the-glass`, both through `file-arguing` and reaching only `alan tracking`, and `--settings`, read by `seat-refresh-settings`'s own code while its page names only `argument/json`. Alan's: `alan-tracking.command.ts:14-15` says no call names the kind of change landed here.\n",
+        "338 argument pages and 766 entries at `2422666aa8c` naming exactly those 338 — nothing dangling, no page no command names. One flag is read that no page names: `--restated`, admitted by `file-arguing` and reaching only `alan tracking`; `--break-the-glass` reaches that same command the same way. Alan's: `alan-tracking.command.ts:14-15` says no call names the kind of change landed here, so either that goes or the flags do.\n",
     },
     {
       statement: "A command names the arguments it takes and narrows each.",
@@ -28,7 +28,7 @@ export const athenaCommandArguments = {
       statement:
         "A command's code reads its arguments through a type generated from its argument pages.",
       workingMemory:
-        "213 of 235 reach the type at `8c05bfa52f66`, 200 calling `takenFor` and 13 through `inventory-rule-calling`; `seat start` has landed since and 18 of the rest are temper. Its seat-name refusal widened from the first word to any lone stray word, and its shim and help module are gone. Held: `alan tracking` on two frozen modules, and `change apply` and `change draft` because `takingIn` swallows `--`, so `akasha change apply --` would land every kept edit where today it refuses.\n",
+        "218 of 235 reach the type at `f5b0716828`, and 17 are left: nine `temper/inventory` commands each with its own local `readIn`, five `temper/eso`, and `alan tracking`, `change apply`, `change draft`. `change apply` and `change draft` are held because `takingIn` swallows `--`, so `akasha change apply --` would land every kept edit where today it refuses. `alan tracking` is held on two frozen modules.\n",
     },
     {
       statement: "One spelling names one argument, and one argument has one spelling.",
