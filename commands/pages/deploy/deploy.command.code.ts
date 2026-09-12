@@ -90,6 +90,13 @@ export function stoppedPartWay(up: readonly string[]): string {
   return partWay(up)[0] ?? NOTHING_UP
 }
 
+export function saidOfUnproven(unproven: readonly string[]): string {
+  return (
+    "a workstation service is put up only where the test beside its page proves it runs, and " +
+    `this commit holds no such test: ${unproven.join(", ")}`
+  )
+}
+
 export const PINNED: ReadonlySet<string> = new Set([
   WORKSTATION_SERVICE,
   INFERENCE_SERVICE,
@@ -225,7 +232,11 @@ export async function deployHeld(
     read.kind === WORKSTATION_SERVICE && restarting !== null
       ? provingFor(given.root, restarting)
       : []
-  const unjudged = await judgedOnDeploy(given.root, slug, was, commit, built, proving)
+  const unproven = proving.filter((one) => !built.has(one))
+  const unjudged =
+    unproven.length > 0
+      ? [saidOfUnproven(unproven)]
+      : await judgedOnDeploy(given.root, slug, was, commit, built, proving)
   const dry = wanted.dryRun
   const noting = () =>
     dry

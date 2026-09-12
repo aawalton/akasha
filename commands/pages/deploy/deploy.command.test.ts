@@ -8,7 +8,11 @@ import {
 import { commitAt } from "akasha/commands/pages/deploy/commit-naming/deploy-commit-naming.module.code.ts"
 import { recordedCommit } from "akasha/commands/pages/deploy/commit-recording/deploy-commit-recording.module.code.ts"
 import type { PuttingUp, Wanted } from "akasha/commands/pages/deploy/deploy.command.code.ts"
-import { deploy, stoppedPartWay } from "akasha/commands/pages/deploy/deploy.command.code.ts"
+import {
+  deploy,
+  saidOfUnproven,
+  stoppedPartWay,
+} from "akasha/commands/pages/deploy/deploy.command.code.ts"
 import { committed, given } from "akasha/commands/pages/deploy/deploy.command.test-fixtures.ts"
 import {
   seededWorld,
@@ -221,6 +225,13 @@ test("a deploy that threw before anything reached a machine says that rather tha
   expect(answer.code).toBe(3)
   expect(answer.refusals[1]).toContain("nothing it puts up had reached a machine")
   expect(answer.refusals[1]).not.toContain("may be")
+})
+
+test("the refusal names each service with no test proving it runs", () => {
+  const said = saidOfUnproven(["one.running.test.ts", "two.running.test.ts"])
+  expect(said).toContain("one.running.test.ts")
+  expect(said).toContain("two.running.test.ts")
+  expect(said).toContain("proves it runs")
 })
 
 test("what a deploy put up is named in the refusal rather than counted", () => {

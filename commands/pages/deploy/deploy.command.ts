@@ -135,6 +135,14 @@ export const deploy = {
     },
     {
       invariantKind: "departure",
+      statement: "A workstation service with no such test beside its page refuses the deploy.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal names each service, and the checks are run over nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A dry run is judged by those checks as a run that puts up is.",
     },
     {
