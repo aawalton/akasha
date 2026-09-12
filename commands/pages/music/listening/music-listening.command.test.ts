@@ -39,25 +39,33 @@ test("a window Spotify does not carry is refused before any call is made", async
 test("a window said with nothing after it is refused by name", async () => {
   const said = await musicListening(["--window"], GIVEN)
   expect(said.code).toBe(1)
-  expect(said.refusals.join("\n")).toContain("`--window` was said with nothing after it")
+  expect(said.refusals.join("\n")).toContain("`--window` takes a value, and none follows it")
+})
+
+test("a window said with an equals carries what follows it", async () => {
+  const said = await musicListening(["--window=sideways"], GIVEN)
+  expect(said.code).toBe(1)
+  expect(said.refusals.join("\n")).toContain('unknown --window "sideways"')
 })
 
 test("a limit that is no whole count is refused before any call is made", async () => {
   const said = await musicListening(["--limit", "two"], GIVEN)
   expect(said.code).toBe(1)
-  expect(said.refusals.join("\n")).toContain("--limit must be a non-negative integer, got: two")
+  expect(said.refusals.join("\n")).toContain("`--limit two` is no whole number of nought or more")
 })
 
 test("a limit below zero is refused", async () => {
   const said = await musicListening(["--limit", "-3"], GIVEN)
   expect(said.code).toBe(1)
-  expect(said.refusals.join("\n")).toContain("--limit must be a non-negative integer, got: -3")
+  expect(said.refusals.join("\n")).toContain("`--limit -3` is no whole number of nought or more")
 })
 
 test("anything the command does not take is refused by name", async () => {
   const said = await musicListening(["--nope"], GIVEN)
   expect(said.code).toBe(1)
-  expect(said.refusals.join("\n")).toContain("`--nope` is nothing")
+  expect(said.refusals.join("\n")).toContain(
+    "`--nope` is no argument `akasha music listening` takes"
+  )
 })
 
 test("nothing playing is said rather than left blank", () => {
