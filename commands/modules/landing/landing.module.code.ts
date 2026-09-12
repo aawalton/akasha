@@ -4,19 +4,19 @@ import { dirname, join } from "node:path"
 import type { Reading as AsRead } from "akasha/agents/read-record/read-record.module.code.ts"
 import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { appendEdits } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Judged, Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { textIn, textOf } from "akasha/code/body-text/body-text.module.code.ts"
-import {
-  DATA,
-  INPUT,
-  OPERATIONAL,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { DATA, INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import { sweptOff } from "akasha/commands/modules/beside-sweeping/beside-sweeping.module.code.ts"
 import {
   commitNamed,
   unfresh,
 } from "akasha/commands/modules/change-freshness/change-freshness.module.code.ts"
+import {
+  type Drafted,
+  type Drafting,
+  draftedBy,
+} from "akasha/commands/modules/draft-keeping/draft-keeping.module.code.ts"
 import {
   clearedOff,
   clearedUnder,
@@ -88,20 +88,7 @@ export type Refused = {
   readonly said?: readonly string[]
 }
 
-export type Drafting = {
-  readonly page: string
-}
-
-export type Drafted = {
-  readonly base: string
-  readonly drafted: readonly string[]
-}
-
 const AGAIN_WRITTEN = "nothing was written — read them again against what is there now"
-
-const AGAIN_DRAFTED = "nothing was drafted — read them again against what is there now"
-
-const KEPT_AS_IT_WAS = "nothing was drafted — the edits are as the edits were"
 
 const NOTHING_OUTSIDE = "nothing landed — name every path against the repository root"
 
@@ -252,22 +239,6 @@ function indexed(
     held.wrote(one.to, textIn(body), textOf(before.get(one.to) ?? null))
   }
   return held.settle()
-}
-
-function draftedBy(
-  root: string,
-  page: string,
-  changes: readonly FileChange[],
-  named: string | null,
-  asRead: readonly AsRead[]
-): Drafted | Refused {
-  const base = baseOf(root)
-  const changing = [...new Set(changes.flatMap(pathsOf))]
-  const stale = unfresh(root, named, base, changing, asRead, AGAIN_DRAFTED)
-  if (stale !== null) return { refusals: stale, code: DATA }
-  const kept = appendEdits(root, page, changes)
-  if ("why" in kept) return { refusals: [kept.why, KEPT_AS_IT_WAS], code: OPERATIONAL }
-  return { base, drafted: [...changing].sort() }
 }
 
 export function landing(

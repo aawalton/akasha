@@ -1,20 +1,14 @@
 import { expect } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, readlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { EXIT } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Judged, Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
 import type { Stated } from "akasha/commands/modules/change-preparing/change-preparing.module.code.ts"
 import {
   NO_TEXT,
   rowsFrom,
 } from "akasha/commands/modules/change-preparing/change-preparing.module.code.ts"
-import type {
-  Drafted,
-  Landed,
-  Refused,
-} from "akasha/commands/modules/landing/landing.module.code.ts"
+import type { Landed, Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
 import { landing } from "akasha/commands/modules/landing/landing.module.code.ts"
 import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
@@ -68,8 +62,6 @@ export function judgingThat(name: string, over: (change: Change) => readonly Jud
 
 export const PAGE = "akasha/a.domain.ts"
 
-export const DRAFT = { page: PAGE }
-
 export type Held = { readonly path: string; readonly body: Uint8Array | null }
 
 const FATAL = new TextDecoder("utf-8", { fatal: true })
@@ -90,7 +82,7 @@ function rowsOver(changes: readonly Held[]): Stated {
   return { rows }
 }
 
-function statedIn(root: string, changes: readonly Held[]): Stated {
+export function statedIn(root: string, changes: readonly Held[]): Stated {
   const said = rowsOver(changes)
   if ("why" in said) return said
   return rowsFrom(root, baseOf(root), said.rows)
@@ -100,28 +92,6 @@ export function rowsIn(root: string, changes: readonly Held[]): readonly FileCha
   const said = statedIn(root, changes)
   if ("why" in said) throw new Error(said.why)
   return said.rows
-}
-
-export function drafting(
-  root: string,
-  changes: readonly Held[],
-  gate: Judging = ADMITS
-): Promise<Drafted | Refused> {
-  const said = statedIn(root, changes)
-  if ("why" in said) {
-    return Promise.resolve({
-      refusals: [said.why, "nothing was drafted — the edits are as the edits were"],
-      code: EXIT.DATA,
-    })
-  }
-  return landing(root, said.rows, "held", gate, null, null, [], DRAFT)
-}
-
-export function keptText(root: string): string {
-  const at = editsAt(PAGE)
-  if (at === null) return ""
-  const full = join(root, at)
-  return existsSync(full) ? readFileSync(full, "utf8") : ""
 }
 
 export const REFUSES: Judging = {
