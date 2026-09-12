@@ -12,7 +12,6 @@ export const trackSessionDrop = {
     { said: "--at <time>", takes: "a wall time the stretch dropped covers" },
     { said: "--open", takes: "the stretch to act on, which is the one that is open" },
     { said: "--last", takes: "the stretch to act on, which is the one that ended last" },
-    { said: "--day <date>", takes: "which day to act on, written as that day's own date" },
     { said: "--mend", takes: "close the gap a dropped stretch leaves behind" },
     { said: "--dry-run", takes: "judge what the act would land and write nothing" },
   ],
@@ -72,4 +71,5 @@ export const trackSessionDrop = {
     },
   ],
   name: "drop",
+  arguments: [{ argument: "argument/day" }],
 } as const satisfies Command

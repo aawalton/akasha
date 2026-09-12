@@ -12,7 +12,6 @@ export const trackSessionSplit = {
     { said: "--open", takes: "the stretch to act on, which is the one that is open" },
     { said: "--last", takes: "the stretch to act on, which is the one that ended last" },
     { said: "--title <text>", takes: "what the second half is called" },
-    { said: "--day <date>", takes: "which day to act on, written as that day's own date" },
     {
       said: "--safety <level>",
       takes: "how safe Alan was over the stretch, from -2 to 5 in half steps",
@@ -111,4 +110,5 @@ export const trackSessionSplit = {
     },
   ],
   name: "split",
+  arguments: [{ argument: "argument/day" }],
 } as const satisfies Command
