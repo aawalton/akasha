@@ -1,4 +1,4 @@
-import type { Outcome } from "akasha/commands/modules/gated-write/gated-write.module.code.ts"
+import type { Outcome } from "akasha/changes/modules/gated-write/gated-write.module.code.ts"
 import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { akashaSeatSlugOf } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import {

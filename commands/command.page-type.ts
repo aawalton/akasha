@@ -101,7 +101,6 @@ export const command = {
     "module/command-failing",
     "module/argument-narrowing",
     "module/payload",
-    "module/gated-write",
     "text-property/level-name",
     "module/help-writing",
     "page-type/argument",

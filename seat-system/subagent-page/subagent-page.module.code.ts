@@ -1,4 +1,4 @@
-import type { Outcome } from "akasha/commands/modules/gated-write/gated-write.module.code.ts"
+import type { Outcome } from "akasha/changes/modules/gated-write/gated-write.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

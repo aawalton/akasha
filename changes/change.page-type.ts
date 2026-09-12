@@ -43,6 +43,7 @@ export const change = {
     "number-property/change-max-cpu-seconds",
     "module/edits-dropping",
     "module/gated-landing",
+    "module/gated-write",
   ],
   properties: [
     { pageProperty: "relation-property/change-kind", required: true, many: false },
