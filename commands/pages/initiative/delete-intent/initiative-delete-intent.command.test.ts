@@ -4,41 +4,25 @@ import { throwingAfter } from "akasha/commands/modules/answering/command-answeri
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   droppedBy,
+  initiativeDeleteIntent,
   messageFor,
   noInitiative,
-  readIn,
   saidFor,
+  wrongIn,
 } from "akasha/commands/pages/initiative/delete-intent/initiative-delete-intent.command.code.ts"
 
-test("two words are read as an initiative and a statement", () => {
-  expect(readIn(["amy-harness-improvements", "All of Jenny's widgets work."])).toEqual({
-    slug: "amy-harness-improvements",
-    statement: "All of Jenny's widgets work.",
-  })
-})
+test("a call naming three words is refused", async () => {
+  const said = await initiativeDeleteIntent(["one", "two", "three"], GIVEN)
 
-test("a call naming one word is refused", () => {
-  expect(readIn(["amy-harness-improvements"])).toEqual({
-    refused: [
-      "this takes two words: an initiative and the statement the intent states, and 1 arrived",
-    ],
-  })
-})
-
-test("a call naming three words is refused", () => {
-  expect("refused" in readIn(["one", "two", "three"])).toBe(true)
+  expect(said.refusals).toEqual([
+    "`akasha initiative delete-intent` takes 2 words and this call says 3 words",
+  ])
 })
 
 test("a statement of no text is refused", () => {
-  expect(readIn(["one", "   "])).toEqual({
-    refused: ["the statement said is empty, and an intent is named by the statement it states"],
-  })
-})
-
-test("a statement is read whole rather than trimmed", () => {
-  const said = readIn(["one", " padded "])
-
-  expect("refused" in said ? null : said.statement).toBe(" padded ")
+  expect(wrongIn({ slug: "one", statement: "   " })).toEqual([
+    "the statement said is empty, and an intent is named by the statement it states",
+  ])
 })
 
 test("a name that is no initiative is refused in words naming it", () => {
