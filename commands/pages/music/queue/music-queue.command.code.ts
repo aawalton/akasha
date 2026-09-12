@@ -77,12 +77,6 @@ export function queuedLineFor(track: ResolvedTrack): string {
   return `  + queued "${trackLabelFor(track)}"`
 }
 
-export function queueLinesFor(tracks: readonly ResolvedTrack[]): readonly string[] {
-  const [first, ...rest] = tracks
-  if (first === undefined) return []
-  return [playingLineFor(first), ...rest.map(queuedLineFor)]
-}
-
 async function resolvedFor(
   queries: readonly string[],
   artist: string | undefined,
