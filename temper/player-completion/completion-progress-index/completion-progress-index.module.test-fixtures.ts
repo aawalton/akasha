@@ -2,7 +2,7 @@ import type {
   AccountCompletion,
   CharacterCompletion,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import type { CompletionCharacterEntry } from "akasha/temper/player-completion/completion-next-character/completion-next-character.module.code.ts"
+import type { CompletionCharacterEntry } from "akasha/temper/player-completion/modules/completion-next-character/completion-next-character.module.code.ts"
 
 function mkMount(
   speed: number,

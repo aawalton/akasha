@@ -2,7 +2,7 @@ import {
   type CharacterCompletion,
   emptySkillPointProgress,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import type { CompletionOverride } from "akasha/temper/player-completion/completion-override/completion-override.module.code.ts"
+import type { CompletionOverride } from "akasha/temper/player-completion/modules/completion-override/completion-override.module.code.ts"
 import { SKILL_POINT_GENERAL_SOURCES } from "akasha/temper/player-completion/skill-point-general-sources/skill-point-general-sources.module.code.ts"
 import { SKILL_POINT_GROUP_DUNGEON_SOURCES } from "akasha/temper/player-completion/skill-point-group-dungeons/skill-point-group-dungeons.module.code.ts"
 import { SKILL_POINT_PUBLIC_DUNGEON_SOURCES } from "akasha/temper/player-completion/skill-point-public-dungeons/skill-point-public-dungeons.module.code.ts"

@@ -6,9 +6,9 @@ import {
   completionShapeOf,
   readsAsDone,
 } from "akasha/pages/core/task-lifecycle/task-lifecycle.module.code.ts"
-import type { CompletionOverride } from "akasha/temper/player-completion/completion-override/completion-override.module.code.ts"
-import type { ParsedCompletionOverrideRow } from "akasha/temper/player-completion/completion-override-row/completion-override-row.module.code.ts"
-import { parseCompletionOverrideRow } from "akasha/temper/player-completion/completion-override-row/completion-override-row.module.code.ts"
+import type { CompletionOverride } from "akasha/temper/player-completion/modules/completion-override/completion-override.module.code.ts"
+import type { ParsedCompletionOverrideRow } from "akasha/temper/player-completion/modules/completion-override-row/completion-override-row.module.code.ts"
+import { parseCompletionOverrideRow } from "akasha/temper/player-completion/modules/completion-override-row/completion-override-row.module.code.ts"
 import { serializeLuaBlock } from "akasha/temper/saved-variables/lua-serializer/lua-serializer.module.code.ts"
 import type { CharactersConfigFileInputs } from "akasha/temper/watcher/watcher-config-file/watcher-config-file.module.code.ts"
 import { serializeCharactersConfigFile } from "akasha/temper/watcher/watcher-config-file/watcher-config-file.module.code.ts"

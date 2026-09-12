@@ -3,7 +3,7 @@ import type {
   CharacterCompletion,
 } from "akasha/temper/completion/completion-record/completion-record.module.code.ts"
 import { requireSavedVariables } from "akasha/temper/narrow/require-saved-variables/require-saved-variables.module.code.ts"
-import type { CompletionOverride } from "akasha/temper/player-completion/completion-override/completion-override.module.code.ts"
+import type { CompletionOverride } from "akasha/temper/player-completion/modules/completion-override/completion-override.module.code.ts"
 import { charactersToPrune } from "akasha/temper/player-completion-state/completion-prune-characters/completion-prune-characters.module.code.ts"
 import {
   ADDON_NAME,

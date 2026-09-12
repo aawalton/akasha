@@ -1,13 +1,13 @@
 import { describe, expect, test } from "bun:test"
 import type { CharacterCompletion } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import {
-  type NextCharacterInput,
-  resolveNextCharacter,
-} from "akasha/temper/player-completion/completion-next-character/completion-next-character.module.code.ts"
-import {
   sparseComplete,
   sparseMissingOne,
 } from "akasha/temper/player-completion/lore-library-sparse-test-utils/lore-library-sparse-test-utils.module.code.ts"
+import {
+  type NextCharacterInput,
+  resolveNextCharacter,
+} from "akasha/temper/player-completion/modules/completion-next-character/completion-next-character.module.code.ts"
 
 const CARD = "lore-library-character"
 const CATEGORY = 1

@@ -1,4 +1,4 @@
-import type { CompletionOverride } from "akasha/temper/player-completion/completion-override/completion-override.module.code.ts"
+import type { CompletionOverride } from "akasha/temper/player-completion/modules/completion-override/completion-override.module.code.ts"
 import type {
   CharactersConfigGlobal,
   SavedVariablesData,
