@@ -72,7 +72,6 @@ import { putUpEvery } from "akasha/infrastructure/services/workstations/service-
 
 const PUT_UP = "deploy"
 const TAKES = [dryRun, deploySubject, noUpload, ref, measured, simulator, device]
-const NO_REF = `\`${ref.said}\` takes the commit to build, and this call names none after it`
 const NAMED: Readonly<Record<string, string>> = {
   [CLUSTER_SERVICE]: "a cluster service",
   [WORKSTATION_SERVICE]: "a workstation service",
@@ -107,7 +106,6 @@ export type Wanted = {
 }
 
 export function wrongIn(kind: string, slug: string, wanted: Wanted): string | null {
-  if (wanted.ref === "") return NO_REF
   const onto = wanted.simulator ? simulator.said : wanted.device ? device.said : null
   if (kind === IOS_APP) {
     if (onto === null) {
