@@ -10,13 +10,13 @@ export const sophiaAgentStopHook = {
     {
       statement: "No clean turn Alan has labelled draws a refusal from the live judge.",
       workingMemory:
-        "Met for Neither Clock Nor Meter, the one directive the live hook judges: no refusal on any of the 214 turns the 413 cases label as breaking nothing, and 15 of 34 breaches caught. The 6 that read as misfires all sit on turns labelled against some other rule, and at least three break this rule as well, so the loss is the answer key rather than the judge. The second judge is measured and landed but not turned on, and turning it on makes the hook refuse more.",
+        "Met for all four judges the hook now runs: none refuses any of the 227 turns the pool labels as breaking nothing, each measured over two runs. The six turns that read as misfires for Neither Clock Nor Meter all sit outside that 227, labelled against some other rule, and at least three break Neither Clock Nor Meter as well, so the loss there is the answer key rather than the judge.\n",
     },
     {
       statement:
         "Each of the five directives Alan's page states has a judge that misfires on nothing.",
       workingMemory:
-        "Three of five have judges, each one prompt. Neither Clock Nor Meter, at `directive-kept`, catches 15 of 34 and refuses none of 214 clean turns. One At A Time, at `one-at-a-time-kept`, 19 of 33 and none of 227, over two runs. No Commentary, at `no-commentary-kept`, 4 to 6 of 63 and none of 227, over two runs; a wider wording caught 11 and misfired once, so closing both halves of its mark is what bought the zero. The other two are blocked rather than unworked.",
+        "Three of five have judges, four prompts, each measured over two runs and misfiring on none of the 227 clean turns. `directive-kept` catches 15 of 34 for Neither Clock Nor Meter. `one-at-a-time-kept`, 19 of 33. No Commentary is judged twice by different signs: `no-commentary-kept` on a piece marked worth knowing, `subagent-brief-kept` on what the turn told a helper, and their union catches 18 of 63. The other two directives are blocked rather than unworked.\n",
     },
     {
       statement:
@@ -27,7 +27,7 @@ export const sophiaAgentStopHook = {
     {
       statement: "The code deciding whether to hold a turn open is tested.",
       workingMemory:
-        "`judging` in `keep-alan-directives.inference-hook.code.ts` holds the whole decision and has no test. The test file beside it covers `personIn`, `stillWorking` and `SCOPE` and stops there. The hook's own page carries a gap nothing answers: a turn held open twice running says so to the person.",
+        "`holding` in the hook's code decides refusal from the judges' answers, and is now tested: a model reached by no call, a turn no judge answers yes on, the first yes ending it, and that rule's own words going back rather than the model's. What is still untested is the rest of `judging` — reading the seat's person and that person's directives out of the index — which takes a root to read. The hook's page carries a gap nothing answers: a turn held open twice running says so to the person.\n",
     },
     {
       statement: "A case names every directive the turn breaks rather than one of them.",
