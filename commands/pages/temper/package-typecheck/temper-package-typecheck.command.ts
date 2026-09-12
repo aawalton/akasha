@@ -7,12 +7,7 @@ export const temperPackageTypecheck = {
   definition:
     "the command typechecking a package under `temper/` against its own compiler settings",
   code: "ts",
-  taking: [
-    {
-      said: "--package <name>",
-      takes: "a folder under `temper/` to typecheck, repeated to name several",
-    },
-  ],
+  taking: [],
   invariants: [
     {
       invariantKind: "departure",
@@ -50,4 +45,5 @@ export const temperPackageTypecheck = {
     },
   ],
   name: "package-typecheck",
+  arguments: [{ argument: "argument/argument-package" }],
 } as const satisfies Command
