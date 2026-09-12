@@ -5,6 +5,7 @@ import { loadParser } from "akasha/domains/plain-language/onnx-parsing/onnx-pars
 import type { ShapePredicate } from "akasha/domains/plain-language/shape-predicate/shape-predicate.module.code.ts"
 import { shapesIn } from "akasha/domains/plain-language/shape-reading/shape-reading.module.code.ts"
 import { scanned } from "akasha/domains/plain-language/spelt-scanning/spelt-scanning.module.code.ts"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
 import ts from "typescript"
 
@@ -128,10 +129,6 @@ function sayingOf(split: Split): string {
     `  ${split.second}\n` +
     "  cut what only explains or follows from the first. Split out what does not."
   )
-}
-
-function exportedAs(slug: string): string {
-  return slug.replace(/-(.)/g, (_whole, one: string) => one.toUpperCase())
 }
 
 const REFUSED = new WeakMap<Answering, Promise<readonly Refused[]>>()
