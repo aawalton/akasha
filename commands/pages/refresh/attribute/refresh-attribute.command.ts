@@ -48,6 +48,11 @@ export const refreshAttribute = {
       invariantKind: "absence",
       statement: "A run works out no level.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A call saying any word is refused, because this takes no argument.",
+    },
   ],
   name: "attribute",
+  arguments: [],
 } as const satisfies Command

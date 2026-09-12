@@ -6,6 +6,7 @@ import {
 } from "akasha/alan/harness/attributes/reading/attributes-reading.module.code.ts"
 import { totalAttributes } from "akasha/alan/harness/attributes/totalling/attributes-totalling.module.code.ts"
 import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
 import {
   answering,
   DATA,
@@ -13,6 +14,8 @@ import {
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { refreshAttribute as page } from "akasha/commands/pages/refresh/attribute/refresh-attribute.command.ts"
 
 const NOTHING_REBUILT =
   "no attribute could be added up over the days before today, so nothing was rebuilt. A figure " +
@@ -20,8 +23,8 @@ const NOTHING_REBUILT =
 
 export function slugsIn(kept: Readonly<Record<string, number>>): ReadonlyMap<string, number> {
   const found = new Map<string, number>()
-  for (const [page, points] of Object.entries(kept)) {
-    const slug = ATTRIBUTE_OF[page]
+  for (const [readout, points] of Object.entries(kept)) {
+    const slug = ATTRIBUTE_OF[readout]
     if (slug !== undefined) found.set(slug, points)
   }
   return found
@@ -50,11 +53,13 @@ export function keptEach(
 }
 
 export async function refreshAttribute(
-  _argv: readonly string[],
+  argv: readonly string[],
   given: Given,
   keeping: Keeping = keepPointsBeforeToday,
   taking: Taking = takeReadings
 ): Promise<Answer> {
+  const read = takenFor(argv, given.calledAs, page, [])
+  if ("refused" in read) return mistaking(read.refused)
   const now = new Date()
   const before = await totalAttributes(given.root, getEsoDayStr(now))
   const found = slugsIn(before.kept)

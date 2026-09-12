@@ -5,12 +5,30 @@ import {
   OPERATIONAL,
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type { Keeping } from "akasha/commands/pages/refresh/attribute/refresh-attribute.command.code.ts"
 import {
   keptEach,
+  refreshAttribute,
   saidOf,
   slugsIn,
 } from "akasha/commands/pages/refresh/attribute/refresh-attribute.command.code.ts"
+
+const GIVEN: Given = {
+  root: "/nowhere",
+  calledAs: "akasha refresh attribute",
+  from: "/nowhere",
+  writer: null,
+  agentId: null,
+}
+
+test("a word said to a command taking no argument is refused", async () => {
+  const said = await refreshAttribute(["--nonsense"], GIVEN)
+
+  expect(said.refusals).toEqual([
+    "`--nonsense` is no argument `akasha refresh attribute` takes, and it takes none",
+  ])
+})
 
 const FOUND: ReadonlyMap<string, number> = new Map([
   ["strength", 3],

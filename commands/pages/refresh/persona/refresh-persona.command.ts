@@ -41,6 +41,11 @@ export const refreshPersona = {
       invariantKind: "departure",
       statement: "A fault carries the code that fault names and says where it was thrown.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A call saying any word is refused, because this takes no argument.",
+    },
   ],
   name: "persona",
+  arguments: [],
 } as const satisfies Command
