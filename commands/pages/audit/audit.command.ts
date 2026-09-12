@@ -15,18 +15,7 @@ export const audit = {
       takes: "a check the round runs beyond the ones the audit phase names",
     },
   ],
-  helpNotes: [
-    "--check repeats, so several checks are asked for in one call.",
-    "it asks the audit service for a round at the commit the repository is at, and answers from the verdicts that round leaves.",
-    "a check whose verdict already answers for that commit costs no round, so asking again right after is cheap.",
-    "a round is asked for twice at most, and a check still unanswered after that is named rather than counted clean.",
-    "a check named by --check is run by the round even where that check runs at no phase, and the answer says the run is not an audit.",
-    "it lands no change, and holds nothing still while it runs.",
-    "a refusal it found is written whole beside the calling agent's page, and the answer names that file and the call opening it, so a reason the answer shortened is read there in full.",
-    "a bare run judges by the checks stating the audit phase, so a check that judges on no phase is left out, and the answer says how many were left out that way.",
-    "it runs under no ceiling on the clock, so a run takes as long as the round takes, and a check overrunning the processor seconds its own page states is refused.",
-    "a seat runs it in the background, and several seats asking at once are answered by one round.",
-  ],
+  helpNotes: [],
   timeout: null,
   invariants: [
     {
@@ -142,5 +131,11 @@ export const audit = {
       invariantKind: "absence",
       statement: "A change landing under an audit is judged half as that change was.",
     },
+    { invariantKind: "departure", statement: "A round is asked for twice at most." },
+    {
+      invariantKind: "departure",
+      statement: "Several seats asking at once are answered by one round.",
+    },
+    { invariantKind: "departure", statement: "`--check` is named again for each check asked for." },
   ],
 } as const satisfies Command
