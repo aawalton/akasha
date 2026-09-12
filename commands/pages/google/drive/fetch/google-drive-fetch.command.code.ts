@@ -1,6 +1,13 @@
 import { mkdir } from "node:fs/promises"
 import { basename, isAbsolute, join, resolve } from "node:path"
-import { exitCodeForThrowable } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import {
+  codeOf,
+  DATA,
+  INPUT,
+  OPERATIONAL,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
@@ -74,14 +81,14 @@ function reachSaid(thrown: unknown, fileId: string): Answer | null {
     return refused(
       `Drive holds no file ${fileId} this consent can reach — check the id, and that the file ` +
         "is shared with the account the consent was granted for",
-      2
+      DATA
     )
   }
   if (status === 401 || status === 403) {
     return refused(
       `Drive turned the request for ${fileId} away with ${status} — the consent held is missing ` +
         "or too narrow, and `akasha google auth login` grants a fresh one",
-      3
+      OPERATIONAL
     )
   }
   return null
@@ -105,7 +112,7 @@ async function fetching(
       return refused(
         `"${metadata.name}" is a native Google ${metadata.mimeType ?? "app"} file holding no ` +
           "bytes to download, and exporting one sits outside what this reaches",
-        1
+        INPUT
       )
     }
     const bytes = await files.downloadFileBytes(client, fileId)
@@ -113,24 +120,24 @@ async function fetching(
     if (name === "" || name === "." || name === "..") {
       return refused(
         `Drive file ${fileId} carries a name nothing can be written under: "${metadata.name}"`,
-        3
+        OPERATIONAL
       )
     }
     const at = join(folder, name)
     await mkdir(folder, { recursive: true })
     await Bun.write(at, bytes)
-    return { report: [isAbsolute(at) ? at : resolve(at)], refusals: [], code: 0 }
+    return told([isAbsolute(at) ? at : resolve(at)])
   } catch (thrown) {
-    return reachSaid(thrown, fileId) ?? refused(whyOf(thrown), exitCodeForThrowable(thrown))
+    return reachSaid(thrown, fileId) ?? refused(whyOf(thrown), codeOf(thrown))
   }
 }
 
 export async function googleDriveFetch(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+  if ("refused" in read) return refusedBy(read.refused)
   try {
     return await fetching(read.said, resolve(given.root), given.from)
   } catch (thrown) {
-    return refused(`${given.calledAs} — ${whyOf(thrown)}`, exitCodeForThrowable(thrown))
+    return refused(`${given.calledAs} — ${whyOf(thrown)}`, codeOf(thrown))
   }
 }

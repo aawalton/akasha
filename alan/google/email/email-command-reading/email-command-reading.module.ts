@@ -86,6 +86,10 @@ export const emailCommandReading = {
       statement: "A fault thrown at Gmail is answered as operational.",
     },
     {
+      invariantKind: "departure",
+      statement: "Every answer here is built by the one function building a command's answer.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here prints.",
     },

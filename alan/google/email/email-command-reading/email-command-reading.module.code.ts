@@ -2,6 +2,11 @@ import { readFileSync } from "node:fs"
 import { isAbsolute, resolve } from "node:path"
 import { buildComposeInput } from "akasha/alan/google/email/compose-input-from-arguments/compose-input-from-arguments.module.code.ts"
 import type { ComposeInput } from "akasha/alan/google/email/email-shapes/email-shapes.module.code.ts"
+import {
+  OPERATIONAL,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
@@ -182,18 +187,18 @@ export function maxIn(said: Said): number | undefined {
 }
 
 export function answering(value: unknown): Answer {
-  return { report: JSON.stringify(value, null, 2).split("\n"), refusals: [], code: 0 }
+  return told(JSON.stringify(value, null, 2).split("\n"))
 }
 
 export function refusing(said: readonly string[], code: number): Answer {
-  return { report: [], refusals: said, code }
+  return refusedBy(said, code)
 }
 
 export async function answeredBy(run: () => Promise<Answer>): Promise<Answer> {
   try {
     return await run()
   } catch (thrown) {
-    return refusing([whyOf(thrown)], 3)
+    return refusing([whyOf(thrown)], OPERATIONAL)
   }
 }
 

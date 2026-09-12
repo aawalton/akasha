@@ -10,6 +10,7 @@ import { GMAIL_SCOPES } from "akasha/alan/google/email/gmail-credentials/gmail-c
 import { readGoogleOauthAppCredentials } from "akasha/alan/google/oauth/oauth-app-credentials/oauth-app-credentials.module.code.ts"
 import { googleOauthConsentSaying } from "akasha/alan/google/oauth/oauth-consent/oauth-consent.module.code.ts"
 import { SHARED_TOKEN_VAR } from "akasha/alan/google/oauth/oauth-refresh-token/oauth-refresh-token.module.code.ts"
+import { INPUT, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 
 const CALLBACK_URL = "--callback-url"
@@ -24,7 +25,7 @@ export function readIn(argv: readonly string[]): Read {
 
 export function googleAuthLogin(argv: readonly string[]): Promise<Answer> {
   const said = readIn(argv)
-  if ("refused" in said) return Promise.resolve(refusing(said.refused, 1))
+  if ("refused" in said) return Promise.resolve(refusing(said.refused, INPUT))
   return answeredBy(async () => {
     const { clientId, clientSecret } = readGoogleOauthAppCredentials()
     const lines = await googleOauthConsentSaying({
@@ -34,6 +35,6 @@ export function googleAuthLogin(argv: readonly string[]): Promise<Answer> {
       tokenVar: SHARED_TOKEN_VAR,
       callbackUrl: said.one[CALLBACK_URL],
     })
-    return { report: lines, refusals: [], code: 0 }
+    return told(lines)
   })
 }
