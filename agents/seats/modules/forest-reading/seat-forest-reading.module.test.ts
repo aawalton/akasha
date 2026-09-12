@@ -1,13 +1,13 @@
 import { expect, test } from "bun:test"
 import type { SubagentPage } from "akasha/agents/page-reading/agent-page-reading.module.code.ts"
 import type { ForestRow } from "akasha/agents/seats/modules/forest/seat-forest.module.code.ts"
-import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   type ForestSaid,
   forestOver,
   NOW,
   type Reading,
-} from "akasha/seat-system/seat-forest-reading/seat-forest-reading.module.code.ts"
+} from "akasha/agents/seats/modules/forest-reading/seat-forest-reading.module.code.ts"
+import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   SEAT_TURN_STATES,
   type SeatTurnReading,
