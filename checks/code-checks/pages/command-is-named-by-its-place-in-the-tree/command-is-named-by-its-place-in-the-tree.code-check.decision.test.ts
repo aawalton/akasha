@@ -1,10 +1,13 @@
 import { expect, test } from "bun:test"
 import {
+  moduleReasonIn,
   PAGES_AT,
   reasonIn,
 } from "akasha/checks/code-checks/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.code-check.decision.code.ts"
 
 const ROOT = { folder: PAGES_AT, slug: null }
+
+const READ = { folder: "commands/pages/read", beside: true }
 
 const CALENDAR = { folder: "commands/pages/google/calendar", slug: "google-calendar" }
 
@@ -73,4 +76,50 @@ test("a name sharing no word with any folder above it is let through", () => {
   const at = "commands/pages/google/calendar/humming/google-calendar-humming.namespace.ts"
 
   expect(reasonIn(at, "google-calendar-humming", CALENDAR)).toBe(null)
+})
+
+test("a module in a folder directly inside the folder of the command naming it is let through", () => {
+  expect(moduleReasonIn("commands/pages/read/humming/humming.module.ts", READ)).toBe(null)
+})
+
+test("a module beside the command naming it rather than under it is refused", () => {
+  const said = moduleReasonIn("commands/pages/read/humming.module.ts", READ)
+
+  expect(said).toContain("commands/pages/read")
+})
+
+test("a module one folder too deep under the command naming it is refused", () => {
+  const said = moduleReasonIn("commands/pages/read/warbling/humming/humming.module.ts", READ)
+
+  expect(said).toContain("commands/pages/read/warbling/humming")
+})
+
+test("a module under a page that is no command and no namespace is refused", () => {
+  const at = "commands/pages/read/humming/humming.module.ts"
+  const said = moduleReasonIn(at, { folder: "commands/pages/read", beside: false })
+
+  expect(said).toContain("named by the command or the namespace beside it")
+})
+
+test("a module the command page type names is let through wherever it sits under commands", () => {
+  const said = moduleReasonIn("commands/modules/humming/humming.module.ts", {
+    folder: "commands",
+    beside: false,
+  })
+
+  expect(said).toBe(null)
+})
+
+test("a module under commands named by a page outside commands is refused", () => {
+  const at = "commands/modules/humming/humming.module.ts"
+  const said = moduleReasonIn(at, { folder: "warbling", beside: false })
+
+  expect(said).toContain("`warbling`")
+})
+
+test("a module whose name carries a word of a folder above it is let through", () => {
+  const at = "commands/pages/google/calendar/calendar-humming/calendar-humming.module.ts"
+  const said = moduleReasonIn(at, { folder: "commands/pages/google/calendar", beside: true })
+
+  expect(said).toBe(null)
 })

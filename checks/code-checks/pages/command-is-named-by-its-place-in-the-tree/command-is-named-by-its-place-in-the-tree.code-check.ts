@@ -5,7 +5,7 @@ export const commandIsNamedByItsPlaceInTheTree = {
   type: "code-check",
   slug: "command-is-named-by-its-place-in-the-tree",
   definition:
-    "the check refusing a command or a namespace misplaced or misnamed in the command tree",
+    "the check refusing a command, a namespace or a module misplaced or misnamed in the command tree",
   runsOnChange: true,
   runsOnDeploy: true,
   runsOnWorktree: false,
@@ -64,11 +64,25 @@ export const commandIsNamedByItsPlaceInTheTree = {
     },
     {
       invariantKind: "absence",
-      statement: "A module sitting beside a command is judged by nothing here.",
+      statement: "No page type is named here beyond the command, the namespace and the module.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A module under `commands/` is named among the parts of a page under `commands/`.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A module under `commands/pages` is named among the parts of the command or the namespace beside it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A module under `commands/pages` sits in a folder directly inside the folder of the page naming it.",
     },
     {
       invariantKind: "absence",
-      statement: "No page type is named here beyond the two this tree is built from.",
+      statement: "A module's own name is judged by nothing here.",
     },
   ],
   check: { maxCpuSeconds: 10 },
