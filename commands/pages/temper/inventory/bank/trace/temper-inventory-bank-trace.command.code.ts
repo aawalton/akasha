@@ -1,4 +1,7 @@
 import { resolve } from "node:path"
+import { takenFor } from "akasha/commands/arguments/argument-taking/argument-taking.module.code.ts"
+import { inventoryPath } from "akasha/commands/arguments/pages/inventory-path.argument.ts"
+import { json } from "akasha/commands/arguments/pages/json.argument.ts"
 import {
   asJson,
   OPERATIONAL,
@@ -9,11 +12,13 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { numSaid } from "akasha/commands/modules/inventory-trace-saying/inventory-trace-saying.module.code.ts"
-import { readInventoryFileArgs } from "akasha/commands/pages/temper/inventory/inventory-file-arguing/inventory-file-arguing.module.code.ts"
+import { temperInventoryBankTrace as page } from "akasha/commands/pages/temper/inventory/bank/trace/temper-inventory-bank-trace.command.ts"
 import { readBankTrace } from "akasha/temper/commands/bank-trace-reading/bank-trace-reading.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 
 const INVENTORY_LUA = "TemperInventory.lua"
+
+const NAMED = [json, inventoryPath]
 
 type Bracket = { readonly count: number; readonly totalMs: number; readonly maxMs: number }
 
@@ -115,17 +120,19 @@ export function traceSaid(trace: BankTrace): readonly string[] {
 }
 
 export async function temperInventoryBankTrace(
-  argv: readonly string[] = [],
-  given?: Given
+  argv: readonly string[],
+  given: Given
 ): Promise<Answer> {
-  const read = readInventoryFileArgs(argv)
+  const read = takenFor(argv, given.calledAs, page, NAMED)
   if ("refused" in read) return refusedBy(read.refused)
-  const root = given === undefined ? process.cwd() : resolve(given.root)
+  const taken = read.taken
   const at =
-    read.inventoryPath === null ? savedVarsFile(INVENTORY_LUA) : resolve(root, read.inventoryPath)
+    taken.inventoryPath === undefined
+      ? savedVarsFile(INVENTORY_LUA)
+      : resolve(given.root, taken.inventoryPath)
   try {
     const trace = (await readBankTrace(at)) as BankTrace
-    if (read.json) return asJson(trace)
+    if (taken.json) return asJson(trace)
     return told([...traceSaid(trace)])
   } catch (thrown) {
     return refused(whyOf(thrown), OPERATIONAL)
