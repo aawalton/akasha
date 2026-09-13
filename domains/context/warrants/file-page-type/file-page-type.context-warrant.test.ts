@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { blobIdOf, recordRead } from "akasha/agents/modules/read-record/read-record.module.code.ts"
+import { agentPaged } from "akasha/agents/modules/read-record/read-record.module.test-fixtures.ts"
 import {
   knowingIn,
   unreadIn,
@@ -112,6 +113,7 @@ test("a type whose page is not there warrants nothing of itself", () => {
 test("a type not read is refused, and the refusal says the type is owed", () => {
   const root = scratch.rootFor("akasha-file-page-type-")
   warrantsSeeded(root)
+  agentPaged(root, AGENT)
   typeWorld(root)
   const oid = writing(root, PATH, "one\n")
   recordRead(root, AGENT, { path: PATH, oid, seenAt: 1, carriedOid: null })
@@ -123,6 +125,7 @@ test("a type not read is refused, and the refusal says the type is owed", () => 
 test("one reading of a type answers for every path of that type", () => {
   const root = scratch.rootFor("akasha-file-page-type-")
   warrantsSeeded(root)
+  agentPaged(root, AGENT)
   typeWorld(root)
   const other = "akasha/thing/other.module.ts"
   for (const at of [PATH, other]) {

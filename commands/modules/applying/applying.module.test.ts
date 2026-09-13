@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { readingIn } from "akasha/agents/modules/read-record/read-record.module.code.ts"
+import { agentPaged } from "akasha/agents/modules/read-record/read-record.module.test-fixtures.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   applied,
@@ -55,6 +56,13 @@ async function indexed(): Promise<string> {
   await landing(root, rowsIn(root, CARRIED), "held", ADMITS)
   noImportersFiled(root)
   await landing(root, rowsIn(root, [{ path: PAGE, body: bytes(A) }]), "held", ADMITS)
+  agentPaged(root, AGENT)
+  return root
+}
+
+function applyingRepo(): string {
+  const root = pagesRepo()
+  agentPaged(root, AGENT)
   return root
 }
 
@@ -136,7 +144,7 @@ test("an apply handed no bodies is nothing to apply", async () => {
 })
 
 test("an apply the gate refused leaves the body as it was and records the reading", async () => {
-  const root = pagesRepo()
+  const root = applyingRepo()
   expect(readingIn(root, AGENT, PAGE)).toBeNull()
   const said = await applied(root, AGENT, "applied", REFUSES, null, [], carrying(MORE))
   expect("refusals" in said).toBe(true)
@@ -145,7 +153,7 @@ test("an apply the gate refused leaves the body as it was and records the readin
 })
 
 test("a path the change moved under is recorded as read from the body at HEAD", async () => {
-  const root = pagesRepo()
+  const root = applyingRepo()
   writeFileSync(join(root, PAGE), `// first\n${A}`)
   gitSaid(root, ["add", "--", PAGE])
   gitSaid(root, ["commit", "-q", "-m", "moved", "--", PAGE])
