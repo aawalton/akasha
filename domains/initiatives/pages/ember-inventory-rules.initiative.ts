@@ -21,7 +21,7 @@ export const emberInventoryRules = {
       statement:
         "A visit to the banker moves every item the rules send there, however many there are.",
       workingMemory:
-        "Alan asked for fifty moves every five seconds. fa24233 makes the cooldown mean that: a cap on moves sent per window rather than one batch per window, so re-sending a straggler no longer waits out a window it does not fill. Calling a move failed is its own shorter deadline, so four attempts cost six seconds rather than twenty. Moves confirm one at a time as their updates arrive, so one laggard no longer denies the rest their early settle. 34ec9ce says what each settle round cost.",
+        "The game allows a hundred stack moves per ten seconds across withdrawals and deposits together; Alan's fifty-every-five was a halving of that, taken when he had forgotten moves go both ways. b81c289 spends the real budget, over a sliding ten seconds rather than a tumbling window, and counts what was sent so a straggler sent again spends again. Calling a move failed is its own shorter deadline. Moves confirm one at a time. 34ec9ce says what each settle round cost.",
     },
     {
       statement: "An Experience Commendation the character carries reaches the bank.",
