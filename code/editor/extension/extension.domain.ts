@@ -148,6 +148,27 @@ export const extension = {
     },
     {
       invariantKind: "departure",
+      statement: "A colored row takes that color on its name and nowhere else.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A row whose children carry colors counts those children by color, after the whole count.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A count for a color is shown in that color rather than beside a word naming it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A count by color counts the children a row has directly.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A child carrying no color is counted by the whole count and by no other.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A panel opens by Ctrl+Alt and the first letter of that panel's name.",
     },
     {

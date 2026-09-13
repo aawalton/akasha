@@ -4,6 +4,7 @@ import {
   textMatches,
 } from "akasha/code/editor/extension/modules/tree-filter/tree-filter.module.code.ts"
 import {
+  colorTallyIn,
   TURN_SCHEME_PATH,
   turnColorIn,
 } from "akasha/code/editor/extension/modules/turn-color-scheme/turn-color-scheme.module.code.ts"
@@ -97,6 +98,11 @@ function buildTreeItem(
   )
   item.id = filtering ? `filtered:${element.key}` : element.key
   item.count = element.children.length === 0 ? undefined : element.children.length
+  const tally = colorTallyIn(element.children)
+  item.colorCounts =
+    tally.length === 0
+      ? undefined
+      : tally.map((one) => ({ count: one.count, color: new vscode.ThemeColor(one.colorId) }))
   item.description = element.detail ?? undefined
   item.iconPath = new vscode.ThemeIcon("blank")
   item.contextValue = element.kind

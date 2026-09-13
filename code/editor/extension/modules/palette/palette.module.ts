@@ -41,6 +41,14 @@ export const palette = {
       statement: "The names are answered as a set of their own.",
     },
     {
+      invariantKind: "departure",
+      statement: "The names are answered in an order, and that is the order they are shown in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The loudest turn state's color leads that order.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here says which terminal or row takes which color.",
     },

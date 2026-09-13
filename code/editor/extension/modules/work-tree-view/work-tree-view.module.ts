@@ -26,6 +26,14 @@ export const workTreeView = {
     },
     {
       invariantKind: "departure",
+      statement: "A row whose children carry colors counts those children by color after that.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A row whose children carry no color takes no count by color.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A row with a color sits under a scheme of this panel's own.",
     },
     {

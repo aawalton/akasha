@@ -9,6 +9,7 @@ import {
   textMatches,
 } from "akasha/code/editor/extension/modules/tree-filter/tree-filter.module.code.ts"
 import {
+  colorTallyIn,
   turnColorIn,
   turnStateSaid,
 } from "akasha/code/editor/extension/modules/turn-color-scheme/turn-color-scheme.module.code.ts"
@@ -39,6 +40,11 @@ function buildTreeItem(element: AgentNode, filtering: boolean, atTop: boolean): 
   )
   item.id = filtering ? `filtered:${element.id}` : element.id
   item.count = element.children.length === 0 ? undefined : element.children.length
+  const tally = colorTallyIn(element.children)
+  item.colorCounts =
+    tally.length === 0
+      ? undefined
+      : tally.map((one) => ({ count: one.count, color: new vscode.ThemeColor(one.colorId) }))
   item.iconPath = new vscode.ThemeIcon("blank")
   item.tooltip = (
     element.kind === "root"

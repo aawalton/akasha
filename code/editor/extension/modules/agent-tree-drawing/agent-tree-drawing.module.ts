@@ -28,6 +28,14 @@ export const agentTreeDrawing = {
     },
     {
       invariantKind: "departure",
+      statement: "A row whose children carry colors counts those children by color after that.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A row whose children carry no color takes no count by color.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The last line of a tooltip is the page akasha has for the row.",
     },
     {

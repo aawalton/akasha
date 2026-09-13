@@ -34,6 +34,26 @@ export const turnColorScheme = {
     },
     {
       invariantKind: "departure",
+      statement: "Children are tallied by the color each one carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tally counts the children a row has directly rather than every one beneath it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A child carrying no color is counted by no tally.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A color no child carries has no tally rather than a tally of none.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The tallies come back in the order the palette states its names.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A state of `unknown` is said as nothing.",
     },
     {

@@ -10,16 +10,18 @@ import type { Rgb } from "akasha/design/interfaces/tokens/modules/surface-color/
 import { TEXT_PRIMARY } from "akasha/design/interfaces/tokens/modules/text-color/text-color.module.code.ts"
 
 const PALETTE: Readonly<Record<string, Rgb>> = {
-  blue: BLUE,
   green: GREEN,
-  orange: ORANGE,
+  blue: BLUE,
+  yellow: YELLOW,
   purple: PURPLE,
+  orange: ORANGE,
   red: RED,
   text: TEXT_PRIMARY,
-  yellow: YELLOW,
 }
 
-export const PALETTE_NAMES: ReadonlySet<string> = new Set(Object.keys(PALETTE))
+export const PALETTE_ORDER: readonly string[] = Object.keys(PALETTE)
+
+export const PALETTE_NAMES: ReadonlySet<string> = new Set(PALETTE_ORDER)
 
 function toHex(rgb: Rgb): string {
   const channel = (value: number): string =>
