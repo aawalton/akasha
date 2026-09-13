@@ -8,6 +8,7 @@ import type {
   FileChange,
   Splice,
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { keysGoingInEntries } from "akasha/changes/modules/json-entries/json-entries.module.code.ts"
 import { without } from "akasha/changes/modules/literal-splicing/literal-splicing.module.code.ts"
 import { claimedIn } from "akasha/changes/modules/page-claiming/page-claiming.module.code.ts"
 import { namersIn, pageIn } from "akasha/changes/modules/page-knowing/page-knowing.module.code.ts"
@@ -16,7 +17,15 @@ import {
   listIn,
   literalIn,
   matchingIn,
+  valuesIn,
 } from "akasha/changes/modules/page-literal/page-literal.module.code.ts"
+import {
+  carriedUnder,
+  type Declared,
+  filedUnder,
+  typesDeclaring,
+  withinOf,
+} from "akasha/changes/modules/page-property-carrying/page-property-carrying.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { addressIn } from "akasha/pages/modules/address/page-address.module.code.ts"
@@ -35,12 +44,24 @@ const PAGE_PROPERTY = "pageProperty"
 
 const PAGE_TYPE = "page-type"
 
+const RECORD_PROPERTY = "record-property"
+
+const ENTRY_SHAPE = "page-property-entry"
+
 const FILE_PROPERTY = "file-property"
 
 const QUALIFIED = "qualified"
 
+const KINDS: ReadonlySet<string> = new Set([PAGE_TYPE, RECORD_PROPERTY, ENTRY_SHAPE])
+
+const NO_KEYS: ReadonlySet<string> = new Set()
+
 function namesNothing(named: string): string {
   return `\`${named}\` names no page property, so no property is taken away`
+}
+
+function noBody(path: string): string {
+  return `\`${path}\` holds no body, so nothing is taken out of it`
 }
 
 export type Asked = {
@@ -82,27 +103,35 @@ type Carrying = {
 function carryingIn(world: World, read: Reading, types: readonly string[]): Carrying {
   const paths = new Set<string>()
   const files = new Set<string>()
-  for (const type of types) {
-    for (const kind of world.index.kindsUnder(type)) {
-      for (const [path, value] of world.index.valuesByPath(kind)) {
-        const held = value[read.key]
-        if (held === undefined) continue
-        paths.add(path)
-        if (!read.beside || typeof held !== "string") continue
-        const at = besideAt(path, read.slug, held)
-        if (at !== null && world.bodyOf(at) !== null) files.add(at)
-      }
-    }
+  for (const one of carriedUnder(world, types, read.key, null)) {
+    paths.add(one.path)
+    if (!read.beside || typeof one.held !== "string") continue
+    const at = besideAt(one.path, read.slug, one.held)
+    if (at !== null && world.bodyOf(at) !== null) files.add(at)
   }
   return { paths, files }
 }
 
-function keyGone(text: string, source: ts.SourceFile, key: string): Splice | null {
-  const owner = literalIn(source)
-  if (owner === null) return null
-  const at = owner.properties.findIndex((one) => ts.isPropertyAssignment(one) && keyOf(one) === key)
-  if (owner.properties[at] === undefined) return null
-  return without(text, source, owner, owner.properties, at)
+function ownerIn(source: ts.SourceFile): readonly ts.ObjectLiteralExpression[] {
+  const held = literalIn(source)
+  return held === null ? [] : [held]
+}
+
+function keyGoneIn(
+  text: string,
+  source: ts.SourceFile,
+  owners: readonly ts.ObjectLiteralExpression[],
+  key: string
+): readonly Splice[] {
+  const found: Splice[] = []
+  for (const owner of owners) {
+    const at = owner.properties.findIndex(
+      (one) => ts.isPropertyAssignment(one) && keyOf(one) === key
+    )
+    if (owner.properties[at] === undefined) continue
+    found.push(without(text, source, owner, owner.properties, at))
+  }
+  return found
 }
 
 function declarationGone(text: string, source: ts.SourceFile, named: string): Splice | null {
@@ -123,15 +152,37 @@ function partGone(text: string, source: ts.SourceFile, named: string, slug: stri
   return without(text, source, list, list.elements, at)
 }
 
-function declaredElsewhere(world: World, read: Reading, named: string): string | null {
-  for (const one of world.index.declaringOf(read.id)) {
+function adriftIn(world: World, declared: readonly Declared[]): string | null {
+  for (const one of declared) {
     if (one.kind === PAGE_TYPE) continue
-    return (
-      `\`${named}\` is declared by \`${one.kind}/${one.slug}\`, which is no page type,` +
-      " and only a page type's declaration is taken away here"
-    )
+    if (!KINDS.has(one.kind)) {
+      return `\`${one.kind}/${one.slug}\` is no page type, record property or entry shape`
+    }
+    if (typesDeclaring(world, one.id).length === 0) {
+      return `no page type declares \`${one.kind}/${one.slug}\`, so where its values sit is read from nothing`
+    }
   }
   return null
+}
+
+function recordedIn(
+  world: World,
+  declared: readonly Declared[],
+  left: (one: string) => boolean
+): ReadonlyMap<string, ReadonlySet<string>> {
+  const found = new Map<string, Set<string>>()
+  for (const one of declared) {
+    if (one.kind !== RECORD_PROPERTY) continue
+    const within = withinOf(world, one, null)
+    if (within === null) continue
+    for (const path of within.carrying) {
+      if (!left(path)) continue
+      const held = found.get(path) ?? new Set<string>()
+      held.add(within.key)
+      found.set(path, held)
+    }
+  }
+  return found
 }
 
 function claimsOver(world: World, read: Reading): readonly string[] | string {
@@ -146,38 +197,50 @@ function claimsOver(world: World, read: Reading): readonly string[] | string {
 export function removePageProperty(world: World, given: Asked): Answer {
   const read = readingOf(world, given)
   if (typeof read === "string") return refusing(read)
-  const why = declaredElsewhere(world, read, given.property)
-  if (why !== null) return refusing(why)
-  const types = world.index.declaringOf(read.id).map((one) => one.path)
-  const carrying = carryingIn(
-    world,
-    read,
-    world.index.declaringOf(read.id).map((one) => one.slug)
-  )
+  const declared = world.index.declaringOf(read.id)
+  const why = adriftIn(world, declared)
+  if (why !== null) return refusing(`\`${given.property}\` is declared, and ${why}`)
+  const carrying = carryingIn(world, read, typesDeclaring(world, read.id))
   const claimed = claimsOver(world, read)
   if (typeof claimed === "string") return refusing(claimed)
   const gone = new Set([...claimed, ...carrying.files])
   const left = (one: string): boolean => !gone.has(one)
   const keyed = new Set([...carrying.paths].filter(left))
-  const declaring = new Set(types.filter(left))
+  const declaring = new Set(declared.map((one) => one.path).filter(left))
   const parting = new Set(
     namersIn(world, read.path, PARTS)
       .map((one) => one.path)
       .filter(left)
   )
+  const recorded = recordedIn(world, declared, left)
+  const entried = new Set(
+    declared
+      .filter((one) => one.kind === ENTRY_SHAPE)
+      .flatMap((one) => filedUnder(world, one))
+      .filter(left)
+  )
   const edits: FileChange[] = []
-  for (const path of new Set([...keyed, ...declaring, ...parting])) {
+  for (const path of new Set([...keyed, ...declaring, ...parting, ...recorded.keys()])) {
     const text = world.textOf(path)
-    if (text === null) return refusing(`\`${path}\` holds no body, so nothing is taken out of it`)
+    if (text === null) return refusing(noBody(path))
     const source = parsedAs(path, text)
-    const spots: Splice[] = []
-    const key = keyed.has(path) ? keyGone(text, source, read.key) : null
+    const spots: Splice[] = [
+      ...(keyed.has(path) ? keyGoneIn(text, source, ownerIn(source), read.key) : []),
+      ...[...(recorded.get(path) ?? NO_KEYS)].flatMap((one) =>
+        keyGoneIn(text, source, valuesIn(source, one), read.key)
+      ),
+    ]
     const held = declaring.has(path) ? declarationGone(text, source, given.property) : null
     const part = parting.has(path) ? partGone(text, source, given.property, read.slug) : null
-    for (const one of [key, held, part]) {
+    for (const one of [held, part]) {
       if (one !== null) spots.push(one)
     }
     edits.push(...splicedIn(path, text, spots))
+  }
+  for (const path of entried) {
+    const text = world.textOf(path)
+    if (text === null) return refusing(noBody(path))
+    edits.push(...splicedIn(path, text, keysGoingInEntries(path, text, new Set([read.key]))))
   }
   for (const path of gone) edits.push({ kind: "remove", path })
   return stating(edits)

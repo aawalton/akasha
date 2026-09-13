@@ -7,7 +7,8 @@ export const removePageProperty = {
   changeMode: "change-mode-remove",
   changeTargetType: "change-target-type/page-property",
   changeTargetSubtype: "change-target-subtype/page-property",
-  definition: "one page property taken away, off every page with it and off every page type",
+  definition:
+    "one page property taken away, off every page, record and entry, and off every declaration",
   code: "ts",
   test: "ts",
   invariants: [
@@ -44,7 +45,41 @@ export const removePageProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "Every page type declaring the property loses the record declaring it.",
+      statement:
+        "Every page type, record property and entry shape declaring it loses the record declaring it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The key goes out of every record a page states under a record property declaring it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The pages holding those records are the pages of every page type declaring that record.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The key goes out of every entry in every file of entries under a shape declaring it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The files of entries reached are the files beside every page stating that shape's key.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An entry stating no value under that key is passed over rather than refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A record property or entry shape declaring it that no page type declares is refused.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A record inside an entry, and a record inside a record, lose the key as well.",
     },
     {
       invariantKind: "departure",
@@ -93,14 +128,6 @@ export const removePageProperty = {
       invariantKind: "departure",
       statement:
         "A page stating no `property-slug` is no page property, so its address is refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A property a record property or an entry shape declares is refused.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A property declared as a record's field or an entry's key is taken away too.",
     },
     {
       invariantKind: "absence",

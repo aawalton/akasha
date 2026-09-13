@@ -29,6 +29,16 @@ const FILE_WOLD_TYPES_AT = "akasha/wold/wold.file-property.types.ts"
 
 const ONE_FILE_AT = "akasha/one/one.quoin.wold.ts"
 
+const TALLIES_AT = "akasha/tallies.record-property.ts"
+
+const SHAPE_AT = "akasha/tallies.page-property-entry.ts"
+
+const THREE_AT = "akasha/three/three.quoin.ts"
+
+const MONTH_AT = "akasha/months/one.month.ts"
+
+const ROWS_AT = "akasha/months/one.month.tallies.jsonl"
+
 const WOLD_BODY = `export const wold = {
   id: "wold-id",
   type: "text-property",
@@ -109,12 +119,15 @@ const BY_A_TYPE: readonly Declaring[] = [
 ]
 
 const BY_A_RECORD: readonly Declaring[] = [
-  {
-    slug: "tallies",
-    kind: "record-property",
-    id: "tallies-id",
-    path: "akasha/i.record-property.ts",
-  },
+  { slug: "tallies", kind: "record-property", id: "tallies-id", path: TALLIES_AT },
+]
+
+const BY_A_SHAPE: readonly Declaring[] = [
+  { slug: "tallies", kind: "page-property-entry", id: "shape-id", path: SHAPE_AT },
+]
+
+const BY_A_MONTH: readonly Declaring[] = [
+  { slug: "month", kind: "page-type", id: "month-id", path: "akasha/month.page-type.ts" },
 ]
 
 type Namer = { readonly path: string; readonly propertySlug: string }
@@ -123,11 +136,16 @@ const NAMERS: readonly Namer[] = [{ path: TYPE_AT, propertySlug: "parts" }]
 
 const NO_FILES: ReadonlyMap<string, ReadonlyMap<string, string | null>> = new Map()
 
+type Paged = Readonly<Record<string, readonly (readonly [string, Value])[]>>
+
+type Under = Readonly<Record<string, readonly Declaring[]>>
+
 type Making = {
   readonly bodies: Readonly<Record<string, string>>
   readonly values: Readonly<Record<string, Value>>
-  readonly declaring: readonly Declaring[]
-  readonly paged: readonly (readonly [string, Value])[]
+  readonly under: Under
+  readonly paged: Paged
+  readonly namers?: readonly Namer[]
   readonly files?: ReadonlyMap<string, ReadonlyMap<string, string | null>>
   readonly seen?: string[]
   readonly reads?: Map<string, number>
@@ -154,10 +172,10 @@ function worldIn(made: Making): World {
         const value = made.values[path]
         return value === undefined ? [] : [{ path, id: value["id"] }]
       },
-      namersOf: () => NAMERS,
-      declaringOf: () => made.declaring,
+      namersOf: () => made.namers ?? NAMERS,
+      declaringOf: (id: string) => made.under[id] ?? [],
       kindsUnder: (slug: string) => new Set([slug]),
-      valuesByPath: () => new Map(made.paged),
+      valuesByPath: (slug: string) => new Map(made.paged[slug] ?? []),
       filePropertiesAt: () => made.files ?? NO_FILES,
       sidecarsAt: () => new Map(),
       uncommittedFiledAt: () => new Map(),
@@ -167,16 +185,20 @@ function worldIn(made: Making): World {
   }
 }
 
-const PAGED: readonly (readonly [string, Value])[] = [
-  [ONE_AT, VALUES[ONE_AT] as Value],
-  [TWO_AT, VALUES[TWO_AT] as Value],
-]
+const PAGED: Paged = {
+  quoin: [
+    [ONE_AT, VALUES[ONE_AT] as Value],
+    [TWO_AT, VALUES[TWO_AT] as Value],
+  ],
+}
+
+const BY_THE_TYPE: Under = { "wold-id": BY_A_TYPE }
 
 function textWorld(seen: string[] = [], reads: Map<string, number> = new Map()): World {
   return worldIn({
     bodies: BODIES,
     values: VALUES,
-    declaring: BY_A_TYPE,
+    under: BY_THE_TYPE,
     paged: PAGED,
     seen,
     reads,
@@ -232,7 +254,7 @@ test("the property's own page goes", () => {
 })
 
 test("a property no page type declares has its page taken away all the same", () => {
-  const world = worldIn({ bodies: BODIES, values: VALUES, declaring: [], paged: PAGED })
+  const world = worldIn({ bodies: BODIES, values: VALUES, under: {}, paged: PAGED })
 
   const said = removePageProperty(world, { property: WOLD })
 
@@ -258,18 +280,150 @@ test("a page stating no property slug names no page property", () => {
   )
 })
 
-test("a property a record property declares is refused", () => {
+const RECORD_BODY = `export const tallies = {
+  id: "tallies-id",
+  type: "record-property",
+  slug: "tallies",
+  propertySlug: "tallies",
+  properties: [
+    { pageProperty: "text-property/note", required: false, many: false },
+    { pageProperty: "text-property/wold", required: false, many: false },
+  ],
+} as const
+`
+
+const THREE_BODY = `export const three = {
+  id: "three",
+  pageTypeSlug: "quoin",
+  slug: "three",
+  tallies: [{ wold: "held", note: "kept" }],
+} as const
+`
+
+const RECORD_VALUES: Readonly<Record<string, Value>> = {
+  [WOLD_AT]: { id: "wold-id", pageTypeSlug: "text-property", slug: "wold", propertySlug: "wold" },
+  [TALLIES_AT]: {
+    id: "tallies-id",
+    pageTypeSlug: "record-property",
+    slug: "tallies",
+    propertySlug: "tallies",
+  },
+  [THREE_AT]: {
+    id: "three",
+    pageTypeSlug: "quoin",
+    slug: "three",
+    tallies: [{ wold: "held", note: "kept" }],
+  },
+}
+
+function recordWorld(reads: Map<string, number> = new Map()): World {
+  return worldIn({
+    bodies: { [WOLD_AT]: WOLD_BODY, [TALLIES_AT]: RECORD_BODY, [THREE_AT]: THREE_BODY },
+    values: RECORD_VALUES,
+    under: { "wold-id": BY_A_RECORD, "tallies-id": BY_A_TYPE },
+    paged: { quoin: [[THREE_AT, RECORD_VALUES[THREE_AT] as Value]] },
+    namers: [],
+    reads,
+  })
+}
+
+test("the key goes out of every record a page states under a record property declaring it", () => {
+  const world = recordWorld()
+
+  const said = removePageProperty(world, { property: WOLD })
+
+  expect(bodyAnswered(said, world, THREE_AT)).toContain('tallies: [{ note: "kept" }]')
+})
+
+test("the record property declaring it loses the record declaring it", () => {
+  const world = recordWorld()
+
+  const said = removePageProperty(world, { property: WOLD })
+
+  expect(bodyAnswered(said, world, TALLIES_AT)).not.toContain(WOLD)
+  expect(bodyAnswered(said, world, TALLIES_AT)).toContain('pageProperty: "text-property/note"')
+})
+
+test("a record property no page type declares is refused", () => {
   const world = worldIn({
-    bodies: BODIES,
-    values: VALUES,
-    declaring: [...BY_A_TYPE, ...BY_A_RECORD],
-    paged: PAGED,
+    bodies: { [WOLD_AT]: WOLD_BODY },
+    values: RECORD_VALUES,
+    under: { "wold-id": BY_A_RECORD },
+    paged: {},
+    namers: [],
   })
 
   const said = removePageProperty(world, { property: WOLD })
 
   expect(said.edits).toEqual([])
-  expect(said.refused ?? "").toContain("is declared by `record-property/tallies`")
+  expect(said.refused ?? "").toContain("no page type declares `record-property/tallies`")
+})
+
+const SHAPE_BODY = `export const tallies = {
+  id: "shape-id",
+  type: "page-property-entry",
+  slug: "tallies",
+  propertySlug: "tallies",
+  properties: [
+    { pageProperty: "text-property/note", required: false, many: false },
+    { pageProperty: "text-property/wold", required: false, many: false },
+  ],
+} as const
+`
+
+const ROWS = ['{"id":"a","wold":"ts","note":"kept"}', '{"id":"b","note":"kept"}', ""].join("\n")
+
+const ENTRY_VALUES: Readonly<Record<string, Value>> = {
+  [WOLD_AT]: { id: "wold-id", pageTypeSlug: "text-property", slug: "wold", propertySlug: "wold" },
+  [SHAPE_AT]: {
+    id: "shape-id",
+    pageTypeSlug: "page-property-entry",
+    slug: "tallies",
+    propertySlug: "tallies",
+  },
+  [MONTH_AT]: { id: "month-one", pageTypeSlug: "month", slug: "one", tallies: "jsonl" },
+}
+
+function entryWorld(reads: Map<string, number> = new Map()): World {
+  return worldIn({
+    bodies: { [WOLD_AT]: WOLD_BODY, [SHAPE_AT]: SHAPE_BODY, [ROWS_AT]: ROWS },
+    values: ENTRY_VALUES,
+    under: { "wold-id": BY_A_SHAPE, "shape-id": BY_A_MONTH },
+    paged: { month: [[MONTH_AT, ENTRY_VALUES[MONTH_AT] as Value]] },
+    namers: [],
+    reads,
+  })
+}
+
+test("the key goes out of every entry in a file of entries under a shape declaring it", () => {
+  const world = entryWorld()
+
+  const said = removePageProperty(world, { property: WOLD })
+
+  expect(bodyAnswered(said, world, ROWS_AT)).toBe(
+    ['{"id":"a","note":"kept"}', '{"id":"b","note":"kept"}', ""].join("\n")
+  )
+})
+
+test("the entry shape declaring it loses the record declaring it", () => {
+  const world = entryWorld()
+
+  const said = removePageProperty(world, { property: WOLD })
+
+  expect(bodyAnswered(said, world, SHAPE_AT)).not.toContain(WOLD)
+  expect(bodyAnswered(said, world, SHAPE_AT)).toContain('pageProperty: "text-property/note"')
+})
+
+test("a page body holding records and a body of entries are each read once", () => {
+  const recorded = new Map<string, number>()
+  const entried = new Map<string, number>()
+
+  removePageProperty(recordWorld(recorded), { property: WOLD })
+  removePageProperty(entryWorld(entried), { property: WOLD })
+
+  expect(recorded.get(THREE_AT)).toBe(1)
+  expect(recorded.get(TALLIES_AT)).toBe(1)
+  expect(entried.get(SHAPE_AT)).toBe(1)
 })
 
 test("no rung beneath is reached", () => {
@@ -305,8 +459,8 @@ function fileWorld(): World {
   return worldIn({
     bodies: FILE_BODIES,
     values: FILE_VALUES,
-    declaring: BY_A_TYPE,
-    paged: [[ONE_AT, FILE_VALUES[ONE_AT] as Value]],
+    under: BY_THE_TYPE,
+    paged: { quoin: [[ONE_AT, FILE_VALUES[ONE_AT] as Value]] },
     files: new Map([["file-property", new Map([["types", null]])]]),
   })
 }
