@@ -8,6 +8,7 @@ export const collectionExternal = {
   pluralSlug: "collection-externals",
   parts: [
     "calendar-date-property/last-synced-at",
+    "module/external-identity-reading",
     "record-property/external-identity",
     "select-property/source",
     "text-property/external-id",
