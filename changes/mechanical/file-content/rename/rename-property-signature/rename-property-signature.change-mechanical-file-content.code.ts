@@ -14,7 +14,7 @@ import {
   declaredNamed,
   namingOf,
   spelledAs,
-} from "akasha/code/reading/modules/naming/code-naming.module.code.ts"
+} from "akasha/code/reading/modules/code-naming/code-naming.module.code.ts"
 import {
   placingOver,
   readingOf,
