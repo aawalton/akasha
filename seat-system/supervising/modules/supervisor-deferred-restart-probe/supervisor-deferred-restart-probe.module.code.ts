@@ -1,0 +1,37 @@
+import type { IdleObservation } from "akasha/agents/seats/supervisors/modules/idle-decide/supervisor-idle-decide.module.code.ts"
+import type { IdleRuleSource } from "akasha/seat-system/supervising/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
+
+export interface BoundedIdleReading {
+  idle: boolean
+  reason: string
+  obs: IdleObservation | null
+}
+
+export async function readIdleBounded(opts: {
+  observe: () => Promise<IdleObservation>
+  idleRule: IdleRuleSource
+  tickMs: number
+}): Promise<BoundedIdleReading> {
+  let deadlineId: ReturnType<typeof setTimeout> | undefined
+  const deadline = new Promise<BoundedIdleReading>((resolve) => {
+    deadlineId = setTimeout(
+      () => resolve({ idle: false, reason: "probe-timeout", obs: null }),
+      opts.tickMs
+    )
+    deadlineId.unref?.()
+  })
+  try {
+    return await Promise.race([
+      opts
+        .observe()
+        .then(async (obs) => {
+          const { value } = await opts.idleRule.preservingRestart(obs)
+          return { idle: value.idle, reason: value.reason, obs }
+        })
+        .catch(() => ({ idle: false, reason: "probe-error", obs: null })),
+      deadline,
+    ])
+  } finally {
+    if (deadlineId !== undefined) clearTimeout(deadlineId)
+  }
+}

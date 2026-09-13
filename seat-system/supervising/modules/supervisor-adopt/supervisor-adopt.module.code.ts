@@ -3,7 +3,7 @@ import {
   buildClaudeArgv,
   refuseMissingCwd,
 } from "akasha/agents/claude-code/modules/launch-args/claude-launch-args.module.code.ts"
-import type { SupervisorHandoff } from "akasha/seat-system/self-healing/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
+import type { SupervisorHandoff } from "akasha/seat-system/self-healing/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
 import type { ChildExitStatus } from "akasha/seat-system/supervising/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
 import type { ChildExitRuleSource } from "akasha/seat-system/supervising/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import {
@@ -15,13 +15,13 @@ import {
   HOME_DIR,
   LOG,
 } from "akasha/seat-system/supervising/modules/supervisor-config/supervisor-config.module.code.ts"
-import { buildSupervisorEnv } from "akasha/seat-system/supervising/supervisor-env/supervisor-env.module.code.ts"
+import { buildSupervisorEnv } from "akasha/seat-system/supervising/modules/supervisor-env/supervisor-env.module.code.ts"
 import {
   isProcessAlive,
   signalPid,
   waitForPidExit,
-} from "akasha/seat-system/supervising/supervisor-exec/supervisor-exec.module.code.ts"
-import { resolveRemoteControlEnv } from "akasha/seat-system/supervising/supervisor-remote-control-env/supervisor-remote-control-env.module.code.ts"
+} from "akasha/seat-system/supervising/modules/supervisor-exec/supervisor-exec.module.code.ts"
+import { resolveRemoteControlEnv } from "akasha/seat-system/supervising/modules/supervisor-remote-control-env/supervisor-remote-control-env.module.code.ts"
 import type { InheritedProc } from "akasha/seat-system/supervising/supervisor-types/supervisor-types.module.code.ts"
 import { asRecord } from "akasha/utils/narrow/modules/as-record/as-record.module.code.ts"
 

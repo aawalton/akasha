@@ -9,9 +9,9 @@ import type {
   PendingAgentAction,
 } from "akasha/seat-system/supervising/modules/supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
 import { LOG } from "akasha/seat-system/supervising/modules/supervisor-config/supervisor-config.module.code.ts"
-import { armDeferredRestart } from "akasha/seat-system/supervising/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"
-import type { DeferredRestartRuleSource } from "akasha/seat-system/supervising/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
-import type { IdleRuleSource } from "akasha/seat-system/supervising/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
+import { armDeferredRestart } from "akasha/seat-system/supervising/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"
+import type { DeferredRestartRuleSource } from "akasha/seat-system/supervising/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
+import type { IdleRuleSource } from "akasha/seat-system/supervising/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
 
 export function buildAgentActionSubsystem(opts: {
   killProc: () => void

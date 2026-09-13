@@ -14,19 +14,19 @@ import {
   parseRestartNotice,
   parseUncertainWait,
   parseWaitResume,
-} from "akasha/seat-system/supervising/supervisor-decide-payload/supervisor-decide-payload.module.code.ts"
-import { RULE_DECISIONS } from "akasha/seat-system/supervising/supervisor-decide-rules/supervisor-decide-rules.module.code.ts"
+} from "akasha/seat-system/supervising/modules/supervisor-decide-payload/supervisor-decide-payload.module.code.ts"
+import { RULE_DECISIONS } from "akasha/seat-system/supervising/modules/supervisor-decide-rules/supervisor-decide-rules.module.code.ts"
 import {
   decideLimitResume,
   LIMIT_RESUME_FLOOR_MS,
   type LimitResumeDecision,
-} from "akasha/seat-system/supervising/supervisor-limit-resume-decide/supervisor-limit-resume-decide.module.code.ts"
-import { decideRcDegradedBatch } from "akasha/seat-system/supervising/supervisor-rc-degraded-decide/supervisor-rc-degraded-decide.module.code.ts"
-import { decideRemoteControlBatch } from "akasha/seat-system/supervising/supervisor-remote-control-decide/supervisor-remote-control-decide.module.code.ts"
+} from "akasha/seat-system/supervising/modules/supervisor-limit-resume-decide/supervisor-limit-resume-decide.module.code.ts"
+import { decideRcDegradedBatch } from "akasha/seat-system/supervising/modules/supervisor-rc-degraded-decide/supervisor-rc-degraded-decide.module.code.ts"
+import { decideRemoteControlBatch } from "akasha/seat-system/supervising/modules/supervisor-remote-control-decide/supervisor-remote-control-decide.module.code.ts"
 import {
   planRestartNotice,
   type ResumeNotices,
-} from "akasha/seat-system/supervising/supervisor-restart-notice-decide/supervisor-restart-notice-decide.module.code.ts"
+} from "akasha/seat-system/supervising/modules/supervisor-restart-notice-decide/supervisor-restart-notice-decide.module.code.ts"
 import { decideUncertainBlockBatch } from "akasha/seat-system/supervising/supervisor-uncertain-wait-decide/supervisor-uncertain-wait-decide.module.code.ts"
 import {
   decideWaitResume,

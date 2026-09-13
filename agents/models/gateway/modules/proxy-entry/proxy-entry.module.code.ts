@@ -19,7 +19,7 @@ import {
   LOG_MAX_BYTES,
   redirectConsoleToSink,
   seatPageSink,
-} from "akasha/seat-system/supervising/supervisor-console/supervisor-console.module.code.ts"
+} from "akasha/seat-system/supervising/modules/supervisor-console/supervisor-console.module.code.ts"
 
 export const CONSOLE_SOURCE = "oauth-proxy-console"
 

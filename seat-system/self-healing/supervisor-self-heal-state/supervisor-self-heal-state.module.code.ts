@@ -1,17 +1,17 @@
 import {
   reExecAsked,
   takeReExecAsk,
-} from "akasha/seat-system/self-healing/supervisor-reexec-mark/supervisor-reexec-mark.module.code.ts"
+} from "akasha/seat-system/self-healing/modules/supervisor-reexec-mark/supervisor-reexec-mark.module.code.ts"
 import {
   defaultRunInstall,
   type SelfHealRunInstall,
 } from "akasha/seat-system/self-healing/supervisor-self-heal-install/supervisor-self-heal-install.module.code.ts"
 import type { SelfHealJitterRuleSource } from "akasha/seat-system/self-healing/supervisor-self-heal-jitter-rule/supervisor-self-heal-jitter-rule.module.code.ts"
 import { LOG } from "akasha/seat-system/supervising/modules/supervisor-config/supervisor-config.module.code.ts"
-import { armDeferredRestart } from "akasha/seat-system/supervising/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"
-import type { DeferredRestartRuleSource } from "akasha/seat-system/supervising/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
-import { isProcessAlive } from "akasha/seat-system/supervising/supervisor-exec/supervisor-exec.module.code.ts"
-import { LIVE_IDLE_RULE } from "akasha/seat-system/supervising/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
+import { armDeferredRestart } from "akasha/seat-system/supervising/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"
+import type { DeferredRestartRuleSource } from "akasha/seat-system/supervising/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
+import { isProcessAlive } from "akasha/seat-system/supervising/modules/supervisor-exec/supervisor-exec.module.code.ts"
+import { LIVE_IDLE_RULE } from "akasha/seat-system/supervising/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
 import { getInheritedClaude } from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
 
 function inheritedClaudePid(): number | null {

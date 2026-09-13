@@ -6,15 +6,15 @@ import {
   readProxyState,
 } from "akasha/agents/seats/modules/proxy-state/seat-proxy-state.module.code.ts"
 import { supervisorSocketPath } from "akasha/agents/seats/supervisors/modules/log-path/supervisor-log-path.module.code.ts"
-import type { ProxyAdoptionRuleSource } from "akasha/seat-system/oauth-proxy/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.code.ts"
+import type { ProxyAdoptionRuleSource } from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.code.ts"
 import {
   stopByPid,
   stopProxyIfOwned,
-} from "akasha/seat-system/oauth-proxy/supervisor-proxy-ownership/supervisor-proxy-ownership.module.code.ts"
+} from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-ownership/supervisor-proxy-ownership.module.code.ts"
 import {
   PORT_READ_BUDGET_MS,
   readFirstLineAsPort,
-} from "akasha/seat-system/oauth-proxy/supervisor-proxy-port-line/supervisor-proxy-port-line.module.code.ts"
+} from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-port-line/supervisor-proxy-port-line.module.code.ts"
 import { readAdoptedClaudeProxyPort } from "akasha/seat-system/supervising/modules/supervisor-adopted-claude-port/supervisor-adopted-claude-port.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import { pidAliveOrRefuse } from "akasha/utils/process/modules/pid-signal/pid-signal.module.code.ts"

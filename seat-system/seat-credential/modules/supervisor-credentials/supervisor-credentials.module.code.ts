@@ -1,0 +1,137 @@
+import {
+  DOORS,
+  fileRefreshedFrom,
+  fileWatched,
+} from "akasha/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.code.ts"
+import { terminalHealthMarks } from "akasha/agents/claude-accounts/modules/health/claude-account-health.module.code.ts"
+import {
+  DOORS as EFFECT_DOORS,
+  markedOn,
+} from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
+import type { ProxyAdoptionRuleSource } from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.code.ts"
+import {
+  type SupervisorOAuthProxyHandle,
+  spawnOrAdoptOAuthProxy,
+} from "akasha/seat-system/oauth-proxy/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
+import {
+  isAccountTerminal,
+  markAccountTerminal,
+} from "akasha/seat-system/seat-credential/modules/account-terminal/account-terminal.module.code.ts"
+import {
+  reportOAuthRecovered,
+  reportTerminalOAuthError,
+} from "akasha/seat-system/seat-credential/modules/oauth-health-lines/oauth-health-lines.module.code.ts"
+import {
+  configDirForAccount,
+  LOG,
+} from "akasha/seat-system/supervising/modules/supervisor-config/supervisor-config.module.code.ts"
+import { guardTick } from "akasha/seat-system/supervising/modules/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
+import { writePacingSnapshot } from "akasha/seat-system/supervising/supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts"
+
+async function runCredentialPullTick(args: {
+  account: string
+  getAgentId: () => string | null
+}): Promise<void> {
+  const { account } = args
+
+  if (isAccountTerminal(account)) {
+    return
+  }
+
+  const root = rootFor(resolveRoots(), AKASHA)
+  const configDir = configDirForAccount(account)
+
+  writePacingSnapshot(account, configDir)
+
+  let result: ReturnType<typeof fileRefreshedFrom>
+  try {
+    result = fileRefreshedFrom({
+      root,
+      slug: account,
+      dir: configDir,
+      doors: DOORS,
+      logPrefix: LOG,
+    })
+  } catch (err) {
+    console.error(`${LOG} Credential refresh error:`, err)
+    return
+  }
+
+  if (result.refreshed) return
+
+  if (result.terminal && markAccountTerminal(account)) {
+    markedOn(root, EFFECT_DOORS, account, terminalHealthMarks(Date.now()), LOG)
+    reportTerminalOAuthError(account, {}, LOG)
+  }
+}
+
+export async function buildCredentialSubsystem(args: {
+  account: string
+  configDir: string
+  agentIdHandle: { readonly id: string | null }
+  getLogDir: () => string
+  proxyOwnerAgentId: string
+  oauthProxyVersion: string
+  adoptedClaudePid: number | null
+  proxyAdoptionRule: ProxyAdoptionRuleSource
+}): Promise<{
+  stopCredentialWatch: () => void
+  credentialRefreshTimer: ReturnType<typeof setInterval>
+  proxy: SupervisorOAuthProxyHandle
+}> {
+  const { account, configDir, agentIdHandle, getLogDir, proxyOwnerAgentId, oauthProxyVersion } =
+    args
+  const { adoptedClaudePid } = args
+  const getId = () => agentIdHandle.id
+  const root = rootFor(resolveRoots(), AKASHA)
+
+  const stopCredentialFileWatch = fileWatched({
+    root,
+    dir: configDir,
+    slugOf: () => account,
+    doors: DOORS,
+    reading: readingIn(root),
+    pageOf: (path) => valueAt(path, root),
+    logPrefix: LOG,
+    shouldSkip: (a) => isAccountTerminal(a),
+    onReauthDetected: (a) => {
+      reportOAuthRecovered(a, "credential file re-auth detected", LOG)
+    },
+    onPushResult: (result) => {
+      if (result.ok) return
+      console.error(`${LOG} Credential push failed:`, result.error)
+    },
+  })
+
+  const stopCredentialWatch = stopCredentialFileWatch
+
+  const credentialRefreshTimer = setInterval(
+    () => {
+      guardTick(
+        () => runCredentialPullTick({ account, getAgentId: getId }),
+        (err) => console.error(`${LOG} credential pull tick error:`, err)
+      )
+    },
+    5 * 60 * 1000
+  )
+
+  const proxy = await spawnOrAdoptOAuthProxy(
+    {
+      agentId: proxyOwnerAgentId,
+      registrationAccount: account,
+      logDir: getLogDir(),
+      oauthProxyVersion,
+      adoptedClaudePid,
+    },
+    args.proxyAdoptionRule
+  )
+
+  return { stopCredentialWatch, credentialRefreshTimer, proxy }
+}
