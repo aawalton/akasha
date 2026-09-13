@@ -102,7 +102,11 @@ function seatOver(root: string, page: string): string | null {
 function noneSaid(root: string, page: string): string {
   const seat = seatOver(root, page)
   if (seat === null) return NONE
-  return `${NONE} — a subagent's draft goes to its seat when the subagent stops, so ask the ${seat} seat for what was drafted here before`
+  return (
+    `${NONE} — a subagent's draft goes to its seat when the subagent stops, so ask the ${seat}` +
+    " seat for what was drafted here before — `akasha change subagent take` takes it into that" +
+    " seat's own edits, and an apply there lands it"
+  )
 }
 
 export function pathsIn(rows: readonly FileChange[]): readonly string[] {

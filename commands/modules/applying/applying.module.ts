@@ -23,6 +23,11 @@ export const applying = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "That message read by a subagent names the seat its draft went to and the call taking it back.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An apply given no message says the act and the paths that apply lands.",
     },
     {
