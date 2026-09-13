@@ -9,10 +9,14 @@ export const theNewWorld0317358CauseAndEffect = {
   position: 317,
   ownLength: 4293,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1117965/358-cause-and-effect",
-  externalId: "1117965",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1117965",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1117965/358-cause-and-effect",
+    },
+  ],
   publishedAt: "2023-02-19",
   ownProgress: 4293,
   completedAt: "2026-06-29T21:32:01.534Z",

@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0143Chapter143Petunias = {
   position: 143,
   ownLength: 2070,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3638095/chapter-143-petunias",
-  externalId: "3638095",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3638095",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3638095/chapter-143-petunias",
+    },
+  ],
   publishedAt: "2026-07-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

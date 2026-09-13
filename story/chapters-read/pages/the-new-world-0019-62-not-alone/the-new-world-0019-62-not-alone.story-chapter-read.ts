@@ -9,9 +9,14 @@ export const theNewWorld001962NotAlone = {
   position: 19,
   ownLength: 2991,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/169237/62-not-alone",
-  externalId: "169237",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "169237",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/169237/62-not-alone",
+    },
+  ],
   publishedAt: "2017-10-20",
   ownProgress: 2991,
   completedAt: "2026-06-29T21:21:22.688Z",

@@ -9,10 +9,14 @@ export const theNewWorld005395AtlasDroppedTheSky = {
   position: 53,
   ownLength: 3800,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/186045/95-atlas-dropped-the-sky",
-  externalId: "186045",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "186045",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/186045/95-atlas-dropped-the-sky",
+    },
+  ],
   publishedAt: "2018-01-11",
   ownProgress: 3800,
   completedAt: "2026-06-29T21:22:38.866Z",

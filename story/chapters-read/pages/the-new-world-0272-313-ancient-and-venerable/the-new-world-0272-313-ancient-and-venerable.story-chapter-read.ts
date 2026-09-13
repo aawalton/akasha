@@ -9,10 +9,14 @@ export const theNewWorld0272313AncientAndVenerable = {
   position: 272,
   ownLength: 3107,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/751451/313-ancient-and-venerable",
-  externalId: "751451",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "751451",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/751451/313-ancient-and-venerable",
+    },
+  ],
   publishedAt: "2021-09-16",
   ownProgress: 3107,
   completedAt: "2026-06-29T21:30:31.936Z",

@@ -9,10 +9,14 @@ export const theNewWorld0235276KnowThyEnemy = {
   position: 235,
   ownLength: 4091,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/578918/276-know-thy-enemy",
-  externalId: "578918",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "578918",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/578918/276-know-thy-enemy",
+    },
+  ],
   publishedAt: "2020-11-03",
   ownProgress: 4091,
   completedAt: "2026-06-29T21:29:08.227Z",

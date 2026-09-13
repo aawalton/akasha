@@ -9,10 +9,14 @@ export const theNewWorld0329370WordsUtteredLawsMade = {
   position: 329,
   ownLength: 1018,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1139113/370-words-uttered-laws-made",
-  externalId: "1139113",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1139113",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1139113/370-words-uttered-laws-made",
+    },
+  ],
   publishedAt: "2023-03-15",
   ownProgress: 1018,
   completedAt: "2026-06-29T21:32:30.191Z",

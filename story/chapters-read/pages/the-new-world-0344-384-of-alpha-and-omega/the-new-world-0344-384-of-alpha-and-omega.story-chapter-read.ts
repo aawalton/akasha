@@ -9,10 +9,14 @@ export const theNewWorld0344384OfAlphaAndOmega = {
   position: 344,
   ownLength: 3834,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2099821/384-of-alpha-and-omega",
-  externalId: "2099821",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2099821",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2099821/384-of-alpha-and-omega",
+    },
+  ],
   publishedAt: "2025-03-03",
   ownProgress: 3834,
   completedAt: "2026-06-29T21:33:03.757Z",

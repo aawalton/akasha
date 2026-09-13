@@ -9,10 +9,14 @@ export const theNewWorld0180221TheLearningProcess = {
   position: 180,
   ownLength: 6157,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/392040/221-the-learning-process",
-  externalId: "392040",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "392040",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/392040/221-the-learning-process",
+    },
+  ],
   publishedAt: "2019-08-14",
   ownProgress: 6157,
   completedAt: "2026-06-29T21:27:03.599Z",

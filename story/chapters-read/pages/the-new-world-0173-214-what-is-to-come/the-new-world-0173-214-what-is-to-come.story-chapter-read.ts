@@ -9,10 +9,14 @@ export const theNewWorld0173214WhatIsToCome = {
   position: 173,
   ownLength: 2669,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/378898/214-what-is-to-come",
-  externalId: "378898",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "378898",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/378898/214-what-is-to-come",
+    },
+  ],
   publishedAt: "2019-07-05",
   ownProgress: 2669,
   completedAt: "2026-06-29T21:26:48.435Z",

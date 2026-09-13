@@ -9,10 +9,14 @@ export const theNewWorld0281322WhatItSFor = {
   position: 281,
   ownLength: 3333,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/763249/322-what-its-for",
-  externalId: "763249",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "763249",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/763249/322-what-its-for",
+    },
+  ],
   publishedAt: "2021-10-07",
   ownProgress: 3333,
   completedAt: "2026-06-29T21:30:51.316Z",

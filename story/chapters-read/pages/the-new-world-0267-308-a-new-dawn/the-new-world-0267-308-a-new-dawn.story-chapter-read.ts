@@ -9,10 +9,14 @@ export const theNewWorld0267308ANewDawn = {
   position: 267,
   ownLength: 4218,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/747313/308-a-new-dawn",
-  externalId: "747313",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "747313",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/747313/308-a-new-dawn",
+    },
+  ],
   publishedAt: "2021-09-08",
   ownProgress: 4218,
   completedAt: "2026-06-29T21:30:20.885Z",

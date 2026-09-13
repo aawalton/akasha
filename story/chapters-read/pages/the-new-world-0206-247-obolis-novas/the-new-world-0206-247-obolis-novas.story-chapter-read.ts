@@ -9,10 +9,14 @@ export const theNewWorld0206247ObolisNovas = {
   position: 206,
   ownLength: 2921,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/454247/247-obolis-novas",
-  externalId: "454247",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "454247",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/454247/247-obolis-novas",
+    },
+  ],
   publishedAt: "2020-02-07",
   ownProgress: 2921,
   completedAt: "2026-06-29T21:28:01.913Z",

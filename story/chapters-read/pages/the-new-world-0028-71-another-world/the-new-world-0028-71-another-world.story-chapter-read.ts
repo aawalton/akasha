@@ -9,10 +9,14 @@ export const theNewWorld002871AnotherWorld = {
   position: 28,
   ownLength: 3618,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/172659/71-another-world",
-  externalId: "172659",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "172659",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/172659/71-another-world",
+    },
+  ],
   publishedAt: "2017-11-06",
   ownProgress: 3618,
   completedAt: "2026-06-29T21:21:42.386Z",

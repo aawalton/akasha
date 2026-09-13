@@ -9,10 +9,14 @@ export const theNewWorld0310351EthicsAndArmies = {
   position: 310,
   ownLength: 3004,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1035941/351-ethics-and-armies",
-  externalId: "1035941",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1035941",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1035941/351-ethics-and-armies",
+    },
+  ],
   publishedAt: "2022-11-09",
   ownProgress: 3004,
   completedAt: "2026-06-29T21:31:48.415Z",

@@ -9,10 +9,14 @@ export const theNewWorld0182223HisOwnWay = {
   position: 182,
   ownLength: 3540,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/394878/223-his-own-way",
-  externalId: "394878",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "394878",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/394878/223-his-own-way",
+    },
+  ],
   publishedAt: "2019-08-21",
   ownProgress: 3540,
   completedAt: "2026-06-29T21:27:08.328Z",

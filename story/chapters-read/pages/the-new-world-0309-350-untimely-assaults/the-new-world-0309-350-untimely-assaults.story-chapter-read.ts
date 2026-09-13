@@ -9,10 +9,14 @@ export const theNewWorld0309350UntimelyAssaults = {
   position: 309,
   ownLength: 3312,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1032385/350-untimely-assaults",
-  externalId: "1032385",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1032385",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1032385/350-untimely-assaults",
+    },
+  ],
   publishedAt: "2022-11-05",
   ownProgress: 3312,
   completedAt: "2026-06-29T21:31:46.505Z",

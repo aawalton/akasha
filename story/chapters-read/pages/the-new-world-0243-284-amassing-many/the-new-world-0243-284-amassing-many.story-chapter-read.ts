@@ -9,10 +9,14 @@ export const theNewWorld0243284AmassingMany = {
   position: 243,
   ownLength: 5116,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/600968/284-amassing-many",
-  externalId: "600968",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "600968",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/600968/284-amassing-many",
+    },
+  ],
   publishedAt: "2020-12-16",
   ownProgress: 5116,
   completedAt: "2026-06-29T21:29:25.834Z",

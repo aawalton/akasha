@@ -9,10 +9,14 @@ export const theNewWorld0237278GraspingTheEthereal = {
   position: 237,
   ownLength: 4346,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/586485/278-grasping-the-ethereal",
-  externalId: "586485",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "586485",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/586485/278-grasping-the-ethereal",
+    },
+  ],
   publishedAt: "2020-11-17",
   ownProgress: 4346,
   completedAt: "2026-06-29T21:29:12.542Z",

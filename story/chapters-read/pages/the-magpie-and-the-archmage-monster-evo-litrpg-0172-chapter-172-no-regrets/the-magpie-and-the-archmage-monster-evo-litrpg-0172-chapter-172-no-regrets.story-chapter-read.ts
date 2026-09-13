@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0172Chapter172NoRegrets = {
   position: 172,
   ownLength: 2160,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3898939/chapter-172-no-regrets",
-  externalId: "3898939",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3898939",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3898939/chapter-172-no-regrets",
+    },
+  ],
   publishedAt: "2026-09-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theNewWorld0166207HelpMeHelpYou = {
   position: 166,
   ownLength: 2825,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/364156/207-help-me-help-you",
-  externalId: "364156",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "364156",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/364156/207-help-me-help-you",
+    },
+  ],
   publishedAt: "2019-05-21",
   ownProgress: 2825,
   completedAt: "2026-06-29T21:26:33.281Z",

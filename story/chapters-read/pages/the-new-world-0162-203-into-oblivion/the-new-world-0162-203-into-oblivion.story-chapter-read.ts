@@ -9,10 +9,14 @@ export const theNewWorld0162203IntoOblivion = {
   position: 162,
   ownLength: 4535,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/360244/203-into-oblivion",
-  externalId: "360244",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "360244",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/360244/203-into-oblivion",
+    },
+  ],
   publishedAt: "2019-05-09",
   ownProgress: 4535,
   completedAt: "2026-06-29T21:26:24.543Z",

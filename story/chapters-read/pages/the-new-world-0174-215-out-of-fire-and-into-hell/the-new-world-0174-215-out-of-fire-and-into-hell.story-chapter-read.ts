@@ -9,10 +9,14 @@ export const theNewWorld0174215OutOfFireAndIntoHell = {
   position: 174,
   ownLength: 2472,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/380196/215-out-of-fire-and-into-hell",
-  externalId: "380196",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "380196",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/380196/215-out-of-fire-and-into-hell",
+    },
+  ],
   publishedAt: "2019-07-09",
   ownProgress: 2472,
   completedAt: "2026-06-29T21:26:50.575Z",

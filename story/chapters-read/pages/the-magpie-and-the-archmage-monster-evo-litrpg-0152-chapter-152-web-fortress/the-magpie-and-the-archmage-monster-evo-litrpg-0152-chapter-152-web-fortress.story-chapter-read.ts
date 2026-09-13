@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0152Chapter152WebFortress = 
   position: 152,
   ownLength: 1994,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3731171/chapter-152-web-fortress",
-  externalId: "3731171",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3731171",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3731171/chapter-152-web-fortress",
+    },
+  ],
   publishedAt: "2026-07-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

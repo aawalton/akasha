@@ -9,10 +9,14 @@ export const theNewWorld0149190Operations = {
   position: 149,
   ownLength: 3144,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/342737/190-operations",
-  externalId: "342737",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "342737",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/342737/190-operations",
+    },
+  ],
   publishedAt: "2019-03-14",
   ownProgress: 3144,
   completedAt: "2026-06-29T21:25:55.010Z",

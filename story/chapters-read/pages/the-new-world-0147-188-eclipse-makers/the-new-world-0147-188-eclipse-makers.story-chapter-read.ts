@@ -9,10 +9,14 @@ export const theNewWorld0147188EclipseMakers = {
   position: 147,
   ownLength: 2903,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/338636/188-eclipse-makers",
-  externalId: "338636",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "338636",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/338636/188-eclipse-makers",
+    },
+  ],
   publishedAt: "2019-03-01",
   ownProgress: 2903,
   completedAt: "2026-06-29T21:25:50.705Z",

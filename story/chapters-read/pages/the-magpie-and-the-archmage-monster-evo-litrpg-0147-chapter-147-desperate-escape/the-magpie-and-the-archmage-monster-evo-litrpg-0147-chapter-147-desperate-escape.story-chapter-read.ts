@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0147Chapter147DesperateEscap
   position: 147,
   ownLength: 2112,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3678870/chapter-147-desperate-escape",
-  externalId: "3678870",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3678870",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3678870/chapter-147-desperate-escape",
+    },
+  ],
   publishedAt: "2026-07-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

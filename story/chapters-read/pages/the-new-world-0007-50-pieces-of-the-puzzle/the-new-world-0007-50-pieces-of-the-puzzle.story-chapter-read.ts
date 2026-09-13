@@ -9,10 +9,14 @@ export const theNewWorld000750PiecesOfThePuzzle = {
   position: 7,
   ownLength: 3845,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/163457/50-pieces-of-the-puzzle",
-  externalId: "163457",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "163457",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/163457/50-pieces-of-the-puzzle",
+    },
+  ],
   publishedAt: "2017-09-22",
   ownProgress: 3845,
   completedAt: "2026-06-29T21:20:55.777Z",

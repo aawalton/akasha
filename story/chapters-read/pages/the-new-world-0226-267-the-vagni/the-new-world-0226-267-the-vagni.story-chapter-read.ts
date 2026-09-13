@@ -9,10 +9,14 @@ export const theNewWorld0226267TheVagni = {
   position: 226,
   ownLength: 7571,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/549444/267-the-vagni",
-  externalId: "549444",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "549444",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/549444/267-the-vagni",
+    },
+  ],
   publishedAt: "2020-09-04",
   ownProgress: 7571,
   completedAt: "2026-06-29T21:28:46.642Z",

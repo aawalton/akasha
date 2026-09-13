@@ -9,10 +9,14 @@ export const theNewWorld000649ReapingRewards = {
   position: 6,
   ownLength: 3508,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/163196/49-reaping-rewards",
-  externalId: "163196",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "163196",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/163196/49-reaping-rewards",
+    },
+  ],
   publishedAt: "2017-09-20",
   ownProgress: 3508,
   completedAt: "2026-06-29T21:20:53.575Z",

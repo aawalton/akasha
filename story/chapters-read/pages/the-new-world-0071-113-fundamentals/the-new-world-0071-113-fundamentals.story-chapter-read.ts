@@ -9,10 +9,14 @@ export const theNewWorld0071113Fundamentals = {
   position: 71,
   ownLength: 2962,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/209240/113-fundamentals",
-  externalId: "209240",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "209240",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/209240/113-fundamentals",
+    },
+  ],
   publishedAt: "2018-04-19",
   ownProgress: 2962,
   completedAt: "2026-06-29T21:23:17.174Z",

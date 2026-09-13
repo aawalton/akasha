@@ -9,10 +9,14 @@ export const theNewWorld0246287GalacticAnarchy = {
   position: 246,
   ownLength: 5481,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/632299/287-galactic-anarchy",
-  externalId: "632299",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "632299",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/632299/287-galactic-anarchy",
+    },
+  ],
   publishedAt: "2021-02-16",
   ownProgress: 5481,
   completedAt: "2026-06-29T21:29:32.501Z",

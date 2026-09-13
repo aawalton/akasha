@@ -9,10 +9,14 @@ export const theNewWorld0291332NotAGameOfChance = {
   position: 291,
   ownLength: 4012,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/845742/332-not-a-game-of-chance",
-  externalId: "845742",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "845742",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/845742/332-not-a-game-of-chance",
+    },
+  ],
   publishedAt: "2022-02-14",
   ownProgress: 4012,
   completedAt: "2026-06-29T21:31:12.373Z",

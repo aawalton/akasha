@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0135Chapter135WhatAmIBecomin
   position: 135,
   ownLength: 1751,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3527382/chapter-135-what-am-i-becoming",
-  externalId: "3527382",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3527382",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3527382/chapter-135-what-am-i-becoming",
+    },
+  ],
   publishedAt: "2026-06-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theNewWorld004386TheFinalPiece = {
   position: 43,
   ownLength: 2119,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/179187/86-the-final-piece",
-  externalId: "179187",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "179187",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/179187/86-the-final-piece",
+    },
+  ],
   publishedAt: "2017-12-09",
   ownProgress: 2119,
   completedAt: "2026-06-29T21:22:15.763Z",

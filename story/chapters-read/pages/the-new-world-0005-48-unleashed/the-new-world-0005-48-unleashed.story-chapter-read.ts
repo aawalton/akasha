@@ -9,9 +9,14 @@ export const theNewWorld000548Unleashed = {
   position: 5,
   ownLength: 4112,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/162676/48-unleashed",
-  externalId: "162676",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "162676",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/162676/48-unleashed",
+    },
+  ],
   publishedAt: "2017-09-18",
   ownProgress: 4112,
   completedAt: "2026-06-29T21:20:51.349Z",

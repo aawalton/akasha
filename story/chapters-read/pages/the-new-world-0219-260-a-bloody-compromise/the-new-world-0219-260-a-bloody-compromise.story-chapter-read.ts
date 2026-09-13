@@ -9,10 +9,14 @@ export const theNewWorld0219260ABloodyCompromise = {
   position: 219,
   ownLength: 2385,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/503819/260-a-bloody-compromise",
-  externalId: "503819",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "503819",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/503819/260-a-bloody-compromise",
+    },
+  ],
   publishedAt: "2020-05-31",
   ownProgress: 2385,
   completedAt: "2026-06-29T21:28:31.206Z",

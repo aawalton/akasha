@@ -9,10 +9,14 @@ export const theNewWorld0087128FissuresForm = {
   position: 87,
   ownLength: 1197,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/224167/128-fissures-form",
-  externalId: "224167",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "224167",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/224167/128-fissures-form",
+    },
+  ],
   publishedAt: "2018-06-14",
   ownProgress: 1197,
   completedAt: "2026-06-29T21:23:50.745Z",

@@ -9,10 +9,14 @@ export const theNewWorld0258299AShiningMassacre = {
   position: 258,
   ownLength: 4261,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/659398/299-a-shining-massacre",
-  externalId: "659398",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "659398",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/659398/299-a-shining-massacre",
+    },
+  ],
   publishedAt: "2021-04-06",
   ownProgress: 4261,
   completedAt: "2026-06-29T21:30:00.613Z",

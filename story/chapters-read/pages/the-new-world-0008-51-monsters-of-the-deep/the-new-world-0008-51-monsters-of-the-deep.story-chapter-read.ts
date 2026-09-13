@@ -9,10 +9,14 @@ export const theNewWorld000851MonstersOfTheDeep = {
   position: 8,
   ownLength: 3054,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/164412/51-monsters-of-the-deep",
-  externalId: "164412",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "164412",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/164412/51-monsters-of-the-deep",
+    },
+  ],
   publishedAt: "2017-09-27",
   ownProgress: 3054,
   completedAt: "2026-06-29T21:20:57.963Z",

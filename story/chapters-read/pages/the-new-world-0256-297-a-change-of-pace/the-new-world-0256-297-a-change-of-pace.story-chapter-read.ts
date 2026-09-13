@@ -9,10 +9,14 @@ export const theNewWorld0256297AChangeOfPace = {
   position: 256,
   ownLength: 5423,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/654171/297-a-change-of-pace",
-  externalId: "654171",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "654171",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/654171/297-a-change-of-pace",
+    },
+  ],
   publishedAt: "2021-03-28",
   ownProgress: 5423,
   completedAt: "2026-06-29T21:29:56.259Z",

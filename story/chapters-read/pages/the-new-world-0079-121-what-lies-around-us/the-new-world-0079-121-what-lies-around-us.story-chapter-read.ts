@@ -9,10 +9,14 @@ export const theNewWorld0079121WhatLiesAroundUs = {
   position: 79,
   ownLength: 3867,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/216378/121-what-lies-around-us",
-  externalId: "216378",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "216378",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/216378/121-what-lies-around-us",
+    },
+  ],
   publishedAt: "2018-05-16",
   ownProgress: 3867,
   completedAt: "2026-06-29T21:23:34.373Z",

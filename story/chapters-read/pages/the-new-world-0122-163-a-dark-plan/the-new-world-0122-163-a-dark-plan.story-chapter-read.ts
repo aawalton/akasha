@@ -9,10 +9,14 @@ export const theNewWorld0122163ADarkPlan = {
   position: 122,
   ownLength: 2099,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/306929/163-a-dark-plan",
-  externalId: "306929",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "306929",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/306929/163-a-dark-plan",
+    },
+  ],
   publishedAt: "2018-11-15",
   ownProgress: 2099,
   completedAt: "2026-06-29T21:25:11.016Z",

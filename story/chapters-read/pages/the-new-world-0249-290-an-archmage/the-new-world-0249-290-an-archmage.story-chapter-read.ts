@@ -9,10 +9,14 @@ export const theNewWorld0249290AnArchmage = {
   position: 249,
   ownLength: 3114,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/639771/290-an-archmage",
-  externalId: "639771",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "639771",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/639771/290-an-archmage",
+    },
+  ],
   publishedAt: "2021-03-01",
   ownProgress: 3114,
   completedAt: "2026-06-29T21:29:39.642Z",

@@ -9,10 +9,14 @@ export const theNewWorld0202243ADiscourse = {
   position: 202,
   ownLength: 3642,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/449073/243-a-discourse",
-  externalId: "449073",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "449073",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/449073/243-a-discourse",
+    },
+  ],
   publishedAt: "2020-01-24",
   ownProgress: 3642,
   completedAt: "2026-06-29T21:27:53.488Z",

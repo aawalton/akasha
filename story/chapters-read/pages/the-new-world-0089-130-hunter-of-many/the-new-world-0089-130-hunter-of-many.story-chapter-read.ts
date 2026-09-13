@@ -9,10 +9,14 @@ export const theNewWorld0089130HunterOfMany = {
   position: 89,
   ownLength: 2913,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/226884/130-hunter-of-many",
-  externalId: "226884",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "226884",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/226884/130-hunter-of-many",
+    },
+  ],
   publishedAt: "2018-06-22",
   ownProgress: 2913,
   completedAt: "2026-06-29T21:23:55.368Z",

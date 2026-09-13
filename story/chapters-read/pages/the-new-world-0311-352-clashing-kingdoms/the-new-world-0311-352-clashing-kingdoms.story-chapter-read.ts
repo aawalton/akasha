@@ -9,10 +9,14 @@ export const theNewWorld0311352ClashingKingdoms = {
   position: 311,
   ownLength: 3302,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1057531/352-clashing-kingdoms",
-  externalId: "1057531",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1057531",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1057531/352-clashing-kingdoms",
+    },
+  ],
   publishedAt: "2022-12-07",
   ownProgress: 3302,
   completedAt: "2026-06-29T21:31:50.240Z",

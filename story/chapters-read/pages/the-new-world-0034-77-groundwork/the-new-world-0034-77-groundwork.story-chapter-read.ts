@@ -9,10 +9,14 @@ export const theNewWorld003477Groundwork = {
   position: 34,
   ownLength: 5371,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/174715/77-groundwork",
-  externalId: "174715",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "174715",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/174715/77-groundwork",
+    },
+  ],
   publishedAt: "2017-11-16",
   ownProgress: 5371,
   completedAt: "2026-06-29T21:21:55.843Z",

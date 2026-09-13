@@ -9,10 +9,14 @@ export const theNewWorld0159200TheFallen = {
   position: 159,
   ownLength: 4577,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/350972/200-the-fallen",
-  externalId: "350972",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "350972",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/350972/200-the-fallen",
+    },
+  ],
   publishedAt: "2019-04-08",
   ownProgress: 4577,
   completedAt: "2026-06-29T21:26:18.233Z",

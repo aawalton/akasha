@@ -9,10 +9,14 @@ export const theNewWorld0290331TheLottery = {
   position: 290,
   ownLength: 3327,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/843733/331-the-lottery",
-  externalId: "843733",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "843733",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/843733/331-the-lottery",
+    },
+  ],
   publishedAt: "2022-02-11",
   ownProgress: 3327,
   completedAt: "2026-06-29T21:31:10.288Z",

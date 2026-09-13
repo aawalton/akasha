@@ -9,10 +9,14 @@ export const theNewWorld0112153WhatOnceWas = {
   position: 112,
   ownLength: 3289,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/301809/153-what-once-was",
-  externalId: "301809",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "301809",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/301809/153-what-once-was",
+    },
+  ],
   publishedAt: "2018-10-28",
   ownProgress: 3289,
   completedAt: "2026-06-29T21:24:49.140Z",

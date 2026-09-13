@@ -9,10 +9,14 @@ export const theNewWorld0340380AChangedAlbony = {
   position: 340,
   ownLength: 2036,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2091831/380-a-changed-albony",
-  externalId: "2091831",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2091831",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2091831/380-a-changed-albony",
+    },
+  ],
   publishedAt: "2025-02-27",
   ownProgress: 2036,
   completedAt: "2026-06-29T21:32:54.391Z",

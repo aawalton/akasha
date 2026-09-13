@@ -7,12 +7,16 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0177Chapter177TheInvaders = 
   position: 177,
   publishedAt: "2026-09-11",
   unit: "words",
-  externalId: "3942624",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3942624",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3942624/chapter-177-the-invaders",
+    },
+  ],
   title: "Chapter 177 – The Invaders",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   ownLength: 1987,
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3942624/chapter-177-the-invaders",
   prose: "txt",
 } as const satisfies StoryChapterRead

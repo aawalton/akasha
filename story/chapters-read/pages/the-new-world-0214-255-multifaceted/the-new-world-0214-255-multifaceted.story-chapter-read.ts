@@ -9,10 +9,14 @@ export const theNewWorld0214255Multifaceted = {
   position: 214,
   ownLength: 2065,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/495821/255-multifaceted",
-  externalId: "495821",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "495821",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/495821/255-multifaceted",
+    },
+  ],
   publishedAt: "2020-05-13",
   ownProgress: 2065,
   completedAt: "2026-06-29T21:28:20.665Z",

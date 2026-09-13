@@ -9,10 +9,14 @@ export const theNewWorld0342382AnEarnedIntermission = {
   position: 342,
   ownLength: 5725,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2095915/382-an-earned-intermission",
-  externalId: "2095915",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2095915",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2095915/382-an-earned-intermission",
+    },
+  ],
   publishedAt: "2025-02-28",
   ownProgress: 5725,
   completedAt: "2026-06-29T21:32:58.357Z",

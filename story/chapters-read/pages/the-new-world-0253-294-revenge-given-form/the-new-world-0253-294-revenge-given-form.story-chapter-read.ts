@@ -9,10 +9,14 @@ export const theNewWorld0253294RevengeGivenForm = {
   position: 253,
   ownLength: 4358,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/649019/294-revenge-given-form",
-  externalId: "649019",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "649019",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/649019/294-revenge-given-form",
+    },
+  ],
   publishedAt: "2021-03-18",
   ownProgress: 4358,
   completedAt: "2026-06-29T21:29:48.785Z",

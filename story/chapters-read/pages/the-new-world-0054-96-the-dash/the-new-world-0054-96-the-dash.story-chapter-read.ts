@@ -9,9 +9,14 @@ export const theNewWorld005496TheDash = {
   position: 54,
   ownLength: 2195,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/187374/96-the-dash",
-  externalId: "187374",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "187374",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/187374/96-the-dash",
+    },
+  ],
   publishedAt: "2018-01-16",
   ownProgress: 2195,
   completedAt: "2026-06-29T21:22:40.937Z",

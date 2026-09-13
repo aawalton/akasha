@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0165Chapter165MotherOfTheDes
   position: 165,
   ownLength: 2090,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3841903/chapter-165-mother-of-the-desert",
-  externalId: "3841903",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3841903",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3841903/chapter-165-mother-of-the-desert",
+    },
+  ],
   publishedAt: "2026-08-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

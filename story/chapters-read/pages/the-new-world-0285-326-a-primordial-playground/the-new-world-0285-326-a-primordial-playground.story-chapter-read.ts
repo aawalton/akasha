@@ -9,10 +9,14 @@ export const theNewWorld0285326APrimordialPlayground = {
   position: 285,
   ownLength: 2965,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/836623/326-a-primordial-playground",
-  externalId: "836623",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "836623",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/836623/326-a-primordial-playground",
+    },
+  ],
   publishedAt: "2022-02-01",
   ownProgress: 2965,
   completedAt: "2026-06-29T21:30:59.775Z",

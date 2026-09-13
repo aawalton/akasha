@@ -9,10 +9,14 @@ export const theNewWorld0229270DiscussionsAndDeals = {
   position: 229,
   ownLength: 6431,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/558989/270-discussions-and-deals",
-  externalId: "558989",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "558989",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/558989/270-discussions-and-deals",
+    },
+  ],
   publishedAt: "2020-09-23",
   ownProgress: 6431,
   completedAt: "2026-06-29T21:28:54.092Z",

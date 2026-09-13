@@ -9,9 +9,14 @@ export const theNewWorld004285Grimoire = {
   position: 42,
   ownLength: 3440,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/178756/85-grimoire",
-  externalId: "178756",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "178756",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/178756/85-grimoire",
+    },
+  ],
   publishedAt: "2017-12-07",
   ownProgress: 3440,
   completedAt: "2026-06-29T21:22:13.662Z",

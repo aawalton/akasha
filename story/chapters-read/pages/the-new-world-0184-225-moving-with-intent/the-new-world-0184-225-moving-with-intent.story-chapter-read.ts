@@ -9,10 +9,14 @@ export const theNewWorld0184225MovingWithIntent = {
   position: 184,
   ownLength: 3734,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/404719/225-moving-with-intent",
-  externalId: "404719",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "404719",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/404719/225-moving-with-intent",
+    },
+  ],
   publishedAt: "2019-09-21",
   ownProgress: 3734,
   completedAt: "2026-06-29T21:27:12.783Z",

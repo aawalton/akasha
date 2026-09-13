@@ -9,9 +9,14 @@ export const theNewWorld0171212Fallout = {
   position: 171,
   ownLength: 3146,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/375854/212-fallout",
-  externalId: "375854",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "375854",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/375854/212-fallout",
+    },
+  ],
   publishedAt: "2019-06-25",
   ownProgress: 3146,
   completedAt: "2026-06-29T21:26:44.089Z",

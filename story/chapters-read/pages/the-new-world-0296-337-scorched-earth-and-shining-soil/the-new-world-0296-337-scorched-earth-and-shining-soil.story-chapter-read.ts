@@ -9,10 +9,14 @@ export const theNewWorld0296337ScorchedEarthAndShiningSoil = {
   position: 296,
   ownLength: 3282,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/870751/337-scorched-earth-and-shining-soil",
-  externalId: "870751",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "870751",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/870751/337-scorched-earth-and-shining-soil",
+    },
+  ],
   publishedAt: "2022-03-24",
   ownProgress: 3282,
   completedAt: "2026-06-29T21:31:22.014Z",

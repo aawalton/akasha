@@ -9,9 +9,14 @@ export const theNewWorld0132173Riptide = {
   position: 132,
   ownLength: 4560,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/321695/173-riptide",
-  externalId: "321695",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "321695",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/321695/173-riptide",
+    },
+  ],
   publishedAt: "2019-01-06",
   ownProgress: 4560,
   completedAt: "2026-06-29T21:36:11.125Z",

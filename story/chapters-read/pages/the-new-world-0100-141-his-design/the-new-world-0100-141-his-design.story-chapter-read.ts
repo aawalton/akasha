@@ -9,10 +9,14 @@ export const theNewWorld0100141HisDesign = {
   position: 100,
   ownLength: 3232,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/282481/141-his-design",
-  externalId: "282481",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "282481",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/282481/141-his-design",
+    },
+  ],
   publishedAt: "2018-08-17",
   ownProgress: 3232,
   completedAt: "2026-06-29T21:24:18.009Z",

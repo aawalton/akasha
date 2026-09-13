@@ -9,10 +9,14 @@ export const theNewWorld0168209SendingAMessage = {
   position: 168,
   ownLength: 1411,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/367843/209-sending-a-message",
-  externalId: "367843",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "367843",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/367843/209-sending-a-message",
+    },
+  ],
   publishedAt: "2019-06-01",
   ownProgress: 1411,
   completedAt: "2026-06-29T21:26:37.575Z",

@@ -9,10 +9,14 @@ export const theNewWorld0091132Expedition = {
   position: 91,
   ownLength: 2919,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/230492/132-expedition",
-  externalId: "230492",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "230492",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/230492/132-expedition",
+    },
+  ],
   publishedAt: "2018-07-03",
   ownProgress: 2919,
   completedAt: "2026-06-29T21:23:59.524Z",

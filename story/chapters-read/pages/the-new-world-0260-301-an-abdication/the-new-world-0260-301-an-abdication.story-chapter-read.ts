@@ -9,10 +9,14 @@ export const theNewWorld0260301AnAbdication = {
   position: 260,
   ownLength: 5934,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/665326/301-an-abdication",
-  externalId: "665326",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "665326",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/665326/301-an-abdication",
+    },
+  ],
   publishedAt: "2021-04-15",
   ownProgress: 5934,
   completedAt: "2026-06-29T21:30:05.591Z",

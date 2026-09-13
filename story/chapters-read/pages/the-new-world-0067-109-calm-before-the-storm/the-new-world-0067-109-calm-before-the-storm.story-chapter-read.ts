@@ -9,10 +9,14 @@ export const theNewWorld0067109CalmBeforeTheStorm = {
   position: 67,
   ownLength: 3410,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/206873/109-calm-before-the-storm",
-  externalId: "206873",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "206873",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/206873/109-calm-before-the-storm",
+    },
+  ],
   publishedAt: "2018-04-09",
   ownProgress: 3410,
   completedAt: "2026-06-29T21:23:08.440Z",

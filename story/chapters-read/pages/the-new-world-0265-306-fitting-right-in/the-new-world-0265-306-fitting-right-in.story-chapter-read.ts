@@ -9,10 +9,14 @@ export const theNewWorld0265306FittingRightIn = {
   position: 265,
   ownLength: 4538,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/745250/306-fitting-right-in",
-  externalId: "745250",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "745250",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/745250/306-fitting-right-in",
+    },
+  ],
   publishedAt: "2021-09-04",
   ownProgress: 4538,
   completedAt: "2026-06-29T21:30:16.732Z",

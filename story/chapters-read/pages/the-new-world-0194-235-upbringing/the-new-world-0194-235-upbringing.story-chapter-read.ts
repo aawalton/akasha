@@ -9,10 +9,14 @@ export const theNewWorld0194235Upbringing = {
   position: 194,
   ownLength: 5743,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/418074/235-upbringing",
-  externalId: "418074",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "418074",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/418074/235-upbringing",
+    },
+  ],
   publishedAt: "2019-10-30",
   ownProgress: 5743,
   completedAt: "2026-06-29T21:27:35.796Z",

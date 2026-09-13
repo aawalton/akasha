@@ -9,10 +9,14 @@ export const theNewWorld0347387TheMakingsOfAnEmpire = {
   position: 347,
   ownLength: 3059,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2106752/387-the-makings-of-an-empire",
-  externalId: "2106752",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2106752",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2106752/387-the-makings-of-an-empire",
+    },
+  ],
   publishedAt: "2025-03-06",
   ownProgress: 3059,
   completedAt: "2026-06-29T21:33:10.076Z",

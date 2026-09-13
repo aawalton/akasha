@@ -9,10 +9,14 @@ export const theNewWorld002164FinalCallToAction = {
   position: 21,
   ownLength: 3283,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/169881/64-final-call-to-action",
-  externalId: "169881",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "169881",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/169881/64-final-call-to-action",
+    },
+  ],
   publishedAt: "2017-10-23",
   ownProgress: 3283,
   completedAt: "2026-06-29T21:21:27.156Z",

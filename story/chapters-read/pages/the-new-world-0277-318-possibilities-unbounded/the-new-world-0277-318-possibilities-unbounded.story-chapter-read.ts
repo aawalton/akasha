@@ -9,10 +9,14 @@ export const theNewWorld0277318PossibilitiesUnbounded = {
   position: 277,
   ownLength: 2319,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/755187/318-possibilities-unbounded",
-  externalId: "755187",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "755187",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/755187/318-possibilities-unbounded",
+    },
+  ],
   publishedAt: "2021-09-23",
   ownProgress: 2319,
   completedAt: "2026-06-29T21:30:42.475Z",

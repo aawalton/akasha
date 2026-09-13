@@ -9,10 +9,14 @@ export const theNewWorld0332373AnEmpireSFallAndRise = {
   position: 332,
   ownLength: 2452,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1145903/373-an-empires-fall-and-rise",
-  externalId: "1145903",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1145903",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1145903/373-an-empires-fall-and-rise",
+    },
+  ],
   publishedAt: "2023-03-23",
   ownProgress: 2452,
   completedAt: "2026-06-29T21:32:37.484Z",

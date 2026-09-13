@@ -9,9 +9,14 @@ export const theNewWorld005093Hectic = {
   position: 50,
   ownLength: 2965,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/185072/93-hectic",
-  externalId: "185072",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "185072",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/185072/93-hectic",
+    },
+  ],
   publishedAt: "2018-01-07",
   ownProgress: 2965,
   completedAt: "2026-06-29T21:22:32.384Z",

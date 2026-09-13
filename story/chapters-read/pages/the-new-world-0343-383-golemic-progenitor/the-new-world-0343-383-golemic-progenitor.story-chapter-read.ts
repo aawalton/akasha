@@ -9,10 +9,14 @@ export const theNewWorld0343383GolemicProgenitor = {
   position: 343,
   ownLength: 4566,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2097913/383-golemic-progenitor",
-  externalId: "2097913",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2097913",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2097913/383-golemic-progenitor",
+    },
+  ],
   publishedAt: "2025-03-02",
   ownProgress: 4566,
   completedAt: "2026-06-29T21:33:00.523Z",

@@ -9,10 +9,14 @@ export const theNewWorld0143184TheHybrid = {
   position: 143,
   ownLength: 3410,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/334161/184-the-hybrid",
-  externalId: "334161",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "334161",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/334161/184-the-hybrid",
+    },
+  ],
   publishedAt: "2019-02-15",
   ownProgress: 3410,
   completedAt: "2026-06-29T21:25:41.891Z",

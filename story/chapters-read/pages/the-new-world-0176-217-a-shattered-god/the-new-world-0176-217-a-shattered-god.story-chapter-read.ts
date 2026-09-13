@@ -9,10 +9,14 @@ export const theNewWorld0176217AShatteredGod = {
   position: 176,
   ownLength: 6311,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/382300/217-a-shattered-god",
-  externalId: "382300",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "382300",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/382300/217-a-shattered-god",
+    },
+  ],
   publishedAt: "2019-07-15",
   ownProgress: 6311,
   completedAt: "2026-06-29T21:26:54.840Z",

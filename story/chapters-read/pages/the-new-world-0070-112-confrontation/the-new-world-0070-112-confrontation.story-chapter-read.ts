@@ -9,10 +9,14 @@ export const theNewWorld0070112Confrontation = {
   position: 70,
   ownLength: 5003,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/208983/112-confrontation",
-  externalId: "208983",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "208983",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/208983/112-confrontation",
+    },
+  ],
   publishedAt: "2018-04-17",
   ownProgress: 5003,
   completedAt: "2026-06-29T21:23:15.138Z",

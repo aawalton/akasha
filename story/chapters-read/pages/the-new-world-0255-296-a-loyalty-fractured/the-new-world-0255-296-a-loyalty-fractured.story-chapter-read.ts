@@ -9,10 +9,14 @@ export const theNewWorld0255296ALoyaltyFractured = {
   position: 255,
   ownLength: 4213,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/651105/296-a-loyalty-fractured",
-  externalId: "651105",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "651105",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/651105/296-a-loyalty-fractured",
+    },
+  ],
   publishedAt: "2021-03-22",
   ownProgress: 4213,
   completedAt: "2026-06-29T21:29:53.152Z",

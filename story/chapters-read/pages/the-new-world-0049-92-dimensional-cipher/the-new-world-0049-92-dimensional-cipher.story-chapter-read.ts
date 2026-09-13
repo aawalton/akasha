@@ -9,10 +9,14 @@ export const theNewWorld004992DimensionalCipher = {
   position: 49,
   ownLength: 3620,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/184799/92-dimensional-cipher",
-  externalId: "184799",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "184799",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/184799/92-dimensional-cipher",
+    },
+  ],
   publishedAt: "2018-01-05",
   ownProgress: 3620,
   completedAt: "2026-06-29T21:22:30.279Z",

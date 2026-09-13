@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0138Chapter138PlayingWithFir
   position: 138,
   ownLength: 2009,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3559796/chapter-138-playing-with-fire",
-  externalId: "3559796",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3559796",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3559796/chapter-138-playing-with-fire",
+    },
+  ],
   publishedAt: "2026-06-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

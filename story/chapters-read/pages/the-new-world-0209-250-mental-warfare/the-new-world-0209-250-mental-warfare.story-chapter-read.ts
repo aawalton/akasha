@@ -9,10 +9,14 @@ export const theNewWorld0209250MentalWarfare = {
   position: 209,
   ownLength: 2077,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/471980/250-mental-warfare",
-  externalId: "471980",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "471980",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/471980/250-mental-warfare",
+    },
+  ],
   publishedAt: "2020-03-23",
   ownProgress: 2077,
   completedAt: "2026-06-29T21:28:09.232Z",

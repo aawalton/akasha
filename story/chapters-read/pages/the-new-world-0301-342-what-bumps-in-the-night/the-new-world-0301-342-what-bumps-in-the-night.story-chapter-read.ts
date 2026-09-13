@@ -9,10 +9,14 @@ export const theNewWorld0301342WhatBumpsInTheNight = {
   position: 301,
   ownLength: 3688,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/919935/342-what-bumps-in-the-night",
-  externalId: "919935",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "919935",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/919935/342-what-bumps-in-the-night",
+    },
+  ],
   publishedAt: "2022-06-03",
   ownProgress: 3688,
   completedAt: "2026-06-29T21:31:31.714Z",

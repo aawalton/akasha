@@ -9,10 +9,14 @@ export const theNewWorld0337378AHopefulDeath = {
   position: 337,
   ownLength: 2800,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1157382/378-a-hopeful-death",
-  externalId: "1157382",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1157382",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1157382/378-a-hopeful-death",
+    },
+  ],
   publishedAt: "2023-04-03",
   ownProgress: 2800,
   completedAt: "2026-06-29T21:32:48.252Z",

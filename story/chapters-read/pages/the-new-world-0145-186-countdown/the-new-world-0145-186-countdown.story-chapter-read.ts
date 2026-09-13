@@ -9,10 +9,14 @@ export const theNewWorld0145186Countdown = {
   position: 145,
   ownLength: 4213,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/337406/186-countdown",
-  externalId: "337406",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "337406",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/337406/186-countdown",
+    },
+  ],
   publishedAt: "2019-02-25",
   ownProgress: 4213,
   completedAt: "2026-06-29T21:25:46.170Z",

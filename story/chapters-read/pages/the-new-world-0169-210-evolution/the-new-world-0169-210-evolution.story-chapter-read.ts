@@ -9,10 +9,14 @@ export const theNewWorld0169210Evolution = {
   position: 169,
   ownLength: 6058,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/369802/210-evolution",
-  externalId: "369802",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "369802",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/369802/210-evolution",
+    },
+  ],
   publishedAt: "2019-06-07",
   ownProgress: 6058,
   completedAt: "2026-06-29T21:26:39.702Z",

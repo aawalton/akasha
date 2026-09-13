@@ -9,9 +9,14 @@ export const theNewWorld0080122Amara = {
   position: 80,
   ownLength: 1698,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/216953/122-amara",
-  externalId: "216953",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "216953",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/216953/122-amara",
+    },
+  ],
   publishedAt: "2018-05-19",
   ownProgress: 1698,
   completedAt: "2026-06-29T21:23:36.336Z",

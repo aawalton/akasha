@@ -9,10 +9,14 @@ export const theNewWorld0324365Bloodbath = {
   position: 324,
   ownLength: 4703,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1129433/365-bloodbath",
-  externalId: "1129433",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1129433",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1129433/365-bloodbath",
+    },
+  ],
   publishedAt: "2023-03-05",
   ownProgress: 4703,
   completedAt: "2026-06-29T21:32:19.577Z",

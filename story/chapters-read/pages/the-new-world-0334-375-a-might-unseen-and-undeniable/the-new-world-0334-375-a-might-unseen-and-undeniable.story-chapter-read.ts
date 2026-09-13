@@ -9,10 +9,14 @@ export const theNewWorld0334375AMightUnseenAndUndeniable = {
   position: 334,
   ownLength: 1866,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1149228/375-a-might-unseen-and-undeniable",
-  externalId: "1149228",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1149228",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1149228/375-a-might-unseen-and-undeniable",
+    },
+  ],
   publishedAt: "2023-03-26",
   ownProgress: 1866,
   completedAt: "2026-06-29T21:32:41.833Z",

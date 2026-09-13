@@ -9,10 +9,14 @@ export const theNewWorld0240281WielderOfMonsters = {
   position: 240,
   ownLength: 5365,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/592614/281-wielder-of-monsters",
-  externalId: "592614",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "592614",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/592614/281-wielder-of-monsters",
+    },
+  ],
   publishedAt: "2020-11-29",
   ownProgress: 5365,
   completedAt: "2026-06-29T21:29:19.215Z",

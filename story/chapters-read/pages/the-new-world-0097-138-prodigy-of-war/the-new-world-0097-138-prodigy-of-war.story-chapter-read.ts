@@ -9,10 +9,14 @@ export const theNewWorld0097138ProdigyOfWar = {
   position: 97,
   ownLength: 2748,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/239485/138-prodigy-of-war",
-  externalId: "239485",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "239485",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/239485/138-prodigy-of-war",
+    },
+  ],
   publishedAt: "2018-07-31",
   ownProgress: 2748,
   completedAt: "2026-06-29T21:24:11.923Z",

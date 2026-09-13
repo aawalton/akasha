@@ -9,10 +9,14 @@ export const theNewWorld0350390AWarpedPast = {
   position: 350,
   ownLength: 5334,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2114127/390-a-warped-past",
-  externalId: "2114127",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2114127",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2114127/390-a-warped-past",
+    },
+  ],
   publishedAt: "2025-03-08",
   ownProgress: 5334,
   completedAt: "2026-06-29T21:33:17.085Z",

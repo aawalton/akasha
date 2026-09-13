@@ -9,10 +9,14 @@ export const theNewWorld0139180HeliosRulerOfWorlds = {
   position: 139,
   ownLength: 4352,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/327755/180-helios-ruler-of-worlds",
-  externalId: "327755",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "327755",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/327755/180-helios-ruler-of-worlds",
+    },
+  ],
   publishedAt: "2019-01-24",
   ownProgress: 4352,
   completedAt: "2026-06-29T21:25:33.239Z",

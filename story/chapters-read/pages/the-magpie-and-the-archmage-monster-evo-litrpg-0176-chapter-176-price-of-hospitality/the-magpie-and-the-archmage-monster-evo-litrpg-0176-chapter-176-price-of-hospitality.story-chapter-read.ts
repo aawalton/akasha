@@ -7,12 +7,16 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0176Chapter176PriceOfHospita
   position: 176,
   publishedAt: "2026-09-09",
   unit: "words",
-  externalId: "3933172",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3933172",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3933172/chapter-176-price-of-hospitality",
+    },
+  ],
   title: "Chapter 176 – Price of Hospitality",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   ownLength: 1988,
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3933172/chapter-176-price-of-hospitality",
   prose: "txt",
 } as const satisfies StoryChapterRead

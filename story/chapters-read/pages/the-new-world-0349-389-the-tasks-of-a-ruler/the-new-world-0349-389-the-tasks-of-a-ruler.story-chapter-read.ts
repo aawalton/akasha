@@ -9,10 +9,14 @@ export const theNewWorld0349389TheTasksOfARuler = {
   position: 349,
   ownLength: 3556,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2111750/389-the-tasks-of-a-ruler",
-  externalId: "2111750",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2111750",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2111750/389-the-tasks-of-a-ruler",
+    },
+  ],
   publishedAt: "2025-03-07",
   ownProgress: 3556,
   completedAt: "2026-06-29T21:33:14.813Z",

@@ -9,10 +9,14 @@ export const theNewWorld0092133TheComingTempest = {
   position: 92,
   ownLength: 1383,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/231667/133-the-coming-tempest",
-  externalId: "231667",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "231667",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/231667/133-the-coming-tempest",
+    },
+  ],
   publishedAt: "2018-07-07",
   ownProgress: 1383,
   completedAt: "2026-06-29T21:24:01.595Z",

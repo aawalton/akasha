@@ -9,10 +9,14 @@ export const theNewWorld0140181Unchained = {
   position: 140,
   ownLength: 2847,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/329783/181-unchained",
-  externalId: "329783",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "329783",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/329783/181-unchained",
+    },
+  ],
   publishedAt: "2019-01-31",
   ownProgress: 2847,
   completedAt: "2026-06-29T21:25:35.501Z",

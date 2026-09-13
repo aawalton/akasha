@@ -9,10 +9,14 @@ export const theNewWorld0068110YawmOfFlesh = {
   position: 68,
   ownLength: 6648,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/207180/110-yawm-of-flesh",
-  externalId: "207180",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "207180",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/207180/110-yawm-of-flesh",
+    },
+  ],
   publishedAt: "2018-04-10",
   ownProgress: 6648,
   completedAt: "2026-06-29T21:23:10.517Z",

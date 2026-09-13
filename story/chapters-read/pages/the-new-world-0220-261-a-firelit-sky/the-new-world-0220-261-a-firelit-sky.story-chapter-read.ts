@@ -9,10 +9,14 @@ export const theNewWorld0220261AFirelitSky = {
   position: 220,
   ownLength: 5652,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/506450/261-a-firelit-sky",
-  externalId: "506450",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "506450",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/506450/261-a-firelit-sky",
+    },
+  ],
   publishedAt: "2020-06-06",
   ownProgress: 5652,
   completedAt: "2026-06-29T21:28:33.455Z",

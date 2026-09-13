@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0146Chapter146YouTookTheWron
   position: 146,
   ownLength: 2017,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3669539/chapter-146-you-took-the-wrong-gem",
-  externalId: "3669539",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3669539",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3669539/chapter-146-you-took-the-wrong-gem",
+    },
+  ],
   publishedAt: "2026-07-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

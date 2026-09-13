@@ -9,10 +9,14 @@ export const theNewWorld0223264FamilyProblems = {
   position: 223,
   ownLength: 6861,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/515079/264-family-problems",
-  externalId: "515079",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "515079",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/515079/264-family-problems",
+    },
+  ],
   publishedAt: "2020-06-24",
   ownProgress: 6861,
   completedAt: "2026-06-29T21:28:39.669Z",

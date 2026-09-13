@@ -9,10 +9,14 @@ export const theNewWorld000346FightingEvil = {
   position: 3,
   ownLength: 3124,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/160733/46-fighting-evil",
-  externalId: "160733",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "160733",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/160733/46-fighting-evil",
+    },
+  ],
   publishedAt: "2017-09-08",
   ownProgress: 3124,
   completedAt: "2026-06-29T21:20:46.805Z",

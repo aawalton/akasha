@@ -9,10 +9,14 @@ export const theNewWorld0218259ComingToTerms = {
   position: 218,
   ownLength: 6170,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/502542/259-coming-to-terms",
-  externalId: "502542",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "502542",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/502542/259-coming-to-terms",
+    },
+  ],
   publishedAt: "2020-05-28",
   ownProgress: 6170,
   completedAt: "2026-06-29T21:28:28.976Z",

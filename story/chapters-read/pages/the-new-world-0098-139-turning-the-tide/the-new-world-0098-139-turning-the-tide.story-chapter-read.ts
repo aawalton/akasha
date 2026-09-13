@@ -9,10 +9,14 @@ export const theNewWorld0098139TurningTheTide = {
   position: 98,
   ownLength: 3544,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/239812/139-turning-the-tide",
-  externalId: "239812",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "239812",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/239812/139-turning-the-tide",
+    },
+  ],
   publishedAt: "2018-08-01",
   ownProgress: 3544,
   completedAt: "2026-06-29T21:24:13.846Z",

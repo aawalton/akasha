@@ -9,9 +9,14 @@ export const theNewWorld0074116Galactic = {
   position: 74,
   ownLength: 2421,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/212295/116-galactic",
-  externalId: "212295",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "212295",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/212295/116-galactic",
+    },
+  ],
   publishedAt: "2018-04-30",
   ownProgress: 2421,
   completedAt: "2026-06-29T21:23:23.932Z",

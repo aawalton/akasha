@@ -9,10 +9,14 @@ export const theNewWorld0314355ASeaOfRed = {
   position: 314,
   ownLength: 2922,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1088686/355-a-sea-of-red",
-  externalId: "1088686",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1088686",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1088686/355-a-sea-of-red",
+    },
+  ],
   publishedAt: "2023-01-15",
   ownProgress: 2922,
   completedAt: "2026-06-29T21:31:55.989Z",

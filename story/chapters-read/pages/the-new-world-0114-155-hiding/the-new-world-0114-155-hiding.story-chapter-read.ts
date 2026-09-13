@@ -9,9 +9,14 @@ export const theNewWorld0114155Hiding = {
   position: 114,
   ownLength: 3783,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/302311/155-hiding",
-  externalId: "302311",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "302311",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/302311/155-hiding",
+    },
+  ],
   publishedAt: "2018-10-30",
   ownProgress: 3783,
   completedAt: "2026-06-29T21:24:53.387Z",

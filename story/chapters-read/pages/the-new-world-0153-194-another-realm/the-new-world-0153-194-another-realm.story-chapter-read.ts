@@ -9,10 +9,14 @@ export const theNewWorld0153194AnotherRealm = {
   position: 153,
   ownLength: 2596,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/346347/194-another-realm",
-  externalId: "346347",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "346347",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/346347/194-another-realm",
+    },
+  ],
   publishedAt: "2019-03-25",
   ownProgress: 2596,
   completedAt: "2026-06-29T21:26:03.737Z",

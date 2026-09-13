@@ -9,10 +9,14 @@ export const theNewWorld001053MakingProgress = {
   position: 10,
   ownLength: 3957,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/165801/53-making-progress",
-  externalId: "165801",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "165801",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/165801/53-making-progress",
+    },
+  ],
   publishedAt: "2017-10-03",
   ownProgress: 3957,
   completedAt: "2026-06-29T21:21:02.474Z",

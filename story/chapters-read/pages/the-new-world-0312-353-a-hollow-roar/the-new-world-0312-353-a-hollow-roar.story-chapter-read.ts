@@ -9,10 +9,14 @@ export const theNewWorld0312353AHollowRoar = {
   position: 312,
   ownLength: 2678,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1065701/353-a-hollow-roar",
-  externalId: "1065701",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1065701",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1065701/353-a-hollow-roar",
+    },
+  ],
   publishedAt: "2022-12-18",
   ownProgress: 2678,
   completedAt: "2026-06-29T21:31:52.180Z",

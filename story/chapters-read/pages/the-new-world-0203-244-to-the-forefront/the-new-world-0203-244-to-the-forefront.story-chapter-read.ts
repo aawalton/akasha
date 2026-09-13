@@ -9,10 +9,14 @@ export const theNewWorld0203244ToTheForefront = {
   position: 203,
   ownLength: 3361,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/450756/244-to-the-forefront",
-  externalId: "450756",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "450756",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/450756/244-to-the-forefront",
+    },
+  ],
   publishedAt: "2020-01-28",
   ownProgress: 3361,
   completedAt: "2026-06-29T21:27:55.540Z",

@@ -9,10 +9,14 @@ export const theNewWorld0185226AgainstTheTide = {
   position: 185,
   ownLength: 2541,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/406788/226-against-the-tide",
-  externalId: "406788",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "406788",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/406788/226-against-the-tide",
+    },
+  ],
   publishedAt: "2019-09-24",
   ownProgress: 2541,
   completedAt: "2026-06-29T21:27:15.013Z",

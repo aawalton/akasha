@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0170Chapter170PrincessCaspia
   position: 170,
   ownLength: 2189,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3880564/chapter-170-princess-caspian",
-  externalId: "3880564",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3880564",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3880564/chapter-170-princess-caspian",
+    },
+  ],
   publishedAt: "2026-08-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theNewWorld0339379AFriendFound = {
   position: 339,
   ownLength: 1865,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2089862/379-a-friend-found",
-  externalId: "2089862",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2089862",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2089862/379-a-friend-found",
+    },
+  ],
   publishedAt: "2025-02-26",
   ownProgress: 1865,
   completedAt: "2026-06-29T21:32:52.261Z",

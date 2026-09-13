@@ -9,9 +9,14 @@ export const theNewWorld0115156Eonoth = {
   position: 115,
   ownLength: 3281,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/302874/156-eonoth",
-  externalId: "302874",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "302874",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/302874/156-eonoth",
+    },
+  ],
   publishedAt: "2018-11-01",
   ownProgress: 3281,
   completedAt: "2026-06-29T21:24:55.828Z",

@@ -9,10 +9,14 @@ export const theNewWorld0273314ThinkingAhead = {
   position: 273,
   ownLength: 2680,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/751975/314-thinking-ahead",
-  externalId: "751975",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "751975",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/751975/314-thinking-ahead",
+    },
+  ],
   publishedAt: "2021-09-16",
   ownProgress: 2680,
   completedAt: "2026-06-29T21:30:33.999Z",

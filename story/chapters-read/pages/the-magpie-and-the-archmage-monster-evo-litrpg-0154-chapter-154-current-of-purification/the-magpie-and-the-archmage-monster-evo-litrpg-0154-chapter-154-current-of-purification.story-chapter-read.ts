@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0154Chapter154CurrentOfPurif
   position: 154,
   ownLength: 1962,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3749412/chapter-154-current-of-purification",
-  externalId: "3749412",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3749412",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3749412/chapter-154-current-of-purification",
+    },
+  ],
   publishedAt: "2026-07-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

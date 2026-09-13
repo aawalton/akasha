@@ -9,9 +9,14 @@ export const theNewWorld0336377Relived = {
   position: 336,
   ownLength: 3102,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1154100/377-relived",
-  externalId: "1154100",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1154100",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1154100/377-relived",
+    },
+  ],
   publishedAt: "2023-04-01",
   ownProgress: 3102,
   completedAt: "2026-06-29T21:32:46.317Z",

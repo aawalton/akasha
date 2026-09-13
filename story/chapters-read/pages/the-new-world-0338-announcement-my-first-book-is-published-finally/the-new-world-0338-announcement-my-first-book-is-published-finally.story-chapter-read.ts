@@ -9,10 +9,14 @@ export const theNewWorld0338AnnouncementMyFirstBookIsPublishedFinally = {
   position: 338,
   ownLength: 280,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1207453/announcement-my-first-book-is-published-finally",
-  externalId: "1207453",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1207453",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1207453/announcement-my-first-book-is-published-finally",
+    },
+  ],
   publishedAt: "2023-05-09",
   ownProgress: 280,
   completedAt: "2026-06-29T21:32:50.242Z",

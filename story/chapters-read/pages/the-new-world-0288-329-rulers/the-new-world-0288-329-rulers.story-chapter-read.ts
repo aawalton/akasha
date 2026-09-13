@@ -9,9 +9,14 @@ export const theNewWorld0288329Rulers = {
   position: 288,
   ownLength: 2453,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/840675/329-rulers",
-  externalId: "840675",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "840675",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/840675/329-rulers",
+    },
+  ],
   publishedAt: "2022-02-07",
   ownProgress: 2453,
   completedAt: "2026-06-29T21:31:06.166Z",

@@ -9,10 +9,14 @@ export const theNewWorld0227268UnexpectedHelp = {
   position: 227,
   ownLength: 2468,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/551637/268-unexpected-help",
-  externalId: "551637",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "551637",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/551637/268-unexpected-help",
+    },
+  ],
   publishedAt: "2020-09-08",
   ownProgress: 2468,
   completedAt: "2026-06-29T21:28:49.422Z",

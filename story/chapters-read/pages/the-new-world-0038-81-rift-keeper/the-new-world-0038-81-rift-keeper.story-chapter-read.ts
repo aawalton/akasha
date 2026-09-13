@@ -9,10 +9,14 @@ export const theNewWorld003881RiftKeeper = {
   position: 38,
   ownLength: 5143,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/177060/81-rift-keeper",
-  externalId: "177060",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "177060",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/177060/81-rift-keeper",
+    },
+  ],
   publishedAt: "2017-11-29",
   ownProgress: 5143,
   completedAt: "2026-06-29T21:22:05.053Z",

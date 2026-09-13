@@ -9,10 +9,14 @@ export const theNewWorld0130171PiecesOfAPuzzle = {
   position: 130,
   ownLength: 4120,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/318747/171-pieces-of-a-puzzle",
-  externalId: "318747",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "318747",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/318747/171-pieces-of-a-puzzle",
+    },
+  ],
   publishedAt: "2018-12-26",
   ownProgress: 4120,
   completedAt: "2026-06-29T21:36:07.210Z",

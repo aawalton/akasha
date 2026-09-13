@@ -9,10 +9,14 @@ export const theNewWorld005597CataclysmComes = {
   position: 55,
   ownLength: 4422,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/188029/97-cataclysm-comes",
-  externalId: "188029",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "188029",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/188029/97-cataclysm-comes",
+    },
+  ],
   publishedAt: "2018-01-19",
   ownProgress: 4422,
   completedAt: "2026-06-29T21:22:43.174Z",

@@ -9,10 +9,14 @@ export const theNewWorld001861FinalFrontier = {
   position: 18,
   ownLength: 5451,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/169037/61-final-frontier",
-  externalId: "169037",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "169037",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/169037/61-final-frontier",
+    },
+  ],
   publishedAt: "2017-10-19",
   ownProgress: 5451,
   completedAt: "2026-06-29T21:21:20.372Z",

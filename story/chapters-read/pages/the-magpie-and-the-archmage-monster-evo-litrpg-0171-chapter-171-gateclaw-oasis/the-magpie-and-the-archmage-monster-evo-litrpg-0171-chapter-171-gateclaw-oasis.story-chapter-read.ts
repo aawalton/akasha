@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0171Chapter171GateclawOasis 
   position: 171,
   ownLength: 1952,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3888639/chapter-171-gateclaw-oasis",
-  externalId: "3888639",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3888639",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3888639/chapter-171-gateclaw-oasis",
+    },
+  ],
   publishedAt: "2026-08-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

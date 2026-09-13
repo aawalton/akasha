@@ -9,9 +9,14 @@ export const theNewWorld0118159Surprise = {
   position: 118,
   ownLength: 2636,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/305129/159-surprise",
-  externalId: "305129",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "305129",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/305129/159-surprise",
+    },
+  ],
   publishedAt: "2018-11-09",
   ownProgress: 2636,
   completedAt: "2026-06-29T21:25:02.180Z",

@@ -9,10 +9,14 @@ export const theNewWorld0297338AHavenInHell = {
   position: 297,
   ownLength: 2742,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/885032/338-a-haven-in-hell",
-  externalId: "885032",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "885032",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/885032/338-a-haven-in-hell",
+    },
+  ],
   publishedAt: "2022-04-13",
   ownProgress: 2742,
   completedAt: "2026-06-29T21:31:23.844Z",

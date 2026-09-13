@@ -9,10 +9,14 @@ export const theNewWorld0279320DimensionalWakes = {
   position: 279,
   ownLength: 2583,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/759889/320-dimensional-wakes",
-  externalId: "759889",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "759889",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/759889/320-dimensional-wakes",
+    },
+  ],
   publishedAt: "2021-10-01",
   ownProgress: 2583,
   completedAt: "2026-06-29T21:30:46.760Z",

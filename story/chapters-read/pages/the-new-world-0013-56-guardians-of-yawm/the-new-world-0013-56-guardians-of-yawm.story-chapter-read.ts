@@ -9,10 +9,14 @@ export const theNewWorld001356GuardiansOfYawm = {
   position: 13,
   ownLength: 3720,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/167480/56-guardians-of-yawm",
-  externalId: "167480",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "167480",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/167480/56-guardians-of-yawm",
+    },
+  ],
   publishedAt: "2017-10-12",
   ownProgress: 3720,
   completedAt: "2026-06-29T21:21:09.370Z",

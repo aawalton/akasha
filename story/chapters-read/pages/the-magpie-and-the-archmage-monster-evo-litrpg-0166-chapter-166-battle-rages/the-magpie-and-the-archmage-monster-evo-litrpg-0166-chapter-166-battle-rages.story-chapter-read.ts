@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0166Chapter166BattleRages = 
   position: 166,
   ownLength: 1989,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3846826/chapter-166-battle-rages",
-  externalId: "3846826",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3846826",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3846826/chapter-166-battle-rages",
+    },
+  ],
   publishedAt: "2026-08-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

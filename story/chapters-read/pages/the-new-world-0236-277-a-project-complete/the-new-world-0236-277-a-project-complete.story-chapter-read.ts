@@ -9,10 +9,14 @@ export const theNewWorld0236277AProjectComplete = {
   position: 236,
   ownLength: 4814,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/583376/277-a-project-complete",
-  externalId: "583376",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "583376",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/583376/277-a-project-complete",
+    },
+  ],
   publishedAt: "2020-11-12",
   ownProgress: 4814,
   completedAt: "2026-06-29T21:29:10.405Z",

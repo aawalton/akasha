@@ -9,9 +9,14 @@ export const theNewWorld0172213Breach = {
   position: 172,
   ownLength: 4810,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/376439/213-breach",
-  externalId: "376439",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "376439",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/376439/213-breach",
+    },
+  ],
   publishedAt: "2019-06-27",
   ownProgress: 4810,
   completedAt: "2026-06-29T21:26:46.184Z",

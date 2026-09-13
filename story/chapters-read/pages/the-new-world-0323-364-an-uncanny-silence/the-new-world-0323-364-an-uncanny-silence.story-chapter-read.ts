@@ -9,10 +9,14 @@ export const theNewWorld0323364AnUncannySilence = {
   position: 323,
   ownLength: 2019,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1128312/364-an-uncanny-silence",
-  externalId: "1128312",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1128312",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1128312/364-an-uncanny-silence",
+    },
+  ],
   publishedAt: "2023-03-04",
   ownProgress: 2019,
   completedAt: "2026-06-29T21:32:17.295Z",

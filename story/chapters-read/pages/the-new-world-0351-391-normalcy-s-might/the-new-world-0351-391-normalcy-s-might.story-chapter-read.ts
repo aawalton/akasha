@@ -9,10 +9,14 @@ export const theNewWorld0351391NormalcySMight = {
   position: 351,
   ownLength: 2517,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2115714/391-normalcys-might",
-  externalId: "2115714",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2115714",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2115714/391-normalcys-might",
+    },
+  ],
   publishedAt: "2025-03-09",
   ownProgress: 2517,
   completedAt: "2026-06-29T21:33:19.142Z",

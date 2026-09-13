@@ -9,10 +9,14 @@ export const theNewWorld0228269AnticipatingAnEvening = {
   position: 228,
   ownLength: 8045,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/555737/269-anticipating-an-evening",
-  externalId: "555737",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "555737",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/555737/269-anticipating-an-evening",
+    },
+  ],
   publishedAt: "2020-09-16",
   ownProgress: 8045,
   completedAt: "2026-06-29T21:28:51.642Z",

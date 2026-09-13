@@ -9,10 +9,14 @@ export const theNewWorld0165206MeetingAnOldFriend = {
   position: 165,
   ownLength: 3206,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/363794/206-meeting-an-old-friend",
-  externalId: "363794",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "363794",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/363794/206-meeting-an-old-friend",
+    },
+  ],
   publishedAt: "2019-05-20",
   ownProgress: 3206,
   completedAt: "2026-06-29T21:26:31.106Z",

@@ -9,10 +9,14 @@ export const theNewWorld0327368LeviathanSPull = {
   position: 327,
   ownLength: 2405,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1135166/368-leviathans-pull",
-  externalId: "1135166",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1135166",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1135166/368-leviathans-pull",
+    },
+  ],
   publishedAt: "2023-03-11",
   ownProgress: 2405,
   completedAt: "2026-06-29T21:32:26.074Z",

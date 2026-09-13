@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0142Chapter142NothingComesEa
   position: 142,
   ownLength: 2037,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3605888/chapter-142-nothing-comes-easy",
-  externalId: "3605888",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3605888",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3605888/chapter-142-nothing-comes-easy",
+    },
+  ],
   publishedAt: "2026-06-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

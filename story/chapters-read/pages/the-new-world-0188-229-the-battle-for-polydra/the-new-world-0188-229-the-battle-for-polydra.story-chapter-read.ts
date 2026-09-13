@@ -9,10 +9,14 @@ export const theNewWorld0188229TheBattleForPolydra = {
   position: 188,
   ownLength: 6686,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/409955/229-the-battle-for-polydra",
-  externalId: "409955",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "409955",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/409955/229-the-battle-for-polydra",
+    },
+  ],
   publishedAt: "2019-10-04",
   ownProgress: 6686,
   completedAt: "2026-06-29T21:27:21.608Z",

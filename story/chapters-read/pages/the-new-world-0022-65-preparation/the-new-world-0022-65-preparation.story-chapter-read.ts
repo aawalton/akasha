@@ -9,10 +9,14 @@ export const theNewWorld002265Preparation = {
   position: 22,
   ownLength: 4146,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/170093/65-preparation",
-  externalId: "170093",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "170093",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/170093/65-preparation",
+    },
+  ],
   publishedAt: "2017-10-24",
   ownProgress: 4146,
   completedAt: "2026-06-29T21:21:29.262Z",

@@ -9,10 +9,14 @@ export const theNewWorld003174CorruptedRuin = {
   position: 31,
   ownLength: 4920,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/173375/74-corrupted-ruin",
-  externalId: "173375",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "173375",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/173375/74-corrupted-ruin",
+    },
+  ],
   publishedAt: "2017-11-09",
   ownProgress: 4920,
   completedAt: "2026-06-29T21:21:49.369Z",

@@ -9,10 +9,14 @@ export const theNewWorld0252293TheSiegeOfSaphigia = {
   position: 252,
   ownLength: 5126,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/645740/293-the-siege-of-saphigia",
-  externalId: "645740",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "645740",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/645740/293-the-siege-of-saphigia",
+    },
+  ],
   publishedAt: "2021-03-12",
   ownProgress: 5126,
   completedAt: "2026-06-29T21:29:46.428Z",

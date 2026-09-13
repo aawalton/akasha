@@ -9,10 +9,14 @@ export const theNewWorld0299340TheAdvance = {
   position: 299,
   ownLength: 3553,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/910143/340-the-advance",
-  externalId: "910143",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "910143",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/910143/340-the-advance",
+    },
+  ],
   publishedAt: "2022-05-19",
   ownProgress: 3553,
   completedAt: "2026-06-29T21:31:27.571Z",

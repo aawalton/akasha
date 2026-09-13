@@ -9,10 +9,14 @@ export const theNewWorld0150191AFeverPitch = {
   position: 150,
   ownLength: 5257,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/342965/191-a-fever-pitch",
-  externalId: "342965",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "342965",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/342965/191-a-fever-pitch",
+    },
+  ],
   publishedAt: "2019-03-14",
   ownProgress: 5257,
   completedAt: "2026-06-29T21:25:57.470Z",

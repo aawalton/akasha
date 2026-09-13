@@ -9,10 +9,14 @@ export const theNewWorld0225266JoiningWars = {
   position: 225,
   ownLength: 5268,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/546379/266-joining-wars",
-  externalId: "546379",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "546379",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/546379/266-joining-wars",
+    },
+  ],
   publishedAt: "2020-08-29",
   ownProgress: 5268,
   completedAt: "2026-06-29T21:28:44.089Z",

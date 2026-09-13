@@ -9,10 +9,14 @@ export const theNewWorld0072114TheDistance = {
   position: 72,
   ownLength: 5364,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/210601/114-the-distance",
-  externalId: "210601",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "210601",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/210601/114-the-distance",
+    },
+  ],
   publishedAt: "2018-04-24",
   ownProgress: 5364,
   completedAt: "2026-06-29T21:23:19.519Z",

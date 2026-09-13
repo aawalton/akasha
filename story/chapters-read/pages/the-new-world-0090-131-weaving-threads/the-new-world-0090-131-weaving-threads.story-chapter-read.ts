@@ -9,10 +9,14 @@ export const theNewWorld0090131WeavingThreads = {
   position: 90,
   ownLength: 2340,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/227905/131-weaving-threads",
-  externalId: "227905",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "227905",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/227905/131-weaving-threads",
+    },
+  ],
   publishedAt: "2018-06-26",
   ownProgress: 2340,
   completedAt: "2026-06-29T21:23:57.349Z",

@@ -9,10 +9,14 @@ export const theNewWorld0076118DeepWater = {
   position: 76,
   ownLength: 2669,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/213301/118-deep-water",
-  externalId: "213301",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "213301",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/213301/118-deep-water",
+    },
+  ],
   publishedAt: "2018-05-04",
   ownProgress: 2669,
   completedAt: "2026-06-29T21:23:27.956Z",

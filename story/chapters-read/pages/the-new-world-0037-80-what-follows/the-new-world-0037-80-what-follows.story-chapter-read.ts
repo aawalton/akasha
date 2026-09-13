@@ -9,10 +9,14 @@ export const theNewWorld003780WhatFollows = {
   position: 37,
   ownLength: 4482,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/176689/80-what-follows",
-  externalId: "176689",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "176689",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/176689/80-what-follows",
+    },
+  ],
   publishedAt: "2017-11-26",
   ownProgress: 4482,
   completedAt: "2026-06-29T21:22:02.660Z",

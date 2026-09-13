@@ -9,10 +9,14 @@ export const theNewWorld0215256FeastingAndPlenty = {
   position: 215,
   ownLength: 2993,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/497987/256-feasting-and-plenty",
-  externalId: "497987",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "497987",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/497987/256-feasting-and-plenty",
+    },
+  ],
   publishedAt: "2020-05-18",
   ownProgress: 2993,
   completedAt: "2026-06-29T21:28:22.791Z",

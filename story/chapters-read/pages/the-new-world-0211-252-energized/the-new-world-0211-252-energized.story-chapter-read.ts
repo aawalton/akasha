@@ -9,10 +9,14 @@ export const theNewWorld0211252Energized = {
   position: 211,
   ownLength: 2946,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/483997/252-energized",
-  externalId: "483997",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "483997",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/483997/252-energized",
+    },
+  ],
   publishedAt: "2020-04-18",
   ownProgress: 2946,
   completedAt: "2026-06-29T21:28:13.520Z",

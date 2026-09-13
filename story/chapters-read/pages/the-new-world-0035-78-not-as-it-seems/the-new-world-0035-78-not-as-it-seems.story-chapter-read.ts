@@ -9,10 +9,14 @@ export const theNewWorld003578NotAsItSeems = {
   position: 35,
   ownLength: 3137,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/175483/78-not-as-it-seems",
-  externalId: "175483",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "175483",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/175483/78-not-as-it-seems",
+    },
+  ],
   publishedAt: "2017-11-20",
   ownProgress: 3137,
   completedAt: "2026-06-29T21:21:58.164Z",

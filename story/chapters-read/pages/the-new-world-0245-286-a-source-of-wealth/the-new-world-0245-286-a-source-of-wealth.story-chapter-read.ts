@@ -9,10 +9,14 @@ export const theNewWorld0245286ASourceOfWealth = {
   position: 245,
   ownLength: 6578,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/626779/286-a-source-of-wealth",
-  externalId: "626779",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "626779",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/626779/286-a-source-of-wealth",
+    },
+  ],
   publishedAt: "2021-02-06",
   ownProgress: 6578,
   completedAt: "2026-06-29T21:29:30.304Z",

@@ -9,10 +9,14 @@ export const theNewWorld0232273NewPathsOpened = {
   position: 232,
   ownLength: 7541,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/566403/273-new-paths-opened",
-  externalId: "566403",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "566403",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/566403/273-new-paths-opened",
+    },
+  ],
   publishedAt: "2020-10-08",
   ownProgress: 7541,
   completedAt: "2026-06-29T21:29:00.703Z",

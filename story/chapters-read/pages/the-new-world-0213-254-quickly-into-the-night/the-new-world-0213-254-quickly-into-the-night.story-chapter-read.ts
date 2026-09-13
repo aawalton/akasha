@@ -9,10 +9,14 @@ export const theNewWorld0213254QuicklyIntoTheNight = {
   position: 213,
   ownLength: 3778,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/494491/254-quickly-into-the-night",
-  externalId: "494491",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "494491",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/494491/254-quickly-into-the-night",
+    },
+  ],
   publishedAt: "2020-05-10",
   ownProgress: 3778,
   completedAt: "2026-06-29T21:28:17.774Z",

@@ -9,10 +9,14 @@ export const theNewWorld0298339TheCoreOfTheMatter = {
   position: 298,
   ownLength: 3326,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/887525/339-the-core-of-the-matter",
-  externalId: "887525",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "887525",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/887525/339-the-core-of-the-matter",
+    },
+  ],
   publishedAt: "2022-04-16",
   ownProgress: 3326,
   completedAt: "2026-06-29T21:31:25.763Z",

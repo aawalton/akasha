@@ -9,10 +9,14 @@ export const theNewWorld0164205Aftermath = {
   position: 164,
   ownLength: 2821,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/363444/205-aftermath",
-  externalId: "363444",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "363444",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/363444/205-aftermath",
+    },
+  ],
   publishedAt: "2019-05-19",
   ownProgress: 2821,
   completedAt: "2026-06-29T21:26:28.902Z",

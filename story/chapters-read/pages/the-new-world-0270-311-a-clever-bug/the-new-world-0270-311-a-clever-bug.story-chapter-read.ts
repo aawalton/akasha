@@ -9,10 +9,14 @@ export const theNewWorld0270311ACleverBug = {
   position: 270,
   ownLength: 2891,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/749419/311-a-clever-bug",
-  externalId: "749419",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "749419",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/749419/311-a-clever-bug",
+    },
+  ],
   publishedAt: "2021-09-12",
   ownProgress: 2891,
   completedAt: "2026-06-29T21:30:27.497Z",

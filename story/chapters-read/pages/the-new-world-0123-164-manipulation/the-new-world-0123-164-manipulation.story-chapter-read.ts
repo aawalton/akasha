@@ -9,10 +9,14 @@ export const theNewWorld0123164Manipulation = {
   position: 123,
   ownLength: 2201,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/307493/164-manipulation",
-  externalId: "307493",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "307493",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/307493/164-manipulation",
+    },
+  ],
   publishedAt: "2018-11-17",
   ownProgress: 2201,
   completedAt: "2026-06-29T21:25:13.407Z",

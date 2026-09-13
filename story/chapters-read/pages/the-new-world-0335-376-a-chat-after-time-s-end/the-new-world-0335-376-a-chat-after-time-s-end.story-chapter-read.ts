@@ -9,10 +9,14 @@ export const theNewWorld0335376AChatAfterTimeSEnd = {
   position: 335,
   ownLength: 2321,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1152296/376-a-chat-after-times-end",
-  externalId: "1152296",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1152296",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1152296/376-a-chat-after-times-end",
+    },
+  ],
   publishedAt: "2023-03-30",
   ownProgress: 2321,
   completedAt: "2026-06-29T21:32:44.169Z",

@@ -9,10 +9,14 @@ export const theNewWorld0120161ANightToRemember = {
   position: 120,
   ownLength: 3187,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/305737/161-a-night-to-remember",
-  externalId: "305737",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "305737",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/305737/161-a-night-to-remember",
+    },
+  ],
   publishedAt: "2018-11-11",
   ownProgress: 3187,
   completedAt: "2026-06-29T21:25:06.159Z",

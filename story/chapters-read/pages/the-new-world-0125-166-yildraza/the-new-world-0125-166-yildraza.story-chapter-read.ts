@@ -9,9 +9,14 @@ export const theNewWorld0125166Yildraza = {
   position: 125,
   ownLength: 2961,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/311509/166-yildraza",
-  externalId: "311509",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "311509",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/311509/166-yildraza",
+    },
+  ],
   publishedAt: "2018-12-01",
   ownProgress: 2961,
   completedAt: "2026-06-29T21:25:17.891Z",

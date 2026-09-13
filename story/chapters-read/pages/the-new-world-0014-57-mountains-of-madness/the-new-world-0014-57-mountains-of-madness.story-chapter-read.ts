@@ -9,10 +9,14 @@ export const theNewWorld001457MountainsOfMadness = {
   position: 14,
   ownLength: 5128,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/167481/57-mountains-of-madness",
-  externalId: "167481",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "167481",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/167481/57-mountains-of-madness",
+    },
+  ],
   publishedAt: "2017-10-12",
   ownProgress: 5128,
   completedAt: "2026-06-29T21:21:11.486Z",

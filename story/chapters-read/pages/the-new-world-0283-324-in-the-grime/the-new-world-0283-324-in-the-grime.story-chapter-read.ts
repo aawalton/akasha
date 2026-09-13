@@ -9,10 +9,14 @@ export const theNewWorld0283324InTheGrime = {
   position: 283,
   ownLength: 3198,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/820818/324-in-the-grime",
-  externalId: "820818",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "820818",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/820818/324-in-the-grime",
+    },
+  ],
   publishedAt: "2022-01-08",
   ownProgress: 3198,
   completedAt: "2026-06-29T21:30:55.159Z",

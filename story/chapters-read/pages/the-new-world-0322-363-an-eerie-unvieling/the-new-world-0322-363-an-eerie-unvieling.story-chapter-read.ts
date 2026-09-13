@@ -9,10 +9,14 @@ export const theNewWorld0322363AnEerieUnvieling = {
   position: 322,
   ownLength: 4591,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1126738/363-an-eerie-unvieling",
-  externalId: "1126738",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1126738",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1126738/363-an-eerie-unvieling",
+    },
+  ],
   publishedAt: "2023-03-02",
   ownProgress: 4591,
   completedAt: "2026-06-29T21:32:12.038Z",

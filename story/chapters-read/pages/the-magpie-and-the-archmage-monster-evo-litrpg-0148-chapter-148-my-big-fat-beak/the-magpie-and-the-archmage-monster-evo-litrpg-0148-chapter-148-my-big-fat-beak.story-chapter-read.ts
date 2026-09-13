@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0148Chapter148MyBigFatBeak =
   position: 148,
   ownLength: 1907,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3687651/chapter-148-my-big-fat-beak",
-  externalId: "3687651",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3687651",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3687651/chapter-148-my-big-fat-beak",
+    },
+  ],
   publishedAt: "2026-07-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

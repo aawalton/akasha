@@ -9,10 +9,14 @@ export const theNewWorld0326367AnEmptyPurgatory = {
   position: 326,
   ownLength: 5414,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1133309/367-an-empty-purgatory",
-  externalId: "1133309",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1133309",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1133309/367-an-empty-purgatory",
+    },
+  ],
   publishedAt: "2023-03-09",
   ownProgress: 5414,
   completedAt: "2026-06-29T21:32:24.053Z",

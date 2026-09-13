@@ -9,10 +9,14 @@ export const theNewWorld0233274FurnaceAndFire = {
   position: 233,
   ownLength: 10384,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/568373/274-furnace-and-fire",
-  externalId: "568373",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "568373",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/568373/274-furnace-and-fire",
+    },
+  ],
   publishedAt: "2020-10-12",
   ownProgress: 10384,
   completedAt: "2026-06-29T21:29:02.873Z",

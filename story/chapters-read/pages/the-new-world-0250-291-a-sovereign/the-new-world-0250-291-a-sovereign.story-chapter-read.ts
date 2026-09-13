@@ -9,10 +9,14 @@ export const theNewWorld0250291ASovereign = {
   position: 250,
   ownLength: 4185,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/641450/291-a-sovereign",
-  externalId: "641450",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "641450",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/641450/291-a-sovereign",
+    },
+  ],
   publishedAt: "2021-03-04",
   ownProgress: 4185,
   completedAt: "2026-06-29T21:29:41.803Z",

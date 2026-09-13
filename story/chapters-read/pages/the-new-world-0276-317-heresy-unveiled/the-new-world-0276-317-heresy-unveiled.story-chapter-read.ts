@@ -9,10 +9,14 @@ export const theNewWorld0276317HeresyUnveiled = {
   position: 276,
   ownLength: 3296,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/754507/317-heresy-unveiled",
-  externalId: "754507",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "754507",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/754507/317-heresy-unveiled",
+    },
+  ],
   publishedAt: "2021-09-21",
   ownProgress: 3296,
   completedAt: "2026-06-29T21:30:40.539Z",

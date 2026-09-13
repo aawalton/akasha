@@ -9,10 +9,14 @@ export const theNewWorld0086127DuplicityOfAKing = {
   position: 86,
   ownLength: 3661,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/222566/127-duplicity-of-a-king",
-  externalId: "222566",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "222566",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/222566/127-duplicity-of-a-king",
+    },
+  ],
   publishedAt: "2018-06-08",
   ownProgress: 3661,
   completedAt: "2026-06-29T21:23:48.844Z",

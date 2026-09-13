@@ -9,10 +9,14 @@ export const theNewWorld0302343HellHathOpportunities = {
   position: 302,
   ownLength: 3651,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/922742/343-hell-hath-opportunities",
-  externalId: "922742",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "922742",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/922742/343-hell-hath-opportunities",
+    },
+  ],
   publishedAt: "2022-06-07",
   ownProgress: 3651,
   completedAt: "2026-06-29T21:31:33.537Z",

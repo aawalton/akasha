@@ -9,10 +9,14 @@ export const theNewWorld0308349Uncertainty = {
   position: 308,
   ownLength: 4613,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1020765/349-uncertainty",
-  externalId: "1020765",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1020765",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1020765/349-uncertainty",
+    },
+  ],
   publishedAt: "2022-10-21",
   ownProgress: 4613,
   completedAt: "2026-06-29T21:31:44.708Z",

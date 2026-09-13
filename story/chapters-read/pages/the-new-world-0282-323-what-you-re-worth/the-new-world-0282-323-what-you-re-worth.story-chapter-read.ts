@@ -9,10 +9,14 @@ export const theNewWorld0282323WhatYouReWorth = {
   position: 282,
   ownLength: 3141,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/764723/323-what-youre-worth",
-  externalId: "764723",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "764723",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/764723/323-what-youre-worth",
+    },
+  ],
   publishedAt: "2021-10-10",
   ownProgress: 3141,
   completedAt: "2026-06-29T21:30:53.275Z",

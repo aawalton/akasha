@@ -9,10 +9,14 @@ export const theNewWorld005698ToCorrupt = {
   position: 56,
   ownLength: 2337,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/192025/98-to-corrupt",
-  externalId: "192025",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "192025",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/192025/98-to-corrupt",
+    },
+  ],
   publishedAt: "2018-02-04",
   ownProgress: 2337,
   completedAt: "2026-06-29T21:22:45.307Z",

@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0134Chapter134TheFirstOption
   position: 134,
   ownLength: 1985,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3517692/chapter-134-the-first-option",
-  externalId: "3517692",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3517692",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3517692/chapter-134-the-first-option",
+    },
+  ],
   publishedAt: "2026-06-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

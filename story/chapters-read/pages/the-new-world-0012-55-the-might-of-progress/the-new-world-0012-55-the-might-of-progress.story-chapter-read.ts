@@ -9,10 +9,14 @@ export const theNewWorld001255TheMightOfProgress = {
   position: 12,
   ownLength: 2391,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/167010/55-the-might-of-progress",
-  externalId: "167010",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "167010",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/167010/55-the-might-of-progress",
+    },
+  ],
   publishedAt: "2017-10-09",
   ownProgress: 2391,
   completedAt: "2026-06-29T21:21:07.220Z",

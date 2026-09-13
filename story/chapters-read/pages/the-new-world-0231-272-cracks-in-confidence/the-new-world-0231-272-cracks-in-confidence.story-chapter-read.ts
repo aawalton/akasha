@@ -9,10 +9,14 @@ export const theNewWorld0231272CracksInConfidence = {
   position: 231,
   ownLength: 6262,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/564603/272-cracks-in-confidence",
-  externalId: "564603",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "564603",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/564603/272-cracks-in-confidence",
+    },
+  ],
   publishedAt: "2020-10-05",
   ownProgress: 6262,
   completedAt: "2026-06-29T21:28:58.524Z",

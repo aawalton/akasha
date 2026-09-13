@@ -9,10 +9,14 @@ export const theNewWorld0177218SomethingElseAltogether = {
   position: 177,
   ownLength: 4876,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/385425/218-something-else-altogether",
-  externalId: "385425",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "385425",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/385425/218-something-else-altogether",
+    },
+  ],
   publishedAt: "2019-07-24",
   ownProgress: 4876,
   completedAt: "2026-06-29T21:26:56.989Z",

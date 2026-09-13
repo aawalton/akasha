@@ -9,10 +9,14 @@ export const theNewWorld0142183SomethingWicked = {
   position: 142,
   ownLength: 2114,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/331904/183-something-wicked",
-  externalId: "331904",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "331904",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/331904/183-something-wicked",
+    },
+  ],
   publishedAt: "2019-02-07",
   ownProgress: 2114,
   completedAt: "2026-06-29T21:25:39.795Z",

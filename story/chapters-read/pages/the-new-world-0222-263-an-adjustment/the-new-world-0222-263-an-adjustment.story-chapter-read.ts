@@ -9,10 +9,14 @@ export const theNewWorld0222263AnAdjustment = {
   position: 222,
   ownLength: 4157,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/512328/263-an-adjustment",
-  externalId: "512328",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "512328",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/512328/263-an-adjustment",
+    },
+  ],
   publishedAt: "2020-06-18",
   ownProgress: 4157,
   completedAt: "2026-06-29T21:28:37.654Z",

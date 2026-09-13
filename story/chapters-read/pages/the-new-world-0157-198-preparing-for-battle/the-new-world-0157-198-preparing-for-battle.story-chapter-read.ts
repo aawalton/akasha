@@ -9,10 +9,14 @@ export const theNewWorld0157198PreparingForBattle = {
   position: 157,
   ownLength: 7871,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/348918/198-preparing-for-battle",
-  externalId: "348918",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "348918",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/348918/198-preparing-for-battle",
+    },
+  ],
   publishedAt: "2019-04-02",
   ownProgress: 7871,
   completedAt: "2026-06-29T21:26:12.480Z",

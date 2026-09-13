@@ -9,10 +9,14 @@ export const theNewWorld0278319AHivemindSPotential = {
   position: 278,
   ownLength: 2546,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/758264/319-a-hiveminds-potential",
-  externalId: "758264",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "758264",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/758264/319-a-hiveminds-potential",
+    },
+  ],
   publishedAt: "2021-09-28",
   ownProgress: 2546,
   completedAt: "2026-06-29T21:30:44.693Z",

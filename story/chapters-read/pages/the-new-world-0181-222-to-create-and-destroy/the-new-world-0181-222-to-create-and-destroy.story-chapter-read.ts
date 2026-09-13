@@ -9,10 +9,14 @@ export const theNewWorld0181222ToCreateAndDestroy = {
   position: 181,
   ownLength: 9061,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/393214/222-to-create-and-destroy",
-  externalId: "393214",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "393214",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/393214/222-to-create-and-destroy",
+    },
+  ],
   publishedAt: "2019-08-17",
   ownProgress: 9061,
   completedAt: "2026-06-29T21:27:05.794Z",

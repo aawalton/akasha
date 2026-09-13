@@ -9,10 +9,14 @@ export const theNewWorld0131172LeavingAnImpression = {
   position: 131,
   ownLength: 3053,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/321048/172-leaving-an-impression",
-  externalId: "321048",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "321048",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/321048/172-leaving-an-impression",
+    },
+  ],
   publishedAt: "2019-01-04",
   ownProgress: 3053,
   completedAt: "2026-06-29T21:36:09.220Z",

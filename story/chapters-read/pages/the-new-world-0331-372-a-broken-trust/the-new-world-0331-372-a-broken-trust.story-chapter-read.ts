@@ -9,10 +9,14 @@ export const theNewWorld0331372ABrokenTrust = {
   position: 331,
   ownLength: 2216,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1143855/372-a-broken-trust",
-  externalId: "1143855",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1143855",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1143855/372-a-broken-trust",
+    },
+  ],
   publishedAt: "2023-03-20",
   ownProgress: 2216,
   completedAt: "2026-06-29T21:32:34.402Z",

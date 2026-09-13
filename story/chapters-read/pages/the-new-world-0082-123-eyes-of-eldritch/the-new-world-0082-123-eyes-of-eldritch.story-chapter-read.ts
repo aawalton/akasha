@@ -9,10 +9,14 @@ export const theNewWorld0082123EyesOfEldritch = {
   position: 82,
   ownLength: 1551,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/218400/123-eyes-of-eldritch",
-  externalId: "218400",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "218400",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/218400/123-eyes-of-eldritch",
+    },
+  ],
   publishedAt: "2018-05-24",
   ownProgress: 1551,
   completedAt: "2026-06-29T21:23:40.470Z",

@@ -9,10 +9,14 @@ export const theNewWorld0113154TheEmpire = {
   position: 113,
   ownLength: 2020,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/302052/154-the-empire",
-  externalId: "302052",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "302052",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/302052/154-the-empire",
+    },
+  ],
   publishedAt: "2018-10-29",
   ownProgress: 2020,
   completedAt: "2026-06-29T21:24:51.146Z",

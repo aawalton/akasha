@@ -9,10 +9,14 @@ export const theNewWorld0345385AMonsterSMind = {
   position: 345,
   ownLength: 2868,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2101721/385-a-monsters-mind",
-  externalId: "2101721",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2101721",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2101721/385-a-monsters-mind",
+    },
+  ],
   publishedAt: "2025-03-03",
   ownProgress: 2868,
   completedAt: "2026-06-29T21:33:05.876Z",

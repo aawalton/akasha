@@ -9,10 +9,14 @@ export const theNewWorld0264305AGalaxyUnexplored = {
   position: 264,
   ownLength: 3974,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/744680/305-a-galaxy-unexplored",
-  externalId: "744680",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "744680",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/744680/305-a-galaxy-unexplored",
+    },
+  ],
   publishedAt: "2021-09-03",
   ownProgress: 3974,
   completedAt: "2026-06-29T21:30:14.658Z",

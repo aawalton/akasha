@@ -9,10 +9,14 @@ export const theNewWorld0078120EyesOfOld = {
   position: 78,
   ownLength: 3900,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/215326/120-eyes-of-old",
-  externalId: "215326",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "215326",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/215326/120-eyes-of-old",
+    },
+  ],
   publishedAt: "2018-05-13",
   ownProgress: 3900,
   completedAt: "2026-06-29T21:23:32.285Z",

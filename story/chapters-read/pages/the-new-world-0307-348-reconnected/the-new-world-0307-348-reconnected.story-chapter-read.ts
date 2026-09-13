@@ -9,10 +9,14 @@ export const theNewWorld0307348Reconnected = {
   position: 307,
   ownLength: 4601,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/965653/348-reconnected",
-  externalId: "965653",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "965653",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/965653/348-reconnected",
+    },
+  ],
   publishedAt: "2022-08-07",
   ownProgress: 4601,
   completedAt: "2026-06-29T21:31:42.897Z",

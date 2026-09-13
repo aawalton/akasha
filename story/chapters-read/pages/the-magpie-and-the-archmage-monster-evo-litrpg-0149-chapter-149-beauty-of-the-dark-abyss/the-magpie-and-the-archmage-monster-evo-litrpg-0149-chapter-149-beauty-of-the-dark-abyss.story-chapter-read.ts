@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0149Chapter149BeautyOfTheDar
   position: 149,
   ownLength: 2234,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3700383/chapter-149-beauty-of-the-dark-abyss",
-  externalId: "3700383",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3700383",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3700383/chapter-149-beauty-of-the-dark-abyss",
+    },
+  ],
   publishedAt: "2026-07-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

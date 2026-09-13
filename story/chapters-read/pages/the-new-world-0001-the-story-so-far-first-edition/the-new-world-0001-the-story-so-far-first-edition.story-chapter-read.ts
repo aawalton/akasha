@@ -9,10 +9,14 @@ export const theNewWorld0001TheStorySoFarFirstEdition = {
   position: 1,
   ownLength: 2548,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/155785/the-story-so-far-first-edition",
-  externalId: "155785",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "155785",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/155785/the-story-so-far-first-edition",
+    },
+  ],
   publishedAt: "2017-08-16",
   ownProgress: 2548,
   completedAt: "2026-06-29T21:20:42.105Z",

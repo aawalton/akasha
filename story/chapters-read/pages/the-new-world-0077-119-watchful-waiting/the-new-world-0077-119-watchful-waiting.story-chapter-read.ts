@@ -9,10 +9,14 @@ export const theNewWorld0077119WatchfulWaiting = {
   position: 77,
   ownLength: 2284,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/214091/119-watchful-waiting",
-  externalId: "214091",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "214091",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/214091/119-watchful-waiting",
+    },
+  ],
   publishedAt: "2018-05-08",
   ownProgress: 2284,
   completedAt: "2026-06-29T21:23:30.166Z",

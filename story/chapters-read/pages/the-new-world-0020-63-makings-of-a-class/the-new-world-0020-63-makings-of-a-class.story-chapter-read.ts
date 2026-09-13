@@ -9,10 +9,14 @@ export const theNewWorld002063MakingsOfAClass = {
   position: 20,
   ownLength: 4710,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/169390/63-makings-of-a-class",
-  externalId: "169390",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "169390",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/169390/63-makings-of-a-class",
+    },
+  ],
   publishedAt: "2017-10-21",
   ownProgress: 4710,
   completedAt: "2026-06-29T21:21:24.867Z",

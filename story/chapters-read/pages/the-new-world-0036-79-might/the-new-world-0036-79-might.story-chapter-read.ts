@@ -9,9 +9,13 @@ export const theNewWorld003679Might = {
   position: 36,
   ownLength: 3463,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/175888/79-might",
-  externalId: "175888",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "175888",
+      externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/175888/79-might",
+    },
+  ],
   publishedAt: "2017-11-22",
   ownProgress: 3463,
   completedAt: "2026-06-29T21:22:00.272Z",

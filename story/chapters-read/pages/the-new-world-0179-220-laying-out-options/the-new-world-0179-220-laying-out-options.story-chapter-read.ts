@@ -9,10 +9,14 @@ export const theNewWorld0179220LayingOutOptions = {
   position: 179,
   ownLength: 5120,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/390550/220-laying-out-options",
-  externalId: "390550",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "390550",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/390550/220-laying-out-options",
+    },
+  ],
   publishedAt: "2019-08-09",
   ownProgress: 5120,
   completedAt: "2026-06-29T21:27:01.382Z",

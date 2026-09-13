@@ -9,10 +9,14 @@ export const theNewWorld0134175EyeOfTheStorm = {
   position: 134,
   ownLength: 2378,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/322879/175-eye-of-the-storm",
-  externalId: "322879",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "322879",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/322879/175-eye-of-the-storm",
+    },
+  ],
   publishedAt: "2019-01-10",
   ownProgress: 2378,
   completedAt: "2026-06-29T21:36:15.655Z",

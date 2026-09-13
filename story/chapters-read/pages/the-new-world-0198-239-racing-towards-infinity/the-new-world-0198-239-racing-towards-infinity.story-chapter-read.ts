@@ -9,10 +9,14 @@ export const theNewWorld0198239RacingTowardsInfinity = {
   position: 198,
   ownLength: 2555,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/427403/239-racing-towards-infinity",
-  externalId: "427403",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "427403",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/427403/239-racing-towards-infinity",
+    },
+  ],
   publishedAt: "2019-11-25",
   ownProgress: 2555,
   completedAt: "2026-06-29T21:27:44.768Z",

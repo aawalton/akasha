@@ -9,10 +9,14 @@ export const theNewWorld0156197UnderDarkWaters = {
   position: 156,
   ownLength: 3054,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/348606/197-under-dark-waters",
-  externalId: "348606",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "348606",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/348606/197-under-dark-waters",
+    },
+  ],
   publishedAt: "2019-04-01",
   ownProgress: 3054,
   completedAt: "2026-06-29T21:26:10.203Z",

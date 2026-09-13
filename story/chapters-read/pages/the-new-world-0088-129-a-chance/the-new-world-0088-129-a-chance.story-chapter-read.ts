@@ -9,9 +9,14 @@ export const theNewWorld0088129AChance = {
   position: 88,
   ownLength: 2264,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/225455/129-a-chance",
-  externalId: "225455",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "225455",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/225455/129-a-chance",
+    },
+  ],
   publishedAt: "2018-06-18",
   ownProgress: 2264,
   completedAt: "2026-06-29T21:23:53.149Z",

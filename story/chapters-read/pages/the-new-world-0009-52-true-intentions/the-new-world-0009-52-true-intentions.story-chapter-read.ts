@@ -9,10 +9,14 @@ export const theNewWorld000952TrueIntentions = {
   position: 9,
   ownLength: 4299,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/164972/52-true-intentions",
-  externalId: "164972",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "164972",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/164972/52-true-intentions",
+    },
+  ],
   publishedAt: "2017-09-29",
   ownProgress: 4299,
   completedAt: "2026-06-29T21:21:00.061Z",

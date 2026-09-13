@@ -9,10 +9,14 @@ export const theNewWorld0289330Introductions = {
   position: 289,
   ownLength: 2687,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/842437/330-introductions",
-  externalId: "842437",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "842437",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/842437/330-introductions",
+    },
+  ],
   publishedAt: "2022-02-10",
   ownProgress: 2687,
   completedAt: "2026-06-29T21:31:08.190Z",

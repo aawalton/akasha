@@ -9,10 +9,14 @@ export const theNewWorld0280321ExpandingAnEmpire = {
   position: 280,
   ownLength: 2901,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/762170/321-expanding-an-empire",
-  externalId: "762170",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "762170",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/762170/321-expanding-an-empire",
+    },
+  ],
   publishedAt: "2021-10-05",
   ownProgress: 2901,
   completedAt: "2026-06-29T21:30:49.098Z",

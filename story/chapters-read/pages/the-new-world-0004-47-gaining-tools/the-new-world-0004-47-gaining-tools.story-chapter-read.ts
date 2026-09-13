@@ -9,10 +9,14 @@ export const theNewWorld000447GainingTools = {
   position: 4,
   ownLength: 3837,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/161315/47-gaining-tools",
-  externalId: "161315",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "161315",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/161315/47-gaining-tools",
+    },
+  ],
   publishedAt: "2017-09-10",
   ownProgress: 3837,
   completedAt: "2026-06-29T21:20:49.331Z",

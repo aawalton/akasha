@@ -9,10 +9,14 @@ export const theNewWorld0321362UncoveredProgress = {
   position: 321,
   ownLength: 2224,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1124787/362-uncovered-progress",
-  externalId: "1124787",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1124787",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1124787/362-uncovered-progress",
+    },
+  ],
   publishedAt: "2023-02-27",
   ownProgress: 2224,
   completedAt: "2026-06-29T21:32:09.993Z",

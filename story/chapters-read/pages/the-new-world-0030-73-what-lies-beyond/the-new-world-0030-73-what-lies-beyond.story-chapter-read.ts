@@ -9,10 +9,14 @@ export const theNewWorld003073WhatLiesBeyond = {
   position: 30,
   ownLength: 4979,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/173228/73-what-lies-beyond",
-  externalId: "173228",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "173228",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/173228/73-what-lies-beyond",
+    },
+  ],
   publishedAt: "2017-11-09",
   ownProgress: 4979,
   completedAt: "2026-06-29T21:21:46.991Z",

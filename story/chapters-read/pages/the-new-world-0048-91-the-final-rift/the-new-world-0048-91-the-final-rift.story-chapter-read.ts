@@ -9,10 +9,14 @@ export const theNewWorld004891TheFinalRift = {
   position: 48,
   ownLength: 3437,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/183826/91-the-final-rift",
-  externalId: "183826",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "183826",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/183826/91-the-final-rift",
+    },
+  ],
   publishedAt: "2018-01-01",
   ownProgress: 3437,
   completedAt: "2026-06-29T21:22:26.485Z",

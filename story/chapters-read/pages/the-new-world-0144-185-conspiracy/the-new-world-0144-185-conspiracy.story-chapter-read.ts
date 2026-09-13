@@ -9,10 +9,14 @@ export const theNewWorld0144185Conspiracy = {
   position: 144,
   ownLength: 2137,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/335766/185-conspiracy",
-  externalId: "335766",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "335766",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/335766/185-conspiracy",
+    },
+  ],
   publishedAt: "2019-02-19",
   ownProgress: 2137,
   completedAt: "2026-06-29T21:25:44.030Z",

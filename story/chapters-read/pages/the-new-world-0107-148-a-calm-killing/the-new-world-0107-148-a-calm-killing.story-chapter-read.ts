@@ -9,10 +9,14 @@ export const theNewWorld0107148ACalmKilling = {
   position: 107,
   ownLength: 4499,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/300522/148-a-calm-killing",
-  externalId: "300522",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "300522",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/300522/148-a-calm-killing",
+    },
+  ],
   publishedAt: "2018-10-23",
   ownProgress: 4499,
   completedAt: "2026-06-29T21:24:38.479Z",

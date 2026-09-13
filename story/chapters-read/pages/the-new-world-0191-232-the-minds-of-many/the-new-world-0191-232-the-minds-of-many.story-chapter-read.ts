@@ -9,10 +9,14 @@ export const theNewWorld0191232TheMindsOfMany = {
   position: 191,
   ownLength: 2566,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/414796/232-the-minds-of-many",
-  externalId: "414796",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "414796",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/414796/232-the-minds-of-many",
+    },
+  ],
   publishedAt: "2019-10-20",
   ownProgress: 2566,
   completedAt: "2026-06-29T21:27:29.108Z",

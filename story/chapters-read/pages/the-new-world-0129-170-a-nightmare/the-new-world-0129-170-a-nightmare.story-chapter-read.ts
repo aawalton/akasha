@@ -9,10 +9,14 @@ export const theNewWorld0129170ANightmare = {
   position: 129,
   ownLength: 3177,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/317036/170-a-nightmare",
-  externalId: "317036",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "317036",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/317036/170-a-nightmare",
+    },
+  ],
   publishedAt: "2018-12-20",
   ownProgress: 3177,
   completedAt: "2026-06-29T21:36:05.184Z",

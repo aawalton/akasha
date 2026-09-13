@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0150Chapter150CleansingTheFi
   position: 150,
   ownLength: 1954,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3709415/chapter-150-cleansing-the-fish",
-  externalId: "3709415",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3709415",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3709415/chapter-150-cleansing-the-fish",
+    },
+  ],
   publishedAt: "2026-07-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

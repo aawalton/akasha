@@ -9,10 +9,14 @@ export const theNewWorld003982AnOverseerSInsight = {
   position: 39,
   ownLength: 1176,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/177387/82-an-overseers-insight",
-  externalId: "177387",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "177387",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/177387/82-an-overseers-insight",
+    },
+  ],
   publishedAt: "2017-11-30",
   ownProgress: 1176,
   completedAt: "2026-06-29T21:22:07.255Z",

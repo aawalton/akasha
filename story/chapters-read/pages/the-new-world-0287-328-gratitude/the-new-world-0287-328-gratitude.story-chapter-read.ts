@@ -9,10 +9,14 @@ export const theNewWorld0287328Gratitude = {
   position: 287,
   ownLength: 3652,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/839293/328-gratitude",
-  externalId: "839293",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "839293",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/839293/328-gratitude",
+    },
+  ],
   publishedAt: "2022-02-05",
   ownProgress: 3652,
   completedAt: "2026-06-29T21:31:03.950Z",

@@ -9,10 +9,14 @@ export const theNewWorld0205246AReprieve = {
   position: 205,
   ownLength: 3647,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/452382/246-a-reprieve",
-  externalId: "452382",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "452382",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/452382/246-a-reprieve",
+    },
+  ],
   publishedAt: "2020-02-01",
   ownProgress: 3647,
   completedAt: "2026-06-29T21:27:59.693Z",

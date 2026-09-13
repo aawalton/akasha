@@ -9,10 +9,14 @@ export const theNewWorld004184FinalizingDetails = {
   position: 41,
   ownLength: 2822,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/178529/84-finalizing-details",
-  externalId: "178529",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "178529",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/178529/84-finalizing-details",
+    },
+  ],
   publishedAt: "2017-12-06",
   ownProgress: 2822,
   completedAt: "2026-06-29T21:22:11.492Z",

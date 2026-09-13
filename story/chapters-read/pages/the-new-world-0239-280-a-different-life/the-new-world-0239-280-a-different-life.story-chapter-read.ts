@@ -9,10 +9,14 @@ export const theNewWorld0239280ADifferentLife = {
   position: 239,
   ownLength: 6965,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/590331/280-a-different-life",
-  externalId: "590331",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "590331",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/590331/280-a-different-life",
+    },
+  ],
   publishedAt: "2020-11-24",
   ownProgress: 6965,
   completedAt: "2026-06-29T21:29:17.019Z",

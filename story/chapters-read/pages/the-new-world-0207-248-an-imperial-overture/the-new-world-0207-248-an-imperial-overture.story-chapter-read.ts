@@ -9,10 +9,14 @@ export const theNewWorld0207248AnImperialOverture = {
   position: 207,
   ownLength: 4495,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/458415/248-an-imperial-overture",
-  externalId: "458415",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "458415",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/458415/248-an-imperial-overture",
+    },
+  ],
   publishedAt: "2020-02-18",
   ownProgress: 4495,
   completedAt: "2026-06-29T21:28:04.594Z",

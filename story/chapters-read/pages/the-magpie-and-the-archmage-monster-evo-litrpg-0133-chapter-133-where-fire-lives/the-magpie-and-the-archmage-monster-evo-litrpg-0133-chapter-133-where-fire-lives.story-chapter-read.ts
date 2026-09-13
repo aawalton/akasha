@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0133Chapter133WhereFireLives
   position: 133,
   ownLength: 1934,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3508276/chapter-133-where-fire-lives",
-  externalId: "3508276",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3508276",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3508276/chapter-133-where-fire-lives",
+    },
+  ],
   publishedAt: "2026-06-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theNewWorld0251292AManifoldMindApplied = {
   position: 251,
   ownLength: 6151,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/643436/292-a-manifold-mind-applied",
-  externalId: "643436",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "643436",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/643436/292-a-manifold-mind-applied",
+    },
+  ],
   publishedAt: "2021-03-08",
   ownProgress: 6151,
   completedAt: "2026-06-29T21:29:43.998Z",

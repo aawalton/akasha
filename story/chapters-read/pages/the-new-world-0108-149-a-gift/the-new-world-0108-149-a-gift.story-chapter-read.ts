@@ -9,9 +9,14 @@ export const theNewWorld0108149AGift = {
   position: 108,
   ownLength: 2784,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/300770/149-a-gift",
-  externalId: "300770",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "300770",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/300770/149-a-gift",
+    },
+  ],
   publishedAt: "2018-10-24",
   ownProgress: 2784,
   completedAt: "2026-06-29T21:24:40.610Z",

@@ -9,10 +9,14 @@ export const theNewWorld0096137TheyComeAtNight = {
   position: 96,
   ownLength: 2593,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/237264/137-they-come-at-night",
-  externalId: "237264",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "237264",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/237264/137-they-come-at-night",
+    },
+  ],
   publishedAt: "2018-07-24",
   ownProgress: 2593,
   completedAt: "2026-06-29T21:24:09.944Z",

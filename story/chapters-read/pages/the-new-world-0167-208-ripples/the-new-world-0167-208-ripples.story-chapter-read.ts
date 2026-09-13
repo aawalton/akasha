@@ -9,9 +9,14 @@ export const theNewWorld0167208Ripples = {
   position: 167,
   ownLength: 3105,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/366389/208-ripples",
-  externalId: "366389",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "366389",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/366389/208-ripples",
+    },
+  ],
   publishedAt: "2019-05-27",
   ownProgress: 3105,
   completedAt: "2026-06-29T21:26:35.487Z",

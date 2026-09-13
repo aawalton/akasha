@@ -9,10 +9,14 @@ export const theNewWorld0208249Reasoning = {
   position: 208,
   ownLength: 3923,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/466591/249-reasoning",
-  externalId: "466591",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "466591",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/466591/249-reasoning",
+    },
+  ],
   publishedAt: "2020-03-10",
   ownProgress: 3923,
   completedAt: "2026-06-29T21:28:06.819Z",

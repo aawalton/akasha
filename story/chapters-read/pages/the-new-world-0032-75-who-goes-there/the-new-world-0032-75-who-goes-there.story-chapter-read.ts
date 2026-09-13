@@ -9,10 +9,14 @@ export const theNewWorld003275WhoGoesThere = {
   position: 32,
   ownLength: 3520,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/174198/75-who-goes-there",
-  externalId: "174198",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "174198",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/174198/75-who-goes-there",
+    },
+  ],
   publishedAt: "2017-11-14",
   ownProgress: 3520,
   completedAt: "2026-06-29T21:21:51.501Z",

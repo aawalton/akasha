@@ -9,9 +9,14 @@ export const theNewWorld0083124Almost = {
   position: 83,
   ownLength: 1674,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/219544/124-almost",
-  externalId: "219544",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "219544",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/219544/124-almost",
+    },
+  ],
   publishedAt: "2018-05-29",
   ownProgress: 1674,
   completedAt: "2026-06-29T21:23:42.613Z",

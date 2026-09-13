@@ -9,10 +9,14 @@ export const theNewWorld0263304AWakeUpCall = {
   position: 263,
   ownLength: 5456,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/744053/304-a-wake-up-call",
-  externalId: "744053",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "744053",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/744053/304-a-wake-up-call",
+    },
+  ],
   publishedAt: "2021-09-02",
   ownProgress: 5456,
   completedAt: "2026-06-29T21:30:12.370Z",

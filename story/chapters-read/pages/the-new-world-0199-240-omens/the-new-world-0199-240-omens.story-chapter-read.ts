@@ -9,9 +9,14 @@ export const theNewWorld0199240Omens = {
   position: 199,
   ownLength: 4346,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/429666/240-omens",
-  externalId: "429666",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "429666",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/429666/240-omens",
+    },
+  ],
   publishedAt: "2019-12-01",
   ownProgress: 4346,
   completedAt: "2026-06-29T21:27:47.101Z",

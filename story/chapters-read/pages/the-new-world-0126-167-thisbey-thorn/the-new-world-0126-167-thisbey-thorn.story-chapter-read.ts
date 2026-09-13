@@ -9,10 +9,14 @@ export const theNewWorld0126167ThisbeyThorn = {
   position: 126,
   ownLength: 3223,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/312662/167-thisbey-thorn",
-  externalId: "312662",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "312662",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/312662/167-thisbey-thorn",
+    },
+  ],
   publishedAt: "2018-12-06",
   ownProgress: 3223,
   completedAt: "2026-06-29T21:25:20.005Z",

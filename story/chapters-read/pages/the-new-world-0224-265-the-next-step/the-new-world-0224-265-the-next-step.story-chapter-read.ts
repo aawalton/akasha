@@ -9,10 +9,14 @@ export const theNewWorld0224265TheNextStep = {
   position: 224,
   ownLength: 4025,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/516535/265-the-next-step",
-  externalId: "516535",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "516535",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/516535/265-the-next-step",
+    },
+  ],
   publishedAt: "2020-06-27",
   ownProgress: 4025,
   completedAt: "2026-06-29T21:28:41.970Z",

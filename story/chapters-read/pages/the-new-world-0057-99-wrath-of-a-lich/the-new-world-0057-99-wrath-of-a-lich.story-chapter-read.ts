@@ -9,10 +9,14 @@ export const theNewWorld005799WrathOfALich = {
   position: 57,
   ownLength: 2909,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/193129/99-wrath-of-a-lich",
-  externalId: "193129",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "193129",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/193129/99-wrath-of-a-lich",
+    },
+  ],
   publishedAt: "2018-02-08",
   ownProgress: 2909,
   completedAt: "2026-06-29T21:22:47.486Z",

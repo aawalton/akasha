@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0137Chapter137NewFormNewProb
   position: 137,
   ownLength: 2191,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3550685/chapter-137-new-form-new-problems",
-  externalId: "3550685",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3550685",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3550685/chapter-137-new-form-new-problems",
+    },
+  ],
   publishedAt: "2026-06-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

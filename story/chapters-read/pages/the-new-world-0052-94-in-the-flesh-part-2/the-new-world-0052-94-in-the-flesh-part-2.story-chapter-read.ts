@@ -9,10 +9,14 @@ export const theNewWorld005294InTheFleshPart2 = {
   position: 52,
   ownLength: 3618,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/185661/94-in-the-fleshpart-2",
-  externalId: "185661",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "185661",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/185661/94-in-the-fleshpart-2",
+    },
+  ],
   publishedAt: "2018-01-09",
   ownProgress: 3618,
   completedAt: "2026-06-29T21:22:36.577Z",

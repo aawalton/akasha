@@ -9,10 +9,14 @@ export const theNewWorld0271312APieceOfPlazia = {
   position: 271,
   ownLength: 5946,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/750776/312-a-piece-of-plazia",
-  externalId: "750776",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "750776",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/750776/312-a-piece-of-plazia",
+    },
+  ],
   publishedAt: "2021-09-14",
   ownProgress: 5946,
   completedAt: "2026-06-29T21:30:29.701Z",

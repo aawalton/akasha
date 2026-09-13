@@ -9,9 +9,14 @@ export const theNewWorld0192233Elysium = {
   position: 192,
   ownLength: 3503,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/416721/233-elysium",
-  externalId: "416721",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "416721",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/416721/233-elysium",
+    },
+  ],
   publishedAt: "2019-10-26",
   ownProgress: 3503,
   completedAt: "2026-06-29T21:27:31.282Z",

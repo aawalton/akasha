@@ -9,10 +9,14 @@ export const theNewWorld0117158GettingThere = {
   position: 117,
   ownLength: 3178,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/304177/158-getting-there",
-  externalId: "304177",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "304177",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/304177/158-getting-there",
+    },
+  ],
   publishedAt: "2018-11-05",
   ownProgress: 3178,
   completedAt: "2026-06-29T21:25:00.072Z",

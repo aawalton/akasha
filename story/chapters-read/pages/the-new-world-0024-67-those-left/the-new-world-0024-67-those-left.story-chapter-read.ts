@@ -9,10 +9,14 @@ export const theNewWorld002467ThoseLeft = {
   position: 24,
   ownLength: 4061,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/170587/67-those-left",
-  externalId: "170587",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "170587",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/170587/67-those-left",
+    },
+  ],
   publishedAt: "2017-10-27",
   ownProgress: 4061,
   completedAt: "2026-06-29T21:21:33.829Z",

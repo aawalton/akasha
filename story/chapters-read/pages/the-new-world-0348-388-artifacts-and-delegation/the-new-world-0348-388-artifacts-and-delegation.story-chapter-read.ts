@@ -9,10 +9,14 @@ export const theNewWorld0348388ArtifactsAndDelegation = {
   position: 348,
   ownLength: 3774,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2108878/388-artifacts-and-delegation",
-  externalId: "2108878",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2108878",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2108878/388-artifacts-and-delegation",
+    },
+  ],
   publishedAt: "2025-03-07",
   ownProgress: 3774,
   completedAt: "2026-06-29T21:33:12.304Z",

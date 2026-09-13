@@ -9,9 +9,14 @@ export const theNewWorld0146187Exposed = {
   position: 146,
   ownLength: 4114,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/337692/187-exposed",
-  externalId: "337692",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "337692",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/337692/187-exposed",
+    },
+  ],
   publishedAt: "2019-02-26",
   ownProgress: 4114,
   completedAt: "2026-06-29T21:25:48.384Z",

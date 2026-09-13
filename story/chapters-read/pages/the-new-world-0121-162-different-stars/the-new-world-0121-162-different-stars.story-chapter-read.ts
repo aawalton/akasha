@@ -9,10 +9,14 @@ export const theNewWorld0121162DifferentStars = {
   position: 121,
   ownLength: 4064,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/306579/162-different-stars",
-  externalId: "306579",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "306579",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/306579/162-different-stars",
+    },
+  ],
   publishedAt: "2018-11-13",
   ownProgress: 4064,
   completedAt: "2026-06-29T21:25:08.766Z",

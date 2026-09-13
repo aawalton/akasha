@@ -9,9 +9,14 @@ export const theNewWorld0085126Honesty = {
   position: 85,
   ownLength: 4138,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/221712/126-honesty",
-  externalId: "221712",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "221712",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/221712/126-honesty",
+    },
+  ],
   publishedAt: "2018-06-06",
   ownProgress: 4138,
   completedAt: "2026-06-29T21:23:46.739Z",

@@ -9,10 +9,14 @@ export const theNewWorld0127168PrestigeAndProminence = {
   position: 127,
   ownLength: 3384,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/314487/168-prestige-and-prominence",
-  externalId: "314487",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "314487",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/314487/168-prestige-and-prominence",
+    },
+  ],
   publishedAt: "2018-12-11",
   ownProgress: 3384,
   completedAt: "2026-06-29T21:25:22.187Z",

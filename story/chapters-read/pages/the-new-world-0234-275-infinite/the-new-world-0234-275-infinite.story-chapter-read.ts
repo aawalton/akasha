@@ -9,9 +9,14 @@ export const theNewWorld0234275Infinite = {
   position: 234,
   ownLength: 10118,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/577389/275-infinite",
-  externalId: "577389",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "577389",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/577389/275-infinite",
+    },
+  ],
   publishedAt: "2020-10-31",
   ownProgress: 10118,
   completedAt: "2026-06-29T21:29:05.994Z",

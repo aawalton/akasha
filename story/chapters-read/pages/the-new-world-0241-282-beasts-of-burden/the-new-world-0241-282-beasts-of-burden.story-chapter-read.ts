@@ -9,10 +9,14 @@ export const theNewWorld0241282BeastsOfBurden = {
   position: 241,
   ownLength: 5891,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/594265/282-beasts-of-burden",
-  externalId: "594265",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "594265",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/594265/282-beasts-of-burden",
+    },
+  ],
   publishedAt: "2020-12-03",
   ownProgress: 5891,
   completedAt: "2026-06-29T21:29:21.530Z",

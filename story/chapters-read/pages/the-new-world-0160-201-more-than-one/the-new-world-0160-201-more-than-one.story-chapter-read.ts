@@ -9,10 +9,14 @@ export const theNewWorld0160201MoreThanOne = {
   position: 160,
   ownLength: 3827,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/353152/201-more-than-one",
-  externalId: "353152",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "353152",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/353152/201-more-than-one",
+    },
+  ],
   publishedAt: "2019-04-16",
   ownProgress: 3827,
   completedAt: "2026-06-29T21:26:20.470Z",

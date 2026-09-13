@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0145Chapter145Taken = {
   position: 145,
   ownLength: 2238,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3656128/chapter-145-taken",
-  externalId: "3656128",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3656128",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3656128/chapter-145-taken",
+    },
+  ],
   publishedAt: "2026-07-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

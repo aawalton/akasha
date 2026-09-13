@@ -9,9 +9,14 @@ export const theNewWorld0075117Leverage = {
   position: 75,
   ownLength: 2300,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/213061/117-leverage",
-  externalId: "213061",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "213061",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/213061/117-leverage",
+    },
+  ],
   publishedAt: "2018-05-03",
   ownProgress: 2300,
   completedAt: "2026-06-29T21:23:25.936Z",

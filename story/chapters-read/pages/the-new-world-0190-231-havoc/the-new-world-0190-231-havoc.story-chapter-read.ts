@@ -9,9 +9,14 @@ export const theNewWorld0190231Havoc = {
   position: 190,
   ownLength: 3872,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/412669/231-havoc",
-  externalId: "412669",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "412669",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/412669/231-havoc",
+    },
+  ],
   publishedAt: "2019-10-13",
   ownProgress: 3872,
   completedAt: "2026-06-29T21:27:26.959Z",

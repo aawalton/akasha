@@ -9,9 +9,14 @@ export const theNewWorld0319360Exposed = {
   position: 319,
   ownLength: 6841,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1122180/360-exposed",
-  externalId: "1122180",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1122180",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1122180/360-exposed",
+    },
+  ],
   publishedAt: "2023-02-24",
   ownProgress: 6841,
   completedAt: "2026-06-29T21:32:05.666Z",

@@ -9,10 +9,14 @@ export const theNewWorld0257298ApplyingInput = {
   position: 257,
   ownLength: 6585,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/656866/298-applying-input",
-  externalId: "656866",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "656866",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/656866/298-applying-input",
+    },
+  ],
   publishedAt: "2021-04-02",
   ownProgress: 6585,
   completedAt: "2026-06-29T21:29:58.505Z",

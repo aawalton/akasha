@@ -9,10 +9,14 @@ export const theNewWorld0262303WhereTheyStand = {
   position: 262,
   ownLength: 6408,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/743656/303-where-they-stand",
-  externalId: "743656",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "743656",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/743656/303-where-they-stand",
+    },
+  ],
   publishedAt: "2021-09-01",
   ownProgress: 6408,
   completedAt: "2026-06-29T21:30:10.105Z",

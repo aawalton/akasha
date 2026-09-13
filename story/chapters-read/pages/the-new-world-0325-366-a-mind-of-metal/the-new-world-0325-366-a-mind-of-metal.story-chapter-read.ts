@@ -9,10 +9,14 @@ export const theNewWorld0325366AMindOfMetal = {
   position: 325,
   ownLength: 3554,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1131696/366-a-mind-of-metal",
-  externalId: "1131696",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1131696",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1131696/366-a-mind-of-metal",
+    },
+  ],
   publishedAt: "2023-03-07",
   ownProgress: 3554,
   completedAt: "2026-06-29T21:32:21.691Z",

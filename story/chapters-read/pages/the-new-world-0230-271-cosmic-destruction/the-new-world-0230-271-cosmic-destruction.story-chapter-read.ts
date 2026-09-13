@@ -9,10 +9,14 @@ export const theNewWorld0230271CosmicDestruction = {
   position: 230,
   ownLength: 7125,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/560863/271-cosmic-destruction",
-  externalId: "560863",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "560863",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/560863/271-cosmic-destruction",
+    },
+  ],
   publishedAt: "2020-09-27",
   ownProgress: 7125,
   completedAt: "2026-06-29T21:28:56.250Z",

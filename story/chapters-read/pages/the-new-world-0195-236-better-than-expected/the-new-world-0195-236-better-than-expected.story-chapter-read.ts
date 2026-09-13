@@ -9,10 +9,14 @@ export const theNewWorld0195236BetterThanExpected = {
   position: 195,
   ownLength: 6996,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/418455/236-better-than-expected",
-  externalId: "418455",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "418455",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/418455/236-better-than-expected",
+    },
+  ],
   publishedAt: "2019-10-31",
   ownProgress: 6996,
   completedAt: "2026-06-29T21:27:37.846Z",

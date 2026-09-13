@@ -9,10 +9,14 @@ export const theNewWorld0065107AjaxVolan = {
   position: 65,
   ownLength: 4153,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/205020/107-ajax-volan",
-  externalId: "205020",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "205020",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/205020/107-ajax-volan",
+    },
+  ],
   publishedAt: "2018-04-01",
   ownProgress: 4153,
   completedAt: "2026-06-29T21:23:04.334Z",

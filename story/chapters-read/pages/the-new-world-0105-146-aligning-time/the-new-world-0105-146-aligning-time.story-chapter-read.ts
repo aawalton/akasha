@@ -9,10 +9,14 @@ export const theNewWorld0105146AligningTime = {
   position: 105,
   ownLength: 3321,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/299623/146-aligning-time",
-  externalId: "299623",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "299623",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/299623/146-aligning-time",
+    },
+  ],
   publishedAt: "2018-10-20",
   ownProgress: 3321,
   completedAt: "2026-06-29T21:24:34.267Z",

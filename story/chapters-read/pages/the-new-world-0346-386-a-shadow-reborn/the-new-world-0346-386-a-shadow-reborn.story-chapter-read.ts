@@ -9,10 +9,14 @@ export const theNewWorld0346386AShadowReborn = {
   position: 346,
   ownLength: 2973,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2104263/386-a-shadow-reborn",
-  externalId: "2104263",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2104263",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2104263/386-a-shadow-reborn",
+    },
+  ],
   publishedAt: "2025-03-04",
   ownProgress: 2973,
   completedAt: "2026-06-29T21:33:07.943Z",

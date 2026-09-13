@@ -9,10 +9,14 @@ export const theNewWorld0318359AmassingArmadas = {
   position: 318,
   ownLength: 4065,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1121199/359-amassing-armadas",
-  externalId: "1121199",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1121199",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1121199/359-amassing-armadas",
+    },
+  ],
   publishedAt: "2023-02-23",
   ownProgress: 4065,
   completedAt: "2026-06-29T21:32:03.714Z",

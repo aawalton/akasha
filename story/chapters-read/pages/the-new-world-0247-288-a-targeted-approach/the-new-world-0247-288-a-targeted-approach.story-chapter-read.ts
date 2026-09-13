@@ -9,10 +9,14 @@ export const theNewWorld0247288ATargetedApproach = {
   position: 247,
   ownLength: 7355,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/633317/288-a-targeted-approach",
-  externalId: "633317",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "633317",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/633317/288-a-targeted-approach",
+    },
+  ],
   publishedAt: "2021-02-17",
   ownProgress: 7355,
   completedAt: "2026-06-29T21:29:34.702Z",

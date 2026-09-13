@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0130Chapter130PunishedForGoo
   position: 130,
   ownLength: 2154,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3476622/chapter-130-punished-for-good-deeds",
-  externalId: "3476622",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3476622",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3476622/chapter-130-punished-for-good-deeds",
+    },
+  ],
   publishedAt: "2026-06-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

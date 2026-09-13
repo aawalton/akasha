@@ -9,10 +9,14 @@ export const theNewWorld0244285ANewWorldSWays = {
   position: 244,
   ownLength: 5787,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/621736/285-a-new-worlds-ways",
-  externalId: "621736",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "621736",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/621736/285-a-new-worlds-ways",
+    },
+  ],
   publishedAt: "2021-01-28",
   ownProgress: 5787,
   completedAt: "2026-06-29T21:29:28.006Z",

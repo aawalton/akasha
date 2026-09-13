@@ -9,10 +9,14 @@ export const theNewWorld0204245TacticsEvolved = {
   position: 204,
   ownLength: 4155,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/451584/245-tactics-evolved",
-  externalId: "451584",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "451584",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/451584/245-tactics-evolved",
+    },
+  ],
   publishedAt: "2020-01-30",
   ownProgress: 4155,
   completedAt: "2026-06-29T21:27:57.574Z",

@@ -9,10 +9,14 @@ export const theNewWorld0155196DivingIn = {
   position: 155,
   ownLength: 3865,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/346986/196-diving-in",
-  externalId: "346986",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "346986",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/346986/196-diving-in",
+    },
+  ],
   publishedAt: "2019-03-26",
   ownProgress: 3865,
   completedAt: "2026-06-29T21:26:08.131Z",

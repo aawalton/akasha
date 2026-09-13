@@ -8,11 +8,15 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0175Chapter175InTheColony = 
   position: 175,
   publishedAt: "2026-09-07",
   unit: "words",
-  externalId: "3923514",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3923514",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3923514/chapter-175-in-the-colony",
+    },
+  ],
   title: "Chapter 175 – In the Colony",
   ownLength: 2382,
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3923514/chapter-175-in-the-colony",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theNewWorld0135176Destruction = {
   position: 135,
   ownLength: 2133,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/323335/176-destruction",
-  externalId: "323335",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "323335",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/323335/176-destruction",
+    },
+  ],
   publishedAt: "2019-01-11",
   ownProgress: 2133,
   completedAt: "2026-06-29T21:36:17.535Z",

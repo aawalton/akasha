@@ -9,10 +9,14 @@ export const theNewWorld0124165Skyburner = {
   position: 124,
   ownLength: 2715,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/309276/165-skyburner",
-  externalId: "309276",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "309276",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/309276/165-skyburner",
+    },
+  ],
   publishedAt: "2018-11-24",
   ownProgress: 2715,
   completedAt: "2026-06-29T21:25:15.601Z",

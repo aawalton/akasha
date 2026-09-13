@@ -8,11 +8,15 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0174Chapter174RageOfTheMagpi
   position: 174,
   publishedAt: "2026-09-05",
   unit: "words",
-  externalId: "3914718",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3914718",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3914718/chapter-174-rage-of-the-magpie",
+    },
+  ],
   title: "Chapter 174 – Rage of the Magpie",
   ownLength: 2215,
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3914718/chapter-174-rage-of-the-magpie",
   prose: "txt",
 } as const satisfies StoryChapterRead

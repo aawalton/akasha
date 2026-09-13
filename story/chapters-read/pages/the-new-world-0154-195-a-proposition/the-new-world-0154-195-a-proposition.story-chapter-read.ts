@@ -9,10 +9,14 @@ export const theNewWorld0154195AProposition = {
   position: 154,
   ownLength: 3834,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/346727/195-a-proposition",
-  externalId: "346727",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "346727",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/346727/195-a-proposition",
+    },
+  ],
   publishedAt: "2019-03-26",
   ownProgress: 3834,
   completedAt: "2026-06-29T21:26:05.889Z",

@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0163Chapter163WhatNext = {
   position: 163,
   ownLength: 2039,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3824172/chapter-163-what-next",
-  externalId: "3824172",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3824172",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3824172/chapter-163-what-next",
+    },
+  ],
   publishedAt: "2026-08-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

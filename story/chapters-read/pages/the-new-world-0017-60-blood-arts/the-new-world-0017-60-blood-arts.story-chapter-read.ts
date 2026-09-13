@@ -9,10 +9,14 @@ export const theNewWorld001760BloodArts = {
   position: 17,
   ownLength: 2372,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/168736/60-blood-arts",
-  externalId: "168736",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "168736",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/168736/60-blood-arts",
+    },
+  ],
   publishedAt: "2017-10-17",
   ownProgress: 2372,
   completedAt: "2026-06-29T21:21:18.269Z",

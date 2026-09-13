@@ -9,10 +9,14 @@ export const theNewWorld0163204DownARabbitHole = {
   position: 163,
   ownLength: 2802,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/361818/204-down-a-rabbit-hole",
-  externalId: "361818",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "361818",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/361818/204-down-a-rabbit-hole",
+    },
+  ],
   publishedAt: "2019-05-14",
   ownProgress: 2802,
   completedAt: "2026-06-29T21:26:26.713Z",

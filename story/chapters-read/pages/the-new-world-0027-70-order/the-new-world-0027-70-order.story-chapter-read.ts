@@ -9,9 +9,13 @@ export const theNewWorld002770Order = {
   position: 27,
   ownLength: 3821,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/172186/70-order",
-  externalId: "172186",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "172186",
+      externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/172186/70-order",
+    },
+  ],
   publishedAt: "2017-11-04",
   ownProgress: 3821,
   completedAt: "2026-06-29T21:21:40.167Z",

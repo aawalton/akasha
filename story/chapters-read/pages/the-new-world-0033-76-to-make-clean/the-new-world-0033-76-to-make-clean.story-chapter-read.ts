@@ -9,10 +9,14 @@ export const theNewWorld003376ToMakeClean = {
   position: 33,
   ownLength: 3604,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/174369/76-to-make-clean",
-  externalId: "174369",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "174369",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/174369/76-to-make-clean",
+    },
+  ],
   publishedAt: "2017-11-15",
   ownProgress: 3604,
   completedAt: "2026-06-29T21:21:53.773Z",

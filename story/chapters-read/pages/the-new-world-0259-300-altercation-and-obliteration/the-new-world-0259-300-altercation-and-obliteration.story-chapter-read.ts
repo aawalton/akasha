@@ -9,10 +9,14 @@ export const theNewWorld0259300AltercationAndObliteration = {
   position: 259,
   ownLength: 5862,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/661300/300-altercation-and-obliteration",
-  externalId: "661300",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "661300",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/661300/300-altercation-and-obliteration",
+    },
+  ],
   publishedAt: "2021-04-09",
   ownProgress: 5862,
   completedAt: "2026-06-29T21:30:03.039Z",

@@ -9,10 +9,14 @@ export const theNewWorld0275316ClosureAndLessons = {
   position: 275,
   ownLength: 2504,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/753021/316-closure-and-lessons",
-  externalId: "753021",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "753021",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/753021/316-closure-and-lessons",
+    },
+  ],
   publishedAt: "2021-09-18",
   ownProgress: 2504,
   completedAt: "2026-06-29T21:30:38.182Z",

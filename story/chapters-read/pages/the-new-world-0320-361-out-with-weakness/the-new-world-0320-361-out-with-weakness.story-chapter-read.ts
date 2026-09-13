@@ -9,10 +9,14 @@ export const theNewWorld0320361OutWithWeakness = {
   position: 320,
   ownLength: 4594,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1123199/361-out-with-weakness",
-  externalId: "1123199",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1123199",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1123199/361-out-with-weakness",
+    },
+  ],
   publishedAt: "2023-02-25",
   ownProgress: 4594,
   completedAt: "2026-06-29T21:32:07.771Z",

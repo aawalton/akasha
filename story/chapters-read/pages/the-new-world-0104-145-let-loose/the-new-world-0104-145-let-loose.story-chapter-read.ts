@@ -9,10 +9,14 @@ export const theNewWorld0104145LetLoose = {
   position: 104,
   ownLength: 3858,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/293903/145-let-loose",
-  externalId: "293903",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "293903",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/293903/145-let-loose",
+    },
+  ],
   publishedAt: "2018-09-26",
   ownProgress: 3858,
   completedAt: "2026-06-29T21:24:26.646Z",

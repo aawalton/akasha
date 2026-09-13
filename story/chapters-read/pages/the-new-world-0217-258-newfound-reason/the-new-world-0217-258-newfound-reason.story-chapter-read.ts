@@ -9,10 +9,14 @@ export const theNewWorld0217258NewfoundReason = {
   position: 217,
   ownLength: 3741,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/501988/258-newfound-reason",
-  externalId: "501988",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "501988",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/501988/258-newfound-reason",
+    },
+  ],
   publishedAt: "2020-05-27",
   ownProgress: 3741,
   completedAt: "2026-06-29T21:28:26.953Z",

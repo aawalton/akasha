@@ -9,9 +9,13 @@ export const theNewWorld0102143Free = {
   position: 102,
   ownLength: 4658,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/286673/143-free",
-  externalId: "286673",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "286673",
+      externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/286673/143-free",
+    },
+  ],
   publishedAt: "2018-08-31",
   ownProgress: 4658,
   completedAt: "2026-06-29T21:24:22.444Z",

@@ -9,10 +9,14 @@ export const theNewWorld0292333Leviathan7 = {
   position: 292,
   ownLength: 3791,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/846266/333-leviathan-7",
-  externalId: "846266",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "846266",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/846266/333-leviathan-7",
+    },
+  ],
   publishedAt: "2022-02-15",
   ownProgress: 3791,
   completedAt: "2026-06-29T21:31:14.388Z",

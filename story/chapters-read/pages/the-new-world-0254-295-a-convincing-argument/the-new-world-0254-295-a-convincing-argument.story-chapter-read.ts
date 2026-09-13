@@ -9,10 +9,14 @@ export const theNewWorld0254295AConvincingArgument = {
   position: 254,
   ownLength: 6676,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/649949/295-a-convincing-argument",
-  externalId: "649949",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "649949",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/649949/295-a-convincing-argument",
+    },
+  ],
   publishedAt: "2021-03-20",
   ownProgress: 6676,
   completedAt: "2026-06-29T21:29:50.987Z",

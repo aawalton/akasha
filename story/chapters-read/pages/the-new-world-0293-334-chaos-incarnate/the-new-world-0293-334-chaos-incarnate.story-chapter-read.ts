@@ -9,10 +9,14 @@ export const theNewWorld0293334ChaosIncarnate = {
   position: 293,
   ownLength: 3724,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/850373/334-chaos-incarnate",
-  externalId: "850373",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "850373",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/850373/334-chaos-incarnate",
+    },
+  ],
   publishedAt: "2022-02-21",
   ownProgress: 3724,
   completedAt: "2026-06-29T21:31:16.313Z",

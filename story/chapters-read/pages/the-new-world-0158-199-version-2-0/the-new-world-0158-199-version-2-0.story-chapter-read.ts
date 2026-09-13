@@ -9,10 +9,14 @@ export const theNewWorld0158199Version20 = {
   position: 158,
   ownLength: 4907,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/350690/199-version-20",
-  externalId: "350690",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "350690",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/350690/199-version-20",
+    },
+  ],
   publishedAt: "2019-04-08",
   ownProgress: 4907,
   completedAt: "2026-06-29T21:26:15.817Z",

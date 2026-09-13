@@ -9,10 +9,14 @@ export const theNewWorld0099140NoLongerAlone = {
   position: 99,
   ownLength: 1655,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/242681/140-no-longer-alone",
-  externalId: "242681",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "242681",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/242681/140-no-longer-alone",
+    },
+  ],
   publishedAt: "2018-08-10",
   ownProgress: 1655,
   completedAt: "2026-06-29T21:24:16.010Z",

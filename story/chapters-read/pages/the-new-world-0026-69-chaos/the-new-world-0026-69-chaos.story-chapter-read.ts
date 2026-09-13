@@ -9,9 +9,13 @@ export const theNewWorld002669Chaos = {
   position: 26,
   ownLength: 3055,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/171801/69-chaos",
-  externalId: "171801",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "171801",
+      externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/171801/69-chaos",
+    },
+  ],
   publishedAt: "2017-11-02",
   ownProgress: 3055,
   completedAt: "2026-06-29T21:21:38.091Z",

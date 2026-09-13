@@ -9,10 +9,14 @@ export const theNewWorld0186227Retaliation = {
   position: 186,
   ownLength: 4547,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/408072/227-retaliation",
-  externalId: "408072",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "408072",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/408072/227-retaliation",
+    },
+  ],
   publishedAt: "2019-09-28",
   ownProgress: 4547,
   completedAt: "2026-06-29T21:27:17.136Z",

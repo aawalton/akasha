@@ -9,10 +9,14 @@ export const theNewWorld0152193AConflictOfInterests = {
   position: 152,
   ownLength: 2622,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/345997/193-a-conflict-of-interests",
-  externalId: "345997",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "345997",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/345997/193-a-conflict-of-interests",
+    },
+  ],
   publishedAt: "2019-03-24",
   ownProgress: 2622,
   completedAt: "2026-06-29T21:26:01.840Z",

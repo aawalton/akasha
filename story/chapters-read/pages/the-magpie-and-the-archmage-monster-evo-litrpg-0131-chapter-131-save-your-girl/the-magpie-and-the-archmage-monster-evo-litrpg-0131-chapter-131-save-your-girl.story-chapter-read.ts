@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0131Chapter131SaveYourGirl =
   position: 131,
   ownLength: 2080,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3486004/chapter-131-save-your-girl",
-  externalId: "3486004",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3486004",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3486004/chapter-131-save-your-girl",
+    },
+  ],
   publishedAt: "2026-06-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const theNewWorld0187228AnEnemyWorthFearing = {
   position: 187,
   ownLength: 3145,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/408756/228-an-enemy-worth-fearing",
-  externalId: "408756",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "408756",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/408756/228-an-enemy-worth-fearing",
+    },
+  ],
   publishedAt: "2019-09-30",
   ownProgress: 3145,
   completedAt: "2026-06-29T21:27:19.311Z",

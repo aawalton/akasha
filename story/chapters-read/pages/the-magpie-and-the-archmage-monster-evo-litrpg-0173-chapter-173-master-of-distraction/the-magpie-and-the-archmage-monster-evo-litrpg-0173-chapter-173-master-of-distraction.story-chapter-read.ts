@@ -8,11 +8,15 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0173Chapter173MasterOfDistra
   position: 173,
   publishedAt: "2026-09-04",
   unit: "words",
-  externalId: "3909956",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3909956",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3909956/chapter-173-master-of-distraction",
+    },
+  ],
   title: "Chapter 173 – Master of Distraction",
   ownLength: 2291,
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3909956/chapter-173-master-of-distraction",
   prose: "txt",
 } as const satisfies StoryChapterRead

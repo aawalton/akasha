@@ -9,9 +9,14 @@ export const theNewWorld0109150Giess = {
   position: 109,
   ownLength: 3891,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/301036/150-giess",
-  externalId: "301036",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "301036",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/301036/150-giess",
+    },
+  ],
   publishedAt: "2018-10-25",
   ownProgress: 3891,
   completedAt: "2026-06-29T21:24:42.693Z",

@@ -9,9 +9,13 @@ export const theNewWorld0062104War = {
   position: 62,
   ownLength: 2942,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/201373/104-war",
-  externalId: "201373",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "201373",
+      externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/201373/104-war",
+    },
+  ],
   publishedAt: "2018-03-16",
   ownProgress: 2942,
   completedAt: "2026-06-29T21:22:58.180Z",

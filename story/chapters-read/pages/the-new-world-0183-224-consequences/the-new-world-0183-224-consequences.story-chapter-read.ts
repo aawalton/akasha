@@ -9,10 +9,14 @@ export const theNewWorld0183224Consequences = {
   position: 183,
   ownLength: 3859,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/400267/224-consequences",
-  externalId: "400267",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "400267",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/400267/224-consequences",
+    },
+  ],
   publishedAt: "2019-09-07",
   ownProgress: 3859,
   completedAt: "2026-06-29T21:27:10.495Z",

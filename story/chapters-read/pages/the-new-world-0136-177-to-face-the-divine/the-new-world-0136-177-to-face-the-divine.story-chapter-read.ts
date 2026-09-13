@@ -9,10 +9,14 @@ export const theNewWorld0136177ToFaceTheDivine = {
   position: 136,
   ownLength: 2420,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/325594/177-to-face-the-divine",
-  externalId: "325594",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "325594",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/325594/177-to-face-the-divine",
+    },
+  ],
   publishedAt: "2019-01-18",
   ownProgress: 2420,
   completedAt: "2026-06-29T21:25:26.641Z",

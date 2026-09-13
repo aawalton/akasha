@@ -9,10 +9,14 @@ export const theNewWorld0189230TheSilencesBetween = {
   position: 189,
   ownLength: 4235,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/410575/230-the-silences-between",
-  externalId: "410575",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "410575",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/410575/230-the-silences-between",
+    },
+  ],
   publishedAt: "2019-10-06",
   ownProgress: 4235,
   completedAt: "2026-06-29T21:27:23.742Z",

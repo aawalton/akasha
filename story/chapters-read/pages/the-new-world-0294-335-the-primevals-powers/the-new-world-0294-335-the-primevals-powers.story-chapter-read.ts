@@ -9,10 +9,14 @@ export const theNewWorld0294335ThePrimevalsPowers = {
   position: 294,
   ownLength: 4221,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/851806/335-the-primevals-powers",
-  externalId: "851806",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "851806",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/851806/335-the-primevals-powers",
+    },
+  ],
   publishedAt: "2022-02-23",
   ownProgress: 4221,
   completedAt: "2026-06-29T21:31:18.114Z",

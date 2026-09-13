@@ -9,10 +9,14 @@ export const theNewWorld0151192AVastUniverse = {
   position: 151,
   ownLength: 4819,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/345712/192-a-vast-universe",
-  externalId: "345712",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "345712",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/345712/192-a-vast-universe",
+    },
+  ],
   publishedAt: "2019-03-22",
   ownProgress: 4819,
   completedAt: "2026-06-29T21:25:59.679Z",

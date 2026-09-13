@@ -9,9 +9,14 @@ export const theNewWorld0313354Madness = {
   position: 313,
   ownLength: 3498,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1085402/354-madness",
-  externalId: "1085402",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1085402",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1085402/354-madness",
+    },
+  ],
   publishedAt: "2023-01-12",
   ownProgress: 3498,
   completedAt: "2026-06-29T21:31:54.066Z",

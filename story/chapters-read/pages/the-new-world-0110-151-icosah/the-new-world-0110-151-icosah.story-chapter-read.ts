@@ -9,9 +9,14 @@ export const theNewWorld0110151Icosah = {
   position: 110,
   ownLength: 3681,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/301295/151-icosah",
-  externalId: "301295",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "301295",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/301295/151-icosah",
+    },
+  ],
   publishedAt: "2018-10-26",
   ownProgress: 3681,
   completedAt: "2026-06-29T21:24:44.882Z",

@@ -9,10 +9,14 @@ export const theNewWorld001558WhatYouBelieve = {
   position: 15,
   ownLength: 3108,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/167840/58-what-you-believe",
-  externalId: "167840",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "167840",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/167840/58-what-you-believe",
+    },
+  ],
   publishedAt: "2017-10-13",
   ownProgress: 3108,
   completedAt: "2026-06-29T21:21:13.793Z",

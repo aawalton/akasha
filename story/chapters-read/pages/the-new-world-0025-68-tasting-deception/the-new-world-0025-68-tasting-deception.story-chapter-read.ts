@@ -9,10 +9,14 @@ export const theNewWorld002568TastingDeception = {
   position: 25,
   ownLength: 3957,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/171576/68-tasting-deception",
-  externalId: "171576",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "171576",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/171576/68-tasting-deception",
+    },
+  ],
   publishedAt: "2017-10-31",
   ownProgress: 3957,
   completedAt: "2026-06-29T21:21:35.904Z",

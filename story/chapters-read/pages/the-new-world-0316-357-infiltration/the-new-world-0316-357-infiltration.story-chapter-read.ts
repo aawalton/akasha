@@ -9,10 +9,14 @@ export const theNewWorld0316357Infiltration = {
   position: 316,
   ownLength: 4128,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1116449/357-infiltration",
-  externalId: "1116449",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1116449",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1116449/357-infiltration",
+    },
+  ],
   publishedAt: "2023-02-17",
   ownProgress: 4128,
   completedAt: "2026-06-29T21:31:59.718Z",

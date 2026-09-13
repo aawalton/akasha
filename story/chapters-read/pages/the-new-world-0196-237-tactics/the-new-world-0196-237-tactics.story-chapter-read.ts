@@ -9,9 +9,14 @@ export const theNewWorld0196237Tactics = {
   position: 196,
   ownLength: 2427,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/423710/237-tactics",
-  externalId: "423710",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "423710",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/423710/237-tactics",
+    },
+  ],
   publishedAt: "2019-11-15",
   ownProgress: 2427,
   completedAt: "2026-06-29T21:27:40.227Z",

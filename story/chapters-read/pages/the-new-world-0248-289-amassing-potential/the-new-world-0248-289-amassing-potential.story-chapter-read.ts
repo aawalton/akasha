@@ -9,10 +9,14 @@ export const theNewWorld0248289AmassingPotential = {
   position: 248,
   ownLength: 4054,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/637623/289-amassing-potential",
-  externalId: "637623",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "637623",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/637623/289-amassing-potential",
+    },
+  ],
   publishedAt: "2021-02-25",
   ownProgress: 4054,
   completedAt: "2026-06-29T21:29:37.169Z",

@@ -9,10 +9,14 @@ export const theNewWorld002972LastNight = {
   position: 29,
   ownLength: 5408,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/172827/72-last-night",
-  externalId: "172827",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "172827",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/172827/72-last-night",
+    },
+  ],
   publishedAt: "2017-11-07",
   ownProgress: 5408,
   completedAt: "2026-06-29T21:21:44.593Z",

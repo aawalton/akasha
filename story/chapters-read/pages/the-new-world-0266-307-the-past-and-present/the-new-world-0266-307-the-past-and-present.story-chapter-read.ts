@@ -9,10 +9,14 @@ export const theNewWorld0266307ThePastAndPresent = {
   position: 266,
   ownLength: 3796,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/746700/307-the-past-and-present",
-  externalId: "746700",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "746700",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/746700/307-the-past-and-present",
+    },
+  ],
   publishedAt: "2021-09-07",
   ownProgress: 3796,
   completedAt: "2026-06-29T21:30:18.756Z",

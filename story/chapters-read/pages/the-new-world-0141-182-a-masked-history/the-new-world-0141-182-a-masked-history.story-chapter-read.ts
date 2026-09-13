@@ -9,10 +9,14 @@ export const theNewWorld0141182AMaskedHistory = {
   position: 141,
   ownLength: 4290,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/330016/182-a-masked-history",
-  externalId: "330016",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "330016",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/330016/182-a-masked-history",
+    },
+  ],
   publishedAt: "2019-02-01",
   ownProgress: 4290,
   completedAt: "2026-06-29T21:25:37.788Z",

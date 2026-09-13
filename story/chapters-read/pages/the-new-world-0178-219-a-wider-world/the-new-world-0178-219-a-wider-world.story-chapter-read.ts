@@ -9,10 +9,14 @@ export const theNewWorld0178219AWiderWorld = {
   position: 178,
   ownLength: 4182,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/387509/219-a-wider-world",
-  externalId: "387509",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "387509",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/387509/219-a-wider-world",
+    },
+  ],
   publishedAt: "2019-07-31",
   ownProgress: 4182,
   completedAt: "2026-06-29T21:26:59.191Z",

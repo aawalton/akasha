@@ -9,9 +9,14 @@ export const theNewWorld0216257Rhetoric = {
   position: 216,
   ownLength: 3224,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/501117/257-rhetoric",
-  externalId: "501117",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "501117",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/501117/257-rhetoric",
+    },
+  ],
   publishedAt: "2020-05-25",
   ownProgress: 3224,
   completedAt: "2026-06-29T21:28:24.860Z",

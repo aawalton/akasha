@@ -9,9 +9,14 @@ export const theNewWorld0073115Levelers = {
   position: 73,
   ownLength: 4549,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/211398/115-levelers",
-  externalId: "211398",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "211398",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/211398/115-levelers",
+    },
+  ],
   publishedAt: "2018-04-27",
   ownProgress: 4549,
   completedAt: "2026-06-29T21:23:21.676Z",

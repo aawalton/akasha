@@ -9,9 +9,14 @@ export const theNewWorld004487Escape = {
   position: 44,
   ownLength: 2578,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/179406/87-escape",
-  externalId: "179406",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "179406",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/179406/87-escape",
+    },
+  ],
   publishedAt: "2017-12-10",
   ownProgress: 2578,
   completedAt: "2026-06-29T21:22:17.745Z",

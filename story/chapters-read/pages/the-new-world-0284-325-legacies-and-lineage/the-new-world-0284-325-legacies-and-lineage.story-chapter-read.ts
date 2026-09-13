@@ -9,10 +9,14 @@ export const theNewWorld0284325LegaciesAndLineage = {
   position: 284,
   ownLength: 3737,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/832433/325-legacies-and-lineage",
-  externalId: "832433",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "832433",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/832433/325-legacies-and-lineage",
+    },
+  ],
   publishedAt: "2022-01-26",
   ownProgress: 3737,
   completedAt: "2026-06-29T21:30:57.470Z",

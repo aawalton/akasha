@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0160Chapter160GoodLuckLucien
   position: 160,
   ownLength: 2036,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3802938/chapter-160-good-luck-lucien",
-  externalId: "3802938",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3802938",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3802938/chapter-160-good-luck-lucien",
+    },
+  ],
   publishedAt: "2026-08-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

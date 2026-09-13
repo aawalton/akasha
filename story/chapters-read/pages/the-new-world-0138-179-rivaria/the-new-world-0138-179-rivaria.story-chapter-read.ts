@@ -9,9 +9,14 @@ export const theNewWorld0138179Rivaria = {
   position: 138,
   ownLength: 4010,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/327052/179-rivaria",
-  externalId: "327052",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "327052",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/327052/179-rivaria",
+    },
+  ],
   publishedAt: "2019-01-22",
   ownProgress: 4010,
   completedAt: "2026-06-29T21:25:31.035Z",

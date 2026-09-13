@@ -9,10 +9,14 @@ export const theNewWorld0212253ConflictingIdeas = {
   position: 212,
   ownLength: 2889,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/493091/253-conflicting-ideas",
-  externalId: "493091",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "493091",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/493091/253-conflicting-ideas",
+    },
+  ],
   publishedAt: "2020-05-07",
   ownProgress: 2889,
   completedAt: "2026-06-29T21:28:15.587Z",

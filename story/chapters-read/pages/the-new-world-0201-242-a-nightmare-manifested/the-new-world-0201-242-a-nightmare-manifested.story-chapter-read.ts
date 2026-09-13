@@ -9,10 +9,14 @@ export const theNewWorld0201242ANightmareManifested = {
   position: 201,
   ownLength: 3294,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/434200/242-a-nightmare-manifested",
-  externalId: "434200",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "434200",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/434200/242-a-nightmare-manifested",
+    },
+  ],
   publishedAt: "2019-12-13",
   ownProgress: 3294,
   completedAt: "2026-06-29T21:27:51.370Z",

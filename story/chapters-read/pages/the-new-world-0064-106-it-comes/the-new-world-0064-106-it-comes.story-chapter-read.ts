@@ -9,9 +9,14 @@ export const theNewWorld0064106ItComes = {
   position: 64,
   ownLength: 2798,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/204040/106-it-comes",
-  externalId: "204040",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "204040",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/204040/106-it-comes",
+    },
+  ],
   publishedAt: "2018-03-28",
   ownProgress: 2798,
   completedAt: "2026-06-29T21:23:02.381Z",

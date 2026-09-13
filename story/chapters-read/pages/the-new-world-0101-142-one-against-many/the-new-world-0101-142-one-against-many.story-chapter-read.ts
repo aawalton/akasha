@@ -9,10 +9,14 @@ export const theNewWorld0101142OneAgainstMany = {
   position: 101,
   ownLength: 4311,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/283328/142-one-against-many",
-  externalId: "283328",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "283328",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/283328/142-one-against-many",
+    },
+  ],
   publishedAt: "2018-08-19",
   ownProgress: 4311,
   completedAt: "2026-06-29T21:24:20.342Z",

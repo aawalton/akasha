@@ -9,10 +9,14 @@ export const theNewWorld0268309TheUnfamiliar = {
   position: 268,
   ownLength: 4973,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/747874/309-the-unfamiliar",
-  externalId: "747874",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "747874",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/747874/309-the-unfamiliar",
+    },
+  ],
   publishedAt: "2021-09-09",
   ownProgress: 4973,
   completedAt: "2026-06-29T21:30:23.102Z",

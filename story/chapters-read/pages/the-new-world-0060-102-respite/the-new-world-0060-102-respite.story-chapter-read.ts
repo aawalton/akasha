@@ -9,9 +9,14 @@ export const theNewWorld0060102Respite = {
   position: 60,
   ownLength: 4307,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/200414/102-respite",
-  externalId: "200414",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "200414",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/200414/102-respite",
+    },
+  ],
   publishedAt: "2018-03-12",
   ownProgress: 4307,
   completedAt: "2026-06-29T21:22:53.749Z",

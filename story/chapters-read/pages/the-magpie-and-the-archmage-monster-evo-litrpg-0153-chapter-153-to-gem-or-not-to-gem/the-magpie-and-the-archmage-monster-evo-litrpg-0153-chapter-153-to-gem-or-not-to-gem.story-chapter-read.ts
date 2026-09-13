@@ -9,10 +9,14 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0153Chapter153ToGemOrNotToGe
   position: 153,
   ownLength: 1907,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3740298/chapter-153-to-gem-or-not-to-gem",
-  externalId: "3740298",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3740298",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3740298/chapter-153-to-gem-or-not-to-gem",
+    },
+  ],
   publishedAt: "2026-07-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

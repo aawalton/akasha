@@ -9,10 +9,14 @@ export const theNewWorld0119160TheMightOfAGialgathen = {
   position: 119,
   ownLength: 1430,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/305484/160-the-might-of-a-gialgathen",
-  externalId: "305484",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "305484",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/305484/160-the-might-of-a-gialgathen",
+    },
+  ],
   publishedAt: "2018-11-10",
   ownProgress: 1430,
   completedAt: "2026-06-29T21:25:04.131Z",

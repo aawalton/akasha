@@ -9,10 +9,14 @@ export const theNewWorld0137178ASteadyMarch = {
   position: 137,
   ownLength: 3247,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/326690/178-a-steady-march",
-  externalId: "326690",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "326690",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/326690/178-a-steady-march",
+    },
+  ],
   publishedAt: "2019-01-21",
   ownProgress: 3247,
   completedAt: "2026-06-29T21:25:28.799Z",

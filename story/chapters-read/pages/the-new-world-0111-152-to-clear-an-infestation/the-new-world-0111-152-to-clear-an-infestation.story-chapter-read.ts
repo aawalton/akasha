@@ -9,10 +9,14 @@ export const theNewWorld0111152ToClearAnInfestation = {
   position: 111,
   ownLength: 2406,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/301542/152-to-clear-an-infestation",
-  externalId: "301542",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "301542",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/301542/152-to-clear-an-infestation",
+    },
+  ],
   publishedAt: "2018-10-27",
   ownProgress: 2406,
   completedAt: "2026-06-29T21:24:47.221Z",

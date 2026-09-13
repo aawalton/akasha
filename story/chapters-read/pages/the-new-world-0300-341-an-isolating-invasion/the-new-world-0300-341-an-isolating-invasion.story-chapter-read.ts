@@ -9,10 +9,14 @@ export const theNewWorld0300341AnIsolatingInvasion = {
   position: 300,
   ownLength: 4099,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/918758/341-an-isolating-invasion",
-  externalId: "918758",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "918758",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/918758/341-an-isolating-invasion",
+    },
+  ],
   publishedAt: "2022-06-01",
   ownProgress: 4099,
   completedAt: "2026-06-29T21:31:29.569Z",

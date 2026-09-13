@@ -9,10 +9,14 @@ export const theNewWorld0269310ParsingPiecesOfAPuzzle = {
   position: 269,
   ownLength: 2205,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/748426/310-parsing-pieces-of-a-puzzle",
-  externalId: "748426",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "748426",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/748426/310-parsing-pieces-of-a-puzzle",
+    },
+  ],
   publishedAt: "2021-09-10",
   ownProgress: 2205,
   completedAt: "2026-06-29T21:30:25.428Z",

@@ -9,9 +9,14 @@ export const theNewWorld0066108NewHope = {
   position: 66,
   ownLength: 3896,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/205738/108-new-hope",
-  externalId: "205738",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "205738",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/205738/108-new-hope",
+    },
+  ],
   publishedAt: "2018-04-04",
   ownProgress: 3896,
   completedAt: "2026-06-29T21:23:06.520Z",

@@ -9,10 +9,14 @@ export const theNewWorld0081RpgAnalysisDaniel2 = {
   position: 81,
   ownLength: 1665,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/218398/rpg-analysis-daniel-2",
-  externalId: "218398",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "218398",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/218398/rpg-analysis-daniel-2",
+    },
+  ],
   publishedAt: "2018-05-24",
   ownProgress: 1665,
   completedAt: "2026-06-29T21:23:38.365Z",

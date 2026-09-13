@@ -9,10 +9,14 @@ export const theNewWorld000245Adaptation = {
   position: 2,
   ownLength: 10857,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/158962/45-adaptation",
-  externalId: "158962",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "158962",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/158962/45-adaptation",
+    },
+  ],
   publishedAt: "2017-08-30",
   ownProgress: 10857,
   completedAt: "2026-06-29T21:20:44.382Z",

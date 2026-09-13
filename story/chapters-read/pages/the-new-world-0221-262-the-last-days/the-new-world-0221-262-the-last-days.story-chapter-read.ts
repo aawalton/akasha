@@ -9,10 +9,14 @@ export const theNewWorld0221262TheLastDays = {
   position: 221,
   ownLength: 6363,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/508526/262-the-last-days",
-  externalId: "508526",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "508526",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/508526/262-the-last-days",
+    },
+  ],
   publishedAt: "2020-06-10",
   ownProgress: 6363,
   completedAt: "2026-06-29T21:28:35.696Z",

@@ -9,10 +9,14 @@ export const theNewWorld0210251GeneralUnderstanding = {
   position: 210,
   ownLength: 3763,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/481019/251-general-understanding",
-  externalId: "481019",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "481019",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/481019/251-general-understanding",
+    },
+  ],
   publishedAt: "2020-04-12",
   ownProgress: 3763,
   completedAt: "2026-06-29T21:28:11.361Z",

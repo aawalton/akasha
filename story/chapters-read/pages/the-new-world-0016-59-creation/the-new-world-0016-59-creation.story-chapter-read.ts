@@ -9,9 +9,14 @@ export const theNewWorld001659Creation = {
   position: 16,
   ownLength: 4956,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/168410/59-creation",
-  externalId: "168410",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "168410",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/168410/59-creation",
+    },
+  ],
   publishedAt: "2017-10-16",
   ownProgress: 4956,
   completedAt: "2026-06-29T21:21:16.079Z",

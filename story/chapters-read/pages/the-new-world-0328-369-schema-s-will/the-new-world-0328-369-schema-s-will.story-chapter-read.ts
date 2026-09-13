@@ -9,10 +9,14 @@ export const theNewWorld0328369SchemaSWill = {
   position: 328,
   ownLength: 2127,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1137301/369-schemas-will",
-  externalId: "1137301",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1137301",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1137301/369-schemas-will",
+    },
+  ],
   publishedAt: "2023-03-14",
   ownProgress: 2127,
   completedAt: "2026-06-29T21:32:28.049Z",

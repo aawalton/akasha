@@ -9,10 +9,14 @@ export const theNewWorld0148189ACloseCall = {
   position: 148,
   ownLength: 3764,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/339273/189-a-close-call",
-  externalId: "339273",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "339273",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/339273/189-a-close-call",
+    },
+  ],
   publishedAt: "2019-03-03",
   ownProgress: 3764,
   completedAt: "2026-06-29T21:25:52.841Z",

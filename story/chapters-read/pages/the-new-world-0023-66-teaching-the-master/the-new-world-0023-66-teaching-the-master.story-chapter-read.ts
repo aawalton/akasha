@@ -9,10 +9,14 @@ export const theNewWorld002366TeachingTheMaster = {
   position: 23,
   ownLength: 3546,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/170405/66-teaching-the-master",
-  externalId: "170405",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "170405",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/170405/66-teaching-the-master",
+    },
+  ],
   publishedAt: "2017-10-26",
   ownProgress: 3546,
   completedAt: "2026-06-29T21:21:31.441Z",

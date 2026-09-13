@@ -9,10 +9,14 @@ export const theNewWorld0161202Subversion = {
   position: 161,
   ownLength: 1581,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/358936/202-subversion",
-  externalId: "358936",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "358936",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/358936/202-subversion",
+    },
+  ],
   publishedAt: "2019-05-05",
   ownProgress: 1581,
   completedAt: "2026-06-29T21:26:22.555Z",

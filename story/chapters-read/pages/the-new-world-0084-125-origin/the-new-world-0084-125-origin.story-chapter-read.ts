@@ -9,9 +9,14 @@ export const theNewWorld0084125Origin = {
   position: 84,
   ownLength: 3350,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/220648/125-origin",
-  externalId: "220648",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "220648",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/220648/125-origin",
+    },
+  ],
   publishedAt: "2018-06-01",
   ownProgress: 3350,
   completedAt: "2026-06-29T21:23:44.687Z",

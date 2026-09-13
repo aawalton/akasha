@@ -9,10 +9,14 @@ export const theNewWorld0170211Logistics = {
   position: 170,
   ownLength: 4059,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/374615/211-logistics",
-  externalId: "374615",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "374615",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/374615/211-logistics",
+    },
+  ],
   publishedAt: "2019-06-21",
   ownProgress: 4059,
   completedAt: "2026-06-29T21:26:41.989Z",

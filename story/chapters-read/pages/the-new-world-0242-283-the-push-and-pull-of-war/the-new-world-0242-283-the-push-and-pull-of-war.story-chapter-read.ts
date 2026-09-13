@@ -9,10 +9,14 @@ export const theNewWorld0242283ThePushAndPullOfWar = {
   position: 242,
   ownLength: 6911,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/596241/283-the-push-and-pull-of-war",
-  externalId: "596241",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "596241",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/596241/283-the-push-and-pull-of-war",
+    },
+  ],
   publishedAt: "2020-12-06",
   ownProgress: 6911,
   completedAt: "2026-06-29T21:29:23.556Z",

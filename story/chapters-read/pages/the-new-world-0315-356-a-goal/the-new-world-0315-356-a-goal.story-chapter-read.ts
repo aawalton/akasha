@@ -9,9 +9,14 @@ export const theNewWorld0315356AGoal = {
   position: 315,
   ownLength: 5099,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1114636/356-a-goal",
-  externalId: "1114636",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1114636",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1114636/356-a-goal",
+    },
+  ],
   publishedAt: "2023-02-15",
   ownProgress: 5099,
   completedAt: "2026-06-29T21:31:57.781Z",

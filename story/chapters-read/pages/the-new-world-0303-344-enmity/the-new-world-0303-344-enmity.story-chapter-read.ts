@@ -9,9 +9,14 @@ export const theNewWorld0303344Enmity = {
   position: 303,
   ownLength: 1225,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/935503/344-enmity",
-  externalId: "935503",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "935503",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/935503/344-enmity",
+    },
+  ],
   publishedAt: "2022-06-25",
   ownProgress: 1225,
   completedAt: "2026-06-29T21:31:35.443Z",

@@ -9,10 +9,14 @@ export const theNewWorld0330371AScarredReturn = {
   position: 330,
   ownLength: 3676,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1141348/371-a-scarred-return",
-  externalId: "1141348",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1141348",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1141348/371-a-scarred-return",
+    },
+  ],
   publishedAt: "2023-03-18",
   ownProgress: 3676,
   completedAt: "2026-06-29T21:32:32.232Z",

@@ -9,10 +9,14 @@ export const theNewWorld001154HowToEndALegend = {
   position: 11,
   ownLength: 4215,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/12024/the-new-world/chapter/166253/54-how-to-end-a-legend",
-  externalId: "166253",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "166253",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/166253/54-how-to-end-a-legend",
+    },
+  ],
   publishedAt: "2017-10-06",
   ownProgress: 4215,
   completedAt: "2026-06-29T21:21:04.718Z",
