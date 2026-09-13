@@ -93,7 +93,7 @@ test("a second subagent's edits follow the first rather than replacing them", ()
   const root = scratch.rootFor("subagent-recovering-")
   appendEdits(root, UNDER, [ROW])
   movedOnto(root, SEAT, UNDER)
-  const second = "seat-system/subagents/pages/tester-def/tester-def.subagent.ts"
+  const second = "agents/subagents/pages/tester-def/tester-def.subagent.ts"
   appendEdits(root, second, [OTHER])
   movedOnto(root, SEAT, second)
 
