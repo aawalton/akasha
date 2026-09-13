@@ -151,7 +151,11 @@ export const akasha = {
       name: "Blame The Mechanism",
       act: "Treat a fault a mechanical change lands as a fault in the program that composed the change.",
       warrant: "Akasha is a database, and no swarm can judge every page the swarm writes.",
-      aids: ["Mend the program, never the one landing.", "The audit finds what no check saw."],
+      aids: [
+        "Mend the program, never the one landing.",
+        "Restore what the change already landed, as well as mending the program.",
+        "The audit finds what no check saw.",
+      ],
     },
   ],
   linkedAt: "~/.local/share/code-editor/extensions/ops",
