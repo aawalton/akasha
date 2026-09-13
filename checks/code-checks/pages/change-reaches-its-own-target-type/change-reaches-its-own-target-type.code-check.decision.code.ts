@@ -24,10 +24,6 @@ const CODE = "code"
 
 const TS = "ts"
 
-const REACH = "reach"
-
-const WHICH = 1
-
 const TARGET = "changeTargetType"
 
 const SLUG = "slug"
@@ -47,17 +43,9 @@ type Acting = {
 }
 
 type Named = {
-  readonly addresses: readonly string[] | null
+  readonly address: string | null
   readonly line: number
 }
-
-type Spelled = {
-  readonly said: ReadonlyMap<string, string>
-  readonly tables: ReadonlyMap<string, readonly string[] | null>
-  readonly answers: ReadonlyMap<string, readonly ts.Expression[]>
-}
-
-type Answering = ts.FunctionDeclaration | ts.ArrowFunction | ts.FunctionExpression
 
 type Beside = {
   readonly at: string
@@ -88,133 +76,46 @@ function reachingIn(change: Change, shadow: Shadow): readonly Reaching[] {
   return found
 }
 
-function plainIn(node: ts.Expression): ts.Expression {
-  if (ts.isAsExpression(node) || ts.isSatisfiesExpression(node)) return plainIn(node.expression)
-  if (ts.isParenthesizedExpression(node)) return plainIn(node.expression)
-  return node
+function addressLike(said: string, kinds: ReadonlySet<string>): boolean {
+  const at = said.indexOf(PARTED_BY)
+  if (at < 1 || at === said.length - 1) return false
+  return kinds.has(said.slice(0, at))
 }
 
-function constStated(node: ts.VariableDeclaration): boolean {
-  const list = node.parent
-  return ts.isVariableDeclarationList(list) && (list.flags & ts.NodeFlags.Const) !== 0
-}
-
-function returnsIn(body: ts.Node): readonly ts.Expression[] {
-  const found: ts.Expression[] = []
-  const walk = (one: ts.Node): undefined => {
-    if (ts.isFunctionLike(one)) return
-    if (ts.isReturnStatement(one) && one.expression !== undefined) found.push(one.expression)
-    ts.forEachChild(one, walk)
+function couldBeAddress(parts: readonly string[], kinds: ReadonlySet<string>): boolean {
+  for (const part of parts) {
+    const sections = part.split(PARTED_BY)
+    for (const [at, one] of sections.entries()) {
+      if (at + 1 < sections.length && kinds.has(one)) return true
+    }
   }
-  ts.forEachChild(body, walk)
-  return found
+  return false
 }
 
-function answeredBy(node: Answering): readonly ts.Expression[] {
-  const body = node.body
-  if (body === undefined) return []
-  return ts.isBlock(body) ? returnsIn(body) : [body]
-}
-
-function tabledIn(
-  node: ts.ObjectLiteralExpression,
-  said: ReadonlyMap<string, string>
-): readonly string[] | null {
+function writtenIn(node: ts.Node): readonly string[] | null {
+  if (ts.isTemplateExpression(node)) {
+    return [node.head.text, ...node.templateSpans.map((one) => one.literal.text)]
+  }
+  if (!ts.isBinaryExpression(node) || node.operatorToken.kind !== ts.SyntaxKind.PlusToken) {
+    return null
+  }
   const found: string[] = []
-  for (const one of node.properties) {
-    if (!ts.isPropertyAssignment(one)) return null
-    const held = plainIn(one.initializer)
-    if (ts.isStringLiteralLike(held)) {
-      found.push(held.text)
-      continue
-    }
-    if (!ts.isIdentifier(held)) return null
-    const what = said.get(held.text)
-    if (what === undefined) return null
-    found.push(what)
+  for (const one of [node.left, node.right]) {
+    if (ts.isStringLiteralLike(one)) found.push(one.text)
   }
-  return found
+  return found.length === 0 ? null : found
 }
 
-function spelledIn(source: ts.SourceFile): Spelled {
-  const said = new Map<string, string>()
-  const answers = new Map<string, readonly ts.Expression[]>()
-  const objects = new Map<string, ts.ObjectLiteralExpression>()
-  const walk = (node: ts.Node): undefined => {
-    if (ts.isFunctionDeclaration(node) && node.name !== undefined) {
-      answers.set(node.name.text, answeredBy(node))
-    }
-    if (ts.isVariableDeclaration(node) && ts.isIdentifier(node.name) && constStated(node)) {
-      const held = node.initializer
-      const one = held === undefined ? null : plainIn(held)
-      if (one !== null && ts.isStringLiteralLike(one)) said.set(node.name.text, one.text)
-      if (one !== null && ts.isObjectLiteralExpression(one)) objects.set(node.name.text, one)
-      if (one !== null && (ts.isArrowFunction(one) || ts.isFunctionExpression(one))) {
-        answers.set(node.name.text, answeredBy(one))
-      }
-    }
-    ts.forEachChild(node, walk)
-  }
-  ts.forEachChild(source, walk)
-  const tables = new Map<string, readonly string[] | null>()
-  for (const [name, one] of objects) tables.set(name, tabledIn(one, said))
-  return { said, tables, answers }
-}
-
-function heldIn(name: string, spelled: Spelled): readonly string[] | null {
-  const one = spelled.said.get(name)
-  if (one !== undefined) return [one]
-  return spelled.tables.has(name) ? (spelled.tables.get(name) ?? null) : null
-}
-
-function calledIn(
-  node: ts.CallExpression,
-  spelled: Spelled,
-  seen: Set<string>
-): readonly string[] | null {
-  const named = plainIn(node.expression)
-  if (!ts.isIdentifier(named) || seen.has(named.text)) return null
-  const answered = spelled.answers.get(named.text)
-  if (answered === undefined || answered.length === 0) return null
-  seen.add(named.text)
-  const found: string[] = []
-  for (const one of answered) {
-    const held = addressesOf(one, spelled, seen)
-    if (held === null) return null
-    found.push(...held)
-  }
-  return found
-}
-
-function addressesOf(
-  given: ts.Expression | undefined,
-  spelled: Spelled,
-  seen: Set<string>
-): readonly string[] | null {
-  if (given === undefined) return null
-  const said = plainIn(given)
-  if (ts.isStringLiteralLike(said)) return [said.text]
-  if (ts.isIdentifier(said)) return heldIn(said.text, spelled)
-  if (ts.isElementAccessExpression(said) || ts.isPropertyAccessExpression(said)) {
-    const on = plainIn(said.expression)
-    return ts.isIdentifier(on) ? heldIn(on.text, spelled) : null
-  }
-  return ts.isCallExpression(said) ? calledIn(said, spelled, seen) : null
-}
-
-function namedIn(path: string, text: string): readonly Named[] {
-  if (!text.includes(REACH)) return []
+function addressesIn(path: string, text: string, kinds: ReadonlySet<string>): readonly Named[] {
   const source = parsedAs(path, text)
-  const spelled = spelledIn(source)
   const found: Named[] = []
   const walk = (node: ts.Node): undefined => {
-    if (
-      ts.isCallExpression(node) &&
-      ts.isIdentifier(node.expression) &&
-      node.expression.text === REACH
-    ) {
-      const held = addressesOf(node.arguments[WHICH], spelled, new Set<string>())
-      found.push({ addresses: held, line: lineOf(source, node) })
+    if (ts.isStringLiteralLike(node) && addressLike(node.text, kinds)) {
+      found.push({ address: node.text, line: lineOf(source, node) })
+    }
+    const written = writtenIn(node)
+    if (written !== null && couldBeAddress(written, kinds)) {
+      found.push({ address: null, line: lineOf(source, node) })
     }
     ts.forEachChild(node, walk)
   }
@@ -248,8 +149,8 @@ function reachedBy(address: string, shadow: Shadow): Acting | null {
 
 function unread(line: number): string {
   return (
-    `the address handed to \`reach\` on line ${line} is built out of something other than written` +
-    " letters, so which change it reaches cannot be read"
+    `the address on line ${line} is put together as the body runs rather than written out, so` +
+    " which change it reaches cannot be read"
   )
 }
 
@@ -266,19 +167,19 @@ function reasonsFor(change: Change, shadow: Shadow, one: Reaching): readonly str
   const here = actingIn(one.value, one.path)
   const said: string[] = []
   const seen = new Set<string>()
-  for (const named of namedIn(beside.at, beside.text)) {
-    if (named.addresses === null) {
+  const lines = new Set<number>()
+  for (const named of addressesIn(beside.at, beside.text, kindsFor(shadow))) {
+    if (named.address === null) {
+      if (lines.has(named.line)) continue
+      lines.add(named.line)
       said.push(unread(named.line))
       continue
     }
-    if (here === null) continue
-    for (const address of named.addresses) {
-      if (seen.has(address)) continue
-      seen.add(address)
-      const there = reachedBy(address, shadow)
-      if (there === null || there.target === here.target) continue
-      said.push(across(address, here, there))
-    }
+    if (here === null || seen.has(named.address)) continue
+    seen.add(named.address)
+    const there = reachedBy(named.address, shadow)
+    if (there === null || there.target === here.target) continue
+    said.push(across(named.address, here, there))
   }
   return said
 }

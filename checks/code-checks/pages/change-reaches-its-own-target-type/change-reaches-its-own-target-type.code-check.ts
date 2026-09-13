@@ -31,32 +31,32 @@ export const changeReachesItsOwnTargetType = {
     },
     {
       invariantKind: "departure",
-      statement: "An address spelled through a const the body declares is read as written letters.",
+      statement: "A change's body spelling another change's address is taken as reaching it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An address is judged wherever in the body that address is written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An address handed to a helper rather than to a runner is judged the same.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An address built as the body runs is refused rather than read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal for an address built that way names the line spelling it.",
     },
     {
       invariantKind: "departure",
       statement:
-        "An address picked out of a const table of written letters is read as written letters.",
+        "Which built shape could be an address is read from the page types the index carries.",
     },
     {
-      invariantKind: "departure",
-      statement: "A table handed on by a function the body declares is read through that function.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Every address such a table holds is judged rather than the one picked.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An address built out of anything but written letters is refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A table holding a value built as the body runs is refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A refusal for an address that cannot be read names the line spelling it.",
+      invariantKind: "absence",
+      statement: "Which call an address is handed to is not read here.",
     },
     {
       invariantKind: "departure",

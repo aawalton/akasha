@@ -5,6 +5,7 @@ import {
   AT,
   BUILT,
   BUILT_TABLE,
+  CARRIED,
   CODE_AT,
   CONSTED,
   CROSS,
@@ -75,15 +76,24 @@ test("an address spelled through a const the body declares is read as written le
   expect(said[0]?.reason).toContain(`\`${CROSS}\``)
 })
 
-test("an address built out of something other than written letters is refused", () => {
+test("an address put together as the body runs is refused, and the refusal names the line", () => {
   const said = judged(rooted(), { [CODE_AT]: BUILT })
 
   expect(said).toHaveLength(1)
   expect(said[0]?.path).toBe(AT)
-  expect(said[0]?.reason).toContain("written letters")
+  expect(said[0]?.reason).toContain("as the body runs")
+  expect(said[0]?.reason).toContain("line 4")
 })
 
-test("every address a const table of written letters holds is read and judged", () => {
+test("an address the body spells for a helper rather than for a runner is judged", () => {
+  const said = judged(rooted(), { [CODE_AT]: CARRIED })
+
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe(AT)
+  expect(said[0]?.reason).toContain(`\`${CROSS}\``)
+})
+
+test("every address a const table of written letters holds is judged where it sits", () => {
   const said = judged(rooted(), { [CODE_AT]: TABLED })
 
   expect(said).toHaveLength(1)
@@ -91,12 +101,12 @@ test("every address a const table of written letters holds is read and judged", 
   expect(said[0]?.reason).toContain(`\`${CROSS}\``)
 })
 
-test("a table holding a value built as the body runs is refused", () => {
+test("a table holding an address built as the body runs is refused", () => {
   const said = judged(rooted(), { [CODE_AT]: BUILT_TABLE })
 
   expect(said).toHaveLength(1)
   expect(said[0]?.path).toBe(AT)
-  expect(said[0]?.reason).toContain("written letters")
+  expect(said[0]?.reason).toContain("as the body runs")
 })
 
 test("a change whose page the landing takes away is not judged", () => {

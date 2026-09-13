@@ -77,7 +77,20 @@ export function reaching(said: readonly string[]): string {
 
 export const CONSTED = bodied(["  await reach(world, HELD, {})"], [`const HELD = "${CROSS}"`, ""])
 
-export const BUILT = bodied(["  await reach(world, addressFor(world), {})"])
+const MADE = `\`${NUDGE}/\${picked()}\``
+
+export const BUILT = bodied([`  await reach(world, ${MADE}, {})`])
+
+export const CARRIED = [
+  'import { carryingOver } from "akasha/held/carrying.module.code.ts"',
+  "",
+  `const HELD = "${CROSS}"`,
+  "",
+  OPENS,
+  "  const carrier = carryingOver(world)",
+  "  await carrier.reaching(HELD, {})",
+  ...CLOSES,
+].join("\n")
 
 const PICKS = [
   "function addressFor(world: World): string {",
@@ -99,7 +112,7 @@ export const TABLED = bodied(
 
 export const BUILT_TABLE = bodied(
   ["  await reach(world, addressFor(world), {})"],
-  [`const ADDRESSES = { one: "${CROSS}", two: picked() } as const`, "", ...PICKS]
+  [`const ADDRESSES = { one: ${MADE} } as const`, "", ...PICKS]
 )
 
 export const QUIET = "export const held = 1\n"
