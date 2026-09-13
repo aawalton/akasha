@@ -4,7 +4,7 @@ import {
   reachesIn,
   reachingOver,
 } from "akasha/code/modules/package-manifest/package-manifest.module.code.ts"
-import type { Naming } from "akasha/code/modules/specifier/code-specifier.module.code.ts"
+import type { Naming } from "akasha/code/reading/modules/specifier/code-specifier.module.code.ts"
 import {
   type FilePropertiesBy,
   fileKeysAt,

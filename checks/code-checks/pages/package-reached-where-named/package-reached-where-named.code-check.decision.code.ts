@@ -13,7 +13,7 @@ import {
 import {
   landingOf,
   specifiersIn,
-} from "akasha/code/modules/specifier/code-specifier.module.code.ts"
+} from "akasha/code/reading/modules/specifier/code-specifier.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { pageOf, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"

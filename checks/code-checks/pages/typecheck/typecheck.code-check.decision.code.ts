@@ -10,7 +10,6 @@ import { lua50Config } from "akasha/code/lua-runtime-libraries/properties/lua50-
 import { universalConfig } from "akasha/code/lua-runtime-libraries/properties/universal-config.file-property.ts"
 import { reachesIn } from "akasha/code/modules/package-manifest/package-manifest.module.code.ts"
 import { parsedAs } from "akasha/code/modules/source/code-source.module.code.ts"
-import { specifiersIn } from "akasha/code/modules/specifier/code-specifier.module.code.ts"
 import {
   compiled,
   directoriesIn,
@@ -21,6 +20,7 @@ import {
   readingOf,
   servedOf,
 } from "akasha/code/modules/typing/code-typing.module.code.ts"
+import { specifiersIn } from "akasha/code/reading/modules/specifier/code-specifier.module.code.ts"
 import { importEdge } from "akasha/graph/edges/pages/import-edge.graph-edge.ts"
 import { reachingInto } from "akasha/graph/modules/asking/graph-asking.module.code.ts"
 import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"

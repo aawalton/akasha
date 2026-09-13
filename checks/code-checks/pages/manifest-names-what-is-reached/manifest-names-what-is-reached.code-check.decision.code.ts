@@ -23,7 +23,7 @@ import {
 import {
   landingOf,
   specifiersIn,
-} from "akasha/code/modules/specifier/code-specifier.module.code.ts"
+} from "akasha/code/reading/modules/specifier/code-specifier.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { textsAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"

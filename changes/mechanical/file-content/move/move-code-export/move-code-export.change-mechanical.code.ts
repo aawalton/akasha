@@ -28,7 +28,7 @@ import {
   landingOf,
   type Naming,
   specifierFor,
-} from "akasha/code/modules/specifier/code-specifier.module.code.ts"
+} from "akasha/code/reading/modules/specifier/code-specifier.module.code.ts"
 import { reachingOf } from "akasha/pages/indexes/modules/package-reaching/package-reaching.module.code.ts"
 import ts from "typescript"
 

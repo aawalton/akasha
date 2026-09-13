@@ -7,7 +7,7 @@ import type { Judged } from "akasha/checks/modules/judging/judging.module.code.t
 import {
   landingOf,
   specifiersIn,
-} from "akasha/code/modules/specifier/code-specifier.module.code.ts"
+} from "akasha/code/reading/modules/specifier/code-specifier.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
 
