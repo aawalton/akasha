@@ -32,27 +32,10 @@ mock.module("akasha/alan/track/daily/modules/akasha-day/akasha-day.module.code.t
     REACHED.push({ verb: "landAkashaDayPage", act, pageType: "akasha", name })
     return Promise.resolve(LANDED)
   },
-  landAkashaSessionRow: (act: string, name: string) => {
-    REACHED.push({ verb: "landAkashaSessionRow", act, pageType: "akasha", name })
-    return Promise.resolve(LANDED)
-  },
 }))
 
-const {
-  AKASHA,
-  DAILY_TRACKING,
-  SESSION_TRACKING,
-  dayNameIn,
-  dayNameOf,
-  dayOfName,
-  dayPageAt,
-  dayPlaceOf,
-  derivedDayIn,
-  dropSessionRow,
-  landDayPage,
-  landSessionRow,
-  sessionRowAt,
-} = await import("akasha/alan/track/daily/modules/day-place/day-place.module.code.ts")
+const { AKASHA, DAILY_TRACKING, dayNameIn, dayNameOf, dayPageAt, dayPlaceOf, landDayPage } =
+  await import("akasha/alan/track/daily/modules/day-place/day-place.module.code.ts")
 
 function daysOnDisk(): readonly string[] {
   if (!existsSync(CORPUS)) return []
@@ -81,14 +64,12 @@ describe("where a day is kept", () => {
     }
   })
 
-  test("an akasha day is named with its date prefixed, and the name reads back", () => {
+  test("an akasha day is named with its date prefixed", () => {
     expect(dayNameIn(AKASHA, "2026-03-05")).toBe("day-2026-03-05")
-    expect(dayOfName("day-2026-03-05")).toBe("2026-03-05")
-    expect(dayOfName("2026-03-05")).toBe("2026-03-05")
   })
 })
 
-describe("create, edit and delete agree on where a day is", () => {
+describe("create and edit agree on where a day is", () => {
   const day = "2026-03-05"
 
   test("akasha: one page type, one name, for every act, and the name is prefixed", () => {
@@ -99,20 +80,6 @@ describe("create, edit and delete agree on where a day is", () => {
       expect(at.pageType).toBe(DAILY_TRACKING)
       expect(at.name).toBe(name)
     }
-    const rows = [
-      sessionRowAt(AKASHA, "write-row", day),
-      sessionRowAt(AKASHA, "patch-row", day),
-      sessionRowAt(AKASHA, "remove-row", day),
-    ]
-    for (const at of rows) {
-      expect(at.place).toBe(AKASHA)
-      expect(at.pageType).toBe(SESSION_TRACKING)
-      expect(at.name).toBe(name)
-    }
-  })
-
-  test("a derived read is let through, because the derive reads where the day is kept", () => {
-    expect(() => derivedDayIn(AKASHA, day)).not.toThrow()
   })
 })
 
@@ -120,29 +87,19 @@ describe("what reaches the file layer", () => {
   test("a day nothing has heard of reaches the akasha half and never the old place", async () => {
     REACHED.length = 0
     await landDayPage("patch", UNNAMED_DAY, { date: UNNAMED_DAY }, "tracking")
-    await landSessionRow("write-row", UNNAMED_DAY, { id: "one" }, "tracking")
-    await landSessionRow("patch-row", UNNAMED_DAY, { id: "one" }, "tracking")
-    await dropSessionRow(UNNAMED_DAY, "one", "tracking")
     const name = `day-${UNNAMED_DAY}`
-    expect(REACHED).toEqual([
-      { verb: "landAkashaDayPage", act: "patch", pageType: "akasha", name },
-      { verb: "landAkashaSessionRow", act: "write-row", pageType: "akasha", name },
-      { verb: "landAkashaSessionRow", act: "patch-row", pageType: "akasha", name },
-      { verb: "landAkashaSessionRow", act: "remove-row", pageType: "akasha", name },
-    ])
+    expect(REACHED).toEqual([{ verb: "landAkashaDayPage", act: "patch", pageType: "akasha", name }])
   })
 
-  test("no day and no session row reaches any verb but the two akasha ones", async () => {
+  test("no day reaches any verb but the akasha one", async () => {
     REACHED.length = 0
     for (const day of ["2026-03-05", UNNAMED_DAY, UNNAMED_NEXT]) {
       await landDayPage("write", day, { date: day }, "tracking")
-      await landSessionRow("write-row", day, { id: "one" }, "tracking")
-      await dropSessionRow(day, "one", "tracking")
     }
-    expect(REACHED).toHaveLength(9)
-    expect(REACHED.filter((one) => one.pageType === "akasha")).toHaveLength(9)
+    expect(REACHED).toHaveLength(3)
+    expect(REACHED.filter((one) => one.pageType === "akasha")).toHaveLength(3)
     for (const one of REACHED) {
-      expect(["landAkashaDayPage", "landAkashaSessionRow"]).toContain(one.verb)
+      expect(one.verb).toBe("landAkashaDayPage")
     }
   })
 })
@@ -150,12 +107,6 @@ describe("what reaches the file layer", () => {
 const DAYS: readonly string[] = ["2026-01-01", "2026-03-05", "2026-08-31", "2026-12-31"]
 
 describe("the funnel's day names", () => {
-  test("the funnel takes back the day from the name it spelled", () => {
-    for (const day of DAYS) {
-      expect(dayOfName(dayNameIn(AKASHA, day))).toBe(day)
-    }
-  })
-
   test("a day is spelled by the prefix and never by its bare date", () => {
     for (const day of DAYS) {
       expect(dayNameIn(AKASHA, day)).not.toBe(day)

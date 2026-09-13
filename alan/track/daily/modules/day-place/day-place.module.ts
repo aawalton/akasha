@@ -14,8 +14,7 @@ export const dayPlace = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Every write of a day or of a session beside a day asks here where that day is kept.",
+      statement: "Every write of a day asks here where that day is kept.",
     },
     {
       invariantKind: "departure",
@@ -33,26 +32,6 @@ export const dayPlace = {
     {
       invariantKind: "departure",
       statement: "A day's page is named `day-` and the date rather than the bare date.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Spelling a day's name and taking the day back out of that name are one rule.",
-    },
-    {
-      invariantKind: "constraint",
-      statement: "The page query engine calls a derived read of a day from inside itself.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A derived read of a day awaits nothing.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A derived read of a day is let through rather than refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A day's rows are derived where that day is.",
     },
     {
       invariantKind: "constraint",
@@ -80,10 +59,6 @@ export const dayPlace = {
     {
       invariantKind: "departure",
       statement: "The calls a write reaches are named rather than counted.",
-    },
-    {
-      invariantKind: "constraint",
-      statement: "A query naming a day no page answers to comes back empty rather than refusing.",
     },
     {
       invariantKind: "departure",

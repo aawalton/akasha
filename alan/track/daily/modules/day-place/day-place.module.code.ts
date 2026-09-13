@@ -1,8 +1,5 @@
 import { dataError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import {
-  landAkashaDayPage,
-  landAkashaSessionRow,
-} from "akasha/alan/track/daily/modules/akasha-day/akasha-day.module.code.ts"
+import { landAkashaDayPage } from "akasha/alan/track/daily/modules/akasha-day/akasha-day.module.code.ts"
 import type { Landed } from "akasha/alan/track/daily/modules/day-narrow-types/day-narrow-types.module.code.ts"
 import {
   AKASHA as AKASHA_REPO,
@@ -20,8 +17,6 @@ export type DayPlace = typeof AKASHA
 
 export type DayAct = "write" | "patch"
 
-export type SessionAct = "write-row" | "patch-row" | "remove-row"
-
 export function dayPlaceOf(_dayStr: string): DayPlace {
   return AKASHA
 }
@@ -32,10 +27,6 @@ export function dayNameIn(_place: DayPlace, dayStr: string): string {
 
 export function dayNameOf(dayStr: string): string {
   return dayNameIn(dayPlaceOf(dayStr), dayStr)
-}
-
-export function dayOfName(name: string): string {
-  return name.startsWith("day-") ? name.slice("day-".length) : name
 }
 
 export interface DayLanding {
@@ -49,18 +40,6 @@ export function dayPageAt(place: DayPlace, act: DayAct, dayStr: string): DayLand
   return { place, act, pageType: DAILY_TRACKING, name: dayNameIn(place, dayStr) }
 }
 
-export function sessionRowAt(place: DayPlace, act: SessionAct, dayStr: string): DayLanding {
-  return { place, act, pageType: SESSION_TRACKING, name: dayNameIn(place, dayStr) }
-}
-
-export function derivedDayIn(_place: DayPlace, _dayStr: string): undefined {
-  return undefined
-}
-
-export function derivedDayOf(dayStr: string): undefined {
-  return derivedDayIn(dayPlaceOf(dayStr), dayStr)
-}
-
 export function landDayPage(
   act: DayAct,
   dayStr: string,
@@ -69,22 +48,6 @@ export function landDayPage(
 ): Promise<Landed> {
   const at = dayPageAt(dayPlaceOf(dayStr), act, dayStr)
   return landAkashaDayPage(act, at.name, values, writer)
-}
-
-export function landSessionRow(
-  act: "write-row" | "patch-row",
-  dayStr: string,
-  values: Readonly<Record<string, unknown>>,
-  writer: string
-): Promise<Landed> {
-  const at = sessionRowAt(dayPlaceOf(dayStr), act, dayStr)
-  const id = values["id"]
-  return landAkashaSessionRow(act, at.name, values, typeof id === "string" ? id : "", writer)
-}
-
-export function dropSessionRow(dayStr: string, named: string, writer: string): Promise<Landed> {
-  const at = sessionRowAt(dayPlaceOf(dayStr), "remove-row", dayStr)
-  return landAkashaSessionRow("remove-row", at.name, {}, named, writer)
 }
 
 export const DAY_PAGE_TYPE = "day"
