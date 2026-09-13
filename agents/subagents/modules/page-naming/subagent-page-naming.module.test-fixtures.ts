@@ -27,7 +27,7 @@ export function filedAsSeat(root: string, slug: string, at: string): undefined {
 }
 
 export function seatsFiled(root: string, names: readonly string[]): undefined {
-  for (const one of names) filedAsSeat(root, one, `akasha/seat-system/seats/pages/${one}.seat.ts`)
+  for (const one of names) filedAsSeat(root, one, `akasha/agents/seats/pages/${one}.seat.ts`)
 }
 
 export function subagentsFiled(root: string, slugs: readonly string[]): readonly string[] {

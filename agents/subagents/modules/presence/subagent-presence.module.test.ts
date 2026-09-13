@@ -68,7 +68,11 @@ import {
   WORKING,
   whyIn,
 } from "akasha/agents/subagents/modules/presence/subagent-presence.module.test-fixtures.ts"
-import { refusalsSaid } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
+import {
+  CARRIED_AT,
+  LEFT_BY,
+  refusalsSaid,
+} from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
@@ -219,10 +223,12 @@ test("a take-down moves what its subagent left onto the seat, and the page goes"
     refusalsKept(root, at, [REFUSAL])
     expect(await took(root, "akasha", OWN, [], LANDS, null, RETURNED)).toEqual(WENT)
     expect(existsSync(join(root, at))).toBe(false)
-    expect(keptBySeat(root)).toEqual({
-      edits: ROW,
-      refusals: refusalsSaid(slugOf("akasha", OWN), REFUSAL),
-    })
+    const kept = keptBySeat(root)
+    expect(kept.refusals).toBe(refusalsSaid(slugOf("akasha", OWN), REFUSAL))
+    const row = JSON.parse(kept.edits) as Record<string, unknown>
+    expect(row[LEFT_BY]).toBe(slugOf("akasha", OWN))
+    expect(typeof row[CARRIED_AT]).toBe("string")
+    expect(JSON.stringify({ kind: row.kind, path: row.path })).toBe(ROW.trim())
   })
 })
 

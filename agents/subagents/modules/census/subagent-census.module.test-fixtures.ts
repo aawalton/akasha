@@ -49,7 +49,7 @@ export function pagePut(root: string, seatName: string, own: string, agentId: st
 
 export function awayPut(root: string, seatName: string, own: string, agentId: string): string {
   const slug = slugOf(seatName, own)
-  const at = `seat-system/elsewhere/${slug}.subagent.ts`
+  const at = `agents/elsewhere/${slug}.subagent.ts`
   put(root, at, bodyOf(slug, seatName, "domain/akasha", "Explore", agentId))
   valueAlsoFiled(root, "subagent", [{ path: at, value: { pageTypeSlug: "subagent", slug } }])
   return at

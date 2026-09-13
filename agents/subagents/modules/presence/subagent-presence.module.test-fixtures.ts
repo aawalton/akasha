@@ -71,7 +71,7 @@ export const OWN = "a38f63805f9b94edf"
 
 const TREE = "akasha"
 
-export const SEAT_AT = `${TREE}/seat-system/seats/pages/akasha.seat.ts`
+export const SEAT_AT = `${TREE}/agents/seats/pages/akasha.seat.ts`
 
 export const SEAT_BODY = `export const akasha = { assignmentSlug: "domain/akasha-system" }\n`
 
