@@ -16,7 +16,6 @@ export const serviceCluster = {
     "module/web-app-building",
     "module/web-app-reading",
     "module/workload-applying",
-    "module/workload-census",
     "module/workload-deploying",
     "number-property/container-port",
     "number-property/replicas",
