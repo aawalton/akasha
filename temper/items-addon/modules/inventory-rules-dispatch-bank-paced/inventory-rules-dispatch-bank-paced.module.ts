@@ -13,6 +13,19 @@ export const inventoryRulesDispatchBankPaced = {
     },
     {
       invariantKind: "departure",
+      statement: "The five seconds a batch waits are counted from when that batch was issued.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A batch the game has taken every move of is settled at once rather than waited out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A chain with nothing left to issue ends the moment its last batch lands.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every move in a batch is issued without waiting for the one before it.",
     },
     {

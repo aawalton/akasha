@@ -56,10 +56,13 @@ export function startPacedBankChain(
     abortedEarly: false,
   }
   let firstIssueMs: number | undefined
+  let batchIssuedMs = 0
+  let settleSerial = 0
   let inFlight: IssuedMove[] = []
 
   function cleanup(aborted: boolean): undefined {
     EVENT_MANAGER.UnregisterForEvent(PACED_BANK_NS, EVENT_CLOSE_BANK)
+    EVENT_MANAGER.UnregisterForEvent(PACED_BANK_NS, EVENT_INVENTORY_SINGLE_SLOT_UPDATE)
     pacedBankRunning = false
     if (aborted) {
       let unsent = 0
@@ -106,7 +109,10 @@ export function startPacedBankChain(
       return
     }
     inFlight = batch
-    if (firstIssueMs === undefined) firstIssueMs = GetGameTimeMilliseconds()
+    batchIssuedMs = GetGameTimeMilliseconds()
+    if (firstIssueMs === undefined) firstIssueMs = batchIssuedMs
+    settleSerial++
+    const serial = settleSerial
     for (const move of batch) {
       move.attempts++
       stats.issued++
@@ -114,12 +120,23 @@ export function startPacedBankChain(
     }
     recordPacedDispatch(stats)
     zo_callLater(function (this: void): undefined {
+      if (serial !== settleSerial) return
       settleBatch()
     }, PACED_BANK_COOLDOWN_MS)
   }
 
+  function everyMoveLanded(): boolean {
+    for (const move of inFlight) {
+      const [srcStack] = GetSlotStackSize(move.sourceBag, move.sourceSlot)
+      if (srcStack > move.expectedRemaining) return false
+    }
+    return true
+  }
+
   function settleBatch(): undefined {
     if (!pacedBankRunning) return
+    if (inFlight.length === 0) return
+    settleSerial++
     const unsettled: IssuedMove[] = []
     for (const move of inFlight) {
       const [srcStack] = GetSlotStackSize(move.sourceBag, move.sourceSlot)
@@ -143,12 +160,30 @@ export function startPacedBankChain(
       cleanup(false)
       return
     }
-    issueBatch()
+    const rest = PACED_BANK_COOLDOWN_MS - (GetGameTimeMilliseconds() - batchIssuedMs)
+    if (rest <= 0) {
+      issueBatch()
+      return
+    }
+    zo_callLater(function (this: void): undefined {
+      issueBatch()
+    }, rest)
   }
 
   EVENT_MANAGER.RegisterForEvent(PACED_BANK_NS, EVENT_CLOSE_BANK, function (this: void): undefined {
     cleanup(true)
   })
+
+  EVENT_MANAGER.RegisterForEvent(
+    PACED_BANK_NS,
+    EVENT_INVENTORY_SINGLE_SLOT_UPDATE,
+    function (this: void): undefined {
+      if (!pacedBankRunning) return
+      if (inFlight.length === 0) return
+      if (!everyMoveLanded()) return
+      settleBatch()
+    }
+  )
 
   issueBatch()
 }
