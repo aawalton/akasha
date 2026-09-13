@@ -5,6 +5,11 @@ import {
   heldNamed,
 } from "akasha/pages/indexes/modules/extension-carrying/extension-carrying.module.code.ts"
 import {
+  claimantOf,
+  type Listing,
+} from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
+import { filesIn } from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
+import {
   pageOf,
   partedIn,
   secretNamed,
@@ -26,8 +31,13 @@ export function reservedBeside(path: string): string | null {
 }
 
 export function claimingIn(shadow: Shadow): Claiming {
+  const listing: Listing = (folder) => filesIn(shadow.root, folder)
+  const pageTypes = shadow.index.pageTypesIn()
+  const fileProperties = shadow.index.filePropertiesAt()
+  const folders = shadow.index.folderPropertiesAt()
   const held = new Map<string, boolean>()
-  const filed = (at: string): boolean => shadow.index.listedByPath(at).length > 0
+  const filed = (at: string): boolean =>
+    claimantOf(listing, at, pageTypes, fileProperties, folders) !== null
   const inside = (folder: string): boolean => {
     if (folder === "") return false
     const found = held.get(folder)
