@@ -6,7 +6,10 @@ export const changeMechanicalPageTypeMove = {
   slug: "change-mechanical-page-type-move",
   definition:
     "a mechanical change carrying what the pages of one page type hold into another place",
-  parts: ["change-mechanical-page-type/sort-property-values-on-every-page"],
+  parts: [
+    "change-mechanical-page-type/move-property-on-every-page",
+    "change-mechanical-page-type/sort-property-values-on-every-page",
+  ],
   invariants: [
     {
       invariantKind: "departure",

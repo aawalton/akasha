@@ -122,6 +122,9 @@ export type Changes = {
   "change-mechanical-page-type/copy-property-on-every-page": Parameters<
     typeof import("akasha/changes/mechanical/page-type/add/copy-property-on-every-page/copy-property-on-every-page.change-mechanical-page-type.code.ts")["runChange"]
   >[1]
+  "change-mechanical-page-type/move-property-on-every-page": Parameters<
+    typeof import("akasha/changes/mechanical/page-type/move/move-property-on-every-page/move-property-on-every-page.change-mechanical-page-type.code.ts")["runChange"]
+  >[1]
   "change-mechanical-page-type/remove-property-from-every-page": Parameters<
     typeof import("akasha/changes/mechanical/page-type/remove/remove-property-from-every-page/remove-property-from-every-page.change-mechanical-page-type.code.ts")["runChange"]
   >[1]
