@@ -205,3 +205,47 @@ describe("An allocation is charged against the character the allocation is meant
     )
   })
 })
+
+function heldStockable(
+  itemId: number,
+  stackCount: number,
+  locationKey: string
+): ClassifiedInventoryItem {
+  return {
+    ...stockable(itemId, stackCount),
+    locationKey,
+    locationDisplayName: locationKey,
+    bagId: 1,
+  }
+}
+
+describe("A character keeps the stock that character already holds.", () => {
+  test("two characters each holding their target are served from their own stack", () => {
+    const onSecond = heldStockable(80_030, 100, "1002")
+    const onFirst = heldStockable(80_030, 100, "1001")
+    const found = computeAllRuleAffectedItems(
+      compile([stockRule(100, true), SELL_RULE]),
+      [onSecond, onFirst],
+      makeContext({ "1001": [], "1002": [] }, ["1001", "1002"])
+    )
+    const servedFrom = new Map<string, readonly string[]>()
+    for (const affected of found.ruleMap.get("stock") ?? []) {
+      servedFrom.set(affected.locationKey, [...new Set(affected.useAllocation ?? [])])
+    }
+    expect(Object.fromEntries(servedFrom)).toEqual({ "1001": ["1001"], "1002": ["1002"] })
+  })
+
+  test("a character short of the target is topped up from the bank rather than from a peer", () => {
+    const short = heldStockable(80_031, 60, "1001")
+    const inBank = stockable(80_031, 40)
+    const found = computeAllRuleAffectedItems(
+      compile([stockRule(100, true), SELL_RULE]),
+      [short, inBank],
+      makeContext({ "1001": [] }, ["1001"])
+    )
+    const fromOwn = (found.ruleMap.get("stock") ?? []).find((one) => one.locationKey === "1001")
+    const fromBank = (found.ruleMap.get("stock") ?? []).find((one) => one.locationKey === "Bank")
+    expect(fromOwn?.useAllocation).toHaveLength(60)
+    expect(fromBank?.useAllocation).toHaveLength(40)
+  })
+})

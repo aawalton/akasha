@@ -14,6 +14,10 @@ export const inventoryRuleMatcherAllocators = {
     },
     {
       invariantKind: "departure",
+      statement: "A character keeps the stock that character already holds.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A rule takes no larger amount of an item than the rule asked for.",
     },
   ],

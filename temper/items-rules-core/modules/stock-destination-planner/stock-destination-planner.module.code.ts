@@ -57,7 +57,7 @@ function stockNeed(
   if (holding === undefined) {
     return targetQuantity - readGroupStock(ctx, itemIds, charId) - (allocatedHere.get(charId) ?? 0)
   }
-  const held = holding.heldPerChar.get(charId) ?? 0
+  const held = Math.max(readGroupStock(ctx, itemIds, charId), holding.heldPerChar.get(charId) ?? 0)
   if (charId === holding.sourceCharId) {
     return Math.min(targetQuantity, held) - (holding.keptPerChar.get(charId) ?? 0)
   }

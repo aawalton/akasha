@@ -1,10 +1,14 @@
+import { classifyLocation } from "akasha/temper/items-core/modules/location-classify/location-classify.module.code.ts"
 import { composeCharEligibilityPredicate } from "akasha/temper/items-rules-core/modules/eligibility-predicate-composer/eligibility-predicate-composer.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { ClassifiedInventoryItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import type { ItemRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type { RuleMatcherContext } from "akasha/temper/items-rules-core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import { buildStockDestinationContext } from "akasha/temper/items-rules-core/modules/stock-destination-context-builder/stock-destination-context-builder.module.code.ts"
-import { planStockDestinationsForStack } from "akasha/temper/items-rules-core/modules/stock-destination-planner/stock-destination-planner.module.code.ts"
+import {
+  planStockDestinationsForStack,
+  stockHeldByCharacter,
+} from "akasha/temper/items-rules-core/modules/stock-destination-planner/stock-destination-planner.module.code.ts"
 import type { StockDestinationContext } from "akasha/temper/items-rules-core/modules/stock-destination-types/stock-destination-types.module.code.ts"
 import {
   buildUseDestinationContext,
@@ -32,7 +36,8 @@ export interface AllocationEnv {
   ) => { consumed: number; allocation?: readonly CharacterId[] }
   beginStockRuleGroup: (
     rule: CompiledOrderedRule | ItemRule | undefined,
-    matchedItemIds: ReadonlySet<number>
+    matchedItemIds: ReadonlySet<number>,
+    held?: readonly (readonly [string, number])[]
   ) => void
   resetClaims: () => void
 }
@@ -42,7 +47,13 @@ export function createAllocationEnv(context: RuleMatcherContext | undefined): Al
   let useDestinationCtx: ReturnType<typeof buildUseDestinationContext> | undefined
   let stockDestinationCtx: StockDestinationContext | undefined
   let activeStockGroup:
-    | { groupKey: string; itemIds: ReadonlySet<number>; allocatedPerChar: Map<CharacterId, number> }
+    | {
+        groupKey: string
+        itemIds: ReadonlySet<number>
+        allocatedPerChar: Map<CharacterId, number>
+        heldPerChar: ReadonlyMap<CharacterId, number>
+        keptPerChar: Map<CharacterId, number>
+      }
     | undefined
 
   function ensureUseClaims(): Map<CharacterId, Set<string>> {
@@ -110,7 +121,17 @@ export function createAllocationEnv(context: RuleMatcherContext | undefined): Al
       stockCtx,
       ensureUseClaims(),
       predicate,
-      group?.allocatedPerChar
+      group?.allocatedPerChar,
+      group === undefined
+        ? undefined
+        : {
+            heldPerChar: group.heldPerChar,
+            keptPerChar: group.keptPerChar,
+            sourceCharId:
+              classifyLocation(ci.locationKey) === "character"
+                ? (ci.locationKey as CharacterId)
+                : undefined,
+          }
     )
     if (allocation.length === 0) return { consumed: 0 }
     return { consumed: allocation.length, allocation }
@@ -118,7 +139,8 @@ export function createAllocationEnv(context: RuleMatcherContext | undefined): Al
 
   function beginStockRuleGroup(
     rule: CompiledOrderedRule | ItemRule | undefined,
-    matchedItemIds: ReadonlySet<number>
+    matchedItemIds: ReadonlySet<number>,
+    held: readonly (readonly [string, number])[] = []
   ): undefined {
     if (rule === undefined || matchedItemIds.size === 0) {
       activeStockGroup = undefined
@@ -128,6 +150,10 @@ export function createAllocationEnv(context: RuleMatcherContext | undefined): Al
       groupKey: `stock:rule:${rule.id}`,
       itemIds: matchedItemIds,
       allocatedPerChar: new Map<CharacterId, number>(),
+      heldPerChar: stockHeldByCharacter(
+        held.filter(([locationKey]) => classifyLocation(locationKey) === "character")
+      ),
+      keptPerChar: new Map<CharacterId, number>(),
     }
     return undefined
   }

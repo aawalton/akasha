@@ -49,6 +49,13 @@ function ruleResultKey(rule: CompiledOrderedRule, idx: number): string {
   return rule.id ?? `rule#${idx}`
 }
 
+function heldOf(
+  candidates: readonly ClassifiedInventoryItem[],
+  countOf: (ci: ClassifiedInventoryItem) => number
+): readonly (readonly [string, number])[] {
+  return candidates.map((ci) => [ci.locationKey, countOf(ci)] as const)
+}
+
 export function computeAllRuleAffectedItems(
   userRules: readonly CompiledOrderedRule[],
   classifiedItems: readonly ClassifiedInventoryItem[],
@@ -98,8 +105,7 @@ export function computeAllRuleAffectedItems(
       const matched: MatchedCI[] = []
       const atDestination: ClassifiedInventoryItem[] = []
 
-      beginStockRuleGroup(rule, new Set([rule.itemId]))
-
+      const itemCandidates: ClassifiedInventoryItem[] = []
       for (const ci of classifiedItems) {
         const remaining = residueOf(ci)
         if (remaining === 0) continue
@@ -109,6 +115,14 @@ export function computeAllRuleAffectedItems(
           atDestination.push(ci)
           continue
         }
+        itemCandidates.push(ci)
+      }
+
+      beginStockRuleGroup(rule, new Set([rule.itemId]), heldOf(itemCandidates, residueOf))
+
+      for (const ci of itemCandidates) {
+        const remaining = residueOf(ci)
+        if (remaining === 0) continue
         const { consumed, allocation } = tryAllocation(ci, rule, remaining)
         if (consumed === 0) continue
         matched.push({ ci, consumed, allocation })
@@ -203,7 +217,7 @@ export function computeAllRuleAffectedItems(
       matchedItemIds.add(ci.item.itemId)
     }
 
-    beginStockRuleGroup(rule, matchedItemIds)
+    beginStockRuleGroup(rule, matchedItemIds, heldOf(candidates, residueOf))
 
     for (const ci of candidates) {
       const remaining = residueOf(ci)
