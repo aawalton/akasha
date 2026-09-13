@@ -177,6 +177,14 @@ export const readRecord = {
     },
     {
       invariantKind: "departure",
+      statement: "A reading a seat keeps goes where a sweep takes its agent's page away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page taken down any other way leaves the readings the seat keeps for it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An acting name the seat's id does not begin is not honoured.",
     },
     {

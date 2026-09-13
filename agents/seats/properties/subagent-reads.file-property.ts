@@ -35,12 +35,16 @@ export const subagentReads = {
       statement: "This file goes once the last line it holds has gone back.",
     },
     {
+      invariantKind: "departure",
+      statement: "A line goes where the sweep takes away the page of the subagent that made it.",
+    },
+    {
       invariantKind: "absence",
-      statement: "No sweep reaches a line kept for a subagent that never comes back.",
+      statement: "An ordinary take-down drops no line here, its subagent being able to resume.",
     },
     {
       invariantKind: "departure",
-      statement: "Such a line goes with the seat's own page.",
+      statement: "A line neither given back nor swept goes with the seat's own page.",
     },
     {
       invariantKind: "departure",

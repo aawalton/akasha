@@ -31,6 +31,7 @@ import {
   seatPageIn,
 } from "akasha/agents/subagents/modules/presence/subagent-presence.module.code.ts"
 import {
+  droppedFor,
   movedOnto,
   saidOf,
 } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
@@ -223,6 +224,24 @@ function moving(root: string, stale: readonly Judged[], done: string[]): undefin
   return undefined
 }
 
+function draining(root: string, stale: readonly Judged[], done: string[]): undefined {
+  const bySeat = new Map<string, string[]>()
+  for (const one of stale) {
+    const seat = seatPageIn(root, one.page.seatName)
+    if (seat === null) continue
+    const held = bySeat.get(seat)
+    if (held === undefined) bySeat.set(seat, [one.page.agentId])
+    else held.push(one.page.agentId)
+  }
+  for (const [seat, ids] of bySeat) {
+    const went = droppedFor(root, seat, ids)
+    if (went > 0) {
+      done.push(`${seat} keeps ${String(went)} fewer reading(s), for the subagents that went`)
+    }
+  }
+  return undefined
+}
+
 async function taking(
   root: string,
   stale: readonly Judged[],
@@ -242,6 +261,7 @@ async function taking(
     root,
     stale.map((one) => one.page.path)
   )
+  draining(root, stale, done)
   return told(done)
 }
 

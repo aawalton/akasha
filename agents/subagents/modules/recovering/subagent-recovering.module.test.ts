@@ -9,6 +9,7 @@ import {
 import {
   CARRIED_AT,
   carriedOff,
+  droppedFor,
   editsSaid,
   gaveBack,
   LEFT_BY,
@@ -330,4 +331,47 @@ test("a path that is no page gives nothing back", () => {
   const root = scratch.rootFor("subagent-recovering-")
 
   expect(gaveBack(root, SEAT, "notes.md", AGENT_ID)).toBe(0)
+})
+
+test("a reading the seat keeps goes where its agent id is handed in as gone", () => {
+  const root = scratch.rootFor("subagent-recovering-")
+  const second = "agents/subagents/pages/tester-def/tester-def.subagent.ts"
+  subagentPaged(root, UNDER, AGENT_ID)
+  readingsPut(root, UNDER, [READING])
+  subagentPaged(root, second, AGENT_ID_TOO)
+  readingsPut(root, second, [READING_TOO])
+  movedOnto(root, SEAT, UNDER)
+  movedOnto(root, SEAT, second)
+
+  expect(droppedFor(root, SEAT, [AGENT_ID])).toBe(1)
+  expect(readingsKept(root).map((one) => one[READ_BY])).toEqual([AGENT_ID_TOO])
+})
+
+test("the seat's file goes once the last reading it kept has been dropped", () => {
+  const root = scratch.rootFor("subagent-recovering-")
+  subagentPaged(root, UNDER, AGENT_ID)
+  readingsPut(root, UNDER, [READING, READING_TOO])
+  movedOnto(root, SEAT, UNDER)
+
+  expect(droppedFor(root, SEAT, [AGENT_ID])).toBe(2)
+  expect(bodyAt(root, seatReadsAt(SEAT))).toBe("")
+})
+
+test("a drop naming no agent the seat keeps for leaves every reading where it is", () => {
+  const root = scratch.rootFor("subagent-recovering-")
+  subagentPaged(root, UNDER, AGENT_ID)
+  readingsPut(root, UNDER, [READING])
+  movedOnto(root, SEAT, UNDER)
+
+  expect(droppedFor(root, SEAT, [])).toBe(0)
+  expect(droppedFor(root, SEAT, [""])).toBe(0)
+  expect(droppedFor(root, SEAT, [AGENT_ID_TOO])).toBe(0)
+  expect(readingsKept(root).length).toBe(1)
+})
+
+test("a seat keeping nothing drops nothing", () => {
+  const root = scratch.rootFor("subagent-recovering-")
+
+  expect(droppedFor(root, SEAT, [AGENT_ID])).toBe(0)
+  expect(droppedFor(root, "notes.md", [AGENT_ID])).toBe(0)
 })

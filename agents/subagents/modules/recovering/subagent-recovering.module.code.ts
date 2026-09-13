@@ -191,6 +191,21 @@ function readingsLeft(root: string, seatPage: string, at: string, text: string):
   return undefined
 }
 
+type Parted = {
+  readonly taken: readonly string[]
+  readonly left: readonly string[]
+}
+
+function partedBy(held: string, taking: (by: string | null) => boolean): Parted {
+  const taken: string[] = []
+  const left: string[] = []
+  for (const line of held.split("\n").filter((one) => one.trim() !== "")) {
+    if (taking(readByIn(line))) taken.push(line)
+    else left.push(`${line}\n`)
+  }
+  return { taken, left }
+}
+
 export function gaveBack(
   root: string,
   seatPage: string,
@@ -205,16 +220,28 @@ export function gaveBack(
   return exclusively(full, (): number => {
     const held = textAt(root, from)
     if (held === null) return 0
-    const mine: string[] = []
-    const left: string[] = []
-    for (const line of held.split("\n").filter((one) => one.trim() !== "")) {
-      if (readByIn(line) === agentId) mine.push(`${readingSaid(line)}\n`)
-      else left.push(`${line}\n`)
-    }
-    if (mine.length === 0) return 0
-    readingsPut(root, subagentPage, to, mine.join(""))
-    readingsLeft(root, seatPage, from, left.join(""))
-    return mine.length
+    const said = partedBy(held, (by) => by !== null && by === agentId)
+    if (said.taken.length === 0) return 0
+    readingsPut(root, subagentPage, to, said.taken.map((one) => `${readingSaid(one)}\n`).join(""))
+    readingsLeft(root, seatPage, from, said.left.join(""))
+    return said.taken.length
+  })
+}
+
+export function droppedFor(root: string, seatPage: string, agentIds: readonly string[]): number {
+  const from = seatReadsAt(seatPage)
+  if (from === null) return 0
+  const full = join(root, from)
+  if (!existsSync(full)) return 0
+  const gone = new Set(agentIds.filter((one) => one !== ""))
+  if (gone.size === 0) return 0
+  return exclusively(full, (): number => {
+    const held = textAt(root, from)
+    if (held === null) return 0
+    const said = partedBy(held, (by) => by !== null && gone.has(by))
+    if (said.taken.length === 0) return 0
+    readingsLeft(root, seatPage, from, said.left.join(""))
+    return said.taken.length
   })
 }
 

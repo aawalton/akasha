@@ -178,6 +178,30 @@ export const agentSubagentSweep = {
     },
     {
       invariantKind: "departure",
+      statement: "A subagent taken away has the readings its seat kept for it dropped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Those readings are dropped only after the removal landed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat is asked once for every page of its own that went.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page whose seat the index has no page for drops no reading.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The report names how many readings each seat keeps no longer.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A run told not to remove drops no reading.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A landing that refused leaves the census reported and the pages where the pages are.",
     },

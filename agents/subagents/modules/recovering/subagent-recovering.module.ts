@@ -98,6 +98,26 @@ export const subagentRecovering = {
       invariantKind: "departure",
       statement: "The seat's file goes once the last reading it kept has gone back.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A reading the seat keeps is dropped where its agent id is handed in as gone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading naming no agent id is never dropped that way.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which agents are gone is handed in rather than judged here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here weighs whether an agent handed in as gone could return.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The seat's file goes once the last reading it kept has been dropped.",
+    },
 
     {
       invariantKind: "departure",
