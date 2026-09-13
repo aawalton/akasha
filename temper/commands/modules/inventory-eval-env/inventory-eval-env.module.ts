@@ -67,5 +67,15 @@ export const inventoryEvalEnv = {
       statement:
         "The characters wanting a consumable come from the compiled config rather than the game.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A wanted consumable's stock per character and the bank's stock come from the inventory capture.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A figure the capture holds is answered unknown only where no capture was handed in.",
+    },
   ],
 } as const satisfies Module

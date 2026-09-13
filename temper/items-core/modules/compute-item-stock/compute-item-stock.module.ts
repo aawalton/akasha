@@ -6,4 +6,11 @@ export const computeItemStock = {
   slug: "compute-item-stock",
   definition: "how much of an item an account has, split by who holds it",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "The bank is counted on its own as well as among the rest of an account's storage.",
+    },
+  ],
 } as const satisfies Module

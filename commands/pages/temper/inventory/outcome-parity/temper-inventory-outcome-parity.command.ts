@@ -20,6 +20,15 @@ export const temperInventoryOutcomeParity = {
       invariantKind: "departure",
       statement: "One item disagreeing answers with that item rather than with a tally.",
     },
+    {
+      invariantKind: "absence",
+      statement:
+        "Neither run compared here is the addon's, so agreement is no sign the addon agrees.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Both runs read one env, so a signal that env lacks leaves the two runs alike.",
+    },
   ],
   name: "outcome-parity",
   arguments: [{ argument: "argument/inventory-path" }, { argument: "argument/characters-path" }],
