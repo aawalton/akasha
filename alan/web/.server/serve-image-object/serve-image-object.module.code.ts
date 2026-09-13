@@ -1,4 +1,7 @@
-import { imageObjectReadKeys } from "akasha/infrastructure/storage/object-store/modules/key/object-store-key.module.code.ts"
+import {
+  imageContentTypeOf,
+  imageObjectReadKeys,
+} from "akasha/infrastructure/storage/object-store/modules/key/object-store-key.module.code.ts"
 import type { ObjectStore } from "akasha/infrastructure/storage/object-store/modules/seaweedfs-store/seaweedfs-store.module.code.ts"
 
 export interface ResolvedImage {
@@ -51,6 +54,6 @@ export async function serveResolvedImage(
     return new Response("Not Found", { status: 404, headers })
   }
 
-  headers.set("Content-Type", "image/png")
+  headers.set("Content-Type", imageContentTypeOf(resolved.key))
   return new Response(new Uint8Array(bytes), { headers })
 }
