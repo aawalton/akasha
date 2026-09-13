@@ -81,5 +81,10 @@ export const keepAlanDirectives = {
       statement:
         "A subagent still to report is read from the seat's transcript rather than from a page.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "Each run records the gate it stopped at, so a turn unjudged is told from one judged.",
+    },
   ],
 } as const satisfies InferenceHook

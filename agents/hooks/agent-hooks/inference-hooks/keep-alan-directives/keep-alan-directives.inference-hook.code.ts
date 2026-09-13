@@ -28,6 +28,7 @@ import { readOwnTranscriptTail } from "akasha/agents/modules/io-probe/io-probe.m
 import { lastAskedIn, lastSaidIn } from "akasha/agents/modules/last-said/last-said.module.code.ts"
 import { seatIn } from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import { transcriptOf } from "akasha/agents/seats/modules/transcript-path/seat-transcript-path.module.code.ts"
+import { recorded } from "akasha/checks/modules/cost/check-cost.module.code.ts"
 import {
   createSubagentReader,
   type SubagentNode,
@@ -57,6 +58,43 @@ const DIRECTIVES = "directives"
 
 const TOLD = "This is what you wrote to Alan, and it breaks a rule he holds. Write it again."
 
+const STOP_GATES = "stop-gates"
+
+const HOOK_TYPE = "inference-hook"
+
+export const GATES = {
+  payload: "no payload read",
+  held: "a stop this refused already",
+  seat: "no seat in the environment",
+  working: "a subagent or a shell still to report",
+  words: "no words closing the turn",
+  person: "a seat answering to no person",
+  rule: "a person stating no rule",
+  model: "no model a call could reach",
+  threw: "a throw nothing else caught",
+  clean: "judged clean",
+  open: "held open",
+} as const
+
+export function lineFor(gate: string, put: number, at: Date): string {
+  return `${JSON.stringify({ at: at.toISOString(), gate, put })}\n`
+}
+
+function rootHere(): string | null {
+  try {
+    return rootOf(realpathSync(import.meta.path))
+  } catch {
+    return null
+  }
+}
+
+function noting(root: string | null, gate: string, put: number = 0): undefined {
+  if (root === null) return
+  try {
+    recorded(root, valuedAt(root, HOOK_TYPE, HOOK).path, lineFor(gate, put, new Date()), STOP_GATES)
+  } catch {}
+}
+
 export const JUDGES: readonly Putter[] = [
   directiveKept,
   oneAtATimeKept,
@@ -84,6 +122,7 @@ export const SCOPE: readonly string[] = [
   "",
   "A rule the model answers yes on comes back in that rule's own words.",
   "A model reached by no call leaves the turn unjudged.",
+  "How far each run got is recorded beside this hook's page, whether or not a model was reached.",
 ]
 
 export function personIn(listed: readonly Valued[], agent: string): string | null {
@@ -120,12 +159,25 @@ export function holding(asking: readonly Putting[], answers: readonly string[] |
 
 function judging(root: string, agent: string, asked: string, turn: string): Answer {
   const person = personIn(valuesOfType(root, SEAT) as readonly Valued[], agent)
-  if (person === null) return LET_THROUGH
+  if (person === null) {
+    noting(root, GATES.person)
+    return LET_THROUGH
+  }
   const directives = directivesIn(valuedAt(root, PERSON, person).value[DIRECTIVES])
-  if (directives.length === 0) return LET_THROUGH
+  if (directives.length === 0) {
+    noting(root, GATES.rule)
+    return LET_THROUGH
+  }
   const asking = JUDGES.flatMap((judge) => judge({ asked, turn, directives }))
   const prompts = asking.map((one) => one.prompt)
-  return holding(asking, askedOf(root, modelOf(root, test.modelFamily), prompts))
+  const answers = askedOf(root, modelOf(root, test.modelFamily), prompts)
+  if (answers === null) {
+    noting(root, GATES.model, asking.length)
+    return LET_THROUGH
+  }
+  const held = holding(asking, answers)
+  noting(root, held === LET_THROUGH ? GATES.clean : GATES.open, asking.length)
+  return held
 }
 
 async function ran(): Promise<number> {
@@ -133,19 +185,36 @@ async function ran(): Promise<number> {
     process.stdout.write(`${SCOPE.join("\n")}\n`)
     return ASIDE
   }
+  const root = rootHere()
+  if (root === null) return ASIDE
   const payload = payloadIn(await Bun.stdin.text())
-  if (payload === null || payload[ACTIVE] === true) return ASIDE
+  if (payload === null) {
+    noting(root, GATES.payload)
+    return ASIDE
+  }
+  if (payload[ACTIVE] === true) {
+    noting(root, GATES.held)
+    return ASIDE
+  }
   const agent = seatIn(process.env)
-  if (agent === null) return ASIDE
-  if (stillWorking(await runningUnder(agent), workingOf(agent))) return ASIDE
+  if (agent === null) {
+    noting(root, GATES.seat)
+    return ASIDE
+  }
+  if (stillWorking(await runningUnder(agent), workingOf(agent))) {
+    noting(root, GATES.working)
+    return ASIDE
+  }
   const tail = readOwnTranscriptTail(agent)
   const turn = tail === null ? null : lastSaidIn(tail)
-  if (tail === null || turn === null) return ASIDE
+  if (tail === null || turn === null) {
+    noting(root, GATES.words)
+    return ASIDE
+  }
   try {
-    return said(
-      judging(rootOf(realpathSync(import.meta.path)), agent, lastAskedIn(tail) ?? "", turn)
-    )
+    return said(judging(root, agent, lastAskedIn(tail) ?? "", turn))
   } catch {
+    noting(root, GATES.threw)
     return ASIDE
   }
 }
