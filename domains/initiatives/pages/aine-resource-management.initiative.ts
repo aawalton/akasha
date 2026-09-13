@@ -89,7 +89,7 @@ export const aineResourceManagement = {
     {
       statement: "Every record a run appends is kept for a window of its own.",
       workingMemory:
-        "Six streams state a window and are swept: seat log days and departed supervisor directories at seven days on a nightly timer, supervisor.log at 10 MiB by two, the watcher and tray logs at a megabyte by three, Loki at 168h, the read record at 24 hours. The cost rows state none. entries holds 499 MB over 1929 files and logs holds 163 MB, both grown from nothing since the eighth. ENTRY_CEILING rolls a part at 8 MiB and removes none.",
+        "entries and logs state twenty-four hours on their file property, and sweep-cost-records reads that window nightly: 662 MB fell to 94 MB and holds at a day. Every other stream states none. The parse cache under the index holds 162 MB with no ceiling and no sweep, and clearings, the typing spool, the email action log and the committed generation log all only grow. Claude's own transcripts hold 17.6 GB, growing half a gigabyte a day, and nothing prunes them.\n",
     },
   ],
   constraints: [
