@@ -7,8 +7,6 @@ interface EngineState {
   idActionMap: Map<number, Action>
   timeActionMap: Map<number, Action>
   snActionMap: Map<number, Action>
-  idDurationMap: Map<number, number>
-  idFilteringMap: Map<number, boolean>
   lastAction?: Action
   lastEffectAction?: Action
   gallopAction?: Action
@@ -21,8 +19,6 @@ export const STATE: EngineState = {
   idActionMap: new Map<number, Action>(),
   timeActionMap: new Map<number, Action>(),
   snActionMap: new Map<number, Action>(),
-  idDurationMap: new Map<number, number>(),
-  idFilteringMap: new Map<number, boolean>(),
   lastAction: undefined,
   lastEffectAction: undefined,
   gallopAction: undefined,
@@ -62,18 +58,4 @@ export function removeAction(action: Action): undefined {
   if (current !== undefined && current.sn === action.sn) {
     STATE.idActionMap.delete(action.ability.id)
   }
-}
-
-export function resetState(): undefined {
-  STATE.actionQueue = []
-  STATE.idActionMap.clear()
-  STATE.timeActionMap.clear()
-  STATE.snActionMap.clear()
-  STATE.idDurationMap.clear()
-  STATE.idFilteringMap.clear()
-  STATE.lastAction = undefined
-  STATE.lastEffectAction = undefined
-  STATE.gallopAction = undefined
-  STATE.lastQuickslotTime = 0
-  STATE.targetId = undefined
 }
