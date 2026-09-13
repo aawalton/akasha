@@ -42,5 +42,11 @@ export const olwenPagesSystemDisplay = {
     {
       statement: "No registry keyed by a page type's slug picks how a page of that type is drawn.",
     },
+    {
+      statement:
+        "A screen finds a page type's component by walking the types that page type extends.",
+      workingMemory:
+        "The groups are landed and nothing reads them. `code/component-property-groups/component-property-group.page-type.ts` holds a component's code, test and test fixtures as tsx. Its six pages sit in `pages/types/properties/` and each is declared optional on `pages/types/page-type.page-type.ts`: page-component, page-badge-component, page-row-component, page-card-component, property-badge-component, property-row-component.",
+    },
   ],
 } as const satisfies Initiative
