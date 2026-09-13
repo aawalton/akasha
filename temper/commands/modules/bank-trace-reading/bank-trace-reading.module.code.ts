@@ -1,4 +1,7 @@
-import { readInventoryDiagnostic } from "akasha/temper/commands/modules/inventory-diagnostics-reading/inventory-diagnostics-reading.module.code.ts"
+import {
+  pickInventoryDiagnostic,
+  readInventoryDiagnostic,
+} from "akasha/temper/commands/modules/inventory-diagnostics-reading/inventory-diagnostics-reading.module.code.ts"
 import { luaArrayOrEmpty } from "akasha/temper/saved-variables/modules/lua-array/lua-array.module.code.ts"
 import { z } from "zod"
 
@@ -85,6 +88,7 @@ const DIAGNOSTICS_SCHEMA = z
   .object({
     bankTraces: luaArrayOrEmpty(TRACE_SCHEMA).optional(),
     lastBankTrace: TRACE_SCHEMA.optional(),
+    storeTraces: luaArrayOrEmpty(TRACE_SCHEMA).optional(),
   })
   .passthrough()
 
@@ -108,4 +112,15 @@ export async function readBankTraces(inventoryPath: string): Promise<BankTrace[]
     visitsIn,
     "no diagnostics.bankTraces (interact with a banker, then /reloadui, then re-run)"
   )
+}
+
+function venueVisitsIn(wide: z.infer<typeof ACCOUNT_WIDE_SCHEMA>): BankTrace[] | undefined {
+  const kept = wide.diagnostics?.storeTraces
+  if (kept === undefined || kept.length === 0) return undefined
+  return [...kept].reverse()
+}
+
+export async function readVenueTraces(inventoryPath: string): Promise<BankTrace[]> {
+  const kept = await pickInventoryDiagnostic(inventoryPath, ACCOUNT_WIDE_SCHEMA, venueVisitsIn)
+  return kept ?? []
 }

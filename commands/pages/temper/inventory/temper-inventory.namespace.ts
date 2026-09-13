@@ -17,6 +17,7 @@ export const temperInventory = {
     "command/temper-inventory-plan",
     "command/temper-inventory-replay-explain",
     "command/temper-inventory-snapshot",
+    "command/temper-inventory-venue-trace",
     "namespace/temper-inventory-automation",
     "namespace/temper-inventory-bank",
     "namespace/temper-inventory-buy-rule",
