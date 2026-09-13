@@ -126,7 +126,6 @@ export async function registerDeviceToken(
           pageTypeSlug: DEVICE_TOKEN_PAGE_TYPE_SLUG,
           slug,
           values: {
-            pageTypeSlug: DEVICE_TOKEN_PAGE_TYPE_SLUG,
             slug,
             person,
             iosApp: named,

@@ -50,6 +50,14 @@ export const deviceTokenRegistration = {
     },
     {
       invariantKind: "departure",
+      statement: "The values a registration writes are the properties the page type declares.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which page type a page is and which slug it has are said beside its values.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The app a token is kept under is an iOS app.",
     },
     {
