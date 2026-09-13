@@ -12,7 +12,11 @@ export const dungeonCrawlerCarlTheGateOfTheFeralGods = {
   ownLength: 146500,
   publishedAt: "2021-07-01",
   partOfCollections: ["book-series/dungeon-crawler-carl"],
-  source: "kindle",
-  externalId: "B093DJ7F3C",
-  externalLink: "https://amazon.com/dp/B093DJ7F3C",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B093DJ7F3C",
+      externalLink: "https://amazon.com/dp/B093DJ7F3C",
+    },
+  ],
 } as const satisfies Book

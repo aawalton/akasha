@@ -10,7 +10,11 @@ export const arcaneAscensionTheSilenceOfUnworthyGods = {
   position: 4,
   ownLength: 157500,
   publishedAt: "2022-10-01",
-  source: "kindle",
-  externalId: "B0BH1SZV33",
-  externalLink: "https://amazon.com/dp/B0BH1SZV33",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BH1SZV33",
+      externalLink: "https://amazon.com/dp/B0BH1SZV33",
+    },
+  ],
 } as const satisfies Book

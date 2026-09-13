@@ -13,7 +13,11 @@ export const aThousandLiTheThirdKingdom = {
   ownProgress: 98250,
   publishedAt: "2022-07-01",
   partOfCollections: ["book-series/a-thousand-li"],
-  source: "kindle",
-  externalId: "B0B2KMFK8D",
-  externalLink: "https://amazon.com/dp/B0B2KMFK8D",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0B2KMFK8D",
+      externalLink: "https://amazon.com/dp/B0B2KMFK8D",
+    },
+  ],
 } as const satisfies Book

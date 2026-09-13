@@ -13,7 +13,11 @@ export const awakenOnlineUnity = {
   ownProgress: 90250,
   publishedAt: "2019-06-18",
   partOfCollections: ["book-series/awaken-online"],
-  source: "kindle",
-  externalId: "B07SX5B2C5",
-  externalLink: "https://amazon.com/dp/B07SX5B2C5",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07SX5B2C5",
+      externalLink: "https://amazon.com/dp/B07SX5B2C5",
+    },
+  ],
 } as const satisfies Book

@@ -10,8 +10,12 @@ export const expeditionaryForceTaskForceHammer = {
   unit: "words",
   position: 16,
   ownLength: 117250,
-  source: "kindle",
-  externalId: "B0DF86MTXF",
-  externalLink: "https://www.amazon.com/dp/B0DF86MTXF",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DF86MTXF",
+      externalLink: "https://www.amazon.com/dp/B0DF86MTXF",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

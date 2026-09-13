@@ -11,7 +11,11 @@ export const discworldUnseenAcademicals = {
   position: 37,
   ownLength: 119750,
   publishedAt: "2009-09-22",
-  source: "kindle",
-  externalId: "B002Q1YE4O",
-  externalLink: "https://www.amazon.com/gp/product/B002Q1YE4O",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B002Q1YE4O",
+      externalLink: "https://www.amazon.com/gp/product/B002Q1YE4O",
+    },
+  ],
 } as const satisfies Book

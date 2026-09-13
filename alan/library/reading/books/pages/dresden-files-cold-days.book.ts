@@ -10,8 +10,12 @@ export const dresdenFilesColdDays = {
   unit: "words",
   position: 13,
   ownLength: 132250,
-  source: "kindle",
-  externalId: "B0090UOJAI",
-  externalLink: "https://www.amazon.com/dp/B0090UOJAI",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0090UOJAI",
+      externalLink: "https://www.amazon.com/dp/B0090UOJAI",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

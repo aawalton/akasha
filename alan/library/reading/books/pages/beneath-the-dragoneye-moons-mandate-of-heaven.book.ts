@@ -13,7 +13,11 @@ export const beneathTheDragoneyeMoonsMandateOfHeaven = {
   ownProgress: 204250,
   publishedAt: "2025-01-20",
   partOfCollections: ["book-series/beneath-the-dragoneye-moons"],
-  source: "kindle",
-  externalId: "B0DTHMP58R",
-  externalLink: "https://amazon.com/dp/B0DTHMP58R",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DTHMP58R",
+      externalLink: "https://amazon.com/dp/B0DTHMP58R",
+    },
+  ],
 } as const satisfies Book

@@ -11,7 +11,11 @@ export const discworldTheAmazingMauriceAndHisEducatedRodents = {
   position: 28,
   ownLength: 91250,
   publishedAt: "2009-10-06",
-  source: "kindle",
-  externalId: "B000YGIIPO",
-  externalLink: "https://www.amazon.com/gp/product/B000YGIIPO",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000YGIIPO",
+      externalLink: "https://www.amazon.com/gp/product/B000YGIIPO",
+    },
+  ],
 } as const satisfies Book

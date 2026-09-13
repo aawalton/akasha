@@ -11,8 +11,12 @@ export const dresdenFilesFoolMoon = {
   position: 1,
   ownLength: 108000,
   publishedAt: "2001-01-01",
-  source: "kindle",
-  externalId: "B001BPYD2O",
-  externalLink: "https://www.amazon.com/dp/B001BPYD2O",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B001BPYD2O",
+      externalLink: "https://www.amazon.com/dp/B001BPYD2O",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

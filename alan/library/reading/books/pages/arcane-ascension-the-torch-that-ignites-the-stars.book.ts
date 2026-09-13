@@ -11,7 +11,11 @@ export const arcaneAscensionTheTorchThatIgnitesTheStars = {
   ownLength: 141000,
   ownProgress: 141000,
   publishedAt: "2020-12-06",
-  source: "kindle",
-  externalId: "B08HKV8LPV",
-  externalLink: "https://amazon.com/dp/B08HKV8LPV",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08HKV8LPV",
+      externalLink: "https://amazon.com/dp/B08HKV8LPV",
+    },
+  ],
 } as const satisfies Book

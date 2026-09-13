@@ -10,7 +10,11 @@ export const ameliaAmeliaTheLevelZeroHeroBook4 = {
   position: 4,
   ownLength: 113750,
   publishedAt: "2024-08-30",
-  source: "kindle",
-  externalId: "B0CN9X35NH",
-  externalLink: "https://amazon.com/dp/B0CN9X35NH",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CN9X35NH",
+      externalLink: "https://amazon.com/dp/B0CN9X35NH",
+    },
+  ],
 } as const satisfies Book

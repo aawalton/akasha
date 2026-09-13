@@ -10,8 +10,12 @@ export const cultureLookToWindward = {
   unit: "words",
   position: 5,
   ownLength: 104250,
-  source: "kindle",
-  externalId: "B001D20270",
-  externalLink: "https://www.amazon.com/dp/B001D20270",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B001D20270",
+      externalLink: "https://www.amazon.com/dp/B001D20270",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

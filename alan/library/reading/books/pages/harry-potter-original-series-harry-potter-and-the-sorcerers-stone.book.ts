@@ -12,7 +12,11 @@ export const harryPotterOriginalSeriesHarryPotterAndTheSorcerersStone = {
   ownLength: 78500,
   ownProgress: 78500,
   publishedAt: "2015-12-08",
-  source: "kindle",
-  externalId: "B0192CTMYG",
-  externalLink: "https://amazon.com/dp/B0192CTMYG",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0192CTMYG",
+      externalLink: "https://amazon.com/dp/B0192CTMYG",
+    },
+  ],
 } as const satisfies Book

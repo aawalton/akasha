@@ -13,7 +13,11 @@ export const dragonHeartStoneWill = {
   ownProgress: 104500,
   publishedAt: "2019-03-22",
   partOfCollections: ["book-series/dragon-heart"],
-  source: "kindle",
-  externalId: "B07NKGQ7RJ",
-  externalLink: "https://amazon.com/dp/B07NKGQ7RJ",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07NKGQ7RJ",
+      externalLink: "https://amazon.com/dp/B07NKGQ7RJ",
+    },
+  ],
 } as const satisfies Book

@@ -13,7 +13,11 @@ export const awakenOnlineTimeless = {
   ownProgress: 195250,
   publishedAt: "2023-09-01",
   partOfCollections: ["book-series/awaken-online"],
-  source: "kindle",
-  externalId: "B0CCFCSJPR",
-  externalLink: "https://amazon.com/dp/B0CCFCSJPR",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CCFCSJPR",
+      externalLink: "https://amazon.com/dp/B0CCFCSJPR",
+    },
+  ],
 } as const satisfies Book

@@ -11,7 +11,11 @@ export const annalsOfDrakisBloodOfTheEmperor = {
   position: 3,
   ownLength: 76000,
   publishedAt: "2012-07-31",
-  source: "kindle",
-  externalId: "B007P7HXJC",
-  externalLink: "https://amazon.com/dp/B007P7HXJC",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B007P7HXJC",
+      externalLink: "https://amazon.com/dp/B007P7HXJC",
+    },
+  ],
 } as const satisfies Book

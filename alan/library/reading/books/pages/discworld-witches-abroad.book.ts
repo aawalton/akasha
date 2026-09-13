@@ -10,8 +10,12 @@ export const discworldWitchesAbroad = {
   unit: "words",
   position: 12,
   ownLength: 84000,
-  source: "kindle",
-  externalId: "B001AW2OYC",
-  externalLink: "https://www.amazon.com/dp/B001AW2OYC",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B001AW2OYC",
+      externalLink: "https://www.amazon.com/dp/B001AW2OYC",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

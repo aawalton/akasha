@@ -11,7 +11,11 @@ export const discworldThiefOfTime = {
   position: 26,
   ownLength: 99750,
   publishedAt: "2009-10-13",
-  source: "kindle",
-  externalId: "B000W916WK",
-  externalLink: "https://www.amazon.com/gp/product/B000W916WK",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000W916WK",
+      externalLink: "https://www.amazon.com/gp/product/B000W916WK",
+    },
+  ],
 } as const satisfies Book

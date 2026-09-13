@@ -10,8 +10,12 @@ export const discworldTheColorOfMagic = {
   unit: "words",
   position: 1,
   ownLength: 66750,
-  source: "kindle",
-  externalId: "B000W9399S",
-  externalLink: "https://www.amazon.com/dp/B000W9399S",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000W9399S",
+      externalLink: "https://www.amazon.com/dp/B000W9399S",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

@@ -12,7 +12,11 @@ export const chrysalisFatedAntagonist = {
   ownProgress: 197500,
   publishedAt: "2025-06-18",
   partOfCollections: ["book-series/chrysalis"],
-  source: "kindle",
-  externalId: "B0F63LL1WH",
-  externalLink: "https://amazon.com/dp/B0F63LL1WH",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0F63LL1WH",
+      externalLink: "https://amazon.com/dp/B0F63LL1WH",
+    },
+  ],
 } as const satisfies Book

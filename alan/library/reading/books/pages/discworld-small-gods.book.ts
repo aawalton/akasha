@@ -10,8 +10,12 @@ export const discworldSmallGods = {
   unit: "words",
   position: 13,
   ownLength: 100000,
-  source: "kindle",
-  externalId: "B000QTEA3I",
-  externalLink: "https://www.amazon.com/dp/B000QTEA3I",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000QTEA3I",
+      externalLink: "https://www.amazon.com/dp/B000QTEA3I",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

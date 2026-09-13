@@ -11,7 +11,11 @@ export const discworldIShallWearMidnight = {
   position: 38,
   ownLength: 84250,
   publishedAt: "2010-09-28",
-  source: "kindle",
-  externalId: "B003VIWO9I",
-  externalLink: "https://www.amazon.com/gp/product/B003VIWO9I",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B003VIWO9I",
+      externalLink: "https://www.amazon.com/gp/product/B003VIWO9I",
+    },
+  ],
 } as const satisfies Book

@@ -10,7 +10,11 @@ export const artoriansArchivesAntelucan = {
   position: 13,
   ownLength: 118500,
   publishedAt: "2023-01-11",
-  source: "kindle",
-  externalId: "B0BL57PVHX",
-  externalLink: "https://amazon.com/dp/B0BL57PVHX",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BL57PVHX",
+      externalLink: "https://amazon.com/dp/B0BL57PVHX",
+    },
+  ],
 } as const satisfies Book

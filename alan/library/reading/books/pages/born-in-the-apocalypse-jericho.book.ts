@@ -10,8 +10,12 @@ export const bornInTheApocalypseJericho = {
   position: 3,
   ownLength: 45250,
   publishedAt: "2017-04-18",
-  source: "kindle",
-  externalId: "B06ZYHMWLD",
-  externalLink: "https://amazon.com/dp/B06ZYHMWLD",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B06ZYHMWLD",
+      externalLink: "https://amazon.com/dp/B06ZYHMWLD",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

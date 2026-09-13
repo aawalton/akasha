@@ -11,7 +11,11 @@ export const apocalypseHealer = {
   position: 1,
   ownLength: 131500,
   publishedAt: "2025-04-15",
-  source: "kindle",
-  externalId: "B0F1BLZTMG",
-  externalLink: "https://amazon.com/dp/B0F1BLZTMG",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0F1BLZTMG",
+      externalLink: "https://amazon.com/dp/B0F1BLZTMG",
+    },
+  ],
 } as const satisfies Book

@@ -12,7 +12,11 @@ export const elantris = {
   position: 6,
   ownLength: 145250,
   ownProgress: 145250,
-  source: "kindle",
-  externalId: "B003G93YLY",
-  externalLink: "https://www.amazon.com/dp/B003G93YLY",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B003G93YLY",
+      externalLink: "https://www.amazon.com/dp/B003G93YLY",
+    },
+  ],
 } as const satisfies Book

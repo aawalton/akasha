@@ -13,7 +13,11 @@ export const allTheSkills5 = {
   ownLength: 136000,
   ownProgress: 136000,
   publishedAt: "2025-03-25",
-  source: "kindle",
-  externalId: "B0DSVBKLP9",
-  externalLink: "https://amazon.com/dp/B0DSVBKLP9",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DSVBKLP9",
+      externalLink: "https://amazon.com/dp/B0DSVBKLP9",
+    },
+  ],
 } as const satisfies Book

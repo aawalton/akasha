@@ -12,7 +12,11 @@ export const dragonHeartWayToTheSouth = {
   ownLength: 113750,
   publishedAt: "2023-04-05",
   partOfCollections: ["book-series/dragon-heart"],
-  source: "kindle",
-  externalId: "B0BNFF5J6F",
-  externalLink: "https://amazon.com/dp/B0BNFF5J6F",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BNFF5J6F",
+      externalLink: "https://amazon.com/dp/B0BNFF5J6F",
+    },
+  ],
 } as const satisfies Book

@@ -11,7 +11,11 @@ export const beastborneChroniclesCrucible = {
   ownLength: 215500,
   ownProgress: 215500,
   publishedAt: "2023-01-05",
-  source: "kindle",
-  externalId: "B0BQG3ZZ25",
-  externalLink: "https://amazon.com/dp/B0BQG3ZZ25",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BQG3ZZ25",
+      externalLink: "https://amazon.com/dp/B0BQG3ZZ25",
+    },
+  ],
 } as const satisfies Book

@@ -10,8 +10,12 @@ export const dresdenFilesSummerKnight = {
   unit: "words",
   position: 3,
   ownLength: 94750,
-  source: "kindle",
-  externalId: "B000OCXG46",
-  externalLink: "https://www.amazon.com/dp/B000OCXG46",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000OCXG46",
+      externalLink: "https://www.amazon.com/dp/B000OCXG46",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

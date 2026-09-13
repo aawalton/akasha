@@ -10,7 +10,11 @@ export const arcaneAscensionABriefHistoryOfChronomancy = {
   position: 6,
   ownLength: 112250,
   publishedAt: "2025-04-02",
-  source: "kindle",
-  externalId: "B0DWM1Q93K",
-  externalLink: "https://amazon.com/dp/B0DWM1Q93K",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DWM1Q93K",
+      externalLink: "https://amazon.com/dp/B0DWM1Q93K",
+    },
+  ],
 } as const satisfies Book

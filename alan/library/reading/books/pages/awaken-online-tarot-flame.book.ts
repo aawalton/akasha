@@ -12,8 +12,12 @@ export const awakenOnlineTarotFlame = {
   ownLength: 151000,
   ownProgress: 151000,
   publishedAt: "2020-03-30",
-  source: "kindle",
-  externalId: "B086M642HH",
-  externalLink: "https://amazon.com/dp/B086M642HH",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B086M642HH",
+      externalLink: "https://amazon.com/dp/B086M642HH",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

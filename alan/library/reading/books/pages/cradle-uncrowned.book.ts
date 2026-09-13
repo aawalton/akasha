@@ -13,7 +13,11 @@ export const cradleUncrowned = {
   ownProgress: 94000,
   publishedAt: "2019-09-26",
   partOfCollections: ["book-series/cradle"],
-  source: "kindle",
-  externalId: "B07X8ZH6BS",
-  externalLink: "https://amazon.com/dp/B07X8ZH6BS",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07X8ZH6BS",
+      externalLink: "https://amazon.com/dp/B07X8ZH6BS",
+    },
+  ],
 } as const satisfies Book

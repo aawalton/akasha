@@ -10,7 +10,11 @@ export const artoriansArchivesAsgard = {
   position: 9,
   ownLength: 112750,
   publishedAt: "2021-12-08",
-  source: "kindle",
-  externalId: "B09L36RZVP",
-  externalLink: "https://amazon.com/dp/B09L36RZVP",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09L36RZVP",
+      externalLink: "https://amazon.com/dp/B09L36RZVP",
+    },
+  ],
 } as const satisfies Book

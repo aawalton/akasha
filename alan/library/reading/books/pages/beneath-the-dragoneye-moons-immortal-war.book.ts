@@ -13,7 +13,11 @@ export const beneathTheDragoneyeMoonsImmortalWar = {
   ownProgress: 118500,
   publishedAt: "2025-02-24",
   partOfCollections: ["book-series/beneath-the-dragoneye-moons"],
-  source: "kindle",
-  externalId: "B0DT7FXDVG",
-  externalLink: "https://amazon.com/dp/B0DT7FXDVG",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DT7FXDVG",
+      externalLink: "https://amazon.com/dp/B0DT7FXDVG",
+    },
+  ],
 } as const satisfies Book

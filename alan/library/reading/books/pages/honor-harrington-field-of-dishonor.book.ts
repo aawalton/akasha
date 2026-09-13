@@ -10,8 +10,12 @@ export const honorHarringtonFieldOfDishonor = {
   unit: "words",
   position: 3,
   ownLength: 75500,
-  source: "kindle",
-  externalId: "B00APAEID0",
-  externalLink: "https://www.amazon.com/dp/B00APAEID0",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00APAEID0",
+      externalLink: "https://www.amazon.com/dp/B00APAEID0",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

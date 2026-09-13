@@ -10,8 +10,12 @@ export const dresdenFilesChanges = {
   unit: "words",
   position: 11,
   ownLength: 138500,
-  source: "kindle",
-  externalId: "B0030DHPAW",
-  externalLink: "https://www.amazon.com/dp/B0030DHPAW",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0030DHPAW",
+      externalLink: "https://www.amazon.com/dp/B0030DHPAW",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

@@ -12,7 +12,11 @@ export const guardianOfAsterFallHighArtificer = {
   ownProgress: 134000,
   publishedAt: "2025-01-29",
   partOfCollections: ["book-series/guardian-of-aster-fall"],
-  source: "kindle",
-  externalId: "B0DGW4WMN8",
-  externalLink: "https://amazon.com/dp/B0DGW4WMN8",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DGW4WMN8",
+      externalLink: "https://amazon.com/dp/B0DGW4WMN8",
+    },
+  ],
 } as const satisfies Book

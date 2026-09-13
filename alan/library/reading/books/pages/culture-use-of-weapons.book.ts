@@ -10,8 +10,12 @@ export const cultureUseOfWeapons = {
   unit: "words",
   position: 2,
   ownLength: 128500,
-  source: "kindle",
-  externalId: "B0015DWLTE",
-  externalLink: "https://www.amazon.com/dp/B0015DWLTE",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0015DWLTE",
+      externalLink: "https://www.amazon.com/dp/B0015DWLTE",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

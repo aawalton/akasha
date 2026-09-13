@@ -13,7 +13,11 @@ export const azarinthHealerBook1 = {
   ownProgress: 177000,
   publishedAt: "2022-12-01",
   partOfCollections: ["book-series/azarinth-healer"],
-  source: "kindle",
-  externalId: "B0BLRD8YPD",
-  externalLink: "https://amazon.com/dp/B0BLRD8YPD",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BLRD8YPD",
+      externalLink: "https://amazon.com/dp/B0BLRD8YPD",
+    },
+  ],
 } as const satisfies Book

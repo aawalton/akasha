@@ -11,8 +11,12 @@ export const disgardiumWhispersOfTheNether = {
   ownLength: 123750,
   publishedAt: "2024-07-16",
   partOfCollections: ["book-series/disgardium"],
-  source: "kindle",
-  externalId: "B0D8L5FBBV",
-  externalLink: "https://amazon.com/dp/B0D8L5FBBV",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0D8L5FBBV",
+      externalLink: "https://amazon.com/dp/B0D8L5FBBV",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

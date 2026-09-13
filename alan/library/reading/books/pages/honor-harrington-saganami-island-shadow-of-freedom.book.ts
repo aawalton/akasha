@@ -9,8 +9,12 @@ export const honorHarringtonSaganamiIslandShadowOfFreedom = {
   unit: "words",
   position: 2,
   ownLength: 100500,
-  source: "kindle",
-  externalId: "B00BGCC28Y",
-  externalLink: "https://www.amazon.com/dp/B00BGCC28Y",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00BGCC28Y",
+      externalLink: "https://www.amazon.com/dp/B00BGCC28Y",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

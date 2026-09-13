@@ -9,8 +9,12 @@ export const furySeriesInFuryBorn = {
   author: "Sherrilyn Kenyon",
   unit: "words",
   ownLength: 253000,
-  source: "kindle",
-  externalId: "B00APAHXVY",
-  externalLink: "https://www.amazon.com/dp/B00APAHXVY",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00APAHXVY",
+      externalLink: "https://www.amazon.com/dp/B00APAHXVY",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

@@ -10,7 +10,11 @@ export const calamity = {
   unit: "words",
   position: 3,
   ownLength: 104000,
-  source: "kindle",
-  externalId: "B00VZZ085G",
-  externalLink: "https://www.amazon.com/dp/B00VZZ085G",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00VZZ085G",
+      externalLink: "https://www.amazon.com/dp/B00VZZ085G",
+    },
+  ],
 } as const satisfies Book

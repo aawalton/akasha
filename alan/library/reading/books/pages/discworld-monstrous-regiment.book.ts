@@ -11,7 +11,11 @@ export const discworldMonstrousRegiment = {
   position: 31,
   ownLength: 108000,
   publishedAt: "2009-10-13",
-  source: "kindle",
-  externalId: "B000W938B2",
-  externalLink: "https://www.amazon.com/gp/product/B000W938B2",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000W938B2",
+      externalLink: "https://www.amazon.com/gp/product/B000W938B2",
+    },
+  ],
 } as const satisfies Book

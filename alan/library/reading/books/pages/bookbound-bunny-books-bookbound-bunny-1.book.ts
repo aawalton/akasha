@@ -9,7 +9,11 @@ export const bookboundBunnyBooksBookboundBunny1 = {
   unit: "words",
   ownLength: 234750,
   publishedAt: "2025-11-17",
-  source: "kindle",
-  externalId: "B0FMTFPCN4",
-  externalLink: "https://www.amazon.com/Bookbound-Bunny-1-Lunadea-ebook/dp/B0FMTFPCN4",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0FMTFPCN4",
+      externalLink: "https://www.amazon.com/Bookbound-Bunny-1-Lunadea-ebook/dp/B0FMTFPCN4",
+    },
+  ],
 } as const satisfies Book

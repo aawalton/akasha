@@ -12,7 +12,11 @@ export const dungeonCrawlerCarlThisInevitableRuin = {
   ownLength: 181000,
   publishedAt: "2024-11-11",
   partOfCollections: ["book-series/dungeon-crawler-carl"],
-  source: "kindle",
-  externalId: "B0DJWKWV8W",
-  externalLink: "https://amazon.com/dp/B0DJWKWV8W",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DJWKWV8W",
+      externalLink: "https://amazon.com/dp/B0DJWKWV8W",
+    },
+  ],
 } as const satisfies Book

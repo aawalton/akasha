@@ -12,8 +12,12 @@ export const beneathTheDragoneyeMoonsAdventuresInTheArgo = {
   ownProgress: 157750,
   publishedAt: "2025-01-20",
   partOfCollections: ["book-series/beneath-the-dragoneye-moons"],
-  source: "kindle",
-  externalId: "B0DTK8WXWN",
-  externalLink: "https://amazon.com/dp/B0DTK8WXWN",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DTK8WXWN",
+      externalLink: "https://amazon.com/dp/B0DTK8WXWN",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

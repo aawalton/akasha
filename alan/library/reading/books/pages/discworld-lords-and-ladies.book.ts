@@ -10,8 +10,12 @@ export const discworldLordsAndLadies = {
   unit: "words",
   position: 14,
   ownLength: 91750,
-  source: "kindle",
-  externalId: "B000TU16R2",
-  externalLink: "https://www.amazon.com/dp/B000TU16R2",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000TU16R2",
+      externalLink: "https://www.amazon.com/dp/B000TU16R2",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

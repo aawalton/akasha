@@ -11,7 +11,11 @@ export const beastborneChroniclesMarkOfTheFounder = {
   ownLength: 288500,
   ownProgress: 288500,
   publishedAt: "2020-06-27",
-  source: "kindle",
-  externalId: "B08BYZ1BGD",
-  externalLink: "https://amazon.com/dp/B08BYZ1BGD",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08BYZ1BGD",
+      externalLink: "https://amazon.com/dp/B08BYZ1BGD",
+    },
+  ],
 } as const satisfies Book

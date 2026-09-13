@@ -10,8 +10,12 @@ export const bobiverseNotTillWeAreLost = {
   unit: "words",
   position: 4,
   ownLength: 103250,
-  source: "kindle",
-  externalId: "B0DQ4LGLHY",
-  externalLink: "https://www.amazon.com/dp/B0DQ4LGLHY",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DQ4LGLHY",
+      externalLink: "https://www.amazon.com/dp/B0DQ4LGLHY",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

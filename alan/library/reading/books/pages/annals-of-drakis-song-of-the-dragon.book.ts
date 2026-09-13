@@ -9,8 +9,12 @@ export const annalsOfDrakisSongOfTheDragon = {
   author: "Tracy Hickman",
   unit: "words",
   ownLength: 116500,
-  source: "kindle",
-  externalId: "B0057Z1U5C",
-  externalLink: "https://www.amazon.com/dp/B0057Z1U5C",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0057Z1U5C",
+      externalLink: "https://www.amazon.com/dp/B0057Z1U5C",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

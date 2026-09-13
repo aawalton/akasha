@@ -10,8 +10,12 @@ export const cultureTheHydrogenSonata = {
   unit: "words",
   position: 8,
   ownLength: 129500,
-  source: "kindle",
-  externalId: "B0081BU42O",
-  externalLink: "https://www.amazon.com/dp/B0081BU42O",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0081BU42O",
+      externalLink: "https://www.amazon.com/dp/B0081BU42O",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

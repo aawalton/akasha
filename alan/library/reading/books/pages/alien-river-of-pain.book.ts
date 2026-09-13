@@ -10,8 +10,12 @@ export const alienRiverOfPain = {
   unit: "words",
   position: 2,
   ownLength: 84250,
-  source: "kindle",
-  externalId: "B00KPBBTS6",
-  externalLink: "https://www.amazon.com/dp/B00KPBBTS6",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00KPBBTS6",
+      externalLink: "https://www.amazon.com/dp/B00KPBBTS6",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

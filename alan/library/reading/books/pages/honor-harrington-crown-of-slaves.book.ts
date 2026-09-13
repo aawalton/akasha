@@ -8,8 +8,12 @@ export const honorHarringtonCrownOfSlaves = {
   status: "not-started",
   unit: "words",
   ownLength: 169750,
-  source: "kindle",
-  externalId: "B00AP91PIC",
-  externalLink: "https://www.amazon.com/dp/B00AP91PIC",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00AP91PIC",
+      externalLink: "https://www.amazon.com/dp/B00AP91PIC",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

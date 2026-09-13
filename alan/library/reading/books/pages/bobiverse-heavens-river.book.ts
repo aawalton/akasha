@@ -10,8 +10,12 @@ export const bobiverseHeavensRiver = {
   unit: "words",
   position: 3,
   ownLength: 160000,
-  source: "kindle",
-  externalId: "B08P3NTSSR",
-  externalLink: "https://www.amazon.com/dp/B08P3NTSSR",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08P3NTSSR",
+      externalLink: "https://www.amazon.com/dp/B08P3NTSSR",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

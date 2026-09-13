@@ -13,7 +13,11 @@ export const cradleUnsouled = {
   ownProgress: 72750,
   publishedAt: "2016-06-13",
   partOfCollections: ["book-series/cradle"],
-  source: "kindle",
-  externalId: "B01H1CYBS6",
-  externalLink: "https://amazon.com/dp/B01H1CYBS6",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B01H1CYBS6",
+      externalLink: "https://amazon.com/dp/B01H1CYBS6",
+    },
+  ],
 } as const satisfies Book

@@ -10,8 +10,12 @@ export const dresdenFilesBattleGround = {
   unit: "words",
   position: 16,
   ownLength: 106000,
-  source: "kindle",
-  externalId: "B0867ZMV2S",
-  externalLink: "https://www.amazon.com/dp/B0867ZMV2S",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0867ZMV2S",
+      externalLink: "https://www.amazon.com/dp/B0867ZMV2S",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

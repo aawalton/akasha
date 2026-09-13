@@ -12,7 +12,11 @@ export const bushidoOnlineWarGames = {
   ownProgress: 152250,
   publishedAt: "2019-03-03",
   partOfCollections: ["book-series/bushido-online"],
-  source: "kindle",
-  externalId: "B07PCW31GN",
-  externalLink: "https://amazon.com/dp/B07PCW31GN",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07PCW31GN",
+      externalLink: "https://amazon.com/dp/B07PCW31GN",
+    },
+  ],
 } as const satisfies Book

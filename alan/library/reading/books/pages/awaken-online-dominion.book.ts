@@ -13,7 +13,11 @@ export const awakenOnlineDominion = {
   ownProgress: 200250,
   publishedAt: "2019-02-26",
   partOfCollections: ["book-series/awaken-online"],
-  source: "kindle",
-  externalId: "B07PB6NDPX",
-  externalLink: "https://amazon.com/dp/B07PB6NDPX",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07PB6NDPX",
+      externalLink: "https://amazon.com/dp/B07PB6NDPX",
+    },
+  ],
 } as const satisfies Book

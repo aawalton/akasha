@@ -12,7 +12,11 @@ export const harryPotterOriginalSeriesHarryPotterAndTheGobletOfFire = {
   ownLength: 185000,
   ownProgress: 185000,
   publishedAt: "2015-12-08",
-  source: "kindle",
-  externalId: "B0192CTMUU",
-  externalLink: "https://amazon.com/dp/B0192CTMUU",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0192CTMUU",
+      externalLink: "https://amazon.com/dp/B0192CTMUU",
+    },
+  ],
 } as const satisfies Book

@@ -13,7 +13,11 @@ export const beneathTheDragoneyeMoonsTheGladiatorGauntlet = {
   ownProgress: 104750,
   publishedAt: "2025-01-20",
   partOfCollections: ["book-series/beneath-the-dragoneye-moons"],
-  source: "kindle",
-  externalId: "B0DTJN6S5T",
-  externalLink: "https://amazon.com/dp/B0DTJN6S5T",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DTJN6S5T",
+      externalLink: "https://amazon.com/dp/B0DTJN6S5T",
+    },
+  ],
 } as const satisfies Book

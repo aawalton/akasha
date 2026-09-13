@@ -8,8 +8,12 @@ export const honorHarringtonSaganamiIslandTheShadowOfSaganami = {
   status: "not-started",
   unit: "words",
   ownLength: 194000,
-  source: "kindle",
-  externalId: "B00BEQZU4A",
-  externalLink: "https://www.amazon.com/dp/B00BEQZU4A",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00BEQZU4A",
+      externalLink: "https://www.amazon.com/dp/B00BEQZU4A",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

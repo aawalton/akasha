@@ -11,7 +11,11 @@ export const discworldTheLastContinent = {
   position: 23,
   ownLength: 96000,
   publishedAt: "2009-10-13",
-  source: "kindle",
-  externalId: "B000W5MIHG",
-  externalLink: "https://www.amazon.com/gp/product/B000W5MIHG",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000W5MIHG",
+      externalLink: "https://www.amazon.com/gp/product/B000W5MIHG",
+    },
+  ],
 } as const satisfies Book

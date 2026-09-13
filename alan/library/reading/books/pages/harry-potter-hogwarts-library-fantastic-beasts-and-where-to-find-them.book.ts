@@ -12,7 +12,11 @@ export const harryPotterHogwartsLibraryFantasticBeastsAndWhereToFindThem = {
   position: 3,
   ownLength: 15500,
   publishedAt: "2017-03-14",
-  source: "kindle",
-  externalId: "B01LYBG60A",
-  externalLink: "https://amazon.com/dp/B01LYBG60A",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B01LYBG60A",
+      externalLink: "https://amazon.com/dp/B01LYBG60A",
+    },
+  ],
 } as const satisfies Book

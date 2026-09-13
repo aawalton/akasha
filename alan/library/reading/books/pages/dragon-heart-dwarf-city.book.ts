@@ -12,7 +12,11 @@ export const dragonHeartDwarfCity = {
   ownProgress: 102250,
   publishedAt: "2022-03-05",
   partOfCollections: ["book-series/dragon-heart"],
-  source: "kindle",
-  externalId: "B09MQZYN75",
-  externalLink: "https://amazon.com/dp/B09MQZYN75",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09MQZYN75",
+      externalLink: "https://amazon.com/dp/B09MQZYN75",
+    },
+  ],
 } as const satisfies Book

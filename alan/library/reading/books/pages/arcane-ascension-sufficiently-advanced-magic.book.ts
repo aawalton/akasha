@@ -11,7 +11,11 @@ export const arcaneAscensionSufficientlyAdvancedMagic = {
   ownLength: 156250,
   ownProgress: 156250,
   publishedAt: "2017-02-26",
-  source: "kindle",
-  externalId: "B06XBFD7CB",
-  externalLink: "https://amazon.com/dp/B06XBFD7CB",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B06XBFD7CB",
+      externalLink: "https://amazon.com/dp/B06XBFD7CB",
+    },
+  ],
 } as const satisfies Book

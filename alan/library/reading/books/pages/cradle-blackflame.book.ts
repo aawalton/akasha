@@ -13,7 +13,11 @@ export const cradleBlackflame = {
   ownProgress: 92250,
   publishedAt: "2017-04-30",
   partOfCollections: ["book-series/cradle"],
-  source: "kindle",
-  externalId: "B0716GZ8QX",
-  externalLink: "https://amazon.com/dp/B0716GZ8QX",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0716GZ8QX",
+      externalLink: "https://amazon.com/dp/B0716GZ8QX",
+    },
+  ],
 } as const satisfies Book

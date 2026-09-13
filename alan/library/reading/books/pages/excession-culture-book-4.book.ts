@@ -10,8 +10,12 @@ export const excessionCultureBook4 = {
   unit: "words",
   position: 3,
   ownLength: 149500,
-  source: "kindle",
-  externalId: "B002TZ3DEO",
-  externalLink: "https://www.amazon.com/dp/B002TZ3DEO",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B002TZ3DEO",
+      externalLink: "https://www.amazon.com/dp/B002TZ3DEO",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

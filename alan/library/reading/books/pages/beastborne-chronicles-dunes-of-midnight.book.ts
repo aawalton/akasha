@@ -11,7 +11,11 @@ export const beastborneChroniclesDunesOfMidnight = {
   ownLength: 148750,
   ownProgress: 148750,
   publishedAt: "2025-01-01",
-  source: "kindle",
-  externalId: "B0DBFNCYGW",
-  externalLink: "https://amazon.com/dp/B0DBFNCYGW",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DBFNCYGW",
+      externalLink: "https://amazon.com/dp/B0DBFNCYGW",
+    },
+  ],
 } as const satisfies Book

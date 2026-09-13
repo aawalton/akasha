@@ -12,7 +12,11 @@ export const harryPotterOriginalSeriesHarryPotterAndThePrisonerOfAzkaban = {
   ownLength: 109250,
   ownProgress: 109250,
   publishedAt: "2015-12-08",
-  source: "kindle",
-  externalId: "B0192CTMX2",
-  externalLink: "https://amazon.com/dp/B0192CTMX2",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0192CTMX2",
+      externalLink: "https://amazon.com/dp/B0192CTMX2",
+    },
+  ],
 } as const satisfies Book

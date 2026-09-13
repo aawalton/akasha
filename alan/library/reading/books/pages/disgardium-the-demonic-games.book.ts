@@ -11,8 +11,12 @@ export const disgardiumTheDemonicGames = {
   ownLength: 133750,
   publishedAt: "2021-05-18",
   partOfCollections: ["book-series/disgardium"],
-  source: "kindle",
-  externalId: "B08VJK7PY3",
-  externalLink: "https://amazon.com/dp/B08VJK7PY3",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08VJK7PY3",
+      externalLink: "https://amazon.com/dp/B08VJK7PY3",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

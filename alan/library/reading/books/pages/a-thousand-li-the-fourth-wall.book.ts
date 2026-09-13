@@ -13,7 +13,11 @@ export const aThousandLiTheFourthWall = {
   ownProgress: 116750,
   publishedAt: "2025-07-01",
   partOfCollections: ["book-series/a-thousand-li"],
-  source: "kindle",
-  externalId: "B0DL6RRVZP",
-  externalLink: "https://amazon.com/dp/B0DL6RRVZP",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DL6RRVZP",
+      externalLink: "https://amazon.com/dp/B0DL6RRVZP",
+    },
+  ],
 } as const satisfies Book

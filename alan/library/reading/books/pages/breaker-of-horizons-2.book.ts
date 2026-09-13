@@ -11,7 +11,11 @@ export const breakerOfHorizons2 = {
   ownLength: 112500,
   publishedAt: "2023-01-17",
   partOfCollections: ["book-series/breaker-of-horizons"],
-  source: "kindle",
-  externalId: "B0BJ52R54D",
-  externalLink: "https://amazon.com/dp/B0BJ52R54D",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BJ52R54D",
+      externalLink: "https://amazon.com/dp/B0BJ52R54D",
+    },
+  ],
 } as const satisfies Book

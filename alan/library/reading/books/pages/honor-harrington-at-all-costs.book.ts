@@ -10,8 +10,12 @@ export const honorHarringtonAtAllCosts = {
   unit: "words",
   position: 10,
   ownLength: 272500,
-  source: "kindle",
-  externalId: "B00AP9CUWM",
-  externalLink: "https://www.amazon.com/dp/B00AP9CUWM",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00AP9CUWM",
+      externalLink: "https://www.amazon.com/dp/B00AP9CUWM",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

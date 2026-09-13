@@ -10,8 +10,12 @@ export const expeditionaryForceFallout = {
   unit: "words",
   position: 12,
   ownLength: 139500,
-  source: "kindle",
-  externalId: "B09L79GGYV",
-  externalLink: "https://www.amazon.com/dp/B09L79GGYV",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09L79GGYV",
+      externalLink: "https://www.amazon.com/dp/B09L79GGYV",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

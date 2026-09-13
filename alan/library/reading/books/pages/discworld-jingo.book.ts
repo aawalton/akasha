@@ -11,7 +11,11 @@ export const discworldJingo = {
   position: 21,
   ownLength: 103500,
   publishedAt: "2009-10-13",
-  source: "kindle",
-  externalId: "B000W5MIH6",
-  externalLink: "https://www.amazon.com/gp/product/B000W5MIH6",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000W5MIH6",
+      externalLink: "https://www.amazon.com/gp/product/B000W5MIH6",
+    },
+  ],
 } as const satisfies Book

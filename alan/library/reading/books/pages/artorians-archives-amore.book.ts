@@ -10,7 +10,11 @@ export const artoriansArchivesAmore = {
   position: 19,
   ownLength: 114000,
   publishedAt: "2024-10-23",
-  source: "kindle",
-  externalId: "B0DGRJX155",
-  externalLink: "https://amazon.com/dp/B0DGRJX155",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DGRJX155",
+      externalLink: "https://amazon.com/dp/B0DGRJX155",
+    },
+  ],
 } as const satisfies Book

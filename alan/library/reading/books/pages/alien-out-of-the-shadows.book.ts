@@ -9,8 +9,12 @@ export const alienOutOfTheShadows = {
   author: "Tim Lebbon",
   unit: "words",
   ownLength: 84750,
-  source: "kindle",
-  externalId: "B00DXKJ5TQ",
-  externalLink: "https://www.amazon.com/dp/B00DXKJ5TQ",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00DXKJ5TQ",
+      externalLink: "https://www.amazon.com/dp/B00DXKJ5TQ",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

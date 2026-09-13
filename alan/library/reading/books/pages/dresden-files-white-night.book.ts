@@ -10,8 +10,12 @@ export const dresdenFilesWhiteNight = {
   unit: "words",
   position: 8,
   ownLength: 132000,
-  source: "kindle",
-  externalId: "B000R4LH3S",
-  externalLink: "https://www.amazon.com/dp/B000R4LH3S",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000R4LH3S",
+      externalLink: "https://www.amazon.com/dp/B000R4LH3S",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

@@ -10,8 +10,12 @@ export const dresdenFilesGravePeril = {
   unit: "words",
   position: 2,
   ownLength: 116250,
-  source: "kindle",
-  externalId: "B001650UDA",
-  externalLink: "https://www.amazon.com/dp/B001650UDA",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B001650UDA",
+      externalLink: "https://www.amazon.com/dp/B001650UDA",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

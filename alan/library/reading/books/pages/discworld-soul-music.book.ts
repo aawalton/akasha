@@ -10,8 +10,12 @@ export const discworldSoulMusic = {
   unit: "words",
   position: 16,
   ownLength: 96750,
-  source: "kindle",
-  externalId: "B004478AFW",
-  externalLink: "https://www.amazon.com/dp/B004478AFW",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B004478AFW",
+      externalLink: "https://www.amazon.com/dp/B004478AFW",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

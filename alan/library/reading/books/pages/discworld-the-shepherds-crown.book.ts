@@ -11,7 +11,11 @@ export const discworldTheShepherdsCrown = {
   position: 41,
   ownLength: 71250,
   publishedAt: "2015-09-01",
-  source: "kindle",
-  externalId: "B00W2EBY8O",
-  externalLink: "https://www.amazon.com/gp/product/B00W2EBY8O",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00W2EBY8O",
+      externalLink: "https://www.amazon.com/gp/product/B00W2EBY8O",
+    },
+  ],
 } as const satisfies Book

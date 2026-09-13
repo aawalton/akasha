@@ -11,7 +11,11 @@ export const discworldGoingPostal = {
   position: 33,
   ownLength: 112000,
   publishedAt: "2009-10-13",
-  source: "kindle",
-  externalId: "B000W965QM",
-  externalLink: "https://www.amazon.com/gp/product/B000W965QM",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000W965QM",
+      externalLink: "https://www.amazon.com/gp/product/B000W965QM",
+    },
+  ],
 } as const satisfies Book

@@ -12,7 +12,11 @@ export const harryPotterHogwartsLibraryTheTalesOfBeedleTheBardAHarryPotterHogwar
   position: 2,
   ownLength: 36000,
   publishedAt: "2016-05-09",
-  source: "kindle",
-  externalId: "B01F3ET2SI",
-  externalLink: "https://amazon.com/dp/B01F3ET2SI",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B01F3ET2SI",
+      externalLink: "https://amazon.com/dp/B01F3ET2SI",
+    },
+  ],
 } as const satisfies Book

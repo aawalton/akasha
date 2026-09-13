@@ -13,7 +13,11 @@ export const alexaThymeSuitingUp = {
   ownProgress: 113000,
   publishedAt: "2024-04-27",
   partOfCollections: ["book-series/alexa-thyme"],
-  source: "kindle",
-  externalId: "B0D2WPW5PS",
-  externalLink: "https://amazon.com/dp/B0D2WPW5PS",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0D2WPW5PS",
+      externalLink: "https://amazon.com/dp/B0D2WPW5PS",
+    },
+  ],
 } as const satisfies Book

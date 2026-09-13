@@ -10,8 +10,12 @@ export const dresdenFilesDeathMasks = {
   unit: "words",
   position: 4,
   ownLength: 116000,
-  source: "kindle",
-  externalId: "B003X0AW6Q",
-  externalLink: "https://www.amazon.com/dp/B003X0AW6Q",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B003X0AW6Q",
+      externalLink: "https://www.amazon.com/dp/B003X0AW6Q",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

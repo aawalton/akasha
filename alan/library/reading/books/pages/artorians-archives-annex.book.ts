@@ -11,7 +11,11 @@ export const artoriansArchivesAnnex = {
   ownLength: 98750,
   ownProgress: 98750,
   publishedAt: "2020-02-14",
-  source: "kindle",
-  externalId: "B083F75GFS",
-  externalLink: "https://amazon.com/dp/B083F75GFS",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B083F75GFS",
+      externalLink: "https://amazon.com/dp/B083F75GFS",
+    },
+  ],
 } as const satisfies Book

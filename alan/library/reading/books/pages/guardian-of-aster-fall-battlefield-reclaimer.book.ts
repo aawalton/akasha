@@ -13,7 +13,11 @@ export const guardianOfAsterFallBattlefieldReclaimer = {
   ownProgress: 134250,
   publishedAt: "2021-09-03",
   partOfCollections: ["book-series/guardian-of-aster-fall"],
-  source: "kindle",
-  externalId: "B09CLKKF48",
-  externalLink: "https://amazon.com/dp/B09CLKKF48",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09CLKKF48",
+      externalLink: "https://amazon.com/dp/B09CLKKF48",
+    },
+  ],
 } as const satisfies Book

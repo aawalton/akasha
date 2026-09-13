@@ -13,7 +13,11 @@ export const aThousandLiTheFourthStage = {
   ownProgress: 109750,
   publishedAt: "2024-03-01",
   partOfCollections: ["book-series/a-thousand-li"],
-  source: "kindle",
-  externalId: "B0CDBBCJSJ",
-  externalLink: "https://amazon.com/dp/B0CDBBCJSJ",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CDBBCJSJ",
+      externalLink: "https://amazon.com/dp/B0CDBBCJSJ",
+    },
+  ],
 } as const satisfies Book

@@ -10,8 +10,12 @@ export const expeditionaryForceCriticalMass = {
   unit: "words",
   position: 9,
   ownLength: 98750,
-  source: "kindle",
-  externalId: "B08BR53HPT",
-  externalLink: "https://www.amazon.com/dp/B08BR53HPT",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08BR53HPT",
+      externalLink: "https://www.amazon.com/dp/B08BR53HPT",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

@@ -9,8 +9,12 @@ export const dresdenFilesStormFront = {
   author: "Jim Butcher",
   unit: "words",
   ownLength: 83000,
-  source: "kindle",
-  externalId: "B000WH7PLS",
-  externalLink: "https://www.amazon.com/dp/B000WH7PLS",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000WH7PLS",
+      externalLink: "https://www.amazon.com/dp/B000WH7PLS",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

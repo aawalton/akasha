@@ -11,7 +11,11 @@ export const disgardiumGloryToTheDominion = {
   ownLength: 126750,
   publishedAt: "2021-11-04",
   partOfCollections: ["book-series/disgardium"],
-  source: "kindle",
-  externalId: "B09C2KR6V6",
-  externalLink: "https://amazon.com/dp/B09C2KR6V6",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09C2KR6V6",
+      externalLink: "https://amazon.com/dp/B09C2KR6V6",
+    },
+  ],
 } as const satisfies Book

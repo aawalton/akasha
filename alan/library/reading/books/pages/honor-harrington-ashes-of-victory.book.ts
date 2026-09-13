@@ -10,8 +10,12 @@ export const honorHarringtonAshesOfVictory = {
   unit: "words",
   position: 8,
   ownLength: 169000,
-  source: "kindle",
-  externalId: "B00AP9CXG0",
-  externalLink: "https://www.amazon.com/dp/B00AP9CXG0",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00AP9CXG0",
+      externalLink: "https://www.amazon.com/dp/B00AP9CXG0",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

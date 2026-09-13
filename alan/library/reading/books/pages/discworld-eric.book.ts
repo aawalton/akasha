@@ -11,7 +11,11 @@ export const discworldEric = {
   position: 9,
   ownLength: 37250,
   publishedAt: "2012-12-20",
-  source: "kindle",
-  externalId: "B00GU32WNY",
-  externalLink: "https://amazon.com/dp/B00GU32WNY",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00GU32WNY",
+      externalLink: "https://amazon.com/dp/B00GU32WNY",
+    },
+  ],
 } as const satisfies Book

@@ -13,7 +13,11 @@ export const aThousandLiTheSecondExpedition = {
   ownProgress: 183500,
   publishedAt: "2020-10-01",
   partOfCollections: ["book-series/a-thousand-li"],
-  source: "kindle",
-  externalId: "B08HM79XKF",
-  externalLink: "https://amazon.com/dp/B08HM79XKF",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08HM79XKF",
+      externalLink: "https://amazon.com/dp/B08HM79XKF",
+    },
+  ],
 } as const satisfies Book

@@ -10,8 +10,12 @@ export const dresdenFilesTurnCoat = {
   unit: "words",
   position: 10,
   ownLength: 136250,
-  source: "kindle",
-  externalId: "B001V6P124",
-  externalLink: "https://www.amazon.com/dp/B001V6P124",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B001V6P124",
+      externalLink: "https://www.amazon.com/dp/B001V6P124",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

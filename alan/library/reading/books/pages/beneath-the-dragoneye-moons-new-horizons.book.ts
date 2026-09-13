@@ -13,7 +13,11 @@ export const beneathTheDragoneyeMoonsNewHorizons = {
   ownProgress: 213250,
   publishedAt: "2025-01-20",
   partOfCollections: ["book-series/beneath-the-dragoneye-moons"],
-  source: "kindle",
-  externalId: "B0DTGT97H7",
-  externalLink: "https://amazon.com/dp/B0DTGT97H7",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DTGT97H7",
+      externalLink: "https://amazon.com/dp/B0DTGT97H7",
+    },
+  ],
 } as const satisfies Book

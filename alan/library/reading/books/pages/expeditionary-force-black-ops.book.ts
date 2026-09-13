@@ -10,8 +10,12 @@ export const expeditionaryForceBlackOps = {
   unit: "words",
   position: 3,
   ownLength: 69500,
-  source: "kindle",
-  externalId: "B07121G4ZC",
-  externalLink: "https://www.amazon.com/dp/B07121G4ZC",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07121G4ZC",
+      externalLink: "https://www.amazon.com/dp/B07121G4ZC",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

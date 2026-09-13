@@ -12,8 +12,12 @@ export const chrysalisUppingTheAnte = {
   ownProgress: 177000,
   publishedAt: "2022-09-06",
   partOfCollections: ["book-series/chrysalis"],
-  source: "kindle",
-  externalId: "B0B2CF85JC",
-  externalLink: "https://amazon.com/dp/B0B2CF85JC",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0B2CF85JC",
+      externalLink: "https://amazon.com/dp/B0B2CF85JC",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

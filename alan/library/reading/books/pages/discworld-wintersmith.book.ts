@@ -11,7 +11,11 @@ export const discworldWintersmith = {
   position: 35,
   ownLength: 84000,
   publishedAt: "2009-10-06",
-  source: "kindle",
-  externalId: "B000JMKTE6",
-  externalLink: "https://www.amazon.com/gp/product/B000JMKTE6",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000JMKTE6",
+      externalLink: "https://www.amazon.com/gp/product/B000JMKTE6",
+    },
+  ],
 } as const satisfies Book

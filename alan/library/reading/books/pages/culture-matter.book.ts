@@ -10,8 +10,12 @@ export const cultureMatter = {
   unit: "words",
   position: 6,
   ownLength: 155000,
-  source: "kindle",
-  externalId: "B000VMHI98",
-  externalLink: "https://www.amazon.com/dp/B000VMHI98",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000VMHI98",
+      externalLink: "https://www.amazon.com/dp/B000VMHI98",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

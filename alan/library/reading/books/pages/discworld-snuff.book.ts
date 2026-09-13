@@ -11,7 +11,11 @@ export const discworldSnuff = {
   position: 39,
   ownLength: 103750,
   publishedAt: "2011-10-11",
-  source: "kindle",
-  externalId: "B005FFW46S",
-  externalLink: "https://www.amazon.com/gp/product/B005FFW46S",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B005FFW46S",
+      externalLink: "https://www.amazon.com/gp/product/B005FFW46S",
+    },
+  ],
 } as const satisfies Book

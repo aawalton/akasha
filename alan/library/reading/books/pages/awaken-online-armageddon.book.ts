@@ -12,7 +12,11 @@ export const awakenOnlineArmageddon = {
   ownProgress: 161250,
   publishedAt: "2022-10-01",
   partOfCollections: ["book-series/awaken-online"],
-  source: "kindle",
-  externalId: "B0B9D9QHLS",
-  externalLink: "https://amazon.com/dp/B0B9D9QHLS",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0B9D9QHLS",
+      externalLink: "https://amazon.com/dp/B0B9D9QHLS",
+    },
+  ],
 } as const satisfies Book

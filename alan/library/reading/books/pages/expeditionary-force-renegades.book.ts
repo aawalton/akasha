@@ -10,8 +10,12 @@ export const expeditionaryForceRenegades = {
   unit: "words",
   position: 6,
   ownLength: 79000,
-  source: "kindle",
-  externalId: "B07KMCKYRM",
-  externalLink: "https://www.amazon.com/dp/B07KMCKYRM",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07KMCKYRM",
+      externalLink: "https://www.amazon.com/dp/B07KMCKYRM",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

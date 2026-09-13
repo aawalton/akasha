@@ -10,7 +10,11 @@ export const artoriansArchivesAlgorithm = {
   position: 7,
   ownLength: 108000,
   publishedAt: "2021-04-28",
-  source: "kindle",
-  externalId: "B08XLWFRPM",
-  externalLink: "https://amazon.com/dp/B08XLWFRPM",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08XLWFRPM",
+      externalLink: "https://amazon.com/dp/B08XLWFRPM",
+    },
+  ],
 } as const satisfies Book

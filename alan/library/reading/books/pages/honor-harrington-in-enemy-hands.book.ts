@@ -11,8 +11,12 @@ export const honorHarringtonInEnemyHands = {
   position: 6,
   ownLength: 136250,
   publishedAt: "2013-12-04",
-  source: "kindle",
-  externalId: "B00APAR9AE",
-  externalLink: "https://www.amazon.com/dp/B00APAR9AE",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00APAR9AE",
+      externalLink: "https://www.amazon.com/dp/B00APAR9AE",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

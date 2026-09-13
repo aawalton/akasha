@@ -13,7 +13,11 @@ export const awakenOnlinePrecipice = {
   ownProgress: 149000,
   publishedAt: "2017-03-26",
   partOfCollections: ["book-series/awaken-online"],
-  source: "kindle",
-  externalId: "B01N5NPTUS",
-  externalLink: "https://amazon.com/dp/B01N5NPTUS",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B01N5NPTUS",
+      externalLink: "https://amazon.com/dp/B01N5NPTUS",
+    },
+  ],
 } as const satisfies Book

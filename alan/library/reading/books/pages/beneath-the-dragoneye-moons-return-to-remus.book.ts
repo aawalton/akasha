@@ -12,7 +12,11 @@ export const beneathTheDragoneyeMoonsReturnToRemus = {
   ownProgress: 121500,
   publishedAt: "2025-01-20",
   partOfCollections: ["book-series/beneath-the-dragoneye-moons"],
-  source: "kindle",
-  externalId: "B0DTKFTVYF",
-  externalLink: "https://amazon.com/dp/B0DTKFTVYF",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DTKFTVYF",
+      externalLink: "https://amazon.com/dp/B0DTKFTVYF",
+    },
+  ],
 } as const satisfies Book

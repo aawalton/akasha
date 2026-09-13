@@ -9,8 +9,12 @@ export const chalionTheHallowedHunt = {
   unit: "words",
   position: 2,
   ownLength: 112000,
-  source: "kindle",
-  externalId: "B000FCK55I",
-  externalLink: "https://www.amazon.com/dp/B000FCK55I",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000FCK55I",
+      externalLink: "https://www.amazon.com/dp/B000FCK55I",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

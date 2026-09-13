@@ -11,8 +11,12 @@ export const awakenOnlineTarotEmber = {
   ownLength: 111750,
   ownProgress: 111750,
   publishedAt: "2019-11-01",
-  source: "kindle",
-  externalId: "B07Z6F1MRT",
-  externalLink: "https://amazon.com/dp/B07Z6F1MRT",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07Z6F1MRT",
+      externalLink: "https://amazon.com/dp/B07Z6F1MRT",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

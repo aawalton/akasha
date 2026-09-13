@@ -9,8 +9,12 @@ export const chalionTheCurseOfChalion = {
   author: "Lois McMaster Bujold",
   unit: "words",
   ownLength: 128000,
-  source: "kindle",
-  externalId: "B000FC11AQ",
-  externalLink: "https://www.amazon.com/dp/B000FC11AQ",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000FC11AQ",
+      externalLink: "https://www.amazon.com/dp/B000FC11AQ",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

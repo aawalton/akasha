@@ -10,8 +10,12 @@ export const honorHarringtonARisingThunder = {
   unit: "words",
   position: 12,
   ownLength: 105750,
-  source: "kindle",
-  externalId: "B00AP987T2",
-  externalLink: "https://www.amazon.com/dp/B00AP987T2",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00AP987T2",
+      externalLink: "https://www.amazon.com/dp/B00AP987T2",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

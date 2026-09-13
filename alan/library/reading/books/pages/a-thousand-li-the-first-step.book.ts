@@ -13,7 +13,11 @@ export const aThousandLiTheFirstStep = {
   ownProgress: 76750,
   publishedAt: "2019-04-02",
   partOfCollections: ["book-series/a-thousand-li"],
-  source: "kindle",
-  externalId: "B07PKGSDDQ",
-  externalLink: "https://amazon.com/dp/B07PKGSDDQ",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07PKGSDDQ",
+      externalLink: "https://amazon.com/dp/B07PKGSDDQ",
+    },
+  ],
 } as const satisfies Book

@@ -12,7 +12,11 @@ export const awakenOnlineHellion = {
   ownProgress: 180500,
   publishedAt: "2021-05-01",
   partOfCollections: ["book-series/awaken-online"],
-  source: "kindle",
-  externalId: "B08XYCCH8Q",
-  externalLink: "https://amazon.com/dp/B08XYCCH8Q",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08XYCCH8Q",
+      externalLink: "https://amazon.com/dp/B08XYCCH8Q",
+    },
+  ],
 } as const satisfies Book

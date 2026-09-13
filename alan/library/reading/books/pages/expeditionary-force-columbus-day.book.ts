@@ -9,8 +9,12 @@ export const expeditionaryForceColumbusDay = {
   author: "Craig Alanson",
   unit: "words",
   ownLength: 76250,
-  source: "kindle",
-  externalId: "B01AIGC31E",
-  externalLink: "https://www.amazon.com/dp/B01AIGC31E",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B01AIGC31E",
+      externalLink: "https://www.amazon.com/dp/B01AIGC31E",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

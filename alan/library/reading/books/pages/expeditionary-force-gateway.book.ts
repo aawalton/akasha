@@ -10,8 +10,12 @@ export const expeditionaryForceGateway = {
   unit: "words",
   position: 17,
   ownLength: 111000,
-  source: "kindle",
-  externalId: "B0F1TZDB9L",
-  externalLink: "https://www.amazon.com/dp/B0F1TZDB9L",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0F1TZDB9L",
+      externalLink: "https://www.amazon.com/dp/B0F1TZDB9L",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

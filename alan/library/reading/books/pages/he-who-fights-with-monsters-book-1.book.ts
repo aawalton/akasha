@@ -13,7 +13,11 @@ export const heWhoFightsWithMonstersBook1 = {
   ownProgress: 170000,
   publishedAt: "2021-03-09",
   partOfCollections: ["book-series/he-who-fights-with-monsters"],
-  source: "kindle",
-  externalId: "B08WCT9W26",
-  externalLink: "https://amazon.com/dp/B08WCT9W26",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08WCT9W26",
+      externalLink: "https://amazon.com/dp/B08WCT9W26",
+    },
+  ],
 } as const satisfies Book

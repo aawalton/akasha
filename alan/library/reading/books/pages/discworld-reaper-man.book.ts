@@ -10,8 +10,12 @@ export const discworldReaperMan = {
   unit: "words",
   position: 11,
   ownLength: 76250,
-  source: "kindle",
-  externalId: "B000UVBT4A",
-  externalLink: "https://www.amazon.com/dp/B000UVBT4A",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000UVBT4A",
+      externalLink: "https://www.amazon.com/dp/B000UVBT4A",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

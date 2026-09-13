@@ -13,8 +13,12 @@ export const bewareOfChicken4 = {
   ownProgress: 181000,
   publishedAt: "2024-11-19",
   partOfCollections: ["book-series/beware-of-chicken"],
-  source: "kindle",
-  externalId: "B0CYZSLDJL",
-  externalLink: "https://amazon.com/dp/B0CYZSLDJL",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CYZSLDJL",
+      externalLink: "https://amazon.com/dp/B0CYZSLDJL",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

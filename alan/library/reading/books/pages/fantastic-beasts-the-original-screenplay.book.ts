@@ -11,7 +11,11 @@ export const fantasticBeastsTheOriginalScreenplay = {
   position: 2,
   ownLength: 75000,
   publishedAt: "2018-11-16",
-  source: "kindle",
-  externalId: "B07BL2PJ5R",
-  externalLink: "https://amazon.com/dp/B07BL2PJ5R",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07BL2PJ5R",
+      externalLink: "https://amazon.com/dp/B07BL2PJ5R",
+    },
+  ],
 } as const satisfies Book

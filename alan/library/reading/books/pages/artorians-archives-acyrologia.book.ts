@@ -10,7 +10,11 @@ export const artoriansArchivesAcyrologia = {
   position: 10,
   ownLength: 112000,
   publishedAt: "2022-05-25",
-  source: "kindle",
-  externalId: "B09ZQ12VGR",
-  externalLink: "https://amazon.com/dp/B09ZQ12VGR",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09ZQ12VGR",
+      externalLink: "https://amazon.com/dp/B09ZQ12VGR",
+    },
+  ],
 } as const satisfies Book

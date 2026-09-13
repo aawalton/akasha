@@ -12,7 +12,11 @@ export const dungeonCrawlerCarlTheEyeOfTheBedlamBride = {
   ownLength: 173500,
   publishedAt: "2023-07-02",
   partOfCollections: ["book-series/dungeon-crawler-carl"],
-  source: "kindle",
-  externalId: "B0C1R52V2J",
-  externalLink: "https://amazon.com/dp/B0C1R52V2J",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0C1R52V2J",
+      externalLink: "https://amazon.com/dp/B0C1R52V2J",
+    },
+  ],
 } as const satisfies Book

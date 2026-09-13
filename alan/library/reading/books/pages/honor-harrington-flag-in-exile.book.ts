@@ -10,8 +10,12 @@ export const honorHarringtonFlagInExile = {
   unit: "words",
   position: 4,
   ownLength: 106000,
-  source: "kindle",
-  externalId: "B00APAENUI",
-  externalLink: "https://www.amazon.com/dp/B00APAENUI",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00APAENUI",
+      externalLink: "https://www.amazon.com/dp/B00APAENUI",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

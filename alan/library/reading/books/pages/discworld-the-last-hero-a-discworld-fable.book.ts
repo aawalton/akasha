@@ -11,7 +11,11 @@ export const discworldTheLastHeroADiscworldFable = {
   position: 27,
   ownLength: 44000,
   publishedAt: "2002-08-20",
-  source: "kindle",
-  externalId: "0060507772",
-  externalLink: "https://www.amazon.com/gp/product/0060507772",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "0060507772",
+      externalLink: "https://www.amazon.com/gp/product/0060507772",
+    },
+  ],
 } as const satisfies Book

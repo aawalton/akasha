@@ -10,7 +10,11 @@ export const artoriansArchivesArtifact = {
   position: 8,
   ownLength: 104500,
   publishedAt: "2021-06-30",
-  source: "kindle",
-  externalId: "B095XHXJ4Q",
-  externalLink: "https://amazon.com/dp/B095XHXJ4Q",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B095XHXJ4Q",
+      externalLink: "https://amazon.com/dp/B095XHXJ4Q",
+    },
+  ],
 } as const satisfies Book

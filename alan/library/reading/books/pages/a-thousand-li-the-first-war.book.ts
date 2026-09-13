@@ -13,7 +13,11 @@ export const aThousandLiTheFirstWar = {
   ownProgress: 74750,
   publishedAt: "2020-04-01",
   partOfCollections: ["book-series/a-thousand-li"],
-  source: "kindle",
-  externalId: "B083GBL8XT",
-  externalLink: "https://amazon.com/dp/B083GBL8XT",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B083GBL8XT",
+      externalLink: "https://amazon.com/dp/B083GBL8XT",
+    },
+  ],
 } as const satisfies Book

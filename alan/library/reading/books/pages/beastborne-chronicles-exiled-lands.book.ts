@@ -11,7 +11,11 @@ export const beastborneChroniclesExiledLands = {
   ownLength: 333500,
   ownProgress: 333500,
   publishedAt: "2020-10-24",
-  source: "kindle",
-  externalId: "B08LTWXSVV",
-  externalLink: "https://amazon.com/dp/B08LTWXSVV",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08LTWXSVV",
+      externalLink: "https://amazon.com/dp/B08LTWXSVV",
+    },
+  ],
 } as const satisfies Book

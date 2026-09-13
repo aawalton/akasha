@@ -11,7 +11,11 @@ export const earthenContendersUnexpectedHealer = {
   ownLength: 95250,
   ownProgress: 95250,
   publishedAt: "2024-02-28",
-  source: "kindle",
-  externalId: "B0CV674LHM",
-  externalLink: "https://amazon.com/dp/B0CV674LHM",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CV674LHM",
+      externalLink: "https://amazon.com/dp/B0CV674LHM",
+    },
+  ],
 } as const satisfies Book

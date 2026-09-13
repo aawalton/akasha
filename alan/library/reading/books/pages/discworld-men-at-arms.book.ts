@@ -10,8 +10,12 @@ export const discworldMenAtArms = {
   unit: "words",
   position: 15,
   ownLength: 99750,
-  source: "kindle",
-  externalId: "B000TU16RC",
-  externalLink: "https://www.amazon.com/dp/B000TU16RC",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000TU16RC",
+      externalLink: "https://www.amazon.com/dp/B000TU16RC",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

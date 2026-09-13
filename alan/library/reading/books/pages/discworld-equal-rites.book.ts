@@ -10,8 +10,12 @@ export const discworldEqualRites = {
   unit: "words",
   position: 3,
   ownLength: 64000,
-  source: "kindle",
-  externalId: "B000W9393Y",
-  externalLink: "https://www.amazon.com/dp/B000W9393Y",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000W9393Y",
+      externalLink: "https://www.amazon.com/dp/B000W9393Y",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

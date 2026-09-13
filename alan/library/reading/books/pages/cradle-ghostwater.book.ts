@@ -13,7 +13,11 @@ export const cradleGhostwater = {
   ownProgress: 76250,
   publishedAt: "2018-05-31",
   partOfCollections: ["book-series/cradle"],
-  source: "kindle",
-  externalId: "B07DFWZP9C",
-  externalLink: "https://amazon.com/dp/B07DFWZP9C",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07DFWZP9C",
+      externalLink: "https://amazon.com/dp/B07DFWZP9C",
+    },
+  ],
 } as const satisfies Book

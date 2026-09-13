@@ -13,7 +13,11 @@ export const aTouchOfPowerInsight = {
   ownProgress: 106000,
   publishedAt: "2025-06-25",
   partOfCollections: ["book-series/a-touch-of-power"],
-  source: "kindle",
-  externalId: "B0FFP79SJ5",
-  externalLink: "https://amazon.com/dp/B0FFP79SJ5",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0FFP79SJ5",
+      externalLink: "https://amazon.com/dp/B0FFP79SJ5",
+    },
+  ],
 } as const satisfies Book

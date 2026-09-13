@@ -10,7 +10,11 @@ export const artoriansArchivesAnaheim = {
   position: 17,
   ownLength: 124500,
   publishedAt: "2024-02-21",
-  source: "kindle",
-  externalId: "B0CNG132B7",
-  externalLink: "https://amazon.com/dp/B0CNG132B7",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CNG132B7",
+      externalLink: "https://amazon.com/dp/B0CNG132B7",
+    },
+  ],
 } as const satisfies Book

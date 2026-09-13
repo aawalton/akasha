@@ -13,7 +13,11 @@ export const dragonHeartSeaOfSorrow = {
   ownProgress: 118250,
   publishedAt: "2020-03-11",
   partOfCollections: ["book-series/dragon-heart"],
-  source: "kindle",
-  externalId: "B082S3HBHV",
-  externalLink: "https://amazon.com/dp/B082S3HBHV",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B082S3HBHV",
+      externalLink: "https://amazon.com/dp/B082S3HBHV",
+    },
+  ],
 } as const satisfies Book

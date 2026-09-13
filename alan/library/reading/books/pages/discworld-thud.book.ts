@@ -11,7 +11,11 @@ export const discworldThud = {
   position: 34,
   ownLength: 104000,
   publishedAt: "2009-10-13",
-  source: "kindle",
-  externalId: "B000FCKCXS",
-  externalLink: "https://www.amazon.com/gp/product/B000FCKCXS",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000FCKCXS",
+      externalLink: "https://www.amazon.com/gp/product/B000FCKCXS",
+    },
+  ],
 } as const satisfies Book

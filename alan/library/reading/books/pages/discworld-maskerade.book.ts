@@ -10,8 +10,12 @@ export const discworldMaskerade = {
   unit: "words",
   position: 18,
   ownLength: 87750,
-  source: "kindle",
-  externalId: "B000UVBT36",
-  externalLink: "https://www.amazon.com/dp/B000UVBT36",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000UVBT36",
+      externalLink: "https://www.amazon.com/dp/B000UVBT36",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

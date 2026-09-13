@@ -12,7 +12,11 @@ export const disgardiumApostleOfTheSleepingGods = {
   ownProgress: 141250,
   publishedAt: "2019-06-10",
   partOfCollections: ["book-series/disgardium"],
-  source: "kindle",
-  externalId: "B07Q15DWNC",
-  externalLink: "https://amazon.com/dp/B07Q15DWNC",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07Q15DWNC",
+      externalLink: "https://amazon.com/dp/B07Q15DWNC",
+    },
+  ],
 } as const satisfies Book

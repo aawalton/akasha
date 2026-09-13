@@ -10,8 +10,12 @@ export const bobiverseForWeAreMany = {
   unit: "words",
   position: 1,
   ownLength: 80250,
-  source: "kindle",
-  externalId: "B01MZI77C0",
-  externalLink: "https://www.amazon.com/dp/B01MZI77C0",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B01MZI77C0",
+      externalLink: "https://www.amazon.com/dp/B01MZI77C0",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

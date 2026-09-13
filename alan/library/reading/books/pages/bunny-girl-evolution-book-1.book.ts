@@ -13,7 +13,11 @@ export const bunnyGirlEvolutionBook1 = {
   ownProgress: 157000,
   publishedAt: "2025-07-01",
   partOfCollections: ["book-series/bunny-girl-evolution"],
-  source: "kindle",
-  externalId: "B0F9NR9G4D",
-  externalLink: "https://amazon.com/dp/B0F9NR9G4D",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0F9NR9G4D",
+      externalLink: "https://amazon.com/dp/B0F9NR9G4D",
+    },
+  ],
 } as const satisfies Book

@@ -10,8 +10,12 @@ export const expeditionaryForceBrushfire = {
   unit: "words",
   position: 10,
   ownLength: 98500,
-  source: "kindle",
-  externalId: "B08KSGPBTF",
-  externalLink: "https://www.amazon.com/dp/B08KSGPBTF",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08KSGPBTF",
+      externalLink: "https://www.amazon.com/dp/B08KSGPBTF",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

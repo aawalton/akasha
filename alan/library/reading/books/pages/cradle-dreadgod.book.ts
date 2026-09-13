@@ -13,7 +13,11 @@ export const cradleDreadgod = {
   ownProgress: 121500,
   publishedAt: "2022-07-05",
   partOfCollections: ["book-series/cradle"],
-  source: "kindle",
-  externalId: "B0B4MY8PN8",
-  externalLink: "https://amazon.com/dp/B0B4MY8PN8",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0B4MY8PN8",
+      externalLink: "https://amazon.com/dp/B0B4MY8PN8",
+    },
+  ],
 } as const satisfies Book

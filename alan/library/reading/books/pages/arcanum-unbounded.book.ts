@@ -10,8 +10,12 @@ export const arcanumUnbounded = {
   unit: "words",
   position: 3,
   ownLength: 167750,
-  source: "kindle",
-  externalId: "B01EFIH09G",
-  externalLink:
-    "https://www.amazon.com/Arcanum-Unbounded-Collection-Brandon-Sanderson-ebook/dp/B01EFIH09G",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B01EFIH09G",
+      externalLink:
+        "https://www.amazon.com/Arcanum-Unbounded-Collection-Brandon-Sanderson-ebook/dp/B01EFIH09G",
+    },
+  ],
 } as const satisfies Book

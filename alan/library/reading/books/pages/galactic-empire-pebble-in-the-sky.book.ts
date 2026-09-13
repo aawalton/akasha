@@ -10,8 +10,12 @@ export const galacticEmpirePebbleInTheSky = {
   unit: "words",
   position: 2,
   ownLength: 61500,
-  source: "kindle",
-  externalId: "B08GK17BXQ",
-  externalLink: "https://www.amazon.com/dp/B08GK17BXQ",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08GK17BXQ",
+      externalLink: "https://www.amazon.com/dp/B08GK17BXQ",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

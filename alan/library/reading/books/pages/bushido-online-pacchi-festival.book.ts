@@ -12,7 +12,11 @@ export const bushidoOnlinePacchiFestival = {
   ownProgress: 108000,
   publishedAt: "2021-08-02",
   partOfCollections: ["book-series/bushido-online"],
-  source: "kindle",
-  externalId: "B096KV4K9C",
-  externalLink: "https://amazon.com/dp/B096KV4K9C",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B096KV4K9C",
+      externalLink: "https://amazon.com/dp/B096KV4K9C",
+    },
+  ],
 } as const satisfies Book

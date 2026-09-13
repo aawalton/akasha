@@ -10,8 +10,12 @@ export const discworldHogfather = {
   unit: "words",
   position: 20,
   ownLength: 88750,
-  source: "kindle",
-  externalId: "B000W5MIGC",
-  externalLink: "https://www.amazon.com/dp/B000W5MIGC",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000W5MIGC",
+      externalLink: "https://www.amazon.com/dp/B000W5MIGC",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

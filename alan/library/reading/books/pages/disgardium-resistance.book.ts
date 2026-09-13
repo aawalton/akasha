@@ -12,7 +12,11 @@ export const disgardiumResistance = {
   ownProgress: 128250,
   publishedAt: "2020-04-29",
   partOfCollections: ["book-series/disgardium"],
-  source: "kindle",
-  externalId: "B084VPKL7N",
-  externalLink: "https://amazon.com/dp/B084VPKL7N",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B084VPKL7N",
+      externalLink: "https://amazon.com/dp/B084VPKL7N",
+    },
+  ],
 } as const satisfies Book

@@ -12,7 +12,11 @@ export const chrysalisAntvanceIntoTheUnknown = {
   ownProgress: 188000,
   publishedAt: "2024-09-11",
   partOfCollections: ["book-series/chrysalis"],
-  source: "kindle",
-  externalId: "B0D94PLGPC",
-  externalLink: "https://amazon.com/dp/B0D94PLGPC",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0D94PLGPC",
+      externalLink: "https://amazon.com/dp/B0D94PLGPC",
+    },
+  ],
 } as const satisfies Book

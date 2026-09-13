@@ -9,8 +9,12 @@ export const honorHarringtonCrownOfSlavesTorchOfFreedom = {
   unit: "words",
   position: 1,
   ownLength: 148000,
-  source: "kindle",
-  externalId: "B00AP9CMWU",
-  externalLink: "https://www.amazon.com/dp/B00AP9CMWU",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00AP9CMWU",
+      externalLink: "https://www.amazon.com/dp/B00AP9CMWU",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

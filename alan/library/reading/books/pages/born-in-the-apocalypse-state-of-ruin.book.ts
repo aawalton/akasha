@@ -10,7 +10,11 @@ export const bornInTheApocalypseStateOfRuin = {
   position: 2,
   ownLength: 40750,
   publishedAt: "2016-09-16",
-  source: "kindle",
-  externalId: "B01LZ650J0",
-  externalLink: "https://amazon.com/dp/B01LZ650J0",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B01LZ650J0",
+      externalLink: "https://amazon.com/dp/B01LZ650J0",
+    },
+  ],
 } as const satisfies Book

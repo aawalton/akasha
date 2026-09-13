@@ -11,7 +11,11 @@ export const disgardiumPathOfSpirit = {
   ownLength: 128750,
   publishedAt: "2021-02-17",
   partOfCollections: ["book-series/disgardium"],
-  source: "kindle",
-  externalId: "B08NZ2G98P",
-  externalLink: "https://amazon.com/dp/B08NZ2G98P",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08NZ2G98P",
+      externalLink: "https://amazon.com/dp/B08NZ2G98P",
+    },
+  ],
 } as const satisfies Book

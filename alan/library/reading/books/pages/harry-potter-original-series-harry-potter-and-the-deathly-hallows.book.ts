@@ -12,7 +12,11 @@ export const harryPotterOriginalSeriesHarryPotterAndTheDeathlyHallows = {
   ownLength: 191500,
   ownProgress: 191500,
   publishedAt: "2015-12-08",
-  source: "kindle",
-  externalId: "B0192CTMWS",
-  externalLink: "https://amazon.com/dp/B0192CTMWS",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0192CTMWS",
+      externalLink: "https://amazon.com/dp/B0192CTMWS",
+    },
+  ],
 } as const satisfies Book

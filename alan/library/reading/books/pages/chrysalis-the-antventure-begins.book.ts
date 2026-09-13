@@ -12,7 +12,11 @@ export const chrysalisTheAntventureBegins = {
   ownProgress: 166000,
   publishedAt: "2022-06-07",
   partOfCollections: ["book-series/chrysalis"],
-  source: "kindle",
-  externalId: "B09T7ZN7NC",
-  externalLink: "https://amazon.com/dp/B09T7ZN7NC",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09T7ZN7NC",
+      externalLink: "https://amazon.com/dp/B09T7ZN7NC",
+    },
+  ],
 } as const satisfies Book

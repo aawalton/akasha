@@ -10,8 +10,12 @@ export const dresdenFilesDeadBeat = {
   unit: "words",
   position: 6,
   ownLength: 102000,
-  source: "kindle",
-  externalId: "B000PDYVQ6",
-  externalLink: "https://www.amazon.com/dp/B000PDYVQ6",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000PDYVQ6",
+      externalLink: "https://www.amazon.com/dp/B000PDYVQ6",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

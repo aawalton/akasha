@@ -10,8 +10,12 @@ export const discworldMovingPictures = {
   unit: "words",
   position: 10,
   ownLength: 103500,
-  source: "kindle",
-  externalId: "B000UVBT3G",
-  externalLink: "https://www.amazon.com/dp/B000UVBT3G",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000UVBT3G",
+      externalLink: "https://www.amazon.com/dp/B000UVBT3G",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

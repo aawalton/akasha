@@ -10,8 +10,12 @@ export const expeditionaryForceMavericks = {
   unit: "words",
   position: 5,
   ownLength: 72750,
-  source: "kindle",
-  externalId: "B07DG2TVWQ",
-  externalLink: "https://www.amazon.com/dp/B07DG2TVWQ",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07DG2TVWQ",
+      externalLink: "https://www.amazon.com/dp/B07DG2TVWQ",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

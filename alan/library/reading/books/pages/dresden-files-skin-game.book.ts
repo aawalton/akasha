@@ -10,8 +10,12 @@ export const dresdenFilesSkinGame = {
   unit: "words",
   position: 14,
   ownLength: 152250,
-  source: "kindle",
-  externalId: "B00HUVUSZ4",
-  externalLink: "https://www.amazon.com/dp/B00HUVUSZ4",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00HUVUSZ4",
+      externalLink: "https://www.amazon.com/dp/B00HUVUSZ4",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

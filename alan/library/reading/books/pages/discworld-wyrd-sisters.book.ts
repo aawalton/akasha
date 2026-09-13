@@ -10,8 +10,12 @@ export const discworldWyrdSisters = {
   unit: "words",
   position: 6,
   ownLength: 83500,
-  source: "kindle",
-  externalId: "B000W94DZC",
-  externalLink: "https://www.amazon.com/dp/B000W94DZC",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000W94DZC",
+      externalLink: "https://www.amazon.com/dp/B000W94DZC",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

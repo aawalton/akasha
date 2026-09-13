@@ -13,7 +13,11 @@ export const aThousandLiTheFourthFall = {
   ownProgress: 119250,
   publishedAt: "2024-11-01",
   partOfCollections: ["book-series/a-thousand-li"],
-  source: "kindle",
-  externalId: "B0CW173YZX",
-  externalLink: "https://amazon.com/dp/B0CW173YZX",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CW173YZX",
+      externalLink: "https://amazon.com/dp/B0CW173YZX",
+    },
+  ],
 } as const satisfies Book

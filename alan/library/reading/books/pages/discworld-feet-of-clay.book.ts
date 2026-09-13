@@ -10,8 +10,12 @@ export const discworldFeetOfClay = {
   unit: "words",
   position: 19,
   ownLength: 92750,
-  source: "kindle",
-  externalId: "B000TU16OU",
-  externalLink: "https://www.amazon.com/dp/B000TU16OU",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000TU16OU",
+      externalLink: "https://www.amazon.com/dp/B000TU16OU",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

@@ -8,8 +8,12 @@ export const honorHarringtonStarKingdomABeautifulFriendship = {
   status: "not-started",
   unit: "words",
   ownLength: 69250,
-  source: "kindle",
-  externalId: "B00AP9CHS4",
-  externalLink: "https://www.amazon.com/dp/B00AP9CHS4",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00AP9CHS4",
+      externalLink: "https://www.amazon.com/dp/B00AP9CHS4",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

@@ -12,7 +12,11 @@ export const harryPotterHogwartsLibraryQuidditchThroughTheAgesAHarryPotterHogwar
   position: 1,
   ownLength: 15750,
   publishedAt: "2016-05-09",
-  source: "kindle",
-  externalId: "B01F3ET2QU",
-  externalLink: "https://amazon.com/dp/B01F3ET2QU",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B01F3ET2QU",
+      externalLink: "https://amazon.com/dp/B01F3ET2QU",
+    },
+  ],
 } as const satisfies Book

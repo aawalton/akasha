@@ -9,8 +9,12 @@ export const honorHarringtonCrownOfSlavesToEndInFire = {
   unit: "words",
   position: 3,
   ownLength: 214000,
-  source: "kindle",
-  externalId: "B09HJBVD4H",
-  externalLink: "https://www.amazon.com/dp/B09HJBVD4H",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09HJBVD4H",
+      externalLink: "https://www.amazon.com/dp/B09HJBVD4H",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

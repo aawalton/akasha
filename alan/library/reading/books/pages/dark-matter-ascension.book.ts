@@ -11,7 +11,11 @@ export const darkMatterAscension = {
   position: 1,
   ownLength: 175250,
   publishedAt: "2025-03-31",
-  source: "kindle",
-  externalId: "B0DZDBYDTR",
-  externalLink: "https://amazon.com/dp/B0DZDBYDTR",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DZDBYDTR",
+      externalLink: "https://amazon.com/dp/B0DZDBYDTR",
+    },
+  ],
 } as const satisfies Book

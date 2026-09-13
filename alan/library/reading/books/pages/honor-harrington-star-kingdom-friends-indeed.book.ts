@@ -9,8 +9,12 @@ export const honorHarringtonStarKingdomFriendsIndeed = {
   unit: "words",
   position: 4,
   ownLength: 134500,
-  source: "kindle",
-  externalId: "B0DMPPZR1D",
-  externalLink: "https://www.amazon.com/dp/B0DMPPZR1D",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DMPPZR1D",
+      externalLink: "https://www.amazon.com/dp/B0DMPPZR1D",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

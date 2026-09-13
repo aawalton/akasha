@@ -12,7 +12,11 @@ export const harryPotterOriginalSeriesHarryPotterAndTheHalfBloodPrince = {
   ownLength: 163000,
   ownProgress: 163000,
   publishedAt: "2015-12-08",
-  source: "kindle",
-  externalId: "B0192CTMWI",
-  externalLink: "https://amazon.com/dp/B0192CTMWI",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0192CTMWI",
+      externalLink: "https://amazon.com/dp/B0192CTMWI",
+    },
+  ],
 } as const satisfies Book

@@ -13,7 +13,11 @@ export const cradleReaper = {
   ownProgress: 110500,
   publishedAt: "2021-11-02",
   partOfCollections: ["book-series/cradle"],
-  source: "kindle",
-  externalId: "B09JS55FW3",
-  externalLink: "https://amazon.com/dp/B09JS55FW3",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09JS55FW3",
+      externalLink: "https://amazon.com/dp/B09JS55FW3",
+    },
+  ],
 } as const satisfies Book

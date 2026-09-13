@@ -11,7 +11,11 @@ export const disgardiumClearThreat = {
   ownLength: 137750,
   publishedAt: "2022-02-25",
   partOfCollections: ["book-series/disgardium"],
-  source: "kindle",
-  externalId: "B09MMJJHVG",
-  externalLink: "https://amazon.com/dp/B09MMJJHVG",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09MMJJHVG",
+      externalLink: "https://amazon.com/dp/B09MMJJHVG",
+    },
+  ],
 } as const satisfies Book

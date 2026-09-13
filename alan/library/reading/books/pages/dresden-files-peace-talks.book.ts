@@ -10,8 +10,12 @@ export const dresdenFilesPeaceTalks = {
   unit: "words",
   position: 15,
   ownLength: 87000,
-  source: "kindle",
-  externalId: "B082S1N87S",
-  externalLink: "https://www.amazon.com/dp/B082S1N87S",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B082S1N87S",
+      externalLink: "https://www.amazon.com/dp/B082S1N87S",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

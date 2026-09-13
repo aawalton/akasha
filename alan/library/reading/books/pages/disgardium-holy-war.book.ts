@@ -12,7 +12,11 @@ export const disgardiumHolyWar = {
   ownProgress: 131750,
   publishedAt: "2020-09-04",
   partOfCollections: ["book-series/disgardium"],
-  source: "kindle",
-  externalId: "B08BJ8Q283",
-  externalLink: "https://amazon.com/dp/B08BJ8Q283",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08BJ8Q283",
+      externalLink: "https://amazon.com/dp/B08BJ8Q283",
+    },
+  ],
 } as const satisfies Book

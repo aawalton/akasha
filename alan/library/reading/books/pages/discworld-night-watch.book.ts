@@ -11,7 +11,11 @@ export const discworldNightWatch = {
   position: 29,
   ownLength: 107750,
   publishedAt: "2009-10-13",
-  source: "kindle",
-  externalId: "B000W912Q0",
-  externalLink: "https://www.amazon.com/gp/product/B000W912Q0",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000W912Q0",
+      externalLink: "https://www.amazon.com/gp/product/B000W912Q0",
+    },
+  ],
 } as const satisfies Book

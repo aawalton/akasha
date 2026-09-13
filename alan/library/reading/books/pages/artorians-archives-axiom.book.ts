@@ -11,7 +11,11 @@ export const artoriansArchivesAxiom = {
   ownLength: 111000,
   ownProgress: 111000,
   publishedAt: "2019-11-29",
-  source: "kindle",
-  externalId: "B07ZXLHMHK",
-  externalLink: "https://amazon.com/dp/B07ZXLHMHK",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07ZXLHMHK",
+      externalLink: "https://amazon.com/dp/B07ZXLHMHK",
+    },
+  ],
 } as const satisfies Book

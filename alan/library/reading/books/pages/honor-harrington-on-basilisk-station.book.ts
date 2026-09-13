@@ -10,8 +10,12 @@ export const honorHarringtonOnBasiliskStation = {
   unit: "words",
   ownLength: 84500,
   ownProgress: 1250,
-  source: "kindle",
-  externalId: "B00ARPJBS0",
-  externalLink: "https://www.amazon.com/dp/B00ARPJBS0",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00ARPJBS0",
+      externalLink: "https://www.amazon.com/dp/B00ARPJBS0",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

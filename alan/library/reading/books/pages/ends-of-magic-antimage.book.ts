@@ -12,7 +12,11 @@ export const endsOfMagicAntimage = {
   ownProgress: 137000,
   publishedAt: "2023-10-10",
   partOfCollections: ["book-series/ends-of-magic"],
-  source: "kindle",
-  externalId: "B0CJBL9RXV",
-  externalLink: "https://amazon.com/dp/B0CJBL9RXV",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CJBL9RXV",
+      externalLink: "https://amazon.com/dp/B0CJBL9RXV",
+    },
+  ],
 } as const satisfies Book

@@ -11,7 +11,11 @@ export const disgardiumEnemyOfTheInferno = {
   ownLength: 116750,
   publishedAt: "2021-08-09",
   partOfCollections: ["book-series/disgardium"],
-  source: "kindle",
-  externalId: "B094DHTJP2",
-  externalLink: "https://amazon.com/dp/B094DHTJP2",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B094DHTJP2",
+      externalLink: "https://amazon.com/dp/B094DHTJP2",
+    },
+  ],
 } as const satisfies Book

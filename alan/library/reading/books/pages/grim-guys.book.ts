@@ -11,7 +11,11 @@ export const grimGuys = {
   position: 1,
   ownLength: 105500,
   publishedAt: "2024-12-01",
-  source: "kindle",
-  externalId: "B0DPGB8214",
-  externalLink: "https://amazon.com/dp/B0DPGB8214",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DPGB8214",
+      externalLink: "https://amazon.com/dp/B0DPGB8214",
+    },
+  ],
 } as const satisfies Book

@@ -11,7 +11,11 @@ export const fantasticBeastsFantasticBeastsAndWhereToFindThemTheOriginalScreenpl
   position: 1,
   ownLength: 75500,
   publishedAt: "2016-11-18",
-  source: "kindle",
-  externalId: "B01ETJABQK",
-  externalLink: "https://amazon.com/dp/B01ETJABQK",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B01ETJABQK",
+      externalLink: "https://amazon.com/dp/B01ETJABQK",
+    },
+  ],
 } as const satisfies Book

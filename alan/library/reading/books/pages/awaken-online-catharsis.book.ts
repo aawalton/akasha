@@ -13,7 +13,11 @@ export const awakenOnlineCatharsis = {
   ownProgress: 131750,
   publishedAt: "2016-07-23",
   partOfCollections: ["book-series/awaken-online"],
-  source: "kindle",
-  externalId: "B01J0E8Z8A",
-  externalLink: "https://amazon.com/dp/B01J0E8Z8A",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B01J0E8Z8A",
+      externalLink: "https://amazon.com/dp/B01J0E8Z8A",
+    },
+  ],
 } as const satisfies Book

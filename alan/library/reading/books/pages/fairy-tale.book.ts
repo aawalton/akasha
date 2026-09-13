@@ -8,9 +8,13 @@ export const fairyTale = {
   status: "completed",
   author: "Stephen King",
   unit: "words",
-  source: "open-library",
-  externalId: "OL27589863W",
-  externalLink: "https://openlibrary.org/works/OL27589863W",
+  externalIdentity: [
+    {
+      source: "open-library",
+      externalId: "OL27589863W",
+      externalLink: "https://openlibrary.org/works/OL27589863W",
+    },
+  ],
   isbn: "3453273990",
   isbn13: "9781668002186",
   publisher: "Knopf Doubleday Publishing Group",

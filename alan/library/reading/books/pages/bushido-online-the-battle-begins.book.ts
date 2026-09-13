@@ -12,7 +12,11 @@ export const bushidoOnlineTheBattleBegins = {
   ownProgress: 82250,
   publishedAt: "2017-08-31",
   partOfCollections: ["book-series/bushido-online"],
-  source: "kindle",
-  externalId: "B0759XBQNW",
-  externalLink: "https://amazon.com/dp/B0759XBQNW",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0759XBQNW",
+      externalLink: "https://amazon.com/dp/B0759XBQNW",
+    },
+  ],
 } as const satisfies Book

@@ -11,7 +11,11 @@ export const disgardiumOutOfPlay = {
   ownLength: 137750,
   publishedAt: "2022-07-27",
   partOfCollections: ["book-series/disgardium"],
-  source: "kindle",
-  externalId: "B0B3S67XR4",
-  externalLink: "https://amazon.com/dp/B0B3S67XR4",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0B3S67XR4",
+      externalLink: "https://amazon.com/dp/B0B3S67XR4",
+    },
+  ],
 } as const satisfies Book

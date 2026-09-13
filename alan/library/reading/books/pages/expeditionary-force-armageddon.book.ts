@@ -10,8 +10,12 @@ export const expeditionaryForceArmageddon = {
   unit: "words",
   position: 7,
   ownLength: 149500,
-  source: "kindle",
-  externalId: "B07VNYQMWQ",
-  externalLink: "https://www.amazon.com/dp/B07VNYQMWQ",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07VNYQMWQ",
+      externalLink: "https://www.amazon.com/dp/B07VNYQMWQ",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

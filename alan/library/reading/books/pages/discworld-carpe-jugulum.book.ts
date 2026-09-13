@@ -11,7 +11,11 @@ export const discworldCarpeJugulum = {
   position: 22,
   ownLength: 96000,
   publishedAt: "2009-10-13",
-  source: "kindle",
-  externalId: "B000W5MI9Y",
-  externalLink: "https://www.amazon.com/gp/product/B000W5MI9Y",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000W5MI9Y",
+      externalLink: "https://www.amazon.com/gp/product/B000W5MI9Y",
+    },
+  ],
 } as const satisfies Book

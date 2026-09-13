@@ -13,7 +13,11 @@ export const anOutcastInAnotherWorld3 = {
   ownProgress: 192250,
   publishedAt: "2022-06-09",
   partOfCollections: ["book-series/an-outcast-in-another-world"],
-  source: "kindle",
-  externalId: "B0B2433VTD",
-  externalLink: "https://amazon.com/dp/B0B2433VTD",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0B2433VTD",
+      externalLink: "https://amazon.com/dp/B0B2433VTD",
+    },
+  ],
 } as const satisfies Book

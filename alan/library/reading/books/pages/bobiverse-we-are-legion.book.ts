@@ -9,8 +9,12 @@ export const bobiverseWeAreLegion = {
   author: "Dennis E. Taylor",
   unit: "words",
   ownLength: 95750,
-  source: "kindle",
-  externalId: "B01LWAESYQ",
-  externalLink: "https://www.amazon.com/dp/B01LWAESYQ",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B01LWAESYQ",
+      externalLink: "https://www.amazon.com/dp/B01LWAESYQ",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

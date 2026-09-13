@@ -11,7 +11,11 @@ export const bornInTheApocalypse = {
   position: 1,
   ownLength: 53500,
   publishedAt: "2016-03-20",
-  source: "kindle",
-  externalId: "B01D7ZF4P0",
-  externalLink: "https://amazon.com/dp/B01D7ZF4P0",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B01D7ZF4P0",
+      externalLink: "https://amazon.com/dp/B01D7ZF4P0",
+    },
+  ],
 } as const satisfies Book

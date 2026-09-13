@@ -9,8 +9,12 @@ export const daemon = {
   author: "Daniel Suarez",
   unit: "words",
   ownLength: 122250,
-  source: "kindle",
-  externalId: "B003QP4NPE",
-  externalLink: "https://www.amazon.com/dp/B003QP4NPE",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B003QP4NPE",
+      externalLink: "https://www.amazon.com/dp/B003QP4NPE",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

@@ -11,7 +11,11 @@ export const discworldMakingMoney = {
   position: 36,
   ownLength: 107000,
   publishedAt: "2009-10-13",
-  source: "kindle",
-  externalId: "B000SEHLE6",
-  externalLink: "https://www.amazon.com/gp/product/B000SEHLE6",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000SEHLE6",
+      externalLink: "https://www.amazon.com/gp/product/B000SEHLE6",
+    },
+  ],
 } as const satisfies Book

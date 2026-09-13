@@ -11,7 +11,11 @@ export const beastborneChroniclesTowerOfBlight = {
   ownLength: 144500,
   ownProgress: 144500,
   publishedAt: "2024-08-01",
-  source: "kindle",
-  externalId: "B0D7572GMZ",
-  externalLink: "https://amazon.com/dp/B0D7572GMZ",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0D7572GMZ",
+      externalLink: "https://amazon.com/dp/B0D7572GMZ",
+    },
+  ],
 } as const satisfies Book

@@ -13,8 +13,12 @@ export const dragonHeartSeaOfSand = {
   ownProgress: 73500,
   publishedAt: "2019-12-18",
   partOfCollections: ["book-series/dragon-heart"],
-  source: "kindle",
-  externalId: "B07YYMPG14",
-  externalLink: "https://amazon.com/dp/B07YYMPG14",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07YYMPG14",
+      externalLink: "https://amazon.com/dp/B07YYMPG14",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

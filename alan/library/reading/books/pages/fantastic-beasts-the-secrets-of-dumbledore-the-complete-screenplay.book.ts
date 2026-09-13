@@ -11,7 +11,11 @@ export const fantasticBeastsTheSecretsOfDumbledoreTheCompleteScreenplay = {
   position: 3,
   ownLength: 64750,
   publishedAt: "2022-07-19",
-  source: "kindle",
-  externalId: "B09WF65RV8",
-  externalLink: "https://amazon.com/dp/B09WF65RV8",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09WF65RV8",
+      externalLink: "https://amazon.com/dp/B09WF65RV8",
+    },
+  ],
 } as const satisfies Book

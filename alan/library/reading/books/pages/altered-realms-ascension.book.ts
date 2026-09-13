@@ -12,7 +12,11 @@ export const alteredRealmsAscension = {
   ownLength: 139250,
   publishedAt: "2020-04-28",
   partOfCollections: ["book-series/altered-realms"],
-  source: "kindle",
-  externalId: "B087TDNRSF",
-  externalLink: "https://amazon.com/dp/B087TDNRSF",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B087TDNRSF",
+      externalLink: "https://amazon.com/dp/B087TDNRSF",
+    },
+  ],
 } as const satisfies Book

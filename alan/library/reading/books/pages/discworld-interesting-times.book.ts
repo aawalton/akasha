@@ -10,8 +10,12 @@ export const discworldInterestingTimes = {
   unit: "words",
   position: 17,
   ownLength: 95750,
-  source: "kindle",
-  externalId: "B000TU16QI",
-  externalLink: "https://www.amazon.com/dp/B000TU16QI",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000TU16QI",
+      externalLink: "https://www.amazon.com/dp/B000TU16QI",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

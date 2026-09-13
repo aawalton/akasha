@@ -12,7 +12,11 @@ export const guardianOfAsterFallWorldSeal = {
   ownProgress: 119500,
   publishedAt: "2024-03-16",
   partOfCollections: ["book-series/guardian-of-aster-fall"],
-  source: "kindle",
-  externalId: "B0CG15JTYB",
-  externalLink: "https://amazon.com/dp/B0CG15JTYB",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CG15JTYB",
+      externalLink: "https://amazon.com/dp/B0CG15JTYB",
+    },
+  ],
 } as const satisfies Book

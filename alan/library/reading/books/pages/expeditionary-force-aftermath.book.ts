@@ -10,8 +10,12 @@ export const expeditionaryForceAftermath = {
   unit: "words",
   position: 15,
   ownLength: 117250,
-  source: "kindle",
-  externalId: "B0CGF6MXZ9",
-  externalLink: "https://www.amazon.com/dp/B0CGF6MXZ9",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CGF6MXZ9",
+      externalLink: "https://www.amazon.com/dp/B0CGF6MXZ9",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

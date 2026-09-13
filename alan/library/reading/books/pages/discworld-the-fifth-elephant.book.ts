@@ -11,7 +11,11 @@ export const discworldTheFifthElephant = {
   position: 24,
   ownLength: 104500,
   publishedAt: "2009-10-13",
-  source: "kindle",
-  externalId: "B000W5MI9E",
-  externalLink: "https://www.amazon.com/gp/product/B000W5MI9E",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000W5MI9E",
+      externalLink: "https://www.amazon.com/gp/product/B000W5MI9E",
+    },
+  ],
 } as const satisfies Book

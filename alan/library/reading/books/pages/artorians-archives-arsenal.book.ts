@@ -11,7 +11,11 @@ export const artoriansArchivesArsenal = {
   ownLength: 113500,
   ownProgress: 113500,
   publishedAt: "2020-07-03",
-  source: "kindle",
-  externalId: "B08B71JPK6",
-  externalLink: "https://amazon.com/dp/B08B71JPK6",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08B71JPK6",
+      externalLink: "https://amazon.com/dp/B08B71JPK6",
+    },
+  ],
 } as const satisfies Book

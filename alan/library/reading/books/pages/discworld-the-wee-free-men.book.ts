@@ -11,7 +11,11 @@ export const discworldTheWeeFreeMen = {
   position: 30,
   ownLength: 99750,
   publishedAt: "2009-10-06",
-  source: "kindle",
-  externalId: "B000R33QWY",
-  externalLink: "https://www.amazon.com/gp/product/B000R33QWY",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000R33QWY",
+      externalLink: "https://www.amazon.com/gp/product/B000R33QWY",
+    },
+  ],
 } as const satisfies Book

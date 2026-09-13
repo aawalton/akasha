@@ -11,7 +11,11 @@ export const awakenOnlineTarotInferno = {
   ownLength: 157500,
   ownProgress: 157500,
   publishedAt: "2020-10-03",
-  source: "kindle",
-  externalId: "B08GY8C39Q",
-  externalLink: "https://amazon.com/dp/B08GY8C39Q",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08GY8C39Q",
+      externalLink: "https://amazon.com/dp/B08GY8C39Q",
+    },
+  ],
 } as const satisfies Book

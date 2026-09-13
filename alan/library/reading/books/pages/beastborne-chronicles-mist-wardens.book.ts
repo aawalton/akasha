@@ -11,7 +11,11 @@ export const beastborneChroniclesMistWardens = {
   ownLength: 237750,
   ownProgress: 237750,
   publishedAt: "2021-06-01",
-  source: "kindle",
-  externalId: "B093DZ5C4R",
-  externalLink: "https://amazon.com/dp/B093DZ5C4R",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B093DZ5C4R",
+      externalLink: "https://amazon.com/dp/B093DZ5C4R",
+    },
+  ],
 } as const satisfies Book

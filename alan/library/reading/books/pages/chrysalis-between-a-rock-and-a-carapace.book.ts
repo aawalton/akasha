@@ -12,7 +12,11 @@ export const chrysalisBetweenARockAndACarapace = {
   ownProgress: 171000,
   publishedAt: "2023-06-20",
   partOfCollections: ["book-series/chrysalis"],
-  source: "kindle",
-  externalId: "B0BQZ8VN57",
-  externalLink: "https://amazon.com/dp/B0BQZ8VN57",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BQZ8VN57",
+      externalLink: "https://amazon.com/dp/B0BQZ8VN57",
+    },
+  ],
 } as const satisfies Book

@@ -12,7 +12,11 @@ export const disgardiumTheDestroyingPlague = {
   ownProgress: 128750,
   publishedAt: "2020-01-09",
   partOfCollections: ["book-series/disgardium"],
-  source: "kindle",
-  externalId: "B07ZPB3BV6",
-  externalLink: "https://amazon.com/dp/B07ZPB3BV6",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07ZPB3BV6",
+      externalLink: "https://amazon.com/dp/B07ZPB3BV6",
+    },
+  ],
 } as const satisfies Book

@@ -10,7 +10,11 @@ export const arcaneAscensionWhenWizardsFollowFools = {
   position: 5,
   ownLength: 135000,
   publishedAt: "2024-09-12",
-  source: "kindle",
-  externalId: "B0DGZDWBXR",
-  externalLink: "https://amazon.com/dp/B0DGZDWBXR",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DGZDWBXR",
+      externalLink: "https://amazon.com/dp/B0DGZDWBXR",
+    },
+  ],
 } as const satisfies Book

@@ -10,8 +10,12 @@ export const galacticEmpireTheCurrentsOfSpace = {
   unit: "words",
   position: 1,
   ownLength: 60500,
-  source: "kindle",
-  externalId: "B08GK12F2P",
-  externalLink: "https://www.amazon.com/dp/B08GK12F2P",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08GK12F2P",
+      externalLink: "https://www.amazon.com/dp/B08GK12F2P",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

@@ -10,8 +10,12 @@ export const cultureThePlayerOfGames = {
   unit: "words",
   position: 1,
   ownLength: 104250,
-  source: "kindle",
-  externalId: "B002WM3HC2",
-  externalLink: "https://www.amazon.com/dp/B002WM3HC2",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B002WM3HC2",
+      externalLink: "https://www.amazon.com/dp/B002WM3HC2",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

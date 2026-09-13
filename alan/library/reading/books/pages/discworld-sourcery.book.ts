@@ -10,8 +10,12 @@ export const discworldSourcery = {
   unit: "words",
   position: 5,
   ownLength: 79500,
-  source: "kindle",
-  externalId: "B000W913S2",
-  externalLink: "https://www.amazon.com/dp/B000W913S2",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000W913S2",
+      externalLink: "https://www.amazon.com/dp/B000W913S2",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

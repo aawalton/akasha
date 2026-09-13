@@ -10,8 +10,12 @@ export const daemonFreedom = {
   unit: "words",
   position: 1,
   ownLength: 104250,
-  source: "kindle",
-  externalId: "B002VUFKDY",
-  externalLink: "https://www.amazon.com/dp/B002VUFKDY",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B002VUFKDY",
+      externalLink: "https://www.amazon.com/dp/B002VUFKDY",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

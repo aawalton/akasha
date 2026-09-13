@@ -10,8 +10,12 @@ export const expeditionaryForceFailureMode = {
   unit: "words",
   position: 14,
   ownLength: 174250,
-  source: "kindle",
-  externalId: "B0BMNZ9T2B",
-  externalLink: "https://www.amazon.com/dp/B0BMNZ9T2B",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BMNZ9T2B",
+      externalLink: "https://www.amazon.com/dp/B0BMNZ9T2B",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

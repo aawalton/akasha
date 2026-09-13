@@ -11,7 +11,11 @@ export const disgardiumUnity = {
   ownLength: 135750,
   publishedAt: "2023-05-17",
   partOfCollections: ["book-series/disgardium"],
-  source: "kindle",
-  externalId: "B0BZ65MW45",
-  externalLink: "https://amazon.com/dp/B0BZ65MW45",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BZ65MW45",
+      externalLink: "https://amazon.com/dp/B0BZ65MW45",
+    },
+  ],
 } as const satisfies Book

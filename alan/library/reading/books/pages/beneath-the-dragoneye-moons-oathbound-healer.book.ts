@@ -13,7 +13,11 @@ export const beneathTheDragoneyeMoonsOathboundHealer = {
   ownProgress: 114750,
   publishedAt: "2025-01-16",
   partOfCollections: ["book-series/beneath-the-dragoneye-moons"],
-  source: "kindle",
-  externalId: "B0DT8T73PQ",
-  externalLink: "https://amazon.com/dp/B0DT8T73PQ",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DT8T73PQ",
+      externalLink: "https://amazon.com/dp/B0DT8T73PQ",
+    },
+  ],
 } as const satisfies Book

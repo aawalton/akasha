@@ -13,8 +13,12 @@ export const dragonHeartDemonCity = {
   ownProgress: 111000,
   publishedAt: "2021-12-05",
   partOfCollections: ["book-series/dragon-heart"],
-  source: "kindle",
-  externalId: "B09CL91C91",
-  externalLink: "https://amazon.com/dp/B09CL91C91",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09CL91C91",
+      externalLink: "https://amazon.com/dp/B09CL91C91",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

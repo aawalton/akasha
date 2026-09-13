@@ -9,8 +9,12 @@ export const galacticEmpireTheStarsLikeDust = {
   author: "Isaac Asimov",
   unit: "words",
   ownLength: 60750,
-  source: "kindle",
-  externalId: "B08GJZSFP6",
-  externalLink: "https://www.amazon.com/dp/B08GJZSFP6",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08GJZSFP6",
+      externalLink: "https://www.amazon.com/dp/B08GJZSFP6",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

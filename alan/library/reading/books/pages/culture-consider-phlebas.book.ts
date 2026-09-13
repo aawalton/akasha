@@ -9,8 +9,12 @@ export const cultureConsiderPhlebas = {
   author: "Iain Banks",
   unit: "words",
   ownLength: 136250,
-  source: "kindle",
-  externalId: "B0013TX6FI",
-  externalLink: "https://www.amazon.com/dp/B0013TX6FI",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0013TX6FI",
+      externalLink: "https://www.amazon.com/dp/B0013TX6FI",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

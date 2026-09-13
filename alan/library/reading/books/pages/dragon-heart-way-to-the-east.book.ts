@@ -13,7 +13,11 @@ export const dragonHeartWayToTheEast = {
   ownProgress: 104250,
   publishedAt: "2022-12-07",
   partOfCollections: ["book-series/dragon-heart"],
-  source: "kindle",
-  externalId: "B0BCK9YB8L",
-  externalLink: "https://amazon.com/dp/B0BCK9YB8L",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BCK9YB8L",
+      externalLink: "https://amazon.com/dp/B0BCK9YB8L",
+    },
+  ],
 } as const satisfies Book

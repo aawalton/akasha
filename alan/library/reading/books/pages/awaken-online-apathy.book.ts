@@ -13,7 +13,11 @@ export const awakenOnlineApathy = {
   ownProgress: 85500,
   publishedAt: "2018-07-26",
   partOfCollections: ["book-series/awaken-online"],
-  source: "kindle",
-  externalId: "B07FY3Z5Z3",
-  externalLink: "https://amazon.com/dp/B07FY3Z5Z3",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07FY3Z5Z3",
+      externalLink: "https://amazon.com/dp/B07FY3Z5Z3",
+    },
+  ],
 } as const satisfies Book

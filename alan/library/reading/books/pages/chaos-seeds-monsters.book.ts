@@ -13,7 +13,11 @@ export const chaosSeedsMonsters = {
   ownProgress: 120250,
   publishedAt: "2020-01-01",
   partOfCollections: ["book-series/chaos-seeds"],
-  source: "kindle",
-  externalId: "B08275CVM7",
-  externalLink: "https://amazon.com/dp/B08275CVM7",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08275CVM7",
+      externalLink: "https://amazon.com/dp/B08275CVM7",
+    },
+  ],
 } as const satisfies Book

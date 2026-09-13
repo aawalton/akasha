@@ -10,8 +10,12 @@ export const bobiverseAllTheseWorlds = {
   unit: "words",
   position: 2,
   ownLength: 70500,
-  source: "kindle",
-  externalId: "B0736185ZL",
-  externalLink: "https://www.amazon.com/dp/B0736185ZL",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0736185ZL",
+      externalLink: "https://www.amazon.com/dp/B0736185ZL",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

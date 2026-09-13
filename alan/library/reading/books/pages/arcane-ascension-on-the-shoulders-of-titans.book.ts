@@ -11,7 +11,11 @@ export const arcaneAscensionOnTheShouldersOfTitans = {
   ownLength: 185500,
   ownProgress: 185500,
   publishedAt: "2018-05-14",
-  source: "kindle",
-  externalId: "B07D3C3RX4",
-  externalLink: "https://amazon.com/dp/B07D3C3RX4",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07D3C3RX4",
+      externalLink: "https://amazon.com/dp/B07D3C3RX4",
+    },
+  ],
 } as const satisfies Book

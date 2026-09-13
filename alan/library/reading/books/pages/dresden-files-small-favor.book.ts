@@ -10,8 +10,12 @@ export const dresdenFilesSmallFavor = {
   unit: "words",
   position: 9,
   ownLength: 111000,
-  source: "kindle",
-  externalId: "B000UZNS0O",
-  externalLink: "https://www.amazon.com/dp/B000UZNS0O",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000UZNS0O",
+      externalLink: "https://www.amazon.com/dp/B000UZNS0O",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

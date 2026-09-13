@@ -13,7 +13,11 @@ export const aThousandLiTheThirdCut = {
   ownProgress: 115250,
   publishedAt: "2023-08-01",
   partOfCollections: ["book-series/a-thousand-li"],
-  source: "kindle",
-  externalId: "B0BT38XST3",
-  externalLink: "https://amazon.com/dp/B0BT38XST3",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BT38XST3",
+      externalLink: "https://amazon.com/dp/B0BT38XST3",
+    },
+  ],
 } as const satisfies Book

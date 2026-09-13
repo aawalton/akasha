@@ -13,7 +13,11 @@ export const defianceOfTheFall3 = {
   ownProgress: 182500,
   publishedAt: "2021-11-30",
   partOfCollections: ["book-series/defiance-of-the-fall"],
-  source: "kindle",
-  externalId: "B09BLG8D3D",
-  externalLink: "https://amazon.com/dp/B09BLG8D3D",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09BLG8D3D",
+      externalLink: "https://amazon.com/dp/B09BLG8D3D",
+    },
+  ],
 } as const satisfies Book

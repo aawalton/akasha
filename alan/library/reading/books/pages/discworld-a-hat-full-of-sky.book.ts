@@ -11,7 +11,11 @@ export const discworldAHatFullOfSky = {
   position: 32,
   ownLength: 106500,
   publishedAt: "2009-10-06",
-  source: "kindle",
-  externalId: "B000R4LGMA",
-  externalLink: "https://www.amazon.com/gp/product/B000R4LGMA",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000R4LGMA",
+      externalLink: "https://www.amazon.com/gp/product/B000R4LGMA",
+    },
+  ],
 } as const satisfies Book

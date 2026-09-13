@@ -13,8 +13,12 @@ export const dragonHeartLandOfPain = {
   ownProgress: 99750,
   publishedAt: "2021-01-07",
   partOfCollections: ["book-series/dragon-heart"],
-  source: "kindle",
-  externalId: "B08KY9LH1W",
-  externalLink: "https://amazon.com/dp/B08KY9LH1W",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08KY9LH1W",
+      externalLink: "https://amazon.com/dp/B08KY9LH1W",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

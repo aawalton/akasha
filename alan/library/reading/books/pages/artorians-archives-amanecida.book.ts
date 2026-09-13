@@ -10,7 +10,11 @@ export const artoriansArchivesAmanecida = {
   position: 15,
   ownLength: 121000,
   publishedAt: "2023-07-12",
-  source: "kindle",
-  externalId: "B0C62K33BZ",
-  externalLink: "https://amazon.com/dp/B0C62K33BZ",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0C62K33BZ",
+      externalLink: "https://amazon.com/dp/B0C62K33BZ",
+    },
+  ],
 } as const satisfies Book

@@ -12,7 +12,11 @@ export const chrysalisAntelligentDesign = {
   ownProgress: 184000,
   publishedAt: "2022-12-27",
   partOfCollections: ["book-series/chrysalis"],
-  source: "kindle",
-  externalId: "B0BBWJ8X67",
-  externalLink: "https://amazon.com/dp/B0BBWJ8X67",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BBWJ8X67",
+      externalLink: "https://amazon.com/dp/B0BBWJ8X67",
+    },
+  ],
 } as const satisfies Book

@@ -12,7 +12,11 @@ export const guardianOfAsterFallSilverStars = {
   ownProgress: 117500,
   publishedAt: "2024-09-12",
   partOfCollections: ["book-series/guardian-of-aster-fall"],
-  source: "kindle",
-  externalId: "B0CW69JXNC",
-  externalLink: "https://amazon.com/dp/B0CW69JXNC",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CW69JXNC",
+      externalLink: "https://amazon.com/dp/B0CW69JXNC",
+    },
+  ],
 } as const satisfies Book

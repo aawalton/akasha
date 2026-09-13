@@ -12,7 +12,11 @@ export const aTouchOfPowerSiphon = {
   ownProgress: 83500,
   publishedAt: "2025-06-25",
   partOfCollections: ["book-series/a-touch-of-power"],
-  source: "kindle",
-  externalId: "B0FFPK5VCN",
-  externalLink: "https://amazon.com/dp/B0FFPK5VCN",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0FFPK5VCN",
+      externalLink: "https://amazon.com/dp/B0FFPK5VCN",
+    },
+  ],
 } as const satisfies Book

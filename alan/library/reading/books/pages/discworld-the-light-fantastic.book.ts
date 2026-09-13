@@ -10,8 +10,12 @@ export const discworldTheLightFantastic = {
   unit: "words",
   position: 2,
   ownLength: 68000,
-  source: "kindle",
-  externalId: "B000W914OU",
-  externalLink: "https://www.amazon.com/dp/B000W914OU",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000W914OU",
+      externalLink: "https://www.amazon.com/dp/B000W914OU",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

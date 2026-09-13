@@ -12,7 +12,11 @@ export const dungeonCrawlerCarlTheButchersMasquerade = {
   ownLength: 183000,
   publishedAt: "2022-02-28",
   partOfCollections: ["book-series/dungeon-crawler-carl"],
-  source: "kindle",
-  externalId: "B09R6C5X88",
-  externalLink: "https://amazon.com/dp/B09R6C5X88",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09R6C5X88",
+      externalLink: "https://amazon.com/dp/B09R6C5X88",
+    },
+  ],
 } as const satisfies Book

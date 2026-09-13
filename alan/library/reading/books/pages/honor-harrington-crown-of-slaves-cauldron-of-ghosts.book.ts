@@ -9,8 +9,12 @@ export const honorHarringtonCrownOfSlavesCauldronOfGhosts = {
   unit: "words",
   position: 2,
   ownLength: 190250,
-  source: "kindle",
-  externalId: "B00J1HNK3W",
-  externalLink: "https://www.amazon.com/dp/B00J1HNK3W",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00J1HNK3W",
+      externalLink: "https://www.amazon.com/dp/B00J1HNK3W",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book

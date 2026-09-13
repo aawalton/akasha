@@ -10,7 +10,11 @@ export const artoriansArchivesArcoplex = {
   position: 14,
   ownLength: 122500,
   publishedAt: "2023-04-12",
-  source: "kindle",
-  externalId: "B0BVC13NHS",
-  externalLink: "https://amazon.com/dp/B0BVC13NHS",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BVC13NHS",
+      externalLink: "https://amazon.com/dp/B0BVC13NHS",
+    },
+  ],
 } as const satisfies Book

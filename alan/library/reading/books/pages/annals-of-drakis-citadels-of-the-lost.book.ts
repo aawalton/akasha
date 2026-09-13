@@ -9,8 +9,12 @@ export const annalsOfDrakisCitadelsOfTheLost = {
   unit: "words",
   position: 1,
   ownLength: 91250,
-  source: "kindle",
-  externalId: "B0057Z1V10",
-  externalLink: "https://www.amazon.com/dp/B0057Z1V10",
-  lastSyncedAt: "2025-10-11",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0057Z1V10",
+      externalLink: "https://www.amazon.com/dp/B0057Z1V10",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
 } as const satisfies Book
