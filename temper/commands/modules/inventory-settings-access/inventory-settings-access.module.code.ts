@@ -142,13 +142,27 @@ async function readHeldRules(accountUserId: string): Promise<readonly HeldRule[]
   return heldFromRows(rows.map((row) => ({ ...row })))
 }
 
+export function inventorySliceIn(
+  settings: Record<string, unknown>,
+  caller: string
+): Record<string, unknown> {
+  const slice = extractSliceValue(settings, INVENTORY_SLICE)
+  if (slice === undefined || slice === null) return {}
+  if (!isPlainObject(slice)) {
+    throw new Error(
+      `${caller}: the \`${INVENTORY_SLICE}\` settings beside the ${PLAYER_PAGE_TYPE_SLUG} page ` +
+        `are a ${typeof slice} rather than an object, so a write now would go over what they ` +
+        `hold, and what is already set stays`
+    )
+  }
+  return slice
+}
+
 async function readInventorySlice(
   accountUserId: string,
   caller: string
 ): Promise<Record<string, unknown>> {
-  const settings = await readSettings(accountUserId, caller)
-  const slice = extractSliceValue(settings, INVENTORY_SLICE)
-  return isPlainObject(slice) ? slice : {}
+  return inventorySliceIn(await readSettings(accountUserId, caller), caller)
 }
 
 export async function readInventoryRuleSettings(

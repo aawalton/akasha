@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   besidePages,
+  inventorySliceIn,
   parseSettings,
 } from "akasha/temper/commands/modules/inventory-settings-access/inventory-settings-access.module.code.ts"
 import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
@@ -116,4 +117,26 @@ test("a blob answering as anything but text is refused", () => {
 
 test("a blob already read as an object is carried through", () => {
   expect(parseSettings(WHOLE_BLOB, "x")).toEqual(WHOLE_BLOB)
+})
+
+test("an inventory setting that is not there reads as an empty one", () => {
+  expect(inventorySliceIn({}, "x")).toEqual({})
+  expect(inventorySliceIn({ inventory: undefined }, "x")).toEqual({})
+  expect(inventorySliceIn({ inventory: null }, "x")).toEqual({})
+})
+
+test("the inventory setting the blob holds is carried through whole", () => {
+  expect(inventorySliceIn(WHOLE_BLOB, "x")).toEqual({
+    version: 2,
+    itemRules: [ITEM_RULE],
+    buyRules: [BUY_RULE],
+  })
+})
+
+test("an inventory setting that is no object is refused rather than read as unset", () => {
+  for (const refused of ["text", 42, true, [ITEM_RULE]]) {
+    expect(() => inventorySliceIn({ inventory: refused }, "x")).toThrow(
+      "rather than an object, so a write now would go over what they hold"
+    )
+  }
 })
