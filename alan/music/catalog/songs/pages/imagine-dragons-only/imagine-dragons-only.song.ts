@@ -6,10 +6,14 @@ export const imagineDragonsOnly = {
   slug: "imagine-dragons-only",
   title: "Only",
   artist: "imagine-dragons",
-  externalId: "46680f5f-59b3-4875-9b87-3cad595b1606",
-  externalLink: "https://musicbrainz.org/work/46680f5f-59b3-4875-9b87-3cad595b1606",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "46680f5f-59b3-4875-9b87-3cad595b1606",
+      externalLink: "https://musicbrainz.org/work/46680f5f-59b3-4875-9b87-3cad595b1606",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

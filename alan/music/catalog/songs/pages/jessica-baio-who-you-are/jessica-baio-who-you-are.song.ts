@@ -6,10 +6,14 @@ export const jessicaBaioWhoYouAre = {
   slug: "jessica-baio-who-you-are",
   title: "who you are",
   artist: "jessica-baio",
-  externalId: "17567374-5993-4e73-b246-fe6bfc1a5e3a",
-  externalLink: "https://musicbrainz.org/recording/17567374-5993-4e73-b246-fe6bfc1a5e3a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "17567374-5993-4e73-b246-fe6bfc1a5e3a",
+      externalLink: "https://musicbrainz.org/recording/17567374-5993-4e73-b246-fe6bfc1a5e3a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

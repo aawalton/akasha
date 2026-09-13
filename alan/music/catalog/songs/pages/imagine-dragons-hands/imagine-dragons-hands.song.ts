@@ -6,10 +6,14 @@ export const imagineDragonsHands = {
   slug: "imagine-dragons-hands",
   title: "Hands",
   artist: "imagine-dragons",
-  externalId: "7ab4ba35-d5fa-430d-a336-483d76e12211",
-  externalLink: "https://musicbrainz.org/work/7ab4ba35-d5fa-430d-a336-483d76e12211",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7ab4ba35-d5fa-430d-a336-483d76e12211",
+      externalLink: "https://musicbrainz.org/work/7ab4ba35-d5fa-430d-a336-483d76e12211",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

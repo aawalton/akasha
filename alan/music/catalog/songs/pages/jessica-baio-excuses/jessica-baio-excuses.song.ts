@@ -6,10 +6,14 @@ export const jessicaBaioExcuses = {
   slug: "jessica-baio-excuses",
   title: "excuses",
   artist: "jessica-baio",
-  externalId: "6db2fdc6-4a76-4ffd-bd6f-651bf4af9773",
-  externalLink: "https://musicbrainz.org/recording/6db2fdc6-4a76-4ffd-bd6f-651bf4af9773",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6db2fdc6-4a76-4ffd-bd6f-651bf4af9773",
+      externalLink: "https://musicbrainz.org/recording/6db2fdc6-4a76-4ffd-bd6f-651bf4af9773",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

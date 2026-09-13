@@ -6,10 +6,14 @@ export const lilithMaxChampagneCigarettes = {
   slug: "lilith-max-champagne-cigarettes",
   title: "Champagne & Cigarettes",
   artist: "lilith-max",
-  externalId: "e19a446e-30da-4414-95fe-41d3c69c3d5d",
-  externalLink: "https://musicbrainz.org/recording/e19a446e-30da-4414-95fe-41d3c69c3d5d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e19a446e-30da-4414-95fe-41d3c69c3d5d",
+      externalLink: "https://musicbrainz.org/recording/e19a446e-30da-4414-95fe-41d3c69c3d5d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

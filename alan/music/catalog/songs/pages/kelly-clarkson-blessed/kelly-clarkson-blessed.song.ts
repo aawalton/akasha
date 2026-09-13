@@ -6,10 +6,14 @@ export const kellyClarksonBlessed = {
   slug: "kelly-clarkson-blessed",
   title: "Blessed",
   artist: "kelly-clarkson",
-  externalId: "79609e14-8e88-4dd9-838c-6948a508f97b",
-  externalLink: "https://musicbrainz.org/work/79609e14-8e88-4dd9-838c-6948a508f97b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "79609e14-8e88-4dd9-838c-6948a508f97b",
+      externalLink: "https://musicbrainz.org/work/79609e14-8e88-4dd9-838c-6948a508f97b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

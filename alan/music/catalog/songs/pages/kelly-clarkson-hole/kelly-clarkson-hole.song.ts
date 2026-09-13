@@ -6,10 +6,14 @@ export const kellyClarksonHole = {
   slug: "kelly-clarkson-hole",
   title: "Hole",
   artist: "kelly-clarkson",
-  externalId: "601683a9-62f1-44d5-9923-36964b4fdd3d",
-  externalLink: "https://musicbrainz.org/work/601683a9-62f1-44d5-9923-36964b4fdd3d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "601683a9-62f1-44d5-9923-36964b4fdd3d",
+      externalLink: "https://musicbrainz.org/work/601683a9-62f1-44d5-9923-36964b4fdd3d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

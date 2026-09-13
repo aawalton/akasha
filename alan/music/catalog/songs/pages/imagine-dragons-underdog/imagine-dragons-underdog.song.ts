@@ -6,10 +6,14 @@ export const imagineDragonsUnderdog = {
   slug: "imagine-dragons-underdog",
   title: "Underdog",
   artist: "imagine-dragons",
-  externalId: "722eeed8-2c41-4f01-ba43-4005372317d6",
-  externalLink: "https://musicbrainz.org/work/722eeed8-2c41-4f01-ba43-4005372317d6",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "722eeed8-2c41-4f01-ba43-4005372317d6",
+      externalLink: "https://musicbrainz.org/work/722eeed8-2c41-4f01-ba43-4005372317d6",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const emBeiholdStrongMedicine = {
   slug: "em-beihold-strong-medicine",
   title: "Strong Medicine",
   artist: "em-beihold",
-  externalId: "7935cf8c-a232-4633-8dd7-1b160e3572c3",
-  externalLink: "https://musicbrainz.org/work/7935cf8c-a232-4633-8dd7-1b160e3572c3",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7935cf8c-a232-4633-8dd7-1b160e3572c3",
+      externalLink: "https://musicbrainz.org/work/7935cf8c-a232-4633-8dd7-1b160e3572c3",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

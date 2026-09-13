@@ -6,10 +6,14 @@ export const kellyClarksonTheTroubleWithLoveIs = {
   slug: "kelly-clarkson-the-trouble-with-love-is",
   title: "The Trouble With Love Is",
   artist: "kelly-clarkson",
-  externalId: "8b80440f-101d-4e09-bde4-a1eeeee68485",
-  externalLink: "https://musicbrainz.org/work/8b80440f-101d-4e09-bde4-a1eeeee68485",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8b80440f-101d-4e09-bde4-a1eeeee68485",
+      externalLink: "https://musicbrainz.org/work/8b80440f-101d-4e09-bde4-a1eeeee68485",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

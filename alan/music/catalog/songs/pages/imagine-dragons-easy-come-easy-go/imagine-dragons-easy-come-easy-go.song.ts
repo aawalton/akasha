@@ -6,10 +6,14 @@ export const imagineDragonsEasyComeEasyGo = {
   slug: "imagine-dragons-easy-come-easy-go",
   title: "Easy Come Easy Go",
   artist: "imagine-dragons",
-  externalId: "8f66161a-085d-47e2-98b6-6e75e0b4e51c",
-  externalLink: "https://musicbrainz.org/work/8f66161a-085d-47e2-98b6-6e75e0b4e51c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8f66161a-085d-47e2-98b6-6e75e0b4e51c",
+      externalLink: "https://musicbrainz.org/work/8f66161a-085d-47e2-98b6-6e75e0b4e51c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

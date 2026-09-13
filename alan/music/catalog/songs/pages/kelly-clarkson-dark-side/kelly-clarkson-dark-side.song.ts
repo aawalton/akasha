@@ -6,10 +6,14 @@ export const kellyClarksonDarkSide = {
   slug: "kelly-clarkson-dark-side",
   title: "Dark Side",
   artist: "kelly-clarkson",
-  externalId: "94989661-0467-48d3-b501-96fb4fef21dc",
-  externalLink: "https://musicbrainz.org/work/94989661-0467-48d3-b501-96fb4fef21dc",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "94989661-0467-48d3-b501-96fb4fef21dc",
+      externalLink: "https://musicbrainz.org/work/94989661-0467-48d3-b501-96fb4fef21dc",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

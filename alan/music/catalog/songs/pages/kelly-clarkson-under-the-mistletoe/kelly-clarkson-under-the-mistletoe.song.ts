@@ -6,10 +6,14 @@ export const kellyClarksonUnderTheMistletoe = {
   slug: "kelly-clarkson-under-the-mistletoe",
   title: "Under the Mistletoe",
   artist: "kelly-clarkson",
-  externalId: "7bff8872-0736-45ab-a8b2-c354e7f6a679",
-  externalLink: "https://musicbrainz.org/work/7bff8872-0736-45ab-a8b2-c354e7f6a679",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7bff8872-0736-45ab-a8b2-c354e7f6a679",
+      externalLink: "https://musicbrainz.org/work/7bff8872-0736-45ab-a8b2-c354e7f6a679",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

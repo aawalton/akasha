@@ -6,10 +6,14 @@ export const jessicaBaioRadioSteveAokiCesqeauxRemixExtendedMix = {
   slug: "jessica-baio-radio-steve-aoki-cesqeaux-remix-extended-mix",
   title: "Radio (Steve Aoki & Cesqeaux remix extended mix)",
   artist: "jessica-baio",
-  externalId: "49910470-9e6c-47ba-a41f-31e8e2357e91",
-  externalLink: "https://musicbrainz.org/recording/49910470-9e6c-47ba-a41f-31e8e2357e91",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "49910470-9e6c-47ba-a41f-31e8e2357e91",
+      externalLink: "https://musicbrainz.org/recording/49910470-9e6c-47ba-a41f-31e8e2357e91",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

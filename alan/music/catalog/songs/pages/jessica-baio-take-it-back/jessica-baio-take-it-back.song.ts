@@ -6,10 +6,14 @@ export const jessicaBaioTakeItBack = {
   slug: "jessica-baio-take-it-back",
   title: "take it back",
   artist: "jessica-baio",
-  externalId: "ac4c1659-0073-4692-991f-5201eb27eaba",
-  externalLink: "https://musicbrainz.org/recording/ac4c1659-0073-4692-991f-5201eb27eaba",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ac4c1659-0073-4692-991f-5201eb27eaba",
+      externalLink: "https://musicbrainz.org/recording/ac4c1659-0073-4692-991f-5201eb27eaba",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

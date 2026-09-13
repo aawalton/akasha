@@ -6,10 +6,14 @@ export const imagineDragonsBornToBeYours = {
   slug: "imagine-dragons-born-to-be-yours",
   title: "Born to Be Yours",
   artist: "imagine-dragons",
-  externalId: "732c07ce-3349-41b9-9406-6e734a82cff0",
-  externalLink: "https://musicbrainz.org/work/732c07ce-3349-41b9-9406-6e734a82cff0",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "732c07ce-3349-41b9-9406-6e734a82cff0",
+      externalLink: "https://musicbrainz.org/work/732c07ce-3349-41b9-9406-6e734a82cff0",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

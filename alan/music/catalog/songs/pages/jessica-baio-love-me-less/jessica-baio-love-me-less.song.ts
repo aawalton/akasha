@@ -6,10 +6,14 @@ export const jessicaBaioLoveMeLess = {
   slug: "jessica-baio-love-me-less",
   title: "love me less",
   artist: "jessica-baio",
-  externalId: "e1b40c79-e5b7-4a54-808f-a5ec9a44de0c",
-  externalLink: "https://musicbrainz.org/recording/e1b40c79-e5b7-4a54-808f-a5ec9a44de0c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e1b40c79-e5b7-4a54-808f-a5ec9a44de0c",
+      externalLink: "https://musicbrainz.org/recording/e1b40c79-e5b7-4a54-808f-a5ec9a44de0c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

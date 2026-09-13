@@ -6,10 +6,14 @@ export const imagineDragonsBubble = {
   slug: "imagine-dragons-bubble",
   title: "Bubble",
   artist: "imagine-dragons",
-  externalId: "7f2d5b9d-d3b9-450a-80c6-cb5ad9a77158",
-  externalLink: "https://musicbrainz.org/work/7f2d5b9d-d3b9-450a-80c6-cb5ad9a77158",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7f2d5b9d-d3b9-450a-80c6-cb5ad9a77158",
+      externalLink: "https://musicbrainz.org/work/7f2d5b9d-d3b9-450a-80c6-cb5ad9a77158",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const imagineDragonsWorkingMan = {
   slug: "imagine-dragons-working-man",
   title: "Working Man",
   artist: "imagine-dragons",
-  externalId: "876de2ac-92ef-46d0-a9c8-3de0705c6191",
-  externalLink: "https://musicbrainz.org/work/876de2ac-92ef-46d0-a9c8-3de0705c6191",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "876de2ac-92ef-46d0-a9c8-3de0705c6191",
+      externalLink: "https://musicbrainz.org/work/876de2ac-92ef-46d0-a9c8-3de0705c6191",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

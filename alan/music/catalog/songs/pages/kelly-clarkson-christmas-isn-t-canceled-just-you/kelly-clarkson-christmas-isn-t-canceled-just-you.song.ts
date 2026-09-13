@@ -6,10 +6,14 @@ export const kellyClarksonChristmasIsnTCanceledJustYou = {
   slug: "kelly-clarkson-christmas-isn-t-canceled-just-you",
   title: "Christmas Isn’t Canceled (Just You)",
   artist: "kelly-clarkson",
-  externalId: "62d59cf2-1382-47af-b76e-4d94779ffa27",
-  externalLink: "https://musicbrainz.org/work/62d59cf2-1382-47af-b76e-4d94779ffa27",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "62d59cf2-1382-47af-b76e-4d94779ffa27",
+      externalLink: "https://musicbrainz.org/work/62d59cf2-1382-47af-b76e-4d94779ffa27",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

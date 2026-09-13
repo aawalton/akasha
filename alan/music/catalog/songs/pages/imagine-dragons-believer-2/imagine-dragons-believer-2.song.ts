@@ -6,10 +6,14 @@ export const imagineDragonsBeliever2 = {
   slug: "imagine-dragons-believer-2",
   title: "Believer",
   artist: "imagine-dragons",
-  externalId: "92b8772e-6c59-44c2-8766-fe1f9aa77d89",
-  externalLink: "https://musicbrainz.org/work/92b8772e-6c59-44c2-8766-fe1f9aa77d89",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "92b8772e-6c59-44c2-8766-fe1f9aa77d89",
+      externalLink: "https://musicbrainz.org/work/92b8772e-6c59-44c2-8766-fe1f9aa77d89",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

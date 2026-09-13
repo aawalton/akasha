@@ -6,10 +6,14 @@ export const jessicaBaioLethal = {
   slug: "jessica-baio-lethal",
   title: "lethal",
   artist: "jessica-baio",
-  externalId: "ad2736a3-1adc-4431-b55c-5c7e0fbb8304",
-  externalLink: "https://musicbrainz.org/recording/ad2736a3-1adc-4431-b55c-5c7e0fbb8304",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ad2736a3-1adc-4431-b55c-5c7e0fbb8304",
+      externalLink: "https://musicbrainz.org/recording/ad2736a3-1adc-4431-b55c-5c7e0fbb8304",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

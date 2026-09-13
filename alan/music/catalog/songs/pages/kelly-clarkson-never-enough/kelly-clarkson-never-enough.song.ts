@@ -6,10 +6,14 @@ export const kellyClarksonNeverEnough = {
   slug: "kelly-clarkson-never-enough",
   title: "Never Enough",
   artist: "kelly-clarkson",
-  externalId: "1482f51f-a76a-43b5-bdf9-12ab254ebf21",
-  externalLink: "https://musicbrainz.org/work/1482f51f-a76a-43b5-bdf9-12ab254ebf21",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1482f51f-a76a-43b5-bdf9-12ab254ebf21",
+      externalLink: "https://musicbrainz.org/work/1482f51f-a76a-43b5-bdf9-12ab254ebf21",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

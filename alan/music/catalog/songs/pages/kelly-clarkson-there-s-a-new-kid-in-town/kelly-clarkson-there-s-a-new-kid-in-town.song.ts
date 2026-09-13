@@ -6,10 +6,14 @@ export const kellyClarksonThereSANewKidInTown = {
   slug: "kelly-clarkson-there-s-a-new-kid-in-town",
   title: "There's a New Kid in Town",
   artist: "kelly-clarkson",
-  externalId: "18fbe723-0ac7-4183-8fd7-cd4404aab010",
-  externalLink: "https://musicbrainz.org/work/18fbe723-0ac7-4183-8fd7-cd4404aab010",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "18fbe723-0ac7-4183-8fd7-cd4404aab010",
+      externalLink: "https://musicbrainz.org/work/18fbe723-0ac7-4183-8fd7-cd4404aab010",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const imagineDragonsNoTimeForToxicPeople = {
   slug: "imagine-dragons-no-time-for-toxic-people",
   title: "No Time for Toxic People",
   artist: "imagine-dragons",
-  externalId: "2cc96db3-c155-4bc8-b589-32897d048599",
-  externalLink: "https://musicbrainz.org/work/2cc96db3-c155-4bc8-b589-32897d048599",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2cc96db3-c155-4bc8-b589-32897d048599",
+      externalLink: "https://musicbrainz.org/work/2cc96db3-c155-4bc8-b589-32897d048599",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

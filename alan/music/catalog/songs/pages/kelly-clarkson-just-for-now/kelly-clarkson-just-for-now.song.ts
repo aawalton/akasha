@@ -6,10 +6,14 @@ export const kellyClarksonJustForNow = {
   slug: "kelly-clarkson-just-for-now",
   title: "Just for Now",
   artist: "kelly-clarkson",
-  externalId: "0bbb49f6-407b-3f1d-8169-75d7f77d869d",
-  externalLink: "https://musicbrainz.org/work/0bbb49f6-407b-3f1d-8169-75d7f77d869d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0bbb49f6-407b-3f1d-8169-75d7f77d869d",
+      externalLink: "https://musicbrainz.org/work/0bbb49f6-407b-3f1d-8169-75d7f77d869d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

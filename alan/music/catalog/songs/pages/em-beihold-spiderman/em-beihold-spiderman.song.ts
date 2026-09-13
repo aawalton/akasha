@@ -6,10 +6,14 @@ export const emBeiholdSpiderman = {
   slug: "em-beihold-spiderman",
   title: "Spiderman",
   artist: "em-beihold",
-  externalId: "205c1a94-789f-4e76-a253-dc0a9fd3e184",
-  externalLink: "https://musicbrainz.org/work/205c1a94-789f-4e76-a253-dc0a9fd3e184",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "205c1a94-789f-4e76-a253-dc0a9fd3e184",
+      externalLink: "https://musicbrainz.org/work/205c1a94-789f-4e76-a253-dc0a9fd3e184",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

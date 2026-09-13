@@ -6,10 +6,14 @@ export const imagineDragonsWhoWeAre = {
   slug: "imagine-dragons-who-we-are",
   title: "Who We Are",
   artist: "imagine-dragons",
-  externalId: "d12e41e2-30d3-4634-b91f-719aaac98fe1",
-  externalLink: "https://musicbrainz.org/work/d12e41e2-30d3-4634-b91f-719aaac98fe1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d12e41e2-30d3-4634-b91f-719aaac98fe1",
+      externalLink: "https://musicbrainz.org/work/d12e41e2-30d3-4634-b91f-719aaac98fe1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

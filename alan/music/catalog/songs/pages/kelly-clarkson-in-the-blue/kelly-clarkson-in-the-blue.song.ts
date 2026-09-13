@@ -6,10 +6,14 @@ export const kellyClarksonInTheBlue = {
   slug: "kelly-clarkson-in-the-blue",
   title: "In the Blue",
   artist: "kelly-clarkson",
-  externalId: "4d4568b9-e6ac-4841-919c-97edb6809fbe",
-  externalLink: "https://musicbrainz.org/work/4d4568b9-e6ac-4841-919c-97edb6809fbe",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4d4568b9-e6ac-4841-919c-97edb6809fbe",
+      externalLink: "https://musicbrainz.org/work/4d4568b9-e6ac-4841-919c-97edb6809fbe",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

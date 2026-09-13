@@ -6,10 +6,14 @@ export const kellyClarksonDonTRush = {
   slug: "kelly-clarkson-don-t-rush",
   title: "Don't Rush",
   artist: "kelly-clarkson",
-  externalId: "c638a52b-1379-4dc4-953f-88b8ee320576",
-  externalLink: "https://musicbrainz.org/work/c638a52b-1379-4dc4-953f-88b8ee320576",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c638a52b-1379-4dc4-953f-88b8ee320576",
+      externalLink: "https://musicbrainz.org/work/c638a52b-1379-4dc4-953f-88b8ee320576",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const imagineDragonsEveryNight = {
   slug: "imagine-dragons-every-night",
   title: "Every Night",
   artist: "imagine-dragons",
-  externalId: "cb154679-7ca9-487e-9a39-4b7281071302",
-  externalLink: "https://musicbrainz.org/work/cb154679-7ca9-487e-9a39-4b7281071302",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "cb154679-7ca9-487e-9a39-4b7281071302",
+      externalLink: "https://musicbrainz.org/work/cb154679-7ca9-487e-9a39-4b7281071302",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

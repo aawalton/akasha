@@ -6,10 +6,14 @@ export const kellyClarksonAllIAskOfYou = {
   slug: "kelly-clarkson-all-i-ask-of-you",
   title: "All I Ask of You",
   artist: "kelly-clarkson",
-  externalId: "63ecc754-d3a2-3cc5-94c7-d7017294ff25",
-  externalLink: "https://musicbrainz.org/work/63ecc754-d3a2-3cc5-94c7-d7017294ff25",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "63ecc754-d3a2-3cc5-94c7-d7017294ff25",
+      externalLink: "https://musicbrainz.org/work/63ecc754-d3a2-3cc5-94c7-d7017294ff25",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

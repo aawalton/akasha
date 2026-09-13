@@ -6,10 +6,14 @@ export const kellyClarksonRunRudolphRun = {
   slug: "kelly-clarkson-run-rudolph-run",
   title: "Run Rudolph Run",
   artist: "kelly-clarkson",
-  externalId: "a686cf82-c7c3-4032-9001-c08a0ea4c77a",
-  externalLink: "https://musicbrainz.org/work/a686cf82-c7c3-4032-9001-c08a0ea4c77a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a686cf82-c7c3-4032-9001-c08a0ea4c77a",
+      externalLink: "https://musicbrainz.org/work/a686cf82-c7c3-4032-9001-c08a0ea4c77a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

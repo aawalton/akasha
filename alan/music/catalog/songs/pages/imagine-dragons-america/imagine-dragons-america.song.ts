@@ -6,10 +6,14 @@ export const imagineDragonsAmerica = {
   slug: "imagine-dragons-america",
   title: "America",
   artist: "imagine-dragons",
-  externalId: "99c47346-1144-4b5e-9415-138c7335d948",
-  externalLink: "https://musicbrainz.org/work/99c47346-1144-4b5e-9415-138c7335d948",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "99c47346-1144-4b5e-9415-138c7335d948",
+      externalLink: "https://musicbrainz.org/work/99c47346-1144-4b5e-9415-138c7335d948",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

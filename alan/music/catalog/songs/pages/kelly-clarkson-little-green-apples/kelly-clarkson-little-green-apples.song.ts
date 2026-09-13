@@ -6,10 +6,14 @@ export const kellyClarksonLittleGreenApples = {
   slug: "kelly-clarkson-little-green-apples",
   title: "Little Green Apples",
   artist: "kelly-clarkson",
-  externalId: "f32fe068-b44c-34ec-b8f6-1beaf06f4765",
-  externalLink: "https://musicbrainz.org/work/f32fe068-b44c-34ec-b8f6-1beaf06f4765",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f32fe068-b44c-34ec-b8f6-1beaf06f4765",
+      externalLink: "https://musicbrainz.org/work/f32fe068-b44c-34ec-b8f6-1beaf06f4765",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const emBeiholdHotGoblin = {
   slug: "em-beihold-hot-goblin",
   title: "Hot Goblin",
   artist: "em-beihold",
-  externalId: "9932fc9a-6198-45b2-ba43-de870d1b49c0",
-  externalLink: "https://musicbrainz.org/work/9932fc9a-6198-45b2-ba43-de870d1b49c0",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9932fc9a-6198-45b2-ba43-de870d1b49c0",
+      externalLink: "https://musicbrainz.org/work/9932fc9a-6198-45b2-ba43-de870d1b49c0",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

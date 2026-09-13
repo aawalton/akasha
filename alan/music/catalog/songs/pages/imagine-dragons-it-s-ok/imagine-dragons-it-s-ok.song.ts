@@ -6,10 +6,14 @@ export const imagineDragonsItSOk = {
   slug: "imagine-dragons-it-s-ok",
   title: "It’s Ok",
   artist: "imagine-dragons",
-  externalId: "da408d6d-4338-4b03-9cbd-f5d281f66584",
-  externalLink: "https://musicbrainz.org/work/da408d6d-4338-4b03-9cbd-f5d281f66584",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "da408d6d-4338-4b03-9cbd-f5d281f66584",
+      externalLink: "https://musicbrainz.org/work/da408d6d-4338-4b03-9cbd-f5d281f66584",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

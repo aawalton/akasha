@@ -6,10 +6,14 @@ export const imagineDragonsContinual = {
   slug: "imagine-dragons-continual",
   title: "Continual",
   artist: "imagine-dragons",
-  externalId: "64860911-177c-4c81-81af-b5ec8d9b2a53",
-  externalLink: "https://musicbrainz.org/work/64860911-177c-4c81-81af-b5ec8d9b2a53",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "64860911-177c-4c81-81af-b5ec8d9b2a53",
+      externalLink: "https://musicbrainz.org/work/64860911-177c-4c81-81af-b5ec8d9b2a53",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const imagineDragonsSirens = {
   slug: "imagine-dragons-sirens",
   title: "Sirens",
   artist: "imagine-dragons",
-  externalId: "1f24e281-8c41-4901-ba8f-1a504d22f27b",
-  externalLink: "https://musicbrainz.org/work/1f24e281-8c41-4901-ba8f-1a504d22f27b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1f24e281-8c41-4901-ba8f-1a504d22f27b",
+      externalLink: "https://musicbrainz.org/work/1f24e281-8c41-4901-ba8f-1a504d22f27b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

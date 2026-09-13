@@ -6,10 +6,14 @@ export const emBeiholdExorcism = {
   slug: "em-beihold-exorcism",
   title: "Exorcism",
   artist: "em-beihold",
-  externalId: "bef07c50-6779-4543-9f40-af239949a4f9",
-  externalLink: "https://musicbrainz.org/work/bef07c50-6779-4543-9f40-af239949a4f9",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "bef07c50-6779-4543-9f40-af239949a4f9",
+      externalLink: "https://musicbrainz.org/work/bef07c50-6779-4543-9f40-af239949a4f9",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

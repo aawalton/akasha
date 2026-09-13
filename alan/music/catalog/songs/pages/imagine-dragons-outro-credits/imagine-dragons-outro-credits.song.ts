@@ -6,10 +6,14 @@ export const imagineDragonsOutroCredits = {
   slug: "imagine-dragons-outro-credits",
   title: "Outro / Credits",
   artist: "imagine-dragons",
-  externalId: "49fa0f85-68a9-4274-9659-4dd336cb07ce",
-  externalLink: "https://musicbrainz.org/work/49fa0f85-68a9-4274-9659-4dd336cb07ce",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "49fa0f85-68a9-4274-9659-4dd336cb07ce",
+      externalLink: "https://musicbrainz.org/work/49fa0f85-68a9-4274-9659-4dd336cb07ce",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

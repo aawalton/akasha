@@ -6,10 +6,14 @@ export const imagineDragonsSummer = {
   slug: "imagine-dragons-summer",
   title: "Summer",
   artist: "imagine-dragons",
-  externalId: "770e5cb1-0a29-4e97-8515-e77ff7d3af08",
-  externalLink: "https://musicbrainz.org/work/770e5cb1-0a29-4e97-8515-e77ff7d3af08",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "770e5cb1-0a29-4e97-8515-e77ff7d3af08",
+      externalLink: "https://musicbrainz.org/work/770e5cb1-0a29-4e97-8515-e77ff7d3af08",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

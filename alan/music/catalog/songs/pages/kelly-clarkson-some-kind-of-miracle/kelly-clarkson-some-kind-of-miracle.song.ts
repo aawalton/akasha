@@ -6,10 +6,14 @@ export const kellyClarksonSomeKindOfMiracle = {
   slug: "kelly-clarkson-some-kind-of-miracle",
   title: "Some Kind of Miracle",
   artist: "kelly-clarkson",
-  externalId: "4c90a316-d3ee-463e-9d05-1888d6ea637a",
-  externalLink: "https://musicbrainz.org/work/4c90a316-d3ee-463e-9d05-1888d6ea637a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4c90a316-d3ee-463e-9d05-1888d6ea637a",
+      externalLink: "https://musicbrainz.org/work/4c90a316-d3ee-463e-9d05-1888d6ea637a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

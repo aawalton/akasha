@@ -6,10 +6,14 @@ export const imagineDragonsEmma = {
   slug: "imagine-dragons-emma",
   title: "Emma",
   artist: "imagine-dragons",
-  externalId: "e18464d6-4012-43cf-b261-d8ce1ea4d0b3",
-  externalLink: "https://musicbrainz.org/work/e18464d6-4012-43cf-b261-d8ce1ea4d0b3",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e18464d6-4012-43cf-b261-d8ce1ea4d0b3",
+      externalLink: "https://musicbrainz.org/work/e18464d6-4012-43cf-b261-d8ce1ea4d0b3",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

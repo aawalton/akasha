@@ -6,10 +6,14 @@ export const kellyClarksonIHateMyselfForLosingYou = {
   slug: "kelly-clarkson-i-hate-myself-for-losing-you",
   title: "I Hate Myself for Losing You",
   artist: "kelly-clarkson",
-  externalId: "31dd8f0c-45e6-3b31-be07-fe9c6bbbf8f1",
-  externalLink: "https://musicbrainz.org/work/31dd8f0c-45e6-3b31-be07-fe9c6bbbf8f1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "31dd8f0c-45e6-3b31-be07-fe9c6bbbf8f1",
+      externalLink: "https://musicbrainz.org/work/31dd8f0c-45e6-3b31-be07-fe9c6bbbf8f1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

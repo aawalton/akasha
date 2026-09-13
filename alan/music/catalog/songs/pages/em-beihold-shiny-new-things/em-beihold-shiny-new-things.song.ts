@@ -6,10 +6,14 @@ export const emBeiholdShinyNewThings = {
   slug: "em-beihold-shiny-new-things",
   title: "Shiny New Things",
   artist: "em-beihold",
-  externalId: "0c76db44-e6a1-4b70-8392-d34f593acc45",
-  externalLink: "https://musicbrainz.org/work/0c76db44-e6a1-4b70-8392-d34f593acc45",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0c76db44-e6a1-4b70-8392-d34f593acc45",
+      externalLink: "https://musicbrainz.org/work/0c76db44-e6a1-4b70-8392-d34f593acc45",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

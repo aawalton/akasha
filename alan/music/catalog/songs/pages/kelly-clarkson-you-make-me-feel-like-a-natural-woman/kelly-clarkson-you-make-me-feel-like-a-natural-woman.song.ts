@@ -6,10 +6,14 @@ export const kellyClarksonYouMakeMeFeelLikeANaturalWoman = {
   slug: "kelly-clarkson-you-make-me-feel-like-a-natural-woman",
   title: "(You Make Me Feel Like) A Natural Woman",
   artist: "kelly-clarkson",
-  externalId: "d2799d77-ee1f-3219-98ba-0a70bf10f35c",
-  externalLink: "https://musicbrainz.org/work/d2799d77-ee1f-3219-98ba-0a70bf10f35c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d2799d77-ee1f-3219-98ba-0a70bf10f35c",
+      externalLink: "https://musicbrainz.org/work/d2799d77-ee1f-3219-98ba-0a70bf10f35c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

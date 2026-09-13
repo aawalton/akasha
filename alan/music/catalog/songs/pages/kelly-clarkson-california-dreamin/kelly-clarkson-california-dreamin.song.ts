@@ -6,10 +6,14 @@ export const kellyClarksonCaliforniaDreamin = {
   slug: "kelly-clarkson-california-dreamin",
   title: "California Dreamin’",
   artist: "kelly-clarkson",
-  externalId: "3349eab0-3c79-3343-8924-cc7c5ed549c8",
-  externalLink: "https://musicbrainz.org/work/3349eab0-3c79-3343-8924-cc7c5ed549c8",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3349eab0-3c79-3343-8924-cc7c5ed549c8",
+      externalLink: "https://musicbrainz.org/work/3349eab0-3c79-3343-8924-cc7c5ed549c8",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

@@ -6,10 +6,14 @@ export const jessicaBaioBettingOnUs = {
   slug: "jessica-baio-betting-on-us",
   title: "betting on us",
   artist: "jessica-baio",
-  externalId: "98ea4e6a-e2fb-4541-8c5d-a1ffe48d2de9",
-  externalLink: "https://musicbrainz.org/recording/98ea4e6a-e2fb-4541-8c5d-a1ffe48d2de9",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "98ea4e6a-e2fb-4541-8c5d-a1ffe48d2de9",
+      externalLink: "https://musicbrainz.org/recording/98ea4e6a-e2fb-4541-8c5d-a1ffe48d2de9",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

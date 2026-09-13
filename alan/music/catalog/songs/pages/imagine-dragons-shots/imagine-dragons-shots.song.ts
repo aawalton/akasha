@@ -6,10 +6,14 @@ export const imagineDragonsShots = {
   slug: "imagine-dragons-shots",
   title: "Shots",
   artist: "imagine-dragons",
-  externalId: "d7e8f649-8ade-4de9-b817-f7a935fc5a8f",
-  externalLink: "https://musicbrainz.org/work/d7e8f649-8ade-4de9-b817-f7a935fc5a8f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d7e8f649-8ade-4de9-b817-f7a935fc5a8f",
+      externalLink: "https://musicbrainz.org/work/d7e8f649-8ade-4de9-b817-f7a935fc5a8f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

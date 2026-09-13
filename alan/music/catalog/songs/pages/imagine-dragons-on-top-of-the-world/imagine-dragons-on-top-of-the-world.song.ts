@@ -6,10 +6,14 @@ export const imagineDragonsOnTopOfTheWorld = {
   slug: "imagine-dragons-on-top-of-the-world",
   title: "On Top of the World",
   artist: "imagine-dragons",
-  externalId: "262f8d3a-464f-4539-8566-8ac92455dfce",
-  externalLink: "https://musicbrainz.org/work/262f8d3a-464f-4539-8566-8ac92455dfce",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "262f8d3a-464f-4539-8566-8ac92455dfce",
+      externalLink: "https://musicbrainz.org/work/262f8d3a-464f-4539-8566-8ac92455dfce",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

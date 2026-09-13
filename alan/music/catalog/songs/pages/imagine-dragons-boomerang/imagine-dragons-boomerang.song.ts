@@ -6,10 +6,14 @@ export const imagineDragonsBoomerang = {
   slug: "imagine-dragons-boomerang",
   title: "Boomerang",
   artist: "imagine-dragons",
-  externalId: "67df168b-a709-4658-945b-9e0a2f31a9ff",
-  externalLink: "https://musicbrainz.org/work/67df168b-a709-4658-945b-9e0a2f31a9ff",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "67df168b-a709-4658-945b-9e0a2f31a9ff",
+      externalLink: "https://musicbrainz.org/work/67df168b-a709-4658-945b-9e0a2f31a9ff",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

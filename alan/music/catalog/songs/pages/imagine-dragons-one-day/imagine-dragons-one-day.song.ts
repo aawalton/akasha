@@ -6,10 +6,14 @@ export const imagineDragonsOneDay = {
   slug: "imagine-dragons-one-day",
   title: "One Day",
   artist: "imagine-dragons",
-  externalId: "5ea54c26-1595-4e64-8797-7f661fe296e2",
-  externalLink: "https://musicbrainz.org/work/5ea54c26-1595-4e64-8797-7f661fe296e2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5ea54c26-1595-4e64-8797-7f661fe296e2",
+      externalLink: "https://musicbrainz.org/work/5ea54c26-1595-4e64-8797-7f661fe296e2",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

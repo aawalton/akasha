@@ -6,10 +6,14 @@ export const imagineDragonsBones = {
   slug: "imagine-dragons-bones",
   title: "Bones",
   artist: "imagine-dragons",
-  externalId: "b28bfbd8-044c-4b67-a69a-4a2d217d5484",
-  externalLink: "https://musicbrainz.org/work/b28bfbd8-044c-4b67-a69a-4a2d217d5484",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b28bfbd8-044c-4b67-a69a-4a2d217d5484",
+      externalLink: "https://musicbrainz.org/work/b28bfbd8-044c-4b67-a69a-4a2d217d5484",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const imagineDragonsIDonTLikeMyself = {
   slug: "imagine-dragons-i-don-t-like-myself",
   title: "I Don’t Like Myself",
   artist: "imagine-dragons",
-  externalId: "90da0869-6d11-42b2-b94d-faba9e5ef1d4",
-  externalLink: "https://musicbrainz.org/work/90da0869-6d11-42b2-b94d-faba9e5ef1d4",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "90da0869-6d11-42b2-b94d-faba9e5ef1d4",
+      externalLink: "https://musicbrainz.org/work/90da0869-6d11-42b2-b94d-faba9e5ef1d4",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

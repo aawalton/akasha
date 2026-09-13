@@ -6,10 +6,14 @@ export const evynneHollensGrownUpChristmasList = {
   slug: "evynne-hollens-grown-up-christmas-list",
   title: "Grown‐Up Christmas List",
   artist: "evynne-hollens",
-  externalId: "9562daba-ddba-4ee4-bd98-2178c61eba6a",
-  externalLink: "https://musicbrainz.org/work/9562daba-ddba-4ee4-bd98-2178c61eba6a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9562daba-ddba-4ee4-bd98-2178c61eba6a",
+      externalLink: "https://musicbrainz.org/work/9562daba-ddba-4ee4-bd98-2178c61eba6a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

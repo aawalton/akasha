@@ -6,10 +6,14 @@ export const kellyClarksonCry = {
   slug: "kelly-clarkson-cry",
   title: "Cry",
   artist: "kelly-clarkson",
-  externalId: "d357de82-7e7d-3d59-9608-a8cea2559121",
-  externalLink: "https://musicbrainz.org/work/d357de82-7e7d-3d59-9608-a8cea2559121",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d357de82-7e7d-3d59-9608-a8cea2559121",
+      externalLink: "https://musicbrainz.org/work/d357de82-7e7d-3d59-9608-a8cea2559121",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const emBeiholdUnicorn = {
   slug: "em-beihold-unicorn",
   title: "Unicorn",
   artist: "em-beihold",
-  externalId: "c6c036f7-f3b5-4c12-bf3f-d59aa3868418",
-  externalLink: "https://musicbrainz.org/work/c6c036f7-f3b5-4c12-bf3f-d59aa3868418",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c6c036f7-f3b5-4c12-bf3f-d59aa3868418",
+      externalLink: "https://musicbrainz.org/work/c6c036f7-f3b5-4c12-bf3f-d59aa3868418",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

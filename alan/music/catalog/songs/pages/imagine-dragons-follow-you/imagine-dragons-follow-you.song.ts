@@ -6,10 +6,14 @@ export const imagineDragonsFollowYou = {
   slug: "imagine-dragons-follow-you",
   title: "Follow You",
   artist: "imagine-dragons",
-  externalId: "434e5850-76f3-4eaa-98c2-c93c613fad9f",
-  externalLink: "https://musicbrainz.org/work/434e5850-76f3-4eaa-98c2-c93c613fad9f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "434e5850-76f3-4eaa-98c2-c93c613fad9f",
+      externalLink: "https://musicbrainz.org/work/434e5850-76f3-4eaa-98c2-c93c613fad9f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

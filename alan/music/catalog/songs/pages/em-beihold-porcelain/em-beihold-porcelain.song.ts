@@ -6,10 +6,14 @@ export const emBeiholdPorcelain = {
   slug: "em-beihold-porcelain",
   title: "Porcelain",
   artist: "em-beihold",
-  externalId: "6273edad-b8f3-4d0c-b85f-4a48d3ab5343",
-  externalLink: "https://musicbrainz.org/work/6273edad-b8f3-4d0c-b85f-4a48d3ab5343",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6273edad-b8f3-4d0c-b85f-4a48d3ab5343",
+      externalLink: "https://musicbrainz.org/work/6273edad-b8f3-4d0c-b85f-4a48d3ab5343",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

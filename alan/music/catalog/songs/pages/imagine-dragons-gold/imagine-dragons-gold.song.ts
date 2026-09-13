@@ -6,10 +6,14 @@ export const imagineDragonsGold = {
   slug: "imagine-dragons-gold",
   title: "Gold",
   artist: "imagine-dragons",
-  externalId: "ace5b709-c993-4a52-a13f-4e818a5ef0c3",
-  externalLink: "https://musicbrainz.org/work/ace5b709-c993-4a52-a13f-4e818a5ef0c3",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ace5b709-c993-4a52-a13f-4e818a5ef0c3",
+      externalLink: "https://musicbrainz.org/work/ace5b709-c993-4a52-a13f-4e818a5ef0c3",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

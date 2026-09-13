@@ -6,10 +6,14 @@ export const kellyClarksonMaybe = {
   slug: "kelly-clarkson-maybe",
   title: "Maybe",
   artist: "kelly-clarkson",
-  externalId: "c294e115-d214-479f-80f7-a6610fa4a10d",
-  externalLink: "https://musicbrainz.org/work/c294e115-d214-479f-80f7-a6610fa4a10d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c294e115-d214-479f-80f7-a6610fa4a10d",
+      externalLink: "https://musicbrainz.org/work/c294e115-d214-479f-80f7-a6610fa4a10d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

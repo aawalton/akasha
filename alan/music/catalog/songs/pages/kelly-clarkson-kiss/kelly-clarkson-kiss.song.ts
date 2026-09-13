@@ -6,10 +6,14 @@ export const kellyClarksonKiss = {
   slug: "kelly-clarkson-kiss",
   title: "Kiss",
   artist: "kelly-clarkson",
-  externalId: "5611a41a-6822-30b3-ba06-8c756de9aaa3",
-  externalLink: "https://musicbrainz.org/work/5611a41a-6822-30b3-ba06-8c756de9aaa3",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5611a41a-6822-30b3-ba06-8c756de9aaa3",
+      externalLink: "https://musicbrainz.org/work/5611a41a-6822-30b3-ba06-8c756de9aaa3",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

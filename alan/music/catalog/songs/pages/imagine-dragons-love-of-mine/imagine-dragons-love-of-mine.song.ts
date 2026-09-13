@@ -6,10 +6,14 @@ export const imagineDragonsLoveOfMine = {
   slug: "imagine-dragons-love-of-mine",
   title: "Love of Mine",
   artist: "imagine-dragons",
-  externalId: "6aae270b-cf31-4779-a1b4-e1a469aac8f3",
-  externalLink: "https://musicbrainz.org/work/6aae270b-cf31-4779-a1b4-e1a469aac8f3",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6aae270b-cf31-4779-a1b4-e1a469aac8f3",
+      externalLink: "https://musicbrainz.org/work/6aae270b-cf31-4779-a1b4-e1a469aac8f3",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const imagineDragonsYoungDumbBroke = {
   slug: "imagine-dragons-young-dumb-broke",
   title: "Young, Dumb & Broke",
   artist: "imagine-dragons",
-  externalId: "079f2bac-f5ce-41e8-be94-82a08b80a535",
-  externalLink: "https://musicbrainz.org/work/079f2bac-f5ce-41e8-be94-82a08b80a535",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "079f2bac-f5ce-41e8-be94-82a08b80a535",
+      externalLink: "https://musicbrainz.org/work/079f2bac-f5ce-41e8-be94-82a08b80a535",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const billieEilishYouReStoned = {
   slug: "billie-eilish-you-re-stoned",
   title: "you’re stoned",
   artist: "billie-eilish",
-  externalId: "415725ca-5846-4922-be24-7219f5b71a8e",
-  externalLink: "https://musicbrainz.org/work/415725ca-5846-4922-be24-7219f5b71a8e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "415725ca-5846-4922-be24-7219f5b71a8e",
+      externalLink: "https://musicbrainz.org/work/415725ca-5846-4922-be24-7219f5b71a8e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   written: "collab",

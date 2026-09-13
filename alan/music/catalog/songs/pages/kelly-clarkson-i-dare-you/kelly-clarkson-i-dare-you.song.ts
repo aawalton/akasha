@@ -6,10 +6,14 @@ export const kellyClarksonIDareYou = {
   slug: "kelly-clarkson-i-dare-you",
   title: "I Dare You",
   artist: "kelly-clarkson",
-  externalId: "08b3ebac-7fa6-4574-90cc-6ec495aa327c",
-  externalLink: "https://musicbrainz.org/work/08b3ebac-7fa6-4574-90cc-6ec495aa327c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "08b3ebac-7fa6-4574-90cc-6ec495aa327c",
+      externalLink: "https://musicbrainz.org/work/08b3ebac-7fa6-4574-90cc-6ec495aa327c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const imagineDragonsMonster = {
   slug: "imagine-dragons-monster",
   title: "Monster",
   artist: "imagine-dragons",
-  externalId: "5baec07c-9eba-4f48-a2e0-5fb81d837a1b",
-  externalLink: "https://musicbrainz.org/work/5baec07c-9eba-4f48-a2e0-5fb81d837a1b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5baec07c-9eba-4f48-a2e0-5fb81d837a1b",
+      externalLink: "https://musicbrainz.org/work/5baec07c-9eba-4f48-a2e0-5fb81d837a1b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

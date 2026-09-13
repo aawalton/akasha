@@ -6,10 +6,14 @@ export const kellyClarksonIHadADream = {
   slug: "kelly-clarkson-i-had-a-dream",
   title: "I Had a Dream",
   artist: "kelly-clarkson",
-  externalId: "f0b799ee-374c-47f6-8e6b-dea653e05dbf",
-  externalLink: "https://musicbrainz.org/work/f0b799ee-374c-47f6-8e6b-dea653e05dbf",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f0b799ee-374c-47f6-8e6b-dea653e05dbf",
+      externalLink: "https://musicbrainz.org/work/f0b799ee-374c-47f6-8e6b-dea653e05dbf",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

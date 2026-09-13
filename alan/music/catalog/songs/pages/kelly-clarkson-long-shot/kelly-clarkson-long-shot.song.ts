@@ -6,10 +6,14 @@ export const kellyClarksonLongShot = {
   slug: "kelly-clarkson-long-shot",
   title: "Long Shot",
   artist: "kelly-clarkson",
-  externalId: "628fe463-dbcb-300b-b6e2-cb3a00b9da5c",
-  externalLink: "https://musicbrainz.org/work/628fe463-dbcb-300b-b6e2-cb3a00b9da5c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "628fe463-dbcb-300b-b6e2-cb3a00b9da5c",
+      externalLink: "https://musicbrainz.org/work/628fe463-dbcb-300b-b6e2-cb3a00b9da5c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const kellyClarksonPleaseComeHomeForChristmas = {
   slug: "kelly-clarkson-please-come-home-for-christmas",
   title: "Please Come Home for Christmas",
   artist: "kelly-clarkson",
-  externalId: "a2d0bf57-8174-32d1-9493-e6fdd125e559",
-  externalLink: "https://musicbrainz.org/work/a2d0bf57-8174-32d1-9493-e6fdd125e559",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a2d0bf57-8174-32d1-9493-e6fdd125e559",
+      externalLink: "https://musicbrainz.org/work/a2d0bf57-8174-32d1-9493-e6fdd125e559",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

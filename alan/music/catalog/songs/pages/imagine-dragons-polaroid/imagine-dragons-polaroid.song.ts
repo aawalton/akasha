@@ -6,10 +6,14 @@ export const imagineDragonsPolaroid = {
   slug: "imagine-dragons-polaroid",
   title: "Polaroid",
   artist: "imagine-dragons",
-  externalId: "396719c3-c652-4b3c-a264-a709c54a6343",
-  externalLink: "https://musicbrainz.org/work/396719c3-c652-4b3c-a264-a709c54a6343",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "396719c3-c652-4b3c-a264-a709c54a6343",
+      externalLink: "https://musicbrainz.org/work/396719c3-c652-4b3c-a264-a709c54a6343",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

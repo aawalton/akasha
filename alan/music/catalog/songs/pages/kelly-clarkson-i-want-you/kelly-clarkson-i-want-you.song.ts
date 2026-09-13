@@ -6,10 +6,14 @@ export const kellyClarksonIWantYou = {
   slug: "kelly-clarkson-i-want-you",
   title: "I Want You",
   artist: "kelly-clarkson",
-  externalId: "bcf99e0a-38c3-301e-b462-0e8918b4566d",
-  externalLink: "https://musicbrainz.org/work/bcf99e0a-38c3-301e-b462-0e8918b4566d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "bcf99e0a-38c3-301e-b462-0e8918b4566d",
+      externalLink: "https://musicbrainz.org/work/bcf99e0a-38c3-301e-b462-0e8918b4566d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

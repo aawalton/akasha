@@ -6,10 +6,14 @@ export const imagineDragonsChaChingTillWeGrowOlder = {
   slug: "imagine-dragons-cha-ching-till-we-grow-older",
   title: "Cha‐Ching (Till We Grow Older)",
   artist: "imagine-dragons",
-  externalId: "504ca0d3-9516-4ca8-a4ce-2d76a9987a1a",
-  externalLink: "https://musicbrainz.org/work/504ca0d3-9516-4ca8-a4ce-2d76a9987a1a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "504ca0d3-9516-4ca8-a4ce-2d76a9987a1a",
+      externalLink: "https://musicbrainz.org/work/504ca0d3-9516-4ca8-a4ce-2d76a9987a1a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

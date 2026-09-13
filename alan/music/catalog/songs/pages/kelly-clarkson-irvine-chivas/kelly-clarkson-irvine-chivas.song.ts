@@ -6,10 +6,14 @@ export const kellyClarksonIrvineChivas = {
   slug: "kelly-clarkson-irvine-chivas",
   title: "Irvine / Chivas",
   artist: "kelly-clarkson",
-  externalId: "f28853ee-a249-42d6-9657-11ad05d7758e",
-  externalLink: "https://musicbrainz.org/work/f28853ee-a249-42d6-9657-11ad05d7758e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f28853ee-a249-42d6-9657-11ad05d7758e",
+      externalLink: "https://musicbrainz.org/work/f28853ee-a249-42d6-9657-11ad05d7758e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

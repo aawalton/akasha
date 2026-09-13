@@ -6,10 +6,14 @@ export const imagineDragonsWarriors = {
   slug: "imagine-dragons-warriors",
   title: "Warriors",
   artist: "imagine-dragons",
-  externalId: "406a7aac-497a-49a0-9e63-7d86755638b1",
-  externalLink: "https://musicbrainz.org/work/406a7aac-497a-49a0-9e63-7d86755638b1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "406a7aac-497a-49a0-9e63-7d86755638b1",
+      externalLink: "https://musicbrainz.org/work/406a7aac-497a-49a0-9e63-7d86755638b1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

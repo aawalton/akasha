@@ -6,10 +6,14 @@ export const jessicaBaioHeLovesMeHeLovesMeNot = {
   slug: "jessica-baio-he-loves-me-he-loves-me-not",
   title: "he loves me, he loves me not",
   artist: "jessica-baio",
-  externalId: "ab357375-2d06-4593-b497-a472c253afa6",
-  externalLink: "https://musicbrainz.org/recording/ab357375-2d06-4593-b497-a472c253afa6",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ab357375-2d06-4593-b497-a472c253afa6",
+      externalLink: "https://musicbrainz.org/recording/ab357375-2d06-4593-b497-a472c253afa6",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

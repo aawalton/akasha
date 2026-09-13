@@ -6,10 +6,14 @@ export const evynneHollensNeedYouNow = {
   slug: "evynne-hollens-need-you-now",
   title: "Need You Now",
   artist: "evynne-hollens",
-  externalId: "4d27f39d-d8b5-3483-bb86-e14ae3ebb90c",
-  externalLink: "https://musicbrainz.org/work/4d27f39d-d8b5-3483-bb86-e14ae3ebb90c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4d27f39d-d8b5-3483-bb86-e14ae3ebb90c",
+      externalLink: "https://musicbrainz.org/work/4d27f39d-d8b5-3483-bb86-e14ae3ebb90c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

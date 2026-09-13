@@ -6,10 +6,14 @@ export const kellyClarksonWhatSUpLonely = {
   slug: "kelly-clarkson-what-s-up-lonely",
   title: "What’s Up Lonely",
   artist: "kelly-clarkson",
-  externalId: "232e552d-ca0b-469e-a5d9-837992395176",
-  externalLink: "https://musicbrainz.org/work/232e552d-ca0b-469e-a5d9-837992395176",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "232e552d-ca0b-469e-a5d9-837992395176",
+      externalLink: "https://musicbrainz.org/work/232e552d-ca0b-469e-a5d9-837992395176",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

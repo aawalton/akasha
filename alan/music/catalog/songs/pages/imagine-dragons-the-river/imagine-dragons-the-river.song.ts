@@ -6,10 +6,14 @@ export const imagineDragonsTheRiver = {
   slug: "imagine-dragons-the-river",
   title: "The River",
   artist: "imagine-dragons",
-  externalId: "f969c46e-1f48-48f0-97fc-3d90b538b862",
-  externalLink: "https://musicbrainz.org/work/f969c46e-1f48-48f0-97fc-3d90b538b862",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f969c46e-1f48-48f0-97fc-3d90b538b862",
+      externalLink: "https://musicbrainz.org/work/f969c46e-1f48-48f0-97fc-3d90b538b862",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

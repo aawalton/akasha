@@ -6,10 +6,14 @@ export const kellyClarksonOhDarling = {
   slug: "kelly-clarkson-oh-darling",
   title: "Oh! Darling",
   artist: "kelly-clarkson",
-  externalId: "53027b47-d8b3-3749-8e73-0f5d4e5fe242",
-  externalLink: "https://musicbrainz.org/work/53027b47-d8b3-3749-8e73-0f5d4e5fe242",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "53027b47-d8b3-3749-8e73-0f5d4e5fe242",
+      externalLink: "https://musicbrainz.org/work/53027b47-d8b3-3749-8e73-0f5d4e5fe242",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

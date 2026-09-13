@@ -6,10 +6,14 @@ export const kellyClarksonYeah = {
   slug: "kelly-clarkson-yeah",
   title: "Yeah",
   artist: "kelly-clarkson",
-  externalId: "1961ce1a-287d-4fef-9e44-d032e1111c73",
-  externalLink: "https://musicbrainz.org/work/1961ce1a-287d-4fef-9e44-d032e1111c73",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1961ce1a-287d-4fef-9e44-d032e1111c73",
+      externalLink: "https://musicbrainz.org/work/1961ce1a-287d-4fef-9e44-d032e1111c73",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

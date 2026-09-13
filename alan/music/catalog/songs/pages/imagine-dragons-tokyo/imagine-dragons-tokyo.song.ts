@@ -6,10 +6,14 @@ export const imagineDragonsTokyo = {
   slug: "imagine-dragons-tokyo",
   title: "Tokyo",
   artist: "imagine-dragons",
-  externalId: "c7d97287-0c1f-4a6c-ad3a-cf6ea38a27d3",
-  externalLink: "https://musicbrainz.org/work/c7d97287-0c1f-4a6c-ad3a-cf6ea38a27d3",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c7d97287-0c1f-4a6c-ad3a-cf6ea38a27d3",
+      externalLink: "https://musicbrainz.org/work/c7d97287-0c1f-4a6c-ad3a-cf6ea38a27d3",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

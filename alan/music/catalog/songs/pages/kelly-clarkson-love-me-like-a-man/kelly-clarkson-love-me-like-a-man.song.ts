@@ -6,10 +6,14 @@ export const kellyClarksonLoveMeLikeAMan = {
   slug: "kelly-clarkson-love-me-like-a-man",
   title: "Love Me Like a Man",
   artist: "kelly-clarkson",
-  externalId: "61514870-994d-474f-a3ba-d9388421557d",
-  externalLink: "https://musicbrainz.org/work/61514870-994d-474f-a3ba-d9388421557d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "61514870-994d-474f-a3ba-d9388421557d",
+      externalLink: "https://musicbrainz.org/work/61514870-994d-474f-a3ba-d9388421557d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

@@ -6,10 +6,14 @@ export const jessicaBaioOverAgain = {
   slug: "jessica-baio-over-again",
   title: "over again",
   artist: "jessica-baio",
-  externalId: "e95be9b6-fb7b-4428-ac89-6fe07dd8a6e5",
-  externalLink: "https://musicbrainz.org/recording/e95be9b6-fb7b-4428-ac89-6fe07dd8a6e5",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e95be9b6-fb7b-4428-ac89-6fe07dd8a6e5",
+      externalLink: "https://musicbrainz.org/recording/e95be9b6-fb7b-4428-ac89-6fe07dd8a6e5",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const kellyClarksonAlreadyGone = {
   slug: "kelly-clarkson-already-gone",
   title: "Already Gone",
   artist: "kelly-clarkson",
-  externalId: "3e4a5070-273f-3fa4-92d5-7720e75a7c5d",
-  externalLink: "https://musicbrainz.org/work/3e4a5070-273f-3fa4-92d5-7720e75a7c5d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3e4a5070-273f-3fa4-92d5-7720e75a7c5d",
+      externalLink: "https://musicbrainz.org/work/3e4a5070-273f-3fa4-92d5-7720e75a7c5d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

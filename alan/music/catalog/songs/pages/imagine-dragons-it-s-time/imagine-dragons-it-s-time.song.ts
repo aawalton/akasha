@@ -6,10 +6,14 @@ export const imagineDragonsItSTime = {
   slug: "imagine-dragons-it-s-time",
   title: "It’s Time",
   artist: "imagine-dragons",
-  externalId: "7acb0e37-2575-405a-95e4-a91057d50ae1",
-  externalLink: "https://musicbrainz.org/work/7acb0e37-2575-405a-95e4-a91057d50ae1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7acb0e37-2575-405a-95e4-a91057d50ae1",
+      externalLink: "https://musicbrainz.org/work/7acb0e37-2575-405a-95e4-a91057d50ae1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

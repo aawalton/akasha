@@ -6,10 +6,14 @@ export const kellyClarksonHowIFeel = {
   slug: "kelly-clarkson-how-i-feel",
   title: "How I Feel",
   artist: "kelly-clarkson",
-  externalId: "ea08aed3-2e8b-4543-82c4-b6f772b616dc",
-  externalLink: "https://musicbrainz.org/work/ea08aed3-2e8b-4543-82c4-b6f772b616dc",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ea08aed3-2e8b-4543-82c4-b6f772b616dc",
+      externalLink: "https://musicbrainz.org/work/ea08aed3-2e8b-4543-82c4-b6f772b616dc",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

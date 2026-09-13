@@ -6,10 +6,14 @@ export const imagineDragonsKid = {
   slug: "imagine-dragons-kid",
   title: "Kid",
   artist: "imagine-dragons",
-  externalId: "e200fea5-c3df-4e38-8754-2545b979c55c",
-  externalLink: "https://musicbrainz.org/work/e200fea5-c3df-4e38-8754-2545b979c55c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e200fea5-c3df-4e38-8754-2545b979c55c",
+      externalLink: "https://musicbrainz.org/work/e200fea5-c3df-4e38-8754-2545b979c55c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

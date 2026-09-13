@@ -6,10 +6,14 @@ export const kellyClarksonIDoNotHookUp = {
   slug: "kelly-clarkson-i-do-not-hook-up",
   title: "I Do Not Hook Up",
   artist: "kelly-clarkson",
-  externalId: "1f8d389c-3498-355d-a1b4-cb5ba07b52e4",
-  externalLink: "https://musicbrainz.org/work/1f8d389c-3498-355d-a1b4-cb5ba07b52e4",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1f8d389c-3498-355d-a1b4-cb5ba07b52e4",
+      externalLink: "https://musicbrainz.org/work/1f8d389c-3498-355d-a1b4-cb5ba07b52e4",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

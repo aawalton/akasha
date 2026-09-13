@@ -6,10 +6,14 @@ export const jessicaBaioAllISawWasYou = {
   slug: "jessica-baio-all-i-saw-was-you",
   title: "ALL I SAW WAS YOU",
   artist: "jessica-baio",
-  externalId: "4141cf18-35b5-4b66-ab85-3b881f0b6600",
-  externalLink: "https://musicbrainz.org/recording/4141cf18-35b5-4b66-ab85-3b881f0b6600",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4141cf18-35b5-4b66-ab85-3b881f0b6600",
+      externalLink: "https://musicbrainz.org/recording/4141cf18-35b5-4b66-ab85-3b881f0b6600",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

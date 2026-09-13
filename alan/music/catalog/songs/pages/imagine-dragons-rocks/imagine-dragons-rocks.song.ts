@@ -6,10 +6,14 @@ export const imagineDragonsRocks = {
   slug: "imagine-dragons-rocks",
   title: "Rocks",
   artist: "imagine-dragons",
-  externalId: "3678d723-e369-4812-a8e7-57e887da89c1",
-  externalLink: "https://musicbrainz.org/work/3678d723-e369-4812-a8e7-57e887da89c1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3678d723-e369-4812-a8e7-57e887da89c1",
+      externalLink: "https://musicbrainz.org/work/3678d723-e369-4812-a8e7-57e887da89c1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

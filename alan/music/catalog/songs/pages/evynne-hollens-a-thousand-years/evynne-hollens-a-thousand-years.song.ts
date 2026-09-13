@@ -6,10 +6,14 @@ export const evynneHollensAThousandYears = {
   slug: "evynne-hollens-a-thousand-years",
   title: "A Thousand Years",
   artist: "evynne-hollens",
-  externalId: "2cb8d852-60c7-4e63-88f0-487624de93bd",
-  externalLink: "https://musicbrainz.org/work/2cb8d852-60c7-4e63-88f0-487624de93bd",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2cb8d852-60c7-4e63-88f0-487624de93bd",
+      externalLink: "https://musicbrainz.org/work/2cb8d852-60c7-4e63-88f0-487624de93bd",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const imagineDragonsMonday = {
   slug: "imagine-dragons-monday",
   title: "Monday",
   artist: "imagine-dragons",
-  externalId: "3c6844ae-4b63-4a6c-8b64-e27df8e9908c",
-  externalLink: "https://musicbrainz.org/work/3c6844ae-4b63-4a6c-8b64-e27df8e9908c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3c6844ae-4b63-4a6c-8b64-e27df8e9908c",
+      externalLink: "https://musicbrainz.org/work/3c6844ae-4b63-4a6c-8b64-e27df8e9908c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

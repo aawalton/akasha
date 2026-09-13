@@ -6,10 +6,14 @@ export const imagineDragonsTrouble = {
   slug: "imagine-dragons-trouble",
   title: "Trouble",
   artist: "imagine-dragons",
-  externalId: "aa8c5853-f3cb-492d-9d8b-ec27e77feb65",
-  externalLink: "https://musicbrainz.org/work/aa8c5853-f3cb-492d-9d8b-ec27e77feb65",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "aa8c5853-f3cb-492d-9d8b-ec27e77feb65",
+      externalLink: "https://musicbrainz.org/work/aa8c5853-f3cb-492d-9d8b-ec27e77feb65",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

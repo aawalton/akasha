@@ -6,10 +6,14 @@ export const jessicaBaioBadTimes = {
   slug: "jessica-baio-bad-times",
   title: "bad times",
   artist: "jessica-baio",
-  externalId: "068dd601-f033-424b-af34-ddc8eddafd16",
-  externalLink: "https://musicbrainz.org/recording/068dd601-f033-424b-af34-ddc8eddafd16",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "068dd601-f033-424b-af34-ddc8eddafd16",
+      externalLink: "https://musicbrainz.org/recording/068dd601-f033-424b-af34-ddc8eddafd16",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

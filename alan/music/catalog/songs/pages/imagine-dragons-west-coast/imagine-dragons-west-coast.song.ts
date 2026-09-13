@@ -6,10 +6,14 @@ export const imagineDragonsWestCoast = {
   slug: "imagine-dragons-west-coast",
   title: "West Coast",
   artist: "imagine-dragons",
-  externalId: "6280bfb2-ebb3-40c1-a760-dafa18cef01a",
-  externalLink: "https://musicbrainz.org/work/6280bfb2-ebb3-40c1-a760-dafa18cef01a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6280bfb2-ebb3-40c1-a760-dafa18cef01a",
+      externalLink: "https://musicbrainz.org/work/6280bfb2-ebb3-40c1-a760-dafa18cef01a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const imagineDragonsBlur = {
   slug: "imagine-dragons-blur",
   title: "Blur",
   artist: "imagine-dragons",
-  externalId: "571559b1-70a8-4020-8646-08d6b2f533bc",
-  externalLink: "https://musicbrainz.org/work/571559b1-70a8-4020-8646-08d6b2f533bc",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "571559b1-70a8-4020-8646-08d6b2f533bc",
+      externalLink: "https://musicbrainz.org/work/571559b1-70a8-4020-8646-08d6b2f533bc",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

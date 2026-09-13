@@ -6,10 +6,14 @@ export const kellyClarksonSecondWind = {
   slug: "kelly-clarkson-second-wind",
   title: "Second Wind",
   artist: "kelly-clarkson",
-  externalId: "0d542b3a-7e10-4188-af4c-b4fe28cc7a03",
-  externalLink: "https://musicbrainz.org/work/0d542b3a-7e10-4188-af4c-b4fe28cc7a03",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0d542b3a-7e10-4188-af4c-b4fe28cc7a03",
+      externalLink: "https://musicbrainz.org/work/0d542b3a-7e10-4188-af4c-b4fe28cc7a03",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

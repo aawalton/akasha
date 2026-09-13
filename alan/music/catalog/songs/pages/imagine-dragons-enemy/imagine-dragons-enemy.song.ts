@@ -6,10 +6,14 @@ export const imagineDragonsEnemy = {
   slug: "imagine-dragons-enemy",
   title: "Enemy",
   artist: "imagine-dragons",
-  externalId: "b936a01d-8a99-4bc0-911e-7886ed7b46d2",
-  externalLink: "https://musicbrainz.org/work/b936a01d-8a99-4bc0-911e-7886ed7b46d2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b936a01d-8a99-4bc0-911e-7886ed7b46d2",
+      externalLink: "https://musicbrainz.org/work/b936a01d-8a99-4bc0-911e-7886ed7b46d2",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

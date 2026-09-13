@@ -6,10 +6,14 @@ export const imagineDragonsLove = {
   slug: "imagine-dragons-love",
   title: "Love",
   artist: "imagine-dragons",
-  externalId: "a811a402-7f5b-4f56-88b2-15d57f21c8b6",
-  externalLink: "https://musicbrainz.org/work/a811a402-7f5b-4f56-88b2-15d57f21c8b6",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a811a402-7f5b-4f56-88b2-15d57f21c8b6",
+      externalLink: "https://musicbrainz.org/work/a811a402-7f5b-4f56-88b2-15d57f21c8b6",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

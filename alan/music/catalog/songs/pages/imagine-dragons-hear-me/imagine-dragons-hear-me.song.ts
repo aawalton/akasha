@@ -6,10 +6,14 @@ export const imagineDragonsHearMe = {
   slug: "imagine-dragons-hear-me",
   title: "Hear Me",
   artist: "imagine-dragons",
-  externalId: "693340eb-cf1e-4911-bba8-326488b3c56b",
-  externalLink: "https://musicbrainz.org/work/693340eb-cf1e-4911-bba8-326488b3c56b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "693340eb-cf1e-4911-bba8-326488b3c56b",
+      externalLink: "https://musicbrainz.org/work/693340eb-cf1e-4911-bba8-326488b3c56b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

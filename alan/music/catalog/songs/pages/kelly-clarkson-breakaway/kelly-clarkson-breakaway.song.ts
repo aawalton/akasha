@@ -6,10 +6,14 @@ export const kellyClarksonBreakaway = {
   slug: "kelly-clarkson-breakaway",
   title: "Breakaway",
   artist: "kelly-clarkson",
-  externalId: "2701fa8d-033c-31d5-a65a-4641b1a20455",
-  externalLink: "https://musicbrainz.org/work/2701fa8d-033c-31d5-a65a-4641b1a20455",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2701fa8d-033c-31d5-a65a-4641b1a20455",
+      externalLink: "https://musicbrainz.org/work/2701fa8d-033c-31d5-a65a-4641b1a20455",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

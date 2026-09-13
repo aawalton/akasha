@@ -6,10 +6,14 @@ export const jessicaBaioFerrari = {
   slug: "jessica-baio-ferrari",
   title: "ferrari",
   artist: "jessica-baio",
-  externalId: "02568915-1df1-4b4d-917b-d354a4a272a4",
-  externalLink: "https://musicbrainz.org/recording/02568915-1df1-4b4d-917b-d354a4a272a4",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "02568915-1df1-4b4d-917b-d354a4a272a4",
+      externalLink: "https://musicbrainz.org/recording/02568915-1df1-4b4d-917b-d354a4a272a4",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

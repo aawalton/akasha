@@ -6,10 +6,14 @@ export const imagineDragonsDream = {
   slug: "imagine-dragons-dream",
   title: "Dream",
   artist: "imagine-dragons",
-  externalId: "b7dd2a2b-8ab8-4ca7-87a6-fae26cc9e812",
-  externalLink: "https://musicbrainz.org/work/b7dd2a2b-8ab8-4ca7-87a6-fae26cc9e812",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b7dd2a2b-8ab8-4ca7-87a6-fae26cc9e812",
+      externalLink: "https://musicbrainz.org/work/b7dd2a2b-8ab8-4ca7-87a6-fae26cc9e812",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

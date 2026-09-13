@@ -6,10 +6,14 @@ export const kellyClarksonYouForChristmas = {
   slug: "kelly-clarkson-you-for-christmas",
   title: "You for Christmas",
   artist: "kelly-clarkson",
-  externalId: "157b92be-a81c-4b06-a544-1b4cf42b11d5",
-  externalLink: "https://musicbrainz.org/work/157b92be-a81c-4b06-a544-1b4cf42b11d5",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "157b92be-a81c-4b06-a544-1b4cf42b11d5",
+      externalLink: "https://musicbrainz.org/work/157b92be-a81c-4b06-a544-1b4cf42b11d5",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

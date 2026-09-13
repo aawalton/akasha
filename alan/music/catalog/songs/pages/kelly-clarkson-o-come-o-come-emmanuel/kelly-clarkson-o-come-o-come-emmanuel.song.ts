@@ -6,10 +6,14 @@ export const kellyClarksonOComeOComeEmmanuel = {
   slug: "kelly-clarkson-o-come-o-come-emmanuel",
   title: "O Come, O Come, Emmanuel",
   artist: "kelly-clarkson",
-  externalId: "09d0b344-1396-4985-a3aa-d4b4db7e2b33",
-  externalLink: "https://musicbrainz.org/work/09d0b344-1396-4985-a3aa-d4b4db7e2b33",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "09d0b344-1396-4985-a3aa-d4b4db7e2b33",
+      externalLink: "https://musicbrainz.org/work/09d0b344-1396-4985-a3aa-d4b4db7e2b33",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

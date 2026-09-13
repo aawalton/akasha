@@ -6,10 +6,14 @@ export const kellyClarksonMerryChristmasBaby = {
   slug: "kelly-clarkson-merry-christmas-baby",
   title: "Merry Christmas Baby",
   artist: "kelly-clarkson",
-  externalId: "2131259f-ae81-434d-a37f-8cd8130a2cc3",
-  externalLink: "https://musicbrainz.org/work/2131259f-ae81-434d-a37f-8cd8130a2cc3",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2131259f-ae81-434d-a37f-8cd8130a2cc3",
+      externalLink: "https://musicbrainz.org/work/2131259f-ae81-434d-a37f-8cd8130a2cc3",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

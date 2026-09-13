@@ -6,10 +6,14 @@ export const lilithMaxBearsWolves = {
   slug: "lilith-max-bears-wolves",
   title: "Bears & Wolves",
   artist: "lilith-max",
-  externalId: "71824307-8169-4fd5-b567-f85ec512f6dc",
-  externalLink: "https://musicbrainz.org/recording/71824307-8169-4fd5-b567-f85ec512f6dc",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "71824307-8169-4fd5-b567-f85ec512f6dc",
+      externalLink: "https://musicbrainz.org/recording/71824307-8169-4fd5-b567-f85ec512f6dc",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

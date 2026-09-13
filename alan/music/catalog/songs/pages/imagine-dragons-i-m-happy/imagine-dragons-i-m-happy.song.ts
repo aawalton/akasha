@@ -6,10 +6,14 @@ export const imagineDragonsIMHappy = {
   slug: "imagine-dragons-i-m-happy",
   title: "I’m Happy",
   artist: "imagine-dragons",
-  externalId: "c0bfa305-0705-4b83-a10e-96cd2baef8e9",
-  externalLink: "https://musicbrainz.org/work/c0bfa305-0705-4b83-a10e-96cd2baef8e9",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c0bfa305-0705-4b83-a10e-96cd2baef8e9",
+      externalLink: "https://musicbrainz.org/work/c0bfa305-0705-4b83-a10e-96cd2baef8e9",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const kellyClarksonPoisonWine = {
   slug: "kelly-clarkson-poison-wine",
   title: "Poison & Wine",
   artist: "kelly-clarkson",
-  externalId: "a0523a5a-3411-3863-801c-9719d7238957",
-  externalLink: "https://musicbrainz.org/work/a0523a5a-3411-3863-801c-9719d7238957",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a0523a5a-3411-3863-801c-9719d7238957",
+      externalLink: "https://musicbrainz.org/work/a0523a5a-3411-3863-801c-9719d7238957",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

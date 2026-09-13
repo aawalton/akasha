@@ -6,10 +6,14 @@ export const kellyClarksonDonT = {
   slug: "kelly-clarkson-don-t",
   title: "Don't",
   artist: "kelly-clarkson",
-  externalId: "51f62874-703d-31e3-8e59-2de0f5d4d692",
-  externalLink: "https://musicbrainz.org/work/51f62874-703d-31e3-8e59-2de0f5d4d692",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "51f62874-703d-31e3-8e59-2de0f5d4d692",
+      externalLink: "https://musicbrainz.org/work/51f62874-703d-31e3-8e59-2de0f5d4d692",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

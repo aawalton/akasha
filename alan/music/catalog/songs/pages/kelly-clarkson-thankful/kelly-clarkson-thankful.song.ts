@@ -6,10 +6,14 @@ export const kellyClarksonThankful = {
   slug: "kelly-clarkson-thankful",
   title: "Thankful",
   artist: "kelly-clarkson",
-  externalId: "8fb30c44-2d17-40ea-90bf-5d3918b9360a",
-  externalLink: "https://musicbrainz.org/work/8fb30c44-2d17-40ea-90bf-5d3918b9360a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8fb30c44-2d17-40ea-90bf-5d3918b9360a",
+      externalLink: "https://musicbrainz.org/work/8fb30c44-2d17-40ea-90bf-5d3918b9360a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

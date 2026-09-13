@@ -6,10 +6,14 @@ export const imagineDragonsRealLife = {
   slug: "imagine-dragons-real-life",
   title: "Real Life",
   artist: "imagine-dragons",
-  externalId: "8123601d-0df3-437e-964d-1c31d7421318",
-  externalLink: "https://musicbrainz.org/work/8123601d-0df3-437e-964d-1c31d7421318",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8123601d-0df3-437e-964d-1c31d7421318",
+      externalLink: "https://musicbrainz.org/work/8123601d-0df3-437e-964d-1c31d7421318",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

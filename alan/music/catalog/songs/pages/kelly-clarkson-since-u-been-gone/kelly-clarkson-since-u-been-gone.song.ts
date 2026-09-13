@@ -6,10 +6,14 @@ export const kellyClarksonSinceUBeenGone = {
   slug: "kelly-clarkson-since-u-been-gone",
   title: "Since U Been Gone",
   artist: "kelly-clarkson",
-  externalId: "8cec7817-e78f-39f4-b58e-3cc9bf830423",
-  externalLink: "https://musicbrainz.org/work/8cec7817-e78f-39f4-b58e-3cc9bf830423",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8cec7817-e78f-39f4-b58e-3cc9bf830423",
+      externalLink: "https://musicbrainz.org/work/8cec7817-e78f-39f4-b58e-3cc9bf830423",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

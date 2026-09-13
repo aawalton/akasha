@@ -6,10 +6,14 @@ export const imagineDragonsILlMakeItUpToYou = {
   slug: "imagine-dragons-i-ll-make-it-up-to-you",
   title: "I’ll Make It Up to You",
   artist: "imagine-dragons",
-  externalId: "9480f4de-ff56-4248-9366-eef3caeed7ad",
-  externalLink: "https://musicbrainz.org/work/9480f4de-ff56-4248-9366-eef3caeed7ad",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9480f4de-ff56-4248-9366-eef3caeed7ad",
+      externalLink: "https://musicbrainz.org/work/9480f4de-ff56-4248-9366-eef3caeed7ad",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

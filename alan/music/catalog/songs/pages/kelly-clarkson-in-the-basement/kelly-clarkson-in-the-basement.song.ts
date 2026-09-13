@@ -6,10 +6,14 @@ export const kellyClarksonInTheBasement = {
   slug: "kelly-clarkson-in-the-basement",
   title: "In the Basement",
   artist: "kelly-clarkson",
-  externalId: "90fd65f3-e27d-46fe-9756-3690bb3ed1b5",
-  externalLink: "https://musicbrainz.org/work/90fd65f3-e27d-46fe-9756-3690bb3ed1b5",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "90fd65f3-e27d-46fe-9756-3690bb3ed1b5",
+      externalLink: "https://musicbrainz.org/work/90fd65f3-e27d-46fe-9756-3690bb3ed1b5",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

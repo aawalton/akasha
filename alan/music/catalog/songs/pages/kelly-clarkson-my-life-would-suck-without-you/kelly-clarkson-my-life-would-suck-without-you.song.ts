@@ -6,10 +6,14 @@ export const kellyClarksonMyLifeWouldSuckWithoutYou = {
   slug: "kelly-clarkson-my-life-would-suck-without-you",
   title: "My Life Would Suck Without You",
   artist: "kelly-clarkson",
-  externalId: "3da16acc-cc19-3e2d-8896-d1d4041867b9",
-  externalLink: "https://musicbrainz.org/work/3da16acc-cc19-3e2d-8896-d1d4041867b9",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3da16acc-cc19-3e2d-8896-d1d4041867b9",
+      externalLink: "https://musicbrainz.org/work/3da16acc-cc19-3e2d-8896-d1d4041867b9",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

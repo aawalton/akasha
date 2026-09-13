@@ -6,10 +6,14 @@ export const imagineDragonsYesterday = {
   slug: "imagine-dragons-yesterday",
   title: "Yesterday",
   artist: "imagine-dragons",
-  externalId: "d4b54014-67fb-43b8-8513-0c3acb3722e3",
-  externalLink: "https://musicbrainz.org/work/d4b54014-67fb-43b8-8513-0c3acb3722e3",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d4b54014-67fb-43b8-8513-0c3acb3722e3",
+      externalLink: "https://musicbrainz.org/work/d4b54014-67fb-43b8-8513-0c3acb3722e3",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

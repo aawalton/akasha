@@ -6,10 +6,14 @@ export const imagineDragonsIDonTKnowWhy = {
   slug: "imagine-dragons-i-don-t-know-why",
   title: "I Don’t Know Why",
   artist: "imagine-dragons",
-  externalId: "3867f200-8807-48ad-90a3-992fb93d41ff",
-  externalLink: "https://musicbrainz.org/work/3867f200-8807-48ad-90a3-992fb93d41ff",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3867f200-8807-48ad-90a3-992fb93d41ff",
+      externalLink: "https://musicbrainz.org/work/3867f200-8807-48ad-90a3-992fb93d41ff",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

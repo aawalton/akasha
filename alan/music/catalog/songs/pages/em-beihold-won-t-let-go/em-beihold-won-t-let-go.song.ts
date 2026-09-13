@@ -6,10 +6,14 @@ export const emBeiholdWonTLetGo = {
   slug: "em-beihold-won-t-let-go",
   title: "Won’t Let Go",
   artist: "em-beihold",
-  externalId: "b1079ebb-0918-4fb1-a36b-9fe5590d0fbb",
-  externalLink: "https://musicbrainz.org/work/b1079ebb-0918-4fb1-a36b-9fe5590d0fbb",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b1079ebb-0918-4fb1-a36b-9fe5590d0fbb",
+      externalLink: "https://musicbrainz.org/work/b1079ebb-0918-4fb1-a36b-9fe5590d0fbb",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const imagineDragonsHandInMyPocket = {
   slug: "imagine-dragons-hand-in-my-pocket",
   title: "Hand in My Pocket",
   artist: "imagine-dragons",
-  externalId: "9223a61c-6464-3e6d-8eeb-9feb63e94c48",
-  externalLink: "https://musicbrainz.org/work/9223a61c-6464-3e6d-8eeb-9feb63e94c48",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9223a61c-6464-3e6d-8eeb-9feb63e94c48",
+      externalLink: "https://musicbrainz.org/work/9223a61c-6464-3e6d-8eeb-9feb63e94c48",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

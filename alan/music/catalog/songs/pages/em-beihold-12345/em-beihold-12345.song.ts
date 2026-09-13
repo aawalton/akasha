@@ -6,10 +6,14 @@ export const emBeihold12345 = {
   slug: "em-beihold-12345",
   title: "12345",
   artist: "em-beihold",
-  externalId: "f8c3d47e-e8a0-465b-8483-4f9702effda2",
-  externalLink: "https://musicbrainz.org/work/f8c3d47e-e8a0-465b-8483-4f9702effda2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f8c3d47e-e8a0-465b-8483-4f9702effda2",
+      externalLink: "https://musicbrainz.org/work/f8c3d47e-e8a0-465b-8483-4f9702effda2",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const imagineDragonsFriction = {
   slug: "imagine-dragons-friction",
   title: "Friction",
   artist: "imagine-dragons",
-  externalId: "3e7a029b-1a07-444c-828f-077e4e0ad223",
-  externalLink: "https://musicbrainz.org/work/3e7a029b-1a07-444c-828f-077e4e0ad223",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3e7a029b-1a07-444c-828f-077e4e0ad223",
+      externalLink: "https://musicbrainz.org/work/3e7a029b-1a07-444c-828f-077e4e0ad223",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

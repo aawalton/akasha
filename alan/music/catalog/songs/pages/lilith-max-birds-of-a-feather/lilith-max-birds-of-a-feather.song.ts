@@ -6,10 +6,14 @@ export const lilithMaxBirdsOfAFeather = {
   slug: "lilith-max-birds-of-a-feather",
   title: "Birds of a Feather",
   artist: "lilith-max",
-  externalId: "a674baf7-2b2c-4344-b155-632be1596873",
-  externalLink: "https://musicbrainz.org/recording/a674baf7-2b2c-4344-b155-632be1596873",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a674baf7-2b2c-4344-b155-632be1596873",
+      externalLink: "https://musicbrainz.org/recording/a674baf7-2b2c-4344-b155-632be1596873",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

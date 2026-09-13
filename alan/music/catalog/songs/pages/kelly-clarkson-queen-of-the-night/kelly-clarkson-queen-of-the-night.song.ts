@@ -6,10 +6,14 @@ export const kellyClarksonQueenOfTheNight = {
   slug: "kelly-clarkson-queen-of-the-night",
   title: "Queen of the Night",
   artist: "kelly-clarkson",
-  externalId: "20e9348e-d961-41da-88e9-b8aa3a7267be",
-  externalLink: "https://musicbrainz.org/work/20e9348e-d961-41da-88e9-b8aa3a7267be",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "20e9348e-d961-41da-88e9-b8aa3a7267be",
+      externalLink: "https://musicbrainz.org/work/20e9348e-d961-41da-88e9-b8aa3a7267be",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

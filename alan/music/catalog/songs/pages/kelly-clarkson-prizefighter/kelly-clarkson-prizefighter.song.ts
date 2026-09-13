@@ -6,10 +6,14 @@ export const kellyClarksonPrizefighter = {
   slug: "kelly-clarkson-prizefighter",
   title: "PrizeFighter",
   artist: "kelly-clarkson",
-  externalId: "050fea11-6c9c-43cb-aa20-036fd0935456",
-  externalLink: "https://musicbrainz.org/work/050fea11-6c9c-43cb-aa20-036fd0935456",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "050fea11-6c9c-43cb-aa20-036fd0935456",
+      externalLink: "https://musicbrainz.org/work/050fea11-6c9c-43cb-aa20-036fd0935456",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

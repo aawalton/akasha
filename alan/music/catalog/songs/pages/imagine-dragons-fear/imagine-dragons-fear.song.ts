@@ -6,10 +6,14 @@ export const imagineDragonsFear = {
   slug: "imagine-dragons-fear",
   title: "Fear",
   artist: "imagine-dragons",
-  externalId: "81428c16-7980-4c26-8d36-38be1af0b67e",
-  externalLink: "https://musicbrainz.org/work/81428c16-7980-4c26-8d36-38be1af0b67e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "81428c16-7980-4c26-8d36-38be1af0b67e",
+      externalLink: "https://musicbrainz.org/work/81428c16-7980-4c26-8d36-38be1af0b67e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

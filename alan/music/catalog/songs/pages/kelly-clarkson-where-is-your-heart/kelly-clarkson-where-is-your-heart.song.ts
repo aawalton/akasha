@@ -6,10 +6,14 @@ export const kellyClarksonWhereIsYourHeart = {
   slug: "kelly-clarkson-where-is-your-heart",
   title: "Where Is Your Heart",
   artist: "kelly-clarkson",
-  externalId: "c74cb12f-b969-3cdc-ac42-d3fa26713e17",
-  externalLink: "https://musicbrainz.org/work/c74cb12f-b969-3cdc-ac42-d3fa26713e17",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c74cb12f-b969-3cdc-ac42-d3fa26713e17",
+      externalLink: "https://musicbrainz.org/work/c74cb12f-b969-3cdc-ac42-d3fa26713e17",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

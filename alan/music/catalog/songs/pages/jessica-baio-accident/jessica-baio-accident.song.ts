@@ -6,10 +6,14 @@ export const jessicaBaioAccident = {
   slug: "jessica-baio-accident",
   title: "accident",
   artist: "jessica-baio",
-  externalId: "247d32af-0b49-4ea2-9a53-4ccfd8e16868",
-  externalLink: "https://musicbrainz.org/recording/247d32af-0b49-4ea2-9a53-4ccfd8e16868",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "247d32af-0b49-4ea2-9a53-4ccfd8e16868",
+      externalLink: "https://musicbrainz.org/recording/247d32af-0b49-4ea2-9a53-4ccfd8e16868",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

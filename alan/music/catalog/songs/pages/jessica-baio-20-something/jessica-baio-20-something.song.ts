@@ -6,10 +6,14 @@ export const jessicaBaio20Something = {
   slug: "jessica-baio-20-something",
   title: "20 something",
   artist: "jessica-baio",
-  externalId: "20d0322b-d3bc-441c-811f-4ce95dd5435b",
-  externalLink: "https://musicbrainz.org/recording/20d0322b-d3bc-441c-811f-4ce95dd5435b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "20d0322b-d3bc-441c-811f-4ce95dd5435b",
+      externalLink: "https://musicbrainz.org/recording/20d0322b-d3bc-441c-811f-4ce95dd5435b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const kellyClarksonAMomentLikeThis = {
   slug: "kelly-clarkson-a-moment-like-this",
   title: "A Moment Like This",
   artist: "kelly-clarkson",
-  externalId: "19d4e392-3200-30c1-aa41-c395ef0d61e4",
-  externalLink: "https://musicbrainz.org/work/19d4e392-3200-30c1-aa41-c395ef0d61e4",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "19d4e392-3200-30c1-aa41-c395ef0d61e4",
+      externalLink: "https://musicbrainz.org/work/19d4e392-3200-30c1-aa41-c395ef0d61e4",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

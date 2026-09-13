@@ -6,10 +6,14 @@ export const kellyClarksonHeartbeatSong = {
   slug: "kelly-clarkson-heartbeat-song",
   title: "Heartbeat Song",
   artist: "kelly-clarkson",
-  externalId: "d7e2dac9-57b6-4561-9698-670fc54bc4c1",
-  externalLink: "https://musicbrainz.org/work/d7e2dac9-57b6-4561-9698-670fc54bc4c1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d7e2dac9-57b6-4561-9698-670fc54bc4c1",
+      externalLink: "https://musicbrainz.org/work/d7e2dac9-57b6-4561-9698-670fc54bc4c1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

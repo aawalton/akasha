@@ -6,10 +6,14 @@ export const emBeiholdFantasy = {
   slug: "em-beihold-fantasy",
   title: "Fantasy",
   artist: "em-beihold",
-  externalId: "ae64ef8f-d399-43af-8923-1bfb36e9d251",
-  externalLink: "https://musicbrainz.org/work/ae64ef8f-d399-43af-8923-1bfb36e9d251",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ae64ef8f-d399-43af-8923-1bfb36e9d251",
+      externalLink: "https://musicbrainz.org/work/ae64ef8f-d399-43af-8923-1bfb36e9d251",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

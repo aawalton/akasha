@@ -6,10 +6,14 @@ export const imagineDragonsRelease = {
   slug: "imagine-dragons-release",
   title: "Release",
   artist: "imagine-dragons",
-  externalId: "ed48dced-5167-49a4-a6e6-0c13045f4b97",
-  externalLink: "https://musicbrainz.org/work/ed48dced-5167-49a4-a6e6-0c13045f4b97",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ed48dced-5167-49a4-a6e6-0c13045f4b97",
+      externalLink: "https://musicbrainz.org/work/ed48dced-5167-49a4-a6e6-0c13045f4b97",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

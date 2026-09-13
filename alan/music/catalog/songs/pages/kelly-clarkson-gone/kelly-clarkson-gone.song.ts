@@ -6,10 +6,14 @@ export const kellyClarksonGone = {
   slug: "kelly-clarkson-gone",
   title: "Gone",
   artist: "kelly-clarkson",
-  externalId: "bd482b75-57c4-39d3-908c-fb1a0d4224a9",
-  externalLink: "https://musicbrainz.org/work/bd482b75-57c4-39d3-908c-fb1a0d4224a9",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "bd482b75-57c4-39d3-908c-fb1a0d4224a9",
+      externalLink: "https://musicbrainz.org/work/bd482b75-57c4-39d3-908c-fb1a0d4224a9",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

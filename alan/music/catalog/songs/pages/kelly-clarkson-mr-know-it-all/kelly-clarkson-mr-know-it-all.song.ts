@@ -6,10 +6,14 @@ export const kellyClarksonMrKnowItAll = {
   slug: "kelly-clarkson-mr-know-it-all",
   title: "Mr. Know It All",
   artist: "kelly-clarkson",
-  externalId: "6f79a4d5-d30d-4915-8cfa-538cb0507953",
-  externalLink: "https://musicbrainz.org/work/6f79a4d5-d30d-4915-8cfa-538cb0507953",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6f79a4d5-d30d-4915-8cfa-538cb0507953",
+      externalLink: "https://musicbrainz.org/work/6f79a4d5-d30d-4915-8cfa-538cb0507953",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

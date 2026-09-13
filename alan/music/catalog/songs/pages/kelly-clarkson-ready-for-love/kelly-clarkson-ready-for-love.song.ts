@@ -6,10 +6,14 @@ export const kellyClarksonReadyForLove = {
   slug: "kelly-clarkson-ready-for-love",
   title: "Ready for Love",
   artist: "kelly-clarkson",
-  externalId: "d1f8c751-d9bc-43c8-941c-29d4484873f0",
-  externalLink: "https://musicbrainz.org/work/d1f8c751-d9bc-43c8-941c-29d4484873f0",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d1f8c751-d9bc-43c8-941c-29d4484873f0",
+      externalLink: "https://musicbrainz.org/work/d1f8c751-d9bc-43c8-941c-29d4484873f0",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

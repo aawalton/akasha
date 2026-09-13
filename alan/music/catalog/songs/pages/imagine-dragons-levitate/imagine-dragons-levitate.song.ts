@@ -6,10 +6,14 @@ export const imagineDragonsLevitate = {
   slug: "imagine-dragons-levitate",
   title: "Levitate",
   artist: "imagine-dragons",
-  externalId: "c1896cc5-bc55-4740-b482-c1e5c0299950",
-  externalLink: "https://musicbrainz.org/work/c1896cc5-bc55-4740-b482-c1e5c0299950",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c1896cc5-bc55-4740-b482-c1e5c0299950",
+      externalLink: "https://musicbrainz.org/work/c1896cc5-bc55-4740-b482-c1e5c0299950",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

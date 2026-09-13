@@ -6,10 +6,14 @@ export const evynneHollensAMillionDreams = {
   slug: "evynne-hollens-a-million-dreams",
   title: "A Million Dreams",
   artist: "evynne-hollens",
-  externalId: "551e27c0-5042-40ff-9662-fb30f7eca66d",
-  externalLink: "https://musicbrainz.org/work/551e27c0-5042-40ff-9662-fb30f7eca66d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "551e27c0-5042-40ff-9662-fb30f7eca66d",
+      externalLink: "https://musicbrainz.org/work/551e27c0-5042-40ff-9662-fb30f7eca66d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const imagineDragonsCutthroat = {
   slug: "imagine-dragons-cutthroat",
   title: "Cutthroat",
   artist: "imagine-dragons",
-  externalId: "9a53cb92-b172-4504-8dce-8e0b9f83c84e",
-  externalLink: "https://musicbrainz.org/work/9a53cb92-b172-4504-8dce-8e0b9f83c84e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9a53cb92-b172-4504-8dce-8e0b9f83c84e",
+      externalLink: "https://musicbrainz.org/work/9a53cb92-b172-4504-8dce-8e0b9f83c84e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

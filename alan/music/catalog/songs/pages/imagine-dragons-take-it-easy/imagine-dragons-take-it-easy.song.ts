@@ -6,10 +6,14 @@ export const imagineDragonsTakeItEasy = {
   slug: "imagine-dragons-take-it-easy",
   title: "Take It Easy",
   artist: "imagine-dragons",
-  externalId: "c737a5c3-82bb-44a6-9c42-ca2eaa06de8d",
-  externalLink: "https://musicbrainz.org/work/c737a5c3-82bb-44a6-9c42-ca2eaa06de8d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c737a5c3-82bb-44a6-9c42-ca2eaa06de8d",
+      externalLink: "https://musicbrainz.org/work/c737a5c3-82bb-44a6-9c42-ca2eaa06de8d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

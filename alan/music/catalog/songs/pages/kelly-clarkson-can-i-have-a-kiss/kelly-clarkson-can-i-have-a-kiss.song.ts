@@ -6,10 +6,14 @@ export const kellyClarksonCanIHaveAKiss = {
   slug: "kelly-clarkson-can-i-have-a-kiss",
   title: "Can I Have a Kiss",
   artist: "kelly-clarkson",
-  externalId: "e6dea1c7-60e7-4e16-beeb-45ef9edd7a35",
-  externalLink: "https://musicbrainz.org/work/e6dea1c7-60e7-4e16-beeb-45ef9edd7a35",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e6dea1c7-60e7-4e16-beeb-45ef9edd7a35",
+      externalLink: "https://musicbrainz.org/work/e6dea1c7-60e7-4e16-beeb-45ef9edd7a35",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

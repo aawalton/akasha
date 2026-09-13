@@ -6,10 +6,14 @@ export const imagineDragonsHigherGround = {
   slug: "imagine-dragons-higher-ground",
   title: "Higher Ground",
   artist: "imagine-dragons",
-  externalId: "4b409796-03ee-4aff-b3af-7075458ec997",
-  externalLink: "https://musicbrainz.org/work/4b409796-03ee-4aff-b3af-7075458ec997",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4b409796-03ee-4aff-b3af-7075458ec997",
+      externalLink: "https://musicbrainz.org/work/4b409796-03ee-4aff-b3af-7075458ec997",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const imagineDragonsBadLiar = {
   slug: "imagine-dragons-bad-liar",
   title: "Bad Liar",
   artist: "imagine-dragons",
-  externalId: "c0031714-21fa-4529-aaaf-fafbd8c887ba",
-  externalLink: "https://musicbrainz.org/work/c0031714-21fa-4529-aaaf-fafbd8c887ba",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c0031714-21fa-4529-aaaf-fafbd8c887ba",
+      externalLink: "https://musicbrainz.org/work/c0031714-21fa-4529-aaaf-fafbd8c887ba",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

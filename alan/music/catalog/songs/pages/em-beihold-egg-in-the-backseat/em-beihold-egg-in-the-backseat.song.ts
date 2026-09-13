@@ -6,10 +6,14 @@ export const emBeiholdEggInTheBackseat = {
   slug: "em-beihold-egg-in-the-backseat",
   title: "Egg in the Backseat",
   artist: "em-beihold",
-  externalId: "4b01fe29-9ab5-4b9d-9715-7e501391856e",
-  externalLink: "https://musicbrainz.org/work/4b01fe29-9ab5-4b9d-9715-7e501391856e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4b01fe29-9ab5-4b9d-9715-7e501391856e",
+      externalLink: "https://musicbrainz.org/work/4b01fe29-9ab5-4b9d-9715-7e501391856e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

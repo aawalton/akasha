@@ -6,10 +6,14 @@ export const kellyClarksonAnytime = {
   slug: "kelly-clarkson-anytime",
   title: "Anytime",
   artist: "kelly-clarkson",
-  externalId: "caa60276-88a7-4627-93f2-1adf9e95aeb2",
-  externalLink: "https://musicbrainz.org/work/caa60276-88a7-4627-93f2-1adf9e95aeb2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "caa60276-88a7-4627-93f2-1adf9e95aeb2",
+      externalLink: "https://musicbrainz.org/work/caa60276-88a7-4627-93f2-1adf9e95aeb2",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

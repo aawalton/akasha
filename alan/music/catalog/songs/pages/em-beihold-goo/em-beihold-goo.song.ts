@@ -6,10 +6,14 @@ export const emBeiholdGoo = {
   slug: "em-beihold-goo",
   title: "Goo",
   artist: "em-beihold",
-  externalId: "0b734b72-f8d8-4f7b-acd0-323805e9fe2b",
-  externalLink: "https://musicbrainz.org/work/0b734b72-f8d8-4f7b-acd0-323805e9fe2b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0b734b72-f8d8-4f7b-acd0-323805e9fe2b",
+      externalLink: "https://musicbrainz.org/work/0b734b72-f8d8-4f7b-acd0-323805e9fe2b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

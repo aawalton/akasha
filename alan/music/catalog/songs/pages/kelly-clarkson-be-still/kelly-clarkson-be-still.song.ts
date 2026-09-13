@@ -6,10 +6,14 @@ export const kellyClarksonBeStill = {
   slug: "kelly-clarkson-be-still",
   title: "Be Still",
   artist: "kelly-clarkson",
-  externalId: "8ba8260e-f8b4-4aca-a03c-feeab5376275",
-  externalLink: "https://musicbrainz.org/work/8ba8260e-f8b4-4aca-a03c-feeab5376275",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8ba8260e-f8b4-4aca-a03c-feeab5376275",
+      externalLink: "https://musicbrainz.org/work/8ba8260e-f8b4-4aca-a03c-feeab5376275",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

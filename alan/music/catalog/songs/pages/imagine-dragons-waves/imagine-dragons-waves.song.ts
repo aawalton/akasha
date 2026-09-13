@@ -6,10 +6,14 @@ export const imagineDragonsWaves = {
   slug: "imagine-dragons-waves",
   title: "Waves",
   artist: "imagine-dragons",
-  externalId: "d72623d2-9b2c-4e55-a9db-fab634906787",
-  externalLink: "https://musicbrainz.org/work/d72623d2-9b2c-4e55-a9db-fab634906787",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d72623d2-9b2c-4e55-a9db-fab634906787",
+      externalLink: "https://musicbrainz.org/work/d72623d2-9b2c-4e55-a9db-fab634906787",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

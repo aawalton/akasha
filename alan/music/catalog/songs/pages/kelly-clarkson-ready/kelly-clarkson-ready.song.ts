@@ -6,10 +6,14 @@ export const kellyClarksonReady = {
   slug: "kelly-clarkson-ready",
   title: "Ready",
   artist: "kelly-clarkson",
-  externalId: "e457c8d8-f485-39c6-bc15-120624342320",
-  externalLink: "https://musicbrainz.org/work/e457c8d8-f485-39c6-bc15-120624342320",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e457c8d8-f485-39c6-bc15-120624342320",
+      externalLink: "https://musicbrainz.org/work/e457c8d8-f485-39c6-bc15-120624342320",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

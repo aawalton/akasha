@@ -6,10 +6,14 @@ export const kellyClarksonSecondHandHeart = {
   slug: "kelly-clarkson-second-hand-heart",
   title: "Second Hand Heart",
   artist: "kelly-clarkson",
-  externalId: "6e7a0137-54a4-4577-b20c-3bc4a8d15636",
-  externalLink: "https://musicbrainz.org/work/6e7a0137-54a4-4577-b20c-3bc4a8d15636",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6e7a0137-54a4-4577-b20c-3bc4a8d15636",
+      externalLink: "https://musicbrainz.org/work/6e7a0137-54a4-4577-b20c-3bc4a8d15636",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

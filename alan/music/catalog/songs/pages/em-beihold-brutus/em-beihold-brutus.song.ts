@@ -6,10 +6,14 @@ export const emBeiholdBrutus = {
   slug: "em-beihold-brutus",
   title: "Brutus",
   artist: "em-beihold",
-  externalId: "bc6c35c0-1077-41de-a0f3-e6c5d48a49cf",
-  externalLink: "https://musicbrainz.org/work/bc6c35c0-1077-41de-a0f3-e6c5d48a49cf",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "bc6c35c0-1077-41de-a0f3-e6c5d48a49cf",
+      externalLink: "https://musicbrainz.org/work/bc6c35c0-1077-41de-a0f3-e6c5d48a49cf",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

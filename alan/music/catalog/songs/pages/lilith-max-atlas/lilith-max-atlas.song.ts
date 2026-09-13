@@ -6,10 +6,14 @@ export const lilithMaxAtlas = {
   slug: "lilith-max-atlas",
   title: "Atlas",
   artist: "lilith-max",
-  externalId: "522a856d-d58a-4e3a-bc18-45a3f0e5a5e1",
-  externalLink: "https://musicbrainz.org/recording/522a856d-d58a-4e3a-bc18-45a3f0e5a5e1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "522a856d-d58a-4e3a-bc18-45a3f0e5a5e1",
+      externalLink: "https://musicbrainz.org/recording/522a856d-d58a-4e3a-bc18-45a3f0e5a5e1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const kellyClarksonAddicted = {
   slug: "kelly-clarkson-addicted",
   title: "Addicted",
   artist: "kelly-clarkson",
-  externalId: "dc238800-3b08-3ffe-a00f-6f6e50229225",
-  externalLink: "https://musicbrainz.org/work/dc238800-3b08-3ffe-a00f-6f6e50229225",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "dc238800-3b08-3ffe-a00f-6f6e50229225",
+      externalLink: "https://musicbrainz.org/work/dc238800-3b08-3ffe-a00f-6f6e50229225",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

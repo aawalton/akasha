@@ -6,10 +6,14 @@ export const emBeiholdLottery = {
   slug: "em-beihold-lottery",
   title: "Lottery",
   artist: "em-beihold",
-  externalId: "9729f0d0-445d-4480-ad52-f7de6ac64cd8",
-  externalLink: "https://musicbrainz.org/work/9729f0d0-445d-4480-ad52-f7de6ac64cd8",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9729f0d0-445d-4480-ad52-f7de6ac64cd8",
+      externalLink: "https://musicbrainz.org/work/9729f0d0-445d-4480-ad52-f7de6ac64cd8",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

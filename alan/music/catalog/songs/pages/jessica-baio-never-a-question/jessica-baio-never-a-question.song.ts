@@ -6,10 +6,14 @@ export const jessicaBaioNeverAQuestion = {
   slug: "jessica-baio-never-a-question",
   title: "never a question",
   artist: "jessica-baio",
-  externalId: "5604f87b-eab0-4dbf-9625-5e6e2c5e7e6b",
-  externalLink: "https://musicbrainz.org/recording/5604f87b-eab0-4dbf-9625-5e6e2c5e7e6b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5604f87b-eab0-4dbf-9625-5e6e2c5e7e6b",
+      externalLink: "https://musicbrainz.org/recording/5604f87b-eab0-4dbf-9625-5e6e2c5e7e6b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const imagineDragonsDancingInTheDark = {
   slug: "imagine-dragons-dancing-in-the-dark",
   title: "Dancing in the Dark",
   artist: "imagine-dragons",
-  externalId: "c54fabe0-0ba8-4bf8-b31c-1ff359b6719b",
-  externalLink: "https://musicbrainz.org/work/c54fabe0-0ba8-4bf8-b31c-1ff359b6719b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c54fabe0-0ba8-4bf8-b31c-1ff359b6719b",
+      externalLink: "https://musicbrainz.org/work/c54fabe0-0ba8-4bf8-b31c-1ff359b6719b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

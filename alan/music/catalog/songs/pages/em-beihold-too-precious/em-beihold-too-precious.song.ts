@@ -6,10 +6,14 @@ export const emBeiholdTooPrecious = {
   slug: "em-beihold-too-precious",
   title: "Too Precious",
   artist: "em-beihold",
-  externalId: "56aa3cd0-0f82-4e57-83bb-418823b30dba",
-  externalLink: "https://musicbrainz.org/work/56aa3cd0-0f82-4e57-83bb-418823b30dba",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "56aa3cd0-0f82-4e57-83bb-418823b30dba",
+      externalLink: "https://musicbrainz.org/work/56aa3cd0-0f82-4e57-83bb-418823b30dba",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const kellyClarksonItSBeginningToLookALotLikeChristmas = {
   slug: "kelly-clarkson-it-s-beginning-to-look-a-lot-like-christmas",
   title: "It’s Beginning to Look a Lot Like Christmas",
   artist: "kelly-clarkson",
-  externalId: "ffb60de2-3c6c-4c1f-b883-491075db11e1",
-  externalLink: "https://musicbrainz.org/work/ffb60de2-3c6c-4c1f-b883-491075db11e1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ffb60de2-3c6c-4c1f-b883-491075db11e1",
+      externalLink: "https://musicbrainz.org/work/ffb60de2-3c6c-4c1f-b883-491075db11e1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

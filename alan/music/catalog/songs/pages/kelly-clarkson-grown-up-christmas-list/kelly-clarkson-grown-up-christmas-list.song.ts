@@ -6,10 +6,14 @@ export const kellyClarksonGrownUpChristmasList = {
   slug: "kelly-clarkson-grown-up-christmas-list",
   title: "Grown Up Christmas List",
   artist: "kelly-clarkson",
-  externalId: "98bd7325-3428-4daf-9b86-cce2261fd6e8",
-  externalLink: "https://musicbrainz.org/work/98bd7325-3428-4daf-9b86-cce2261fd6e8",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "98bd7325-3428-4daf-9b86-cce2261fd6e8",
+      externalLink: "https://musicbrainz.org/work/98bd7325-3428-4daf-9b86-cce2261fd6e8",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

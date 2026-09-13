@@ -6,10 +6,14 @@ export const imagineDragonsWrecked = {
   slug: "imagine-dragons-wrecked",
   title: "Wrecked",
   artist: "imagine-dragons",
-  externalId: "908fa8e6-1c6d-4240-9e09-841262940e90",
-  externalLink: "https://musicbrainz.org/work/908fa8e6-1c6d-4240-9e09-841262940e90",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "908fa8e6-1c6d-4240-9e09-841262940e90",
+      externalLink: "https://musicbrainz.org/work/908fa8e6-1c6d-4240-9e09-841262940e90",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

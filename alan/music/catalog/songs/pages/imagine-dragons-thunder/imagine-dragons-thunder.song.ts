@@ -6,10 +6,14 @@ export const imagineDragonsThunder = {
   slug: "imagine-dragons-thunder",
   title: "Thunder",
   artist: "imagine-dragons",
-  externalId: "f0c6bc60-2838-4797-8700-9068a58bf02f",
-  externalLink: "https://musicbrainz.org/work/f0c6bc60-2838-4797-8700-9068a58bf02f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f0c6bc60-2838-4797-8700-9068a58bf02f",
+      externalLink: "https://musicbrainz.org/work/f0c6bc60-2838-4797-8700-9068a58bf02f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

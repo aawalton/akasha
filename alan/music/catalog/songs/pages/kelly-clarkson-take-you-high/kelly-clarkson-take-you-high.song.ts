@@ -6,10 +6,14 @@ export const kellyClarksonTakeYouHigh = {
   slug: "kelly-clarkson-take-you-high",
   title: "Take You High",
   artist: "kelly-clarkson",
-  externalId: "be9dd86b-0a92-4836-99da-c4db96d1db5e",
-  externalLink: "https://musicbrainz.org/work/be9dd86b-0a92-4836-99da-c4db96d1db5e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "be9dd86b-0a92-4836-99da-c4db96d1db5e",
+      externalLink: "https://musicbrainz.org/work/be9dd86b-0a92-4836-99da-c4db96d1db5e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

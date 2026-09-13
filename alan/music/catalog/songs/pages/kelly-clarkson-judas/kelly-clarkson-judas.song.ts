@@ -6,10 +6,14 @@ export const kellyClarksonJudas = {
   slug: "kelly-clarkson-judas",
   title: "Judas",
   artist: "kelly-clarkson",
-  externalId: "d0937939-4903-4ae2-bf02-22bf8ef607cd",
-  externalLink: "https://musicbrainz.org/work/d0937939-4903-4ae2-bf02-22bf8ef607cd",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d0937939-4903-4ae2-bf02-22bf8ef607cd",
+      externalLink: "https://musicbrainz.org/work/d0937939-4903-4ae2-bf02-22bf8ef607cd",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

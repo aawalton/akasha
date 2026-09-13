@@ -6,10 +6,14 @@ export const jessicaBaioInferior = {
   slug: "jessica-baio-inferior",
   title: "inferior",
   artist: "jessica-baio",
-  externalId: "7412d2f5-05ab-4626-9143-8523f7a92137",
-  externalLink: "https://musicbrainz.org/recording/7412d2f5-05ab-4626-9143-8523f7a92137",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7412d2f5-05ab-4626-9143-8523f7a92137",
+      externalLink: "https://musicbrainz.org/recording/7412d2f5-05ab-4626-9143-8523f7a92137",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

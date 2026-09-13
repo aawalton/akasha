@@ -6,10 +6,14 @@ export const imagineDragonsTied = {
   slug: "imagine-dragons-tied",
   title: "Tied",
   artist: "imagine-dragons",
-  externalId: "f0a1dd2f-7449-45f7-a04c-518e6d279249",
-  externalLink: "https://musicbrainz.org/work/f0a1dd2f-7449-45f7-a04c-518e6d279249",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f0a1dd2f-7449-45f7-a04c-518e6d279249",
+      externalLink: "https://musicbrainz.org/work/f0a1dd2f-7449-45f7-a04c-518e6d279249",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

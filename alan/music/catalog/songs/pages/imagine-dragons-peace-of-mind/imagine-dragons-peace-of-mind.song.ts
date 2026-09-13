@@ -6,10 +6,14 @@ export const imagineDragonsPeaceOfMind = {
   slug: "imagine-dragons-peace-of-mind",
   title: "Peace of Mind",
   artist: "imagine-dragons",
-  externalId: "0a74ce1c-2dbf-4cf8-b28d-23e74f2ad08b",
-  externalLink: "https://musicbrainz.org/work/0a74ce1c-2dbf-4cf8-b28d-23e74f2ad08b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0a74ce1c-2dbf-4cf8-b28d-23e74f2ad08b",
+      externalLink: "https://musicbrainz.org/work/0a74ce1c-2dbf-4cf8-b28d-23e74f2ad08b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

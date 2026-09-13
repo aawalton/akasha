@@ -6,10 +6,14 @@ export const imagineDragonsPantomime = {
   slug: "imagine-dragons-pantomime",
   title: "Pantomime",
   artist: "imagine-dragons",
-  externalId: "27f60da9-44ca-46b8-b448-886f0fe98743",
-  externalLink: "https://musicbrainz.org/work/27f60da9-44ca-46b8-b448-886f0fe98743",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "27f60da9-44ca-46b8-b448-886f0fe98743",
+      externalLink: "https://musicbrainz.org/work/27f60da9-44ca-46b8-b448-886f0fe98743",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

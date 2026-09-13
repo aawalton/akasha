@@ -6,10 +6,14 @@ export const imagineDragonsSymphony = {
   slug: "imagine-dragons-symphony",
   title: "Symphony",
   artist: "imagine-dragons",
-  externalId: "4f45a75e-d5d2-4d9a-8022-5723e680c882",
-  externalLink: "https://musicbrainz.org/work/4f45a75e-d5d2-4d9a-8022-5723e680c882",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4f45a75e-d5d2-4d9a-8022-5723e680c882",
+      externalLink: "https://musicbrainz.org/work/4f45a75e-d5d2-4d9a-8022-5723e680c882",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

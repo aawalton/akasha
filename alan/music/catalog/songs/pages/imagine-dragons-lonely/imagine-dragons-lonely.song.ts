@@ -6,10 +6,14 @@ export const imagineDragonsLonely = {
   slug: "imagine-dragons-lonely",
   title: "Lonely",
   artist: "imagine-dragons",
-  externalId: "6d07307c-9b08-4e67-a97c-01464a56ed75",
-  externalLink: "https://musicbrainz.org/work/6d07307c-9b08-4e67-a97c-01464a56ed75",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6d07307c-9b08-4e67-a97c-01464a56ed75",
+      externalLink: "https://musicbrainz.org/work/6d07307c-9b08-4e67-a97c-01464a56ed75",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

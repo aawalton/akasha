@@ -6,10 +6,14 @@ export const jessicaBaioRadioKrupaRemix = {
   slug: "jessica-baio-radio-krupa-remix",
   title: "Radio (Krupa remix)",
   artist: "jessica-baio",
-  externalId: "043c8f4a-a14b-4758-90b6-909f3b2ed96d",
-  externalLink: "https://musicbrainz.org/recording/043c8f4a-a14b-4758-90b6-909f3b2ed96d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "043c8f4a-a14b-4758-90b6-909f3b2ed96d",
+      externalLink: "https://musicbrainz.org/recording/043c8f4a-a14b-4758-90b6-909f3b2ed96d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

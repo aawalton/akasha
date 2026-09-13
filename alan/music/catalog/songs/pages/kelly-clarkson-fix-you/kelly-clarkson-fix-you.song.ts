@@ -6,10 +6,14 @@ export const kellyClarksonFixYou = {
   slug: "kelly-clarkson-fix-you",
   title: "Fix You",
   artist: "kelly-clarkson",
-  externalId: "c309eb61-2852-35e5-841b-151d4cf5807e",
-  externalLink: "https://musicbrainz.org/work/c309eb61-2852-35e5-841b-151d4cf5807e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c309eb61-2852-35e5-841b-151d4cf5807e",
+      externalLink: "https://musicbrainz.org/work/c309eb61-2852-35e5-841b-151d4cf5807e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

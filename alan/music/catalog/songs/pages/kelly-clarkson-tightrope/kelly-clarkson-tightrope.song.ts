@@ -6,10 +6,14 @@ export const kellyClarksonTightrope = {
   slug: "kelly-clarkson-tightrope",
   title: "Tightrope",
   artist: "kelly-clarkson",
-  externalId: "6c3de7ea-e7e0-4d4f-9e3f-acdea69f5e62",
-  externalLink: "https://musicbrainz.org/work/6c3de7ea-e7e0-4d4f-9e3f-acdea69f5e62",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6c3de7ea-e7e0-4d4f-9e3f-acdea69f5e62",
+      externalLink: "https://musicbrainz.org/work/6c3de7ea-e7e0-4d4f-9e3f-acdea69f5e62",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

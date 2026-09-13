@@ -6,10 +6,14 @@ export const kellyClarksonMedicine = {
   slug: "kelly-clarkson-medicine",
   title: "Medicine",
   artist: "kelly-clarkson",
-  externalId: "39a2e5f7-87e3-4aaa-8f56-3ababd757821",
-  externalLink: "https://musicbrainz.org/work/39a2e5f7-87e3-4aaa-8f56-3ababd757821",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "39a2e5f7-87e3-4aaa-8f56-3ababd757821",
+      externalLink: "https://musicbrainz.org/work/39a2e5f7-87e3-4aaa-8f56-3ababd757821",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

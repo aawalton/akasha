@@ -6,10 +6,14 @@ export const kellyClarksonNostalgic = {
   slug: "kelly-clarkson-nostalgic",
   title: "Nostalgic",
   artist: "kelly-clarkson",
-  externalId: "c5fdac11-3af8-4b94-b9c7-b2f0ce3764e1",
-  externalLink: "https://musicbrainz.org/work/c5fdac11-3af8-4b94-b9c7-b2f0ce3764e1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c5fdac11-3af8-4b94-b9c7-b2f0ce3764e1",
+      externalLink: "https://musicbrainz.org/work/c5fdac11-3af8-4b94-b9c7-b2f0ce3764e1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

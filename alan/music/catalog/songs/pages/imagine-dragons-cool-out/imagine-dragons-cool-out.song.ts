@@ -6,10 +6,14 @@ export const imagineDragonsCoolOut = {
   slug: "imagine-dragons-cool-out",
   title: "Cool Out",
   artist: "imagine-dragons",
-  externalId: "0be4e651-1478-4fa8-899a-9b1433eaeed5",
-  externalLink: "https://musicbrainz.org/work/0be4e651-1478-4fa8-899a-9b1433eaeed5",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0be4e651-1478-4fa8-899a-9b1433eaeed5",
+      externalLink: "https://musicbrainz.org/work/0be4e651-1478-4fa8-899a-9b1433eaeed5",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

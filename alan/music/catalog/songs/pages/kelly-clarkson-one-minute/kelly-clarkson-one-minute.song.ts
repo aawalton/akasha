@@ -6,10 +6,14 @@ export const kellyClarksonOneMinute = {
   slug: "kelly-clarkson-one-minute",
   title: "One Minute",
   artist: "kelly-clarkson",
-  externalId: "946a061f-1454-4849-88a4-4583731b5be8",
-  externalLink: "https://musicbrainz.org/work/946a061f-1454-4849-88a4-4583731b5be8",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "946a061f-1454-4849-88a4-4583731b5be8",
+      externalLink: "https://musicbrainz.org/work/946a061f-1454-4849-88a4-4583731b5be8",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

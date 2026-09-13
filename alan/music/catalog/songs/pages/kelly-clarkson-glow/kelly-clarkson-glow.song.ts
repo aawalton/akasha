@@ -6,10 +6,14 @@ export const kellyClarksonGlow = {
   slug: "kelly-clarkson-glow",
   title: "Glow",
   artist: "kelly-clarkson",
-  externalId: "f58bc2e0-185c-456d-b7b4-eb00f7d6b071",
-  externalLink: "https://musicbrainz.org/work/f58bc2e0-185c-456d-b7b4-eb00f7d6b071",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f58bc2e0-185c-456d-b7b4-eb00f7d6b071",
+      externalLink: "https://musicbrainz.org/work/f58bc2e0-185c-456d-b7b4-eb00f7d6b071",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

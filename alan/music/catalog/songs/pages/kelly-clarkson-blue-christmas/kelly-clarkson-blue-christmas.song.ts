@@ -6,10 +6,14 @@ export const kellyClarksonBlueChristmas = {
   slug: "kelly-clarkson-blue-christmas",
   title: "Blue Christmas",
   artist: "kelly-clarkson",
-  externalId: "414afdb5-bd79-3349-8a93-d940da14c36e",
-  externalLink: "https://musicbrainz.org/work/414afdb5-bd79-3349-8a93-d940da14c36e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "414afdb5-bd79-3349-8a93-d940da14c36e",
+      externalLink: "https://musicbrainz.org/work/414afdb5-bd79-3349-8a93-d940da14c36e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

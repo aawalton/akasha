@@ -6,10 +6,14 @@ export const jessicaBaioGotItBad = {
   slug: "jessica-baio-got-it-bad",
   title: "got it bad",
   artist: "jessica-baio",
-  externalId: "ca262762-7dc1-4950-b122-809464645051",
-  externalLink: "https://musicbrainz.org/recording/ca262762-7dc1-4950-b122-809464645051",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ca262762-7dc1-4950-b122-809464645051",
+      externalLink: "https://musicbrainz.org/recording/ca262762-7dc1-4950-b122-809464645051",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

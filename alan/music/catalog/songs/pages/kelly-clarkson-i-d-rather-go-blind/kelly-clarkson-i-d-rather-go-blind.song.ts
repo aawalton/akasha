@@ -6,10 +6,14 @@ export const kellyClarksonIDRatherGoBlind = {
   slug: "kelly-clarkson-i-d-rather-go-blind",
   title: "I’d Rather Go Blind",
   artist: "kelly-clarkson",
-  externalId: "a804f054-e3f4-3a2d-82d6-210b2dbfec3b",
-  externalLink: "https://musicbrainz.org/work/a804f054-e3f4-3a2d-82d6-210b2dbfec3b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a804f054-e3f4-3a2d-82d6-210b2dbfec3b",
+      externalLink: "https://musicbrainz.org/work/a804f054-e3f4-3a2d-82d6-210b2dbfec3b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

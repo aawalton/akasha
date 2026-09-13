@@ -6,10 +6,14 @@ export const imagineDragonsTheyDonTKnowYouLikeIDo = {
   slug: "imagine-dragons-they-don-t-know-you-like-i-do",
   title: "They Don’t Know You Like I Do",
   artist: "imagine-dragons",
-  externalId: "ee000445-70c0-40fb-9626-ad831a5fb6ea",
-  externalLink: "https://musicbrainz.org/work/ee000445-70c0-40fb-9626-ad831a5fb6ea",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ee000445-70c0-40fb-9626-ad831a5fb6ea",
+      externalLink: "https://musicbrainz.org/work/ee000445-70c0-40fb-9626-ad831a5fb6ea",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

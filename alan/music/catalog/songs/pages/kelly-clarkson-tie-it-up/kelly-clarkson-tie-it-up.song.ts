@@ -6,10 +6,14 @@ export const kellyClarksonTieItUp = {
   slug: "kelly-clarkson-tie-it-up",
   title: "Tie It Up",
   artist: "kelly-clarkson",
-  externalId: "e08284df-a4bb-4087-8567-2e4bf4c2401c",
-  externalLink: "https://musicbrainz.org/work/e08284df-a4bb-4087-8567-2e4bf4c2401c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e08284df-a4bb-4087-8567-2e4bf4c2401c",
+      externalLink: "https://musicbrainz.org/work/e08284df-a4bb-4087-8567-2e4bf4c2401c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

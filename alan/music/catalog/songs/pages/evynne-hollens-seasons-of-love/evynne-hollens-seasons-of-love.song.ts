@@ -6,10 +6,14 @@ export const evynneHollensSeasonsOfLove = {
   slug: "evynne-hollens-seasons-of-love",
   title: "Seasons of Love",
   artist: "evynne-hollens",
-  externalId: "56e63873-a432-44aa-94ac-549594fc9c82",
-  externalLink: "https://musicbrainz.org/work/56e63873-a432-44aa-94ac-549594fc9c82",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "56e63873-a432-44aa-94ac-549594fc9c82",
+      externalLink: "https://musicbrainz.org/work/56e63873-a432-44aa-94ac-549594fc9c82",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

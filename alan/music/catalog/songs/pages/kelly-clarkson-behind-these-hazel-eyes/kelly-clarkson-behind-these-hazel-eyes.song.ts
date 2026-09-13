@@ -6,10 +6,14 @@ export const kellyClarksonBehindTheseHazelEyes = {
   slug: "kelly-clarkson-behind-these-hazel-eyes",
   title: "Behind These Hazel Eyes",
   artist: "kelly-clarkson",
-  externalId: "b374d34f-6b97-33a1-8895-079e0eceb235",
-  externalLink: "https://musicbrainz.org/work/b374d34f-6b97-33a1-8895-079e0eceb235",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b374d34f-6b97-33a1-8895-079e0eceb235",
+      externalLink: "https://musicbrainz.org/work/b374d34f-6b97-33a1-8895-079e0eceb235",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

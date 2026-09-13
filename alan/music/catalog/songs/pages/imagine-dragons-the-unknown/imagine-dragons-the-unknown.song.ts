@@ -6,10 +6,14 @@ export const imagineDragonsTheUnknown = {
   slug: "imagine-dragons-the-unknown",
   title: "The Unknown",
   artist: "imagine-dragons",
-  externalId: "f79bd167-f5af-4f3f-b273-456deaef9e69",
-  externalLink: "https://musicbrainz.org/work/f79bd167-f5af-4f3f-b273-456deaef9e69",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f79bd167-f5af-4f3f-b273-456deaef9e69",
+      externalLink: "https://musicbrainz.org/work/f79bd167-f5af-4f3f-b273-456deaef9e69",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

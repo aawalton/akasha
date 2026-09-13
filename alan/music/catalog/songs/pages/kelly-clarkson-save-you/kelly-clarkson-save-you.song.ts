@@ -6,10 +6,14 @@ export const kellyClarksonSaveYou = {
   slug: "kelly-clarkson-save-you",
   title: "Save You",
   artist: "kelly-clarkson",
-  externalId: "4b2bd486-4ad9-37ac-a1fc-c780d5f166c0",
-  externalLink: "https://musicbrainz.org/work/4b2bd486-4ad9-37ac-a1fc-c780d5f166c0",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4b2bd486-4ad9-37ac-a1fc-c780d5f166c0",
+      externalLink: "https://musicbrainz.org/work/4b2bd486-4ad9-37ac-a1fc-c780d5f166c0",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

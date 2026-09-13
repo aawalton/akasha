@@ -6,10 +6,14 @@ export const imagineDragonsYounger = {
   slug: "imagine-dragons-younger",
   title: "Younger",
   artist: "imagine-dragons",
-  externalId: "ed80ee93-fe76-4a3d-bde8-836d24065638",
-  externalLink: "https://musicbrainz.org/work/ed80ee93-fe76-4a3d-bde8-836d24065638",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ed80ee93-fe76-4a3d-bde8-836d24065638",
+      externalLink: "https://musicbrainz.org/work/ed80ee93-fe76-4a3d-bde8-836d24065638",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

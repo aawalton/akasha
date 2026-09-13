@@ -6,10 +6,14 @@ export const jessicaBaioIDonTEvenThinkAboutYou = {
   slug: "jessica-baio-i-don-t-even-think-about-you",
   title: "I Don't Even Think About You",
   artist: "jessica-baio",
-  externalId: "625f91ca-554b-429d-be4d-8509e02bc077",
-  externalLink: "https://musicbrainz.org/recording/625f91ca-554b-429d-be4d-8509e02bc077",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "625f91ca-554b-429d-be4d-8509e02bc077",
+      externalLink: "https://musicbrainz.org/recording/625f91ca-554b-429d-be4d-8509e02bc077",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

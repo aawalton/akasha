@@ -6,10 +6,14 @@ export const imagineDragonsIWish = {
   slug: "imagine-dragons-i-wish",
   title: "I Wish",
   artist: "imagine-dragons",
-  externalId: "e067e0ce-14f8-4ff0-bb41-7df17b406746",
-  externalLink: "https://musicbrainz.org/work/e067e0ce-14f8-4ff0-bb41-7df17b406746",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e067e0ce-14f8-4ff0-bb41-7df17b406746",
+      externalLink: "https://musicbrainz.org/work/e067e0ce-14f8-4ff0-bb41-7df17b406746",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

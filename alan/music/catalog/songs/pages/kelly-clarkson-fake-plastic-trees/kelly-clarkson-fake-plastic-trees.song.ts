@@ -6,10 +6,14 @@ export const kellyClarksonFakePlasticTrees = {
   slug: "kelly-clarkson-fake-plastic-trees",
   title: "Fake Plastic Trees",
   artist: "kelly-clarkson",
-  externalId: "8144e4b1-c7fb-3020-9896-b0e54a402225",
-  externalLink: "https://musicbrainz.org/work/8144e4b1-c7fb-3020-9896-b0e54a402225",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8144e4b1-c7fb-3020-9896-b0e54a402225",
+      externalLink: "https://musicbrainz.org/work/8144e4b1-c7fb-3020-9896-b0e54a402225",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

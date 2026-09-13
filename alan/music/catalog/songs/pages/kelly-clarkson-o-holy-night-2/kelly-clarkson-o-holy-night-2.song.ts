@@ -6,10 +6,14 @@ export const kellyClarksonOHolyNight2 = {
   slug: "kelly-clarkson-o-holy-night-2",
   title: "O Holy Night",
   artist: "kelly-clarkson",
-  externalId: "bf57c435-6ce0-3d57-ab04-e2a9179b178c",
-  externalLink: "https://musicbrainz.org/work/bf57c435-6ce0-3d57-ab04-e2a9179b178c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "bf57c435-6ce0-3d57-ab04-e2a9179b178c",
+      externalLink: "https://musicbrainz.org/work/bf57c435-6ce0-3d57-ab04-e2a9179b178c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

@@ -6,10 +6,14 @@ export const jessicaBaioBestFriendsWithYourGirlfriend = {
   slug: "jessica-baio-best-friends-with-your-girlfriend",
   title: "best friends with your girlfriend",
   artist: "jessica-baio",
-  externalId: "5bed71b2-d6c9-4f5f-b304-460694787966",
-  externalLink: "https://musicbrainz.org/recording/5bed71b2-d6c9-4f5f-b304-460694787966",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5bed71b2-d6c9-4f5f-b304-460694787966",
+      externalLink: "https://musicbrainz.org/recording/5bed71b2-d6c9-4f5f-b304-460694787966",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

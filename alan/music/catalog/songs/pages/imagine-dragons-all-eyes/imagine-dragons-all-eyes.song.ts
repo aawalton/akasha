@@ -6,10 +6,14 @@ export const imagineDragonsAllEyes = {
   slug: "imagine-dragons-all-eyes",
   title: "All Eyes",
   artist: "imagine-dragons",
-  externalId: "21ae7771-a5dd-425c-8e13-020c9ddd39b7",
-  externalLink: "https://musicbrainz.org/work/21ae7771-a5dd-425c-8e13-020c9ddd39b7",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "21ae7771-a5dd-425c-8e13-020c9ddd39b7",
+      externalLink: "https://musicbrainz.org/work/21ae7771-a5dd-425c-8e13-020c9ddd39b7",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

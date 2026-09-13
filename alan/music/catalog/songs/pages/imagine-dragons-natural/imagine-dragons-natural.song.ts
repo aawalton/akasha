@@ -6,10 +6,14 @@ export const imagineDragonsNatural = {
   slug: "imagine-dragons-natural",
   title: "Natural",
   artist: "imagine-dragons",
-  externalId: "899d1009-a88b-48a7-a86a-5734b738305b",
-  externalLink: "https://musicbrainz.org/work/899d1009-a88b-48a7-a86a-5734b738305b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "899d1009-a88b-48a7-a86a-5734b738305b",
+      externalLink: "https://musicbrainz.org/work/899d1009-a88b-48a7-a86a-5734b738305b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const evynneHollensRunningOutOfTime = {
   slug: "evynne-hollens-running-out-of-time",
   title: "Running Out of Time",
   artist: "evynne-hollens",
-  externalId: "fa9264bc-9fe5-4a9e-9a61-d4faf69d6521",
-  externalLink: "https://musicbrainz.org/work/fa9264bc-9fe5-4a9e-9a61-d4faf69d6521",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "fa9264bc-9fe5-4a9e-9a61-d4faf69d6521",
+      externalLink: "https://musicbrainz.org/work/fa9264bc-9fe5-4a9e-9a61-d4faf69d6521",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

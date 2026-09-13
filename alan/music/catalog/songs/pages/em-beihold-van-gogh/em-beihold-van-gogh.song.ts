@@ -6,10 +6,14 @@ export const emBeiholdVanGogh = {
   slug: "em-beihold-van-gogh",
   title: "Van Gogh",
   artist: "em-beihold",
-  externalId: "ba60d3e5-fc85-4672-ba3d-6fed55ee9e2f",
-  externalLink: "https://musicbrainz.org/work/ba60d3e5-fc85-4672-ba3d-6fed55ee9e2f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ba60d3e5-fc85-4672-ba3d-6fed55ee9e2f",
+      externalLink: "https://musicbrainz.org/work/ba60d3e5-fc85-4672-ba3d-6fed55ee9e2f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

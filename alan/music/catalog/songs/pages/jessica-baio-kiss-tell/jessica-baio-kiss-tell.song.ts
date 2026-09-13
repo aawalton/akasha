@@ -6,10 +6,14 @@ export const jessicaBaioKissTell = {
   slug: "jessica-baio-kiss-tell",
   title: "kiss & tell",
   artist: "jessica-baio",
-  externalId: "ef3a60a1-0963-4b33-b873-df0bdd18ae83",
-  externalLink: "https://musicbrainz.org/recording/ef3a60a1-0963-4b33-b873-df0bdd18ae83",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ef3a60a1-0963-4b33-b873-df0bdd18ae83",
+      externalLink: "https://musicbrainz.org/recording/ef3a60a1-0963-4b33-b873-df0bdd18ae83",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

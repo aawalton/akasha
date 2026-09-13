@@ -6,10 +6,14 @@ export const imagineDragonsInYourCorner = {
   slug: "imagine-dragons-in-your-corner",
   title: "In Your Corner",
   artist: "imagine-dragons",
-  externalId: "e56975e5-11fd-4e5b-938b-8c8169cd478c",
-  externalLink: "https://musicbrainz.org/work/e56975e5-11fd-4e5b-938b-8c8169cd478c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e56975e5-11fd-4e5b-938b-8c8169cd478c",
+      externalLink: "https://musicbrainz.org/work/e56975e5-11fd-4e5b-938b-8c8169cd478c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

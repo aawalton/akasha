@@ -6,10 +6,14 @@ export const evynneHollensHello = {
   slug: "evynne-hollens-hello",
   title: "Hello",
   artist: "evynne-hollens",
-  externalId: "59407397-1b56-4ba6-b409-4c427270cc1b",
-  externalLink: "https://musicbrainz.org/work/59407397-1b56-4ba6-b409-4c427270cc1b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "59407397-1b56-4ba6-b409-4c427270cc1b",
+      externalLink: "https://musicbrainz.org/work/59407397-1b56-4ba6-b409-4c427270cc1b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

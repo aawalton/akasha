@@ -6,10 +6,14 @@ export const kellyClarksonGiveMeOneReason = {
   slug: "kelly-clarkson-give-me-one-reason",
   title: "Give Me One Reason",
   artist: "kelly-clarkson",
-  externalId: "74ade219-a091-4255-a11c-fc0a3c47fd8b",
-  externalLink: "https://musicbrainz.org/work/74ade219-a091-4255-a11c-fc0a3c47fd8b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "74ade219-a091-4255-a11c-fc0a3c47fd8b",
+      externalLink: "https://musicbrainz.org/work/74ade219-a091-4255-a11c-fc0a3c47fd8b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

@@ -6,10 +6,14 @@ export const kellyClarksonBadReputation = {
   slug: "kelly-clarkson-bad-reputation",
   title: "Bad Reputation",
   artist: "kelly-clarkson",
-  externalId: "23eb9cc3-fedf-40f8-9160-54b87f870ac4",
-  externalLink: "https://musicbrainz.org/work/23eb9cc3-fedf-40f8-9160-54b87f870ac4",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "23eb9cc3-fedf-40f8-9160-54b87f870ac4",
+      externalLink: "https://musicbrainz.org/work/23eb9cc3-fedf-40f8-9160-54b87f870ac4",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

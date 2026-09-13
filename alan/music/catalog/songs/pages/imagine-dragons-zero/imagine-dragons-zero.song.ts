@@ -6,10 +6,14 @@ export const imagineDragonsZero = {
   slug: "imagine-dragons-zero",
   title: "Zero",
   artist: "imagine-dragons",
-  externalId: "62a50c26-dad1-4ff5-9058-489c28b1b743",
-  externalLink: "https://musicbrainz.org/work/62a50c26-dad1-4ff5-9058-489c28b1b743",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "62a50c26-dad1-4ff5-9058-489c28b1b743",
+      externalLink: "https://musicbrainz.org/work/62a50c26-dad1-4ff5-9058-489c28b1b743",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

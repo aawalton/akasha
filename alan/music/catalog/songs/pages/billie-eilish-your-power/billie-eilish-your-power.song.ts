@@ -6,10 +6,14 @@ export const billieEilishYourPower = {
   slug: "billie-eilish-your-power",
   title: "Your Power",
   artist: "billie-eilish",
-  externalId: "03a75386-2a79-40dd-aaf0-3304d12f7fe1",
-  externalLink: "https://musicbrainz.org/work/03a75386-2a79-40dd-aaf0-3304d12f7fe1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "03a75386-2a79-40dd-aaf0-3304d12f7fe1",
+      externalLink: "https://musicbrainz.org/work/03a75386-2a79-40dd-aaf0-3304d12f7fe1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

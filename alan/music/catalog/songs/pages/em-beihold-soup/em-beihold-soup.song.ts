@@ -6,10 +6,14 @@ export const emBeiholdSoup = {
   slug: "em-beihold-soup",
   title: "Soup!",
   artist: "em-beihold",
-  externalId: "da5f64da-b3a1-48fd-95dc-c0f41f5e187a",
-  externalLink: "https://musicbrainz.org/work/da5f64da-b3a1-48fd-95dc-c0f41f5e187a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "da5f64da-b3a1-48fd-95dc-c0f41f5e187a",
+      externalLink: "https://musicbrainz.org/work/da5f64da-b3a1-48fd-95dc-c0f41f5e187a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

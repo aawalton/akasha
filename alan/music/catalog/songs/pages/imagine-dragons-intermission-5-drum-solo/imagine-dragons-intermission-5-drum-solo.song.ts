@@ -6,10 +6,14 @@ export const imagineDragonsIntermission5DrumSolo = {
   slug: "imagine-dragons-intermission-5-drum-solo",
   title: "Intermission #5: Drum Solo",
   artist: "imagine-dragons",
-  externalId: "c3225b8a-5d93-42b2-b469-55d5ea13400a",
-  externalLink: "https://musicbrainz.org/work/c3225b8a-5d93-42b2-b469-55d5ea13400a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c3225b8a-5d93-42b2-b469-55d5ea13400a",
+      externalLink: "https://musicbrainz.org/work/c3225b8a-5d93-42b2-b469-55d5ea13400a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

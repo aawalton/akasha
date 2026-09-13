@@ -6,10 +6,14 @@ export const imagineDragonsIntermission3 = {
   slug: "imagine-dragons-intermission-3",
   title: "Intermission #3",
   artist: "imagine-dragons",
-  externalId: "3ad80052-10d2-4efe-b7c7-b38aa1548f91",
-  externalLink: "https://musicbrainz.org/work/3ad80052-10d2-4efe-b7c7-b38aa1548f91",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "3ad80052-10d2-4efe-b7c7-b38aa1548f91",
+      externalLink: "https://musicbrainz.org/work/3ad80052-10d2-4efe-b7c7-b38aa1548f91",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

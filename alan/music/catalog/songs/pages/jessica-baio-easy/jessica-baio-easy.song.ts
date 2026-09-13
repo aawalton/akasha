@@ -6,10 +6,14 @@ export const jessicaBaioEasy = {
   slug: "jessica-baio-easy",
   title: "easy",
   artist: "jessica-baio",
-  externalId: "af8ec822-55ba-4c1d-9167-521aa7f4f9be",
-  externalLink: "https://musicbrainz.org/recording/af8ec822-55ba-4c1d-9167-521aa7f4f9be",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "af8ec822-55ba-4c1d-9167-521aa7f4f9be",
+      externalLink: "https://musicbrainz.org/recording/af8ec822-55ba-4c1d-9167-521aa7f4f9be",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

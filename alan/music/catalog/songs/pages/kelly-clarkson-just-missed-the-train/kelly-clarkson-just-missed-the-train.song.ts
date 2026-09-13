@@ -6,10 +6,14 @@ export const kellyClarksonJustMissedTheTrain = {
   slug: "kelly-clarkson-just-missed-the-train",
   title: "Just Missed the Train",
   artist: "kelly-clarkson",
-  externalId: "2bdce8d5-1ee0-4a79-aa39-091c91b1de40",
-  externalLink: "https://musicbrainz.org/work/2bdce8d5-1ee0-4a79-aa39-091c91b1de40",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2bdce8d5-1ee0-4a79-aa39-091c91b1de40",
+      externalLink: "https://musicbrainz.org/work/2bdce8d5-1ee0-4a79-aa39-091c91b1de40",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const kellyClarksonHaunted = {
   slug: "kelly-clarkson-haunted",
   title: "Haunted",
   artist: "kelly-clarkson",
-  externalId: "d5902350-3fa1-4a74-a862-80fb3477324d",
-  externalLink: "https://musicbrainz.org/work/d5902350-3fa1-4a74-a862-80fb3477324d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d5902350-3fa1-4a74-a862-80fb3477324d",
+      externalLink: "https://musicbrainz.org/work/d5902350-3fa1-4a74-a862-80fb3477324d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

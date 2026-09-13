@@ -6,10 +6,14 @@ export const kellyClarksonDanceWithMe = {
   slug: "kelly-clarkson-dance-with-me",
   title: "Dance With Me",
   artist: "kelly-clarkson",
-  externalId: "42ae0500-e18a-425b-8a72-c45f6aa3b650",
-  externalLink: "https://musicbrainz.org/work/42ae0500-e18a-425b-8a72-c45f6aa3b650",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "42ae0500-e18a-425b-8a72-c45f6aa3b650",
+      externalLink: "https://musicbrainz.org/work/42ae0500-e18a-425b-8a72-c45f6aa3b650",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

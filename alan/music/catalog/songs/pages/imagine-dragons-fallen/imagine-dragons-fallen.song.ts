@@ -6,10 +6,14 @@ export const imagineDragonsFallen = {
   slug: "imagine-dragons-fallen",
   title: "Fallen",
   artist: "imagine-dragons",
-  externalId: "ee47ab27-7bea-4587-a902-60ff9ab6d626",
-  externalLink: "https://musicbrainz.org/work/ee47ab27-7bea-4587-a902-60ff9ab6d626",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ee47ab27-7bea-4587-a902-60ff9ab6d626",
+      externalLink: "https://musicbrainz.org/work/ee47ab27-7bea-4587-a902-60ff9ab6d626",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const kellyClarksonRunRunRun = {
   slug: "kelly-clarkson-run-run-run",
   title: "Run Run Run",
   artist: "kelly-clarkson",
-  externalId: "c47af29e-64ad-4d9b-bb52-834e8b11be7d",
-  externalLink: "https://musicbrainz.org/work/c47af29e-64ad-4d9b-bb52-834e8b11be7d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c47af29e-64ad-4d9b-bb52-834e8b11be7d",
+      externalLink: "https://musicbrainz.org/work/c47af29e-64ad-4d9b-bb52-834e8b11be7d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

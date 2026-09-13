@@ -6,10 +6,14 @@ export const kellyClarksonPeopleLikeUs = {
   slug: "kelly-clarkson-people-like-us",
   title: "People Like Us",
   artist: "kelly-clarkson",
-  externalId: "a700ae69-f1df-4241-9b47-8090deadd70a",
-  externalLink: "https://musicbrainz.org/work/a700ae69-f1df-4241-9b47-8090deadd70a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a700ae69-f1df-4241-9b47-8090deadd70a",
+      externalLink: "https://musicbrainz.org/work/a700ae69-f1df-4241-9b47-8090deadd70a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

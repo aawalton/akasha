@@ -6,10 +6,14 @@ export const imagineDragonsStuck = {
   slug: "imagine-dragons-stuck",
   title: "Stuck",
   artist: "imagine-dragons",
-  externalId: "6d704767-416f-4907-a2b5-fe0b7466369e",
-  externalLink: "https://musicbrainz.org/work/6d704767-416f-4907-a2b5-fe0b7466369e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6d704767-416f-4907-a2b5-fe0b7466369e",
+      externalLink: "https://musicbrainz.org/work/6d704767-416f-4907-a2b5-fe0b7466369e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

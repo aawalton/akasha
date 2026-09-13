@@ -6,10 +6,14 @@ export const kellyClarksonFoolishGames = {
   slug: "kelly-clarkson-foolish-games",
   title: "Foolish Games",
   artist: "kelly-clarkson",
-  externalId: "92d68aa9-64e0-3a10-b90d-d08015403b92",
-  externalLink: "https://musicbrainz.org/work/92d68aa9-64e0-3a10-b90d-d08015403b92",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "92d68aa9-64e0-3a10-b90d-d08015403b92",
+      externalLink: "https://musicbrainz.org/work/92d68aa9-64e0-3a10-b90d-d08015403b92",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const imagineDragonsSmokeAndMirrors = {
   slug: "imagine-dragons-smoke-and-mirrors",
   title: "Smoke and Mirrors",
   artist: "imagine-dragons",
-  externalId: "85168510-9a14-49c1-8097-c3d36142d2b6",
-  externalLink: "https://musicbrainz.org/work/85168510-9a14-49c1-8097-c3d36142d2b6",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "85168510-9a14-49c1-8097-c3d36142d2b6",
+      externalLink: "https://musicbrainz.org/work/85168510-9a14-49c1-8097-c3d36142d2b6",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

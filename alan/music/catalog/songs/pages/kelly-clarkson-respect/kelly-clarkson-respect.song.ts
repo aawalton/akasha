@@ -6,10 +6,14 @@ export const kellyClarksonRespect = {
   slug: "kelly-clarkson-respect",
   title: "Respect",
   artist: "kelly-clarkson",
-  externalId: "62cd9af9-435f-3632-b885-f7d4685211a4",
-  externalLink: "https://musicbrainz.org/work/62cd9af9-435f-3632-b885-f7d4685211a4",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "62cd9af9-435f-3632-b885-f7d4685211a4",
+      externalLink: "https://musicbrainz.org/work/62cd9af9-435f-3632-b885-f7d4685211a4",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

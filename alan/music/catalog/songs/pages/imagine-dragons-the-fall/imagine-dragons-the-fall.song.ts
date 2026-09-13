@@ -6,10 +6,14 @@ export const imagineDragonsTheFall = {
   slug: "imagine-dragons-the-fall",
   title: "The Fall",
   artist: "imagine-dragons",
-  externalId: "daf62e81-d820-4be6-b0b4-869f60c0f197",
-  externalLink: "https://musicbrainz.org/work/daf62e81-d820-4be6-b0b4-869f60c0f197",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "daf62e81-d820-4be6-b0b4-869f60c0f197",
+      externalLink: "https://musicbrainz.org/work/daf62e81-d820-4be6-b0b4-869f60c0f197",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

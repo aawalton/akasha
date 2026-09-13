@@ -6,10 +6,14 @@ export const imagineDragonsStartOver = {
   slug: "imagine-dragons-start-over",
   title: "Start Over",
   artist: "imagine-dragons",
-  externalId: "4362d98e-4fee-4d9f-99ec-0589367632e3",
-  externalLink: "https://musicbrainz.org/work/4362d98e-4fee-4d9f-99ec-0589367632e3",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4362d98e-4fee-4d9f-99ec-0589367632e3",
+      externalLink: "https://musicbrainz.org/work/4362d98e-4fee-4d9f-99ec-0589367632e3",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

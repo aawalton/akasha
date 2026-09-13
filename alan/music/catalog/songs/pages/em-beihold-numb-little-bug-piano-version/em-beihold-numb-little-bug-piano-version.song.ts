@@ -6,10 +6,14 @@ export const emBeiholdNumbLittleBugPianoVersion = {
   slug: "em-beihold-numb-little-bug-piano-version",
   title: "Numb Little Bug (Piano Version)",
   artist: "em-beihold",
-  externalId: "a196b5ee-b35c-4fff-bc6b-8fac5600f20c",
-  externalLink: "https://musicbrainz.org/work/a196b5ee-b35c-4fff-bc6b-8fac5600f20c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a196b5ee-b35c-4fff-bc6b-8fac5600f20c",
+      externalLink: "https://musicbrainz.org/work/a196b5ee-b35c-4fff-bc6b-8fac5600f20c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

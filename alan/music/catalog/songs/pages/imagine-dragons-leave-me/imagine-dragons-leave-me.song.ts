@@ -6,10 +6,14 @@ export const imagineDragonsLeaveMe = {
   slug: "imagine-dragons-leave-me",
   title: "Leave Me",
   artist: "imagine-dragons",
-  externalId: "83f9b6c1-d0be-419c-b851-892fcd4c06d5",
-  externalLink: "https://musicbrainz.org/work/83f9b6c1-d0be-419c-b851-892fcd4c06d5",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "83f9b6c1-d0be-419c-b851-892fcd4c06d5",
+      externalLink: "https://musicbrainz.org/work/83f9b6c1-d0be-419c-b851-892fcd4c06d5",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

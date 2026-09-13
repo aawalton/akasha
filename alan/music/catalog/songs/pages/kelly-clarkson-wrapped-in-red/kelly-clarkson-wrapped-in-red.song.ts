@@ -6,10 +6,14 @@ export const kellyClarksonWrappedInRed = {
   slug: "kelly-clarkson-wrapped-in-red",
   title: "Wrapped in Red",
   artist: "kelly-clarkson",
-  externalId: "c10f55b4-3436-48a7-af11-fea6bcad8b7b",
-  externalLink: "https://musicbrainz.org/work/c10f55b4-3436-48a7-af11-fea6bcad8b7b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c10f55b4-3436-48a7-af11-fea6bcad8b7b",
+      externalLink: "https://musicbrainz.org/work/c10f55b4-3436-48a7-af11-fea6bcad8b7b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const jessicaBaioElRoySt = {
   slug: "jessica-baio-el-roy-st",
   title: "el roy st.",
   artist: "jessica-baio",
-  externalId: "7d8e7cd1-b4f4-4a9b-ad22-516b49a70b83",
-  externalLink: "https://musicbrainz.org/recording/7d8e7cd1-b4f4-4a9b-ad22-516b49a70b83",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7d8e7cd1-b4f4-4a9b-ad22-516b49a70b83",
+      externalLink: "https://musicbrainz.org/recording/7d8e7cd1-b4f4-4a9b-ad22-516b49a70b83",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

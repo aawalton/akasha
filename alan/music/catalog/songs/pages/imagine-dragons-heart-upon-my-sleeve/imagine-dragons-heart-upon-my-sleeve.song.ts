@@ -6,10 +6,14 @@ export const imagineDragonsHeartUponMySleeve = {
   slug: "imagine-dragons-heart-upon-my-sleeve",
   title: "Heart Upon My Sleeve",
   artist: "imagine-dragons",
-  externalId: "b5b6c46b-7028-4344-949e-5e0e3d2e5695",
-  externalLink: "https://musicbrainz.org/work/b5b6c46b-7028-4344-949e-5e0e3d2e5695",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b5b6c46b-7028-4344-949e-5e0e3d2e5695",
+      externalLink: "https://musicbrainz.org/work/b5b6c46b-7028-4344-949e-5e0e3d2e5695",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

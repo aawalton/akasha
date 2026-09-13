@@ -6,10 +6,14 @@ export const imagineDragonsMachine = {
   slug: "imagine-dragons-machine",
   title: "Machine",
   artist: "imagine-dragons",
-  externalId: "af45bef6-85bf-4a41-b169-a8a1fc6dcaf5",
-  externalLink: "https://musicbrainz.org/work/af45bef6-85bf-4a41-b169-a8a1fc6dcaf5",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "af45bef6-85bf-4a41-b169-a8a1fc6dcaf5",
+      externalLink: "https://musicbrainz.org/work/af45bef6-85bf-4a41-b169-a8a1fc6dcaf5",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

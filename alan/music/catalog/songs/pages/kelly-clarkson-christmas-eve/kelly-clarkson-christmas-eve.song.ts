@@ -6,10 +6,14 @@ export const kellyClarksonChristmasEve = {
   slug: "kelly-clarkson-christmas-eve",
   title: "Christmas Eve",
   artist: "kelly-clarkson",
-  externalId: "337aee3c-6edc-43e6-a28f-c0e0f0237d63",
-  externalLink: "https://musicbrainz.org/work/337aee3c-6edc-43e6-a28f-c0e0f0237d63",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "337aee3c-6edc-43e6-a28f-c0e0f0237d63",
+      externalLink: "https://musicbrainz.org/work/337aee3c-6edc-43e6-a28f-c0e0f0237d63",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const kellyClarksonYouThoughtWrong = {
   slug: "kelly-clarkson-you-thought-wrong",
   title: "You Thought Wrong",
   artist: "kelly-clarkson",
-  externalId: "87c564d3-e0c4-4cb6-afde-358e2d4e0d83",
-  externalLink: "https://musicbrainz.org/work/87c564d3-e0c4-4cb6-afde-358e2d4e0d83",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "87c564d3-e0c4-4cb6-afde-358e2d4e0d83",
+      externalLink: "https://musicbrainz.org/work/87c564d3-e0c4-4cb6-afde-358e2d4e0d83",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

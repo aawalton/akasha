@@ -6,10 +6,14 @@ export const kellyClarksonWideOpenSpaces = {
   slug: "kelly-clarkson-wide-open-spaces",
   title: "Wide Open Spaces",
   artist: "kelly-clarkson",
-  externalId: "4b0f9afd-1113-4176-8766-8e3c8bf67b53",
-  externalLink: "https://musicbrainz.org/work/4b0f9afd-1113-4176-8766-8e3c8bf67b53",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4b0f9afd-1113-4176-8766-8e3c8bf67b53",
+      externalLink: "https://musicbrainz.org/work/4b0f9afd-1113-4176-8766-8e3c8bf67b53",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

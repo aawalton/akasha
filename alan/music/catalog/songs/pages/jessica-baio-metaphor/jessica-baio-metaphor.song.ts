@@ -6,10 +6,14 @@ export const jessicaBaioMetaphor = {
   slug: "jessica-baio-metaphor",
   title: "metaphor",
   artist: "jessica-baio",
-  externalId: "a7b5ce87-3ea8-4aae-85e7-4b1e2b49d82c",
-  externalLink: "https://musicbrainz.org/recording/a7b5ce87-3ea8-4aae-85e7-4b1e2b49d82c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a7b5ce87-3ea8-4aae-85e7-4b1e2b49d82c",
+      externalLink: "https://musicbrainz.org/recording/a7b5ce87-3ea8-4aae-85e7-4b1e2b49d82c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

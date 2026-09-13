@@ -6,10 +6,14 @@ export const kellyClarksonWalkawayJoe = {
   slug: "kelly-clarkson-walkaway-joe",
   title: "Walkaway Joe",
   artist: "kelly-clarkson",
-  externalId: "07bf5ddb-c01b-4918-8140-04a861072555",
-  externalLink: "https://musicbrainz.org/work/07bf5ddb-c01b-4918-8140-04a861072555",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "07bf5ddb-c01b-4918-8140-04a861072555",
+      externalLink: "https://musicbrainz.org/work/07bf5ddb-c01b-4918-8140-04a861072555",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

@@ -6,10 +6,14 @@ export const jessicaBaioNaturally = {
   slug: "jessica-baio-naturally",
   title: "naturally",
   artist: "jessica-baio",
-  externalId: "197e59af-dba1-4da5-a98d-7ed875eede50",
-  externalLink: "https://musicbrainz.org/recording/197e59af-dba1-4da5-a98d-7ed875eede50",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "197e59af-dba1-4da5-a98d-7ed875eede50",
+      externalLink: "https://musicbrainz.org/recording/197e59af-dba1-4da5-a98d-7ed875eede50",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

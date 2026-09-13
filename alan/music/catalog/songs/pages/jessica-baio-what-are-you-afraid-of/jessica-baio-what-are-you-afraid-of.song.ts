@@ -6,10 +6,14 @@ export const jessicaBaioWhatAreYouAfraidOf = {
   slug: "jessica-baio-what-are-you-afraid-of",
   title: "what are you afraid of?",
   artist: "jessica-baio",
-  externalId: "5796f97a-fe59-4030-b3b8-53e846b9af29",
-  externalLink: "https://musicbrainz.org/recording/5796f97a-fe59-4030-b3b8-53e846b9af29",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "5796f97a-fe59-4030-b3b8-53e846b9af29",
+      externalLink: "https://musicbrainz.org/recording/5796f97a-fe59-4030-b3b8-53e846b9af29",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

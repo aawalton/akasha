@@ -6,10 +6,14 @@ export const kellyClarksonIfICanTHaveYou = {
   slug: "kelly-clarkson-if-i-can-t-have-you",
   title: "If I Can't Have You",
   artist: "kelly-clarkson",
-  externalId: "dbd6ad0c-9456-3770-804e-5868d7e8638f",
-  externalLink: "https://musicbrainz.org/work/dbd6ad0c-9456-3770-804e-5868d7e8638f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "dbd6ad0c-9456-3770-804e-5868d7e8638f",
+      externalLink: "https://musicbrainz.org/work/dbd6ad0c-9456-3770-804e-5868d7e8638f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

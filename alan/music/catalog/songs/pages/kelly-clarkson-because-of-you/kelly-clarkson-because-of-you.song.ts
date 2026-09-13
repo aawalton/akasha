@@ -6,10 +6,14 @@ export const kellyClarksonBecauseOfYou = {
   slug: "kelly-clarkson-because-of-you",
   title: "Because of You",
   artist: "kelly-clarkson",
-  externalId: "d34e2b1a-f29b-3e55-aa52-545846dae40e",
-  externalLink: "https://musicbrainz.org/work/d34e2b1a-f29b-3e55-aa52-545846dae40e",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d34e2b1a-f29b-3e55-aa52-545846dae40e",
+      externalLink: "https://musicbrainz.org/work/d34e2b1a-f29b-3e55-aa52-545846dae40e",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const jessicaBaioCatalyst = {
   slug: "jessica-baio-catalyst",
   title: "catalyst",
   artist: "jessica-baio",
-  externalId: "79b7c418-f5ea-417b-836d-062bdeec3489",
-  externalLink: "https://musicbrainz.org/recording/79b7c418-f5ea-417b-836d-062bdeec3489",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "79b7c418-f5ea-417b-836d-062bdeec3489",
+      externalLink: "https://musicbrainz.org/recording/79b7c418-f5ea-417b-836d-062bdeec3489",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

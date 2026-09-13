@@ -6,10 +6,14 @@ export const lilithMaxCirce = {
   slug: "lilith-max-circe",
   title: "Circe",
   artist: "lilith-max",
-  externalId: "775e900f-5040-409b-8bca-18d4290e590c",
-  externalLink: "https://musicbrainz.org/recording/775e900f-5040-409b-8bca-18d4290e590c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "775e900f-5040-409b-8bca-18d4290e590c",
+      externalLink: "https://musicbrainz.org/recording/775e900f-5040-409b-8bca-18d4290e590c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

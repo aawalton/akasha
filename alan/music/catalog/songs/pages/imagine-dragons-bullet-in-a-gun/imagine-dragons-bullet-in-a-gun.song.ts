@@ -6,10 +6,14 @@ export const imagineDragonsBulletInAGun = {
   slug: "imagine-dragons-bullet-in-a-gun",
   title: "Bullet in a Gun",
   artist: "imagine-dragons",
-  externalId: "478a926d-ffcb-4376-bb86-459e8ade8caf",
-  externalLink: "https://musicbrainz.org/work/478a926d-ffcb-4376-bb86-459e8ade8caf",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "478a926d-ffcb-4376-bb86-459e8ade8caf",
+      externalLink: "https://musicbrainz.org/work/478a926d-ffcb-4376-bb86-459e8ade8caf",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

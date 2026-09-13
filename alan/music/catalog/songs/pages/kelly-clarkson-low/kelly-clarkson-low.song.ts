@@ -6,10 +6,14 @@ export const kellyClarksonLow = {
   slug: "kelly-clarkson-low",
   title: "Low",
   artist: "kelly-clarkson",
-  externalId: "91c516a7-f6c7-466d-83dc-75e7be3d3f5c",
-  externalLink: "https://musicbrainz.org/work/91c516a7-f6c7-466d-83dc-75e7be3d3f5c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "91c516a7-f6c7-466d-83dc-75e7be3d3f5c",
+      externalLink: "https://musicbrainz.org/work/91c516a7-f6c7-466d-83dc-75e7be3d3f5c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

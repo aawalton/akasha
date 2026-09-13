@@ -6,10 +6,14 @@ export const kellyClarksonDonTYouWannaStay = {
   slug: "kelly-clarkson-don-t-you-wanna-stay",
   title: "Don’t You Wanna Stay",
   artist: "kelly-clarkson",
-  externalId: "0fb3113c-e85d-4a8b-882b-07a20f8bba1f",
-  externalLink: "https://musicbrainz.org/work/0fb3113c-e85d-4a8b-882b-07a20f8bba1f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0fb3113c-e85d-4a8b-882b-07a20f8bba1f",
+      externalLink: "https://musicbrainz.org/work/0fb3113c-e85d-4a8b-882b-07a20f8bba1f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

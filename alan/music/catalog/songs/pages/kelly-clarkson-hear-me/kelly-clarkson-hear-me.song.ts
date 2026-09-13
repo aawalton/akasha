@@ -6,10 +6,14 @@ export const kellyClarksonHearMe = {
   slug: "kelly-clarkson-hear-me",
   title: "Hear Me",
   artist: "kelly-clarkson",
-  externalId: "55350852-9c6d-36f9-8531-bcab65ff2a0c",
-  externalLink: "https://musicbrainz.org/work/55350852-9c6d-36f9-8531-bcab65ff2a0c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "55350852-9c6d-36f9-8531-bcab65ff2a0c",
+      externalLink: "https://musicbrainz.org/work/55350852-9c6d-36f9-8531-bcab65ff2a0c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

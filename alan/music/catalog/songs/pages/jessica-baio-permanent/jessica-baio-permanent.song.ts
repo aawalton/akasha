@@ -6,10 +6,14 @@ export const jessicaBaioPermanent = {
   slug: "jessica-baio-permanent",
   title: "permanent",
   artist: "jessica-baio",
-  externalId: "b885c663-7d58-4a26-8e35-822f78c6447b",
-  externalLink: "https://musicbrainz.org/recording/b885c663-7d58-4a26-8e35-822f78c6447b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b885c663-7d58-4a26-8e35-822f78c6447b",
+      externalLink: "https://musicbrainz.org/recording/b885c663-7d58-4a26-8e35-822f78c6447b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

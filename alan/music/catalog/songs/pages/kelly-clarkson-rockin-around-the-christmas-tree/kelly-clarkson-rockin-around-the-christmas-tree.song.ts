@@ -6,10 +6,14 @@ export const kellyClarksonRockinAroundTheChristmasTree = {
   slug: "kelly-clarkson-rockin-around-the-christmas-tree",
   title: "Rockin’ Around the Christmas Tree",
   artist: "kelly-clarkson",
-  externalId: "15875086-77a1-3e37-b125-75252d9d6bef",
-  externalLink: "https://musicbrainz.org/work/15875086-77a1-3e37-b125-75252d9d6bef",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "15875086-77a1-3e37-b125-75252d9d6bef",
+      externalLink: "https://musicbrainz.org/work/15875086-77a1-3e37-b125-75252d9d6bef",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

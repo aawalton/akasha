@@ -6,10 +6,14 @@ export const kellyClarksonCreep = {
   slug: "kelly-clarkson-creep",
   title: "Creep",
   artist: "kelly-clarkson",
-  externalId: "fa80b137-ebd1-3177-8fa4-416eb3ee52a2",
-  externalLink: "https://musicbrainz.org/work/fa80b137-ebd1-3177-8fa4-416eb3ee52a2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "fa80b137-ebd1-3177-8fa4-416eb3ee52a2",
+      externalLink: "https://musicbrainz.org/work/fa80b137-ebd1-3177-8fa4-416eb3ee52a2",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

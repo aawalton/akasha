@@ -6,10 +6,14 @@ export const kellyClarksonImpossible = {
   slug: "kelly-clarkson-impossible",
   title: "Impossible",
   artist: "kelly-clarkson",
-  externalId: "57674686-c367-3949-ad92-ed4f34bd2b77",
-  externalLink: "https://musicbrainz.org/work/57674686-c367-3949-ad92-ed4f34bd2b77",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "57674686-c367-3949-ad92-ed4f34bd2b77",
+      externalLink: "https://musicbrainz.org/work/57674686-c367-3949-ad92-ed4f34bd2b77",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

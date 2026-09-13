@@ -6,10 +6,14 @@ export const imagineDragonsGiants = {
   slug: "imagine-dragons-giants",
   title: "Giants",
   artist: "imagine-dragons",
-  externalId: "6cabda01-e13a-422f-bf72-50e7a7dc876b",
-  externalLink: "https://musicbrainz.org/work/6cabda01-e13a-422f-bf72-50e7a7dc876b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6cabda01-e13a-422f-bf72-50e7a7dc876b",
+      externalLink: "https://musicbrainz.org/work/6cabda01-e13a-422f-bf72-50e7a7dc876b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const jessicaBaioGladYouReSettling = {
   slug: "jessica-baio-glad-you-re-settling",
   title: "glad you’re settling",
   artist: "jessica-baio",
-  externalId: "a76db0c1-8a04-4324-9178-91c95a0b17cf",
-  externalLink: "https://musicbrainz.org/recording/a76db0c1-8a04-4324-9178-91c95a0b17cf",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a76db0c1-8a04-4324-9178-91c95a0b17cf",
+      externalLink: "https://musicbrainz.org/recording/a76db0c1-8a04-4324-9178-91c95a0b17cf",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

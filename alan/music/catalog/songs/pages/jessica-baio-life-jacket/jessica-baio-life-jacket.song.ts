@@ -6,10 +6,14 @@ export const jessicaBaioLifeJacket = {
   slug: "jessica-baio-life-jacket",
   title: "life jacket",
   artist: "jessica-baio",
-  externalId: "c5ba7eef-426c-4497-90e0-cf9c99fd30ae",
-  externalLink: "https://musicbrainz.org/recording/c5ba7eef-426c-4497-90e0-cf9c99fd30ae",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c5ba7eef-426c-4497-90e0-cf9c99fd30ae",
+      externalLink: "https://musicbrainz.org/recording/c5ba7eef-426c-4497-90e0-cf9c99fd30ae",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

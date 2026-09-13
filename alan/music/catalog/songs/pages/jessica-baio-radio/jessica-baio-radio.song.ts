@@ -6,10 +6,14 @@ export const jessicaBaioRadio = {
   slug: "jessica-baio-radio",
   title: "Radio",
   artist: "jessica-baio",
-  externalId: "af005ffe-1b47-4c2d-84dc-e5a80615d774",
-  externalLink: "https://musicbrainz.org/recording/af005ffe-1b47-4c2d-84dc-e5a80615d774",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "af005ffe-1b47-4c2d-84dc-e5a80615d774",
+      externalLink: "https://musicbrainz.org/recording/af005ffe-1b47-4c2d-84dc-e5a80615d774",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

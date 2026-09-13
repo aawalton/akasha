@@ -6,10 +6,14 @@ export const kellyClarksonIfNoOneWillListen = {
   slug: "kelly-clarkson-if-no-one-will-listen",
   title: "If No One Will Listen",
   artist: "kelly-clarkson",
-  externalId: "d093caa6-6453-37db-8412-609d10b205b1",
-  externalLink: "https://musicbrainz.org/work/d093caa6-6453-37db-8412-609d10b205b1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d093caa6-6453-37db-8412-609d10b205b1",
+      externalLink: "https://musicbrainz.org/work/d093caa6-6453-37db-8412-609d10b205b1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

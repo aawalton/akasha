@@ -6,10 +6,14 @@ export const jessicaBaioSaveALittleLove = {
   slug: "jessica-baio-save-a-little-love",
   title: "Save a Little Love",
   artist: "jessica-baio",
-  externalId: "bcd2ef61-27ca-4c89-97bd-89412be188ca",
-  externalLink: "https://musicbrainz.org/recording/bcd2ef61-27ca-4c89-97bd-89412be188ca",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "bcd2ef61-27ca-4c89-97bd-89412be188ca",
+      externalLink: "https://musicbrainz.org/recording/bcd2ef61-27ca-4c89-97bd-89412be188ca",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
 } as const satisfies Song

@@ -6,10 +6,14 @@ export const kellyClarksonNeverAgain = {
   slug: "kelly-clarkson-never-again",
   title: "Never Again",
   artist: "kelly-clarkson",
-  externalId: "9af4a4d3-3b01-4a01-8d0a-0cb5dcdede8a",
-  externalLink: "https://musicbrainz.org/work/9af4a4d3-3b01-4a01-8d0a-0cb5dcdede8a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9af4a4d3-3b01-4a01-8d0a-0cb5dcdede8a",
+      externalLink: "https://musicbrainz.org/work/9af4a4d3-3b01-4a01-8d0a-0cb5dcdede8a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

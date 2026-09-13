@@ -6,10 +6,14 @@ export const kellyClarksonItSQuietUptown = {
   slug: "kelly-clarkson-it-s-quiet-uptown",
   title: "It’s Quiet Uptown",
   artist: "kelly-clarkson",
-  externalId: "1d41ebd5-d8c4-428f-b564-ad6d1313df0c",
-  externalLink: "https://musicbrainz.org/work/1d41ebd5-d8c4-428f-b564-ad6d1313df0c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1d41ebd5-d8c4-428f-b564-ad6d1313df0c",
+      externalLink: "https://musicbrainz.org/work/1d41ebd5-d8c4-428f-b564-ad6d1313df0c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

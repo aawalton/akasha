@@ -6,10 +6,14 @@ export const kellyClarksonSober = {
   slug: "kelly-clarkson-sober",
   title: "Sober",
   artist: "kelly-clarkson",
-  externalId: "77c0fd13-1734-483a-ac9e-71c2c1d29108",
-  externalLink: "https://musicbrainz.org/work/77c0fd13-1734-483a-ac9e-71c2c1d29108",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "77c0fd13-1734-483a-ac9e-71c2c1d29108",
+      externalLink: "https://musicbrainz.org/work/77c0fd13-1734-483a-ac9e-71c2c1d29108",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

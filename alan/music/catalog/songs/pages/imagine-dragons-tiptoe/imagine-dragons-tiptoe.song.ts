@@ -6,10 +6,14 @@ export const imagineDragonsTiptoe = {
   slug: "imagine-dragons-tiptoe",
   title: "Tiptoe",
   artist: "imagine-dragons",
-  externalId: "1f5335da-01c5-42b0-af5e-9c7ab6d39eb3",
-  externalLink: "https://musicbrainz.org/work/1f5335da-01c5-42b0-af5e-9c7ab6d39eb3",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1f5335da-01c5-42b0-af5e-9c7ab6d39eb3",
+      externalLink: "https://musicbrainz.org/work/1f5335da-01c5-42b0-af5e-9c7ab6d39eb3",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

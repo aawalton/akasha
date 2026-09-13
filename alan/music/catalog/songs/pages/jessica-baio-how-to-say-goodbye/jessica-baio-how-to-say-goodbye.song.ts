@@ -6,10 +6,14 @@ export const jessicaBaioHowToSayGoodbye = {
   slug: "jessica-baio-how-to-say-goodbye",
   title: "How To Say Goodbye",
   artist: "jessica-baio",
-  externalId: "480abb59-9922-4836-85e1-5ebd1168724c",
-  externalLink: "https://musicbrainz.org/recording/480abb59-9922-4836-85e1-5ebd1168724c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "480abb59-9922-4836-85e1-5ebd1168724c",
+      externalLink: "https://musicbrainz.org/recording/480abb59-9922-4836-85e1-5ebd1168724c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

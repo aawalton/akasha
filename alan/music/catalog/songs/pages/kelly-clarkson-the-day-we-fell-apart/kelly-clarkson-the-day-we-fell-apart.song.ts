@@ -6,10 +6,14 @@ export const kellyClarksonTheDayWeFellApart = {
   slug: "kelly-clarkson-the-day-we-fell-apart",
   title: "The Day We Fell Apart",
   artist: "kelly-clarkson",
-  externalId: "35ebbbac-6112-3902-8843-dd692cf40e9d",
-  externalLink: "https://musicbrainz.org/work/35ebbbac-6112-3902-8843-dd692cf40e9d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "35ebbbac-6112-3902-8843-dd692cf40e9d",
+      externalLink: "https://musicbrainz.org/work/35ebbbac-6112-3902-8843-dd692cf40e9d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

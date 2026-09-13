@@ -6,10 +6,14 @@ export const kellyClarksonDonTWasteYourTime = {
   slug: "kelly-clarkson-don-t-waste-your-time",
   title: "Don't Waste Your Time",
   artist: "kelly-clarkson",
-  externalId: "335f3e32-4fe7-444e-9c2a-a6f72f0717ba",
-  externalLink: "https://musicbrainz.org/work/335f3e32-4fe7-444e-9c2a-a6f72f0717ba",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "335f3e32-4fe7-444e-9c2a-a6f72f0717ba",
+      externalLink: "https://musicbrainz.org/work/335f3e32-4fe7-444e-9c2a-a6f72f0717ba",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

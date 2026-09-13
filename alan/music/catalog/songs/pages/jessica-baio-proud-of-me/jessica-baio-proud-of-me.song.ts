@@ -6,10 +6,14 @@ export const jessicaBaioProudOfMe = {
   slug: "jessica-baio-proud-of-me",
   title: "proud of me",
   artist: "jessica-baio",
-  externalId: "8d6aa75b-2554-4fd9-bfb3-e5ca5a6f113f",
-  externalLink: "https://musicbrainz.org/recording/8d6aa75b-2554-4fd9-bfb3-e5ca5a6f113f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "8d6aa75b-2554-4fd9-bfb3-e5ca5a6f113f",
+      externalLink: "https://musicbrainz.org/recording/8d6aa75b-2554-4fd9-bfb3-e5ca5a6f113f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

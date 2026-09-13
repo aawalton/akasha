@@ -6,10 +6,14 @@ export const jessicaBaioAtLeast = {
   slug: "jessica-baio-at-least",
   title: "at least",
   artist: "jessica-baio",
-  externalId: "aa1071eb-6fcd-4481-8c65-a90411ce96d1",
-  externalLink: "https://musicbrainz.org/recording/aa1071eb-6fcd-4481-8c65-a90411ce96d1",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "aa1071eb-6fcd-4481-8c65-a90411ce96d1",
+      externalLink: "https://musicbrainz.org/recording/aa1071eb-6fcd-4481-8c65-a90411ce96d1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

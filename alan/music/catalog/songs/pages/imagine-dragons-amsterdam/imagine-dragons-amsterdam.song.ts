@@ -6,10 +6,14 @@ export const imagineDragonsAmsterdam = {
   slug: "imagine-dragons-amsterdam",
   title: "Amsterdam",
   artist: "imagine-dragons",
-  externalId: "04592120-3daf-47f0-8aeb-985ef8c5b300",
-  externalLink: "https://musicbrainz.org/work/04592120-3daf-47f0-8aeb-985ef8c5b300",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "04592120-3daf-47f0-8aeb-985ef8c5b300",
+      externalLink: "https://musicbrainz.org/work/04592120-3daf-47f0-8aeb-985ef8c5b300",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const kellyClarksonCatchMyBreath = {
   slug: "kelly-clarkson-catch-my-breath",
   title: "Catch My Breath",
   artist: "kelly-clarkson",
-  externalId: "6f8011b9-4039-40f6-8b11-96d2117dfe89",
-  externalLink: "https://musicbrainz.org/work/6f8011b9-4039-40f6-8b11-96d2117dfe89",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6f8011b9-4039-40f6-8b11-96d2117dfe89",
+      externalLink: "https://musicbrainz.org/work/6f8011b9-4039-40f6-8b11-96d2117dfe89",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

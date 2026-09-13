@@ -6,10 +6,14 @@ export const emBeiholdPhone = {
   slug: "em-beihold-phone",
   title: "Phone",
   artist: "em-beihold",
-  externalId: "ccdb04e8-b2d0-4133-acfd-cad4d35d04c0",
-  externalLink: "https://musicbrainz.org/work/ccdb04e8-b2d0-4133-acfd-cad4d35d04c0",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ccdb04e8-b2d0-4133-acfd-cad4d35d04c0",
+      externalLink: "https://musicbrainz.org/work/ccdb04e8-b2d0-4133-acfd-cad4d35d04c0",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const imagineDragonsWalkingTheWire = {
   slug: "imagine-dragons-walking-the-wire",
   title: "Walking the Wire",
   artist: "imagine-dragons",
-  externalId: "0c58d8f2-c1a2-4850-b839-429a3590ba99",
-  externalLink: "https://musicbrainz.org/work/0c58d8f2-c1a2-4850-b839-429a3590ba99",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0c58d8f2-c1a2-4850-b839-429a3590ba99",
+      externalLink: "https://musicbrainz.org/work/0c58d8f2-c1a2-4850-b839-429a3590ba99",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

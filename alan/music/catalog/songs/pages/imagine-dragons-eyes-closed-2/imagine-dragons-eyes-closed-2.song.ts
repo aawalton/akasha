@@ -6,10 +6,14 @@ export const imagineDragonsEyesClosed2 = {
   slug: "imagine-dragons-eyes-closed-2",
   title: "Eyes Closed",
   artist: "imagine-dragons",
-  externalId: "ecf49b90-57ed-4702-ab23-fcbc726d64cf",
-  externalLink: "https://musicbrainz.org/work/ecf49b90-57ed-4702-ab23-fcbc726d64cf",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ecf49b90-57ed-4702-ab23-fcbc726d64cf",
+      externalLink: "https://musicbrainz.org/work/ecf49b90-57ed-4702-ab23-fcbc726d64cf",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

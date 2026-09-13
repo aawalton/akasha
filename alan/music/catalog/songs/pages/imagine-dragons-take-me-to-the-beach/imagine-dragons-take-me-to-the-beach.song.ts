@@ -6,10 +6,14 @@ export const imagineDragonsTakeMeToTheBeach = {
   slug: "imagine-dragons-take-me-to-the-beach",
   title: "Take Me to the Beach",
   artist: "imagine-dragons",
-  externalId: "c2fa30b1-4ab0-434f-b887-e6175761aae6",
-  externalLink: "https://musicbrainz.org/work/c2fa30b1-4ab0-434f-b887-e6175761aae6",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c2fa30b1-4ab0-434f-b887-e6175761aae6",
+      externalLink: "https://musicbrainz.org/work/c2fa30b1-4ab0-434f-b887-e6175761aae6",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

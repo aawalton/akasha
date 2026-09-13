@@ -6,10 +6,14 @@ export const kellyClarksonWinterDreamsBrandonSSong = {
   slug: "kelly-clarkson-winter-dreams-brandon-s-song",
   title: "Winter Dreams (Brandon's Song)",
   artist: "kelly-clarkson",
-  externalId: "30ce0cd4-95c9-43df-9a83-8184fc962000",
-  externalLink: "https://musicbrainz.org/work/30ce0cd4-95c9-43df-9a83-8184fc962000",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "30ce0cd4-95c9-43df-9a83-8184fc962000",
+      externalLink: "https://musicbrainz.org/work/30ce0cd4-95c9-43df-9a83-8184fc962000",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const kellyClarksonBeautifulDisaster = {
   slug: "kelly-clarkson-beautiful-disaster",
   title: "Beautiful Disaster",
   artist: "kelly-clarkson",
-  externalId: "f7fdb25b-a042-3560-b1a3-64696dd26b79",
-  externalLink: "https://musicbrainz.org/work/f7fdb25b-a042-3560-b1a3-64696dd26b79",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f7fdb25b-a042-3560-b1a3-64696dd26b79",
+      externalLink: "https://musicbrainz.org/work/f7fdb25b-a042-3560-b1a3-64696dd26b79",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

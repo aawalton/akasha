@@ -6,10 +6,14 @@ export const imagineDragonsBirds = {
   slug: "imagine-dragons-birds",
   title: "Birds",
   artist: "imagine-dragons",
-  externalId: "24ea2aed-708a-49a3-a943-d7d4169f81f3",
-  externalLink: "https://musicbrainz.org/work/24ea2aed-708a-49a3-a943-d7d4169f81f3",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "24ea2aed-708a-49a3-a943-d7d4169f81f3",
+      externalLink: "https://musicbrainz.org/work/24ea2aed-708a-49a3-a943-d7d4169f81f3",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

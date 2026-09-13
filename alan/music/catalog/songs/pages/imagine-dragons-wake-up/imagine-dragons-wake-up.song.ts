@@ -6,10 +6,14 @@ export const imagineDragonsWakeUp = {
   slug: "imagine-dragons-wake-up",
   title: "Wake Up",
   artist: "imagine-dragons",
-  externalId: "1b7aa1e5-7e3c-4021-8ceb-575fdd3680f3",
-  externalLink: "https://musicbrainz.org/work/1b7aa1e5-7e3c-4021-8ceb-575fdd3680f3",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1b7aa1e5-7e3c-4021-8ceb-575fdd3680f3",
+      externalLink: "https://musicbrainz.org/work/1b7aa1e5-7e3c-4021-8ceb-575fdd3680f3",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

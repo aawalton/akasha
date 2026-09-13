@@ -6,10 +6,14 @@ export const lilithMaxBornToDie = {
   slug: "lilith-max-born-to-die",
   title: "Born to Die",
   artist: "lilith-max",
-  externalId: "784d3a93-fae2-4e44-b744-9942d8dafc16",
-  externalLink: "https://musicbrainz.org/recording/784d3a93-fae2-4e44-b744-9942d8dafc16",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "784d3a93-fae2-4e44-b744-9942d8dafc16",
+      externalLink: "https://musicbrainz.org/recording/784d3a93-fae2-4e44-b744-9942d8dafc16",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
 } as const satisfies Song

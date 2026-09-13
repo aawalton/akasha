@@ -6,10 +6,14 @@ export const kellyClarksonWalkAway = {
   slug: "kelly-clarkson-walk-away",
   title: "Walk Away",
   artist: "kelly-clarkson",
-  externalId: "74922bde-5b14-373b-84f9-214c7bba5248",
-  externalLink: "https://musicbrainz.org/work/74922bde-5b14-373b-84f9-214c7bba5248",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "74922bde-5b14-373b-84f9-214c7bba5248",
+      externalLink: "https://musicbrainz.org/work/74922bde-5b14-373b-84f9-214c7bba5248",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

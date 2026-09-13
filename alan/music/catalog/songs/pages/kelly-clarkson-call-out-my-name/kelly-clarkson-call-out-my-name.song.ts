@@ -6,10 +6,14 @@ export const kellyClarksonCallOutMyName = {
   slug: "kelly-clarkson-call-out-my-name",
   title: "Call Out My Name",
   artist: "kelly-clarkson",
-  externalId: "7ba9ac29-3de4-4481-89ca-501e4575138d",
-  externalLink: "https://musicbrainz.org/work/7ba9ac29-3de4-4481-89ca-501e4575138d",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7ba9ac29-3de4-4481-89ca-501e4575138d",
+      externalLink: "https://musicbrainz.org/work/7ba9ac29-3de4-4481-89ca-501e4575138d",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

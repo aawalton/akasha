@@ -6,10 +6,14 @@ export const imagineDragonsSuckerForPain = {
   slug: "imagine-dragons-sucker-for-pain",
   title: "Sucker for Pain",
   artist: "imagine-dragons",
-  externalId: "e6d89d6d-51ea-4758-b207-5041a5e1426b",
-  externalLink: "https://musicbrainz.org/work/e6d89d6d-51ea-4758-b207-5041a5e1426b",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e6d89d6d-51ea-4758-b207-5041a5e1426b",
+      externalLink: "https://musicbrainz.org/work/e6d89d6d-51ea-4758-b207-5041a5e1426b",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

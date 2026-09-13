@@ -6,10 +6,14 @@ export const lilithMaxCallDownTheDragon = {
   slug: "lilith-max-call-down-the-dragon",
   title: "Call Down the Dragon",
   artist: "lilith-max",
-  externalId: "c3028969-4508-4ed6-a213-c22799a0f9dd",
-  externalLink: "https://musicbrainz.org/recording/c3028969-4508-4ed6-a213-c22799a0f9dd",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c3028969-4508-4ed6-a213-c22799a0f9dd",
+      externalLink: "https://musicbrainz.org/recording/c3028969-4508-4ed6-a213-c22799a0f9dd",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

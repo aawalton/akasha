@@ -6,10 +6,14 @@ export const jessicaBaioTrustIssues = {
   slug: "jessica-baio-trust-issues",
   title: "trust issues",
   artist: "jessica-baio",
-  externalId: "1912e513-8a5b-4472-a0d5-a28b7e7e02c2",
-  externalLink: "https://musicbrainz.org/recording/1912e513-8a5b-4472-a0d5-a28b7e7e02c2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "1912e513-8a5b-4472-a0d5-a28b7e7e02c2",
+      externalLink: "https://musicbrainz.org/recording/1912e513-8a5b-4472-a0d5-a28b7e7e02c2",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const imagineDragonsRadioactive = {
   slug: "imagine-dragons-radioactive",
   title: "Radioactive",
   artist: "imagine-dragons",
-  externalId: "84292c2c-b88e-4b71-8716-2b7ad7f6f2e2",
-  externalLink: "https://musicbrainz.org/work/84292c2c-b88e-4b71-8716-2b7ad7f6f2e2",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "84292c2c-b88e-4b71-8716-2b7ad7f6f2e2",
+      externalLink: "https://musicbrainz.org/work/84292c2c-b88e-4b71-8716-2b7ad7f6f2e2",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

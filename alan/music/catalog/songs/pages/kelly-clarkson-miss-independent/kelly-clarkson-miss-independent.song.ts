@@ -6,10 +6,14 @@ export const kellyClarksonMissIndependent = {
   slug: "kelly-clarkson-miss-independent",
   title: "Miss Independent",
   artist: "kelly-clarkson",
-  externalId: "d70d9069-41ac-31ee-84e1-59292d79ff01",
-  externalLink: "https://musicbrainz.org/work/d70d9069-41ac-31ee-84e1-59292d79ff01",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d70d9069-41ac-31ee-84e1-59292d79ff01",
+      externalLink: "https://musicbrainz.org/work/d70d9069-41ac-31ee-84e1-59292d79ff01",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

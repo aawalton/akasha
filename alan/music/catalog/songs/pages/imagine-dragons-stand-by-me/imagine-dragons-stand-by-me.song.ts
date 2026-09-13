@@ -6,10 +6,14 @@ export const imagineDragonsStandByMe = {
   slug: "imagine-dragons-stand-by-me",
   title: "Stand by Me",
   artist: "imagine-dragons",
-  externalId: "54d6831c-4447-3087-a71e-3f92aa1fad27",
-  externalLink: "https://musicbrainz.org/work/54d6831c-4447-3087-a71e-3f92aa1fad27",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "54d6831c-4447-3087-a71e-3f92aa1fad27",
+      externalLink: "https://musicbrainz.org/work/54d6831c-4447-3087-a71e-3f92aa1fad27",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
 } as const satisfies Song

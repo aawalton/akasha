@@ -6,10 +6,14 @@ export const imagineDragonsSharks = {
   slug: "imagine-dragons-sharks",
   title: "Sharks",
   artist: "imagine-dragons",
-  externalId: "0ab26e65-762a-4eb9-ad1b-98c1966a3845",
-  externalLink: "https://musicbrainz.org/work/0ab26e65-762a-4eb9-ad1b-98c1966a3845",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0ab26e65-762a-4eb9-ad1b-98c1966a3845",
+      externalLink: "https://musicbrainz.org/work/0ab26e65-762a-4eb9-ad1b-98c1966a3845",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

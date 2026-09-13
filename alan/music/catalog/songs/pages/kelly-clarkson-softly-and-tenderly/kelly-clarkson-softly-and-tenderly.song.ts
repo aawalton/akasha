@@ -6,10 +6,14 @@ export const kellyClarksonSoftlyAndTenderly = {
   slug: "kelly-clarkson-softly-and-tenderly",
   title: "Softly and Tenderly",
   artist: "kelly-clarkson",
-  externalId: "7975de9f-455b-4727-8f93-2f35230ed56a",
-  externalLink: "https://musicbrainz.org/work/7975de9f-455b-4727-8f93-2f35230ed56a",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7975de9f-455b-4727-8f93-2f35230ed56a",
+      externalLink: "https://musicbrainz.org/work/7975de9f-455b-4727-8f93-2f35230ed56a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

@@ -6,10 +6,14 @@ export const jessicaBaioSacred = {
   slug: "jessica-baio-sacred",
   title: "sacred",
   artist: "jessica-baio",
-  externalId: "36c77aa4-ad26-440b-956e-79502e28fa31",
-  externalLink: "https://musicbrainz.org/recording/36c77aa4-ad26-440b-956e-79502e28fa31",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "36c77aa4-ad26-440b-956e-79502e28fa31",
+      externalLink: "https://musicbrainz.org/recording/36c77aa4-ad26-440b-956e-79502e28fa31",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

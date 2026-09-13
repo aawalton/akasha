@@ -6,10 +6,14 @@ export const jessicaBaioEveryVersion = {
   slug: "jessica-baio-every-version",
   title: "every version",
   artist: "jessica-baio",
-  externalId: "49d39b84-2631-4f27-a5ce-b67b326fdd60",
-  externalLink: "https://musicbrainz.org/recording/49d39b84-2631-4f27-a5ce-b67b326fdd60",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "49d39b84-2631-4f27-a5ce-b67b326fdd60",
+      externalLink: "https://musicbrainz.org/recording/49d39b84-2631-4f27-a5ce-b67b326fdd60",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

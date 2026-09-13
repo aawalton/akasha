@@ -6,10 +6,14 @@ export const imagineDragonsDareU = {
   slug: "imagine-dragons-dare-u",
   title: "Dare U",
   artist: "imagine-dragons",
-  externalId: "74bfdec9-f2fc-4afa-9327-a718b801f469",
-  externalLink: "https://musicbrainz.org/work/74bfdec9-f2fc-4afa-9327-a718b801f469",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "74bfdec9-f2fc-4afa-9327-a718b801f469",
+      externalLink: "https://musicbrainz.org/work/74bfdec9-f2fc-4afa-9327-a718b801f469",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

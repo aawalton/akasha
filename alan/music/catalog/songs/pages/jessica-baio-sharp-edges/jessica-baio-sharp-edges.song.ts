@@ -6,10 +6,14 @@ export const jessicaBaioSharpEdges = {
   slug: "jessica-baio-sharp-edges",
   title: "sharp edges",
   artist: "jessica-baio",
-  externalId: "62548ac0-d2c9-418d-a6f9-a8beac5fb197",
-  externalLink: "https://musicbrainz.org/recording/62548ac0-d2c9-418d-a6f9-a8beac5fb197",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "62548ac0-d2c9-418d-a6f9-a8beac5fb197",
+      externalLink: "https://musicbrainz.org/recording/62548ac0-d2c9-418d-a6f9-a8beac5fb197",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

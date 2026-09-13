@@ -6,10 +6,14 @@ export const imagineDragonsItComesBackToYou = {
   slug: "imagine-dragons-it-comes-back-to-you",
   title: "It Comes Back to You",
   artist: "imagine-dragons",
-  externalId: "0528b209-24ad-44ae-a83b-a60f531497bb",
-  externalLink: "https://musicbrainz.org/work/0528b209-24ad-44ae-a83b-a60f531497bb",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0528b209-24ad-44ae-a83b-a60f531497bb",
+      externalLink: "https://musicbrainz.org/work/0528b209-24ad-44ae-a83b-a60f531497bb",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

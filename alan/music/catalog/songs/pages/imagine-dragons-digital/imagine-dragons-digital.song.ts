@@ -6,10 +6,14 @@ export const imagineDragonsDigital = {
   slug: "imagine-dragons-digital",
   title: "Digital",
   artist: "imagine-dragons",
-  externalId: "4a514c67-f176-47be-a05e-f6a0fb83700f",
-  externalLink: "https://musicbrainz.org/work/4a514c67-f176-47be-a05e-f6a0fb83700f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "4a514c67-f176-47be-a05e-f6a0fb83700f",
+      externalLink: "https://musicbrainz.org/work/4a514c67-f176-47be-a05e-f6a0fb83700f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

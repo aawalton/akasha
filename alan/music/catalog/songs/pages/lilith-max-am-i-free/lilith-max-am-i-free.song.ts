@@ -6,10 +6,14 @@ export const lilithMaxAmIFree = {
   slug: "lilith-max-am-i-free",
   title: "Am I Free",
   artist: "lilith-max",
-  externalId: "c5e56a98-97a8-4982-9f6b-c3c3d7a0a279",
-  externalLink: "https://musicbrainz.org/recording/c5e56a98-97a8-4982-9f6b-c3c3d7a0a279",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c5e56a98-97a8-4982-9f6b-c3c3d7a0a279",
+      externalLink: "https://musicbrainz.org/recording/c5e56a98-97a8-4982-9f6b-c3c3d7a0a279",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

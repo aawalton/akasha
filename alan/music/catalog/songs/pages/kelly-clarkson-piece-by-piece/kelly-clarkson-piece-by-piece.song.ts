@@ -6,10 +6,14 @@ export const kellyClarksonPieceByPiece = {
   slug: "kelly-clarkson-piece-by-piece",
   title: "Piece by Piece",
   artist: "kelly-clarkson",
-  externalId: "0a1a605e-936c-4e74-a53b-d783eb4649b8",
-  externalLink: "https://musicbrainz.org/work/0a1a605e-936c-4e74-a53b-d783eb4649b8",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0a1a605e-936c-4e74-a53b-d783eb4649b8",
+      externalLink: "https://musicbrainz.org/work/0a1a605e-936c-4e74-a53b-d783eb4649b8",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

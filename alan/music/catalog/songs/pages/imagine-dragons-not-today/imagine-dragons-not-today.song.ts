@@ -6,10 +6,14 @@ export const imagineDragonsNotToday = {
   slug: "imagine-dragons-not-today",
   title: "Not Today",
   artist: "imagine-dragons",
-  externalId: "e1299aba-2caf-428d-bdc7-1a3e3e45cb44",
-  externalLink: "https://musicbrainz.org/work/e1299aba-2caf-428d-bdc7-1a3e3e45cb44",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e1299aba-2caf-428d-bdc7-1a3e3e45cb44",
+      externalLink: "https://musicbrainz.org/work/e1299aba-2caf-428d-bdc7-1a3e3e45cb44",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

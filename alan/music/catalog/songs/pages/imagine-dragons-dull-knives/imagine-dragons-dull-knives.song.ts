@@ -6,10 +6,14 @@ export const imagineDragonsDullKnives = {
   slug: "imagine-dragons-dull-knives",
   title: "Dull Knives",
   artist: "imagine-dragons",
-  externalId: "87cc4222-363b-4332-b75c-1fe255aed685",
-  externalLink: "https://musicbrainz.org/work/87cc4222-363b-4332-b75c-1fe255aed685",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "87cc4222-363b-4332-b75c-1fe255aed685",
+      externalLink: "https://musicbrainz.org/work/87cc4222-363b-4332-b75c-1fe255aed685",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

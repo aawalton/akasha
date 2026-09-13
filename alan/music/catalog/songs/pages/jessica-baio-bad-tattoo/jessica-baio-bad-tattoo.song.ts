@@ -6,10 +6,14 @@ export const jessicaBaioBadTattoo = {
   slug: "jessica-baio-bad-tattoo",
   title: "bad tattoo",
   artist: "jessica-baio",
-  externalId: "6fd5e6cc-2e0a-448f-9826-73b0955b1b78",
-  externalLink: "https://musicbrainz.org/recording/6fd5e6cc-2e0a-448f-9826-73b0955b1b78",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6fd5e6cc-2e0a-448f-9826-73b0955b1b78",
+      externalLink: "https://musicbrainz.org/recording/6fd5e6cc-2e0a-448f-9826-73b0955b1b78",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "original",
   performed: true,
   lyricsSource: "lrclib",

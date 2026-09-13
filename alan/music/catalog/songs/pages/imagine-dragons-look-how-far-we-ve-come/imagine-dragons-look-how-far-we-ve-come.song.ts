@@ -6,10 +6,14 @@ export const imagineDragonsLookHowFarWeVeCome = {
   slug: "imagine-dragons-look-how-far-we-ve-come",
   title: "Look How Far We’ve Come",
   artist: "imagine-dragons",
-  externalId: "740f277b-c4ba-4191-a35f-35a54a7dcc1f",
-  externalLink: "https://musicbrainz.org/work/740f277b-c4ba-4191-a35f-35a54a7dcc1f",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "740f277b-c4ba-4191-a35f-35a54a7dcc1f",
+      externalLink: "https://musicbrainz.org/work/740f277b-c4ba-4191-a35f-35a54a7dcc1f",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

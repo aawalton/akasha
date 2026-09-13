@@ -6,10 +6,14 @@ export const imagineDragonsMyFault = {
   slug: "imagine-dragons-my-fault",
   title: "My Fault",
   artist: "imagine-dragons",
-  externalId: "79b86689-a222-4a13-811c-3f8d3877e773",
-  externalLink: "https://musicbrainz.org/work/79b86689-a222-4a13-811c-3f8d3877e773",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "79b86689-a222-4a13-811c-3f8d3877e773",
+      externalLink: "https://musicbrainz.org/work/79b86689-a222-4a13-811c-3f8d3877e773",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

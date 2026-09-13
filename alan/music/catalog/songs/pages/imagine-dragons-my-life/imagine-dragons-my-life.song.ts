@@ -6,10 +6,14 @@ export const imagineDragonsMyLife = {
   slug: "imagine-dragons-my-life",
   title: "My Life",
   artist: "imagine-dragons",
-  externalId: "f87fe0fb-8039-48a5-bc8e-d37e208b558c",
-  externalLink: "https://musicbrainz.org/work/f87fe0fb-8039-48a5-bc8e-d37e208b558c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f87fe0fb-8039-48a5-bc8e-d37e208b558c",
+      externalLink: "https://musicbrainz.org/work/f87fe0fb-8039-48a5-bc8e-d37e208b558c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

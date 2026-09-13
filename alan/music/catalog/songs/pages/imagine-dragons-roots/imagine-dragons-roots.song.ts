@@ -6,10 +6,14 @@ export const imagineDragonsRoots = {
   slug: "imagine-dragons-roots",
   title: "Roots",
   artist: "imagine-dragons",
-  externalId: "9019a210-b458-4d27-9456-4057d1e95e03",
-  externalLink: "https://musicbrainz.org/work/9019a210-b458-4d27-9456-4057d1e95e03",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9019a210-b458-4d27-9456-4057d1e95e03",
+      externalLink: "https://musicbrainz.org/work/9019a210-b458-4d27-9456-4057d1e95e03",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",

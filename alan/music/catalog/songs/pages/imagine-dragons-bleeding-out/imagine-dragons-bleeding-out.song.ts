@@ -6,10 +6,14 @@ export const imagineDragonsBleedingOut = {
   slug: "imagine-dragons-bleeding-out",
   title: "Bleeding Out",
   artist: "imagine-dragons",
-  externalId: "e49298fe-1aec-46dd-9c89-e9a65b22ab5c",
-  externalLink: "https://musicbrainz.org/work/e49298fe-1aec-46dd-9c89-e9a65b22ab5c",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "e49298fe-1aec-46dd-9c89-e9a65b22ab5c",
+      externalLink: "https://musicbrainz.org/work/e49298fe-1aec-46dd-9c89-e9a65b22ab5c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
