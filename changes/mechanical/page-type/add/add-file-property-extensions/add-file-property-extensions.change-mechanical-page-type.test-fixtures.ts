@@ -13,7 +13,7 @@ export const APART = "apart/moots/mask.file-property.ts"
 
 export const DEFINED = "the mask a moot wears"
 
-export function maskOf(held: string): string {
+function maskOf(held: string): string {
   return `export const mask = {
   type: "${KIND}",
   slug: "mask",
@@ -24,7 +24,7 @@ export type Mask = ${held}
 `
 }
 
-export const BODY = maskOf(`"svg" | "png"`)
+const BODY = maskOf(`"svg" | "png"`)
 
 export const LOOSE = maskOf("string")
 

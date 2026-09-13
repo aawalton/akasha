@@ -7,7 +7,7 @@ import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.modu
 
 export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
 
-export const ANOTHER = "01a05844-6e60-7000-b54c-4b14559df70c"
+const ANOTHER = "01a05844-6e60-7000-b54c-4b14559df70c"
 
 export const OWN = "a38f63805f9b94edf"
 

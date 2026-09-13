@@ -24,7 +24,7 @@ const CODE_ENDING = ".code.ts"
 
 const HELD = "jsonl"
 
-export function pageOfCode(at: string): string {
+function pageOfCode(at: string): string {
   return at.endsWith(CODE_ENDING) ? `${at.slice(0, -CODE_ENDING.length)}.ts` : at
 }
 

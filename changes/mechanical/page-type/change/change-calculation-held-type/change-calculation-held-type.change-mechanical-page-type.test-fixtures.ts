@@ -5,7 +5,7 @@ import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.mod
 
 export const KIND = "computed-property"
 
-export const SLUG = "moots-left"
+const SLUG = "moots-left"
 
 export const AT = `thrumming/moots/${SLUG}.${KIND}.ts`
 
@@ -19,7 +19,7 @@ export const TYPES_IMPORT = `import type { MootsLeft } from "akasha/thrumming/mo
 
 const REPO = rootOf(import.meta.dir)
 
-export const KIND_AT = `akasha/${listedAt(REPO, "page-type", KIND)[0]?.path ?? ""}`
+const KIND_AT = `akasha/${listedAt(REPO, "page-type", KIND)[0]?.path ?? ""}`
 
 export const WORK_AT = `import type { Work } from "${KIND_AT}"`
 

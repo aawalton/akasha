@@ -42,11 +42,11 @@ export function slugSpotted(path: string, text: string, key: string, to: string)
   return { spots: [{ from: held.getStart(source), to: held.getEnd(), put }] }
 }
 
-export function spelledKey(name: ts.PropertyName, now: string): string {
+function spelledKey(name: ts.PropertyName, now: string): string {
   return ts.isStringLiteral(name) ? JSON.stringify(now) : now
 }
 
-export function namedKeyIn(
+function namedKeyIn(
   held: ts.ObjectLiteralExpression,
   was: string,
   now: string
@@ -149,7 +149,7 @@ function keyedOver(text: string, was: string, now: string): Keyed | null {
   return depth === 0 ? { spots, holding } : null
 }
 
-export function spannedOver(text: string, spots: readonly Splice[]): Splice | null {
+function spannedOver(text: string, spots: readonly Splice[]): Splice | null {
   const first = spots[0]
   const last = spots[spots.length - 1]
   if (first === undefined || last === undefined) return null

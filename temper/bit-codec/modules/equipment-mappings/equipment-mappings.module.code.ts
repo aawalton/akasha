@@ -58,7 +58,7 @@ export const ARMOR_TYPE_TO_INDEX: Record<number, number> = {
   [ARMORTYPE_HEAVY]: 3,
 }
 
-export const WEAPON_TYPE_TO_INDEX: Record<number, number> = {
+const WEAPON_TYPE_TO_INDEX: Record<number, number> = {
   [WEAPONTYPE_NONE]: 0,
   [WEAPONTYPE_SWORD]: 1,
   [WEAPONTYPE_AXE]: 2,

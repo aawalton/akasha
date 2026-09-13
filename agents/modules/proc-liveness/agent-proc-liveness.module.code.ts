@@ -1,6 +1,6 @@
 import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
 
-export function isAgentId(agentId: string): boolean {
+function isAgentId(agentId: string): boolean {
   return lowerUuid(agentId.toLowerCase())
 }
 

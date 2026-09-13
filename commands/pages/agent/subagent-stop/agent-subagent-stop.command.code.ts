@@ -17,7 +17,7 @@ import { mergeUncommitted } from "akasha/pages/modules/uncommitted/page-uncommit
 
 const STOPPED = subagentStopped.propertySlug
 
-export const REACHES =
+const REACHES =
   "the stop reaches it at its next model turn, and one inside a tool call finishes that call first"
 
 export function agentSubagentStop(argv: readonly string[], given: Given): Answer {

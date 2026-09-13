@@ -24,6 +24,6 @@ const SKILL_TYPE_DATA = {
   },
 } as const satisfies Record<string, SkillTypeTemplate>
 
-export const skillTypes = createDataFile<SkillTypeTemplate>()(SKILL_TYPE_DATA)
+const skillTypes = createDataFile<SkillTypeTemplate>()(SKILL_TYPE_DATA)
 
 export type SkillTypeId = (typeof skillTypes.ids)[number]

@@ -62,7 +62,7 @@ function packLines(lines: readonly string[], budgetBytes: number): readonly (rea
   return runs
 }
 
-export function ordinalWidth(runs: number): number {
+function ordinalWidth(runs: number): number {
   return Math.max(2, String(runs - 1).length)
 }
 

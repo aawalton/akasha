@@ -26,7 +26,7 @@ export const DECLARED = `export const mortal = {
 } as const
 `
 
-export const BODY = `${DECLARED}
+const BODY = `${DECLARED}
 ${HELD}
 `
 

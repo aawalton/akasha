@@ -48,7 +48,7 @@ export function ranGit(
   }
 }
 
-export function gitTextOf(raw: Uint8Array): string {
+function gitTextOf(raw: Uint8Array): string {
   return new TextDecoder().decode(raw).trim()
 }
 

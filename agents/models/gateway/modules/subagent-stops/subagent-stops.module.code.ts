@@ -34,7 +34,7 @@ export type PagesOf = (root: string) => readonly string[]
 
 export type Taking = (root: string, seatName: string, seatId: string, own: string) => undefined
 
-export function subagentPagesIn(root: string): readonly string[] {
+function subagentPagesIn(root: string): readonly string[] {
   return everyOfType(root, SUBAGENT).map((one) => one.path)
 }
 
@@ -62,7 +62,7 @@ export function stoppedOwnIdsIn(
   return held
 }
 
-export function seatNameOr(root: string, seatId: string): string | null {
+function seatNameOr(root: string, seatId: string): string | null {
   try {
     return seatNamedIn(root, seatId)
   } catch {

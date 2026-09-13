@@ -7,15 +7,15 @@ import { companions } from "akasha/temper/companions-core/modules/companions/com
 import { bitsNeeded } from "akasha/utils/narrow/modules/bits-needed/bits-needed.module.code.ts"
 import { requireFirst } from "akasha/utils/narrow/modules/require-first/require-first.module.code.ts"
 
-export const companionIds = companions.ids
+const companionIds = companions.ids
 
-export const companionTraitIds = companionTraits.ids
-export const companionQualityIds = companionEquipmentQualities.ids
-export const companionWeaponTypeIds = companionWeaponTypes.ids
+const companionTraitIds = companionTraits.ids
+const companionQualityIds = companionEquipmentQualities.ids
+const companionWeaponTypeIds = companionWeaponTypes.ids
 
-export const companionSkillIds = companionSkills.ids
+const companionSkillIds = companionSkills.ids
 
-export const COMPANION_ARMOR_WEIGHT_IDS = [
+const COMPANION_ARMOR_WEIGHT_IDS = [
   "no-weight",
   "light",
   "medium",

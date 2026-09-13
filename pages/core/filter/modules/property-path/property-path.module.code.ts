@@ -29,7 +29,7 @@ function fannedOut(values: readonly unknown[]): readonly unknown[] {
   return out
 }
 
-export function valuesAt(held: unknown, segments: readonly string[]): readonly unknown[] {
+function valuesAt(held: unknown, segments: readonly string[]): readonly unknown[] {
   let found: readonly unknown[] = [held]
   for (const segment of segments) {
     const next: unknown[] = []

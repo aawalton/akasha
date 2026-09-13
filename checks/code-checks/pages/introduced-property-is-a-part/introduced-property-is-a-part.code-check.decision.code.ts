@@ -58,7 +58,7 @@ export function declaresIn(value: Value | null): readonly string[] {
   return found
 }
 
-export function addressedIn(said: string): string {
+function addressedIn(said: string): string {
   return slugIn(said) ?? said
 }
 
@@ -107,14 +107,14 @@ export function everyType(shadow: Shadow, carried: readonly Carried[]): readonly
   return found
 }
 
-export function introducedOver(
+function introducedOver(
   gathered: readonly PageType[],
   source: Source
 ): ReadonlyMap<string, readonly string[]> {
   return new Map(gathered.map((one) => [one.slug, introducedIn(one, source)]))
 }
 
-export function introducersIn(
+function introducersIn(
   gathered: readonly PageType[],
   introduced: ReadonlyMap<string, readonly string[]>
 ): ReadonlyMap<string, readonly string[]> {

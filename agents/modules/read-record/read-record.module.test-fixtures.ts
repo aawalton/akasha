@@ -49,7 +49,7 @@ const SEAT_SLUG_FROM = 24
 
 export const HELD_SEAT = "held"
 
-export const KEPT_SEAT = "kept"
+const KEPT_SEAT = "kept"
 
 export const HELD_SUB = `${HELD_SEAT}-sub-one`
 
@@ -65,7 +65,7 @@ export function readsBeside(page: string): string {
   return uncommittedBesideAt(page, reads.propertySlug, HELD) ?? ""
 }
 
-export function seatPaged(root: string, id: string, slug: string, at?: string): undefined {
+function seatPaged(root: string, id: string, slug: string, at?: string): undefined {
   const path = at ?? seatPageOf(slug)
   listedFiled(root, SEAT, slug, [{ path, id }])
   valueAlsoFiled(root, SEAT, [{ path, value: { id, pageTypeSlug: SEAT, slug } }])
@@ -73,7 +73,7 @@ export function seatPaged(root: string, id: string, slug: string, at?: string): 
   return undefined
 }
 
-export function subagentPaged(root: string, agentId: string, slug: string, at?: string): undefined {
+function subagentPaged(root: string, agentId: string, slug: string, at?: string): undefined {
   const path = at ?? subagentPageOf(slug)
   const id = mintedId(slug)
   listedFiled(root, SUBAGENT, slug, [{ path, id }])

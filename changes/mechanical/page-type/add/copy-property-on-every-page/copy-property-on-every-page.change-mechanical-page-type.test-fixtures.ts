@@ -13,7 +13,7 @@ export const FROM = "calledBySlugs"
 
 export const TO = "calledBy"
 
-export function callAt(slug: string, held: string): string {
+function callAt(slug: string, held: string): string {
   return `import type { MootCall } from "../moot-call.page-type.ts"
 
 export const ${slug} = {

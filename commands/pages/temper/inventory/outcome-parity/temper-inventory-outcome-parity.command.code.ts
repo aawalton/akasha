@@ -61,7 +61,7 @@ function matchSaid(one: {
   ].join("/")
 }
 
-export function outcomeSaid(outcome: WalkOutcome): string {
+function outcomeSaid(outcome: WalkOutcome): string {
   if (outcome.kind === "matched") {
     return `matched|${matchSaid(outcome)}`
   }

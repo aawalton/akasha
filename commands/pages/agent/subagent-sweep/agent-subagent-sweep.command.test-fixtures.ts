@@ -134,7 +134,7 @@ function paged(root: string, seatName: string, own: string, agentId: string): st
 
 const KEPT_ROW = { kind: "add", path: `${TREE}/kept.ts`, content: "export const kept = 1\n" }
 
-export const ROW = `${JSON.stringify(KEPT_ROW)}\n`
+const ROW = `${JSON.stringify(KEPT_ROW)}\n`
 
 export const REFUSAL = "the body moved under the change"
 

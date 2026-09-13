@@ -302,7 +302,7 @@ export function streamedUpstream(): Streamed {
   }
 }
 
-export const OWN = "a70d67f8ee96115ae"
+const OWN = "a70d67f8ee96115ae"
 
 export type StoppedTurn = {
   readonly status: number

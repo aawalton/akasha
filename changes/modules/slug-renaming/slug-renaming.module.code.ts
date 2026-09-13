@@ -76,7 +76,7 @@ function valuedIn(source: ts.SourceFile, node: ts.Expression, one: Renaming): re
   return node.elements.flatMap((held) => spotIn(source, held, one))
 }
 
-export function addressedIn(
+function addressedIn(
   path: string,
   text: string,
   slugs: ReadonlySet<string>,

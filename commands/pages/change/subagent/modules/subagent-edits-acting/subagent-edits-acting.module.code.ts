@@ -109,7 +109,7 @@ export function recordsKept(root: string, page: string): readonly KeptRecord[] {
     .map((one, index) => recordOf(one, index + 1))
 }
 
-export function saidAbout(one: KeptRecord): string {
+function saidAbout(one: KeptRecord): string {
   const did = one.edit === null ? NO_EDIT : saidOf(one.edit)
   return `${String(one.at)}. ${one.leftBy ?? NO_SUBAGENT}, ${one.carriedAt ?? NO_TIME} — ${did}`
 }
@@ -124,7 +124,7 @@ function bodySaid(named: string, text: string): string {
   return `${named}, ${counted(countLines(text), "line")}\n${text}`
 }
 
-export function bodiesOf(one: KeptRecord): readonly string[] {
+function bodiesOf(one: KeptRecord): readonly string[] {
   const edit = one.edit
   if (edit === null) return [one.line]
   if (edit.kind === "replace") {
@@ -290,7 +290,7 @@ function verdictOf(over: Over, one: FileChange): Verdict {
   return left ? "landed" : "stale"
 }
 
-export function judgingRecords(
+function judgingRecords(
   root: string,
   page: string,
   records: readonly KeptRecord[]

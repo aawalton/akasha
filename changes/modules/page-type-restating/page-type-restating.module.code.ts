@@ -13,7 +13,7 @@ const CODE_ENDING = ".ts"
 
 const TYPES_ENDING = ".types.ts"
 
-export function typesBeside(to: string): string | null {
+function typesBeside(to: string): string | null {
   if (!to.endsWith(CODE_ENDING) || to.endsWith(TYPES_ENDING)) return null
   return `${to.slice(0, -CODE_ENDING.length)}${TYPES_ENDING}`
 }
@@ -23,11 +23,11 @@ export type Asked = {
   readonly to: string
 }
 
-export function importingFor(name: string): RegExp {
+function importingFor(name: string): RegExp {
   return new RegExp(`^import type \\{ ${name} \\} from "[^"]*"$`, "m")
 }
 
-export function passagesFor(
+function passagesFor(
   was: string,
   now: string,
   line: string,

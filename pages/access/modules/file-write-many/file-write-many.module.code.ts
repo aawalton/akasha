@@ -34,7 +34,7 @@ export type UpsertFilePagesArgs = {
 
 type Named = { readonly key: string; readonly is: string }
 
-export function oneValueIn(where: PageWhere): Named | null {
+function oneValueIn(where: PageWhere): Named | null {
   const narrowed = narrowedFrom(where)
   if ("refused" in narrowed) return null
   const only = Object.entries(narrowed.where)

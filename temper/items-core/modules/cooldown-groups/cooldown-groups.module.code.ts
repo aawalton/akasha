@@ -47,7 +47,7 @@ export const COOLDOWN_GROUPS: readonly CooldownGroup[] = [
   },
 ]
 
-export const DLC_DAILY_PATTERNS: readonly string[] = [
+const DLC_DAILY_PATTERNS: readonly string[] = [
   "Reward Coffer",
   "Recompense",
   "Merit Coffer",

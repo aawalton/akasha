@@ -23,7 +23,7 @@ export type Reading = {
 
 export type Asking = (actingAgentId: string) => Promise<Liveness>
 
-export function namesASubagent(actingAgentId: string): boolean {
+function namesASubagent(actingAgentId: string): boolean {
   return actingAgentId.indexOf(SUBAGENT_MARK) > 0
 }
 
@@ -45,7 +45,7 @@ export function actingOf(entry: ProcLivenessEntry): string | null {
   return actingNamedOn(entry.cmdline)
 }
 
-export function underSubagents(
+function underSubagents(
   entries: readonly ProcLivenessEntry[]
 ): ReadonlyMap<string, readonly ProcLivenessEntry[]> {
   const grouped = new Map<string, ProcLivenessEntry[]>()
@@ -80,7 +80,7 @@ export async function strayAmong(
   return { strays, unread }
 }
 
-export async function livenessAsked(actingAgentId: string): Promise<Liveness> {
+async function livenessAsked(actingAgentId: string): Promise<Liveness> {
   const acting = actingIn(actingAgentId)
   if (acting === null) return "unread"
   return (await readFor(acting)).liveness

@@ -68,7 +68,7 @@ export const MEASURING = "AKASHA_TESTS_MEASURING"
 
 export const CEILING = testFile.maxCpuSeconds
 
-export const MEMORY = testFile.maxMemoryMb
+const MEMORY = testFile.maxMemoryMb
 
 export type Verdict = "pass" | "fail" | "short" | "crash" | "slow"
 

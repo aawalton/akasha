@@ -43,7 +43,7 @@ export function strayIn(root: string, taken: Taken): readonly string[] {
   return said
 }
 
-export function askingIn(taken: Taken): Asking | { readonly refusals: readonly string[] } {
+function askingIn(taken: Taken): Asking | { readonly refusals: readonly string[] } {
   if (taken.filePath === undefined && taken.contentFile !== undefined) {
     return { refusals: [`${contentFile.said} ${taken.contentFile} follows no ${filePath.said}`] }
   }

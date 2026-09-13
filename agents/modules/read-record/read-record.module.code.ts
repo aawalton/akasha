@@ -102,7 +102,7 @@ export function readsFileAt(root: string, agentId: string): string | null {
   return held === null ? null : join(root, held.at)
 }
 
-export function everyOwner(root: string): readonly Owner[] {
+function everyOwner(root: string): readonly Owner[] {
   const found: Owner[] = []
   for (const agentId of pagesOfAgents(root).keys()) {
     const at = readsFileAt(root, agentId)
@@ -162,7 +162,7 @@ function linesAt(at: string | null): readonly string[] {
   return raw.split("\n").filter((one) => one.trim() !== "")
 }
 
-export function readingsAt(at: string | null): readonly Reading[] {
+function readingsAt(at: string | null): readonly Reading[] {
   const found: Reading[] = []
   for (const line of linesAt(at)) {
     const held = lineOf(line)
@@ -171,7 +171,7 @@ export function readingsAt(at: string | null): readonly Reading[] {
   return found
 }
 
-export function lastOf(every: readonly Reading[], path: string): Reading | null {
+function lastOf(every: readonly Reading[], path: string): Reading | null {
   let found: Reading | null = null
   for (const one of every) if (one.path === path) found = one
   return found

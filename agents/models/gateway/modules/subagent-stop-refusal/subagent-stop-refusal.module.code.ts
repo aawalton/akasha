@@ -25,7 +25,7 @@ export function subagentIn(req: Request): string | null {
   return own === "" ? null : own
 }
 
-export function stoppedMessage(own: string): string {
+function stoppedMessage(own: string): string {
   return (
     `subagent ${own} was stopped from the agents panel, so this turn is refused ` +
     "and every later turn of that subagent is refused too"

@@ -3,9 +3,9 @@ import { writerIn } from "akasha/agents/modules/read-record/read-record.module.c
 import { akashaBesideOf } from "akasha/agents/seats/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { seatAbove } from "akasha/agents/subagents/modules/naming/subagent-naming.module.code.ts"
 
-export const CO_AUTHORED = "Co-Authored-By"
+const CO_AUTHORED = "Co-Authored-By"
 
-export const SESSION = "Claude-Session"
+const SESSION = "Claude-Session"
 
 export const SESSION_NAMED = "CLAUDE_CODE_BRIDGE_SESSION_ID"
 

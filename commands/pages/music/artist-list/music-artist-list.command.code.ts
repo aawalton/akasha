@@ -85,7 +85,7 @@ export function statusSaid(said: string | undefined): Status | null {
   return statusPage.values.find((one) => one === said) ?? null
 }
 
-export function rolledBySlug(releases: readonly Held[]): ReadonlyMap<string, Roll> {
+function rolledBySlug(releases: readonly Held[]): ReadonlyMap<string, Roll> {
   const rolled = new Map<string, Roll>()
   for (const one of releases) {
     const slug = firstIn(one, "partOfCollections")

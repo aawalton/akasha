@@ -108,7 +108,7 @@ export function destinationAlone(one: Side, two: Side): boolean {
   return one.kind === two.kind && one.action === two.action && one.destination !== two.destination
 }
 
-export function sideSaid(side: Side): string {
+function sideSaid(side: Side): string {
   const action = side.action === null ? "" : ` ${side.action}`
   const destination = side.destination === null ? "" : ` to ${side.destination}`
   return `${side.kind}${action}${destination}  (${side.detail})`

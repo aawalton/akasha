@@ -11,13 +11,13 @@ export const ONE_AT = "thrumming/moots/one.moot-call.ts"
 
 export const TWO_AT = "thrumming/moots/two.moot-call.ts"
 
-export const THREE_AT = "thrumming/moots/three.moot-call.ts"
+const THREE_AT = "thrumming/moots/three.moot-call.ts"
 
 export const TYPE = "moot-call"
 
 export const KEY = "heldBy"
 
-export const AINE = `"aine"`
+const AINE = `"aine"`
 
 export function mootAt(slug: string): string {
   return `export const ${slug} = {

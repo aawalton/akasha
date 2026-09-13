@@ -35,9 +35,9 @@ export interface CompiledInventoryConfig {
   readonly characterPriority: ReadonlyArray<string>
 }
 
-export const ITEM_RULE_ID_PREFIX = "item:"
+const ITEM_RULE_ID_PREFIX = "item:"
 
-export function itemRuleIdFor(itemId: number): string {
+function itemRuleIdFor(itemId: number): string {
   return `${ITEM_RULE_ID_PREFIX}${String(itemId)}`
 }
 

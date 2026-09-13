@@ -119,7 +119,7 @@ export async function deliverToSeat(
   return "refused" in wrote ? wrote.refused : null
 }
 
-export async function recordUnannounced(why: string): Promise<void> {
+async function recordUnannounced(why: string): Promise<void> {
   const report: ErrorReport = {
     message: why,
     stack: "",

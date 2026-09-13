@@ -167,7 +167,7 @@ export interface OutcomeForItem {
   readonly outcome: WalkOutcome
 }
 
-export function missingSignalOf(reason: IndeterminateReason): string {
+function missingSignalOf(reason: IndeterminateReason): string {
   switch (reason.kind) {
     case "category-unknown":
     case "condition-unknown":
@@ -230,7 +230,7 @@ export function unmappedSaid(report: UnmappedReport): readonly string[] {
 
 const NO_CONDITION_KEYS = new Set(["id", "action", "destination", "categoryId", "active"])
 
-export function endsTheRules(rule: CompiledOrderedRule): boolean {
+function endsTheRules(rule: CompiledOrderedRule): boolean {
   if (rule.action !== "nothing") return false
   if (rule.categoryId !== ALL_CATEGORIES_ID) return false
   return Object.entries(rule).every(

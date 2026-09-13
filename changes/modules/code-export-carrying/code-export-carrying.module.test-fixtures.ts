@@ -362,7 +362,7 @@ export function bodyIn(made: Plan | Refused): string {
   return "refused" in made || !made.adding ? "" : made.body
 }
 
-export function passagesIn(made: Plan | Refused, at: string): readonly Passage[] {
+function passagesIn(made: Plan | Refused, at: string): readonly Passage[] {
   return "refused" in made ? [] : passagesOf(made).filter((one) => one.at === at)
 }
 

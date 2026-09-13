@@ -35,7 +35,7 @@ export const D = idOf("d")
 
 export type Pair = { readonly tree: string; readonly root: string }
 
-export const heldAt = (): string => scratch.rootFor("akasha-index-")
+const heldAt = (): string => scratch.rootFor("akasha-index-")
 
 export const bare = (): Pair => {
   const tree = heldAt()
@@ -316,7 +316,7 @@ export const aTarget = (slug: string): Named => thePage({ id: D, pageTypeSlug: "
 export const aSource = (slug: string, names: string): Named =>
   thePage({ id: A, pageTypeSlug: "domain", slug, partSlugs: [`domain/${names}`] })
 
-export const writingTo = (at: string): string =>
+const writingTo = (at: string): string =>
   `import { writeFileSync } from "node:fs"\nwriteFileSync("${at}", "x")\nexport const it = { id: "${D}", pageTypeSlug: "domain", slug: "d" }\n`
 
 export const BLAND = aType(D, "bland", ["domain"], [])

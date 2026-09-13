@@ -244,7 +244,7 @@ export function treeUnder(shadow: Shadow, kinds: Kinds): Tree {
 
 export type Files = (folder: string) => readonly string[]
 
-export function filesCarriedIn(root: string): Files {
+function filesCarriedIn(root: string): Files {
   return (folder) => filesIn(root, folder)
 }
 
