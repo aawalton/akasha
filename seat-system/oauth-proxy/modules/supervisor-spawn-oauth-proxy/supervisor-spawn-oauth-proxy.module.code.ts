@@ -5,7 +5,7 @@ import {
   type OAuthProxyState,
   readProxyState,
 } from "akasha/agents/seats/modules/proxy-state/seat-proxy-state.module.code.ts"
-import { supervisorSocketPath } from "akasha/agents/seats/supervisors/modules/log-path/supervisor-log-path.module.code.ts"
+import { supervisorSocketPath } from "akasha/agents/seats/supervisors/modules/supervisor-log-path/supervisor-log-path.module.code.ts"
 import type { ProxyAdoptionRuleSource } from "akasha/seat-system/oauth-proxy/modules/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.code.ts"
 import {
   stopByPid,
