@@ -1,4 +1,8 @@
 import {
+  type BankTransitionSummary,
+  summarizeBankTransitions,
+} from "akasha/temper/items-addon/modules/inventory-bank-plan/inventory-bank-plan.module.code.ts"
+import {
   currentVisitGeneration,
   recordBankMoves,
   recordBankPhaseMs,
@@ -80,7 +84,7 @@ function stackVisitedBags(this: void, bankingBag: number): undefined {
   }, STACK_ARRIVAL_MS)
 }
 
-export function onOpenBank(): undefined {
+export function onOpenBank(): BankTransitionSummary | undefined {
   const bankingBag = GetBankingBag()
 
   if (bankingBag === BAG_FURNITURE_VAULT) {
@@ -102,7 +106,7 @@ export function onOpenBank(): undefined {
     }
     dispatchingBank = false
     startVaultDepositChain(moveItem)
-    return
+    return undefined
   }
 
   dispatchingBank = true
@@ -145,7 +149,12 @@ export function onOpenBank(): undefined {
   }
 
   const withdrawStart = GetGameTimeMilliseconds()
-  const { withdrawnLinks } = executeBankWithdrawals(ctx, currentCharId, frozenStock, enqueue)
+  const { withdrawnLinks, transitionTally } = executeBankWithdrawals(
+    ctx,
+    currentCharId,
+    frozenStock,
+    enqueue
+  )
   recordBankPhaseMs("withdraw", GetGameTimeMilliseconds() - withdrawStart)
 
   const storageLabel = isBank ? "bank" : "storage"
@@ -163,8 +172,12 @@ export function onOpenBank(): undefined {
     reportAction(`Deposited to ${storageLabel}`, depositedLinks)
   }
 
+  const summary = isBank ? summarizeBankTransitions(transitionTally) : undefined
+
   dispatchingBank = false
   startPacedBankChain(queue, moveItem, function (this: void): undefined {
     stackVisitedBags(bankingBag)
   })
+
+  return summary
 }

@@ -9,7 +9,7 @@ export const inventoryRulesDispatchBankWithdrawals = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every slot of one storage sweep shares the claims, as the panel's sweep does.",
+      statement: "Every slot of one storage sweep shares the claims.",
     },
     {
       invariantKind: "departure",

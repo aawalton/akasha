@@ -171,10 +171,10 @@ export function registerInventoryEvents(): undefined {
         scanHouseBanks()
       }
       openJunkGate()
+      const summary = onOpenBank()
       const panelStart = GetGameTimeMilliseconds()
-      refreshBankActionPanel(GetBankingBag())
+      refreshBankActionPanel(summary)
       recordBankPhaseMs("refreshPanel", GetGameTimeMilliseconds() - panelStart)
-      onOpenBank()
       finishBankOpenHandler()
     }
   )

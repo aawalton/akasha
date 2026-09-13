@@ -6,7 +6,7 @@ import {
   createMovableWindow,
   type MovableWindowHandle,
 } from "akasha/temper/hud-window/modules/movable-window/movable-window.module.code.ts"
-import { getBankTransitionSummary } from "akasha/temper/items-addon/modules/inventory-bank-plan/inventory-bank-plan.module.code.ts"
+import type { BankTransitionSummary } from "akasha/temper/items-addon/modules/inventory-bank-plan/inventory-bank-plan.module.code.ts"
 import { recordSettlingMs } from "akasha/temper/items-addon/modules/inventory-bank-trace/inventory-bank-trace.module.code.ts"
 import { getSavedVariables } from "akasha/temper/items-addon/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 
@@ -86,16 +86,15 @@ export function initializeBankActionPanel(): undefined {
   bankPanel = { tlw, bg, header, rowControls: [], handle }
 }
 
-export function refreshBankActionPanel(bankBag: number): undefined {
+export function refreshBankActionPanel(summary: BankTransitionSummary | undefined): undefined {
   const start = GetGameTimeMilliseconds()
-  refreshBankActionPanelInner(bankBag)
+  refreshBankActionPanelInner(summary)
   recordSettlingMs("bankPanelRefresh", GetGameTimeMilliseconds() - start)
 }
 
-function refreshBankActionPanelInner(bankBag: number): undefined {
+function refreshBankActionPanelInner(summary: BankTransitionSummary | undefined): undefined {
   if (!bankPanel) return
 
-  const summary = getBankTransitionSummary(bankBag)
   if (summary === undefined || summary.characters.length === 0) {
     bankPanel.tlw.SetHidden(true)
     return

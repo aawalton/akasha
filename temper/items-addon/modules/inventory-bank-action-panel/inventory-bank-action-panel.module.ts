@@ -6,4 +6,14 @@ export const inventoryBankActionPanel = {
   slug: "inventory-bank-action-panel",
   definition: "the small panel shown at the bank with the counts of what is about to move",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The counts shown are tallied by the sweep that opened the bank.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No verdict this panel shows outlives the sweep that judged it.",
+    },
+  ],
 } as const satisfies Module

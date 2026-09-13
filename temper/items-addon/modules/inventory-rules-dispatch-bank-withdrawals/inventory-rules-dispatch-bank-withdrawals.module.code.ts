@@ -1,4 +1,9 @@
 import { getConfiguredBufferSlots } from "akasha/temper/items-addon/modules/inventory-backpack-buffer/inventory-backpack-buffer.module.code.ts"
+import {
+  type BankTransitionTally,
+  newBankTransitionTally,
+  tallyBankTransition,
+} from "akasha/temper/items-addon/modules/inventory-bank-plan/inventory-bank-plan.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/items-addon/modules/inventory-constants/inventory-constants.module.code.ts"
 import {
   clearPendingAction,
@@ -74,8 +79,12 @@ function collectBankWithdrawals(
   ctx: BankSlotContext,
   currentCharId: string,
   frozen: FrozenStockCounts
-): { bagId: number; slotIndex: number; dest: string; ruleIndex: number }[] {
+): {
+  withdrawals: { bagId: number; slotIndex: number; dest: string; ruleIndex: number }[]
+  transitionTally: BankTransitionTally
+} {
   const withdrawals: { bagId: number; slotIndex: number; dest: string; ruleIndex: number }[] = []
+  const transitionTally = newBankTransitionTally()
 
   function collectBackpackRequired(
     this: void,
@@ -83,7 +92,11 @@ function collectBankWithdrawals(
     slot: number,
     matched: MatchedRuleResult | undefined
   ): undefined {
-    if (matched !== undefined && isBackpackRequiredAction(matched.action, matched.destination)) {
+    if (matched === undefined) return
+    if (ctx.isBank) {
+      tallyBankTransition(transitionTally, bag, slot, matched, currentCharId)
+    }
+    if (isBackpackRequiredAction(matched.action, matched.destination)) {
       if (isVendorCrossCharDestination(matched.destination)) return
       withdrawals.push({
         bagId: bag,
@@ -269,7 +282,7 @@ function collectBankWithdrawals(
     }
   }
 
-  return capped
+  return { withdrawals: capped, transitionTally }
 }
 
 export function executeBankWithdrawals(
@@ -283,8 +296,8 @@ export function executeBankWithdrawals(
     targetSlot: number,
     stackCount: number
   ) => void
-): { withdrawnLinks: string[] } {
-  const withdrawals = collectBankWithdrawals(ctx, currentCharId, frozen)
+): { withdrawnLinks: string[]; transitionTally: BankTransitionTally } {
+  const { withdrawals, transitionTally } = collectBankWithdrawals(ctx, currentCharId, frozen)
   const withdrawnLinks: string[] = []
 
   const stockWithdrawnCounts = new LuaMap<number, number>()
@@ -360,5 +373,5 @@ export function executeBankWithdrawals(
     ops++
   }
 
-  return { withdrawnLinks }
+  return { withdrawnLinks, transitionTally }
 }
