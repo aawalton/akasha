@@ -57,8 +57,6 @@ export type Moved = {
   readonly refusals: boolean
 }
 
-export const NOTHING: Moved = { edits: 0, refusals: false }
-
 export function seatEditsAt(seatPage: string): string | null {
   return uncommittedBesideAt(seatPage, subagentEdits.propertySlug, EDITS_HELD)
 }
