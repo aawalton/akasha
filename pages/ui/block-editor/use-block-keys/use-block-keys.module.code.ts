@@ -17,7 +17,7 @@ import {
   getBlockAtPath,
 } from "akasha/pages/core/property-types/modules/rich-document-tree/rich-document-tree.module.code.ts"
 import { planEnterSplit } from "akasha/pages/ui/block-editor/modules/block-type-helpers/block-type-helpers.module.code.ts"
-import type { SlashChoice } from "akasha/pages/ui/block-editor/slash-menu/slash-menu.module.code.tsx"
+import type { SlashChoice } from "akasha/pages/ui/block-editor/modules/slash-menu/slash-menu.module.code.tsx"
 import { type RefObject, useCallback, useState } from "react"
 
 export type FocusCaret = "start" | "end" | number

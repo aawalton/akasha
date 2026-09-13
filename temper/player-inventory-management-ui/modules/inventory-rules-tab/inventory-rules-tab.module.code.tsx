@@ -2,7 +2,7 @@
 
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import { LayoutLink } from "akasha/design/interfaces/layout/modules/router-context/router-context.module.code.tsx"
-import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
+import type { SortDirection } from "akasha/design/interfaces/patterns/modules/sort-types/sort-types.module.code.ts"
 import {
   Alert,
   AlertDescription,

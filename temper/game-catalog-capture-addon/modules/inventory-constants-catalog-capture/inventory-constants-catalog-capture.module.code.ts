@@ -6,7 +6,7 @@ import { buildEnumValueLabels } from "akasha/temper/game-catalog-capture-addon/m
 import { buildEquipTypes } from "akasha/temper/game-catalog-capture-addon/modules/equip-type-constants/equip-type-constants.module.code.ts"
 import { buildItemFilterTypes } from "akasha/temper/game-catalog-capture-addon/modules/item-filter-type-constants/item-filter-type-constants.module.code.ts"
 import { buildItemTypes } from "akasha/temper/game-catalog-capture-addon/modules/item-type-constants/item-type-constants.module.code.ts"
-import { buildSpecializedItemTypes } from "akasha/temper/game-catalog-capture-addon/specialized-item-type-constants/specialized-item-type-constants.module.code.ts"
+import { buildSpecializedItemTypes } from "akasha/temper/game-catalog-capture-addon/modules/specialized-item-type-constants/specialized-item-type-constants.module.code.ts"
 import { buildWeaponTypes } from "akasha/temper/game-catalog-capture-addon/weapon-type-constants/weapon-type-constants.module.code.ts"
 
 function collectInventoryConstantsCatalog(this: void, onComplete: (this: void) => void): undefined {

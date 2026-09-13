@@ -1,6 +1,6 @@
 import { capacitorCorsHeaders } from "akasha/alan/web/modules/capacitor-cors/capacitor-cors.module.code.ts"
 import { writingFor } from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
-import { CONSENT_TEXT_VERSION } from "akasha/persons/sms-consent/sms-consent.module.code.ts"
+import { CONSENT_TEXT_VERSION } from "akasha/persons/modules/sms-consent/sms-consent.module.code.ts"
 import { z } from "zod"
 
 const CORS_METHODS = "POST, OPTIONS"

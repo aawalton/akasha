@@ -7,7 +7,7 @@ import {
   type CompanionId,
   companions,
 } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
-import { sortedOnce } from "akasha/utils/narrow/sorted-once/sorted-once.module.code.ts"
+import { sortedOnce } from "akasha/utils/narrow/modules/sorted-once/sorted-once.module.code.ts"
 
 export interface DecodedBuild {
   id: string

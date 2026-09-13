@@ -14,7 +14,7 @@ import {
   SKYSHARDS_PINDATA_UNDER_GROUND,
   SKYSHARDS_PINDATA_ZONEGUIDEINDEX,
 } from "akasha/temper/skyshards/modules/skyshards-constants/skyshards-constants.module.code.ts"
-import type { SkyshardPin } from "akasha/temper/skyshards/skyshards-types/skyshards-types.module.code.ts"
+import type { SkyshardPin } from "akasha/temper/skyshards/modules/skyshards-types/skyshards-types.module.code.ts"
 
 type MaybeSkyshardPin = SkyshardPin | undefined
 

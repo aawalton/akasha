@@ -2,7 +2,7 @@
 
 import { PanelCard } from "akasha/design/interfaces/layout/modules/panel-card/panel-card.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
-import { Spinner } from "akasha/design/interfaces/primitives/spinner/spinner.module.code.tsx"
+import { Spinner } from "akasha/design/interfaces/primitives/modules/spinner/spinner.module.code.tsx"
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
 import { useNewCompanion } from "akasha/temper/companions-ui/use-companions/use-companions.module.code.ts"
 import { Plus } from "lucide-react"

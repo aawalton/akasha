@@ -1,6 +1,6 @@
 "use client"
 
-import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
+import type { SortDirection } from "akasha/design/interfaces/patterns/modules/sort-types/sort-types.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import type {
   CategoryRule,

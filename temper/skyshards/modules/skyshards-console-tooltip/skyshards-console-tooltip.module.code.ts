@@ -3,7 +3,7 @@ import {
   SKYSHARDS_PINDATA_MOREINFO,
   SKYSHARDS_PINDATA_ZONEGUIDEINDEX,
 } from "akasha/temper/skyshards/modules/skyshards-constants/skyshards-constants.module.code.ts"
-import type { SkyshardPin } from "akasha/temper/skyshards/skyshards-types/skyshards-types.module.code.ts"
+import type { SkyshardPin } from "akasha/temper/skyshards/modules/skyshards-types/skyshards-types.module.code.ts"
 
 function creator(this: void, pin: MapPin): undefined {
   const [, rawTag] = pin.GetPinTypeAndTag()

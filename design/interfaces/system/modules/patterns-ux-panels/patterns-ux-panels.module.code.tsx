@@ -12,7 +12,7 @@ import {
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { Heading } from "akasha/design/interfaces/primitives/modules/heading/heading.module.code.tsx"
-import { Spinner } from "akasha/design/interfaces/primitives/spinner/spinner.module.code.tsx"
+import { Spinner } from "akasha/design/interfaces/primitives/modules/spinner/spinner.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import {
   Table,

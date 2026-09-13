@@ -17,7 +17,7 @@ import {
   searchChanging,
   sortChanging,
 } from "akasha/design/interfaces/patterns/modules/filter-changing/filter-changing.module.code.ts"
-import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
+import type { SortDirection } from "akasha/design/interfaces/patterns/modules/sort-types/sort-types.module.code.ts"
 import { useScrollRestoration } from "akasha/design/interfaces/patterns/use-scroll-restoration/use-scroll-restoration.module.code.ts"
 import {
   Card,

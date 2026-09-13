@@ -2,7 +2,7 @@ import type { BadgeToggleGroupItem } from "akasha/design/interfaces/badges/modul
 import type {
   SortDirection,
   SortOption,
-} from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
+} from "akasha/design/interfaces/patterns/modules/sort-types/sort-types.module.code.ts"
 import {
   type RoleId,
   characterRoles as roles,

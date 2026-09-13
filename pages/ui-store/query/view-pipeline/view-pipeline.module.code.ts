@@ -24,7 +24,7 @@ import {
   pageDataOf,
   type ViewResolveCtx,
   type ViewSortClause,
-} from "akasha/pages/ui-store/query/sort-resolve/sort-resolve.module.code.ts"
+} from "akasha/pages/ui-store/query/modules/sort-resolve/sort-resolve.module.code.ts"
 import {
   type ResolvedOverlay,
   viewMatchesRow,

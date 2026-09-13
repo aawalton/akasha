@@ -19,7 +19,7 @@ import {
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { type Loaded, loadedFrom } from "akasha/pages/modules/value/page-value.module.code.ts"
 import { isMissing } from "akasha/utils/fs/modules/missing/missing.module.code.ts"
-import { sortedOnce } from "akasha/utils/narrow/sorted-once/sorted-once.module.code.ts"
+import { sortedOnce } from "akasha/utils/narrow/modules/sorted-once/sorted-once.module.code.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 export type Body = {

@@ -3,7 +3,7 @@ import {
   buildKokoroSpeechInput,
   buildKokoroSpeechSegments,
   splitSentences,
-} from "akasha/alan/harness/voice-core/speech/speech.module.code.ts"
+} from "akasha/alan/harness/voice-core/modules/speech/speech.module.code.ts"
 
 function clamp01(x: number): number {
   return x < 0 ? 0 : x > 1 ? 1 : x

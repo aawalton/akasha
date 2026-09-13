@@ -1,5 +1,5 @@
 import { DEFAULT_VOICE_INFER_URL } from "akasha/alan/harness/voice-core/modules/infer-endpoint/infer-endpoint.module.code.ts"
-import { buildKokoroSpeechSegments } from "akasha/alan/harness/voice-core/speech/speech.module.code.ts"
+import { buildKokoroSpeechSegments } from "akasha/alan/harness/voice-core/modules/speech/speech.module.code.ts"
 import {
   readAloudKey,
   storedReadAloudExists,

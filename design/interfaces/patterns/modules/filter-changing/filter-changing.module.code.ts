@@ -1,4 +1,4 @@
-import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
+import type { SortDirection } from "akasha/design/interfaces/patterns/modules/sort-types/sort-types.module.code.ts"
 
 export type SearchUpdate = (values: { search: string }) => void
 

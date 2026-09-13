@@ -7,7 +7,7 @@ import {
 import {
   projectSmsIdentities,
   type SmsExternalIdentity,
-} from "akasha/alan/harness/sms-core/sms-identity/sms-identity.module.code.ts"
+} from "akasha/alan/harness/sms-core/modules/sms-identity/sms-identity.module.code.ts"
 import {
   extractInboundSms,
   telnyxWebhookSchema,

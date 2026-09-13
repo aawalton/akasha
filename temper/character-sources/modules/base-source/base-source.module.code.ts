@@ -3,7 +3,7 @@ import {
   POWER_LEVEL_BASE,
 } from "akasha/temper/formula-framework/modules/base-stat/base-stat.module.code.ts"
 import type { EffectSourceInterface } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"
-import { createSourceFile } from "akasha/temper/formula-framework/source-file/source-file.module.code.ts"
+import { createSourceFile } from "akasha/temper/formula-framework/modules/source-file/source-file.module.code.ts"
 
 interface BaseTemplate extends EffectSourceInterface {
   categoryId: "base"

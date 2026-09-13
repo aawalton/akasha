@@ -11,11 +11,11 @@ import { FilterButton } from "akasha/design/interfaces/patterns/modules/filter-b
 import { FilterGroup } from "akasha/design/interfaces/patterns/modules/filter-group/filter-group.module.code.tsx"
 import { SearchButton } from "akasha/design/interfaces/patterns/modules/search-button/search-button.module.code.tsx"
 import { SearchSortFilterRow } from "akasha/design/interfaces/patterns/modules/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
-import { SortButton } from "akasha/design/interfaces/patterns/sort-button/sort-button.module.code.tsx"
+import { SortButton } from "akasha/design/interfaces/patterns/modules/sort-button/sort-button.module.code.tsx"
 import type {
   SortDirection,
   SortOption,
-} from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
+} from "akasha/design/interfaces/patterns/modules/sort-types/sort-types.module.code.ts"
 import type { CompletionSortMode } from "akasha/temper/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
 import { useState } from "react"
 

@@ -9,7 +9,7 @@ import { AppShell as SharedAppShell } from "akasha/design/interfaces/layout/modu
 import type { AppNavConfig } from "akasha/design/interfaces/layout/modules/nav-types/nav-types.module.code.ts"
 import { useSidebarState } from "akasha/design/interfaces/layout/use-sidebar-state/use-sidebar-state.module.code.ts"
 import { useAppVersionCheck } from "akasha/pages/ui/app-version/use-app-version-check/use-app-version-check.module.code.ts"
-import { SortableNavs } from "akasha/pages/ui/components/sortable-navs/sortable-navs.module.code.tsx"
+import { SortableNavs } from "akasha/pages/ui/components/modules/sortable-navs/sortable-navs.module.code.tsx"
 import { useAppNavItems } from "akasha/pages/ui/components/use-app-nav-items/use-app-nav-items.module.code.tsx"
 import {
   PRIMARY_NAV_ITEMS,

@@ -9,7 +9,7 @@ import {
   DialogHeader,
   DialogTitle,
 } from "akasha/design/interfaces/primitives/modules/dialog/dialog.module.code.tsx"
-import { Spinner } from "akasha/design/interfaces/primitives/spinner/spinner.module.code.tsx"
+import { Spinner } from "akasha/design/interfaces/primitives/modules/spinner/spinner.module.code.tsx"
 import type { PropertyDefinition } from "akasha/pages/core/modules/page-data/page-data.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import type { QuickAddConfig } from "akasha/pages/core/schema/modules/quick-add/quick-add.module.code.ts"

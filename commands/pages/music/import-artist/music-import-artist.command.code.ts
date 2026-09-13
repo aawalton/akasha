@@ -33,7 +33,7 @@ import {
   type SongNames,
   songNamesFrom,
   songSlugFor,
-} from "akasha/alan/music/catalog/song-slug/song-slug.module.code.ts"
+} from "akasha/alan/music/catalog/modules/song-slug/song-slug.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   landedMechanically,

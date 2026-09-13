@@ -1,7 +1,7 @@
 import { PageTitle } from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
 import { PanelCard } from "akasha/design/interfaces/layout/modules/panel-card/panel-card.module.code.tsx"
 import { Heading } from "akasha/design/interfaces/primitives/modules/heading/heading.module.code.tsx"
-import { SmsOptInForm } from "akasha/persons/sms-opt-in/sms-opt-in.module.code.tsx"
+import { SmsOptInForm } from "akasha/persons/modules/sms-opt-in/sms-opt-in.module.code.tsx"
 
 const EMAIL_LINK_HTML =
   '<!--email_off--><a class="text-accent underline" href="mailto:alan@alanwalton.com">alan@alanwalton.com</a><!--/email_off-->'

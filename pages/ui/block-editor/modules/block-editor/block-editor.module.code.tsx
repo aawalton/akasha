@@ -14,7 +14,7 @@ import { BlockAccessoryBar } from "akasha/pages/ui/block-editor/modules/block-ac
 import { BlockRow } from "akasha/pages/ui/block-editor/modules/block-row/block-row.module.code.tsx"
 import { BlockTree } from "akasha/pages/ui/block-editor/modules/block-tree/block-tree.module.code.tsx"
 import { collectToggleIds } from "akasha/pages/ui/block-editor/modules/block-type-helpers/block-type-helpers.module.code.ts"
-import { SlashMenu } from "akasha/pages/ui/block-editor/slash-menu/slash-menu.module.code.tsx"
+import { SlashMenu } from "akasha/pages/ui/block-editor/modules/slash-menu/slash-menu.module.code.tsx"
 import { useBlockCollapse } from "akasha/pages/ui/block-editor/use-block-collapse/use-block-collapse.module.code.ts"
 import { useBlockFocus } from "akasha/pages/ui/block-editor/use-block-focus/use-block-focus.module.code.ts"
 import { useBlockKeys } from "akasha/pages/ui/block-editor/use-block-keys/use-block-keys.module.code.ts"

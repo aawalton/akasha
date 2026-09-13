@@ -1,7 +1,7 @@
 import {
   buildKokoroSpeechInput,
   splitSentences,
-} from "akasha/alan/harness/voice-core/speech/speech.module.code.ts"
+} from "akasha/alan/harness/voice-core/modules/speech/speech.module.code.ts"
 import {
   parseProseBlocks,
   splitInlineEmphasis,

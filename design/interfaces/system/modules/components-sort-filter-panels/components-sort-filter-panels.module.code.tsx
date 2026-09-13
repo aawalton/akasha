@@ -7,13 +7,13 @@ import { AddSortButton } from "akasha/design/interfaces/patterns/modules/add-sor
 import { FilterButton } from "akasha/design/interfaces/patterns/modules/filter-button/filter-button.module.code.tsx"
 import { FilterGroup } from "akasha/design/interfaces/patterns/modules/filter-group/filter-group.module.code.tsx"
 import { SearchSortFilterRow } from "akasha/design/interfaces/patterns/modules/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
-import { SortButton } from "akasha/design/interfaces/patterns/sort-button/sort-button.module.code.tsx"
-import { SortGroup } from "akasha/design/interfaces/patterns/sort-group/sort-group.module.code.tsx"
+import { SortButton } from "akasha/design/interfaces/patterns/modules/sort-button/sort-button.module.code.tsx"
+import { SortGroup } from "akasha/design/interfaces/patterns/modules/sort-group/sort-group.module.code.tsx"
 import type {
   SortDirection,
   SortEntry,
   SortOption,
-} from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
+} from "akasha/design/interfaces/patterns/modules/sort-types/sort-types.module.code.ts"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { Heading } from "akasha/design/interfaces/primitives/modules/heading/heading.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"

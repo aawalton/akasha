@@ -3,7 +3,7 @@ import type { ArmorItem } from "akasha/temper/characters-equipment/modules/item-
 import type { MetricEffect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
 import type { EffectSourceInterface } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"
 import { mapOf } from "akasha/temper/formula-framework/modules/map-of/map-of.module.code.ts"
-import { createSourceFile } from "akasha/temper/formula-framework/source-file/source-file.module.code.ts"
+import { createSourceFile } from "akasha/temper/formula-framework/modules/source-file/source-file.module.code.ts"
 
 type MundusMetricEffect = MetricEffect & {
   effectType: "integer" | "fractional-change"

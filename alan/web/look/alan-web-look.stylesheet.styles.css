@@ -20,4 +20,4 @@
 @source "../../../code/router-apps/**/*.{ts,tsx}";
 @source "../../../design/interfaces/**/*.{ts,tsx}";
 @source "../../../pages/ui/**/*.{ts,tsx}";
-@source "../../../persons/sms-opt-in/**/*.{ts,tsx}";
+@source "../../../persons/modules/**/*.{ts,tsx}";

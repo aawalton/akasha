@@ -18,7 +18,7 @@ import {
 import { companionWeaponSlots } from "akasha/temper/companions-core/modules/companion-weapon-slots/companion-weapon-slots.module.code.ts"
 import { companionWeaponTypes } from "akasha/temper/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { companions } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
-import type { SourceCategoryId } from "akasha/temper/formula-framework/source-category/source-category.module.code.ts"
+import type { SourceCategoryId } from "akasha/temper/formula-framework/modules/source-category/source-category.module.code.ts"
 
 export interface CompanionEffectSource {
   id: string

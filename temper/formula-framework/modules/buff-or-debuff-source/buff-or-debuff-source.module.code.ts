@@ -5,7 +5,7 @@ import { debuffsMajor } from "akasha/temper/formula-framework/modules/debuffs-ma
 import { debuffsMinor } from "akasha/temper/formula-framework/modules/debuffs-minor/debuffs-minor.module.code.ts"
 import { debuffsOther } from "akasha/temper/formula-framework/modules/debuffs-other/debuffs-other.module.code.ts"
 import type { EffectSourceInterface } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"
-import { createSourceFile } from "akasha/temper/formula-framework/source-file/source-file.module.code.ts"
+import { createSourceFile } from "akasha/temper/formula-framework/modules/source-file/source-file.module.code.ts"
 
 export interface BuffOrDebuffTemplate extends EffectSourceInterface {
   categoryId: "buffs" | "debuffs"

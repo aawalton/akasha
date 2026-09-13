@@ -10,7 +10,7 @@ import {
 } from "akasha/code/router-apps/modules/router-context-adapters/router-context-adapters.module.code.tsx"
 import { AppShell as SharedAppShell } from "akasha/design/interfaces/layout/modules/app-shell/app-shell.module.code.tsx"
 import type { AppNavConfig } from "akasha/design/interfaces/layout/modules/nav-types/nav-types.module.code.ts"
-import { SortableNavs } from "akasha/pages/ui/components/sortable-navs/sortable-navs.module.code.tsx"
+import { SortableNavs } from "akasha/pages/ui/components/modules/sortable-navs/sortable-navs.module.code.tsx"
 import { useAppNavItems } from "akasha/pages/ui/components/use-app-nav-items/use-app-nav-items.module.code.tsx"
 import { useMemo } from "react"
 

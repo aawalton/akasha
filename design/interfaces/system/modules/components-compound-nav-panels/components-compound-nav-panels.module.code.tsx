@@ -29,7 +29,7 @@ import {
   MenubarSubTrigger,
   MenubarTrigger,
 } from "akasha/design/interfaces/primitives/modules/menubar/menubar.module.code.tsx"
-import { Toaster } from "akasha/design/interfaces/primitives/sonner/sonner.module.code.tsx"
+import { Toaster } from "akasha/design/interfaces/primitives/modules/sonner/sonner.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useState } from "react"
 import { useForm } from "react-hook-form"

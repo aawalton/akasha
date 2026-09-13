@@ -4,7 +4,7 @@ import {
   nodeUnder,
   type TreeNode,
 } from "akasha/temper/addon-generators/tree-node-under/tree-node-under.module.code.ts"
-import { slugOf } from "akasha/utils/slug/slug-of/slug-of.module.code.ts"
+import { slugOf } from "akasha/utils/slug/modules/slug-of/slug-of.module.code.ts"
 import { z } from "zod"
 
 const ITEM_CATEGORY_TREE_EAV_SCHEMA = z

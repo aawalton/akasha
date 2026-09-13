@@ -43,7 +43,7 @@ import {
 import {
   READOUT_SLUG as SLEEP_SLUG,
   takeReading as takeSleep,
-} from "akasha/alan/harness/sleep/reading/sleep-reading.module.code.ts"
+} from "akasha/alan/harness/sleep/modules/reading/sleep-reading.module.code.ts"
 import {
   READOUT_SLUG as SURPLUS_SLUG,
   takeReading as takeSurplus,

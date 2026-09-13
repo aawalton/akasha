@@ -5,7 +5,7 @@ import { ResponsiveColumns } from "akasha/design/interfaces/layout/modules/respo
 import { TabsContent } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
 import { BordersPanel } from "akasha/design/interfaces/system/modules/borders/borders.module.code.tsx"
 import { GemstoneColorsPanel } from "akasha/design/interfaces/system/modules/gemstone-colors/gemstone-colors.module.code.tsx"
-import { SpacingRadiusPanel } from "akasha/design/interfaces/system/spacing-radius/spacing-radius.module.code.tsx"
+import { SpacingRadiusPanel } from "akasha/design/interfaces/system/modules/spacing-radius/spacing-radius.module.code.tsx"
 import { StateLayersPanel } from "akasha/design/interfaces/system/state-layers/state-layers.module.code.tsx"
 import { SurfaceElevationPanel } from "akasha/design/interfaces/system/surface-elevation/surface-elevation.module.code.tsx"
 import { TextColorsPanel } from "akasha/design/interfaces/system/text-colors/text-colors.module.code.tsx"

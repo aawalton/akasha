@@ -2,7 +2,7 @@ import type { GroupOption } from "akasha/design/interfaces/patterns/modules/grou
 import type {
   SortEntry,
   SortOption,
-} from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
+} from "akasha/design/interfaces/patterns/modules/sort-types/sort-types.module.code.ts"
 import type {
   GroupGranularity,
   ViewLayout,

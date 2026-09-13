@@ -21,8 +21,8 @@ import {
   SKYSHARDS_PINDATA_UNDER_GROUND,
   SKYSHARDS_PINDATA_ZONEGUIDEINDEX,
 } from "akasha/temper/skyshards/modules/skyshards-constants/skyshards-constants.module.code.ts"
-import { SKILL_POINT_TOTAL } from "akasha/temper/skyshards/skyshards-skill-point-total/skyshards-skill-point-total.module.code.ts"
-import type { SkyshardPin } from "akasha/temper/skyshards/skyshards-types/skyshards-types.module.code.ts"
+import { SKILL_POINT_TOTAL } from "akasha/temper/skyshards/modules/skyshards-skill-point-total/skyshards-skill-point-total.module.code.ts"
+import type { SkyshardPin } from "akasha/temper/skyshards/modules/skyshards-types/skyshards-types.module.code.ts"
 
 type MaybeSkyshardPin = SkyshardPin | undefined
 type SkillPointProbe = { GetTotalNumSkillPoints?: unknown }

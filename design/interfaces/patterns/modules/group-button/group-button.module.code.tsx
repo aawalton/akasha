@@ -1,11 +1,11 @@
 "use client"
 
 import { AddSortButton } from "akasha/design/interfaces/patterns/modules/add-sort-button/add-sort-button.module.code.tsx"
-import { SortableSortList } from "akasha/design/interfaces/patterns/sort-group/sort-group.module.code.tsx"
+import { SortableSortList } from "akasha/design/interfaces/patterns/modules/sort-group/sort-group.module.code.tsx"
 import type {
   SortEntry,
   SortOption,
-} from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
+} from "akasha/design/interfaces/patterns/modules/sort-types/sort-types.module.code.ts"
 import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import {

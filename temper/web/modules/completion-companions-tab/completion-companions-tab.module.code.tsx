@@ -13,7 +13,7 @@ import { FilterButton } from "akasha/design/interfaces/patterns/modules/filter-b
 import { FilterGroup } from "akasha/design/interfaces/patterns/modules/filter-group/filter-group.module.code.tsx"
 import { SearchButton } from "akasha/design/interfaces/patterns/modules/search-button/search-button.module.code.tsx"
 import { SearchSortFilterRow } from "akasha/design/interfaces/patterns/modules/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
-import { SortButton } from "akasha/design/interfaces/patterns/sort-button/sort-button.module.code.tsx"
+import { SortButton } from "akasha/design/interfaces/patterns/modules/sort-button/sort-button.module.code.tsx"
 import { TabsContent } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
 import type { CompanionSummaryData } from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import { buildCompanionSummary } from "akasha/temper/player-completion/modules/completion-summary-companion/completion-summary-companion.module.code.ts"

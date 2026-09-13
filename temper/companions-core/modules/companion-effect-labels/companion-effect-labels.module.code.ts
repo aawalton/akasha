@@ -10,7 +10,7 @@ import type {
   ActivationBuffType,
   ActivationDebuffType,
 } from "akasha/temper/skill-kinds/modules/skill-buff-debuff-types/skill-buff-debuff-types.module.code.ts"
-import { specialEffectTypes } from "akasha/temper/skill-kinds/special-effect-types/special-effect-types.module.code.ts"
+import { specialEffectTypes } from "akasha/temper/skill-kinds/modules/special-effect-types/special-effect-types.module.code.ts"
 import { statusEffectTypes } from "akasha/temper/skill-kinds/status-effect-types/status-effect-types.module.code.ts"
 
 const buffOrDebuffByName: Readonly<Record<string, { name: string }>> = buffOrDebuff.data

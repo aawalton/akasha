@@ -6,7 +6,7 @@ import { SKYSHARDS_PART_5 } from "akasha/temper/skyshards/modules/skyshards-part
 import { SKYSHARDS_PART_6 } from "akasha/temper/skyshards/modules/skyshards-part-6/skyshards-part-6.module.code.ts"
 import { SKYSHARDS_PART_7 } from "akasha/temper/skyshards/modules/skyshards-part-7/skyshards-part-7.module.code.ts"
 import { SKYSHARDS_PART_8 } from "akasha/temper/skyshards/modules/skyshards-part-8/skyshards-part-8.module.code.ts"
-import type { SkyshardsData } from "akasha/temper/skyshards/skyshards-types/skyshards-types.module.code.ts"
+import type { SkyshardsData } from "akasha/temper/skyshards/modules/skyshards-types/skyshards-types.module.code.ts"
 
 export const SKYSHARDS_DATA_1: SkyshardsData = {
   alikr: {

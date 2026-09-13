@@ -1,4 +1,4 @@
-import { buildKokoroSpeechInput } from "akasha/alan/harness/voice-core/speech/speech.module.code.ts"
+import { buildKokoroSpeechInput } from "akasha/alan/harness/voice-core/modules/speech/speech.module.code.ts"
 import {
   getKokoroTts,
   type PluginListenerHandle,

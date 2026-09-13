@@ -24,8 +24,8 @@ import { createPage } from "akasha/pages/access/modules/create/create.module.cod
 import { NEVER_MATCH_SLUG } from "akasha/pages/access/modules/sentinels/sentinels.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
 import { CreatePageDialog } from "akasha/pages/ui/components/modules/create-page-dialog/create-page-dialog.module.code.tsx"
+import { SortableNavs } from "akasha/pages/ui/components/modules/sortable-navs/sortable-navs.module.code.tsx"
 import { useActiveQuickAddPageType } from "akasha/pages/ui/components/quick-add/use-active-quick-add-page-type/use-active-quick-add-page-type.module.code.ts"
-import { SortableNavs } from "akasha/pages/ui/components/sortable-navs/sortable-navs.module.code.tsx"
 import { useAppNavItems } from "akasha/pages/ui/components/use-app-nav-items/use-app-nav-items.module.code.tsx"
 import {
   type CreateSelectOptionEffect,

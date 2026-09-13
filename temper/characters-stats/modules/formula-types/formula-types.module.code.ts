@@ -8,7 +8,7 @@ import type {
   MultiplyNode,
 } from "akasha/temper/formula-framework/modules/arithmetic-node/arithmetic-node.module.code.ts"
 import type { MetricId } from "akasha/temper/formula-framework/modules/metric-id/metric-id.module.code.ts"
-import type { SourceCategoryId } from "akasha/temper/formula-framework/source-category/source-category.module.code.ts"
+import type { SourceCategoryId } from "akasha/temper/formula-framework/modules/source-category/source-category.module.code.ts"
 
 type MetricEffectType =
   | "integer"
