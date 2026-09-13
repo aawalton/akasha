@@ -1,6 +1,7 @@
 import { cpSync, existsSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { blobIdOf, recordRead } from "akasha/agents/modules/read-record/read-record.module.code.ts"
+import { agentPaged } from "akasha/agents/modules/read-record/read-record.module.test-fixtures.ts"
 import { bodyOf } from "akasha/agents/subagents/modules/body/subagent-body.module.code.ts"
 import type {
   Liveness,
@@ -183,6 +184,7 @@ export async function pageWritten(root: string): Promise<string> {
 
 export function readingKept(root: string, at: string): undefined {
   const oid = blobIdOf(new TextEncoder().encode(readFileSync(join(root, at), "utf8")))
+  agentPaged(root, AGENT)
   recordRead(root, AGENT, { path: at, oid, seenAt: 1, carriedOid: null })
   return undefined
 }
