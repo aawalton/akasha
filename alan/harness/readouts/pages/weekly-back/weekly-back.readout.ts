@@ -5,7 +5,6 @@ export const weeklyBack = {
   type: "readout",
   slug: "weekly-back",
   definition: "how long until a spent weekly allowance returns",
-  code: "ts",
   label: "7d back",
   unit: "hours",
   place: 3,

@@ -5,7 +5,6 @@ export const fiveHourBack = {
   type: "readout",
   slug: "five-hour-back",
   definition: "how long until a spent five-hour allowance returns",
-  code: "ts",
   label: "5h back",
   unit: "hours",
   place: 2,

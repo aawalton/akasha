@@ -8,7 +8,7 @@ import {
   answering,
   refusing,
 } from "akasha/alan/harness/readouts/modules/asking/readout-asking.module.test-fixtures.ts"
-import { ate } from "akasha/alan/harness/readouts/pages/upkeep-plants/upkeep-plants.readout.test-fixtures.ts"
+import { ate } from "akasha/alan/harness/readouts/pages/upkeep-plants/upkeep-plants.readout.reading.test-fixtures.ts"
 
 const FROM = "2026-09-01T13:00:00.000Z"
 

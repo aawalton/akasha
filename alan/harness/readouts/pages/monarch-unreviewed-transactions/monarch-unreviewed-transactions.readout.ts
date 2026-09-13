@@ -5,7 +5,7 @@ export const monarchUnreviewedTransactions = {
   type: "readout",
   slug: "monarch-unreviewed-transactions",
   definition: "how many transactions are unreviewed",
-  code: "ts",
+  reading: {},
   label: "Unreviewed",
   unit: "transactions",
   place: 1,

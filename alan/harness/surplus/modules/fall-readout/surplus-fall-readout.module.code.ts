@@ -5,8 +5,8 @@ import {
   climbs,
   rungsIn,
 } from "akasha/alan/harness/readouts/modules/tier/readout-tier.module.code.ts"
-import { sleepIn } from "akasha/alan/harness/readouts/pages/upkeep-sleep/upkeep-sleep.readout.code.ts"
-import { surplusIn } from "akasha/alan/harness/readouts/pages/upkeep-surplus/upkeep-surplus.readout.code.ts"
+import { sleepIn } from "akasha/alan/harness/readouts/pages/upkeep-sleep/upkeep-sleep.readout.reading.code.ts"
+import { surplusIn } from "akasha/alan/harness/readouts/pages/upkeep-surplus/upkeep-surplus.readout.reading.code.ts"
 import {
   isTierColor,
   type Rung,

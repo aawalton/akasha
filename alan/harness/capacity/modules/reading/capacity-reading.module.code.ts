@@ -5,7 +5,7 @@ import {
 import {
   capacityHoursOf,
   capacityIn,
-} from "akasha/alan/harness/readouts/pages/upkeep-capacity/upkeep-capacity.readout.code.ts"
+} from "akasha/alan/harness/readouts/pages/upkeep-capacity/upkeep-capacity.readout.reading.code.ts"
 import { openedDayOf } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
 import { dayValuesByDate } from "akasha/alan/track/daily/modules/day-reading/day-reading.module.code.ts"
 import { sessionsOfDay } from "akasha/alan/track/daily/modules/day-stretches/day-stretches.module.code.ts"

@@ -5,7 +5,6 @@ export const weeklyEnds = {
   type: "readout",
   slug: "weekly-ends",
   definition: "how long until the weekly allowance window closes",
-  code: "ts",
   label: "7d ends",
   unit: "hours",
   place: 4,

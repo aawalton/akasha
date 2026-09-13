@@ -3,7 +3,7 @@ import {
   keepReading,
   readoutPage,
 } from "akasha/alan/harness/readouts/modules/reading/readout-reading.module.code.ts"
-import { fetchPlantGrams } from "akasha/alan/harness/readouts/pages/upkeep-plants/upkeep-plants.readout.code.ts"
+import { fetchPlantGrams } from "akasha/alan/harness/readouts/pages/upkeep-plants/upkeep-plants.readout.reading.code.ts"
 import {
   openedDayOf,
   openedDayWindow,

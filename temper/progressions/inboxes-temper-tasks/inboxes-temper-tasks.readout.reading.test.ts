@@ -7,7 +7,7 @@ import {
   fetchTemperTasks,
   tasksIn,
   trackingOn,
-} from "akasha/temper/progressions/inboxes-temper-tasks/inboxes-temper-tasks.readout.code.ts"
+} from "akasha/temper/progressions/inboxes-temper-tasks/inboxes-temper-tasks.readout.reading.code.ts"
 
 test("the day asked for is the tracking day named", () => {
   const asked = trackingOn("2026-08-30")

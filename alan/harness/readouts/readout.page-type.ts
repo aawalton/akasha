@@ -28,7 +28,7 @@ export const readout = {
     "text-property/unit",
     "text-property/wire-key",
   ],
-  extends: ["page-type/module"],
+  extends: ["page-type/domain"],
   properties: [
     { pageProperty: "module-property-group/reading", required: false, many: false },
     { pageProperty: "text-property/label", required: true, many: false },
@@ -89,8 +89,11 @@ export const readout = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A readout takes its own reading on the page with the code that takes the reading.",
+      statement: "A readout that takes its own reading holds the code taking it beside its page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A readout carried its reading from elsewhere holds no code.",
     },
     {
       invariantKind: "departure",

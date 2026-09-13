@@ -9,7 +9,6 @@ export const readout = {
     "domain/readout-color",
     "domain/readout-figure",
     "domain/stoplight",
-    "module/allowance-window-hours",
     "module/readout-answering",
     "module/readout-asking",
     "module/readout-body",
