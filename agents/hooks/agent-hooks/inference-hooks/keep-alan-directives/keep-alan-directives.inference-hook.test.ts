@@ -79,6 +79,7 @@ test("every judge the hook runs puts its own rule to the model", () => {
     "One At A Time",
     "No Commentary",
     "No Commentary",
+    "Don't Stop!",
   ])
 })
 
@@ -93,7 +94,7 @@ test("one rule may be judged by more than one judge, each by its own sign", () =
 
 test("a rule no judge here names is put to the model by nobody", () => {
   expect(
-    JUDGES.flatMap((judge) => judge({ ...TURN, directives: [ruleNamed("Don't Stop!")] }))
+    JUDGES.flatMap((judge) => judge({ ...TURN, directives: [ruleNamed("Act By Default")] }))
   ).toEqual([])
 })
 
@@ -179,7 +180,7 @@ test("each judge names the rule it asked and the test it came from", () => {
     expect(one.statement.startsWith(`${one.about}:`)).toBe(true)
     expect(one.test).not.toBe("")
   }
-  expect(new Set(JUDGES.flatMap((judge) => judge(TURN)).map((one) => one.test)).size).toBe(4)
+  expect(new Set(JUDGES.flatMap((judge) => judge(TURN)).map((one) => one.test)).size).toBe(5)
 })
 
 test("a line kept for a yes holds what was put and what came back", () => {
