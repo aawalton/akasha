@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, writeFileSync } from "node:fs"
+import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
   B,
@@ -55,18 +55,13 @@ function twoParents(): { readonly root: string; readonly repo: string } {
     const path = `${slug}.page-type.ts`
     const value = { id, pageTypeSlug: "page-type", slug, extends: above }
     writeFileSync(join(repo, path), `export const it = ${JSON.stringify(value)}\n`)
-    mkdirSync(join(root, "identity/page-type/page-type/slug"), { recursive: true })
-    writeFileSync(
-      join(root, `identity/page-type/page-type/slug/${slug}.jsonl`),
-      `${JSON.stringify({ path, id })}\n`
-    )
+    lineFiled(root, `identity/page-type/page-type/slug/${slug}.jsonl`, JSON.stringify({ path, id }))
     valued.push(JSON.stringify({ path, value }))
   }
   typed("module", ["domain"], "1")
   typed("page-property", ["page"], "2")
   typed("computed-property", ["module", "page-property"], "3")
-  mkdirSync(join(root, "value"), { recursive: true })
-  writeFileSync(join(root, "value/page-type.jsonl"), `${valued.join("\n")}\n`)
+  lineFiled(root, "value/page-type.jsonl", valued.join("\n"))
   return { root, repo }
 }
 

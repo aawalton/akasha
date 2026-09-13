@@ -30,6 +30,10 @@ export const indexFiling = {
     },
     {
       invariantKind: "departure",
+      statement: "A root filed into is left saying it is whole, a test's root being whole by fiat.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A value filed for a page is written as that page's body at that page's path.",
     },
     {

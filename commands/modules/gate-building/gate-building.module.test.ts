@@ -11,6 +11,7 @@ import {
 import { repoWith, scratch } from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { indexNamed } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { indexTakenFrom } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 
@@ -18,6 +19,7 @@ const HERE = rootOf(import.meta.path)
 
 test("the gate reaches the checks late, and a root carrying no check index will not build one", () => {
   const root = repoWith({ "one.txt": "committed" })
+  indexTakenFrom(root)
   const said = gateBuilt(root)
   expect("broken" in said).toBe(true)
   const why = "broken" in said ? said.broken : ""

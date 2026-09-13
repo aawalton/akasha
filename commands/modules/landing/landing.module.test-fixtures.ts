@@ -22,7 +22,9 @@ import {
   thePage,
 } from "akasha/pages/indexes/modules/fixture-world/fixture-world.module.code.ts"
 import { refreshedFrom } from "akasha/pages/indexes/modules/indexing/indexing.module.code.ts"
+import { keepBuilt } from "akasha/pages/indexes/modules/keeping/index-keeping.module.code.ts"
 import { everythingFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { indexIn } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import { partFiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
@@ -54,6 +56,7 @@ export function repoWith(named: Readonly<Record<string, string | Uint8Array>>): 
   }
   git(root, ["add", "-A"])
   git(root, ["commit", "--quiet", "-m", "first"])
+  keepBuilt(indexIn(root))
   return root
 }
 

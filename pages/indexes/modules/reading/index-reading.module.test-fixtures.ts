@@ -20,6 +20,7 @@ import {
   valueAlsoFiled,
 } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import { refreshedFrom } from "akasha/pages/indexes/modules/indexing/indexing.module.code.ts"
+import { keepBuilt } from "akasha/pages/indexes/modules/keeping/index-keeping.module.code.ts"
 import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import type { Reading, Shape } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
 import {
@@ -60,10 +61,15 @@ function under(root: string, at: string): string {
   return join(indexIn(root), at)
 }
 
-function written(root: string, at: string, lines: readonly unknown[]): undefined {
+function making(root: string, at: string): string {
   const path = under(root, at)
   mkdirSync(dirname(path), { recursive: true })
-  writeFileSync(path, lines.map((one) => `${JSON.stringify(one)}\n`).join(""))
+  keepBuilt(indexIn(root))
+  return path
+}
+
+function written(root: string, at: string, lines: readonly unknown[]): undefined {
+  writeFileSync(making(root, at), lines.map((one) => `${JSON.stringify(one)}\n`).join(""))
 }
 
 function filing(root: string, at: string, lines: readonly unknown[]): undefined {
@@ -71,19 +77,17 @@ function filing(root: string, at: string, lines: readonly unknown[]): undefined 
 }
 
 function adding(root: string, at: string, lines: readonly unknown[]): undefined {
-  const path = under(root, `${at}${ENDING}`)
-  mkdirSync(dirname(path), { recursive: true })
+  const path = making(root, `${at}${ENDING}`)
   appendFileSync(path, lines.map((one) => `${JSON.stringify(one)}\n`).join(""))
 }
 
 function unreadable(root: string, at: string): undefined {
-  const path = under(root, at)
-  mkdirSync(dirname(path), { recursive: true })
-  writeFileSync(path, NOT_JSON)
+  writeFileSync(making(root, at), NOT_JSON)
 }
 
 function foldering(root: string, at: string): undefined {
   mkdirSync(under(root, at), { recursive: true })
+  keepBuilt(indexIn(root))
 }
 
 function taking(root: string, at: string): undefined {
@@ -178,9 +182,7 @@ export function idFiledIn(root: string, id: string): boolean {
 }
 
 function listingAdded(root: string, path: string): undefined {
-  const at = under(root, `${join(indexListing.name, AT_PATH)}${ENDING}`)
-  mkdirSync(dirname(at), { recursive: true })
-  appendFileSync(at, `${path}\n`)
+  appendFileSync(making(root, `${join(indexListing.name, AT_PATH)}${ENDING}`), `${path}\n`)
 }
 
 export function pathFiled(root: string, path: string, lines: readonly unknown[]): undefined {
@@ -189,8 +191,7 @@ export function pathFiled(root: string, path: string, lines: readonly unknown[])
 }
 
 export function listingFiled(root: string, paths: readonly string[]): undefined {
-  const at = under(root, `${join(indexListing.name, AT_PATH)}${ENDING}`)
-  mkdirSync(dirname(at), { recursive: true })
+  const at = making(root, `${join(indexListing.name, AT_PATH)}${ENDING}`)
   writeFileSync(at, paths.map((one) => `${one}\n`).join(""))
 }
 
@@ -296,11 +297,7 @@ export function noImportersFiled(root: string): undefined {
 }
 
 export function entriesFiled(root: string, entries: readonly Entry[]): undefined {
-  for (const one of entries) {
-    const path = under(root, one.at)
-    mkdirSync(dirname(path), { recursive: true })
-    appendFileSync(path, `${one.line}\n`)
-  }
+  for (const one of entries) appendFileSync(making(root, one.at), `${one.line}\n`)
 }
 
 export function linesFiled(root: string, at: string, lines: readonly unknown[]): undefined {
@@ -416,6 +413,7 @@ export function importsTakenFrom(root: string): undefined {
 
 export function fileWhereTheIndexIs(root: string, text: string): undefined {
   const at = indexIn(root)
+  rmSync(at, { recursive: true, force: true })
   mkdirSync(dirname(at), { recursive: true })
   writeFileSync(at, text)
 }

@@ -1,6 +1,7 @@
 import { appendFileSync, existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { indexIdentity } from "akasha/pages/indexes/identity/index-identity.index.ts"
+import { keepBuilt } from "akasha/pages/indexes/modules/keeping/index-keeping.module.code.ts"
 import { indexIn } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
 import { indexShapes } from "akasha/pages/indexes/shapes/index-shapes.index.ts"
@@ -36,12 +37,14 @@ function written(root: string, at: string, lines: readonly unknown[]): undefined
   const path = join(indexIn(root), `${at}${ENDING}`)
   mkdirSync(dirname(path), { recursive: true })
   writeFileSync(path, bodyOf(lines))
+  keepBuilt(indexIn(root))
 }
 
 function added(root: string, at: string, lines: readonly unknown[]): undefined {
   const path = join(indexIn(root), `${at}${ENDING}`)
   mkdirSync(dirname(path), { recursive: true })
   appendFileSync(path, bodyOf(lines))
+  keepBuilt(indexIn(root))
 }
 
 function identityFiled(
@@ -125,4 +128,5 @@ export function lineFiled(root: string, at: string, line: string): undefined {
   const path = join(root, at)
   mkdirSync(dirname(path), { recursive: true })
   writeFileSync(path, `${line}\n`)
+  keepBuilt(root)
 }

@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync } from "node:fs"
+import { keepBuilt } from "akasha/pages/indexes/modules/keeping/index-keeping.module.code.ts"
 import {
   shapeOf,
   shapesAt,
@@ -15,7 +15,7 @@ afterAll(scratch.sweep)
 
 function declaring(prefix: string, said: readonly unknown[]): string {
   const root = scratch.rootFor(prefix)
-  mkdirSync(indexIn(root), { recursive: true })
+  keepBuilt(indexIn(root))
   for (const one of said) {
     const held = one as Record<string, unknown>
     const kind = held.pageTypeSlug
