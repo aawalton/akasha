@@ -1,6 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import type { BankTracePacedDispatch } from "akasha/temper/items-addon/modules/inventory-bank-trace-types/inventory-bank-trace-types.module.code.ts"
 import {
+  BACKPACK_BAG,
   BANK_BAG,
   type BankSim,
   busiestWindow,
@@ -178,5 +179,30 @@ describe("inventory-rules-dispatch-bank-paced", () => {
     expect(busiestWindowInclusive(sim.issued, GAME_STACK_MOVE_WINDOW_MS)).toBeLessThanOrEqual(
       GAME_STACK_MOVE_LIMIT
     )
+  })
+
+  test("a withdrawal onto a slot holding another item is sent once and no more", () => {
+    const sim = makeBankSim()
+    sim.putStack(BANK_BAG, 204, 119020, 1, 200)
+    sim.putStack(BACKPACK_BAG, 3, 45920, 1, 200)
+    const { stats } = runVisit(
+      sim,
+      [
+        {
+          kind: "move",
+          sourceBag: BANK_BAG,
+          sourceSlot: 204,
+          targetBag: BACKPACK_BAG,
+          targetSlot: 3,
+          count: 1,
+        },
+      ],
+      60000
+    )
+    expect(stats.issued).toBe(1)
+    expect(stats.retries).toBe(0)
+    expect(stats.confirmed).toBe(0)
+    expect(stats.rounds?.length).toBe(1)
+    expect(stats.rounds?.[0]?.left).toBe(1)
   })
 })

@@ -47,11 +47,16 @@ interface IssuedMove {
   attempts: number
 }
 
+function itemIdIn(bag: number, slot: number): number {
+  return GetItemLinkItemId(GetItemLink(bag, slot, LINK_STYLE_BRACKETS))
+}
+
 function retryCouldHelp(move: IssuedMove, srcStack: number): boolean {
-  if (srcStack < move.stackAtIssue) return true
   if (move.targetBag === BAG_VIRTUAL) return true
   const [targetStack, targetMax] = GetSlotStackSize(move.targetBag, move.targetSlot)
   if (targetStack === 0) return true
+  if (itemIdIn(move.targetBag, move.targetSlot) !== move.itemId) return false
+  if (srcStack < move.stackAtIssue) return true
   return targetMax - targetStack >= srcStack - move.expectedRemaining
 }
 

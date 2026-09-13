@@ -1,6 +1,6 @@
 import type { PacedBankStep } from "akasha/temper/items-addon/modules/inventory-rules-dispatch-bank-paced-confirm/inventory-rules-dispatch-bank-paced-confirm.module.code.ts"
 
-const BACKPACK_BAG = 1
+export const BACKPACK_BAG = 1
 export const BANK_BAG = 2
 export const GAME_STACK_MOVE_LIMIT = 100
 export const GAME_STACK_MOVE_WINDOW_MS = 10000

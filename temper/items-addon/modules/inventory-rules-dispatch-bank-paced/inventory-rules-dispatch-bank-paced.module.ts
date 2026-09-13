@@ -59,6 +59,11 @@ export const inventoryRulesDispatchBankPaced = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A target slot holding another item takes no amount of this one, so that move could not land.",
+    },
+    {
+      invariantKind: "departure",
       statement: "What the source held is read afresh each time the move is issued.",
     },
     {
