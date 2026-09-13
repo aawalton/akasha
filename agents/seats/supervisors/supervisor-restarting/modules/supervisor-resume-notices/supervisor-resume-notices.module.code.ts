@@ -17,11 +17,6 @@ const ResumeNoticesZ = shape.object({
 
 export type ResumeNotices = Readonly<Infer<typeof ResumeNoticesZ>>
 
-export const HANDED_NOTICE_KEYS = [
-  "restart-immediate",
-  "restart-deferred",
-] as const satisfies readonly (keyof ResumeNotices)[]
-
 const NOTICE_UNAVAILABLE_PREFIX = `${SUPERVISOR_NOTICE_PREFIX} Your resume notice could not be composed`
 
 function unavailable(reason: string): ResumeNotices {
