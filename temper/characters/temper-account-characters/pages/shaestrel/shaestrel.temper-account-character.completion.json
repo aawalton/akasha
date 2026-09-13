@@ -1034,7 +1034,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 20,
+            "numCompleted": 21,
             "numRequired": 30
           }
         }
@@ -13027,14 +13027,14 @@
   },
   "dailyWrits": {
     "completed": 7,
-    "date": "2026-09-12"
+    "date": "2026-09-13"
   },
   "dailyWritStates": {
     "completed": {
       "1": 1,
       "2": 7,
       "3": 6,
-      "4": 2,
+      "4": 6,
       "5": 3,
       "6": 4,
       "7": 5
