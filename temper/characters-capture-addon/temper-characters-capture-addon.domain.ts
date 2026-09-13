@@ -33,8 +33,6 @@ export const temperCharactersCaptureAddon = {
     "module/character-capture-scribing-map",
     "module/character-capture-set-index-00",
     "module/character-capture-set-map",
-    "module/character-capture-set-name-00",
-    "module/character-capture-set-name-01",
     "module/character-capture-skill-index-00",
     "module/character-capture-skill-index-01",
     "module/character-capture-skill-index-02",
