@@ -20,7 +20,10 @@ import {
   type Named,
   pagesOfType,
 } from "akasha/pages/service/modules/kinds-gathering/kinds-gathering.module.code.ts"
-import { matches, weigh } from "akasha/pages/service/where-testing/where-testing.module.code.ts"
+import {
+  matches,
+  weigh,
+} from "akasha/pages/service/modules/where-testing/where-testing.module.code.ts"
 import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 
 const PAGE_TYPE = "page-type"

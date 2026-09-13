@@ -1,5 +1,5 @@
-import { matName } from "akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts"
-import { findLink } from "akasha/temper/crafting-addon/writ-link-data/writ-link-data.module.code.ts"
+import { matName } from "akasha/temper/crafting-addon/modules/writ-i18n/writ-i18n.module.code.ts"
+import { findLink } from "akasha/temper/crafting-addon/modules/writ-link-data/writ-link-data.module.code.ts"
 import type {
   GoldAmount,
   MatList,

@@ -68,7 +68,7 @@ import { putUpWebApp } from "akasha/commands/pages/deploy/modules/web-putting-up
 import {
   appliedWorkload,
   servableNamed,
-} from "akasha/infrastructure/services/clusters/workload-applying/workload-applying.module.code.ts"
+} from "akasha/infrastructure/services/clusters/modules/workload-applying/workload-applying.module.code.ts"
 import { putUpEvery } from "akasha/infrastructure/services/workstations/modules/service-putting-up/service-putting-up.module.code.ts"
 import { provingFor } from "akasha/infrastructure/services/workstations/modules/service-running/service-running.module.code.ts"
 

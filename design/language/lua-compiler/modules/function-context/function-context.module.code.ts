@@ -9,7 +9,7 @@ import {
   getAllCallSignatures,
   inferAssignedType,
 } from "akasha/design/language/lua-compiler/modules/typescript/typescript.module.code.ts"
-import { isWorkspaceSourceFile } from "akasha/design/language/lua-compiler/workspace-source/workspace-source.module.code.ts"
+import { isWorkspaceSourceFile } from "akasha/design/language/lua-compiler/modules/workspace-source/workspace-source.module.code.ts"
 import * as ts from "typescript"
 
 export const ContextType = {

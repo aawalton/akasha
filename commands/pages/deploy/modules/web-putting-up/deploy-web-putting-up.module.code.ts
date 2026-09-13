@@ -28,7 +28,7 @@ import {
   unfilledOf,
   upAlready,
   writeManifests,
-} from "akasha/infrastructure/services/clusters/workload-deploying/workload-deploying.module.code.ts"
+} from "akasha/infrastructure/services/clusters/modules/workload-deploying/workload-deploying.module.code.ts"
 
 const SAID = 4
 

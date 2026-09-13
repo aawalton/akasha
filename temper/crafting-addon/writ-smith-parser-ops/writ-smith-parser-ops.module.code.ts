@@ -1,9 +1,9 @@
-import { newKnow } from "akasha/temper/crafting-addon/writ-know/writ-know.module.code.ts"
+import { newKnow } from "akasha/temper/crafting-addon/modules/writ-know/writ-know.module.code.ts"
 import {
   add as logAdd,
   startNewEvent as logStartNewEvent,
   warn as logWarn,
-} from "akasha/temper/crafting-addon/writ-log/writ-log.module.code.ts"
+} from "akasha/temper/crafting-addon/modules/writ-log/writ-log.module.code.ts"
 import {
   matRowFromLink,
   matRowFromName,

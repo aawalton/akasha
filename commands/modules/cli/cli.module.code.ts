@@ -5,7 +5,7 @@ import type { Answer, Outside } from "akasha/commands/modules/calling/calling.mo
 import { calling } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { authorIn } from "akasha/commands/modules/commit-author/commit-author.module.code.ts"
 import { rootIn } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { writtenWhole } from "akasha/utils/fs/whole-writing/whole-writing.module.code.ts"
+import { writtenWhole } from "akasha/utils/fs/modules/whole-writing/whole-writing.module.code.ts"
 
 const CALLED_AS = "akasha"
 

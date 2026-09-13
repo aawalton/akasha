@@ -1,7 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import { existsSync, statSync } from "node:fs"
 import { join } from "node:path"
-import { listWorkspaceDirs } from "akasha/alan/harness/workspace-paths/workspace-dirs/workspace-dirs.module.code.ts"
+import { listWorkspaceDirs } from "akasha/alan/harness/workspace-paths/modules/workspace-dirs/workspace-dirs.module.code.ts"
 import {
   ROOT,
   SERVICES,

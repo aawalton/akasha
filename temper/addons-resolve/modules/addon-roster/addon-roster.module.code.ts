@@ -7,7 +7,7 @@ import {
   computeWorkspaceClosure,
   loadWorkspaceCatalog,
   repoRelOf,
-} from "akasha/temper/addons-resolve/workspace-closure/workspace-closure.module.code.ts"
+} from "akasha/temper/addons-resolve/modules/workspace-closure/workspace-closure.module.code.ts"
 
 const DEFAULT_REPO_ROOT = resolve(import.meta.dir, "..", "..", "..")
 

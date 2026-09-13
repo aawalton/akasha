@@ -1,5 +1,5 @@
 import { BeatSchema } from "akasha/story/engine/core/modules/beat-schema/beat-schema.module.code.ts"
-import { wordCount } from "akasha/story/engine/core/word-count/word-count.module.code.ts"
+import { wordCount } from "akasha/story/engine/core/modules/word-count/word-count.module.code.ts"
 import { z } from "zod"
 
 export interface DerivedTurn {

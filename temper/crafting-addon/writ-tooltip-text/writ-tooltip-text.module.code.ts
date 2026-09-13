@@ -1,4 +1,4 @@
-import { str } from "akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts"
+import { str } from "akasha/temper/crafting-addon/modules/writ-i18n/writ-i18n.module.code.ts"
 import { listTotal } from "akasha/temper/crafting-addon/writ-mat-row/writ-mat-row.module.code.ts"
 import type {
   GoldAmount,

@@ -42,7 +42,7 @@ import type {
   WalkOutcome,
 } from "akasha/temper/items-rules-eval/modules/eval-result/eval-result.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/modules/item-facts/item-facts.module.code.ts"
-import { wholeNumberIn } from "akasha/utils/narrow/whole-number-in/whole-number-in.module.code.ts"
+import { wholeNumberIn } from "akasha/utils/narrow/modules/whole-number-in/whole-number-in.module.code.ts"
 
 const NAMED = [
   jsonArgument,

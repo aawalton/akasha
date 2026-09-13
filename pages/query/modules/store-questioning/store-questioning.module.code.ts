@@ -10,7 +10,7 @@ import {
   bare,
   matches,
   weigh,
-} from "akasha/pages/service/where-testing/where-testing.module.code.ts"
+} from "akasha/pages/service/modules/where-testing/where-testing.module.code.ts"
 
 export type Value = string | number | boolean | readonly string[]
 

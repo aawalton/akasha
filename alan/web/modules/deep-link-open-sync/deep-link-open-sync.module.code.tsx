@@ -1,6 +1,6 @@
 "use client"
 
-import { widgetTapped } from "akasha/alan/harness/readouts/widget-tap-link/widget-tap-link.module.code.ts"
+import { widgetTapped } from "akasha/alan/harness/readouts/modules/widget-tap-link/widget-tap-link.module.code.ts"
 import { apiFetch } from "akasha/alan/web/modules/api-fetch/api-fetch.module.code.ts"
 import {
   getApp,

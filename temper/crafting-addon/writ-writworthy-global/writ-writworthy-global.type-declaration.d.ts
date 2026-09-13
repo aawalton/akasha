@@ -30,45 +30,45 @@ interface TemperWritGlobal {
   version: string
 
   Util?: import("akasha/temper/crafting-addon/writ-util/writ-util.module.code.ts").UtilNamespace
-  Log?: import("akasha/temper/crafting-addon/writ-log/writ-log.module.code.ts").LogNamespace
-  Logger?: typeof import("akasha/temper/crafting-addon/writ-log/writ-log.module.code.ts").logger
-  LogOne?: typeof import("akasha/temper/crafting-addon/writ-log/writ-log.module.code.ts").logOne
-  LogOneWarnError?: typeof import("akasha/temper/crafting-addon/writ-log/writ-log.module.code.ts").logOneWarnError
-  Know?: import("akasha/temper/crafting-addon/writ-know/writ-know.module.code.ts").KnowNamespace
+  Log?: import("akasha/temper/crafting-addon/modules/writ-log/writ-log.module.code.ts").LogNamespace
+  Logger?: typeof import("akasha/temper/crafting-addon/modules/writ-log/writ-log.module.code.ts").logger
+  LogOne?: typeof import("akasha/temper/crafting-addon/modules/writ-log/writ-log.module.code.ts").logOne
+  LogOneWarnError?: typeof import("akasha/temper/crafting-addon/modules/writ-log/writ-log.module.code.ts").logOneWarnError
+  Know?: import("akasha/temper/crafting-addon/modules/writ-know/writ-know.module.code.ts").KnowNamespace
   MatRow?: import("akasha/temper/crafting-addon/writ-mat-row/writ-mat-row.module.code.ts").MatRowNamespace
   Profiler?: import("akasha/temper/crafting-addon/writ-profiler/writ-profiler.module.code.ts").ProfilerNamespace
 
-  Alchemy?: import("akasha/temper/crafting-addon/writ-alchemy-data/writ-alchemy-data.module.code.ts").AlchemyNamespace
-  Enchanting?: import("akasha/temper/crafting-addon/writ-enchanting-parser/writ-enchanting-parser.module.code.ts").EnchantingNamespace
+  Alchemy?: import("akasha/temper/crafting-addon/modules/writ-alchemy-data/writ-alchemy-data.module.code.ts").AlchemyNamespace
+  Enchanting?: import("akasha/temper/crafting-addon/modules/writ-enchanting-parser/writ-enchanting-parser.module.code.ts").EnchantingNamespace
   Provisioning?: import("akasha/temper/crafting-addon/writ-prov-data/writ-prov-data.module.code.ts").ProvisioningNamespace
   Smithing?: import("akasha/temper/crafting-addon/writ-smithing/writ-smithing.module.code.ts").SmithingNamespace
   RequiredSkill?: import("akasha/temper/crafting-addon/writ-required-skill/writ-required-skill.module.code.ts").RequiredSkillNamespace
 
-  Str?: typeof import("akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts").str
-  SI?: typeof import("akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts").si
-  Gear?: typeof import("akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts").gearName
-  SetName?: typeof import("akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts").setName
-  Shorten?: typeof import("akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts").shortenName
-  Mat?: typeof import("akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts").matName
-  Motif?: typeof import("akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts").motifName
-  FoodDrink?: typeof import("akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts").foodDrink
-  LangList?: typeof import("akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts").langList
-  STR_HOW?: typeof import("akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts").STR_HOW
-  I18NStatic?: typeof import("akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts").i18nStatic
-  I18NClientSIDyn?: typeof import("akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts").i18nClientSiDyn
-  I18NFoodDrinkDyn?: typeof import("akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts").i18nFoodDrinkDyn
-  I18NGearDyn?: typeof import("akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts").i18nGearDyn
-  I18NMotifDyn?: typeof import("akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts").i18nMotifDyn
-  I18NMatDyn?: typeof import("akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts").i18nMatDyn
-  I18NSetDyn?: typeof import("akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts").i18nSetDyn
+  Str?: typeof import("akasha/temper/crafting-addon/modules/writ-i18n/writ-i18n.module.code.ts").str
+  SI?: typeof import("akasha/temper/crafting-addon/modules/writ-i18n/writ-i18n.module.code.ts").si
+  Gear?: typeof import("akasha/temper/crafting-addon/modules/writ-i18n/writ-i18n.module.code.ts").gearName
+  SetName?: typeof import("akasha/temper/crafting-addon/modules/writ-i18n/writ-i18n.module.code.ts").setName
+  Shorten?: typeof import("akasha/temper/crafting-addon/modules/writ-i18n/writ-i18n.module.code.ts").shortenName
+  Mat?: typeof import("akasha/temper/crafting-addon/modules/writ-i18n/writ-i18n.module.code.ts").matName
+  Motif?: typeof import("akasha/temper/crafting-addon/modules/writ-i18n/writ-i18n.module.code.ts").motifName
+  FoodDrink?: typeof import("akasha/temper/crafting-addon/modules/writ-i18n/writ-i18n.module.code.ts").foodDrink
+  LangList?: typeof import("akasha/temper/crafting-addon/modules/writ-i18n/writ-i18n.module.code.ts").langList
+  STR_HOW?: typeof import("akasha/temper/crafting-addon/modules/writ-i18n/writ-i18n.module.code.ts").STR_HOW
+  I18NStatic?: typeof import("akasha/temper/crafting-addon/modules/writ-i18n/writ-i18n.module.code.ts").i18nStatic
+  I18NClientSIDyn?: typeof import("akasha/temper/crafting-addon/modules/writ-i18n/writ-i18n.module.code.ts").i18nClientSiDyn
+  I18NFoodDrinkDyn?: typeof import("akasha/temper/crafting-addon/modules/writ-i18n/writ-i18n.module.code.ts").i18nFoodDrinkDyn
+  I18NGearDyn?: typeof import("akasha/temper/crafting-addon/modules/writ-i18n/writ-i18n.module.code.ts").i18nGearDyn
+  I18NMotifDyn?: typeof import("akasha/temper/crafting-addon/modules/writ-i18n/writ-i18n.module.code.ts").i18nMotifDyn
+  I18NMatDyn?: typeof import("akasha/temper/crafting-addon/modules/writ-i18n/writ-i18n.module.code.ts").i18nMatDyn
+  I18NSetDyn?: typeof import("akasha/temper/crafting-addon/modules/writ-i18n/writ-i18n.module.code.ts").i18nSetDyn
   lang_list?: string[]
   LibSets?: (
     this: void
   ) => { GetSetName: (this: void, set_id: number) => string | undefined } | undefined
 
-  LINK?: typeof import("akasha/temper/crafting-addon/writ-link-data-table/writ-link-data-table.module.code.ts").LINK
-  FindLink?: typeof import("akasha/temper/crafting-addon/writ-link-data/writ-link-data.module.code.ts").findLink
-  ToLinkKey?: typeof import("akasha/temper/crafting-addon/writ-link-data/writ-link-data.module.code.ts").toLinkKey
+  LINK?: typeof import("akasha/temper/crafting-addon/modules/writ-link-data-table/writ-link-data-table.module.code.ts").LINK
+  FindLink?: typeof import("akasha/temper/crafting-addon/modules/writ-link-data/writ-link-data.module.code.ts").findLink
+  ToLinkKey?: typeof import("akasha/temper/crafting-addon/modules/writ-link-data/writ-link-data.module.code.ts").toLinkKey
   FALLBACK_PRICE?: Record<string | number, number | boolean>
   FallbackPrice?: typeof import("akasha/temper/crafting-addon/writ-price/writ-price.module.code.ts").fallbackPrice
   PopulateTableWithItemIds?: typeof import("akasha/temper/crafting-addon/writ-price/writ-price.module.code.ts").populateTableWithItemIds

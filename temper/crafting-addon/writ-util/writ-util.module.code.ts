@@ -1,7 +1,7 @@
 import {
   add as logAdd,
   endEvent as logEndEvent,
-} from "akasha/temper/crafting-addon/writ-log/writ-log.module.code.ts"
+} from "akasha/temper/crafting-addon/modules/writ-log/writ-log.module.code.ts"
 import { fallbackPrice } from "akasha/temper/crafting-addon/writ-price/writ-price.module.code.ts"
 import type {
   ColorString,

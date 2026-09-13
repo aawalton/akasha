@@ -12,7 +12,7 @@ import {
   readSeatTerminals,
 } from "akasha/code/editor/extension/modules/seat-terminals/seat-terminals.module.code.ts"
 import { PROCESS_ID_TIMEOUT_MS } from "akasha/code/editor/extension/modules/terminal-pids/terminal-pids.module.code.ts"
-import { readProcess } from "akasha/code/editor/extension/window-identity/window-identity.module.code.ts"
+import { readProcess } from "akasha/code/editor/extension/modules/window-identity/window-identity.module.code.ts"
 import * as vscode from "vscode"
 
 const FEATURE = "editor-layout"

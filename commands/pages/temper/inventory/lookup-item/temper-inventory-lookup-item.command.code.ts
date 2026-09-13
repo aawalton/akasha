@@ -26,7 +26,7 @@ import { parseItemLink } from "akasha/temper/items-core/modules/item-link-parser
 import { parseMotifBookName } from "akasha/temper/items-core/modules/motif-name-parser/motif-name-parser.module.code.ts"
 import { getRecipeResultId } from "akasha/temper/items-core/modules/recipe-result-id-lookup/recipe-result-id-lookup.module.code.ts"
 import { getScriptItemIdByName } from "akasha/temper/items-core/modules/script-knowledge-lookup/script-knowledge-lookup.module.code.ts"
-import { wholeNumberIn } from "akasha/utils/narrow/whole-number-in/whole-number-in.module.code.ts"
+import { wholeNumberIn } from "akasha/utils/narrow/modules/whole-number-in/whole-number-in.module.code.ts"
 
 const NAMED = [jsonArgument, inventoryPathArgument, itemArgument]
 

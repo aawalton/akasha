@@ -1,8 +1,8 @@
 import {
   ADDON_NAME,
   ADDON_VERSION,
-} from "akasha/temper/crafting-addon/writ-constants/writ-constants.module.code.ts"
-import { strOrKey as wwStr } from "akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts"
+} from "akasha/temper/crafting-addon/modules/writ-constants/writ-constants.module.code.ts"
+import { strOrKey as wwStr } from "akasha/temper/crafting-addon/modules/writ-i18n/writ-i18n.module.code.ts"
 import { registerPanel } from "akasha/temper/settings-panel/modules/register-panel/register-panel.module.code.ts"
 
 function savedVars(): TemperWritSavedVariables {

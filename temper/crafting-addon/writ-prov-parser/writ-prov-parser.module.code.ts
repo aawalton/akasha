@@ -1,6 +1,6 @@
-import { str } from "akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts"
-import { newKnow } from "akasha/temper/crafting-addon/writ-know/writ-know.module.code.ts"
-import { startNewEvent as logStartNewEvent } from "akasha/temper/crafting-addon/writ-log/writ-log.module.code.ts"
+import { str } from "akasha/temper/crafting-addon/modules/writ-i18n/writ-i18n.module.code.ts"
+import { newKnow } from "akasha/temper/crafting-addon/modules/writ-know/writ-know.module.code.ts"
+import { startNewEvent as logStartNewEvent } from "akasha/temper/crafting-addon/modules/writ-log/writ-log.module.code.ts"
 import {
   findRecipe,
   type Recipe,

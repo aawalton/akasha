@@ -9,7 +9,7 @@ import {
   tsconfigsIn,
   withoutStated,
 } from "akasha/alan/harness/workspace-paths/modules/tsconfig-references/tsconfig-references.module.code.ts"
-import { packageAt } from "akasha/alan/harness/workspace-paths/workspace-dirs/workspace-dirs.module.test-fixtures.ts"
+import { packageAt } from "akasha/alan/harness/workspace-paths/modules/workspace-dirs/workspace-dirs.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const SCRATCH = scratchWorld()
