@@ -80,6 +80,10 @@ function optBracketSaid(one: Bracket | undefined): string {
   return one === undefined ? "nil (pre-v3 trace)" : bracketSaid(one)
 }
 
+function nestedBracketSaid(one: Bracket | undefined): string {
+  return one === undefined ? "nil (pre-v6 trace)" : bracketSaid(one)
+}
+
 function settlingSaid(settling: Settling | undefined): readonly string[] {
   if (settling === undefined) {
     return ["settling: nil (v1 trace — bank once more to capture settling brackets)"]
@@ -96,8 +100,8 @@ function settlingSaid(settling: Settling | undefined): readonly string[] {
       `full-update ${optBracketSaid(settling.fullUpdate)}; ` +
       `scan-craft-bag ${optBracketSaid(settling.scanCraftBag)}`,
     crafting,
-    `  of that judging: build-facts ${optBracketSaid(settling.buildFacts)}; ` +
-      `walk-rules ${optBracketSaid(settling.walkRules)}`,
+    `  of that judging: build-facts ${nestedBracketSaid(settling.buildFacts)}; ` +
+      `walk-rules ${nestedBracketSaid(settling.walkRules)}`,
     `unattributed remainder: ${ms(settling.unattributedMs)}`,
   ]
 }
@@ -109,8 +113,8 @@ function handlerSaid(handler: Settling | undefined): readonly string[] {
   return [
     `in open handler: evaluateRules ${bracketSaid(handler.evaluateRules)}; ` +
       `bank-panel-refresh ${bracketSaid(handler.bankPanelRefresh)}`,
-    `  of that judging: build-facts ${optBracketSaid(handler.buildFacts)}; ` +
-      `walk-rules ${optBracketSaid(handler.walkRules)}`,
+    `  of that judging: build-facts ${nestedBracketSaid(handler.buildFacts)}; ` +
+      `walk-rules ${nestedBracketSaid(handler.walkRules)}`,
   ]
 }
 
