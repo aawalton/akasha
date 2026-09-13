@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0146180ITrustI2729455 = {
   position: 146,
   ownLength: 4379,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2729455/180-i-trust-i",
-  externalId: "2729455",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2729455",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2729455/180-i-trust-i",
+    },
+  ],
   publishedAt: "2025-11-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

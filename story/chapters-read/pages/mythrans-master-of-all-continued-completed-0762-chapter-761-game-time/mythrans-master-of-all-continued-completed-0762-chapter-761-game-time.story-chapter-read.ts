@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0762Chapter761GameTime = {
   ownLength: 3378,
   unit: "words",
   publishedAt: "2018-11-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/306677/chapter-761-game-time",
-  externalId: "306677",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "306677",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/306677/chapter-761-game-time",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

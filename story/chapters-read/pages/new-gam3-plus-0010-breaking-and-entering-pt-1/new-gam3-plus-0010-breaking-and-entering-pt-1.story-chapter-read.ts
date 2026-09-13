@@ -9,10 +9,14 @@ export const newGam3Plus0010BreakingAndEnteringPt1 = {
   position: 10,
   ownLength: 2663,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/1391044/breaking-and-entering-pt-1",
-  externalId: "1391044",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1391044",
+      externalLink:
+        "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/1391044/breaking-and-entering-pt-1",
+    },
+  ],
   publishedAt: "2023-10-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

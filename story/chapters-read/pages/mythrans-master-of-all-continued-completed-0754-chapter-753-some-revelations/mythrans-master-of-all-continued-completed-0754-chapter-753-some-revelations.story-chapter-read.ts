@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0754Chapter753SomeRevelations 
   ownLength: 3150,
   unit: "words",
   publishedAt: "2018-11-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/304290/chapter-753-some-revelations",
-  externalId: "304290",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "304290",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/304290/chapter-753-some-revelations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0198201IiNeathIi2778495 = {
   position: 198,
   ownLength: 3187,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2778495/201-ii-neath-ii",
-  externalId: "2778495",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2778495",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2778495/201-ii-neath-ii",
+    },
+  ],
   publishedAt: "2025-11-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

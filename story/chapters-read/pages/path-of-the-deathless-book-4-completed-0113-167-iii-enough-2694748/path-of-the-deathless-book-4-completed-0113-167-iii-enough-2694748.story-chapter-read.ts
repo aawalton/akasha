@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0113167IiiEnough2694748 = {
   position: 113,
   ownLength: 2466,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2694748/167-iii-enough",
-  externalId: "2694748",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2694748",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2694748/167-iii-enough",
+    },
+  ],
   publishedAt: "2025-10-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

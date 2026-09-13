@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0221212IiPacify2801351 = {
   position: 221,
   ownLength: 3103,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2801351/212-ii-pacify",
-  externalId: "2801351",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2801351",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2801351/212-ii-pacify",
+    },
+  ],
   publishedAt: "2025-11-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

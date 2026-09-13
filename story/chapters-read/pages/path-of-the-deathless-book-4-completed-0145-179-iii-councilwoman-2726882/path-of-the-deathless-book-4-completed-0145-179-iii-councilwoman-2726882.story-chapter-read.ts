@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0145179IiiCouncilwoman2726882 = {
   position: 145,
   ownLength: 2227,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2726882/179-iii-councilwoman",
-  externalId: "2726882",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2726882",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2726882/179-iii-councilwoman",
+    },
+  ],
   publishedAt: "2025-11-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

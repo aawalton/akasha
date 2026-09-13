@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed00033Festival2390677 = {
   position: 3,
   ownLength: 5219,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2390677/3-festival",
-  externalId: "2390677",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2390677",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2390677/3-festival",
+    },
+  ],
   publishedAt: "2025-06-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

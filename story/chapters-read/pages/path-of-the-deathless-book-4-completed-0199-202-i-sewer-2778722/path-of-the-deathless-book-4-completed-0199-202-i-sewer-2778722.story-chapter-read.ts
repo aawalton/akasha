@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0199202ISewer2778722 = {
   position: 199,
   ownLength: 2990,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2778722/202-i-sewer",
-  externalId: "2778722",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2778722",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2778722/202-i-sewer",
+    },
+  ],
   publishedAt: "2025-11-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0019127IiInfusion2616137 = {
   position: 19,
   ownLength: 2691,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2616137/127-ii-infusion",
-  externalId: "2616137",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2616137",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2616137/127-ii-infusion",
+    },
+  ],
   publishedAt: "2025-09-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

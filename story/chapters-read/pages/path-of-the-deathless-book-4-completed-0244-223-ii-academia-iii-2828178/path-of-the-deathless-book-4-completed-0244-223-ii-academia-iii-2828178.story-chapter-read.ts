@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0244223IiAcademiaIii2828178 = {
   position: 244,
   ownLength: 2890,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2828178/223-ii-academia-iii",
-  externalId: "2828178",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2828178",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2828178/223-ii-academia-iii",
+    },
+  ],
   publishedAt: "2025-12-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

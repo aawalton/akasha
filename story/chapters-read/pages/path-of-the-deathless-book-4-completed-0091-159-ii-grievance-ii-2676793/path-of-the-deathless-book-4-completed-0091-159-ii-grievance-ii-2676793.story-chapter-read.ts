@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0091159IiGrievanceIi2676793 = {
   position: 91,
   ownLength: 2317,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2676793/159-ii-grievance-ii",
-  externalId: "2676793",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2676793",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2676793/159-ii-grievance-ii",
+    },
+  ],
   publishedAt: "2025-10-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

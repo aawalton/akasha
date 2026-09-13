@@ -9,10 +9,14 @@ export const newGam3Plus0002NewFriendsAndOldBeginnings = {
   position: 2,
   ownLength: 4778,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/730100/new-friends-and-old-beginnings",
-  externalId: "730100",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "730100",
+      externalLink:
+        "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/730100/new-friends-and-old-beginnings",
+    },
+  ],
   publishedAt: "2021-08-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

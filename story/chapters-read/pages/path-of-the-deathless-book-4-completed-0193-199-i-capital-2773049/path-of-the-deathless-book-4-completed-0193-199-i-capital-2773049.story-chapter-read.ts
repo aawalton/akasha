@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0193199ICapital2773049 = {
   position: 193,
   ownLength: 2879,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2773049/199-i-capital",
-  externalId: "2773049",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2773049",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2773049/199-i-capital",
+    },
+  ],
   publishedAt: "2025-11-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

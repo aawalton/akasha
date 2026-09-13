@@ -10,10 +10,14 @@ export const passiveAggressiveReversePortalInvasionLitrpg0043CountdownToLitrpgCo
     position: 43,
     ownLength: 208,
     unit: "words",
-    source: "royal-road",
-    externalLink:
-      "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3616322/countdown-to-litrpg-con-officially-starts-progress",
-    externalId: "3616322",
+    externalIdentity: [
+      {
+        source: "royal-road",
+        externalId: "3616322",
+        externalLink:
+          "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3616322/countdown-to-litrpg-con-officially-starts-progress",
+      },
+    ],
     publishedAt: "2026-07-01",
     prose: "txt",
   } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const newGam3Plus0008FriendOrFoe = {
   position: 8,
   ownLength: 2478,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/1376270/friend-or-foe",
-  externalId: "1376270",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1376270",
+      externalLink:
+        "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/1376270/friend-or-foe",
+    },
+  ],
   publishedAt: "2023-10-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0062149ITrap2651995 = {
   position: 62,
   ownLength: 3349,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2651995/149-i-trap",
-  externalId: "2651995",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2651995",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2651995/149-i-trap",
+    },
+  ],
   publishedAt: "2025-10-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const newGam3Plus0004KeepMovingForward = {
   position: 4,
   ownLength: 2486,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/870523/keep-moving-forward",
-  externalId: "870523",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "870523",
+      externalLink:
+        "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/870523/keep-moving-forward",
+    },
+  ],
   publishedAt: "2022-03-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

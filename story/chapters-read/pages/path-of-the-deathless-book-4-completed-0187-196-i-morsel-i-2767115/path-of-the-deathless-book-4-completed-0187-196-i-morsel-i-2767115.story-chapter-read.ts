@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0187196IMorselI2767115 = {
   position: 187,
   ownLength: 2719,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2767115/196-i-morsel-i",
-  externalId: "2767115",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2767115",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2767115/196-i-morsel-i",
+    },
+  ],
   publishedAt: "2025-11-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

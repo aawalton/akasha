@@ -10,10 +10,14 @@ export const passiveAggressiveReversePortalInvasionLitrpg0027BriefInterruptionEx
     position: 27,
     ownLength: 233,
     unit: "words",
-    source: "royal-road",
-    externalLink:
-      "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3528195/brief-interruption-expanding-the-patreon-update",
-    externalId: "3528195",
+    externalIdentity: [
+      {
+        source: "royal-road",
+        externalId: "3528195",
+        externalLink:
+          "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3528195/brief-interruption-expanding-the-patreon-update",
+      },
+    ],
     publishedAt: "2026-06-12",
     prose: "txt",
   } as const satisfies StoryChapterRead

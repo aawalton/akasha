@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0211207IiAdmissionI2790414 = {
   position: 211,
   ownLength: 3081,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2790414/207-ii-admission-i",
-  externalId: "2790414",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2790414",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2790414/207-ii-admission-i",
+    },
+  ],
   publishedAt: "2025-11-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0165187IiUdraalIi2746752 = {
   position: 165,
   ownLength: 2355,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2746752/187-ii-udraal-ii",
-  externalId: "2746752",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2746752",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2746752/187-ii-udraal-ii",
+    },
+  ],
   publishedAt: "2025-11-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

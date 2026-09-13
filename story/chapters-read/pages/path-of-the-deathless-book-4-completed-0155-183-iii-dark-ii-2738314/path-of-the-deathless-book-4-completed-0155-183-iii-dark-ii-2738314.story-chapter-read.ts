@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0155183IiiDarkIi2738314 = {
   position: 155,
   ownLength: 2565,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2738314/183-iii-dark-ii",
-  externalId: "2738314",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2738314",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2738314/183-iii-dark-ii",
+    },
+  ],
   publishedAt: "2025-11-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

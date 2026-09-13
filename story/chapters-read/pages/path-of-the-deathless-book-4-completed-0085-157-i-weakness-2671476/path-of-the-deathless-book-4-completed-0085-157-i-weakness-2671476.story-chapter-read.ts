@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0085157IWeakness2671476 = {
   position: 85,
   ownLength: 2785,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2671476/157-i-weakness",
-  externalId: "2671476",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2671476",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2671476/157-i-weakness",
+    },
+  ],
   publishedAt: "2025-10-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const passiveAggressiveReversePortalInvasionLitrpg0023ThankYouAllKeepItCo
   position: 23,
   ownLength: 109,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3514064/thank-you-all-keep-it-coming",
-  externalId: "3514064",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3514064",
+      externalLink:
+        "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3514064/thank-you-all-keep-it-coming",
+    },
+  ],
   publishedAt: "2026-06-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

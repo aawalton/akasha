@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0064150IProvokeI2653964 = {
   position: 64,
   ownLength: 2392,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2653964/150-i-provoke-i",
-  externalId: "2653964",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2653964",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2653964/150-i-provoke-i",
+    },
+  ],
   publishedAt: "2025-10-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

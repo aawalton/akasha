@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0185195IShatterBook5Beginning276662
   position: 185,
   ownLength: 3109,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2766628/195-i-shatter-book-5-beginning",
-  externalId: "2766628",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2766628",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2766628/195-i-shatter-book-5-beginning",
+    },
+  ],
   publishedAt: "2025-11-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

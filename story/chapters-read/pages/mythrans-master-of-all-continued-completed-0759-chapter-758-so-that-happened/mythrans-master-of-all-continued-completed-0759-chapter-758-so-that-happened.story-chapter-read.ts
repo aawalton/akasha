@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0759Chapter758SoThatHappened =
   ownLength: 3255,
   unit: "words",
   publishedAt: "2018-11-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/305795/chapter-758-so-that-happened",
-  externalId: "305795",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "305795",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/305795/chapter-758-so-that-happened",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

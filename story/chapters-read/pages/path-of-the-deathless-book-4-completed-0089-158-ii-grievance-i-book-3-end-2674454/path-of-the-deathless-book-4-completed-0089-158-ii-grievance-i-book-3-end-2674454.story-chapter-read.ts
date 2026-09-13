@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0089158IiGrievanceIBook3End2674454 
   position: 89,
   ownLength: 3290,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2674454/158-ii-grievance-i-book-3-end",
-  externalId: "2674454",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2674454",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2674454/158-ii-grievance-i-book-3-end",
+    },
+  ],
   publishedAt: "2025-10-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

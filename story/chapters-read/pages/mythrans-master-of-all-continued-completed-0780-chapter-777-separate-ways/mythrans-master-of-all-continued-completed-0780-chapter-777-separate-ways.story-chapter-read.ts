@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0780Chapter777SeparateWays = {
   ownLength: 2900,
   unit: "words",
   publishedAt: "2018-11-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/310446/chapter-777-separate-ways",
-  externalId: "310446",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "310446",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/310446/chapter-777-separate-ways",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

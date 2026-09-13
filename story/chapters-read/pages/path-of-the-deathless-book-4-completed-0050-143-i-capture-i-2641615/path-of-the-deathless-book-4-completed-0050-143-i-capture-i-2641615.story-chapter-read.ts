@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0050143ICaptureI2641615 = {
   position: 50,
   ownLength: 2348,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2641615/143-i-capture-i",
-  externalId: "2641615",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2641615",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2641615/143-i-capture-i",
+    },
+  ],
   publishedAt: "2025-09-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

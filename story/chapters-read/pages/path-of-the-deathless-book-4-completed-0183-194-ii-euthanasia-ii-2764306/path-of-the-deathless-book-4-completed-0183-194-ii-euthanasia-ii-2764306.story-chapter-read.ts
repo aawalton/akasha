@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0183194IiEuthanasiaIi2764306 = {
   position: 183,
   ownLength: 2751,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2764306/194-ii-euthanasia-ii",
-  externalId: "2764306",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2764306",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2764306/194-ii-euthanasia-ii",
+    },
+  ],
   publishedAt: "2025-11-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

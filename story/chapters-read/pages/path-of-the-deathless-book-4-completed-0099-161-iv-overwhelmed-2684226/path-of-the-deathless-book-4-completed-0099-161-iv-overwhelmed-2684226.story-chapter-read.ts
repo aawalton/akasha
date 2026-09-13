@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0099161IvOverwhelmed2684226 = {
   position: 99,
   ownLength: 2305,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2684226/161-iv-overwhelmed",
-  externalId: "2684226",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2684226",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2684226/161-iv-overwhelmed",
+    },
+  ],
   publishedAt: "2025-10-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

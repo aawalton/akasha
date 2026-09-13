@@ -9,10 +9,14 @@ export const newGam3Plus0003QuestionsAndAnswers = {
   position: 3,
   ownLength: 2616,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/741703/questions-and-answers",
-  externalId: "741703",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "741703",
+      externalLink:
+        "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/741703/questions-and-answers",
+    },
+  ],
   publishedAt: "2021-08-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0070153IUnexpected2659143 = {
   position: 70,
   ownLength: 1855,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2659143/153-i-unexpected",
-  externalId: "2659143",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2659143",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2659143/153-i-unexpected",
+    },
+  ],
   publishedAt: "2025-10-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

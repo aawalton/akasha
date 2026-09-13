@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0751Chapter750PervarianProblem
   ownLength: 3973,
   unit: "words",
   publishedAt: "2018-11-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/303351/chapter-750-pervarian-problem",
-  externalId: "303351",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "303351",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/303351/chapter-750-pervarian-problem",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

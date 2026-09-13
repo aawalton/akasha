@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0782Chapter779RabbitReactions 
   ownLength: 3375,
   unit: "words",
   publishedAt: "2018-11-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/310966/chapter-779-rabbit-reactions",
-  externalId: "310966",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "310966",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/310966/chapter-779-rabbit-reactions",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

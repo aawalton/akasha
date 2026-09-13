@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0061148IiSkin2651812 = {
   position: 61,
   ownLength: 2785,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2651812/148-ii-skin",
-  externalId: "2651812",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2651812",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2651812/148-ii-skin",
+    },
+  ],
   publishedAt: "2025-10-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

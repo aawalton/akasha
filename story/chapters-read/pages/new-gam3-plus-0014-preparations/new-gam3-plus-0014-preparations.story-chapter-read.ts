@@ -9,10 +9,14 @@ export const newGam3Plus0014Preparations = {
   position: 14,
   ownLength: 2296,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/1424915/preparations",
-  externalId: "1424915",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1424915",
+      externalLink:
+        "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/1424915/preparations",
+    },
+  ],
   publishedAt: "2023-11-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

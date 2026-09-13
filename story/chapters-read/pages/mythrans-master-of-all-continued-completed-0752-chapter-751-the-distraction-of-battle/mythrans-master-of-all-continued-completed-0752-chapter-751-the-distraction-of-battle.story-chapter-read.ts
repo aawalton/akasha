@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0752Chapter751TheDistractionOf
   ownLength: 3013,
   unit: "words",
   publishedAt: "2018-11-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/303680/chapter-751-the-distraction-of-battle",
-  externalId: "303680",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "303680",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/303680/chapter-751-the-distraction-of-battle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

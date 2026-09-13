@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0252227IBorrow2839972 = {
   position: 252,
   ownLength: 2499,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2839972/227-i-borrow",
-  externalId: "2839972",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2839972",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2839972/227-i-borrow",
+    },
+  ],
   publishedAt: "2025-12-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

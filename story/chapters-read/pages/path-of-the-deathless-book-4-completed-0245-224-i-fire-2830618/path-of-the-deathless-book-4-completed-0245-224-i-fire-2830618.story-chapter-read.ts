@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0245224IFire2830618 = {
   position: 245,
   ownLength: 3133,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2830618/224-i-fire",
-  externalId: "2830618",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2830618",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2830618/224-i-fire",
+    },
+  ],
   publishedAt: "2025-12-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

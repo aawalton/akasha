@@ -9,10 +9,14 @@ export const newGam3Plus0007TheHallwayPt2 = {
   position: 7,
   ownLength: 4023,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/1083328/the-hallway-pt-2",
-  externalId: "1083328",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1083328",
+      externalLink:
+        "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/1083328/the-hallway-pt-2",
+    },
+  ],
   publishedAt: "2023-01-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

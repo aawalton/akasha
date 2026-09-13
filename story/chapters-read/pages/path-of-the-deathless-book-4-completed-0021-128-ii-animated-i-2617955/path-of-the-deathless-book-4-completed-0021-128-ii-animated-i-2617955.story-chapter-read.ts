@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0021128IiAnimatedI2617955 = {
   position: 21,
   ownLength: 2606,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2617955/128-ii-animated-i",
-  externalId: "2617955",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2617955",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2617955/128-ii-animated-i",
+    },
+  ],
   publishedAt: "2025-09-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

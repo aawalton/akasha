@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0114168ILegend2696894 = {
   position: 114,
   ownLength: 7875,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2696894/168-i-legend",
-  externalId: "2696894",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2696894",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2696894/168-i-legend",
+    },
+  ],
   publishedAt: "2025-10-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

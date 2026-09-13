@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0750Chapter749CaravanConclusio
   ownLength: 3187,
   unit: "words",
   publishedAt: "2018-11-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/302980/chapter-749-caravan-conclusion",
-  externalId: "302980",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "302980",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/302980/chapter-749-caravan-conclusion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

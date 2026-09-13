@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0034135IHelix2628990 = {
   position: 34,
   ownLength: 2693,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2628990/135-i-helix",
-  externalId: "2628990",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2628990",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2628990/135-i-helix",
+    },
+  ],
   publishedAt: "2025-09-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

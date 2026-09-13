@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0787Chapter784OldBen = {
   ownLength: 3682,
   unit: "words",
   publishedAt: "2018-12-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/312427/chapter-784-old-ben",
-  externalId: "312427",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "312427",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/312427/chapter-784-old-ben",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

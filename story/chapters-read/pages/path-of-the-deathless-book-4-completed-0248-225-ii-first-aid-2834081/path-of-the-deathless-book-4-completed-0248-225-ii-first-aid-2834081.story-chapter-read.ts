@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0248225IiFirstAid2834081 = {
   position: 248,
   ownLength: 2153,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2834081/225-ii-first-aid",
-  externalId: "2834081",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2834081",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2834081/225-ii-first-aid",
+    },
+  ],
   publishedAt: "2025-12-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

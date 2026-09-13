@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0175191IiBurden2756047 = {
   position: 175,
   ownLength: 3813,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2756047/191-ii-burden",
-  externalId: "2756047",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2756047",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2756047/191-ii-burden",
+    },
+  ],
   publishedAt: "2025-11-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

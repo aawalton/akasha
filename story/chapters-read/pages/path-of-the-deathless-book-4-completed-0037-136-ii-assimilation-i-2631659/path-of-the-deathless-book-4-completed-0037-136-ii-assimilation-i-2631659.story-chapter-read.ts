@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0037136IiAssimilationI2631659 = {
   position: 37,
   ownLength: 2988,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2631659/136-ii-assimilation-i",
-  externalId: "2631659",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2631659",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2631659/136-ii-assimilation-i",
+    },
+  ],
   publishedAt: "2025-09-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

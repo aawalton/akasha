@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0757Chapter756PublicRelations 
   ownLength: 3785,
   unit: "words",
   publishedAt: "2018-11-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/305183/chapter-756-public-relations",
-  externalId: "305183",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "305183",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/305183/chapter-756-public-relations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

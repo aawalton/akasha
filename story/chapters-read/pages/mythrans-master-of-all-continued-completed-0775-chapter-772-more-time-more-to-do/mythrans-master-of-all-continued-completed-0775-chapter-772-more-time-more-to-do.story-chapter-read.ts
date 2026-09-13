@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0775Chapter772MoreTimeMoreToDo
   ownLength: 4159,
   unit: "words",
   publishedAt: "2018-11-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/309294/chapter-772-more-time-more-to-do",
-  externalId: "309294",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "309294",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/309294/chapter-772-more-time-more-to-do",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

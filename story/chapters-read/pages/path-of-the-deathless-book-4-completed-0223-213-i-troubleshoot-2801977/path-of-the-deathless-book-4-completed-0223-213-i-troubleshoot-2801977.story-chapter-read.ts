@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0223213ITroubleshoot2801977 = {
   position: 223,
   ownLength: 3583,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2801977/213-i-troubleshoot",
-  externalId: "2801977",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2801977",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2801977/213-i-troubleshoot",
+    },
+  ],
   publishedAt: "2025-11-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0077155ITarrasque2664415 = {
   position: 77,
   ownLength: 2789,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2664415/155-i-tarrasque",
-  externalId: "2664415",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2664415",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2664415/155-i-tarrasque",
+    },
+  ],
   publishedAt: "2025-10-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

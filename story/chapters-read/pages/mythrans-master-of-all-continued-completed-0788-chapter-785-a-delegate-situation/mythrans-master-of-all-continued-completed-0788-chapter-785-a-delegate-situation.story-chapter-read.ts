@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0788Chapter785ADelegateSituati
   ownLength: 2942,
   unit: "words",
   publishedAt: "2018-12-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/312672/chapter-785-a-delegate-situation",
-  externalId: "312672",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "312672",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/312672/chapter-785-a-delegate-situation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0186195IiShatter2766933 = {
   position: 186,
   ownLength: 2676,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2766933/195-ii-shatter",
-  externalId: "2766933",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2766933",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2766933/195-ii-shatter",
+    },
+  ],
   publishedAt: "2025-11-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

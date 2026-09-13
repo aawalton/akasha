@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0030133IArmy2625958 = {
   position: 30,
   ownLength: 3018,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2625958/133-i-army",
-  externalId: "2625958",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2625958",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2625958/133-i-army",
+    },
+  ],
   publishedAt: "2025-09-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

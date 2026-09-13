@@ -9,10 +9,14 @@ export const newGam3Plus0001StartReEnterTheGame = {
   position: 1,
   ownLength: 1806,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/726594/start-re-enter-the-game",
-  externalId: "726594",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "726594",
+      externalLink:
+        "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/726594/start-re-enter-the-game",
+    },
+  ],
   publishedAt: "2021-08-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

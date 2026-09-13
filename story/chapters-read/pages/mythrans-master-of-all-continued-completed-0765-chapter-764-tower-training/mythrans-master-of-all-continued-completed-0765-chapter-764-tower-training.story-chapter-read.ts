@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0765Chapter764TowerTraining = 
   ownLength: 3219,
   unit: "words",
   publishedAt: "2018-11-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/307503/chapter-764-tower-training",
-  externalId: "307503",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "307503",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/307503/chapter-764-tower-training",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

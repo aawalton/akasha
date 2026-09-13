@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0258230IBreadI2848246 = {
   position: 258,
   ownLength: 4164,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2848246/230-i-bread-i",
-  externalId: "2848246",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2848246",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2848246/230-i-bread-i",
+    },
+  ],
   publishedAt: "2025-12-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

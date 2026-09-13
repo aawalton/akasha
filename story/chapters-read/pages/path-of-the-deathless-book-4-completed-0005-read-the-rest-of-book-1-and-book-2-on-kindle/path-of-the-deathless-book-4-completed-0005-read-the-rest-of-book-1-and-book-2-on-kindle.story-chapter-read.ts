@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0005ReadTheRestOfBook1AndBook2OnKin
   position: 5,
   ownLength: 107,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3171481/read-the-rest-of-book-1-and-book-2-on-kindle-unlimited",
-  externalId: "3171481",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3171481",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3171481/read-the-rest-of-book-1-and-book-2-on-kindle-unlimited",
+    },
+  ],
   publishedAt: "2026-03-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

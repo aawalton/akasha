@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0219211IiiCampusIi2798721 = {
   position: 219,
   ownLength: 2618,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2798721/211-iii-campus-ii",
-  externalId: "2798721",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2798721",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2798721/211-iii-campus-ii",
+    },
+  ],
   publishedAt: "2025-11-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

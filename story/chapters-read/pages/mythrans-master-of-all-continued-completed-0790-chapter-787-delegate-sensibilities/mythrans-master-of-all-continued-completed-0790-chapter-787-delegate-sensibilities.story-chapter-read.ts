@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0790Chapter787DelegateSensibil
   ownLength: 3077,
   unit: "words",
   publishedAt: "2018-12-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/312912/chapter-787-delegate-sensibilities",
-  externalId: "312912",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "312912",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/312912/chapter-787-delegate-sensibilities",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

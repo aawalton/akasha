@@ -10,10 +10,14 @@ export const passiveAggressiveReversePortalInvasionLitrpg0016InterruptingTheStor
     position: 16,
     ownLength: 179,
     unit: "words",
-    source: "royal-road",
-    externalLink:
-      "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3491474/interrupting-the-story-for-a-thank-you-note",
-    externalId: "3491474",
+    externalIdentity: [
+      {
+        source: "royal-road",
+        externalId: "3491474",
+        externalLink:
+          "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3491474/interrupting-the-story-for-a-thank-you-note",
+      },
+    ],
     publishedAt: "2026-06-04",
     prose: "txt",
   } as const satisfies StoryChapterRead

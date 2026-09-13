@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0237220ISlipgate2818991 = {
   position: 237,
   ownLength: 2759,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2818991/220-i-slipgate",
-  externalId: "2818991",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2818991",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2818991/220-i-slipgate",
+    },
+  ],
   publishedAt: "2025-12-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0785Chapter782RealStuffHappens
   ownLength: 3159,
   unit: "words",
   publishedAt: "2018-12-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/311865/chapter-782-real-stuff-happens",
-  externalId: "311865",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "311865",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/311865/chapter-782-real-stuff-happens",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

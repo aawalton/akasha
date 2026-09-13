@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0226214IiAdmittanceI2804463 = {
   position: 226,
   ownLength: 2569,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2804463/214-ii-admittance-i",
-  externalId: "2804463",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2804463",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2804463/214-ii-admittance-i",
+    },
+  ],
   publishedAt: "2025-11-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

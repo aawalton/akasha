@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0156184IRhetoricalI2738601 = {
   position: 156,
   ownLength: 2962,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2738601/184-i-rhetorical-i",
-  externalId: "2738601",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2738601",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2738601/184-i-rhetorical-i",
+    },
+  ],
   publishedAt: "2025-11-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

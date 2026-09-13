@@ -9,10 +9,14 @@ export const newGam3Plus0012HiddenEdits = {
   position: 12,
   ownLength: 2782,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/1408542/hidden-edits",
-  externalId: "1408542",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1408542",
+      externalLink:
+        "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/1408542/hidden-edits",
+    },
+  ],
   publishedAt: "2023-11-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

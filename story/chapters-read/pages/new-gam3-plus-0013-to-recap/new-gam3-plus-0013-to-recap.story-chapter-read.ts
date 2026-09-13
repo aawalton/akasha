@@ -9,9 +9,14 @@ export const newGam3Plus0013ToRecap = {
   position: 13,
   ownLength: 4731,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/1417042/to-recap",
-  externalId: "1417042",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1417042",
+      externalLink:
+        "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/1417042/to-recap",
+    },
+  ],
   publishedAt: "2023-11-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

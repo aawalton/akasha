@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0059147IiConfessions2649786 = {
   position: 59,
   ownLength: 2647,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2649786/147-ii-confessions",
-  externalId: "2649786",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2649786",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2649786/147-ii-confessions",
+    },
+  ],
   publishedAt: "2025-10-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

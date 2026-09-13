@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0783Chapter780RabbitPunches = 
   ownLength: 3177,
   unit: "words",
   publishedAt: "2018-12-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/311311/chapter-780-rabbit-punches",
-  externalId: "311311",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "311311",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/311311/chapter-780-rabbit-punches",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

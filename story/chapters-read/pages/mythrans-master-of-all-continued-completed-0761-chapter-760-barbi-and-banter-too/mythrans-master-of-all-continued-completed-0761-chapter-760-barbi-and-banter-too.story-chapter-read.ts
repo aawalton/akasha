@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0761Chapter760BarbiAndBanterTo
   ownLength: 2656,
   unit: "words",
   publishedAt: "2018-11-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/306394/chapter-760-barbi-and-banter-too",
-  externalId: "306394",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "306394",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/306394/chapter-760-barbi-and-banter-too",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0054145IEthics2646396 = {
   position: 54,
   ownLength: 2857,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2646396/145-i-ethics",
-  externalId: "2646396",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2646396",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2646396/145-i-ethics",
+    },
+  ],
   publishedAt: "2025-10-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0756Chapter755UnderstandingMor
   ownLength: 3029,
   unit: "words",
   publishedAt: "2018-11-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/304908/chapter-755-understanding-more",
-  externalId: "304908",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "304908",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/304908/chapter-755-understanding-more",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

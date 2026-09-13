@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0772Chapter770a1FourWayLearnin
   ownLength: 3448,
   unit: "words",
   publishedAt: "2018-11-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/309038/chapter-770a1-four-way-learning",
-  externalId: "309038",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "309038",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/309038/chapter-770a1-four-way-learning",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

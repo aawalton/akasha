@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0017126IiCompetition2613984 = {
   position: 17,
   ownLength: 2859,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2613984/126-ii-competition",
-  externalId: "2613984",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2613984",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2613984/126-ii-competition",
+    },
+  ],
   publishedAt: "2025-09-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

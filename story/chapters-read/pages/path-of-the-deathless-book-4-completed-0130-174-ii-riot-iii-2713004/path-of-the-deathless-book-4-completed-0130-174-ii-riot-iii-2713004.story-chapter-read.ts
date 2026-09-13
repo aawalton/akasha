@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0130174IiRiotIii2713004 = {
   position: 130,
   ownLength: 3251,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2713004/174-ii-riot-iii",
-  externalId: "2713004",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2713004",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2713004/174-ii-riot-iii",
+    },
+  ],
   publishedAt: "2025-10-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

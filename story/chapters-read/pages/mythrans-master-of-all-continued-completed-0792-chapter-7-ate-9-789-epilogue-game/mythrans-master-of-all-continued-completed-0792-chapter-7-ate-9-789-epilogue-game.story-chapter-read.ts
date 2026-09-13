@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0792Chapter7Ate9789EpilogueGam
   ownLength: 710,
   unit: "words",
   publishedAt: "2018-12-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/313304/chapter-7-ate-9-789-epilogue-game",
-  externalId: "313304",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "313304",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/313304/chapter-7-ate-9-789-epilogue-game",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

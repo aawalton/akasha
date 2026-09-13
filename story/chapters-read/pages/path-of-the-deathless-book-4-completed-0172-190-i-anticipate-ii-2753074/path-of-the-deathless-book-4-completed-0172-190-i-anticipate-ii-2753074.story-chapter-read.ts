@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0172190IAnticipateIi2753074 = {
   position: 172,
   ownLength: 3014,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2753074/190-i-anticipate-ii",
-  externalId: "2753074",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2753074",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2753074/190-i-anticipate-ii",
+    },
+  ],
   publishedAt: "2025-11-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

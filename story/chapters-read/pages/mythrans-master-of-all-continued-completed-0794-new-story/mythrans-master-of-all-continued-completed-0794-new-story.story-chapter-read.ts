@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0794NewStory = {
   ownLength: 248,
   unit: "words",
   publishedAt: "2018-12-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/317150/new-story",
-  externalId: "317150",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "317150",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/317150/new-story",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

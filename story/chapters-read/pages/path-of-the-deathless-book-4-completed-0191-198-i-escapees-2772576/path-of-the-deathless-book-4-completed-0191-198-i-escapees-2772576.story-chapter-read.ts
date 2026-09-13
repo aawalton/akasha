@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0191198IEscapees2772576 = {
   position: 191,
   ownLength: 3095,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2772576/198-i-escapees",
-  externalId: "2772576",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2772576",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2772576/198-i-escapees",
+    },
+  ],
   publishedAt: "2025-11-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

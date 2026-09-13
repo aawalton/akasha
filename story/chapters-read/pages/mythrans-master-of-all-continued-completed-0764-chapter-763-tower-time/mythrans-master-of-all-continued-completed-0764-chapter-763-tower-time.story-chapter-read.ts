@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0764Chapter763TowerTime = {
   ownLength: 3268,
   unit: "words",
   publishedAt: "2018-11-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/307241/chapter-763-tower-time",
-  externalId: "307241",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "307241",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/307241/chapter-763-tower-time",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

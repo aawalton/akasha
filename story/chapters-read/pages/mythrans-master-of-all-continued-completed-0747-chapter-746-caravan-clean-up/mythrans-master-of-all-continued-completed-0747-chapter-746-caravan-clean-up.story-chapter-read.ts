@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0747Chapter746CaravanCleanUp =
   ownLength: 2841,
   unit: "words",
   publishedAt: "2018-10-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/302132/chapter-746-caravan-clean-up",
-  externalId: "302132",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "302132",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/302132/chapter-746-caravan-clean-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

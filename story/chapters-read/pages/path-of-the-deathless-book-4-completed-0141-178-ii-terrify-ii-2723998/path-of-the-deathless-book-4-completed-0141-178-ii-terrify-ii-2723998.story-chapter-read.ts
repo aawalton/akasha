@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0141178IiTerrifyIi2723998 = {
   position: 141,
   ownLength: 2848,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2723998/178-ii-terrify-ii",
-  externalId: "2723998",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2723998",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2723998/178-ii-terrify-ii",
+    },
+  ],
   publishedAt: "2025-11-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

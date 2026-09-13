@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0778Chapter775CuddlingConfessi
   ownLength: 3218,
   unit: "words",
   publishedAt: "2018-11-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/310147/chapter-775-cuddling-confessions",
-  externalId: "310147",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "310147",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/310147/chapter-775-cuddling-confessions",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

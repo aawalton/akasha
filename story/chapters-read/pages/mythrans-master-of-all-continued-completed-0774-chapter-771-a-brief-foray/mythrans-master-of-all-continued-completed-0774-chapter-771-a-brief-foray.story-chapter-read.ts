@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0774Chapter771ABriefForay = {
   ownLength: 2738,
   unit: "words",
   publishedAt: "2018-11-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/309040/chapter-771-a-brief-foray",
-  externalId: "309040",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "309040",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/309040/chapter-771-a-brief-foray",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

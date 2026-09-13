@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0166188IDecider2746990 = {
   position: 166,
   ownLength: 3435,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2746990/188-i-decider",
-  externalId: "2746990",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2746990",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2746990/188-i-decider",
+    },
+  ],
   publishedAt: "2025-11-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

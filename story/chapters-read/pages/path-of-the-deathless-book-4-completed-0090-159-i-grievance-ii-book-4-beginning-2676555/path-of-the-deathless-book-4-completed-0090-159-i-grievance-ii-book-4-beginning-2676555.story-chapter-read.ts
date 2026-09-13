@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0090159IGrievanceIiBook4Beginning26
   position: 90,
   ownLength: 3032,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2676555/159-i-grievance-ii-book-4-beginning",
-  externalId: "2676555",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2676555",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2676555/159-i-grievance-ii-book-4-beginning",
+    },
+  ],
   publishedAt: "2025-10-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

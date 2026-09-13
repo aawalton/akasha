@@ -9,9 +9,13 @@ export const newGam3Plus0009Paths = {
   position: 9,
   ownLength: 2245,
   unit: "words",
-  source: "royal-road",
-  externalLink: "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/1383997/paths",
-  externalId: "1383997",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1383997",
+      externalLink: "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/1383997/paths",
+    },
+  ],
   publishedAt: "2023-10-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

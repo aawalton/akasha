@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0068152IUndercover2656769 = {
   position: 68,
   ownLength: 2727,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2656769/152-i-undercover",
-  externalId: "2656769",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2656769",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2656769/152-i-undercover",
+    },
+  ],
   publishedAt: "2025-10-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

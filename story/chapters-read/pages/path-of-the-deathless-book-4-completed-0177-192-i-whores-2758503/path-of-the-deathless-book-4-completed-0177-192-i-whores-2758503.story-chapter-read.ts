@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0177192IWhores2758503 = {
   position: 177,
   ownLength: 3354,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2758503/192-i-whores",
-  externalId: "2758503",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2758503",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2758503/192-i-whores",
+    },
+  ],
   publishedAt: "2025-11-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

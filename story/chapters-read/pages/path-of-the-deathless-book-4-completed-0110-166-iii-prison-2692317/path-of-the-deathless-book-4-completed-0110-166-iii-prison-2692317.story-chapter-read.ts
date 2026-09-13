@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0110166IiiPrison2692317 = {
   position: 110,
   ownLength: 1489,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2692317/166-iii-prison",
-  externalId: "2692317",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2692317",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2692317/166-iii-prison",
+    },
+  ],
   publishedAt: "2025-10-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

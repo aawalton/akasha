@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0771Chapter770SuccubiSubmissio
   ownLength: 3141,
   unit: "words",
   publishedAt: "2018-11-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/308747/chapter-770-succubi-submission",
-  externalId: "308747",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "308747",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/308747/chapter-770-succubi-submission",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

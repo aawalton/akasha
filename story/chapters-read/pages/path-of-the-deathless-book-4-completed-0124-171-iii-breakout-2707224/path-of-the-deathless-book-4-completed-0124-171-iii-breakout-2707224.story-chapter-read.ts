@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0124171IiiBreakout2707224 = {
   position: 124,
   ownLength: 2188,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2707224/171-iii-breakout",
-  externalId: "2707224",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2707224",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2707224/171-iii-breakout",
+    },
+  ],
   publishedAt: "2025-10-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

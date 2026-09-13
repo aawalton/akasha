@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0117169IiCell2702272 = {
   position: 117,
   ownLength: 2186,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2702272/169-ii-cell",
-  externalId: "2702272",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2702272",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2702272/169-ii-cell",
+    },
+  ],
   publishedAt: "2025-10-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

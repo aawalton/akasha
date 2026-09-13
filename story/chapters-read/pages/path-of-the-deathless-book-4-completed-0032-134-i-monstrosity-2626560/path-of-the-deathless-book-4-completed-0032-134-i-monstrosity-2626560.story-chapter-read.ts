@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0032134IMonstrosity2626560 = {
   position: 32,
   ownLength: 2377,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2626560/134-i-monstrosity",
-  externalId: "2626560",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2626560",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2626560/134-i-monstrosity",
+    },
+  ],
   publishedAt: "2025-09-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

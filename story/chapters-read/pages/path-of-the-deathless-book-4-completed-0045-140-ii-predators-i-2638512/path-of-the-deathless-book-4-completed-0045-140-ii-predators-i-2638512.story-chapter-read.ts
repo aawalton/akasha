@@ -9,10 +9,14 @@ export const pathOfTheDeathlessBook4Completed0045140IiPredatorsI2638512 = {
   position: 45,
   ownLength: 2543,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2638512/140-ii-predators-i",
-  externalId: "2638512",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2638512",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2638512/140-ii-predators-i",
+    },
+  ],
   publishedAt: "2025-09-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

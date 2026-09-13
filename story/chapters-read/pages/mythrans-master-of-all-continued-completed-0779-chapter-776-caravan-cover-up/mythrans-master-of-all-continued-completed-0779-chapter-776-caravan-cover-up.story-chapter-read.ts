@@ -10,9 +10,13 @@ export const mythransMasterOfAllContinuedCompleted0779Chapter776CaravanCoverUp =
   ownLength: 2965,
   unit: "words",
   publishedAt: "2018-11-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/310442/chapter-776-caravan-cover-up",
-  externalId: "310442",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "310442",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/310442/chapter-776-caravan-cover-up",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead
