@@ -25,8 +25,6 @@ export const HOLDING_FOLDER = `${MONARCH}/holdings/pages`
 export const CATEGORY_FOLDER = `${MONARCH}/categories/pages`
 export const ACCOUNT_FOLDER = `${MONARCH}/accounts/pages`
 export const TAG_FOLDER = `${MONARCH}/tags/pages`
-export const DIRECTION_FOLDER = `${MONARCH}/directions/pages`
-export const MERCHANT_FOLDER = `${MONARCH}/merchants/pages`
 
 export type TransactionLine = {
   readonly id: string
@@ -126,14 +124,6 @@ export async function holdingPages(): Promise<readonly PageFile[]> {
   return pagesOfType("monarch-holding")
 }
 
-export async function directionPages(): Promise<readonly PageFile[]> {
-  return pagesOfType("monarch-direction")
-}
-
-export async function merchantPages(): Promise<readonly PageFile[]> {
-  return pagesOfType("monarch-merchant")
-}
-
 export function monthOf(date: string): string {
   return `month-${date.slice(0, 7)}`
 }
@@ -214,16 +204,4 @@ export async function findTransaction(monarchId: string): Promise<PlacedLine | n
     if (line !== undefined) return { month: month.slug, line }
   }
   return null
-}
-
-export async function transactionsById(
-  ids: ReadonlySet<string>
-): Promise<ReadonlyMap<string, PlacedLine>> {
-  const held = new Map<string, PlacedLine>()
-  for (const month of await readMonths()) {
-    for (const line of month.transactions) {
-      if (ids.has(line.monarchId)) held.set(line.monarchId, { month: month.slug, line })
-    }
-  }
-  return held
 }

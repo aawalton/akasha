@@ -49,10 +49,6 @@ async function rowsOf(lines: readonly TransactionLine[]): Promise<readonly Histo
 
 const FAR_FUTURE = "9999-12-31"
 
-export async function countTransactions(): Promise<number> {
-  return (await readAllTransactions()).length
-}
-
 export async function readHistory(): Promise<readonly HistoryRow[]> {
   return rowsOf(await readAllTransactions())
 }
