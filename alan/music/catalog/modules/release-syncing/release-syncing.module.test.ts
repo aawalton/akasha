@@ -2,9 +2,13 @@ import { expect, test } from "bun:test"
 import { catalogueNamesFrom } from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
 import {
   artistValues,
+  dueIn,
   type Filed,
+  type Followed,
   publishedDayOf,
   releaseValues,
+  shareOf,
+  sweepingIn,
   taken,
   titleKey,
   unfiledIn,
@@ -220,4 +224,64 @@ test("a release of another artist under the same title is filed on its own", () 
 
 test("an artist and a title together name one filed release", () => {
   expect(titleKey("sylvia-daley", "Rubik's Cube")).toBe("sylvia-daley|rubik-s-cube")
+})
+
+function followed(slug: string, at: string | null): Followed {
+  return {
+    slug,
+    title: slug,
+    artistId: `sp-${slug}`,
+    was: {
+      slug,
+      externalIdentity:
+        at === null ? [] : [{ source: "spotify", externalId: `sp-${slug}`, lastSyncedAt: at }],
+    },
+  }
+}
+
+const SINCE = "2026-08-14"
+
+test("an artist swept inside the last thirty days is not due", () => {
+  expect(dueIn([followed("aurora", "2026-09-01")], SINCE)).toHaveLength(0)
+})
+
+test("an artist swept longer ago than that is due", () => {
+  expect(dueIn([followed("aurora", "2026-07-01")], SINCE).map((one) => one.slug)).toEqual([
+    "aurora",
+  ])
+})
+
+test("an artist no sweep has stamped is due before any artist a sweep has stamped", () => {
+  const every = [followed("aurora", "2026-07-01"), followed("emei", null)]
+  expect(dueIn(every, SINCE).map((one) => one.slug)).toEqual(["emei", "aurora"])
+})
+
+test("the artist swept longest ago is the artist swept first", () => {
+  const every = [followed("aurora", "2026-07-01"), followed("emei", "2026-01-01")]
+  expect(dueIn(every, SINCE).map((one) => one.slug)).toEqual(["emei", "aurora"])
+})
+
+test("one run takes a thirtieth of the artists followed, and at least one of them", () => {
+  expect(shareOf(42)).toBe(2)
+  expect(shareOf(30)).toBe(1)
+  expect(shareOf(1)).toBe(1)
+  expect(shareOf(0)).toBe(1)
+  expect(shareOf(60)).toBe(2)
+  expect(shareOf(61)).toBe(3)
+})
+
+test("a run takes only its share of the artists due", () => {
+  const every = [
+    followed("aurora", "2026-01-01"),
+    followed("emei", "2026-01-02"),
+    followed("enya", "2026-01-03"),
+  ]
+  const taking = sweepingIn(every, { only: null, limit: null, dryRun: false }, SINCE)
+  expect(taking.map((one) => one.slug)).toEqual(["aurora"])
+})
+
+test("an artist named outright is swept whether or not that artist is due", () => {
+  const every = [followed("aurora", "2026-09-01"), followed("emei", "2026-01-01")]
+  const taking = sweepingIn(every, { only: "aurora", limit: null, dryRun: false }, SINCE)
+  expect(taking.map((one) => one.slug)).toEqual(["aurora"])
 })

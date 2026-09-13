@@ -10,11 +10,31 @@ export const releaseSyncing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An artist Alan follows and Spotify names is swept.",
+      statement: "An artist Alan follows and Spotify names is swept once every thirty days.",
     },
     {
       invariantKind: "departure",
       statement: "An artist Alan does not follow is left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The artist swept longest ago is the artist swept first.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An artist no sweep has stamped is due before any artist a sweep has stamped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One run takes a thirtieth of the artists followed, and at least one of them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run finding no artist due sweeps nothing and is a run that succeeded.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An artist named outright is swept whether or not that artist is due.",
     },
     {
       invariantKind: "departure",

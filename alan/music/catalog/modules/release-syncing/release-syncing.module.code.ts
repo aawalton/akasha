@@ -1,6 +1,7 @@
 import {
   identitiesWith,
   idFrom,
+  syncedFrom,
 } from "akasha/alan/collections/externals/modules/external-identity-reading/external-identity-reading.module.code.ts"
 import {
   type CatalogueNames,
@@ -32,7 +33,10 @@ import {
 } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
 import type { Source } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 import { recordingRun } from "akasha/story/wandering-inn/modules/sync-run-recording/sync-run-recording.module.code.ts"
-import { todayYYYYMMDD } from "akasha/utils/sync/modules/today/today.module.code.ts"
+import {
+  daysAgoYYYYMMDD,
+  todayYYYYMMDD,
+} from "akasha/utils/sync/modules/today/today.module.code.ts"
 
 export const SOURCE = "spotify"
 
@@ -53,6 +57,8 @@ const DAY = "day"
 const IDENTITY = "externalIdentity"
 
 const SAID = "[spotify-sync]"
+
+export const DUE_AFTER_DAYS = 30
 
 export type Landing = (
   done: string[],
@@ -121,6 +127,27 @@ export function followedIn(root: string): readonly Followed[] {
     rows.push({ slug, title: textIn(one.value, "title") ?? slug, artistId, was: one.value })
   }
   return [...rows].sort((a, b) => (a.slug < b.slug ? -1 : a.slug > b.slug ? 1 : 0))
+}
+
+export function syncedAt(one: Followed): string | null {
+  return syncedFrom(one.was[IDENTITY], SOURCE)
+}
+
+export function dueIn(every: readonly Followed[], since: string): readonly Followed[] {
+  const due = every.filter((one) => {
+    const at = syncedAt(one)
+    return at === null || at < since
+  })
+  return [...due].sort((a, b) => {
+    const left = syncedAt(a) ?? ""
+    const right = syncedAt(b) ?? ""
+    if (left !== right) return left < right ? -1 : 1
+    return a.slug < b.slug ? -1 : a.slug > b.slug ? 1 : 0
+  })
+}
+
+export function shareOf(followed: number): number {
+  return Math.max(1, Math.ceil(followed / DUE_AFTER_DAYS))
 }
 
 export function titleKey(artistSlug: string, title: string): string {
@@ -235,12 +262,22 @@ function composedEdit(
   return { at: WRITE, given: { at: composed.put.path, body: composed.put.content } }
 }
 
+export function sweepingIn(
+  every: readonly Followed[],
+  held: Taken,
+  since: string
+): readonly Followed[] {
+  if (held.only !== null) return every.filter((one) => one.slug === held.only)
+  return dueIn(every, since).slice(0, shareOf(every.length))
+}
+
 export async function syncReleases(
   root: string,
   held: Taken,
   reach: Reach,
   landing: Landing | null,
-  today: string
+  today: string,
+  since: string
 ): Promise<Counts> {
   const every = followedIn(root)
   if (every.length === 0) {
@@ -248,8 +285,8 @@ export async function syncReleases(
       `no \`${ARTIST}\` is both followed and named by \`${SOURCE}\`, which no catalogue of Alan's is true of`
     )
   }
-  const sweeping = held.only === null ? every : every.filter((one) => one.slug === held.only)
-  if (sweeping.length === 0) {
+  const sweeping = sweepingIn(every, held, since)
+  if (held.only !== null && sweeping.length === 0) {
     throw new Error(`\`--only\` names \`${held.only}\`, and no followed artist is filed under it`)
   }
   const filed = filedIn(root)
@@ -310,10 +347,17 @@ export async function main(argv: readonly string[]): Promise<number> {
   const root = akashaRoot()
   const held = taken(argv)
   const running = (): Promise<Counts> =>
-    syncReleases(root, held, REACHING, held.dryRun ? null : landedMechanically, todayYYYYMMDD())
+    syncReleases(
+      root,
+      held,
+      REACHING,
+      held.dryRun ? null : landedMechanically,
+      todayYYYYMMDD(),
+      daysAgoYYYYMMDD(DUE_AFTER_DAYS)
+    )
   const counts = held.dryRun ? await running() : await recordingRun(SOURCE, running)
   console.log(
-    `${SAID} filed ${counts.created} · restamped ${counts.updated} · already filed ${counts.skipped} · failed ${counts.failed}`
+    `${SAID} swept ${counts.created + counts.updated + counts.skipped} release(s) · filed ${counts.created} · restamped ${counts.updated} · already filed ${counts.skipped} · failed ${counts.failed}`
   )
   return counts.failed > 0 ? 1 : 0
 }
