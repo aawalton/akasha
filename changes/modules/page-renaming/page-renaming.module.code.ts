@@ -33,6 +33,7 @@ import { manifestsIn } from "akasha/pages/indexes/modules/package-reaching/packa
 import type { Beside as Sidecar } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
 import { importingOf } from "akasha/pages/indexes/modules/path-naming/path-naming.module.code.ts"
 import type { Shaped } from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
+import { filesIn } from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
 import { namedAs, slugIn } from "akasha/pages/modules/address/page-address.module.code.ts"
 import { spellingsIn } from "akasha/pages/modules/export-name/modules/export-spelling/export-spelling.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
@@ -188,10 +189,9 @@ function pluralIn(world: World, held: Held): string {
   return "refused" in read ? "" : (read.held.said.get(PLURAL_SLUG) ?? "")
 }
 
-function ownsIn(world: World, held: Held, at: string, beside: readonly Beside[]): boolean {
+function ownsIn(files: readonly string[], held: Held, beside: readonly Beside[]): boolean {
   if (beside.length === 0) return false
   const opening = `${held.slug}.${held.pageTypeSlug}.`
-  const files = world.index.filesIn(dirname(at))
   return files.length > 0 && files.every((one) => basename(one).startsWith(opening))
 }
 
@@ -214,7 +214,7 @@ function foldedAs(world: World, held: Held, given: Asked, folder: string): strin
 function landingIn(world: World, held: Held, given: Asked, beside: readonly Beside[]): string {
   const name = `${given.to}.${held.pageTypeSlug}${TYPED}`
   const folder = dirname(given.at)
-  if (!ownsIn(world, held, given.at, beside)) return join(folder, name)
+  if (!ownsIn(filesIn(world.root, folder), held, beside)) return join(folder, name)
   return join(dirname(folder), foldedAs(world, held, given, folder), name)
 }
 
