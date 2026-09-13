@@ -10,7 +10,7 @@ export const rynRootFolderShape = {
     {
       statement: "The root akasha folder matches its folder shape.",
       workingMemory:
-        "The root may not hold 10 folders: seat-system, shell, smilingjenny, story, technology, testing-system, text, type, utils, verdict. Files sit there too, none allowed yet. Alan takes one at a time: `places` went under `alan/collections`, `required-reading` under `domains/context`, `roles` under `agents`. A move refuses where any page spells the folder's name in prose, so reword those first.\n",
+        "The root may not hold 10 folders: seat-system, shell, smilingjenny, story, technology, testing-system, text, type, utils, verdict. Files sit there too, none allowed yet. Alan takes one at a time: `places` went under `alan/collections`, `roles` under `agents`, `seat-system` under `agents/seats` with its domain folded into `page-type/seat`. `seat-system` holds only mortal subagent pages now and empties as they return. The names the root is allowed sit in `the-workspace-root.folder-shape.code.ts`.",
     },
   ],
   constraints: [
