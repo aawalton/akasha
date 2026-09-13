@@ -13,7 +13,7 @@ const PAGE_CHAT_SOURCE = "page-chat"
 
 const SMS_SOURCE_PREFIX = "sms:"
 
-export function smsWakeSource(handlerSeat: string): string {
+function smsWakeSource(handlerSeat: string): string {
   return `${SMS_SOURCE_PREFIX}${handlerSeat}`
 }
 
@@ -81,8 +81,6 @@ export const onDemandAgentSpecSchema = shape
 const STANDING_PERSONA_TOKEN_THRESHOLD = 150_000
 
 const PERSON_HANDLER_TOKEN_THRESHOLD = 150_000
-
-export const PERSON_HANDLER_IDLE_MS = 15 * 60 * 1000
 
 export function standingPersonaSpec(
   name: string,

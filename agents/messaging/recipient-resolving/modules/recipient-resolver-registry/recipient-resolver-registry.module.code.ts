@@ -9,7 +9,6 @@ import {
 import {
   type PersonHandlerIdentity,
   personHandlerSpec,
-  smsWakeSource,
   standingPersonaSpec,
 } from "akasha/agents/seats/observation/seat-turn/modules/wake-armed-specs/wake-armed-specs.module.code.ts"
 import {
@@ -77,15 +76,11 @@ const KI_HANDLER_SPEC: OnDemandAgentSpec = personHandlerSpec("amy", "ki", ROOT, 
     "Ki's owned content pages (books/anime/reviews), RLS-owned by her accountUserId",
 })
 
-export const KI_HANDLER_WAKE_SOURCE = smsWakeSource(KI_HANDLER_SPEC.name)
-
 const JENNY_HANDLER_SPEC: OnDemandAgentSpec = personHandlerSpec("claude", "jenny", ROOT, {
   owner: "atlas",
   stateAuthorityDetail:
     "Jenny's owned Atlas content pages (location/location-collection/collection), RLS-owned by her accountUserId",
 })
-
-export const JENNY_HANDLER_WAKE_SOURCE = smsWakeSource(JENNY_HANDLER_SPEC.name)
 
 const SMS_ENTRY_POINT_SPECS: readonly OnDemandAgentSpec[] = [KI_HANDLER_SPEC, JENNY_HANDLER_SPEC]
 
