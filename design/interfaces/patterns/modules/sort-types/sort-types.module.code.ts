@@ -10,3 +10,8 @@ export interface SortEntry<T extends string = string> {
   field: T
   direction: SortDirection
 }
+
+export interface GroupOption<T extends string = string> {
+  value: T
+  label: string
+}

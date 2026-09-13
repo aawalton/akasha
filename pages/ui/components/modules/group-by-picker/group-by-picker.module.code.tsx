@@ -2,9 +2,9 @@
 
 import { AddSortButton } from "akasha/design/interfaces/patterns/modules/add-sort-button/add-sort-button.module.code.tsx"
 import { FilterGroup } from "akasha/design/interfaces/patterns/modules/filter-group/filter-group.module.code.tsx"
-import type { GroupOption } from "akasha/design/interfaces/patterns/modules/group-button/group-button.module.code.tsx"
 import { SortableSortList } from "akasha/design/interfaces/patterns/modules/sort-group/sort-group.module.code.tsx"
 import type {
+  GroupOption,
   SortEntry,
   SortOption,
 } from "akasha/design/interfaces/patterns/modules/sort-types/sort-types.module.code.ts"

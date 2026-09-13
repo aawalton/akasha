@@ -1,5 +1,5 @@
-import type { GroupOption } from "akasha/design/interfaces/patterns/modules/group-button/group-button.module.code.tsx"
 import type {
+  GroupOption,
   SortEntry,
   SortOption,
 } from "akasha/design/interfaces/patterns/modules/sort-types/sort-types.module.code.ts"

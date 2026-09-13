@@ -1,9 +1,0 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
-
-export const groupButton = {
-  id: "01a05c69-c062-7dbf-a7f9-fc8cb1e8265a",
-  type: "module",
-  slug: "group-button",
-  definition: "the button choosing what a list is grouped by",
-  code: "tsx",
-} as const satisfies Module
