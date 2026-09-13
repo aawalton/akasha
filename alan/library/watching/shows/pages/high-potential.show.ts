@@ -12,6 +12,11 @@ export const highPotential = {
   unit: "minutes",
   status: "following",
   publishedAt: "2024-09-18",
-  externalLink: "https://trakt.tv/shows/high-potential",
-  lastSyncedAt: "2026-01-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/high-potential",
+      lastSyncedAt: "2026-01-02",
+    },
+  ],
 } as const satisfies Show

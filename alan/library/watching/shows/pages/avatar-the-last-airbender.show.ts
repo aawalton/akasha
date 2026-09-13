@@ -12,6 +12,11 @@ export const avatarTheLastAirbender = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2005-02-21",
-  externalLink: "https://trakt.tv/shows/avatar-the-last-airbender",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/avatar-the-last-airbender",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

@@ -13,6 +13,11 @@ export const studioC = {
   status: "following",
   rank: "C",
   publishedAt: "2012-10-07",
-  externalLink: "https://trakt.tv/shows/studio-c",
-  lastSyncedAt: "2026-01-20",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/studio-c",
+      lastSyncedAt: "2026-01-20",
+    },
+  ],
 } as const satisfies Show

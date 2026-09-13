@@ -12,6 +12,11 @@ export const lukeCage = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2016-09-30",
-  externalLink: "https://trakt.tv/shows/marvel-s-luke-cage",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/marvel-s-luke-cage",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

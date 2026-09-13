@@ -12,6 +12,11 @@ export const duneProphecy = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-11-18",
-  externalLink: "https://trakt.tv/shows/dune-prophecy",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/dune-prophecy",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

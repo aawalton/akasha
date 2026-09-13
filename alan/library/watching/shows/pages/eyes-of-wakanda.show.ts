@@ -12,6 +12,11 @@ export const eyesOfWakanda = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-08-01",
-  externalLink: "https://trakt.tv/shows/eyes-of-wakanda",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/eyes-of-wakanda",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

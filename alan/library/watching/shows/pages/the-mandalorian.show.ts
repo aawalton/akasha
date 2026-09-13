@@ -12,6 +12,11 @@ export const theMandalorian = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2019-11-12",
-  externalLink: "https://trakt.tv/shows/the-mandalorian",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/the-mandalorian",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

@@ -12,6 +12,11 @@ export const frankHerbertSChildrenOfDune = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2003-03-16",
-  externalLink: "https://trakt.tv/shows/frank-herbert-s-children-of-dune",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/frank-herbert-s-children-of-dune",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

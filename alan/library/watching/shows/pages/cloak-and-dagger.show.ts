@@ -12,6 +12,11 @@ export const cloakAndDagger = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-06-08",
-  externalLink: "https://trakt.tv/shows/marvel-s-cloak-dagger",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/marvel-s-cloak-dagger",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

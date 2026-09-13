@@ -12,6 +12,11 @@ export const helstrom = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-10-16",
-  externalLink: "https://trakt.tv/shows/helstrom",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/helstrom",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

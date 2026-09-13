@@ -13,6 +13,11 @@ export const wednesday = {
   status: "following",
   rank: "A",
   publishedAt: "2022-11-23",
-  externalLink: "https://trakt.tv/shows/wednesday",
-  lastSyncedAt: "2026-01-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/wednesday",
+      lastSyncedAt: "2026-01-02",
+    },
+  ],
 } as const satisfies Show

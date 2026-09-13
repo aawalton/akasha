@@ -12,6 +12,11 @@ export const personOfInterest = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2011-09-23",
-  externalLink: "https://trakt.tv/shows/person-of-interest",
-  lastSyncedAt: "2025-10-13",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/person-of-interest",
+      lastSyncedAt: "2025-10-13",
+    },
+  ],
 } as const satisfies Show

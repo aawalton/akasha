@@ -12,6 +12,11 @@ export const daredevilBornAgain = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-03-04",
-  externalLink: "https://trakt.tv/shows/daredevil-born-again",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/daredevil-born-again",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

@@ -12,7 +12,12 @@ export const evenGivenTheWorthlessAppraiserClassIMActuallyTheStrongest = {
   unit: "minutes",
   status: "archived",
   publishedAt: "2025-01-09",
-  externalLink:
-    "https://trakt.tv/shows/even-given-the-worthless-appraiser-class-i-m-actually-the-strongest",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink:
+        "https://trakt.tv/shows/even-given-the-worthless-appraiser-class-i-m-actually-the-strongest",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

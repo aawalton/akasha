@@ -13,6 +13,11 @@ export const swordArtOnlineAlternativeGunGaleOnline2 = {
   status: "completed",
   rank: "B",
   publishedAt: "2018-04-07",
-  externalLink: "https://trakt.tv/shows/sword-art-online-alternative-gun-gale-online",
-  lastSyncedAt: "2025-10-13",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/sword-art-online-alternative-gun-gale-online",
+      lastSyncedAt: "2025-10-13",
+    },
+  ],
 } as const satisfies Show

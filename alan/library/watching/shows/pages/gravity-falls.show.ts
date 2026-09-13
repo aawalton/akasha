@@ -12,6 +12,11 @@ export const gravityFalls = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2012-06-15",
-  externalLink: "https://trakt.tv/shows/gravity-falls",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/gravity-falls",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

@@ -12,6 +12,7 @@ export const castle = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2009-03-09",
-  externalLink: "https://trakt.tv/shows/castle",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    { source: "trakt", externalLink: "https://trakt.tv/shows/castle", lastSyncedAt: "2025-10-01" },
+  ],
 } as const satisfies Show

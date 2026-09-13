@@ -12,6 +12,11 @@ export const galactica1980 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1980-01-28",
-  externalLink: "https://trakt.tv/shows/galactica-1980",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/galactica-1980",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

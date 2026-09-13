@@ -12,6 +12,11 @@ export const secretInvasion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-06-21",
-  externalLink: "https://trakt.tv/shows/secret-invasion",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/secret-invasion",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

@@ -12,6 +12,11 @@ export const parksAndRecreation = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2009-04-10",
-  externalLink: "https://trakt.tv/shows/parks-and-recreation",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/parks-and-recreation",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

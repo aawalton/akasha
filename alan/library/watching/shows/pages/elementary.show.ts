@@ -12,6 +12,11 @@ export const elementary = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-09-28",
-  externalLink: "https://trakt.tv/shows/elementary",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/elementary",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

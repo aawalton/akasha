@@ -12,6 +12,11 @@ export const obiWanKenobi = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-05-26",
-  externalLink: "https://trakt.tv/shows/obi-wan-kenobi",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/obi-wan-kenobi",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

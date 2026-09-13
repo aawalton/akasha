@@ -12,6 +12,7 @@ export const eureka = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2006-07-18",
-  externalLink: "https://trakt.tv/shows/eureka",
-  lastSyncedAt: "2025-10-13",
+  externalIdentity: [
+    { source: "trakt", externalLink: "https://trakt.tv/shows/eureka", lastSyncedAt: "2025-10-13" },
+  ],
 } as const satisfies Show

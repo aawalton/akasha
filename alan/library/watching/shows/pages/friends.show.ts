@@ -12,6 +12,7 @@ export const friends = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1994-09-23",
-  externalLink: "https://trakt.tv/shows/friends",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    { source: "trakt", externalLink: "https://trakt.tv/shows/friends", lastSyncedAt: "2025-10-01" },
+  ],
 } as const satisfies Show

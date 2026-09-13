@@ -12,6 +12,11 @@ export const ncisSydney = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-11-10",
-  externalLink: "https://trakt.tv/shows/ncis-sydney",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/ncis-sydney",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

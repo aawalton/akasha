@@ -12,6 +12,11 @@ export const warehouse13 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2009-07-08",
-  externalLink: "https://trakt.tv/shows/warehouse-13",
-  lastSyncedAt: "2025-10-13",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/warehouse-13",
+      lastSyncedAt: "2025-10-13",
+    },
+  ],
 } as const satisfies Show

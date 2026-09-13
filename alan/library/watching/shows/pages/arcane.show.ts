@@ -13,6 +13,7 @@ export const arcane = {
   status: "following",
   rank: "S",
   publishedAt: "2021-11-06",
-  externalLink: "https://trakt.tv/shows/arcane",
-  lastSyncedAt: "2026-01-03",
+  externalIdentity: [
+    { source: "trakt", externalLink: "https://trakt.tv/shows/arcane", lastSyncedAt: "2026-01-03" },
+  ],
 } as const satisfies Show

@@ -12,6 +12,7 @@ export const caprica = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2010-01-23",
-  externalLink: "https://trakt.tv/shows/caprica",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    { source: "trakt", externalLink: "https://trakt.tv/shows/caprica", lastSyncedAt: "2025-10-01" },
+  ],
 } as const satisfies Show

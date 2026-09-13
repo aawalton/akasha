@@ -12,6 +12,7 @@ export const deptQ = {
   unit: "minutes",
   status: "following",
   publishedAt: "2025-05-29",
-  externalLink: "https://trakt.tv/shows/dept-q",
-  lastSyncedAt: "2026-01-02",
+  externalIdentity: [
+    { source: "trakt", externalLink: "https://trakt.tv/shows/dept-q", lastSyncedAt: "2026-01-02" },
+  ],
 } as const satisfies Show

@@ -12,6 +12,11 @@ export const girlsGutsGlory = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2017-05-04",
-  externalLink: "https://trakt.tv/shows/girls-guts-glory",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/girls-guts-glory",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

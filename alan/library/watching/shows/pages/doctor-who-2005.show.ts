@@ -12,6 +12,11 @@ export const doctorWho2005 = {
   unit: "minutes",
   status: "paused",
   publishedAt: "2005-03-26",
-  externalLink: "https://trakt.tv/shows/doctor-who-2005",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/doctor-who-2005",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

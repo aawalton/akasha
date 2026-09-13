@@ -12,6 +12,11 @@ export const agentCarter = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-01-07",
-  externalLink: "https://trakt.tv/shows/marvel-s-agent-carter",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/marvel-s-agent-carter",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

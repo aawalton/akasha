@@ -12,6 +12,7 @@ export const showClass = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2016-10-22",
-  externalLink: "https://trakt.tv/shows/class",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    { source: "trakt", externalLink: "https://trakt.tv/shows/class", lastSyncedAt: "2025-10-01" },
+  ],
 } as const satisfies Show

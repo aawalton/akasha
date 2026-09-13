@@ -12,6 +12,11 @@ export const theOffice = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2005-03-24",
-  externalLink: "https://trakt.tv/shows/the-office",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/the-office",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

@@ -12,6 +12,11 @@ export const skeletonCrew = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-12-03",
-  externalLink: "https://trakt.tv/shows/star-wars-skeleton-crew",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/star-wars-skeleton-crew",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

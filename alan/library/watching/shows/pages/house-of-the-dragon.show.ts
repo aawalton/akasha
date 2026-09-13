@@ -12,6 +12,11 @@ export const houseOfTheDragon = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-08-21",
-  externalLink: "https://trakt.tv/shows/house-of-the-dragon/seasons/all",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/house-of-the-dragon/seasons/all",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

@@ -12,6 +12,11 @@ export const ironheart = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-06-25",
-  externalLink: "https://trakt.tv/shows/ironheart",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/ironheart",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

@@ -12,6 +12,11 @@ export const hawkeye = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-24",
-  externalLink: "https://trakt.tv/shows/hawkeye-2021",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/hawkeye-2021",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

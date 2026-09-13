@@ -12,6 +12,11 @@ export const torchwood = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2006-10-22",
-  externalLink: "https://trakt.tv/shows/torchwood",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/torchwood",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

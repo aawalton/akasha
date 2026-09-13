@@ -12,6 +12,11 @@ export const gameOfThrones = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2011-04-17",
-  externalLink: "https://trakt.tv/shows/game-of-thrones",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/game-of-thrones",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

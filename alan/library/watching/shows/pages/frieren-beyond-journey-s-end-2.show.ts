@@ -13,6 +13,11 @@ export const frierenBeyondJourneySEnd2 = {
   status: "following",
   rank: "A",
   publishedAt: "2023-09-29",
-  externalLink: "https://trakt.tv/shows/frieren-beyond-journey-s-end",
-  lastSyncedAt: "2026-01-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/frieren-beyond-journey-s-end",
+      lastSyncedAt: "2026-01-02",
+    },
+  ],
 } as const satisfies Show

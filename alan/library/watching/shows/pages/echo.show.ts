@@ -12,6 +12,7 @@ export const echo = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-01-10",
-  externalLink: "https://trakt.tv/shows/echo",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    { source: "trakt", externalLink: "https://trakt.tv/shows/echo", lastSyncedAt: "2025-10-01" },
+  ],
 } as const satisfies Show

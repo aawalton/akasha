@@ -12,6 +12,11 @@ export const electricDreams = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2017-09-17",
-  externalLink: "https://trakt.tv/shows/philip-k-dick-s-electric-dreams",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/philip-k-dick-s-electric-dreams",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

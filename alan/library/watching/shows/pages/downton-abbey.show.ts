@@ -12,6 +12,11 @@ export const downtonAbbey = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2010-09-26",
-  externalLink: "https://trakt.tv/shows/downton-abbey",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/downton-abbey",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

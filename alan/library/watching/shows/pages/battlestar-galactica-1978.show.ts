@@ -12,6 +12,11 @@ export const battlestarGalactica1978 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1978-09-18",
-  externalLink: "https://trakt.tv/shows/battlestar-galactica",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/battlestar-galactica",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

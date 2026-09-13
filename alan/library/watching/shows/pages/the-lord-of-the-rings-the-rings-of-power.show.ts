@@ -12,6 +12,11 @@ export const theLordOfTheRingsTheRingsOfPower = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-09-01",
-  externalLink: "https://trakt.tv/shows/the-lord-of-the-rings-the-rings-of-power",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/the-lord-of-the-rings-the-rings-of-power",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

@@ -12,6 +12,11 @@ export const theAcolyte = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-06-05",
-  externalLink: "https://trakt.tv/shows/the-acolyte",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/the-acolyte",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

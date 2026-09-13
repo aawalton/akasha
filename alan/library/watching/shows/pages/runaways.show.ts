@@ -12,6 +12,11 @@ export const runaways = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2017-11-21",
-  externalLink: "https://trakt.tv/shows/marvel-s-runaways",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/marvel-s-runaways",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

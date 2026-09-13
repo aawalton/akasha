@@ -12,6 +12,11 @@ export const squidGame = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-09-17",
-  externalLink: "https://trakt.tv/shows/squid-game",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/squid-game",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

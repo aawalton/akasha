@@ -12,6 +12,11 @@ export const starTrekLowerDecks = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-08-06",
-  externalLink: "https://trakt.tv/shows/star-trek-lower-decks",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/star-trek-lower-decks",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Show

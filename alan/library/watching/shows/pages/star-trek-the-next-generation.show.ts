@@ -13,6 +13,11 @@ export const starTrekTheNextGeneration = {
   status: "paused",
   rank: "B",
   publishedAt: "1987-09-28",
-  externalLink: "https://trakt.tv/shows/star-trek-the-next-generation",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/star-trek-the-next-generation",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

@@ -12,6 +12,11 @@ export const msMarvel = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-06-08",
-  externalLink: "https://trakt.tv/shows/ms-marvel",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/ms-marvel",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

@@ -12,6 +12,11 @@ export const theWheelOfTimeOrigins = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-11-18",
-  externalLink: "https://trakt.tv/shows/the-wheel-of-time-origins",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/the-wheel-of-time-origins",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

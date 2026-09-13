@@ -12,6 +12,11 @@ export const theRookie = {
   unit: "minutes",
   status: "in-progress",
   publishedAt: "2018-10-17",
-  externalLink: "https://trakt.tv/shows/the-rookie-2018",
-  lastSyncedAt: "2025-11-13",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/the-rookie-2018",
+      lastSyncedAt: "2025-11-13",
+    },
+  ],
 } as const satisfies Show

@@ -12,6 +12,11 @@ export const cloneWars = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2003-11-07",
-  externalLink: "https://trakt.tv/shows/star-wars-clone-wars",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/star-wars-clone-wars",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

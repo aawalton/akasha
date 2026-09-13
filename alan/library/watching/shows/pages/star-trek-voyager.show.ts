@@ -12,6 +12,11 @@ export const starTrekVoyager = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1995-01-17",
-  externalLink: "https://trakt.tv/shows/star-trek-voyager",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/star-trek-voyager",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

@@ -12,6 +12,11 @@ export const andor = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-09-21",
-  externalLink: "https://trakt.tv/shows/star-wars-andor",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/star-wars-andor",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

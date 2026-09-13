@@ -12,6 +12,11 @@ export const starTrekProdigy = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-10-28",
-  externalLink: "https://trakt.tv/shows/star-trek-prodigy",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/star-trek-prodigy",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

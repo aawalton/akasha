@@ -12,6 +12,11 @@ export const wandavision = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-01-15",
-  externalLink: "https://trakt.tv/shows/wandavision",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/wandavision",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

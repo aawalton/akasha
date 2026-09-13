@@ -12,6 +12,11 @@ export const ncisHawaiI = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-09-20",
-  externalLink: "https://trakt.tv/shows/ncis-hawai-i",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/ncis-hawai-i",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

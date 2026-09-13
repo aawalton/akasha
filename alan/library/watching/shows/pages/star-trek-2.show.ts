@@ -13,6 +13,11 @@ export const starTrek2 = {
   status: "completed",
   rank: "B",
   publishedAt: "1966-09-08",
-  externalLink: "https://trakt.tv/shows/star-trek",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/star-trek",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Show

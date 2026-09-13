@@ -12,6 +12,11 @@ export const scorpion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-09-23",
-  externalLink: "https://trakt.tv/shows/scorpion",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/scorpion",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

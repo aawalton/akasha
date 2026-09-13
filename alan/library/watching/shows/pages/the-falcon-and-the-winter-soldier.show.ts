@@ -12,6 +12,11 @@ export const theFalconAndTheWinterSoldier = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-03-19",
-  externalLink: "https://trakt.tv/shows/the-falcon-and-the-winter-soldier",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/the-falcon-and-the-winter-soldier",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

@@ -12,6 +12,11 @@ export const agentsOfSHIELD = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-09-24",
-  externalLink: "https://trakt.tv/shows/marvel-s-agents-of-s-h-i-e-l-d",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/marvel-s-agents-of-s-h-i-e-l-d",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

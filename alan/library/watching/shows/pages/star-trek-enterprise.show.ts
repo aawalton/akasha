@@ -12,6 +12,11 @@ export const starTrekEnterprise = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2001-09-26",
-  externalLink: "https://trakt.tv/shows/star-trek-enterprise",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/star-trek-enterprise",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Show

@@ -12,6 +12,11 @@ export const sherlock = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2010-07-25",
-  externalLink: "https://trakt.tv/shows/sherlock",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/sherlock",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

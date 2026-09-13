@@ -12,6 +12,11 @@ export const starTrekDeepSpaceNine = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1993-01-03",
-  externalLink: "https://trakt.tv/shows/star-trek-deep-space-nine",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/star-trek-deep-space-nine",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Show

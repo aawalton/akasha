@@ -13,7 +13,12 @@ export const bogusSkillFruitmasterAboutThatTimeIBecameAbleToEatUnlimited2 = {
   unit: "minutes",
   status: "archived",
   publishedAt: "2025-01-07",
-  externalLink:
-    "https://trakt.tv/shows/bogus-skill-fruitmaster-about-that-time-i-became-able-to-eat-unlimited-numbers-of-skill-fruits-that-kill-you",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink:
+        "https://trakt.tv/shows/bogus-skill-fruitmaster-about-that-time-i-became-able-to-eat-unlimited-numbers-of-skill-fruits-that-kill-you",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

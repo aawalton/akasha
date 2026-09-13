@@ -12,6 +12,11 @@ export const moonKnight = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-03-30",
-  externalLink: "https://trakt.tv/shows/moon-knight",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/moon-knight",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

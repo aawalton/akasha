@@ -13,6 +13,11 @@ export const theChosen = {
   status: "not-started",
   rank: "S",
   publishedAt: "2019-04-21",
-  externalLink: "https://trakt.tv/shows/the-chosen",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/the-chosen",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

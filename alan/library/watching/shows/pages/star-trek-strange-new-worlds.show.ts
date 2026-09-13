@@ -12,6 +12,11 @@ export const starTrekStrangeNewWorlds = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-05-05",
-  externalLink: "https://trakt.tv/shows/star-trek-strange-new-worlds",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/star-trek-strange-new-worlds",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

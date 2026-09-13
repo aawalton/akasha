@@ -12,6 +12,7 @@ export const numb3rs = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2005-01-24",
-  externalLink: "https://trakt.tv/shows/numb3rs",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    { source: "trakt", externalLink: "https://trakt.tv/shows/numb3rs", lastSyncedAt: "2025-10-01" },
+  ],
 } as const satisfies Show

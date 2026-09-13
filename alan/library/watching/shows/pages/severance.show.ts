@@ -13,6 +13,11 @@ export const severance = {
   status: "following",
   rank: "A",
   publishedAt: "2022-02-18",
-  externalLink: "https://trakt.tv/shows/severance",
-  lastSyncedAt: "2026-01-03",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/severance",
+      lastSyncedAt: "2026-01-03",
+    },
+  ],
 } as const satisfies Show

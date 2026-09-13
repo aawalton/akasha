@@ -12,6 +12,11 @@ export const theSarahJaneAdventures = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2007-01-01",
-  externalLink: "https://trakt.tv/shows/the-sarah-jane-adventures",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/the-sarah-jane-adventures",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

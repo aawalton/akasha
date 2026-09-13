@@ -12,6 +12,11 @@ export const ncisLosAngeles = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2009-09-22",
-  externalLink: "https://trakt.tv/shows/ncis-los-angeles",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/ncis-los-angeles",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

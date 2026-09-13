@@ -12,6 +12,11 @@ export const theBookOfBobaFett = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-12-29",
-  externalLink: "https://trakt.tv/shows/the-book-of-boba-fett",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/the-book-of-boba-fett",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show

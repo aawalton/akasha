@@ -12,6 +12,11 @@ export const talesOfTheTardis = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-11-01",
-  externalLink: "https://trakt.tv/shows/tales-of-the-tardis",
-  lastSyncedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/tales-of-the-tardis",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
 } as const satisfies Show
