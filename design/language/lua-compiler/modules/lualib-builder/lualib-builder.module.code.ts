@@ -268,7 +268,7 @@ export interface BuiltLuaLib {
 const cache = new Map<LuaTarget, BuiltLuaLib>()
 
 function resolveLualibTsconfig(luaTarget: LuaTarget): string {
-  const lualibRoot = path.resolve(import.meta.dir, "..", "lualib")
+  const lualibRoot = path.resolve(import.meta.dir, "..", "..", "lualib")
   const configName = luaTarget === LuaTarget.Lua50 ? "tsconfig.lua50.json" : "tsconfig.json"
   return path.join(lualibRoot, configName)
 }

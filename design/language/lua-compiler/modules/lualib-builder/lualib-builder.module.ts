@@ -19,5 +19,9 @@ export const lualibBuilder = {
       invariantKind: "departure",
       statement: "An import of a file the pages replace resolves to the file taken instead.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The lualib sources sit beside the compiler rather than among its modules.",
+    },
   ],
 } as const satisfies Module
