@@ -32,6 +32,7 @@ export const codeCheck = {
     "code-check/id-is-a-uuid-version-7",
     "code-check/identifier-matches-its-place",
     "code-check/identifier-names-one-page",
+    "code-check/index-answers-are-level-with-the-change",
     "code-check/index-is-level-with-the-pages",
     "code-check/instant-property-slug-closes-with-at",
     "code-check/introduced-property-is-a-part",
