@@ -228,7 +228,7 @@ function buildControlledCharacterRules(
         },
       ],
       conditions: {
-        itemNamePattern: "experience",
+        itemNamePattern: "experience scroll",
         stolen: "not-stolen",
       },
       controlledBy: "automation",
