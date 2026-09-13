@@ -15,7 +15,6 @@ export const designInterfacesForms = {
     "module/form",
     "module/format-time",
     "module/inline-edit-keys",
-    "module/inline-editable-number",
     "module/inline-editable-text",
     "module/input-group",
     "module/input-otp",
