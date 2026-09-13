@@ -185,9 +185,6 @@ export type Changes = {
   "change-mechanical-file-content/change-file-content-page": Parameters<
     typeof import("akasha/changes/mechanical/file-content/change/change-file-content-page/change-file-content-page.change-mechanical-file-content.code.ts")["runChange"]
   >[1]
-  "change-mechanical-file-content/change-imports": Parameters<
-    typeof import("akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts")["runChange"]
-  >[1]
   "change-mechanical-file-content/change-page-page-property": Parameters<
     typeof import("akasha/changes/mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.code.ts")["runChange"]
   >[1]

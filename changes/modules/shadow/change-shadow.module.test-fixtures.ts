@@ -47,7 +47,7 @@ const MODULES = "node_modules"
 
 const CONFIG = "biome.json"
 
-const CHANGE_IMPORTS = "change-mechanical-file-content/change-imports"
+const CHANGE_IMPORTS = "change-mechanical-file-content/change-file-content"
 
 const PROPERTY_AT = "akasha/types.file-property.ts"
 

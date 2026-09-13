@@ -20,7 +20,7 @@ const MOVE_FILE_CODE: Address = "change-mechanical/move-file-code"
 
 const MOVE_FILE: Address = "change-mechanical-file/move-file"
 
-const CHANGE_IMPORTS: Address = "change-mechanical-file-content/change-imports"
+const REMOVE_FILE: Address = "change-mechanical-file/remove-file"
 
 const FRESH = "akasha/one/fresh.md"
 
@@ -52,7 +52,7 @@ test("a change reaching another change reaches it over the world handed in", asy
     to: KEPT,
   })
   expect(said.refused).toBeNull()
-  expect(new Set(seen)).toEqual(new Set([MOVE_FILE, CHANGE_IMPORTS]))
+  expect(new Set(seen)).toEqual(new Set([MOVE_FILE]))
 })
 
 test("a listing world records each address reached in order and states no edit", async () => {
@@ -60,7 +60,7 @@ test("a listing world records each address reached in order and states no edit",
   const reaching = listing(seen)
   const world = scratchWorld()
   const said = await reaching(world, MOVE_FILE, {})
-  await reaching(world, CHANGE_IMPORTS, {})
-  expect(seen).toEqual([MOVE_FILE, CHANGE_IMPORTS])
+  await reaching(world, REMOVE_FILE, {})
+  expect(seen).toEqual([MOVE_FILE, REMOVE_FILE])
   expect(said).toEqual({ edits: [], refused: null })
 })
