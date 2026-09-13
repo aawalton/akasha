@@ -15,6 +15,14 @@ export const aPageWithItsParts = {
     },
     {
       invariantKind: "departure",
+      statement: "That page is of a type that is no domain, since a domain has a shape of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No folder takes this shape and that one at once.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The folder's name is the name that page gives its folder.",
     },
     {

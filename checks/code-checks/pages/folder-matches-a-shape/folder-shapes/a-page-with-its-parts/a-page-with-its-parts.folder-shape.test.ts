@@ -70,6 +70,18 @@ test("a folder wanting a name no name can be worked out for is refused for wanti
   expect(said[0]).toContain("`temper-skill`")
 })
 
+test("a domain is refused, since a domain with its parts is a shape of its own", () => {
+  const held = folderFrom({
+    folder: "akasha/models",
+    pageTypes: PAGE_TYPES,
+    extending: (pageTypeSlug, wanted) => wanted === "domain" && pageTypeSlug === "domain",
+    naming: () => ({ name: "models" }),
+  })
+  const said = aPageWithItsParts(held(["models.domain.ts"]))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("is a domain")
+})
+
 test("a folder holding no page at all is refused", () => {
   const held = folderFrom({ folder: FOLDER, pageTypes: PAGE_TYPES })
   expect(aPageWithItsParts(held([]))).toEqual(["it holds no page of its own"])
