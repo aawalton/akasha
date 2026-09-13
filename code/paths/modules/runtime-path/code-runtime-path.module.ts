@@ -7,6 +7,7 @@ export const codeRuntimePath = {
   definition:
     "a body rewritten so the paths it builds off its own directory follow the files that moved",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
