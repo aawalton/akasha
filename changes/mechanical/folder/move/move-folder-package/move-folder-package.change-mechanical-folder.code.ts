@@ -1,6 +1,7 @@
 import { basename, dirname, join, relative } from "node:path"
 import { gathered, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { pageRenamed } from "akasha/changes/modules/page-renaming/page-renaming.module.code.ts"
 import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
@@ -14,8 +15,6 @@ const PLURAL_SLUG = "pluralSlug"
 const TS = "ts"
 
 const MOVE_FOLDER = "change-mechanical-folder/move-folder"
-
-const RENAME_FILE_PAGE = "change-mechanical/rename-file-page"
 
 export type Asked = {
   readonly at: string
@@ -49,10 +48,10 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   const carried = await reach(world, MOVE_FOLDER, { from, to: given.to })
   if (carried.said.refused !== null) return carried.said
   if (named === parted.slug) return carried.said
-  const said = await reach(carried.world, RENAME_FILE_PAGE, {
+  const said = pageRenamed(carried.world, {
     at: landingFor(given.at, from, given.to),
     to: named,
   })
-  if (said.said.refused !== null) return said.said
-  return gathered([carried.said, said.said])
+  if (said.refused !== null) return said
+  return gathered([carried.said, said])
 }

@@ -10,7 +10,20 @@ export const moveFolderPackage = {
   definition: "a workspace package moved to another folder, taking the slug that folder names",
   code: "ts",
   test: "ts",
+  guards: [
+    "change-guard/claimed-file-not-left-behind",
+    "change-guard/import-not-left-hanging",
+    "change-guard/slug-names-one-property",
+  ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The module renaming a page is called rather than reached through a rung.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The guards that rename is judged by are named here rather than inherited.",
+    },
     {
       invariantKind: "departure",
       statement: "A page that is no workspace package is refused.",
