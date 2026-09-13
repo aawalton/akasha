@@ -1,4 +1,6 @@
 import { messageNamed } from "akasha/agents/messaging/modules/message-naming/message-naming.module.code.ts"
+import { computeFingerprint } from "akasha/alan/harness/errors-core/modules/error-fingerprint/error-fingerprint.module.code.ts"
+import type { ErrorReport } from "akasha/alan/harness/errors-core/modules/error-report/error-report.module.code.ts"
 import {
   type DeviceSecretContext,
   resolveDeviceSecretContext,
@@ -9,6 +11,7 @@ import {
 } from "akasha/alan/web/modules/capacitor-cors/capacitor-cors.module.code.ts"
 import { pictureObjectKey } from "akasha/infrastructure/storage/object-store/modules/key/object-store-key.module.code.ts"
 import { seaweedFSObjectStoreFromEnv } from "akasha/infrastructure/storage/object-store/modules/seaweedfs-store/seaweedfs-store.module.code.ts"
+import { captureError } from "akasha/pages/access/modules/capture-error/capture-error.module.code.ts"
 import {
   askingFor,
   type Fetcher,
@@ -43,6 +46,10 @@ const SAID_FROM = "alanwalton-app"
 
 const ANNOUNCE = "announce"
 
+const REPORTED_APP = "alanwalton-native"
+
+const REPORTED_AT = "api/picture"
+
 export type Admitting = (request: Request) => Promise<DeviceSecretContext>
 
 export type Enrolling = (userId: string) => Promise<Enrolment>
@@ -51,11 +58,17 @@ export type Keeping = (id: string, bytes: Uint8Array<ArrayBuffer>) => Promise<vo
 
 export type Delivering = (to: string, body: string) => Promise<string | null>
 
+export type Recording = (why: string) => Promise<void>
+
+export type Detaching = (work: Promise<void>) => void
+
 export type PictureEffects = {
   readonly admit: Admitting
   readonly enrol: Enrolling
   readonly keep: Keeping | null
   readonly deliver: Delivering
+  readonly record: Recording
+  readonly detach: Detaching
   readonly now: () => Date
   readonly mint: () => string
 }
@@ -106,6 +119,56 @@ export async function deliverToSeat(
   return "refused" in wrote ? wrote.refused : null
 }
 
+export async function recordUnannounced(why: string): Promise<void> {
+  const report: ErrorReport = {
+    message: why,
+    stack: "",
+    kind: "error",
+    app: REPORTED_APP,
+    url: REPORTED_AT,
+    userAgent: REPORTED_AT,
+    errorUserId: null,
+  }
+  await captureError({
+    fingerprint: computeFingerprint(report),
+    message: report.message,
+    stack: report.stack,
+    kind: report.kind,
+    app: report.app,
+    url: report.url,
+    userAgent: report.userAgent,
+  })
+}
+
+export function unannouncedWhy(to: string, id: string, refused: string): string {
+  return (
+    `a picture was kept as ${id} for the ${to} seat and the message announcing it did not land, ` +
+    `so nothing has told that seat the picture is there — ${refused}. ` +
+    `\`akasha alan picture ${id}\` still brings the picture down.`
+  )
+}
+
+export async function announcePicture(
+  effects: Pick<PictureEffects, "deliver" | "record">,
+  to: string,
+  id: string,
+  body: string
+): Promise<void> {
+  let refused: string | null
+  try {
+    refused = await effects.deliver(to, body)
+  } catch (thrown) {
+    refused = saidBy(thrown)
+  }
+  if (refused === null) return
+  const why = unannouncedWhy(to, id, refused)
+  try {
+    await effects.record(why)
+  } catch (thrown) {
+    process.stderr.write(`[picture] ${why} — and recording that failed too: ${saidBy(thrown)}\n`)
+  }
+}
+
 function defaultEffects(): PictureEffects {
   const store = seaweedFSObjectStoreFromEnv()
   return {
@@ -113,6 +176,10 @@ function defaultEffects(): PictureEffects {
     enrol: (userId) => personSlugForAccount(userId),
     keep: store === null ? null : (id, bytes) => store.put(pictureObjectKey(id), bytes),
     deliver: (to, body) => deliverToSeat(to, body),
+    record: (why) => recordUnannounced(why),
+    detach: (work) => {
+      void work
+    },
     now: () => new Date(),
     mint: () => crypto.randomUUID(),
   }
@@ -171,7 +238,6 @@ export async function answerPicture(
       503
     )
   }
-  const refused = await effects.deliver(to, pictureBody(to, id, effects.now().toISOString()))
-  if (refused !== null) return answer({ ok: false, error: refused, id, retryable: true }, 503)
+  effects.detach(announcePicture(effects, to, id, pictureBody(to, id, effects.now().toISOString())))
   return answer({ ok: true, id, to }, 200)
 }

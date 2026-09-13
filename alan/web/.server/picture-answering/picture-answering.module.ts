@@ -22,6 +22,22 @@ export const pictureAnswering = {
     },
     {
       invariantKind: "departure",
+      statement: "The phone is answered as soon as the picture is kept.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The message telling the seat is written after that answer rather than before it.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "Writing a message page takes seconds and keeping the bytes takes milliseconds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A message that did not land is recorded as an error naming the picture's id.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The seat told is the one named for the person the device secret was minted to.",
     },
     {

@@ -1,10 +1,12 @@
 import { expect, test } from "bun:test"
 import {
+  announcePicture,
   answerPicture,
   answerPictureAsked,
   deliverToSeat,
   type PictureEffects,
   pictureBody,
+  unannouncedWhy,
 } from "akasha/alan/web/.server/picture-answering/picture-answering.module.code.ts"
 import type {
   Fetcher,
@@ -43,6 +45,8 @@ type Delivered = { readonly to: string; readonly body: string }
 function effectsWith(over: Partial<PictureEffects> = {}) {
   const kept: Kept[] = []
   const delivered: Delivered[] = []
+  const recorded: string[] = []
+  const detached: Promise<void>[] = []
   const effects: PictureEffects = {
     admit: async () => ({ outcome: "admitted", userId: ALAN_ACCOUNT }),
     enrol: async () => ({ ok: true, personSlug: "alan" }),
@@ -53,11 +57,20 @@ function effectsWith(over: Partial<PictureEffects> = {}) {
       delivered.push({ to, body })
       return null
     },
+    record: async (why) => {
+      recorded.push(why)
+    },
+    detach: (work) => {
+      detached.push(work)
+    },
     now: () => new Date(AT),
     mint: () => ID,
     ...over,
   }
-  return { effects, kept, delivered }
+  const settled = async (): Promise<void> => {
+    await Promise.all(detached)
+  }
+  return { effects, kept, delivered, recorded, settled }
 }
 
 test("a caller the device secrets refuse is refused", async () => {
@@ -114,15 +127,35 @@ test("an account no person states is refused", async () => {
 })
 
 test("the picture is kept under the minted id and the person's seat is told that id", async () => {
-  const { effects, kept, delivered } = effectsWith()
+  const { effects, kept, delivered, settled } = effectsWith()
   const answered = await answerPicture(asked(JPEG), effects)
   expect(answered.status).toBe(200)
   expect(await answered.json()).toEqual({ ok: true, id: ID, to: "alan" })
   expect(kept).toHaveLength(1)
   expect(kept[0]?.id).toBe(ID)
   expect(Array.from(kept[0]?.bytes ?? [])).toEqual(Array.from(JPEG))
+  await settled()
   expect(delivered).toEqual([{ to: "alan", body: pictureBody("alan", ID, AT) }])
   expect(delivered[0]?.body).toContain(`akasha alan picture ${ID}`)
+})
+
+test("the answer comes back before the message is written", async () => {
+  let release: () => void = () => {}
+  const held = new Promise<void>((settle) => {
+    release = settle
+  })
+  const { effects, kept, delivered, settled } = effectsWith({
+    deliver: async () => {
+      await held
+      return null
+    },
+  })
+  const answered = await answerPicture(asked(JPEG), effects)
+  expect(answered.status).toBe(200)
+  expect(kept).toHaveLength(1)
+  expect(delivered).toEqual([])
+  release()
+  await settled()
 })
 
 test("a picture the store would not keep tells nobody", async () => {
@@ -137,13 +170,66 @@ test("a picture the store would not keep tells nobody", async () => {
   expect(delivered).toEqual([])
 })
 
-test("a message the pages refused is answered as not delivered, naming the kept id", async () => {
-  const { effects } = effectsWith({ deliver: async () => "no seat holds the name `alan`" })
+test("a message the pages refused still answers the phone that the picture is kept", async () => {
+  const { effects, settled } = effectsWith({
+    deliver: async () => "no seat holds the name `alan`",
+  })
   const answered = await answerPicture(asked(JPEG), effects)
-  expect(answered.status).toBe(503)
-  const said = await answered.json()
-  expect(said.error).toContain("no seat holds")
-  expect(said.id).toBe(ID)
+  expect(answered.status).toBe(200)
+  expect(await answered.json()).toEqual({ ok: true, id: ID, to: "alan" })
+  await settled()
+})
+
+test("a message that did not land is recorded, naming the id and how to reach the picture", async () => {
+  const { effects, recorded, settled } = effectsWith({
+    deliver: async () => "no seat holds the name `alan`",
+  })
+  await answerPicture(asked(JPEG), effects)
+  await settled()
+  expect(recorded).toHaveLength(1)
+  expect(recorded[0]).toBe(unannouncedWhy("alan", ID, "no seat holds the name `alan`"))
+  expect(recorded[0]).toContain(ID)
+  expect(recorded[0]).toContain(`akasha alan picture ${ID}`)
+})
+
+test("a deliver that threw is recorded rather than lost", async () => {
+  const recorded: string[] = []
+  await announcePicture(
+    {
+      deliver: async () => {
+        throw new Error("the page store dropped the call")
+      },
+      record: async (why) => {
+        recorded.push(why)
+      },
+    },
+    "alan",
+    ID,
+    "a body"
+  )
+  expect(recorded[0]).toContain("the page store dropped the call")
+  expect(recorded[0]).toContain(ID)
+})
+
+test("a record that threw does not throw out of the announcement", async () => {
+  await announcePicture(
+    {
+      deliver: async () => "refused",
+      record: async () => {
+        throw new Error("the errors store is down too")
+      },
+    },
+    "alan",
+    ID,
+    "a body"
+  )
+})
+
+test("a message that landed records nothing", async () => {
+  const { effects, recorded, settled } = effectsWith()
+  await answerPicture(asked(JPEG), effects)
+  await settled()
+  expect(recorded).toEqual([])
 })
 
 test("an answer to the native shell carries the cross-origin headers that shell needs", async () => {
