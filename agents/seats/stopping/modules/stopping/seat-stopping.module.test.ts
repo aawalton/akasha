@@ -12,8 +12,12 @@ import {
   TAKE,
   took,
   type Working,
-} from "akasha/agents/seats/modules/stopping/seat-stopping.module.code.ts"
-import { seatEditsAt } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
+} from "akasha/agents/seats/stopping/modules/stopping/seat-stopping.module.code.ts"
+import {
+  CARRIED_AT,
+  LEFT_BY,
+  seatEditsAt,
+} from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
 import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
@@ -259,7 +263,11 @@ test("the seat keeps what moved beside its own page", () => {
   moving(givenIn(root), SEAT_AT, UNDER)
   const at = seatEditsAt(SEAT_AT)
   expect(at).toBe("agents/seats/pages/tester/tester.seat.subagent-edits.uncommitted.jsonl")
-  expect(readFileSync(join(root, at ?? ""), "utf8")).toBe(`${JSON.stringify(ROW)}\n`)
+  const kept = JSON.parse(readFileSync(join(root, at ?? ""), "utf8")) as Record<string, unknown>
+  expect(kept[LEFT_BY]).toBe("tester-abc")
+  expect(typeof kept[CARRIED_AT]).toBe("string")
+  expect(kept.kind).toBe(ROW.kind)
+  expect(kept.path).toBe(ROW.path)
   world.sweep()
 })
 

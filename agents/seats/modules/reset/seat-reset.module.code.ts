@@ -22,7 +22,10 @@ import {
   type Stated,
   statedOf,
 } from "akasha/agents/seats/modules/stated/seat-stated.module.code.ts"
-import { A_RESET, stopSeat } from "akasha/agents/seats/modules/stop-seat/stop-seat.module.code.ts"
+import {
+  A_RESET,
+  stopSeat,
+} from "akasha/agents/seats/stopping/modules/stop-seat/stop-seat.module.code.ts"
 import {
   dataError,
   inputError,

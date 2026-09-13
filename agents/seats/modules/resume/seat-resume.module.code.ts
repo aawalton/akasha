@@ -31,11 +31,11 @@ import {
   resumeAndVerify,
 } from "akasha/agents/seats/modules/resume-verify/resume-verify.module.code.ts"
 import type { ReviveIoVerdict } from "akasha/agents/seats/modules/revive-io-verify-decide/seat-revive-io-verify-decide.module.code.ts"
+import { parseWindowDuration } from "akasha/agents/seats/modules/window-duration/window-duration.module.code.ts"
 import {
   type TakenSeat,
   takeoverSeat,
-} from "akasha/agents/seats/modules/takeover-seat/takeover-seat.module.code.ts"
-import { parseWindowDuration } from "akasha/agents/seats/modules/window-duration/window-duration.module.code.ts"
+} from "akasha/agents/seats/stopping/modules/takeover-seat/takeover-seat.module.code.ts"
 import { decideSubagentGuard } from "akasha/agents/subagents/modules/guard/subagent-guard.module.code.ts"
 import { standingSubagentsOf } from "akasha/agents/subagents/modules/page/subagent-page.module.code.ts"
 import {
