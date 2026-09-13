@@ -19,6 +19,7 @@ import { valueIn } from "akasha/pages/modules/value/page-value.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 export type Shadow = {
+  readonly root: string
   readonly index: Answering
   readonly filed: () => ReadonlyMap<string, string | null>
   readonly refusals: () => readonly string[]
@@ -119,12 +120,14 @@ function codeOver(change: Change): (path: string) => string | null {
 }
 
 function shadowOver(
+  root: string,
   reading: Reading,
   bodyOf: (path: string) => Value | null,
   held: Remembered = remembered()
 ): Shadow {
   const pageOf = remembering(bodyOf, held.values)
   return {
+    root,
     index: answeringOver(reading, pageOf),
     filed: () => new Map(),
     refusals: () => [],
@@ -135,13 +138,13 @@ function shadowOver(
 
 export function shadowAt(root: string): Shadow {
   const reading = readingIn(root)
-  return shadowOver(reading, bodyOver(reading), remembered())
+  return shadowOver(root, reading, bodyOver(reading), remembered())
 }
 
 function castFrom(was: Reading, change: Change, held: Remembered): Cast {
   const body = bodyIn(change)
   if (nothingMoved(change)) {
-    return { shadow: shadowOver(was, body, held), reading: was }
+    return { shadow: shadowOver(change.root, was, body, held), reading: was }
   }
   const carried = new Set(change.changed)
   const beneath = bodyOver(was)
@@ -167,7 +170,15 @@ function castFrom(was: Reading, change: Change, held: Remembered): Cast {
     }
     const left = leftOver(settled.refusedBefore, settled.refused)
     const refusals = (): readonly string[] => left
-    return { shadow: { index, filed, refusals, pageOf, codeAt: codeOver(change) }, reading }
+    const shadow: Shadow = {
+      root: change.root,
+      index,
+      filed,
+      refusals,
+      pageOf,
+      codeAt: codeOver(change),
+    }
+    return { shadow, reading }
   } catch (thrown) {
     const why = thrown instanceof Error ? thrown.message : String(thrown)
     return { refused: `${NOT_WORKED_OUT} — ${why}` }
@@ -222,6 +233,7 @@ export function shadowAsked(change: Change): Shadow {
   }
   const pageOf = (path: string): Value | null => worked().shadow.pageOf(path)
   return {
+    root: change.root,
     index: answeringOver(reading, pageOf),
     filed: () => worked().shadow.filed(),
     refusals: () => worked().shadow.refusals(),

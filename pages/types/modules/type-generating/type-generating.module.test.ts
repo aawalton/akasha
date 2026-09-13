@@ -46,6 +46,7 @@ function shadowOf(pages: ReadonlyMap<string, Record<string, unknown>>): Shadow {
     everyOfType: () => [...pages.keys()].map((path) => ({ path, id: path })),
   } as never
   return {
+    root: ROOT,
     index,
     filed: () => new Map(),
     refusals: () => [],

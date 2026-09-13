@@ -101,6 +101,7 @@ export function counting(root: string, held: Shadow, asked: () => undefined): Sh
     read: (path) => base.read(path),
   }
   return {
+    root,
     index: answeringOver(reading, (path) => held.pageOf(path)),
     filed: () => held.filed(),
     refusals: () => held.refusals(),

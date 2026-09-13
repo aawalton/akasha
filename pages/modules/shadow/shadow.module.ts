@@ -11,6 +11,10 @@ export const shadow = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "A shadow says which checkout that shadow is cast over.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page the change has is read from the body the change has.",
     },
     {

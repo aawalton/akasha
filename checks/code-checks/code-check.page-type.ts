@@ -164,15 +164,15 @@ export const codeCheck = {
     },
     {
       invariantKind: "departure",
-      statement: "A check asks the index for paths the check cannot name.",
+      statement: "A check reads the checkout for the paths that check cannot name.",
     },
     {
-      invariantKind: "stopgap",
-      statement: "A check looks for no files.",
+      invariantKind: "departure",
+      statement: "A check listing a folder lists the folder on disk.",
     },
     {
-      invariantKind: "upkeep",
-      statement: "A check reaching for the tree does not land.",
+      invariantKind: "departure",
+      statement: "A check reads the tree through the module that reads trees.",
     },
   ],
   directives: [

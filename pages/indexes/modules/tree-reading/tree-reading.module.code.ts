@@ -1,4 +1,4 @@
-import { readdirSync } from "node:fs"
+import { type Dirent, readdirSync } from "node:fs"
 import { join } from "node:path"
 import { INDEX_AT } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import {
@@ -32,6 +32,33 @@ export function walkedUnder(
   }
   walk(at)
   return found
+}
+
+function sittingIn(root: string, folder: string): readonly Dirent[] {
+  try {
+    return readdirSync(join(root, folder), { withFileTypes: true })
+  } catch {
+    return []
+  }
+}
+
+export function filesIn(root: string, folder: string): readonly string[] {
+  return sittingIn(root, folder)
+    .filter((one) => !one.isDirectory())
+    .map((one) => join(folder, one.name))
+    .sort()
+}
+
+function leftOut(folder: string, name: string): boolean {
+  if (UNWALKED.has(name) || name.endsWith(LOCK)) return true
+  return folder === "" && name === QUARANTINE_ROOT
+}
+
+export function foldersIn(root: string, folder: string): readonly string[] {
+  return sittingIn(root, folder)
+    .filter((one) => one.isDirectory() && !leftOut(folder, one.name))
+    .map((one) => join(folder, one.name))
+    .sort()
 }
 
 export function pagesUnder(tree: string): readonly string[] {

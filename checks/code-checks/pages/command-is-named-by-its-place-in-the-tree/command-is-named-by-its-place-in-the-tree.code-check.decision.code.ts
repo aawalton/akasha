@@ -1,5 +1,9 @@
 import { dirname } from "node:path"
 import { filedById, namesIn } from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
+import {
+  filesIn,
+  foldersIn,
+} from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
 import { namedUnder, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
@@ -221,13 +225,13 @@ function treeIn(shadow: Shadow, kinds: Kinds): Tree {
   while (left.length > 0) {
     const folder = left.pop()
     if (folder === undefined) continue
-    for (const file of shadow.index.filesIn(folder)) {
+    for (const file of filesIn(shadow.root, folder)) {
       const one = namedAt(file, kinds)
       if (one === null) continue
       if (one.module) modules.push(file)
       else levels.add(folder)
     }
-    left.push(...shadow.index.foldersIn(folder))
+    left.push(...foldersIn(shadow.root, folder))
   }
   return { levels, modules: modules.sort() }
 }
@@ -243,7 +247,7 @@ export function treeUnder(shadow: Shadow, kinds: Kinds): Tree {
 function reachingOver(shadow: Shadow): (folder: string) => readonly string[] {
   return (folder) => {
     const found = new Set<string>()
-    for (const file of shadow.index.filesIn(folder)) {
+    for (const file of filesIn(shadow.root, folder)) {
       for (const one of shadow.index.importersOf(file)) {
         if (one.startsWith(`${folder}/`) || !one.startsWith(`${PAGES_AT}/`)) continue
         found.add(dirname(one))
