@@ -12,6 +12,11 @@ export const starTrekDiscoverySeason3 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-10-15",
-  externalLink: "https://trakt.tv/shows/star-trek-discovery/seasons/3",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/star-trek-discovery/seasons/3",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

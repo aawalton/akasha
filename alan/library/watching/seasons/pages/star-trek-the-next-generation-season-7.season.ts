@@ -12,6 +12,11 @@ export const starTrekTheNextGenerationSeason7 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1993-09-21",
-  externalLink: "https://trakt.tv/shows/star-trek-the-next-generation/seasons/7",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/star-trek-the-next-generation/seasons/7",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

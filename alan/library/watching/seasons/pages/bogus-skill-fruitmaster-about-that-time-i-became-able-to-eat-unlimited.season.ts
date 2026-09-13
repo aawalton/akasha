@@ -14,7 +14,12 @@ export const bogusSkillFruitmasterAboutThatTimeIBecameAbleToEatUnlimited = {
   status: "completed",
   rank: "C",
   publishedAt: "2025-01-07",
-  externalLink:
-    "https://trakt.tv/shows/bogus-skill-fruitmaster-about-that-time-i-became-able-to-eat-unlimited-numbers-of-skill-fruits-that-kill-you/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink:
+        "https://trakt.tv/shows/bogus-skill-fruitmaster-about-that-time-i-became-able-to-eat-unlimited-numbers-of-skill-fruits-that-kill-you/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

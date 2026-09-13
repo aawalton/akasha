@@ -12,6 +12,11 @@ export const onePieceSeason14 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2011-11-13",
-  externalLink: "https://trakt.tv/shows/one-piece/seasons/14",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/one-piece/seasons/14",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

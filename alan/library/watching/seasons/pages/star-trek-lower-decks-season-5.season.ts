@@ -12,6 +12,11 @@ export const starTrekLowerDecksSeason5 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-10-24",
-  externalLink: "https://trakt.tv/shows/star-trek-lower-decks/seasons/5",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/star-trek-lower-decks/seasons/5",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

@@ -12,6 +12,11 @@ export const starTrekVoyagerSeason3 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1996-09-05",
-  externalLink: "https://trakt.tv/shows/star-trek-voyager/seasons/3",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/star-trek-voyager/seasons/3",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

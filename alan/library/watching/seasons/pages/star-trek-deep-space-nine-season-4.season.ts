@@ -12,6 +12,11 @@ export const starTrekDeepSpaceNineSeason4 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1995-10-02",
-  externalLink: "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/4",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/4",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

@@ -13,6 +13,11 @@ export const severanceSeason1 = {
   status: "completed",
   rank: "A",
   publishedAt: "2022-02-18",
-  externalLink: "https://trakt.tv/shows/severance/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/severance/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

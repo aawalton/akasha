@@ -12,6 +12,11 @@ export const starTrekStrangeNewWorldsSeason3 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2025-07-17",
-  externalLink: "https://trakt.tv/shows/star-trek-strange-new-worlds/seasons/3",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/star-trek-strange-new-worlds/seasons/3",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

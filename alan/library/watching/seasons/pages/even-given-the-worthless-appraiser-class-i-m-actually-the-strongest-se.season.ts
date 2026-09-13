@@ -13,7 +13,12 @@ export const evenGivenTheWorthlessAppraiserClassIMActuallyTheStrongestSe = {
   status: "completed",
   rank: "C",
   publishedAt: "2025-01-09",
-  externalLink:
-    "https://trakt.tv/shows/even-given-the-worthless-appraiser-class-i-m-actually-the-strongest/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink:
+        "https://trakt.tv/shows/even-given-the-worthless-appraiser-class-i-m-actually-the-strongest/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

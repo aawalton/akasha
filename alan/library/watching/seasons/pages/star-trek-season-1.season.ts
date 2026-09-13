@@ -13,6 +13,11 @@ export const starTrekSeason1 = {
   status: "completed",
   rank: "B",
   publishedAt: "1966-09-09",
-  externalLink: "https://trakt.tv/shows/star-trek/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/star-trek/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

@@ -12,6 +12,11 @@ export const lokiSeason2 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-10-06",
-  externalLink: "https://trakt.tv/shows/loki/seasons/2",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/loki/seasons/2",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

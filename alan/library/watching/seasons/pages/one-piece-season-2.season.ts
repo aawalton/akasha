@@ -13,6 +13,11 @@ export const onePieceSeason2 = {
   status: "paused",
   rank: "B",
   publishedAt: "2001-03-21",
-  externalLink: "https://trakt.tv/shows/one-piece/seasons/2",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/one-piece/seasons/2",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

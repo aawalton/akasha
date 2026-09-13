@@ -13,6 +13,11 @@ export const swordArtOnlineAlicizationWarOfUnderworldSeason4 = {
   status: "completed",
   rank: "B",
   publishedAt: "2019-10-12",
-  externalLink: "https://trakt.tv/shows/sword-art-online/seasons/4",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/sword-art-online/seasons/4",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

@@ -12,6 +12,11 @@ export const whatIfSeason1 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-08-11",
-  externalLink: "https://trakt.tv/shows/what-if-2021/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/what-if-2021/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

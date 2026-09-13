@@ -13,6 +13,11 @@ export const starTrekTheNextGenerationSeason4 = {
   status: "completed",
   rank: "B",
   publishedAt: "1990-09-25",
-  externalLink: "https://trakt.tv/shows/star-trek-the-next-generation/seasons/4",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/star-trek-the-next-generation/seasons/4",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

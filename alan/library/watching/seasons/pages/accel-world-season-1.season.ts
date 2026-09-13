@@ -13,6 +13,11 @@ export const accelWorldSeason1 = {
   status: "completed",
   rank: "B",
   publishedAt: "2012-04-06",
-  externalLink: "https://trakt.tv/shows/accel-world/seasons/1",
-  lastSyncedAt: "2025-10-13",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/accel-world/seasons/1",
+      lastSyncedAt: "2025-10-13",
+    },
+  ],
 } as const satisfies Season

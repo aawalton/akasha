@@ -13,6 +13,11 @@ export const swordArtOnlineSeason1 = {
   status: "completed",
   rank: "A",
   publishedAt: "2012-07-07",
-  externalLink: "https://trakt.tv/shows/sword-art-online/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/sword-art-online/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

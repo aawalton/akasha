@@ -13,6 +13,11 @@ export const starTrekSeason3 = {
   status: "completed",
   rank: "B",
   publishedAt: "1968-09-21",
-  externalLink: "https://trakt.tv/shows/star-trek/seasons/3",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/star-trek/seasons/3",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

@@ -13,6 +13,11 @@ export const arcaneSeason2 = {
   status: "completed",
   rank: "A",
   publishedAt: "2024-11-09",
-  externalLink: "https://trakt.tv/shows/arcane/seasons/2",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/arcane/seasons/2",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

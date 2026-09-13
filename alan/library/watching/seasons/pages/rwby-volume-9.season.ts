@@ -12,6 +12,11 @@ export const rwbyVolume9 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-02-18",
-  externalLink: "https://trakt.tv/shows/rwby/seasons/9",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/rwby/seasons/9",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

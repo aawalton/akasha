@@ -12,6 +12,11 @@ export const starTrekTheNextGenerationSeason6 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1992-09-22",
-  externalLink: "https://trakt.tv/shows/star-trek-the-next-generation/seasons/6",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/star-trek-the-next-generation/seasons/6",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

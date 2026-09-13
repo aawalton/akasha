@@ -13,6 +13,11 @@ export const starTrekTheNextGenerationSeason2 = {
   status: "completed",
   rank: "B",
   publishedAt: "1988-11-22",
-  externalLink: "https://trakt.tv/shows/star-trek-the-next-generation/seasons/2",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/star-trek-the-next-generation/seasons/2",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

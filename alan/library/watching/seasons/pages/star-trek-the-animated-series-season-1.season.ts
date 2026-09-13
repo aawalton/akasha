@@ -13,6 +13,11 @@ export const starTrekTheAnimatedSeriesSeason1 = {
   status: "completed",
   rank: "C",
   publishedAt: "1973-09-08",
-  externalLink: "https://trakt.tv/shows/star-trek-the-animated-series/seasons/1",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/star-trek-the-animated-series/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

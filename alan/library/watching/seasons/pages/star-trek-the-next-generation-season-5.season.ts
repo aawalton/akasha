@@ -12,6 +12,11 @@ export const starTrekTheNextGenerationSeason5 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1991-09-24",
-  externalLink: "https://trakt.tv/shows/star-trek-the-next-generation/seasons/5",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/star-trek-the-next-generation/seasons/5",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

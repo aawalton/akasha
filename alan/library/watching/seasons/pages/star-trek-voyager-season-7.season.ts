@@ -12,6 +12,11 @@ export const starTrekVoyagerSeason7 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2000-10-05",
-  externalLink: "https://trakt.tv/shows/star-trek-voyager/seasons/7",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/star-trek-voyager/seasons/7",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

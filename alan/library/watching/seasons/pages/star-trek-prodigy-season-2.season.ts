@@ -12,6 +12,11 @@ export const starTrekProdigySeason2 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-07-01",
-  externalLink: "https://trakt.tv/shows/star-trek-prodigy/seasons/2",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/star-trek-prodigy/seasons/2",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

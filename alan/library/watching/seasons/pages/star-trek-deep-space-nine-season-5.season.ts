@@ -12,6 +12,11 @@ export const starTrekDeepSpaceNineSeason5 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1996-09-30",
-  externalLink: "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/5",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/5",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

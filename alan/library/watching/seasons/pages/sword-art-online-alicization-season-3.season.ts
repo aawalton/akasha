@@ -13,6 +13,11 @@ export const swordArtOnlineAlicizationSeason3 = {
   status: "completed",
   rank: "B",
   publishedAt: "2018-10-06",
-  externalLink: "https://trakt.tv/shows/sword-art-online/seasons/3",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/sword-art-online/seasons/3",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

@@ -12,6 +12,11 @@ export const starTrekEnterpriseSeason2 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2002-09-09",
-  externalLink: "https://trakt.tv/shows/star-trek-enterprise/seasons/2",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/star-trek-enterprise/seasons/2",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

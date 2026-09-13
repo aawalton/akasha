@@ -12,6 +12,11 @@ export const starTrekDeepSpaceNineSeason3 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "1994-09-26",
-  externalLink: "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/3",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/3",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

@@ -13,6 +13,11 @@ export const rwbyVolume5 = {
   status: "completed",
   rank: "A",
   publishedAt: "2017-10-21",
-  externalLink: "https://trakt.tv/shows/rwby/seasons/5",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/rwby/seasons/5",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season

@@ -12,6 +12,11 @@ export const starTrekStrangeNewWorldsSeason2 = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-06-15",
-  externalLink: "https://trakt.tv/shows/star-trek-strange-new-worlds/seasons/2",
-  lastSyncedAt: "2025-10-02",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/star-trek-strange-new-worlds/seasons/2",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
 } as const satisfies Season
