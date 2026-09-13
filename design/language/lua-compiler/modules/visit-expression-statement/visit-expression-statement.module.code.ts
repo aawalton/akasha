@@ -2,8 +2,8 @@ import { tempSymbolId } from "akasha/design/language/lua-compiler/modules/contex
 import type { FunctionVisitor } from "akasha/design/language/lua-compiler/modules/context-visitors/context-visitors.module.code.ts"
 import * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-ast-statements/lua-ast-statements.module.code.ts"
-import { transformUnaryExpressionStatement } from "akasha/design/language/lua-compiler/visit-unary-expression/visit-unary-expression.module.code.ts"
-import { transformBinaryExpressionStatement } from "akasha/design/language/lua-compiler/visitors-binary-expression/visitors-binary-expression.module.code.ts"
+import { transformUnaryExpressionStatement } from "akasha/design/language/lua-compiler/modules/visit-unary-expression/visit-unary-expression.module.code.ts"
+import { transformBinaryExpressionStatement } from "akasha/design/language/lua-compiler/modules/visitors-binary-expression/visitors-binary-expression.module.code.ts"
 import type * as ts from "typescript"
 
 export const transformExpressionStatement: FunctionVisitor<ts.ExpressionStatement> = (

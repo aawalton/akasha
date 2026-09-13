@@ -21,7 +21,7 @@ import {
 import {
   transformForInitializer,
   transformLoopBody,
-} from "akasha/design/language/lua-compiler/visit-utils/visit-utils.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/visit-utils/visit-utils.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/modules/assert-never/assert-never.module.code.ts"
 import * as ts from "typescript"
 

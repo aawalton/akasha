@@ -6,7 +6,7 @@ import { checkOnlyTruthyCondition } from "akasha/design/language/lua-compiler/mo
 import {
   invertCondition,
   transformLoopBody,
-} from "akasha/design/language/lua-compiler/visit-utils/visit-utils.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/visit-utils/visit-utils.module.code.ts"
 import type * as ts from "typescript"
 
 export const transformWhileStatement: FunctionVisitor<ts.WhileStatement> = (statement, context) => {

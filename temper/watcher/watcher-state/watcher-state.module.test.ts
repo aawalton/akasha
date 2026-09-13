@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { FILE_TYPES } from "akasha/temper/watcher/watcher-file-type/watcher-file-type.module.code.ts"
+import { FILE_TYPES } from "akasha/temper/watcher/modules/watcher-file-type/watcher-file-type.module.code.ts"
 import {
   initialFileState,
   initialWatcherState,

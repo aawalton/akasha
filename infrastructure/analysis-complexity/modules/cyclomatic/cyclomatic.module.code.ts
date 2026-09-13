@@ -1,7 +1,7 @@
 import {
   type FunctionNode,
   isFunctionBearing,
-} from "akasha/infrastructure/analysis-complexity/walk-functions/walk-functions.module.code.ts"
+} from "akasha/infrastructure/analysis-complexity/modules/walk-functions/walk-functions.module.code.ts"
 import ts from "typescript"
 
 export function computeCyclomaticComplexity(node: FunctionNode): number {

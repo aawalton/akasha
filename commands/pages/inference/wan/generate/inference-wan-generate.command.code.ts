@@ -23,7 +23,7 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { inferenceWanGenerate as page } from "akasha/commands/pages/inference/wan/generate/inference-wan-generate.command.ts"
-import { generating } from "akasha/commands/pages/inference/wan/wan-clip-rendering/wan-clip-rendering.module.code.ts"
+import { generating } from "akasha/commands/pages/inference/wan/modules/wan-clip-rendering/wan-clip-rendering.module.code.ts"
 
 const PAGES = [
   clipFrames,

@@ -25,7 +25,7 @@ import { readingAt } from "akasha/pages/indexes/modules/surface/index-surface.mo
 import { pathsRead, readerAt, ruleWhole } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import { id as idPage } from "akasha/pages/properties/id.text-property.ts"
-import { everyFileUnder } from "akasha/testing-system/walking/walking.module.code.ts"
+import { everyFileUnder } from "akasha/testing-system/modules/walking/walking.module.code.ts"
 
 export const A = idOf("a")
 export const B = idOf("b")

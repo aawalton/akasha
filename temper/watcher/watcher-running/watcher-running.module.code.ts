@@ -9,7 +9,7 @@ import {
   type WatcherDaemonState,
   workerLogPath,
   writeState,
-} from "akasha/temper/watcher/watcher-daemon/watcher-daemon.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-daemon/watcher-daemon.module.code.ts"
 
 export const FROM_SOURCE = "source"
 

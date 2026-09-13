@@ -1,6 +1,6 @@
 import { existsSync, statSync } from "node:fs"
 import { dirname } from "node:path"
-import type { FileType } from "akasha/temper/watcher/watcher-file-type/watcher-file-type.module.code.ts"
+import type { FileType } from "akasha/temper/watcher/modules/watcher-file-type/watcher-file-type.module.code.ts"
 import type {
   SyncOperation,
   SyncOperationKind,

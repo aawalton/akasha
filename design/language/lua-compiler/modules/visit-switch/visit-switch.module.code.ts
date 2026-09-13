@@ -11,7 +11,7 @@ import {
   ScopeType,
   separateHoistedStatements,
 } from "akasha/design/language/lua-compiler/modules/scope/scope.module.code.ts"
-import { createShortCircuitBinaryExpressionPrecedingStatements } from "akasha/design/language/lua-compiler/visitors-binary-expression/visitors-binary-expression.module.code.ts"
+import { createShortCircuitBinaryExpressionPrecedingStatements } from "akasha/design/language/lua-compiler/modules/visitors-binary-expression/visitors-binary-expression.module.code.ts"
 import * as ts from "typescript"
 
 const containsBreakOrReturn = (nodes: Iterable<ts.Node>): boolean => {

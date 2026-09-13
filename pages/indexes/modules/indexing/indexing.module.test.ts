@@ -62,7 +62,7 @@ import {
   wroteText,
 } from "akasha/pages/indexes/modules/indexing/indexing.module.test-fixtures.ts"
 import { readerNow } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
-import { everyFileUnder } from "akasha/testing-system/walking/walking.module.code.ts"
+import { everyFileUnder } from "akasha/testing-system/modules/walking/walking.module.code.ts"
 
 afterAll(scratch.sweep, 5000)
 

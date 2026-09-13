@@ -1,7 +1,7 @@
 import {
   FILE_TYPES,
   type FileType,
-} from "akasha/temper/watcher/watcher-file-type/watcher-file-type.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-file-type/watcher-file-type.module.code.ts"
 
 export interface FileState {
   running: boolean

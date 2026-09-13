@@ -6,7 +6,7 @@ import * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-
 import { invalidRangeControlVariable } from "akasha/design/language/lua-compiler/modules/transform-diagnostics/transform-diagnostics.module.code.ts"
 import { assert } from "akasha/design/language/lua-compiler/modules/utils/utils.module.code.ts"
 import { transformIdentifier } from "akasha/design/language/lua-compiler/modules/visit-identifier/visit-identifier.module.code.ts"
-import { getVariableDeclarationBinding } from "akasha/design/language/lua-compiler/visit-utils/visit-utils.module.code.ts"
+import { getVariableDeclarationBinding } from "akasha/design/language/lua-compiler/modules/visit-utils/visit-utils.module.code.ts"
 import * as ts from "typescript"
 
 export function isRangeFunction(

@@ -7,7 +7,7 @@ import { temperWatcherStatus as page } from "akasha/commands/pages/temper/watche
 import {
   readState,
   workerLogPath,
-} from "akasha/temper/watcher/watcher-daemon/watcher-daemon.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-daemon/watcher-daemon.module.code.ts"
 import {
   isUnitActive,
   unitMainPid,

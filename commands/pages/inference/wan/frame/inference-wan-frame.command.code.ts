@@ -19,7 +19,7 @@ import {
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { pathUnder } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
 import { inferenceWanFrame as page } from "akasha/commands/pages/inference/wan/frame/inference-wan-frame.command.ts"
-import { spawned } from "akasha/commands/pages/inference/wan/wan-hosting/wan-hosting.module.code.ts"
+import { spawned } from "akasha/commands/pages/inference/wan/modules/wan-hosting/wan-hosting.module.code.ts"
 
 const FRAME_PATTERN = /^frame-\d{4}\.png$/
 

@@ -16,7 +16,7 @@ import {
   readDifficulty,
   readSafety,
 } from "akasha/commands/pages/track/modules/session-leveling/session-leveling.module.code.ts"
-import { dayBefore } from "akasha/commands/pages/track/waking/waking.module.code.ts"
+import { dayBefore } from "akasha/commands/pages/track/modules/waking/waking.module.code.ts"
 import {
   statesVersionSeven,
   uuidVersion7,

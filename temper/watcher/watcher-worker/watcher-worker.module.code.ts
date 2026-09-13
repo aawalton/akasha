@@ -1,18 +1,21 @@
 import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { dispatch } from "akasha/temper/watcher/watcher-dispatch/watcher-dispatch.module.code.ts"
+import { dispatch } from "akasha/temper/watcher/modules/watcher-dispatch/watcher-dispatch.module.code.ts"
 import {
   type DispatchAnswer,
   type DispatchAsk,
   makeDispatchHandler,
-} from "akasha/temper/watcher/watcher-dispatch-handling/watcher-dispatch-handling.module.code.ts"
-import { log, logError } from "akasha/temper/watcher/watcher-logging/watcher-logging.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-dispatch-handling/watcher-dispatch-handling.module.code.ts"
+import {
+  log,
+  logError,
+} from "akasha/temper/watcher/modules/watcher-logging/watcher-logging.module.code.ts"
 import {
   type ExitWanted,
   fatalLine,
   startWatcher,
   type Updating,
   type WatcherStart,
-} from "akasha/temper/watcher/watcher-main/watcher-main.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-main/watcher-main.module.code.ts"
 import type { SyncOperation } from "akasha/temper/watcher/watcher-run-outcome/watcher-run-outcome.module.code.ts"
 import { reportRunOutcome } from "akasha/temper/watcher/watcher-run-reporting/watcher-run-reporting.module.code.ts"
 import type {

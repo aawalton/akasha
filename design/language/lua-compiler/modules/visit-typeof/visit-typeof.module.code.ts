@@ -4,7 +4,7 @@ import * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua
 import { transformLuaLibFunction } from "akasha/design/language/lua-compiler/modules/lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "akasha/design/language/lua-compiler/modules/lualib-features/lualib-features.module.code.ts"
 import { transformTypeOfBinaryExpressionHolder } from "akasha/design/language/lua-compiler/modules/visit-typeof-deps/visit-typeof-deps.module.code.ts"
-import { transformBinaryOperation } from "akasha/design/language/lua-compiler/visitors-binary-expression/visitors-binary-expression.module.code.ts"
+import { transformBinaryOperation } from "akasha/design/language/lua-compiler/modules/visitors-binary-expression/visitors-binary-expression.module.code.ts"
 import * as ts from "typescript"
 
 export const transformTypeOfExpression: FunctionVisitor<ts.TypeOfExpression> = (node, context) => {

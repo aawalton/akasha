@@ -30,7 +30,7 @@ import { id as idPage } from "akasha/pages/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/pages/properties/slug.text-property.ts"
 import { textProperty } from "akasha/pages/text-properties/text-property.page-type.ts"
 import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
-import { everyFileUnder } from "akasha/testing-system/walking/walking.module.code.ts"
+import { everyFileUnder } from "akasha/testing-system/modules/walking/walking.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { said as saying } from "akasha/utils/run/modules/running/running.module.code.ts"
 

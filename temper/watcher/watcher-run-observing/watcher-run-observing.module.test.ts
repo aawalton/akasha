@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { FILE_TYPES } from "akasha/temper/watcher/watcher-file-type/watcher-file-type.module.code.ts"
+import { FILE_TYPES } from "akasha/temper/watcher/modules/watcher-file-type/watcher-file-type.module.code.ts"
 import {
   ADDON_DIRECTORY_ABSENT,
   type OperationTarget,

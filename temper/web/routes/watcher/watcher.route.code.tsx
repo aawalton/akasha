@@ -7,7 +7,7 @@ import { readServedWatcherVersion } from "akasha/temper/web/.server/served-watch
 import {
   readReportedBuild,
   summarizeWatcherBuild,
-} from "akasha/temper/web/watcher-build-status/watcher-build-status.module.code.ts"
+} from "akasha/temper/web/modules/watcher-build-status/watcher-build-status.module.code.ts"
 import { WatcherPageContent } from "akasha/temper/web/watcher-page-content/watcher-page-content.module.code.tsx"
 import {
   readReportedOperations,

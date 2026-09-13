@@ -16,12 +16,12 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { pathUnder } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
-import { inferenceWanScore as page } from "akasha/commands/pages/inference/wan/score/inference-wan-score.command.ts"
 import {
   homeIn,
   imageIn,
   spawned,
-} from "akasha/commands/pages/inference/wan/wan-hosting/wan-hosting.module.code.ts"
+} from "akasha/commands/pages/inference/wan/modules/wan-hosting/wan-hosting.module.code.ts"
+import { inferenceWanScore as page } from "akasha/commands/pages/inference/wan/score/inference-wan-score.command.ts"
 
 const REJECTED_INPUTS = 2
 

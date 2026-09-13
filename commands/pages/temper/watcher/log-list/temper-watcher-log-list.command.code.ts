@@ -18,9 +18,9 @@ import { temperWatcherLogList as page } from "akasha/commands/pages/temper/watch
 import type {
   LogSource,
   WatcherLogLine,
-} from "akasha/temper/watcher/watcher-log-line/watcher-log-line.module.code.ts"
-import { parseWatcherLine } from "akasha/temper/watcher/watcher-log-line/watcher-log-line.module.code.ts"
-import { mergeNewestFirst } from "akasha/temper/watcher/watcher-log-merging/watcher-log-merging.module.code.ts"
+} from "akasha/temper/watcher/modules/watcher-log-line/watcher-log-line.module.code.ts"
+import { parseWatcherLine } from "akasha/temper/watcher/modules/watcher-log-line/watcher-log-line.module.code.ts"
+import { mergeNewestFirst } from "akasha/temper/watcher/modules/watcher-log-merging/watcher-log-merging.module.code.ts"
 import { watcherLogDir } from "akasha/temper/watcher/watcher-paths/watcher-paths.module.code.ts"
 
 const NAMED = [limitArgument, sinceArgument, logDirArgument, jsonInOneObject]

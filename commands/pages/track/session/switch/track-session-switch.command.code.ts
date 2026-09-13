@@ -17,6 +17,10 @@ import {
   shownOf,
 } from "akasha/commands/pages/track/modules/session-rows/session-rows.module.code.ts"
 import {
+  opensInto,
+  sleeping,
+} from "akasha/commands/pages/track/modules/waking/waking.module.code.ts"
+import {
   endingIn,
   landedAcross,
   movedInto,
@@ -29,7 +33,6 @@ import {
   taggingOf,
 } from "akasha/commands/pages/track/session/modules/session-relationships/session-relationships.module.code.ts"
 import { trackSessionSwitch as page } from "akasha/commands/pages/track/session/switch/track-session-switch.command.ts"
-import { opensInto, sleeping } from "akasha/commands/pages/track/waking/waking.module.code.ts"
 
 const NAMED = [dryRun, day, safety, difficulty, title, at, relationship]
 

@@ -38,7 +38,7 @@ import {
 } from "akasha/design/language/lua-compiler/modules/visit-function-shape/visit-function-shape.module.code.ts"
 import { transformIdentifier } from "akasha/design/language/lua-compiler/modules/visit-identifier/visit-identifier.module.code.ts"
 import { transformExpressionBodyToReturnStatement } from "akasha/design/language/lua-compiler/modules/visit-return/visit-return.module.code.ts"
-import { transformBindingPattern } from "akasha/design/language/lua-compiler/visit-variable-declaration/visit-variable-declaration.module.code.ts"
+import { transformBindingPattern } from "akasha/design/language/lua-compiler/modules/visit-variable-declaration/visit-variable-declaration.module.code.ts"
 import * as ts from "typescript"
 
 function transformParameterDefaultValueDeclaration(

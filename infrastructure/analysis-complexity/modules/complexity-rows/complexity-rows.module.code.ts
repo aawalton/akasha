@@ -8,7 +8,7 @@ import {
 } from "akasha/infrastructure/analysis-complexity/modules/file-discovery/file-discovery.module.code.ts"
 import { computeHalstead } from "akasha/infrastructure/analysis-complexity/modules/halstead/halstead.module.code.ts"
 import { computeMaintainabilityIndex } from "akasha/infrastructure/analysis-complexity/modules/maintainability/maintainability.module.code.ts"
-import { walkFunctions } from "akasha/infrastructure/analysis-complexity/walk-functions/walk-functions.module.code.ts"
+import { walkFunctions } from "akasha/infrastructure/analysis-complexity/modules/walk-functions/walk-functions.module.code.ts"
 import ts from "typescript"
 
 export interface AnalysisInputs {

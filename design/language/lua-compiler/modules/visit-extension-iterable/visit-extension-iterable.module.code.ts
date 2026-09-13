@@ -11,8 +11,8 @@ import { isMultiReturnType } from "akasha/design/language/lua-compiler/modules/v
 import {
   getVariableDeclarationBinding,
   transformForInitializer,
-} from "akasha/design/language/lua-compiler/visit-utils/visit-utils.module.code.ts"
-import { transformArrayBindingElement } from "akasha/design/language/lua-compiler/visit-variable-declaration/visit-variable-declaration.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/visit-utils/visit-utils.module.code.ts"
+import { transformArrayBindingElement } from "akasha/design/language/lua-compiler/modules/visit-variable-declaration/visit-variable-declaration.module.code.ts"
 import * as ts from "typescript"
 
 function transformForOfMultiIterableStatement(

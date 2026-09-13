@@ -31,7 +31,7 @@ import { isRiff } from "akasha/infrastructure/inference/clients/modules/riff-byt
 import {
   buildSpeechRequestBody,
   copPriorityHeaders,
-} from "akasha/infrastructure/inference/clients/voice-clone-client/voice-clone-client.module.code.ts"
+} from "akasha/infrastructure/inference/clients/modules/voice-clone-client/voice-clone-client.module.code.ts"
 import {
   serviceNamed,
   targetOf,

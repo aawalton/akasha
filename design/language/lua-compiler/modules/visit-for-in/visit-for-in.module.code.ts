@@ -6,7 +6,7 @@ import { isArrayType } from "akasha/design/language/lua-compiler/modules/typescr
 import {
   transformForInitializer,
   transformLoopBody,
-} from "akasha/design/language/lua-compiler/visit-utils/visit-utils.module.code.ts"
+} from "akasha/design/language/lua-compiler/modules/visit-utils/visit-utils.module.code.ts"
 import type * as ts from "typescript"
 
 export const transformForInStatement: FunctionVisitor<ts.ForInStatement> = (statement, context) => {

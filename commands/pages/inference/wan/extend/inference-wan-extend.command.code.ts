@@ -24,7 +24,7 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { inferenceWanExtend as page } from "akasha/commands/pages/inference/wan/extend/inference-wan-extend.command.ts"
-import { extending } from "akasha/commands/pages/inference/wan/wan-clip-rendering/wan-clip-rendering.module.code.ts"
+import { extending } from "akasha/commands/pages/inference/wan/modules/wan-clip-rendering/wan-clip-rendering.module.code.ts"
 
 const PAGES = [
   context,
