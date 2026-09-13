@@ -24,5 +24,21 @@ export const alanwaltonPictureSending = {
       invariantKind: "departure",
       statement: "Every send ends in one sentence, shown on the camera and posted as a notice.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A send says whether the picture got there as well as what to read.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "The per-request timeout restarts on every byte that moves.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The whole transfer is bounded by a second timeout of thirty seconds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A send waits for no network to arrive.",
+    },
   ],
 } as const satisfies ShellScript

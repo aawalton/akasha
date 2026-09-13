@@ -32,5 +32,18 @@ export const alanwaltonPictureCapture = {
       invariantKind: "departure",
       statement: "The camera stays up until the picture is sent, showing what happened.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A send that worked shows what happened, waits a beat, and puts the camera away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A send that failed holds the reason up rather than putting the camera away.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A press after a send that failed takes a fresh picture rather than sending again.",
+    },
   ],
 } as const satisfies ShellScript

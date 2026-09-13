@@ -296,8 +296,17 @@ final class PictureCapture {
             return
         }
         shown.said("Sending…")
-        let outcome = await PictureSending.send(jpeg)
-        shown.said(outcome)
+        let sent = await PictureSending.send(jpeg)
+        shown.said(sent.outcome)
+        // A SEND THAT FAILED LEAVES THE CAMERA UP, holding the reason where Alan is already
+        // looking. Putting the camera away on a failure would drop him into the app with the
+        // outcome gone, which is the one way a definite answer still reads as a hang. The
+        // camera is live again, so a press takes a FRESH picture rather than sending this one
+        // a second time, and Close puts the camera away.
+        guard sent.ok else {
+            live = shown
+            return
+        }
         try? await Task.sleep(nanoseconds: 1_200_000_000)
         shown.dismiss(animated: false)
     }
