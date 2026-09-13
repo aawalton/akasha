@@ -8,7 +8,7 @@ export const externalIdentity = {
   definition: "one provider's record of a collection, and what that provider calls it",
   properties: [
     { pageProperty: "select-property/source", required: true, many: false },
-    { pageProperty: "text-property/external-id", required: true, many: false },
+    { pageProperty: "text-property/external-id", required: false, many: false },
     { pageProperty: "url-property/external-link", required: false, many: false },
     { pageProperty: "calendar-date-property/last-synced-at", required: false, many: false },
   ],
@@ -24,6 +24,10 @@ export const externalIdentity = {
     {
       invariantKind: "departure",
       statement: "Every one of these names the provider it came from.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every one of these states an id or a link, a link being a name as well.",
     },
     {
       invariantKind: "departure",
