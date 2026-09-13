@@ -262,6 +262,7 @@ export type Unreached = {
 function provesOnly(path: string): boolean {
   const said = partedIn(path)
   if (said === null) return false
+  if (PROVING.has(said.pageType)) return true
   const last = said.sections[said.sections.length - 1]
   return last !== undefined && PROVING.has(last)
 }

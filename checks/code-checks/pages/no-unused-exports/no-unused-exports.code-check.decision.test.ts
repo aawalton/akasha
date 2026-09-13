@@ -15,6 +15,7 @@ import {
   COMMAND_TEXT,
   EVERY_TEXT,
   FIXTURES_AT,
+  FIXTURES_CODE_AT,
   GENERATOR_AT,
   GENERATOR_TEXT,
   GUARD_AT,
@@ -168,6 +169,19 @@ test("a value a test names in a test-fixtures file is reached", () => {
   importedAt(root, FIXTURES_AT, [PROVER])
 
   const said = judging(landing(root, { [FIXTURES_AT]: bytesOf(HELD_TEXT) })).map(
+    (one) => one.reason
+  )
+
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`spare`")
+})
+
+test("a value a test names in a test-fixtures page's code is reached", () => {
+  const root = rooted()
+  proving(root, takenText("held", FIXTURES_CODE_AT))
+  importedAt(root, FIXTURES_CODE_AT, [PROVER])
+
+  const said = judging(landing(root, { [FIXTURES_CODE_AT]: bytesOf(HELD_TEXT) })).map(
     (one) => one.reason
   )
 
