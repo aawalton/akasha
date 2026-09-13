@@ -47,6 +47,7 @@ export const change = {
     "module/type-literal",
     "module/value-carrying",
     "module/value-removing",
+    "module/value-spelling",
     "number-property/change-max-cpu-seconds",
     "page-type/change-agent",
     "page-type/change-guard",

@@ -120,19 +120,11 @@ export const addPropertyValue = {
     },
     {
       invariantKind: "departure",
-      statement: "A value the caller says is a boolean is written bare.",
+      statement: "The literal a value is written as is worked out by the module this change names.",
     },
     {
       invariantKind: "departure",
-      statement: "A value the caller says is a number is written bare.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A value the caller says nothing about is written as JSON spells it.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A value that is no such thing is refused before the body is read.",
+      statement: "A value that kind does not hold is refused before the body is read.",
     },
   ],
   changeKind: "change-mechanical",
