@@ -152,16 +152,30 @@ function runtimeOver(
   }
 }
 
-function mergedOver(now: string, named: readonly Splice[], runtime: readonly Splice[]): Rewritten {
-  const all = [...named, ...runtime].sort((one, next) => one.from - next.from)
+function sameWrite(text: string, outer: Splice, inner: Splice): boolean {
+  if (inner.from < outer.from || inner.to > outer.to) return false
+  const held = `${text.slice(outer.from, inner.from)}${inner.put}${text.slice(inner.to, outer.to)}`
+  return outer.put === held
+}
+
+function mergedOver(
+  now: string,
+  text: string,
+  named: readonly Splice[],
+  runtime: readonly Splice[]
+): Rewritten {
+  const apart = named.filter(
+    (one) => !runtime.some((two) => sameWrite(text, one, two) || sameWrite(text, two, one))
+  )
+  const all = [...apart, ...runtime].sort((one, next) => one.from - next.from)
   for (const [index, one] of all.entries()) {
     const next = all[index + 1]
     if (next !== undefined && next.from < one.to) {
       return {
         refused:
-          `the names in \`${now}\` and the paths that body builds off its own folder both write` +
-          ` letter ${next.from} to ${one.to}, so the move is refused rather than landing half of` +
-          " each",
+          `the names in \`${now}\` and the paths that body builds off its own folder write letter` +
+          ` ${next.from} to ${one.to} differently, so the move is refused rather than landing half` +
+          " of each",
       }
     }
   }
@@ -192,7 +206,7 @@ export function changeImports(
   }
   const runtime = runtimeOver(was, now, text, landing, known)
   if ("refused" in runtime) return refusing(runtime.refused)
-  return spliced(now, text, mergedOver(now, splices, runtime.splices))
+  return spliced(now, text, mergedOver(now, text, splices, runtime.splices))
 }
 
 type Pointed = {
@@ -291,7 +305,7 @@ export function changeRuns(
   const runtime = runtimeOver(was, now, text, landing, known)
   if ("refused" in runtime) return refusing(runtime.refused)
   const runs = runsFor(was, dirname(now), text, landing, known)
-  return spliced(now, text, mergedOver(now, runs, runtime.splices))
+  return spliced(now, text, mergedOver(now, text, runs, runtime.splices))
 }
 
 export type Carried = {

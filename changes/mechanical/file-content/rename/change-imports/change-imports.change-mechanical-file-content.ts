@@ -155,8 +155,11 @@ export const changeImports = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Two rewrites writing the same letters refuse the change rather than one taking the other's place.",
+      statement: "Two rewrites of the same letters spelling one body are taken as one rewrite.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Two rewrites of the same letters spelling two bodies refuse the change.",
     },
     {
       invariantKind: "absence",

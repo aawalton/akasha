@@ -363,6 +363,20 @@ test("a specifier spelled from the root under the folder that moved follows it",
   )
 })
 
+const READER = "held/indexes/rule/held-rule.index.code.ts"
+
+const RULE = "held/reading/modules/rule/held-rule.module.code.ts"
+
+const RULE_AT = "held/reading/modules/held-rule/held-rule.module.code.ts"
+
+test("a path built off the body's own folder that is a name as well is written once", () => {
+  const text = `const at = new URL("../../../${RULE}", import.meta.url).pathname\n`
+
+  expect(bodyIn(READER, READER, text, new Map([[RULE, RULE_AT]]))).toBe(
+    `const at = new URL("../../reading/modules/held-rule/held-rule.module.code.ts", import.meta.url).pathname\n`
+  )
+})
+
 const BESIDE = "held/code-system/one.module.code.ts"
 
 test("a run that is a path this repository has is left alone though its ending moved", () => {
