@@ -1,57 +1,26 @@
 import { expect, test } from "bun:test"
 import { moveCodeExportCommand } from "akasha/changes/agent/file-content/move-code-export/move-code-export.change-agent.code.ts"
-import { addedAt } from "akasha/changes/mechanical/file-content/move/move-code-export/move-code-export.change-mechanical.test-fixtures.ts"
 import {
-  ledgerAt,
-  NOTHING_OVER,
-  type World,
-} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
+  BARE,
+  FROM,
+  HELD,
+  puttingAt,
+  TO,
+  USES,
+  USING,
+  worldOf,
+} from "akasha/changes/modules/code-export-carrying/code-export-carrying.module.test-fixtures.ts"
+import { NOTHING_OVER } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 
 const MOVED = "change-mechanical/move-code-export"
 
-const FROM = "akasha/one/one.held.ts"
-
-const TO = "akasha/one/two.held.ts"
-
-const USES = "akasha/one/uses.held.ts"
-
-const HELD = `import type { Deep } from "./deep.held.ts"
-
-export type Kept = {
-  readonly deep: Deep
-}
-
-export type Other = {
-  readonly name: string
-}
-`
-
-const USING = `import type { Kept } from "./one.held.ts"
-
-export type Wraps = {
-  readonly kept: Kept
-}
-`
-
-function worldOf(held: Readonly<Record<string, string>>, importers: readonly string[] = []): World {
-  const index = {
-    importersOf: () => importers,
-    fileKeysAt: () => new Map(),
-    manifestsBeside: () => [],
-    entryShapesAt: () => new Set<string>(),
-  } as never
-  const ledger = ledgerAt("/nowhere", (path) => held[path] ?? null, running)
-  return Object.defineProperty(ledger, "index", { value: index, enumerable: true })
-}
-
 test("the three arguments are answered as the edits the move leaves", async () => {
-  const world = worldOf({ [FROM]: HELD, [USES]: USING }, [USES])
+  const world = worldOf({ [FROM]: HELD, [TO]: BARE, [USES]: USING }, [USES])
 
   const said = await moveCodeExportCommand(world, { from: FROM, to: TO, of: "Kept" })
 
   expect(said.refused).toBeNull()
-  expect(addedAt(said, TO)).toContain("export type Kept = {")
+  expect(puttingAt(said, TO).join("")).toContain("export type Kept = {")
 })
 
 test("arguments holding no path to move from are refused by the name of the argument", async () => {

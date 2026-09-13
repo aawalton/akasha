@@ -1,4 +1,14 @@
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import {
+  passagesOf,
+  plannedCarrying,
+} from "akasha/changes/modules/code-export-carrying/code-export-carrying.module.code.ts"
+import type {
+  Asked,
+  Passage,
+  Plan,
+  Refused,
+} from "akasha/changes/modules/code-export-carrying/code-export-carrying.module.types.ts"
 import { ledgerAt, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 
@@ -52,6 +62,12 @@ export type Other = {
 }
 `
 
+export const BOTH = `${SHARED}
+export type Stays = {
+  readonly name: string
+}
+`
+
 export const STILL = `${DEEP}
 
 export type Kept = {
@@ -98,6 +114,23 @@ export const USING = `import type { Kept } from "./one.held.ts"
 
 export type Wraps = {
   readonly kept: Kept
+}
+`
+
+export const USING_BOTH = `import type { Kept, Other } from "./one.held.ts"
+
+export type Wraps = {
+  readonly kept: Kept
+  readonly other: Other
+}
+`
+
+export const USING_THREE = `import type { Kept, Other, Stays } from "./one.held.ts"
+
+export type Wraps = {
+  readonly kept: Kept
+  readonly other: Other
+  readonly stays: Stays
 }
 `
 
@@ -173,6 +206,10 @@ export const SIBLING_BACK = `${SIBLING}
 export const FIRST = searchOf(1)
 `
 
+export const NAMING = `${SIBLING}
+export const FIRST = 1
+`
+
 const SIBLING_TYPED = `export type Held = {
   readonly one: number
 }
@@ -190,6 +227,20 @@ export const SIBLING_TYPED_LANDED = `import type { Held } from "./one.held.ts"
 
 export function searchOf(one: number): Held {
   return { one }
+}
+`
+
+export const BOTH_BACK = `export type Kept = {
+  readonly name: string
+}
+
+export type Other = {
+  readonly name: string
+}
+
+export type Holds = {
+  readonly kept: Kept
+  readonly other: Other
 }
 `
 
@@ -234,6 +285,47 @@ export function changeOf(one: string): string {
 }
 `
 
+export const NAMED_USING = `import type { Kept } from "@held/one/one"
+
+export type Wraps = {
+  readonly kept: Kept
+}
+`
+
+export const ROOTED_USING = `import type { Kept } from "tree/${FROM}"
+
+export type Wraps = {
+  readonly kept: Kept
+}
+`
+
+export const ALIASING = `import type { Kept as Held } from "./one.held.ts"
+
+export type Wraps = {
+  readonly kept: Held
+}
+`
+
+export const ALIASING_TWO = `import type { Kept as Held, Other } from "./one.held.ts"
+
+export type Wraps = {
+  readonly kept: Held
+  readonly other: Other
+}
+`
+
+export const CARRIED_ALIAS = `import { said as gitIn } from "./git.held.ts"
+
+export const AT = gitIn("a")
+`
+
+export const STARRED_LINE = `import * as Utilities from "./utils.held.ts"`
+
+export const STARRED = `${STARRED_LINE}
+
+export const AT = Utilities.questOf()
+`
+
 function indexOf(importers: readonly string[]): World["index"] {
   return {
     importersOf: () => importers,
@@ -254,6 +346,34 @@ export function worldOf(
   })
 }
 
+export function planOf(
+  held: Readonly<Record<string, string>>,
+  given: Asked,
+  importers: readonly string[] = []
+): Plan | Refused {
+  return plannedCarrying(worldOf(held, importers), given)
+}
+
+export function refusalIn(made: Plan | Refused): string {
+  return "refused" in made ? made.refused : ""
+}
+
+export function bodyIn(made: Plan | Refused): string {
+  return "refused" in made || !made.adding ? "" : made.body
+}
+
+export function passagesIn(made: Plan | Refused, at: string): readonly Passage[] {
+  return "refused" in made ? [] : passagesOf(made).filter((one) => one.at === at)
+}
+
+export function wroteAt(made: Plan | Refused, at: string): readonly string[] {
+  return passagesIn(made, at).map((one) => one.new)
+}
+
+export function tookAt(made: Plan | Refused, at: string): readonly string[] {
+  return passagesIn(made, at).map((one) => one.old)
+}
+
 export function addedAt(said: Answer, path: string): string {
   const found = said.edits.flatMap((one) => (one.kind === "add" && one.path === path ? [one] : []))
   return found[0]?.content ?? ""
@@ -262,11 +382,5 @@ export function addedAt(said: Answer, path: string): string {
 export function puttingAt(said: Answer, path: string): readonly string[] {
   return said.edits.flatMap((one) =>
     one.kind === "replace" && one.path === path ? [one.contentTo] : []
-  )
-}
-
-export function takenAt(said: Answer, path: string): readonly string[] {
-  return said.edits.flatMap((one) =>
-    one.kind === "replace" && one.path === path ? [one.contentFrom] : []
   )
 }
