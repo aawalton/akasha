@@ -3,29 +3,16 @@ import {
   changePageProperty,
   runChange,
 } from "akasha/changes/agent/file-content/change-page-page-property/change-page-page-property.change-agent.code.ts"
-import { runChange as changeValue } from "akasha/changes/mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.code.ts"
-import { runChange as changeRelation } from "akasha/changes/mechanical/file-content/change/change-page-page-property-relation/change-page-page-property-relation.change-mechanical-file-content.code.ts"
-import { refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import {
   NOTHING_OVER,
-  type Reaching,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   bodyOf,
   knownOf,
 } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
-
-const RUNS: Reaching = async (world, at, given) => {
-  if (at === "change-mechanical-file-content/change-page-page-property") {
-    return await Promise.resolve(changeValue(world, given as Parameters<typeof changeValue>[1]))
-  }
-  if (at === "change-mechanical-file-content/change-page-page-property-relation") {
-    return await changeRelation(world, given as Parameters<typeof changeRelation>[1])
-  }
-  return refusing(`\`${at}\` is reached by nothing here`)
-}
 
 const AT = "agents/seats/pages/held.seat.ts"
 
@@ -57,7 +44,7 @@ function worldTold(slug: string | null, target: string | null): World {
     under: () => [],
     base: () => BODY,
     over: NOTHING_OVER,
-    reaching: RUNS,
+    reaching: running,
   }
 }
 

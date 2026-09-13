@@ -3,27 +3,18 @@ import {
   addPropertyRecord,
   runChange,
 } from "akasha/changes/agent/file-content/add-property-record/add-property-record.change-agent.code.ts"
-import { runChange as addRecord } from "akasha/changes/mechanical/file-content/add/add-property-record/add-property-record.change-mechanical-file-content.code.ts"
-import { refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import {
   NOTHING_OVER,
-  type Reaching,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   bodyOf,
   worldFor,
 } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const ADDRESS = "change-mechanical-file-content/add-property-record"
-
-const RUNS: Reaching = async (world, at, given) => {
-  if (at === ADDRESS) {
-    return await Promise.resolve(addRecord(world, given as Parameters<typeof addRecord>[1]))
-  }
-  return refusing(`\`${at}\` is reached by nothing here`)
-}
 
 const AT = "changes/modules/held/held.module.ts"
 
@@ -45,7 +36,7 @@ export const held = {
 const PAGE = { id: ID, pageTypeSlug: "module", slug: "held" } as Value
 
 function worldTold(): World {
-  return worldFor(PAGE, BODY, RUNS)
+  return worldFor(PAGE, BODY, running)
 }
 
 const RECORD = '{ invariantKind: "gap", statement: "the second" }'
@@ -125,7 +116,7 @@ const SIBLINGS = new Map<string, Value>([
 test("the key the pages of this page's type write it after is handed on", async () => {
   let handed: unknown = null
   const seeing: World = {
-    ...worldFor(PAGE, BODY, RUNS, SIBLINGS),
+    ...worldFor(PAGE, BODY, running, SIBLINGS),
     reaching: (_world, _at, given) => {
       handed = given
       return Promise.resolve(NOTHING_OVER)

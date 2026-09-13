@@ -3,23 +3,14 @@ import {
   changePagePropertyText,
   runChange,
 } from "akasha/changes/agent/file-content/change-page-page-property-text/change-page-page-property-text.change-agent.code.ts"
-import { runChange as changeValue } from "akasha/changes/mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.code.ts"
-import { refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,
   NOTHING_OVER,
-  type Reaching,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
-
-const RUNS: Reaching = (world, at, given) => {
-  if (at === "change-mechanical-file-content/change-page-page-property") {
-    return Promise.resolve(changeValue(world, given as Parameters<typeof changeValue>[1]))
-  }
-  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
-}
 
 const AT = "agents/seats/pages/held.seat.ts"
 
@@ -73,7 +64,7 @@ function worldTold(carried: readonly Carried[], value: Value | null): World {
     under: () => [],
     base: () => BODY,
     over: NOTHING_OVER,
-    reaching: RUNS,
+    reaching: running,
   }
 }
 

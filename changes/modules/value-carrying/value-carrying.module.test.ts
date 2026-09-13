@@ -1,11 +1,5 @@
 import { expect, test } from "bun:test"
-import { runChange as addKey } from "akasha/changes/mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.code.ts"
-import { refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
-import {
-  bodiesIn,
-  type Reaching,
-  type World,
-} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { bodiesIn, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { worldOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
   askedIn,
@@ -16,14 +10,10 @@ import {
   keyAskedIn,
   spelledAs,
 } from "akasha/changes/modules/value-carrying/value-carrying.module.code.ts"
+import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
 import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 
 const ADD = "change-mechanical-file-content/add-page-property"
-
-const RUNS: Reaching = (world, at, given) => {
-  if (at === ADD) return Promise.resolve(addKey(world, given as Parameters<typeof addKey>[1]))
-  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
-}
 
 const ONE_AT = "story/chapters-read/pages/one.story-chapter-read.ts"
 
@@ -96,7 +86,7 @@ function typedIn(carried: readonly Carried[] | null, values: Values = VALUES): W
       propertiesIfNamed: () => carried,
       valuesByPath: () => values,
     } as never,
-    reaching: RUNS,
+    reaching: running,
   }
 }
 
