@@ -8,14 +8,7 @@ export const changeMechanicalPageType = {
   pluralSlug: "change-mechanical-page-type",
   extends: ["page-type/change-mechanical"],
   parts: ["domain/change-mechanical-page-type-move", "domain/change-mechanical-page-type-rename"],
-  properties: [
-    { pageProperty: "relation-property/change-target-type", required: true, many: false },
-    {
-      pageProperty: "relation-property/change-target-subtype",
-      required: true,
-      many: false,
-    },
-  ],
+  properties: [],
   invariants: [
     {
       invariantKind: "departure",

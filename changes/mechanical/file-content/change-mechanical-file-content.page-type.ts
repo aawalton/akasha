@@ -15,8 +15,6 @@ export const changeMechanicalFileContent = {
     "domain/change-mechanical-file-content-rename",
   ],
   extends: ["page-type/change-mechanical"],
-  properties: [
-    { pageProperty: "relation-property/change-target-type", required: true, many: false },
-  ],
+  properties: [],
   types: "ts",
 } as const satisfies PageType

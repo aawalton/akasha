@@ -8,14 +8,7 @@ export const changeMechanicalFolder = {
   pluralSlug: "change-mechanical-folder",
   extends: ["page-type/change-mechanical"],
   parts: ["domain/change-mechanical-folder-move", "domain/change-mechanical-folder-remove"],
-  properties: [
-    { pageProperty: "relation-property/change-target-type", required: true, many: false },
-    {
-      pageProperty: "relation-property/change-target-subtype",
-      required: true,
-      many: false,
-    },
-  ],
+  properties: [],
   invariants: [
     {
       invariantKind: "absence",

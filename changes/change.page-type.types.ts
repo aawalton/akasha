@@ -12,7 +12,7 @@ export type Change = Module & {
   temporary?: Temporary
   takesAtMost?: TakesAtMost
   changeMode: ChangeMode
-  changeTargetType?: ChangeTargetType
-  changeTargetSubtype?: ChangeTargetSubtype
   maxCpuSeconds?: ChangeMaxCpuSeconds
+  changeTargetType: ChangeTargetType
+  changeTargetSubtype: ChangeTargetSubtype
 }

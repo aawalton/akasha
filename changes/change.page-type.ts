@@ -54,17 +54,9 @@ export const change = {
       default: "false",
     },
     { pageProperty: "relation-property/change-mode", required: true, many: false },
-    {
-      pageProperty: "relation-property/change-target-type",
-      required: false,
-      many: false,
-    },
-    {
-      pageProperty: "relation-property/change-target-subtype",
-      required: false,
-      many: false,
-    },
     { pageProperty: "number-property/change-max-cpu-seconds", required: false, many: false },
+    { pageProperty: "relation-property/change-target-type", required: true, many: false },
+    { pageProperty: "relation-property/change-target-subtype", required: true, many: false },
   ],
   invariants: [
     {
