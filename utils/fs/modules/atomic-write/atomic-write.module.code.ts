@@ -1,5 +1,4 @@
 import { renameSync, rmSync, writeFileSync } from "node:fs"
-import { rename, rm, writeFile } from "node:fs/promises"
 import { pause } from "akasha/utils/waiting/modules/thread-pause/thread-pause.module.code.ts"
 
 export interface AtomicWriteOptions {
@@ -21,12 +20,6 @@ function tempPathFor(path: string): string {
   return `${path}.tmp-${process.pid}-${Math.random().toString(36).slice(2, 10)}`
 }
 
-function sleep(ms: number): Promise<undefined> {
-  return new Promise((resolve) => {
-    setTimeout(() => resolve(undefined), ms)
-  })
-}
-
 function retrySync<T>(fn: () => T, label: string, onRetry?: (message: string) => void): T {
   for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
     try {
@@ -35,23 +28,6 @@ function retrySync<T>(fn: () => T, label: string, onRetry?: (message: string) =>
       if (!isBusyError(err) || attempt === MAX_ATTEMPTS) throw err
       onRetry?.(`retrying ${label} (attempt ${attempt}/${MAX_ATTEMPTS})`)
       pause(BACKOFF_MS[attempt - 1] ?? 3200)
-    }
-  }
-  throw new Error("unreachable")
-}
-
-async function retryAsync<T>(
-  fn: () => Promise<T>,
-  label: string,
-  onRetry?: (message: string) => void
-): Promise<T> {
-  for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
-    try {
-      return await fn()
-    } catch (err) {
-      if (!isBusyError(err) || attempt === MAX_ATTEMPTS) throw err
-      onRetry?.(`retrying ${label} (attempt ${attempt}/${MAX_ATTEMPTS})`)
-      await sleep(BACKOFF_MS[attempt - 1] ?? 3200)
     }
   }
   throw new Error("unreachable")
@@ -75,29 +51,6 @@ export function writeFileAtomicSync(
   } catch (err) {
     try {
       rmSync(tmp, { force: true })
-    } catch {}
-    throw err
-  }
-}
-
-export async function writeFileAtomic(
-  path: string,
-  data: string | Uint8Array,
-  options?: AtomicWriteOptions
-): Promise<undefined> {
-  const tmp = tempPathFor(path)
-  const writeOpts = options?.mode !== undefined ? { mode: options.mode } : {}
-  try {
-    if (options?.retryOnBusy === true) {
-      await retryAsync(() => writeFile(tmp, data, writeOpts), `write ${tmp}`, options.onRetry)
-      await retryAsync(() => rename(tmp, path), `rename ${tmp} -> ${path}`, options.onRetry)
-    } else {
-      await writeFile(tmp, data, writeOpts)
-      await rename(tmp, path)
-    }
-  } catch (err) {
-    try {
-      await rm(tmp, { force: true })
     } catch {}
     throw err
   }

@@ -9,10 +9,6 @@ export function writing(root: string, path: string, body: string): string {
   return blobIdOf(new TextEncoder().encode(body))
 }
 
-export function manifest(name: string): string {
-  return `${JSON.stringify({ name, private: true }, null, 2)}\n`
-}
-
 export function bodyAt(root: string, at: string | null): string {
   return at !== null && existsSync(join(root, at)) ? readFileSync(join(root, at), "utf8") : ""
 }
