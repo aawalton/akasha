@@ -18,6 +18,11 @@ import {
   staleAmong,
 } from "akasha/agents/subagents/modules/census/subagent-census.module.code.ts"
 import {
+  clientStartedAt,
+  outlivedAmong,
+  subagentsDirOf,
+} from "akasha/agents/subagents/modules/outliving/subagent-outliving.module.code.ts"
+import {
   pagelessAmong,
   pagelessSaid,
 } from "akasha/agents/subagents/modules/pageless/subagent-pageless.module.code.ts"
@@ -29,11 +34,6 @@ import {
   movedOnto,
   saidOf,
 } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
-import {
-  clientStartedAt,
-  outlivedAmong,
-  subagentsDirOf,
-} from "akasha/agents/subagents/modules/subagent-outliving/subagent-outliving.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   landedMechanically,
