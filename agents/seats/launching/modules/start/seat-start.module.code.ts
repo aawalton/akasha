@@ -1,3 +1,11 @@
+import {
+  handlerDerives,
+  principalIsPerson,
+  refuseAnswering,
+} from "akasha/agents/seats/declaration/modules/answering/seat-answering.module.code.ts"
+import { defaultFor } from "akasha/agents/seats/declaration/modules/resolve/seat-resolve.module.code.ts"
+import { stateSpawnedSeat } from "akasha/agents/seats/declaration/modules/state-spawned-seat/state-spawned-seat.module.code.ts"
+import { resolveStatedIdentity } from "akasha/agents/seats/declaration/modules/stated-identity/seat-stated-identity.module.code.ts"
 import { seatByName } from "akasha/agents/seats/fleet/modules/by-name/seat-by-name.module.code.ts"
 import {
   isValidSeatName,
@@ -15,14 +23,6 @@ import {
   type StatedIdentity,
   spawnSeat,
 } from "akasha/agents/seats/launching/modules/spawn-seat/spawn-seat.module.code.ts"
-import {
-  handlerDerives,
-  principalIsPerson,
-  refuseAnswering,
-} from "akasha/agents/seats/modules/answering/seat-answering.module.code.ts"
-import { defaultFor } from "akasha/agents/seats/modules/resolve/seat-resolve.module.code.ts"
-import { stateSpawnedSeat } from "akasha/agents/seats/modules/state-spawned-seat/state-spawned-seat.module.code.ts"
-import { resolveStatedIdentity } from "akasha/agents/seats/modules/stated-identity/seat-stated-identity.module.code.ts"
 import {
   composeSeatName,
   FLEET,

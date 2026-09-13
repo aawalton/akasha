@@ -1,7 +1,7 @@
 import { attributesOf } from "akasha/agents/modules/attributes/agent-attributes.module.code.ts"
+import { roleIsOnCall } from "akasha/agents/seats/declaration/modules/role-on-call/seat-role-on-call.module.code.ts"
 import { agentPresence } from "akasha/agents/seats/modules/presence-read/seat-presence-read.module.code.ts"
 import type { SeatPresence } from "akasha/agents/seats/modules/proc-key/seat-proc-key.module.code.ts"
-import { roleIsOnCall } from "akasha/agents/seats/modules/role-on-call/seat-role-on-call.module.code.ts"
 import {
   anyPendingRead,
   pendingOf,

@@ -1,4 +1,4 @@
-import type { Stated } from "akasha/agents/seats/modules/stated/seat-stated.module.code.ts"
+import type { Stated } from "akasha/agents/seats/declaration/modules/stated/seat-stated.module.code.ts"
 import { akashaSeatSlugOf } from "akasha/agents/seats/page/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import {
   removeAkashaSeatPage,

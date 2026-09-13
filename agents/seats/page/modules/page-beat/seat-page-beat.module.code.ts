@@ -3,7 +3,7 @@ import {
   fallBackToHistory,
   type Stated,
   statedOf,
-} from "akasha/agents/seats/modules/stated/seat-stated.module.code.ts"
+} from "akasha/agents/seats/declaration/modules/stated/seat-stated.module.code.ts"
 import { composedNameOf } from "akasha/agents/seats/name/modules/rename/seat-rename.module.code.ts"
 import {
   nameFromHistory,

@@ -1,3 +1,10 @@
+import { principalSeatNameOf } from "akasha/agents/seats/declaration/modules/principal/seat-principal.module.code.ts"
+import { stateSpawnedSeat } from "akasha/agents/seats/declaration/modules/state-spawned-seat/state-spawned-seat.module.code.ts"
+import {
+  pageWouldCompose,
+  type Stated,
+  statedOf,
+} from "akasha/agents/seats/declaration/modules/stated/seat-stated.module.code.ts"
 import { resolveSeatTargetCli } from "akasha/agents/seats/fleet/modules/handle/seat-handle.module.code.ts"
 import {
   killSeatSession,
@@ -8,13 +15,6 @@ import {
   isSeatMode,
   SEAT_MODE_HEADLESS,
 } from "akasha/agents/seats/launching/modules/modes/seat-modes.module.code.ts"
-import { principalSeatNameOf } from "akasha/agents/seats/modules/principal/seat-principal.module.code.ts"
-import { stateSpawnedSeat } from "akasha/agents/seats/modules/state-spawned-seat/state-spawned-seat.module.code.ts"
-import {
-  pageWouldCompose,
-  type Stated,
-  statedOf,
-} from "akasha/agents/seats/modules/stated/seat-stated.module.code.ts"
 import { composeSeatName } from "akasha/agents/seats/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import { flexInName } from "akasha/agents/seats/name/modules/flex/seat-flex.module.code.ts"
 import { mintNamedAgent } from "akasha/agents/seats/name-claiming/modules/name-bind/seat-name-bind.module.code.ts"

@@ -1,5 +1,8 @@
+import {
+  resolveSlot,
+  scan,
+} from "akasha/agents/seats/declaration/modules/resolve/seat-resolve.module.code.ts"
 import { seatRoster } from "akasha/agents/seats/fleet/modules/roster/seat-roster.module.code.ts"
-import { resolveSlot, scan } from "akasha/agents/seats/modules/resolve/seat-resolve.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

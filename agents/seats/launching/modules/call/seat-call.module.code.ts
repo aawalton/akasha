@@ -1,8 +1,8 @@
-import { stateSeatFromArgv } from "akasha/agents/seats/modules/running/seat-running.module.code.ts"
+import { stateSeatFromArgv } from "akasha/agents/seats/declaration/modules/running/seat-running.module.code.ts"
 import {
   type SeatWhoami,
   seatWhoami,
-} from "akasha/agents/seats/modules/whoami/seat-whoami.module.code.ts"
+} from "akasha/agents/seats/declaration/modules/whoami/seat-whoami.module.code.ts"
 import { fail } from "akasha/commands/modules/failing/command-failing.module.code.ts"
 import {
   readPayload,

@@ -2,7 +2,7 @@ import {
   attributesOf,
   recordedModeOf,
 } from "akasha/agents/modules/attributes/agent-attributes.module.code.ts"
-import { principalOf } from "akasha/agents/seats/modules/principal/seat-principal.module.code.ts"
+import { principalOf } from "akasha/agents/seats/declaration/modules/principal/seat-principal.module.code.ts"
 import type { StatedAgentSlots } from "akasha/agents/seats/supervisors/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
 
 export type CarriedAgentName = {
