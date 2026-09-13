@@ -46,6 +46,10 @@ export const changeDomainParent = {
     },
     {
       invariantKind: "departure",
+      statement: "A parent spelling the page among its parts more than once is refused.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The mechanical changes take the value out and put the value in.",
     },
     {

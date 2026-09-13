@@ -225,3 +225,30 @@ test("a parent whose parts do not spell the page is refused", async () => {
     `\`${HELD}\` states \`command/imessage-contact-list\` among no parts`
   )
 })
+
+const TWICE: Value = {
+  id: PACKAGE,
+  pageTypeSlug: "workspace-package",
+  slug: "imessage",
+  parts: ["command/imessage-contact-list", COMMAND],
+}
+
+test("a parent spelling the page among its parts more than once is refused", async () => {
+  const said = await runChange(worldTold({ namers: [PACKAGE], page: TWICE }), ASKED)
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toBe(
+    `\`${HELD}\` spells \`command/imessage-contact-list\` among its parts more than once`
+  )
+})
+
+test("that refusal does not turn on which spelling is written first", async () => {
+  const flipped: Value = { ...TWICE, parts: [COMMAND, "command/imessage-contact-list"] }
+
+  const said = await runChange(worldTold({ namers: [PACKAGE], page: flipped }), ASKED)
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toBe(
+    `\`${HELD}\` spells \`command/imessage-contact-list\` among its parts more than once`
+  )
+})

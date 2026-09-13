@@ -66,12 +66,13 @@ export function parentOf(world: World, known: Shaped, of: Placed, named: string)
   return { id: first, path: listed.path }
 }
 
-export function spelledIn(known: Shaped, value: Value, id: string): string | null {
+export function spellingsIn(known: Shaped, value: Value, id: string): readonly string[] {
+  const found: string[] = []
   for (const one of namesIn(value[PARTS])) {
     const reached = reaches(one, DOMAIN, known)
-    if ("id" in reached && reached.id === id) return one
+    if ("id" in reached && reached.id === id) found.push(one)
   }
-  return null
+  return found
 }
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
@@ -86,8 +87,14 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (from.id === to.id) return refusing(`\`${given.page}\` is a part of \`${to.path}\` already`)
   const read = readFor(world, from.path)
   if ("refused" in read) return refusing(`${read.refused}, so no parent is changed`)
-  const spelled = spelledIn(read.known, read.value, page.id)
-  if (spelled === null) return refusing(`\`${from.path}\` states \`${given.page}\` among no parts`)
+  const spellings = spellingsIn(read.known, read.value, page.id)
+  const spelled = spellings[0]
+  if (spelled === undefined) {
+    return refusing(`\`${from.path}\` states \`${given.page}\` among no parts`)
+  }
+  if (spellings.length > ONE) {
+    return refusing(`\`${from.path}\` spells \`${given.page}\` among its parts more than once`)
+  }
   const gaining = readFor(world, to.path)
   if ("refused" in gaining) return refusing(`${gaining.refused}, so no parent gains the page`)
   const taken = await reach(world, REMOVE_PROPERTY_VALUE, {
