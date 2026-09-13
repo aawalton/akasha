@@ -64,7 +64,9 @@ const READS_ONE =
 const UNDECIDABLE =
   "whether a record here landed already is undecidable, so read one before trusting it"
 
-const NO_LANDING = "no command lands a record kept here, so landing one means drafting it again"
+const TAKES_ONE =
+  "`akasha change subagent take` takes one of these into the edits this agent keeps, and" +
+  " `akasha change apply` lands those"
 
 const TOO_MUCH = `runs past the ${ANSWER_CEILING} bytes one answer holds, and no line range is taken`
 
@@ -115,7 +117,7 @@ export function saidAbout(one: KeptRecord): string {
 export function listingRecords(root: string, page: string): Answer {
   const held = recordsKept(root, page)
   if (held.length === 0) return told([NOTHING_HELD])
-  return told([...held.map(saidAbout), READS_ONE, UNDECIDABLE, NO_LANDING])
+  return told([...held.map(saidAbout), READS_ONE, UNDECIDABLE, TAKES_ONE])
 }
 
 function bodySaid(named: string, text: string): string {

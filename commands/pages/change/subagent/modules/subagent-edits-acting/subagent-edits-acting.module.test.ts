@@ -83,12 +83,12 @@ test("a record is named with the subagent that left it and what that record does
   expect(said[0]).toContain("changes one.md")
 })
 
-test("a listing says a record cannot be judged landed rather than naming a landing", () => {
+test("a listing says a record cannot be judged landed and names the call taking one", () => {
   const root = seatWith([ONE])
 
   const said = listingRecords(root, SEAT).report
   expect(said.some((one) => one.includes("undecidable"))).toBe(true)
-  expect(said.some((one) => one.includes("no command lands a record kept here"))).toBe(true)
+  expect(said.some((one) => one.includes("akasha change subagent take"))).toBe(true)
 })
 
 test("an agent keeping no record is said rather than refused", () => {

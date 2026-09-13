@@ -49,7 +49,7 @@ export const changeSubagentList = {
     },
     {
       invariantKind: "departure",
-      statement: "A list says no command lands a record it names.",
+      statement: "A list names the call taking a record into the edits this agent keeps.",
     },
     {
       invariantKind: "departure",
