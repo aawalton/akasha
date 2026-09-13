@@ -9,6 +9,7 @@ export const changeAgentPageProperty = {
     "change-agent/add-file-property-extensions",
     "change-agent/add-page-property-types",
     "change-agent/change-calculation-held-type",
+    "change-agent/remove-page-property",
     "change-agent/rename-page-property-property-slug",
   ],
 } as const satisfies Domain

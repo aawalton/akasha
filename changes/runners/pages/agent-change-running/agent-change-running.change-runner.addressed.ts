@@ -116,6 +116,9 @@ export type Changes = {
   "change-agent/remove-page": Parameters<
     typeof import("akasha/changes/agent/file/remove-page/remove-page.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/remove-page-property": Parameters<
+    typeof import("akasha/changes/agent/page-property/remove-page-property/remove-page-property.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/remove-page-type": Parameters<
     typeof import("akasha/changes/agent/file/remove-page-type/remove-page-type.change-agent.code.ts")["runChange"]
   >[1]
