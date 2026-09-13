@@ -9,6 +9,7 @@ export const changeMechanicalPageType = {
   extends: ["page-type/change-mechanical"],
   parts: [
     "domain/change-mechanical-page-type-add",
+    "domain/change-mechanical-page-type-change",
     "domain/change-mechanical-page-type-move",
     "domain/change-mechanical-page-type-remove",
     "domain/change-mechanical-page-type-rename",
