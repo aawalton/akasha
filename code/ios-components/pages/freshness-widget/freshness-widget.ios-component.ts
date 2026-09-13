@@ -17,6 +17,14 @@ export const freshnessWidget = {
     },
     {
       invariantKind: "departure",
+      statement: "The tile names the feed that oldest reading came from.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A feed is named by the last part of its path.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A reading's moment is written only where that reading decoded.",
     },
     {

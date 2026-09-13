@@ -19,15 +19,25 @@ func cases(now: Date) -> [RenderCase] {
     var all: [RenderCase] = categorizeCases()
 
     // BOTH BUNDLES SHIP THE FRESHNESS TILE, SO ITS CASES ARE OUTSIDE EITHER APP'S GATE.
+    //
+    // The name carried is the longest any feed of either app has, since a name the tile has to
+    // shrink is the case worth looking at.
+    let freshness = """
+        {"stalestSecondsAgo":2730,"stalestName":"attribute-stoplights","tiles":8,\
+        "reloads":46,"fewest":4,"most":9}
+        """
+    let freshnessNeverRead = """
+        {"stalestSecondsAgo":null,"stalestName":null,"tiles":0,"reloads":0,\
+        "fewest":0,"most":0}
+        """
     all.append(
         contentsOf: [
             RenderCase(
                 name: "freshness-small", widget: "FreshnessWidget", familySource: "systemSmall",
-                body: #"{"stalestSecondsAgo":2730,"tiles":8,"reloads":46,"fewest":4,"most":9}"#),
+                body: freshness),
             RenderCase(
                 name: "freshness-small-never-read", widget: "FreshnessWidget",
-                familySource: "systemSmall",
-                body: #"{"stalestSecondsAgo":null,"tiles":0,"reloads":0,"fewest":0,"most":0}"#),
+                familySource: "systemSmall", body: freshnessNeverRead),
         ])
 
     #if !HARNESS_ALANWALTON

@@ -76,8 +76,16 @@ enum ReloadLog {
 enum Freshness {
     static let TAKEN_PREFIX = "last-known-taken-at"
 
-    static func stalest(_ taken: [String: Date]) -> Date? {
-        taken.values.min()
+    static func stalest(_ taken: [String: Date]) -> (path: String, at: Date)? {
+        let oldest = taken.min {
+            $0.value == $1.value ? $0.key < $1.key : $0.value < $1.value
+        }
+        return oldest.map { (path: $0.key, at: $0.value) }
+    }
+
+    // THE LAST PART OF A FEED'S PATH IS ALL A TILE THIS SIZE HAS ROOM TO NAME IT BY.
+    static func naming(_ path: String) -> String {
+        String(path.split(separator: "/").last ?? "")
     }
 
     static func taken(_ stored: [String: Any]) -> [String: Date] {
@@ -97,6 +105,7 @@ enum Freshness {
 struct FreshnessEntry: TimelineEntry {
     let date: Date
     let stalest: Date?
+    let stalestName: String?
     let tiles: Int
     let reloads: Int
     let fewest: Int
@@ -106,6 +115,7 @@ struct FreshnessEntry: TimelineEntry {
 // A HARNESS DRAWS THIS TILE FROM A BODY, SINCE THE STORE IT READS IS THE PHONE'S OWN.
 struct FreshnessReadout: Decodable {
     let stalestSecondsAgo: Double?
+    let stalestName: String?
     let tiles: Int
     let reloads: Int
     let fewest: Int
@@ -119,16 +129,18 @@ enum FreshnessReading {
     static func reading(taken: [String: Date], kept: [String], now: Date) -> FreshnessEntry {
         let noted = ReloadLog.since(kept, now.addingTimeInterval(-OVER))
         let band = ReloadLog.fewestAndMost(ReloadLog.perPath(noted))
+        let oldest = Freshness.stalest(taken)
         return FreshnessEntry(
-            date: now, stalest: Freshness.stalest(taken), tiles: taken.count,
-            reloads: noted.count, fewest: band?.fewest ?? 0, most: band?.most ?? 0)
+            date: now, stalest: oldest?.at, stalestName: oldest.map { Freshness.naming($0.path) },
+            tiles: taken.count, reloads: noted.count, fewest: band?.fewest ?? 0,
+            most: band?.most ?? 0)
     }
 
     static func made(_ readout: FreshnessReadout, at now: Date) -> FreshnessEntry {
         FreshnessEntry(
             date: now, stalest: readout.stalestSecondsAgo.map { now.addingTimeInterval(-$0) },
-            tiles: readout.tiles, reloads: readout.reloads, fewest: readout.fewest,
-            most: readout.most)
+            stalestName: readout.stalestName, tiles: readout.tiles, reloads: readout.reloads,
+            fewest: readout.fewest, most: readout.most)
     }
 }
 
@@ -149,8 +161,8 @@ struct RefreshEveryTile: AppIntent {
 struct FreshnessProvider: TimelineProvider {
     func placeholder(in context: TimelineProviderContext) -> FreshnessEntry {
         FreshnessEntry(
-            date: Date(), stalest: Date().addingTimeInterval(-420), tiles: 8, reloads: 46,
-            fewest: 4, most: 9)
+            date: Date(), stalest: Date().addingTimeInterval(-420),
+            stalestName: "claude-usage", tiles: 8, reloads: 46, fewest: 4, most: 9)
     }
 
     func getSnapshot(
@@ -186,6 +198,12 @@ struct FreshnessHomeView: View {
                     .font(.caption2.weight(.semibold))
                     .foregroundStyle(.secondary)
                 age
+                if let named = entry.stalestName {
+                    Text(named)
+                        .font(.caption2.weight(.semibold))
+                        .lineLimit(1)
+                        .minimumScaleFactor(0.6)
+                }
                 Spacer()
                 Text(entry.tiles == 0 ? "no feed has answered yet" : "\(entry.tiles) feeds")
                     .font(.caption2)
