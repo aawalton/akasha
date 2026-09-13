@@ -21,6 +21,7 @@ export const index = {
     "module/fixture-world",
     "module/generated-properties",
     "module/index-answering",
+    "module/index-carrying",
     "module/index-entries",
     "module/index-filing",
     "module/index-keeping",
