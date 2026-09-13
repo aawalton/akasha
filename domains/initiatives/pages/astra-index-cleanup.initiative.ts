@@ -13,7 +13,11 @@ export const astraIndexCleanup = {
         "`index-answers-are-level-with-the-change` judges at change since `b0bd8841`, both ways, reading `shadow.filed()` against `change.carried`, so nothing is built again. It has refused no landing of mine since. The hazard it does not reach is the one relation carries: a change to a page type turns answers for every page of that type, far outside the files that change has, and those are left out.\n",
     },
     { statement: "Alan holds the value index's structure correct." },
-    { statement: "Alan holds the path index's structure correct." },
+    {
+      statement: "Alan holds the path index's structure correct.",
+      workingMemory:
+        "128,409 files holding 21 MB of `{path,id}` lines. `claimantOf` in `path-claiming` replaces it: name arithmetic, then the name a page type declares, read against each folder above. It takes a `Listing`, so a guard hands in the folder its answer leaves. Six callers left — `file-has-its-page`, `folder-matches-a-shape`, `page-property-has-its-file`, `file-domain`, `graph-asking` and one whose subject dissolves — all waiting on fixtures that file an index answer for a page with no body.\n",
+    },
     { statement: "Alan holds the listing index's structure correct." },
     { statement: "Alan holds the import index's structure correct." },
     { statement: "Alan holds the rule index's structure correct." },
