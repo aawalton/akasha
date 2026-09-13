@@ -2,16 +2,16 @@ import * as declarations from "akasha/agents/modules/attributes/agent-attributes
 import {
   type InitiativeRecord,
   initiativeOf,
-} from "akasha/agents/seats/declaration/modules/initiative/seat-initiative.module.code.ts"
-import { onCallOf } from "akasha/agents/seats/declaration/modules/on-call/seat-on-call.module.code.ts"
+} from "akasha/agents/seats/declaration/modules/seat-initiative/seat-initiative.module.code.ts"
+import { onCallOf } from "akasha/agents/seats/declaration/modules/seat-on-call/seat-on-call.module.code.ts"
 import {
   type PrincipalRecord,
   principalOf,
-} from "akasha/agents/seats/declaration/modules/principal/seat-principal.module.code.ts"
+} from "akasha/agents/seats/declaration/modules/seat-principal/seat-principal.module.code.ts"
 import {
   type RegistrationRecord,
   registrationAccountOf,
-} from "akasha/agents/seats/declaration/modules/registration-account/seat-registration-account.module.code.ts"
+} from "akasha/agents/seats/declaration/modules/seat-registration-account/seat-registration-account.module.code.ts"
 import type { Principal } from "akasha/agents/seats/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import {
   type FlexRecord,

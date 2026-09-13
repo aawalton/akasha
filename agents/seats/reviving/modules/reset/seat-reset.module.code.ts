@@ -1,4 +1,4 @@
-import { principalSeatNameOf } from "akasha/agents/seats/declaration/modules/principal/seat-principal.module.code.ts"
+import { principalSeatNameOf } from "akasha/agents/seats/declaration/modules/seat-principal/seat-principal.module.code.ts"
 import { stateSpawnedSeat } from "akasha/agents/seats/declaration/modules/state-spawned-seat/state-spawned-seat.module.code.ts"
 import {
   pageWouldCompose,

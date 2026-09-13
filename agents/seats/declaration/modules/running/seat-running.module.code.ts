@@ -12,23 +12,23 @@ import {
   handlerDerives,
   personaIsHers,
   refuseAnswering,
-} from "akasha/agents/seats/declaration/modules/answering/seat-answering.module.code.ts"
+} from "akasha/agents/seats/declaration/modules/seat-answering/seat-answering.module.code.ts"
 import {
   type Args,
   parseArgs,
-} from "akasha/agents/seats/declaration/modules/args/seat-args.module.code.ts"
-import { attributeFor } from "akasha/agents/seats/declaration/modules/attribute/seat-attribute.module.code.ts"
-import { defaultLines } from "akasha/agents/seats/declaration/modules/defaults/seat-defaults.module.code.ts"
-import { SEAT_HELP } from "akasha/agents/seats/declaration/modules/help/seat-help.module.code.ts"
-import { refuseInitiative } from "akasha/agents/seats/declaration/modules/initiative/seat-initiative.module.code.ts"
-import { principalOf } from "akasha/agents/seats/declaration/modules/principal/seat-principal.module.code.ts"
+} from "akasha/agents/seats/declaration/modules/seat-args/seat-args.module.code.ts"
+import { attributeFor } from "akasha/agents/seats/declaration/modules/seat-attribute/seat-attribute.module.code.ts"
+import { defaultLines } from "akasha/agents/seats/declaration/modules/seat-defaults/seat-defaults.module.code.ts"
+import { SEAT_HELP } from "akasha/agents/seats/declaration/modules/seat-help/seat-help.module.code.ts"
+import { refuseInitiative } from "akasha/agents/seats/declaration/modules/seat-initiative/seat-initiative.module.code.ts"
+import { principalOf } from "akasha/agents/seats/declaration/modules/seat-principal/seat-principal.module.code.ts"
 import {
   defaultFor,
   defaultSlots,
   type Found,
   resolveAttributes,
   scan,
-} from "akasha/agents/seats/declaration/modules/resolve/seat-resolve.module.code.ts"
+} from "akasha/agents/seats/declaration/modules/seat-resolve/seat-resolve.module.code.ts"
 import { statedNow } from "akasha/agents/seats/declaration/modules/stated/seat-stated.module.code.ts"
 import {
   composeSeatName,

@@ -1,4 +1,4 @@
-import { personaIsDefault } from "akasha/agents/seats/declaration/modules/resolve/seat-resolve.module.code.ts"
+import { personaIsDefault } from "akasha/agents/seats/declaration/modules/seat-resolve/seat-resolve.module.code.ts"
 import { personaAt } from "akasha/personas/modules/reading/persona-reading.module.code.ts"
 import {
   answeredByOf,

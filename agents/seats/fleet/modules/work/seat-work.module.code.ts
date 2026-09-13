@@ -1,4 +1,4 @@
-import { initiativeOf } from "akasha/agents/seats/declaration/modules/initiative/seat-initiative.module.code.ts"
+import { initiativeOf } from "akasha/agents/seats/declaration/modules/seat-initiative/seat-initiative.module.code.ts"
 import { seatPageAgents } from "akasha/agents/seats/observation/modules/presence-read/seat-presence-read.module.code.ts"
 import { colorOfState } from "akasha/agents/seats/observation/seat-turn/modules/turn-color/seat-turn-color.module.code.ts"
 import {

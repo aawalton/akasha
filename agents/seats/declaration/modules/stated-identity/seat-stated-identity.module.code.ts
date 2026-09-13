@@ -6,7 +6,7 @@ import {
 import {
   resolveAttributes,
   scan,
-} from "akasha/agents/seats/declaration/modules/resolve/seat-resolve.module.code.ts"
+} from "akasha/agents/seats/declaration/modules/seat-resolve/seat-resolve.module.code.ts"
 import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 
 export interface StatedIdentity {

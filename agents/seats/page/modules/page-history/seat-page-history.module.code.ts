@@ -2,7 +2,7 @@ import {
   DECLARATIONS,
   type Declaration,
 } from "akasha/agents/modules/attributes/agent-attributes.module.code.ts"
-import { initiativeStemOf } from "akasha/agents/seats/declaration/modules/initiative/seat-initiative.module.code.ts"
+import { initiativeStemOf } from "akasha/agents/seats/declaration/modules/seat-initiative/seat-initiative.module.code.ts"
 import { FLEET } from "akasha/agents/seats/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import {
   akashaSeatInHistory,

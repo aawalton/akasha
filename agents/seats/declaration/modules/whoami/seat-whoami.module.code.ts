@@ -6,7 +6,7 @@ import {
 import {
   principalOf,
   principalSeatIdOf,
-} from "akasha/agents/seats/declaration/modules/principal/seat-principal.module.code.ts"
+} from "akasha/agents/seats/declaration/modules/seat-principal/seat-principal.module.code.ts"
 import {
   seatIdForName,
   seatNameForAgent,

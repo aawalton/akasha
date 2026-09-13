@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   type Answerable,
   refusedAnswering,
-} from "akasha/agents/seats/declaration/modules/answering/seat-answering.module.code.ts"
+} from "akasha/agents/seats/declaration/modules/seat-answering/seat-answering.module.code.ts"
 
 const AMONG: Answerable = {
   personIsPrincipal: (principal) => principal === "alan",

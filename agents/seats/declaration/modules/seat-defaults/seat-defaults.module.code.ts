@@ -1,7 +1,7 @@
 import {
   defaultFor,
   defaultSlots,
-} from "akasha/agents/seats/declaration/modules/resolve/seat-resolve.module.code.ts"
+} from "akasha/agents/seats/declaration/modules/seat-resolve/seat-resolve.module.code.ts"
 
 export function defaultLines(root: string): readonly string[] {
   return defaultSlots(root).flatMap((slot) => {

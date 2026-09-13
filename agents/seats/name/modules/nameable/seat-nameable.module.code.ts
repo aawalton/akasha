@@ -3,7 +3,7 @@ import {
   type Attributes,
   type Declaration,
 } from "akasha/agents/modules/attributes/agent-attributes.module.code.ts"
-import { principalOf } from "akasha/agents/seats/declaration/modules/principal/seat-principal.module.code.ts"
+import { principalOf } from "akasha/agents/seats/declaration/modules/seat-principal/seat-principal.module.code.ts"
 import type {
   NameableSeat,
   Principal,
