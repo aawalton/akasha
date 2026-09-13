@@ -3706,6 +3706,8 @@ declare module 'vscode' {
 
 		count?: number;
 
+		colorCounts?: { count: number; color: ThemeColor }[];
+
 		resourceUri?: Uri;
 
 		tooltip?: string | MarkdownString | undefined;
