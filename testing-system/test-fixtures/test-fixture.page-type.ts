@@ -6,7 +6,7 @@ export const testFixture = {
   slug: "test-fixture",
   definition: "the world more than one module's tests are set up with",
   pluralSlug: "test-fixtures",
-  parts: ["test-fixture/page-holding", "test-fixture/repo-seeding"],
+  parts: ["test-fixture/minting", "test-fixture/page-holding", "test-fixture/repo-seeding"],
   extends: ["page-type/domain"],
   properties: [
     { pageProperty: "code-file-property/code", required: true, many: false },

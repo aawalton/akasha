@@ -22,7 +22,7 @@ import {
   valueAlsoFiled,
 } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import { shapeAdded } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
-import { mintedId } from "akasha/testing-system/modules/minting/minting.module.code.ts"
+import { mintedId } from "akasha/testing-system/test-fixtures/minting/minting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 

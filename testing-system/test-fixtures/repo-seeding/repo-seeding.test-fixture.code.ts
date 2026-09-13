@@ -30,13 +30,13 @@ import {
 } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
 import { INDEX_AT } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import { bytesOf as bytes } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
+import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
 import {
   ADMITS_CODE,
   MINTED,
   mintedId,
   minting,
-} from "akasha/testing-system/modules/minting/minting.module.code.ts"
-import { put } from "akasha/testing-system/modules/putting/putting.module.code.ts"
+} from "akasha/testing-system/test-fixtures/minting/minting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 export const ADMITS_AT = "akasha/admits.code-check*"

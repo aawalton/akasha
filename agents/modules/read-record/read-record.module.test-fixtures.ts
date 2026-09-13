@@ -9,7 +9,7 @@ import {
   valueAlsoFiled,
 } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import { nothingFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
-import { mintedId } from "akasha/testing-system/modules/minting/minting.module.code.ts"
+import { mintedId } from "akasha/testing-system/test-fixtures/minting/minting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 export const AGENT = "01a04e96-c80a-79ef-819f-a455a96a0e54"

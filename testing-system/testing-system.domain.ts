@@ -13,7 +13,6 @@ export const testingSystem = {
     "module/dom-guard-setting",
     "module/dom-guarding",
     "module/dom-registering",
-    "module/minting",
 
     "module/putting",
 

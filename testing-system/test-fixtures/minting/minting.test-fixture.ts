@@ -1,8 +1,8 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { TestFixture } from "akasha/testing-system/test-fixtures/test-fixture.page-type.types.ts"
 
 export const minting = {
   id: "01a04e33-9351-7e79-8041-89abfa036830",
-  type: "module",
+  type: "test-fixture",
   slug: "minting",
   definition: "the pages a test sets up in a root of its own, and the ids it mints them under",
   code: "ts",
@@ -44,4 +44,4 @@ export const minting = {
       statement: "Nothing here reaches a fixture beside another module.",
     },
   ],
-} as const satisfies Module
+} as const satisfies TestFixture

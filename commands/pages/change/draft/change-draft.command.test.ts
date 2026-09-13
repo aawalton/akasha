@@ -5,7 +5,7 @@ import {
   changeDraft,
   drafted,
 } from "akasha/commands/pages/change/draft/change-draft.command.code.ts"
-import { REFUSES_CODE } from "akasha/testing-system/modules/minting/minting.module.code.ts"
+import { REFUSES_CODE } from "akasha/testing-system/test-fixtures/minting/minting.test-fixture.code.ts"
 import {
   applied,
   checking,
