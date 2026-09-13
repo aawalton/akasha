@@ -1,3 +1,7 @@
+import {
+  isPropertyPath,
+  reachedIn,
+} from "akasha/pages/core/filter/modules/property-path/property-path.module.code.ts"
 import type {
   PageCondition,
   PageWhere,
@@ -57,22 +61,15 @@ function effectiveLhs(
   return v === undefined && materializedKeys.has(key) ? null : v
 }
 
-function matchCondition(
+type KeyedCondition = Extract<PageCondition, { key: string }>
+
+function matchKeyed(
   page: Readonly<Record<string, unknown>>,
-  resolved: ResolvedOverlay,
-  materializedKeys: ReadonlySet<string>,
   contentKeys: ReadonlySet<string>,
   richDocumentKeys: ReadonlySet<string>,
-  cond: PageCondition
+  cond: KeyedCondition,
+  lhs: unknown
 ): boolean {
-  if ("or" in cond) {
-    if (cond.or.length === 0) throw new Error("view-match: empty 'or' disjunction is not supported")
-    return cond.or.some((arm) =>
-      matchCondition(page, resolved, materializedKeys, contentKeys, richDocumentKeys, arm)
-    )
-  }
-  const lhs = effectiveLhs(page, resolved, materializedKeys, cond.key)
-
   if ("eq" in cond) {
     if (cond.eq === null) return isNullish(lhs)
     return jsonEquals(lhs, cond.eq)
@@ -119,6 +116,31 @@ function matchCondition(
     return !isEmptyCell(lhs)
   }
   throw new Error(`view-match: unknown condition shape ${JSON.stringify(cond)}`)
+}
+
+function matchCondition(
+  page: Readonly<Record<string, unknown>>,
+  resolved: ResolvedOverlay,
+  materializedKeys: ReadonlySet<string>,
+  contentKeys: ReadonlySet<string>,
+  richDocumentKeys: ReadonlySet<string>,
+  cond: PageCondition
+): boolean {
+  if ("or" in cond) {
+    if (cond.or.length === 0) throw new Error("view-match: empty 'or' disjunction is not supported")
+    return cond.or.some((arm) =>
+      matchCondition(page, resolved, materializedKeys, contentKeys, richDocumentKeys, arm)
+    )
+  }
+  if (isPropertyPath(cond.key)) {
+    const reached = reachedIn(page, cond.key)
+    if (reached.length === 0) {
+      return matchKeyed(page, contentKeys, richDocumentKeys, cond, undefined)
+    }
+    return reached.some((one) => matchKeyed(page, contentKeys, richDocumentKeys, cond, one))
+  }
+  const lhs = effectiveLhs(page, resolved, materializedKeys, cond.key)
+  return matchKeyed(page, contentKeys, richDocumentKeys, cond, lhs)
 }
 
 function isEmptyCell(lhs: unknown): boolean {
