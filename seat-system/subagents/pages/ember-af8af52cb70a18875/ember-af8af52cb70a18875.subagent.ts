@@ -1,4 +1,4 @@
-import type { Subagent } from "akasha/seat-system/subagents/subagent.page-type.types.ts"
+import type { Subagent } from "akasha/agents/subagents/subagent.page-type.types.ts"
 
 export const emberAf8af52cb70a18875 = {
   id: "01a09c03-cca7-7a7b-8ea8-dc4ce087a882",
