@@ -11,6 +11,8 @@ export type Holding = {
 
 export type Holds = (folder: string) => Holding
 
+const ROOT = ""
+
 export function openingWith(named: string, above: readonly string[]): string | null {
   for (const one of above) {
     if (named === one || named.startsWith(`${one}-`)) return one
@@ -60,6 +62,7 @@ export function namingOver(
   held: ReadonlySet<string>
 ): (folder: string) => Wanted | null {
   return (folder) => {
+    if (folder === ROOT) return null
     const names = holds(folder).names
     const gives = names[1] ?? names[0]
     if (gives === undefined) return null

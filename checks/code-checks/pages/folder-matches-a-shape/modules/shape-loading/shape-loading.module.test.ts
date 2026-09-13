@@ -13,7 +13,7 @@ function standingAt(folder: string): Standing {
 
 const TAKING: Shape = { slug: "modules-only", judge: () => [], holds: ["modules", ".server"] }
 
-const ANY: Shape = { slug: "the-workspace-root", judge: () => [], holds: null }
+const ANY: Shape = { slug: "a-domain-with-its-parts", judge: () => [], holds: null }
 
 test("a shape is handed a folder of the name that shape publishes", () => {
   expect(judgedBy(TAKING, standingAt("akasha/foo/modules"))).toEqual([])

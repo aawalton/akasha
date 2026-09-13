@@ -23,7 +23,20 @@ export const aDomainWithItsParts = {
     },
     {
       invariantKind: "departure",
-      statement: "Every other file in the folder is a part the page states.",
+      statement: "A second page in the folder is one the folder answers for beside the domain.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every other file in the folder is a part one of those two pages states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The folder every other folder in the workspace sits under takes this shape.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "That folder takes the name of the checkout rather than the name its domain gives.",
     },
     {
       invariantKind: "departure",

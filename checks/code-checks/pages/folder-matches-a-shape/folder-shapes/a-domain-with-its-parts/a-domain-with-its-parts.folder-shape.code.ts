@@ -1,13 +1,23 @@
 import { basename } from "node:path"
 import type { Standing } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts"
 import { saidInside } from "akasha/checks/modules/shape-saying/shape-saying.module.code.ts"
+import type { Held } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
 const DOMAIN = "domain"
 
+function besideIn(standing: Standing): Held | null {
+  if (standing.pages.length !== 2) return null
+  const holding = standing.holds(standing.folder)
+  if (holding.length !== 2) return null
+  const found = standing.pages.filter((one) => `${one.pageTypeSlug}/${one.slug}` === holding[1])
+  return found.length === 1 ? (found[0] ?? null) : null
+}
+
 export function aDomainWithItsParts(standing: Standing): readonly string[] {
-  const page = standing.pages[0]
+  const beside = besideIn(standing)
+  const page = standing.pages.find((one) => one !== beside)
   if (page === undefined) return ["it holds no page of its own"]
-  if (standing.pages.length > 1) {
+  if (standing.pages.length > (beside === null ? 1 : 2)) {
     return [
       `it holds ${standing.pages.length} pages rather than one: ${saidInside(standing.folder, standing.pages)}`,
     ]
@@ -16,7 +26,10 @@ export function aDomainWithItsParts(standing: Standing): readonly string[] {
     return [`\`${page.slug}\` is a \`${page.pageTypeSlug}\` rather than a domain`]
   }
   const said: string[] = []
-  const parts = new Set<string>(standing.parts(page))
+  const parts = new Set<string>([
+    ...standing.parts(page),
+    ...(beside === null ? [] : standing.parts(beside)),
+  ])
   const loose = standing.files.filter((one) => !parts.has(one))
   if (loose.length > 0) {
     said.push(

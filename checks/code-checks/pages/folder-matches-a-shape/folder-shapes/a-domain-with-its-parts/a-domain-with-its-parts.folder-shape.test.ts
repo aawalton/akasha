@@ -2,8 +2,11 @@ import { expect, test } from "bun:test"
 import {
   folderFrom,
   holdsAt,
+  holdsFrom,
+  type Shaping,
 } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.decision.test-fixtures.ts"
 import { aDomainWithItsParts } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-domain-with-its-parts/a-domain-with-its-parts.folder-shape.code.ts"
+import type { Standing } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts"
 
 const FOLDER = "akasha/models"
 
@@ -97,4 +100,52 @@ test("a folder holding two pages is refused", () => {
   const said = judged([], ["models.domain.ts", "other.domain.ts"])
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("2 pages rather than one")
+})
+
+const ROOT = ""
+
+const ROOT_TYPES = new Set<string>(["domain", "workspace", "page-type", "module", "seat"])
+
+const ROOT_HELD: Readonly<Record<string, readonly string[]>> = {
+  "": ["domain/akasha", "workspace/akasha-workspace"],
+  "/held": ["domain/held"],
+}
+
+const ROOT_DECLARED = new Set<string>(["domain/held"])
+
+const ROOT_PAGES = ["akasha-workspace.workspace.ts", "akasha.domain.ts"]
+
+function rootFrom(shaping: Partial<Shaping>): (names: readonly string[]) => Standing {
+  return folderFrom({
+    folder: ROOT,
+    pageTypes: ROOT_TYPES,
+    extending: (pageTypeSlug, wanted) => wanted === "domain" && DOMAINS.has(pageTypeSlug),
+    declared: () => ROOT_DECLARED,
+    holds: holdsFrom(ROOT_HELD),
+    ...shaping,
+  })
+}
+
+test("the folder every other folder sits under takes the shape", () => {
+  const made = rootFrom({ deep: ["held/held.domain.ts"] })
+  expect(aDomainWithItsParts(made(ROOT_PAGES))).toEqual([])
+})
+
+test("a third page in that folder is refused", () => {
+  const said = aDomainWithItsParts(rootFrom({})([...ROOT_PAGES, "third.domain.ts"]))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("3 pages rather than one")
+})
+
+test("a file the second page states is a part of the folder", () => {
+  const made = rootFrom({
+    parts: (page) => (page.slug === "akasha" ? [page.path] : [page.path, "/package.json"]),
+  })
+  expect(aDomainWithItsParts(made([...ROOT_PAGES, "package.json"]))).toEqual([])
+})
+
+test("a file neither page states is refused", () => {
+  const said = aDomainWithItsParts(rootFrom({})([...ROOT_PAGES, "package.json"]))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("package.json")
 })

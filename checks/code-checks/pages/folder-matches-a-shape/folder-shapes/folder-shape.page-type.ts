@@ -52,7 +52,6 @@ export const folderShape = {
     "folder-shape/sections-of-the-book-above",
     "folder-shape/sections-of-the-section-beside",
     "folder-shape/test-fixtures-only",
-    "folder-shape/the-workspace-root",
   ],
   extends: ["page-type/module"],
   loadedBy: "code-check/folder-matches-a-shape",
@@ -186,6 +185,10 @@ export const folderShape = {
     {
       invariantKind: "departure",
       statement: "That answer is a folder wanting a name rather than a folder wanting no name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The folder with nothing above it answers with no name.",
     },
     {
       invariantKind: "departure",

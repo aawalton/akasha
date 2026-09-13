@@ -39,6 +39,11 @@ test("a folder wanting a name that cannot be worked out still wants a name", () 
   expect(naming("akasha/temper-skills/skills")).toEqual({ name: null, gives: "temper-skills" })
 })
 
+test("the folder with nothing above it is asked for no name", () => {
+  const naming = namingOver(holding({ "": ["akasha"] }), HELD)
+  expect(naming("")).toBe(null)
+})
+
 test("a folder named `pages` the page in it names is that page's folder rather than a part", () => {
   const holds = holding({ "akasha/pages-system/pages": ["page", "pages"] })
   expect(heldFolder("akasha/pages-system/pages", holds, HELD)).toBe(false)
