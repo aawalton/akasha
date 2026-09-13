@@ -17,11 +17,7 @@ export const akashaFolderShape = {
       workingMemory:
         "No pair of the twelve judges differs only in `HOLDS`. `judgedBy` in `shape-loading` does the name check before a judge runs, so `HOLDS` is already a parameter, and five shapes publish none. The judges differ in control flow rather than in data: three predicates for a page type, a three-valued empty-folder policy, five subfolder policies. The two shapes holding `properties` stay two, because `folder-shape.page-type.ts:60` makes one folder matching two a departure.\n",
     },
-    {
-      statement: "Every shape allowed by folder-matches-a-shape is clean and approved by Alan.",
-      workingMemory:
-        "The root matches `a-domain-with-its-parts` since `60b68ecf008`, and `the-workspace-root` is gone. At `1caacb64e06` the check refuses 67 module folders under `agents/seats/*/modules`, each named against the `seat-*` domain above rather than `seat` two levels up, and four of them share their domain's slug. `seat-system` drains as eppie's subagents return. Alan is reorganizing `agents/seats` himself, and the check goes on for change once the root is clean.\n",
-    },
+
     {
       statement: "A check determines whether a folder should be a workspace package.",
       workingMemory:
