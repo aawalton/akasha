@@ -64,7 +64,7 @@ test("a page type this change hands on is reached through the runner the world c
 
   const said = await renamePageType({ ...UNASKED, reaching }, { at: A_TYPE, to: TO })
 
-  expect(reached).toBe("change-mechanical-page-type/rename-page-type-pages")
+  expect(reached).toBe("change-mechanical-page-type/rename-page-type")
   expect(handed).toEqual({ at: A_TYPE, to: TO })
   expect(said.refused).toBeNull()
 })

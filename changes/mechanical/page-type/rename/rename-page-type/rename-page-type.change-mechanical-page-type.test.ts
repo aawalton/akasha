@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { renamePageTypePages } from "akasha/changes/mechanical/page-type/rename/rename-page-type-pages/rename-page-type-pages.change-mechanical-page-type.code.ts"
+import { renamePageType } from "akasha/changes/mechanical/page-type/rename/rename-page-type/rename-page-type.change-mechanical-page-type.code.ts"
 import { repoWorld } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
   aType,
@@ -44,7 +44,7 @@ const HELD: Readonly<Record<string, string>> = {
 }
 
 test("every page and every file a page claims is moved in one answer", () => {
-  const said = renamePageTypePages(repoWorld(HELD), { at: TYPE_AT, to: "gadget" })
+  const said = renamePageType(repoWorld(HELD), { at: TYPE_AT, to: "gadget" })
 
   expect(said.refused).toBe(null)
   expect(said.edits).toEqual([
@@ -66,7 +66,7 @@ test("every page and every file a page claims is moved in one answer", () => {
 })
 
 test("a path naming no page type is refused here", () => {
-  const said = renamePageTypePages(repoWorld(HELD), { at: PAGE_AT, to: "gadget" })
+  const said = renamePageType(repoWorld(HELD), { at: PAGE_AT, to: "gadget" })
 
   expect(said.refused).toBe(
     "`akasha/widgets/one.widget.ts` names no page type, so no page is renamed"

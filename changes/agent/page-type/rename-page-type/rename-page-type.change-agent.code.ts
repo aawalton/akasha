@@ -11,7 +11,7 @@ const PLURAL = "plural"
 
 const PAGE_TYPE = "page-type"
 
-const RENAME_PAGE_TYPE_PAGES = "change-mechanical-page-type/rename-page-type-pages"
+const RENAME_PAGE_TYPE_PAGES = "change-mechanical-page-type/rename-page-type"
 
 export type RenamePageTypeAsked = {
   readonly at: string

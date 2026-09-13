@@ -5,7 +5,7 @@ export const changeMechanicalPageTypeRename = {
   type: "domain",
   slug: "change-mechanical-page-type-rename",
   definition: "a mechanical change restating the slug a page type is named by",
-  parts: ["change-mechanical-page-type/rename-page-type-pages"],
+  parts: ["change-mechanical-page-type/rename-page-type"],
   invariants: [
     {
       invariantKind: "departure",

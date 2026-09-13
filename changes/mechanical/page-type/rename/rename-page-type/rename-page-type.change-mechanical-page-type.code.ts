@@ -15,7 +15,7 @@ export type Asked = {
   readonly to: string
 }
 
-export function renamePageTypePages(world: World, given: Asked): Said {
+export function renamePageType(world: World, given: Asked): Said {
   const was = typeSlugIn(given.at)
   if (was === null) return refusing(`\`${given.at}\` names no page type, so no page is renamed`)
   let held: Moving
@@ -37,5 +37,5 @@ export function renamePageTypePages(world: World, given: Asked): Said {
 }
 
 export function runChange(world: World, given: Asked): Promise<Said> {
-  return Promise.resolve(renamePageTypePages(world, given))
+  return Promise.resolve(renamePageType(world, given))
 }
