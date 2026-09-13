@@ -1,7 +1,6 @@
 import { cpSync, existsSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { blobIdOf, recordRead } from "akasha/agents/modules/read-record/read-record.module.code.ts"
-import { bodyOf } from "akasha/agents/subagents/modules/body/subagent-body.module.code.ts"
 import type {
   Liveness,
   Reading,
@@ -18,6 +17,7 @@ import {
   seatEditsAt,
   seatRefusalsAt,
 } from "akasha/agents/subagents/modules/recovering/subagent-recovering.module.code.ts"
+import { bodyOf } from "akasha/agents/subagents/modules/subagent-body/subagent-body.module.code.ts"
 import { startedAt } from "akasha/files/modules/lock-holder/lock-holder.module.code.ts"
 import {
   holding,
