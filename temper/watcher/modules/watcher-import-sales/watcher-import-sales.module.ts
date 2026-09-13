@@ -14,19 +14,23 @@ export const watcherImportSales = {
     },
     {
       invariantKind: "departure",
-      statement: "A sale entry with a key the sale shape does not name is dropped.",
+      statement: "A sale entry with a key the sale shape does not name refuses the import.",
     },
     {
       invariantKind: "departure",
-      statement: "A sale entry with no sale id is dropped.",
+      statement: "A sale entry with no sale id refuses the import.",
     },
     {
       invariantKind: "departure",
-      statement: "A sale entry with an empty sale id is dropped.",
+      statement: "A sale entry with an empty sale id refuses the import.",
     },
     {
       invariantKind: "departure",
-      statement: "A price or a tax the entry omits reads as zero.",
+      statement: "A sale entry omitting its item name, its price or its tax refuses the import.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal names the key the sale it refused sat under.",
     },
     {
       invariantKind: "departure",
@@ -50,7 +54,19 @@ export const watcherImportSales = {
     },
     {
       invariantKind: "departure",
-      statement: "A saved-variables file with no account-wide table plans no sale write.",
+      statement: "A saved-variables file with no Default table refuses the import.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A saved-variables file with no account-wide table refuses the import.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An account-wide table whose sales are no table of sales refuses the import.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An account-wide table naming no sales at all plans no sale write.",
     },
     {
       invariantKind: "departure",

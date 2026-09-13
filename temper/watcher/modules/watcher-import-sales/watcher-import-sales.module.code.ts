@@ -22,6 +22,15 @@ const SALE_SLUG_BASE = "sale"
 
 const MILLISECONDS_PER_SECOND = 1000
 
+export const NO_DEFAULT_TABLE =
+  "the sales capture holds no Default table, so it is refused rather than read as an account that sold nothing"
+
+export const NO_ACCOUNT_WIDE_TABLE =
+  "no account in the sales capture carries an account-wide table, so it is refused rather than read as an account that sold nothing"
+
+export const UNREADABLE_SALES_TABLE =
+  "the sales capture holds a sales value that is no table of sales, so it is refused rather than read as an account that sold nothing"
+
 const SALE_ENTRY_SCHEMA = z
   .object({
     saleId: z.string().optional(),
@@ -74,32 +83,62 @@ export interface ImportSalesOptions {
   readonly report?: ImportReport
 }
 
+function saidWrong(
+  issues: readonly { readonly path: readonly PropertyKey[]; readonly message: string }[]
+): string {
+  return issues
+    .map((issue) => `\`${issue.path.join(".") || "the entry itself"}\` ${issue.message}`)
+    .join("; ")
+}
+
+export function unreadableSaleWhy(key: string, wrong: string): string {
+  return `the sale under \`${key}\` does not match the sale shape, so it is refused rather than left out of a count that would report every other sale as all of them: ${wrong}`
+}
+
+export function saleMissingWhy(key: string, missing: string, rather: string): string {
+  return `the sale under \`${key}\` names no ${missing}, so it is refused rather than written ${rather}`
+}
+
 export function planSaleImport(content: string): SaleImportPlan {
   const root = parseLuaSavedVariablesFile(content, SALES_GLOBAL_NAME)
   const defaultTable = asRecord(root.Default)
-  if (!defaultTable) return { actions: [] }
+  if (!defaultTable) throw new Error(NO_DEFAULT_TABLE)
 
   const accountWide = readFirstAccountWide(defaultTable)
-  if (!accountWide) return { actions: [] }
+  if (!accountWide) throw new Error(NO_ACCOUNT_WIDE_TABLE)
 
-  const salesRecord = asRecord(accountWide.sales) ?? {}
+  if (accountWide.sales == null) return { actions: [] }
+  const salesRecord = asRecord(accountWide.sales)
+  if (!salesRecord) throw new Error(UNREADABLE_SALES_TABLE)
+
   const actions: SaleUpsert[] = []
   for (const key of Object.keys(salesRecord)) {
     const parsed = SALE_ENTRY_SCHEMA.safeParse(salesRecord[key])
-    if (!parsed.success) continue
+    if (!parsed.success) throw new Error(unreadableSaleWhy(key, saidWrong(parsed.error.issues)))
     const entry = parsed.data
-    if (entry.saleId === undefined || entry.saleId === "") continue
+    if (entry.saleId === undefined || entry.saleId === "") {
+      throw new Error(
+        saleMissingWhy(key, "sale id", "over a page no later capture could find again")
+      )
+    }
+    if (entry.itemName === undefined) {
+      throw new Error(saleMissingWhy(key, "item name", "as a page titled with nothing"))
+    }
+    if (entry.price === undefined) {
+      throw new Error(saleMissingWhy(key, "price", "as a sale that brought in no gold"))
+    }
+    if (entry.tax === undefined) {
+      throw new Error(saleMissingWhy(key, "tax", "with a payout no tax ever came out of"))
+    }
 
-    const price = entry.price ?? 0
-    const tax = entry.tax ?? 0
     actions.push({
       saleId: entry.saleId,
-      itemName: entry.itemName ?? "",
+      itemName: entry.itemName,
       itemId: entry.itemId,
       quantity: entry.quantity,
-      salePrice: price,
-      tax,
-      netPayout: price - tax,
+      salePrice: entry.price,
+      tax: entry.tax,
+      netPayout: entry.price - entry.tax,
       guildName: entry.guildName,
       buyerName: entry.buyerName,
       soldAt: entry.soldAt,

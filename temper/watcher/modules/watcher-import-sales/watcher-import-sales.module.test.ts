@@ -1,14 +1,19 @@
 import { expect, test } from "bun:test"
 import { asPage } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
 import {
+  NO_ACCOUNT_WIDE_TABLE,
+  NO_DEFAULT_TABLE,
   planSaleImport,
   runImportSales,
   type SaleImportPlan,
   type SalePageUpsert,
   type SaleUpsert,
+  saleMissingWhy,
   salePageValues,
   saleSlug,
   saleSoldAtIso,
+  UNREADABLE_SALES_TABLE,
+  unreadableSaleWhy,
   writeSaleImportPlan,
 } from "akasha/temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.code.ts"
 import type { SignedInReader } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
@@ -35,6 +40,7 @@ TemperSales_SavedVariables =
                     ["a"] =
                     {
                         ["saleId"] = "Sale #7 / Guild Store!",
+                        ["itemLink"] = "|H1:item:64489:30:1:0:0|h|h",
                         ["itemName"] = "Rubedite Ore",
                         ["itemId"] = 64489,
                         ["quantity"] = 100,
@@ -47,27 +53,9 @@ TemperSales_SavedVariables =
                     ["b"] =
                     {
                         ["saleId"] = "bare",
-                    },
-                    ["c"] =
-                    {
-                        ["saleId"] = "",
-                        ["itemName"] = "Dropped for empty saleId",
-                    },
-                    ["d"] =
-                    {
-                        ["itemName"] = "Dropped for missing saleId",
-                    },
-                    ["e"] =
-                    {
-                        ["saleId"] = "extra",
-                        ["unknownKey"] = 1,
-                    },
-                    ["f"] =
-                    {
-                        ["saleId"] = "----",
-                        ["itemName"] = "Only punctuation",
-                        ["price"] = 10,
-                        ["tax"] = 30,
+                        ["itemName"] = "Plain Ore",
+                        ["price"] = 12,
+                        ["tax"] = 1,
                     },
                 },
             },
@@ -76,9 +64,28 @@ TemperSales_SavedVariables =
 }
 `
 
+function captureOf(accountWideTail: string): string {
+  return `TemperSales_SavedVariables = { ["Default"] = { ["@alan"] = { ["$AccountWide"] = { ["version"] = 1, ["displayName"] = "@alan"${accountWideTail} } } } }`
+}
+
+function captureOfOneSale(fields: string): string {
+  return captureOf(`, ["sales"] = { ["only"] = { ${fields} } }`)
+}
+
 const NO_DEFAULT = `TemperSales_SavedVariables = { ["Other"] = {} }`
 const NO_ACCOUNT_WIDE = `TemperSales_SavedVariables = { ["Default"] = { ["@alan"] = {} } }`
-const NO_SALES = `TemperSales_SavedVariables = { ["Default"] = { ["@alan"] = { ["$AccountWide"] = { ["version"] = 1 } } } }`
+const NO_SALES = captureOf("")
+const SALES_NOT_A_TABLE = captureOf(`, ["sales"] = { "a", "b" }`)
+const UNKNOWN_KEY = captureOfOneSale(
+  `["saleId"] = "extra", ["itemName"] = "Ore", ["price"] = 1, ["tax"] = 0, ["listedAt"] = 5`
+)
+const NO_SALE_ID = captureOfOneSale(`["itemName"] = "Ore", ["price"] = 1, ["tax"] = 0`)
+const EMPTY_SALE_ID = captureOfOneSale(
+  `["saleId"] = "", ["itemName"] = "Ore", ["price"] = 1, ["tax"] = 0`
+)
+const NO_ITEM_NAME = captureOfOneSale(`["saleId"] = "s", ["price"] = 1, ["tax"] = 0`)
+const NO_PRICE = captureOfOneSale(`["saleId"] = "s", ["itemName"] = "Ore", ["tax"] = 0`)
+const NO_TAX = captureOfOneSale(`["saleId"] = "s", ["itemName"] = "Ore", ["price"] = 1`)
 
 const SIGNED_IN: SignedInReader = {
   auth: { getUser: async () => ({ error: null, data: { user: { id: "user-1" } } }) },
@@ -114,24 +121,12 @@ test("every sale the capture holds becomes one action in the order the keys came
       },
       {
         saleId: "bare",
-        itemName: "",
+        itemName: "Plain Ore",
         itemId: undefined,
         quantity: undefined,
-        salePrice: 0,
-        tax: 0,
-        netPayout: 0,
-        guildName: undefined,
-        buyerName: undefined,
-        soldAt: undefined,
-      },
-      {
-        saleId: "----",
-        itemName: "Only punctuation",
-        itemId: undefined,
-        quantity: undefined,
-        salePrice: 10,
-        tax: 30,
-        netPayout: -20,
+        salePrice: 12,
+        tax: 1,
+        netPayout: 11,
         guildName: undefined,
         buyerName: undefined,
         soldAt: undefined,
@@ -140,27 +135,52 @@ test("every sale the capture holds becomes one action in the order the keys came
   })
 })
 
-test("a sale entry carrying a key the sale shape does not name reaches no action", () => {
-  const ids = planSaleImport(CAPTURE).actions.map((action) => action.saleId)
-  expect(ids).not.toContain("extra")
+test("a sale entry carrying a key the sale shape does not name refuses the import", () => {
+  expect(() => planSaleImport(UNKNOWN_KEY)).toThrow(
+    unreadableSaleWhy("only", '`the entry itself` Unrecognized key: "listedAt"')
+  )
 })
 
-test("a sale entry with an empty or a missing sale id reaches no action", () => {
-  const names = planSaleImport(CAPTURE).actions.map((action) => action.itemName)
-  expect(names).not.toContain("Dropped for empty saleId")
-  expect(names).not.toContain("Dropped for missing saleId")
+test("a sale entry with no sale id refuses the import", () => {
+  expect(() => planSaleImport(NO_SALE_ID)).toThrow("the sale under `only` names no sale id")
 })
 
-test("a capture with no Default table plans nothing", () => {
-  expect(planSaleImport(NO_DEFAULT)).toEqual({ actions: [] })
+test("a sale entry with an empty sale id refuses the import", () => {
+  expect(() => planSaleImport(EMPTY_SALE_ID)).toThrow("the sale under `only` names no sale id")
 })
 
-test("a capture with no account-wide table plans nothing", () => {
-  expect(planSaleImport(NO_ACCOUNT_WIDE)).toEqual({ actions: [] })
+test("a sale entry naming no item refuses rather than titling a page with nothing", () => {
+  expect(() => planSaleImport(NO_ITEM_NAME)).toThrow(
+    saleMissingWhy("only", "item name", "as a page titled with nothing")
+  )
 })
 
-test("an account-wide table with no sales plans nothing", () => {
+test("a sale entry naming no price refuses rather than writing a sale for no gold", () => {
+  expect(() => planSaleImport(NO_PRICE)).toThrow(
+    saleMissingWhy("only", "price", "as a sale that brought in no gold")
+  )
+})
+
+test("a sale entry naming no tax refuses rather than writing a payout no tax came out of", () => {
+  expect(() => planSaleImport(NO_TAX)).toThrow(
+    saleMissingWhy("only", "tax", "with a payout no tax ever came out of")
+  )
+})
+
+test("a capture with no Default table refuses rather than planning no sale", () => {
+  expect(() => planSaleImport(NO_DEFAULT)).toThrow(NO_DEFAULT_TABLE)
+})
+
+test("a capture with no account-wide table refuses rather than planning no sale", () => {
+  expect(() => planSaleImport(NO_ACCOUNT_WIDE)).toThrow(NO_ACCOUNT_WIDE_TABLE)
+})
+
+test("an account-wide table naming no sales at all plans no sale write", () => {
   expect(planSaleImport(NO_SALES)).toEqual({ actions: [] })
+})
+
+test("an account-wide table whose sales are no table of sales refuses the import", () => {
+  expect(() => planSaleImport(SALES_NOT_A_TABLE)).toThrow(UNREADABLE_SALES_TABLE)
 })
 
 test("a sale id reduces to the slug the legacy importer wrote", () => {
@@ -281,6 +301,22 @@ test("the run reports how many sales the capture held", async () => {
       lines.push(message)
     },
   })
-  expect(lines).toEqual(["Sales import: 3 sale(s) captured."])
-  expect(calls).toHaveLength(4)
+  expect(lines).toEqual(["Sales import: 2 sale(s) captured."])
+  expect(calls).toHaveLength(3)
+})
+
+test("a sale this build cannot read reports no count and writes nothing", async () => {
+  const { calls, upsert } = recordingUpsert()
+  const lines: string[] = []
+  await expect(
+    runImportSales(UNKNOWN_KEY, SIGNED_IN, {
+      userId: "user-1",
+      upsert,
+      report: (message) => {
+        lines.push(message)
+      },
+    })
+  ).rejects.toThrow("does not match the sale shape")
+  expect(lines).toEqual([])
+  expect(calls).toEqual([])
 })
