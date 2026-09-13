@@ -1,9 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import {
-  addressOf,
-  runChange,
-  tailOf,
-} from "akasha/changes/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.code.ts"
+import { runChange } from "akasha/changes/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.code.ts"
 import {
   KEPT_ENTRIES,
   KEPT_LANDS,
@@ -33,6 +29,10 @@ import {
   WIDE_SESSIONS,
   worldIn,
 } from "akasha/changes/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.test-fixtures.ts"
+import {
+  addressOf,
+  tailOf,
+} from "akasha/changes/modules/page-renaming/page-renaming.module.code.ts"
 import {
   bodiesIn,
   ledgerAt,
@@ -171,7 +171,7 @@ test("a page whose slug is more than one word has its camel export renamed too",
   expect(body).not.toContain("export const otherOne")
 })
 
-test("the whole carry is the one rung reached, the rest being modules called", async () => {
+test("the whole rename is modules called rather than any rung reached", async () => {
   const reached: string[] = []
   const root = heldAt
   const world = worldAt(root, textIn(root), (_world, at) => {
@@ -179,9 +179,10 @@ test("the whole carry is the one rung reached, the rest being modules called", a
     return Promise.resolve({ edits: [], refused: null })
   })
 
-  await runChange(world, { at: HELD_PAGE, to: CARRIED })
+  const said = await runChange(world, { at: HELD_PAGE, to: CARRIED })
 
-  expect(reached).toEqual(["change-mechanical/move-files"])
+  expect(said.refused).toBe(null)
+  expect(reached).toEqual([])
 })
 
 test("a page's slug is renamed in its data, and its files are carried with it", () => {
