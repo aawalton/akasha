@@ -10,11 +10,7 @@ export const doNotEdit = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The line names the call that writes the rendered file again.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That call is composed from the command's own pages rather than spelled here.",
+      statement: "The line tells a reader the file is written out rather than edited.",
     },
     {
       invariantKind: "absence",
