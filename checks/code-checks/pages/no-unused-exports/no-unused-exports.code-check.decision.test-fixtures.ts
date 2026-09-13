@@ -34,9 +34,9 @@ export const BESIDE_TEXT =
 
 export const LUA_AT = "akasha/held.lualib.code.ts"
 
-export const LUA_PAGE_AT = "akasha/held.lualib.ts"
+const LUA_PAGE_AT = "akasha/held.lualib.ts"
 
-export const LUA_PAGE_TEXT =
+const LUA_PAGE_TEXT =
   'export const held = { id: "01a0927a-1000-7001-8000-000000000002",' +
   ' pageTypeSlug: "lualib", slug: "held", luaExport: "__TS__Held" }\n'
 
