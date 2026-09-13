@@ -17,7 +17,7 @@ import {
 import type { ManagementPlan } from "akasha/temper/items-rules-routing-core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 import fc from "fast-check"
 
-const STACK_COUNT_ARB = fc.integer({ min: 1, max: 50 })
+export const STACK_COUNT_ARB = fc.integer({ min: 1, max: 50 })
 const QUALITY_ARB = fc.integer({ min: 1, max: 5 })
 
 const ITEM_NAME_ARB = fc.stringMatching(/^[a-zA-Z]{4,12}$/)
