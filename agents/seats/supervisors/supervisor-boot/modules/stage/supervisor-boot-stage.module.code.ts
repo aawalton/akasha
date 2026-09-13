@@ -6,14 +6,6 @@ function note(line: string): undefined {
   console.log(`${LOG} boot-stage: ${line}`)
 }
 
-export function stageSync<T>(label: string, work: () => T): T {
-  note(`enter ${label}`)
-  const startedMs = Date.now()
-  const value = work()
-  note(`leave ${label} ${Date.now() - startedMs}ms`)
-  return value
-}
-
 export async function stage<T>(label: string, work: Promise<T>): Promise<T> {
   note(`enter ${label}`)
   const startedMs = Date.now()
