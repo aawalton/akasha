@@ -10,7 +10,7 @@ const CODE = "code"
 
 const HOLDS = "ts"
 
-const UNDER = "$INSTRUCTIONS/akasha/"
+const UNDER = "$INSTRUCTIONS/"
 
 export function ranBy(given: string | Reading): string {
   const listed = listedAt(given, MODULE, SERVER)[0]
