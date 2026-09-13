@@ -13,7 +13,7 @@ import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 afterAll(scratch.sweep)
 
 function judged(root: string): readonly Judged[] {
-  const held = change(root, [])
+  const held = change(root, [AT])
   const cast = shadowFor(held)
   if ("refused" in cast) throw new Error(cast.refused)
   return nameFormatJudgesByOneShape(held, cast.shadow)
