@@ -7,6 +7,15 @@ export const scriptureCollection = {
   definition: "a book of scripture Alan reads chapters of",
   pluralSlug: "scripture-collections",
   extends: ["page-type/collection-external"],
-  properties: [{ pageProperty: "text-property/title", required: true, many: false }],
+  properties: [
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "text-property/external-id", required: false, many: false },
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A book of scripture is named by the key its passages are reached under.",
+    },
+  ],
   types: "ts",
 } as const satisfies PageType

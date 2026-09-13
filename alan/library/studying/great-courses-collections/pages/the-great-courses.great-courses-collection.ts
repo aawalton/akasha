@@ -7,5 +7,11 @@ export const theGreatCourses = {
   title: "The Great Courses",
   status: "not-applicable",
   unit: "minutes",
-  lastSyncedAt: "2026-08-24",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalLink: "https://www.thegreatcourses.com/",
+      lastSyncedAt: "2026-08-24",
+    },
+  ],
 } as const satisfies GreatCoursesCollection

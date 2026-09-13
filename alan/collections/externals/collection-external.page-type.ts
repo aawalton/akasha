@@ -16,10 +16,7 @@ export const collectionExternal = {
   ],
   extends: ["page-type/collection"],
   properties: [
-    { pageProperty: "text-property/external-id", required: false, many: false },
     { pageProperty: "url-property/external-link", required: false, many: false },
-    { pageProperty: "select-property/source", required: false, many: false },
-    { pageProperty: "calendar-date-property/last-synced-at", required: false, many: false },
     {
       pageProperty: "record-property/external-identity",
       required: false,
