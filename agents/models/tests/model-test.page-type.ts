@@ -88,7 +88,7 @@ export const modelTest = {
     {
       invariantKind: "constraint",
       statement:
-        "A closed list judges a sign the wording carries, not whether work could have gone on.",
+        "A closed list drops any phrase opening a question, since what is asked decides, not the words.",
     },
     {
       invariantKind: "absence",
