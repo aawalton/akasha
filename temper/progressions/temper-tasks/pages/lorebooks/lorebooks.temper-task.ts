@@ -18,5 +18,5 @@ export const lorebooks = {
   lastCompletedAt: "2026-09-13T14:35:08.000Z",
   progress: "jsonl",
   progressTotal: 4220,
-  progressCurrent: 569,
+  progressCurrent: 570,
 } as const satisfies TemperTask
