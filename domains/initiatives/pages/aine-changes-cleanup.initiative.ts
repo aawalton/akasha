@@ -11,13 +11,13 @@ export const aineChangesCleanup = {
       statement: "A change reaches another change only through a runner.",
     },
     {
+      statement: "A test reaches a change through a runner rather than by importing that change.",
+    },
+    {
       statement: "A change reaches only changes acting on the target type that change acts on.",
     },
     {
       statement: "Every target type, subtype and mode that together make sense has a change.",
-    },
-    {
-      statement: "A test reaches a change through a runner rather than by importing that change.",
     },
   ],
 } as const satisfies Initiative
