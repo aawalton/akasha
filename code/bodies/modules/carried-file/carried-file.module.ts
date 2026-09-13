@@ -7,7 +7,6 @@ export const carriedFile = {
   definition: "how a file that is not text is in akasha as text beside its page",
   code: "ts",
   test: "ts",
-  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -24,14 +23,6 @@ export const carriedFile = {
     {
       invariantKind: "departure",
       statement: "A carrier whose count or digest disagrees with its bytes is refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The base64 is one line.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A seam with no json reader takes the base64 in one read.",
     },
     {
       invariantKind: "departure",

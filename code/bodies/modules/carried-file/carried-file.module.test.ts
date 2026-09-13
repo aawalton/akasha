@@ -1,46 +1,30 @@
 import { describe, expect, test } from "bun:test"
 import {
   carriedIn,
-  carrierAt,
-  carrierFor,
   digestOf,
 } from "akasha/code/bodies/modules/carried-file/carried-file.module.code.ts"
-import {
-  CRATE_AT,
-  CRATE_CARRIER_AT,
-} from "akasha/code/bodies/modules/carried-file/carried-file.module.test-fixtures.ts"
 
 const BYTES = new Uint8Array([0, 1, 2, 255, 0, 65, 66, 0])
 
-describe("carrierFor", () => {
-  test("carries every byte back unchanged", () => {
-    const said = carriedIn(carrierFor("icon.ico", BYTES), "probe")
+function carrier(byteLength: number, sha256: string): string {
+  const base64 = Buffer.from(BYTES).toString("base64")
+  return JSON.stringify({ carriedFile: "icon.ico", byteLength, sha256, base64 })
+}
+
+describe("carriedIn", () => {
+  test("carries every byte back under the name the carrier states", () => {
+    const said = carriedIn(carrier(8, digestOf(BYTES)), "probe")
     expect(said.name).toBe("icon.ico")
     expect([...said.bytes]).toEqual([...BYTES])
   })
 
-  test("holds no NUL byte of its own", () => {
-    expect(carrierFor("icon.ico", BYTES).includes("\0")).toBe(false)
-  })
-
-  test("holds the base64 on one line", () => {
-    const lines = carrierFor("icon.ico", BYTES).split("\n")
-    expect(lines.filter((one) => one.includes('"base64"')).length).toBe(1)
-  })
-
-  test("states the digest of what it carries", () => {
-    expect(carrierFor("icon.ico", BYTES).includes(digestOf(BYTES))).toBe(true)
-  })
-})
-
-describe("carriedIn", () => {
   test("refuses a carrier whose byte count disagrees", () => {
-    const held = carrierFor("icon.ico", BYTES).replace('"byteLength": 8', '"byteLength": 9')
+    const held = carrier(9, digestOf(BYTES))
     expect(() => carriedIn(held, "probe")).toThrow("says 9 bytes and carries 8")
   })
 
   test("refuses a carrier whose digest disagrees", () => {
-    const held = carrierFor("icon.ico", BYTES).replace(digestOf(BYTES), "0".repeat(64))
+    const held = carrier(8, "0".repeat(64))
     expect(() => carriedIn(held, "probe")).toThrow("says its bytes are")
   })
 
@@ -50,11 +34,5 @@ describe("carriedIn", () => {
 
   test("refuses a json object naming no carried file", () => {
     expect(() => carriedIn('{"base64":""}', "probe")).toThrow("carriedFile")
-  })
-})
-
-describe("carrierAt", () => {
-  test("names the beside file the page grammar builds", () => {
-    expect(carrierAt(CRATE_AT, "icon")).toBe(CRATE_CARRIER_AT)
   })
 })

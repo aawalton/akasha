@@ -8,8 +8,6 @@ const DIGEST = "sha256"
 
 const BODY = "base64"
 
-const HELD = "json"
-
 export type Carried = {
   readonly name: string
   readonly bytes: Uint8Array
@@ -17,18 +15,6 @@ export type Carried = {
 
 export function digestOf(bytes: Uint8Array): string {
   return createHash("sha256").update(bytes).digest("hex")
-}
-
-export function carrierFor(name: string, bytes: Uint8Array): string {
-  const lines = [
-    "{",
-    `  "${NAME}": ${JSON.stringify(name)},`,
-    `  "${LENGTH}": ${bytes.byteLength},`,
-    `  "${DIGEST}": ${JSON.stringify(digestOf(bytes))},`,
-    `  "${BODY}": ${JSON.stringify(Buffer.from(bytes).toString("base64"))}`,
-    "}",
-  ]
-  return `${lines.join("\n")}\n`
 }
 
 function textAt(held: Record<string, unknown>, key: string, at: string): string {
@@ -59,9 +45,4 @@ export function carriedIn(text: string, at: string): Carried {
     throw new Error(`${at} says its bytes are ${digest} and they are ${digestOf(bytes)}`)
   }
   return { name, bytes }
-}
-
-export function carrierAt(page: string, propertySlug: string): string {
-  const stem = page.endsWith(".ts") ? page.slice(0, -".ts".length) : page
-  return `${stem}.${propertySlug}.${HELD}`
 }
