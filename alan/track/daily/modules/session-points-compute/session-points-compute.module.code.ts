@@ -1,10 +1,5 @@
 import type { ReadonlyJSONValue } from "akasha/alan/track/daily/modules/day-narrow-types/day-narrow-types.module.code.ts"
-import {
-  openedDayOf,
-  openedWindowOn,
-} from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
 import { numberOf } from "akasha/alan/track/daily/modules/day-scan-window/day-scan-window.module.code.ts"
-import type { Roots } from "akasha/pages/modules/markdown-page-at/markdown-page-at.module.code.ts"
 import { z } from "zod"
 
 export const PersonaSessionRowSchema = z
@@ -64,56 +59,4 @@ export function sumSessionPointsForValue(
   let total = 0
   for (const row of rows) total += resolveSessionPointsForValue(row, pointsPropId)
   return total
-}
-
-function sessionStartTime(row: Readonly<Record<string, ReadonlyJSONValue>>): Date | undefined {
-  const raw = row["startTime"]
-  if (typeof raw !== "string") return undefined
-  const d = new Date(raw)
-  return Number.isNaN(d.getTime()) ? undefined : d
-}
-
-function filterSessionsInWindow(
-  rows: readonly Readonly<Record<string, ReadonlyJSONValue>>[],
-  window: { readonly start: Date; readonly end: Date }
-): readonly Readonly<Record<string, ReadonlyJSONValue>>[] {
-  const startMs = window.start.getTime()
-  const endMs = window.end.getTime()
-  return rows.filter((row) => {
-    const t = sessionStartTime(row)
-    if (t === undefined) return false
-    const ms = t.getTime()
-    return ms >= startMs && ms < endMs
-  })
-}
-
-function sumSessionPointsForWindow(
-  rows: readonly Readonly<Record<string, ReadonlyJSONValue>>[],
-  pointsPropId: string,
-  window: { readonly start: Date; readonly end: Date }
-): number {
-  return sumSessionPointsForValue(filterSessionsInWindow(rows, window), pointsPropId)
-}
-
-export function discoverActiveSessionDays(
-  roots: Roots,
-  rows: readonly Readonly<Record<string, ReadonlyJSONValue>>[],
-  pointsPropId: string
-): readonly string[] {
-  const candidateDays = new Set<string>()
-  for (const row of rows) {
-    const t = sessionStartTime(row)
-    if (t !== undefined) candidateDays.add(openedDayOf(roots, t))
-  }
-  const active: string[] = []
-  for (const dayStr of candidateDays) {
-    const window = openedWindowOn(roots, dayStr)
-    if ("refused" in window) continue
-    const sum = sumSessionPointsForWindow(rows, pointsPropId, {
-      start: new Date(window.from),
-      end: new Date(window.to),
-    })
-    if (sum > 0) active.push(dayStr)
-  }
-  return active.sort()
 }
