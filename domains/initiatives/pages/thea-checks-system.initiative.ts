@@ -10,12 +10,12 @@ export const theaChecksSystem = {
     {
       statement: "The check passes over a value a runner reaches by path rather than by import.",
       workingMemory:
-        "Eleven are settled and nothing is open here. A route module keeps React Router's names — a route's code, `root.tsx`, `_app-layout.tsx`. Spared by name: a lualib page's `lua-export`, a computed property's `work`, a change guard's `runGuard`, a manifest's `BUILD_ENV`, a performance's `measured`, a type generator's `generateTypes` and `couldTurn`, a tunnel file's `routes`. A command, a check and a model test keep the name made from their slug, and a model test keeps `asking` and `keeping` too.\n",
+        "Spared by name: React Router's route names, lualib `lua-export`, computed property `work`, change guard `runGuard`, service `runService`, manifest `BUILD_ENV`, performance `measured`, type generator `generateTypes` and `couldTurn`, tunnel file `routes`, syntax rule `mark`, folder shape `HOLDS`, and `bodyIn` in a group the index says writes a file. A command, check, model test, syntax rule and folder shape keep the name made from their slug; a model test keeps `asking` and `keeping`.",
     },
     {
       statement: "No module exports a value nothing names.",
       workingMemory:
-        "1275 refusals in all. 479 are a value only a test names, where the file exporting it never names it either: a module publishing its internals so its own test can reach them. Scaffolding more than one module's tests reach is a `test-fixture` page now, and the code beside such a page sets a test up rather than being code the system runs. Five have moved. The head of what is left is the same shape: `store-writing` holds 11, `repo-seeding` 10, `page-holding` 6, `fixture-world` 5.",
+        "1134 refusals in all: 773 a value nothing names, 332 only a test names, 29 only its own file names. Eight fixture modules are `test-fixture` pages. The test-only head is flat now: `doctrine` 5, then `store-page-asking`, `lore-schema`, `imessage-command-reading`, `day-place`, `check-measuring`, `agent-proc-tree` at 4. Of the 773, temper holds 301, mostly constants an upstream port carried over with two of eight languages implemented; whether that is ablated or kept waits on Alan.",
     },
     {
       statement: "No file the broad unexport run left alone still publishes a value only it names.",
