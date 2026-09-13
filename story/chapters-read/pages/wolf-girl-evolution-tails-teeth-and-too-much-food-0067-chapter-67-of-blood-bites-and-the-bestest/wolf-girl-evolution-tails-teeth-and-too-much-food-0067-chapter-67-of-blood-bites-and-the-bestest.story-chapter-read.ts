@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0067Chapter67OfBloodBitesA
   position: 67,
   ownLength: 1986,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2735612/chapter-67-of-blood-bites-and-the-bestest-second",
-  externalId: "2735612",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2735612",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2735612/chapter-67-of-blood-bites-and-the-bestest-second",
+    },
+  ],
   publishedAt: "2025-11-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

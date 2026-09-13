@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0010010RootAccessToTheSo
   position: 10,
   ownLength: 2554,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3341223/010-root-access-to-the-soul",
-  externalId: "3341223",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3341223",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3341223/010-root-access-to-the-soul",
+    },
+  ],
   publishedAt: "2026-05-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

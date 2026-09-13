@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0093Chapter93ThePyre = {
   position: 93,
   ownLength: 3531,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3715923/chapter-93-the-pyre",
-  externalId: "3715923",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3715923",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3715923/chapter-93-the-pyre",
+    },
+  ],
   publishedAt: "2026-07-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0055055TheWorldDisagreed
   position: 55,
   ownLength: 1904,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3656106/055-the-world-disagreed",
-  externalId: "3656106",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3656106",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3656106/055-the-world-disagreed",
+    },
+  ],
   publishedAt: "2026-07-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

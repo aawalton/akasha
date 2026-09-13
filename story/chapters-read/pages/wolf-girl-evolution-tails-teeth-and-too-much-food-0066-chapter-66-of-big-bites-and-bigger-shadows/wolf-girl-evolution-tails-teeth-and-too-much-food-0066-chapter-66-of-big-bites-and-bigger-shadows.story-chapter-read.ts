@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0066Chapter66OfBigBitesAnd
   position: 66,
   ownLength: 2360,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2732562/chapter-66-of-big-bites-and-bigger-shadows",
-  externalId: "2732562",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2732562",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2732562/chapter-66-of-big-bites-and-bigger-shadows",
+    },
+  ],
   publishedAt: "2025-11-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

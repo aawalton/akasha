@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0137Chapter135OfAwfulTalks
   position: 137,
   ownLength: 2796,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3585836/chapter-135-of-awful-talks-and-stupid-plans",
-  externalId: "3585836",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3585836",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3585836/chapter-135-of-awful-talks-and-stupid-plans",
+    },
+  ],
   publishedAt: "2026-06-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

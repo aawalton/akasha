@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0122Chapter121OfPawsitiveR
   position: 122,
   ownLength: 2845,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3306211/chapter-121-of-pawsitive-reinforcement-and-towerful",
-  externalId: "3306211",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3306211",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3306211/chapter-121-of-pawsitive-reinforcement-and-towerful",
+    },
+  ],
   publishedAt: "2026-04-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

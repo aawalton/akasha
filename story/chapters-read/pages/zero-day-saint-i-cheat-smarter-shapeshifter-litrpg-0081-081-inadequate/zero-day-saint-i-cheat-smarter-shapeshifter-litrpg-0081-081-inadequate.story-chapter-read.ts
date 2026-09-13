@@ -8,11 +8,15 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0081081Inadequate = {
   position: 81,
   publishedAt: "2026-09-08",
   unit: "words",
-  externalId: "3928648",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3928648",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-litrpgvol-1-complete/chapter/3928648/081-inadequate",
+    },
+  ],
   title: "081 - (In)adequate",
   ownLength: 1905,
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-litrpgvol-1-complete/chapter/3928648/081-inadequate",
   prose: "txt",
 } as const satisfies StoryChapterRead

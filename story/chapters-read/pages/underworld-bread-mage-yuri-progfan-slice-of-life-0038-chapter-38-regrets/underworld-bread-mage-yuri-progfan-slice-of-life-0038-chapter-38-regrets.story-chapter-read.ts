@@ -8,11 +8,15 @@ export const underworldBreadMageYuriProgfanSliceOfLife0038Chapter38Regrets = {
   position: 38,
   publishedAt: "2026-09-08",
   unit: "words",
-  externalId: "3929763",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3929763",
+      externalLink:
+        "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3929763/chapter-38-regrets",
+    },
+  ],
   title: "Chapter 38: Regrets",
   ownLength: 1514,
-  externalLink:
-    "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3929763/chapter-38-regrets",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0079Chapter79TheLastLoop = {
   position: 79,
   ownLength: 2642,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3628156/chapter-79-the-last-loop",
-  externalId: "3628156",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3628156",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3628156/chapter-79-the-last-loop",
+    },
+  ],
   publishedAt: "2026-07-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

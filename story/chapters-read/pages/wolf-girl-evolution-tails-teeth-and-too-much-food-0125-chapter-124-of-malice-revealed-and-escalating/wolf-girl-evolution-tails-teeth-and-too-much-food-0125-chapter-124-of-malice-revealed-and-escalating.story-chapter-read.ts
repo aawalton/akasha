@@ -10,10 +10,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0125Chapter124OfMaliceReve
     position: 125,
     ownLength: 3143,
     unit: "words",
-    source: "royal-road",
-    externalLink:
-      "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3350345/chapter-124-of-malice-revealed-and-escalating",
-    externalId: "3350345",
+    externalIdentity: [
+      {
+        source: "royal-road",
+        externalId: "3350345",
+        externalLink:
+          "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3350345/chapter-124-of-malice-revealed-and-escalating",
+      },
+    ],
     publishedAt: "2026-05-03",
     prose: "txt",
   } as const satisfies StoryChapterRead

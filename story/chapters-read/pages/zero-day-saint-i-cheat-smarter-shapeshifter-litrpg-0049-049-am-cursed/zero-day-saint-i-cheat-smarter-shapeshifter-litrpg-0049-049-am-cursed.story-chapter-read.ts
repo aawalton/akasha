@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0049049AmCursed = {
   position: 49,
   ownLength: 2234,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3605832/049-am-cursed",
-  externalId: "3605832",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3605832",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3605832/049-am-cursed",
+    },
+  ],
   publishedAt: "2026-06-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

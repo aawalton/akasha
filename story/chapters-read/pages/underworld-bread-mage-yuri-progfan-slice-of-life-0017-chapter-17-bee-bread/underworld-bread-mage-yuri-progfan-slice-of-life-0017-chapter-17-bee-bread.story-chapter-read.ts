@@ -9,10 +9,14 @@ export const underworldBreadMageYuriProgfanSliceOfLife0017Chapter17BeeBread = {
   position: 17,
   ownLength: 1446,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3763218/chapter-17-bee-bread",
-  externalId: "3763218",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3763218",
+      externalLink:
+        "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3763218/chapter-17-bee-bread",
+    },
+  ],
   publishedAt: "2026-08-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

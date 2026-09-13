@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0048048ThePheasantRailgu
   position: 48,
   ownLength: 3520,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3592536/048-the-pheasant-railgun",
-  externalId: "3592536",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3592536",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3592536/048-the-pheasant-railgun",
+    },
+  ],
   publishedAt: "2026-06-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

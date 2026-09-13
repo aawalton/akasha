@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0101Chapter101ImperialPalace = {
   position: 101,
   ownLength: 2220,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3769705/chapter-101-imperial-palace",
-  externalId: "3769705",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3769705",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3769705/chapter-101-imperial-palace",
+    },
+  ],
   publishedAt: "2026-08-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

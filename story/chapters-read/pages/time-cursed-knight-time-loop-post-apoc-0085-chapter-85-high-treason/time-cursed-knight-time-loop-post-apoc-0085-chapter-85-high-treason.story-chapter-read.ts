@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0085Chapter85HighTreason = {
   position: 85,
   ownLength: 2852,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3672481/chapter-85-high-treason",
-  externalId: "3672481",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3672481",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3672481/chapter-85-high-treason",
+    },
+  ],
   publishedAt: "2026-07-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

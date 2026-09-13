@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0049Chapter49TheNightOfSou
   position: 49,
   ownLength: 1709,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2666680/chapter-49-the-night-of-soup-and-stipulations",
-  externalId: "2666680",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2666680",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2666680/chapter-49-the-night-of-soup-and-stipulations",
+    },
+  ],
   publishedAt: "2025-10-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

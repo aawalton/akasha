@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0035Chapter35SoupSleepAndS
   position: 35,
   ownLength: 1495,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2620853/chapter-35-soup-sleep-and-shadow-pay",
-  externalId: "2620853",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2620853",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2620853/chapter-35-soup-sleep-and-shadow-pay",
+    },
+  ],
   publishedAt: "2025-09-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

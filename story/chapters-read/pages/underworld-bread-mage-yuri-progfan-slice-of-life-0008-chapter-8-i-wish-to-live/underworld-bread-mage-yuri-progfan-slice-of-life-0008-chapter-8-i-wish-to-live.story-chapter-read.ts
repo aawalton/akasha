@@ -9,10 +9,14 @@ export const underworldBreadMageYuriProgfanSliceOfLife0008Chapter8IWishToLive = 
   position: 8,
   ownLength: 1453,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-progfan-slice-of-life/chapter/3732877/chapter-8-i-wish-to-live",
-  externalId: "3732877",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3732877",
+      externalLink:
+        "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-progfan-slice-of-life/chapter/3732877/chapter-8-i-wish-to-live",
+    },
+  ],
   publishedAt: "2026-07-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

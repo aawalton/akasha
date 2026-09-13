@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0066066AVisitor = {
   position: 66,
   ownLength: 1640,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3771639/066-a-visitor",
-  externalId: "3771639",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3771639",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3771639/066-a-visitor",
+    },
+  ],
   publishedAt: "2026-08-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

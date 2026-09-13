@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0038Chapter38BubblesBetray
   position: 38,
   ownLength: 1323,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2628712/chapter-38-bubbles-betrayal-and-brushings",
-  externalId: "2628712",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2628712",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2628712/chapter-38-bubbles-betrayal-and-brushings",
+    },
+  ],
   publishedAt: "2025-09-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

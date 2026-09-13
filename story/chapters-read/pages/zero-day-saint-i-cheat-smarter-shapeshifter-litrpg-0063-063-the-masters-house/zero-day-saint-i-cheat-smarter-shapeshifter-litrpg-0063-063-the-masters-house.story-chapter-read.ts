@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0063063TheMastersHouse =
   position: 63,
   ownLength: 1506,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3740266/063-the-masters-house",
-  externalId: "3740266",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3740266",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3740266/063-the-masters-house",
+    },
+  ],
   publishedAt: "2026-07-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0032032RuthlessKindness 
   position: 32,
   ownLength: 2381,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3476588/032-ruthless-kindness",
-  externalId: "3476588",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3476588",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3476588/032-ruthless-kindness",
+    },
+  ],
   publishedAt: "2026-06-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

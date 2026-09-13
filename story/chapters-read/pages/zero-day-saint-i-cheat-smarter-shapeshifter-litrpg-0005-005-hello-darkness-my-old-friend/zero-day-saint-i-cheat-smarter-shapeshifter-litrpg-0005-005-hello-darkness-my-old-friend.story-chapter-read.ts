@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0005005HelloDarknessMyOl
   position: 5,
   ownLength: 1731,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3340156/005-hello-darkness-my-old-friend",
-  externalId: "3340156",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3340156",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3340156/005-hello-darkness-my-old-friend",
+    },
+  ],
   publishedAt: "2026-05-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

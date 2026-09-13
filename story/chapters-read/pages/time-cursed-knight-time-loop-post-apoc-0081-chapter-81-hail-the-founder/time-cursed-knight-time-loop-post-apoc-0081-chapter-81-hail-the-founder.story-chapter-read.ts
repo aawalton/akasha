@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0081Chapter81HailTheFounder = {
   position: 81,
   ownLength: 2172,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3645291/chapter-81-hail-the-founder",
-  externalId: "3645291",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3645291",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3645291/chapter-81-hail-the-founder",
+    },
+  ],
   publishedAt: "2026-07-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

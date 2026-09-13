@@ -7,12 +7,16 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0082082TheGiftedChild = 
   position: 82,
   publishedAt: "2026-09-09",
   unit: "words",
-  externalId: "3933137",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3933137",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-litrpgvol-1-complete/chapter/3933137/082-the-gifted-child",
+    },
+  ],
   title: "082 - The Gifted Child",
   story: "story-read/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   ownLength: 2311,
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-litrpgvol-1-complete/chapter/3933137/082-the-gifted-child",
   prose: "txt",
 } as const satisfies StoryChapterRead

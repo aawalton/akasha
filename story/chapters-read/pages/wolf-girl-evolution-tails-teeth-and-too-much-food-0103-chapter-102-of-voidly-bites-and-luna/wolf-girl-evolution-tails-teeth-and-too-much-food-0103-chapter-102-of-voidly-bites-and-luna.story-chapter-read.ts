@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0103Chapter102OfVoidlyBite
   position: 103,
   ownLength: 1821,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3085514/chapter-102-of-voidly-bites-and-luna-aspirations",
-  externalId: "3085514",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3085514",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3085514/chapter-102-of-voidly-bites-and-luna-aspirations",
+    },
+  ],
   publishedAt: "2026-02-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

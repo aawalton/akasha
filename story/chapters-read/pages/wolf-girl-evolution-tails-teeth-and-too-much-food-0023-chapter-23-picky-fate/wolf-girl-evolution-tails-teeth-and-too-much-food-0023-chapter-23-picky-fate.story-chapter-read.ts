@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0023Chapter23PickyFate = {
   position: 23,
   ownLength: 1284,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2590710/chapter-23-picky-fate",
-  externalId: "2590710",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2590710",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2590710/chapter-23-picky-fate",
+    },
+  ],
   publishedAt: "2025-09-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

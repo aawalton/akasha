@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0078Chapter77OfLessonsLeap
   position: 78,
   ownLength: 2338,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2819538/chapter-77-of-lessons-leaps-and-serious-faces",
-  externalId: "2819538",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2819538",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2819538/chapter-77-of-lessons-leaps-and-serious-faces",
+    },
+  ],
   publishedAt: "2025-12-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

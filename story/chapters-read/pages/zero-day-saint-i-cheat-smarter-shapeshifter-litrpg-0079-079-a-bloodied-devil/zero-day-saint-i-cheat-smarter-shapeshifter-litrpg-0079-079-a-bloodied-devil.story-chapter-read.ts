@@ -8,11 +8,15 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0079079ABloodiedDevil = 
   position: 79,
   publishedAt: "2026-09-04",
   unit: "words",
-  externalId: "3909914",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3909914",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-litrpgvol-1-complete/chapter/3909914/079-a-bloodied-devil",
+    },
+  ],
   title: "079 - A Bloodied Devil",
   ownLength: 1978,
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-litrpgvol-1-complete/chapter/3909914/079-a-bloodied-devil",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0154Chapter151OfBestingBeh
   position: 154,
   ownLength: 2753,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3835736/chapter-151-of-besting-behemoths-and-seconds-shiny",
-  externalId: "3835736",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3835736",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3835736/chapter-151-of-besting-behemoths-and-seconds-shiny",
+    },
+  ],
   publishedAt: "2026-08-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

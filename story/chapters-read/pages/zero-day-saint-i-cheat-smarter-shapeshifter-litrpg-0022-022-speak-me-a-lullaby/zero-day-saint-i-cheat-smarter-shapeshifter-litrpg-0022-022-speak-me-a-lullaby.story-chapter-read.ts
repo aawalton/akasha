@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0022022SpeakMeALullaby =
   position: 22,
   ownLength: 1868,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3421262/022-speak-me-a-lullaby",
-  externalId: "3421262",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3421262",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3421262/022-speak-me-a-lullaby",
+    },
+  ],
   publishedAt: "2026-05-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

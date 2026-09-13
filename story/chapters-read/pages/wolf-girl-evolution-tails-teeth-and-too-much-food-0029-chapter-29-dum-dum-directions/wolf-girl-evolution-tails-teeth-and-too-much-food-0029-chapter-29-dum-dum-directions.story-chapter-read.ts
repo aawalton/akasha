@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0029Chapter29DumDumDirecti
   position: 29,
   ownLength: 1288,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2605535/chapter-29-dum-dum-directions",
-  externalId: "2605535",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2605535",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2605535/chapter-29-dum-dum-directions",
+    },
+  ],
   publishedAt: "2025-09-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

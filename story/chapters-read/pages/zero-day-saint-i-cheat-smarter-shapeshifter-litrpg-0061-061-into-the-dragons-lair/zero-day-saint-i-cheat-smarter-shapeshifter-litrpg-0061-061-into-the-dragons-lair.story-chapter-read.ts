@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0061061IntoTheDragonsLai
   position: 61,
   ownLength: 1990,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3717820/061-into-the-dragons-lair",
-  externalId: "3717820",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3717820",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3717820/061-into-the-dragons-lair",
+    },
+  ],
   publishedAt: "2026-07-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

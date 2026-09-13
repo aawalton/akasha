@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0062Chapter62SoupScritches
   position: 62,
   ownLength: 1660,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2715439/chapter-62-soup-scritches-and-dum-dum-plans",
-  externalId: "2715439",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2715439",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2715439/chapter-62-soup-scritches-and-dum-dum-plans",
+    },
+  ],
   publishedAt: "2025-10-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

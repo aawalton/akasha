@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0116Chapter115OfNewsNosesA
   position: 116,
   ownLength: 2733,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3211723/chapter-115-of-news-noses-and-very-important-pranks",
-  externalId: "3211723",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3211723",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3211723/chapter-115-of-news-noses-and-very-important-pranks",
+    },
+  ],
   publishedAt: "2026-03-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

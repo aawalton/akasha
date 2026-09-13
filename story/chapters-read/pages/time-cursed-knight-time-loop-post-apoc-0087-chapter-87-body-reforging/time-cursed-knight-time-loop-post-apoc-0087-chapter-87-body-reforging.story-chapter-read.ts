@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0087Chapter87BodyReforging = {
   position: 87,
   ownLength: 3388,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3682249/chapter-87-body-reforging",
-  externalId: "3682249",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3682249",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3682249/chapter-87-body-reforging",
+    },
+  ],
   publishedAt: "2026-07-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

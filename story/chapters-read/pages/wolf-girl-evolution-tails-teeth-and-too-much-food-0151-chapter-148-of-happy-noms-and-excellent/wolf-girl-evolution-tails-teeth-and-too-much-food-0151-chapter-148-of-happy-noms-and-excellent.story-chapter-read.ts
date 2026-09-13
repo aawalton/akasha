@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0151Chapter148OfHappyNomsA
   position: 151,
   ownLength: 3013,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3796712/chapter-148-of-happy-noms-and-excellent-rescue",
-  externalId: "3796712",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3796712",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3796712/chapter-148-of-happy-noms-and-excellent-rescue",
+    },
+  ],
   publishedAt: "2026-08-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

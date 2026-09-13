@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0060060FissionGotNuked =
   position: 60,
   ownLength: 1657,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3709390/060-fission-got-nuked",
-  externalId: "3709390",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3709390",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3709390/060-fission-got-nuked",
+    },
+  ],
   publishedAt: "2026-07-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

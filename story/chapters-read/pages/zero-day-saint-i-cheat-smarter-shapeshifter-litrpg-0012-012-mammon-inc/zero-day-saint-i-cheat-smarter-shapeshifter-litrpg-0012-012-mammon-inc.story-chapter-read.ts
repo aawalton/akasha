@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0012012MammonInc = {
   position: 12,
   ownLength: 1518,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3348378/012-mammon-inc",
-  externalId: "3348378",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3348378",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3348378/012-mammon-inc",
+    },
+  ],
   publishedAt: "2026-05-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0027Chapter27BoarForBroth 
   position: 27,
   ownLength: 1280,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2600395/chapter-27-boar-for-broth",
-  externalId: "2600395",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2600395",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2600395/chapter-27-boar-for-broth",
+    },
+  ],
   publishedAt: "2025-09-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0091Chapter91PawnOrKing = {
   position: 91,
   ownLength: 3285,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3707538/chapter-91-pawn-or-king",
-  externalId: "3707538",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3707538",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3707538/chapter-91-pawn-or-king",
+    },
+  ],
   publishedAt: "2026-07-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

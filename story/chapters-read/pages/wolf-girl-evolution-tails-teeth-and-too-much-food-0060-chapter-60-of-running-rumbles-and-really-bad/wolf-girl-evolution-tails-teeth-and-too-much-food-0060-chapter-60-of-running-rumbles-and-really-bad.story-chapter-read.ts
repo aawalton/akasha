@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0060Chapter60OfRunningRumb
   position: 60,
   ownLength: 1538,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2709796/chapter-60-of-running-rumbles-and-really-bad-ideas",
-  externalId: "2709796",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2709796",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2709796/chapter-60-of-running-rumbles-and-really-bad-ideas",
+    },
+  ],
   publishedAt: "2025-10-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

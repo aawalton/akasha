@@ -9,10 +9,14 @@ export const underworldBreadMageYuriProgfanSliceOfLife0030Chapter30SweeterThanHo
   position: 30,
   ownLength: 1430,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3838685/chapter-30-sweeter-than-honey",
-  externalId: "3838685",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3838685",
+      externalLink:
+        "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3838685/chapter-30-sweeter-than-honey",
+    },
+  ],
   publishedAt: "2026-08-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

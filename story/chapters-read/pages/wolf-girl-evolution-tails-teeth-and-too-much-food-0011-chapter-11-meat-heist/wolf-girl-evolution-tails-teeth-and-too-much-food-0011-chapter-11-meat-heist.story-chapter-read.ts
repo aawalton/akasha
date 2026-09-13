@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0011Chapter11MeatHeist = {
   position: 11,
   ownLength: 1618,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2553260/chapter-11-meat-heist",
-  externalId: "2553260",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2553260",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2553260/chapter-11-meat-heist",
+    },
+  ],
   publishedAt: "2025-08-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

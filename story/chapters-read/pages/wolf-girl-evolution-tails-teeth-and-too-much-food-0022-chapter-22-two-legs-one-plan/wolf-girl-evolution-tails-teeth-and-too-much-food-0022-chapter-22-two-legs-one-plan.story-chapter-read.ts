@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0022Chapter22TwoLegsOnePla
   position: 22,
   ownLength: 1698,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2588028/chapter-22-two-legs-one-plan",
-  externalId: "2588028",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2588028",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2588028/chapter-22-two-legs-one-plan",
+    },
+  ],
   publishedAt: "2025-09-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

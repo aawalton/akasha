@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0119Chapter118OfCrunchyFoo
   position: 119,
   ownLength: 3206,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3249014/chapter-118-of-crunchy-food-testing-and-mlemful",
-  externalId: "3249014",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3249014",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3249014/chapter-118-of-crunchy-food-testing-and-mlemful",
+    },
+  ],
   publishedAt: "2026-04-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

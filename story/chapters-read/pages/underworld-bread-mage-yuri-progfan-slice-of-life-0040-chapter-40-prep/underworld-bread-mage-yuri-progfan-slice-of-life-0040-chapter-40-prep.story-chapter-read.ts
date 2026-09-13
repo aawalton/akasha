@@ -7,12 +7,16 @@ export const underworldBreadMageYuriProgfanSliceOfLife0040Chapter40Prep = {
   position: 40,
   publishedAt: "2026-09-12",
   unit: "words",
-  externalId: "3948565",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3948565",
+      externalLink:
+        "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3948565/chapter-40-prep",
+    },
+  ],
   title: "Chapter 40: Prep",
   story: "story-read/underworld-bread-mage-yuri-progfan-slice-of-life",
   ownLength: 1472,
-  externalLink:
-    "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3948565/chapter-40-prep",
   prose: "txt",
 } as const satisfies StoryChapterRead

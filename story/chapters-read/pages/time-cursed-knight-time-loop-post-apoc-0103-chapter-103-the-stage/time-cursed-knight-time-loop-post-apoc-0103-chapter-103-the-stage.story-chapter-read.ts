@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0103Chapter103TheStage = {
   position: 103,
   ownLength: 2193,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3779025/chapter-103-the-stage",
-  externalId: "3779025",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3779025",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3779025/chapter-103-the-stage",
+    },
+  ],
   publishedAt: "2026-08-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0062062HomeSweetHome = {
   position: 62,
   ownLength: 2093,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3731154/062-home-sweet-home",
-  externalId: "3731154",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3731154",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3731154/062-home-sweet-home",
+    },
+  ],
   publishedAt: "2026-07-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0043Chapter43VictoryHurtsS
   position: 43,
   ownLength: 1388,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2646552/chapter-43-victory-hurts-savoury-sweet",
-  externalId: "2646552",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2646552",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2646552/chapter-43-victory-hurts-savoury-sweet",
+    },
+  ],
   publishedAt: "2025-10-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

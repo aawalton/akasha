@@ -8,11 +8,15 @@ export const timeCursedKnightTimeLoopPostApoc0123Chapter123StudentEnRoute = {
   position: 123,
   publishedAt: "2026-09-03",
   unit: "words",
-  externalId: "3905764",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3905764",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3905764/chapter-123-student-en-route",
+    },
+  ],
   title: "Chapter 123: Student En Route",
   ownLength: 2257,
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3905764/chapter-123-student-en-route",
   prose: "txt",
 } as const satisfies StoryChapterRead

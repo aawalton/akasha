@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0074074TheFlame = {
   position: 74,
   ownLength: 2092,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3856913/074-the-flame",
-  externalId: "3856913",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3856913",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3856913/074-the-flame",
+    },
+  ],
   publishedAt: "2026-08-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

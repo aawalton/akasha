@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0143Chapter140OfBreadGrand
   position: 143,
   ownLength: 3487,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3672517/chapter-140-of-bread-grandmas-and-roadside-rumors",
-  externalId: "3672517",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3672517",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3672517/chapter-140-of-bread-grandmas-and-roadside-rumors",
+    },
+  ],
   publishedAt: "2026-07-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

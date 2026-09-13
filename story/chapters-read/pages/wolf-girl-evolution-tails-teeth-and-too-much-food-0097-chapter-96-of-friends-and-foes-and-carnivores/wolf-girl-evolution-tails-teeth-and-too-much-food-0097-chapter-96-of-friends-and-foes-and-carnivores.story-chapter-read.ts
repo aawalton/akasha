@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0097Chapter96OfFriendsAndF
   position: 97,
   ownLength: 2227,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3019858/chapter-96-of-friends-and-foes-and-carnivores",
-  externalId: "3019858",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3019858",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3019858/chapter-96-of-friends-and-foes-and-carnivores",
+    },
+  ],
   publishedAt: "2026-02-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

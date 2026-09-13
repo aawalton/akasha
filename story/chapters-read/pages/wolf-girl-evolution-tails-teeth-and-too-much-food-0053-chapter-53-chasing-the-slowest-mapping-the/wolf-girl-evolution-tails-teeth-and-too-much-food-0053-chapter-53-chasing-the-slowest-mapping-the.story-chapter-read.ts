@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0053Chapter53ChasingTheSlo
   position: 53,
   ownLength: 1816,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2681723/chapter-53-chasing-the-slowest-mapping-the-longest",
-  externalId: "2681723",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2681723",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2681723/chapter-53-chasing-the-slowest-mapping-the-longest",
+    },
+  ],
   publishedAt: "2025-10-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

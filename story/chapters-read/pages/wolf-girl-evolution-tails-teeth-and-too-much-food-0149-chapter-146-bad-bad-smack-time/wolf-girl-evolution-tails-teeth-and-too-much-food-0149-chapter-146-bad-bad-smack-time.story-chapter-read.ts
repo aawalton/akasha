@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0149Chapter146BadBadSmackT
   position: 149,
   ownLength: 3234,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3764884/chapter-146-bad-bad-smack-time",
-  externalId: "3764884",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3764884",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3764884/chapter-146-bad-bad-smack-time",
+    },
+  ],
   publishedAt: "2026-08-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

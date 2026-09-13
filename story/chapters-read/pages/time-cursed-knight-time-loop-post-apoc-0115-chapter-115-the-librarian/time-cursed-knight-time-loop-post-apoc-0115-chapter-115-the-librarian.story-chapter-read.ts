@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0115Chapter115TheLibrarian = {
   position: 115,
   ownLength: 2200,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3859302/chapter-115-the-librarian",
-  externalId: "3859302",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3859302",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3859302/chapter-115-the-librarian",
+    },
+  ],
   publishedAt: "2026-08-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

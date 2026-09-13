@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0038038TheLaughingQueen 
   position: 38,
   ownLength: 2138,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3512920/038-the-laughing-queen",
-  externalId: "3512920",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3512920",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3512920/038-the-laughing-queen",
+    },
+  ],
   publishedAt: "2026-06-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

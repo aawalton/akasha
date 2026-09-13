@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0031031Unworthy = {
   position: 31,
   ownLength: 2436,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3463348/031-unworthy",
-  externalId: "3463348",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3463348",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3463348/031-unworthy",
+    },
+  ],
   publishedAt: "2026-05-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

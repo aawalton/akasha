@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0096Chapter96TheElegyOfOurSociety =
   position: 96,
   ownLength: 2420,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3738367/chapter-96-the-elegy-of-our-society",
-  externalId: "3738367",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3738367",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3738367/chapter-96-the-elegy-of-our-society",
+    },
+  ],
   publishedAt: "2026-07-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

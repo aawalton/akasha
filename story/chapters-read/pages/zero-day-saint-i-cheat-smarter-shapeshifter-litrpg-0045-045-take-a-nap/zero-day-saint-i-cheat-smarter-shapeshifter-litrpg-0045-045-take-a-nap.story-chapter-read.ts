@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0045045TakeANap = {
   position: 45,
   ownLength: 1939,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3573088/045-take-a-nap",
-  externalId: "3573088",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3573088",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3573088/045-take-a-nap",
+    },
+  ],
   publishedAt: "2026-06-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

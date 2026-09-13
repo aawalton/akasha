@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0001001ItWonTBeTheEndOfT
   position: 1,
   ownLength: 2072,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3339630/001-it-wont-be-the-end-of-the-world",
-  externalId: "3339630",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3339630",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3339630/001-it-wont-be-the-end-of-the-world",
+    },
+  ],
   publishedAt: "2026-05-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

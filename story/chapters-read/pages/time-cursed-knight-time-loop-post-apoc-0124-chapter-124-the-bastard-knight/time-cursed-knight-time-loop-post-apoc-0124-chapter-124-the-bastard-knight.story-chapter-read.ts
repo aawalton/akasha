@@ -8,11 +8,15 @@ export const timeCursedKnightTimeLoopPostApoc0124Chapter124TheBastardKnight = {
   position: 124,
   publishedAt: "2026-09-04",
   unit: "words",
-  externalId: "3912977",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3912977",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3912977/chapter-124-the-bastard-knight",
+    },
+  ],
   title: "Chapter 124: The Bastard Knight",
   ownLength: 2620,
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3912977/chapter-124-the-bastard-knight",
   prose: "txt",
 } as const satisfies StoryChapterRead

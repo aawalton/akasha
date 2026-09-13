@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0018018NewFoodChain = {
   position: 18,
   ownLength: 1690,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3380948/018-new-food-chain",
-  externalId: "3380948",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3380948",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3380948/018-new-food-chain",
+    },
+  ],
   publishedAt: "2026-05-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

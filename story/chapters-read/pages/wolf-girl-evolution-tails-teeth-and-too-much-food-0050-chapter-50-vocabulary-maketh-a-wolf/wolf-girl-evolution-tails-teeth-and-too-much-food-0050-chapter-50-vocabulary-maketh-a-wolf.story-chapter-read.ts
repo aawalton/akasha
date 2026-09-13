@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0050Chapter50VocabularyMak
   position: 50,
   ownLength: 1533,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2674034/chapter-50-vocabulary-maketh-a-wolf",
-  externalId: "2674034",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2674034",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2674034/chapter-50-vocabulary-maketh-a-wolf",
+    },
+  ],
   publishedAt: "2025-10-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

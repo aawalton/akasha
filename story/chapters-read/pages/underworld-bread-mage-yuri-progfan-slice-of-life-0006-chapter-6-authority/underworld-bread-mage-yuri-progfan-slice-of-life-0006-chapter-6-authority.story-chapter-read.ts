@@ -9,10 +9,14 @@ export const underworldBreadMageYuriProgfanSliceOfLife0006Chapter6Authority = {
   position: 6,
   ownLength: 1613,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-progfan-slice-of-life/chapter/3732345/chapter-6-authority",
-  externalId: "3732345",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3732345",
+      externalLink:
+        "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-progfan-slice-of-life/chapter/3732345/chapter-6-authority",
+    },
+  ],
   publishedAt: "2026-07-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

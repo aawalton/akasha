@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0107Chapter107TheFacility = {
   position: 107,
   ownLength: 2865,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3805351/chapter-107-the-facility",
-  externalId: "3805351",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3805351",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3805351/chapter-107-the-facility",
+    },
+  ],
   publishedAt: "2026-08-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

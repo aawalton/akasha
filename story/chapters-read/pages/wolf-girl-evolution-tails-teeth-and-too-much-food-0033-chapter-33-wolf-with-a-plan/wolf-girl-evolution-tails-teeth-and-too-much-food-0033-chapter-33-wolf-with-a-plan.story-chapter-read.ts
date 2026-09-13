@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0033Chapter33WolfWithAPlan
   position: 33,
   ownLength: 1273,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2616061/chapter-33-wolf-with-a-plan",
-  externalId: "2616061",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2616061",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2616061/chapter-33-wolf-with-a-plan",
+    },
+  ],
   publishedAt: "2025-09-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

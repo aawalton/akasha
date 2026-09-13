@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0014Chapter14HuntTheJuicie
   position: 14,
   ownLength: 1475,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2566308/chapter-14-hunt-the-juiciest",
-  externalId: "2566308",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2566308",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2566308/chapter-14-hunt-the-juiciest",
+    },
+  ],
   publishedAt: "2025-09-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

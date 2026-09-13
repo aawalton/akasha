@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0109Chapter109Hayyan = {
   position: 109,
   ownLength: 2857,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3814332/chapter-109-hayyan",
-  externalId: "3814332",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3814332",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3814332/chapter-109-hayyan",
+    },
+  ],
   publishedAt: "2026-08-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

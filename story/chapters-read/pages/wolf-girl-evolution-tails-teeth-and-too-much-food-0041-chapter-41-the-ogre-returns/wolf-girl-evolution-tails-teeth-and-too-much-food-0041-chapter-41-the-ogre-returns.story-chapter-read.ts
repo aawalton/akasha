@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0041Chapter41TheOgreReturn
   position: 41,
   ownLength: 1486,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2641328/chapter-41-the-ogre-returns",
-  externalId: "2641328",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2641328",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2641328/chapter-41-the-ogre-returns",
+    },
+  ],
   publishedAt: "2025-09-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

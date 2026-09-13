@@ -8,11 +8,15 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0080080Amygdala = {
   position: 80,
   publishedAt: "2026-09-07",
   unit: "words",
-  externalId: "3923475",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3923475",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-litrpgvol-1-complete/chapter/3923475/080-amygdala",
+    },
+  ],
   title: "080 - Amygdala",
   ownLength: 1840,
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-litrpgvol-1-complete/chapter/3923475/080-amygdala",
   prose: "txt",
 } as const satisfies StoryChapterRead

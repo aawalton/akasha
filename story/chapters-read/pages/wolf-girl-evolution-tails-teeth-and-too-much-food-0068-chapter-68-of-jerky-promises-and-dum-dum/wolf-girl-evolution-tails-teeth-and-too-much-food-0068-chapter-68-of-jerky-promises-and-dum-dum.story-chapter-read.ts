@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0068Chapter68OfJerkyPromis
   position: 68,
   ownLength: 1962,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2738479/chapter-68-of-jerky-promises-and-dum-dum-diplomacy",
-  externalId: "2738479",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2738479",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2738479/chapter-68-of-jerky-promises-and-dum-dum-diplomacy",
+    },
+  ],
   publishedAt: "2025-11-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

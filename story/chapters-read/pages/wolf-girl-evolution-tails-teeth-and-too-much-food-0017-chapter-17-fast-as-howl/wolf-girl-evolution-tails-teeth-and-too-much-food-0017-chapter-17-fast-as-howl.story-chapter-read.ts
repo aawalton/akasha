@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0017Chapter17FastAsHowl = 
   position: 17,
   ownLength: 1825,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2574469/chapter-17-fast-as-howl",
-  externalId: "2574469",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2574469",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2574469/chapter-17-fast-as-howl",
+    },
+  ],
   publishedAt: "2025-09-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

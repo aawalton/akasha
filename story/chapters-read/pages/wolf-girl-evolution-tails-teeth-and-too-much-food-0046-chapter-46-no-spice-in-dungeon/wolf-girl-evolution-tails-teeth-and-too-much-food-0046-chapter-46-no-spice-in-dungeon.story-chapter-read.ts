@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0046Chapter46NoSpiceInDung
   position: 46,
   ownLength: 1858,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2659033/chapter-46-no-spice-in-dungeon",
-  externalId: "2659033",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2659033",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2659033/chapter-46-no-spice-in-dungeon",
+    },
+  ],
   publishedAt: "2025-10-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

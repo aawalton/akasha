@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0113Chapter112OfCarefulPla
   position: 113,
   ownLength: 3029,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3166871/chapter-112-of-careful-plans-and-yippy-shadows",
-  externalId: "3166871",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3166871",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3166871/chapter-112-of-careful-plans-and-yippy-shadows",
+    },
+  ],
   publishedAt: "2026-03-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

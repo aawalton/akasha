@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0099Chapter98OfDarknessLig
   position: 99,
   ownLength: 2418,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3037677/chapter-98-of-darkness-light-and-muddy-battles",
-  externalId: "3037677",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3037677",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3037677/chapter-98-of-darkness-light-and-muddy-battles",
+    },
+  ],
   publishedAt: "2026-02-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

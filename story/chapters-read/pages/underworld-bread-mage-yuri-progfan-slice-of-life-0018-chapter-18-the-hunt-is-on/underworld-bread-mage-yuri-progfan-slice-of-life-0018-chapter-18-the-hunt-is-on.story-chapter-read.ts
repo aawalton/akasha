@@ -9,10 +9,14 @@ export const underworldBreadMageYuriProgfanSliceOfLife0018Chapter18TheHuntIsOn =
   position: 18,
   ownLength: 1667,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3768027/chapter-18-the-hunt-is-on",
-  externalId: "3768027",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3768027",
+      externalLink:
+        "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3768027/chapter-18-the-hunt-is-on",
+    },
+  ],
   publishedAt: "2026-08-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

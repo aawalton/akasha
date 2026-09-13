@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0063Chapter63SillySecondLe
   position: 63,
   ownLength: 1692,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2717957/chapter-63-silly-second-lessons-lunacy-and-lazy",
-  externalId: "2717957",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2717957",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2717957/chapter-63-silly-second-lessons-lunacy-and-lazy",
+    },
+  ],
   publishedAt: "2025-10-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

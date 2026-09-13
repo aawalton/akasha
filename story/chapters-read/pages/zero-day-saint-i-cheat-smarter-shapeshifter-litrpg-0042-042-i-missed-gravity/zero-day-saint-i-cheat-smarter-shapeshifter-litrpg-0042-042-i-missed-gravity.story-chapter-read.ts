@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0042042IMissedGravity = 
   position: 42,
   ownLength: 1873,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3540843/042-i-missed-gravity",
-  externalId: "3540843",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3540843",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3540843/042-i-missed-gravity",
+    },
+  ],
   publishedAt: "2026-06-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

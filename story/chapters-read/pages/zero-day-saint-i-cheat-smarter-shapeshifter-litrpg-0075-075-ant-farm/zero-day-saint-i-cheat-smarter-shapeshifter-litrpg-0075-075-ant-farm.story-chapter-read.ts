@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0075075AntFarm = {
   position: 75,
   ownLength: 1999,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3866196/075-ant-farm",
-  externalId: "3866196",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3866196",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3866196/075-ant-farm",
+    },
+  ],
   publishedAt: "2026-08-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

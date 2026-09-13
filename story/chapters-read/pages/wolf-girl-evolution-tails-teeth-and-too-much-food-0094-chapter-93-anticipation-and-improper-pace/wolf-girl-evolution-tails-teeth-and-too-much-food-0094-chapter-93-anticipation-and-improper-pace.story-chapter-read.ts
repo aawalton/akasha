@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0094Chapter93AnticipationA
   position: 94,
   ownLength: 1797,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2995957/chapter-93-anticipation-and-improper-pace",
-  externalId: "2995957",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2995957",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2995957/chapter-93-anticipation-and-improper-pace",
+    },
+  ],
   publishedAt: "2026-01-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

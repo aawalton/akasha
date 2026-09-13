@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0073Chapter72OfZoomsSpiceA
   position: 73,
   ownLength: 2196,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2796149/chapter-72-of-zooms-spice-and-sleepy-glory",
-  externalId: "2796149",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2796149",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2796149/chapter-72-of-zooms-spice-and-sleepy-glory",
+    },
+  ],
   publishedAt: "2025-11-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

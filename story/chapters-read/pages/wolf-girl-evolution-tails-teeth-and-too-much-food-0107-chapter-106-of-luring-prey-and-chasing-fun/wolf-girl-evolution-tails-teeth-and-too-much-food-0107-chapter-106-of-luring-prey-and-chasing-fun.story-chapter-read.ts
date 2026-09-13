@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0107Chapter106OfLuringPrey
   position: 107,
   ownLength: 1835,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3109417/chapter-106-of-luring-prey-and-chasing-fun",
-  externalId: "3109417",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3109417",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3109417/chapter-106-of-luring-prey-and-chasing-fun",
+    },
+  ],
   publishedAt: "2026-03-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

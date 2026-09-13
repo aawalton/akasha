@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0108Chapter107OfEggscellen
   position: 108,
   ownLength: 1820,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3124294/chapter-107-of-eggscellent-distractions-and-forest",
-  externalId: "3124294",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3124294",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3124294/chapter-107-of-eggscellent-distractions-and-forest",
+    },
+  ],
   publishedAt: "2026-03-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

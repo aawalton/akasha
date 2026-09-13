@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0084Chapter84InTheCapital = {
   position: 84,
   ownLength: 3093,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3659122/chapter-84-in-the-capital",
-  externalId: "3659122",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3659122",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3659122/chapter-84-in-the-capital",
+    },
+  ],
   publishedAt: "2026-07-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

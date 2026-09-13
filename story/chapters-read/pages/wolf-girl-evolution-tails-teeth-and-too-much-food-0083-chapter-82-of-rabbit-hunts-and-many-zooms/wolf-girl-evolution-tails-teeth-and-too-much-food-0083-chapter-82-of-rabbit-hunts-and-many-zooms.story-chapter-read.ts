@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0083Chapter82OfRabbitHunts
   position: 83,
   ownLength: 1989,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2918588/chapter-82-of-rabbit-hunts-and-many-zooms",
-  externalId: "2918588",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2918588",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2918588/chapter-82-of-rabbit-hunts-and-many-zooms",
+    },
+  ],
   publishedAt: "2026-01-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

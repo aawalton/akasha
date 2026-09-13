@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0076Chapter75OfSandwichCri
   position: 76,
   ownLength: 2215,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2810563/chapter-75-of-sandwich-crimes-and-city-chaos",
-  externalId: "2810563",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2810563",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2810563/chapter-75-of-sandwich-crimes-and-city-chaos",
+    },
+  ],
   publishedAt: "2025-12-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

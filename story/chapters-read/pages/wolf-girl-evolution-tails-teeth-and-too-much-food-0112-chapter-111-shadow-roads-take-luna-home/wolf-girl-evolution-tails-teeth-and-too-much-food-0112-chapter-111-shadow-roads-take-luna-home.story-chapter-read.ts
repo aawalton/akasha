@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0112Chapter111ShadowRoadsT
   position: 112,
   ownLength: 2937,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3163171/chapter-111-shadow-roads-take-luna-home",
-  externalId: "3163171",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3163171",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3163171/chapter-111-shadow-roads-take-luna-home",
+    },
+  ],
   publishedAt: "2026-03-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

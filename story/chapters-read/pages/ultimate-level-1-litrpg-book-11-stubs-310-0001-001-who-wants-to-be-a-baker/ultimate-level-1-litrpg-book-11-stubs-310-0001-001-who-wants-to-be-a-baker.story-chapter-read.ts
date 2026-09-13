@@ -9,10 +9,14 @@ export const ultimateLevel1LitrpgBook11Stubs3100001001WhoWantsToBeABaker = {
   position: 1,
   ownLength: 3004,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/76259/ultimate-level-1-litrpg-book-11-stubs-310/chapter/1391286/001-who-wants-to-be-a-baker",
-  externalId: "1391286",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1391286",
+      externalLink:
+        "https://www.royalroad.com/fiction/76259/ultimate-level-1-litrpg-book-11-stubs-310/chapter/1391286/001-who-wants-to-be-a-baker",
+    },
+  ],
   publishedAt: "2023-10-31",
   ownProgress: 3004,
   completedAt: "2026-06-29T20:31:37.793Z",

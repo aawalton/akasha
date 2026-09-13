@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0015Chapter15SoftPartsShar
   position: 15,
   ownLength: 1294,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2569041/chapter-15-soft-parts-sharp-teeth",
-  externalId: "2569041",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2569041",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2569041/chapter-15-soft-parts-sharp-teeth",
+    },
+  ],
   publishedAt: "2025-09-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

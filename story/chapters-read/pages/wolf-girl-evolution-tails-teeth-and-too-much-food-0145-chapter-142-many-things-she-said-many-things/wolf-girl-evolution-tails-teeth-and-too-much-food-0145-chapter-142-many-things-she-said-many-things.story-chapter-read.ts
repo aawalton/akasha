@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0145Chapter142ManyThingsSh
   position: 145,
   ownLength: 2726,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3703231/chapter-142-many-things-she-said-many-things-to",
-  externalId: "3703231",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3703231",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3703231/chapter-142-many-things-she-said-many-things-to",
+    },
+  ],
   publishedAt: "2026-07-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

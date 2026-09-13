@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0008008DeathByHummingbir
   position: 8,
   ownLength: 2063,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3340754/008-death-by-hummingbird",
-  externalId: "3340754",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3340754",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3340754/008-death-by-hummingbird",
+    },
+  ],
   publishedAt: "2026-05-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

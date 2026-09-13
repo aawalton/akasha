@@ -9,10 +9,14 @@ export const ultimateLevel1LitrpgBook11Stubs3100004Chapter275 = {
   position: 4,
   ownLength: 2181,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/76259/ultimate-level-1-litrpg-book-11-stubs-310/chapter/1884372/chapter-275",
-  externalId: "1884372",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1884372",
+      externalLink:
+        "https://www.royalroad.com/fiction/76259/ultimate-level-1-litrpg-book-11-stubs-310/chapter/1884372/chapter-275",
+    },
+  ],
   publishedAt: "2024-11-04",
   ownProgress: 2181,
   completedAt: "2026-06-29T20:31:43.971Z",

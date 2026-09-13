@@ -9,10 +9,14 @@ export const underworldBreadMageYuriProgfanSliceOfLife0009Chapter9MayIHaveThisDa
   position: 9,
   ownLength: 1837,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-progfan-slice-of-life/chapter/3733252/chapter-9-may-i-have-this-dance",
-  externalId: "3733252",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3733252",
+      externalLink:
+        "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-progfan-slice-of-life/chapter/3733252/chapter-9-may-i-have-this-dance",
+    },
+  ],
   publishedAt: "2026-07-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

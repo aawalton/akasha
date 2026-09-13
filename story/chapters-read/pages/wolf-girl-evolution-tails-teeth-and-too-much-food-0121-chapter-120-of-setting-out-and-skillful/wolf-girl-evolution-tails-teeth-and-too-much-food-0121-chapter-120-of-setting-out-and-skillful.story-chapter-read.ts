@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0121Chapter120OfSettingOut
   position: 121,
   ownLength: 2430,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3286804/chapter-120-of-setting-out-and-skillful-sandwich",
-  externalId: "3286804",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3286804",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3286804/chapter-120-of-setting-out-and-skillful-sandwich",
+    },
+  ],
   publishedAt: "2026-04-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

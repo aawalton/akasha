@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0016Chapter16BiteChewThink
   position: 16,
   ownLength: 1456,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2571839/chapter-16-bite-chew-think",
-  externalId: "2571839",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2571839",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2571839/chapter-16-bite-chew-think",
+    },
+  ],
   publishedAt: "2025-09-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

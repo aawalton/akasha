@@ -7,12 +7,16 @@ export const underworldBreadMageYuriProgfanSliceOfLife0039Chapter39OurSecret = {
   position: 39,
   publishedAt: "2026-09-10",
   unit: "words",
-  externalId: "3939098",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3939098",
+      externalLink:
+        "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3939098/chapter-39-our-secret",
+    },
+  ],
   title: "Chapter 39: Our Secret",
   story: "story-read/underworld-bread-mage-yuri-progfan-slice-of-life",
   ownLength: 1245,
-  externalLink:
-    "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3939098/chapter-39-our-secret",
   prose: "txt",
 } as const satisfies StoryChapterRead

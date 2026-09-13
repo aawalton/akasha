@@ -9,10 +9,14 @@ export const underworldBreadMageYuriProgfanSliceOfLife0014Chapter14TheBeePleOfTh
   position: 14,
   ownLength: 1378,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3750544/chapter-14-the-bee-ple-of-this-village",
-  externalId: "3750544",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3750544",
+      externalLink:
+        "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3750544/chapter-14-the-bee-ple-of-this-village",
+    },
+  ],
   publishedAt: "2026-07-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

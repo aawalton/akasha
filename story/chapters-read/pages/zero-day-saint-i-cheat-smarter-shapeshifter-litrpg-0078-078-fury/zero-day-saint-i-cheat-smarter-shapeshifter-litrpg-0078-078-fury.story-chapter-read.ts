@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0078078Fury = {
   position: 78,
   ownLength: 2144,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-litrpgvol-1-complete/chapter/3898913/078-fury",
-  externalId: "3898913",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3898913",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-litrpgvol-1-complete/chapter/3898913/078-fury",
+    },
+  ],
   publishedAt: "2026-09-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

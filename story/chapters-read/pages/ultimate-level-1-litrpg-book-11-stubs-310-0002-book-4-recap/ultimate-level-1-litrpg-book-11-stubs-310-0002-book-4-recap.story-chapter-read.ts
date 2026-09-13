@@ -9,10 +9,14 @@ export const ultimateLevel1LitrpgBook11Stubs3100002Book4Recap = {
   position: 2,
   ownLength: 1257,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/76259/ultimate-level-1-litrpg-book-11-stubs-310/chapter/1661973/book-4-recap",
-  externalId: "1661973",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1661973",
+      externalLink:
+        "https://www.royalroad.com/fiction/76259/ultimate-level-1-litrpg-book-11-stubs-310/chapter/1661973/book-4-recap",
+    },
+  ],
   publishedAt: "2024-06-03",
   ownProgress: 1257,
   completedAt: "2026-06-29T20:31:39.889Z",

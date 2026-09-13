@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0069069EverybodyOrEveryB
   position: 69,
   ownLength: 2157,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3802900/069-everybody-or-every-body",
-  externalId: "3802900",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3802900",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3802900/069-everybody-or-every-body",
+    },
+  ],
   publishedAt: "2026-08-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

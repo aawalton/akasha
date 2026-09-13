@@ -9,10 +9,14 @@ export const underworldBreadMageYuriProgfanSliceOfLife0002Chapter2ANightAtTheBak
   position: 2,
   ownLength: 1733,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-progfan-slice-of-life/chapter/3731534/chapter-2-a-night-at-the-bakery",
-  externalId: "3731534",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3731534",
+      externalLink:
+        "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-progfan-slice-of-life/chapter/3731534/chapter-2-a-night-at-the-bakery",
+    },
+  ],
   publishedAt: "2026-07-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

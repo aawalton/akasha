@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0111Chapter110OfFlyingForw
   position: 111,
   ownLength: 2321,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3141410/chapter-110-of-flying-forward-and-proper-fun",
-  externalId: "3141410",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3141410",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3141410/chapter-110-of-flying-forward-and-proper-fun",
+    },
+  ],
   publishedAt: "2026-03-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0041041MoreThanItReallyI
   position: 41,
   ownLength: 2020,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3527346/041-more-than-it-really-is",
-  externalId: "3527346",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3527346",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3527346/041-more-than-it-really-is",
+    },
+  ],
   publishedAt: "2026-06-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

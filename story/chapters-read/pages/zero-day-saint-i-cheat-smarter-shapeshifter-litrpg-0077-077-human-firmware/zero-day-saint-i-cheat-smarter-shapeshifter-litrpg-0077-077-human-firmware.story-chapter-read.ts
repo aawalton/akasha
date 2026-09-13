@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0077077HumanFirmware = {
   position: 77,
   ownLength: 2078,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3888616/077-human-firmware",
-  externalId: "3888616",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3888616",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3888616/077-human-firmware",
+    },
+  ],
   publishedAt: "2026-08-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

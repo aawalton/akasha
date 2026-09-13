@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0072Chapter71OfPotionsPawS
   position: 72,
   ownLength: 2058,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2792770/chapter-71-of-potions-paw-speed-and-shadow-tactics",
-  externalId: "2792770",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2792770",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2792770/chapter-71-of-potions-paw-speed-and-shadow-tactics",
+    },
+  ],
   publishedAt: "2025-11-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

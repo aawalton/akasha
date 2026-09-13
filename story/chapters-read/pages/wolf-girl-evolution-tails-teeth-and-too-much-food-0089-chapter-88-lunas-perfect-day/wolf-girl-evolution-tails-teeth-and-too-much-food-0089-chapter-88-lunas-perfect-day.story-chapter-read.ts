@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0089Chapter88LunasPerfectD
   position: 89,
   ownLength: 1889,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2968888/chapter-88-lunas-perfect-day",
-  externalId: "2968888",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2968888",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2968888/chapter-88-lunas-perfect-day",
+    },
+  ],
   publishedAt: "2026-01-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

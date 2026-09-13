@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0059059ConquestOrCoopera
   position: 59,
   ownLength: 2303,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3700345/059-conquest-or-cooperation",
-  externalId: "3700345",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3700345",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3700345/059-conquest-or-cooperation",
+    },
+  ],
   publishedAt: "2026-07-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

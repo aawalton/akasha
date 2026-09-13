@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0132Chapter130OfDepartures
   position: 132,
   ownLength: 2521,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3515714/chapter-130-of-departures-sandwiches-and-emotional",
-  externalId: "3515714",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3515714",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3515714/chapter-130-of-departures-sandwiches-and-emotional",
+    },
+  ],
   publishedAt: "2026-06-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

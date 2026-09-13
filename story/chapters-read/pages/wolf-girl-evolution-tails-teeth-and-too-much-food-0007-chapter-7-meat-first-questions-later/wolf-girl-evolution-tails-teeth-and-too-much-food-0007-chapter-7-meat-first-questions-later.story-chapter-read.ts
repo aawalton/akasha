@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0007Chapter7MeatFirstQuest
   position: 7,
   ownLength: 1468,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2542007/chapter-7-meat-first-questions-later",
-  externalId: "2542007",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2542007",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2542007/chapter-7-meat-first-questions-later",
+    },
+  ],
   publishedAt: "2025-08-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

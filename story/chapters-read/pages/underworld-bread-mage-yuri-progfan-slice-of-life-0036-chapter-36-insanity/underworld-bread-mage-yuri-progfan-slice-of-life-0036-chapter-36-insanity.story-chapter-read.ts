@@ -8,11 +8,15 @@ export const underworldBreadMageYuriProgfanSliceOfLife0036Chapter36Insanity = {
   position: 36,
   publishedAt: "2026-09-03",
   unit: "words",
-  externalId: "3904571",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3904571",
+      externalLink:
+        "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3904571/chapter-36-insanity",
+    },
+  ],
   title: "Chapter 36: Insanity",
   ownLength: 1426,
-  externalLink:
-    "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3904571/chapter-36-insanity",
   prose: "txt",
 } as const satisfies StoryChapterRead

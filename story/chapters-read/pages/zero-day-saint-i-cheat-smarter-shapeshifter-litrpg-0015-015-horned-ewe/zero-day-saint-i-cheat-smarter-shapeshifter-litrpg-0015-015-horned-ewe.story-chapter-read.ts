@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0015015HornedEwe = {
   position: 15,
   ownLength: 1845,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3361060/015-horned-ewe",
-  externalId: "3361060",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3361060",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3361060/015-horned-ewe",
+    },
+  ],
   publishedAt: "2026-05-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

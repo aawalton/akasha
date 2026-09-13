@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0119Chapter119Auricht = {
   position: 119,
   ownLength: 2391,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3878080/chapter-119-auricht",
-  externalId: "3878080",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3878080",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3878080/chapter-119-auricht",
+    },
+  ],
   publishedAt: "2026-08-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const underworldBreadMageYuriProgfanSliceOfLife0032Chapter32AfternoonNaps
   position: 32,
   ownLength: 1428,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3863105/chapter-32-afternoon-naps",
-  externalId: "3863105",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3863105",
+      externalLink:
+        "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3863105/chapter-32-afternoon-naps",
+    },
+  ],
   publishedAt: "2026-08-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0120Chapter119OfWarmWaking
   position: 120,
   ownLength: 2652,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3273794/chapter-119-of-warm-waking-and-earned-praise",
-  externalId: "3273794",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3273794",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3273794/chapter-119-of-warm-waking-and-earned-praise",
+    },
+  ],
   publishedAt: "2026-04-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

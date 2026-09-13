@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0115Chapter114OfSecondTask
   position: 115,
   ownLength: 2880,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3193493/chapter-114-of-second-taskmasters-and-very-important",
-  externalId: "3193493",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3193493",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3193493/chapter-114-of-second-taskmasters-and-very-important",
+    },
+  ],
   publishedAt: "2026-03-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

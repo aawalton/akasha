@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0124Chapter123OfBrokenGrou
   position: 124,
   ownLength: 2727,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3330072/chapter-123-of-broken-ground-and-rising-threats",
-  externalId: "3330072",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3330072",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3330072/chapter-123-of-broken-ground-and-rising-threats",
+    },
+  ],
   publishedAt: "2026-04-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

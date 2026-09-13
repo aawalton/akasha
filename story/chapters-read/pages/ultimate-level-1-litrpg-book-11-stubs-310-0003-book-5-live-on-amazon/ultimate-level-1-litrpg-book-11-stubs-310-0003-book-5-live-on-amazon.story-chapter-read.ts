@@ -9,10 +9,14 @@ export const ultimateLevel1LitrpgBook11Stubs3100003Book5LiveOnAmazon = {
   position: 3,
   ownLength: 182,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/76259/ultimate-level-1-litrpg-book-11-stubs-310/chapter/1878893/book-5-live-on-amazon",
-  externalId: "1878893",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1878893",
+      externalLink:
+        "https://www.royalroad.com/fiction/76259/ultimate-level-1-litrpg-book-11-stubs-310/chapter/1878893/book-5-live-on-amazon",
+    },
+  ],
   publishedAt: "2024-11-01",
   ownProgress: 182,
   completedAt: "2026-06-29T20:31:41.945Z",

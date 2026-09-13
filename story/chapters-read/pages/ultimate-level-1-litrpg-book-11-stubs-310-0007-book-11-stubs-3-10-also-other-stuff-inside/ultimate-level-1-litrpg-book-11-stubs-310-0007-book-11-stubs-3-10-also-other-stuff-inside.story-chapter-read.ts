@@ -9,10 +9,14 @@ export const ultimateLevel1LitrpgBook11Stubs3100007Book11Stubs310AlsoOtherStuffI
   position: 7,
   ownLength: 110,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/76259/ultimate-level-1-litrpg-book-11-stubs-310/chapter/3113713/book-11-stubs-310-also-other-stuff-inside",
-  externalId: "3113713",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3113713",
+      externalLink:
+        "https://www.royalroad.com/fiction/76259/ultimate-level-1-litrpg-book-11-stubs-310/chapter/3113713/book-11-stubs-310-also-other-stuff-inside",
+    },
+  ],
   publishedAt: "2026-03-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

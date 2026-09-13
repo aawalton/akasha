@@ -9,10 +9,14 @@ export const underworldBreadMageYuriProgfanSliceOfLife0013Chapter13HomeSweetHome
   position: 13,
   ownLength: 1388,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3746004/chapter-13-home-sweet-home",
-  externalId: "3746004",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3746004",
+      externalLink:
+        "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3746004/chapter-13-home-sweet-home",
+    },
+  ],
   publishedAt: "2026-07-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

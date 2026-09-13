@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0056Chapter56OfHolesBugsAn
   position: 56,
   ownLength: 1679,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2694468/chapter-56-of-holes-bugs-and-mysterious-echoes",
-  externalId: "2694468",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2694468",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2694468/chapter-56-of-holes-bugs-and-mysterious-echoes",
+    },
+  ],
   publishedAt: "2025-10-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

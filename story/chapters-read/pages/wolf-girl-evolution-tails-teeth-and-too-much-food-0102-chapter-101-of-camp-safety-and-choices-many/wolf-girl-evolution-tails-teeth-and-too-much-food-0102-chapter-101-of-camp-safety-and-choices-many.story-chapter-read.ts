@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0102Chapter101OfCampSafety
   position: 102,
   ownLength: 2206,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3069010/chapter-101-of-camp-safety-and-choices-many",
-  externalId: "3069010",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3069010",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3069010/chapter-101-of-camp-safety-and-choices-many",
+    },
+  ],
   publishedAt: "2026-02-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

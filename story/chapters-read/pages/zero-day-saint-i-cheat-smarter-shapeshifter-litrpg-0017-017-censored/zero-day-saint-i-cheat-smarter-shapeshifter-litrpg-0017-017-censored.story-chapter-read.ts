@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0017017Censored = {
   position: 17,
   ownLength: 2753,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3369435/017-censored",
-  externalId: "3369435",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3369435",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3369435/017-censored",
+    },
+  ],
   publishedAt: "2026-05-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

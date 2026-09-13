@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0053053InevitableEnd = {
   position: 53,
   ownLength: 2304,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3638054/053-inevitable-end",
-  externalId: "3638054",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3638054",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3638054/053-inevitable-end",
+    },
+  ],
   publishedAt: "2026-07-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0130Chapter128OfMeatMounta
   position: 130,
   ownLength: 3189,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3479645/chapter-128-of-meat-mountains-and-recovery-crimes",
-  externalId: "3479645",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3479645",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3479645/chapter-128-of-meat-mountains-and-recovery-crimes",
+    },
+  ],
   publishedAt: "2026-06-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

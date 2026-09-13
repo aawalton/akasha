@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0067067OngoingTrainwreck
   position: 67,
   ownLength: 1729,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3780579/067-ongoing-trainwreck",
-  externalId: "3780579",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3780579",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3780579/067-ongoing-trainwreck",
+    },
+  ],
   publishedAt: "2026-08-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

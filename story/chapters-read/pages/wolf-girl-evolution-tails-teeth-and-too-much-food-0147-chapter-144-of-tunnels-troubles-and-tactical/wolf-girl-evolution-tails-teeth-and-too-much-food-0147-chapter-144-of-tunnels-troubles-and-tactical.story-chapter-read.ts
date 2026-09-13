@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0147Chapter144OfTunnelsTro
   position: 147,
   ownLength: 2134,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3734057/chapter-144-of-tunnels-troubles-and-tactical-jerky",
-  externalId: "3734057",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3734057",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3734057/chapter-144-of-tunnels-troubles-and-tactical-jerky",
+    },
+  ],
   publishedAt: "2026-07-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

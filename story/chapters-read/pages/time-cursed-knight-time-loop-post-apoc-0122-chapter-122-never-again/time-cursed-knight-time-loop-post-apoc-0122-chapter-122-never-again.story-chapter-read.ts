@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0122Chapter122NeverAgain = {
   position: 122,
   ownLength: 2280,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3901430/chapter-122-never-again",
-  externalId: "3901430",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3901430",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3901430/chapter-122-never-again",
+    },
+  ],
   publishedAt: "2026-09-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

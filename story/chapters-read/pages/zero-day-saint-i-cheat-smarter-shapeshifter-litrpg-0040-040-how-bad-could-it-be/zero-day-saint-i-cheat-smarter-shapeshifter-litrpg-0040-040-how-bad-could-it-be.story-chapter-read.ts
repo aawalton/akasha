@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0040040HowBadCouldItBe =
   position: 40,
   ownLength: 2381,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3522785/040-how-bad-could-it-be",
-  externalId: "3522785",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3522785",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3522785/040-how-bad-could-it-be",
+    },
+  ],
   publishedAt: "2026-06-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

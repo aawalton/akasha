@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0009Chapter9MeatForPower =
   position: 9,
   ownLength: 1535,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2547388/chapter-9-meat-for-power",
-  externalId: "2547388",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2547388",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2547388/chapter-9-meat-for-power",
+    },
+  ],
   publishedAt: "2025-08-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

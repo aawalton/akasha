@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0097Chapter97Coexistence = {
   position: 97,
   ownLength: 3000,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3743032/chapter-97-coexistence",
-  externalId: "3743032",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3743032",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3743032/chapter-97-coexistence",
+    },
+  ],
   publishedAt: "2026-07-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

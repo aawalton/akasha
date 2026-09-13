@@ -9,10 +9,14 @@ export const underworldBreadMageYuriProgfanSliceOfLife0021Chapter21BreakfastWith
   position: 21,
   ownLength: 1480,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3781864/chapter-21-breakfast-with-the-bee",
-  externalId: "3781864",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3781864",
+      externalLink:
+        "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3781864/chapter-21-breakfast-with-the-bee",
+    },
+  ],
   publishedAt: "2026-08-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const underworldBreadMageYuriProgfanSliceOfLife0003Chapter3Bloodlust = {
   position: 3,
   ownLength: 2434,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-progfan-slice-of-life/chapter/3731671/chapter-3-bloodlust",
-  externalId: "3731671",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3731671",
+      externalLink:
+        "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-progfan-slice-of-life/chapter/3731671/chapter-3-bloodlust",
+    },
+  ],
   publishedAt: "2026-07-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

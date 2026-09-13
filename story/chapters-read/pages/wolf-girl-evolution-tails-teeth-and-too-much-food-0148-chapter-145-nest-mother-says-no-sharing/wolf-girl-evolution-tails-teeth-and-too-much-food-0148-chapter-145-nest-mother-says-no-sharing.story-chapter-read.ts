@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0148Chapter145NestMotherSa
   position: 148,
   ownLength: 2607,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3743103/chapter-145-nest-mother-says-no-sharing",
-  externalId: "3743103",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3743103",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3743103/chapter-145-nest-mother-says-no-sharing",
+    },
+  ],
   publishedAt: "2026-07-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

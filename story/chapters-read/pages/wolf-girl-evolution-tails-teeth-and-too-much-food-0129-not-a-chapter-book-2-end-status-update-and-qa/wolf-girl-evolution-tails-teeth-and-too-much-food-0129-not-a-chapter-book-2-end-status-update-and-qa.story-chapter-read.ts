@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0129NotAChapterBook2EndSta
   position: 129,
   ownLength: 581,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3383723/not-a-chapter-book-2-end-status-update-and-qa",
-  externalId: "3383723",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3383723",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3383723/not-a-chapter-book-2-end-status-update-and-qa",
+    },
+  ],
   publishedAt: "2026-05-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

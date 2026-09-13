@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0088Chapter88Unproven = {
   position: 88,
   ownLength: 2707,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3686149/chapter-88-unproven",
-  externalId: "3686149",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3686149",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3686149/chapter-88-unproven",
+    },
+  ],
   publishedAt: "2026-07-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0036Chapter36StewAndSuspic
   position: 36,
   ownLength: 1170,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2623410/chapter-36-stew-and-suspicion",
-  externalId: "2623410",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2623410",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2623410/chapter-36-stew-and-suspicion",
+    },
+  ],
   publishedAt: "2025-09-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

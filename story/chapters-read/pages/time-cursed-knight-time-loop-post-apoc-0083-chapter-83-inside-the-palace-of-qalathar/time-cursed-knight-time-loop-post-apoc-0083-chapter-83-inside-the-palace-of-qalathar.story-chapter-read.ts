@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0083Chapter83InsideThePalaceOfQalat
   position: 83,
   ownLength: 2471,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3654302/chapter-83-inside-the-palace-of-qalathar",
-  externalId: "3654302",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3654302",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3654302/chapter-83-inside-the-palace-of-qalathar",
+    },
+  ],
   publishedAt: "2026-07-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

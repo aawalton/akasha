@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0080Chapter79OfProperHuman
   position: 80,
   ownLength: 2019,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2848243/chapter-79-of-proper-humans-better-luna-and-shaky",
-  externalId: "2848243",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2848243",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2848243/chapter-79-of-proper-humans-better-luna-and-shaky",
+    },
+  ],
   publishedAt: "2025-12-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

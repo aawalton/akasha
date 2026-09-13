@@ -9,10 +9,14 @@ export const underworldBreadMageYuriProgfanSliceOfLife0028Chapter28AFreeBreakfas
   position: 28,
   ownLength: 1430,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3830825/chapter-28-a-free-breakfast",
-  externalId: "3830825",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3830825",
+      externalLink:
+        "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3830825/chapter-28-a-free-breakfast",
+    },
+  ],
   publishedAt: "2026-08-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

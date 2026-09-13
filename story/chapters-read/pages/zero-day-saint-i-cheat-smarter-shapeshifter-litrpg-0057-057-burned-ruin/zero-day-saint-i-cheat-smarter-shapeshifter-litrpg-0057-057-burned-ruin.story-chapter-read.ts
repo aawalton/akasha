@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0057057BurnedRuin = {
   position: 57,
   ownLength: 1891,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3678842/057-burned-ruin",
-  externalId: "3678842",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3678842",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3678842/057-burned-ruin",
+    },
+  ],
   publishedAt: "2026-07-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

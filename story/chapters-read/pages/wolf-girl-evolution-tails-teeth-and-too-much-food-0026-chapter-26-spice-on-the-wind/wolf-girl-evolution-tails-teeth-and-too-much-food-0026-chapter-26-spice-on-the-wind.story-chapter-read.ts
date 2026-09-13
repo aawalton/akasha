@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0026Chapter26SpiceOnTheWin
   position: 26,
   ownLength: 1519,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2598084/chapter-26-spice-on-the-wind",
-  externalId: "2598084",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2598084",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2598084/chapter-26-spice-on-the-wind",
+    },
+  ],
   publishedAt: "2025-09-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

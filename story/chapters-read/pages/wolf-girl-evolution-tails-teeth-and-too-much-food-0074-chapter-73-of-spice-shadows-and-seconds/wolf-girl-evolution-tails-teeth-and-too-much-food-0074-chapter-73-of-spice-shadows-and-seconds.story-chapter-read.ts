@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0074Chapter73OfSpiceShadow
   position: 74,
   ownLength: 2025,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2798986/chapter-73-of-spice-shadows-and-seconds-smiles",
-  externalId: "2798986",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2798986",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2798986/chapter-73-of-spice-shadows-and-seconds-smiles",
+    },
+  ],
   publishedAt: "2025-11-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

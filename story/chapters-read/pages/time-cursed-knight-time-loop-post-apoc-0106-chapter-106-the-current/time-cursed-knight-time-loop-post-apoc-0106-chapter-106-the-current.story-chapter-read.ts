@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0106Chapter106TheCurrent = {
   position: 106,
   ownLength: 2765,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3801006/chapter-106-the-current",
-  externalId: "3801006",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3801006",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3801006/chapter-106-the-current",
+    },
+  ],
   publishedAt: "2026-08-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

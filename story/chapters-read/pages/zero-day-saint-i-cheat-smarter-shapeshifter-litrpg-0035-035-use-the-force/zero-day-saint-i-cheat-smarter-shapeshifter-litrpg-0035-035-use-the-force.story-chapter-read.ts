@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0035035UseTheForce = {
   position: 35,
   ownLength: 2308,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3490814/035-use-the-force",
-  externalId: "3490814",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3490814",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3490814/035-use-the-force",
+    },
+  ],
   publishedAt: "2026-06-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

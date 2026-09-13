@@ -10,10 +10,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0138Chapter136OfRoadsRestr
     position: 138,
     ownLength: 2671,
     unit: "words",
-    source: "royal-road",
-    externalLink:
-      "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3608866/chapter-136-of-roads-restraints-and-temporary",
-    externalId: "3608866",
+    externalIdentity: [
+      {
+        source: "royal-road",
+        externalId: "3608866",
+        externalLink:
+          "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3608866/chapter-136-of-roads-restraints-and-temporary",
+      },
+    ],
     publishedAt: "2026-06-29",
     prose: "txt",
   } as const satisfies StoryChapterRead

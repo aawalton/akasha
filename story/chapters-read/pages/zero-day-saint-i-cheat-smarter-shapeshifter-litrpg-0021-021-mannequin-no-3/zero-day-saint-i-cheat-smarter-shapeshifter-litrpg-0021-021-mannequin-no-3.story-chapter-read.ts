@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0021021MannequinNo3 = {
   position: 21,
   ownLength: 2226,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3412449/021-mannequin-no-3",
-  externalId: "3412449",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3412449",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3412449/021-mannequin-no-3",
+    },
+  ],
   publishedAt: "2026-05-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0090Chapter89OfPerfectView
   position: 90,
   ownLength: 2178,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2972612/chapter-89-of-perfect-views-and-genius-luna",
-  externalId: "2972612",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2972612",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2972612/chapter-89-of-perfect-views-and-genius-luna",
+    },
+  ],
   publishedAt: "2026-01-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

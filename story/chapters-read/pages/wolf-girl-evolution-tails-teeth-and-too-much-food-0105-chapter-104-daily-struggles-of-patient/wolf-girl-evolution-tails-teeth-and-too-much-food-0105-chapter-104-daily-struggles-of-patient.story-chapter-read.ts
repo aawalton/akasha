@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0105Chapter104DailyStruggl
   position: 105,
   ownLength: 1928,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3092229/chapter-104-daily-struggles-of-patient-piggies",
-  externalId: "3092229",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3092229",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3092229/chapter-104-daily-struggles-of-patient-piggies",
+    },
+  ],
   publishedAt: "2026-02-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

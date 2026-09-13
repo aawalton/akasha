@@ -9,10 +9,14 @@ export const underworldBreadMageYuriProgfanSliceOfLife0023Chapter23Milk = {
   position: 23,
   ownLength: 1317,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3790750/chapter-23-milk",
-  externalId: "3790750",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3790750",
+      externalLink:
+        "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3790750/chapter-23-milk",
+    },
+  ],
   publishedAt: "2026-08-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

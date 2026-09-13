@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0051051ZeroPercentVanill
   position: 51,
   ownLength: 1908,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3620444/051-zero-percent-vanilla",
-  externalId: "3620444",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3620444",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3620444/051-zero-percent-vanilla",
+    },
+  ],
   publishedAt: "2026-07-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

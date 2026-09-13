@@ -9,10 +9,14 @@ export const underworldBreadMageYuriProgfanSliceOfLife0024Chapter24LoveIsAStrong
   position: 24,
   ownLength: 1419,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3799618/chapter-24-love-is-a-strong-word",
-  externalId: "3799618",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3799618",
+      externalLink:
+        "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3799618/chapter-24-love-is-a-strong-word",
+    },
+  ],
   publishedAt: "2026-08-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0156Chapter153DoChimeraDre
   position: 156,
   ownLength: 1791,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3868779/chapter-153-do-chimera-dream-of-delighted-yips",
-  externalId: "3868779",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3868779",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3868779/chapter-153-do-chimera-dream-of-delighted-yips",
+    },
+  ],
   publishedAt: "2026-08-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

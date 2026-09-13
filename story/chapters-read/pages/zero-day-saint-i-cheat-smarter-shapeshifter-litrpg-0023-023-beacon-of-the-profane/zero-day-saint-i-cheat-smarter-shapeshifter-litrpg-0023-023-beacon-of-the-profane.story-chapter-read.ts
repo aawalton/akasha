@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0023023BeaconOfTheProfan
   position: 23,
   ownLength: 2624,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3426258/023-beacon-of-the-profane",
-  externalId: "3426258",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3426258",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3426258/023-beacon-of-the-profane",
+    },
+  ],
   publishedAt: "2026-05-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

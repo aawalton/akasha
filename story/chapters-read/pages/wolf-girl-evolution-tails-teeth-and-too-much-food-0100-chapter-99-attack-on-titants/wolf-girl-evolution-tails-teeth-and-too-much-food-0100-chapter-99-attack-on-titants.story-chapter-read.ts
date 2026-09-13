@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0100Chapter99AttackOnTitan
   position: 100,
   ownLength: 2245,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3051415/chapter-99-attack-on-titants",
-  externalId: "3051415",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3051415",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3051415/chapter-99-attack-on-titants",
+    },
+  ],
   publishedAt: "2026-02-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const underworldBreadMageYuriProgfanSliceOfLife0031Chapter31AppleCrumbleI
   position: 31,
   ownLength: 1628,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3848017/chapter-31-apple-crumble-improvised",
-  externalId: "3848017",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3848017",
+      externalLink:
+        "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3848017/chapter-31-apple-crumble-improvised",
+    },
+  ],
   publishedAt: "2026-08-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

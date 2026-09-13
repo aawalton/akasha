@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0150Chapter147LunaSaysNoTo
   position: 150,
   ownLength: 3968,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3774490/chapter-147-luna-says-no-to-nest-mother",
-  externalId: "3774490",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3774490",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3774490/chapter-147-luna-says-no-to-nest-mother",
+    },
+  ],
   publishedAt: "2026-08-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

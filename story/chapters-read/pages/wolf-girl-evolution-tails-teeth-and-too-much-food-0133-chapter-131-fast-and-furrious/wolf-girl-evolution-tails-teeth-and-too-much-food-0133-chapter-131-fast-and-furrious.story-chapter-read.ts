@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0133Chapter131FastAndFurri
   position: 133,
   ownLength: 3151,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3520937/chapter-131-fast-and-furrious",
-  externalId: "3520937",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3520937",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3520937/chapter-131-fast-and-furrious",
+    },
+  ],
   publishedAt: "2026-06-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0025Chapter25TheSpicePlan 
   position: 25,
   ownLength: 1513,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2595754/chapter-25-the-spice-plan",
-  externalId: "2595754",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2595754",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2595754/chapter-25-the-spice-plan",
+    },
+  ],
   publishedAt: "2025-09-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

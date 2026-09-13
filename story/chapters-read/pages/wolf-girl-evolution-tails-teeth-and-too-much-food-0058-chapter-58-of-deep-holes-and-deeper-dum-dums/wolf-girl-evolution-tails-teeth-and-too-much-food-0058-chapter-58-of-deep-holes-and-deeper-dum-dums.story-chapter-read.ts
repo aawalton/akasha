@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0058Chapter58OfDeepHolesAn
   position: 58,
   ownLength: 1658,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2699513/chapter-58-of-deep-holes-and-deeper-dum-dums",
-  externalId: "2699513",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2699513",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2699513/chapter-58-of-deep-holes-and-deeper-dum-dums",
+    },
+  ],
   publishedAt: "2025-10-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0042Chapter42BiteThroughTh
   position: 42,
   ownLength: 1487,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2644124/chapter-42-bite-through-the-core",
-  externalId: "2644124",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2644124",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2644124/chapter-42-bite-through-the-core",
+    },
+  ],
   publishedAt: "2025-10-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

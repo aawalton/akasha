@@ -9,10 +9,14 @@ export const ultimateLevel1LitrpgBook11Stubs3100005LifeUpdateSomeChanges = {
   position: 5,
   ownLength: 544,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/76259/ultimate-level-1-litrpg-book-11-stubs-310/chapter/2896525/life-update-some-changes",
-  externalId: "2896525",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2896525",
+      externalLink:
+        "https://www.royalroad.com/fiction/76259/ultimate-level-1-litrpg-book-11-stubs-310/chapter/2896525/life-update-some-changes",
+    },
+  ],
   publishedAt: "2025-12-31",
   ownProgress: 544,
   completedAt: "2026-06-29T20:31:46.018Z",

@@ -8,12 +8,16 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0049Chapter48ASystemR
     position: 49,
     publishedAt: "2026-09-12",
     unit: "words",
-    externalId: "3950249",
-    source: "royal-road",
+    externalIdentity: [
+      {
+        source: "royal-road",
+        externalId: "3950249",
+        externalLink:
+          "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3950249/chapter-48-a-system-recognized-construct",
+      },
+    ],
     title: "Chapter 48: A System-Recognized Construct",
     story: "story-read/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
     ownLength: 2222,
-    externalLink:
-      "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3950249/chapter-48-a-system-recognized-construct",
     prose: "txt",
   } as const satisfies StoryChapterRead

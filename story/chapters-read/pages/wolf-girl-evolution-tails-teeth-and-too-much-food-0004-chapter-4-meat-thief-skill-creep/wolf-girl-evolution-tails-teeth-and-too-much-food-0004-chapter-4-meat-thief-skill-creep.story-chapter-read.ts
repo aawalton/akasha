@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0004Chapter4MeatThiefSkill
   position: 4,
   ownLength: 1497,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2535652/chapter-4-meat-thief-skill-creep",
-  externalId: "2535652",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2535652",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2535652/chapter-4-meat-thief-skill-creep",
+    },
+  ],
   publishedAt: "2025-08-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0072072Scorpion = {
   position: 72,
   ownLength: 2196,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3833124/072-scorpion",
-  externalId: "3833124",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3833124",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3833124/072-scorpion",
+    },
+  ],
   publishedAt: "2026-08-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

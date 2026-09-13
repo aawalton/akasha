@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0140Chapter138OfMissingBal
   position: 140,
   ownLength: 2658,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3641023/chapter-138-of-missing-balance-and-gravity-suggestions",
-  externalId: "3641023",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3641023",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3641023/chapter-138-of-missing-balance-and-gravity-suggestions",
+    },
+  ],
   publishedAt: "2026-07-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

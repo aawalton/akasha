@@ -8,11 +8,15 @@ export const underworldBreadMageYuriProgfanSliceOfLife0037Chapter37Promises = {
   position: 37,
   publishedAt: "2026-09-05",
   unit: "words",
-  externalId: "3915782",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3915782",
+      externalLink:
+        "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3915782/chapter-37-promises",
+    },
+  ],
   title: "Chapter 37: Promises",
   ownLength: 1563,
-  externalLink:
-    "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3915782/chapter-37-promises",
   prose: "txt",
 } as const satisfies StoryChapterRead

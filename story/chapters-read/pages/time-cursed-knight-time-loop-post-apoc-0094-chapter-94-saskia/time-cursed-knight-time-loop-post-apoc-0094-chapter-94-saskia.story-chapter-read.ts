@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0094Chapter94Saskia = {
   position: 94,
   ownLength: 3070,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3721273/chapter-94-saskia",
-  externalId: "3721273",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3721273",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3721273/chapter-94-saskia",
+    },
+  ],
   publishedAt: "2026-07-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

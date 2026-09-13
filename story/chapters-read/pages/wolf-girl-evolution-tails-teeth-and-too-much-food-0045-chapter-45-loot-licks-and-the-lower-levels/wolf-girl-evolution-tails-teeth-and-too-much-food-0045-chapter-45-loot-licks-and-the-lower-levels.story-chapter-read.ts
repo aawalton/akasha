@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0045Chapter45LootLicksAndT
   position: 45,
   ownLength: 1320,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2656378/chapter-45-loot-licks-and-the-lower-levels",
-  externalId: "2656378",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2656378",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2656378/chapter-45-loot-licks-and-the-lower-levels",
+    },
+  ],
   publishedAt: "2025-10-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

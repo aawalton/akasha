@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0086Chapter85OfBattlesWith
   position: 86,
   ownLength: 1971,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2936931/chapter-85-of-battles-with-lessons-and-grammar",
-  externalId: "2936931",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2936931",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2936931/chapter-85-of-battles-with-lessons-and-grammar",
+    },
+  ],
   publishedAt: "2026-01-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0016016TeddyBearNo8 = {
   position: 16,
   ownLength: 1832,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3365248/016-teddy-bear-no-8",
-  externalId: "3365248",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3365248",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3365248/016-teddy-bear-no-8",
+    },
+  ],
   publishedAt: "2026-05-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

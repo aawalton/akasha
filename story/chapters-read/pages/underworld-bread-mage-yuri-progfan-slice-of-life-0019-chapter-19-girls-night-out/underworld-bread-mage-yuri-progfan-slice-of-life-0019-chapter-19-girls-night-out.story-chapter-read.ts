@@ -9,10 +9,14 @@ export const underworldBreadMageYuriProgfanSliceOfLife0019Chapter19GirlsNightOut
   position: 19,
   ownLength: 1686,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3772883/chapter-19-girls-night-out",
-  externalId: "3772883",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3772883",
+      externalLink:
+        "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3772883/chapter-19-girls-night-out",
+    },
+  ],
   publishedAt: "2026-08-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

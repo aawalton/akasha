@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0054054AnyAdvantage = {
   position: 54,
   ownLength: 2561,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3647179/054-any-advantage",
-  externalId: "3647179",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3647179",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3647179/054-any-advantage",
+    },
+  ],
   publishedAt: "2026-07-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

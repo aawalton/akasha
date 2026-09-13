@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0025025PackLeader = {
   position: 25,
   ownLength: 2272,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3435013/025-pack-leader",
-  externalId: "3435013",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3435013",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3435013/025-pack-leader",
+    },
+  ],
   publishedAt: "2026-05-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

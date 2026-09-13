@@ -9,10 +9,14 @@ export const ultimateLevel1LitrpgBook11Stubs3100006LifeUpdateSinceSoManyHaveAske
   position: 6,
   ownLength: 366,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/76259/ultimate-level-1-litrpg-book-11-stubs-310/chapter/2924969/life-update-since-so-many-have-asked",
-  externalId: "2924969",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2924969",
+      externalLink:
+        "https://www.royalroad.com/fiction/76259/ultimate-level-1-litrpg-book-11-stubs-310/chapter/2924969/life-update-since-so-many-have-asked",
+    },
+  ],
   publishedAt: "2026-01-09",
   ownProgress: 257,
   prose: "txt",

@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0057Chapter57OfMissingPack
   position: 57,
   ownLength: 1700,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2697059/chapter-57-of-missing-pack-and-forbidden-snacks",
-  externalId: "2697059",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2697059",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2697059/chapter-57-of-missing-pack-and-forbidden-snacks",
+    },
+  ],
   publishedAt: "2025-10-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

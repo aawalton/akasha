@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0065065StolenFire = {
   position: 65,
   ownLength: 1690,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3762106/065-stolen-fire",
-  externalId: "3762106",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3762106",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3762106/065-stolen-fire",
+    },
+  ],
   publishedAt: "2026-08-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const underworldBreadMageYuriProgfanSliceOfLife0004Chapter4TheQuestForCor
   position: 4,
   ownLength: 2123,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-progfan-slice-of-life/chapter/3731860/chapter-4-the-quest-for-cornbread",
-  externalId: "3731860",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3731860",
+      externalLink:
+        "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-progfan-slice-of-life/chapter/3731860/chapter-4-the-quest-for-cornbread",
+    },
+  ],
   publishedAt: "2026-07-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

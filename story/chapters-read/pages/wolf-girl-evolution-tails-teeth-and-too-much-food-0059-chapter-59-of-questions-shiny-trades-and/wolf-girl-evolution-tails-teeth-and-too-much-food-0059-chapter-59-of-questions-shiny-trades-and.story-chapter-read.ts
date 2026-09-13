@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0059Chapter59OfQuestionsSh
   position: 59,
   ownLength: 1703,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2702133/chapter-59-of-questions-shiny-trades-and-secrets",
-  externalId: "2702133",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2702133",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2702133/chapter-59-of-questions-shiny-trades-and-secrets",
+    },
+  ],
   publishedAt: "2025-10-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

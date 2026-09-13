@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0043043HelloEve = {
   position: 43,
   ownLength: 2493,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3550631/043-hello-eve",
-  externalId: "3550631",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3550631",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3550631/043-hello-eve",
+    },
+  ],
   publishedAt: "2026-06-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

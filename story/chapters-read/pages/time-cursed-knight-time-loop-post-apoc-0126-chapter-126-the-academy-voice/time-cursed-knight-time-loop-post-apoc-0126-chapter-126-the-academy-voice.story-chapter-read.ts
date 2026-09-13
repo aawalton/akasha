@@ -8,11 +8,15 @@ export const timeCursedKnightTimeLoopPostApoc0126Chapter126TheAcademyVoice = {
   position: 126,
   publishedAt: "2026-09-08",
   unit: "words",
-  externalId: "3931028",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3931028",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3931028/chapter-126-the-academy-voice",
+    },
+  ],
   title: "Chapter 126: The Academy Voice",
   ownLength: 3304,
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3931028/chapter-126-the-academy-voice",
   prose: "txt",
 } as const satisfies StoryChapterRead

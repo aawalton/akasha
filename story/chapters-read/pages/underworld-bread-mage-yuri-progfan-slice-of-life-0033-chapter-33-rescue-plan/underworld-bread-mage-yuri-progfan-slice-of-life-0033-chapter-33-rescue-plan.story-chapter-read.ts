@@ -9,10 +9,14 @@ export const underworldBreadMageYuriProgfanSliceOfLife0033Chapter33RescuePlan = 
   position: 33,
   ownLength: 1560,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3871624/chapter-33-rescue-plan",
-  externalId: "3871624",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3871624",
+      externalLink:
+        "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3871624/chapter-33-rescue-plan",
+    },
+  ],
   publishedAt: "2026-08-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

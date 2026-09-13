@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0136Chapter134OfBrushesLak
   position: 136,
   ownLength: 2488,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3576360/chapter-134-of-brushes-lakes-and-extremely-comfortable",
-  externalId: "3576360",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3576360",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3576360/chapter-134-of-brushes-lakes-and-extremely-comfortable",
+    },
+  ],
   publishedAt: "2026-06-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const underworldBreadMageYuriProgfanSliceOfLife0015Chapter15HerFirstVanil
   position: 15,
   ownLength: 1725,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3755026/chapter-15-her-first-vanilla-experience",
-  externalId: "3755026",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3755026",
+      externalLink:
+        "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3755026/chapter-15-her-first-vanilla-experience",
+    },
+  ],
   publishedAt: "2026-08-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

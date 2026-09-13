@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0131Chapter129ThePackStrik
   position: 131,
   ownLength: 2560,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3488833/chapter-129-the-pack-strikes-back",
-  externalId: "3488833",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3488833",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3488833/chapter-129-the-pack-strikes-back",
+    },
+  ],
   publishedAt: "2026-06-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

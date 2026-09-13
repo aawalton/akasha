@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0013013NoMorePuppy = {
   position: 13,
   ownLength: 2938,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3351970/013-no-more-puppy",
-  externalId: "3351970",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3351970",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3351970/013-no-more-puppy",
+    },
+  ],
   publishedAt: "2026-05-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

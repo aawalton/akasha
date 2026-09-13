@@ -9,10 +9,14 @@ export const underworldBreadMageYuriProgfanSliceOfLife0012Chapter12BeautyInTheEy
   position: 12,
   ownLength: 1870,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3741512/chapter-12-beauty-in-the-eye-of-the-beeholder",
-  externalId: "3741512",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3741512",
+      externalLink:
+        "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3741512/chapter-12-beauty-in-the-eye-of-the-beeholder",
+    },
+  ],
   publishedAt: "2026-07-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

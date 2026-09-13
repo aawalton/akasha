@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0047047PastEveSChoices =
   position: 47,
   ownLength: 3022,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3582834/047-past-eves-choices",
-  externalId: "3582834",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3582834",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3582834/047-past-eves-choices",
+    },
+  ],
   publishedAt: "2026-06-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

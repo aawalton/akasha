@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0019019SensibleDiedFourH
   position: 19,
   ownLength: 1680,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3389342/019-sensible-died-four-hours-ago",
-  externalId: "3389342",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3389342",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3389342/019-sensible-died-four-hours-ago",
+    },
+  ],
   publishedAt: "2026-05-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

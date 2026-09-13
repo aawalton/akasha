@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0058058AdminPrivilegeToT
   position: 58,
   ownLength: 1519,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3687615/058-admin-privilege-to-the-body",
-  externalId: "3687615",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3687615",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3687615/058-admin-privilege-to-the-body",
+    },
+  ],
   publishedAt: "2026-07-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

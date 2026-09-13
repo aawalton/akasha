@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0064064DeathOfTheHiveQue
   position: 64,
   ownLength: 1941,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3749386/064-death-of-the-hive-queen",
-  externalId: "3749386",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3749386",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3749386/064-death-of-the-hive-queen",
+    },
+  ],
   publishedAt: "2026-07-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

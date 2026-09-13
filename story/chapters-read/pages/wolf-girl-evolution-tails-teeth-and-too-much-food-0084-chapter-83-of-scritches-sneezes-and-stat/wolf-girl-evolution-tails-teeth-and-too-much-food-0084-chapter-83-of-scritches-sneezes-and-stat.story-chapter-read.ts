@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0084Chapter83OfScritchesSn
   position: 84,
   ownLength: 2167,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2921610/chapter-83-of-scritches-sneezes-and-stat-splaining",
-  externalId: "2921610",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2921610",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2921610/chapter-83-of-scritches-sneezes-and-stat-splaining",
+    },
+  ],
   publishedAt: "2026-01-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

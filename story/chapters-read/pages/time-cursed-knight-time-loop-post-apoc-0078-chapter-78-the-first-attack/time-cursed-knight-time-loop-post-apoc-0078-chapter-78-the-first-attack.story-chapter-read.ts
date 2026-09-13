@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0078Chapter78TheFirstAttack = {
   position: 78,
   ownLength: 2323,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3623042/chapter-78-the-first-attack",
-  externalId: "3623042",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3623042",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3623042/chapter-78-the-first-attack",
+    },
+  ],
   publishedAt: "2026-07-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

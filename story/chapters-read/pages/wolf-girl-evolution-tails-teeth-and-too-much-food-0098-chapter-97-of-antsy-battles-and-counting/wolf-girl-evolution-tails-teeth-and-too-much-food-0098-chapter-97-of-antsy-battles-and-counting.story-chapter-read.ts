@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0098Chapter97OfAntsyBattle
   position: 98,
   ownLength: 2386,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3029816/chapter-97-of-antsy-battles-and-counting-bites",
-  externalId: "3029816",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3029816",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3029816/chapter-97-of-antsy-battles-and-counting-bites",
+    },
+  ],
   publishedAt: "2026-02-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

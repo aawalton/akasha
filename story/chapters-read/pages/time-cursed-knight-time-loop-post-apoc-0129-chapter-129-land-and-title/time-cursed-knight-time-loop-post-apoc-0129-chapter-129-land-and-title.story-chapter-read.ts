@@ -7,12 +7,16 @@ export const timeCursedKnightTimeLoopPostApoc0129Chapter129LandAndTitle = {
   position: 129,
   publishedAt: "2026-09-11",
   unit: "words",
-  externalId: "3945007",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3945007",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3945007/chapter-129-land-and-title",
+    },
+  ],
   title: "Chapter 129: Land and Title",
   story: "story-read/time-cursed-knight-time-loop-post-apoc",
   ownLength: 1981,
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3945007/chapter-129-land-and-title",
   prose: "txt",
 } as const satisfies StoryChapterRead

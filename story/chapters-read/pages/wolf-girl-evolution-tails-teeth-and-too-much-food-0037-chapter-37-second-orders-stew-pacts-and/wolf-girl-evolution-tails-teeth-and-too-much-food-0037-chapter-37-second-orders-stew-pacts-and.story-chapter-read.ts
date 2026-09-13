@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0037Chapter37SecondOrdersS
   position: 37,
   ownLength: 1702,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2626167/chapter-37-second-orders-stew-pacts-and-sudden",
-  externalId: "2626167",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2626167",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2626167/chapter-37-second-orders-stew-pacts-and-sudden",
+    },
+  ],
   publishedAt: "2025-09-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

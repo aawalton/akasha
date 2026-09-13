@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0089Chapter89UpperGallery = {
   position: 89,
   ownLength: 2392,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3690708/chapter-89-upper-gallery",
-  externalId: "3690708",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3690708",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3690708/chapter-89-upper-gallery",
+    },
+  ],
   publishedAt: "2026-07-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

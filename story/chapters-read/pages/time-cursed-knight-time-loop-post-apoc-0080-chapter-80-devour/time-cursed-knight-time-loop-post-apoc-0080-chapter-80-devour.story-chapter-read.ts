@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0080Chapter80Devour = {
   position: 80,
   ownLength: 2538,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3640881/chapter-80-devour",
-  externalId: "3640881",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3640881",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3640881/chapter-80-devour",
+    },
+  ],
   publishedAt: "2026-07-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

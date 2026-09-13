@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0095Chapter94OfPotionRegre
   position: 95,
   ownLength: 2051,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3006114/chapter-94-of-potion-regrets-and-expedition-time",
-  externalId: "3006114",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3006114",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3006114/chapter-94-of-potion-regrets-and-expedition-time",
+    },
+  ],
   publishedAt: "2026-02-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

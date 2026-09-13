@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0052Chapter52RuinsRunsAndF
   position: 52,
   ownLength: 1603,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2679176/chapter-52-ruins-runs-and-forbidden-bites",
-  externalId: "2679176",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2679176",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2679176/chapter-52-ruins-runs-and-forbidden-bites",
+    },
+  ],
   publishedAt: "2025-10-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

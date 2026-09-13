@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0071071EarthToSinSlayer 
   position: 71,
   ownLength: 1914,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3824136/071-earth-to-sin-slayer",
-  externalId: "3824136",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3824136",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3824136/071-earth-to-sin-slayer",
+    },
+  ],
   publishedAt: "2026-08-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

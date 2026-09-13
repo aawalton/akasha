@@ -9,10 +9,14 @@ export const underworldBreadMageYuriProgfanSliceOfLife0034Chapter34Infiltration 
   position: 34,
   ownLength: 1361,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3881516/chapter-34-infiltration",
-  externalId: "3881516",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3881516",
+      externalLink:
+        "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3881516/chapter-34-infiltration",
+    },
+  ],
   publishedAt: "2026-08-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

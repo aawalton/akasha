@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0048Chapter48SpiceSmashAnd
   position: 48,
   ownLength: 1723,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2664134/chapter-48-spice-smash-and-second-questions",
-  externalId: "2664134",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2664134",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2664134/chapter-48-spice-smash-and-second-questions",
+    },
+  ],
   publishedAt: "2025-10-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

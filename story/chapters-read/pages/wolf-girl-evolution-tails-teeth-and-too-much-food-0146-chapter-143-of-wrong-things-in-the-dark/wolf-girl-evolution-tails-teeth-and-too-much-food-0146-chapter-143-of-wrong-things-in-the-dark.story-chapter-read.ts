@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0146Chapter143OfWrongThing
   position: 146,
   ownLength: 2395,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3712154/chapter-143-of-wrong-things-in-the-dark",
-  externalId: "3712154",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3712154",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3712154/chapter-143-of-wrong-things-in-the-dark",
+    },
+  ],
   publishedAt: "2026-07-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

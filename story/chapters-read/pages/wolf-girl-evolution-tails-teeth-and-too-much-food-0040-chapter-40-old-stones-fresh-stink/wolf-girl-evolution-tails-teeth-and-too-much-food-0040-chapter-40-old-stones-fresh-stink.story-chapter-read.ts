@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0040Chapter40OldStonesFres
   position: 40,
   ownLength: 1314,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2638704/chapter-40-old-stones-fresh-stink",
-  externalId: "2638704",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2638704",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2638704/chapter-40-old-stones-fresh-stink",
+    },
+  ],
   publishedAt: "2025-09-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

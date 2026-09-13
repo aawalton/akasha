@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0142NotAChapterUpdatesPatr
   position: 142,
   ownLength: 428,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3650065/not-a-chapter-updates-patreon-announcement",
-  externalId: "3650065",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3650065",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3650065/not-a-chapter-updates-patreon-announcement",
+    },
+  ],
   publishedAt: "2026-07-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

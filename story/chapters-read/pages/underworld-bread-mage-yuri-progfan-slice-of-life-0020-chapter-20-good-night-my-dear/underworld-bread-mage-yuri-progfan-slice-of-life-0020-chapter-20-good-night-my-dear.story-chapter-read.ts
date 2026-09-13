@@ -9,10 +9,14 @@ export const underworldBreadMageYuriProgfanSliceOfLife0020Chapter20GoodNightMyDe
   position: 20,
   ownLength: 1518,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3777588/chapter-20-good-night-my-dear",
-  externalId: "3777588",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3777588",
+      externalLink:
+        "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3777588/chapter-20-good-night-my-dear",
+    },
+  ],
   publishedAt: "2026-08-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

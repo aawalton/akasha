@@ -9,10 +9,14 @@ export const timeCursedKnightTimeLoopPostApoc0077Chapter77SoftUnderneath = {
   position: 77,
   ownLength: 2432,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3618369/chapter-77-soft-underneath",
-  externalId: "3618369",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3618369",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3618369/chapter-77-soft-underneath",
+    },
+  ],
   publishedAt: "2026-07-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

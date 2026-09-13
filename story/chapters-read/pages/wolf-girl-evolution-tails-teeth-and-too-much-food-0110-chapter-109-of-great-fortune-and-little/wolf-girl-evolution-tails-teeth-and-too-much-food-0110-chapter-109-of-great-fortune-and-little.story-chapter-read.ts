@@ -9,10 +9,14 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0110Chapter109OfGreatFortu
   position: 110,
   ownLength: 2342,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3134322/chapter-109-of-great-fortune-and-little-troubles",
-  externalId: "3134322",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3134322",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3134322/chapter-109-of-great-fortune-and-little-troubles",
+    },
+  ],
   publishedAt: "2026-03-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

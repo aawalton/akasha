@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0044044Mach4 = {
   position: 44,
   ownLength: 1886,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3559761/044-mach-4",
-  externalId: "3559761",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3559761",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3559761/044-mach-4",
+    },
+  ],
   publishedAt: "2026-06-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

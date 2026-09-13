@@ -9,10 +9,14 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0028028AlsoExplosives = 
   position: 28,
   ownLength: 2762,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3447356/028-also-explosives",
-  externalId: "3447356",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3447356",
+      externalLink:
+        "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3447356/028-also-explosives",
+    },
+  ],
   publishedAt: "2026-05-26",
   prose: "txt",
 } as const satisfies StoryChapterRead
