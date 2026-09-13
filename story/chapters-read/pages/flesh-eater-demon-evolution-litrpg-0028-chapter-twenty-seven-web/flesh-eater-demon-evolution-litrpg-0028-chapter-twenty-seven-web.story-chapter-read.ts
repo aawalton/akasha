@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0028ChapterTwentySevenWeb = {
   ownLength: 2507,
   unit: "words",
   publishedAt: "2025-10-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2657122/chapter-twenty-seven-web",
-  externalId: "2657122",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2657122",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2657122/chapter-twenty-seven-web",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

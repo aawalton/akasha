@@ -10,9 +10,13 @@ export const forgeOfDestiny0147Threads121Reverb2 = {
   ownLength: 2160,
   unit: "words",
   publishedAt: "2021-08-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/737735/threads-121-reverb-2",
-  externalId: "737735",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "737735",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/737735/threads-121-reverb-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0103ChapterOneHundredTheSolution = {
   ownLength: 2283,
   unit: "words",
   publishedAt: "2026-06-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3610269/chapter-one-hundred-the-solution",
-  externalId: "3610269",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3610269",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3610269/chapter-one-hundred-the-solution",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

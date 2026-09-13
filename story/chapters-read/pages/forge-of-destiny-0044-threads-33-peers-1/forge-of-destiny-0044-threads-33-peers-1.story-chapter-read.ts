@@ -10,9 +10,13 @@ export const forgeOfDestiny0044Threads33Peers1 = {
   ownLength: 2765,
   unit: "words",
   publishedAt: "2021-01-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/611350/threads-33-peers-1",
-  externalId: "611350",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "611350",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/611350/threads-33-peers-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

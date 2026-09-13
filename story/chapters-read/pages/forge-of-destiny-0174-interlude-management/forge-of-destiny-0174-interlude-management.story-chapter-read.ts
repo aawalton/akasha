@@ -10,9 +10,13 @@ export const forgeOfDestiny0174InterludeManagement = {
   ownLength: 1778,
   unit: "words",
   publishedAt: "2021-10-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/771812/interlude-management",
-  externalId: "771812",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "771812",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/771812/interlude-management",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

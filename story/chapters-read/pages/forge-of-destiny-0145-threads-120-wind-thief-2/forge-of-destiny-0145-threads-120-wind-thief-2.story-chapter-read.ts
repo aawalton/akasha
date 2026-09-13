@@ -10,9 +10,13 @@ export const forgeOfDestiny0145Threads120WindThief2 = {
   ownLength: 2294,
   unit: "words",
   publishedAt: "2021-08-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/735004/threads-120-wind-thief-2",
-  externalId: "735004",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "735004",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/735004/threads-120-wind-thief-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

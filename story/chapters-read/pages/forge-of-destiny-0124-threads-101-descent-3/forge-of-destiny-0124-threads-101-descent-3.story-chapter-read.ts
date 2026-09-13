@@ -10,9 +10,13 @@ export const forgeOfDestiny0124Threads101Descent3 = {
   ownLength: 2162,
   unit: "words",
   publishedAt: "2021-06-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/707463/threads-101-descent-3",
-  externalId: "707463",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "707463",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/707463/threads-101-descent-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

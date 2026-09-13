@@ -10,9 +10,13 @@ export const forgeOfDestiny0010BonusTheGreatDiviner = {
   ownLength: 1020,
   unit: "words",
   publishedAt: "2020-10-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/575941/bonus-the-great-diviner",
-  externalId: "575941",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "575941",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/575941/bonus-the-great-diviner",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

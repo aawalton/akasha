@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0123ChapterOneHundredTwentyClash = {
   ownLength: 2549,
   unit: "words",
   publishedAt: "2026-08-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3886486/chapter-one-hundred-twenty-clash",
-  externalId: "3886486",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3886486",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3886486/chapter-one-hundred-twenty-clash",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -8,11 +8,15 @@ export const fiveElementOverlordICanUpgradeEverything0136Ch136SearchingForBookle
   position: 136,
   publishedAt: "2026-09-07",
   unit: "words",
-  externalId: "3927418",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3927418",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3927418/ch136-searching-for-booklets",
+    },
+  ],
   title: "Ch136 Searching For Booklets",
   ownLength: 1141,
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3927418/ch136-searching-for-booklets",
   prose: "txt",
 } as const satisfies StoryChapterRead

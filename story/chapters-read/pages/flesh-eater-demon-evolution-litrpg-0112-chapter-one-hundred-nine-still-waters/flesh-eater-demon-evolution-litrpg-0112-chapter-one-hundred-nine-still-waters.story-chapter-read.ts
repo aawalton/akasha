@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0112ChapterOneHundredNineStillWaters 
   ownLength: 2743,
   unit: "words",
   publishedAt: "2026-07-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3722864/chapter-one-hundred-nine-still-waters",
-  externalId: "3722864",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3722864",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3722864/chapter-one-hundred-nine-still-waters",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

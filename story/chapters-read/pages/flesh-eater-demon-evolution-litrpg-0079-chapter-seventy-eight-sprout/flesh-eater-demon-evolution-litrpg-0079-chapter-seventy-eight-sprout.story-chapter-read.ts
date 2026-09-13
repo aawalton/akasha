@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0079ChapterSeventyEightSprout = {
   ownLength: 2731,
   unit: "words",
   publishedAt: "2026-05-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3356516/chapter-seventy-eight-sprout",
-  externalId: "3356516",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3356516",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3356516/chapter-seventy-eight-sprout",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const forgeOfDestiny0419Threads379Roil2 = {
   ownLength: 1950,
   unit: "words",
   publishedAt: "2024-05-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1635296/threads-379-roil-2",
-  externalId: "1635296",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1635296",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1635296/threads-379-roil-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

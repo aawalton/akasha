@@ -10,9 +10,13 @@ export const forgeOfDestiny0135Threads111Intermission1 = {
   ownLength: 2878,
   unit: "words",
   publishedAt: "2021-07-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/722349/threads-111-intermission-1",
-  externalId: "722349",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "722349",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/722349/threads-111-intermission-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

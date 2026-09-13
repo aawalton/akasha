@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0107ChapterOneHundredFourSuspicion = 
   ownLength: 2344,
   unit: "words",
   publishedAt: "2026-07-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3674369/chapter-one-hundred-four-suspicion",
-  externalId: "3674369",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3674369",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3674369/chapter-one-hundred-four-suspicion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

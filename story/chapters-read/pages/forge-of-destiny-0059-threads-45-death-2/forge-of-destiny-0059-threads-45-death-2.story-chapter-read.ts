@@ -10,9 +10,13 @@ export const forgeOfDestiny0059Threads45Death2 = {
   ownLength: 3457,
   unit: "words",
   publishedAt: "2021-02-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/625769/threads-45-death-2",
-  externalId: "625769",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "625769",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/625769/threads-45-death-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

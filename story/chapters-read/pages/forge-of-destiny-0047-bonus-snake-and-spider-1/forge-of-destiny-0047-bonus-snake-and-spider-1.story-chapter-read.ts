@@ -10,9 +10,13 @@ export const forgeOfDestiny0047BonusSnakeAndSpider1 = {
   ownLength: 2171,
   unit: "words",
   publishedAt: "2021-01-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/614218/bonus-snake-and-spider-1",
-  externalId: "614218",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "614218",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/614218/bonus-snake-and-spider-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

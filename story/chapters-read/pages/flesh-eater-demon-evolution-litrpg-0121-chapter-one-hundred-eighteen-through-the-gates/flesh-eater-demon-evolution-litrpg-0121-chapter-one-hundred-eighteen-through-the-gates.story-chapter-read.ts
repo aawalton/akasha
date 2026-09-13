@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0121ChapterOneHundredEighteenThroughT
   ownLength: 2587,
   unit: "words",
   publishedAt: "2026-08-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3852888/chapter-one-hundred-eighteen-through-the-gates",
-  externalId: "3852888",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3852888",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3852888/chapter-one-hundred-eighteen-through-the-gates",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

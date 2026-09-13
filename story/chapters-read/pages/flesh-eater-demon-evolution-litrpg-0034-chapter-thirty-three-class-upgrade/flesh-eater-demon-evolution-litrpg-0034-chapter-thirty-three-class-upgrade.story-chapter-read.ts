@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0034ChapterThirtyThreeClassUpgrade = 
   ownLength: 2882,
   unit: "words",
   publishedAt: "2025-10-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2702423/chapter-thirty-three-class-upgrade",
-  externalId: "2702423",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2702423",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2702423/chapter-thirty-three-class-upgrade",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

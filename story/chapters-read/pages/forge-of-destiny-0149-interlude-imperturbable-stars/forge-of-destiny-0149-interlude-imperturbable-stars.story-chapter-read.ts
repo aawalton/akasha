@@ -10,9 +10,13 @@ export const forgeOfDestiny0149InterludeImperturbableStars = {
   ownLength: 2274,
   unit: "words",
   publishedAt: "2021-08-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/740407/interlude-imperturbable-stars",
-  externalId: "740407",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "740407",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/740407/interlude-imperturbable-stars",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

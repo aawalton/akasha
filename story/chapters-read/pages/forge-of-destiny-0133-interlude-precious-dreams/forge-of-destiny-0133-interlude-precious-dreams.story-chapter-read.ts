@@ -10,9 +10,13 @@ export const forgeOfDestiny0133InterludePreciousDreams = {
   ownLength: 2716,
   unit: "words",
   publishedAt: "2021-07-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/719333/interlude-precious-dreams",
-  externalId: "719333",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "719333",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/719333/interlude-precious-dreams",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

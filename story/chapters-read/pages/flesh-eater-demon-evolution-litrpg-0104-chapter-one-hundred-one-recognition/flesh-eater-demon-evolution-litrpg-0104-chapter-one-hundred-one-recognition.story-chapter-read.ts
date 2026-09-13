@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0104ChapterOneHundredOneRecognition =
   ownLength: 2136,
   unit: "words",
   publishedAt: "2026-07-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3619118/chapter-one-hundred-one-recognition",
-  externalId: "3619118",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3619118",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3619118/chapter-one-hundred-one-recognition",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

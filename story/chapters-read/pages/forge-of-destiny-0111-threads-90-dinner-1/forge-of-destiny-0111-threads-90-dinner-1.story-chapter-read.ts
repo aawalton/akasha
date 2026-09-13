@@ -10,9 +10,13 @@ export const forgeOfDestiny0111Threads90Dinner1 = {
   ownLength: 2109,
   unit: "words",
   publishedAt: "2021-05-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/689397/threads-90-dinner-1",
-  externalId: "689397",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "689397",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/689397/threads-90-dinner-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

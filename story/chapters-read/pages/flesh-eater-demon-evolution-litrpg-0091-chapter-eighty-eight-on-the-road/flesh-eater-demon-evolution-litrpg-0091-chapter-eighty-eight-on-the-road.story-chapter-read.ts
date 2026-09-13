@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0091ChapterEightyEightOnTheRoad = {
   ownLength: 2706,
   unit: "words",
   publishedAt: "2026-06-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3481370/chapter-eighty-eight-on-the-road",
-  externalId: "3481370",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3481370",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3481370/chapter-eighty-eight-on-the-road",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

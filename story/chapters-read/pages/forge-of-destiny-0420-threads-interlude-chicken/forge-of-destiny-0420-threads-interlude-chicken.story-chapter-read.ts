@@ -10,9 +10,13 @@ export const forgeOfDestiny0420ThreadsInterludeChicken = {
   ownLength: 1236,
   unit: "words",
   publishedAt: "2024-05-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1639228/threads-interlude-chicken",
-  externalId: "1639228",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1639228",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1639228/threads-interlude-chicken",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const forgeOfDestiny0037Threads28Siblings2 = {
   ownLength: 2290,
   unit: "words",
   publishedAt: "2020-12-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/605550/threads-28-siblings-2",
-  externalId: "605550",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "605550",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/605550/threads-28-siblings-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

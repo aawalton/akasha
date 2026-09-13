@@ -10,9 +10,13 @@ export const forgeOfDestiny0191Threads161AlwaysWinter2 = {
   ownLength: 1902,
   unit: "words",
   publishedAt: "2021-12-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/800365/threads-161-always-winter-2",
-  externalId: "800365",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "800365",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/800365/threads-161-always-winter-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

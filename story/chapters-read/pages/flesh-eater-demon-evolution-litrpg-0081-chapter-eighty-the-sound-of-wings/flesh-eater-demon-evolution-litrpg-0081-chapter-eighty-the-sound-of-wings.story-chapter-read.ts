@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0081ChapterEightyTheSoundOfWings = {
   ownLength: 2279,
   unit: "words",
   publishedAt: "2026-05-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3373387/chapter-eighty-the-sound-of-wings",
-  externalId: "3373387",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3373387",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3373387/chapter-eighty-the-sound-of-wings",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0072ChapterSeventyOneTheSecondCircle 
   ownLength: 3101,
   unit: "words",
   publishedAt: "2026-03-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3150446/chapter-seventy-one-the-second-circle",
-  externalId: "3150446",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3150446",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3150446/chapter-seventy-one-the-second-circle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const forgeOfDestiny0426ThreadsInterludeUnity = {
   ownLength: 2473,
   unit: "words",
   publishedAt: "2024-06-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1675853/threads-interlude-unity",
-  externalId: "1675853",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1675853",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1675853/threads-interlude-unity",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

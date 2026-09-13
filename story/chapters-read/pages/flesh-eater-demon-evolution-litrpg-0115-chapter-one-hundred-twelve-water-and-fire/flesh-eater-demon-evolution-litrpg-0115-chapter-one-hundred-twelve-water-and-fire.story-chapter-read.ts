@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0115ChapterOneHundredTwelveWaterAndFi
   ownLength: 2292,
   unit: "words",
   publishedAt: "2026-08-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3753364/chapter-one-hundred-twelve-water-and-fire",
-  externalId: "3753364",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3753364",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3753364/chapter-one-hundred-twelve-water-and-fire",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

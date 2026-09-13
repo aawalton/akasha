@@ -10,9 +10,13 @@ export const forgeOfDestiny0148InterludeWelcomeToTheJungle = {
   ownLength: 3352,
   unit: "words",
   publishedAt: "2021-08-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/738801/interlude-welcome-to-the-jungle",
-  externalId: "738801",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "738801",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/738801/interlude-welcome-to-the-jungle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

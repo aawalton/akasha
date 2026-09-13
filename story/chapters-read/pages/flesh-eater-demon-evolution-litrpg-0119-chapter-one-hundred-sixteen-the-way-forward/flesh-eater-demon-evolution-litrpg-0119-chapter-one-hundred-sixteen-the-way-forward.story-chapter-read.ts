@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0119ChapterOneHundredSixteenTheWayFor
   ownLength: 3006,
   unit: "words",
   publishedAt: "2026-08-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3807139/chapter-one-hundred-sixteen-the-way-forward",
-  externalId: "3807139",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3807139",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3807139/chapter-one-hundred-sixteen-the-way-forward",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

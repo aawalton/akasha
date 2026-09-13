@@ -10,9 +10,13 @@ export const forgeOfDestiny0434Threads391NewPeace2 = {
   ownLength: 1674,
   unit: "words",
   publishedAt: "2024-07-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1723010/threads-391-new-peace-2",
-  externalId: "1723010",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1723010",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1723010/threads-391-new-peace-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

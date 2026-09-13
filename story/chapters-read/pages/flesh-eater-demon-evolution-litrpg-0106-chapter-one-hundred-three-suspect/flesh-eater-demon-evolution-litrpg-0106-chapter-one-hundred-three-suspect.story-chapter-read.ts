@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0106ChapterOneHundredThreeSuspect = {
   ownLength: 2488,
   unit: "words",
   publishedAt: "2026-07-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3642491/chapter-one-hundred-three-suspect",
-  externalId: "3642491",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3642491",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3642491/chapter-one-hundred-three-suspect",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

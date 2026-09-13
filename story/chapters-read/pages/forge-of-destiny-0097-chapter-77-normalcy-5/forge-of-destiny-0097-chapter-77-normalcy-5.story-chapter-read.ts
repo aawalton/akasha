@@ -10,9 +10,13 @@ export const forgeOfDestiny0097Chapter77Normalcy5 = {
   ownLength: 3069,
   unit: "words",
   publishedAt: "2021-04-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/670343/chapter-77-normalcy-5",
-  externalId: "670343",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "670343",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/670343/chapter-77-normalcy-5",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

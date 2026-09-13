@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0120ChapterOneHundredSeventeenSummoni
   ownLength: 2600,
   unit: "words",
   publishedAt: "2026-08-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3828781/chapter-one-hundred-seventeen-summonings",
-  externalId: "3828781",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3828781",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3828781/chapter-one-hundred-seventeen-summonings",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

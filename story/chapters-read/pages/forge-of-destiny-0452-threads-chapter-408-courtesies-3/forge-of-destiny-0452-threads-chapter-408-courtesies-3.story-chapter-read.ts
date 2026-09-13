@@ -10,9 +10,13 @@ export const forgeOfDestiny0452ThreadsChapter408Courtesies3 = {
   ownLength: 2157,
   unit: "words",
   publishedAt: "2024-10-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1861825/threads-chapter-408-courtesies-3",
-  externalId: "1861825",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1861825",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1861825/threads-chapter-408-courtesies-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

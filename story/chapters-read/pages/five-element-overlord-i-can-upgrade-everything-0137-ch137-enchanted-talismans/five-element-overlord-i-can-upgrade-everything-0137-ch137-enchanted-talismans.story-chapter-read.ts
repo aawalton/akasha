@@ -8,11 +8,15 @@ export const fiveElementOverlordICanUpgradeEverything0137Ch137EnchantedTalismans
   position: 137,
   publishedAt: "2026-09-08",
   unit: "words",
-  externalId: "3932073",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3932073",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3932073/ch137-enchanted-talismans",
+    },
+  ],
   title: "Ch137 Enchanted Talismans",
   ownLength: 1738,
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3932073/ch137-enchanted-talismans",
   prose: "txt",
 } as const satisfies StoryChapterRead

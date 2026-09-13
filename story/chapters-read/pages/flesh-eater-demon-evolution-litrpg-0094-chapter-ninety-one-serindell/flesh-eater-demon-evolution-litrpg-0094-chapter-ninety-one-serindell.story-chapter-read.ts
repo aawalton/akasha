@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0094ChapterNinetyOneSerindell = {
   ownLength: 2932,
   unit: "words",
   publishedAt: "2026-06-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3511468/chapter-ninety-one-serindell",
-  externalId: "3511468",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3511468",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3511468/chapter-ninety-one-serindell",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

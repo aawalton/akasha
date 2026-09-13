@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0062ChapterSixtyOneTheSearchForTheHor
   ownLength: 3585,
   unit: "words",
   publishedAt: "2026-02-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3013902/chapter-sixty-one-the-search-for-the-horn",
-  externalId: "3013902",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3013902",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3013902/chapter-sixty-one-the-search-for-the-horn",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0066ChapterSixtyFiveRevelations = {
   ownLength: 3307,
   unit: "words",
   publishedAt: "2026-02-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3062122/chapter-sixty-five-revelations",
-  externalId: "3062122",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3062122",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3062122/chapter-sixty-five-revelations",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

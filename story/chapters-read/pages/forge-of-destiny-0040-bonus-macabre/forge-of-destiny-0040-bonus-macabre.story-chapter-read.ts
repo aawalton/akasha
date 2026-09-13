@@ -10,9 +10,13 @@ export const forgeOfDestiny0040BonusMacabre = {
   ownLength: 1161,
   unit: "words",
   publishedAt: "2020-12-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/607369/bonus-macabre",
-  externalId: "607369",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "607369",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/607369/bonus-macabre",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

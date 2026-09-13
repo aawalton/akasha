@@ -10,9 +10,13 @@ export const forgeOfDestiny0069BonusCharacterSheet = {
   ownLength: 3754,
   unit: "words",
   publishedAt: "2021-02-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/637027/bonus-character-sheet",
-  externalId: "637027",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "637027",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/637027/bonus-character-sheet",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

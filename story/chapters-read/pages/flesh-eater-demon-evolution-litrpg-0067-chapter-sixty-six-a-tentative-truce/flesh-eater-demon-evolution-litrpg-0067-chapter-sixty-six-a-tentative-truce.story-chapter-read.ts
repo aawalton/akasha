@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0067ChapterSixtySixATentativeTruce = 
   ownLength: 2408,
   unit: "words",
   publishedAt: "2026-02-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3070251/chapter-sixty-six-a-tentative-truce",
-  externalId: "3070251",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3070251",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3070251/chapter-sixty-six-a-tentative-truce",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

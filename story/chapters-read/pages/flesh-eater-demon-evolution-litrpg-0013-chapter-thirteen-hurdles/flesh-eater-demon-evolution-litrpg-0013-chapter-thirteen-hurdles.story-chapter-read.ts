@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0013ChapterThirteenHurdles = {
   ownLength: 2826,
   unit: "words",
   publishedAt: "2025-08-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2563646/chapter-thirteen-hurdles",
-  externalId: "2563646",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2563646",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2563646/chapter-thirteen-hurdles",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

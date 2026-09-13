@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0068ChapterSixtySevenPastAndPresent =
   ownLength: 3101,
   unit: "words",
   publishedAt: "2026-02-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3077034/chapter-sixty-seven-past-and-present",
-  externalId: "3077034",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3077034",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3077034/chapter-sixty-seven-past-and-present",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

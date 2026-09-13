@@ -10,9 +10,13 @@ export const forgeOfDestiny0424InterludeInvocation = {
   ownLength: 1665,
   unit: "words",
   publishedAt: "2024-05-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1657520/interlude-invocation",
-  externalId: "1657520",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1657520",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1657520/interlude-invocation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

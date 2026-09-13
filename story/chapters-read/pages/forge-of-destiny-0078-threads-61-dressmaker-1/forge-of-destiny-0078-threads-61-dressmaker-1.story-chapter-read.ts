@@ -10,9 +10,13 @@ export const forgeOfDestiny0078Threads61Dressmaker1 = {
   ownLength: 3369,
   unit: "words",
   publishedAt: "2021-03-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/647420/threads-61-dressmaker-1",
-  externalId: "647420",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "647420",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/647420/threads-61-dressmaker-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

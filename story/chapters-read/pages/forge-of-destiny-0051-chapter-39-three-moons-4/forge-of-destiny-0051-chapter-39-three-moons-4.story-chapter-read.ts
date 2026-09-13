@@ -10,9 +10,13 @@ export const forgeOfDestiny0051Chapter39ThreeMoons4 = {
   ownLength: 2622,
   unit: "words",
   publishedAt: "2021-01-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/618416/chapter-39-three-moons-4",
-  externalId: "618416",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "618416",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/618416/chapter-39-three-moons-4",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const forgeOfDestiny0087Threads68Foreshock5 = {
   ownLength: 1509,
   unit: "words",
   publishedAt: "2021-04-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/656527/threads-68-foreshock-5",
-  externalId: "656527",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "656527",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/656527/threads-68-foreshock-5",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const forgeOfDestiny0067Threads52Downtime3 = {
   ownLength: 2848,
   unit: "words",
   publishedAt: "2021-02-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/634920/threads-52-downtime-3",
-  externalId: "634920",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "634920",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/634920/threads-52-downtime-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

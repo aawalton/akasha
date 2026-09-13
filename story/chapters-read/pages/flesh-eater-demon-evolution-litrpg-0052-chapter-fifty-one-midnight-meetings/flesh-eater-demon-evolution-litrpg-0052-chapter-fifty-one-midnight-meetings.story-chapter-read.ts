@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0052ChapterFiftyOneMidnightMeetings =
   ownLength: 3112,
   unit: "words",
   publishedAt: "2025-12-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2896912/chapter-fifty-one-midnight-meetings",
-  externalId: "2896912",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2896912",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2896912/chapter-fifty-one-midnight-meetings",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

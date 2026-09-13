@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0110ChapterOneHundredSevenTheDinner =
   ownLength: 2203,
   unit: "words",
   publishedAt: "2026-07-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3705055/chapter-one-hundred-seven-the-dinner",
-  externalId: "3705055",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3705055",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3705055/chapter-one-hundred-seven-the-dinner",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

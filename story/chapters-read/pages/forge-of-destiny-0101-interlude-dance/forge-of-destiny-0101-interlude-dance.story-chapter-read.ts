@@ -10,9 +10,13 @@ export const forgeOfDestiny0101InterludeDance = {
   ownLength: 1188,
   unit: "words",
   publishedAt: "2021-05-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/675884/interlude-dance",
-  externalId: "675884",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "675884",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/675884/interlude-dance",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

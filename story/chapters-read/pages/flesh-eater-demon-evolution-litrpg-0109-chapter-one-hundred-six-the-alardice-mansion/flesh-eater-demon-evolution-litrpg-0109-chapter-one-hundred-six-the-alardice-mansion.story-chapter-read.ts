@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0109ChapterOneHundredSixTheAlardiceMa
   ownLength: 2029,
   unit: "words",
   publishedAt: "2026-07-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3692250/chapter-one-hundred-six-the-alardice-mansion",
-  externalId: "3692250",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3692250",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3692250/chapter-one-hundred-six-the-alardice-mansion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

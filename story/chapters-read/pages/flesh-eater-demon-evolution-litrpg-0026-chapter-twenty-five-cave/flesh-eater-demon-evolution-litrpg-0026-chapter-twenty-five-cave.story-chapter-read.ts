@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0026ChapterTwentyFiveCave = {
   ownLength: 2916,
   unit: "words",
   publishedAt: "2025-10-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2644343/chapter-twenty-five-cave",
-  externalId: "2644343",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2644343",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2644343/chapter-twenty-five-cave",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

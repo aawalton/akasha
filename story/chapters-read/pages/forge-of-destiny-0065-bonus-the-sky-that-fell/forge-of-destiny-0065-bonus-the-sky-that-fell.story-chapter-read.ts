@@ -10,9 +10,13 @@ export const forgeOfDestiny0065BonusTheSkyThatFell = {
   ownLength: 1124,
   unit: "words",
   publishedAt: "2021-02-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/633332/bonus-the-sky-that-fell",
-  externalId: "633332",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "633332",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/633332/bonus-the-sky-that-fell",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

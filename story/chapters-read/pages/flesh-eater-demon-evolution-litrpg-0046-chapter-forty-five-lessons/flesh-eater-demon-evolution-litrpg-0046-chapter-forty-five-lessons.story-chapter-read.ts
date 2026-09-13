@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0046ChapterFortyFiveLessons = {
   ownLength: 3519,
   unit: "words",
   publishedAt: "2025-11-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2790204/chapter-forty-five-lessons",
-  externalId: "2790204",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2790204",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2790204/chapter-forty-five-lessons",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const forgeOfDestiny0218Threads186Return5 = {
   ownLength: 2607,
   unit: "words",
   publishedAt: "2022-02-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/845784/threads-186-return-5",
-  externalId: "845784",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "845784",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/845784/threads-186-return-5",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

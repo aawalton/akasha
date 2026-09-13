@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0008ChapterEightTheWorldOutside = {
   ownLength: 2831,
   unit: "words",
   publishedAt: "2025-08-20",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2534419/chapter-eight-the-world-outside",
-  externalId: "2534419",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2534419",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2534419/chapter-eight-the-world-outside",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

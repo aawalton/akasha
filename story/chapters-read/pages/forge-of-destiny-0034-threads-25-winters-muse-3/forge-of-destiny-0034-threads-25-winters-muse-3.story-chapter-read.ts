@@ -10,9 +10,13 @@ export const forgeOfDestiny0034Threads25WintersMuse3 = {
   ownLength: 2304,
   unit: "words",
   publishedAt: "2020-12-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/602390/threads-25-winters-muse-3",
-  externalId: "602390",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "602390",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/602390/threads-25-winters-muse-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0069ChapterSixtyEightReturnToTheManor
   ownLength: 2635,
   unit: "words",
   publishedAt: "2026-02-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3093567/chapter-sixty-eight-return-to-the-manor",
-  externalId: "3093567",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3093567",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3093567/chapter-sixty-eight-return-to-the-manor",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

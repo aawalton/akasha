@@ -10,9 +10,13 @@ export const forgeOfDestiny0039InterludeTheCobblerAndTheViper = {
   ownLength: 1716,
   unit: "words",
   publishedAt: "2020-12-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/607367/interlude-the-cobbler-and-the-viper",
-  externalId: "607367",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "607367",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/607367/interlude-the-cobbler-and-the-viper",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

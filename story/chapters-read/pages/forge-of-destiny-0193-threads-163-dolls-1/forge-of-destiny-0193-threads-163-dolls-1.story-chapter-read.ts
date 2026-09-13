@@ -10,9 +10,13 @@ export const forgeOfDestiny0193Threads163Dolls1 = {
   ownLength: 2480,
   unit: "words",
   publishedAt: "2021-12-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/808737/threads-163-dolls-1",
-  externalId: "808737",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "808737",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/808737/threads-163-dolls-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

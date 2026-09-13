@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0089InterludeTheEmperor = {
   ownLength: 2090,
   unit: "words",
   publishedAt: "2026-05-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3465204/interlude-the-emperor",
-  externalId: "3465204",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3465204",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3465204/interlude-the-emperor",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

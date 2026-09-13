@@ -10,9 +10,13 @@ export const forgeOfDestiny0192Threads162AlwaysWinter3 = {
   ownLength: 1907,
   unit: "words",
   publishedAt: "2021-12-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/801912/threads-162-always-winter-3",
-  externalId: "801912",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "801912",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/801912/threads-162-always-winter-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

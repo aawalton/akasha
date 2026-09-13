@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0030ChapterTwentyNineStorm = {
   ownLength: 2845,
   unit: "words",
   publishedAt: "2025-10-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2667419/chapter-twenty-nine-storm",
-  externalId: "2667419",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2667419",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2667419/chapter-twenty-nine-storm",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

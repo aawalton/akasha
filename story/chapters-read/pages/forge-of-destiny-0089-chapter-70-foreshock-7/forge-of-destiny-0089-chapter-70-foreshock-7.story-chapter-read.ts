@@ -10,9 +10,13 @@ export const forgeOfDestiny0089Chapter70Foreshock7 = {
   ownLength: 3003,
   unit: "words",
   publishedAt: "2021-04-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/658911/chapter-70-foreshock-7",
-  externalId: "658911",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "658911",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/658911/chapter-70-foreshock-7",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

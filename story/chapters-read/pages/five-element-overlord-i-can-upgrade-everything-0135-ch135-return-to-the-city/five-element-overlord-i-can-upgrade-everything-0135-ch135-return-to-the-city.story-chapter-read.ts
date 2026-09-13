@@ -8,11 +8,15 @@ export const fiveElementOverlordICanUpgradeEverything0135Ch135ReturnToTheCity = 
   position: 135,
   publishedAt: "2026-09-04",
   unit: "words",
-  externalId: "3913452",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3913452",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3913452/ch135-return-to-the-city",
+    },
+  ],
   title: "Ch135 Return To The City",
   ownLength: 1509,
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3913452/ch135-return-to-the-city",
   prose: "txt",
 } as const satisfies StoryChapterRead

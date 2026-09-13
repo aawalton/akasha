@@ -7,12 +7,16 @@ export const fiveElementOverlordICanUpgradeEverything0139Ch139AFieryDisagreement
   position: 139,
   publishedAt: "2026-09-10",
   unit: "words",
-  externalId: "3941445",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3941445",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3941445/ch139-a-fiery-disagreement",
+    },
+  ],
   title: "Ch139 A Fiery Disagreement",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   ownLength: 1613,
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3941445/ch139-a-fiery-disagreement",
   prose: "txt",
 } as const satisfies StoryChapterRead

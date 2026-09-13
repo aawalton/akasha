@@ -10,9 +10,13 @@ export const forgeOfDestiny0015ThreadsChapter7TheBloodyDream1 = {
   ownLength: 2298,
   unit: "words",
   publishedAt: "2020-11-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/581016/threads-chapter-7-the-bloody-dream-1",
-  externalId: "581016",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "581016",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/581016/threads-chapter-7-the-bloody-dream-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

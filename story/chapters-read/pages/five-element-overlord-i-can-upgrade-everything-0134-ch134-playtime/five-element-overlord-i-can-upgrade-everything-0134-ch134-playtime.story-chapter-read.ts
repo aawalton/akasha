@@ -8,11 +8,15 @@ export const fiveElementOverlordICanUpgradeEverything0134Ch134Playtime = {
   position: 134,
   publishedAt: "2026-09-03",
   unit: "words",
-  externalId: "3906751",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3906751",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3906751/ch134-playtime",
+    },
+  ],
   title: "Ch134 Playtime",
   ownLength: 1952,
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3906751/ch134-playtime",
   prose: "txt",
 } as const satisfies StoryChapterRead

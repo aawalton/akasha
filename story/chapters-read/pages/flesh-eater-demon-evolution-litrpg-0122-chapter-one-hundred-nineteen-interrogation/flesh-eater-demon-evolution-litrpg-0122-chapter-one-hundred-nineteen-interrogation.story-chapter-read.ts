@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0122ChapterOneHundredNineteenInterrog
   ownLength: 2474,
   unit: "words",
   publishedAt: "2026-08-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3866288/chapter-one-hundred-nineteen-interrogation",
-  externalId: "3866288",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3866288",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3866288/chapter-one-hundred-nineteen-interrogation",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

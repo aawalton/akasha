@@ -7,12 +7,16 @@ export const fiveElementOverlordICanUpgradeEverything0140Ch140AClashOfSouls = {
   position: 140,
   publishedAt: "2026-09-11",
   unit: "words",
-  externalId: "3946330",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3946330",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3946330/ch140-a-clash-of-souls",
+    },
+  ],
   title: "Ch140 A Clash of Souls",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   ownLength: 1176,
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3946330/ch140-a-clash-of-souls",
   prose: "txt",
 } as const satisfies StoryChapterRead

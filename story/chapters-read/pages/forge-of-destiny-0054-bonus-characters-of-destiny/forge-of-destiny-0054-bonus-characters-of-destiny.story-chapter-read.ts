@@ -10,9 +10,13 @@ export const forgeOfDestiny0054BonusCharactersOfDestiny = {
   ownLength: 1363,
   unit: "words",
   publishedAt: "2021-01-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/621226/bonus-characters-of-destiny",
-  externalId: "621226",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "621226",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/621226/bonus-characters-of-destiny",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

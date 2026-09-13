@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0047ChapterFortySixDaysAtTheGarrison 
   ownLength: 2876,
   unit: "words",
   publishedAt: "2025-11-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2802668/chapter-forty-six-days-at-the-garrison",
-  externalId: "2802668",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2802668",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2802668/chapter-forty-six-days-at-the-garrison",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

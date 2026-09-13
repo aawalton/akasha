@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0093ChapterNinetyAngel = {
   ownLength: 2193,
   unit: "words",
   publishedAt: "2026-06-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3499773/chapter-ninety-angel",
-  externalId: "3499773",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3499773",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3499773/chapter-ninety-angel",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

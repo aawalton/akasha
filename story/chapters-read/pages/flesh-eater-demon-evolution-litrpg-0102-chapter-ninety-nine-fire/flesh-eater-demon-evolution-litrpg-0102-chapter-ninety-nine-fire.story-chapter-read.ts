@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0102ChapterNinetyNineFire = {
   ownLength: 2266,
   unit: "words",
   publishedAt: "2026-06-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3595447/chapter-ninety-nine-fire",
-  externalId: "3595447",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3595447",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3595447/chapter-ninety-nine-fire",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

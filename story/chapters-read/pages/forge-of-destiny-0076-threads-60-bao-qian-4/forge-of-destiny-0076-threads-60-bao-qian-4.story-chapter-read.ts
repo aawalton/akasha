@@ -10,9 +10,13 @@ export const forgeOfDestiny0076Threads60BaoQian4 = {
   ownLength: 2391,
   unit: "words",
   publishedAt: "2021-03-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/645206/threads-60-bao-qian-4",
-  externalId: "645206",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "645206",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/645206/threads-60-bao-qian-4",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

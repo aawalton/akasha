@@ -10,9 +10,13 @@ export const forgeOfDestiny0121Threads98Contemplation3 = {
   ownLength: 2496,
   unit: "words",
   publishedAt: "2021-06-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/703435/threads-98-contemplation-3",
-  externalId: "703435",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "703435",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/703435/threads-98-contemplation-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

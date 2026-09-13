@@ -10,9 +10,13 @@ export const forgeOfDestiny0139InterludeCompanionQuest = {
   ownLength: 1029,
   unit: "words",
   publishedAt: "2021-08-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/727416/interlude-companion-quest",
-  externalId: "727416",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "727416",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/727416/interlude-companion-quest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

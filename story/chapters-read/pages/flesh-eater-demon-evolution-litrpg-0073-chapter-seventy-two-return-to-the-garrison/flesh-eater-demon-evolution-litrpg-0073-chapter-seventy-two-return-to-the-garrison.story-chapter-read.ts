@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0073ChapterSeventyTwoReturnToTheGarri
   ownLength: 2313,
   unit: "words",
   publishedAt: "2026-03-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3160860/chapter-seventy-two-return-to-the-garrison",
-  externalId: "3160860",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3160860",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3160860/chapter-seventy-two-return-to-the-garrison",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const forgeOfDestiny0030Threads21Duels1 = {
   ownLength: 3680,
   unit: "words",
   publishedAt: "2020-12-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/598140/threads-21-duels-1",
-  externalId: "598140",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "598140",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/598140/threads-21-duels-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

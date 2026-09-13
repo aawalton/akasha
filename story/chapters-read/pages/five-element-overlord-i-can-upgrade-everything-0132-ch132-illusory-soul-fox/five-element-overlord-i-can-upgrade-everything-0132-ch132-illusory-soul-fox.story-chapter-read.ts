@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0132Ch132IllusorySoulFox = 
   ownLength: 1312,
   unit: "words",
   publishedAt: "2026-09-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3897864/ch132-illusory-soul-fox",
-  externalId: "3897864",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3897864",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3897864/ch132-illusory-soul-fox",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

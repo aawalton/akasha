@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0101ChapterNinetyEightGlowingWaters =
   ownLength: 2394,
   unit: "words",
   publishedAt: "2026-06-24",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3586419/chapter-ninety-eight-glowing-waters",
-  externalId: "3586419",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3586419",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3586419/chapter-ninety-eight-glowing-waters",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

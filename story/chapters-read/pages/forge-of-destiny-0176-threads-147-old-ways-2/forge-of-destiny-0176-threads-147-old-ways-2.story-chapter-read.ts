@@ -10,9 +10,13 @@ export const forgeOfDestiny0176Threads147OldWays2 = {
   ownLength: 1569,
   unit: "words",
   publishedAt: "2021-10-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/774519/threads-147-old-ways-2",
-  externalId: "774519",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "774519",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/774519/threads-147-old-ways-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

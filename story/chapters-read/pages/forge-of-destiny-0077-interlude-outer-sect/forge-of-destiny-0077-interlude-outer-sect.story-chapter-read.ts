@@ -10,9 +10,13 @@ export const forgeOfDestiny0077InterludeOuterSect = {
   ownLength: 1307,
   unit: "words",
   publishedAt: "2021-03-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/646473/interlude-outer-sect",
-  externalId: "646473",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "646473",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/646473/interlude-outer-sect",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const forgeOfDestiny0448ThreadsChapter404Standing2 = {
   ownLength: 2360,
   unit: "words",
   publishedAt: "2024-10-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1828992/threads-chapter-404-standing-2",
-  externalId: "1828992",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1828992",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1828992/threads-chapter-404-standing-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

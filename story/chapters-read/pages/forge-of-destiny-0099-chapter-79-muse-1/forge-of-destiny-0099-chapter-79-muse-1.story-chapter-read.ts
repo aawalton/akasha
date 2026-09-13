@@ -10,9 +10,13 @@ export const forgeOfDestiny0099Chapter79Muse1 = {
   ownLength: 1642,
   unit: "words",
   publishedAt: "2021-04-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/673445/chapter-79-muse-1",
-  externalId: "673445",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "673445",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/673445/chapter-79-muse-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

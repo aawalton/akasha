@@ -10,9 +10,13 @@ export const forgeOfDestiny0005ForgeOfDestinyBookReleases = {
   ownLength: 107,
   unit: "words",
   publishedAt: "2018-11-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/304210/forge-of-destiny-book-releases",
-  externalId: "304210",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "304210",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/304210/forge-of-destiny-book-releases",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

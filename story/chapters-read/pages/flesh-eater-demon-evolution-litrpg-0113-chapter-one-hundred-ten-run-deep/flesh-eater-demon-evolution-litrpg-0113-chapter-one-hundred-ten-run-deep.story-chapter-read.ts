@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0113ChapterOneHundredTenRunDeep = {
   ownLength: 2883,
   unit: "words",
   publishedAt: "2026-07-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3735837/chapter-one-hundred-ten-run-deep",
-  externalId: "3735837",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3735837",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3735837/chapter-one-hundred-ten-run-deep",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

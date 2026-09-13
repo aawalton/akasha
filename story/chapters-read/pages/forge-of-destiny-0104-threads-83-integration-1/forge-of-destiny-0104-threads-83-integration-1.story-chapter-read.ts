@@ -10,9 +10,13 @@ export const forgeOfDestiny0104Threads83Integration1 = {
   ownLength: 2816,
   unit: "words",
   publishedAt: "2021-05-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/680088/threads-83-integration-1",
-  externalId: "680088",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "680088",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/680088/threads-83-integration-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const forgeOfDestiny0431ThreadsChapter388MakingGood1 = {
   ownLength: 2650,
   unit: "words",
   publishedAt: "2024-07-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1700988/threads-chapter-388-making-good-1",
-  externalId: "1700988",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1700988",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1700988/threads-chapter-388-making-good-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

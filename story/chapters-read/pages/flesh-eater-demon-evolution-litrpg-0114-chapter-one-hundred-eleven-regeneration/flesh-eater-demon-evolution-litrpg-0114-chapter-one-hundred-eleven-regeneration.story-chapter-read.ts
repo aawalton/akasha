@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0114ChapterOneHundredElevenRegenerati
   ownLength: 2402,
   unit: "words",
   publishedAt: "2026-07-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3744891/chapter-one-hundred-eleven-regeneration",
-  externalId: "3744891",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3744891",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3744891/chapter-one-hundred-eleven-regeneration",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

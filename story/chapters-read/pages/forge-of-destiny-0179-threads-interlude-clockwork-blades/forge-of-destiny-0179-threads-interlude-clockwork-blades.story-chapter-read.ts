@@ -10,9 +10,13 @@ export const forgeOfDestiny0179ThreadsInterludeClockworkBlades = {
   ownLength: 1484,
   unit: "words",
   publishedAt: "2021-11-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/779475/threads-interlude-clockwork-blades",
-  externalId: "779475",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "779475",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/779475/threads-interlude-clockwork-blades",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

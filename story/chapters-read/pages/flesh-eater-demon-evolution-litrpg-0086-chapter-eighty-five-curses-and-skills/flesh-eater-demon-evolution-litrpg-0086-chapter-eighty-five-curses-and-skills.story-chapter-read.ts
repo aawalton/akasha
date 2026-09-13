@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0086ChapterEightyFiveCursesAndSkills 
   ownLength: 2282,
   unit: "words",
   publishedAt: "2026-05-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3434647/chapter-eighty-five-curses-and-skills",
-  externalId: "3434647",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3434647",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3434647/chapter-eighty-five-curses-and-skills",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

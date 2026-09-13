@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0009ChapterNineHumans = {
   ownLength: 3568,
   unit: "words",
   publishedAt: "2025-08-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2539717/chapter-nine-humans",
-  externalId: "2539717",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2539717",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2539717/chapter-nine-humans",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

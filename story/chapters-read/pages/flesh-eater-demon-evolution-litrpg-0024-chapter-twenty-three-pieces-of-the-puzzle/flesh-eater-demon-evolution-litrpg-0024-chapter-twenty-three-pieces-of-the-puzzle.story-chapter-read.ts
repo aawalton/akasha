@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0024ChapterTwentyThreePiecesOfThePuzz
   ownLength: 2849,
   unit: "words",
   publishedAt: "2025-09-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2631837/chapter-twenty-three-pieces-of-the-puzzle",
-  externalId: "2631837",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2631837",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2631837/chapter-twenty-three-pieces-of-the-puzzle",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

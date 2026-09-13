@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0057ChapterFiftySixUnderTheMoonlight 
   ownLength: 2685,
   unit: "words",
   publishedAt: "2026-01-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2944602/chapter-fifty-six-under-the-moonlight",
-  externalId: "2944602",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2944602",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2944602/chapter-fifty-six-under-the-moonlight",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const forgeOfDestiny0112Threads91Dinner2 = {
   ownLength: 1799,
   unit: "words",
   publishedAt: "2021-05-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/690388/threads-91-dinner-2",
-  externalId: "690388",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "690388",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/690388/threads-91-dinner-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

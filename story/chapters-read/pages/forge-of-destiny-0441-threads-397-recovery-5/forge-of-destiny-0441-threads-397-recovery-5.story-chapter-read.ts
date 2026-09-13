@@ -10,9 +10,13 @@ export const forgeOfDestiny0441Threads397Recovery5 = {
   ownLength: 1420,
   unit: "words",
   publishedAt: "2024-08-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1775559/threads-397-recovery-5",
-  externalId: "1775559",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1775559",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1775559/threads-397-recovery-5",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

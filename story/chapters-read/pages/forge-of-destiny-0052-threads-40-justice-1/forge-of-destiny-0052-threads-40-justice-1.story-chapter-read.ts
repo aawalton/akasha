@@ -10,9 +10,13 @@ export const forgeOfDestiny0052Threads40Justice1 = {
   ownLength: 2063,
   unit: "words",
   publishedAt: "2021-01-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/619266/threads-40-justice-1",
-  externalId: "619266",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "619266",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/619266/threads-40-justice-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

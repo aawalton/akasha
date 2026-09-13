@@ -10,9 +10,13 @@ export const forgeOfDestiny0023BonusXiangmenTheHeavenlyPillar = {
   ownLength: 963,
   unit: "words",
   publishedAt: "2020-11-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/590775/bonus-xiangmen-the-heavenly-pillar",
-  externalId: "590775",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "590775",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/590775/bonus-xiangmen-the-heavenly-pillar",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

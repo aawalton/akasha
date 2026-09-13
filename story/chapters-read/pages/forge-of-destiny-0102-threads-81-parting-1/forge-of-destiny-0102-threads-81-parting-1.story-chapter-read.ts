@@ -10,9 +10,13 @@ export const forgeOfDestiny0102Threads81Parting1 = {
   ownLength: 1660,
   unit: "words",
   publishedAt: "2021-05-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/677894/threads-81-parting-1",
-  externalId: "677894",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "677894",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/677894/threads-81-parting-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

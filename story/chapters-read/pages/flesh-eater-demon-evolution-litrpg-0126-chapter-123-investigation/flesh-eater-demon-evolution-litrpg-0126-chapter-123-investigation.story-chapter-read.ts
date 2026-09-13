@@ -7,12 +7,16 @@ export const fleshEaterDemonEvolutionLitrpg0126Chapter123Investigation = {
   position: 126,
   publishedAt: "2026-09-13",
   unit: "words",
-  externalId: "3951826",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3951826",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3951826/chapter-123-investigation",
+    },
+  ],
   title: "Chapter 123: Investigation",
   story: "story-read/flesh-eater-demon-evolution-litrpg",
   ownLength: 2871,
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3951826/chapter-123-investigation",
   prose: "txt",
 } as const satisfies StoryChapterRead

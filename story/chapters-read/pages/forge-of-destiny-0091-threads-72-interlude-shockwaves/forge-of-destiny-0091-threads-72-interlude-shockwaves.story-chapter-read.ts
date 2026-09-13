@@ -10,9 +10,13 @@ export const forgeOfDestiny0091Threads72InterludeShockwaves = {
   ownLength: 3970,
   unit: "words",
   publishedAt: "2021-04-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/662238/threads-72-interlude-shockwaves",
-  externalId: "662238",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "662238",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/662238/threads-72-interlude-shockwaves",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

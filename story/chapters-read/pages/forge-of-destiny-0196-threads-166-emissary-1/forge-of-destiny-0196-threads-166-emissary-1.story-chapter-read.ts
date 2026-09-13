@@ -10,9 +10,13 @@ export const forgeOfDestiny0196Threads166Emissary1 = {
   ownLength: 2294,
   unit: "words",
   publishedAt: "2021-12-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/813220/threads-166-emissary-1",
-  externalId: "813220",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "813220",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/813220/threads-166-emissary-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

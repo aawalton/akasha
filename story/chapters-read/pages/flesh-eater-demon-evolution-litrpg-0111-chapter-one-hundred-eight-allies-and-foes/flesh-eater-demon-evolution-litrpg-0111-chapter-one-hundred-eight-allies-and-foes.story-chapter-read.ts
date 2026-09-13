@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0111ChapterOneHundredEightAlliesAndFo
   ownLength: 2405,
   unit: "words",
   publishedAt: "2026-07-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3713316/chapter-one-hundred-eight-allies-and-foes",
-  externalId: "3713316",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3713316",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3713316/chapter-one-hundred-eight-allies-and-foes",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

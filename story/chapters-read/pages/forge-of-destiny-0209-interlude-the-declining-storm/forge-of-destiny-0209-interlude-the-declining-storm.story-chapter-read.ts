@@ -10,9 +10,13 @@ export const forgeOfDestiny0209InterludeTheDecliningStorm = {
   ownLength: 2595,
   unit: "words",
   publishedAt: "2022-01-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/831333/interlude-the-declining-storm",
-  externalId: "831333",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "831333",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/831333/interlude-the-declining-storm",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

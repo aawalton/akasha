@@ -10,9 +10,13 @@ export const forgeOfDestiny0106Threads85Household1 = {
   ownLength: 2051,
   unit: "words",
   publishedAt: "2021-05-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/682864/threads-85-household-1",
-  externalId: "682864",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "682864",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/682864/threads-85-household-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

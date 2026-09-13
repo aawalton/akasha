@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0075ChapterSeventyFourInvasion = {
   ownLength: 2128,
   unit: "words",
   publishedAt: "2026-03-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3190796/chapter-seventy-four-invasion",
-  externalId: "3190796",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3190796",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3190796/chapter-seventy-four-invasion",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

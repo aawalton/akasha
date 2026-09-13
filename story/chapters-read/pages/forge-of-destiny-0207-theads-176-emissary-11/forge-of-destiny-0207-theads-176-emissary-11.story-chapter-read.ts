@@ -10,9 +10,13 @@ export const forgeOfDestiny0207Theads176Emissary11 = {
   ownLength: 2909,
   unit: "words",
   publishedAt: "2022-01-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/828788/theads-176-emissary-11",
-  externalId: "828788",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "828788",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/828788/theads-176-emissary-11",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

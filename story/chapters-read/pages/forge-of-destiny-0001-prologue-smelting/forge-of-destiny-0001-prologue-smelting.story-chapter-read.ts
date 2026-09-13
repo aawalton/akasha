@@ -10,9 +10,13 @@ export const forgeOfDestiny0001PrologueSmelting = {
   ownLength: 2325,
   unit: "words",
   publishedAt: "2018-10-26",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/301255/prologue-smelting",
-  externalId: "301255",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "301255",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/301255/prologue-smelting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

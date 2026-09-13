@@ -10,9 +10,13 @@ export const forgeOfDestiny0411Threads371Friction1 = {
   ownLength: 2063,
   unit: "words",
   publishedAt: "2024-03-25",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1568397/threads-371-friction-1",
-  externalId: "1568397",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1568397",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1568397/threads-371-friction-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

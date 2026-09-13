@@ -10,9 +10,13 @@ export const forgeOfDestiny0169141Concert4 = {
   ownLength: 1713,
   unit: "words",
   publishedAt: "2021-10-11",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/765324/141-concert-4",
-  externalId: "765324",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "765324",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/765324/141-concert-4",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

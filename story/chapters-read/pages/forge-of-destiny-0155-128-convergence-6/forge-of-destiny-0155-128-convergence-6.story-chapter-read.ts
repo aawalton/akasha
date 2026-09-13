@@ -10,9 +10,13 @@ export const forgeOfDestiny0155128Convergence6 = {
   ownLength: 2500,
   unit: "words",
   publishedAt: "2021-09-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/747899/128-convergence-6",
-  externalId: "747899",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "747899",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/747899/128-convergence-6",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

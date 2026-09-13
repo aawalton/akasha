@@ -10,9 +10,13 @@ export const forgeOfDestiny0090Threads71EpilogueWar = {
   ownLength: 1038,
   unit: "words",
   publishedAt: "2021-04-08",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/660830/threads-71--epilogue-war",
-  externalId: "660830",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "660830",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/660830/threads-71--epilogue-war",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

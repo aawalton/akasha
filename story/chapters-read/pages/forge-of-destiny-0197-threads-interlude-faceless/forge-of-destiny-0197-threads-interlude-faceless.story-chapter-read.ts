@@ -10,9 +10,13 @@ export const forgeOfDestiny0197ThreadsInterludeFaceless = {
   ownLength: 1131,
   unit: "words",
   publishedAt: "2021-12-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/814175/threads-interlude-faceless",
-  externalId: "814175",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "814175",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/814175/threads-interlude-faceless",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

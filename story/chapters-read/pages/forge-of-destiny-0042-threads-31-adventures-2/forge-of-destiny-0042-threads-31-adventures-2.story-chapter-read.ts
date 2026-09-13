@@ -10,9 +10,13 @@ export const forgeOfDestiny0042Threads31Adventures2 = {
   ownLength: 2219,
   unit: "words",
   publishedAt: "2021-01-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/608832/threads-31-adventures-2",
-  externalId: "608832",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "608832",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/608832/threads-31-adventures-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

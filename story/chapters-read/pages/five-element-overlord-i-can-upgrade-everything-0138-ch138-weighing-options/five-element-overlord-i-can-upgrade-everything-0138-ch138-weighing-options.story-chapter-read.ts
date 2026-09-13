@@ -7,12 +7,16 @@ export const fiveElementOverlordICanUpgradeEverything0138Ch138WeighingOptions = 
   position: 138,
   publishedAt: "2026-09-09",
   unit: "words",
-  externalId: "3936872",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3936872",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3936872/ch138-weighing-options",
+    },
+  ],
   title: "Ch138 Weighing Options",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   ownLength: 1519,
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3936872/ch138-weighing-options",
   prose: "txt",
 } as const satisfies StoryChapterRead

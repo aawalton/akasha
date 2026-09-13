@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0011ChapterElevenTheAncients = {
   ownLength: 2497,
   unit: "words",
   publishedAt: "2025-08-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2553812/chapter-eleven-the-ancients",
-  externalId: "2553812",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2553812",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2553812/chapter-eleven-the-ancients",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

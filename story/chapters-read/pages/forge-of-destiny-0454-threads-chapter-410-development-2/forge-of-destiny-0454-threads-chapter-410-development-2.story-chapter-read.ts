@@ -10,9 +10,13 @@ export const forgeOfDestiny0454ThreadsChapter410Development2 = {
   ownLength: 2339,
   unit: "words",
   publishedAt: "2024-10-28",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1873027/threads-chapter-410-development-2",
-  externalId: "1873027",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1873027",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1873027/threads-chapter-410-development-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

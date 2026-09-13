@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0064ChapterSixtyThreeTruths = {
   ownLength: 2131,
   unit: "words",
   publishedAt: "2026-02-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3038941/chapter-sixty-three-truths",
-  externalId: "3038941",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3038941",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3038941/chapter-sixty-three-truths",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const forgeOfDestiny0185Threads155Past1 = {
   ownLength: 2256,
   unit: "words",
   publishedAt: "2021-11-19",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/789916/threads-155-past-1",
-  externalId: "789916",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "789916",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/789916/threads-155-past-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

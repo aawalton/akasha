@@ -10,9 +10,13 @@ export const forgeOfDestiny0436ThreadsSummitEpilogue = {
   ownLength: 1124,
   unit: "words",
   publishedAt: "2024-07-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1738186/threads-summit-epilogue",
-  externalId: "1738186",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1738186",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1738186/threads-summit-epilogue",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

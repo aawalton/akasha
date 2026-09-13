@@ -10,9 +10,13 @@ export const forgeOfDestiny0004Smelting4 = {
   ownLength: 1666,
   unit: "words",
   publishedAt: "2018-11-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/302839/smelting-4",
-  externalId: "302839",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "302839",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/302839/smelting-4",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

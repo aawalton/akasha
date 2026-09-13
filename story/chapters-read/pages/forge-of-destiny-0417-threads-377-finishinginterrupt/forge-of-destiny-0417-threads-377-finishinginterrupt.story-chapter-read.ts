@@ -10,9 +10,13 @@ export const forgeOfDestiny0417Threads377Finishinginterrupt = {
   ownLength: 1995,
   unit: "words",
   publishedAt: "2024-04-29",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1616631/threads-377-finishinginterrupt",
-  externalId: "1616631",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1616631",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1616631/threads-377-finishinginterrupt",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

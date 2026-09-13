@@ -10,9 +10,13 @@ export const forgeOfDestiny0163Threads135AfterAction4 = {
   ownLength: 2422,
   unit: "words",
   publishedAt: "2021-09-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/757846/threads-135-after-action-4",
-  externalId: "757846",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "757846",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/757846/threads-135-after-action-4",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

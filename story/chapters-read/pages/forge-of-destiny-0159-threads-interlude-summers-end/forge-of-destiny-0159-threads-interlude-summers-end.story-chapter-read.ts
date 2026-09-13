@@ -10,9 +10,13 @@ export const forgeOfDestiny0159ThreadsInterludeSummersEnd = {
   ownLength: 2359,
   unit: "words",
   publishedAt: "2021-09-18",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/753064/threads-interlude-summers-end",
-  externalId: "753064",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "753064",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/753064/threads-interlude-summers-end",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const forgeOfDestiny0092ThreadsInterludeRiversAndRain = {
   ownLength: 989,
   unit: "words",
   publishedAt: "2021-04-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/663540/threads-interlude-rivers-and-rain",
-  externalId: "663540",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "663540",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/663540/threads-interlude-rivers-and-rain",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

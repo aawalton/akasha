@@ -10,9 +10,13 @@ export const forgeOfDestiny0007ThreadsOfDestinyPrologue = {
   ownLength: 1258,
   unit: "words",
   publishedAt: "2020-10-22",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/573030/threads-of-destiny-prologue",
-  externalId: "573030",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "573030",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/573030/threads-of-destiny-prologue",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const forgeOfDestiny0048Threads36ThreeMoons1 = {
   ownLength: 2665,
   unit: "words",
   publishedAt: "2021-01-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/614988/threads-36-three-moons-1",
-  externalId: "614988",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "614988",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/614988/threads-36-three-moons-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

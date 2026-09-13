@@ -10,9 +10,13 @@ export const forgeOfDestiny0063Threads49Perspectives = {
   ownLength: 2604,
   unit: "words",
   publishedAt: "2021-02-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/631163/threads-49-perspectives",
-  externalId: "631163",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "631163",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/631163/threads-49-perspectives",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

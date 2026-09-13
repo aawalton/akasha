@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0004ChapterFourVoice = {
   ownLength: 3664,
   unit: "words",
   publishedAt: "2025-08-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2525492/chapter-four-voice",
-  externalId: "2525492",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525492",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2525492/chapter-four-voice",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

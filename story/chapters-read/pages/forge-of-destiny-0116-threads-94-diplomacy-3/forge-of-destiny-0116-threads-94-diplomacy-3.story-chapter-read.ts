@@ -10,9 +10,13 @@ export const forgeOfDestiny0116Threads94Diplomacy3 = {
   ownLength: 2536,
   unit: "words",
   publishedAt: "2021-06-13",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/698449/threads-94-diplomacy-3",
-  externalId: "698449",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "698449",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/698449/threads-94-diplomacy-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

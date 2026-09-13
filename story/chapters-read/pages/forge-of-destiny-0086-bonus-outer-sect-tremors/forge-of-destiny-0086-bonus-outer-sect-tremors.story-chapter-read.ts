@@ -10,9 +10,13 @@ export const forgeOfDestiny0086BonusOuterSectTremors = {
   ownLength: 1601,
   unit: "words",
   publishedAt: "2021-03-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/655819/bonus-outer-sect-tremors",
-  externalId: "655819",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "655819",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/655819/bonus-outer-sect-tremors",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

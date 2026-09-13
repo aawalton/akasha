@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0006ChapterSixFirstEvolution = {
   ownLength: 3541,
   unit: "words",
   publishedAt: "2025-08-17",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2525504/chapter-six-first-evolution",
-  externalId: "2525504",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525504",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2525504/chapter-six-first-evolution",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

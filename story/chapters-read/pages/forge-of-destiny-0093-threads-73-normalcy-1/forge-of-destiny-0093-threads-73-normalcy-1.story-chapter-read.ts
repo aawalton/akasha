@@ -10,9 +10,13 @@ export const forgeOfDestiny0093Threads73Normalcy1 = {
   ownLength: 2966,
   unit: "words",
   publishedAt: "2021-04-15",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/665357/threads-73-normalcy-1",
-  externalId: "665357",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "665357",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/665357/threads-73-normalcy-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

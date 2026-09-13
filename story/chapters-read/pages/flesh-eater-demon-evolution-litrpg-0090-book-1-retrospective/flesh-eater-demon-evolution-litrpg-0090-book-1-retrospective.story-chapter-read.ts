@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0090Book1Retrospective = {
   ownLength: 1185,
   unit: "words",
   publishedAt: "2026-05-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3475520/book-1-retrospective",
-  externalId: "3475520",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3475520",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3475520/book-1-retrospective",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

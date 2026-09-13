@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0092ChapterEightyNineQuake = {
   ownLength: 2030,
   unit: "words",
   publishedAt: "2026-06-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3490416/chapter-eighty-nine-quake",
-  externalId: "3490416",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3490416",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3490416/chapter-eighty-nine-quake",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

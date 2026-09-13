@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0049ChapterFortyEightProposal = {
   ownLength: 3083,
   unit: "words",
   publishedAt: "2025-12-05",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2820242/chapter-forty-eight-proposal",
-  externalId: "2820242",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2820242",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2820242/chapter-forty-eight-proposal",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

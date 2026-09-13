@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0017ChapterSeventeenShapeshifting = {
   ownLength: 3191,
   unit: "words",
   publishedAt: "2025-09-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2590922/chapter-seventeen-shapeshifting",
-  externalId: "2590922",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2590922",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2590922/chapter-seventeen-shapeshifting",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

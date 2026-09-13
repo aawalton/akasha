@@ -10,9 +10,13 @@ export const forgeOfDestiny0413Threads373Finishing1 = {
   ownLength: 1821,
   unit: "words",
   publishedAt: "2024-04-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1576952/threads-373-finishing-1",
-  externalId: "1576952",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1576952",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1576952/threads-373-finishing-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

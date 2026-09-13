@@ -10,9 +10,13 @@ export const forgeOfDestiny0213Threads181Dawn4 = {
   ownLength: 1659,
   unit: "words",
   publishedAt: "2022-02-04",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/838105/threads-181-dawn-4",
-  externalId: "838105",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "838105",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/838105/threads-181-dawn-4",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

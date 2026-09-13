@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0071ChapterSeventySeeds = {
   ownLength: 2890,
   unit: "words",
   publishedAt: "2026-03-12",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3142605/chapter-seventy-seeds",
-  externalId: "3142605",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3142605",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3142605/chapter-seventy-seeds",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

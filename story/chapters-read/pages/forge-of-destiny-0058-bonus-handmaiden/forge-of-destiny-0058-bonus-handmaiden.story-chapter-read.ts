@@ -10,9 +10,13 @@ export const forgeOfDestiny0058BonusHandmaiden = {
   ownLength: 1106,
   unit: "words",
   publishedAt: "2021-02-03",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/625171/bonus-handmaiden",
-  externalId: "625171",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "625171",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/625171/bonus-handmaiden",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

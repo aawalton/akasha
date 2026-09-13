@@ -10,9 +10,13 @@ export const fiveElementOverlordICanUpgradeEverything0133Ch133TakingCredit = {
   ownLength: 2983,
   unit: "words",
   publishedAt: "2026-09-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3902456/ch133-taking-credit",
-  externalId: "3902456",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3902456",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3902456/ch133-taking-credit",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

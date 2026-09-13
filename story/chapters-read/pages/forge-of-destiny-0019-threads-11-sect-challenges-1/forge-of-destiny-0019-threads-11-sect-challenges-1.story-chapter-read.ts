@@ -10,9 +10,13 @@ export const forgeOfDestiny0019Threads11SectChallenges1 = {
   ownLength: 2644,
   unit: "words",
   publishedAt: "2020-11-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/586009/threads-11--sect-challenges-1",
-  externalId: "586009",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "586009",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/586009/threads-11--sect-challenges-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const forgeOfDestiny0152Threads125Convergence3 = {
   ownLength: 1539,
   unit: "words",
   publishedAt: "2021-09-02",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/744201/threads-125-convergence-3",
-  externalId: "744201",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "744201",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/744201/threads-125-convergence-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const forgeOfDestiny0006BonusTheMinistryOfIntegrity = {
   ownLength: 1520,
   unit: "words",
   publishedAt: "2020-09-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/562588/bonus-the-ministry-of-integrity",
-  externalId: "562588",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "562588",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/562588/bonus-the-ministry-of-integrity",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

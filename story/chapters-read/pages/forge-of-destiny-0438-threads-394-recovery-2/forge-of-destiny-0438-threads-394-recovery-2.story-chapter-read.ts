@@ -10,9 +10,13 @@ export const forgeOfDestiny0438Threads394Recovery2 = {
   ownLength: 1931,
   unit: "words",
   publishedAt: "2024-08-16",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1760357/threads-394-recovery-2",
-  externalId: "1760357",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1760357",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1760357/threads-394-recovery-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const forgeOfDestiny0071Threads55Nobility2 = {
   ownLength: 3752,
   unit: "words",
   publishedAt: "2021-02-27",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/638648/threads-55-nobility-2",
-  externalId: "638648",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "638648",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/638648/threads-55-nobility-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

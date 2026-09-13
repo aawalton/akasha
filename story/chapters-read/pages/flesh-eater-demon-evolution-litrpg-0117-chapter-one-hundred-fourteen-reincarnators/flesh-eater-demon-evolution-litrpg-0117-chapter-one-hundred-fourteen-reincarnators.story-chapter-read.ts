@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0117ChapterOneHundredFourteenReincarn
   ownLength: 2276,
   unit: "words",
   publishedAt: "2026-08-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3775680/chapter-one-hundred-fourteen-reincarnators",
-  externalId: "3775680",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3775680",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3775680/chapter-one-hundred-fourteen-reincarnators",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,9 +10,13 @@ export const forgeOfDestiny0173Threads145Tome2 = {
   ownLength: 2487,
   unit: "words",
   publishedAt: "2021-10-21",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/770609/threads-145-tome-2",
-  externalId: "770609",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "770609",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/770609/threads-145-tome-2",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

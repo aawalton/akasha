@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0037ChapterThirtySixTheSearch = {
   ownLength: 2765,
   unit: "words",
   publishedAt: "2025-10-31",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2721019/chapter-thirty-six-the-search",
-  externalId: "2721019",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2721019",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2721019/chapter-thirty-six-the-search",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

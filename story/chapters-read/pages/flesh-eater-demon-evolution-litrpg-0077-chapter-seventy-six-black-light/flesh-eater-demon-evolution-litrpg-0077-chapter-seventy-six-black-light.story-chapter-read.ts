@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0077ChapterSeventySixBlackLight = {
   ownLength: 2437,
   unit: "words",
   publishedAt: "2026-04-30",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3335249/chapter-seventy-six-black-light",
-  externalId: "3335249",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3335249",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3335249/chapter-seventy-six-black-light",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

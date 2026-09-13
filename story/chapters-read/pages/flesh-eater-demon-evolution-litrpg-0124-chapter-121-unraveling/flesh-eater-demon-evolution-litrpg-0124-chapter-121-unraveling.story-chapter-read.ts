@@ -8,11 +8,15 @@ export const fleshEaterDemonEvolutionLitrpg0124Chapter121Unraveling = {
   position: 124,
   publishedAt: "2026-09-06",
   unit: "words",
-  externalId: "3919080",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3919080",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3919080/chapter-121-unraveling",
+    },
+  ],
   title: "Chapter 121: Unraveling",
   ownLength: 2618,
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3919080/chapter-121-unraveling",
   prose: "txt",
 } as const satisfies StoryChapterRead

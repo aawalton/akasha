@@ -10,9 +10,13 @@ export const forgeOfDestiny0170Threads142Spear1 = {
   ownLength: 2590,
   unit: "words",
   publishedAt: "2021-10-14",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/766818/threads-142-spear-1",
-  externalId: "766818",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "766818",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/766818/threads-142-spear-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

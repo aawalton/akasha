@@ -10,9 +10,13 @@ export const forgeOfDestiny0180Threads150South3 = {
   ownLength: 1973,
   unit: "words",
   publishedAt: "2021-11-06",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/780922/threads-150-south-3",
-  externalId: "780922",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "780922",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/780922/threads-150-south-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

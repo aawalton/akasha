@@ -10,9 +10,13 @@ export const fleshEaterDemonEvolutionLitrpg0038ChapterThirtySevenMagrath = {
   ownLength: 3221,
   unit: "words",
   publishedAt: "2025-11-01",
-  externalLink:
-    "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2723759/chapter-thirty-seven-magrath",
-  externalId: "2723759",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2723759",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2723759/chapter-thirty-seven-magrath",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

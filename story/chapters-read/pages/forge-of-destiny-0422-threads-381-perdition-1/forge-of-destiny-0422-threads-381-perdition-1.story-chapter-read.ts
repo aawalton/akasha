@@ -10,9 +10,13 @@ export const forgeOfDestiny0422Threads381Perdition1 = {
   ownLength: 1488,
   unit: "words",
   publishedAt: "2024-05-23",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1648293/threads-381-perdition-1",
-  externalId: "1648293",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1648293",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1648293/threads-381-perdition-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

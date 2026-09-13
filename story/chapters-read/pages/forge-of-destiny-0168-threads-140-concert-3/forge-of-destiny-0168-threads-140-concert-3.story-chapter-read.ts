@@ -10,9 +10,13 @@ export const forgeOfDestiny0168Threads140Concert3 = {
   ownLength: 2341,
   unit: "words",
   publishedAt: "2021-10-09",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/764294/threads-140-concert-3",
-  externalId: "764294",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "764294",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/764294/threads-140-concert-3",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

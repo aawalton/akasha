@@ -10,9 +10,13 @@ export const forgeOfDestiny0115BonusHauntsOfThePrimalForest = {
   ownLength: 1134,
   unit: "words",
   publishedAt: "2021-06-10",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/697187/bonus-haunts-of-the-primal-forest",
-  externalId: "697187",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "697187",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/697187/bonus-haunts-of-the-primal-forest",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead

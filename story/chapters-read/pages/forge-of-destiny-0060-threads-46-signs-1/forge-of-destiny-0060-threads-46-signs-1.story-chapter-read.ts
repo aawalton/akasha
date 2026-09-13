@@ -10,9 +10,13 @@ export const forgeOfDestiny0060Threads46Signs1 = {
   ownLength: 3423,
   unit: "words",
   publishedAt: "2021-02-07",
-  externalLink:
-    "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/627084/threads-46-signs-1",
-  externalId: "627084",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "627084",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/627084/threads-46-signs-1",
+    },
+  ],
   prose: "txt",
 } as const satisfies StoryChapterRead
