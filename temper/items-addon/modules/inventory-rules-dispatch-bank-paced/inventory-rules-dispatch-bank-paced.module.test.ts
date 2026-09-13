@@ -205,4 +205,30 @@ describe("inventory-rules-dispatch-bank-paced", () => {
     expect(stats.rounds?.length).toBe(1)
     expect(stats.rounds?.[0]?.left).toBe(1)
   })
+
+  test("a move whose source slot took another item once it emptied is confirmed", () => {
+    const sim = makeBankSim()
+    sim.putStack(BANK_BAG, 167, 44879, 80, 200)
+    sim.putStack(BACKPACK_BAG, 1, 44879, 108, 200)
+    sim.fillsOnEmptying.set(167, { itemId: 45920, stack: 1, max: 200 })
+    const { stats } = runVisit(
+      sim,
+      [
+        {
+          kind: "move",
+          sourceBag: BANK_BAG,
+          sourceSlot: 167,
+          targetBag: BACKPACK_BAG,
+          targetSlot: 1,
+          count: 80,
+        },
+      ],
+      60000
+    )
+    expect(sim.stackAt(BACKPACK_BAG, 1)).toBe(188)
+    expect(sim.stackAt(BANK_BAG, 167)).toBe(1)
+    expect(stats.confirmed).toBe(1)
+    expect(stats.issued).toBe(1)
+    expect(stats.retries).toBe(0)
+  })
 })

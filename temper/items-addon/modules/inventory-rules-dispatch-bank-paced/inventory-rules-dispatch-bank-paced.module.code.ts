@@ -51,6 +51,13 @@ function itemIdIn(bag: number, slot: number): number {
   return GetItemLinkItemId(GetItemLink(bag, slot, LINK_STYLE_BRACKETS))
 }
 
+function stackLeftToMove(move: IssuedMove): number {
+  const [srcStack] = GetSlotStackSize(move.sourceBag, move.sourceSlot)
+  if (srcStack === 0) return 0
+  if (itemIdIn(move.sourceBag, move.sourceSlot) !== move.itemId) return 0
+  return srcStack
+}
+
 function retryCouldHelp(move: IssuedMove, srcStack: number): boolean {
   if (move.targetBag === BAG_VIRTUAL) return true
   const [targetStack, targetMax] = GetSlotStackSize(move.targetBag, move.targetSlot)
@@ -237,8 +244,7 @@ export function startPacedBankChain(
     if (inFlight.length === 0) return
     const still: IssuedMove[] = []
     for (const move of inFlight) {
-      const [srcStack] = GetSlotStackSize(move.sourceBag, move.sourceSlot)
-      if (srcStack <= move.expectedRemaining) {
+      if (stackLeftToMove(move) <= move.expectedRemaining) {
         stats.confirmed++
         confirmedSinceIssue++
         continue
@@ -256,7 +262,7 @@ export function startPacedBankChain(
     let retriedHere = 0
     let leftHere = 0
     for (const move of inFlight) {
-      const [srcStack] = GetSlotStackSize(move.sourceBag, move.sourceSlot)
+      const srcStack = stackLeftToMove(move)
       if (srcStack <= move.expectedRemaining) {
         stats.confirmed++
         confirmedSinceIssue++

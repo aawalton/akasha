@@ -47,12 +47,19 @@ export interface DepositPlan {
   readonly count?: number
 }
 
+export interface SlotFill {
+  readonly itemId: number
+  readonly stack: number
+  readonly max: number
+}
+
 export interface BankSim {
   readonly startedAtMs: number
   readonly issued: IssuedStackMove[]
   readonly said: string[]
   readonly dropsEveryRequest: Set<number>
   readonly answersLate: Set<number>
+  readonly fillsOnEmptying: Map<number, SlotFill>
   readonly putStack: (
     bag: number,
     slot: number,
@@ -159,6 +166,7 @@ export function makeBankSim(options: BankSimOptions = {}): BankSim {
   const said: string[] = []
   const dropsEveryRequest = new Set<number>()
   const answersLate = new Set<number>()
+  const fillsOnEmptying = new Map<number, SlotFill>()
   const startedAtMs = nextVisitStart(options.startAfterBoundaryMs ?? 0)
   clock = startedAtMs
 
@@ -236,8 +244,10 @@ export function makeBankSim(options: BankSimOptions = {}): BankSim {
       target.stack += want
       source.stack -= want
       if (source.stack === 0) {
-        source.itemId = 0
-        source.max = 0
+        const fill = fillsOnEmptying.get(sourceSlot)
+        source.itemId = fill?.itemId ?? 0
+        source.stack = fill?.stack ?? 0
+        source.max = fill?.max ?? 0
       }
     }
     fire(SLOT_UPDATE_EVENT)
@@ -286,6 +296,7 @@ export function makeBankSim(options: BankSimOptions = {}): BankSim {
     said,
     dropsEveryRequest,
     answersLate,
+    fillsOnEmptying,
     putStack,
     stackAt,
     requestMove,

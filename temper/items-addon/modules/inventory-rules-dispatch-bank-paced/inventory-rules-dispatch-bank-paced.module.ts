@@ -68,6 +68,16 @@ export const inventoryRulesDispatchBankPaced = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A move is confirmed by what its item has left the source slot, rather than by what that slot holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A source slot holding another item has let this move's item go, so the move landed.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A move given up on leaves the moves after it alone.",
     },
     {
