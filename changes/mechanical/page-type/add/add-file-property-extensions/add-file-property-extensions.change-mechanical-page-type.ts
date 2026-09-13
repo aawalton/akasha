@@ -9,6 +9,8 @@ export const addFilePropertyExtensions = {
   changeTargetSubtype: "change-target-subtype/page-type-page",
   definition: "every file property told the endings the files that property has are named with",
   code: "ts",
+  test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
