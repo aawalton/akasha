@@ -3,26 +3,26 @@ import { pacingIn } from "akasha/agents/models/gateway/modules/oauth-effects/oau
 import type { AccountState } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import { readOwnTranscriptTail } from "akasha/agents/modules/io-probe/io-probe.module.code.ts"
 import {
+  type AskDecide,
+  askLimitResume,
+  type LimitResumeVerdict,
+} from "akasha/agents/seats/supervisors/modules/supervisor-limit-resume-answer/supervisor-limit-resume-answer.module.code.ts"
+import {
   askSupervisorDecide,
   classifyRateLimitDeath,
 } from "akasha/agents/seats/supervisors/modules/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
+import {
+  ANNOUNCE,
+  hasRecentInboundMessage,
+  SYSTEM_SOURCE,
+  sendMessage,
+} from "akasha/agents/seats/supervisors/modules/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"
 import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
 } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import {
-  type AskDecide,
-  askLimitResume,
-  type LimitResumeVerdict,
-} from "akasha/seat-system/supervising/modules/supervisor-limit-resume-answer/supervisor-limit-resume-answer.module.code.ts"
-import {
-  ANNOUNCE,
-  hasRecentInboundMessage,
-  SYSTEM_SOURCE,
-  sendMessage,
-} from "akasha/seat-system/supervising/modules/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"
 import { tickSaying } from "akasha/seat-system/supervising/modules/supervisor-tick-saying/supervisor-tick-saying.module.code.ts"
 
 const LIMIT_RESUME_INTERVAL_MS = 30_000

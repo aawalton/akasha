@@ -2,6 +2,7 @@ import type {
   ClaimedCandidate,
   ClaimedTranscriptFinding,
 } from "akasha/agents/messaging/modules/supervisor-claimed-redelivery-decide/supervisor-claimed-redelivery-decide.module.code.ts"
+import type { LimitResumeInput } from "akasha/agents/seats/supervisors/modules/supervisor-limit-resume-decide/supervisor-limit-resume-decide.module.code.ts"
 import {
   arr,
   bool,
@@ -11,7 +12,6 @@ import {
   oneOf,
   str,
 } from "akasha/commands/modules/argument-narrowing/argument-narrowing.module.code.ts"
-import type { LimitResumeInput } from "akasha/seat-system/supervising/modules/supervisor-limit-resume-decide/supervisor-limit-resume-decide.module.code.ts"
 import type { RcDegradedSeat } from "akasha/seat-system/supervising/modules/supervisor-rc-degraded-decide/supervisor-rc-degraded-decide.module.code.ts"
 import type { RemoteControlSeatQuestion } from "akasha/seat-system/supervising/modules/supervisor-remote-control-decide/supervisor-remote-control-decide.module.code.ts"
 import type { RestartNowEvent } from "akasha/seat-system/supervising/modules/supervisor-restart-notice-decide/supervisor-restart-notice-decide.module.code.ts"

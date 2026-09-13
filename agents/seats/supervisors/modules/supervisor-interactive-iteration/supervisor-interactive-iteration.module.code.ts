@@ -22,16 +22,16 @@ import {
   buildIterationSpawnOpts,
   type SeatSpawnDecider,
 } from "akasha/agents/seats/supervisors/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"
+import {
+  ANNOUNCE,
+  sendMessage,
+  USER_SOURCE,
+} from "akasha/agents/seats/supervisors/modules/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"
 import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
 import {
   setCurrentAgentIdForSelfHeal,
   setCurrentSessionIdForSelfHeal,
 } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import {
-  ANNOUNCE,
-  sendMessage,
-  USER_SOURCE,
-} from "akasha/seat-system/supervising/modules/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"
 import type { ClearRebindHooks } from "akasha/seat-system/supervising/modules/supervisor-rebind/supervisor-rebind.module.code.ts"
 import type { CarriedAgentName } from "akasha/seat-system/supervising/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"
 import type { ClearRebindDeps } from "akasha/seat-system/supervising/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"

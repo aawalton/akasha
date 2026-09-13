@@ -10,17 +10,17 @@ import {
   parseWaitResume,
 } from "akasha/agents/seats/supervisors/modules/supervisor-decide-payload/supervisor-decide-payload.module.code.ts"
 import { RULE_DECISIONS } from "akasha/agents/seats/supervisors/modules/supervisor-decide-rules/supervisor-decide-rules.module.code.ts"
+import {
+  decideLimitResume,
+  LIMIT_RESUME_FLOOR_MS,
+  type LimitResumeDecision,
+} from "akasha/agents/seats/supervisors/modules/supervisor-limit-resume-decide/supervisor-limit-resume-decide.module.code.ts"
 import { fail } from "akasha/commands/modules/failing/command-failing.module.code.ts"
 import {
   readPayload,
   record,
   rejectUnknownFlags,
 } from "akasha/commands/modules/payload/payload.module.code.ts"
-import {
-  decideLimitResume,
-  LIMIT_RESUME_FLOOR_MS,
-  type LimitResumeDecision,
-} from "akasha/seat-system/supervising/modules/supervisor-limit-resume-decide/supervisor-limit-resume-decide.module.code.ts"
 import { decideRcDegradedBatch } from "akasha/seat-system/supervising/modules/supervisor-rc-degraded-decide/supervisor-rc-degraded-decide.module.code.ts"
 import { decideRemoteControlBatch } from "akasha/seat-system/supervising/modules/supervisor-remote-control-decide/supervisor-remote-control-decide.module.code.ts"
 import {

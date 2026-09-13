@@ -20,8 +20,8 @@ import type {
   InteractiveOpts,
   InteractiveSessionBoot,
 } from "akasha/agents/seats/supervisors/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
+import { armForceExitTimer } from "akasha/agents/seats/supervisors/modules/supervisor-lifecycle/supervisor-lifecycle.module.code.ts"
 import { isPendingReExec } from "akasha/seat-system/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import { armForceExitTimer } from "akasha/seat-system/supervising/modules/supervisor-lifecycle/supervisor-lifecycle.module.code.ts"
 import { resolveMcpConfig } from "akasha/seat-system/supervising/modules/supervisor-mcp/supervisor-mcp.module.code.ts"
 import type { CarriedAgentName } from "akasha/seat-system/supervising/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"
 import type { ClearRebindDeps } from "akasha/seat-system/supervising/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
