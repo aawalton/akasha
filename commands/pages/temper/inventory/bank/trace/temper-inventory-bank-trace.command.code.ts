@@ -15,58 +15,18 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { numSaid } from "akasha/commands/modules/inventory-trace-saying/inventory-trace-saying.module.code.ts"
 import { temperInventoryBankTrace as page } from "akasha/commands/pages/temper/inventory/bank/trace/temper-inventory-bank-trace.command.ts"
+import type {
+  BankTrace,
+  BankTraceBracket as Bracket,
+  BankTracePacedDispatch as PacedDispatch,
+  BankTraceSettling as Settling,
+} from "akasha/temper/commands/modules/bank-trace-reading/bank-trace-reading.module.code.ts"
 import { readBankTraces } from "akasha/temper/commands/modules/bank-trace-reading/bank-trace-reading.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 
 const INVENTORY_LUA = "TemperInventory.lua"
 
 const NAMED = [visitArgument, json, inventoryPath]
-
-type Bracket = { readonly count: number; readonly totalMs: number; readonly maxMs: number }
-
-type Settling = {
-  readonly evaluateRules: Bracket
-  readonly actionsChanged: Bracket
-  readonly bankPanelRefresh: Bracket
-  readonly slotUpdate?: Bracket
-  readonly fullUpdate?: Bracket
-  readonly scanCraftBag?: Bracket
-  readonly buildFacts?: Bracket
-  readonly walkRules?: Bracket
-  readonly crafting?: { readonly count: number; readonly totalMs: number }
-  readonly unattributedMs?: number
-}
-
-type PacedDispatch = {
-  readonly planned: number
-  readonly issued: number
-  readonly confirmed: number
-  readonly retries: number
-  readonly spanMs: number
-  readonly abortedEarly: boolean
-}
-
-type BankTrace = {
-  readonly timestamp: number
-  readonly bankingBag: number
-  readonly scanBankBagsMs?: number
-  readonly refreshPanelMs?: number
-  readonly withdrawMs?: number
-  readonly depositMs?: number
-  readonly withdrawCount?: number
-  readonly depositCount?: number
-  readonly moveCount?: number
-  readonly openHandlerMs?: number
-  readonly openToCloseMs?: number
-  readonly netWorth: {
-    readonly walkCount: number
-    readonly walkTotalMs: number
-    readonly walkMaxMs: number
-  }
-  readonly handler?: Settling
-  readonly settling?: Settling
-  readonly pacedDispatch?: PacedDispatch
-}
 
 function ms(value: number | undefined): string {
   return value === undefined ? "nil" : `${value}ms`
@@ -164,7 +124,7 @@ export async function temperInventoryBankTrace(
       : resolve(given.root, taken.inventoryPath)
   let traces: readonly BankTrace[]
   try {
-    traces = (await readBankTraces(at)) as readonly BankTrace[]
+    traces = await readBankTraces(at)
   } catch (thrown) {
     return refused(whyOf(thrown), OPERATIONAL)
   }

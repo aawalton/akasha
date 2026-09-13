@@ -73,7 +73,13 @@ const TRACE_SCHEMA = z
   })
   .strict()
 
-type BankTrace = z.infer<typeof TRACE_SCHEMA>
+export type BankTraceBracket = z.infer<typeof BRACKET_SCHEMA>
+
+export type BankTraceSettling = z.infer<typeof SETTLING_SCHEMA>
+
+export type BankTracePacedDispatch = z.infer<typeof PACED_DISPATCH_SCHEMA>
+
+export type BankTrace = z.infer<typeof TRACE_SCHEMA>
 
 const DIAGNOSTICS_SCHEMA = z
   .object({
