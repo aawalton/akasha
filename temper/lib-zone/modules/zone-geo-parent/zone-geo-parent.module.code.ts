@@ -1,6 +1,6 @@
-import { isValidPin } from "akasha/temper/lib-zone/zone-internal-helpers/zone-internal-helpers.module.code.ts"
-import { lib } from "akasha/temper/lib-zone/zone-lib-state/zone-lib-state.module.code.ts"
-import type { Lib } from "akasha/temper/lib-zone/zone-types/zone-types.module.code.ts"
+import { isValidPin } from "akasha/temper/lib-zone/modules/zone-internal-helpers/zone-internal-helpers.module.code.ts"
+import { lib } from "akasha/temper/lib-zone/modules/zone-lib-state/zone-lib-state.module.code.ts"
+import type { Lib } from "akasha/temper/lib-zone/modules/zone-types/zone-types.module.code.ts"
 
 export function initGeoParent(this: void): undefined {
   const allianceZone2TheHarborage: Record<number, number> = {

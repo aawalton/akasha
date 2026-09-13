@@ -9,10 +9,10 @@ import {
   SUPPORTED_LANGUAGES,
 } from "akasha/temper/lib-zone/modules/zone-constants/zone-constants.module.code.ts"
 import { GEO_DATA_REFERENCE_TABLE } from "akasha/temper/lib-zone/modules/zone-geo-data/zone-geo-data.module.code.ts"
-import { PRELOADED_ZONE_NAMES } from "akasha/temper/lib-zone/zone-names-data/zone-names-data.module.code.ts"
-import { PUBLIC_DUNGEON_MAP_IDS } from "akasha/temper/lib-zone/zone-public-dungeon-map-ids/zone-public-dungeon-map-ids.module.code.ts"
-import type { Lib } from "akasha/temper/lib-zone/zone-types/zone-types.module.code.ts"
-import { UI_STRINGS_EN } from "akasha/temper/lib-zone/zone-ui-strings/zone-ui-strings.module.code.ts"
+import { PRELOADED_ZONE_NAMES } from "akasha/temper/lib-zone/modules/zone-names-data/zone-names-data.module.code.ts"
+import { PUBLIC_DUNGEON_MAP_IDS } from "akasha/temper/lib-zone/modules/zone-public-dungeon-map-ids/zone-public-dungeon-map-ids.module.code.ts"
+import type { Lib } from "akasha/temper/lib-zone/modules/zone-types/zone-types.module.code.ts"
+import { UI_STRINGS_EN } from "akasha/temper/lib-zone/modules/zone-ui-strings/zone-ui-strings.module.code.ts"
 
 function checkIfLanguageIsSupported(this: void, lang: string | undefined): boolean {
   if (lang === undefined) return false

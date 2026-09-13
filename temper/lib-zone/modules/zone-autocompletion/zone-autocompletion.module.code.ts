@@ -2,12 +2,12 @@ import {
   FORMATTED_ZONE_STR,
   LIB_NAME,
 } from "akasha/temper/lib-zone/modules/zone-constants/zone-constants.module.code.ts"
-import { lib } from "akasha/temper/lib-zone/zone-lib-state/zone-lib-state.module.code.ts"
+import { lib } from "akasha/temper/lib-zone/modules/zone-lib-state/zone-lib-state.module.code.ts"
 import type {
   Lib,
   ZoneLscAutoCompleteProvider,
   ZoneLscCommand,
-} from "akasha/temper/lib-zone/zone-types/zone-types.module.code.ts"
+} from "akasha/temper/lib-zone/modules/zone-types/zone-types.module.code.ts"
 
 export function initAutocompletion(this: void): undefined {
   lib.buildAutoComplete = function (

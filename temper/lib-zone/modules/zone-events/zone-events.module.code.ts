@@ -4,9 +4,9 @@ import {
   libSlashCommander,
 } from "akasha/temper/lib-zone/modules/zone-casts/zone-casts.module.code.ts"
 import { LIB_NAME } from "akasha/temper/lib-zone/modules/zone-constants/zone-constants.module.code.ts"
-import { checkMaxZoneIndicesAndIds } from "akasha/temper/lib-zone/zone-internal-helpers/zone-internal-helpers.module.code.ts"
-import { lib } from "akasha/temper/lib-zone/zone-lib-state/zone-lib-state.module.code.ts"
-import type { SavedVarsTable } from "akasha/temper/lib-zone/zone-types/zone-types.module.code.ts"
+import { checkMaxZoneIndicesAndIds } from "akasha/temper/lib-zone/modules/zone-internal-helpers/zone-internal-helpers.module.code.ts"
+import { lib } from "akasha/temper/lib-zone/modules/zone-lib-state/zone-lib-state.module.code.ts"
+import type { SavedVarsTable } from "akasha/temper/lib-zone/modules/zone-types/zone-types.module.code.ts"
 
 function librarySavedVariables(this: void): undefined {
   const info = lib.libraryInfo

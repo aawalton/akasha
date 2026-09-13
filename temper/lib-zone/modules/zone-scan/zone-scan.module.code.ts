@@ -5,14 +5,14 @@ import {
 import {
   addDebugInfoSubTable,
   checkMaxZoneIndicesAndIds,
-} from "akasha/temper/lib-zone/zone-internal-helpers/zone-internal-helpers.module.code.ts"
-import { INTERNAL_STATE } from "akasha/temper/lib-zone/zone-internal-state/zone-internal-state.module.code.ts"
-import { lib } from "akasha/temper/lib-zone/zone-lib-state/zone-lib-state.module.code.ts"
+} from "akasha/temper/lib-zone/modules/zone-internal-helpers/zone-internal-helpers.module.code.ts"
+import { INTERNAL_STATE } from "akasha/temper/lib-zone/modules/zone-internal-state/zone-internal-state.module.code.ts"
+import { lib } from "akasha/temper/lib-zone/modules/zone-lib-state/zone-lib-state.module.code.ts"
 import type {
   Lib,
   SavedVarsTable,
   ZoneDataEntry,
-} from "akasha/temper/lib-zone/zone-types/zone-types.module.code.ts"
+} from "akasha/temper/lib-zone/modules/zone-types/zone-types.module.code.ts"
 
 export function initZoneScan(this: void): undefined {
   lib.GetAllZoneDataById = function (

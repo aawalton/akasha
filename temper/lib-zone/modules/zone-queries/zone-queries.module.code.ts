@@ -3,12 +3,12 @@ import { LIB_NAME } from "akasha/temper/lib-zone/modules/zone-constants/zone-con
 import {
   checkMaxZoneIndicesAndIds,
   parseLuaCapture,
-} from "akasha/temper/lib-zone/zone-internal-helpers/zone-internal-helpers.module.code.ts"
-import { lib } from "akasha/temper/lib-zone/zone-lib-state/zone-lib-state.module.code.ts"
+} from "akasha/temper/lib-zone/modules/zone-internal-helpers/zone-internal-helpers.module.code.ts"
+import { lib } from "akasha/temper/lib-zone/modules/zone-lib-state/zone-lib-state.module.code.ts"
 import type {
   Lib,
   ZoneDataEntry,
-} from "akasha/temper/lib-zone/zone-types/zone-types.module.code.ts"
+} from "akasha/temper/lib-zone/modules/zone-types/zone-types.module.code.ts"
 
 export function initZoneQueries(this: void): undefined {
   lib.GetParentMapId = function (this: Lib, mapId: number): number {
