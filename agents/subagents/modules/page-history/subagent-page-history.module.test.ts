@@ -77,7 +77,7 @@ test("a path git holds no commit writing is answered as nothing", () => {
       repoIn(world.rootFor("subagent-page-history-")),
       bodyOf(HELD, "Explore", AGENT)
     )
-    expect(pageInHistory(root, "seat-system/subagents/pages/akasha-nowhere.subagent.ts")).toBe(null)
+    expect(pageInHistory(root, "agents/subagents/pages/akasha-nowhere.subagent.ts")).toBe(null)
   } finally {
     world.sweep()
   }
