@@ -60,8 +60,7 @@ export const temperCharactersCaptureAddon = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "These tables are written out from the character and gear pages rather than by hand.",
+      statement: "These tables are committed source, compiled into whichever add-on imports them.",
     },
     {
       invariantKind: "absence",

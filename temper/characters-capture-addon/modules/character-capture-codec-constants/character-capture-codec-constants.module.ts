@@ -4,7 +4,7 @@ export const characterCaptureCodecConstants = {
   id: "01a0616b-920d-7fd7-8efb-04f9df5edf75",
   type: "module",
   slug: "character-capture-codec-constants",
-  definition: "how many bits a build hash gives each field, and which hash version this is",
+  definition: "how many bits a character build hash gives each field, and its hash version",
   code: "ts",
   invariants: [
     {
