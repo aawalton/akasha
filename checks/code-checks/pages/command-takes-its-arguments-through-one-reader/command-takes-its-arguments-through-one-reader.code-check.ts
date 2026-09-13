@@ -150,6 +150,10 @@ export const commandTakesItsArgumentsThroughOneReader = {
       statement:
         "Words a file run as a script reads under `import.meta.main` are read by nothing here.",
     },
+    {
+      invariantKind: "absence",
+      statement: "Words a traced function takes from `process.argv` are read by nothing here.",
+    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
