@@ -6,11 +6,6 @@ import {
 } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import {
-  declaredNamed,
-  declaredOn,
-  exportsNamed,
-} from "akasha/code/modules/naming/code-naming.module.code.ts"
 import { scoping } from "akasha/code/modules/source/code-source.module.code.ts"
 import {
   placingOver,
@@ -19,6 +14,11 @@ import {
   typed,
   typingOver,
 } from "akasha/code/modules/typing/code-typing.module.code.ts"
+import {
+  declaredNamed,
+  declaredOn,
+  exportsNamed,
+} from "akasha/code/reading/modules/naming/code-naming.module.code.ts"
 import { importingOf } from "akasha/pages/indexes/modules/path-naming/path-naming.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"

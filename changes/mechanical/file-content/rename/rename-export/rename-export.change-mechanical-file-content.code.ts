@@ -11,18 +11,18 @@ import type {
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
-  boundAs,
-  declaredNamed,
-  exportsNamed,
-  reachedFrom,
-  referencesOf,
-} from "akasha/code/modules/naming/code-naming.module.code.ts"
-import {
   type Placing,
   placingOver,
   readingOf,
   typingOver,
 } from "akasha/code/modules/typing/code-typing.module.code.ts"
+import {
+  boundAs,
+  declaredNamed,
+  exportsNamed,
+  reachedFrom,
+  referencesOf,
+} from "akasha/code/reading/modules/naming/code-naming.module.code.ts"
 
 export function renameExport(
   root: string,

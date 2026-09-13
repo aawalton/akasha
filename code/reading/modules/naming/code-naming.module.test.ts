@@ -9,12 +9,12 @@ import {
   namingOf,
   referencesOf,
   spelledAs,
-} from "akasha/code/modules/naming/code-naming.module.code.ts"
+} from "akasha/code/reading/modules/naming/code-naming.module.code.ts"
 import {
   KEYS_SAID,
   scratch,
   typed,
-} from "akasha/code/modules/naming/code-naming.module.test-fixtures.ts"
+} from "akasha/code/reading/modules/naming/code-naming.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

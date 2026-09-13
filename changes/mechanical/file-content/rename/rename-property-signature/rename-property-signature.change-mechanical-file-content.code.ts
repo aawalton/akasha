@@ -11,17 +11,17 @@ import type {
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
-  declaredNamed,
-  namingOf,
-  spelledAs,
-} from "akasha/code/modules/naming/code-naming.module.code.ts"
-import {
   placingOver,
   readingOf,
   type Typing,
   typed,
   typingOver,
 } from "akasha/code/modules/typing/code-typing.module.code.ts"
+import {
+  declaredNamed,
+  namingOf,
+  spelledAs,
+} from "akasha/code/reading/modules/naming/code-naming.module.code.ts"
 import { importingOf } from "akasha/pages/indexes/modules/path-naming/path-naming.module.code.ts"
 import ts from "typescript"
 
