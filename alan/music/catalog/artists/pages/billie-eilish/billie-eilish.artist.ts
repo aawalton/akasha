@@ -5,11 +5,12 @@ export const billieEilish = {
   type: "artist",
   slug: "billie-eilish",
   title: "Billie Eilish",
-  externalId: "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
-  externalLink: "https://musicbrainz.org/artist/f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
+  partOfCollections: ["artists"],
+  position: 0,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "minutes",
-  source: "musicbrainz",
-  lastSyncedAt: "2026-06-08",
+  status: "following",
   genre: [
     "alternative pop",
     "electropop",
@@ -21,4 +22,19 @@ export const billieEilish = {
     "bedroom pop",
   ],
   rank: "S-",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
+      externalLink: "https://musicbrainz.org/artist/f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
+      lastSyncedAt: "2026-06-08",
+    },
+    {
+      source: "spotify",
+      externalId: "6qqNVTkY8uBg9cP3Jd7DAH",
+      externalLink: "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
+  tags: ["Indie Pop Storyteller"],
 } as const satisfies Artist
