@@ -26,13 +26,6 @@ test("the indexes folder is where the index's place is said, so it is passed ove
   expect(reasonsIn(given(OWNED, `const INDEX_AT = "${AT}"\n`))).toEqual([])
 })
 
-test("a path built segment by segment is seen as the path it builds", () => {
-  const parts = AT.split("/").map((one) => JSON.stringify(one))
-  const said = reasonsIn(given(HELD, `const at = join(${parts.join(", ")})\n`))
-  expect(said).toHaveLength(1)
-  expect(said[0]).toContain("segment by segment")
-})
-
 test("asking the indexes folder for the path leaves nothing to refuse", () => {
   const body = 'import { indexIn } from "../a.ts"\nconst at = indexIn(root)\n'
   expect(reasonsIn(given(HELD, body))).toEqual([])
@@ -41,10 +34,6 @@ test("asking the indexes folder for the path leaves nothing to refuse", () => {
 test("the guarded root is not the index, so a guard naming `.git/data` is let through", () => {
   const body = 'const INDEX = join(".git", "data")\nconst bound = "`.git/data` is refused here."\n'
   expect(reasonsIn(given(HELD, body))).toEqual([])
-})
-
-test("segments that do not begin at the index are not read as one path", () => {
-  expect(reasonsIn(given(HELD, 'const said = ["a note", ".git", "data"]\n'))).toEqual([])
 })
 
 test("each spelling is named on its own", () => {

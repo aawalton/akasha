@@ -3,7 +3,7 @@ import {
   type Body,
   overEachText,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
-import { type Placed, spelledIn } from "akasha/code/modules/specifier/code-specifier.module.code.ts"
+import { spelledIn } from "akasha/code/modules/specifier/code-specifier.module.code.ts"
 import { indexNamed } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
 import { pageNamed } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
@@ -15,20 +15,7 @@ const INDEX = "index"
 
 const AT = indexNamed()
 
-const SEGMENTS = 3
-
 const SAID = "where the index sits is said by `index-reading`, and asked of it rather than spelt"
-
-function whole(held: readonly Placed[], at: number): string | null {
-  for (let took = 1; took < SEGMENTS && at + took < held.length; took++) {
-    const joined = held
-      .slice(at, at + took + 1)
-      .map((one) => one.text)
-      .join("/")
-    if (joined.startsWith(AT)) return joined
-  }
-  return null
-}
 
 export function found(
   under: string,
@@ -38,18 +25,10 @@ export function found(
 ): readonly string[] {
   if (path.startsWith(under)) return []
   if (pageNamed(path, pageTypes)) return []
-  const held = spelledIn(path, text)
   const said: string[] = []
-  for (let at = 0; at < held.length; at++) {
-    const one = held[at]
-    if (one === undefined) continue
-    if (one.text.includes(AT)) {
-      said.push(`\`${shortened(one.text)}\` spells a path into the index — ${SAID}`)
-      continue
-    }
-    const built = whole(held, at)
-    if (built === null) continue
-    said.push(`\`${shortened(built)}\` builds a path into the index segment by segment — ${SAID}`)
+  for (const one of spelledIn(path, text)) {
+    if (!one.text.includes(AT)) continue
+    said.push(`\`${shortened(one.text)}\` spells a path into the index — ${SAID}`)
   }
   return said
 }

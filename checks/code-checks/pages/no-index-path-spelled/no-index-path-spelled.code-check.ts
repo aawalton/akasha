@@ -40,10 +40,6 @@ export const noIndexPathSpelled = {
       statement: "Every string a body has is read rather than the specifiers alone.",
     },
     {
-      invariantKind: "departure",
-      statement: "Strings next to each other are read joined by a separator.",
-    },
-    {
       invariantKind: "absence",
       statement: "A path built from anything but plain strings is not seen.",
     },
