@@ -55,5 +55,13 @@ export const seatAkashaBeside = {
       statement:
         "The mode a seat is running in is written beside that seat on the beat its process key is written.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The pid holding a seat is read out of that seat's process key and nowhere else.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat with no process key beside it is held by no pid.",
+    },
   ],
 } as const satisfies Module

@@ -2,9 +2,8 @@ import { resolve } from "node:path"
 import type { ProcLivenessEntry } from "akasha/agents/modules/proc-liveness/agent-proc-liveness.module.code.ts"
 import { scanProcEntries } from "akasha/agents/modules/proc-scan/proc-scan.module.code.ts"
 import { dropReadings } from "akasha/agents/modules/read-record/read-record.module.code.ts"
-import { parseSeatProcKey } from "akasha/agents/seats/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
 import {
-  akashaHolderProcessOf,
+  akashaHolderPidOf,
   akashaSeatsThatExist,
 } from "akasha/agents/seats/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { transcriptOf } from "akasha/agents/seats/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"
@@ -83,12 +82,6 @@ const NO_OWN_IDS: OwnIds = { running: new Set(), ended: new Set(), outlived: new
 
 export type HolderPidOf = (seatId: string) => number | null
 
-function holderPidOf(seatId: string): number | null {
-  const held = akashaHolderProcessOf(seatId)
-  if (held === null) return null
-  return parseSeatProcKey(held)?.pid ?? null
-}
-
 export type RunningSaid = (pages: readonly SubagentPage[]) => Promise<OwnIds>
 
 export type SeatsNow = () => Iterable<string>
@@ -115,7 +108,7 @@ export async function runningOwnIn(
   pages: readonly SubagentPage[],
   reading: SeatTranscripts,
   pathOf: TranscriptPathOf,
-  pidOf: HolderPidOf = holderPidOf,
+  pidOf: HolderPidOf = akashaHolderPidOf,
   startedAt: (pid: number) => number | null = clientStartedAt,
   seatsOf: SeatsNow = NO_SEATS
 ): Promise<OwnIds> {
@@ -160,7 +153,7 @@ async function transcriptsSay(pages: readonly SubagentPage[]): Promise<OwnIds> {
     pages,
     createSubagentReader(),
     (seat) => transcriptOf(seat)?.value ?? null,
-    holderPidOf,
+    akashaHolderPidOf,
     clientStartedAt,
     seatsNow
   )

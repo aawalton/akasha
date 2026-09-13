@@ -1,5 +1,6 @@
 import { statSync } from "node:fs"
 import { basename, join } from "node:path"
+import { parseSeatProcKey } from "akasha/agents/seats/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
 import { seatAbove } from "akasha/agents/subagents/modules/naming/subagent-naming.module.code.ts"
 import {
   everyOfType,
@@ -112,6 +113,12 @@ export function besideWrittenAtMs(page: string): number {
 export function akashaHolderProcessOf(agentId: string): string | null {
   const held = akashaValueOf(agentId, SUPERVISOR_PROCESS)
   return typeof held === "string" && held !== "" ? held : null
+}
+
+export function akashaHolderPidOf(agentId: string): number | null {
+  const held = akashaHolderProcessOf(agentId)
+  if (held === null) return null
+  return parseSeatProcKey(held)?.pid ?? null
 }
 
 export function akashaRunningModeOf(agentId: string): string | null {
