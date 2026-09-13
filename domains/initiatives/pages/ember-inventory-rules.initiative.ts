@@ -11,7 +11,7 @@ export const emberInventoryRules = {
       statement:
         "A reading of the inventory outside the game reaches the answer the addon reaches.",
       workingMemory:
-        "env-parity now puts the env explain runs in beside the env plan runs in over every stack, and reads clean; it was shown failing on a blinded env first. Its page says agreement there is no sign the addon agrees. parity does read the addon's own verdicts, but out of a lastExplain Alan must arm in game, one item at a time, and his capture holds none. Left: a sweep against what the addon itself decided, once it is known whether the addon already writes that.\n",
+        "The addon persisted no per-item answer; the verdict-store module is Alan's own sell/nothing outbox, not the engine's. Landed 8ed0c8a1 — the run resolving an item writes resolvedAction onto the captured item, riding the reading already done, naming action, destination, and a rule index only for an ordered rule. Covers backpack, worn and bank bags: 1205 of 1979 stacks; craft bag, house storage and companion gear carry none. Costs +12.4% of 4.02 MB. Left: deploy, play, sweep.",
     },
   ],
   constraints: [
