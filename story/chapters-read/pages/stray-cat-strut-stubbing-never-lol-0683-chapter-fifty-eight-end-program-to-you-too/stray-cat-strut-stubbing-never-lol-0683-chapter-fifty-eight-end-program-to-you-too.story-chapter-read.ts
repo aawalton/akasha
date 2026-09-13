@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0683ChapterFiftyEightEndProgramToYouTo
   position: 683,
   ownLength: 1562,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2491017/chapter-fifty-eight-end-program-to-you-too",
-  externalId: "2491017",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2491017",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2491017/chapter-fifty-eight-end-program-to-you-too",
+    },
+  ],
   publishedAt: "2025-08-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

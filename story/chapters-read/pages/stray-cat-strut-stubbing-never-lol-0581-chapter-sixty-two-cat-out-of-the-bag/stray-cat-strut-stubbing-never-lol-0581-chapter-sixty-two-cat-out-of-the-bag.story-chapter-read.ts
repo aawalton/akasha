@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0581ChapterSixtyTwoCatOutOfTheBag = {
   position: 581,
   ownLength: 1447,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1841100/chapter-sixty-two-cat-out-of-the-bag",
-  externalId: "1841100",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1841100",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1841100/chapter-sixty-two-cat-out-of-the-bag",
+    },
+  ],
   publishedAt: "2024-10-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0406ChapterTwelveTheTasteOfBoot = {
   position: 406,
   ownLength: 1459,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1281326/chapter-twelve-the-taste-of-boot",
-  externalId: "1281326",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1281326",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1281326/chapter-twelve-the-taste-of-boot",
+    },
+  ],
   publishedAt: "2023-07-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

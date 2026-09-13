@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0459ChapterFortyNineISpyWithMyMeatyEye
   position: 459,
   ownLength: 1487,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1433324/chapter-forty-nine-i-spy-with-my-meaty-eye",
-  externalId: "1433324",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1433324",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1433324/chapter-forty-nine-i-spy-with-my-meaty-eye",
+    },
+  ],
   publishedAt: "2023-12-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

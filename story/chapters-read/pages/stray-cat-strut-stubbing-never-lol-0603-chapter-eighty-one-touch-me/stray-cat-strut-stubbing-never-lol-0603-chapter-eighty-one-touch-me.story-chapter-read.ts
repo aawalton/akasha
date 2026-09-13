@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0603ChapterEightyOneTouchMe = {
   position: 603,
   ownLength: 1511,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1961885/chapter-eighty-one-touch-me",
-  externalId: "1961885",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1961885",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1961885/chapter-eighty-one-touch-me",
+    },
+  ],
   publishedAt: "2024-12-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

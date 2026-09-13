@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0491ChapterSixtyEightDoNotThePrincess 
   position: 491,
   ownLength: 1555,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1508710/chapter-sixty-eight-do-not-the-princess",
-  externalId: "1508710",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1508710",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1508710/chapter-sixty-eight-do-not-the-princess",
+    },
+  ],
   publishedAt: "2024-02-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

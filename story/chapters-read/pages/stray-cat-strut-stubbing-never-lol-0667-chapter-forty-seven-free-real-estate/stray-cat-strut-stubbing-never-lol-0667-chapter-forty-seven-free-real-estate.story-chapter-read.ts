@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0667ChapterFortySevenFreeRealEstate = 
   position: 667,
   ownLength: 1544,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2381987/chapter-forty-seven-free-real-estate",
-  externalId: "2381987",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2381987",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2381987/chapter-forty-seven-free-real-estate",
+    },
+  ],
   publishedAt: "2025-06-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

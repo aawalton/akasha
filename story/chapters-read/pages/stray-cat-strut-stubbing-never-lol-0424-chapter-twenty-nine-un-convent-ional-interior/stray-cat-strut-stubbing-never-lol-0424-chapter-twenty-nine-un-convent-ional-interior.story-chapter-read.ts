@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0424ChapterTwentyNineUnConventIonalInt
   position: 424,
   ownLength: 1526,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1348221/chapter-twenty-nine-un-convent-ional-interior",
-  externalId: "1348221",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1348221",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1348221/chapter-twenty-nine-un-convent-ional-interior",
+    },
+  ],
   publishedAt: "2023-09-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0649ChapterThirtyTwoHappilyEverAfterTo
   position: 649,
   ownLength: 1487,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2241107/chapter-thirty-two-happily-ever-after-tomorrow",
-  externalId: "2241107",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2241107",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2241107/chapter-thirty-two-happily-ever-after-tomorrow",
+    },
+  ],
   publishedAt: "2025-04-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

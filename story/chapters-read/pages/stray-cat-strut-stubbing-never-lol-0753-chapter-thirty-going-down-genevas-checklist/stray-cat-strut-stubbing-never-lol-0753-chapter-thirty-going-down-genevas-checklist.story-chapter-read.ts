@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0753ChapterThirtyGoingDownGenevasCheck
   position: 753,
   ownLength: 1541,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3420208/chapter-thirty-going-down-genevas-checklist",
-  externalId: "3420208",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3420208",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3420208/chapter-thirty-going-down-genevas-checklist",
+    },
+  ],
   publishedAt: "2026-05-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0490ChapterSixtySevenTankYouForTheSand
   position: 490,
   ownLength: 1561,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1502673/chapter-sixty-seven-tank-you-for-the-sandwiches",
-  externalId: "1502673",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1502673",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1502673/chapter-sixty-seven-tank-you-for-the-sandwiches",
+    },
+  ],
   publishedAt: "2024-02-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

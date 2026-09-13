@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0614ChapterOneArmoredEleganceTakesTheS
   position: 614,
   ownLength: 1472,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2013383/chapter-one-armored-elegance-takes-the-stage",
-  externalId: "2013383",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2013383",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2013383/chapter-one-armored-elegance-takes-the-stage",
+    },
+  ],
   publishedAt: "2025-01-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0653ChapterThirtyFiveWelcomeUnderGodsG
   position: 653,
   ownLength: 1548,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2267519/chapter-thirty-five-welcome-under-gods-grace",
-  externalId: "2267519",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2267519",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2267519/chapter-thirty-five-welcome-under-gods-grace",
+    },
+  ],
   publishedAt: "2025-05-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

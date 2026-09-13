@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0636ChapterTwentyDeusExMachinations = 
   position: 636,
   ownLength: 1462,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2154677/chapter-twenty-deus-ex-machinations",
-  externalId: "2154677",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2154677",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2154677/chapter-twenty-deus-ex-machinations",
+    },
+  ],
   publishedAt: "2025-03-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

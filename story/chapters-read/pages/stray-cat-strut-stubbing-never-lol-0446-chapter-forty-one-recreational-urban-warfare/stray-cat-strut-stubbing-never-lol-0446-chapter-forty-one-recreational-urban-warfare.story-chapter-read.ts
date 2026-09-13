@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0446ChapterFortyOneRecreationalUrbanWa
   position: 446,
   ownLength: 1468,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1400687/chapter-forty-one-recreational-urban-warfare",
-  externalId: "1400687",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1400687",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1400687/chapter-forty-one-recreational-urban-warfare",
+    },
+  ],
   publishedAt: "2023-11-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

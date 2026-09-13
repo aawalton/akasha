@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0395InterludeARoamingRaccoonsReasonabl
   position: 395,
   ownLength: 1581,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1229805/interlude-a-roaming-raccoons-reasonable-relationships",
-  externalId: "1229805",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1229805",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1229805/interlude-a-roaming-raccoons-reasonable-relationships",
+    },
+  ],
   publishedAt: "2023-05-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

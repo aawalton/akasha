@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0668ChapterFortyEightLaBlueLucy = {
   position: 668,
   ownLength: 1490,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2388111/chapter-forty-eight-la-blue-lucy",
-  externalId: "2388111",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2388111",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2388111/chapter-forty-eight-la-blue-lucy",
+    },
+  ],
   publishedAt: "2025-06-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0423ChapterTwentyEightMasterOfNun = {
   position: 423,
   ownLength: 1498,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1342963/chapter-twenty-eight-master-of-nun",
-  externalId: "1342963",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1342963",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1342963/chapter-twenty-eight-master-of-nun",
+    },
+  ],
   publishedAt: "2023-09-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

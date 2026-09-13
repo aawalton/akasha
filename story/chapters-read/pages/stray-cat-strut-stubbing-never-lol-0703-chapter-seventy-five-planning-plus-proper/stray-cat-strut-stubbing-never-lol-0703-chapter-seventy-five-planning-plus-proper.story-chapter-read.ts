@@ -10,10 +10,14 @@ export const strayCatStrutStubbingNeverLol0703ChapterSeventyFivePlanningPlusProp
   position: 703,
   ownLength: 1502,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2641226/chapter-seventy-five-planning-plus-proper-preparation",
-  externalId: "2641226",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2641226",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2641226/chapter-seventy-five-planning-plus-proper-preparation",
+    },
+  ],
   publishedAt: "2025-09-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

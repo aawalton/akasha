@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0408ChapterFourteenMayoralImage = {
   position: 408,
   ownLength: 1940,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1283951/chapter-fourteen-mayoral-image",
-  externalId: "1283951",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1283951",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1283951/chapter-fourteen-mayoral-image",
+    },
+  ],
   publishedAt: "2023-07-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0736ChapterFifteenSpontaneousLobotomyS
   position: 736,
   ownLength: 1441,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3116041/chapter-fifteen-spontaneous-lobotomy-syndrome",
-  externalId: "3116041",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3116041",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3116041/chapter-fifteen-spontaneous-lobotomy-syndrome",
+    },
+  ],
   publishedAt: "2026-03-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

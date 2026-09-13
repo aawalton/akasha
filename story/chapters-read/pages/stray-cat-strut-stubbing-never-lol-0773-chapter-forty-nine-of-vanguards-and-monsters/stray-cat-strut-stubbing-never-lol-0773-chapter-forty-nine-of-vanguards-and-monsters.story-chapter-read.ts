@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0773ChapterFortyNineOfVanguardsAndMons
   position: 773,
   ownLength: 1460,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3741513/chapter-forty-nine-of-vanguards-and-monsters",
-  externalId: "3741513",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3741513",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3741513/chapter-forty-nine-of-vanguards-and-monsters",
+    },
+  ],
   publishedAt: "2026-07-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

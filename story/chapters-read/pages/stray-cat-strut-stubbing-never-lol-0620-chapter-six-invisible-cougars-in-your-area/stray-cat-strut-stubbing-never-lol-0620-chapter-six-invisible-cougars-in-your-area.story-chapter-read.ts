@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0620ChapterSixInvisibleCougarsInYourAr
   position: 620,
   ownLength: 1511,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2051400/chapter-six-invisible-cougars-in-your-area",
-  externalId: "2051400",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2051400",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2051400/chapter-six-invisible-cougars-in-your-area",
+    },
+  ],
   publishedAt: "2025-02-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

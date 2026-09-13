@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0383ChapterSixtyFourGettingHot = {
   position: 383,
   ownLength: 1446,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1194874/chapter-sixty-four-getting-hot",
-  externalId: "1194874",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1194874",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1194874/chapter-sixty-four-getting-hot",
+    },
+  ],
   publishedAt: "2023-04-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0591ChapterSeventyIJustWantTheSkyOnFir
   position: 591,
   ownLength: 1508,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1899462/chapter-seventy-i-just-want-the-sky-on-fire",
-  externalId: "1899462",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1899462",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1899462/chapter-seventy-i-just-want-the-sky-on-fire",
+    },
+  ],
   publishedAt: "2024-11-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

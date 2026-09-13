@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0640ChapterTwentyThreeHikikomoriWithAS
   position: 640,
   ownLength: 1548,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2175019/chapter-twenty-three-hikikomori-with-a-shotgun",
-  externalId: "2175019",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2175019",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2175019/chapter-twenty-three-hikikomori-with-a-shotgun",
+    },
+  ],
   publishedAt: "2025-04-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

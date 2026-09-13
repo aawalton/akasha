@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0699ChapterSeventyTwoFormsFansAndFunct
   position: 699,
   ownLength: 1572,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2605885/chapter-seventy-two-forms-fans-and-functionaries",
-  externalId: "2605885",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2605885",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2605885/chapter-seventy-two-forms-fans-and-functionaries",
+    },
+  ],
   publishedAt: "2025-09-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

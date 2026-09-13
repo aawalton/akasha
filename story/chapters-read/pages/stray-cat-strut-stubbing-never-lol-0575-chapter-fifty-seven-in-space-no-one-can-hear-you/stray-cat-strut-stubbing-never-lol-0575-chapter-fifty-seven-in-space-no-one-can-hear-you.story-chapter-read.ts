@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0575ChapterFiftySevenInSpaceNoOneCanHe
   position: 575,
   ownLength: 1445,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1810356/chapter-fifty-seven-in-space-no-one-can-hear-you",
-  externalId: "1810356",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1810356",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1810356/chapter-fifty-seven-in-space-no-one-can-hear-you",
+    },
+  ],
   publishedAt: "2024-09-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

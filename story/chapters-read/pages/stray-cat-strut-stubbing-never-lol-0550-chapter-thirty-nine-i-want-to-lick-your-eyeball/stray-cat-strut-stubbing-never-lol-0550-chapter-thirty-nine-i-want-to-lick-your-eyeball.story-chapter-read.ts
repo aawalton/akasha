@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0550ChapterThirtyNineIWantToLickYourEy
   position: 550,
   ownLength: 1457,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1714363/chapter-thirty-nine-i-want-to-lick-your-eyeball",
-  externalId: "1714363",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1714363",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1714363/chapter-thirty-nine-i-want-to-lick-your-eyeball",
+    },
+  ],
   publishedAt: "2024-07-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

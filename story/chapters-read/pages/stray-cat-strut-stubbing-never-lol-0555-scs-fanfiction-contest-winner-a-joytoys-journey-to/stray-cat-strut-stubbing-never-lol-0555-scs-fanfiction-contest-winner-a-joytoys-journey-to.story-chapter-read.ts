@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0555ScsFanfictionContestWinnerAJoytoys
   position: 555,
   ownLength: 7050,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1729281/scs-fanfiction-contest-winner-a-joytoys-journey",
-  externalId: "1729281",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1729281",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1729281/scs-fanfiction-contest-winner-a-joytoys-journey",
+    },
+  ],
   publishedAt: "2024-07-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

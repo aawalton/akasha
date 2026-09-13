@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0618ChapterFiveIReallyWannaVisitYourHo
   position: 618,
   ownLength: 1498,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2038977/chapter-five-i-really-wanna-visit-your-home",
-  externalId: "2038977",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2038977",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2038977/chapter-five-i-really-wanna-visit-your-home",
+    },
+  ],
   publishedAt: "2025-01-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

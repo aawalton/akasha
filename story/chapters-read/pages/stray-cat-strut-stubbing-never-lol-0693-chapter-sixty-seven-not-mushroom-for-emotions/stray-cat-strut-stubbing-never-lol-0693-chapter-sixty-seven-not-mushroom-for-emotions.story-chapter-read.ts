@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0693ChapterSixtySevenNotMushroomForEmo
   position: 693,
   ownLength: 1442,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2569024/chapter-sixty-seven-not-mushroom-for-emotions",
-  externalId: "2569024",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2569024",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2569024/chapter-sixty-seven-not-mushroom-for-emotions",
+    },
+  ],
   publishedAt: "2025-09-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0608ACyberNewYear = {
   position: 608,
   ownLength: 2225,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1984426/a-cyber-new-year",
-  externalId: "1984426",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1984426",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1984426/a-cyber-new-year",
+    },
+  ],
   publishedAt: "2024-12-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

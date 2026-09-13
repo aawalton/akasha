@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0564InterludeTheSamuraisSamurai = {
   position: 564,
   ownLength: 1347,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1767306/interlude-the-samurais-samurai",
-  externalId: "1767306",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1767306",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1767306/interlude-the-samurais-samurai",
+    },
+  ],
   publishedAt: "2024-08-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

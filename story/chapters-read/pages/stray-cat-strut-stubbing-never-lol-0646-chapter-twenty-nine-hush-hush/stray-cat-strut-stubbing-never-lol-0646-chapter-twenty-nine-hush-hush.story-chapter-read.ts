@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0646ChapterTwentyNineHushHush = {
   position: 646,
   ownLength: 1477,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2219074/chapter-twenty-nine-hush-hush",
-  externalId: "2219074",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2219074",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2219074/chapter-twenty-nine-hush-hush",
+    },
+  ],
   publishedAt: "2025-04-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

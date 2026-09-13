@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0765ChapterFortyTwoPrincessCarry = {
   position: 765,
   ownLength: 1549,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3592121/chapter-forty-two-princess-carry",
-  externalId: "3592121",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3592121",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3592121/chapter-forty-two-princess-carry",
+    },
+  ],
   publishedAt: "2026-06-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

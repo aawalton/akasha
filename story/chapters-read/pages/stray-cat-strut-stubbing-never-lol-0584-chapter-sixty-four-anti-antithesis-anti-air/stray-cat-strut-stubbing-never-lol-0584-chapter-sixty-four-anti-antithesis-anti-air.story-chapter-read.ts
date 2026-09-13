@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0584ChapterSixtyFourAntiAntithesisAnti
   position: 584,
   ownLength: 1482,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1863302/chapter-sixty-four-anti-antithesis-anti-air",
-  externalId: "1863302",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1863302",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1863302/chapter-sixty-four-anti-antithesis-anti-air",
+    },
+  ],
   publishedAt: "2024-10-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

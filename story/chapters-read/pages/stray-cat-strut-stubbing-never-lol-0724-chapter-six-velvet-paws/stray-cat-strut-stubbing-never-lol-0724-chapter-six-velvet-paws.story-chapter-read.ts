@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0724ChapterSixVelvetPaws = {
   position: 724,
   ownLength: 1457,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2895772/chapter-six-velvet-paws",
-  externalId: "2895772",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2895772",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2895772/chapter-six-velvet-paws",
+    },
+  ],
   publishedAt: "2025-12-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

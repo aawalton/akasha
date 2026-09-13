@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0415ChapterTwentyOneEternalOptimismAnd
   position: 415,
   ownLength: 1495,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1311382/chapter-twenty-one-eternal-optimism-and-petty",
-  externalId: "1311382",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1311382",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1311382/chapter-twenty-one-eternal-optimism-and-petty",
+    },
+  ],
   publishedAt: "2023-08-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0435ChapterThirtySixSleepy = {
   position: 435,
   ownLength: 1421,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1372244/chapter-thirty-six-sleepy",
-  externalId: "1372244",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1372244",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1372244/chapter-thirty-six-sleepy",
+    },
+  ],
   publishedAt: "2023-10-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

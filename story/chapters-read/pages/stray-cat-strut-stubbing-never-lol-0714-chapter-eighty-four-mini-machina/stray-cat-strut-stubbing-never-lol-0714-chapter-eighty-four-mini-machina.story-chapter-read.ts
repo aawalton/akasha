@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0714ChapterEightyFourMiniMachina = {
   position: 714,
   ownLength: 1444,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2717615/chapter-eighty-four-mini-machina",
-  externalId: "2717615",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2717615",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2717615/chapter-eighty-four-mini-machina",
+    },
+  ],
   publishedAt: "2025-10-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

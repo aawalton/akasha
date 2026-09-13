@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0717StrayCatStrutAYoungLadysVacationNe
   position: 717,
   ownLength: 971,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2775642/stray-cat-strut-a-young-ladys-vacation-next-door",
-  externalId: "2775642",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2775642",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2775642/stray-cat-strut-a-young-ladys-vacation-next-door",
+    },
+  ],
   publishedAt: "2025-11-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

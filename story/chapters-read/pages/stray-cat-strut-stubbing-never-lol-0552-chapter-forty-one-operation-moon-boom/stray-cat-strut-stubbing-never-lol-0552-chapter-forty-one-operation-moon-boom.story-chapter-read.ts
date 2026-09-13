@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0552ChapterFortyOneOperationMoonBoom =
   position: 552,
   ownLength: 1457,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1723185/chapter-forty-one-operation-moon-boom",
-  externalId: "1723185",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1723185",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1723185/chapter-forty-one-operation-moon-boom",
+    },
+  ],
   publishedAt: "2024-07-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

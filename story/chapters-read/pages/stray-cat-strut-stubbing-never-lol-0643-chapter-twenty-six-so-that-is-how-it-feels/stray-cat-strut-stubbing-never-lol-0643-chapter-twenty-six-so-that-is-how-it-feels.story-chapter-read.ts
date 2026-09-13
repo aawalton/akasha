@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0643ChapterTwentySixSoThatIsHowItFeels
   position: 643,
   ownLength: 1499,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2193393/chapter-twenty-six-so-that-is-how-it-feels",
-  externalId: "2193393",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2193393",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2193393/chapter-twenty-six-so-that-is-how-it-feels",
+    },
+  ],
   publishedAt: "2025-04-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

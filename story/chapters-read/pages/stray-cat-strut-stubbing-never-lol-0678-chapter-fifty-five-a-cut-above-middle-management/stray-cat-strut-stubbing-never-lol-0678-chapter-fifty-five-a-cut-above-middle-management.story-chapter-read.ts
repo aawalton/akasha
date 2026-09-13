@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0678ChapterFiftyFiveACutAboveMiddleMan
   position: 678,
   ownLength: 1467,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2457545/chapter-fifty-five-a-cut-above-middle-management",
-  externalId: "2457545",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2457545",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2457545/chapter-fifty-five-a-cut-above-middle-management",
+    },
+  ],
   publishedAt: "2025-07-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

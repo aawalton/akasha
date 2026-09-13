@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0525ChapterTwentyTwoLazyPillowTalk = {
   position: 525,
   ownLength: 1472,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1627379/chapter-twenty-two-lazy-pillow-talk",
-  externalId: "1627379",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1627379",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1627379/chapter-twenty-two-lazy-pillow-talk",
+    },
+  ],
   publishedAt: "2024-05-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0662ChapterFortyThreeRightInFrontOfMyO
   position: 662,
   ownLength: 1441,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2336579/chapter-forty-three-right-in-front-of-my-osha",
-  externalId: "2336579",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2336579",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2336579/chapter-forty-three-right-in-front-of-my-osha",
+    },
+  ],
   publishedAt: "2025-06-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

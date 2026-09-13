@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0520ChapterNineteenExcuseMyFrench = {
   position: 520,
   ownLength: 1507,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1610725/chapter-nineteen-excuse-my-french",
-  externalId: "1610725",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1610725",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1610725/chapter-nineteen-excuse-my-french",
+    },
+  ],
   publishedAt: "2024-04-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

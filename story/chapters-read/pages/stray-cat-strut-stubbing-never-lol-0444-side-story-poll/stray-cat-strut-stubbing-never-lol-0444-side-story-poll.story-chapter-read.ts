@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0444SideStoryPoll = {
   position: 444,
   ownLength: 346,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1392033/side-story-poll",
-  externalId: "1392033",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1392033",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1392033/side-story-poll",
+    },
+  ],
   publishedAt: "2023-10-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

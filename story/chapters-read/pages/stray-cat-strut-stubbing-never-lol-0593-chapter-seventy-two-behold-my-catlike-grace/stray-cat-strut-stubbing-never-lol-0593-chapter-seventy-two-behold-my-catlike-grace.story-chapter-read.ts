@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0593ChapterSeventyTwoBeholdMyCatlikeGr
   position: 593,
   ownLength: 1509,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1913116/chapter-seventy-two-behold-my-catlike-grace",
-  externalId: "1913116",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1913116",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1913116/chapter-seventy-two-behold-my-catlike-grace",
+    },
+  ],
   publishedAt: "2024-11-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

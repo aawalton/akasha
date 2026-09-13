@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0449ChapterFortyThreeFindersNotKeepers
   position: 449,
   ownLength: 1463,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1408788/chapter-forty-three-finders-not-keepers",
-  externalId: "1408788",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1408788",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1408788/chapter-forty-three-finders-not-keepers",
+    },
+  ],
   publishedAt: "2023-11-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

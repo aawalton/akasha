@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0705ChapterSeventySevenDrowningInMedio
   position: 705,
   ownLength: 1497,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2646437/chapter-seventy-seven-drowning-in-mediocrity",
-  externalId: "2646437",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2646437",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2646437/chapter-seventy-seven-drowning-in-mediocrity",
+    },
+  ],
   publishedAt: "2025-10-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

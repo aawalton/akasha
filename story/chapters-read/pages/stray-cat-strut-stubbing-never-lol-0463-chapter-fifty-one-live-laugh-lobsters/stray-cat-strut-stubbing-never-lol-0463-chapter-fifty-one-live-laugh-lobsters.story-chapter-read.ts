@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0463ChapterFiftyOneLiveLaughLobsters =
   position: 463,
   ownLength: 1470,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1441207/chapter-fifty-one-live-laugh-lobsters",
-  externalId: "1441207",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1441207",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1441207/chapter-fifty-one-live-laugh-lobsters",
+    },
+  ],
   publishedAt: "2023-12-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

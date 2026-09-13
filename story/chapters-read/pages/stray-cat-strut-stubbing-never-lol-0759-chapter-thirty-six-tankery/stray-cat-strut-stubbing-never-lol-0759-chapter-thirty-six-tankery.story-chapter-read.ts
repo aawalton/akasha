@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0759ChapterThirtySixTankery = {
   position: 759,
   ownLength: 1477,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3516320/chapter-thirty-six-tankery",
-  externalId: "3516320",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3516320",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3516320/chapter-thirty-six-tankery",
+    },
+  ],
   publishedAt: "2026-06-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

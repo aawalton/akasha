@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0770ChapterFortySixGroundPenetratingRa
   position: 770,
   ownLength: 1512,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3653747/chapter-forty-six-ground-penetrating-radar-shell",
-  externalId: "3653747",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3653747",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3653747/chapter-forty-six-ground-penetrating-radar-shell",
+    },
+  ],
   publishedAt: "2026-07-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

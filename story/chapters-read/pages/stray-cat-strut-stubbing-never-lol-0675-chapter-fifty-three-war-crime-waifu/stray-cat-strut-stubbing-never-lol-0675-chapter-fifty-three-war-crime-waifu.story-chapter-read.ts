@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0675ChapterFiftyThreeWarCrimeWaifu = {
   position: 675,
   ownLength: 1442,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2437244/chapter-fifty-three-war-crime-waifu",
-  externalId: "2437244",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2437244",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2437244/chapter-fifty-three-war-crime-waifu",
+    },
+  ],
   publishedAt: "2025-07-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0707ChapterSeventyNineGoshGollyGraciou
   position: 707,
   ownLength: 1470,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2664362/chapter-seventy-nine-gosh-golly-gracious",
-  externalId: "2664362",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2664362",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2664362/chapter-seventy-nine-gosh-golly-gracious",
+    },
+  ],
   publishedAt: "2025-10-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

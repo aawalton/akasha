@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0433ChapterThirtyFiveOutfoxed = {
   position: 433,
   ownLength: 1508,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1369990/chapter-thirty-five-outfoxed",
-  externalId: "1369990",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1369990",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1369990/chapter-thirty-five-outfoxed",
+    },
+  ],
   publishedAt: "2023-10-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

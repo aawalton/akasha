@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0641ChapterTwentyFourInTheNameOfTheMoo
   position: 641,
   ownLength: 1500,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2181649/chapter-twenty-four-in-the-name-of-the-moon",
-  externalId: "2181649",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2181649",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2181649/chapter-twenty-four-in-the-name-of-the-moon",
+    },
+  ],
   publishedAt: "2025-04-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0669ChapterFortyNineForShyingOutLoud =
   position: 669,
   ownLength: 1569,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2401223/chapter-forty-nine-for-shying-out-loud",
-  externalId: "2401223",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2401223",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2401223/chapter-forty-nine-for-shying-out-loud",
+    },
+  ],
   publishedAt: "2025-07-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

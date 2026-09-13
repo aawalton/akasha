@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0762ChapterThirtyNineTheDifferenceBetw
   position: 762,
   ownLength: 1540,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3548840/chapter-thirty-nine-the-difference-between-brave",
-  externalId: "3548840",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3548840",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3548840/chapter-thirty-nine-the-difference-between-brave",
+    },
+  ],
   publishedAt: "2026-06-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

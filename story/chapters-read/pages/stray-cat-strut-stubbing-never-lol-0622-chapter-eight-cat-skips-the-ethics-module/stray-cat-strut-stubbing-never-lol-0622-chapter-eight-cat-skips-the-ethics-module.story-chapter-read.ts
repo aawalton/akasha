@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0622ChapterEightCatSkipsTheEthicsModul
   position: 622,
   ownLength: 1532,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2065162/chapter-eight-cat-skips-the-ethics-module",
-  externalId: "2065162",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2065162",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2065162/chapter-eight-cat-skips-the-ethics-module",
+    },
+  ],
   publishedAt: "2025-02-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0486ChapterSixtyFiveYourAverageRolepla
   position: 486,
   ownLength: 1469,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1495072/chapter-sixty-five-your-average-roleplaying-group",
-  externalId: "1495072",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1495072",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1495072/chapter-sixty-five-your-average-roleplaying-group",
+    },
+  ],
   publishedAt: "2024-01-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

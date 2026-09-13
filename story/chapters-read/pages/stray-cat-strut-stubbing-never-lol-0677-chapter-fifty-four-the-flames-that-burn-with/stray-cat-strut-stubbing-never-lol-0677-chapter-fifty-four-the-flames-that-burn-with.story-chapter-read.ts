@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0677ChapterFiftyFourTheFlamesThatBurnW
   position: 677,
   ownLength: 1506,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2443725/chapter-fifty-four-the-flames-that-burn-with-purpose",
-  externalId: "2443725",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2443725",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2443725/chapter-fifty-four-the-flames-that-burn-with-purpose",
+    },
+  ],
   publishedAt: "2025-07-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

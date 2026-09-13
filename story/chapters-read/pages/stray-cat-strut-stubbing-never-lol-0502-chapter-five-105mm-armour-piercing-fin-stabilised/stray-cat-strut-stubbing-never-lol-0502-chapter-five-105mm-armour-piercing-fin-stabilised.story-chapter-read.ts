@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0502ChapterFive105mmArmourPiercingFinS
   position: 502,
   ownLength: 1495,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1543269/chapter-five-105mm-armour-piercing-fin-stabilised",
-  externalId: "1543269",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1543269",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1543269/chapter-five-105mm-armour-piercing-fin-stabilised",
+    },
+  ],
   publishedAt: "2024-03-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0768AnnouncementBiteTheStars = {
   position: 768,
   ownLength: 147,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3644606/announcement-bite-the-stars",
-  externalId: "3644606",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3644606",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3644606/announcement-bite-the-stars",
+    },
+  ],
   publishedAt: "2026-07-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

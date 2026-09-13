@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0690ChapterSixtyFourHotAndBothered = {
   position: 690,
   ownLength: 1457,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2537568/chapter-sixty-four-hot-and-bothered",
-  externalId: "2537568",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2537568",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2537568/chapter-sixty-four-hot-and-bothered",
+    },
+  ],
   publishedAt: "2025-08-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0599ChapterSeventySevenDeadSamuraiTell
   position: 599,
   ownLength: 1484,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1942907/chapter-seventy-seven-dead-samurai-tell-no-tales",
-  externalId: "1942907",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1942907",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1942907/chapter-seventy-seven-dead-samurai-tell-no-tales",
+    },
+  ],
   publishedAt: "2024-12-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

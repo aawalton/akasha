@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0536ChapterThirtyGrasshoppersGuideToDi
   position: 536,
   ownLength: 1492,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1663277/chapter-thirty-grasshoppers-guide-to-discreet",
-  externalId: "1663277",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1663277",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1663277/chapter-thirty-grasshoppers-guide-to-discreet",
+    },
+  ],
   publishedAt: "2024-06-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

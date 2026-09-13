@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0757ChapterThirtyFourMowingDownTheEnem
   position: 757,
   ownLength: 1519,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3483093/chapter-thirty-four-mowing-down-the-enemies-of",
-  externalId: "3483093",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3483093",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3483093/chapter-thirty-four-mowing-down-the-enemies-of",
+    },
+  ],
   publishedAt: "2026-06-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

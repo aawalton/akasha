@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0756ChapterThirtyThreeSmokescreen = {
   position: 756,
   ownLength: 1471,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3467314/chapter-thirty-three-smokescreen",
-  externalId: "3467314",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3467314",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3467314/chapter-thirty-three-smokescreen",
+    },
+  ],
   publishedAt: "2026-05-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

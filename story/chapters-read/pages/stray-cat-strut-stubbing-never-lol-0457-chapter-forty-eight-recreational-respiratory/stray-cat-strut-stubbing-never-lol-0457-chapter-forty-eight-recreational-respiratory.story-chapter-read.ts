@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0457ChapterFortyEightRecreationalRespi
   position: 457,
   ownLength: 1464,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1427542/chapter-forty-eight-recreational-respiratory-deterioration",
-  externalId: "1427542",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1427542",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1427542/chapter-forty-eight-recreational-respiratory-deterioration",
+    },
+  ],
   publishedAt: "2023-11-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

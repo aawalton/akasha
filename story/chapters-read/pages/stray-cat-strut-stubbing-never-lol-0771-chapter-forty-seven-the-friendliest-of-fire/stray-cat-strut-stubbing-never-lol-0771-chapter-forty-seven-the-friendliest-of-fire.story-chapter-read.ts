@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0771ChapterFortySevenTheFriendliestOfF
   position: 771,
   ownLength: 1577,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3680214/chapter-forty-seven-the-friendliest-of-fire",
-  externalId: "3680214",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3680214",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3680214/chapter-forty-seven-the-friendliest-of-fire",
+    },
+  ],
   publishedAt: "2026-07-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

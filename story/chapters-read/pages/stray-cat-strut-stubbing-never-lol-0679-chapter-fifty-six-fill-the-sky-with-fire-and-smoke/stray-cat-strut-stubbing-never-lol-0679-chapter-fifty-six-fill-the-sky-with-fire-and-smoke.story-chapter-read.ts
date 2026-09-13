@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0679ChapterFiftySixFillTheSkyWithFireA
   position: 679,
   ownLength: 1493,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2462578/chapter-fifty-six-fill-the-sky-with-fire-and-smoke",
-  externalId: "2462578",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2462578",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2462578/chapter-fifty-six-fill-the-sky-with-fire-and-smoke",
+    },
+  ],
   publishedAt: "2025-07-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

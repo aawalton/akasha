@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0566ChapterFortyNineImCatAndYouAreWatc
   position: 566,
   ownLength: 1506,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1769966/chapter-forty-nine-im-cat-and-you-are-watching",
-  externalId: "1769966",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1769966",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1769966/chapter-forty-nine-im-cat-and-you-are-watching",
+    },
+  ],
   publishedAt: "2024-08-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

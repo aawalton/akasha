@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0716ScsVolumeEightFeedback = {
   position: 716,
   ownLength: 135,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2720573/scs-volume-eight-feedback",
-  externalId: "2720573",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2720573",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2720573/scs-volume-eight-feedback",
+    },
+  ],
   publishedAt: "2025-10-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

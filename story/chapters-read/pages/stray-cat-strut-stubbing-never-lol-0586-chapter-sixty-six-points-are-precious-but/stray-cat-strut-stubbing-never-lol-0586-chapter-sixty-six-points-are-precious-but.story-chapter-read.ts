@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0586ChapterSixtySixPointsArePreciousBu
   position: 586,
   ownLength: 1610,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1874910/chapter-sixty-six-points-are-precious-but-explosions",
-  externalId: "1874910",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1874910",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1874910/chapter-sixty-six-points-are-precious-but-explosions",
+    },
+  ],
   publishedAt: "2024-10-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

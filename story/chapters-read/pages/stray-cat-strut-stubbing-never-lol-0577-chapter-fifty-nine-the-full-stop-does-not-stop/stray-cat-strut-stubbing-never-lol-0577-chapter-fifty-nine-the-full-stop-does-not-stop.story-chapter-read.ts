@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0577ChapterFiftyNineTheFullStopDoesNot
   position: 577,
   ownLength: 1485,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1821796/chapter-fifty-nine-the-full-stop-does-not-stop",
-  externalId: "1821796",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1821796",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1821796/chapter-fifty-nine-the-full-stop-does-not-stop",
+    },
+  ],
   publishedAt: "2024-09-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

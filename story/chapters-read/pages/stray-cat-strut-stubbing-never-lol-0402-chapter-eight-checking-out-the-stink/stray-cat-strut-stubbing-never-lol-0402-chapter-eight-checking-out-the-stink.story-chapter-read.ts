@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0402ChapterEightCheckingOutTheStink = 
   position: 402,
   ownLength: 1436,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1266905/chapter-eight-checking-out-the-stink",
-  externalId: "1266905",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1266905",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1266905/chapter-eight-checking-out-the-stink",
+    },
+  ],
   publishedAt: "2023-07-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

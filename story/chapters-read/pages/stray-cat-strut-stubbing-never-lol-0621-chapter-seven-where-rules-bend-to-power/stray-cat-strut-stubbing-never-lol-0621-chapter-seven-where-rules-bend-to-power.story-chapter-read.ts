@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0621ChapterSevenWhereRulesBendToPower 
   position: 621,
   ownLength: 1512,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2061199/chapter-seven-where-rules-bend-to-power",
-  externalId: "2061199",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2061199",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2061199/chapter-seven-where-rules-bend-to-power",
+    },
+  ],
   publishedAt: "2025-02-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0488ChapterSixtySixPeanutButterAndLesb
   position: 488,
   ownLength: 1417,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1500209/chapter-sixty-six-peanut-butter-and-lesbian-time",
-  externalId: "1500209",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1500209",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1500209/chapter-sixty-six-peanut-butter-and-lesbian-time",
+    },
+  ],
   publishedAt: "2024-01-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

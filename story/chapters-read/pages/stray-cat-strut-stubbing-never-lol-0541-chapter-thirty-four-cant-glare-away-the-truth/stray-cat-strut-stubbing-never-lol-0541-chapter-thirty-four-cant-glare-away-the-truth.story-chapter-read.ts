@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0541ChapterThirtyFourCantGlareAwayTheT
   position: 541,
   ownLength: 1522,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1682988/chapter-thirty-four-cant-glare-away-the-truth",
-  externalId: "1682988",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1682988",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1682988/chapter-thirty-four-cant-glare-away-the-truth",
+    },
+  ],
   publishedAt: "2024-06-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

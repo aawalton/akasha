@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0604ChapterEightyTwoTillICanGetMine = 
   position: 604,
   ownLength: 1538,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1964332/chapter-eighty-two-till-i-can-get-mine",
-  externalId: "1964332",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1964332",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1964332/chapter-eighty-two-till-i-can-get-mine",
+    },
+  ],
   publishedAt: "2024-12-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

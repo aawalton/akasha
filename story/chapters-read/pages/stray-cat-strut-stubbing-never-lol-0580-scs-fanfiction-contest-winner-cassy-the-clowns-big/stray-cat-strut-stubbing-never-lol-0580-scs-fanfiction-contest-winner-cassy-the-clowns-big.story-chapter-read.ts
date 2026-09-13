@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0580ScsFanfictionContestWinnerCassyThe
   position: 580,
   ownLength: 1752,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1835357/scs-fanfiction-contest-winner-cassy-the-clowns",
-  externalId: "1835357",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1835357",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1835357/scs-fanfiction-contest-winner-cassy-the-clowns",
+    },
+  ],
   publishedAt: "2024-10-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

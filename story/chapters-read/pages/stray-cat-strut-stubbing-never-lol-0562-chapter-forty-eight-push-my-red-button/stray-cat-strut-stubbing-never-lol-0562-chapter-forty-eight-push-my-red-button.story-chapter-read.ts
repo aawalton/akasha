@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0562ChapterFortyEightPushMyRedButton =
   position: 562,
   ownLength: 1465,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1756696/chapter-forty-eight-push-my-red-button",
-  externalId: "1756696",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1756696",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1756696/chapter-forty-eight-push-my-red-button",
+    },
+  ],
   publishedAt: "2024-08-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

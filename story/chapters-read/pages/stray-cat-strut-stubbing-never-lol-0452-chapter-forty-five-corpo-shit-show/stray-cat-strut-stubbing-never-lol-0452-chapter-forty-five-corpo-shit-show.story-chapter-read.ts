@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0452ChapterFortyFiveCorpoShitShow = {
   position: 452,
   ownLength: 1494,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1417562/chapter-forty-five-corpo-shit-show",
-  externalId: "1417562",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1417562",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1417562/chapter-forty-five-corpo-shit-show",
+    },
+  ],
   publishedAt: "2023-11-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

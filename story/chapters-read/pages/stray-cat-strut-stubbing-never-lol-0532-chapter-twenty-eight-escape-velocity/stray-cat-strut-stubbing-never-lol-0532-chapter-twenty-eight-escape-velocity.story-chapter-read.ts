@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0532ChapterTwentyEightEscapeVelocity =
   position: 532,
   ownLength: 1550,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1654656/chapter-twenty-eight-escape-velocity",
-  externalId: "1654656",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1654656",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1654656/chapter-twenty-eight-escape-velocity",
+    },
+  ],
   publishedAt: "2024-05-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0743ChapterTwentyTwoJusticeIsntLegal =
   position: 743,
   ownLength: 1525,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3274708/chapter-twenty-two-justice-isnt-legal",
-  externalId: "3274708",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3274708",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3274708/chapter-twenty-two-justice-isnt-legal",
+    },
+  ],
   publishedAt: "2026-04-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

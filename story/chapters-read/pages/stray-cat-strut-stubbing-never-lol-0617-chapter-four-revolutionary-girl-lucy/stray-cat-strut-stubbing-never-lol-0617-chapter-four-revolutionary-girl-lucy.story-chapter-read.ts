@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0617ChapterFourRevolutionaryGirlLucy =
   position: 617,
   ownLength: 1547,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2034101/chapter-four-revolutionary-girl-lucy",
-  externalId: "2034101",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2034101",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2034101/chapter-four-revolutionary-girl-lucy",
+    },
+  ],
   publishedAt: "2025-01-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

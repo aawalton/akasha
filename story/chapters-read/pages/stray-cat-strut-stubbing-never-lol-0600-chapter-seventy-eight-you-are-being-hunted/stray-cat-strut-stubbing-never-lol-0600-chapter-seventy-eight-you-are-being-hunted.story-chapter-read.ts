@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0600ChapterSeventyEightYouAreBeingHunt
   position: 600,
   ownLength: 1460,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1941963/chapter-seventy-eight-you-are-being-hunted",
-  externalId: "1941963",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1941963",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1941963/chapter-seventy-eight-you-are-being-hunted",
+    },
+  ],
   publishedAt: "2024-12-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

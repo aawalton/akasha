@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0576ChapterFiftyEightKnightTakesMoon =
   position: 576,
   ownLength: 1454,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1818169/chapter-fifty-eight-knight-takes-moon",
-  externalId: "1818169",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1818169",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1818169/chapter-fifty-eight-knight-takes-moon",
+    },
+  ],
   publishedAt: "2024-09-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -10,10 +10,14 @@ export const strayCatStrutStubbingNeverLol0422TheTragicLifeAndTimesOfHyperCutie 
   position: 422,
   ownLength: 1546,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1340716/the-tragic-life-and-times-of-hyper-cutie-bubblechan",
-  externalId: "1340716",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1340716",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1340716/the-tragic-life-and-times-of-hyper-cutie-bubblechan",
+    },
+  ],
   publishedAt: "2023-09-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0637ChapterTwentyOneBabysittingTheNuke
   position: 637,
   ownLength: 1507,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2164262/chapter-twenty-one-babysitting-the-nukes",
-  externalId: "2164262",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2164262",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2164262/chapter-twenty-one-babysitting-the-nukes",
+    },
+  ],
   publishedAt: "2025-03-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

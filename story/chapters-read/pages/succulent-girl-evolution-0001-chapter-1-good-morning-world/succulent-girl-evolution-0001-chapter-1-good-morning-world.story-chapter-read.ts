@@ -9,10 +9,14 @@ export const succulentGirlEvolution0001Chapter1GoodMorningWorld = {
   position: 1,
   ownLength: 2077,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525448/chapter-1-good-morning-world",
-  externalId: "2525448",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525448",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525448/chapter-1-good-morning-world",
+    },
+  ],
   publishedAt: "2025-08-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0629ChapterThirteenCarlPhillipGottfrie
   position: 629,
   ownLength: 1502,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2106048/chapter-thirteen-carl-phillip-gottfried-von-clauswitz",
-  externalId: "2106048",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2106048",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2106048/chapter-thirteen-carl-phillip-gottfried-von-clauswitz",
+    },
+  ],
   publishedAt: "2025-03-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

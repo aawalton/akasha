@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0512GlossaryModelFive = {
   position: 512,
   ownLength: 904,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1577563/glossary-model-five",
-  externalId: "1577563",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1577563",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1577563/glossary-model-five",
+    },
+  ],
   publishedAt: "2024-04-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

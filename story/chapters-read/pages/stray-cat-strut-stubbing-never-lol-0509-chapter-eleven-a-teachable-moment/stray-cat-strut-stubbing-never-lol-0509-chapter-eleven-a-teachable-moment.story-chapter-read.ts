@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0509ChapterElevenATeachableMoment = {
   position: 509,
   ownLength: 1449,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1571087/chapter-eleven-a-teachable-moment",
-  externalId: "1571087",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1571087",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1571087/chapter-eleven-a-teachable-moment",
+    },
+  ],
   publishedAt: "2024-03-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

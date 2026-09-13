@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0665ChapterFortySixCasinoRoNyaL = {
   position: 665,
   ownLength: 1453,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2376477/chapter-forty-six-casino-ro-nya-l",
-  externalId: "2376477",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2376477",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2376477/chapter-forty-six-casino-ro-nya-l",
+    },
+  ],
   publishedAt: "2025-06-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

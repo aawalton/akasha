@@ -7,12 +7,16 @@ export const strayCatStrutStubbingNeverLol0779ChapterFiftyFourSlappingSomeSense 
   position: 779,
   publishedAt: "2026-09-09",
   unit: "words",
-  externalId: "3935134",
-  source: "royal-road",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3935134",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3935134/chapter-fifty-four-slapping-some-sense",
+    },
+  ],
   title: "Chapter Fifty-Four - Slapping Some Sense",
   story: "story-read/stray-cat-strut-stubbing-never-lol",
   ownLength: 1552,
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3935134/chapter-fifty-four-slapping-some-sense",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0720ChapterThreeCanJunoComePlay = {
   position: 720,
   ownLength: 1526,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2836290/chapter-three-can-juno-come-play",
-  externalId: "2836290",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2836290",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2836290/chapter-three-can-juno-come-play",
+    },
+  ],
   publishedAt: "2025-12-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

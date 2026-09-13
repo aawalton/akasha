@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0760ChapterThirtySevenBringingTheHeat 
   position: 760,
   ownLength: 1402,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3525518/chapter-thirty-seven-bringing-the-heat",
-  externalId: "3525518",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3525518",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3525518/chapter-thirty-seven-bringing-the-heat",
+    },
+  ],
   publishedAt: "2026-06-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

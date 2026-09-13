@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0741ChapterTwentyHowToGetToTheTop = {
   position: 741,
   ownLength: 1427,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3218586/chapter-twenty-how-to-get-to-the-top",
-  externalId: "3218586",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3218586",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3218586/chapter-twenty-how-to-get-to-the-top",
+    },
+  ],
   publishedAt: "2026-04-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

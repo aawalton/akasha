@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0694ChapterSixtyEightCharredAsTheWaste
   position: 694,
   ownLength: 1464,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2575145/chapter-sixty-eight-charred-as-the-wastes-of-ozymandias",
-  externalId: "2575145",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2575145",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2575145/chapter-sixty-eight-charred-as-the-wastes-of-ozymandias",
+    },
+  ],
   publishedAt: "2025-09-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

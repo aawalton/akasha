@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0734ChapterThirteenInterlopingIsMyPass
   position: 734,
   ownLength: 1521,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3072150/chapter-thirteen-interloping-is-my-passion",
-  externalId: "3072150",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3072150",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3072150/chapter-thirteen-interloping-is-my-passion",
+    },
+  ],
   publishedAt: "2026-02-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

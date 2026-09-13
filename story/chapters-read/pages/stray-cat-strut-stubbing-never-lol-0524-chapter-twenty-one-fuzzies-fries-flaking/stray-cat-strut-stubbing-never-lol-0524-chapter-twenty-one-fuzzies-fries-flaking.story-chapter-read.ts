@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0524ChapterTwentyOneFuzziesFriesFlakin
   position: 524,
   ownLength: 1447,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1620358/chapter-twenty-one-fuzzies-fries-flaking",
-  externalId: "1620358",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1620358",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1620358/chapter-twenty-one-fuzzies-fries-flaking",
+    },
+  ],
   publishedAt: "2024-05-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

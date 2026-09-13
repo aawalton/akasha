@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0648ChapterThirtyOneAntiVampireMeasure
   position: 648,
   ownLength: 1527,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2231809/chapter-thirty-one-anti-vampire-measures",
-  externalId: "2231809",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2231809",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2231809/chapter-thirty-one-anti-vampire-measures",
+    },
+  ],
   publishedAt: "2025-04-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

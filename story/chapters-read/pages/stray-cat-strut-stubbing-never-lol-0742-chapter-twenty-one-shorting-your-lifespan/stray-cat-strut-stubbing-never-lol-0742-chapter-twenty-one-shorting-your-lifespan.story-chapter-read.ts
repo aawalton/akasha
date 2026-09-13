@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0742ChapterTwentyOneShortingYourLifesp
   position: 742,
   ownLength: 1473,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3248676/chapter-twenty-one-shorting-your-lifespan",
-  externalId: "3248676",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3248676",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3248676/chapter-twenty-one-shorting-your-lifespan",
+    },
+  ],
   publishedAt: "2026-04-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

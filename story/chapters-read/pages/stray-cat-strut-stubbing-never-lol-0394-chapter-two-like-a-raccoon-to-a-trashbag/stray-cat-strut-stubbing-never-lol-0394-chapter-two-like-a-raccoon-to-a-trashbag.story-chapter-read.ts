@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0394ChapterTwoLikeARaccoonToATrashbag 
   position: 394,
   ownLength: 1580,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1224750/chapter-two-like-a-raccoon-to-a-trashbag",
-  externalId: "1224750",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1224750",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1224750/chapter-two-like-a-raccoon-to-a-trashbag",
+    },
+  ],
   publishedAt: "2023-05-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

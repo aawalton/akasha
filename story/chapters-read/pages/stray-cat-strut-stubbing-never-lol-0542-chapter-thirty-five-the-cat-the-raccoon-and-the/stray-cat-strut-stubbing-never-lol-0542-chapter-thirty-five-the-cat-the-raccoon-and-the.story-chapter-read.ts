@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0542ChapterThirtyFiveTheCatTheRaccoonA
   position: 542,
   ownLength: 1402,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1685659/chapter-thirty-five-the-cat-the-raccoon-and-the",
-  externalId: "1685659",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1685659",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1685659/chapter-thirty-five-the-cat-the-raccoon-and-the",
+    },
+  ],
   publishedAt: "2024-06-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0627ChapterElevenADuelAtDawn = {
   position: 627,
   ownLength: 1548,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2093788/chapter-eleven-a-duel-at-dawn",
-  externalId: "2093788",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2093788",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2093788/chapter-eleven-a-duel-at-dawn",
+    },
+  ],
   publishedAt: "2025-02-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

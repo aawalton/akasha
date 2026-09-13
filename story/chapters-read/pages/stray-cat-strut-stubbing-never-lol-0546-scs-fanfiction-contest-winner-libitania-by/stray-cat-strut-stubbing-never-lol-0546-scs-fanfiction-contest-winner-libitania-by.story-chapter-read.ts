@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0546ScsFanfictionContestWinnerLibitani
   position: 546,
   ownLength: 1740,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1701643/scs-fanfiction-contest-winner-libitania-by-niamescrawls",
-  externalId: "1701643",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1701643",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1701643/scs-fanfiction-contest-winner-libitania-by-niamescrawls",
+    },
+  ],
   publishedAt: "2024-07-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

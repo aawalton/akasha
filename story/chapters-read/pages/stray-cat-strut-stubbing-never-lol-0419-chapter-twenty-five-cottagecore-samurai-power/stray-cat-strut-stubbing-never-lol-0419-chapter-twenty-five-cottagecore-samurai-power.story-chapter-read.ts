@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0419ChapterTwentyFiveCottagecoreSamura
   position: 419,
   ownLength: 1497,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1328152/chapter-twenty-five-cottagecore-samurai-power-couple",
-  externalId: "1328152",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1328152",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1328152/chapter-twenty-five-cottagecore-samurai-power-couple",
+    },
+  ],
   publishedAt: "2023-08-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

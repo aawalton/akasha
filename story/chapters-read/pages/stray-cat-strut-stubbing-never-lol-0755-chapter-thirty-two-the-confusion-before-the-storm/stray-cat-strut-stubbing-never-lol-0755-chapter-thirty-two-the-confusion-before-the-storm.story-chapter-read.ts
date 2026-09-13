@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0755ChapterThirtyTwoTheConfusionBefore
   position: 755,
   ownLength: 1558,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3451671/chapter-thirty-two-the-confusion-before-the-storm",
-  externalId: "3451671",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3451671",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3451671/chapter-thirty-two-the-confusion-before-the-storm",
+    },
+  ],
   publishedAt: "2026-05-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

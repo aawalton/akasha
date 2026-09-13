@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0479ChapterSixtyHowToSkinACat = {
   position: 479,
   ownLength: 1479,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1471237/chapter-sixty-how-to-skin-a-cat",
-  externalId: "1471237",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1471237",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1471237/chapter-sixty-how-to-skin-a-cat",
+    },
+  ],
   publishedAt: "2024-01-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0628ChapterTwelveSurvival101DontBeWeak
   position: 628,
   ownLength: 1442,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2103982/chapter-twelve-survival-101-dont-be-weak",
-  externalId: "2103982",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2103982",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2103982/chapter-twelve-survival-101-dont-be-weak",
+    },
+  ],
   publishedAt: "2025-03-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

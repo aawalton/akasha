@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0517ChapterSeventeenLocalSortsOfProble
   position: 517,
   ownLength: 1459,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1601497/chapter-seventeen-local-sorts-of-problems",
-  externalId: "1601497",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1601497",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1601497/chapter-seventeen-local-sorts-of-problems",
+    },
+  ],
   publishedAt: "2024-04-18",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0405ChapterElevenSmilingFaces = {
   position: 405,
   ownLength: 1456,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1276276/chapter-eleven-smiling-faces",
-  externalId: "1276276",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1276276",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1276276/chapter-eleven-smiling-faces",
+    },
+  ],
   publishedAt: "2023-07-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

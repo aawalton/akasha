@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0651ChapterThirtyThreeOhMyGodNya = {
   position: 651,
   ownLength: 1526,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2257913/chapter-thirty-three-oh-my-god-nya",
-  externalId: "2257913",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2257913",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2257913/chapter-thirty-three-oh-my-god-nya",
+    },
+  ],
   publishedAt: "2025-05-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

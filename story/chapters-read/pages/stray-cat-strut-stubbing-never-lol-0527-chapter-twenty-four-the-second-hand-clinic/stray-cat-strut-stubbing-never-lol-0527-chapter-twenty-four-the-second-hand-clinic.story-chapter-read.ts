@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0527ChapterTwentyFourTheSecondHandClin
   position: 527,
   ownLength: 1495,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1635797/chapter-twenty-four-the-second-hand-clinic",
-  externalId: "1635797",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1635797",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1635797/chapter-twenty-four-the-second-hand-clinic",
+    },
+  ],
   publishedAt: "2024-05-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

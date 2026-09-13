@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0654HopepunkUpdate = {
   position: 654,
   ownLength: 152,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2267621/hopepunk-update",
-  externalId: "2267621",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2267621",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2267621/hopepunk-update",
+    },
+  ],
   publishedAt: "2025-05-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0426ChapterThirtyCatNapMishap = {
   position: 426,
   ownLength: 1468,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1350394/chapter-thirty-cat-nap-mishap",
-  externalId: "1350394",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1350394",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1350394/chapter-thirty-cat-nap-mishap",
+    },
+  ],
   publishedAt: "2023-09-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

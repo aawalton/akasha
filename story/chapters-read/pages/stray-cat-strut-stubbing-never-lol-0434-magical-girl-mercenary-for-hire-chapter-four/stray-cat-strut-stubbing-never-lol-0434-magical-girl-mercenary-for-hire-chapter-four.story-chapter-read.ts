@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0434MagicalGirlMercenaryForHireChapter
   position: 434,
   ownLength: 1454,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1369995/magical-girl-mercenary-for-hire-chapter-four",
-  externalId: "1369995",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1369995",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1369995/magical-girl-mercenary-for-hire-chapter-four",
+    },
+  ],
   publishedAt: "2023-10-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

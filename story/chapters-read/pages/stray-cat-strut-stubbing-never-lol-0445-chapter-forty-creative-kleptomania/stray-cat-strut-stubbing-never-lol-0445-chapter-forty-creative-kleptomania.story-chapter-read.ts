@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0445ChapterFortyCreativeKleptomania = 
   position: 445,
   ownLength: 1468,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1394645/chapter-forty-creative-kleptomania",
-  externalId: "1394645",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1394645",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1394645/chapter-forty-creative-kleptomania",
+    },
+  ],
   publishedAt: "2023-11-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

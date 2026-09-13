@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0547ChapterThirtySixDiggyDiggyHole = {
   position: 547,
   ownLength: 1486,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1701648/chapter-thirty-six-diggy-diggy-hole",
-  externalId: "1701648",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1701648",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1701648/chapter-thirty-six-diggy-diggy-hole",
+    },
+  ],
   publishedAt: "2024-07-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0733ChapterTwelveBeLibreNotHappy = {
   position: 733,
   ownLength: 1465,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3064833/chapter-twelve-be-libre-not-happy",
-  externalId: "3064833",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3064833",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3064833/chapter-twelve-be-libre-not-happy",
+    },
+  ],
   publishedAt: "2026-02-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

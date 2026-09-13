@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0417ChapterTwentyThreeFreeAndCompulsor
   position: 417,
   ownLength: 1556,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1321039/chapter-twenty-three-free-and-compulsory",
-  externalId: "1321039",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1321039",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1321039/chapter-twenty-three-free-and-compulsory",
+    },
+  ],
   publishedAt: "2023-08-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

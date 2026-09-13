@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0650InterludeLucySchoolDaysPartThree =
   position: 650,
   ownLength: 1455,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2246122/interlude-lucy-school-days-part-three",
-  externalId: "2246122",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2246122",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2246122/interlude-lucy-school-days-part-three",
+    },
+  ],
   publishedAt: "2025-05-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

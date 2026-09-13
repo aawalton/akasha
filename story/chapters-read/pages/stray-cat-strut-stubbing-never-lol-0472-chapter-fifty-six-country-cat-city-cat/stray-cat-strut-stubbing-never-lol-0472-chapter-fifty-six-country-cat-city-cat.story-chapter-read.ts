@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0472ChapterFiftySixCountryCatCityCat =
   position: 472,
   ownLength: 1495,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1457875/chapter-fifty-six-country-cat-city-cat",
-  externalId: "1457875",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1457875",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1457875/chapter-fifty-six-country-cat-city-cat",
+    },
+  ],
   publishedAt: "2023-12-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0544NewsTheContestsGeneralCategoryWinn
   position: 544,
   ownLength: 538,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1701639/news-the-contests-general-category-winners-have",
-  externalId: "1701639",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1701639",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1701639/news-the-contests-general-category-winners-have",
+    },
+  ],
   publishedAt: "2024-07-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

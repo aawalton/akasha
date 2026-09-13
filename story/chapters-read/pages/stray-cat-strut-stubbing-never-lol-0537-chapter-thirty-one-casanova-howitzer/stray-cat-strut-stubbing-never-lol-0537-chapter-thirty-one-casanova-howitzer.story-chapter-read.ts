@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0537ChapterThirtyOneCasanovaHowitzer =
   position: 537,
   ownLength: 1500,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1666424/chapter-thirty-one-casanova-howitzer",
-  externalId: "1666424",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1666424",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1666424/chapter-thirty-one-casanova-howitzer",
+    },
+  ],
   publishedAt: "2024-06-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

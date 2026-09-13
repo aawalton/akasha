@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0529ChapterTwentyFiveHundredBurgersWit
   position: 529,
   ownLength: 1501,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1638624/chapter-twenty-five-hundred-burgers-with-fries",
-  externalId: "1638624",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1638624",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1638624/chapter-twenty-five-hundred-burgers-with-fries",
+    },
+  ],
   publishedAt: "2024-05-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

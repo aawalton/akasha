@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0427ChapterThirtyOneTheSkinnyLowdown =
   position: 427,
   ownLength: 1492,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1355151/chapter-thirty-one-the-skinny-lowdown",
-  externalId: "1355151",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1355151",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1355151/chapter-thirty-one-the-skinny-lowdown",
+    },
+  ],
   publishedAt: "2023-09-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

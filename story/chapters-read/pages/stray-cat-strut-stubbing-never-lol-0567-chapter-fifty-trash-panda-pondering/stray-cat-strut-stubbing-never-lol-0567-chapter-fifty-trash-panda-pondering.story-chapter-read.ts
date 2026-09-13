@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0567ChapterFiftyTrashPandaPondering = 
   position: 567,
   ownLength: 1434,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1777122/chapter-fifty-trash-panda-pondering",
-  externalId: "1777122",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1777122",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1777122/chapter-fifty-trash-panda-pondering",
+    },
+  ],
   publishedAt: "2024-08-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

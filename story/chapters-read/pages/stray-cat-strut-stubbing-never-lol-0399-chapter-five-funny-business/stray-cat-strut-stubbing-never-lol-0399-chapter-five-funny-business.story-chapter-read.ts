@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0399ChapterFiveFunnyBusiness = {
   position: 399,
   ownLength: 1527,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1244349/chapter-five-funny-business",
-  externalId: "1244349",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1244349",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1244349/chapter-five-funny-business",
+    },
+  ],
   publishedAt: "2023-06-13",
   prose: "txt",
 } as const satisfies StoryChapterRead

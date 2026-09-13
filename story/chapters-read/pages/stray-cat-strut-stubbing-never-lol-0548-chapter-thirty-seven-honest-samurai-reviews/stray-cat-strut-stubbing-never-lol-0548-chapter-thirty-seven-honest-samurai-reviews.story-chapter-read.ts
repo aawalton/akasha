@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0548ChapterThirtySevenHonestSamuraiRev
   position: 548,
   ownLength: 1492,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1705180/chapter-thirty-seven-honest-samurai-reviews",
-  externalId: "1705180",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1705180",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1705180/chapter-thirty-seven-honest-samurai-reviews",
+    },
+  ],
   publishedAt: "2024-07-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

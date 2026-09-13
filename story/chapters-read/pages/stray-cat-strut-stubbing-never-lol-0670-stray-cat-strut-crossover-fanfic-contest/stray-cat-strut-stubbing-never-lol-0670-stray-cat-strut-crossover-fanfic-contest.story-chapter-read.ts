@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0670StrayCatStrutCrossoverFanficContes
   position: 670,
   ownLength: 236,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2401308/stray-cat-strut-crossover-fanfic-contest",
-  externalId: "2401308",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2401308",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2401308/stray-cat-strut-crossover-fanfic-contest",
+    },
+  ],
   publishedAt: "2025-07-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

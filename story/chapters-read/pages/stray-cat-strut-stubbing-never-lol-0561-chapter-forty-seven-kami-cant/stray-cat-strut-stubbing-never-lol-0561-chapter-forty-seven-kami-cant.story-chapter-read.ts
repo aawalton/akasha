@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0561ChapterFortySevenKamiCant = {
   position: 561,
   ownLength: 1492,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1749664/chapter-forty-seven-kami-cant",
-  externalId: "1749664",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1749664",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1749664/chapter-forty-seven-kami-cant",
+    },
+  ],
   publishedAt: "2024-08-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

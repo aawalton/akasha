@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0592ChapterSeventyOneSheWithoutSinDrop
   position: 592,
   ownLength: 1615,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1903734/chapter-seventy-one-she-without-sin-drops-the",
-  externalId: "1903734",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1903734",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1903734/chapter-seventy-one-she-without-sin-drops-the",
+    },
+  ],
   publishedAt: "2024-11-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

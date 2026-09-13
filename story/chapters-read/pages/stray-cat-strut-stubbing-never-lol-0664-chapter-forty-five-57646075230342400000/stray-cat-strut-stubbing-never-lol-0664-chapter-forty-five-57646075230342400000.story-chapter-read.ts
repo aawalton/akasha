@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0664ChapterFortyFive576460752303424000
   position: 664,
   ownLength: 1626,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2350341/chapter-forty-five-57646075230342400000",
-  externalId: "2350341",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2350341",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2350341/chapter-forty-five-57646075230342400000",
+    },
+  ],
   publishedAt: "2025-06-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

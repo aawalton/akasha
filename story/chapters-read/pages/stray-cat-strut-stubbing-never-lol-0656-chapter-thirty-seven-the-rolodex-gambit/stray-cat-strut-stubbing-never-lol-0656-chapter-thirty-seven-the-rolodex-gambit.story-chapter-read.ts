@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0656ChapterThirtySevenTheRolodexGambit
   position: 656,
   ownLength: 1494,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2282095/chapter-thirty-seven-the-rolodex-gambit",
-  externalId: "2282095",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2282095",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2282095/chapter-thirty-seven-the-rolodex-gambit",
+    },
+  ],
   publishedAt: "2025-05-15",
   prose: "txt",
 } as const satisfies StoryChapterRead

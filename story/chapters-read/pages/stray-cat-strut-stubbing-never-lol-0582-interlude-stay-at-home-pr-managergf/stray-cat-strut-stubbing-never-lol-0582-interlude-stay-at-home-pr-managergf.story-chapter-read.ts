@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0582InterludeStayAtHomePrManagergf = {
   position: 582,
   ownLength: 1448,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1845621/interlude-stay-at-home-pr-managergf",
-  externalId: "1845621",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1845621",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1845621/interlude-stay-at-home-pr-managergf",
+    },
+  ],
   publishedAt: "2024-10-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

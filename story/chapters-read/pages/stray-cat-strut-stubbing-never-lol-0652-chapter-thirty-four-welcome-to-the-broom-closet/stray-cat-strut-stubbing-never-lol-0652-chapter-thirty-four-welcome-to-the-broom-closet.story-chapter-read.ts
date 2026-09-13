@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0652ChapterThirtyFourWelcomeToTheBroom
   position: 652,
   ownLength: 1488,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2261912/chapter-thirty-four-welcome-to-the-broom-closet",
-  externalId: "2261912",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2261912",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2261912/chapter-thirty-four-welcome-to-the-broom-closet",
+    },
+  ],
   publishedAt: "2025-05-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

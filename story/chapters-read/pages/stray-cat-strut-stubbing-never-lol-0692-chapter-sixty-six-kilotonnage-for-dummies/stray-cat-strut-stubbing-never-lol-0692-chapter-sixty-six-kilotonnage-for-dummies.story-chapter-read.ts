@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0692ChapterSixtySixKilotonnageForDummi
   position: 692,
   ownLength: 1579,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2560033/chapter-sixty-six-kilotonnage-for-dummies",
-  externalId: "2560033",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2560033",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2560033/chapter-sixty-six-kilotonnage-for-dummies",
+    },
+  ],
   publishedAt: "2025-08-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

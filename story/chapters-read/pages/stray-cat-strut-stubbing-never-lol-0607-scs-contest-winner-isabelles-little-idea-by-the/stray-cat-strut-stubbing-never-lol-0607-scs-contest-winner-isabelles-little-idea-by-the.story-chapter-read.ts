@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0607ScsContestWinnerIsabellesLittleIde
   position: 607,
   ownLength: 1317,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1980892/scs-contest-winner-isabelles-little-idea-by-the",
-  externalId: "1980892",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1980892",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1980892/scs-contest-winner-isabelles-little-idea-by-the",
+    },
+  ],
   publishedAt: "2024-12-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0549ChapterThirtyEightEggsBurnySideUp 
   position: 549,
   ownLength: 1531,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1711247/chapter-thirty-eight-eggs-burny-side-up",
-  externalId: "1711247",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1711247",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1711247/chapter-thirty-eight-eggs-burny-side-up",
+    },
+  ],
   publishedAt: "2024-07-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

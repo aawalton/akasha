@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0475ChapterFiftyEightBurnSilentIntoTha
   position: 475,
   ownLength: 1438,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1465178/chapter-fifty-eight-burn-silent-into-that-good",
-  externalId: "1465178",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1465178",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1465178/chapter-fifty-eight-burn-silent-into-that-good",
+    },
+  ],
   publishedAt: "2024-01-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

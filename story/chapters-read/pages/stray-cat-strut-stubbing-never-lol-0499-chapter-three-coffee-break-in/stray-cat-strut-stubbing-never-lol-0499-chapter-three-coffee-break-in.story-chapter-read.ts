@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0499ChapterThreeCoffeeBreakIn = {
   position: 499,
   ownLength: 1516,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1534117/chapter-three-coffee-break-in",
-  externalId: "1534117",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1534117",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1534117/chapter-three-coffee-break-in",
+    },
+  ],
   publishedAt: "2024-02-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

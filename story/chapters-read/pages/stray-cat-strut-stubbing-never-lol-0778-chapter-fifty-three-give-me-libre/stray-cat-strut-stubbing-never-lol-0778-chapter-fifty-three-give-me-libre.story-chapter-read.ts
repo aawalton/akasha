@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0778ChapterFiftyThreeGiveMeLibre = {
   position: 778,
   ownLength: 1465,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3900831/chapter-fifty-three-give-me-libre",
-  externalId: "3900831",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3900831",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3900831/chapter-fifty-three-give-me-libre",
+    },
+  ],
   publishedAt: "2026-09-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

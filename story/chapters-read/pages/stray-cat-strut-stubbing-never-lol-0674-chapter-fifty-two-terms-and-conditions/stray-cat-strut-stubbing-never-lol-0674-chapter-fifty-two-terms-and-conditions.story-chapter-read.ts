@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0674ChapterFiftyTwoTermsAndConditions 
   position: 674,
   ownLength: 1630,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2424022/chapter-fifty-two-terms-and-conditions",
-  externalId: "2424022",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2424022",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2424022/chapter-fifty-two-terms-and-conditions",
+    },
+  ],
   publishedAt: "2025-07-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

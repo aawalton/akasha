@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0518ChapterEighteenBetterThanSomeWorse
   position: 518,
   ownLength: 1514,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1607681/chapter-eighteen-better-than-some-worse-than-most",
-  externalId: "1607681",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1607681",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1607681/chapter-eighteen-better-than-some-worse-than-most",
+    },
+  ],
   publishedAt: "2024-04-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

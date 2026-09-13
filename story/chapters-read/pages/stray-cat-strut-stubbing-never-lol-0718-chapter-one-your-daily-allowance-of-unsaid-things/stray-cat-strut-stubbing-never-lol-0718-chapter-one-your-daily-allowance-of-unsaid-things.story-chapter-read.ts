@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0718ChapterOneYourDailyAllowanceOfUnsa
   position: 718,
   ownLength: 1498,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2796508/chapter-one-your-daily-allowance-of-unsaid-things",
-  externalId: "2796508",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2796508",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2796508/chapter-one-your-daily-allowance-of-unsaid-things",
+    },
+  ],
   publishedAt: "2025-11-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

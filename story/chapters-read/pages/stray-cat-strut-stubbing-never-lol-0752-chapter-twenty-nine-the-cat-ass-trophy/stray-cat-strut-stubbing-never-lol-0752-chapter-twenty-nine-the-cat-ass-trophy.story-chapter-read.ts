@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0752ChapterTwentyNineTheCatAssTrophy =
   position: 752,
   ownLength: 1590,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3396746/chapter-twenty-nine-the-cat-ass-trophy",
-  externalId: "3396746",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3396746",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3396746/chapter-twenty-nine-the-cat-ass-trophy",
+    },
+  ],
   publishedAt: "2026-05-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0471ChapterFiftyFiveIMeantToDoThat = {
   position: 471,
   ownLength: 1437,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1455736/chapter-fifty-five-i-meant-to-do-that",
-  externalId: "1455736",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1455736",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1455736/chapter-fifty-five-i-meant-to-do-that",
+    },
+  ],
   publishedAt: "2023-12-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

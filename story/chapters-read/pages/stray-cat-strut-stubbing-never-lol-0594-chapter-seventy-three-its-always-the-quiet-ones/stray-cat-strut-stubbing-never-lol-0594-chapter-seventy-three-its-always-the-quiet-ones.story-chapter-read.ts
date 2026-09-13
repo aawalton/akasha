@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0594ChapterSeventyThreeItsAlwaysTheQui
   position: 594,
   ownLength: 1492,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1916678/chapter-seventy-three-its-always-the-quiet-ones",
-  externalId: "1916678",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1916678",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1916678/chapter-seventy-three-its-always-the-quiet-ones",
+    },
+  ],
   publishedAt: "2024-11-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

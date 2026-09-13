@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0397ChapterThreeStrangeAnimals = {
   position: 397,
   ownLength: 1634,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1237460/chapter-three-strange-animals",
-  externalId: "1237460",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1237460",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1237460/chapter-three-strange-animals",
+    },
+  ],
   publishedAt: "2023-06-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

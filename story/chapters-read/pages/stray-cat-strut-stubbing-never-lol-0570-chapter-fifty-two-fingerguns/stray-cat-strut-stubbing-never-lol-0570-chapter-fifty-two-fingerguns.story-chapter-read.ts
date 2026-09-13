@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0570ChapterFiftyTwoFingerguns = {
   position: 570,
   ownLength: 1481,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1786981/chapter-fifty-two-fingerguns",
-  externalId: "1786981",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1786981",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1786981/chapter-fifty-two-fingerguns",
+    },
+  ],
   publishedAt: "2024-09-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

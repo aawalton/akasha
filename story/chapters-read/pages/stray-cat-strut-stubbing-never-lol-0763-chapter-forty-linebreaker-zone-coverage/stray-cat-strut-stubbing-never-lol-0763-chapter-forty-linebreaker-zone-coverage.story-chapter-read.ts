@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0763ChapterFortyLinebreakerZoneCoverag
   position: 763,
   ownLength: 1546,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3559569/chapter-forty-linebreaker-zone-coverage",
-  externalId: "3559569",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3559569",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3559569/chapter-forty-linebreaker-zone-coverage",
+    },
+  ],
   publishedAt: "2026-06-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

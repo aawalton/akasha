@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0761ChapterThirtyEightDroneOn = {
   position: 761,
   ownLength: 1524,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3526250/chapter-thirty-eight-drone-on",
-  externalId: "3526250",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3526250",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3526250/chapter-thirty-eight-drone-on",
+    },
+  ],
   publishedAt: "2026-06-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

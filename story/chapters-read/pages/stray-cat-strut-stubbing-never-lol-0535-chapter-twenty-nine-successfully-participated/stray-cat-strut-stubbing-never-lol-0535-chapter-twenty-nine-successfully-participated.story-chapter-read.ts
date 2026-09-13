@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0535ChapterTwentyNineSuccessfullyParti
   position: 535,
   ownLength: 1442,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1657314/chapter-twenty-nine-successfully-participated",
-  externalId: "1657314",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1657314",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1657314/chapter-twenty-nine-successfully-participated",
+    },
+  ],
   publishedAt: "2024-05-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

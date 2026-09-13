@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0551ChapterFortyRaceMeToTheMoon = {
   position: 551,
   ownLength: 1498,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1720403/chapter-forty-race-me-to-the-moon",
-  externalId: "1720403",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1720403",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1720403/chapter-forty-race-me-to-the-moon",
+    },
+  ],
   publishedAt: "2024-07-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

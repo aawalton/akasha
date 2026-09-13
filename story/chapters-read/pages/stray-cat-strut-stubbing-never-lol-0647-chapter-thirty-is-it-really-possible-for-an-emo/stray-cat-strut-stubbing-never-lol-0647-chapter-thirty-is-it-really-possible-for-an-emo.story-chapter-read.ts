@@ -10,10 +10,14 @@ export const strayCatStrutStubbingNeverLol0647ChapterThirtyIsItReallyPossibleFor
   position: 647,
   ownLength: 1538,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2226276/chapter-thirty-is-it-really-possible-for-an-emo",
-  externalId: "2226276",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2226276",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2226276/chapter-thirty-is-it-really-possible-for-an-emo",
+    },
+  ],
   publishedAt: "2025-04-24",
   prose: "txt",
 } as const satisfies StoryChapterRead

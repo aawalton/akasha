@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0382ChapterSixtyThreeMechcatularNyanze
   position: 382,
   ownLength: 1615,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1192786/chapter-sixty-three-mechcatular-nyanzerfaust-activate",
-  externalId: "1192786",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1192786",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1192786/chapter-sixty-three-mechcatular-nyanzerfaust-activate",
+    },
+  ],
   publishedAt: "2023-04-25",
   prose: "txt",
 } as const satisfies StoryChapterRead

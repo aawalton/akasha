@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0721ChapterFourYouCanLieOnAReportButRe
   position: 721,
   ownLength: 1533,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2856330/chapter-four-you-can-lie-on-a-report-but-reports",
-  externalId: "2856330",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2856330",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2856330/chapter-four-you-can-lie-on-a-report-but-reports",
+    },
+  ],
   publishedAt: "2025-12-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

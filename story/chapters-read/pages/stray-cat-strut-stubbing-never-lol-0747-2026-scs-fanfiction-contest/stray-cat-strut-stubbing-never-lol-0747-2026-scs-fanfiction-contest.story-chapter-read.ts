@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol07472026ScsFanfictionContest = {
   position: 747,
   ownLength: 473,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3343094/2026-scs-fanfiction-contest",
-  externalId: "3343094",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3343094",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3343094/2026-scs-fanfiction-contest",
+    },
+  ],
   publishedAt: "2026-05-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

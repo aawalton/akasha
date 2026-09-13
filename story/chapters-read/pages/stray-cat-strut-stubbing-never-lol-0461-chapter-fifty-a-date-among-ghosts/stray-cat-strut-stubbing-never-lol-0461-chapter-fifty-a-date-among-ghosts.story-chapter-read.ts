@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0461ChapterFiftyADateAmongGhosts = {
   position: 461,
   ownLength: 1488,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1435742/chapter-fifty-a-date-among-ghosts",
-  externalId: "1435742",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1435742",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1435742/chapter-fifty-a-date-among-ghosts",
+    },
+  ],
   publishedAt: "2023-12-07",
   prose: "txt",
 } as const satisfies StoryChapterRead

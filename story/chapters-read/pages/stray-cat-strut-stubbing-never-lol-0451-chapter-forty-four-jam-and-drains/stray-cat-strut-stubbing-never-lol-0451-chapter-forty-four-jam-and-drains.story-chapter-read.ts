@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0451ChapterFortyFourJamAndDrains = {
   position: 451,
   ownLength: 1557,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1412189/chapter-forty-four-jam-and-drains",
-  externalId: "1412189",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1412189",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1412189/chapter-forty-four-jam-and-drains",
+    },
+  ],
   publishedAt: "2023-11-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

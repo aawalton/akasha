@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0767ChapterFortyFourCatsAndWater = {
   position: 767,
   ownLength: 1465,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3624794/chapter-forty-four-cats-and-water",
-  externalId: "3624794",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3624794",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3624794/chapter-forty-four-cats-and-water",
+    },
+  ],
   publishedAt: "2026-07-03",
   prose: "txt",
 } as const satisfies StoryChapterRead

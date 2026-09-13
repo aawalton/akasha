@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0587ScsHalloweenSpecial = {
   position: 587,
   ownLength: 1476,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1876901/scs-halloween-special",
-  externalId: "1876901",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1876901",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1876901/scs-halloween-special",
+    },
+  ],
   publishedAt: "2024-10-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

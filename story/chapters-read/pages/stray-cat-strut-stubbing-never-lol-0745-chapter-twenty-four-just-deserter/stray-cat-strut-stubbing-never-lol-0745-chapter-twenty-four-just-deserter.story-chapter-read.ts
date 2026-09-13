@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0745ChapterTwentyFourJustDeserter = {
   position: 745,
   ownLength: 1515,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3305654/chapter-twenty-four-just-deserter",
-  externalId: "3305654",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3305654",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3305654/chapter-twenty-four-just-deserter",
+    },
+  ],
   publishedAt: "2026-04-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

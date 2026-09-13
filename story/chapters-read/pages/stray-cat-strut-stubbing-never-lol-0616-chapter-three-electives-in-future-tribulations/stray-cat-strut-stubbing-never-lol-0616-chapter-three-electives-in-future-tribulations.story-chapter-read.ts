@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0616ChapterThreeElectivesInFutureTribu
   position: 616,
   ownLength: 1478,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2026502/chapter-three-electives-in-future-tribulations",
-  externalId: "2026502",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2026502",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2026502/chapter-three-electives-in-future-tribulations",
+    },
+  ],
   publishedAt: "2025-01-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0766ChapterFortyThreeHammerAndAnvil = 
   position: 766,
   ownLength: 1529,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3614183/chapter-forty-three-hammer-and-anvil",
-  externalId: "3614183",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3614183",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3614183/chapter-forty-three-hammer-and-anvil",
+    },
+  ],
   publishedAt: "2026-06-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

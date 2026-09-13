@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0634ChapterEighteenHowWillYouWipeTomor
   position: 634,
   ownLength: 1508,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2139343/chapter-eighteen-how-will-you-wipe-tomorrow",
-  externalId: "2139343",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2139343",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2139343/chapter-eighteen-how-will-you-wipe-tomorrow",
+    },
+  ],
   publishedAt: "2025-03-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

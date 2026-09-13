@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0588ChapterSixtySevenTheQuicheOfCommit
   position: 588,
   ownLength: 1769,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1878687/chapter-sixty-seven-the-quiche-of-commitment",
-  externalId: "1878687",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1878687",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1878687/chapter-sixty-seven-the-quiche-of-commitment",
+    },
+  ],
   publishedAt: "2024-11-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

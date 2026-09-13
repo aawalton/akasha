@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0704ChapterSeventySixMaximumClonage = 
   position: 704,
   ownLength: 1481,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2646545/chapter-seventy-six-maximum-clonage",
-  externalId: "2646545",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2646545",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2646545/chapter-seventy-six-maximum-clonage",
+    },
+  ],
   publishedAt: "2025-10-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

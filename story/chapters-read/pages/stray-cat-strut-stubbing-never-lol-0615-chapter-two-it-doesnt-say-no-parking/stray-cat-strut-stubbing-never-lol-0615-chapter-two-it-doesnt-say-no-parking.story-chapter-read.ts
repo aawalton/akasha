@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0615ChapterTwoItDoesntSayNoParking = {
   position: 615,
   ownLength: 1520,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2022409/chapter-two-it-doesnt-say-no-parking",
-  externalId: "2022409",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2022409",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2022409/chapter-two-it-doesnt-say-no-parking",
+    },
+  ],
   publishedAt: "2025-01-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

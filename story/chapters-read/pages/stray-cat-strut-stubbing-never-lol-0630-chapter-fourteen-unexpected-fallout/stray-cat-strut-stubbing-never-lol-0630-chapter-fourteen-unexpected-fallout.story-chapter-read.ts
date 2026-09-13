@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0630ChapterFourteenUnexpectedFallout =
   position: 630,
   ownLength: 1591,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2108563/chapter-fourteen-unexpected-fallout",
-  externalId: "2108563",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2108563",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2108563/chapter-fourteen-unexpected-fallout",
+    },
+  ],
   publishedAt: "2025-03-06",
   prose: "txt",
 } as const satisfies StoryChapterRead

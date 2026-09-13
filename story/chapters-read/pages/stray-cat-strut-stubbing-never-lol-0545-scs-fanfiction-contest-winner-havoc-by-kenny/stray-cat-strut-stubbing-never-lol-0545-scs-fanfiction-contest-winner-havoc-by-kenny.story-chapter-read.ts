@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0545ScsFanfictionContestWinnerHavocByK
   position: 545,
   ownLength: 4266,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1701640/scs-fanfiction-contest-winner-havoc-by-kenny-celican",
-  externalId: "1701640",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1701640",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1701640/scs-fanfiction-contest-winner-havoc-by-kenny-celican",
+    },
+  ],
   publishedAt: "2024-07-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

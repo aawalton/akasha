@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0595ChapterSeventyFourIHaveTheShyGroun
   position: 595,
   ownLength: 1479,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1926056/chapter-seventy-four-i-have-the-shy-ground",
-  externalId: "1926056",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1926056",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1926056/chapter-seventy-four-i-have-the-shy-ground",
+    },
+  ],
   publishedAt: "2024-11-26",
   prose: "txt",
 } as const satisfies StoryChapterRead

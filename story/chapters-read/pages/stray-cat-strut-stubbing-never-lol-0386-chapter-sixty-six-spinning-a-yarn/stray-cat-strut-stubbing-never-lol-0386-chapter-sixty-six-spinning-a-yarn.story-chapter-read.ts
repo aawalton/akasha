@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0386ChapterSixtySixSpinningAYarn = {
   position: 386,
   ownLength: 1543,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1199987/chapter-sixty-six-spinning-a-yarn",
-  externalId: "1199987",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1199987",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1199987/chapter-sixty-six-spinning-a-yarn",
+    },
+  ],
   publishedAt: "2023-05-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

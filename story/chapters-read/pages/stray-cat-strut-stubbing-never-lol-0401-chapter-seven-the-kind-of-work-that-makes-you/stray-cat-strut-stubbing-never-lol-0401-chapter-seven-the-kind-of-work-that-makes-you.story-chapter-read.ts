@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0401ChapterSevenTheKindOfWorkThatMakes
   position: 401,
   ownLength: 1466,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1252574/chapter-seven-the-kind-of-work-that-makes-you",
-  externalId: "1252574",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1252574",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1252574/chapter-seven-the-kind-of-work-that-makes-you",
+    },
+  ],
   publishedAt: "2023-06-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

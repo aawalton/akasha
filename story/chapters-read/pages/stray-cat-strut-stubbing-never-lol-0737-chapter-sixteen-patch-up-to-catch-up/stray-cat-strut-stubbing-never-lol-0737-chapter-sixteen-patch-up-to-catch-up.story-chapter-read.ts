@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0737ChapterSixteenPatchUpToCatchUp = {
   position: 737,
   ownLength: 1669,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3140432/chapter-sixteen-patch-up-to-catch-up",
-  externalId: "3140432",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3140432",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3140432/chapter-sixteen-patch-up-to-catch-up",
+    },
+  ],
   publishedAt: "2026-03-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

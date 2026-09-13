@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0730ChapterElevenPaintItBlack = {
   position: 730,
   ownLength: 1408,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3036972/chapter-eleven-paint-it-black",
-  externalId: "3036972",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3036972",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3036972/chapter-eleven-paint-it-black",
+    },
+  ],
   publishedAt: "2026-02-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

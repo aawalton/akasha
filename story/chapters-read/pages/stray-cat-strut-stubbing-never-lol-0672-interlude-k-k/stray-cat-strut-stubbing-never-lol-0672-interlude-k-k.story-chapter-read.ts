@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0672InterludeKK = {
   position: 672,
   ownLength: 1495,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2418665/interlude-k-k",
-  externalId: "2418665",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2418665",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2418665/interlude-k-k",
+    },
+  ],
   publishedAt: "2025-07-08",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0713ChapterEightyThreeNotABadDay = {
   position: 713,
   ownLength: 1591,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2714441/chapter-eighty-three-not-a-bad-day",
-  externalId: "2714441",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2714441",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2714441/chapter-eighty-three-not-a-bad-day",
+    },
+  ],
   publishedAt: "2025-10-29",
   prose: "txt",
 } as const satisfies StoryChapterRead

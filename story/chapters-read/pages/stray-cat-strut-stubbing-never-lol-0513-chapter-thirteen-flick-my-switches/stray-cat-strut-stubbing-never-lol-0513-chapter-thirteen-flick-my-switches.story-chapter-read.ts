@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0513ChapterThirteenFlickMySwitches = {
   position: 513,
   ownLength: 1483,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1580570/chapter-thirteen-flick-my-switches",
-  externalId: "1580570",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1580570",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1580570/chapter-thirteen-flick-my-switches",
+    },
+  ],
   publishedAt: "2024-04-04",
   prose: "txt",
 } as const satisfies StoryChapterRead

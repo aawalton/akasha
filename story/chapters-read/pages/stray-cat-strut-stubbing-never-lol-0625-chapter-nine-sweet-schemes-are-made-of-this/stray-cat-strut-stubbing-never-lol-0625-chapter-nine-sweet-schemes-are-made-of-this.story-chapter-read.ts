@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0625ChapterNineSweetSchemesAreMadeOfTh
   position: 625,
   ownLength: 1451,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2079638/chapter-nine-sweet-schemes-are-made-of-this",
-  externalId: "2079638",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2079638",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2079638/chapter-nine-sweet-schemes-are-made-of-this",
+    },
+  ],
   publishedAt: "2025-02-20",
   prose: "txt",
 } as const satisfies StoryChapterRead

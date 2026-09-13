@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0391StrayCatStrutVolumeSixAYoungLadysG
   position: 391,
   ownLength: 155,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1216454/stray-cat-strut-volume-six-a-young-ladys-guide",
-  externalId: "1216454",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1216454",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1216454/stray-cat-strut-volume-six-a-young-ladys-guide",
+    },
+  ],
   publishedAt: "2023-05-17",
   prose: "txt",
 } as const satisfies StoryChapterRead

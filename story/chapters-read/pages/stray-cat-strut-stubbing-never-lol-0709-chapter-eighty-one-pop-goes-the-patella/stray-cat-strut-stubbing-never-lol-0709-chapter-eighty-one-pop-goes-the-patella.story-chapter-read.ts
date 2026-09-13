@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0709ChapterEightyOnePopGoesThePatella 
   position: 709,
   ownLength: 1564,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2681932/chapter-eighty-one-pop-goes-the-patella",
-  externalId: "2681932",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2681932",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2681932/chapter-eighty-one-pop-goes-the-patella",
+    },
+  ],
   publishedAt: "2025-10-16",
   prose: "txt",
 } as const satisfies StoryChapterRead

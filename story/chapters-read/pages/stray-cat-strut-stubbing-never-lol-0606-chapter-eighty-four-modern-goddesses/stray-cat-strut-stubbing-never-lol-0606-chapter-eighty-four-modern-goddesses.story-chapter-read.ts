@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0606ChapterEightyFourModernGoddesses =
   position: 606,
   ownLength: 1580,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1976710/chapter-eighty-four-modern-goddesses",
-  externalId: "1976710",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1976710",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1976710/chapter-eighty-four-modern-goddesses",
+    },
+  ],
   publishedAt: "2024-12-27",
   prose: "txt",
 } as const satisfies StoryChapterRead

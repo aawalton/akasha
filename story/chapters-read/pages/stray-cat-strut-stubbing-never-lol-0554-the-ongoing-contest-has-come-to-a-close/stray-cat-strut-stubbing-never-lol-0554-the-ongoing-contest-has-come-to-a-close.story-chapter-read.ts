@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0554TheOngoingContestHasComeToAClose =
   position: 554,
   ownLength: 362,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1729262/the-ongoing-contest-has-come-to-a-close",
-  externalId: "1729262",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1729262",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1729262/the-ongoing-contest-has-come-to-a-close",
+    },
+  ],
   publishedAt: "2024-07-23",
   prose: "txt",
 } as const satisfies StoryChapterRead

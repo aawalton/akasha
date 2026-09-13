@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0681ChapterFiftySevenBroadcastNecroman
   position: 681,
   ownLength: 1459,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2482250/chapter-fifty-seven-broadcast-necromancy",
-  externalId: "2482250",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2482250",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2482250/chapter-fifty-seven-broadcast-necromancy",
+    },
+  ],
   publishedAt: "2025-07-31",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0432ChapterThirtyFourSomethingsDirtyDo
   position: 432,
   ownLength: 1527,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1364730/chapter-thirty-four-somethings-dirty-down-in-cleantown",
-  externalId: "1364730",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1364730",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1364730/chapter-thirty-four-somethings-dirty-down-in-cleantown",
+    },
+  ],
   publishedAt: "2023-10-05",
   prose: "txt",
 } as const satisfies StoryChapterRead

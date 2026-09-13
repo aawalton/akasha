@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0710ChapterEightyTwoTalkingFashionObli
   position: 710,
   ownLength: 1482,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2697588/chapter-eighty-two-talking-fashion-obligatorily",
-  externalId: "2697588",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2697588",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2697588/chapter-eighty-two-talking-fashion-obligatorily",
+    },
+  ],
   publishedAt: "2025-10-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

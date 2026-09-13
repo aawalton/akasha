@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0507MyalisAtLargeNonCanonThinkPiece = 
   position: 507,
   ownLength: 906,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1564370/myalis-at-large-non-canon-think-piece",
-  externalId: "1564370",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1564370",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1564370/myalis-at-large-non-canon-think-piece",
+    },
+  ],
   publishedAt: "2024-03-22",
   prose: "txt",
 } as const satisfies StoryChapterRead

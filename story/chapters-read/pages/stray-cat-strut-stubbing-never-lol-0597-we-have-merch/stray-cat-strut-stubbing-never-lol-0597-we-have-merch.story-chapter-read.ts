@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0597WeHaveMerch = {
   position: 597,
   ownLength: 213,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1931389/we-have-merch",
-  externalId: "1931389",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1931389",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1931389/we-have-merch",
+    },
+  ],
   publishedAt: "2024-11-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

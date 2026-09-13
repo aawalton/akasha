@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0775ChapterFiftyOneOneDamThingAfterAno
   position: 775,
   ownLength: 1537,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3804571/chapter-fifty-one-one-dam-thing-after-another",
-  externalId: "3804571",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3804571",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3804571/chapter-fifty-one-one-dam-thing-after-another",
+    },
+  ],
   publishedAt: "2026-08-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0455ChapterFortySevenFelineFringe = {
   position: 455,
   ownLength: 1445,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1425493/chapter-forty-seven-feline-fringe",
-  externalId: "1425493",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1425493",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1425493/chapter-forty-seven-feline-fringe",
+    },
+  ],
   publishedAt: "2023-11-28",
   prose: "txt",
 } as const satisfies StoryChapterRead

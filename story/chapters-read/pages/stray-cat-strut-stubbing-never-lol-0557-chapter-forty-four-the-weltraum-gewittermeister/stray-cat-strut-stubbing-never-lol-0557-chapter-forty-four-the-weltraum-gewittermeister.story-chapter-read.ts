@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0557ChapterFortyFourTheWeltraumGewitte
   position: 557,
   ownLength: 1478,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1738319/chapter-forty-four-the-weltraum-gewittermeister",
-  externalId: "1738319",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1738319",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1738319/chapter-forty-four-the-weltraum-gewittermeister",
+    },
+  ],
   publishedAt: "2024-07-30",
   prose: "txt",
 } as const satisfies StoryChapterRead

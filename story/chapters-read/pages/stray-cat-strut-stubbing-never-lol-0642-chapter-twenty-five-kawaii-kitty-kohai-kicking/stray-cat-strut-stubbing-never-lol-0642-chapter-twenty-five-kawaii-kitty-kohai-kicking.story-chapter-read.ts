@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0642ChapterTwentyFiveKawaiiKittyKohaiK
   position: 642,
   ownLength: 1447,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2187291/chapter-twenty-five-kawaii-kitty-kohai-kicking",
-  externalId: "2187291",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2187291",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2187291/chapter-twenty-five-kawaii-kitty-kohai-kicking",
+    },
+  ],
   publishedAt: "2025-04-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

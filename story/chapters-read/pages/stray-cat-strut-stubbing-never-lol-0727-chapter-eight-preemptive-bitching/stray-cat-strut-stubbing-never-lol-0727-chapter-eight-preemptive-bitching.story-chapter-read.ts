@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0727ChapterEightPreemptiveBitching = {
   position: 727,
   ownLength: 1487,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2965282/chapter-eight-preemptive-bitching",
-  externalId: "2965282",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2965282",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2965282/chapter-eight-preemptive-bitching",
+    },
+  ],
   publishedAt: "2026-01-21",
   prose: "txt",
 } as const satisfies StoryChapterRead

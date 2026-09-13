@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0639ChapterTwentyTwoShyRiseLiving = {
   position: 639,
   ownLength: 1539,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2169084/chapter-twenty-two-shy-rise-living",
-  externalId: "2169084",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2169084",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2169084/chapter-twenty-two-shy-rise-living",
+    },
+  ],
   publishedAt: "2025-04-02",
   prose: "txt",
 } as const satisfies StoryChapterRead

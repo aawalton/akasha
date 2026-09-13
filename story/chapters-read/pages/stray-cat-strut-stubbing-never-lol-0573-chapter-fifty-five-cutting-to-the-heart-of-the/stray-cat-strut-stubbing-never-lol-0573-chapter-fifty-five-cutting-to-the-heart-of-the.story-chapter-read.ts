@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0573ChapterFiftyFiveCuttingToTheHeartO
   position: 573,
   ownLength: 1471,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1800408/chapter-fifty-five-cutting-to-the-heart-of-the",
-  externalId: "1800408",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1800408",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1800408/chapter-fifty-five-cutting-to-the-heart-of-the",
+    },
+  ],
   publishedAt: "2024-09-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

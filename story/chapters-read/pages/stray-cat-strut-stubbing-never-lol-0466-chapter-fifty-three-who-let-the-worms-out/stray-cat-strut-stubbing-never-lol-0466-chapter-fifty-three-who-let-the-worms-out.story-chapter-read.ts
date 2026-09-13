@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0466ChapterFiftyThreeWhoLetTheWormsOut
   position: 466,
   ownLength: 1507,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1447999/chapter-fifty-three-who-let-the-worms-out",
-  externalId: "1447999",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1447999",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1447999/chapter-fifty-three-who-let-the-worms-out",
+    },
+  ],
   publishedAt: "2023-12-19",
   prose: "txt",
 } as const satisfies StoryChapterRead

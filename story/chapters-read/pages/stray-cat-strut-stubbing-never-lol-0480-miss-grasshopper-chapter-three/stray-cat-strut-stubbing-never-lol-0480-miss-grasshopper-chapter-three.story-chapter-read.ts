@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0480MissGrasshopperChapterThree = {
   position: 480,
   ownLength: 1516,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1471593/miss-grasshopper-chapter-three",
-  externalId: "1471593",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1471593",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1471593/miss-grasshopper-chapter-three",
+    },
+  ],
   publishedAt: "2024-01-09",
   prose: "txt",
 } as const satisfies StoryChapterRead

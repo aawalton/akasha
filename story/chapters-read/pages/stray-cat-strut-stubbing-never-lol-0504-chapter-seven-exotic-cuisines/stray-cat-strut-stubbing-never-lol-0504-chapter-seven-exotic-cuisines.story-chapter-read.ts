@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0504ChapterSevenExoticCuisines = {
   position: 504,
   ownLength: 1439,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1551585/chapter-seven-exotic-cuisines",
-  externalId: "1551585",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1551585",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1551585/chapter-seven-exotic-cuisines",
+    },
+  ],
   publishedAt: "2024-03-12",
   prose: "txt",
 } as const satisfies StoryChapterRead

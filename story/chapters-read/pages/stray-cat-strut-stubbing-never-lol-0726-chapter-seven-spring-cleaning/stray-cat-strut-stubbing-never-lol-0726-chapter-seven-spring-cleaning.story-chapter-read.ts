@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0726ChapterSevenSpringCleaning = {
   position: 726,
   ownLength: 1522,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2942271/chapter-seven-spring-cleaning",
-  externalId: "2942271",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2942271",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2942271/chapter-seven-spring-cleaning",
+    },
+  ],
   publishedAt: "2026-01-14",
   prose: "txt",
 } as const satisfies StoryChapterRead

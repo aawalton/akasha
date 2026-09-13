@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0481ChapterSixtyOneWithGreatCatsComesG
   position: 481,
   ownLength: 1508,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1473566/chapter-sixty-one-with-great-cats-comes-great",
-  externalId: "1473566",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1473566",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1473566/chapter-sixty-one-with-great-cats-comes-great",
+    },
+  ],
   publishedAt: "2024-01-11",
   prose: "txt",
 } as const satisfies StoryChapterRead

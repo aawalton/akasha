@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0572ChapterFiftyFourBurnedscarredbutch
   position: 572,
   ownLength: 1542,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1797389/chapter-fifty-four-burnedscarredbutch-scary-and",
-  externalId: "1797389",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1797389",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1797389/chapter-fifty-four-burnedscarredbutch-scary-and",
+    },
+  ],
   publishedAt: "2024-09-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

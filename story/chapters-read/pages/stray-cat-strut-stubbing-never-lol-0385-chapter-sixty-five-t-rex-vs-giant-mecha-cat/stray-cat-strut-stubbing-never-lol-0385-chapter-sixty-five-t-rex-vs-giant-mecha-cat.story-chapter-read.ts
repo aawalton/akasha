@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0385ChapterSixtyFiveTRexVsGiantMechaCa
   position: 385,
   ownLength: 1473,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1198610/chapter-sixty-five-t-rex-vs-giant-mecha-cat",
-  externalId: "1198610",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1198610",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1198610/chapter-sixty-five-t-rex-vs-giant-mecha-cat",
+    },
+  ],
   publishedAt: "2023-05-01",
   prose: "txt",
 } as const satisfies StoryChapterRead

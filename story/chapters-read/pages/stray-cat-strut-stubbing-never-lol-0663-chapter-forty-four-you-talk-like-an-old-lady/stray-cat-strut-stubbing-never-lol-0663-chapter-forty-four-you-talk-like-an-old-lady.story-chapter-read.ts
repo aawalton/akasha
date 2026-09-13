@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0663ChapterFortyFourYouTalkLikeAnOldLa
   position: 663,
   ownLength: 1538,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2345076/chapter-forty-four-you-talk-like-an-old-lady",
-  externalId: "2345076",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2345076",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2345076/chapter-forty-four-you-talk-like-an-old-lady",
+    },
+  ],
   publishedAt: "2025-06-10",
   prose: "txt",
 } as const satisfies StoryChapterRead

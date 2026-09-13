@@ -9,10 +9,14 @@ export const strayCatStrutStubbingNeverLol0447SomnusDeusExChapterOne = {
   position: 447,
   ownLength: 1384,
   unit: "words",
-  source: "royal-road",
-  externalLink:
-    "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1400689/somnus-deus-ex-chapter-one",
-  externalId: "1400689",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1400689",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1400689/somnus-deus-ex-chapter-one",
+    },
+  ],
   publishedAt: "2023-11-08",
   prose: "txt",
 } as const satisfies StoryChapterRead
