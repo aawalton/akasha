@@ -1,4 +1,4 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
 import { COOLDOWN_SECONDS } from "akasha/infrastructure/services/modules/deploy-choosing/deploy-choosing.module.code.ts"
 import {
   afterIn,
@@ -9,6 +9,18 @@ import {
   pushedNowhere,
   type Subject,
 } from "akasha/infrastructure/services/modules/deploy-subject-listing/deploy-subject-listing.module.code.ts"
+import { valueAlsoFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+
+const SCRATCH = scratchWorld()
+
+afterAll(SCRATCH.sweep)
+
+const IOS_APP = "ios-app"
+
+const WAITING_PAGE = "akasha/held/held-waiting/held-waiting.ios-app.ts"
+
+const HURRIED_PAGE = "akasha/held/held-hurried/held-hurried.ios-app.ts"
 
 function subject(slug: string): Subject {
   return {
@@ -74,13 +86,19 @@ test("a page of any other kind is a subject whether or not it names a repository
   expect(pushedNowhere("eso-addon", null)).toBe(false)
 })
 
-test("every ios app is a subject named by its slug", () => {
-  const said = iosSubjects({
-    alanwalton: { pagePath: "alanwalton.ios-app.ts" },
-    aine: { pagePath: "aine.ios-app.ts" },
+test("every ios app is a subject named by its slug, waiting the cooldown its page states", () => {
+  const root = SCRATCH.rootFor("deploy-subjects-")
+  valueAlsoFiled(root, IOS_APP, [
+    { path: HURRIED_PAGE, value: { slug: "held-hurried" } },
+    { path: WAITING_PAGE, value: { slug: "held-waiting", cooldownSeconds: 3600 } },
+  ])
+  const said = iosSubjects(root, {
+    "held-waiting": { pagePath: WAITING_PAGE },
+    "held-hurried": { pagePath: HURRIED_PAGE },
   })
-  expect(said.map((one) => one.slug)).toEqual(["aine", "alanwalton"])
+  expect(said.map((one) => one.slug)).toEqual(["held-hurried", "held-waiting"])
   expect(said[0]?.kind).toBe("ios-app")
-  expect(said[0]?.pagePath).toBe("aine.ios-app.ts")
+  expect(said[0]?.pagePath).toBe(HURRIED_PAGE)
   expect(said[0]?.cooldownSeconds).toBe(COOLDOWN_SECONDS)
+  expect(said[1]?.cooldownSeconds).toBe(3600)
 })

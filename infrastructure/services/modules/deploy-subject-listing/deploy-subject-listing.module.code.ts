@@ -76,13 +76,14 @@ function wholeKindSubject(root: string): readonly Subject[] {
   ]
 }
 
-export function iosSubjects(apps: Apps): readonly Subject[] {
+export function iosSubjects(root: string, apps: Apps): readonly Subject[] {
+  const valued = new Map(valuesOfType(root, IOS_APP).map((one) => [one.path, one.value]))
   return bySlug(
     Object.entries(apps).map(([slug, one]) => ({
       kind: IOS_APP as Kind,
       slug,
       pagePath: one.pagePath,
-      cooldownSeconds: COOLDOWN_SECONDS,
+      cooldownSeconds: cooldownIn(valued.get(one.pagePath) ?? null),
       deploysAfter: [],
     }))
   )
@@ -112,6 +113,6 @@ export function subjectsOf(
   apps: IosApps = mobileApps
 ): readonly Subject[] {
   if (kind === WORKSTATION_SERVICE) return wholeKindSubject(root)
-  if (kind === IOS_APP) return iosSubjects(apps())
+  if (kind === IOS_APP) return iosSubjects(root, apps())
   return pagedSubjects(root, kind, apps)
 }

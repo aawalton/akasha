@@ -8,6 +8,7 @@ export const atlas = {
   appProfileName: "Atlas App Store",
   bundleId: "com.alanwalton.atlas",
   capacitorConfig: "json",
+  cooldownSeconds: 3600,
   developmentTeam: "M6AN6NM6FL",
   displayName: "atlas",
   gitIgnore: "gitignore",

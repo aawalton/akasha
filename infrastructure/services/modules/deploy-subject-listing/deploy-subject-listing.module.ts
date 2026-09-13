@@ -27,6 +27,10 @@ export const deploySubjectListing = {
     },
     {
       invariantKind: "departure",
+      statement: "An ios app's cooldown is read off its page, as every other subject's is.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every other kind is every page of that kind a deploy reads as that kind.",
     },
     {
