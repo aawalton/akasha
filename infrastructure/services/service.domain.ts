@@ -31,5 +31,10 @@ export const service = {
       invariantKind: "departure",
       statement: "The three services a runner keeps up sit in folders beside each other here.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A service is deployed without anyone asking once a commit changes what it is built from.",
+    },
   ],
 } as const satisfies Domain
