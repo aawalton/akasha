@@ -16,21 +16,13 @@ if (process.platform !== "linux") {
   throw new Error(`supervisor-exec only supports Linux (got ${process.platform}).`)
 }
 
-export type Fd = number & { readonly __brand: "Fd" }
 export type Pid = number & { readonly __brand: "Pid" }
 
-const F_GETFD = 1
-const F_SETFD = 2
-const FD_CLOEXEC = 1
 const WNOHANG = 1
 
 const libc = dlopen(resolveMappedLibc(), {
   execvpe: {
     args: [FFIType.cstring, FFIType.ptr, FFIType.ptr],
-    returns: FFIType.i32,
-  },
-  fcntl: {
-    args: [FFIType.i32, FFIType.i32, FFIType.i32],
     returns: FFIType.i32,
   },
   waitpid: {
@@ -90,19 +82,6 @@ export function execvpe(
   throw syscallError("execvpe", `(${JSON.stringify(file)}) — not found on PATH?`, ret)
 }
 
-export function setFdCloexec(fd: number, flag: boolean): undefined {
-  const current = libc.fcntl(fd, F_GETFD, 0)
-  if (current < 0) {
-    throw syscallError("fcntl", `(F_GETFD, fd=${fd})`, current)
-  }
-  const next = flag ? current | FD_CLOEXEC : current & ~FD_CLOEXEC
-  if (next === current) return
-  const ret = libc.fcntl(fd, F_SETFD, next)
-  if (ret < 0) {
-    throw syscallError("fcntl", `(F_SETFD, fd=${fd})`, ret)
-  }
-}
-
 export function isProcessAlive(pid: number): boolean {
   return collapse(readPidSignal(pid), {
     signalable: folds(true, "the inherited child answers signal 0"),
@@ -142,5 +121,4 @@ export async function waitForPidExit(
   }
 }
 
-export const asFd = (n: number): Fd => n as Fd
 export const asPid = (n: number): Pid => n as Pid
