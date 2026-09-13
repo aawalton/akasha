@@ -128,8 +128,8 @@ test("the words reaching a level are each name above it, ending with its own", (
 
 test("a level whose own name carries a hyphen keeps that hyphen in one word", () => {
   const named: Naming = (slug) =>
-    ({ "seat-compose-notices": "compose-notices", seat: "seat" })[slug] ?? null
-  expect(pathOf("seat-compose-notices", named)).toBe("seat compose-notices")
+    ({ "seat-notice-list": "notice-list", seat: "seat" })[slug] ?? null
+  expect(pathOf("seat-notice-list", named)).toBe("seat notice-list")
 })
 
 test("a level stating no name is reached by what is left of its slug as one word", () => {
