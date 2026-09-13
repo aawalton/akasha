@@ -119,5 +119,15 @@ export const inventoryRulesDispatchBankPaced = {
       invariantKind: "departure",
       statement: "A chain that has ended wakes for nothing, whatever visit is running by then.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "Sends are kept across visits, so a visit opened inside the ten seconds spends what the last left.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Sends are kept as long as the addon is loaded, which is as long as the game keeps its count.",
+    },
   ],
 } as const satisfies Module

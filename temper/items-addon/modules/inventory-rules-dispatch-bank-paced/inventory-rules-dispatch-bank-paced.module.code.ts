@@ -33,6 +33,8 @@ interface StackMoveSend {
   count: number
 }
 
+let sends: StackMoveSend[] = []
+
 interface IssuedMove {
   sourceBag: number
   sourceSlot: number
@@ -110,7 +112,6 @@ export function startPacedBankChain(
     rounds,
   }
   let firstIssueMs: number | undefined
-  let sends: StackMoveSend[] = []
   let confirmedSinceIssue = 0
   let wakeSerial = 0
   let inFlight: IssuedMove[] = []

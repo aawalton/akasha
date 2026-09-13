@@ -2,11 +2,14 @@ import type { PacedBankStep } from "akasha/temper/items-addon/modules/inventory-
 
 const BACKPACK_BAG = 1
 export const BANK_BAG = 2
+export const GAME_STACK_MOVE_LIMIT = 100
+export const GAME_STACK_MOVE_WINDOW_MS = 10000
 const CLOSE_BANK_EVENT = 1
 const SLOT_UPDATE_EVENT = 2
 const STACK_MAX = 200
 const DEFAULT_LATENCY_MS = 40
 const DEFAULT_LATE_LATENCY_MS = 3000
+const VISIT_GAP_MS = 60000
 
 interface BankSlot {
   itemId: number
@@ -31,10 +34,10 @@ export interface IssuedStackMove {
 }
 
 export interface BankSimOptions {
-  readonly startMs?: number
+  readonly startAfterBoundaryMs?: number
   readonly latencyMs?: number
   readonly lateLatencyMs?: number
-  readonly closeBankAtMs?: number
+  readonly closeBankAfterMs?: number
 }
 
 export interface DepositPlan {
@@ -45,6 +48,7 @@ export interface DepositPlan {
 }
 
 export interface BankSim {
+  readonly startedAtMs: number
   readonly issued: IssuedStackMove[]
   readonly said: string[]
   readonly dropsEveryRequest: Set<number>
@@ -64,17 +68,17 @@ export interface BankSim {
     targetSlot: number,
     count: number
   ) => undefined
-  readonly pump: (untilMs: number) => undefined
+  readonly pump: (forMs: number) => undefined
 }
 
 interface BankSimCore extends BankSim {
-  readonly nowMs: () => number
-  readonly after: (ms: number, run: () => undefined) => undefined
   readonly slotAt: (bag: number, slot: number) => BankSlot | undefined
+  readonly after: (ms: number, run: () => undefined) => undefined
   readonly listen: (ns: string, event: number, run: () => undefined) => undefined
   readonly unlisten: (ns: string, event: number) => undefined
 }
 
+let clock = 0
 let live: BankSimCore | undefined
 
 function running(): BankSimCore {
@@ -87,7 +91,7 @@ function setGlobal(name: string, value: unknown): undefined {
 }
 
 function installGameGlobals(): undefined {
-  setGlobal("GetGameTimeMilliseconds", (): number => running().nowMs())
+  setGlobal("GetGameTimeMilliseconds", (): number => clock)
   setGlobal("GetTimeStamp", (): number => 1789315280)
   setGlobal("GetSlotStackSize", (bag: number, slot: number): [number, number] => {
     const held = running().slotAt(bag, slot)
@@ -138,8 +142,13 @@ function installGameGlobals(): undefined {
   setGlobal("LINK_STYLE_BRACKETS", 1)
 }
 
+function nextVisitStart(afterBoundaryMs: number): number {
+  const wanted = clock + VISIT_GAP_MS
+  const boundary = Math.ceil(wanted / GAME_STACK_MOVE_WINDOW_MS) * GAME_STACK_MOVE_WINDOW_MS
+  return boundary + afterBoundaryMs
+}
+
 export function makeBankSim(options: BankSimOptions = {}): BankSim {
-  let nowMs = options.startMs ?? 0
   let seq = 0
   const latencyMs = options.latencyMs ?? DEFAULT_LATENCY_MS
   const lateLatencyMs = options.lateLatencyMs ?? DEFAULT_LATE_LATENCY_MS
@@ -150,6 +159,8 @@ export function makeBankSim(options: BankSimOptions = {}): BankSim {
   const said: string[] = []
   const dropsEveryRequest = new Set<number>()
   const answersLate = new Set<number>()
+  const startedAtMs = nextVisitStart(options.startAfterBoundaryMs ?? 0)
+  clock = startedAtMs
 
   function bagOf(id: number): BankSlot[] {
     const found = bags.get(id)
@@ -179,7 +190,7 @@ export function makeBankSim(options: BankSimOptions = {}): BankSim {
 
   function after(ms: number, run: () => undefined): undefined {
     seq++
-    timers.push({ at: nowMs + (ms > 0 ? ms : 1), seq, run })
+    timers.push({ at: clock + (ms > 0 ? ms : 1), seq, run })
   }
 
   function listen(ns: string, event: number, run: () => undefined): undefined {
@@ -239,30 +250,38 @@ export function makeBankSim(options: BankSimOptions = {}): BankSim {
     targetSlot: number,
     count: number
   ): undefined {
-    issued.push({ atMs: nowMs, sourceSlot })
+    issued.push({ atMs: clock, sourceSlot })
     const answerMs = answersLate.has(sourceSlot) ? lateLatencyMs : latencyMs
     after(answerMs, (): undefined => {
       applyMove(sourceBag, sourceSlot, targetBag, targetSlot, count)
     })
   }
 
-  function pump(untilMs: number): undefined {
+  function pump(forMs: number): undefined {
+    const until = clock + forMs
     for (;;) {
-      if (timers.length === 0) return
-      timers.sort((a, b) => a.at - b.at || a.seq - b.seq)
-      const next = timers.shift()
-      if (next === undefined) return
-      if (next.at > untilMs) {
-        timers.push(next)
-        nowMs = untilMs
+      if (timers.length === 0) {
+        clock = until
         return
       }
-      nowMs = next.at
+      timers.sort((a, b) => a.at - b.at || a.seq - b.seq)
+      const next = timers.shift()
+      if (next === undefined) {
+        clock = until
+        return
+      }
+      if (next.at > until) {
+        timers.push(next)
+        clock = until
+        return
+      }
+      clock = next.at
       next.run()
     }
   }
 
   const core: BankSimCore = {
+    startedAtMs,
     issued,
     said,
     dropsEveryRequest,
@@ -271,16 +290,15 @@ export function makeBankSim(options: BankSimOptions = {}): BankSim {
     stackAt,
     requestMove,
     pump,
-    nowMs: () => nowMs,
-    after,
     slotAt,
+    after,
     listen,
     unlisten,
   }
   live = core
   installGameGlobals()
-  if (options.closeBankAtMs !== undefined) {
-    after(options.closeBankAtMs - nowMs, (): undefined => {
+  if (options.closeBankAfterMs !== undefined) {
+    after(options.closeBankAfterMs, (): undefined => {
       fire(CLOSE_BANK_EVENT)
     })
   }

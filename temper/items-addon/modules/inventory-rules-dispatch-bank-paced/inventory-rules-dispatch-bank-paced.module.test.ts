@@ -6,6 +6,8 @@ import {
   busiestWindow,
   busiestWindowInclusive,
   depositsLanded,
+  GAME_STACK_MOVE_LIMIT,
+  GAME_STACK_MOVE_WINDOW_MS,
   issueTimes,
   makeBankSim,
   plannedDeposits,
@@ -14,9 +16,6 @@ import {
 } from "akasha/temper/items-addon/modules/inventory-rules-dispatch-bank-paced/inventory-rules-dispatch-bank-paced.module.test-fixtures.ts"
 import type { PacedBankStep } from "akasha/temper/items-addon/modules/inventory-rules-dispatch-bank-paced-confirm/inventory-rules-dispatch-bank-paced-confirm.module.code.ts"
 import type { SavedVariablesData } from "akasha/temper/items-addon/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
-
-const STACK_MOVE_LIMIT = 100
-const STACK_MOVE_WINDOW_MS = 10000
 
 makeBankSim()
 
@@ -38,13 +37,13 @@ interface Visit {
   readonly settled: boolean
 }
 
-function runVisit(sim: BankSim, steps: PacedBankStep[], untilMs: number): Visit {
+function runVisit(sim: BankSim, steps: PacedBankStep[], forMs: number): Visit {
   beginBankTrace(BANK_BAG)
   let settled = false
   startPacedBankChain(steps, sim.requestMove, () => {
     settled = true
   })
-  sim.pump(untilMs)
+  sim.pump(forMs)
   const stats = getSavedVariables().diagnostics?.lastBankTrace?.pacedDispatch
   if (stats === undefined) throw new Error("the visit recorded no paced dispatch")
   return { stats, settled }
@@ -67,40 +66,41 @@ describe("inventory-rules-dispatch-bank-paced", () => {
   test("no more stack moves than the budget go out in any ten seconds", () => {
     const clean = makeBankSim()
     runVisit(clean, plannedDeposits(clean, { moveCount: 150 }), 200000)
-    expect(busiestWindow(clean.issued, STACK_MOVE_WINDOW_MS)).toBe(STACK_MOVE_LIMIT)
+    expect(busiestWindow(clean.issued, GAME_STACK_MOVE_WINDOW_MS)).toBe(GAME_STACK_MOVE_LIMIT)
     const sim = makeBankSim()
     const steps = plannedDeposits(sim, { moveCount: 50 })
     for (let i = 0; i < 50; i++) sim.dropsEveryRequest.add(i)
     const { stats } = runVisit(sim, steps, 200000)
     expect(stats.issued).toBe(200)
-    expect(busiestWindow(sim.issued, STACK_MOVE_WINDOW_MS)).toBe(STACK_MOVE_LIMIT)
+    expect(busiestWindow(sim.issued, GAME_STACK_MOVE_WINDOW_MS)).toBe(GAME_STACK_MOVE_LIMIT)
   })
 
   test("the budget holds even where the game counts a move exactly ten seconds old", () => {
     const clean = makeBankSim()
     runVisit(clean, plannedDeposits(clean, { moveCount: 150 }), 200000)
-    expect(busiestWindowInclusive(clean.issued, STACK_MOVE_WINDOW_MS)).toBeLessThanOrEqual(
-      STACK_MOVE_LIMIT
+    expect(busiestWindowInclusive(clean.issued, GAME_STACK_MOVE_WINDOW_MS)).toBeLessThanOrEqual(
+      GAME_STACK_MOVE_LIMIT
     )
     const sim = makeBankSim()
     const steps = plannedDeposits(sim, { moveCount: 50 })
     for (let i = 0; i < 50; i++) sim.dropsEveryRequest.add(i)
     runVisit(sim, steps, 200000)
-    expect(busiestWindowInclusive(sim.issued, STACK_MOVE_WINDOW_MS)).toBeLessThanOrEqual(
-      STACK_MOVE_LIMIT
+    expect(busiestWindowInclusive(sim.issued, GAME_STACK_MOVE_WINDOW_MS)).toBeLessThanOrEqual(
+      GAME_STACK_MOVE_LIMIT
     )
   })
 
-  test("a clock starting off a ten-second boundary waits the ten seconds out all the same", () => {
-    const sim = makeBankSim({ startMs: 9300 })
-    const { stats } = runVisit(sim, plannedDeposits(sim, { moveCount: 200 }), 209300)
+  test("a visit starting off a ten-second boundary waits the ten seconds out all the same", () => {
+    const sim = makeBankSim({ startAfterBoundaryMs: 9300 })
+    expect(sim.startedAtMs % GAME_STACK_MOVE_WINDOW_MS).toBe(9300)
+    const { stats } = runVisit(sim, plannedDeposits(sim, { moveCount: 200 }), 200000)
     const times = issueTimes(sim.issued)
     expect(times.length).toBe(2)
-    expect(times[0]).toBe(9300)
-    expect((times[1] ?? 0) - 9300).toBeGreaterThanOrEqual(STACK_MOVE_WINDOW_MS)
+    expect(times[0]).toBe(sim.startedAtMs)
+    expect((times[1] ?? 0) - sim.startedAtMs).toBeGreaterThanOrEqual(GAME_STACK_MOVE_WINDOW_MS)
     expect(stats.confirmed).toBe(200)
-    expect(busiestWindowInclusive(sim.issued, STACK_MOVE_WINDOW_MS)).toBeLessThanOrEqual(
-      STACK_MOVE_LIMIT
+    expect(busiestWindowInclusive(sim.issued, GAME_STACK_MOVE_WINDOW_MS)).toBeLessThanOrEqual(
+      GAME_STACK_MOVE_LIMIT
     )
   })
 
@@ -109,14 +109,14 @@ describe("inventory-rules-dispatch-bank-paced", () => {
     const { stats } = runVisit(sim, plannedDeposits(sim, { moveCount: 150 }), 200000)
     const times = issueTimes(sim.issued)
     expect(times.length).toBe(2)
-    expect((times[1] ?? 0) - (times[0] ?? 0)).toBeGreaterThan(STACK_MOVE_WINDOW_MS)
-    expect(sim.issued.filter((one) => one.atMs === times[0]).length).toBe(STACK_MOVE_LIMIT)
+    expect((times[1] ?? 0) - (times[0] ?? 0)).toBeGreaterThan(GAME_STACK_MOVE_WINDOW_MS)
+    expect(sim.issued.filter((one) => one.atMs === times[0]).length).toBe(GAME_STACK_MOVE_LIMIT)
     expect(sim.issued.filter((one) => one.atMs === times[1]).length).toBe(50)
     expect(stats.rounds?.length).toBe(2)
   })
 
   test("the bank closing while the budget is spent ends the visit and says what went unsent", () => {
-    const sim = makeBankSim({ closeBankAtMs: 5000 })
+    const sim = makeBankSim({ closeBankAfterMs: 5000 })
     const { stats, settled } = runVisit(sim, plannedDeposits(sim, { moveCount: 150 }), 200000)
     expect(stats.abortedEarly).toBe(true)
     expect(stats.planned).toBe(150)
@@ -152,20 +152,31 @@ describe("inventory-rules-dispatch-bank-paced", () => {
   })
 
   test("a visit the bank closed on sends nothing once a later visit is running", () => {
-    const sim = makeBankSim({ closeBankAtMs: 5000 })
-    beginBankTrace(BANK_BAG)
-    startPacedBankChain(plannedDeposits(sim, { moveCount: 150 }), sim.requestMove, () => {})
-    sim.pump(6000)
+    const sim = makeBankSim({ closeBankAfterMs: 5000 })
+    runVisit(sim, plannedDeposits(sim, { moveCount: 150 }), 6000)
     expect(sim.issued.length).toBe(100)
-    beginBankTrace(BANK_BAG)
-    startPacedBankChain(
+    const { stats } = runVisit(
+      sim,
       plannedDeposits(sim, { moveCount: 150, firstSlot: 200 }),
-      sim.requestMove,
-      () => {}
+      400000
     )
-    sim.pump(400000)
-    const later = sim.issued.filter((one) => one.atMs >= 6000)
+    const later = sim.issued.filter((one) => one.atMs >= sim.startedAtMs + 6000)
     expect(later.filter((one) => one.sourceSlot < 200).length).toBe(0)
     expect(later.length).toBe(150)
+    expect(stats.confirmed).toBe(150)
+  })
+
+  test("two visits inside the ten seconds spend one budget between them", () => {
+    const sim = makeBankSim({ closeBankAfterMs: 5000 })
+    runVisit(sim, plannedDeposits(sim, { moveCount: 150 }), 6000)
+    expect(sim.issued.length).toBe(GAME_STACK_MOVE_LIMIT)
+    const { stats } = runVisit(sim, plannedDeposits(sim, { moveCount: 40, firstSlot: 200 }), 400000)
+    expect(stats.confirmed).toBe(40)
+    expect(busiestWindow(sim.issued, GAME_STACK_MOVE_WINDOW_MS)).toBeLessThanOrEqual(
+      GAME_STACK_MOVE_LIMIT
+    )
+    expect(busiestWindowInclusive(sim.issued, GAME_STACK_MOVE_WINDOW_MS)).toBeLessThanOrEqual(
+      GAME_STACK_MOVE_LIMIT
+    )
   })
 })
