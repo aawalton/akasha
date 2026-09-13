@@ -22,6 +22,7 @@ export const change = {
     "module/gated-landing",
     "module/gated-write",
     "module/import-lines",
+    "module/import-repointing",
     "module/json-entries",
     "module/key-requiring",
     "module/literal-splicing",

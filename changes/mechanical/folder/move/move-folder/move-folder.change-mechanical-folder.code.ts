@@ -1,5 +1,4 @@
 import { dirname, join, relative } from "node:path"
-import { runChange as changeImports } from "akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import {
   refusing,
   replayed,
@@ -9,6 +8,7 @@ import type {
   Answer,
   FileChange,
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { repointed } from "akasha/changes/modules/import-repointing/import-repointing.module.code.ts"
 import { renameManifestWays } from "akasha/changes/modules/manifest-ways/manifest-ways.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { reachesIn } from "akasha/code/workspaces/modules/package-manifest/package-manifest.module.code.ts"
@@ -116,14 +116,14 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   const edits: FileChange[] = []
   for (const [one, next] of moved) {
     edits.push({ kind: "move", pathFrom: one, pathTo: next })
-    const answer = changeImports(world, { was: one, now: next, carried })
+    const answer = repointed(world, { was: one, now: next, carried })
     if (answer.refused !== null) return answer
     edits.push(...answer.edits)
   }
   const folder = new Map([[given.from, given.to]])
   const known = new Set(moved.keys())
   for (const path of spellersIn(world.index.everyPath(), searchable(world), folder, known)) {
-    const answer = changeImports(world, { was: path, now: path, carried })
+    const answer = repointed(world, { was: path, now: path, carried })
     if (answer.refused !== null) return answer
     edits.push(...answer.edits)
   }

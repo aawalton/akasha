@@ -60,7 +60,7 @@ export const moveFolder = {
     },
     {
       invariantKind: "departure",
-      statement: "The rungs repointing a body are called rather than reached.",
+      statement: "The module repointing a body is called rather than reached through a rung.",
     },
     {
       invariantKind: "departure",
