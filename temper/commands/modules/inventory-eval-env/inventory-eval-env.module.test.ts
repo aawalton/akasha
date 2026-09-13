@@ -200,3 +200,19 @@ test("the characters and their order are answered from what was read", () => {
   expect(env.getAllCharacters()).toEqual(["111"])
   expect(env.getCharacterPriority()).toEqual(["111"])
 })
+
+test("the cli env answers no wanters, whatever the wanted consumables hold", () => {
+  const empty = buildCliEvalEnv({
+    charactersById: new Map(),
+    characterPriority: [],
+    wantedConsumables: {},
+  })
+  expect(empty.getConsumableWanters(64509)).toEqual([])
+
+  const filled = buildCliEvalEnv({
+    charactersById: new Map(),
+    characterPriority: [],
+    wantedConsumables: { "64509": ["111", "222"] },
+  })
+  expect(filled.getConsumableWanters(64509)).toEqual([])
+})
