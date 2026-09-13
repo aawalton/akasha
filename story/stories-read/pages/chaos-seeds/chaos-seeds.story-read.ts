@@ -6,7 +6,13 @@ export const chaosSeeds = {
   slug: "chaos-seeds",
   title: "Chaos Seeds",
   world: "chaos-seeds",
-  source: "kindle",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B074C4RFZN",
+      externalLink: "https://www.amazon.com/dp/B074C4RFZN",
+    },
+  ],
   rank: "C",
   tags: ["Civilization Building", "Isekai"],
   unit: "words",

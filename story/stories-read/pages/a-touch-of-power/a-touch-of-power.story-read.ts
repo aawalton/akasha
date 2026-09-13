@@ -6,7 +6,13 @@ export const aTouchOfPower = {
   slug: "a-touch-of-power",
   title: "A Touch of Power",
   world: "a-touch-of-power",
-  source: "kindle",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0FFT68QFH",
+      externalLink: "https://www.amazon.com/dp/B0FFT68QFH",
+    },
+  ],
   rank: "A",
   following: true,
   tags: ["System World"],

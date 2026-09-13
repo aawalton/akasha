@@ -6,7 +6,13 @@ export const sagewood = {
   slug: "sagewood",
   title: "Sagewood",
   world: "sagewood",
-  source: "kindle",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0D5J7G9ZN",
+      externalLink: "https://www.amazon.com/dp/B0D5J7G9ZN",
+    },
+  ],
   rank: "C",
   tags: ["Slice-Of-Life"],
   unit: "words",

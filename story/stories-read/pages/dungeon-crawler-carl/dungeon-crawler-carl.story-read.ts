@@ -6,7 +6,13 @@ export const dungeonCrawlerCarl = {
   slug: "dungeon-crawler-carl",
   title: "Dungeon Crawler Carl",
   world: "dungeon-crawler-carl",
-  source: "kindle",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08BX5D4LC",
+      externalLink: "https://www.amazon.com/dp/B08BX5D4LC",
+    },
+  ],
   rank: "C",
   tags: ["System Apocalypse"],
   unit: "words",

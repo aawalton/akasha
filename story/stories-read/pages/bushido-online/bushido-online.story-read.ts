@@ -6,7 +6,13 @@ export const bushidoOnline = {
   slug: "bushido-online",
   title: "Bushido Online",
   world: "bushido-online",
-  source: "kindle",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07959MGTF",
+      externalLink: "https://www.amazon.com/dp/B07959MGTF",
+    },
+  ],
   rank: "C",
   tags: ["VRMMO"],
   unit: "words",

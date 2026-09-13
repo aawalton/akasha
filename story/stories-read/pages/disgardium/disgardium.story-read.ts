@@ -6,7 +6,13 @@ export const disgardium = {
   slug: "disgardium",
   title: "Disgardium",
   world: "disgardium",
-  source: "kindle",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07Q6M246J",
+      externalLink: "https://www.amazon.com/dp/B07Q6M246J",
+    },
+  ],
   rank: "B",
   tags: ["VRMMO"],
   unit: "words",

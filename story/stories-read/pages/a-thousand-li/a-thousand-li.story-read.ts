@@ -6,7 +6,13 @@ export const aThousandLi = {
   slug: "a-thousand-li",
   title: "A Thousand Li",
   world: "a-thousand-li",
-  source: "kindle",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07VXJFRFV",
+      externalLink: "https://www.amazon.com/dp/B07VXJFRFV",
+    },
+  ],
   rank: "B",
   tags: ["Cultivation"],
   unit: "words",

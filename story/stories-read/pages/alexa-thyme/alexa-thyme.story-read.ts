@@ -6,7 +6,13 @@ export const alexaThyme = {
   slug: "alexa-thyme",
   title: "Alexa Thyme",
   world: "alexa-thyme",
-  source: "kindle",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CP5J7K9Y",
+      externalLink: "https://www.amazon.com/dp/B0CP5J7K9Y",
+    },
+  ],
   rank: "B",
   following: true,
   tags: ["System World"],

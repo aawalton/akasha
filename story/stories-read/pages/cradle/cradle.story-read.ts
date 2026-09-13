@@ -6,7 +6,13 @@ export const cradle = {
   slug: "cradle",
   title: "Cradle",
   world: "cradle",
-  source: "kindle",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0753FP6SP",
+      externalLink: "https://www.amazon.com/dp/B0753FP6SP",
+    },
+  ],
   rank: "A",
   tags: ["Cultivation", "System World"],
   unit: "words",

@@ -6,7 +6,13 @@ export const stonehavenLeague = {
   slug: "stonehaven-league",
   title: "Stonehaven League",
   world: "stonehaven-league",
-  source: "kindle",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07DYF99N1",
+      externalLink: "https://www.amazon.com/dp/B07DYF99N1",
+    },
+  ],
   following: true,
   tags: ["VRMMO"],
   unit: "words",

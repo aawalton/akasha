@@ -6,7 +6,13 @@ export const onePercentLifesteal = {
   slug: "one-percent-lifesteal",
   title: "1% Lifesteal",
   world: "one-percent-lifesteal",
-  source: "kindle",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DGWCJ6JP",
+      externalLink: "https://www.amazon.com/dp/B0DGWCJ6JP",
+    },
+  ],
   rank: "C",
   tags: ["Dark"],
   unit: "words",

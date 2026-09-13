@@ -6,7 +6,13 @@ export const roadToMastery = {
   slug: "road-to-mastery",
   title: "Road to Mastery",
   world: "road-to-mastery",
-  source: "kindle",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0C6CLGDWP",
+      externalLink: "https://www.amazon.com/dp/B0C6CLGDWP",
+    },
+  ],
   rank: "B",
   tags: ["System Apocalypse"],
   unit: "words",

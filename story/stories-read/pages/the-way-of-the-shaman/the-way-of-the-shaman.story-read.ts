@@ -6,7 +6,13 @@ export const theWayOfTheShaman = {
   slug: "the-way-of-the-shaman",
   title: "The Way of the Shaman",
   world: "the-way-of-the-shaman",
-  source: "kindle",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B074C9P3YF",
+      externalLink: "https://www.amazon.com/dp/B074C9P3YF",
+    },
+  ],
   rank: "C",
   tags: ["VRMMO"],
   unit: "words",

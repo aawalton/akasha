@@ -6,7 +6,13 @@ export const worldTreeTrilogy = {
   slug: "world-tree-trilogy",
   title: "World-Tree Trilogy",
   world: "world-tree-trilogy",
-  source: "kindle",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07PGLH5GW",
+      externalLink: "https://www.amazon.com/dp/B07PGLH5GW",
+    },
+  ],
   rank: "C",
   tags: ["VRMMO"],
   unit: "words",

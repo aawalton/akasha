@@ -6,7 +6,13 @@ export const guardianOfAsterFall = {
   slug: "guardian-of-aster-fall",
   title: "Guardian of Aster Fall",
   world: "guardian-of-aster-fall",
-  source: "kindle",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09HJCYHT3",
+      externalLink: "https://www.amazon.com/dp/B09HJCYHT3",
+    },
+  ],
   rank: "C",
   tags: ["Crafting", "Dungeon Delver"],
   unit: "words",

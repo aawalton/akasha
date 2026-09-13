@@ -6,7 +6,13 @@ export const anOutcastInAnotherWorld = {
   slug: "an-outcast-in-another-world",
   title: "An Outcast In Another World",
   world: "an-outcast-in-another-world",
-  source: "kindle",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09FZ1P41X",
+      externalLink: "https://www.amazon.com/dp/B09FZ1P41X",
+    },
+  ],
   rank: "C",
   unit: "words",
 } as const satisfies StoryRead

@@ -6,7 +6,13 @@ export const alteredRealms = {
   slug: "altered-realms",
   title: "Altered Realms",
   world: "altered-realms",
-  source: "kindle",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0881H29XP",
+      externalLink: "https://www.amazon.com/dp/B0881H29XP",
+    },
+  ],
   rank: "D",
   tags: ["VRMMO"],
   unit: "words",

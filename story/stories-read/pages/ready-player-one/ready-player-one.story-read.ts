@@ -6,7 +6,13 @@ export const readyPlayerOne = {
   slug: "ready-player-one",
   title: "Ready Player One",
   world: "ready-player-one",
-  source: "kindle",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B083977FTN",
+      externalLink: "https://www.amazon.com/dp/B083977FTN",
+    },
+  ],
   rank: "C",
   tags: ["VRMMO"],
   unit: "words",

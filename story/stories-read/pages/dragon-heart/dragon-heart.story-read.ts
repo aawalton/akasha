@@ -6,7 +6,13 @@ export const dragonHeart = {
   slug: "dragon-heart",
   title: "Dragon Heart",
   world: "dragon-heart",
-  source: "kindle",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07TXD7F8V",
+      externalLink: "https://www.amazon.com/dp/B07TXD7F8V",
+    },
+  ],
   rank: "C",
   tags: ["Cultivation", "Dark"],
   unit: "words",

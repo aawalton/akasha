@@ -6,7 +6,13 @@ export const awakenOnline = {
   slug: "awaken-online",
   title: "Awaken Online",
   world: "awaken-online",
-  source: "kindle",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B074CC5NDX",
+      externalLink: "https://www.amazon.com/dp/B074CC5NDX",
+    },
+  ],
   rank: "A",
   following: true,
   tags: ["VRMMO"],

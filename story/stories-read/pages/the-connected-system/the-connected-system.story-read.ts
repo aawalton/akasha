@@ -6,7 +6,13 @@ export const theConnectedSystem = {
   slug: "the-connected-system",
   title: "The Connected System",
   world: "the-connected-system",
-  source: "kindle",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CW19LKFJ",
+      externalLink: "https://www.amazon.com/dp/B0CW19LKFJ",
+    },
+  ],
   rank: "C",
   tags: ["System Apocalypse"],
   unit: "words",

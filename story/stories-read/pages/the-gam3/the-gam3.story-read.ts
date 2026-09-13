@@ -6,7 +6,13 @@ export const theGam3 = {
   slug: "the-gam3",
   title: "The Gam3",
   world: "the-gam3",
-  source: "kindle",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B075V2GXKP",
+      externalLink: "https://www.amazon.com/dp/B075V2GXKP",
+    },
+  ],
   rank: "B",
   tags: ["VRMMO"],
   unit: "words",

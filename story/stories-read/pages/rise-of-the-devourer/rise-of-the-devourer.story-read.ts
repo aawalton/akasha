@@ -6,7 +6,13 @@ export const riseOfTheDevourer = {
   slug: "rise-of-the-devourer",
   title: "Rise of the Devourer",
   world: "rise-of-the-devourer",
-  source: "kindle",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CKZJHF29",
+      externalLink: "https://www.amazon.com/dp/B0CKZJHF29",
+    },
+  ],
   rank: "C",
   unit: "words",
 } as const satisfies StoryRead

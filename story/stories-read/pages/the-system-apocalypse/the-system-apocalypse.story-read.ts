@@ -6,7 +6,13 @@ export const theSystemApocalypse = {
   slug: "the-system-apocalypse",
   title: "The System Apocalypse",
   world: "the-system-apocalypse",
-  source: "kindle",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B077LNLSZ7",
+      externalLink: "https://www.amazon.com/dp/B077LNLSZ7",
+    },
+  ],
   rank: "B",
   tags: ["System Apocalypse"],
   unit: "words",
