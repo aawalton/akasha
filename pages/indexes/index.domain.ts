@@ -42,11 +42,11 @@ export const index = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The index is written under `.git/indexes`.",
+      statement: "The index is written under `.indexes` at the root of the checkout reading it.",
     },
     {
       invariantKind: "departure",
-      statement: "Git does not track `.git/indexes`.",
+      statement: "Git tracks nothing under `.indexes`.",
     },
 
     {

@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { INDEX_AT } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import {
   pagesUnder,
   walkedUnder,
@@ -40,12 +41,13 @@ test("every file a caller takes is found however deep it sits", () => {
   ).toEqual(["a.module.ts", "deep/down/b.module.ts"])
 })
 
-test("the three folders left out are read by nothing", () => {
+test("the four folders left out are read by nothing", () => {
   const root = treeOf([
     "a.module.ts",
     `${VENDOR_ROOT}/b.module.ts`,
     `${QUARANTINE_ROOT}/c.module.ts`,
     ".git/d.module.ts",
+    `${INDEX_AT}/e.module.ts`,
   ])
 
   expect(

@@ -26,6 +26,10 @@ export const treeReading = {
     },
     {
       invariantKind: "departure",
+      statement: "The index is left out.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Nothing left out of the tree has a page of this repository's own.",
     },
     {

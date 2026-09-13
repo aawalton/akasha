@@ -1,5 +1,6 @@
 import { readdirSync } from "node:fs"
 import { join } from "node:path"
+import { INDEX_AT } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import {
   QUARANTINE_ROOT,
   VENDOR_ROOT,
@@ -8,7 +9,7 @@ import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.c
 
 const PAGE_TYPE = "page-type"
 
-const UNWALKED = new Set<string>([VENDOR_ROOT, ".git"])
+const UNWALKED = new Set<string>([VENDOR_ROOT, ".git", INDEX_AT])
 
 const LOCK = ".lock"
 

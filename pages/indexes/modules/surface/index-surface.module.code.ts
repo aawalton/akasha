@@ -1,6 +1,5 @@
-import { existsSync, readdirSync, statSync } from "node:fs"
-import { basename, dirname, join } from "node:path"
-import { GIT_AT, INDEXES, storeAt } from "akasha/files/modules/git-place/git-place.module.code.ts"
+import { existsSync, readdirSync } from "node:fs"
+import { join } from "node:path"
 import type {
   Child,
   Filing,
@@ -12,13 +11,7 @@ const ROOT = ""
 
 const SLASH = "/"
 
-const POINTS_AT = "gitdir:"
-
-const WORKTREES = "worktrees"
-
-export const INDEX_AT = storeAt(INDEXES)
-
-const sharedIn = new Map<string, string>()
+export const INDEX_AT = ".indexes"
 
 const READ_FROM = new WeakMap<Reading, string>()
 
@@ -26,24 +19,8 @@ export function readFrom(reading: Reading): string {
   return READ_FROM.get(reading) ?? INDEX_AT
 }
 
-function gitFolderIn(root: string): string {
-  const own = join(root, GIT_AT)
-  const found = statSync(own, { throwIfNoEntry: false })
-  if (found === undefined || found.isDirectory()) return own
-  const said = textThere(own)
-  if (said === null) return own
-  const pointed = said.trim()
-  if (!pointed.startsWith(POINTS_AT)) return own
-  const at = pointed.slice(POINTS_AT.length).trim()
-  return basename(dirname(at)) === WORKTREES ? dirname(dirname(at)) : at
-}
-
 export function indexIn(root: string): string {
-  const held = sharedIn.get(root)
-  if (held !== undefined) return held
-  const made = join(gitFolderIn(root), INDEXES)
-  sharedIn.set(root, made)
-  return made
+  return join(root, INDEX_AT)
 }
 
 export function indexAt(indexName: string, ...parts: readonly string[]): string {

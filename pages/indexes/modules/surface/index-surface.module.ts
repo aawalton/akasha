@@ -140,11 +140,11 @@ export const indexSurface = {
     },
     {
       invariantKind: "departure",
-      statement: "Every worktree of a checkout is answered the one index that checkout shares.",
+      statement: "A root is answered the index under that root itself.",
     },
     {
       invariantKind: "departure",
-      statement: "A root whose git folder is a file is answered the folder that file names.",
+      statement: "A worktree is a root of its own, so a worktree is answered an index of its own.",
     },
     {
       invariantKind: "departure",
