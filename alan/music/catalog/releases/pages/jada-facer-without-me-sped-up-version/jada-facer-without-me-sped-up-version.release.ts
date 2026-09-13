@@ -12,6 +12,11 @@ export const jadaFacerWithoutMeSpedUpVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-10-29",
-  externalId: "4wypTAULJVa3WGBZ5u4BGv",
-  externalLink: "https://open.spotify.com/album/4wypTAULJVa3WGBZ5u4BGv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4wypTAULJVa3WGBZ5u4BGv",
+      externalLink: "https://open.spotify.com/album/4wypTAULJVa3WGBZ5u4BGv",
+    },
+  ],
 } as const satisfies Release

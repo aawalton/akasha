@@ -12,6 +12,11 @@ export const jadaFacerFirefliesAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-12-28",
-  externalId: "7jjimUajmo69jllQqqWLyx",
-  externalLink: "https://open.spotify.com/album/7jjimUajmo69jllQqqWLyx",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7jjimUajmo69jllQqqWLyx",
+      externalLink: "https://open.spotify.com/album/7jjimUajmo69jllQqqWLyx",
+    },
+  ],
 } as const satisfies Release

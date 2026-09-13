@@ -12,6 +12,11 @@ export const jadaFacerNightmare = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-05-30",
-  externalId: "59YsQVYBGG8aBDWtgxbDkp",
-  externalLink: "https://open.spotify.com/album/59YsQVYBGG8aBDWtgxbDkp",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "59YsQVYBGG8aBDWtgxbDkp",
+      externalLink: "https://open.spotify.com/album/59YsQVYBGG8aBDWtgxbDkp",
+    },
+  ],
 } as const satisfies Release

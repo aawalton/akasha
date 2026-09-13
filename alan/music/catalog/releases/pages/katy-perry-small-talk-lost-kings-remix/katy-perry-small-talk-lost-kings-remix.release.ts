@@ -12,6 +12,11 @@ export const katyPerrySmallTalkLostKingsRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-10-11",
-  externalId: "32MI2kSHvHvXZLdOqZ3RcJ",
-  externalLink: "https://open.spotify.com/album/32MI2kSHvHvXZLdOqZ3RcJ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "32MI2kSHvHvXZLdOqZ3RcJ",
+      externalLink: "https://open.spotify.com/album/32MI2kSHvHvXZLdOqZ3RcJ",
+    },
+  ],
 } as const satisfies Release

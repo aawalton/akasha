@@ -13,6 +13,11 @@ export const jennaRaineMyEscapeIfIHadTheSummer = {
   status: "completed",
   rank: "B",
   publishedAt: "2019-07-10",
-  externalId: "4So4moCmxP8exCE75ZVZEE",
-  externalLink: "https://open.spotify.com/album/4So4moCmxP8exCE75ZVZEE",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4So4moCmxP8exCE75ZVZEE",
+      externalLink: "https://open.spotify.com/album/4So4moCmxP8exCE75ZVZEE",
+    },
+  ],
 } as const satisfies Release

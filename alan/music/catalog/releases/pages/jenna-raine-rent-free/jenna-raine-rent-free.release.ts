@@ -13,6 +13,11 @@ export const jennaRaineRentFree = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-11-11",
-  externalId: "4KmBjqHwSv3k07FwzX8Ju0",
-  externalLink: "https://open.spotify.com/album/4KmBjqHwSv3k07FwzX8Ju0",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4KmBjqHwSv3k07FwzX8Ju0",
+      externalLink: "https://open.spotify.com/album/4KmBjqHwSv3k07FwzX8Ju0",
+    },
+  ],
 } as const satisfies Release

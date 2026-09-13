@@ -12,6 +12,11 @@ export const japaneseBreakfastMyBabyGotNothingAtAllMaterialistsOriginalSoundtrac
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-06-10",
-  externalId: "5ykmfDC5Y89gnzQYE8oPIu",
-  externalLink: "https://open.spotify.com/album/5ykmfDC5Y89gnzQYE8oPIu",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5ykmfDC5Y89gnzQYE8oPIu",
+      externalLink: "https://open.spotify.com/album/5ykmfDC5Y89gnzQYE8oPIu",
+    },
+  ],
 } as const satisfies Release

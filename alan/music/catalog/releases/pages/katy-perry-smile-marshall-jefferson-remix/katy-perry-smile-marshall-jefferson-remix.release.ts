@@ -12,6 +12,11 @@ export const katyPerrySmileMarshallJeffersonRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-09-18",
-  externalId: "0lI87XMzeWPajplpYCVHzl",
-  externalLink: "https://open.spotify.com/album/0lI87XMzeWPajplpYCVHzl",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0lI87XMzeWPajplpYCVHzl",
+      externalLink: "https://open.spotify.com/album/0lI87XMzeWPajplpYCVHzl",
+    },
+  ],
 } as const satisfies Release

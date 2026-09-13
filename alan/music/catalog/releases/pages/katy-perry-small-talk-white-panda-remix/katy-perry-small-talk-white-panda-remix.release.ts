@@ -12,6 +12,11 @@ export const katyPerrySmallTalkWhitePandaRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-10-11",
-  externalId: "4EMXkvH1Pq6WjYYo1ZLO7e",
-  externalLink: "https://open.spotify.com/album/4EMXkvH1Pq6WjYYo1ZLO7e",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4EMXkvH1Pq6WjYYo1ZLO7e",
+      externalLink: "https://open.spotify.com/album/4EMXkvH1Pq6WjYYo1ZLO7e",
+    },
+  ],
 } as const satisfies Release

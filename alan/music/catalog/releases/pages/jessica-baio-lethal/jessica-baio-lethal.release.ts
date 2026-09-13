@@ -13,6 +13,11 @@ export const jessicaBaioLethal = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-11-04",
-  externalId: "2pfmBpFUwF3HjmkHAD4orj",
-  externalLink: "https://open.spotify.com/album/2pfmBpFUwF3HjmkHAD4orj",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2pfmBpFUwF3HjmkHAD4orj",
+      externalLink: "https://open.spotify.com/album/2pfmBpFUwF3HjmkHAD4orj",
+    },
+  ],
 } as const satisfies Release

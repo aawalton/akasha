@@ -13,6 +13,11 @@ export const jennaRaineBigDumbHeart = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-11-10",
-  externalId: "1CgmwafARAUBIoyuOVCDnm",
-  externalLink: "https://open.spotify.com/album/1CgmwafARAUBIoyuOVCDnm",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1CgmwafARAUBIoyuOVCDnm",
+      externalLink: "https://open.spotify.com/album/1CgmwafARAUBIoyuOVCDnm",
+    },
+  ],
 } as const satisfies Release

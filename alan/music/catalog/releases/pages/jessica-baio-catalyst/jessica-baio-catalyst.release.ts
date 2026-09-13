@@ -13,6 +13,11 @@ export const jessicaBaioCatalyst = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-03-10",
-  externalId: "4aAXY4RkUpFYjzMbiwuWpo",
-  externalLink: "https://open.spotify.com/album/4aAXY4RkUpFYjzMbiwuWpo",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4aAXY4RkUpFYjzMbiwuWpo",
+      externalLink: "https://open.spotify.com/album/4aAXY4RkUpFYjzMbiwuWpo",
+    },
+  ],
 } as const satisfies Release

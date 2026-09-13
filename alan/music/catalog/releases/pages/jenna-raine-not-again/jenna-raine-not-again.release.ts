@@ -13,6 +13,11 @@ export const jennaRaineNotAgain = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-05-27",
-  externalId: "5PYdawNgLyNhuJ3pp7xrvQ",
-  externalLink: "https://open.spotify.com/album/5PYdawNgLyNhuJ3pp7xrvQ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5PYdawNgLyNhuJ3pp7xrvQ",
+      externalLink: "https://open.spotify.com/album/5PYdawNgLyNhuJ3pp7xrvQ",
+    },
+  ],
 } as const satisfies Release

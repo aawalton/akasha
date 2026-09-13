@@ -12,6 +12,11 @@ export const jamesTaylor2AngelsOfFenway = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-05-04",
-  externalId: "6CObzvPjKQ3XIgEmp8mPrQ",
-  externalLink: "https://open.spotify.com/album/6CObzvPjKQ3XIgEmp8mPrQ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6CObzvPjKQ3XIgEmp8mPrQ",
+      externalLink: "https://open.spotify.com/album/6CObzvPjKQ3XIgEmp8mPrQ",
+    },
+  ],
 } as const satisfies Release

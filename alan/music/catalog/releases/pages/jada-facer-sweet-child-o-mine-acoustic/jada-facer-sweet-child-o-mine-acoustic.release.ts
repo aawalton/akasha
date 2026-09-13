@@ -12,6 +12,11 @@ export const jadaFacerSweetChildOMineAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-05-10",
-  externalId: "0vuVMFnNky6PHjq1ngqNTe",
-  externalLink: "https://open.spotify.com/album/0vuVMFnNky6PHjq1ngqNTe",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0vuVMFnNky6PHjq1ngqNTe",
+      externalLink: "https://open.spotify.com/album/0vuVMFnNky6PHjq1ngqNTe",
+    },
+  ],
 } as const satisfies Release

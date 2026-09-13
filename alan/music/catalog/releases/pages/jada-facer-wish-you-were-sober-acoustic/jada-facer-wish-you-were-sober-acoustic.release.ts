@@ -12,6 +12,11 @@ export const jadaFacerWishYouWereSoberAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-01",
-  externalId: "0hU7lPon2shdzL4IvDhIA6",
-  externalLink: "https://open.spotify.com/album/0hU7lPon2shdzL4IvDhIA6",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0hU7lPon2shdzL4IvDhIA6",
+      externalLink: "https://open.spotify.com/album/0hU7lPon2shdzL4IvDhIA6",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const katyPerryPartOfMeJacquesLuContSThinWhiteDukeMix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-01-01",
-  externalId: "6FvQt4cl6CptRn1U0R2j8b",
-  externalLink: "https://open.spotify.com/album/6FvQt4cl6CptRn1U0R2j8b",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6FvQt4cl6CptRn1U0R2j8b",
+      externalLink: "https://open.spotify.com/album/6FvQt4cl6CptRn1U0R2j8b",
+    },
+  ],
 } as const satisfies Release

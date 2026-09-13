@@ -12,6 +12,11 @@ export const katyPerryOneOfTheBoys = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2008-06-17",
-  externalId: "0r2BUyPTmpbfuz4rR39mLl",
-  externalLink: "https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0r2BUyPTmpbfuz4rR39mLl",
+      externalLink: "https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl",
+    },
+  ],
 } as const satisfies Release

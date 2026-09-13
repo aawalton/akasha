@@ -13,6 +13,11 @@ export const jessicaBaioBadTattoo = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-12-08",
-  externalId: "0j7ZjvfGjpbiSZl4Jm0BKR",
-  externalLink: "https://open.spotify.com/album/0j7ZjvfGjpbiSZl4Jm0BKR",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0j7ZjvfGjpbiSZl4Jm0BKR",
+      externalLink: "https://open.spotify.com/album/0j7ZjvfGjpbiSZl4Jm0BKR",
+    },
+  ],
 } as const satisfies Release

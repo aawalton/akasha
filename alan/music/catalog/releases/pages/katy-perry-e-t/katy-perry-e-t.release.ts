@@ -12,6 +12,11 @@ export const katyPerryET = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2011-01-01",
-  externalId: "6cV5RZ57OBWPkjNt1D19Hj",
-  externalLink: "https://open.spotify.com/album/6cV5RZ57OBWPkjNt1D19Hj",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6cV5RZ57OBWPkjNt1D19Hj",
+      externalLink: "https://open.spotify.com/album/6cV5RZ57OBWPkjNt1D19Hj",
+    },
+  ],
 } as const satisfies Release

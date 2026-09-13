@@ -12,6 +12,11 @@ export const japaneseBreakfastBeSweetKoreanVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-07-20",
-  externalId: "5WfeCVyCMFpTkkYkcVHT1x",
-  externalLink: "https://open.spotify.com/album/5WfeCVyCMFpTkkYkcVHT1x",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5WfeCVyCMFpTkkYkcVHT1x",
+      externalLink: "https://open.spotify.com/album/5WfeCVyCMFpTkkYkcVHT1x",
+    },
+  ],
 } as const satisfies Release

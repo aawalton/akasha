@@ -12,6 +12,11 @@ export const japaneseBreakfastLiveAtElectricLady = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-28",
-  externalId: "6v1WdsONXHBh8sCWCQWYUJ",
-  externalLink: "https://open.spotify.com/album/6v1WdsONXHBh8sCWCQWYUJ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6v1WdsONXHBh8sCWCQWYUJ",
+      externalLink: "https://open.spotify.com/album/6v1WdsONXHBh8sCWCQWYUJ",
+    },
+  ],
 } as const satisfies Release

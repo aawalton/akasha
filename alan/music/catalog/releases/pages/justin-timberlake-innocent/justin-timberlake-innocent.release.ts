@@ -12,6 +12,11 @@ export const justinTimberlakeInnocent = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-06-24",
-  externalId: "72LhQh2TSGItWp5RHLg8sL",
-  externalLink: "https://open.spotify.com/album/72LhQh2TSGItWp5RHLg8sL",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "72LhQh2TSGItWp5RHLg8sL",
+      externalLink: "https://open.spotify.com/album/72LhQh2TSGItWp5RHLg8sL",
+    },
+  ],
 } as const satisfies Release

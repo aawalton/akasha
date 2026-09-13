@@ -13,6 +13,11 @@ export const jennaRaineTechnicolor = {
   status: "completed",
   rank: "B",
   publishedAt: "2019-07-19",
-  externalId: "0afazUqBgKGgbhp7hQNuAF",
-  externalLink: "https://open.spotify.com/album/0afazUqBgKGgbhp7hQNuAF",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0afazUqBgKGgbhp7hQNuAF",
+      externalLink: "https://open.spotify.com/album/0afazUqBgKGgbhp7hQNuAF",
+    },
+  ],
 } as const satisfies Release

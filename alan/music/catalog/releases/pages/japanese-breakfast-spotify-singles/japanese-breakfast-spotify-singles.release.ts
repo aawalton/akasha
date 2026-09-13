@@ -12,6 +12,11 @@ export const japaneseBreakfastSpotifySingles = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-04-25",
-  externalId: "132C8QdLHNKEqAUrXiJFlk",
-  externalLink: "https://open.spotify.com/album/132C8QdLHNKEqAUrXiJFlk",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "132C8QdLHNKEqAUrXiJFlk",
+      externalLink: "https://open.spotify.com/album/132C8QdLHNKEqAUrXiJFlk",
+    },
+  ],
 } as const satisfies Release

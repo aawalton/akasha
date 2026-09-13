@@ -12,6 +12,11 @@ export const justinTimberlakeIMLovinIt = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2003-11-20",
-  externalId: "5OhhchwlHVUgUEKpkthbU0",
-  externalLink: "https://open.spotify.com/album/5OhhchwlHVUgUEKpkthbU0",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5OhhchwlHVUgUEKpkthbU0",
+      externalLink: "https://open.spotify.com/album/5OhhchwlHVUgUEKpkthbU0",
+    },
+  ],
 } as const satisfies Release

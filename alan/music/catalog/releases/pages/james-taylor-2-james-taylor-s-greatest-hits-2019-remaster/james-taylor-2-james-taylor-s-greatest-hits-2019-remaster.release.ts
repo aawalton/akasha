@@ -12,6 +12,11 @@ export const jamesTaylor2JamesTaylorSGreatestHits2019Remaster = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1976-11-01",
-  externalId: "6Vbqju0ioZgKRIFIpWX99S",
-  externalLink: "https://open.spotify.com/album/6Vbqju0ioZgKRIFIpWX99S",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6Vbqju0ioZgKRIFIpWX99S",
+      externalLink: "https://open.spotify.com/album/6Vbqju0ioZgKRIFIpWX99S",
+    },
+  ],
 } as const satisfies Release

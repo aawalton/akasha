@@ -12,6 +12,11 @@ export const jamesTaylor2JamesTaylorLive = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1993-06-30",
-  externalId: "38OACLXl1hgUnsuCUv13HC",
-  externalLink: "https://open.spotify.com/album/38OACLXl1hgUnsuCUv13HC",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "38OACLXl1hgUnsuCUv13HC",
+      externalLink: "https://open.spotify.com/album/38OACLXl1hgUnsuCUv13HC",
+    },
+  ],
 } as const satisfies Release

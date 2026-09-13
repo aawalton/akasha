@@ -12,6 +12,11 @@ export const japaneseBreakfastSoftSoundsFromAnotherPlanet = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-07-14",
-  externalId: "6PnTp1NIlueJGURW4zSYua",
-  externalLink: "https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6PnTp1NIlueJGURW4zSYua",
+      externalLink: "https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua",
+    },
+  ],
 } as const satisfies Release

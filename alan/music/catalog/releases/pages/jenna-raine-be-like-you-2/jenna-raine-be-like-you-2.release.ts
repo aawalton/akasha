@@ -13,6 +13,11 @@ export const jennaRaineBeLikeYou2 = {
   status: "completed",
   rank: "B",
   publishedAt: "2019-11-08",
-  externalId: "3WvSgPoWQIvNIKiRk8TMga",
-  externalLink: "https://open.spotify.com/album/3WvSgPoWQIvNIKiRk8TMga",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3WvSgPoWQIvNIKiRk8TMga",
+      externalLink: "https://open.spotify.com/album/3WvSgPoWQIvNIKiRk8TMga",
+    },
+  ],
 } as const satisfies Release

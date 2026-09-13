@@ -12,6 +12,11 @@ export const jadaFacerHereWithMe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-07-02",
-  externalId: "5bJqQlM1imaljnrGdApIrC",
-  externalLink: "https://open.spotify.com/album/5bJqQlM1imaljnrGdApIrC",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5bJqQlM1imaljnrGdApIrC",
+      externalLink: "https://open.spotify.com/album/5bJqQlM1imaljnrGdApIrC",
+    },
+  ],
 } as const satisfies Release

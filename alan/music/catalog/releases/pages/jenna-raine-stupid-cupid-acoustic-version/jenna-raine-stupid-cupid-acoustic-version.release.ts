@@ -13,6 +13,11 @@ export const jennaRaineStupidCupidAcousticVersion = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-04-14",
-  externalId: "7la8OQJ5dzgJ5oQFSeeTzk",
-  externalLink: "https://open.spotify.com/album/7la8OQJ5dzgJ5oQFSeeTzk",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7la8OQJ5dzgJ5oQFSeeTzk",
+      externalLink: "https://open.spotify.com/album/7la8OQJ5dzgJ5oQFSeeTzk",
+    },
+  ],
 } as const satisfies Release

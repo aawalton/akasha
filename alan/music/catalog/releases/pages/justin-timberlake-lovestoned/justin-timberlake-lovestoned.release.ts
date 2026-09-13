@@ -12,6 +12,11 @@ export const justinTimberlakeLovestoned = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2007-06-29",
-  externalId: "1tze7ApbUfn71mNcaixlX6",
-  externalLink: "https://open.spotify.com/album/1tze7ApbUfn71mNcaixlX6",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1tze7ApbUfn71mNcaixlX6",
+      externalLink: "https://open.spotify.com/album/1tze7ApbUfn71mNcaixlX6",
+    },
+  ],
 } as const satisfies Release

@@ -12,7 +12,12 @@ export const jessicaBaioItSNotChristmasWithoutYou = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-11-07",
-  externalId: "7CyZpo9YTPNzl9ODl5gCTj",
-  externalLink: "https://open.spotify.com/album/7CyZpo9YTPNzl9ODl5gCTj",
-  lastSyncedAt: "2025-11-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7CyZpo9YTPNzl9ODl5gCTj",
+      externalLink: "https://open.spotify.com/album/7CyZpo9YTPNzl9ODl5gCTj",
+      lastSyncedAt: "2025-11-30",
+    },
+  ],
 } as const satisfies Release

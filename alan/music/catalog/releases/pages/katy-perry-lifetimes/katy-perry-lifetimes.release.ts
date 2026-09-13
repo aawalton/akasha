@@ -12,6 +12,11 @@ export const katyPerryLifetimes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-08-08",
-  externalId: "6UEGp3MQnsKoK9rwKcKBUo",
-  externalLink: "https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6UEGp3MQnsKoK9rwKcKBUo",
+      externalLink: "https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo",
+    },
+  ],
 } as const satisfies Release

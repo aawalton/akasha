@@ -12,6 +12,11 @@ export const justinTimberlakeKeepGoingUp = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-09-01",
-  externalId: "0leO4lM0iYTks8dy039b7c",
-  externalLink: "https://open.spotify.com/album/0leO4lM0iYTks8dy039b7c",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0leO4lM0iYTks8dy039b7c",
+      externalLink: "https://open.spotify.com/album/0leO4lM0iYTks8dy039b7c",
+    },
+  ],
 } as const satisfies Release

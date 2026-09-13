@@ -12,6 +12,11 @@ export const katyPerrySmileJoelCorryRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-09-02",
-  externalId: "7c47yayjXtwCHIz9fKdUkn",
-  externalLink: "https://open.spotify.com/album/7c47yayjXtwCHIz9fKdUkn",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7c47yayjXtwCHIz9fKdUkn",
+      externalLink: "https://open.spotify.com/album/7c47yayjXtwCHIz9fKdUkn",
+    },
+  ],
 } as const satisfies Release

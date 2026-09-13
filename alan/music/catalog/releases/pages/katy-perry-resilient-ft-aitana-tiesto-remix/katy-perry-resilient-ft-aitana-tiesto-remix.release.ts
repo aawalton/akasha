@@ -12,6 +12,11 @@ export const katyPerryResilientFtAitanaTiestoRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-11-13",
-  externalId: "7hmFzviCSViV9Y9VJvlfYB",
-  externalLink: "https://open.spotify.com/album/7hmFzviCSViV9Y9VJvlfYB",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7hmFzviCSViV9Y9VJvlfYB",
+      externalLink: "https://open.spotify.com/album/7hmFzviCSViV9Y9VJvlfYB",
+    },
+  ],
 } as const satisfies Release

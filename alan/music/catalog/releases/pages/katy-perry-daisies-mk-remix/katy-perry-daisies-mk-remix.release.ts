@@ -12,6 +12,11 @@ export const katyPerryDaisiesMkRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-29",
-  externalId: "0wZb2kpOOrxfKwZrK9aVV7",
-  externalLink: "https://open.spotify.com/album/0wZb2kpOOrxfKwZrK9aVV7",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0wZb2kpOOrxfKwZrK9aVV7",
+      externalLink: "https://open.spotify.com/album/0wZb2kpOOrxfKwZrK9aVV7",
+    },
+  ],
 } as const satisfies Release

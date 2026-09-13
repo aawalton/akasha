@@ -13,6 +13,11 @@ export const jennaRaineINeedYou = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-06-17",
-  externalId: "6bFQ2urrYQJa8Lg22brndp",
-  externalLink: "https://open.spotify.com/album/6bFQ2urrYQJa8Lg22brndp",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6bFQ2urrYQJa8Lg22brndp",
+      externalLink: "https://open.spotify.com/album/6bFQ2urrYQJa8Lg22brndp",
+    },
+  ],
 } as const satisfies Release

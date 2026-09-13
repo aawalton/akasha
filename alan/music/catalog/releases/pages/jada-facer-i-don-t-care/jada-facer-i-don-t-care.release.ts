@@ -12,6 +12,11 @@ export const jadaFacerIDonTCare = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-05-28",
-  externalId: "6HkWlOM8D90OeisuOWhUaU",
-  externalLink: "https://open.spotify.com/album/6HkWlOM8D90OeisuOWhUaU",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6HkWlOM8D90OeisuOWhUaU",
+      externalLink: "https://open.spotify.com/album/6HkWlOM8D90OeisuOWhUaU",
+    },
+  ],
 } as const satisfies Release

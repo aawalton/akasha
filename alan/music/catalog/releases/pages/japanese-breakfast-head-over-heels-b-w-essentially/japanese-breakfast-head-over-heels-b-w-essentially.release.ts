@@ -12,6 +12,11 @@ export const japaneseBreakfastHeadOverHeelsBWEssentially = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-06-05",
-  externalId: "6A6tq2zXunbYJqXIHNGwMQ",
-  externalLink: "https://open.spotify.com/album/6A6tq2zXunbYJqXIHNGwMQ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6A6tq2zXunbYJqXIHNGwMQ",
+      externalLink: "https://open.spotify.com/album/6A6tq2zXunbYJqXIHNGwMQ",
+    },
+  ],
 } as const satisfies Release

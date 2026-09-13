@@ -12,6 +12,11 @@ export const justinTimberlakeEverythingIThoughtItWas = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-03-15",
-  externalId: "716B2iWcwoKolCXrqwLGQh",
-  externalLink: "https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "716B2iWcwoKolCXrqwLGQh",
+      externalLink: "https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh",
+    },
+  ],
 } as const satisfies Release

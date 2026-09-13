@@ -12,6 +12,11 @@ export const katyPerryIKissedAGirl3Track = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2008-01-01",
-  externalId: "4mSHPlhUjWDLsXRn0wIwIB",
-  externalLink: "https://open.spotify.com/album/4mSHPlhUjWDLsXRn0wIwIB",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4mSHPlhUjWDLsXRn0wIwIB",
+      externalLink: "https://open.spotify.com/album/4mSHPlhUjWDLsXRn0wIwIB",
+    },
+  ],
 } as const satisfies Release

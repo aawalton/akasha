@@ -12,6 +12,11 @@ export const kDaMore = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-10-28",
-  externalId: "5v3ALaT37zXgVHr3MZTVVx",
-  externalLink: "https://open.spotify.com/album/5v3ALaT37zXgVHr3MZTVVx",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5v3ALaT37zXgVHr3MZTVVx",
+      externalLink: "https://open.spotify.com/album/5v3ALaT37zXgVHr3MZTVVx",
+    },
+  ],
 } as const satisfies Release

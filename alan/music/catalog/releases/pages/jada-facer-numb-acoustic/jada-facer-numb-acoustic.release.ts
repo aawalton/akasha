@@ -12,6 +12,11 @@ export const jadaFacerNumbAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-01-19",
-  externalId: "1XNS5Iasg8XPp8BfH56ll2",
-  externalLink: "https://open.spotify.com/album/1XNS5Iasg8XPp8BfH56ll2",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1XNS5Iasg8XPp8BfH56ll2",
+      externalLink: "https://open.spotify.com/album/1XNS5Iasg8XPp8BfH56ll2",
+    },
+  ],
 } as const satisfies Release

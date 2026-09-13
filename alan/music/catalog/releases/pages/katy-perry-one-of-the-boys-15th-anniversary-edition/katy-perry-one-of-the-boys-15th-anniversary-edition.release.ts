@@ -12,6 +12,11 @@ export const katyPerryOneOfTheBoys15thAnniversaryEdition = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-06-20",
-  externalId: "4E0vDZuTPYYySw3TcVi6H0",
-  externalLink: "https://open.spotify.com/album/4E0vDZuTPYYySw3TcVi6H0",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4E0vDZuTPYYySw3TcVi6H0",
+      externalLink: "https://open.spotify.com/album/4E0vDZuTPYYySw3TcVi6H0",
+    },
+  ],
 } as const satisfies Release

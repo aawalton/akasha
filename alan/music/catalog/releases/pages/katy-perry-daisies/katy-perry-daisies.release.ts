@@ -12,6 +12,11 @@ export const katyPerryDaisies = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-15",
-  externalId: "2m5J1DUH7hJpPSOromIqpN",
-  externalLink: "https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2m5J1DUH7hJpPSOromIqpN",
+      externalLink: "https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN",
+    },
+  ],
 } as const satisfies Release

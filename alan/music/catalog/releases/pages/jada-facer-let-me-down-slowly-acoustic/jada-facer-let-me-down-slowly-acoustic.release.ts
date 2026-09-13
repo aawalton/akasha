@@ -12,6 +12,11 @@ export const jadaFacerLetMeDownSlowlyAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-11-07",
-  externalId: "19ZSXfoOnpopL6m49CTY5N",
-  externalLink: "https://open.spotify.com/album/19ZSXfoOnpopL6m49CTY5N",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "19ZSXfoOnpopL6m49CTY5N",
+      externalLink: "https://open.spotify.com/album/19ZSXfoOnpopL6m49CTY5N",
+    },
+  ],
 } as const satisfies Release

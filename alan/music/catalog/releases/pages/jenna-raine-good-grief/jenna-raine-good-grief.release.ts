@@ -13,6 +13,11 @@ export const jennaRaineGoodGrief = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-03-21",
-  externalId: "4PM14CRnzdPXc4BxHIWXP2",
-  externalLink: "https://open.spotify.com/album/4PM14CRnzdPXc4BxHIWXP2",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4PM14CRnzdPXc4BxHIWXP2",
+      externalLink: "https://open.spotify.com/album/4PM14CRnzdPXc4BxHIWXP2",
+    },
+  ],
 } as const satisfies Release

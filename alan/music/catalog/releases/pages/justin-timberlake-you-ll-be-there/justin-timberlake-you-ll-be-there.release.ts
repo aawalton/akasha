@@ -12,6 +12,11 @@ export const justinTimberlakeYouLlBeThere = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-10-31",
-  externalId: "0UviFWfhkRPshqdYeYAfrA",
-  externalLink: "https://open.spotify.com/album/0UviFWfhkRPshqdYeYAfrA",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0UviFWfhkRPshqdYeYAfrA",
+      externalLink: "https://open.spotify.com/album/0UviFWfhkRPshqdYeYAfrA",
+    },
+  ],
 } as const satisfies Release

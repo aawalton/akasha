@@ -13,7 +13,12 @@ export const jisooEyesClosedWithZaynBareUnveiled = {
   status: "completed",
   rank: "C",
   publishedAt: "2025-11-14",
-  externalId: "5svyQRBTyWj69Ko090Mi6d",
-  externalLink: "https://open.spotify.com/album/5svyQRBTyWj69Ko090Mi6d",
-  lastSyncedAt: "2025-11-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5svyQRBTyWj69Ko090Mi6d",
+      externalLink: "https://open.spotify.com/album/5svyQRBTyWj69Ko090Mi6d",
+      lastSyncedAt: "2025-11-24",
+    },
+  ],
 } as const satisfies Release

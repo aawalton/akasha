@@ -12,6 +12,11 @@ export const katyPerryBonAppetitMartinJensenRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-05-17",
-  externalId: "5rsuqGrc8DygDe3O9RspRQ",
-  externalLink: "https://open.spotify.com/album/5rsuqGrc8DygDe3O9RspRQ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5rsuqGrc8DygDe3O9RspRQ",
+      externalLink: "https://open.spotify.com/album/5rsuqGrc8DygDe3O9RspRQ",
+    },
+  ],
 } as const satisfies Release

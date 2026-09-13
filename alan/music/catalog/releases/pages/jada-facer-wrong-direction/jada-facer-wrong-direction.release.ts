@@ -12,6 +12,11 @@ export const jadaFacerWrongDirection = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-02-17",
-  externalId: "1gplWCYxnLtCP7uOlHNJO0",
-  externalLink: "https://open.spotify.com/album/1gplWCYxnLtCP7uOlHNJO0",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1gplWCYxnLtCP7uOlHNJO0",
+      externalLink: "https://open.spotify.com/album/1gplWCYxnLtCP7uOlHNJO0",
+    },
+  ],
 } as const satisfies Release

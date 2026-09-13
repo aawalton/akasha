@@ -12,6 +12,11 @@ export const justinTimberlakeStayWithMeWithJustinTimberlakeHalseyPharrell = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-07-15",
-  externalId: "62SWIKrov7HPXU0Jpc6LY1",
-  externalLink: "https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "62SWIKrov7HPXU0Jpc6LY1",
+      externalLink: "https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1",
+    },
+  ],
 } as const satisfies Release

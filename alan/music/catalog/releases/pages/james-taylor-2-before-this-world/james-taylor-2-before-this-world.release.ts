@@ -12,6 +12,11 @@ export const jamesTaylor2BeforeThisWorld = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-06-15",
-  externalId: "2pmZbxvc1ysu9pddrpAZe9",
-  externalLink: "https://open.spotify.com/album/2pmZbxvc1ysu9pddrpAZe9",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2pmZbxvc1ysu9pddrpAZe9",
+      externalLink: "https://open.spotify.com/album/2pmZbxvc1ysu9pddrpAZe9",
+    },
+  ],
 } as const satisfies Release

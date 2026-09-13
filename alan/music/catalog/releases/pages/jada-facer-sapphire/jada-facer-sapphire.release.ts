@@ -12,6 +12,11 @@ export const jadaFacerSapphire = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-08-22",
-  externalId: "7vswlMKsrPbYGpT3rtsPmi",
-  externalLink: "https://open.spotify.com/album/7vswlMKsrPbYGpT3rtsPmi",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7vswlMKsrPbYGpT3rtsPmi",
+      externalLink: "https://open.spotify.com/album/7vswlMKsrPbYGpT3rtsPmi",
+    },
+  ],
 } as const satisfies Release

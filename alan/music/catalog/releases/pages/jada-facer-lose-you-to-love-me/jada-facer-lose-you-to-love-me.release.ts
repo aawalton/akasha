@@ -12,6 +12,11 @@ export const jadaFacerLoseYouToLoveMe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-11-08",
-  externalId: "3K3lppyXKmwIktYJRwOguv",
-  externalLink: "https://open.spotify.com/album/3K3lppyXKmwIktYJRwOguv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3K3lppyXKmwIktYJRwOguv",
+      externalLink: "https://open.spotify.com/album/3K3lppyXKmwIktYJRwOguv",
+    },
+  ],
 } as const satisfies Release

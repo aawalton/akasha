@@ -12,6 +12,11 @@ export const justinTimberlakeJustified = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2002-11-04",
-  externalId: "6QPkyl04rXwTGlGlcYaRoW",
-  externalLink: "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6QPkyl04rXwTGlGlcYaRoW",
+      externalLink: "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW",
+    },
+  ],
 } as const satisfies Release

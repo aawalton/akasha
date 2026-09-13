@@ -12,6 +12,11 @@ export const jadaFacerGraveyard = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-10-18",
-  externalId: "4k1RZZYFzalAf1ayAepAgf",
-  externalLink: "https://open.spotify.com/album/4k1RZZYFzalAf1ayAepAgf",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4k1RZZYFzalAf1ayAepAgf",
+      externalLink: "https://open.spotify.com/album/4k1RZZYFzalAf1ayAepAgf",
+    },
+  ],
 } as const satisfies Release

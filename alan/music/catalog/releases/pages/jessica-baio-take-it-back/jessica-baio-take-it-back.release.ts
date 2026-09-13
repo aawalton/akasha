@@ -13,6 +13,11 @@ export const jessicaBaioTakeItBack = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-08-18",
-  externalId: "249kr54CdzGvjgsFBuimWU",
-  externalLink: "https://open.spotify.com/album/249kr54CdzGvjgsFBuimWU",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "249kr54CdzGvjgsFBuimWU",
+      externalLink: "https://open.spotify.com/album/249kr54CdzGvjgsFBuimWU",
+    },
+  ],
 } as const satisfies Release

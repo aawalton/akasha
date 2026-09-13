@@ -13,6 +13,11 @@ export const jessicaBaioGone = {
   status: "completed",
   rank: "B",
   publishedAt: "2021-08-20",
-  externalId: "1MhQTiOfcUVBrLQEncYm2Y",
-  externalLink: "https://open.spotify.com/album/1MhQTiOfcUVBrLQEncYm2Y",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1MhQTiOfcUVBrLQEncYm2Y",
+      externalLink: "https://open.spotify.com/album/1MhQTiOfcUVBrLQEncYm2Y",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const justinTimberlakeBelieveFeatJustinTimberlake = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-02-07",
-  externalId: "4A78487MGk0C4nLEVO1DWE",
-  externalLink: "https://open.spotify.com/album/4A78487MGk0C4nLEVO1DWE",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4A78487MGk0C4nLEVO1DWE",
+      externalLink: "https://open.spotify.com/album/4A78487MGk0C4nLEVO1DWE",
+    },
+  ],
 } as const satisfies Release

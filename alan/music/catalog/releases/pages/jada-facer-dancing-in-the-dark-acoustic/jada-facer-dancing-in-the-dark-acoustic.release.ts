@@ -12,6 +12,11 @@ export const jadaFacerDancingInTheDarkAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-02-17",
-  externalId: "3IrINc1M91JfK2pOgq2vc5",
-  externalLink: "https://open.spotify.com/album/3IrINc1M91JfK2pOgq2vc5",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3IrINc1M91JfK2pOgq2vc5",
+      externalLink: "https://open.spotify.com/album/3IrINc1M91JfK2pOgq2vc5",
+    },
+  ],
 } as const satisfies Release

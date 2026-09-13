@@ -12,6 +12,11 @@ export const jadaFacerLoveWillTearUsApart = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-03-02",
-  externalId: "5ckj7XKdHmDsws0z44xQI8",
-  externalLink: "https://open.spotify.com/album/5ckj7XKdHmDsws0z44xQI8",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5ckj7XKdHmDsws0z44xQI8",
+      externalLink: "https://open.spotify.com/album/5ckj7XKdHmDsws0z44xQI8",
+    },
+  ],
 } as const satisfies Release

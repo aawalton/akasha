@@ -13,6 +13,11 @@ export const jessicaBaioSlowDown = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-05-24",
-  externalId: "5Ej7j1DuYx8vqML3Ewtxtx",
-  externalLink: "https://open.spotify.com/album/5Ej7j1DuYx8vqML3Ewtxtx",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5Ej7j1DuYx8vqML3Ewtxtx",
+      externalLink: "https://open.spotify.com/album/5Ej7j1DuYx8vqML3Ewtxtx",
+    },
+  ],
 } as const satisfies Release

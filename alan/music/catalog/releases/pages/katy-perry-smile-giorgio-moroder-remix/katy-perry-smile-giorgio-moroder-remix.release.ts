@@ -12,6 +12,11 @@ export const katyPerrySmileGiorgioMoroderRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-08-25",
-  externalId: "7mACKWAFfDrMHmtjmaRVz6",
-  externalLink: "https://open.spotify.com/album/7mACKWAFfDrMHmtjmaRVz6",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7mACKWAFfDrMHmtjmaRVz6",
+      externalLink: "https://open.spotify.com/album/7mACKWAFfDrMHmtjmaRVz6",
+    },
+  ],
 } as const satisfies Release

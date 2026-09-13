@@ -12,6 +12,11 @@ export const justinTimberlakeSinFin = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2022-08-30",
-  externalId: "6bcsXfLlMTAWGWdWofzM2l",
-  externalLink: "https://open.spotify.com/album/6bcsXfLlMTAWGWdWofzM2l",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6bcsXfLlMTAWGWdWofzM2l",
+      externalLink: "https://open.spotify.com/album/6bcsXfLlMTAWGWdWofzM2l",
+    },
+  ],
 } as const satisfies Release

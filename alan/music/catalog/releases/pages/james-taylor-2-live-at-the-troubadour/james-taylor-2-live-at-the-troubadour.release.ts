@@ -12,6 +12,11 @@ export const jamesTaylor2LiveAtTheTroubadour = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2010-01-01",
-  externalId: "0sCulNLnuzZW4TGugGi6Gv",
-  externalLink: "https://open.spotify.com/album/0sCulNLnuzZW4TGugGi6Gv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0sCulNLnuzZW4TGugGi6Gv",
+      externalLink: "https://open.spotify.com/album/0sCulNLnuzZW4TGugGi6Gv",
+    },
+  ],
 } as const satisfies Release

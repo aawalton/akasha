@@ -12,6 +12,11 @@ export const jadaFacerFrozen = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-12-08",
-  externalId: "6bcPLmsadP3DPUpTVkgbe9",
-  externalLink: "https://open.spotify.com/album/6bcPLmsadP3DPUpTVkgbe9",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6bcPLmsadP3DPUpTVkgbe9",
+      externalLink: "https://open.spotify.com/album/6bcPLmsadP3DPUpTVkgbe9",
+    },
+  ],
 } as const satisfies Release

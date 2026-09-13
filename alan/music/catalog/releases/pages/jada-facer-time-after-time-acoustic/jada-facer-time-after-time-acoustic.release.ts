@@ -12,6 +12,11 @@ export const jadaFacerTimeAfterTimeAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-01-09",
-  externalId: "5uxvXq75wFr9uRKR1QVVKq",
-  externalLink: "https://open.spotify.com/album/5uxvXq75wFr9uRKR1QVVKq",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5uxvXq75wFr9uRKR1QVVKq",
+      externalLink: "https://open.spotify.com/album/5uxvXq75wFr9uRKR1QVVKq",
+    },
+  ],
 } as const satisfies Release

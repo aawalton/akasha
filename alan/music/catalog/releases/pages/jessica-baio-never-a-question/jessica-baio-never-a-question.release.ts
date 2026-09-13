@@ -13,6 +13,11 @@ export const jessicaBaioNeverAQuestion = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-02-17",
-  externalId: "2uisqUDEHFfUNrdwPFF3bn",
-  externalLink: "https://open.spotify.com/album/2uisqUDEHFfUNrdwPFF3bn",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2uisqUDEHFfUNrdwPFF3bn",
+      externalLink: "https://open.spotify.com/album/2uisqUDEHFfUNrdwPFF3bn",
+    },
+  ],
 } as const satisfies Release

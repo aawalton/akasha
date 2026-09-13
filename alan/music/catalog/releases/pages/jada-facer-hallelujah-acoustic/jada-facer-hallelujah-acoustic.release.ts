@@ -12,6 +12,11 @@ export const jadaFacerHallelujahAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-11-28",
-  externalId: "620sEzmHRuOfXiY2HhRZyN",
-  externalLink: "https://open.spotify.com/album/620sEzmHRuOfXiY2HhRZyN",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "620sEzmHRuOfXiY2HhRZyN",
+      externalLink: "https://open.spotify.com/album/620sEzmHRuOfXiY2HhRZyN",
+    },
+  ],
 } as const satisfies Release

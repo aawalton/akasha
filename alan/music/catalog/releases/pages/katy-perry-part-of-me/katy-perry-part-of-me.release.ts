@@ -12,6 +12,11 @@ export const katyPerryPartOfMe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2012-01-01",
-  externalId: "5INuonUsIvNm8lrepTm41x",
-  externalLink: "https://open.spotify.com/album/5INuonUsIvNm8lrepTm41x",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5INuonUsIvNm8lrepTm41x",
+      externalLink: "https://open.spotify.com/album/5INuonUsIvNm8lrepTm41x",
+    },
+  ],
 } as const satisfies Release

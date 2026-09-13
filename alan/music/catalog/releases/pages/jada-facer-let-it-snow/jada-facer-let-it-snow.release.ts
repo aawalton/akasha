@@ -12,6 +12,11 @@ export const jadaFacerLetItSnow = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-11-28",
-  externalId: "0NJy2eqYNXmUmgklF02S6X",
-  externalLink: "https://open.spotify.com/album/0NJy2eqYNXmUmgklF02S6X",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0NJy2eqYNXmUmgklF02S6X",
+      externalLink: "https://open.spotify.com/album/0NJy2eqYNXmUmgklF02S6X",
+    },
+  ],
 } as const satisfies Release

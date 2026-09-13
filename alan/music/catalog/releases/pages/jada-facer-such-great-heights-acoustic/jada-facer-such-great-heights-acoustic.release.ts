@@ -12,6 +12,11 @@ export const jadaFacerSuchGreatHeightsAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-12-04",
-  externalId: "0voQ4L5OiuKOKo9je9fZsZ",
-  externalLink: "https://open.spotify.com/album/0voQ4L5OiuKOKo9je9fZsZ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0voQ4L5OiuKOKo9je9fZsZ",
+      externalLink: "https://open.spotify.com/album/0voQ4L5OiuKOKo9je9fZsZ",
+    },
+  ],
 } as const satisfies Release

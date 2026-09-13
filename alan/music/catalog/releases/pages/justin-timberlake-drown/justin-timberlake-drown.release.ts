@@ -12,6 +12,11 @@ export const justinTimberlakeDrown = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-02-23",
-  externalId: "5PpH5XpQ59g6CB399oKkVA",
-  externalLink: "https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5PpH5XpQ59g6CB399oKkVA",
+      externalLink: "https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA",
+    },
+  ],
 } as const satisfies Release

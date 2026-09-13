@@ -12,6 +12,11 @@ export const kDaTheBaddest = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-08-27",
-  externalId: "3qo3MiVHiorkDRbuhjKK5d",
-  externalLink: "https://open.spotify.com/album/3qo3MiVHiorkDRbuhjKK5d",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3qo3MiVHiorkDRbuhjKK5d",
+      externalLink: "https://open.spotify.com/album/3qo3MiVHiorkDRbuhjKK5d",
+    },
+  ],
 } as const satisfies Release

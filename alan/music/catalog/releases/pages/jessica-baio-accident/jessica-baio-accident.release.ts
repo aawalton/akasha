@@ -12,7 +12,12 @@ export const jessicaBaioAccident = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-10-24",
-  externalId: "1txZIezoR87PmBEO6QPTqK",
-  externalLink: "https://open.spotify.com/album/1txZIezoR87PmBEO6QPTqK",
-  lastSyncedAt: "2025-10-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1txZIezoR87PmBEO6QPTqK",
+      externalLink: "https://open.spotify.com/album/1txZIezoR87PmBEO6QPTqK",
+      lastSyncedAt: "2025-10-30",
+    },
+  ],
 } as const satisfies Release

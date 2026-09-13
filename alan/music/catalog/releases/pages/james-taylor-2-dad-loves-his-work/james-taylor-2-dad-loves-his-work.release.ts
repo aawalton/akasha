@@ -12,6 +12,11 @@ export const jamesTaylor2DadLovesHisWork = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1981-01-01",
-  externalId: "2MDPMawWYx0T4FjdZWCU6f",
-  externalLink: "https://open.spotify.com/album/2MDPMawWYx0T4FjdZWCU6f",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2MDPMawWYx0T4FjdZWCU6f",
+      externalLink: "https://open.spotify.com/album/2MDPMawWYx0T4FjdZWCU6f",
+    },
+  ],
 } as const satisfies Release

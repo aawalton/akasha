@@ -12,6 +12,11 @@ export const justinTimberlakeIcuWithJustinTimberlakeRemix = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-07-14",
-  externalId: "2WknTzc9xga0IgeYMY3pZ7",
-  externalLink: "https://open.spotify.com/album/2WknTzc9xga0IgeYMY3pZ7",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2WknTzc9xga0IgeYMY3pZ7",
+      externalLink: "https://open.spotify.com/album/2WknTzc9xga0IgeYMY3pZ7",
+    },
+  ],
 } as const satisfies Release

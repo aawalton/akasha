@@ -12,6 +12,11 @@ export const jadaFacerTheScientist = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-12-17",
-  externalId: "3U0dRdIYC3Lwtctsyh1fh7",
-  externalLink: "https://open.spotify.com/album/3U0dRdIYC3Lwtctsyh1fh7",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3U0dRdIYC3Lwtctsyh1fh7",
+      externalLink: "https://open.spotify.com/album/3U0dRdIYC3Lwtctsyh1fh7",
+    },
+  ],
 } as const satisfies Release

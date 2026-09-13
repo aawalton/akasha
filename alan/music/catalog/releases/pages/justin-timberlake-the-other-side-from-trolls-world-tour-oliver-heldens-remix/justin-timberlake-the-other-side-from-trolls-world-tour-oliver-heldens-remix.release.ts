@@ -12,6 +12,11 @@ export const justinTimberlakeTheOtherSideFromTrollsWorldTourOliverHeldensRemix =
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-04-10",
-  externalId: "2Pmbbx6FMe27iG2ReNrTyz",
-  externalLink: "https://open.spotify.com/album/2Pmbbx6FMe27iG2ReNrTyz",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2Pmbbx6FMe27iG2ReNrTyz",
+      externalLink: "https://open.spotify.com/album/2Pmbbx6FMe27iG2ReNrTyz",
+    },
+  ],
 } as const satisfies Release

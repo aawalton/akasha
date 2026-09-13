@@ -12,6 +12,11 @@ export const jadaFacerHurtlessAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-04-01",
-  externalId: "5s20BMWStxZhx1sMiDhcqb",
-  externalLink: "https://open.spotify.com/album/5s20BMWStxZhx1sMiDhcqb",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5s20BMWStxZhx1sMiDhcqb",
+      externalLink: "https://open.spotify.com/album/5s20BMWStxZhx1sMiDhcqb",
+    },
+  ],
 } as const satisfies Release

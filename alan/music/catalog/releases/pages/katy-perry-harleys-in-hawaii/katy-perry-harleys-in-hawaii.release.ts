@@ -12,6 +12,11 @@ export const katyPerryHarleysInHawaii = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-10-16",
-  externalId: "30UjBkRwwBeCdspCGPBB8V",
-  externalLink: "https://open.spotify.com/album/30UjBkRwwBeCdspCGPBB8V",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "30UjBkRwwBeCdspCGPBB8V",
+      externalLink: "https://open.spotify.com/album/30UjBkRwwBeCdspCGPBB8V",
+    },
+  ],
 } as const satisfies Release

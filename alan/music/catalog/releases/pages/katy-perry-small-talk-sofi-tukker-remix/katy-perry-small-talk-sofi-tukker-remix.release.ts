@@ -12,6 +12,11 @@ export const katyPerrySmallTalkSofiTukkerRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-10-11",
-  externalId: "0LJe9wjQloxWKHFcGmQuNI",
-  externalLink: "https://open.spotify.com/album/0LJe9wjQloxWKHFcGmQuNI",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0LJe9wjQloxWKHFcGmQuNI",
+      externalLink: "https://open.spotify.com/album/0LJe9wjQloxWKHFcGmQuNI",
+    },
+  ],
 } as const satisfies Release

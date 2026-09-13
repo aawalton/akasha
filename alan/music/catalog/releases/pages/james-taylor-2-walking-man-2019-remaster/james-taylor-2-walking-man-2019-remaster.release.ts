@@ -12,6 +12,11 @@ export const jamesTaylor2WalkingMan2019Remaster = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1974-06-01",
-  externalId: "1pa0QvYjLsiYWQlkMvqPZL",
-  externalLink: "https://open.spotify.com/album/1pa0QvYjLsiYWQlkMvqPZL",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1pa0QvYjLsiYWQlkMvqPZL",
+      externalLink: "https://open.spotify.com/album/1pa0QvYjLsiYWQlkMvqPZL",
+    },
+  ],
 } as const satisfies Release

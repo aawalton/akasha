@@ -12,6 +12,11 @@ export const justinTimberlake3dJustinTimberlakeRemix = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-11-24",
-  externalId: "4SNBgrYqk2aV4LyXbTSkYA",
-  externalLink: "https://open.spotify.com/album/4SNBgrYqk2aV4LyXbTSkYA",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4SNBgrYqk2aV4LyXbTSkYA",
+      externalLink: "https://open.spotify.com/album/4SNBgrYqk2aV4LyXbTSkYA",
+    },
+  ],
 } as const satisfies Release

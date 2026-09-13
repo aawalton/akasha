@@ -12,6 +12,11 @@ export const jadaFacerWhenIWasYourManAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-05-12",
-  externalId: "05KB9OZYsroF0udipoYa0Y",
-  externalLink: "https://open.spotify.com/album/05KB9OZYsroF0udipoYa0Y",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "05KB9OZYsroF0udipoYa0Y",
+      externalLink: "https://open.spotify.com/album/05KB9OZYsroF0udipoYa0Y",
+    },
+  ],
 } as const satisfies Release

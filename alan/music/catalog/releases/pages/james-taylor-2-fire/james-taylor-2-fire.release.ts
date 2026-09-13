@@ -12,6 +12,11 @@ export const jamesTaylor2Fire = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2000-01-03",
-  externalId: "2ATrZVFsFYoyFaOr0xtDhB",
-  externalLink: "https://open.spotify.com/album/2ATrZVFsFYoyFaOr0xtDhB",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2ATrZVFsFYoyFaOr0xtDhB",
+      externalLink: "https://open.spotify.com/album/2ATrZVFsFYoyFaOr0xtDhB",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const jadaFacerHaloAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-02-09",
-  externalId: "4l2YP0vLmML7jh34CvRzGn",
-  externalLink: "https://open.spotify.com/album/4l2YP0vLmML7jh34CvRzGn",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4l2YP0vLmML7jh34CvRzGn",
+      externalLink: "https://open.spotify.com/album/4l2YP0vLmML7jh34CvRzGn",
+    },
+  ],
 } as const satisfies Release

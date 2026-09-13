@@ -12,6 +12,11 @@ export const japaneseBreakfastTheBalladOfTheWitchesRoadPopVersionFromAgathaAllAl
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-10-18",
-  externalId: "5JrcjA3eetOUQ5bUbKfjVm",
-  externalLink: "https://open.spotify.com/album/5JrcjA3eetOUQ5bUbKfjVm",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5JrcjA3eetOUQ5bUbKfjVm",
+      externalLink: "https://open.spotify.com/album/5JrcjA3eetOUQ5bUbKfjVm",
+    },
+  ],
 } as const satisfies Release

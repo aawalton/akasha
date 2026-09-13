@@ -12,6 +12,11 @@ export const jadaFacerUnsteady = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-21",
-  externalId: "6FJZibc6mweTNNnQCeFs3w",
-  externalLink: "https://open.spotify.com/album/6FJZibc6mweTNNnQCeFs3w",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6FJZibc6mweTNNnQCeFs3w",
+      externalLink: "https://open.spotify.com/album/6FJZibc6mweTNNnQCeFs3w",
+    },
+  ],
 } as const satisfies Release

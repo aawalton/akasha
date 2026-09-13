@@ -12,6 +12,11 @@ export const jadaFacerMyStrangeAddiction = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-04-19",
-  externalId: "1JtCdx31ZxHvZEVVFnBtTt",
-  externalLink: "https://open.spotify.com/album/1JtCdx31ZxHvZEVVFnBtTt",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1JtCdx31ZxHvZEVVFnBtTt",
+      externalLink: "https://open.spotify.com/album/1JtCdx31ZxHvZEVVFnBtTt",
+    },
+  ],
 } as const satisfies Release

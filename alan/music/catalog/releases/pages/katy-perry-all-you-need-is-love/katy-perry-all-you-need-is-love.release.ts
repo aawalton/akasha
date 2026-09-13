@@ -12,6 +12,11 @@ export const katyPerryAllYouNeedIsLove = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-25",
-  externalId: "0yLJMIgyF3luW7T884EOGR",
-  externalLink: "https://open.spotify.com/album/0yLJMIgyF3luW7T884EOGR",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0yLJMIgyF3luW7T884EOGR",
+      externalLink: "https://open.spotify.com/album/0yLJMIgyF3luW7T884EOGR",
+    },
+  ],
 } as const satisfies Release

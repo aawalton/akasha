@@ -12,6 +12,11 @@ export const jamesTaylor2GreatestHits = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1976-01-01",
-  externalId: "2L4U4JjEADYaVltkvDrkCC",
-  externalLink: "https://open.spotify.com/album/2L4U4JjEADYaVltkvDrkCC",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2L4U4JjEADYaVltkvDrkCC",
+      externalLink: "https://open.spotify.com/album/2L4U4JjEADYaVltkvDrkCC",
+    },
+  ],
 } as const satisfies Release

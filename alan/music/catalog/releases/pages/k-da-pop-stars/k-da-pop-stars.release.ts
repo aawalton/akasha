@@ -12,6 +12,11 @@ export const kDaPopStars = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-11-03",
-  externalId: "6kCiN9VNYVhF2TDekK1mzz",
-  externalLink: "https://open.spotify.com/album/6kCiN9VNYVhF2TDekK1mzz",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6kCiN9VNYVhF2TDekK1mzz",
+      externalLink: "https://open.spotify.com/album/6kCiN9VNYVhF2TDekK1mzz",
+    },
+  ],
 } as const satisfies Release

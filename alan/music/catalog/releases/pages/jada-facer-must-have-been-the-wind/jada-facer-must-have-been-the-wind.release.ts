@@ -12,6 +12,11 @@ export const jadaFacerMustHaveBeenTheWind = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-07-26",
-  externalId: "2kBnlQG3XYS96D80zaClma",
-  externalLink: "https://open.spotify.com/album/2kBnlQG3XYS96D80zaClma",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2kBnlQG3XYS96D80zaClma",
+      externalLink: "https://open.spotify.com/album/2kBnlQG3XYS96D80zaClma",
+    },
+  ],
 } as const satisfies Release

@@ -13,6 +13,11 @@ export const jessicaBaio20Something = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-03-29",
-  externalId: "5xoHpRnnxIH33pFgPXtYTf",
-  externalLink: "https://open.spotify.com/album/5xoHpRnnxIH33pFgPXtYTf",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5xoHpRnnxIH33pFgPXtYTf",
+      externalLink: "https://open.spotify.com/album/5xoHpRnnxIH33pFgPXtYTf",
+    },
+  ],
 } as const satisfies Release

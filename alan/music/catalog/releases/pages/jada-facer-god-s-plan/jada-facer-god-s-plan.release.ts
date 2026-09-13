@@ -12,6 +12,11 @@ export const jadaFacerGodSPlan = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-03-07",
-  externalId: "5iOs2GER6IKeN530eGH8yy",
-  externalLink: "https://open.spotify.com/album/5iOs2GER6IKeN530eGH8yy",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5iOs2GER6IKeN530eGH8yy",
+      externalLink: "https://open.spotify.com/album/5iOs2GER6IKeN530eGH8yy",
+    },
+  ],
 } as const satisfies Release

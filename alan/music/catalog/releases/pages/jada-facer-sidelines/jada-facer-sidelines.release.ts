@@ -12,6 +12,11 @@ export const jadaFacerSidelines = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-09-14",
-  externalId: "6SKzkXoi2Fb5knXtmLB0gM",
-  externalLink: "https://open.spotify.com/album/6SKzkXoi2Fb5knXtmLB0gM",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6SKzkXoi2Fb5knXtmLB0gM",
+      externalLink: "https://open.spotify.com/album/6SKzkXoi2Fb5knXtmLB0gM",
+    },
+  ],
 } as const satisfies Release

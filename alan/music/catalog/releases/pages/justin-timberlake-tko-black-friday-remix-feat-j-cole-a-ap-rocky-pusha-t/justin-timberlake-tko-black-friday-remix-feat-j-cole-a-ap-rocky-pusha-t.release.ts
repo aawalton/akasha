@@ -12,6 +12,11 @@ export const justinTimberlakeTkoBlackFridayRemixFeatJColeAApRockyPushaT = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2013-12-11",
-  externalId: "46GFWEybCT9t4ey4s9sfHt",
-  externalLink: "https://open.spotify.com/album/46GFWEybCT9t4ey4s9sfHt",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "46GFWEybCT9t4ey4s9sfHt",
+      externalLink: "https://open.spotify.com/album/46GFWEybCT9t4ey4s9sfHt",
+    },
+  ],
 } as const satisfies Release

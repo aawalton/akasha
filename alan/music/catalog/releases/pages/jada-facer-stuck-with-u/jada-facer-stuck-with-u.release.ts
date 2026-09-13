@@ -12,6 +12,11 @@ export const jadaFacerStuckWithU = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-28",
-  externalId: "0GRRiimsVdiQZtexAvdNgf",
-  externalLink: "https://open.spotify.com/album/0GRRiimsVdiQZtexAvdNgf",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0GRRiimsVdiQZtexAvdNgf",
+      externalLink: "https://open.spotify.com/album/0GRRiimsVdiQZtexAvdNgf",
+    },
+  ],
 } as const satisfies Release

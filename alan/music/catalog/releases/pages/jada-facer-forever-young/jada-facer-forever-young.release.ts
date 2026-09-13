@@ -12,6 +12,11 @@ export const jadaFacerForeverYoung = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-10-29",
-  externalId: "1sQt3iQ3eFDyIcZHQOOy7b",
-  externalLink: "https://open.spotify.com/album/1sQt3iQ3eFDyIcZHQOOy7b",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1sQt3iQ3eFDyIcZHQOOy7b",
+      externalLink: "https://open.spotify.com/album/1sQt3iQ3eFDyIcZHQOOy7b",
+    },
+  ],
 } as const satisfies Release

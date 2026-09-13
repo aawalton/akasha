@@ -12,6 +12,11 @@ export const justinTimberlakeThe2020Experience2Of2Deluxe = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2013-09-27",
-  externalId: "5lYzReGzcSNF0Gx47wm6qU",
-  externalLink: "https://open.spotify.com/album/5lYzReGzcSNF0Gx47wm6qU",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5lYzReGzcSNF0Gx47wm6qU",
+      externalLink: "https://open.spotify.com/album/5lYzReGzcSNF0Gx47wm6qU",
+    },
+  ],
 } as const satisfies Release

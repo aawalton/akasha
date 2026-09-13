@@ -12,6 +12,11 @@ export const jadaFacerILlBeHomeForChristmasAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-11-25",
-  externalId: "74FOFKXt9gpibb3nI0eAqt",
-  externalLink: "https://open.spotify.com/album/74FOFKXt9gpibb3nI0eAqt",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "74FOFKXt9gpibb3nI0eAqt",
+      externalLink: "https://open.spotify.com/album/74FOFKXt9gpibb3nI0eAqt",
+    },
+  ],
 } as const satisfies Release

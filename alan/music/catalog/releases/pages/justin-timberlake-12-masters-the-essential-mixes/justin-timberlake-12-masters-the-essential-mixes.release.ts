@@ -12,6 +12,11 @@ export const justinTimberlake12MastersTheEssentialMixes = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2010-09-17",
-  externalId: "5nEa8zZQgZetmabLXu72Ko",
-  externalLink: "https://open.spotify.com/album/5nEa8zZQgZetmabLXu72Ko",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5nEa8zZQgZetmabLXu72Ko",
+      externalLink: "https://open.spotify.com/album/5nEa8zZQgZetmabLXu72Ko",
+    },
+  ],
 } as const satisfies Release

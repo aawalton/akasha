@@ -12,6 +12,11 @@ export const justinTimberlakeBetterPlaceFromTrollsBandTogether = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-09-29",
-  externalId: "6kF2smJylLgcekEyliE3p8",
-  externalLink: "https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6kF2smJylLgcekEyliE3p8",
+      externalLink: "https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8",
+    },
+  ],
 } as const satisfies Release

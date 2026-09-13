@@ -12,6 +12,11 @@ export const jadaFacerShutUpAndDanceAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-03-05",
-  externalId: "2XDvjclTrlsrdUbsseVhqr",
-  externalLink: "https://open.spotify.com/album/2XDvjclTrlsrdUbsseVhqr",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2XDvjclTrlsrdUbsseVhqr",
+      externalLink: "https://open.spotify.com/album/2XDvjclTrlsrdUbsseVhqr",
+    },
+  ],
 } as const satisfies Release

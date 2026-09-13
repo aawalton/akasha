@@ -13,6 +13,11 @@ export const jessicaBaioPetals = {
   status: "completed",
   rank: "A",
   publishedAt: "2024-01-12",
-  externalId: "0nCriAFnpCNUPgF9VtWhFb",
-  externalLink: "https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0nCriAFnpCNUPgF9VtWhFb",
+      externalLink: "https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb",
+    },
+  ],
 } as const satisfies Release

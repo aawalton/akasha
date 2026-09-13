@@ -12,6 +12,11 @@ export const jamesTaylor2AmericanStandard = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-02-28",
-  externalId: "0wwpYXYdn6MSrWHZv4nyFh",
-  externalLink: "https://open.spotify.com/album/0wwpYXYdn6MSrWHZv4nyFh",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0wwpYXYdn6MSrWHZv4nyFh",
+      externalLink: "https://open.spotify.com/album/0wwpYXYdn6MSrWHZv4nyFh",
+    },
+  ],
 } as const satisfies Release

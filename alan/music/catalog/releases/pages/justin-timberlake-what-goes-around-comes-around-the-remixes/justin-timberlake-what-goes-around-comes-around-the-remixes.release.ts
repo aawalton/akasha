@@ -12,6 +12,11 @@ export const justinTimberlakeWhatGoesAroundComesAroundTheRemixes = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2007-02-27",
-  externalId: "6G2boZuVyTIIxlmTG52NsI",
-  externalLink: "https://open.spotify.com/album/6G2boZuVyTIIxlmTG52NsI",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6G2boZuVyTIIxlmTG52NsI",
+      externalLink: "https://open.spotify.com/album/6G2boZuVyTIIxlmTG52NsI",
+    },
+  ],
 } as const satisfies Release

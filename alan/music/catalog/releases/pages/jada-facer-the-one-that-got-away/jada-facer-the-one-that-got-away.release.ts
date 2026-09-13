@@ -12,6 +12,11 @@ export const jadaFacerTheOneThatGotAway = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-05-16",
-  externalId: "4Dgx4EYHIiV1socENoJ0RW",
-  externalLink: "https://open.spotify.com/album/4Dgx4EYHIiV1socENoJ0RW",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4Dgx4EYHIiV1socENoJ0RW",
+      externalLink: "https://open.spotify.com/album/4Dgx4EYHIiV1socENoJ0RW",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const jadaFacerThinkingOutLoudAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-04-20",
-  externalId: "23XDhcB6YoFnltW5cYPJJu",
-  externalLink: "https://open.spotify.com/album/23XDhcB6YoFnltW5cYPJJu",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "23XDhcB6YoFnltW5cYPJJu",
+      externalLink: "https://open.spotify.com/album/23XDhcB6YoFnltW5cYPJJu",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const jadaFacerYouReStillTheOneAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-12-15",
-  externalId: "0gartpyZ1UQqc2uJoD4hFX",
-  externalLink: "https://open.spotify.com/album/0gartpyZ1UQqc2uJoD4hFX",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0gartpyZ1UQqc2uJoD4hFX",
+      externalLink: "https://open.spotify.com/album/0gartpyZ1UQqc2uJoD4hFX",
+    },
+  ],
 } as const satisfies Release

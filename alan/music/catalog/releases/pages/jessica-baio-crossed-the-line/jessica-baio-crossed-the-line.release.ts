@@ -13,6 +13,11 @@ export const jessicaBaioCrossedTheLine = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-06-03",
-  externalId: "3uHxJ5d59sPuN3M5e9iwZ0",
-  externalLink: "https://open.spotify.com/album/3uHxJ5d59sPuN3M5e9iwZ0",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3uHxJ5d59sPuN3M5e9iwZ0",
+      externalLink: "https://open.spotify.com/album/3uHxJ5d59sPuN3M5e9iwZ0",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const jadaFacerMrBrightside = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-03-09",
-  externalId: "7z4CkC1GkG9IikAcygwj0C",
-  externalLink: "https://open.spotify.com/album/7z4CkC1GkG9IikAcygwj0C",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7z4CkC1GkG9IikAcygwj0C",
+      externalLink: "https://open.spotify.com/album/7z4CkC1GkG9IikAcygwj0C",
+    },
+  ],
 } as const satisfies Release

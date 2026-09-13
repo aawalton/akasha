@@ -12,6 +12,11 @@ export const katyPerrySmileM22Remix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-09-18",
-  externalId: "1zWTqN1kSs4420dq2tqUzo",
-  externalLink: "https://open.spotify.com/album/1zWTqN1kSs4420dq2tqUzo",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1zWTqN1kSs4420dq2tqUzo",
+      externalLink: "https://open.spotify.com/album/1zWTqN1kSs4420dq2tqUzo",
+    },
+  ],
 } as const satisfies Release

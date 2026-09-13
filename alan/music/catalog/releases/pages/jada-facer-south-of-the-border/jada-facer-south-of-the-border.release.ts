@@ -12,6 +12,11 @@ export const jadaFacerSouthOfTheBorder = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-08-02",
-  externalId: "5WOj3ebKbFPURallwZj0D6",
-  externalLink: "https://open.spotify.com/album/5WOj3ebKbFPURallwZj0D6",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5WOj3ebKbFPURallwZj0D6",
+      externalLink: "https://open.spotify.com/album/5WOj3ebKbFPURallwZj0D6",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const jamesTaylor2ThatSWhyIMHere = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1985-01-01",
-  externalId: "24C7QcqwW2DvYgGiQeNTr6",
-  externalLink: "https://open.spotify.com/album/24C7QcqwW2DvYgGiQeNTr6",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "24C7QcqwW2DvYgGiQeNTr6",
+      externalLink: "https://open.spotify.com/album/24C7QcqwW2DvYgGiQeNTr6",
+    },
+  ],
 } as const satisfies Release

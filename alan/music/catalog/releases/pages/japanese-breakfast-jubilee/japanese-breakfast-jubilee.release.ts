@@ -12,6 +12,11 @@ export const japaneseBreakfastJubilee = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-06-04",
-  externalId: "1uD1kdwTWH1DZQZqGKz6rY",
-  externalLink: "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1uD1kdwTWH1DZQZqGKz6rY",
+      externalLink: "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY",
+    },
+  ],
 } as const satisfies Release

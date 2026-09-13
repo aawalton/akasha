@@ -12,6 +12,11 @@ export const justinTimberlakeFollowMyLeadFeatEsmeeDenters = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2008-11-18",
-  externalId: "2fn396iwhYixSewfPwXlIi",
-  externalLink: "https://open.spotify.com/album/2fn396iwhYixSewfPwXlIi",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2fn396iwhYixSewfPwXlIi",
+      externalLink: "https://open.spotify.com/album/2fn396iwhYixSewfPwXlIi",
+    },
+  ],
 } as const satisfies Release

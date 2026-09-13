@@ -13,6 +13,11 @@ export const jessicaBaioHeLovesMeHeLovesMeNotStripped = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-02-14",
-  externalId: "1u2OZ8Aqv4gNcot9JeuDBF",
-  externalLink: "https://open.spotify.com/album/1u2OZ8Aqv4gNcot9JeuDBF",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1u2OZ8Aqv4gNcot9JeuDBF",
+      externalLink: "https://open.spotify.com/album/1u2OZ8Aqv4gNcot9JeuDBF",
+    },
+  ],
 } as const satisfies Release

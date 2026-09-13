@@ -12,6 +12,11 @@ export const jamesTaylor2ComingBackToYou = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-07-28",
-  externalId: "5kHIm8MtwOa6jVGS4nFC31",
-  externalLink: "https://open.spotify.com/album/5kHIm8MtwOa6jVGS4nFC31",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5kHIm8MtwOa6jVGS4nFC31",
+      externalLink: "https://open.spotify.com/album/5kHIm8MtwOa6jVGS4nFC31",
+    },
+  ],
 } as const satisfies Release

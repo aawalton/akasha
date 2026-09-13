@@ -12,6 +12,11 @@ export const justinTimberlakeFilthy = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-01-05",
-  externalId: "730MjVEfvrWeEloF42B5U1",
-  externalLink: "https://open.spotify.com/album/730MjVEfvrWeEloF42B5U1",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "730MjVEfvrWeEloF42B5U1",
+      externalLink: "https://open.spotify.com/album/730MjVEfvrWeEloF42B5U1",
+    },
+  ],
 } as const satisfies Release

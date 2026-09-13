@@ -12,6 +12,11 @@ export const jadaFacerLastChristmas = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-11-27",
-  externalId: "2mwXy3mkvpO3OklNJgTVUl",
-  externalLink: "https://open.spotify.com/album/2mwXy3mkvpO3OklNJgTVUl",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2mwXy3mkvpO3OklNJgTVUl",
+      externalLink: "https://open.spotify.com/album/2mwXy3mkvpO3OklNJgTVUl",
+    },
+  ],
 } as const satisfies Release

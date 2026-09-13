@@ -13,7 +13,12 @@ export const jisooMe = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-03-31",
-  externalId: "4QuczuzDZNzCDli5Gz6DQ0",
-  externalLink: "https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0",
-  lastSyncedAt: "2025-11-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4QuczuzDZNzCDli5Gz6DQ0",
+      externalLink: "https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0",
+      lastSyncedAt: "2025-11-24",
+    },
+  ],
 } as const satisfies Release

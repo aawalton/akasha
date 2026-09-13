@@ -12,6 +12,11 @@ export const jadaFacerWithOrWithoutYouAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-05-07",
-  externalId: "3jDhYctVY8QdsHmfYNkTwg",
-  externalLink: "https://open.spotify.com/album/3jDhYctVY8QdsHmfYNkTwg",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3jDhYctVY8QdsHmfYNkTwg",
+      externalLink: "https://open.spotify.com/album/3jDhYctVY8QdsHmfYNkTwg",
+    },
+  ],
 } as const satisfies Release

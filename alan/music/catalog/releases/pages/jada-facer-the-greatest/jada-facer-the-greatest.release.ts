@@ -12,6 +12,11 @@ export const jadaFacerTheGreatest = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-10-01",
-  externalId: "3o0sZduJc1VeLtLzpbuWu5",
-  externalLink: "https://open.spotify.com/album/3o0sZduJc1VeLtLzpbuWu5",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3o0sZduJc1VeLtLzpbuWu5",
+      externalLink: "https://open.spotify.com/album/3o0sZduJc1VeLtLzpbuWu5",
+    },
+  ],
 } as const satisfies Release

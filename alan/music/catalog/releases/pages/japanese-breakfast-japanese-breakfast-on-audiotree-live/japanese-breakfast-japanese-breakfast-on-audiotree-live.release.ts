@@ -12,6 +12,11 @@ export const japaneseBreakfastJapaneseBreakfastOnAudiotreeLive = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-08-16",
-  externalId: "04Gdmj42ybAsx9AJ2Bbk56",
-  externalLink: "https://open.spotify.com/album/04Gdmj42ybAsx9AJ2Bbk56",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "04Gdmj42ybAsx9AJ2Bbk56",
+      externalLink: "https://open.spotify.com/album/04Gdmj42ybAsx9AJ2Bbk56",
+    },
+  ],
 } as const satisfies Release

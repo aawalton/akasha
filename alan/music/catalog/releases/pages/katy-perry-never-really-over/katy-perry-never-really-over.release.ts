@@ -12,6 +12,11 @@ export const katyPerryNeverReallyOver = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-05-31",
-  externalId: "3KjXg0MDej2pG9fv6I22lT",
-  externalLink: "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3KjXg0MDej2pG9fv6I22lT",
+      externalLink: "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT",
+    },
+  ],
 } as const satisfies Release

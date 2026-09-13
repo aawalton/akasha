@@ -12,6 +12,11 @@ export const jadaFacerHeyLove = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-06-25",
-  externalId: "74S2Q6E9RQLYeHMIbJ4A8k",
-  externalLink: "https://open.spotify.com/album/74S2Q6E9RQLYeHMIbJ4A8k",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "74S2Q6E9RQLYeHMIbJ4A8k",
+      externalLink: "https://open.spotify.com/album/74S2Q6E9RQLYeHMIbJ4A8k",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const katyPerryDaisiesOliverHeldensRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-06-22",
-  externalId: "6mGYbuFPC71RSBBSiBbHB0",
-  externalLink: "https://open.spotify.com/album/6mGYbuFPC71RSBBSiBbHB0",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6mGYbuFPC71RSBBSiBbHB0",
+      externalLink: "https://open.spotify.com/album/6mGYbuFPC71RSBBSiBbHB0",
+    },
+  ],
 } as const satisfies Release

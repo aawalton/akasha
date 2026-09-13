@@ -13,6 +13,11 @@ export const jessicaBaioWhatAreYouAfraidOf = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-09-13",
-  externalId: "07mGocNty3EMxeXCnRVCnk",
-  externalLink: "https://open.spotify.com/album/07mGocNty3EMxeXCnRVCnk",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "07mGocNty3EMxeXCnRVCnk",
+      externalLink: "https://open.spotify.com/album/07mGocNty3EMxeXCnRVCnk",
+    },
+  ],
 } as const satisfies Release

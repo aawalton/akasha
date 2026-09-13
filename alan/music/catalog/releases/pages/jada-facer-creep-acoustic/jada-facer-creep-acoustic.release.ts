@@ -12,6 +12,11 @@ export const jadaFacerCreepAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-10-19",
-  externalId: "66fGOFux91Nimas67e7MK0",
-  externalLink: "https://open.spotify.com/album/66fGOFux91Nimas67e7MK0",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "66fGOFux91Nimas67e7MK0",
+      externalLink: "https://open.spotify.com/album/66fGOFux91Nimas67e7MK0",
+    },
+  ],
 } as const satisfies Release

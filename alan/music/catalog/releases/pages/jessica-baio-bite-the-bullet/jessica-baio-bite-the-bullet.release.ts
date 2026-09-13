@@ -13,6 +13,11 @@ export const jessicaBaioBiteTheBullet = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-07-19",
-  externalId: "5MjDGMrdbxHxERuwT79EQ2",
-  externalLink: "https://open.spotify.com/album/5MjDGMrdbxHxERuwT79EQ2",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5MjDGMrdbxHxERuwT79EQ2",
+      externalLink: "https://open.spotify.com/album/5MjDGMrdbxHxERuwT79EQ2",
+    },
+  ],
 } as const satisfies Release

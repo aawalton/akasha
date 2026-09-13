@@ -12,6 +12,11 @@ export const jadaFacerIWillFollowYouIntoTheDark = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-09-06",
-  externalId: "6gDadumqgJN5HE9rxEF3vu",
-  externalLink: "https://open.spotify.com/album/6gDadumqgJN5HE9rxEF3vu",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6gDadumqgJN5HE9rxEF3vu",
+      externalLink: "https://open.spotify.com/album/6gDadumqgJN5HE9rxEF3vu",
+    },
+  ],
 } as const satisfies Release

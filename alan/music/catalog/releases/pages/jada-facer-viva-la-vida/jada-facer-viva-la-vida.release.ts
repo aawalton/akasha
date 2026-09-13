@@ -12,6 +12,11 @@ export const jadaFacerVivaLaVida = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-05-20",
-  externalId: "2ss3fRbqHRDgqQY5zVkC1z",
-  externalLink: "https://open.spotify.com/album/2ss3fRbqHRDgqQY5zVkC1z",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2ss3fRbqHRDgqQY5zVkC1z",
+      externalLink: "https://open.spotify.com/album/2ss3fRbqHRDgqQY5zVkC1z",
+    },
+  ],
 } as const satisfies Release

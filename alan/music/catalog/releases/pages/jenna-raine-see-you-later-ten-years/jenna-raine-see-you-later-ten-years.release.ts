@@ -13,6 +13,11 @@ export const jennaRaineSeeYouLaterTenYears = {
   status: "completed",
   rank: "B",
   publishedAt: "2021-09-24",
-  externalId: "6RQzi0RPigwT6Y75lVTtYv",
-  externalLink: "https://open.spotify.com/album/6RQzi0RPigwT6Y75lVTtYv",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6RQzi0RPigwT6Y75lVTtYv",
+      externalLink: "https://open.spotify.com/album/6RQzi0RPigwT6Y75lVTtYv",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const justinTimberlakeDonTSlackFromTrollsWorldTour = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-03-10",
-  externalId: "40Obfin2HVz6rEL5kIqstb",
-  externalLink: "https://open.spotify.com/album/40Obfin2HVz6rEL5kIqstb",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "40Obfin2HVz6rEL5kIqstb",
+      externalLink: "https://open.spotify.com/album/40Obfin2HVz6rEL5kIqstb",
+    },
+  ],
 } as const satisfies Release

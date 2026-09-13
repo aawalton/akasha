@@ -12,6 +12,11 @@ export const jadaFacerYouBrokeMeFirstAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-01-08",
-  externalId: "7HXKBKY7nDECHdMFaLrSdU",
-  externalLink: "https://open.spotify.com/album/7HXKBKY7nDECHdMFaLrSdU",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7HXKBKY7nDECHdMFaLrSdU",
+      externalLink: "https://open.spotify.com/album/7HXKBKY7nDECHdMFaLrSdU",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const katyPerryHarleysInHawaiiWinAndWooRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-11-13",
-  externalId: "3xBE0GkMrFRqEfKTGOYFcF",
-  externalLink: "https://open.spotify.com/album/3xBE0GkMrFRqEfKTGOYFcF",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3xBE0GkMrFRqEfKTGOYFcF",
+      externalLink: "https://open.spotify.com/album/3xBE0GkMrFRqEfKTGOYFcF",
+    },
+  ],
 } as const satisfies Release

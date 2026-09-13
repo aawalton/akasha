@@ -13,6 +13,11 @@ export const jessicaBaioBestFriendsWithYourGirlfriend = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-06-30",
-  externalId: "2DPSrGklX48Rc1phYSluUn",
-  externalLink: "https://open.spotify.com/album/2DPSrGklX48Rc1phYSluUn",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2DPSrGklX48Rc1phYSluUn",
+      externalLink: "https://open.spotify.com/album/2DPSrGklX48Rc1phYSluUn",
+    },
+  ],
 } as const satisfies Release

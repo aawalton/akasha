@@ -12,6 +12,11 @@ export const katyPerryBirthdayCashCashRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-01-01",
-  externalId: "3Fr4iY7qw7KZHxseIwYqIp",
-  externalLink: "https://open.spotify.com/album/3Fr4iY7qw7KZHxseIwYqIp",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3Fr4iY7qw7KZHxseIwYqIp",
+      externalLink: "https://open.spotify.com/album/3Fr4iY7qw7KZHxseIwYqIp",
+    },
+  ],
 } as const satisfies Release

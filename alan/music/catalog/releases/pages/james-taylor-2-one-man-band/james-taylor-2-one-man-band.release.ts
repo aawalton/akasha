@@ -12,6 +12,11 @@ export const jamesTaylor2OneManBand = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2007-01-01",
-  externalId: "0C8IHwZUTmSGcFTeakuZNG",
-  externalLink: "https://open.spotify.com/album/0C8IHwZUTmSGcFTeakuZNG",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0C8IHwZUTmSGcFTeakuZNG",
+      externalLink: "https://open.spotify.com/album/0C8IHwZUTmSGcFTeakuZNG",
+    },
+  ],
 } as const satisfies Release

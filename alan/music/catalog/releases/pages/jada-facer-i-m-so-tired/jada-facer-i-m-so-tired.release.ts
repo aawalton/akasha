@@ -12,6 +12,11 @@ export const jadaFacerIMSoTired = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-03-30",
-  externalId: "4RiX5EMzvtFdbGBhljdnpc",
-  externalLink: "https://open.spotify.com/album/4RiX5EMzvtFdbGBhljdnpc",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4RiX5EMzvtFdbGBhljdnpc",
+      externalLink: "https://open.spotify.com/album/4RiX5EMzvtFdbGBhljdnpc",
+    },
+  ],
 } as const satisfies Release

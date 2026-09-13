@@ -12,6 +12,11 @@ export const justinTimberlakeTheOtherSideFromTrollsWorldTourOvyOnTheDrumsRemix =
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-04-20",
-  externalId: "2ZdvA4fN0l00HlzwpP1uZA",
-  externalLink: "https://open.spotify.com/album/2ZdvA4fN0l00HlzwpP1uZA",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2ZdvA4fN0l00HlzwpP1uZA",
+      externalLink: "https://open.spotify.com/album/2ZdvA4fN0l00HlzwpP1uZA",
+    },
+  ],
 } as const satisfies Release

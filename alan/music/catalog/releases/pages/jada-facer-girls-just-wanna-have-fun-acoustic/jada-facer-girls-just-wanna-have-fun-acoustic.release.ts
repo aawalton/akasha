@@ -12,6 +12,11 @@ export const jadaFacerGirlsJustWannaHaveFunAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-12",
-  externalId: "0QOav70sIsiVPIj5kVBwou",
-  externalLink: "https://open.spotify.com/album/0QOav70sIsiVPIj5kVBwou",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0QOav70sIsiVPIj5kVBwou",
+      externalLink: "https://open.spotify.com/album/0QOav70sIsiVPIj5kVBwou",
+    },
+  ],
 } as const satisfies Release

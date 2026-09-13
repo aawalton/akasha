@@ -12,6 +12,11 @@ export const jadaFacerWickedGame = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-03-25",
-  externalId: "5FY5Q60bcB5M45YVYyJqss",
-  externalLink: "https://open.spotify.com/album/5FY5Q60bcB5M45YVYyJqss",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5FY5Q60bcB5M45YVYyJqss",
+      externalLink: "https://open.spotify.com/album/5FY5Q60bcB5M45YVYyJqss",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const jadaFacerShoutOutToMyExAcousticVersion = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-12-05",
-  externalId: "7wvMQIZZDlcNb8daJplI6g",
-  externalLink: "https://open.spotify.com/album/7wvMQIZZDlcNb8daJplI6g",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7wvMQIZZDlcNb8daJplI6g",
+      externalLink: "https://open.spotify.com/album/7wvMQIZZDlcNb8daJplI6g",
+    },
+  ],
 } as const satisfies Release

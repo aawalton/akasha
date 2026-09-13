@@ -12,6 +12,11 @@ export const katyPerryHotNCold = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2008-01-01",
-  externalId: "14uqfsuVF6cm6AOY3NaCFw",
-  externalLink: "https://open.spotify.com/album/14uqfsuVF6cm6AOY3NaCFw",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "14uqfsuVF6cm6AOY3NaCFw",
+      externalLink: "https://open.spotify.com/album/14uqfsuVF6cm6AOY3NaCFw",
+    },
+  ],
 } as const satisfies Release

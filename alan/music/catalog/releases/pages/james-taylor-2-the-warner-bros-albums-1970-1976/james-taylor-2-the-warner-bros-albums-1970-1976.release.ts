@@ -12,6 +12,11 @@ export const jamesTaylor2TheWarnerBrosAlbums19701976 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-07-19",
-  externalId: "3IqdPUFXuL3v0UGlAGUKSV",
-  externalLink: "https://open.spotify.com/album/3IqdPUFXuL3v0UGlAGUKSV",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3IqdPUFXuL3v0UGlAGUKSV",
+      externalLink: "https://open.spotify.com/album/3IqdPUFXuL3v0UGlAGUKSV",
+    },
+  ],
 } as const satisfies Release

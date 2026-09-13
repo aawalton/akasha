@@ -12,6 +12,11 @@ export const jadaFacerYoungDumbBroke = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-09-27",
-  externalId: "51pFX3O6cjHfVQLECCyPwy",
-  externalLink: "https://open.spotify.com/album/51pFX3O6cjHfVQLECCyPwy",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "51pFX3O6cjHfVQLECCyPwy",
+      externalLink: "https://open.spotify.com/album/51pFX3O6cjHfVQLECCyPwy",
+    },
+  ],
 } as const satisfies Release

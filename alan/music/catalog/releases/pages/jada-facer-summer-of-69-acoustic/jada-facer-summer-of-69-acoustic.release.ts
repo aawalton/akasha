@@ -12,6 +12,11 @@ export const jadaFacerSummerOf69Acoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-03-05",
-  externalId: "4u5XiSuPB9xLmmwiGGKhVA",
-  externalLink: "https://open.spotify.com/album/4u5XiSuPB9xLmmwiGGKhVA",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4u5XiSuPB9xLmmwiGGKhVA",
+      externalLink: "https://open.spotify.com/album/4u5XiSuPB9xLmmwiGGKhVA",
+    },
+  ],
 } as const satisfies Release

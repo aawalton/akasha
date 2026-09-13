@@ -13,6 +13,11 @@ export const jessicaBaioGladYouReSettling = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-09-22",
-  externalId: "5qAfPJITAqspui8l3iIwLP",
-  externalLink: "https://open.spotify.com/album/5qAfPJITAqspui8l3iIwLP",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5qAfPJITAqspui8l3iIwLP",
+      externalLink: "https://open.spotify.com/album/5qAfPJITAqspui8l3iIwLP",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const jadaFacerEveryBreathYouTakeAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-07-21",
-  externalId: "0czWXH97YdADAc5vUwgQ4J",
-  externalLink: "https://open.spotify.com/album/0czWXH97YdADAc5vUwgQ4J",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0czWXH97YdADAc5vUwgQ4J",
+      externalLink: "https://open.spotify.com/album/0czWXH97YdADAc5vUwgQ4J",
+    },
+  ],
 } as const satisfies Release

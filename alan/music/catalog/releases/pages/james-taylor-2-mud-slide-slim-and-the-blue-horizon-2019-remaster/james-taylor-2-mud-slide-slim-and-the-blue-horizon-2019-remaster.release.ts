@@ -12,6 +12,11 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019Remaster = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1971-04-01",
-  externalId: "3ahHxtwRwMIdHcAo0MEXxX",
-  externalLink: "https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3ahHxtwRwMIdHcAo0MEXxX",
+      externalLink: "https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX",
+    },
+  ],
 } as const satisfies Release

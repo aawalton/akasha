@@ -12,6 +12,11 @@ export const jadaFacerDarkside = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-12-20",
-  externalId: "1QAgJaUC0gkGS1Wa7Ow4Nt",
-  externalLink: "https://open.spotify.com/album/1QAgJaUC0gkGS1Wa7Ow4Nt",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1QAgJaUC0gkGS1Wa7Ow4Nt",
+      externalLink: "https://open.spotify.com/album/1QAgJaUC0gkGS1Wa7Ow4Nt",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const japaneseBreakfastNobodySeesMeLikeYouDo = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-01-26",
-  externalId: "6W8UhZlIF4yuQolmJPAO1P",
-  externalLink: "https://open.spotify.com/album/6W8UhZlIF4yuQolmJPAO1P",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6W8UhZlIF4yuQolmJPAO1P",
+      externalLink: "https://open.spotify.com/album/6W8UhZlIF4yuQolmJPAO1P",
+    },
+  ],
 } as const satisfies Release

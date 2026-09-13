@@ -12,6 +12,11 @@ export const jadaFacerHappyNow = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-08-13",
-  externalId: "3TDbOd9s0l7uNYupdaj3w7",
-  externalLink: "https://open.spotify.com/album/3TDbOd9s0l7uNYupdaj3w7",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3TDbOd9s0l7uNYupdaj3w7",
+      externalLink: "https://open.spotify.com/album/3TDbOd9s0l7uNYupdaj3w7",
+    },
+  ],
 } as const satisfies Release

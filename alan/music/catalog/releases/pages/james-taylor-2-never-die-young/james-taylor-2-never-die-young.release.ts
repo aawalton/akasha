@@ -12,6 +12,11 @@ export const jamesTaylor2NeverDieYoung = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1988-09-16",
-  externalId: "1j6fH6Wu4ROhcOYAYpjiUt",
-  externalLink: "https://open.spotify.com/album/1j6fH6Wu4ROhcOYAYpjiUt",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1j6fH6Wu4ROhcOYAYpjiUt",
+      externalLink: "https://open.spotify.com/album/1j6fH6Wu4ROhcOYAYpjiUt",
+    },
+  ],
 } as const satisfies Release

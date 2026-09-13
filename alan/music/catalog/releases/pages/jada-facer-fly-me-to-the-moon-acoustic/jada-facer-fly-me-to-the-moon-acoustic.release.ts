@@ -12,6 +12,11 @@ export const jadaFacerFlyMeToTheMoonAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-06-13",
-  externalId: "7ylp6qOcm2rWZBTcdx6d4U",
-  externalLink: "https://open.spotify.com/album/7ylp6qOcm2rWZBTcdx6d4U",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7ylp6qOcm2rWZBTcdx6d4U",
+      externalLink: "https://open.spotify.com/album/7ylp6qOcm2rWZBTcdx6d4U",
+    },
+  ],
 } as const satisfies Release

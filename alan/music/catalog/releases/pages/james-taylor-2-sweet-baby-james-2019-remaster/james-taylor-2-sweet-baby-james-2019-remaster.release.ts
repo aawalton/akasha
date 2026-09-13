@@ -12,6 +12,11 @@ export const jamesTaylor2SweetBabyJames2019Remaster = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1970-02-01",
-  externalId: "1HiG0ukRmFPN13EVcf98Jx",
-  externalLink: "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1HiG0ukRmFPN13EVcf98Jx",
+      externalLink: "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx",
+    },
+  ],
 } as const satisfies Release

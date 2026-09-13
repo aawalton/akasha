@@ -12,6 +12,11 @@ export const justinTimberlakeSuitTieFeatJayZFeatJayZRadioEdit = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2013-01-15",
-  externalId: "5jlQrOtSuTXojcvBCpivyo",
-  externalLink: "https://open.spotify.com/album/5jlQrOtSuTXojcvBCpivyo",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5jlQrOtSuTXojcvBCpivyo",
+      externalLink: "https://open.spotify.com/album/5jlQrOtSuTXojcvBCpivyo",
+    },
+  ],
 } as const satisfies Release

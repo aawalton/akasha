@@ -12,7 +12,12 @@ export const justinTimberlakeLoveNeverFeltSoGoodDavidMoralesAndEricKupperDefMix 
   unit: "minutes",
   status: "not-started",
   publishedAt: "2014-07-08",
-  externalId: "3dfI9hHNfOeLKtYbk6HIXR",
-  externalLink: "https://open.spotify.com/album/3dfI9hHNfOeLKtYbk6HIXR",
-  lastSyncedAt: "2025-10-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3dfI9hHNfOeLKtYbk6HIXR",
+      externalLink: "https://open.spotify.com/album/3dfI9hHNfOeLKtYbk6HIXR",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
 } as const satisfies Release

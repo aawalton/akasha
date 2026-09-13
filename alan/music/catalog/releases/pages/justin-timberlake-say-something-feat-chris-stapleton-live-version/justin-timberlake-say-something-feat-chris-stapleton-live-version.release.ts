@@ -12,6 +12,11 @@ export const justinTimberlakeSaySomethingFeatChrisStapletonLiveVersion = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-03-30",
-  externalId: "0K7h1ZxUpBKX0WSRCyV7iY",
-  externalLink: "https://open.spotify.com/album/0K7h1ZxUpBKX0WSRCyV7iY",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0K7h1ZxUpBKX0WSRCyV7iY",
+      externalLink: "https://open.spotify.com/album/0K7h1ZxUpBKX0WSRCyV7iY",
+    },
+  ],
 } as const satisfies Release

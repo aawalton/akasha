@@ -12,6 +12,11 @@ export const jadaFacerTennesseeRain = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-08-04",
-  externalId: "44trJ6nPB7yIQFFlWm3RDA",
-  externalLink: "https://open.spotify.com/album/44trJ6nPB7yIQFFlWm3RDA",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "44trJ6nPB7yIQFFlWm3RDA",
+      externalLink: "https://open.spotify.com/album/44trJ6nPB7yIQFFlWm3RDA",
+    },
+  ],
 } as const satisfies Release

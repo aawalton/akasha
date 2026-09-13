@@ -12,6 +12,11 @@ export const jadaFacerOceansWhereFeetMayFailAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-07-26",
-  externalId: "1AlA9bGjGYKNLh79zqZO4P",
-  externalLink: "https://open.spotify.com/album/1AlA9bGjGYKNLh79zqZO4P",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1AlA9bGjGYKNLh79zqZO4P",
+      externalLink: "https://open.spotify.com/album/1AlA9bGjGYKNLh79zqZO4P",
+    },
+  ],
 } as const satisfies Release

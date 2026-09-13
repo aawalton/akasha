@@ -13,6 +13,11 @@ export const jessicaBaioSkin = {
   status: "completed",
   rank: "A",
   publishedAt: "2021-12-17",
-  externalId: "5zHfha4LJWpHoXHrr5IiTh",
-  externalLink: "https://open.spotify.com/album/5zHfha4LJWpHoXHrr5IiTh",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5zHfha4LJWpHoXHrr5IiTh",
+      externalLink: "https://open.spotify.com/album/5zHfha4LJWpHoXHrr5IiTh",
+    },
+  ],
 } as const satisfies Release

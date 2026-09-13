@@ -12,6 +12,11 @@ export const jadaFacerFloat = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-04-24",
-  externalId: "6ZUc8aLTlUcAceyUyhYe92",
-  externalLink: "https://open.spotify.com/album/6ZUc8aLTlUcAceyUyhYe92",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6ZUc8aLTlUcAceyUyhYe92",
+      externalLink: "https://open.spotify.com/album/6ZUc8aLTlUcAceyUyhYe92",
+    },
+  ],
 } as const satisfies Release

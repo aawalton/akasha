@@ -13,6 +13,11 @@ export const jennaRaineTalkOfTheTown = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-09-26",
-  externalId: "02Azszdh3FeMdvKOwWRiS9",
-  externalLink: "https://open.spotify.com/album/02Azszdh3FeMdvKOwWRiS9",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "02Azszdh3FeMdvKOwWRiS9",
+      externalLink: "https://open.spotify.com/album/02Azszdh3FeMdvKOwWRiS9",
+    },
+  ],
 } as const satisfies Release

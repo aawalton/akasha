@@ -13,6 +13,11 @@ export const jessicaBaioWorldRecord = {
   status: "completed",
   rank: "B",
   publishedAt: "2020-01-02",
-  externalId: "4P06tSM3MyV34N3Bkmy3M3",
-  externalLink: "https://open.spotify.com/album/4P06tSM3MyV34N3Bkmy3M3",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4P06tSM3MyV34N3Bkmy3M3",
+      externalLink: "https://open.spotify.com/album/4P06tSM3MyV34N3Bkmy3M3",
+    },
+  ],
 } as const satisfies Release

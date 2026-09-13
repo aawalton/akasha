@@ -13,6 +13,11 @@ export const jessicaBaioUnsaid = {
   status: "completed",
   rank: "A",
   publishedAt: "2024-11-01",
-  externalId: "6qymOSCWulOMM6D7LxuZtl",
-  externalLink: "https://open.spotify.com/album/6qymOSCWulOMM6D7LxuZtl",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6qymOSCWulOMM6D7LxuZtl",
+      externalLink: "https://open.spotify.com/album/6qymOSCWulOMM6D7LxuZtl",
+    },
+  ],
 } as const satisfies Release

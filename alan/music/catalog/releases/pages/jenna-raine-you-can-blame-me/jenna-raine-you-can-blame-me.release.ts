@@ -13,6 +13,11 @@ export const jennaRaineYouCanBlameMe = {
   status: "completed",
   rank: "B",
   publishedAt: "2019-10-11",
-  externalId: "7da54fsZaXffuBXyaB5YeR",
-  externalLink: "https://open.spotify.com/album/7da54fsZaXffuBXyaB5YeR",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7da54fsZaXffuBXyaB5YeR",
+      externalLink: "https://open.spotify.com/album/7da54fsZaXffuBXyaB5YeR",
+    },
+  ],
 } as const satisfies Release

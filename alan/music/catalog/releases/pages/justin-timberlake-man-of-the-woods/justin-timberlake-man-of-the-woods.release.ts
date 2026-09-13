@@ -12,6 +12,11 @@ export const justinTimberlakeManOfTheWoods = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-02-02",
-  externalId: "01l3jTY261V3CESZR4dABz",
-  externalLink: "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "01l3jTY261V3CESZR4dABz",
+      externalLink: "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz",
+    },
+  ],
 } as const satisfies Release

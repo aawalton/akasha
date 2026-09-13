@@ -12,6 +12,11 @@ export const justinTimberlakeSupplies = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2018-01-18",
-  externalId: "0kO76uncDF4puhrLgtszIy",
-  externalLink: "https://open.spotify.com/album/0kO76uncDF4puhrLgtszIy",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0kO76uncDF4puhrLgtszIy",
+      externalLink: "https://open.spotify.com/album/0kO76uncDF4puhrLgtszIy",
+    },
+  ],
 } as const satisfies Release

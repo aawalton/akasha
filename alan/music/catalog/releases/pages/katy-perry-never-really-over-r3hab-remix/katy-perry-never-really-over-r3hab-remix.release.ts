@@ -12,6 +12,11 @@ export const katyPerryNeverReallyOverR3habRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-07-26",
-  externalId: "7INHYSeusaFlyrHSNxm8qH",
-  externalLink: "https://open.spotify.com/album/7INHYSeusaFlyrHSNxm8qH",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7INHYSeusaFlyrHSNxm8qH",
+      externalLink: "https://open.spotify.com/album/7INHYSeusaFlyrHSNxm8qH",
+    },
+  ],
 } as const satisfies Release

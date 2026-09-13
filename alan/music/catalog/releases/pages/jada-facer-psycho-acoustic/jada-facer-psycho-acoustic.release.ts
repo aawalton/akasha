@@ -12,6 +12,11 @@ export const jadaFacerPsychoAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-04-11",
-  externalId: "3qshnXS0qjMbHs1B4ogCTd",
-  externalLink: "https://open.spotify.com/album/3qshnXS0qjMbHs1B4ogCTd",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3qshnXS0qjMbHs1B4ogCTd",
+      externalLink: "https://open.spotify.com/album/3qshnXS0qjMbHs1B4ogCTd",
+    },
+  ],
 } as const satisfies Release

@@ -13,6 +13,11 @@ export const jennaRaineItIsWhatItIsVersions = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-07-21",
-  externalId: "6GbpN46VmhzBhSktjEa9uD",
-  externalLink: "https://open.spotify.com/album/6GbpN46VmhzBhSktjEa9uD",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6GbpN46VmhzBhSktjEa9uD",
+      externalLink: "https://open.spotify.com/album/6GbpN46VmhzBhSktjEa9uD",
+    },
+  ],
 } as const satisfies Release

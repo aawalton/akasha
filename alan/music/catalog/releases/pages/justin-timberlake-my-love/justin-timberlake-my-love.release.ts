@@ -12,6 +12,11 @@ export const justinTimberlakeMyLove = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2006-10-24",
-  externalId: "3N1D55OU4TgweV2SSx6rpl",
-  externalLink: "https://open.spotify.com/album/3N1D55OU4TgweV2SSx6rpl",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3N1D55OU4TgweV2SSx6rpl",
+      externalLink: "https://open.spotify.com/album/3N1D55OU4TgweV2SSx6rpl",
+    },
+  ],
 } as const satisfies Release

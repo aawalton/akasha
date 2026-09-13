@@ -12,6 +12,11 @@ export const jadaFacerWhereIsMyMindAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-03-23",
-  externalId: "5sSDA4zIIj48IAc2lhnaAF",
-  externalLink: "https://open.spotify.com/album/5sSDA4zIIj48IAc2lhnaAF",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5sSDA4zIIj48IAc2lhnaAF",
+      externalLink: "https://open.spotify.com/album/5sSDA4zIIj48IAc2lhnaAF",
+    },
+  ],
 } as const satisfies Release

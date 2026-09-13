@@ -12,6 +12,11 @@ export const jamesTaylor2OtherCovers = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2009-01-01",
-  externalId: "3Z1fBIILqsE6xUGUNLQM2r",
-  externalLink: "https://open.spotify.com/album/3Z1fBIILqsE6xUGUNLQM2r",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3Z1fBIILqsE6xUGUNLQM2r",
+      externalLink: "https://open.spotify.com/album/3Z1fBIILqsE6xUGUNLQM2r",
+    },
+  ],
 } as const satisfies Release

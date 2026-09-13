@@ -12,6 +12,11 @@ export const jadaFacerSweetButPsycho = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-12-08",
-  externalId: "5NkQw0bDZVy5YKthyGxIJP",
-  externalLink: "https://open.spotify.com/album/5NkQw0bDZVy5YKthyGxIJP",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5NkQw0bDZVy5YKthyGxIJP",
+      externalLink: "https://open.spotify.com/album/5NkQw0bDZVy5YKthyGxIJP",
+    },
+  ],
 } as const satisfies Release

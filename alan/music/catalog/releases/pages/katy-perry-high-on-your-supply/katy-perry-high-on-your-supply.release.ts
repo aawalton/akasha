@@ -12,6 +12,11 @@ export const katyPerryHighOnYourSupply = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-08-10",
-  externalId: "23pP2rH6PSynSE5qJuDg0n",
-  externalLink: "https://open.spotify.com/album/23pP2rH6PSynSE5qJuDg0n",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "23pP2rH6PSynSE5qJuDg0n",
+      externalLink: "https://open.spotify.com/album/23pP2rH6PSynSE5qJuDg0n",
+    },
+  ],
 } as const satisfies Release

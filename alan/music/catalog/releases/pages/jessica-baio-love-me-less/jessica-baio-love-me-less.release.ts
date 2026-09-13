@@ -13,6 +13,11 @@ export const jessicaBaioLoveMeLess = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-08-29",
-  externalId: "2JOgbxyVzZB6nnslNcCSI7",
-  externalLink: "https://open.spotify.com/album/2JOgbxyVzZB6nnslNcCSI7",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2JOgbxyVzZB6nnslNcCSI7",
+      externalLink: "https://open.spotify.com/album/2JOgbxyVzZB6nnslNcCSI7",
+    },
+  ],
 } as const satisfies Release

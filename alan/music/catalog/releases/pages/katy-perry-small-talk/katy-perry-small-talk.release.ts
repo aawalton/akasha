@@ -12,6 +12,11 @@ export const katyPerrySmallTalk = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-08-09",
-  externalId: "5FOy9CM3AZs86TIK7fsJTV",
-  externalLink: "https://open.spotify.com/album/5FOy9CM3AZs86TIK7fsJTV",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5FOy9CM3AZs86TIK7fsJTV",
+      externalLink: "https://open.spotify.com/album/5FOy9CM3AZs86TIK7fsJTV",
+    },
+  ],
 } as const satisfies Release

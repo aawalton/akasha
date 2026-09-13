@@ -12,6 +12,11 @@ export const jadaFacerNeverReallyOver = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-07-01",
-  externalId: "6jQb46LNnmRonAglZ6dJRF",
-  externalLink: "https://open.spotify.com/album/6jQb46LNnmRonAglZ6dJRF",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6jQb46LNnmRonAglZ6dJRF",
+      externalLink: "https://open.spotify.com/album/6jQb46LNnmRonAglZ6dJRF",
+    },
+  ],
 } as const satisfies Release

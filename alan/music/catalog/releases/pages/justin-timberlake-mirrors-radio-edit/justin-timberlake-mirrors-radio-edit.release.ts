@@ -12,6 +12,11 @@ export const justinTimberlakeMirrorsRadioEdit = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2013-02-11",
-  externalId: "28GWVLkctSuSWQ1EUIxZ8m",
-  externalLink: "https://open.spotify.com/album/28GWVLkctSuSWQ1EUIxZ8m",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "28GWVLkctSuSWQ1EUIxZ8m",
+      externalLink: "https://open.spotify.com/album/28GWVLkctSuSWQ1EUIxZ8m",
+    },
+  ],
 } as const satisfies Release

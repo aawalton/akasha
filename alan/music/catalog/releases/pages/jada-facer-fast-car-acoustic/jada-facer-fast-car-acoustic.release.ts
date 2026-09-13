@@ -12,6 +12,11 @@ export const jadaFacerFastCarAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-03-28",
-  externalId: "0X4GdyP4xXihtf6N0ZqjqI",
-  externalLink: "https://open.spotify.com/album/0X4GdyP4xXihtf6N0ZqjqI",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0X4GdyP4xXihtf6N0ZqjqI",
+      externalLink: "https://open.spotify.com/album/0X4GdyP4xXihtf6N0ZqjqI",
+    },
+  ],
 } as const satisfies Release

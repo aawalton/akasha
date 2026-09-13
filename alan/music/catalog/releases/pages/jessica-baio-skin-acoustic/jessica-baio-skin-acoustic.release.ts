@@ -13,6 +13,11 @@ export const jessicaBaioSkinAcoustic = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-04-22",
-  externalId: "27raWQlJAFnw3FER1dpyMQ",
-  externalLink: "https://open.spotify.com/album/27raWQlJAFnw3FER1dpyMQ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "27raWQlJAFnw3FER1dpyMQ",
+      externalLink: "https://open.spotify.com/album/27raWQlJAFnw3FER1dpyMQ",
+    },
+  ],
 } as const satisfies Release

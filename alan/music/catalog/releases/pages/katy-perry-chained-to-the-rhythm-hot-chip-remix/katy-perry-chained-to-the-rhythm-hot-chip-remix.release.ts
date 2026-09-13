@@ -12,6 +12,11 @@ export const katyPerryChainedToTheRhythmHotChipRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-03-17",
-  externalId: "5F1lG0zd72qY4dU57JmEPn",
-  externalLink: "https://open.spotify.com/album/5F1lG0zd72qY4dU57JmEPn",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5F1lG0zd72qY4dU57JmEPn",
+      externalLink: "https://open.spotify.com/album/5F1lG0zd72qY4dU57JmEPn",
+    },
+  ],
 } as const satisfies Release

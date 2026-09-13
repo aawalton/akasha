@@ -12,6 +12,11 @@ export const japaneseBreakfastForMelancholyBrunettesSadWomen = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-03-21",
-  externalId: "4qqdOkr3Ff3kN8GxoxvRES",
-  externalLink: "https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4qqdOkr3Ff3kN8GxoxvRES",
+      externalLink: "https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES",
+    },
+  ],
 } as const satisfies Release

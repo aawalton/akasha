@@ -12,6 +12,11 @@ export const katyPerryCosmicEnergy = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-12-18",
-  externalId: "3MXubEDnkXIaacR9an5d9e",
-  externalLink: "https://open.spotify.com/album/3MXubEDnkXIaacR9an5d9e",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3MXubEDnkXIaacR9an5d9e",
+      externalLink: "https://open.spotify.com/album/3MXubEDnkXIaacR9an5d9e",
+    },
+  ],
 } as const satisfies Release

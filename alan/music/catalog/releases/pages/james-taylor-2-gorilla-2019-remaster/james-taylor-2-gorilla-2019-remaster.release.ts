@@ -12,6 +12,11 @@ export const jamesTaylor2Gorilla2019Remaster = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1975-05-01",
-  externalId: "0x491s63vRDvG25x2Fzrny",
-  externalLink: "https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0x491s63vRDvG25x2Fzrny",
+      externalLink: "https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny",
+    },
+  ],
 } as const satisfies Release

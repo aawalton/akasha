@@ -12,6 +12,11 @@ export const jamesTaylor2FollowTheMoneyFeatJamesTaylor = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-09-27",
-  externalId: "7iC5jkTp3GqdFGjx2wBBYk",
-  externalLink: "https://open.spotify.com/album/7iC5jkTp3GqdFGjx2wBBYk",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7iC5jkTp3GqdFGjx2wBBYk",
+      externalLink: "https://open.spotify.com/album/7iC5jkTp3GqdFGjx2wBBYk",
+    },
+  ],
 } as const satisfies Release

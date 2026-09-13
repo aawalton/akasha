@@ -12,6 +12,11 @@ export const jadaFacerIDonTWannaLiveForever = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-12-19",
-  externalId: "05z29CKJBPWgqR73S8TnTs",
-  externalLink: "https://open.spotify.com/album/05z29CKJBPWgqR73S8TnTs",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "05z29CKJBPWgqR73S8TnTs",
+      externalLink: "https://open.spotify.com/album/05z29CKJBPWgqR73S8TnTs",
+    },
+  ],
 } as const satisfies Release

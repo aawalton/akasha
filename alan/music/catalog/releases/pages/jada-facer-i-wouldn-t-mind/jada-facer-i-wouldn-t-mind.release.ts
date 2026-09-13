@@ -12,6 +12,11 @@ export const jadaFacerIWouldnTMind = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-12-01",
-  externalId: "1CQRNjzrmZQ8YptFI5hN7m",
-  externalLink: "https://open.spotify.com/album/1CQRNjzrmZQ8YptFI5hN7m",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1CQRNjzrmZQ8YptFI5hN7m",
+      externalLink: "https://open.spotify.com/album/1CQRNjzrmZQ8YptFI5hN7m",
+    },
+  ],
 } as const satisfies Release

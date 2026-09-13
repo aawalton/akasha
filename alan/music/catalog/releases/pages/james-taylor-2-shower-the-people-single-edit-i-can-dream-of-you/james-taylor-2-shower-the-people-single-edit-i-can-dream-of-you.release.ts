@@ -12,6 +12,11 @@ export const jamesTaylor2ShowerThePeopleSingleEditICanDreamOfYou = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1976-06-01",
-  externalId: "4OBiFBh2lWlZfnMPKBl1zR",
-  externalLink: "https://open.spotify.com/album/4OBiFBh2lWlZfnMPKBl1zR",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4OBiFBh2lWlZfnMPKBl1zR",
+      externalLink: "https://open.spotify.com/album/4OBiFBh2lWlZfnMPKBl1zR",
+    },
+  ],
 } as const satisfies Release

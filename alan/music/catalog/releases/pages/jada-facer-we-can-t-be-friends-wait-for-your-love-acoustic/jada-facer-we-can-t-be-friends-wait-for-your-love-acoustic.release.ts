@@ -12,6 +12,11 @@ export const jadaFacerWeCanTBeFriendsWaitForYourLoveAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-04-04",
-  externalId: "1OPLf9VTUjY9lF8uCe7noq",
-  externalLink: "https://open.spotify.com/album/1OPLf9VTUjY9lF8uCe7noq",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1OPLf9VTUjY9lF8uCe7noq",
+      externalLink: "https://open.spotify.com/album/1OPLf9VTUjY9lF8uCe7noq",
+    },
+  ],
 } as const satisfies Release

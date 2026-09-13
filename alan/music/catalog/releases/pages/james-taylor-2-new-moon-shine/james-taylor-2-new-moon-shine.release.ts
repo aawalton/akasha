@@ -12,6 +12,11 @@ export const jamesTaylor2NewMoonShine = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1991-08-31",
-  externalId: "36DBvvp7XO5oSulZANyCIM",
-  externalLink: "https://open.spotify.com/album/36DBvvp7XO5oSulZANyCIM",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "36DBvvp7XO5oSulZANyCIM",
+      externalLink: "https://open.spotify.com/album/36DBvvp7XO5oSulZANyCIM",
+    },
+  ],
 } as const satisfies Release

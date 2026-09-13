@@ -12,6 +12,11 @@ export const jadaFacerRadioactiveAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-01-25",
-  externalId: "1Vz25HwCZ0Kx4ns3y3w3QP",
-  externalLink: "https://open.spotify.com/album/1Vz25HwCZ0Kx4ns3y3w3QP",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Vz25HwCZ0Kx4ns3y3w3QP",
+      externalLink: "https://open.spotify.com/album/1Vz25HwCZ0Kx4ns3y3w3QP",
+    },
+  ],
 } as const satisfies Release

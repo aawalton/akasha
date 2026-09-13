@@ -12,6 +12,11 @@ export const jadaFacerLittleThingsAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-01-12",
-  externalId: "7DQ8NfC3MegBGjQOTWQjX5",
-  externalLink: "https://open.spotify.com/album/7DQ8NfC3MegBGjQOTWQjX5",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7DQ8NfC3MegBGjQOTWQjX5",
+      externalLink: "https://open.spotify.com/album/7DQ8NfC3MegBGjQOTWQjX5",
+    },
+  ],
 } as const satisfies Release

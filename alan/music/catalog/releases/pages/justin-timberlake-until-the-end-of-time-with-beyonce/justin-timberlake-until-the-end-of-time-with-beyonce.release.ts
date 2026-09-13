@@ -12,6 +12,11 @@ export const justinTimberlakeUntilTheEndOfTimeWithBeyonce = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2007-11-13",
-  externalId: "3E81KB8Gxn4kkh8GP5M3DK",
-  externalLink: "https://open.spotify.com/album/3E81KB8Gxn4kkh8GP5M3DK",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3E81KB8Gxn4kkh8GP5M3DK",
+      externalLink: "https://open.spotify.com/album/3E81KB8Gxn4kkh8GP5M3DK",
+    },
+  ],
 } as const satisfies Release

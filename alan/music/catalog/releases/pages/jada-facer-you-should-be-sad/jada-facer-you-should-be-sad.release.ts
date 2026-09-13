@@ -12,6 +12,11 @@ export const jadaFacerYouShouldBeSad = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-02-24",
-  externalId: "66GD8iVDjfWAkvigc9elJr",
-  externalLink: "https://open.spotify.com/album/66GD8iVDjfWAkvigc9elJr",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "66GD8iVDjfWAkvigc9elJr",
+      externalLink: "https://open.spotify.com/album/66GD8iVDjfWAkvigc9elJr",
+    },
+  ],
 } as const satisfies Release

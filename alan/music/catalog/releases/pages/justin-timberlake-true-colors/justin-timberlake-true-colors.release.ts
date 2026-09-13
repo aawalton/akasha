@@ -12,6 +12,11 @@ export const justinTimberlakeTrueColors = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2016-09-16",
-  externalId: "7M83W7iXqtZ2qjYCOXvgWj",
-  externalLink: "https://open.spotify.com/album/7M83W7iXqtZ2qjYCOXvgWj",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7M83W7iXqtZ2qjYCOXvgWj",
+      externalLink: "https://open.spotify.com/album/7M83W7iXqtZ2qjYCOXvgWj",
+    },
+  ],
 } as const satisfies Release

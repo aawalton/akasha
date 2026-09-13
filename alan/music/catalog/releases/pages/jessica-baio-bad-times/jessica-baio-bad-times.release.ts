@@ -13,6 +13,11 @@ export const jessicaBaioBadTimes = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-07-25",
-  externalId: "2foHbdP3fsBLwqH9SBkLy2",
-  externalLink: "https://open.spotify.com/album/2foHbdP3fsBLwqH9SBkLy2",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2foHbdP3fsBLwqH9SBkLy2",
+      externalLink: "https://open.spotify.com/album/2foHbdP3fsBLwqH9SBkLy2",
+    },
+  ],
 } as const satisfies Release

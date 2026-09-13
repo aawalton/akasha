@@ -12,7 +12,12 @@ export const jessicaBaioSacred = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2026-01-09",
-  externalId: "3s9VGa9gsznVyJmXJfvjjN",
-  externalLink: "https://open.spotify.com/album/3s9VGa9gsznVyJmXJfvjjN",
-  lastSyncedAt: "2026-01-31",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3s9VGa9gsznVyJmXJfvjjN",
+      externalLink: "https://open.spotify.com/album/3s9VGa9gsznVyJmXJfvjjN",
+      lastSyncedAt: "2026-01-31",
+    },
+  ],
 } as const satisfies Release

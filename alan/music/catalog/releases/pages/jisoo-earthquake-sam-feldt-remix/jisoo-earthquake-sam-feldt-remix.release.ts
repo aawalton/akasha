@@ -13,7 +13,12 @@ export const jisooEarthquakeSamFeldtRemix = {
   status: "completed",
   rank: "C",
   publishedAt: "2025-03-14",
-  externalId: "2Qkxjhn3pK2Szp10joHZLq",
-  externalLink: "https://open.spotify.com/album/2Qkxjhn3pK2Szp10joHZLq",
-  lastSyncedAt: "2025-11-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2Qkxjhn3pK2Szp10joHZLq",
+      externalLink: "https://open.spotify.com/album/2Qkxjhn3pK2Szp10joHZLq",
+      lastSyncedAt: "2025-11-24",
+    },
+  ],
 } as const satisfies Release

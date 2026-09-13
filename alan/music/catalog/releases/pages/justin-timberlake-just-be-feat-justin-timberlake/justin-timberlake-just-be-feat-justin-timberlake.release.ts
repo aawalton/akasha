@@ -12,6 +12,11 @@ export const justinTimberlakeJustBeFeatJustinTimberlake = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-04-28",
-  externalId: "300dBjcVTwRsg1QQX4fL4i",
-  externalLink: "https://open.spotify.com/album/300dBjcVTwRsg1QQX4fL4i",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "300dBjcVTwRsg1QQX4fL4i",
+      externalLink: "https://open.spotify.com/album/300dBjcVTwRsg1QQX4fL4i",
+    },
+  ],
 } as const satisfies Release

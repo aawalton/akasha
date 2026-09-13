@@ -12,6 +12,11 @@ export const katyPerryChainedToTheRhythmOliverHeldensRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-03-24",
-  externalId: "4XpOKbdbS8MtpN8z2c0dtW",
-  externalLink: "https://open.spotify.com/album/4XpOKbdbS8MtpN8z2c0dtW",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4XpOKbdbS8MtpN8z2c0dtW",
+      externalLink: "https://open.spotify.com/album/4XpOKbdbS8MtpN8z2c0dtW",
+    },
+  ],
 } as const satisfies Release

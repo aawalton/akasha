@@ -12,6 +12,11 @@ export const justinTimberlakeFuturesexLovesounds = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2006-09-12",
-  externalId: "2scB1uhcCI1TSf6b9TCZK3",
-  externalLink: "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2scB1uhcCI1TSf6b9TCZK3",
+      externalLink: "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3",
+    },
+  ],
 } as const satisfies Release

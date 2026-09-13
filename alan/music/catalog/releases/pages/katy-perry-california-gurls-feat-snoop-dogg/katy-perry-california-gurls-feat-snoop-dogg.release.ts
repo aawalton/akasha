@@ -12,6 +12,11 @@ export const katyPerryCaliforniaGurlsFeatSnoopDogg = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2010-01-01",
-  externalId: "58WjN295lBQlajYL241P6Y",
-  externalLink: "https://open.spotify.com/album/58WjN295lBQlajYL241P6Y",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "58WjN295lBQlajYL241P6Y",
+      externalLink: "https://open.spotify.com/album/58WjN295lBQlajYL241P6Y",
+    },
+  ],
 } as const satisfies Release

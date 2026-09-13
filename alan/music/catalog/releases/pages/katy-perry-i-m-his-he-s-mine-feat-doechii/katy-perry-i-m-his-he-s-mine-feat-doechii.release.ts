@@ -12,6 +12,11 @@ export const katyPerryIMHisHeSMineFeatDoechii = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-09-13",
-  externalId: "56ZRSnpSNktoMERdzBjdS3",
-  externalLink: "https://open.spotify.com/album/56ZRSnpSNktoMERdzBjdS3",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "56ZRSnpSNktoMERdzBjdS3",
+      externalLink: "https://open.spotify.com/album/56ZRSnpSNktoMERdzBjdS3",
+    },
+  ],
 } as const satisfies Release

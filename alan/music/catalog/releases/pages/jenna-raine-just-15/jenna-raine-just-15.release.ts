@@ -12,7 +12,12 @@ export const jennaRaineJust15 = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-11-14",
-  externalId: "5LBXud41nbrah1k83EYgs7",
-  externalLink: "https://open.spotify.com/album/5LBXud41nbrah1k83EYgs7",
-  lastSyncedAt: "2025-11-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5LBXud41nbrah1k83EYgs7",
+      externalLink: "https://open.spotify.com/album/5LBXud41nbrah1k83EYgs7",
+      lastSyncedAt: "2025-11-30",
+    },
+  ],
 } as const satisfies Release

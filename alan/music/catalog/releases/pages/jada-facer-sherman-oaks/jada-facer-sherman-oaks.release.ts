@@ -12,6 +12,11 @@ export const jadaFacerShermanOaks = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-09-09",
-  externalId: "7M4er7wAPCT4cUAqNVVdTm",
-  externalLink: "https://open.spotify.com/album/7M4er7wAPCT4cUAqNVVdTm",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7M4er7wAPCT4cUAqNVVdTm",
+      externalLink: "https://open.spotify.com/album/7M4er7wAPCT4cUAqNVVdTm",
+    },
+  ],
 } as const satisfies Release

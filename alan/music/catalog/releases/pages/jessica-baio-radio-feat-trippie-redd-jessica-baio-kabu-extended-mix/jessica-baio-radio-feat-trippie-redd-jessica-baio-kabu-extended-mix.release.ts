@@ -13,6 +13,11 @@ export const jessicaBaioRadioFeatTrippieReddJessicaBaioKabuExtendedMix = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-02-28",
-  externalId: "1nfitt2yeywerdM44y8a0k",
-  externalLink: "https://open.spotify.com/album/1nfitt2yeywerdM44y8a0k",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1nfitt2yeywerdM44y8a0k",
+      externalLink: "https://open.spotify.com/album/1nfitt2yeywerdM44y8a0k",
+    },
+  ],
 } as const satisfies Release

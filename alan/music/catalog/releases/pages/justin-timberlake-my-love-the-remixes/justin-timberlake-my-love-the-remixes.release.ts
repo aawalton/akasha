@@ -12,6 +12,11 @@ export const justinTimberlakeMyLoveTheRemixes = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2007-01-02",
-  externalId: "2T4Y4BOSbReX4EEM79hIO6",
-  externalLink: "https://open.spotify.com/album/2T4Y4BOSbReX4EEM79hIO6",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2T4Y4BOSbReX4EEM79hIO6",
+      externalLink: "https://open.spotify.com/album/2T4Y4BOSbReX4EEM79hIO6",
+    },
+  ],
 } as const satisfies Release

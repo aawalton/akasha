@@ -12,6 +12,11 @@ export const katyPerryBonAppetitMunaRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-05-17",
-  externalId: "60l6w74hVfqDboeNacX7RW",
-  externalLink: "https://open.spotify.com/album/60l6w74hVfqDboeNacX7RW",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "60l6w74hVfqDboeNacX7RW",
+      externalLink: "https://open.spotify.com/album/60l6w74hVfqDboeNacX7RW",
+    },
+  ],
 } as const satisfies Release

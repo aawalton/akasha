@@ -12,6 +12,11 @@ export const japaneseBreakfastMaterialistsOriginalSoundtrack = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-06-13",
-  externalId: "20fuKKdQbvoDR93W19PtYf",
-  externalLink: "https://open.spotify.com/album/20fuKKdQbvoDR93W19PtYf",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "20fuKKdQbvoDR93W19PtYf",
+      externalLink: "https://open.spotify.com/album/20fuKKdQbvoDR93W19PtYf",
+    },
+  ],
 } as const satisfies Release

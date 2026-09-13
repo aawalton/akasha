@@ -12,6 +12,11 @@ export const katyPerryConCalmaRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-04-19",
-  externalId: "5lJogLNbwElUSdBmmf8VQB",
-  externalLink: "https://open.spotify.com/album/5lJogLNbwElUSdBmmf8VQB",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5lJogLNbwElUSdBmmf8VQB",
+      externalLink: "https://open.spotify.com/album/5lJogLNbwElUSdBmmf8VQB",
+    },
+  ],
 } as const satisfies Release

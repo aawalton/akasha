@@ -12,6 +12,11 @@ export const jadaFacerWaterfalls = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-07-22",
-  externalId: "3dxFh4DG4QAqyGFty7glP4",
-  externalLink: "https://open.spotify.com/album/3dxFh4DG4QAqyGFty7glP4",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3dxFh4DG4QAqyGFty7glP4",
+      externalLink: "https://open.spotify.com/album/3dxFh4DG4QAqyGFty7glP4",
+    },
+  ],
 } as const satisfies Release

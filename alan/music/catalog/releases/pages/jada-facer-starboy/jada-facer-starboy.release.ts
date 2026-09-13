@@ -12,6 +12,11 @@ export const jadaFacerStarboy = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-10-01",
-  externalId: "4lV4Dwbas6CmetnEzdhh4R",
-  externalLink: "https://open.spotify.com/album/4lV4Dwbas6CmetnEzdhh4R",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4lV4Dwbas6CmetnEzdhh4R",
+      externalLink: "https://open.spotify.com/album/4lV4Dwbas6CmetnEzdhh4R",
+    },
+  ],
 } as const satisfies Release

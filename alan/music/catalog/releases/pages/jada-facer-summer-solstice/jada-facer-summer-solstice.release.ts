@@ -12,6 +12,11 @@ export const jadaFacerSummerSolstice = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-03-21",
-  externalId: "1g9mXoIBr4PtKiw9ln8OAM",
-  externalLink: "https://open.spotify.com/album/1g9mXoIBr4PtKiw9ln8OAM",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1g9mXoIBr4PtKiw9ln8OAM",
+      externalLink: "https://open.spotify.com/album/1g9mXoIBr4PtKiw9ln8OAM",
+    },
+  ],
 } as const satisfies Release

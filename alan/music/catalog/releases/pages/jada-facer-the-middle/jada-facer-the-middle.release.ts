@@ -12,6 +12,11 @@ export const jadaFacerTheMiddle = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-09-05",
-  externalId: "53qSpqS1XF5kp3kOCZXfVD",
-  externalLink: "https://open.spotify.com/album/53qSpqS1XF5kp3kOCZXfVD",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "53qSpqS1XF5kp3kOCZXfVD",
+      externalLink: "https://open.spotify.com/album/53qSpqS1XF5kp3kOCZXfVD",
+    },
+  ],
 } as const satisfies Release

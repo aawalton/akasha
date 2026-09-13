@@ -12,6 +12,11 @@ export const katyPerryRiseRemixes = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-08-26",
-  externalId: "4Z280iRLhrqePZNblTYyEY",
-  externalLink: "https://open.spotify.com/album/4Z280iRLhrqePZNblTYyEY",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4Z280iRLhrqePZNblTYyEY",
+      externalLink: "https://open.spotify.com/album/4Z280iRLhrqePZNblTYyEY",
+    },
+  ],
 } as const satisfies Release

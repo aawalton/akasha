@@ -12,6 +12,11 @@ export const jamesTaylor2FireAndRain2019Remaster = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-05-21",
-  externalId: "50HMoBvu6Qcy2idNeffED4",
-  externalLink: "https://open.spotify.com/album/50HMoBvu6Qcy2idNeffED4",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "50HMoBvu6Qcy2idNeffED4",
+      externalLink: "https://open.spotify.com/album/50HMoBvu6Qcy2idNeffED4",
+    },
+  ],
 } as const satisfies Release

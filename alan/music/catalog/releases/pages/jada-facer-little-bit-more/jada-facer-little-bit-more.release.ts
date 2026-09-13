@@ -12,6 +12,11 @@ export const jadaFacerLittleBitMore = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-12-09",
-  externalId: "14N5RjqtTvCajNgV6gGd8m",
-  externalLink: "https://open.spotify.com/album/14N5RjqtTvCajNgV6gGd8m",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "14N5RjqtTvCajNgV6gGd8m",
+      externalLink: "https://open.spotify.com/album/14N5RjqtTvCajNgV6gGd8m",
+    },
+  ],
 } as const satisfies Release

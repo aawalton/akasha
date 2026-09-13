@@ -12,7 +12,12 @@ export const jessicaBaioOtherSide = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2026-02-06",
-  externalId: "5Pl3VjIKGLGFes8Kh5nSij",
-  externalLink: "https://open.spotify.com/album/5Pl3VjIKGLGFes8Kh5nSij",
-  lastSyncedAt: "2026-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5Pl3VjIKGLGFes8Kh5nSij",
+      externalLink: "https://open.spotify.com/album/5Pl3VjIKGLGFes8Kh5nSij",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
 } as const satisfies Release

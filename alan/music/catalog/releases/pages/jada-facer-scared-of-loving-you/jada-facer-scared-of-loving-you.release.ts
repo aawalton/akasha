@@ -12,6 +12,11 @@ export const jadaFacerScaredOfLovingYou = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-03-14",
-  externalId: "236gIpHG6gYtEUAUhcnhmZ",
-  externalLink: "https://open.spotify.com/album/236gIpHG6gYtEUAUhcnhmZ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "236gIpHG6gYtEUAUhcnhmZ",
+      externalLink: "https://open.spotify.com/album/236gIpHG6gYtEUAUhcnhmZ",
+    },
+  ],
 } as const satisfies Release

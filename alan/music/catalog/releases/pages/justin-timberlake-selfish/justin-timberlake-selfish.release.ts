@@ -12,6 +12,11 @@ export const justinTimberlakeSelfish = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2024-01-25",
-  externalId: "3G89Vbw7shdM38VCVsFdoy",
-  externalLink: "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3G89Vbw7shdM38VCVsFdoy",
+      externalLink: "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy",
+    },
+  ],
 } as const satisfies Release

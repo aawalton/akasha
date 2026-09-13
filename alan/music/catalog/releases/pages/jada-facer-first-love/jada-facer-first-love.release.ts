@@ -12,6 +12,11 @@ export const jadaFacerFirstLove = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-05-29",
-  externalId: "7CgMYLYZDipCTuNTDCehl8",
-  externalLink: "https://open.spotify.com/album/7CgMYLYZDipCTuNTDCehl8",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7CgMYLYZDipCTuNTDCehl8",
+      externalLink: "https://open.spotify.com/album/7CgMYLYZDipCTuNTDCehl8",
+    },
+  ],
 } as const satisfies Release

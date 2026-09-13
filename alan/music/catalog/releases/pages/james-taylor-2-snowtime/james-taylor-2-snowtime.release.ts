@@ -12,6 +12,11 @@ export const jamesTaylor2Snowtime = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-01-01",
-  externalId: "7ApahkquX5fjyoqg4SpNrD",
-  externalLink: "https://open.spotify.com/album/7ApahkquX5fjyoqg4SpNrD",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7ApahkquX5fjyoqg4SpNrD",
+      externalLink: "https://open.spotify.com/album/7ApahkquX5fjyoqg4SpNrD",
+    },
+  ],
 } as const satisfies Release

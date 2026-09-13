@@ -12,6 +12,11 @@ export const jadaFacerSweaterWeatherAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-01-21",
-  externalId: "0BdJo2A39iIZxoJXZLLTkG",
-  externalLink: "https://open.spotify.com/album/0BdJo2A39iIZxoJXZLLTkG",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0BdJo2A39iIZxoJXZLLTkG",
+      externalLink: "https://open.spotify.com/album/0BdJo2A39iIZxoJXZLLTkG",
+    },
+  ],
 } as const satisfies Release

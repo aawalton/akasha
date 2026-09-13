@@ -13,6 +13,11 @@ export const jessicaBaioFerrari = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-09-26",
-  externalId: "56yCYfq1t4VOQ5cwGgka3W",
-  externalLink: "https://open.spotify.com/album/56yCYfq1t4VOQ5cwGgka3W",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "56yCYfq1t4VOQ5cwGgka3W",
+      externalLink: "https://open.spotify.com/album/56yCYfq1t4VOQ5cwGgka3W",
+    },
+  ],
 } as const satisfies Release

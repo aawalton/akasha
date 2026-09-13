@@ -12,6 +12,11 @@ export const jamesTaylor2Flag = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1979-01-01",
-  externalId: "1gFeUg5zdqdHTq48VA7PVJ",
-  externalLink: "https://open.spotify.com/album/1gFeUg5zdqdHTq48VA7PVJ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1gFeUg5zdqdHTq48VA7PVJ",
+      externalLink: "https://open.spotify.com/album/1gFeUg5zdqdHTq48VA7PVJ",
+    },
+  ],
 } as const satisfies Release

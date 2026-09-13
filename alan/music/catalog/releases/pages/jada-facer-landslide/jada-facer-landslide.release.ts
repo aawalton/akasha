@@ -12,6 +12,11 @@ export const jadaFacerLandslide = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-04-20",
-  externalId: "1s3BGHbUzlPmN99u1dMWDt",
-  externalLink: "https://open.spotify.com/album/1s3BGHbUzlPmN99u1dMWDt",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1s3BGHbUzlPmN99u1dMWDt",
+      externalLink: "https://open.spotify.com/album/1s3BGHbUzlPmN99u1dMWDt",
+    },
+  ],
 } as const satisfies Release

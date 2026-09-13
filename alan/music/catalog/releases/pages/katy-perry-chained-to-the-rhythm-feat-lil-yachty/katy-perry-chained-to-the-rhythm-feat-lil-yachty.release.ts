@@ -12,6 +12,11 @@ export const katyPerryChainedToTheRhythmFeatLilYachty = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-04-11",
-  externalId: "2mAoxdlQ6zsGL1vFbB8iNB",
-  externalLink: "https://open.spotify.com/album/2mAoxdlQ6zsGL1vFbB8iNB",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2mAoxdlQ6zsGL1vFbB8iNB",
+      externalLink: "https://open.spotify.com/album/2mAoxdlQ6zsGL1vFbB8iNB",
+    },
+  ],
 } as const satisfies Release

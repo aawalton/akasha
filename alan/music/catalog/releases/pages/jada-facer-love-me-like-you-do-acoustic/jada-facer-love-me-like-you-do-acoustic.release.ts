@@ -12,6 +12,11 @@ export const jadaFacerLoveMeLikeYouDoAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-04-19",
-  externalId: "4aX5Utj2TSwg3jc8felZng",
-  externalLink: "https://open.spotify.com/album/4aX5Utj2TSwg3jc8felZng",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4aX5Utj2TSwg3jc8felZng",
+      externalLink: "https://open.spotify.com/album/4aX5Utj2TSwg3jc8felZng",
+    },
+  ],
 } as const satisfies Release

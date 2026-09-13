@@ -12,6 +12,11 @@ export const jadaFacerRightHereWaitingAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-09-02",
-  externalId: "4oM6kPFpq1NEeZ1iXg6xtg",
-  externalLink: "https://open.spotify.com/album/4oM6kPFpq1NEeZ1iXg6xtg",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4oM6kPFpq1NEeZ1iXg6xtg",
+      externalLink: "https://open.spotify.com/album/4oM6kPFpq1NEeZ1iXg6xtg",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const jadaFacerYouEveryTime = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-01-19",
-  externalId: "3jgnhFN6hU1OcAO7SAHc08",
-  externalLink: "https://open.spotify.com/album/3jgnhFN6hU1OcAO7SAHc08",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3jgnhFN6hU1OcAO7SAHc08",
+      externalLink: "https://open.spotify.com/album/3jgnhFN6hU1OcAO7SAHc08",
+    },
+  ],
 } as const satisfies Release

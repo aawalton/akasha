@@ -13,6 +13,11 @@ export const jessicaBaioRadioRemixes = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-04-18",
-  externalId: "49SW8TraLibp3D0SCu2duV",
-  externalLink: "https://open.spotify.com/album/49SW8TraLibp3D0SCu2duV",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "49SW8TraLibp3D0SCu2duV",
+      externalLink: "https://open.spotify.com/album/49SW8TraLibp3D0SCu2duV",
+    },
+  ],
 } as const satisfies Release

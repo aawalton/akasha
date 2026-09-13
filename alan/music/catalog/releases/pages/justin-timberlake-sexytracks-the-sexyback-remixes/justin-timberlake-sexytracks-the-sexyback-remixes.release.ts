@@ -12,6 +12,11 @@ export const justinTimberlakeSexytracksTheSexybackRemixes = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2006-11-07",
-  externalId: "5DEGO898K51fENd1Jt0Rek",
-  externalLink: "https://open.spotify.com/album/5DEGO898K51fENd1Jt0Rek",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5DEGO898K51fENd1Jt0Rek",
+      externalLink: "https://open.spotify.com/album/5DEGO898K51fENd1Jt0Rek",
+    },
+  ],
 } as const satisfies Release

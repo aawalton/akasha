@@ -13,6 +13,11 @@ export const jessicaBaioStartOver = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-12-02",
-  externalId: "0hOwWleymsxLKGnlRRgKFY",
-  externalLink: "https://open.spotify.com/album/0hOwWleymsxLKGnlRRgKFY",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0hOwWleymsxLKGnlRRgKFY",
+      externalLink: "https://open.spotify.com/album/0hOwWleymsxLKGnlRRgKFY",
+    },
+  ],
 } as const satisfies Release

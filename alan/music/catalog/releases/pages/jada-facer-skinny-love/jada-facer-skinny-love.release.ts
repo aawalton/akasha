@@ -12,6 +12,11 @@ export const jadaFacerSkinnyLove = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-02-21",
-  externalId: "2TTVtRfUqZuQDEVZVHTrF3",
-  externalLink: "https://open.spotify.com/album/2TTVtRfUqZuQDEVZVHTrF3",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2TTVtRfUqZuQDEVZVHTrF3",
+      externalLink: "https://open.spotify.com/album/2TTVtRfUqZuQDEVZVHTrF3",
+    },
+  ],
 } as const satisfies Release

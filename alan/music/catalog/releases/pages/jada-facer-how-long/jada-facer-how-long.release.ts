@@ -12,6 +12,11 @@ export const jadaFacerHowLong = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-12-01",
-  externalId: "47bw5XNUM5M8kLfVvIEe7u",
-  externalLink: "https://open.spotify.com/album/47bw5XNUM5M8kLfVvIEe7u",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "47bw5XNUM5M8kLfVvIEe7u",
+      externalLink: "https://open.spotify.com/album/47bw5XNUM5M8kLfVvIEe7u",
+    },
+  ],
 } as const satisfies Release

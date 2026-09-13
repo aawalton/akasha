@@ -12,6 +12,11 @@ export const jadaFacerSummertimeSadnessAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-07-27",
-  externalId: "5eo6xHrvpX4hGrGeBcTIdL",
-  externalLink: "https://open.spotify.com/album/5eo6xHrvpX4hGrGeBcTIdL",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5eo6xHrvpX4hGrGeBcTIdL",
+      externalLink: "https://open.spotify.com/album/5eo6xHrvpX4hGrGeBcTIdL",
+    },
+  ],
 } as const satisfies Release

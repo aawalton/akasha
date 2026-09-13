@@ -12,6 +12,11 @@ export const katyPerryFirework = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2010-01-01",
-  externalId: "2oKE3HhxPaI0EsUBajZHJg",
-  externalLink: "https://open.spotify.com/album/2oKE3HhxPaI0EsUBajZHJg",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2oKE3HhxPaI0EsUBajZHJg",
+      externalLink: "https://open.spotify.com/album/2oKE3HhxPaI0EsUBajZHJg",
+    },
+  ],
 } as const satisfies Release

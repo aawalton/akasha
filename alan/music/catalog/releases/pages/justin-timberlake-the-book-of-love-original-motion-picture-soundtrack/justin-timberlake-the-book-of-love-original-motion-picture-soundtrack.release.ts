@@ -12,6 +12,11 @@ export const justinTimberlakeTheBookOfLoveOriginalMotionPictureSoundtrack = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2017-01-13",
-  externalId: "2H8u9DigrbmhweDlLr8twg",
-  externalLink: "https://open.spotify.com/album/2H8u9DigrbmhweDlLr8twg",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2H8u9DigrbmhweDlLr8twg",
+      externalLink: "https://open.spotify.com/album/2H8u9DigrbmhweDlLr8twg",
+    },
+  ],
 } as const satisfies Release

@@ -13,6 +13,11 @@ export const jennaRaineBiteTheBullet = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-07-11",
-  externalId: "5E5Bh3gHUFO3ECImoixFwC",
-  externalLink: "https://open.spotify.com/album/5E5Bh3gHUFO3ECImoixFwC",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5E5Bh3gHUFO3ECImoixFwC",
+      externalLink: "https://open.spotify.com/album/5E5Bh3gHUFO3ECImoixFwC",
+    },
+  ],
 } as const satisfies Release

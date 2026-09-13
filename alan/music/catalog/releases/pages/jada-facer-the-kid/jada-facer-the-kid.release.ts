@@ -12,6 +12,11 @@ export const jadaFacerTheKid = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-02-28",
-  externalId: "6vLorzmDwVSsAtMA2hoVxw",
-  externalLink: "https://open.spotify.com/album/6vLorzmDwVSsAtMA2hoVxw",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6vLorzmDwVSsAtMA2hoVxw",
+      externalLink: "https://open.spotify.com/album/6vLorzmDwVSsAtMA2hoVxw",
+    },
+  ],
 } as const satisfies Release

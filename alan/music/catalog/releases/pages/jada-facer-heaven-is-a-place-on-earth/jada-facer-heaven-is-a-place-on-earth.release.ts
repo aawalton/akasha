@@ -12,6 +12,11 @@ export const jadaFacerHeavenIsAPlaceOnEarth = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-07-24",
-  externalId: "6x3l6U2wUnquxNSwgQssxe",
-  externalLink: "https://open.spotify.com/album/6x3l6U2wUnquxNSwgQssxe",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6x3l6U2wUnquxNSwgQssxe",
+      externalLink: "https://open.spotify.com/album/6x3l6U2wUnquxNSwgQssxe",
+    },
+  ],
 } as const satisfies Release

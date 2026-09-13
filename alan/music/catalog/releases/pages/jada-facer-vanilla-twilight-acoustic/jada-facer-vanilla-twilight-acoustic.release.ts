@@ -12,6 +12,11 @@ export const jadaFacerVanillaTwilightAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2024-03-01",
-  externalId: "6Tt5I0405TuKSoLOB5ROgx",
-  externalLink: "https://open.spotify.com/album/6Tt5I0405TuKSoLOB5ROgx",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6Tt5I0405TuKSoLOB5ROgx",
+      externalLink: "https://open.spotify.com/album/6Tt5I0405TuKSoLOB5ROgx",
+    },
+  ],
 } as const satisfies Release

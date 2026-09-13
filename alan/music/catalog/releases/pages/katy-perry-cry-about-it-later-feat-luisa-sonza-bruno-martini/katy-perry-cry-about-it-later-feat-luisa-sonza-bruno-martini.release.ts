@@ -12,6 +12,11 @@ export const katyPerryCryAboutItLaterFeatLuisaSonzaBrunoMartini = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-04-23",
-  externalId: "6a74WD13saUvUB52D62NV0",
-  externalLink: "https://open.spotify.com/album/6a74WD13saUvUB52D62NV0",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6a74WD13saUvUB52D62NV0",
+      externalLink: "https://open.spotify.com/album/6a74WD13saUvUB52D62NV0",
+    },
+  ],
 } as const satisfies Release

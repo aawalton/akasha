@@ -12,6 +12,11 @@ export const jamesTaylor2OneManDog2019Remaster = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1972-11-01",
-  externalId: "5fgXXyM1kcpCz3z0XHRniE",
-  externalLink: "https://open.spotify.com/album/5fgXXyM1kcpCz3z0XHRniE",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5fgXXyM1kcpCz3z0XHRniE",
+      externalLink: "https://open.spotify.com/album/5fgXXyM1kcpCz3z0XHRniE",
+    },
+  ],
 } as const satisfies Release

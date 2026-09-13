@@ -13,6 +13,11 @@ export const jennaRaineItIsWhatItIsSpedUp = {
   status: "completed",
   rank: "B",
   publishedAt: "2023-08-11",
-  externalId: "5NUll3pLYgdBrBsP1J5RVO",
-  externalLink: "https://open.spotify.com/album/5NUll3pLYgdBrBsP1J5RVO",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5NUll3pLYgdBrBsP1J5RVO",
+      externalLink: "https://open.spotify.com/album/5NUll3pLYgdBrBsP1J5RVO",
+    },
+  ],
 } as const satisfies Release

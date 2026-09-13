@@ -12,6 +12,11 @@ export const jadaFacerOneMoreLight = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-12-15",
-  externalId: "1883JL5Y2SyjfxS5kYkFeB",
-  externalLink: "https://open.spotify.com/album/1883JL5Y2SyjfxS5kYkFeB",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1883JL5Y2SyjfxS5kYkFeB",
+      externalLink: "https://open.spotify.com/album/1883JL5Y2SyjfxS5kYkFeB",
+    },
+  ],
 } as const satisfies Release

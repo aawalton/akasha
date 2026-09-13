@@ -12,6 +12,11 @@ export const jadaFacerNewRules = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-09-25",
-  externalId: "53tlkdApj6G2mnlHqR8vam",
-  externalLink: "https://open.spotify.com/album/53tlkdApj6G2mnlHqR8vam",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "53tlkdApj6G2mnlHqR8vam",
+      externalLink: "https://open.spotify.com/album/53tlkdApj6G2mnlHqR8vam",
+    },
+  ],
 } as const satisfies Release

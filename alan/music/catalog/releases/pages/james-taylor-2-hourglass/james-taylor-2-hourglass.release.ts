@@ -12,6 +12,11 @@ export const jamesTaylor2Hourglass = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1997-05-20",
-  externalId: "3E7Sj3kKbxY1Tsp7U0SKQi",
-  externalLink: "https://open.spotify.com/album/3E7Sj3kKbxY1Tsp7U0SKQi",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3E7Sj3kKbxY1Tsp7U0SKQi",
+      externalLink: "https://open.spotify.com/album/3E7Sj3kKbxY1Tsp7U0SKQi",
+    },
+  ],
 } as const satisfies Release

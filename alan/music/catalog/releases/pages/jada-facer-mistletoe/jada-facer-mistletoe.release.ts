@@ -12,6 +12,11 @@ export const jadaFacerMistletoe = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-12-24",
-  externalId: "4h5WDm9BzWBsW7NITuqXqL",
-  externalLink: "https://open.spotify.com/album/4h5WDm9BzWBsW7NITuqXqL",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4h5WDm9BzWBsW7NITuqXqL",
+      externalLink: "https://open.spotify.com/album/4h5WDm9BzWBsW7NITuqXqL",
+    },
+  ],
 } as const satisfies Release

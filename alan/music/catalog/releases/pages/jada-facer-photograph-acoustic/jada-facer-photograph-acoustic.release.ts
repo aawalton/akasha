@@ -12,6 +12,11 @@ export const jadaFacerPhotographAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-11-11",
-  externalId: "3yRerO2ANNikojQPFnVLI0",
-  externalLink: "https://open.spotify.com/album/3yRerO2ANNikojQPFnVLI0",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3yRerO2ANNikojQPFnVLI0",
+      externalLink: "https://open.spotify.com/album/3yRerO2ANNikojQPFnVLI0",
+    },
+  ],
 } as const satisfies Release

@@ -13,6 +13,11 @@ export const jessicaBaioHome = {
   status: "completed",
   rank: "B",
   publishedAt: "2021-07-02",
-  externalId: "15SQweqZr9AEoXOfGhIKmr",
-  externalLink: "https://open.spotify.com/album/15SQweqZr9AEoXOfGhIKmr",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "15SQweqZr9AEoXOfGhIKmr",
+      externalLink: "https://open.spotify.com/album/15SQweqZr9AEoXOfGhIKmr",
+    },
+  ],
 } as const satisfies Release

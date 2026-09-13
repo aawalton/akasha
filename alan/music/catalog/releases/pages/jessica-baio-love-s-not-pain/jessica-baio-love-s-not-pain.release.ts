@@ -13,6 +13,11 @@ export const jessicaBaioLoveSNotPain = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-10-11",
-  externalId: "0KFgeoREfHIGhvOiyWAAWn",
-  externalLink: "https://open.spotify.com/album/0KFgeoREfHIGhvOiyWAAWn",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0KFgeoREfHIGhvOiyWAAWn",
+      externalLink: "https://open.spotify.com/album/0KFgeoREfHIGhvOiyWAAWn",
+    },
+  ],
 } as const satisfies Release

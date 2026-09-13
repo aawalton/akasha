@@ -12,6 +12,11 @@ export const justinTimberlakeTheOtherSideFromTrollsWorldTour = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2020-02-26",
-  externalId: "50ZTMRi6Biq1i1pWbcaKaJ",
-  externalLink: "https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "50ZTMRi6Biq1i1pWbcaKaJ",
+      externalLink: "https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const jadaFacerKissAndMakeUp = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-11-15",
-  externalId: "1pLuu6a3113R8qmAOhwwY3",
-  externalLink: "https://open.spotify.com/album/1pLuu6a3113R8qmAOhwwY3",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1pLuu6a3113R8qmAOhwwY3",
+      externalLink: "https://open.spotify.com/album/1pLuu6a3113R8qmAOhwwY3",
+    },
+  ],
 } as const satisfies Release

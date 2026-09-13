@@ -12,6 +12,11 @@ export const katyPerryBonAppetit3lauRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2017-05-17",
-  externalId: "12AWGZH31AHqTjk2ykcwjS",
-  externalLink: "https://open.spotify.com/album/12AWGZH31AHqTjk2ykcwjS",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "12AWGZH31AHqTjk2ykcwjS",
+      externalLink: "https://open.spotify.com/album/12AWGZH31AHqTjk2ykcwjS",
+    },
+  ],
 } as const satisfies Release

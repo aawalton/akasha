@@ -12,6 +12,11 @@ export const jadaFacerYouAreMySunshine = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-14",
-  externalId: "7A6AKJTfbg483XiYZZWsfL",
-  externalLink: "https://open.spotify.com/album/7A6AKJTfbg483XiYZZWsfL",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7A6AKJTfbg483XiYZZWsfL",
+      externalLink: "https://open.spotify.com/album/7A6AKJTfbg483XiYZZWsfL",
+    },
+  ],
 } as const satisfies Release

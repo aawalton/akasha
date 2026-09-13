@@ -13,6 +13,11 @@ export const jennaRaineOnlyStartedGrowing = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-04-25",
-  externalId: "7HcrXJXrfaPrXzPnZggZoC",
-  externalLink: "https://open.spotify.com/album/7HcrXJXrfaPrXzPnZggZoC",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7HcrXJXrfaPrXzPnZggZoC",
+      externalLink: "https://open.spotify.com/album/7HcrXJXrfaPrXzPnZggZoC",
+    },
+  ],
 } as const satisfies Release

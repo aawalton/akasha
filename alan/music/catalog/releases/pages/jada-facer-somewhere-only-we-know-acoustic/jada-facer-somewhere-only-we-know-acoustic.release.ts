@@ -12,6 +12,11 @@ export const jadaFacerSomewhereOnlyWeKnowAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-09-30",
-  externalId: "6Y2Z5Xh5En2oaVsUbCzern",
-  externalLink: "https://open.spotify.com/album/6Y2Z5Xh5En2oaVsUbCzern",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6Y2Z5Xh5En2oaVsUbCzern",
+      externalLink: "https://open.spotify.com/album/6Y2Z5Xh5En2oaVsUbCzern",
+    },
+  ],
 } as const satisfies Release

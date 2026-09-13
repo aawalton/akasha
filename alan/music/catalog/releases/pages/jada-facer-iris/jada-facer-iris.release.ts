@@ -12,6 +12,11 @@ export const jadaFacerIris = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-06-04",
-  externalId: "23udco7fGvaoYFuWfmeFsY",
-  externalLink: "https://open.spotify.com/album/23udco7fGvaoYFuWfmeFsY",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "23udco7fGvaoYFuWfmeFsY",
+      externalLink: "https://open.spotify.com/album/23udco7fGvaoYFuWfmeFsY",
+    },
+  ],
 } as const satisfies Release

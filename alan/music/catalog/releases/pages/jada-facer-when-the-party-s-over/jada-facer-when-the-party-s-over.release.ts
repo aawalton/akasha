@@ -12,6 +12,11 @@ export const jadaFacerWhenThePartySOver = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-11-02",
-  externalId: "7Lp2F7rz10fgQx5StbFHKR",
-  externalLink: "https://open.spotify.com/album/7Lp2F7rz10fgQx5StbFHKR",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7Lp2F7rz10fgQx5StbFHKR",
+      externalLink: "https://open.spotify.com/album/7Lp2F7rz10fgQx5StbFHKR",
+    },
+  ],
 } as const satisfies Release

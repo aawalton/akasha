@@ -13,6 +13,11 @@ export const jennaRaineFumbledTheBag = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-09-02",
-  externalId: "52ohkU9cUvreRfFteBnsTR",
-  externalLink: "https://open.spotify.com/album/52ohkU9cUvreRfFteBnsTR",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "52ohkU9cUvreRfFteBnsTR",
+      externalLink: "https://open.spotify.com/album/52ohkU9cUvreRfFteBnsTR",
+    },
+  ],
 } as const satisfies Release

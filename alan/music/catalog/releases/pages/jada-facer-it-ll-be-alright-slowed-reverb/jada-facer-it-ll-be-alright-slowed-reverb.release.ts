@@ -12,6 +12,11 @@ export const jadaFacerItLlBeAlrightSlowedReverb = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-07-03",
-  externalId: "5c665OOq8vER2Y7WekM2vP",
-  externalLink: "https://open.spotify.com/album/5c665OOq8vER2Y7WekM2vP",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5c665OOq8vER2Y7WekM2vP",
+      externalLink: "https://open.spotify.com/album/5c665OOq8vER2Y7WekM2vP",
+    },
+  ],
 } as const satisfies Release

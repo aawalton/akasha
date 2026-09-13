@@ -13,7 +13,12 @@ export const jisooAmortage = {
   status: "completed",
   rank: "B",
   publishedAt: "2025-02-14",
-  externalId: "1hmW4opQGq4hIYTbEWsyqW",
-  externalLink: "https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW",
-  lastSyncedAt: "2025-11-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1hmW4opQGq4hIYTbEWsyqW",
+      externalLink: "https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW",
+      lastSyncedAt: "2025-11-24",
+    },
+  ],
 } as const satisfies Release

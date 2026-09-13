@@ -12,6 +12,11 @@ export const justinTimberlakeItTakesTwoFeatEricAndreDaveedDiggsKidCudiTrolls = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2023-10-11",
-  externalId: "7oGTxPAGX6htcQblSqWo0r",
-  externalLink: "https://open.spotify.com/album/7oGTxPAGX6htcQblSqWo0r",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7oGTxPAGX6htcQblSqWo0r",
+      externalLink: "https://open.spotify.com/album/7oGTxPAGX6htcQblSqWo0r",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const jadaFacerOuttaMyHead = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-11-17",
-  externalId: "5hn0DxMGsNYgBYjK6AkSaX",
-  externalLink: "https://open.spotify.com/album/5hn0DxMGsNYgBYjK6AkSaX",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5hn0DxMGsNYgBYjK6AkSaX",
+      externalLink: "https://open.spotify.com/album/5hn0DxMGsNYgBYjK6AkSaX",
+    },
+  ],
 } as const satisfies Release

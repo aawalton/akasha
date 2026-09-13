@@ -12,6 +12,11 @@ export const jamesTaylor2TodayTodayToday = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2015-01-01",
-  externalId: "4hIwvgRdkOWKcktaqciSt5",
-  externalLink: "https://open.spotify.com/album/4hIwvgRdkOWKcktaqciSt5",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4hIwvgRdkOWKcktaqciSt5",
+      externalLink: "https://open.spotify.com/album/4hIwvgRdkOWKcktaqciSt5",
+    },
+  ],
 } as const satisfies Release

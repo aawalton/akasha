@@ -12,6 +12,11 @@ export const katyPerryCozyLittleChristmas = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2018-11-15",
-  externalId: "5IxObv8TvRsYE6DGKnbrXn",
-  externalLink: "https://open.spotify.com/album/5IxObv8TvRsYE6DGKnbrXn",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5IxObv8TvRsYE6DGKnbrXn",
+      externalLink: "https://open.spotify.com/album/5IxObv8TvRsYE6DGKnbrXn",
+    },
+  ],
 } as const satisfies Release

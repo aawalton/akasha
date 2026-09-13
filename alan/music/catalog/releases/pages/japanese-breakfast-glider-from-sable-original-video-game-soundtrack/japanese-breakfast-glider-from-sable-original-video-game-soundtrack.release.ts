@@ -12,6 +12,11 @@ export const japaneseBreakfastGliderFromSableOriginalVideoGameSoundtrack = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2021-08-27",
-  externalId: "70zXnYjeRgIzhiC7gYJZpO",
-  externalLink: "https://open.spotify.com/album/70zXnYjeRgIzhiC7gYJZpO",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "70zXnYjeRgIzhiC7gYJZpO",
+      externalLink: "https://open.spotify.com/album/70zXnYjeRgIzhiC7gYJZpO",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const jamesTaylor2OctoberRoadSpecialEdition = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2000-01-01",
-  externalId: "3RHJNmuwD0fnwccBv2HTif",
-  externalLink: "https://open.spotify.com/album/3RHJNmuwD0fnwccBv2HTif",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3RHJNmuwD0fnwccBv2HTif",
+      externalLink: "https://open.spotify.com/album/3RHJNmuwD0fnwccBv2HTif",
+    },
+  ],
 } as const satisfies Release

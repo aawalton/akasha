@@ -12,6 +12,11 @@ export const jamesTaylor2TheEssentialJamesTaylorDeluxeEdition = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2014-09-29",
-  externalId: "6zuqyZNLt4JogGiQqpy8dB",
-  externalLink: "https://open.spotify.com/album/6zuqyZNLt4JogGiQqpy8dB",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6zuqyZNLt4JogGiQqpy8dB",
+      externalLink: "https://open.spotify.com/album/6zuqyZNLt4JogGiQqpy8dB",
+    },
+  ],
 } as const satisfies Release

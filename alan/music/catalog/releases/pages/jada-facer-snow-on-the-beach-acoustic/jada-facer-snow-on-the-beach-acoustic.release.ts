@@ -12,6 +12,11 @@ export const jadaFacerSnowOnTheBeachAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-31",
-  externalId: "2AzBYVXkh50YPLNsTm3ENE",
-  externalLink: "https://open.spotify.com/album/2AzBYVXkh50YPLNsTm3ENE",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2AzBYVXkh50YPLNsTm3ENE",
+      externalLink: "https://open.spotify.com/album/2AzBYVXkh50YPLNsTm3ENE",
+    },
+  ],
 } as const satisfies Release

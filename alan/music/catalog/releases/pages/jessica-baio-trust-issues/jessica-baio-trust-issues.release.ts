@@ -13,6 +13,11 @@ export const jessicaBaioTrustIssues = {
   status: "completed",
   rank: "B",
   publishedAt: "2022-09-30",
-  externalId: "2ANMXCeMCSxdjTHoP8UpnU",
-  externalLink: "https://open.spotify.com/album/2ANMXCeMCSxdjTHoP8UpnU",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2ANMXCeMCSxdjTHoP8UpnU",
+      externalLink: "https://open.spotify.com/album/2ANMXCeMCSxdjTHoP8UpnU",
+    },
+  ],
 } as const satisfies Release

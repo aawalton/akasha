@@ -12,6 +12,11 @@ export const katyPerrySmileToughLoveRemix = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-09-18",
-  externalId: "44jGhxZdA51umYagLd0hnA",
-  externalLink: "https://open.spotify.com/album/44jGhxZdA51umYagLd0hnA",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "44jGhxZdA51umYagLd0hnA",
+      externalLink: "https://open.spotify.com/album/44jGhxZdA51umYagLd0hnA",
+    },
+  ],
 } as const satisfies Release

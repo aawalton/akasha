@@ -12,6 +12,11 @@ export const jadaFacerFaded = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-04-22",
-  externalId: "4kUEq4uEmfNCZBpeywor4i",
-  externalLink: "https://open.spotify.com/album/4kUEq4uEmfNCZBpeywor4i",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4kUEq4uEmfNCZBpeywor4i",
+      externalLink: "https://open.spotify.com/album/4kUEq4uEmfNCZBpeywor4i",
+    },
+  ],
 } as const satisfies Release

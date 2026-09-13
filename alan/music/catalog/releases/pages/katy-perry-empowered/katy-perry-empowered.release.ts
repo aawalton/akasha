@@ -12,6 +12,11 @@ export const katyPerryEmpowered = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-11-03",
-  externalId: "3YiQ8eGpgEaOJDdNf6eVFs",
-  externalLink: "https://open.spotify.com/album/3YiQ8eGpgEaOJDdNf6eVFs",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3YiQ8eGpgEaOJDdNf6eVFs",
+      externalLink: "https://open.spotify.com/album/3YiQ8eGpgEaOJDdNf6eVFs",
+    },
+  ],
 } as const satisfies Release

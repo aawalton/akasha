@@ -13,6 +13,11 @@ export const jessicaBaioBreakUpWithMe = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-08-16",
-  externalId: "27iWoB3vd2JNFmgbtttwKE",
-  externalLink: "https://open.spotify.com/album/27iWoB3vd2JNFmgbtttwKE",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "27iWoB3vd2JNFmgbtttwKE",
+      externalLink: "https://open.spotify.com/album/27iWoB3vd2JNFmgbtttwKE",
+    },
+  ],
 } as const satisfies Release

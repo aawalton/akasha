@@ -13,6 +13,11 @@ export const jennaRaineHaveYourselfAMerryLittleChristmas = {
   status: "completed",
   rank: "B",
   publishedAt: "2024-11-15",
-  externalId: "4KGyuuECudlsNoqcHfcuWC",
-  externalLink: "https://open.spotify.com/album/4KGyuuECudlsNoqcHfcuWC",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4KGyuuECudlsNoqcHfcuWC",
+      externalLink: "https://open.spotify.com/album/4KGyuuECudlsNoqcHfcuWC",
+    },
+  ],
 } as const satisfies Release

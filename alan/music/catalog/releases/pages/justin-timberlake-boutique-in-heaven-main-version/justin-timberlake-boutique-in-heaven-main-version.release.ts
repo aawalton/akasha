@@ -12,6 +12,11 @@ export const justinTimberlakeBoutiqueInHeavenMainVersion = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2006-12-19",
-  externalId: "0lM6qzeuSr2CTI0JsOq3LU",
-  externalLink: "https://open.spotify.com/album/0lM6qzeuSr2CTI0JsOq3LU",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0lM6qzeuSr2CTI0JsOq3LU",
+      externalLink: "https://open.spotify.com/album/0lM6qzeuSr2CTI0JsOq3LU",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const jamesTaylor2InThePocket2019Remaster = {
   unit: "minutes",
   status: "completed",
   publishedAt: "1976-06-01",
-  externalId: "45fMwpxS1ZOMqNt8Rq5pxP",
-  externalLink: "https://open.spotify.com/album/45fMwpxS1ZOMqNt8Rq5pxP",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "45fMwpxS1ZOMqNt8Rq5pxP",
+      externalLink: "https://open.spotify.com/album/45fMwpxS1ZOMqNt8Rq5pxP",
+    },
+  ],
 } as const satisfies Release

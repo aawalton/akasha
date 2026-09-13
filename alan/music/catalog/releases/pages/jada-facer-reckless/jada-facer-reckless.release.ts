@@ -12,6 +12,11 @@ export const jadaFacerReckless = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2019-06-20",
-  externalId: "7EyRu9wbc0e85qu4yCXadO",
-  externalLink: "https://open.spotify.com/album/7EyRu9wbc0e85qu4yCXadO",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7EyRu9wbc0e85qu4yCXadO",
+      externalLink: "https://open.spotify.com/album/7EyRu9wbc0e85qu4yCXadO",
+    },
+  ],
 } as const satisfies Release

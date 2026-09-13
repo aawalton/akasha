@@ -12,7 +12,12 @@ export const jessicaBaioAllISawWasYouFeatJessicaBaio = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2025-11-14",
-  externalId: "4NgDWmNwmNjKXp3pppJjsp",
-  externalLink: "https://open.spotify.com/album/4NgDWmNwmNjKXp3pppJjsp",
-  lastSyncedAt: "2025-11-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4NgDWmNwmNjKXp3pppJjsp",
+      externalLink: "https://open.spotify.com/album/4NgDWmNwmNjKXp3pppJjsp",
+      lastSyncedAt: "2025-11-30",
+    },
+  ],
 } as const satisfies Release

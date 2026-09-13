@@ -12,6 +12,11 @@ export const justinTimberlakeBetterDaysLive = {
   unit: "minutes",
   status: "not-started",
   publishedAt: "2021-01-21",
-  externalId: "57XaIqrhGfRe5MYGLxa27k",
-  externalLink: "https://open.spotify.com/album/57XaIqrhGfRe5MYGLxa27k",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "57XaIqrhGfRe5MYGLxa27k",
+      externalLink: "https://open.spotify.com/album/57XaIqrhGfRe5MYGLxa27k",
+    },
+  ],
 } as const satisfies Release

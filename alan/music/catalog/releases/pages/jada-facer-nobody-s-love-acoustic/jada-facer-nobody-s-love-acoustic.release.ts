@@ -12,6 +12,11 @@ export const jadaFacerNobodySLoveAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-08-10",
-  externalId: "2hzsal85X97JEiYcvXs20S",
-  externalLink: "https://open.spotify.com/album/2hzsal85X97JEiYcvXs20S",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2hzsal85X97JEiYcvXs20S",
+      externalLink: "https://open.spotify.com/album/2hzsal85X97JEiYcvXs20S",
+    },
+  ],
 } as const satisfies Release

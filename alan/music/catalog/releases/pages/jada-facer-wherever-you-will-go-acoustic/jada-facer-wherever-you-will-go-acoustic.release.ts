@@ -12,6 +12,11 @@ export const jadaFacerWhereverYouWillGoAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-06-23",
-  externalId: "7uNYjrTXi5IK26ePa0KdAJ",
-  externalLink: "https://open.spotify.com/album/7uNYjrTXi5IK26ePa0KdAJ",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7uNYjrTXi5IK26ePa0KdAJ",
+      externalLink: "https://open.spotify.com/album/7uNYjrTXi5IK26ePa0KdAJ",
+    },
+  ],
 } as const satisfies Release

@@ -12,6 +12,11 @@ export const katyPerryCampKaty = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-10-16",
-  externalId: "5ImEgzmMKO9NAnXRTclK6X",
-  externalLink: "https://open.spotify.com/album/5ImEgzmMKO9NAnXRTclK6X",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5ImEgzmMKO9NAnXRTclK6X",
+      externalLink: "https://open.spotify.com/album/5ImEgzmMKO9NAnXRTclK6X",
+    },
+  ],
 } as const satisfies Release

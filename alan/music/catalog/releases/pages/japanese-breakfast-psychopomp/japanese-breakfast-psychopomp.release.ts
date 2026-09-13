@@ -12,6 +12,11 @@ export const japaneseBreakfastPsychopomp = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2016-04-16",
-  externalId: "3CeBfyjSIfbWyf0RTNbq1G",
-  externalLink: "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3CeBfyjSIfbWyf0RTNbq1G",
+      externalLink: "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G",
+    },
+  ],
 } as const satisfies Release

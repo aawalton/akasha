@@ -12,6 +12,11 @@ export const katyPerryNeverWornWhite = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-03-05",
-  externalId: "0Gubs5k8ay34m9a0yiliRa",
-  externalLink: "https://open.spotify.com/album/0Gubs5k8ay34m9a0yiliRa",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0Gubs5k8ay34m9a0yiliRa",
+      externalLink: "https://open.spotify.com/album/0Gubs5k8ay34m9a0yiliRa",
+    },
+  ],
 } as const satisfies Release

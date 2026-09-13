@@ -12,6 +12,11 @@ export const jadaFacerFixYouAcoustic = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2023-06-01",
-  externalId: "6iGuRz85WWHf0j8Gldxs04",
-  externalLink: "https://open.spotify.com/album/6iGuRz85WWHf0j8Gldxs04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6iGuRz85WWHf0j8Gldxs04",
+      externalLink: "https://open.spotify.com/album/6iGuRz85WWHf0j8Gldxs04",
+    },
+  ],
 } as const satisfies Release

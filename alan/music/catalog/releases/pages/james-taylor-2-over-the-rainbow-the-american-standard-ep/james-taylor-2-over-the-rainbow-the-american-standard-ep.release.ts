@@ -12,6 +12,11 @@ export const jamesTaylor2OverTheRainbowTheAmericanStandardEp = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-11-20",
-  externalId: "4om1cbmy0mM7M7w5u8pptF",
-  externalLink: "https://open.spotify.com/album/4om1cbmy0mM7M7w5u8pptF",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4om1cbmy0mM7M7w5u8pptF",
+      externalLink: "https://open.spotify.com/album/4om1cbmy0mM7M7w5u8pptF",
+    },
+  ],
 } as const satisfies Release

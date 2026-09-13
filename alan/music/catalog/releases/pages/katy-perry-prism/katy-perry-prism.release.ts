@@ -12,6 +12,11 @@ export const katyPerryPrism = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2013-01-01",
-  externalId: "3jB9yFDwRe3KhtGnHXJntk",
-  externalLink: "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3jB9yFDwRe3KhtGnHXJntk",
+      externalLink: "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk",
+    },
+  ],
 } as const satisfies Release

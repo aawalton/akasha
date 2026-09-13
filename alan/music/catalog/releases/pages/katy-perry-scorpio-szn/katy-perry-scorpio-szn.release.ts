@@ -12,6 +12,11 @@ export const katyPerryScorpioSzn = {
   unit: "minutes",
   status: "completed",
   publishedAt: "2020-10-26",
-  externalId: "6qZ5OAEVumaniVTF2Sumga",
-  externalLink: "https://open.spotify.com/album/6qZ5OAEVumaniVTF2Sumga",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6qZ5OAEVumaniVTF2Sumga",
+      externalLink: "https://open.spotify.com/album/6qZ5OAEVumaniVTF2Sumga",
+    },
+  ],
 } as const satisfies Release
