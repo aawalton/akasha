@@ -5,19 +5,10 @@ export const agentProcTree = {
   type: "module",
   slug: "agent-proc-tree",
   definition:
-    "an agent's processes: which child is the main one, and which whole trees it has outlived",
+    "an agent's processes: which whole trees it has outlived, and which are the caller's own",
   code: "ts",
   test: "ts",
   invariants: [
-    {
-      invariantKind: "departure",
-      statement: "A child of the supervisor asking is preferred to a child of anything else.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The main child is the newest where every candidate is timed and the highest pid otherwise.",
-    },
     {
       invariantKind: "departure",
       statement: "An agent whose processes form one tree has outlived no tree.",

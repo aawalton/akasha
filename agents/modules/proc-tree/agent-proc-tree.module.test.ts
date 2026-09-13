@@ -1,12 +1,8 @@
 import { expect, test } from "bun:test"
 import type { ProcLivenessEntry } from "akasha/agents/modules/proc-liveness/agent-proc-liveness.module.code.ts"
 import {
-  claudeChildProcsByAgent,
-  newestProcStartMsByAgent,
-  pickMainClaudePid,
   rejectSelfProc,
   selectSupersededTreePids,
-  supervisedClaudePids,
 } from "akasha/agents/modules/proc-tree/agent-proc-tree.module.code.ts"
 
 const ONE = "0199a1b2-c3d4-7e5f-8091-a2b3c4d5e6f7"
@@ -18,74 +14,6 @@ const TASK = "bun tools/some-task.ts"
 function proc(over: Partial<ProcLivenessEntry> & { pid: number }): ProcLivenessEntry {
   return { agentId: ONE, cmdline: CHILD, ...over }
 }
-
-test("the newest start is kept per agent, ignoring untimed and sleeping processes", () => {
-  const said = newestProcStartMsByAgent([
-    proc({ pid: 1, startMs: 100 }),
-    proc({ pid: 2, startMs: 300, state: "D" }),
-    proc({ pid: 3, startMs: 200 }),
-    proc({ pid: 4 }),
-  ])
-  expect(said.get(ONE)).toBe(200)
-})
-
-test("only Claude children are gathered as an agent's children", () => {
-  const said = claudeChildProcsByAgent([
-    proc({ pid: 1, cmdline: CHILD }),
-    proc({ pid: 2, cmdline: SUPERVISOR }),
-  ])
-  expect(said.get(ONE)?.map((c) => c.pid)).toEqual([1])
-})
-
-test("a child of the supervisor asking is preferred to a child of anything else", () => {
-  const children = [
-    { pid: 10, ppid: 99, startMs: 500 },
-    { pid: 11, ppid: 7, startMs: 100 },
-  ]
-  expect(pickMainClaudePid(children, 7)).toBe(11)
-  expect(supervisedClaudePids(children, 7)).toEqual([11])
-})
-
-test("where the supervisor fathered none, every child is in play", () => {
-  const children = [
-    { pid: 10, ppid: 99, startMs: 100 },
-    { pid: 11, ppid: 98, startMs: 500 },
-  ]
-  expect(pickMainClaudePid(children, 7)).toBe(11)
-  expect(supervisedClaudePids(children, 7)).toEqual([10, 11])
-})
-
-test("the main child is the newest where every candidate is timed", () => {
-  expect(
-    pickMainClaudePid(
-      [
-        { pid: 50, startMs: 100 },
-        { pid: 10, startMs: 900 },
-      ],
-      null
-    )
-  ).toBe(10)
-})
-
-test("the main child is the highest pid where any candidate is untimed", () => {
-  expect(pickMainClaudePid([{ pid: 50 }, { pid: 10, startMs: 900 }], null)).toBe(50)
-})
-
-test("the newest of two children started together is the higher pid", () => {
-  expect(
-    pickMainClaudePid(
-      [
-        { pid: 10, startMs: 100 },
-        { pid: 50, startMs: 100 },
-      ],
-      null
-    )
-  ).toBe(50)
-})
-
-test("no children at all picks nothing", () => {
-  expect(pickMainClaudePid([], null)).toBeUndefined()
-})
 
 test("an agent whose processes form one tree has outlived none of them", () => {
   const said = selectSupersededTreePids(

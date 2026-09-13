@@ -1,78 +1,7 @@
 import {
-  isAgentId,
   isAgentProcessCmdline,
-  isClaudeChildCmdline,
   type ProcLivenessEntry,
 } from "akasha/agents/modules/proc-liveness/agent-proc-liveness.module.code.ts"
-
-export function newestProcStartMsByAgent(
-  entries: readonly ProcLivenessEntry[]
-): Map<string, number | null> {
-  const out = new Map<string, number | null>()
-  for (const { agentId, startMs, state } of entries) {
-    if (!isAgentId(agentId)) continue
-    if (startMs === undefined) continue
-    if (state === "D") continue
-    const prev = out.get(agentId)
-    if (prev === undefined || prev === null || startMs > prev) out.set(agentId, startMs)
-  }
-  return out
-}
-
-export type ClaudeChildProc = { pid: number; ppid?: number; startMs?: number }
-
-export function claudeChildProcsByAgent(
-  entries: readonly ProcLivenessEntry[]
-): Map<string, ClaudeChildProc[]> {
-  const byId = new Map<string, ClaudeChildProc[]>()
-  for (const { agentId, cmdline, pid, ppid, startMs } of entries) {
-    if (!isAgentId(agentId)) continue
-    if (!isClaudeChildCmdline(cmdline)) continue
-    const child: ClaudeChildProc = startMs === undefined ? { pid, ppid } : { pid, ppid, startMs }
-    const existing = byId.get(agentId)
-    if (existing === undefined) byId.set(agentId, [child])
-    else existing.push(child)
-  }
-  return byId
-}
-
-function newestChildPid(children: readonly ClaudeChildProc[]): number | undefined {
-  const first = children[0]
-  if (first === undefined) return undefined
-  const timed = children.every((c) => c.startMs !== undefined)
-  let best = first
-  for (const c of children) {
-    const a = c.startMs
-    const b = best.startMs
-    if (timed && a !== undefined && b !== undefined) {
-      if (a > b || (a === b && c.pid > best.pid)) best = c
-    } else if (!timed && c.pid > best.pid) best = c
-  }
-  return best.pid
-}
-
-function underSupervisor(
-  children: readonly ClaudeChildProc[],
-  supervisorPid: number | null
-): readonly ClaudeChildProc[] {
-  if (supervisorPid === null) return children
-  const supervised = children.filter((c) => c.ppid === supervisorPid)
-  return supervised.length > 0 ? supervised : children
-}
-
-export function supervisedClaudePids(
-  children: readonly ClaudeChildProc[],
-  supervisorPid: number | null
-): readonly number[] {
-  return underSupervisor(children, supervisorPid).map((c) => c.pid)
-}
-
-export function pickMainClaudePid(
-  children: readonly ClaudeChildProc[],
-  supervisorPid: number | null
-): number | undefined {
-  return newestChildPid(underSupervisor(children, supervisorPid))
-}
 
 function componentsOf(mine: readonly ProcLivenessEntry[]): {
   find: (pid: number) => number
