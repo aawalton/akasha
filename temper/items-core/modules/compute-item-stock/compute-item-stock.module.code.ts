@@ -7,6 +7,20 @@ export interface ItemStockBreakdown {
   total: number
 }
 
+const BANK = "Bank"
+
+export function computeBankStock(inventory: InventoryDatabase | null): Map<number, number> {
+  const result = new Map<number, number>()
+  const bank = inventory?.locations[BANK]
+  if (bank === undefined) return result
+  for (const slots of Object.values(bank.bags)) {
+    for (const item of Object.values(slots)) {
+      result.set(item.itemId, (result.get(item.itemId) ?? 0) + item.stackCount)
+    }
+  }
+  return result
+}
+
 export function computeItemStock(
   inventory: InventoryDatabase | null,
   itemIds: ReadonlySet<number>

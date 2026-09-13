@@ -274,3 +274,33 @@ test("stock is answered unknown where no inventory capture was handed in", () =>
   })
   expect(env.getConsumableStock(64509, "111")).toBe("unknown")
 })
+
+test("bank stock is counted off the inventory capture, and the bank alone", () => {
+  const env = buildCliEvalEnv({
+    charactersById: new Map(),
+    characterPriority: [],
+    wantedConsumables: {},
+    db: {
+      meta: EMPTY_META,
+      locations: {
+        Bank: {
+          displayName: "Bank",
+          lastScanned: 0,
+          bags: { 1: { 1: stackOf(64509, 40), 2: stackOf(64509, 2) } },
+        },
+        "111": { displayName: "Ayrenn", lastScanned: 0, bags: { 1: { 1: stackOf(64509, 9) } } },
+      },
+    },
+  })
+  expect(env.getBankStock(64509)).toBe(42)
+  expect(env.getBankStock(68235)).toBe(0)
+})
+
+test("bank stock is answered unknown where no inventory capture was handed in", () => {
+  const env = buildCliEvalEnv({
+    charactersById: new Map(),
+    characterPriority: [],
+    wantedConsumables: {},
+  })
+  expect(env.getBankStock(64509)).toBe("unknown")
+})

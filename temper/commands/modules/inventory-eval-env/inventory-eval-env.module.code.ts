@@ -1,5 +1,8 @@
 import type { CharacterKnowledge } from "akasha/temper/commands/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
-import { computeItemStock } from "akasha/temper/items-core/modules/compute-item-stock/compute-item-stock.module.code.ts"
+import {
+  computeBankStock,
+  computeItemStock,
+} from "akasha/temper/items-core/modules/compute-item-stock/compute-item-stock.module.code.ts"
 import { findCooldownGroup } from "akasha/temper/items-core/modules/cooldown-groups/cooldown-groups.module.code.ts"
 import { isCraftingRankBelowCap } from "akasha/temper/items-core/modules/crafting-passive-ranks/crafting-passive-ranks.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
@@ -28,6 +31,7 @@ export function buildCliEvalEnv(deps: CliEvalEnvDeps): EvalEnv {
   const itemIdToCooldownGroup = compileItemIdToCooldownGroup(db)
   const consumableWanters = compileConsumableWanters(wantedConsumables)
   const consumableStock = computeItemStock(db ?? null, new Set(consumableWanters.keys()))
+  const bankStock = computeBankStock(db ?? null)
   return {
     isKnownByCharacter: (itemKey, charId) => knowsItemForChar(charactersById, charId, itemKey),
     isKnownByAnyCharacter: (itemKey) => {
@@ -59,7 +63,10 @@ export function buildCliEvalEnv(deps: CliEvalEnvDeps): EvalEnv {
       if (db === undefined) return UNKNOWN
       return consumableStock.get(itemId)?.byChar.get(charId) ?? 0
     },
-    getBankStock: () => UNKNOWN,
+    getBankStock: (itemId) => {
+      if (db === undefined) return UNKNOWN
+      return bankStock.get(itemId) ?? 0
+    },
 
     getKnownScripts: (charId) => {
       const held = charactersById.get(charId)
