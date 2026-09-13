@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   decideRemoteControl,
   decideRemoteControlBatch,
-} from "akasha/agents/seats/supervisors/supervisor-remote-control/modules/supervisor-remote-control-decide/supervisor-remote-control-decide.module.code.ts"
+} from "akasha/agents/seats/supervisors/supervisor-remote-control/modules/decide/supervisor-remote-control-decide.module.code.ts"
 
 test("a headless seat is not under remote control", () => {
   expect(decideRemoteControl({ headless: true })).toBe(false)

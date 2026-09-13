@@ -5,7 +5,7 @@ import {
   readRemoteControlQuestion,
   remoteControlFallback,
   seatLabel,
-} from "akasha/agents/seats/supervisors/supervisor-remote-control/modules/supervisor-remote-control-default/supervisor-remote-control-default.module.code.ts"
+} from "akasha/agents/seats/supervisors/supervisor-remote-control/modules/default/supervisor-remote-control-default.module.code.ts"
 import {
   askSupervisorDecide,
   SUPERVISOR_DECIDE_COMMAND,

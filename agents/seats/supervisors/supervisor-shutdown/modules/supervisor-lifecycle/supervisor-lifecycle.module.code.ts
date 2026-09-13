@@ -16,11 +16,11 @@ import {
   processes,
   setShuttingDown,
 } from "akasha/agents/seats/supervisors/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"
-import { shouldWriteTerminalStoppedStatus } from "akasha/agents/seats/supervisors/supervisor-shutdown/modules/supervisor-lifecycle-death-write/supervisor-lifecycle-death-write.module.code.ts"
 import {
   killProcessesForShutdown,
   recordShutdownEvent,
-} from "akasha/agents/seats/supervisors/supervisor-shutdown/modules/supervisor-shutdown-procs/supervisor-shutdown-procs.module.code.ts"
+} from "akasha/agents/seats/supervisors/supervisor-shutdown/modules/procs/supervisor-shutdown-procs.module.code.ts"
+import { shouldWriteTerminalStoppedStatus } from "akasha/agents/seats/supervisors/supervisor-shutdown/modules/supervisor-lifecycle-death-write/supervisor-lifecycle-death-write.module.code.ts"
 import { takeSeatPage } from "akasha/agents/seats/supervisors/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
