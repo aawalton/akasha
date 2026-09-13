@@ -14,6 +14,7 @@ export const codeCheck = {
     "boolean-property/runs-on-worktree",
     "code-check/browser-code-reads-the-environment-by-a-name",
     "code-check/calculation-imports-only-types",
+    "code-check/change-is-reached-through-a-runner",
     "code-check/check-reaches-a-path-through-the-index",
     "code-check/client-reaches-a-server-module-through-a-route",
     "code-check/client-reaches-pages-through-its-hooks",
