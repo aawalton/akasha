@@ -11,7 +11,7 @@ export const athenaCommandModules = {
     {
       statement: "One function builds the answer a command hands back.",
       workingMemory:
-        "`answeredWith` stays: it alone carries a report and refusals at once, and `model-test` `:64` answers non-zero refusing nothing, which no other builder can. `refusedBy` is that with the report fixed at `[]`. Three hand-built records inside `command-answering` went at `7f47d2c7396` and the rule's false invariant at `d4eab0a2dc5`, but that census read entries only: `model-gateway-swap` holds three more in its body. Alan's: `told`, and whether work doing nothing before throwing takes the list.\n",
+        "`told` and `refusedBy` delegate to `answeredWith` at `7dcba422b4f`, so one function builds the record. `told` builds no refusal, so the statement now names the answer rather than the refusal. `model-gateway-swap` holds none: that census line was stale, it goes through the builders. Left: three answers derived by spread outside the module, `alan-food` `:357`, `track-health-import` `:132`, `apply-running` `:180`. Alan's: whether work doing nothing before throwing takes the `done` list.",
     },
   ],
   constraints: [
