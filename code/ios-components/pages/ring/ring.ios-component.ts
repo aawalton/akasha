@@ -29,6 +29,10 @@ export const ring = {
     },
     {
       invariantKind: "departure",
+      statement: "A caption is centred in its own width rather than sitting at one edge of it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A ring with nothing left keeps its own words rather than counting.",
     },
     {

@@ -25,9 +25,8 @@ struct RingArc {
 // `46 min, 29 sec` and the second ticks. A timer interval reads `46:29` instead. Both are
 // handed the moment rather than a spelled wait, so both redraw with no tile rebuilt.
 //
-// The forms past `.timer` are here to be drawn and looked at. `.timerAlone` drops the
-// trailing word, which parts a picture that lost the timer from one that lost the joining,
-// and `.timerWithoutHours` asks the timer for minutes and seconds whatever the wait is.
+// `.timerAlone` drops the trailing word, which is the form the cost tile counts down in, and
+// `.timerWithoutHours` asks the timer for minutes and seconds whatever the wait is.
 enum RingCountdown {
     case relative
     case timer
@@ -162,12 +161,20 @@ struct Ring<Figure: View>: View {
         }
     }
 
+    // A CAPTION THAT COUNTS IS WIDER THAN WHAT IT READS, SO WHAT IT READS IS CENTRED IN IT.
+    //
+    // SwiftUI lays a counting caption out against the widest reading that count will ever
+    // have, so the digits never shuffle sideways as they tick. That leaves the view wider than
+    // the words in it at every moment but the widest one, and the words sit at the leading
+    // edge of the view unless the view is told otherwise, which reads as a caption pushed off
+    // to one side. Spelled words hug their own view, so centring those changes nothing.
     private func worded(_ words: Text, _ caption: RingCaption) -> some View {
         words
             .font(caption.font)
             .foregroundStyle(caption.style)
             .lineLimit(1)
             .minimumScaleFactor(0.6)
+            .multilineTextAlignment(.center)
     }
 
     private func labelled(_ caption: RingCaption) -> String? {

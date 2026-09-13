@@ -33,7 +33,11 @@ export const alanwaltonCostWidget = {
     },
     {
       invariantKind: "departure",
-      statement: "The caption counts down in timer form rather than in spelled words.",
+      statement: "The caption counts down as a bare timer rather than in spelled words.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Nothing is written after the count, so the tile reads as the count alone.",
     },
   ],
 } as const satisfies IosComponent
