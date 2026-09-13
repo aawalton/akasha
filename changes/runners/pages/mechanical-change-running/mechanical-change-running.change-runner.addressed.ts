@@ -80,9 +80,6 @@ export type Changes = {
   "change-mechanical-file-content/rename-page-property-key": Parameters<
     typeof import("akasha/changes/mechanical/file-content/rename/rename-page-property-key/rename-page-property-key.change-mechanical-file-content.code.ts")["runChange"]
   >[1]
-  "change-mechanical-file-content/rename-page-slug": Parameters<
-    typeof import("akasha/changes/mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.code.ts")["runChange"]
-  >[1]
   "change-mechanical-file-content/rename-property-signature": Parameters<
     typeof import("akasha/changes/mechanical/file-content/rename/rename-property-signature/rename-property-signature.change-mechanical-file-content.code.ts")["runChange"]
   >[1]

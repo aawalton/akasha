@@ -1,5 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import { runChange as renameSlug } from "akasha/changes/mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   bodiesIn,
@@ -10,6 +9,7 @@ import {
   bodyAfter,
   bodyAt,
 } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { slugRenamed } from "akasha/changes/modules/slug-renaming/slug-renaming.module.code.ts"
 import {
   listing,
   running,
@@ -60,102 +60,98 @@ function bodiesOf(said: Answer, world: World): ReadonlyMap<string, string | null
   return bodiesIn(said, world.base)
 }
 
-async function whyOf(
-  at: string,
-  to: string,
-  textOf: (path: string) => string | null
-): Promise<string> {
-  const world = worldIn(scratch.rootFor("rename-slug-"), textOf)
-  const said = await renameSlug(world, { at, to })
+function whyOf(at: string, to: string, textOf: (path: string) => string | null): string {
+  const world = worldIn(scratch.rootFor("slug-renaming-"), textOf)
+  const said = slugRenamed(world, { at, to })
   expect(said.edits).toEqual([])
   return said.refused ?? ""
 }
 
-test("a path that is no `.ts` file is refused", async () => {
-  expect(await whyOf("akasha/one/held.md", KEPT, () => null)).toBe(
+test("a path that is no `.ts` file is refused", () => {
+  expect(whyOf("akasha/one/held.md", KEPT, () => null)).toBe(
     "`akasha/one/held.md` is no `.ts` file"
   )
 })
 
-test("a body that could not be read is refused", async () => {
-  expect(await whyOf(PAGE, KEPT, () => null)).toBe(`\`${PAGE}\` could not be read`)
+test("a body that could not be read is refused", () => {
+  expect(whyOf(PAGE, KEPT, () => null)).toBe(`\`${PAGE}\` could not be read`)
 })
 
-test("a body stating no slug is refused", async () => {
+test("a body stating no slug is refused", () => {
   const body = WHOLE.replace(`  slug: "held",\n`, "")
-  expect(await whyOf(PAGE, KEPT, holding(body))).toBe(`\`${PAGE}\` states no \`slug\``)
+  expect(whyOf(PAGE, KEPT, holding(body))).toBe(`\`${PAGE}\` states no \`slug\``)
 })
 
-test("a body stating no page type is refused", async () => {
+test("a body stating no page type is refused", () => {
   const body = WHOLE.replace(`  pageTypeSlug: "module",\n`, "")
-  expect(await whyOf(PAGE, KEPT, holding(body))).toBe(`\`${PAGE}\` states no \`pageTypeSlug\``)
+  expect(whyOf(PAGE, KEPT, holding(body))).toBe(`\`${PAGE}\` states no \`pageTypeSlug\``)
 })
 
-test("a body stating no id is refused", async () => {
+test("a body stating no id is refused", () => {
   const body = WHOLE.replace(`  id: "01a04a4a-0000-7000-8000-000000000008",\n`, "")
-  expect(await whyOf(PAGE, KEPT, holding(body))).toBe(`\`${PAGE}\` states no \`id\``)
+  expect(whyOf(PAGE, KEPT, holding(body))).toBe(`\`${PAGE}\` states no \`id\``)
 })
 
-test("a body exporting no name its slug makes is refused", async () => {
+test("a body exporting no name its slug makes is refused", () => {
   const body = WHOLE.replace("export const held", "export const it")
-  expect(await whyOf(PAGE, KEPT, holding(body))).toBe(
+  expect(whyOf(PAGE, KEPT, holding(body))).toBe(
     `\`${PAGE}\` exports no \`${HELD_SLUG}\`, the name its slug makes`
   )
 })
 
-test("a name that is no slug is refused", async () => {
-  expect(await whyOf(PAGE, "Kept", holding(WHOLE))).toBe(
+test("a name that is no slug is refused", () => {
+  expect(whyOf(PAGE, "Kept", holding(WHOLE))).toBe(
     "`Kept` is no slug, a slug being lower kebab case"
   )
-  expect(await whyOf(PAGE, "kept-", holding(WHOLE))).toBe(
+  expect(whyOf(PAGE, "kept-", holding(WHOLE))).toBe(
     "`kept-` is no slug, a slug being lower kebab case"
   )
 })
 
-test("a name past the length a page's slug holds is refused", async () => {
+test("a name past the length a page's slug holds is refused", () => {
   const past = `kept-${"a".repeat(96)}`
   expect(past.length).toBe(101)
-  expect(await whyOf(PAGE, past, holding(WHOLE))).toBe(
+  expect(whyOf(PAGE, past, holding(WHOLE))).toBe(
     `\`${past}\` runs to 101 characters, past the 100 a page's slug holds`
   )
 })
 
-test("a name at that length is refused for nothing to do with its length", async () => {
+test("a name at that length is refused for nothing to do with its length", () => {
   const at = `kept-${"a".repeat(95)}`
   expect(at.length).toBe(100)
-  expect(await whyOf(PAGE, at, holding(WHOLE))).toContain("so no slug was restated")
+  expect(whyOf(PAGE, at, holding(WHOLE))).toContain("so no slug was restated")
 })
 
-test("the slug it already carries is refused", async () => {
-  expect(await whyOf(PAGE, HELD_SLUG, holding(WHOLE))).toBe(
+test("the slug it already carries is refused", () => {
+  expect(whyOf(PAGE, HELD_SLUG, holding(WHOLE))).toBe(
     `\`${HELD_SLUG}\` is the slug it already carries`
   )
 })
 
-test("an index that cannot answer refuses rather than narrowing the reach", async () => {
-  expect(await whyOf(PAGE, KEPT, holding(WHOLE))).toContain("so no slug was restated")
+test("an index that cannot answer refuses rather than narrowing the reach", () => {
+  expect(whyOf(PAGE, KEPT, holding(WHOLE))).toContain("so no slug was restated")
 })
 
-test("a slug a page of that page type carries already is refused", async () => {
+test("a slug a page of that page type carries already is refused", () => {
   const root = indexedRepo()
-  const said = await renameSlug(worldIn(root, textIn(root)), { at: HELD_PAGE, to: "namer" })
+  const said = slugRenamed(worldIn(root, textIn(root)), { at: HELD_PAGE, to: "namer" })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe("a `module` carries the slug `namer` already")
 })
 
-test("a namer that could not be read is refused", async () => {
+test("a namer that could not be read is refused", () => {
   const root = indexedRepo()
   const text = textIn(root)
   const world = worldIn(root, (path) => (path === NAMER_PAGE ? null : text(path)))
-  const said = await renameSlug(world, { at: HELD_PAGE, to: KEPT })
+  const said = slugRenamed(world, { at: HELD_PAGE, to: KEPT })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(`\`${NAMER_PAGE}\` names this page and could not be read`)
 })
 
-test("the page's own slug and every name of it are restated", async () => {
+test("the page's own slug and every name of it are restated", () => {
   const root = indexedRepo()
   const world = worldIn(root, textIn(root))
-  const said = await renameSlug(world, { at: HELD_PAGE, to: KEPT })
+  const said = slugRenamed(world, { at: HELD_PAGE, to: KEPT })
   expect(said.refused).toBe(null)
   expect([...bodiesOf(said, world).keys()].sort()).toEqual([HELD_PAGE, NAMER_PAGE])
   expect(bodyAfter(said, world, HELD_PAGE)).toContain(`"slug": "${KEPT}"`)
@@ -165,10 +161,10 @@ test("the page's own slug and every name of it are restated", async () => {
   expect(bodyAfter(said, world, NAMER_PAGE)).not.toContain(HELD_SLUG)
 })
 
-test("each body is answered beside the body it was worked out from", async () => {
+test("each body is answered beside the body it was worked out from", () => {
   const root = indexedRepo()
   const world = worldIn(root, textIn(root))
-  const said = await renameSlug(world, { at: HELD_PAGE, to: KEPT })
+  const said = slugRenamed(world, { at: HELD_PAGE, to: KEPT })
   expect(said.refused).toBe(null)
   for (const one of said.edits) {
     expect(one.kind).toBe("replace")
@@ -176,63 +172,63 @@ test("each body is answered beside the body it was worked out from", async () =>
   expect([...bodiesOf(said, world).keys()].sort()).toEqual([HELD_PAGE, NAMER_PAGE])
 })
 
-test("the page's exported const is renamed with its slug", async () => {
+test("the page's exported const is renamed with its slug", () => {
   const root = indexedRepo()
   const world = worldIn(root, textIn(root))
-  const said = await renameSlug(world, { at: HELD_PAGE, to: KEPT })
+  const said = slugRenamed(world, { at: HELD_PAGE, to: KEPT })
   expect(said.refused).toBe(null)
   expect(bodyAfter(said, world, HELD_PAGE)).toContain(`export const ${KEPT} =`)
   expect(bodyAfter(said, world, HELD_PAGE)).not.toContain(`export const ${HELD_SLUG} =`)
 })
 
-test("the bodies are answered rather than written", async () => {
+test("the bodies are answered rather than written", () => {
   const root = indexedRepo()
   const text = textIn(root)
-  const said = await renameSlug(worldIn(root, text), { at: HELD_PAGE, to: KEPT })
+  const said = slugRenamed(worldIn(root, text), { at: HELD_PAGE, to: KEPT })
   expect(said.refused).toBe(null)
   expect(text(HELD_PAGE)).toContain(`"slug": "${HELD_SLUG}"`)
   expect(text(NAMER_PAGE)).toContain(`"note": "${HELD_SLUG}"`)
 })
 
-test("a page stating a plural is refused where the plural it becomes is not said", async () => {
-  const world = worldIn(scratch.rootFor("rename-slug-"), holding(PLURAL))
-  const said = await renameSlug(world, { at: PAGE, to: KEPT })
+test("a page stating a plural is refused where the plural it becomes is not said", () => {
+  const world = worldIn(scratch.rootFor("slug-renaming-"), holding(PLURAL))
+  const said = slugRenamed(world, { at: PAGE, to: KEPT })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(`\`${PAGE}\` states a \`pluralSlug\`, so the plural it becomes is said`)
 })
 
-test("a page stating no plural is refused where one is said", async () => {
-  const world = worldIn(scratch.rootFor("rename-slug-"), holding(WHOLE))
-  const said = await renameSlug(world, { at: PAGE, to: KEPT, plural: "kepts" })
+test("a page stating no plural is refused where one is said", () => {
+  const world = worldIn(scratch.rootFor("slug-renaming-"), holding(WHOLE))
+  const said = slugRenamed(world, { at: PAGE, to: KEPT, plural: "kepts" })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(`\`${PAGE}\` states no \`pluralSlug\`, so no plural is said`)
 })
 
-test("the plural is stated anew beside the slug", async () => {
-  const root = indexedRepo()
-  const text = textIn(root)
-  const held = (text(HELD_PAGE) ?? "").replace(
+const pluralIn = (text: (path: string) => string | null): string =>
+  (text(HELD_PAGE) ?? "").replace(
     `"slug": "${HELD_SLUG}",`,
     `"slug": "${HELD_SLUG}",\n  "pluralSlug": "helds",`
   )
+
+test("the plural is stated anew beside the slug", () => {
+  const root = indexedRepo()
+  const text = textIn(root)
+  const held = pluralIn(text)
   const world = worldIn(root, (path) => (path === HELD_PAGE ? held : text(path)))
-  const said = await renameSlug(world, { at: HELD_PAGE, to: KEPT, plural: "kepts" })
+  const said = slugRenamed(world, { at: HELD_PAGE, to: KEPT, plural: "kepts" })
   expect(said.refused).toBe(null)
   expect(bodyAfter(said, world, HELD_PAGE)).toContain(`"pluralSlug": "kepts"`)
   expect(bodyAfter(said, world, HELD_PAGE)).toContain(`"slug": "${KEPT}"`)
 })
 
-test("the plural and the export rename are answered by the module, reaching nothing", async () => {
+test("the plural and the export are answered here, reaching nothing", () => {
   const reached: string[] = []
   const root = indexedRepo()
   const text = textIn(root)
-  const held = (text(HELD_PAGE) ?? "").replace(
-    `"slug": "${HELD_SLUG}",`,
-    `"slug": "${HELD_SLUG}",\n  "pluralSlug": "helds",`
-  )
+  const held = pluralIn(text)
   const world = worldAt(root, (path) => (path === HELD_PAGE ? held : text(path)), listing(reached))
 
-  const said = await renameSlug(world, { at: HELD_PAGE, to: KEPT, plural: "kepts" })
+  const said = slugRenamed(world, { at: HELD_PAGE, to: KEPT, plural: "kepts" })
 
   expect(said.refused).toBe(null)
   expect(reached).toEqual([])
@@ -286,10 +282,10 @@ test("a namer is filed under its property page's slug rather than under its key"
   })
 })
 
-test("a name under a key its property page's slug does not spell is restated", async () => {
+test("a name under a key its property page's slug does not spell is restated", () => {
   const root = keyedRepo()
   const world = worldIn(root, textIn(root))
-  const said = await renameSlug(world, { at: HELD_PAGE, to: KEPT })
+  const said = slugRenamed(world, { at: HELD_PAGE, to: KEPT })
   expect(said.refused).toBe(null)
   expect(bodyAfter(said, world, KEYED_NAMER)).toContain(`"${KEYED_KEY}": "${KEPT}"`)
   expect(bodyAfter(said, world, KEYED_NAMER)).not.toContain(`"${HELD_SLUG}"`)

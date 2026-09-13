@@ -6,6 +6,7 @@ export const slugRenaming = {
   slug: "slug-renaming",
   definition: "one page's slug restated in its own body, in every page naming it and in its export",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "constraint",
