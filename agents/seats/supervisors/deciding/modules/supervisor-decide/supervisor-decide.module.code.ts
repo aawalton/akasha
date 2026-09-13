@@ -8,8 +8,8 @@ import {
   parseRestartNotice,
   parseUncertainWait,
   parseWaitResume,
-} from "akasha/agents/seats/supervisors/modules/supervisor-decide-payload/supervisor-decide-payload.module.code.ts"
-import { RULE_DECISIONS } from "akasha/agents/seats/supervisors/modules/supervisor-decide-rules/supervisor-decide-rules.module.code.ts"
+} from "akasha/agents/seats/supervisors/deciding/modules/supervisor-decide-payload/supervisor-decide-payload.module.code.ts"
+import { RULE_DECISIONS } from "akasha/agents/seats/supervisors/deciding/modules/supervisor-decide-rules/supervisor-decide-rules.module.code.ts"
 import {
   decideLimitResume,
   LIMIT_RESUME_FLOOR_MS,
