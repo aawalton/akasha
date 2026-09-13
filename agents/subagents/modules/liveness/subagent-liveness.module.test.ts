@@ -3,7 +3,7 @@ import {
   livenessOf,
   namedAmong,
   readOf,
-} from "akasha/seat-system/subagents/modules/liveness/subagent-liveness.module.code.ts"
+} from "akasha/agents/subagents/modules/liveness/subagent-liveness.module.code.ts"
 
 const OWN = "a38f63805f9b94edf"
 

@@ -2,6 +2,10 @@ import { cpSync, existsSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { blobIdOf, recordRead } from "akasha/agents/modules/read-record/read-record.module.code.ts"
 import { bodyOf } from "akasha/agents/subagents/modules/body/subagent-body.module.code.ts"
+import type {
+  Liveness,
+  Reading,
+} from "akasha/agents/subagents/modules/liveness/subagent-liveness.module.code.ts"
 import {
   seatEditsAt,
   seatRefusalsAt,
@@ -15,10 +19,6 @@ import {
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
 import { refreshedIn } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
-import type {
-  Liveness,
-  Reading,
-} from "akasha/seat-system/subagents/modules/liveness/subagent-liveness.module.code.ts"
 import {
   pathOf,
   slugOf,
