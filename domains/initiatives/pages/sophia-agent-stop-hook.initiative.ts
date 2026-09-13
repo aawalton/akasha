@@ -16,7 +16,7 @@ export const sophiaAgentStopHook = {
       statement:
         "Each of the five directives Alan's page states has a judge that misfires on nothing.",
       workingMemory:
-        "Three of five have judges. Over the 413 cases, `directive-kept` catches 15 and 18 of 34 for Neither Clock Nor Meter with the machine-ceiling carve-out landed, and `one-at-a-time-kept` 13 of 24; each refuses a clean turn. No Commentary is judged by two signs whose union catches 14 of 64 and refuses nothing clean. Wordings that trade recall away do not buy precision: at 2 and 3 of 24 the One At A Time misfires only fell inside the noise, and a two-word change brought them back.",
+        "Three of five have judges. Over their union they catch 60 of 240 breaches and refuse none of 173 clean turns. A fourth, for Don't Stop!, doubles that to 120 of 240 — the largest single gain here — and waits only on the key settling under Alan's ruling. `still-waiting-kept` is built and kept off the hook on purpose: it adds 8 catches and one deterministic refusal, buying three points of recall at the cost of the zero.\n",
     },
     {
       statement:
