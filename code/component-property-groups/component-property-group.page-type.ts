@@ -10,20 +10,10 @@ export const componentPropertyGroup = {
   pluralSlug: "component-property-groups",
   extends: ["page-type/file-property-group"],
   properties: [
+    { pageProperty: "code-file-property/code", required: true, many: false, fixed: "tsx" },
+    { pageProperty: "code-file-property/test", required: false, many: false, fixed: "tsx" },
     {
-      pageProperty: "code-file-property/component-code",
-      required: true,
-      many: false,
-      fixed: "tsx",
-    },
-    {
-      pageProperty: "code-file-property/component-test",
-      required: false,
-      many: false,
-      fixed: "tsx",
-    },
-    {
-      pageProperty: "code-file-property/component-test-fixtures",
+      pageProperty: "code-file-property/test-fixtures",
       required: false,
       many: false,
       fixed: "tsx",
