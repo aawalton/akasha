@@ -7,13 +7,13 @@ import {
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import {
-  calledIn,
-  objectIn,
-} from "akasha/code/modules/package-manifest/package-manifest.module.code.ts"
-import {
   landingOf,
   specifiersIn,
 } from "akasha/code/reading/modules/specifier/code-specifier.module.code.ts"
+import {
+  calledIn,
+  objectIn,
+} from "akasha/code/workspaces/modules/package-manifest/package-manifest.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { pageOf, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"

@@ -1,10 +1,10 @@
 import { dirname, join, normalize } from "node:path"
 import { listWorkspaceDirs } from "akasha/alan/harness/workspace-paths/modules/workspace-dirs/workspace-dirs.module.code.ts"
+import type { Naming } from "akasha/code/reading/modules/specifier/code-specifier.module.code.ts"
 import {
   reachesIn,
   reachingOver,
-} from "akasha/code/modules/package-manifest/package-manifest.module.code.ts"
-import type { Naming } from "akasha/code/reading/modules/specifier/code-specifier.module.code.ts"
+} from "akasha/code/workspaces/modules/package-manifest/package-manifest.module.code.ts"
 import { AGENT_SETTINGS_PATH } from "akasha/seat-system/supervising/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
 import { textThere } from "akasha/utils/fs/modules/text-there/text-there.module.code.ts"
 

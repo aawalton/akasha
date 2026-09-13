@@ -5,7 +5,7 @@ import type {
   FileChange,
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { reachesIn } from "akasha/code/modules/package-manifest/package-manifest.module.code.ts"
+import { reachesIn } from "akasha/code/workspaces/modules/package-manifest/package-manifest.module.code.ts"
 import { manifestsIn } from "akasha/pages/indexes/modules/package-reaching/package-reaching.module.code.ts"
 import { importingOf } from "akasha/pages/indexes/modules/path-naming/path-naming.module.code.ts"
 

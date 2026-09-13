@@ -19,11 +19,11 @@ import {
   namingIn,
   refusalOf,
 } from "akasha/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.decision.code.ts"
+import { typed } from "akasha/code/reading/modules/typing/code-typing.module.code.ts"
 import {
   calledIn,
   objectIn,
-} from "akasha/code/modules/package-manifest/package-manifest.module.code.ts"
-import { typed } from "akasha/code/reading/modules/typing/code-typing.module.code.ts"
+} from "akasha/code/workspaces/modules/package-manifest/package-manifest.module.code.ts"
 import { manifestsIn } from "akasha/pages/indexes/modules/package-reaching/package-reaching.module.code.ts"
 import { importingOf } from "akasha/pages/indexes/modules/path-naming/path-naming.module.code.ts"
 import { matchingIn } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"

@@ -5,7 +5,7 @@ import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.m
 import {
   calledIn,
   dependsIn,
-} from "akasha/code/modules/package-manifest/package-manifest.module.code.ts"
+} from "akasha/code/workspaces/modules/package-manifest/package-manifest.module.code.ts"
 import { manifestsIn } from "akasha/pages/indexes/modules/package-reaching/package-reaching.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 

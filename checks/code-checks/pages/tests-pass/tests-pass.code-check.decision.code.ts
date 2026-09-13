@@ -5,7 +5,6 @@ import {
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import { costSpawned, recordCost } from "akasha/checks/modules/cost/check-cost.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { calledIn } from "akasha/code/modules/package-manifest/package-manifest.module.code.ts"
 import type {
   Bodies,
   Body,
@@ -23,6 +22,7 @@ import {
   spentOver,
   testsBesideOf,
 } from "akasha/code/running/modules/tests/code-tests.module.code.ts"
+import { calledIn } from "akasha/code/workspaces/modules/package-manifest/package-manifest.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { endingOf } from "akasha/utils/run/modules/running/running.module.code.ts"
