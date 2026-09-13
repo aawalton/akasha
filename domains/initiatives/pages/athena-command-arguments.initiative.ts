@@ -9,11 +9,6 @@ export const athenaCommandArguments = {
   parent: "athena-commands-cleanup",
   intents: [
     {
-      statement: "Every argument a command takes is a page.",
-      workingMemory:
-        "338 argument pages and 766 entries at `2422666aa8c` name exactly those 338. Two flags reach `alan tracking` that no page names, both out of shared `file-arguing`. `--break-the-glass` is refused by name, and the refusal's warrant is void: `MECHANICAL_KIND` carries `checks: false` and `runMechanicalChange` passes `NO_GATE` anyway, so no check judges this landing. `--restated` is admitted and swaps the kind. Four of the page's fourteen invariants became gaps at `4a27c8931ad`. Alan's.\n",
-    },
-    {
       statement: "A command names the arguments it takes and narrows each.",
       workingMemory:
         "Naming holds, and narrowing now lands: `Holding` emits a forbidden member as `?: undefined`, read per pair rather than per group, at `2a09c5c9b5d`. 24 pages, 29 groups, 22 exclusive, 7 mixed; a mixed group narrows the pairs it forbids and no more. A member always answered — required, repeating, `value: none`, defaulted — takes no such form. Only `value` narrows a kind, and 250 of 338 pages carry `text` or `path`, which fall through to the raw string. `path` naming two policies is Alan's.\n",
