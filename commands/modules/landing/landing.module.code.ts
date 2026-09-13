@@ -69,6 +69,7 @@ import {
 import { committed, whileIndexFrees } from "akasha/git/modules/committing/committing.module.code.ts"
 import { holding } from "akasha/git/modules/holding/holding.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
+import { underIndex } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
 import { partUnfiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
@@ -294,10 +295,11 @@ export async function landing(
   const swept = sweptOff(root, changes)
   const carried = swept.length === 0 ? changes : [...changes, ...swept]
   const { edits, moves } = splitIn(root, carried)
+  const judgedOver = carried.filter((one) => !pathsOf(one).every(underIndex))
   const change =
     over !== null && moves.length === 0 && swept.length === 0
       ? over
-      : changeOf(root, judgedAt, carried)
+      : changeOf(root, judgedAt, judgedOver)
   const said = await judged(judging, change)
   const orphaned = orphaningIn(change, absentAfter(edits, moves))
   if (orphaned.length > 0) {

@@ -23,6 +23,10 @@ export function indexIn(root: string): string {
   return join(root, INDEX_AT)
 }
 
+export function underIndex(path: string): boolean {
+  return path.startsWith(`${INDEX_AT}${SLASH}`)
+}
+
 export function indexAt(indexName: string, ...parts: readonly string[]): string {
   return join(INDEX_AT, indexName, ...parts)
 }

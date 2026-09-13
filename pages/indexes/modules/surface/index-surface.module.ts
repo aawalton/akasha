@@ -154,5 +154,9 @@ export const indexSurface = {
       invariantKind: "departure",
       statement: "A reading laid over another answers the directory the one beneath it reads from.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Whether a path in the repository is a path under the index is answered here.",
+    },
   ],
 } as const satisfies Module

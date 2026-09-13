@@ -340,5 +340,10 @@ export const landing = {
       invariantKind: "departure",
       statement: "A change the checks refused is a fault of the data.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A change is judged over its own files rather than over the index answers it carries.",
+    },
   ],
 } as const satisfies Module
